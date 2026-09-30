@@ -5,13 +5,6 @@ status: unread
 ---
 # nonsocial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants and animals; not growing or living in groups or colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants and animals; not growing or living in groups or colonies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsocial designates of plants and animals; not growing or living in groups or colonies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants and animals; not growing or living in groups or colonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants and animals; not growing or living in groups or colonies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsocial designates of plants and animals; not growing or living in groups or colonies."*

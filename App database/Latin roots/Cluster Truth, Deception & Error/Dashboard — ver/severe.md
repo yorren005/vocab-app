@@ -5,15 +5,6 @@ status: unread
 ---
 # severe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely or extremely bad or unpleasant in degree or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very strong or vigorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, York; if we conclude a peace, It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have laboured for the poor gentleman to the extremest shore of my modesty, but my brother justice have I found so severe that he hath forced me to tell him he is indeed Justice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely or extremely bad or unpleasant in degree or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very strong or vigorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, York; if we conclude a peace, It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have laboured for the poor gentleman to the extremest shore of my modesty, but my brother justice have I found so severe that he hath forced me to tell him he is indeed Justice."*

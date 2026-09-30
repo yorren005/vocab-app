@@ -5,15 +5,6 @@ status: unread
 ---
 # eccentricity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strange and unconventional behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He knew her so well that no eccentricity of behaviour in her would alarm him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Besides, the eccentricity of the proceeding was piquant: I felt interested to see how he would go on."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man who does that is always charged with eccentricity, inconsistency, and that kind of thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strange and unconventional behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He knew her so well that no eccentricity of behaviour in her would alarm him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Besides, the eccentricity of the proceeding was piquant: I felt interested to see how he would go on."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A man who does that is always charged with eccentricity, inconsistency, and that kind of thing."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # discontinuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a function or curve; possessing one or more discontinuities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not continuing without interruption in time or space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absurd answer (that Achilles could never overtake the tortoise) resulted from this: that motion was arbitrarily divided into discontinuous elements, whereas the motion both of Achilles and of the tortoise was continuous."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Examining the panels with care I found them discontinuous with the frames."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a function or curve; possessing one or more discontinuities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not continuing without interruption in time or space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absurd answer (that Achilles could never overtake the tortoise) resulted from this: that motion was arbitrarily divided into discontinuous elements, whereas the motion both of Achilles and of the tortoise was continuous."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Examining the panels with care I found them discontinuous with the frames."*

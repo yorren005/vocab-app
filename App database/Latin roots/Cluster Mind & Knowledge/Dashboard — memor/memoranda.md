@@ -5,15 +5,6 @@ status: unread
 ---
 # memoranda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written proposal or reminder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written proposal or reminder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The children tumbled about, and notched memoranda of their accidents in their legs, which were perfect little calendars of distress; and Peepy was lost for an hour and a half, and brought home from Newgate market by a policeman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, crossing his arms, holding his head on one side, and scratching the corner of his mouth with his memoranda."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He also read some passages from memoranda as he walked till his face assumed a calm, and apparently the image of Tess no longer troubled his mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written proposal or reminder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written proposal or reminder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The children tumbled about, and notched memoranda of their accidents in their legs, which were perfect little calendars of distress; and Peepy was lost for an hour and a half, and brought home from Newgate market by a policeman."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, crossing his arms, holding his head on one side, and scratching the corner of his mouth with his memoranda."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He also read some passages from memoranda as he walked till his face assumed a calm, and apparently the image of Tess no longer troubled his mind."*

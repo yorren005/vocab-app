@@ -5,13 +5,6 @@ status: unread
 ---
 # viridity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Green color or pigment; resembling the color of growing grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Green color or pigment; resembling the color of growing grass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viridity designates green color or pigment; resembling the color of growing grass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Green color or pigment; resembling the color of growing grass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Green color or pigment; resembling the color of growing grass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viridity designates green color or pigment; resembling the color of growing grass."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # undistinguishable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being distinguished or differentiated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being distinguished or differentiated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fold stands empty in the drownèd field, And crows are fatted with the murrion flock; The nine-men’s-morris is fill’d up with mud, And the quaint mazes in the wanton green, For lack of tread, are undistinguishable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These things seem small and undistinguishable, Like far-off mountains turnèd into clouds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dogs, undistinguishable in mire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being distinguished or differentiated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being distinguished or differentiated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fold stands empty in the drownèd field, And crows are fatted with the murrion flock; The nine-men’s-morris is fill’d up with mud, And the quaint mazes in the wanton green, For lack of tread, are undistinguishable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These things seem small and undistinguishable, Like far-off mountains turnèd into clouds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Dogs, undistinguishable in mire."*

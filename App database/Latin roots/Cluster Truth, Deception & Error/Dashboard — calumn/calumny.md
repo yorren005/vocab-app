@@ -5,15 +5,6 @@ status: unread
 ---
 # calumny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive attack on a person's character or good name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My unsoiled name, th’ austereness of my life, My vouch against you, and my place i’ th’ state Will so your accusation overweigh That you shall stifle in your own report, And smell of calumny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back-wounding calumny The whitest virtue strikes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive attack on a person's character or good name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My unsoiled name, th’ austereness of my life, My vouch against you, and my place i’ th’ state Will so your accusation overweigh That you shall stifle in your own report, And smell of calumny."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back-wounding calumny The whitest virtue strikes."*

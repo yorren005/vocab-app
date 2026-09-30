@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalopodan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to the class cephalopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating or belonging to the class cephalopoda.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalopodan designates relating or belonging to the class cephalopoda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to the class cephalopoda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating or belonging to the class cephalopoda.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalopodan designates relating or belonging to the class cephalopoda."*

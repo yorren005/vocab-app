@@ -5,13 +5,6 @@ status: unread
 ---
 # commutative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a binary operation) independent of order; as in e.g.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a binary operation) independent of order; as in e.g.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutative designates (of a binary operation) independent of order; as in e.g."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a binary operation) independent of order; as in e.g.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a binary operation) independent of order; as in e.g.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutative designates (of a binary operation) independent of order; as in e.g."*

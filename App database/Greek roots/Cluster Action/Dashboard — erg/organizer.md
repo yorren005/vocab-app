@@ -5,15 +5,6 @@ status: unread
 ---
 # organizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who brings order and organization to an enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who enlists workers to join a union.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Foremost among these noble women, as the almoner of their bounty, and the organizer of their efforts, stands the subject of this sketch, Mrs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They drank to Bekleshëv, Narýshkin, Uvárov, Dolgorúkov, Apráksin, Valúev, to the committee, to all the club members and to all the club guests, and finally to Count Ilyá Rostóv separately, as the organizer of the banquet."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"No citizen is in control of more potent influence for good or ill than the successful business organizer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who brings order and organization to an enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who enlists workers to join a union.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Foremost among these noble women, as the almoner of their bounty, and the organizer of their efforts, stands the subject of this sketch, Mrs."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They drank to Bekleshëv, Narýshkin, Uvárov, Dolgorúkov, Apráksin, Valúev, to the committee, to all the club members and to all the club guests, and finally to Count Ilyá Rostóv separately, as the organizer of the banquet."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"No citizen is in control of more potent influence for good or ill than the successful business organizer."*

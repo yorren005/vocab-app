@@ -5,14 +5,6 @@ status: unread
 ---
 # haltingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a halting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a halting manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Now tell me," she urged, "the whole story." Haltingly he told the tale, though the process hurt."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"She went on haltingly, "Why, Martin, you saved the wrong one!" He raised his head from the pillow then; a strangling sound came from his lips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a halting manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a halting manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Now tell me," she urged, "the whole story." Haltingly he told the tale, though the process hurt."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"She went on haltingly, "Why, Martin, you saved the wrong one!" He raised his head from the pillow then; a strangling sound came from his lips."*

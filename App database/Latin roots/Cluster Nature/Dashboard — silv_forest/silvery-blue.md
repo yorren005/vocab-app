@@ -5,13 +5,6 @@ status: unread
 ---
 # silvery-blue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a color that is a light shiny blue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a color that is a light shiny blue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silvery-blue designates of something having a color that is a light shiny blue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a color that is a light shiny blue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a color that is a light shiny blue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silvery-blue designates of something having a color that is a light shiny blue."*

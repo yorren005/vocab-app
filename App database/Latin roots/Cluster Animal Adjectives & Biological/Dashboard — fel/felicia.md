@@ -5,13 +5,6 @@ status: unread
 ---
 # felicia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical african herbs or subshrubs with usually blue flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical african herbs or subshrubs with usually blue flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Once he approached Miss Felicia Dorothea Browne (afterwards Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical african herbs or subshrubs with usually blue flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical african herbs or subshrubs with usually blue flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Once he approached Miss Felicia Dorothea Browne (afterwards Mrs."*

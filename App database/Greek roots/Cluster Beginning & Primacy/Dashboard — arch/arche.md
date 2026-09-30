@@ -5,15 +5,6 @@ status: unread
 ---
 # arche
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And now the moon rises to separate them, and to glimmer here and there in horizontal lines behind their stems, and to make the avenue a pavement of light among high cathedral arches fantastically broken."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare turned at hearing her footsteps, but his recognition of her presence seemed to make no difference to him, and he went on over the five yawning arches of the great bridge in front of the house."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe talked to his horse, and she meditated, by turns, on broken promises and broken arches, phaetons and false hangings, Tilneys and trap-doors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And now the moon rises to separate them, and to glimmer here and there in horizontal lines behind their stems, and to make the avenue a pavement of light among high cathedral arches fantastically broken."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare turned at hearing her footsteps, but his recognition of her presence seemed to make no difference to him, and he went on over the five yawning arches of the great bridge in front of the house."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe talked to his horse, and she meditated, by turns, on broken promises and broken arches, phaetons and false hangings, Tilneys and trap-doors."*

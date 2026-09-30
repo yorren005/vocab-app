@@ -5,15 +5,6 @@ status: unread
 ---
 # culpable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving blame or censure as being wrong or evil or injurious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving blame or censure as being wrong or evil or injurious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, take your places; and, I pray you all, Proceed no straiter ’gainst our uncle Gloucester Than from true evidence of good esteem He be approved in practice culpable."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could intensity of love justify what might be considered in upright souls as culpable reticence?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The results of what you have done become in time to you utterly insupportable; you take measures to obtain relief: unusual measures, but neither unlawful nor culpable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving blame or censure as being wrong or evil or injurious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving blame or censure as being wrong or evil or injurious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, take your places; and, I pray you all, Proceed no straiter ’gainst our uncle Gloucester Than from true evidence of good esteem He be approved in practice culpable."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could intensity of love justify what might be considered in upright souls as culpable reticence?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The results of what you have done become in time to you utterly insupportable; you take measures to obtain relief: unusual measures, but neither unlawful nor culpable."*

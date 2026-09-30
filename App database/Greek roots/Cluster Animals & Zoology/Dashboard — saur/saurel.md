@@ -5,13 +5,6 @@ status: unread
 ---
 # saurel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large elongated compressed food fish of the atlantic waters of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A california food fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saurel designates large elongated compressed food fish of the atlantic waters of europe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large elongated compressed food fish of the atlantic waters of europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A california food fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saurel designates large elongated compressed food fish of the atlantic waters of europe."*

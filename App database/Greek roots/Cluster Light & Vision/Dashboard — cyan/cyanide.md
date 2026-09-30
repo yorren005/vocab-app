@@ -5,15 +5,6 @@ status: unread
 ---
 # cyanide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of cyanogen with a more electropositive element or group: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Potassium cyanide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The great example of this operation is the familiar "cyanide" process."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In applying this scientific fact to the purpose of recovering gold from the concentrates, the latter are placed in vats with a weak solution of the cyanide in water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of cyanogen with a more electropositive element or group: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Potassium cyanide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The great example of this operation is the familiar "cyanide" process."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In applying this scientific fact to the purpose of recovering gold from the concentrates, the latter are placed in vats with a weak solution of the cyanide in water."*

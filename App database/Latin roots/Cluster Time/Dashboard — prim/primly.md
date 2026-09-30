@@ -5,15 +5,6 @@ status: unread
 ---
 # primly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prissy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prissy manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It is only make-believe, isn’t it, that I am their father?” “Oh yes,” Wendy said primly."*
-> - 📜 **Effie Afton (*Eventide*):** *"Then Miss Martha Pinkerton comes primly on, with Mrs."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I fought down an inclination to laugh, _hoped_ that I conquered an inclination to blush, and said primly:-- "My dears, you must not be exacting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prissy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prissy manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It is only make-believe, isn’t it, that I am their father?” “Oh yes,” Wendy said primly."*
+> - 📜 **Effie Afton (*Eventide*):** *"Then Miss Martha Pinkerton comes primly on, with Mrs."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I fought down an inclination to laugh, _hoped_ that I conquered an inclination to blush, and said primly:-- "My dears, you must not be exacting."*

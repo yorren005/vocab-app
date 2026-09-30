@@ -5,15 +5,6 @@ status: unread
 ---
 # refract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to refraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the refracting power of (a lens).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We see, then, that the effect which a fog produces is mainly to refract the light rays."*
-> - 📜 **James Joyce (*Ulysses*):** *"Black conducts, reflects, (refracts is it?), the heat."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was near noon; I knew by the perpendicularity of the sun’s rays, which were no longer refracted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to refraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the refracting power of (a lens).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We see, then, that the effect which a fog produces is mainly to refract the light rays."*
+> - 📜 **James Joyce (*Ulysses*):** *"Black conducts, reflects, (refracts is it?), the heat."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was near noon; I knew by the perpendicularity of the sun’s rays, which were no longer refracted."*

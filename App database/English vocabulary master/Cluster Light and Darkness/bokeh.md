@@ -5,20 +5,6 @@ status: unread
 ---
 # bokeh
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (photography) a subjective aesthetic quality of out-of-focus areas of an image projected by a camera lens
-> 2. **Nuance / Usage**: The blurred quality or effect seen in the out-of-focus portion of a photograph taken with a narrow depth of field
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bokeh withstood the storm*), direct object (*cleaved the bokeh*), or prepositional anchor (*amidst the bokeh*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Krista Smith (*The Right Light: Photographing Children and Families Using Natural Light*):** *"More expensive lenses usually go down to f/2.8, letting you shoot at faster shutter speeds and get great, creamy bokeh in your background."*
-> - 📜 **Charlotte K. Lowrie (*Canon EOS Rebel T2i/550D Digital Field Guide*):** *"Bokeh is a Japanese word that describes the out-of-focus background blur produced by a lens."*
-> - 📜 **Bob Davis & Dawn Davis (*Lights, Camera, Capture: Creative Lighting Techniques*):** *"Selective focus allows you to isolate your subject against a beautifully soft bokeh, directing the viewer’s eye straight to the heart of the image."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (photography) a subjective aesthetic quality of out-of-focus areas of an image projected by a camera lens
+> 2. **Nuance / Usage**: The blurred quality or effect seen in the out-of-focus portion of a photograph taken with a narrow depth of field
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bokeh withstood the storm*), direct object (*cleaved the bokeh*), or prepositional anchor (*amidst the bokeh*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Krista Smith (*The Right Light: Photographing Children and Families Using Natural Light*):** *"More expensive lenses usually go down to f/2.8, letting you shoot at faster shutter speeds and get great, creamy bokeh in your background."*
+> - 📜 **Charlotte K. Lowrie (*Canon EOS Rebel T2i/550D Digital Field Guide*):** *"Bokeh is a Japanese word that describes the out-of-focus background blur produced by a lens."*
+> - 📜 **Bob Davis & Dawn Davis (*Lights, Camera, Capture: Creative Lighting Techniques*):** *"Selective focus allows you to isolate your subject against a beautifully soft bokeh, directing the viewer’s eye straight to the heart of the image."*

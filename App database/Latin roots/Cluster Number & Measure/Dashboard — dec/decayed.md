@@ -5,15 +5,6 @@ status: unread
 ---
 # decayed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose a stored charge, magnetic flux, or current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fall into decay or ruin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My decayed fair A sunny look of his would soon repair; But, too unruly deer, he breaks the pale And feeds from home; poor I am but his stale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose a stored charge, magnetic flux, or current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fall into decay or ruin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My decayed fair A sunny look of his would soon repair; But, too unruly deer, he breaks the pale And feeds from home; poor I am but his stale."*

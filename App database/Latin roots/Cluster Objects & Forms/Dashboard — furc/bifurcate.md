@@ -5,14 +5,6 @@ status: unread
 ---
 # bifurcate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Split or divide into two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two branches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"DOCK MOULD; threads of the mycelium slender; fertile threads fasciculate, erect, simple, rarely bifurcate, attenuated upwards; acrospores large, ellipsoid, attached obliquely near the base.—On the under surface of dock leaves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This valley bifurcates to the parallel of the Antilles, and terminates at the north by the enormous depression of 9,000 yards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Split or divide into two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two branches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"DOCK MOULD; threads of the mycelium slender; fertile threads fasciculate, erect, simple, rarely bifurcate, attenuated upwards; acrospores large, ellipsoid, attached obliquely near the base.—On the under surface of dock leaves."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This valley bifurcates to the parallel of the Antilles, and terminates at the north by the enormous depression of 9,000 yards."*

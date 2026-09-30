@@ -5,13 +5,6 @@ status: unread
 ---
 # cantankerously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bad mood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bad mood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantankerously designates in a bad mood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bad mood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bad mood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantankerously designates in a bad mood."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # consenting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an affirmative reply to; respond favorably to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having given consent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither call the giddiness of it in question, the poverty of her, the small acquaintance, my sudden wooing, nor her sudden consenting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In such a one as, you consenting to’t, Would bark your honour from that trunk you bear, And leave you naked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an affirmative reply to; respond favorably to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having given consent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither call the giddiness of it in question, the poverty of her, the small acquaintance, my sudden wooing, nor her sudden consenting."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In such a one as, you consenting to’t, Would bark your honour from that trunk you bear, And leave you naked."*

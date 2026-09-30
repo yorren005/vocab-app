@@ -5,14 +5,6 @@ status: unread
 ---
 # illustrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the Sung period the current ideas with regard to these patterns were expressed by the illustrator of the Sung edition of the _Li Chi_ by ornamenting jade discs, in the one case with ears of wheat and in the other with a clump of rushes."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The contrasting colors made the braiding process clearly visible and more understandable. *** I was invited by the Resource Teacher of a local elementary school to participate in their Authors and Illustrators Invitational."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the Sung period the current ideas with regard to these patterns were expressed by the illustrator of the Sung edition of the _Li Chi_ by ornamenting jade discs, in the one case with ears of wheat and in the other with a clump of rushes."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The contrasting colors made the braiding process clearly visible and more understandable. *** I was invited by the Resource Teacher of a local elementary school to participate in their Authors and Illustrators Invitational."*

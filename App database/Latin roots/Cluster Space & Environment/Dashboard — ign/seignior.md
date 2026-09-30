@@ -5,14 +5,6 @@ status: unread
 ---
 # seignior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man of rank in the ancient regime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man of rank in the ancient regime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from _seignior_ (meaning lord or ruler)."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from seignior (meaning lord or ruler)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man of rank in the ancient regime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man of rank in the ancient regime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from _seignior_ (meaning lord or ruler)."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from seignior (meaning lord or ruler)."*

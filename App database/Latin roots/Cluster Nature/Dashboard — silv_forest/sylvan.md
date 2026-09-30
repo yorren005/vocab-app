@@ -5,15 +5,6 @@ status: unread
 ---
 # sylvan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit that lives in or frequents the woods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of wooded regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All this sylvan antiquity, however, though visible from The Slopes, was outside the immediate boundaries of the estate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The darkness of natural as well as of sylvan dusk gathered over me."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In antiquity this sylvan landscape was the scene of a strange and recurring tragedy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit that lives in or frequents the woods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of wooded regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All this sylvan antiquity, however, though visible from The Slopes, was outside the immediate boundaries of the estate."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The darkness of natural as well as of sylvan dusk gathered over me."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In antiquity this sylvan landscape was the scene of a strange and recurring tragedy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # impersonally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impersonal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And when he died, I was very sorry, but impersonally sorry ... as if something nice in the world had been gone ... a swan shot...."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is scarcely decorous, however, to speak all, even where we speak impersonally."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He always calls them impersonally 'they' or 'it.' He doesn't see much of them anyway, now, I understand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warmth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impersonal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And when he died, I was very sorry, but impersonally sorry ... as if something nice in the world had been gone ... a swan shot...."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is scarcely decorous, however, to speak all, even where we speak impersonally."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He always calls them impersonally 'they' or 'it.' He doesn't see much of them anyway, now, I understand."*

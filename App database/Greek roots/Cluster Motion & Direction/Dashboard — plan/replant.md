@@ -5,15 +5,6 @@ status: unread
 ---
 # replant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant again or anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant again or anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will revenge his wrong to Lady Bona, And replant Henry in his former state."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The garden has been weeded, replanted, trained, clipped and garnished, and my arms are as husky and strong as a boy's and my nose badly sunburned from my strenuosity with hoe and trimming scissors."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"All the proprietors of the surrounding places occupied themselves with the same task, and they directed the work of devastation with as much coolness as if they were watering or replanting, or busy with the grape harvest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant again or anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant again or anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will revenge his wrong to Lady Bona, And replant Henry in his former state."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The garden has been weeded, replanted, trained, clipped and garnished, and my arms are as husky and strong as a boy's and my nose badly sunburned from my strenuosity with hoe and trimming scissors."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"All the proprietors of the surrounding places occupied themselves with the same task, and they directed the work of devastation with as much coolness as if they were watering or replanting, or busy with the grape harvest."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dactylology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Finger spelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of individual letters and numbers using standardized finger positions —called also dactylology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylology designates finger spelling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Finger spelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of individual letters and numbers using standardized finger positions —called also dactylology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylology designates finger spelling."*

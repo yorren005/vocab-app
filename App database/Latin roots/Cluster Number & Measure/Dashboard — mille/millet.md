@@ -5,15 +5,6 @@ status: unread
 ---
 # millet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small-grained annual cereal and forage grasses of the genera panicum, echinochloa, setaria, sorghum, and eleusine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter of rural scenes (1814-1875).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, they ate a sort of millet, and pickles of astounding variety and ungodly hot."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The valley was narrow, not long, and the swift slope of its floor and the steep walls of its rim were terraced for the growing of rice and of millet—the first rice and millet we Sons of the Mountain had known."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For we had found the mud granaries filled with rice and millet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small-grained annual cereal and forage grasses of the genera panicum, echinochloa, setaria, sorghum, and eleusine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter of rural scenes (1814-1875).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, they ate a sort of millet, and pickles of astounding variety and ungodly hot."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The valley was narrow, not long, and the swift slope of its floor and the steep walls of its rim were terraced for the growing of rice and of millet—the first rice and millet we Sons of the Mountain had known."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For we had found the mud granaries filled with rice and millet."*

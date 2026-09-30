@@ -5,14 +5,6 @@ status: unread
 ---
 # vulpine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a fox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a fox.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet such is the vulpine slyness of Dame Nature, that, till now, Tess had been hoodwinked by her love for Clare into forgetting it might result in vitalizations that would inflict upon others what she had bewailed as misfortune to herself."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The wicked wolf that for half a day had paralysed London and set all the children in the town shivering in their shoes, was there in a sort of penitent mood, and was received and petted like a sort of vulpine prodigal son."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a fox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a fox.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet such is the vulpine slyness of Dame Nature, that, till now, Tess had been hoodwinked by her love for Clare into forgetting it might result in vitalizations that would inflict upon others what she had bewailed as misfortune to herself."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The wicked wolf that for half a day had paralysed London and set all the children in the town shivering in their shoes, was there in a sort of penitent mood, and was received and petted like a sort of vulpine prodigal son."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # terrestrial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or inhabiting the land as opposed to the sea or air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the planet earth or its inhabitants; - l.c.eiseley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, he gives me the proverbs and the no-verbs. [_To Caius_.] Give me thy hand, terrestrial; so. [_To Evans_.] Give me thy hand, celestial; so."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet however terrestrial and lumpy their appearance just now to the mean unglamoured eye, to themselves the case was different."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or inhabiting the land as opposed to the sea or air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the planet earth or its inhabitants; - l.c.eiseley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, he gives me the proverbs and the no-verbs. [_To Caius_.] Give me thy hand, terrestrial; so. [_To Evans_.] Give me thy hand, celestial; so."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet however terrestrial and lumpy their appearance just now to the mean unglamoured eye, to themselves the case was different."*
+> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vocational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a vocation or occupation; especially providing or undergoing training in special skills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a vocation or occupation; especially providing or undergoing training in special skills.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocational designates of or relating to a vocation or occupation; especially providing or undergoing training in special skills."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a vocation or occupation; especially providing or undergoing training in special skills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a vocation or occupation; especially providing or undergoing training in special skills.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocational designates of or relating to a vocation or occupation; especially providing or undergoing training in special skills."*

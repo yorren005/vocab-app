@@ -5,15 +5,6 @@ status: unread
 ---
 # evergreen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant having foliage that persists and remains green throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of plants and shrubs) bearing foliage throughout the year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The stables, partly screened by Austrian pines and evergreen oaks, and fitted with every late appliance, were as dignified as Chapels-of-Ease."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was somewhat disguised from the road in passing it by yews and evergreen oaks, but it was visible enough up here."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is generally cut from an evergreen oak, but sometimes from an olive-tree or a beech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant having foliage that persists and remains green throughout the year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of plants and shrubs) bearing foliage throughout the year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The stables, partly screened by Austrian pines and evergreen oaks, and fitted with every late appliance, were as dignified as Chapels-of-Ease."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was somewhat disguised from the road in passing it by yews and evergreen oaks, but it was visible enough up here."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is generally cut from an evergreen oak, but sometimes from an olive-tree or a beech."*

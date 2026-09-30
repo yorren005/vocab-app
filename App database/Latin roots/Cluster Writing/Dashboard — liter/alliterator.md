@@ -5,13 +5,6 @@ status: unread
 ---
 # alliterator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker or writer who makes use of alliteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speaker or writer who makes use of alliteration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alliterator designates a speaker or writer who makes use of alliteration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker or writer who makes use of alliteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speaker or writer who makes use of alliteration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alliterator designates a speaker or writer who makes use of alliteration."*

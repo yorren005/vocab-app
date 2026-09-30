@@ -5,13 +5,6 @@ status: unread
 ---
 # levodopa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levodopa designates the levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levodopa designates the levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease."*

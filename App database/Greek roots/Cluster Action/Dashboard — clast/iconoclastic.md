@@ -5,13 +5,6 @@ status: unread
 ---
 # iconoclastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by attack on established beliefs or institutions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destructive of images used in religious worship; said of religions, such as islam, in which the representation of living things is prohibited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoclastic designates characterized by attack on established beliefs or institutions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by attack on established beliefs or institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destructive of images used in religious worship; said of religions, such as islam, in which the representation of living things is prohibited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoclastic designates characterized by attack on established beliefs or institutions."*

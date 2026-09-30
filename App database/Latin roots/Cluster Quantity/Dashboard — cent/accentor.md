@@ -5,13 +5,6 @@ status: unread
 ---
 # accentor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small sparrow-like songbird of mountainous regions of eurasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small sparrow-like songbird of mountainous regions of eurasia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accentor designates small sparrow-like songbird of mountainous regions of eurasia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small sparrow-like songbird of mountainous regions of eurasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small sparrow-like songbird of mountainous regions of eurasia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accentor designates small sparrow-like songbird of mountainous regions of eurasia."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # archon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief magistrate in ancient Athens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A presiding officer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Archon of Plataea might not touch iron; but once a year, at the annual commemoration of the men who fell at the battle of Plataea, he was allowed to carry a sword wherewith to sacrifice a bull."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But Plutarch rose to higher dignities, and as Archon Eponymos he had to preside over feasts and sacrifices.[35] He was also a Boeotarch."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Prior to the reform of Solon, Athens was governed by nine Archons, annually ELECTED BY THE PEOPLE AT LARGE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief magistrate in ancient Athens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A presiding officer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Archon of Plataea might not touch iron; but once a year, at the annual commemoration of the men who fell at the battle of Plataea, he was allowed to carry a sword wherewith to sacrifice a bull."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But Plutarch rose to higher dignities, and as Archon Eponymos he had to preside over feasts and sacrifices.[35] He was also a Boeotarch."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Prior to the reform of Solon, Athens was governed by nine Archons, annually ELECTED BY THE PEOPLE AT LARGE."*

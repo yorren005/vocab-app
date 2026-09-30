@@ -5,13 +5,6 @@ status: unread
 ---
 # bema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually raised part of an Eastern church containing the altar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually raised part of an Eastern church containing the altar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bema designates the usually raised part of an eastern church containing the altar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually raised part of an Eastern church containing the altar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually raised part of an Eastern church containing the altar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bema designates the usually raised part of an eastern church containing the altar."*

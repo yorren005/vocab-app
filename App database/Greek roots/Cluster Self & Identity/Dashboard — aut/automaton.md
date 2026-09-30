@@ -5,15 +5,6 @@ status: unread
 ---
 # automaton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism that is relatively self-operating; especially : robot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine or control mechanism designed to follow automatically a predetermined sequence of operations or respond to encoded instructions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think I am an automaton?—a machine without feelings? and can bear to have my morsel of bread snatched from my lips, and my drop of living water dashed from my cup?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John spoke almost like an automaton: himself only knew the effort it cost him thus to refuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism that is relatively self-operating; especially : robot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine or control mechanism designed to follow automatically a predetermined sequence of operations or respond to encoded instructions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think I am an automaton?—a machine without feelings? and can bear to have my morsel of bread snatched from my lips, and my drop of living water dashed from my cup?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John spoke almost like an automaton: himself only knew the effort it cost him thus to refuse."*

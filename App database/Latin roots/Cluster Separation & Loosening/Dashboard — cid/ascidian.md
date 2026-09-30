@@ -5,13 +5,6 @@ status: unread
 ---
 # ascidian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute sedentary marine invertebrate having a saclike body with siphons through which water enters and leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute sedentary marine invertebrate having a saclike body with siphons through which water enters and leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascidian designates minute sedentary marine invertebrate having a saclike body with siphons through which water enters and leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute sedentary marine invertebrate having a saclike body with siphons through which water enters and leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute sedentary marine invertebrate having a saclike body with siphons through which water enters and leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascidian designates minute sedentary marine invertebrate having a saclike body with siphons through which water enters and leaves."*

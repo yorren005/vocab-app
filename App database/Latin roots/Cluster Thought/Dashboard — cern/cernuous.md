@@ -5,13 +5,6 @@ status: unread
 ---
 # cernuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches or flower heads that bend downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches or flower heads that bend downward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cernuous designates having branches or flower heads that bend downward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches or flower heads that bend downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches or flower heads that bend downward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cernuous designates having branches or flower heads that bend downward."*

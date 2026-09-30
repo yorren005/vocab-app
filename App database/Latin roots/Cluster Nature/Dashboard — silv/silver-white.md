@@ -5,13 +5,6 @@ status: unread
 ---
 # silver-white
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a white that resembles silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a white that resembles silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silver-white designates of a white that resembles silver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a white that resembles silver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a white that resembles silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silver-white designates of a white that resembles silver."*

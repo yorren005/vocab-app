@@ -5,15 +5,6 @@ status: unread
 ---
 # dissect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut open or cut apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Vanish, 'tis the last warning, and with speed; for if I take ye in hand, I shall dissect you, and read upon your flegmatick dull Carcases."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Dissect him how I may, then, I but go skin deep; I know him not, and never will."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I confess, that since Jonah, few whalemen have penetrated very far beneath the skin of the adult whale; nevertheless, I have been blessed with an opportunity to dissect him in miniature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut open or cut apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Vanish, 'tis the last warning, and with speed; for if I take ye in hand, I shall dissect you, and read upon your flegmatick dull Carcases."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Dissect him how I may, then, I but go skin deep; I know him not, and never will."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I confess, that since Jonah, few whalemen have penetrated very far beneath the skin of the adult whale; nevertheless, I have been blessed with an opportunity to dissect him in miniature."*

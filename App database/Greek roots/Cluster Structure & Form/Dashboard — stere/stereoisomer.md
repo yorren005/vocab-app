@@ -5,13 +5,6 @@ status: unread
 ---
 # stereoisomer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoisomer designates any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoisomer designates any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement."*

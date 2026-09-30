@@ -5,15 +5,6 @@ status: unread
 ---
 # pond
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small lake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small lake.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His filth within being cast, he would appear A pond as deep as hell."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You throw worried looks in all directions as if you were afraid that this perfectly solid meadow were a dangerous pond into which your little brood might fall and lose their lives." The children had scattered in all directions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here and there an old tub was put to catch the droppings of rain-water from a roof, or they were banked up with mud into a little pond like a large dirt-pie."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small lake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small lake.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His filth within being cast, he would appear A pond as deep as hell."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You throw worried looks in all directions as if you were afraid that this perfectly solid meadow were a dangerous pond into which your little brood might fall and lose their lives." The children had scattered in all directions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here and there an old tub was put to catch the droppings of rain-water from a roof, or they were banked up with mud into a little pond like a large dirt-pie."*

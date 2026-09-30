@@ -5,15 +5,6 @@ status: unread
 ---
 # orchid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large family (Orchidaceae, the orchid family) of perennial epiphytic or terrestrial monocotyledonous plants that usually have showy 3-petaled flowers with the middle petal enlarged into a lip and differing from the others in shape and color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light purple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yesterday I cut an orchid, for my button-hole."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"What becomes of your simile about the orchid?” “Ugliness is one of the seven deadly virtues, Gladys."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Would you mind getting that orchid for me among the mare’s-tails yonder?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large family (Orchidaceae, the orchid family) of perennial epiphytic or terrestrial monocotyledonous plants that usually have showy 3-petaled flowers with the middle petal enlarged into a lip and differing from the others in shape and color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light purple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yesterday I cut an orchid, for my button-hole."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"What becomes of your simile about the orchid?” “Ugliness is one of the seven deadly virtues, Gladys."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Would you mind getting that orchid for me among the mare’s-tails yonder?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # empale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a sharp stake or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Attend me where I wheel; Strike not a stroke, but keep yourselves in breath; And when I have the bloody Hector found, Empale him with your weapons round about; In fellest manner execute your arms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a sharp stake or point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Attend me where I wheel; Strike not a stroke, but keep yourselves in breath; And when I have the bloody Hector found, Empale him with your weapons round about; In fellest manner execute your arms."*

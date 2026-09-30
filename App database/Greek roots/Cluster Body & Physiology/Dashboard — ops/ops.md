@@ -5,15 +5,6 @@ status: unread
 ---
 # ops
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statistic that combines a hitter's on-base percentage and slugging percentage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Roman goddess of abundance and the wife of Saturn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This is a Slingshot Tac Ops from Red Fox to Keeper."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your Tac Ops and psych systems are monitored."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS patrollers were on directed Tac Ops missions: cite our messages to Red Fox and Blue Fox past half-hour, info recorded in Tac Ops Actions Register, your Headquarters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statistic that combines a hitter's on-base percentage and slugging percentage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Roman goddess of abundance and the wife of Saturn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This is a Slingshot Tac Ops from Red Fox to Keeper."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your Tac Ops and psych systems are monitored."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS patrollers were on directed Tac Ops missions: cite our messages to Red Fox and Blue Fox past half-hour, info recorded in Tac Ops Actions Register, your Headquarters."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # insatiable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to satisfy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was for ever stealing away from mother in my insatiable curiosity to see everything that was going on, and I managed to see pretty much of everything."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Most strange is man, ever insatiable, ever unsatisfied, never at peace with God or himself, his days filled with restlessness and useless endeavour, his nights a glut of vain dreams of desires wilful and wrong."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reason, and not feeling, is my guide; my ambition is unlimited: my desire to rise higher, to do more than others, insatiable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to satisfy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was for ever stealing away from mother in my insatiable curiosity to see everything that was going on, and I managed to see pretty much of everything."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Most strange is man, ever insatiable, ever unsatisfied, never at peace with God or himself, his days filled with restlessness and useless endeavour, his nights a glut of vain dreams of desires wilful and wrong."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reason, and not feeling, is my guide; my ambition is unlimited: my desire to rise higher, to do more than others, insatiable."*

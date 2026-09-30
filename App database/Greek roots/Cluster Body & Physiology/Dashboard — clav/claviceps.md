@@ -5,13 +5,6 @@ status: unread
 ---
 # claviceps
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi parasitic upon the ovaries of various grasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi parasitic upon the ovaries of various grasses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, claviceps designates fungi parasitic upon the ovaries of various grasses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi parasitic upon the ovaries of various grasses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi parasitic upon the ovaries of various grasses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, claviceps designates fungi parasitic upon the ovaries of various grasses."*

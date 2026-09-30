@@ -5,13 +5,6 @@ status: unread
 ---
 # helminthoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to worm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthoid designates adjective & noun*) resembling, having the physical form of, or akin to worm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to worm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthoid designates adjective & noun*) resembling, having the physical form of, or akin to worm."*

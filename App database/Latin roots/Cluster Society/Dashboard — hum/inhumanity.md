@@ -5,15 +5,6 @@ status: unread
 ---
 # inhumanity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking compassion or consideration for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of atrocious cruelty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was a dreadful picture of ingratitude and inhumanity; and Anne felt, at some moments, that no flagrant open crime could have been worse."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And man, whose heav’n-erected face The smiles of love adorn,— Man’s inhumanity to man Makes countless thousands mourn!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Dilly's neglect on the part of the many arose, not so much from inhumanity and covetousness, as from a wrong bias, which a few words had created in the people's minds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking compassion or consideration for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of atrocious cruelty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It was a dreadful picture of ingratitude and inhumanity; and Anne felt, at some moments, that no flagrant open crime could have been worse."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And man, whose heav’n-erected face The smiles of love adorn,— Man’s inhumanity to man Makes countless thousands mourn!"*
+> - 📜 **Effie Afton (*Eventide*):** *"Dilly's neglect on the part of the many arose, not so much from inhumanity and covetousness, as from a wrong bias, which a few words had created in the people's minds."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unbarred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove a bar from (a door).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not firmly fastened or secured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Let me in, Peter.” It was Tink, and quickly he unbarred to her."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As he unbarred the door, a smile of joy flitted across his strangely young-looking face and lingered for a moment about his lips."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Book VI All night the dreadless Angel, unpursued, Through Heaven’s wide champain held his way; till Morn, Waked by the circling Hours, with rosy hand Unbarred the gates of light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove a bar from (a door).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not firmly fastened or secured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Let me in, Peter.” It was Tink, and quickly he unbarred to her."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As he unbarred the door, a smile of joy flitted across his strangely young-looking face and lingered for a moment about his lips."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Book VI All night the dreadless Angel, unpursued, Through Heaven’s wide champain held his way; till Morn, Waked by the circling Hours, with rosy hand Unbarred the gates of light."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # phyllode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expanded petiole taking on the function of a leaf blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expanded petiole taking on the function of a leaf blade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllode designates an expanded petiole taking on the function of a leaf blade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expanded petiole taking on the function of a leaf blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expanded petiole taking on the function of a leaf blade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllode designates an expanded petiole taking on the function of a leaf blade."*

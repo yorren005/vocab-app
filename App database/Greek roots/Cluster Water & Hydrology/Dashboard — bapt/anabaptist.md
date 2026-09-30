@@ -5,13 +5,6 @@ status: unread
 ---
 # anabaptist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Protestant sectarian of a radical movement arising in the 16th century and advocating the baptism and church membership of adult believers only, nonresistance, and the separation of church and state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Protestant sectarian of a radical movement arising in the 16th century and advocating the baptism and church membership of adult believers only, nonresistance, and the separation of church and state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabaptist designates a protestant sectarian of a radical movement arising in the 16th century and advocating the baptism and church membership of adult believers only, nonresistance, and the separation of church and state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Protestant sectarian of a radical movement arising in the 16th century and advocating the baptism and church membership of adult believers only, nonresistance, and the separation of church and state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Protestant sectarian of a radical movement arising in the 16th century and advocating the baptism and church membership of adult believers only, nonresistance, and the separation of church and state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabaptist designates a protestant sectarian of a radical movement arising in the 16th century and advocating the baptism and church membership of adult believers only, nonresistance, and the separation of church and state."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # arteriogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of an artery filled with a contrast medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of an artery filled with a contrast medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriogram designates an x ray of an artery filled with a contrast medium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of an artery filled with a contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of an artery filled with a contrast medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriogram designates an x ray of an artery filled with a contrast medium."*

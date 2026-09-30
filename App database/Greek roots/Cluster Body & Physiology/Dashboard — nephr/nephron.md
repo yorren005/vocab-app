@@ -5,13 +5,6 @@ status: unread
 ---
 # nephron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephron designates one of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephron designates one of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine."*

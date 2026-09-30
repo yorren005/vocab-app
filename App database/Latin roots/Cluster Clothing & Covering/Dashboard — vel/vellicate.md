@@ -5,13 +5,6 @@ status: unread
 ---
 # vellicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irritate as if by a nip, pinch, or tear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vellicate designates touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irritate as if by a nip, pinch, or tear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vellicate designates touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements."*

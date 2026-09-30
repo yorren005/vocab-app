@@ -5,15 +5,6 @@ status: unread
 ---
 # sensibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With good sense or in a reasonable or intelligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With good sense or in a reasonable or intelligent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O noble fellow, Who sensibly outdares his senseless sword, And when it bows, stand’st up!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am guiltless of your father’s death, And am most sensibly in grief for it, It shall as level to your judgement ’pear As day does to your eye."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Croft was attending with great good-humour, and whenever she spoke at all, it was very sensibly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With good sense or in a reasonable or intelligent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With good sense or in a reasonable or intelligent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O noble fellow, Who sensibly outdares his senseless sword, And when it bows, stand’st up!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am guiltless of your father’s death, And am most sensibly in grief for it, It shall as level to your judgement ’pear As day does to your eye."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Croft was attending with great good-humour, and whenever she spoke at all, it was very sensibly."*

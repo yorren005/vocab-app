@@ -5,13 +5,6 @@ status: unread
 ---
 # fabiana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of south and central american heathlike evergreen shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of south and central american heathlike evergreen shrubs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fabiana designates genus of south and central american heathlike evergreen shrubs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of south and central american heathlike evergreen shrubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of south and central american heathlike evergreen shrubs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fabiana designates genus of south and central american heathlike evergreen shrubs."*

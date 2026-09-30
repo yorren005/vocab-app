@@ -5,15 +5,6 @@ status: unread
 ---
 # ecclesiastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecclesiastical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecclesiastical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The man and the ecclesiastic fought within him, and the victory fell to the man."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"One knows,' I said, 'that there are many things which an ecclesiastic may do without harm, which are not permitted to an ordinary layman--one who is an honest man, and no more.' M. le Curé made no reply."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What is it?' I cried, 'you are their director--you are an ecclesiastic--you know what belongs to the unseen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecclesiastical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecclesiastical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The man and the ecclesiastic fought within him, and the victory fell to the man."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"One knows,' I said, 'that there are many things which an ecclesiastic may do without harm, which are not permitted to an ordinary layman--one who is an honest man, and no more.' M. le Curé made no reply."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What is it?' I cried, 'you are their director--you are an ecclesiastic--you know what belongs to the unseen."*

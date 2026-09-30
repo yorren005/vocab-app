@@ -5,13 +5,6 @@ status: unread
 ---
 # oceanaut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who can live in underwater installations and participate in scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who can live in underwater installations and participate in scientific research.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanaut designates a skilled worker who can live in underwater installations and participate in scientific research."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who can live in underwater installations and participate in scientific research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who can live in underwater installations and participate in scientific research.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanaut designates a skilled worker who can live in underwater installations and participate in scientific research."*

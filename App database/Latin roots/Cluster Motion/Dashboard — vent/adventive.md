@@ -5,13 +5,6 @@ status: unread
 ---
 # adventive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not native and not fully established; locally or temporarily naturalized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not native and not fully established; locally or temporarily naturalized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventive designates not native and not fully established; locally or temporarily naturalized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not native and not fully established; locally or temporarily naturalized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not native and not fully established; locally or temporarily naturalized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventive designates not native and not fully established; locally or temporarily naturalized."*

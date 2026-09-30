@@ -5,15 +5,6 @@ status: unread
 ---
 # liberally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freely in a nonliteral manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a generous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, deceased, by attending on the occasion I told you of at his chambers, though she was liberally paid for her time and trouble.” “Lie!” cries mademoiselle."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Petersburg, at his own cost, supported several native missionaries in India, and gave liberally to the cause of Christ at home."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Being led by his trials to take God's word as his guide in business as well as in heart and religion, he determined to give his earnings liberally unto the Lord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freely in a nonliteral manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a generous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, deceased, by attending on the occasion I told you of at his chambers, though she was liberally paid for her time and trouble.” “Lie!” cries mademoiselle."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Petersburg, at his own cost, supported several native missionaries in India, and gave liberally to the cause of Christ at home."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Being led by his trials to take God's word as his guide in business as well as in heart and religion, he determined to give his earnings liberally unto the Lord."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rotunda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building having a circular plan and a dome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large circular room.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"White horses with white frontlet plumes came round the Rotunda corner, galloping."*
-> - 📜 **James Joyce (*Ulysses*):** *"Sonnez la._ Slower the mare went up the hill by the Rotunda, Rutland square."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In alderman’s gown and chain.)_ Electors of Arran Quay, Inns Quay, Rotunda, Mountjoy and North Dock, better run a tramline, I say, from the cattlemarket to the river."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building having a circular plan and a dome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large circular room.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"White horses with white frontlet plumes came round the Rotunda corner, galloping."*
+> - 📜 **James Joyce (*Ulysses*):** *"Sonnez la._ Slower the mare went up the hill by the Rotunda, Rutland square."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In alderman’s gown and chain.)_ Electors of Arran Quay, Inns Quay, Rotunda, Mountjoy and North Dock, better run a tramline, I say, from the cattlemarket to the river."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # spendthrift
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who spends money prodigally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessly wasteful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That we would do, We should do when we would; for this ‘would’ changes, And hath abatements and delays as many As there are tongues, are hands, are accidents; And then this ‘should’ is like a spendthrift sigh That hurts by easing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, what a spendthrift is he of his tongue!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But I am in great need of this sum.” “You, my little countess, are a notorious spendthrift,” said the count, and having kissed his wife’s hand he went back to his study."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who spends money prodigally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessly wasteful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That we would do, We should do when we would; for this ‘would’ changes, And hath abatements and delays as many As there are tongues, are hands, are accidents; And then this ‘should’ is like a spendthrift sigh That hurts by easing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, what a spendthrift is he of his tongue!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But I am in great need of this sum.” “You, my little countess, are a notorious spendthrift,” said the count, and having kissed his wife’s hand he went back to his study."*

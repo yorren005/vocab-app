@@ -5,13 +5,6 @@ status: unread
 ---
 # oste
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog oste as a recognized concept in linguistic and etymological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog oste as a recognized concept in linguistic and etymological taxonomy."*

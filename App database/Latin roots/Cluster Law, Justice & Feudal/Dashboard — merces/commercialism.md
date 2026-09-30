@@ -5,14 +5,6 @@ status: unread
 ---
 # commercialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Literary commercialism is lowering the intellectual standard to accommodate the purse and to 195:30 meet a frivolous demand for amusement instead of for improvement."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Has commercialism really throttled altruism?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Literary commercialism is lowering the intellectual standard to accommodate the purse and to 195:30 meet a frivolous demand for amusement instead of for improvement."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Has commercialism really throttled altruism?"*

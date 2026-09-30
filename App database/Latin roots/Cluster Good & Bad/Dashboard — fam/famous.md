@@ -5,15 +5,6 @@ status: unread
 ---
 # famous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and esteemed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was famous, sir, in his profession, and it was his great right to be so: Gerard de Narbon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, I bring thee word Menecrates and Menas, famous pirates, Make the sea serve them, which they ear and wound With keels of every kind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No grave upon the earth shall clip in it A pair so famous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and esteemed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was famous, sir, in his profession, and it was his great right to be so: Gerard de Narbon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, I bring thee word Menecrates and Menas, famous pirates, Make the sea serve them, which they ear and wound With keels of every kind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No grave upon the earth shall clip in it A pair so famous."*

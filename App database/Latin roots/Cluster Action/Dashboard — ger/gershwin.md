@@ -5,13 +5,6 @@ status: unread
 ---
 # gershwin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states lyricist who frequently collaborated with his brother george gershwin (1896-1983).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states composer who incorporated jazz into classical forms and composed scores for musical comedies (1898-1937).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gershwin designates united states lyricist who frequently collaborated with his brother george gershwin (1896-1983)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states lyricist who frequently collaborated with his brother george gershwin (1896-1983).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states composer who incorporated jazz into classical forms and composed scores for musical comedies (1898-1937).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gershwin designates united states lyricist who frequently collaborated with his brother george gershwin (1896-1983)."*

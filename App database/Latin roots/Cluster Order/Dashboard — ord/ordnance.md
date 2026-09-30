@@ -5,15 +5,6 @@ status: unread
 ---
 # ordnance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Military supplies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large but transportable armament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It then draws near the season Wherein the spirit held his wont to walk. [_A flourish of trumpets, and ordnance shot off within._] What does this mean, my lord?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Work, work your thoughts, and therein see a siege; Behold the ordnance on their carriages, With fatal mouths gaping on girded Harfleur."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To intercept this inconvenience, A piece of ordnance ’gainst it I have placed And even these three days have I watch’d, If I could see them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Military supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large but transportable armament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It then draws near the season Wherein the spirit held his wont to walk. [_A flourish of trumpets, and ordnance shot off within._] What does this mean, my lord?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Work, work your thoughts, and therein see a siege; Behold the ordnance on their carriages, With fatal mouths gaping on girded Harfleur."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To intercept this inconvenience, A piece of ordnance ’gainst it I have placed And even these three days have I watch’d, If I could see them."*

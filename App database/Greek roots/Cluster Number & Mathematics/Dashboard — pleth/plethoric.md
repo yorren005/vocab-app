@@ -5,15 +5,6 @@ status: unread
 ---
 # plethoric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ample amount or number : abundance, profusion —usually used with of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily condition characterized by an excess of blood and marked by swelling and redness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He has stopped Austria’s cackle and I fear it will be our turn next.” The colonel was a stout, tall, plethoric German, evidently devoted to the service and patriotically Russian."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ample amount or number : abundance, profusion —usually used with of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily condition characterized by an excess of blood and marked by swelling and redness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He has stopped Austria’s cackle and I fear it will be our turn next.” The colonel was a stout, tall, plethoric German, evidently devoted to the service and patriotically Russian."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*

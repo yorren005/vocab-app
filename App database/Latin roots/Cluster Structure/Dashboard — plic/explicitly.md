@@ -5,15 +5,6 @@ status: unread
 ---
 # explicitly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an explicit manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an explicit manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This aspect of the fire-festivals had not wholly escaped me in former editions; I pointed it out explicitly, but, biassed perhaps by the great authority of Mannhardt, I treated it as secondary and subordinate instead of primary and dominant."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are not explicitly told of such things by the evangelists, they are easily felt in the story."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Slavery is not condemned explicitly even by Jesus, though he gave the dynamic that abolished it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an explicit manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an explicit manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This aspect of the fire-festivals had not wholly escaped me in former editions; I pointed it out explicitly, but, biassed perhaps by the great authority of Mannhardt, I treated it as secondary and subordinate instead of primary and dominant."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are not explicitly told of such things by the evangelists, they are easily felt in the story."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Slavery is not condemned explicitly even by Jesus, though he gave the dynamic that abolished it."*

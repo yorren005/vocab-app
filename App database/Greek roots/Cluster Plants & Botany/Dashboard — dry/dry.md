@@ -5,15 +5,6 @@ status: unread
 ---
 # dry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free or relatively free from a liquid and especially water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not being in or under water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in his brain, Which is as dry as the remainder biscuit After a voyage, he hath strange places crammed With observation, the which he vents In mangled forms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, sir, then ’twill be dry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free or relatively free from a liquid and especially water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not being in or under water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in his brain, Which is as dry as the remainder biscuit After a voyage, he hath strange places crammed With observation, the which he vents In mangled forms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, sir, then ’twill be dry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*

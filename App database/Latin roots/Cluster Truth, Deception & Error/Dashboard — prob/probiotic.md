@@ -5,13 +5,6 @@ status: unread
 ---
 # probiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probiotic designates a beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probiotic designates a beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant."*

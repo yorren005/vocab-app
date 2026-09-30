@@ -5,15 +5,6 @@ status: unread
 ---
 # vanishing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden or mysterious disappearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden disappearance from sight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has plenty of spectral company in ghosts of trees and hedges, slowly vanishing and giving place to the realities of day."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If wild heat had to do wi’ it, making ye long to over-come the awkwardness about your husband’s vanishing, it mid be wrong; but a cold-hearted agreement to oblige a man seems different, somehow."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I traced the white road winding round the base of one mountain, and vanishing in a gorge between two; how I longed to follow it farther!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden or mysterious disappearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden disappearance from sight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It has plenty of spectral company in ghosts of trees and hedges, slowly vanishing and giving place to the realities of day."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If wild heat had to do wi’ it, making ye long to over-come the awkwardness about your husband’s vanishing, it mid be wrong; but a cold-hearted agreement to oblige a man seems different, somehow."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I traced the white road winding round the base of one mountain, and vanishing in a gorge between two; how I longed to follow it farther!"*

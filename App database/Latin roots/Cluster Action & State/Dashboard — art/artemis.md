@@ -5,15 +5,6 @@ status: unread
 ---
 # artemis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the virgin goddess of the hunt and the moon; daughter of leto and twin sister of apollo; identified with roman diana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the virgin goddess of the hunt and the moon; daughter of leto and twin sister of apollo; identified with roman diana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Ah! here is the duchess, looking like Artemis in a tailor-made gown."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rivalry of Artemis and Phaedra for the affection of Hippolytus reproduces, it is said, under different names, the rivalry of Aphrodite and Proserpine for the love of Adonis, for Phaedra is merely a double of Aphrodite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the virgin goddess of the hunt and the moon; daughter of leto and twin sister of apollo; identified with roman diana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the virgin goddess of the hunt and the moon; daughter of leto and twin sister of apollo; identified with roman diana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Ah! here is the duchess, looking like Artemis in a tailor-made gown."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rivalry of Artemis and Phaedra for the affection of Hippolytus reproduces, it is said, under different names, the rivalry of Aphrodite and Proserpine for the love of Adonis, for Phaedra is merely a double of Aphrodite."*

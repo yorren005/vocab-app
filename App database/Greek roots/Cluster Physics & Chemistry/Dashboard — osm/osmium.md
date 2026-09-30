@@ -5,13 +5,6 @@ status: unread
 ---
 # osmium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue-gray or blue-black hard brittle very heavy polyvalent metallic element with a high melting point that is used especially as a catalyst and in hard alloys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound OsO4 that is an oxide of osmium, has a poisonous irritating vapor, and is used as a catalyst, oxidizing agent, and biological fixative and stain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmium designates a blue-gray or blue-black hard brittle very heavy polyvalent metallic element with a high melting point that is used especially as a catalyst and in hard alloys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue-gray or blue-black hard brittle very heavy polyvalent metallic element with a high melting point that is used especially as a catalyst and in hard alloys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound OsO4 that is an oxide of osmium, has a poisonous irritating vapor, and is used as a catalyst, oxidizing agent, and biological fixative and stain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmium designates a blue-gray or blue-black hard brittle very heavy polyvalent metallic element with a high melting point that is used especially as a catalyst and in hard alloys."*

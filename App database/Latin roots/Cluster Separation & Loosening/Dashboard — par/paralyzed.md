@@ -5,15 +5,6 @@ status: unread
 ---
 # paralyzed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make powerless and unable to function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be paralyzed and immobile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He looked up at the sound of her pit-pat, and his changed appearance sufficiently denoted to her the depth and strength of the feelings paralyzed by her letter."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Whenever this happened the dairy was paralyzed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ah, yes, you would have told me, in a way—but I hindered you, I remember!” These and other of his words were nothing but the perfunctory babble of the surface while the depths remained paralyzed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make powerless and unable to function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be paralyzed and immobile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He looked up at the sound of her pit-pat, and his changed appearance sufficiently denoted to her the depth and strength of the feelings paralyzed by her letter."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Whenever this happened the dairy was paralyzed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ah, yes, you would have told me, in a way—but I hindered you, I remember!” These and other of his words were nothing but the perfunctory babble of the surface while the depths remained paralyzed."*

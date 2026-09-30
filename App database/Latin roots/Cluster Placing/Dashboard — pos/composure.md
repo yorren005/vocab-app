@@ -5,15 +5,6 @@ status: unread
 ---
 # composure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadiness of mind under stress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say this becomes him— As his composure must be rare indeed Whom these things cannot blemish—yet must Antony No way excuse his foils when we do bear So great weight in his lightness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it was a strong composure a fool could disunite!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thank the heavens, lord, thou art of sweet composure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadiness of mind under stress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say this becomes him— As his composure must be rare indeed Whom these things cannot blemish—yet must Antony No way excuse his foils when we do bear So great weight in his lightness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it was a strong composure a fool could disunite!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thank the heavens, lord, thou art of sweet composure."*

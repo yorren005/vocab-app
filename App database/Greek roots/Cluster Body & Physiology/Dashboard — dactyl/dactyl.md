@@ -5,13 +5,6 @@ status: unread
 ---
 # dactyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Finger : toe : digit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s gay voice went on. —My name is absurd too: Malachi Mulligan, two dactyls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Finger : toe : digit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s gay voice went on. —My name is absurd too: Malachi Mulligan, two dactyls."*

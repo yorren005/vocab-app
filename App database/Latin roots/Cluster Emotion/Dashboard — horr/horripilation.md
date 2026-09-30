@@ -5,13 +5,6 @@ status: unread
 ---
 # horripilation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The horripilation of the skin, the twitching nostrils, the feeling for the knife in the armpit...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The horripilation of the skin, the twitching nostrils, the feeling for the knife in the armpit...."*

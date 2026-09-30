@@ -5,15 +5,6 @@ status: unread
 ---
 # treasurer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer charged with receiving and disbursing funds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer charged with receiving and disbursing funds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I had a treasury and a treasurer, to say nothing of a regiment of scribes."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For, look you, not long ago they had even a treasurer for their wealth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No,” Pilate answered; “it was Judas, the treasurer.” “Who was this John?” I questioned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer charged with receiving and disbursing funds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer charged with receiving and disbursing funds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I had a treasury and a treasurer, to say nothing of a regiment of scribes."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For, look you, not long ago they had even a treasurer for their wealth."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No,” Pilate answered; “it was Judas, the treasurer.” “Who was this John?” I questioned."*

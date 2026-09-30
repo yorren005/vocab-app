@@ -5,13 +5,6 @@ status: unread
 ---
 # telesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telesis designates progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telesis designates progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means."*

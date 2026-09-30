@@ -5,15 +5,6 @@ status: unread
 ---
 # helot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"A helot of Agesilaus made us a dish of Spartan broth, but I was not able to get down a second spoonful."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Shades of the Helots! triumph o'er your foe: Greece! change thy lords, thy state is still the same; Thy glorious day is o'er, but not thy years of shame."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We may, by your legislation, reduce all the country south and east of Mason and Dixon’s line, the whites as well as the blacks, to the condition of Helots: you can do no more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"A helot of Agesilaus made us a dish of Spartan broth, but I was not able to get down a second spoonful."*
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Shades of the Helots! triumph o'er your foe: Greece! change thy lords, thy state is still the same; Thy glorious day is o'er, but not thy years of shame."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We may, by your legislation, reduce all the country south and east of Mason and Dixon’s line, the whites as well as the blacks, to the condition of Helots: you can do no more."*

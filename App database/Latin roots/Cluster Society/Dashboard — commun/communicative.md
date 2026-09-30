@@ -5,15 +5,6 @@ status: unread
 ---
 # communicative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able or tending to communicate; - w.m.thackeray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Asked what they were about, they vouchsafed no reply; but an old woman who appeared on the scene from a neighbouring cottage was more communicative."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am disposed to be gregarious and communicative to-night,” he repeated, “and that is why I sent for you: the fire and the chandelier were not sufficient company for me; nor would Pilot have been, for none of these can talk."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There was nothing of presumption or folly in Bingley that could provoke his ridicule, or disgust him into silence; and he was more communicative, and less eccentric, than the other had ever seen him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able or tending to communicate; - w.m.thackeray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Asked what they were about, they vouchsafed no reply; but an old woman who appeared on the scene from a neighbouring cottage was more communicative."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am disposed to be gregarious and communicative to-night,” he repeated, “and that is why I sent for you: the fire and the chandelier were not sufficient company for me; nor would Pilot have been, for none of these can talk."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There was nothing of presumption or folly in Bingley that could provoke his ridicule, or disgust him into silence; and he was more communicative, and less eccentric, than the other had ever seen him."*

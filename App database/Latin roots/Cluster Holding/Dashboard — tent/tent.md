@@ -5,15 +5,6 @@ status: unread
 ---
 # tent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A web that resembles a tent or carpet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In good sadness, I do not know; either it is there or it is upon a file, with the duke’s other letters, in my tent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The messenger Came on my guard, and at thy tent is now Unloading of his mules."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my tent, where you shall see How hardly I was drawn into this war, How calm and gentle I proceeded still In all my writings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A web that resembles a tent or carpet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In good sadness, I do not know; either it is there or it is upon a file, with the duke’s other letters, in my tent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The messenger Came on my guard, and at thy tent is now Unloading of his mules."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my tent, where you shall see How hardly I was drawn into this war, How calm and gentle I proceeded still In all my writings."*

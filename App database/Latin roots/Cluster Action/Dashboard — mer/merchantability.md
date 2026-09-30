@@ -5,13 +5,6 @@ status: unread
 ---
 # merchantability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being fit for market; ready to be bought or sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being fit for market; ready to be bought or sold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchantability designates the state of being fit for market; ready to be bought or sold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being fit for market; ready to be bought or sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being fit for market; ready to be bought or sold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchantability designates the state of being fit for market; ready to be bought or sold."*

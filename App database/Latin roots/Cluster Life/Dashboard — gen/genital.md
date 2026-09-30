@@ -5,15 +5,6 @@ status: unread
 ---
 # genital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the external sex organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the external sex organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The mother lies down on her back in the thick grass near the house and places a flower of the plantain between her legs; then her husband comes and knocks the flower away with his genital member."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"However, the genital member of Osiris had been eaten by the fishes, so Isis made an image of it instead, and the image is used by the Egyptians at their festivals to this day."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then he was beaten seven times upon his genital organs with squills and branches of the wild fig and other wild trees, while the flutes played a particular tune."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the external sex organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the external sex organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The mother lies down on her back in the thick grass near the house and places a flower of the plantain between her legs; then her husband comes and knocks the flower away with his genital member."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"However, the genital member of Osiris had been eaten by the fishes, so Isis made an image of it instead, and the image is used by the Egyptians at their festivals to this day."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then he was beaten seven times upon his genital organs with squills and branches of the wild fig and other wild trees, while the flutes played a particular tune."*

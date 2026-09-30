@@ -5,15 +5,6 @@ status: unread
 ---
 # transmutation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that changes the form or character or substance of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A qualitative change.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Am not I Christopher Sly, old Sly’s son of Burton-heath; by birth a pedlar, by education a cardmaker, by transmutation a bear-herd, and now by present profession a tinker?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, this is dreadful!” she went on, unconscious of the transmutation she was effecting."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Being even now only a young woman of twenty, one who mentally and sentimentally had not finished growing, it was impossible that any event should have left upon her an impression that was not in time capable of transmutation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that changes the form or character or substance of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A qualitative change.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Am not I Christopher Sly, old Sly’s son of Burton-heath; by birth a pedlar, by education a cardmaker, by transmutation a bear-herd, and now by present profession a tinker?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, this is dreadful!” she went on, unconscious of the transmutation she was effecting."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Being even now only a young woman of twenty, one who mentally and sentimentally had not finished growing, it was impossible that any event should have left upon her an impression that was not in time capable of transmutation."*

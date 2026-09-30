@@ -5,15 +5,6 @@ status: unread
 ---
 # formulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate, as of theories and hypotheses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A proof of her weakness lay in the very utterance of what calm strength would not have taken the trouble to formulate."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In this experimental way many other acts are influenced by the prevailing interest rate and in turn affect it, thus aiding to formulate society's estimate of the value of present as compared with future rents."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stricken down before he had time to formulate a policy, if it was ever his intention to do so, he yet showed a proper appreciation of his high responsibilities, and had from the start won the kindly attention of the country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate, as of theories and hypotheses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A proof of her weakness lay in the very utterance of what calm strength would not have taken the trouble to formulate."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In this experimental way many other acts are influenced by the prevailing interest rate and in turn affect it, thus aiding to formulate society's estimate of the value of present as compared with future rents."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stricken down before he had time to formulate a policy, if it was ever his intention to do so, he yet showed a proper appreciation of his high responsibilities, and had from the start won the kindly attention of the country."*

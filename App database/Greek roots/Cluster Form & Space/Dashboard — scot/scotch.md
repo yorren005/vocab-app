@@ -5,15 +5,6 @@ status: unread
 ---
 # scotch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight surface cut (especially a notch that is made to keep a tally).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whiskey distilled in scotland; especially whiskey made from malted barley in a pot still.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook addresses a crazy little woman who is his female lodger, who appears and vanishes in a breath, who soon returns accompanied by a testy medical man brought from his dinner, with a broad, snuffy upper lip and a broad Scotch tongue."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"She had a great command of vigorous Scotch, and a large stock of homely proverbs, of which she made frequent and apposite use."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Breakfast consisted of porridge and milk; dinner, in the middle of the day, of Scotch kail and pork, occasionally varied by herrings, fresh or salt according to the season, and with the usual accompaniments of potatoes and pease bannocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight surface cut (especially a notch that is made to keep a tally).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whiskey distilled in scotland; especially whiskey made from malted barley in a pot still.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook addresses a crazy little woman who is his female lodger, who appears and vanishes in a breath, who soon returns accompanied by a testy medical man brought from his dinner, with a broad, snuffy upper lip and a broad Scotch tongue."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"She had a great command of vigorous Scotch, and a large stock of homely proverbs, of which she made frequent and apposite use."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Breakfast consisted of porridge and milk; dinner, in the middle of the day, of Scotch kail and pork, occasionally varied by herrings, fresh or salt according to the season, and with the usual accompaniments of potatoes and pease bannocks."*

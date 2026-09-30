@@ -5,13 +5,6 @@ status: unread
 ---
 # priapism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal often painful persistent erection of the penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal often painful persistent erection of the penis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Now must I play at Bo-peep--A Banquet--well, Potatoes and Eringoes, and, as I take it, Cantharides--Excellent, a Priapism follows, and as I'll handle it, it shall, old Lecherous Goat in Authority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal often painful persistent erection of the penis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal often painful persistent erection of the penis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Now must I play at Bo-peep--A Banquet--well, Potatoes and Eringoes, and, as I take it, Cantharides--Excellent, a Priapism follows, and as I'll handle it, it shall, old Lecherous Goat in Authority."*

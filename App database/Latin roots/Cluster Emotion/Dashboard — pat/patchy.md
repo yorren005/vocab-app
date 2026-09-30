@@ -5,14 +5,6 @@ status: unread
 ---
 # patchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irregular or uneven in quality, texture, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular or uneven in quality, texture, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Any stranger peeping into the office at that moment might have wondered what was the drama between the indignant man of business, and the fine-looking young fellow whose blond complexion was getting rather patchy as he bit his lip with mortification."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They reported that they had worked the field out and that it was very patchy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irregular or uneven in quality, texture, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular or uneven in quality, texture, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Any stranger peeping into the office at that moment might have wondered what was the drama between the indignant man of business, and the fine-looking young fellow whose blond complexion was getting rather patchy as he bit his lip with mortification."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They reported that they had worked the field out and that it was very patchy."*

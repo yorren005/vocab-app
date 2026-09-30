@@ -5,13 +5,6 @@ status: unread
 ---
 # exacerbating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacerbating designates make worse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacerbating designates make worse."*

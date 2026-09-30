@@ -5,13 +5,6 @@ status: unread
 ---
 # anasarca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generalized edema with accumulation of serum in subcutaneous connective tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generalized edema with accumulation of serum in subcutaneous connective tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anasarca designates generalized edema with accumulation of serum in subcutaneous connective tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generalized edema with accumulation of serum in subcutaneous connective tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generalized edema with accumulation of serum in subcutaneous connective tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anasarca designates generalized edema with accumulation of serum in subcutaneous connective tissue."*

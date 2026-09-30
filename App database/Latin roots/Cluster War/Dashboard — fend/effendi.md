@@ -5,13 +5,6 @@ status: unread
 ---
 # effendi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former turkish term of respect; especially for government officials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former turkish term of respect; especially for government officials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effendi designates a former turkish term of respect; especially for government officials."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former turkish term of respect; especially for government officials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former turkish term of respect; especially for government officials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effendi designates a former turkish term of respect; especially for government officials."*

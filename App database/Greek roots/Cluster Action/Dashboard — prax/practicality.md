@@ -5,14 +5,6 @@ status: unread
 ---
 # practicality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with actual use rather than theoretical possibilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with actual use rather than theoretical possibilities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"What for did you all unpack outen the surrey, if you sawed the train go by?" she further demanded, with accusing practicality."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But won’t it be very damp in some places yet?” “Oh, we’ll wear rubbers,” was Anne’s concession to practicalities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with actual use rather than theoretical possibilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with actual use rather than theoretical possibilities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"What for did you all unpack outen the surrey, if you sawed the train go by?" she further demanded, with accusing practicality."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But won’t it be very damp in some places yet?” “Oh, we’ll wear rubbers,” was Anne’s concession to practicalities."*

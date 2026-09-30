@@ -5,15 +5,6 @@ status: unread
 ---
 # mutable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of or tending to change in form or quality or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of or tending to change in form or quality or nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It guards equally against that extreme facility, which would render the Constitution too mutable; and that extreme difficulty, which might perpetuate its discovered faults."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To trace the mischievous effects of a mutable government would fill a volume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of or tending to change in form or quality or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of or tending to change in form or quality or nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It guards equally against that extreme facility, which would render the Constitution too mutable; and that extreme difficulty, which might perpetuate its discovered faults."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To trace the mischievous effects of a mutable government would fill a volume."*

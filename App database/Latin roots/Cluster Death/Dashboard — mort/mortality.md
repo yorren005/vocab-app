@@ -5,15 +5,6 @@ status: unread
 ---
 # mortality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being mortal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of deaths in an area to the population of that area; expressed per 1000 per year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on my knee I beg mortality, Rather than life preserved with infamy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being mortal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of deaths in an area to the population of that area; expressed per 1000 per year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on my knee I beg mortality, Rather than life preserved with infamy."*

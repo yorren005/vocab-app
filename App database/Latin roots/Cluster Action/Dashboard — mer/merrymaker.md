@@ -5,14 +5,6 @@ status: unread
 ---
 # merrymaker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrant who shares in a noisy party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrant who shares in a noisy party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"From time to time, his quick ear had caught the sound of the distant _hula_ (drum) and the voices of the gay merrymakers."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the reign of Commodus a band of conspirators thought to take advantage of the masquerade by dressing in the uniform of the Imperial Guard, and so, mingling with the crowd of merrymakers, to get within stabbing distance of the emperor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrant who shares in a noisy party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrant who shares in a noisy party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"From time to time, his quick ear had caught the sound of the distant _hula_ (drum) and the voices of the gay merrymakers."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the reign of Commodus a band of conspirators thought to take advantage of the masquerade by dressing in the uniform of the Imperial Guard, and so, mingling with the crowd of merrymakers, to get within stabbing distance of the emperor."*

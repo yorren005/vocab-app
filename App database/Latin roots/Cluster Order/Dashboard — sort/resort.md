@@ -5,15 +5,6 @@ status: unread
 ---
 # resort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel located in a resort area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently visited place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie on thee, wretch. ’Tis pity that thou liv’st To walk where any honest men resort."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This must not be.’ And then I precepts gave her, That she should lock herself from his resort, Admit no messengers, receive no tokens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But shall all our houses of resort in the suburbs be pulled down?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel located in a resort area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently visited place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie on thee, wretch. ’Tis pity that thou liv’st To walk where any honest men resort."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This must not be.’ And then I precepts gave her, That she should lock herself from his resort, Admit no messengers, receive no tokens."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But shall all our houses of resort in the suburbs be pulled down?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # labiodental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant whose articulation involves the lips and teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consonant whose articulation involves the lips and teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labiodental designates a consonant whose articulation involves the lips and teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant whose articulation involves the lips and teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consonant whose articulation involves the lips and teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labiodental designates a consonant whose articulation involves the lips and teeth."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # legato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) without breaks between notes; smooth and connected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connecting the notes; in music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legato designates (music) without breaks between notes; smooth and connected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) without breaks between notes; smooth and connected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connecting the notes; in music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legato designates (music) without breaks between notes; smooth and connected."*

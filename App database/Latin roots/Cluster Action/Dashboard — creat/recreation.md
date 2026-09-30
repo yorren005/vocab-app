@@ -5,15 +5,6 @@ status: unread
 ---
 # recreation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that diverts or amuses or stimulates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet recreation barr’d, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a recreation to be by And hear him mock the Frenchman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suggestions are to other as to me; But I believe, although I seem so loath, I am the last that will last keep his oath. [_He signs._] But is there no quick recreation granted?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that diverts or amuses or stimulates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet recreation barr’d, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a recreation to be by And hear him mock the Frenchman."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suggestions are to other as to me; But I believe, although I seem so loath, I am the last that will last keep his oath. [_He signs._] But is there no quick recreation granted?"*

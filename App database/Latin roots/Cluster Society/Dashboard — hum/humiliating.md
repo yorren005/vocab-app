@@ -5,15 +5,6 @@ status: unread
 ---
 # humiliating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing awareness of your shortcomings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was so humiliating to reflect on the constant deception practised on her father and Elizabeth; to consider the various sources of mortification preparing for them!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More than once she thought of going away from him during his absence at the mill; but she feared that this, instead of benefiting him, might be the means of hampering and humiliating him yet more if it should become known."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To join your dear husband?” She could not bear the humiliating reminder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing awareness of your shortcomings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It was so humiliating to reflect on the constant deception practised on her father and Elizabeth; to consider the various sources of mortification preparing for them!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More than once she thought of going away from him during his absence at the mill; but she feared that this, instead of benefiting him, might be the means of hampering and humiliating him yet more if it should become known."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To join your dear husband?” She could not bear the humiliating reminder."*

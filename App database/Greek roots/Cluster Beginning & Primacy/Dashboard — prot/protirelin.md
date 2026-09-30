@@ -5,13 +5,6 @@ status: unread
 ---
 # protirelin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protirelin designates hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protirelin designates hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary."*

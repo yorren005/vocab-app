@@ -5,15 +5,6 @@ status: unread
 ---
 # unfaltering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by firm determination or resolution; not shakable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by firm determination or resolution; not shakable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For many centimes there has not been a more remarkable testimony of unfaltering trust in the faithfulness of God in supplying human wants, than is found in the life and labor of George Muller and his Orphan Home, in Bristol, England."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Come back to me now, Laura." His wife leant over him, unfaltering, though she had known for some time that she was dealing with the abnormal."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hark! the infernal orgies! that revelry is forward! mark the unfaltering silence aft!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by firm determination or resolution; not shakable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by firm determination or resolution; not shakable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"For many centimes there has not been a more remarkable testimony of unfaltering trust in the faithfulness of God in supplying human wants, than is found in the life and labor of George Muller and his Orphan Home, in Bristol, England."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Come back to me now, Laura." His wife leant over him, unfaltering, though she had known for some time that she was dealing with the abnormal."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hark! the infernal orgies! that revelry is forward! mark the unfaltering silence aft!"*

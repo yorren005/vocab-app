@@ -5,13 +5,6 @@ status: unread
 ---
 # satisfice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satisfice designates decide on and pursue a course of action satisfying the minimum requirements to achieve a goal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide on and pursue a course of action satisfying the minimum requirements to achieve a goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satisfice designates decide on and pursue a course of action satisfying the minimum requirements to achieve a goal."*

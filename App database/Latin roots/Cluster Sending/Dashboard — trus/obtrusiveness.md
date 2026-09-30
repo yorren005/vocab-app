@@ -5,13 +5,6 @@ status: unread
 ---
 # obtrusiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unwelcome conspicuousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unwelcome conspicuousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unwelcome conspicuousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unwelcome conspicuousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed."*

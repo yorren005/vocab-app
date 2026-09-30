@@ -5,15 +5,6 @@ status: unread
 ---
 # martinet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who demands exact conformity to rules and forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demands exact conformity to rules and forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He was a Mexican veteran, a thorough soldier as well as a martinet, and he had never learned to recognize any organizations outside of the regular service."*
-> - 📜 **James Joyce (*Ulysses*):** *"By the ass of the Dorans you’ll find I’m a martinet."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"No, no, he would stand forth in his true angelic shape, and show these martinets what form they had ignorantly taken for mere Michael Trevennack of the Victualing Department!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who demands exact conformity to rules and forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demands exact conformity to rules and forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He was a Mexican veteran, a thorough soldier as well as a martinet, and he had never learned to recognize any organizations outside of the regular service."*
+> - 📜 **James Joyce (*Ulysses*):** *"By the ass of the Dorans you’ll find I’m a martinet."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"No, no, he would stand forth in his true angelic shape, and show these martinets what form they had ignorantly taken for mere Michael Trevennack of the Victualing Department!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # luculus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general famous for giving lavish banquets (110-57 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general famous for giving lavish banquets (110-57 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luculus designates roman general famous for giving lavish banquets (110-57 bc)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general famous for giving lavish banquets (110-57 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general famous for giving lavish banquets (110-57 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luculus designates roman general famous for giving lavish banquets (110-57 bc)."*

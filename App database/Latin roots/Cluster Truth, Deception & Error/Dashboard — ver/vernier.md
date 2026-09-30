@@ -5,13 +5,6 @@ status: unread
 ---
 # vernier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician who described the vernier scale (1580-1637).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small movable scale that slides along a main scale; the small scale is calibrated to indicate fractional divisions of the main scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernier designates french mathematician who described the vernier scale (1580-1637)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician who described the vernier scale (1580-1637).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small movable scale that slides along a main scale; the small scale is calibrated to indicate fractional divisions of the main scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernier designates french mathematician who described the vernier scale (1580-1637)."*

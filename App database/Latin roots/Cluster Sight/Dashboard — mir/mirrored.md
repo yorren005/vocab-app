@@ -5,15 +5,6 @@ status: unread
 ---
 # mirrored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect as if in a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect or resemble.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The strong southern light broke in splinters on the dancing water, and was mirrored in reflected ripplings, silver-pale, tremulous, over the shadowy understems of grass and loosestrife on the opposite bank."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As the painter looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there."*
-> - 📜 **Effie Afton (*Eventide*):** *"Her calm, clear eyes mirrored the bright fancies that flitted through her brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect as if in a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect or resemble.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"The strong southern light broke in splinters on the dancing water, and was mirrored in reflected ripplings, silver-pale, tremulous, over the shadowy understems of grass and loosestrife on the opposite bank."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As the painter looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there."*
+> - 📜 **Effie Afton (*Eventide*):** *"Her calm, clear eyes mirrored the bright fancies that flitted through her brain."*

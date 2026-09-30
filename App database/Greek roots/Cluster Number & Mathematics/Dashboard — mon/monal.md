@@ -5,13 +5,6 @@ status: unread
 ---
 # monal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliantly colored pheasant of southern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored pheasant of southern asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monal designates brilliantly colored pheasant of southern asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliantly colored pheasant of southern asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored pheasant of southern asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monal designates brilliantly colored pheasant of southern asia."*

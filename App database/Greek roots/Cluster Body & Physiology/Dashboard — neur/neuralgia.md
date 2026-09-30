@@ -5,15 +5,6 @@ status: unread
 ---
 # neuralgia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute paroxysmal pain radiating along the course of one or more nerves usually without demonstrable changes in the nerve structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intense paroxysmal neuralgia involving one or more branches of the trigeminal nerve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"From that moment she was subject to severe neuralgia, sick-headaches, at least monthly, and sometimes even weekly."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On the Monday before, one of her severest neuralgia sick-headaches came on."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Her friends acknowledged, '_Faith did do good after all_.' CURED OF NEURALGIA."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute paroxysmal pain radiating along the course of one or more nerves usually without demonstrable changes in the nerve structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intense paroxysmal neuralgia involving one or more branches of the trigeminal nerve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"From that moment she was subject to severe neuralgia, sick-headaches, at least monthly, and sometimes even weekly."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"On the Monday before, one of her severest neuralgia sick-headaches came on."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Her friends acknowledged, '_Faith did do good after all_.' CURED OF NEURALGIA."*

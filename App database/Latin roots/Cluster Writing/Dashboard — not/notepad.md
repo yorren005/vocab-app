@@ -5,13 +5,6 @@ status: unread
 ---
 # notepad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad of paper for keeping notes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pad of paper for keeping notes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notepad designates a pad of paper for keeping notes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad of paper for keeping notes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pad of paper for keeping notes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notepad designates a pad of paper for keeping notes."*

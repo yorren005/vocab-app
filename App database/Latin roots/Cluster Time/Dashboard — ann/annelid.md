@@ -5,13 +5,6 @@ status: unread
 ---
 # annelid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worms with cylindrical bodies segmented both internally and externally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or belonging to or characteristic of any worms of the phylum annelida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In their dark fractures huge crustacea, perched upon their high claws like some war-machine, watched us with fixed eyes, and under our feet crawled various kinds of annelides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worms with cylindrical bodies segmented both internally and externally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or belonging to or characteristic of any worms of the phylum annelida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In their dark fractures huge crustacea, perched upon their high claws like some war-machine, watched us with fixed eyes, and under our feet crawled various kinds of annelides."*

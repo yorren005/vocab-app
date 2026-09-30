@@ -5,15 +5,6 @@ status: unread
 ---
 # perseverance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of persisting or persevering; continuing or repeating behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perseverance, dear my lord, Keeps honour bright."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They do wait, however, with the perseverance of military tactics, and at last the bell rings again and the client in possession comes out of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish to leave my good name unsullied, together with any little property of which I may become possessed through industry and perseverance, to my daughters Emma, Jane, and Caroline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of persisting or persevering; continuing or repeating behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perseverance, dear my lord, Keeps honour bright."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They do wait, however, with the perseverance of military tactics, and at last the bell rings again and the client in possession comes out of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I wish to leave my good name unsullied, together with any little property of which I may become possessed through industry and perseverance, to my daughters Emma, Jane, and Caroline."*

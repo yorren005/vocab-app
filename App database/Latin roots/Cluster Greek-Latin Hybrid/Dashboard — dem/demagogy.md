@@ -5,13 +5,6 @@ status: unread
 ---
 # demagogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impassioned appeals to the prejudices and emotions of the populace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassioned appeals to the prejudices and emotions of the populace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagogy designates impassioned appeals to the prejudices and emotions of the populace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impassioned appeals to the prejudices and emotions of the populace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassioned appeals to the prejudices and emotions of the populace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagogy designates impassioned appeals to the prejudices and emotions of the populace."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # admonishing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admonish or counsel in terms of someone's behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn strongly; put on guard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, they are our outward consciences, And preachers to us all, admonishing That we should dress us fairly for our end."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had begun by admonishing Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Be all this as it may, his voice was now often heard hailing the three mast-heads and admonishing them to keep a bright look-out, and not omit reporting even a porpoise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admonish or counsel in terms of someone's behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn strongly; put on guard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, they are our outward consciences, And preachers to us all, admonishing That we should dress us fairly for our end."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had begun by admonishing Mr."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Be all this as it may, his voice was now often heard hailing the three mast-heads and admonishing them to keep a bright look-out, and not omit reporting even a porpoise."*

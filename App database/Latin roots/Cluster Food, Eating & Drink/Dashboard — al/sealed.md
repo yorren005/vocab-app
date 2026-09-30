@@ -5,15 +5,6 @@ status: unread
 ---
 # sealed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make tight; secure against leakage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close with or as if with a seal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I crave our composition may be written And sealed between us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask for her And to her white hand see thou do commend This sealed-up counsel. [_Gives him money._] There’s thy guerdon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make tight; secure against leakage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close with or as if with a seal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I crave our composition may be written And sealed between us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask for her And to her white hand see thou do commend This sealed-up counsel. [_Gives him money._] There’s thy guerdon."*

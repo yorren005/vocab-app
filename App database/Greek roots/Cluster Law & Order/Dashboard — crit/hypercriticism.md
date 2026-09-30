@@ -5,13 +5,6 @@ status: unread
 ---
 # hypercriticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carping or unduly censorious critic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carping or unduly censorious critic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While a strict surveillance over leaders is highly commendable, the baneful effects of hypercriticism and jealous intrigues are far reaching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carping or unduly censorious critic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carping or unduly censorious critic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While a strict surveillance over leaders is highly commendable, the baneful effects of hypercriticism and jealous intrigues are far reaching."*

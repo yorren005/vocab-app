@@ -5,13 +5,6 @@ status: unread
 ---
 # sudatorium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bathhouse for hot air baths or steam baths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bathhouse for hot air baths or steam baths.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudatorium designates a bathhouse for hot air baths or steam baths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bathhouse for hot air baths or steam baths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bathhouse for hot air baths or steam baths.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudatorium designates a bathhouse for hot air baths or steam baths."*

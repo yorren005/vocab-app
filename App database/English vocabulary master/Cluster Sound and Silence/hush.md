@@ -5,20 +5,6 @@ status: unread
 ---
 # hush
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Calm, quiet
-> 2. **Nuance / Usage**: Put at rest : mollify
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hush the target*) and intransitive clauses (*hushing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The king has done you wrong; but hush ’tis so."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"he can say nothing of me; hush, hush!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"and in the serene and peaceful hush that rested on all around it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Calm, quiet
+> 2. **Nuance / Usage**: Put at rest : mollify
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hush the target*) and intransitive clauses (*hushing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The king has done you wrong; but hush ’tis so."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"he can say nothing of me; hush, hush!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"and in the serene and peaceful hush that rested on all around it."*

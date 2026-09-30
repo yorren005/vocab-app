@@ -5,15 +5,6 @@ status: unread
 ---
 # divisor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more integers that can be exactly divided into another integer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number by which a dividend is divided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Time is a mortal thought, the divisor of which 599:1 is the solar year."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is simple division: wealth the dividend, number of children the divisor."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was assumed that this wage fund, once set aside, was necessarily paid out to laborers, wages being therefore determined by simple division: laborers were the divisor, the wage fund the dividend, and the average wage the result."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more integers that can be exactly divided into another integer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number by which a dividend is divided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Time is a mortal thought, the divisor of which 599:1 is the solar year."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is simple division: wealth the dividend, number of children the divisor."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was assumed that this wage fund, once set aside, was necessarily paid out to laborers, wages being therefore determined by simple division: laborers were the divisor, the wage fund the dividend, and the average wage the result."*

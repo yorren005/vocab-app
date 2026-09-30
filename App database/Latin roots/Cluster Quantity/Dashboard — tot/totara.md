@@ -5,13 +5,6 @@ status: unread
 ---
 # totara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totara designates valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totara designates valuable timber tree of new zealand yielding hard reddish wood used for furniture and bridges and wharves."*

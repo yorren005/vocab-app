@@ -5,14 +5,6 @@ status: unread
 ---
 # temperamental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by temperament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to sharply varying moods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His indisposition for play was temperamental, not physical."*
-> - 📜 **James Joyce (*Ulysses*):** *"Generous to a fault of course, temperamental, no economising or any idea of the sort, always snapping at the bone for the shadow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by temperament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to sharply varying moods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His indisposition for play was temperamental, not physical."*
+> - 📜 **James Joyce (*Ulysses*):** *"Generous to a fault of course, temperamental, no economising or any idea of the sort, always snapping at the bone for the shadow."*

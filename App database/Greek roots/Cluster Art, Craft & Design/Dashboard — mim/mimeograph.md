@@ -5,13 +5,6 @@ status: unread
 ---
 # mimeograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A duplicator for making many copies that utilizes a stencil through which ink is pressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicator for making many copies that utilizes a stencil through which ink is pressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimeograph designates a duplicator for making many copies that utilizes a stencil through which ink is pressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A duplicator for making many copies that utilizes a stencil through which ink is pressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicator for making many copies that utilizes a stencil through which ink is pressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimeograph designates a duplicator for making many copies that utilizes a stencil through which ink is pressed."*

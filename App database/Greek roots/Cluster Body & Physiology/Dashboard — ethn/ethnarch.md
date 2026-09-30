@@ -5,13 +5,6 @@ status: unread
 ---
 # ethnarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ethn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, when a girl, she had been betrothed to Archelaus at the time he was ethnarch of Jerusalem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ethn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, when a girl, she had been betrothed to Archelaus at the time he was ethnarch of Jerusalem."*

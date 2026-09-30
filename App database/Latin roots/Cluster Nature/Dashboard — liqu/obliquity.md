@@ -5,15 +5,6 @@ status: unread
 ---
 # obliquity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presentation during labor of the head of the fetus at an abnormal angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deceptive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"And yet it is this very obliquity of thought and memory which makes mental disease such a fascinating study."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He bends his head, and moves with an indescribable obliquity of gait, as if unwilling to display his full front to the world."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She has a halt in her gait, red hair, and a trifling obliquity of vision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presentation during labor of the head of the fetus at an abnormal angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deceptive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"And yet it is this very obliquity of thought and memory which makes mental disease such a fascinating study."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He bends his head, and moves with an indescribable obliquity of gait, as if unwilling to display his full front to the world."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She has a halt in her gait, red hair, and a trifling obliquity of vision."*

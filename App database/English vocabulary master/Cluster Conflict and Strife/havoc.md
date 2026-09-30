@@ -5,20 +5,6 @@ status: unread
 ---
 # havoc
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Mayhem
-> 2. **Nuance / Usage**: Cause havoc
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Who hath made this havoc with them?"*
-> - 📜 **Herman Melville (*Moby Dick*):** *"Moby Dick, and the havoc he had made."*
-> - 📜 **Edgar Rice Burroughs (*The People that Time Forgot*):** *"But when I had come to that part of the city which I judged to have contained the relics I sought I found havoc that had been wrought there even greater than elsewhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Widespread destruction, devastation, and chaotic ruin.
+> 2. **Nuance / Usage**: Originated in Anglo-Norman military law (*crier havok*), where the command *"Cry havoc!"* was the signal given to an army to seize pillage and quarter no enemy; today most common in the idioms *wreak havoc* and *play havoc with*.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass).
+> - **Syntactic Constructions**: Functions as the direct object of verbs of destruction (*wreak havoc*, *play havoc with*, *cry havoc*).
+> - **Collocations & Registers**: Martial, dramatic, and environmental registers; paired with *wreak*, *cry*, *wrought*, *tempest*, and *devastation*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Cry '**Havoc**,' and let slip the dogs of war!"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors spoke in hushed tones of Moby Dick, and the **havoc** he had made among the whaling fleet."*
+> - 📜 **Edgar Rice Burroughs (*The People That Time Forgot*):** *"When I came to that part of the city, I found the **havoc** that had been wrought there even greater than elsewhere."*

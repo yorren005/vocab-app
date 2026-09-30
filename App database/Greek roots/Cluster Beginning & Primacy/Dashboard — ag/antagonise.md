@@ -5,13 +5,6 @@ status: unread
 ---
 # antagonise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke the hostility of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antagonise designates act in opposition to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in opposition to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke the hostility of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antagonise designates act in opposition to."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # servility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abject or cringing submissiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject or cringing submissiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be a queen in bondage is more vile Than is a slave in base servility; For princes should be free."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There is a mixture of servility and self-importance in his letter which promises well."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The French emissaries conducted themselves like lords of Germany, while the German princes vied with each other in acts of servility and submission to the arrogant Frenchmen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abject or cringing submissiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject or cringing submissiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be a queen in bondage is more vile Than is a slave in base servility; For princes should be free."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There is a mixture of servility and self-importance in his letter which promises well."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The French emissaries conducted themselves like lords of Germany, while the German princes vied with each other in acts of servility and submission to the arrogant Frenchmen."*

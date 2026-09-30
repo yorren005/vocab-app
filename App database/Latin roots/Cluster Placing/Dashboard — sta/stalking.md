@@ -5,15 +5,6 @@ status: unread
 ---
 # stalking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hunt for game carried on by following it stealthily or waiting in ambush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of following prey stealthily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He uses his folly like a stalking-horse, and under the presentation of that he shoots his wit."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To kill a duck with an arrow scarce paid for the labour of stalking and the long hours in hiding."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus Balder the Beautiful in my hands is little more than a stalking-horse to carry two heavy pack-loads of facts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hunt for game carried on by following it stealthily or waiting in ambush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of following prey stealthily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He uses his folly like a stalking-horse, and under the presentation of that he shoots his wit."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To kill a duck with an arrow scarce paid for the labour of stalking and the long hours in hiding."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus Balder the Beautiful in my hands is little more than a stalking-horse to carry two heavy pack-loads of facts."*

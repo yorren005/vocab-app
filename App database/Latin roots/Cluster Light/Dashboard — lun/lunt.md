@@ -5,13 +5,6 @@ status: unread
 ---
 # lunt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor who performed with his wife lynn fontanne in many stage productions (1893-1977).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actor who performed with his wife lynn fontanne in many stage productions (1893-1977).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lunt, a column of smoke or steam."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor who performed with his wife lynn fontanne in many stage productions (1893-1977).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actor who performed with his wife lynn fontanne in many stage productions (1893-1977).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lunt, a column of smoke or steam."*

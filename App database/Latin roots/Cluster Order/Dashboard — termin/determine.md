@@ -5,15 +5,6 @@ status: unread
 ---
 # determine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That he and Caesar might Determine this great war in single fight!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She soon shall know of us, by some of ours, How honourable and how kindly we Determine for her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will determine this before I stir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That he and Caesar might Determine this great war in single fight!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She soon shall know of us, by some of ours, How honourable and how kindly we Determine for her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will determine this before I stir."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sugarcane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Juicy canes whose sap is a source of molasses and commercial sugar; fresh canes are sometimes chewed for the juice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall tropical southeast asian grass having stout fibrous jointed stalks; sap is a chief source of sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sugarcane House, Richmond, March, 18-- DEAR MAMA,--I hope you are quite well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Juicy canes whose sap is a source of molasses and commercial sugar; fresh canes are sometimes chewed for the juice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall tropical southeast asian grass having stout fibrous jointed stalks; sap is a chief source of sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sugarcane House, Richmond, March, 18-- DEAR MAMA,--I hope you are quite well."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # comforted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen pain or discomfort; alleviate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must be gone; And I shall here abide the hourly shot Of angry eyes, not comforted to live But that there is this jewel in the world That I may see again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be comforted, good madam, the great rage, You see, is kill’d in him: and yet it is danger To make him even o’er the time he has lost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen pain or discomfort; alleviate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must be gone; And I shall here abide the hourly shot Of angry eyes, not comforted to live But that there is this jewel in the world That I may see again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be comforted, good madam, the great rage, You see, is kill’d in him: and yet it is danger To make him even o’er the time he has lost."*

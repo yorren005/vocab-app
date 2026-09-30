@@ -5,13 +5,6 @@ status: unread
 ---
 # cuttingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intentionally unkind way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intentionally unkind way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"BELLO: _(Cuttingly.)_ Their heelmarks will stamp the Brusselette carpet you bought at Wren’s auction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intentionally unkind way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intentionally unkind way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"BELLO: _(Cuttingly.)_ Their heelmarks will stamp the Brusselette carpet you bought at Wren’s auction."*

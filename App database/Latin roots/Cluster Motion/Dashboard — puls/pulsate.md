@@ -5,15 +5,6 @@ status: unread
 ---
 # pulsate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expand and contract rhythmically; beat rhythmically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move with or as if with a regular alternating motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan's veins began to pulsate with indignation as he reflected on the fact that the ludicrous in the race was the only feature that had free access to the public gaze."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"I introduce it here, as showing that the blood of even a savan pulsates warmly amid such circumstances as now surrounded us."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His thought had been unsuspended; he was becoming ill with thinking; eaten out with thinking, withered by thinking; scourged out of all his former pulsating, flexuous domesticity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expand and contract rhythmically; beat rhythmically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move with or as if with a regular alternating motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan's veins began to pulsate with indignation as he reflected on the fact that the ludicrous in the race was the only feature that had free access to the public gaze."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"I introduce it here, as showing that the blood of even a savan pulsates warmly amid such circumstances as now surrounded us."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His thought had been unsuspended; he was becoming ill with thinking; eaten out with thinking, withered by thinking; scourged out of all his former pulsating, flexuous domesticity."*

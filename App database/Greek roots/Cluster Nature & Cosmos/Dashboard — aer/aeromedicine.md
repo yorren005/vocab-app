@@ -5,13 +5,6 @@ status: unread
 ---
 # aeromedicine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromedicine designates a branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromedicine designates a branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems."*

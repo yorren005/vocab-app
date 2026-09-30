@@ -5,14 +5,6 @@ status: unread
 ---
 # ignoramus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ignorant person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ignorant person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"He's but a Blockhead at the best. * _Corny_, in Printing a _Latin_ Book, censur'd by the University, was forced to plead _Ignoramus_ to save his Bacon. _Another in the Shop, on C----'s Title Page_ LEARNING."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In our time the majority of so-called advanced people—that is, the crowd of ignoramuses—have taken the work of the naturalists who deal with one side of the question for a solution of the whole problem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ignorant person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ignorant person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"He's but a Blockhead at the best. * _Corny_, in Printing a _Latin_ Book, censur'd by the University, was forced to plead _Ignoramus_ to save his Bacon. _Another in the Shop, on C----'s Title Page_ LEARNING."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In our time the majority of so-called advanced people—that is, the crowd of ignoramuses—have taken the work of the naturalists who deal with one side of the question for a solution of the whole problem."*

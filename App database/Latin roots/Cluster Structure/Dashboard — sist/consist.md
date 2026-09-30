@@ -5,15 +5,6 @@ status: unread
 ---
 # consist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originate (in).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have its essential character; be comprised or contained in; be embodied in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear you not that: if we can make our peace Upon such large terms and so absolute As our conditions shall consist upon, Our peace shall stand as firm as rocky mountains."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome is peace, if he on peace consist; If wars, we are unable to resist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originate (in).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have its essential character; be comprised or contained in; be embodied in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear you not that: if we can make our peace Upon such large terms and so absolute As our conditions shall consist upon, Our peace shall stand as firm as rocky mountains."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome is peace, if he on peace consist; If wars, we are unable to resist."*

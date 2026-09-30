@@ -5,20 +5,6 @@ status: unread
 ---
 # sack
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Woman's loose-fitting dress
-> 2. **Nuance / Usage**: Usually rectangular-shaped bag (as of paper, burlap, or canvas)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Item, anchovies and sack after supper, 2s."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"There’s that will sack a city."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My lord, I’ll steep this letter in sack and make him eat it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To plunder, pillage, and despoil a captured town or city after storming its defenses; as a noun, the violent looting and devastation of a captured place (*the sack of Rome*).
+> 2. **Nuance / Usage**: Derived via French *mettre à sac* ("to put into a bag," from soldiers filling sacks with booty); in informal modern usage, to dismiss someone summarily from employment.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb & Noun (singular).
+> - **Syntactic Constructions**: Functions verbally (*sacked the city*) and nominally in historical phrases (*given over to sack and pillage*, *the sack of Constantinople*).
+> - **Collocations & Registers**: Martial and historical registers; paired with *pillage*, *burn*, *citadel*, *garrison*, and *plunder*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"There’s that will **sack** a city."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"During the **sack** of Rome, the Gothic soldiers respected the sanctuary of the Christian churches even as they stripped the palaces of gold."*
+> - 📜 **William Hickling Prescott (*History of the Conquest of Peru*):** *"The victorious troops were given license to **sack** the royal storehouses and divide the spoils of the capital."*

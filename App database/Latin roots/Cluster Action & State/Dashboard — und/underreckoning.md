@@ -5,13 +5,6 @@ status: unread
 ---
 # underreckoning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation that is too low; an estimate that is less than the true or actual value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underreckoning designates an estimation that is too low; an estimate that is less than the true or actual value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation that is too low; an estimate that is less than the true or actual value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underreckoning designates an estimation that is too low; an estimate that is less than the true or actual value."*

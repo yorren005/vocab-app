@@ -5,13 +5,6 @@ status: unread
 ---
 # paraphilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal sexual activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal sexual activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphilia designates abnormal sexual activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal sexual activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal sexual activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphilia designates abnormal sexual activity."*

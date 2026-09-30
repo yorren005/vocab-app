@@ -5,15 +5,6 @@ status: unread
 ---
 # ingenuity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of creative imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being ingenious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband states the question as if he were propounding an entirely new riddle of much ingenuity and merit to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A party, having less in common with such an occasion, could hardly have been got together by any ingenuity."*
-> - 📜 **Jane Austen (*Persuasion*):** *"His lameness prevented him from taking much exercise; but a mind of usefulness and ingenuity seemed to furnish him with constant employment within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of creative imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being ingenious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband states the question as if he were propounding an entirely new riddle of much ingenuity and merit to Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A party, having less in common with such an occasion, could hardly have been got together by any ingenuity."*
+> - 📜 **Jane Austen (*Persuasion*):** *"His lameness prevented him from taking much exercise; but a mind of usefulness and ingenuity seemed to furnish him with constant employment within."*

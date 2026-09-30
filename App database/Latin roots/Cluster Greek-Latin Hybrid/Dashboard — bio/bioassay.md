@@ -5,13 +5,6 @@ status: unread
 ---
 # bioassay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a bio-assay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioassay designates appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a bio-assay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioassay designates appraisal of the biological activity of a substance by testing its effect on an organism and comparing the result with some agreed standard."*

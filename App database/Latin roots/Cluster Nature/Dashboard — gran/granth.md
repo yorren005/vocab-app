@@ -5,13 +5,6 @@ status: unread
 ---
 # granth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal sacred text of sikhism contains hymns and poetry as well as the teachings of the first five gurus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal sacred text of sikhism contains hymns and poetry as well as the teachings of the first five gurus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granth designates the principal sacred text of sikhism contains hymns and poetry as well as the teachings of the first five gurus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal sacred text of sikhism contains hymns and poetry as well as the teachings of the first five gurus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal sacred text of sikhism contains hymns and poetry as well as the teachings of the first five gurus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granth designates the principal sacred text of sikhism contains hymns and poetry as well as the teachings of the first five gurus."*

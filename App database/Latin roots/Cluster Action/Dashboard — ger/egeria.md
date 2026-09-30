@@ -5,15 +5,6 @@ status: unread
 ---
 # egeria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of dioecious tropical aquatic plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of dioecious tropical aquatic plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One was Egeria, the nymph of the clear water which, bubbling from the basaltic rocks, used to fall in graceful cascades into the lake at the place called Le Mole, because here were established the mills of the modern village of Nemi."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Women with child used to sacrifice to Egeria, because she was believed, like Diana, to be able to grant them an easy delivery."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to some, the trysting-place of the lovers was not in the woods of Nemi but in a grove outside the dripping Porta Capena at Rome, where another sacred spring of Egeria gushed from a dark cavern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of dioecious tropical aquatic plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of dioecious tropical aquatic plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One was Egeria, the nymph of the clear water which, bubbling from the basaltic rocks, used to fall in graceful cascades into the lake at the place called Le Mole, because here were established the mills of the modern village of Nemi."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Women with child used to sacrifice to Egeria, because she was believed, like Diana, to be able to grant them an easy delivery."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to some, the trysting-place of the lovers was not in the woods of Nemi but in a grove outside the dripping Porta Capena at Rome, where another sacred spring of Egeria gushed from a dark cavern."*

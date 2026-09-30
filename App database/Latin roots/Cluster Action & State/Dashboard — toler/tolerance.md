@@ -5,15 +5,6 @@ status: unread
 ---
 # tolerance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or capacity of an organism to tolerate unfavorable environmental conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to allow freedom of choice and behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I here mention Hendrik Hamel as my adviser, for it has a bearing on much that followed at Keijo in the winning of Yunsan’s favour, the Lady Om’s heart, and the Emperor’s tolerance."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _limit of tolerance_ is the variation either above or below the standard weight or fineness that a coin is allowed to have when it leaves the mint."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are religions which inculcate the tolerance of wrong aiming at equanimity of mind or acquisition of merit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or capacity of an organism to tolerate unfavorable environmental conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to allow freedom of choice and behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I here mention Hendrik Hamel as my adviser, for it has a bearing on much that followed at Keijo in the winning of Yunsan’s favour, the Lady Om’s heart, and the Emperor’s tolerance."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _limit of tolerance_ is the variation either above or below the standard weight or fineness that a coin is allowed to have when it leaves the mint."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are religions which inculcate the tolerance of wrong aiming at equanimity of mind or acquisition of merit."*

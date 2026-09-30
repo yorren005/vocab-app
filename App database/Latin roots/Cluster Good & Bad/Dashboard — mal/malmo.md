@@ -5,15 +5,6 @@ status: unread
 ---
 # malmo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port in southern sweden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port in southern sweden.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo, the Wounded Rat Mama’s Happy Christmas Cured of Carelessness A Visit from a Prince Stringing Cranberries Christmas in California A Troublesome Call Bertie’s Corn-Popper Fire!"*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo was the only company Sam had."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"He worked in a cotton mill, and took Malmo with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port in southern sweden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port in southern sweden.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo, the Wounded Rat Mama’s Happy Christmas Cured of Carelessness A Visit from a Prince Stringing Cranberries Christmas in California A Troublesome Call Bertie’s Corn-Popper Fire!"*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo was the only company Sam had."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"He worked in a cotton mill, and took Malmo with him."*

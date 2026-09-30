@@ -5,15 +5,6 @@ status: unread
 ---
 # glob
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"His mouth moulded issuing breath, unspeeched: ooeeehah: roar of cataractic planets, globed, blazing, roaring wayawayawayawayaway."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"Ripples break and bubbles rise Catching smiles from out the skies In their globed eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her breasts like ivory globes circled with blue, A pair of maiden worlds unconquered, Save of their lord no bearing yoke they knew, And him by oath they truly honoured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"His mouth moulded issuing breath, unspeeched: ooeeehah: roar of cataractic planets, globed, blazing, roaring wayawayawayawayaway."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"Ripples break and bubbles rise Catching smiles from out the skies In their globed eyes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her breasts like ivory globes circled with blue, A pair of maiden worlds unconquered, Save of their lord no bearing yoke they knew, And him by oath they truly honoured."*

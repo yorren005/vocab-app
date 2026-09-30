@@ -5,15 +5,6 @@ status: unread
 ---
 # fane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fan within the domain of Sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fan in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The idol was partly concealed by the foliage of a tree which stood near, and whose leafy boughs drooped over the pile of stones, as if to protect the rude fane from the decay to which it was rapidly hastening."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We had met at a summer hotel where Kathie and I chanced to be staying, and never shall I forget my first sight of Charmion Fane as she trailed into the dining-room and seated herself at a small table opposite our own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fan within the domain of Sacred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fan in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The idol was partly concealed by the foliage of a tree which stood near, and whose leafy boughs drooped over the pile of stones, as if to protect the rude fane from the decay to which it was rapidly hastening."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We had met at a summer hotel where Kathie and I chanced to be staying, and never shall I forget my first sight of Charmion Fane as she trailed into the dining-room and seated herself at a small table opposite our own."*

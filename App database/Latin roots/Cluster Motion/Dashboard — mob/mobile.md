@@ -5,15 +5,6 @@ status: unread
 ---
 # mobile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southwestern alabama; flows into mobile bay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port in southwestern alabama on mobile bay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was a fine and handsome girl—not handsomer than some others, possibly—but her mobile peony mouth and large innocent eyes added eloquence to colour and shape."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had the mobile face frequent in those whose sight has decayed by stages, has been laboriously striven after, and reluctantly let go, rather than the stagnant mien apparent in persons long sightless or born blind."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long chimney running up beside an ash-tree, and the warmth which radiated from the spot, explained without the necessity of much daylight that here was the engine which was to act as the _primum mobile_ of this little world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southwestern alabama; flows into mobile bay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port in southwestern alabama on mobile bay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was a fine and handsome girl—not handsomer than some others, possibly—but her mobile peony mouth and large innocent eyes added eloquence to colour and shape."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had the mobile face frequent in those whose sight has decayed by stages, has been laboriously striven after, and reluctantly let go, rather than the stagnant mien apparent in persons long sightless or born blind."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long chimney running up beside an ash-tree, and the warmth which radiated from the spot, explained without the necessity of much daylight that here was the engine which was to act as the _primum mobile_ of this little world."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thyroxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroxin designates hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroxin designates hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eucalypt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eucalyptus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eucalyptus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eucalypt designates eucalyptus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eucalyptus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eucalyptus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eucalypt designates eucalyptus."*

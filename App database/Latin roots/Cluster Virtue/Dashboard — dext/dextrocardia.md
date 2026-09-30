@@ -5,13 +5,6 @@ status: unread
 ---
 # dextrocardia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal condition where the heart is located toward the right side of the chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal condition where the heart is located toward the right side of the chest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrocardia designates abnormal condition where the heart is located toward the right side of the chest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal condition where the heart is located toward the right side of the chest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal condition where the heart is located toward the right side of the chest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrocardia designates abnormal condition where the heart is located toward the right side of the chest."*

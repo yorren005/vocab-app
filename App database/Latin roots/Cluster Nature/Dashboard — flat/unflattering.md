@@ -5,15 +5,6 @@ status: unread
 ---
 # unflattering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or representing unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or representing unfavorably.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Perhaps because he was piqued by Mary's refusal, he has left a rather unflattering portrait of her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"One lives on them better than on unflattering ones."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not Coleridge first threw that spell; but God’s great, unflattering laureate, Nature.[5] [5] I remember the first albatross I ever saw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or representing unfavorably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or representing unfavorably.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Perhaps because he was piqued by Mary's refusal, he has left a rather unflattering portrait of her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"One lives on them better than on unflattering ones."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not Coleridge first threw that spell; but God’s great, unflattering laureate, Nature.[5] [5] I remember the first albatross I ever saw."*

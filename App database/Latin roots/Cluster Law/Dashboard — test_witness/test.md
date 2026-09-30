@@ -5,15 +5,6 @@ status: unread
 ---
 # test
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trying something to find out about it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring me to the test, And I the matter will re-word; which madness Would gambol from."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, good my lord, Let there be some more test made of my metal, Before so noble and so great a figure Be stamped upon it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To vouch this is no proof; Without more wider and more overt test Than these thin habits and poor likelihoods Of modern seeming do prefer against him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trying something to find out about it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring me to the test, And I the matter will re-word; which madness Would gambol from."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, good my lord, Let there be some more test made of my metal, Before so noble and so great a figure Be stamped upon it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To vouch this is no proof; Without more wider and more overt test Than these thin habits and poor likelihoods Of modern seeming do prefer against him."*

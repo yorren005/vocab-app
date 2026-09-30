@@ -5,13 +5,6 @@ status: unread
 ---
 # selenicereus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly epiphytic climbing cacti that bloom at night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly epiphytic climbing cacti that bloom at night.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenicereus designates mostly epiphytic climbing cacti that bloom at night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly epiphytic climbing cacti that bloom at night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly epiphytic climbing cacti that bloom at night.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenicereus designates mostly epiphytic climbing cacti that bloom at night."*

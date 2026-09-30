@@ -5,13 +5,6 @@ status: unread
 ---
 # antitrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Winds blowing from west to east and lying above the trade winds in the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winds blowing from west to east and lying above the trade winds in the tropics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrade designates winds blowing from west to east and lying above the trade winds in the tropics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Winds blowing from west to east and lying above the trade winds in the tropics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winds blowing from west to east and lying above the trade winds in the tropics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrade designates winds blowing from west to east and lying above the trade winds in the tropics."*

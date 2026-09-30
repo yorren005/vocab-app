@@ -5,13 +5,6 @@ status: unread
 ---
 # insuperably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insuperable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an insuperable degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This instant at which I speak to you shows me again exactly how, to my great misfortune, you just insuperably charm me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insuperable degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an insuperable degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This instant at which I speak to you shows me again exactly how, to my great misfortune, you just insuperably charm me."*

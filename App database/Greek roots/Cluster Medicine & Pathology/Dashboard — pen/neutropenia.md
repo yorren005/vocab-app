@@ -5,13 +5,6 @@ status: unread
 ---
 # neutropenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leukopenia in which the decrease in white blood cells is chiefly in neutrophils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leukopenia in which the decrease in white blood cells is chiefly in neutrophils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neutropenia designates leukopenia in which the decrease in white blood cells is chiefly in neutrophils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leukopenia in which the decrease in white blood cells is chiefly in neutrophils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leukopenia in which the decrease in white blood cells is chiefly in neutrophils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neutropenia designates leukopenia in which the decrease in white blood cells is chiefly in neutrophils."*

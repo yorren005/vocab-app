@@ -5,14 +5,6 @@ status: unread
 ---
 # simian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ape or monkey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling an ape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With a wail of anguish the simian clutched at the precious object."*
-> - 📜 **James Joyce (*Ulysses*):** *"Seven dwarf simian acolytes, also in red, cardinal sins, uphold his train, peeping under it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ape or monkey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling an ape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With a wail of anguish the simian clutched at the precious object."*
+> - 📜 **James Joyce (*Ulysses*):** *"Seven dwarf simian acolytes, also in red, cardinal sins, uphold his train, peeping under it."*

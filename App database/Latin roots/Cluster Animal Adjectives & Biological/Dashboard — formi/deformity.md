@@ -5,15 +5,6 @@ status: unread
 ---
 # deformity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance that has been spoiled or is misshapen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proper deformity seems not in the fiend So horrid as in woman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blush, blush, thou lump of foul deformity, For ’tis thy presence that exhales this blood From cold and empty veins where no blood dwells."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your own present folly and her passing deformity; for he, being in love, could not see to garter his hose; and you, being in love, cannot see to put on your hose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance that has been spoiled or is misshapen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proper deformity seems not in the fiend So horrid as in woman."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blush, blush, thou lump of foul deformity, For ’tis thy presence that exhales this blood From cold and empty veins where no blood dwells."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your own present folly and her passing deformity; for he, being in love, could not see to garter his hose; and you, being in love, cannot see to put on your hose."*

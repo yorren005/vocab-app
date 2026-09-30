@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclothymia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclothymia designates a mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclothymia designates a mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder."*

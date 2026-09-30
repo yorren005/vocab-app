@@ -5,15 +5,6 @@ status: unread
 ---
 # damn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of little value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wish harm upon; invoke evil upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damn’d than to do’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perform’t, or else we damn thee.” ANTONY."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of little value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wish harm upon; invoke evil upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damn’d than to do’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perform’t, or else we damn thee.” ANTONY."*

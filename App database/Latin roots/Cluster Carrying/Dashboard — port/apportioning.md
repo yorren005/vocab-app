@@ -5,15 +5,6 @@ status: unread
 ---
 # apportioning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute according to a plan or set apart for a special purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No hard-and-fast rule for the apportioning of taxes can be laid down."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But there are various ways of attacking incomes, i.e., of apportioning the tax burden."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If one pays more for the services of the singer than for those of the cook, it is not because one would rather listen to the singing than to eat when starving, but because by apportioning one's income one can get the singing and the eating too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute according to a plan or set apart for a special purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No hard-and-fast rule for the apportioning of taxes can be laid down."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But there are various ways of attacking incomes, i.e., of apportioning the tax burden."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If one pays more for the services of the singer than for those of the cook, it is not because one would rather listen to the singing than to eat when starving, but because by apportioning one's income one can get the singing and the eating too."*

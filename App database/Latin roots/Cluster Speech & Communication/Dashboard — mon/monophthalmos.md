@@ -5,13 +5,6 @@ status: unread
 ---
 # monophthalmos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general of alexander the great and king of macedonia; lost one eye; killed in a battle at ipsus (382-301 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general of alexander the great and king of macedonia; lost one eye; killed in a battle at ipsus (382-301 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthalmos designates a general of alexander the great and king of macedonia; lost one eye; killed in a battle at ipsus (382-301 bc)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general of alexander the great and king of macedonia; lost one eye; killed in a battle at ipsus (382-301 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general of alexander the great and king of macedonia; lost one eye; killed in a battle at ipsus (382-301 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthalmos designates a general of alexander the great and king of macedonia; lost one eye; killed in a battle at ipsus (382-301 bc)."*

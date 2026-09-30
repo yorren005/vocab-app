@@ -5,13 +5,6 @@ status: unread
 ---
 # endotoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endotoxin designates a toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endotoxin designates a toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die."*

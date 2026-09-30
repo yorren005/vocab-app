@@ -5,15 +5,6 @@ status: unread
 ---
 # averment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I contradict that statement by an appeal to the record; and before that great tribunal by whom this issue is to be tried and determined, I allege that that averment is without foundation."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The averment of a member, or of somebody without doors, that they know the handwriting of the petitioners, is necessary, if it be questioned. _6 Grey_, 36."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Tradition,—which sometimes brings down truth that history has let slip, but is oftener the wild babble of the time, such as was formerly spoken at the fireside and now congeals in newspapers,—tradition is responsible for all contrary averments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I contradict that statement by an appeal to the record; and before that great tribunal by whom this issue is to be tried and determined, I allege that that averment is without foundation."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The averment of a member, or of somebody without doors, that they know the handwriting of the petitioners, is necessary, if it be questioned. _6 Grey_, 36."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Tradition,—which sometimes brings down truth that history has let slip, but is oftener the wild babble of the time, such as was formerly spoken at the fireside and now congeals in newspapers,—tradition is responsible for all contrary averments."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # eleven
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of ten and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A team that plays football.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus we may see,” quoth he, “how the world wags. ’Tis but an hour ago since it was nine, And after one hour more ’twill be eleven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Martius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon the platform ’twixt eleven and twelve, I’ll visit you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of ten and one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A team that plays football.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus we may see,” quoth he, “how the world wags. ’Tis but an hour ago since it was nine, And after one hour more ’twill be eleven."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Martius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon the platform ’twixt eleven and twelve, I’ll visit you."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # audio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The audible part of a transmitted signal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An audible acoustic wave frequency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Strategic Concepts Computer presented visual displays accompanied by a gently modulated audio."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The message calls for an audio-visual presentation in the view tank."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Many of them use tech data recorded on audio systems or in Braille."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The audible part of a transmitted signal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An audible acoustic wave frequency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Strategic Concepts Computer presented visual displays accompanied by a gently modulated audio."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The message calls for an audio-visual presentation in the view tank."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Many of them use tech data recorded on audio systems or in Braille."*

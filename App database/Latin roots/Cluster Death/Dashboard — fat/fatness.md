@@ -5,15 +5,6 @@ status: unread
 ---
 # fatness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excess bodily weight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess bodily weight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forgive me this my virtue; For in the fatness of these pursy times Virtue itself of vice must pardon beg, Yea, curb and woo for leave to do him good."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"May this house live upon the fatness of the land; may corn and wine be plentiful therein; may it grow, may it thrive, may it prosper, may it advance, may it proceed, may it press forward!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXIV Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the rush of juices could almost be heard below the hiss of fertilization, it was impossible that the most fanciful love should not grow passionate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excess bodily weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess bodily weight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forgive me this my virtue; For in the fatness of these pursy times Virtue itself of vice must pardon beg, Yea, curb and woo for leave to do him good."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"May this house live upon the fatness of the land; may corn and wine be plentiful therein; may it grow, may it thrive, may it prosper, may it advance, may it proceed, may it press forward!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXIV Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the rush of juices could almost be heard below the hiss of fertilization, it was impossible that the most fanciful love should not grow passionate."*

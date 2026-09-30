@@ -5,15 +5,6 @@ status: unread
 ---
 # impel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Urge or force (a person) to an action; constrain or motivate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move forward with force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They impel her to say, “Snagsby has something on his mind!” And thus suspicion gets into Cook’s Court, Cursitor Street."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why he did so he could not say, but something seemed to impel him to the act."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My state of mind regarding the pilfering from which I had been so unexpectedly exonerated did not impel me to frank disclosure; but I hope it had some dregs of good at the bottom of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Urge or force (a person) to an action; constrain or motivate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move forward with force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They impel her to say, “Snagsby has something on his mind!” And thus suspicion gets into Cook’s Court, Cursitor Street."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why he did so he could not say, but something seemed to impel him to the act."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My state of mind regarding the pilfering from which I had been so unexpectedly exonerated did not impel me to frank disclosure; but I hope it had some dregs of good at the bottom of it."*

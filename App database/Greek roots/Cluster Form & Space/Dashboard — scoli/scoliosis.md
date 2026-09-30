@@ -5,13 +5,6 @@ status: unread
 ---
 # scoliosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lateral curvature of the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lateral curvature of the spine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scoliosis designates a lateral curvature of the spine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lateral curvature of the spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lateral curvature of the spine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scoliosis designates a lateral curvature of the spine."*

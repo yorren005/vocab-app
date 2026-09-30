@@ -5,15 +5,6 @@ status: unread
 ---
 # departure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of departing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variation that deviates from the standard or norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the business be of any difficulty and this morning your departure hence, it requires haste of your lordship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they suffer our departure, death’s the word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But for thee, fellow, Who needs must know of her departure and Dost seem so ignorant, we’ll enforce it from thee By a sharp torture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of departing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variation that deviates from the standard or norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the business be of any difficulty and this morning your departure hence, it requires haste of your lordship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they suffer our departure, death’s the word."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But for thee, fellow, Who needs must know of her departure and Dost seem so ignorant, we’ll enforce it from thee By a sharp torture."*

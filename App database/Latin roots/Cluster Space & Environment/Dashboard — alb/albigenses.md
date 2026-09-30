@@ -5,13 +5,6 @@ status: unread
 ---
 # albigenses
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The adoration of each other was customary among the Albigenses, and is noticed hundreds of times in the records of the Inquisition at Toulouse in the early part of the fourteenth century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The adoration of each other was customary among the Albigenses, and is noticed hundreds of times in the records of the Inquisition at Toulouse in the early part of the fourteenth century."*

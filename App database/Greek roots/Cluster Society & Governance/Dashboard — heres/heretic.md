@@ -5,15 +5,6 @@ status: unread
 ---
 # heretic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who differs in opinion from established religious dogma; specifically : a baptized member of the Roman Catholic Church who refuses to acknowledge or accept a truth made known through divine inspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who differs in opinion from an accepted belief or doctrine : nonconformist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Again, there is sprung up An heretic, an arch-one, Cranmer, one Hath crawled into the favour of the King And is his oracle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Philip of France, on peril of a curse, Let go the hand of that arch-heretic, And raise the power of France upon his head, Unless he do submit himself to Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now doth thy honour stand, In him that was of late an heretic, As firm as faith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who differs in opinion from established religious dogma; specifically : a baptized member of the Roman Catholic Church who refuses to acknowledge or accept a truth made known through divine inspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who differs in opinion from an accepted belief or doctrine : nonconformist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Again, there is sprung up An heretic, an arch-one, Cranmer, one Hath crawled into the favour of the King And is his oracle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Philip of France, on peril of a curse, Let go the hand of that arch-heretic, And raise the power of France upon his head, Unless he do submit himself to Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now doth thy honour stand, In him that was of late an heretic, As firm as faith."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # Melanesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands in the Pacific northeast of Australia and south of Micronesia including the Bismarck Archipelago, the Solomons, Vanuatu, New Caledonia, and the Fijis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the Pacific northeast of Australia and south of Micronesia including the Bismarck Archipelago, the Solomons, Vanuatu, New Caledonia, and the Fijis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parts of Melanesia a like belief prevails that certain sacred stones are endowed with miraculous powers which correspond in their nature to the shape of the stone."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Melanesia, if a man's friends get possession of the arrow which wounded him, they keep it in a damp place or in cool leaves, for then the inflammation will be trifling and will soon subside."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same fear seems to be general in Melanesia, and has led to a regular practice of hiding cut hair and nails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands in the Pacific northeast of Australia and south of Micronesia including the Bismarck Archipelago, the Solomons, Vanuatu, New Caledonia, and the Fijis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the Pacific northeast of Australia and south of Micronesia including the Bismarck Archipelago, the Solomons, Vanuatu, New Caledonia, and the Fijis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parts of Melanesia a like belief prevails that certain sacred stones are endowed with miraculous powers which correspond in their nature to the shape of the stone."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Melanesia, if a man's friends get possession of the arrow which wounded him, they keep it in a damp place or in cool leaves, for then the inflammation will be trifling and will soon subside."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same fear seems to be general in Melanesia, and has led to a regular practice of hiding cut hair and nails."*

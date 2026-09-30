@@ -5,13 +5,6 @@ status: unread
 ---
 # psychopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopathy designates any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopathy designates any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # disrespect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of lack of respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disrespectful mental attitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I do not wish to speak with disrespect, M. le Maire.' 'What is it, Jacques, that is said?' I had called him 'thou' not out of contempt, but because, for the moment, he seemed to me as a brother, as one of my friends."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. le Maire,' he said, 'as there are none of us here who would show disrespect to the Church and holy things--that is understood--it is not necessary to enter into details."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You will not, I hope, consider me as showing any disrespect to your family, my dear madam, by thus withdrawing my pretensions to your daughter’s favour, without having paid yourself and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of lack of respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disrespectful mental attitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I do not wish to speak with disrespect, M. le Maire.' 'What is it, Jacques, that is said?' I had called him 'thou' not out of contempt, but because, for the moment, he seemed to me as a brother, as one of my friends."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. le Maire,' he said, 'as there are none of us here who would show disrespect to the Church and holy things--that is understood--it is not necessary to enter into details."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You will not, I hope, consider me as showing any disrespect to your family, my dear madam, by thus withdrawing my pretensions to your daughter’s favour, without having paid yourself and Mr."*

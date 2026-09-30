@@ -5,13 +5,6 @@ status: unread
 ---
 # alienor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone from whom the title of property is transferred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone from whom the title of property is transferred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alienor designates someone from whom the title of property is transferred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone from whom the title of property is transferred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone from whom the title of property is transferred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alienor designates someone from whom the title of property is transferred."*

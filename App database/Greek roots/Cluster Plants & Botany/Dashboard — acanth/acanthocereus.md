@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthocereus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocereus designates mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocereus designates mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region."*

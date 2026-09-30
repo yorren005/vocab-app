@@ -5,13 +5,6 @@ status: unread
 ---
 # pinocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinocytosis designates the uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinocytosis designates the uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane."*

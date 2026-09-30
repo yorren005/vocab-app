@@ -5,13 +5,6 @@ status: unread
 ---
 # brachiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swinging by the arms from branch to branch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swinging by the arms from branch to branch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiation designates swinging by the arms from branch to branch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swinging by the arms from branch to branch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swinging by the arms from branch to branch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiation designates swinging by the arms from branch to branch."*

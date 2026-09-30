@@ -5,13 +5,6 @@ status: unread
 ---
 # locomotor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to locomotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to locomotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"FLORRY: _(Nods.)_ Locomotor ataxy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to locomotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"FLORRY: _(Nods.)_ Locomotor ataxy."*

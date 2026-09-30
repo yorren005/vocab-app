@@ -5,14 +5,6 @@ status: unread
 ---
 # undiscerning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discernment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking discernment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be stupidly undiscerning and odiously unjust."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I know some who laugh at it, as the trick of the crafty FEW, to lead the undiscerning MANY; or at most, as an uncertain obscurity which mankind can never know anything of, and with which they are fools if they give themselves much to do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking discernment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be stupidly undiscerning and odiously unjust."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I know some who laugh at it, as the trick of the crafty FEW, to lead the undiscerning MANY; or at most, as an uncertain obscurity which mankind can never know anything of, and with which they are fools if they give themselves much to do."*

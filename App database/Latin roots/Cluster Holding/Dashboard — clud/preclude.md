@@ -5,15 +5,6 @@ status: unread
 ---
 # preclude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep from happening or arising; make impossible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make impossible, especially beforehand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fire was issuing from a long straw-stack, which was so far gone as to preclude a possibility of saving it."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their homes were so distant, and the circles in which they moved so distinct, as almost to preclude the means of ever hearing of each other’s existence during the eleven following years, or, at least, to make it very wonderful to Sir Thomas that Mrs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Their number, without an unwarrantable increase of expense, cannot be large enough to preclude a facility of combination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep from happening or arising; make impossible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make impossible, especially beforehand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fire was issuing from a long straw-stack, which was so far gone as to preclude a possibility of saving it."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Their homes were so distant, and the circles in which they moved so distinct, as almost to preclude the means of ever hearing of each other’s existence during the eleven following years, or, at least, to make it very wonderful to Sir Thomas that Mrs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Their number, without an unwarrantable increase of expense, cannot be large enough to preclude a facility of combination."*

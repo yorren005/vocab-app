@@ -5,15 +5,6 @@ status: unread
 ---
 # antagonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provoke the hostility of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in opposition to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"These pioneers, in their contact with the members of divers creeds, races and nations, covering a range which offers no parallel in either the north or south continents, must neither antagonize them nor compromise with their own essential principles."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are many sins which few men have the courage to antagonize in public."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Not wishing to antagonize them, he advanced them money, and in a short time owned nearly all the fifteen interests in the Landreau claim of $125,000,000."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provoke the hostility of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in opposition to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"These pioneers, in their contact with the members of divers creeds, races and nations, covering a range which offers no parallel in either the north or south continents, must neither antagonize them nor compromise with their own essential principles."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are many sins which few men have the courage to antagonize in public."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Not wishing to antagonize them, he advanced them money, and in a short time owned nearly all the fifteen interests in the Landreau claim of $125,000,000."*

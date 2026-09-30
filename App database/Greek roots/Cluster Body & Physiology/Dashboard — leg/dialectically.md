@@ -5,13 +5,6 @@ status: unread
 ---
 # dialectically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dialectic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dialectic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So at Dodona the oak-god Zeus was coupled with Dione, whose very name is only a dialectically different form of Juno; and so on the top of Mount Cithaeron, as we have seen, he appears to have been periodically wedded to an oaken image of Hera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dialectic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dialectic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So at Dodona the oak-god Zeus was coupled with Dione, whose very name is only a dialectically different form of Juno; and so on the top of Mount Cithaeron, as we have seen, he appears to have been periodically wedded to an oaken image of Hera."*

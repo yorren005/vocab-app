@@ -5,13 +5,6 @@ status: unread
 ---
 # photocell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transducer used to detect and measure light and other radiations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transducer used to detect and measure light and other radiations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocell designates a transducer used to detect and measure light and other radiations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transducer used to detect and measure light and other radiations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transducer used to detect and measure light and other radiations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocell designates a transducer used to detect and measure light and other radiations."*

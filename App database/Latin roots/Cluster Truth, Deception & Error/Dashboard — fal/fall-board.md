@@ -5,13 +5,6 @@ status: unread
 ---
 # fall-board
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hinged protective covering that protects the keyboard of a piano when it is not being played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hinged protective covering that protects the keyboard of a piano when it is not being played.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fall-board designates the hinged protective covering that protects the keyboard of a piano when it is not being played."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hinged protective covering that protects the keyboard of a piano when it is not being played.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hinged protective covering that protects the keyboard of a piano when it is not being played.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fall-board designates the hinged protective covering that protects the keyboard of a piano when it is not being played."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # angioma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor composed chiefly of blood vessels or lymph vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumor composed chiefly of blood vessels or lymph vessels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioma designates a tumor composed chiefly of blood vessels or lymph vessels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor composed chiefly of blood vessels or lymph vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumor composed chiefly of blood vessels or lymph vessels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioma designates a tumor composed chiefly of blood vessels or lymph vessels."*

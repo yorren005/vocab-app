@@ -5,15 +5,6 @@ status: unread
 ---
 # regale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with choice or abundant food or drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with choice or abundant food or drink.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And so he would bring down to the class a tattered Father or two, and would regale its members with long Greek quotations and with a mass of details that were pure gold to him but were hid treasure to them."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Still, however, it was her private regale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Who would think, then, that such fine ladies and gentlemen should regale themselves with an essence found in the inglorious bowels of a sick whale!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with choice or abundant food or drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with choice or abundant food or drink.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"And so he would bring down to the class a tattered Father or two, and would regale its members with long Greek quotations and with a mass of details that were pure gold to him but were hid treasure to them."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Still, however, it was her private regale."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Who would think, then, that such fine ladies and gentlemen should regale themselves with an essence found in the inglorious bowels of a sick whale!"*

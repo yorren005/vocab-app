@@ -5,13 +5,6 @@ status: unread
 ---
 # dorsum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of a human (or animal) body from the neck to the end of the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back of the body of a vertebrate or any analogous surface (as the upper or outer surface of an organ or appendage or part).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsum designates the posterior part of a human (or animal) body from the neck to the end of the spine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of a human (or animal) body from the neck to the end of the spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back of the body of a vertebrate or any analogous surface (as the upper or outer surface of an organ or appendage or part).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsum designates the posterior part of a human (or animal) body from the neck to the end of the spine."*

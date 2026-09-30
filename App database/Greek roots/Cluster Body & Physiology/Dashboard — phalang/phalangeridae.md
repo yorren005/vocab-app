@@ -5,13 +5,6 @@ status: unread
 ---
 # phalangeridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phalangers; koalas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phalangers; koalas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangeridae designates phalangers; koalas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Phalangers; koalas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phalangers; koalas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangeridae designates phalangers; koalas."*

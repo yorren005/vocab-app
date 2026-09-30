@@ -5,13 +5,6 @@ status: unread
 ---
 # monnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French economist who advocated a common market in europe (1888-1979).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French economist who advocated a common market in europe (1888-1979).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monnet designates french economist who advocated a common market in europe (1888-1979)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French economist who advocated a common market in europe (1888-1979).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French economist who advocated a common market in europe (1888-1979).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monnet designates french economist who advocated a common market in europe (1888-1979)."*

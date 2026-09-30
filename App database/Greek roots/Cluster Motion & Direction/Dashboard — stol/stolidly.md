@@ -5,15 +5,6 @@ status: unread
 ---
 # stolidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stolid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stolid manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I must except, however, the little recruit into the Infant Bonds of Joy, who was stolidly and evenly miserable."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The congregation was assembling from different parts, and everybody who passed stared at us, the men stolidly enough, the women with a curiosity which, to my mind at least, had something antagonistic in its nature."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The blunt, roughly-hewn profile stared stolidly ahead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stolid manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stolid manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I must except, however, the little recruit into the Infant Bonds of Joy, who was stolidly and evenly miserable."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The congregation was assembling from different parts, and everybody who passed stared at us, the men stolidly enough, the women with a curiosity which, to my mind at least, had something antagonistic in its nature."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The blunt, roughly-hewn profile stared stolidly ahead."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # partial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonic with a frequency that is a multiple of the fundamental frequency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If eyes corrupt by over-partial looks, Be anchored in the bay where all men ride, Why of eyes’ falsehood hast thou forged hooks, Whereto the judgement of my heart is tied?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not partial to infringe our laws."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll warrant she’ll tax him home, And as you said, and wisely was it said, ’Tis meet that some more audience than a mother, Since nature makes them partial, should o’erhear The speech of vantage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonic with a frequency that is a multiple of the fundamental frequency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If eyes corrupt by over-partial looks, Be anchored in the bay where all men ride, Why of eyes’ falsehood hast thou forged hooks, Whereto the judgement of my heart is tied?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not partial to infringe our laws."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll warrant she’ll tax him home, And as you said, and wisely was it said, ’Tis meet that some more audience than a mother, Since nature makes them partial, should o’erhear The speech of vantage."*

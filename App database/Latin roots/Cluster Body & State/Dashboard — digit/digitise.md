@@ -5,13 +5,6 @@ status: unread
 ---
 # digitise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into digital form, as for use in a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into digital form, as for use in a computer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitise designates put into digital form, as for use in a computer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into digital form, as for use in a computer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into digital form, as for use in a computer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitise designates put into digital form, as for use in a computer."*

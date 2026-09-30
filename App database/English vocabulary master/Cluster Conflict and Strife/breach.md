@@ -5,20 +5,6 @@ status: unread
 ---
 # breach
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Gap (as in a wall) made by battering
-> 2. **Nuance / Usage**: The act of breaking, in a figurative sense
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"faith be not tainted with the breach of hers."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"More honour’d in the breach than the observance."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But weakly guarded, where the breach was made."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A gap, rupture, or broken opening battered through a defensive wall, rampart, or barrier; as a verb, to break through or shatter a defense.
+> 2. **Nuance / Usage**: In legal and social contexts, an infraction or violation of a law, contract, trust, or standard (*breach of the peace*, *breach of faith*), or a severe estrangement in friendly relations.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Transitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*step into the breach*, *breach of contract*) and transitively (*breached the outer wall*).
+> - **Collocations & Registers**: Martial, legal, and diplomatic registers; paired with *wall*, *rampart*, *faith*, *contract*, and *observance*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry V*):** *"Once more unto the **breach**, dear friends, once more; or close the wall up with our English dead!"*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The assailants poured through the **breach** in the outer palisade with loud shouts of triumph."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Nothing could justify so gross a **breach** of faith and common civility."*

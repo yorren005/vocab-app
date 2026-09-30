@@ -5,15 +5,6 @@ status: unread
 ---
 # robed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothe formally; especially in ecclesiastical robes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover as if with clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring in their evidence. [_To Edgar._] Thou, robed man of justice, take thy place. [_To the Fool._] And thou, his yokefellow of equity, Bench by his side. [_To Kent._] You are o’ the commission, Sit you too."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the bedroom window above their heads Bathsheba’s head and shoulders, robed in mystic white, were dimly seen extended into the air."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In fact, at that moment she was being robed in her grave-clothes by two attendants at the Union poorhouse—the first and last tiring-women the gentle creature had ever been honoured with."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothe formally; especially in ecclesiastical robes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover as if with clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring in their evidence. [_To Edgar._] Thou, robed man of justice, take thy place. [_To the Fool._] And thou, his yokefellow of equity, Bench by his side. [_To Kent._] You are o’ the commission, Sit you too."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the bedroom window above their heads Bathsheba’s head and shoulders, robed in mystic white, were dimly seen extended into the air."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In fact, at that moment she was being robed in her grave-clothes by two attendants at the Union poorhouse—the first and last tiring-women the gentle creature had ever been honoured with."*

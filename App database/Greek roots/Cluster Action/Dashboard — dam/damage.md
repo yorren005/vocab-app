@@ -5,15 +5,6 @@ status: unread
 ---
 # damage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of a change for the worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of military equipment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He answered, “Tush, It can do me no damage,” adding further That had the King in his last sickness failed, The Cardinal’s and Sir Thomas Lovell’s heads Should have gone off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About it, for it stands me much upon To stop all hopes whose growth may damage me. [_Exit Catesby._] I must be married to my brother’s daughter, Or else my kingdom stands on brittle glass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But alas, Our hands advanced before our hearts, what will The fall o’ th’ stroke do damage?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of a change for the worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of military equipment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He answered, “Tush, It can do me no damage,” adding further That had the King in his last sickness failed, The Cardinal’s and Sir Thomas Lovell’s heads Should have gone off."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About it, for it stands me much upon To stop all hopes whose growth may damage me. [_Exit Catesby._] I must be married to my brother’s daughter, Or else my kingdom stands on brittle glass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But alas, Our hands advanced before our hearts, what will The fall o’ th’ stroke do damage?"*

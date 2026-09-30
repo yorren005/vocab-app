@@ -5,15 +5,6 @@ status: unread
 ---
 # malignancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a malignant state; progressive and resistant to treatment and tending to cause death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being disposed to evil; intense ill will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your patience, no; my stars shine darkly over me; the malignancy of my fate might perhaps distemper yours; therefore I shall crave of you your leave that I may bear my evils alone."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Somewhere there, on that desolate plain, was lurking this fiendish man, hiding in a burrow like a wild beast, his heart full of malignancy against the whole race which had cast him out."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"When those invasions were renewed; when the efficacy and malignancy of them were attempted to be redoubled by the stamp act; when chains were formed for us; and preparations were made for riveting them on our limbs, what measures did we pursue?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a malignant state; progressive and resistant to treatment and tending to cause death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being disposed to evil; intense ill will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your patience, no; my stars shine darkly over me; the malignancy of my fate might perhaps distemper yours; therefore I shall crave of you your leave that I may bear my evils alone."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Somewhere there, on that desolate plain, was lurking this fiendish man, hiding in a burrow like a wild beast, his heart full of malignancy against the whole race which had cast him out."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"When those invasions were renewed; when the efficacy and malignancy of them were attempted to be redoubled by the stamp act; when chains were formed for us; and preparations were made for riveting them on our limbs, what measures did we pursue?"*

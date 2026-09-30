@@ -5,13 +5,6 @@ status: unread
 ---
 # trichlormethiazide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diuretic drug (trade name naqua) used to treat hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diuretic drug (trade name naqua) used to treat hypertension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichlormethiazide designates diuretic drug (trade name naqua) used to treat hypertension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diuretic drug (trade name naqua) used to treat hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diuretic drug (trade name naqua) used to treat hypertension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichlormethiazide designates diuretic drug (trade name naqua) used to treat hypertension."*

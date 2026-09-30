@@ -5,14 +5,6 @@ status: unread
 ---
 # mediated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy an intermediate or middle position or form a connecting link or stage between two others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He stood and mediated—a miserable man."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But does not this vapour theory do away with the other theory that divination is mediated to us by the gods through the daemons?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy an intermediate or middle position or form a connecting link or stage between two others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He stood and mediated—a miserable man."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But does not this vapour theory do away with the other theory that divination is mediated to us by the gods through the daemons?"*

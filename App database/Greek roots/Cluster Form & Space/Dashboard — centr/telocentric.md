@@ -5,13 +5,6 @@ status: unread
 ---
 # telocentric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere terminally situated so that there is only one chromosomal arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the centromere terminally situated so that there is only one chromosomal arm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telocentric designates having the centromere terminally situated so that there is only one chromosomal arm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere terminally situated so that there is only one chromosomal arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the centromere terminally situated so that there is only one chromosomal arm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telocentric designates having the centromere terminally situated so that there is only one chromosomal arm."*

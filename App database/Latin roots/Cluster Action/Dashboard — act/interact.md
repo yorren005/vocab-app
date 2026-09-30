@@ -5,15 +5,6 @@ status: unread
 ---
 # interact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act together or towards others or with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act together or towards others or with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The mission has many subtleties; you must all understand how they interact."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The point is to interact and communicate with a grandchild so that the youngster knows of your caring, and that caring is normal."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I have been quite close to (a high school) intergenerational project and believe that this sort of thing could help a lot of kids. ...another adult wrote: I will be honored to interact with your youngsters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act together or towards others or with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act together or towards others or with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The mission has many subtleties; you must all understand how they interact."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The point is to interact and communicate with a grandchild so that the youngster knows of your caring, and that caring is normal."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I have been quite close to (a high school) intergenerational project and believe that this sort of thing could help a lot of kids. ...another adult wrote: I will be honored to interact with your youngsters."*

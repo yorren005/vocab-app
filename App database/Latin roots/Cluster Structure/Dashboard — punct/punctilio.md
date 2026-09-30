@@ -5,15 +5,6 @@ status: unread
 ---
 # punctilio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine point of etiquette or petty formality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict observance of formalities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The preliminaries had been conducted with proper punctilio."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I know how to behave myself quite as well as those who have the entree here; but when my entire happiness is at stake I do not stand on punctilio."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Having thus obtained the victory, he did not much regard the punctilios of chivalry; but, taking it for granted he had a right to make the most of his advantage, resolved to carry off the spolia opima."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine point of etiquette or petty formality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict observance of formalities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The preliminaries had been conducted with proper punctilio."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I know how to behave myself quite as well as those who have the entree here; but when my entire happiness is at stake I do not stand on punctilio."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Having thus obtained the victory, he did not much regard the punctilios of chivalry; but, taking it for granted he had a right to make the most of his advantage, resolved to carry off the spolia opima."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # revert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go back to a previous state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo reversion, as in a mutation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some men rarely revert to their father, but seem, in the bank-books of their remembrance, to have transferred all the stock of filial affection into their mother’s name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Let no one thank me any more, for I am going to revert to my bachelor habits, and if anybody disregards this warning, I’ll run away and never come back!” What happiness was ours that day, what joy, what rest, what hope, what gratitude, what bliss!"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go back to a previous state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo reversion, as in a mutation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Some men rarely revert to their father, but seem, in the bank-books of their remembrance, to have transferred all the stock of filial affection into their mother’s name."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Let no one thank me any more, for I am going to revert to my bachelor habits, and if anybody disregards this warning, I’ll run away and never come back!” What happiness was ours that day, what joy, what rest, what hope, what gratitude, what bliss!"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*

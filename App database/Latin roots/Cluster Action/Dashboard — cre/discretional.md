@@ -5,13 +5,6 @@ status: unread
 ---
 # discretional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or using the ability to act or decide according to your own discretion or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or using the ability to act or decide according to your own discretion or judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discretional designates having or using the ability to act or decide according to your own discretion or judgment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or using the ability to act or decide according to your own discretion or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or using the ability to act or decide according to your own discretion or judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discretional designates having or using the ability to act or decide according to your own discretion or judgment."*

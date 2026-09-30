@@ -5,15 +5,6 @@ status: unread
 ---
 # insistent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive and persistent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding attention; ; ; - h.l.mencken.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked, as he had a hundred times the preceding day, at the insistent red seal: “Marry me,” he said aloud."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The importunate widow (Luke 18:2) and the friend at midnight (Luke 11:5) are his types of insistent and incessant earnestness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"After all, the true seeing is within; and painting stares at you with an insistent imperfection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive and persistent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding attention; ; ; - h.l.mencken.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked, as he had a hundred times the preceding day, at the insistent red seal: “Marry me,” he said aloud."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The importunate widow (Luke 18:2) and the friend at midnight (Luke 11:5) are his types of insistent and incessant earnestness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"After all, the true seeing is within; and painting stares at you with an insistent imperfection."*

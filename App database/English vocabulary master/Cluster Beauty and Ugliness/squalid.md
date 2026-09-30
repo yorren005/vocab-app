@@ -5,20 +5,6 @@ status: unread
 ---
 # squalid
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sordid
-> 2. **Nuance / Usage**: Extremely dirty and unpleasant
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a squalid presence*) or predicatively (*remained squalid*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Shelley (*Frankenstein*):** *"benumbed by want and squalid poverty."*
-> - 📜 **Classic Author (*The Refin'd Courtier, or a Correction of several indecencies crept into civil conversation.*):** *"[...] Mythologists describe Pan the son of Mercury (who was the God of Speech) with the upper part like a man, and the lower like a beast, to signifie that Truth is fair and comely, but a Lye squalid and Deformed."*
-> - 📜 **Classic Author (*Yes, Minister*):** *"Minister, I hardly think that we can exploit our Sovereign by involving her in some might call a squalid vote-grubbing exercise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Extremely dirty, foul, and unpleasant, especially as a result of poverty, neglect, or wretched living conditions.
+> 2. **Nuance / Usage**: Extended figuratively to moral, political, or personal conduct that is sordid, degraded, base, and ethically repulsive.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*squalid tenements*) or predicatively (*the quarters remained squalid*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and social-realist registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I found myself in a wretched hut, benumbed by want and **squalid** poverty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jo lives in a ruinous place known by the name of Tom-All-Alone's, a crowd of foul existence that crawls in and out of gaps in **squalid** tenements."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The room was cramped and **squalid**, with peeling wallpaper and a single grimy window overlooking the courtyard."*

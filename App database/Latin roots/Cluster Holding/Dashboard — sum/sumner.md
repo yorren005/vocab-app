@@ -5,15 +5,6 @@ status: unread
 ---
 # sumner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sociologist (1840-1910).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sociologist (1840-1910).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her health being at length restored, she went to Washington, spent a few days in visiting the hospitals there, and then, with a pass sent her by Major-General Sumner, from Falmouth, she joined Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Palmer, she joined Sumner's Division at Camp California, Virginia, where she was to remain and follow to render her services in case the anticipation was verified."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Edson next proceeded to join the army before Yorktown, about the 1st of May, 1862, and was attached to the Hospital of General Sumner's corps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sociologist (1840-1910).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sociologist (1840-1910).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her health being at length restored, she went to Washington, spent a few days in visiting the hospitals there, and then, with a pass sent her by Major-General Sumner, from Falmouth, she joined Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Palmer, she joined Sumner's Division at Camp California, Virginia, where she was to remain and follow to render her services in case the anticipation was verified."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Edson next proceeded to join the army before Yorktown, about the 1st of May, 1862, and was attached to the Hospital of General Sumner's corps."*

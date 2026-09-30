@@ -5,13 +5,6 @@ status: unread
 ---
 # oversensitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly sensitive or thin-skinned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly sensitive or thin-skinned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversensitive designates unduly sensitive or thin-skinned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly sensitive or thin-skinned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly sensitive or thin-skinned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversensitive designates unduly sensitive or thin-skinned."*

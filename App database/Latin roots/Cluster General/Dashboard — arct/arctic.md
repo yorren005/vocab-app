@@ -5,15 +5,6 @@ status: unread
 ---
 # arctic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The regions to the north of the arctic circle centered on the north pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waterproof overshoe that protects shoes from water or snow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The blast smelt of icebergs, arctic seas, whales, and white bears, carrying the snow so that it licked the land but did not deepen on it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then there you lie like the one warm spark in the heart of an arctic crystal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The regions to the north of the arctic circle centered on the north pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waterproof overshoe that protects shoes from water or snow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The blast smelt of icebergs, arctic seas, whales, and white bears, carrying the snow so that it licked the land but did not deepen on it."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then there you lie like the one warm spark in the heart of an arctic crystal."*

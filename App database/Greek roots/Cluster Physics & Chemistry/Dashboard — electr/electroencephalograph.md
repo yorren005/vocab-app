@@ -5,13 +5,6 @@ status: unread
 ---
 # electroencephalograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for detecting and recording brain waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for detecting and recording brain waves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroencephalograph designates an apparatus for detecting and recording brain waves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for detecting and recording brain waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for detecting and recording brain waves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroencephalograph designates an apparatus for detecting and recording brain waves."*

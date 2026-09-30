@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-automatize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make semiautomatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make semiautomatic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-automatize designates make semiautomatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make semiautomatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make semiautomatic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-automatize designates make semiautomatic."*

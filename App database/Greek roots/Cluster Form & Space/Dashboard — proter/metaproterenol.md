@@ -5,13 +5,6 @@ status: unread
 ---
 # metaproterenol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaproterenol designates a bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaproterenol designates a bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness."*

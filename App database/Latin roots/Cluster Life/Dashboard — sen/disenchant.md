@@ -5,15 +5,6 @@ status: unread
 ---
 # disenchant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from enchantment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"We never become disenchanted; we grow more and more awe-struck at its infinite wealth."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And suppose I had won her, should I not have been disenchanted the day after my victory?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I was supposing that my musical regeneration was accomplished and perfected, because I enjoyed both of these operas, singing and all, and, moreover, one of them was “Parsifal,” but the experts have disenchanted me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from enchantment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"We never become disenchanted; we grow more and more awe-struck at its infinite wealth."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And suppose I had won her, should I not have been disenchanted the day after my victory?"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I was supposing that my musical regeneration was accomplished and perfected, because I enjoyed both of these operas, singing and all, and, moreover, one of them was “Parsifal,” but the experts have disenchanted me."*

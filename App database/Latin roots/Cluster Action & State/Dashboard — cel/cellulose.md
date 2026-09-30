@@ -5,15 +5,6 @@ status: unread
 ---
 # cellulose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide that is the chief constituent of all plant tissues and fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide that is the chief constituent of all plant tissues and fibers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Cotton is almost pure cellulose, another organic substance, like glycerine insomuch as it is composed of carbon and hydrogen, but, unlike it, containing also oxygen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Treated with nitric acid it also forms a combination of carbon, hydrogen, oxygen and nitrogen, which is called nitro-cotton, nitro-cellulose, or gun-cotton."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One of the most useful and widespread substances, for example, cellulose, is, at present at least, utterly beyond us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide that is the chief constituent of all plant tissues and fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide that is the chief constituent of all plant tissues and fibers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Cotton is almost pure cellulose, another organic substance, like glycerine insomuch as it is composed of carbon and hydrogen, but, unlike it, containing also oxygen."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Treated with nitric acid it also forms a combination of carbon, hydrogen, oxygen and nitrogen, which is called nitro-cotton, nitro-cellulose, or gun-cotton."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One of the most useful and widespread substances, for example, cellulose, is, at present at least, utterly beyond us."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # hustle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (informal) to work
-> 2. **Nuance / Usage**: State of busy activity
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hustle the target*) and intransitive clauses (*hustling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sinclair Lewis (*Babbitt (novel)*):** *"Men in dairy lunches were hustling to gulp down the food which cooks had hustled to fry"*
-> - 📜 **Margery Williams (*The Velveteen Rabbit*):** *"There was a person called Nana who ruled the nursery. Sometimes she took no notice of the playthings lying about, and sometimes, for no reason whatever, she went swooping about like a great wind and hustled them away in cupboards."*
-> - 📜 **Steve Savage;Susan "Suki" Eagan (*Everything You Wanted to Know About Suki, But Were Too Distracted In Chaps to Ask Her*):** *"Frazier and Gary worked for me for free -- for six months -- they didn't take any money from the house. They worked for tips. They both had other jobs, and they came in here and they hustled their ass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (informal) to work
+> 2. **Nuance / Usage**: State of busy activity
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hustle the target*) and intransitive clauses (*hustling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sinclair Lewis (*Babbitt (novel)*):** *"Men in dairy lunches were hustling to gulp down the food which cooks had hustled to fry"*
+> - 📜 **Margery Williams (*The Velveteen Rabbit*):** *"There was a person called Nana who ruled the nursery. Sometimes she took no notice of the playthings lying about, and sometimes, for no reason whatever, she went swooping about like a great wind and hustled them away in cupboards."*
+> - 📜 **Steve Savage;Susan "Suki" Eagan (*Everything You Wanted to Know About Suki, But Were Too Distracted In Chaps to Ask Her*):** *"Frazier and Gary worked for me for free -- for six months -- they didn't take any money from the house. They worked for tips. They both had other jobs, and they came in here and they hustled their ass."*

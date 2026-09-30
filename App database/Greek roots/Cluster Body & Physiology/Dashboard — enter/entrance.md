@@ -5,15 +5,6 @@ status: unread
 ---
 # entrance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that provides access (to get in or get out).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement into or inward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reason that I gather he is mad, Besides this present instance of his rage, Is a mad tale he told today at dinner Of his own doors being shut against his entrance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whence are you, sir?—Has the porter his eyes in his head, that he gives entrance to such companions?—Pray, get you out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beware Of entrance to a quarrel; but being in, Bear’t that th’opposed may beware of thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that provides access (to get in or get out).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement into or inward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reason that I gather he is mad, Besides this present instance of his rage, Is a mad tale he told today at dinner Of his own doors being shut against his entrance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whence are you, sir?—Has the porter his eyes in his head, that he gives entrance to such companions?—Pray, get you out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beware Of entrance to a quarrel; but being in, Bear’t that th’opposed may beware of thee."*

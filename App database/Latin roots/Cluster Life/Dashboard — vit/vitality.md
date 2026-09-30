@@ -5,15 +5,6 @@ status: unread
 ---
 # vitality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An energetic style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A healthy capacity for vigorous activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The game of prisoner’s base, which not so long ago seemed to enjoy a perennial vitality in front of the worn-out stocks, may, so far as I can say, be entirely unknown to the rising generation of schoolboys there."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It suggested a consumption too great of a vitality which, to judge from her figure and stature, was already too little."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been sometimes argued that there is no truer criterion of the vitality of any given art-period than the power of the master-spirits of that time in grotesque; and certainly in the instance of Gothic art there is no disputing the proposition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An energetic style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A healthy capacity for vigorous activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The game of prisoner’s base, which not so long ago seemed to enjoy a perennial vitality in front of the worn-out stocks, may, so far as I can say, be entirely unknown to the rising generation of schoolboys there."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It suggested a consumption too great of a vitality which, to judge from her figure and stature, was already too little."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been sometimes argued that there is no truer criterion of the vitality of any given art-period than the power of the master-spirits of that time in grotesque; and certainly in the instance of Gothic art there is no disputing the proposition."*

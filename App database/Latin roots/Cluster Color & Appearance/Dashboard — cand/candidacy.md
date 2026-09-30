@@ -5,15 +5,6 @@ status: unread
 ---
 # candidacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They have survived one house cleaning after another and denied candidacy for garage sales and flea markets."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was carried by a bare majority; due entirely to the Gubernatorial candidacy of Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The excitement in the ranks of the Republicans was very high, because of the candidacy of General Grant for what was popularly called a “third term,” though not a third consecutive term."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They have survived one house cleaning after another and denied candidacy for garage sales and flea markets."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was carried by a bare majority; due entirely to the Gubernatorial candidacy of Mr."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The excitement in the ranks of the Republicans was very high, because of the candidacy of General Grant for what was popularly called a “third term,” though not a third consecutive term."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # organization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who work together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized structure for arranging or classifying.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole organization of this prison is stupid."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"RESOURCES AND ECONOMIC ORGANIZATION. 1."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"PROBLEMS OF INDUSTRIAL ORGANIZATION. 25."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who work together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized structure for arranging or classifying.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole organization of this prison is stupid."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"RESOURCES AND ECONOMIC ORGANIZATION. 1."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"PROBLEMS OF INDUSTRIAL ORGANIZATION. 25."*

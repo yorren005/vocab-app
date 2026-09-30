@@ -5,15 +5,6 @@ status: unread
 ---
 # morphine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter crystalline addictive narcotic base C17H19NO3 that is the principal alkaloid of opium and is used in the form of a soluble salt (such as a hydrochloride or a sulfate) as an analgesic and sedative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter crystalline addictive narcotic base C17H19NO3 that is the principal alkaloid of opium and is used in the form of a soluble salt (such as a hydrochloride or a sulfate) as an analgesic and sedative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course I declined his proposition to “shoot me” so full of morphine through the night that to-morrow I would not know, when I marched to the gallows, whether I was “coming or going.” But the laugh."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"As I grew older, the spells became more frequent and more severe; the only relief physicians could give me was by hypodermic injections of morphine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter crystalline addictive narcotic base C17H19NO3 that is the principal alkaloid of opium and is used in the form of a soluble salt (such as a hydrochloride or a sulfate) as an analgesic and sedative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter crystalline addictive narcotic base C17H19NO3 that is the principal alkaloid of opium and is used in the form of a soluble salt (such as a hydrochloride or a sulfate) as an analgesic and sedative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course I declined his proposition to “shoot me” so full of morphine through the night that to-morrow I would not know, when I marched to the gallows, whether I was “coming or going.” But the laugh."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"As I grew older, the spells became more frequent and more severe; the only relief physicians could give me was by hypodermic injections of morphine."*

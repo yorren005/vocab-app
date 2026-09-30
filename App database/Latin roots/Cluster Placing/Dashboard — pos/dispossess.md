@@ -5,15 +5,6 @@ status: unread
 ---
 # dispossess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of the possession of real estate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of the possession of real estate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall then my father’s will be of no force To dispossess that child which is not his?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of no more force to dispossess me, sir, Than was his will to get me, as I think."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath dispossess’d himself of us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of the possession of real estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of the possession of real estate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall then my father’s will be of no force To dispossess that child which is not his?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of no more force to dispossess me, sir, Than was his will to get me, as I think."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath dispossess’d himself of us."*

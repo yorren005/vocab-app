@@ -5,15 +5,6 @@ status: unread
 ---
 # prostration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt failure of function or complete physical exhaustion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject submission; the emotional equivalent of prostrating your body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The utter prostration that had followed the low fever from which she had suffered diminished perceptibly when all uncertainty upon every subject had come to an end."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"After about four days out from San Antonio, the health of the men became very good, and continued so through the whole route, with the exception of occasional cases of prostration from heat, and slight fevers, the Summer being unusually hot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt failure of function or complete physical exhaustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject submission; the emotional equivalent of prostrating your body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The utter prostration that had followed the low fever from which she had suffered diminished perceptibly when all uncertainty upon every subject had come to an end."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"After about four days out from San Antonio, the health of the men became very good, and continued so through the whole route, with the exception of occasional cases of prostration from heat, and slight fevers, the Summer being unusually hot."*

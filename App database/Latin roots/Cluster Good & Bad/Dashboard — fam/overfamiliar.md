@@ -5,13 +5,6 @@ status: unread
 ---
 # overfamiliar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking undue liberties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking undue liberties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overfamiliar designates taking undue liberties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking undue liberties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking undue liberties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overfamiliar designates taking undue liberties."*

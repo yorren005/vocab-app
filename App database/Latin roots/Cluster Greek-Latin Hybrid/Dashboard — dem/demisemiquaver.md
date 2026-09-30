@@ -5,13 +5,6 @@ status: unread
 ---
 # demisemiquaver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the time value of a thirty-second of a whole note.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical note having the time value of a thirty-second of a whole note.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demisemiquaver designates a musical note having the time value of a thirty-second of a whole note."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the time value of a thirty-second of a whole note.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical note having the time value of a thirty-second of a whole note.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demisemiquaver designates a musical note having the time value of a thirty-second of a whole note."*

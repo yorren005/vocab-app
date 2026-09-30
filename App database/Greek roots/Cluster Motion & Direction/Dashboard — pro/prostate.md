@@ -5,13 +5,6 @@ status: unread
 ---
 # prostate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prostate gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm partly muscular partly glandular body that is situated about the base of the mammalian male urethra and that secretes an alkaline viscid fluid which is a major constituent of the semen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My trouble was pronounced by some to be Bright's disease, by others gravel on the kidneys with very acute inflammation of the bladder and prostate gland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prostate gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm partly muscular partly glandular body that is situated about the base of the mammalian male urethra and that secretes an alkaline viscid fluid which is a major constituent of the semen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My trouble was pronounced by some to be Bright's disease, by others gravel on the kidneys with very acute inflammation of the bladder and prostate gland."*

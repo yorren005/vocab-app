@@ -5,15 +5,6 @@ status: unread
 ---
 # pandemonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild uproar (as because of anger or excitement in a crowd of people); also : a chaotic situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of Hell in Milton's Paradise Lost.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"The pandemonium above has ceased almost as suddenly as it arose, passed like a fierce gust of wind; but they know that in the passing it has determined their fate."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Thus an incessant din was kept up that might have startled Pandemonium."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The wires jangled in pandemonium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild uproar (as because of anger or excitement in a crowd of people); also : a chaotic situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of Hell in Milton's Paradise Lost.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"The pandemonium above has ceased almost as suddenly as it arose, passed like a fierce gust of wind; but they know that in the passing it has determined their fate."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Thus an incessant din was kept up that might have startled Pandemonium."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The wires jangled in pandemonium."*

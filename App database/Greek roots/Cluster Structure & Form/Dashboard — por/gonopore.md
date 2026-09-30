@@ -5,13 +5,6 @@ status: unread
 ---
 # gonopore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genital pore in some invertebrates and especially some insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genital pore in some invertebrates and especially some insects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonopore designates a genital pore in some invertebrates and especially some insects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genital pore in some invertebrates and especially some insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genital pore in some invertebrates and especially some insects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonopore designates a genital pore in some invertebrates and especially some insects."*

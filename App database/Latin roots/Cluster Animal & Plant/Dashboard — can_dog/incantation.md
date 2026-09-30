@@ -5,15 +5,6 @@ status: unread
 ---
 # incantation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ritual recitation of words or sounds believed to have a magical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ritual recitation of words or sounds believed to have a magical effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He beheld it all by degrees, stared in stupefaction at the scene, as if he thought it an illusion raised by some fiendish incantation."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In consequence of a disease among the black cattle the people agreed to perform an incantation, though they esteemed it a wicked thing."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"If the fire were not produced before noon, the incantation lost its effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ritual recitation of words or sounds believed to have a magical effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ritual recitation of words or sounds believed to have a magical effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He beheld it all by degrees, stared in stupefaction at the scene, as if he thought it an illusion raised by some fiendish incantation."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In consequence of a disease among the black cattle the people agreed to perform an incantation, though they esteemed it a wicked thing."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"If the fire were not produced before noon, the incantation lost its effect."*

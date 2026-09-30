@@ -5,13 +5,6 @@ status: unread
 ---
 # fattish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat fat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A bent, fattish figure in a shawl came toward him through the haggard, his wife's mother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat fat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat fat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A bent, fattish figure in a shawl came toward him through the haggard, his wife's mother."*

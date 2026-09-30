@@ -5,15 +5,6 @@ status: unread
 ---
 # disposal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to use something or someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of tending to or managing the affairs of a some group of people (especially the group's business affairs).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy concludes by resigning the adventure to Tony Jobling and informing him that during the vacation and while things are slack, his purse, “as far as three or four or even five pound goes,” will be at his disposal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George places the whole building at his visitor’s disposal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You will not forget, officer,” he adds with condescension, “that I am at your disposal when you please.” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to use something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of tending to or managing the affairs of a some group of people (especially the group's business affairs).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy concludes by resigning the adventure to Tony Jobling and informing him that during the vacation and while things are slack, his purse, “as far as three or four or even five pound goes,” will be at his disposal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George places the whole building at his visitor’s disposal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You will not forget, officer,” he adds with condescension, “that I am at your disposal when you please.” Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # anatomically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to anatomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to anatomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to anatomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*

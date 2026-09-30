@@ -5,15 +5,6 @@ status: unread
 ---
 # carbonaceous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or yielding carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or yielding carbon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By adding oxidised materials to the charge (_Blast-furnace smelting with carbonaceous fuel_). ii."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By using the air blast of the furnace for oxidising the iron and sulphur, thus at the same time utilising these elements as fuel and proportionately diminishing the amount of carbonaceous fuel required (_The pyritic principle of smelting_)."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Carbonaceous fuel in blast furnaces, 115, 119, 121 (see also _Coke_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or yielding carbon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or yielding carbon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By adding oxidised materials to the charge (_Blast-furnace smelting with carbonaceous fuel_). ii."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By using the air blast of the furnace for oxidising the iron and sulphur, thus at the same time utilising these elements as fuel and proportionately diminishing the amount of carbonaceous fuel required (_The pyritic principle of smelting_)."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Carbonaceous fuel in blast furnaces, 115, 119, 121 (see also _Coke_)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # astrophyton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes many of the basket stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes many of the basket stars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophyton designates includes many of the basket stars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes many of the basket stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes many of the basket stars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophyton designates includes many of the basket stars."*

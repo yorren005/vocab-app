@@ -5,13 +5,6 @@ status: unread
 ---
 # prefrontal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anterior to a frontal structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anterior to a frontal structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefrontal designates anterior to a frontal structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anterior to a frontal structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anterior to a frontal structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefrontal designates anterior to a frontal structure."*

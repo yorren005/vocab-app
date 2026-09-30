@@ -5,15 +5,6 @@ status: unread
 ---
 # distressingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You can tighten this distressingly loose jacket."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby, wearied with the fatigues of the day, slumbered heavily by my side; but the pain under which I was suffering effectually prevented my sleeping, and I remained distressingly alive to all the fearful circumstances of our present situation."*
-> - 📜 **James Joyce (*Ulysses*):** *"Excellent people, no doubt, but distressingly shortsighted in some matters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You can tighten this distressingly loose jacket."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby, wearied with the fatigues of the day, slumbered heavily by my side; but the pain under which I was suffering effectually prevented my sleeping, and I remained distressingly alive to all the fearful circumstances of our present situation."*
+> - 📜 **James Joyce (*Ulysses*):** *"Excellent people, no doubt, but distressingly shortsighted in some matters."*

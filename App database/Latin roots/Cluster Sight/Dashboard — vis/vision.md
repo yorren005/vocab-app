@@ -5,15 +5,6 @@ status: unread
 ---
 # vision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivid mental image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to see; the visual faculty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Touching this vision here, It is an honest ghost, that let me tell you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A holy maid hither with me I bring, Which, by a vision sent to her from heaven Ordained is to raise this tedious siege And drive the English forth the bounds of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, whilst I waited on my tender lambs, And to sun’s parching heat display’d my cheeks, God’s mother deigned to appear to me, And in a vision full of majesty Will’d me to leave my base vocation And free my country from calamity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivid mental image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to see; the visual faculty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Touching this vision here, It is an honest ghost, that let me tell you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A holy maid hither with me I bring, Which, by a vision sent to her from heaven Ordained is to raise this tedious siege And drive the English forth the bounds of France."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, whilst I waited on my tender lambs, And to sun’s parching heat display’d my cheeks, God’s mother deigned to appear to me, And in a vision full of majesty Will’d me to leave my base vocation And free my country from calamity."*

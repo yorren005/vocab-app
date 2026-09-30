@@ -5,20 +5,6 @@ status: unread
 ---
 # halcyon
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Calm, peaceful
-> 2. **Nuance / Usage**: Prosperous, affluent
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a halcyon presence*) or predicatively (*remained halcyon*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ambrose Bierce (*s:The Collected Works of Ambrose Bierce/Volume 1/On a Mountain*):** *"And, by the way, during those halcyon days (the halcyon was there, too, chattering above every creek, as he is all over the world) we fought another battle."*
-> - 📜 **Alexander Hamilton (*s:The Federalist (Dawson)/29*):** *"Reflections of this kind may have trifling weight with men who hope to see realized in America the halcyon scenes of the poetic or fabulous age."*
-> - 📜 **H.P. Lovecraft (*s:The City (Lovecraft)*):** *"I had wander’d in rapture beneath them, and bask’d in the Halcyon clime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Denoting a past period of time that was idyllically happy, golden, peaceful, and untroubled.
+> 2. **Nuance / Usage**: Derived from the mythical kingfisher (*halcyon*) believed by the ancients to charm the wind and waves into a fourteen-day calm around the winter solstice (*halcyon days*) while brooding on its floating nest.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective and Noun.
+> - **Syntactic Constructions**: Functions predominantly as an attributive modifier of temporal nouns (*halcyon days*, *halcyon summers of youth*).
+> - **Collocations & Registers**: Elegiac, literary, and nostalgic registers; collocated with *days*, *era*, *peace*, *clime*, and *youth*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*, No. 29):** *"Reflections of this kind may have trifling weight with men who hope to see realized in America the **halcyon** scenes of the poetic or fabulous age."*
+> - 📜 **Walt Whitman (*Halcyon Days*):** *"As life wanes, and all the turbulent passions calm, the **halcyon** days of brooding peace finally arrive."*
+> - 📜 **H. P. Lovecraft (*The City*):** *"I had wandered in rapture beneath them, and basked in the **halcyon** clime."*

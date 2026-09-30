@@ -5,13 +5,6 @@ status: unread
 ---
 # counterstain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stain of contrasting color that is used when the principal stain does not show the structure clearly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stain of contrasting color that is used when the principal stain does not show the structure clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterstain designates a stain of contrasting color that is used when the principal stain does not show the structure clearly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stain of contrasting color that is used when the principal stain does not show the structure clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stain of contrasting color that is used when the principal stain does not show the structure clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterstain designates a stain of contrasting color that is used when the principal stain does not show the structure clearly."*

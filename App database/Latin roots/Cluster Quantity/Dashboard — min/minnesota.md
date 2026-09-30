@@ -5,15 +5,6 @@ status: unread
 ---
 # minnesota
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midwestern state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A midwestern state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was born on a quarter-section in Minnesota."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was up in Minnesota on the old farm."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am Darrell Standing, born and raised on a quarter section of land in Minnesota, erstwhile professor of agronomy, a prisoner incorrigible in San Quentin, and at present a death-sentenced man in Folsom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A midwestern state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A midwestern state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was born on a quarter-section in Minnesota."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was up in Minnesota on the old farm."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am Darrell Standing, born and raised on a quarter section of land in Minnesota, erstwhile professor of agronomy, a prisoner incorrigible in San Quentin, and at present a death-sentenced man in Folsom."*

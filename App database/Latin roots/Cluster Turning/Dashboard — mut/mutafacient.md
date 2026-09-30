@@ -5,13 +5,6 @@ status: unread
 ---
 # mutafacient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of inducing mutation (used mainly of intracellular agents).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of inducing mutation (used mainly of intracellular agents).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutafacient designates capable of inducing mutation (used mainly of intracellular agents)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of inducing mutation (used mainly of intracellular agents).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of inducing mutation (used mainly of intracellular agents).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutafacient designates capable of inducing mutation (used mainly of intracellular agents)."*

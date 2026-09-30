@@ -5,13 +5,6 @@ status: unread
 ---
 # turbidness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muddiness created by stirring up sediment or having foreign particles suspended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muddiness created by stirring up sediment or having foreign particles suspended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbidness designates muddiness created by stirring up sediment or having foreign particles suspended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Muddiness created by stirring up sediment or having foreign particles suspended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muddiness created by stirring up sediment or having foreign particles suspended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbidness designates muddiness created by stirring up sediment or having foreign particles suspended."*

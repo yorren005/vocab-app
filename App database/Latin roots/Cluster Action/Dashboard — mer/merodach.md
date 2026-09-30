@@ -5,13 +5,6 @@ status: unread
 ---
 # merodach
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief babylonian god; his consort was sarpanitu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief babylonian god; his consort was sarpanitu.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merodach designates the chief babylonian god; his consort was sarpanitu."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief babylonian god; his consort was sarpanitu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief babylonian god; his consort was sarpanitu.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merodach designates the chief babylonian god; his consort was sarpanitu."*

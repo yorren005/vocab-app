@@ -5,15 +5,6 @@ status: unread
 ---
 # rob
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take something away by force or without the consent of the owner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rip off; ask an unreasonable price.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, if things go well, Opinion that so sticks on Martius shall Of his demerits rob Cominius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, ’tis no great matter; for a very little thief of occasion will rob you of a great deal of patience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll rob none but myself; and let me die, Stealing so poorly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take something away by force or without the consent of the owner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rip off; ask an unreasonable price.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, if things go well, Opinion that so sticks on Martius shall Of his demerits rob Cominius."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, ’tis no great matter; for a very little thief of occasion will rob you of a great deal of patience."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll rob none but myself; and let me die, Stealing so poorly."*

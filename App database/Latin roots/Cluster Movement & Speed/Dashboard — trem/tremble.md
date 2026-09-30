@@ -5,15 +5,6 @@ status: unread
 ---
 # tremble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reflex motion caused by cold or fear or excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jerk quickly and involuntarily up and down or sideways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou injurious thief, Hear but my name, and tremble."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cloten, thou double villain, be thy name, I cannot tremble at it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reflex motion caused by cold or fear or excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jerk quickly and involuntarily up and down or sideways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou injurious thief, Hear but my name, and tremble."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cloten, thou double villain, be thy name, I cannot tremble at it."*

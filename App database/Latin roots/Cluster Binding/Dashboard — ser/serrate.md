@@ -5,15 +5,6 @@ status: unread
 ---
 # serrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make saw-toothed or jag the edge of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notched like a saw with teeth pointing toward the apex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Before us lay the dark bulk of the house, its serrated roof and bristling chimneys hard outlined against the silver-spangled sky."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The knife had first to be serrated on the back to form a kind of rough saw."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"While the teeth are being knocked out an instrument known as a bull-roarer, which consists of a flat piece of wood with serrated edges tied to the end of a string, is swung round so as to produce a loud humming noise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make saw-toothed or jag the edge of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notched like a saw with teeth pointing toward the apex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Before us lay the dark bulk of the house, its serrated roof and bristling chimneys hard outlined against the silver-spangled sky."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The knife had first to be serrated on the back to form a kind of rough saw."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"While the teeth are being knocked out an instrument known as a bull-roarer, which consists of a flat piece of wood with serrated edges tied to the end of a string, is swung round so as to produce a loud humming noise."*

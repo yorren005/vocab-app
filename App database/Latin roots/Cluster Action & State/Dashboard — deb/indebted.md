@@ -5,15 +5,6 @@ status: unread
 ---
 # indebted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Owing gratitude or recognition to another for help or favors etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a legal obligation to someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King and commonweal Are deeply indebted for this piece of pains."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And stand indebted, over and above In love and service to you evermore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, we are much indebted to your travel, Nor shall you lose your wish.—Pirithous, Dispose of this fair gentleman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Owing gratitude or recognition to another for help or favors etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a legal obligation to someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King and commonweal Are deeply indebted for this piece of pains."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And stand indebted, over and above In love and service to you evermore."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, we are much indebted to your travel, Nor shall you lose your wish.—Pirithous, Dispose of this fair gentleman."*

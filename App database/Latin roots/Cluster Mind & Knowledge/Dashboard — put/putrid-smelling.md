@@ -5,13 +5,6 @@ status: unread
 ---
 # putrid-smelling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the putrid odor of decaying organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the putrid odor of decaying organic matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrid-smelling designates having the putrid odor of decaying organic matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the putrid odor of decaying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the putrid odor of decaying organic matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrid-smelling designates having the putrid odor of decaying organic matter."*

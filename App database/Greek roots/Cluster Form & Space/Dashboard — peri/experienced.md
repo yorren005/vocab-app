@@ -5,15 +5,6 @@ status: unread
 ---
 # experienced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go or live through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have firsthand knowledge of states, situations, emotions, or sensations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou wilt live, fly after: and like an arrow shot From a well-experienced archer hits the mark His eye doth level at, so thou ne’er return Unless thou say ‘Prince Pericles is dead.’ THALIARD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my unsounded self, supposed a fool, Now set thy long-experienced wit to school."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When each had to tell her so much and tried to be nearest her, she experienced the feeling that she had come to a family to which she really belonged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go or live through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have firsthand knowledge of states, situations, emotions, or sensations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou wilt live, fly after: and like an arrow shot From a well-experienced archer hits the mark His eye doth level at, so thou ne’er return Unless thou say ‘Prince Pericles is dead.’ THALIARD."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my unsounded self, supposed a fool, Now set thy long-experienced wit to school."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When each had to tell her so much and tried to be nearest her, she experienced the feeling that she had come to a family to which she really belonged."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # prophetical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretelling events as if by supernatural intervention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foretelling events as if by supernatural intervention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"_The king's heart is in the hand of the Lord, as the rivers of water; he turneth it whithersoever he will_." JOHN KNOX AND HIS PROPHETICAL PRAYER."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Though the mariners hear, with prophetical fear, In thy surging their deathly dirge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretelling events as if by supernatural intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foretelling events as if by supernatural intervention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"_The king's heart is in the hand of the Lord, as the rivers of water; he turneth it whithersoever he will_." JOHN KNOX AND HIS PROPHETICAL PRAYER."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Though the mariners hear, with prophetical fear, In thy surging their deathly dirge."*

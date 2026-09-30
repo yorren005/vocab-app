@@ -5,13 +5,6 @@ status: unread
 ---
 # psittacosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease of birds caused by a bacterium (Chlamydia psittaci synonym Chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of birds caused by a bacterium (Chlamydia psittaci synonym Chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacosis designates an infectious disease of birds caused by a bacterium (chlamydia psittaci synonym chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease of birds caused by a bacterium (Chlamydia psittaci synonym Chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of birds caused by a bacterium (Chlamydia psittaci synonym Chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacosis designates an infectious disease of birds caused by a bacterium (chlamydia psittaci synonym chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever."*

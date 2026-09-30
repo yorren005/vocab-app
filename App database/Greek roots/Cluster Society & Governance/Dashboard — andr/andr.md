@@ -5,15 +5,6 @@ status: unread
 ---
 # andr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Male human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Male human being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many dismal tales were told about funeral trains and mourning cries and wailings heard and seen about the great tree where the unfortunate Major André was taken, and which stood in the neighborhood."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was connected with the tragical story of the unfortunate André, who had been taken prisoner hard by, and was universally known by the name of Major André’s tree."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was at this identical spot that the unfortunate André was captured, and under the covert of those chestnuts and vines were the sturdy yeomen concealed who surprised him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Male human being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Male human being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many dismal tales were told about funeral trains and mourning cries and wailings heard and seen about the great tree where the unfortunate Major André was taken, and which stood in the neighborhood."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was connected with the tragical story of the unfortunate André, who had been taken prisoner hard by, and was universally known by the name of Major André’s tree."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was at this identical spot that the unfortunate André was captured, and under the covert of those chestnuts and vines were the sturdy yeomen concealed who surprised him."*

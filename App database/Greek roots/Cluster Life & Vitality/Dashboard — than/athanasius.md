@@ -5,13 +5,6 @@ status: unread
 ---
 # athanasius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athanasius designates (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athanasius designates (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # involuntarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Against your will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Against your will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We think and know that she is the friendliest and most obliging child in school." "Long live Loneli!" Lux suddenly cheered so that the whole band involuntarily joined him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lies!” At times there is a suddenness in the manner of Mademoiselle Hortense so like a bodily spring upon the subject of it that such subject involuntarily starts and falls back."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He takes it, though!” I involuntarily returned for answer that I perceived Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Against your will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Against your will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We think and know that she is the friendliest and most obliging child in school." "Long live Loneli!" Lux suddenly cheered so that the whole band involuntarily joined him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lies!” At times there is a suddenness in the manner of Mademoiselle Hortense so like a bodily spring upon the subject of it that such subject involuntarily starts and falls back."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He takes it, though!” I involuntarily returned for answer that I perceived Mr."*

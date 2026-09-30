@@ -5,13 +5,6 @@ status: unread
 ---
 # paleacrita
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Geometrid moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geometrid moths.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleacrita designates geometrid moths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Geometrid moths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geometrid moths.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleacrita designates geometrid moths."*

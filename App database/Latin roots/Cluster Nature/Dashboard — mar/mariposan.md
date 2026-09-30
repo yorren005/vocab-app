@@ -5,13 +5,6 @@ status: unread
 ---
 # mariposan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A penutian language spoken by the yokuts in the san joaquin valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A penutian language spoken by the yokuts in the san joaquin valley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mariposan designates a penutian language spoken by the yokuts in the san joaquin valley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A penutian language spoken by the yokuts in the san joaquin valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A penutian language spoken by the yokuts in the san joaquin valley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mariposan designates a penutian language spoken by the yokuts in the san joaquin valley."*

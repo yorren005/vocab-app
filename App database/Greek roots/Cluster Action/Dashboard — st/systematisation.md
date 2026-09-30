@@ -5,13 +5,6 @@ status: unread
 ---
 # systematisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic organization; the act of organizing something according to a system or a rationale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic organization; the act of organizing something according to a system or a rationale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematisation designates systematic organization; the act of organizing something according to a system or a rationale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic organization; the act of organizing something according to a system or a rationale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic organization; the act of organizing something according to a system or a rationale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematisation designates systematic organization; the act of organizing something according to a system or a rationale."*

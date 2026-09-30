@@ -5,13 +5,6 @@ status: unread
 ---
 # commiserative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing sympathy; - kenneth roberts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing sympathy; - kenneth roberts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commiserative designates feeling or expressing sympathy; - kenneth roberts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing sympathy; - kenneth roberts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing sympathy; - kenneth roberts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commiserative designates feeling or expressing sympathy; - kenneth roberts."*

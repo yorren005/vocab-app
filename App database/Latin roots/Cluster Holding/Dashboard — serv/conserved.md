@@ -5,13 +5,6 @@ status: unread
 ---
 # conserved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep constant through physical or chemical reactions or evolutionary change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep in safety and protect from harm, decay, loss, or destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conserved designates keep constant through physical or chemical reactions or evolutionary change."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep constant through physical or chemical reactions or evolutionary change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep in safety and protect from harm, decay, loss, or destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conserved designates keep constant through physical or chemical reactions or evolutionary change."*

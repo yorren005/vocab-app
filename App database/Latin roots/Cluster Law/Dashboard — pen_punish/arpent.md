@@ -5,13 +5,6 @@ status: unread
 ---
 # arpent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former french unit of area; equal approximately to an acre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former french unit of area; equal approximately to an acre.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arpent designates a former french unit of area; equal approximately to an acre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former french unit of area; equal approximately to an acre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former french unit of area; equal approximately to an acre.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arpent designates a former french unit of area; equal approximately to an acre."*

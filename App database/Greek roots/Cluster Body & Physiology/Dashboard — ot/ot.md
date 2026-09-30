@@ -5,14 +5,6 @@ status: unread
 ---
 # ot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupational therapist; occupational therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old Testament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"Beside him came his comrade Oliver, Also Gerins and the proud count Geriers, And Otes came, and also Berengiers, Old Anseis, and Sansun too came there; Gerart also of Rossillon the fierce, And there is come the Gascon Engeliers."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"Otes the Duke, and the count Berengiers And Ivorie, and Ive, so dear they were?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupational therapist; occupational therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old Testament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Song of Roland*):** *"Beside him came his comrade Oliver, Also Gerins and the proud count Geriers, And Otes came, and also Berengiers, Old Anseis, and Sansun too came there; Gerart also of Rossillon the fierce, And there is come the Gascon Engeliers."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"Otes the Duke, and the count Berengiers And Ivorie, and Ive, so dear they were?"*

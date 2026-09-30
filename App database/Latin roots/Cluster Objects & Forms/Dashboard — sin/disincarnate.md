@@ -5,13 +5,6 @@ status: unread
 ---
 # disincarnate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make immaterial; remove the real essence of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make immaterial; remove the real essence of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disincarnate designates make immaterial; remove the real essence of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make immaterial; remove the real essence of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make immaterial; remove the real essence of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disincarnate designates make immaterial; remove the real essence of."*

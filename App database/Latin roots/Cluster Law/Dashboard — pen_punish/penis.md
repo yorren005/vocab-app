@@ -5,13 +5,6 @@ status: unread
 ---
 # penis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male organ of copulation (`member' is a euphemism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male organ of copulation (`member' is a euphemism).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Thought he had a deposit of lead in his penis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male organ of copulation (`member' is a euphemism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male organ of copulation (`member' is a euphemism).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Thought he had a deposit of lead in his penis."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # creel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wicker basket used by anglers to hold fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wicker basket used by anglers to hold fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My senses wad be in a creel, Should I but dare a hope to speel Wi’ Allan, or wi’ Gilbertfield, The braes o’ fame; Or Fergusson, the writer-chiel, A deathless name. (O Fergusson! thy glorious parts Ill suited law’s dry, musty arts!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now safe the stately sawmont sail, And trouts bedropp’d wi’ crimson hail, And eels, weel-ken’d for souple tail, And geds for greed, Since, dark in Death’s fish-creel, we wail Tam Samson’s dead!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Midden-creels, manure-baskets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wicker basket used by anglers to hold fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wicker basket used by anglers to hold fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My senses wad be in a creel, Should I but dare a hope to speel Wi’ Allan, or wi’ Gilbertfield, The braes o’ fame; Or Fergusson, the writer-chiel, A deathless name. (O Fergusson! thy glorious parts Ill suited law’s dry, musty arts!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now safe the stately sawmont sail, And trouts bedropp’d wi’ crimson hail, And eels, weel-ken’d for souple tail, And geds for greed, Since, dark in Death’s fish-creel, we wail Tam Samson’s dead!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Midden-creels, manure-baskets."*

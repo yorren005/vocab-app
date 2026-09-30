@@ -5,15 +5,6 @@ status: unread
 ---
 # erudite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing profound knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing profound knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, appeared to have found an agreeable resort in this certainly not erudite household."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader had slipped again into the library to chew a cud of erudite mistake about Cush and Mizraim."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did erudite Stubb, mounted upon your capstan, deliver lectures on the anatomy of the Cetacea; and by help of the windlass, hold up a specimen rib for exhibition?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing profound knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing profound knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, appeared to have found an agreeable resort in this certainly not erudite household."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader had slipped again into the library to chew a cud of erudite mistake about Cush and Mizraim."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did erudite Stubb, mounted upon your capstan, deliver lectures on the anatomy of the Cetacea; and by help of the windlass, hold up a specimen rib for exhibition?"*

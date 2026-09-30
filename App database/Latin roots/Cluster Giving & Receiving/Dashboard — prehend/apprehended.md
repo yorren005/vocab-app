@@ -5,15 +5,6 @@ status: unread
 ---
 # apprehended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into custody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet did you say “Go forth;” and none of this, Though strongly apprehended, could restrain The stiff-borne action."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall be apprehended by and by."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into custody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet did you say “Go forth;” and none of this, Though strongly apprehended, could restrain The stiff-borne action."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall be apprehended by and by."*

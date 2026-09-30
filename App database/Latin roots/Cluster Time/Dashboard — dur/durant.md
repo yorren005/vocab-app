@@ -5,15 +5,6 @@ status: unread
 ---
 # durant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states historian (1885-1981).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states historian (1885-1981).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Conwayboro', Henry Durant, P.M.."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Durant, one of the leading and active men of the concern."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Durant claimed that he had made similar engagements that he should be allowed stock to fulfill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states historian (1885-1981).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states historian (1885-1981).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Conwayboro', Henry Durant, P.M.."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Durant, one of the leading and active men of the concern."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Durant claimed that he had made similar engagements that he should be allowed stock to fulfill."*

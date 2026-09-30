@@ -5,14 +5,6 @@ status: unread
 ---
 # precedency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Status established in order of importance or urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There were no ladies on board; the Major gave the pas of precedency to the civilian, so that he was the first dignitary at table, and treated by Captain Bragg and the officers of the Ramchunder with the respect which his rank warranted."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Woman is the blood-royal of life: let there be slight degrees of precedency among them--but let them be ALL sacred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Status established in order of importance or urgency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There were no ladies on board; the Major gave the pas of precedency to the civilian, so that he was the first dignitary at table, and treated by Captain Bragg and the officers of the Ramchunder with the respect which his rank warranted."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Woman is the blood-royal of life: let there be slight degrees of precedency among them--but let them be ALL sacred."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bellow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very loud utterance (like the sound of an animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author (born in canada) whose novels influenced american literature after world war ii (1915-2005).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, the croaking raven doth bellow for revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Jupiter Became a bull and bellow’d; the green Neptune A ram and bleated; and the fire-rob’d god, Golden Apollo, a poor humble swain, As I seem now."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The wind blew as ’twad blawn its last; The rattling showers rose on the blast; The speedy gleams the darkness swallow’d; Loud, deep, and lang, the thunder bellow’d: That night, a child might understand, The deil had business on his hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very loud utterance (like the sound of an animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author (born in canada) whose novels influenced american literature after world war ii (1915-2005).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, the croaking raven doth bellow for revenge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Jupiter Became a bull and bellow’d; the green Neptune A ram and bleated; and the fire-rob’d god, Golden Apollo, a poor humble swain, As I seem now."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The wind blew as ’twad blawn its last; The rattling showers rose on the blast; The speedy gleams the darkness swallow’d; Loud, deep, and lang, the thunder bellow’d: That night, a child might understand, The deil had business on his hand."*

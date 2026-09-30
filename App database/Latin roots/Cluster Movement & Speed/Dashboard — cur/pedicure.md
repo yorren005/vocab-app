@@ -5,13 +5,6 @@ status: unread
 ---
 # pedicure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Professional care for the feet and toenails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Care for one's feet by cutting and shaping the nails, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedicure designates professional care for the feet and toenails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Professional care for the feet and toenails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Care for one's feet by cutting and shaping the nails, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedicure designates professional care for the feet and toenails."*

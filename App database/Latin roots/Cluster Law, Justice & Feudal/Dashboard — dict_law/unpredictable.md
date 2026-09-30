@@ -5,15 +5,6 @@ status: unread
 ---
 # unpredictable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being foretold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unknown in advance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rapid and unpredictable changes in prices gives opportunity for speculative profits, but injure legitimate business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Typical gambling is the transfer of wealth on the outcome of events absolutely unpredictable, so far as the two gamblers are concerned."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent and unpredictable changes have been a great evil, and have again and again brought unmerited losses to the many in business and still greater and unearned gains to a favored few."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being foretold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unknown in advance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rapid and unpredictable changes in prices gives opportunity for speculative profits, but injure legitimate business."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Typical gambling is the transfer of wealth on the outcome of events absolutely unpredictable, so far as the two gamblers are concerned."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent and unpredictable changes have been a great evil, and have again and again brought unmerited losses to the many in business and still greater and unearned gains to a favored few."*

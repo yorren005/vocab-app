@@ -5,15 +5,6 @@ status: unread
 ---
 # callous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make insensitive or callous; deaden feelings or morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally hardened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"A man does what is his duty, what his fellow-citizens expect of him; but that is not to say that he renders himself callous to natural emotion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You’re interruptin’ my beauty sleep.” So angered was I by this callous indifference that I recovered self-control and was guilty of no more than smothered groans."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He was not callous: if he had had the earlier cable he would have sailed for home without delay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make insensitive or callous; deaden feelings or morals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally hardened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"A man does what is his duty, what his fellow-citizens expect of him; but that is not to say that he renders himself callous to natural emotion."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You’re interruptin’ my beauty sleep.” So angered was I by this callous indifference that I recovered self-control and was guilty of no more than smothered groans."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He was not callous: if he had had the earlier cable he would have sailed for home without delay."*

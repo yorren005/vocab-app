@@ -5,14 +5,6 @@ status: unread
 ---
 # granada
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southeastern spain that was the capital of the moorish kingdom until it was captured by ferdinand and isabella in 1492; site of the alhambra (a palace and fortress built by moors in the middle ages) which is now a major tourist attraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southeastern spain that was the capital of the moorish kingdom until it was captured by ferdinand and isabella in 1492; site of the alhambra (a palace and fortress built by moors in the middle ages) which is now a major tourist attraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Nauras Indians of New Granada ate the hearts of Spaniards when they had the opportunity, hoping thereby to make themselves as dauntless as the dreaded Castilian chivalry."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"That phony note at the Hotel Granada, for instance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southeastern spain that was the capital of the moorish kingdom until it was captured by ferdinand and isabella in 1492; site of the alhambra (a palace and fortress built by moors in the middle ages) which is now a major tourist attraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southeastern spain that was the capital of the moorish kingdom until it was captured by ferdinand and isabella in 1492; site of the alhambra (a palace and fortress built by moors in the middle ages) which is now a major tourist attraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Nauras Indians of New Granada ate the hearts of Spaniards when they had the opportunity, hoping thereby to make themselves as dauntless as the dreaded Castilian chivalry."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"That phony note at the Hotel Granada, for instance."*

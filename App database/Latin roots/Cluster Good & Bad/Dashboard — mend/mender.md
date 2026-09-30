@@ -5,15 +5,6 @@ status: unread
 ---
 # mender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who mends or repairs things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who mends or repairs things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A trade, sir, that I hope I may use with a safe conscience, which is indeed, sir, a mender of bad soles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"M. _At Hollyhead, I suppose, written by some Creation-Mender._ Arra, now what signifies the making the two great Lights?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who mends or repairs things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who mends or repairs things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A trade, sir, that I hope I may use with a safe conscience, which is indeed, sir, a mender of bad soles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"M. _At Hollyhead, I suppose, written by some Creation-Mender._ Arra, now what signifies the making the two great Lights?"*

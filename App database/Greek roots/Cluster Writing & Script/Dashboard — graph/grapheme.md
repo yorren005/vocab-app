@@ -5,13 +5,6 @@ status: unread
 ---
 # grapheme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit (such as a letter or digraph) of a writing system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of units of a writing system (such as letters and letter combinations) that represent a phoneme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grapheme designates a unit (such as a letter or digraph) of a writing system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit (such as a letter or digraph) of a writing system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of units of a writing system (such as letters and letter combinations) that represent a phoneme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grapheme designates a unit (such as a letter or digraph) of a writing system."*

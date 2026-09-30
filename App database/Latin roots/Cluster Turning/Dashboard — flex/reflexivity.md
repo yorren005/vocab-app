@@ -5,13 +5,6 @@ status: unread
 ---
 # reflexivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The coreferential relation between a reflexive pronoun and its antecedent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic and mathematics) a relation such that it holds between an element and itself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexivity designates the coreferential relation between a reflexive pronoun and its antecedent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coreferential relation between a reflexive pronoun and its antecedent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic and mathematics) a relation such that it holds between an element and itself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexivity designates the coreferential relation between a reflexive pronoun and its antecedent."*

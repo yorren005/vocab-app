@@ -5,15 +5,6 @@ status: unread
 ---
 # scapegrace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reckless and unprincipled reprobate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reckless and unprincipled reprobate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is sorely taken aback, too, by the dutiful behaviour of his nephew and has a woeful consciousness upon him of being a scapegrace."*
-> - 📜 **Effie Afton (*Eventide*):** *"Malcome." "O, a better one than that scapegrace of a Dick, of course!" said Mrs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is said to be very handsome and a terrible scapegrace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reckless and unprincipled reprobate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reckless and unprincipled reprobate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is sorely taken aback, too, by the dutiful behaviour of his nephew and has a woeful consciousness upon him of being a scapegrace."*
+> - 📜 **Effie Afton (*Eventide*):** *"Malcome." "O, a better one than that scapegrace of a Dick, of course!" said Mrs."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is said to be very handsome and a terrible scapegrace."*

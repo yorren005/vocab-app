@@ -5,13 +5,6 @@ status: unread
 ---
 # incisura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a notch or small hollow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a notch or small hollow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incisura designates (anatomy) a notch or small hollow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a notch or small hollow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a notch or small hollow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incisura designates (anatomy) a notch or small hollow."*

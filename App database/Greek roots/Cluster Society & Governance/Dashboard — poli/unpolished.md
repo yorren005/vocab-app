@@ -5,15 +5,6 @@ status: unread
 ---
 # unpolished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not carefully reworked or perfected or made smooth by polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking social polish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SUFFOLK. ’Tis like the commons, rude unpolished hinds, Could send such message to their sovereign."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"And so that you would be aware of, and find less difficult to excuse, the many things that are still obscure, rough, and unpolished, we wished to warn you of them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Now you may eat, though still not immoderately.” “I trust I shall not eat long at your expense, sir,” was my very clumsily-contrived, unpolished answer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not carefully reworked or perfected or made smooth by polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking social polish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SUFFOLK. ’Tis like the commons, rude unpolished hinds, Could send such message to their sovereign."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"And so that you would be aware of, and find less difficult to excuse, the many things that are still obscure, rough, and unpolished, we wished to warn you of them."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Now you may eat, though still not immoderately.” “I trust I shall not eat long at your expense, sir,” was my very clumsily-contrived, unpolished answer."*

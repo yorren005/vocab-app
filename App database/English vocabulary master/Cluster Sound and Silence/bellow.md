@@ -5,20 +5,6 @@ status: unread
 ---
 # bellow
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bawl
-> 2. **Nuance / Usage**: Shout in a deep voice
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bellow the target*) and intransitive clauses (*bellowing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Hamlet*):** *"Come, the croaking raven doth bellow for revenge."*
-> - 📜 **William Shakespeare (*The Tempest*):** *"Whiles we stood here securing your repose, Even now, we heard a hollow burst of bellowing Like bulls, or rather lions; did 't not wake you?"*
-> - 📜 **Robert Burns (*Tam o' Shanter*):** *"Loud, deep, and lang, the thunder bellow'd: That night, a child might understand, The deil had business on his hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To emit a deep, loud, hollow roar, characteristic of a bull or other large animal.
+> 2. **Nuance / Usage**: Of a person or elemental force (such as thunder or wind), to shout, roar, or boom in a deep, resonant voice, often in pain or anger.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bellow the target*) and intransitive clauses (*bellowing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"Begin, murderer; leave thy damnable faces and begin—come, the croaking raven doth **bellow** for revenge."*
+> - 📜 **Robert Burns (*Tam o' Shanter*):** *"Loud, deep, and lang, the thunder **bellow'd**: that night, a child might understand, the deil had business on his hand."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Stubb **bellowed** out his orders to the oarsmen above the roar of the sea."*

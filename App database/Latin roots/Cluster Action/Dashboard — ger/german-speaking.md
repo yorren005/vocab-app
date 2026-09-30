@@ -5,13 +5,6 @@ status: unread
 ---
 # german-speaking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to communicate in german.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to communicate in german.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, german-speaking designates able to communicate in german."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to communicate in german.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to communicate in german.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, german-speaking designates able to communicate in german."*

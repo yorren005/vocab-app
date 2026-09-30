@@ -5,15 +5,6 @@ status: unread
 ---
 # demanding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Request urgently and forcefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Require as useful, just, or proper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is only by resenting them, and by revenging them in my mind, and by angrily demanding the justice I never get, that I am able to keep my wits together."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sun, on account of the mist, had a curious sentient, personal look, demanding the masculine pronoun for its adequate expression."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He concluded his plaintive melody, a very simple performance, demanding no great skill; and she waited, thinking another might be begun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Request urgently and forcefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Require as useful, just, or proper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is only by resenting them, and by revenging them in my mind, and by angrily demanding the justice I never get, that I am able to keep my wits together."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sun, on account of the mist, had a curious sentient, personal look, demanding the masculine pronoun for its adequate expression."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He concluded his plaintive melody, a very simple performance, demanding no great skill; and she waited, thinking another might be begun."*

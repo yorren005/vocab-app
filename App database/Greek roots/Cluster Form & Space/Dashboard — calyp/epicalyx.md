@@ -5,13 +5,6 @@ status: unread
 ---
 # epicalyx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicalyx designates an involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicalyx designates an involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages."*

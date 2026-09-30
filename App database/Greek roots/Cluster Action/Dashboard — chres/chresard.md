@@ -5,13 +5,6 @@ status: unread
 ---
 # chresard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The portion of the water in a sample of soil that is available to vegetation (e.g. plant roots).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The portion of the water in a sample of soil that is available to vegetation (e.g. plant roots).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chresard designates the portion of the water in a sample of soil that is available to vegetation (e.g. plant roots)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The portion of the water in a sample of soil that is available to vegetation (e.g. plant roots).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The portion of the water in a sample of soil that is available to vegetation (e.g. plant roots).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chresard designates the portion of the water in a sample of soil that is available to vegetation (e.g. plant roots)."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # reactionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme conservative; an opponent of progress or liberalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely conservative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The good man had been trained in a different school of poetry, and could not in his old age yield to the reactionary movement."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson is a very decided reactionary product of the revolutionary spirit which inspired some of his poetical predecessors of the previous generation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme conservative; an opponent of progress or liberalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely conservative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The good man had been trained in a different school of poetry, and could not in his old age yield to the reactionary movement."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson is a very decided reactionary product of the revolutionary spirit which inspired some of his poetical predecessors of the previous generation."*

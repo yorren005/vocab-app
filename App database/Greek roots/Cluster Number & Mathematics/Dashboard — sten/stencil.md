@@ -5,13 +5,6 @@ status: unread
 ---
 # stencil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark or print with a stencil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stencil designates a sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark or print with a stencil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stencil designates a sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below."*

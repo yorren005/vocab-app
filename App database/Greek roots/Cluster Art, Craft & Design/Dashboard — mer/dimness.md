@@ -5,15 +5,6 @@ status: unread
 ---
 # dimness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being poorly illuminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of lights or sounds that lack brilliance or are reduced in intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the dimness it had not seemed so certain; now, gazing at each other in the clear light of the natural morning, we saw what had happened to us."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Lecamus. is it for this that they have come?' His head had begun to droop again, and a dimness came over his face."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was three o’clock; the church bell tolled as I passed under the belfry: the charm of the hour lay in its approaching dimness, in the low-gliding and pale-beaming sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being poorly illuminated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of lights or sounds that lack brilliance or are reduced in intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the dimness it had not seemed so certain; now, gazing at each other in the clear light of the natural morning, we saw what had happened to us."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Lecamus. is it for this that they have come?' His head had begun to droop again, and a dimness came over his face."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was three o’clock; the church bell tolled as I passed under the belfry: the charm of the hour lay in its approaching dimness, in the low-gliding and pale-beaming sun."*

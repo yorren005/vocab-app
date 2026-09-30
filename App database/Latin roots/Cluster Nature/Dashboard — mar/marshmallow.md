@@ -5,13 +5,6 @@ status: unread
 ---
 # marshmallow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marshmallow designates spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marshmallow designates spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sapsucker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small american woodpecker that feeds on sap from e.g. apple and maple trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small american woodpecker that feeds on sap from e.g. apple and maple trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapsucker designates small american woodpecker that feeds on sap from e.g. apple and maple trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small american woodpecker that feeds on sap from e.g. apple and maple trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small american woodpecker that feeds on sap from e.g. apple and maple trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapsucker designates small american woodpecker that feeds on sap from e.g. apple and maple trees."*

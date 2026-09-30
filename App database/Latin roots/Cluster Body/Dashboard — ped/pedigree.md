@@ -5,15 +5,6 @@ status: unread
 ---
 # pedigree
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The descendants of one individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Line of descent of a purebred animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But for the rest: you tell a pedigree Of threescore and two years, a silly time To make prescription for a kingdom’s worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can Oxford, that did ever fence the right, Now buckler falsehood with a pedigree?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, after expatiating to us on the fame of her great kinsman, said that no doubt wherever her son Allan went he would remember his pedigree and would on no account form an alliance below it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The descendants of one individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Line of descent of a purebred animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But for the rest: you tell a pedigree Of threescore and two years, a silly time To make prescription for a kingdom’s worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can Oxford, that did ever fence the right, Now buckler falsehood with a pedigree?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, after expatiating to us on the fame of her great kinsman, said that no doubt wherever her son Allan went he would remember his pedigree and would on no account form an alliance below it."*

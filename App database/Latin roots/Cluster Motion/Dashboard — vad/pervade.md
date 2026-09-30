@@ -5,15 +5,6 @@ status: unread
 ---
 # pervade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread or diffuse through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By day guns and voices are heard ringing in the woods, horsemen and carriages enliven the park roads, servants and hangers-on pervade the village and the Dedlock Arms."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The passage was a long one, and seemed to pervade the whole square basement of the Manor House."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If, on the contrary, the insurrection should pervade a whole State, or a principal part of it, the employment of a different kind of force might become unavoidable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread or diffuse through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"By day guns and voices are heard ringing in the woods, horsemen and carriages enliven the park roads, servants and hangers-on pervade the village and the Dedlock Arms."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The passage was a long one, and seemed to pervade the whole square basement of the Manor House."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If, on the contrary, the insurrection should pervade a whole State, or a principal part of it, the employment of a different kind of force might become unavoidable."*

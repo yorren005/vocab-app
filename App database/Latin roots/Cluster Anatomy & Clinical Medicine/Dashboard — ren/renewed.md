@@ -5,15 +5,6 @@ status: unread
 ---
 # renewed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At your return, visit our house, let our old acquaintance be renewed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rector, you know that." Apollonie now said good-bye with renewed thanks."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It actually glistened in its renewed splendor, and the Baron silently looked about him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At your return, visit our house, let our old acquaintance be renewed."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rector, you know that." Apollonie now said good-bye with renewed thanks."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It actually glistened in its renewed splendor, and the Baron silently looked about him."*

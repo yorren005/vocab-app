@@ -5,15 +5,6 @@ status: unread
 ---
 # tympanum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tympanic membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Middle ear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I observed a few the handles of which were mysteriously curved, as if intended to be introduced into the orifice of the ear, with a view perhaps of beating the tattoo upon the tympanum."*
-> - 📜 **James Joyce (*Ulysses*):** *"He wagged huge beard, huge face over his blunder huge. —Sure, you’d burst the tympanum of her ear, man, Mr Dedalus said through smoke aroma, with an organ like yours."*
-> - 📜 **James Joyce (*Ulysses*):** *"He burst her tympanum. _(With gibbering baboon’s cries he jerks his hips in the cynical spasm.)_ Hik!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tympanic membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Middle ear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I observed a few the handles of which were mysteriously curved, as if intended to be introduced into the orifice of the ear, with a view perhaps of beating the tattoo upon the tympanum."*
+> - 📜 **James Joyce (*Ulysses*):** *"He wagged huge beard, huge face over his blunder huge. —Sure, you’d burst the tympanum of her ear, man, Mr Dedalus said through smoke aroma, with an organ like yours."*
+> - 📜 **James Joyce (*Ulysses*):** *"He burst her tympanum. _(With gibbering baboon’s cries he jerks his hips in the cynical spasm.)_ Hik!"*

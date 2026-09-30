@@ -5,15 +5,6 @@ status: unread
 ---
 # provencal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval dialects of langue d'oc (southern france).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to provence or its people or their culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had always wished to see the old Provencal capital, but somehow the opportunity had always passed by, or something...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Provencals, cheery, short, tubby, excitable, olive-colored, black-bearded, calling to one another in the _langue d'oc_ of the troubadours, _"Te, mon bon!"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And along the gulf there were settlements of Saracen blood--_les Maures_, the Provencals called them ... and the shadow of Pontius Pilate wild-eyed in the dusk...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval dialects of langue d'oc (southern france).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to provence or its people or their culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had always wished to see the old Provencal capital, but somehow the opportunity had always passed by, or something...."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Provencals, cheery, short, tubby, excitable, olive-colored, black-bearded, calling to one another in the _langue d'oc_ of the troubadours, _"Te, mon bon!"*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And along the gulf there were settlements of Saracen blood--_les Maures_, the Provencals called them ... and the shadow of Pontius Pilate wild-eyed in the dusk...."*

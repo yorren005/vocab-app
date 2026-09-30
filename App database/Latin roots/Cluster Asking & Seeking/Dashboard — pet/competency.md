@@ -5,15 +5,6 @@ status: unread
 ---
 # competency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being adequately or well qualified physically and intellectually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adequately or well qualified physically and intellectually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Superfluity come sooner by white hairs, but competency lives longer."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Providence has blessed my endeavours to secure a competency; and as I am unmarried and childless, I wish to adopt her during my life, and bequeath her at my death whatever I may have to leave."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John, Diana, Mary, and I, each became possessed of a competency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being adequately or well qualified physically and intellectually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adequately or well qualified physically and intellectually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Superfluity come sooner by white hairs, but competency lives longer."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Providence has blessed my endeavours to secure a competency; and as I am unmarried and childless, I wish to adopt her during my life, and bequeath her at my death whatever I may have to leave."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John, Diana, Mary, and I, each became possessed of a competency."*

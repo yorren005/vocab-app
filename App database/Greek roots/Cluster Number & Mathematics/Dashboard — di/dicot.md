@@ -5,13 +5,6 @@ status: unread
 ---
 # dicot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicot designates an angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicot designates an angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun."*

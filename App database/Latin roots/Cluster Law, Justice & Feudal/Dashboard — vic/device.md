@@ -5,15 +5,6 @@ status: unread
 ---
 # device
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality invented for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something in an artistic work designed to achieve a particular effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he’s gentle, never schooled and yet learned, full of noble device, of all sorts enchantingly beloved, and indeed so much in the heart of the world, and especially of my own people, who best know him, that I am altogether misprized."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rather point-device in your accoutrements, as loving yourself than seeming the lover of any other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, shepherd, well, This is a letter of your own device."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality invented for a particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something in an artistic work designed to achieve a particular effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he’s gentle, never schooled and yet learned, full of noble device, of all sorts enchantingly beloved, and indeed so much in the heart of the world, and especially of my own people, who best know him, that I am altogether misprized."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rather point-device in your accoutrements, as loving yourself than seeming the lover of any other."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, shepherd, well, This is a letter of your own device."*

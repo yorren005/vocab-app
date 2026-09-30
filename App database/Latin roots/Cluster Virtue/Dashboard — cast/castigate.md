@@ -5,15 +5,6 @@ status: unread
 ---
 # castigate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Censure severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflict severe punishment on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou didst put this sour cold habit on To castigate thy pride, ’twere well; but thou Dost it enforcedly."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"My unfortunate limb was now left much in the same condition as a rump-steak after undergoing the castigating process which precedes cooking."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Think, when your castigated pulse Gies now and then a wallop!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Censure severely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflict severe punishment on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou didst put this sour cold habit on To castigate thy pride, ’twere well; but thou Dost it enforcedly."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"My unfortunate limb was now left much in the same condition as a rump-steak after undergoing the castigating process which precedes cooking."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Think, when your castigated pulse Gies now and then a wallop!"*

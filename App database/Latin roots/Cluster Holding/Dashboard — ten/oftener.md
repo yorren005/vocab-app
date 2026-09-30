@@ -5,15 +5,6 @@ status: unread
 ---
 # oftener
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More often or more frequently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More often or more frequently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows, of pure devotion; being called A hundred times and oftener, in my sleep, By good Saint Alban, who said “Simpcox, come, Come, offer at my shrine, and I will help thee.” WIFE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He doth oftener ask forgiveness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If so, my eyes are oftener wash’d than hers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More often or more frequently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More often or more frequently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows, of pure devotion; being called A hundred times and oftener, in my sleep, By good Saint Alban, who said “Simpcox, come, Come, offer at my shrine, and I will help thee.” WIFE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He doth oftener ask forgiveness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If so, my eyes are oftener wash’d than hers."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # diastasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastasis designates separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastasis designates separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone."*

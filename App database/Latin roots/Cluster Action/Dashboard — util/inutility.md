@@ -5,14 +5,6 @@ status: unread
 ---
 # inutility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having no practical use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having no practical use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And, as you love your country, keep it free From those whose utter inutility For any good is proven by their pride Of blood; they have not aught to boast beside."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The inutility of her best efforts, however, palsied the poor old gentlewoman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having no practical use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having no practical use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And, as you love your country, keep it free From those whose utter inutility For any good is proven by their pride Of blood; they have not aught to boast beside."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The inutility of her best efforts, however, palsied the poor old gentlewoman."*

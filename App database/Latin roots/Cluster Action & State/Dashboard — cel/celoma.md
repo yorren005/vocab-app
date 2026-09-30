@@ -5,13 +5,6 @@ status: unread
 ---
 # celoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celoma designates a cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celoma designates a cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity."*

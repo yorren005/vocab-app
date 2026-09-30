@@ -5,15 +5,6 @@ status: unread
 ---
 # typify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"With Panthea, one of the ocean nymphs that watch over Prometheus, she makes her way to the cave of Demogorgon, "that terrific gloom," who seems meant to typify the Primal Power of the World."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Our narrative is more precise, but the things stated so clearly typify we know not what; and we and you are, I doubt not, wisest when we own ourselves ignorant."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"They grew out of his heart, and typify, it may be, some hideous secret that was buried with him, and which he had done better to confess during his lifetime.” “Perchance,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"With Panthea, one of the ocean nymphs that watch over Prometheus, she makes her way to the cave of Demogorgon, "that terrific gloom," who seems meant to typify the Primal Power of the World."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Our narrative is more precise, but the things stated so clearly typify we know not what; and we and you are, I doubt not, wisest when we own ourselves ignorant."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"They grew out of his heart, and typify, it may be, some hideous secret that was buried with him, and which he had done better to confess during his lifetime.” “Perchance,” said Mr."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # retraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pulling or holding or drawing a part back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy I told my guardian of his old proposal and his subsequent retraction."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin's circular--The denial of its truth by the Freedmen's Bureau--Their subsequent retraction--The Congressional appropriation--Should have been put in Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pulling or holding or drawing a part back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy I told my guardian of his old proposal and his subsequent retraction."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin's circular--The denial of its truth by the Freedmen's Bureau--Their subsequent retraction--The Congressional appropriation--Should have been put in Mrs."*

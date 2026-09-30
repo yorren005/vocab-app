@@ -5,15 +5,6 @@ status: unread
 ---
 # civilian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmilitary citizen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with civil life or performed by persons who are not active members of the military.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The policeman considers him an imbecile civilian, a remnant of the barbarous watchmen times, but gives him admission as something that must be borne with until government shall abolish him."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I know you hate wearing it in civilian kit!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But how should a civilian understand?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmilitary citizen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with civil life or performed by persons who are not active members of the military.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The policeman considers him an imbecile civilian, a remnant of the barbarous watchmen times, but gives him admission as something that must be borne with until government shall abolish him."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I know you hate wearing it in civilian kit!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But how should a civilian understand?"*

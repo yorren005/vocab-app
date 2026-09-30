@@ -5,15 +5,6 @@ status: unread
 ---
 # stabilized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make stable and keep from fluctuating or put into an equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support or hold steady and make steadfast, with or as if with a brace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Pseudo-gravity enhancers during construction stabilized the floors."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer presented INOR's combined fleet's Order of Battle, and stabilized."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The screen stabilized and reflected a series of vectors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make stable and keep from fluctuating or put into an equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support or hold steady and make steadfast, with or as if with a brace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Pseudo-gravity enhancers during construction stabilized the floors."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer presented INOR's combined fleet's Order of Battle, and stabilized."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The screen stabilized and reflected a series of vectors."*

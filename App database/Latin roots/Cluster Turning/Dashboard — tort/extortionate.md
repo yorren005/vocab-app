@@ -5,15 +5,6 @@ status: unread
 ---
 # extortionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatly exceeding bounds of reason or moderation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Employment and extortionate profits from Slingshot services and industries would plummet as Planet Pluto continued outbound along its eccentric orbit into interstellar space."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The sole druggist in a small town might occasionally get extortionate prices from particular customers in times of dire need, but he would thus drive away much of his custom, and would tempt a fairer and less grasping competitor to come in."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Give Señor Candiola the doubloon that he charges for this fowl." He gave him the extortionate amount, which Candiola was not slow to accept; and then our friend went on thus,-- "Señor Candiola, let us speak together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatly exceeding bounds of reason or moderation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Employment and extortionate profits from Slingshot services and industries would plummet as Planet Pluto continued outbound along its eccentric orbit into interstellar space."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The sole druggist in a small town might occasionally get extortionate prices from particular customers in times of dire need, but he would thus drive away much of his custom, and would tempt a fairer and less grasping competitor to come in."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Give Señor Candiola the doubloon that he charges for this fowl." He gave him the extortionate amount, which Candiola was not slow to accept; and then our friend went on thus,-- "Señor Candiola, let us speak together."*

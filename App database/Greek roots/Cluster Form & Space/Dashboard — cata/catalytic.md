@@ -5,13 +5,6 @@ status: unread
 ---
 # catalytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, involving, or relating to catalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automobile exhaust-system component containing a catalyst that causes conversion of harmful gases (such as carbon monoxide and uncombusted hydrocarbons) into mostly harmless products (such as water and carbon dioxide).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalytic designates causing, involving, or relating to catalysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, involving, or relating to catalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automobile exhaust-system component containing a catalyst that causes conversion of harmful gases (such as carbon monoxide and uncombusted hydrocarbons) into mostly harmless products (such as water and carbon dioxide).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalytic designates causing, involving, or relating to catalysis."*

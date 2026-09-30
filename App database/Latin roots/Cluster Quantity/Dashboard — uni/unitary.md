@@ -5,13 +5,6 @@ status: unread
 ---
 # unitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by or aiming toward unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or involving the use of units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Tathagata knows this unitary essential Law, that is to say, Deliverance, Abandonment, Extinction, final Nirvana of eternal rest, ending in return to the Void."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by or aiming toward unity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or involving the use of units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Tathagata knows this unitary essential Law, that is to say, Deliverance, Abandonment, Extinction, final Nirvana of eternal rest, ending in return to the Void."*

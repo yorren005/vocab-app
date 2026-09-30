@@ -5,13 +5,6 @@ status: unread
 ---
 # triclinic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three unequal crystal axes intersecting at oblique angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three unequal crystal axes intersecting at oblique angles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triclinic designates having three unequal crystal axes intersecting at oblique angles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three unequal crystal axes intersecting at oblique angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three unequal crystal axes intersecting at oblique angles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triclinic designates having three unequal crystal axes intersecting at oblique angles."*

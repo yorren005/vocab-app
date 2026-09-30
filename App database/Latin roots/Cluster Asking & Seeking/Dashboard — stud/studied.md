@@ -5,15 +5,6 @@ status: unread
 ---
 # studied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a student; follow a course of study; be enrolled at an institute of learning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon what I have spoke, For ’tis a studied, not a present thought, By duty ruminated."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard it, Pompey, And am well studied for a liberal thanks Which I do owe you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not so; but I answer you right painted cloth, from whence you have studied your questions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a student; follow a course of study; be enrolled at an institute of learning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon what I have spoke, For ’tis a studied, not a present thought, By duty ruminated."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard it, Pompey, And am well studied for a liberal thanks Which I do owe you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not so; but I answer you right painted cloth, from whence you have studied your questions."*

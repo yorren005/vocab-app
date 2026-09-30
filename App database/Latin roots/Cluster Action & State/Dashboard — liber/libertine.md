@@ -5,15 +5,6 @@ status: unread
 ---
 # libertine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissolute person; usually a man who is morally unrestrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or morality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let witchcraft join with beauty, lust with both; Tie up the libertine in a field of feasts; Keep his brain fuming."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
-> - 📜 **James Joyce (*Ulysses*):** *"A fiendish libertine from his earliest years this stinking goat of Mendes gave precocious signs of infantile debauchery, recalling the cities of the plain, with a dissolute granddam."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissolute person; usually a man who is morally unrestrained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or morality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let witchcraft join with beauty, lust with both; Tie up the libertine in a field of feasts; Keep his brain fuming."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
+> - 📜 **James Joyce (*Ulysses*):** *"A fiendish libertine from his earliest years this stinking goat of Mendes gave precocious signs of infantile debauchery, recalling the cities of the plain, with a dissolute granddam."*

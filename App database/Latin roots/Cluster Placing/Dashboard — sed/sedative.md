@@ -5,15 +5,6 @@ status: unread
 ---
 # sedative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that reduces excitability and calms a person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to soothe or tranquilize.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Having indulged a while in this sedative, she raised her bent body, took the pipe from her lips, and while gazing steadily at the fire, said very deliberately— “You are cold; you are sick; and you are silly.” “Prove it,” I rejoined."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How is the money to be had?” Bessie now endeavoured to persuade her to take a sedative draught: she succeeded with difficulty."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men remarked his sedative and controlling influence over the disordered mind (Mark 1:27)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that reduces excitability and calms a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to soothe or tranquilize.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Having indulged a while in this sedative, she raised her bent body, took the pipe from her lips, and while gazing steadily at the fire, said very deliberately— “You are cold; you are sick; and you are silly.” “Prove it,” I rejoined."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How is the money to be had?” Bessie now endeavoured to persuade her to take a sedative draught: she succeeded with difficulty."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men remarked his sedative and controlling influence over the disordered mind (Mark 1:27)."*

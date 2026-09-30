@@ -5,15 +5,6 @@ status: unread
 ---
 # melody
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet or agreeable succession or arrangement of sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmic succession of single tones organized as an aesthetic whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My ear should catch your voice, my eye your eye, My tongue should catch your tongue’s sweet melody."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Philomel, with melody, Sing in our sweet lullaby: Lulla, lulla, lullaby; lulla, lulla, lullaby."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The birds chant melody on every bush, The snakes lie rolled in the cheerful sun, The green leaves quiver with the cooling wind, And make a chequered shadow on the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet or agreeable succession or arrangement of sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmic succession of single tones organized as an aesthetic whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My ear should catch your voice, my eye your eye, My tongue should catch your tongue’s sweet melody."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Philomel, with melody, Sing in our sweet lullaby: Lulla, lulla, lullaby; lulla, lulla, lullaby."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The birds chant melody on every bush, The snakes lie rolled in the cheerful sun, The green leaves quiver with the cooling wind, And make a chequered shadow on the ground."*

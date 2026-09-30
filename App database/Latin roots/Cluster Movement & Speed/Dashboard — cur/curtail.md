@@ -5,15 +5,6 @@ status: unread
 ---
 # curtail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate or abbreviate before its intended or proper end or its full extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a gentleman is dispos’d to swear, it is not for any standers-by to curtail his oaths."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know you—I am on my guard.” “Sir, I do not wish to act against you,” I said; and my unsteady voice warned me to curtail my sentence."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The answer is, that it could only have been done for greater caution, and to guard against all cavilling refinements in those who might hereafter feel a disposition to curtail and evade the legitimate authorities of the Union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate or abbreviate before its intended or proper end or its full extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a gentleman is dispos’d to swear, it is not for any standers-by to curtail his oaths."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know you—I am on my guard.” “Sir, I do not wish to act against you,” I said; and my unsteady voice warned me to curtail my sentence."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The answer is, that it could only have been done for greater caution, and to guard against all cavilling refinements in those who might hereafter feel a disposition to curtail and evade the legitimate authorities of the Union."*

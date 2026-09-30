@@ -5,15 +5,6 @@ status: unread
 ---
 # depend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be contingent upon (something that is elided).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have faith or confidence in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time is troublesome. [_To Pisanio._] We’ll slip you for a season; but our jealousy Does yet depend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor wretches, that depend On greatness’ favour, dream as I have done; Wake and find nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be contingent upon (something that is elided).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have faith or confidence in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time is troublesome. [_To Pisanio._] We’ll slip you for a season; but our jealousy Does yet depend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor wretches, that depend On greatness’ favour, dream as I have done; Wake and find nothing."*

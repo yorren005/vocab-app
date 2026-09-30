@@ -5,15 +5,6 @@ status: unread
 ---
 # literature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative writing of recognized artistic value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of a body of literature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures, while not rising to the level of greatness, impress one with his mastery of the immense literature of the subject, and are characterised throughout by lucidity of arrangement and by sobriety and fairness of judgment."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"With his attitude to later German theological literature it is somewhat different, for here he tried to keep himself abreast of the times."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And so, instead of going upstairs in the evening, he remained in the comfortable parlour, where he wrote his letters, talked to his brother and sister, or to visitors as they came in, and regaled himself with light literature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative writing of recognized artistic value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of a body of literature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures, while not rising to the level of greatness, impress one with his mastery of the immense literature of the subject, and are characterised throughout by lucidity of arrangement and by sobriety and fairness of judgment."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"With his attitude to later German theological literature it is somewhat different, for here he tried to keep himself abreast of the times."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"And so, instead of going upstairs in the evening, he remained in the comfortable parlour, where he wrote his letters, talked to his brother and sister, or to visitors as they came in, and regaled himself with light literature."*

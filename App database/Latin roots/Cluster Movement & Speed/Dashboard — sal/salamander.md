@@ -5,15 +5,6 @@ status: unread
 ---
 # salamander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various typically terrestrial amphibians that resemble lizards and that return to water only to breed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reptilian creature supposed to live in fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have maintained that salamander of yours with fire any time this two-and-thirty years, God reward me for it!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various typically terrestrial amphibians that resemble lizards and that return to water only to breed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reptilian creature supposed to live in fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have maintained that salamander of yours with fire any time this two-and-thirty years, God reward me for it!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then?"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then?"*

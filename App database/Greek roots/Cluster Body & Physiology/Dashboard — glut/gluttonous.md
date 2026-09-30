@@ -5,14 +5,6 @@ status: unread
 ---
 # gluttonous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to excess in consumption of especially food or drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to excess in consumption of especially food or drink.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then they could smile and fawn upon his debts, And take down th’ interest into their gluttonous maws."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This gave rise to the common native nickname of a _manohae_ (ravenous shark) for a very gluttonous man, especially in the matter of meat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to excess in consumption of especially food or drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to excess in consumption of especially food or drink.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then they could smile and fawn upon his debts, And take down th’ interest into their gluttonous maws."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This gave rise to the common native nickname of a _manohae_ (ravenous shark) for a very gluttonous man, especially in the matter of meat."*

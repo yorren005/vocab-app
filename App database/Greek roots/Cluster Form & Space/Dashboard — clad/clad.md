@@ -5,15 +5,6 @@ status: unread
 ---
 # clad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being covered or clothed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of outer layers of one metal bonded to a core of a different metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But look, the morn in russet mantle clad, Walks o’er the dew of yon high eastward hill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A woman clad in armour chaseth them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Softly, gentle Patience. _The vision._ Enter, solemnly tripping one after another, six Personages, clad in white robes, wearing on their heads garlands of bays, and golden vizards on their faces, branches of bays or palm in their hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being covered or clothed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of outer layers of one metal bonded to a core of a different metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But look, the morn in russet mantle clad, Walks o’er the dew of yon high eastward hill."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A woman clad in armour chaseth them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Softly, gentle Patience. _The vision._ Enter, solemnly tripping one after another, six Personages, clad in white robes, wearing on their heads garlands of bays, and golden vizards on their faces, branches of bays or palm in their hands."*

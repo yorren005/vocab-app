@@ -5,13 +5,6 @@ status: unread
 ---
 # optician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker of or dealer in optical items and instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who reads prescriptions for visual correction, orders lenses, and dispenses eyeglasses and contact lenses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is called the "ultra-microscope." It must first be pointed out that there is a limit to the power of the ordinary microscope, beyond which the skill of the optician cannot go."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker of or dealer in optical items and instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who reads prescriptions for visual correction, orders lenses, and dispenses eyeglasses and contact lenses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is called the "ultra-microscope." It must first be pointed out that there is a limit to the power of the ordinary microscope, beyond which the skill of the optician cannot go."*

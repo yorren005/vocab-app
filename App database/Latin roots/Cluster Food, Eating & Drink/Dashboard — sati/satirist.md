@@ -5,15 +5,6 @@ status: unread
 ---
 # satirist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorist who uses ridicule and irony and sarcasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humorist who uses ridicule and irony and sarcasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Is the satirist of “Vanity Fair” admired in high places?"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin is the idealist, Lenau exhibits the profoundly pathetic side of Weltschmerz, while Heine is its satirist."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorist who uses ridicule and irony and sarcasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humorist who uses ridicule and irony and sarcasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Is the satirist of “Vanity Fair” admired in high places?"*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin is the idealist, Lenau exhibits the profoundly pathetic side of Weltschmerz, while Heine is its satirist."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*

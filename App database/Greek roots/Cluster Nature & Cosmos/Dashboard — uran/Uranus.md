@@ -5,15 +5,6 @@ status: unread
 ---
 # uranus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) god of the heavens; son and husband of gaea and father of the titans in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A giant planet with a ring of ice particles; the 7th planet from the sun has a blue-green color and many satellites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Uranus and Neptune orbits, although contained within the tank displays, were cut out by the compression."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Chiefs of Staff of the other Saturnian governments and the governments of the Uranus and Neptune satellite unions have notified me that their views are consistent with those of Chairman Straber."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Jovians and Saturnians are coming up fast, and the Neptune-Uranus team is close behind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) god of the heavens; son and husband of gaea and father of the titans in ancient mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A giant planet with a ring of ice particles; the 7th planet from the sun has a blue-green color and many satellites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Uranus and Neptune orbits, although contained within the tank displays, were cut out by the compression."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Chiefs of Staff of the other Saturnian governments and the governments of the Uranus and Neptune satellite unions have notified me that their views are consistent with those of Chairman Straber."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Jovians and Saturnians are coming up fast, and the Neptune-Uranus team is close behind."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # solent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strait of the english channel between the coast of hampshire and the isle of wight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strait of the english channel between the coast of hampshire and the isle of wight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See his _Rationale Divinorum Officiorum_ (appended to the _Rationale Divinorum Officiorum_ of G. [W.] Durandus, Lyons, 1584), p. 556 _recto: "Solent porro hoc tempore_ [the Eve of St."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was coming into Southampton Water and waiting for the pilot's cutter from the Solent, one bright July morning."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And all the Solent was dotted with sails, the snowy sails of great yachts and the cinnamon sails of small ones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strait of the english channel between the coast of hampshire and the isle of wight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strait of the english channel between the coast of hampshire and the isle of wight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See his _Rationale Divinorum Officiorum_ (appended to the _Rationale Divinorum Officiorum_ of G. [W.] Durandus, Lyons, 1584), p. 556 _recto: "Solent porro hoc tempore_ [the Eve of St."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was coming into Southampton Water and waiting for the pilot's cutter from the Solent, one bright July morning."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And all the Solent was dotted with sails, the snowy sails of great yachts and the cinnamon sails of small ones."*

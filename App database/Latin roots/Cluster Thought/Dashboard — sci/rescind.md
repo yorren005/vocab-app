@@ -5,15 +5,6 @@ status: unread
 ---
 # rescind
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel officially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Let me hope that you will rescind that resolution about the horse, Miss Brooke,” said the persevering admirer."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Cooper, the wife of the Confederate Adjutant-General, and used such arguments, as led the Confederate authorities to rescind the order, so far as he was concerned."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The witness was then asked whether he had heard General Thomas make any statement to the clerks of the War Office, to the effect that, when he came into control, he would relax or rescind the rules of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel officially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Let me hope that you will rescind that resolution about the horse, Miss Brooke,” said the persevering admirer."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Cooper, the wife of the Confederate Adjutant-General, and used such arguments, as led the Confederate authorities to rescind the order, so far as he was concerned."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The witness was then asked whether he had heard General Thomas make any statement to the clerks of the War Office, to the effect that, when he came into control, he would relax or rescind the rules of Mr."*

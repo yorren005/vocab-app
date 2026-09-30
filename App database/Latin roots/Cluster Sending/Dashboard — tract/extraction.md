@@ -5,15 +5,6 @@ status: unread
 ---
 # extraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of obtaining something from a mixture or compound by chemical or physical or mechanical means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properties attributable to your ancestry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Society is hopelessly snobbish, and this fact of your extraction may make an appreciable difference to its acceptance of you as my wife, after I have made you the well-read woman that I mean to make you."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He is said to be of foreign extraction.” “I know the sort,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of obtaining something from a mixture or compound by chemical or physical or mechanical means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properties attributable to your ancestry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Society is hopelessly snobbish, and this fact of your extraction may make an appreciable difference to its acceptance of you as my wife, after I have made you the well-read woman that I mean to make you."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He is said to be of foreign extraction.” “I know the sort,” said Mr."*

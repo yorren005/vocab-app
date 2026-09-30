@@ -5,15 +5,6 @@ status: unread
 ---
 # complacent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contented to a fault with oneself or one's actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contented to a fault with oneself or one's actions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As substitutes, I had four angels, of Queen Anne’s reign, taking a complacent gentleman to heaven, in festoons, with some difficulty; and a composition in needlework representing fruit, a kettle, and an alphabet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is generally in a complacent state, and rarely bored."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn read the affidavit in Jarndyce and Jarndyce—particularly complacent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contented to a fault with oneself or one's actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contented to a fault with oneself or one's actions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"As substitutes, I had four angels, of Queen Anne’s reign, taking a complacent gentleman to heaven, in festoons, with some difficulty; and a composition in needlework representing fruit, a kettle, and an alphabet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is generally in a complacent state, and rarely bored."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn read the affidavit in Jarndyce and Jarndyce—particularly complacent."*

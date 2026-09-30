@@ -5,15 +5,6 @@ status: unread
 ---
 # compendious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Briefly giving the gist of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Briefly giving the gist of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be my aim to remove the obstacles from your progress in as compendious a manner as it can be done, without sacrificing utility to despatch."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The damsels wear nothing but flowers and their compendious gala tunics; and when they plume themselves for the dance, they look like a band of olive-coloured Sylphides on the point of taking wing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Briefly giving the gist of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Briefly giving the gist of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be my aim to remove the obstacles from your progress in as compendious a manner as it can be done, without sacrificing utility to despatch."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The damsels wear nothing but flowers and their compendious gala tunics; and when they plume themselves for the dance, they look like a band of olive-coloured Sylphides on the point of taking wing."*

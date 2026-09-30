@@ -5,13 +5,6 @@ status: unread
 ---
 # taurobolium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek taur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That Salvation was not from within, was the testimony of every man who underwent the _taurobolium_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek taur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That Salvation was not from within, was the testimony of every man who underwent the _taurobolium_."*

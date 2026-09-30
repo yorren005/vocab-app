@@ -5,15 +5,6 @@ status: unread
 ---
 # inducing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of bringing about a desired result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to arise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket when a maiden, and inducing her to approach the altar—Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Immediately I was laced I devoted myself to inducing the little death."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This situation would even take away the motive to such combinations, by inducing an impracticability of success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of bringing about a desired result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to arise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket when a maiden, and inducing her to approach the altar—Mr."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Immediately I was laced I devoted myself to inducing the little death."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This situation would even take away the motive to such combinations, by inducing an impracticability of success."*

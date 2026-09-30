@@ -5,15 +5,6 @@ status: unread
 ---
 # auditory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the process of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the process of hearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, noble auditory, be it known to you That Chiron and the damned Demetrius Were they that murdered our emperor’s brother; And they it were that ravished our sister."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"But that only made his little final auditory more compact and select, kept it, round the hearth, subject to a common thrill."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The "di- 7:24 vine ear" is not an auditory nerve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the process of hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the process of hearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, noble auditory, be it known to you That Chiron and the damned Demetrius Were they that murdered our emperor’s brother; And they it were that ravished our sister."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"But that only made his little final auditory more compact and select, kept it, round the hearth, subject to a common thrill."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The "di- 7:24 vine ear" is not an auditory nerve."*

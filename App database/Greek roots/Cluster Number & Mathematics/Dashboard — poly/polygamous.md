@@ -5,13 +5,6 @@ status: unread
 ---
 # polygamous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one mate at a time; used of relationships and individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having several forms of gametoecia on the same plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygamous designates having more than one mate at a time; used of relationships and individuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one mate at a time; used of relationships and individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having several forms of gametoecia on the same plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygamous designates having more than one mate at a time; used of relationships and individuals."*

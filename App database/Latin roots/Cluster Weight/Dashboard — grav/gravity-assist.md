@@ -5,13 +5,6 @@ status: unread
 ---
 # gravity-assist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravity-assist designates (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravity-assist designates (spaceflight) a trajectory that passes close to a planetary body in order to gain energy from its gravitational field."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # flex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of flexing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Leviathans off-loaded to barges as other ships in a multitude of shapes and sizes grappled with cargo from flex-conveyers that snaked from the Depot's gaping portals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One by one, they squeezed through, and found themselves at the foot of a flex-ladder."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In the foreground, the Slingshot Logistics Depot and its maze of ships, tugs, articulated cranes and flex-conveyers were portrayed busily engaged in loading and unloading the moored vessels, and the new arrivals that waited for their turn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of flexing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Leviathans off-loaded to barges as other ships in a multitude of shapes and sizes grappled with cargo from flex-conveyers that snaked from the Depot's gaping portals."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One by one, they squeezed through, and found themselves at the foot of a flex-ladder."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In the foreground, the Slingshot Logistics Depot and its maze of ships, tugs, articulated cranes and flex-conveyers were portrayed busily engaged in loading and unloading the moored vessels, and the new arrivals that waited for their turn."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # practic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of do.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A physician, who for many years practiced his profession in the State of California, was called once to see the child of Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"And the more I have practiced this, the more I have had to do it with; and when I gave almost all, more came in, I scarce knew how, at least unexpected."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has been practiced upon in different countries and ages, and has received the sanction of the most approved writers on the subject of politics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of do.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of do.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A physician, who for many years practiced his profession in the State of California, was called once to see the child of Mr."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"And the more I have practiced this, the more I have had to do it with; and when I gave almost all, more came in, I scarce knew how, at least unexpected."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has been practiced upon in different countries and ages, and has received the sanction of the most approved writers on the subject of politics."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unctuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up thy marrows, vines and plough-torn leas, Whereof ingrateful man, with liquorish draughts And morsels unctuous greases his pure mind, That from it all consideration slips— Enter Apemantus."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In a word, after being tried out, the crisp, shrivelled blubber, now called scraps or fritters, still contains considerable of its unctuous properties."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And wee Shane did not like fat, unctuous men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up thy marrows, vines and plough-torn leas, Whereof ingrateful man, with liquorish draughts And morsels unctuous greases his pure mind, That from it all consideration slips— Enter Apemantus."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In a word, after being tried out, the crisp, shrivelled blubber, now called scraps or fritters, still contains considerable of its unctuous properties."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And wee Shane did not like fat, unctuous men."*

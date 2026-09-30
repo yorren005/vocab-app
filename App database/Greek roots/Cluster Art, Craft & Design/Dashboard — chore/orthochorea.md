@@ -5,13 +5,6 @@ status: unread
 ---
 # orthochorea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of chorea in which spasms occur mainly when the patient is erect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of chorea in which spasms occur mainly when the patient is erect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthochorea designates a form of chorea in which spasms occur mainly when the patient is erect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of chorea in which spasms occur mainly when the patient is erect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of chorea in which spasms occur mainly when the patient is erect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthochorea designates a form of chorea in which spasms occur mainly when the patient is erect."*

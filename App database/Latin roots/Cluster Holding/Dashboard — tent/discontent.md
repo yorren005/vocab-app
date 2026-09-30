@@ -5,15 +5,6 @@ status: unread
 ---
 # discontent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A longing for something better than the present situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make dissatisfied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So I leave you, sir, To th’ worst of discontent. [_Exit._] CLOTEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, Margaret; my heart is drowned with grief, Whose flood begins to flow within mine eyes, My body round engirt with misery; For what’s more miserable than discontent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heart’s discontent and sour affliction Be playfellows to keep you company!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A longing for something better than the present situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make dissatisfied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So I leave you, sir, To th’ worst of discontent. [_Exit._] CLOTEN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, Margaret; my heart is drowned with grief, Whose flood begins to flow within mine eyes, My body round engirt with misery; For what’s more miserable than discontent?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heart’s discontent and sour affliction Be playfellows to keep you company!"*

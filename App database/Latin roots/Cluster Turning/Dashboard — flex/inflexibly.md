@@ -5,15 +5,6 @@ status: unread
 ---
 # inflexibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inflexible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inflexible manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her figure was elegant, and she walked well; but Darcy, at whom it was all aimed, was still inflexibly studious."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Inflexibly honest and upright too, with a dash of chivalry in his nature; who is not familiar with his portrait as "Lovel" in _The Benchers of the Inner Temple_?"*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was a wild story, perhaps, but seemed not altogether so incredible to those who could remember what an inflexibly obstinate old fellow this wizard Maule had been."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inflexible manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inflexible manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her figure was elegant, and she walked well; but Darcy, at whom it was all aimed, was still inflexibly studious."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Inflexibly honest and upright too, with a dash of chivalry in his nature; who is not familiar with his portrait as "Lovel" in _The Benchers of the Inner Temple_?"*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was a wild story, perhaps, but seemed not altogether so incredible to those who could remember what an inflexibly obstinate old fellow this wizard Maule had been."*

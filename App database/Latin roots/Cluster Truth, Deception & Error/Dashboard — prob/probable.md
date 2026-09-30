@@ -5,15 +5,6 @@ status: unread
 ---
 # probable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An applicant likely to be chosen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely but not certain to be or become true or real.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None in the world; but return with an invention, and clap upon you two or three probable lies; but we have almost embossed him; you shall see his fall tonight; for indeed he is not for your lordship’s respect."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most probable That so she died, for her physician tells me She hath pursued conclusions infinite Of easy ways to die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An applicant likely to be chosen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely but not certain to be or become true or real.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None in the world; but return with an invention, and clap upon you two or three probable lies; but we have almost embossed him; you shall see his fall tonight; for indeed he is not for your lordship’s respect."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most probable That so she died, for her physician tells me She hath pursued conclusions infinite Of easy ways to die."*

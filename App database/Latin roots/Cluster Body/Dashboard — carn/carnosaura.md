@@ -5,13 +5,6 @@ status: unread
 ---
 # carnosaura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest carnivorous land animals ever known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest carnivorous land animals ever known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnosaura designates largest carnivorous land animals ever known."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest carnivorous land animals ever known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest carnivorous land animals ever known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnosaura designates largest carnivorous land animals ever known."*

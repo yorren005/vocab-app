@@ -5,13 +5,6 @@ status: unread
 ---
 # recoding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Converting from one code to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a different code; rearrange mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recoding designates converting from one code to another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Converting from one code to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a different code; rearrange mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recoding designates converting from one code to another."*

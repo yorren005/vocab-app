@@ -5,14 +5,6 @@ status: unread
 ---
 # voluptuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shapely and voluptuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indulgently voluptuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Martius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And although they are very voluptuously inclined, they would not for anything in the world have an intrigue with another man while their husband is at the war, believing firmly that if that happened, their husband would be either killed or wounded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shapely and voluptuous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indulgently voluptuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Martius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And although they are very voluptuously inclined, they would not for anything in the world have an intrigue with another man while their husband is at the war, believing firmly that if that happened, their husband would be either killed or wounded."*

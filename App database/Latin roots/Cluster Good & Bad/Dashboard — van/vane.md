@@ -5,15 +5,6 @@ status: unread
 ---
 # vane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical device attached to an elevated structure; rotates freely to show the direction of the wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fin attached to the tail of an arrow, bomb or missile in order to stabilize or guide it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No: ’twas the vane on the house."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was the vane on the roof turning round, and this change in the wind was the signal for a disastrous rain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Up against this dark background the west front of the church tower—the only part of the edifice visible from the farm-house windows—rose distinct and lustrous, the vane upon the summit bristling with rays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical device attached to an elevated structure; rotates freely to show the direction of the wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fin attached to the tail of an arrow, bomb or missile in order to stabilize or guide it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No: ’twas the vane on the house."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was the vane on the roof turning round, and this change in the wind was the signal for a disastrous rain."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Up against this dark background the west front of the church tower—the only part of the edifice visible from the farm-house windows—rose distinct and lustrous, the vane upon the summit bristling with rays."*

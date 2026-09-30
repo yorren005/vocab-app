@@ -5,15 +5,6 @@ status: unread
 ---
 # hector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical trojan who was killed by achilles during the trojan war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be bossy towards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The breasts of Hecuba, When she did suckle Hector, looked not lovelier Than Hector’s forehead when it spit forth blood At Grecian sword, contemning.—Tell Valeria We are fit to bid her welcome. [_Exit Gentlewoman._] VIRGILIA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought I should have seen some Hercules, A second Hector, for his grim aspect, And large proportion of his strong-knit limbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical trojan who was killed by achilles during the trojan war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be bossy towards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The breasts of Hecuba, When she did suckle Hector, looked not lovelier Than Hector’s forehead when it spit forth blood At Grecian sword, contemning.—Tell Valeria We are fit to bid her welcome. [_Exit Gentlewoman._] VIRGILIA."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought I should have seen some Hercules, A second Hector, for his grim aspect, And large proportion of his strong-knit limbs."*

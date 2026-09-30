@@ -5,13 +5,6 @@ status: unread
 ---
 # time-tested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tested and proved to be reliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tested and proved to be reliable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-tested designates tested and proved to be reliable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tested and proved to be reliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tested and proved to be reliable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-tested designates tested and proved to be reliable."*

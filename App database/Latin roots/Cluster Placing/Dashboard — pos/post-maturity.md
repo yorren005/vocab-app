@@ -5,13 +5,6 @@ status: unread
 ---
 # post-maturity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state in which women have stopped ovulating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state in which women have stopped ovulating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-maturity designates the state in which women have stopped ovulating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state in which women have stopped ovulating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state in which women have stopped ovulating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-maturity designates the state in which women have stopped ovulating."*

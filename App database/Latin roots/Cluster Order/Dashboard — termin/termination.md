@@ -5,15 +5,6 @@ status: unread
 ---
 # termination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coming to an end of a contract period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place where something ends or is complete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"These proceedings will come to a termination, and then I am provided for."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I glanced at Richard on the termination of these hopeless proceedings and was shocked to see the worn look of his handsome young face."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be just, the men were not greatly to blame for this painful and demoralizing termination to the evening’s entertainment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coming to an end of a contract period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place where something ends or is complete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"These proceedings will come to a termination, and then I am provided for."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I glanced at Richard on the termination of these hopeless proceedings and was shocked to see the worn look of his handsome young face."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be just, the men were not greatly to blame for this painful and demoralizing termination to the evening’s entertainment."*

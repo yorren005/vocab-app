@@ -5,13 +5,6 @@ status: unread
 ---
 # brachycephaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-headed or broad-headed with a cephalic index of over 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-headed or broad-headed with a cephalic index of over 80.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycephaly designates short-headed or broad-headed with a cephalic index of over 80."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-headed or broad-headed with a cephalic index of over 80.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-headed or broad-headed with a cephalic index of over 80.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycephaly designates short-headed or broad-headed with a cephalic index of over 80."*

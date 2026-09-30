@@ -5,15 +5,6 @@ status: unread
 ---
 # ducat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a gold coin of various european countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a gold coin of various european countries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rat? [_Draws._] Dead for a ducat, dead! [_Makes a pass through the arras._] POLONIUS. [_Behind._] O, I am slain! [_Falls and dies._] QUEEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, your beggar of fifty; and his use was to put a ducat in her clack-dish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fare thee well, there is a ducat for thee, And, Launcelet, soon at supper shalt thou see Lorenzo, who is thy new master’s guest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a gold coin of various european countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a gold coin of various european countries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rat? [_Draws._] Dead for a ducat, dead! [_Makes a pass through the arras._] POLONIUS. [_Behind._] O, I am slain! [_Falls and dies._] QUEEN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, your beggar of fifty; and his use was to put a ducat in her clack-dish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fare thee well, there is a ducat for thee, And, Launcelet, soon at supper shalt thou see Lorenzo, who is thy new master’s guest."*

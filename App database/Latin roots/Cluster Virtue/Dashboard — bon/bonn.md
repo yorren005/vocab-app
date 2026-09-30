@@ -5,14 +5,6 @@ status: unread
 ---
 # bonn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western germany on the rhine river; was the capital of west germany between 1949 and 1989.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western germany on the rhine river; was the capital of west germany between 1949 and 1989.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ne porty ploo--habit militair--bonn--bonny a voo, prenny dehors"--were Jos's words--the coat and cap were at last his property."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie,' I said, 'and mes bonnes femmes, my friends, know you that it is the middle of the night, the hour at which we must rest if we are to be able to do the work that is needful, which the _bon Dieu_ has laid upon us?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western germany on the rhine river; was the capital of west germany between 1949 and 1989.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western germany on the rhine river; was the capital of west germany between 1949 and 1989.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ne porty ploo--habit militair--bonn--bonny a voo, prenny dehors"--were Jos's words--the coat and cap were at last his property."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie,' I said, 'and mes bonnes femmes, my friends, know you that it is the middle of the night, the hour at which we must rest if we are to be able to do the work that is needful, which the _bon Dieu_ has laid upon us?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # volans
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the polar region of the southern hemisphere near dorado and carina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the polar region of the southern hemisphere near dorado and carina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volans designates a small constellation in the polar region of the southern hemisphere near dorado and carina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the polar region of the southern hemisphere near dorado and carina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the polar region of the southern hemisphere near dorado and carina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volans designates a small constellation in the polar region of the southern hemisphere near dorado and carina."*

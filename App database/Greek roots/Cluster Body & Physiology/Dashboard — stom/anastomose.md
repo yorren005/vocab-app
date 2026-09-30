@@ -5,13 +5,6 @@ status: unread
 ---
 # anastomose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together or open into each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to join or open into each other by anastomosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The vegetative system of the “rust,” and similar fungi, consists of a number of delicate, simple, or branched threads, often intertwining and anastomosing, or uniting one to the other by means of lateral branchlets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together or open into each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to join or open into each other by anastomosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The vegetative system of the “rust,” and similar fungi, consists of a number of delicate, simple, or branched threads, often intertwining and anastomosing, or uniting one to the other by means of lateral branchlets."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vicar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic priest who acts for another higher-ranking clergyman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (episcopal church) a clergyman in charge of a chapel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here it rests, that you’ll procure the vicar To stay for me at church, ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, husband your device; I’ll to the vicar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic priest who acts for another higher-ranking clergyman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (episcopal church) a clergyman in charge of a chapel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here it rests, that you’ll procure the vicar To stay for me at church, ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, husband your device; I’ll to the vicar."*

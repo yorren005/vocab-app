@@ -5,15 +5,6 @@ status: unread
 ---
 # ascent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An upward slope or grade (as in a road).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement upward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At her third ascent the rick suddenly brightened with the brazen glare of shining majolica—every knot in every straw was visible."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am a brute—but good-bye!” After advancing the distance which completed the ascent of the hill, Bathsheba turned her head."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her ascent of the crooked staircase was a slower process, and her face, as it rose into the light above the last stair, encountered the gaze of all the party assembled in the bedroom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upward slope or grade (as in a road).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement upward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At her third ascent the rick suddenly brightened with the brazen glare of shining majolica—every knot in every straw was visible."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am a brute—but good-bye!” After advancing the distance which completed the ascent of the hill, Bathsheba turned her head."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her ascent of the crooked staircase was a slower process, and her face, as it rose into the light above the last stair, encountered the gaze of all the party assembled in the bedroom."*

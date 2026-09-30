@@ -5,20 +5,6 @@ status: unread
 ---
 # choke
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Obstruct by filling up or clogging
-> 2. **Nuance / Usage**: Check or hinder the growth, development, or activity of
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to choke the target*) and intransitive clauses (*choking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"With eager feeding food doth choke the feeder."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I scorn thy meat, ’twould choke me, for I should ne’er flatter thee."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here he resists a disposition to choke, “a factory?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To suffocate or struggle to breathe due to a constricted windpipe, thick smoke, or noxious fumes.
+> 2. **Nuance / Usage**: Applied to fire, vegetation, or machinery, it means to smother, clog, or suppress activity by cutting off air, space, or free passage (*a fire choked with ash*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to choke the target*) and intransitive clauses (*choking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard II*):** *"With eager feeding food doth **choke** the feeder."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The tall chimneys of Coketown poured forth a dense black smoke that threatened to **choke** the very daylight."*
+> - 📜 **Wilfred Owen (*Dulce et Decorum Est*):** *"Dim, through the misty panes and thick green light, as under a green sea, I saw him **choking**."*

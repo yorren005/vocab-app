@@ -5,15 +5,6 @@ status: unread
 ---
 # probate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judicial certificate saying that a will is genuine and conferring on the executors the power to administer the estate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of proving that an instrument purporting to be a will was signed and executed in accord with legal requirements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That evening a letter from the probate office at Exeter, N."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have courts of common law, courts of probates (analogous in certain matters to the spiritual courts in England), a court of admiralty and a court of chancery."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In that State the courts of common law have the cognizance of those causes which with us are determinable in the courts of admiralty and of probates, and of course the jury trial is more extensive in New Jersey than in New York."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A judicial certificate saying that a will is genuine and conferring on the executors the power to administer the estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of proving that an instrument purporting to be a will was signed and executed in accord with legal requirements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"That evening a letter from the probate office at Exeter, N."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have courts of common law, courts of probates (analogous in certain matters to the spiritual courts in England), a court of admiralty and a court of chancery."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In that State the courts of common law have the cognizance of those causes which with us are determinable in the courts of admiralty and of probates, and of course the jury trial is more extensive in New Jersey than in New York."*

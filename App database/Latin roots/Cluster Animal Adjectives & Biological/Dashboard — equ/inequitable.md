@@ -5,15 +5,6 @@ status: unread
 ---
 # inequitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equitable or fair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not equitable or fair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The exemptions from taxation in feudal times were great and, viewed from our standpoint, were inequitable, for the upper classes escaped while the peasants bore most of the burdens."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The exemptions from taxation in feudal times were great, and viewed from our standpoint were inequitable, for it was the upper classes who escaped while the peasants bore all the burdens."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But our present tariff laws, the vicious, inequitable and illogical source of unnecessary taxation, ought to be at once revised and amended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equitable or fair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not equitable or fair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The exemptions from taxation in feudal times were great and, viewed from our standpoint, were inequitable, for the upper classes escaped while the peasants bore most of the burdens."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The exemptions from taxation in feudal times were great, and viewed from our standpoint were inequitable, for it was the upper classes who escaped while the peasants bore all the burdens."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But our present tariff laws, the vicious, inequitable and illogical source of unnecessary taxation, ought to be at once revised and amended."*

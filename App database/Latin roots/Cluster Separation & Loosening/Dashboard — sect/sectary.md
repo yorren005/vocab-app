@@ -5,15 +5,6 @@ status: unread
 ---
 # sectary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a sect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a sect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, my lord, you are a sectary, That’s the plain truth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How long have you been a sectary astronomical?"*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Reflecting on the narrowness of his ideals we are apt to see him as an ignorant and fanatical sectary, and to detect an unpleasant flavour in his verse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a sect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, my lord, you are a sectary, That’s the plain truth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How long have you been a sectary astronomical?"*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Reflecting on the narrowness of his ideals we are apt to see him as an ignorant and fanatical sectary, and to detect an unpleasant flavour in his verse."*

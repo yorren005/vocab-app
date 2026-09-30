@@ -5,13 +5,6 @@ status: unread
 ---
 # deconsecrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divested of consecration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconsecrated designates remove the consecration from a person or an object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divested of consecration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconsecrated designates remove the consecration from a person or an object."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # erythroblastosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal presence of erythroblasts in the circulating blood; especially : erythroblastosis fetalis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hemolytic disease of the fetus and newborn that occurs when the immune system of an Rh-negative mother produces antibodies to an antigen in the blood of an Rh-positive fetus which cross the placenta and destroy fetal erythrocytes and that is characterized by an increase in circulating erythroblasts and by jaundice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroblastosis designates abnormal presence of erythroblasts in the circulating blood; especially : erythroblastosis fetalis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal presence of erythroblasts in the circulating blood; especially : erythroblastosis fetalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hemolytic disease of the fetus and newborn that occurs when the immune system of an Rh-negative mother produces antibodies to an antigen in the blood of an Rh-positive fetus which cross the placenta and destroy fetal erythrocytes and that is characterized by an increase in circulating erythroblasts and by jaundice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroblastosis designates abnormal presence of erythroblasts in the circulating blood; especially : erythroblastosis fetalis."*

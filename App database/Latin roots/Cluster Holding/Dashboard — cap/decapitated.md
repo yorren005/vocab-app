@@ -5,15 +5,6 @@ status: unread
 ---
 # decapitated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had the head cut off.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Pequod’s whale being decapitated and the body stripped, the head was hoisted against the ship’s side—about half way out of the sea, so that it might yet in great part be buoyed up by its native element."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is this decapitated end of the head, also, which is at last elevated out of the water, and retained in that position by the enormous cutting tackles, whose hempen combinations, on one side, make quite a wilderness of ropes in that quarter."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He decapitated his brassy on the occasion of his striking Dorsetshire instead of his ball, and he was slow in recovering from the complex emotions which such an episode induces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had the head cut off.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Pequod’s whale being decapitated and the body stripped, the head was hoisted against the ship’s side—about half way out of the sea, so that it might yet in great part be buoyed up by its native element."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is this decapitated end of the head, also, which is at last elevated out of the water, and retained in that position by the enormous cutting tackles, whose hempen combinations, on one side, make quite a wilderness of ropes in that quarter."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He decapitated his brassy on the occasion of his striking Dorsetshire instead of his ball, and he was slow in recovering from the complex emotions which such an episode induces."*

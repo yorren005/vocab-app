@@ -5,13 +5,6 @@ status: unread
 ---
 # humourist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acts speaks or writes in an amusing way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who acts speaks or writes in an amusing way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The apothecary, after some interjections of hesitation, owned there was a doctor in the village, an odd sort of a humourist; but he believed he had not much to do in the way of his profession, and was not much used to the forms of prescription."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acts speaks or writes in an amusing way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who acts speaks or writes in an amusing way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The apothecary, after some interjections of hesitation, owned there was a doctor in the village, an odd sort of a humourist; but he believed he had not much to do in the way of his profession, and was not much used to the forms of prescription."*

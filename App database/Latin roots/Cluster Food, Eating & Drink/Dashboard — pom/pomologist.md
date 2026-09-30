@@ -5,13 +5,6 @@ status: unread
 ---
 # pomologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone versed in pomology or someone who cultivates fruit trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone versed in pomology or someone who cultivates fruit trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomologist designates someone versed in pomology or someone who cultivates fruit trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone versed in pomology or someone who cultivates fruit trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone versed in pomology or someone who cultivates fruit trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomologist designates someone versed in pomology or someone who cultivates fruit trees."*

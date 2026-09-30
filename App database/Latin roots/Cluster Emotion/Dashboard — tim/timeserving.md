@@ -5,13 +5,6 @@ status: unread
 ---
 # timeserving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At any rate, whatever as coming from the god was imparted to those present seemed to be generally of a complimentary nature: a fact which illustrates the sagacity of Kolory, or else the timeserving disposition of this hardly used deity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At any rate, whatever as coming from the god was imparted to those present seemed to be generally of a complimentary nature: a fact which illustrates the sagacity of Kolory, or else the timeserving disposition of this hardly used deity."*

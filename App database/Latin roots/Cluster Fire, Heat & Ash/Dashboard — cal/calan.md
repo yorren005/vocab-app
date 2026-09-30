@@ -5,13 +5,6 @@ status: unread
 ---
 # calan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calan designates a drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calan designates a drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine."*

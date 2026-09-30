@@ -5,13 +5,6 @@ status: unread
 ---
 # semiconducting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconducting designates having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconducting designates having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors."*

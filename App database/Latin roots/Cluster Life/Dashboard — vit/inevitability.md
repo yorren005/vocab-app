@@ -5,15 +5,6 @@ status: unread
 ---
 # inevitability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unavoidable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unavoidable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There was an impersonal doggedness about the wrestler from Aleppo's eyes, a sense of inevitability...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre began to feel a sense of uneasiness, and the need, even the inevitability, of entering into conversation with this stranger."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The higher a man stands on the social ladder, the more people he is connected with and the more power he has over others, the more evident is the predestination and inevitability of his every action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unavoidable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unavoidable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There was an impersonal doggedness about the wrestler from Aleppo's eyes, a sense of inevitability...."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre began to feel a sense of uneasiness, and the need, even the inevitability, of entering into conversation with this stranger."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The higher a man stands on the social ladder, the more people he is connected with and the more power he has over others, the more evident is the predestination and inevitability of his every action."*

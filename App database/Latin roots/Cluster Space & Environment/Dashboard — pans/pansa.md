@@ -5,13 +5,6 @@ status: unread
 ---
 # pansa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenth month of the hindu calendar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tenth month of the hindu calendar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenth month of the hindu calendar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tenth month of the hindu calendar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*

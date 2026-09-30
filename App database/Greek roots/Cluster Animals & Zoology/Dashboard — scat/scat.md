@@ -5,15 +5,6 @@ status: unread
 ---
 # scat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Singing jazz; the singer substitutes nonsense syllables for the words of the song and tries to sound like a musical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flee; take to one's heels; cut and run.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"In fact, it would have spoiled everything, and Angel encouraged the animal's exit with a suppressed "Scat!" The first hotel they tried was the right one."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Do they think we enjoy for our music Staccatoes of "scat"?"*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"A cry of “Scat! you devil!” and the crash of an empty bottle against the back of his aunt’s woodshed brought him wide awake, and a single minute later he was dressed and out of the window and creeping along the roof of the “ell” on all fours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Singing jazz; the singer substitutes nonsense syllables for the words of the song and tries to sound like a musical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flee; take to one's heels; cut and run.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"In fact, it would have spoiled everything, and Angel encouraged the animal's exit with a suppressed "Scat!" The first hotel they tried was the right one."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"Do they think we enjoy for our music Staccatoes of "scat"?"*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"A cry of “Scat! you devil!” and the crash of an empty bottle against the back of his aunt’s woodshed brought him wide awake, and a single minute later he was dressed and out of the window and creeping along the roof of the “ell” on all fours."*

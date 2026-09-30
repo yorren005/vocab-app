@@ -5,13 +5,6 @@ status: unread
 ---
 # sagittiform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) like an arrow head without flaring base lobes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) like an arrow head without flaring base lobes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittiform designates (of a leaf shape) like an arrow head without flaring base lobes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) like an arrow head without flaring base lobes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) like an arrow head without flaring base lobes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittiform designates (of a leaf shape) like an arrow head without flaring base lobes."*

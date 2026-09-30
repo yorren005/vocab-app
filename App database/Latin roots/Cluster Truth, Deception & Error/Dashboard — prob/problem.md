@@ -5,15 +5,6 @@ status: unread
 ---
 # problem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of difficulty that needs to be resolved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A question raised for consideration or solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She told him of the problem she had with Bruno's further education, because the lessons he had been having from the Rector would end in the fall, and of her firm intention of keeping him from living together with his two present comrades."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Every one of the children had a problem to bring to her, but there was so little time left to-day that they had to be put off till to-morrow."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But I must tell you something else." Uncle Philip seemed to be rather glad to pass quickly over the hard problem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of difficulty that needs to be resolved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A question raised for consideration or solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She told him of the problem she had with Bruno's further education, because the lessons he had been having from the Rector would end in the fall, and of her firm intention of keeping him from living together with his two present comrades."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Every one of the children had a problem to bring to her, but there was so little time left to-day that they had to be put off till to-morrow."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But I must tell you something else." Uncle Philip seemed to be rather glad to pass quickly over the hard problem."*

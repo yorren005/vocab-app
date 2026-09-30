@@ -5,15 +5,6 @@ status: unread
 ---
 # paris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of france; and international center of culture and commerce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in subfamily trilliaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was your motive For Paris, was it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of france; and international center of culture and commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in subfamily trilliaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was your motive For Paris, was it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*

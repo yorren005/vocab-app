@@ -5,13 +5,6 @@ status: unread
 ---
 # clammyweed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong-scented herb common in southern united states covered with intermixed gland and hairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong-scented herb common in southern united states covered with intermixed gland and hairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clammyweed designates strong-scented herb common in southern united states covered with intermixed gland and hairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong-scented herb common in southern united states covered with intermixed gland and hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong-scented herb common in southern united states covered with intermixed gland and hairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clammyweed designates strong-scented herb common in southern united states covered with intermixed gland and hairs."*

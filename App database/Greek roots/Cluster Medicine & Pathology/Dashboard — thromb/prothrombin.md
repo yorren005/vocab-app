@@ -5,13 +5,6 @@ status: unread
 ---
 # prothrombin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plasma protein produced in the liver in the presence of vitamin K and converted into thrombin in the clotting of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plasma protein produced in the liver in the presence of vitamin K and converted into thrombin in the clotting of blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prothrombin designates a plasma protein produced in the liver in the presence of vitamin k and converted into thrombin in the clotting of blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plasma protein produced in the liver in the presence of vitamin K and converted into thrombin in the clotting of blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plasma protein produced in the liver in the presence of vitamin K and converted into thrombin in the clotting of blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prothrombin designates a plasma protein produced in the liver in the presence of vitamin k and converted into thrombin in the clotting of blood."*

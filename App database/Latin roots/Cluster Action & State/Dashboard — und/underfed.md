@@ -5,13 +5,6 @@ status: unread
 ---
 # underfed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not getting adequate food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not getting adequate food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many persons are moved by sympathy to pronounce competition among low-paid and underfed workers to be bad, and each worker is convinced that it is so in his own trade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not getting adequate food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not getting adequate food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many persons are moved by sympathy to pronounce competition among low-paid and underfed workers to be bad, and each worker is convinced that it is so in his own trade."*

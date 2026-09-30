@@ -5,13 +5,6 @@ status: unread
 ---
 # congregant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a congregation (especially that of a church or synagogue).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a congregation (especially that of a church or synagogue).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, congregant designates a member of a congregation (especially that of a church or synagogue)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a congregation (especially that of a church or synagogue).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a congregation (especially that of a church or synagogue).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, congregant designates a member of a congregation (especially that of a church or synagogue)."*

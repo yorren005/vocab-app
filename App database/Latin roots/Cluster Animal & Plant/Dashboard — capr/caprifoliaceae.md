@@ -5,13 +5,6 @@ status: unread
 ---
 # caprifoliaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubs and small trees and woody vines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubs and small trees and woody vines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprifoliaceae designates shrubs and small trees and woody vines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubs and small trees and woody vines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubs and small trees and woody vines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprifoliaceae designates shrubs and small trees and woody vines."*

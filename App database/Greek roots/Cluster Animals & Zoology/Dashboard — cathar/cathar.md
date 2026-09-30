@@ -5,13 +5,6 @@ status: unread
 ---
 # cathar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of one of various ascetic and dualistic Christian sects especially of the later Middle Ages teaching that matter is evil and professing faith in an angelic Christ who did not really undergo human birth or death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of one of various ascetic and dualistic Christian sects especially of the later Middle Ages teaching that matter is evil and professing faith in an angelic Christ who did not really undergo human birth or death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathar designates a member of one of various ascetic and dualistic christian sects especially of the later middle ages teaching that matter is evil and professing faith in an angelic christ who did not really undergo human birth or death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of one of various ascetic and dualistic Christian sects especially of the later Middle Ages teaching that matter is evil and professing faith in an angelic Christ who did not really undergo human birth or death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of one of various ascetic and dualistic Christian sects especially of the later Middle Ages teaching that matter is evil and professing faith in an angelic Christ who did not really undergo human birth or death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathar designates a member of one of various ascetic and dualistic christian sects especially of the later middle ages teaching that matter is evil and professing faith in an angelic christ who did not really undergo human birth or death."*

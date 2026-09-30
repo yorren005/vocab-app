@@ -5,15 +5,6 @@ status: unread
 ---
 # proportional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the quantities in a mathematical proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly related in size or degree or other measurable characteristics; usually followed by `to'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a similar manner, express and sleeping car companies are taxed, in the same group of states, on mileage, or on capital stock proportional to mileage, or by license and privilege taxes."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If inequalities should arise in some States from duties on particular objects, these will, in all probability, be counterbalanced by proportional inequalities in other States, from the duties on other objects."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In addition to this, it is to be observed that there is a probability of an increase in the number of States, and no provision for a proportional augmentation of the ratio of votes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the quantities in a mathematical proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly related in size or degree or other measurable characteristics; usually followed by `to'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a similar manner, express and sleeping car companies are taxed, in the same group of states, on mileage, or on capital stock proportional to mileage, or by license and privilege taxes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If inequalities should arise in some States from duties on particular objects, these will, in all probability, be counterbalanced by proportional inequalities in other States, from the duties on other objects."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In addition to this, it is to be observed that there is a probability of an increase in the number of States, and no provision for a proportional augmentation of the ratio of votes."*

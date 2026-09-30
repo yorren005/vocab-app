@@ -5,15 +5,6 @@ status: unread
 ---
 # radiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Send out rays or waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send out real or metaphoric rays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Erelong ye will with your own eyes witness how brilliantly every one of you, even as a shining star, will radiate in the firmament of your country the light of divine guidance, and will bestow upon its people the glory of an everlasting life..."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Antennae made with a short vertical part and a long horizontal part radiate best in the direction away from which their horizontal part points."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"These are hexagonal-radiate, each division being a pinnate or feather-shaped lamina of twin rows of crystals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Send out rays or waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send out real or metaphoric rays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Erelong ye will with your own eyes witness how brilliantly every one of you, even as a shining star, will radiate in the firmament of your country the light of divine guidance, and will bestow upon its people the glory of an everlasting life..."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Antennae made with a short vertical part and a long horizontal part radiate best in the direction away from which their horizontal part points."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"These are hexagonal-radiate, each division being a pinnate or feather-shaped lamina of twin rows of crystals."*

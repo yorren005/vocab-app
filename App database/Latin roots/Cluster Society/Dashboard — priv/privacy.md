@@ -5,15 +5,6 @@ status: unread
 ---
 # privacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being secluded from the presence or view of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being concealed or hidden.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this my privacy I have strong reasons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’gainst your privacy The reasons are more potent and heroical. ’Tis known, Achilles, that you are in love With one of Priam’s daughters."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Tess had reached home that evening, and had entered into the privacy of her little white-washed chamber, she began impetuously writing a letter to Clare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being secluded from the presence or view of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being concealed or hidden.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this my privacy I have strong reasons."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’gainst your privacy The reasons are more potent and heroical. ’Tis known, Achilles, that you are in love With one of Priam’s daughters."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Tess had reached home that evening, and had entered into the privacy of her little white-washed chamber, she began impetuously writing a letter to Clare."*

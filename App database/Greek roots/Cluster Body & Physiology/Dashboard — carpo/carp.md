@@ -5,15 +5,6 @@ status: unread
 ---
 # carp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To find fault or complain querulously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To find fault or complain querulously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you now; Your bait of falsehood takes this carp of truth; And thus do we of wisdom and of reach, With windlasses, and with assays of bias, By indirections find directions out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not only, sir, this your all-licens’d fool, But other of your insolent retinue Do hourly carp and quarrel; breaking forth In rank and not-to-be-endured riots."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find fault or complain querulously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To find fault or complain querulously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you now; Your bait of falsehood takes this carp of truth; And thus do we of wisdom and of reach, With windlasses, and with assays of bias, By indirections find directions out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not only, sir, this your all-licens’d fool, But other of your insolent retinue Do hourly carp and quarrel; breaking forth In rank and not-to-be-endured riots."*

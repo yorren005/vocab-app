@@ -5,13 +5,6 @@ status: unread
 ---
 # unsanctioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without explicit official permission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without explicit official permission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I do not blame you for with-holding "the-laying-on-of-hands," but I was ordained of God long years ago to preach the unsearchable riches of Christ, and although unsanctioned by man, I shall still preach the message with which he has provided me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without explicit official permission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without explicit official permission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I do not blame you for with-holding "the-laying-on-of-hands," but I was ordained of God long years ago to preach the unsearchable riches of Christ, and although unsanctioned by man, I shall still preach the message with which he has provided me."*

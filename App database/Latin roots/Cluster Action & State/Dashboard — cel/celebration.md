@@ -5,15 +5,6 @@ status: unread
 ---
 # celebration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A joyful occasion for special festivities to mark some happy event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any joyous diversion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The citizens, I am sure, have shown at full their royal minds, As, let ’em have their rights, they are ever forward In celebration of this day with shows, Pageants, and sights of honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For besides these beneficial news, it is the celebration of his nuptial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall conceal it Whiles you are willing it shall come to note, What time we will our celebration keep According to my birth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A joyful occasion for special festivities to mark some happy event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any joyous diversion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The citizens, I am sure, have shown at full their royal minds, As, let ’em have their rights, they are ever forward In celebration of this day with shows, Pageants, and sights of honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For besides these beneficial news, it is the celebration of his nuptial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall conceal it Whiles you are willing it shall come to note, What time we will our celebration keep According to my birth."*

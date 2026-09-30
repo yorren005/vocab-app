@@ -5,13 +5,6 @@ status: unread
 ---
 # ultima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The last syllable in a word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No one was ever more thoroughly Epicurean in the truest sense of the word; no one ever urged more pleasantly the Epicurean theory _Carpe diem_; no one ever had more deeply ingrained in him the belief _Mors ultima linea rerum est_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The last syllable in a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The last syllable in a word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No one was ever more thoroughly Epicurean in the truest sense of the word; no one ever urged more pleasantly the Epicurean theory _Carpe diem_; no one ever had more deeply ingrained in him the belief _Mors ultima linea rerum est_."*

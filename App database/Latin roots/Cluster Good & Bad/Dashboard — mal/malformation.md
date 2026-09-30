@@ -5,14 +5,6 @@ status: unread
 ---
 # malformation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal or anomalous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood wanting to see you, Miss Everdene.” A woman’s dress being a part of her countenance, and any disorder in the one being of the same nature with a malformation or wound in the other, Bathsheba said at once— “I can’t see him in this state."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood wanting to see you, Miss Everdene.” A woman’s dress being a part of her countenance, and any disorder in the one being of the same nature with a malformation or wound in the other, Bathsheba said at once,— “I can’t see him in this state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal or anomalous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood wanting to see you, Miss Everdene.” A woman’s dress being a part of her countenance, and any disorder in the one being of the same nature with a malformation or wound in the other, Bathsheba said at once— “I can’t see him in this state."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood wanting to see you, Miss Everdene.” A woman’s dress being a part of her countenance, and any disorder in the one being of the same nature with a malformation or wound in the other, Bathsheba said at once,— “I can’t see him in this state."*

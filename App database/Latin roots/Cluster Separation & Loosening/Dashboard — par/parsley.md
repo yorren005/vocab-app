@@ -5,15 +5,6 @@ status: unread
 ---
 # parsley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herb with aromatic leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic herb with flat or crinkly leaves that are cut finely and used to garnish food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot tarry: I knew a wench married in an afternoon as she went to the garden for parsley to stuff a rabbit; and so may you, sir; and so adieu, sir."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"We ain't goin' to have real nice weather till the up-country snow's all gone." "I heard say yesterday that there was good sleddin' yet, all up through Parsley," responded Miss Wright."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"My cousin Ellen's husband was a Parsley man, an' he was obliged, as you may have heard, to go up north to his father's second wife's funeral; got back day before yesterday."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herb with aromatic leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic herb with flat or crinkly leaves that are cut finely and used to garnish food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot tarry: I knew a wench married in an afternoon as she went to the garden for parsley to stuff a rabbit; and so may you, sir; and so adieu, sir."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"We ain't goin' to have real nice weather till the up-country snow's all gone." "I heard say yesterday that there was good sleddin' yet, all up through Parsley," responded Miss Wright."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"My cousin Ellen's husband was a Parsley man, an' he was obliged, as you may have heard, to go up north to his father's second wife's funeral; got back day before yesterday."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deformed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist and press out of shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! grief hath chang’d me since you saw me last, And careful hours with time’s deformed hand, Have written strange defeatures in my face."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice-sod simplicity, _bis coctus!_ O, thou monster Ignorance, how deformed dost thou look!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist and press out of shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! grief hath chang’d me since you saw me last, And careful hours with time’s deformed hand, Have written strange defeatures in my face."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice-sod simplicity, _bis coctus!_ O, thou monster Ignorance, how deformed dost thou look!"*

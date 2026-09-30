@@ -5,15 +5,6 @@ status: unread
 ---
 # delineate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show the form or outline of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the essential quality of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such unaccountable masses of shades and shadows, that at first you almost thought some ambitious young artist, in the time of the New England hags, had endeavored to delineate chaos bewitched."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I shall now proceed to delineate dangers of a different and, perhaps, still more alarming kind—those which will in all probability flow from dissensions between the States themselves, and from domestic factions and convulsions."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His unwelcome approach, the recognition of his person, his hasty departure, produced a complex impression on my mind which no words can delineate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show the form or outline of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the essential quality of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such unaccountable masses of shades and shadows, that at first you almost thought some ambitious young artist, in the time of the New England hags, had endeavored to delineate chaos bewitched."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I shall now proceed to delineate dangers of a different and, perhaps, still more alarming kind—those which will in all probability flow from dissensions between the States themselves, and from domestic factions and convulsions."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His unwelcome approach, the recognition of his person, his hasty departure, produced a complex impression on my mind which no words can delineate."*

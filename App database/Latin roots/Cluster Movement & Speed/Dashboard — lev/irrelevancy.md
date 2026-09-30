@@ -5,15 +5,6 @@ status: unread
 ---
 # irrelevancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of a relation of something to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of a relation of something to the matter at hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I am glad you are doing so well," with a strange irrelevancy of graciousness."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The flaw--and it is a fatal one--of the system lies not in its reasoning, but in its premises; in its conception of the nature of life, not in any irrelevancy of the conclusions which it draws from that conception."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"To this question objection was made by the counsel of the President on the ground of irrelevancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of a relation of something to the matter at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of a relation of something to the matter at hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I am glad you are doing so well," with a strange irrelevancy of graciousness."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The flaw--and it is a fatal one--of the system lies not in its reasoning, but in its premises; in its conception of the nature of life, not in any irrelevancy of the conclusions which it draws from that conception."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"To this question objection was made by the counsel of the President on the ground of irrelevancy."*

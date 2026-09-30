@@ -5,15 +5,6 @@ status: unread
 ---
 # modernism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genre of art and literature that makes a self-conscious break with previous genres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For once mediævalism and modernism had a common stand-point."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was expressing in her own native phrases—assisted a little by her Sixth Standard training—feelings which might almost have been called those of the age—the ache of modernism."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For once mediævalism and modernism had a common standpoint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genre of art and literature that makes a self-conscious break with previous genres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For once mediævalism and modernism had a common stand-point."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was expressing in her own native phrases—assisted a little by her Sixth Standard training—feelings which might almost have been called those of the age—the ache of modernism."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For once mediævalism and modernism had a common standpoint."*

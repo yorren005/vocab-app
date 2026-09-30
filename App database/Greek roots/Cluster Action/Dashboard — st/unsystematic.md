@@ -5,13 +5,6 @@ status: unread
 ---
 # unsystematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking systematic arrangement or method or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking systematic arrangement or method or organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"But as to "Effie's" telling long magazine tales,--pshaw! she is the most unsystematic creature in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking systematic arrangement or method or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking systematic arrangement or method or organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"But as to "Effie's" telling long magazine tales,--pshaw! she is the most unsystematic creature in the world."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # uninfluenced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influenced or affected; - v.l.parrington.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not influenced or affected; - v.l.parrington.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What other body would be likely to feel CONFIDENCE ENOUGH IN ITS OWN SITUATION, to preserve, unawed and uninfluenced, the necessary impartiality between an INDIVIDUAL accused, and the REPRESENTATIVES OF THE PEOPLE, HIS ACCUSERS?"*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Needless to say, China was not uninfluenced by this contact with the West."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sanctioned by your approving voice, and by that of your representatives in both Houses of Congress, the spirit of that measure has continually governed me, uninfluenced by any attempts to deter or divert me from it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influenced or affected; - v.l.parrington.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not influenced or affected; - v.l.parrington.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What other body would be likely to feel CONFIDENCE ENOUGH IN ITS OWN SITUATION, to preserve, unawed and uninfluenced, the necessary impartiality between an INDIVIDUAL accused, and the REPRESENTATIVES OF THE PEOPLE, HIS ACCUSERS?"*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Needless to say, China was not uninfluenced by this contact with the West."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sanctioned by your approving voice, and by that of your representatives in both Houses of Congress, the spirit of that measure has continually governed me, uninfluenced by any attempts to deter or divert me from it."*

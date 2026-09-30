@@ -5,15 +5,6 @@ status: unread
 ---
 # jacobite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of james ii after he was overthrown or a supporter of the stuarts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporter of james ii after he was overthrown or a supporter of the stuarts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He landed in Scotland and advanced on England, and got as far as Derby at the head of the Scottish clans and Jacobite gentlemen."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If it had been the Jacobite times, or '98 or even '48, he would not have minded."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A gentleman who was a staunch Whig, disputing with a Jacobite, said, he had two good reasons for being against the interest of the pretender: What are those? said the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of james ii after he was overthrown or a supporter of the stuarts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporter of james ii after he was overthrown or a supporter of the stuarts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He landed in Scotland and advanced on England, and got as far as Derby at the head of the Scottish clans and Jacobite gentlemen."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If it had been the Jacobite times, or '98 or even '48, he would not have minded."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A gentleman who was a staunch Whig, disputing with a Jacobite, said, he had two good reasons for being against the interest of the pretender: What are those? said the other."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # megatherium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the megatheriidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the megatheriidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I recognised by the oblique feet that it was some extinct creature after the fashion of the Megatherium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the megatheriidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the megatheriidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I recognised by the oblique feet that it was some extinct creature after the fashion of the Megatherium."*

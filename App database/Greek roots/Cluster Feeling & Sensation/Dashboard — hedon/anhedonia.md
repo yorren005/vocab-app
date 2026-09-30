@@ -5,13 +5,6 @@ status: unread
 ---
 # anhedonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological condition characterized by inability to experience pleasure in normally pleasurable acts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological condition characterized by inability to experience pleasure in normally pleasurable acts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhedonia designates a psychological condition characterized by inability to experience pleasure in normally pleasurable acts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological condition characterized by inability to experience pleasure in normally pleasurable acts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological condition characterized by inability to experience pleasure in normally pleasurable acts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhedonia designates a psychological condition characterized by inability to experience pleasure in normally pleasurable acts."*

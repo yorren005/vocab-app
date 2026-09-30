@@ -5,15 +5,6 @@ status: unread
 ---
 # scald
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A burn cause by hot liquid or steam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of burning with steam or hot water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saucy lictors Will catch at us like strumpets, and scald rhymers Ballad us out o’ tune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou dost pinch thy bearer, thou dost sit Like a rich armour worn in heat of day, That scald’st with safety."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is one goat for you. [_Strikes him._] Will you be so good, scald knave, as eat it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A burn cause by hot liquid or steam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of burning with steam or hot water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saucy lictors Will catch at us like strumpets, and scald rhymers Ballad us out o’ tune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou dost pinch thy bearer, thou dost sit Like a rich armour worn in heat of day, That scald’st with safety."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is one goat for you. [_Strikes him._] Will you be so good, scald knave, as eat it?"*

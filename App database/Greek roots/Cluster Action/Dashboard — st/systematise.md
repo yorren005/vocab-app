@@ -5,13 +5,6 @@ status: unread
 ---
 # systematise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Dryden, to a greater extent than is (we imagine) generally perceived, was Cowley systematised; and Cowley, who sank into the arms of Dryden, rose from the lap of Donne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Dryden, to a greater extent than is (we imagine) generally perceived, was Cowley systematised; and Cowley, who sank into the arms of Dryden, rose from the lap of Donne."*

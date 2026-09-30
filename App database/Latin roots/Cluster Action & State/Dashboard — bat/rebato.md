@@ -5,13 +5,6 @@ status: unread
 ---
 # rebato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wired or starched collar of intricate lace; worn in 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wired or starched collar of intricate lace; worn in 17th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troth, I think your other rebato were better."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wired or starched collar of intricate lace; worn in 17th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wired or starched collar of intricate lace; worn in 17th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troth, I think your other rebato were better."*

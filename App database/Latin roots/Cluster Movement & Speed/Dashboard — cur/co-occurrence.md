@@ -5,13 +5,6 @@ status: unread
 ---
 # co-occurrence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event or situation that happens at the same time as or in connection with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal property of two things happening at the same time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-occurrence designates an event or situation that happens at the same time as or in connection with another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event or situation that happens at the same time as or in connection with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal property of two things happening at the same time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-occurrence designates an event or situation that happens at the same time as or in connection with another."*

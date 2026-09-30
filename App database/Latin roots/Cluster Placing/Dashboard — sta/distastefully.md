@@ -5,14 +5,6 @@ status: unread
 ---
 # distastefully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensively distasteful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disgusting manner or to a disgusting degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"C'mere, give it a try." Ram looked distastefully at the suit."*
-> - 📜 **James Joyce (*Ulysses*):** *"She sipped distastefully her brew, hot tea, a sip, sipped, sweet tea. —Here he was, miss Douce said, cocking her bronze head three quarters, ruffling her nosewings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensively distasteful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disgusting manner or to a disgusting degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"C'mere, give it a try." Ram looked distastefully at the suit."*
+> - 📜 **James Joyce (*Ulysses*):** *"She sipped distastefully her brew, hot tea, a sip, sipped, sweet tea. —Here he was, miss Douce said, cocking her bronze head three quarters, ruffling her nosewings."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # clan
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Group united by a common interest or common characteristics
-> 2. **Nuance / Usage**: Group of people tracing descent from a common ancestor : family
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Return, return, Clan Milly: forget me not, O Milesian."*
-> - 📜 **Stephan Price (*Thinking Through Badgers*):** *"if the clan of badgers next door isn't marking its boundaries"*
-> - 📜 **David Macdonald, ‎Chris Newman (*The Badgers of Wytham Woods*):** *"it might support a clan of badgers willing to share, although not necessarily to compromise, their individual food security to gain the advantage of reduced food defence costs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A large, closely knit kinship group of families tracing descent from a common ancestor, especially in the Scottish Highlands.
+> 2. **Nuance / Usage**: By extension, any tight-knit clique, faction, or group of people united by shared traits, fierce loyalty, or a common pursuit.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Rob Roy*):** *"The whole **clan** would have risen at a single word from their chieftain."*
+> - 📜 **James Joyce (*Ulysses*):** *"Return, return, **Clan** Milly: forget me not, O Milesian."*
+> - 📜 **David Macdonald & Chris Newman (*The Badgers of Wytham Woods*):** *"The territory might support a **clan** of badgers willing to share their individual food security to reduce defense costs."*

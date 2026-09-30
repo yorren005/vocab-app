@@ -5,13 +5,6 @@ status: unread
 ---
 # tracheophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheophyte designates any of a division (tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheophyte designates any of a division (tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant."*

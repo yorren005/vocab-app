@@ -5,13 +5,6 @@ status: unread
 ---
 # arithmancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithmancy designates divination by means of numbers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithmancy designates divination by means of numbers."*

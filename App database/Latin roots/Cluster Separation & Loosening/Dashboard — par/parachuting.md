@@ -5,13 +5,6 @@ status: unread
 ---
 # parachuting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descent with a parachute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jump from an airplane and descend with a parachute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Parachutes also have a wide range of uses in peacetime, as examples, sports parachuting, 'fire jumpers' fighting forest fires, and rescue operations in terrain or other circumstances that preclude less hazardous access."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descent with a parachute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jump from an airplane and descend with a parachute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Parachutes also have a wide range of uses in peacetime, as examples, sports parachuting, 'fire jumpers' fighting forest fires, and rescue operations in terrain or other circumstances that preclude less hazardous access."*

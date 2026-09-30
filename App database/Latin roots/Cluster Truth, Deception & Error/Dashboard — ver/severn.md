@@ -5,15 +5,6 @@ status: unread
 ---
 # severn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in ontario that flows northeast into hudson bay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in england and wales flowing into the bristol channel; the longest river in great britain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Leave not the worthy Lucius, good my lords, Till he have cross’d the Severn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three times hath Henry Bolingbroke made head Against my power; thrice from the banks of Wye And sandy-bottom’d Severn have I sent him Bootless home and weather-beaten back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His mother was a French governess, and it seems that a secret attachment existed between her and the late Lord Severn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in ontario that flows northeast into hudson bay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in england and wales flowing into the bristol channel; the longest river in great britain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Leave not the worthy Lucius, good my lords, Till he have cross’d the Severn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three times hath Henry Bolingbroke made head Against my power; thrice from the banks of Wye And sandy-bottom’d Severn have I sent him Bootless home and weather-beaten back."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His mother was a French governess, and it seems that a secret attachment existed between her and the late Lord Severn."*

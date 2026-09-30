@@ -5,15 +5,6 @@ status: unread
 ---
 # diverging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or draw apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have no limits as a mathematical series.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its difference from the manatee consisted in its upper jaw, which was armed with two long and pointed teeth which formed on each side diverging tusks."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"An ordinary spherical mirror would reflect them either back to the lamp or in diverging directions."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"How much greater must be the chasm between two such widely diverging races." Morlene exhibited no signs of abating interest, so the lawyer proceeded further with his remarks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or draw apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have no limits as a mathematical series.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its difference from the manatee consisted in its upper jaw, which was armed with two long and pointed teeth which formed on each side diverging tusks."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"An ordinary spherical mirror would reflect them either back to the lamp or in diverging directions."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"How much greater must be the chasm between two such widely diverging races." Morlene exhibited no signs of abating interest, so the lawyer proceeded further with his remarks."*

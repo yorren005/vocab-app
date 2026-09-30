@@ -5,13 +5,6 @@ status: unread
 ---
 # hendiadys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendiadys designates the expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendiadys designates the expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm)."*

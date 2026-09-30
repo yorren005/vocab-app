@@ -5,13 +5,6 @@ status: unread
 ---
 # exospore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual spore cut off from a parent sporophore by the formation of septa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual spore cut off from a parent sporophore by the formation of septa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exospore designates an asexual spore cut off from a parent sporophore by the formation of septa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual spore cut off from a parent sporophore by the formation of septa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual spore cut off from a parent sporophore by the formation of septa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exospore designates an asexual spore cut off from a parent sporophore by the formation of septa."*

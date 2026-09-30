@@ -5,13 +5,6 @@ status: unread
 ---
 # scyphozoa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various usually free-swimming marine coelenterates having a gelatinous medusoid stage as the dominant phase of its life cycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Scyphozoa designates coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various usually free-swimming marine coelenterates having a gelatinous medusoid stage as the dominant phase of its life cycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Scyphozoa designates coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes."*

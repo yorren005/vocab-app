@@ -5,15 +5,6 @@ status: unread
 ---
 # agreed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consent or assent to a condition, or agree to do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unwilling I agreed; alas, too soon We came aboard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Agreed. [_Exeunt Posthumus and Iachimo._] FRENCHMAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sum is paid; the traitors are agreed; The King is set from London; and the scene Is now transported, gentles, to Southampton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consent or assent to a condition, or agree to do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unwilling I agreed; alas, too soon We came aboard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Agreed. [_Exeunt Posthumus and Iachimo._] FRENCHMAN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sum is paid; the traitors are agreed; The King is set from London; and the scene Is now transported, gentles, to Southampton."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # discussion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended communication (often interactive) dealing with some particular topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exchange of views on some topic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She also held a discussion with Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without any other alteration in their customary deportment, have looked very steadily at one another—as was natural, perhaps, in the discussion of so unusual a subject."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended communication (often interactive) dealing with some particular topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exchange of views on some topic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She also held a discussion with Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without any other alteration in their customary deportment, have looked very steadily at one another—as was natural, perhaps, in the discussion of so unusual a subject."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*

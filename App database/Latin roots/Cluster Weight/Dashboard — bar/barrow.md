@@ -5,15 +5,6 @@ status: unread
 ---
 # barrow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity that a barrow will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a heap of earth placed over prehistoric tombs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go fetch me a quart of sack; put a toast in ’t. [_Exit Bardolph._] Have I lived to be carried in a basket like a barrow of butcher’s offal, and to be thrown in the Thames?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass now passed near them, wheeling a barrow of apples up the hill to Bathsheba’s residence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood and Gabriel called to him, spoke to him for a few minutes, and then all three parted, Joseph immediately coming up the hill with his barrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity that a barrow will hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a heap of earth placed over prehistoric tombs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go fetch me a quart of sack; put a toast in ’t. [_Exit Bardolph._] Have I lived to be carried in a basket like a barrow of butcher’s offal, and to be thrown in the Thames?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass now passed near them, wheeling a barrow of apples up the hill to Bathsheba’s residence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood and Gabriel called to him, spoke to him for a few minutes, and then all three parted, Joseph immediately coming up the hill with his barrow."*

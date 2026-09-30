@@ -5,14 +5,6 @@ status: unread
 ---
 # barndoor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opaque adjustable flap on a lamp fixture; used in photography to cut off light from particular areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opaque adjustable flap on a lamp fixture; used in photography to cut off light from particular areas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Presently they heard the muffled tread of a horse, and the farmer rode up to the barndoor."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The day hardened in colour, the light coming in at the barndoors upwards from the snow instead of downwards from the sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opaque adjustable flap on a lamp fixture; used in photography to cut off light from particular areas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opaque adjustable flap on a lamp fixture; used in photography to cut off light from particular areas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Presently they heard the muffled tread of a horse, and the farmer rode up to the barndoor."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The day hardened in colour, the light coming in at the barndoors upwards from the snow instead of downwards from the sky."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cataclinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of valleys and rivers; running in the direction of the dip in surrounding rock strata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of valleys and rivers; running in the direction of the dip in surrounding rock strata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataclinal designates of valleys and rivers; running in the direction of the dip in surrounding rock strata."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of valleys and rivers; running in the direction of the dip in surrounding rock strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of valleys and rivers; running in the direction of the dip in surrounding rock strata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataclinal designates of valleys and rivers; running in the direction of the dip in surrounding rock strata."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # homology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A similarity often attributable to common origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence or similarity in form or function between parts (such as the wing of a bat and the human arm) of different species resulting from modification of a trait possessed by a common ancestor : similarity of traits reflecting common descent and ancestry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homology designates a similarity often attributable to common origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A similarity often attributable to common origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence or similarity in form or function between parts (such as the wing of a bat and the human arm) of different species resulting from modification of a trait possessed by a common ancestor : similarity of traits reflecting common descent and ancestry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homology designates a similarity often attributable to common origin."*

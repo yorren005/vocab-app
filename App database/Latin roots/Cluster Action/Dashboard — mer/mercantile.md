@@ -5,15 +5,6 @@ status: unread
 ---
 # mercantile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the economic system of mercantilism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profit oriented; ; - john buchan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was employed as book-keeper in a large mercantile house; but soon became addicted to drink, and the story is ever the same; loss of position, poverty, disgrace, suffering and recklessness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A somewhat corresponding improvement has taken place on railroads, in mercantile establishments and, perhaps less, in mining."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It appeared in textile, iron, mercantile, and other industries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the economic system of mercantilism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profit oriented; ; - john buchan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He was employed as book-keeper in a large mercantile house; but soon became addicted to drink, and the story is ever the same; loss of position, poverty, disgrace, suffering and recklessness."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A somewhat corresponding improvement has taken place on railroads, in mercantile establishments and, perhaps less, in mining."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It appeared in textile, iron, mercantile, and other industries."*

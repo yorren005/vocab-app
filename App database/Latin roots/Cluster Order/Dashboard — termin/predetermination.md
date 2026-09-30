@@ -5,14 +5,6 @@ status: unread
 ---
 # predetermination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) being determined in advance; especially the doctrine (usually associated with calvin) that god has foreordained every event throughout eternity (including the final salvation of mankind).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental determination or resolve in advance; an antecedent intention to do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"In the evening it was found, according to the predetermination of Mrs."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have done no such thing, and Judge Douglas so persistently insisting that I have done so, has strongly impressed me with the belief of a predetermination on his part to misrepresent me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) being determined in advance; especially the doctrine (usually associated with calvin) that god has foreordained every event throughout eternity (including the final salvation of mankind).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental determination or resolve in advance; an antecedent intention to do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"In the evening it was found, according to the predetermination of Mrs."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have done no such thing, and Judge Douglas so persistently insisting that I have done so, has strongly impressed me with the belief of a predetermination on his part to misrepresent me."*

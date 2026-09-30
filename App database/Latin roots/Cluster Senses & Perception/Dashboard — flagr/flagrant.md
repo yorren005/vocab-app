@@ -5,15 +5,6 @@ status: unread
 ---
 # flagrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and outrageously bad or reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and outrageously bad or reprehensible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is the most flagrant example of an abominable public vehicle that ever encumbered the face of the earth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn found himself under the necessity of committing a flagrant trespass to restore his neighbour to himself."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was a dreadful picture of ingratitude and inhumanity; and Anne felt, at some moments, that no flagrant open crime could have been worse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and outrageously bad or reprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and outrageously bad or reprehensible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is the most flagrant example of an abominable public vehicle that ever encumbered the face of the earth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn found himself under the necessity of committing a flagrant trespass to restore his neighbour to himself."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It was a dreadful picture of ingratitude and inhumanity; and Anne felt, at some moments, that no flagrant open crime could have been worse."*

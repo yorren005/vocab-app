@@ -5,13 +5,6 @@ status: unread
 ---
 # hybridoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridoma designates a hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridoma designates a hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody."*

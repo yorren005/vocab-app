@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing four atoms of carbon per molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any monosaccharide sugar containing four atoms of carbon per molecule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrose designates any monosaccharide sugar containing four atoms of carbon per molecule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing four atoms of carbon per molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any monosaccharide sugar containing four atoms of carbon per molecule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrose designates any monosaccharide sugar containing four atoms of carbon per molecule."*

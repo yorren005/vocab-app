@@ -5,20 +5,6 @@ status: unread
 ---
 # bound
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Very likely : sure
-> 2. **Nuance / Usage**: (with infinitive) obliged (to)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a bound presence*) or predicatively (*remained bound*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Being your vassal bound to stay your leisure."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"very well to a whipping, if you were but bound to’t."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Why, these balls bound; there’s noise in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Very likely : sure
+> 2. **Nuance / Usage**: (with infinitive) obliged (to)
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a bound presence*) or predicatively (*remained bound*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Being your vassal bound to stay your leisure."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"very well to a whipping, if you were but bound to’t."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Why, these balls bound; there’s noise in it."*

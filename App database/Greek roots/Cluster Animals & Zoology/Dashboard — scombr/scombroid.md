@@ -5,13 +5,6 @@ status: unread
 ---
 # scombroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombroid designates any of a suborder (scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombroid designates any of a suborder (scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # osteology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of anatomy dealing with the bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bony structure of an organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Mon._ [416] His work on Osteology--written during the time he acted as Demonstrator in one of the metropolitan schools, and before he had reached his twentieth year--did him great credit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of anatomy dealing with the bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bony structure of an organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Mon._ [416] His work on Osteology--written during the time he acted as Demonstrator in one of the metropolitan schools, and before he had reached his twentieth year--did him great credit."*

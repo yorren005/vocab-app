@@ -5,15 +5,6 @@ status: unread
 ---
 # cavernous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or suggesting a cavern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with vascular sinuses and capable of becoming distended and rigid as the result of being filled with blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of logistics robots crammed the station's cavernous bays, self-sustaining and programmed to activate sub-systems on schedule, deploy robotic specialists and service the machine during its voyage, and in perpetuity thereafter."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"On that side of the road where the brook entered the wood, a group of oaks and chestnuts, matted thick with wild grape-vines, threw a cavernous gloom over it."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The clean line of his jaw is a joy to behold; his eyes are dark and unusually deep-set--I would say "cavernous," if I had not a particular dislike to the word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or suggesting a cavern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with vascular sinuses and capable of becoming distended and rigid as the result of being filled with blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of logistics robots crammed the station's cavernous bays, self-sustaining and programmed to activate sub-systems on schedule, deploy robotic specialists and service the machine during its voyage, and in perpetuity thereafter."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"On that side of the road where the brook entered the wood, a group of oaks and chestnuts, matted thick with wild grape-vines, threw a cavernous gloom over it."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The clean line of his jaw is a joy to behold; his eyes are dark and unusually deep-set--I would say "cavernous," if I had not a particular dislike to the word."*

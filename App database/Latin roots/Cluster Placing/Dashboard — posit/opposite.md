@@ -5,15 +5,6 @@ status: unread
 ---
 # opposite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relation of direct opposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The present pleasure, By revolution lowering, does become The opposite of itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as opposite to every good As the Antipodes are unto us, Or as the south to the Septentrion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All form is formless, order orderless, Save what is opposite to England’s love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relation of direct opposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The present pleasure, By revolution lowering, does become The opposite of itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as opposite to every good As the Antipodes are unto us, Or as the south to the Septentrion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All form is formless, order orderless, Save what is opposite to England’s love."*

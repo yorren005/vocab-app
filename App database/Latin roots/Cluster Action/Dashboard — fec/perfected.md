@@ -5,15 +5,6 @@ status: unread
 ---
 # perfected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make perfect or complete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of plans, ideas, etc.) perfectly formed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be so, for miracles are ceased, And therefore we must needs admit the means How things are perfected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Experience is by industry achieved And perfected by the swift course of time."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Must we be prepared to give up all if we would be perfected?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make perfect or complete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of plans, ideas, etc.) perfectly formed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be so, for miracles are ceased, And therefore we must needs admit the means How things are perfected."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Experience is by industry achieved And perfected by the swift course of time."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Must we be prepared to give up all if we would be perfected?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # progeria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare genetic disorder of childhood marked by slowed physical growth and characteristic signs (such as baldness, wrinkled skin, and atherosclerosis) of rapid aging with death usually occurring around puberty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare genetic disorder of childhood marked by slowed physical growth and characteristic signs (such as baldness, wrinkled skin, and atherosclerosis) of rapid aging with death usually occurring around puberty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progeria designates a rare genetic disorder of childhood marked by slowed physical growth and characteristic signs (such as baldness, wrinkled skin, and atherosclerosis) of rapid aging with death usually occurring around puberty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare genetic disorder of childhood marked by slowed physical growth and characteristic signs (such as baldness, wrinkled skin, and atherosclerosis) of rapid aging with death usually occurring around puberty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare genetic disorder of childhood marked by slowed physical growth and characteristic signs (such as baldness, wrinkled skin, and atherosclerosis) of rapid aging with death usually occurring around puberty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progeria designates a rare genetic disorder of childhood marked by slowed physical growth and characteristic signs (such as baldness, wrinkled skin, and atherosclerosis) of rapid aging with death usually occurring around puberty."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # condone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excuse, overlook, or make allowances for; be lenient with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excuse, overlook, or make allowances for; be lenient with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"No sanctity could condone for the devouring of widows' houses (Matt. 23:14)."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A woman of Spanish blood does not condone such an injury so lightly."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He had almost a morbid horror of defilement from men and women of coarse minds,--a craving too for peace and sympathy; he shrank into himself, condoned, ignored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excuse, overlook, or make allowances for; be lenient with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excuse, overlook, or make allowances for; be lenient with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"No sanctity could condone for the devouring of widows' houses (Matt. 23:14)."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A woman of Spanish blood does not condone such an injury so lightly."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He had almost a morbid horror of defilement from men and women of coarse minds,--a craving too for peace and sympathy; he shrank into himself, condoned, ignored."*

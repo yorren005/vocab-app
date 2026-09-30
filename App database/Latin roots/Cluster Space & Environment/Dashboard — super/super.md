@@ -5,15 +5,6 @@ status: unread
 ---
 # super
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A caretaker for an apartment house; represents the owner as janitor and rent collector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the highest quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is different from perception that culminates in reason, for it arises in sensation and culminates in emotion, which, be it admitted, is nothing else than super-sensation."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all the super-subtlety that sometimes characterizes theologians, these men had a passion for truth."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I can recommend it for your purpose, sir, because it really is extra super."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A caretaker for an apartment house; represents the owner as janitor and rent collector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the highest quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is different from perception that culminates in reason, for it arises in sensation and culminates in emotion, which, be it admitted, is nothing else than super-sensation."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all the super-subtlety that sometimes characterizes theologians, these men had a passion for truth."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I can recommend it for your purpose, sir, because it really is extra super."*

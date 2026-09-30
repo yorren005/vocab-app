@@ -5,15 +5,6 @@ status: unread
 ---
 # event
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that happens at a given place and time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special set of circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor lord, is’t I That chase thee from thy country, and expose Those tender limbs of thine to the event Of the none-sparing war?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s to the Capitol; And carry with us ears and eyes for th’ time, But hearts for the event."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, the event Is yet to name the winner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that happens at a given place and time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special set of circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor lord, is’t I That chase thee from thy country, and expose Those tender limbs of thine to the event Of the none-sparing war?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s to the Capitol; And carry with us ears and eyes for th’ time, But hearts for the event."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, the event Is yet to name the winner."*

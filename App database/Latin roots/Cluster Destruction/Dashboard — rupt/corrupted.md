@@ -5,15 +5,6 @@ status: unread
 ---
 # corrupted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make illegal payments to in exchange for favors or influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, my fortunes have Corrupted honest men!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be probable she lost it, or Who knows if one her women, being corrupted Hath stol’n it from her?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In the corrupted currents of this world Offence’s gilded hand may shove by justice, And oft ’tis seen the wicked prize itself Buys out the law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make illegal payments to in exchange for favors or influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, my fortunes have Corrupted honest men!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be probable she lost it, or Who knows if one her women, being corrupted Hath stol’n it from her?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In the corrupted currents of this world Offence’s gilded hand may shove by justice, And oft ’tis seen the wicked prize itself Buys out the law."*

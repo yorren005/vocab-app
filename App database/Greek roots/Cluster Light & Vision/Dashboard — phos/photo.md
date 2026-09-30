@@ -5,15 +5,6 @@ status: unread
 ---
 # photo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In my responses I told about the time and circumstances that I had taped a commentary to our family's photo and document album, and how I went about it."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Organizing the material in each section chronologically, I inserted them into the albums and numbered each photo, document and page."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Soon after the photo was taken, by K, we all drove to AA, visited the city of BB, and had lunch at CC."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Photograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In my responses I told about the time and circumstances that I had taped a commentary to our family's photo and document album, and how I went about it."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Organizing the material in each section chronologically, I inserted them into the albums and numbered each photo, document and page."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Soon after the photo was taken, by K, we all drove to AA, visited the city of BB, and had lunch at CC."*

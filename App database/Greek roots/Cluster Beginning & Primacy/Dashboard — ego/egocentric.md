@@ -5,13 +5,6 @@ status: unread
 ---
 # egocentric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with the individual rather than society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking the ego as the starting point in philosophy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egocentric designates concerned with the individual rather than society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with the individual rather than society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking the ego as the starting point in philosophy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egocentric designates concerned with the individual rather than society."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calif
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calif designates the civil and religious leader of a muslim state considered to be a representative of allah on earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The civil and religious leader of a muslim state considered to be a representative of allah on earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calif designates the civil and religious leader of a muslim state considered to be a representative of allah on earth."*

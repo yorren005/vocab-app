@@ -5,13 +5,6 @@ status: unread
 ---
 # dopastat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dopastat designates a monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dopastat designates a monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension."*

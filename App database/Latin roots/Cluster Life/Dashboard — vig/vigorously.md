@@ -5,15 +5,6 @@ status: unread
 ---
 # vigorously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With vigor; in a vigorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With vigor; in a vigorous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Here we go!" Kurt began and all the others vigorously joined him: Come out, you ghost of Wildenstein!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Just look, we are all going," the uncle said vigorously."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is all so funny and strange." Kurt had chosen a suitable song and Uncle Philip began it so vigorously that everybody could join and a full-voiced chorus was formed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With vigor; in a vigorous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With vigor; in a vigorous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Here we go!" Kurt began and all the others vigorously joined him: Come out, you ghost of Wildenstein!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Just look, we are all going," the uncle said vigorously."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is all so funny and strange." Kurt had chosen a suitable song and Uncle Philip began it so vigorously that everybody could join and a full-voiced chorus was formed."*

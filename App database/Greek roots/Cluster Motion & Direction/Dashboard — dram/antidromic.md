@@ -5,13 +5,6 @@ status: unread
 ---
 # antidromic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidromic designates proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidromic designates proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber."*

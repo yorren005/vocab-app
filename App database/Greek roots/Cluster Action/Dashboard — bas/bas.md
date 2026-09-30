@@ -5,15 +5,6 @@ status: unread
 ---
 # bas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bachelor of applied science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bachelor of arts and sciences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Est-ce que ma robe va bien?” cried she, bounding forwards; “et mes souliers? et mes bas?"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Shane, _assises bas, a crouppetons_, in an archway, hoping for a drunken farmer with a couple of sous ... and so cold, so cold, with a little fire of straw stalks ... _tost allumees, tost estaintes!_" ..."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"S na Sasanaigh fein, do b' fheidir go bhfaigh dis bas!_ A voice spoke excitedly, imperiously to Shane: "What is he saying?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bachelor of applied science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bachelor of arts and sciences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Est-ce que ma robe va bien?” cried she, bounding forwards; “et mes souliers? et mes bas?"*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Shane, _assises bas, a crouppetons_, in an archway, hoping for a drunken farmer with a couple of sous ... and so cold, so cold, with a little fire of straw stalks ... _tost allumees, tost estaintes!_" ..."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"S na Sasanaigh fein, do b' fheidir go bhfaigh dis bas!_ A voice spoke excitedly, imperiously to Shane: "What is he saying?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # obelus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol — or ÷ used in ancient manuscripts to mark a questionable passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The symbol ÷.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obelus designates a symbol — or ÷ used in ancient manuscripts to mark a questionable passage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol — or ÷ used in ancient manuscripts to mark a questionable passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The symbol ÷.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obelus designates a symbol — or ÷ used in ancient manuscripts to mark a questionable passage."*

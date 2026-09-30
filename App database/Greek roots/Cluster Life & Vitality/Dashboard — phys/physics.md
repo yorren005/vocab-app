@@ -5,15 +5,6 @@ status: unread
 ---
 # physics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with matter and energy and their interactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical processes and phenomena of a particular system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The labour we delight in physics pain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a gallant child; one that indeed physics the subject, makes old hearts fresh."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Used, in part, with kind permission from: http://www.physics.wisc.edu/~shalizi/Spinoza/TIE/ 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with matter and energy and their interactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical processes and phenomena of a particular system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The labour we delight in physics pain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a gallant child; one that indeed physics the subject, makes old hearts fresh."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Used, in part, with kind permission from: http://www.physics.wisc.edu/~shalizi/Spinoza/TIE/ 2."*

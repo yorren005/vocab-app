@@ -5,13 +5,6 @@ status: unread
 ---
 # heterocercal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocercal designates possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocercal designates possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe."*

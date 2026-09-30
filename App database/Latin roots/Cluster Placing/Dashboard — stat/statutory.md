@@ -5,14 +5,6 @@ status: unread
 ---
 # statutory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or created by statutes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prescribed or authorized by or punishable under a statute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By old English statutory law, the whale is declared “a royal fish.” * Oh, that’s only nominal!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At the same time the leading journals of the country seemed to have joined in a crusade against all existing political methods, and against all statutory and political abuses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or created by statutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prescribed or authorized by or punishable under a statute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By old English statutory law, the whale is declared “a royal fish.” * Oh, that’s only nominal!"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At the same time the leading journals of the country seemed to have joined in a crusade against all existing political methods, and against all statutory and political abuses."*

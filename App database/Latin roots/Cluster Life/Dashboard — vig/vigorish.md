@@ -5,13 +5,6 @@ status: unread
 ---
 # vigorish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exorbitant or unlawful rate of interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percentage (of winnings or loot or profit) taken by an operator or gangster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigorish designates an exorbitant or unlawful rate of interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exorbitant or unlawful rate of interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percentage (of winnings or loot or profit) taken by an operator or gangster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigorish designates an exorbitant or unlawful rate of interest."*

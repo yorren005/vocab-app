@@ -5,13 +5,6 @@ status: unread
 ---
 # equivocate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be deliberately ambiguous or unclear in order to mislead or withhold information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be deliberately ambiguous or unclear in order to mislead or withhold information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator. [_Knocking._] Knock, knock, knock!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be deliberately ambiguous or unclear in order to mislead or withhold information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be deliberately ambiguous or unclear in order to mislead or withhold information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator. [_Knocking._] Knock, knock, knock!"*

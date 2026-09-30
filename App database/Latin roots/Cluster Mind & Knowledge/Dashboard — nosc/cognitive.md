@@ -5,13 +5,6 @@ status: unread
 ---
 # cognitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or being or relating to or involving cognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or being or relating to or involving cognition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognitive designates of or being or relating to or involving cognition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or being or relating to or involving cognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or being or relating to or involving cognition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognitive designates of or being or relating to or involving cognition."*

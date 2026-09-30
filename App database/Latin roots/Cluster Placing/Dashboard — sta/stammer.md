@@ -5,15 +5,6 @@ status: unread
 ---
 # stammer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech disorder involving hesitations and involuntary repetitions of certain sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak haltingly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would thou couldst stammer, that thou mightst pour this concealed man out of thy mouth, as wine comes out of narrow-mouthed bottle—either too much at once or none at all."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To show Sir Bardie’s willyart glow’r, An’ how he star’d and stammer’d, When, goavin, as if led wi’ branks, An’ stumpin on his ploughman shanks, He in the parlour hammer’d."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But if you have any objection, this is the time to mention it.” My heart was beating so fast, and there was such a singing in my ears, that I could scarcely stammer I had no objection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech disorder involving hesitations and involuntary repetitions of certain sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak haltingly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would thou couldst stammer, that thou mightst pour this concealed man out of thy mouth, as wine comes out of narrow-mouthed bottle—either too much at once or none at all."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To show Sir Bardie’s willyart glow’r, An’ how he star’d and stammer’d, When, goavin, as if led wi’ branks, An’ stumpin on his ploughman shanks, He in the parlour hammer’d."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But if you have any objection, this is the time to mention it.” My heart was beating so fast, and there was such a singing in my ears, that I could scarcely stammer I had no objection."*

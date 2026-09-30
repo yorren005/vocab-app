@@ -5,13 +5,6 @@ status: unread
 ---
 # phyllo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue thin sheets of pastry used especially in greek dishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue thin sheets of pastry used especially in greek dishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllo designates tissue thin sheets of pastry used especially in greek dishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue thin sheets of pastry used especially in greek dishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue thin sheets of pastry used especially in greek dishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllo designates tissue thin sheets of pastry used especially in greek dishes."*

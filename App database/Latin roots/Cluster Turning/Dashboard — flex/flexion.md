@@ -5,15 +5,6 @@ status: unread
 ---
 # flexion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from a straight or normal course.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such is the subtle elasticity of the organ I treat of, that whether wielded in sport, or in earnest, or in anger, whatever be the mood it be in, its flexions are invariably marked by exceeding grace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from a straight or normal course.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such is the subtle elasticity of the organ I treat of, that whether wielded in sport, or in earnest, or in anger, whatever be the mood it be in, its flexions are invariably marked by exceeding grace."*

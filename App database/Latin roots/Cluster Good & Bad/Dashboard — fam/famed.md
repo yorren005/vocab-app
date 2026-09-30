@@ -5,15 +5,6 @@ status: unread
 ---
 # famed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and esteemed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As surely as my soul intends to live With that dread King that took our state upon Him To free us from His Father’s wrathful curse, I do believe that violent hands were laid Upon the life of this thrice-famed duke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are famed to be a pair of absolute men."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Church had he In far-famed Berwick town."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and esteemed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As surely as my soul intends to live With that dread King that took our state upon Him To free us from His Father’s wrathful curse, I do believe that violent hands were laid Upon the life of this thrice-famed duke."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are famed to be a pair of absolute men."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Church had he In far-famed Berwick town."*

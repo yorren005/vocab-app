@@ -5,15 +5,6 @@ status: unread
 ---
 # sagely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wise manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wise manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’ye think there’s any money hanging by it?” “Ah, that’s the secret,” said Joan Durbeyfield sagely."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His notable little wife, too, had enough to do to attend to her housekeeping and manage her poultry for, as she sagely observed, ducks and geese are foolish things and must be looked after, but girls can take care of themselves."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is so solemnly real and so sagely fine.”--N."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wise manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wise manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’ye think there’s any money hanging by it?” “Ah, that’s the secret,” said Joan Durbeyfield sagely."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His notable little wife, too, had enough to do to attend to her housekeeping and manage her poultry for, as she sagely observed, ducks and geese are foolish things and must be looked after, but girls can take care of themselves."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is so solemnly real and so sagely fine.”--N."*

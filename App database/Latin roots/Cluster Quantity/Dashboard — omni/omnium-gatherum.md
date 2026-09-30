@@ -5,13 +5,6 @@ status: unread
 ---
 # omnium-gatherum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motley assortment of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motley assortment of things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnium-gatherum designates a motley assortment of things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motley assortment of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motley assortment of things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnium-gatherum designates a motley assortment of things."*

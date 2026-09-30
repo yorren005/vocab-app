@@ -5,15 +5,6 @@ status: unread
 ---
 # parchment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A superior paper resembling sheepskin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skin of a sheep or goat prepared for writing on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you beat me at the mart I have your hand to show; If the skin were parchment, and the blows you gave were ink, Your own handwriting would tell you what I think."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not parchment made of sheep-skins?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a lamentable thing, that of the skin of an innocent lamb should be made parchment; that parchment, being scribbled o’er, should undo a man?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superior paper resembling sheepskin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skin of a sheep or goat prepared for writing on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you beat me at the mart I have your hand to show; If the skin were parchment, and the blows you gave were ink, Your own handwriting would tell you what I think."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not parchment made of sheep-skins?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a lamentable thing, that of the skin of an innocent lamb should be made parchment; that parchment, being scribbled o’er, should undo a man?"*

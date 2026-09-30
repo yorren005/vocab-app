@@ -5,15 +5,6 @@ status: unread
 ---
 # credits
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of acknowledgements of those who contributed to the creation of a film (usually run at the end of the film).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good credits would materially reduce this time."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have seen a man confess, after half an hour in the jacket, truths and fictions that cost him years of credits."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For that offence Philadelphia Red lost his credits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of acknowledgements of those who contributed to the creation of a film (usually run at the end of the film).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good credits would materially reduce this time."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have seen a man confess, after half an hour in the jacket, truths and fictions that cost him years of credits."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For that offence Philadelphia Red lost his credits."*

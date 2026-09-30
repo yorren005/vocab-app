@@ -5,15 +5,6 @@ status: unread
 ---
 # postscript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A note appended to a letter after the signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Textual matter that is added onto a publication; usually at the end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. ’Tis Hamlet’s character. ‘Naked!’ And in a postscript here he says ‘alone.’ Can you advise me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Jove and my stars be praised!—Here is yet a postscript. [_Reads._] _Thou canst not choose but know who I am."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our stopping to change horses as I came to his postscript drove it out of my memory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A note appended to a letter after the signature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Textual matter that is added onto a publication; usually at the end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. ’Tis Hamlet’s character. ‘Naked!’ And in a postscript here he says ‘alone.’ Can you advise me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Jove and my stars be praised!—Here is yet a postscript. [_Reads._] _Thou canst not choose but know who I am."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our stopping to change horses as I came to his postscript drove it out of my memory."*

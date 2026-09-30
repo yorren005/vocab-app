@@ -5,13 +5,6 @@ status: unread
 ---
 # reflectorise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with reflectors, such as chemicals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with reflectors, such as chemicals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectorise designates provide with reflectors, such as chemicals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with reflectors, such as chemicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with reflectors, such as chemicals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectorise designates provide with reflectors, such as chemicals."*

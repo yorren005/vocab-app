@@ -5,13 +5,6 @@ status: unread
 ---
 # ablactate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually deprive (infants and young mammals) of mother's milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually deprive (infants and young mammals) of mother's milk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablactate designates gradually deprive (infants and young mammals) of mother's milk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually deprive (infants and young mammals) of mother's milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually deprive (infants and young mammals) of mother's milk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablactate designates gradually deprive (infants and young mammals) of mother's milk."*

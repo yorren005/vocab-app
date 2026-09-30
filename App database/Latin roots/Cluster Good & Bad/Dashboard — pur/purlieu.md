@@ -5,15 +5,6 @@ status: unread
 ---
 # purlieu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer adjacent area of any place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outer adjacent area of any place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Puck Mulligan footed featly, trilling: I hardly hear the purlieu cry Or a Tommy talk as I pass one by Before my thoughts begin to run On F."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, if you know, Where in the purlieus of this forest stands A sheepcote fenced about with olive trees?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she had no proof of this, and her instinct in the circumstances was to avoid its purlieus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer adjacent area of any place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outer adjacent area of any place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Puck Mulligan footed featly, trilling: I hardly hear the purlieu cry Or a Tommy talk as I pass one by Before my thoughts begin to run On F."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, if you know, Where in the purlieus of this forest stands A sheepcote fenced about with olive trees?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she had no proof of this, and her instinct in the circumstances was to avoid its purlieus."*

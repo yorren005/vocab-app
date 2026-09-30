@@ -5,15 +5,6 @@ status: unread
 ---
 # detractor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who disparages or belittles the worth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who disparages or belittles the worth of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The warmest partisans of the enterprise now became its most ardent detractors."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Yet perhaps none of his detractors guessed the limits of his power as surely as he came to feel them himself."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Away the fair detractors went, And gave, by turns, their censures vent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who disparages or belittles the worth of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who disparages or belittles the worth of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The warmest partisans of the enterprise now became its most ardent detractors."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Yet perhaps none of his detractors guessed the limits of his power as surely as he came to feel them himself."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Away the fair detractors went, And gave, by turns, their censures vent."*

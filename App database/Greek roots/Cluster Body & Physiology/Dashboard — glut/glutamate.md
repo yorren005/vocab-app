@@ -5,13 +5,6 @@ status: unread
 ---
 # glutamate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of glutamic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of glutamic acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutamate designates a salt or ester of glutamic acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of glutamic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of glutamic acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutamate designates a salt or ester of glutamic acid."*

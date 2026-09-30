@@ -5,15 +5,6 @@ status: unread
 ---
 # partaker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has or gives or receives a part or a share.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has or gives or receives a part or a share.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you shall know meantime Of stirs abroad, I shall beseech you, sir, To let me be partaker."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your partaker Pole and you yourself, I’ll note you in my book of memory, To scourge you for this apprehension."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wish me partaker in thy happiness When thou dost meet good hap; and in thy danger, If ever danger do environ thee, Commend thy grievance to my holy prayers, For I will be thy headsman, Valentine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has or gives or receives a part or a share.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has or gives or receives a part or a share.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you shall know meantime Of stirs abroad, I shall beseech you, sir, To let me be partaker."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your partaker Pole and you yourself, I’ll note you in my book of memory, To scourge you for this apprehension."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wish me partaker in thy happiness When thou dost meet good hap; and in thy danger, If ever danger do environ thee, Commend thy grievance to my holy prayers, For I will be thy headsman, Valentine."*

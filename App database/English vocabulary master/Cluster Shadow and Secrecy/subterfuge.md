@@ -5,20 +5,6 @@ status: unread
 ---
 # subterfuge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Deceptive device or stratagem
-> 2. **Nuance / Usage**: Deception by artifice or stratagem in order to conceal, escape, or evade
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"We all began to think Mr. Wopsle full of subterfuge."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Driven to subterfuge, she stammered—'Your father is a parson, and your mother wouldn’t like you to marry such as me.'"*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph could not rid himself of a suspicion that this was a subterfuge of the enemy, who was waiting to take him off his guard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Deceptive device or stratagem
+> 2. **Nuance / Usage**: Deception by artifice or stratagem in order to conceal, escape, or evade
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We all began to think Mr. Wopsle full of subterfuge."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Driven to subterfuge, she stammered—'Your father is a parson, and your mother wouldn’t like you to marry such as me.'"*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph could not rid himself of a suspicion that this was a subterfuge of the enemy, who was waiting to take him off his guard."*

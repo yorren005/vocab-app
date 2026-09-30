@@ -5,15 +5,6 @@ status: unread
 ---
 # convenient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suited to your comfort or purpose or needs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and roomy (`convenient' is archaic in this sense).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch the most convenient messenger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I duly am inform’d His grace is at Marseilles; to which place We have convenient convoy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, valiant Titus, take Convenient numbers to make good the city, Whilst I, with those that have the spirit, will haste To help Cominius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suited to your comfort or purpose or needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and roomy (`convenient' is archaic in this sense).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch the most convenient messenger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I duly am inform’d His grace is at Marseilles; to which place We have convenient convoy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, valiant Titus, take Convenient numbers to make good the city, Whilst I, with those that have the spirit, will haste To help Cominius."*

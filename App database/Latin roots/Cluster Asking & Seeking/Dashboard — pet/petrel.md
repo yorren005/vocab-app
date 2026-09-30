@@ -5,15 +5,6 @@ status: unread
 ---
 # petrel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small long-winged tube-nosed bird that flies far from land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small long-winged tube-nosed bird that flies far from land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was as a protection to the hut in the periods of the great gales when all the island was as a tiny petrel in the maw of the hurricane."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The objects of his boyish idealization had been Cumbrian shepherds--a race whose personality seems to melt into Nature's--who are united as intimately with moor and mountain as the petrel with the sea."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And over this desolate face of nature a stern silence reigned, scarcely broken by the flapping of the wings of petrels and puffins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small long-winged tube-nosed bird that flies far from land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small long-winged tube-nosed bird that flies far from land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was as a protection to the hut in the periods of the great gales when all the island was as a tiny petrel in the maw of the hurricane."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The objects of his boyish idealization had been Cumbrian shepherds--a race whose personality seems to melt into Nature's--who are united as intimately with moor and mountain as the petrel with the sea."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And over this desolate face of nature a stern silence reigned, scarcely broken by the flapping of the wings of petrels and puffins."*

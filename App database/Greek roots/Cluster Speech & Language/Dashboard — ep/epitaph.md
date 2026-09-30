@@ -5,15 +5,6 @@ status: unread
 ---
 # epitaph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription on or at a tomb or a grave in memory of the one buried there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief statement commemorating or epitomizing a deceased person or something past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if he thrive and I be cast away, The worst was this: my love was my decay. 81 Or I shall live your epitaph to make, Or you survive when I in earth am rotten, From hence your memory death cannot take, Although in me each part will be forgotten."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His good remembrance, sir, Lies richer in your thoughts than on his tomb; So in approof lives not his epitaph As in your royal speech."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After your death you were better have a bad epitaph than their ill report while you live."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription on or at a tomb or a grave in memory of the one buried there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief statement commemorating or epitomizing a deceased person or something past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if he thrive and I be cast away, The worst was this: my love was my decay. 81 Or I shall live your epitaph to make, Or you survive when I in earth am rotten, From hence your memory death cannot take, Although in me each part will be forgotten."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His good remembrance, sir, Lies richer in your thoughts than on his tomb; So in approof lives not his epitaph As in your royal speech."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After your death you were better have a bad epitaph than their ill report while you live."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # coding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of writing in code or cipher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a code to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Studying the arrangement of the structures around them and the coding on cable bundles, Brad peered along the catwalk, first in one direction, then the opposite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of writing in code or cipher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a code to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Studying the arrangement of the structures around them and the coding on cable bundles, Brad peered along the catwalk, first in one direction, then the opposite."*

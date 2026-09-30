@@ -5,15 +5,6 @@ status: unread
 ---
 # significant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Important in effect or meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fairly large.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby gave my arm a squeeze and me a very significant look."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The horse bore him away, and the very step of the animal seemed significant of dogged despair."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The charge of the judge was stern and significant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Important in effect or meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fairly large.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby gave my arm a squeeze and me a very significant look."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The horse bore him away, and the very step of the animal seemed significant of dogged despair."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The charge of the judge was stern and significant."*

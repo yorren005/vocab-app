@@ -5,13 +5,6 @@ status: unread
 ---
 # unconformist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to some norm or socially approved pattern of behavior or thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conforming to some norm or socially approved pattern of behavior or thought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconformist designates not conforming to some norm or socially approved pattern of behavior or thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to some norm or socially approved pattern of behavior or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conforming to some norm or socially approved pattern of behavior or thought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconformist designates not conforming to some norm or socially approved pattern of behavior or thought."*

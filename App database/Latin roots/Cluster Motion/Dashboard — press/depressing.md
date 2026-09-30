@@ -5,15 +5,6 @@ status: unread
 ---
 # depressing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Not to be able to have a glimpse of their mother for two or three days was depressing news indeed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore tried very hard to fight these depressing thoughts, but they went so deep that she seldom succeeded."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli actually begged to go to bed before the evening song had been sung, because the depressing atmosphere in the house was so little to her taste that she even preferred to go to bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Not to be able to have a glimpse of their mother for two or three days was depressing news indeed."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore tried very hard to fight these depressing thoughts, but they went so deep that she seldom succeeded."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli actually begged to go to bed before the evening song had been sung, because the depressing atmosphere in the house was so little to her taste that she even preferred to go to bed."*

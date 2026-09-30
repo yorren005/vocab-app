@@ -5,13 +5,6 @@ status: unread
 ---
 # bromegrass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various woodland and meadow grasses of the genus bromus; native to temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various woodland and meadow grasses of the genus bromus; native to temperate regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromegrass designates any of various woodland and meadow grasses of the genus bromus; native to temperate regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various woodland and meadow grasses of the genus bromus; native to temperate regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various woodland and meadow grasses of the genus bromus; native to temperate regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromegrass designates any of various woodland and meadow grasses of the genus bromus; native to temperate regions."*

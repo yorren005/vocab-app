@@ -5,13 +5,6 @@ status: unread
 ---
 # gametophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametophyte designates the haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametophyte designates the haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote."*

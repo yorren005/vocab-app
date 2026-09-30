@@ -5,15 +5,6 @@ status: unread
 ---
 # ramification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of branching out or dividing into branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a forked or branching shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was in town, but not at home, having gone to Mile End directly after breakfast on some Borrioboolan business, arising out of a society called the East London Branch Aid Ramification."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then you must bring him some evening which is not a Parent Society night, or a Branch night, or a Ramification night."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have a Ramification meeting, too, on Wednesday afternoon, and the inconvenience is very serious.” “It is not likely to occur again,” said I, smiling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of branching out or dividing into branches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a forked or branching shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was in town, but not at home, having gone to Mile End directly after breakfast on some Borrioboolan business, arising out of a society called the East London Branch Aid Ramification."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then you must bring him some evening which is not a Parent Society night, or a Branch night, or a Ramification night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have a Ramification meeting, too, on Wednesday afternoon, and the inconvenience is very serious.” “It is not likely to occur again,” said I, smiling."*

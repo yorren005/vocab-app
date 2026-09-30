@@ -5,13 +5,6 @@ status: unread
 ---
 # pachisi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient board game resembling backgammon; played on a cross-shaped board.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient board game resembling backgammon; played on a cross-shaped board.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachisi designates an ancient board game resembling backgammon; played on a cross-shaped board."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient board game resembling backgammon; played on a cross-shaped board.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient board game resembling backgammon; played on a cross-shaped board.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachisi designates an ancient board game resembling backgammon; played on a cross-shaped board."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # centaurium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centaurium designates genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centaurium designates genus of low-growing herbs mostly of northern hemisphere having flowers with protruding spirally twisted anthers."*

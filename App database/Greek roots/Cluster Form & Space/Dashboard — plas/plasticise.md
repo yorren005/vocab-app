@@ -5,13 +5,6 @@ status: unread
 ---
 # plasticise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become plastic, as by having a plasticizer added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plastic, as by the addition of a plasticizer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticise designates become plastic, as by having a plasticizer added."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become plastic, as by having a plasticizer added.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plastic, as by the addition of a plasticizer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticise designates become plastic, as by having a plasticizer added."*

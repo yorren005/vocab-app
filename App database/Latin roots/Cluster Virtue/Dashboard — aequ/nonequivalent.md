@@ -5,13 +5,6 @@ status: unread
 ---
 # nonequivalent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equal or interchangeable in value, quantity, or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not equal or interchangeable in value, quantity, or significance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonequivalent designates not equal or interchangeable in value, quantity, or significance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equal or interchangeable in value, quantity, or significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not equal or interchangeable in value, quantity, or significance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonequivalent designates not equal or interchangeable in value, quantity, or significance."*

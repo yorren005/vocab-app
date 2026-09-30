@@ -5,13 +5,6 @@ status: unread
 ---
 # polemonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemonium designates any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemonium designates any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions."*

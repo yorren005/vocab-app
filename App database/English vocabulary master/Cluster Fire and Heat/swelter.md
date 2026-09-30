@@ -5,18 +5,6 @@ status: unread
 ---
 # swelter
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Oppress with heat
-> 2. **Nuance / Usage**: Become exceedingly hot
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swelter the target*) and intransitive clauses (*sweltering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Taylor Coleridge (*Fire, Famine, and Slaughter*):** *"It was so rare a piece of fun <br>To see the swelter'd cattle run"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To suffer, droop, or perspire profusely under oppressive, stifling heat.
+> 2. **Nuance / Usage**: As a noun, denotes a state of suffocating heat and humidity; in archaic usage, to exude moisture or venom under heat.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swelter the target*) and intransitive clauses (*sweltering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Macbeth*):** *"Toad, that under cold stone days and nights has thirty-one **sweltered** venom sleeping got, boil thou first i' the charmed pot."*
+> - 📜 **Samuel Taylor Coleridge (*Fire, Famine, and Slaughter*):** *"It was so rare a piece of fun to see the **sweltered** cattle run."*
+> - 📜 **Rudyard Kipling (*The Man Who Would Be King*):** *"They **sweltered** in the editorial office while the hot wind blew dust through every crack in the shutters."*

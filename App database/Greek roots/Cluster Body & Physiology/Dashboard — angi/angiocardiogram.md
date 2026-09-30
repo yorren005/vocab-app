@@ -5,13 +5,6 @@ status: unread
 ---
 # angiocardiogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocardiogram designates a series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocardiogram designates a series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance."*

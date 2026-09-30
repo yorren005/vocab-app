@@ -5,13 +5,6 @@ status: unread
 ---
 # paregmenon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Juxtaposing words having a common derivation (as in `sense and sensibility').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Juxtaposing words having a common derivation (as in `sense and sensibility').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paregmenon designates juxtaposing words having a common derivation (as in `sense and sensibility')."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Juxtaposing words having a common derivation (as in `sense and sensibility').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Juxtaposing words having a common derivation (as in `sense and sensibility').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paregmenon designates juxtaposing words having a common derivation (as in `sense and sensibility')."*

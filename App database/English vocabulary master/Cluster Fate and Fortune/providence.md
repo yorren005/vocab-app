@@ -5,20 +5,6 @@ status: unread
 ---
 # providence
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Divine guidance or care
-> 2. **Nuance / Usage**: The quality or state of being provident
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But by immortal Providence she’s mine."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Trust in nothing but in Providence and your own efforts."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"where was the providence of her simple faith?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Divine guidance or care
+> 2. **Nuance / Usage**: The quality or state of being provident
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But by immortal Providence she’s mine."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Trust in nothing but in Providence and your own efforts."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"where was the providence of her simple faith?"*

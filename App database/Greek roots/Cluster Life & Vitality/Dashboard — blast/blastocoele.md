@@ -5,13 +5,6 @@ status: unread
 ---
 # blastocoele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity of a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-filled cavity of a blastula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoele designates the fluid-filled cavity of a blastula."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity of a blastula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-filled cavity of a blastula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoele designates the fluid-filled cavity of a blastula."*

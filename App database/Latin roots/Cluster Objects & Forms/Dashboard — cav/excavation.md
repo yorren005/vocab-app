@@ -5,15 +5,6 @@ status: unread
 ---
 # excavation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of digging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site of an archeological exploration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Coming up again to the marsh level out of this excavation,—for the rude path lay through it,—I saw a light in the old sluice-house."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seizing his sharp boat-spade, he commenced an excavation in the body, a little behind the side fin."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The volcanic nature of this enormous excavation was confirmed on all sides, and I pointed it out to my companions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of digging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site of an archeological exploration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Coming up again to the marsh level out of this excavation,—for the rude path lay through it,—I saw a light in the old sluice-house."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seizing his sharp boat-spade, he commenced an excavation in the body, a little behind the side fin."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The volcanic nature of this enormous excavation was confirmed on all sides, and I pointed it out to my companions."*

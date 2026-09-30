@@ -5,20 +5,6 @@ status: unread
 ---
 # mend
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Set right : correct
-> 2. **Nuance / Usage**: Free from faults or defects: such as
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to mend the target*) and intransitive clauses (*mending against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"God be wi’ you, and God mend your voices."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"nether-stocks, and mend them and foot them too."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Where fair is not, praise cannot mend the brow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Set right : correct
+> 2. **Nuance / Usage**: Free from faults or defects: such as
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to mend the target*) and intransitive clauses (*mending against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"God be wi’ you, and God mend your voices."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"nether-stocks, and mend them and foot them too."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Where fair is not, praise cannot mend the brow."*

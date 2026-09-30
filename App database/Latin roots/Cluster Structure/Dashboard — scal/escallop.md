@@ -5,13 +5,6 @@ status: unread
 ---
 # escallop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin slice of meat (especially veal) usually fried or broiled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, escallop designates edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin slice of meat (especially veal) usually fried or broiled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, escallop designates edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces."*

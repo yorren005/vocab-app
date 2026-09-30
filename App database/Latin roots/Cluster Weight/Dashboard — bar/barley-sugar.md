@@ -5,13 +5,6 @@ status: unread
 ---
 # barley-sugar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle transparent candy made by melting and cooling cane sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brittle transparent candy made by melting and cooling cane sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barley-sugar designates a brittle transparent candy made by melting and cooling cane sugar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle transparent candy made by melting and cooling cane sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brittle transparent candy made by melting and cooling cane sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barley-sugar designates a brittle transparent candy made by melting and cooling cane sugar."*

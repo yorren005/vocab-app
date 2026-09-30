@@ -5,13 +5,6 @@ status: unread
 ---
 # fortaz
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortaz designates a parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortaz designates a parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections."*

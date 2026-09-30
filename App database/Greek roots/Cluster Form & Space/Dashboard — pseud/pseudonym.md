@@ -5,14 +5,6 @@ status: unread
 ---
 # pseudonym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictitious name; especially : pen name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using a false name instead of one's real name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Contemporary Rev., Sept., pp. 284-296, on ‘Balaustion’s Adventure’, by Matthew Browne (pseudonym). 1871."*
-> - 📜 **James Joyce (*Ulysses*):** *"We are not speaking so much of those delightful lovesongs with which the writer who conceals his identity under the graceful pseudonym of the Little Sweet Branch has familiarised the bookloving world but rather (as a contributor D."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictitious name; especially : pen name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using a false name instead of one's real name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Contemporary Rev., Sept., pp. 284-296, on ‘Balaustion’s Adventure’, by Matthew Browne (pseudonym). 1871."*
+> - 📜 **James Joyce (*Ulysses*):** *"We are not speaking so much of those delightful lovesongs with which the writer who conceals his identity under the graceful pseudonym of the Little Sweet Branch has familiarised the bookloving world but rather (as a contributor D."*

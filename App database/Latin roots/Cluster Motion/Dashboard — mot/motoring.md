@@ -5,14 +5,6 @@ status: unread
 ---
 # motoring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of driving an automobile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel or be transported in a vehicle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He made a detour of certain side streets which brought him up before a small side establishment bearing a sign which set forth an alluring invitation to motoring parties in need of food."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"As it is, well, I don't know the colour of the bride's motoring clothes, but I presume they'll be adapted to the circumstances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of driving an automobile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel or be transported in a vehicle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He made a detour of certain side streets which brought him up before a small side establishment bearing a sign which set forth an alluring invitation to motoring parties in need of food."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"As it is, well, I don't know the colour of the bride's motoring clothes, but I presume they'll be adapted to the circumstances."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # monosyllable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or utterance of one syllable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or utterance of one syllable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s favourite adjective of disparagement is so close to his tongue that he begins the words “my dear friend” with the monosyllable “brim,” thus converting the possessive pronoun into brimmy and appearing to have an impediment in his speech."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She found it difficult to obtain even a word from her beyond a monosyllable."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"To overcome the difficulty of getting past that monosyllable, I took it from her, and said, repeating it with emphasis, “Well!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or utterance of one syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or utterance of one syllable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s favourite adjective of disparagement is so close to his tongue that he begins the words “my dear friend” with the monosyllable “brim,” thus converting the possessive pronoun into brimmy and appearing to have an impediment in his speech."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She found it difficult to obtain even a word from her beyond a monosyllable."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"To overcome the difficulty of getting past that monosyllable, I took it from her, and said, repeating it with emphasis, “Well!"*

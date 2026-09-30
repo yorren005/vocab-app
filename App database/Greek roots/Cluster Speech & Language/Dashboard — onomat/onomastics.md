@@ -5,13 +5,6 @@ status: unread
 ---
 # onomastics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or study of the origins and forms of words especially as used in a specialized field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science or study of the origin and forms of proper names of persons or places.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomastics designates the science or study of the origins and forms of words especially as used in a specialized field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or study of the origins and forms of words especially as used in a specialized field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science or study of the origin and forms of proper names of persons or places.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomastics designates the science or study of the origins and forms of words especially as used in a specialized field."*

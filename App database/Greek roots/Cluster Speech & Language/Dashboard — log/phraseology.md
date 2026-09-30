@@ -5,15 +5,6 @@ status: unread
 ---
 # phraseology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner of organizing words and phrases into longer elements : style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choice of words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He himself knew that, in reality, the confused beliefs which she held, apparently imbibed in childhood, were, if anything, Tractarian as to phraseology, and Pantheistic as to essence."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To be hanged by the neck until dead” is society’s quaint phraseology . . ."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though at the time I but ill comprehended not a few of his words, yet subsequent disclosures, when I had become more familiar with his broken phraseology, now enable me to present the whole story such as it may prove in the mere skeleton I give."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner of organizing words and phrases into longer elements : style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choice of words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He himself knew that, in reality, the confused beliefs which she held, apparently imbibed in childhood, were, if anything, Tractarian as to phraseology, and Pantheistic as to essence."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To be hanged by the neck until dead” is society’s quaint phraseology . . ."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though at the time I but ill comprehended not a few of his words, yet subsequent disclosures, when I had become more familiar with his broken phraseology, now enable me to present the whole story such as it may prove in the mere skeleton I give."*

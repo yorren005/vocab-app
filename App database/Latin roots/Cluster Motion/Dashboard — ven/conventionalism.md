@@ -5,14 +5,6 @@ status: unread
 ---
 # conventionalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodoxy as a consequence of being conventional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodoxy as a consequence of being conventional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Such crystallization, such conventionalisms, yield only to the dissolving power of the spiritual warmth of life-full personalities."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Yet, free as she was by nature, bound by no conventionalisms, she was the most courageous of women; more than queenly; of high aspect in the best sense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodoxy as a consequence of being conventional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodoxy as a consequence of being conventional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Such crystallization, such conventionalisms, yield only to the dissolving power of the spiritual warmth of life-full personalities."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Yet, free as she was by nature, bound by no conventionalisms, she was the most courageous of women; more than queenly; of high aspect in the best sense."*

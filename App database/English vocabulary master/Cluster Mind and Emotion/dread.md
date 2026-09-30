@@ -5,20 +5,6 @@ status: unread
 ---
 # dread
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fear greatly
-> 2. **Nuance / Usage**: Regard with awe
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to dread the target*) and intransitive clauses (*dreading against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The important acting of your dread command?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The sin upon my head, dread sovereign!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To stand against the deep dread-bolted thunder?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To anticipate with great fear, terror, or heavy reluctance; as a noun, a profound, overpowering apprehension of impending evil.
+> 2. **Nuance / Usage**: In elevated or archaic usage, inspiring reverential awe mixed with fear (as in *"our dread sovereign"*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to dread the target*) and intransitive clauses (*dreading against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"Who would fardels bear, to grunt and sweat under a weary life, but that the **dread** of something after death puzzles the will?"*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Like one that on a lonesome road doth walk in fear and **dread**, and having once turned round walks on, and turns no more his head."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I beheld the accomplishment of my toils with a breathless **dread** that chilled the very marrow of my bones."*

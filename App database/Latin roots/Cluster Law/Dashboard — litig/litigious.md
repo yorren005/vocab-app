@@ -5,15 +5,6 @@ status: unread
 ---
 # litigious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most honour’d Cleon, I must needs be gone; My twelve months are expired, and Tyrus stands In a litigious peace."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"It certainly was not gratifying to be likened to that "perverse, bustling, masculine, pettifogging, and litigious" lady, albeit Macaulay speaks of her as Wycherley's happiest creation."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"But if he be froward and unfortunate, he describes men to be litigious, violent, deceitful, passionate, &c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to litigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most honour’d Cleon, I must needs be gone; My twelve months are expired, and Tyrus stands In a litigious peace."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"It certainly was not gratifying to be likened to that "perverse, bustling, masculine, pettifogging, and litigious" lady, albeit Macaulay speaks of her as Wycherley's happiest creation."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"But if he be froward and unfortunate, he describes men to be litigious, violent, deceitful, passionate, &c."*

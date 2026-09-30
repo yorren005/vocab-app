@@ -5,15 +5,6 @@ status: unread
 ---
 # distribute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute or disperse widely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As much as one sound cudgel of four foot— You see the poor remainder—could distribute, I made no spare, sir."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So the little boy you saw just now waltzes by himself in the empty kitchen, and we distribute the others over the house as well as we can.” “That is only for their steps, of course?” said I."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The yearly amount saved in this way is about _twenty-five dollars_; and I distribute this among the various benevolent societies, according to the best of my judgment." THE HISTORY AND BUSINESS SUCCESSES OF LIBERAL GIVERS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute or disperse widely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As much as one sound cudgel of four foot— You see the poor remainder—could distribute, I made no spare, sir."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"So the little boy you saw just now waltzes by himself in the empty kitchen, and we distribute the others over the house as well as we can.” “That is only for their steps, of course?” said I."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The yearly amount saved in this way is about _twenty-five dollars_; and I distribute this among the various benevolent societies, according to the best of my judgment." THE HISTORY AND BUSINESS SUCCESSES OF LIBERAL GIVERS."*

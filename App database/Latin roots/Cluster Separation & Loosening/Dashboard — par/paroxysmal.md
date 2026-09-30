@@ -5,13 +5,6 @@ status: unread
 ---
 # paroxysmal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by or of the nature of paroxysms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accompanied by or of the nature of paroxysms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxysmal designates accompanied by or of the nature of paroxysms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by or of the nature of paroxysms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accompanied by or of the nature of paroxysms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxysmal designates accompanied by or of the nature of paroxysms."*

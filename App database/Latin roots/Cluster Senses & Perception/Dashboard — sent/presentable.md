@@ -5,15 +5,6 @@ status: unread
 ---
 # presentable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be seen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit to be seen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I wiped my eyes, and put myself into presentable shape as soon as I could, and opened the door."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My very shoes and stockings were purified and rendered presentable."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Mamie says Ned remarked on the fact that the baby was hardly presentable when you girls stopped in with him to see it the other day, Nell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be seen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit to be seen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I wiped my eyes, and put myself into presentable shape as soon as I could, and opened the door."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My very shoes and stockings were purified and rendered presentable."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Mamie says Ned remarked on the fact that the baby was hardly presentable when you girls stopped in with him to see it the other day, Nell."*

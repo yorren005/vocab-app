@@ -5,15 +5,6 @@ status: unread
 ---
 # remonstrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue in protest or opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present and urge reasons in opposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So that it is even more mischievous,” said my guardian once to me, “to remonstrate with the poor dear fellow than to leave him alone.” I took one of these opportunities of mentioning my doubts of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nay, my dears,” he would remonstrate; and when I saw Caddy’s thin arm about his fat neck as he said it, I would be melted too, though not by the same process."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"These words fell like the knell of doom— “All those top-knots must be cut off.” Miss Temple seemed to remonstrate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue in protest or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present and urge reasons in opposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So that it is even more mischievous,” said my guardian once to me, “to remonstrate with the poor dear fellow than to leave him alone.” I took one of these opportunities of mentioning my doubts of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nay, my dears,” he would remonstrate; and when I saw Caddy’s thin arm about his fat neck as he said it, I would be melted too, though not by the same process."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"These words fell like the knell of doom— “All those top-knots must be cut off.” Miss Temple seemed to remonstrate."*

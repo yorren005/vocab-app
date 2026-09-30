@@ -5,20 +5,6 @@ status: unread
 ---
 # screen
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Growth or stand of trees, shrubs, or plants
-> 2. **Nuance / Usage**: Something that shelters, protects, or hides: such as
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"ceased to toss the screen and holds it as if she were listening."*
-> - 📜 **George Eliot (*Middlemarch*):** *"auctioneer, putting his hand up to screen that secret."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As soon as he had left, he rushed to the screen and drew it back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Growth or stand of trees, shrubs, or plants
+> 2. **Nuance / Usage**: Something that shelters, protects, or hides: such as
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"ceased to toss the screen and holds it as if she were listening."*
+> - 📜 **George Eliot (*Middlemarch*):** *"auctioneer, putting his hand up to screen that secret."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As soon as he had left, he rushed to the screen and drew it back."*

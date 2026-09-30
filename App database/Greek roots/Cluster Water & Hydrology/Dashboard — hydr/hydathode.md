@@ -5,13 +5,6 @@ status: unread
 ---
 # hydathode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized pore on the leaves of higher plants that functions in the exudation of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized pore on the leaves of higher plants that functions in the exudation of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydathode designates a specialized pore on the leaves of higher plants that functions in the exudation of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized pore on the leaves of higher plants that functions in the exudation of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized pore on the leaves of higher plants that functions in the exudation of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydathode designates a specialized pore on the leaves of higher plants that functions in the exudation of water."*

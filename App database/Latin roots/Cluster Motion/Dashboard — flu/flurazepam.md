@@ -5,13 +5,6 @@ status: unread
 ---
 # flurazepam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer (trade name dalmane) used to treat insomnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer (trade name dalmane) used to treat insomnia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flurazepam designates tranquilizer (trade name dalmane) used to treat insomnia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer (trade name dalmane) used to treat insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer (trade name dalmane) used to treat insomnia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flurazepam designates tranquilizer (trade name dalmane) used to treat insomnia."*

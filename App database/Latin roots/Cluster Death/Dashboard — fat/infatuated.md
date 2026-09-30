@@ -5,15 +5,6 @@ status: unread
 ---
 # infatuated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by foolish or unreasoning fondness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, Jane,” he returned: “what necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?” I shuddered to hear the infatuated assertion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing, however, that his forbearance had not the slightest effect, by an awful and unspeakable intimation with his twisted hand he warned off the foolish and infatuated man; but it was to no purpose."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A turbulent faction in a State may easily suppose itself able to contend with the friends to the government in that State; but it can hardly be so infatuated as to imagine itself a match for the combined efforts of the Union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by foolish or unreasoning fondness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, Jane,” he returned: “what necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?” I shuddered to hear the infatuated assertion."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing, however, that his forbearance had not the slightest effect, by an awful and unspeakable intimation with his twisted hand he warned off the foolish and infatuated man; but it was to no purpose."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A turbulent faction in a State may easily suppose itself able to contend with the friends to the government in that State; but it can hardly be so infatuated as to imagine itself a match for the combined efforts of the Union."*

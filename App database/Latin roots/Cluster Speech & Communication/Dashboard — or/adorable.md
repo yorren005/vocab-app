@@ -5,15 +5,6 @@ status: unread
 ---
 # adorable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lovable especially in a childlike or naive way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lovable especially in a childlike or naive way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"To Dorothea this was adorable genuineness, and religious abstinence from that artificiality which uses up the soul in the efforts of pretence."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate by this time had had many interviews with her, and found her more and more adorable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"This constancy of purpose in the right place was adorable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lovable especially in a childlike or naive way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lovable especially in a childlike or naive way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"To Dorothea this was adorable genuineness, and religious abstinence from that artificiality which uses up the soul in the efforts of pretence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate by this time had had many interviews with her, and found her more and more adorable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"This constancy of purpose in the right place was adorable."*

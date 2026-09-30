@@ -5,15 +5,6 @@ status: unread
 ---
 # sentient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endowed with feeling and unstructured consciousness; - t.e.lawrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consciously perceiving; ; - w.a.white.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Human shapes, interferences, troubles, and joys were all as if they were not, and there seemed to be on the shaded hemisphere of the globe no sentient being save himself; he could fancy them all gone round to the sunny side."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sun, on account of the mist, had a curious sentient, personal look, demanding the masculine pronoun for its adequate expression."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are natures to whom this is of little account, but the sensitive and sentient type, as we often observe, dreads pain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endowed with feeling and unstructured consciousness; - t.e.lawrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consciously perceiving; ; - w.a.white.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Human shapes, interferences, troubles, and joys were all as if they were not, and there seemed to be on the shaded hemisphere of the globe no sentient being save himself; he could fancy them all gone round to the sunny side."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sun, on account of the mist, had a curious sentient, personal look, demanding the masculine pronoun for its adequate expression."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are natures to whom this is of little account, but the sensitive and sentient type, as we often observe, dreads pain."*

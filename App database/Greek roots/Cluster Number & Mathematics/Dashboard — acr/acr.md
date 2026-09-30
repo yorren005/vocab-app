@@ -5,15 +5,6 @@ status: unread
 ---
 # acr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beginning : end : tip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Top : peak : summit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Between the acres of the rye, With a hey, and a ho, and a hey nonino, These pretty country folks would lie, In the spring-time, the only pretty ring time, When birds do sing, hey ding a ding, ding."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if thou prate of mountains, let them throw Millions of acres on us, till our ground, Singeing his pate against the burning zone, Make Ossa like a wart."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The estate at Winthrop is not less than two hundred and fifty acres, besides the farm near Taunton, which is some of the best land in the country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beginning : end : tip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Top : peak : summit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Between the acres of the rye, With a hey, and a ho, and a hey nonino, These pretty country folks would lie, In the spring-time, the only pretty ring time, When birds do sing, hey ding a ding, ding."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if thou prate of mountains, let them throw Millions of acres on us, till our ground, Singeing his pate against the burning zone, Make Ossa like a wart."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The estate at Winthrop is not less than two hundred and fifty acres, besides the farm near Taunton, which is some of the best land in the country."*

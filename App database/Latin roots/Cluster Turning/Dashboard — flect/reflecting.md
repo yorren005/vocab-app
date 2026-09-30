@@ -5,15 +5,6 @@ status: unread
 ---
 # reflecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifest or bring back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some lay in dead men’s skulls, and in the holes Where eyes did once inhabit there were crept— As ’twere in scorn of eyes—reflecting gems, That wooed the slimy bottom of the deep, And mocked the dead bones that lay scattered by."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon the wall, their shadows blended together, surrounded by strange forms, not without a ghostly motion caught from the unsteady fire, though reflecting from motionless objects."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Daily Volumnia has a little cousinly talk with Sir Leicester on the state of the nation, from which Sir Leicester is disposed to conclude that Volumnia is a more reflecting woman than he had thought her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifest or bring back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some lay in dead men’s skulls, and in the holes Where eyes did once inhabit there were crept— As ’twere in scorn of eyes—reflecting gems, That wooed the slimy bottom of the deep, And mocked the dead bones that lay scattered by."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Upon the wall, their shadows blended together, surrounded by strange forms, not without a ghostly motion caught from the unsteady fire, though reflecting from motionless objects."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Daily Volumnia has a little cousinly talk with Sir Leicester on the state of the nation, from which Sir Leicester is disposed to conclude that Volumnia is a more reflecting woman than he had thought her."*

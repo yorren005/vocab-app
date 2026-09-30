@@ -5,15 +5,6 @@ status: unread
 ---
 # mutton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a mature domestic sheep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a mature domestic sheep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And is not the grease of a mutton as wholesome as the sweat of a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s a joint of mutton or two in a whole Lent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some pigeons, Davy, a couple of short-legged hens, a joint of mutton, and any pretty little tiny kickshaws, tell William cook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a mature domestic sheep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a mature domestic sheep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And is not the grease of a mutton as wholesome as the sweat of a man?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s a joint of mutton or two in a whole Lent?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some pigeons, Davy, a couple of short-legged hens, a joint of mutton, and any pretty little tiny kickshaws, tell William cook."*

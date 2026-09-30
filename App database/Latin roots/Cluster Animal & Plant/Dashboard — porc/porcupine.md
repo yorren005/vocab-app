@@ -5,15 +5,6 @@ status: unread
 ---
 # porcupine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She may eat no fresh meat or fish except the flesh of the porcupine."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In her socks she wears, next to the skin, the horny soles cut from the feet of a porcupine, in order that for the rest of her life her shoes may never wear out."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hence it is easy to see that a girl who wears these portions of a porcupine about her waist, will be delivered just as easily as the animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She may eat no fresh meat or fish except the flesh of the porcupine."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In her socks she wears, next to the skin, the horny soles cut from the feet of a porcupine, in order that for the rest of her life her shoes may never wear out."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hence it is easy to see that a girl who wears these portions of a porcupine about her waist, will be delivered just as easily as the animal."*

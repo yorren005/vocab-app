@@ -5,13 +5,6 @@ status: unread
 ---
 # Leptomonas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus within the family Trypanosomatidae&nbsp;– certain parasitic flagellate protists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic genus within the family Trypanosomatidae&nbsp;– certain parasitic flagellate protists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Leptomonas designates a taxonomic genus within the family trypanosomatidae&nbsp;– certain parasitic flagellate protists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus within the family Trypanosomatidae&nbsp;– certain parasitic flagellate protists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic genus within the family Trypanosomatidae&nbsp;– certain parasitic flagellate protists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Leptomonas designates a taxonomic genus within the family trypanosomatidae&nbsp;– certain parasitic flagellate protists."*

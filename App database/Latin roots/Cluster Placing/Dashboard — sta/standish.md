@@ -5,15 +5,6 @@ status: unread
 ---
 # standish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English colonist in america; leader of the pilgrims in the early days of the plymouth colony (1584-1656).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English colonist in america; leader of the pilgrims in the early days of the plymouth colony (1584-1656).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Standish, the old lawyer, who had been so long concerned with the landed gentry that he had become landed himself, and used that oath in a deep-mouthed manner as a sort of armorial bearings, stamping the speech of a man who held a good position."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Standish, disposed to be genial."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Standish, jocosely; “you see the middle-aged fellows carry the day.” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English colonist in america; leader of the pilgrims in the early days of the plymouth colony (1584-1656).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English colonist in america; leader of the pilgrims in the early days of the plymouth colony (1584-1656).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Standish, the old lawyer, who had been so long concerned with the landed gentry that he had become landed himself, and used that oath in a deep-mouthed manner as a sort of armorial bearings, stamping the speech of a man who held a good position."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Standish, disposed to be genial."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Standish, jocosely; “you see the middle-aged fellows carry the day.” Mr."*

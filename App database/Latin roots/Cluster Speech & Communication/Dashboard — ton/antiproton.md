@@ -5,13 +5,6 @@ status: unread
 ---
 # antiproton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unstable negatively charged proton; the antiparticle of a proton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unstable negatively charged proton; the antiparticle of a proton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiproton designates an unstable negatively charged proton; the antiparticle of a proton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unstable negatively charged proton; the antiparticle of a proton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unstable negatively charged proton; the antiparticle of a proton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiproton designates an unstable negatively charged proton; the antiparticle of a proton."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudolarix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: golden larch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: golden larch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudolarix designates one species: golden larch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: golden larch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: golden larch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudolarix designates one species: golden larch."*

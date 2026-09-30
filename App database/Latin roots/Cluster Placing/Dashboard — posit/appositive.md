@@ -5,13 +5,6 @@ status: unread
 ---
 # appositive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being in apposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being in apposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The nouns “interchange”, “splendour”, “benediction”, vv. 17, 18, 19, are appositives of “what”, v. 17."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being in apposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being in apposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The nouns “interchange”, “splendour”, “benediction”, vv. 17, 18, 19, are appositives of “what”, v. 17."*

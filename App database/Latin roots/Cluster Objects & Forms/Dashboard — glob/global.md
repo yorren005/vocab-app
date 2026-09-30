@@ -5,15 +5,6 @@ status: unread
 ---
 # global
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving the entire earth; not limited or provincial in scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Prompt opening of virgin territories is highly meritorious, extremely urgent, vital prerequisite to insure triumphant conclusion of opening phase of Global Crusade, prerogative of chief executors of 'Abdu'l-Bahá's Plan."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"A LASTING INFLUENCE ON AMERICAN COMMUNITY AND NATION This decade-long global Crusade must mark a veritable turning point in American Bahá'í history."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I plan to devote a considerable part of my curriculum for this school year to developing a sense of self, family, community, national identity and global citizenship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving the entire earth; not limited or provincial in scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Prompt opening of virgin territories is highly meritorious, extremely urgent, vital prerequisite to insure triumphant conclusion of opening phase of Global Crusade, prerogative of chief executors of 'Abdu'l-Bahá's Plan."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"A LASTING INFLUENCE ON AMERICAN COMMUNITY AND NATION This decade-long global Crusade must mark a veritable turning point in American Bahá'í history."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I plan to devote a considerable part of my curriculum for this school year to developing a sense of self, family, community, national identity and global citizenship."*

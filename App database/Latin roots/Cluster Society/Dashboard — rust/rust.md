@@ -5,15 +5,6 @@ status: unread
 ---
 # rust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red or brown oxide coating on iron or steel caused by the action of oxygen and moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant disease that produces a reddish-brown discoloration of leaves and stems; caused by various rust fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rust, sword; cool, blushes; and, Parolles live Safest in shame; being fool’d, by foolery thrive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This peace is nothing but to rust iron, increase tailors, and breed ballad-makers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I were better to be eaten to death with a rust than to be scoured to nothing with perpetual motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red or brown oxide coating on iron or steel caused by the action of oxygen and moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant disease that produces a reddish-brown discoloration of leaves and stems; caused by various rust fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rust, sword; cool, blushes; and, Parolles live Safest in shame; being fool’d, by foolery thrive."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This peace is nothing but to rust iron, increase tailors, and breed ballad-makers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I were better to be eaten to death with a rust than to be scoured to nothing with perpetual motion."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # statocyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statocyst designates an organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statocyst designates an organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths."*

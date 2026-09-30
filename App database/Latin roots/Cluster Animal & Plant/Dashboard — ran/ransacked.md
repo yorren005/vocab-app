@@ -5,15 +5,6 @@ status: unread
 ---
 # ransacked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steal goods; take as spoils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search thoroughly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See the hell of having a false woman: my bed shall be abused, my coffers ransacked, my reputation gnawn at; and I shall not only receive this villanous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My honey lost, and I, a drone-like bee, Have no perfection of my summer left, But robbed and ransacked by injurious theft."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I ransacked my memory to find who the lady was."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steal goods; take as spoils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search thoroughly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See the hell of having a false woman: my bed shall be abused, my coffers ransacked, my reputation gnawn at; and I shall not only receive this villanous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My honey lost, and I, a drone-like bee, Have no perfection of my summer left, But robbed and ransacked by injurious theft."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I ransacked my memory to find who the lady was."*

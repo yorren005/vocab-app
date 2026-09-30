@@ -5,15 +5,6 @@ status: unread
 ---
 # intrusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any entry into an area not previously occupied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entrance by force or without permission or welcome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, beneath the painted ceiling, with foreshortened Allegory staring down at his intrusion as if it meant to swoop upon him, and he cutting it dead, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George will forgive his intrusion the more readily on that account, and particularly that he will not lay aside his pipe, which, in his politeness, he has testified some intention of doing."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was then that the ecstasy and the dream began, in which emotion was the matter of the universe, and matter but an adventitious intrusion likely to hinder you from spinning where you wanted to spin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any entry into an area not previously occupied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entrance by force or without permission or welcome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here, beneath the painted ceiling, with foreshortened Allegory staring down at his intrusion as if it meant to swoop upon him, and he cutting it dead, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George will forgive his intrusion the more readily on that account, and particularly that he will not lay aside his pipe, which, in his politeness, he has testified some intention of doing."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was then that the ecstasy and the dream began, in which emotion was the matter of the universe, and matter but an adventitious intrusion likely to hinder you from spinning where you wanted to spin."*

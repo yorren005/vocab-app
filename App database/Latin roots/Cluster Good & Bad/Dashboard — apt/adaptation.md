@@ -5,15 +5,6 @@ status: unread
 ---
 # adaptation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written work (as a novel) that has been recast in a new form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of adapting to something (such as environmental conditions).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Adequate provision for the prompt return and redemption of bank notes makes them "elastic" in their adaptation to monetary needs, which fluctuate with changes in commerce and industry from season to season and even from day to day."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Considered, indeed, in relation to the latter, whose mind was matured, she was altogether a mistake, and calculated to shock his trust in final causes, including the adaptation of fine young women to purplefaced bachelors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written work (as a novel) that has been recast in a new form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of adapting to something (such as environmental conditions).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Adequate provision for the prompt return and redemption of bank notes makes them "elastic" in their adaptation to monetary needs, which fluctuate with changes in commerce and industry from season to season and even from day to day."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Considered, indeed, in relation to the latter, whose mind was matured, she was altogether a mistake, and calculated to shock his trust in final causes, including the adaptation of fine young women to purplefaced bachelors."*

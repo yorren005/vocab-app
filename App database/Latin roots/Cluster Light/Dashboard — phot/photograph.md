@@ -5,15 +5,6 @@ status: unread
 ---
 # photograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record on photographic film.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It had seemed of a sudden most familiar, in much the same way that my father’s barn would have been in a photograph."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They’ve ben fixin’ it up awful.” Here the missionary handed to my mother another photograph he had sought out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"El Kul’ah, as it was known by—” But here I broke in again, pointing to rubbish piles of ruined masonry on the left edge of the photograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record on photographic film.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It had seemed of a sudden most familiar, in much the same way that my father’s barn would have been in a photograph."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They’ve ben fixin’ it up awful.” Here the missionary handed to my mother another photograph he had sought out."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"El Kul’ah, as it was known by—” But here I broke in again, pointing to rubbish piles of ruined masonry on the left edge of the photograph."*

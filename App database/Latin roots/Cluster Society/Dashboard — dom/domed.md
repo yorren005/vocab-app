@@ -5,15 +5,6 @@ status: unread
 ---
 # domed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a hemispherical vault or dome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a hemispherical vault or dome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A square box with a domed top figures prominently at the fair."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Of erections, how few are domed like St."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A white, steady glow identified Coldfield, the surrounding red and blue lines identified scores of subsurface passageways and rutted trails that curved away from the domed city in all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a hemispherical vault or dome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a hemispherical vault or dome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A square box with a domed top figures prominently at the fair."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Of erections, how few are domed like St."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A white, steady glow identified Coldfield, the surrounding red and blue lines identified scores of subsurface passageways and rutted trails that curved away from the domed city in all directions."*

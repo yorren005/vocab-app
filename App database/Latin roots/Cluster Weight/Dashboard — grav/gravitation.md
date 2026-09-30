@@ -5,15 +5,6 @@ status: unread
 ---
 # gravitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --albert einstein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement downward resulting from gravitational attraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was an intensely humane man: indeed, his humanity often tore in pieces any politic intentions of his which bordered on strategy, and carried him on as by gravitation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nobody had beheld the gravitation of the two into one; and when the dairyman came round by that screened nook a few minutes later, there was not a sign to reveal that the markedly sundered pair were more to each other than mere acquaintance."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Like the law of gravitation and the law of projectiles, the theory must be interpreted with relation to actual conditions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --albert einstein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement downward resulting from gravitational attraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was an intensely humane man: indeed, his humanity often tore in pieces any politic intentions of his which bordered on strategy, and carried him on as by gravitation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nobody had beheld the gravitation of the two into one; and when the dairyman came round by that screened nook a few minutes later, there was not a sign to reveal that the markedly sundered pair were more to each other than mere acquaintance."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Like the law of gravitation and the law of projectiles, the theory must be interpreted with relation to actual conditions."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # logomachist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone given to disputes over words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone given to disputes over words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logomachist designates someone given to disputes over words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone given to disputes over words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone given to disputes over words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logomachist designates someone given to disputes over words."*

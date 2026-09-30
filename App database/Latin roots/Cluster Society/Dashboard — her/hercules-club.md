@@ -5,13 +5,6 @@ status: unread
 ---
 # hercules-club
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely spiny ornamental of southeastern united states and west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely spiny ornamental of southeastern united states and west indies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hercules-club designates densely spiny ornamental of southeastern united states and west indies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely spiny ornamental of southeastern united states and west indies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely spiny ornamental of southeastern united states and west indies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hercules-club designates densely spiny ornamental of southeastern united states and west indies."*

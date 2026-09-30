@@ -5,15 +5,6 @@ status: unread
 ---
 # vanish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get lost, as without warning or explanation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become invisible or unnoticeable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vanish, or I shall give thee thy deserving And blemish Caesar’s triumph."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away! and, to be blest, Let us with care perform his great behest. [_Ghosts vanish._] POSTHUMUS. [_Waking._] Sleep, thou has been a grandsire and begot A father to me; and thou hast created A mother and two brothers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But even then the morning cock crew loud, And at the sound it shrunk in haste away, And vanish’d from our sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get lost, as without warning or explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become invisible or unnoticeable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vanish, or I shall give thee thy deserving And blemish Caesar’s triumph."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away! and, to be blest, Let us with care perform his great behest. [_Ghosts vanish._] POSTHUMUS. [_Waking._] Sleep, thou has been a grandsire and begot A father to me; and thou hast created A mother and two brothers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But even then the morning cock crew loud, And at the sound it shrunk in haste away, And vanish’d from our sight."*

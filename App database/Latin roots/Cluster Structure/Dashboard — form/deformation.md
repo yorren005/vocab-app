@@ -5,13 +5,6 @@ status: unread
 ---
 # deformation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alteration in the shape or dimensions of an object as a result of the application of stress to it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deformation designates a change for the worse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alteration in the shape or dimensions of an object as a result of the application of stress to it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deformation designates a change for the worse."*

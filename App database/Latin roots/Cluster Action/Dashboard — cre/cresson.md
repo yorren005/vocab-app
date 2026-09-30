@@ -5,13 +5,6 @@ status: unread
 ---
 # cresson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cresson designates of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cresson designates of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green."*

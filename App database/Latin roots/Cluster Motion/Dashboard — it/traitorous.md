@@ -5,15 +5,6 @@ status: unread
 ---
 # traitorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of, or characteristic of, a traitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of, or characteristic of, a traitor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go call the people; [_Exit Aedile._] in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts,— O wicked wit, and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, my Lord Protector, and the rest After some respite will return to Calais; From thence to England, where I hope ere long To be presented, by your victories, With Charles, Alençon, and that traitorous rout. [_Flourish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of, or characteristic of, a traitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of, or characteristic of, a traitor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go call the people; [_Exit Aedile._] in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts,— O wicked wit, and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, my Lord Protector, and the rest After some respite will return to Calais; From thence to England, where I hope ere long To be presented, by your victories, With Charles, Alençon, and that traitorous rout. [_Flourish."*

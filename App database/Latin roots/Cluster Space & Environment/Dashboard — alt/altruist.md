@@ -5,13 +5,6 @@ status: unread
 ---
 # altruist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes charitable donations intended to increase human well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes charitable donations intended to increase human well-being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There was no nonsense about him--none of that sweet blind altruism which, as Isabel saw it, only made the altruist and his family so bitterly uncomfortable without doing any good to the poor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes charitable donations intended to increase human well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes charitable donations intended to increase human well-being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There was no nonsense about him--none of that sweet blind altruism which, as Isabel saw it, only made the altruist and his family so bitterly uncomfortable without doing any good to the poor."*

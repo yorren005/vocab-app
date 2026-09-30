@@ -5,13 +5,6 @@ status: unread
 ---
 # militainment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entertainment with military themes in which the department of defense is celebrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entertainment with military themes in which the department of defense is celebrated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militainment designates entertainment with military themes in which the department of defense is celebrated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entertainment with military themes in which the department of defense is celebrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entertainment with military themes in which the department of defense is celebrated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militainment designates entertainment with military themes in which the department of defense is celebrated."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # underdressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dress without sufficient warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dress informally and casually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Alice did not deign to reply, but tossed her head superbly, and secretly considered whether people would, on comparison, think her overdressed or Lydia underdressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dress without sufficient warmth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dress informally and casually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Alice did not deign to reply, but tossed her head superbly, and secretly considered whether people would, on comparison, think her overdressed or Lydia underdressed."*

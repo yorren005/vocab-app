@@ -5,13 +5,6 @@ status: unread
 ---
 # neuroptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects including: lacewings; antlions; dobsonflies; alderflies; fish flies; mantispids; spongeflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insect having biting mouthparts and four large membranous wings with netlike veins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroptera designates an order of insects including: lacewings; antlions; dobsonflies; alderflies; fish flies; mantispids; spongeflies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects including: lacewings; antlions; dobsonflies; alderflies; fish flies; mantispids; spongeflies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insect having biting mouthparts and four large membranous wings with netlike veins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroptera designates an order of insects including: lacewings; antlions; dobsonflies; alderflies; fish flies; mantispids; spongeflies."*

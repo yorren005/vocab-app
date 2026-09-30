@@ -5,15 +5,6 @@ status: unread
 ---
 # sect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdivision of a larger religious group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissenting clique.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is all her sect; an they be once in a calm, they are sick."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not I know you for a favourer Of this new sect?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdivision of a larger religious group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissenting clique.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is all her sect; an they be once in a calm, they are sick."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not I know you for a favourer Of this new sect?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*

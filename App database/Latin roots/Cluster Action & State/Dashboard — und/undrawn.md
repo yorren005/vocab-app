@@ -5,13 +5,6 @@ status: unread
 ---
 # undrawn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not represented in a drawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not represented in a drawing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have not furnished the names of Senators who have left increased salary undrawn, as this information was not called for in the resolution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not represented in a drawing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not represented in a drawing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have not furnished the names of Senators who have left increased salary undrawn, as this information was not called for in the resolution."*

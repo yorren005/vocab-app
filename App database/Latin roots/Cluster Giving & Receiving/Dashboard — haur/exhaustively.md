@@ -5,15 +5,6 @@ status: unread
 ---
 # exhaustively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exhaustive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exhaustive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"These things cannot be reasoned about, and I very earnestly entreat you not to return to the subject we discussed so exhaustively."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"While avoiding undue prolixity, the subjects are comprehensively and exhaustively treated, proving it to be more valuable as a book of reference than any other of similar character ever before given to the public."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"There are numerous explanations for their failure, which have been discussed exhaustively by Percy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exhaustive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exhaustive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"These things cannot be reasoned about, and I very earnestly entreat you not to return to the subject we discussed so exhaustively."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"While avoiding undue prolixity, the subjects are comprehensively and exhaustively treated, proving it to be more valuable as a book of reference than any other of similar character ever before given to the public."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"There are numerous explanations for their failure, which have been discussed exhaustively by Percy."*

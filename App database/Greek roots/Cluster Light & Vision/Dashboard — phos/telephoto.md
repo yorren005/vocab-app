@@ -5,13 +5,6 @@ status: unread
 ---
 # telephoto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a camera lens system designed to give a large image of a distant object; also : relating to or being photography in which a telephoto lens is used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephoto lens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephoto designates being a camera lens system designed to give a large image of a distant object; also : relating to or being photography in which a telephoto lens is used."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a camera lens system designed to give a large image of a distant object; also : relating to or being photography in which a telephoto lens is used.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephoto lens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephoto designates being a camera lens system designed to give a large image of a distant object; also : relating to or being photography in which a telephoto lens is used."*

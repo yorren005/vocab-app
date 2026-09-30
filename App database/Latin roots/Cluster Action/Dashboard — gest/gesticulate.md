@@ -5,15 +5,6 @@ status: unread
 ---
 # gesticulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show, express or direct through movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show, express or direct through movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had not gone two cable-lengths, when a hundred savages, howling and gesticulating, entered the water up to their waists."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A few moments later he was in our room, still puffing, still gesticulating, but with so fixed a look of grief and despair in his eyes that our smiles were turned in an instant to horror and pity."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I heard a scathing murmur at my ear, ‘Heap of muffs—go to.’ The pilgrims could be seen in knots gesticulating, discussing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show, express or direct through movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show, express or direct through movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had not gone two cable-lengths, when a hundred savages, howling and gesticulating, entered the water up to their waists."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A few moments later he was in our room, still puffing, still gesticulating, but with so fixed a look of grief and despair in his eyes that our smiles were turned in an instant to horror and pity."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I heard a scathing murmur at my ear, ‘Heap of muffs—go to.’ The pilgrims could be seen in knots gesticulating, discussing."*

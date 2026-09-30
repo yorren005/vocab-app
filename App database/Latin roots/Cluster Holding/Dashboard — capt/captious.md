@@ -5,15 +5,6 @@ status: unread
 ---
 # captious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to find and call attention to faults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to find and call attention to faults.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know I love in vain, strive against hope; Yet in this captious and inteemable sieve I still pour in the waters of my love And lack not to lose still."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my best of confidantes,” said Richard, “I want my cousin Ada to understand that I am not captious, fickle, and wilful about John Jarndyce, but that I have this purpose and reason at my back."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Georgiana, who had a spoiled temper, a very acrid spite, a captious and insolent carriage, was universally indulged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to find and call attention to faults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to find and call attention to faults.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know I love in vain, strive against hope; Yet in this captious and inteemable sieve I still pour in the waters of my love And lack not to lose still."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my best of confidantes,” said Richard, “I want my cousin Ada to understand that I am not captious, fickle, and wilful about John Jarndyce, but that I have this purpose and reason at my back."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Georgiana, who had a spoiled temper, a very acrid spite, a captious and insolent carriage, was universally indulged."*

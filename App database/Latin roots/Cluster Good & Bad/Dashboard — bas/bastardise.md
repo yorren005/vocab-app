@@ -5,13 +5,6 @@ status: unread
 ---
 # bastardise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change something so that its value declines; for example, art forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare a child to be illegitimate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardise designates change something so that its value declines; for example, art forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change something so that its value declines; for example, art forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare a child to be illegitimate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardise designates change something so that its value declines; for example, art forms."*

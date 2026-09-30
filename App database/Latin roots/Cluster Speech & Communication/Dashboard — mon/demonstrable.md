@@ -5,15 +5,6 @@ status: unread
 ---
 # demonstrable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Necessarily or demonstrably true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being demonstrated or proved; ; ; - walter bagehot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Necessarily or demonstrably true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being demonstrated or proved; ; ; - walter bagehot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*

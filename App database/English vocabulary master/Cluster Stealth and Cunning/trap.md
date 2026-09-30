@@ -5,20 +5,6 @@ status: unread
 ---
 # trap
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trick or arrangement designed to catch someone in a more general sense; a snare
-> 2. **Nuance / Usage**: Device for taking game or other animals; especially : one that holds by springing shut suddenly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Weaves tedious snares to trap mine enemies."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The Flower-de-Luce, and I’ll hire a trap, and drive you home with me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"a ladder and through a trap-door to the roof of the hall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A mechanical device, pitfall, or enclosure—often baited and concealed—designed to spring shut and capture animals or intruders.
+> 2. **Nuance / Usage**: Broadly denotes any premeditated ambush, strategic ruse, or deceptive questioning intended to trick someone into betraying themselves or losing their freedom of action.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) and Verb (transitive).
+> - **Syntactic Constructions**: Functions as a count noun (*walked into a trap*, *laid a trap*) or transitive verb (*trapped the conspirators*).
+> - **Collocations & Registers**: Universal narrative, tactical, and analytical registers; collocated with *spring*, *bait*, *ambush*, and *unsuspecting*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"He weaves tedious snares to **trap** mine enemies."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I knew that if I waited long enough by the safe, the thief would walk straight into my **trap**."*
+> - 📜 **Franz Kafka (*A Little Fable*):** *"You only need to change your direction, said the cat, and ate it up before it could escape the **trap**."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pendragon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme war chief of the ancient britons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme war chief of the ancient britons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not to be gone from hence; for once I read That stout Pendragon in his litter sick Came to the field and vanquished his foes."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Pendragon is the title of the eldest son of the house."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"How glad Pendragon though the sleep Of years be on her!--She shall reap A taste of this great pleasure, viewing As in a dream her own renewing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme war chief of the ancient britons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme war chief of the ancient britons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not to be gone from hence; for once I read That stout Pendragon in his litter sick Came to the field and vanquished his foes."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Pendragon is the title of the eldest son of the house."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"How glad Pendragon though the sleep Of years be on her!--She shall reap A taste of this great pleasure, viewing As in a dream her own renewing."*

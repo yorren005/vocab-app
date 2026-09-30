@@ -5,13 +5,6 @@ status: unread
 ---
 # enzymology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biochemistry dealing with the chemical nature and biological activity of enzymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biochemistry dealing with the chemical nature and biological activity of enzymes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enzymology designates the branch of biochemistry dealing with the chemical nature and biological activity of enzymes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biochemistry dealing with the chemical nature and biological activity of enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biochemistry dealing with the chemical nature and biological activity of enzymes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enzymology designates the branch of biochemistry dealing with the chemical nature and biological activity of enzymes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antistatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reducing, removing, or preventing the buildup of static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reducing, removing, or preventing the buildup of static electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antistatic designates reducing, removing, or preventing the buildup of static electricity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reducing, removing, or preventing the buildup of static electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reducing, removing, or preventing the buildup of static electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antistatic designates reducing, removing, or preventing the buildup of static electricity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # nectar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet liquid secretion that is attractive to pollinators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit juice especially when undiluted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’imaginary relish is so sweet That it enchants my sense; what will it be When that the wat’ry palate tastes indeed Love’s thrice-repured nectar?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, man, she is mine own, And I as rich in having such a jewel As twenty seas, if all their sand were pearl, The water nectar, and the rocks pure gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That sure shall please the gods Sooner than such, to give us nectar with ’em, For we are more clear spirits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet liquid secretion that is attractive to pollinators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit juice especially when undiluted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’imaginary relish is so sweet That it enchants my sense; what will it be When that the wat’ry palate tastes indeed Love’s thrice-repured nectar?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, man, she is mine own, And I as rich in having such a jewel As twenty seas, if all their sand were pearl, The water nectar, and the rocks pure gold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That sure shall please the gods Sooner than such, to give us nectar with ’em, For we are more clear spirits."*

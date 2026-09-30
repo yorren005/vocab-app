@@ -5,13 +5,6 @@ status: unread
 ---
 # hadrosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Hadrosaurus) or family (Hadrosauridae) of mainly bipedal dinosaurs of the Late Cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Hadrosaurus) or family (Hadrosauridae) of mainly bipedal dinosaurs of the Late Cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosaur designates any of a genus (hadrosaurus) or family (hadrosauridae) of mainly bipedal dinosaurs of the late cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Hadrosaurus) or family (Hadrosauridae) of mainly bipedal dinosaurs of the Late Cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Hadrosaurus) or family (Hadrosauridae) of mainly bipedal dinosaurs of the Late Cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosaur designates any of a genus (hadrosaurus) or family (hadrosauridae) of mainly bipedal dinosaurs of the late cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur."*

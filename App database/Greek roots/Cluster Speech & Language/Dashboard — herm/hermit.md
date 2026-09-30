@@ -5,15 +5,6 @@ status: unread
 ---
 # hermit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One retired from society for religious reasons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives in solitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In prison hast thou spent a pilgrimage, And like a hermit overpass’d thy days."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A withered hermit, five-score winters worn, Might shake off fifty, looking in her eye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None but a holy hermit and her maid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One retired from society for religious reasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives in solitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In prison hast thou spent a pilgrimage, And like a hermit overpass’d thy days."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A withered hermit, five-score winters worn, Might shake off fifty, looking in her eye."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None but a holy hermit and her maid."*

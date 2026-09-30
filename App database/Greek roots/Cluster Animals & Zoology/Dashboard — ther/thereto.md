@@ -5,15 +5,6 @@ status: unread
 ---
 # thereto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To that.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, as thereto sworn by your command, Which my love makes religion to obey, I tell you this: Caesar through Syria Intends his journey, and within three days You with your children will he send before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think ’twill serve, if he Can thereto frame his spirit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To that.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To that.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, as thereto sworn by your command, Which my love makes religion to obey, I tell you this: Caesar through Syria Intends his journey, and within three days You with your children will he send before."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think ’twill serve, if he Can thereto frame his spirit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*

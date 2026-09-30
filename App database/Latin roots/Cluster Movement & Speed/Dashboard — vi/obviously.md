@@ -5,15 +5,6 @@ status: unread
 ---
 # obviously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He was more obviously struck and confused by the sight of her than she had ever observed before; he looked quite red."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Shame upon him—shame!” His unreasonable anger terrified her, and she glided from him, without obviously moving, as she said, “I am only a girl—do not speak to me so!” “All the time you knew—how very well you knew—that your new freak was my misery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He was more obviously struck and confused by the sight of her than she had ever observed before; he looked quite red."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Shame upon him—shame!” His unreasonable anger terrified her, and she glided from him, without obviously moving, as she said, “I am only a girl—do not speak to me so!” “All the time you knew—how very well you knew—that your new freak was my misery."*

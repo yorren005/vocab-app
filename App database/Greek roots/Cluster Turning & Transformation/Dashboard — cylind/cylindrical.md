@@ -5,15 +5,6 @@ status: unread
 ---
 # cylindrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a cylinder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I seemed to see the membraneous and cylindrical tubes tremble beneath the undulation of the waters."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Better armed than the whale, whose upper jaw is furnished only with whalebone, it is supplied with twenty-five large tusks, about eight inches long, cylindrical and conical at the top, each weighing two pounds."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A cylindrical view tank filled its available space."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a cylinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a cylinder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I seemed to see the membraneous and cylindrical tubes tremble beneath the undulation of the waters."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Better armed than the whale, whose upper jaw is furnished only with whalebone, it is supplied with twenty-five large tusks, about eight inches long, cylindrical and conical at the top, each weighing two pounds."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A cylindrical view tank filled its available space."*

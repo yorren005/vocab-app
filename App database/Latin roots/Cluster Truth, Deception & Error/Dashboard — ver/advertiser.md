@@ -5,15 +5,6 @@ status: unread
 ---
 # advertiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business is advertising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose business is advertising.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Concerning the Militia From the Daily Advertiser."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued (Concerning the General Power of Taxation) From the Daily Advertiser."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued (Concerning the General Power of Taxation) From the Daily Advertiser."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business is advertising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose business is advertising.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Concerning the Militia From the Daily Advertiser."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued (Concerning the General Power of Taxation) From the Daily Advertiser."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued (Concerning the General Power of Taxation) From the Daily Advertiser."*

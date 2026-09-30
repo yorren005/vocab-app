@@ -5,13 +5,6 @@ status: unread
 ---
 # malraux
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French novelist (1901-1976).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French novelist (1901-1976).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malraux designates french novelist (1901-1976)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French novelist (1901-1976).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French novelist (1901-1976).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malraux designates french novelist (1901-1976)."*

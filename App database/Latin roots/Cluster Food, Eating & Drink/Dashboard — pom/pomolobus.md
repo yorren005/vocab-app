@@ -5,13 +5,6 @@ status: unread
 ---
 # pomolobus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus to which the alewife is sometimes assigned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus to which the alewife is sometimes assigned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomolobus designates genus to which the alewife is sometimes assigned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus to which the alewife is sometimes assigned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus to which the alewife is sometimes assigned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomolobus designates genus to which the alewife is sometimes assigned."*

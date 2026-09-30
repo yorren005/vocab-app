@@ -5,13 +5,6 @@ status: unread
 ---
 # phyle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tribe of ancient athenians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tribe of ancient athenians.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Spirit of Freedom! when on Phyle's brow Thou sat'st with Thrasybulus and his train, Couldst thou forbode the dismal hour which now Dims the green beauties of thine Attic plain?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tribe of ancient athenians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tribe of ancient athenians.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Spirit of Freedom! when on Phyle's brow Thou sat'st with Thrasybulus and his train, Couldst thou forbode the dismal hour which now Dims the green beauties of thine Attic plain?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # physeteridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sperm whales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sperm whales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physeteridae designates sperm whales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sperm whales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sperm whales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physeteridae designates sperm whales."*

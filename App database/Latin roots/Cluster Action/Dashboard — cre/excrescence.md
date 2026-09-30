@@ -5,15 +5,6 @@ status: unread
 ---
 # excrescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) an abnormal outgrowth or enlargement of some part of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shell had been so thin, so devoid of excrescence, and so closely drawn over the accommodation granted, that the grim character of what was beneath showed through it, as the shape of a body is visible under a winding-sheet."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Temple, that girl’s hair must be cut off entirely; I will send a barber to-morrow: and I see others who have far too much of the excrescence—that tall girl, tell her to turn round."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it inscrutably appeared to stand to reason, in the minds of the whole company, that I was an excrescence on the entertainment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) an abnormal outgrowth or enlargement of some part of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shell had been so thin, so devoid of excrescence, and so closely drawn over the accommodation granted, that the grim character of what was beneath showed through it, as the shape of a body is visible under a winding-sheet."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Temple, that girl’s hair must be cut off entirely; I will send a barber to-morrow: and I see others who have far too much of the excrescence—that tall girl, tell her to turn round."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it inscrutably appeared to stand to reason, in the minds of the whole company, that I was an excrescence on the entertainment."*

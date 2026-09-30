@@ -5,13 +5,6 @@ status: unread
 ---
 # cubism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic movement in france beginning in 1907 that featured surfaces of geometrical planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artistic movement in france beginning in 1907 that featured surfaces of geometrical planes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubism designates an artistic movement in france beginning in 1907 that featured surfaces of geometrical planes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic movement in france beginning in 1907 that featured surfaces of geometrical planes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artistic movement in france beginning in 1907 that featured surfaces of geometrical planes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubism designates an artistic movement in france beginning in 1907 that featured surfaces of geometrical planes."*

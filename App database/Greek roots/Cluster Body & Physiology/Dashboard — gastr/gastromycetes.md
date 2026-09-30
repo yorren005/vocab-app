@@ -5,13 +5,6 @@ status: unread
 ---
 # gastromycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi in which the hymenium is enclosed until after spores have matured: puffballs; earth stars; stinkhorn fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the class gasteromycetes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastromycetes designates fungi in which the hymenium is enclosed until after spores have matured: puffballs; earth stars; stinkhorn fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi in which the hymenium is enclosed until after spores have matured: puffballs; earth stars; stinkhorn fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the class gasteromycetes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastromycetes designates fungi in which the hymenium is enclosed until after spores have matured: puffballs; earth stars; stinkhorn fungi."*

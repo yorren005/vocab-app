@@ -5,15 +5,6 @@ status: unread
 ---
 # parsimony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme care in spending money; reluctance to spend money unnecessarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme stinginess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You got to deliver a whole lot more than that to make me swallow the rest of your whoppers.” Hamilton’s Law of Parsimony in the weighing of evidence!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The security of all would thus be subjected to the parsimony, improvidence, or inability of a part."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The young ladies had long been repining in secret at the parsimony of a prudent father, which kept down all their elegant aspirings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme care in spending money; reluctance to spend money unnecessarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme stinginess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You got to deliver a whole lot more than that to make me swallow the rest of your whoppers.” Hamilton’s Law of Parsimony in the weighing of evidence!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The security of all would thus be subjected to the parsimony, improvidence, or inability of a part."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The young ladies had long been repining in secret at the parsimony of a prudent father, which kept down all their elegant aspirings."*

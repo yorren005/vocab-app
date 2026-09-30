@@ -5,13 +5,6 @@ status: unread
 ---
 # pyramiding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramiding designates a fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramiding designates a fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated."*

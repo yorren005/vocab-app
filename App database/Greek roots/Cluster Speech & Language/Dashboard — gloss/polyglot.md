@@ -5,15 +5,6 @@ status: unread
 ---
 # polyglot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who is polyglot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book containing versions of the same text in several languages; especially : the Scriptures in several languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew, listening to this polyglot talk and to these surmises, plans, refutations, and shouts, felt nothing but amazement at what they were saying."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I could hear a lot of words often repeated, queer words, for there were many nationalities in the crowd; so I quietly got my polyglot dictionary from my bag and looked them out."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The captain swear again, polyglot, and the thin man make him bow, and thank him, and say that he will so far intrude on his kindness as to come aboard before the sailing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who is polyglot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book containing versions of the same text in several languages; especially : the Scriptures in several languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew, listening to this polyglot talk and to these surmises, plans, refutations, and shouts, felt nothing but amazement at what they were saying."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I could hear a lot of words often repeated, queer words, for there were many nationalities in the crowd; so I quietly got my polyglot dictionary from my bag and looked them out."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The captain swear again, polyglot, and the thin man make him bow, and thank him, and say that he will so far intrude on his kindness as to come aboard before the sailing."*

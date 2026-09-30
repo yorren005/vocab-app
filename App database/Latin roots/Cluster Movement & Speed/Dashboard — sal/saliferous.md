@@ -5,13 +5,6 @@ status: unread
 ---
 # saliferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or yielding salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or yielding salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saliferous designates containing or yielding salt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or yielding salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or yielding salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saliferous designates containing or yielding salt."*

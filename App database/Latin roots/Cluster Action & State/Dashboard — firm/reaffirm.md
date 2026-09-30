@@ -5,15 +5,6 @@ status: unread
 ---
 # reaffirm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affirm once again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affirm once again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Your proposition, however, practically proposes to re-nominate General Beaver, and reaffirm the abuse which we oppose."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We reaffirm our opposition to further grants of the public lands to corporations and monopolies, and demand that the national domain be devoted to free homes for the people. 10."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We reaffirm the American doctrine of Protection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affirm once again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affirm once again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Your proposition, however, practically proposes to re-nominate General Beaver, and reaffirm the abuse which we oppose."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We reaffirm our opposition to further grants of the public lands to corporations and monopolies, and demand that the national domain be devoted to free homes for the people. 10."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We reaffirm the American doctrine of Protection."*

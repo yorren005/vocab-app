@@ -5,15 +5,6 @@ status: unread
 ---
 # cubit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient unit of length based on the length of the forearm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient unit of length based on the length of the forearm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A space whose ev’ry cubit Seems to cry out “How shall that Claribel Measure us back to Naples?"*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Man in man's imperfect nature is by imperfection taught: Add one cubit to your stature if you can by taking thought."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Thurston: Thou liest; I am a freeborn man, And thy huge carcase--in cubit and span Like the giant's of Gath--'neath Saxon steel, Shall furnish the kites with a fatter meal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient unit of length based on the length of the forearm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient unit of length based on the length of the forearm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A space whose ev’ry cubit Seems to cry out “How shall that Claribel Measure us back to Naples?"*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Man in man's imperfect nature is by imperfection taught: Add one cubit to your stature if you can by taking thought."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Thurston: Thou liest; I am a freeborn man, And thy huge carcase--in cubit and span Like the giant's of Gath--'neath Saxon steel, Shall furnish the kites with a fatter meal."*

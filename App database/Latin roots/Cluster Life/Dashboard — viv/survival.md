@@ -5,15 +5,6 @@ status: unread
 ---
 # survival
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of surviving; remaining alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural process resulting in the evolution of organisms best adapted to the environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But the news of his brother's survival reached him, nevertheless."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The banded ones were all dressed in white gowns—a gay survival from Old Style days, when cheerfulness and May-time were synonyms—days before the habit of taking long views had reduced emotions to a monotonous average."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a matter of the survival of the toughest and the luckiest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of surviving; remaining alive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural process resulting in the evolution of organisms best adapted to the environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But the news of his brother's survival reached him, nevertheless."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The banded ones were all dressed in white gowns—a gay survival from Old Style days, when cheerfulness and May-time were synonyms—days before the habit of taking long views had reduced emotions to a monotonous average."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a matter of the survival of the toughest and the luckiest."*

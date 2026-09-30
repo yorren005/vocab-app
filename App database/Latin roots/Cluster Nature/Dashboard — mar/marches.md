@@ -5,15 +5,6 @@ status: unread
 ---
 # marches
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region in central italy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region in central italy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They of those marches, gracious sovereign, Shall be a wall sufficient to defend Our inland from the pilfering borderers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The adverse winds, Whose leisure I have stay’d, have given him time To land his legions all as soon as I; His marches are expedient to this town, His forces strong, his soldiers confident."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go meet the French, And from his holiness use all your power To stop their marches ’fore we are inflam’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region in central italy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region in central italy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They of those marches, gracious sovereign, Shall be a wall sufficient to defend Our inland from the pilfering borderers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The adverse winds, Whose leisure I have stay’d, have given him time To land his legions all as soon as I; His marches are expedient to this town, His forces strong, his soldiers confident."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go meet the French, And from his holiness use all your power To stop their marches ’fore we are inflam’d."*

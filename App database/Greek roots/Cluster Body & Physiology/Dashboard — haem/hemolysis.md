@@ -5,13 +5,6 @@ status: unread
 ---
 # hemolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lysis of red blood cells with liberation of hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lysis of red blood cells with liberation of hemoglobin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemolysis designates lysis of red blood cells with liberation of hemoglobin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lysis of red blood cells with liberation of hemoglobin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lysis of red blood cells with liberation of hemoglobin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemolysis designates lysis of red blood cells with liberation of hemoglobin."*

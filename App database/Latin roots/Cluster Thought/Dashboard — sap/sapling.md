@@ -5,15 +5,6 @@ status: unread
 ---
 # sapling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Young tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young tree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, you’re a young foolish sapling, and must be bowed as I would have you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, mine arm Is like a blasted sapling withered up!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, tender sapling; thou art made of tears, And tears will quickly melt thy life away. [_Marcus strikes the dish with a knife._] What dost thou strike at, Marcus, with thy knife?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Young tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young tree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, you’re a young foolish sapling, and must be bowed as I would have you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, mine arm Is like a blasted sapling withered up!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, tender sapling; thou art made of tears, And tears will quickly melt thy life away. [_Marcus strikes the dish with a knife._] What dost thou strike at, Marcus, with thy knife?"*

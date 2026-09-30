@@ -5,13 +5,6 @@ status: unread
 ---
 # lithotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the urinary bladder for removal of a stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the urinary bladder for removal of a stone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithotomy designates surgical incision of the urinary bladder for removal of a stone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the urinary bladder for removal of a stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the urinary bladder for removal of a stone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithotomy designates surgical incision of the urinary bladder for removal of a stone."*

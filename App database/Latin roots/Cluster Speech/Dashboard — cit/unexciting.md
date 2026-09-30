@@ -5,14 +5,6 @@ status: unread
 ---
 # unexciting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stimulating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exciting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It is the most unexciting contest you can imagine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stimulating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exciting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It is the most unexciting contest you can imagine."*

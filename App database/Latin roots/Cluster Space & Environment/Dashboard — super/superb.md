@@ -5,15 +5,6 @@ status: unread
 ---
 # superb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of surpassing excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassingly good.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Two wax candles stood lighted on the table, and two on the mantelpiece; basking in the light and heat of a superb fire, lay Pilot—Adèle knelt near him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"With anxiety I watched his eye rove over the gay stores: he fixed on a rich silk of the most brilliant amethyst dye, and a superb pink satin."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"We were to have a superb dinner, consisting of a leg of pickled pork and greens, and a pair of roast stuffed fowls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of surpassing excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassingly good.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Two wax candles stood lighted on the table, and two on the mantelpiece; basking in the light and heat of a superb fire, lay Pilot—Adèle knelt near him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"With anxiety I watched his eye rove over the gay stores: he fixed on a rich silk of the most brilliant amethyst dye, and a superb pink satin."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We were to have a superb dinner, consisting of a leg of pickled pork and greens, and a pair of roast stuffed fowls."*

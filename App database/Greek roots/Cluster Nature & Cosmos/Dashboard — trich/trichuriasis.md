@@ -5,13 +5,6 @@ status: unread
 ---
 # trichuriasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation by a roundworm; common in tropical areas with poor sanitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation by a roundworm; common in tropical areas with poor sanitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichuriasis designates infestation by a roundworm; common in tropical areas with poor sanitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation by a roundworm; common in tropical areas with poor sanitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation by a roundworm; common in tropical areas with poor sanitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichuriasis designates infestation by a roundworm; common in tropical areas with poor sanitation."*

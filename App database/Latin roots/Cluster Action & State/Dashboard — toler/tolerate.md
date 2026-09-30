@@ -5,15 +5,6 @@ status: unread
 ---
 # tolerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up with something or somebody unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recognize and respect (rights and beliefs of others).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"But, fair or not fair, there are unbecoming conjunctions, which reason will patronize in vain—which taste cannot tolerate—which ridicule will seize."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, she would coldly tolerate me; sometimes, she would condescend to me; sometimes, she would be quite familiar with me; sometimes, she would tell me energetically that she hated me."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their being so new and so recent was all in their disfavour; that you could tolerate nothing that you were not used to; and a great deal more to the same purpose, to give them a knowledge of your character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up with something or somebody unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recognize and respect (rights and beliefs of others).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"But, fair or not fair, there are unbecoming conjunctions, which reason will patronize in vain—which taste cannot tolerate—which ridicule will seize."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, she would coldly tolerate me; sometimes, she would condescend to me; sometimes, she would be quite familiar with me; sometimes, she would tell me energetically that she hated me."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Their being so new and so recent was all in their disfavour; that you could tolerate nothing that you were not used to; and a great deal more to the same purpose, to give them a knowledge of your character."*

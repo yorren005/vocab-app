@@ -5,15 +5,6 @@ status: unread
 ---
 # stays
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's close-fitting foundation garment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing or remaining in a place or state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my part, he keeps me rustically at home, or, to speak more properly, stays me here at home unkept; for call you that keeping, for a gentleman of my birth, that differs not from the stalling of an ox?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master stays in the street."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you, see him presently discharg’d, For he is bound to sea, and stays but for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's close-fitting foundation garment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing or remaining in a place or state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my part, he keeps me rustically at home, or, to speak more properly, stays me here at home unkept; for call you that keeping, for a gentleman of my birth, that differs not from the stalling of an ox?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master stays in the street."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you, see him presently discharg’d, For he is bound to sea, and stays but for it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # jurist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal scholar versed in civil law or the law of nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public official authorized to decide questions brought before a court of justice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Joel Jones, a distinguished jurist of Philadelphia, and subsequently for several years President of Girard College."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But there is no general agreement to-day among jurists and economists upon a definite and consistent plan in this matter."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Hence it is that the greatest jurists have declared that such evidence, being rarely liable to delusion or fraud, is safest and most powerful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal scholar versed in civil law or the law of nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public official authorized to decide questions brought before a court of justice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Joel Jones, a distinguished jurist of Philadelphia, and subsequently for several years President of Girard College."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But there is no general agreement to-day among jurists and economists upon a definite and consistent plan in this matter."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Hence it is that the greatest jurists have declared that such evidence, being rarely liable to delusion or fraud, is safest and most powerful."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A predisposition in favor of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The discontented goose, who stoops to pass under the old gateway, twenty feet high, may gabble out, if we only knew it, a waddling preference for weather when the gateway casts its shadow on the ground."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce advised him to try and decide within himself whether his old preference for the sea was an ordinary boyish inclination or a strong impulse, Richard answered, Well he really HAD tried very often, and he couldn’t make out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I asked the favour of seeing you for a few moments here,” said I, “in preference to calling at Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong liking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A predisposition in favor of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The discontented goose, who stoops to pass under the old gateway, twenty feet high, may gabble out, if we only knew it, a waddling preference for weather when the gateway casts its shadow on the ground."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce advised him to try and decide within himself whether his old preference for the sea was an ordinary boyish inclination or a strong impulse, Richard answered, Well he really HAD tried very often, and he couldn’t make out."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I asked the favour of seeing you for a few moments here,” said I, “in preference to calling at Mr."*

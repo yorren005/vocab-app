@@ -5,13 +5,6 @@ status: unread
 ---
 # purace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive volcano in the andes in southern colombia; last erupted in 1950.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive volcano in the andes in southern colombia; last erupted in 1950.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purace designates an inactive volcano in the andes in southern colombia; last erupted in 1950."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive volcano in the andes in southern colombia; last erupted in 1950.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive volcano in the andes in southern colombia; last erupted in 1950.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purace designates an inactive volcano in the andes in southern colombia; last erupted in 1950."*

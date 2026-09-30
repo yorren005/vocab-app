@@ -5,13 +5,6 @@ status: unread
 ---
 # nematode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Nematoda or Nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water —called also roundworm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small yellowish nematode worm (Globodera rostochiensis synonym Heterodera rostochiensis) probably of South American origin that is a pest of solanaceous crops and especially potatoes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematode designates any of a phylum (nematoda or nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water —called also roundworm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Nematoda or Nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water —called also roundworm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small yellowish nematode worm (Globodera rostochiensis synonym Heterodera rostochiensis) probably of South American origin that is a pest of solanaceous crops and especially potatoes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematode designates any of a phylum (nematoda or nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water —called also roundworm."*

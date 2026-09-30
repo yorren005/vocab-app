@@ -5,13 +5,6 @@ status: unread
 ---
 # trigonal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having threefold symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having threefold symmetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trigonal designates having threefold symmetry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having threefold symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having threefold symmetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trigonal designates having threefold symmetry."*

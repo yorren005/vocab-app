@@ -5,13 +5,6 @@ status: unread
 ---
 # thermohydrometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that includes a thermometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that includes a thermometer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohydrometer designates a hydrometer that includes a thermometer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that includes a thermometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that includes a thermometer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohydrometer designates a hydrometer that includes a thermometer."*

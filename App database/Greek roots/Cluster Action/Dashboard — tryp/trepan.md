@@ -5,13 +5,6 @@ status: unread
 ---
 # trepan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To use a trephine on (the skull).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove a disk or cylindrical core (as from metal for testing).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"With his philibeg an’ tartan plaid, An’ guid claymore down by his side, The ladies’ hearts he did trepan, My gallant, braw John Highlandman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To use a trephine on (the skull).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove a disk or cylindrical core (as from metal for testing).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"With his philibeg an’ tartan plaid, An’ guid claymore down by his side, The ladies’ hearts he did trepan, My gallant, braw John Highlandman."*

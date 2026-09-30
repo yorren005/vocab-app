@@ -5,13 +5,6 @@ status: unread
 ---
 # commercialisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of commercializing something; involving something in commerce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of commercializing something; involving something in commerce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commercialisation designates the act of commercializing something; involving something in commerce."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of commercializing something; involving something in commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of commercializing something; involving something in commerce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commercialisation designates the act of commercializing something; involving something in commerce."*

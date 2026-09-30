@@ -5,13 +5,6 @@ status: unread
 ---
 # anastomotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of anastomosis : network.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastomotic designates the union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of anastomosis : network.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastomotic designates the union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect."*

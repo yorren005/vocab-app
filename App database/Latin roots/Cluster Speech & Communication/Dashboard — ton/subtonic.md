@@ -5,13 +5,6 @@ status: unread
 ---
 # subtonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the seventh note of the diatonic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the seventh note of the diatonic scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtonic designates (music) the seventh note of the diatonic scale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the seventh note of the diatonic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the seventh note of the diatonic scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtonic designates (music) the seventh note of the diatonic scale."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cosmea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmea designates any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmea designates any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals."*

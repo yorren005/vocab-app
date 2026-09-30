@@ -5,15 +5,6 @@ status: unread
 ---
 # implore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call upon in supplication; entreat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call upon in supplication; entreat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore I humbly Beseech you, sir, to spare me till I may Be by my friends in Spain advised, whose counsel I will implore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anointed, I implore so much expense of thy royal sweet breath as will utter a brace of words. [_Armado and King talk apart._] PRINCESS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call upon in supplication; entreat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call upon in supplication; entreat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore I humbly Beseech you, sir, to spare me till I may Be by my friends in Spain advised, whose counsel I will implore."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anointed, I implore so much expense of thy royal sweet breath as will utter a brace of words. [_Armado and King talk apart._] PRINCESS."*

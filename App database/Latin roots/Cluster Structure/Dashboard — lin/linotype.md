@@ -5,15 +5,6 @@ status: unread
 ---
 # linotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A typesetting machine operated from a keyboard that casts an entire line as a single slug of metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typesetting machine operated from a keyboard that casts an entire line as a single slug of metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In substantiation of his theory he exhibits a specimen of a word cast as a unit for him by this process, roughly similar to a modern linotype slug."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The linotype and monotype machines, uncanny in their operations, have also come into common practice."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The introduction of the linotype is said to have displaced a large number of hand type-setters, but to have increased greatly the amount of printing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A typesetting machine operated from a keyboard that casts an entire line as a single slug of metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typesetting machine operated from a keyboard that casts an entire line as a single slug of metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In substantiation of his theory he exhibits a specimen of a word cast as a unit for him by this process, roughly similar to a modern linotype slug."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The linotype and monotype machines, uncanny in their operations, have also come into common practice."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The introduction of the linotype is said to have displaced a large number of hand type-setters, but to have increased greatly the amount of printing."*

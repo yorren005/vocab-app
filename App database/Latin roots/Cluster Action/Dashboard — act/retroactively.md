@@ -5,13 +5,6 @@ status: unread
 ---
 # retroactively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After the fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the fact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroactively designates after the fact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After the fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the fact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroactively designates after the fact."*

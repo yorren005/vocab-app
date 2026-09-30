@@ -5,15 +5,6 @@ status: unread
 ---
 # placid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a body of water) free from disturbance by heavy waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily irritated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, pursuing her employment with a placid smile."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They suggested one distinct idea to her, for she said with her placid smile, and shaking her head, “My good Miss Summerson, at half the cost, this weak child might have been equipped for Africa!” On our going downstairs again, Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing, nothing done!” “Don’t say nothing done, sir,” returns the placid Vholes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a body of water) free from disturbance by heavy waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily irritated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, pursuing her employment with a placid smile."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They suggested one distinct idea to her, for she said with her placid smile, and shaking her head, “My good Miss Summerson, at half the cost, this weak child might have been equipped for Africa!” On our going downstairs again, Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing, nothing done!” “Don’t say nothing done, sir,” returns the placid Vholes."*

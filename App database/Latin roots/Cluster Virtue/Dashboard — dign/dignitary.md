@@ -5,15 +5,6 @@ status: unread
 ---
 # dignitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An important or influential (and often overbearing) person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important or influential (and often overbearing) person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"How many men to-day will say what they really think before a man in clerical dress, or a dignitary however trivial?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This was the time for Wemmick to produce a little kettle, a tray of glasses, and a black bottle with a porcelain-topped cork, representing some clerical dignitary of a rubicund and social aspect."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"An ancient picture of some reverend dignitary of the Church in his robes hung over the fireplace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An important or influential (and often overbearing) person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important or influential (and often overbearing) person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"How many men to-day will say what they really think before a man in clerical dress, or a dignitary however trivial?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"This was the time for Wemmick to produce a little kettle, a tray of glasses, and a black bottle with a porcelain-topped cork, representing some clerical dignitary of a rubicund and social aspect."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"An ancient picture of some reverend dignitary of the Church in his robes hung over the fireplace."*

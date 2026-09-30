@@ -5,13 +5,6 @@ status: unread
 ---
 # cholelithotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of gallstone through an incision in the gallbladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of gallstone through an incision in the gallbladder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholelithotomy designates removal of gallstone through an incision in the gallbladder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of gallstone through an incision in the gallbladder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of gallstone through an incision in the gallbladder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholelithotomy designates removal of gallstone through an incision in the gallbladder."*

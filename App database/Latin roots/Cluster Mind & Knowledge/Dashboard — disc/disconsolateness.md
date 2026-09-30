@@ -5,13 +5,6 @@ status: unread
 ---
 # disconsolateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling downcast and disheartened and hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling downcast and disheartened and hopeless.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconsolateness designates feeling downcast and disheartened and hopeless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling downcast and disheartened and hopeless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling downcast and disheartened and hopeless.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconsolateness designates feeling downcast and disheartened and hopeless."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # hoodwink
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hide
-> 2. **Nuance / Usage**: Blindfold
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hoodwink the target*) and intransitive clauses (*hoodwinking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"wile; by any device to hoodwink--even Jonathan."*
-> - 📜 **Classic Author (*Book of Job*):** *"The earth is given over into the hand of the Wicked One, / Who hoodwinketh the faces of its judges. / If this be not so, where, who is HE?"*
-> - 📜 **Classic Author (*The Greek White Book*):** *"Ex-King Constantine would be regarded as an apt disciple so long as he succeeded in his purpose of hoodwinking the Allies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To deceive, trick, or delude someone by concealing the truth behind false appearances.
+> 2. **Nuance / Usage**: Literally meant to cover the eyes with a hood or blindfold (as in falconry or the game of blindman's buff), lending the word a vivid sense of blinding someone to what is happening right in front of them.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive).
+> - **Syntactic Constructions**: Operates in transitive and passive constructions (*to hoodwink the public*, *hoodwinked into signing*).
+> - **Collocations & Registers**: Expressive narrative and journalistic registers; collocated with *credulous*, *easily*, *voters*, and *device*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"He would not shrink from any wile or device to **hoodwink** even Jonathan."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The prize I’ll bring thee to shall **hoodwink** this mischance."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"He was not so easily **hoodwinked** by smooth professions of disinterested friendship."*

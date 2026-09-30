@@ -5,13 +5,6 @@ status: unread
 ---
 # symbolizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the interpretation or representation of symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the interpretation or representation of symbols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbolizer designates someone skilled in the interpretation or representation of symbols."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the interpretation or representation of symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the interpretation or representation of symbols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbolizer designates someone skilled in the interpretation or representation of symbols."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # resist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elude, especially in a baffling way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stand up or offer resistance to somebody or something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that would die or ere resist are grown The mortal bugs o’ th’ field."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But how, my lord, shall we resist it now?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What fates impose, that men must needs abide; It boots not to resist both wind and tide. [_Exit King Edward, led out; Somerset with him._] OXFORD."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elude, especially in a baffling way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stand up or offer resistance to somebody or something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that would die or ere resist are grown The mortal bugs o’ th’ field."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But how, my lord, shall we resist it now?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What fates impose, that men must needs abide; It boots not to resist both wind and tide. [_Exit King Edward, led out; Somerset with him._] OXFORD."*

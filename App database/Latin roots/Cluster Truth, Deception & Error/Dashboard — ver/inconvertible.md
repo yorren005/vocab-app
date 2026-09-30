@@ -5,14 +5,6 @@ status: unread
 ---
 # inconvertible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being changed into something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Typical bank-notes, unlike inconvertible paper money, depend for their value on the credit of the bank, not on their legal-tender quality and on political power."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Show the difference between convertible and inconvertible money. 3."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being changed into something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Typical bank-notes, unlike inconvertible paper money, depend for their value on the credit of the bank, not on their legal-tender quality and on political power."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Show the difference between convertible and inconvertible money. 3."*

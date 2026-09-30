@@ -5,13 +5,6 @@ status: unread
 ---
 # senefelder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German printer who invented lithography (1771-1834).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German printer who invented lithography (1771-1834).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, senefelder designates german printer who invented lithography (1771-1834)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German printer who invented lithography (1771-1834).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German printer who invented lithography (1771-1834).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, senefelder designates german printer who invented lithography (1771-1834)."*

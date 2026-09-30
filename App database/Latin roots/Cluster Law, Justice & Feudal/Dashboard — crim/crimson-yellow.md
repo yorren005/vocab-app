@@ -5,13 +5,6 @@ status: unread
 ---
 # crimson-yellow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow tinged with crimson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow tinged with crimson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crimson-yellow designates yellow tinged with crimson."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow tinged with crimson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow tinged with crimson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crimson-yellow designates yellow tinged with crimson."*

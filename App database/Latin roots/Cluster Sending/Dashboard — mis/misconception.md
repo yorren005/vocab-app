@@ -5,15 +5,6 @@ status: unread
 ---
 # misconception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect conception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect conception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It comes to a fundamental unbelief in God, resting, as Jesus saw, on an essential misconception of God's nature; and this resulted in the spoiling of life."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"You must give him your own answer: we cannot expect him to be satisfied with less; and you only can explain to him the grounds of that misconception of your sentiments, which, unfortunately for himself, he certainly has imbibed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"We see that he was bearing enmity and silly misconception with much spirit, aware that they were partly created by his good share of success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect conception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect conception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It comes to a fundamental unbelief in God, resting, as Jesus saw, on an essential misconception of God's nature; and this resulted in the spoiling of life."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"You must give him your own answer: we cannot expect him to be satisfied with less; and you only can explain to him the grounds of that misconception of your sentiments, which, unfortunately for himself, he certainly has imbibed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"We see that he was bearing enmity and silly misconception with much spirit, aware that they were partly created by his good share of success."*

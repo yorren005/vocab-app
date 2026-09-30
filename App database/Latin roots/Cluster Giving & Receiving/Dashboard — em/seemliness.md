@@ -5,13 +5,6 @@ status: unread
 ---
 # seemliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sense of propriety and consideration for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense of propriety and consideration for others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was always so anxious to find seemliness, happiness, and peace in everything, and I should have been proud to let him see us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sense of propriety and consideration for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense of propriety and consideration for others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was always so anxious to find seemliness, happiness, and peace in everything, and I should have been proud to let him see us."*

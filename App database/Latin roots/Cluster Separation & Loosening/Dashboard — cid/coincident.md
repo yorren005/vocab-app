@@ -5,15 +5,6 @@ status: unread
 ---
 # coincident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or operating at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matching point for point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On each soft side—coincident with the parted swell, that but once leaving him, then flowed so wide away—on each bright side, the whale shed off enticings."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There is, perhaps, nothing more likely to disturb the tranquillity of nations than their being bound to mutual contributions for any common object that does not yield an equal and coincident benefit."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Wherever THESE can with propriety be confided, the coincident powers may safely accompany them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or operating at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matching point for point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On each soft side—coincident with the parted swell, that but once leaving him, then flowed so wide away—on each bright side, the whale shed off enticings."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There is, perhaps, nothing more likely to disturb the tranquillity of nations than their being bound to mutual contributions for any common object that does not yield an equal and coincident benefit."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Wherever THESE can with propriety be confided, the coincident powers may safely accompany them."*

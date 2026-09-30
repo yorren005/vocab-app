@@ -5,15 +5,6 @@ status: unread
 ---
 # sensual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the appetites and passions of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexually exciting or gratifying.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have begun, And now I give my sensual race the rein."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Bitter and base associations have become the sole food of your memory: you wander here and there, seeking rest in exile: happiness in pleasure—I mean in heartless, sensual pleasure—such as dulls intellect and blights feeling."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For we are clear that this was no mere straying of sensual appetite, but a straying, strange and deplorable, of the spirit; that (contrary to what Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the appetites and passions of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexually exciting or gratifying.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have begun, And now I give my sensual race the rein."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Bitter and base associations have become the sole food of your memory: you wander here and there, seeking rest in exile: happiness in pleasure—I mean in heartless, sensual pleasure—such as dulls intellect and blights feeling."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For we are clear that this was no mere straying of sensual appetite, but a straying, strange and deplorable, of the spirit; that (contrary to what Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vigna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers; of warm or tropical regions; most species often placed in genus phaseolus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers; of warm or tropical regions; most species often placed in genus phaseolus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigna designates genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers; of warm or tropical regions; most species often placed in genus phaseolus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers; of warm or tropical regions; most species often placed in genus phaseolus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers; of warm or tropical regions; most species often placed in genus phaseolus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigna designates genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers; of warm or tropical regions; most species often placed in genus phaseolus."*

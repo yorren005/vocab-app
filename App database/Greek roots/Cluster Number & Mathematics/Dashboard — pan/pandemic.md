@@ -5,13 +5,6 @@ status: unread
 ---
 # pandemic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring over a wide geographic area (such as multiple countries or continents) and typically affecting a significant proportion of the population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by very widespread growth or extent : epidemic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandemic designates occurring over a wide geographic area (such as multiple countries or continents) and typically affecting a significant proportion of the population."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring over a wide geographic area (such as multiple countries or continents) and typically affecting a significant proportion of the population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by very widespread growth or extent : epidemic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandemic designates occurring over a wide geographic area (such as multiple countries or continents) and typically affecting a significant proportion of the population."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # glance
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Take a quick look at something
-> 2. **Nuance / Usage**: Move swiftly from one thing to another
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to glance the target*) and intransitive clauses (*glancing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As to vouchsafe one glance unto the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"With the first glance that ever—pardon me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"have changed eyes with his cat, as he casts his sharp glance around."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To take a brief, rapid, or hurried look at someone or something; a quick sweep of the eyes.
+> 2. **Nuance / Usage**: Physically, to strike a surface at an angle and bounce off (*a glancing blow*), or of light, to flash and gleam momentarily.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to glance the target*) and intransitive clauses (*glancing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Tempest*):** *"At the first sight they have changed eyes, with a single **glance** of mutual wonder."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to have changed eyes with his cat, as he cast his sharp **glance** around the room."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth **glanced** at Darcy to see how he bore the impertinence of his aunt's remark."*

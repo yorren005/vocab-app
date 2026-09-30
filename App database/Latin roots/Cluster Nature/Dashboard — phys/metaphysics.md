@@ -5,15 +5,6 @@ status: unread
 ---
 # metaphysics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical study of being and knowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical study of being and knowing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The class of Hamilton's that he attended in the session of 1838-39 was that of Advanced Metaphysics."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The friends read Plato together, and held endless talk of metaphysics, pre-existence, and the sceptical philosophy, on winter walks across country, and all night beside the fire, until Shelley would curl up on the hearthrug and go to sleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical study of being and knowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical study of being and knowing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The class of Hamilton's that he attended in the session of 1838-39 was that of Advanced Metaphysics."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The friends read Plato together, and held endless talk of metaphysics, pre-existence, and the sceptical philosophy, on winter walks across country, and all night beside the fire, until Shelley would curl up on the hearthrug and go to sleep."*

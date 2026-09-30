@@ -5,15 +5,6 @@ status: unread
 ---
 # inclined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a tendency or disposition to do or be something; be inclined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend or turn (one's ear) towards a speaker in order to listen well.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will laugh like a hyena, and that when thou are inclined to sleep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you to march, And I shall quickly draw out my command, Which men are best inclined."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chide him for faults, and do it reverently, When you perceive his blood inclined to mirth; But, being moody, give him time and scope, Till that his passions, like a whale on ground, Confound themselves with working."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a tendency or disposition to do or be something; be inclined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend or turn (one's ear) towards a speaker in order to listen well.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will laugh like a hyena, and that when thou are inclined to sleep."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you to march, And I shall quickly draw out my command, Which men are best inclined."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chide him for faults, and do it reverently, When you perceive his blood inclined to mirth; But, being moody, give him time and scope, Till that his passions, like a whale on ground, Confound themselves with working."*

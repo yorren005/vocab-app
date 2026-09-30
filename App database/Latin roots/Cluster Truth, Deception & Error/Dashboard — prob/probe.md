@@ -5,15 +5,6 @@ status: unread
 ---
 # probe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inquiry into unfamiliar or questionable activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible slender surgical instrument with a blunt end that is used to explore wounds or body cavities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"From Estella she looked at me, with a searching glance that seemed to pry into my heart and probe its wounds."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've only been on this job a couple of days, so I couldn't probe to any meaningful depth." He heaved a deep sigh."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You know, of course, that you're undergoing psychic probe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inquiry into unfamiliar or questionable activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible slender surgical instrument with a blunt end that is used to explore wounds or body cavities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"From Estella she looked at me, with a searching glance that seemed to pry into my heart and probe its wounds."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've only been on this job a couple of days, so I couldn't probe to any meaningful depth." He heaved a deep sigh."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You know, of course, that you're undergoing psychic probe."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # descent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properties attributable to your ancestry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Richard will be true, not that alone But all the whole inheritance I give That doth belong unto the house of York, From whence you spring by lineal descent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First note that he is near you in descent, And should you fall, he is the next will mount."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was ’t you that revelled in our parliament And made a preachment of your high descent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properties attributable to your ancestry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Richard will be true, not that alone But all the whole inheritance I give That doth belong unto the house of York, From whence you spring by lineal descent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First note that he is near you in descent, And should you fall, he is the next will mount."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was ’t you that revelled in our parliament And made a preachment of your high descent?"*

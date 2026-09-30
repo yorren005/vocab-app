@@ -5,13 +5,6 @@ status: unread
 ---
 # biotin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline growth vitamin C10H16N2O3S of the vitamin B complex found especially in yeast, liver, and egg yolk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline growth vitamin C10H16N2O3S of the vitamin B complex found especially in yeast, liver, and egg yolk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotin designates a colorless crystalline growth vitamin c10h16n2o3s of the vitamin b complex found especially in yeast, liver, and egg yolk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline growth vitamin C10H16N2O3S of the vitamin B complex found especially in yeast, liver, and egg yolk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline growth vitamin C10H16N2O3S of the vitamin B complex found especially in yeast, liver, and egg yolk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotin designates a colorless crystalline growth vitamin c10h16n2o3s of the vitamin b complex found especially in yeast, liver, and egg yolk."*

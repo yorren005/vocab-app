@@ -5,13 +5,6 @@ status: unread
 ---
 # sciaenidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm-water marine fishes including the drums and grunts and croakers and sea trout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-water marine fishes including the drums and grunts and croakers and sea trout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaenidae designates warm-water marine fishes including the drums and grunts and croakers and sea trout."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm-water marine fishes including the drums and grunts and croakers and sea trout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-water marine fishes including the drums and grunts and croakers and sea trout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaenidae designates warm-water marine fishes including the drums and grunts and croakers and sea trout."*

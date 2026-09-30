@@ -5,13 +5,6 @@ status: unread
 ---
 # audiometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to measure the sensitivity of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used to measure the sensitivity of hearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiometer designates an instrument used to measure the sensitivity of hearing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to measure the sensitivity of hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used to measure the sensitivity of hearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiometer designates an instrument used to measure the sensitivity of hearing."*

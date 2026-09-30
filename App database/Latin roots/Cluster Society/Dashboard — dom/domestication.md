@@ -5,13 +5,6 @@ status: unread
 ---
 # domestication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adaptation to intimate association with human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of having been domesticated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Animals that are fit for domestication are a necessary intermediate agent by aid of which man can appropriate and turn to his use the fertile qualities of the soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adaptation to intimate association with human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of having been domesticated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Animals that are fit for domestication are a necessary intermediate agent by aid of which man can appropriate and turn to his use the fertile qualities of the soil."*

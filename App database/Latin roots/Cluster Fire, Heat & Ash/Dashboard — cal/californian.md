@@ -5,15 +5,6 @@ status: unread
 ---
 # californian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of california or its inhabitants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Let us go the rush and racket, On the Californian packet."*
-> - 📜 **Effie Afton (*Eventide*):** *"Here we go, amid the racket, On the Californian packet!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Ho, we go amid the racket, On the Californian packet!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of california.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of california or its inhabitants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Let us go the rush and racket, On the Californian packet."*
+> - 📜 **Effie Afton (*Eventide*):** *"Here we go, amid the racket, On the Californian packet!"*
+> - 📜 **Effie Afton (*Eventide*):** *"Ho, we go amid the racket, On the Californian packet!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # underfoot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the way and hindering progress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Katherine, that cap of yours becomes you not: Off with that bauble, throw it underfoot. [_Katherina pulls off her cap and throws it down._] WIDOW."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Better stones underfoot than padded dust: and Lawrence struck uphill swiftly, glad to escape from the traffic of the London road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under the feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the way and hindering progress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Katherine, that cap of yours becomes you not: Off with that bauble, throw it underfoot. [_Katherina pulls off her cap and throws it down._] WIDOW."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Better stones underfoot than padded dust: and Lawrence struck uphill swiftly, glad to escape from the traffic of the London road."*

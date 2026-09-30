@@ -5,15 +5,6 @@ status: unread
 ---
 # barley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grain of barley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cultivated since prehistoric times; grown for forage and grain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I’ll tell you, sometime we go to barley-break, we of the blessed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The turkey in the poultry-yard, always troubled with a class-grievance (probably Christmas), may be reminiscent of that summer morning wrongfully taken from him when he got into the lane among the felled trees, where there was a barn and barley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grain of barley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cultivated since prehistoric times; grown for forage and grain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I’ll tell you, sometime we go to barley-break, we of the blessed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The turkey in the poultry-yard, always troubled with a class-grievance (probably Christmas), may be reminiscent of that summer morning wrongfully taken from him when he got into the lane among the felled trees, where there was a barn and barley."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paleencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleencephalon designates the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleencephalon designates the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex."*

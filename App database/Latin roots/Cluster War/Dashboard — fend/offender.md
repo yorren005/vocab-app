@@ -5,15 +5,6 @@ status: unread
 ---
 # offender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who transgresses moral or civil law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transgresses moral or civil law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him approach A stranger, no offender; and inform him So ’tis our will he should."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bind the offender, And take him from our presence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet must not we put the strong law on him: He’s lov’d of the distracted multitude, Who like not in their judgement, but their eyes; And where ’tis so, th’offender’s scourge is weigh’d, But never the offence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who transgresses moral or civil law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transgresses moral or civil law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him approach A stranger, no offender; and inform him So ’tis our will he should."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bind the offender, And take him from our presence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet must not we put the strong law on him: He’s lov’d of the distracted multitude, Who like not in their judgement, but their eyes; And where ’tis so, th’offender’s scourge is weigh’d, But never the offence."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inherent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing as an essential constituent or characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the nature of something though not readily apparent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not do’t, Lest I surcease to honour mine own truth And, by my body’s action, teach my mind A most inherent baseness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When women are in a freakish mood, their usual intuition, either from carelessness or inherent defect, seemingly fails to teach them this, and hence it was that Bathsheba was fated to be astonished to-day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So the two forces were at work here as everywhere, the inherent will to enjoy, and the circumstantial will against enjoyment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing as an essential constituent or characteristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the nature of something though not readily apparent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not do’t, Lest I surcease to honour mine own truth And, by my body’s action, teach my mind A most inherent baseness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When women are in a freakish mood, their usual intuition, either from carelessness or inherent defect, seemingly fails to teach them this, and hence it was that Bathsheba was fated to be astonished to-day."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So the two forces were at work here as everywhere, the inherent will to enjoy, and the circumstantial will against enjoyment."*

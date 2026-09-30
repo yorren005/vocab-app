@@ -5,14 +5,6 @@ status: unread
 ---
 # motorcycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with two wheels and a strong frame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Here comes a dispatch rider." The man on the motorcycle dashed up, saluted."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"TOM SWIFT IN THE LAND OF WONDERS or The Underground Search for the Idol of Gold BY VICTOR APPLETON AUTHOR OF "TOM SWIFT AND HIS MOTORCYCLE," "TOM SWIFT AND HIS BIG TUNNEL," "THE MOVING PICTURE BOYS SERIES," "THE MOTION PICTURE CHUMS SERIES," ETC."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with two wheels and a strong frame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Here comes a dispatch rider." The man on the motorcycle dashed up, saluted."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"TOM SWIFT IN THE LAND OF WONDERS or The Underground Search for the Idol of Gold BY VICTOR APPLETON AUTHOR OF "TOM SWIFT AND HIS MOTORCYCLE," "TOM SWIFT AND HIS BIG TUNNEL," "THE MOVING PICTURE BOYS SERIES," "THE MOTION PICTURE CHUMS SERIES," ETC."*

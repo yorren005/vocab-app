@@ -5,13 +5,6 @@ status: unread
 ---
 # uncrossed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a crossed to an uncrossed position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a check) not crossed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It aroused him; he uncrossed his legs, sat erect, turned to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a crossed to an uncrossed position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a check) not crossed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It aroused him; he uncrossed his legs, sat erect, turned to me."*

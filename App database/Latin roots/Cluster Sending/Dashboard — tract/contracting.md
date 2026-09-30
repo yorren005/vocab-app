@@ -5,15 +5,6 @@ status: unread
 ---
 # contracting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming infected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a contractual arrangement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So disguise shall, by th’ disguised, Pay with falsehood false exacting, And perform an old contracting. [_Exit._] ACT IV SCENE I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Closed in by night with broad screens, and illumined only in that part, the light of the drawing-room seems gradually contracting and dwindling until it shall be no more."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Dodson is the man who is laying down and contracting for the line across the river, Evelina," answered Cousin James without taking any notice whatever of Uncle Peter's squelching of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming infected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a contractual arrangement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So disguise shall, by th’ disguised, Pay with falsehood false exacting, And perform an old contracting. [_Exit._] ACT IV SCENE I."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Closed in by night with broad screens, and illumined only in that part, the light of the drawing-room seems gradually contracting and dwindling until it shall be no more."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Dodson is the man who is laying down and contracting for the line across the river, Evelina," answered Cousin James without taking any notice whatever of Uncle Peter's squelching of me."*

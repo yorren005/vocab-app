@@ -5,13 +5,6 @@ status: unread
 ---
 # large-minded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or characterized by broad-mindedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or characterized by broad-mindedness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-minded designates showing or characterized by broad-mindedness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or characterized by broad-mindedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or characterized by broad-mindedness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-minded designates showing or characterized by broad-mindedness."*

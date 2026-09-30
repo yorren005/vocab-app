@@ -5,15 +5,6 @@ status: unread
 ---
 # photographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to photography or obtained by using photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing people or nature with the exactness and fidelity of a photograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had an excellent memory, photographic and phonographic, a gift that wise men covet for themselves but deprecate in their friends."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Several parties have photographic copies."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Or what is often better still, a picture of the wire can be projected through the microscope on to a screen or on to a moving photographic plate or strip of photographic paper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to photography or obtained by using photography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing people or nature with the exactness and fidelity of a photograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He had an excellent memory, photographic and phonographic, a gift that wise men covet for themselves but deprecate in their friends."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Several parties have photographic copies."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Or what is often better still, a picture of the wire can be projected through the microscope on to a screen or on to a moving photographic plate or strip of photographic paper."*

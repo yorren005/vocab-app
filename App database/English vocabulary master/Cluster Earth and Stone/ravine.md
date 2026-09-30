@@ -5,20 +5,6 @@ status: unread
 ---
 # ravine
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (archaic) alternative form of raven (“rapine, rapacity; prey, plunder”)
-> 2. **Nuance / Usage**: Deep narrow valley or gorge in the earth's surface worn by running water
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the ravine withstood the storm*), direct object (*cleaved the ravine*), or prepositional anchor (*amidst the ravine*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"they put the hounds into a ravine thickly overgrown with young trees."*
-> - 📜 **Robert Barr (writer) (*Lord Stranleigh Abroad*):** *"He fell into a reverie, a most dangerous state of mind for a chauffeur, since a fall into reverie on the part of a driver may mean a fall into a ravine on the part of the machine."*
-> - 📜 **Thomas Harlan (*The Shadow of Ararat: Book One of 'The Oath of Empire'*):** *"Thirty feet below her, where the Persians were crashing through the brush, the streambed kinked to the left side of the ravine and ran under an enormous thorn tree with a thick base."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (archaic) alternative form of raven (“rapine, rapacity; prey, plunder”)
+> 2. **Nuance / Usage**: Deep narrow valley or gorge in the earth's surface worn by running water
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the ravine withstood the storm*), direct object (*cleaved the ravine*), or prepositional anchor (*amidst the ravine*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"they put the hounds into a ravine thickly overgrown with young trees."*
+> - 📜 **Robert Barr (writer) (*Lord Stranleigh Abroad*):** *"He fell into a reverie, a most dangerous state of mind for a chauffeur, since a fall into reverie on the part of a driver may mean a fall into a ravine on the part of the machine."*
+> - 📜 **Thomas Harlan (*The Shadow of Ararat: Book One of 'The Oath of Empire'*):** *"Thirty feet below her, where the Persians were crashing through the brush, the streambed kinked to the left side of the ravine and ran under an enormous thorn tree with a thick base."*

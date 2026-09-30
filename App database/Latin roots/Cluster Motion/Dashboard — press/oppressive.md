@@ -5,15 +5,6 @@ status: unread
 ---
 # oppressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weighing heavily on the senses or spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by unjust severity or arbitrary behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby should be ill at ease too, for he always is so, more or less, under the oppressive influence of the secret that is upon him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is an oppressive blank until Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is all blank, blank as the darkness above and below, while he goes up the great staircase again, blank as the oppressive silence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weighing heavily on the senses or spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by unjust severity or arbitrary behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby should be ill at ease too, for he always is so, more or less, under the oppressive influence of the secret that is upon him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is an oppressive blank until Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it is all blank, blank as the darkness above and below, while he goes up the great staircase again, blank as the oppressive silence."*

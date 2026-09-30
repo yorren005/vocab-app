@@ -5,15 +5,6 @@ status: unread
 ---
 # formosa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in southeastern asia 100 miles off the coast of mainland china in the south china sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in southeastern asia 100 miles off the coast of mainland china in the south china sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, from the South and West the Pequod was drawing nigh to Formosa and the Bashee Isles, between which lies one of the tropical outlets from the China waters into the Pacific."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, from the South and West the Pequod was drawing nigh to Formosa and the Bashee Isles, between which lies one of the tropical outlets from the China waters into the Pacific."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is said that when smallpox is raging the savages of Formosa will drive the demon of disease into a sow, then cut off the animal's ears and burn them or it, believing that in this way they rid themselves of the plague."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in southeastern asia 100 miles off the coast of mainland china in the south china sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in southeastern asia 100 miles off the coast of mainland china in the south china sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, from the South and West the Pequod was drawing nigh to Formosa and the Bashee Isles, between which lies one of the tropical outlets from the China waters into the Pacific."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, from the South and West the Pequod was drawing nigh to Formosa and the Bashee Isles, between which lies one of the tropical outlets from the China waters into the Pacific."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is said that when smallpox is raging the savages of Formosa will drive the demon of disease into a sow, then cut off the animal's ears and burn them or it, believing that in this way they rid themselves of the plague."*

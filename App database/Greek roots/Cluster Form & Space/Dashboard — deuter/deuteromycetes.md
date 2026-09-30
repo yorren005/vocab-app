@@ -5,13 +5,6 @@ status: unread
 ---
 # deuteromycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form class; coextensive with subdivision deuteromycota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form class; coextensive with subdivision deuteromycota.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteromycetes designates form class; coextensive with subdivision deuteromycota."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form class; coextensive with subdivision deuteromycota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form class; coextensive with subdivision deuteromycota.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteromycetes designates form class; coextensive with subdivision deuteromycota."*

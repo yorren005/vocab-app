@@ -5,15 +5,6 @@ status: unread
 ---
 # halter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rope or canvas headgear for a horse, with a rope for leading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rope that is used by a hangman to execute persons who have been condemned to death by hanging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope I shall as soon be strangled with a halter as another."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A fox when one has caught her, And such a daughter, Should sure to the slaughter, If my cap would buy a halter; So the fool follows after. [_Exit._] GONERIL."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A halter gratis, nothing else, for God’s sake!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rope or canvas headgear for a horse, with a rope for leading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rope that is used by a hangman to execute persons who have been condemned to death by hanging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope I shall as soon be strangled with a halter as another."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A fox when one has caught her, And such a daughter, Should sure to the slaughter, If my cap would buy a halter; So the fool follows after. [_Exit._] GONERIL."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A halter gratis, nothing else, for God’s sake!"*

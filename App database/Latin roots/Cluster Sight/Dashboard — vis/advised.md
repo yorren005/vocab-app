@@ -5,15 +5,6 @@ status: unread
 ---
 # advised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give advice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, I am advised what I say, Neither disturb’d with the effect of wine, Nor heady-rash, provok’d with raging ire, Albeit my wrongs might make one wiser mad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am advised to give her music a mornings; they say it will penetrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good cousin, be advised, stir not tonight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give advice to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, I am advised what I say, Neither disturb’d with the effect of wine, Nor heady-rash, provok’d with raging ire, Albeit my wrongs might make one wiser mad."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am advised to give her music a mornings; they say it will penetrate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good cousin, be advised, stir not tonight."*

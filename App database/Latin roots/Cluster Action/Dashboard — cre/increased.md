@@ -5,15 +5,6 @@ status: unread
 ---
 # increased
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bigger or greater in amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make bigger or more.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our speedy arrival at our destination, before I had time to recover myself, increased my confusion, and I never shall forget the uncertain and the unreal air of everything at Greenleaf (Miss Donny’s house) that afternoon!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby after contemplating his increased confusion with a severe and sinister smile, “if you would come home with me; I think you may be safer there, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps there is a rather increased sense of power upon him as he loosely grasps one of his veinous wrists with his other hand and holding it behind his back walks noiselessly up and down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bigger or greater in amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make bigger or more.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our speedy arrival at our destination, before I had time to recover myself, increased my confusion, and I never shall forget the uncertain and the unreal air of everything at Greenleaf (Miss Donny’s house) that afternoon!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby after contemplating his increased confusion with a severe and sinister smile, “if you would come home with me; I think you may be safer there, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps there is a rather increased sense of power upon him as he loosely grasps one of his veinous wrists with his other hand and holding it behind his back walks noiselessly up and down."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # colonoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of the colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonography —called also virtual colonography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonoscopy designates endoscopic examination of the colon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of the colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonography —called also virtual colonography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonoscopy designates endoscopic examination of the colon."*

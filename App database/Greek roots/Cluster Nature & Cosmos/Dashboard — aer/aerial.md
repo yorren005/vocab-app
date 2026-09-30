@@ -5,15 +5,6 @@ status: unread
 ---
 # aerial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring in the air or atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or growing in the air rather than in the ground or in water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As well to see the vessel that’s come in As to throw out our eyes for brave Othello, Even till we make the main and the aerial blue An indistinct regard."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel turned, and steadied her on her aerial perch by holding her arm."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In due time a small stream began to trickle through the seventy feet of aerial space between its mouth and the ground, which the water-drops smote like duckshot in their accelerated velocity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring in the air or atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or growing in the air rather than in the ground or in water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As well to see the vessel that’s come in As to throw out our eyes for brave Othello, Even till we make the main and the aerial blue An indistinct regard."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel turned, and steadied her on her aerial perch by holding her arm."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In due time a small stream began to trickle through the seventy feet of aerial space between its mouth and the ground, which the water-drops smote like duckshot in their accelerated velocity."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # bareback
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding without a saddle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a saddle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"A bareback rider in a circus never had such work as this."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"You want to keep a bright lookout for a young fellow in his stocking feet, riding a bareback roan colt," said the Emergency man, in conclusion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding without a saddle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a saddle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"A bareback rider in a circus never had such work as this."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"You want to keep a bright lookout for a young fellow in his stocking feet, riding a bareback roan colt," said the Emergency man, in conclusion."*

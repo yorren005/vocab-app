@@ -5,13 +5,6 @@ status: unread
 ---
 # abarticulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislocation of a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dislocation of a joint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abarticulation designates dislocation of a joint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislocation of a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dislocation of a joint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abarticulation designates dislocation of a joint."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # liberated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant freedom to; free from confinement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The usual reservoirs were filled with the newly-liberated water, and the _Nautilus_ soon descended."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You have given orders that Arthur should be liberated, have you not, dad?” she asked."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble liberated Susey, and all went shouting off together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant freedom to; free from confinement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The usual reservoirs were filled with the newly-liberated water, and the _Nautilus_ soon descended."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You have given orders that Arthur should be liberated, have you not, dad?” she asked."*
+> - 📜 **Effie Afton (*Eventide*):** *"Pimble liberated Susey, and all went shouting off together."*

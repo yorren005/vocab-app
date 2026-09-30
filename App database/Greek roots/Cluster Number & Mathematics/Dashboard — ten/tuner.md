@@ -5,15 +5,6 @@ status: unread
 ---
 # tuner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tunes pianos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic receiver that detects and demodulates and amplifies transmitted signals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He looked towards the saloon door. —I see you have moved the piano. —The tuner was in today, miss Douce replied, tuning it for the smoking concert and I never heard such an exquisite player. —Is that a fact? —Didn’t he, miss Kennedy?"*
-> - 📜 **James Joyce (*Ulysses*):** *"That was a tuningfork the tuner had that he forgot that he now struck."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lidwell asked. —O, that must be the tuner, Lydia said to Simonlionel first I saw, forgot it when he was here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tunes pianos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic receiver that detects and demodulates and amplifies transmitted signals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He looked towards the saloon door. —I see you have moved the piano. —The tuner was in today, miss Douce replied, tuning it for the smoking concert and I never heard such an exquisite player. —Is that a fact? —Didn’t he, miss Kennedy?"*
+> - 📜 **James Joyce (*Ulysses*):** *"That was a tuningfork the tuner had that he forgot that he now struck."*
+> - 📜 **James Joyce (*Ulysses*):** *"Lidwell asked. —O, that must be the tuner, Lydia said to Simonlionel first I saw, forgot it when he was here."*

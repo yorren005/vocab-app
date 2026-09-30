@@ -5,15 +5,6 @@ status: unread
 ---
 # reprimand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or expression of criticism and censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rebuke formally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But—well, goodbye!” Her defender, whom she dreaded more than her assailant, having reluctantly disappeared, the farmer continued his reprimand, which Tess took with the greatest coolness, that sort of attack being independent of sex."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Missis is awake,” said she; “I have told her you are here: come and let us see if she will know you.” I did not need to be guided to the well-known room, to which I had so often been summoned for chastisement or reprimand in former days."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris’s sharp reprimand to Fanny; “I was out above an hour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or expression of criticism and censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rebuke formally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But—well, goodbye!” Her defender, whom she dreaded more than her assailant, having reluctantly disappeared, the farmer continued his reprimand, which Tess took with the greatest coolness, that sort of attack being independent of sex."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Missis is awake,” said she; “I have told her you are here: come and let us see if she will know you.” I did not need to be guided to the well-known room, to which I had so often been summoned for chastisement or reprimand in former days."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris’s sharp reprimand to Fanny; “I was out above an hour."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dominion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominance or power through legal authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region marked off for administrative or other purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good news, gods! [_Reads._] _Justice and your father’s wrath, should he take me in his dominion, could not be so cruel to me as you, O the dearest of creatures, would even renew me with your eyes."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s few sae bonie, nane sae guid, In a’ King George’ dominion; If ye should doubt the truth o’ this— It’s Bessy’s ain opinion!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thus ev’ry kind their pleasure find, The savage and the tender; Some social join, and leagues combine, Some solitary wander: Avaunt, away! the cruel sway, Tyrannic man’s dominion; The sportsman’s joy, the murd’ring cry, The flutt’ring, gory pinion!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominance or power through legal authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region marked off for administrative or other purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good news, gods! [_Reads._] _Justice and your father’s wrath, should he take me in his dominion, could not be so cruel to me as you, O the dearest of creatures, would even renew me with your eyes."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s few sae bonie, nane sae guid, In a’ King George’ dominion; If ye should doubt the truth o’ this— It’s Bessy’s ain opinion!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thus ev’ry kind their pleasure find, The savage and the tender; Some social join, and leagues combine, Some solitary wander: Avaunt, away! the cruel sway, Tyrannic man’s dominion; The sportsman’s joy, the murd’ring cry, The flutt’ring, gory pinion!"*

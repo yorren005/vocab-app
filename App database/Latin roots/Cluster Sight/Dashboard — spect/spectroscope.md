@@ -5,15 +5,6 @@ status: unread
 ---
 # spectroscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for spectrographic analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument for spectrographic analysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"SPECTROSCOPE (THE), AND ITS WORK."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When a beam of light is analysed in the spectroscope the red rays are bent least and the blue rays most, so that the red rays fall at one end of the spectrum and the blue at the other."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such forms the essential principle of the spectroscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for spectrographic analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument for spectrographic analysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"SPECTROSCOPE (THE), AND ITS WORK."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When a beam of light is analysed in the spectroscope the red rays are bent least and the blue rays most, so that the red rays fall at one end of the spectrum and the blue at the other."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such forms the essential principle of the spectroscope."*

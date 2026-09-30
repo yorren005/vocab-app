@@ -5,13 +5,6 @@ status: unread
 ---
 # genome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordering of genes in a haploid set of chromosomes of a particular organism; the full dna sequence of an organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordering of genes in a haploid set of chromosomes of a particular organism; the full dna sequence of an organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genome designates the ordering of genes in a haploid set of chromosomes of a particular organism; the full dna sequence of an organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordering of genes in a haploid set of chromosomes of a particular organism; the full dna sequence of an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordering of genes in a haploid set of chromosomes of a particular organism; the full dna sequence of an organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genome designates the ordering of genes in a haploid set of chromosomes of a particular organism; the full dna sequence of an organism."*

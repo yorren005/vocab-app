@@ -5,15 +5,6 @@ status: unread
 ---
 # expressly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With specific intentions; for the express purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With specific intentions; for the express purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his claim, his threat’ning, and my message; Unless the Dauphin be in presence here, To whom expressly I bring greeting too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kill the poys and the luggage! ’Tis expressly against the law of arms. ’Tis as arrant a piece of knavery, mark you now, as can be offer’t; in your conscience, now, is it not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who dares cross ’em, Bearing the King’s will from his mouth expressly?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With specific intentions; for the express purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With specific intentions; for the express purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his claim, his threat’ning, and my message; Unless the Dauphin be in presence here, To whom expressly I bring greeting too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kill the poys and the luggage! ’Tis expressly against the law of arms. ’Tis as arrant a piece of knavery, mark you now, as can be offer’t; in your conscience, now, is it not?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who dares cross ’em, Bearing the King’s will from his mouth expressly?"*

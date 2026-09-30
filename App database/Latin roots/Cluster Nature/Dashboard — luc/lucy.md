@@ -5,15 +5,6 @@ status: unread
 ---
 # lucy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete skeleton of female found in eastern ethiopia in 1974.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomplete skeleton of female found in eastern ethiopia in 1974.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maine, Blois, Poictiers, and Tours, are won away, Long all of Somerset and his delay. [_Exit, with his soldiers._] LUCY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is Sir William Lucy, who with me Set from our o’er-match’d forces forth for aid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Sir William Lucy and a French Herald."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete skeleton of female found in eastern ethiopia in 1974.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomplete skeleton of female found in eastern ethiopia in 1974.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maine, Blois, Poictiers, and Tours, are won away, Long all of Somerset and his delay. [_Exit, with his soldiers._] LUCY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is Sir William Lucy, who with me Set from our o’er-match’d forces forth for aid."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Sir William Lucy and a French Herald."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # mislay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place (something) where one cannot find it again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I know how easy it is to mislay anything in a camp of this sort."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"I know they will!" His hands were busy with his garments all this time; turning them inside out, putting them on upside down, tearing them, mislaying them, making them parties to every kind of extravagance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place (something) where one cannot find it again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I know how easy it is to mislay anything in a camp of this sort."*
+> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"I know they will!" His hands were busy with his garments all this time; turning them inside out, putting them on upside down, tearing them, mislaying them, making them parties to every kind of extravagance."*

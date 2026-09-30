@@ -5,15 +5,6 @@ status: unread
 ---
 # increase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that is added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change resulting in an increase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loss of virginity is rational increase, and there was never virgin got till virginity was first lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within the year it will make itself two, which is a goodly increase, and the principal itself not much the worse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that is added.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change resulting in an increase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loss of virginity is rational increase, and there was never virgin got till virginity was first lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within the year it will make itself two, which is a goodly increase, and the principal itself not much the worse."*

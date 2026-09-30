@@ -5,13 +5,6 @@ status: unread
 ---
 # pandowdy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-dish apple dessert covered with a rich crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-dish apple dessert covered with a rich crust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandowdy designates deep-dish apple dessert covered with a rich crust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-dish apple dessert covered with a rich crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-dish apple dessert covered with a rich crust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandowdy designates deep-dish apple dessert covered with a rich crust."*

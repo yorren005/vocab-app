@@ -5,15 +5,6 @@ status: unread
 ---
 # decease
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of dying or departure from life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That cause, fair nephew, that imprison’d me And hath detain’d me all my flowering youth Within a loathsome dungeon, there to pine, Was cursed instrument of his decease."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me seemeth then it is no policy, Respecting what a rancorous mind he bears And his advantage following your decease, That he should come about your royal person Or be admitted to your Highness’ Council."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of dying or departure from life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That cause, fair nephew, that imprison’d me And hath detain’d me all my flowering youth Within a loathsome dungeon, there to pine, Was cursed instrument of his decease."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me seemeth then it is no policy, Respecting what a rancorous mind he bears And his advantage following your decease, That he should come about your royal person Or be admitted to your Highness’ Council."*

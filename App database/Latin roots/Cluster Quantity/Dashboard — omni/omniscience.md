@@ -5,15 +5,6 @@ status: unread
 ---
 # omniscience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being omniscient; having infinite knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being omniscient; having infinite knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"For my omniscience paid I toll In infinite remorse of soul."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And it is only what we are vividly conscious of that we can vividly imagine to be seen by Omniscience."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If 469:6 Life ever had a beginning, it would also have an ending. /Question/. - What is intelligence? /Answer/. - Intelligence is omniscience, omnipresence, 469:9 and omnipotence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being omniscient; having infinite knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being omniscient; having infinite knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"For my omniscience paid I toll In infinite remorse of soul."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And it is only what we are vividly conscious of that we can vividly imagine to be seen by Omniscience."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If 469:6 Life ever had a beginning, it would also have an ending. /Question/. - What is intelligence? /Answer/. - Intelligence is omniscience, omnipresence, 469:9 and omnipotence."*

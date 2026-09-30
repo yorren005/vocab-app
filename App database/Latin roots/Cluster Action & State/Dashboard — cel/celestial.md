@@ -5,15 +5,6 @@ status: unread
 ---
 # celestial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or inhabiting a divine heaven.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He came in thunder; his celestial breath Was sulphurous to smell; the holy eagle Stoop’d as to foot us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But virtue, as it never will be mov’d, Though lewdness court it in a shape of heaven; So lust, though to a radiant angel link’d, Will sate itself in a celestial bed And prey on garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, let me tell you whom you have condemn’d: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above, By inspiration of celestial grace, To work exceeding miracles on earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or inhabiting a divine heaven.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He came in thunder; his celestial breath Was sulphurous to smell; the holy eagle Stoop’d as to foot us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But virtue, as it never will be mov’d, Though lewdness court it in a shape of heaven; So lust, though to a radiant angel link’d, Will sate itself in a celestial bed And prey on garbage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, let me tell you whom you have condemn’d: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above, By inspiration of celestial grace, To work exceeding miracles on earth."*

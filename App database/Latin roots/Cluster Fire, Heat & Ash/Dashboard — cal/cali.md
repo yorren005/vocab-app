@@ -5,13 +5,6 @@ status: unread
 ---
 # cali
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: City in southwestern colombia in a rich agricultural area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwestern colombia in a rich agricultural area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"All for Cali- Fornia in search of gold!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: City in southwestern colombia in a rich agricultural area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwestern colombia in a rich agricultural area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"All for Cali- Fornia in search of gold!"*

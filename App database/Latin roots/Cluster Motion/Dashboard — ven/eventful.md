@@ -5,15 +5,6 @@ status: unread
 ---
 # eventful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of events or incidents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having important issues or results.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last scene of all, That ends this strange eventful history, Is second childishness and mere oblivion, Sans teeth, sans eyes, sans taste, sans everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is no doubt that her ladyship was on the spot at the eventful period,” says Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Beyond this, there is little about Berwick to tell of its hoary antiquity and its eventful history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of events or incidents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having important issues or results.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last scene of all, That ends this strange eventful history, Is second childishness and mere oblivion, Sans teeth, sans eyes, sans taste, sans everything."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is no doubt that her ladyship was on the spot at the eventful period,” says Mr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Beyond this, there is little about Berwick to tell of its hoary antiquity and its eventful history."*

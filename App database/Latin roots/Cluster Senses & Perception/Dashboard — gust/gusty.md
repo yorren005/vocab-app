@@ -5,15 +5,6 @@ status: unread
 ---
 # gusty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blowing in puffs or short intermittent blasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blowing in puffs or short intermittent blasts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s windows are wide open, and the room is lofty, gusty, and gloomy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On sleeping, I continued in dreams the idea of a dark and gusty night."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Whether the summer kindly warms, Wi’ life an light; Or winter howls, in gusty storms, The lang, dark night!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blowing in puffs or short intermittent blasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blowing in puffs or short intermittent blasts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s windows are wide open, and the room is lofty, gusty, and gloomy."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On sleeping, I continued in dreams the idea of a dark and gusty night."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Whether the summer kindly warms, Wi’ life an light; Or winter howls, in gusty storms, The lang, dark night!"*

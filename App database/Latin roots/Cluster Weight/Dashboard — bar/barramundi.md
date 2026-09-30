@@ -5,13 +5,6 @@ status: unread
 ---
 # barramundi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A species of large perch noted for its sporting and eating qualities; lives in marine, estuary, and freshwater habitats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A species of large perch noted for its sporting and eating qualities; lives in marine, estuary, and freshwater habitats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The harbours swarm with edible fish of all kinds, the king-fish, sea salmon, barramundi, cod, yellow tail, and a host of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A species of large perch noted for its sporting and eating qualities; lives in marine, estuary, and freshwater habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A species of large perch noted for its sporting and eating qualities; lives in marine, estuary, and freshwater habitats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The harbours swarm with edible fish of all kinds, the king-fish, sea salmon, barramundi, cod, yellow tail, and a host of others."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # marshland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-lying wet land with grassy vegetation; usually is a transition zone between land and water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-lying wet land with grassy vegetation; usually is a transition zone between land and water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus in Lincolnshire, when the cattle plague was so prevalent in 1866, there was, I believe, not a single cowshed in Marshland but had its wicken cross over the door; and other charms more powerful than this were in some cases resorted to."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Heanley, "The Vikings: traces of their Folklore in Marshland," a paper read before the Viking Club, London, and printed in its _Saga-Book_, vol. iii."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There are still great areas of fens, swamps, and marshlands, such as those on the Jersey coast in this country, which with moderate effort could be reclaimed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-lying wet land with grassy vegetation; usually is a transition zone between land and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-lying wet land with grassy vegetation; usually is a transition zone between land and water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus in Lincolnshire, when the cattle plague was so prevalent in 1866, there was, I believe, not a single cowshed in Marshland but had its wicken cross over the door; and other charms more powerful than this were in some cases resorted to."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Heanley, "The Vikings: traces of their Folklore in Marshland," a paper read before the Viking Club, London, and printed in its _Saga-Book_, vol. iii."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There are still great areas of fens, swamps, and marshlands, such as those on the Jersey coast in this country, which with moderate effort could be reclaimed."*

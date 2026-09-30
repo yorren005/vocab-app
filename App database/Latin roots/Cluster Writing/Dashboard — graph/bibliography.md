@@ -5,15 +5,6 @@ status: unread
 ---
 # bibliography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"I, p. 102.] [Footnote 248: One of the most exhaustive monographs on the subject is that of Felix Melchior (Cf. bibliography, _infra_ p. 90), to whom I am indebted for several of the parallels suggested.] [Footnote 249: Weimar Ausg."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Furnivall’s ‘Bibliography of Rober Browning’ (‘Browning Soc."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Furnivall’s ‘Bibliography of Robert Browning’, contained in ‘The Browning Society’s Papers’, Part I., with additions in Part II.) 1833."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"I, p. 102.] [Footnote 248: One of the most exhaustive monographs on the subject is that of Felix Melchior (Cf. bibliography, _infra_ p. 90), to whom I am indebted for several of the parallels suggested.] [Footnote 249: Weimar Ausg."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Furnivall’s ‘Bibliography of Rober Browning’ (‘Browning Soc."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Furnivall’s ‘Bibliography of Robert Browning’, contained in ‘The Browning Society’s Papers’, Part I., with additions in Part II.) 1833."*

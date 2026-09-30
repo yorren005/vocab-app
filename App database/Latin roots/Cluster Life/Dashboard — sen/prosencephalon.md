@@ -5,13 +5,6 @@ status: unread
 ---
 # prosencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosencephalon designates the anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosencephalon designates the anterior portion of the brain; the part of the brain that develops from the anterior part of the neural tube."*

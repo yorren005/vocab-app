@@ -5,13 +5,6 @@ status: unread
 ---
 # cachexy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cachexy designates any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cachexy designates any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease."*

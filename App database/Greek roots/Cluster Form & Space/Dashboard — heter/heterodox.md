@@ -5,15 +5,6 @@ status: unread
 ---
 # heterodox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to or different from an acknowledged standard, a traditional form, or an established religion : unorthodox, unconventional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding unorthodox opinions or doctrines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then Clare, thrown by sheer misery into one of the demoniacal moods in which a man does despite to his true principles, called her close to him, and fiendishly whispered in her ear the most heterodox ideas he could think of."*
-> - 📜 **James Joyce (*Ulysses*):** *"Both indurated by early domestic training and an inherited tenacity of heterodox resistance professed their disbelief in many orthodox religious, national, social and ethical doctrines."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Dean’s question, which struck me as something heterodox."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to or different from an acknowledged standard, a traditional form, or an established religion : unorthodox, unconventional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding unorthodox opinions or doctrines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then Clare, thrown by sheer misery into one of the demoniacal moods in which a man does despite to his true principles, called her close to him, and fiendishly whispered in her ear the most heterodox ideas he could think of."*
+> - 📜 **James Joyce (*Ulysses*):** *"Both indurated by early domestic training and an inherited tenacity of heterodox resistance professed their disbelief in many orthodox religious, national, social and ethical doctrines."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Dean’s question, which struck me as something heterodox."*

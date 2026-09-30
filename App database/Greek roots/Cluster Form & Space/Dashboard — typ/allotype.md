@@ -5,13 +5,6 @@ status: unread
 ---
 # allotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloantigen that is part of a plasma protein (such as an antibody).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alloantigen that is part of a plasma protein (such as an antibody).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allotype designates an alloantigen that is part of a plasma protein (such as an antibody)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloantigen that is part of a plasma protein (such as an antibody).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alloantigen that is part of a plasma protein (such as an antibody).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allotype designates an alloantigen that is part of a plasma protein (such as an antibody)."*

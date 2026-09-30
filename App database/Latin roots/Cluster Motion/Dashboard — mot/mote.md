@@ -5,15 +5,6 @@ status: unread
 ---
 # mote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (nontechnical usage) a tiny piece of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (nontechnical usage) a tiny piece of anything.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mote it is to trouble the mind’s eye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, that there were but a mote in yours, A grain, a dust, a gnat, a wandering hair, Any annoyance in that precious sense!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You found his mote, the King your mote did see; But I a beam do find in each of three."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (nontechnical usage) a tiny piece of anything.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (nontechnical usage) a tiny piece of anything.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mote it is to trouble the mind’s eye."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, that there were but a mote in yours, A grain, a dust, a gnat, a wandering hair, Any annoyance in that precious sense!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You found his mote, the King your mote did see; But I a beam do find in each of three."*

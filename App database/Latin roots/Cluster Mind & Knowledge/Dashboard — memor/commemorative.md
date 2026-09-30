@@ -5,15 +5,6 @@ status: unread
 ---
 # commemorative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An object (such as a coin or postage stamp) made to mark an event or honor a person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended as a commemoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quartered in this dingy hatchment commemorative of Symond are the legal bearings of Mr."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Then and there the creek received its name, "Waukarusa." We procured a remarkable sketch, in the well known Indian style of high art, commemorative of this event."*
-> - 📜 **James Joyce (*Ulysses*):** *"That the house in which he was born be ornamented with a commemorative tablet and that the thoroughfare hitherto known as Cow Parlour off Cork street be henceforth designated Boulevard Bloom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object (such as a coin or postage stamp) made to mark an event or honor a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended as a commemoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quartered in this dingy hatchment commemorative of Symond are the legal bearings of Mr."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Then and there the creek received its name, "Waukarusa." We procured a remarkable sketch, in the well known Indian style of high art, commemorative of this event."*
+> - 📜 **James Joyce (*Ulysses*):** *"That the house in which he was born be ornamented with a commemorative tablet and that the thoroughfare hitherto known as Cow Parlour off Cork street be henceforth designated Boulevard Bloom."*

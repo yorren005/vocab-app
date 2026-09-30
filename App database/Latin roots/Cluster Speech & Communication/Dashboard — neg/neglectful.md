@@ -5,15 +5,6 @@ status: unread
 ---
 # neglectful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing due care or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing in what duty requires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had not been neglectful of the adjuration."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He who had believed in her and argued on her side when all the rest of the world was against her, had at last like the others become weary and neglectful of the old cause, and was leaving her to fight her battles alone."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have been very wrong and neglectful in leaving everything to be done by him!” The dim light in the barn grew dimmer, and they could see to work no longer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing due care or attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing in what duty requires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had not been neglectful of the adjuration."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He who had believed in her and argued on her side when all the rest of the world was against her, had at last like the others become weary and neglectful of the old cause, and was leaving her to fight her battles alone."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have been very wrong and neglectful in leaving everything to be done by him!” The dim light in the barn grew dimmer, and they could see to work no longer."*

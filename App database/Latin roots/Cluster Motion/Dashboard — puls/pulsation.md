@@ -5,15 +5,6 @@ status: unread
 ---
 # pulsation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A periodically recurring phenomenon that alternately increases and decreases some quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the strong feelings which had been scattered over her existence since she knew what feeling was, seemed gathered together into one pulsation now."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s face and neck reflected the same warmth, which each gem turned into an Aldebaran or a Sirius—a constellation of white, red, and green flashes, that interchanged their hues with her every pulsation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A periodically recurring phenomenon that alternately increases and decreases some quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the strong feelings which had been scattered over her existence since she knew what feeling was, seemed gathered together into one pulsation now."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s face and neck reflected the same warmth, which each gem turned into an Aldebaran or a Sirius—a constellation of white, red, and green flashes, that interchanged their hues with her every pulsation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # halakah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talmudic literature that deals with law and with the interpretation of the laws on the hebrew scriptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talmudic literature that deals with law and with the interpretation of the laws on the hebrew scriptures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halakah designates talmudic literature that deals with law and with the interpretation of the laws on the hebrew scriptures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talmudic literature that deals with law and with the interpretation of the laws on the hebrew scriptures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talmudic literature that deals with law and with the interpretation of the laws on the hebrew scriptures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halakah designates talmudic literature that deals with law and with the interpretation of the laws on the hebrew scriptures."*

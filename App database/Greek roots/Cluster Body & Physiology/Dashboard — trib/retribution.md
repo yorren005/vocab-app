@@ -5,15 +5,6 @@ status: unread
 ---
 # retribution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A justly deserved penalty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of correcting for your wrongdoing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is a just retribution to me to find the place so empty and forlorn."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One may, indeed, admit the possibility of a retribution lurking in the present catastrophe."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And if he turned to God there seemed to be no answer but the pressure of retribution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A justly deserved penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of correcting for your wrongdoing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is a just retribution to me to find the place so empty and forlorn."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One may, indeed, admit the possibility of a retribution lurking in the present catastrophe."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And if he turned to God there seemed to be no answer but the pressure of retribution."*

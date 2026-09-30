@@ -5,13 +5,6 @@ status: unread
 ---
 # carnivore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrestrial or aquatic flesh-eating mammal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any animal that feeds on flesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was I broke in the bucking broncho Ajax with my patent spiked saddle for carnivores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrestrial or aquatic flesh-eating mammal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any animal that feeds on flesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It was I broke in the bucking broncho Ajax with my patent spiked saddle for carnivores."*

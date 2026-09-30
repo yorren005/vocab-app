@@ -5,13 +5,6 @@ status: unread
 ---
 # lignify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into wood or cause to become woody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into wood or cause to become woody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lignify designates convert into wood or cause to become woody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into wood or cause to become woody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into wood or cause to become woody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lignify designates convert into wood or cause to become woody."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ophitic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophitic designates having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophitic designates having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite."*

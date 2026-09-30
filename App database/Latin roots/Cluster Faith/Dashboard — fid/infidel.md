@@ -5,15 +5,6 @@ status: unread
 ---
 # infidel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not acknowledge your god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a pagan rascal is this, an infidel!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, infidel, I have you on the hip."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What’s good enough for him is good enough for me.” “Does he know that you are as big an infidel as he?” “No—I never told him—if I am an infidel.” “Well—you are better off to-day that I am, Tess, after all!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not acknowledge your god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a pagan rascal is this, an infidel!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, infidel, I have you on the hip."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What’s good enough for him is good enough for me.” “Does he know that you are as big an infidel as he?” “No—I never told him—if I am an infidel.” “Well—you are better off to-day that I am, Tess, after all!"*

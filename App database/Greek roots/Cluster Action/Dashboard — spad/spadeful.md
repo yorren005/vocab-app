@@ -5,14 +5,6 @@ status: unread
 ---
 # spadeful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity a shovel can hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity a shovel can hold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Several battalions of soldiers, in their shirt sleeves despite the cold wind, swarmed in these earthworks like a host of white ants; spadefuls of red clay were continually being thrown up from behind the bank by unseen hands."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That shoulder rose and fell rhythmically and convulsively, but spadefuls of earth were already being thrown over the whole body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity a shovel can hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity a shovel can hold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Several battalions of soldiers, in their shirt sleeves despite the cold wind, swarmed in these earthworks like a host of white ants; spadefuls of red clay were continually being thrown up from behind the bank by unseen hands."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That shoulder rose and fell rhythmically and convulsively, but spadefuls of earth were already being thrown over the whole body."*

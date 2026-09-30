@@ -5,13 +5,6 @@ status: unread
 ---
 # anecdotal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of an anecdote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or given to telling anecdotes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"What others have done is simply write and post a brief letter telling about themselves, some idea where they live, their interests, anecdotal family history that children might relate to, work background, etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of an anecdote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or given to telling anecdotes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"What others have done is simply write and post a brief letter telling about themselves, some idea where they live, their interests, anecdotal family history that children might relate to, work background, etc."*

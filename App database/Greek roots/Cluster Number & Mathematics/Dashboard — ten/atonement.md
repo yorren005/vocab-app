@@ -5,15 +5,6 @@ status: unread
 ---
 # atonement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation for a wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of atoning for sin or wrongdoing (especially appeasing a deity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARCHBISHOP. ’Tis very true, And therefore be assured, my good Lord Marshal, If we do now make our atonement well, Our peace will, like a broken limb united, Grow stronger for the breaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, madam; he desires to make atonement Between the Duke of Gloucester and your brothers, And between them and my Lord Chamberlain; And sent to warn them to his royal presence."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She knew him; she saw disdain in his eye, and could not venture to believe that he had determined to accept such an offering, as an atonement for all the insolence of the past."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation for a wrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of atoning for sin or wrongdoing (especially appeasing a deity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARCHBISHOP. ’Tis very true, And therefore be assured, my good Lord Marshal, If we do now make our atonement well, Our peace will, like a broken limb united, Grow stronger for the breaking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, madam; he desires to make atonement Between the Duke of Gloucester and your brothers, And between them and my Lord Chamberlain; And sent to warn them to his royal presence."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She knew him; she saw disdain in his eye, and could not venture to believe that he had determined to accept such an offering, as an atonement for all the insolence of the past."*

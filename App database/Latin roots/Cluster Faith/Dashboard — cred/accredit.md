@@ -5,15 +5,6 @@ status: unread
 ---
 # accredit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant credentials to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide or send (envoys or embassadors) with official credentials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Such words to be spoken in a fashionable circle; and they'll all accredit it, for they have,--Heaven knows why!--long been seeking something to my dispraise."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bahá'í observers accredited by United Nations participated in Conference on Human Rights, Geneva; United Nations General Assembly, Paris."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"In the summer of 1781, he is accredited in the chronicles of the time, with a daring exploit, which indicates the kind of service in which he was engaged after he ceased to be attached to the Second New York."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant credentials to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide or send (envoys or embassadors) with official credentials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Such words to be spoken in a fashionable circle; and they'll all accredit it, for they have,--Heaven knows why!--long been seeking something to my dispraise."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bahá'í observers accredited by United Nations participated in Conference on Human Rights, Geneva; United Nations General Assembly, Paris."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"In the summer of 1781, he is accredited in the chronicles of the time, with a daring exploit, which indicates the kind of service in which he was engaged after he ceased to be attached to the Second New York."*

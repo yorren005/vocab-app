@@ -5,15 +5,6 @@ status: unread
 ---
 # scandalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To offend the moral sense of : shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To speak falsely or maliciously of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Good things scandalize none but the bad mind (_de virg. vel._ 3)."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"To tell his tale might be interpreted into scandalizing the Order; yet, unless he told it, what hope could he have of achieving his daughter’s deliverance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for whose death we in the world’s wide mouth Live scandalized and foully spoken of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To offend the moral sense of : shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To speak falsely or maliciously of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Good things scandalize none but the bad mind (_de virg. vel._ 3)."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"To tell his tale might be interpreted into scandalizing the Order; yet, unless he told it, what hope could he have of achieving his daughter’s deliverance?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for whose death we in the world’s wide mouth Live scandalized and foully spoken of."*

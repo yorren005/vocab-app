@@ -5,15 +5,6 @@ status: unread
 ---
 # satisfactorily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a satisfactory manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a satisfactory manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket for a little private confabulation, tells his tale satisfactorily, though out of breath."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether there are two people in England less likely to come satisfactorily out of any negotiation with Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But in several respects it long ago became evident that our banks were operating less satisfactorily than those of several other countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a satisfactory manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a satisfactory manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket for a little private confabulation, tells his tale satisfactorily, though out of breath."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whether there are two people in England less likely to come satisfactorily out of any negotiation with Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But in several respects it long ago became evident that our banks were operating less satisfactorily than those of several other countries."*

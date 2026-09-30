@@ -5,13 +5,6 @@ status: unread
 ---
 # sistrurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pygmy rattlesnakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pygmy rattlesnakes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sistrurus designates pygmy rattlesnakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pygmy rattlesnakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pygmy rattlesnakes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sistrurus designates pygmy rattlesnakes."*

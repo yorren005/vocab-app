@@ -5,13 +5,6 @@ status: unread
 ---
 # villeinage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status or condition of servitude of a villein or feudal serf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenure by which a villein held land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villeinage designates the legal status or condition of servitude of a villein or feudal serf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status or condition of servitude of a villein or feudal serf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenure by which a villein held land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villeinage designates the legal status or condition of servitude of a villein or feudal serf."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # haplosporidian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite in invertebrates and lower vertebrates of no known economic importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite in invertebrates and lower vertebrates of no known economic importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplosporidian designates parasite in invertebrates and lower vertebrates of no known economic importance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite in invertebrates and lower vertebrates of no known economic importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite in invertebrates and lower vertebrates of no known economic importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplosporidian designates parasite in invertebrates and lower vertebrates of no known economic importance."*

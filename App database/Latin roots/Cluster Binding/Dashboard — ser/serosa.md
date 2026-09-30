@@ -5,13 +5,6 @@ status: unread
 ---
 # serosa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serosa designates a thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serosa designates a thin membrane lining the closed cavities of the body; has two layers with a space between that is filled with serous fluid."*

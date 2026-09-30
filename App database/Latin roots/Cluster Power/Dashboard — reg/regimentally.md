@@ -5,13 +5,6 @@ status: unread
 ---
 # regimentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regimental manner or by regiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a regimental manner or by regiments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regimentally designates in a regimental manner or by regiments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regimental manner or by regiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a regimental manner or by regiments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regimentally designates in a regimental manner or by regiments."*

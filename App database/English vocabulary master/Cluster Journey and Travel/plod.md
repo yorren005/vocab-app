@@ -5,20 +5,6 @@ status: unread
 ---
 # plod
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Proceed slowly or tediously
-> 2. **Nuance / Usage**: Walk heavily or slowly : trudge
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to plod the target*) and intransitive clauses (*ploding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lisa Haseldine (*Whatever happens next, Merkelism is finished*):** *"Germany can’t afford to stick to the stately plod into decline that Merkel initiated any longer. Merz will have to act fast, and break things to pull the country out of the quagmire it finds itself in."*
-> - 📜 **Henoch Clapham (*A Briefe of the Bible*):** *"Quest[ion]. Where was Ioseph?<br>Answ[er]. It may be, he was playing the Carpenter abrode for all their three livings, but sure it is, he was not idlely plodding the streetes, much lesse tipling in the Taverne with our idle swingers."*
-> - 📜 **{{w (*A Shropshire Lad*):** *"Break no rosemary, bright with rime<br>And sparkling to the cruel clime;<br>Nor plod the winter land to look<br>For willows in the icy brook<br>To cast them leafless round him {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Proceed slowly or tediously
+> 2. **Nuance / Usage**: Walk heavily or slowly : trudge
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to plod the target*) and intransitive clauses (*ploding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lisa Haseldine (*Whatever happens next, Merkelism is finished*):** *"Germany can’t afford to stick to the stately plod into decline that Merkel initiated any longer. Merz will have to act fast, and break things to pull the country out of the quagmire it finds itself in."*
+> - 📜 **Henoch Clapham (*A Briefe of the Bible*):** *"Quest[ion]. Where was Ioseph?<br>Answ[er]. It may be, he was playing the Carpenter abrode for all their three livings, but sure it is, he was not idlely plodding the streetes, much lesse tipling in the Taverne with our idle swingers."*
+> - 📜 **{{w (*A Shropshire Lad*):** *"Break no rosemary, bright with rime<br>And sparkling to the cruel clime;<br>Nor plod the winter land to look<br>For willows in the icy brook<br>To cast them leafless round him {{..."*

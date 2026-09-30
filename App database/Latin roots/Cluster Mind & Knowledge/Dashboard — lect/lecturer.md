@@ -5,15 +5,6 @@ status: unread
 ---
 # lecturer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public lecturer at certain universities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lectures professionally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be lectured because the lecturer saw her in the cold morning light of open-shuttered disillusion was exasperating."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures were given on a Free Church foundation, instituted in memory of the distinguished theologian whose name it bears; and now for the first time the lecturer was chosen from beyond the borders of the Free Church."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket was out lecturing; for, he was a most delightful lecturer on domestic economy, and his treatises on the management of children and servants were considered the very best text-books on those themes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public lecturer at certain universities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lectures professionally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be lectured because the lecturer saw her in the cold morning light of open-shuttered disillusion was exasperating."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures were given on a Free Church foundation, instituted in memory of the distinguished theologian whose name it bears; and now for the first time the lecturer was chosen from beyond the borders of the Free Church."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket was out lecturing; for, he was a most delightful lecturer on domestic economy, and his treatises on the management of children and servants were considered the very best text-books on those themes."*

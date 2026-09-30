@@ -5,13 +5,6 @@ status: unread
 ---
 # minelaying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laying explosive mines in concealed places to destroy enemy personnel and equipment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laying explosive mines in concealed places to destroy enemy personnel and equipment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minelaying designates laying explosive mines in concealed places to destroy enemy personnel and equipment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Laying explosive mines in concealed places to destroy enemy personnel and equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laying explosive mines in concealed places to destroy enemy personnel and equipment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minelaying designates laying explosive mines in concealed places to destroy enemy personnel and equipment."*

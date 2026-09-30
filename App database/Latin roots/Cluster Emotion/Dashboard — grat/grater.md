@@ -5,13 +5,6 @@ status: unread
 ---
 # grater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utensil with sharp perforations for shredding foods (as vegetables or cheese).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utensil with sharp perforations for shredding foods (as vegetables or cheese).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe, with black hair and eyes, had such a prevailing redness of skin that I sometimes used to wonder whether it was possible she washed herself with a nutmeg-grater instead of soap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utensil with sharp perforations for shredding foods (as vegetables or cheese).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utensil with sharp perforations for shredding foods (as vegetables or cheese).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe, with black hair and eyes, had such a prevailing redness of skin that I sometimes used to wonder whether it was possible she washed herself with a nutmeg-grater instead of soap."*

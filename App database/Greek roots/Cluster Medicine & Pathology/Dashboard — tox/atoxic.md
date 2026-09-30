@@ -5,13 +5,6 @@ status: unread
 ---
 # atoxic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing or resulting from poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing or resulting from poison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atoxic designates not producing or resulting from poison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing or resulting from poison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing or resulting from poison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atoxic designates not producing or resulting from poison."*

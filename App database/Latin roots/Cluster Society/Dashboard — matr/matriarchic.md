@@ -5,13 +5,6 @@ status: unread
 ---
 # matriarchic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of societies or families) having a female as the family head or having descent traced through the female line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of societies or families) having a female as the family head or having descent traced through the female line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriarchic designates (of societies or families) having a female as the family head or having descent traced through the female line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of societies or families) having a female as the family head or having descent traced through the female line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of societies or families) having a female as the family head or having descent traced through the female line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriarchic designates (of societies or families) having a female as the family head or having descent traced through the female line."*

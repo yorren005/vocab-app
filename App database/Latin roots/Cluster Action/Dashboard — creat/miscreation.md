@@ -5,13 +5,6 @@ status: unread
 ---
 # miscreation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something abnormal or anomalous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal or anomalous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreation designates something abnormal or anomalous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something abnormal or anomalous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal or anomalous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreation designates something abnormal or anomalous."*

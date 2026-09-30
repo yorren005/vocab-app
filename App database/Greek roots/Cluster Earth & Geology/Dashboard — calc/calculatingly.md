@@ -5,13 +5,6 @@ status: unread
 ---
 # calculatingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calculating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a calculating manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It carefully and calculatingly distributed his riches among the members of his family, overlooking no individual of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calculating manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a calculating manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It carefully and calculatingly distributed his riches among the members of his family, overlooking no individual of it."*

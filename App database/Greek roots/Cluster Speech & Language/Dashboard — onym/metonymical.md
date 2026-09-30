@@ -5,13 +5,6 @@ status: unread
 ---
 # metonymical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the name of one thing for that of another with which it is closely associated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the name of one thing for that of another with which it is closely associated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonymical designates using the name of one thing for that of another with which it is closely associated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the name of one thing for that of another with which it is closely associated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the name of one thing for that of another with which it is closely associated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonymical designates using the name of one thing for that of another with which it is closely associated."*

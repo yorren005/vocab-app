@@ -5,15 +5,6 @@ status: unread
 ---
 # unmatched
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the remaining member of a pair, of socks e.g.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eminent beyond or above comparison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, sir, The King your father was reputed for A prince most prudent, of an excellent And unmatched wit and judgement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Needs must you lay your heart at his dispose, Subjected tribute to commanding love, Against whose fury and unmatched force The aweless lion could not wage the fight, Nor keep his princely heart from Richard’s hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That which I show, heaven knows, is merely love, Duty and zeal to your unmatched mind, Care of your food and living."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the remaining member of a pair, of socks e.g.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eminent beyond or above comparison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, sir, The King your father was reputed for A prince most prudent, of an excellent And unmatched wit and judgement."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Needs must you lay your heart at his dispose, Subjected tribute to commanding love, Against whose fury and unmatched force The aweless lion could not wage the fight, Nor keep his princely heart from Richard’s hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That which I show, heaven knows, is merely love, Duty and zeal to your unmatched mind, Care of your food and living."*

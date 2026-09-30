@@ -5,13 +5,6 @@ status: unread
 ---
 # nonsuppurative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suppurative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suppurative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsuppurative designates not suppurative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suppurative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suppurative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsuppurative designates not suppurative."*

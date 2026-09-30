@@ -5,20 +5,6 @@ status: unread
 ---
 # ache
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Feel compassion
-> 2. **Nuance / Usage**: Suffer a usually dull persistent pain
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to ache the target*) and intransitive clauses (*aching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"do with a fellow that never had the ache in his shoulders!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"that alone makes my head ache till I can’t see out of my eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"the very soul of decision, that he made my heart ache keenly, sorely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Feel compassion
+> 2. **Nuance / Usage**: Suffer a usually dull persistent pain
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to ache the target*) and intransitive clauses (*aching against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"do with a fellow that never had the ache in his shoulders!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"that alone makes my head ache till I can’t see out of my eyes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"the very soul of decision, that he made my heart ache keenly, sorely."*

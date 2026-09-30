@@ -5,13 +5,6 @@ status: unread
 ---
 # intercollegiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of competition between colleges or universities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of competition between colleges or universities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercollegiate designates used of competition between colleges or universities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of competition between colleges or universities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of competition between colleges or universities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercollegiate designates used of competition between colleges or universities."*

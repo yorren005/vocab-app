@@ -5,15 +5,6 @@ status: unread
 ---
 # normal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something regarded as a normative example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming with or constituting a norm or standard or level or type or social norm; not abnormal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now is that chess like our kind of chess?” Of course I had to reply that I did not know, that I did not remember the details after I returned to my normal state."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every time this was done there would be an excess of 111 pieces above the normal money-demand, and 111 full-weight pieces would be exported or melted (Gresham's law)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something regarded as a normative example.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming with or constituting a norm or standard or level or type or social norm; not abnormal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now is that chess like our kind of chess?” Of course I had to reply that I did not know, that I did not remember the details after I returned to my normal state."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every time this was done there would be an excess of 111 pieces above the normal money-demand, and 111 full-weight pieces would be exported or melted (Gresham's law)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*

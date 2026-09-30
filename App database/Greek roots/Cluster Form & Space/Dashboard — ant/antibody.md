@@ -5,13 +5,6 @@ status: unread
 ---
 # antibody
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large number of proteins of high molecular weight that are produced normally by specialized B cells after stimulation by an antigen and act specifically against the antigen in an immune response, that are produced abnormally by some cancer cells, and that typically consist of four subunits including two heavy chains and two light chains —called also immunoglobulin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that is derived from the clone of a single B cell and that is produced in large quantities of identical cells possessing affinity for the same epitope on a specific antigen (as a cancer cell) —abbreviation Mab, mAb, MAB, mab.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibody designates any of a large number of proteins of high molecular weight that are produced normally by specialized b cells after stimulation by an antigen and act specifically against the antigen in an immune response, that are produced abnormally by some cancer cells, and that typically consist of four subunits including two heavy chains and two light chains —called also immunoglobulin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large number of proteins of high molecular weight that are produced normally by specialized B cells after stimulation by an antigen and act specifically against the antigen in an immune response, that are produced abnormally by some cancer cells, and that typically consist of four subunits including two heavy chains and two light chains —called also immunoglobulin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that is derived from the clone of a single B cell and that is produced in large quantities of identical cells possessing affinity for the same epitope on a specific antigen (as a cancer cell) —abbreviation Mab, mAb, MAB, mab.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibody designates any of a large number of proteins of high molecular weight that are produced normally by specialized b cells after stimulation by an antigen and act specifically against the antigen in an immune response, that are produced abnormally by some cancer cells, and that typically consist of four subunits including two heavy chains and two light chains —called also immunoglobulin."*

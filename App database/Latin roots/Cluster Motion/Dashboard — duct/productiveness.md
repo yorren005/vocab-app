@@ -5,15 +5,6 @@ status: unread
 ---
 # productiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being productive or having the power to produce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being productive or having the power to produce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But Hamilton's influence, while it called out and stimulated his pupil's powers to a remarkable degree, was not one which made for literary productiveness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a farmer, an agriculturist, a desk-tied professor, a laboratory slave, interested only in the soil and the increase of the productiveness of the soil."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of these contribute to greater productiveness, others to a fairer distribution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being productive or having the power to produce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being productive or having the power to produce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But Hamilton's influence, while it called out and stimulated his pupil's powers to a remarkable degree, was not one which made for literary productiveness."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a farmer, an agriculturist, a desk-tied professor, a laboratory slave, interested only in the soil and the increase of the productiveness of the soil."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of these contribute to greater productiveness, others to a fairer distribution."*

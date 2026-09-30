@@ -5,15 +5,6 @@ status: unread
 ---
 # unassuming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arrogant or presuming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arrogant or presuming.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then is she kind and cruel, stately and unassuming, various, beautifully wilful."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had a low and unassuming aspect from this upland, though as approached on the other side from Blackmoor in her childhood they were as lofty bastions against the sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arrogant or presuming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arrogant or presuming.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then is she kind and cruel, stately and unassuming, various, beautifully wilful."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had a low and unassuming aspect from this upland, though as approached on the other side from Blackmoor in her childhood they were as lofty bastions against the sky."*

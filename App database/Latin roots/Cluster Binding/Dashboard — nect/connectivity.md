@@ -5,13 +5,6 @@ status: unread
 ---
 # connectivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being connected or the degree to which something has connections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being connected or the degree to which something has connections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connectivity designates the property of being connected or the degree to which something has connections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being connected or the degree to which something has connections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being connected or the degree to which something has connections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connectivity designates the property of being connected or the degree to which something has connections."*

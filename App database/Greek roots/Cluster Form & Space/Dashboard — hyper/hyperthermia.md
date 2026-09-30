@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperthermia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermia designates exceptionally high fever especially when induced artificially for therapeutic purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermia designates exceptionally high fever especially when induced artificially for therapeutic purposes."*

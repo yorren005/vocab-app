@@ -5,13 +5,6 @@ status: unread
 ---
 # redline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discriminate in selling or renting housing in certain areas of a neighborhood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminate in selling or renting housing in certain areas of a neighborhood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redline designates discriminate in selling or renting housing in certain areas of a neighborhood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discriminate in selling or renting housing in certain areas of a neighborhood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminate in selling or renting housing in certain areas of a neighborhood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redline designates discriminate in selling or renting housing in certain areas of a neighborhood."*

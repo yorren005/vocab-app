@@ -5,14 +5,6 @@ status: unread
 ---
 # posturing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adopting a vain conceited posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave affectedly or unnaturally in order to impress others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But after I had had my new suit on some half an hour, and had gone through an immensity of posturing with Mr."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No." "Then I suggest you dispense with posturing and arrange to receive the inventory crews."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adopting a vain conceited posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave affectedly or unnaturally in order to impress others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But after I had had my new suit on some half an hour, and had gone through an immensity of posturing with Mr."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No." "Then I suggest you dispense with posturing and arrange to receive the inventory crews."*

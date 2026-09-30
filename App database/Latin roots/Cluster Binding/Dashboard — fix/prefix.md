@@ -5,15 +5,6 @@ status: unread
 ---
 # prefix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added in front of the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a prefix to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is great morning; and the hour prefix’d For her delivery to this valiant Greek Comes fast upon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When at Bohemia You take my lord, I’ll give him my commission To let him there a month behind the gest Prefix’d for’s parting:—yet, good deed, Leontes, I love thee not a jar of th’ clock behind What lady she her lord."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had just reached the time of life at which “young” is ceasing to be the prefix of “man” in speaking of one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added in front of the word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a prefix to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is great morning; and the hour prefix’d For her delivery to this valiant Greek Comes fast upon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When at Bohemia You take my lord, I’ll give him my commission To let him there a month behind the gest Prefix’d for’s parting:—yet, good deed, Leontes, I love thee not a jar of th’ clock behind What lady she her lord."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had just reached the time of life at which “young” is ceasing to be the prefix of “man” in speaking of one."*

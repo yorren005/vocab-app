@@ -5,13 +5,6 @@ status: unread
 ---
 # histologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anatomist who specializes in the microscopic study of animal tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anatomist who specializes in the microscopic study of animal tissues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histologist designates anatomist who specializes in the microscopic study of animal tissues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anatomist who specializes in the microscopic study of animal tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anatomist who specializes in the microscopic study of animal tissues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histologist designates anatomist who specializes in the microscopic study of animal tissues."*

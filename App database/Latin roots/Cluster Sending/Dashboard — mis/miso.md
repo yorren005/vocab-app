@@ -5,13 +5,6 @@ status: unread
 ---
 # miso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miso designates a thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miso designates a thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces."*

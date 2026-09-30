@@ -5,13 +5,6 @@ status: unread
 ---
 # candlenut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tree native to southeastern asia; the nuts yield oil used in varnishes; nut kernels strung together are used locally as candles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed of candlenut tree; source of soil used in varnishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlenut designates large tree native to southeastern asia; the nuts yield oil used in varnishes; nut kernels strung together are used locally as candles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tree native to southeastern asia; the nuts yield oil used in varnishes; nut kernels strung together are used locally as candles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed of candlenut tree; source of soil used in varnishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlenut designates large tree native to southeastern asia; the nuts yield oil used in varnishes; nut kernels strung together are used locally as candles."*

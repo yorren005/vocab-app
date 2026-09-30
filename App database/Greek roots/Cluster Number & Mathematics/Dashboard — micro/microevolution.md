@@ -5,13 +5,6 @@ status: unread
 ---
 # microevolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolution resulting from small specific genetic changes that can lead to a new subspecies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolution resulting from small specific genetic changes that can lead to a new subspecies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microevolution designates evolution resulting from small specific genetic changes that can lead to a new subspecies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolution resulting from small specific genetic changes that can lead to a new subspecies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolution resulting from small specific genetic changes that can lead to a new subspecies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microevolution designates evolution resulting from small specific genetic changes that can lead to a new subspecies."*

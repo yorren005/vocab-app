@@ -5,13 +5,6 @@ status: unread
 ---
 # diptych
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 2-leaved hinged tablet folding together to protect writing on its waxed surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture or series of pictures (such as an altarpiece) painted or carved on two hinged tablets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diptych designates a 2-leaved hinged tablet folding together to protect writing on its waxed surfaces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 2-leaved hinged tablet folding together to protect writing on its waxed surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture or series of pictures (such as an altarpiece) painted or carved on two hinged tablets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diptych designates a 2-leaved hinged tablet folding together to protect writing on its waxed surfaces."*

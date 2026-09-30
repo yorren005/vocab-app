@@ -5,15 +5,6 @@ status: unread
 ---
 # devotedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of ardent love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of ardent love.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It was too early yet for her fully to recognize or at least admit the change, still more for her to have readjusted that devotedness which was so necessary a part of her mental life that she was almost sure sooner or later to recover it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The first great disappointment had been borne: the tender devotedness and docile adoration of the ideal wife must be renounced, and life must be taken up on a lower stage of expectation, as it is by men who have lost their limbs."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I was only guilty of too much devotedness to Rawdon's service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of ardent love.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of ardent love.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It was too early yet for her fully to recognize or at least admit the change, still more for her to have readjusted that devotedness which was so necessary a part of her mental life that she was almost sure sooner or later to recover it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The first great disappointment had been borne: the tender devotedness and docile adoration of the ideal wife must be renounced, and life must be taken up on a lower stage of expectation, as it is by men who have lost their limbs."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I was only guilty of too much devotedness to Rawdon's service."*

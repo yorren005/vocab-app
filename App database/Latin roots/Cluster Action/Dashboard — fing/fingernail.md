@@ -5,15 +5,6 @@ status: unread
 ---
 # fingernail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nail at the end of a finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nail at the end of a finger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His small hands, fingers laden with rings, appeared to drip from his sleeves. ## Lumbering to his raised chair at the head of the table, Narval laboriously stepped up and sat, lifted his hand to his mouth and nibbled at a fingernail."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Selecting a fingernail, he commenced nibbling at it, giving the task his full attention."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Bringing his hand close, Narval searched for a fingernail that demanded his attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nail at the end of a finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nail at the end of a finger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His small hands, fingers laden with rings, appeared to drip from his sleeves. ## Lumbering to his raised chair at the head of the table, Narval laboriously stepped up and sat, lifted his hand to his mouth and nibbled at a fingernail."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Selecting a fingernail, he commenced nibbling at it, giving the task his full attention."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Bringing his hand close, Narval searched for a fingernail that demanded his attention."*

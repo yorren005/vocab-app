@@ -5,13 +5,6 @@ status: unread
 ---
 # actinodrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative form of actinodromous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative form of actinodromous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinodrome designates alternative form of actinodromous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative form of actinodromous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative form of actinodromous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinodrome designates alternative form of actinodromous."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tragicomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of tragicomedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting both tragic and comic aspects; - b.r.redman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragicomic designates of or relating to or characteristic of tragicomedy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of tragicomedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting both tragic and comic aspects; - b.r.redman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragicomic designates of or relating to or characteristic of tragicomedy."*

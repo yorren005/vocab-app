@@ -5,13 +5,6 @@ status: unread
 ---
 # sapotaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical trees or shrubs with milky juice and often edible fleshy fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical trees or shrubs with milky juice and often edible fleshy fruit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapotaceae designates tropical trees or shrubs with milky juice and often edible fleshy fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical trees or shrubs with milky juice and often edible fleshy fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical trees or shrubs with milky juice and often edible fleshy fruit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapotaceae designates tropical trees or shrubs with milky juice and often edible fleshy fruit."*

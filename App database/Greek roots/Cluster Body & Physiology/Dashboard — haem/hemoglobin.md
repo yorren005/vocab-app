@@ -5,13 +5,6 @@ status: unread
 ---
 # hemoglobin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron-containing respiratory pigment of vertebrate red blood cells that consists of a globin composed of four subunits each of which is linked to a heme molecule, that functions in oxygen transport to the tissues after conversion to oxygenated form in the gills or lungs, and that assists in carbon dioxide transport back to the gills or lungs after surrender of its oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous iron-containing respiratory pigments of various organisms (such as invertebrates and yeasts).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemoglobin designates an iron-containing respiratory pigment of vertebrate red blood cells that consists of a globin composed of four subunits each of which is linked to a heme molecule, that functions in oxygen transport to the tissues after conversion to oxygenated form in the gills or lungs, and that assists in carbon dioxide transport back to the gills or lungs after surrender of its oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron-containing respiratory pigment of vertebrate red blood cells that consists of a globin composed of four subunits each of which is linked to a heme molecule, that functions in oxygen transport to the tissues after conversion to oxygenated form in the gills or lungs, and that assists in carbon dioxide transport back to the gills or lungs after surrender of its oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous iron-containing respiratory pigments of various organisms (such as invertebrates and yeasts).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemoglobin designates an iron-containing respiratory pigment of vertebrate red blood cells that consists of a globin composed of four subunits each of which is linked to a heme molecule, that functions in oxygen transport to the tissues after conversion to oxygenated form in the gills or lungs, and that assists in carbon dioxide transport back to the gills or lungs after surrender of its oxygen."*

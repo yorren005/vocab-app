@@ -5,13 +5,6 @@ status: unread
 ---
 # unsectarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to one sect or school or party; ; ; - bertrand russell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not restricted to one sect or school or party; ; ; - bertrand russell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsectarian designates not restricted to one sect or school or party; ; ; - bertrand russell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to one sect or school or party; ; ; - bertrand russell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not restricted to one sect or school or party; ; ; - bertrand russell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsectarian designates not restricted to one sect or school or party; ; ; - bertrand russell."*

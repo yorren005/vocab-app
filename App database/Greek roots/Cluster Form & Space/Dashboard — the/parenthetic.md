@@ -5,13 +5,6 @@ status: unread
 ---
 # parenthetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or expressed in a parenthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in parentheses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mother, why did our grand relation keep on putting his hand up to his mistarshers?” “Hark at that child!” cried Mrs Durbeyfield, with parenthetic admiration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or expressed in a parenthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in parentheses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mother, why did our grand relation keep on putting his hand up to his mistarshers?” “Hark at that child!” cried Mrs Durbeyfield, with parenthetic admiration."*

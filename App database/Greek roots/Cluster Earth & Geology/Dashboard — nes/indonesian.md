@@ -5,14 +5,6 @@ status: unread
 ---
 # indonesian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of indonesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of malay used as the national language of the republic of indonesia or of malaysia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Indonesian peoples who thus personify the rice we may take the Kayans or Bahaus of Central Borneo as typical."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Believing the rice to be animated by a soul like that of a man, the Indonesians naturally treat it with the deference and the consideration which they show to their fellows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of indonesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of malay used as the national language of the republic of indonesia or of malaysia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Indonesian peoples who thus personify the rice we may take the Kayans or Bahaus of Central Borneo as typical."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Believing the rice to be animated by a soul like that of a man, the Indonesians naturally treat it with the deference and the consideration which they show to their fellows."*

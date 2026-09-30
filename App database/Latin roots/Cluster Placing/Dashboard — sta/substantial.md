@@ -5,15 +5,6 @@ status: unread
 ---
 # substantial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fairly large.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a firm basis in reality and being therefore important, meaningful, or considerable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But your reason was not substantial why there is no time to recover."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How may likeness, made in crimes, Make practice on the times, To draw with idle spiders’ strings Most ponderous and substantial things!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am afeard, Being in night, all this is but a dream, Too flattering sweet to be substantial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fairly large.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a firm basis in reality and being therefore important, meaningful, or considerable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But your reason was not substantial why there is no time to recover."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How may likeness, made in crimes, Make practice on the times, To draw with idle spiders’ strings Most ponderous and substantial things!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am afeard, Being in night, all this is but a dream, Too flattering sweet to be substantial."*

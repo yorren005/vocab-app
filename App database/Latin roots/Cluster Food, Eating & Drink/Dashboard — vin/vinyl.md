@@ -5,13 +5,6 @@ status: unread
 ---
 # vinyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A univalent chemical radical derived from ethylene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shiny and tough and flexible plastic; used especially for floor coverings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinyl designates a univalent chemical radical derived from ethylene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A univalent chemical radical derived from ethylene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shiny and tough and flexible plastic; used especially for floor coverings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinyl designates a univalent chemical radical derived from ethylene."*

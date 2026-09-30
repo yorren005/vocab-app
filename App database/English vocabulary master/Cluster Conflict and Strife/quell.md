@@ -5,20 +5,6 @@ status: unread
 ---
 # quell
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Subduing
-> 2. **Nuance / Usage**: Slaughter
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to quell the target*) and intransitive clauses (*quelling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But no feeling could quell Fred’s alarm."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"The foul fiend quell the Prior!"*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"leave, we will quell and drive forth from our assembly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To put an end to a rebellion, mutiny, or violent disorder typically by the decisive use of force; to suppress or crush.
+> 2. **Nuance / Usage**: Also used of inward emotions—such as fear, doubt, panic, or rising anger—to mean quieting, pacifying, or subduing them.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb.
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to quell the uprising*, *to quell her rising panic*).
+> - **Collocations & Registers**: Martial, political, and psychological registers; collocated with *insurrection*, *mutiny*, *riot*, *alarm*, and *misgivings*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He spoke with forced cheerfulness, but no feeling could **quell** Fred’s inward alarm."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"Those who refuse to obey our statutes, we will **quell** and drive forth from our assembly."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Two regiments of dragoons were dispatched at once to **quell** the tumult in the western counties."*

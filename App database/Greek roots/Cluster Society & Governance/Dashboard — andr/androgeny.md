@@ -5,13 +5,6 @@ status: unread
 ---
 # androgeny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgeny designates male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgeny designates male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization."*

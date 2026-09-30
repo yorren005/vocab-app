@@ -5,15 +5,6 @@ status: unread
 ---
 # enlarge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make larger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make large.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the poor third is up, till death enlarge his confine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncle of Exeter, Enlarge the man committed yesterday, That rail’d against our person."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll yet enlarge that man, Though Cambridge, Scroop, and Grey, in their dear care And tender preservation of our person, Would have him punish’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make larger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make large.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the poor third is up, till death enlarge his confine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncle of Exeter, Enlarge the man committed yesterday, That rail’d against our person."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll yet enlarge that man, Though Cambridge, Scroop, and Grey, in their dear care And tender preservation of our person, Would have him punish’d."*

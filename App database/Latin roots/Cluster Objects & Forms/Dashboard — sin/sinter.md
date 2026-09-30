@@ -5,15 +5,6 @@ status: unread
 ---
 # sinter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"There is some clotting, and the sinter sticks to the rabble-blades, and has to be barred off occasionally. _4th Hearth._—Bright red heat (about 750° C.), uniformly bright, but the flame has ceased."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Eng._, 1912, vol. x., No. 3, March, pp. 153–159. (With good Bibliography.) Editorial Correspondence, “Sinter-Roasting with Dwight-Lloyd Machines at Salida, Col.” _Ibid._, 1912, vol. x., No. 2, Feb., p. 87."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The sintered cakes are finally discharged automatically into cars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"There is some clotting, and the sinter sticks to the rabble-blades, and has to be barred off occasionally. _4th Hearth._—Bright red heat (about 750° C.), uniformly bright, but the flame has ceased."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Eng._, 1912, vol. x., No. 3, March, pp. 153–159. (With good Bibliography.) Editorial Correspondence, “Sinter-Roasting with Dwight-Lloyd Machines at Salida, Col.” _Ibid._, 1912, vol. x., No. 2, Feb., p. 87."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The sintered cakes are finally discharged automatically into cars."*

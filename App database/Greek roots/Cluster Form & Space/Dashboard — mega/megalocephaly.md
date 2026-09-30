@@ -5,13 +5,6 @@ status: unread
 ---
 # megalocephaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalocephaly designates an abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalocephaly designates an abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical."*

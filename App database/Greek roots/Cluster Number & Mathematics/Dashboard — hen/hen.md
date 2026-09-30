@@ -5,15 +5,6 @@ status: unread
 ---
 # hen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female chicken especially over a year old; broadly : a female bird.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female of various mostly aquatic animals (such as lobsters or fish).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not plunge thyself too far in anger, lest thou hasten thy trial; which if—Lord have mercy on thee for a hen!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast never in thy life Showed thy dear mother any courtesy When she, poor hen, fond of no second brood, Has clucked thee to the wars and safely home, Loaden with honour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female chicken especially over a year old; broadly : a female bird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female of various mostly aquatic animals (such as lobsters or fish).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not plunge thyself too far in anger, lest thou hasten thy trial; which if—Lord have mercy on thee for a hen!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast never in thy life Showed thy dear mother any courtesy When she, poor hen, fond of no second brood, Has clucked thee to the wars and safely home, Loaden with honour."*

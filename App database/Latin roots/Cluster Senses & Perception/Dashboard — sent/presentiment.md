@@ -5,15 +5,6 @@ status: unread
 ---
 # presentiment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of evil to come.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of evil to come.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The Lord's blessing is enough for me_." The letter was sent and forgotten, but a strange presentiment came over the mind of the writer."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Impelled by an irresistible presentiment, you will eagerly advance to it, unlock its folding doors, and search into every drawer—but for some time without discovering anything of importance—perhaps nothing but a considerable hoard of diamonds."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"However, my tenderest feelings are about to receive a shock: such is my presentiment; stay now, to see whether it will be realised.” Ere long, Adèle’s little foot was heard tripping across the hall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of evil to come.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of evil to come.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The Lord's blessing is enough for me_." The letter was sent and forgotten, but a strange presentiment came over the mind of the writer."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Impelled by an irresistible presentiment, you will eagerly advance to it, unlock its folding doors, and search into every drawer—but for some time without discovering anything of importance—perhaps nothing but a considerable hoard of diamonds."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"However, my tenderest feelings are about to receive a shock: such is my presentiment; stay now, to see whether it will be realised.” Ere long, Adèle’s little foot was heard tripping across the hall."*

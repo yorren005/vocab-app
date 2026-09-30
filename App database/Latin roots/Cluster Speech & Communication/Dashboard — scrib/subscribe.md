@@ -5,15 +5,6 @@ status: unread
 ---
 # subscribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offer to buy, as of stocks and shares.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's signature; write one's name (on).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know th’art valiant; and to the possibility of thy soldiership, will subscribe for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will subscribe for thee; thou art both knave and fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Write to him— I will subscribe—gentle adieus and greetings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offer to buy, as of stocks and shares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's signature; write one's name (on).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know th’art valiant; and to the possibility of thy soldiership, will subscribe for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will subscribe for thee; thou art both knave and fool."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Write to him— I will subscribe—gentle adieus and greetings."*

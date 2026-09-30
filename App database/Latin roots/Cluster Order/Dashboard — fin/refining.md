@@ -5,15 +5,6 @@ status: unread
 ---
 # refining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing impurities (as from oil or metals or sugar etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve or perfect by pruning or polishing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A shining example of the refining influences that are creeping into our prisons."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large oil-refining corporation that sells most of the product may by various methods succeed in driving out the competitors who would buy the crude oil."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As you may recall from your school days, it wasn't easy hauling micro-spunnel terminals around the Belt and ramming rocks into the hoppers for transfer to meltdown and refining above Venus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing impurities (as from oil or metals or sugar etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve or perfect by pruning or polishing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A shining example of the refining influences that are creeping into our prisons."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large oil-refining corporation that sells most of the product may by various methods succeed in driving out the competitors who would buy the crude oil."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As you may recall from your school days, it wasn't easy hauling micro-spunnel terminals around the Belt and ramming rocks into the hoppers for transfer to meltdown and refining above Venus."*

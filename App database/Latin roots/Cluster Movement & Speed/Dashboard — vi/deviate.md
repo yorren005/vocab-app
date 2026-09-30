@@ -5,15 +5,6 @@ status: unread
 ---
 # deviate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose behavior deviates from what is acceptable especially in sexual behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn aside; turn away from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had not, it seems, the originality to chalk out a new road to shame and destruction, but trode the old track with stupid exactness not to deviate an inch from the beaten centre."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"You are quite aware of that?” “Quite, sir.” “I communicated to Magwitch—in New South Wales—when he first wrote to me—from New South Wales—the caution that he must not expect me ever to deviate from the strict line of fact."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This would be to admit that they might be kept up IN TIME OF PEACE, against threatening or impending danger, which would be at once to deviate from the literal meaning of the prohibition, and to introduce an extensive latitude of construction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose behavior deviates from what is acceptable especially in sexual behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn aside; turn away from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had not, it seems, the originality to chalk out a new road to shame and destruction, but trode the old track with stupid exactness not to deviate an inch from the beaten centre."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"You are quite aware of that?” “Quite, sir.” “I communicated to Magwitch—in New South Wales—when he first wrote to me—from New South Wales—the caution that he must not expect me ever to deviate from the strict line of fact."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This would be to admit that they might be kept up IN TIME OF PEACE, against threatening or impending danger, which would be at once to deviate from the literal meaning of the prohibition, and to introduce an extensive latitude of construction."*

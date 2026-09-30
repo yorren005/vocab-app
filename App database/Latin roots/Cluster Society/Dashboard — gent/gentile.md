@@ -5,15 +5,6 @@ status: unread
 ---
 # gentile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is not a member of one's own religion; used in this sense by mormons and hindus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have here among us, my friends,” says Chadband, “a Gentile and a heathen, a dweller in the tents of Tom-all-Alone’s and a mover-on upon the surface of the earth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Did none of his disciples mark a touch of irony when he said that among the Gentile dynasties the kings who exercise authority are called "Benefactors" (Luke 22:25)?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Are you quite sure that there is any distinction in the other world between good and bad, between Jew and Gentile?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is not a member of one's own religion; used in this sense by mormons and hindus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have here among us, my friends,” says Chadband, “a Gentile and a heathen, a dweller in the tents of Tom-all-Alone’s and a mover-on upon the surface of the earth."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Did none of his disciples mark a touch of irony when he said that among the Gentile dynasties the kings who exercise authority are called "Benefactors" (Luke 22:25)?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Are you quite sure that there is any distinction in the other world between good and bad, between Jew and Gentile?"*

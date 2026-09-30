@@ -5,15 +5,6 @@ status: unread
 ---
 # ductility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was endeared to Darcy by the easiness, openness, and ductility of his temper, though no disposition could offer a greater contrast to his own, and though with his own he never appeared dissatisfied."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The main conclusions arrived at from practice have had reference to the general effects of impurities in hardening the metal, and the general tendency of heat to soften it and to increase the ductility."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The _malleability_ and _ductility_ of copper are considerable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was endeared to Darcy by the easiness, openness, and ductility of his temper, though no disposition could offer a greater contrast to his own, and though with his own he never appeared dissatisfied."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The main conclusions arrived at from practice have had reference to the general effects of impurities in hardening the metal, and the general tendency of heat to soften it and to increase the ductility."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The _malleability_ and _ductility_ of copper are considerable."*

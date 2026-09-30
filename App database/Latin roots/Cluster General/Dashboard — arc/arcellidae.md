@@ -5,13 +5,6 @@ status: unread
 ---
 # arcellidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil and freshwater protozoa; cosmopolitan in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil and freshwater protozoa; cosmopolitan in distribution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcellidae designates soil and freshwater protozoa; cosmopolitan in distribution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil and freshwater protozoa; cosmopolitan in distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil and freshwater protozoa; cosmopolitan in distribution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcellidae designates soil and freshwater protozoa; cosmopolitan in distribution."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # barrier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure or object that impedes free movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any condition that makes it difficult to make progress or to achieve an objective.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We both felt painfully sensible that between us and these people there was an iron barrier which could not be removed by our new friend."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was no insignificant barrier, indeed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And although the discourse had been committed to memory and was reproduced in the very words that had been written down in the study, no barrier was thereby interposed between the preacher and his hearers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure or object that impedes free movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any condition that makes it difficult to make progress or to achieve an objective.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We both felt painfully sensible that between us and these people there was an iron barrier which could not be removed by our new friend."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It was no insignificant barrier, indeed."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"And although the discourse had been committed to memory and was reproduced in the very words that had been written down in the study, no barrier was thereby interposed between the preacher and his hearers."*

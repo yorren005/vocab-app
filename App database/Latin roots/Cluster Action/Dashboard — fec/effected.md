@@ -5,15 +5,6 @@ status: unread
 ---
 # effected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act so as to bring into existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever shoots at him, I set him there; Whoever charges on his forward breast, I am the caitiff that do hold him to’t; And though I kill him not, I am the cause His death was so effected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With very much content, my lord, and I wish it happily effected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll humbly signify what in his name, That magical word of war, we have effected; How, with his banners, and his well-paid ranks, The ne’er-yet-beaten horse of Parthia We have jaded out o’ th’ field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act so as to bring into existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever shoots at him, I set him there; Whoever charges on his forward breast, I am the caitiff that do hold him to’t; And though I kill him not, I am the cause His death was so effected."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With very much content, my lord, and I wish it happily effected."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll humbly signify what in his name, That magical word of war, we have effected; How, with his banners, and his well-paid ranks, The ne’er-yet-beaten horse of Parthia We have jaded out o’ th’ field."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # evolutionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by evolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by evolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cumulative genetic and accelerated evolutionary alterations to the human body along with the effects of unique, often hostile, environments plus sheer distance from the familiar transformed humans-in-space into something else."*
-> - 📜 **James Joyce (*Ulysses*):** *"Canadian) expansion and the evolutionary theories of Charles Darwin, expounded in _The Descent of Man_ and _The Origin of Species_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by evolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cumulative genetic and accelerated evolutionary alterations to the human body along with the effects of unique, often hostile, environments plus sheer distance from the familiar transformed humans-in-space into something else."*
+> - 📜 **James Joyce (*Ulysses*):** *"Canadian) expansion and the evolutionary theories of Charles Darwin, expounded in _The Descent of Man_ and _The Origin of Species_."*

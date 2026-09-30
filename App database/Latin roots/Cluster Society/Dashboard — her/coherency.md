@@ -5,13 +5,6 @@ status: unread
 ---
 # coherency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of cohering or sticking together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical and orderly and consistent relation of parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Why, all that _we_ know—and heaven knows what else besides!” Then, as she released me, I made it out to her, made it out perhaps only now with full coherency even to myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of cohering or sticking together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical and orderly and consistent relation of parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Why, all that _we_ know—and heaven knows what else besides!” Then, as she released me, I made it out to her, made it out perhaps only now with full coherency even to myself."*

@@ -5,18 +5,6 @@ status: unread
 ---
 # whittle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Shape or form by so paring or cutting
-> 2. **Nuance / Usage**: Pare or cut off chips from the surface of (wood) with a knife
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to whittle the target*) and intransitive clauses (*whittling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alfred Gatty (*Sheffield: Past and Present*):** *"The Sheffield whittle was the common knife of the country, which every one carried for general purposes, who was not entitled by rank to wear a sword."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Shape or form by so paring or cutting
+> 2. **Nuance / Usage**: Pare or cut off chips from the surface of (wood) with a knife
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to whittle the target*) and intransitive clauses (*whittling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alfred Gatty (*Sheffield: Past and Present*):** *"The Sheffield whittle was the common knife of the country, which every one carried for general purposes, who was not entitled by rank to wear a sword."*

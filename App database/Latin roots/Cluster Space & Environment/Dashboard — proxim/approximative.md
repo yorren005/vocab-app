@@ -5,13 +5,6 @@ status: unread
 ---
 # approximative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not quite exact or correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not quite exact or correct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond became serious too, and slightly meditative; in fact, she was going through many intricacies of lace-edging and hosiery and petticoat-tucking, in order to give an answer that would at least be approximative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not quite exact or correct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not quite exact or correct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond became serious too, and slightly meditative; in fact, she was going through many intricacies of lace-edging and hosiery and petticoat-tucking, in order to give an answer that would at least be approximative."*

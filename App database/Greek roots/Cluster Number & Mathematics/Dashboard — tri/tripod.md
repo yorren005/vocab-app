@@ -5,15 +5,6 @@ status: unread
 ---
 # tripod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-legged stand (as for a camera).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stool, table, or altar with three legs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"May she not prophesy in the temple? then there is ready for her the tripod of Delphi."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How could one look at Ahab then, seated on that tripod of bones, without bethinking him of the royalty it symbolized?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A French chafing dish supported on an iron tripod had been overturned, and was lying across the floor, while the charcoal, still warm, was scattered around in various directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-legged stand (as for a camera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stool, table, or altar with three legs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"May she not prophesy in the temple? then there is ready for her the tripod of Delphi."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How could one look at Ahab then, seated on that tripod of bones, without bethinking him of the royalty it symbolized?"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A French chafing dish supported on an iron tripod had been overturned, and was lying across the floor, while the charcoal, still warm, was scattered around in various directions."*

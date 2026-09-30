@@ -5,13 +5,6 @@ status: unread
 ---
 # syringa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large hardy shrub with showy and strongly fragrant creamy-white flowers in short terminal racemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world shrubs or low trees having fragrant flowers in showy panicles: lilacs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Their nook of turf was out of sight of the house, sheltered from it behind a great thicket of lilac and syringa, which walled off the lawn from the kitchen garden full of sweet-smelling currant bushes and apple-trees laden with green fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large hardy shrub with showy and strongly fragrant creamy-white flowers in short terminal racemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world shrubs or low trees having fragrant flowers in showy panicles: lilacs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Their nook of turf was out of sight of the house, sheltered from it behind a great thicket of lilac and syringa, which walled off the lawn from the kitchen garden full of sweet-smelling currant bushes and apple-trees laden with green fruit."*

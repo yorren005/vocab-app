@@ -5,15 +5,6 @@ status: unread
 ---
 # moll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The girlfriend of a gangster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The girlfriend of a gangster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s Tidy and Moll.” “Then wait here till I come hither again,” said Gabriel."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan suddenly pulled up Moll and slipped off."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Professor George Guffey, in his introduction to the first part of this work (ARS 216 [1982], iii-iv), remarks upon the proposal scene carried on in _Moll Flanders_ between Moll and the admirer who will prove her third husband and her brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The girlfriend of a gangster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The girlfriend of a gangster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s Tidy and Moll.” “Then wait here till I come hither again,” said Gabriel."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan suddenly pulled up Moll and slipped off."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Professor George Guffey, in his introduction to the first part of this work (ARS 216 [1982], iii-iv), remarks upon the proposal scene carried on in _Moll Flanders_ between Moll and the admirer who will prove her third husband and her brother."*

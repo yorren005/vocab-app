@@ -5,14 +5,6 @@ status: unread
 ---
 # polytechnic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or devoted to instruction in many technical arts or applied sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polytechnic school.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"On September 13, 1839, Spencer read a paper before the Polytechnic Institution of Liverpool, which he accompanied with specimens of both electrotypes made by this process and of printing from these electrotypes."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He was furnishing the money to put a young brother through a polytechnic school and satisfy his desire to become a civil engineer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or devoted to instruction in many technical arts or applied sciences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polytechnic school.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"On September 13, 1839, Spencer read a paper before the Polytechnic Institution of Liverpool, which he accompanied with specimens of both electrotypes made by this process and of printing from these electrotypes."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He was furnishing the money to put a young brother through a polytechnic school and satisfy his desire to become a civil engineer."*

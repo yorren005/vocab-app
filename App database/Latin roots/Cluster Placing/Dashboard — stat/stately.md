@@ -5,15 +5,6 @@ status: unread
 ---
 # stately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of size and dignity suggestive of a statue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon a wooden coffin we attend, And Death’s dishonourable victory We with our stately presence glorify, Like captives bound to a triumphant car."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a silly stately style indeed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but that we spend the time With stately triumphs, mirthful comic shows, Such as befits the pleasure of the court?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of size and dignity suggestive of a statue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon a wooden coffin we attend, And Death’s dishonourable victory We with our stately presence glorify, Like captives bound to a triumphant car."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a silly stately style indeed!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but that we spend the time With stately triumphs, mirthful comic shows, Such as befits the pleasure of the court?"*

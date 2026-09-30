@@ -5,15 +5,6 @@ status: unread
 ---
 # sequent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following or accompanying as a consequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed your ‘O Lord, sir!’ is very sequent to your whipping."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of six preceding ancestors, that gem Conferr’d by testament to th’ sequent issue, Hath it been owed and worn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, the next day Was our sea-fight, and what to this was sequent Thou know’st already."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following or accompanying as a consequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed your ‘O Lord, sir!’ is very sequent to your whipping."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of six preceding ancestors, that gem Conferr’d by testament to th’ sequent issue, Hath it been owed and worn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, the next day Was our sea-fight, and what to this was sequent Thou know’st already."*

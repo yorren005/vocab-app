@@ -5,13 +5,6 @@ status: unread
 ---
 # uniformness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking diversity or variation (even to the point of boredom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking diversity or variation (even to the point of boredom).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniformness designates the quality of lacking diversity or variation (even to the point of boredom)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking diversity or variation (even to the point of boredom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking diversity or variation (even to the point of boredom).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniformness designates the quality of lacking diversity or variation (even to the point of boredom)."*

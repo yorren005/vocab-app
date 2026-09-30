@@ -5,13 +5,6 @@ status: unread
 ---
 # malaya
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I would speak of the bread-fruit tree, very abundant in the island of Gilboa; and I remarked chiefly the variety destitute of seeds, which bears in Malaya the name of “rima.” Ned Land knew these fruits well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I would speak of the bread-fruit tree, very abundant in the island of Gilboa; and I remarked chiefly the variety destitute of seeds, which bears in Malaya the name of “rima.” Ned Land knew these fruits well."*

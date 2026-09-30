@@ -5,15 +5,6 @@ status: unread
 ---
 # put
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The option to sell a given stock (or stock index or commodity future) at a given price before a given date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a certain place or abstract location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or mine eyes seeing this, say this is not To put fair truth upon so foul a face?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The option to sell a given stock (or stock index or commodity future) at a given price before a given date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a certain place or abstract location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or mine eyes seeing this, say this is not To put fair truth upon so foul a face?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # uncommonness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinariness as a consequence of being marked by an uncommon or superlative quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinariness as a consequence of being rare and seldom encountered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncommonness designates extraordinariness as a consequence of being marked by an uncommon or superlative quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinariness as a consequence of being marked by an uncommon or superlative quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinariness as a consequence of being rare and seldom encountered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncommonness designates extraordinariness as a consequence of being marked by an uncommon or superlative quality."*

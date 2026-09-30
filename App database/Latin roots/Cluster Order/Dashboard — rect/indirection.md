@@ -5,15 +5,6 @@ status: unread
 ---
 # indirection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirect procedure or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deceitful action that is not straightforward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The better act of purposes mistook Is to mistake again; though indirect, Yet indirection thereby grows direct, And falsehood falsehood cures, as fire cools fire Within the scorched veins of one new-burn’d."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Left to themselves, they always approached by indirection."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I shall not complain of the intolerance and indirection which have characterized the allusions of some Senators to myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirect procedure or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deceitful action that is not straightforward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The better act of purposes mistook Is to mistake again; though indirect, Yet indirection thereby grows direct, And falsehood falsehood cures, as fire cools fire Within the scorched veins of one new-burn’d."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Left to themselves, they always approached by indirection."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I shall not complain of the intolerance and indirection which have characterized the allusions of some Senators to myself."*

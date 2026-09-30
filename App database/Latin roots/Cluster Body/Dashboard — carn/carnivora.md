@@ -5,13 +5,6 @@ status: unread
 ---
 # carnivora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder pinnipedia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder pinnipedia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"You might as well ask a man to eat molecules with a pair of chop-sticks, as to try to interest me about the lesser carnivora, when I know of what is before me.” “I see,” I said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder pinnipedia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder pinnipedia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"You might as well ask a man to eat molecules with a pair of chop-sticks, as to try to interest me about the lesser carnivora, when I know of what is before me.” “I see,” I said."*

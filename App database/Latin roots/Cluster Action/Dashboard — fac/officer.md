@@ -5,15 +5,6 @@ status: unread
 ---
 # officer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any person in the armed services who holds a position of authority or command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is appointed or elected to an office and who holds a position of trust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know that knave; hang him! one Parolles; a filthy officer he is in those suggestions for the young earl."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’ the band."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar and Antony have ever won More in their officer, than person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any person in the armed services who holds a position of authority or command.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is appointed or elected to an office and who holds a position of trust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know that knave; hang him! one Parolles; a filthy officer he is in those suggestions for the young earl."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’ the band."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar and Antony have ever won More in their officer, than person."*

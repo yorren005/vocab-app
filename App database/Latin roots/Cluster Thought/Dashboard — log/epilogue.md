@@ -5,15 +5,6 @@ status: unread
 ---
 # epilogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short speech (often in verse) addressed directly to the audience by an actor at the end of a play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short passage added at the end of a literary work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all but Rosalind._] EPILOGUE ROSALIND."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be true that good wine needs no bush, ’tis true that a good play needs no epilogue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short speech (often in verse) addressed directly to the audience by an actor at the end of a play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short passage added at the end of a literary work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all but Rosalind._] EPILOGUE ROSALIND."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be true that good wine needs no bush, ’tis true that a good play needs no epilogue."*

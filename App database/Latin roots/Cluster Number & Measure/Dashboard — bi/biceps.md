@@ -5,15 +5,6 @@ status: unread
 ---
 # biceps
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skeletal muscle having two origins (but especially the muscle that flexes the forearm).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any skeletal muscle having two origins (but especially the muscle that flexes the forearm).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Look at that arm.” I pulled up my sleeve and showed a biceps so attenuated that when I flexed it it had the appearance of a string."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A real blacksmith’s biceps, eh, Warden?"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It has come to this it seems: women must either be weak, and cling so close to man that she can't be struck, keep entirely out of the range of his fists and arms,--or develop biceps equal to his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skeletal muscle having two origins (but especially the muscle that flexes the forearm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any skeletal muscle having two origins (but especially the muscle that flexes the forearm).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Look at that arm.” I pulled up my sleeve and showed a biceps so attenuated that when I flexed it it had the appearance of a string."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A real blacksmith’s biceps, eh, Warden?"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It has come to this it seems: women must either be weak, and cling so close to man that she can't be struck, keep entirely out of the range of his fists and arms,--or develop biceps equal to his."*

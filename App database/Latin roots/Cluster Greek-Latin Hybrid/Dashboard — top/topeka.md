@@ -5,15 +5,6 @@ status: unread
 ---
 # topeka
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the state of kansas; located in eastern kansas on the kansas river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the state of kansas; located in eastern kansas on the kansas river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our party entered the State at Kansas City, and took the cars for Topeka, its capital."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"About noon we arrived at Topeka, the capital, well situated on the south bank of the river, having a comfortable, well-to-do air, which suggests the quiet satisfaction of an honest burgher after a morning of toil."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The Indian gourmands ate it greedily and called it "Topeka." From the two or three families of refugee Free State men the town grew up, and from the Indian root it took its name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the state of kansas; located in eastern kansas on the kansas river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the state of kansas; located in eastern kansas on the kansas river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our party entered the State at Kansas City, and took the cars for Topeka, its capital."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"About noon we arrived at Topeka, the capital, well situated on the south bank of the river, having a comfortable, well-to-do air, which suggests the quiet satisfaction of an honest burgher after a morning of toil."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The Indian gourmands ate it greedily and called it "Topeka." From the two or three families of refugee Free State men the town grew up, and from the Indian root it took its name."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cutlery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cutting implement; a tool for cutting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tableware implements for cutting and eating food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They are fond of, and will give food in exchange for, salt, beads and cutlery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cutting implement; a tool for cutting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tableware implements for cutting and eating food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They are fond of, and will give food in exchange for, salt, beads and cutlery."*

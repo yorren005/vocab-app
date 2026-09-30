@@ -5,14 +5,6 @@ status: unread
 ---
 # centimeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one hundredth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one hundredth of a meter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad drew his legs up through the hatchway a searing blast struck the frame, missing him by centimeters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The clamshells closed in and stopped a few centimeters from his temple."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one hundredth of a meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one hundredth of a meter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad drew his legs up through the hatchway a searing blast struck the frame, missing him by centimeters."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The clamshells closed in and stopped a few centimeters from his temple."*

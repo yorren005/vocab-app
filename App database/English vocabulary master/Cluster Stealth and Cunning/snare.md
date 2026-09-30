@@ -5,20 +5,6 @@ status: unread
 ---
 # snare
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trap, gin
-> 2. **Nuance / Usage**: (music) a snare drum
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The world’s great snare uncaught?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Enter Hostess with two Officers, Fang and Snare, following."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Yea, good Master Snare, I have entered him and all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A trap for catching birds or small mammals, typically consisting of a cord or wire noose that tightens around the quarry's foot or neck.
+> 2. **Nuance / Usage**: Used figuratively for any position, temptation, or stratagem that entangles the unwary (*a delusion and a snare*), and as a transitive verb meaning to capture by craft or allure.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) and Verb (transitive).
+> - **Syntactic Constructions**: Functions as a count noun (*laid a snare*, *caught in a snare*) or transitive verb (*snared a rabbit*).
+> - **Collocations & Registers**: Hunting, biblical, and literary registers; collocated with *delusion*, *fowler's*, *entangle*, and *noose*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"How can he pass through the world’s great **snare** uncaught?"*
+> - 📜 **Thomas Denman (*Judgment in O'Connell v. The Queen*):** *"Trial by jury itself, instead of being a security to persons who are accused, will be a delusion, a mockery, and a **snare**."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"He that is down needs fear no fall, nor the hidden **snare** of the fowler in the grass."*

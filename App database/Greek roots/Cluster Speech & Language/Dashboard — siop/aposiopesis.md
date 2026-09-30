@@ -5,13 +5,6 @@ status: unread
 ---
 # aposiopesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aposiopesis designates the leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but i blush to mention that")."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aposiopesis designates the leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but i blush to mention that")."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tuberculous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or afflicted with or caused by tuberculosis or the tubercle bacillus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or afflicted with or caused by tuberculosis or the tubercle bacillus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculous designates constituting or afflicted with or caused by tuberculosis or the tubercle bacillus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or afflicted with or caused by tuberculosis or the tubercle bacillus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or afflicted with or caused by tuberculosis or the tubercle bacillus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculous designates constituting or afflicted with or caused by tuberculosis or the tubercle bacillus."*

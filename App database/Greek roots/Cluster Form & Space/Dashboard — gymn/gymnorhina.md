@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnorhina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications placed in the family laniidae: australian piping crows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications placed in the family laniidae: australian piping crows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnorhina designates in some classifications placed in the family laniidae: australian piping crows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications placed in the family laniidae: australian piping crows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications placed in the family laniidae: australian piping crows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnorhina designates in some classifications placed in the family laniidae: australian piping crows."*

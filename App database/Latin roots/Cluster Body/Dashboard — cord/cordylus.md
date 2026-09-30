@@ -5,13 +5,6 @@ status: unread
 ---
 # cordylus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordylus designates type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordylus designates type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles."*

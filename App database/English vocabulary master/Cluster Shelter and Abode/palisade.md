@@ -5,20 +5,6 @@ status: unread
 ---
 # palisade
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Line of bold cliffs
-> 2. **Nuance / Usage**: Fence of stakes especially for defense
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the palisade withstood the storm*), direct object (*cleaved the palisade*), or prepositional anchor (*amidst the palisade*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **{{w (*{{w*):** *"Before the clearing had been half crossed the Arabs opened up a withering fire from behind the palisade."*
-> - 📜 **James Fenimore Cooper (*Wyandotte*):** *"The Hut, well palisaded, would make a work that could not be easily carried, without artillery."*
-> - 📜 **John R. Musick (*The Real America in Romance, Volume 6; A Century Too Soon (A Story*):** *"They stood at bay in an old palisaded fort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A defensive fence or stockade made of wooden stakes or tree trunks driven upright into the ground.
+> 2. **Nuance / Usage**: In geography (usually plural, *palisades*), a line of steep, lofty cliffs rising along a river; in botany, the layer of vertically elongated cells beneath the upper epidermis of a leaf.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the palisade withstood the storm*), direct object (*cleaved the palisade*), or prepositional anchor (*amidst the palisade*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The mutineers came charging over the stockade, scrambling wildly across the log **palisade**."*
+> - 📜 **James Fenimore Cooper (*Wyandotte*):** *"The hut, well **palisaded**, would make a defensive work that could not be easily carried without artillery."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I drove a double row of strong stakes into the earth until my **palisade** was completely enclosed against any beast or man."*

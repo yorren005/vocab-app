@@ -5,13 +5,6 @@ status: unread
 ---
 # amphipod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphipod designates any of a large order (amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphipod designates any of a large order (amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # photolithography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lithography in which photographically prepared plates are used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process involving the photographic transfer of a pattern to a surface for etching (as in producing an integrated circuit).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolithography designates lithography in which photographically prepared plates are used."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lithography in which photographically prepared plates are used.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process involving the photographic transfer of a pattern to a surface for etching (as in producing an integrated circuit).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolithography designates lithography in which photographically prepared plates are used."*

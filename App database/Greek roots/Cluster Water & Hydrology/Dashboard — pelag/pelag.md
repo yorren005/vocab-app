@@ -5,15 +5,6 @@ status: unread
 ---
 # pelag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pelag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I only came across Pelagéya in Yúkhnovo....” Pelagéya interrupted her companion; she evidently wished to tell what she had seen."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Don’t tell him, Pelagéya.” “No... why not, my dear, why shouldn’t I?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, master, what are you saying?” exclaimed the horrified Pelagéya, turning to Princess Mary for support."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pelag.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I only came across Pelagéya in Yúkhnovo....” Pelagéya interrupted her companion; she evidently wished to tell what she had seen."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Don’t tell him, Pelagéya.” “No... why not, my dear, why shouldn’t I?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, master, what are you saying?” exclaimed the horrified Pelagéya, turning to Princess Mary for support."*

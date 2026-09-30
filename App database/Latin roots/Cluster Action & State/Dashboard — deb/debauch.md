@@ -5,15 +5,6 @@ status: unread
 ---
 # debauch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild gathering involving excessive drinking and promiscuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s quoted for a most perfidious slave, With all the spots o’ the world tax’d and debauch’d: Whose nature sickens but to speak a truth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This debauch boded ill for that wilful and fascinating mistress whom the faithful man even now felt within him as the embodiment of all that was sweet and bright and hopeless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild gathering involving excessive drinking and promiscuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s quoted for a most perfidious slave, With all the spots o’ the world tax’d and debauch’d: Whose nature sickens but to speak a truth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This debauch boded ill for that wilful and fascinating mistress whom the faithful man even now felt within him as the embodiment of all that was sweet and bright and hopeless."*

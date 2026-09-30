@@ -5,14 +5,6 @@ status: unread
 ---
 # logy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Ann usually set in to give me the family particulars when I was logy with sleep a Sunday night."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"When, in like manner zoölogy is defined as the study of animals, or geology as the study of rocks and the earth, the words call up memories of many familiar objects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Ann usually set in to give me the family particulars when I was logy with sleep a Sunday night."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"When, in like manner zoölogy is defined as the study of animals, or geology as the study of rocks and the earth, the words call up memories of many familiar objects."*

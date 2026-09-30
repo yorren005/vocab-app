@@ -5,15 +5,6 @@ status: unread
 ---
 # aspire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an ambitious plan or a lofty goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an ambitious plan or a lofty goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Belike he means, Backed by the power of Warwick, that false peer, To aspire unto the crown and reign as king."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have; And when he falls, he falls like Lucifer, Never to hope again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lust is but a bloody fire, Kindled with unchaste desire, Fed in heart, whose flames aspire, As thoughts do blow them, higher and higher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an ambitious plan or a lofty goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an ambitious plan or a lofty goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Belike he means, Backed by the power of Warwick, that false peer, To aspire unto the crown and reign as king."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have; And when he falls, he falls like Lucifer, Never to hope again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lust is but a bloody fire, Kindled with unchaste desire, Fed in heart, whose flames aspire, As thoughts do blow them, higher and higher."*

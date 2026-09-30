@@ -5,15 +5,6 @@ status: unread
 ---
 # sycophant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A servile self-seeking flatterer : one who praises those in power in order to gain their approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servile self-seeking flatterer : one who praises those in power in order to gain their approval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The little kitchen-maid on her promotion was standing at her mistress's side, quite delighted during the operation, and wagging her head up and down and crying, "Lor, Mum, 'tis bittiful"--just like a genteel sycophant in a real drawing-room."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The justice had been a pettifogger, and was a sycophant to a nobleman in the neighbourhood, who had a post at court."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Davy was an artful sycophant, but he did not flatter in the usual way; on the contrary, he behaved en cavalier, and treated Sycamore, on whose bounty he subsisted, with the most sarcastic familiarity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A servile self-seeking flatterer : one who praises those in power in order to gain their approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servile self-seeking flatterer : one who praises those in power in order to gain their approval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The little kitchen-maid on her promotion was standing at her mistress's side, quite delighted during the operation, and wagging her head up and down and crying, "Lor, Mum, 'tis bittiful"--just like a genteel sycophant in a real drawing-room."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The justice had been a pettifogger, and was a sycophant to a nobleman in the neighbourhood, who had a post at court."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Davy was an artful sycophant, but he did not flatter in the usual way; on the contrary, he behaved en cavalier, and treated Sycamore, on whose bounty he subsisted, with the most sarcastic familiarity."*

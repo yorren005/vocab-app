@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of measuring the head in living individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of measuring the head in living individuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalometry designates the science of measuring the head in living individuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of measuring the head in living individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of measuring the head in living individuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalometry designates the science of measuring the head in living individuals."*

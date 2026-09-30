@@ -5,13 +5,6 @@ status: unread
 ---
 # choreography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of symbolically representing dancing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The composition and arrangement of dances especially for ballet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choreography designates the art of symbolically representing dancing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of symbolically representing dancing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The composition and arrangement of dances especially for ballet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choreography designates the art of symbolically representing dancing."*

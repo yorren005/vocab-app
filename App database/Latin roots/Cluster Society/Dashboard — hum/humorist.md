@@ -5,15 +5,6 @@ status: unread
 ---
 # humorist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acts speaks or writes in an amusing way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who acts speaks or writes in an amusing way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He had a moist twinkle of the eye,--the look which bespeaks the kindly humorist,--and his slightly protruding under lip seemed covertly to taste the flavour of unspoken jokes."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, she nearly knocked our gentleman’s hat off!” cried the red-faced humorist, showing his teeth chaffing Pierre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acts speaks or writes in an amusing way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who acts speaks or writes in an amusing way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He had a moist twinkle of the eye,--the look which bespeaks the kindly humorist,--and his slightly protruding under lip seemed covertly to taste the flavour of unspoken jokes."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, she nearly knocked our gentleman’s hat off!” cried the red-faced humorist, showing his teeth chaffing Pierre."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unprepared
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without preparation; not prepared for; ; ; - r.e.danielson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without preparation; not prepared for; ; ; - r.e.danielson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go we, as well as haste will suffer us, To this unlook’d-for, unprepared pomp. [_Exeunt all but the Bastard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A creature unprepared, unmeet for death; And to transport him in the mind he is Were damnable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not kill thy unprepared spirit, No, heaven forfend!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without preparation; not prepared for; ; ; - r.e.danielson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without preparation; not prepared for; ; ; - r.e.danielson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go we, as well as haste will suffer us, To this unlook’d-for, unprepared pomp. [_Exeunt all but the Bastard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A creature unprepared, unmeet for death; And to transport him in the mind he is Were damnable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not kill thy unprepared spirit, No, heaven forfend!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’d find no fault with the tithe-woman, if I were the parson."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Master Parson, be so good as read me this letter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and Ratolorum too; and a gentleman born, Master Parson, who writes himself “Armigero” in any bill, warrant, quittance, or obligation—“Armigero.” SHALLOW."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’d find no fault with the tithe-woman, if I were the parson."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Master Parson, be so good as read me this letter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and Ratolorum too; and a gentleman born, Master Parson, who writes himself “Armigero” in any bill, warrant, quittance, or obligation—“Armigero.” SHALLOW."*

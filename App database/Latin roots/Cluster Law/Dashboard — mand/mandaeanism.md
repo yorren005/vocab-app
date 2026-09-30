@@ -5,13 +5,6 @@ status: unread
 ---
 # mandaeanism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandaeanism designates a gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandaeanism designates a gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs."*

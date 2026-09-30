@@ -5,13 +5,6 @@ status: unread
 ---
 # fantan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chinese gambling game; a random number of counters are placed under a bowl and you gamble on how many will be left (0, 1, 2, or 3 modulo 4).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantan designates a chinese gambling game; a random number of counters are placed under a bowl and you gamble on how many will be left (0, 1, 2, or 3 modulo 4)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chinese gambling game; a random number of counters are placed under a bowl and you gamble on how many will be left (0, 1, 2, or 3 modulo 4).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantan designates a chinese gambling game; a random number of counters are placed under a bowl and you gamble on how many will be left (0, 1, 2, or 3 modulo 4)."*

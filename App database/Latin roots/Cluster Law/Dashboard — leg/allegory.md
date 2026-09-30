@@ -5,15 +5,6 @@ status: unread
 ---
 # allegory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short moral story (often with animal characters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible symbol representing an abstract idea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, beneath the painted ceiling, with foreshortened Allegory staring down at his intrusion as if it meant to swoop upon him, and he cutting it dead, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, and goes home to Allegory and meditation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the ceiling, foreshortened Allegory, in the person of one impossible Roman upside down, points with the arm of Samson (out of joint, and an odd one) obtrusively toward the window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short moral story (often with animal characters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible symbol representing an abstract idea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here, beneath the painted ceiling, with foreshortened Allegory staring down at his intrusion as if it meant to swoop upon him, and he cutting it dead, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, and goes home to Allegory and meditation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"From the ceiling, foreshortened Allegory, in the person of one impossible Roman upside down, points with the arm of Samson (out of joint, and an odd one) obtrusively toward the window."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # histoplasmosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A respiratory disease with symptoms like those of influenza that is caused by a fungus (Histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A respiratory disease with symptoms like those of influenza that is caused by a fungus (Histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histoplasmosis designates a respiratory disease with symptoms like those of influenza that is caused by a fungus (histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A respiratory disease with symptoms like those of influenza that is caused by a fungus (Histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A respiratory disease with symptoms like those of influenza that is caused by a fungus (Histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histoplasmosis designates a respiratory disease with symptoms like those of influenza that is caused by a fungus (histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages."*

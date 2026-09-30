@@ -5,15 +5,6 @@ status: unread
 ---
 # linen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric woven with fibers from the flax plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-quality paper made of linen fibers or with a linen finish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Senseless linen, happier therein than I!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that’s all one; they’ll find linen enough on every hedge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the tennis-court keeper knows better than I, for it is a low ebb of linen with thee when thou keepest not racket there; as thou hast not done a great while, because the rest of thy low countries have made a shift to eat up thy holland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric woven with fibers from the flax plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-quality paper made of linen fibers or with a linen finish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Senseless linen, happier therein than I!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that’s all one; they’ll find linen enough on every hedge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the tennis-court keeper knows better than I, for it is a low ebb of linen with thee when thou keepest not racket there; as thou hast not done a great while, because the rest of thy low countries have made a shift to eat up thy holland."*

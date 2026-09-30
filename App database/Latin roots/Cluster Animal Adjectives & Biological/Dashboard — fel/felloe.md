@@ -5,14 +5,6 @@ status: unread
 ---
 # felloe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rim (or part of the rim) into which spokes are inserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rim (or part of the rim) into which spokes are inserted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"It was a smoking furnace down there, and soon the felloe and spokes would be injured by the flames and heat."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had stout wheel-spokes and heavy felloes, a great curved bed, immense straps and springs, and a pole like a battering-ram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rim (or part of the rim) into which spokes are inserted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rim (or part of the rim) into which spokes are inserted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"It was a smoking furnace down there, and soon the felloe and spokes would be injured by the flames and heat."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had stout wheel-spokes and heavy felloes, a great curved bed, immense straps and springs, and a pole like a battering-ram."*

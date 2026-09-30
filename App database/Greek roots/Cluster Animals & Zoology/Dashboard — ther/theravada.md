@@ -5,13 +5,6 @@ status: unread
 ---
 # theravada
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theravada designates one of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theravada designates one of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # geo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earth : ground : soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geographic : geography and.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Not all unavenged did they die, for with Lean Wolf fell Alf Mason, to disturb the Spanish Main no more, and among others who bit the dust were Geo."*
-> - 📜 **James Joyce (*Ulysses*):** *"With the approval of the eminent poet, Mr Geo."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"D., “Principles” and “Practice of Copper Smelting.” _Blast-furnace Manipulation._ Shelby, Geo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earth : ground : soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geographic : geography and.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Not all unavenged did they die, for with Lean Wolf fell Alf Mason, to disturb the Spanish Main no more, and among others who bit the dust were Geo."*
+> - 📜 **James Joyce (*Ulysses*):** *"With the approval of the eminent poet, Mr Geo."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"D., “Principles” and “Practice of Copper Smelting.” _Blast-furnace Manipulation._ Shelby, Geo."*

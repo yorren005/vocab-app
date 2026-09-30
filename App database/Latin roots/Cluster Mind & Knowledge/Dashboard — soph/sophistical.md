@@ -5,15 +5,6 @@ status: unread
 ---
 # sophistical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible but misleading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible but misleading.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If I lived with you as you desire, I should then be your mistress: to say otherwise is sophistical—is false.” “Jane, I am not a gentle-tempered man—you forget that: I am not long-enduring; I am not cool and dispassionate."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But of the two triumphs, that of refuting a sophistical son and that of holding on a while longer to a state of being which, with all abatements, he enjoyed, Ralph deemed it no sin to hope the latter might be vouchsafed to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible but misleading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible but misleading.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If I lived with you as you desire, I should then be your mistress: to say otherwise is sophistical—is false.” “Jane, I am not a gentle-tempered man—you forget that: I am not long-enduring; I am not cool and dispassionate."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But of the two triumphs, that of refuting a sophistical son and that of holding on a while longer to a state of being which, with all abatements, he enjoyed, Ralph deemed it no sin to hope the latter might be vouchsafed to Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incursion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering some territory or domain (often in large numbers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attack that penetrates into enemy territory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The results which follow on a large incursion of visitors into the Lake country may be considered under two heads, as affecting the residents, or as affecting the visitors themselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What never-dying honour hath he got Against renowned Douglas! whose high deeds, Whose hot incursions and great name in arms, Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge Christ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou art forth in the incursions, thou strikest as slow as another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering some territory or domain (often in large numbers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attack that penetrates into enemy territory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The results which follow on a large incursion of visitors into the Lake country may be considered under two heads, as affecting the residents, or as affecting the visitors themselves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What never-dying honour hath he got Against renowned Douglas! whose high deeds, Whose hot incursions and great name in arms, Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge Christ."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou art forth in the incursions, thou strikest as slow as another."*

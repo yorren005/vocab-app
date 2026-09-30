@@ -5,15 +5,6 @@ status: unread
 ---
 # indict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accuse formally of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accuse formally of a crime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Deputy’s the nighest name to indict me by: but yer wouldn’t catch me pleading to that, neither.” “Deputy be it always, then."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I repeat, the number indicts them; it stamps the whole cry as without any foundation; it derides the issue as a false and scandalous and partisan makeshift."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me much, Emilia, I was (unhandsome warrior as I am) Arraigning his unkindness with my soul; But now I find I had suborn’d the witness, And he’s indicted falsely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accuse formally of a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accuse formally of a crime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Deputy’s the nighest name to indict me by: but yer wouldn’t catch me pleading to that, neither.” “Deputy be it always, then."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I repeat, the number indicts them; it stamps the whole cry as without any foundation; it derides the issue as a false and scandalous and partisan makeshift."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me much, Emilia, I was (unhandsome warrior as I am) Arraigning his unkindness with my soul; But now I find I had suborn’d the witness, And he’s indicted falsely."*

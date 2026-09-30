@@ -5,14 +5,6 @@ status: unread
 ---
 # candidature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He threw himself, however, with great ardour into the support of the candidature of his friend Professor P.C."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Bradlaugh a contribution toward the expenses of his candidature for Northampton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He threw himself, however, with great ardour into the support of the candidature of his friend Professor P.C."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Bradlaugh a contribution toward the expenses of his candidature for Northampton."*

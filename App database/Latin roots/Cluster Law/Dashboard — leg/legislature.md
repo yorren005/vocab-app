@@ -5,15 +5,6 @@ status: unread
 ---
 # legislature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persons who make or amend or repeal laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persons who make or amend or repeal laws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By changing the rates on foreign exports or imports, the railroads frequently have made or nullified tariff rates and have defeated the intention of the legislature."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was commonly charged in some states that the legislature and the courts were "owned" by the railroads."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Eastern states were not without their troubles, for the report of the Hepburn Committee of the New York legislature in 1879 showed that discrimination between shippers prevailed to an almost incredible degree in every portion of New York state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persons who make or amend or repeal laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persons who make or amend or repeal laws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By changing the rates on foreign exports or imports, the railroads frequently have made or nullified tariff rates and have defeated the intention of the legislature."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was commonly charged in some states that the legislature and the courts were "owned" by the railroads."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Eastern states were not without their troubles, for the report of the Hepburn Committee of the New York legislature in 1879 showed that discrimination between shippers prevailed to an almost incredible degree in every portion of New York state."*

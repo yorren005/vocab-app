@@ -5,13 +5,6 @@ status: unread
 ---
 # hypnotizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who induces hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who induces hypnosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The hypnotizer employs one error to destroy another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who induces hypnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who induces hypnosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The hypnotizer employs one error to destroy another."*

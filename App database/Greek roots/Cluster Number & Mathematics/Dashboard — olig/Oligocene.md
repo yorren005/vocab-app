@@ -5,13 +5,6 @@ status: unread
 ---
 # oligocene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 40 million to 25 million years ago; appearance of sabertoothed cats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 40 million to 25 million years ago; appearance of sabertoothed cats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oligocene designates from 40 million to 25 million years ago; appearance of sabertoothed cats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 40 million to 25 million years ago; appearance of sabertoothed cats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 40 million to 25 million years ago; appearance of sabertoothed cats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oligocene designates from 40 million to 25 million years ago; appearance of sabertoothed cats."*

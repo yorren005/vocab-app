@@ -5,15 +5,6 @@ status: unread
 ---
 # tempt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispose or incline or entice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke someone to do something through (often false or exaggerated) promises or persuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tempt him not so too far; I wish, forbear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, Luciana, did he tempt thee so?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With what persuasion did he tempt thy love?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispose or incline or entice to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke someone to do something through (often false or exaggerated) promises or persuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tempt him not so too far; I wish, forbear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, Luciana, did he tempt thee so?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With what persuasion did he tempt thy love?"*

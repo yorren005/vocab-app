@@ -5,14 +5,6 @@ status: unread
 ---
 # autobiographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of an autobiographer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or in the style of an autobiography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"It contains several autobiographic touches; it is the only known instance in which she has addressed herself to full-grown readers, and it is sagacious and far-seeing."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Young as he was, and had his career terminated at the point already attained, there had been enough of incident to fill, very creditably, an autobiographic volume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of an autobiographer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or in the style of an autobiography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"It contains several autobiographic touches; it is the only known instance in which she has addressed herself to full-grown readers, and it is sagacious and far-seeing."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Young as he was, and had his career terminated at the point already attained, there had been enough of incident to fill, very creditably, an autobiographic volume."*

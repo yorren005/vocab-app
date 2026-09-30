@@ -5,13 +5,6 @@ status: unread
 ---
 # saccharose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex carbohydrate found in many plants and used as a sweetening agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex carbohydrate found in many plants and used as a sweetening agent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharose designates a complex carbohydrate found in many plants and used as a sweetening agent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex carbohydrate found in many plants and used as a sweetening agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex carbohydrate found in many plants and used as a sweetening agent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharose designates a complex carbohydrate found in many plants and used as a sweetening agent."*

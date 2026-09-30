@@ -5,13 +5,6 @@ status: unread
 ---
 # coincidently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening at the same time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"From that time the method has developed coincidently with the more empirical practice at many works of replacing coke fuel by sulphides to as great an extent as possible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening at the same time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"From that time the method has developed coincidently with the more empirical practice at many works of replacing coke fuel by sulphides to as great an extent as possible."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # magnate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very wealthy or powerful businessman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very wealthy or powerful businessman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"So there were changes at Chilmark, for the parish went to a hot-tempered Welshman with a wife and six children, and Wanhope was let to an American steel magnate, and Mrs."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Only the Magnate sat still in his place for several long minutes looking out across to Old Harpeth, and I wondered whether he was thinking about the Eternal City or how many rails it was going to take to span the valley at his feet."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Now rumbles along the carriage of some magnate of the city, peradventure an alderman or a sheriff, and now the patter of many feet announces it procession of charity scholars in uniforms of antique cut, and each with a prayer-book under his arm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very wealthy or powerful businessman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very wealthy or powerful businessman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"So there were changes at Chilmark, for the parish went to a hot-tempered Welshman with a wife and six children, and Wanhope was let to an American steel magnate, and Mrs."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Only the Magnate sat still in his place for several long minutes looking out across to Old Harpeth, and I wondered whether he was thinking about the Eternal City or how many rails it was going to take to span the valley at his feet."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Now rumbles along the carriage of some magnate of the city, peradventure an alderman or a sheriff, and now the patter of many feet announces it procession of charity scholars in uniforms of antique cut, and each with a prayer-book under his arm."*

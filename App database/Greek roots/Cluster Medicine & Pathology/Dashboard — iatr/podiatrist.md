@@ -5,13 +5,6 @@ status: unread
 ---
 # podiatrist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical care and treatment of the human foot —called also chiropody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical care and treatment of the human foot —called also chiropody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podiatrist designates the medical care and treatment of the human foot —called also chiropody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical care and treatment of the human foot —called also chiropody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical care and treatment of the human foot —called also chiropody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podiatrist designates the medical care and treatment of the human foot —called also chiropody."*

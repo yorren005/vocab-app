@@ -5,13 +5,6 @@ status: unread
 ---
 # decoupage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Art produced by decorating a surface with cutouts and then coating it with several layers of varnish or lacquer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of decorating a surface with shapes or pictures and then coating it with vanish or lacquer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoupage designates art produced by decorating a surface with cutouts and then coating it with several layers of varnish or lacquer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Art produced by decorating a surface with cutouts and then coating it with several layers of varnish or lacquer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of decorating a surface with shapes or pictures and then coating it with vanish or lacquer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoupage designates art produced by decorating a surface with cutouts and then coating it with several layers of varnish or lacquer."*

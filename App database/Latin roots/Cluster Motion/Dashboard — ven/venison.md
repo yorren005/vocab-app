@@ -5,15 +5,6 @@ status: unread
 ---
 # venison
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a deer used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a deer used as food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, shall we go and kill us venison?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that strikes The venison first shall be the lord o’ th’ feast; To him the other two shall minister; And we will fear no poison, which attends In place of greater state."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What thing is’t that I never Did see man die! scarce ever look’d on blood But that of coward hares, hot goats, and venison!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a deer used as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a deer used as food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, shall we go and kill us venison?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that strikes The venison first shall be the lord o’ th’ feast; To him the other two shall minister; And we will fear no poison, which attends In place of greater state."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What thing is’t that I never Did see man die! scarce ever look’d on blood But that of coward hares, hot goats, and venison!"*

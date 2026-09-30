@@ -5,13 +5,6 @@ status: unread
 ---
 # chromate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt or ester of chromic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt or ester of chromic acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromate designates any salt or ester of chromic acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt or ester of chromic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt or ester of chromic acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromate designates any salt or ester of chromic acid."*

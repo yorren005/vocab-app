@@ -5,13 +5,6 @@ status: unread
 ---
 # pterocarya
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic nut trees: wing nuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic nut trees: wing nuts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterocarya designates asiatic nut trees: wing nuts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic nut trees: wing nuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic nut trees: wing nuts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterocarya designates asiatic nut trees: wing nuts."*

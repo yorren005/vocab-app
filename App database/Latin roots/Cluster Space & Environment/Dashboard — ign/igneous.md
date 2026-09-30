@@ -5,13 +5,6 @@ status: unread
 ---
 # igneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced under conditions involving intense heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by the action of fire or intense heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"During the geological epochs, the igneous period succeeded to the aqeous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced under conditions involving intense heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by the action of fire or intense heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"During the geological epochs, the igneous period succeeded to the aqeous."*

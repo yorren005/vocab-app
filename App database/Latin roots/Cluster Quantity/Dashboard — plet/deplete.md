@@ -5,15 +5,6 @@ status: unread
 ---
 # deplete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use up (resources or materials).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"I am not going to deplete my brigade, at this most critical time, by letting everybody go home who takes a fool's notion into his head that he wants to."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Evil thought depletes 416:24 The sick know nothing of the mental process by which they are depleted, and next to nothing of the metaphysical method by which they can be 416:27 healed."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Two galactic millennia had passed since the empire had reached that same period in technological growth, depleting the petroleum resources of a hundred worlds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use up (resources or materials).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"I am not going to deplete my brigade, at this most critical time, by letting everybody go home who takes a fool's notion into his head that he wants to."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Evil thought depletes 416:24 The sick know nothing of the mental process by which they are depleted, and next to nothing of the metaphysical method by which they can be 416:27 healed."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Two galactic millennia had passed since the empire had reached that same period in technological growth, depleting the petroleum resources of a hundred worlds."*

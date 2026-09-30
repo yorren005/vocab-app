@@ -5,13 +5,6 @@ status: unread
 ---
 # digenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternation of sexual and asexual generations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternation of sexual and asexual generations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digenesis designates alternation of sexual and asexual generations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternation of sexual and asexual generations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternation of sexual and asexual generations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digenesis designates alternation of sexual and asexual generations."*

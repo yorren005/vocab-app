@@ -5,18 +5,6 @@ status: unread
 ---
 # loam
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cover, smear, or fill with loam
-> 2. **Nuance / Usage**: Coarse molding sand used in founding
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the loam withstood the storm*), direct object (*cleaved the loam*), or prepositional anchor (*amidst the loam*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Men are but gilded loam or painted clay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cover, smear, or fill with loam
+> 2. **Nuance / Usage**: Coarse molding sand used in founding
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the loam withstood the storm*), direct object (*cleaved the loam*), or prepositional anchor (*amidst the loam*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Men are but gilded loam or painted clay."*

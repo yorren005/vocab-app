@@ -5,15 +5,6 @@ status: unread
 ---
 # deficiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of needing something that is absent or unavailable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of an adequate quantity or number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"I think she would be so much pleased with his mind, that she would very soon see no deficiency in his manner.” “So do I, Anne,” said Charles."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her greatest deficiency was in the pencil—she had no notion of drawing—not enough even to attempt a sketch of her lover’s profile, that she might be detected in the design."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of needing something that is absent or unavailable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of an adequate quantity or number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"I think she would be so much pleased with his mind, that she would very soon see no deficiency in his manner.” “So do I, Anne,” said Charles."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her greatest deficiency was in the pencil—she had no notion of drawing—not enough even to attempt a sketch of her lover’s profile, that she might be detected in the design."*

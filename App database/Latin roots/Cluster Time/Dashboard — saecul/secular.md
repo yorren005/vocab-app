@@ -5,15 +5,6 @@ status: unread
 ---
 # secular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is not a clergyman or a professional person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the doctrine that rejects religion and religious considerations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Puritan austerity of the centuries following the Reformation had discouraged secular music, like other forms of art, in Scotland; and as a result Scottish song had become hopelessly degraded in point both of decency and literary quality."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the distinction between Christian and secular writers is not one that will weigh much with a serious historian."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Everything else in Christian or secular history, compared to it, seems easy and explicable; and it was achieved by the love of Jesus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is not a clergyman or a professional person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the doctrine that rejects religion and religious considerations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Puritan austerity of the centuries following the Reformation had discouraged secular music, like other forms of art, in Scotland; and as a result Scottish song had become hopelessly degraded in point both of decency and literary quality."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the distinction between Christian and secular writers is not one that will weigh much with a serious historian."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Everything else in Christian or secular history, compared to it, seems easy and explicable; and it was achieved by the love of Jesus."*

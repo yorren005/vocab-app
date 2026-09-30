@@ -5,13 +5,6 @@ status: unread
 ---
 # appreciator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is fully aware of something and understands it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is fully aware of something and understands it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Genuine--i. e., _enthusiastic_--appreciators are not so common, and must be cultivated when they appear...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is fully aware of something and understands it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is fully aware of something and understands it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Genuine--i. e., _enthusiastic_--appreciators are not so common, and must be cultivated when they appear...."*

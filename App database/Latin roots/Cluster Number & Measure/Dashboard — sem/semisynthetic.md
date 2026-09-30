@@ -5,13 +5,6 @@ status: unread
 ---
 # semisynthetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of natural origin; prepared or made artificially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of natural origin; prepared or made artificially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisynthetic designates not of natural origin; prepared or made artificially."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of natural origin; prepared or made artificially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of natural origin; prepared or made artificially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisynthetic designates not of natural origin; prepared or made artificially."*

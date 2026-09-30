@@ -5,13 +5,6 @@ status: unread
 ---
 # amphictyony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of neighboring states or tribes in ancient greece; established originally to defend a common religious center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of neighboring states or tribes in ancient greece; established originally to defend a common religious center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphictyony designates an association of neighboring states or tribes in ancient greece; established originally to defend a common religious center."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of neighboring states or tribes in ancient greece; established originally to defend a common religious center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of neighboring states or tribes in ancient greece; established originally to defend a common religious center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphictyony designates an association of neighboring states or tribes in ancient greece; established originally to defend a common religious center."*

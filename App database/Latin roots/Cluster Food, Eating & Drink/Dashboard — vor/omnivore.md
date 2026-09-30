@@ -5,13 +5,6 @@ status: unread
 ---
 # omnivore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats all kinds of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that feeds on both animal and vegetable substances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnivore designates a person who eats all kinds of foods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats all kinds of foods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that feeds on both animal and vegetable substances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnivore designates a person who eats all kinds of foods."*

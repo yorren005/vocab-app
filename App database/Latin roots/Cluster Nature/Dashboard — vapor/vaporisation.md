@@ -5,13 +5,6 @@ status: unread
 ---
 # vaporisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annihilation by vaporizing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaporisation designates the process of becoming a vapor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming a vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annihilation by vaporizing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaporisation designates the process of becoming a vapor."*

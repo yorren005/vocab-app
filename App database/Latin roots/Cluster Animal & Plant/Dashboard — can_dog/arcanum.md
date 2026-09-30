@@ -5,13 +5,6 @@ status: unread
 ---
 # arcanum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information known only to a special group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information known only to a special group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Certainly no man whatever; for this arcanum doth enter into an artist of a stiff neck; he only hath it who transcends the progress of angels and comes to the very Archtype himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Information known only to a special group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information known only to a special group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Certainly no man whatever; for this arcanum doth enter into an artist of a stiff neck; he only hath it who transcends the progress of angels and comes to the very Archtype himself."*

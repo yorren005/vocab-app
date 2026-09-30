@@ -5,15 +5,6 @@ status: unread
 ---
 # sage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mentor in spiritual and philosophical topics who is renowned for profound wisdom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should profane the service of the dead To sing sage requiem and such rest to her As to peace-parted souls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you sage counsellors, hence!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Majestee ’ave _fausse_ French enough to deceive de most _sage demoiselle_ dat is _en France_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mentor in spiritual and philosophical topics who is renowned for profound wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should profane the service of the dead To sing sage requiem and such rest to her As to peace-parted souls."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you sage counsellors, hence!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Majestee ’ave _fausse_ French enough to deceive de most _sage demoiselle_ dat is _en France_."*

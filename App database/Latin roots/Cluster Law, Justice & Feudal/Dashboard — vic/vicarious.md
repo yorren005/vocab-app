@@ -5,15 +5,6 @@ status: unread
 ---
 # vicarious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Experienced at secondhand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in an abnormal part of the body instead of the usual site involved in that function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Vicarious suffering 36:30 Religious history repeats itself in the suf- fering of the just for the unjust."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In short, the principle of vicarious suffering is commonly understood and practised by races who stand on a low level of social and intellectual culture."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"We shall also be moved to resolve that the amount of the vicarious suffering of men for this end shall be reduced of all that portion of it that comes through our indifference and the activity of evil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experienced at secondhand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in an abnormal part of the body instead of the usual site involved in that function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Vicarious suffering 36:30 Religious history repeats itself in the suf- fering of the just for the unjust."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In short, the principle of vicarious suffering is commonly understood and practised by races who stand on a low level of social and intellectual culture."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"We shall also be moved to resolve that the amount of the vicarious suffering of men for this end shall be reduced of all that portion of it that comes through our indifference and the activity of evil."*

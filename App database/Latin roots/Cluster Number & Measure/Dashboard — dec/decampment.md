@@ -5,13 +5,6 @@ status: unread
 ---
 # decampment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of running away secretly (as to avoid arrest).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking camp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decampment designates the act of running away secretly (as to avoid arrest)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of running away secretly (as to avoid arrest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking camp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decampment designates the act of running away secretly (as to avoid arrest)."*

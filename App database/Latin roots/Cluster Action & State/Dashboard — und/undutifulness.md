@@ -5,13 +5,6 @@ status: unread
 ---
 # undutifulness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impiety characterized by lack of devotion to duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impiety characterized by lack of devotion to duty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Let him take the consequences of his undutifulness and folly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impiety characterized by lack of devotion to duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impiety characterized by lack of devotion to duty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Let him take the consequences of his undutifulness and folly."*

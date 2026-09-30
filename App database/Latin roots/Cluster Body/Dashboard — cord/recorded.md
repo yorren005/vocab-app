@@ -5,15 +5,6 @@ status: unread
 ---
 # recorded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a record of; set down in permanent form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register electronically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will fetch my gold and have our two wagers recorded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You three, Berowne, Dumaine and Longaville, Have sworn for three years’ term to live with me, My fellow-scholars, and to keep those statutes That are recorded in this schedule here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a record of; set down in permanent form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register electronically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will fetch my gold and have our two wagers recorded."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You three, Berowne, Dumaine and Longaville, Have sworn for three years’ term to live with me, My fellow-scholars, and to keep those statutes That are recorded in this schedule here."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*

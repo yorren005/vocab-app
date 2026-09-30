@@ -5,13 +5,6 @@ status: unread
 ---
 # psychiatrist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in psychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in psychiatry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I wonder what a psychiatrist would have said about him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in psychiatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in psychiatry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I wonder what a psychiatrist would have said about him."*

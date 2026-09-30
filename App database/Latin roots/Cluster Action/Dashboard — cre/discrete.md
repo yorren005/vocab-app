@@ -5,13 +5,6 @@ status: unread
 ---
 # discrete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a separate entity or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a separate entity or part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What discrete succession of images did Stephen meanwhile perceive?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a separate entity or part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a separate entity or part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What discrete succession of images did Stephen meanwhile perceive?"*

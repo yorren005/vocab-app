@@ -5,15 +5,6 @@ status: unread
 ---
 # seduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enticing someone astray from right behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of winning the love or sexual favor of someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He was declared to be in debt to every tradesman in the place, and his intrigues, all honoured with the title of seduction, had been extended into every tradesman’s family."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If it were necessary to confirm so plain a truth by facts, examples would not be wanting, even in this country, of the intimidation or seduction of the Executive by the terrors or allurements of the pecuniary arrangements of the legislative body."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"What object have you in the seduction of my wife?” He smiled, but was silent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enticing someone astray from right behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of winning the love or sexual favor of someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He was declared to be in debt to every tradesman in the place, and his intrigues, all honoured with the title of seduction, had been extended into every tradesman’s family."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If it were necessary to confirm so plain a truth by facts, examples would not be wanting, even in this country, of the intimidation or seduction of the Executive by the terrors or allurements of the pecuniary arrangements of the legislative body."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"What object have you in the seduction of my wife?” He smiled, but was silent."*

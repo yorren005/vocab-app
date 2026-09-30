@@ -5,15 +5,6 @@ status: unread
 ---
 # unregenerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenaciously unwilling or marked by tenacious unwillingness to yield.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reformed morally or spiritually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He who had wrought her undoing was now on the side of the Spirit, while she remained unregenerate."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole breed is unregenerate and damned."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Think, wicked Sinner, wha ye’re skaithing: It’s just the Blue-gown badge an’ claithing O’ saunts; tak that, ye lea’e them naething To ken them by Frae ony unregenerate heathen, Like you or I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenaciously unwilling or marked by tenacious unwillingness to yield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reformed morally or spiritually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He who had wrought her undoing was now on the side of the Spirit, while she remained unregenerate."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole breed is unregenerate and damned."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Think, wicked Sinner, wha ye’re skaithing: It’s just the Blue-gown badge an’ claithing O’ saunts; tak that, ye lea’e them naething To ken them by Frae ony unregenerate heathen, Like you or I."*

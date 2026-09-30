@@ -5,14 +5,6 @@ status: unread
 ---
 # meretricious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or relating to a prostitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tastelessly showy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"She lay solidly in her bed amidst the meretricious gorgeousness she had affected in life, the weight of her body sagging the bed grotesquely toward its center."*
-> - 📜 **James Joyce (*Ulysses*):** *"Meretricious finery to deceive the eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or relating to a prostitute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tastelessly showy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"She lay solidly in her bed amidst the meretricious gorgeousness she had affected in life, the weight of her body sagging the bed grotesquely toward its center."*
+> - 📜 **James Joyce (*Ulysses*):** *"Meretricious finery to deceive the eye."*

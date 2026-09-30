@@ -5,15 +5,6 @@ status: unread
 ---
 # transference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) the process whereby emotions are passed on or displaced from one person to another; during psychoanalysis the displacement of feelings toward others (usually the parents) is onto the analyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transferring ownership.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory that this connection is based on the transference of the collective will of a people to certain historical personages is an hypothesis unconfirmed by the experience of history."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory seems irrefutable just because the act of transference of the people’s will cannot be verified, for it never occurred."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory of the transference of the will of the people to historic persons is merely a paraphrase—a restatement of the question in other words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) the process whereby emotions are passed on or displaced from one person to another; during psychoanalysis the displacement of feelings toward others (usually the parents) is onto the analyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transferring ownership.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory that this connection is based on the transference of the collective will of a people to certain historical personages is an hypothesis unconfirmed by the experience of history."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory seems irrefutable just because the act of transference of the people’s will cannot be verified, for it never occurred."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory of the transference of the will of the people to historic persons is merely a paraphrase—a restatement of the question in other words."*

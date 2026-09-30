@@ -5,15 +5,6 @@ status: unread
 ---
 # indistinguishable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exactly alike; incapable of being perceived as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being distinguished or differentiated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, no, you ruinous butt; you whoreson indistinguishable cur, no."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He fixed his eyes on Val: eyes like his cousin's in form and colour, large, and so black under their black lashes that the pupil was almost indistinguishable from the iris, but smouldering in a perpetual glow, while Hyde's were clear and indifferent."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I passed along the tradesmen’s path, but found it all trampled down and indistinguishable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exactly alike; incapable of being perceived as different.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being distinguished or differentiated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, no, you ruinous butt; you whoreson indistinguishable cur, no."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He fixed his eyes on Val: eyes like his cousin's in form and colour, large, and so black under their black lashes that the pupil was almost indistinguishable from the iris, but smouldering in a perpetual glow, while Hyde's were clear and indifferent."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I passed along the tradesmen’s path, but found it all trampled down and indistinguishable."*

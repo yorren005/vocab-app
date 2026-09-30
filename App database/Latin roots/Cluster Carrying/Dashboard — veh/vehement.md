@@ -5,15 +5,6 @@ status: unread
 ---
 # vehement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by extreme intensity of emotions or convictions; inclined to react violently; fervid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by great force or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By long and vehement suit I was seduc’d To make room for him in my husband’s bed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though it do well, I do not relish well Their loud applause and _Aves_ vehement; Nor do I think the man of safe discretion That does affect it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though not for me, yet for your vehement oaths, You should have been respective and have kept it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by extreme intensity of emotions or convictions; inclined to react violently; fervid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by great force or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By long and vehement suit I was seduc’d To make room for him in my husband’s bed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though it do well, I do not relish well Their loud applause and _Aves_ vehement; Nor do I think the man of safe discretion That does affect it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though not for me, yet for your vehement oaths, You should have been respective and have kept it."*

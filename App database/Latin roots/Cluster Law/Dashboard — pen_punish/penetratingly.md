@@ -5,13 +5,6 @@ status: unread
 ---
 # penetratingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ability to see into deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ability to see into deeply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene,” said Lydia then, penetratingly; “when you came to pay me this visit, what object did you propose to yourself?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With ability to see into deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ability to see into deeply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene,” said Lydia then, penetratingly; “when you came to pay me this visit, what object did you propose to yourself?"*

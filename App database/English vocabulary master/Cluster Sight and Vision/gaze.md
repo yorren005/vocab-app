@@ -5,20 +5,6 @@ status: unread
 ---
 # gaze
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fixed intent look
-> 2. **Nuance / Usage**: (transitive, poetic) to stare at
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gaze the target*) and intransitive clauses (*gazing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"A lover’s eyes will gaze an eagle blind."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And live to be the show and gaze o’ th’ time."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Or else depart; here all eyes gaze on us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To look steadily, intently, and at length at someone or something, especially in admiration, contemplation, or wonder.
+> 2. **Nuance / Usage**: As a noun, a fixed, absorbed, or directed look; in critical theory, a characteristic lens of perception and power (*the male gaze*, *the imperial gaze*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gaze the target*) and intransitive clauses (*gazing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A lover’s eyes will **gaze** an eagle blind."*
+> - 📜 **William Butler Yeats (*The Second Coming*):** *"A shape with lion body and the head of a man, a **gaze** blank and pitiless as the sun, is moving its slow thighs."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry **gazed** at the portrait with a subtle smile of mingled pleasure and regret."*

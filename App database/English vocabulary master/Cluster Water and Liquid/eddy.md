@@ -5,20 +5,6 @@ status: unread
 ---
 # eddy
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Something moving similarly
-> 2. **Nuance / Usage**: Circular current; a whirlpool
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the eddy withstood the storm*), direct object (*cleaved the eddy*), or prepositional anchor (*amidst the eddy*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My eyes were covered and closed: eddying darkness seemed to swim round me, and reflection came in as black and confused a flow."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There is a fierce eddy between the wharf and the house."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Looking down over the rails Prince Nesvítski saw the rapid, noisy little waves of the Enns, which rippling and eddying round the piles of the bridge chased each other along."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Something moving similarly
+> 2. **Nuance / Usage**: Circular current; a whirlpool
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the eddy withstood the storm*), direct object (*cleaved the eddy*), or prepositional anchor (*amidst the eddy*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My eyes were covered and closed: eddying darkness seemed to swim round me, and reflection came in as black and confused a flow."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There is a fierce eddy between the wharf and the house."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Looking down over the rails Prince Nesvítski saw the rapid, noisy little waves of the Enns, which rippling and eddying round the piles of the bridge chased each other along."*

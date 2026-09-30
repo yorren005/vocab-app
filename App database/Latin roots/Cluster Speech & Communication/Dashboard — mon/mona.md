@@ -5,15 +5,6 @@ status: unread
 ---
 # mona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island to the northwest of wales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island to the northwest of wales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Then someone said something about the case of the s. s. _Lady Cairns_ of Swansea run into by the _Mona_ which was on an opposite tack in rather muggyish weather and lost with all hands on deck."*
-> - 📜 **James Joyce (*Ulysses*):** *"Her master, the _Mona_’s, said he was afraid his collision bulkhead would give way."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alleg._ ii, Sec. 1, 67 M. _tattetai oun ho theos kata to en kai ten monada, mallon de kai he monas kata ton hena theon_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island to the northwest of wales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island to the northwest of wales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Then someone said something about the case of the s. s. _Lady Cairns_ of Swansea run into by the _Mona_ which was on an opposite tack in rather muggyish weather and lost with all hands on deck."*
+> - 📜 **James Joyce (*Ulysses*):** *"Her master, the _Mona_’s, said he was afraid his collision bulkhead would give way."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alleg._ ii, Sec. 1, 67 M. _tattetai oun ho theos kata to en kai ten monada, mallon de kai he monas kata ton hena theon_."*

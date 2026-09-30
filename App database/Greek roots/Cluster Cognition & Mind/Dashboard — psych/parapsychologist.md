@@ -5,13 +5,6 @@ status: unread
 ---
 # parapsychologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who studies the evidence for such psychological phenomena as psychokinesis and telepathy and clairvoyance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who studies the evidence for such psychological phenomena as psychokinesis and telepathy and clairvoyance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapsychologist designates someone who studies the evidence for such psychological phenomena as psychokinesis and telepathy and clairvoyance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who studies the evidence for such psychological phenomena as psychokinesis and telepathy and clairvoyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who studies the evidence for such psychological phenomena as psychokinesis and telepathy and clairvoyance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapsychologist designates someone who studies the evidence for such psychological phenomena as psychokinesis and telepathy and clairvoyance."*

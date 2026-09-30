@@ -5,15 +5,6 @@ status: unread
 ---
 # entrust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer a trust upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into the care or protection of someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Then came many of the officers to beg leave to entrust to the care of Mr. and Mrs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thirdly, he had a son whom it would be a pity to entrust to a chit of a girl."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Vasíli Dmítrich, entrust me with some commission!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer a trust upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into the care or protection of someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Then came many of the officers to beg leave to entrust to the care of Mr. and Mrs."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thirdly, he had a son whom it would be a pity to entrust to a chit of a girl."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Vasíli Dmítrich, entrust me with some commission!"*

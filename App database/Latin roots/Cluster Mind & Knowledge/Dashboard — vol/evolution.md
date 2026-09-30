@@ -5,15 +5,6 @@ status: unread
 ---
 # evolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which something passes by degrees to a different stage (especially a more advanced or mature stage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s well I never made that evolution of matrimony."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The ground favoured the evolution, and, from long practice, it was accomplished without a hitch, so that when the forty wagons were finally halted they formed a circle."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Much have I pondered upon the relation of these other selves to me, and of the relation of the total experience to the modern doctrine of evolution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which something passes by degrees to a different stage (especially a more advanced or mature stage).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s well I never made that evolution of matrimony."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The ground favoured the evolution, and, from long practice, it was accomplished without a hitch, so that when the forty wagons were finally halted they formed a circle."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Much have I pondered upon the relation of these other selves to me, and of the relation of the total experience to the modern doctrine of evolution."*

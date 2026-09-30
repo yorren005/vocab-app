@@ -5,20 +5,6 @@ status: unread
 ---
 # dim
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dull, lusterless
-> 2. **Nuance / Usage**: Not bright or colorful
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a dim presence*) or predicatively (*remained dim*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Gazing on that which seems to dim thy sight?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So doth the greater glory dim the less."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As they ascend the dim stairs (Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dull, lusterless
+> 2. **Nuance / Usage**: Not bright or colorful
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a dim presence*) or predicatively (*remained dim*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Gazing on that which seems to dim thy sight?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So doth the greater glory dim the less."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As they ascend the dim stairs (Mr."*

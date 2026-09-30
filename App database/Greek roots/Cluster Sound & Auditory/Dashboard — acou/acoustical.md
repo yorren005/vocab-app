@@ -5,13 +5,6 @@ status: unread
 ---
 # acoustical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of acoustics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of acoustics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Here they are!” said Miss Pross, rising to break up the conference; “and now we shall have hundreds of people pretty soon!” It was such a curious corner in its acoustical properties, such a peculiar Ear of a place, that as Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of acoustics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of acoustics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Here they are!” said Miss Pross, rising to break up the conference; “and now we shall have hundreds of people pretty soon!” It was such a curious corner in its acoustical properties, such a peculiar Ear of a place, that as Mr."*

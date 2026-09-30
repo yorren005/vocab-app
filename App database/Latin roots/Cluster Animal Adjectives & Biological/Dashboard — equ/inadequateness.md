@@ -5,13 +5,6 @@ status: unread
 ---
 # inadequateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of being inadequate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of being inadequate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here, then, are three sources of vague and incorrect definitions: indistinctness of the object, imperfection of the organ of conception, inadequateness of the vehicle of ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of being inadequate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of being inadequate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here, then, are three sources of vague and incorrect definitions: indistinctness of the object, imperfection of the organ of conception, inadequateness of the vehicle of ideas."*

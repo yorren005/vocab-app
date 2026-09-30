@@ -5,15 +5,6 @@ status: unread
 ---
 # joined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become part of; become a member of a group or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become joined or linked.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is spoke freely out of many mouths— How probable I do not know—that Martius, Joined with Aufidius, leads a power ’gainst Rome And vows revenge as spacious as between The young’st and oldest thing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Martius should be joined with Volscians— COMINIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I wish, sir— I mean for your particular—you had not Joined in commission with him, but either Had borne the action of yourself or else To him had left it solely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become part of; become a member of a group or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become joined or linked.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is spoke freely out of many mouths— How probable I do not know—that Martius, Joined with Aufidius, leads a power ’gainst Rome And vows revenge as spacious as between The young’st and oldest thing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Martius should be joined with Volscians— COMINIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I wish, sir— I mean for your particular—you had not Joined in commission with him, but either Had borne the action of yourself or else To him had left it solely."*

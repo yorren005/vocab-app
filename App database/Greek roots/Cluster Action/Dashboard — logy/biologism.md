@@ -5,13 +5,6 @@ status: unread
 ---
 # biologism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of biological explanations in the analysis of social situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of biological explanations in the analysis of social situations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologism designates the use of biological explanations in the analysis of social situations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of biological explanations in the analysis of social situations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of biological explanations in the analysis of social situations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologism designates the use of biological explanations in the analysis of social situations."*

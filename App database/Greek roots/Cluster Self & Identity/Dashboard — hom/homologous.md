@@ -5,13 +5,6 @@ status: unread
 ---
 # homologous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same relative position, value, or structure: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting biological homology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The spheres are to each other as the squares of their homologous sides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same relative position, value, or structure: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting biological homology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The spheres are to each other as the squares of their homologous sides."*

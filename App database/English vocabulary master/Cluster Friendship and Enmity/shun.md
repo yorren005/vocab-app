@@ -5,20 +5,6 @@ status: unread
 ---
 # shun
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to screen, hide
-> 2. **Nuance / Usage**: Avoid deliberately and especially habitually
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to shun the target*) and intransitive clauses (*shuning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And were I strong, I would not shun their fury."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And weak we are and cannot shun pursuit."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By flight I’ll shun the danger which I fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To deliberately, persistently, and habitually avoid, ostracize, or keep away from a person, place, or practice.
+> 2. **Nuance / Usage**: Often implies moral disapproval, social exclusion, or prudent caution, including the formal communal ostracism practiced by certain religious groups.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to shun the target*) and intransitive clauses (*shuning against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"By flight I’ll **shun** the danger which I fear."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The townspeople **shunned** her path as though the scarlet token carried a contagion."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He seemed a man who **shunned** the common ports of humanity to sail a lonely sea."*

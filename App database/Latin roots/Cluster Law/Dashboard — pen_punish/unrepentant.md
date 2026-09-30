@@ -5,13 +5,6 @@ status: unread
 ---
 # unrepentant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not penitent or remorseful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly persistent in wrongdoing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne carried it to him and sat sorrowfully by him while he ate it with an unrepentant relish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not penitent or remorseful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly persistent in wrongdoing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne carried it to him and sat sorrowfully by him while he ate it with an unrepentant relish."*

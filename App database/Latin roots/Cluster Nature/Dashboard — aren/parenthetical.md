@@ -5,13 +5,6 @@ status: unread
 ---
 # parenthetical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression in parentheses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualifying or explaining; placed or as if placed in parentheses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What could the wretched Joe do now, after his disregarded parenthetical interruptions, but stand up to his journeyman, and ask him what he meant by interfering betwixt himself and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression in parentheses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualifying or explaining; placed or as if placed in parentheses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"What could the wretched Joe do now, after his disregarded parenthetical interruptions, but stand up to his journeyman, and ask him what he meant by interfering betwixt himself and Mrs."*

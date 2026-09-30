@@ -5,15 +5,6 @@ status: unread
 ---
 # protector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cares for persons or property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who cares for persons or property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford, Regent of France; the Duke of Gloucester, Protector; the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, the Duke of Somerset with Heralds, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gloucester, whate’er we like, thou art Protector, And lookest to command the Prince and realm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Villains, answer you so the Lord Protector?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cares for persons or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who cares for persons or property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford, Regent of France; the Duke of Gloucester, Protector; the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, the Duke of Somerset with Heralds, &c."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gloucester, whate’er we like, thou art Protector, And lookest to command the Prince and realm."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Villains, answer you so the Lord Protector?"*

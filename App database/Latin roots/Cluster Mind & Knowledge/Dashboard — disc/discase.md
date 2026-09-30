@@ -5,13 +5,6 @@ status: unread
 ---
 # discase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ariel, Fetch me the hat and rapier in my cell. [_Exit Ariel._] I will discase me, and myself present As I was sometime Milan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ariel, Fetch me the hat and rapier in my cell. [_Exit Ariel._] I will discase me, and myself present As I was sometime Milan."*

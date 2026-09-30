@@ -5,15 +5,6 @@ status: unread
 ---
 # perversity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate and stubborn unruliness and resistance to guidance or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately deviating from what is good.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And what a distortion in your judgment, what a perversity in your ideas, is proved by your conduct!"*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Have any of you already attained such a degree of blindness and perversity, as to persuade yourselves that the doctrines of the cross are really irrational and absurd, and that you are doing right in opposing and deriding them?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother thought he could account for this speech, in striking contrast with Lydgate’s former way of talking, as the perversity which will often spring from the moodiness of a man ill at ease in his affairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate and stubborn unruliness and resistance to guidance or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately deviating from what is good.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And what a distortion in your judgment, what a perversity in your ideas, is proved by your conduct!"*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Have any of you already attained such a degree of blindness and perversity, as to persuade yourselves that the doctrines of the cross are really irrational and absurd, and that you are doing right in opposing and deriding them?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother thought he could account for this speech, in striking contrast with Lydgate’s former way of talking, as the perversity which will often spring from the moodiness of a man ill at ease in his affairs."*

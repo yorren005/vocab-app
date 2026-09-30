@@ -5,13 +5,6 @@ status: unread
 ---
 # secotiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secotiaceae designates a family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secotiaceae designates a family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # utilise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Would it be possible to utilise the natives of the country, or would it be necessary to import black labour?"*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have no hesitation in saying that it would be possible to utilise the natives as labourers."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"To utilise the heat of the already melted charge for the heating up of the fresh ore. v."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Would it be possible to utilise the natives of the country, or would it be necessary to import black labour?"*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have no hesitation in saying that it would be possible to utilise the natives as labourers."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"To utilise the heat of the already melted charge for the heating up of the fresh ore. v."*

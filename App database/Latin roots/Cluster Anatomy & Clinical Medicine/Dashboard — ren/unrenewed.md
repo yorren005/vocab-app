@@ -5,15 +5,6 @@ status: unread
 ---
 # unrenewed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not revived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not revived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"On the other, there could not be a full disclosure of the true feelings of the unrenewed heart."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"In fine, _the preaching of the cross_ includes a faithful denunciation of _eternal misery_, as the inevitable doom of all who pass from this state of probation, unrenewed by the Spirit of grace, unwashed in the blood of the Lamb."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"How clearly and terribly, my hearers, does this subject discover the ungodliness of the unrenewed heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not revived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not revived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"On the other, there could not be a full disclosure of the true feelings of the unrenewed heart."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"In fine, _the preaching of the cross_ includes a faithful denunciation of _eternal misery_, as the inevitable doom of all who pass from this state of probation, unrenewed by the Spirit of grace, unwashed in the blood of the Lamb."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"How clearly and terribly, my hearers, does this subject discover the ungodliness of the unrenewed heart."*

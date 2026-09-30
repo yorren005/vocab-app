@@ -5,15 +5,6 @@ status: unread
 ---
 # inspire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply the inspiration for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our ancient word of courage, fair Saint George, Inspire us with the spleen of fiery dragons!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Apollo, Pallas, Jove, or Mercury, Inspire me, that I may this treason find!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me some meditation, And mark your cue. [_Exeunt all but Schoolmaster._] Pallas inspire me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply the inspiration for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our ancient word of courage, fair Saint George, Inspire us with the spleen of fiery dragons!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Apollo, Pallas, Jove, or Mercury, Inspire me, that I may this treason find!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me some meditation, And mark your cue. [_Exeunt all but Schoolmaster._] Pallas inspire me."*

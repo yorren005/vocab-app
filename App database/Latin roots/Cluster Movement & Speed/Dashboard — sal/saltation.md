@@ -5,13 +5,6 @@ status: unread
 ---
 # saltation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a mutation that drastically changes the phenotype of an organism or species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltation designates (geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a mutation that drastically changes the phenotype of an organism or species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltation designates (geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface."*

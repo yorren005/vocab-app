@@ -5,15 +5,6 @@ status: unread
 ---
 # erect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct, build, or erect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to rise up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Erect his statue and worship it, And make my image but an alehouse sign."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If a man do not erect in this age his own tomb ere he dies, he shall live no longer in monument than the bell rings and the widow weeps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They call him Troilus, and on him erect A second hope as fairly built as Hector."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct, build, or erect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to rise up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Erect his statue and worship it, And make my image but an alehouse sign."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If a man do not erect in this age his own tomb ere he dies, he shall live no longer in monument than the bell rings and the widow weeps."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They call him Troilus, and on him erect A second hope as fairly built as Hector."*

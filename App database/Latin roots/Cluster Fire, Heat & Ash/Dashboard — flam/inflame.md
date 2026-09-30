@@ -5,15 +5,6 @@ status: unread
 ---
 # inflame
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause inflammation in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My knight, I will inflame thy noble liver, And make thee rage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are not wood, you are not stones, but men; And being men, hearing the will of Caesar, It will inflame you, it will make you mad. ’Tis good you know not that you are his heirs; For if you should, O, what would come of it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which shows that beauty hath his power and will, Which can as well inflame as it can kill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause inflammation in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My knight, I will inflame thy noble liver, And make thee rage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are not wood, you are not stones, but men; And being men, hearing the will of Caesar, It will inflame you, it will make you mad. ’Tis good you know not that you are his heirs; For if you should, O, what would come of it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which shows that beauty hath his power and will, Which can as well inflame as it can kill."*

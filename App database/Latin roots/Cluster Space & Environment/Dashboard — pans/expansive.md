@@ -5,15 +5,6 @@ status: unread
 ---
 # expansive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able or tending to expand or characterized by expansion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of behavior that is impressive and ambitious in scale or scope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So he was, in a certain point of view—in his expansive intentions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am overwhelming you with money—in my expansive intentions—if you only knew it!” And really (he said) he meant it to that degree that he thought it much the same as doing it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I thought of the life that lay before me—_your_ life, sir—an existence more expansive and stirring than my own: as much more so as the depths of the sea to which the brook runs are than the shallows of its own strait channel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able or tending to expand or characterized by expansion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of behavior that is impressive and ambitious in scale or scope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So he was, in a certain point of view—in his expansive intentions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am overwhelming you with money—in my expansive intentions—if you only knew it!” And really (he said) he meant it to that degree that he thought it much the same as doing it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I thought of the life that lay before me—_your_ life, sir—an existence more expansive and stirring than my own: as much more so as the depths of the sea to which the brook runs are than the shallows of its own strait channel."*

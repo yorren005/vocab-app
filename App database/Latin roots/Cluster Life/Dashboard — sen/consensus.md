@@ -5,15 +5,6 @@ status: unread
 ---
 # consensus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement in the judgment or opinion reached by a group as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement in the judgment or opinion reached by a group as a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We must give greater credence to each other's needs and aspirations and arrive at consensus on sharing in the responsibilities for this, our family of planets and satellites."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slowly, positions clarified and consensus took form."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The consensus of ancient opinion on this subject seems too great to be rejected as a mere fancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement in the judgment or opinion reached by a group as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement in the judgment or opinion reached by a group as a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We must give greater credence to each other's needs and aspirations and arrive at consensus on sharing in the responsibilities for this, our family of planets and satellites."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slowly, positions clarified and consensus took form."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The consensus of ancient opinion on this subject seems too great to be rejected as a mere fancy."*

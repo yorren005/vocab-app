@@ -5,13 +5,6 @@ status: unread
 ---
 # deoxidise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deoxidise designates to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deoxidise designates to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons."*

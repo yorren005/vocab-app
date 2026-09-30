@@ -5,15 +5,6 @@ status: unread
 ---
 # renouncement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act (spoken or written) declaring that something is surrendered or disowned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act (spoken or written) declaring that something is surrendered or disowned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hold you as a thing enskied and sainted By your renouncement an immortal spirit, And to be talked with in sincerity, As with a saint."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"What he would not permit this office to consist of was yet to be settled: there was a queer relief, at all events—I mean for myself in especial—in the renouncement of one pretension."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The little volume was to be issued by Cottle of Bristol, early in the coming year, 1797; and Lamb was desirous to seize the occasion of giving his sister an unlooked-for pleasure and of consecrating his verses by a renouncement and a dedication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act (spoken or written) declaring that something is surrendered or disowned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act (spoken or written) declaring that something is surrendered or disowned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hold you as a thing enskied and sainted By your renouncement an immortal spirit, And to be talked with in sincerity, As with a saint."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"What he would not permit this office to consist of was yet to be settled: there was a queer relief, at all events—I mean for myself in especial—in the renouncement of one pretension."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The little volume was to be issued by Cottle of Bristol, early in the coming year, 1797; and Lamb was desirous to seize the occasion of giving his sister an unlooked-for pleasure and of consecrating his verses by a renouncement and a dedication."*

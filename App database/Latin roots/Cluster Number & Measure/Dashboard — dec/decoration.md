@@ -5,15 +5,6 @@ status: unread
 ---
 # decoration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something used to beautify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An award for winning a championship or commemorating some other event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket prices that decoration in his mind and thinks it as likely as not that Volumnia is writing poetry."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I believe he sometimes wishes he had never won that embarrassing decoration." "What's his name?" "Val Stafford."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Remember, I was there when he won his decoration--" He broke off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something used to beautify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An award for winning a championship or commemorating some other event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket prices that decoration in his mind and thinks it as likely as not that Volumnia is writing poetry."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I believe he sometimes wishes he had never won that embarrassing decoration." "What's his name?" "Val Stafford."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Remember, I was there when he won his decoration--" He broke off."*

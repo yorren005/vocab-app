@@ -5,13 +5,6 @@ status: unread
 ---
 # clavariaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fleshy fungi: coral fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fleshy fungi: coral fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavariaceae designates fleshy fungi: coral fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fleshy fungi: coral fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fleshy fungi: coral fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavariaceae designates fleshy fungi: coral fungi."*

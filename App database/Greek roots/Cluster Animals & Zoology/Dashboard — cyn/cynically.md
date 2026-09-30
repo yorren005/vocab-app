@@ -5,15 +5,6 @@ status: unread
 ---
 # cynically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With cynicism; in a cynical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With cynicism; in a cynical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’Urberville read and re-read this letter, and seemed to quiz himself cynically."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It might be cynically said that the farmer has not been "sharp" enough to get his share of the "good" things" that the business classes were passing around in protective legislation."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Can I have that window shut, please?" he asked, cynically frank."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With cynicism; in a cynical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With cynicism; in a cynical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’Urberville read and re-read this letter, and seemed to quiz himself cynically."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It might be cynically said that the farmer has not been "sharp" enough to get his share of the "good" things" that the business classes were passing around in protective legislation."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Can I have that window shut, please?" he asked, cynically frank."*

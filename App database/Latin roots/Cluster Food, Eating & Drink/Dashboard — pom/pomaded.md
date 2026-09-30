@@ -5,15 +5,6 @@ status: unread
 ---
 # pomaded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply pomade to (hair).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hair) groomed with pomade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was wearing a blue swallow-tail coat, shoes and stockings, and was perfumed and his hair pomaded."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Berg arrived in an immaculate brand-new uniform, with his hair pomaded and brushed forward over his temples as the Emperor Alexander wore his hair."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His face was fresh and rosy, his white-plumed hat, tilted to one side, disclosed his curled and pomaded hair besprinkled with powdery snow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply pomade to (hair).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hair) groomed with pomade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was wearing a blue swallow-tail coat, shoes and stockings, and was perfumed and his hair pomaded."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Berg arrived in an immaculate brand-new uniform, with his hair pomaded and brushed forward over his temples as the Emperor Alexander wore his hair."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His face was fresh and rosy, his white-plumed hat, tilted to one side, disclosed his curled and pomaded hair besprinkled with powdery snow."*

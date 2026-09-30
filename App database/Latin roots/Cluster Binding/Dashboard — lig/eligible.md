@@ -5,15 +5,6 @@ status: unread
 ---
 # eligible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualified for or allowed or worthy of being chosen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualified for or allowed or worthy of being chosen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the first place, to discover a sufficiently eligible practitioner; and as soon as we make our want—and shall I add, our ability to pay a premium?—known, our only difficulty will be in the selection of one from a large number."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He might be deemed eligible by you and might be disposed to respond to this proposal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to beauty, I am not a judge of that myself, and I never did give much attention to it from a boy, but I dare say the young lady is equally eligible in that point of view."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualified for or allowed or worthy of being chosen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualified for or allowed or worthy of being chosen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the first place, to discover a sufficiently eligible practitioner; and as soon as we make our want—and shall I add, our ability to pay a premium?—known, our only difficulty will be in the selection of one from a large number."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He might be deemed eligible by you and might be disposed to respond to this proposal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As to beauty, I am not a judge of that myself, and I never did give much attention to it from a boy, but I dare say the young lady is equally eligible in that point of view."*

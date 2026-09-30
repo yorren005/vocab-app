@@ -5,13 +5,6 @@ status: unread
 ---
 # surrealism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealism designates a 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealism designates a 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams."*

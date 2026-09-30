@@ -5,15 +5,6 @@ status: unread
 ---
 # incline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elevated geological formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclined surface connecting two levels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say, if he would incline to the people, there was never a worthier man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was here He did incline to sadness, and oft-times Not knowing why."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elevated geological formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclined surface connecting two levels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say, if he would incline to the people, there was never a worthier man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was here He did incline to sadness, and oft-times Not knowing why."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rustication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition naturally attaching to life in the country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of masonry or brickwork in a rustic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"We have been two tiny excursions this summer, for three or four days each, to a place near Harrow and to Egham where Cooper's Hill is and that is the total history of our rustication this year", Charles tells Wordsworth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition naturally attaching to life in the country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of masonry or brickwork in a rustic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"We have been two tiny excursions this summer, for three or four days each, to a place near Harrow and to Egham where Cooper's Hill is and that is the total history of our rustication this year", Charles tells Wordsworth."*

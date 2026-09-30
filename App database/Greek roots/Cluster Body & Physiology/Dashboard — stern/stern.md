@@ -5,15 +5,6 @@ status: unread
 ---
 # stern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rear part of a ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states concert violinist (born in russia in 1920).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many lambs might the stern wolf betray, If like a lamb he could his looks translate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the quick fire of youth light not your mind, You are no maiden but a monument; When you are dead, you should be such a one As you are now; for you are cold and stern, And now you should be as your mother was When your sweet self was got."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought that all things had been savage here And therefore put I on the countenance Of stern commandment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rear part of a ship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states concert violinist (born in russia in 1920).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many lambs might the stern wolf betray, If like a lamb he could his looks translate!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the quick fire of youth light not your mind, You are no maiden but a monument; When you are dead, you should be such a one As you are now; for you are cold and stern, And now you should be as your mother was When your sweet self was got."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought that all things had been savage here And therefore put I on the countenance Of stern commandment."*

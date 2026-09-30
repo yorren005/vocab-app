@@ -5,15 +5,6 @@ status: unread
 ---
 # schism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division, separation; also : discord, disharmony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal division in or separation from a church or religious body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Yes, a schism Nurtured by foppery and barbarism, Made great Apollo blush for this his land."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"However, I promised to go to his friend's church in Edinburgh, and not to any of the Presbyterian "schism-shops." That was what he called them, for he pitched into them proper."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist. lib. quoted by Morton. [88] West’s Furness, 1774. [89] Mores Catholici, xi. 77. [90] Ibid. [91] Mores Catholici. [92] Mores Catholici. [93] See Account of the _Schism_ already given. [94] Hist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Division, separation; also : discord, disharmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal division in or separation from a church or religious body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Yes, a schism Nurtured by foppery and barbarism, Made great Apollo blush for this his land."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"However, I promised to go to his friend's church in Edinburgh, and not to any of the Presbyterian "schism-shops." That was what he called them, for he pitched into them proper."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist. lib. quoted by Morton. [88] West’s Furness, 1774. [89] Mores Catholici, xi. 77. [90] Ibid. [91] Mores Catholici. [92] Mores Catholici. [93] See Account of the _Schism_ already given. [94] Hist."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # trichromacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The normal ability to see colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The normal ability to see colors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichromacy designates the normal ability to see colors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The normal ability to see colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The normal ability to see colors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichromacy designates the normal ability to see colors."*

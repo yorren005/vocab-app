@@ -5,15 +5,6 @@ status: unread
 ---
 # manor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mansion of a lord or wealthy person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The landed estate of a lord (including the house on it).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a man that had this trick of melancholy sold a goodly manor for a song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was seen with her in the manor-house, sitting with her upon the form, and taken following her into the park, which, put together, is “in manner and form following”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go—a short knife and a throng—to your manor of Pickt-hatch, go."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mansion of a lord or wealthy person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The landed estate of a lord (including the house on it).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a man that had this trick of melancholy sold a goodly manor for a song."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was seen with her in the manor-house, sitting with her upon the form, and taken following her into the park, which, put together, is “in manner and form following”."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go—a short knife and a throng—to your manor of Pickt-hatch, go."*

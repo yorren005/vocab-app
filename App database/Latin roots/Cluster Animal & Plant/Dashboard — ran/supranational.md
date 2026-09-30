@@ -5,13 +5,6 @@ status: unread
 ---
 # supranational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transcending established national boundaries or spheres of interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transcending established national boundaries or spheres of interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supranational designates transcending established national boundaries or spheres of interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transcending established national boundaries or spheres of interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transcending established national boundaries or spheres of interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supranational designates transcending established national boundaries or spheres of interest."*

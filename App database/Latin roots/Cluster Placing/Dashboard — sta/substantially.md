@@ -5,15 +5,6 @@ status: unread
 ---
 # substantially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a great extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a strong substantial way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"What I say of my own painfully inadequate support, is substantially true of nearly all your missionaries in this State."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every legitimate form of insurance exhibits substantially the same characteristics; it reduces loss at the margin where it is felt most keenly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discrimination between places (called also local discrimination) is charging different rates to two localities for substantially the same service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a great extent or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a strong substantial way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"What I say of my own painfully inadequate support, is substantially true of nearly all your missionaries in this State."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every legitimate form of insurance exhibits substantially the same characteristics; it reduces loss at the margin where it is felt most keenly."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discrimination between places (called also local discrimination) is charging different rates to two localities for substantially the same service."*

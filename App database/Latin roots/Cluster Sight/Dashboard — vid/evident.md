@@ -5,15 +5,6 @@ status: unread
 ---
 # evident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly revealed to the mind or the senses or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being seen or noticed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Render to me some corporal sign about her, More evident than this; for this was stol’n."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And on my side it is so well apparell’d, So clear, so shining and so evident, That it will glimmer through a blind man’s eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly revealed to the mind or the senses or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being seen or noticed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Render to me some corporal sign about her, More evident than this; for this was stol’n."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And on my side it is so well apparell’d, So clear, so shining and so evident, That it will glimmer through a blind man’s eye."*

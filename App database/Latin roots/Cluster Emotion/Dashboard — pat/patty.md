@@ -5,15 +5,6 @@ status: unread
 ---
 # patty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small flat mass of chopped food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pie or pasty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"I’ve been reading Bible stories,” Patty said, “and I believe That Adam’s name MEANT ‘Morning,’ Because his wife was ‘Eve.’” BABIE’S CURLS."*
-> - 📜 **Effie Afton (*Eventide*):** *"Well, Aunt Patty, out with it!" said the youth at length, tired of her long silence."*
-> - 📜 **Effie Afton (*Eventide*):** *"The world's destiny is in a teapot, and Aunt Patty Belcher pours it forth at her pleasure; that's it;" and here they all joined in a hearty laugh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small flat mass of chopped food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pie or pasty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"I’ve been reading Bible stories,” Patty said, “and I believe That Adam’s name MEANT ‘Morning,’ Because his wife was ‘Eve.’” BABIE’S CURLS."*
+> - 📜 **Effie Afton (*Eventide*):** *"Well, Aunt Patty, out with it!" said the youth at length, tired of her long silence."*
+> - 📜 **Effie Afton (*Eventide*):** *"The world's destiny is in a teapot, and Aunt Patty Belcher pours it forth at her pleasure; that's it;" and here they all joined in a hearty laugh."*

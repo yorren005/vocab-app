@@ -5,13 +5,6 @@ status: unread
 ---
 # oxidize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a combination with oxygen or become converted into an oxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add oxygen to or combine with oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Pumping-out or Oxidizing._ Coating the face of the molded case with chemical copper to hasten deposition of copper shell in the bath. _11."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a combination with oxygen or become converted into an oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add oxygen to or combine with oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Pumping-out or Oxidizing._ Coating the face of the molded case with chemical copper to hasten deposition of copper shell in the bath. _11."*

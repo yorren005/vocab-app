@@ -5,15 +5,6 @@ status: unread
 ---
 # underneath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On the lower or downward side; on the underside of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under or below an object or a surface; at a lower place or level; directly beneath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only we want a little personal strength; And pause us till these rebels now afoot Come underneath the yoke of government."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray God she prove not masculine ere long, If underneath the standard of the French She carry armour as she hath begun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So doth the swan her downy cygnets save, Keeping them prisoner underneath her wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On the lower or downward side; on the underside of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under or below an object or a surface; at a lower place or level; directly beneath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only we want a little personal strength; And pause us till these rebels now afoot Come underneath the yoke of government."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray God she prove not masculine ere long, If underneath the standard of the French She carry armour as she hath begun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So doth the swan her downy cygnets save, Keeping them prisoner underneath her wings."*

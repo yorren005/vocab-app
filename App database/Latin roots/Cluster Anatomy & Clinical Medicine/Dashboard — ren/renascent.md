@@ -5,13 +5,6 @@ status: unread
 ---
 # renascent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising again as to new life and vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rising again as to new life and vigor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So spoke love renascent, preparing the way for Tess’s devoted outpouring, which was then just being forwarded to him by his father; though owing to his distance inland it was to be a long time in reaching him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising again as to new life and vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rising again as to new life and vigor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So spoke love renascent, preparing the way for Tess’s devoted outpouring, which was then just being forwarded to him by his father; though owing to his distance inland it was to be a long time in reaching him."*

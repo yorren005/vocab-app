@@ -5,13 +5,6 @@ status: unread
 ---
 # geosynchronous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geosynchronous designates being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geosynchronous designates being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary."*

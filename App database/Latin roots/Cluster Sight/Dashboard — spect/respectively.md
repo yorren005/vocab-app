@@ -5,15 +5,6 @@ status: unread
 ---
 # respectively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the order given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the order given.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dreamt of a silver basin and ewer tonight.—Flaminius, honest Flaminius, you are very respectively welcome, sir."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"These the waggoner delivered to each of us respectively, reading the name aloud first."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Swills is entirely corroborated by two intelligent married females residing in the same court and known respectively by the names of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the order given.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the order given.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dreamt of a silver basin and ewer tonight.—Flaminius, honest Flaminius, you are very respectively welcome, sir."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"These the waggoner delivered to each of us respectively, reading the name aloud first."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Swills is entirely corroborated by two intelligent married females residing in the same court and known respectively by the names of Mrs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deposit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of sediment or gravel accumulating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matter that has been deposited by some natural process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, if you will promise to wait beside the horse while I walk through the bushes till I come to some road or house, and ascertain exactly our whereabouts, I’ll deposit you here willingly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Within the remote depths of his constitution, so gentle and affectionate as he was in general, there lay hidden a hard logical deposit, like a vein of metal in a soft loam, which turned the edge of everything that attempted to traverse it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She asked the turnpike-keeper if she might deposit her things at his house for a while, and, on his offering no objection, she dismissed her carriage, and went on to the village alone by a back lane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of sediment or gravel accumulating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matter that has been deposited by some natural process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, if you will promise to wait beside the horse while I walk through the bushes till I come to some road or house, and ascertain exactly our whereabouts, I’ll deposit you here willingly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Within the remote depths of his constitution, so gentle and affectionate as he was in general, there lay hidden a hard logical deposit, like a vein of metal in a soft loam, which turned the edge of everything that attempted to traverse it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She asked the turnpike-keeper if she might deposit her things at his house for a while, and, on his offering no objection, she dismissed her carriage, and went on to the village alone by a back lane."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sorter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clerk who sorts things (as letters at the post office).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for sorting things (such as punched cards or letters) into classes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it is a ponderous task; no ordinary letter-sorter in the Post-office is equal to it."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it is a ponderous task; no ordinary letter-sorter in the Post-Office is equal to it."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He was non-committal--that was the worst of it, and I--Say," added the captain, in an undertone, "I have sorter suspected that he meant to turn us over to the Confederacy." "That's what I have thought for a good while," said Rodney."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clerk who sorts things (as letters at the post office).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for sorting things (such as punched cards or letters) into classes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it is a ponderous task; no ordinary letter-sorter in the Post-office is equal to it."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it is a ponderous task; no ordinary letter-sorter in the Post-Office is equal to it."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He was non-committal--that was the worst of it, and I--Say," added the captain, in an undertone, "I have sorter suspected that he meant to turn us over to the Confederacy." "That's what I have thought for a good while," said Rodney."*

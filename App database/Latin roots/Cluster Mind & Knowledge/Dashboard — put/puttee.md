@@ -5,14 +5,6 @@ status: unread
 ---
 # puttee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of cloth wound around the leg to form legging; used by soldiers in world war i.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strip of cloth wound around the leg to form legging; used by soldiers in world war i.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Physical causes--wet, cold, indigestion, tight puttees--account for nine out of ten of these queer breakdowns."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They looked rather shipshape in khaki suits and puttees, and their guns were of a good model, but they handled them in careless fashion at first, belabouring laden ponies and even coolies who were slow in getting out of the way of my chair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of cloth wound around the leg to form legging; used by soldiers in world war i.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strip of cloth wound around the leg to form legging; used by soldiers in world war i.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Physical causes--wet, cold, indigestion, tight puttees--account for nine out of ten of these queer breakdowns."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They looked rather shipshape in khaki suits and puttees, and their guns were of a good model, but they handled them in careless fashion at first, belabouring laden ponies and even coolies who were slow in getting out of the way of my chair."*

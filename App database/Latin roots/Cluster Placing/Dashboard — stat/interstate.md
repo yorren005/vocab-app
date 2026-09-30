@@ -5,15 +5,6 @@ status: unread
 ---
 # interstate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the system of highways linking major cities in the 48 contiguous states of the united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving and relating to the mutual relations of states especially of the united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Now, amid bewildering variety and interstate rivalries in tax laws, the most usual rate is two per cent on gross (in a few cases on net) premiums collected."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This prohibits the interstate shipment of goods produced in factories wherein any child has, within thirty days, been employed under unfavorable conditions as to hours and time of work as specified in the act."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this end there should be interstate comity and coöperation, so that the insured could at any time transfer his actuarial equity from one state to another. § 17. #The contributory principle#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the system of highways linking major cities in the 48 contiguous states of the united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving and relating to the mutual relations of states especially of the united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Now, amid bewildering variety and interstate rivalries in tax laws, the most usual rate is two per cent on gross (in a few cases on net) premiums collected."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This prohibits the interstate shipment of goods produced in factories wherein any child has, within thirty days, been employed under unfavorable conditions as to hours and time of work as specified in the act."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this end there should be interstate comity and coöperation, so that the insured could at any time transfer his actuarial equity from one state to another. § 17. #The contributory principle#."*

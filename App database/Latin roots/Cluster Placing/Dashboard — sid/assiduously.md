@@ -5,15 +5,6 @@ status: unread
 ---
 # assiduously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With care and persistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With care and persistence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"While Sir Walter and Elizabeth were assiduously pushing their good fortune in Laura Place, Anne was renewing an acquaintance of a very different description."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Still the prongs continued to click assiduously, for it was not late; and though the air was fresh and keen there was a whisper of spring in it that cheered the workers on."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The previous fourteen years had been assiduously devoted to the interests of Sabbath-schools and the temperance enterprise, when I found both my physical and pecuniary energies diminished, the latter being less than $30,000."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With care and persistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With care and persistence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"While Sir Walter and Elizabeth were assiduously pushing their good fortune in Laura Place, Anne was renewing an acquaintance of a very different description."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Still the prongs continued to click assiduously, for it was not late; and though the air was fresh and keen there was a whisper of spring in it that cheered the workers on."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The previous fourteen years had been assiduously devoted to the interests of Sabbath-schools and the temperance enterprise, when I found both my physical and pecuniary energies diminished, the latter being less than $30,000."*

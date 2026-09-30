@@ -5,13 +5,6 @@ status: unread
 ---
 # digitoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Digitalis preparation used to treat congestive heart failure or cardiac arrhythmia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Digitalis preparation used to treat congestive heart failure or cardiac arrhythmia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitoxin designates digitalis preparation used to treat congestive heart failure or cardiac arrhythmia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Digitalis preparation used to treat congestive heart failure or cardiac arrhythmia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Digitalis preparation used to treat congestive heart failure or cardiac arrhythmia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitoxin designates digitalis preparation used to treat congestive heart failure or cardiac arrhythmia."*

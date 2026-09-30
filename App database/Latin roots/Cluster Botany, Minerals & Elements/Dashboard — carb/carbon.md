@@ -5,15 +5,6 @@ status: unread
 ---
 # carbon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin paper coated on one side with a dark waxy substance (often containing carbon); used to transfer characters from the original to an under sheet of paper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They was gonna use seeds to get carbon for them gas masks—that's what soldiers wear on the front line." Mierd didn't seem very much bothered about things soldiers put over their heads."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Instead of a platinum wire, a fine thread of carbon is brought to a very high temperature by the passage through it of the electrical current, in which condition it gives out light."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Let us now call this charred linen by its proper name--my tinder is carbon in a state of somewhat fine subdivision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin paper coated on one side with a dark waxy substance (often containing carbon); used to transfer characters from the original to an under sheet of paper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They was gonna use seeds to get carbon for them gas masks—that's what soldiers wear on the front line." Mierd didn't seem very much bothered about things soldiers put over their heads."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Instead of a platinum wire, a fine thread of carbon is brought to a very high temperature by the passage through it of the electrical current, in which condition it gives out light."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Let us now call this charred linen by its proper name--my tinder is carbon in a state of somewhat fine subdivision."*

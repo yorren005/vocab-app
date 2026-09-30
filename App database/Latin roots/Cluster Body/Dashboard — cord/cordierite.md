@@ -5,13 +5,6 @@ status: unread
 ---
 # cordierite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordierite designates a blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordierite designates a blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone."*

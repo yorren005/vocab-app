@@ -5,15 +5,6 @@ status: unread
 ---
 # casting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Object formed by a mold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of creating something by casting it in a mold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wolves and bears, they say, Casting their savageness aside, have done Like offices of pity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was casting up of eyes, holding up of hands, with countenance of such distraction that they were to be known by garment, not by favour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, standing with his back to the fire and casting his eyes over the dusty hearth-rug as if it were Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Object formed by a mold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of creating something by casting it in a mold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wolves and bears, they say, Casting their savageness aside, have done Like offices of pity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was casting up of eyes, holding up of hands, with countenance of such distraction that they were to be known by garment, not by favour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, standing with his back to the fire and casting his eyes over the dusty hearth-rug as if it were Mrs."*

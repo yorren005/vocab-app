@@ -5,15 +5,6 @@ status: unread
 ---
 # candour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being honest and straightforward in attitude and speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to make judgments free from discrimination or dishonesty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And what with his fine hilarious manner and his engaging candour and his genial way of lightly tossing his own weaknesses about, as if he had said, “I am a child, you know!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole with an appearance of the utmost simplicity and candour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s avowal of his weaknesses and display of guileless candour; but I could not satisfy myself that it was as artless as it seemed or that it did not serve Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being honest and straightforward in attitude and speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to make judgments free from discrimination or dishonesty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And what with his fine hilarious manner and his engaging candour and his genial way of lightly tossing his own weaknesses about, as if he had said, “I am a child, you know!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole with an appearance of the utmost simplicity and candour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s avowal of his weaknesses and display of guileless candour; but I could not satisfy myself that it was as artless as it seemed or that it did not serve Mr."*

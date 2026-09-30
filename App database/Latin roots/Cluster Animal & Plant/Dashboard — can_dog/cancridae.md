@@ -5,13 +5,6 @@ status: unread
 ---
 # cancridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Many of the best known edible crabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Many of the best known edible crabs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancridae designates many of the best known edible crabs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Many of the best known edible crabs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Many of the best known edible crabs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancridae designates many of the best known edible crabs."*

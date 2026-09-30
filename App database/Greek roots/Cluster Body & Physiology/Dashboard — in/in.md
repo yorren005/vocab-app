@@ -5,15 +5,6 @@ status: unread
 ---
 # in
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to indicate inclusion, location, or position within limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to indicate inclusion, location, or position within limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stuhlmann, _Mit Emin Pascha ins Herz von Afrika_ (Berlin, 1894), p. 506. [155] As a confirmation of this view it may be pointed out that beating or scourging is inflicted on inanimate objects expressly for the purpose indicated in the text."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I han’t seen a way to get you safe, and I’ve looked arter you to know your ins and outs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And it’s a difficult matter to get, in this part of the country.” Caleb scattered his snuff carefully instead of taking it, and then added, “The ins and outs of things are curious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to indicate inclusion, location, or position within limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to indicate inclusion, location, or position within limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stuhlmann, _Mit Emin Pascha ins Herz von Afrika_ (Berlin, 1894), p. 506. [155] As a confirmation of this view it may be pointed out that beating or scourging is inflicted on inanimate objects expressly for the purpose indicated in the text."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I han’t seen a way to get you safe, and I’ve looked arter you to know your ins and outs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And it’s a difficult matter to get, in this part of the country.” Caleb scattered his snuff carefully instead of taking it, and then added, “The ins and outs of things are curious."*

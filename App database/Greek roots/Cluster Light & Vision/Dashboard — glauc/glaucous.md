@@ -5,14 +5,6 @@ status: unread
 ---
 # glaucous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a frosted look from a powdery coating, as on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a frosted look from a powdery coating, as on plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"By the sandwichbell in screening shadow Lydia, her bronze and rose, a lady’s grace, gave and withheld: as in cool glaucous _eau de Nil_ Mina to tankards two her pinnacles of gold."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WALL BRISTLE-MOULD; gregarious, glaucous, then blackish; perithecium globose, brown; hairs circinate, erect, septate, pulverulent; spores oblong, yellowish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a frosted look from a powdery coating, as on plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a frosted look from a powdery coating, as on plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"By the sandwichbell in screening shadow Lydia, her bronze and rose, a lady’s grace, gave and withheld: as in cool glaucous _eau de Nil_ Mina to tankards two her pinnacles of gold."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WALL BRISTLE-MOULD; gregarious, glaucous, then blackish; perithecium globose, brown; hairs circinate, erect, septate, pulverulent; spores oblong, yellowish."*

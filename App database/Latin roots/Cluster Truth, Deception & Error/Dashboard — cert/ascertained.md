@@ -5,15 +5,6 @@ status: unread
 ---
 # ascertained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be careful or certain to do something; make certain of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had ascertained the amount, either from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, the chances are that having ascertained the young woman to be of unblemished character, he will say to his son, ‘I must be quite sure you are in earnest here."*
-> - 📜 **Jane Austen (*Persuasion*):** *"How could it ever be ascertained that his mind was truly cleansed?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be careful or certain to do something; make certain of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had ascertained the amount, either from Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"However, the chances are that having ascertained the young woman to be of unblemished character, he will say to his son, ‘I must be quite sure you are in earnest here."*
+> - 📜 **Jane Austen (*Persuasion*):** *"How could it ever be ascertained that his mind was truly cleansed?"*

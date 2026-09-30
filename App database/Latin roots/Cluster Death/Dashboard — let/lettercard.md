@@ -5,13 +5,6 @@ status: unread
 ---
 # lettercard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A postcard that folds so the message is inside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A postcard that folds so the message is inside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"R., received loudly flung sacks of letters, postcards, lettercards, parcels, insured and paid, for local, provincial, British and overseas delivery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A postcard that folds so the message is inside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A postcard that folds so the message is inside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"R., received loudly flung sacks of letters, postcards, lettercards, parcels, insured and paid, for local, provincial, British and overseas delivery."*

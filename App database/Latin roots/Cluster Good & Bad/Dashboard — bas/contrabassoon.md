@@ -5,13 +5,6 @@ status: unread
 ---
 # contrabassoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bassoon that is the largest instrument in the oboe family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bassoon that is the largest instrument in the oboe family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contrabassoon designates the bassoon that is the largest instrument in the oboe family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bassoon that is the largest instrument in the oboe family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bassoon that is the largest instrument in the oboe family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contrabassoon designates the bassoon that is the largest instrument in the oboe family."*

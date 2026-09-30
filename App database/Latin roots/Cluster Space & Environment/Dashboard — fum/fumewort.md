@@ -5,13 +5,6 @@ status: unread
 ---
 # fumewort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herb of northern europe and asia having erect racemes of red flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumewort designates delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herb of northern europe and asia having erect racemes of red flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumewort designates delicate european herb with greyish leaves and spikes of purplish flowers; formerly used medicinally."*

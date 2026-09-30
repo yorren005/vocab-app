@@ -5,15 +5,6 @@ status: unread
 ---
 # malarial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or infected by or resembling malaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or infected by or resembling malaria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Annamese refused to lend a hand, and the Chinese died like flies from the malarial conditions."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There is a swamp of seven acres in the middle, the home of malarial fever, thus making this island one of the most unhealthy spots in New Guinea."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The great sickness amongst the diggers was caused by turning up the virgin soil in the workings and so releasing the malarial germs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or infected by or resembling malaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or infected by or resembling malaria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Annamese refused to lend a hand, and the Chinese died like flies from the malarial conditions."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There is a swamp of seven acres in the middle, the home of malarial fever, thus making this island one of the most unhealthy spots in New Guinea."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The great sickness amongst the diggers was caused by turning up the virgin soil in the workings and so releasing the malarial germs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bellicose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a ready disposition to fight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing a ready disposition to fight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The versatile Jap's in the game, Because of a treaty he came, For old Johnnie Bull, Will have his hands full, The bellicose Germans to tame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a ready disposition to fight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing a ready disposition to fight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The versatile Jap's in the game, Because of a treaty he came, For old Johnnie Bull, Will have his hands full, The bellicose Germans to tame."*

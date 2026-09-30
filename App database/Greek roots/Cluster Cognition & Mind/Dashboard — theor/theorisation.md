@@ -5,13 +5,6 @@ status: unread
 ---
 # theorisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production or use of theories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production or use of theories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorisation designates the production or use of theories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production or use of theories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production or use of theories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorisation designates the production or use of theories."*

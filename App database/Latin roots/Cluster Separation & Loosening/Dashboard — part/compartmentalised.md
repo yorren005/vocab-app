@@ -5,13 +5,6 @@ status: unread
 ---
 # compartmentalised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into isolated compartments or categories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided up into compartments or categories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compartmentalised designates separate into isolated compartments or categories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into isolated compartments or categories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided up into compartments or categories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compartmentalised designates separate into isolated compartments or categories."*

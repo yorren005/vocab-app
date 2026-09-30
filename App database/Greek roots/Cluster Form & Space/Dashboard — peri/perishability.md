@@ -5,13 +5,6 @@ status: unread
 ---
 # perishability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perishability designates unsatisfactoriness by virtue of being subject to decay or spoilage or destruction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perishability designates unsatisfactoriness by virtue of being subject to decay or spoilage or destruction."*

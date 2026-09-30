@@ -5,15 +5,6 @@ status: unread
 ---
 # purcell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English organist at westminster abbey and composer of many theatrical pieces (1659-1695).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English organist at westminster abbey and composer of many theatrical pieces (1659-1695).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"But Villiers Stanford is, I think, the best composer England has produced since the days of Purcell & Blow, and your words will be sent home to hundreds & thousands who had not before seen them."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Sewel, and two or three more gentlemen, walking towards Hampstead on a summer’s day, were met by the famous Daniel Purcell, who was very importunate with them to know upon what account they were going there."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Daniel Purcell, who was a nonjuror, was telling a friend of his, when King George the First landed at Greenwich, that he had a full view of him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English organist at westminster abbey and composer of many theatrical pieces (1659-1695).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English organist at westminster abbey and composer of many theatrical pieces (1659-1695).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"But Villiers Stanford is, I think, the best composer England has produced since the days of Purcell & Blow, and your words will be sent home to hundreds & thousands who had not before seen them."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Sewel, and two or three more gentlemen, walking towards Hampstead on a summer’s day, were met by the famous Daniel Purcell, who was very importunate with them to know upon what account they were going there."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Daniel Purcell, who was a nonjuror, was telling a friend of his, when King George the First landed at Greenwich, that he had a full view of him."*

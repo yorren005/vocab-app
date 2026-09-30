@@ -5,14 +5,6 @@ status: unread
 ---
 # medicinally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a medicinal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a medicinal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, a mature man who uses hair-oil, unless medicinally, that man has probably got a quoggy spot in him somewhere."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In truth, a mature man who uses hair-oil, unless medicinally, that man has probably got a quoggy spot in him somewhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a medicinal manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a medicinal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, a mature man who uses hair-oil, unless medicinally, that man has probably got a quoggy spot in him somewhere."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In truth, a mature man who uses hair-oil, unless medicinally, that man has probably got a quoggy spot in him somewhere."*

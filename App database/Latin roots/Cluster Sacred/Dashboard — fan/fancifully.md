@@ -5,15 +5,6 @@ status: unread
 ---
 # fancifully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fanciful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fanciful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved her dearly, though perhaps rather ideally and fancifully than with the impassioned thoroughness of her feeling for him."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was broad day; and the house was nearly filled with young females, fancifully decorated with flowers, who gazed upon me as I rose with faces in which childish delight and curiosity were vividly portrayed."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was in a heavy, magnificent old style, of iron bars fancifully wrought at top into flourishes and flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fanciful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fanciful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved her dearly, though perhaps rather ideally and fancifully than with the impassioned thoroughness of her feeling for him."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was broad day; and the house was nearly filled with young females, fancifully decorated with flowers, who gazed upon me as I rose with faces in which childish delight and curiosity were vividly portrayed."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was in a heavy, magnificent old style, of iron bars fancifully wrought at top into flourishes and flowers."*

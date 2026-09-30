@@ -5,13 +5,6 @@ status: unread
 ---
 # monocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocyte designates a large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocyte designates a large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage."*

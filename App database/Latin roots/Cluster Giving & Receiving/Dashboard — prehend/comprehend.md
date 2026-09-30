@@ -5,15 +5,6 @@ status: unread
 ---
 # comprehend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To become aware of through the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study his bias leaves, and makes his book thine eyes, Where all those pleasures live that art would comprehend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your charge: you shall comprehend all vagrom men; you are to bid any man stand, in the Prince’s name."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study his bias leaves, and makes his book thine eyes, Where all those pleasures live that art can comprehend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To become aware of through the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study his bias leaves, and makes his book thine eyes, Where all those pleasures live that art would comprehend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your charge: you shall comprehend all vagrom men; you are to bid any man stand, in the Prince’s name."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study his bias leaves, and makes his book thine eyes, Where all those pleasures live that art can comprehend."*

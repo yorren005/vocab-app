@@ -5,15 +5,6 @@ status: unread
 ---
 # stampede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A headlong rush of people on a common impulse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wild headlong rush of frightened animals (horses or cattle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"While some of the men chopped sage-brush and we children carried it to the fires that were kindling, other men unyoked the oxen and let them stampede for water."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Aunty became instantly a thing of dash and electricity, collected parcels, shook Albert, replied to his thrusts with repartee, and finally headed a stampede out of the door."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"There was a perfect stampede, and Heaven only knows where some of those fowls are now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A headlong rush of people on a common impulse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wild headlong rush of frightened animals (horses or cattle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"While some of the men chopped sage-brush and we children carried it to the fires that were kindling, other men unyoked the oxen and let them stampede for water."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Aunty became instantly a thing of dash and electricity, collected parcels, shook Albert, replied to his thrusts with repartee, and finally headed a stampede out of the door."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"There was a perfect stampede, and Heaven only knows where some of those fowls are now."*

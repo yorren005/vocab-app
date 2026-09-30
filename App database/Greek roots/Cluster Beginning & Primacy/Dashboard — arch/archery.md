@@ -5,15 +5,6 @@ status: unread
 ---
 # archery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of shooting arrows with a bow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sport of shooting arrows with a bow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Flower of this purple dye, Hit with Cupid’s archery, Sink in apple of his eye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir boy, let me see your archery."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into George’s Shooting Gallery, &c., he goes; and in it there are gaslights (partly turned off now), and two whitened targets for rifle-shooting, and archery accommodation, and fencing appliances, and all necessaries for the British art of boxing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of shooting arrows with a bow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sport of shooting arrows with a bow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Flower of this purple dye, Hit with Cupid’s archery, Sink in apple of his eye."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir boy, let me see your archery."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Into George’s Shooting Gallery, &c., he goes; and in it there are gaslights (partly turned off now), and two whitened targets for rifle-shooting, and archery accommodation, and fencing appliances, and all necessaries for the British art of boxing."*

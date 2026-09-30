@@ -5,15 +5,6 @@ status: unread
 ---
 # spiritualize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a spiritual meaning to; read in a spiritual sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elevate or idealize, in allusion to christ's transfiguration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"To spiritualize one’s age—that is something worth doing."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"They give us wings; they annihilate the toil and dust of pilgrimage; they spiritualize travel!"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She spiritualizes them, and one feels that they are of the same flesh and blood as one’s self.” “The same flesh and blood as one’s self!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a spiritual meaning to; read in a spiritual sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elevate or idealize, in allusion to christ's transfiguration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"To spiritualize one’s age—that is something worth doing."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"They give us wings; they annihilate the toil and dust of pilgrimage; they spiritualize travel!"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She spiritualizes them, and one feels that they are of the same flesh and blood as one’s self.” “The same flesh and blood as one’s self!"*

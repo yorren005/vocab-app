@@ -5,13 +5,6 @@ status: unread
 ---
 # regnant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising power or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising power or authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I dreaded the flash of lovely flame, and the outburst of regnant anger, ere I should have time to say that I was not to blame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising power or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising power or authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I dreaded the flash of lovely flame, and the outburst of regnant anger, ere I should have time to say that I was not to blame."*

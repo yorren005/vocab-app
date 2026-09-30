@@ -5,13 +5,6 @@ status: unread
 ---
 # heterometabolic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolic designates (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolic designates (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage."*

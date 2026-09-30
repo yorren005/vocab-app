@@ -5,13 +5,6 @@ status: unread
 ---
 # dendritic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (neuroscience) of or relating to or resembling a dendrite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (neuroscience) of or relating to or resembling a dendrite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendritic designates (neuroscience) of or relating to or resembling a dendrite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (neuroscience) of or relating to or resembling a dendrite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (neuroscience) of or relating to or resembling a dendrite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendritic designates (neuroscience) of or relating to or resembling a dendrite."*

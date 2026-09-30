@@ -5,15 +5,6 @@ status: unread
 ---
 # magnanimity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks a woman of this valiant spirit Should, if a coward heard her speak these words, Infuse his breast with magnanimity And make him, naked, foil a man at arms."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had a conviction that sooner or later the magnanimity which she persisted in reckoning as a chief ingredient of Clare’s character would lead him to rejoin her."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O glorious magnanimity of soul!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks a woman of this valiant spirit Should, if a coward heard her speak these words, Infuse his breast with magnanimity And make him, naked, foil a man at arms."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had a conviction that sooner or later the magnanimity which she persisted in reckoning as a chief ingredient of Clare’s character would lead him to rejoin her."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O glorious magnanimity of soul!"*

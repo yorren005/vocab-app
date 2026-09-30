@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrostatics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanical properties of fluids that are not in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanical properties of fluids that are not in motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrostatics designates study of the mechanical properties of fluids that are not in motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanical properties of fluids that are not in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanical properties of fluids that are not in motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrostatics designates study of the mechanical properties of fluids that are not in motion."*

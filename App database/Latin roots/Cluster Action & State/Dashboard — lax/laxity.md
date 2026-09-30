@@ -5,15 +5,6 @@ status: unread
 ---
 # laxity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being physiologically lax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being lax and neglectful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s miscellaneous invitations seemed to belong to that general laxity which came from his inordinate travel and habit of taking too much in the form of ideas."*
-> - 📜 **George Eliot (*Middlemarch*):** *"When was sciolism ever dissociated from laxity?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Fred had been rewarding resolution by a little laxity of late."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being physiologically lax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being lax and neglectful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s miscellaneous invitations seemed to belong to that general laxity which came from his inordinate travel and habit of taking too much in the form of ideas."*
+> - 📜 **George Eliot (*Middlemarch*):** *"When was sciolism ever dissociated from laxity?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred had been rewarding resolution by a little laxity of late."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inclining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of inclining; bending forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a tendency or disposition to do or be something; be inclined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold your hands, Both you of my inclining and the rest: Were it my cue to fight, I should have known it Without a prompter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of inclining; bending forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a tendency or disposition to do or be something; be inclined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold your hands, Both you of my inclining and the rest: Were it my cue to fight, I should have known it Without a prompter."*

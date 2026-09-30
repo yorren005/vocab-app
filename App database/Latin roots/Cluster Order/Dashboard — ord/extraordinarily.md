@@ -5,15 +5,6 @@ status: unread
 ---
 # extraordinarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But look you pray, all you that kiss my lady Peace at home, that our armies join not in a hot day; for, by the Lord, I take but two shirts out with me, and I mean not to sweat extraordinarily."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your pulsidge beats as extraordinarily as heart would desire, and your colour, I warrant you, is as red as any rose, in good truth, la!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She saw Lippo trudging on behind with an extraordinarily full school-bag on his back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But look you pray, all you that kiss my lady Peace at home, that our armies join not in a hot day; for, by the Lord, I take but two shirts out with me, and I mean not to sweat extraordinarily."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your pulsidge beats as extraordinarily as heart would desire, and your colour, I warrant you, is as red as any rose, in good truth, la!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She saw Lippo trudging on behind with an extraordinarily full school-bag on his back."*

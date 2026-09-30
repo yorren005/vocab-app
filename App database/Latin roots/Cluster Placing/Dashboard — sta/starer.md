@@ -5,13 +5,6 @@ status: unread
 ---
 # starer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viewer who gazes fixedly (often with hostility).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viewer who gazes fixedly (often with hostility).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starer designates a viewer who gazes fixedly (often with hostility)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A viewer who gazes fixedly (often with hostility).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viewer who gazes fixedly (often with hostility).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starer designates a viewer who gazes fixedly (often with hostility)."*

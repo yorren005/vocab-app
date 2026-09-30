@@ -5,13 +5,6 @@ status: unread
 ---
 # sisterlike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or characteristic of or befitting a sister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like or characteristic of or befitting a sister.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sisterlike designates like or characteristic of or befitting a sister."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or characteristic of or befitting a sister.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like or characteristic of or befitting a sister.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sisterlike designates like or characteristic of or befitting a sister."*

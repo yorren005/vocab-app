@@ -5,13 +5,6 @@ status: unread
 ---
 # dominos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several games played with small rectangular blocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rhythm and blues pianist and singer and composer (born in 1928).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominos designates any of several games played with small rectangular blocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several games played with small rectangular blocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rhythm and blues pianist and singer and composer (born in 1928).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominos designates any of several games played with small rectangular blocks."*

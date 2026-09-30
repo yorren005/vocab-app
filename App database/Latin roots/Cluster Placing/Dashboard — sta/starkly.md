@@ -5,14 +5,6 @@ status: unread
 ---
 # starkly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stark manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sharp outline or contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As fast locked up in sleep as guiltless labour When it lies starkly in the traveller’s bones."*
-> - 📜 **James Joyce (*Ulysses*):** *"From his forehead arise starkly the Mosaic ramshorns.)_ THE RECORDER: I will put an end to this white slave traffic and rid Dublin of this odious pest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stark manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sharp outline or contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As fast locked up in sleep as guiltless labour When it lies starkly in the traveller’s bones."*
+> - 📜 **James Joyce (*Ulysses*):** *"From his forehead arise starkly the Mosaic ramshorns.)_ THE RECORDER: I will put an end to this white slave traffic and rid Dublin of this odious pest."*

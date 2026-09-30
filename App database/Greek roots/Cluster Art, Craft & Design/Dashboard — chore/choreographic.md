@@ -5,13 +5,6 @@ status: unread
 ---
 # choreographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with choreography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with choreography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel, though she danced very well, had not the recollection of having been in New York a successful member of the choreographic circle; her sister Edith was, as every one said, so very much more fetching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with choreography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with choreography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel, though she danced very well, had not the recollection of having been in New York a successful member of the choreographic circle; her sister Edith was, as every one said, so very much more fetching."*

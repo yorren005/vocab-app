@@ -5,13 +5,6 @@ status: unread
 ---
 # silicide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various compounds of silicon with a more electropositive element or radical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various compounds of silicon with a more electropositive element or radical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicide designates any of various compounds of silicon with a more electropositive element or radical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various compounds of silicon with a more electropositive element or radical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various compounds of silicon with a more electropositive element or radical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicide designates any of various compounds of silicon with a more electropositive element or radical."*

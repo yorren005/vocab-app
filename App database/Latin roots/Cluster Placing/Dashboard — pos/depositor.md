@@ -5,15 +5,6 @@ status: unread
 ---
 # depositor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has deposited money in a bank or similar institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has deposited money in a bank or similar institution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the standpoint of the depositor a time deposit is, by its very nature, an investment and not a demand credit available for current monetary uses."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A deposit in a bank is to the depositor for most purposes "just as good" as money in the pocket and for many purposes is even better."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The bank in that case becomes the debtor and the depositor becomes the creditor of the bank."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has deposited money in a bank or similar institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has deposited money in a bank or similar institution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the standpoint of the depositor a time deposit is, by its very nature, an investment and not a demand credit available for current monetary uses."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A deposit in a bank is to the depositor for most purposes "just as good" as money in the pocket and for many purposes is even better."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The bank in that case becomes the debtor and the depositor becomes the creditor of the bank."*

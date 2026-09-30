@@ -5,13 +5,6 @@ status: unread
 ---
 # psychopomp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit, deity, person, etc., who guides the souls of the dead to the afterlife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spirit, deity, person, etc., who guides the souls of the dead to the afterlife.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopomp designates a spirit, deity, person, etc., who guides the souls of the dead to the afterlife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit, deity, person, etc., who guides the souls of the dead to the afterlife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spirit, deity, person, etc., who guides the souls of the dead to the afterlife.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopomp designates a spirit, deity, person, etc., who guides the souls of the dead to the afterlife."*

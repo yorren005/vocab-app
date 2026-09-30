@@ -5,15 +5,6 @@ status: unread
 ---
 # affecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an effect upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act physically on; have an effect upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And affecting one sole throne, without assistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAGE. [_Aside_.] I never heard such a drawling, affecting rogue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pox of such antic lisping, affecting phantasies; these new tuners of accent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an effect upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act physically on; have an effect upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And affecting one sole throne, without assistance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAGE. [_Aside_.] I never heard such a drawling, affecting rogue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pox of such antic lisping, affecting phantasies; these new tuners of accent."*

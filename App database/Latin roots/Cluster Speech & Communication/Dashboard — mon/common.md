@@ -5,15 +5,6 @@ status: unread
 ---
 # common
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of open land for recreational use in an urban area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or participated in by a community as a whole; public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should my heart think that a several plot, Which my heart knows the wide world’s common place?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks in thee some blessed spirit doth speak His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, I do know him well; and common speech Gives him a worthy pass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of open land for recreational use in an urban area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or participated in by a community as a whole; public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should my heart think that a several plot, Which my heart knows the wide world’s common place?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks in thee some blessed spirit doth speak His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, I do know him well; and common speech Gives him a worthy pass."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exclusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A news report that is reported first by one news organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided or shared with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a six-roomer, exclusive of kitchens,” said Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The absoluteness of possession pleased them, and they realized it as the first moment of their experience under their own exclusive roof-tree."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A variety of rights called easements or servitudes may attach to private property, modifying its exclusive use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A news report that is reported first by one news organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided or shared with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a six-roomer, exclusive of kitchens,” said Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The absoluteness of possession pleased them, and they realized it as the first moment of their experience under their own exclusive roof-tree."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A variety of rights called easements or servitudes may attach to private property, modifying its exclusive use."*

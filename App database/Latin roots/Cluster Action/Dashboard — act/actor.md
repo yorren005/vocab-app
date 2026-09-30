@@ -5,15 +5,6 @@ status: unread
 ---
 # actor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theatrical performer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who acts and gets things done.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A showing of a heavenly effect in an earthly actor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when good will is showed, though’t come too short, The actor may plead pardon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring us to this sight, and you shall say I’ll prove a busy actor in their play. [_Exeunt._] SCENE V."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theatrical performer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who acts and gets things done.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A showing of a heavenly effect in an earthly actor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when good will is showed, though’t come too short, The actor may plead pardon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring us to this sight, and you shall say I’ll prove a busy actor in their play. [_Exeunt._] SCENE V."*

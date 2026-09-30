@@ -5,13 +5,6 @@ status: unread
 ---
 # halma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A board game in which players try to move their pieces into their opponent's bases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A board game in which players try to move their pieces into their opponent's bases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halma designates a board game in which players try to move their pieces into their opponent's bases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A board game in which players try to move their pieces into their opponent's bases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A board game in which players try to move their pieces into their opponent's bases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halma designates a board game in which players try to move their pieces into their opponent's bases."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # glimmer
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Flash of light
-> 2. **Nuance / Usage**: Faint light; a dim glow
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And on my side it is so well apparell’d, So clear, so shining and so evident, That it will glimmer through a blind man’s eye."*
-> - 📜 **Mary Shelley (*Frankenstein*):** *"I perceived in the gloom a figure which stole from behind a clump of trees near me; I stood fixed, gazing intently: I could not be mistaken; it was the wretch whom I had created, no light but the glimmer of two eyes that glared upon me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The west yet glimmers with some streaks of day: Now spurs the lated traveller apace To gain the timely inn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Flash of light
+> 2. **Nuance / Usage**: Faint light; a dim glow
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And on my side it is so well apparell’d, So clear, so shining and so evident, That it will glimmer through a blind man’s eye."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I perceived in the gloom a figure which stole from behind a clump of trees near me; I stood fixed, gazing intently: I could not be mistaken; it was the wretch whom I had created, no light but the glimmer of two eyes that glared upon me."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The west yet glimmers with some streaks of day: Now spurs the lated traveller apace To gain the timely inn."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cadence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) the accent in a metrical foot of verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The close of a musical section.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am the new shepherd—just arrived.” “Only a shepherd—and you seem almost a farmer by your ways.” “Only a shepherd,” Gabriel repeated, in a dull cadence of finality."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If the wind does not change the rain is likely to keep off.” “If I am useless I will go,” said Bathsheba, in a flagging cadence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) the accent in a metrical foot of verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The close of a musical section.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am the new shepherd—just arrived.” “Only a shepherd—and you seem almost a farmer by your ways.” “Only a shepherd,” Gabriel repeated, in a dull cadence of finality."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If the wind does not change the rain is likely to keep off.” “If I am useless I will go,” said Bathsheba, in a flagging cadence."*

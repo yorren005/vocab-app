@@ -5,13 +5,6 @@ status: unread
 ---
 # tanglebush
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanglebush designates spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanglebush designates spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits."*

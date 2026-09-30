@@ -5,13 +5,6 @@ status: unread
 ---
 # aurochs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European bison having a smaller and higher head than the north american bison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large recently extinct long-horned european wild ox; considered one of the ancestors of domestic cattle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurochs designates european bison having a smaller and higher head than the north american bison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: European bison having a smaller and higher head than the north american bison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large recently extinct long-horned european wild ox; considered one of the ancestors of domestic cattle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurochs designates european bison having a smaller and higher head than the north american bison."*

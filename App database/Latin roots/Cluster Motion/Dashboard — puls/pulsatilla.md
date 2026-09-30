@@ -5,13 +5,6 @@ status: unread
 ---
 # pulsatilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes a group of plants that in some classifications are included in the genus anemone: pasqueflowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes a group of plants that in some classifications are included in the genus anemone: pasqueflowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Consult index for agitated fear of aconite, melancholy of muriatic, priapic pulsatilla."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes a group of plants that in some classifications are included in the genus anemone: pasqueflowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes a group of plants that in some classifications are included in the genus anemone: pasqueflowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Consult index for agitated fear of aconite, melancholy of muriatic, priapic pulsatilla."*

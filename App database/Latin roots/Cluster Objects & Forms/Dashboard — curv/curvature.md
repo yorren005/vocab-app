@@ -5,15 +5,6 @@ status: unread
 ---
 # curvature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a curving or bending; often abnormal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate of change (at a point) of the angle between a curve and a tangent to the curve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"While at the home of L.R. in England, I was asked to pray with his daughter, who had spinal curvature."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For the same reason these lights must be high up, or the curvature of the ocean's surface will limit their range."*
-> - 📜 **James Joyce (*Ulysses*):** *"You’ll get curvature of the spine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a curving or bending; often abnormal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate of change (at a point) of the angle between a curve and a tangent to the curve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"While at the home of L.R. in England, I was asked to pray with his daughter, who had spinal curvature."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For the same reason these lights must be high up, or the curvature of the ocean's surface will limit their range."*
+> - 📜 **James Joyce (*Ulysses*):** *"You’ll get curvature of the spine."*

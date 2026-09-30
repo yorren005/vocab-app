@@ -5,14 +5,6 @@ status: unread
 ---
 # vaccination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a vaccine as a precaution against contracting a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scar left following inoculation with a vaccine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Her sleeve falling from gracing arms, reveals a white fleshflower of vaccination."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a vaccine as a precaution against contracting a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scar left following inoculation with a vaccine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Her sleeve falling from gracing arms, reveals a white fleshflower of vaccination."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*

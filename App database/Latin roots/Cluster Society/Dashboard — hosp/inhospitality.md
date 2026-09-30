@@ -5,15 +5,6 @@ status: unread
 ---
 # inhospitality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unkind and inconsiderate welcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unkind and inconsiderate welcome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"All this he had thought out in the loneliness of foreign ports, in the night watches aboard ship, in the inhospitality of his mother's house, and on the jaunting-car to Dundalk."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Lewis, “who first violated the rules of good breeding towards a man who, at the very time, was expiating what power had made a crime, and then revenged himself by a petty inhospitality."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Wretched inmates!” I ejaculated, mentally, “you deserve perpetual isolation from your species for your churlish inhospitality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unkind and inconsiderate welcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unkind and inconsiderate welcome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"All this he had thought out in the loneliness of foreign ports, in the night watches aboard ship, in the inhospitality of his mother's house, and on the jaunting-car to Dundalk."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Lewis, “who first violated the rules of good breeding towards a man who, at the very time, was expiating what power had made a crime, and then revenged himself by a petty inhospitality."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Wretched inmates!” I ejaculated, mentally, “you deserve perpetual isolation from your species for your churlish inhospitality."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # revolutionise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with revolutionary ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change radically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Bushell revolutionised the study of Chinese porcelain by his _Oriental Ceramic Art_, a book, unfortunately, difficult to obtain, and by editing Cosmo Monkhouse's excellent _History and Description of Chinese Porcelain_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with revolutionary ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change radically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Bushell revolutionised the study of Chinese porcelain by his _Oriental Ceramic Art_, a book, unfortunately, difficult to obtain, and by editing Cosmo Monkhouse's excellent _History and Description of Chinese Porcelain_."*

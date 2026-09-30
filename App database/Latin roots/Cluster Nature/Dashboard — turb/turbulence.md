@@ -5,15 +5,6 @@ status: unread
 ---
 # turbulence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unstable flow of a liquid or gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instability in the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consort with me in loud and dear petition, Pursue we him on knees; for I have dreamt Of bloody turbulence, and this whole night Hath nothing been but shapes and forms of slaughter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was full of a stimulating turbulence, beside which caution vainly prayed for a hearing."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was no time in such turbulence for her to be abroad garbed as became her station."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unstable flow of a liquid or gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instability in the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consort with me in loud and dear petition, Pursue we him on knees; for I have dreamt Of bloody turbulence, and this whole night Hath nothing been but shapes and forms of slaughter."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was full of a stimulating turbulence, beside which caution vainly prayed for a hearing."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was no time in such turbulence for her to be abroad garbed as became her station."*

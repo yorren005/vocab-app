@@ -5,15 +5,6 @@ status: unread
 ---
 # ponder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee go in thyself; seek thine own ease: This tempest will not give me leave to ponder On things would hurt me more."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is not alone to-night to ponder at his usual length."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, who had been standing motionless as a model all this latter time, flung her hands to her face, and wildly attempted to ponder on the exhibition which had just passed away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee go in thyself; seek thine own ease: This tempest will not give me leave to ponder On things would hurt me more."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is not alone to-night to ponder at his usual length."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, who had been standing motionless as a model all this latter time, flung her hands to her face, and wildly attempted to ponder on the exhibition which had just passed away."*

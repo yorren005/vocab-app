@@ -5,15 +5,6 @@ status: unread
 ---
 # parochial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or supported by or located in a parish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrowly restricted in outlook or scope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Formerly Caroline Jellyby, spinster, then of Thavies Inn, within the city of London, but extra-parochial; now of Newman Street, Oxford Street."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The mischief of it was that he had expected the marriage ceremony to convert a butterfly into a staid, parochial wife."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He did not admire Dissenters anyway, at the best of times, because they had voted against him when he wanted to be parochial officer, or something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or supported by or located in a parish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrowly restricted in outlook or scope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Formerly Caroline Jellyby, spinster, then of Thavies Inn, within the city of London, but extra-parochial; now of Newman Street, Oxford Street."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The mischief of it was that he had expected the marriage ceremony to convert a butterfly into a staid, parochial wife."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He did not admire Dissenters anyway, at the best of times, because they had voted against him when he wanted to be parochial officer, or something."*

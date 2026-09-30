@@ -5,13 +5,6 @@ status: unread
 ---
 # inexorability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercilessness characterized by an unwillingness to relent or let up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mercilessness characterized by an unwillingness to relent or let up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexorability designates mercilessness characterized by an unwillingness to relent or let up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercilessness characterized by an unwillingness to relent or let up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mercilessness characterized by an unwillingness to relent or let up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexorability designates mercilessness characterized by an unwillingness to relent or let up."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # epitomize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embody the essential characteristics of or be a typical example of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"A poem of 1788, "Die Stille," written at Maulbronn, epitomizes almost everything that we have thus far noted as to Hoelderlin's nature."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In the individual the species has, as it were, been gathered up, epitomized, and intensified, and he has thus been a prophecy, and to some extent a fulfilment of human destiny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embody the essential characteristics of or be a typical example of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"A poem of 1788, "Die Stille," written at Maulbronn, epitomizes almost everything that we have thus far noted as to Hoelderlin's nature."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In the individual the species has, as it were, been gathered up, epitomized, and intensified, and he has thus been a prophecy, and to some extent a fulfilment of human destiny."*

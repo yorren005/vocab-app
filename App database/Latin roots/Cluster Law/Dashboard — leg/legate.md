@@ -5,15 +5,6 @@ status: unread
 ---
 # legate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a legation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Winchester in Cardinal’s habit, a Legate and two Ambassadors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, my Lord Protector, see them guarded And safely brought to Dover; where inshipp’d, Commit them to the fortune of the sea. [_Exeunt all but Winchester and Legate._] WINCHESTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay my lord legate; you shall first receive The sum of money which I promised Should be deliver’d to his Holiness For clothing me in these grave ornaments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a legation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Winchester in Cardinal’s habit, a Legate and two Ambassadors."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, my Lord Protector, see them guarded And safely brought to Dover; where inshipp’d, Commit them to the fortune of the sea. [_Exeunt all but Winchester and Legate._] WINCHESTER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay my lord legate; you shall first receive The sum of money which I promised Should be deliver’d to his Holiness For clothing me in these grave ornaments."*

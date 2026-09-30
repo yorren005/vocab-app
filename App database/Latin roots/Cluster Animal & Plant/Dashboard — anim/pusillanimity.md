@@ -5,14 +5,6 @@ status: unread
 ---
 # pusillanimity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemptible fearfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contemptible fearfulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The second property of your excellent sherris is the warming of the blood, which, before cold and settled, left the liver white and pale, which is the badge of pusillanimity and cowardice."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"There are in fact writers as to whom we make out that their refuge from this is to assume it to be not worth their attempting; by which pusillanimity in truth their honour is scantly saved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemptible fearfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contemptible fearfulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The second property of your excellent sherris is the warming of the blood, which, before cold and settled, left the liver white and pale, which is the badge of pusillanimity and cowardice."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"There are in fact writers as to whom we make out that their refuge from this is to assume it to be not worth their attempting; by which pusillanimity in truth their honour is scantly saved."*

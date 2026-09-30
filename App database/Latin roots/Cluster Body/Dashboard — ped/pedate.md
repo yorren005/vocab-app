@@ -5,13 +5,6 @@ status: unread
 ---
 # pedate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a leaf shape; having radiating lobes, each deeply cleft or divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling a foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedate designates of a leaf shape; having radiating lobes, each deeply cleft or divided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a leaf shape; having radiating lobes, each deeply cleft or divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling a foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedate designates of a leaf shape; having radiating lobes, each deeply cleft or divided."*

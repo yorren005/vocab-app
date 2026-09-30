@@ -5,13 +5,6 @@ status: unread
 ---
 # plater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who coats articles with a film of metal (usually silver or gold).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who coats articles with a film of metal (usually silver or gold).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plater designates a skilled worker who coats articles with a film of metal (usually silver or gold)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who coats articles with a film of metal (usually silver or gold).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who coats articles with a film of metal (usually silver or gold).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plater designates a skilled worker who coats articles with a film of metal (usually silver or gold)."*

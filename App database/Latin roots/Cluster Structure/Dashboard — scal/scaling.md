@@ -5,15 +5,6 @@ status: unread
 ---
 # scaling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of arranging in a graduated series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of measuring or arranging or adjusting according to a scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King Henry, Exeter, Bedford, Gloucester and Soldiers, with scaling-ladders."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Talbot, Bedford, Burgundy, and forces, with scaling-ladders."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"And those who come to grief at the hands of the gods, are not weak passive creatures, but heaven-scaling Titans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of arranging in a graduated series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of measuring or arranging or adjusting according to a scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King Henry, Exeter, Bedford, Gloucester and Soldiers, with scaling-ladders."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Talbot, Bedford, Burgundy, and forces, with scaling-ladders."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"And those who come to grief at the hands of the gods, are not weak passive creatures, but heaven-scaling Titans."*

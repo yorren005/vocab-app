@@ -5,13 +5,6 @@ status: unread
 ---
 # side-slip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slide sideways through the air in a downward direction in an airplane along an inclined lateral axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slide sideways through the air in a downward direction in an airplane along an inclined lateral axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-slip designates slide sideways through the air in a downward direction in an airplane along an inclined lateral axis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slide sideways through the air in a downward direction in an airplane along an inclined lateral axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slide sideways through the air in a downward direction in an airplane along an inclined lateral axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-slip designates slide sideways through the air in a downward direction in an airplane along an inclined lateral axis."*

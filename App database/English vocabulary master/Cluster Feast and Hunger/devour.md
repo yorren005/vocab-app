@@ -5,20 +5,6 @@ status: unread
 ---
 # devour
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Prey upon
-> 2. **Nuance / Usage**: Eat up greedily or ravenously
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to devour the target*) and intransitive clauses (*devouring against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"choose the sweetest women to devour—like Minotaurs."*
-> - 📜 **Thomas Piketty (*Capital in the Twenty-First Century*):** *"Once constituted, capital reproduces itself faster than output increases. The past devours the future."*
-> - 📜 **Vitali Vitaliev (*Literature on the track*):** *"My dreams were largely based on the works of Dickens (his Mugby Junction stories), Thackeray (Jeames on the Gauge Question), and Arthur Conan Doyle, whose Sherlock Holmes stories I kept devouring with gluttonous abandon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To eat up food or prey greedily, ravenously, and completely.
+> 2. **Nuance / Usage**: Used figuratively to describe destructive forces (like fire or time) consuming everything in their path, or an eager mind absorbing books and sights with intense appetite.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to devour the target*) and intransitive clauses (*devouring against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"They choose the sweetest women to **devour**—like Minotaurs."*
+> - 📜 **Thomas Piketty (*Capital in the Twenty-First Century*):** *"Once constituted, capital reproduces itself faster than output increases, and the past **devours** the future."*
+> - 📜 **Vitali Vitaliev (*Literature on the Track*):** *"My dreams were largely based on the works of Arthur Conan Doyle, whose Sherlock Holmes stories I kept **devouring** with gluttonous abandon."*

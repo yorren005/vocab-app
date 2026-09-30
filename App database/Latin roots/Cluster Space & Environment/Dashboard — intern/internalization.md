@@ -5,13 +5,6 @@ status: unread
 ---
 # internalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalization designates learning (of values or attitudes etc.) that is incorporated within yourself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalization designates learning (of values or attitudes etc.) that is incorporated within yourself."*

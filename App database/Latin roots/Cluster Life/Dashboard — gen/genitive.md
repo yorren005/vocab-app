@@ -5,15 +5,6 @@ status: unread
 ---
 # genitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The case expressing ownership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to express or indicate possession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is your genitive case plural, William?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Genitive: _horum, harum, horum_."*
-> - 📜 **James Joyce (*Ulysses*):** *"Waiting always for a word of help his hand moved faithfully the unsteady symbols, a faint hue of shame flickering behind his dull skin. _Amor matris:_ subjective and objective genitive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The case expressing ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to express or indicate possession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is your genitive case plural, William?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Genitive: _horum, harum, horum_."*
+> - 📜 **James Joyce (*Ulysses*):** *"Waiting always for a word of help his hand moved faithfully the unsteady symbols, a faint hue of shame flickering behind his dull skin. _Amor matris:_ subjective and objective genitive."*

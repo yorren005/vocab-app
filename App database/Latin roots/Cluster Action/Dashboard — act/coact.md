@@ -5,13 +5,6 @@ status: unread
 ---
 # coact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act together, as of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act together, as of organisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coact designates act together, as of organisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act together, as of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act together, as of organisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coact designates act together, as of organisms."*

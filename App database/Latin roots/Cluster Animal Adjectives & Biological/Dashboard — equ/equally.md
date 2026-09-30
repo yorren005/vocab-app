@@ -5,15 +5,6 @@ status: unread
 ---
 # equally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To the same degree (often followed by `as').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equal amounts or shares; in a balanced or impartial way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it appears to you where this begins, Turn your displeasure that way, for our faults Can never be so equal that your love Can equally move with them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us sit and mock the good housewife Fortune from her wheel, that her gifts may henceforth be bestowed equally."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, you have show’d today your valiant strain, And fortune led you well: you have the captives Who were the opposites of this day’s strife: I do require them of you, so to use them As we shall find their merits and our safety May equally determine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To the same degree (often followed by `as').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equal amounts or shares; in a balanced or impartial way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it appears to you where this begins, Turn your displeasure that way, for our faults Can never be so equal that your love Can equally move with them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us sit and mock the good housewife Fortune from her wheel, that her gifts may henceforth be bestowed equally."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, you have show’d today your valiant strain, And fortune led you well: you have the captives Who were the opposites of this day’s strife: I do require them of you, so to use them As we shall find their merits and our safety May equally determine."*

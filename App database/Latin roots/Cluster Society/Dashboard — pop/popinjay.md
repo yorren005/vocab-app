@@ -5,14 +5,6 @@ status: unread
 ---
 # popinjay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vain and talkative person (chatters like a parrot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for a parrot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Aix a nominal king, chosen from among the youth for his skill in shooting at a popinjay, presided over the midsummer festival."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is no excuse for encouraging the superstitious exaggeration of hopes about this particular measure, helping the cry to swallow it whole and to send up voting popinjays who are good for nothing but to carry it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vain and talkative person (chatters like a parrot).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for a parrot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Aix a nominal king, chosen from among the youth for his skill in shooting at a popinjay, presided over the midsummer festival."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That is no excuse for encouraging the superstitious exaggeration of hopes about this particular measure, helping the cry to swallow it whole and to send up voting popinjays who are good for nothing but to carry it."*

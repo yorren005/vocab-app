@@ -5,13 +5,6 @@ status: unread
 ---
 # cosmological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of philosophy dealing with the elements and laws and especially the characteristics of the universe such as space and time and causality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He does not, like Clement and other Greeks, revel in cosmological speculations as to the Logos, nor does he loosely adopt the abstract methods of later Greek philosophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of philosophy dealing with the elements and laws and especially the characteristics of the universe such as space and time and causality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He does not, like Clement and other Greeks, revel in cosmological speculations as to the Logos, nor does he loosely adopt the abstract methods of later Greek philosophy."*

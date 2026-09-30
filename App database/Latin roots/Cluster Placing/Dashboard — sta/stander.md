@@ -5,15 +5,6 @@ status: unread
 ---
 # stander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (person or animal) that stands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (person or animal) that stands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be a stander-by to hear My sovereign mistress clouded so, without My present vengeance taken: ’shrew my heart, You never spoke what did become you less Than this; which to reiterate were sin As deep as that, though true."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I cannot think well of a man who sports with any woman’s feelings; and there may often be a great deal more suffered than a stander-by can judge of.” “I do not defend him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And each by-stander of them all Could criticise, and quote tradition How depths of blue sublimed some pall-- To get which, pricked a king’s ambition; Worth sceptre, crown, and ball."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (person or animal) that stands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (person or animal) that stands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be a stander-by to hear My sovereign mistress clouded so, without My present vengeance taken: ’shrew my heart, You never spoke what did become you less Than this; which to reiterate were sin As deep as that, though true."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I cannot think well of a man who sports with any woman’s feelings; and there may often be a great deal more suffered than a stander-by can judge of.” “I do not defend him."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And each by-stander of them all Could criticise, and quote tradition How depths of blue sublimed some pall-- To get which, pricked a king’s ambition; Worth sceptre, crown, and ball."*

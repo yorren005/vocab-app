@@ -5,15 +5,6 @@ status: unread
 ---
 # sever
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set or keep apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus have you heard me sever’d from my bliss, That by misfortunes was my life prolong’d To tell sad stories of my own mishaps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more can I be sever’d from your side Than can yourself yourself in twain divide."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better I were distract: So should my thoughts be sever’d from my griefs, And woes by wrong imaginations lose The knowledge of themselves. [_A drum afar off._] EDGAR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set or keep apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus have you heard me sever’d from my bliss, That by misfortunes was my life prolong’d To tell sad stories of my own mishaps."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more can I be sever’d from your side Than can yourself yourself in twain divide."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better I were distract: So should my thoughts be sever’d from my griefs, And woes by wrong imaginations lose The knowledge of themselves. [_A drum afar off._] EDGAR."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # imprison
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine as if in a prison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s wedded; Her husband banish’d; she imprison’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That cause, fair nephew, that imprison’d me And hath detain’d me all my flowering youth Within a loathsome dungeon, there to pine, Was cursed instrument of his decease."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste before, And, ere our coming, see thou shake the bags Of hoarding abbots; imprison’d angels Set at liberty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine as if in a prison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s wedded; Her husband banish’d; she imprison’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That cause, fair nephew, that imprison’d me And hath detain’d me all my flowering youth Within a loathsome dungeon, there to pine, Was cursed instrument of his decease."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste before, And, ere our coming, see thou shake the bags Of hoarding abbots; imprison’d angels Set at liberty."*

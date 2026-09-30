@@ -5,13 +5,6 @@ status: unread
 ---
 # bisection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing into two equal parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dividing into two equal parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See _The Magic Art and the Evolution of Kings_, ii. 324 _sqq._ As to the bisection of the Celtic year, see the old authority quoted by P.W."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing into two equal parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dividing into two equal parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See _The Magic Art and the Evolution of Kings_, ii. 324 _sqq._ As to the bisection of the Celtic year, see the old authority quoted by P.W."*

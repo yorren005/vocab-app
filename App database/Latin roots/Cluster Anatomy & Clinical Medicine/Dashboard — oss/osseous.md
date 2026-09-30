@@ -5,14 +5,6 @@ status: unread
 ---
 # osseous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*

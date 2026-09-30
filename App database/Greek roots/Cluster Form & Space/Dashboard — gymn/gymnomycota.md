@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnomycota
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnomycota designates slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnomycota designates slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista."*

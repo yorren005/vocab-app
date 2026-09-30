@@ -5,15 +5,6 @@ status: unread
 ---
 # quiescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not active or activated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a state of tranquil repose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her beauty, which, whilst it had been quiescent, he had praised in jest, had in its animated phases moved him to earnest; and though his seriousness was less than she imagined, it was probably more than he imagined himself."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On these lonely hills and dales her quiescent glide was of a piece with the element she moved in."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Quiescent as he now sat, there was something about his nostril, his mouth, his brow, which, to my perceptions, indicated elements within either restless, or hard, or eager."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not active or activated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a state of tranquil repose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her beauty, which, whilst it had been quiescent, he had praised in jest, had in its animated phases moved him to earnest; and though his seriousness was less than she imagined, it was probably more than he imagined himself."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On these lonely hills and dales her quiescent glide was of a piece with the element she moved in."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Quiescent as he now sat, there was something about his nostril, his mouth, his brow, which, to my perceptions, indicated elements within either restless, or hard, or eager."*

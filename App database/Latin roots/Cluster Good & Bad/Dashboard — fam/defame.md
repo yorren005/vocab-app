@@ -5,15 +5,6 @@ status: unread
 ---
 # defame
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Feast-finding minstrels, tuning my defame, Will tie the hearers to attend each line, How Tarquin wronged me, I Collatine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honour thyself to rid me of this shame, For if I die, my honour lives in thee, But if I live, thou liv’st in my defame."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Pardon a muse sae mean as mine, Who in her rough imperfect line Thus daurs to name thee; To stigmatise false friends of thine Can ne’er defame thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Feast-finding minstrels, tuning my defame, Will tie the hearers to attend each line, How Tarquin wronged me, I Collatine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honour thyself to rid me of this shame, For if I die, my honour lives in thee, But if I live, thou liv’st in my defame."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Pardon a muse sae mean as mine, Who in her rough imperfect line Thus daurs to name thee; To stigmatise false friends of thine Can ne’er defame thee."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # evaporate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose or cause to lose liquid by vaporization leaving a more concentrated residue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change into a vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Carefully I covered my rock cisterns with flat stones so that the sun’s rays might not evaporate the precious fluid and in precaution against some upspringing of wind in the night and the sudden flying of spray."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Tranquilly permitting these irregular cursings to evaporate, Stubb then in a plain, business-like, but still half humorous manner, cursed Pip officially; and that done, unofficially gave him much wholesome advice."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Where do they go when they break, Mamma?” “They evaporate, dear; that is a big word for my little boy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose or cause to lose liquid by vaporization leaving a more concentrated residue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change into a vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Carefully I covered my rock cisterns with flat stones so that the sun’s rays might not evaporate the precious fluid and in precaution against some upspringing of wind in the night and the sudden flying of spray."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Tranquilly permitting these irregular cursings to evaporate, Stubb then in a plain, business-like, but still half humorous manner, cursed Pip officially; and that done, unofficially gave him much wholesome advice."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Where do they go when they break, Mamma?” “They evaporate, dear; that is a big word for my little boy."*

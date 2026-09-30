@@ -5,15 +5,6 @@ status: unread
 ---
 # evaporated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose or cause to lose liquid by vaporization leaving a more concentrated residue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change into a vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"All the uses and scents of the brewery might have evaporated with its last reek of smoke."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At last the wrath of the chief evaporated, and in a few moments he was as placid as ever."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some appearance of verdure lingers beside the canals and in the hollows from which the moisture has not wholly evaporated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose or cause to lose liquid by vaporization leaving a more concentrated residue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change into a vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"All the uses and scents of the brewery might have evaporated with its last reek of smoke."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At last the wrath of the chief evaporated, and in a few moments he was as placid as ever."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some appearance of verdure lingers beside the canals and in the hollows from which the moisture has not wholly evaporated."*

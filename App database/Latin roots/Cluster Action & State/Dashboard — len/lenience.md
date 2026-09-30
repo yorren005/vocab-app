@@ -5,13 +5,6 @@ status: unread
 ---
 # lenience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercifulness as a consequence of being lenient or tolerant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to yield to the wishes of someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenience designates mercifulness as a consequence of being lenient or tolerant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercifulness as a consequence of being lenient or tolerant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to yield to the wishes of someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenience designates mercifulness as a consequence of being lenient or tolerant."*

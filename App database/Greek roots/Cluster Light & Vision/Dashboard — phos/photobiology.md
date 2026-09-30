@@ -5,13 +5,6 @@ status: unread
 ---
 # photobiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the effects on living organisms of radiant energy (such as light).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology that deals with the effects on living organisms of radiant energy (such as light).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photobiology designates a branch of biology that deals with the effects on living organisms of radiant energy (such as light)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the effects on living organisms of radiant energy (such as light).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology that deals with the effects on living organisms of radiant energy (such as light).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photobiology designates a branch of biology that deals with the effects on living organisms of radiant energy (such as light)."*

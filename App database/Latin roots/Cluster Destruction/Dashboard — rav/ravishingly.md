@@ -5,13 +5,6 @@ status: unread
 ---
 # ravishingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ravishing manner or to a ravishing degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ravishing manner or to a ravishing degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravishingly designates in a ravishing manner or to a ravishing degree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ravishing manner or to a ravishing degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ravishing manner or to a ravishing degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravishingly designates in a ravishing manner or to a ravishing degree."*

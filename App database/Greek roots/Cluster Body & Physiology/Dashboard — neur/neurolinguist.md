@@ -5,13 +5,6 @@ status: unread
 ---
 # neurolinguist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in neuroscience and linguistics who studies brain processes during language production and reception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in neuroscience and linguistics who studies brain processes during language production and reception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurolinguist designates someone trained in neuroscience and linguistics who studies brain processes during language production and reception."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in neuroscience and linguistics who studies brain processes during language production and reception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in neuroscience and linguistics who studies brain processes during language production and reception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurolinguist designates someone trained in neuroscience and linguistics who studies brain processes during language production and reception."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # underhandedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slyly and secretly; - john donne; - c.g.bowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slyly and secretly; - john donne; - c.g.bowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underhandedly designates slyly and secretly; - john donne; - c.g.bowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slyly and secretly; - john donne; - c.g.bowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slyly and secretly; - john donne; - c.g.bowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underhandedly designates slyly and secretly; - john donne; - c.g.bowers."*

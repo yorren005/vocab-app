@@ -5,15 +5,6 @@ status: unread
 ---
 # coquet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk or behave amorously, without serious intentions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She became EXCESSIVELY intimate with most of the ladies; and, to my profound astonishment, evinced no equivocal disposition to coquet with the men."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Without any need of self-restraint, no wish to coquet ever entered her head."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Alas! vain charmer, you no lovers get; There you seem hypocrite, and here coquet. _On a picture of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk or behave amorously, without serious intentions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She became EXCESSIVELY intimate with most of the ladies; and, to my profound astonishment, evinced no equivocal disposition to coquet with the men."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Without any need of self-restraint, no wish to coquet ever entered her head."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Alas! vain charmer, you no lovers get; There you seem hypocrite, and here coquet. _On a picture of Mrs."*

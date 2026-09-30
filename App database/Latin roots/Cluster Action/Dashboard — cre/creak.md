@@ -5,15 +5,6 @@ status: unread
 ---
 # creak
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeaking sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a high-pitched, screeching noise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But in no more than a minute or two the stairs creak and Tony comes swiftly back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every window replied by a clang to the opening and shutting of every door, a tremble followed every bustling movement, and a creak accompanied a walker about the house, like a spirit, wherever he went."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not long after one o’clock there was a slight creak in the darkened farmhouse once the mansion of the d’Urbervilles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeaking sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a high-pitched, screeching noise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But in no more than a minute or two the stairs creak and Tony comes swiftly back."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every window replied by a clang to the opening and shutting of every door, a tremble followed every bustling movement, and a creak accompanied a walker about the house, like a spirit, wherever he went."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not long after one o’clock there was a slight creak in the darkened farmhouse once the mansion of the d’Urbervilles."*

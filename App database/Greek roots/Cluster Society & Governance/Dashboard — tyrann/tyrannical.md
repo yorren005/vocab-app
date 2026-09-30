@@ -5,15 +5,6 @@ status: unread
 ---
 # tyrannical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by unjust severity or arbitrary behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an absolute ruler or absolute rule; having absolute sovereignty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this point charge him home, that he affects Tyrannical power."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you that you have contrived to take From Rome all seasoned office and to wind Yourself into a power tyrannical, For which you are a traitor to the people."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He had known many disagreeable fathers before, and often been struck with the inconveniences they occasioned, but never, in the whole course of his life, had he seen one of that class so unintelligibly moral, so infamously tyrannical as Sir Thomas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by unjust severity or arbitrary behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an absolute ruler or absolute rule; having absolute sovereignty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this point charge him home, that he affects Tyrannical power."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you that you have contrived to take From Rome all seasoned office and to wind Yourself into a power tyrannical, For which you are a traitor to the people."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"He had known many disagreeable fathers before, and often been struck with the inconveniences they occasioned, but never, in the whole course of his life, had he seen one of that class so unintelligibly moral, so infamously tyrannical as Sir Thomas."*

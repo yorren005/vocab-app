@@ -5,15 +5,6 @@ status: unread
 ---
 # eon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An immeasurably or indefinitely long period of time : age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large division of geologic time usually longer than an era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"E., eon: Magee, John Eglinton."*
-> - 📜 **James Joyce (*Ulysses*):** *"Any object, intensely regarded, may be a gate of access to the incorruptible eon of the gods."*
-> - 📜 **James Joyce (*Ulysses*):** *"Streams of tendency and eons they worship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immeasurably or indefinitely long period of time : age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large division of geologic time usually longer than an era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"E., eon: Magee, John Eglinton."*
+> - 📜 **James Joyce (*Ulysses*):** *"Any object, intensely regarded, may be a gate of access to the incorruptible eon of the gods."*
+> - 📜 **James Joyce (*Ulysses*):** *"Streams of tendency and eons they worship."*

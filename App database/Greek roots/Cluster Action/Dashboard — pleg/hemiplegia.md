@@ -5,13 +5,6 @@ status: unread
 ---
 # hemiplegia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiplegia designates total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiplegia designates total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain."*

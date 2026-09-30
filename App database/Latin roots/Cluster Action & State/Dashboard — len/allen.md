@@ -5,15 +5,6 @@ status: unread
 ---
 # allen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states comedienne remembered as the confused but imperturbable partner of her husband, george burns (1906-1964).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states filmmaker and comic actor (1935-).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen’s side, of having once left her clogs behind her at an inn, and that fortunately proved to be groundless."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen was one of that numerous class of females, whose society can raise no other emotion than surprise at there being any men in the world who could like them well enough to marry them."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen and her maid declared she looked quite as she should do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states comedienne remembered as the confused but imperturbable partner of her husband, george burns (1906-1964).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states filmmaker and comic actor (1935-).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen’s side, of having once left her clogs behind her at an inn, and that fortunately proved to be groundless."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen was one of that numerous class of females, whose society can raise no other emotion than surprise at there being any men in the world who could like them well enough to marry them."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen and her maid declared she looked quite as she should do."*

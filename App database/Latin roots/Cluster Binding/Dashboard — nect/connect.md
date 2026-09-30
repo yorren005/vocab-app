@@ -5,15 +5,6 @@ status: unread
 ---
 # connect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect, fasten, or put together two or more pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a logical or causal connection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had no child to connect her with life and happiness again, no relations to assist in the arrangement of perplexed affairs, no health to make all the rest supportable."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"On coming to Edinburgh, he looked about for a Lodge to connect himself with, and ultimately chose one of the smallest and most obscure in the city."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Why, Doctor! you are not so superstitious as to connect that boy's prayers with his sister's recovery," said he."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect, fasten, or put together two or more pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a logical or causal connection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She had no child to connect her with life and happiness again, no relations to assist in the arrangement of perplexed affairs, no health to make all the rest supportable."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"On coming to Edinburgh, he looked about for a Lodge to connect himself with, and ultimately chose one of the smallest and most obscure in the city."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Why, Doctor! you are not so superstitious as to connect that boy's prayers with his sister's recovery," said he."*

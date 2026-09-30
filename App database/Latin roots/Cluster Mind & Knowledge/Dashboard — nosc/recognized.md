@@ -5,15 +5,6 @@ status: unread
 ---
 # recognized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accept (someone) to be what is claimed or accept his power and authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware or cognizant of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie, glancing up, now recognized the company, too."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa would have easily recognized the child even without knowing her name."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accept (someone) to be what is claimed or accept his power and authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware or cognizant of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie, glancing up, now recognized the company, too."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa would have easily recognized the child even without knowing her name."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*

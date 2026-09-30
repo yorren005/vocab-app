@@ -5,13 +5,6 @@ status: unread
 ---
 # undisputable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not open to question; obviously true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not open to question; obviously true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undisputable designates not open to question; obviously true."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not open to question; obviously true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not open to question; obviously true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undisputable designates not open to question; obviously true."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # missouri
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midwestern state in central united states; a border state during the american civil war, missouri was admitted to the confederacy without actually seceding from the union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The longest river in the united states; arises in montana and flows southeastward to become a tributary of the mississippi at saint louis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They denied us harshly, and wanted to know who of us had sold them food when we drove them from Missouri."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Federal Reserve Act made two important changes to improve agricultural credit.[7] Soon afterward some of the states took more vigorous action to provide a special system of agricultural credit, especially New York and Missouri."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Cheyennes appear to have been at first settled on the Mississippi, from which they were driven westward to the Missouri."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A midwestern state in central united states; a border state during the american civil war, missouri was admitted to the confederacy without actually seceding from the union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The longest river in the united states; arises in montana and flows southeastward to become a tributary of the mississippi at saint louis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They denied us harshly, and wanted to know who of us had sold them food when we drove them from Missouri."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Federal Reserve Act made two important changes to improve agricultural credit.[7] Soon afterward some of the states took more vigorous action to provide a special system of agricultural credit, especially New York and Missouri."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Cheyennes appear to have been at first settled on the Mississippi, from which they were driven westward to the Missouri."*

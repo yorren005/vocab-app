@@ -5,13 +5,6 @@ status: unread
 ---
 # adenoidal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the adenoids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sounding as if the nose were pinched.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenoidal designates of or pertaining to the adenoids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the adenoids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sounding as if the nose were pinched.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenoidal designates of or pertaining to the adenoids."*

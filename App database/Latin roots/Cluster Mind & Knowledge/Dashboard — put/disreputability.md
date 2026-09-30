@@ -5,13 +5,6 @@ status: unread
 ---
 # disreputability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dishonorableness by virtue of lacking respectability or a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dishonorableness by virtue of lacking respectability or a good reputation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disreputability designates dishonorableness by virtue of lacking respectability or a good reputation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dishonorableness by virtue of lacking respectability or a good reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dishonorableness by virtue of lacking respectability or a good reputation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disreputability designates dishonorableness by virtue of lacking respectability or a good reputation."*

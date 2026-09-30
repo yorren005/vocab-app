@@ -5,13 +5,6 @@ status: unread
 ---
 # micrograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic reproduction of the image of an object formed by a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A micrograph made with an electron microscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Of GREAT VALUE to those engaged in the iron industry.”—_Mining Journal._ Frontispiece in Colours, and Beautiful Series of Photo-micrographs. 12s. 6d. net. =ALLOYS and their Industrial Applications.= BY EDWARD F."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic reproduction of the image of an object formed by a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A micrograph made with an electron microscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Of GREAT VALUE to those engaged in the iron industry.”—_Mining Journal._ Frontispiece in Colours, and Beautiful Series of Photo-micrographs. 12s. 6d. net. =ALLOYS and their Industrial Applications.= BY EDWARD F."*

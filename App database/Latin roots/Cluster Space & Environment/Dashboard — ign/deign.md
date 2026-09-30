@@ -5,15 +5,6 @@ status: unread
 ---
 # deign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do something that one considers to be below one's dignity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy palate then did deign The roughest berry on the rudest hedge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since thou dost deign to woo her little worth To be the princely bride of such a lord, Upon condition I may quietly Enjoy mine own, the country Maine and Anjou, Free from oppression or the stroke of war, My daughter shall be Henry’s, if he please."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, fear not, man, but yield me up the keys; [_Takes his keys._] For Edward will defend the town and thee And all those friends that deign to follow me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do something that one considers to be below one's dignity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy palate then did deign The roughest berry on the rudest hedge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since thou dost deign to woo her little worth To be the princely bride of such a lord, Upon condition I may quietly Enjoy mine own, the country Maine and Anjou, Free from oppression or the stroke of war, My daughter shall be Henry’s, if he please."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, fear not, man, but yield me up the keys; [_Takes his keys._] For Edward will defend the town and thee And all those friends that deign to follow me."*

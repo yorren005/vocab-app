@@ -5,13 +5,6 @@ status: unread
 ---
 # conocarpus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monotypic genus of tropical american trees: button tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monotypic genus of tropical american trees: button tree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conocarpus designates monotypic genus of tropical american trees: button tree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Monotypic genus of tropical american trees: button tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monotypic genus of tropical american trees: button tree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conocarpus designates monotypic genus of tropical american trees: button tree."*

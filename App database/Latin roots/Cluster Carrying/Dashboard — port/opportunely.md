@@ -5,15 +5,6 @@ status: unread
 ---
 # opportunely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an opportune time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an opportune time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet and young Woolwich opportunely come home."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond, in his good ship, far out on the ocean, was wearying for news from home, when his pressing want was most opportunely supplied by a passing vessel."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A few ships of the line, sent opportunely to the reinforcement of either side, would often be sufficient to decide the fate of a campaign, on the event of which interests of the greatest magnitude were suspended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an opportune time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an opportune time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet and young Woolwich opportunely come home."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond, in his good ship, far out on the ocean, was wearying for news from home, when his pressing want was most opportunely supplied by a passing vessel."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A few ships of the line, sent opportunely to the reinforcement of either side, would often be sufficient to decide the fate of a campaign, on the event of which interests of the greatest magnitude were suspended."*

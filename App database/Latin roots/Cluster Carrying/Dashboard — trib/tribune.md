@@ -5,15 +5,6 @@ status: unread
 ---
 # tribune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ancient rome) an official elected by the plebeians to protect their interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apse of a christian church that contains the bishop's throne.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By yond clouds, Let me deserve so ill as you, and make me Your fellow tribune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will pass To where you are bound, you must inquire your way, Which you are out of, with a gentler spirit, Or never be so noble as a consul, Nor yoke with him for tribune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plebeians have got your fellow tribune And hale him up and down, all swearing if The Roman ladies bring not comfort home, They’ll give him death by inches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ancient rome) an official elected by the plebeians to protect their interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apse of a christian church that contains the bishop's throne.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By yond clouds, Let me deserve so ill as you, and make me Your fellow tribune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will pass To where you are bound, you must inquire your way, Which you are out of, with a gentler spirit, Or never be so noble as a consul, Nor yoke with him for tribune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plebeians have got your fellow tribune And hale him up and down, all swearing if The Roman ladies bring not comfort home, They’ll give him death by inches."*

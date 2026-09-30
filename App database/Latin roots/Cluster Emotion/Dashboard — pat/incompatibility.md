@@ -5,15 +5,6 @@ status: unread
 ---
 # incompatibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between propositions that cannot both be true at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (immunology) the degree to which the body's immune system will try to reject foreign material (as transfused blood or transplanted tissue).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What I suffered from, was the incompatibility between his cold presence and my feelings towards Estella."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the British climate there is no incompatibility between scientific insight and furnished lodgings: the incompatibility is chiefly between scientific ambition and a wife who objects to that kind of residence."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And so for history, the insoluble mystery presented by the incompatibility of free will and inevitability does not exist as it does for theology, ethics, and philosophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between propositions that cannot both be true at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (immunology) the degree to which the body's immune system will try to reject foreign material (as transfused blood or transplanted tissue).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"What I suffered from, was the incompatibility between his cold presence and my feelings towards Estella."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the British climate there is no incompatibility between scientific insight and furnished lodgings: the incompatibility is chiefly between scientific ambition and a wife who objects to that kind of residence."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And so for history, the insoluble mystery presented by the incompatibility of free will and inevitability does not exist as it does for theology, ethics, and philosophy."*

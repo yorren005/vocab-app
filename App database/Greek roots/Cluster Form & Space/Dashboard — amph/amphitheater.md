@@ -5,15 +5,6 @@ status: unread
 ---
 # amphitheater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sloping gallery with seats for spectators (as in an operating room or theater).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oval large stadium with tiers of seats; an arena in which contests and spectacles are held.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"On reaching the lower end of the lane they found themselves near the shore of the Sound, in a kind of amphitheater surrounded by forest trees."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The great wooded amphitheater rising like a wave and little Notre Dame de la Garde peeking like a sentry out to sea."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The sun shone somewhat to the left and behind him and brightly lit up the enormous panorama which, rising like an amphitheater, extended before him in the clear rarefied atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sloping gallery with seats for spectators (as in an operating room or theater).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oval large stadium with tiers of seats; an arena in which contests and spectacles are held.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"On reaching the lower end of the lane they found themselves near the shore of the Sound, in a kind of amphitheater surrounded by forest trees."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The great wooded amphitheater rising like a wave and little Notre Dame de la Garde peeking like a sentry out to sea."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The sun shone somewhat to the left and behind him and brightly lit up the enormous panorama which, rising like an amphitheater, extended before him in the clear rarefied atmosphere."*

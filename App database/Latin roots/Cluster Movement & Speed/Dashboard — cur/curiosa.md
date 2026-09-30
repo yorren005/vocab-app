@@ -5,13 +5,6 @@ status: unread
 ---
 # curiosa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Books on strange or unusual subjects (especially erotica).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Books on strange or unusual subjects (especially erotica).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"With a fa, la, la, la, la.” --_Campbell’s British Poets_, p. 316. [216] Peck’s Curiosa. [217] Ibid. [218] Opus citatum in Pict."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Books on strange or unusual subjects (especially erotica).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Books on strange or unusual subjects (especially erotica).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"With a fa, la, la, la, la.” --_Campbell’s British Poets_, p. 316. [216] Peck’s Curiosa. [217] Ibid. [218] Opus citatum in Pict."*

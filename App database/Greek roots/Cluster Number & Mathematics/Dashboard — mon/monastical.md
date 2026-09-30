@@ -5,13 +5,6 @@ status: unread
 ---
 # monastical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of communal life sequestered from the world under religious vows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of communal life sequestered from the world under religious vows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monastical designates of communal life sequestered from the world under religious vows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of communal life sequestered from the world under religious vows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of communal life sequestered from the world under religious vows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monastical designates of communal life sequestered from the world under religious vows."*

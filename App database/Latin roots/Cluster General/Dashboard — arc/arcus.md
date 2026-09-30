@@ -5,13 +5,6 @@ status: unread
 ---
 # arcus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A whitish deposit in the shape of an arc that is sometimes seen in the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A whitish deposit in the shape of an arc that is sometimes seen in the cornea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcus designates a whitish deposit in the shape of an arc that is sometimes seen in the cornea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whitish deposit in the shape of an arc that is sometimes seen in the cornea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A whitish deposit in the shape of an arc that is sometimes seen in the cornea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcus designates a whitish deposit in the shape of an arc that is sometimes seen in the cornea."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stereospondyli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereospondyli designates formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereospondyli designates formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece."*

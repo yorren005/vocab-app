@@ -5,13 +5,6 @@ status: unread
 ---
 # telephotography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmission and reproduction of photographs and charts and pictures over a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photography using a telephoto lens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephotography designates transmission and reproduction of photographs and charts and pictures over a distance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmission and reproduction of photographs and charts and pictures over a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photography using a telephoto lens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephotography designates transmission and reproduction of photographs and charts and pictures over a distance."*

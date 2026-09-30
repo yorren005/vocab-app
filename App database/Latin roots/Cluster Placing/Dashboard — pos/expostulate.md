@@ -5,15 +5,6 @@ status: unread
 ---
 # expostulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason with (somebody) for the purpose of dissuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason with (somebody) for the purpose of dissuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege and madam, to expostulate What majesty should be, what duty is, Why day is day, night night, and time is time Were nothing but to waste night, day and time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, stay not to expostulate; make speed, Or else come after; I’ll away before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not expostulate with her, lest her body and beauty unprovide my mind again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason with (somebody) for the purpose of dissuasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason with (somebody) for the purpose of dissuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege and madam, to expostulate What majesty should be, what duty is, Why day is day, night night, and time is time Were nothing but to waste night, day and time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, stay not to expostulate; make speed, Or else come after; I’ll away before."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not expostulate with her, lest her body and beauty unprovide my mind again."*

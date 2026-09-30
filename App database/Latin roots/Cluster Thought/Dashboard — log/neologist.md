@@ -5,13 +5,6 @@ status: unread
 ---
 # neologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lexicographer of new words and expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lexicographer of new words and expressions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neologist designates a lexicographer of new words and expressions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lexicographer of new words and expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lexicographer of new words and expressions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neologist designates a lexicographer of new words and expressions."*

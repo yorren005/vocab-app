@@ -5,13 +5,6 @@ status: unread
 ---
 # basidiolichen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lichen in which the fungus component is a basidiomycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lichen in which the fungus component is a basidiomycete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiolichen designates a lichen in which the fungus component is a basidiomycete."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lichen in which the fungus component is a basidiomycete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lichen in which the fungus component is a basidiomycete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiolichen designates a lichen in which the fungus component is a basidiomycete."*

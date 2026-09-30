@@ -5,13 +5,6 @@ status: unread
 ---
 # quadrantanopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness in one fourth of the visual field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blindness in one fourth of the visual field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrantanopia designates blindness in one fourth of the visual field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness in one fourth of the visual field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blindness in one fourth of the visual field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrantanopia designates blindness in one fourth of the visual field."*

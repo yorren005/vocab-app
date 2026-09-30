@@ -5,20 +5,6 @@ status: unread
 ---
 # bode
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Omen; a foreshadowing
-> 2. **Nuance / Usage**: Announce beforehand : foretell
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bode the target*) and intransitive clauses (*boding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This was my dream; what it doth bode, God knows."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"raven; I would bode, I would bode."*
-> - 📜 **Elizabeth Birkmaier (*Poseidon’s Paradise: The Romance of Atlantis*):** *"It bodeth evil for Atlantis that I come back with my spirit sore to find Oltis stepping into the place of high priest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Omen; a foreshadowing
+> 2. **Nuance / Usage**: Announce beforehand : foretell
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bode the target*) and intransitive clauses (*boding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This was my dream; what it doth bode, God knows."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"raven; I would bode, I would bode."*
+> - 📜 **Elizabeth Birkmaier (*Poseidon’s Paradise: The Romance of Atlantis*):** *"It bodeth evil for Atlantis that I come back with my spirit sore to find Oltis stepping into the place of high priest."*

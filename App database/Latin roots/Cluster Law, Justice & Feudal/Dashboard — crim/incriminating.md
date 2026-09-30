@@ -5,13 +5,6 @@ status: unread
 ---
 # incriminating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggest that someone is guilty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring an accusation against; level a charge against.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson’s reports are most incriminating documents.” “But how about the case?” asked the baronet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggest that someone is guilty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring an accusation against; level a charge against.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson’s reports are most incriminating documents.” “But how about the case?” asked the baronet."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # strung-out
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addicted to a drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Addicted to a drug.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strung-out designates addicted to a drug."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Addicted to a drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Addicted to a drug.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strung-out designates addicted to a drug."*

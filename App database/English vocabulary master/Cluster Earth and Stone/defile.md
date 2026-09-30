@@ -5,20 +5,6 @@ status: unread
 ---
 # defile
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make unclean or impure: such as
-> 2. **Nuance / Usage**: Corrupt the purity or perfection of : debase
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to defile the target*) and intransitive clauses (*defiling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Perkins Gilman (*The Journey*):** *"That's only dirt—it will brush off.” But he looked at me with his haggard hopeless eyes and said— “It is mud. Black, slimy, horrible mud. I am defiled."*
-> - 📜 **Joseph Caryl (*The Nature and Principles of Love, as the End of the Commandment.{{nb...*):** *"[Y]ou vvill find if you do not daily ſvveep you houſes, they vvill defile; and the cob-vvebs they vvill grovv; the Spiders vvill be at vvork; and though your hearts be never ſo pure, Spiders vvill creep into them, {{..."*
-> - 📜 **Cormac McCarthy (*Suttree*):** *"They [pigs] defiled down a gully to the water and bunched and jerked their noses at it and came back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Make unclean or impure: such as
+> 2. **Nuance / Usage**: Corrupt the purity or perfection of : debase
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to defile the target*) and intransitive clauses (*defiling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Perkins Gilman (*The Journey*):** *"That's only dirt—it will brush off.” But he looked at me with his haggard hopeless eyes and said— “It is mud. Black, slimy, horrible mud. I am defiled."*
+> - 📜 **Joseph Caryl (*The Nature and Principles of Love, as the End of the Commandment.{{nb...*):** *"[Y]ou vvill find if you do not daily ſvveep you houſes, they vvill defile; and the cob-vvebs they vvill grovv; the Spiders vvill be at vvork; and though your hearts be never ſo pure, Spiders vvill creep into them, {{..."*
+> - 📜 **Cormac McCarthy (*Suttree*):** *"They [pigs] defiled down a gully to the water and bunched and jerked their noses at it and came back."*

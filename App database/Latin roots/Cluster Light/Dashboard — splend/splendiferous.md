@@ -5,13 +5,6 @@ status: unread
 ---
 # splendiferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great beauty and splendor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Will immensely splendiferous stander permit one stooder of most extreme poverty and one largesize grandacious thirst to terminate one expensive inaugurated libation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great beauty and splendor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Will immensely splendiferous stander permit one stooder of most extreme poverty and one largesize grandacious thirst to terminate one expensive inaugurated libation?"*

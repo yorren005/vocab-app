@@ -5,15 +5,6 @@ status: unread
 ---
 # dexterously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With dexterity; in a dexterous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With dexterity; in a dexterous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The man from Shropshire ventures another remonstrative “My lord!” but the Chancellor, being aware of him, has dexterously vanished."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Springing down into Boldwood’s pastures, each pocketed his halter to hide it from the horses, who, seeing the men empty-handed, docilely allowed themselves to be seized by the mane, when the halters were dexterously slipped on."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"However, what is must be, and here’s half-a-crown to drink my health, men.” Troy threw the coin dexterously across the front plot and over the fence towards Gabriel, who shunned it in its fall, his face turning to an angry red."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With dexterity; in a dexterous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With dexterity; in a dexterous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The man from Shropshire ventures another remonstrative “My lord!” but the Chancellor, being aware of him, has dexterously vanished."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Springing down into Boldwood’s pastures, each pocketed his halter to hide it from the horses, who, seeing the men empty-handed, docilely allowed themselves to be seized by the mane, when the halters were dexterously slipped on."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"However, what is must be, and here’s half-a-crown to drink my health, men.” Troy threw the coin dexterously across the front plot and over the fence towards Gabriel, who shunned it in its fall, his face turning to an angry red."*

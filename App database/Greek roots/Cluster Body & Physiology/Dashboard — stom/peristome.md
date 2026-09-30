@@ -5,14 +5,6 @@ status: unread
 ---
 # peristome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) fringe of toothlike appendages surrounding the mouth of a moss capsule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region around the mouth in various invertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The teeth thus formed resemble those of the peristome of some mosses."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the teeth of _Æcidium_ resemble the peristome of some mosses, such as _Splachnum_; the threads of this species of _Rœstelia_, except in not being twisted, somewhat resemble the peristomes of other mosses of the genus _Tortula_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) fringe of toothlike appendages surrounding the mouth of a moss capsule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region around the mouth in various invertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The teeth thus formed resemble those of the peristome of some mosses."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the teeth of _Æcidium_ resemble the peristome of some mosses, such as _Splachnum_; the threads of this species of _Rœstelia_, except in not being twisted, somewhat resemble the peristomes of other mosses of the genus _Tortula_."*

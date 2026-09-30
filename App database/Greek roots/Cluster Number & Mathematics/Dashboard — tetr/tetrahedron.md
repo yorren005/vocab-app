@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrahedron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron that has four faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron that has four faces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahedron designates a polyhedron that has four faces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron that has four faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron that has four faces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahedron designates a polyhedron that has four faces."*

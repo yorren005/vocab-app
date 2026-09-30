@@ -5,13 +5,6 @@ status: unread
 ---
 # uninflected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the voice) not inflected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inflected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He often exercises a liberty in the collocation of his words which is beyond what an uninflected language like the English admits of, without more or less obscurity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the voice) not inflected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inflected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He often exercises a liberty in the collocation of his words which is beyond what an uninflected language like the English admits of, without more or less obscurity."*

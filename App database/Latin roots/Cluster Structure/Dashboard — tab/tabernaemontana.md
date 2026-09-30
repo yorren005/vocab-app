@@ -5,13 +5,6 @@ status: unread
 ---
 # tabernaemontana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tropical trees and shrubs with milky sap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen tropical trees and shrubs with milky sap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabernaemontana designates evergreen tropical trees and shrubs with milky sap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tropical trees and shrubs with milky sap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen tropical trees and shrubs with milky sap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabernaemontana designates evergreen tropical trees and shrubs with milky sap."*

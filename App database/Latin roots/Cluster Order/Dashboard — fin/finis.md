@@ -5,15 +5,6 @@ status: unread
 ---
 # finis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporal end; the concluding time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The concluding part of any performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"A-D _add_] Finis Actus primi. l. 33. 2nd Folio _misprints_] Seundus. p. 12, l. 1."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"C] live. p. 59, A, B and D _add_] Finis."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was the devious-cruising Rachel, that in her retracing search after her missing children, only found another orphan._ FINIS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporal end; the concluding time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The concluding part of any performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"A-D _add_] Finis Actus primi. l. 33. 2nd Folio _misprints_] Seundus. p. 12, l. 1."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"C] live. p. 59, A, B and D _add_] Finis."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was the devious-cruising Rachel, that in her retracing search after her missing children, only found another orphan._ FINIS."*

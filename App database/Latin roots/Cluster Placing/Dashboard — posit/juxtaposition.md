@@ -5,15 +5,6 @@ status: unread
 ---
 # juxtaposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of positioning close together (or side by side).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A side-by-side position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel was almost blinded, and he could feel Bathsheba’s warm arm tremble in his hand—a sensation novel and thrilling enough; but love, life, everything human, seemed small and trifling in such close juxtaposition with an infuriated universe."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From this day she forced herself to take pains to avoid him—never allowing herself, as formerly, to remain long in his company, even if their juxtaposition were purely accidental."*
-> - 📜 **Effie Afton (*Eventide*):** *"Prominent among the list of performers stood the name of Edgar Lindenwood, often in juxtaposition with that of Florence Howard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of positioning close together (or side by side).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A side-by-side position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel was almost blinded, and he could feel Bathsheba’s warm arm tremble in his hand—a sensation novel and thrilling enough; but love, life, everything human, seemed small and trifling in such close juxtaposition with an infuriated universe."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From this day she forced herself to take pains to avoid him—never allowing herself, as formerly, to remain long in his company, even if their juxtaposition were purely accidental."*
+> - 📜 **Effie Afton (*Eventide*):** *"Prominent among the list of performers stood the name of Edgar Lindenwood, often in juxtaposition with that of Florence Howard."*

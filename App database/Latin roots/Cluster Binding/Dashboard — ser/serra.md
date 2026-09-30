@@ -5,13 +5,6 @@ status: unread
 ---
 # serra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish missionary who founded franciscan missions in california (1713-1784).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish missionary who founded franciscan missions in california (1713-1784).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serra designates spanish missionary who founded franciscan missions in california (1713-1784)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish missionary who founded franciscan missions in california (1713-1784).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish missionary who founded franciscan missions in california (1713-1784).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serra designates spanish missionary who founded franciscan missions in california (1713-1784)."*

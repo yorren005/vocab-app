@@ -5,13 +5,6 @@ status: unread
 ---
 # nonproliferation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproliferation designates the prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproliferation designates the prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # flaming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combustion of inflammable materials producing heat and light and (often) smoke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shine with a sudden light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then senseless Ilium, Seeming to feel this blow, with flaming top Stoops to his base, and with a hideous crash Takes prisoner Pyrrhus’ ear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"York not our old men spares; No more will I their babes; tears virginal Shall be to me even as the dew to fire, And beauty, that the tyrant oft reclaims, Shall to my flaming wrath be oil and flax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combustion of inflammable materials producing heat and light and (often) smoke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shine with a sudden light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then senseless Ilium, Seeming to feel this blow, with flaming top Stoops to his base, and with a hideous crash Takes prisoner Pyrrhus’ ear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"York not our old men spares; No more will I their babes; tears virginal Shall be to me even as the dew to fire, And beauty, that the tyrant oft reclaims, Shall to my flaming wrath be oil and flax."*

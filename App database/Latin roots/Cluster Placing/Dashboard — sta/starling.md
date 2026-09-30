@@ -5,15 +5,6 @@ status: unread
 ---
 # starling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gregarious birds native to the old world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gregarious birds native to the old world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I get out by somebody’s means; I am not like the starling; I get out."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"But unluckily that iron gate, that ha-ha, give me a feeling of restraint and hardship. ‘I cannot get out,’ as the starling said.” As she spoke, and it was with expression, she walked to the gate: he followed her."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"He: Call me your spaniel, your starling, take me and treat me as these, I would be anything, darling! aye, whatsoever you please."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gregarious birds native to the old world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gregarious birds native to the old world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I get out by somebody’s means; I am not like the starling; I get out."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"But unluckily that iron gate, that ha-ha, give me a feeling of restraint and hardship. ‘I cannot get out,’ as the starling said.” As she spoke, and it was with expression, she walked to the gate: he followed her."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"He: Call me your spaniel, your starling, take me and treat me as these, I would be anything, darling! aye, whatsoever you please."*

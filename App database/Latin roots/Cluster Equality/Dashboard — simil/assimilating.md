@@ -5,15 +5,6 @@ status: unread
 ---
 # assimilating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take up mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become similar to one's environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Middlemarch, in fact, counted on swallowing Lydgate and assimilating him very comfortably."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The changes of time, as was formerly remarked, on the comparative situation of the different States, will have an assimilating effect."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mass would be likely to remain nearly the same, assimilating constantly to itself its gradual accretions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take up mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become similar to one's environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Middlemarch, in fact, counted on swallowing Lydgate and assimilating him very comfortably."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The changes of time, as was formerly remarked, on the comparative situation of the different States, will have an assimilating effect."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mass would be likely to remain nearly the same, assimilating constantly to itself its gradual accretions."*

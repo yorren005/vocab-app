@@ -5,15 +5,6 @@ status: unread
 ---
 # medieval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to the middle ages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if belonging to the middle ages; old-fashioned and unenlightened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Altho the movement for the repeal of medieval laws has continued in Europe from 1776 till the present time, yet custom still is stronger to-day in Europe than in America."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 143, on medieval land tenures; p. 158, on customary rents; p. 190, on the effect of caste.] [Footnote 9: See Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In every petty medieval state or self-governing city, the aim was to make the economic boundaries coincide as nearly as possible with the political boundaries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to the middle ages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if belonging to the middle ages; old-fashioned and unenlightened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Altho the movement for the repeal of medieval laws has continued in Europe from 1776 till the present time, yet custom still is stronger to-day in Europe than in America."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 143, on medieval land tenures; p. 158, on customary rents; p. 190, on the effect of caste.] [Footnote 9: See Vol."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In every petty medieval state or self-governing city, the aim was to make the economic boundaries coincide as nearly as possible with the political boundaries."*

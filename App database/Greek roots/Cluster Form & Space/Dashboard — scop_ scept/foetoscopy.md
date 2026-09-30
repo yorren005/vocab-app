@@ -5,13 +5,6 @@ status: unread
 ---
 # foetoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foetoscopy designates prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foetoscopy designates prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood."*

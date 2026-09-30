@@ -5,15 +5,6 @@ status: unread
 ---
 # denominator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The divisor of a fraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divisor of a fraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I 540:6 the Lord do all these things;" but the prophet referred to divine law as stirring up the belief in evil to its utmost, when bringing it to the surface and re- 540:9 ducing it to its common denominator, nothingness."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Some consider this service as a common denominator to be the primary and most important function of money."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is, however, only apparently a denominator of value; the shilling represents five fourths of ten cents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The divisor of a fraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divisor of a fraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I 540:6 the Lord do all these things;" but the prophet referred to divine law as stirring up the belief in evil to its utmost, when bringing it to the surface and re- 540:9 ducing it to its common denominator, nothingness."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Some consider this service as a common denominator to be the primary and most important function of money."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is, however, only apparently a denominator of value; the shilling represents five fourths of ten cents."*

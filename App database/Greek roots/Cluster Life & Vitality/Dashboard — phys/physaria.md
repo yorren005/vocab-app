@@ -5,13 +5,6 @@ status: unread
 ---
 # physaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of western north american herbs similar to lesquerella: bladderpods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of western north american herbs similar to lesquerella: bladderpods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physaria designates small genus of western north american herbs similar to lesquerella: bladderpods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of western north american herbs similar to lesquerella: bladderpods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of western north american herbs similar to lesquerella: bladderpods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physaria designates small genus of western north american herbs similar to lesquerella: bladderpods."*

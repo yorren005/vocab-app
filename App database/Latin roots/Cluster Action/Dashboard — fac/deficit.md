@@ -5,15 +5,6 @@ status: unread
 ---
 # deficit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being an amount by which something is less than expected or required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency or failure in neurological or mental functioning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But that present of bank-notes, once made, was measurable, and being applied to the amount of the debt, showed a deficit which had still to be filled up either by Fred’s “judgment” or by luck in some other shape."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Meeting deficit budget must have precedence over purchase of land near Hazírá owing to critical situation in Latin America and vital needs in Europe."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"When he arrived in the East, piracy and brigandage were rife, there was an annual deficit of some three million francs, and the feeble administration had done nothing to develop the possibilities of the country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being an amount by which something is less than expected or required.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency or failure in neurological or mental functioning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But that present of bank-notes, once made, was measurable, and being applied to the amount of the debt, showed a deficit which had still to be filled up either by Fred’s “judgment” or by luck in some other shape."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Meeting deficit budget must have precedence over purchase of land near Hazírá owing to critical situation in Latin America and vital needs in Europe."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"When he arrived in the East, piracy and brigandage were rife, there was an annual deficit of some three million francs, and the feeble administration had done nothing to develop the possibilities of the country."*

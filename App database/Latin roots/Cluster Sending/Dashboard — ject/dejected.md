@@ -5,15 +5,6 @@ status: unread
 ---
 # dejected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected or marked by low spirits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony Is valiant and dejected, and by starts His fretted fortunes give him hope and fear Of what he has and has not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be worst, The lowest and most dejected thing of fortune, Stands still in esperance, lives not in fear: The lamentable change is from the best; The worst returns to laughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will presently to Saint Luke’s; there at the moated grange resides this dejected Mariana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected or marked by low spirits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony Is valiant and dejected, and by starts His fretted fortunes give him hope and fear Of what he has and has not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be worst, The lowest and most dejected thing of fortune, Stands still in esperance, lives not in fear: The lamentable change is from the best; The worst returns to laughter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will presently to Saint Luke’s; there at the moated grange resides this dejected Mariana."*

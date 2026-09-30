@@ -5,15 +5,6 @@ status: unread
 ---
 # starch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial preparation of starch that is used to stiffen textile fabrics in laundering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Sir James might not have originated this estimate; but a kind Providence furnishes the limpest personality with a little gum or starch in the form of tradition."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I knew it would, when Sallie stopped to put the starch on her face all over again."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I set fire to my linen (which, by the bye, I have taken care to wash carefully so that there should be no dirt nor starch left in it), and while it is burning shut it down in my tinder-box."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial preparation of starch that is used to stiffen textile fabrics in laundering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Sir James might not have originated this estimate; but a kind Providence furnishes the limpest personality with a little gum or starch in the form of tradition."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I knew it would, when Sallie stopped to put the starch on her face all over again."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I set fire to my linen (which, by the bye, I have taken care to wash carefully so that there should be no dirt nor starch left in it), and while it is burning shut it down in my tinder-box."*

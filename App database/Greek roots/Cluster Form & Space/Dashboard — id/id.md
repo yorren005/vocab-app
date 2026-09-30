@@ -5,15 +5,6 @@ status: unread
 ---
 # id
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The one of the three divisions of the psyche in psychoanalytic theory that is completely unconscious and is the source of psychic energy derived from instinctual needs and drives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the three divisions of the psyche in psychoanalytic theory that is completely unconscious and is the source of psychic energy derived from instinctual needs and drives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The IDS is designed to link base helping agencies to address risk factors, reduce stress and improve the coping skills and general well- being of individuals and families in the Air Force community."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A soothsayer bids you beware the Ides of March."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not tomorrow, boy, the Ides of March?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The one of the three divisions of the psyche in psychoanalytic theory that is completely unconscious and is the source of psychic energy derived from instinctual needs and drives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the three divisions of the psyche in psychoanalytic theory that is completely unconscious and is the source of psychic energy derived from instinctual needs and drives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The IDS is designed to link base helping agencies to address risk factors, reduce stress and improve the coping skills and general well- being of individuals and families in the Air Force community."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A soothsayer bids you beware the Ides of March."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not tomorrow, boy, the Ides of March?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rudra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Father of the hindu storm gods marut; controller of nature; sometimes identified with siva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Father of the hindu storm gods marut; controller of nature; sometimes identified with siva.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rudra designates father of the hindu storm gods marut; controller of nature; sometimes identified with siva."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Father of the hindu storm gods marut; controller of nature; sometimes identified with siva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Father of the hindu storm gods marut; controller of nature; sometimes identified with siva.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rudra designates father of the hindu storm gods marut; controller of nature; sometimes identified with siva."*

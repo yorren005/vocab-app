@@ -5,13 +5,6 @@ status: unread
 ---
 # hologram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hologram designates a three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hologram designates a three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # portend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicate by signs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These late eclipses in the sun and moon portend no good to us: though the wisdom of Nature can reason it thus and thus, yet nature finds itself scourged by the sequent effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pat! he comes, like the catastrophe of the old comedy: my cue is villainous melancholy, with a sigh like Tom o’Bedlam.—O, these eclipses do portend these divisions!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the end—what should that alphabetical position portend?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicate by signs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These late eclipses in the sun and moon portend no good to us: though the wisdom of Nature can reason it thus and thus, yet nature finds itself scourged by the sequent effects."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pat! he comes, like the catastrophe of the old comedy: my cue is villainous melancholy, with a sigh like Tom o’Bedlam.—O, these eclipses do portend these divisions!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the end—what should that alphabetical position portend?"*

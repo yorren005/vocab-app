@@ -5,13 +5,6 @@ status: unread
 ---
 # petrifaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rock created by petrifaction; an organic object infiltrated with mineral matter and preserved in its original form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Shall Man, such step within his endeavor, Man’s face, have no more play and action Than joy which is crystallized forever, Or grief, an eternal petrifaction? -- St. 18. life’s minute: life’s short span. 19."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rock created by petrifaction; an organic object infiltrated with mineral matter and preserved in its original form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Shall Man, such step within his endeavor, Man’s face, have no more play and action Than joy which is crystallized forever, Or grief, an eternal petrifaction? -- St. 18. life’s minute: life’s short span. 19."*

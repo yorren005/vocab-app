@@ -5,14 +5,6 @@ status: unread
 ---
 # sequential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regular succession without gaps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"One way and another, it has begotten events so remarkable in themselves, and so continuously momentous in their sequential issues, that whaling may well be regarded as that Egyptian mother, who bore offspring themselves pregnant from her womb."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"One way and another, it has begotten events so remarkable in themselves, and so continuously momentous in their sequential issues, that whaling may well be regarded as that Egyptian mother, who bore offspring themselves pregnant from her womb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regular succession without gaps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"One way and another, it has begotten events so remarkable in themselves, and so continuously momentous in their sequential issues, that whaling may well be regarded as that Egyptian mother, who bore offspring themselves pregnant from her womb."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"One way and another, it has begotten events so remarkable in themselves, and so continuously momentous in their sequential issues, that whaling may well be regarded as that Egyptian mother, who bore offspring themselves pregnant from her womb."*

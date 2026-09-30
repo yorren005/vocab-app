@@ -5,13 +5,6 @@ status: unread
 ---
 # anadenanthera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 2 species of tropical american shrubs or trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 2 species of tropical american shrubs or trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anadenanthera designates 2 species of tropical american shrubs or trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 2 species of tropical american shrubs or trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 2 species of tropical american shrubs or trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anadenanthera designates 2 species of tropical american shrubs or trees."*

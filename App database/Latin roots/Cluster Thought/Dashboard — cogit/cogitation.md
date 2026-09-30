@@ -5,15 +5,6 @@ status: unread
 ---
 # cogitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carefully considered thought about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attentive consideration and meditation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The woman,” said he, after deep cogitation."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Well,” said Joe, with the same appearance of profound cogitation, “he is not—no, not to deceive you, he is _not_—my nevvy.” “What the Blue Blazes is he?” asked the stranger."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"After much cogitation I determined to close the flat, and take a small suite of rooms at an hotel for the next week."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carefully considered thought about something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attentive consideration and meditation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The woman,” said he, after deep cogitation."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Well,” said Joe, with the same appearance of profound cogitation, “he is not—no, not to deceive you, he is _not_—my nevvy.” “What the Blue Blazes is he?” asked the stranger."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"After much cogitation I determined to close the flat, and take a small suite of rooms at an hotel for the next week."*

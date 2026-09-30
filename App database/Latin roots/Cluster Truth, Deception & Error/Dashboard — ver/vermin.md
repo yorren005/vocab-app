@@ -5,15 +5,6 @@ status: unread
 ---
 # vermin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritating or obnoxious person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small animals or insects that are pests; e.g. cockroaches or rats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How to prevent the fiend and to kill vermin."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To the mainland we were taken and thrown into a stinking, vermin-infested prison."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The vermin there in the corner—clear it out,” he commanded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritating or obnoxious person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small animals or insects that are pests; e.g. cockroaches or rats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How to prevent the fiend and to kill vermin."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To the mainland we were taken and thrown into a stinking, vermin-infested prison."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The vermin there in the corner—clear it out,” he commanded."*

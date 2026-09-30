@@ -5,13 +5,6 @@ status: unread
 ---
 # cedi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in ghana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in ghana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedi designates the basic unit of money in ghana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in ghana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in ghana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedi designates the basic unit of money in ghana."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # proportionality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ratio of two quantities that is constant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmonious arrangement or relation of parts or elements within a whole (as in a design); - john ruskin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, chs. 12 and 13 on proportionality and usance.] [Footnote 2: See ch. 25, secs. 4 and 5.] [Footnote 3: See above, ch. 19, secs. 13, 14, 15.] [Footnote 4: See above, sec. 3.] [Footnote 5: See ch. 8, sec. 8.] [Footnote 6: See Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ratio of two quantities that is constant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmonious arrangement or relation of parts or elements within a whole (as in a design); - john ruskin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, chs. 12 and 13 on proportionality and usance.] [Footnote 2: See ch. 25, secs. 4 and 5.] [Footnote 3: See above, ch. 19, secs. 13, 14, 15.] [Footnote 4: See above, sec. 3.] [Footnote 5: See ch. 8, sec. 8.] [Footnote 6: See Vol."*

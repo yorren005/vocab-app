@@ -5,13 +5,6 @@ status: unread
 ---
 # micronase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronase designates an oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronase designates an oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas."*

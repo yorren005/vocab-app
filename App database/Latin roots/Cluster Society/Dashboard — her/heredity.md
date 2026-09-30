@@ -5,15 +5,6 @@ status: unread
 ---
 # heredity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process whereby genetic factors are transmitted from one generation to the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total of inherited attributes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was a woman and I was a man and a lover, and all the heredity of love was mine up from the black and squalling jungle ere love was love and man was man."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The world often exclaims over the failure of the sons of noted men to achieve great things, for, despite confusing evidence, men still have faith in biologic heredity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is a widespread feeling that the heredity of great wealth is, like the heredity of political power, out of harmony with the democratic spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process whereby genetic factors are transmitted from one generation to the next.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total of inherited attributes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was a woman and I was a man and a lover, and all the heredity of love was mine up from the black and squalling jungle ere love was love and man was man."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The world often exclaims over the failure of the sons of noted men to achieve great things, for, despite confusing evidence, men still have faith in biologic heredity."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is a widespread feeling that the heredity of great wealth is, like the heredity of political power, out of harmony with the democratic spirit."*

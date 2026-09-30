@@ -5,15 +5,6 @@ status: unread
 ---
 # dorsal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or on or near the back or upper surface of an animal or organ or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing away from the axis of an organ or organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That evening he was within a feather-weight’s turn of abandoning his road to the nearest station, and driving across that elevated dorsal line of South Wessex which divided him from his Tess’s home."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He has a peculiar way of showing his dorsal hooked fin in swimming, which looks something like a Roman nose."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"He has a peculiar way of showing his dorsal hooked fin in swimming, which looks something like a Roman nose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or on or near the back or upper surface of an animal or organ or part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing away from the axis of an organ or organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That evening he was within a feather-weight’s turn of abandoning his road to the nearest station, and driving across that elevated dorsal line of South Wessex which divided him from his Tess’s home."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He has a peculiar way of showing his dorsal hooked fin in swimming, which looks something like a Roman nose."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"He has a peculiar way of showing his dorsal hooked fin in swimming, which looks something like a Roman nose."*

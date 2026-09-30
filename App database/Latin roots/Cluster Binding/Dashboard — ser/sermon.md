@@ -5,15 +5,6 @@ status: unread
 ---
 # sermon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An address of a religious nature (usually delivered during a church service).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moralistic rebuke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In her chamber, making a sermon of continency to her; And rails, and swears, and rates, that she, poor soul, Knows not which way to stand, to look, to speak, And sits as one new risen from a dream."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was while they were preparing to sing, before the sermon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet there is a Sermon on the Mount with a calendar of the blessed at the head, and certain meek men may be named therein.” “Cainy’s grandfather was a very clever man,” said Matthew Moon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An address of a religious nature (usually delivered during a church service).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moralistic rebuke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In her chamber, making a sermon of continency to her; And rails, and swears, and rates, that she, poor soul, Knows not which way to stand, to look, to speak, And sits as one new risen from a dream."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was while they were preparing to sing, before the sermon."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet there is a Sermon on the Mount with a calendar of the blessed at the head, and certain meek men may be named therein.” “Cainy’s grandfather was a very clever man,” said Matthew Moon."*

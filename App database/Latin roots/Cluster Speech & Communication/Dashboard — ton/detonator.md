@@ -5,15 +5,6 @@ status: unread
 ---
 # detonator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The former is comparatively harmless, but it acts as the trigger or detonator which lets loose the force pent up in the innocent-looking coal-dust."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At the bottom of each hole is placed a cartridge of dynamite with a fuse and a detonator."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"However it may be done, one or more cartridges of dynamite are lowered into the finished hole, one of them being fitted with the necessary detonator and fuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The former is comparatively harmless, but it acts as the trigger or detonator which lets loose the force pent up in the innocent-looking coal-dust."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At the bottom of each hole is placed a cartridge of dynamite with a fuse and a detonator."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"However it may be done, one or more cartridges of dynamite are lowered into the finished hole, one of them being fitted with the necessary detonator and fuse."*

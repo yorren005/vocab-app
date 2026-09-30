@@ -5,13 +5,6 @@ status: unread
 ---
 # demonetise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of value for payment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of value for payment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonetise designates deprive of value for payment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of value for payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of value for payment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonetise designates deprive of value for payment."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # spirant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuant consonant produced by breath moving against a narrowing of the vocal tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirant designates a continuant consonant produced by breath moving against a narrowing of the vocal tract."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuant consonant produced by breath moving against a narrowing of the vocal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirant designates a continuant consonant produced by breath moving against a narrowing of the vocal tract."*

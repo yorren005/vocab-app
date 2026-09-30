@@ -5,13 +5,6 @@ status: unread
 ---
 # prince-of-wales'-heath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african shrub grown for its profusion of white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african shrub grown for its profusion of white flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prince-of-wales'-heath designates south african shrub grown for its profusion of white flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: South african shrub grown for its profusion of white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african shrub grown for its profusion of white flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prince-of-wales'-heath designates south african shrub grown for its profusion of white flowers."*

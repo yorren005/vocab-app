@@ -5,13 +5,6 @@ status: unread
 ---
 # megalonychidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mammal family consisting of the two-toed sloths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mammal family consisting of the two-toed sloths.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalonychidae designates mammal family consisting of the two-toed sloths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mammal family consisting of the two-toed sloths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mammal family consisting of the two-toed sloths.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalonychidae designates mammal family consisting of the two-toed sloths."*

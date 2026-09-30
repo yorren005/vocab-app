@@ -5,14 +5,6 @@ status: unread
 ---
 # autocratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an autocracy : absolute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling an autocrat : despotic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then he became suspicious--and a trifle autocratic.” She recalled his look as he told her that he would trust her, but that he meant to keep an eye upon her."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The king of the Trobriands is as much a king to his subjects as the autocratic Czar is to the serfs of Russia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an autocracy : absolute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling an autocrat : despotic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then he became suspicious--and a trifle autocratic.” She recalled his look as he told her that he would trust her, but that he meant to keep an eye upon her."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The king of the Trobriands is as much a king to his subjects as the autocratic Czar is to the serfs of Russia."*

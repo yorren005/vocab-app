@@ -5,15 +5,6 @@ status: unread
 ---
 # echo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a sound caused by reflection of sound waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound due to such reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rumour doth double, like the voice and echo, The numbers of the feared."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch I say, and find the forester. [_Exit an Attendant._] We will, fair queen, up to the mountain’s top, And mark the musical confusion Of hounds and echo in conjunction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a sound caused by reflection of sound waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound due to such reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rumour doth double, like the voice and echo, The numbers of the feared."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch I say, and find the forester. [_Exit an Attendant._] We will, fair queen, up to the mountain’s top, And mark the musical confusion Of hounds and echo in conjunction."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nondenominational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to a particular religious denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not restricted to a particular religious denomination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondenominational designates not restricted to a particular religious denomination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not restricted to a particular religious denomination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not restricted to a particular religious denomination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondenominational designates not restricted to a particular religious denomination."*

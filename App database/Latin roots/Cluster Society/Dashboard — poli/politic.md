@@ -5,15 +5,6 @@ status: unread
 ---
 # politic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by artful prudence, expedience, and shrewdness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smoothly agreeable and courteous with a degree of sophistication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not politic in the commonwealth of nature to preserve virginity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As for you, interpreter, you must seem very politic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have trod a measure; I have flattered a lady; I have been politic with my friend, smooth with mine enemy; I have undone three tailors; I have had four quarrels, and like to have fought one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by artful prudence, expedience, and shrewdness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smoothly agreeable and courteous with a degree of sophistication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not politic in the commonwealth of nature to preserve virginity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As for you, interpreter, you must seem very politic."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have trod a measure; I have flattered a lady; I have been politic with my friend, smooth with mine enemy; I have undone three tailors; I have had four quarrels, and like to have fought one."*

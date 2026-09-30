@@ -5,15 +5,6 @@ status: unread
 ---
 # intensively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intensive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intensive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Investment has advanced both intensively and extensively in a series of great waves."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A good deal of our farm land is undoubtedly too intensively used now in view of present and prospective commodity prices and wages."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Using one thing more and more while uniting other things with it, is using it more intensively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intensive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intensive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Investment has advanced both intensively and extensively in a series of great waves."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A good deal of our farm land is undoubtedly too intensively used now in view of present and prospective commodity prices and wages."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Using one thing more and more while uniting other things with it, is using it more intensively."*

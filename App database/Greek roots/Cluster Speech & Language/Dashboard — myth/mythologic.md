@@ -5,13 +5,6 @@ status: unread
 ---
 # mythologic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The mythologic theory of mate- 531:30 rial life at no point resembles the scientifically Christian record of man as created by Mind in the image and like- ness of God and having dominion over all the earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The mythologic theory of mate- 531:30 rial life at no point resembles the scientifically Christian record of man as created by Mind in the image and like- ness of God and having dominion over all the earth."*

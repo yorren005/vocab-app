@@ -5,13 +5,6 @@ status: unread
 ---
 # dermabrasion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermabrasion designates removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermabrasion designates removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer."*

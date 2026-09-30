@@ -5,13 +5,6 @@ status: unread
 ---
 # unsupportive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not furnishing support or assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not furnishing support or assistance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsupportive designates not furnishing support or assistance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not furnishing support or assistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not furnishing support or assistance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsupportive designates not furnishing support or assistance."*

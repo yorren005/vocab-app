@@ -5,15 +5,6 @@ status: unread
 ---
 # scepticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The disbelief in any claims of ultimate knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disbelief in any claims of ultimate knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the dignity of the girl, the strange tenderness in her voice, combined to affect his nobler impulses—or rather those that he had left in him after ten years of endeavour to graft technical belief on actual scepticism."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A pretty fellow he must be to teach you such scepticism!” “He never forced my judgement!"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But I can see from it that he is not the man to grapple with the scepticism of the age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disbelief in any claims of ultimate knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disbelief in any claims of ultimate knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the dignity of the girl, the strange tenderness in her voice, combined to affect his nobler impulses—or rather those that he had left in him after ten years of endeavour to graft technical belief on actual scepticism."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A pretty fellow he must be to teach you such scepticism!” “He never forced my judgement!"*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But I can see from it that he is not the man to grapple with the scepticism of the age."*

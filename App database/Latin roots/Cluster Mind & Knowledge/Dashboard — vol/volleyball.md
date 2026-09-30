@@ -5,13 +5,6 @@ status: unread
 ---
 # volleyball
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A game in which two teams hit an inflated ball over a high net using their hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflated ball used in playing volleyball.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volleyball designates a game in which two teams hit an inflated ball over a high net using their hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A game in which two teams hit an inflated ball over a high net using their hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflated ball used in playing volleyball.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volleyball designates a game in which two teams hit an inflated ball over a high net using their hands."*

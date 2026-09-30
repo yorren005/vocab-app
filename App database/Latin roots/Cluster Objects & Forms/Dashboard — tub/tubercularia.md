@@ -5,13 +5,6 @@ status: unread
 ---
 # tubercularia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubercularia designates type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubercularia designates type genus of the tuberculariaceae; fungi with nodules of red or pink conidia; some cause diebacks of woody plants."*

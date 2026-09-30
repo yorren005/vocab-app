@@ -5,15 +5,6 @@ status: unread
 ---
 # impetuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impulsive or impetuous way; without taking cautions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impulsive or impetuous way; without taking cautions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Where is mother, where is mother?" Kurt impetuously asked Lippo, whom he met in the hall carrying a large water-pitcher entrusted to him by Kathy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is—is—must be somewhere,” pursued Richard impetuously, “and must be brought out."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He’ll have to start shortly after twelve to-night, as the distance is so long.” “Get up his strength!” said Tess impetuously, the tears welling to her eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impulsive or impetuous way; without taking cautions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impulsive or impetuous way; without taking cautions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Where is mother, where is mother?" Kurt impetuously asked Lippo, whom he met in the hall carrying a large water-pitcher entrusted to him by Kathy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is—is—must be somewhere,” pursued Richard impetuously, “and must be brought out."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He’ll have to start shortly after twelve to-night, as the distance is so long.” “Get up his strength!” said Tess impetuously, the tears welling to her eyes."*

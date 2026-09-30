@@ -5,14 +5,6 @@ status: unread
 ---
 # hyaline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transparent or nearly so and usually homogeneous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as the clear atmosphere) that is transparent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These threads are sometimes simple and sometimes branched; they may be articulated or without articulations or septa, short or long, erect or creeping, hyaline or whitish, mostly free from colour, and are not coated with a distinct membrane."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Mycelium effuse, web-like, evanescent; conceptacles sphærical, containing one subglobose 8-spored sporangium; spores ovate; appendages few, dichotomous, thickened at their extremities, hyaline. =Podosphæra Kunzei=, Lév."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transparent or nearly so and usually homogeneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as the clear atmosphere) that is transparent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These threads are sometimes simple and sometimes branched; they may be articulated or without articulations or septa, short or long, erect or creeping, hyaline or whitish, mostly free from colour, and are not coated with a distinct membrane."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Mycelium effuse, web-like, evanescent; conceptacles sphærical, containing one subglobose 8-spored sporangium; spores ovate; appendages few, dichotomous, thickened at their extremities, hyaline. =Podosphæra Kunzei=, Lév."*

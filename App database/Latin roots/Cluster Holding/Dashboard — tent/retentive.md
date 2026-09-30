@@ -5,15 +5,6 @@ status: unread
 ---
 # retentive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the capacity to retain something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor stony tower, nor walls of beaten brass, Nor airless dungeon, nor strong links of iron, Can be retentive to the strength of spirit; But life, being weary of these worldly bars, Never lacks power to dismiss itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I been ever free, and must my house Be my retentive enemy, my jail?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"Alas! with all her reasoning, she found, that to retentive feelings eight years may be little more than nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the capacity to retain something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor stony tower, nor walls of beaten brass, Nor airless dungeon, nor strong links of iron, Can be retentive to the strength of spirit; But life, being weary of these worldly bars, Never lacks power to dismiss itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I been ever free, and must my house Be my retentive enemy, my jail?"*
+> - 📜 **Jane Austen (*Persuasion*):** *"Alas! with all her reasoning, she found, that to retentive feelings eight years may be little more than nothing."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # audibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an audible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an audible manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Only think of Elizabeth’s including everybody!” whispered Mary very audibly."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!” And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook cried audibly, “Good again!” “You see, blacksmith,” said the sergeant, who had by this time picked out Joe with his eye, “we have had an accident with these, and I find the lock of one of ’em goes wrong, and the coupling don’t act pretty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an audible manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an audible manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Only think of Elizabeth’s including everybody!” whispered Mary very audibly."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!” And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook cried audibly, “Good again!” “You see, blacksmith,” said the sergeant, who had by this time picked out Joe with his eye, “we have had an accident with these, and I find the lock of one of ’em goes wrong, and the coupling don’t act pretty."*

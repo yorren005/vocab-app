@@ -5,15 +5,6 @@ status: unread
 ---
 # incredulously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incredulous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incredulous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy looked incredulously at his friend, and at his mother, who suddenly turned very angry, and at the floor, and at the ceiling."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Are they mine?” she asked incredulously."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Know me to be what I am—a cold hard man.” I smiled incredulously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incredulous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incredulous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy looked incredulously at his friend, and at his mother, who suddenly turned very angry, and at the floor, and at the ceiling."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Are they mine?” she asked incredulously."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Know me to be what I am—a cold hard man.” I smiled incredulously."*

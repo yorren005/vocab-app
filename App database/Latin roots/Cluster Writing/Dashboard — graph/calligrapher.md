@@ -5,13 +5,6 @@ status: unread
 ---
 # calligrapher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in penmanship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in penmanship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Imperial marks were the work of calligraphers who were selected for the purpose, and the writing is careful and in good style."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in penmanship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in penmanship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Imperial marks were the work of calligraphers who were selected for the purpose, and the writing is careful and in good style."*

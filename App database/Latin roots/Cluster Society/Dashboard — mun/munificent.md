@@ -5,15 +5,6 @@ status: unread
 ---
 # munificent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very generous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very generous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She is, you are aware, a woman of most munificent disposition, and happily in possession—not I presume of great wealth, but of funds which she can well spare."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This munificent charity from the man of the waters to the poor Cingalese was accepted with a trembling hand."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"What do you think of such a commission as that?’ “‘The work appears to be light and the pay munificent.’ “‘Precisely so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very generous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very generous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She is, you are aware, a woman of most munificent disposition, and happily in possession—not I presume of great wealth, but of funds which she can well spare."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This munificent charity from the man of the waters to the poor Cingalese was accepted with a trembling hand."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"What do you think of such a commission as that?’ “‘The work appears to be light and the pay munificent.’ “‘Precisely so."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cavalierly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a proud and domineering manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a proud and domineering manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Stennis, who took the matter cavalierly enough, immediately turning on his heel and going off in the direction of his weaving-room, which had an additional entrance from the front."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a proud and domineering manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a proud and domineering manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Stennis, who took the matter cavalierly enough, immediately turning on his heel and going off in the direction of his weaving-room, which had an additional entrance from the front."*

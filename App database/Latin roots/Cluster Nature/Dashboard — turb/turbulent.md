@@ -5,15 +5,6 @@ status: unread
 ---
 # turbulent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a liquid) agitated vigorously; in a state of turbulence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get fire and meat for these poor men: ’T has been a turbulent and stormy night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come not to me again, but say to Athens Timon hath made his everlasting mansion Upon the beached verge of the salt flood, Who once a day with his embossed froth The turbulent surge shall cover; thither come, And let my gravestone be your oracle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a liquid) agitated vigorously; in a state of turbulence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get fire and meat for these poor men: ’T has been a turbulent and stormy night."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come not to me again, but say to Athens Timon hath made his everlasting mansion Upon the beached verge of the salt flood, Who once a day with his embossed froth The turbulent surge shall cover; thither come, And let my gravestone be your oracle."*

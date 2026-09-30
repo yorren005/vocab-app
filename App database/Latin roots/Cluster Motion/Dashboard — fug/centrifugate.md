@@ -5,13 +5,6 @@ status: unread
 ---
 # centrifugate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotate at very high speed in order to separate the liquids from the solids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotate at very high speed in order to separate the liquids from the solids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifugate designates rotate at very high speed in order to separate the liquids from the solids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotate at very high speed in order to separate the liquids from the solids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotate at very high speed in order to separate the liquids from the solids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifugate designates rotate at very high speed in order to separate the liquids from the solids."*

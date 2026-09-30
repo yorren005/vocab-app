@@ -5,15 +5,6 @@ status: unread
 ---
 # bol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On his way home from Vorontsóvo, as he was passing the Bolótnoe Place Pierre, seeing a large crowd round the Lóbnoe Place, stopped and got out of his trap."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"When first known to the whites there were five boles starting from the ground, but these are now reduced to two, and are probably shoots from the original tree cut down or girdled by Dearborn."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Even were there no other lurking danger—a danger I did not care to let my imagination loose upon—there would still be all the roots to stumble over and the tree-boles to strike against."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On his way home from Vorontsóvo, as he was passing the Bolótnoe Place Pierre, seeing a large crowd round the Lóbnoe Place, stopped and got out of his trap."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"When first known to the whites there were five boles starting from the ground, but these are now reduced to two, and are probably shoots from the original tree cut down or girdled by Dearborn."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Even were there no other lurking danger—a danger I did not care to let my imagination loose upon—there would still be all the roots to stumble over and the tree-boles to strike against."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eardrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The membrane in the ear that vibrates to sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membrane in the ear that vibrates to sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eardrum designates the membrane in the ear that vibrates to sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The membrane in the ear that vibrates to sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membrane in the ear that vibrates to sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eardrum designates the membrane in the ear that vibrates to sound."*

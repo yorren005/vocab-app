@@ -5,13 +5,6 @@ status: unread
 ---
 # vulpecula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the northern hemisphere near cygnus and sagitta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the northern hemisphere near cygnus and sagitta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulpecula designates a constellation in the northern hemisphere near cygnus and sagitta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the northern hemisphere near cygnus and sagitta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the northern hemisphere near cygnus and sagitta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulpecula designates a constellation in the northern hemisphere near cygnus and sagitta."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # suspicion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An impression that something might be the case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doubt about someone's honesty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspicion all our lives shall be stuck full of eyes, For treason is but trusted like the fox, Who, ne’er so tame, so cherish’d and lock’d up, Will have a wild trick of his ancestors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See what a ready tongue suspicion hath!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus thy fall hath left a kind of blot To mark the full-fraught man and best indued With some suspicion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impression that something might be the case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doubt about someone's honesty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspicion all our lives shall be stuck full of eyes, For treason is but trusted like the fox, Who, ne’er so tame, so cherish’d and lock’d up, Will have a wild trick of his ancestors."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See what a ready tongue suspicion hath!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus thy fall hath left a kind of blot To mark the full-fraught man and best indued With some suspicion."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # polygamist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage in which a spouse of either sex may have more than one mate at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being polygamous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"I shuddered at the gray polygamist, who had so utterly lost the holy sense of individuality in wedlock, that methought he was fain to reckon upon his fingers how many women, who had once slept by his side, were now sleeping in their graves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage in which a spouse of either sex may have more than one mate at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being polygamous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"I shuddered at the gray polygamist, who had so utterly lost the holy sense of individuality in wedlock, that methought he was fain to reckon upon his fingers how many women, who had once slept by his side, were now sleeping in their graves."*

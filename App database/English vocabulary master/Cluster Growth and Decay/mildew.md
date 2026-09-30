@@ -5,20 +5,6 @@ status: unread
 ---
 # mildew
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fungus producing mildew
-> 2. **Nuance / Usage**: Discoloration caused by fungi
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the mildew withstood the storm*), direct object (*cleaved the mildew*), or prepositional anchor (*amidst the mildew*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"or farm-labourers, that the mildew is very injurious to the corn crop."*
-> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"popular language of the farm as “mildew,” “rust,” “smut,” and “bunt."*
-> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"mycelium of the hazel mildew (_Phyllactinia guttata_, Lev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Fungus producing mildew
+> 2. **Nuance / Usage**: Discoloration caused by fungi
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the mildew withstood the storm*), direct object (*cleaved the mildew*), or prepositional anchor (*amidst the mildew*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"or farm-labourers, that the mildew is very injurious to the corn crop."*
+> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"popular language of the farm as “mildew,” “rust,” “smut,” and “bunt."*
+> - 📜 **Cooke, M. C. (Mordecai Cubitt) (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"mycelium of the hazel mildew (_Phyllactinia guttata_, Lev."*

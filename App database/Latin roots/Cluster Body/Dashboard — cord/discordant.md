@@ -5,15 +5,6 @@ status: unread
 ---
 # discordant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement or harmony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in harmony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rumour is a pipe Blown by surmises, jealousies, conjectures, And of so easy and so plain a stop That the blunt monster with uncounted heads, The still-discordant wav’ring multitude, Can play upon it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could it be possible, he continued, that eyes which as they gazed never expressed any divergence from what the tongue was telling, were yet ever seeing another world behind her ostensible one, discordant and contrasting?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I roused myself, therefore, though unwillingly, to see whether these two, so discordant, could agree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement or harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in harmony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rumour is a pipe Blown by surmises, jealousies, conjectures, And of so easy and so plain a stop That the blunt monster with uncounted heads, The still-discordant wav’ring multitude, Can play upon it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could it be possible, he continued, that eyes which as they gazed never expressed any divergence from what the tongue was telling, were yet ever seeing another world behind her ostensible one, discordant and contrasting?"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I roused myself, therefore, though unwillingly, to see whether these two, so discordant, could agree."*

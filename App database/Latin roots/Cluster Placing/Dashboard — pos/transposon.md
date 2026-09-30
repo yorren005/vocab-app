@@ -5,13 +5,6 @@ status: unread
 ---
 # transposon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A segment of dna that can become integrated at many different sites along a chromosome (especially a segment of bacterial dna that can be translocated as a whole).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A segment of dna that can become integrated at many different sites along a chromosome (especially a segment of bacterial dna that can be translocated as a whole).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transposon designates a segment of dna that can become integrated at many different sites along a chromosome (especially a segment of bacterial dna that can be translocated as a whole)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A segment of dna that can become integrated at many different sites along a chromosome (especially a segment of bacterial dna that can be translocated as a whole).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A segment of dna that can become integrated at many different sites along a chromosome (especially a segment of bacterial dna that can be translocated as a whole).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transposon designates a segment of dna that can become integrated at many different sites along a chromosome (especially a segment of bacterial dna that can be translocated as a whole)."*

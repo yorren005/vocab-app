@@ -5,13 +5,6 @@ status: unread
 ---
 # monogamous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of relationships and of individuals) having one mate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of relationships and of individuals) having one mate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogamous designates (used of relationships and of individuals) having one mate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of relationships and of individuals) having one mate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of relationships and of individuals) having one mate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogamous designates (used of relationships and of individuals) having one mate."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # justiciary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a high judicial officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jurisdiction of a justiciar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Dundas, as justiciary in Scotland, he exclaimed that he must go and order his silk robe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a high judicial officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jurisdiction of a justiciar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Dundas, as justiciary in Scotland, he exclaimed that he must go and order his silk robe."*

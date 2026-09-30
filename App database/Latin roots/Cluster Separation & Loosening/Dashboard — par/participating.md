@@ -5,15 +5,6 @@ status: unread
 ---
 # participating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share in something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become a participant; be involved in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policies that receive dividends are called "participating" and are said to participate in the earnings."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The stock company, organized for profit, frequently charges lower premiums for "non-participating" policies, and then retains such profits as may result from keeping expenses below receipts."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Plum-pudding is the term bestowed upon certain fragmentary parts of the whale’s flesh, here and there adhering to the blanket of blubber, and often participating to a considerable degree in its unctuousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Share in something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become a participant; be involved in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policies that receive dividends are called "participating" and are said to participate in the earnings."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The stock company, organized for profit, frequently charges lower premiums for "non-participating" policies, and then retains such profits as may result from keeping expenses below receipts."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Plum-pudding is the term bestowed upon certain fragmentary parts of the whale’s flesh, here and there adhering to the blanket of blubber, and often participating to a considerable degree in its unctuousness."*

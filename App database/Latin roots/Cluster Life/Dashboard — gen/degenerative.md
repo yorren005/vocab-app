@@ -5,13 +5,6 @@ status: unread
 ---
 # degenerative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of illness) marked by gradual deterioration of organs and cells along with loss of function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of illness) marked by gradual deterioration of organs and cells along with loss of function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degenerative designates (of illness) marked by gradual deterioration of organs and cells along with loss of function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of illness) marked by gradual deterioration of organs and cells along with loss of function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of illness) marked by gradual deterioration of organs and cells along with loss of function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degenerative designates (of illness) marked by gradual deterioration of organs and cells along with loss of function."*

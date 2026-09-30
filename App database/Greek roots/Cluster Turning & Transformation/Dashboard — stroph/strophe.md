@@ -5,14 +5,6 @@ status: unread
 ---
 # strophe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmic system composed of two or more lines repeated as a unit; especially : such a unit recurring in a series of strophic units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmic system composed of two or more lines repeated as a unit; especially : such a unit recurring in a series of strophic units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Strophe View the wither’d Beldam’s face; Can thy keen inspection trace Aught of Humanity’s sweet, melting grace?"*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Tradition has preserved some wild strophes of the barbarous hymn which she chanted wildly amid that scene of fire and of slaughter:— 1."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmic system composed of two or more lines repeated as a unit; especially : such a unit recurring in a series of strophic units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmic system composed of two or more lines repeated as a unit; especially : such a unit recurring in a series of strophic units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Strophe View the wither’d Beldam’s face; Can thy keen inspection trace Aught of Humanity’s sweet, melting grace?"*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Tradition has preserved some wild strophes of the barbarous hymn which she chanted wildly amid that scene of fire and of slaughter:— 1."*

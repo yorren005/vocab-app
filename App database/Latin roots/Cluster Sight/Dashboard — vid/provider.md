@@ -5,15 +5,6 @@ status: unread
 ---
 # provider
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business is to supply a particular service or commodity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who provides the means for subsistence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would have left it on the board, so soon As I had made my meal, and parted With pray’rs for the provider."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"With all his talk of economy, however, he is a bountiful provider and a hospitable housekeeper."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You'll find me a good provider, and we'll let one another alone, and get along some way or 'nother." The captain's voice fairly broke; he had been speaking as if to a brother man; he was tired out and perplexed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business is to supply a particular service or commodity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who provides the means for subsistence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would have left it on the board, so soon As I had made my meal, and parted With pray’rs for the provider."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"With all his talk of economy, however, he is a bountiful provider and a hospitable housekeeper."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You'll find me a good provider, and we'll let one another alone, and get along some way or 'nother." The captain's voice fairly broke; he had been speaking as if to a brother man; he was tired out and perplexed."*

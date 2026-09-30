@@ -5,13 +5,6 @@ status: unread
 ---
 # unorthodoxy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any opinions or doctrines at variance with the official or orthodox position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief that rejects the orthodox tenets of a religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unorthodoxy designates any opinions or doctrines at variance with the official or orthodox position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any opinions or doctrines at variance with the official or orthodox position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief that rejects the orthodox tenets of a religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unorthodoxy designates any opinions or doctrines at variance with the official or orthodox position."*

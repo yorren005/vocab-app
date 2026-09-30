@@ -5,13 +5,6 @@ status: unread
 ---
 # microphthalmia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microphthalmia, also referred as microphthalmos, is a developmental disorder of the eye in which one or both eyes are abnormally small and have anatomic malformations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microphthalmia is a distinct condition from anophthalmia and nanophthalmia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphthalmia designates microphthalmia, also referred as microphthalmos, is a developmental disorder of the eye in which one or both eyes are abnormally small and have anatomic malformations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Microphthalmia, also referred as microphthalmos, is a developmental disorder of the eye in which one or both eyes are abnormally small and have anatomic malformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microphthalmia is a distinct condition from anophthalmia and nanophthalmia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphthalmia designates microphthalmia, also referred as microphthalmos, is a developmental disorder of the eye in which one or both eyes are abnormally small and have anatomic malformations."*

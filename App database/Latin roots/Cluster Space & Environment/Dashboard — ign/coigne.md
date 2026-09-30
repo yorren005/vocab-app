@@ -5,13 +5,6 @@ status: unread
 ---
 # coigne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expandable metal or wooden wedge used by printers to lock up a form within a chase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The keystone of an arch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coigne designates expandable metal or wooden wedge used by printers to lock up a form within a chase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expandable metal or wooden wedge used by printers to lock up a form within a chase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The keystone of an arch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coigne designates expandable metal or wooden wedge used by printers to lock up a form within a chase."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preconceived
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conceive beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an idea or opinion) formed beforehand; especially without evidence or through prejudice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Preconceived opinions, foregone determinations, are all I have at this hour to stand by: there I plant my foot.” I did."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Sit down before the fact as a little child, be prepared to give up every preconceived notion, follow humbly wherever and to whatever end Nature leads, or you shall learn nothing ...."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond had registered every look and word, and estimated them as the opening incidents of a preconceived romance—incidents which gather value from the foreseen development and climax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conceive beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an idea or opinion) formed beforehand; especially without evidence or through prejudice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Preconceived opinions, foregone determinations, are all I have at this hour to stand by: there I plant my foot.” I did."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Sit down before the fact as a little child, be prepared to give up every preconceived notion, follow humbly wherever and to whatever end Nature leads, or you shall learn nothing ...."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond had registered every look and word, and estimated them as the opening incidents of a preconceived romance—incidents which gather value from the foreseen development and climax."*

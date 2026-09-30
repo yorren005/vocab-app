@@ -5,13 +5,6 @@ status: unread
 ---
 # meristem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undifferentiated tissue from which new cells are formed, as at the tip of a stem or root.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undifferentiated tissue from which new cells are formed, as at the tip of a stem or root.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristem designates undifferentiated tissue from which new cells are formed, as at the tip of a stem or root."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undifferentiated tissue from which new cells are formed, as at the tip of a stem or root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undifferentiated tissue from which new cells are formed, as at the tip of a stem or root.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristem designates undifferentiated tissue from which new cells are formed, as at the tip of a stem or root."*

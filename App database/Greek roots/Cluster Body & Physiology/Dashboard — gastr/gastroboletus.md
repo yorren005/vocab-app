@@ -5,13 +5,6 @@ status: unread
 ---
 # gastroboletus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroboletus designates a genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroboletus designates a genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium."*

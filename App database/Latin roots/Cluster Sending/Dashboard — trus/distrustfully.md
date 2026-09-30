@@ -5,15 +5,6 @@ status: unread
 ---
 # distrustfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With distrust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distrust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George looks distrustfully from the painted ceiling to the ground, from the ground to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn seems to meditate as he looks distrustfully at her, then he replies, “Well, wench, well."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll beat the shivers so far, I’ll bet you.” He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all at once: staring distrustfully while he did so at the mist all round us, and often stopping—even stopping his jaws—to listen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With distrust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distrust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George looks distrustfully from the painted ceiling to the ground, from the ground to Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn seems to meditate as he looks distrustfully at her, then he replies, “Well, wench, well."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll beat the shivers so far, I’ll bet you.” He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all at once: staring distrustfully while he did so at the mist all round us, and often stopping—even stopping his jaws—to listen."*

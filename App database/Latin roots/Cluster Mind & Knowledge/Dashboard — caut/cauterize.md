@@ -5,13 +5,6 @@ status: unread
 ---
 # cauterize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive or callous; deaden feelings or morals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterize designates burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive or callous; deaden feelings or morals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterize designates burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent."*

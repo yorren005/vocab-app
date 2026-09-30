@@ -5,13 +5,6 @@ status: unread
 ---
 # archaistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitative of an archaic style or manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imitative of an archaic style or manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As nothing definite is known of their place of origin, this chronology can only be based on their archaistic appearance, or on the fact that they have the usual "on biscuit" glazes, which seems to be the accepted signal for a Ming attribution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitative of an archaic style or manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imitative of an archaic style or manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As nothing definite is known of their place of origin, this chronology can only be based on their archaistic appearance, or on the fact that they have the usual "on biscuit" glazes, which seems to be the accepted signal for a Ming attribution."*

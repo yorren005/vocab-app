@@ -5,15 +5,6 @@ status: unread
 ---
 # sent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 senti equal 1 kroon in estonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to go somewhere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en that you have there. [_Exit._] COUNTESS. [_Reads._] _I have sent you a daughter-in-law; she hath recovered the king and undone me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taken labours bid him me forgive; I, his despiteful Juno, sent him forth From courtly friends, with camping foes to live, Where death and danger dog the heels of worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I spoke with her but once, And found her wondrous cold, but I sent to her By this same coxcomb that we have i’ the wind Tokens and letters which she did re-send, And this is all I have done."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 senti equal 1 kroon in estonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to go somewhere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en that you have there. [_Exit._] COUNTESS. [_Reads._] _I have sent you a daughter-in-law; she hath recovered the king and undone me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taken labours bid him me forgive; I, his despiteful Juno, sent him forth From courtly friends, with camping foes to live, Where death and danger dog the heels of worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I spoke with her but once, And found her wondrous cold, but I sent to her By this same coxcomb that we have i’ the wind Tokens and letters which she did re-send, And this is all I have done."*

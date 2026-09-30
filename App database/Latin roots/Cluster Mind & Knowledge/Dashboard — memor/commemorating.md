@@ -5,14 +5,6 @@ status: unread
 ---
 # commemorating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark by some ceremony or observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call to remembrance; keep alive the memory of someone or something, as in a ceremony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Another centenary commemorating an event as tragic and infinitely more glorious is fast approaching."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"My Lord Dives's remains are in the family vault: the statuaries are cutting an inscription veraciously commemorating his virtues, and the sorrows of his heir, who is disposing of his goods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark by some ceremony or observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call to remembrance; keep alive the memory of someone or something, as in a ceremony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Another centenary commemorating an event as tragic and infinitely more glorious is fast approaching."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"My Lord Dives's remains are in the family vault: the statuaries are cutting an inscription veraciously commemorating his virtues, and the sorrows of his heir, who is disposing of his goods."*

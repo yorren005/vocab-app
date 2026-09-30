@@ -5,15 +5,6 @@ status: unread
 ---
 # style
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To what is count’s man: count’s master is of another style."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To what is count’s man: count’s master is of another style."*

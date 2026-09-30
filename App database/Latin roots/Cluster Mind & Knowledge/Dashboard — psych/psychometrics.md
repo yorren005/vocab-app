@@ -5,13 +5,6 @@ status: unread
 ---
 # psychometrics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any branch of psychology concerned with psychological measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any branch of psychology concerned with psychological measurements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometrics designates any branch of psychology concerned with psychological measurements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any branch of psychology concerned with psychological measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any branch of psychology concerned with psychological measurements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometrics designates any branch of psychology concerned with psychological measurements."*

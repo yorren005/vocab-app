@@ -5,15 +5,6 @@ status: unread
 ---
 # conspicuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obvious to the eye or mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any attempt at concealment; completely obvious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s breast and the numerous oscillations it occasioned him between his mother’s door and us were sufficiently conspicuous in the windy street (particularly as his hair wanted cutting) to make us hurry away."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I chose it as a conspicuous part of the house."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whilst Oak was doing as she desired, Bathsheba collected the flowers, and began planting them with that sympathetic manipulation of roots and leaves which is so conspicuous in a woman’s gardening, and which flowers seem to understand and thrive upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obvious to the eye or mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any attempt at concealment; completely obvious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s breast and the numerous oscillations it occasioned him between his mother’s door and us were sufficiently conspicuous in the windy street (particularly as his hair wanted cutting) to make us hurry away."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I chose it as a conspicuous part of the house."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whilst Oak was doing as she desired, Bathsheba collected the flowers, and began planting them with that sympathetic manipulation of roots and leaves which is so conspicuous in a woman’s gardening, and which flowers seem to understand and thrive upon."*

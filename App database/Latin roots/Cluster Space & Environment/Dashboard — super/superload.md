@@ -5,13 +5,6 @@ status: unread
 ---
 # superload
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable load on a structure (e.g. a bridge) such as moving traffic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variable load on a structure (e.g. a bridge) such as moving traffic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superload designates a variable load on a structure (e.g. a bridge) such as moving traffic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable load on a structure (e.g. a bridge) such as moving traffic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variable load on a structure (e.g. a bridge) such as moving traffic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superload designates a variable load on a structure (e.g. a bridge) such as moving traffic."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # canny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing self-interest and shrewdness in dealing with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing self-interest and shrewdness in dealing with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"All the attractions in the world cannot worm shillings out of a public which is so prudent and canny that it has self-guarded itself by leaving its cash at home!"*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Hugh Blake, of Emberon, must have been very old; and he was probably as saving and canny as any Scotchman who ever wore kilts."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Court processes are slow, and especially so, I should judge, among the canny and careful Scotch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing self-interest and shrewdness in dealing with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing self-interest and shrewdness in dealing with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"All the attractions in the world cannot worm shillings out of a public which is so prudent and canny that it has self-guarded itself by leaving its cash at home!"*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Hugh Blake, of Emberon, must have been very old; and he was probably as saving and canny as any Scotchman who ever wore kilts."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Court processes are slow, and especially so, I should judge, among the canny and careful Scotch."*

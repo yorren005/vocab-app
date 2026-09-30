@@ -5,15 +5,6 @@ status: unread
 ---
 # residual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something left after other parts have been taken away.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Or were these memories of other times and places still residual, asleep, immured in solitary in brain cells similarly to the way I was immured in a cell in San Quentin?"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Walker says that the laborer gets what is left after the other shares are deducted according to their law; wages are the residual claimant."*
-> - 📜 **James Joyce (*Ulysses*):** *"Reassuringly, their place, where none could hear them talk, being secluded, reassured, the decocted beverages, allowing for subsolid residual sediment of a mechanical mixture, water plus sugar plus cream plus cocoa, having been consumed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something left after other parts have been taken away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Or were these memories of other times and places still residual, asleep, immured in solitary in brain cells similarly to the way I was immured in a cell in San Quentin?"*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Walker says that the laborer gets what is left after the other shares are deducted according to their law; wages are the residual claimant."*
+> - 📜 **James Joyce (*Ulysses*):** *"Reassuringly, their place, where none could hear them talk, being secluded, reassured, the decocted beverages, allowing for subsolid residual sediment of a mechanical mixture, water plus sugar plus cream plus cocoa, having been consumed."*

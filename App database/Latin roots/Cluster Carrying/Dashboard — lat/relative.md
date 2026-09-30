@@ -5,15 +5,6 @@ status: unread
 ---
 # relative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person related by blood or marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have grounds More relative than this."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was greatly occupied during breakfast, for the morning’s post brought a heavy correspondence relative to Borrioboola-Gha, which would occasion her (she said) to pass a busy day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, this Miss Barbary was extremely close—seems to have been extraordinarily close for a female, females being generally (in common life at least) rather given to conversation—and my witness never had an idea whether she possessed a single relative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person related by blood or marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have grounds More relative than this."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was greatly occupied during breakfast, for the morning’s post brought a heavy correspondence relative to Borrioboola-Gha, which would occasion her (she said) to pass a busy day."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, this Miss Barbary was extremely close—seems to have been extraordinarily close for a female, females being generally (in common life at least) rather given to conversation—and my witness never had an idea whether she possessed a single relative."*

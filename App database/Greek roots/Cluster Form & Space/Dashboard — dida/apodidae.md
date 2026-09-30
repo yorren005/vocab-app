@@ -5,13 +5,6 @@ status: unread
 ---
 # apodidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swifts; in former classifications included in the order coraciiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swifts; in former classifications included in the order coraciiformes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apodidae designates swifts; in former classifications included in the order coraciiformes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swifts; in former classifications included in the order coraciiformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swifts; in former classifications included in the order coraciiformes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apodidae designates swifts; in former classifications included in the order coraciiformes."*

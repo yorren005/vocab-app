@@ -5,13 +5,6 @@ status: unread
 ---
 # pandemic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epidemic that is geographically widespread; occurring throughout a region or even throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epidemic over a wide geographical area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandemic designates an epidemic that is geographically widespread; occurring throughout a region or even throughout the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An epidemic that is geographically widespread; occurring throughout a region or even throughout the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epidemic over a wide geographical area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandemic designates an epidemic that is geographically widespread; occurring throughout a region or even throughout the world."*

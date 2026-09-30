@@ -5,20 +5,6 @@ status: unread
 ---
 # canker
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Erosive or spreading sore
-> 2. **Nuance / Usage**: (transitive) to infect or pollute; to corrupt
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As this ingrate and canker’d Bolingbroke."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And plant this thorn, this canker, Bolingbroke?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hath not thy rose a canker, Somerset?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Erosive or spreading sore
+> 2. **Nuance / Usage**: (transitive) to infect or pollute; to corrupt
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As this ingrate and canker’d Bolingbroke."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And plant this thorn, this canker, Bolingbroke?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hath not thy rose a canker, Somerset?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incorporation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consolidating two or more things; union in (or into) one body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Entering at that moment, he was an incorporation of the strongest reasons through which Will’s pride became a repellent force, keeping him asunder from Dorothea."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seven others are in process of incorporation."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The process of the incorporation of properly functioning spiritual assemblies must be simultaneously and vigorously carried out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consolidating two or more things; union in (or into) one body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Entering at that moment, he was an incorporation of the strongest reasons through which Will’s pride became a repellent force, keeping him asunder from Dorothea."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seven others are in process of incorporation."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The process of the incorporation of properly functioning spiritual assemblies must be simultaneously and vigorously carried out."*

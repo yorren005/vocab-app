@@ -5,15 +5,6 @@ status: unread
 ---
 # lithuania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northeastern europe on the baltic sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northeastern europe on the baltic sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Russian Lithuania, on the first of May, they used to set up a green tree before the village."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Lithuania the name for the last sheaf is Boba (Old Woman), answering to the Polish name Baba."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes in Lithuania the last sheaf is not threshed, but is fashioned into female shape and carried to the barn of a neighbour who has not finished his threshing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northeastern europe on the baltic sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northeastern europe on the baltic sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Russian Lithuania, on the first of May, they used to set up a green tree before the village."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Lithuania the name for the last sheaf is Boba (Old Woman), answering to the Polish name Baba."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes in Lithuania the last sheaf is not threshed, but is fashioned into female shape and carried to the barn of a neighbour who has not finished his threshing."*

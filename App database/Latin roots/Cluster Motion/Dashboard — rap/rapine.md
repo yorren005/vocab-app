@@ -5,15 +5,6 @@ status: unread
 ---
 # rapine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of despoiling a country in warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of despoiling a country in warfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And day by day I’ll do this heavy task, So thou destroy Rapine and Murder there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rapine and Murder; therefore called so ’Cause they take vengeance of such kind of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rapine and Murder, you are welcome too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of despoiling a country in warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of despoiling a country in warfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And day by day I’ll do this heavy task, So thou destroy Rapine and Murder there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rapine and Murder; therefore called so ’Cause they take vengeance of such kind of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rapine and Murder, you are welcome too."*

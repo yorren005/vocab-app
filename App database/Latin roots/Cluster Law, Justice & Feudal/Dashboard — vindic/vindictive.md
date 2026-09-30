@@ -5,15 +5,6 @@ status: unread
 ---
 # vindictive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to seek revenge or intended for revenge; - shakespeare; - m.r.cohen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing malicious ill will and a desire to hurt; motivated by spite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The face of each child, as the amount of his contribution was mentioned, darkened in a peculiarly vindictive manner, but his was by far the worst."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If she had only lived, I could have been angry and cruel towards her with some justification; but to be vindictive towards a poor dead woman recoils upon myself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The present guards on duty in solitary were a particularly bad and vindictive set."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to seek revenge or intended for revenge; - shakespeare; - m.r.cohen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing malicious ill will and a desire to hurt; motivated by spite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The face of each child, as the amount of his contribution was mentioned, darkened in a peculiarly vindictive manner, but his was by far the worst."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If she had only lived, I could have been angry and cruel towards her with some justification; but to be vindictive towards a poor dead woman recoils upon myself."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The present guards on duty in solitary were a particularly bad and vindictive set."*

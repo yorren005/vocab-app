@@ -5,15 +5,6 @@ status: unread
 ---
 # altruism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of unselfish concern for the welfare of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of unselfish concern for the welfare of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There was no nonsense about him--none of that sweet blind altruism which, as Isabel saw it, only made the altruist and his family so bitterly uncomfortable without doing any good to the poor."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A conference of doctors and social scientists proposed a theory that altruism, particularly when the helper observes its benefits, can reduce feelings of helplessness and depression and thus enhance health."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Has commercialism really throttled altruism?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of unselfish concern for the welfare of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of unselfish concern for the welfare of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There was no nonsense about him--none of that sweet blind altruism which, as Isabel saw it, only made the altruist and his family so bitterly uncomfortable without doing any good to the poor."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A conference of doctors and social scientists proposed a theory that altruism, particularly when the helper observes its benefits, can reduce feelings of helplessness and depression and thus enhance health."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Has commercialism really throttled altruism?"*

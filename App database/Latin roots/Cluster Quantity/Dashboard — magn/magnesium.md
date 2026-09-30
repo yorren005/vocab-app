@@ -5,15 +5,6 @@ status: unread
 ---
 # magnesium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"He heated atmospheric nitrogen in the presence of magnesium, under which conditions some of the nitrogen combines with the latter element to form nitride of magnesium."*
-> - 📜 **James Joyce (*Ulysses*):** *"A magnesium flashlight photograph is taken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"He heated atmospheric nitrogen in the presence of magnesium, under which conditions some of the nitrogen combines with the latter element to form nitride of magnesium."*
+> - 📜 **James Joyce (*Ulysses*):** *"A magnesium flashlight photograph is taken."*

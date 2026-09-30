@@ -5,13 +5,6 @@ status: unread
 ---
 # phonate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter speech sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter speech sounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonate designates utter speech sounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter speech sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter speech sounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonate designates utter speech sounds."*

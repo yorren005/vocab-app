@@ -5,13 +5,6 @@ status: unread
 ---
 # erythrocin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocin designates an antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocin designates an antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative."*

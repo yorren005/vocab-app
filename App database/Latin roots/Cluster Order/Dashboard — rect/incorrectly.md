@@ -5,15 +5,6 @@ status: unread
 ---
 # incorrectly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incorrect manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inaccurate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"The present collation omits readings incorrectly given by Dyce."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He let it be presented all wrong last time, and they got things so muddled that it was voted on incorrectly."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Frankl: "Lenau und Sophie Loewenthal," Stuttgart, 1891 (hereafter quoted as "Frankl") p. 189, incorrectly states the date as 1838."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incorrect manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inaccurate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"The present collation omits readings incorrectly given by Dyce."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He let it be presented all wrong last time, and they got things so muddled that it was voted on incorrectly."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Frankl: "Lenau und Sophie Loewenthal," Stuttgart, 1891 (hereafter quoted as "Frankl") p. 189, incorrectly states the date as 1838."*

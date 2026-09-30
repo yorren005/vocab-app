@@ -5,13 +5,6 @@ status: unread
 ---
 # cannelloni
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tubular pasta filled with meat or cheese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tubular pasta filled with meat or cheese.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannelloni designates tubular pasta filled with meat or cheese."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tubular pasta filled with meat or cheese.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tubular pasta filled with meat or cheese.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannelloni designates tubular pasta filled with meat or cheese."*

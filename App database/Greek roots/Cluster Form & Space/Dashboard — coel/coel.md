@@ -5,13 +5,6 @@ status: unread
 ---
 # coel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cavity : chamber : ventricle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cavity : chamber : ventricle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the northern part of Wales it used to be customary for every family to make a great bonfire called _Coel Coeth_ on Hallowe'en."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cavity : chamber : ventricle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cavity : chamber : ventricle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the northern part of Wales it used to be customary for every family to make a great bonfire called _Coel Coeth_ on Hallowe'en."*

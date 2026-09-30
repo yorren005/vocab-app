@@ -5,13 +5,6 @@ status: unread
 ---
 # electroshock
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of a strong electric current that passes through the brain to induce convulsions and coma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of a strong electric current that passes through the brain to induce convulsions and coma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroshock designates the administration of a strong electric current that passes through the brain to induce convulsions and coma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of a strong electric current that passes through the brain to induce convulsions and coma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of a strong electric current that passes through the brain to induce convulsions and coma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroshock designates the administration of a strong electric current that passes through the brain to induce convulsions and coma."*

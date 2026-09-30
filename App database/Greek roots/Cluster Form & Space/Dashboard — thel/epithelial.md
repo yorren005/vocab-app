@@ -5,13 +5,6 @@ status: unread
 ---
 # epithelial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to the epithelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the epithelium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithelial designates of or belonging to the epithelium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to the epithelium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the epithelium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithelial designates of or belonging to the epithelium."*

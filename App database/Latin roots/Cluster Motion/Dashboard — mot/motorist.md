@@ -5,15 +5,6 @@ status: unread
 ---
 # motorist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who drives (or travels in) an automobile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who drives (or travels in) an automobile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Suddenly the car struck aside from the straightaway and with open cut-out roared up a steep hill by means of which a narrow road led off toward a part of the country not often selected by motorists for pleasure spins."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Many motorists owe the ignition which keeps their engines at work to secondary batteries."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Jaded motorists from the city drove their cars slowly past the glory of the Landis riot of blossoms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who drives (or travels in) an automobile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who drives (or travels in) an automobile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Suddenly the car struck aside from the straightaway and with open cut-out roared up a steep hill by means of which a narrow road led off toward a part of the country not often selected by motorists for pleasure spins."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Many motorists owe the ignition which keeps their engines at work to secondary batteries."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Jaded motorists from the city drove their cars slowly past the glory of the Landis riot of blossoms."*

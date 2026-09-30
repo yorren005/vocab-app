@@ -5,15 +5,6 @@ status: unread
 ---
 # compulsory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Required by rule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She had a goodly fortune in her own right, so that marriage had not been compulsory."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organized labor's opposition to compulsory arbitration. § 15."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The public and compulsory arbitration. § 1. #Spread of the shorter working day.# Since about 1880 a shorter working day has been one of the prime objects of organized labor in America."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Required by rule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She had a goodly fortune in her own right, so that marriage had not been compulsory."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organized labor's opposition to compulsory arbitration. § 15."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The public and compulsory arbitration. § 1. #Spread of the shorter working day.# Since about 1880 a shorter working day has been one of the prime objects of organized labor in America."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # separateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being several and distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Political independence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It was significant of the separateness between Lydgate’s mind and Rosamond’s that he had no impulse to speak to her on the subject; indeed, he did not quite trust her reticence towards Will."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Just think how much our expansion makes for universal peace by erasing the thought of separateness existing between peoples, and giving to the federated powers such an ideal form of government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being several and distinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Political independence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It was significant of the separateness between Lydgate’s mind and Rosamond’s that he had no impulse to speak to her on the subject; indeed, he did not quite trust her reticence towards Will."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Just think how much our expansion makes for universal peace by erasing the thought of separateness existing between peoples, and giving to the federated powers such an ideal form of government."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # librate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the weight of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vibrate before coming to a total rest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librate designates determine the weight of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the weight of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vibrate before coming to a total rest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librate designates determine the weight of."*

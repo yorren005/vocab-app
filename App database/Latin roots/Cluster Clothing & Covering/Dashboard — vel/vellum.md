@@ -5,15 +5,6 @@ status: unread
 ---
 # vellum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy creamy-colored paper resembling parchment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fine parchment prepared from the skin of a young animal e.g. a calf or lamb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As well sort them at once by size and livery: Vellum, tall copies, and the common calf Will hardly cover more diversity Than all your labels cunningly devised To class your unread authors."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I remember picking up a little vellum-covered book in your studio one day and chancing on that delightful phrase."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You are well aware that chemical preparations exist, and have existed time out of mind, by means of which it is possible to write upon either paper or vellum, so that the characters shall become visible only when subjected to the action of fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy creamy-colored paper resembling parchment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fine parchment prepared from the skin of a young animal e.g. a calf or lamb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As well sort them at once by size and livery: Vellum, tall copies, and the common calf Will hardly cover more diversity Than all your labels cunningly devised To class your unread authors."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I remember picking up a little vellum-covered book in your studio one day and chancing on that delightful phrase."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You are well aware that chemical preparations exist, and have existed time out of mind, by means of which it is possible to write upon either paper or vellum, so that the characters shall become visible only when subjected to the action of fire."*

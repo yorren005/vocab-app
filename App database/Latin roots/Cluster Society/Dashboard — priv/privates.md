@@ -5,15 +5,6 @@ status: unread
 ---
 # privates
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: External sex organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man of the lowest rank in the army or marines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what have kings, that privates have not too, Save ceremony, save general ceremony?"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"There were nine privates and three or four officers."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From privates to general they were not expecting a battle and were engaged in peaceful occupations, the cavalry feeding the horses and the infantry collecting wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: External sex organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man of the lowest rank in the army or marines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what have kings, that privates have not too, Save ceremony, save general ceremony?"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"There were nine privates and three or four officers."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From privates to general they were not expecting a battle and were engaged in peaceful occupations, the cavalry feeding the horses and the infantry collecting wood."*

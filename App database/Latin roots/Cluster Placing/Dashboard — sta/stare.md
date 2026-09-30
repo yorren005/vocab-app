@@ -5,15 +5,6 @@ status: unread
 ---
 # stare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed look with eyes open wide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with fixed eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is in thy mind That makes thee stare thus?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To signify unto his majesty That Cardinal Beaufort is at point of death; For suddenly a grievous sickness took him, That makes him gasp and stare and catch the air, Blaspheming God and cursing men on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are you breathless, and why stare you so?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed look with eyes open wide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with fixed eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is in thy mind That makes thee stare thus?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To signify unto his majesty That Cardinal Beaufort is at point of death; For suddenly a grievous sickness took him, That makes him gasp and stare and catch the air, Blaspheming God and cursing men on earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are you breathless, and why stare you so?"*

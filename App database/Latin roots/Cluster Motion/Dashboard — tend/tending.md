@@ -5,15 +5,6 @@ status: unread
 ---
 # tending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of providing treatment for or attending to someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a tendency or disposition to do or be something; be inclined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall between this and supper tell you most strange things from Rome, all tending to the good of their adversaries."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will this night, In several hands, in at his windows throw, As if they came from several citizens, Writings, all tending to the great opinion That Rome holds of his name; wherein obscurely Caesar’s ambition shall be glanced at."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do grace to Caesar’s corpse, and grace his speech Tending to Caesar’s glories, which Mark Antony, By our permission, is allow’d to make."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of providing treatment for or attending to someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a tendency or disposition to do or be something; be inclined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall between this and supper tell you most strange things from Rome, all tending to the good of their adversaries."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will this night, In several hands, in at his windows throw, As if they came from several citizens, Writings, all tending to the great opinion That Rome holds of his name; wherein obscurely Caesar’s ambition shall be glanced at."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do grace to Caesar’s corpse, and grace his speech Tending to Caesar’s glories, which Mark Antony, By our permission, is allow’d to make."*

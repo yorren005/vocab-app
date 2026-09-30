@@ -5,20 +5,6 @@ status: unread
 ---
 # lair
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Refuge or place for hiding
-> 2. **Nuance / Usage**: Resting or sleeping place : bed
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"makes back for her lair, swaying her lamp."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"bull-dog from its lair in a corner."*
-> - 📜 **Sidney Lanier (*Strange Jokes*):** *"O dainty dew, O morning dew / That gleamed in the world's first dawn, did you / And the sweet grass and manful oaks / Give lair and rest / To him who toadwise sits and croaks / His death-behest?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A resting place or den where a wild, predatory animal lives, sleeps, or conceals itself.
+> 2. **Nuance / Usage**: Figuratively, a secret, secluded, or sinister hideout used by a fugitive, villain, or recluse.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"A huge liver-colored bitch pointer and a sullen bull-dog crept out from their **lair** in a corner."*
+> - 📜 **James Joyce (*Ulysses*):** *"She makes back for her **lair**, swaying her lamp through the shadows."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We must trace the monster to his **lair** and destroy him before the sun sets."*

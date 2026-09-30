@@ -5,15 +5,6 @@ status: unread
 ---
 # exhume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dig up for reburial or for medical investigation; of dead bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dig up for reburial or for medical investigation; of dead bodies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"This monster whose remains we were now exhuming was allied to the alligator, as one of the great family of lizards, and had died in the same manner--his head on the shores of the basin, his tail in its depths."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Several skeletons have been exhumed here within a few years, and the usual variety of relics found, such as hatchets, wampum, beads, &c."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The ware is soft and white like pipeclay, though still caked with the reddish loess clay from which it was exhumed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dig up for reburial or for medical investigation; of dead bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dig up for reburial or for medical investigation; of dead bodies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"This monster whose remains we were now exhuming was allied to the alligator, as one of the great family of lizards, and had died in the same manner--his head on the shores of the basin, his tail in its depths."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Several skeletons have been exhumed here within a few years, and the usual variety of relics found, such as hatchets, wampum, beads, &c."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The ware is soft and white like pipeclay, though still caked with the reddish loess clay from which it was exhumed."*

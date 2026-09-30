@@ -5,13 +5,6 @@ status: unread
 ---
 # pomeranian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed of very small compact long-haired dogs of the spitz type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed of very small compact long-haired dogs of the spitz type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomeranian designates breed of very small compact long-haired dogs of the spitz type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed of very small compact long-haired dogs of the spitz type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed of very small compact long-haired dogs of the spitz type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomeranian designates breed of very small compact long-haired dogs of the spitz type."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # geologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in geology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in geology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That the vulgar should believe in extraordinary comets traversing space, and in the existence of antediluvian monsters in the heart of the globe, may well be; but neither astronomer nor geologist believes in such chimeras."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Subsequent examinations showed this entire region to be one of remarkable interest to the geologist."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Only the enthusiasm of the student could have endured the discomfort, but to him it appeared a most unnecessary "conversion of force" that a geologist should be driven from the field by his own dust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in geology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in geology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That the vulgar should believe in extraordinary comets traversing space, and in the existence of antediluvian monsters in the heart of the globe, may well be; but neither astronomer nor geologist believes in such chimeras."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Subsequent examinations showed this entire region to be one of remarkable interest to the geologist."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Only the enthusiasm of the student could have endured the discomfort, but to him it appeared a most unnecessary "conversion of force" that a geologist should be driven from the field by his own dust."*

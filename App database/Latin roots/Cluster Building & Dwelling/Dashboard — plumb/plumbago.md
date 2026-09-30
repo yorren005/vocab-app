@@ -5,15 +5,6 @@ status: unread
 ---
 # plumbago
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as a lubricant and as a moderator in nuclear reactors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plumbaginaceous plant of the genus plumbago.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Crucibles, alembics, and retorts were confusedly piled in various corners, and on a small table I saw distributed in separate bottles a number of mineral and metallic substances, which I recognized as antimony, mercury, plumbago, arsenic, borax, etc."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Murray was the first to use plumbago, or black-lead, to give the surface of non-metallic bodies electro-conductive properties."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Having been coated with plumbago, this is then put into a vat containing a solution of copper salts and is used as the out-electrode, the other being a plate of copper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as a lubricant and as a moderator in nuclear reactors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plumbaginaceous plant of the genus plumbago.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Crucibles, alembics, and retorts were confusedly piled in various corners, and on a small table I saw distributed in separate bottles a number of mineral and metallic substances, which I recognized as antimony, mercury, plumbago, arsenic, borax, etc."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Murray was the first to use plumbago, or black-lead, to give the surface of non-metallic bodies electro-conductive properties."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Having been coated with plumbago, this is then put into a vat containing a solution of copper salts and is used as the out-electrode, the other being a plate of copper."*

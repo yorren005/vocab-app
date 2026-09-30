@@ -5,15 +5,6 @@ status: unread
 ---
 # adoring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing adoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men shut their doors against a setting sun. [_The Lords rise from table, with much adoring of Timon, and to show their loves each singles out an Amazon, and all dance, men with women, a lofty strain or two to the hautboys, and cease._] TIMON."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fair Burnet strikes th’ adoring eye, Heaven’s beauties on my fancy shine; I see the Sire of Love on high, And own His work indeed divine!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By all on high adoring mortals know!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing adoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men shut their doors against a setting sun. [_The Lords rise from table, with much adoring of Timon, and to show their loves each singles out an Amazon, and all dance, men with women, a lofty strain or two to the hautboys, and cease._] TIMON."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fair Burnet strikes th’ adoring eye, Heaven’s beauties on my fancy shine; I see the Sire of Love on high, And own His work indeed divine!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By all on high adoring mortals know!"*

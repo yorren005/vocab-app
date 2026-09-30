@@ -5,13 +5,6 @@ status: unread
 ---
 # dictatorially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an overbearingly domineering manner; as a dictator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an overbearingly domineering manner; as a dictator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Why will great people not only deafen us with the din of their equipage, and dazzle us with their fastidious pomp, but they must also be so very dictatorially wise?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an overbearingly domineering manner; as a dictator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an overbearingly domineering manner; as a dictator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Why will great people not only deafen us with the din of their equipage, and dazzle us with their fastidious pomp, but they must also be so very dictatorially wise?"*

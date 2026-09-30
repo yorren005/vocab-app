@@ -5,13 +5,6 @@ status: unread
 ---
 # dosage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity of an active agent (substance or radiation) taken in or absorbed at any one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measured portion of medicine taken at any one time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dosage designates the quantity of an active agent (substance or radiation) taken in or absorbed at any one time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity of an active agent (substance or radiation) taken in or absorbed at any one time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measured portion of medicine taken at any one time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dosage designates the quantity of an active agent (substance or radiation) taken in or absorbed at any one time."*

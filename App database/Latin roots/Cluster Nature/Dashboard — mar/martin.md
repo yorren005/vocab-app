@@ -5,15 +5,6 @@ status: unread
 ---
 # martin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French bishop who is a patron saint of france (died in 397).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actor and comedian (born in 1945).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Expect Saint Martin’s summer, halcyon’s days, Since I have entered into these wars."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were canopied, altar-shaped, and plain; their carvings being defaced and broken; their brasses torn from the matrices, the rivet-holes remaining like martin-holes in a sandcliff."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I, Martin Dupin (de la Clairière), had the honour of holding the office of Maire in the town of Semur, in the Haute Bourgogne, at the time when the following events occurred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French bishop who is a patron saint of france (died in 397).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actor and comedian (born in 1945).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Expect Saint Martin’s summer, halcyon’s days, Since I have entered into these wars."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were canopied, altar-shaped, and plain; their carvings being defaced and broken; their brasses torn from the matrices, the rivet-holes remaining like martin-holes in a sandcliff."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I, Martin Dupin (de la Clairière), had the honour of holding the office of Maire in the town of Semur, in the Haute Bourgogne, at the time when the following events occurred."*

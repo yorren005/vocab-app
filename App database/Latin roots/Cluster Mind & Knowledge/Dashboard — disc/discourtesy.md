@@ -5,15 +5,6 @@ status: unread
 ---
 # discourtesy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of lack of respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is rude and insulting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I shall unfold equal discourtesy To your best kindness; one of your great knowing Should learn, being taught, forbearance."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It was plain enough to discern that the old fellows dreaded some such discourtesy at my hands."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He complained of the discourtesy, and it was corrected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of lack of respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is rude and insulting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I shall unfold equal discourtesy To your best kindness; one of your great knowing Should learn, being taught, forbearance."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It was plain enough to discern that the old fellows dreaded some such discourtesy at my hands."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He complained of the discourtesy, and it was corrected."*

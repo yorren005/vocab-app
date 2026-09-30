@@ -5,13 +5,6 @@ status: unread
 ---
 # herpangia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpangia designates a viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpangia designates a viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tabulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange or enter in tabular form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or cut with a flat surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He cannot tabulate reasons; the thing, he says, was so clear that I was a long way past reasons."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"What parent ever analysed reasons for loving his children, or would tabulate them for you?"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It takes so many opinions on any given subject to satisfy Sallie that she ought to keep a tabulated advice-book."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange or enter in tabular form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or cut with a flat surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He cannot tabulate reasons; the thing, he says, was so clear that I was a long way past reasons."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"What parent ever analysed reasons for loving his children, or would tabulate them for you?"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It takes so many opinions on any given subject to satisfy Sallie that she ought to keep a tabulated advice-book."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # creamcups
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: California plant with small pale yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California plant with small pale yellow flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creamcups designates california plant with small pale yellow flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: California plant with small pale yellow flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California plant with small pale yellow flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creamcups designates california plant with small pale yellow flowers."*

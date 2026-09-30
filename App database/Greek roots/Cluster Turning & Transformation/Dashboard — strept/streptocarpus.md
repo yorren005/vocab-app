@@ -5,13 +5,6 @@ status: unread
 ---
 # streptocarpus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptocarpus designates any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptocarpus designates any of various plants of the genus streptocarpus having leaves in a basal rosette and flowers like primroses."*

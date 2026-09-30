@@ -5,15 +5,6 @@ status: unread
 ---
 # pantry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small storeroom for storing foods or wines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small storeroom for storing foods or wines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the guests are come, supper served up, you called, my young lady asked for, the Nurse cursed in the pantry, and everything in extremity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The cottage by the church, in which she again sat down, was almost the first at that end of the village, and while the woman fetched her some milk from the pantry, Tess, looking down the street, perceived that the place seemed quite deserted."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The tithe o’ what ye waste at cartes Wad stow’d his pantry!) Yet when a tale comes i’ my head, Or lassies gie my heart a screed— As whiles they’re like to be my dead, (O sad disease!) I kittle up my rustic reed; It gies me ease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small storeroom for storing foods or wines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small storeroom for storing foods or wines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the guests are come, supper served up, you called, my young lady asked for, the Nurse cursed in the pantry, and everything in extremity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The cottage by the church, in which she again sat down, was almost the first at that end of the village, and while the woman fetched her some milk from the pantry, Tess, looking down the street, perceived that the place seemed quite deserted."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The tithe o’ what ye waste at cartes Wad stow’d his pantry!) Yet when a tale comes i’ my head, Or lassies gie my heart a screed— As whiles they’re like to be my dead, (O sad disease!) I kittle up my rustic reed; It gies me ease."*

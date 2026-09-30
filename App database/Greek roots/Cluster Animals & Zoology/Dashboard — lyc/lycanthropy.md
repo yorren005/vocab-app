@@ -5,13 +5,6 @@ status: unread
 ---
 # lycanthropy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A delusion that one has become a wolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The assumption of the form and characteristics of a wolf held to be possible by witchcraft or magic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lycanthropy designates a delusion that one has become a wolf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delusion that one has become a wolf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The assumption of the form and characteristics of a wolf held to be possible by witchcraft or magic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lycanthropy designates a delusion that one has become a wolf."*

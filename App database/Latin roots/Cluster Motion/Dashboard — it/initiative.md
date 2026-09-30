@@ -5,15 +5,6 @@ status: unread
 ---
 # initiative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Readiness to embark on bold new ventures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first of a series of actions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the latter state, on the initiative of a public-spirited citizen of St."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was this undertaking of the initiative by the government, the treatment of the problem as one of the general welfare, that marked a new epoch in this field."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"With all your ability you'll never be worth more than six or seven hundred a year, for you've no initiative and you're as nervous as a cat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readiness to embark on bold new ventures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first of a series of actions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the latter state, on the initiative of a public-spirited citizen of St."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was this undertaking of the initiative by the government, the treatment of the problem as one of the general welfare, that marked a new epoch in this field."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"With all your ability you'll never be worth more than six or seven hundred a year, for you've no initiative and you're as nervous as a cat."*

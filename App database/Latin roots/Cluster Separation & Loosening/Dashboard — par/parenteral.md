@@ -5,13 +5,6 @@ status: unread
 ---
 # parenteral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administered by means other than through the alimentary tract (as by intramuscular or intravenous injection).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located outside the alimentary tract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parenteral designates administered by means other than through the alimentary tract (as by intramuscular or intravenous injection)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administered by means other than through the alimentary tract (as by intramuscular or intravenous injection).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located outside the alimentary tract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parenteral designates administered by means other than through the alimentary tract (as by intramuscular or intravenous injection)."*

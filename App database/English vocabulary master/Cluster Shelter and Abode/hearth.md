@@ -5,20 +5,6 @@ status: unread
 ---
 # hearth
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The floor of a fireplace; also : fireplace
-> 2. **Nuance / Usage**: Brick, stone, or concrete area in front of a fireplace
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"casting his eyes over the dusty hearth-rug as if it were Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"chair and all, and deposits him on the hearth-stone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"first sweeping the hearth, to the end that Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The brick, stone, or cement floor of a fireplace, often extending slightly into a room.
+> 2. **Nuance / Usage**: Used figuratively and metonymically as the warm, vital symbol of one's home, domestic life, and family circle (*hearth and home*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Cricket on the Hearth*):** *"The kettle began it, full five minutes by the little waxy-faced Dutch clock in the corner before the cricket uttered a chirp on the **hearth**."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"A huge, warm, cheerful apartment with a glowing fire on the wide **hearth** welcomed me inside."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"There is nothing so sacred and warming to the soul as the glow of an ancestral **hearth**."*

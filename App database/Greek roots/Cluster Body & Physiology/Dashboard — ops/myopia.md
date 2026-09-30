@@ -5,13 +5,6 @@ status: unread
 ---
 # myopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the visual images come to a focus in front of the retina of the eye resulting especially in defective vision of distant objects : nearsightedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of foresight or discernment : a narrow view of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The man with astigmatism, or myopia, or whatever else it is, must get the glasses that will show him the real world, and he is safe, and free to go and come as he pleases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the visual images come to a focus in front of the retina of the eye resulting especially in defective vision of distant objects : nearsightedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of foresight or discernment : a narrow view of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The man with astigmatism, or myopia, or whatever else it is, must get the glasses that will show him the real world, and he is safe, and free to go and come as he pleases."*

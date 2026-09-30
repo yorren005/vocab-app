@@ -5,13 +5,6 @@ status: unread
 ---
 # pithecanthropus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former genus of primitive apelike men now homo erectus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former genus of primitive apelike men now homo erectus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pithecanthropus designates former genus of primitive apelike men now homo erectus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Former genus of primitive apelike men now homo erectus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former genus of primitive apelike men now homo erectus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pithecanthropus designates former genus of primitive apelike men now homo erectus."*

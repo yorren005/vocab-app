@@ -5,13 +5,6 @@ status: unread
 ---
 # steller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German naturalist (1709-1746).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German naturalist (1709-1746).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steller designates german naturalist (1709-1746)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German naturalist (1709-1746).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German naturalist (1709-1746).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steller designates german naturalist (1709-1746)."*

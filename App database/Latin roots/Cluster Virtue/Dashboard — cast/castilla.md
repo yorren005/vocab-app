@@ -5,13 +5,6 @@ status: unread
 ---
 # castilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castilla designates a region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castilla designates a region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479."*

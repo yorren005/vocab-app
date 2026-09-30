@@ -5,13 +5,6 @@ status: unread
 ---
 # underdog
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One at a disadvantage and expected to lose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One at a disadvantage and expected to lose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdog designates one at a disadvantage and expected to lose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One at a disadvantage and expected to lose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One at a disadvantage and expected to lose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdog designates one at a disadvantage and expected to lose."*

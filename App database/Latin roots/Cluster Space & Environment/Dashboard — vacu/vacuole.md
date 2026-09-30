@@ -5,14 +5,6 @@ status: unread
 ---
 # vacuole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny cavity filled with fluid in the cytoplasm of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tiny cavity filled with fluid in the cytoplasm of a cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These enclose a granular matter, which surrounds what has been termed the nucleus, but which appears to be a vacuole."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"As in the case of the conidia, this body at first contains vacuoles, and is afterwards divided into polyhedric portions; these pass into zoospores, which congregate at the centre into a globular mass (Plate X. fig. 207)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny cavity filled with fluid in the cytoplasm of a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tiny cavity filled with fluid in the cytoplasm of a cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These enclose a granular matter, which surrounds what has been termed the nucleus, but which appears to be a vacuole."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"As in the case of the conidia, this body at first contains vacuoles, and is afterwards divided into polyhedric portions; these pass into zoospores, which congregate at the centre into a globular mass (Plate X. fig. 207)."*

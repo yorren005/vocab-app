@@ -5,15 +5,6 @@ status: unread
 ---
 # albert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prince consort of queen victoria of england (1819-1861).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prince consort of queen victoria of england (1819-1861).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bertrand, _La Religion des Gaulois_ (Paris, 1897), p. 117. [468] Albert Meyrac, _Traditions, Coutumes, Légendes, et Contes des Ardennes_ (Charleville, 1890), pp. 88 _sq._ [469] L.F."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He wore rather baggy grey shepherd’s check trousers, a not over-clean black frock-coat, unbuttoned in the front, and a drab waistcoat with a heavy brassy Albert chain, and a square pierced bit of metal dangling down as an ornament."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Was dressed, when last seen, in black frock-coat faced with silk, black waistcoat, gold Albert chain, and grey Harris tweed trousers, with brown gaiters over elastic-sided boots."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prince consort of queen victoria of england (1819-1861).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prince consort of queen victoria of england (1819-1861).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bertrand, _La Religion des Gaulois_ (Paris, 1897), p. 117. [468] Albert Meyrac, _Traditions, Coutumes, Légendes, et Contes des Ardennes_ (Charleville, 1890), pp. 88 _sq._ [469] L.F."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He wore rather baggy grey shepherd’s check trousers, a not over-clean black frock-coat, unbuttoned in the front, and a drab waistcoat with a heavy brassy Albert chain, and a square pierced bit of metal dangling down as an ornament."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Was dressed, when last seen, in black frock-coat faced with silk, black waistcoat, gold Albert chain, and grey Harris tweed trousers, with brown gaiters over elastic-sided boots."*

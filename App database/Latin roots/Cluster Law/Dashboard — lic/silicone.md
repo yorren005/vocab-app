@@ -5,13 +5,6 @@ status: unread
 ---
 # silicone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicone designates any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicone designates any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dishabille
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being carelessly or partially dressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being carelessly or partially dressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Wherever they went, some pattened girl stopped to curtsy, or some footman in dishabille sneaked off."*
-> - 📜 **Effie Afton (*Eventide*):** *"She thought it was at being caught from home in dishabille by a gentleman of the colonel's etiquette and high breeding."*
-> - 📜 **Effie Afton (*Eventide*):** *"They'll do for effect in the fashionable saloons of a city; but what think a wild Camanche would say if he chanced some broiling-hot morning to catch you in dishabille, and you begged him to retreat and spare your nerves?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being carelessly or partially dressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being carelessly or partially dressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Wherever they went, some pattened girl stopped to curtsy, or some footman in dishabille sneaked off."*
+> - 📜 **Effie Afton (*Eventide*):** *"She thought it was at being caught from home in dishabille by a gentleman of the colonel's etiquette and high breeding."*
+> - 📜 **Effie Afton (*Eventide*):** *"They'll do for effect in the fashionable saloons of a city; but what think a wild Camanche would say if he chanced some broiling-hot morning to catch you in dishabille, and you begged him to retreat and spare your nerves?"*

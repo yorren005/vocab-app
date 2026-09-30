@@ -5,15 +5,6 @@ status: unread
 ---
 # enumerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify individually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the number or amount of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Many things, needless to enumerate, press this upon my mind."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"We now proceed to enumerate some of the causes, of this deplorable state of feeling towards the _truth as it is in Jesus_."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I shall enumerate them by their forecastle appellations; for possibly such a list may be valuable to future investigators, who may complete what I have here but begun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify individually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the number or amount of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Many things, needless to enumerate, press this upon my mind."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"We now proceed to enumerate some of the causes, of this deplorable state of feeling towards the _truth as it is in Jesus_."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I shall enumerate them by their forecastle appellations; for possibly such a list may be valuable to future investigators, who may complete what I have here but begun."*

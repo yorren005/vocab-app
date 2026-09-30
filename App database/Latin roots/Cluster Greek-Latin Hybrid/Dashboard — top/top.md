@@ -5,15 +5,6 @@ status: unread
 ---
 # top
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper part of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest or uppermost side of anything.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper part of anything.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest or uppermost side of anything.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*

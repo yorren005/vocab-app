@@ -5,15 +5,6 @@ status: unread
 ---
 # arras
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wall hanging of heavy handwoven fabric with pictorial designs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wall hanging of heavy handwoven fabric with pictorial designs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be you and I behind an arras then, Mark the encounter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behind the arras I’ll convey myself To hear the process."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Withdraw, I hear him coming. [_Polonius goes behind the arras._] Enter Hamlet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wall hanging of heavy handwoven fabric with pictorial designs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wall hanging of heavy handwoven fabric with pictorial designs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be you and I behind an arras then, Mark the encounter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behind the arras I’ll convey myself To hear the process."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Withdraw, I hear him coming. [_Polonius goes behind the arras._] Enter Hamlet."*

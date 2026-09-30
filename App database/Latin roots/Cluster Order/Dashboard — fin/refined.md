@@ -5,15 +5,6 @@ status: unread
 ---
 # refined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improve or perfect by pruning or polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, forfend it, God, That in a Christian climate souls refined Should show so heinous, black, obscene a deed!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For that purpose a very refined German lady came to the castle very soon after Leonore's arrival."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improve or perfect by pruning or polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, forfend it, God, That in a Christian climate souls refined Should show so heinous, black, obscene a deed!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For that purpose a very refined German lady came to the castle very soon after Leonore's arrival."*

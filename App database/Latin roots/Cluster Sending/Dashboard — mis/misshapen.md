@@ -5,15 +5,6 @@ status: unread
 ---
 # misshapen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So badly formed or out of shape as to be ugly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So badly formed or out of shape as to be ugly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the Destinies to be avoided, As venom toads or lizards’ dreadful stings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lascivious Edward, and thou perjured George, And thou misshapen Dick, I tell ye all I am your better, traitors as ye are, And thou usurp’st my father’s right and mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On me, that halt and am misshapen thus?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So badly formed or out of shape as to be ugly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So badly formed or out of shape as to be ugly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the Destinies to be avoided, As venom toads or lizards’ dreadful stings."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lascivious Edward, and thou perjured George, And thou misshapen Dick, I tell ye all I am your better, traitors as ye are, And thou usurp’st my father’s right and mine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On me, that halt and am misshapen thus?"*

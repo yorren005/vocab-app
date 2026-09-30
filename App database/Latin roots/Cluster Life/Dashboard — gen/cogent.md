@@ -5,15 +5,6 @@ status: unread
 ---
 # cogent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerfully persuasive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powerfully persuasive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the last term of the definition is still more cogent, as coupled with the first."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Says Plowdon, the whale so caught belongs to the King and Queen, “because of its superior excellence.” And by the soundest commentators this has ever been held a cogent argument in such matters."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This is a cogent vice thou hast here, carpenter; let me feel its grip once."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerfully persuasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powerfully persuasive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the last term of the definition is still more cogent, as coupled with the first."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Says Plowdon, the whale so caught belongs to the King and Queen, “because of its superior excellence.” And by the soundest commentators this has ever been held a cogent argument in such matters."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This is a cogent vice thou hast here, carpenter; let me feel its grip once."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # subcontinent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and distinctive landmass (as india or greenland) that is a distinct part of some continent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and distinctive landmass (as india or greenland) that is a distinct part of some continent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcontinent designates a large and distinctive landmass (as india or greenland) that is a distinct part of some continent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and distinctive landmass (as india or greenland) that is a distinct part of some continent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and distinctive landmass (as india or greenland) that is a distinct part of some continent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcontinent designates a large and distinctive landmass (as india or greenland) that is a distinct part of some continent."*

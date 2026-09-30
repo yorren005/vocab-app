@@ -5,15 +5,6 @@ status: unread
 ---
 # generously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a generous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a generous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The heir presumptive, the very William Walter Elliot, Esq., whose rights had been so generously supported by her father, had disappointed her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I include amongst them the reviewers—by far the majority—who have so generously welcomed the tale."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But Jane will give me her love: yes—nobly, generously.” Up the blood rushed to his face; forth flashed the fire from his eyes; erect he sprang; he held his arms out; but I evaded the embrace, and at once quitted the room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a generous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a generous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"The heir presumptive, the very William Walter Elliot, Esq., whose rights had been so generously supported by her father, had disappointed her."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I include amongst them the reviewers—by far the majority—who have so generously welcomed the tale."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But Jane will give me her love: yes—nobly, generously.” Up the blood rushed to his face; forth flashed the fire from his eyes; erect he sprang; he held his arms out; but I evaded the embrace, and at once quitted the room."*

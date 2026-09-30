@@ -5,15 +5,6 @@ status: unread
 ---
 # pensively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pensive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pensive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, my good Lord Chamberlain. [_Exit Lord Chamberlain, and the King draws the curtain and sits reading pensively._] SUFFOLK."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was dusk when Oak, who had not been far a-field that day, took the same path and met her returning, quite pensively, as he thought."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess saw her three chamber-mates in a row against the wall, pensively inclining their heads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pensive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pensive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, my good Lord Chamberlain. [_Exit Lord Chamberlain, and the King draws the curtain and sits reading pensively._] SUFFOLK."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was dusk when Oak, who had not been far a-field that day, took the same path and met her returning, quite pensively, as he thought."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess saw her three chamber-mates in a row against the wall, pensively inclining their heads."*

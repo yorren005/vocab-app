@@ -5,13 +5,6 @@ status: unread
 ---
 # cello
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large stringed instrument; seated player holds it upright while playing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large stringed instrument; seated player holds it upright while playing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Tiresome shapers scraping fiddles, eye on the bowend, sawing the cello, remind you of toothache."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large stringed instrument; seated player holds it upright while playing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large stringed instrument; seated player holds it upright while playing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Tiresome shapers scraping fiddles, eye on the bowend, sawing the cello, remind you of toothache."*

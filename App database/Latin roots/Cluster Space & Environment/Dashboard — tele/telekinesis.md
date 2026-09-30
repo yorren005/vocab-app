@@ -5,13 +5,6 @@ status: unread
 ---
 # telekinesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to move something by thinking about it without the application of physical force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to move something by thinking about it without the application of physical force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telekinesis designates the power to move something by thinking about it without the application of physical force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to move something by thinking about it without the application of physical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to move something by thinking about it without the application of physical force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telekinesis designates the power to move something by thinking about it without the application of physical force."*

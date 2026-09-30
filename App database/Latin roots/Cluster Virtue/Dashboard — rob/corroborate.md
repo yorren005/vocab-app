@@ -5,15 +5,6 @@ status: unread
 ---
 # corroborate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give evidence for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His heart is fracted and corroborate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Lloyd, received his answer: it appeared that what he said went to corroborate my account."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"By all their vain reasonings and presumptuous objections, they just corroborate revealed truth, and evince the desperate wickedness of the natural heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give evidence for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His heart is fracted and corroborate."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Lloyd, received his answer: it appeared that what he said went to corroborate my account."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"By all their vain reasonings and presumptuous objections, they just corroborate revealed truth, and evince the desperate wickedness of the natural heart."*

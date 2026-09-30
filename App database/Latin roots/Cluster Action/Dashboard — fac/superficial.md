@@ -5,15 +5,6 @@ status: unread
 ---
 # superficial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, affecting, or being on or near the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very superficial, ignorant, unweighing fellow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the worst attacks of trouble there appears to be always a superficial film of consciousness which is left disengaged and open to the notice of trifles, and Bathsheba was faintly amused at the boy’s method, till he too passed on."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A superficial glance at the trade relations of an old, rich country with a new province seems to give evidence for such a belief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, affecting, or being on or near the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very superficial, ignorant, unweighing fellow."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the worst attacks of trouble there appears to be always a superficial film of consciousness which is left disengaged and open to the notice of trifles, and Bathsheba was faintly amused at the boy’s method, till he too passed on."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A superficial glance at the trade relations of an old, rich country with a new province seems to give evidence for such a belief."*

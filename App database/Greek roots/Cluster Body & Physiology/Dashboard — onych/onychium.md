@@ -5,13 +5,6 @@ status: unread
 ---
 # onychium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychium designates small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychium designates small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae."*

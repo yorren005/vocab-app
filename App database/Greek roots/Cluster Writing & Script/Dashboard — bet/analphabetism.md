@@ -5,13 +5,6 @@ status: unread
 ---
 # analphabetism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to read.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to read.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analphabetism designates an inability to read."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to read.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to read.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analphabetism designates an inability to read."*

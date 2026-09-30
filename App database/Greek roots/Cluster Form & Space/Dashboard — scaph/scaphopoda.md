@@ -5,13 +5,6 @@ status: unread
 ---
 # scaphopoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small class of bilaterally symmetrical marine forms comprising the tooth shells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small class of bilaterally symmetrical marine forms comprising the tooth shells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphopoda designates small class of bilaterally symmetrical marine forms comprising the tooth shells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small class of bilaterally symmetrical marine forms comprising the tooth shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small class of bilaterally symmetrical marine forms comprising the tooth shells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphopoda designates small class of bilaterally symmetrical marine forms comprising the tooth shells."*

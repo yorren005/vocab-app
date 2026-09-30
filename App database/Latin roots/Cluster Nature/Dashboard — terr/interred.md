@@ -5,15 +5,6 @@ status: unread
 ---
 # interred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a grave or tomb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placed in a grave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I Richard’s body have interred new, And on it have bestow’d more contrite tears Than from it issued forced drops of blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The evil that men do lives after them, The good is oft interred with their bones; So let it be with Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come now towards Chertsey with your holy load, Taken from Paul’s to be interred there; And still, as you are weary of this weight, Rest you, whiles I lament King Henry’s corse. [_They take up the bier._] Enter Richard, Duke of Gloucester."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a grave or tomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placed in a grave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I Richard’s body have interred new, And on it have bestow’d more contrite tears Than from it issued forced drops of blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The evil that men do lives after them, The good is oft interred with their bones; So let it be with Caesar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come now towards Chertsey with your holy load, Taken from Paul’s to be interred there; And still, as you are weary of this weight, Rest you, whiles I lament King Henry’s corse. [_They take up the bier._] Enter Richard, Duke of Gloucester."*

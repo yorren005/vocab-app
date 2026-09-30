@@ -5,15 +5,6 @@ status: unread
 ---
 # miscarriage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural loss of the products of conception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Say, Lassie, why, thy train amang, While loud the trump’s heroic clang, And sock or buskin skelp alang To death or marriage; Scarce ane has tried the shepherd—sang But wi’ miscarriage?"*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"That--over there,” answered Billy, impatiently, scarcely knowing whether to be more irritated at the threatened miscarriage of her cherished plans, or at Arkwright's (to her) wilfully blind insistence on her making her meaning more plain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The case is still worse, the pollution is still more deadly, if she has had a miscarriage or has been delivered of a stillborn child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of a plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural loss of the products of conception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Say, Lassie, why, thy train amang, While loud the trump’s heroic clang, And sock or buskin skelp alang To death or marriage; Scarce ane has tried the shepherd—sang But wi’ miscarriage?"*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"That--over there,” answered Billy, impatiently, scarcely knowing whether to be more irritated at the threatened miscarriage of her cherished plans, or at Arkwright's (to her) wilfully blind insistence on her making her meaning more plain."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The case is still worse, the pollution is still more deadly, if she has had a miscarriage or has been delivered of a stillborn child."*

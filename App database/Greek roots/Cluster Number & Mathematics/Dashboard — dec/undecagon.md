@@ -5,13 +5,6 @@ status: unread
 ---
 # undecagon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eleven-sided polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eleven-sided polygon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undecagon designates an eleven-sided polygon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eleven-sided polygon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eleven-sided polygon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undecagon designates an eleven-sided polygon."*

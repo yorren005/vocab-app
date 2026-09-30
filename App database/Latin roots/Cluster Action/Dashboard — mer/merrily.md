@@ -5,15 +5,6 @@ status: unread
 ---
 # merrily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joyous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a joyous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the noble housewife with the time, to entertain it so merrily with a fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look’d he or red or pale, or sad or merrily?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ended my business, and I will merrily accompany you home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joyous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a joyous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the noble housewife with the time, to entertain it so merrily with a fool."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look’d he or red or pale, or sad or merrily?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ended my business, and I will merrily accompany you home."*

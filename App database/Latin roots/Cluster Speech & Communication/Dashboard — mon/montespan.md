@@ -5,13 +5,6 @@ status: unread
 ---
 # montespan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French noblewoman who was mistress to louis xiv until he became attracted to madame de maintenon (1641-1707).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French noblewoman who was mistress to louis xiv until he became attracted to madame de maintenon (1641-1707).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montespan designates french noblewoman who was mistress to louis xiv until he became attracted to madame de maintenon (1641-1707)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French noblewoman who was mistress to louis xiv until he became attracted to madame de maintenon (1641-1707).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French noblewoman who was mistress to louis xiv until he became attracted to madame de maintenon (1641-1707).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montespan designates french noblewoman who was mistress to louis xiv until he became attracted to madame de maintenon (1641-1707)."*

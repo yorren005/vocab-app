@@ -5,14 +5,6 @@ status: unread
 ---
 # symbolise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent or identify by using a symbol; use symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It may serve, let us hope, to symbolise some sweet moral blossom that may be found along the track, or relieve the darkening close of a tale of human frailty and sorrow."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then the usual form of marriage is performed between the priest and his wife, symbolising the supposed union between Sun and Earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent or identify by using a symbol; use symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It may serve, let us hope, to symbolise some sweet moral blossom that may be found along the track, or relieve the darkening close of a tale of human frailty and sorrow."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then the usual form of marriage is performed between the priest and his wife, symbolising the supposed union between Sun and Earth."*

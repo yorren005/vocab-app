@@ -5,13 +5,6 @@ status: unread
 ---
 # blastula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastula designates an early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastula designates an early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells."*

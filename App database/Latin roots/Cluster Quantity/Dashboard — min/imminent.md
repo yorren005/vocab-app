@@ -5,15 +5,6 @@ status: unread
 ---
 # imminent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close in time; about to occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows how long it is I have to live, And it hath pleased him that three times today You have defended me from imminent death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And these does she apply for warnings and portents And evils imminent; and on her knee Hath begg’d that I will stay at home today."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Close in time; about to occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows how long it is I have to live, And it hath pleased him that three times today You have defended me from imminent death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And these does she apply for warnings and portents And evils imminent; and on her knee Hath begg’d that I will stay at home today."*

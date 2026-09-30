@@ -5,15 +5,6 @@ status: unread
 ---
 # nervous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily agitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or fraught with or showing anxiety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By that time we were so anxious and nervous that even Richard confessed, as we rattled over the stones of the old street, to feeling an irrational desire to drive back again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not bodily so much as nervous, nervous!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A nervous affection has probably as much to do with these demonstrations as any imbecile intention in the poor old woman, but on the present occasion they are so particularly lively in connexion with the Windsor arm-chair, fellow to that in which Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily agitated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or fraught with or showing anxiety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"By that time we were so anxious and nervous that even Richard confessed, as we rattled over the stones of the old street, to feeling an irrational desire to drive back again."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not bodily so much as nervous, nervous!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A nervous affection has probably as much to do with these demonstrations as any imbecile intention in the poor old woman, but on the present occasion they are so particularly lively in connexion with the Windsor arm-chair, fellow to that in which Mr."*

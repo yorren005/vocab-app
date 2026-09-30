@@ -5,13 +5,6 @@ status: unread
 ---
 # parsiism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faith of a zoroastrian sect in india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faith of a zoroastrian sect in india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parsiism designates the faith of a zoroastrian sect in india."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faith of a zoroastrian sect in india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faith of a zoroastrian sect in india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parsiism designates the faith of a zoroastrian sect in india."*

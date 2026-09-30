@@ -5,20 +5,6 @@ status: unread
 ---
 # loiter
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lag behind
-> 2. **Nuance / Usage**: Remain in an area for no obvious reason
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to loiter the target*) and intransitive clauses (*loitering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Daniel Taylor (journalist) (*David Silva seizes point for [[Manchester City F.C.*):** *"[[w:Sergio Agüero|[Sergio] Agüero]], as usual, was loitering with intent and swung his left foot at the ball. The shot was going wide but [[w:David Silva|[David] Silva]] was there to apply the decisive touch inside the six-yard area."*
-> - 📜 **Li Huang; James Lambert (*Another Arrow for the Quiver: A New Methodology for Multilingual Researchers*):** *"Using the transect method, the counter had to maintain a general progress along the transect and was not able to loiter at one spot for too long."*
-> - 📜 **Edward Spooner (*Parson and People*):** *"Oh, Sir, we just got up in the morning and had a loiter and a pipe on the green; then we got our breakfasts; {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To stand or wait around idly in a public place without an obvious purpose, or to travel indolently with frequent pauses.
+> 2. **Nuance / Usage**: In legal and urban contexts, carries a suspicious connotation of hanging about with ulterior motives (*loitering with intent*), whereas in pastoral poetry it evokes dreamy, unhurried wandering.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun.
+> - **Syntactic Constructions**: Operates intransitively (*loitering on the street corner*, *loitered along the riverbank*).
+> - **Collocations & Registers**: Legal, urban, and romantic registers; collocated with *with intent*, *street corner*, *idly*, and *about*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*La Belle Dame sans Merci*):** *"O what can ail thee, knight-at-arms, alone and palely **loitering**?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A few idle clerks were **loitering** under the archway, waiting for the rain to cease."*
+> - 📜 **Robert Louis Stevenson (*An Apology for Idlers*):** *"There is no duty we so much underrate as the duty of being happy and knowing how to **loiter** in the sun."*

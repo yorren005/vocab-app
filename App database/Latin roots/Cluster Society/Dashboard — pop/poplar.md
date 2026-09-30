@@ -5,15 +5,6 @@ status: unread
 ---
 # poplar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft light-colored non-durable wood of the poplar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous trees of north temperate regions having light soft wood and flowers borne in catkins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A poplar in the immediate foreground was like an ink stroke on burnished tin."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the same moment, while he was still reversed in his attitude, there was more light, and he saw, as it were, a copy of the tall poplar tree on the hill drawn in black on the wall of the barn."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fire is produced by rubbing a pole of poplar wood on a plank of poplar or fir wood and catching the sparks in tow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft light-colored non-durable wood of the poplar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous trees of north temperate regions having light soft wood and flowers borne in catkins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A poplar in the immediate foreground was like an ink stroke on burnished tin."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the same moment, while he was still reversed in his attitude, there was more light, and he saw, as it were, a copy of the tall poplar tree on the hill drawn in black on the wall of the barn."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fire is produced by rubbing a pole of poplar wood on a plank of poplar or fir wood and catching the sparks in tow."*

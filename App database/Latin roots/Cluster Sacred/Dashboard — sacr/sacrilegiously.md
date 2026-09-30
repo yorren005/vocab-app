@@ -5,14 +5,6 @@ status: unread
 ---
 # sacrilegiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sacrilegious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sacrilegious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Here, also, are some mutilated sepulchral effigies of ancient abbots, crosses, &c., from which the inlaid brasses have been sacrilegiously purloined."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I cursed them in my soul; they sacrilegiously disturbed my meditations on her who holds my heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sacrilegious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sacrilegious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Here, also, are some mutilated sepulchral effigies of ancient abbots, crosses, &c., from which the inlaid brasses have been sacrilegiously purloined."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I cursed them in my soul; they sacrilegiously disturbed my meditations on her who holds my heart."*

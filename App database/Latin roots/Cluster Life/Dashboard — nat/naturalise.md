@@ -5,13 +5,6 @@ status: unread
 ---
 # naturalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adopt to another place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more natural or lifelike.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Some who are cut off from all these proposals are become naturalised to the place, knowing they cannot subsist in any other situation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adopt to another place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more natural or lifelike.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Some who are cut off from all these proposals are become naturalised to the place, knowing they cannot subsist in any other situation."*

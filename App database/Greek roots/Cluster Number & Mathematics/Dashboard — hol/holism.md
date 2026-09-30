@@ -5,13 +5,6 @@ status: unread
 ---
 # holism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that the universe and especially living nature is correctly seen in terms of interacting wholes (as of living organisms) that are more than the mere sum of elementary particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study or method of treatment that is concerned with wholes or with complete systems : a holistic study or method of treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holism designates a theory that the universe and especially living nature is correctly seen in terms of interacting wholes (as of living organisms) that are more than the mere sum of elementary particles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that the universe and especially living nature is correctly seen in terms of interacting wholes (as of living organisms) that are more than the mere sum of elementary particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study or method of treatment that is concerned with wholes or with complete systems : a holistic study or method of treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holism designates a theory that the universe and especially living nature is correctly seen in terms of interacting wholes (as of living organisms) that are more than the mere sum of elementary particles."*

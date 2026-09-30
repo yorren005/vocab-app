@@ -5,15 +5,6 @@ status: unread
 ---
 # difficult
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy; requiring great physical or mental effort to accomplish or comprehend or endure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to control; ,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The next difficult and important question to be settled was, who should be allowed to sit beside Uncle Philip at dinner, because those next had the best chance to talk to him."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is very difficult to read my Sunday psalm in peace when I am given such a bitter soup of grief to swallow as I got yesterday."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She always found it difficult to quiet the little girl, but to-day she seemed filled by very vivid impressions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy; requiring great physical or mental effort to accomplish or comprehend or endure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to control; ,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The next difficult and important question to be settled was, who should be allowed to sit beside Uncle Philip at dinner, because those next had the best chance to talk to him."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is very difficult to read my Sunday psalm in peace when I am given such a bitter soup of grief to swallow as I got yesterday."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She always found it difficult to quiet the little girl, but to-day she seemed filled by very vivid impressions."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # jocasta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) queen of thebes who unknowingly married her own son oedipus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) queen of thebes who unknowingly married her own son oedipus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jocasta designates (greek mythology) queen of thebes who unknowingly married her own son oedipus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) queen of thebes who unknowingly married her own son oedipus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) queen of thebes who unknowingly married her own son oedipus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jocasta designates (greek mythology) queen of thebes who unknowingly married her own son oedipus."*

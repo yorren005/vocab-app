@@ -5,15 +5,6 @@ status: unread
 ---
 # pulsing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand and contract rhythmically; beat rhythmically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood?” she faltered, a guilty warmth pulsing in her face."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Flume was on the tunnel floor, blood pulsing from the neck of his headless torso."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand and contract rhythmically; beat rhythmically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood?” she faltered, a guilty warmth pulsing in her face."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Flume was on the tunnel floor, blood pulsing from the neck of his headless torso."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # ramshackle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In deplorable condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deplorable condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"All four of us, Mark, Plunk Smalley, Binney Jenks, and Tallow Martin, which is me, stood and looked at the big, ramshackle summer hotel and then looked at one another—and three of us grinned."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Here we are, four boys from Michigan, way up here in the mountains in a ramshackle hotel by ourselves, when we expected to be staying at a swell summer resort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In deplorable condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deplorable condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"All four of us, Mark, Plunk Smalley, Binney Jenks, and Tallow Martin, which is me, stood and looked at the big, ramshackle summer hotel and then looked at one another—and three of us grinned."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Here we are, four boys from Michigan, way up here in the mountains in a ramshackle hotel by ourselves, when we expected to be staying at a swell summer resort."*

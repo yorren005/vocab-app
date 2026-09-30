@@ -5,15 +5,6 @@ status: unread
 ---
 # barrage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rapid and continuous delivery of linguistic communication (spoken or written).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heavy fire of artillery to saturate an area rather than hit a specific target.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." Hodak directed a final lengthy barrage of rifle bursts at the entry."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Boomerang is caught in a barrage."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The barrage follows, but I'm not beaten yet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rapid and continuous delivery of linguistic communication (spoken or written).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heavy fire of artillery to saturate an area rather than hit a specific target.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." Hodak directed a final lengthy barrage of rifle bursts at the entry."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Boomerang is caught in a barrage."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The barrage follows, but I'm not beaten yet."*

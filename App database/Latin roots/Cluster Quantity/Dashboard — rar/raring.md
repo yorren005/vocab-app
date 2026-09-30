@@ -5,13 +5,6 @@ status: unread
 ---
 # raring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') full of eagerness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `to') full of eagerness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raring designates (usually followed by `to') full of eagerness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') full of eagerness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `to') full of eagerness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raring designates (usually followed by `to') full of eagerness."*

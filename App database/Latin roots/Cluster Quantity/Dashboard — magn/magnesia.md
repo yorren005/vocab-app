@@ -5,15 +5,6 @@ status: unread
 ---
 # magnesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A certain image of Apollo, which stood in a sacred cave at Hylae near Magnesia, was thought to impart superhuman strength."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Magnesia on the Maeander an image of Dionysus is said to have been found in a plane-tree, which had been broken by the wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A certain image of Apollo, which stood in a sacred cave at Hylae near Magnesia, was thought to impart superhuman strength."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Magnesia on the Maeander an image of Dionysus is said to have been found in a plane-tree, which had been broken by the wind."*

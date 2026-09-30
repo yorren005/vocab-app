@@ -5,13 +5,6 @@ status: unread
 ---
 # fuss-budget
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinks about unfortunate things that might happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thinks about unfortunate things that might happen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fuss-budget designates thinks about unfortunate things that might happen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinks about unfortunate things that might happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thinks about unfortunate things that might happen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fuss-budget designates thinks about unfortunate things that might happen."*

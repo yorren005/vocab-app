@@ -5,13 +5,6 @@ status: unread
 ---
 # physiotherapist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiotherapist designates therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiotherapist designates therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder."*

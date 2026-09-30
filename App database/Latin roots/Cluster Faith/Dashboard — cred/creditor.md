@@ -5,15 +5,6 @@ status: unread
 ---
 # creditor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person to whom money is owed by a debtor; someone to whom an obligation exists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person to whom money is owed by a debtor; someone to whom an obligation exists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will discharge thee ere I go from thee; Bear me forthwith unto his creditor, And knowing how the debt grows, I will pay it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have no true debitor and creditor but it; of what’s past, is, and to come, the discharge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this wall of flesh There is a soul counts thee her creditor, And with advantage means to pay thy love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person to whom money is owed by a debtor; someone to whom an obligation exists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person to whom money is owed by a debtor; someone to whom an obligation exists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will discharge thee ere I go from thee; Bear me forthwith unto his creditor, And knowing how the debt grows, I will pay it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have no true debitor and creditor but it; of what’s past, is, and to come, the discharge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this wall of flesh There is a soul counts thee her creditor, And with advantage means to pay thy love."*

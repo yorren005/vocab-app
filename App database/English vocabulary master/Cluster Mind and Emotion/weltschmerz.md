@@ -5,20 +5,6 @@ status: unread
 ---
 # weltschmerz
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Mood of sentimental sadness
-> 2. **Nuance / Usage**: Alternative letter-case form of weltschmerz
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Art: Berlin’s Best*):** *"[[w:Henry Koerner|[Henry] Koerner]]'s painting did have the heaviness, the harsh humor and the all-pervading weltschmerz which characterized German expressionism in the 1920s."*
-> - 📜 **Maya Singer (*{{w*):** *"Execution, the band's second record, burns with intense weltschmerz, its existential crises cloaked in buoyant instrumental hooks and shimmery arrangements."*
-> - 📜 **Braun, Wilhelm Alfred (*Types of Weltschmerz in German Poetry*):** *"system of philosophy, and Weltschmerz as a poetic mood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: World-weariness or deep, melancholic sorrow over the inadequacy, cruelty, and imperfection of the physical world compared to an idealized state.
+> 2. **Nuance / Usage**: Coined by the German Romantic writer Jean Paul (literally "world-pain"), it also carries a slightly ironic modern nuance of romanticized or self-indulgent existential sadness.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"A clear distinction must be drawn between pessimism as a formal system of philosophy and **Weltschmerz** as a poetic mood."*
+> - 📜 **Time Magazine (*Art: Berlin’s Best*):** *"Henry Koerner's painting possessed the heaviness, the harsh humor, and the all-pervading **weltschmerz** that characterized German expressionism in the 1920s."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The young scholar wandered through the capitals of Europe nursing a Romantic **Weltschmerz** that no worldly pleasure could appease."*

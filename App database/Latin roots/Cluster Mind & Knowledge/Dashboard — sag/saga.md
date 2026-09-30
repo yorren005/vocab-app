@@ -5,15 +5,6 @@ status: unread
 ---
 # saga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled iceland and their descendants but now any prose narrative that resembles such an account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled iceland and their descendants but now any prose narrative that resembles such an account.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Müller (Copenhagen, 1839-1858), _lib._ iii. vol. i. pp. 110 _sqq._; _The First Nine Books of the Danish History of Saxo Grammaticus_, translated by Oliver Elton (London, 1894), pp. 83-93. [260] _Fridthjofs Saga, aus dem Alt-isländischen_, von J.C."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Heanley, "The Vikings: traces of their Folklore in Marshland," a paper read before the Viking Club, London, and printed in its _Saga-Book_, vol. iii."*
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Killings LIFE AND DEATH OF CORMAC THE SKALD By Unknown Author Originally written in Icelandic sometime between 1250 - 1300 A.D. although parts may be based on a now lost 12th century saga."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled iceland and their descendants but now any prose narrative that resembles such an account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled iceland and their descendants but now any prose narrative that resembles such an account.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Müller (Copenhagen, 1839-1858), _lib._ iii. vol. i. pp. 110 _sqq._; _The First Nine Books of the Danish History of Saxo Grammaticus_, translated by Oliver Elton (London, 1894), pp. 83-93. [260] _Fridthjofs Saga, aus dem Alt-isländischen_, von J.C."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Heanley, "The Vikings: traces of their Folklore in Marshland," a paper read before the Viking Club, London, and printed in its _Saga-Book_, vol. iii."*
+> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Killings LIFE AND DEATH OF CORMAC THE SKALD By Unknown Author Originally written in Icelandic sometime between 1250 - 1300 A.D. although parts may be based on a now lost 12th century saga."*

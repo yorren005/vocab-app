@@ -5,13 +5,6 @@ status: unread
 ---
 # liberalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make liberal or more liberal, of laws and rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more liberal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The scattered tribes of the Fatherland now worship at the altar of German unity, with a liberalized Empire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make liberal or more liberal, of laws and rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more liberal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The scattered tribes of the Fatherland now worship at the altar of German unity, with a liberalized Empire."*

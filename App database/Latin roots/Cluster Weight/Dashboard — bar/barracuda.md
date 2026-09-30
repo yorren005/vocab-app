@@ -5,13 +5,6 @@ status: unread
 ---
 # barracuda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barracuda designates any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barracuda designates any voracious marine fish of the genus sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth."*

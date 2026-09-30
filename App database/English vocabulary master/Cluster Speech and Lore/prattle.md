@@ -5,20 +5,6 @@ status: unread
 ---
 # prattle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Prate
-> 2. **Nuance / Usage**: Silly, childish talk; babble
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to prattle the target*) and intransitive clauses (*prattling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"myself another of Bajazet’s mule, if you prattle me into these perils."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As very infants prattle of thy pride."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I would he had some cause to prattle for himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Prate
+> 2. **Nuance / Usage**: Silly, childish talk; babble
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to prattle the target*) and intransitive clauses (*prattling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"myself another of Bajazet’s mule, if you prattle me into these perils."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As very infants prattle of thy pride."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I would he had some cause to prattle for himself."*

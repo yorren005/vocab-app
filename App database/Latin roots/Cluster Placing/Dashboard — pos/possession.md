@@ -5,15 +5,6 @@ status: unread
 ---
 # possession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of having and controlling property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything owned or possessed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad in pursuit and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of having and controlling property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything owned or possessed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad in pursuit and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*

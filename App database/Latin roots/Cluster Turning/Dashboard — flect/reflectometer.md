@@ -5,13 +5,6 @@ status: unread
 ---
 # reflectometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meter that measures the reflectance of a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meter that measures the reflectance of a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectometer designates a meter that measures the reflectance of a surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meter that measures the reflectance of a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meter that measures the reflectance of a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectometer designates a meter that measures the reflectance of a surface."*

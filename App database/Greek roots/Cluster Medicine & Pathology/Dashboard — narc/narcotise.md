@@ -5,13 +5,6 @@ status: unread
 ---
 # narcotise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer narcotics to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer narcotics to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotise designates administer narcotics to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer narcotics to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer narcotics to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotise designates administer narcotics to."*

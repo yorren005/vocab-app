@@ -5,15 +5,6 @@ status: unread
 ---
 # impost
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money collected under a tariff.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest stone in an arch -- from which it springs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We will presume, for argument’s sake, that the revenue arising from the impost duties answers the purposes of a provision for the public debt and of a peace establishment for the Union."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It became necessary to adapt our laws, and especially our laws of impost, to the new circumstances in which we found ourselves."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An impost on corn there, it is clear, would now produce an exodus of her laboring population that would soon leave the banner of Victoria waving over a second-rate power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money collected under a tariff.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest stone in an arch -- from which it springs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We will presume, for argument’s sake, that the revenue arising from the impost duties answers the purposes of a provision for the public debt and of a peace establishment for the Union."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It became necessary to adapt our laws, and especially our laws of impost, to the new circumstances in which we found ourselves."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An impost on corn there, it is clear, would now produce an exodus of her laboring population that would soon leave the banner of Victoria waving over a second-rate power."*

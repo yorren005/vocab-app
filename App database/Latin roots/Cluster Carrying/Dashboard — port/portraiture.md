@@ -5,15 +5,6 @@ status: unread
 ---
 # portraiture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of making portraits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I am very sorry, good Horatio, That to Laertes I forgot myself; For by the image of my cause I see The portraiture of his."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"There is nothing in literature more remarkable than the impression produced by Dana’s portraiture of the homely inner life of a little brig’s forecastle."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If ‘Bishop Blougram’s Apology’, in many of its circumstances and touches, suggests the thought of actual portraiture, recalling a form and face once familiar to us, . . .it is also a picture of a class of minds which we meet with everywhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of making portraits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I am very sorry, good Horatio, That to Laertes I forgot myself; For by the image of my cause I see The portraiture of his."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"There is nothing in literature more remarkable than the impression produced by Dana’s portraiture of the homely inner life of a little brig’s forecastle."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If ‘Bishop Blougram’s Apology’, in many of its circumstances and touches, suggests the thought of actual portraiture, recalling a form and face once familiar to us, . . .it is also a picture of a class of minds which we meet with everywhere."*

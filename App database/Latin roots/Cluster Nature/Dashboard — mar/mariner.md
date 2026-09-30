@@ -5,15 +5,6 @@ status: unread
 ---
 # mariner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who serves as a sailor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who serves as a sailor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mariner, say what coast is this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thither, gentle mariner, Alter thy course for Tyre."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go thy ways, good mariner: I’ll bring the body presently. [_Exeunt._] SCENE II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who serves as a sailor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who serves as a sailor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mariner, say what coast is this?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thither, gentle mariner, Alter thy course for Tyre."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go thy ways, good mariner: I’ll bring the body presently. [_Exeunt._] SCENE II."*

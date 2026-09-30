@@ -5,13 +5,6 @@ status: unread
 ---
 # meriones
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cricetidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of cricetidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Ah! see you not where (fatal to your race) Laertes' son comes with the Pylean sage; Fearless alike, with Teucer joins the chase Stenelaus, skill'd the fistic strife to wage, Nor less expert the fiery steeds to quell; And Meriones, you must know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cricetidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of cricetidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Ah! see you not where (fatal to your race) Laertes' son comes with the Pylean sage; Fearless alike, with Teucer joins the chase Stenelaus, skill'd the fistic strife to wage, Nor less expert the fiery steeds to quell; And Meriones, you must know."*

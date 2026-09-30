@@ -5,15 +5,6 @@ status: unread
 ---
 # press
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of demanding notice or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The print media responsible for gathering and publishing news in the form of newspapers or magazines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear according as marriage binds and blood breaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sister, I am press’d down with conceit; Conceit, my comfort and my injury. [_Exeunt._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of demanding notice or attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The print media responsible for gathering and publishing news in the form of newspapers or magazines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear according as marriage binds and blood breaks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sister, I am press’d down with conceit; Conceit, my comfort and my injury. [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*

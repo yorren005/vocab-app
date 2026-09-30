@@ -5,15 +5,6 @@ status: unread
 ---
 # incompleteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being crude and incomplete and imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being crude and incomplete and imperfect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Philosophy could remove this sense of incompleteness, but only at the cost of love; and love was to Virgil, as his poetry shows, the very essence of life."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Further, the whole story of AEneas is an utterance of man's craving for God, of the sense of man's incompleteness without a divine complement."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The apprehension of dying suddenly, and leaving one fact or one figure with any incompleteness or obscurity attaching to it, would have stretched Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being crude and incomplete and imperfect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being crude and incomplete and imperfect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Philosophy could remove this sense of incompleteness, but only at the cost of love; and love was to Virgil, as his poetry shows, the very essence of life."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Further, the whole story of AEneas is an utterance of man's craving for God, of the sense of man's incompleteness without a divine complement."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The apprehension of dying suddenly, and leaving one fact or one figure with any incompleteness or obscurity attaching to it, would have stretched Mr."*

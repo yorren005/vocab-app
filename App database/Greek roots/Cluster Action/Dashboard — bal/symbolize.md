@@ -5,15 +5,6 @@ status: unread
 ---
 # symbolize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To serve as a symbol of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent, express, or identify by a symbol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness, no man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To serve as a symbol of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent, express, or identify by a symbol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness, no man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # relative-in-law
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relative by marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative by marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relative-in-law designates a relative by marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relative by marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative by marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relative-in-law designates a relative by marriage."*

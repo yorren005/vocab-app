@@ -5,13 +5,6 @@ status: unread
 ---
 # hexagon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of six angles and six sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon of six angles and six sides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The day being the sixth of April, the Durbeyfield waggon met many other waggons with families on the summit of the load, which was built on a wellnigh unvarying principle, as peculiar, probably, to the rural labourer as the hexagon to the bee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of six angles and six sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon of six angles and six sides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The day being the sixth of April, the Durbeyfield waggon met many other waggons with families on the summit of the load, which was built on a wellnigh unvarying principle, as peculiar, probably, to the rural labourer as the hexagon to the bee."*

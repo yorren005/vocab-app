@@ -5,13 +5,6 @@ status: unread
 ---
 # divagation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that departs from the main subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turning aside (of your course or attention or concern).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Let us be set down at Queen's Crawley without further divagation, and see how Miss Rebecca Sharp speeds there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that departs from the main subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turning aside (of your course or attention or concern).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Let us be set down at Queen's Crawley without further divagation, and see how Miss Rebecca Sharp speeds there."*

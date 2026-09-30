@@ -5,13 +5,6 @@ status: unread
 ---
 # dehumanize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of human qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mechanical or routine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I combat it as having a tendency to dehumanize the negro—to take away from him the right of ever striving to be a man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of human qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mechanical or routine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I combat it as having a tendency to dehumanize the negro—to take away from him the right of ever striving to be a man."*

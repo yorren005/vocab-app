@@ -5,13 +5,6 @@ status: unread
 ---
 # perfidiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Betrayal of a trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Betrayal of a trust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfidiousness designates betrayal of a trust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Betrayal of a trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Betrayal of a trust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfidiousness designates betrayal of a trust."*

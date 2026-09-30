@@ -5,13 +5,6 @@ status: unread
 ---
 # arsine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsine designates a poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsine designates a poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare."*

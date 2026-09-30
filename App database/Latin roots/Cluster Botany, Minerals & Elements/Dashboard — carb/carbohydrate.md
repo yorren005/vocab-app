@@ -5,15 +5,6 @@ status: unread
 ---
 # carbohydrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They possessed attributes known as proteids, fats, and carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now in selecting the diet for the day you should take care to choose those foods which give the proteins, fats, and carbohydrates in just the right proportion.'” “Oh, Billy!” groaned Bertram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They possessed attributes known as proteids, fats, and carbohydrates."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now in selecting the diet for the day you should take care to choose those foods which give the proteins, fats, and carbohydrates in just the right proportion.'” “Oh, Billy!” groaned Bertram."*

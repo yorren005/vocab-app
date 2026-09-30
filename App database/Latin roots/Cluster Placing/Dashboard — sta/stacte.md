@@ -5,13 +5,6 @@ status: unread
 ---
 # stacte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) one of several sweet-smelling spices used in incense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) one of several sweet-smelling spices used in incense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stacte designates (old testament) one of several sweet-smelling spices used in incense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) one of several sweet-smelling spices used in incense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) one of several sweet-smelling spices used in incense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stacte designates (old testament) one of several sweet-smelling spices used in incense."*

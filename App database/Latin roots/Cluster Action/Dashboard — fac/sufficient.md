@@ -5,15 +5,6 @@ status: unread
 ---
 # sufficient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a quantity that can fulfill a need or requirement but without being abundant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity that can fulfill a need or requirement but without being abundant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I bring you no sufficient testimony that I have enjoy’d the dearest bodily part of your mistress, my ten thousand ducats are yours; so is your diamond too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you provided me here half a dozen sufficient men?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They of those marches, gracious sovereign, Shall be a wall sufficient to defend Our inland from the pilfering borderers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a quantity that can fulfill a need or requirement but without being abundant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity that can fulfill a need or requirement but without being abundant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I bring you no sufficient testimony that I have enjoy’d the dearest bodily part of your mistress, my ten thousand ducats are yours; so is your diamond too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you provided me here half a dozen sufficient men?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They of those marches, gracious sovereign, Shall be a wall sufficient to defend Our inland from the pilfering borderers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parsonage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official residence provided by a church for its parson or vicar or rector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official residence provided by a church for its parson or vicar or rector.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lawrence Boythorn, and has to call his attention to the fact that the green pathway by the old parsonage-house, now the property of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He lived in a pretty house, formerly the parsonage house, with a lawn in front, a bright flower-garden at the side, and a well-stocked orchard and kitchen-garden in the rear, enclosed with a venerable wall that had of itself a ripened ruddy look."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXXIX It was three weeks after the marriage that Clare found himself descending the hill which led to the well-known parsonage of his father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official residence provided by a church for its parson or vicar or rector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official residence provided by a church for its parson or vicar or rector.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lawrence Boythorn, and has to call his attention to the fact that the green pathway by the old parsonage-house, now the property of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He lived in a pretty house, formerly the parsonage house, with a lawn in front, a bright flower-garden at the side, and a well-stocked orchard and kitchen-garden in the rear, enclosed with a venerable wall that had of itself a ripened ruddy look."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXXIX It was three weeks after the marriage that Clare found himself descending the hill which led to the well-known parsonage of his father."*

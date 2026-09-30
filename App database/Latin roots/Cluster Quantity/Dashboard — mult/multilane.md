@@ -5,13 +5,6 @@ status: unread
 ---
 # multilane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of roads and highways) having two or more lanes for traffic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of roads and highways) having two or more lanes for traffic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilane designates (of roads and highways) having two or more lanes for traffic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of roads and highways) having two or more lanes for traffic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of roads and highways) having two or more lanes for traffic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilane designates (of roads and highways) having two or more lanes for traffic."*

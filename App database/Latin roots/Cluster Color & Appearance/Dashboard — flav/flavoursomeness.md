@@ -5,13 +5,6 @@ status: unread
 ---
 # flavoursomeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an appetizing flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an appetizing flavor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavoursomeness designates having an appetizing flavor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an appetizing flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an appetizing flavor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavoursomeness designates having an appetizing flavor."*

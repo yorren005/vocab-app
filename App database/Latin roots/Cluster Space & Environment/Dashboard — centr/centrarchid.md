@@ -5,13 +5,6 @@ status: unread
 ---
 # centrarchid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrarchid designates small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrarchid designates small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed."*

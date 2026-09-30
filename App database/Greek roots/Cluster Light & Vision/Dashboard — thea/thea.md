@@ -5,13 +5,6 @@ status: unread
 ---
 # thea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thea designates (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thea designates (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology."*

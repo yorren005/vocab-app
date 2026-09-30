@@ -5,13 +5,6 @@ status: unread
 ---
 # introversive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Directed inward; marked by interest in yourself or concerned with inner feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed inward; marked by interest in yourself or concerned with inner feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introversive designates directed inward; marked by interest in yourself or concerned with inner feelings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directed inward; marked by interest in yourself or concerned with inner feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed inward; marked by interest in yourself or concerned with inner feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introversive designates directed inward; marked by interest in yourself or concerned with inner feelings."*

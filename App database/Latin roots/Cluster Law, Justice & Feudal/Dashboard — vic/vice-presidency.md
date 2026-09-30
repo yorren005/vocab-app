@@ -5,13 +5,6 @@ status: unread
 ---
 # vice-presidency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenure of a vice president.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and function of a vice president.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-presidency designates the tenure of a vice president."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenure of a vice president.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and function of a vice president.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-presidency designates the tenure of a vice president."*

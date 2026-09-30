@@ -5,13 +5,6 @@ status: unread
 ---
 # spinmeister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinmeister designates a public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinmeister designates a public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # beneficed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endow with a benefice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a benefice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He will even speak well of the bishop, though I tell him it is unnatural in a beneficed clergyman; what can one do with a husband who attends so little to the decencies?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Having a contempt for curates, whom he always called understrappers, he was resolved to be buried by a beneficed clergyman."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is the well-beneficed point of view, you perceive, from which difficulties are much simplified,” he ended, smiling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endow with a benefice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a benefice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He will even speak well of the bishop, though I tell him it is unnatural in a beneficed clergyman; what can one do with a husband who attends so little to the decencies?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Having a contempt for curates, whom he always called understrappers, he was resolved to be buried by a beneficed clergyman."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That is the well-beneficed point of view, you perceive, from which difficulties are much simplified,” he ended, smiling."*

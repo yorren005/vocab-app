@@ -5,15 +5,6 @@ status: unread
 ---
 # artistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of art or artists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Satisfying aesthetic standards and sensibilities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There IS a way,” says Phil with a highly artistic turn of his brush; “what I’m a-doing at present.” “Whitewashing.” Phil nods."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood went meditating down the slopes with his eyes on his boots, which the yellow pollen from the buttercups had bronzed in artistic gradations."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never till now estimated the artistic excellence of Tess’s limbs and features."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of art or artists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Satisfying aesthetic standards and sensibilities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There IS a way,” says Phil with a highly artistic turn of his brush; “what I’m a-doing at present.” “Whitewashing.” Phil nods."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood went meditating down the slopes with his eyes on his boots, which the yellow pollen from the buttercups had bronzed in artistic gradations."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never till now estimated the artistic excellence of Tess’s limbs and features."*

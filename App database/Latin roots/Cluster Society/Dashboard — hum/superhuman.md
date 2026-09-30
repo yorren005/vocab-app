@@ -5,15 +5,6 @@ status: unread
 ---
 # superhuman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Above or beyond the human or demanding more than human power or endurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Above or beyond the human or demanding more than human power or endurance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The simple consciousness that superhuman strain was no longer required had at once put a period to her power to continue it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"What made the captain steer his ship in the very opposite direction to what he and his crew wanted to go, but the _superhuman Spirit of God_."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"For them he is the "banner of freedom," which, "Torn but flying, Streams like a thunder-cloud against the wind." He has suffered that worst indignity of canonisation as a being saintly and superhuman, not subject to the morality of ordinary mortals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Above or beyond the human or demanding more than human power or endurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Above or beyond the human or demanding more than human power or endurance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The simple consciousness that superhuman strain was no longer required had at once put a period to her power to continue it."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"What made the captain steer his ship in the very opposite direction to what he and his crew wanted to go, but the _superhuman Spirit of God_."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"For them he is the "banner of freedom," which, "Torn but flying, Streams like a thunder-cloud against the wind." He has suffered that worst indignity of canonisation as a being saintly and superhuman, not subject to the morality of ordinary mortals."*

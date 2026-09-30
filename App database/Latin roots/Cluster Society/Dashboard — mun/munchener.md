@@ -5,13 +5,6 @@ status: unread
 ---
 # munchener
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark lager produced in munich since the 10th century; has a distinctive taste of malt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark lager produced in munich since the 10th century; has a distinctive taste of malt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, munchener designates a dark lager produced in munich since the 10th century; has a distinctive taste of malt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark lager produced in munich since the 10th century; has a distinctive taste of malt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark lager produced in munich since the 10th century; has a distinctive taste of malt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, munchener designates a dark lager produced in munich since the 10th century; has a distinctive taste of malt."*

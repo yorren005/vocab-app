@@ -5,15 +5,6 @@ status: unread
 ---
 # cognisance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having knowledge of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"Christian is she by very cognisance."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"There may be many and the most dangerous infractions on the part of Congress, of which it is conceded by all, the court, as a judicial tribunal, cannot from its nature take cognisance."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But supposing it competent to take cognisance of all infractions of every description, the insuperable objection still remains, that it would not be a safe tribunal to exercise the power in question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having knowledge of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Song of Roland*):** *"Christian is she by very cognisance."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"There may be many and the most dangerous infractions on the part of Congress, of which it is conceded by all, the court, as a judicial tribunal, cannot from its nature take cognisance."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But supposing it competent to take cognisance of all infractions of every description, the insuperable objection still remains, that it would not be a safe tribunal to exercise the power in question."*

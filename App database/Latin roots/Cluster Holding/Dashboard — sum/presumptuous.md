@@ -5,15 +5,6 @@ status: unread
 ---
 # presumptuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively forward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous priest, this place commands my patience, Or thou shouldst find thou hast dishonour’d me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively forward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous priest, this place commands my patience, Or thou shouldst find thou hast dishonour’d me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*

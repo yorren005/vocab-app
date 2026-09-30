@@ -5,13 +5,6 @@ status: unread
 ---
 # microspore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microspore designates any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microspore designates any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore."*

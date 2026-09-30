@@ -5,15 +5,6 @@ status: unread
 ---
 # paramount
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having superior power and influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Those interests are now paramount in this office."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They are paramount in the thoughts of a professional man like myself, who wishes to preserve a good name among his fellow-practitioners and society at large."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A letter to his father, which has not been preserved, announced that his views and feelings with regard to spiritual things had undergone a great and far-reaching change, and that religion had become to him a matter of personal and paramount concern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having superior power and influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Those interests are now paramount in this office."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They are paramount in the thoughts of a professional man like myself, who wishes to preserve a good name among his fellow-practitioners and society at large."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"A letter to his father, which has not been preserved, announced that his views and feelings with regard to spiritual things had undergone a great and far-reaching change, and that religion had become to him a matter of personal and paramount concern."*

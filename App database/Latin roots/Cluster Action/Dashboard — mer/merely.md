@@ -5,15 +5,6 @@ status: unread
 ---
 # merely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: And nothing more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: And nothing more.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I could reply: If we should serve with horse and mares together, The horse were merely lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine honour was not yielded, But conquered merely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts, His acts being seven ages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: And nothing more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: And nothing more.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I could reply: If we should serve with horse and mares together, The horse were merely lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine honour was not yielded, But conquered merely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts, His acts being seven ages."*

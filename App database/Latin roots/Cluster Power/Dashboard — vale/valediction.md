@@ -5,13 +5,6 @@ status: unread
 ---
 # valediction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of saying farewell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valediction designates a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of saying farewell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valediction designates a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)."*

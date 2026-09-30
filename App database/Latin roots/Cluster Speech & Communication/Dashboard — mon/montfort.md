@@ -5,13 +5,6 @@ status: unread
 ---
 # montfort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An english nobleman who led the baronial rebellion against henry iii (1208-1265).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An english nobleman who led the baronial rebellion against henry iii (1208-1265).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montfort designates an english nobleman who led the baronial rebellion against henry iii (1208-1265)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An english nobleman who led the baronial rebellion against henry iii (1208-1265).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An english nobleman who led the baronial rebellion against henry iii (1208-1265).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montfort designates an english nobleman who led the baronial rebellion against henry iii (1208-1265)."*

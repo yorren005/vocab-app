@@ -5,15 +5,6 @@ status: unread
 ---
 # allotropic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or exhibiting allotropism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or exhibiting allotropism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Just let me tell you, to use a very hard word, that we call the diamond an "allotropic" form of carbon."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Allotropic means an element with another _form_ to it--the diamond is simply an allotropic form of carbon."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now I hope you understand the meaning of that learned word _allotropic_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or exhibiting allotropism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or exhibiting allotropism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Just let me tell you, to use a very hard word, that we call the diamond an "allotropic" form of carbon."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Allotropic means an element with another _form_ to it--the diamond is simply an allotropic form of carbon."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now I hope you understand the meaning of that learned word _allotropic_."*

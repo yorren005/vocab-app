@@ -5,13 +5,6 @@ status: unread
 ---
 # imbibition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the absorption of a liquid by a solid or gel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consuming liquids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imbibition designates (chemistry) the absorption of a liquid by a solid or gel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the absorption of a liquid by a solid or gel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consuming liquids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imbibition designates (chemistry) the absorption of a liquid by a solid or gel."*

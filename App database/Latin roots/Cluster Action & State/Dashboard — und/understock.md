@@ -5,13 +5,6 @@ status: unread
 ---
 # understock
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stock with less than the usual or desirable number or quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stock with less than the usual or desirable number or quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understock designates stock with less than the usual or desirable number or quantity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stock with less than the usual or desirable number or quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stock with less than the usual or desirable number or quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understock designates stock with less than the usual or desirable number or quantity."*

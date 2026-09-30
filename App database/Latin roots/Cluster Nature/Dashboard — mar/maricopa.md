@@ -5,13 +5,6 @@ status: unread
 ---
 # maricopa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a north american indian people of the gila river valley in arizona.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The yuman language spoken by the maricopa and the halchidhoma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maricopa designates a member of a north american indian people of the gila river valley in arizona."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a north american indian people of the gila river valley in arizona.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The yuman language spoken by the maricopa and the halchidhoma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maricopa designates a member of a north american indian people of the gila river valley in arizona."*

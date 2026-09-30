@@ -5,15 +5,6 @@ status: unread
 ---
 # stolidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indifference to pleasure or pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"One makes fools look foolisher fifty-fold By putting in their place the wise like you, To take the full force of an argument Would buffet their stolidity in vain.” XI."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Stolidity, which is a resisting state of mortal mind, suffers 388:6 less, only because it knows less of material law."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Annoyed by the stolidity of this reply, the querist pressed him for a reason: Because, your honour, he would be glad of the opportunity to catch myself―he could have you at any time. 1223."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indifference to pleasure or pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"One makes fools look foolisher fifty-fold By putting in their place the wise like you, To take the full force of an argument Would buffet their stolidity in vain.” XI."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Stolidity, which is a resisting state of mortal mind, suffers 388:6 less, only because it knows less of material law."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Annoyed by the stolidity of this reply, the querist pressed him for a reason: Because, your honour, he would be glad of the opportunity to catch myself―he could have you at any time. 1223."*

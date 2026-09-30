@@ -5,14 +5,6 @@ status: unread
 ---
 # hernia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Thompson Indians of British Columbia thought that the Dawn of Day could and would cure hernia if only an adolescent girl prayed to it to do so."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"ASTIGMATISM AND HERNIA HEALED It is nearly five years since I bought my first copy of Science and Health, the reading of which cured me of chronic constipation, nervous headache, astigmatism, and hernia, in less than four months."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Thompson Indians of British Columbia thought that the Dawn of Day could and would cure hernia if only an adolescent girl prayed to it to do so."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"ASTIGMATISM AND HERNIA HEALED It is nearly five years since I bought my first copy of Science and Health, the reading of which cured me of chronic constipation, nervous headache, astigmatism, and hernia, in less than four months."*

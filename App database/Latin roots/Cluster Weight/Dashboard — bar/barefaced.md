@@ -5,15 +5,6 @@ status: unread
 ---
 # barefaced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With no effort to conceal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or propriety; ; ; - los angeles times; ; ; - bertrand russell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And was ever anything so meanly done as what I did—to skulk away like that from a man who was only civil and kind!” Clearly she did not think his barefaced praise of her person an insult now."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Upon my life, Bathsheba, it is too barefaced."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They attacked him in various ways, with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all; and they were at last obliged to accept the second-hand intelligence of their neighbour, Lady Lucas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With no effort to conceal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or propriety; ; ; - los angeles times; ; ; - bertrand russell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And was ever anything so meanly done as what I did—to skulk away like that from a man who was only civil and kind!” Clearly she did not think his barefaced praise of her person an insult now."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Upon my life, Bathsheba, it is too barefaced."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They attacked him in various ways, with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all; and they were at last obliged to accept the second-hand intelligence of their neighbour, Lady Lucas."*

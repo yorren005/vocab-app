@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnocarpium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oak ferns: in some classification systems included in genus thelypteris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oak ferns: in some classification systems included in genus thelypteris.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocarpium designates oak ferns: in some classification systems included in genus thelypteris."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oak ferns: in some classification systems included in genus thelypteris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oak ferns: in some classification systems included in genus thelypteris.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocarpium designates oak ferns: in some classification systems included in genus thelypteris."*

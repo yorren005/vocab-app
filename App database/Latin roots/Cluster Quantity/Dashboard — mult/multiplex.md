@@ -5,13 +5,6 @@ status: unread
 ---
 # multiplex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicates two or more signals over a common channel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie theater than has several different auditoriums in the same building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplex designates communicates two or more signals over a common channel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicates two or more signals over a common channel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie theater than has several different auditoriums in the same building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplex designates communicates two or more signals over a common channel."*

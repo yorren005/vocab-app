@@ -5,13 +5,6 @@ status: unread
 ---
 # biplane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old fashioned airplane; has two wings one above the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old fashioned airplane; has two wings one above the other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biplane designates old fashioned airplane; has two wings one above the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Old fashioned airplane; has two wings one above the other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old fashioned airplane; has two wings one above the other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biplane designates old fashioned airplane; has two wings one above the other."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # suffice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be sufficient; be adequate, either in quality or quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be sufficient; be adequate, either in quality or quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s return again, and suffice ourselves with the report of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it suffice thee that I trust thee not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let that suffice, most forcible Feeble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be sufficient; be adequate, either in quality or quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be sufficient; be adequate, either in quality or quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s return again, and suffice ourselves with the report of it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it suffice thee that I trust thee not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let that suffice, most forcible Feeble."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # putative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purported; commonly put forth or accepted as true on inconclusive grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purported; commonly put forth or accepted as true on inconclusive grounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putative designates purported; commonly put forth or accepted as true on inconclusive grounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Purported; commonly put forth or accepted as true on inconclusive grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purported; commonly put forth or accepted as true on inconclusive grounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putative designates purported; commonly put forth or accepted as true on inconclusive grounds."*

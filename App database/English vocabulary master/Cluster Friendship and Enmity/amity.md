@@ -5,20 +5,6 @@ status: unread
 ---
 # amity
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Number of places in the united states:
-> 2. **Nuance / Usage**: (formal, literary) friendship; friendliness
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the amity withstood the storm*), direct object (*cleaved the amity*), or prepositional anchor (*amidst the amity*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"In sign of league and amity with thee."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I also desire to live in amity with my professional brethren."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"longer, hoping to see some sign of amity: but she gave none."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Peaceful, harmonious goodwill and friendly relations between individuals, communities, or nations.
+> 2. **Nuance / Usage**: Carries a formal, diplomatic, or literary tone, often used to describe treaties of peace (*treaty of amity and commerce*) or mutual concord after discord.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the amity withstood the storm*), direct object (*cleaved the amity*), or prepositional anchor (*amidst the amity*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Receive my hand in sign of league and **amity** with thee."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I also desire to live in **amity** with my professional brethren."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I waited a moment longer, hoping to see some sign of **amity**, but she gave none."*

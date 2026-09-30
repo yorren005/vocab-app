@@ -5,15 +5,6 @@ status: unread
 ---
 # modern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contemporary person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typeface (based on an 18th century design by gianbattista bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contemporary person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typeface (based on an 18th century design by gianbattista bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*

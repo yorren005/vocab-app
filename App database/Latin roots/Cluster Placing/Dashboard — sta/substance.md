@@ -5,15 +5,6 @@ status: unread
 ---
 # substance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The real physical matter of which a person or thing consists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The choicest or most essential or most vital part of some idea or experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy substance, valued at the highest rate, Cannot amount unto a hundred marks; Therefore by law thou art condemn’d to die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The dram of evil Doth all the noble substance of a doubt To his own scandal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The real physical matter of which a person or thing consists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The choicest or most essential or most vital part of some idea or experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy substance, valued at the highest rate, Cannot amount unto a hundred marks; Therefore by law thou art condemn’d to die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The dram of evil Doth all the noble substance of a doubt To his own scandal."*

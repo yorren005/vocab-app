@@ -5,15 +5,6 @@ status: unread
 ---
 # staircase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A way of access (upward and downward) consisting of a set of steps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of access (upward and downward) consisting of a set of steps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And there really was a churchyard outside under some cloisters, for I saw the gravestones from the staircase window."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Out of this room you passed into a little gallery, with which the other best rooms (only two) communicated, and so, by a little staircase of shallow steps with a number of corner stairs in it, considering its length, down into the hall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Us London lawyers don’t often get an out, and when we do, we like to make the most of it, you know.” The old housekeeper, with a gracious severity of deportment, waves her hand towards the great staircase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A way of access (upward and downward) consisting of a set of steps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of access (upward and downward) consisting of a set of steps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And there really was a churchyard outside under some cloisters, for I saw the gravestones from the staircase window."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Out of this room you passed into a little gallery, with which the other best rooms (only two) communicated, and so, by a little staircase of shallow steps with a number of corner stairs in it, considering its length, down into the hall."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Us London lawyers don’t often get an out, and when we do, we like to make the most of it, you know.” The old housekeeper, with a gracious severity of deportment, waves her hand towards the great staircase."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # valsartan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiotensin ii inhibitor that is used to treat high blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angiotensin ii inhibitor that is used to treat high blood pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valsartan designates an angiotensin ii inhibitor that is used to treat high blood pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiotensin ii inhibitor that is used to treat high blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angiotensin ii inhibitor that is used to treat high blood pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valsartan designates an angiotensin ii inhibitor that is used to treat high blood pressure."*

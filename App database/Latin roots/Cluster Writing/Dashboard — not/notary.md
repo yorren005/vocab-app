@@ -5,15 +5,6 @@ status: unread
 ---
 # notary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then meet me forthwith at the notary’s, Give him direction for this merry bond, And I will go and purse the ducats straight, See to my house left in the fearful guard Of an unthrifty knave, and presently I’ll be with you."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA PRIMA._ _Enter_ Lewis, Angellina, Sylvia, Notary. _Lewis._ This is the day, my Daughter Angellina, the happy, that must make you a Fortune, a large and full one, my care has wrought it, and yours must be as great to entertain it."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA V. _Enter_ Lewis, Angellina, Eustace, Priest, Ladies, Cowsy, Notary, _and_ Miramont. _Not._ Come, let him bring his Sons hand, and all's done."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then meet me forthwith at the notary’s, Give him direction for this merry bond, And I will go and purse the ducats straight, See to my house left in the fearful guard Of an unthrifty knave, and presently I’ll be with you."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA PRIMA._ _Enter_ Lewis, Angellina, Sylvia, Notary. _Lewis._ This is the day, my Daughter Angellina, the happy, that must make you a Fortune, a large and full one, my care has wrought it, and yours must be as great to entertain it."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA V. _Enter_ Lewis, Angellina, Eustace, Priest, Ladies, Cowsy, Notary, _and_ Miramont. _Not._ Come, let him bring his Sons hand, and all's done."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # coordinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A number that identifies a position relative to an axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring order and organization to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This applies to all: compute, coordinate and commit resources to implement our new orders."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Point for convergence is coordinate H010-V210."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Twenty-fourth, the formation of an Asian teaching committee designed to stimulate and coordinate the teaching activities initiated by the Plan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A number that identifies a position relative to an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring order and organization to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This applies to all: compute, coordinate and commit resources to implement our new orders."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Point for convergence is coordinate H010-V210."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Twenty-fourth, the formation of an Asian teaching committee designed to stimulate and coordinate the teaching activities initiated by the Plan."*

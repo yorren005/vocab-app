@@ -5,13 +5,6 @@ status: unread
 ---
 # nationalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of forming or becoming a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of rendering national in character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nationalization designates the action of forming or becoming a nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of forming or becoming a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of rendering national in character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nationalization designates the action of forming or becoming a nation."*

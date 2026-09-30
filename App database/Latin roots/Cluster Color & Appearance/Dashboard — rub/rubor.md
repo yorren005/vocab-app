@@ -5,13 +5,6 @@ status: unread
 ---
 # rubor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubor designates a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubor designates a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat."*

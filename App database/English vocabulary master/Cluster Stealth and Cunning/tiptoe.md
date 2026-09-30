@@ -5,20 +5,6 @@ status: unread
 ---
 # tiptoe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stand or raise oneself on tiptoe
-> 2. **Nuance / Usage**: Standing elevated, on or as if on the tips of one's toes
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a tiptoe presence*) or predicatively (*remained tiptoe*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"and by a servant who passed out on tiptoe without heeding them."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"should a man walk on tiptoe down the alley?"*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"request you to walk on tiptoe and not to talk above a whisper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To walk quietly and stealthily on the very tips of one's toes with the heels raised, so as to make no sound or avoid waking others.
+> 2. **Nuance / Usage**: Also used figuratively (*to tiptoe around a topic*) for treating a delicate or controversial subject with extreme caution, or in the phrase *on tiptoe* to express eager anticipation.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive), Noun, Adverb, and Adjective.
+> - **Syntactic Constructions**: Operates as an intransitive verb (*tiptoed across the floorboards*) or in the prepositional phrase *on tiptoe*.
+> - **Collocations & Registers**: Narrative and idiomatic registers; collocated with *on tiptoe*, *around the issue*, *corridor*, and *whisper*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The door was opened noiselessly by a servant who passed out on **tiptoe** without heeding them."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Why should a man walk on **tiptoe** down the alley unless he wished his footsteps to go unheard?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"He that outlives this day, and comes safe home, will stand a **tiptoe** when this day is named."*

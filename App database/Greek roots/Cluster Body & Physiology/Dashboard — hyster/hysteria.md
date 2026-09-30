@@ -5,15 +5,6 @@ status: unread
 ---
 # hysteria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychoneurosis marked by emotional excitability and disturbances of the psychogenic, sensory, vasomotor, and visceral functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behavior exhibiting overwhelming or unmanageable fear or emotional excess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As she confessed to me afterward, she bullied him with tears and hysteria and threats of a scandal that would shake the throne."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I mastered the rising hysteria, lifted up my head, and took a firm stand on the stool."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Diseases not to be classified 176:21 Should all cases of organic disease be treated by a regular practitioner, and the Christian Scientist try truth only in cases of hysteria, hypochon- 176:24 dria, and hallucination?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychoneurosis marked by emotional excitability and disturbances of the psychogenic, sensory, vasomotor, and visceral functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behavior exhibiting overwhelming or unmanageable fear or emotional excess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As she confessed to me afterward, she bullied him with tears and hysteria and threats of a scandal that would shake the throne."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I mastered the rising hysteria, lifted up my head, and took a firm stand on the stool."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Diseases not to be classified 176:21 Should all cases of organic disease be treated by a regular practitioner, and the Christian Scientist try truth only in cases of hysteria, hypochon- 176:24 dria, and hallucination?"*

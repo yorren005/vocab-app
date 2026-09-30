@@ -5,15 +5,6 @@ status: unread
 ---
 # curve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trace of a point whose direction of motion changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a graph representing data.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Stop him, sir!” He darts across the road into the boy’s path, but the boy is quicker than he, makes a curve, ducks, dives under his hands, comes up half-a-dozen yards beyond him, and scours away again."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hill was covered on its northern side by an ancient and decaying plantation of beeches, whose upper verge formed a line over the crest, fringing its arched curve against the sky, like a mane."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Somebody’s—some _woman’s_—hand had travelled softly over the paper bearing his name; her unrevealed eyes had watched every curve as she formed it; her brain had seen him in imagination the while."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trace of a point whose direction of motion changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a graph representing data.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Stop him, sir!” He darts across the road into the boy’s path, but the boy is quicker than he, makes a curve, ducks, dives under his hands, comes up half-a-dozen yards beyond him, and scours away again."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hill was covered on its northern side by an ancient and decaying plantation of beeches, whose upper verge formed a line over the crest, fringing its arched curve against the sky, like a mane."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Somebody’s—some _woman’s_—hand had travelled softly over the paper bearing his name; her unrevealed eyes had watched every curve as she formed it; her brain had seen him in imagination the while."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # merestone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old term for a landmark that consisted of a pile of stones surmounted by an upright slab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old term for a landmark that consisted of a pile of stones surmounted by an upright slab.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merestone designates an old term for a landmark that consisted of a pile of stones surmounted by an upright slab."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old term for a landmark that consisted of a pile of stones surmounted by an upright slab.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old term for a landmark that consisted of a pile of stones surmounted by an upright slab.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merestone designates an old term for a landmark that consisted of a pile of stones surmounted by an upright slab."*

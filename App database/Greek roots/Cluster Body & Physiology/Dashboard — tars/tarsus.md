@@ -5,15 +5,6 @@ status: unread
 ---
 # tarsus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the foot of a vertebrate between the metatarsus and the leg; also : the small bones that support this part of the foot and include bones of the ankle, heel, and arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tarsal plate of the eyelid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the monument of Marina at Tarsus Scene V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tyre, I now look from thee then, and to Tarsus Intend my travel, where I’ll hear from thee; And by whose letters I’ll dispose myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Cleon, the governor of Tarsus, with Dionyza and others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the foot of a vertebrate between the metatarsus and the leg; also : the small bones that support this part of the foot and include bones of the ankle, heel, and arch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tarsal plate of the eyelid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the monument of Marina at Tarsus Scene V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tyre, I now look from thee then, and to Tarsus Intend my travel, where I’ll hear from thee; And by whose letters I’ll dispose myself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Cleon, the governor of Tarsus, with Dionyza and others."*

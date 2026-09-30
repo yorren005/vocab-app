@@ -5,13 +5,6 @@ status: unread
 ---
 # intrusiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"These, after exhausting other modes of amusement, now thronged about Hester Prynne with rude and boorish intrusiveness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"These, after exhausting other modes of amusement, now thronged about Hester Prynne with rude and boorish intrusiveness."*

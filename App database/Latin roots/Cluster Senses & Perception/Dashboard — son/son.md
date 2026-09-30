@@ -5,15 +5,6 @@ status: unread
 ---
 # son
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male human offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divine word of god; the second person in the trinity (incarnate in jesus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when a woman woos, what woman’s son, Will sourly leave her till he have prevailed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In delivering my son from me, I bury a second husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Count; My son’s no dearer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male human offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divine word of god; the second person in the trinity (incarnate in jesus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when a woman woos, what woman’s son, Will sourly leave her till he have prevailed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In delivering my son from me, I bury a second husband."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Count; My son’s no dearer."*

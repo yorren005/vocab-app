@@ -5,13 +5,6 @@ status: unread
 ---
 # tenderloin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city district known for its vice and high crime rate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tender meat of the loin muscle on each side of the vertebral column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"No, you don't--not for me!” she muttered, after a minute, shaking her finger at the tenderloin on the table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city district known for its vice and high crime rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tender meat of the loin muscle on each side of the vertebral column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"No, you don't--not for me!” she muttered, after a minute, shaking her finger at the tenderloin on the table."*

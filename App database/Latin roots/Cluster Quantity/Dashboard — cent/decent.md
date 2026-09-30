@@ -5,15 +5,6 @@ status: unread
 ---
 # decent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially or conventionally correct; refined or virtuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According with custom or propriety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a black, dilapidated street, avoided by all decent people, where the crazy houses were seized upon, when their decay was far advanced, by some bold vagrants who after establishing their own possession took to letting them out in lodgings."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It MAY be a very good sort of penitence in a vagabond, who has wasted the best time of his life, to go back then to decent people that he never was a credit to and live upon them, but it’s not my sort."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For this orphan charge of the Christian saint whose shrine was at Tooting has patted him on the shoulder, and it is the first time in his life that any decent hand has been so laid upon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially or conventionally correct; refined or virtuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According with custom or propriety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a black, dilapidated street, avoided by all decent people, where the crazy houses were seized upon, when their decay was far advanced, by some bold vagrants who after establishing their own possession took to letting them out in lodgings."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It MAY be a very good sort of penitence in a vagabond, who has wasted the best time of his life, to go back then to decent people that he never was a credit to and live upon them, but it’s not my sort."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For this orphan charge of the Christian saint whose shrine was at Tooting has patted him on the shoulder, and it is the first time in his life that any decent hand has been so laid upon him."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # steroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any hormone affecting the development and growth of sex organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steroid designates any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any hormone affecting the development and growth of sex organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steroid designates any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects."*

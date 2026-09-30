@@ -5,13 +5,6 @@ status: unread
 ---
 # apocalyptical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prophetic of devastation or ultimate doom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prophetic of devastation or ultimate doom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocalyptical designates prophetic of devastation or ultimate doom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prophetic of devastation or ultimate doom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prophetic of devastation or ultimate doom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocalyptical designates prophetic of devastation or ultimate doom."*

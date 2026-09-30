@@ -5,15 +5,6 @@ status: unread
 ---
 # individually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apart from others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a sharp-eyed man—a quick keen man—and he takes in everybody’s look at him, all at once, individually and collectively, in a manner that stamps him a remarkable man."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Next, his movements lapsed slower, and she could see them individually."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Casterbridge lights were now individually visible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apart from others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a sharp-eyed man—a quick keen man—and he takes in everybody’s look at him, all at once, individually and collectively, in a manner that stamps him a remarkable man."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Next, his movements lapsed slower, and she could see them individually."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Casterbridge lights were now individually visible."*

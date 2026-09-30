@@ -5,13 +5,6 @@ status: unread
 ---
 # raptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous carnivorous birds that hunt and kill other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous carnivorous birds that hunt and kill other animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptor designates any of numerous carnivorous birds that hunt and kill other animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous carnivorous birds that hunt and kill other animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous carnivorous birds that hunt and kill other animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptor designates any of numerous carnivorous birds that hunt and kill other animals."*

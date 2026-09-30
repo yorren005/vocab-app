@@ -5,15 +5,6 @@ status: unread
 ---
 # mermaid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Half woman and half fish; lives in the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half woman and half fish; lives in the sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the helm A seeming mermaid steers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, train me not, sweet mermaid, with thy note To drown me in thy sister’s flood of tears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But lest myself be guilty to self-wrong, I’ll stop mine ears against the mermaid’s song."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Half woman and half fish; lives in the sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half woman and half fish; lives in the sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the helm A seeming mermaid steers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, train me not, sweet mermaid, with thy note To drown me in thy sister’s flood of tears."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But lest myself be guilty to self-wrong, I’ll stop mine ears against the mermaid’s song."*

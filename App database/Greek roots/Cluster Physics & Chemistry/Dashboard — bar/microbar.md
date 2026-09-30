@@ -5,13 +5,6 @@ status: unread
 ---
 # microbar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absolute unit of pressure equal to one dyne per square centimeter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absolute unit of pressure equal to one dyne per square centimeter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbar designates the absolute unit of pressure equal to one dyne per square centimeter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absolute unit of pressure equal to one dyne per square centimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absolute unit of pressure equal to one dyne per square centimeter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbar designates the absolute unit of pressure equal to one dyne per square centimeter."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # risotto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice cooked usually in meat or seafood stock and seasoned (as with Parmesan cheese or saffron).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice cooked usually in meat or seafood stock and seasoned (as with Parmesan cheese or saffron).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, risotto designates rice cooked usually in meat or seafood stock and seasoned (as with parmesan cheese or saffron)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice cooked usually in meat or seafood stock and seasoned (as with Parmesan cheese or saffron).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice cooked usually in meat or seafood stock and seasoned (as with Parmesan cheese or saffron).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, risotto designates rice cooked usually in meat or seafood stock and seasoned (as with parmesan cheese or saffron)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antiestablishmentarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of opposition to the social and political establishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of opposition to the social and political establishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiestablishmentarianism designates the doctrine of opposition to the social and political establishment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of opposition to the social and political establishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of opposition to the social and political establishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiestablishmentarianism designates the doctrine of opposition to the social and political establishment."*

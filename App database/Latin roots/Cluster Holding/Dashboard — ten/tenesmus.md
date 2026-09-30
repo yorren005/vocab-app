@@ -5,13 +5,6 @@ status: unread
 ---
 # tenesmus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenesmus designates painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenesmus designates painful spasm of the anal sphincter along with an urgent desire to defecate without the significant production of feces; associated with irritable bowel syndrome."*

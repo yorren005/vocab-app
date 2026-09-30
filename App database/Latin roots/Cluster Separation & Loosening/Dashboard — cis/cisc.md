@@ -5,13 +5,6 @@ status: unread
 ---
 # cisc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the canadian government that unifies the intelligence units of canadian law enforcement agencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a kind of computer architecture that has a large number of instructions hard coded into the cpu chip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisc designates an agency of the canadian government that unifies the intelligence units of canadian law enforcement agencies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the canadian government that unifies the intelligence units of canadian law enforcement agencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a kind of computer architecture that has a large number of instructions hard coded into the cpu chip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisc designates an agency of the canadian government that unifies the intelligence units of canadian law enforcement agencies."*

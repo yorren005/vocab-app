@@ -5,15 +5,6 @@ status: unread
 ---
 # thes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: tea dance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: tea dance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Let Me In Thes Ae Night O Lassie, are ye sleepin yet, Or are ye waukin, I wad wit?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"This is it: Good friend for Iesus sake forbeare To digg the dust encloased heare: Blest be ye man yt spares thes stones And curst be he yt moves my bones."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Good friend for Iesus sake forbeare To digg the dust encloased heare: Blest be ye man yt spares thes stones And curst be he yt moves my bones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: tea dance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: tea dance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Let Me In Thes Ae Night O Lassie, are ye sleepin yet, Or are ye waukin, I wad wit?"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"This is it: Good friend for Iesus sake forbeare To digg the dust encloased heare: Blest be ye man yt spares thes stones And curst be he yt moves my bones."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Good friend for Iesus sake forbeare To digg the dust encloased heare: Blest be ye man yt spares thes stones And curst be he yt moves my bones."*

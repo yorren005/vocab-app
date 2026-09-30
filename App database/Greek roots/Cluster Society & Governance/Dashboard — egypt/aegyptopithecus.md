@@ -5,13 +5,6 @@ status: unread
 ---
 # aegyptopithecus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primate of about 38 million years ago; fossils found in egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primate of about 38 million years ago; fossils found in egypt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aegyptopithecus designates extinct primate of about 38 million years ago; fossils found in egypt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primate of about 38 million years ago; fossils found in egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primate of about 38 million years ago; fossils found in egypt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aegyptopithecus designates extinct primate of about 38 million years ago; fossils found in egypt."*

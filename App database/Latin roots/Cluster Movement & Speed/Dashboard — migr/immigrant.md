@@ -5,15 +5,6 @@ status: unread
 ---
 # immigrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who comes to a country where they were not born in order to settle there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who comes to a country where they were not born in order to settle there.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My mother was the daughter of an immigrant Swede."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, in America, differences in nationality and in speech among immigrant workers often effectively prevent a common feeling of their interests and assertion of them."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The persons whom it is sought to aid are only selected groups of the lowest paid workers, generally limited to minors and young women, who in many cases are those of immigrant families in urban districts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who comes to a country where they were not born in order to settle there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who comes to a country where they were not born in order to settle there.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My mother was the daughter of an immigrant Swede."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, in America, differences in nationality and in speech among immigrant workers often effectively prevent a common feeling of their interests and assertion of them."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The persons whom it is sought to aid are only selected groups of the lowest paid workers, generally limited to minors and young women, who in many cases are those of immigrant families in urban districts."*

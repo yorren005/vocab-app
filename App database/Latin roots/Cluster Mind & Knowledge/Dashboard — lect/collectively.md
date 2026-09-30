@@ -5,15 +5,6 @@ status: unread
 ---
 # collectively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In conjunction with; combined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a sharp-eyed man—a quick keen man—and he takes in everybody’s look at him, all at once, individually and collectively, in a manner that stamps him a remarkable man."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Our banks, considered both separately and collectively, were unable to increase their loaning powers quickly and easily to respond to business needs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In conjunction with; combined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a sharp-eyed man—a quick keen man—and he takes in everybody’s look at him, all at once, individually and collectively, in a manner that stamps him a remarkable man."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Our banks, considered both separately and collectively, were unable to increase their loaning powers quickly and easily to respond to business needs."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*

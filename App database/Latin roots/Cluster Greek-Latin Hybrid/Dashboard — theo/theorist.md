@@ -5,15 +5,6 @@ status: unread
 ---
 # theorist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The under-consumption theorist, seeing the same facts, says that the trouble is lack of purchasing power."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With Pfuel was Wolzogen, who expressed Pfuel’s thoughts in a more comprehensible way than Pfuel himself (who was a harsh, bookish theorist, self-confident to the point of despising everyone else) was able to do."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There was about him something of Weyrother, Mack, and Schmidt, and many other German theorist-generals whom Prince Andrew had seen in 1805, but he was more typical than any of them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The under-consumption theorist, seeing the same facts, says that the trouble is lack of purchasing power."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With Pfuel was Wolzogen, who expressed Pfuel’s thoughts in a more comprehensible way than Pfuel himself (who was a harsh, bookish theorist, self-confident to the point of despising everyone else) was able to do."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There was about him something of Weyrother, Mack, and Schmidt, and many other German theorist-generals whom Prince Andrew had seen in 1805, but he was more typical than any of them."*

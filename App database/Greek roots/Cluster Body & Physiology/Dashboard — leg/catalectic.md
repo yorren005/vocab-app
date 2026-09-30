@@ -5,13 +5,6 @@ status: unread
 ---
 # catalectic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of verse that lacks a syllable in the last metrical foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) metrically incomplete; especially lacking one or more syllables in the final metrical foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A catalectic tetrameter of iambs marching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of verse that lacks a syllable in the last metrical foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) metrically incomplete; especially lacking one or more syllables in the final metrical foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A catalectic tetrameter of iambs marching."*

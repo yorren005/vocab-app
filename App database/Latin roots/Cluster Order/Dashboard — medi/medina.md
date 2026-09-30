@@ -5,14 +5,6 @@ status: unread
 ---
 # medina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western saudi arabia; site of the tomb of muhammad; the second most holy city of islam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient quarter of many cities in northern africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Likewise, Mecca and Medina have achieved illimitable glory, as the light of Prophethood shone forth therein."*
-> - 📜 **James Joyce (*Ulysses*):** *"The first in the lilacgarden of Matthew Dillon’s house, Medina Villa, Kimmage road, Roundtown, in 1887, in the company of Stephen’s mother, Stephen being then of the age of 5 and reluctant to give his hand in salutation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western saudi arabia; site of the tomb of muhammad; the second most holy city of islam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient quarter of many cities in northern africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Likewise, Mecca and Medina have achieved illimitable glory, as the light of Prophethood shone forth therein."*
+> - 📜 **James Joyce (*Ulysses*):** *"The first in the lilacgarden of Matthew Dillon’s house, Medina Villa, Kimmage road, Roundtown, in 1887, in the company of Stephen’s mother, Stephen being then of the age of 5 and reluctant to give his hand in salutation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # monocotyledon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous flowering plant; the stem grows by deposits on its inside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous flowering plant; the stem grows by deposits on its inside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledon designates a monocotyledonous flowering plant; the stem grows by deposits on its inside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous flowering plant; the stem grows by deposits on its inside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous flowering plant; the stem grows by deposits on its inside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledon designates a monocotyledonous flowering plant; the stem grows by deposits on its inside."*

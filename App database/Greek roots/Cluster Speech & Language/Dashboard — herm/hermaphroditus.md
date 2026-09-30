@@ -5,13 +5,6 @@ status: unread
 ---
 # hermaphroditus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermaphroditus designates (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermaphroditus designates (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body."*

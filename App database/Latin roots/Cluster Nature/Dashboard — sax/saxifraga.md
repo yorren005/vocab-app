@@ -5,13 +5,6 @@ status: unread
 ---
 # saxifraga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the saxifragaceae; large genus of usually perennial herbs of arctic and cool regions of northern hemisphere: saxifrage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the saxifragaceae; large genus of usually perennial herbs of arctic and cool regions of northern hemisphere: saxifrage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PIG-NUT CLUSTER-CUPS; spots obliterated, subiculum thickened; peridia in irregular subrotund or oval heaps; spores orange.—On _Bunium bulbocastanum_ and _Pimpinella saxifraga_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the saxifragaceae; large genus of usually perennial herbs of arctic and cool regions of northern hemisphere: saxifrage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the saxifragaceae; large genus of usually perennial herbs of arctic and cool regions of northern hemisphere: saxifrage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PIG-NUT CLUSTER-CUPS; spots obliterated, subiculum thickened; peridia in irregular subrotund or oval heaps; spores orange.—On _Bunium bulbocastanum_ and _Pimpinella saxifraga_."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # debunking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposure of falseness or pretensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose while ridiculing; especially of pretentious or false claims and ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debunking designates the exposure of falseness or pretensions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposure of falseness or pretensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose while ridiculing; especially of pretentious or false claims and ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debunking designates the exposure of falseness or pretensions."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # separationist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of secession or separation from a larger group (such as an established church or a national union).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of secession or separation from a larger group (such as an established church or a national union).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, separationist designates an advocate of secession or separation from a larger group (such as an established church or a national union)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of secession or separation from a larger group (such as an established church or a national union).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of secession or separation from a larger group (such as an established church or a national union).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, separationist designates an advocate of secession or separation from a larger group (such as an established church or a national union)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dealership
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business established or operated under an authorization to sell or distribute a company's goods or services in a particular area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business established or operated under an authorization to sell or distribute a company's goods or services in a particular area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dealership designates a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A business established or operated under an authorization to sell or distribute a company's goods or services in a particular area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business established or operated under an authorization to sell or distribute a company's goods or services in a particular area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dealership designates a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area."*

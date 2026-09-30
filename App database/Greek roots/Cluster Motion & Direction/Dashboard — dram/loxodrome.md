@@ -5,13 +5,6 @@ status: unread
 ---
 # loxodrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhumb line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on the surface of the earth that follows a single compass bearing and makes equal oblique angles with all meridians —called also loxodrome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loxodrome designates rhumb line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhumb line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on the surface of the earth that follows a single compass bearing and makes equal oblique angles with all meridians —called also loxodrome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loxodrome designates rhumb line."*

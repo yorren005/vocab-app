@@ -5,15 +5,6 @@ status: unread
 ---
 # neglected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave undone or leave out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to do something; leave something undone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neglected, rather; And then when poisoned hours had bound me up From mine own knowledge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet do I believe The origin and commencement of his grief Sprung from neglected love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave undone or leave out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to do something; leave something undone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neglected, rather; And then when poisoned hours had bound me up From mine own knowledge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet do I believe The origin and commencement of his grief Sprung from neglected love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*

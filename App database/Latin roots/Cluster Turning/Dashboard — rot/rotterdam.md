@@ -5,15 +5,6 @@ status: unread
 ---
 # rotterdam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 2nd largest city in the netherlands; located in the western netherlands near the north sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 2nd largest city in the netherlands; located in the western netherlands near the north sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"You go with him?” “No doubt.” “Where?” It had seemed to me, in the many anxious considerations I had given the point, almost indifferent what port we made for,—Hamburg, Rotterdam, Antwerp,—the place signified little, so that he was out of England."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The steamer for Hamburg and the steamer for Rotterdam would start from London at about nine on Thursday morning."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But, the Rotterdam steamer now came up, and apparently not understanding what had happened, came on at speed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 2nd largest city in the netherlands; located in the western netherlands near the north sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 2nd largest city in the netherlands; located in the western netherlands near the north sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"You go with him?” “No doubt.” “Where?” It had seemed to me, in the many anxious considerations I had given the point, almost indifferent what port we made for,—Hamburg, Rotterdam, Antwerp,—the place signified little, so that he was out of England."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The steamer for Hamburg and the steamer for Rotterdam would start from London at about nine on Thursday morning."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But, the Rotterdam steamer now came up, and apparently not understanding what had happened, came on at speed."*

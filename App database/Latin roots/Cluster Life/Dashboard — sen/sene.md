@@ -5,13 +5,6 @@ status: unread
 ---
 # sene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 sene equal 1 tala in western samoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 sene equal 1 tala in western samoa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sene designates 100 sene equal 1 tala in western samoa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 sene equal 1 tala in western samoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 sene equal 1 tala in western samoa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sene designates 100 sene equal 1 tala in western samoa."*

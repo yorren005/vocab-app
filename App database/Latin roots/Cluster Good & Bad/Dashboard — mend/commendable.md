@@ -5,15 +5,6 @@ status: unread
 ---
 # commendable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of high praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an admirable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good phrases are surely, and ever were, very commendable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt fight, fight by thy father’s side, And, commendable proved, let’s die in pride. [_Exeunt._] SCENE VII."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of high praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an admirable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good phrases are surely, and ever were, very commendable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt fight, fight by thy father’s side, And, commendable proved, let’s die in pride. [_Exeunt._] SCENE VII."*

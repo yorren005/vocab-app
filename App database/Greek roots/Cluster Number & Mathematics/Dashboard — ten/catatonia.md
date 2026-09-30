@@ -5,13 +5,6 @@ status: unread
 ---
 # catatonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catatonia designates a psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catatonia designates a psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders)."*

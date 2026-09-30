@@ -5,15 +5,6 @@ status: unread
 ---
 # propensity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural inclination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is occasioned by a propensity on the part of that unlucky old lady whenever she finds herself on her feet to amble about and “set” to inanimate objects, accompanying herself with a chattering noise, as in a witch dance."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I am perfectly persuaded that the tempers had better be unlike: I mean unlike in the flow of the spirits, in the manners, in the inclination for much or little company, in the propensity to talk or to be silent, to be grave or to be gay."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"My dear, dear child, try, _try_ to conquer the propensity!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural inclination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is occasioned by a propensity on the part of that unlucky old lady whenever she finds herself on her feet to amble about and “set” to inanimate objects, accompanying herself with a chattering noise, as in a witch dance."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I am perfectly persuaded that the tempers had better be unlike: I mean unlike in the flow of the spirits, in the manners, in the inclination for much or little company, in the propensity to talk or to be silent, to be grave or to be gay."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"My dear, dear child, try, _try_ to conquer the propensity!"*

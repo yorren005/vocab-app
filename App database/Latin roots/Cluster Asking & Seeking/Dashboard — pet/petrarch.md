@@ -5,15 +5,6 @@ status: unread
 ---
 # petrarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian poet famous for love lyrics (1304-1374).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian poet famous for love lyrics (1304-1374).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is he for the numbers that Petrarch flowed in."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now here is my pocket Petrarch, and not another word shall I say of this case until we are on the scene of action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian poet famous for love lyrics (1304-1374).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian poet famous for love lyrics (1304-1374).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is he for the numbers that Petrarch flowed in."*
+> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now here is my pocket Petrarch, and not another word shall I say of this case until we are on the scene of action."*

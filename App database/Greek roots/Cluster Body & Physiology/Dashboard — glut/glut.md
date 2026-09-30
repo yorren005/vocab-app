@@ -5,15 +5,6 @@ status: unread
 ---
 # glut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To flood (the market) with goods so that supply exceeds demand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fill especially with food to excess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I fell I could see the concern on the faces of Lanfranc and Bohemond and the glut of satisfaction in the face of de Villehardouin as he pressed me."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Most strange is man, ever insatiable, ever unsatisfied, never at peace with God or himself, his days filled with restlessness and useless endeavour, his nights a glut of vain dreams of desires wilful and wrong."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have lain in the barley, sick with yearning for her, just to see her pass and glut my eyes with the swaying wonder of her and of her hair, black with the night, or brown or flaxen, or all golden-dusty with the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To flood (the market) with goods so that supply exceeds demand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fill especially with food to excess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I fell I could see the concern on the faces of Lanfranc and Bohemond and the glut of satisfaction in the face of de Villehardouin as he pressed me."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Most strange is man, ever insatiable, ever unsatisfied, never at peace with God or himself, his days filled with restlessness and useless endeavour, his nights a glut of vain dreams of desires wilful and wrong."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have lain in the barley, sick with yearning for her, just to see her pass and glut my eyes with the swaying wonder of her and of her hair, black with the night, or brown or flaxen, or all golden-dusty with the sun."*

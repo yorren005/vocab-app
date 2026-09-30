@@ -5,15 +5,6 @@ status: unread
 ---
 # ceramic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the manufacture of any product (such as earthenware, porcelain, or brick) made essentially from a nonmetallic mineral (such as clay) by firing at a high temperature; also : of or relating to such a product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or process of making ceramic articles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And one thought of Lazarus, who had been raised from among the silent dead and who had come there, so legend read, a gray figure in ceramic garments, standing in the prow of a boat...."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Bushell revolutionised the study of Chinese porcelain by his _Oriental Ceramic Art_, a book, unfortunately, difficult to obtain, and by editing Cosmo Monkhouse's excellent _History and Description of Chinese Porcelain_."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"For this reason I found it necessary to work laboriously through the available Chinese ceramic literature, a task which would have been quite impossible with my brief acquaintance with the language had it not been for the invaluable aid of Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the manufacture of any product (such as earthenware, porcelain, or brick) made essentially from a nonmetallic mineral (such as clay) by firing at a high temperature; also : of or relating to such a product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or process of making ceramic articles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And one thought of Lazarus, who had been raised from among the silent dead and who had come there, so legend read, a gray figure in ceramic garments, standing in the prow of a boat...."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Bushell revolutionised the study of Chinese porcelain by his _Oriental Ceramic Art_, a book, unfortunately, difficult to obtain, and by editing Cosmo Monkhouse's excellent _History and Description of Chinese Porcelain_."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"For this reason I found it necessary to work laboriously through the available Chinese ceramic literature, a task which would have been quite impossible with my brief acquaintance with the language had it not been for the invaluable aid of Dr."*

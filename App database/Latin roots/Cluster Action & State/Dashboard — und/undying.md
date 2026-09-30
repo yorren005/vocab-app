@@ -5,15 +5,6 @@ status: unread
 ---
 # undying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Never dying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never dying.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He is so unpleasant to me.” That very night she began an appealing letter to Clare, concealing from him her hardships, and assuring him of her undying affection."*
-> - 📜 **Effie Afton (*Eventide*):** *"He has my temperament, reserved, sensitive, and with the same accursed capacity for strong, undying attachment."*
-> - 📜 **Effie Afton (*Eventide*):** *"Still thine own its life retaineth, Still must mine, though bleeding, beat, And the undying thought which paineth, Is, that we no more may meet." Sudden death had entered the home of Louise Edson and made her a widow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Never dying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never dying.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He is so unpleasant to me.” That very night she began an appealing letter to Clare, concealing from him her hardships, and assuring him of her undying affection."*
+> - 📜 **Effie Afton (*Eventide*):** *"He has my temperament, reserved, sensitive, and with the same accursed capacity for strong, undying attachment."*
+> - 📜 **Effie Afton (*Eventide*):** *"Still thine own its life retaineth, Still must mine, though bleeding, beat, And the undying thought which paineth, Is, that we no more may meet." Sudden death had entered the home of Louise Edson and made her a widow."*

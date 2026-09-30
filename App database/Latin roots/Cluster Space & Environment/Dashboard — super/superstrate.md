@@ -5,13 +5,6 @@ status: unread
 ---
 # superstrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any stratum or layer superimposed on another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language of a later invading people that is imposed on an indigenous population and contributes features to their language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superstrate designates any stratum or layer superimposed on another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any stratum or layer superimposed on another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language of a later invading people that is imposed on an indigenous population and contributes features to their language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superstrate designates any stratum or layer superimposed on another."*

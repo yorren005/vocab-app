@@ -5,15 +5,6 @@ status: unread
 ---
 # scotland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the four countries that make up the united kingdom of great britain and northern ireland; located on the northern part of the island of great britain; famous for bagpipes and plaids and kilts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the four countries that make up the united kingdom of great britain and northern ireland; located on the northern part of the island of great britain; famous for bagpipes and plaids and kilts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it cannot choose but be a noble plot; And then the power of Scotland and of York To join with Mortimer, ha?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is he living, clipp’d in with the sea That chides the banks of England, Scotland, Wales, Which calls me pupil or hath read to me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Mortimer of Scotland hath sent word That Douglas and the English rebels met The eleventh of this month at Shrewsbury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the four countries that make up the united kingdom of great britain and northern ireland; located on the northern part of the island of great britain; famous for bagpipes and plaids and kilts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the four countries that make up the united kingdom of great britain and northern ireland; located on the northern part of the island of great britain; famous for bagpipes and plaids and kilts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it cannot choose but be a noble plot; And then the power of Scotland and of York To join with Mortimer, ha?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is he living, clipp’d in with the sea That chides the banks of England, Scotland, Wales, Which calls me pupil or hath read to me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Mortimer of Scotland hath sent word That Douglas and the English rebels met The eleventh of this month at Shrewsbury."*

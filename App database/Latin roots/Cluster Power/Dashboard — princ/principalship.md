@@ -5,13 +5,6 @@ status: unread
 ---
 # principalship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of principal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of principal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Principalship of the University became vacant by the death of Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of principal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of principal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Principalship of the University became vacant by the death of Dr."*

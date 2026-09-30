@@ -5,13 +5,6 @@ status: unread
 ---
 # seminarist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student at a seminary (especially a roman catholic seminary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student at a seminary (especially a roman catholic seminary).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An enormous crowd of factory hands, house serfs, and peasants, with whom some officials, seminarists, and gentry were mingled, had gone early that morning to the Three Hills."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student at a seminary (especially a roman catholic seminary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student at a seminary (especially a roman catholic seminary).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An enormous crowd of factory hands, house serfs, and peasants, with whom some officials, seminarists, and gentry were mingled, had gone early that morning to the Three Hills."*

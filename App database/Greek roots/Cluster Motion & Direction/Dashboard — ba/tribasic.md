@@ -5,13 +5,6 @@ status: unread
 ---
 # tribasic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three replaceable hydrogen atoms —used of acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three replaceable hydrogen atoms —used of acids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribasic designates having three replaceable hydrogen atoms —used of acids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three replaceable hydrogen atoms —used of acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three replaceable hydrogen atoms —used of acids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribasic designates having three replaceable hydrogen atoms —used of acids."*

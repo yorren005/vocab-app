@@ -5,15 +5,6 @@ status: unread
 ---
 # philosophic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen myself that one man contemplated by Pascal’s philosophic eye."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Well,” continued her philosophic mother, “I am glad I did not know of your journey at the time; but now it is all over, perhaps there is no great harm done."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen myself that one man contemplated by Pascal’s philosophic eye."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Well,” continued her philosophic mother, “I am glad I did not know of your journey at the time; but now it is all over, perhaps there is no great harm done."*

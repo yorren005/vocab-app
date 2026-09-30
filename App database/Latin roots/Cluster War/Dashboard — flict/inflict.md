@@ -5,15 +5,6 @@ status: unread
 ---
 # inflict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose something unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say he be taken, racked, and tortured, I know no pain they can inflict upon him Will make him say I moved him to those arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, a courtesy Which if we should deny, the most just gods For every graff would send a caterpillar, And so inflict our province."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, cousin, Even from the bottom of these miseries, From all that fortune can inflict upon us, I see two comforts rising, two mere blessings, If the gods please: to hold here a brave patience, And the enjoying of our griefs together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose something unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say he be taken, racked, and tortured, I know no pain they can inflict upon him Will make him say I moved him to those arms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, a courtesy Which if we should deny, the most just gods For every graff would send a caterpillar, And so inflict our province."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, cousin, Even from the bottom of these miseries, From all that fortune can inflict upon us, I see two comforts rising, two mere blessings, If the gods please: to hold here a brave patience, And the enjoying of our griefs together."*

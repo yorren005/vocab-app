@@ -5,13 +5,6 @@ status: unread
 ---
 # particularism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A focus on something particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A focus on something particular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was immaterial what private opinions he might hold, for his great purpose was the abandonment of particularism and the fusion of all parties for the general good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A focus on something particular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A focus on something particular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was immaterial what private opinions he might hold, for his great purpose was the abandonment of particularism and the fusion of all parties for the general good."*

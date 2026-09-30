@@ -5,15 +5,6 @@ status: unread
 ---
 # telegram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message transmitted by telegraph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the moment of his departure a telegram was handed to him—a few words from his mother, stating that they were glad to know his address, and informing him that his brother Cuthbert had proposed to and been accepted by Mercy Chant."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We received a telegram that Bishop Simpson was dying."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then I am happy to say that this church has been blessed and we now have a pastor." A TELEGRAM OF PRAYER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by telegraph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message transmitted by telegraph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the moment of his departure a telegram was handed to him—a few words from his mother, stating that they were glad to know his address, and informing him that his brother Cuthbert had proposed to and been accepted by Mercy Chant."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"We received a telegram that Bishop Simpson was dying."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then I am happy to say that this church has been blessed and we now have a pastor." A TELEGRAM OF PRAYER."*

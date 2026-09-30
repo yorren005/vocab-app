@@ -5,15 +5,6 @@ status: unread
 ---
 # languor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relaxed comfortable feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of lack of interest or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Shall I ever forget the manner in which those handsome proud eyes seemed to spring out of their languor and to hold mine!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s consideration the paradox that the more you drink the thirstier you are and reclines his head upon the window-sill in a state of hopeless languor."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Yet, in spite of all this, Anne had reason to believe that she had moments only of languor and depression, to hours of occupation and enjoyment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relaxed comfortable feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of lack of interest or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Shall I ever forget the manner in which those handsome proud eyes seemed to spring out of their languor and to hold mine!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s consideration the paradox that the more you drink the thirstier you are and reclines his head upon the window-sill in a state of hopeless languor."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Yet, in spite of all this, Anne had reason to believe that she had moments only of languor and depression, to hours of occupation and enjoyment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # injection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The forceful insertion of a substance under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any solution that is injected (as into the skin).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The injection was begun, and three hours after the thermometer marked 6° below zero outside."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forceful insertion of a substance under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any solution that is injected (as into the skin).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The injection was begun, and three hours after the thermometer marked 6° below zero outside."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
+> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*

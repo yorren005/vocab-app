@@ -5,13 +5,6 @@ status: unread
 ---
 # telophase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of mitosis and of the second division of meiosis in which the spindle disappears and the nucleus reforms around each set of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final stage in the first division of meiosis that may be missing in some organisms and is characterized by the gathering at opposite poles of the cell of half of the original number of chromosomes including one from each homologous pair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telophase designates the final stage of mitosis and of the second division of meiosis in which the spindle disappears and the nucleus reforms around each set of chromosomes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of mitosis and of the second division of meiosis in which the spindle disappears and the nucleus reforms around each set of chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final stage in the first division of meiosis that may be missing in some organisms and is characterized by the gathering at opposite poles of the cell of half of the original number of chromosomes including one from each homologous pair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telophase designates the final stage of mitosis and of the second division of meiosis in which the spindle disappears and the nucleus reforms around each set of chromosomes."*

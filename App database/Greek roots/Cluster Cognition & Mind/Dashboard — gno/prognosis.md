@@ -5,13 +5,6 @@ status: unread
 ---
 # prognosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prospect of recovery as anticipated from the usual course of disease or peculiarities of the case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forecast, prognostication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"In a case like that, I'm bound to admit, my prognosis--for the final result--would be most unfavorable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prospect of recovery as anticipated from the usual course of disease or peculiarities of the case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forecast, prognostication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"In a case like that, I'm bound to admit, my prognosis--for the final result--would be most unfavorable."*

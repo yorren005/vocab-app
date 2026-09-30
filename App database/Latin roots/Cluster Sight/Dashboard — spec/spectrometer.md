@@ -5,13 +5,6 @@ status: unread
 ---
 # spectrometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrometer designates spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrometer designates spectroscope for obtaining a mass spectrum by deflecting ions into a thin slit and measuring the ion current with an electrometer."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lithospermum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbaceous or shrubby plants; cosmopolitan except australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbaceous or shrubby plants; cosmopolitan except australia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithospermum designates annual or perennial herbaceous or shrubby plants; cosmopolitan except australia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbaceous or shrubby plants; cosmopolitan except australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbaceous or shrubby plants; cosmopolitan except australia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithospermum designates annual or perennial herbaceous or shrubby plants; cosmopolitan except australia."*

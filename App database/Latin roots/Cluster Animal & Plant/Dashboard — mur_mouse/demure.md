@@ -5,15 +5,6 @@ status: unread
 ---
 # demure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly modest or shy especially in a playful or provocative way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly modest or shy especially in a playful or provocative way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s never none of these demure boys come to any proof; for thin drink doth so over-cool their blood, and making many fish meals, that they fall into a kind of male green-sickness; and then, when they marry, they get wenches."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then to have the humour of state; and after a demure travel of regard, telling them I know my place as I would they should do theirs, to ask for my kinsman Toby."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the contrary, I was so demure and used to seem so unconscious that sometimes I considered within myself while I was sitting at work whether I was not growing quite deceitful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly modest or shy especially in a playful or provocative way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly modest or shy especially in a playful or provocative way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s never none of these demure boys come to any proof; for thin drink doth so over-cool their blood, and making many fish meals, that they fall into a kind of male green-sickness; and then, when they marry, they get wenches."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then to have the humour of state; and after a demure travel of regard, telling them I know my place as I would they should do theirs, to ask for my kinsman Toby."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the contrary, I was so demure and used to seem so unconscious that sometimes I considered within myself while I was sitting at work whether I was not growing quite deceitful."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # demosthenes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman and orator (circa 385-322 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman and orator (circa 385-322 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Athens, as we learn from Demosthenes, was the arbiter of Greece seventy-three years."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It did Demosthenes no end of good, you know."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Demosthenes, I know thee by the pebble thou secretest in thy golden mouth!” said Bilíbin, and the mop of hair on his head moved with satisfaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman and orator (circa 385-322 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman and orator (circa 385-322 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Athens, as we learn from Demosthenes, was the arbiter of Greece seventy-three years."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It did Demosthenes no end of good, you know."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Demosthenes, I know thee by the pebble thou secretest in thy golden mouth!” said Bilíbin, and the mop of hair on his head moved with satisfaction."*

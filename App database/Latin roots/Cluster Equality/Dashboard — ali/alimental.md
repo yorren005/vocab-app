@@ -5,13 +5,6 @@ status: unread
 ---
 # alimental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"The sun that light imparts to all, receives From all his alimental recompence In humid exhalations, and at even Sups with the ocean."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"The sun that light imparts to all, receives From all his alimental recompence In humid exhalations, and at even Sups with the ocean."*

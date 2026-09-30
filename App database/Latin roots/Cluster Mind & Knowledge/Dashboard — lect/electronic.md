@@ -5,15 +5,6 @@ status: unread
 ---
 # electronic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with electrons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, at his desk, bent over a document, cast frequent glances at electronic displays on the wall nearby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with electrons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, at his desk, bent over a document, cast frequent glances at electronic displays on the wall nearby."*

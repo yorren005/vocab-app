@@ -5,15 +5,6 @@ status: unread
 ---
 # pertinent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having precise or logical relevance to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of striking appropriateness and pertinence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet my caution was more pertinent Than the rebuke you give it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the queen’s be’t: “good” should be pertinent, But so it is, it is not."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood?” It was the single name among all possible wrong ones that just at this moment seemed to Bathsheba more pertinent than the right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having precise or logical relevance to the matter at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of striking appropriateness and pertinence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet my caution was more pertinent Than the rebuke you give it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the queen’s be’t: “good” should be pertinent, But so it is, it is not."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood?” It was the single name among all possible wrong ones that just at this moment seemed to Bathsheba more pertinent than the right."*

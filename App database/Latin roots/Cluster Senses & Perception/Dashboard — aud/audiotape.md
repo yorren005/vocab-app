@@ -5,15 +5,6 @@ status: unread
 ---
 # audiotape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tape recording of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnetic tape for use in recording sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"If the mechanics of writing or drawing is the problem, then audiotape."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"She wrote: I audiotape the story and mail the book to him along with the cassette,' she wrote, 'but there's more to it than that."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandparent-Grandchild Interview A fun way to open lines of communications while visiting grandchildren, be they nearby or far away, is the audiotaped interview."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tape recording of sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnetic tape for use in recording sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"If the mechanics of writing or drawing is the problem, then audiotape."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"She wrote: I audiotape the story and mail the book to him along with the cassette,' she wrote, 'but there's more to it than that."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandparent-Grandchild Interview A fun way to open lines of communications while visiting grandchildren, be they nearby or far away, is the audiotaped interview."*

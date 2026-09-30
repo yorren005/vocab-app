@@ -5,15 +5,6 @@ status: unread
 ---
 # abundantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abundant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His gentleness was natural to him and would have shown itself abundantly even without Ada’s influence; but with it, he became one of the most winning of companions, always so ready to be interested and always so happy, sanguine, and light-hearted."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These were so convinced by such genuine appeals to heart and understanding both that they soon began to crowd in abundantly, among the foremost being visible Jan Coggan and Joseph Poorgrass, who were holiday keeping here to-day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abundant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His gentleness was natural to him and would have shown itself abundantly even without Ada’s influence; but with it, he became one of the most winning of companions, always so ready to be interested and always so happy, sanguine, and light-hearted."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These were so convinced by such genuine appeals to heart and understanding both that they soon began to crowd in abundantly, among the foremost being visible Jan Coggan and Joseph Poorgrass, who were holiday keeping here to-day."*

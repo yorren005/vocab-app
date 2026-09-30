@@ -5,15 +5,6 @@ status: unread
 ---
 # dynamo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: generator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a forceful energetic individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We know life only phenomenally, as a savage may know a dynamo; but we know nothing of life noumenonally, nothing of the nature of the intrinsic stuff of life."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Perhaps one of the greatest forward steps in the development of electrotyping was made when the plating dynamo was invented."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The first adoption of a dynamo in place of Smee's battery took place in 1872."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: generator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a forceful energetic individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We know life only phenomenally, as a savage may know a dynamo; but we know nothing of life noumenonally, nothing of the nature of the intrinsic stuff of life."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Perhaps one of the greatest forward steps in the development of electrotyping was made when the plating dynamo was invented."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The first adoption of a dynamo in place of Smee's battery took place in 1872."*

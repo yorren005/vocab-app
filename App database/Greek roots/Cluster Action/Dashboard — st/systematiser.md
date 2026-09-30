@@ -5,13 +5,6 @@ status: unread
 ---
 # systematiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organizer who puts things in order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematiser designates an organizer who puts things in order."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organizer who puts things in order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematiser designates an organizer who puts things in order."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # triskaidekaphobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the number 13.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of the number 13.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triskaidekaphobia designates fear of the number 13."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the number 13.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of the number 13.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triskaidekaphobia designates fear of the number 13."*

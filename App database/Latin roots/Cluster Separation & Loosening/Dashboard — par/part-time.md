@@ -5,13 +5,6 @@ status: unread
 ---
 # part-time
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving less than the standard or customary time for an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For less than the standard number of hours.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, part-time designates involving less than the standard or customary time for an activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving less than the standard or customary time for an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For less than the standard number of hours.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, part-time designates involving less than the standard or customary time for an activity."*

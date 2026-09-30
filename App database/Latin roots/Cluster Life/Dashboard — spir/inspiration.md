@@ -5,15 +5,6 @@ status: unread
 ---
 # inspiration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousal of the mind to special unusual activity or creativity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of your creative thinking and work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, let me tell you whom you have condemn’d: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above, By inspiration of celestial grace, To work exceeding miracles on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At which, as it were by inspiration, she makes in her sleep signs of rejoicing and holdeth up her hands to heaven."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is seized with an inspiration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousal of the mind to special unusual activity or creativity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of your creative thinking and work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, let me tell you whom you have condemn’d: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above, By inspiration of celestial grace, To work exceeding miracles on earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At which, as it were by inspiration, she makes in her sleep signs of rejoicing and holdeth up her hands to heaven."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is seized with an inspiration."*

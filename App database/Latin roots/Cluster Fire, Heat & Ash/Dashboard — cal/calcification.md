@@ -5,13 +5,6 @@ status: unread
 ---
 # calcification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process that impregnates something with calcium (or calcium salts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue hardened by deposition of lime salts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcification designates a process that impregnates something with calcium (or calcium salts)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process that impregnates something with calcium (or calcium salts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue hardened by deposition of lime salts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcification designates a process that impregnates something with calcium (or calcium salts)."*

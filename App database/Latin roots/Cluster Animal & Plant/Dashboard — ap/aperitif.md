@@ -5,13 +5,6 @@ status: unread
 ---
 # aperitif
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alcoholic beverage taken before a meal as an appetizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alcoholic beverage taken before a meal as an appetizer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperitif designates alcoholic beverage taken before a meal as an appetizer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alcoholic beverage taken before a meal as an appetizer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alcoholic beverage taken before a meal as an appetizer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperitif designates alcoholic beverage taken before a meal as an appetizer."*

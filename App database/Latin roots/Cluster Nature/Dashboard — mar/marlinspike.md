@@ -5,13 +5,6 @@ status: unread
 ---
 # marlinspike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pointed iron hand tool that is used to separate strands of a rope or cable (as in splicing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pointed iron hand tool that is used to separate strands of a rope or cable (as in splicing).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marlinspike designates a pointed iron hand tool that is used to separate strands of a rope or cable (as in splicing)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pointed iron hand tool that is used to separate strands of a rope or cable (as in splicing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pointed iron hand tool that is used to separate strands of a rope or cable (as in splicing).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marlinspike designates a pointed iron hand tool that is used to separate strands of a rope or cable (as in splicing)."*

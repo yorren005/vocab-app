@@ -5,15 +5,6 @@ status: unread
 ---
 # persistence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a continuous and connected period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How does it stand towards my past?” Tess was the merest stray phenomenon to Angel Clare as yet—a rosy, warming apparition which had only just acquired the attribute of persistence in his consciousness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His very persistence in the quest convinced a man like Jake Oppenheimer, who could only admire me for the fortitude with which I kept a close mouth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Persistence of differences between nations. § 5."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a continuous and connected period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How does it stand towards my past?” Tess was the merest stray phenomenon to Angel Clare as yet—a rosy, warming apparition which had only just acquired the attribute of persistence in his consciousness."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His very persistence in the quest convinced a man like Jake Oppenheimer, who could only admire me for the fortitude with which I kept a close mouth."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Persistence of differences between nations. § 5."*

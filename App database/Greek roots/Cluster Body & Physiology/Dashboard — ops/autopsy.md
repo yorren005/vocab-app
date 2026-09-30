@@ -5,15 +5,6 @@ status: unread
 ---
 # autopsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination of a body after death to determine the cause of death or the character and extent of changes produced by disease —called also necropsy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical examination, evaluation, or assessment of someone or something past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I was undressing in my own room, when, with a premonitory tap at the door, he entered, and at once began to speak:-- “To-morrow I want you to bring me, before night, a set of post-mortem knives.” “Must we make an autopsy?” I asked."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"After the autopsy, 159:3 her sister testified that the deceased protested against inhaling the ether and said it would kill her, but that she was compelled by her physicians to take 159:6 it."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"At the close of the autopsy he came down to the drawing-room where the silver-haired lady sat pale and tearful, but courageous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination of a body after death to determine the cause of death or the character and extent of changes produced by disease —called also necropsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical examination, evaluation, or assessment of someone or something past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"I was undressing in my own room, when, with a premonitory tap at the door, he entered, and at once began to speak:-- “To-morrow I want you to bring me, before night, a set of post-mortem knives.” “Must we make an autopsy?” I asked."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"After the autopsy, 159:3 her sister testified that the deceased protested against inhaling the ether and said it would kill her, but that she was compelled by her physicians to take 159:6 it."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"At the close of the autopsy he came down to the drawing-room where the silver-haired lady sat pale and tearful, but courageous."*

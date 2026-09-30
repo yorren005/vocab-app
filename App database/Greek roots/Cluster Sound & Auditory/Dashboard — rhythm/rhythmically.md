@@ -5,15 +5,6 @@ status: unread
 ---
 # rhythmically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhythmic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhythmic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Among the lilacs a robin was singing his delicate and bold welcome to autumn, and over the window a branch of red roses nodded persistently and rhythmically in a draught of wind."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I could see every rib, the joints of their limbs were like knots in a rope; each had an iron collar on his neck, and all were connected together with a chain whose bights swung between them, rhythmically clinking."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Her firm white hands moving rhythmically, her body steady, her eyes a-dream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhythmic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhythmic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Among the lilacs a robin was singing his delicate and bold welcome to autumn, and over the window a branch of red roses nodded persistently and rhythmically in a draught of wind."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I could see every rib, the joints of their limbs were like knots in a rope; each had an iron collar on his neck, and all were connected together with a chain whose bights swung between them, rhythmically clinking."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Her firm white hands moving rhythmically, her body steady, her eyes a-dream."*

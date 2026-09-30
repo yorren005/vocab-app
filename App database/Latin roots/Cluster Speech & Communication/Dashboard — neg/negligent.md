@@ -5,15 +5,6 @@ status: unread
 ---
 # negligent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by neglect and undue lack of concern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by neglect and undue lack of concern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your letters did withhold our breaking forth Till we perceived both how you were wrong led And we in negligent danger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celerity is never more admired Than by the negligent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, negligent and heedless discipline!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by neglect and undue lack of concern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by neglect and undue lack of concern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your letters did withhold our breaking forth Till we perceived both how you were wrong led And we in negligent danger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celerity is never more admired Than by the negligent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, negligent and heedless discipline!"*

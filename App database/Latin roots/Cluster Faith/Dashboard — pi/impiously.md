@@ -5,15 +5,6 @@ status: unread
 ---
 # impiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Who can impair thee, mighty King, or bound Thy Empire? easily the proud attempt Of Spirits apostat and thir Counsels vaine Thou hast repeld, while impiously they thought Thee to diminish, and from thee withdraw The number of thy worshippers."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Easily the proud attempt Of Spirits apostate, and their counsels vain, Thou hast repelled; while impiously they thought Thee to diminish, and from thee withdraw The number of thy worshippers."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We have seen that, according to tradition, one of the kings of Alba was killed by a thunderbolt for impiously mimicking the thunder of Jupiter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Who can impair thee, mighty King, or bound Thy Empire? easily the proud attempt Of Spirits apostat and thir Counsels vaine Thou hast repeld, while impiously they thought Thee to diminish, and from thee withdraw The number of thy worshippers."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Easily the proud attempt Of Spirits apostate, and their counsels vain, Thou hast repelled; while impiously they thought Thee to diminish, and from thee withdraw The number of thy worshippers."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We have seen that, according to tradition, one of the kings of Alba was killed by a thunderbolt for impiously mimicking the thunder of Jupiter."*

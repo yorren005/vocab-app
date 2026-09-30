@@ -5,13 +5,6 @@ status: unread
 ---
 # tribromoethanol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intravenous anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intravenous anesthetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribromoethanol designates an intravenous anesthetic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intravenous anesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intravenous anesthetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribromoethanol designates an intravenous anesthetic."*

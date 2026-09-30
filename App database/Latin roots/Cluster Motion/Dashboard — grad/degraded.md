@@ -5,15 +5,6 @@ status: unread
 ---
 # degraded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce the level of land, as by erosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you disgraced me in my embassade, Then I degraded you from being king, And come now to create you Duke of York."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For yourself, unfortunate girl, orphaned and degraded from the first of these evil anniversaries, pray daily that the sins of others be not visited upon your head, according to what is written."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Lady Om was degraded of all rank and divested of all possessions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce the level of land, as by erosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you disgraced me in my embassade, Then I degraded you from being king, And come now to create you Duke of York."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For yourself, unfortunate girl, orphaned and degraded from the first of these evil anniversaries, pray daily that the sins of others be not visited upon your head, according to what is written."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Lady Om was degraded of all rank and divested of all possessions."*

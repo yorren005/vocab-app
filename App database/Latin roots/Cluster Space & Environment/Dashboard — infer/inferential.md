@@ -5,13 +5,6 @@ status: unread
 ---
 # inferential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of illation or inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from general premisses to a necessary and specific conclusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The work of deduction is the interpretation of these formulas, and therefore, strictly speaking, is not inferential at all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of illation or inference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from general premisses to a necessary and specific conclusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The work of deduction is the interpretation of these formulas, and therefore, strictly speaking, is not inferential at all."*

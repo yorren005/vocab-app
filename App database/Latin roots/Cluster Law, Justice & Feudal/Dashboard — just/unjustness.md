@@ -5,13 +5,6 @@ status: unread
 ---
 # unjustness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of being unjust or unfair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of being unjust or unfair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unjustness designates the practice of being unjust or unfair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of being unjust or unfair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of being unjust or unfair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unjustness designates the practice of being unjust or unfair."*

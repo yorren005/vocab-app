@@ -5,15 +5,6 @@ status: unread
 ---
 # ministration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assistance in time of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assistance in time of difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I know that from the beds of those who were past recovery, thanks have often, often gone up, in the last hour, for his patient ministration."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One continually sees the ministration of the temporary outlasting the ministration of the eternal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assistance in time of difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assistance in time of difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I know that from the beds of those who were past recovery, thanks have often, often gone up, in the last hour, for his patient ministration."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One continually sees the ministration of the temporary outlasting the ministration of the eternal."*

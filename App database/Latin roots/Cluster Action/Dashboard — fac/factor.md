@@ -5,15 +5,6 @@ status: unread
 ---
 # factor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that contributes causally to a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract part of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy is but my factor, good my lord, To engross up glorious deeds on my behalf, And I will call him to so strict account That he shall render every glory up, Yea, even the slightest worship of his time, Or I will tear the reckoning from his heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Richard yet lives, hell’s black intelligencer, Only reserved their factor to buy souls And send them thither."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But I fear I do not—” The sudden vision of his passion for herself as a factor in this result so distressed her that, beginning with one slow tear, and then following with another, she wept outright."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that contributes causally to a result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract part of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy is but my factor, good my lord, To engross up glorious deeds on my behalf, And I will call him to so strict account That he shall render every glory up, Yea, even the slightest worship of his time, Or I will tear the reckoning from his heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Richard yet lives, hell’s black intelligencer, Only reserved their factor to buy souls And send them thither."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But I fear I do not—” The sudden vision of his passion for herself as a factor in this result so distressed her that, beginning with one slow tear, and then following with another, she wept outright."*

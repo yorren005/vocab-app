@@ -5,15 +5,6 @@ status: unread
 ---
 # aggravation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exasperated feeling of annoyance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfriendly behavior that causes anger or resentment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All the unowned dogs who stray into the Inns of Court and pant about staircases and other dry places seeking water give short howls of aggravation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She saw in it but an aggravation of the evil."*
-> - 📜 **Jane Austen (*Persuasion*):** *"This was a cruel aggravation of actually straitened means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exasperated feeling of annoyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfriendly behavior that causes anger or resentment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"All the unowned dogs who stray into the Inns of Court and pant about staircases and other dry places seeking water give short howls of aggravation."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She saw in it but an aggravation of the evil."*
+> - 📜 **Jane Austen (*Persuasion*):** *"This was a cruel aggravation of actually straitened means."*

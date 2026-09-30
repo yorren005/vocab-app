@@ -5,14 +5,6 @@ status: unread
 ---
 # vole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small mouselike rodents of the family cricetidae (especially of genus microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small mouselike rodents of the family cricetidae (especially of genus microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ah, Monsieur!" he would add--"ils m'ont affreusement vole." It was melancholy to hear his accents as he spoke of that catastrophe."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"This person always spoke of England as of the most treacherous country in the world, and stated to her young pupils that she had been affreusement vole by natives of that island."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small mouselike rodents of the family cricetidae (especially of genus microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small mouselike rodents of the family cricetidae (especially of genus microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ah, Monsieur!" he would add--"ils m'ont affreusement vole." It was melancholy to hear his accents as he spoke of that catastrophe."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"This person always spoke of England as of the most treacherous country in the world, and stated to her young pupils that she had been affreusement vole by natives of that island."*

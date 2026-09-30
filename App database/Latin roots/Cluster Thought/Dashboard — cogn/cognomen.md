@@ -5,13 +5,6 @@ status: unread
 ---
 # cognomen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A familiar name for a person (often a shortened version of a person's given name).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The name used to identify the members of a family (as distinguished from each member's given name).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The cognomen of Crane was not inapplicable to his person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A familiar name for a person (often a shortened version of a person's given name).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The name used to identify the members of a family (as distinguished from each member's given name).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The cognomen of Crane was not inapplicable to his person."*

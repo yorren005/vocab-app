@@ -5,15 +5,6 @@ status: unread
 ---
 # octogenarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the eighties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being from 80 to 89 years old.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Sloane, ‘I see here that another octogenarian has just died."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"What is an octogenarian, Peter?’ And Mr."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In another place, and at another time, he would have been taken for an octogenarian, come to beg alms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the eighties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being from 80 to 89 years old.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Sloane, ‘I see here that another octogenarian has just died."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"What is an octogenarian, Peter?’ And Mr."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In another place, and at another time, he would have been taken for an octogenarian, come to beg alms."*

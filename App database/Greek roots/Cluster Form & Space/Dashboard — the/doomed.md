@@ -5,15 +5,6 @@ status: unread
 ---
 # doomed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are destined to die soon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decree or designate beforehand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the way To Julius Caesar’s ill-erected tower, To whose flint bosom my condemned lord Is doomed a prisoner by proud Bolingbroke."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But Mäzli was doomed to be disappointed, as no word was spoken."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are destined to die soon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decree or designate beforehand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the way To Julius Caesar’s ill-erected tower, To whose flint bosom my condemned lord Is doomed a prisoner by proud Bolingbroke."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But Mäzli was doomed to be disappointed, as no word was spoken."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*

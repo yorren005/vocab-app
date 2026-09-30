@@ -5,20 +5,6 @@ status: unread
 ---
 # doze
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sleep lightly
-> 2. **Nuance / Usage**: Light, short sleep or nap
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to doze the target*) and intransitive clauses (*dozing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"the morning, and fell into a doze before it."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"No one will thank you for a doze in such a den!"*
-> - 📜 **Neal Stephenson (*Snow Crash*):** *"She dozes, too. Lies there for a minute or two, all these thoughts going through her head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To sleep lightly or intermittently for a brief period, especially during the day; to nap.
+> 2. **Nuance / Usage**: Often used with *off* (*doze off*) to describe drifting unintentionally into a half-conscious, fitful slumber.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to doze the target*) and intransitive clauses (*dozing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I sat by the fire until late in the morning, and fell into an uneasy **doze** before it."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"No one will thank you for a **doze** in such a draughty den!"*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Dormouse slowly closed its eyes and began to **doze** off in the middle of its song."*

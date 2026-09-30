@@ -5,13 +5,6 @@ status: unread
 ---
 # suggestible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible or responsive to suggestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible or responsive to suggestion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suggestible designates susceptible or responsive to suggestion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible or responsive to suggestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible or responsive to suggestion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suggestible designates susceptible or responsive to suggestion."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # epiphysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small endocrine gland in the brain; situated beneath the back part of the corpus callosum; secretes melatonin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphysis designates the end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small endocrine gland in the brain; situated beneath the back part of the corpus callosum; secretes melatonin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphysis designates the end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused."*

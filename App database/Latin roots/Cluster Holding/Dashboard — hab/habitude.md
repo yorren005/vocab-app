@@ -5,15 +5,6 @@ status: unread
 ---
 # habitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual mode of behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual mode of behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When we got to La Clairière we were ready to sink down with fatigue like all the rest--nay, even more than the rest, for we were not used to it, and for my part I had altogether lost the habitude of long walks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual mode of behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual mode of behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When we got to La Clairière we were ready to sink down with fatigue like all the rest--nay, even more than the rest, for we were not used to it, and for my part I had altogether lost the habitude of long walks."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*

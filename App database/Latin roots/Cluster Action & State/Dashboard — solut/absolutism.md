@@ -5,13 +5,6 @@ status: unread
 ---
 # absolutism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominance through threat of punishment and violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The refuge from the constant perils of an unrestrained Democracy was always found in despotism, and when absolutism became intolerable, the tide of passion would surge back to Democracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominance through threat of punishment and violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The refuge from the constant perils of an unrestrained Democracy was always found in despotism, and when absolutism became intolerable, the tide of passion would surge back to Democracy."*

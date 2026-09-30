@@ -5,13 +5,6 @@ status: unread
 ---
 # fincen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A law enforcement agency of the treasury department responsible for establishing and implementing policies to detect money laundering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A law enforcement agency of the treasury department responsible for establishing and implementing policies to detect money laundering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fincen designates a law enforcement agency of the treasury department responsible for establishing and implementing policies to detect money laundering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A law enforcement agency of the treasury department responsible for establishing and implementing policies to detect money laundering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A law enforcement agency of the treasury department responsible for establishing and implementing policies to detect money laundering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fincen designates a law enforcement agency of the treasury department responsible for establishing and implementing policies to detect money laundering."*

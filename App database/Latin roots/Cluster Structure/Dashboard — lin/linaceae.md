@@ -5,13 +5,6 @@ status: unread
 ---
 # linaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed family of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely distributed family of plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linaceae designates a widely distributed family of plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed family of plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely distributed family of plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linaceae designates a widely distributed family of plants."*

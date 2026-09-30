@@ -5,15 +5,6 @@ status: unread
 ---
 # alleged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declared but not proved; - wall street journal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great Duke Came to the bar, where to his accusations He pleaded still not guilty and alleged Many sharp reasons to defeat the law."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore go on, For no dislike i’ th’ world against the person Of the good queen, but the sharp thorny points Of my alleged reasons, drives this forward."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declared but not proved; - wall street journal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great Duke Came to the bar, where to his accusations He pleaded still not guilty and alleged Many sharp reasons to defeat the law."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore go on, For no dislike i’ th’ world against the person Of the good queen, but the sharp thorny points Of my alleged reasons, drives this forward."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."*

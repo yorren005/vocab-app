@@ -5,15 +5,6 @@ status: unread
 ---
 # invocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer asking god's help as part of a religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incantation used in conjuring or summoning a devil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s that “ducdame?” JAQUES. ’Tis a Greek invocation to call fools into a circle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then with a passion would I shake the world; And rouse from sleep that fell anatomy Which cannot hear a lady’s feeble voice, Which scorns a modern invocation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet invocation of a child, most pretty, and pathetical!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer asking god's help as part of a religious service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incantation used in conjuring or summoning a devil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s that “ducdame?” JAQUES. ’Tis a Greek invocation to call fools into a circle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then with a passion would I shake the world; And rouse from sleep that fell anatomy Which cannot hear a lady’s feeble voice, Which scorns a modern invocation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet invocation of a child, most pretty, and pathetical!"*

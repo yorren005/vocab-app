@@ -5,15 +5,6 @@ status: unread
 ---
 # abstain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refrain from voting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose not to consume.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, that I abstain from examining this paper myself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Kim and Pak, in their youth, swore a pact to abstain from drinking, which pact was speedily broken."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He must abstain from many foods, such as eggs, birds of all sorts, mutton, dog, bush-buck, and so forth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refrain from voting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose not to consume.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, that I abstain from examining this paper myself."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Kim and Pak, in their youth, swore a pact to abstain from drinking, which pact was speedily broken."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He must abstain from many foods, such as eggs, birds of all sorts, mutton, dog, bush-buck, and so forth."*

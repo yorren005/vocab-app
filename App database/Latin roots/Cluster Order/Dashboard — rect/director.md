@@ -5,15 +5,6 @@ status: unread
 ---
 # director
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who controls resources and expenditures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of a board of directors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What is it?' I cried, 'you are their director--you are an ecclesiastic--you know what belongs to the unseen."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He is the administrator of the common property and director of work."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He advised my attending certain places in London, for the acquisition of such mere rudiments as I wanted, and my investing him with the functions of explainer and director of all my studies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who controls resources and expenditures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of a board of directors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What is it?' I cried, 'you are their director--you are an ecclesiastic--you know what belongs to the unseen."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He is the administrator of the common property and director of work."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He advised my attending certain places in London, for the acquisition of such mere rudiments as I wanted, and my investing him with the functions of explainer and director of all my studies."*

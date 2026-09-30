@@ -5,15 +5,6 @@ status: unread
 ---
 # inaccuracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being inaccurate and having errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inaccurate and having errors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Waiving any exception that might be taken to the inaccuracy or inexplicitness of the distinction between internal and external, let us inquire what ground there is to presuppose that disinclination in the people."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And this unavoidable inaccuracy must be greater or less, according to the complexity and novelty of the objects defined."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These examples, which are nearly as dissimilar to each other as to a genuine republic, show the extreme inaccuracy with which the term has been used in political disquisitions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being inaccurate and having errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inaccurate and having errors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Waiving any exception that might be taken to the inaccuracy or inexplicitness of the distinction between internal and external, let us inquire what ground there is to presuppose that disinclination in the people."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And this unavoidable inaccuracy must be greater or less, according to the complexity and novelty of the objects defined."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These examples, which are nearly as dissimilar to each other as to a genuine republic, show the extreme inaccuracy with which the term has been used in political disquisitions."*

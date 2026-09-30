@@ -5,13 +5,6 @@ status: unread
 ---
 # herp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To be careful about behaving in a polite or proper way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be careful about behaving in a polite or proper way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herp designates to be careful about behaving in a polite or proper way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be careful about behaving in a polite or proper way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be careful about behaving in a polite or proper way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herp designates to be careful about behaving in a polite or proper way."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cyclops
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a race of giants in Greek mythology with a single eye in the middle of the forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Cyclops) of freshwater predatory copepods having a single median eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To birds on the wing its glassy surface, reflecting the light sky, must have been visible for miles around as a glistening Cyclops’ eye in a green face."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"Cyclops" and "Assistance," Fleet repair ships, were joined by a large and increasing number of vessels, with Rear-Admiral F."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"A little Cyclops, with one eye Staring to threaten and defy, That thought comes next--and instantly The freak is over, The shape will vanish, and behold!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a race of giants in Greek mythology with a single eye in the middle of the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Cyclops) of freshwater predatory copepods having a single median eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To birds on the wing its glassy surface, reflecting the light sky, must have been visible for miles around as a glistening Cyclops’ eye in a green face."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"Cyclops" and "Assistance," Fleet repair ships, were joined by a large and increasing number of vessels, with Rear-Admiral F."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"A little Cyclops, with one eye Staring to threaten and defy, That thought comes next--and instantly The freak is over, The shape will vanish, and behold!"*

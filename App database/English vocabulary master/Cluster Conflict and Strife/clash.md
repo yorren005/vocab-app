@@ -5,20 +5,6 @@ status: unread
 ---
 # clash
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make a clash
-> 2. **Nuance / Usage**: Cause to clash
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to clash the target*) and intransitive clauses (*clashing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never want the two to clash if I can help it."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"shrieks and the clash of steel."*
-> - 📜 **Patricia McLinn (*Lattimore Mountain (The Sheila Mackey Collection, Book 1)*):** *"Alone amid clashes of rain against the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To strike together with a loud, harsh, metallic sound, or to meet in a violent physical confrontation or battle; as a noun, a sharp collision or armed encounter.
+> 2. **Nuance / Usage**: Used figuratively for a sharp incompatibility or conflict between opposing wills, doctrines, schedules, or colors (*a clash of temperaments*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun (count).
+> - **Syntactic Constructions**: Operates intransitively (*swords clashed*, *their interests clashed*) and nominally (*the clash of arms*).
+> - **Collocations & Registers**: Martial, acoustic, and ideological registers; collocated with *steel*, *cymbals*, *arms*, *wills*, and *empires*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I never want the two to **clash** if I can help it."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The air resounded with fierce shrieks and the **clash** of steel."*
+> - 📜 **Matthew Arnold (*Dover Beach*):** *"And we are here as on a darkling plain swept with confused alarms of struggle and flight, where ignorant armies **clash** by night."*

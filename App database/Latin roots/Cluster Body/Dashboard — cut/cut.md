@@ -5,15 +5,6 @@ status: unread
 ---
 # cut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A share of the profits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (film) an immediate transition from one shot to the next.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me cut the cable, And when we are put off, fall to their throats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A share of the profits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (film) an immediate transition from one shot to the next.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me cut the cable, And when we are put off, fall to their throats."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # antioch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southern turkey; ancient commercial center and capital of syria; an early center of christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southern turkey; ancient commercial center and capital of syria; an early center of christianity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the palace of Antioch Scene I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The temple of Diana at Ephesus Dramatis Personæ ANTIOCHUS, king of Antioch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Antioch, then, Antiochus the Great Built up, this city, for his chiefest seat; The fairest in all Syria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southern turkey; ancient commercial center and capital of syria; an early center of christianity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southern turkey; ancient commercial center and capital of syria; an early center of christianity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the palace of Antioch Scene I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The temple of Diana at Ephesus Dramatis Personæ ANTIOCHUS, king of Antioch."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Antioch, then, Antiochus the Great Built up, this city, for his chiefest seat; The fairest in all Syria."*

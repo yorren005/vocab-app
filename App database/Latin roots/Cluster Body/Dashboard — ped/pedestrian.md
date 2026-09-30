@@ -5,15 +5,6 @@ status: unread
 ---
 # pedestrian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels by foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking wit or imagination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Their legs are so hard as to encourage the idea that they must have devoted the greater part of their long and arduous lives to pedestrian exercises and the walking of matches."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was not a bridle-path—merely a pedestrian’s track, and the boughs spread horizontally at a height not greater than seven feet above the ground, which made it impossible to ride erect beneath them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pedestrian stood up, apparently with revived determination, and looked around."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels by foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking wit or imagination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Their legs are so hard as to encourage the idea that they must have devoted the greater part of their long and arduous lives to pedestrian exercises and the walking of matches."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was not a bridle-path—merely a pedestrian’s track, and the boughs spread horizontally at a height not greater than seven feet above the ground, which made it impossible to ride erect beneath them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pedestrian stood up, apparently with revived determination, and looked around."*

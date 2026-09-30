@@ -5,15 +5,6 @@ status: unread
 ---
 # underground
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret group organized to overthrow a government or occupation force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electric railway operating below the surface of the ground (usually in a city).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This they have promised, to show your highness A spirit raised from depth of underground, That shall make answer to such questions As by your Grace shall be propounded him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Why ye know I wouldn’t harm a worm—no, not one underground worm?” said Matthew Moon, looking very uneasy."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"For rain it hath a friendly sound To one who's six feet underground; And scarce the friendly voice or face: A grave is such a quiet place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret group organized to overthrow a government or occupation force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electric railway operating below the surface of the ground (usually in a city).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This they have promised, to show your highness A spirit raised from depth of underground, That shall make answer to such questions As by your Grace shall be propounded him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Why ye know I wouldn’t harm a worm—no, not one underground worm?” said Matthew Moon, looking very uneasy."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"For rain it hath a friendly sound To one who's six feet underground; And scarce the friendly voice or face: A grave is such a quiet place."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fraternize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Bridgeless division The caterpillar, transformed into a beautiful insect, 74:18 is no longer a worm, nor does the insect return to fraternize with or control the worm."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"It must be of some service to him, otherwise he would not fraternize with the little creature."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We fraternize with and are ready to support any citizen who loves the cause of pure Republicanism, and with this declaration we submit the whole subject to your deliberate judgment and wise consideration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Bridgeless division The caterpillar, transformed into a beautiful insect, 74:18 is no longer a worm, nor does the insect return to fraternize with or control the worm."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"It must be of some service to him, otherwise he would not fraternize with the little creature."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We fraternize with and are ready to support any citizen who loves the cause of pure Republicanism, and with this declaration we submit the whole subject to your deliberate judgment and wise consideration."*

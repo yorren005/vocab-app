@@ -5,15 +5,6 @@ status: unread
 ---
 # plenitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Then--one saw it coming--she leaned forward till the diamonds in her plenitude of fair hair sparkled like a crown of flame, and beckoned Lawrence to join her."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The loves and sorrows that are great are destroyed by their own plenitude."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Yet is not here God's awfulness displayed; His kindliness and mercy more appear; For flow'rs, the precious emblems He has made Of graciousness, in plenitude are here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Then--one saw it coming--she leaned forward till the diamonds in her plenitude of fair hair sparkled like a crown of flame, and beckoned Lawrence to join her."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The loves and sorrows that are great are destroyed by their own plenitude."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Yet is not here God's awfulness displayed; His kindliness and mercy more appear; For flow'rs, the precious emblems He has made Of graciousness, in plenitude are here."*

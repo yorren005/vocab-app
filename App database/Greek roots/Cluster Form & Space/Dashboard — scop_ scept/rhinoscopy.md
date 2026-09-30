@@ -5,13 +5,6 @@ status: unread
 ---
 # rhinoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoscopy designates examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoscopy designates examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # histaminase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme that acts as a catalyst in converting histidine to histamine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme that acts as a catalyst in converting histidine to histamine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histaminase designates enzyme that acts as a catalyst in converting histidine to histamine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme that acts as a catalyst in converting histidine to histamine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme that acts as a catalyst in converting histidine to histamine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histaminase designates enzyme that acts as a catalyst in converting histidine to histamine."*

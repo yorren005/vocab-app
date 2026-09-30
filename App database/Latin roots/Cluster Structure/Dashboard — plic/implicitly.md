@@ -5,15 +5,6 @@ status: unread
 ---
 # implicitly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without doubting or questioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without ever expressing so clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told Ada, in his most ingenuous way, that he had not come to make any secret inroad on the terms she had accepted (rather too implicitly and confidingly, he thought) from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Trust me, I will remain near you only so long as I can fully respect it.” “I trust implicitly to you,” I said."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Shallow natures dream of an easy sway over the emotions of others, trusting implicitly in their own petty magic to turn the deepest streams, and confident, by pretty gestures and remarks, of making the thing that is not as though it were."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without doubting or questioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without ever expressing so clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He told Ada, in his most ingenuous way, that he had not come to make any secret inroad on the terms she had accepted (rather too implicitly and confidingly, he thought) from Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Trust me, I will remain near you only so long as I can fully respect it.” “I trust implicitly to you,” I said."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Shallow natures dream of an easy sway over the emotions of others, trusting implicitly in their own petty magic to turn the deepest streams, and confident, by pretty gestures and remarks, of making the thing that is not as though it were."*

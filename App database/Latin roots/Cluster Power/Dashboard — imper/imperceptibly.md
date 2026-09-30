@@ -5,15 +5,6 @@ status: unread
 ---
 # imperceptibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperceptible manner or to an imperceptible degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperceptible manner or to an imperceptible degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"First, that he seems imperceptibly to establish a dreadful right of property in mademoiselle."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I should be sorrier still if I did not think that the rain might be helping me.” She imperceptibly crept closer, and he wrapped round them both a large piece of sail-cloth, which was sometimes used to keep the sun off the milk-cans."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Imperceptibly I became conscious of a change in Biddy, however."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperceptible manner or to an imperceptible degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperceptible manner or to an imperceptible degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"First, that he seems imperceptibly to establish a dreadful right of property in mademoiselle."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I should be sorrier still if I did not think that the rain might be helping me.” She imperceptibly crept closer, and he wrapped round them both a large piece of sail-cloth, which was sometimes used to keep the sun off the milk-cans."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Imperceptibly I became conscious of a change in Biddy, however."*

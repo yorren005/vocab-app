@@ -5,13 +5,6 @@ status: unread
 ---
 # latchstring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opener consisting of a string that can be passed through a hole in a door for raising the latch from outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opener consisting of a string that can be passed through a hole in a door for raising the latch from outside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latchstring designates opener consisting of a string that can be passed through a hole in a door for raising the latch from outside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opener consisting of a string that can be passed through a hole in a door for raising the latch from outside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opener consisting of a string that can be passed through a hole in a door for raising the latch from outside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latchstring designates opener consisting of a string that can be passed through a hole in a door for raising the latch from outside."*

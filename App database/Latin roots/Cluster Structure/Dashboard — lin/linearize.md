@@ -5,13 +5,6 @@ status: unread
 ---
 # linearize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make linear or get into a linear form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make linear or get into a linear form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linearize designates make linear or get into a linear form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make linear or get into a linear form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make linear or get into a linear form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linearize designates make linear or get into a linear form."*

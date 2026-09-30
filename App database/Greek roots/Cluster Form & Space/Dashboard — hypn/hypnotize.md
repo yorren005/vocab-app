@@ -5,15 +5,6 @@ status: unread
 ---
 # hypnotize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To induce hypnosis in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dazzle or overcome by or as if by suggestion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Or are you trying to hypnotize me?” “Look me in the eye, Ches."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She came nearer, as though hypnotized ..."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Morbid Secre- tion hypnotized the prisoner and took control of his mind, 431:24 making him despondent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To induce hypnosis in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dazzle or overcome by or as if by suggestion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Or are you trying to hypnotize me?” “Look me in the eye, Ches."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She came nearer, as though hypnotized ..."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Morbid Secre- tion hypnotized the prisoner and took control of his mind, 431:24 making him despondent."*

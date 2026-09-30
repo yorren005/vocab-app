@@ -5,13 +5,6 @@ status: unread
 ---
 # photometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring luminous intensity, luminous flux, illumination, or brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spectrophotometer in which a spray of metallic salts in solution is vaporized in a very hot flame and subjected to quantitative analysis by measuring the intensities of the spectral lines of the metals present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometer designates an instrument for measuring luminous intensity, luminous flux, illumination, or brightness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring luminous intensity, luminous flux, illumination, or brightness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spectrophotometer in which a spray of metallic salts in solution is vaporized in a very hot flame and subjected to quantitative analysis by measuring the intensities of the spectral lines of the metals present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometer designates an instrument for measuring luminous intensity, luminous flux, illumination, or brightness."*

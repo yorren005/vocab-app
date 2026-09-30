@@ -5,13 +5,6 @@ status: unread
 ---
 # calla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african plant widely cultivated for its showy pure white spathe and yellow spadix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water arum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calla designates south african plant widely cultivated for its showy pure white spathe and yellow spadix."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: South african plant widely cultivated for its showy pure white spathe and yellow spadix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water arum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calla designates south african plant widely cultivated for its showy pure white spathe and yellow spadix."*

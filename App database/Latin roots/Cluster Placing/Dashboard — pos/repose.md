@@ -5,15 +5,6 @@ status: unread
 ---
 # repose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from activity (work or strain or responsibility).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of mental stress or anxiety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that unbuckles this, till we do please To daff’t for our repose, shall hear a storm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, to our tent, Where, ere we do repose us, we will write To Rome of our success.—You, Titus Lartius, Must to Corioles back."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canst thou, O partial sleep, give thy repose To the wet sea-boy in an hour so rude, And in the calmest and most stillest night, With all appliances and means to boot, Deny it to a King?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from activity (work or strain or responsibility).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of mental stress or anxiety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that unbuckles this, till we do please To daff’t for our repose, shall hear a storm."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, to our tent, Where, ere we do repose us, we will write To Rome of our success.—You, Titus Lartius, Must to Corioles back."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canst thou, O partial sleep, give thy repose To the wet sea-boy in an hour so rude, And in the calmest and most stillest night, With all appliances and means to boot, Deny it to a King?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # undervalue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign too low a value to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Esteem lightly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"God forbid that I should undervalue the warm and faithful feelings of any of my fellow-creatures!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The use which has been made of this difference, in reasonings contained in former papers, will have shown that I am disposed neither to deny its existence nor to undervalue its importance."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The more you know the more unhappy you are.” “You should not undervalue knowledge before Pansy, who has not finished her education,” Madame Merle interposed with a smile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign too low a value to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Esteem lightly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"God forbid that I should undervalue the warm and faithful feelings of any of my fellow-creatures!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The use which has been made of this difference, in reasonings contained in former papers, will have shown that I am disposed neither to deny its existence nor to undervalue its importance."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The more you know the more unhappy you are.” “You should not undervalue knowledge before Pansy, who has not finished her education,” Madame Merle interposed with a smile."*

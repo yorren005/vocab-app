@@ -5,15 +5,6 @@ status: unread
 ---
 # translucent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowing light to pass through diffusely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allowing light to pass through diffusely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She had on his flannel coat over her linen one and his expression was one of glorified and translucent daze."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sprawled across the frozen methane plain a couple of points to starboard Coldfield's lights shimmered through its frost-crusted, barely translucent dome."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer and Brad stepped from the command deck to a small balcony overlooking a shallow pit covered by a pale, translucent screen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowing light to pass through diffusely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allowing light to pass through diffusely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She had on his flannel coat over her linen one and his expression was one of glorified and translucent daze."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sprawled across the frozen methane plain a couple of points to starboard Coldfield's lights shimmered through its frost-crusted, barely translucent dome."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer and Brad stepped from the command deck to a small balcony overlooking a shallow pit covered by a pale, translucent screen."*

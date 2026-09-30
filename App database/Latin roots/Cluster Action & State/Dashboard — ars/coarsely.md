@@ -5,15 +5,6 @@ status: unread
 ---
 # coarsely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In coarse pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coarse pieces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a gentleman that serves the count Reports but coarsely of her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The walk had made them hungry, Angel in particular, who was now an outdoor man, accustomed to the profuse _dapes inemptae_ of the dairyman’s somewhat coarsely-laden table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In coarse pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coarse pieces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a gentleman that serves the count Reports but coarsely of her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The walk had made them hungry, Angel in particular, who was now an outdoor man, accustomed to the profuse _dapes inemptae_ of the dairyman’s somewhat coarsely-laden table."*

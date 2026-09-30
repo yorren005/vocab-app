@@ -5,15 +5,6 @@ status: unread
 ---
 # expiatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having power to atone for or offered by way of expiation or propitiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to atone for or offered by way of expiation or propitiation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence too we can understand why an ancient Roman law, attributed to King Tullus Hostilius, prescribed that, when incest had been committed, an expiatory sacrifice should be offered by the pontiffs in the grove of Diana."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Meanwhile at home an oracle had commanded that King Athamas himself should be sacrificed as an expiatory offering for the whole country."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Before setting out they offered expiatory sacrifices to the souls of bears slain in previous hunts, and besought them to be favourable to the hunters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having power to atone for or offered by way of expiation or propitiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to atone for or offered by way of expiation or propitiation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence too we can understand why an ancient Roman law, attributed to King Tullus Hostilius, prescribed that, when incest had been committed, an expiatory sacrifice should be offered by the pontiffs in the grove of Diana."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Meanwhile at home an oracle had commanded that King Athamas himself should be sacrificed as an expiatory offering for the whole country."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Before setting out they offered expiatory sacrifices to the souls of bears slain in previous hunts, and besought them to be favourable to the hunters."*

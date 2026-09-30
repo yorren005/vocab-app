@@ -5,15 +5,6 @@ status: unread
 ---
 # calibrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fine adjustments or divide into marked intervals for optimal measuring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark (the scale of a measuring instrument) so that it can be read in the desired units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even if they do have more spares stashed away, it'll take them at least twenty hours to install the parts and calibrate the system." Brad turned to Rimov."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When she was done with a turret, the gun had a zero firing potential, and would take hours to repair, calibrate and test."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Walking swiftly along a passageway he passed Hodak at a workbench calibrating instruments as cover."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fine adjustments or divide into marked intervals for optimal measuring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark (the scale of a measuring instrument) so that it can be read in the desired units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even if they do have more spares stashed away, it'll take them at least twenty hours to install the parts and calibrate the system." Brad turned to Rimov."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When she was done with a turret, the gun had a zero firing potential, and would take hours to repair, calibrate and test."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Walking swiftly along a passageway he passed Hodak at a workbench calibrating instruments as cover."*

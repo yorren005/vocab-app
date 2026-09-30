@@ -5,15 +5,6 @@ status: unread
 ---
 # felicitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express congratulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express congratulations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In my true heart I find she names my very deed of love; Only she comes too short, that I profess Myself an enemy to all other joys Which the most precious square of sense possesses, And find I am alone felicitate In your dear highness’ love."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"And indeed in this particular the Typees had ample reason to felicitate themselves, for sickness was almost unknown."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"We therefore felicitate thee.” Maitreya and the disciples are amazed at this vast concourse, and at Śakyamuni claiming them as his Bodhisattvas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express congratulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express congratulations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In my true heart I find she names my very deed of love; Only she comes too short, that I profess Myself an enemy to all other joys Which the most precious square of sense possesses, And find I am alone felicitate In your dear highness’ love."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"And indeed in this particular the Typees had ample reason to felicitate themselves, for sickness was almost unknown."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"We therefore felicitate thee.” Maitreya and the disciples are amazed at this vast concourse, and at Śakyamuni claiming them as his Bodhisattvas."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # diastole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastole designates a rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastole designates a rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood."*

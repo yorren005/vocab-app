@@ -5,14 +5,6 @@ status: unread
 ---
 # scapulary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a long wide piece of woolen cloth worn over the shoulders with an opening for the head; part of a monastic habit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garment consisting of a long wide piece of woolen cloth worn over the shoulders with an opening for the head; part of a monastic habit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"A black woollen robe covers the whole body and feet; the hood is loose, obtuse, oval, and broad; the scapulary is plain, of the breadth of the abdomen; the girdle is broad, with a black cowl descending to the ancles."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The inner tunics, in general, are black, and the shirt is narrow at the wrist; but in the house, the monk lays aside the hood, girds his scapulary, and wears a crested or twofold cap on his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a long wide piece of woolen cloth worn over the shoulders with an opening for the head; part of a monastic habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garment consisting of a long wide piece of woolen cloth worn over the shoulders with an opening for the head; part of a monastic habit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"A black woollen robe covers the whole body and feet; the hood is loose, obtuse, oval, and broad; the scapulary is plain, of the breadth of the abdomen; the girdle is broad, with a black cowl descending to the ancles."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The inner tunics, in general, are black, and the shirt is narrow at the wrist; but in the house, the monk lays aside the hood, girds his scapulary, and wears a crested or twofold cap on his head."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # validity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being valid and rigorous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having legal force or effectiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose is but the slave to memory, Of violent birth, but poor validity: Which now, like fruit unripe, sticks on the tree, But fall unshaken when they mellow be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More validity, More honourable state, more courtship lives In carrion flies than Romeo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being valid and rigorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having legal force or effectiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose is but the slave to memory, Of violent birth, but poor validity: Which now, like fruit unripe, sticks on the tree, But fall unshaken when they mellow be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More validity, More honourable state, more courtship lives In carrion flies than Romeo."*

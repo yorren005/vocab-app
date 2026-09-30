@@ -5,13 +5,6 @@ status: unread
 ---
 # revitalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing again into activity and prominence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"MIGHTY AND HISTORIC ENTERPRISES It is upon the individual believer, constituting the fundamental unit in the structure of the home front, that the revitalization, the expansion, and the enrichment of the home front must ultimately depend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing again into activity and prominence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"MIGHTY AND HISTORIC ENTERPRISES It is upon the individual believer, constituting the fundamental unit in the structure of the home front, that the revitalization, the expansion, and the enrichment of the home front must ultimately depend."*

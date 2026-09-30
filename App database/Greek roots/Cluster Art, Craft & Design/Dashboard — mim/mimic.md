@@ -5,15 +5,6 @@ status: unread
 ---
 # mimic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To imitate closely : ape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To ridicule by imitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anon, his Thisbe must be answerèd, And forth my mimic comes."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The hero of the mimic scene, no more I start in Hamlet, in Othello roar; Or, haughty Chieftain, ’mid the din of arms In Highland Bonnet, woo Malvina’s charms; While sans-culottes stoop up the mountain high, And steal from me Maria’s prying eye."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"A mimic rivulet ran from room to room in an alabaster channel, and the spray of perfumed fountains cooled the air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To imitate closely : ape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To ridicule by imitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anon, his Thisbe must be answerèd, And forth my mimic comes."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The hero of the mimic scene, no more I start in Hamlet, in Othello roar; Or, haughty Chieftain, ’mid the din of arms In Highland Bonnet, woo Malvina’s charms; While sans-culottes stoop up the mountain high, And steal from me Maria’s prying eye."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"A mimic rivulet ran from room to room in an alabaster channel, and the spray of perfumed fountains cooled the air."*

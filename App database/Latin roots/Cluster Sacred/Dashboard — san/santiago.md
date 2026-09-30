@@ -5,15 +5,6 @@ status: unread
 ---
 # santiago
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: City in the northern dominican republic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in southeastern cuba; industrial center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The two Spanish bulletins, the one already published in Santiago and the other planned in San José, should, likewise, as an adjunct to Bahá'í publications, be developed and widely circulated."*
-> - 📜 **James Joyce (*Ulysses*):** *"It ran as follows: _Tarjeta Postal, Señor A Boudin, Galeria Becche, Santiago, Chile._ There was no message evidently, as he took particular notice."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The Spaniard replied, Don Juan Pedro Hernandez Rodriguez Alvarez de Villa-nova, Count de Malafra, Cavallero de Santiago de Alcantara."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: City in the northern dominican republic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in southeastern cuba; industrial center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The two Spanish bulletins, the one already published in Santiago and the other planned in San José, should, likewise, as an adjunct to Bahá'í publications, be developed and widely circulated."*
+> - 📜 **James Joyce (*Ulysses*):** *"It ran as follows: _Tarjeta Postal, Señor A Boudin, Galeria Becche, Santiago, Chile._ There was no message evidently, as he took particular notice."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The Spaniard replied, Don Juan Pedro Hernandez Rodriguez Alvarez de Villa-nova, Count de Malafra, Cavallero de Santiago de Alcantara."*

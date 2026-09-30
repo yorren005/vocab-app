@@ -5,15 +5,6 @@ status: unread
 ---
 # tonsure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shaved crown of a monk's or priest's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaving the crown of the head by priests or members of a monastic order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Near the eastern window is the sculptured head of a friar, with the tonsure, but otherwise quite disfigured."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In food, in clothing, and the tonsure, they did not vary from the common institution."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"On her tower, high up clomb Bramimunde, Around her there the clerks and canons stood Of the false law, whom God ne'er loved nor knew; Orders they'd none, nor were their heads tonsured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The shaved crown of a monk's or priest's head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaving the crown of the head by priests or members of a monastic order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Near the eastern window is the sculptured head of a friar, with the tonsure, but otherwise quite disfigured."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In food, in clothing, and the tonsure, they did not vary from the common institution."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"On her tower, high up clomb Bramimunde, Around her there the clerks and canons stood Of the false law, whom God ne'er loved nor knew; Orders they'd none, nor were their heads tonsured."*

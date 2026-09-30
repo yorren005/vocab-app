@@ -5,15 +5,6 @@ status: unread
 ---
 # dike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial watercourse : ditch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bank usually of earth constructed to control or confine water : levee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a reasonably good path now, mostly on the edge of the river, with a divergence here and there where a dike came, with a miniature windmill on it and a muddy sluice-gate."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The chapel and bridge are of stone alike, Blackish-gray and mostly wet; Cut hemp-stalks steep in the narrow dike."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He followed the narrow path which, skirting the Backwater, crosses a field, and then drops over the high March dike into the road quite close to the cottage of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial watercourse : ditch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bank usually of earth constructed to control or confine water : levee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a reasonably good path now, mostly on the edge of the river, with a divergence here and there where a dike came, with a miniature windmill on it and a muddy sluice-gate."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The chapel and bridge are of stone alike, Blackish-gray and mostly wet; Cut hemp-stalks steep in the narrow dike."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He followed the narrow path which, skirting the Backwater, crosses a field, and then drops over the high March dike into the road quite close to the cottage of Mr."*

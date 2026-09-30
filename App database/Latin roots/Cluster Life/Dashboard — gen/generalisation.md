@@ -5,13 +5,6 @@ status: unread
 ---
 # generalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or conclusion having general application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of formulating general concepts by abstracting common properties of instances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalisation designates an idea or conclusion having general application."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or conclusion having general application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of formulating general concepts by abstracting common properties of instances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalisation designates an idea or conclusion having general application."*

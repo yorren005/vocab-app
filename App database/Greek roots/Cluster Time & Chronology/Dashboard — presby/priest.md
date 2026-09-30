@@ -5,15 +5,6 @@ status: unread
 ---
 # priest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is authorized to perform the sacred rites of a religion especially as a mediatory agent between humans and God; specifically : an Anglican, Eastern Orthodox, or Roman Catholic clergyperson ranking below a bishop and above a deacon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Controlled or oppressed by priests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Although before the solemn priest I have sworn, I will not bed her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you to church, and have a good priest that can tell you what marriage is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then, can one desire too much of a good thing?—Come, sister, you shall be the priest and marry us.—Give me your hand, Orlando.—What do you say, sister?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is authorized to perform the sacred rites of a religion especially as a mediatory agent between humans and God; specifically : an Anglican, Eastern Orthodox, or Roman Catholic clergyperson ranking below a bishop and above a deacon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Controlled or oppressed by priests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Although before the solemn priest I have sworn, I will not bed her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you to church, and have a good priest that can tell you what marriage is."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then, can one desire too much of a good thing?—Come, sister, you shall be the priest and marry us.—Give me your hand, Orlando.—What do you say, sister?"*

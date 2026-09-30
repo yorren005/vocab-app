@@ -5,15 +5,6 @@ status: unread
 ---
 # satire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Witty language used to convey insults or scorn; ; ; --jonathan swift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Witty language used to convey insults or scorn; ; ; --jonathan swift.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think I care for a satire or an epigram?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be a personating of himself, a satire against the softness of prosperity, with a discovery of the infinite flatteries that follow youth and opulency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Witty language used to convey insults or scorn; ; ; --jonathan swift.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Witty language used to convey insults or scorn; ; ; --jonathan swift.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think I care for a satire or an epigram?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be a personating of himself, a satire against the softness of prosperity, with a discovery of the infinite flatteries that follow youth and opulency."*

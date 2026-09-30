@@ -5,13 +5,6 @@ status: unread
 ---
 # photopolymer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-sensitive material that undergoes chemical and physical property changes when exposed to light (as UV or visible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light-sensitive polymer used especially in the manufacture of printing plates —often used before another noun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photopolymer designates a light-sensitive material that undergoes chemical and physical property changes when exposed to light (as uv or visible)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-sensitive material that undergoes chemical and physical property changes when exposed to light (as UV or visible).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light-sensitive polymer used especially in the manufacture of printing plates —often used before another noun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photopolymer designates a light-sensitive material that undergoes chemical and physical property changes when exposed to light (as uv or visible)."*

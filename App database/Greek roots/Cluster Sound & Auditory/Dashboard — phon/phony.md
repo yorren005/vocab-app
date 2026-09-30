@@ -5,15 +5,6 @@ status: unread
 ---
 # phony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraudulent; having a misleading appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"That phony note at the Hotel Granada, for instance."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"In order to find the phony note, they had to give us a clue as to where it was."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"Why an expensive neutrino generator, when some cheap radioactive would do? _Because he didn't want to kill Holdreth Khain!_ "And that meant that our friendly Damakoi was a phony." Ned shook his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraudulent; having a misleading appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"That phony note at the Hotel Granada, for instance."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"In order to find the phony note, they had to give us a clue as to where it was."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"Why an expensive neutrino generator, when some cheap radioactive would do? _Because he didn't want to kill Holdreth Khain!_ "And that meant that our friendly Damakoi was a phony." Ned shook his head."*

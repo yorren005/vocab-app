@@ -5,15 +5,6 @@ status: unread
 ---
 # apprise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inform (somebody) of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make aware of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst to apprise Miss Temple and the teachers of my vicious nature."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some men must marry to elevate themselves a little, but when I am in need of that, I hope some one will tell me so—I hope some individual will apprise me of the fact."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, there is no haste necessary in this matter; but I wished to apprise you beforehand of what may possibly occur.” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inform (somebody) of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make aware of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst to apprise Miss Temple and the teachers of my vicious nature."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Some men must marry to elevate themselves a little, but when I am in need of that, I hope some one will tell me so—I hope some individual will apprise me of the fact."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, there is no haste necessary in this matter; but I wished to apprise you beforehand of what may possibly occur.” Mr."*

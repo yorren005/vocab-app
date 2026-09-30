@@ -5,13 +5,6 @@ status: unread
 ---
 # fraternise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fraternise designates be on friendly terms with someone, as if with a brother, especially with an enemy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fraternise designates be on friendly terms with someone, as if with a brother, especially with an enemy."*

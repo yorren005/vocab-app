@@ -5,15 +5,6 @@ status: unread
 ---
 # patrimony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A church endowment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inheritance coming by right of birth (especially by primogeniture).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"General, Take thou my soldiers, prisoners, patrimony; Dispose of them, of me; the walls are thine: Witness the world that I create thee here My lord and master."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No good at all that I can do for him, Unless you call it good to pity him, Bereft and gelded of his patrimony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Baptista, you are happily met. [_To the Pedant_] Sir, this is the gentleman I told you of; I pray you stand good father to me now; Give me Bianca for my patrimony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A church endowment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inheritance coming by right of birth (especially by primogeniture).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"General, Take thou my soldiers, prisoners, patrimony; Dispose of them, of me; the walls are thine: Witness the world that I create thee here My lord and master."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No good at all that I can do for him, Unless you call it good to pity him, Bereft and gelded of his patrimony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Baptista, you are happily met. [_To the Pedant_] Sir, this is the gentleman I told you of; I pray you stand good father to me now; Give me Bianca for my patrimony."*

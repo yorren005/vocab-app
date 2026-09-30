@@ -5,15 +5,6 @@ status: unread
 ---
 # decorated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was immediately apparent that the military man’s spur had become entangled in the gimp which decorated the skirt of her dress."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tufts and garlands of green foliage decorated the walls, beams, and extemporized chandeliers, and immediately opposite to Oak a rostrum had been erected, bearing a table and chairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was immediately apparent that the military man’s spur had become entangled in the gimp which decorated the skirt of her dress."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tufts and garlands of green foliage decorated the walls, beams, and extemporized chandeliers, and immediately opposite to Oak a rostrum had been erected, bearing a table and chairs."*

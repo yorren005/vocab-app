@@ -5,13 +5,6 @@ status: unread
 ---
 # evisceration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of an organ (or the contents of an organ) from a patient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing the bowels or viscera; the act of cutting so as to cause the viscera to protrude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evisceration designates surgical removal of an organ (or the contents of an organ) from a patient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of an organ (or the contents of an organ) from a patient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing the bowels or viscera; the act of cutting so as to cause the viscera to protrude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evisceration designates surgical removal of an organ (or the contents of an organ) from a patient."*

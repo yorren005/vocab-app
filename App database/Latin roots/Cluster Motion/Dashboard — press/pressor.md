@@ -5,13 +5,6 @@ status: unread
 ---
 # pressor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs; maintains or increases blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing (or tending to increase) blood pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressor designates any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs; maintains or increases blood pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs; maintains or increases blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing (or tending to increase) blood pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressor designates any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs; maintains or increases blood pressure."*

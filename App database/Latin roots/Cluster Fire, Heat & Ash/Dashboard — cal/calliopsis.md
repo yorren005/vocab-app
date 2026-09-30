@@ -5,13 +5,6 @@ status: unread
 ---
 # calliopsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliopsis designates north american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: North american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calliopsis designates north american annual widely cultivated for its yellow flowers with purple-red to brownish centers; in some classifications placed in a subgenus calliopsis."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # supervision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At length he recovered sufficiently to be removed under his elder brother's careful and loving supervision to the Edinburgh Infirmary, where he remained for four months."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His purpose is to stimulate the industry of the workers, thus reducing waste and cost of labor and supervision, and thereby increasing profits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"At length he recovered sufficiently to be removed under his elder brother's careful and loving supervision to the Edinburgh Infirmary, where he remained for four months."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His purpose is to stimulate the industry of the workers, thus reducing waste and cost of labor and supervision, and thereby increasing profits."*

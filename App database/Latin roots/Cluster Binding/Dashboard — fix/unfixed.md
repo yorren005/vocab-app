@@ -5,15 +5,6 @@ status: unread
 ---
 # unfixed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly placed or set or fastened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking definition or definite content; ; - jane austen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The General listened with assenting gratitude; and it seemed as if his own estimation of Northanger had waited unfixed till that hour."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But Joe was readier with his definition than I had expected, and completely stopped me by arguing circularly, and answering with a fixed look, “Her.” “And I ain’t a master-mind,” Joe resumed, when he had unfixed his look, and got back to his whisker."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth was an inferior young man, as ignorant in business as in books, with opinions in general unfixed, and without seeming much aware of it himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly placed or set or fastened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking definition or definite content; ; - jane austen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The General listened with assenting gratitude; and it seemed as if his own estimation of Northanger had waited unfixed till that hour."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But Joe was readier with his definition than I had expected, and completely stopped me by arguing circularly, and answering with a fixed look, “Her.” “And I ain’t a master-mind,” Joe resumed, when he had unfixed his look, and got back to his whisker."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth was an inferior young man, as ignorant in business as in books, with opinions in general unfixed, and without seeming much aware of it himself."*

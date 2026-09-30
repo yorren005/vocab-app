@@ -5,15 +5,6 @@ status: unread
 ---
 # scenery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The painted structures of a stage set that are intended to suggest a particular locale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of a place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The changes of the seasons are less obtrusive on spots of this kind than amid woodland scenery."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight, coming as it did, superimposed upon the other dark scenery of the previous days, formed a sort of climax to the whole panorama, and it was more than he could endure."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ascent was gradual on this side, and the soil and scenery differed much from those within Blakemore Vale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The painted structures of a stage set that are intended to suggest a particular locale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of a place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The changes of the seasons are less obtrusive on spots of this kind than amid woodland scenery."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight, coming as it did, superimposed upon the other dark scenery of the previous days, formed a sort of climax to the whole panorama, and it was more than he could endure."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ascent was gradual on this side, and the soil and scenery differed much from those within Blakemore Vale."*

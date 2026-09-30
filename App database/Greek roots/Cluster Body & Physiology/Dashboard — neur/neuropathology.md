@@ -5,13 +5,6 @@ status: unread
 ---
 # neuropathology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathology of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathology of the nervous system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathology designates pathology of the nervous system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathology of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathology of the nervous system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathology designates pathology of the nervous system."*

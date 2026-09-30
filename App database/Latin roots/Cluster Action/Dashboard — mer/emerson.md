@@ -5,15 +5,6 @@ status: unread
 ---
 # emerson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer and leading exponent of transcendentalism (1803-1882).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and leading exponent of transcendentalism (1803-1882).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of other variations have been worked out by the promoters of recent scientific management, and are known as Taylor's, Gantt's, and Emerson's plans."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Emerson 43 Location of the Lua o Milu 48 VI."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Emerson_ Not far from the summit of Hualalai, on the island of Hawaii, in the cave on the southern side of the ridge, lived Hina and her son, the _kupua_, or demigod, Hiku."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer and leading exponent of transcendentalism (1803-1882).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and leading exponent of transcendentalism (1803-1882).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of other variations have been worked out by the promoters of recent scientific management, and are known as Taylor's, Gantt's, and Emerson's plans."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Emerson 43 Location of the Lua o Milu 48 VI."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Emerson_ Not far from the summit of Hualalai, on the island of Hawaii, in the cave on the southern side of the ridge, lived Hina and her son, the _kupua_, or demigod, Hiku."*

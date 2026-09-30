@@ -5,15 +5,6 @@ status: unread
 ---
 # mirthless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking mirth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking mirth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was a curious laugh; distinct, formal, mirthless."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The smile was no more than a contortion of the muscles of the face, which made a long mirthless crease on either cheek, and left the eyes untouched by the least light of sympathy."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But their gaiety seemed to Prince Andrew mirthless and tiresome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking mirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking mirth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was a curious laugh; distinct, formal, mirthless."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The smile was no more than a contortion of the muscles of the face, which made a long mirthless crease on either cheek, and left the eyes untouched by the least light of sympathy."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But their gaiety seemed to Prince Andrew mirthless and tiresome."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # drama
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic work intended for performance by actors on a stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An episode that is turbulent or highly emotional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Directly Tess was out of sight, and the interest of the matter as a drama was at an end, the little ones’ eyes filled with tears."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Where are the Muses fled that could produce A drama worthy o’ the name o’ Bruce?"*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But dramatically with that fall the action ceases, and the drama should have ceased with it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic work intended for performance by actors on a stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An episode that is turbulent or highly emotional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Directly Tess was out of sight, and the interest of the matter as a drama was at an end, the little ones’ eyes filled with tears."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Where are the Muses fled that could produce A drama worthy o’ the name o’ Bruce?"*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But dramatically with that fall the action ceases, and the drama should have ceased with it."*

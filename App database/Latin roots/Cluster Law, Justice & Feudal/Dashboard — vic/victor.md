@@ -5,15 +5,6 @@ status: unread
 ---
 # victor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A combatant who is able to defeat rivals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contestant who wins the contest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Caius Lucius, Although the victor, we submit to Cæsar And to the Roman empire, promising To pay our wonted tribute, from the which We were dissuaded by our wicked queen, Whom heavens in justice, both on her and hers, Have laid most heavy hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come to me, friend or foe, And tell me who is victor, York or Warwick?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since we cannot atone you, we shall see Justice design the victor’s chivalry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combatant who is able to defeat rivals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contestant who wins the contest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Caius Lucius, Although the victor, we submit to Cæsar And to the Roman empire, promising To pay our wonted tribute, from the which We were dissuaded by our wicked queen, Whom heavens in justice, both on her and hers, Have laid most heavy hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come to me, friend or foe, And tell me who is victor, York or Warwick?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since we cannot atone you, we shall see Justice design the victor’s chivalry."*

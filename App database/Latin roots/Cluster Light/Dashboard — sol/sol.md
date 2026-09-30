@@ -5,15 +5,6 @@ status: unread
 ---
 # sol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloid that has a continuous liquid phase in which a solid is suspended in a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) ancient roman god; personification of the sun; counterpart of greek helios.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who understandeth thee not, loves thee not. [_He sings_.] Ut, re, sol, la, mi, fa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, sirrah, and you’ll not knock, I’ll ring it; I’ll try how you can sol, fa, and sing it. [_He wrings Grumio by the ears._] GRUMIO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BIANCA. _Gamut_ I am, the ground of all accord, _A re_, to plead Hortensio’s passion; _B mi_, Bianca, take him for thy lord, _C fa ut_, that loves with all affection: _D sol re_, one clef, two notes have I _E la mi_, show pity or I die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloid that has a continuous liquid phase in which a solid is suspended in a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) ancient roman god; personification of the sun; counterpart of greek helios.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who understandeth thee not, loves thee not. [_He sings_.] Ut, re, sol, la, mi, fa."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, sirrah, and you’ll not knock, I’ll ring it; I’ll try how you can sol, fa, and sing it. [_He wrings Grumio by the ears._] GRUMIO."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BIANCA. _Gamut_ I am, the ground of all accord, _A re_, to plead Hortensio’s passion; _B mi_, Bianca, take him for thy lord, _C fa ut_, that loves with all affection: _D sol re_, one clef, two notes have I _E la mi_, show pity or I die."*

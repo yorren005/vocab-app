@@ -5,15 +5,6 @@ status: unread
 ---
 # imperious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not th’ imperious show Of the full-fortuned Caesar ever shall Be brooched with me; if knife, drugs, serpents, have Edge, sting, or operation, I am safe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Imperious Caesar, dead and turn’d to clay, Might stop a hole to keep the wind away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not th’ imperious show Of the full-fortuned Caesar ever shall Be brooched with me; if knife, drugs, serpents, have Edge, sting, or operation, I am safe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Imperious Caesar, dead and turn’d to clay, Might stop a hole to keep the wind away."*

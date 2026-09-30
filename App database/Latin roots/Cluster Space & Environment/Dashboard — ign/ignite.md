@@ -5,15 +5,6 @@ status: unread
 ---
 # ignite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to start burning; subject to fire or great heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Start to burn or burst into flames.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then having kindled torches at it they proceed with them to the jungle and ignite the felled timber and brushwood."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, cutting the lashing of the waterproof match keg, after many failures Starbuck contrived to ignite the lamp in the lantern; then stretching it on a waif pole, handed it to Queequeg as the standard-bearer of this forlorn hope."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, cutting the lashing of the waterproof match keg, after many failures Starbuck contrived to ignite the lamp in the lantern; then stretching it on a waif pole, handed it to Queequeg as the standard-bearer of this forlorn hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to start burning; subject to fire or great heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Start to burn or burst into flames.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then having kindled torches at it they proceed with them to the jungle and ignite the felled timber and brushwood."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, cutting the lashing of the waterproof match keg, after many failures Starbuck contrived to ignite the lamp in the lantern; then stretching it on a waif pole, handed it to Queequeg as the standard-bearer of this forlorn hope."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, cutting the lashing of the waterproof match keg, after many failures Starbuck contrived to ignite the lamp in the lantern; then stretching it on a waif pole, handed it to Queequeg as the standard-bearer of this forlorn hope."*

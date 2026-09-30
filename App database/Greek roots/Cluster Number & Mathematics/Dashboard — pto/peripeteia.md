@@ -5,13 +5,6 @@ status: unread
 ---
 # peripeteia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden or unexpected reversal of circumstances or situation especially in a literary work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden or unexpected reversal of circumstances or situation especially in a literary work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripeteia designates a sudden or unexpected reversal of circumstances or situation especially in a literary work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden or unexpected reversal of circumstances or situation especially in a literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden or unexpected reversal of circumstances or situation especially in a literary work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripeteia designates a sudden or unexpected reversal of circumstances or situation especially in a literary work."*

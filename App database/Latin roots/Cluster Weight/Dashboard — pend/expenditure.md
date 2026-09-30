@@ -5,15 +5,6 @@ status: unread
 ---
 # expenditure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money paid out; an amount spent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spending money for goods or services.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The number of little acts of thoughtless expenditure which Richard justified by the recovery of his ten pounds, and the number of times he talked to me as if he had saved or realized that amount, would form a sum in simple addition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady signifies, without profuse expenditure of words, that she is as wearily well as she can hope to be."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My intention is ultimately to retire from the management altogether, and until you can take all the expenditure upon your shoulders, I’ll be a sleeping partner in the stock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money paid out; an amount spent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spending money for goods or services.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The number of little acts of thoughtless expenditure which Richard justified by the recovery of his ten pounds, and the number of times he talked to me as if he had saved or realized that amount, would form a sum in simple addition."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady signifies, without profuse expenditure of words, that she is as wearily well as she can hope to be."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My intention is ultimately to retire from the management altogether, and until you can take all the expenditure upon your shoulders, I’ll be a sleeping partner in the stock."*

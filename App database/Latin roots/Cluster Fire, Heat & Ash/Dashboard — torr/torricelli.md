@@ -5,13 +5,6 @@ status: unread
 ---
 # torricelli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian physicist who invented the mercury barometer (1608-1647).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian physicist who invented the mercury barometer (1608-1647).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torricelli designates italian physicist who invented the mercury barometer (1608-1647)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian physicist who invented the mercury barometer (1608-1647).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian physicist who invented the mercury barometer (1608-1647).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torricelli designates italian physicist who invented the mercury barometer (1608-1647)."*

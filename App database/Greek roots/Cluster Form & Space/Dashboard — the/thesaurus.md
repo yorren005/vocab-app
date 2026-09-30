@@ -5,13 +5,6 @@ status: unread
 ---
 # thesaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book of words or of information about a particular field or set of concepts; especially : a book of words and their synonyms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of subject headings or descriptors usually with a cross-reference system for use in the organization of a collection of documents for reference and retrieval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thesaurus designates a book of words or of information about a particular field or set of concepts; especially : a book of words and their synonyms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book of words or of information about a particular field or set of concepts; especially : a book of words and their synonyms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of subject headings or descriptors usually with a cross-reference system for use in the organization of a collection of documents for reference and retrieval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thesaurus designates a book of words or of information about a particular field or set of concepts; especially : a book of words and their synonyms."*

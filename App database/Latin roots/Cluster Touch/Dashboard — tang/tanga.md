@@ -5,13 +5,6 @@ status: unread
 ---
 # tanga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 tanga equal 1 tajikistani ruble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northeastern tanzania on the indian ocean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanga designates 100 tanga equal 1 tajikistani ruble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 tanga equal 1 tajikistani ruble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northeastern tanzania on the indian ocean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanga designates 100 tanga equal 1 tajikistani ruble."*

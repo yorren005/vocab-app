@@ -5,14 +5,6 @@ status: unread
 ---
 # cannoneer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serviceman in the artillery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serviceman in the artillery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me the cups; And let the kettle to the trumpet speak, The trumpet to the cannoneer without, The cannons to the heavens, the heavens to earth, ‘Now the King drinks to Hamlet.’ Come, begin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What cannoneer begot this lusty blood?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serviceman in the artillery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serviceman in the artillery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me the cups; And let the kettle to the trumpet speak, The trumpet to the cannoneer without, The cannons to the heavens, the heavens to earth, ‘Now the King drinks to Hamlet.’ Come, begin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What cannoneer begot this lusty blood?"*

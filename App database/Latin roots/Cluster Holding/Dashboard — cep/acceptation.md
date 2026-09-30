@@ -5,15 +5,6 @@ status: unread
 ---
 # acceptation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance as true or valid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accepted meaning of a word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only had he put himself beyond the pale of human laws, but he had made himself independent of them, free in the strictest acceptation of the word, quite beyond their reach!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the ordinary acceptation of the term, Mrs."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The anger of its tone rescued the remark from intentional irony, which otherwise, probably, would have been its general acceptation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance as true or valid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accepted meaning of a word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only had he put himself beyond the pale of human laws, but he had made himself independent of them, free in the strictest acceptation of the word, quite beyond their reach!"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the ordinary acceptation of the term, Mrs."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The anger of its tone rescued the remark from intentional irony, which otherwise, probably, would have been its general acceptation."*

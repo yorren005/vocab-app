@@ -5,15 +5,6 @@ status: unread
 ---
 # administrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who administers a business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ye-es,” repeated Miss Flite in her most genteel accents, “my executor, administrator, and assign. (Our Chancery phrases, my love.) I have reflected that if I should wear out, he will be able to watch that judgment."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He is the administrator of the common property and director of work."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"His great-grandfather had been administrator of a convent at Grossbottwar, and died of dropsy of the chest at the age of forty-seven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who administers a business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ye-es,” repeated Miss Flite in her most genteel accents, “my executor, administrator, and assign. (Our Chancery phrases, my love.) I have reflected that if I should wear out, he will be able to watch that judgment."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He is the administrator of the common property and director of work."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"His great-grandfather had been administrator of a convent at Grossbottwar, and died of dropsy of the chest at the age of forty-seven."*

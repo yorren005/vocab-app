@@ -5,15 +5,6 @@ status: unread
 ---
 # etymological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or belonging to etymology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or belonging to etymology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See, for example, John Graham Dalyell, _The Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 176 _sq._: "The recognition of the pagan divinity Baal, or Bel, the Sun, is discovered through innumerable etymological sources."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jamieson, _Etymological Dictionary of the Scottish Language_, revised by J."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The tradition that the founder of the sacred grove at Aricia was a man named Manius, from whom many Manii were descended, would thus be an etymological myth invented to explain the name _maniae_ as applied to these sacramental loaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or belonging to etymology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or belonging to etymology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See, for example, John Graham Dalyell, _The Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 176 _sq._: "The recognition of the pagan divinity Baal, or Bel, the Sun, is discovered through innumerable etymological sources."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jamieson, _Etymological Dictionary of the Scottish Language_, revised by J."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The tradition that the founder of the sacred grove at Aricia was a man named Manius, from whom many Manii were descended, would thus be an etymological myth invented to explain the name _maniae_ as applied to these sacramental loaves."*

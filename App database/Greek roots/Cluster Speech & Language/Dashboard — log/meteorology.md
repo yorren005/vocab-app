@@ -5,13 +5,6 @@ status: unread
 ---
 # meteorology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the atmosphere and its phenomena and especially with weather and weather forecasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atmospheric phenomena and weather of a region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The reader may smile at the meteorology of the Far East; but precisely similar modes of procuring rain have been resorted to in Christian Europe within our own lifetime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the atmosphere and its phenomena and especially with weather and weather forecasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atmospheric phenomena and weather of a region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The reader may smile at the meteorology of the Far East; but precisely similar modes of procuring rain have been resorted to in Christian Europe within our own lifetime."*

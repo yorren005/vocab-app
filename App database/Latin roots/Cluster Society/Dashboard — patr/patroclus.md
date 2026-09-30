@@ -5,15 +5,6 @@ status: unread
 ---
 # patroclus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a friend of achilles who was killed in the trojan war; his death led achilles to return to the fight after his quarrel with agamemnon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a friend of achilles who was killed in the trojan war; his death led achilles to return to the fight after his quarrel with agamemnon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And at this sport Sir Valour dies; cries ‘O, enough, Patroclus; Or give me ribs of steel!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will keep where there is wit stirring, and leave the faction of fools. [_Exit_.] PATROCLUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a friend of achilles who was killed in the trojan war; his death led achilles to return to the fight after his quarrel with agamemnon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a friend of achilles who was killed in the trojan war; his death led achilles to return to the fight after his quarrel with agamemnon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And at this sport Sir Valour dies; cries ‘O, enough, Patroclus; Or give me ribs of steel!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will keep where there is wit stirring, and leave the faction of fools. [_Exit_.] PATROCLUS."*

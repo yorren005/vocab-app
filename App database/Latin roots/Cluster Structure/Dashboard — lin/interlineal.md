@@ -5,13 +5,6 @@ status: unread
 ---
 # interlineal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written between lines of text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written between lines of text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlineal designates written between lines of text."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written between lines of text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written between lines of text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlineal designates written between lines of text."*

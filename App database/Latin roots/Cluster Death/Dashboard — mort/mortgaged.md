@@ -5,15 +5,6 @@ status: unread
 ---
 # mortgaged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up as security or collateral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burdened with legal or financial obligations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The lender of money secured by mortgage has a legally recognized and enforceable interest in the mortgaged wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To obtain this new Aladdin's lamp, this great wealth-bringer, localities mortgaged their prosperity for years to come."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They understand he is mortgaged over head and ears and is continually dabbling with money-lenders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up as security or collateral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burdened with legal or financial obligations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The lender of money secured by mortgage has a legally recognized and enforceable interest in the mortgaged wealth."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To obtain this new Aladdin's lamp, this great wealth-bringer, localities mortgaged their prosperity for years to come."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They understand he is mortgaged over head and ears and is continually dabbling with money-lenders."*

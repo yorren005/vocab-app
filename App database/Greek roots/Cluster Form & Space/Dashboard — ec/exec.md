@@ -5,14 +5,6 @@ status: unread
 ---
 # exec
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief executive department of the united states government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief executive department of the united states government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was Med-Exec to a research team in a mini-tank town off Venus."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Exec motioned the battle staff to observe and listen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief executive department of the united states government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief executive department of the united states government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was Med-Exec to a research team in a mini-tank town off Venus."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Exec motioned the battle staff to observe and listen."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bastardly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Born out of wedlock; - e.a.freeman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of no value or worth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wilt thou, wilt thou, thou bastardly rogue?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Born out of wedlock; - e.a.freeman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of no value or worth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wilt thou, wilt thou, thou bastardly rogue?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # marlowe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English poet and playwright who introduced blank verse as a form of dramatic expression; was stabbed to death in a tavern brawl (1564-1593).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tough cynical detective (one of the early detective heroes in american fiction) created by raymond chandler.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Naumann has been painting the Saints drawing the Car of the Church, and I have been making a sketch of Marlowe’s Tamburlaine Driving the Conquered Kings in his Chariot."*
-> - 📜 **Algis Budrys (*Citadel*):** *"His office chair was heavier and wider by far than any standard size, its casters rolling on a special composition base that had been laid down over the carpeting, for Marlowe's weight would have cut any ordinary rug to shreds."*
-> - 📜 **Algis Budrys (*Citadel*):** *"A bulb flickered on his interphone set, and Marlowe shot a glance at the switch beneath it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English poet and playwright who introduced blank verse as a form of dramatic expression; was stabbed to death in a tavern brawl (1564-1593).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tough cynical detective (one of the early detective heroes in american fiction) created by raymond chandler.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Naumann has been painting the Saints drawing the Car of the Church, and I have been making a sketch of Marlowe’s Tamburlaine Driving the Conquered Kings in his Chariot."*
+> - 📜 **Algis Budrys (*Citadel*):** *"His office chair was heavier and wider by far than any standard size, its casters rolling on a special composition base that had been laid down over the carpeting, for Marlowe's weight would have cut any ordinary rug to shreds."*
+> - 📜 **Algis Budrys (*Citadel*):** *"A bulb flickered on his interphone set, and Marlowe shot a glance at the switch beneath it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # prepossess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possess beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be preoccupied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"Krempe was a little squat man with a gruff voice and a repulsive countenance; the teacher, therefore, did not prepossess me in favour of his pursuits."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The lad had something in his countenance which prepossessed the king in his favour, and he demanded who he was."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I know that you are not prepossessed in Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possess beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be preoccupied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"Krempe was a little squat man with a gruff voice and a repulsive countenance; the teacher, therefore, did not prepossess me in favour of his pursuits."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The lad had something in his countenance which prepossessed the king in his favour, and he demanded who he was."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I know that you are not prepossessed in Mr."*

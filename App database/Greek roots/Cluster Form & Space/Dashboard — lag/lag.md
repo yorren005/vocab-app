@@ -5,15 +5,6 @@ status: unread
 ---
 # lag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A falling or staying behind : the act or the condition of lagging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comparative slowness or delay (as in movement, operation, or development).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, my liege: For mine own part, I could be well content To entertain the lag end of my life With quiet hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fortune in favour makes him lag behind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There, I take it, They may, _cum privilegio, oui_ away The lag end of their lewdness and be laughed at."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A falling or staying behind : the act or the condition of lagging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comparative slowness or delay (as in movement, operation, or development).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, my liege: For mine own part, I could be well content To entertain the lag end of my life With quiet hours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fortune in favour makes him lag behind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There, I take it, They may, _cum privilegio, oui_ away The lag end of their lewdness and be laughed at."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hematologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctor who specializes in diseases of the blood and blood-forming organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctor who specializes in diseases of the blood and blood-forming organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematologist designates a doctor who specializes in diseases of the blood and blood-forming organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctor who specializes in diseases of the blood and blood-forming organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctor who specializes in diseases of the blood and blood-forming organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematologist designates a doctor who specializes in diseases of the blood and blood-forming organs."*

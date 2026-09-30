@@ -5,13 +5,6 @@ status: unread
 ---
 # cosine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the adjacent side to the hypotenuse of a right-angled triangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the adjacent side to the hypotenuse of a right-angled triangle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I, however, struggled on with my sines and cosines for a few days more; but stepping into the garden one charming noon, to take the sun's altitude, there I met my angel, Like Proserpine gathering flowers, Herself a fairer flower."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the adjacent side to the hypotenuse of a right-angled triangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the adjacent side to the hypotenuse of a right-angled triangle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I, however, struggled on with my sines and cosines for a few days more; but stepping into the garden one charming noon, to take the sun's altitude, there I met my angel, Like Proserpine gathering flowers, Herself a fairer flower."*

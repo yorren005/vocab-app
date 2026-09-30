@@ -5,13 +5,6 @@ status: unread
 ---
 # agrobacterium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small motile bacterial rods that can reduce nitrates and cause galls on plant stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small motile bacterial rods that can reduce nitrates and cause galls on plant stems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrobacterium designates small motile bacterial rods that can reduce nitrates and cause galls on plant stems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small motile bacterial rods that can reduce nitrates and cause galls on plant stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small motile bacterial rods that can reduce nitrates and cause galls on plant stems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrobacterium designates small motile bacterial rods that can reduce nitrates and cause galls on plant stems."*

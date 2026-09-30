@@ -5,14 +5,6 @@ status: unread
 ---
 # purist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who insists on great precision and correctness (especially in the use of words).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who insists on great precision and correctness (especially in the use of words).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford: and perhaps a purist might have objected that Mrs."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Steuvisant; “not a vice, you know, Reggie.” “Aye, Empress,” put in the others, “a purist taken in the net."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who insists on great precision and correctness (especially in the use of words).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who insists on great precision and correctness (especially in the use of words).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford: and perhaps a purist might have objected that Mrs."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Steuvisant; “not a vice, you know, Reggie.” “Aye, Empress,” put in the others, “a purist taken in the net."*

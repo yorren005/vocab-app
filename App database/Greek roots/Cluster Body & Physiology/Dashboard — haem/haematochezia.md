@@ -5,13 +5,6 @@ status: unread
 ---
 # haematochezia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematochezia designates passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematochezia designates passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer)."*

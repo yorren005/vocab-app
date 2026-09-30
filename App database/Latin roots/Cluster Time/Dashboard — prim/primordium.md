@@ -5,13 +5,6 @@ status: unread
 ---
 # primordium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ in its earliest stage of development; the foundation for subsequent development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ in its earliest stage of development; the foundation for subsequent development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primordium designates an organ in its earliest stage of development; the foundation for subsequent development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ in its earliest stage of development; the foundation for subsequent development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ in its earliest stage of development; the foundation for subsequent development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primordium designates an organ in its earliest stage of development; the foundation for subsequent development."*

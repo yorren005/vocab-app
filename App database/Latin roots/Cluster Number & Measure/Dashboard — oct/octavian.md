@@ -5,14 +5,6 @@ status: unread
 ---
 # octavian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman statesman who established the roman empire and became emperor in 27 bc; defeated mark antony and cleopatra in 31 bc at actium (63 bc - ad 14).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman statesman who established the roman empire and became emperor in 27 bc; defeated mark antony and cleopatra in 31 bc at actium (63 bc - ad 14).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"What was the ultimate difference between the old Roman and the Roman of the days of Antony and Octavian?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When Octavian captured Alexandria, he forgave the guilty city "in honour of Serapis," but on his return to Rome he destroyed all the shrines of the god within the city walls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman statesman who established the roman empire and became emperor in 27 bc; defeated mark antony and cleopatra in 31 bc at actium (63 bc - ad 14).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman statesman who established the roman empire and became emperor in 27 bc; defeated mark antony and cleopatra in 31 bc at actium (63 bc - ad 14).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"What was the ultimate difference between the old Roman and the Roman of the days of Antony and Octavian?"*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When Octavian captured Alexandria, he forgave the guilty city "in honour of Serapis," but on his return to Rome he destroyed all the shrines of the god within the city walls."*

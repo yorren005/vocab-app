@@ -5,13 +5,6 @@ status: unread
 ---
 # hermannia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of african herbs and subshrubs having honey-scented bell-shaped flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of african herbs and subshrubs having honey-scented bell-shaped flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermannia designates genus of african herbs and subshrubs having honey-scented bell-shaped flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of african herbs and subshrubs having honey-scented bell-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of african herbs and subshrubs having honey-scented bell-shaped flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermannia designates genus of african herbs and subshrubs having honey-scented bell-shaped flowers."*

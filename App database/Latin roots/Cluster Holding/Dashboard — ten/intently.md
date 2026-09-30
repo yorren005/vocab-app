@@ -5,15 +5,6 @@ status: unread
 ---
 # intently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With strained or eager attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With strained or eager attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was looking at her intently."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby descends and finds the two ’prentices intently contemplating a police constable, who holds a ragged boy by the arm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Will you graciously let me kiss your hand?” She looked at me more intently as she took it, and seemed to take note, with her momentary touch, of every vein in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With strained or eager attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With strained or eager attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was looking at her intently."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby descends and finds the two ’prentices intently contemplating a police constable, who holds a ragged boy by the arm."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Will you graciously let me kiss your hand?” She looked at me more intently as she took it, and seemed to take note, with her momentary touch, of every vein in it."*

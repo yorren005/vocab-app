@@ -5,14 +5,6 @@ status: unread
 ---
 # fixer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intervenes with authorities for a person in trouble (usually using underhand or illegal methods for a fee).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound that sets or fixes something (as a dye or a photographic image).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Fortunately, I was able to help; my job was to be the museum's official Fixer of the Apatosaurus Nest's Floor."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Children and mothers and fathers and grandparents came from nearby exhibits to observe the Apatosaurus Nest Floor Fixer at work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intervenes with authorities for a person in trouble (usually using underhand or illegal methods for a fee).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound that sets or fixes something (as a dye or a photographic image).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Fortunately, I was able to help; my job was to be the museum's official Fixer of the Apatosaurus Nest's Floor."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Children and mothers and fathers and grandparents came from nearby exhibits to observe the Apatosaurus Nest Floor Fixer at work."*

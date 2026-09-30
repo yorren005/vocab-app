@@ -5,13 +5,6 @@ status: unread
 ---
 # menopause
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural cessation of menstruation that usually occurs between the ages of 45 and 55; also : the period during which such cessation occurs —called also climacteric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cessation of menstruation from other than natural causes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menopause designates the natural cessation of menstruation that usually occurs between the ages of 45 and 55; also : the period during which such cessation occurs —called also climacteric."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural cessation of menstruation that usually occurs between the ages of 45 and 55; also : the period during which such cessation occurs —called also climacteric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cessation of menstruation from other than natural causes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menopause designates the natural cessation of menstruation that usually occurs between the ages of 45 and 55; also : the period during which such cessation occurs —called also climacteric."*

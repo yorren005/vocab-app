@@ -5,13 +5,6 @@ status: unread
 ---
 # parcae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the three roman goddesses of fate or destiny; identified with the greek moirai and similar to the norse norns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the three roman goddesses of fate or destiny; identified with the greek moirai and similar to the norse norns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parcae designates any of the three roman goddesses of fate or destiny; identified with the greek moirai and similar to the norse norns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the three roman goddesses of fate or destiny; identified with the greek moirai and similar to the norse norns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the three roman goddesses of fate or destiny; identified with the greek moirai and similar to the norse norns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parcae designates any of the three roman goddesses of fate or destiny; identified with the greek moirai and similar to the norse norns."*

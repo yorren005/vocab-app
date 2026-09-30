@@ -5,13 +5,6 @@ status: unread
 ---
 # monotonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the use of or uttered in a monotone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property either of never increasing or of never decreasing as the values of the independent variable or the subscripts of the terms increase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotonic designates characterized by the use of or uttered in a monotone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the use of or uttered in a monotone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property either of never increasing or of never decreasing as the values of the independent variable or the subscripts of the terms increase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotonic designates characterized by the use of or uttered in a monotone."*

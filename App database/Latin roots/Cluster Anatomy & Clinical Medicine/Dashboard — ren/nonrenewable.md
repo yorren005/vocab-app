@@ -5,15 +5,6 @@ status: unread
 ---
 # nonrenewable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can not be renewed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can not be renewed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Consider UIPS limitations in nonrenewable metals, minerals and other vital reserves until Slingshot begins to produce."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The deficits in our nonrenewable assets, and the many other natural substances we depend on, if not resolved within the next few centuries, could force us back into caves, and I don't use that word 'figuratively'."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The insatiable appetite for metals, minerals, rare earths and other nonrenewable substances increased inexorably."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That can not be renewed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can not be renewed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Consider UIPS limitations in nonrenewable metals, minerals and other vital reserves until Slingshot begins to produce."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The deficits in our nonrenewable assets, and the many other natural substances we depend on, if not resolved within the next few centuries, could force us back into caves, and I don't use that word 'figuratively'."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The insatiable appetite for metals, minerals, rare earths and other nonrenewable substances increased inexorably."*

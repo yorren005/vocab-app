@@ -5,13 +5,6 @@ status: unread
 ---
 # logion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saying; especially : a saying attributed to Jesus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saying; especially : a saying attributed to Jesus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logion designates saying; especially : a saying attributed to jesus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saying; especially : a saying attributed to Jesus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saying; especially : a saying attributed to Jesus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logion designates saying; especially : a saying attributed to jesus."*

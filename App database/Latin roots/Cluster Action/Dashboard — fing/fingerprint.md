@@ -5,13 +5,6 @@ status: unread
 ---
 # fingerprint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A generic term for any identifying characteristic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerprint designates a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A generic term for any identifying characteristic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerprint designates a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations."*

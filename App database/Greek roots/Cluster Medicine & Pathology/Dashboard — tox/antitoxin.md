@@ -5,13 +5,6 @@ status: unread
 ---
 # antitoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that is capable of neutralizing the specific toxin (such as a specific causative agent of disease) that stimulated its production in the body and is produced in animals for medical purposes by injection of a toxin or toxoid with the resulting serum being used to counteract the toxin in other individuals; also : an antiserum containing antitoxins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that is capable of neutralizing the specific toxin (such as a specific causative agent of disease) that stimulated its production in the body and is produced in animals for medical purposes by injection of a toxin or toxoid with the resulting serum being used to counteract the toxin in other individuals; also : an antiserum containing antitoxins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitoxin designates an antibody that is capable of neutralizing the specific toxin (such as a specific causative agent of disease) that stimulated its production in the body and is produced in animals for medical purposes by injection of a toxin or toxoid with the resulting serum being used to counteract the toxin in other individuals; also : an antiserum containing antitoxins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that is capable of neutralizing the specific toxin (such as a specific causative agent of disease) that stimulated its production in the body and is produced in animals for medical purposes by injection of a toxin or toxoid with the resulting serum being used to counteract the toxin in other individuals; also : an antiserum containing antitoxins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that is capable of neutralizing the specific toxin (such as a specific causative agent of disease) that stimulated its production in the body and is produced in animals for medical purposes by injection of a toxin or toxoid with the resulting serum being used to counteract the toxin in other individuals; also : an antiserum containing antitoxins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitoxin designates an antibody that is capable of neutralizing the specific toxin (such as a specific causative agent of disease) that stimulated its production in the body and is produced in animals for medical purposes by injection of a toxin or toxoid with the resulting serum being used to counteract the toxin in other individuals; also : an antiserum containing antitoxins."*

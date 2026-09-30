@@ -5,15 +5,6 @@ status: unread
 ---
 # diffusing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, whose black dye was so deep from head to foot that it had quite steamed before the fire, diffusing a very unpleasant perfume, made a short one-sided inclination of his head from the neck and slowly shook it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Civil power, properly organized and exerted, is capable of diffusing its force to a very great extent; and can, in a manner, reproduce itself in every part of a great empire by a judicious arrangement of subordinate institutions."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"If the aim was the progress of civilization, it is easy to see that there are other ways of diffusing civilization more expedient than by the destruction of wealth and of human lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, whose black dye was so deep from head to foot that it had quite steamed before the fire, diffusing a very unpleasant perfume, made a short one-sided inclination of his head from the neck and slowly shook it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Civil power, properly organized and exerted, is capable of diffusing its force to a very great extent; and can, in a manner, reproduce itself in every part of a great empire by a judicious arrangement of subordinate institutions."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"If the aim was the progress of civilization, it is easy to see that there are other ways of diffusing civilization more expedient than by the destruction of wealth and of human lives."*

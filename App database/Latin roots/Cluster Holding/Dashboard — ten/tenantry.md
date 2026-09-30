@@ -5,15 +5,6 @@ status: unread
 ---
 # tenantry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenants of an estate considered as a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenants of an estate considered as a group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The places of others were taken by a tenantry, white or black, lacking the thrift of ownership; the lands of others passed to new owners of alien races."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The master and his house-keeper had been murdered in the tenantry riots, and the boys that did the business, they swung for it soon afterward."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Then the tenantry mounted on horseback again, or stayed and refreshed themselves at the Crawley Arms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenants of an estate considered as a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenants of an estate considered as a group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The places of others were taken by a tenantry, white or black, lacking the thrift of ownership; the lands of others passed to new owners of alien races."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The master and his house-keeper had been murdered in the tenantry riots, and the boys that did the business, they swung for it soon afterward."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Then the tenantry mounted on horseback again, or stayed and refreshed themselves at the Crawley Arms."*

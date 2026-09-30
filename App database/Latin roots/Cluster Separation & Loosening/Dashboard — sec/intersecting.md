@@ -5,15 +5,6 @@ status: unread
 ---
 # intersecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet at a point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crossed or intersected in the form of an x.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"He hesitated among the intersecting ways, mazy, enchanting, and flower-bordered."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Then grayish white Marseilles, with its two immense ribbons, the Cannebiere running northward, and the Rue de Rome and the Prado intersecting it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the troubled waters of conflicting and intersecting intrigues that eddied about the Emperor’s headquarters, it was possible to succeed in many ways unthinkable at other times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet at a point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crossed or intersected in the form of an x.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"He hesitated among the intersecting ways, mazy, enchanting, and flower-bordered."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Then grayish white Marseilles, with its two immense ribbons, the Cannebiere running northward, and the Rue de Rome and the Prado intersecting it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the troubled waters of conflicting and intersecting intrigues that eddied about the Emperor’s headquarters, it was possible to succeed in many ways unthinkable at other times."*

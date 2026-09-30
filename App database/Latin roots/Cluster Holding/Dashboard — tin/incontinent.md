@@ -5,15 +5,6 @@ status: unread
 ---
 # incontinent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having control over urination and defecation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having control over urination and defecation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He says he will return incontinent, He hath commanded me to go to bed, And bade me to dismiss you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, mourn with me for what I do lament, And put on sullen black incontinent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All incontinent varlets! [_Exit_.] SCENE II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having control over urination and defecation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having control over urination and defecation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He says he will return incontinent, He hath commanded me to go to bed, And bade me to dismiss you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, mourn with me for what I do lament, And put on sullen black incontinent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All incontinent varlets! [_Exit_.] SCENE II."*

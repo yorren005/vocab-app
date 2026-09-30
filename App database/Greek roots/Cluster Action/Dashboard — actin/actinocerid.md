@@ -5,13 +5,6 @@ status: unread
 ---
 # actinocerid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct cephalopod of the order †Actinocerida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any extinct cephalopod of the order †Actinocerida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinocerid designates any extinct cephalopod of the order †actinocerida."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct cephalopod of the order †Actinocerida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any extinct cephalopod of the order †Actinocerida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinocerid designates any extinct cephalopod of the order †actinocerida."*

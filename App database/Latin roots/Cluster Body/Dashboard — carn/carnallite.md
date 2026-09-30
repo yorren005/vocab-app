@@ -5,13 +5,6 @@ status: unread
 ---
 # carnallite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnallite designates a white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnallite designates a white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium."*

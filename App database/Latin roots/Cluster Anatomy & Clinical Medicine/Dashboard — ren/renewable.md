@@ -5,14 +5,6 @@ status: unread
 ---
 # renewable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be renewed or extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being renewed; replaceable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A Report to the Club of Rome (Depletion of the world's non-renewable natural resources). http://dieoff.com/page25.htm CHINA PLANS MOON LANDING, October 5, 2000, by Charles Hutzler, Associated Press."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be renewed or extended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being renewed; replaceable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A Report to the Club of Rome (Depletion of the world's non-renewable natural resources). http://dieoff.com/page25.htm CHINA PLANS MOON LANDING, October 5, 2000, by Charles Hutzler, Associated Press."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*

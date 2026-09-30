@@ -5,15 +5,6 @@ status: unread
 ---
 # errant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Straying from the right course or from accepted standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncontrolled motion that is irregular or unpredictable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, you she knight-errant, come."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best way is the next way to a grave; Each errant step beside is torment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was now literally trembling and panting at this her temerity in such an errant undertaking; her breath came and went quickly, and her eyes shone with an infrequent light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Straying from the right course or from accepted standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncontrolled motion that is irregular or unpredictable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, you she knight-errant, come."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best way is the next way to a grave; Each errant step beside is torment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was now literally trembling and panting at this her temerity in such an errant undertaking; her breath came and went quickly, and her eyes shone with an infrequent light."*

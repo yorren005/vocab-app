@@ -5,15 +5,6 @@ status: unread
 ---
 # poncho
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blanket-like cloak with a hole in the center for the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blanket-like cloak with a hole in the center for the head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For the whale is indeed wrapt up in his blubber as in a real blanket or counterpane; or, still better, an Indian poncho slipt over his head, and skirting his extremity."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For the whale is indeed wrapt up in his blubber as in a real blanket or counterpane; or, still better, an Indian poncho slipt over his head, and skirting his extremity."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bloom, parting them swiftly, draws his caliph’s hood and poncho and hurries down the steps with sideways face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blanket-like cloak with a hole in the center for the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blanket-like cloak with a hole in the center for the head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For the whale is indeed wrapt up in his blubber as in a real blanket or counterpane; or, still better, an Indian poncho slipt over his head, and skirting his extremity."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For the whale is indeed wrapt up in his blubber as in a real blanket or counterpane; or, still better, an Indian poncho slipt over his head, and skirting his extremity."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bloom, parting them swiftly, draws his caliph’s hood and poncho and hurries down the steps with sideways face."*

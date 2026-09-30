@@ -5,15 +5,6 @@ status: unread
 ---
 # veronica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus veronica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus veronica.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Peter Sloane’s hired girl, Veronica, came to see Mary Joe last evening and I heard them talking in the kitchen as I was going through the hall."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VERONICA BRAND; spots yellowish; sori subglobose, aggregate, or circinating, central one large; spores brown, obovate-oblong, more or less constricted.—On the under surface of the leaves of several species of _Veronica_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Veronica mould (_Peronospora grisea_) × 400 (_De Bary_). 〃 214."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus veronica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus veronica.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Peter Sloane’s hired girl, Veronica, came to see Mary Joe last evening and I heard them talking in the kitchen as I was going through the hall."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VERONICA BRAND; spots yellowish; sori subglobose, aggregate, or circinating, central one large; spores brown, obovate-oblong, more or less constricted.—On the under surface of the leaves of several species of _Veronica_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Veronica mould (_Peronospora grisea_) × 400 (_De Bary_). 〃 214."*

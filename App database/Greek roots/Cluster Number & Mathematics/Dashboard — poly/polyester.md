@@ -5,13 +5,6 @@ status: unread
 ---
 # polyester
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous synthetic resins; they are light and strong and weather resistant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex ester used for making fibers or resins or plastics or as a plasticizer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyester designates any of numerous synthetic resins; they are light and strong and weather resistant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous synthetic resins; they are light and strong and weather resistant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex ester used for making fibers or resins or plastics or as a plasticizer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyester designates any of numerous synthetic resins; they are light and strong and weather resistant."*

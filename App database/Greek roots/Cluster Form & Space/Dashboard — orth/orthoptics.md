@@ -5,13 +5,6 @@ status: unread
 ---
 # orthoptics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoptics designates treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoptics designates treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles)."*

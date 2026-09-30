@@ -5,13 +5,6 @@ status: unread
 ---
 # adactylia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of fingers and/or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of fingers and/or toes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adactylia designates congenital absence of fingers and/or toes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of fingers and/or toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of fingers and/or toes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adactylia designates congenital absence of fingers and/or toes."*

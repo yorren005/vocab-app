@@ -5,13 +5,6 @@ status: unread
 ---
 # mandevilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandevilla designates genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandevilla designates genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap."*

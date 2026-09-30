@@ -5,13 +5,6 @@ status: unread
 ---
 # diencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior subdivision of the forebrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior subdivision of the forebrain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diencephalon designates the posterior subdivision of the forebrain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior subdivision of the forebrain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior subdivision of the forebrain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diencephalon designates the posterior subdivision of the forebrain."*

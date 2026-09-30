@@ -5,13 +5,6 @@ status: unread
 ---
 # undercut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The material removed by a cut made underneath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tender meat of the loin muscle on each side of the vertebral column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"I've got a dummy option on it in the works, and we'll be able to undercut Holliday's prices for his land by about twenty per cent." "False-E, huh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The material removed by a cut made underneath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tender meat of the loin muscle on each side of the vertebral column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"I've got a dummy option on it in the works, and we'll be able to undercut Holliday's prices for his land by about twenty per cent." "False-E, huh?"*

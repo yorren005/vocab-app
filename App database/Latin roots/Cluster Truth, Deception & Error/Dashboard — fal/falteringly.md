@@ -5,15 +5,6 @@ status: unread
 ---
 # falteringly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsteady manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unsteady manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You _would_ like those, Dorothea,” said Celia, rather falteringly, beginning to think with wonder that her sister showed some weakness, and also that emeralds would suit her own complexion even better than purple amethysts."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes,” said Louisa, falteringly."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Surely,” said John, like one who had lost faith in his memory, “he used not to sleep in the kennel?” “John,” Wendy said falteringly, “perhaps we don’t remember the old life as well as we thought we did.” A chill fell upon them; and serve them right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsteady manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unsteady manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"You _would_ like those, Dorothea,” said Celia, rather falteringly, beginning to think with wonder that her sister showed some weakness, and also that emeralds would suit her own complexion even better than purple amethysts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Yes,” said Louisa, falteringly."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Surely,” said John, like one who had lost faith in his memory, “he used not to sleep in the kennel?” “John,” Wendy said falteringly, “perhaps we don’t remember the old life as well as we thought we did.” A chill fell upon them; and serve them right."*

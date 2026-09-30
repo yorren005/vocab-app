@@ -5,13 +5,6 @@ status: unread
 ---
 # mods
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A youth subculture that began in london in the early 1960s; a working-class movement with highly stylized dress and short hair; listened to rhythm and blues music and travelled on motor scooters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mods designates a youth subculture that began in london in the early 1960s; a working-class movement with highly stylized dress and short hair; listened to rhythm and blues music and travelled on motor scooters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A youth subculture that began in london in the early 1960s; a working-class movement with highly stylized dress and short hair; listened to rhythm and blues music and travelled on motor scooters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mods designates a youth subculture that began in london in the early 1960s; a working-class movement with highly stylized dress and short hair; listened to rhythm and blues music and travelled on motor scooters."*

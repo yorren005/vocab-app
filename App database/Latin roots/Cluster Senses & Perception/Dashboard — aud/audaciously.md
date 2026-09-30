@@ -5,15 +5,6 @@ status: unread
 ---
 # audaciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an audacious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an audacious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That any person or persons audaciously presuming to trespass on this property will be punished with the utmost severity of private chastisement and prosecuted with the utmost rigour of the law."*
-> - 📜 **Effie Afton (*Eventide*):** *"Thus a wet blanket was most audaciously thrown upon the Woman's Rights' Reform, which was fain to arrest its progress in Wimbledon for a while."*
-> - 📜 **Effie Afton (*Eventide*):** *"Winnie Morris came to pass a vacation with her brother, Wayland, and the fore-doomed bachelor, Augustus Lester, most audaciously dared to fall in love with the cackling girl."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an audacious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an audacious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That any person or persons audaciously presuming to trespass on this property will be punished with the utmost severity of private chastisement and prosecuted with the utmost rigour of the law."*
+> - 📜 **Effie Afton (*Eventide*):** *"Thus a wet blanket was most audaciously thrown upon the Woman's Rights' Reform, which was fain to arrest its progress in Wimbledon for a while."*
+> - 📜 **Effie Afton (*Eventide*):** *"Winnie Morris came to pass a vacation with her brother, Wayland, and the fore-doomed bachelor, Augustus Lester, most audaciously dared to fall in love with the cackling girl."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild mania especially when part of bipolar disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild mania especially when part of bipolar disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypomania designates a mild mania especially when part of bipolar disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild mania especially when part of bipolar disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild mania especially when part of bipolar disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypomania designates a mild mania especially when part of bipolar disorder."*

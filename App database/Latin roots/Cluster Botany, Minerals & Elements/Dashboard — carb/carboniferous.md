@@ -5,13 +5,6 @@ status: unread
 ---
 # carboniferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 345 million to 280 million years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the carboniferous geologic era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But to-day, man exhausts the stores in the interior of the earth, burns the treasures of the carboniferous age, casts the fertilizing elements into the ocean, and leaves the world an empty shell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 345 million to 280 million years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the carboniferous geologic era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But to-day, man exhausts the stores in the interior of the earth, burns the treasures of the carboniferous age, casts the fertilizing elements into the ocean, and leaves the world an empty shell."*

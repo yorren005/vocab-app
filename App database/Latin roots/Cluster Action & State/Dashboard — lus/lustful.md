@@ -5,15 +5,6 @@ status: unread
 ---
 # lustful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by lust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Driven by lust; preoccupied with or exhibiting lustful desires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul fiend of France and hag of all despite, Encompass’d with thy lustful paramours, Becomes it thee to taunt his valiant age And twit with cowardice a man half dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, between my soul’s desire and me— The lustful Edward’s title buried— Is Clarence, Henry, and his son young Edward, And all the unlooked-for issue of their bodies, To take their rooms ere I can place myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll have thee to a couch Softer and sweeter than the lustful bed On purpose trimm’d up for Semiramis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by lust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Driven by lust; preoccupied with or exhibiting lustful desires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul fiend of France and hag of all despite, Encompass’d with thy lustful paramours, Becomes it thee to taunt his valiant age And twit with cowardice a man half dead?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, between my soul’s desire and me— The lustful Edward’s title buried— Is Clarence, Henry, and his son young Edward, And all the unlooked-for issue of their bodies, To take their rooms ere I can place myself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll have thee to a couch Softer and sweeter than the lustful bed On purpose trimm’d up for Semiramis."*

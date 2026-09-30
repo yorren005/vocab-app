@@ -5,13 +5,6 @@ status: unread
 ---
 # chaetodon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the genus chaetodon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fish of the genus chaetodon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetodon designates any fish of the genus chaetodon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the genus chaetodon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fish of the genus chaetodon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetodon designates any fish of the genus chaetodon."*

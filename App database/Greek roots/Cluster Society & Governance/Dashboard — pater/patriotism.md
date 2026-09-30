@@ -5,15 +5,6 @@ status: unread
 ---
 # patriotism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love for or devotion to one's country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love for or devotion to one's country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That the country is shipwrecked, lost, and gone to pieces (as is made manifest to the patriotism of Sir Leicester Dedlock) because you can’t provide for Noodle!"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence we find him ever ready to degrade his muse by making it the vehicle for immoral thoughts and abominable calumnies.[271] The question of Heine's patriotism has always been a much-debated one, and must doubtless remain so."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This idea will add the inducements of philanthropy to those of patriotism, to heighten the solicitude which all considerate and good men must feel for the event."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love for or devotion to one's country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love for or devotion to one's country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That the country is shipwrecked, lost, and gone to pieces (as is made manifest to the patriotism of Sir Leicester Dedlock) because you can’t provide for Noodle!"*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence we find him ever ready to degrade his muse by making it the vehicle for immoral thoughts and abominable calumnies.[271] The question of Heine's patriotism has always been a much-debated one, and must doubtless remain so."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This idea will add the inducements of philanthropy to those of patriotism, to heighten the solicitude which all considerate and good men must feel for the event."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # campsite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A site where people on holiday can pitch a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A site where people on holiday can pitch a tent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They started their drive last night,” Uncle Henry said, “and boomed her just below the campsite."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Roger finished telling about Snow White's arrival at Snug Harbor and the race to the campsite."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They did locate a real cozy campsite and settled in for the night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A site where people on holiday can pitch a tent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A site where people on holiday can pitch a tent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They started their drive last night,” Uncle Henry said, “and boomed her just below the campsite."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Roger finished telling about Snow White's arrival at Snug Harbor and the race to the campsite."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They did locate a real cozy campsite and settled in for the night."*

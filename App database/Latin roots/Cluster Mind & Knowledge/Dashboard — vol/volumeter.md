@@ -5,13 +5,6 @@ status: unread
 ---
 # volumeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meter to measure the volume of gases, liquids, or solids (either directly or by displacement).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meter to measure the volume of gases, liquids, or solids (either directly or by displacement).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volumeter designates a meter to measure the volume of gases, liquids, or solids (either directly or by displacement)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meter to measure the volume of gases, liquids, or solids (either directly or by displacement).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meter to measure the volume of gases, liquids, or solids (either directly or by displacement).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volumeter designates a meter to measure the volume of gases, liquids, or solids (either directly or by displacement)."*

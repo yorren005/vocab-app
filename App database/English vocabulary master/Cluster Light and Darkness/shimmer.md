@@ -5,20 +5,6 @@ status: unread
 ---
 # shimmer
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cause to shimmer
-> 2. **Nuance / Usage**: Faint or veiled and tremulous gleam or shining
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Intransitive Verb & Noun.
-> - **Syntactic Constructions**: Operates verbally in progressive clauses (*heat was shimmering above the asphalt*) and nominally as an atmospheric subject (*a faint silver shimmer on the lake*).
-> - **Collocations & Registers**: Atmospheric and poetic registers; collocated with *heat haze*, *moonlight*, *silk*, *water*, and *subdued radiance*.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"certainly a most ghostly shimmer through the shadow of my apartment."*
-> - 📜 **{{w (*The Princess: A Medley*):** *"The shimmering glimpses of a stream"*
-> - 📜 **J. R. R. Tolkien (*The Fellowship of the Ring*):** *"I looked then and saw that his robes, which had seemed white, were not so, but were woven of all colours, and if he moved they shimmered and changed hue so that the eye was bewildered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cause to shimmer
+> 2. **Nuance / Usage**: Faint or veiled and tremulous gleam or shining
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Intransitive Verb & Noun.
+> - **Syntactic Constructions**: Operates verbally in progressive clauses (*heat was shimmering above the asphalt*) and nominally as an atmospheric subject (*a faint silver shimmer on the lake*).
+> - **Collocations & Registers**: Atmospheric and poetic registers; collocated with *heat haze*, *moonlight*, *silk*, *water*, and *subdued radiance*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"certainly a most ghostly shimmer through the shadow of my apartment."*
+> - 📜 **{{w (*The Princess: A Medley*):** *"The shimmering glimpses of a stream"*
+> - 📜 **J. R. R. Tolkien (*The Fellowship of the Ring*):** *"I looked then and saw that his robes, which had seemed white, were not so, but were woven of all colours, and if he moved they shimmered and changed hue so that the eye was bewildered."*

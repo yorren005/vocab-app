@@ -5,13 +5,6 @@ status: unread
 ---
 # ethnic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to large groups of people who share a particular identity according to common ancestry, culture, nationality, language, and/or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being a member of a specified ethnic group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The author, Tara McLaughlin, was a former day-care administrator in Washington, D.C. and, at the time of the publication, a research associate with the Urban Ethnic Research Program at Arizona State University, Tempe, Arizona."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to large groups of people who share a particular identity according to common ancestry, culture, nationality, language, and/or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being a member of a specified ethnic group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The author, Tara McLaughlin, was a former day-care administrator in Washington, D.C. and, at the time of the publication, a research associate with the Urban Ethnic Research Program at Arizona State University, Tempe, Arizona."*

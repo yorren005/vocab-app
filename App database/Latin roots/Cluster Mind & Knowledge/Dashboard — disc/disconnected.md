@@ -5,15 +5,6 @@ status: unread
 ---
 # disconnected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pull the plug of (electrical appliances) and render inoperable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make disconnected, disjoin or unfasten.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His changes of mood did not offend me, because I saw that I had nothing to do with their alternation; the ebb and flow depended on causes quite disconnected with me."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"And these visions, though they look utterly disconnected from reality, are in fact only an aspect of his passionate interest in science."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was amazed, disgusted that conditions so foreign to all his purposes, so hatefully disconnected with the objects he cared to occupy himself with, should have lain in ambush and clutched him when he was unaware."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pull the plug of (electrical appliances) and render inoperable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make disconnected, disjoin or unfasten.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His changes of mood did not offend me, because I saw that I had nothing to do with their alternation; the ebb and flow depended on causes quite disconnected with me."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"And these visions, though they look utterly disconnected from reality, are in fact only an aspect of his passionate interest in science."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was amazed, disgusted that conditions so foreign to all his purposes, so hatefully disconnected with the objects he cared to occupy himself with, should have lain in ambush and clutched him when he was unaware."*

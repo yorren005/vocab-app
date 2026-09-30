@@ -5,15 +5,6 @@ status: unread
 ---
 # tenable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on sound reasoning or evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on sound reasoning or evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you all, If you have hitherto conceal’d this sight, Let it be tenable in your silence still; And whatsoever else shall hap tonight, Give it an understanding, but no tongue."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only in Jesus that the Love of God (in the New Testament sense), is tenable at all."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale that comforting explanation seemed no longer tenable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on sound reasoning or evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on sound reasoning or evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you all, If you have hitherto conceal’d this sight, Let it be tenable in your silence still; And whatsoever else shall hap tonight, Give it an understanding, but no tongue."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only in Jesus that the Love of God (in the New Testament sense), is tenable at all."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale that comforting explanation seemed no longer tenable."*

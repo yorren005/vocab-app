@@ -5,13 +5,6 @@ status: unread
 ---
 # defusing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deactivating or making ineffective (as a bomb).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the triggering device from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defusing designates the act of deactivating or making ineffective (as a bomb)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deactivating or making ineffective (as a bomb).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the triggering device from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defusing designates the act of deactivating or making ineffective (as a bomb)."*

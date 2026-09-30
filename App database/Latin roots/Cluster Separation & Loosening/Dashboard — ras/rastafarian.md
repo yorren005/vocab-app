@@ -5,13 +5,6 @@ status: unread
 ---
 # rastafarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Follower of rastafarianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ethiopia) adherents of an african religion that regards ras tafari as divine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rastafarian designates follower of rastafarianism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Follower of rastafarianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ethiopia) adherents of an african religion that regards ras tafari as divine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rastafarian designates follower of rastafarianism."*

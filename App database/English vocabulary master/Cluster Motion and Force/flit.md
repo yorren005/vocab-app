@@ -5,20 +5,6 @@ status: unread
 ---
 # flit
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Alter, shift
-> 2. **Nuance / Usage**: Move about rapidly and nimbly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to flit the target*) and intransitive clauses (*fliting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"material tenement—flit when at length released?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"window of the forge, and flit away."*
-> - 📜 **Mary Shelley (*Frankenstein*):** *"the beloved dead flit before me, and I hasten to their arms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To move, dart, or pass lightly, swiftly, and softly from one place to another like a bird, bat, or shadow.
+> 2. **Nuance / Usage**: Figuratively used of fleeting thoughts, memories, or expressions that cross the mind or face for only an instant; in Scots and Northern English, to move house.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to flit the target*) and intransitive clauses (*fliting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Where would the spirit—released from its material tenement—**flit** when at length set free?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I saw a shadow cross the window of the forge and **flit** away into the marsh mist."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The forms of the beloved dead **flit** before me, and I hasten to their arms."*

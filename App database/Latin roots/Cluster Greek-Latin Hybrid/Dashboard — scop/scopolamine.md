@@ -5,13 +5,6 @@ status: unread
 ---
 # scopolamine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopolamine designates an alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopolamine designates an alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # inconsiderateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of failing to be considerate of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of failing to be considerate of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John, saw impropriety in my inconsiderateness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s wishes about his son had had a great deal of pride, inconsiderateness, and egoistic folly in them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of failing to be considerate of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of failing to be considerate of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John, saw impropriety in my inconsiderateness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s wishes about his son had had a great deal of pride, inconsiderateness, and egoistic folly in them."*

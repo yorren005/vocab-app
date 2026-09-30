@@ -5,13 +5,6 @@ status: unread
 ---
 # incomputable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond calculation or measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond calculation or measure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incomputable designates beyond calculation or measure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond calculation or measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond calculation or measure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incomputable designates beyond calculation or measure."*

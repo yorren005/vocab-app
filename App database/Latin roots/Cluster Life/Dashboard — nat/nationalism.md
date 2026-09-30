@@ -5,13 +5,6 @@ status: unread
 ---
 # nationalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of country and willingness to sacrifice for it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that your national culture and interests are superior to any other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides being advocates of bold action, this section also represented nationalism, which made them still more one-sided in the dispute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of country and willingness to sacrifice for it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that your national culture and interests are superior to any other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides being advocates of bold action, this section also represented nationalism, which made them still more one-sided in the dispute."*

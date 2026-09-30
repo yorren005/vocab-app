@@ -5,13 +5,6 @@ status: unread
 ---
 # inhabitancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dwelling in or living permanently in a place (said of both animals and men).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dwelling in or living permanently in a place (said of both animals and men).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhabitancy designates the act of dwelling in or living permanently in a place (said of both animals and men)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dwelling in or living permanently in a place (said of both animals and men).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dwelling in or living permanently in a place (said of both animals and men).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhabitancy designates the act of dwelling in or living permanently in a place (said of both animals and men)."*

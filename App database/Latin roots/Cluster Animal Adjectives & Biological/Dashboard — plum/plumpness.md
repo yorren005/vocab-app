@@ -5,15 +5,6 @@ status: unread
 ---
 # plumpness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily property of being well rounded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily property of being well rounded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Over these, and lost to the eye gazing in from the outer light, the mouths of the same animals could be heard busily sustaining the above-named warmth and plumpness by quantities of oats and hay."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Marian had been like a sack of meal, a dead weight of plumpness under which he has literally staggered."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"At fifteen, appearances were mending; she began to curl her hair and long for balls; her complexion improved, her features were softened by plumpness and colour, her eyes gained more animation, and her figure more consequence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily property of being well rounded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily property of being well rounded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Over these, and lost to the eye gazing in from the outer light, the mouths of the same animals could be heard busily sustaining the above-named warmth and plumpness by quantities of oats and hay."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Marian had been like a sack of meal, a dead weight of plumpness under which he has literally staggered."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"At fifteen, appearances were mending; she began to curl her hair and long for balls; her complexion improved, her features were softened by plumpness and colour, her eyes gained more animation, and her figure more consequence."*

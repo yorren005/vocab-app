@@ -5,20 +5,6 @@ status: unread
 ---
 # scathe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Harm, injury
-> 2. **Nuance / Usage**: Assail with withering denunciation
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the scathe withstood the storm*), direct object (*cleaved the scathe*), or prepositional anchor (*amidst the scathe*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To do offence and scathe in Christendom."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To pray for them that have done scathe to us."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This trick may chance to scathe you, I know what."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To harm, injure, or scorch severely by fire, lightning, or destructive force; also used as an archaic noun meaning harm or damage (*without scathe*).
+> 2. **Nuance / Usage**: Most familiar today in the participial adjective *scathing* (witheringly harsh criticism) and the negative adjective *unscathed* (wholly unharmed).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the scathe withstood the storm*), direct object (*cleaved the scathe*), or prepositional anchor (*amidst the scathe*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"This trick may chance to **scathe** you, I know what."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Like mountain oaks or pines, whose stately growth, though **scathed** with heaven's fire, yet stands on the blasted heath."*
+> - 📜 **J. R. R. Tolkien (*The Lord of the Rings*):** *"He passed through the shadow of the great fire without **scathe** or blemish."*

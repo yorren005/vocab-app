@@ -5,15 +5,6 @@ status: unread
 ---
 # penn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and quaker who founded the colony of pennsylvania (1644-1718).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university in philadelphia, pennsylvania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think so too, and would account I had a great penn’orth on’t, to give half my state, that both she and I at this present stood unfeignedly on the same terms."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What college,” pursues Bagnet, “could you set up in life—with two penn’orth of white lime—a penn’orth of fuller’s earth—a ha’porth of sand—and the rest of the change out of sixpence in money?"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"This was never penn'd at _Geneva_, the Note's too sprightly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and quaker who founded the colony of pennsylvania (1644-1718).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university in philadelphia, pennsylvania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think so too, and would account I had a great penn’orth on’t, to give half my state, that both she and I at this present stood unfeignedly on the same terms."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What college,” pursues Bagnet, “could you set up in life—with two penn’orth of white lime—a penn’orth of fuller’s earth—a ha’porth of sand—and the rest of the change out of sixpence in money?"*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"This was never penn'd at _Geneva_, the Note's too sprightly."*

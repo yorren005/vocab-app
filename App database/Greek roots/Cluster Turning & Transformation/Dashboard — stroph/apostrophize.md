@@ -5,15 +5,6 @@ status: unread
 ---
 # apostrophize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use an apostrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use an apostrophe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"If the author be old-fashioned enough to apostrophize the Gentle Reader, I know he must mean me, and docilely give ear, and presently tumble head-foremost into the treacherous pit he has digged for me."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When he apostrophizes the sinner, he speaks of himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh!” said the old lady, apostrophizing him with infinite vehemence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use an apostrophe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use an apostrophe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"If the author be old-fashioned enough to apostrophize the Gentle Reader, I know he must mean me, and docilely give ear, and presently tumble head-foremost into the treacherous pit he has digged for me."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When he apostrophizes the sinner, he speaks of himself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oh!” said the old lady, apostrophizing him with infinite vehemence."*

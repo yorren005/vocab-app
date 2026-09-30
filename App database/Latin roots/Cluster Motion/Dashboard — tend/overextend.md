@@ -5,13 +5,6 @@ status: unread
 ---
 # overextend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strain excessively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strain excessively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overextend designates strain excessively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strain excessively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strain excessively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overextend designates strain excessively."*

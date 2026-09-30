@@ -5,13 +5,6 @@ status: unread
 ---
 # hydraulics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science that deals with practical applications (such as the transmission of energy or the effects of flow) of liquid (such as water) in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of science that deals with practical applications (such as the transmission of energy or the effects of flow) of liquid (such as water) in motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You should have been a surgeon.” “It is a question of hydraulics, you see, and came within my own province.” “This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.” “A thing like a cleaver,” said he."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science that deals with practical applications (such as the transmission of energy or the effects of flow) of liquid (such as water) in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of science that deals with practical applications (such as the transmission of energy or the effects of flow) of liquid (such as water) in motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You should have been a surgeon.” “It is a question of hydraulics, you see, and came within my own province.” “This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.” “A thing like a cleaver,” said he."*

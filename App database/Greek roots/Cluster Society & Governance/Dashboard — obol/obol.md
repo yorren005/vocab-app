@@ -5,15 +5,6 @@ status: unread
 ---
 # obol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek coin or weight equal to ⅙ drachma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Greek coin or weight equal to ⅙ drachma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was preparing to enter the university, but he and his friend Obolénski had lately, in secret, agreed to join the hussars."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Fédya Obolénski is younger than I, and he’s going too."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He did not go straight home from the Krémlin, but called on his friend Obolénski, who was fifteen and was also entering the regiment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek coin or weight equal to ⅙ drachma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Greek coin or weight equal to ⅙ drachma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was preparing to enter the university, but he and his friend Obolénski had lately, in secret, agreed to join the hussars."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Fédya Obolénski is younger than I, and he’s going too."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He did not go straight home from the Krémlin, but called on his friend Obolénski, who was fifteen and was also entering the regiment."*

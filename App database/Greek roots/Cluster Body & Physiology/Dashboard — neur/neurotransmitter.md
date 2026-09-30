@@ -5,13 +5,6 @@ status: unread
 ---
 # neurotransmitter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotransmitter designates a substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotransmitter designates a substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse."*

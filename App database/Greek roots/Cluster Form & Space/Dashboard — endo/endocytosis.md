@@ -5,13 +5,6 @@ status: unread
 ---
 # endocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporation of substances into a cell by phagocytosis or pinocytosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporation of substances into a cell by phagocytosis or pinocytosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocytosis designates incorporation of substances into a cell by phagocytosis or pinocytosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporation of substances into a cell by phagocytosis or pinocytosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporation of substances into a cell by phagocytosis or pinocytosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocytosis designates incorporation of substances into a cell by phagocytosis or pinocytosis."*

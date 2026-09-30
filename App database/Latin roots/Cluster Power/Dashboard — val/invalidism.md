@@ -5,15 +5,6 @@ status: unread
 ---
 # invalidism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic ill health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic ill health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My healing is complete, and the liberation in thought is manifest in a life of active usefulness rather than the bondage of helpless invalidism and suffering."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"All my life had been spent in semi-invalidism, and I seemed destined to a life of suffering."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Over this Whitman's loss of his magnificent health, to be followed by an invalidism of twenty years, had no power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic ill health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic ill health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My healing is complete, and the liberation in thought is manifest in a life of active usefulness rather than the bondage of helpless invalidism and suffering."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"All my life had been spent in semi-invalidism, and I seemed destined to a life of suffering."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Over this Whitman's loss of his magnificent health, to be followed by an invalidism of twenty years, had no power."*

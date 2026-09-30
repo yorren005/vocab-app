@@ -5,13 +5,6 @@ status: unread
 ---
 # sapir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthropologist and linguist; studied languages of north american indians (1884-1939).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anthropologist and linguist; studied languages of north american indians (1884-1939).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapir designates anthropologist and linguist; studied languages of north american indians (1884-1939)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthropologist and linguist; studied languages of north american indians (1884-1939).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anthropologist and linguist; studied languages of north american indians (1884-1939).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapir designates anthropologist and linguist; studied languages of north american indians (1884-1939)."*

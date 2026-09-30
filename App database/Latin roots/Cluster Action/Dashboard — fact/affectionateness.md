@@ -5,15 +5,6 @@ status: unread
 ---
 # affectionateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality proceeding from feelings of affection or love.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Selina” received her with a pathetic affectionateness and a disposition to give edifying answers on the commonest topics, which could hardly have reference to an ordinary quarrel of which the most important consequence was a perturbation of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And I’ll stand by you whatever you make up your mind to do,” said the brother, with rough but well-meaning affectionateness."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He even tells us, with that naive affectionateness which often makes us smile, that he has had recourse to the character of his own brother John for the qualities in which the great Admiral appeared to him to have been deficient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of liking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality proceeding from feelings of affection or love.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Selina” received her with a pathetic affectionateness and a disposition to give edifying answers on the commonest topics, which could hardly have reference to an ordinary quarrel of which the most important consequence was a perturbation of Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And I’ll stand by you whatever you make up your mind to do,” said the brother, with rough but well-meaning affectionateness."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He even tells us, with that naive affectionateness which often makes us smile, that he has had recourse to the character of his own brother John for the qualities in which the great Admiral appeared to him to have been deficient."*

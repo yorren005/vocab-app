@@ -5,15 +5,6 @@ status: unread
 ---
 # alteration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that occurs when something passes from one state or phase to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something different (as e.g. the size of a garment).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know of the Duke if his last purpose hold, Or whether since he is advis’d by aught To change the course, he’s full of alteration And self-reproving, bring his constant pleasure. [_To an Officer, who goes out._] REGAN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that occurs when something passes from one state or phase to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something different (as e.g. the size of a garment).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know of the Duke if his last purpose hold, Or whether since he is advis’d by aught To change the course, he’s full of alteration And self-reproving, bring his constant pleasure. [_To an Officer, who goes out._] REGAN."*

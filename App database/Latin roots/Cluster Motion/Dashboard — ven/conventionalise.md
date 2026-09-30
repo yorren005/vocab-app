@@ -5,13 +5,6 @@ status: unread
 ---
 # conventionalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make conventional or adapt to conventions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In some instances the tiled roof of the tower is represented by tile-mouldings on the shoulder; but in this instance the form is entirely conventionalised into a cylindrical vase supported by three bear-shaped feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make conventional or adapt to conventions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In some instances the tiled roof of the tower is represented by tile-mouldings on the shoulder; but in this instance the form is entirely conventionalised into a cylindrical vase supported by three bear-shaped feet."*

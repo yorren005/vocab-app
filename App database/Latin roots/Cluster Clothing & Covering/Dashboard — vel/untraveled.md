@@ -5,15 +5,6 @@ status: unread
 ---
 # untraveled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"XIX We went straight to the lake, as it was called at Bly, and I daresay rightly called, though I reflect that it may in fact have been a sheet of water less remarkable than it appeared to my untraveled eyes."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"That is the girl whom he loves, and it makes little difference whether such a girl be rich or poor, talented or not, traveled or untraveled."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Along the combined streams ran a road--a dirt road originally, now long untraveled, muddy and bad, but still a road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"XIX We went straight to the lake, as it was called at Bly, and I daresay rightly called, though I reflect that it may in fact have been a sheet of water less remarkable than it appeared to my untraveled eyes."*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"That is the girl whom he loves, and it makes little difference whether such a girl be rich or poor, talented or not, traveled or untraveled."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Along the combined streams ran a road--a dirt road originally, now long untraveled, muddy and bad, but still a road."*

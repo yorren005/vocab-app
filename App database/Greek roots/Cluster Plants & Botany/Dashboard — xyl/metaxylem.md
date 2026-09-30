@@ -5,13 +5,6 @@ status: unread
 ---
 # metaxylem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaxylem designates the part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaxylem designates the part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls."*

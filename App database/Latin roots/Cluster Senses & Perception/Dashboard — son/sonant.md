@@ -5,13 +5,6 @@ status: unread
 ---
 # sonant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech sound accompanied by sound from the vocal cords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced with vibration of the vocal cords.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sonant designates a speech sound accompanied by sound from the vocal cords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech sound accompanied by sound from the vocal cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced with vibration of the vocal cords.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sonant designates a speech sound accompanied by sound from the vocal cords."*

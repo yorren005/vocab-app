@@ -5,14 +5,6 @@ status: unread
 ---
 # illogic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invalid or incorrect reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I trust you will believe me when I tell you that your illogic is far more painful for me to endure than all your tortures.” “Are you going to stop your knuckle-talking?” he demanded."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The Lieutenant began to envy the illogic that made such affection possible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invalid or incorrect reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I trust you will believe me when I tell you that your illogic is far more painful for me to endure than all your tortures.” “Are you going to stop your knuckle-talking?” he demanded."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The Lieutenant began to envy the illogic that made such affection possible."*

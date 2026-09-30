@@ -5,13 +5,6 @@ status: unread
 ---
 # ideology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner or the content of thinking characteristic of an individual, group, or culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The integrated assertions, theories and aims that constitute a sociopolitical program.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideology designates a manner or the content of thinking characteristic of an individual, group, or culture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner or the content of thinking characteristic of an individual, group, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The integrated assertions, theories and aims that constitute a sociopolitical program.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideology designates a manner or the content of thinking characteristic of an individual, group, or culture."*

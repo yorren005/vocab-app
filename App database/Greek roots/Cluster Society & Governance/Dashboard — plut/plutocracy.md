@@ -5,13 +5,6 @@ status: unread
 ---
 # plutocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controlling class of the wealthy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Peel’s late conduct on the Catholic question, innocent of future gold-fields, and of that gorgeous plutocracy which has so nobly exalted the necessities of genteel life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controlling class of the wealthy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Peel’s late conduct on the Catholic question, innocent of future gold-fields, and of that gorgeous plutocracy which has so nobly exalted the necessities of genteel life."*

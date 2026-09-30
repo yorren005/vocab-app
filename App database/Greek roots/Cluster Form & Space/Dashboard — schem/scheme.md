@@ -5,15 +5,6 @@ status: unread
 ---
 # scheme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plan or program of action; especially : a crafty or secret one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic or organized configuration : design.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The two told me last Saturday that they had a scheme for to-day in which I was to join."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then we could both settle here in the neighborhood." Leonore had been counting on this new scheme and she looked up at Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything is ready for you, Esther,” said Miss Donny, “and the scheme of your pursuits has been arranged in exact accordance with the wishes of your guardian, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plan or program of action; especially : a crafty or secret one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic or organized configuration : design.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The two told me last Saturday that they had a scheme for to-day in which I was to join."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then we could both settle here in the neighborhood." Leonore had been counting on this new scheme and she looked up at Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Everything is ready for you, Esther,” said Miss Donny, “and the scheme of your pursuits has been arranged in exact accordance with the wishes of your guardian, Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # polystyrene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer of styrene; a rigid transparent thermoplastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer of styrene; a rigid transparent thermoplastic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystyrene designates a polymer of styrene; a rigid transparent thermoplastic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer of styrene; a rigid transparent thermoplastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer of styrene; a rigid transparent thermoplastic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystyrene designates a polymer of styrene; a rigid transparent thermoplastic."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # heroin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But from fifteen to seventeen she was in training for a heroine; she read all such works as heroines must read to supply their memories with those quotations which are so serviceable and so soothing in the vicissitudes of their eventful lives."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O for a throat like huge Mons-Meg, To muster o’er each ardent Whig Beneath Drumlanrig’s banners; Heroes and heroines commix, All in the field of politics, To win immortal honours."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The old stories were full of the adventures of Jupiter, or Zeus, with the heroines, mortal women, whom he loved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But from fifteen to seventeen she was in training for a heroine; she read all such works as heroines must read to supply their memories with those quotations which are so serviceable and so soothing in the vicissitudes of their eventful lives."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O for a throat like huge Mons-Meg, To muster o’er each ardent Whig Beneath Drumlanrig’s banners; Heroes and heroines commix, All in the field of politics, To win immortal honours."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The old stories were full of the adventures of Jupiter, or Zeus, with the heroines, mortal women, whom he loved."*

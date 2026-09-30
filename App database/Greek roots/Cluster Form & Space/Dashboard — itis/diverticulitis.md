@@ -5,13 +5,6 @@ status: unread
 ---
 # diverticulitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a diverticulum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a diverticulum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulitis designates inflammation of a diverticulum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a diverticulum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a diverticulum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulitis designates inflammation of a diverticulum."*

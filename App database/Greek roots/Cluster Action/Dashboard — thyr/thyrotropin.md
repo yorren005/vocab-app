@@ -5,13 +5,6 @@ status: unread
 ---
 # thyrotropin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thyroid-stimulating hormone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone that is secreted by the anterior lobe of the pituitary gland and stimulates the thyroid gland —abbreviation TSH—called also thyrotropic hormone, thyrotropin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrotropin designates thyroid-stimulating hormone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thyroid-stimulating hormone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone that is secreted by the anterior lobe of the pituitary gland and stimulates the thyroid gland —abbreviation TSH—called also thyrotropic hormone, thyrotropin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrotropin designates thyroid-stimulating hormone."*

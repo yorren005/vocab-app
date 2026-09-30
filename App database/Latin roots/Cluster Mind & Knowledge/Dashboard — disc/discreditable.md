@@ -5,15 +5,6 @@ status: unread
 ---
 # discreditable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring discredit or disrepute; blameworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring discredit or disrepute; blameworthy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I am glad it occurred to me to mention it; for it would really be discreditable to _you_ to let them go alone.” “My uncle is to send a servant for us.” “Oh!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Deuce knows,” said Caleb, who never referred the knowledge of discreditable doings to any higher power than the deuce."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Especially if there was anything discreditable to be found out concerning another man, Caleb preferred not to know it; and if he had to tell anybody under him that his evil doings were discovered, he was more embarrassed than the culprit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring discredit or disrepute; blameworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring discredit or disrepute; blameworthy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I am glad it occurred to me to mention it; for it would really be discreditable to _you_ to let them go alone.” “My uncle is to send a servant for us.” “Oh!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Deuce knows,” said Caleb, who never referred the knowledge of discreditable doings to any higher power than the deuce."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Especially if there was anything discreditable to be found out concerning another man, Caleb preferred not to know it; and if he had to tell anybody under him that his evil doings were discovered, he was more embarrassed than the culprit."*

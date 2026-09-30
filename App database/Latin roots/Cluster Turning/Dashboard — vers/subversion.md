@@ -5,15 +5,6 @@ status: unread
 ---
 # subversion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying someone's (or some group's) honesty or loyalty; undermining moral integrity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subverting; as overthrowing or destroying a legally constituted government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What louring star now envies thy estate That these great lords and Margaret our Queen Do seek subversion of thy harmless life?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s subversion as an instrument of good; but the threat must have been permitted, and was a chastisement of a new kind."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Thus in letter days has the tranquillity of Little Britain been grievously disturbed and its golden simplicity of manners threatened with total subversion by the aspiring family of a retired butcher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying someone's (or some group's) honesty or loyalty; undermining moral integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subverting; as overthrowing or destroying a legally constituted government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What louring star now envies thy estate That these great lords and Margaret our Queen Do seek subversion of thy harmless life?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s subversion as an instrument of good; but the threat must have been permitted, and was a chastisement of a new kind."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Thus in letter days has the tranquillity of Little Britain been grievously disturbed and its golden simplicity of manners threatened with total subversion by the aspiring family of a retired butcher."*

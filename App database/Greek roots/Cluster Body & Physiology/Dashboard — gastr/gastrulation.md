@@ -5,13 +5,6 @@ status: unread
 ---
 # gastrulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process in which a gastrula develops from a blastula by the inward migration of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process in which a gastrula develops from a blastula by the inward migration of cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrulation designates the process in which a gastrula develops from a blastula by the inward migration of cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process in which a gastrula develops from a blastula by the inward migration of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process in which a gastrula develops from a blastula by the inward migration of cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrulation designates the process in which a gastrula develops from a blastula by the inward migration of cells."*

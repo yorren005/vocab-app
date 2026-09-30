@@ -5,15 +5,6 @@ status: unread
 ---
 # store
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mercantile establishment for the retail sale of goods or services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supply of something available for future use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sea all water, yet receives rain still, And in abundance addeth to his store, So thou being rich in will add to thy will One will of mine to make thy large will more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then in the number let me pass untold, Though in thy store’s account I one must be, For nothing hold me, so it please thee hold, That nothing me, a something sweet to thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mercantile establishment for the retail sale of goods or services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supply of something available for future use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sea all water, yet receives rain still, And in abundance addeth to his store, So thou being rich in will add to thy will One will of mine to make thy large will more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then in the number let me pass untold, Though in thy store’s account I one must be, For nothing hold me, so it please thee hold, That nothing me, a something sweet to thee."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # batten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stuffing made of rolls or sheets of cotton wool or synthetic fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strip fixed to something to hold it firm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Follow your function, go, and batten on cold bits. [_Pushes him away from him_.] THIRD SERVINGMAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Could you on this fair mountain leave to feed, And batten on this moor?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship’s stern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stuffing made of rolls or sheets of cotton wool or synthetic fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strip fixed to something to hold it firm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Follow your function, go, and batten on cold bits. [_Pushes him away from him_.] THIRD SERVINGMAN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Could you on this fair mountain leave to feed, And batten on this moor?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship’s stern."*

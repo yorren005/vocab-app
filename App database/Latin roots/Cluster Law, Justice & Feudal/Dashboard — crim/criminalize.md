@@ -5,13 +5,6 @@ status: unread
 ---
 # criminalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat as a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalize designates treat as a criminal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat as a criminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalize designates treat as a criminal."*

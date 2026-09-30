@@ -5,15 +5,6 @@ status: unread
 ---
 # disposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your usual mood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or means of getting rid of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This drum sticks sorely in your disposition."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As they pinch one another by the disposition, he cries out “no more”, reconciles them to his entreaty and himself to th’ drink."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am given, sir, secretly to understand that your younger brother Orlando hath a disposition to come in disguised against me to try a fall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Your usual mood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or means of getting rid of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This drum sticks sorely in your disposition."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As they pinch one another by the disposition, he cries out “no more”, reconciles them to his entreaty and himself to th’ drink."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am given, sir, secretly to understand that your younger brother Orlando hath a disposition to come in disguised against me to try a fall."*

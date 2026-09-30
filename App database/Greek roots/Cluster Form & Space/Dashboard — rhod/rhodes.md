@@ -5,15 +5,6 @@ status: unread
 ---
 # rhodes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British colonial financier and statesman in south africa; made a fortune in gold and diamond mining; helped colonize the territory now known as zimbabwe; he endowed annual fellowships for british commonwealth and united states students to study at oxford university (1853-1902).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A greek island in the southeast aegean sea 10 miles off the turkish coast; the largest of the dodecanese; it was colonized before 1000 bc by dorians from argos; site of the colossus of rhodes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Turkish preparation makes for Rhodes, So was I bid report here to the state By Signior Angelo."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in all confidence, he’s not for Rhodes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Ottomites, reverend and gracious, Steering with due course toward the isle of Rhodes, Have there injointed them with an after fleet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British colonial financier and statesman in south africa; made a fortune in gold and diamond mining; helped colonize the territory now known as zimbabwe; he endowed annual fellowships for british commonwealth and united states students to study at oxford university (1853-1902).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A greek island in the southeast aegean sea 10 miles off the turkish coast; the largest of the dodecanese; it was colonized before 1000 bc by dorians from argos; site of the colossus of rhodes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Turkish preparation makes for Rhodes, So was I bid report here to the state By Signior Angelo."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in all confidence, he’s not for Rhodes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Ottomites, reverend and gracious, Steering with due course toward the isle of Rhodes, Have there injointed them with an after fleet."*

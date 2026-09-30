@@ -5,13 +5,6 @@ status: unread
 ---
 # inoculating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of protecting against disease by introducing a vaccine into the body to induce immunity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce an idea or attitude into the mind of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"But, besides that I knew for certain he had no money, I knew that this would involve a species of forethought not to be made compatible with the frivolity of a caperer, inoculating other people with capering, for his bread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of protecting against disease by introducing a vaccine into the body to induce immunity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce an idea or attitude into the mind of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"But, besides that I knew for certain he had no money, I knew that this would involve a species of forethought not to be made compatible with the frivolity of a caperer, inoculating other people with capering, for his bread."*

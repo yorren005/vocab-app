@@ -5,13 +5,6 @@ status: unread
 ---
 # secretiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a lack of openness (especially about one's actions or purposes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of keeping things secret.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretiveness designates characterized by a lack of openness (especially about one's actions or purposes)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a lack of openness (especially about one's actions or purposes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of keeping things secret.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretiveness designates characterized by a lack of openness (especially about one's actions or purposes)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # on
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to indicate position in contact with and supported by the top surface of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to indicate position in or in contact with an outer surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet, to me, æons elapsed between the first tap of his knuckle and the last."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus my æons of star-wandering were æons of dread."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ah, what royal memories are mine, as I flutter through the æons of the long ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to indicate position in contact with and supported by the top surface of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to indicate position in or in contact with an outer surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet, to me, æons elapsed between the first tap of his knuckle and the last."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus my æons of star-wandering were æons of dread."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ah, what royal memories are mine, as I flutter through the æons of the long ago."*

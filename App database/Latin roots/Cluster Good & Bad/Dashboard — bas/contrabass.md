@@ -5,13 +5,6 @@ status: unread
 ---
 # contrabass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest and lowest member of the violin family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pitched an octave below normal bass instrumental or vocal range.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contrabass designates largest and lowest member of the violin family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest and lowest member of the violin family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pitched an octave below normal bass instrumental or vocal range.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contrabass designates largest and lowest member of the violin family."*

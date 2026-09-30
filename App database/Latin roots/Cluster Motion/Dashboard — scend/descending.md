@@ -5,15 +5,6 @@ status: unread
 ---
 # descending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move downward and lower, but not necessarily all the way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come from; be connected by a relationship of blood, for example.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Didst thou not say, when I did push thee back— Which was when I perceived thee—that thou cam’st From good descending?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ascend his throne, descending now from him, And long live Henry, of that name the fourth!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sun was low—near setting—and its light came redly in above, without descending to the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move downward and lower, but not necessarily all the way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come from; be connected by a relationship of blood, for example.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Didst thou not say, when I did push thee back— Which was when I perceived thee—that thou cam’st From good descending?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ascend his throne, descending now from him, And long live Henry, of that name the fourth!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sun was low—near setting—and its light came redly in above, without descending to the ground."*

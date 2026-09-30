@@ -5,15 +5,6 @@ status: unread
 ---
 # sterne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer (born in ireland) (1713-1766).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer (born in ireland) (1713-1766).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"I am positive, I have a soul, so gut wie Sterne."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As Sterne says: ‘We don’t love people so much for the good they have done us, as for the good we have done them.’ Father took her when she was homeless after losing her own father."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Sterne, who used his wife very ill, was one day talking to Garrick in a fine sentimental manner, in praise of conjugal love and fidelity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer (born in ireland) (1713-1766).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer (born in ireland) (1713-1766).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"I am positive, I have a soul, so gut wie Sterne."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As Sterne says: ‘We don’t love people so much for the good they have done us, as for the good we have done them.’ Father took her when she was homeless after losing her own father."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Sterne, who used his wife very ill, was one day talking to Garrick in a fine sentimental manner, in praise of conjugal love and fidelity."*

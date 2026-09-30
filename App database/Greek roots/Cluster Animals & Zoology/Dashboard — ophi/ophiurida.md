@@ -5,13 +5,6 @@ status: unread
 ---
 # ophiurida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brittle stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brittle stars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiurida designates brittle stars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brittle stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brittle stars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiurida designates brittle stars."*

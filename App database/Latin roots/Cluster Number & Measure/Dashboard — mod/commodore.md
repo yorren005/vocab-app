@@ -5,15 +5,6 @@ status: unread
 ---
 # commodore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned naval officer who ranks above a captain and below a rear admiral; the lowest grade of admiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commissioned naval officer who ranks above a captain and below a rear admiral; the lowest grade of admiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The New York Central between Albany and Buffalo was a consolidation, by Commodore Vanderbilt, of sixteen short lines."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale fell directly over him, and probably killed him in a moment.” _“The Whale and his Captors, or The Whaleman’s Adventures and the Whale’s Biography, gathered on the Homeward Cruise of the Commodore Preble.” By Rev."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thirdly: Some eighteen or twenty years ago Commodore J—— then commanding an American sloop-of-war of the first class, happened to be dining with a party of whaling captains, on board a Nantucket ship in the harbor of Oahu, Sandwich Islands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned naval officer who ranks above a captain and below a rear admiral; the lowest grade of admiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commissioned naval officer who ranks above a captain and below a rear admiral; the lowest grade of admiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The New York Central between Albany and Buffalo was a consolidation, by Commodore Vanderbilt, of sixteen short lines."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale fell directly over him, and probably killed him in a moment.” _“The Whale and his Captors, or The Whaleman’s Adventures and the Whale’s Biography, gathered on the Homeward Cruise of the Commodore Preble.” By Rev."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thirdly: Some eighteen or twenty years ago Commodore J—— then commanding an American sloop-of-war of the first class, happened to be dining with a party of whaling captains, on board a Nantucket ship in the harbor of Oahu, Sandwich Islands."*

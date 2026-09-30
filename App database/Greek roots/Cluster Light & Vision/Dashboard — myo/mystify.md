@@ -5,15 +5,6 @@ status: unread
 ---
 # mystify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mysterious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Melchior: True, I should magnify this present, mystify that future, too-- We adapt our conversation always to our hearer's light."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If, however, at this point, new full-weight coins are put into circulation, these at once disappear while the old ones remain in circulation--a fact that has always been somewhat mystifying."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Then occurred a fall in value, mystifying alike to the prince and the people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mysterious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Melchior: True, I should magnify this present, mystify that future, too-- We adapt our conversation always to our hearer's light."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If, however, at this point, new full-weight coins are put into circulation, these at once disappear while the old ones remain in circulation--a fact that has always been somewhat mystifying."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Then occurred a fall in value, mystifying alike to the prince and the people."*

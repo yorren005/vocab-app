@@ -5,15 +5,6 @@ status: unread
 ---
 # archness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate playfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate playfulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How I wish I hadn’t run after you!” However she seemed to have a short cut for getting back to cheerfulness, and set her face to signify archness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, allow me!” “Certainly, miss; I am not of steel.” He added a sigh which had as much archness in it as a sigh could possess without losing its nature altogether."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I was firm as a man could be till I saw those eyes and that mouth again—surely there never was such a maddening mouth since Eve’s!” His voice sank, and a hot archness shot from his own black eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate playfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate playfulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How I wish I hadn’t run after you!” However she seemed to have a short cut for getting back to cheerfulness, and set her face to signify archness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, allow me!” “Certainly, miss; I am not of steel.” He added a sigh which had as much archness in it as a sigh could possess without losing its nature altogether."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I was firm as a man could be till I saw those eyes and that mouth again—surely there never was such a maddening mouth since Eve’s!” His voice sank, and a hot archness shot from his own black eyes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # latrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public toilet in a military area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public toilet in a military area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Inside the corral, south of the graves, we constructed a latrine, and, north of the rifle pit in the centre, a couple of men were told off by father to dig a well for water."*
-> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"Each narrow cell in which we dwell Is a foul and dark latrine, And the fetid breath of living Death Chokes up each grated screen, And all, but Lust, is turned to dust In Humanity's machine."*
-> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"Each narrow cell in which we dwell Is a foul and dark latrine, And the fetid breath of living Death Chokes up each grated screen, And all, but Lust, is turned to dust In Humanity's machine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public toilet in a military area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public toilet in a military area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Inside the corral, south of the graves, we constructed a latrine, and, north of the rifle pit in the centre, a couple of men were told off by father to dig a well for water."*
+> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"Each narrow cell in which we dwell Is a foul and dark latrine, And the fetid breath of living Death Chokes up each grated screen, And all, but Lust, is turned to dust In Humanity's machine."*
+> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"Each narrow cell in which we dwell Is a foul and dark latrine, And the fetid breath of living Death Chokes up each grated screen, And all, but Lust, is turned to dust In Humanity's machine."*

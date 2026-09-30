@@ -5,13 +5,6 @@ status: unread
 ---
 # decile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decile designates (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decile designates (statistics) any of nine points that divided a distribution of ranked scores into equal intervals where each interval contains one-tenth of the scores."*

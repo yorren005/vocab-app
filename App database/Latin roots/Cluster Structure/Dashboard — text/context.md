@@ -5,15 +5,6 @@ status: unread
 ---
 # context
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discourse that surrounds a language unit and helps to determine its interpretation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of facts or circumstances that surround a situation or event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And taken with the context, this is full of meaning."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The statement has been declared so often across the ages that it's lost meaning, obviously because it changes in context and perception from one event, century or millennium to the next."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In categorizing the Sandbox incident 'insignificant' I do so only in the context of its effect on objectives and strategy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discourse that surrounds a language unit and helps to determine its interpretation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of facts or circumstances that surround a situation or event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And taken with the context, this is full of meaning."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The statement has been declared so often across the ages that it's lost meaning, obviously because it changes in context and perception from one event, century or millennium to the next."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In categorizing the Sandbox incident 'insignificant' I do so only in the context of its effect on objectives and strategy."*

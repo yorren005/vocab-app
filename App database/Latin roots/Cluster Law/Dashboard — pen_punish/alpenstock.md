@@ -5,13 +5,6 @@ status: unread
 ---
 # alpenstock
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stout staff with a metal point; used by mountain climbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stout staff with a metal point; used by mountain climbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpenstock designates a stout staff with a metal point; used by mountain climbers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stout staff with a metal point; used by mountain climbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stout staff with a metal point; used by mountain climbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpenstock designates a stout staff with a metal point; used by mountain climbers."*

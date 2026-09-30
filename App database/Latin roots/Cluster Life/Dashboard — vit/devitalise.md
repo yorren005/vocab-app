@@ -5,13 +5,6 @@ status: unread
 ---
 # devitalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sap of life or energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sap of life or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devitalise designates sap of life or energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sap of life or energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sap of life or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devitalise designates sap of life or energy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Memorization by repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Memorization by repetition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First rehearse your song by rote, To each word a warbling note; Hand in hand, with fairy grace, Will we sing, and bless this place. [_Song and Dance._] OBERON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, she knew well Thy love did read by rote, that could not spell."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And as he looked at the unpracticed mouth and lips, he thought that such a daughter of the soil could only have caught up the sentiment by rote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Memorization by repetition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Memorization by repetition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First rehearse your song by rote, To each word a warbling note; Hand in hand, with fairy grace, Will we sing, and bless this place. [_Song and Dance._] OBERON."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, she knew well Thy love did read by rote, that could not spell."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And as he looked at the unpracticed mouth and lips, he thought that such a daughter of the soil could only have caught up the sentiment by rote."*

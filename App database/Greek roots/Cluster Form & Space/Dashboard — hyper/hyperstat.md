@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperstat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperstat designates vasodilator (trade name hyperstat) used to treat severe hypertension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperstat designates vasodilator (trade name hyperstat) used to treat severe hypertension."*

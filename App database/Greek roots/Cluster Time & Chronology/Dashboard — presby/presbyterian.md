@@ -5,15 +5,6 @@ status: unread
 ---
 # presbyterian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of calvinism as taught in the presbyterian church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A follower of calvinism as taught in the presbyterian church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The family were of that "strict, not strictest species of Presbyterian Dissenter," and John attended also the Bible-class and Fellowship Meeting."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Christian religion has acted both directly and indirectly on the Scottish peasantry, and it has done so the more powerfully because of the democratic character of the Presbyterian form which that religion took in Scotland."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The bulk of the shopkeepers and tradesmen, with some of the professional men and a large proportion of the working people, were Dissenters, and were connected with one or other of the half-dozen Presbyterian congregations in the town."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of calvinism as taught in the presbyterian church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A follower of calvinism as taught in the presbyterian church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The family were of that "strict, not strictest species of Presbyterian Dissenter," and John attended also the Bible-class and Fellowship Meeting."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Christian religion has acted both directly and indirectly on the Scottish peasantry, and it has done so the more powerfully because of the democratic character of the Presbyterian form which that religion took in Scotland."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The bulk of the shopkeepers and tradesmen, with some of the professional men and a large proportion of the working people, were Dissenters, and were connected with one or other of the half-dozen Presbyterian congregations in the town."*

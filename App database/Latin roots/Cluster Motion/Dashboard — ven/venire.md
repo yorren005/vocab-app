@@ -5,13 +5,6 @@ status: unread
 ---
 # venire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a group of people summoned for jury service (from whom a jury will be chosen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a group of people summoned for jury service (from whom a jury will be chosen).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venire designates (law) a group of people summoned for jury service (from whom a jury will be chosen)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a group of people summoned for jury service (from whom a jury will be chosen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a group of people summoned for jury service (from whom a jury will be chosen).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venire designates (law) a group of people summoned for jury service (from whom a jury will be chosen)."*

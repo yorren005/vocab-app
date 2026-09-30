@@ -5,13 +5,6 @@ status: unread
 ---
 # procyclidine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name kemadrin) used to reduce tremors in parkinsonism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name kemadrin) used to reduce tremors in parkinsonism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procyclidine designates drug (trade name kemadrin) used to reduce tremors in parkinsonism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name kemadrin) used to reduce tremors in parkinsonism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name kemadrin) used to reduce tremors in parkinsonism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procyclidine designates drug (trade name kemadrin) used to reduce tremors in parkinsonism."*

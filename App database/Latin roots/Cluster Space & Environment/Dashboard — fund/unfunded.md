@@ -5,15 +5,6 @@ status: unread
 ---
 # unfunded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not furnished with funds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not furnished with funds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The income arising from current labor is unfunded, because there is no permanent fund of accumulated wealth corresponding to it."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At that time the total indebtedness, exclusive of the “old funded and unfunded debt” of the Revolution, and of cash in the Treasury, amounted to $2,844,646,626.56."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Does he not know that that measure of forcible readjustment absolutely repudiated one-half of the accrued and unfunded interest, while the Riddleberger bill provides for paying it dollar for dollar?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not furnished with funds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not furnished with funds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The income arising from current labor is unfunded, because there is no permanent fund of accumulated wealth corresponding to it."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At that time the total indebtedness, exclusive of the “old funded and unfunded debt” of the Revolution, and of cash in the Treasury, amounted to $2,844,646,626.56."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Does he not know that that measure of forcible readjustment absolutely repudiated one-half of the accrued and unfunded interest, while the Riddleberger bill provides for paying it dollar for dollar?"*

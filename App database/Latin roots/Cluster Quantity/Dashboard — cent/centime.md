@@ -5,14 +5,6 @@ status: unread
 ---
 # centime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries: france and algeria and belgium and burkina faso and burundi and cameroon and chad and the congo and gabon and haiti and the ivory coast and luxembourg and mali and morocco and niger and rwanda and senegal and switzerland and togo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For many centimes there has not been a more remarkable testimony of unfaltering trust in the faithfulness of God in supplying human wants, than is found in the life and labor of George Muller and his Orphan Home, in Bristol, England."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sandwich │Dollar │Gold │ 1 00│ Islands │ │ │ │ Spain │Peseta of 100 │Gold and silver│ 19.3│5, 10, 20, 60, │ centimes │ │ │ and 100 │ │ │ │ pesetas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries: france and algeria and belgium and burkina faso and burundi and cameroon and chad and the congo and gabon and haiti and the ivory coast and luxembourg and mali and morocco and niger and rwanda and senegal and switzerland and togo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"For many centimes there has not been a more remarkable testimony of unfaltering trust in the faithfulness of God in supplying human wants, than is found in the life and labor of George Muller and his Orphan Home, in Bristol, England."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sandwich │Dollar │Gold │ 1 00│ Islands │ │ │ │ Spain │Peseta of 100 │Gold and silver│ 19.3│5, 10, 20, 60, │ centimes │ │ │ and 100 │ │ │ │ pesetas."*

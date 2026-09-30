@@ -5,13 +5,6 @@ status: unread
 ---
 # calean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calean designates an oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calean designates an oriental tobacco pipe with a long flexible tube connected to a container where the smoke is cooled by passing through water."*

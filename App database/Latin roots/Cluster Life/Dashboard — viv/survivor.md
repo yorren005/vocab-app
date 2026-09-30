@@ -5,15 +5,6 @@ status: unread
 ---
 # survivor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives through affliction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who outlives another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people will remain uncertain whilst ’Twixt you there’s difference, but the fall of either Makes the survivor heir of all."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us flatter ourselves that_ I _may be the survivor;” and his inquiry to his colossal cousin as to the compliments which Mr."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us flatter ourselves that _I_ may be the survivor.” This was not very consoling to Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives through affliction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who outlives another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people will remain uncertain whilst ’Twixt you there’s difference, but the fall of either Makes the survivor heir of all."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us flatter ourselves that_ I _may be the survivor;” and his inquiry to his colossal cousin as to the compliments which Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us flatter ourselves that _I_ may be the survivor.” This was not very consoling to Mrs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pacification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of appeasing someone or causing someone to be more favorably inclined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treaty to cease hostilities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We demand the immediate and absolute removal of all disabilities imposed on account of the Rebellion, which was finally subdued seven years ago, believing that universal amnesty will result in complete pacification in all sections of the country. 4."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The permanent pacification of the southern section of the Union, and the complete protection of all its citizens in the free enjoyment of all their rights, is a duty to which the Republican party stands sacredly pledged."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The pacification of Europe, after June, 1815, assumed a firm and permanent aspect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of appeasing someone or causing someone to be more favorably inclined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treaty to cease hostilities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We demand the immediate and absolute removal of all disabilities imposed on account of the Rebellion, which was finally subdued seven years ago, believing that universal amnesty will result in complete pacification in all sections of the country. 4."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The permanent pacification of the southern section of the Union, and the complete protection of all its citizens in the free enjoyment of all their rights, is a duty to which the Republican party stands sacredly pledged."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The pacification of Europe, after June, 1815, assumed a firm and permanent aspect."*

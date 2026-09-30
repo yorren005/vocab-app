@@ -5,13 +5,6 @@ status: unread
 ---
 # lactarius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactarius designates large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactarius designates large genus of agarics that have white spore and contain a white or milky juice when cut or broken; includes both edible and poisonous species."*

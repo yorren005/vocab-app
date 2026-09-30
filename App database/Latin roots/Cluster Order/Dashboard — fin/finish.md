@@ -5,15 +5,6 @@ status: unread
 ---
 # finish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative texture or appearance of a surface (or the substance that gives it that appearance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal end; the concluding time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Throw my heart Against the flint and hardness of my fault, Which, being dried with grief, will break to powder And finish all foul thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles a wedlock hymn we sing, Feed yourselves with questioning, That reason wonder may diminish How thus we met, and these things finish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What she confess’d I will report, so please you; these her women Can trip me if I err, who with wet cheeks Were present when she finish’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative texture or appearance of a surface (or the substance that gives it that appearance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal end; the concluding time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Throw my heart Against the flint and hardness of my fault, Which, being dried with grief, will break to powder And finish all foul thoughts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles a wedlock hymn we sing, Feed yourselves with questioning, That reason wonder may diminish How thus we met, and these things finish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What she confess’d I will report, so please you; these her women Can trip me if I err, who with wet cheeks Were present when she finish’d."*

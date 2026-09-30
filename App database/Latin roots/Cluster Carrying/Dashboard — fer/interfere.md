@@ -5,15 +5,6 @@ status: unread
 ---
 # interfere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come between so as to be hindrance or obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The poor woman is so anxious to make his life at the castle a little more the way it used to be in the old times." "For heaven's sake, Maxa, I hope you are not trying to interfere."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And I dare say we all thought too—I am sure I did, for one—would Boythorn at all interfere with what was going forward?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do not,” he would sometimes add in a burst of deportment, “even allow my simple requirements to be considered if they should at any time interfere with your own, my Caroline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come between so as to be hindrance or obstacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The poor woman is so anxious to make his life at the castle a little more the way it used to be in the old times." "For heaven's sake, Maxa, I hope you are not trying to interfere."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And I dare say we all thought too—I am sure I did, for one—would Boythorn at all interfere with what was going forward?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Do not,” he would sometimes add in a burst of deportment, “even allow my simple requirements to be considered if they should at any time interfere with your own, my Caroline."*

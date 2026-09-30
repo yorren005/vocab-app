@@ -5,15 +5,6 @@ status: unread
 ---
 # typhus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various bacterial diseases caused by rickettsias: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe human febrile disease that is caused by one (Rickettsia prowazekii) transmitted especially by body lice and is marked by high fever, stupor alternating with delirium, intense headache, and a dark red rash.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This illness, at first a low fever, turned to typhus, _and July 3 there seemed no hope of her recovery_."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was not, I was told, in the hospital portion of the house with the fever patients; for her complaint was consumption, not typhus: and by consumption I, in my ignorance, understood something mild, which time and care would be sure to alleviate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When the typhus fever had fulfilled its mission of devastation at Lowood, it gradually disappeared from thence; but not till its virulence and the number of its victims had drawn public attention on the school."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various bacterial diseases caused by rickettsias: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe human febrile disease that is caused by one (Rickettsia prowazekii) transmitted especially by body lice and is marked by high fever, stupor alternating with delirium, intense headache, and a dark red rash.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This illness, at first a low fever, turned to typhus, _and July 3 there seemed no hope of her recovery_."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was not, I was told, in the hospital portion of the house with the fever patients; for her complaint was consumption, not typhus: and by consumption I, in my ignorance, understood something mild, which time and care would be sure to alleviate."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When the typhus fever had fulfilled its mission of devastation at Lowood, it gradually disappeared from thence; but not till its virulence and the number of its victims had drawn public attention on the school."*

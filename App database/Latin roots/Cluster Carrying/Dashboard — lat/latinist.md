@@ -5,13 +5,6 @@ status: unread
 ---
 # latinist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the latin language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the latin language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am a husband of older standing than you, and shall give you my ideas of the conjugal state, (_en passant_--you know I am no Latinist-is not _conjugal_ derived from _jugum_, a yoke?) Well, then, the scale of good wifeship I divide into ten parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the latin language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the latin language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am a husband of older standing than you, and shall give you my ideas of the conjugal state, (_en passant_--you know I am no Latinist-is not _conjugal_ derived from _jugum_, a yoke?) Well, then, the scale of good wifeship I divide into ten parts."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tripoli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weathered and decomposed siliceous limestone; in powdered form it is used in polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and chief port and largest city of libya; in northwestern libya on the mediterranean sea; founded by the phoenicians in the 7th century bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, at the farthest for a week or two; But then up farther, and as far as Rome; And so to Tripoli, if God lend me life."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He says, without however vouching for the truth of the tale, that once in the land of the Psylli, the modern Tripoli, the wind blowing from the Sahara had dried up all the water-tanks."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Tripoli │Mahbub of 20 │Silver │ 74.3│ │ piasters │ │ │ Turkey │Piaster │Gold │ 04.4│25, 50, 100, │ │ │ │ 250, and 500 │ │ │ │ piasters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weathered and decomposed siliceous limestone; in powdered form it is used in polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and chief port and largest city of libya; in northwestern libya on the mediterranean sea; founded by the phoenicians in the 7th century bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, at the farthest for a week or two; But then up farther, and as far as Rome; And so to Tripoli, if God lend me life."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He says, without however vouching for the truth of the tale, that once in the land of the Psylli, the modern Tripoli, the wind blowing from the Sahara had dried up all the water-tanks."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Tripoli │Mahbub of 20 │Silver │ 74.3│ │ piasters │ │ │ Turkey │Piaster │Gold │ 04.4│25, 50, 100, │ │ │ │ 250, and 500 │ │ │ │ piasters."*

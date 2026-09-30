@@ -5,15 +5,6 @@ status: unread
 ---
 # theme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subject or topic of discourse or of artistic representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific and distinctive quality, characteristic, or concern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife and brother Made wars upon me, and their contestation Was theme for you; you were the word of war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To me she speaks; she moves me for her theme."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In bed he slept not for my urging it; At board he fed not for my urging it; Alone, it was the subject of my theme; In company I often glanced it; Still did I tell him it was vile and bad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subject or topic of discourse or of artistic representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific and distinctive quality, characteristic, or concern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife and brother Made wars upon me, and their contestation Was theme for you; you were the word of war."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To me she speaks; she moves me for her theme."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In bed he slept not for my urging it; At board he fed not for my urging it; Alone, it was the subject of my theme; In company I often glanced it; Still did I tell him it was vile and bad."*

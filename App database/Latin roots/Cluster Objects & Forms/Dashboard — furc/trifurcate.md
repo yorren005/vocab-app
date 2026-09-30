@@ -5,13 +5,6 @@ status: unread
 ---
 # trifurcate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into three.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into three.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trifurcate designates divide into three."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into three.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into three.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trifurcate designates divide into three."*

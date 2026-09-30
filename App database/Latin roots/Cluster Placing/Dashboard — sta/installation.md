@@ -5,15 +5,6 @@ status: unread
 ---
 # installation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of installing something (as equipment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building or place that provides a particular service or is used for a particular industry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Coiler, and I had the honour of taking her down to dinner on the day of my installation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"By then, the installation had expanded enormously, and was named Wright-Patterson Air Force Base. *** Any questions?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of installing something (as equipment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building or place that provides a particular service or is used for a particular industry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Coiler, and I had the honour of taking her down to dinner on the day of my installation."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"By then, the installation had expanded enormously, and was named Wright-Patterson Air Force Base. *** Any questions?"*

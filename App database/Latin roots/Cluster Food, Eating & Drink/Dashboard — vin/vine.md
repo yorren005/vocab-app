@@ -5,15 +5,6 @@ status: unread
 ---
 # vine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant with a weak stem that derives support from climbing, twining, or creeping along a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant with a weak stem that derives support from climbing, twining, or creeping along a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, thou monarch of the vine, Plumpy Bacchus with pink eyne!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let the stinking elder, grief, untwine His perishing root with the increasing vine!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant with a weak stem that derives support from climbing, twining, or creeping along a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant with a weak stem that derives support from climbing, twining, or creeping along a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, thou monarch of the vine, Plumpy Bacchus with pink eyne!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let the stinking elder, grief, untwine His perishing root with the increasing vine!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*

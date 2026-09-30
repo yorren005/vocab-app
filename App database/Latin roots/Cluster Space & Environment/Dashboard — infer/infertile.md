@@ -5,13 +5,6 @@ status: unread
 ---
 # infertile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of reproducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of reproducing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infertile designates incapable of reproducing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of reproducing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of reproducing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infertile designates incapable of reproducing."*

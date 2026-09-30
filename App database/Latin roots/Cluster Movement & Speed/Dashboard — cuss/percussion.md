@@ -5,15 +5,6 @@ status: unread
 ---
 # percussion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of playing a percussion instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exploding a percussion cap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"People thought and talked of nothing else; even the children showed their little spites by calling to each other, 'Here, you rebel;' and mere scraps of boys amused themselves with percussion-caps and hammers."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"He refused to do any thing different from what his fathers did, and abhorred double-barreled shotguns and percussion-caps as inventions of the devil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of playing a percussion instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exploding a percussion cap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"People thought and talked of nothing else; even the children showed their little spites by calling to each other, 'Here, you rebel;' and mere scraps of boys amused themselves with percussion-caps and hammers."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"He refused to do any thing different from what his fathers did, and abhorred double-barreled shotguns and percussion-caps as inventions of the devil."*

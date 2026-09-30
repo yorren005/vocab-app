@@ -5,15 +5,6 @@ status: unread
 ---
 # oncoming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beginning or early stages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving toward one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And dying with the shouts of the oncoming Snub-Noses growing dim in my ears, I was glad that the Snub-Noses would have no sons of us to bring up by our women."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon now, it was as if he suddenly found himself on the dark river-brink and heard the plash of the oncoming oar, not discerning the forms, but expecting the summons."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And now within all the automatic succession of theoretic phrases—distinct and inmost as the shiver and the ache of oncoming fever when we are discussing abstract pain, was the forecast of disgrace in the presence of his neighbors and of his own wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beginning or early stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving toward one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And dying with the shouts of the oncoming Snub-Noses growing dim in my ears, I was glad that the Snub-Noses would have no sons of us to bring up by our women."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon now, it was as if he suddenly found himself on the dark river-brink and heard the plash of the oncoming oar, not discerning the forms, but expecting the summons."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And now within all the automatic succession of theoretic phrases—distinct and inmost as the shiver and the ache of oncoming fever when we are discussing abstract pain, was the forecast of disgrace in the presence of his neighbors and of his own wife."*

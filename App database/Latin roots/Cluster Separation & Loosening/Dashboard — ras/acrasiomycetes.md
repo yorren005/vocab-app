@@ -5,13 +5,6 @@ status: unread
 ---
 # acrasiomycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cellular slime molds; in some classifications placed in kingdom protoctista.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cellular slime molds; in some classifications placed in kingdom protoctista.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrasiomycetes designates cellular slime molds; in some classifications placed in kingdom protoctista."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cellular slime molds; in some classifications placed in kingdom protoctista.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cellular slime molds; in some classifications placed in kingdom protoctista.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrasiomycetes designates cellular slime molds; in some classifications placed in kingdom protoctista."*

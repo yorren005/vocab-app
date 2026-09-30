@@ -5,15 +5,6 @@ status: unread
 ---
 # prophetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretelling events as if by supernatural intervention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foretelling events as if by supernatural intervention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now hear me speak with a prophetic spirit; For even the breath of what I mean to speak Shall blow each dust, each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne; and therefore mark."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say from whence You owe this strange intelligence? or why Upon this blasted heath you stop our way With such prophetic greeting?—Speak, I charge you. [_Witches vanish._] BANQUO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A sibyl, that had number’d in the world The sun to course two hundred compasses, In her prophetic fury sew’d the work; The worms were hallow’d that did breed the silk, And it was dyed in mummy, which the skillful Conserv’d of maiden’s hearts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretelling events as if by supernatural intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foretelling events as if by supernatural intervention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now hear me speak with a prophetic spirit; For even the breath of what I mean to speak Shall blow each dust, each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne; and therefore mark."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say from whence You owe this strange intelligence? or why Upon this blasted heath you stop our way With such prophetic greeting?—Speak, I charge you. [_Witches vanish._] BANQUO."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A sibyl, that had number’d in the world The sun to course two hundred compasses, In her prophetic fury sew’d the work; The worms were hallow’d that did breed the silk, And it was dyed in mummy, which the skillful Conserv’d of maiden’s hearts."*

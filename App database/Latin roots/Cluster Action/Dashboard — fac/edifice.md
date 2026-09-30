@@ -5,15 +5,6 @@ status: unread
 ---
 # edifice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure that has a roof and walls and stands more or less permanently in one place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure that has a roof and walls and stands more or less permanently in one place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a fair house built on another man’s ground, so that I have lost my edifice by mistaking the place where I erected it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He admires the size of the edifice and wonders what it’s all about."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This stone edifice consisted of a central mass and two wings, whereon stood as sentinels a few slim chimneys, now gurgling sorrowfully to the slow wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure that has a roof and walls and stands more or less permanently in one place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure that has a roof and walls and stands more or less permanently in one place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a fair house built on another man’s ground, so that I have lost my edifice by mistaking the place where I erected it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He admires the size of the edifice and wonders what it’s all about."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This stone edifice consisted of a central mass and two wings, whereon stood as sentinels a few slim chimneys, now gurgling sorrowfully to the slow wind."*

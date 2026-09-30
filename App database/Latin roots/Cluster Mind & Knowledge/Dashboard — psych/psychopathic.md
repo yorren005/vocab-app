@@ -5,14 +5,6 @@ status: unread
 ---
 # psychopathic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from an undiagnosed mental disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from an undiagnosed mental disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is nothing in the least "psychopathic" about him, nothing abnormal--no mystical vision of God, no mystical absorption in God, no mystical union with God, no abstraction, nothing that is the mark of the professed mystic."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Psychopathic, auto-suggestion, telepathy, the subliminal self--the words may tell us something; whether what they tell us is verifiable, remains to be seen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from an undiagnosed mental disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from an undiagnosed mental disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is nothing in the least "psychopathic" about him, nothing abnormal--no mystical vision of God, no mystical absorption in God, no mystical union with God, no abstraction, nothing that is the mark of the professed mystic."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Psychopathic, auto-suggestion, telepathy, the subliminal self--the words may tell us something; whether what they tell us is verifiable, remains to be seen."*

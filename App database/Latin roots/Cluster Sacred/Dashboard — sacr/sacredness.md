@@ -5,15 +5,6 @@ status: unread
 ---
 # sacredness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being sacred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge deepening realization of sacredness, preeminent importance of twin purposes which individual resolves serve."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It seemed always to me that the sacredness of the cause for which they offered up their lives gave to them a heroism almost super-human--and the sufferings caused an almost womanly refinement among the coarsest men."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was not conceivable that I could mar the sacredness of such a time by masquerading in an assumed character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being sacred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being sacred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge deepening realization of sacredness, preeminent importance of twin purposes which individual resolves serve."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It seemed always to me that the sacredness of the cause for which they offered up their lives gave to them a heroism almost super-human--and the sufferings caused an almost womanly refinement among the coarsest men."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was not conceivable that I could mar the sacredness of such a time by masquerading in an assumed character."*

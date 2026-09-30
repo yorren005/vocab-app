@@ -5,15 +5,6 @@ status: unread
 ---
 # scalloped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorate an edge with scallops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bake in a sauce, milk, etc., often with breadcrumbs on top.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Towards the close of the entertainment, the person who officiated as master of the feast produced a large cake baked with eggs and scalloped round the edge, called _am bonnach beal-tine--i.e._ the Beltane cake."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His broad fins are bored, and scalloped out like a lost sheep’s ear!"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Docking slips scalloped the Disk's rim, each with its own hoists, articulated and flex-umbilicals, power junctions, and docking, launch and maintenance support facilities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorate an edge with scallops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bake in a sauce, milk, etc., often with breadcrumbs on top.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Towards the close of the entertainment, the person who officiated as master of the feast produced a large cake baked with eggs and scalloped round the edge, called _am bonnach beal-tine--i.e._ the Beltane cake."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His broad fins are bored, and scalloped out like a lost sheep’s ear!"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Docking slips scalloped the Disk's rim, each with its own hoists, articulated and flex-umbilicals, power junctions, and docking, launch and maintenance support facilities."*

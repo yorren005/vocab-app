@@ -5,15 +5,6 @@ status: unread
 ---
 # contained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Include or contain; have as a component.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contain or hold; have within.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The last thrilled Salo most, because it contained a summons for him to come to his new home."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t wake Miss Clare.” She would not sit down, but stood by the fire dipping her inky middle finger in the egg-cup, which contained vinegar, and smearing it over the ink stains on her face, frowning the whole time and looking very gloomy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Each was a counterpart of the other and contained these words in a solid, plain hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Include or contain; have as a component.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contain or hold; have within.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The last thrilled Salo most, because it contained a summons for him to come to his new home."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t wake Miss Clare.” She would not sit down, but stood by the fire dipping her inky middle finger in the egg-cup, which contained vinegar, and smearing it over the ink stains on her face, frowning the whole time and looking very gloomy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Each was a counterpart of the other and contained these words in a solid, plain hand."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unreal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in reality or substance or genuineness; not corresponding to acknowledged facts or criteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not actually such; being or seeming fanciful or imaginary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unreal mock’ry, hence! [_Ghost disappears._] Why, so;—being gone, I am a man again.—Pray you, sit still."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our speedy arrival at our destination, before I had time to recover myself, increased my confusion, and I never shall forget the uncertain and the unreal air of everything at Greenleaf (Miss Donny’s house) that afternoon!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"News did occasionally filter in—but such dim, long-after-the-event, unreal news."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in reality or substance or genuineness; not corresponding to acknowledged facts or criteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not actually such; being or seeming fanciful or imaginary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unreal mock’ry, hence! [_Ghost disappears._] Why, so;—being gone, I am a man again.—Pray you, sit still."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our speedy arrival at our destination, before I had time to recover myself, increased my confusion, and I never shall forget the uncertain and the unreal air of everything at Greenleaf (Miss Donny’s house) that afternoon!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"News did occasionally filter in—but such dim, long-after-the-event, unreal news."*

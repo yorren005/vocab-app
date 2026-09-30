@@ -5,14 +5,6 @@ status: unread
 ---
 # undecipherable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily deciphered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily deciphered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily deciphered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*

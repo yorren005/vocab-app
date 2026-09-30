@@ -5,13 +5,6 @@ status: unread
 ---
 # etymologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in etymology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in etymology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The name _Hogan_--which has occasioned some discussion among antiquaries and etymologists--is probably derived from _ogof_ or _ogov_, the British name for a cavern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in etymology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in etymology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The name _Hogan_--which has occasioned some discussion among antiquaries and etymologists--is probably derived from _ogof_ or _ogov_, the British name for a cavern."*

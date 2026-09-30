@@ -5,14 +5,6 @@ status: unread
 ---
 # unsex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of sex or sexual powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the qualities typical of one's sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Now the unsexed priests of this Syrian goddess resembled those of Cybele so closely that some people took them to be the same."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Is it for this the Spanish maid, aroused, Hangs on the willow her unstrung guitar, And, all unsexed, the anlace hath espoused, Sung the loud song, and dared the deed of war?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of sex or sexual powers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the qualities typical of one's sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Now the unsexed priests of this Syrian goddess resembled those of Cybele so closely that some people took them to be the same."*
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Is it for this the Spanish maid, aroused, Hangs on the willow her unstrung guitar, And, all unsexed, the anlace hath espoused, Sung the loud song, and dared the deed of war?"*

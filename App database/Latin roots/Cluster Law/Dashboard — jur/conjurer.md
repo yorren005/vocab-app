@@ -5,15 +5,6 @@ status: unread
 ---
 # conjurer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs magic tricks to amuse an audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A witch doctor who practices conjury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PINCH, a Schoolmaster and a Conjurer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Doctor Pinch, you are a conjurer; Establish him in his true sense again, And I will please you what you will demand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master preaches patience to him, and the while His man with scissors nicks him like a fool; And sure (unless you send some present help) Between them they will kill the conjurer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs magic tricks to amuse an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A witch doctor who practices conjury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PINCH, a Schoolmaster and a Conjurer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Doctor Pinch, you are a conjurer; Establish him in his true sense again, And I will please you what you will demand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master preaches patience to him, and the while His man with scissors nicks him like a fool; And sure (unless you send some present help) Between them they will kill the conjurer."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # all
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole amount, quantity, or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As much as possible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole amount, quantity, or extent of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As much as possible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*

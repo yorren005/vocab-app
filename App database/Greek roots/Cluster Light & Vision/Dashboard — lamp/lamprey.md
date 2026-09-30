@@ -5,13 +5,6 @@ status: unread
 ---
 # lamprey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lamprey designates primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lamprey designates primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue."*

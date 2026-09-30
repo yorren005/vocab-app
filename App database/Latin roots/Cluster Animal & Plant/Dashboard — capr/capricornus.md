@@ -5,13 +5,6 @@ status: unread
 ---
 # capricornus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capricornus designates a faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capricornus designates a faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius."*

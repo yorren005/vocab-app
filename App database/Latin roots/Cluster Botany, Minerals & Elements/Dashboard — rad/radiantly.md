@@ -5,15 +5,6 @@ status: unread
 ---
 # radiantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radiant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a radiant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It a little surprised me to find that she hesitated and was not so radiantly willing as I had expected."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rest confidently here.” Soothingly, like the gentle rustling of the leaves; and genially, like the ripening weather; and radiantly and beneficently, like the sunshine, he went on."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel’s eye at last fell upon Tess, the hindmost of the four; she, being full of suppressed laughter at their dilemma, could not help meeting his glance radiantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radiant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a radiant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It a little surprised me to find that she hesitated and was not so radiantly willing as I had expected."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rest confidently here.” Soothingly, like the gentle rustling of the leaves; and genially, like the ripening weather; and radiantly and beneficently, like the sunshine, he went on."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel’s eye at last fell upon Tess, the hindmost of the four; she, being full of suppressed laughter at their dilemma, could not help meeting his glance radiantly."*

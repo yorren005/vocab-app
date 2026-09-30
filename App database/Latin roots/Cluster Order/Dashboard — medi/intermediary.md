@@ -5,13 +5,6 @@ status: unread
 ---
 # intermediary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A growing consensus among philosophers made God more and more remote, and emphasized the necessity for intermediaries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A growing consensus among philosophers made God more and more remote, and emphasized the necessity for intermediaries."*

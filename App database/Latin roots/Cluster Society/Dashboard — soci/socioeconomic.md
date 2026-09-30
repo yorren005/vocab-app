@@ -5,13 +5,6 @@ status: unread
 ---
 # socioeconomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving social as well as economic factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving social as well as economic factors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socioeconomic designates involving social as well as economic factors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving social as well as economic factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving social as well as economic factors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socioeconomic designates involving social as well as economic factors."*

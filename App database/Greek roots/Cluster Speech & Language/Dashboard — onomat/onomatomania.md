@@ -5,13 +5,6 @@ status: unread
 ---
 # onomatomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsession with a particular word which the person uses repeatedly or which intrudes into consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsession with a particular word which the person uses repeatedly or which intrudes into consciousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatomania designates obsession with a particular word which the person uses repeatedly or which intrudes into consciousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsession with a particular word which the person uses repeatedly or which intrudes into consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsession with a particular word which the person uses repeatedly or which intrudes into consciousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatomania designates obsession with a particular word which the person uses repeatedly or which intrudes into consciousness."*

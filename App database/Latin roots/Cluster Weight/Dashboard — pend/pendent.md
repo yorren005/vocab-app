@@ -5,15 +5,6 @@ status: unread
 ---
 # pendent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment that hangs from a piece of jewelry (necklace or earring).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched lighting fixture; often ornate; hangs from the ceiling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I asked, ‘Sophie, what are you doing?’ No one answered; but a form emerged from the closet; it took the light, held it aloft, and surveyed the garments pendent from the portmanteau. ‘Sophie!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How can man, reflecting God, be de- 489:18 pendent on material means for knowing, hearing, seeing?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Moored under the trees of Charleville Mall Father Conmee saw a turfbarge, a towhorse with pendent head, a bargeman with a hat of dirty straw seated amidships, smoking and staring at a branch of poplar above him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment that hangs from a piece of jewelry (necklace or earring).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched lighting fixture; often ornate; hangs from the ceiling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I asked, ‘Sophie, what are you doing?’ No one answered; but a form emerged from the closet; it took the light, held it aloft, and surveyed the garments pendent from the portmanteau. ‘Sophie!"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How can man, reflecting God, be de- 489:18 pendent on material means for knowing, hearing, seeing?"*
+> - 📜 **James Joyce (*Ulysses*):** *"Moored under the trees of Charleville Mall Father Conmee saw a turfbarge, a towhorse with pendent head, a bargeman with a hat of dirty straw seated amidships, smoking and staring at a branch of poplar above him."*

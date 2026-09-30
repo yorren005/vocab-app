@@ -5,15 +5,6 @@ status: unread
 ---
 # sentimentality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Falsely emotional in a maudlin way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant or affected feeling or emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The leaders of any group of men, whether of wage workers, merchants, manufacturers, or political constituents, find it necessary to show that the interest of their supporters rather than a broader "sentimentality" is uppermost in their thought."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Shane, do you know people cover greed with sentimentality and call it virtue?" "But, Hedda, the women don't see."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Is it just sentimentality, old wives’ tales, or is she right?” he asked himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Falsely emotional in a maudlin way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant or affected feeling or emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The leaders of any group of men, whether of wage workers, merchants, manufacturers, or political constituents, find it necessary to show that the interest of their supporters rather than a broader "sentimentality" is uppermost in their thought."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Shane, do you know people cover greed with sentimentality and call it virtue?" "But, Hedda, the women don't see."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Is it just sentimentality, old wives’ tales, or is she right?” he asked himself."*

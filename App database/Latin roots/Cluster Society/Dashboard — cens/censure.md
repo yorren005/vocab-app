@@ -5,15 +5,6 @@ status: unread
 ---
 # censure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh criticism or disapproval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being excommunicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore beware my censure, and keep your promise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do demand If you submit you to the people’s voices, Allow their officers, and are content To suffer lawful censure for such faults As shall be proved upon you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh criticism or disapproval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being excommunicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore beware my censure, and keep your promise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do demand If you submit you to the people’s voices, Allow their officers, and are content To suffer lawful censure for such faults As shall be proved upon you."*

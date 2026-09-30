@@ -5,13 +5,6 @@ status: unread
 ---
 # tango
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ballroom dance of latin-american origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music written in duple time for dancing the tango.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tango designates a ballroom dance of latin-american origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ballroom dance of latin-american origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music written in duple time for dancing the tango.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tango designates a ballroom dance of latin-american origin."*

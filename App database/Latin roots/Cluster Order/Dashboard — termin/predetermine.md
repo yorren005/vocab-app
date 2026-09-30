@@ -5,15 +5,6 @@ status: unread
 ---
 # predetermine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be biased.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Climate, rainfall, iron deposits, fuel, supply of wood or coal, predetermine in large measure the limits within, and the direction in which, the industry of any community can move."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The predetermined adversary, on the other hand, can have been governed by no venial motive whatever."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Who would be willing to stake his life and his estate upon the verdict of a jury acting under the auspices of judges who had predetermined his guilt?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be biased.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Climate, rainfall, iron deposits, fuel, supply of wood or coal, predetermine in large measure the limits within, and the direction in which, the industry of any community can move."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The predetermined adversary, on the other hand, can have been governed by no venial motive whatever."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Who would be willing to stake his life and his estate upon the verdict of a jury acting under the auspices of judges who had predetermined his guilt?"*

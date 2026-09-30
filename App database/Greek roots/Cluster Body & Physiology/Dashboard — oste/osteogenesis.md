@@ -5,13 +5,6 @@ status: unread
 ---
 # osteogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development and formation of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hereditary disease caused by defective or deficient collagen production and marked by extreme brittleness of the long bones and a bluish color of the whites of the eyes —called also brittle bone disease, brittle bones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteogenesis designates development and formation of bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Development and formation of bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hereditary disease caused by defective or deficient collagen production and marked by extreme brittleness of the long bones and a bluish color of the whites of the eyes —called also brittle bone disease, brittle bones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteogenesis designates development and formation of bone."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # demimondaine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman whose sexual promiscuity places her outside respectable society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman whose sexual promiscuity places her outside respectable society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Angels much prostitutes like and holy apostles big damn ruffians. _Demimondaines_ nicely handsome sparkling of diamonds very amiable costumed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman whose sexual promiscuity places her outside respectable society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman whose sexual promiscuity places her outside respectable society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Angels much prostitutes like and holy apostles big damn ruffians. _Demimondaines_ nicely handsome sparkling of diamonds very amiable costumed."*

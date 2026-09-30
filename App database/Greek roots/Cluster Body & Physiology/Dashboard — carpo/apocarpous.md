@@ -5,13 +5,6 @@ status: unread
 ---
 # apocarpous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocarpous designates (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocarpous designates (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unveiled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the veil from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make visible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The consequence was, that when the moon, which was full and bright (for the night was fine), came in her course to that space in the sky opposite my casement, and looked in at me through the unveiled panes, her glorious gaze roused me."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have been taught to tremble at the terrific visages of murdering janizaries, and to blush at the unveiled mysteries of a future seraglio."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In a speech on January 14, 2004 the President of the United States of America unveiled a new vision for space exploration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the veil from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make visible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The consequence was, that when the moon, which was full and bright (for the night was fine), came in her course to that space in the sky opposite my casement, and looked in at me through the unveiled panes, her glorious gaze roused me."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have been taught to tremble at the terrific visages of murdering janizaries, and to blush at the unveiled mysteries of a future seraglio."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In a speech on January 14, 2004 the President of the United States of America unveiled a new vision for space exploration."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hellenistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the classical greek civilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the classical greek civilization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There is the region of Asia Minor and Greece,--where the church is Hellenistic in every sense of the word, very Greek upon the surface and less Greek underneath, again with marked contrasts due to geography and race-distribution."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And, further, at the difficult moment of transition, when Christian ideas passed from the Jewish to the Gentile world, there were Jews of the Hellenistic type ready to mediate the change."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A Jew, a native of a Hellenistic city--and "no mean one"[47]--a citizen of the Roman Empire, a man of wide outlooks, with a gift for experience, he passed from {155} Pharisaism to Christ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the classical greek civilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the classical greek civilization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There is the region of Asia Minor and Greece,--where the church is Hellenistic in every sense of the word, very Greek upon the surface and less Greek underneath, again with marked contrasts due to geography and race-distribution."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And, further, at the difficult moment of transition, when Christian ideas passed from the Jewish to the Gentile world, there were Jews of the Hellenistic type ready to mediate the change."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A Jew, a native of a Hellenistic city--and "no mean one"[47]--a citizen of the Roman Empire, a man of wide outlooks, with a gift for experience, he passed from {155} Pharisaism to Christ."*

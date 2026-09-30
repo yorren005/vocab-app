@@ -5,13 +5,6 @@ status: unread
 ---
 # ductileness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ductileness designates the malleability of something that can be drawn into threads or wires or hammered into thin sheets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ductileness designates the malleability of something that can be drawn into threads or wires or hammered into thin sheets."*

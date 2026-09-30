@@ -5,15 +5,6 @@ status: unread
 ---
 # detestably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensive and hateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an offensive and hateful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I suppose you don’t mean in health?” “No, as to that he’s detestably sound."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"A detestably unhappy walk, sir."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I spat out, and affirmed it tasted detestably—I would not take it on any account."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensive and hateful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an offensive and hateful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I suppose you don’t mean in health?” “No, as to that he’s detestably sound."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"A detestably unhappy walk, sir."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I spat out, and affirmed it tasted detestably—I would not take it on any account."*

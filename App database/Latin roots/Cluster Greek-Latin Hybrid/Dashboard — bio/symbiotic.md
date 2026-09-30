@@ -5,13 +5,6 @@ status: unread
 ---
 # symbiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiotic designates used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiotic designates used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each."*

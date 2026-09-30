@@ -5,13 +5,6 @@ status: unread
 ---
 # appressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appressed designates pressed close to or lying flat against something; ; -l.v.pirsson."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appressed designates pressed close to or lying flat against something; ; -l.v.pirsson."*

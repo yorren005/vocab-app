@@ -5,13 +5,6 @@ status: unread
 ---
 # justificative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to justify or defend in speech or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing justification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, justificative designates attempting to justify or defend in speech or writing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to justify or defend in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing justification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, justificative designates attempting to justify or defend in speech or writing."*

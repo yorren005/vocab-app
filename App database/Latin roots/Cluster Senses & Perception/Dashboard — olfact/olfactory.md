@@ -5,15 +5,6 @@ status: unread
 ---
 # olfactory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to olfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to olfaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"They felt our skin, much in the same way that a silk mercer would handle a remarkably fine piece of satin; and some of them went so far in their investigation as to apply the olfactory organ."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They produce a rose through seed and soil, and bring the rose into contact with the olfactory nerves that they may smell it."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The olfactory nerve enters the cavity of the orbit and is developed into the special sense of hearing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to olfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to olfaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"They felt our skin, much in the same way that a silk mercer would handle a remarkably fine piece of satin; and some of them went so far in their investigation as to apply the olfactory organ."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They produce a rose through seed and soil, and bring the rose into contact with the olfactory nerves that they may smell it."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The olfactory nerve enters the cavity of the orbit and is developed into the special sense of hearing."*

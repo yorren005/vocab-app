@@ -5,15 +5,6 @@ status: unread
 ---
 # rotated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange on a regular basis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Climbing in and closing up, he stepped under a helmet rack, drew it down, rotated mating surfaces, closed and locked the seals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The well is closed with a plug as thick as the armor, and it's rotated into place."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This apparatus consists of a horizontal wheel which can be rotated slowly, carrying a series of arms at the end of which the moulds are supported, so that they form a broken ring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange on a regular basis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Climbing in and closing up, he stepped under a helmet rack, drew it down, rotated mating surfaces, closed and locked the seals."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The well is closed with a plug as thick as the armor, and it's rotated into place."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This apparatus consists of a horizontal wheel which can be rotated slowly, carrying a series of arms at the end of which the moulds are supported, so that they form a broken ring."*

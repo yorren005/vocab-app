@@ -5,13 +5,6 @@ status: unread
 ---
 # mobulidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large rays lacking venomous spines: mantas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large rays lacking venomous spines: mantas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobulidae designates large rays lacking venomous spines: mantas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large rays lacking venomous spines: mantas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large rays lacking venomous spines: mantas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobulidae designates large rays lacking venomous spines: mantas."*

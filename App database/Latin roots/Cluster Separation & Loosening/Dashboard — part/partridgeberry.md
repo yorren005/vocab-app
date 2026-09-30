@@ -5,13 +5,6 @@ status: unread
 ---
 # partridgeberry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creeping woody plant of eastern north america with shiny evergreen leaves and scarlet berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creeping woody plant of eastern north america with shiny evergreen leaves and scarlet berries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, partridgeberry designates creeping woody plant of eastern north america with shiny evergreen leaves and scarlet berries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creeping woody plant of eastern north america with shiny evergreen leaves and scarlet berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creeping woody plant of eastern north america with shiny evergreen leaves and scarlet berries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, partridgeberry designates creeping woody plant of eastern north america with shiny evergreen leaves and scarlet berries."*

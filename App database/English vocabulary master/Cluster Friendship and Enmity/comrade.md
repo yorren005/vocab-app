@@ -5,20 +5,6 @@ status: unread
 ---
 # comrade
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Communist
-> 2. **Nuance / Usage**: Fellow soldier
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"gentlemen, this is an old comrade of mine, Matthew Bagnet."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Billie, fellow, comrade, brother."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Another Ismail comrade,” said he."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A loyal companion who shares one's activities, hardships, or fortunes, especially a fellow soldier in arms.
+> 2. **Nuance / Usage**: Also used as a title or form of address among socialists, trade unionists, and revolutionaries to signify egalitarian solidarity.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Gentlemen, this is an old **comrade** of mine, Matthew Bagnet."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Camerado, I give you my hand! I give you my love more precious than money, as a **comrade** on the open road."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"He greeted him warmly as another Ismail **comrade** from the old campaign."*

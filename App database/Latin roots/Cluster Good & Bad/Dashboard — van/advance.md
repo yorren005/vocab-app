@@ -5,15 +5,6 @@ status: unread
 ---
 # advance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change for the better; progress in development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see if other watchmen Do hear what we do. [_They advance to another post._] SECOND SOLDIER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They fear us not but issue forth their city.— Now put your shields before your hearts, and fight With hearts more proof than shields.—Advance, brave Titus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change for the better; progress in development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see if other watchmen Do hear what we do. [_They advance to another post._] SECOND SOLDIER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They fear us not but issue forth their city.— Now put your shields before your hearts, and fight With hearts more proof than shields.—Advance, brave Titus."*

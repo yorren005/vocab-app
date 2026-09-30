@@ -5,13 +5,6 @@ status: unread
 ---
 # azoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no living beings; especially : of or relating to the part of geologic time that antedates life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no living beings; especially : of or relating to the part of geologic time that antedates life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"They were transported, perhaps, from the Azoic area near Lake Superior."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no living beings; especially : of or relating to the part of geologic time that antedates life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no living beings; especially : of or relating to the part of geologic time that antedates life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"They were transported, perhaps, from the Azoic area near Lake Superior."*

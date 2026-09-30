@@ -5,13 +5,6 @@ status: unread
 ---
 # mortice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A square hole made to receive a tenon and so to form a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a hole for a tenon in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mortice designates a square hole made to receive a tenon and so to form a joint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A square hole made to receive a tenon and so to form a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a hole for a tenon in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mortice designates a square hole made to receive a tenon and so to form a joint."*

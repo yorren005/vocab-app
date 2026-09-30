@@ -5,13 +5,6 @@ status: unread
 ---
 # unretentive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of memory) deficient in retentiveness or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of memory) deficient in retentiveness or range.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unretentive designates (of memory) deficient in retentiveness or range."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of memory) deficient in retentiveness or range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of memory) deficient in retentiveness or range.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unretentive designates (of memory) deficient in retentiveness or range."*

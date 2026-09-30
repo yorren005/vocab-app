@@ -5,13 +5,6 @@ status: unread
 ---
 # dendrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching treelike figure produced on or in a mineral by a foreign mineral; also : the mineral so marked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystallized arborescent form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrite designates a branching treelike figure produced on or in a mineral by a foreign mineral; also : the mineral so marked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching treelike figure produced on or in a mineral by a foreign mineral; also : the mineral so marked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystallized arborescent form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrite designates a branching treelike figure produced on or in a mineral by a foreign mineral; also : the mineral so marked."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # appropriate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give or assign a resource to a particular person or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take possession of by force, as after an invasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The raw afternoon is rawest, and the dense fog is densest, and the muddy streets are muddiest near that leaden-headed old obstruction, appropriate ornament for the threshold of a leaden-headed old corporation, Temple Bar."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Over the barton-gate the dairyman saw them, and came forward, throwing into his face the kind of jocularity deemed appropriate in Talbothays and its vicinity on the re-appearance of the newly-married."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give or assign a resource to a particular person or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take possession of by force, as after an invasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The raw afternoon is rawest, and the dense fog is densest, and the muddy streets are muddiest near that leaden-headed old obstruction, appropriate ornament for the threshold of a leaden-headed old corporation, Temple Bar."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Over the barton-gate the dairyman saw them, and came forward, throwing into his face the kind of jocularity deemed appropriate in Talbothays and its vicinity on the re-appearance of the newly-married."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # enervating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air of the place, so fresh in the spring and early summer, was stagnant and enervating now."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The three o’clock sun shone full upon him, and the strange enervating conviction that her seducer confronted her, which had been gaining ground in Tess ever since she had heard his words distinctly, was at last established as a fact indeed."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He knew that the enervating climate of the Southern river city would never do for his wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air of the place, so fresh in the spring and early summer, was stagnant and enervating now."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The three o’clock sun shone full upon him, and the strange enervating conviction that her seducer confronted her, which had been gaining ground in Tess ever since she had heard his words distinctly, was at last established as a fact indeed."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He knew that the enervating climate of the Southern river city would never do for his wife."*

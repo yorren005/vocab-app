@@ -5,15 +5,6 @@ status: unread
 ---
 # incorruption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by integrity or probity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by integrity or probity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now that the incorruption of this most fragrant ambergris should be found in the heart of such decay; is this nothing?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Paul in Corinthians, about corruption and incorruption; how that we are sown in dishonor, but raised in glory."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now that the incorruption of this most fragrant ambergris should be found in the heart of such decay; is this nothing?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by integrity or probity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by integrity or probity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now that the incorruption of this most fragrant ambergris should be found in the heart of such decay; is this nothing?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Paul in Corinthians, about corruption and incorruption; how that we are sown in dishonor, but raised in glory."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now that the incorruption of this most fragrant ambergris should be found in the heart of such decay; is this nothing?"*

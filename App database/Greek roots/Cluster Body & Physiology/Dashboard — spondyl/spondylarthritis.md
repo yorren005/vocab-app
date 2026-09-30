@@ -5,13 +5,6 @@ status: unread
 ---
 # spondylarthritis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arthritis that affects one or more of the intervertebral joints in the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arthritis that affects one or more of the intervertebral joints in the spine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylarthritis designates arthritis that affects one or more of the intervertebral joints in the spine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arthritis that affects one or more of the intervertebral joints in the spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arthritis that affects one or more of the intervertebral joints in the spine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylarthritis designates arthritis that affects one or more of the intervertebral joints in the spine."*

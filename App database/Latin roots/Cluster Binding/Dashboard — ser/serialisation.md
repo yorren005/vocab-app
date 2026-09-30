@@ -5,13 +5,6 @@ status: unread
 ---
 # serialisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Publication in serial form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Publication in serial form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serialisation designates publication in serial form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Publication in serial form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Publication in serial form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serialisation designates publication in serial form."*

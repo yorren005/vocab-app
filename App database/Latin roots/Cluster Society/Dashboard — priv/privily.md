@@ -5,15 +5,6 @@ status: unread
 ---
 # privily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confidentially or in secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confidentially or in secret.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou, Richard, shalt to the Duke of Norfolk And tell him privily of our intent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He privily Deals with our Cardinal, and, as I trow— Which I do well, for I am sure the Emperor Paid ere he promised, whereby his suit was granted Ere it was asked."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will look him, and privily relieve him: go you and maintain talk with the Duke, that my charity be not of him perceived: if he ask for me, I am ill, and gone to bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confidentially or in secret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confidentially or in secret.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou, Richard, shalt to the Duke of Norfolk And tell him privily of our intent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He privily Deals with our Cardinal, and, as I trow— Which I do well, for I am sure the Emperor Paid ere he promised, whereby his suit was granted Ere it was asked."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will look him, and privily relieve him: go you and maintain talk with the Duke, that my charity be not of him perceived: if he ask for me, I am ill, and gone to bed."*

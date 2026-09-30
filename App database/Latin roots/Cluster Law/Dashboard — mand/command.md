@@ -5,15 +5,6 @@ status: unread
 ---
 # command
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative direction or instruction to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military unit or region under the control of a single officer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll be gone, sir knave, and do as I command you!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That man should be at woman’s command, and yet no hurt done!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative direction or instruction to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military unit or region under the control of a single officer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll be gone, sir knave, and do as I command you!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That man should be at woman’s command, and yet no hurt done!"*

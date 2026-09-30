@@ -5,13 +5,6 @@ status: unread
 ---
 # counterrevolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolution whose aim is to reverse the changes introduced by a previous revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revolution whose aim is to reverse the changes introduced by a previous revolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterrevolution designates a revolution whose aim is to reverse the changes introduced by a previous revolution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolution whose aim is to reverse the changes introduced by a previous revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revolution whose aim is to reverse the changes introduced by a previous revolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterrevolution designates a revolution whose aim is to reverse the changes introduced by a previous revolution."*

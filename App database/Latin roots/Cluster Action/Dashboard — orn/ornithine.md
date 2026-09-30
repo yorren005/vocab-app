@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is important in the formation of urea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is important in the formation of urea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithine designates an amino acid that does not occur in proteins but is important in the formation of urea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is important in the formation of urea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is important in the formation of urea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithine designates an amino acid that does not occur in proteins but is important in the formation of urea."*

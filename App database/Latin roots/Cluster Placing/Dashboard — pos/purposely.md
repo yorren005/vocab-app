@@ -5,15 +5,6 @@ status: unread
 ---
 # purposely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, good my lord; for purposely therefore Left I the court to see this quarrel tried."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy knife, I will insult on him, Flattering myself as if it were the Moor Come hither purposely to poison me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard of some kind of men that put quarrels purposely on others to taste their valour: belike this is a man of that quirk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, good my lord; for purposely therefore Left I the court to see this quarrel tried."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy knife, I will insult on him, Flattering myself as if it were the Moor Come hither purposely to poison me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard of some kind of men that put quarrels purposely on others to taste their valour: belike this is a man of that quirk."*

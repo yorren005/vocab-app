@@ -5,13 +5,6 @@ status: unread
 ---
 # permalloy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An 80/20 alloy of nickel and iron; easily magnetized and demagnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An 80/20 alloy of nickel and iron; easily magnetized and demagnetized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But what I've got here is a piece of permalloy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An 80/20 alloy of nickel and iron; easily magnetized and demagnetized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An 80/20 alloy of nickel and iron; easily magnetized and demagnetized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But what I've got here is a piece of permalloy."*

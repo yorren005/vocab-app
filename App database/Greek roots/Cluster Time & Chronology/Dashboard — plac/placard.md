@@ -5,15 +5,6 @@ status: unread
 ---
 # placard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Post in a public place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In going hither and thither he observed in the outskirts of a small town a red-and-blue placard setting forth the great advantages of the Empire of Brazil as a field for the emigrating agriculturist."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Looking towards the great door of the Cathedral, as they all were doing, it suddenly seemed to me that I saw an illuminated placard attached to it, headed with the word '_Sommation_' in gigantic letters."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Thus from moment to moment there appeared before us, in letters that seemed to blaze and flicker, something that looked like a great official placard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Post in a public place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In going hither and thither he observed in the outskirts of a small town a red-and-blue placard setting forth the great advantages of the Empire of Brazil as a field for the emigrating agriculturist."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Looking towards the great door of the Cathedral, as they all were doing, it suddenly seemed to me that I saw an illuminated placard attached to it, headed with the word '_Sommation_' in gigantic letters."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Thus from moment to moment there appeared before us, in letters that seemed to blaze and flicker, something that looked like a great official placard."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preventive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that prevents or slows the course of an illness or disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any obstruction that impedes or is burdensome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A similar preventive is employed for the same purpose by North American Indians and European peasants."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In some districts they crown or gird themselves with mugwort while the midsummer fire is burning, for this is supposed to be a protection against ghosts, witches, and sickness; in particular, a wreath of mugwort is a sure preventive of sore eyes."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Department of Health and Human Services, which the Air Force has implemented to organize and guide the preventive medicine efforts of medical providers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that prevents or slows the course of an illness or disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any obstruction that impedes or is burdensome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A similar preventive is employed for the same purpose by North American Indians and European peasants."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In some districts they crown or gird themselves with mugwort while the midsummer fire is burning, for this is supposed to be a protection against ghosts, witches, and sickness; in particular, a wreath of mugwort is a sure preventive of sore eyes."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Department of Health and Human Services, which the Air Force has implemented to organize and guide the preventive medicine efforts of medical providers."*

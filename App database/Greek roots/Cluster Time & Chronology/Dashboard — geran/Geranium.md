@@ -5,15 +5,6 @@ status: unread
 ---
 # geranium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the family geraniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous plants of the family geraniaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nay, the acute observer might have recognized the little red nose of good-natured Miss Jemima Pinkerton herself, rising over some geranium pots in the window of that lady's own drawing-room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the family geraniaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous plants of the family geraniaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nay, the acute observer might have recognized the little red nose of good-natured Miss Jemima Pinkerton herself, rising over some geranium pots in the window of that lady's own drawing-room."*

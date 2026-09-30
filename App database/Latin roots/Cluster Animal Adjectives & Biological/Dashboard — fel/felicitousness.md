@@ -5,13 +5,6 @@ status: unread
 ---
 # felicitousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing and appropriate manner or style (especially manner or style of expression).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing and appropriate manner or style (especially manner or style of expression).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felicitousness designates pleasing and appropriate manner or style (especially manner or style of expression)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing and appropriate manner or style (especially manner or style of expression).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing and appropriate manner or style (especially manner or style of expression).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felicitousness designates pleasing and appropriate manner or style (especially manner or style of expression)."*

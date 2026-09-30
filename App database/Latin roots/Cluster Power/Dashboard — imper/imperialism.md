@@ -5,13 +5,6 @@ status: unread
 ---
 # imperialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of extending your rule over foreign countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political orientation that advocates imperial interests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Here I am discussing "The Dangers of Imperialism" and "The Anglo-American Friendship," while men are starving for the Bread of Life!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of extending your rule over foreign countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political orientation that advocates imperial interests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Here I am discussing "The Dangers of Imperialism" and "The Anglo-American Friendship," while men are starving for the Bread of Life!"*

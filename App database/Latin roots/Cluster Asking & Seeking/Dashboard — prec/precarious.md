@@ -5,15 +5,6 @@ status: unread
 ---
 # precarious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording no ease or reassurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had perceived that the horse was not the spirited one he sometimes rose, and felt no alarm on that score, though her seat was precarious enough despite her tight hold of him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Self-solicitude was near extinction in her, and in the knowledge that he had planned to depart on the morrow, possibly for always, she lay in his arms in this precarious position with a sense rather of luxury than of terror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording no ease or reassurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had perceived that the horse was not the spirited one he sometimes rose, and felt no alarm on that score, though her seat was precarious enough despite her tight hold of him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Self-solicitude was near extinction in her, and in the knowledge that he had planned to depart on the morrow, possibly for always, she lay in his arms in this precarious position with a sense rather of luxury than of terror."*

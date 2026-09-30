@@ -5,13 +5,6 @@ status: unread
 ---
 # acyclic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic; especially having parts arranged in spirals rather than whorls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an open chain structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acyclic designates not cyclic; especially having parts arranged in spirals rather than whorls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic; especially having parts arranged in spirals rather than whorls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an open chain structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acyclic designates not cyclic; especially having parts arranged in spirals rather than whorls."*

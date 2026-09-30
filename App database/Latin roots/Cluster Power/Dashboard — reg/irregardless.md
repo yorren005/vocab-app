@@ -5,13 +5,6 @@ status: unread
 ---
 # irregardless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regardless; a combination of irrespective and regardless sometimes used humorously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regardless; a combination of irrespective and regardless sometimes used humorously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irregardless designates regardless; a combination of irrespective and regardless sometimes used humorously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regardless; a combination of irrespective and regardless sometimes used humorously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regardless; a combination of irrespective and regardless sometimes used humorously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irregardless designates regardless; a combination of irrespective and regardless sometimes used humorously."*

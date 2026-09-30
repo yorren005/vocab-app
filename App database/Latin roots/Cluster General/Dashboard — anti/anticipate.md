@@ -5,15 +5,6 @@ status: unread
 ---
 # anticipate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in advance of; deal with ahead of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What can you anticipate when they’re so handsome as that?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I shall not be permitted to put my head under the blankets for fear I may anticipate the State by choking myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in advance of; deal with ahead of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What can you anticipate when they’re so handsome as that?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I shall not be permitted to put my head under the blankets for fear I may anticipate the State by choking myself."*

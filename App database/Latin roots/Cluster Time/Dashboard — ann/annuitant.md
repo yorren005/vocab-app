@@ -5,13 +5,6 @@ status: unread
 ---
 # annuitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of an annuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recipient of an annuity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annuitant designates the recipient of an annuity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of an annuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recipient of an annuity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annuitant designates the recipient of an annuity."*

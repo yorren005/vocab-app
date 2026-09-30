@@ -5,13 +5,6 @@ status: unread
 ---
 # tangier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city of northern morocco at the west end of the strait of gibraltar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasting sour like a lemon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Y.’S filed before him, tallwhitehatted, past Tangier lane, plodding towards their goal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city of northern morocco at the west end of the strait of gibraltar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasting sour like a lemon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Y.’S filed before him, tallwhitehatted, past Tangier lane, plodding towards their goal."*

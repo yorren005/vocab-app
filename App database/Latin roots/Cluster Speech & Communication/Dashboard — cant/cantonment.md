@@ -5,14 +5,6 @@ status: unread
 ---
 # cantonment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary living quarters specially built by the army for soldiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary living quarters specially built by the army for soldiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her Ladyship, our old acquaintance, is as much at home at Madras as at Brussels in the cantonment as under the tents."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The whole cantonment saw them set out and return."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary living quarters specially built by the army for soldiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary living quarters specially built by the army for soldiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her Ladyship, our old acquaintance, is as much at home at Madras as at Brussels in the cantonment as under the tents."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The whole cantonment saw them set out and return."*

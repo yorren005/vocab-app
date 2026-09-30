@@ -5,13 +5,6 @@ status: unread
 ---
 # carbuncled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with or resembling a carbuncle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set with carbuncles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He has deserved it, were it carbuncled Like holy Phœbus’ car."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with or resembling a carbuncle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set with carbuncles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He has deserved it, were it carbuncled Like holy Phœbus’ car."*

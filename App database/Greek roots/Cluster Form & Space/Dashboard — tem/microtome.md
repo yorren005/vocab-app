@@ -5,13 +5,6 @@ status: unread
 ---
 # microtome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtome designates an instrument for cutting sections (as of biological tissues) for microscopic examination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtome designates an instrument for cutting sections (as of biological tissues) for microscopic examination."*

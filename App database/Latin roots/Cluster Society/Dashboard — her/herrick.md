@@ -5,15 +5,6 @@ status: unread
 ---
 # herrick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English lyric poet (1591-1674).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English lyric poet (1591-1674).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Part must be kept, wherewith to teend The Christmas log next yeare; And where 'tis safely kept, the fiend Can do no mischiefe there_" See _The Works of Robert Herrick_ (Edinburgh, 1823), vol. ii. pp. 91, 124."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick, also, in his “Dirge of Jephtha,” pours forth a fragrant flow of poetical thought and image, which in a manner embalms the dead in the recollections of the living."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English lyric poet (1591-1674).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English lyric poet (1591-1674).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Part must be kept, wherewith to teend The Christmas log next yeare; And where 'tis safely kept, the fiend Can do no mischiefe there_" See _The Works of Robert Herrick_ (Edinburgh, 1823), vol. ii. pp. 91, 124."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick, also, in his “Dirge of Jephtha,” pours forth a fragrant flow of poetical thought and image, which in a manner embalms the dead in the recollections of the living."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*

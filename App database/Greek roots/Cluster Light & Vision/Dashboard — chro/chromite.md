@@ -5,13 +5,6 @@ status: unread
 ---
 # chromite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish-black mineral; the major source of chromium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish-black mineral; the major source of chromium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is not an uncommon practice to thicken the walls close to the tap-holes, where they are subjected to most wear, and often chromite is used at these points owing to its power of withstanding the forces of erosion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish-black mineral; the major source of chromium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish-black mineral; the major source of chromium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is not an uncommon practice to thicken the walls close to the tap-holes, where they are subjected to most wear, and often chromite is used at these points owing to its power of withstanding the forces of erosion."*

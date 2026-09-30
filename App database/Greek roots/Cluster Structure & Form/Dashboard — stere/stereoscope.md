@@ -5,13 +5,6 @@ status: unread
 ---
 # stereoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Falls back suddenly, frozen in stereoscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Falls back suddenly, frozen in stereoscope."*

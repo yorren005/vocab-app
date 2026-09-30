@@ -5,13 +5,6 @@ status: unread
 ---
 # mnemonist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the use of mnemonics; someone able to perform unusual feats of memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the use of mnemonics; someone able to perform unusual feats of memory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mnemonist designates an expert in the use of mnemonics; someone able to perform unusual feats of memory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the use of mnemonics; someone able to perform unusual feats of memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the use of mnemonics; someone able to perform unusual feats of memory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mnemonist designates an expert in the use of mnemonics; someone able to perform unusual feats of memory."*

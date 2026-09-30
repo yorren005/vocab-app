@@ -5,15 +5,6 @@ status: unread
 ---
 # illegible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of handwriting, print, etc.) not legible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of handwriting, print, etc.) not legible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, Graham, bright, witty, versatile, the most notorious of punsters and the most illegible of writers, was his chief intimate, and their friendship continued unbroken and close for half a century."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon should think her handwriting bad and illegible."*
-> - 📜 **Effie Afton (*Eventide*):** *"They have been indicated as [illegible]."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of handwriting, print, etc.) not legible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of handwriting, print, etc.) not legible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, Graham, bright, witty, versatile, the most notorious of punsters and the most illegible of writers, was his chief intimate, and their friendship continued unbroken and close for half a century."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon should think her handwriting bad and illegible."*
+> - 📜 **Effie Afton (*Eventide*):** *"They have been indicated as [illegible]."*

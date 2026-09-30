@@ -5,15 +5,6 @@ status: unread
 ---
 # subjectively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subjective way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subjective way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of love as a spectacle Bathsheba had a fair knowledge; but of love subjectively she knew nothing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of love as a spectacle Bathsheba had a fair knowledge; but of love subjectively she knew nothing."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He was, in fact, commanding destiny--subjectively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subjective way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subjective way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of love as a spectacle Bathsheba had a fair knowledge; but of love subjectively she knew nothing."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of love as a spectacle Bathsheba had a fair knowledge; but of love subjectively she knew nothing."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He was, in fact, commanding destiny--subjectively."*

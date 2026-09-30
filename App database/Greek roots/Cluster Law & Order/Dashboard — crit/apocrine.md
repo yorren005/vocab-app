@@ -5,13 +5,6 @@ status: unread
 ---
 # apocrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a fluid secretion by pinching off one end of the secretory cell while leaving the rest intact; also : produced by an apocrine gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gland and especially a sweat gland that secretes a viscous fluid into a hair follicle (as in the armpit or groin), is lined with a single layer of usually columnar cells, and typically does not become active until puberty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocrine designates producing a fluid secretion by pinching off one end of the secretory cell while leaving the rest intact; also : produced by an apocrine gland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a fluid secretion by pinching off one end of the secretory cell while leaving the rest intact; also : produced by an apocrine gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gland and especially a sweat gland that secretes a viscous fluid into a hair follicle (as in the armpit or groin), is lined with a single layer of usually columnar cells, and typically does not become active until puberty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocrine designates producing a fluid secretion by pinching off one end of the secretory cell while leaving the rest intact; also : produced by an apocrine gland."*

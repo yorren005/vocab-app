@@ -5,13 +5,6 @@ status: unread
 ---
 # extracurricular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside the regular academic curriculum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside the regular duties of your job or profession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extracurricular designates outside the regular academic curriculum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside the regular academic curriculum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside the regular duties of your job or profession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extracurricular designates outside the regular academic curriculum."*

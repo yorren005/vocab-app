@@ -5,13 +5,6 @@ status: unread
 ---
 # comity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or atmosphere of harmony or mutual civility and respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state or atmosphere of harmony or mutual civility and respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this end there should be interstate comity and coöperation, so that the insured could at any time transfer his actuarial equity from one state to another. § 17. #The contributory principle#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or atmosphere of harmony or mutual civility and respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state or atmosphere of harmony or mutual civility and respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this end there should be interstate comity and coöperation, so that the insured could at any time transfer his actuarial equity from one state to another. § 17. #The contributory principle#."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # relationship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of connectedness between people (especially an emotional connection).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"From my Lord Boodle, through the Duke of Foodle, down to Noodle, Sir Leicester, like a glorious spider, stretches his threads of relationship."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s confirmation, even if she could see the mother and the son together, knowing what she knows, and doubt their relationship."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He looked completely astonished, but not more astonished than pleased; his eyes brightened! and with the most perfect alacrity he welcomed the relationship, alluded to the past, and entreated to be received as an acquaintance already."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of connectedness between people (especially an emotional connection).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"From my Lord Boodle, through the Duke of Foodle, down to Noodle, Sir Leicester, like a glorious spider, stretches his threads of relationship."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s confirmation, even if she could see the mother and the son together, knowing what she knows, and doubt their relationship."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He looked completely astonished, but not more astonished than pleased; his eyes brightened! and with the most perfect alacrity he welcomed the relationship, alluded to the past, and entreated to be received as an acquaintance already."*

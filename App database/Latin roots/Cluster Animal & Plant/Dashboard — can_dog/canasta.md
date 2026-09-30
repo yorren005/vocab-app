@@ -5,13 +5,6 @@ status: unread
 ---
 # canasta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canasta designates a form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canasta designates a form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # chronology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that deals with measuring time by regular divisions and that assigns to events their proper dates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronological table, list, or account.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His very name carried an impressiveness hardly to be measured without a precise chronology of scholarship."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Oh waywardness of womanhood! did his chronology fail him, or his ability to state not only a theory but the names of those who held it; or his provision for giving the heads of any subject on demand?"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Context, chronology, and USAF aircraft types operating in the Korean Theater at the time are to the best of my recollections and references available from public libraries and the Internet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that deals with measuring time by regular divisions and that assigns to events their proper dates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronological table, list, or account.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"His very name carried an impressiveness hardly to be measured without a precise chronology of scholarship."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Oh waywardness of womanhood! did his chronology fail him, or his ability to state not only a theory but the names of those who held it; or his provision for giving the heads of any subject on demand?"*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Context, chronology, and USAF aircraft types operating in the Korean Theater at the time are to the best of my recollections and references available from public libraries and the Internet."*

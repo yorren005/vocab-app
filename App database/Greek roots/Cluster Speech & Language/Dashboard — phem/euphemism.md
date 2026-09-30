@@ -5,13 +5,6 @@ status: unread
 ---
 # euphemism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The sagas and myths of the people of New Britain deal mostly with obscene matters, although every piece of obscenity is carefully covered up, and is described in euphemisms and circumlocutions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The sagas and myths of the people of New Britain deal mostly with obscene matters, although every piece of obscenity is carefully covered up, and is described in euphemisms and circumlocutions."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # cadaver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead body of a human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dead body of a human being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Organic waste and cadaver parts unsuitable for constructive purposes (fertilizer) on Charon will be fully sterilized and reduced as close as practicable to zero residue."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"SUNSET BURIAL The trees upheaven filigrane fingers of desire To touch a ruby-throated cloud-face fanned By a bronze breath and globous mouth of fire; Beneath, the rigid gravestones stand, Each one a cadaver that cannot close its hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead body of a human being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dead body of a human being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Organic waste and cadaver parts unsuitable for constructive purposes (fertilizer) on Charon will be fully sterilized and reduced as close as practicable to zero residue."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"SUNSET BURIAL The trees upheaven filigrane fingers of desire To touch a ruby-throated cloud-face fanned By a bronze breath and globous mouth of fire; Beneath, the rigid gravestones stand, Each one a cadaver that cannot close its hand."*

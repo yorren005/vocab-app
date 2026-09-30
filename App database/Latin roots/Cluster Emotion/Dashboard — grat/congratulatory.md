@@ -5,15 +5,6 @@ status: unread
 ---
 # congratulatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The congratulatory letter which Elizabeth received from Lydia on her marriage explained to her that, by his wife at least, if not by himself, such a hope was cherished."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Openly enthusiastic and congratulatory to ships' crews on what he observed, Brad was inwardly appalled at the strength of Narval's fleet."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Best wishes for the future welfare of the Faith of Bahá'u'lláh conveyed in writing by the newly elected head of the state in reply to congratulatory message addressed him upon assumption of his office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The congratulatory letter which Elizabeth received from Lydia on her marriage explained to her that, by his wife at least, if not by himself, such a hope was cherished."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Openly enthusiastic and congratulatory to ships' crews on what he observed, Brad was inwardly appalled at the strength of Narval's fleet."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Best wishes for the future welfare of the Faith of Bahá'u'lláh conveyed in writing by the newly elected head of the state in reply to congratulatory message addressed him upon assumption of his office."*

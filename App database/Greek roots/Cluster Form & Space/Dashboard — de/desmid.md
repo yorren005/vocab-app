@@ -5,13 +5,6 @@ status: unread
 ---
 # desmid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous unicellular or colonial green algae (order Zygnematales, especially family Desmidiaceae).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous unicellular or colonial green algae (order Zygnematales, especially family Desmidiaceae).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmid designates any of numerous unicellular or colonial green algae (order zygnematales, especially family desmidiaceae)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous unicellular or colonial green algae (order Zygnematales, especially family Desmidiaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous unicellular or colonial green algae (order Zygnematales, especially family Desmidiaceae).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmid designates any of numerous unicellular or colonial green algae (order zygnematales, especially family desmidiaceae)."*

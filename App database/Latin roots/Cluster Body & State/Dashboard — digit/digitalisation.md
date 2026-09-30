@@ -5,13 +5,6 @@ status: unread
 ---
 # digitalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of digitalis for the treatment of certain heart disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of digitalis for the treatment of certain heart disorders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitalisation designates the administration of digitalis for the treatment of certain heart disorders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of digitalis for the treatment of certain heart disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of digitalis for the treatment of certain heart disorders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitalisation designates the administration of digitalis for the treatment of certain heart disorders."*

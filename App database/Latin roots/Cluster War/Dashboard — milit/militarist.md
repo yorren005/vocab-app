@@ -5,13 +5,6 @@ status: unread
 ---
 # militarist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates war or warlike policies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who advocates war or warlike policies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my lord; this is Monsieur Parolles, the gallant militarist (that was his own phrase), that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates war or warlike policies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who advocates war or warlike policies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my lord; this is Monsieur Parolles, the gallant militarist (that was his own phrase), that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger."*

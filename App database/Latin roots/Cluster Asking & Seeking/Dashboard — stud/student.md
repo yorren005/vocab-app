@@ -5,15 +5,6 @@ status: unread
 ---
 # student
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A learner who is enrolled in an educational institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee do not mock me, fellow-student."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Keep a gamester from the dice, and a good student from his book, and it is wonderful."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not tall enough to become the function well, nor lean enough to be thought a good student, but to be said, an honest man and a good housekeeper goes as fairly as to say, a careful man and a great scholar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A learner who is enrolled in an educational institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee do not mock me, fellow-student."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Keep a gamester from the dice, and a good student from his book, and it is wonderful."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not tall enough to become the function well, nor lean enough to be thought a good student, but to be said, an honest man and a good housekeeper goes as fairly as to say, a careful man and a great scholar."*

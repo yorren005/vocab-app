@@ -5,15 +5,6 @@ status: unread
 ---
 # insulting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat, mention, or speak to rudely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing extreme contempt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it were so, I might have let alone The insulting hand of Douglas over you, Which would have been as speedy in your end As all the poisonous potions in the world, And saved the treacherous labour of your son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now am I like that proud insulting ship Which Caesar and his fortune bare at once."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat, mention, or speak to rudely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing extreme contempt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it were so, I might have let alone The insulting hand of Douglas over you, Which would have been as speedy in your end As all the poisonous potions in the world, And saved the treacherous labour of your son."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now am I like that proud insulting ship Which Caesar and his fortune bare at once."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*

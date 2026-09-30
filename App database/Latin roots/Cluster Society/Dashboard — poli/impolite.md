@@ -5,15 +5,6 @@ status: unread
 ---
 # impolite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not polite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not polite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"It's impolite." Papa started talking and worrying about Grandpa Thad."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Though this was impolite to Prince Vasíli in Anna Pávlovna’s drawing room, and also to Anna Pávlovna herself who had received the news with delight, he could not resist the temptation."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"You see, captain," he began (it is considered impolite among this class ever to address one without using some title), "we had the nicest little forty lot o' scouts that ever followed the plains fur a living, and trails fur an Injun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not polite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not polite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"It's impolite." Papa started talking and worrying about Grandpa Thad."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Though this was impolite to Prince Vasíli in Anna Pávlovna’s drawing room, and also to Anna Pávlovna herself who had received the news with delight, he could not resist the temptation."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"You see, captain," he began (it is considered impolite among this class ever to address one without using some title), "we had the nicest little forty lot o' scouts that ever followed the plains fur a living, and trails fur an Injun."*

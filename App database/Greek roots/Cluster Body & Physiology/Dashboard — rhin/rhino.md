@@ -5,14 +5,6 @@ status: unread
 ---
 # rhino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Massive powerful herbivorous odd-toed ungulate of southeast asia and africa having very thick skin and one or two horns on the snout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive powerful herbivorous odd-toed ungulate of southeast asia and africa having very thick skin and one or two horns on the snout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"It hung on him in folds like the brittle hide of a rhino."*
-> - 📜 **James Joyce (*Ulysses*):** *"In Mooney’s _en ville_ and in Mooney’s _sur mer._ He had received the rhino for the labour of his muse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Massive powerful herbivorous odd-toed ungulate of southeast asia and africa having very thick skin and one or two horns on the snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive powerful herbivorous odd-toed ungulate of southeast asia and africa having very thick skin and one or two horns on the snout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"It hung on him in folds like the brittle hide of a rhino."*
+> - 📜 **James Joyce (*Ulysses*):** *"In Mooney’s _en ville_ and in Mooney’s _sur mer._ He had received the rhino for the labour of his muse."*

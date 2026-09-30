@@ -5,13 +5,6 @@ status: unread
 ---
 # incinerator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A furnace for incinerating (especially to dispose of refuse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace for incinerating (especially to dispose of refuse).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incinerator designates a furnace for incinerating (especially to dispose of refuse)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A furnace for incinerating (especially to dispose of refuse).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace for incinerating (especially to dispose of refuse).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incinerator designates a furnace for incinerating (especially to dispose of refuse)."*

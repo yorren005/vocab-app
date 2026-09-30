@@ -5,15 +5,6 @@ status: unread
 ---
 # envenom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be bitter or resentful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add poison to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, this report of his Did Hamlet so envenom with his envy That he could nothing do but wish and beg Your sudden coming o’er to play with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thee there is not half an hour of life; The treacherous instrument is in thy hand, Unbated and envenom’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Envenom him with words, or get thee gone, And leave those woes alone which I alone Am bound to underbear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be bitter or resentful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add poison to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, this report of his Did Hamlet so envenom with his envy That he could nothing do but wish and beg Your sudden coming o’er to play with him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thee there is not half an hour of life; The treacherous instrument is in thy hand, Unbated and envenom’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Envenom him with words, or get thee gone, And leave those woes alone which I alone Am bound to underbear."*

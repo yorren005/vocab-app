@@ -5,15 +5,6 @@ status: unread
 ---
 # detest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike intensely; feel antipathy or aversion towards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dislike intensely; feel antipathy or aversion towards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Cleopatra died, I have lived in such dishonour that the gods Detest my baseness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll write against them, Detest them, curse them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wife, sir, whom I detest before heaven and your honour— ESCALUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike intensely; feel antipathy or aversion towards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dislike intensely; feel antipathy or aversion towards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Cleopatra died, I have lived in such dishonour that the gods Detest my baseness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll write against them, Detest them, curse them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wife, sir, whom I detest before heaven and your honour— ESCALUS."*

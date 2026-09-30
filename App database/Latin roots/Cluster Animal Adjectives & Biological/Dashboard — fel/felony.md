@@ -5,15 +5,6 @@ status: unread
 ---
 # felony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious crime (such as murder or arson).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious crime (such as murder or arson).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There shall be in England seven halfpenny loaves sold for a penny; the three-hooped pot shall have ten hoops, and I will make it felony to drink small beer."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers made not me alone intensely melancholy, because, after he was gone, Herbert said of himself, with his eyes fixed on the fire, that he thought he must have committed a felony and forgotten the details of it, he felt so dejected and guilty."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At last, me and Compeyson was both committed for felony,—on a charge of putting stolen notes in circulation,—and there was other charges behind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious crime (such as murder or arson).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious crime (such as murder or arson).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There shall be in England seven halfpenny loaves sold for a penny; the three-hooped pot shall have ten hoops, and I will make it felony to drink small beer."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers made not me alone intensely melancholy, because, after he was gone, Herbert said of himself, with his eyes fixed on the fire, that he thought he must have committed a felony and forgotten the details of it, he felt so dejected and guilty."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"At last, me and Compeyson was both committed for felony,—on a charge of putting stolen notes in circulation,—and there was other charges behind."*

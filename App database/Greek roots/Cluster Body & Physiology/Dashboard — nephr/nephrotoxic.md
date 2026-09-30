@@ -5,13 +5,6 @@ status: unread
 ---
 # nephrotoxic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxic to the kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toxic to the kidney.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotoxic designates toxic to the kidney."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxic to the kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toxic to the kidney.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotoxic designates toxic to the kidney."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # concave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving inward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when you saw his chariot but appear, Have you not made an universal shout, That Tiber trembled underneath her banks To hear the replication of your sounds Made in her concave shores?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a saucer-shaped concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving inward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when you saw his chariot but appear, Have you not made an universal shout, That Tiber trembled underneath her banks To hear the replication of your sounds Made in her concave shores?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a saucer-shaped concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*

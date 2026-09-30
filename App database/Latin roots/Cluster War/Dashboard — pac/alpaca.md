@@ -5,14 +5,6 @@ status: unread
 ---
 # alpaca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wool of the alpaca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin glossy fabric made of the wool of the lama pacos, or made of a rayon or cotton imitation of that wool.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I saw a high starched collar, white cuffs, a light alpaca jacket, snowy trousers, a clean necktie, and varnished boots."*
-> - 📜 **James Joyce (*Ulysses*):** *"The foreman turned round to hear patiently and, lifting an elbow, began to scratch slowly in the armpit of his alpaca jacket. —Like that, Mr Bloom said, crossing his forefingers at the top."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wool of the alpaca.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin glossy fabric made of the wool of the lama pacos, or made of a rayon or cotton imitation of that wool.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I saw a high starched collar, white cuffs, a light alpaca jacket, snowy trousers, a clean necktie, and varnished boots."*
+> - 📜 **James Joyce (*Ulysses*):** *"The foreman turned round to hear patiently and, lifting an elbow, began to scratch slowly in the armpit of his alpaca jacket. —Like that, Mr Bloom said, crossing his forefingers at the top."*

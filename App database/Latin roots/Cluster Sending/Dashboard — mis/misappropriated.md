@@ -5,13 +5,6 @@ status: unread
 ---
 # misappropriated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken for your own use in violation of a trust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misappropriated designates appropriate (as property entrusted to one's care) fraudulently to one's own use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken for your own use in violation of a trust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misappropriated designates appropriate (as property entrusted to one's care) fraudulently to one's own use."*

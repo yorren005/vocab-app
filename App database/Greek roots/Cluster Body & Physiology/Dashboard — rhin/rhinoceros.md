@@ -5,15 +5,6 @@ status: unread
 ---
 # rhinoceros
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Rhinocerotidae) of large heavyset herbivorous perissodactyl mammals of Africa and Asia that have one or two upright keratinous horns on the snout and thick gray to brown skin with little hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various large chiefly tropical scarab beetles (subfamily Dynastinae) having projecting horns on thorax and head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lions and tigers, and rhinoceros, and grizzly bears, and all sorts of ferocious animals!"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Their flesh, in parts, hung upon them in huge folds, like the overlapping plaits on the flank of a rhinoceros."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Still and all, the rhinoceros had armor like an old knight's, and that would surely get red-hot under the suns of the equator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Rhinocerotidae) of large heavyset herbivorous perissodactyl mammals of Africa and Asia that have one or two upright keratinous horns on the snout and thick gray to brown skin with little hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various large chiefly tropical scarab beetles (subfamily Dynastinae) having projecting horns on thorax and head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lions and tigers, and rhinoceros, and grizzly bears, and all sorts of ferocious animals!"*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Their flesh, in parts, hung upon them in huge folds, like the overlapping plaits on the flank of a rhinoceros."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Still and all, the rhinoceros had armor like an old knight's, and that would surely get red-hot under the suns of the equator."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # polish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being smooth and shiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly developed state of perfection; having a flawless or impeccable quality; ; ; --joseph conrad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O polish’d perturbation! golden care!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We do our best to polish—polish—polish!” He sat down beside me, taking some pains to sit on the form, I thought, in imitation of the print of his illustrious model on the sofa."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To polish—polish—polish!” he repeated, taking a pinch of snuff and gently fluttering his fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being smooth and shiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly developed state of perfection; having a flawless or impeccable quality; ; ; --joseph conrad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O polish’d perturbation! golden care!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We do our best to polish—polish—polish!” He sat down beside me, taking some pains to sit on the form, I thought, in imitation of the print of his illustrious model on the sofa."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To polish—polish—polish!” he repeated, taking a pinch of snuff and gently fluttering his fingers."*

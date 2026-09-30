@@ -5,15 +5,6 @@ status: unread
 ---
 # subsidize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support through subsidies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secure the assistance of by granting a subsidy, as of nations or military forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has already been shown that when the tariff duty prevents the importation of foreign goods and by raising the price encourages domestic manufacture of the article, there is virtually taxation of the consumer to subsidize the private manufacturer."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He prayed for the waters to subsidize."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It has impoverished many industries to subsidize a few."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Support through subsidies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secure the assistance of by granting a subsidy, as of nations or military forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has already been shown that when the tariff duty prevents the importation of foreign goods and by raising the price encourages domestic manufacture of the article, there is virtually taxation of the consumer to subsidize the private manufacturer."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He prayed for the waters to subsidize."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It has impoverished many industries to subsidize a few."*

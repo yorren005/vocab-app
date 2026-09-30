@@ -5,13 +5,6 @@ status: unread
 ---
 # orthoepist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoepist designates a practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoepist designates a practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely)."*

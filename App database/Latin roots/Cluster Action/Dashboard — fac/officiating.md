@@ -5,15 +5,6 @@ status: unread
 ---
 # officiating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of umpiring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in an official capacity in a ceremony or religious ritual, such as a wedding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The officiating curate, who had not yet doffed his surplice, perceived the new-comer, and followed him to the communion-space."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be the officiating clergyman, about whom it would be indecent to make remarks."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Tyke, a zealous able man, who, officiating at a chapel of ease, had not a cure of souls too extensive to leave him ample time for the new duty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of umpiring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in an official capacity in a ceremony or religious ritual, such as a wedding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The officiating curate, who had not yet doffed his surplice, perceived the new-comer, and followed him to the communion-space."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be the officiating clergyman, about whom it would be indecent to make remarks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Tyke, a zealous able man, who, officiating at a chapel of ease, had not a cure of souls too extensive to leave him ample time for the new duty."*

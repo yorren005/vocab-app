@@ -5,13 +5,6 @@ status: unread
 ---
 # chrysophyllum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american evergreen trees or shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american evergreen trees or shrubs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysophyllum designates tropical american evergreen trees or shrubs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american evergreen trees or shrubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american evergreen trees or shrubs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysophyllum designates tropical american evergreen trees or shrubs."*

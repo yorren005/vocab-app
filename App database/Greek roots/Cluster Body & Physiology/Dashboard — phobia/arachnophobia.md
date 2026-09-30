@@ -5,13 +5,6 @@ status: unread
 ---
 # arachnophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological fear or loathing of arachnids and especially spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathological fear or loathing of arachnids and especially spiders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnophobia designates pathological fear or loathing of arachnids and especially spiders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological fear or loathing of arachnids and especially spiders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathological fear or loathing of arachnids and especially spiders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnophobia designates pathological fear or loathing of arachnids and especially spiders."*

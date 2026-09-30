@@ -5,15 +5,6 @@ status: unread
 ---
 # marriageable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of girls or women who are eligible to marry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of girls or women who are eligible to marry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is now marriageable.[95] Among the Ot Danoms of Borneo girls at the age of eight or ten years are shut up in a little room or cell of the house, and cut off from all intercourse with the world for a long time."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There were no marriageable men in Chilmark--there never are in an English village--and she was too young for Rowsley's brother officers, or they were too young for her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Certainly such elements in the character of a marriageable girl tended to interfere with her lot, and hinder it from being decided according to custom, by good looks, vanity, and merely canine affection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of girls or women who are eligible to marry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of girls or women who are eligible to marry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is now marriageable.[95] Among the Ot Danoms of Borneo girls at the age of eight or ten years are shut up in a little room or cell of the house, and cut off from all intercourse with the world for a long time."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There were no marriageable men in Chilmark--there never are in an English village--and she was too young for Rowsley's brother officers, or they were too young for her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Certainly such elements in the character of a marriageable girl tended to interfere with her lot, and hinder it from being decided according to custom, by good looks, vanity, and merely canine affection."*

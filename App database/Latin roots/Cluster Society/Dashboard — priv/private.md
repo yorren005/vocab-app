@@ -5,15 +5,6 @@ status: unread
 ---
 # private
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlisted man of the lowest rank in the army or marines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confined to particular persons or groups or providing privacy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, sir, as I was commanded from you, Spoke with the king, and have procur’d his leave For present parting; only he desires Some private speech with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LEPIDUS. ’Tis not a time For private stomaching."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord of his fortunes he salutes thee, and Requires to live in Egypt, which not granted, He lessens his requests, and to thee sues To let him breathe between the heavens and earth, A private man in Athens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlisted man of the lowest rank in the army or marines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confined to particular persons or groups or providing privacy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, sir, as I was commanded from you, Spoke with the king, and have procur’d his leave For present parting; only he desires Some private speech with you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LEPIDUS. ’Tis not a time For private stomaching."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord of his fortunes he salutes thee, and Requires to live in Egypt, which not granted, He lessens his requests, and to thee sues To let him breathe between the heavens and earth, A private man in Athens."*

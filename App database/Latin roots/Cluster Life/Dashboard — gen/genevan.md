@@ -5,14 +5,6 @@ status: unread
 ---
 # genevan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of geneva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of the theological doctrines of john calvin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"No Genevan gown lends its grace to his figure, but coatless he stands, an earnest man, physically fearless, powerful in the love for God and man."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"But to a Genevan magistrate, whose mind was occupied by far other ideas than those of devotion and heroism, this elevation of mind had much the appearance of madness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of geneva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of the theological doctrines of john calvin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"No Genevan gown lends its grace to his figure, but coatless he stands, an earnest man, physically fearless, powerful in the love for God and man."*
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"But to a Genevan magistrate, whose mind was occupied by far other ideas than those of devotion and heroism, this elevation of mind had much the appearance of madness."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # arctotis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs and subshrubs: african daisy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs and subshrubs: african daisy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctotis designates herbs and subshrubs: african daisy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs and subshrubs: african daisy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs and subshrubs: african daisy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctotis designates herbs and subshrubs: african daisy."*

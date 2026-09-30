@@ -5,15 +5,6 @@ status: unread
 ---
 # unconcern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of remaining calm and seeming not to care; a casual lack of concern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of lack of concern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no necessity for any continuance of speech, and the fact that she did add more seemed to proceed from an unconscious desire to show unconcern by making a remark, which is noticeable in the ingenuous when they are acting by stealth."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You will go down slow, sir, I suppose?” she said with attempted unconcern."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, I can’t mind the exact day without looking at my memorandum-book,” replied Crick, with the same intolerable unconcern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of remaining calm and seeming not to care; a casual lack of concern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of lack of concern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no necessity for any continuance of speech, and the fact that she did add more seemed to proceed from an unconscious desire to show unconcern by making a remark, which is noticeable in the ingenuous when they are acting by stealth."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You will go down slow, sir, I suppose?” she said with attempted unconcern."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, I can’t mind the exact day without looking at my memorandum-book,” replied Crick, with the same intolerable unconcern."*

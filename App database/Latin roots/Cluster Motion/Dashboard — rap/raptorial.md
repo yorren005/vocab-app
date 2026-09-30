@@ -5,13 +5,6 @@ status: unread
 ---
 # raptorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of birds of prey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living by preying on other animals especially by catching living prey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptorial designates relating to or characteristic of birds of prey."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of birds of prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living by preying on other animals especially by catching living prey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptorial designates relating to or characteristic of birds of prey."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # misdirect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lead someone in the wrong direction or give someone wrong directions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to me that his industry was all misdirected."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It seems to me that it would be wiser, as well as in a certain kind of way more respectable, if he showed some misdirected energy that got him into prison."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But it had been brought about by misdirected ingenuity, and she valued it only as she valued an artificial flower or a wax fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lead someone in the wrong direction or give someone wrong directions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to me that his industry was all misdirected."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It seems to me that it would be wiser, as well as in a certain kind of way more respectable, if he showed some misdirected energy that got him into prison."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But it had been brought about by misdirected ingenuity, and she valued it only as she valued an artificial flower or a wax fruit."*

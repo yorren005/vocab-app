@@ -5,13 +5,6 @@ status: unread
 ---
 # allogamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cross-fertilization in plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cross-fertilization in plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allogamy designates cross-fertilization in plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cross-fertilization in plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cross-fertilization in plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allogamy designates cross-fertilization in plants."*

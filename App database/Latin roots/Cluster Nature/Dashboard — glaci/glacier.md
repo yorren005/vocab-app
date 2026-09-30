@@ -5,15 +5,6 @@ status: unread
 ---
 # glacier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowly moving mass of ice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slowly moving mass of ice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It changes in volume as does a glacier fed by the snows of many years, not as does a river, filled by a single rainfall."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John Rivers, who, lifting the latch, came in out of the frozen hurricane—the howling darkness—and stood before me: the cloak that covered his tall figure all white as a glacier."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Peter’s, or the Coliseum, the cascade of Terni, or the bay of Naples, and had not a single glacier or volcano in his whole collection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowly moving mass of ice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slowly moving mass of ice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It changes in volume as does a glacier fed by the snows of many years, not as does a river, filled by a single rainfall."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John Rivers, who, lifting the latch, came in out of the frozen hurricane—the howling darkness—and stood before me: the cloak that covered his tall figure all white as a glacier."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Peter’s, or the Coliseum, the cascade of Terni, or the bay of Naples, and had not a single glacier or volcano in his whole collection."*

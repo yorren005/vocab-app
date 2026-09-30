@@ -5,13 +5,6 @@ status: unread
 ---
 # eumelanin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eumelanin designates a brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eumelanin designates a brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation."*

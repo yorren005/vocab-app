@@ -5,15 +5,6 @@ status: unread
 ---
 # predominantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Much greater in number or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Much greater in number or influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, our national banking development has been predominantly urban and commercial to the neglect of rural and agricultural interests."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Make it predominantly a view of _their_ relation and the trick is played: you give the general sense of her effect, and you give it, so far as the raising on it of a superstructure goes, with the maximum of ease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Much greater in number or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Much greater in number or influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, our national banking development has been predominantly urban and commercial to the neglect of rural and agricultural interests."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Make it predominantly a view of _their_ relation and the trick is played: you give the general sense of her effect, and you give it, so far as the raising on it of a superstructure goes, with the maximum of ease."*

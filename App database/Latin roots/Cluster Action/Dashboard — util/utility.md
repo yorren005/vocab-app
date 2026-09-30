@@ -5,15 +5,6 @@ status: unread
 ---
 # utility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A company that performs a public service; subject to government regulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being of practical use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She knew herself to be of the first utility to the child; and what was it to her if Frederick Wentworth were only half a mile distant, making himself agreeable to others?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is an expression of the value of a man's possessions, and not of the utility[4] of them."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 25, for the definition of utility.] [Footnote 5: See Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A company that performs a public service; subject to government regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being of practical use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She knew herself to be of the first utility to the child; and what was it to her if Frederick Wentworth were only half a mile distant, making himself agreeable to others?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is an expression of the value of a man's possessions, and not of the utility[4] of them."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 25, for the definition of utility.] [Footnote 5: See Vol."*

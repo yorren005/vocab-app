@@ -5,15 +5,6 @@ status: unread
 ---
 # fatalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fatalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fatalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As Tess’s own people down in those retreats are never tired of saying among each other in their fatalistic way: “It was to be.” There lay the pity of it."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The growth of population in this stage is not "fatalistic," as there is no inevitable tendency to increase or to decrease."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I wish it were June already!” Alice preferred Lydia’s womanly impatience to her fatalistic calm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fatalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fatalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As Tess’s own people down in those retreats are never tired of saying among each other in their fatalistic way: “It was to be.” There lay the pity of it."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The growth of population in this stage is not "fatalistic," as there is no inevitable tendency to increase or to decrease."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I wish it were June already!” Alice preferred Lydia’s womanly impatience to her fatalistic calm."*

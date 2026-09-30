@@ -5,15 +5,6 @@ status: unread
 ---
 # together
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally and emotionally stable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contact with each other or in proximity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Strange is it that our bloods, Of colour, weight, and heat, pour’d all together, Would quite confound distinction, yet stands off In differences so mighty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The web of our life is of a mingled yarn, good and ill together; our virtues would be proud if our faults whipped them not; and our crimes would despair if they were not cherish’d by our virtues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally and emotionally stable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contact with each other or in proximity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Strange is it that our bloods, Of colour, weight, and heat, pour’d all together, Would quite confound distinction, yet stands off In differences so mighty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The web of our life is of a mingled yarn, good and ill together; our virtues would be proud if our faults whipped them not; and our crimes would despair if they were not cherish’d by our virtues."*

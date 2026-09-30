@@ -5,15 +5,6 @@ status: unread
 ---
 # erupt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Start abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erupt or intensify suddenly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Suddenly, from above, erupts the same screech they heard before, wild and shrill."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Father, already up and about, at this stage erupted into the wagon."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An uneasy cackle, strident and jarring, erupted from a corner, accompanied by the flat slap of a hard hand against the bar's rough counter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Start abruptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erupt or intensify suddenly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Suddenly, from above, erupts the same screech they heard before, wild and shrill."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Father, already up and about, at this stage erupted into the wagon."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An uneasy cackle, strident and jarring, erupted from a corner, accompanied by the flat slap of a hard hand against the bar's rough counter."*

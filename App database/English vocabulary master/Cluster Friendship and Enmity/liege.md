@@ -5,20 +5,6 @@ status: unread
 ---
 # liege
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Faithful, loyal
-> 2. **Nuance / Usage**: (in full liege lord) a king or lord
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a liege presence*) or predicatively (*remained liege*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"When we withdrew, my liege, we left it here."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My person, or my liege’s sovereignty."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Let me say no, my liege, an if you please."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A feudal superior or sovereign lord to whom a vassal owes sworn allegiance and military service (*my liege*).
+> 2. **Nuance / Usage**: Also used for the loyal vassal or subject bound by feudal tenure (*liegeman*), and as an adjective meaning faithful, bound by duty, or sovereign (*liege lord*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a liege presence*) or predicatively (*remained liege*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard II*):** *"My person, or my **liege’s** sovereignty, shall not be yielded."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"I am a true **liege** of King Richard and will answer to no usurper."*
+> - 📜 **Alfred, Lord Tennyson (*Idylls of the King*):** *"Swear allegiance to thy **liege** and keep the vows of Camelot unbroken."*

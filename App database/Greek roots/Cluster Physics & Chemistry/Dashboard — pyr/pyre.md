@@ -5,15 +5,6 @@ status: unread
 ---
 # pyre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A combustible heap for burning a dead body as a funeral rite; broadly : a pile of material to be burned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combustible heap for burning a dead body as a funeral rite; broadly : a pile of material to be burned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If all the injustice it has committed and all the misery it has caused could only be locked up with it, and the whole burnt away in a great funeral pyre—why so much the better for other parties than the parties in Jarndyce and Jarndyce!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And we burned his body on a great pyre, with Elgiva, in her golden corselet, beside him singing."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A great pile of firewood has meanwhile been heaped up about it, and the women run round the pyre cursing in shrill voices the wicked spirit who has wrought all this evil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combustible heap for burning a dead body as a funeral rite; broadly : a pile of material to be burned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combustible heap for burning a dead body as a funeral rite; broadly : a pile of material to be burned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If all the injustice it has committed and all the misery it has caused could only be locked up with it, and the whole burnt away in a great funeral pyre—why so much the better for other parties than the parties in Jarndyce and Jarndyce!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And we burned his body on a great pyre, with Elgiva, in her golden corselet, beside him singing."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A great pile of firewood has meanwhile been heaped up about it, and the women run round the pyre cursing in shrill voices the wicked spirit who has wrought all this evil."*

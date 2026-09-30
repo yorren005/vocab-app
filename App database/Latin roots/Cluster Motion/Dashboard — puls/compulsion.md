@@ -5,15 +5,6 @@ status: unread
 ---
 # compulsion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An urge to do or say something that might be better left undone or unsaid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irrational motive for performing trivial or repetitive actions, even against your will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Zounds, an I were at the strappado, or all the racks in the world, I would not tell you on compulsion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give you a reason on compulsion!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If reasons were as plentiful as blackberries, I would give no man a reason upon compulsion, I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An urge to do or say something that might be better left undone or unsaid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irrational motive for performing trivial or repetitive actions, even against your will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Zounds, an I were at the strappado, or all the racks in the world, I would not tell you on compulsion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give you a reason on compulsion!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If reasons were as plentiful as blackberries, I would give no man a reason upon compulsion, I."*

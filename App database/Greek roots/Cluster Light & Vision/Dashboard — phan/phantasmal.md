@@ -5,14 +5,6 @@ status: unread
 ---
 # phantasmal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a phantom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conversation at the table mixed in with his phantasmal orchestra till he thought: “What a fluty voice one of those milkmaids has!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Phantasmal mirth, folded away: muskperfumed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a phantom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conversation at the table mixed in with his phantasmal orchestra till he thought: “What a fluty voice one of those milkmaids has!"*
+> - 📜 **James Joyce (*Ulysses*):** *"Phantasmal mirth, folded away: muskperfumed."*

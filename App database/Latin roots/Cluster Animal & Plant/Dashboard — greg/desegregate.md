@@ -5,13 +5,6 @@ status: unread
 ---
 # desegregate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open (a place) to members of all races and ethnic groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desegregate designates open (a place) to members of all races and ethnic groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open (a place) to members of all races and ethnic groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desegregate designates open (a place) to members of all races and ethnic groups."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # testiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling easily irritated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling easily irritated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She often chose this task, in which she found some pleasure, notwithstanding the old man’s testiness whenever he demanded her attentions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling easily irritated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling easily irritated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She often chose this task, in which she found some pleasure, notwithstanding the old man’s testiness whenever he demanded her attentions."*

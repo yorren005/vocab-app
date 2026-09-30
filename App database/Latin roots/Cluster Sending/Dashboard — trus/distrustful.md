@@ -5,15 +5,6 @@ status: unread
 ---
 # distrustful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did think that I and both these young creatures might be friends instead of distrustful foes and that we might so far counter-act the suit and prove too strong for it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But they have known me much longer than you have, and the confiding eye of affection is not the distrustful eye of business."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I complain, sir, of the eye of business being distrustful; quite the contrary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I did think that I and both these young creatures might be friends instead of distrustful foes and that we might so far counter-act the suit and prove too strong for it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But they have known me much longer than you have, and the confiding eye of affection is not the distrustful eye of business."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I complain, sir, of the eye of business being distrustful; quite the contrary."*

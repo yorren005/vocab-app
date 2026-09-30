@@ -5,13 +5,6 @@ status: unread
 ---
 # cytolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually pathologic dissolution or disintegration of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually pathologic dissolution or disintegration of cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytolysis designates the usually pathologic dissolution or disintegration of cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually pathologic dissolution or disintegration of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually pathologic dissolution or disintegration of cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytolysis designates the usually pathologic dissolution or disintegration of cells."*

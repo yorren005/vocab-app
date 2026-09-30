@@ -5,13 +5,6 @@ status: unread
 ---
 # processed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deal with in a routine way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This display is tailored to the general run of inmates processed through orientation, just to give them an idea where they are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deal with in a routine way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This display is tailored to the general run of inmates processed through orientation, just to give them an idea where they are."*

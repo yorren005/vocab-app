@@ -5,13 +5,6 @@ status: unread
 ---
 # supermarketer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An operator of a supermarket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operator of a supermarket.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supermarketer designates an operator of a supermarket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An operator of a supermarket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operator of a supermarket.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supermarketer designates an operator of a supermarket."*

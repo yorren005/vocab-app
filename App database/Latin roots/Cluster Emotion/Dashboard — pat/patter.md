@@ -5,15 +5,6 @@ status: unread
 ---
 # patter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible glib talk (especially useful to a salesperson).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quick succession of light rapid sounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn retires into another chamber; bells ring, feet shuffle and patter, silence ensues."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Little Swills, in what are professionally known as “patter” allusions to the subject, is received with loud applause; and the same vocalist “gags” in the regular business like a man inspired."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Will you have dinner before you go or take sandwiches with you?"--how long the patter of questions would have run on it is hard to say, if the extreme naivete of the last one had not drowned them in universal laughter, and Isabel in crimson."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible glib talk (especially useful to a salesperson).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quick succession of light rapid sounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn retires into another chamber; bells ring, feet shuffle and patter, silence ensues."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Little Swills, in what are professionally known as “patter” allusions to the subject, is received with loud applause; and the same vocalist “gags” in the regular business like a man inspired."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Will you have dinner before you go or take sandwiches with you?"--how long the patter of questions would have run on it is hard to say, if the extreme naivete of the last one had not drowned them in universal laughter, and Isabel in crimson."*

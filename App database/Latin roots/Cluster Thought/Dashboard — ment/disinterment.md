@@ -5,13 +5,6 @@ status: unread
 ---
 # disinterment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of digging something out of the ground (especially a corpse) where it has been buried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of digging something out of the ground (especially a corpse) where it has been buried.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinterment designates the act of digging something out of the ground (especially a corpse) where it has been buried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of digging something out of the ground (especially a corpse) where it has been buried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of digging something out of the ground (especially a corpse) where it has been buried.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinterment designates the act of digging something out of the ground (especially a corpse) where it has been buried."*

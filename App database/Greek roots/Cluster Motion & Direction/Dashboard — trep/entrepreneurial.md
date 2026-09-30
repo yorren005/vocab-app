@@ -5,13 +5,6 @@ status: unread
 ---
 # entrepreneurial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an entrepreneur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to take risks in order to make a profit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrepreneurial designates of or relating to an entrepreneur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an entrepreneur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to take risks in order to make a profit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrepreneurial designates of or relating to an entrepreneur."*

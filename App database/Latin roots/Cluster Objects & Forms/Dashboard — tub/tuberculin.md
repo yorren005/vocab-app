@@ -5,13 +5,6 @@ status: unread
 ---
 # tuberculin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculin designates a sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberculin designates a sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis."*

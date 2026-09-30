@@ -5,13 +5,6 @@ status: unread
 ---
 # ornateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornate appearance; being elaborately (even excessively) decorated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornateness designates high-flown style; excessive use of verbal ornamentation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornate appearance; being elaborately (even excessively) decorated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornateness designates high-flown style; excessive use of verbal ornamentation."*

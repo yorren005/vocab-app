@@ -5,15 +5,6 @@ status: unread
 ---
 # ejaculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt emphatic exclamation expressing emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discharge of semen in males.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But no explanation was discernible; he remained under the cow long enough to have milked three, uttering a private ejaculation now and then, as if he could not get on."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And if a person's meat or drink were to affect the wind-pipe, or come against his breath, they instantly cry out _deisheal_! which is an ejaculation praying that it may go by the right way" (Rev."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bambridge gave an ejaculation in which “brimstone” was the mildest word, and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt emphatic exclamation expressing emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discharge of semen in males.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But no explanation was discernible; he remained under the cow long enough to have milked three, uttering a private ejaculation now and then, as if he could not get on."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And if a person's meat or drink were to affect the wind-pipe, or come against his breath, they instantly cry out _deisheal_! which is an ejaculation praying that it may go by the right way" (Rev."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bambridge gave an ejaculation in which “brimstone” was the mildest word, and Mr."*

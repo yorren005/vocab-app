@@ -5,15 +5,6 @@ status: unread
 ---
 # gradation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relative position in a graded series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degree of ablaut.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, there’s no remedy. ’Tis the curse of service, Preferment goes by letter and affection, And not by old gradation, where each second Stood heir to the first."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Of various admirals I could tell you a great deal: of them and their flags, and the gradation of their pay, and their bickerings and jealousies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relative position in a graded series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degree of ablaut.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, there’s no remedy. ’Tis the curse of service, Preferment goes by letter and affection, And not by old gradation, where each second Stood heir to the first."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Of various admirals I could tell you a great deal: of them and their flags, and the gradation of their pay, and their bickerings and jealousies."*

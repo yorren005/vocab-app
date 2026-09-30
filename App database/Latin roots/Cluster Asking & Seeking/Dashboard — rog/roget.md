@@ -5,13 +5,6 @@ status: unread
 ---
 # roget
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English physician who in retirement compiled a well-known thesaurus (1779-1869).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English physician who in retirement compiled a well-known thesaurus (1779-1869).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, roget designates english physician who in retirement compiled a well-known thesaurus (1779-1869)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English physician who in retirement compiled a well-known thesaurus (1779-1869).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English physician who in retirement compiled a well-known thesaurus (1779-1869).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, roget designates english physician who in retirement compiled a well-known thesaurus (1779-1869)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # silverside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small fishes having a silver stripe along each side; abundant along the atlantic coast of the united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small fishes having a silver stripe along each side; abundant along the atlantic coast of the united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverside designates small fishes having a silver stripe along each side; abundant along the atlantic coast of the united states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small fishes having a silver stripe along each side; abundant along the atlantic coast of the united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small fishes having a silver stripe along each side; abundant along the atlantic coast of the united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverside designates small fishes having a silver stripe along each side; abundant along the atlantic coast of the united states."*

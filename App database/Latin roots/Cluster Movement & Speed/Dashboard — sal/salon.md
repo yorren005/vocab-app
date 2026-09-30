@@ -5,15 +5,6 @@ status: unread
 ---
 # salon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gallery where works of art can be displayed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop where hairdressers and beauticians work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester lay down on a sofa in a pretty room called the salon, and Sophie and I had little beds in another place."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes,” said Dorothea, without pause; “show him into the salon.” Her chief impressions about young Ladislaw were that when she had seen him at Lowick she had been made aware of Mr."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'll paint it, just like I saw it to-night, for next Spring's Salon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gallery where works of art can be displayed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop where hairdressers and beauticians work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester lay down on a sofa in a pretty room called the salon, and Sophie and I had little beds in another place."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Yes,” said Dorothea, without pause; “show him into the salon.” Her chief impressions about young Ladislaw were that when she had seen him at Lowick she had been made aware of Mr."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'll paint it, just like I saw it to-night, for next Spring's Salon."*

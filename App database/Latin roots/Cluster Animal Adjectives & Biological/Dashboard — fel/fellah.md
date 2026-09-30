@@ -5,14 +5,6 @@ status: unread
 ---
 # fellah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agricultural laborer in arab countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural laborer in arab countries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After three days the mock king is condemned to death; the envelope or shell in which he was encased is committed to the flames, and from its ashes the Fellah creeps forth."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Yer own daddy Erasmus wuz one ob um, an' a lackly littul fellah he wuz, too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agricultural laborer in arab countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural laborer in arab countries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After three days the mock king is condemned to death; the envelope or shell in which he was encased is committed to the flames, and from its ashes the Fellah creeps forth."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Yer own daddy Erasmus wuz one ob um, an' a lackly littul fellah he wuz, too."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # scopes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tennessee highschool teacher who violated a state law by teaching evolution; in a highly publicized trial in 1925 he was prosecuted by william jennings bryan and defended by clarence darrow (1900-1970).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad expected, the fire control center consisted of dozens of consoles, scopes, directional and power control devices, and clusters of computer terminals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tennessee highschool teacher who violated a state law by teaching evolution; in a highly publicized trial in 1925 he was prosecuted by william jennings bryan and defended by clarence darrow (1900-1970).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad expected, the fire control center consisted of dozens of consoles, scopes, directional and power control devices, and clusters of computer terminals."*

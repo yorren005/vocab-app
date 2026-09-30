@@ -5,15 +5,6 @@ status: unread
 ---
 # disclose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disclose to view as by removing a cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, disclose The state of your affection, for your passions Have to the full appeach’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me your counsels, I will not disclose ’em."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That more than this she would never (and he was well persuaded of the steadfastness of her resolution) for any human consideration disclose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disclose to view as by removing a cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, disclose The state of your affection, for your passions Have to the full appeach’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me your counsels, I will not disclose ’em."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That more than this she would never (and he was well persuaded of the steadfastness of her resolution) for any human consideration disclose."*

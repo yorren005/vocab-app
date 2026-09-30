@@ -5,15 +5,6 @@ status: unread
 ---
 # commemoration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremony to honor the memory of someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recognition of meritorious service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In commemoration of what event, however, or in honour of what distinguished personage, the feast was to be given, altogether passed my comprehension."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Believing that the exertions of the efficient officers of the Society deserve commemoration, we have obtained the following brief sketches of Mrs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If all who seek his commemoration through material symbols will take up the cross, heal 34:15 the sick, cast out evils, and preach Christ, or Truth, to the poor, - the receptive thought, - they will bring in the millennium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremony to honor the memory of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recognition of meritorious service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In commemoration of what event, however, or in honour of what distinguished personage, the feast was to be given, altogether passed my comprehension."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Believing that the exertions of the efficient officers of the Society deserve commemoration, we have obtained the following brief sketches of Mrs."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If all who seek his commemoration through material symbols will take up the cross, heal 34:15 the sick, cast out evils, and preach Christ, or Truth, to the poor, - the receptive thought, - they will bring in the millennium."*

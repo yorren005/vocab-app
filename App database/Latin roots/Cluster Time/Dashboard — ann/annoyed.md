@@ -5,15 +5,6 @@ status: unread
 ---
 # annoyed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause annoyance in; disturb, especially by minor irritations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aroused to impatience or anger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am terribly afraid that Mäzli has annoyed you." "She has not done so at all, for she is her mother's true child," said the Baron."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Why, I haven’t had a wink of sleep these three weeks!” “I’m very sorry you’ve been annoyed,” said Alice, who was beginning to see its meaning."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It annoyed me only as all pious observances annoyed me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause annoyance in; disturb, especially by minor irritations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aroused to impatience or anger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am terribly afraid that Mäzli has annoyed you." "She has not done so at all, for she is her mother's true child," said the Baron."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Why, I haven’t had a wink of sleep these three weeks!” “I’m very sorry you’ve been annoyed,” said Alice, who was beginning to see its meaning."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It annoyed me only as all pious observances annoyed me."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # constantine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who stopped the persecution of christians and in 324 made christianity the official religion of the roman empire; in 330 he moved his capital from rome to byzantium and renamed it constantinople (280-337).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A walled city in northeastern algeria to the east of algiers; was destroyed in warfare in the 4th century and rebuilt by constantine i.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Helen, the mother of great Constantine, Nor yet Saint Philip’s daughters, were like thee."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So was Constantine, the arch-fiend, the devil’s right hand."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered when the Emperor Constantine had banished Arius for his uprightness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who stopped the persecution of christians and in 324 made christianity the official religion of the roman empire; in 330 he moved his capital from rome to byzantium and renamed it constantinople (280-337).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A walled city in northeastern algeria to the east of algiers; was destroyed in warfare in the 4th century and rebuilt by constantine i.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Helen, the mother of great Constantine, Nor yet Saint Philip’s daughters, were like thee."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So was Constantine, the arch-fiend, the devil’s right hand."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered when the Emperor Constantine had banished Arius for his uprightness."*

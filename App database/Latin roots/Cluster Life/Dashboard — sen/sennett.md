@@ -5,13 +5,6 @@ status: unread
 ---
 # sennett
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states filmmaker (born in canada) noted for slapstick movies (1880-1960).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states filmmaker (born in canada) noted for slapstick movies (1880-1960).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sennett designates united states filmmaker (born in canada) noted for slapstick movies (1880-1960)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states filmmaker (born in canada) noted for slapstick movies (1880-1960).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states filmmaker (born in canada) noted for slapstick movies (1880-1960).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sennett designates united states filmmaker (born in canada) noted for slapstick movies (1880-1960)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # deliquesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Melt away in the process of decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Melt or become liquid by absorbing moisture from the air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Doubtless they had deliquesced ages ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Melt away in the process of decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Melt or become liquid by absorbing moisture from the air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Doubtless they had deliquesced ages ago."*

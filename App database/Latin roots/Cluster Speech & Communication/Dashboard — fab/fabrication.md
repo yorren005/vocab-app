@@ -5,15 +5,6 @@ status: unread
 ---
 # fabrication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately false or improbable account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing in a fictional form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Were it a system agreeable to the narrow views, in unison with the selfish feelings, and gratifying to the depraved taste of human nature, it would more resemble the fabrication of man, than the workmanship of God."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was obvious at a glance that the story of the fuller’s-earth was the merest fabrication, for it would be absurd to suppose that so powerful an engine could be designed for so inadequate a purpose."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Nothing more is required for their fabrication than a little ignorance and a little love of gossip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately false or improbable account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing in a fictional form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Were it a system agreeable to the narrow views, in unison with the selfish feelings, and gratifying to the depraved taste of human nature, it would more resemble the fabrication of man, than the workmanship of God."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was obvious at a glance that the story of the fuller’s-earth was the merest fabrication, for it would be absurd to suppose that so powerful an engine could be designed for so inadequate a purpose."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Nothing more is required for their fabrication than a little ignorance and a little love of gossip."*

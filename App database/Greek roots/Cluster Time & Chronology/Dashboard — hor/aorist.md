@@ -5,13 +5,6 @@ status: unread
 ---
 # aorist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aorist designates an inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aorist designates an inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition."*

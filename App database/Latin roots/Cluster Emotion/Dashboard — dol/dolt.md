@@ -5,15 +5,6 @@ status: unread
 ---
 # dolt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is not very bright.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is not very bright.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a simple-minded, good-natured dolt and not above earning an honest dollar by smuggling in tobacco for the convicts."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In my haste to an engagement I was clumsy, most woful clumsy, but without intention.” What could the dolt do but grudgingly accept the amends I so freely proffered him?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Sea-cuny that I was, I was no dolt with women, and I sensed more than idle curiosity in her sending for me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is not very bright.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is not very bright.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a simple-minded, good-natured dolt and not above earning an honest dollar by smuggling in tobacco for the convicts."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In my haste to an engagement I was clumsy, most woful clumsy, but without intention.” What could the dolt do but grudgingly accept the amends I so freely proffered him?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Sea-cuny that I was, I was no dolt with women, and I sensed more than idle curiosity in her sending for me."*

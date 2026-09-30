@@ -5,13 +5,6 @@ status: unread
 ---
 # sealer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who affixes a seal to a document.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sealer designates a kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who affixes a seal to a document.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sealer designates a kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface)."*

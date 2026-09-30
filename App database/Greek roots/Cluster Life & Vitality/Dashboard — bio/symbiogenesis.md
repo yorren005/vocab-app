@@ -5,13 +5,6 @@ status: unread
 ---
 # symbiogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symbiogenesis is the leading evolutionary theory of the origin of eukaryotic cells from prokaryotic organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory holds that mitochondria, plastids such as chloroplasts, and possibly other organelles of eukaryotic cells are descended from formerly free-living prokaryotes taken one inside the other in endosymbiosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiogenesis designates symbiogenesis is the leading evolutionary theory of the origin of eukaryotic cells from prokaryotic organisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Symbiogenesis is the leading evolutionary theory of the origin of eukaryotic cells from prokaryotic organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory holds that mitochondria, plastids such as chloroplasts, and possibly other organelles of eukaryotic cells are descended from formerly free-living prokaryotes taken one inside the other in endosymbiosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiogenesis designates symbiogenesis is the leading evolutionary theory of the origin of eukaryotic cells from prokaryotic organisms."*

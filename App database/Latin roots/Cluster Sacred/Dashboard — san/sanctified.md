@@ -5,15 +5,6 @@ status: unread
 ---
 # sanctified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that hangs himself is a virgin: virginity murders itself, and should be buried in highways out of all sanctified limit, as a desperate offendress against nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your virtues, gentle master, Are sanctified and holy traitors to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In few, Ophelia, Do not believe his vows; for they are brokers, Not of that dye which their investments show, But mere implorators of unholy suits, Breathing like sanctified and pious bawds, The better to beguile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that hangs himself is a virgin: virginity murders itself, and should be buried in highways out of all sanctified limit, as a desperate offendress against nature."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your virtues, gentle master, Are sanctified and holy traitors to you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In few, Ophelia, Do not believe his vows; for they are brokers, Not of that dye which their investments show, But mere implorators of unholy suits, Breathing like sanctified and pious bawds, The better to beguile."*

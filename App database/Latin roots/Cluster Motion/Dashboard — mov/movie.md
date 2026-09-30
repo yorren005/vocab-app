@@ -5,15 +5,6 @@ status: unread
 ---
 # movie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The seat faced a white screen like those in movie theaters."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I have been to Revere once, to the circus once, to Nantasket three times, and to Keith's and the 'movies' ten times, perhaps--to be accurate."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It might have been a parade-war, an elaborately realistic imitation of the real thing for the movies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The seat faced a white screen like those in movie theaters."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I have been to Revere once, to the circus once, to Nantasket three times, and to Keith's and the 'movies' ten times, perhaps--to be accurate."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It might have been a parade-war, an elaborately realistic imitation of the real thing for the movies."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # siphonophore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floating or swimming oceanic colony of polyps often transparent or showily colored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floating or swimming oceanic colony of polyps often transparent or showily colored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siphonophore designates a floating or swimming oceanic colony of polyps often transparent or showily colored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A floating or swimming oceanic colony of polyps often transparent or showily colored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floating or swimming oceanic colony of polyps often transparent or showily colored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siphonophore designates a floating or swimming oceanic colony of polyps often transparent or showily colored."*

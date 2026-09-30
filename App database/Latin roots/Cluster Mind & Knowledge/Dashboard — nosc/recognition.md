@@ -5,15 +5,6 @@ status: unread
 ---
 # recognition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being recognized or acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of recognizing something or someone by remembering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Richard and I were making our way through it, and I was yet in the first chill of the late unexpected recognition when I saw, coming towards us, but not seeing us, no less a person than Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This letter.” Grandfather Smallweed smiles in a very ugly way in recognition of the letter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The other woman rose on seeing me; and the men, though they were, as usual, sulky and silent, each gave me a morose nod of recognition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being recognized or acknowledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of recognizing something or someone by remembering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard and I were making our way through it, and I was yet in the first chill of the late unexpected recognition when I saw, coming towards us, but not seeing us, no less a person than Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This letter.” Grandfather Smallweed smiles in a very ugly way in recognition of the letter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The other woman rose on seeing me; and the men, though they were, as usual, sulky and silent, each gave me a morose nod of recognition."*

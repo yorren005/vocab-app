@@ -5,13 +5,6 @@ status: unread
 ---
 # automated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make automatic or control or operate automatically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operated by automation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Charon operations are to be fully automated and robotically maintained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make automatic or control or operate automatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operated by automation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Charon operations are to be fully automated and robotically maintained."*

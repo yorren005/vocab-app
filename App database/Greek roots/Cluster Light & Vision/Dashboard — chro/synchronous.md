@@ -5,13 +5,6 @@ status: unread
 ---
 # synchronous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening, existing, or arising at precisely the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring or operating at exactly the same periods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronous designates happening, existing, or arising at precisely the same time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening, existing, or arising at precisely the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring or operating at exactly the same periods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronous designates happening, existing, or arising at precisely the same time."*

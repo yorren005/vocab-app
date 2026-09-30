@@ -5,15 +5,6 @@ status: unread
 ---
 # milled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move about in a confused manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grind with a mill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The six inmates entered, milled about, silent, their features without expressions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Return the group in an hour." "Yes, sir." Myra, Adari, Hodak and Zolan milled about for a moment, then joined Kumiko at the portal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move about in a confused manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grind with a mill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The six inmates entered, milled about, silent, their features without expressions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Return the group in an hour." "Yes, sir." Myra, Adari, Hodak and Zolan milled about for a moment, then joined Kumiko at the portal."*

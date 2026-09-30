@@ -5,15 +5,6 @@ status: unread
 ---
 # aviator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who operates an aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who operates an aircraft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"As they rose, Ben could make out the line of the river shining through the pearly haze like a silver ribbon; the towers of the city tilted, then swung toward them as the aviator swept down nearer for an examination."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A door seemed to open in the hillside; focusing the glasses the aviator handed him, he could just make out a square, bulky object that trundled forth."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Better turn back this way and get ready for trouble." The aviator, understanding without being warned, had turned the plane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who operates an aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who operates an aircraft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"As they rose, Ben could make out the line of the river shining through the pearly haze like a silver ribbon; the towers of the city tilted, then swung toward them as the aviator swept down nearer for an examination."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A door seemed to open in the hillside; focusing the glasses the aviator handed him, he could just make out a square, bulky object that trundled forth."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Better turn back this way and get ready for trouble." The aviator, understanding without being warned, had turned the plane."*

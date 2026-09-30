@@ -5,15 +5,6 @@ status: unread
 ---
 # inarticulately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without eloquence; in an inarticulate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inarticulate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Let go, master,” he cried, almost inarticulately."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"As for women, they're all so." "You don't know how fond I was of that one," Rawdon said, half-inarticulately."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The doctor murmured inarticulately, gave a long gasp or two and was still."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without eloquence; in an inarticulate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inarticulate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Let go, master,” he cried, almost inarticulately."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"As for women, they're all so." "You don't know how fond I was of that one," Rawdon said, half-inarticulately."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The doctor murmured inarticulately, gave a long gasp or two and was still."*

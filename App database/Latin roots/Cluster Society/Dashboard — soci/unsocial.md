@@ -5,15 +5,6 @@ status: unread
 ---
 # unsocial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seeking or given to association; being or living without companions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seeking or given to association; being or living without companions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There must be a plan, and by law the will of the majority must be imposed upon the unsocial few."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John had a book in his hand—it was his unsocial custom to read at meals—he closed it, and looked up."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In the former case they are unsocial to every body--in the latter to every body except their own party."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seeking or given to association; being or living without companions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seeking or given to association; being or living without companions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There must be a plan, and by law the will of the majority must be imposed upon the unsocial few."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John had a book in his hand—it was his unsocial custom to read at meals—he closed it, and looked up."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"In the former case they are unsocial to every body--in the latter to every body except their own party."*

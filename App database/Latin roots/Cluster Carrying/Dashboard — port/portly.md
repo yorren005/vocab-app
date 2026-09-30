@@ -5,15 +5,6 @@ status: unread
 ---
 # portly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Euphemisms for `fat'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemisms for `fat'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our house, my sovereign liege, little deserves The scourge of greatness to be used on it, And that same greatness too which our own hands Have holp to make so portly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometimes the beam of her view gilded my foot, sometimes my portly belly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Euphemisms for `fat'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemisms for `fat'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our house, my sovereign liege, little deserves The scourge of greatness to be used on it, And that same greatness too which our own hands Have holp to make so portly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometimes the beam of her view gilded my foot, sometimes my portly belly."*

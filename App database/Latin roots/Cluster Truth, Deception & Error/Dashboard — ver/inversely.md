@@ -5,15 +5,6 @@ status: unread
 ---
 # inversely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverse or contrary manner; ; - f.a.geldard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inverse or contrary manner; ; - f.a.geldard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"According to the quantity theory we must expect that, when conditions (1) and (2) remain fixed, the value of money will vary inversely as its quantity."*
-> - 📜 **Bram Stoker (*Dracula*):** *"On the near side, the sea-wall makes an elbow crooked inversely, and its end too has a lighthouse."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The reader will probably have noticed from what has already been said about the units of measurement--the volt, the ampere and the ohm--that the current varies directly as the pressure and inversely as the resistance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverse or contrary manner; ; - f.a.geldard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inverse or contrary manner; ; - f.a.geldard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"According to the quantity theory we must expect that, when conditions (1) and (2) remain fixed, the value of money will vary inversely as its quantity."*
+> - 📜 **Bram Stoker (*Dracula*):** *"On the near side, the sea-wall makes an elbow crooked inversely, and its end too has a lighthouse."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The reader will probably have noticed from what has already been said about the units of measurement--the volt, the ampere and the ohm--that the current varies directly as the pressure and inversely as the resistance."*

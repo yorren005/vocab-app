@@ -5,15 +5,6 @@ status: unread
 ---
 # sanskrit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (hinduism) an ancient language of india (the language of the vedas and of hinduism); an official language of india although it is now used only for religious purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (hinduism) an ancient language of india (the language of the vedas and of hinduism); an official language of india although it is now used only for religious purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"As a living book it is no longer read in Sanskrit, but only in the languages of the Far East."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though the pages are less peppered with Sanskrit transliterations and Buddhist terms than other Buddhist classics, the work still presents serious difficulty to the Chinese reader and not less so to the Western student."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Presumably the writer composed the work in Sanskrit and in Northern India; it may, however, have been composed farther north in Central Asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (hinduism) an ancient language of india (the language of the vedas and of hinduism); an official language of india although it is now used only for religious purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (hinduism) an ancient language of india (the language of the vedas and of hinduism); an official language of india although it is now used only for religious purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"As a living book it is no longer read in Sanskrit, but only in the languages of the Far East."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though the pages are less peppered with Sanskrit transliterations and Buddhist terms than other Buddhist classics, the work still presents serious difficulty to the Chinese reader and not less so to the Western student."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Presumably the writer composed the work in Sanskrit and in Northern India; it may, however, have been composed farther north in Central Asia."*

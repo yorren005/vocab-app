@@ -5,15 +5,6 @@ status: unread
 ---
 # populate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabit or live in; be an inhabitant of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with inhabitants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In European countries the railways were built through comparatively densely populated districts to connect cities already of large size."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"America was comparatively sparsely populated, and most of the railroads were built in advance of and to attract population, business, and traffic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Windstorm carried a K12, a fifteen meter-diameter warhead capable of destroying a natural minor satellite or a large populated colony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabit or live in; be an inhabitant of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with inhabitants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In European countries the railways were built through comparatively densely populated districts to connect cities already of large size."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"America was comparatively sparsely populated, and most of the railroads were built in advance of and to attract population, business, and traffic."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Windstorm carried a K12, a fifteen meter-diameter warhead capable of destroying a natural minor satellite or a large populated colony."*

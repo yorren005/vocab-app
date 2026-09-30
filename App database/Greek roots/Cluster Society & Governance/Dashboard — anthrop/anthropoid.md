@@ -5,14 +5,6 @@ status: unread
 ---
 # anthropoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Person who resembles a nonhuman primate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the suborder anthropoidea including monkeys and apes and hominids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She whips it off.)_ LYNCH: _(Laughs.)_ And to such delights has Metchnikoff inoculated anthropoid apes."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"An emotion marked for export, from an anthropoid world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Person who resembles a nonhuman primate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the suborder anthropoidea including monkeys and apes and hominids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"She whips it off.)_ LYNCH: _(Laughs.)_ And to such delights has Metchnikoff inoculated anthropoid apes."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"An emotion marked for export, from an anthropoid world."*

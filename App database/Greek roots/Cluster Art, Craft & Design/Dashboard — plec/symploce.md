@@ -5,13 +5,6 @@ status: unread
 ---
 # symploce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In rhetoric, symploce is a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It is the combination of anaphora and epistrophe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symploce designates in rhetoric, symploce is a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In rhetoric, symploce is a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It is the combination of anaphora and epistrophe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symploce designates in rhetoric, symploce is a figure of speech in which a word or phrase is used successively at the beginning of two or more clauses or sentences and another word or phrase with a similar wording is used successively at the end of them."*

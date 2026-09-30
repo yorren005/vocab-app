@@ -5,15 +5,6 @@ status: unread
 ---
 # scrutinize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To look at critically or searchingly, or in minute detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine carefully for accuracy with the intent of verification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Strype the washerwoman against Stubbs’s unjust exaction on the score of her drying-ground, and he would himself scrutinize a calumny against Mrs."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rimov then tilted his head to scrutinize the settings on Kumiko and Scarf's weapons."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"For some minutes he continued to scrutinize the drawing minutely where he sat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To look at critically or searchingly, or in minute detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine carefully for accuracy with the intent of verification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Strype the washerwoman against Stubbs’s unjust exaction on the score of her drying-ground, and he would himself scrutinize a calumny against Mrs."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rimov then tilted his head to scrutinize the settings on Kumiko and Scarf's weapons."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"For some minutes he continued to scrutinize the drawing minutely where he sat."*

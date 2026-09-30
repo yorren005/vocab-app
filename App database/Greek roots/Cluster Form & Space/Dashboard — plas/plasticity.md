@@ -5,13 +5,6 @@ status: unread
 ---
 # plasticity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticity designates the property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticity designates the property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking."*

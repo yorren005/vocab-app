@@ -5,15 +5,6 @@ status: unread
 ---
 # explanation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thought that makes something comprehensible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What he wanted was perfectly correct but was not just suitable at that moment, and he needed an explanation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If he had not been so mad, the two would have been stronger, and our poor Rector would have lost his plums." It was hard to tell if this explanation comforted the mother."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The exclusion of all idea of cause--that is, the thing must not need explanation by Anything outside itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thought that makes something comprehensible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What he wanted was perfectly correct but was not just suitable at that moment, and he needed an explanation."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If he had not been so mad, the two would have been stronger, and our poor Rector would have lost his plums." It was hard to tell if this explanation comforted the mother."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The exclusion of all idea of cause--that is, the thing must not need explanation by Anything outside itself."*

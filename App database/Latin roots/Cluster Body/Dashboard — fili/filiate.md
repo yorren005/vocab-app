@@ -5,13 +5,6 @@ status: unread
 ---
 # filiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix the paternity of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix the paternity of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, filiate designates fix the paternity of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix the paternity of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix the paternity of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, filiate designates fix the paternity of."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # elapse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass by.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass by.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were more than two full hours yet to elapse before she could come, and in that interval, which seemed a long one, I must confess I was nervously anxious about my altered looks."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Sometimes twenty minutes elapse after the trap is sprung ere the heart stops beating."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I lay there dismally calculating that sixteen entire hours must elapse before I could hope for a resurrection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass by.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass by.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There were more than two full hours yet to elapse before she could come, and in that interval, which seemed a long one, I must confess I was nervously anxious about my altered looks."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Sometimes twenty minutes elapse after the trap is sprung ere the heart stops beating."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I lay there dismally calculating that sixteen entire hours must elapse before I could hope for a resurrection."*

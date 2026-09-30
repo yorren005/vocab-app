@@ -5,13 +5,6 @@ status: unread
 ---
 # hierocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruling body composed of clergy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruling body composed of clergy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierocracy designates a ruling body composed of clergy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruling body composed of clergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruling body composed of clergy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierocracy designates a ruling body composed of clergy."*

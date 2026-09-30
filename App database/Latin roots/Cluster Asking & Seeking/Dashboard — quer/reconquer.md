@@ -5,15 +5,6 @@ status: unread
 ---
 # reconquer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conquer anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conquer anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not so soon relinquish the attempt to reconquer it."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Wert thou really ignorant of this?” said he; “didst thou not know that Wilfred of Ivanhoe travelled in the litter of the Jew?—a meet conveyance for the crusader, whose doughty arm was to reconquer the Holy Sepulchre!” And he laughed scornfully."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In this manner, after reconquering one house, we reconquered the next one, obliging the enemy to restrict themselves to their old positions, which were the first two houses of the Calle de Pabostre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conquer anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conquer anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not so soon relinquish the attempt to reconquer it."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Wert thou really ignorant of this?” said he; “didst thou not know that Wilfred of Ivanhoe travelled in the litter of the Jew?—a meet conveyance for the crusader, whose doughty arm was to reconquer the Holy Sepulchre!” And he laughed scornfully."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In this manner, after reconquering one house, we reconquered the next one, obliging the enemy to restrict themselves to their old positions, which were the first two houses of the Calle de Pabostre."*

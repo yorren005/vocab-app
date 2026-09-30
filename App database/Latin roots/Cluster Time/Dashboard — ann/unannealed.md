@@ -5,13 +5,6 @@ status: unread
 ---
 # unannealed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of metal or glass) not annealed and consequently easily cracked or fractured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of metal or glass) not annealed and consequently easily cracked or fractured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unannealed designates (of metal or glass) not annealed and consequently easily cracked or fractured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of metal or glass) not annealed and consequently easily cracked or fractured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of metal or glass) not annealed and consequently easily cracked or fractured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unannealed designates (of metal or glass) not annealed and consequently easily cracked or fractured."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rough to the touch; covered with scales or scurf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the body covered or partially covered with thin horny plates, as some fish and reptiles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A scaly gauntlet now with joints of steel Must glove this hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The legs of the fowls, too, are longer than could be desired, and extremely scaly."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"What matters it how far we go?” his scaly friend replied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rough to the touch; covered with scales or scurf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the body covered or partially covered with thin horny plates, as some fish and reptiles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A scaly gauntlet now with joints of steel Must glove this hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legs of the fowls, too, are longer than could be desired, and extremely scaly."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"What matters it how far we go?” his scaly friend replied."*

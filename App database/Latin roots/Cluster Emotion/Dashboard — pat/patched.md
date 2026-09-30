@@ -5,15 +5,6 @@ status: unread
 ---
 # patched
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To join or unite the pieces of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a patch; also used metaphorically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You praise yourself By laying defects of judgment to me; but You patched up your excuses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This must be patched With cloth of any colour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought I was, and methought I had—but man is but a patched fool if he will offer to say what methought I had."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To join or unite the pieces of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a patch; also used metaphorically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You praise yourself By laying defects of judgment to me; but You patched up your excuses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This must be patched With cloth of any colour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought I was, and methought I had—but man is but a patched fool if he will offer to say what methought I had."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # armagnac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dry brandy distilled in the armagnac district of france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry brandy distilled in the armagnac district of france.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles, A man of great authority in France, Proffers his only daughter to your Grace In marriage, with a large and sumptuous dowry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so the Earl of Armagnac may do, Because he is near kinsman unto Charles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dry brandy distilled in the armagnac district of france.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry brandy distilled in the armagnac district of france.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles, A man of great authority in France, Proffers his only daughter to your Grace In marriage, with a large and sumptuous dowry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so the Earl of Armagnac may do, Because he is near kinsman unto Charles."*

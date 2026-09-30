@@ -5,15 +5,6 @@ status: unread
 ---
 # economize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice economy : be frugal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To use frugally : save.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Their effects are least felt in the staple industries, for when hard times come people economize on the less essential things."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice economy : be frugal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To use frugally : save.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Their effects are least felt in the staple industries, for when hard times come people economize on the less essential things."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*

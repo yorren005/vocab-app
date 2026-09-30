@@ -5,15 +5,6 @@ status: unread
 ---
 # contort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twist and press out of shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist and press out of shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester at Thornfield Hall.” I saw a grim smile contort Mr."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Seventy times seven times didst thou gapingly contort thy visage—seventy times seven did I take counsel with my soul—Lo, this is human weakness: this also may be absolved!"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am not a fool," he hissed as his features contorted into waves of quivering fat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twist and press out of shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist and press out of shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester at Thornfield Hall.” I saw a grim smile contort Mr."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Seventy times seven times didst thou gapingly contort thy visage—seventy times seven did I take counsel with my soul—Lo, this is human weakness: this also may be absolved!"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am not a fool," he hissed as his features contorted into waves of quivering fat."*

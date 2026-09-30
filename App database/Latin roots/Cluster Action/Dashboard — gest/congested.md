@@ -5,15 +5,6 @@ status: unread
 ---
 # congested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become or cause to become obstructed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overfull as with blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In November, 1879, her physician had decided that tubercles had formed in the left lung, and that the right lung was much congested and hardened."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Is it so certain that a dense population congested in cities and crowded in factories and mines is a more ideal social aggregation than is a community of prosperous farmers?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf followed, his coarse features congested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become or cause to become obstructed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overfull as with blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In November, 1879, her physician had decided that tubercles had formed in the left lung, and that the right lung was much congested and hardened."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Is it so certain that a dense population congested in cities and crowded in factories and mines is a more ideal social aggregation than is a community of prosperous farmers?"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf followed, his coarse features congested."*

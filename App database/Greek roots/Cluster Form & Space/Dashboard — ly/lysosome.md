@@ -5,13 +5,6 @@ status: unread
 ---
 # lysosome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saclike cellular organelle that contains various hydrolytic enzymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saclike cellular organelle that contains various hydrolytic enzymes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysosome designates a saclike cellular organelle that contains various hydrolytic enzymes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saclike cellular organelle that contains various hydrolytic enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saclike cellular organelle that contains various hydrolytic enzymes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysosome designates a saclike cellular organelle that contains various hydrolytic enzymes."*

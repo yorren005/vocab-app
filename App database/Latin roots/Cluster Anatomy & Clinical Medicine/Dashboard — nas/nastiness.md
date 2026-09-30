@@ -5,14 +5,6 @@ status: unread
 ---
 # nastiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state characterized by foul or disgusting dirt and refuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malevolence by virtue of being malicious or spiteful or nasty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe always kept a supply of it in the cupboard; having a belief in its virtues correspondent to its nastiness."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once the weapons are assembled, installed and calibrated we could be on the receiving end of more nastiness." Leaning forward over the table, he looked directly at the President."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state characterized by foul or disgusting dirt and refuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malevolence by virtue of being malicious or spiteful or nasty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe always kept a supply of it in the cupboard; having a belief in its virtues correspondent to its nastiness."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once the weapons are assembled, installed and calibrated we could be on the receiving end of more nastiness." Leaning forward over the table, he looked directly at the President."*

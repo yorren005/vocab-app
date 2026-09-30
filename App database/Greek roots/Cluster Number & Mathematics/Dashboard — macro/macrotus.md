@@ -5,13 +5,6 @@ status: unread
 ---
 # macrotus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-eared greyish bat of southern california and northwestern mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large-eared greyish bat of southern california and northwestern mexico.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotus designates large-eared greyish bat of southern california and northwestern mexico."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-eared greyish bat of southern california and northwestern mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large-eared greyish bat of southern california and northwestern mexico.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotus designates large-eared greyish bat of southern california and northwestern mexico."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irresolutely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking determination or decisiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking determination or decisiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she brought her master his breakfast on Sunday, she stood irresolutely holding the doorknob in her hand."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The old count began irresolutely to admonish Nicholas and beg him to abandon his purpose."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He halted irresolutely, not knowing whether to return or go on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking determination or decisiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking determination or decisiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she brought her master his breakfast on Sunday, she stood irresolutely holding the doorknob in her hand."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The old count began irresolutely to admonish Nicholas and beg him to abandon his purpose."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He halted irresolutely, not knowing whether to return or go on."*

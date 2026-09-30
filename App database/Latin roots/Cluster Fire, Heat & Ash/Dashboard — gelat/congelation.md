@@ -5,15 +5,6 @@ status: unread
 ---
 # congelation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of congealing; solidification by (or as if by) freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of congealing; solidification by (or as if by) freezing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Do you not understand,” he replied, “that this congelation of water will help us?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The congelation gains on us on all sides.” “How long will the air in the reservoirs last for us to breathe on board?” The Captain looked in my face."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not jets of boiling water, constantly injected by the pumps, raise the temperature in this part and stay the congelation?” “Let us try it,” I said resolutely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of congealing; solidification by (or as if by) freezing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of congealing; solidification by (or as if by) freezing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Do you not understand,” he replied, “that this congelation of water will help us?"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The congelation gains on us on all sides.” “How long will the air in the reservoirs last for us to breathe on board?” The Captain looked in my face."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not jets of boiling water, constantly injected by the pumps, raise the temperature in this part and stay the congelation?” “Let us try it,” I said resolutely."*

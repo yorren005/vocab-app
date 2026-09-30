@@ -5,13 +5,6 @@ status: unread
 ---
 # amphigory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsensical writing (usually verse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsensical writing (usually verse).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphigory designates nonsensical writing (usually verse)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsensical writing (usually verse).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsensical writing (usually verse).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphigory designates nonsensical writing (usually verse)."*

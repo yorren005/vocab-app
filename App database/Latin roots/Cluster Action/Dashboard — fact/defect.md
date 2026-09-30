@@ -5,15 +5,6 @@ status: unread
 ---
 # defect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imperfection in a bodily system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failing or deficiency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being scarce made up, I mean to man, he had not apprehension Or roaring terrors; for defect of judgement Is oft the cease of fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imperfection in a bodily system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failing or deficiency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being scarce made up, I mean to man, he had not apprehension Or roaring terrors; for defect of judgement Is oft the cease of fear."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # streptothricin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic antibiotic derived from a soil actinomycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic antibiotic derived from a soil actinomycete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptothricin designates a basic antibiotic derived from a soil actinomycete."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic antibiotic derived from a soil actinomycete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic antibiotic derived from a soil actinomycete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptothricin designates a basic antibiotic derived from a soil actinomycete."*

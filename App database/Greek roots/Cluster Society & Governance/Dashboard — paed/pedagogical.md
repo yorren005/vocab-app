@@ -5,13 +5,6 @@ status: unread
 ---
 # pedagogical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pedagogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pedagogy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I felt that if I stood there talking with the Crag any longer, I might grow pedagogical and teach him a few things so I sent him home across the road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pedagogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pedagogy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I felt that if I stood there talking with the Crag any longer, I might grow pedagogical and teach him a few things so I sent him home across the road."*

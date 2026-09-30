@@ -5,13 +5,6 @@ status: unread
 ---
 # neotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neotype designates a type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neotype designates a type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed."*

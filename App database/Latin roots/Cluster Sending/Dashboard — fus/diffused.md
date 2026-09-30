@@ -5,15 +5,6 @@ status: unread
 ---
 # diffused
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon a sudden, As Falstaff, she, and I are newly met, Let them from forth a sawpit rush at once With some diffused song; upon their sight We two in great amazedness will fly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vouchsafe, diffused infection of a man, Of these known evils but to give me leave, By circumstance, to accuse thy cursed self."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though the sky was dense with cloud, a diffused light from some fragment of a moon had hitherto helped them a little."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon a sudden, As Falstaff, she, and I are newly met, Let them from forth a sawpit rush at once With some diffused song; upon their sight We two in great amazedness will fly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vouchsafe, diffused infection of a man, Of these known evils but to give me leave, By circumstance, to accuse thy cursed self."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though the sky was dense with cloud, a diffused light from some fragment of a moon had hitherto helped them a little."*

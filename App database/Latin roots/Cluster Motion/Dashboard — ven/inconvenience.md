@@ -5,15 +5,6 @@ status: unread
 ---
 # inconvenience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inconvenient discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficulty that causes anxiety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To intercept this inconvenience, A piece of ordnance ’gainst it I have placed And even these three days have I watch’d, If I could see them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well, that rather alters the case, because I had no idea that they thought so, and I should not have liked to disappoint or inconvenience them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have a Ramification meeting, too, on Wednesday afternoon, and the inconvenience is very serious.” “It is not likely to occur again,” said I, smiling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inconvenient discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficulty that causes anxiety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To intercept this inconvenience, A piece of ordnance ’gainst it I have placed And even these three days have I watch’d, If I could see them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Well, that rather alters the case, because I had no idea that they thought so, and I should not have liked to disappoint or inconvenience them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have a Ramification meeting, too, on Wednesday afternoon, and the inconvenience is very serious.” “It is not likely to occur again,” said I, smiling."*

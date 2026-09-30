@@ -5,13 +5,6 @@ status: unread
 ---
 # probenecid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A uricosuric drug that reduces the level of uric acid in the blood; used to treat gout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uricosuric drug that reduces the level of uric acid in the blood; used to treat gout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probenecid designates a uricosuric drug that reduces the level of uric acid in the blood; used to treat gout."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A uricosuric drug that reduces the level of uric acid in the blood; used to treat gout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uricosuric drug that reduces the level of uric acid in the blood; used to treat gout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probenecid designates a uricosuric drug that reduces the level of uric acid in the blood; used to treat gout."*

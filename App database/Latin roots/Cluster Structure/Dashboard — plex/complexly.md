@@ -5,14 +5,6 @@ status: unread
 ---
 # complexly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a complex manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a complex manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The purpose of the present volume is to afford some aid and guidance in the study of Robert Browning’s Poetry, which, being the most complexly subjective of all English poetry, is, for that reason alone, the most difficult."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The human soul is regarded in Browning’s poetry as a complexly organized, individualized divine force, destined to gravitate towards the Infinite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a complex manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a complex manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The purpose of the present volume is to afford some aid and guidance in the study of Robert Browning’s Poetry, which, being the most complexly subjective of all English poetry, is, for that reason alone, the most difficult."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The human soul is regarded in Browning’s poetry as a complexly organized, individualized divine force, destined to gravitate towards the Infinite."*

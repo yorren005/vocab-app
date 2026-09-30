@@ -5,15 +5,6 @@ status: unread
 ---
 # inadequacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of an adequate quantity or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of competence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One source of her inadequacy is the novelty of the occasion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know my Leader: that He is just as well as mighty; and while He has chosen a feeble instrument to perform a great task, He will, from the boundless stores of His providence, supply the inadequacy of the means to the end."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I tried myself to use one or other of these words, but the oftener I employed them the more I felt their inadequacy, and was driven at last to adopt ..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of an adequate quantity or number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of competence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One source of her inadequacy is the novelty of the occasion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know my Leader: that He is just as well as mighty; and while He has chosen a feeble instrument to perform a great task, He will, from the boundless stores of His providence, supply the inadequacy of the means to the end."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"I tried myself to use one or other of these words, but the oftener I employed them the more I felt their inadequacy, and was driven at last to adopt ..."*

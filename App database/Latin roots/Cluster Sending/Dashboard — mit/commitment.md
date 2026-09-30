@@ -5,15 +5,6 @@ status: unread
 ---
 # commitment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of sincere and steadfast fixity of purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of binding yourself (intellectually or emotionally) to a course of action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The awful discretion which a court of impeachments must necessarily have, to doom to honor or to infamy the most confidential and the most distinguished characters of the community, forbids the commitment of the trust to a small number of persons."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You know your commitment period."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of sincere and steadfast fixity of purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of binding yourself (intellectually or emotionally) to a course of action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The awful discretion which a court of impeachments must necessarily have, to doom to honor or to infamy the most confidential and the most distinguished characters of the community, forbids the commitment of the trust to a small number of persons."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You know your commitment period."*

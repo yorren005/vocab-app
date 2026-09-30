@@ -5,13 +5,6 @@ status: unread
 ---
 # benelux
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A customs union comprising belgium and netherlands and luxembourg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customs union comprising belgium and netherlands and luxembourg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Twenty-first, the establishment of summer schools in each of the Scandinavian and Benelux countries, as well as those of the Iberian Peninsula."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A customs union comprising belgium and netherlands and luxembourg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customs union comprising belgium and netherlands and luxembourg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Twenty-first, the establishment of summer schools in each of the Scandinavian and Benelux countries, as well as those of the Iberian Peninsula."*

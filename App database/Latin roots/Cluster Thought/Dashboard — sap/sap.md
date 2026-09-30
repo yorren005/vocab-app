@@ -5,15 +5,6 @@ status: unread
 ---
 # sap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lacks good judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come on, my queen, There’s sap in’t yet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though now this grained face of mine be hid In sap-consuming winter’s drizzled snow, And all the conduits of my blood froze up, Yet hath my night of life some memory, My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lacks good judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come on, my queen, There’s sap in’t yet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though now this grained face of mine be hid In sap-consuming winter’s drizzled snow, And all the conduits of my blood froze up, Yet hath my night of life some memory, My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear."*

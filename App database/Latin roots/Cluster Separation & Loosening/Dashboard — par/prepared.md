@@ -5,15 +5,6 @@ status: unread
 ---
 # prepared
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make ready or suitable or equip in advance for a particular purpose or for some use, event, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for eating by applying heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quarrel no more, but be prepared to know The purposes I bear; which are, or cease, As you shall give th’ advice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, then, I came before you here a man prepared To take this offer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go make thee ready; Our letters are prepared. [_Exit Messenger._] CHARMIAN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make ready or suitable or equip in advance for a particular purpose or for some use, event, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for eating by applying heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quarrel no more, but be prepared to know The purposes I bear; which are, or cease, As you shall give th’ advice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, then, I came before you here a man prepared To take this offer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go make thee ready; Our letters are prepared. [_Exit Messenger._] CHARMIAN."*

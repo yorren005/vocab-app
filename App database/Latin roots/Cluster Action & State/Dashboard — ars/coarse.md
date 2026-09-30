@@ -5,15 +5,6 @@ status: unread
 ---
 # coarse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of textures that are rough to the touch or substances consisting of relatively large particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking refinement or cultivation or taste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I feel Of what coarse metal ye are moulded, envy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have nothing But this poor petticoat, and two coarse smocks."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought it very touching to see these two women, coarse and shabby and beaten, so united; to see what they could be to one another; to see how they felt for one another, how the heart of each to each was softened by the hard trials of their lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of textures that are rough to the touch or substances consisting of relatively large particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking refinement or cultivation or taste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I feel Of what coarse metal ye are moulded, envy!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have nothing But this poor petticoat, and two coarse smocks."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I thought it very touching to see these two women, coarse and shabby and beaten, so united; to see what they could be to one another; to see how they felt for one another, how the heart of each to each was softened by the hard trials of their lives."*

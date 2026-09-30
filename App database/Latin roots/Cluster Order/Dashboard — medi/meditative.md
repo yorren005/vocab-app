@@ -5,15 +5,6 @@ status: unread
 ---
 # meditative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply or seriously thoughtful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His eyes were more meditative, and his expression was more sad."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this meditative walk his foot met the floor with heel and toe simultaneously, and his fine reddish-fleshed face was bent downwards just enough to render obscure the still mouth and the well-rounded though rather prominent and broad chin."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, who had begun to be alarmingly meditative, had to employ herself actively in getting the gin, the hot water, the sugar, and the lemon-peel, and mixing them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply or seriously thoughtful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His eyes were more meditative, and his expression was more sad."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this meditative walk his foot met the floor with heel and toe simultaneously, and his fine reddish-fleshed face was bent downwards just enough to render obscure the still mouth and the well-rounded though rather prominent and broad chin."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, who had begun to be alarmingly meditative, had to employ herself actively in getting the gin, the hot water, the sugar, and the lemon-peel, and mixing them."*

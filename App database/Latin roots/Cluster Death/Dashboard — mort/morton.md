@@ -5,15 +5,6 @@ status: unread
 ---
 # morton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jazz musician who moved from ragtime to new orleans jazz (1885-1941).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jazz musician who moved from ragtime to new orleans jazz (1885-1941).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TRAVERS and MORTON, retainers of Northumberland."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, Morton, didst thou come from Shrewsbury?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet speak, Morton; Tell thou an earl his divination lies, And I will take it as a sweet disgrace And make thee rich for doing me such wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jazz musician who moved from ragtime to new orleans jazz (1885-1941).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jazz musician who moved from ragtime to new orleans jazz (1885-1941).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TRAVERS and MORTON, retainers of Northumberland."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, Morton, didst thou come from Shrewsbury?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet speak, Morton; Tell thou an earl his divination lies, And I will take it as a sweet disgrace And make thee rich for doing me such wrong."*

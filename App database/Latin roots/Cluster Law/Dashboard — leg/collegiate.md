@@ -5,15 +5,6 @@ status: unread
 ---
 # collegiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling or typical of a college or college students.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling or typical of a college or college students.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This church before the Reformation had collegiate rank, and is now the sole remaining relic of the ancient village of Dunglass."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The young man recovered, pursued a collegiate and theological course, and still lives and labors as a most devoted and useful Christian pioneer."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"Men are not accepted in the business world upon their collegiate diplomas, nor on the knowledge these imply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling or typical of a college or college students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling or typical of a college or college students.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This church before the Reformation had collegiate rank, and is now the sole remaining relic of the ancient village of Dunglass."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The young man recovered, pursued a collegiate and theological course, and still lives and labors as a most devoted and useful Christian pioneer."*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"Men are not accepted in the business world upon their collegiate diplomas, nor on the knowledge these imply."*

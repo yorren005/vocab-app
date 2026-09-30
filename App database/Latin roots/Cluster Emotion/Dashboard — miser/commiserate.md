@@ -5,15 +5,6 @@ status: unread
 ---
 # commiserate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express sympathy or compassion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel or express sympathy or compassion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What good mother is there that would not commiserate a penniless spinster, who might have been my lady, and have shared four thousand a year?"*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"Listen to my tale; when you have heard that, abandon or commiserate me, as you shall judge that I deserve."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She remained there at least an hour, in the greatest agitation, deeply commiserating the state of her poor friend, and expecting a summons herself from the angry General to attend him in his own apartment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express sympathy or compassion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel or express sympathy or compassion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What good mother is there that would not commiserate a penniless spinster, who might have been my lady, and have shared four thousand a year?"*
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"Listen to my tale; when you have heard that, abandon or commiserate me, as you shall judge that I deserve."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She remained there at least an hour, in the greatest agitation, deeply commiserating the state of her poor friend, and expecting a summons herself from the angry General to attend him in his own apartment."*

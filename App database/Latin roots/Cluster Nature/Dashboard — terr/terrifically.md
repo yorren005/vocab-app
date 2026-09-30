@@ -5,14 +5,6 @@ status: unread
 ---
 # terrifically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used as an intensifier) extremely well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as an intensifier) extremely well.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle finished off with a most terrifically snarling passage from Richard the Third, and seemed to think he had done quite enough to account for it when he added, “—as the poet says.” And here I may remark that when Mr."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"It is a scene terrifically desolate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used as an intensifier) extremely well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as an intensifier) extremely well.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle finished off with a most terrifically snarling passage from Richard the Third, and seemed to think he had done quite enough to account for it when he added, “—as the poet says.” And here I may remark that when Mr."*
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"It is a scene terrifically desolate."*

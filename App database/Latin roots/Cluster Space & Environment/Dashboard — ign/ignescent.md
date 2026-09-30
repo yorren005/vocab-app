@@ -5,13 +5,6 @@ status: unread
 ---
 # ignescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Can emit sparks or burst into flame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can emit sparks or burst into flame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignescent designates can emit sparks or burst into flame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Can emit sparks or burst into flame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can emit sparks or burst into flame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignescent designates can emit sparks or burst into flame."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # drowse
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Be inactive
-> 2. **Nuance / Usage**: Make drowsy or inactive
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to drowse the target*) and intransitive clauses (*drowsing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Marsha Ward (*The Man from Shenandoah*):** *"Ida had kept him awake while he drowsed his way up the old King's Trace in eastern Missouri, feverish and weak."*
-> - 📜 **Sarah Mayberry (*Cruise Control*):** *"They were led into a large, attractive room with twin massage beds, and welcomed by their masseurs—in Balinese tradition, he had a male masseur, Anna a female. He drowsed his way through the first half hour of the treatment, {{..."*
-> - 📜 **Melville Bell Grosvenor (*Homeward with [[Odysseus*):** *"Now summer was nearing its end as White Mist motored up Corfu's east coast. In August the cicadas chorused, and the dusty olive trees drowsed in the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To be half-asleep, heavy-lidded, and sluggish; to rest in a state between waking and sleeping.
+> 2. **Nuance / Usage**: Used poetically for landscapes, afternoons, or nature basking in quiet, sleepy stillness under warm sunlight.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to drowse the target*) and intransitive clauses (*drowsing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*To Autumn*):** *"Drows'd with the fume of poppies, while thy hook spares the next swath and all its twined flowers, she **drowses** amid the harvest."*
+> - 📜 **William Shakespeare (*King Henry IV, Part 1*):** *"Good things of day begin to droop and **drowse**, whiles night's black agents to their preys do rouse."*
+> - 📜 **Melville Bell Grosvenor (*National Geographic*):** *"In August the cicadas chorused, and the dusty olive trees **drowsed** in the sun."*

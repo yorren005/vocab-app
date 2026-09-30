@@ -5,15 +5,6 @@ status: unread
 ---
 # roguishness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of indulging in disreputable pranks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This particular sea-cuny, I admit, blushed through his sea tan till the Lady Om’s eyes were twin pools of roguishness in their teasing deliciousness and my arms were all but about her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Altogether, my experience is rather mixed.” Mary looked up with some roguishness at Fred, and that look of hers was very dear to him, though the eyes were nothing more than clear windows where observation sat laughingly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Then there was nobody but me for Sir James to talk to,” said Celia, with a certain roguishness in her eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of indulging in disreputable pranks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This particular sea-cuny, I admit, blushed through his sea tan till the Lady Om’s eyes were twin pools of roguishness in their teasing deliciousness and my arms were all but about her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Altogether, my experience is rather mixed.” Mary looked up with some roguishness at Fred, and that look of hers was very dear to him, though the eyes were nothing more than clear windows where observation sat laughingly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Then there was nobody but me for Sir James to talk to,” said Celia, with a certain roguishness in her eyes."*

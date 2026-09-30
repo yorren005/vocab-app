@@ -5,13 +5,6 @@ status: unread
 ---
 # scleroderma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleroderma designates a usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleroderma designates a usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures."*

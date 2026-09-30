@@ -5,15 +5,6 @@ status: unread
 ---
 # effortless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring or apparently requiring no effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not showing effort or strain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The maids’ private aims, however, were the reverse of the dairyman’s rule, the daily selection by each damsel of the eight or ten cows to which she had grown accustomed rendering the operation on their willing udders surprisingly easy and effortless."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Self-abandoned, relaxed, and effortless, I seemed to have laid me down in the dried-up bed of a great river; I heard a flood loosened in remote mountains, and felt the torrent come: to rise I had no will, to flee I had no strength."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Seems a shame, doesn't it?" returned Bendish, taking the point with that rapid effortless readiness of his class which made him more soothing to Val than many a cleverer man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring or apparently requiring no effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not showing effort or strain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The maids’ private aims, however, were the reverse of the dairyman’s rule, the daily selection by each damsel of the eight or ten cows to which she had grown accustomed rendering the operation on their willing udders surprisingly easy and effortless."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Self-abandoned, relaxed, and effortless, I seemed to have laid me down in the dried-up bed of a great river; I heard a flood loosened in remote mountains, and felt the torrent come: to rise I had no will, to flee I had no strength."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Seems a shame, doesn't it?" returned Bendish, taking the point with that rapid effortless readiness of his class which made him more soothing to Val than many a cleverer man."*

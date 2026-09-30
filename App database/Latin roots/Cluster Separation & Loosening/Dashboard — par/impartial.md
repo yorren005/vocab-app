@@ -5,15 +5,6 @@ status: unread
 ---
 # impartial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of favoritism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from undue bias or preconceived opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Princes, what I did I did in honour, Led by th’ impartial conduct of my soul; And never shall you see that I will beg A ragged and forestall’d remission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give us some seats.—Come, cousin Angelo, In this I’ll be impartial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mowbray, impartial are our eyes and ears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of favoritism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from undue bias or preconceived opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Princes, what I did I did in honour, Led by th’ impartial conduct of my soul; And never shall you see that I will beg A ragged and forestall’d remission."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give us some seats.—Come, cousin Angelo, In this I’ll be impartial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mowbray, impartial are our eyes and ears."*

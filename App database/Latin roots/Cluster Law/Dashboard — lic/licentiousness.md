@@ -5,15 +5,6 @@ status: unread
 ---
 # licentiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lewd and lascivious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissolute indulgence in sensual pleasure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"WILL THE LORD DELIVER FROM BAD HABITS OF TOBACCO, RUM, LIQUOR, LICENTIOUSNESS, ETC., IN ANSWER TO PRAYER."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He had acquired the habit of using large quantities of whiskey and brandy, and withal more or less given to licentiousness."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A victim of licentiousness and sensuousness, who often, amid his sinful pleasures, had the memory of Christian parents before him, felt his was indeed a life of shame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lewd and lascivious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissolute indulgence in sensual pleasure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"WILL THE LORD DELIVER FROM BAD HABITS OF TOBACCO, RUM, LIQUOR, LICENTIOUSNESS, ETC., IN ANSWER TO PRAYER."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He had acquired the habit of using large quantities of whiskey and brandy, and withal more or less given to licentiousness."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A victim of licentiousness and sensuousness, who often, amid his sinful pleasures, had the memory of Christian parents before him, felt his was indeed a life of shame."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that people do or cause to happen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou proceed As high as word, my deed shall match thy deed. [_Flourish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, do you think he will make no deed at all of this, that so seriously he does address himself unto?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that people do or cause to happen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou proceed As high as word, my deed shall match thy deed. [_Flourish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, do you think he will make no deed at all of this, that so seriously he does address himself unto?"*

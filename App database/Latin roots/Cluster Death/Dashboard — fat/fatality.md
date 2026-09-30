@@ -5,15 +5,6 @@ status: unread
 ---
 # fatality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A death resulting from an accident or a disaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being able to cause death or fatal disasters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yes, that was ever the hour of fatality at Thornfield."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"They did not understand his ideas, either for the nation or for the individual; God's plans miscarried with such fatality."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Everything that had happened to him there seemed a mere preparation for this hateful fatality, which had come as a blight on his honorable ambition, and must make even people who had only vulgar standards regard his reputation as irrevocably damaged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A death resulting from an accident or a disaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being able to cause death or fatal disasters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yes, that was ever the hour of fatality at Thornfield."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"They did not understand his ideas, either for the nation or for the individual; God's plans miscarried with such fatality."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Everything that had happened to him there seemed a mere preparation for this hateful fatality, which had come as a blight on his honorable ambition, and must make even people who had only vulgar standards regard his reputation as irrevocably damaged."*

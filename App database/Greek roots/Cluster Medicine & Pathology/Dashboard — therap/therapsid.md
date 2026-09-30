@@ -5,13 +5,6 @@ status: unread
 ---
 # therapsid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsid designates any of an order (therapsida) of advanced synapsid vertebrates that flourished during the permian and triassic periods with the last forms becoming extinct during the cretaceous period and that are considered ancestors of the mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsid designates any of an order (therapsida) of advanced synapsid vertebrates that flourished during the permian and triassic periods with the last forms becoming extinct during the cretaceous period and that are considered ancestors of the mammals."*

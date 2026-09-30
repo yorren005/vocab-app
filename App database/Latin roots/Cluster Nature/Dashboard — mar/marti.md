@@ -5,15 +5,6 @@ status: unread
 ---
 # marti
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cuban poet and revolutionary who fought for cuban independence from spain (1853-1895).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cuban poet and revolutionary who fought for cuban independence from spain (1853-1895).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"While traversing the site of the theater of old Saguntum, he alighted upon this man, seated on a stone, and deeply engaged in perusing the work of the deacon Marti."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This one thing is peculiar to the cephalica: if it project a cleft or a manifest star, upwards to the cavea martis, it signifies boldness, &c."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"X.--OF THE VIA MARTIS, THE WAY OR LINE OF MARS, OR THE VITAL SISTER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cuban poet and revolutionary who fought for cuban independence from spain (1853-1895).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cuban poet and revolutionary who fought for cuban independence from spain (1853-1895).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"While traversing the site of the theater of old Saguntum, he alighted upon this man, seated on a stone, and deeply engaged in perusing the work of the deacon Marti."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This one thing is peculiar to the cephalica: if it project a cleft or a manifest star, upwards to the cavea martis, it signifies boldness, &c."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"X.--OF THE VIA MARTIS, THE WAY OR LINE OF MARS, OR THE VITAL SISTER."*

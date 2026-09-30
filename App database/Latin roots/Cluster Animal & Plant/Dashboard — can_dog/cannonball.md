@@ -5,13 +5,6 @@ status: unread
 ---
 # cannonball
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid projectile that in former times was fired from a cannon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid projectile that in former times was fired from a cannon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In the course of the argument cannonballs, scimitars, boomerangs, blunderbusses, stinkpots, meatchoppers, umbrellas, catapults, knuckledusters, sandbags, lumps of pig iron were resorted to and blows were freely exchanged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid projectile that in former times was fired from a cannon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid projectile that in former times was fired from a cannon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In the course of the argument cannonballs, scimitars, boomerangs, blunderbusses, stinkpots, meatchoppers, umbrellas, catapults, knuckledusters, sandbags, lumps of pig iron were resorted to and blows were freely exchanged."*

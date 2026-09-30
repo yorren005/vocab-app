@@ -5,13 +5,6 @@ status: unread
 ---
 # coelostat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelostat designates optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelostat designates optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror."*

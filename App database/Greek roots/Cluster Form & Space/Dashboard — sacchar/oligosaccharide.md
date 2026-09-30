@@ -5,13 +5,6 @@ status: unread
 ---
 # oligosaccharide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saccharide that contains usually three to ten monosaccharide units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saccharide that contains usually three to ten monosaccharide units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligosaccharide designates a saccharide that contains usually three to ten monosaccharide units."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saccharide that contains usually three to ten monosaccharide units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saccharide that contains usually three to ten monosaccharide units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligosaccharide designates a saccharide that contains usually three to ten monosaccharide units."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plumbaginaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbaginaceae designates perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbaginaceae designates perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas."*

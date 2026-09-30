@@ -5,15 +5,6 @@ status: unread
 ---
 # recollection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to recall past occurrences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of remembering (especially the process of recovering information by mental effort).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The recollection of them, he said, would go with him wherever he went and would be always treasured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to aim!” Phil gives a howl at the recollection."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, pausing with a frown in stroking the recollection of his moustache."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to recall past occurrences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of remembering (especially the process of recovering information by mental effort).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The recollection of them, he said, would go with him wherever he went and would be always treasured."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As to aim!” Phil gives a howl at the recollection."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, pausing with a frown in stroking the recollection of his moustache."*

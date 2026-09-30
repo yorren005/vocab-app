@@ -5,13 +5,6 @@ status: unread
 ---
 # co-option
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The selection of a new member (usually by a vote of the existing membership).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of appointing summarily (with or without the appointee's consent).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-option designates the selection of a new member (usually by a vote of the existing membership)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The selection of a new member (usually by a vote of the existing membership).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of appointing summarily (with or without the appointee's consent).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-option designates the selection of a new member (usually by a vote of the existing membership)."*

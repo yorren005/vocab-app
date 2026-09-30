@@ -5,13 +5,6 @@ status: unread
 ---
 # tortuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With twists and turns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tortuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the cunning men took the land and the waters and the light, and worked tortuously until they could sell them at a price...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With twists and turns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tortuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the cunning men took the land and the waters and the light, and worked tortuously until they could sell them at a price...."*

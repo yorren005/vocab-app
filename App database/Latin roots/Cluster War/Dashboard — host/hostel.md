@@ -5,15 +5,6 @@ status: unread
 ---
 # hostel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel providing overnight lodging for travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexpensive supervised lodging (especially for youths on bicycling trips).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He turned the horse’s head to the green bank, and entered the hostel for a mug of ale."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Every house in Mozháysk had soldiers quartered in it, and at the hostel where Pierre was met by his groom and coachman there was no room to be had."*
-> - 📜 **Algis Budrys (*Citadel*):** *"What's Dalish ud Klavan doing?" "His residence is the Solar Hostel, sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel providing overnight lodging for travelers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexpensive supervised lodging (especially for youths on bicycling trips).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He turned the horse’s head to the green bank, and entered the hostel for a mug of ale."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Every house in Mozháysk had soldiers quartered in it, and at the hostel where Pierre was met by his groom and coachman there was no room to be had."*
+> - 📜 **Algis Budrys (*Citadel*):** *"What's Dalish ud Klavan doing?" "His residence is the Solar Hostel, sir."*

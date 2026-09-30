@@ -5,15 +5,6 @@ status: unread
 ---
 # superiority
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being superior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being at a competitive advantage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes!” With her air of superiority, and power, and fascination, and I know not what, she seemed to regard Ada and me as little more than children."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The two families had always been on excellent terms, there being no pride on one side, and no envy on the other, and only such a consciousness of superiority in the Miss Musgroves, as made them pleased to improve their cousins."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There was no superiority of manner, accomplishment, or understanding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being superior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being at a competitive advantage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yes!” With her air of superiority, and power, and fascination, and I know not what, she seemed to regard Ada and me as little more than children."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The two families had always been on excellent terms, there being no pride on one side, and no envy on the other, and only such a consciousness of superiority in the Miss Musgroves, as made them pleased to improve their cousins."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There was no superiority of manner, accomplishment, or understanding."*

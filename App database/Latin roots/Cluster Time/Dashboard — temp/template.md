@@ -5,13 +5,6 @@ status: unread
 ---
 # template
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A model or standard for making comparisons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A model or standard for making comparisons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, template designates a model or standard for making comparisons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A model or standard for making comparisons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A model or standard for making comparisons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, template designates a model or standard for making comparisons."*

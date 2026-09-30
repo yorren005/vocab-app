@@ -5,13 +5,6 @@ status: unread
 ---
 # coursework
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coursework designates work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coursework designates work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unlicensed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking official approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking official approval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If further yet you will be satisfied, Why, as it were unlicensed of your loves, He would depart, I’ll give some light unto you."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Nature had contributed lavishly, but when man came he brought with him the defects of humanity and painted the fair location with the blackness of unlicensed vice, filling the Eden of beauty with the blight of Sodom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking official approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking official approval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If further yet you will be satisfied, Why, as it were unlicensed of your loves, He would depart, I’ll give some light unto you."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Nature had contributed lavishly, but when man came he brought with him the defects of humanity and painted the fair location with the blackness of unlicensed vice, filling the Eden of beauty with the blight of Sodom."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # spasmolytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or having the power to relieve spasms or convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to relieve spasms or convulsions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spasmolytic designates tending or having the power to relieve spasms or convulsions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or having the power to relieve spasms or convulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to relieve spasms or convulsions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spasmolytic designates tending or having the power to relieve spasms or convulsions."*

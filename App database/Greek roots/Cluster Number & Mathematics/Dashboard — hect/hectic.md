@@ -5,15 +5,6 @@ status: unread
 ---
 # hectic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by intense agitation or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by intense agitation or emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it, England; For like the hectic in my blood he rages, And thou must cure me."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph perceived it, and with hectic cheeks of indignation instantly ceased singing."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Hectic spots of red burned on his cheeks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by intense agitation or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by intense agitation or emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it, England; For like the hectic in my blood he rages, And thou must cure me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph perceived it, and with hectic cheeks of indignation instantly ceased singing."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Hectic spots of red burned on his cheeks."*

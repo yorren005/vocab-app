@@ -5,15 +5,6 @@ status: unread
 ---
 # rubbing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The resistance encountered when one body is moved in contact with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representation consisting of a copy (as of an engraving) made by laying paper over something and rubbing it with charcoal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks.—What’s the matter, you dissentious rogues, That, rubbing the poor itch of your opinion, Make yourselves scabs?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, dear me, what’s this, what’s this!” he said, rubbing his head and walking about with his good-humoured vexation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The resistance encountered when one body is moved in contact with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representation consisting of a copy (as of an engraving) made by laying paper over something and rubbing it with charcoal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks.—What’s the matter, you dissentious rogues, That, rubbing the poor itch of your opinion, Make yourselves scabs?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, dear me, what’s this, what’s this!” he said, rubbing his head and walking about with his good-humoured vexation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*

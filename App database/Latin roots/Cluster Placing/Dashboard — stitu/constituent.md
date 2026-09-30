@@ -5,15 +5,6 @@ status: unread
 ---
 # constituent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a constituency; a citizen who is represented in a government by officials for whom he or she votes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This dependence, and the necessity of being bound himself, and his posterity, by the laws to which he gives his assent, are the true, and they are the strong chords of sympathy between the representative and the constituent."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The State governments may be regarded as constituent and essential parts of the federal government; whilst the latter is nowise essential to the operation or organization of the former."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The qualified negative of the President differs widely from this absolute negative of the British sovereign; and tallies exactly with the revisionary authority of the council of revision of this State, of which the governor is a constituent part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a constituency; a citizen who is represented in a government by officials for whom he or she votes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This dependence, and the necessity of being bound himself, and his posterity, by the laws to which he gives his assent, are the true, and they are the strong chords of sympathy between the representative and the constituent."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The State governments may be regarded as constituent and essential parts of the federal government; whilst the latter is nowise essential to the operation or organization of the former."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The qualified negative of the President differs widely from this absolute negative of the British sovereign; and tallies exactly with the revisionary authority of the council of revision of this State, of which the governor is a constituent part."*

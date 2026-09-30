@@ -5,13 +5,6 @@ status: unread
 ---
 # heparin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heparin designates a mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heparin designates a mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt."*

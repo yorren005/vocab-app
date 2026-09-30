@@ -5,13 +5,6 @@ status: unread
 ---
 # insanitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanitary or healthful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sanitary or healthful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insanitary designates not sanitary or healthful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanitary or healthful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sanitary or healthful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insanitary designates not sanitary or healthful."*

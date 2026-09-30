@@ -5,15 +5,6 @@ status: unread
 ---
 # staining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (histology) the use of a dye to color specimens for microscopic study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spotting or staining something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"That trick of staining the fishes’ scales of a delicate pink is quite peculiar to China."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"And how charming he had been at dinner the night before, as with startled eyes and lips parted in frightened pleasure he had sat opposite to him at the club, the red candleshades staining to a richer rose the wakening wonder of his face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (histology) the use of a dye to color specimens for microscopic study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spotting or staining something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"That trick of staining the fishes’ scales of a delicate pink is quite peculiar to China."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"And how charming he had been at dinner the night before, as with startled eyes and lips parted in frightened pleasure he had sat opposite to him at the club, the red candleshades staining to a richer rose the wakening wonder of his face."*

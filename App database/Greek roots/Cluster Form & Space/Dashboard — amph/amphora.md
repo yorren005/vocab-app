@@ -5,15 +5,6 @@ status: unread
 ---
 # amphora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient jar with two handles and a narrow neck; used to hold oil or wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient jar with two handles and a narrow neck; used to hold oil or wine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 2.--Amphora of light coloured pottery with splashed glaze."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 2.--Amphora of light coloured pottery with splashed glaze."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Height 19¾ inches. _Rothenstein Collection._ Fig. 2.--Sepulchral Amphora, hard white ware with greenish white glaze, serpent handles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient jar with two handles and a narrow neck; used to hold oil or wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient jar with two handles and a narrow neck; used to hold oil or wine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 2.--Amphora of light coloured pottery with splashed glaze."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 2.--Amphora of light coloured pottery with splashed glaze."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Height 19¾ inches. _Rothenstein Collection._ Fig. 2.--Sepulchral Amphora, hard white ware with greenish white glaze, serpent handles."*

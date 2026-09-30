@@ -5,13 +5,6 @@ status: unread
 ---
 # theobromine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter alkaloid C7H8N4O2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter alkaloid C7H8N4O2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theobromine designates a bitter alkaloid c7h8n4o2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter alkaloid C7H8N4O2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter alkaloid C7H8N4O2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theobromine designates a bitter alkaloid c7h8n4o2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # respective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered individually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered individually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good den, Sir Richard!” “God-a-mercy, fellow!” And if his name be George, I’ll call him Peter; For new-made honour doth forget men’s names: ’Tis too respective and too sociable For your conversion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though not for me, yet for your vehement oaths, You should have been respective and have kept it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away to heaven respective lenity, And fire-ey’d fury be my conduct now!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered individually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered individually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good den, Sir Richard!” “God-a-mercy, fellow!” And if his name be George, I’ll call him Peter; For new-made honour doth forget men’s names: ’Tis too respective and too sociable For your conversion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though not for me, yet for your vehement oaths, You should have been respective and have kept it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away to heaven respective lenity, And fire-ey’d fury be my conduct now!"*

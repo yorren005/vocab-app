@@ -5,13 +5,6 @@ status: unread
 ---
 # unserviceable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ready for service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being used.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ready for service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being used.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*

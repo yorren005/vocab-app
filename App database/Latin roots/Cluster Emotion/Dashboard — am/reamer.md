@@ -5,13 +5,6 @@ status: unread
 ---
 # reamer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeezer with a conical ridged center that is used for squeezing juice from citrus fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drill that is used to shape or enlarge holes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reamer designates a squeezer with a conical ridged center that is used for squeezing juice from citrus fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeezer with a conical ridged center that is used for squeezing juice from citrus fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drill that is used to shape or enlarge holes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reamer designates a squeezer with a conical ridged center that is used for squeezing juice from citrus fruit."*

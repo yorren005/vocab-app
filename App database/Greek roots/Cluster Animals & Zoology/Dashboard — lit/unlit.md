@@ -5,15 +5,6 @@ status: unread
 ---
 # unlit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not set afire or burning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without illumination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Here, too, there was not a soul to be seen: a kettle was furiously boiling over on the hob, a gas ring was running to waste near by, turned on but left unlit and volleying evil fumes."*
-> - 📜 **James Joyce (*Ulysses*):** *"He sat on a corner of the unlit desk, reading aloud joyfully: —_The sentimentalist is he who would enjoy without incurring the immense debtorship for a thing done._ Signed: Dedalus."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They were on the two sides of a bridgeless river, in plain sight of each other, but forever debarred from hearing the voice or pressing the land of the one beloved, doomed to perpetual toil unlit by any ray of joy or hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not set afire or burning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without illumination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Here, too, there was not a soul to be seen: a kettle was furiously boiling over on the hob, a gas ring was running to waste near by, turned on but left unlit and volleying evil fumes."*
+> - 📜 **James Joyce (*Ulysses*):** *"He sat on a corner of the unlit desk, reading aloud joyfully: —_The sentimentalist is he who would enjoy without incurring the immense debtorship for a thing done._ Signed: Dedalus."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They were on the two sides of a bridgeless river, in plain sight of each other, but forever debarred from hearing the voice or pressing the land of the one beloved, doomed to perpetual toil unlit by any ray of joy or hope."*

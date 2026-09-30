@@ -5,14 +5,6 @@ status: unread
 ---
 # inscrutably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inscrutable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inscrutable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it inscrutably appeared to stand to reason, in the minds of the whole company, that I was an excrescence on the entertainment."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But Ralph Touchett had learned more or less inscrutably to attend, and there could have been nothing so “sustained” to attend to as the general performance of Madame Merle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inscrutable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inscrutable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it inscrutably appeared to stand to reason, in the minds of the whole company, that I was an excrescence on the entertainment."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But Ralph Touchett had learned more or less inscrutably to attend, and there could have been nothing so “sustained” to attend to as the general performance of Madame Merle."*

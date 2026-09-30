@@ -5,15 +5,6 @@ status: unread
 ---
 # famish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are all resolved rather to die than to famish?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffer us to famish, and their storehouses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sorry am I his numbers are so few, His soldiers sick and famish’d in their march; For I am sure, when he shall see our army, He’ll drop his heart into the sink of fear And for achievement offer us his ransom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are all resolved rather to die than to famish?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffer us to famish, and their storehouses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sorry am I his numbers are so few, His soldiers sick and famish’d in their march; For I am sure, when he shall see our army, He’ll drop his heart into the sink of fear And for achievement offer us his ransom."*

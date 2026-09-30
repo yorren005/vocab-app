@@ -5,15 +5,6 @@ status: unread
 ---
 # sequester
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requisition forcibly, as of enemy property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take temporary possession of as a security, by legal authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then it pleased Miss Orrin to take a violent jealousy of my granddaughter, Elsie Stennis, and to sequester her somewhere about the premises, which, of course, brought the storm about our ears in full force."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Lie here sequester'd:--be this little mound For ever thine, and be it holy ground!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requisition forcibly, as of enemy property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take temporary possession of as a security, by legal authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then it pleased Miss Orrin to take a violent jealousy of my granddaughter, Elsie Stennis, and to sequester her somewhere about the premises, which, of course, brought the storm about our ears in full force."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Lie here sequester'd:--be this little mound For ever thine, and be it holy ground!"*

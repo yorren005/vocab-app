@@ -5,14 +5,6 @@ status: unread
 ---
 # sistrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Whole nights were spent sitting in the temple amid the rattling of the sistrum."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In one hand is a sistrum, in the other a golden vessel shaped like a boat, with an asp for its handle.[94] She speaks. [Sidenote: Isis] "Lo!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Whole nights were spent sitting in the temple amid the rattling of the sistrum."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In one hand is a sistrum, in the other a golden vessel shaped like a boat, with an asp for its handle.[94] She speaks. [Sidenote: Isis] "Lo!"*

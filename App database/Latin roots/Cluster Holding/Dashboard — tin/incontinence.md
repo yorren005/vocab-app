@@ -5,15 +5,6 @@ status: unread
 ---
 # incontinence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary urination or defecation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indiscipline with regard to sensuous pleasures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The conversation soon broke forth again from the lips of Peechy Prauw Van Hook, the chronicler of the club, one of those prosing, narrative old men who seem to be troubled with an incontinence of words as they grow old."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When he left his residence to visit other places within his jurisdiction, all married people had to observe strict continence the whole time he was out; for it was supposed that any act of incontinence would prove fatal to him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In general it appears to be supposed that the evil effect of incontinence is not so much that it weakens him, as that, for some reason or other, it offends the animals, who in consequence will not suffer themselves to be caught."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary urination or defecation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indiscipline with regard to sensuous pleasures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The conversation soon broke forth again from the lips of Peechy Prauw Van Hook, the chronicler of the club, one of those prosing, narrative old men who seem to be troubled with an incontinence of words as they grow old."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When he left his residence to visit other places within his jurisdiction, all married people had to observe strict continence the whole time he was out; for it was supposed that any act of incontinence would prove fatal to him."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In general it appears to be supposed that the evil effect of incontinence is not so much that it weakens him, as that, for some reason or other, it offends the animals, who in consequence will not suffer themselves to be caught."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # revered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps he revered his father’s practice even more now than ever, seeing that, in the question of making Tessy his wife, his father had not once thought of inquiring whether she were well provided or penniless."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Brown, with whom, since he was a student, he had stood in the closest relations, and whom he revered and habitually addressed as a father."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revered defender of beauteous Stuart, Of Stuart, a name once respected; A name, which to love was the mark of a true heart, But now ’tis despis’d and neglected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps he revered his father’s practice even more now than ever, seeing that, in the question of making Tessy his wife, his father had not once thought of inquiring whether she were well provided or penniless."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Brown, with whom, since he was a student, he had stood in the closest relations, and whom he revered and habitually addressed as a father."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revered defender of beauteous Stuart, Of Stuart, a name once respected; A name, which to love was the mark of a true heart, But now ’tis despis’d and neglected."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preferment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preferring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making accusations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll move the King To any shape of thy preferment, such As thou’lt desire; and then myself, I chiefly, That set thee on to this desert, am bound To load thy merit richly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be but duteous and true, preferment shall tender itself to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak against my present profit, but my wish hath a preferment in’t. [_Exit._] SCENE V."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preferring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making accusations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll move the King To any shape of thy preferment, such As thou’lt desire; and then myself, I chiefly, That set thee on to this desert, am bound To load thy merit richly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be but duteous and true, preferment shall tender itself to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak against my present profit, but my wish hath a preferment in’t. [_Exit._] SCENE V."*

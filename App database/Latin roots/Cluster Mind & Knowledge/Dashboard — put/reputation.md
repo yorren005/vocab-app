@@ -5,15 +5,6 @@ status: unread
 ---
 # reputation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in high esteem and honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notoriety for some particular characteristic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is his reputation with the duke?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in high esteem and honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notoriety for some particular characteristic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is his reputation with the duke?"*

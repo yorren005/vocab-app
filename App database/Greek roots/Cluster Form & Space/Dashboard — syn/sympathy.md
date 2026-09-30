@@ -5,15 +5,6 @@ status: unread
 ---
 # sympathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or expression of sincere concern for someone who is experiencing something difficult or painful; also : the capacity for this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of entering into or sharing the feelings or interests of another : empathy; also : the capacity for this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be what it is, The action of my life is like it, which I’ll keep, if but for sympathy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, then, there’s sympathy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or expression of sincere concern for someone who is experiencing something difficult or painful; also : the capacity for this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of entering into or sharing the feelings or interests of another : empathy; also : the capacity for this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be what it is, The action of my life is like it, which I’ll keep, if but for sympathy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, then, there’s sympathy."*

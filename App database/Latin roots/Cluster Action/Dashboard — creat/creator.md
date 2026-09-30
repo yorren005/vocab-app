@@ -5,15 +5,6 @@ status: unread
 ---
 # creator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terms referring to the judeo-christian god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who grows or makes or invents things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I make you both Protectors of this land, While I myself will lead a private life And in devotion spend my latter days, To sin’s rebuke and my Creator’s praise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make that demand of the Creator."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To whom then will ye liken Me, or shall I be equal? saith the Holy One." The Creator is greater than his creation; the law giver is supreme over all law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terms referring to the judeo-christian god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who grows or makes or invents things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I make you both Protectors of this land, While I myself will lead a private life And in devotion spend my latter days, To sin’s rebuke and my Creator’s praise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make that demand of the Creator."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"To whom then will ye liken Me, or shall I be equal? saith the Holy One." The Creator is greater than his creation; the law giver is supreme over all law."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # minerva
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) goddess of wisdom; counterpart of greek athena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) goddess of wisdom; counterpart of greek athena.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark, Tranio! thou mayst hear Minerva speak."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My dear Minerva,” said Richard, “I am as steady as you are."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my dear Minerva,” answered Richard with his old gay laugh, “it is neither a rural nor a cheerful place; and when the sun shines here, you may lay a pretty heavy wager that it is shining brightly in an open spot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) goddess of wisdom; counterpart of greek athena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) goddess of wisdom; counterpart of greek athena.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark, Tranio! thou mayst hear Minerva speak."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My dear Minerva,” said Richard, “I am as steady as you are."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my dear Minerva,” answered Richard with his old gay laugh, “it is neither a rural nor a cheerful place; and when the sun shines here, you may lay a pretty heavy wager that it is shining brightly in an open spot."*

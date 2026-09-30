@@ -5,13 +5,6 @@ status: unread
 ---
 # deceptively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misleading way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a misleading way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I had first seen the place on a moist afternoon when distances are deceptively diminished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misleading way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a misleading way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I had first seen the place on a moist afternoon when distances are deceptively diminished."*

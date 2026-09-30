@@ -5,13 +5,6 @@ status: unread
 ---
 # muroidea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muroidea designates a superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muroidea designates a superfamily of rodents essentially equal to the suborder myomorpha but with the dipodidae excluded."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # debonaire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a cheerful, lively, and self-confident air; - frances g. patton; - h.m.reynolds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debonaire designates having a sophisticated charm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a cheerful, lively, and self-confident air; - frances g. patton; - h.m.reynolds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debonaire designates having a sophisticated charm."*

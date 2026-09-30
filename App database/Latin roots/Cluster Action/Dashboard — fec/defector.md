@@ -5,13 +5,6 @@ status: unread
 ---
 # defector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abandons their duty (as on a military post).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abandons their duty (as on a military post).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defector designates a person who abandons their duty (as on a military post)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abandons their duty (as on a military post).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abandons their duty (as on a military post).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defector designates a person who abandons their duty (as on a military post)."*

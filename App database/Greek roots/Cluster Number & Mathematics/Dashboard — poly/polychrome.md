@@ -5,15 +5,6 @@ status: unread
 ---
 # polychrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, made with, or decorated in several colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, made with, or decorated in several colors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The attractive character of certain localities in Ireland and abroad, as represented in general geographical maps of polychrome design or in special ordnance survey charts by employment of scale numerals and hachures."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Blue and white and polychrome porcelain chiefly occupied the energies of the Imperial potters at Ching-tê Chên in the Ming dynasty, and the classic periods for these types fall in the fifteenth century."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The coloured glazes used in the T´ang polychrome pottery are light and translucent lead glazes of the kind which reappears on the Ming and Ch´ing pottery and porcelain, and, as on the later wares, they are covered with minute accidental crackle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, made with, or decorated in several colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, made with, or decorated in several colors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The attractive character of certain localities in Ireland and abroad, as represented in general geographical maps of polychrome design or in special ordnance survey charts by employment of scale numerals and hachures."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Blue and white and polychrome porcelain chiefly occupied the energies of the Imperial potters at Ching-tê Chên in the Ming dynasty, and the classic periods for these types fall in the fifteenth century."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The coloured glazes used in the T´ang polychrome pottery are light and translucent lead glazes of the kind which reappears on the Ming and Ch´ing pottery and porcelain, and, as on the later wares, they are covered with minute accidental crackle."*

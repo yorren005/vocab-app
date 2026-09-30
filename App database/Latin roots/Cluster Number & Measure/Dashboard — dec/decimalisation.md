@@ -5,13 +5,6 @@ status: unread
 ---
 # decimalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing to a decimal system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing to a decimal system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimalisation designates the act of changing to a decimal system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing to a decimal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing to a decimal system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decimalisation designates the act of changing to a decimal system."*

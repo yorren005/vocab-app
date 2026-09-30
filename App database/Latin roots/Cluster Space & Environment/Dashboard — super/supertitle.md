@@ -5,13 +5,6 @@ status: unread
 ---
 # supertitle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Translation of the words of a foreign opera (or choral work) projected on a screen above the stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translation of the words of a foreign opera (or choral work) projected on a screen above the stage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertitle designates translation of the words of a foreign opera (or choral work) projected on a screen above the stage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Translation of the words of a foreign opera (or choral work) projected on a screen above the stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translation of the words of a foreign opera (or choral work) projected on a screen above the stage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertitle designates translation of the words of a foreign opera (or choral work) projected on a screen above the stage."*

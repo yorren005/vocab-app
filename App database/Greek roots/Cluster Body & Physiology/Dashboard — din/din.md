@@ -5,15 +5,6 @@ status: unread
 ---
 # din
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud continued noise; especially : a welter of discordant sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation or condition resembling a din.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To Adriana, that is where we din’d, Where Dowsabel did claim me for her husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O husband, God doth know you din’d at home, Where would you had remain’d until this time, Free from these slanders and this open shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, in truth, thus far I witness with him, That he din’d not at home, but was lock’d out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud continued noise; especially : a welter of discordant sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation or condition resembling a din.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To Adriana, that is where we din’d, Where Dowsabel did claim me for her husband."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O husband, God doth know you din’d at home, Where would you had remain’d until this time, Free from these slanders and this open shame."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, in truth, thus far I witness with him, That he din’d not at home, but was lock’d out."*

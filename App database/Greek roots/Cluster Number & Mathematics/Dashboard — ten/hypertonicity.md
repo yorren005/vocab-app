@@ -5,13 +5,6 @@ status: unread
 ---
 # hypertonicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a solution) the extent to which a solution has a higher osmotic pressure than some other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of muscular tissue) the state of being hypertonic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonicity designates (of a solution) the extent to which a solution has a higher osmotic pressure than some other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a solution) the extent to which a solution has a higher osmotic pressure than some other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of muscular tissue) the state of being hypertonic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonicity designates (of a solution) the extent to which a solution has a higher osmotic pressure than some other."*

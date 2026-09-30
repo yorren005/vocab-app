@@ -5,20 +5,6 @@ status: unread
 ---
 # ebb
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Recede from the flood
-> 2. **Nuance / Usage**: Point or condition of decline
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Medical knowledge is at a low ebb among us,” said Mr."*
-> - 📜 **Mary Shelley (*s:Time (Shelley)*):** *"Thou shoreless flood which in thy ebb and flow / Claspest the limits of morality!"*
-> - 📜 **John Buchan (*The Outgoing of the Tide*):** *"Men come from distant parts to admire the tides of Solway, which race in at flood and retreat at ebb with a greater speed than a horse can follow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The reflux or backward movement of the tide as the sea recedes from the shore toward low water.
+> 2. **Nuance / Usage**: Used figuratively as both noun and verb for any gradual decline, decay, or subsiding of fortune, vitality, or emotion (*at a low ebb*, *his strength ebbed away*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass) and Verb (intransitive).
+> - **Syntactic Constructions**: Functions in the binomial *ebb and flow*, the prepositional phrase *at a low ebb*, and as an intransitive verb (*daylight ebbed*).
+> - **Collocations & Registers**: Maritime, temporal, and poetic registers; collocated with *flow*, *low*, *tide*, *vitality*, and *away*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Medical knowledge is at a remarkably low **ebb** among us in the provinces."*
+> - 📜 **Mary Shelley (*Time*):** *"Thou shoreless flood which in thy **ebb** and flow claspest the limits of mortality!"*
+> - 📜 **John Buchan (*The Outgoing of the Tide*):** *"Men come from distant parts to admire the tides of Solway, which race in at flood and retreat at **ebb** faster than a horse can gallop."*

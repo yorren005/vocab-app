@@ -5,15 +5,6 @@ status: unread
 ---
 # clarify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make clear by removing impurities or solids, as by heating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is but one man in Jerusalem this day who can save Him,” she urged, “and that man is you, Lodbrog.” Because I did not immediately reply she shook me, as if in impulse to clarify wits she considered addled."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some sorts of dirt serve to clarify.” “It’s just what I should have expected,” said Mr."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As each topic was opened for discussion the view tank portrayed the corresponding regions, sectors, planets or satellites, shifting from one to the other as needed to clarify points under discussion or accompany the exploration for alternatives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make clear by removing impurities or solids, as by heating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is but one man in Jerusalem this day who can save Him,” she urged, “and that man is you, Lodbrog.” Because I did not immediately reply she shook me, as if in impulse to clarify wits she considered addled."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Some sorts of dirt serve to clarify.” “It’s just what I should have expected,” said Mr."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As each topic was opened for discussion the view tank portrayed the corresponding regions, sectors, planets or satellites, shifting from one to the other as needed to clarify points under discussion or accompany the exploration for alternatives."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adultery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall see wilful adultery and murder committed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt not die: die for adultery!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall see wilful adultery and murder committed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt not die: die for adultery!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there."*

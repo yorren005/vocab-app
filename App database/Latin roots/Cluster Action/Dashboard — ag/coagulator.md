@@ -5,13 +5,6 @@ status: unread
 ---
 # coagulator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that produces coagulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that produces coagulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coagulator designates an agent that produces coagulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that produces coagulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that produces coagulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coagulator designates an agent that produces coagulation."*

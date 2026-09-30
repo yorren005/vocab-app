@@ -5,13 +5,6 @@ status: unread
 ---
 # mandelbrot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician (born in poland) noted for inventing fractals (born in 1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mathematician (born in poland) noted for inventing fractals (born in 1924).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelbrot designates french mathematician (born in poland) noted for inventing fractals (born in 1924)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician (born in poland) noted for inventing fractals (born in 1924).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mathematician (born in poland) noted for inventing fractals (born in 1924).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelbrot designates french mathematician (born in poland) noted for inventing fractals (born in 1924)."*

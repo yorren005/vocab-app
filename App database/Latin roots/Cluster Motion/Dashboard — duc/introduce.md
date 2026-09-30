@@ -5,15 +5,6 @@ status: unread
 ---
 # introduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to come to know personally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring something new to an environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When they heard that Leonore had come to introduce them to her uncle, they were a little scared, but Leonore understood their hesitation and declared, "Just come!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You must excuse me if I occasionally introduce a nautical expression; I was quite a sailor once."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Will you allow me to introduce my mother, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to come to know personally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring something new to an environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When they heard that Leonore had come to introduce them to her uncle, they were a little scared, but Leonore understood their hesitation and declared, "Just come!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You must excuse me if I occasionally introduce a nautical expression; I was quite a sailor once."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Will you allow me to introduce my mother, Mrs."*

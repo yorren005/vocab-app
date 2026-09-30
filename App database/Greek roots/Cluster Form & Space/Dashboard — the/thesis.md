@@ -5,15 +5,6 @@ status: unread
 ---
 # thesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissertation (as by a candidate for an academic degree) presenting results of original research and usually providing evidence to support a specific view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea put forth for discussion or proof : hypothesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Titan’s: Prometheus’. -- “I answer, Have ye not to argue out {540} The very primal thesis, plainest law, --Man is not God but hath God’s end to serve, A master to obey, a course to take, Somewhat to cast off, somewhat to become?"*
-> - 📜 **Bram Stoker (*Dracula*):** *"Tell me the thesis, so that I may apply your knowledge as you go on."*
-> - 📜 **Bram Stoker (*Dracula*):** *"My thesis is this: I want you to believe.” “To believe what?” “To believe in things that you cannot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissertation (as by a candidate for an academic degree) presenting results of original research and usually providing evidence to support a specific view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea put forth for discussion or proof : hypothesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Titan’s: Prometheus’. -- “I answer, Have ye not to argue out {540} The very primal thesis, plainest law, --Man is not God but hath God’s end to serve, A master to obey, a course to take, Somewhat to cast off, somewhat to become?"*
+> - 📜 **Bram Stoker (*Dracula*):** *"Tell me the thesis, so that I may apply your knowledge as you go on."*
+> - 📜 **Bram Stoker (*Dracula*):** *"My thesis is this: I want you to believe.” “To believe what?” “To believe in things that you cannot."*

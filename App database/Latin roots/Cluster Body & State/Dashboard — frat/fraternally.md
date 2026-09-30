@@ -5,13 +5,6 @@ status: unread
 ---
 # fraternally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a brotherly manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a brotherly manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The coach was large, the ladies not very big, they would hold their trains in their laps--finally, the four went fraternally together, and their carriage presently joined the line of royal equipages which was making its way down Piccadilly and St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a brotherly manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a brotherly manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The coach was large, the ladies not very big, they would hold their trains in their laps--finally, the four went fraternally together, and their carriage presently joined the line of royal equipages which was making its way down Piccadilly and St."*

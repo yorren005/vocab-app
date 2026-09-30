@@ -5,15 +5,6 @@ status: unread
 ---
 # hereabout
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In this general vicinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In this general vicinity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cassio, walk hereabout: If I do find him fit, I’ll move your suit, And seek to effect it to my uttermost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think that one of them is hereabout, And cannot make away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all this same, I’ll hide me hereabout."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In this general vicinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In this general vicinity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cassio, walk hereabout: If I do find him fit, I’ll move your suit, And seek to effect it to my uttermost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think that one of them is hereabout, And cannot make away."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all this same, I’ll hide me hereabout."*

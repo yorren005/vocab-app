@@ -5,15 +5,6 @@ status: unread
 ---
 # aeon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An immeasurably or indefinitely long period of time : age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large division of geologic time usually longer than an era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"During the three terrible hours that the play had lasted, he had lived centuries of pain, aeon upon aeon of torture."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If Christianity had depended on the {304} Logos, it would have followed the Logos to the limbo whither went AEon and Aporrhoia and Spermaticos Logos."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jesus became a phantom, or an aeon; his body, sidereal substance, which offered, Clement himself said, no material resistance to the touch of St John's hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immeasurably or indefinitely long period of time : age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large division of geologic time usually longer than an era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"During the three terrible hours that the play had lasted, he had lived centuries of pain, aeon upon aeon of torture."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If Christianity had depended on the {304} Logos, it would have followed the Logos to the limbo whither went AEon and Aporrhoia and Spermaticos Logos."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jesus became a phantom, or an aeon; his body, sidereal substance, which offered, Clement himself said, no material resistance to the touch of St John's hand."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # realist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who believes that universals are real and exist independently of anyone thinking of them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who accepts the world as it literally is and deals with it accordingly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the other hand, we are realists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who believes that universals are real and exist independently of anyone thinking of them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who accepts the world as it literally is and deals with it accordingly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the other hand, we are realists."*

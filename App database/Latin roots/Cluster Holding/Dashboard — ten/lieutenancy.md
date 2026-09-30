@@ -5,15 +5,6 @@ status: unread
 ---
 # lieutenancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a lieutenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a lieutenant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As soon as he graduated a lieutenancy was offered him in one of the companies, but deferring an answer, he left immediately for a college in the interior."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He drew off on one side and the recruit, whose hands were full of ballots, went on to say: "Randolph doesn't stand the ghost of a chance for the second lieutenancy, and he has good cheek to ask the boys to give it to him."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"He had worked too hard for his Lieutenancy to give it up so easily; he had to go through with his assignment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a lieutenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a lieutenant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As soon as he graduated a lieutenancy was offered him in one of the companies, but deferring an answer, he left immediately for a college in the interior."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He drew off on one side and the recruit, whose hands were full of ballots, went on to say: "Randolph doesn't stand the ghost of a chance for the second lieutenancy, and he has good cheek to ask the boys to give it to him."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"He had worked too hard for his Lieutenancy to give it up so easily; he had to go through with his assignment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rustle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light noise, like the noise of silk clothing or leaves blowing in the wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a dry crackling sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not a rustle of the housekeeper’s dress, not a gesture, not a word betrays her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ten and twopence halfpenny is the sum put down to you, I see?” “Yes, mis’ess,” said Matthew, as the rustle of wind among dead leaves."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was certainly a rustle of footsteps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light noise, like the noise of silk clothing or leaves blowing in the wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a dry crackling sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not a rustle of the housekeeper’s dress, not a gesture, not a word betrays her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ten and twopence halfpenny is the sum put down to you, I see?” “Yes, mis’ess,” said Matthew, as the rustle of wind among dead leaves."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was certainly a rustle of footsteps."*

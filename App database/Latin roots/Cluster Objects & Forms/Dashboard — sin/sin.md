@@ -5,15 +5,6 @@ status: unread
 ---
 # sin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Estrangement from god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that is regarded by theologians as a transgression of god's will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then tonight Let us assay our plot; which, if it speed, Is wicked meaning in a lawful deed, And lawful meaning in a lawful act, Where both not sin, and yet a sinful fact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Estrangement from god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that is regarded by theologians as a transgression of god's will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then tonight Let us assay our plot; which, if it speed, Is wicked meaning in a lawful deed, And lawful meaning in a lawful act, Where both not sin, and yet a sinful fact."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # canellaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One genus: aromatic tropical trees of eastern africa and florida to west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One genus: aromatic tropical trees of eastern africa and florida to west indies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canellaceae designates one genus: aromatic tropical trees of eastern africa and florida to west indies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One genus: aromatic tropical trees of eastern africa and florida to west indies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One genus: aromatic tropical trees of eastern africa and florida to west indies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canellaceae designates one genus: aromatic tropical trees of eastern africa and florida to west indies."*

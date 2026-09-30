@@ -5,14 +5,6 @@ status: unread
 ---
 # indiscriminating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discriminating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not discriminating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"While they rebuke the indiscriminating bigotry with which some of our countrymen admire and imitate every thing English, merely because it is English, let them frankly point out what is really worthy of approbation."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A hasty resort to indiscriminating analogy, as in calling wage-work "slavery," does not further truth or social justice. § III."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discriminating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not discriminating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"While they rebuke the indiscriminating bigotry with which some of our countrymen admire and imitate every thing English, merely because it is English, let them frankly point out what is really worthy of approbation."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A hasty resort to indiscriminating analogy, as in calling wage-work "slavery," does not further truth or social justice. § III."*

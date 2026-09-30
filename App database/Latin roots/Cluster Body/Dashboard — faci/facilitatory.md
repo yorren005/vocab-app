@@ -5,13 +5,6 @@ status: unread
 ---
 # facilitatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing or aiding in facilitating neural activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing or aiding in facilitating neural activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitatory designates inducing or aiding in facilitating neural activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing or aiding in facilitating neural activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing or aiding in facilitating neural activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitatory designates inducing or aiding in facilitating neural activity."*

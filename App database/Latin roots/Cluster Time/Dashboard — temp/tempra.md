@@ -5,13 +5,6 @@ status: unread
 ---
 # tempra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempra designates an analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempra designates an analgesic for mild pain but not for inflammation; also used as an antipyretic; (datril, tylenol, panadol, phenaphen, tempra, and anacin iii are trademarks of brands of acetaminophen tablets)."*

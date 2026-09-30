@@ -5,13 +5,6 @@ status: unread
 ---
 # convincingness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of argument or evidence to cause belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of argument or evidence to cause belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convincingness designates the power of argument or evidence to cause belief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of argument or evidence to cause belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of argument or evidence to cause belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convincingness designates the power of argument or evidence to cause belief."*

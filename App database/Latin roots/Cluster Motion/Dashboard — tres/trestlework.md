@@ -5,13 +5,6 @@ status: unread
 ---
 # trestlework
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trestlework designates a supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trestlework designates a supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g."*

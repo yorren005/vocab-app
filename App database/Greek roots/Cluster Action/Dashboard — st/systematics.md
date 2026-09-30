@@ -5,13 +5,6 @@ status: unread
 ---
 # systematics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of systematic classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of systematic classification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematics designates the science of systematic classification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of systematic classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of systematic classification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematics designates the science of systematic classification."*

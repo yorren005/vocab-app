@@ -5,15 +5,6 @@ status: unread
 ---
 # remunerative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For which money is paid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a sizeable profit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Property thus fluctuates in value, and investments become more or less remunerative."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I detested the chambers beyond expression at that period of repentance, and could not endure the sight of the Avenger’s livery; which had a more expensive and a less remunerative appearance then than at any other time in the four-and-twenty hours."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is, of course, well known to you that in a successful banking business as much depends upon our being able to find remunerative investments for our funds as upon our increasing our connection and the number of our depositors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For which money is paid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a sizeable profit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Property thus fluctuates in value, and investments become more or less remunerative."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I detested the chambers beyond expression at that period of repentance, and could not endure the sight of the Avenger’s livery; which had a more expensive and a less remunerative appearance then than at any other time in the four-and-twenty hours."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is, of course, well known to you that in a successful banking business as much depends upon our being able to find remunerative investments for our funds as upon our increasing our connection and the number of our depositors."*

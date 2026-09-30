@@ -5,13 +5,6 @@ status: unread
 ---
 # fingerless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or having lost fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having or having lost fingers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But in half an hour I would find him again among the lily beds, his hands all bound up in fingerless gloves, but his ear close down against the earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or having lost fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having or having lost fingers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But in half an hour I would find him again among the lily beds, his hands all bound up in fingerless gloves, but his ear close down against the earth."*

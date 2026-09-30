@@ -5,14 +5,6 @@ status: unread
 ---
 # radiator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any object that radiates energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater consisting of a series of pipes for circulating steam or hot water to heat rooms or buildings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Friends and Helpers*):** *"It should be about five feet from the floor and not too near a register or radiator."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Oil lines and radiators seemed all tight and when he swung the propeller, the motor purred for him like a cat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any object that radiates energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater consisting of a series of pipes for circulating steam or hot water to heat rooms or buildings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Friends and Helpers*):** *"It should be about five feet from the floor and not too near a register or radiator."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Oil lines and radiators seemed all tight and when he swung the propeller, the motor purred for him like a cat."*

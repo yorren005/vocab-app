@@ -5,15 +5,6 @@ status: unread
 ---
 # herod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of judea who (according to the new testament) tried to kill jesus by ordering the death of all children under age two in bethlehem (73-4 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of judea who (according to the new testament) tried to kill jesus by ordering the death of all children under age two in bethlehem (73-4 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me have a child at fifty, to whom Herod of Jewry may do homage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good majesty, Herod of Jewry dare not look upon you But when you are well pleased."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of judea who (according to the new testament) tried to kill jesus by ordering the death of all children under age two in bethlehem (73-4 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of judea who (according to the new testament) tried to kill jesus by ordering the death of all children under age two in bethlehem (73-4 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me have a child at fifty, to whom Herod of Jewry may do homage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good majesty, Herod of Jewry dare not look upon you But when you are well pleased."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # palinurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family palinuridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family palinuridae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"PALINURUS Starlight: with deep and quiet breathing slept The southern sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family palinuridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family palinuridae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"PALINURUS Starlight: with deep and quiet breathing slept The southern sea."*

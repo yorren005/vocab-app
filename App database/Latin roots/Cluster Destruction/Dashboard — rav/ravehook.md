@@ -5,13 +5,6 @@ status: unread
 ---
 # ravehook
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hooked hand tool used to prepare the seams of a boat for oakum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hooked hand tool used to prepare the seams of a boat for oakum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravehook designates a hooked hand tool used to prepare the seams of a boat for oakum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hooked hand tool used to prepare the seams of a boat for oakum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hooked hand tool used to prepare the seams of a boat for oakum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravehook designates a hooked hand tool used to prepare the seams of a boat for oakum."*

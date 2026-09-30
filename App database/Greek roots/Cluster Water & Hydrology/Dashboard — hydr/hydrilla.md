@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrilla designates submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrilla designates submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unrefined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not refined or processed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons and their behavior) not refined; uncouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Before I was through I had rhymes which ranged from the two extremes of the keenest parental affection to those of unrefined filthiness."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A number of unrefined metallic products met with in practice include:— _Converter Bars._—The product from the Bessemer operation on copper mattes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not refined or processed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons and their behavior) not refined; uncouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Before I was through I had rhymes which ranged from the two extremes of the keenest parental affection to those of unrefined filthiness."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A number of unrefined metallic products met with in practice include:— _Converter Bars._—The product from the Bessemer operation on copper mattes."*

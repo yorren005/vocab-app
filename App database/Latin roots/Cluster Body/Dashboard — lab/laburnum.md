@@ -5,14 +5,6 @@ status: unread
 ---
 # laburnum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering shrubs or trees having bright yellow flowers; all parts of the plant are poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowering shrubs or trees having bright yellow flowers; all parts of the plant are poisonous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The laburnum will be as yellow next June as it is now."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The shadows are cool by the water side Where the willows grow by the pond, And the yellow laburnum's drooping pride Sheds a golden gleam beyond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering shrubs or trees having bright yellow flowers; all parts of the plant are poisonous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowering shrubs or trees having bright yellow flowers; all parts of the plant are poisonous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The laburnum will be as yellow next June as it is now."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The shadows are cool by the water side Where the willows grow by the pond, And the yellow laburnum's drooping pride Sheds a golden gleam beyond."*

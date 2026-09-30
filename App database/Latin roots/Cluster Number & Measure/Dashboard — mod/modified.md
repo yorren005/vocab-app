@@ -5,15 +5,6 @@ status: unread
 ---
 # modified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh or extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add a modifier to a constituent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"To learn thus exactly how far they can or cannot be modified."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Five decades hardly modified the cut of a gaiter, the embroidery of a smock-frock, by the breadth of a hair."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To England he did return at last; but the fact of drawing nearer to Weatherbury abstracted its fascinations, and his intention to enter his old groove at the place became modified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh or extreme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add a modifier to a constituent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"To learn thus exactly how far they can or cannot be modified."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Five decades hardly modified the cut of a gaiter, the embroidery of a smock-frock, by the breadth of a hair."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To England he did return at last; but the fact of drawing nearer to Weatherbury abstracted its fascinations, and his intention to enter his old groove at the place became modified."*

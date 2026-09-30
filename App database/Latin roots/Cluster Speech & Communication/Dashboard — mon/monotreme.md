@@ -5,13 +5,6 @@ status: unread
 ---
 # monotreme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most primitive mammals comprising the only extant members of the subclass prototheria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most primitive mammals comprising the only extant members of the subclass prototheria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotreme designates the most primitive mammals comprising the only extant members of the subclass prototheria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most primitive mammals comprising the only extant members of the subclass prototheria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most primitive mammals comprising the only extant members of the subclass prototheria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotreme designates the most primitive mammals comprising the only extant members of the subclass prototheria."*

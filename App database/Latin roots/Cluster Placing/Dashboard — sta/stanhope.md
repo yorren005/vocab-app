@@ -5,15 +5,6 @@ status: unread
 ---
 # stanhope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light open horse-drawn carriage with two or four wheels and one seat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light open horse-drawn carriage with two or four wheels and one seat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Stanhope, a widow lady and her maiden sister, Miss Martha Pinkerton, a female of uncertain age, as authors say, and possessed of the peculiarities common to persons of her class."*
-> - 📜 **Effie Afton (*Eventide*):** *"Stanhope, who was a pleasant, agreeable woman."*
-> - 📜 **Effie Afton (*Eventide*):** *"Stanhope met her visitor on the porch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light open horse-drawn carriage with two or four wheels and one seat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light open horse-drawn carriage with two or four wheels and one seat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Stanhope, a widow lady and her maiden sister, Miss Martha Pinkerton, a female of uncertain age, as authors say, and possessed of the peculiarities common to persons of her class."*
+> - 📜 **Effie Afton (*Eventide*):** *"Stanhope, who was a pleasant, agreeable woman."*
+> - 📜 **Effie Afton (*Eventide*):** *"Stanhope met her visitor on the porch."*

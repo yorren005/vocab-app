@@ -5,13 +5,6 @@ status: unread
 ---
 # gastrolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone or pebble ingested by an animal and functioning to grind food in gastric digestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone or pebble ingested by an animal and functioning to grind food in gastric digestion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrolith designates a stone or pebble ingested by an animal and functioning to grind food in gastric digestion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone or pebble ingested by an animal and functioning to grind food in gastric digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone or pebble ingested by an animal and functioning to grind food in gastric digestion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrolith designates a stone or pebble ingested by an animal and functioning to grind food in gastric digestion."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # corrupting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make illegal payments to in exchange for favors or influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, she hath from France too long been chas’d, And all her husbandry doth lie on heaps, Corrupting in it own fertility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know’st thou not any whom corrupting gold Will tempt unto a close exploit of death?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is an encouraging example of what can be done by skilful methods, when conditions are ripe, in furthering righteous social legislation without the use of money or of corrupting influences. § 8. #Standards for a compensation law#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make illegal payments to in exchange for favors or influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, she hath from France too long been chas’d, And all her husbandry doth lie on heaps, Corrupting in it own fertility."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know’st thou not any whom corrupting gold Will tempt unto a close exploit of death?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is an encouraging example of what can be done by skilful methods, when conditions are ripe, in furthering righteous social legislation without the use of money or of corrupting influences. § 8. #Standards for a compensation law#."*

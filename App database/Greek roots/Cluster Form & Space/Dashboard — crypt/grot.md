@@ -5,14 +5,6 @@ status: unread
 ---
 # grot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: grotto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: grotto.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Though here no more Apollo haunts his grot, And thou, the Muses' seat, art now their grave, Some gentle spirit still pervades the spot, Sighs in the gale, keeps silence in the cave, And glides with glassy foot o'er yon melodious wave."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"And here--if e’er romance be found To love the vale or haunt the mountain-- Here is her home, with ivy bound, And here her grot, and crystal fountain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: grotto.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: grotto.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Though here no more Apollo haunts his grot, And thou, the Muses' seat, art now their grave, Some gentle spirit still pervades the spot, Sighs in the gale, keeps silence in the cave, And glides with glassy foot o'er yon melodious wave."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"And here--if e’er romance be found To love the vale or haunt the mountain-- Here is her home, with ivy bound, And here her grot, and crystal fountain."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # orderliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of appreciating method and system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of regular or proper arrangement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I do not know how it is,” said he; “but we seem to want some of your nice ways and orderliness at my father’s."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"At Mansfield, no sounds of contention, no raised voice, no abrupt bursts, no tread of violence, was ever heard; all proceeded in a regular course of cheerful orderliness; everybody had their due importance; everybody’s feelings were consulted."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He looks with contempt upon his honest toil; repeats mockingly to himself, his simple talk when at meals, about the weather and the crops; sneers at his neatness, and orderliness, and cleanliness; imputes to him his own libidinousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of appreciating method and system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of regular or proper arrangement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I do not know how it is,” said he; “but we seem to want some of your nice ways and orderliness at my father’s."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"At Mansfield, no sounds of contention, no raised voice, no abrupt bursts, no tread of violence, was ever heard; all proceeded in a regular course of cheerful orderliness; everybody had their due importance; everybody’s feelings were consulted."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He looks with contempt upon his honest toil; repeats mockingly to himself, his simple talk when at meals, about the weather and the crops; sneers at his neatness, and orderliness, and cleanliness; imputes to him his own libidinousness."*

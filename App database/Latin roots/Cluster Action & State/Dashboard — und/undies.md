@@ -5,13 +5,6 @@ status: unread
 ---
 # undies
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Women's underwear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Women's underwear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As for undies they were Gerty’s chief care and who that knows the fluttering hopes and fears of sweet seventeen (though Gerty would never see seventeen again) can find it in his heart to blame her?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Women's underwear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Women's underwear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"As for undies they were Gerty’s chief care and who that knows the fluttering hopes and fears of sweet seventeen (though Gerty would never see seventeen again) can find it in his heart to blame her?"*

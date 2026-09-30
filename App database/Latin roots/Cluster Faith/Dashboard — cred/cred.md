@@ -5,13 +5,6 @@ status: unread
 ---
 # cred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Credibility among young fashionable urban individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Credibility among young fashionable urban individuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cred designates credibility among young fashionable urban individuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Credibility among young fashionable urban individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Credibility among young fashionable urban individuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cred designates credibility among young fashionable urban individuals."*

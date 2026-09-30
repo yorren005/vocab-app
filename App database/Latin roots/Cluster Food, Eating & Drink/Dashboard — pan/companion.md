@@ -5,15 +5,6 @@ status: unread
 ---
 # companion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A friend who is frequently in the company of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler who accompanies you.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, by being once lost, may be ten times found; by being ever kept, it is ever lost. ’Tis too cold a companion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you companion to the Count Rossillon?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have told my neighbour how you have been solicited by a gentleman his companion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A friend who is frequently in the company of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler who accompanies you.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, by being once lost, may be ten times found; by being ever kept, it is ever lost. ’Tis too cold a companion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you companion to the Count Rossillon?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have told my neighbour how you have been solicited by a gentleman his companion."*

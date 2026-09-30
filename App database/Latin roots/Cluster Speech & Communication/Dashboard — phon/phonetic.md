@@ -5,15 +5,6 @@ status: unread
 ---
 # phonetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to speech sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the scientific study of speech sounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Titus Munson Coan, whose familiarity with the languages of the Pacific has enabled me to harmonise the spelling of foreign words in ‘Typee’ and ‘Omoo,’ though without changing the phonetic method of printing adopted by Mr."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I saw at once that I was on the right track; phonetic spelling had again misled me."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The word _tz'ŭ_ [Chinese] is compounded of the radical _wa_ [Chinese] (a tile, earthenware), and the phonetic _tz'ŭ_ [Chinese] (second, inferior), and carries no inherent suggestion of porcelain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to speech sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the scientific study of speech sounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Titus Munson Coan, whose familiarity with the languages of the Pacific has enabled me to harmonise the spelling of foreign words in ‘Typee’ and ‘Omoo,’ though without changing the phonetic method of printing adopted by Mr."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I saw at once that I was on the right track; phonetic spelling had again misled me."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The word _tz'ŭ_ [Chinese] is compounded of the radical _wa_ [Chinese] (a tile, earthenware), and the phonetic _tz'ŭ_ [Chinese] (second, inferior), and carries no inherent suggestion of porcelain."*

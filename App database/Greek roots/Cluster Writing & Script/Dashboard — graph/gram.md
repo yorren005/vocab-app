@@ -5,13 +5,6 @@ status: unread
 ---
 # gram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several leguminous plants (such as a chickpea) grown especially for their seed; also : their seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of mass equal to 1/1000 kilogram and nearly equal to the mass of one cubic centimeter of water at its maximum density.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gram designates any of several leguminous plants (such as a chickpea) grown especially for their seed; also : their seeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several leguminous plants (such as a chickpea) grown especially for their seed; also : their seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of mass equal to 1/1000 kilogram and nearly equal to the mass of one cubic centimeter of water at its maximum density.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gram designates any of several leguminous plants (such as a chickpea) grown especially for their seed; also : their seeds."*

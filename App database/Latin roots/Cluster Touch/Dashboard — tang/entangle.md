@@ -5,15 +5,6 @@ status: unread
 ---
 # entangle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist together or entwine into a confusing mass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was a circumstance which at first sight seemed to entangle his delirious but still methodical scheme."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Did the _Nautilus_ dare entangle itself in the Manche?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist together or entwine into a confusing mass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was a circumstance which at first sight seemed to entangle his delirious but still methodical scheme."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Did the _Nautilus_ dare entangle itself in the Manche?"*

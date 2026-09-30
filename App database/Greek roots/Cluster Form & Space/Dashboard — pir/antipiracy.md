@@ -5,13 +5,6 @@ status: unread
 ---
 # antipiracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing or acting to prevent piracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing or acting to prevent piracy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipiracy designates opposing or acting to prevent piracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing or acting to prevent piracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing or acting to prevent piracy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipiracy designates opposing or acting to prevent piracy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indubitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too obvious to be doubted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too obvious to be doubted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The indubitable truth is that no trade ever can take place (in a monetary régime) unless the monetary price is lower in the exporting than it is in the importing country."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She confined herself, or tried to confine herself, to the simple, indubitable family misery which must envelop all, if it were indeed a matter of certified guilt and public exposure."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"From these clear and indubitable principles results the propriety of a negative, either absolute or qualified, in the Executive, upon the acts of the legislative branches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too obvious to be doubted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too obvious to be doubted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The indubitable truth is that no trade ever can take place (in a monetary régime) unless the monetary price is lower in the exporting than it is in the importing country."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She confined herself, or tried to confine herself, to the simple, indubitable family misery which must envelop all, if it were indeed a matter of certified guilt and public exposure."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"From these clear and indubitable principles results the propriety of a negative, either absolute or qualified, in the Executive, upon the acts of the legislative branches."*

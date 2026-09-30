@@ -5,13 +5,6 @@ status: unread
 ---
 # eventration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of the intestine through the abdominal wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of the intestine through the abdominal wall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eventration designates protrusion of the intestine through the abdominal wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of the intestine through the abdominal wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of the intestine through the abdominal wall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eventration designates protrusion of the intestine through the abdominal wall."*

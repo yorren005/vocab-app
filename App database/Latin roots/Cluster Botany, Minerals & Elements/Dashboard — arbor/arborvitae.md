@@ -5,13 +5,6 @@ status: unread
 ---
 # arborvitae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several asian and north american conifers of the genera thuja and thujopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several asian and north american conifers of the genera thuja and thujopsis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborvitae designates any of several asian and north american conifers of the genera thuja and thujopsis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several asian and north american conifers of the genera thuja and thujopsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several asian and north american conifers of the genera thuja and thujopsis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborvitae designates any of several asian and north american conifers of the genera thuja and thujopsis."*

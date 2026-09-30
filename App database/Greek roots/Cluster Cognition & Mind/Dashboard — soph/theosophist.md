@@ -5,13 +5,6 @@ status: unread
 ---
 # theosophist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in theosophy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"German Boehme: Jacob Boehme (or Behmen), a shoemaker and a famous theosophist, b. 1575, at Old Seidenberg, a village near Goerlitz; d. 1624."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in theosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in theosophy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"German Boehme: Jacob Boehme (or Behmen), a shoemaker and a famous theosophist, b. 1575, at Old Seidenberg, a village near Goerlitz; d. 1624."*

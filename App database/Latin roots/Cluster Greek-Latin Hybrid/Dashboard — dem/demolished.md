@@ -5,15 +5,6 @@ status: unread
 ---
 # demolished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humiliate or depress completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another chair was brought, and in time that chair was demolished."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Is it not, by its noble cares and sublime results, the one best calculated to fill the void left by uptorn affections and demolished hopes?"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Among the islands of Polynesia, no sooner are the images overturned, the temples demolished, and the idolators converted into NOMINAL Christians, that disease, vice, and premature death make their appearance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humiliate or depress completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another chair was brought, and in time that chair was demolished."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Is it not, by its noble cares and sublime results, the one best calculated to fill the void left by uptorn affections and demolished hopes?"*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Among the islands of Polynesia, no sooner are the images overturned, the temples demolished, and the idolators converted into NOMINAL Christians, that disease, vice, and premature death make their appearance."*

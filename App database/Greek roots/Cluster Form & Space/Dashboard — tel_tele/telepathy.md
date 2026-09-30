@@ -5,15 +5,6 @@ status: unread
 ---
 # telepathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparent communication from one mind to another without using sensory perceptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparent communication from one mind to another without using sensory perceptions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Conceal it as he might try, a mysterious telepathy was between them...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magic has none; faith in telepathy is one of its first principles."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I will now give some instances of this magical telepathy both in its positive and in its negative aspect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparent communication from one mind to another without using sensory perceptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparent communication from one mind to another without using sensory perceptions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Conceal it as he might try, a mysterious telepathy was between them...."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magic has none; faith in telepathy is one of its first principles."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I will now give some instances of this magical telepathy both in its positive and in its negative aspect."*

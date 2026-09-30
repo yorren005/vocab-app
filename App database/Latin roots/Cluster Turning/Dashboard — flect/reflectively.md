@@ -5,15 +5,6 @@ status: unread
 ---
 # reflectively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a reflective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a reflective manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s what ’tis.” “Ay, sure—that’s the machine,” chimed in Henery Fray, reflectively, with an Oriental indifference to the flight of time."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I can't understand how she came to fall," remarked Arthur reflectively."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Dar doan' 'pear to be nobody 'bout dis hyar depot," remarked Uncle Ben reflectively; "but I reckon dar's somebody comin' to 'splain de mattah."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a reflective manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a reflective manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s what ’tis.” “Ay, sure—that’s the machine,” chimed in Henery Fray, reflectively, with an Oriental indifference to the flight of time."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I can't understand how she came to fall," remarked Arthur reflectively."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Dar doan' 'pear to be nobody 'bout dis hyar depot," remarked Uncle Ben reflectively; "but I reckon dar's somebody comin' to 'splain de mattah."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # falsity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being false or untrue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false statement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is impressed by their falsity, even in religion (Matt. 15:8)."*
-> - 📜 **George Eliot (*Middlemarch*):** *"At six o’clock he had already been long dressed, and had spent some of his wretchedness in prayer, pleading his motives for averting the worst evil if in anything he had used falsity and spoken what was not true before God."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I perceive that the falsity of life appals your spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being false or untrue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false statement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is impressed by their falsity, even in religion (Matt. 15:8)."*
+> - 📜 **George Eliot (*Middlemarch*):** *"At six o’clock he had already been long dressed, and had spent some of his wretchedness in prayer, pleading his motives for averting the worst evil if in anything he had used falsity and spoken what was not true before God."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"I perceive that the falsity of life appals your spirit."*

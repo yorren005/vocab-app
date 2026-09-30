@@ -5,15 +5,6 @@ status: unread
 ---
 # eminent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing above others in quality or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of imposing height; especially standing out above others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a Frenchman his companion, one An eminent monsieur that, it seems, much loves A Gallian girl at home."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A deflowered maid; And by an eminent body that enforced The law against it!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing above others in quality or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of imposing height; especially standing out above others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a Frenchman his companion, one An eminent monsieur that, it seems, much loves A Gallian girl at home."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A deflowered maid; And by an eminent body that enforced The law against it!"*

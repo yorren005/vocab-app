@@ -5,15 +5,6 @@ status: unread
 ---
 # crescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any shape resembling the curved shape of the moon in its first or last quarters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the new moon in shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people love me, and the sea is mine; My powers are crescent, and my auguring hope Says it will come to th’ full."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was then of a crescent note, expected to prove so worthy as since he hath been allowed the name of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For nature crescent does not grow alone In thews and bulk; but as this temple waxes, The inward service of the mind and soul Grows wide withal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any shape resembling the curved shape of the moon in its first or last quarters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the new moon in shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people love me, and the sea is mine; My powers are crescent, and my auguring hope Says it will come to th’ full."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was then of a crescent note, expected to prove so worthy as since he hath been allowed the name of."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For nature crescent does not grow alone In thews and bulk; but as this temple waxes, The inward service of the mind and soul Grows wide withal."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fabled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebrated in fable or legend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebrated in fable or legend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did he believe my fabled birth?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But it’s not her air, her form, her face, Tho’ matching beauty’s fabled queen; ’Tis the mind that shines in ev’ry grace, An’ chiefly in her roguish een."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"No idly-feign’d, poetic pains, My sad, love-lorn lamentings claim: No shepherd’s pipe-Arcadian strains; No fabled tortures, quaint and tame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebrated in fable or legend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebrated in fable or legend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did he believe my fabled birth?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But it’s not her air, her form, her face, Tho’ matching beauty’s fabled queen; ’Tis the mind that shines in ev’ry grace, An’ chiefly in her roguish een."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"No idly-feign’d, poetic pains, My sad, love-lorn lamentings claim: No shepherd’s pipe-Arcadian strains; No fabled tortures, quaint and tame."*

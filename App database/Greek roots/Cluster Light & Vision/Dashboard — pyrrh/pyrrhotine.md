@@ -5,13 +5,6 @@ status: unread
 ---
 # pyrrhotine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrrhotine designates a brownish iron sulfide mineral (fes) having weak magnetic properties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrrhotine designates a brownish iron sulfide mineral (fes) having weak magnetic properties."*

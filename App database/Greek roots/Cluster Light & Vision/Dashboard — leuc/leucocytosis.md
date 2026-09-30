@@ -5,13 +5,6 @@ status: unread
 ---
 # leucocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucocytosis designates an abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucocytosis designates an abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia)."*

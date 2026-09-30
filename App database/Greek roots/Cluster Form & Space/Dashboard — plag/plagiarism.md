@@ -5,15 +5,6 @@ status: unread
 ---
 # plagiarism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of writing that has been copied from someone else and is presented as being your own work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"An attempt to convict Euripides of plagiarism from Plato's _Republic_ shows the worth of these suggestions, and the whole scheme wakes doubts as to the value of Clement's judgment.[68] Another theory was angelic mediation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various books on mental healing have since been issued, most of them incorrect in theory x:6 and filled with plagiarisms from SCIENCE AND HEALTH."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For Euripides and other inter-Hellenic plagiarisms, _Strom._ vi, 24. [69] _Strom._ vii, 6. [70] _Strom._ v, 10, 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of writing that has been copied from someone else and is presented as being your own work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"An attempt to convict Euripides of plagiarism from Plato's _Republic_ shows the worth of these suggestions, and the whole scheme wakes doubts as to the value of Clement's judgment.[68] Another theory was angelic mediation."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various books on mental healing have since been issued, most of them incorrect in theory x:6 and filled with plagiarisms from SCIENCE AND HEALTH."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For Euripides and other inter-Hellenic plagiarisms, _Strom._ vi, 24. [69] _Strom._ vii, 6. [70] _Strom._ v, 10, 2."*

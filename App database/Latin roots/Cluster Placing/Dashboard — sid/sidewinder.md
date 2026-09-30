@@ -5,13 +5,6 @@ status: unread
 ---
 # sidewinder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pale-colored desert rattlesnake of southwestern united states; body moves in an s-shaped curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Air-to-air missile with infrared homing device.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidewinder designates small pale-colored desert rattlesnake of southwestern united states; body moves in an s-shaped curve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pale-colored desert rattlesnake of southwestern united states; body moves in an s-shaped curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Air-to-air missile with infrared homing device.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidewinder designates small pale-colored desert rattlesnake of southwestern united states; body moves in an s-shaped curve."*

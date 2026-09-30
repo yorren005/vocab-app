@@ -5,15 +5,6 @@ status: unread
 ---
 # tolerant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing respect for the rights or opinions or practices of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tolerant and forgiving under provocation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More tolerant than his father of a contradictory opinion, in its aspect as a danger to its holder, he was less ready than his father to pardon it as a slight to his own teaching."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Yet, he reflected with his tolerant smile, he had fought for it, and was ready any day to fight for it again--for stability and tradition, the Game Laws, the Established Church, and the rotation of crops."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm not a bit surprised to hear he has Jew blood in him," Rowsley continued, warming to the discussion: he was a much keener judge of character that the tolerant and easy-going Val."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing respect for the rights or opinions or practices of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tolerant and forgiving under provocation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More tolerant than his father of a contradictory opinion, in its aspect as a danger to its holder, he was less ready than his father to pardon it as a slight to his own teaching."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Yet, he reflected with his tolerant smile, he had fought for it, and was ready any day to fight for it again--for stability and tradition, the Game Laws, the Established Church, and the rotation of crops."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm not a bit surprised to hear he has Jew blood in him," Rowsley continued, warming to the discussion: he was a much keener judge of character that the tolerant and easy-going Val."*

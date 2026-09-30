@@ -5,15 +5,6 @@ status: unread
 ---
 # antiquity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The historic period preceding the middle ages in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme oldness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou not the privilege of antiquity upon thee— LAFEW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rabble call him lord, And, as the world were now but to begin, Antiquity forgot, custom not known, The ratifiers and props of every word, They cry ‘Choose we!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not your voice broken, your wind short, your chin double, your wit single, and every part about you blasted with antiquity?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historic period preceding the middle ages in europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme oldness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou not the privilege of antiquity upon thee— LAFEW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rabble call him lord, And, as the world were now but to begin, Antiquity forgot, custom not known, The ratifiers and props of every word, They cry ‘Choose we!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not your voice broken, your wind short, your chin double, your wit single, and every part about you blasted with antiquity?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # supernaturalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Glancing upwards, he cried: “See! see!” and once more the high tapering flames were beheld with what seemed redoubled supernaturalness in their pallor."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Glancing upwards, he cried: “See! see!” and once more the high tapering flames were beheld with what seemed redoubled supernaturalness in their pallor."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The feeling of spirituality or supernaturalness is again referred to as being strong in my mind in this passage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Glancing upwards, he cried: “See! see!” and once more the high tapering flames were beheld with what seemed redoubled supernaturalness in their pallor."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Glancing upwards, he cried: “See! see!” and once more the high tapering flames were beheld with what seemed redoubled supernaturalness in their pallor."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The feeling of spirituality or supernaturalness is again referred to as being strong in my mind in this passage."*

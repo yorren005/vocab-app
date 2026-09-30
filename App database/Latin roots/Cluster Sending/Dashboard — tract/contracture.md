@@ -5,13 +5,6 @@ status: unread
 ---
 # contracture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal and usually permanent contraction of a muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal and usually permanent contraction of a muscle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contracture designates an abnormal and usually permanent contraction of a muscle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal and usually permanent contraction of a muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal and usually permanent contraction of a muscle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contracture designates an abnormal and usually permanent contraction of a muscle."*

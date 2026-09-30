@@ -5,15 +5,6 @@ status: unread
 ---
 # perturbed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb or interfere with the usual path of an electron or atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think she has a perturbed mind, which I cannot minister to."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I had taken note of any particular objects in my perturbed state of mind, but judging from the general character of the streets."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She now sank down into a chair, wild and perturbed by all these new and fevering sequences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb or interfere with the usual path of an electron or atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think she has a perturbed mind, which I cannot minister to."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I had taken note of any particular objects in my perturbed state of mind, but judging from the general character of the streets."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She now sank down into a chair, wild and perturbed by all these new and fevering sequences."*

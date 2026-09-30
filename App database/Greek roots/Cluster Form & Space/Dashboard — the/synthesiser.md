@@ -5,13 +5,6 @@ status: unread
 ---
 # synthesiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intellectual who synthesizes or uses synthetic methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) an electronic instrument (usually played with a keyboard) that generates and modifies sounds electronically and can imitate a variety of other musical instruments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesiser designates an intellectual who synthesizes or uses synthetic methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intellectual who synthesizes or uses synthetic methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) an electronic instrument (usually played with a keyboard) that generates and modifies sounds electronically and can imitate a variety of other musical instruments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesiser designates an intellectual who synthesizes or uses synthetic methods."*

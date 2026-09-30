@@ -5,15 +5,6 @@ status: unread
 ---
 # clammy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly cool and humid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly cool and humid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the progress of this dialogue there was a nervous twitching of Boldwood’s tightly closed lips, and his face became bathed in a clammy dew."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain came on in earnest, and Oak soon felt the water to be tracking cold and clammy routes down his back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fungi grew in all manner of positions from rotting leaves and tree stumps, some exhibiting to her listless gaze their clammy tops, others their oozing gills."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly cool and humid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly cool and humid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the progress of this dialogue there was a nervous twitching of Boldwood’s tightly closed lips, and his face became bathed in a clammy dew."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain came on in earnest, and Oak soon felt the water to be tracking cold and clammy routes down his back."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fungi grew in all manner of positions from rotting leaves and tree stumps, some exhibiting to her listless gaze their clammy tops, others their oozing gills."*

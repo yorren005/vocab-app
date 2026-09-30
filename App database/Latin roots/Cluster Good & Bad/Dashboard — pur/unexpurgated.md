@@ -5,13 +5,6 @@ status: unread
 ---
 # unexpurgated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having material deleted; - havelock ellis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having material deleted; - havelock ellis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpurgated designates not having material deleted; - havelock ellis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having material deleted; - havelock ellis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having material deleted; - havelock ellis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpurgated designates not having material deleted; - havelock ellis."*

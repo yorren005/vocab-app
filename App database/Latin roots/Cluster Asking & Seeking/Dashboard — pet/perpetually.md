@@ -5,15 +5,6 @@ status: unread
 ---
 # perpetually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everlastingly; for all time; - stuart chase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, to the proof, as mountains are for winds, That shake not though they blow perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spots whereof could weeping purify, Her tears should drop on them perpetually."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Everlastingly; for all time; - stuart chase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, to the proof, as mountains are for winds, That shake not though they blow perpetually."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spots whereof could weeping purify, Her tears should drop on them perpetually."*

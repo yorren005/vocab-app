@@ -5,15 +5,6 @@ status: unread
 ---
 # hera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of the olympian gods in ancient greek mythology; sister and wife of zeus remembered for her jealously of the many mortal women zeus fell in love with; identified with roman juno.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Queen of the olympian gods in ancient greek mythology; sister and wife of zeus remembered for her jealously of the many mortal women zeus fell in love with; identified with roman juno.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story told to explain the festivals suggests that they celebrated the marriage of Zeus to Hera, represented by the oaken image in bridal array."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So at Dodona the oak-god Zeus was coupled with Dione, whose very name is only a dialectically different form of Juno; and so on the top of Mount Cithaeron, as we have seen, he appears to have been periodically wedded to an oaken image of Hera."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Boeotia, as we have seen, the sacred marriage of Zeus and Hera, the oak god and the oak goddess, appears to have been celebrated with much pomp by a religious federation of states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of the olympian gods in ancient greek mythology; sister and wife of zeus remembered for her jealously of the many mortal women zeus fell in love with; identified with roman juno.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Queen of the olympian gods in ancient greek mythology; sister and wife of zeus remembered for her jealously of the many mortal women zeus fell in love with; identified with roman juno.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story told to explain the festivals suggests that they celebrated the marriage of Zeus to Hera, represented by the oaken image in bridal array."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So at Dodona the oak-god Zeus was coupled with Dione, whose very name is only a dialectically different form of Juno; and so on the top of Mount Cithaeron, as we have seen, he appears to have been periodically wedded to an oaken image of Hera."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Boeotia, as we have seen, the sacred marriage of Zeus and Hera, the oak god and the oak goddess, appears to have been celebrated with much pomp by a religious federation of states."*

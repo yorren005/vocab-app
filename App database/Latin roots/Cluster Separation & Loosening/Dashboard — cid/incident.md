@@ -5,15 +5,6 @@ status: unread
 ---
 # incident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single distinct event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public disturbance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plagues incident to men, Your potent and infectious fevers heap On Athens, ripe for stroke!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa related the incident of the evening before as it occurred."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She therefore narrated the incident to Apollonie just as Bruno had reported it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single distinct event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public disturbance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plagues incident to men, Your potent and infectious fevers heap On Athens, ripe for stroke!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa related the incident of the evening before as it occurred."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She therefore narrated the incident to Apollonie just as Bruno had reported it."*

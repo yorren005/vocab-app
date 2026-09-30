@@ -5,15 +5,6 @@ status: unread
 ---
 # unfinished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to the desired final state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought to an end or conclusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We shall say now our song has twelve stanzas and we'll sing two of them every morning; in that way we can finish it on the sixth day and we have not left it unfinished at all."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Taken from Curley, Note 3, at end) *This Treatise on the Emendation of the Intellect etc., which we give you here, kind reader, in its unfinished [that is, defective] state, was written by the author many years ago now."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you lived in an unfinished house, you couldn’t settle down in it; if you were condemned to leave everything you undertook unfinished, you would find it hard to apply yourself to anything; and yet that’s my unhappy case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to the desired final state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought to an end or conclusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We shall say now our song has twelve stanzas and we'll sing two of them every morning; in that way we can finish it on the sixth day and we have not left it unfinished at all."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Taken from Curley, Note 3, at end) *This Treatise on the Emendation of the Intellect etc., which we give you here, kind reader, in its unfinished [that is, defective] state, was written by the author many years ago now."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If you lived in an unfinished house, you couldn’t settle down in it; if you were condemned to leave everything you undertook unfinished, you would find it hard to apply yourself to anything; and yet that’s my unhappy case."*

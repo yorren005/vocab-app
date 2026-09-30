@@ -5,15 +5,6 @@ status: unread
 ---
 # discontinuance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Fatigued as she had been by the morning’s walk, they had no sooner dined than she set off again in quest of her former acquaintance, and the evening was spent in the satisfactions of an intercourse renewed after many years’ discontinuance."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's, till its discontinuance in 1863."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Up to the time of the discontinuance of the work of the Association, she gave it her daily attendance, and added largely to its resources by way of supplies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Fatigued as she had been by the morning’s walk, they had no sooner dined than she set off again in quest of her former acquaintance, and the evening was spent in the satisfactions of an intercourse renewed after many years’ discontinuance."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's, till its discontinuance in 1863."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Up to the time of the discontinuance of the work of the Association, she gave it her daily attendance, and added largely to its resources by way of supplies."*

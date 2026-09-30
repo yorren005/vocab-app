@@ -5,15 +5,6 @@ status: unread
 ---
 # differently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In another and different manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In another and different manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I love Leonore like my own child and wanted nothing better than to keep her with me," she said finally, "but I think differently now."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I was inexperienced in the art of adapting my mind to minds very differently situated, and addressing them from suitable points of view."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Such confidence, powerful in its own warmth, and bewitching in the wit which often expressed it, must have been enough for Anne; but Lady Russell saw it very differently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In another and different manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In another and different manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I love Leonore like my own child and wanted nothing better than to keep her with me," she said finally, "but I think differently now."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That I was inexperienced in the art of adapting my mind to minds very differently situated, and addressing them from suitable points of view."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Such confidence, powerful in its own warmth, and bewitching in the wit which often expressed it, must have been enough for Anne; but Lady Russell saw it very differently."*

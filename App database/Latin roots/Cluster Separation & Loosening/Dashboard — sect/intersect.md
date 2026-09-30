@@ -5,15 +5,6 @@ status: unread
 ---
 # intersect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet at a point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet at a point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With the same feeling with which he had galloped across the path of a wolf, Rostóv gave rein to his Donéts horse and galloped to intersect the path of the dragoons’ disordered lines."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The waters of the lake, some twenty-three miles in length, once perhaps washed the west wall, but it is gradually silting up, and to-day it is five miles away and is reached by heavy sampans which ply the narrow canals that intersect the rice-fields."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Alleys for pedestrians intersected the pens, which soon became crowded with buyers and sellers from far and near."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet at a point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet at a point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With the same feeling with which he had galloped across the path of a wolf, Rostóv gave rein to his Donéts horse and galloped to intersect the path of the dragoons’ disordered lines."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The waters of the lake, some twenty-three miles in length, once perhaps washed the west wall, but it is gradually silting up, and to-day it is five miles away and is reached by heavy sampans which ply the narrow canals that intersect the rice-fields."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Alleys for pedestrians intersected the pens, which soon became crowded with buyers and sellers from far and near."*

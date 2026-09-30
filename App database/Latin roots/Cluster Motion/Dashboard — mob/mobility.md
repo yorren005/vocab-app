@@ -5,15 +5,6 @@ status: unread
 ---
 # mobility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of moving freely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of moving freely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"LI At length it was the eve of Old Lady-Day, and the agricultural world was in a fever of mobility such as only occurs at that particular date of the year."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Only in this way can provision be made for entire mobility of labor, so that men may not be bound, as a condition for obtaining benefits, to continue in the service of any one employer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The greater ease of transferring landed-property in America and the greater mobility of our population have always made it more natural here than in Europe to look upon land as a capital investment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of moving freely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of moving freely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"LI At length it was the eve of Old Lady-Day, and the agricultural world was in a fever of mobility such as only occurs at that particular date of the year."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Only in this way can provision be made for entire mobility of labor, so that men may not be bound, as a condition for obtaining benefits, to continue in the service of any one employer."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The greater ease of transferring landed-property in America and the greater mobility of our population have always made it more natural here than in Europe to look upon land as a capital investment."*

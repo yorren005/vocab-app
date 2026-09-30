@@ -5,15 +5,6 @@ status: unread
 ---
 # affiliate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate or subsidiary associate; a person who is affiliated with another or with an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subsidiary or subordinate organization that is affiliated with another organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His anxiety to affiliate his own speculations to those of his predecessors is a marked feature in all his philosophical works, and illustrates at once the modesty and comprehensiveness of his mind."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He did not affiliate or assimilate into the nations where he dwelt."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The actual point of difference is this: the Democrats affiliate with their old political friends in the South, the late rebels, the friends and followers of Breckinridge, Lee, and Davis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate or subsidiary associate; a person who is affiliated with another or with an organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subsidiary or subordinate organization that is affiliated with another organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His anxiety to affiliate his own speculations to those of his predecessors is a marked feature in all his philosophical works, and illustrates at once the modesty and comprehensiveness of his mind."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He did not affiliate or assimilate into the nations where he dwelt."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The actual point of difference is this: the Democrats affiliate with their old political friends in the South, the late rebels, the friends and followers of Breckinridge, Lee, and Davis."*

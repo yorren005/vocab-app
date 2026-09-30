@@ -5,13 +5,6 @@ status: unread
 ---
 # monitory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to warn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to warn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Rich are his walks with supernatural chear; The region of his inner spirit teems With vital sounds, and monitory gleams Of high astonishment and pleasing fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to warn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to warn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Rich are his walks with supernatural chear; The region of his inner spirit teems With vital sounds, and monitory gleams Of high astonishment and pleasing fear."*

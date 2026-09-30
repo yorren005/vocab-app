@@ -5,15 +5,6 @@ status: unread
 ---
 # evidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your basis for belief or disbelief; knowledge on which to base belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication that makes something evident.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast spoken all already, unless thou canst say they are married; but thou art too fine in thy evidence; therefore stand aside."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My precious queen, forbear, And give true evidence to his love, which stands An honourable trial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was wise nature’s end in the donation, To be his evidence now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Your basis for belief or disbelief; knowledge on which to base belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication that makes something evident.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast spoken all already, unless thou canst say they are married; but thou art too fine in thy evidence; therefore stand aside."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My precious queen, forbear, And give true evidence to his love, which stands An honourable trial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was wise nature’s end in the donation, To be his evidence now."*

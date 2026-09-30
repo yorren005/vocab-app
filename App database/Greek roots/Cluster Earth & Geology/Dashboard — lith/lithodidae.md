@@ -5,13 +5,6 @@ status: unread
 ---
 # lithodidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-sea crabs of cold waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea crabs of cold waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithodidae designates deep-sea crabs of cold waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-sea crabs of cold waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea crabs of cold waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithodidae designates deep-sea crabs of cold waters."*

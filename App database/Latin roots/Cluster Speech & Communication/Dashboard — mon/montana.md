@@ -5,15 +5,6 @@ status: unread
 ---
 # montana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in northwestern united states on the canadian border.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in northwestern united states on the canadian border.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The next I heard of Frank was that he was in Montana, and then he went prospecting in Arizona, and then I heard of him from New Mexico."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An Indian outbreak feared in western Montana...."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"This great pasture land covers Western Texas, Indian Territory, Kansas, Nebraska, and Dakota, Eastern New Mexico, Colorado, Wyoming, and Montana, and extends far into British America."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in northwestern united states on the canadian border.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in northwestern united states on the canadian border.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The next I heard of Frank was that he was in Montana, and then he went prospecting in Arizona, and then I heard of him from New Mexico."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An Indian outbreak feared in western Montana...."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"This great pasture land covers Western Texas, Indian Territory, Kansas, Nebraska, and Dakota, Eastern New Mexico, Colorado, Wyoming, and Montana, and extends far into British America."*

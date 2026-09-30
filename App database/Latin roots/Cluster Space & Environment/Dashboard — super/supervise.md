@@ -5,15 +5,6 @@ status: unread
 ---
 # supervise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It was a division of the tributary states into sections, an associate manager to each, who should supervise, control and stimulate every aid-society in her section, going from village to village, and organizing, if need be, as she went."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Associate Managers, whose business it was to supervise the work in their own neighborhoods, had been appointed in nearly every county of the entire Department, fifty-six Associate Managers in all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It was a division of the tributary states into sections, an associate manager to each, who should supervise, control and stimulate every aid-society in her section, going from village to village, and organizing, if need be, as she went."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Associate Managers, whose business it was to supervise the work in their own neighborhoods, had been appointed in nearly every county of the entire Department, fifty-six Associate Managers in all."*

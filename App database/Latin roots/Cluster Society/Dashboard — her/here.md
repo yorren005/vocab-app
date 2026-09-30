@@ -5,15 +5,6 @@ status: unread
 ---
 # here
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The present location; this place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Queen of the olympian gods in ancient greek mythology; sister and wife of zeus remembered for her jealously of the many mortal women zeus fell in love with; identified with roman juno.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that thou teachest how to make one twain, By praising him here who doth hence remain. 40 Take all my loves, my love, yea take them all, What hast thou then more than thou hadst before?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I confess, Here on my knee, before high heaven and you, That before you, and next unto high heaven, I love your son."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The present location; this place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Queen of the olympian gods in ancient greek mythology; sister and wife of zeus remembered for her jealously of the many mortal women zeus fell in love with; identified with roman juno.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that thou teachest how to make one twain, By praising him here who doth hence remain. 40 Take all my loves, my love, yea take them all, What hast thou then more than thou hadst before?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I confess, Here on my knee, before high heaven and you, That before you, and next unto high heaven, I love your son."*

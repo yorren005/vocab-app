@@ -5,13 +5,6 @@ status: unread
 ---
 # alcapton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcapton designates an acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcapton designates an acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine."*

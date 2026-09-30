@@ -5,13 +5,6 @@ status: unread
 ---
 # thyronine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenolic amino acid of which thyroxine is a derivative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenolic amino acid of which thyroxine is a derivative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyronine designates a phenolic amino acid of which thyroxine is a derivative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenolic amino acid of which thyroxine is a derivative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenolic amino acid of which thyroxine is a derivative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyronine designates a phenolic amino acid of which thyroxine is a derivative."*

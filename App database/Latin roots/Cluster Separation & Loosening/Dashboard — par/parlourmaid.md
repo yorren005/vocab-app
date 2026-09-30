@@ -5,13 +5,6 @@ status: unread
 ---
 # parlourmaid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A maid in a private home whose duties are to care for the parlor and the table and to answer the door.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maid in a private home whose duties are to care for the parlor and the table and to answer the door.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parlourmaid designates a maid in a private home whose duties are to care for the parlor and the table and to answer the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A maid in a private home whose duties are to care for the parlor and the table and to answer the door.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maid in a private home whose duties are to care for the parlor and the table and to answer the door.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parlourmaid designates a maid in a private home whose duties are to care for the parlor and the table and to answer the door."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # centimetre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one hundredth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one hundredth of a meter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And if then we reckon how many minutes it takes to accumulate a cubic centimetre of helium we can easily reckon how many atoms go to the cubic centimetre."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The result of the experiment showed that there are in a cubic centimetre of helium a number of atoms represented by 256 followed by seventeen noughts."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A cubic centimetre is about the size of a boy's marble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one hundredth of a meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one hundredth of a meter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And if then we reckon how many minutes it takes to accumulate a cubic centimetre of helium we can easily reckon how many atoms go to the cubic centimetre."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The result of the experiment showed that there are in a cubic centimetre of helium a number of atoms represented by 256 followed by seventeen noughts."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A cubic centimetre is about the size of a boy's marble."*

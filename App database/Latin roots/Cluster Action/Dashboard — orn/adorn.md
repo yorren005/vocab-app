@@ -5,15 +5,6 @@ status: unread
 ---
 # adorn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adorn his temples with a coronet, And yet, in substance and authority, Retain but privilege of a private man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll be at charges for a looking-glass, And entertain a score or two of tailors To study fashions to adorn my body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lie thy bones, sweet Mutius, with thy friends, Till we with trophies do adorn thy tomb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adorn his temples with a coronet, And yet, in substance and authority, Retain but privilege of a private man?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll be at charges for a looking-glass, And entertain a score or two of tailors To study fashions to adorn my body."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lie thy bones, sweet Mutius, with thy friends, Till we with trophies do adorn thy tomb."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vila
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of vanuatu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of vanuatu.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Vilas of Wisconsin. _Secretary of the Interior_: L."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Neal, of Ohio, who moved to substitute a radical free trade plank as a substitute for the somewhat moderate utterances reported by ex-Secretary of the Interior Vilas, who read the report of the Committee on Platform."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Vilas replied defending the majority report in a vigorous speech, which was as generously applauded as that which preceded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of vanuatu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of vanuatu.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Vilas of Wisconsin. _Secretary of the Interior_: L."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Neal, of Ohio, who moved to substitute a radical free trade plank as a substitute for the somewhat moderate utterances reported by ex-Secretary of the Interior Vilas, who read the report of the Committee on Platform."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Vilas replied defending the majority report in a vigorous speech, which was as generously applauded as that which preceded."*

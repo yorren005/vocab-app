@@ -5,13 +5,6 @@ status: unread
 ---
 # scalpel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin straight surgical knife used in dissection and surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin straight surgical knife used in dissection and surgery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I have read much of physics, and have often been tempted to learn something of them--to make the experiments with my own hands--to furnish a laboratory--to wield the scalpel even."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin straight surgical knife used in dissection and surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin straight surgical knife used in dissection and surgery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I have read much of physics, and have often been tempted to learn something of them--to make the experiments with my own hands--to furnish a laboratory--to wield the scalpel even."*

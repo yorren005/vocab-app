@@ -5,15 +5,6 @@ status: unread
 ---
 # parsnip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whitish root of cultivated parsnip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong-scented plant cultivated for its edible root.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Heraclei_, B.), which is found solely on the cow-parsnip."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The number of zoospores from each acrospore of the potato mould is stated to be from six to sixteen, and in the parsnip mould from six to fourteen."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"THE PARSNIP MOULD (_Peronospora nivea_, Ung.) is found on many umbelliferous plants; but its attacks upon the parsnip are most to be deplored, because it injures and ultimately destroys an article of human food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The whitish root of cultivated parsnip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong-scented plant cultivated for its edible root.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Heraclei_, B.), which is found solely on the cow-parsnip."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The number of zoospores from each acrospore of the potato mould is stated to be from six to sixteen, and in the parsnip mould from six to fourteen."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"THE PARSNIP MOULD (_Peronospora nivea_, Ung.) is found on many umbelliferous plants; but its attacks upon the parsnip are most to be deplored, because it injures and ultimately destroys an article of human food."*

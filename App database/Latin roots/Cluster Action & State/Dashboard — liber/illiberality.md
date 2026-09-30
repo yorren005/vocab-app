@@ -5,14 +5,6 @@ status: unread
 ---
 # illiberality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition not to be liberal (generous) with money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition not to be liberal (generous) with money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There is, doubtless, considerable political hostility, and a general soreness at the illiberality of the English press; but, collectively speaking, the prepossessions of the people are strongly in favor of England."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Let it be the pride of our writers, therefore, discarding all feelings of irritation, and disdaining to retaliate the illiberality of British authors, to speak of the English nation without prejudice, and with determined candor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition not to be liberal (generous) with money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition not to be liberal (generous) with money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There is, doubtless, considerable political hostility, and a general soreness at the illiberality of the English press; but, collectively speaking, the prepossessions of the people are strongly in favor of England."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Let it be the pride of our writers, therefore, discarding all feelings of irritation, and disdaining to retaliate the illiberality of British authors, to speak of the English nation without prejudice, and with determined candor."*

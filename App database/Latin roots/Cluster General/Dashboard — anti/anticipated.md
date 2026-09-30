@@ -5,15 +5,6 @@ status: unread
 ---
 # anticipated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in advance of; deal with ahead of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mademoiselle, you are right!” Her quickness anticipated what I might have said presently but as yet had only thought."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I anticipated it, and felt its truth as strongly as you can do, when I saw Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mercury proceeds to a description of them, which has been anticipated by Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in advance of; deal with ahead of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mademoiselle, you are right!” Her quickness anticipated what I might have said presently but as yet had only thought."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I anticipated it, and felt its truth as strongly as you can do, when I saw Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mercury proceeds to a description of them, which has been anticipated by Mr."*

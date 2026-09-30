@@ -5,13 +5,6 @@ status: unread
 ---
 # divagate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divagate designates lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divagate designates lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rare-roasted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meat) roasted with the meat inside still rare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meat) roasted with the meat inside still rare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rare-roasted designates (meat) roasted with the meat inside still rare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (meat) roasted with the meat inside still rare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meat) roasted with the meat inside still rare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rare-roasted designates (meat) roasted with the meat inside still rare."*

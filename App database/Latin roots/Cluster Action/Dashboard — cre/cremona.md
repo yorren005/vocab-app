@@ -5,14 +5,6 @@ status: unread
 ---
 # cremona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A lady coming into a room hastily with her mantua brushed down a Cremona fiddle that lay on a chair, and broke it; upon which, a gentleman that was present, burst into this exclamation from Virgil: Mantua, væ miseræ nimium vicina Cremonæ!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Ah! miserable Mantua, too near a neighbour to Cremona. 90."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A lady coming into a room hastily with her mantua brushed down a Cremona fiddle that lay on a chair, and broke it; upon which, a gentleman that was present, burst into this exclamation from Virgil: Mantua, væ miseræ nimium vicina Cremonæ!"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Ah! miserable Mantua, too near a neighbour to Cremona. 90."*

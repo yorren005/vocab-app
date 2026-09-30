@@ -5,13 +5,6 @@ status: unread
 ---
 # labiatae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labiatae designates a large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labiatae designates a large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary."*

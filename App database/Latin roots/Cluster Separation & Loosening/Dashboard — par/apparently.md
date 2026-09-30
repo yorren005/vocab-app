@@ -5,15 +5,6 @@ status: unread
 ---
 # apparently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From appearances alone; ; ; -thomas hardy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not spare my brother in this case If he should scorn me so apparently."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea apparently had been busy with the same thought for she assented very eagerly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apparently she was still pulling out more things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From appearances alone; ; ; -thomas hardy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not spare my brother in this case If he should scorn me so apparently."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea apparently had been busy with the same thought for she assented very eagerly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apparently she was still pulling out more things."*

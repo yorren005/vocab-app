@@ -5,15 +5,6 @@ status: unread
 ---
 # comer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with a promising future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who arrives (or has arrived).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if my father had not scanted me And hedg’d me by his wit to yield myself His wife who wins me by that means I told you, Yourself, renowned Prince, then stood as fair As any comer I have look’d on yet For my affection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then what they do in present, Though less than yours in past, must o’ertop yours; For Time is like a fashionable host, That slightly shakes his parting guest by th’hand; And with his arms out-stretch’d, as he would fly, Grasps in the comer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, therefore, to find the new-comer constantly poring over the papers in Jarndyce and Jarndyce, for he well knows that nothing but confusion and failure can come of that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with a promising future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who arrives (or has arrived).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if my father had not scanted me And hedg’d me by his wit to yield myself His wife who wins me by that means I told you, Yourself, renowned Prince, then stood as fair As any comer I have look’d on yet For my affection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then what they do in present, Though less than yours in past, must o’ertop yours; For Time is like a fashionable host, That slightly shakes his parting guest by th’hand; And with his arms out-stretch’d, as he would fly, Grasps in the comer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, therefore, to find the new-comer constantly poring over the papers in Jarndyce and Jarndyce, for he well knows that nothing but confusion and failure can come of that."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rennin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that occurs in gastric juice; causes milk to coagulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that occurs in gastric juice; causes milk to coagulate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rennin designates an enzyme that occurs in gastric juice; causes milk to coagulate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that occurs in gastric juice; causes milk to coagulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that occurs in gastric juice; causes milk to coagulate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rennin designates an enzyme that occurs in gastric juice; causes milk to coagulate."*

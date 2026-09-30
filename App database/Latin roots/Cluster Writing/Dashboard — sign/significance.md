@@ -5,15 +5,6 @@ status: unread
 ---
 # significance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being significant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meaning that is not expressly stated but can be inferred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But as it is, I made up my mind to call, especially as I am not likely to see you again the next time you come to town.” She said this with such great significance that Ada and I glanced at one another, foreseeing something more."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But unfortunately these figures have little significance in connection with such an inquiry, if indeed they are not badly misleading."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being significant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meaning that is not expressly stated but can be inferred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But as it is, I made up my mind to call, especially as I am not likely to see you again the next time you come to town.” She said this with such great significance that Ada and I glanced at one another, foreseeing something more."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But unfortunately these figures have little significance in connection with such an inquiry, if indeed they are not badly misleading."*

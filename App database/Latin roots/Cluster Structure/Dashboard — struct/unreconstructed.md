@@ -5,13 +5,6 @@ status: unread
 ---
 # unreconstructed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adhering to an attitude or position widely held to be outmoded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to an attitude or position widely held to be outmoded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreconstructed designates adhering to an attitude or position widely held to be outmoded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adhering to an attitude or position widely held to be outmoded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to an attitude or position widely held to be outmoded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreconstructed designates adhering to an attitude or position widely held to be outmoded."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neurontin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurontin designates an anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurontin designates an anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles."*

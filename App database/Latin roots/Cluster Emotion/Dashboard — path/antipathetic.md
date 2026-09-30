@@ -5,15 +5,6 @@ status: unread
 ---
 # antipathetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') strongly opposed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by antagonism or antipathy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Judaism antipathetic Judaism was the antithesis of Christianity, because Judaism engendered the limited form of a national or 133:21 tribal religion."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His influence upon the rest of the group must have been consciously and increasingly antipathetic."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper assents, with an antipathetic shiver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') strongly opposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by antagonism or antipathy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Judaism antipathetic Judaism was the antithesis of Christianity, because Judaism engendered the limited form of a national or 133:21 tribal religion."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His influence upon the rest of the group must have been consciously and increasingly antipathetic."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper assents, with an antipathetic shiver."*

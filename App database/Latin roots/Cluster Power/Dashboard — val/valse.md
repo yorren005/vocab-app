@@ -5,15 +5,6 @@ status: unread
 ---
 # valse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ballroom dance in triple time with a strong accent on the first beat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ballroom dance in triple time with a strong accent on the first beat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Uncle” played another song and a valse; then after a pause he cleared his throat and sang his favorite hunting song: As ‘twas growing dark last night Fell the snow so soft and light..."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anatole asked Natásha for a valse and as they danced he pressed her waist and hand and told her she was bewitching and that he loved her."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a ball, nor had dancing been announced, but everyone knew that Catherine Petróvna would play valses and the écossaise on the clavichord and that there would be dancing, and so everyone had come as to a ball."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ballroom dance in triple time with a strong accent on the first beat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ballroom dance in triple time with a strong accent on the first beat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Uncle” played another song and a valse; then after a pause he cleared his throat and sang his favorite hunting song: As ‘twas growing dark last night Fell the snow so soft and light..."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anatole asked Natásha for a valse and as they danced he pressed her waist and hand and told her she was bewitching and that he loved her."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a ball, nor had dancing been announced, but everyone knew that Catherine Petróvna would play valses and the écossaise on the clavichord and that there would be dancing, and so everyone had come as to a ball."*

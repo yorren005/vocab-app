@@ -5,13 +5,6 @@ status: unread
 ---
 # standoff
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The finish of a contest in which the score is tied and the winner is undecided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of repulsing or repelling an attack; a successful defensive stand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standoff designates the finish of a contest in which the score is tied and the winner is undecided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The finish of a contest in which the score is tied and the winner is undecided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of repulsing or repelling an attack; a successful defensive stand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standoff designates the finish of a contest in which the score is tied and the winner is undecided."*

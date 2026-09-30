@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnosophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnosophy designates the doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnosophy designates the doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation."*

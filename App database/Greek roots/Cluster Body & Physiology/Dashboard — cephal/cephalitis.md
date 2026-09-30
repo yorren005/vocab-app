@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalitis designates inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalitis designates inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use)."*

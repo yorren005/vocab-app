@@ -5,13 +5,6 @@ status: unread
 ---
 # photoemission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An emission of photoelectrons (especially from a metallic surface).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emission of photoelectrons (especially from a metallic surface).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoemission designates an emission of photoelectrons (especially from a metallic surface)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emission of photoelectrons (especially from a metallic surface).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emission of photoelectrons (especially from a metallic surface).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoemission designates an emission of photoelectrons (especially from a metallic surface)."*

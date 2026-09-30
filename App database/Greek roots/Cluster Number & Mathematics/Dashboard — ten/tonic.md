@@ -5,15 +5,6 @@ status: unread
 ---
 # tonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tonic water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent (such as a drug) that increases body tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"And more needles were missing than it could be regarded as quite wholesome for a patient of such tender years either to apply externally or to take as a tonic."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"You must reach down your hands to them and draw them up to you," she answered in a tone of tonic inspiration."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"That is the reason I have chosen you to collect the data, Evelina," answered Jane, with another of those glorious tonic looks, issuing from my backbone in her back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tonic water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent (such as a drug) that increases body tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"And more needles were missing than it could be regarded as quite wholesome for a patient of such tender years either to apply externally or to take as a tonic."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"You must reach down your hands to them and draw them up to you," she answered in a tone of tonic inspiration."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"That is the reason I have chosen you to collect the data, Evelina," answered Jane, with another of those glorious tonic looks, issuing from my backbone in her back."*

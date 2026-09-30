@@ -5,14 +5,6 @@ status: unread
 ---
 # battue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hunt in which beaters force the game to flee in the direction of the hunter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indiscriminate slaughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The people wage more or less unsuccessful war upon them and at times they organize a sort of battue."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There were shooting-parties and battues; there was a plenty of balls and entertainments at the hospitable Court; the society was generally good; the theatre excellent; and the living cheap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hunt in which beaters force the game to flee in the direction of the hunter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indiscriminate slaughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The people wage more or less unsuccessful war upon them and at times they organize a sort of battue."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There were shooting-parties and battues; there was a plenty of balls and entertainments at the hospitable Court; the society was generally good; the theatre excellent; and the living cheap."*

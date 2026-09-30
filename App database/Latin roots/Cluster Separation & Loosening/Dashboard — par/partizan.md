@@ -5,15 +5,6 @@ status: unread
 ---
 # partizan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ardent and enthusiastic supporter of some person or activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This time partizan considerations played no part in the discussion."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not infrequently men of proved incapacity in every private business they have attempted are, for partizan or corrupt reasons, selected as assessors, and are given the power of passing judgment on the value of millions of dollars' worth of property."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The clearly recognized task is now to coördinate these various agencies into an efficient national system, eliminating partizan politics and elevating the management of all branches to the plane of professional service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ardent and enthusiastic supporter of some person or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This time partizan considerations played no part in the discussion."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not infrequently men of proved incapacity in every private business they have attempted are, for partizan or corrupt reasons, selected as assessors, and are given the power of passing judgment on the value of millions of dollars' worth of property."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The clearly recognized task is now to coördinate these various agencies into an efficient national system, eliminating partizan politics and elevating the management of all branches to the plane of professional service."*

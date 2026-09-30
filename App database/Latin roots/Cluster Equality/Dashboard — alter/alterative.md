@@ -5,15 +5,6 @@ status: unread
 ---
 # alterative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cure or restore to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth an alterative Christian Science brings to the body the sunlight of Truth, which invigorates and purifies."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science 162:6 acts as an alterative, neutralizing error with Truth."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God will over- turn, until "He come whose right it is." Longevity 224:1 is increasing and the power of sin diminishing, for the, world feels the alterative effect of truth through every 224:3 pore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cure or restore to health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth an alterative Christian Science brings to the body the sunlight of Truth, which invigorates and purifies."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science 162:6 acts as an alterative, neutralizing error with Truth."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God will over- turn, until "He come whose right it is." Longevity 224:1 is increasing and the power of sin diminishing, for the, world feels the alterative effect of truth through every 224:3 pore."*

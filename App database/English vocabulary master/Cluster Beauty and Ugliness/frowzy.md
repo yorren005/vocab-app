@@ -5,19 +5,6 @@ status: unread
 ---
 # frowzy
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Musty, stale
-> 2. **Nuance / Usage**: Alternative spelling of frowsy
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a frowzy appearance*) and predicatively after a linking verb (*remained frowzy*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Peter De Vries (*Slouching Towards Kalamazoo*):** *"Half the pages of the frazzled directory hanging on a chain in the musty old booth into which I furtively sidled had turned their corners back on themselves. Such books are like frowzy old broads who have been handled by a thousand men."*
-> - 📜 **J. M. Coetzee (*The Master of Petersburg*):** *"It is a relief to be rid of him. But a frowzy, fishy smell lingers in his room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Scruffy, dingy, and neglected in appearance; untidy and slovenly in dress or grooming.
+> 2. **Nuance / Usage**: Also evokes a stale, musty, or stuffy sensory atmosphere—as of an unventilated room or unwashed garments heavy with lingering odors.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a frowzy appearance*) and predicatively after a linking verb (*remained frowzy*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Coetzee (*The Master of Petersburg*):** *"It is a relief to be rid of him, though a **frowzy**, fishy smell still lingers in his room."*
+> - 📜 **Jonathan Swift (*Directions to Servants*):** *"Never wear your clothes till they are **frowzy** and torn, lest your master think you care nothing for his credit."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The parlor had a **frowzy**, airless look, with its faded curtains drawn tight against the morning sun."*

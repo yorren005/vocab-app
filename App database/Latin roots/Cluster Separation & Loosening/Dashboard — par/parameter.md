@@ -5,14 +5,6 @@ status: unread
 ---
 # parameter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constant in the equation of a curve that can be varied to yield a family of similar curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any factor that defines a system and determines (or limits) its performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer: be ready to give a presentation on each option and its variations within the parameters I specified and which surface through your analyses."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constant in the equation of a curve that can be varied to yield a family of similar curves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any factor that defines a system and determines (or limits) its performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer: be ready to give a presentation on each option and its variations within the parameters I specified and which surface through your analyses."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ponderousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oppressive quality that is laborious and solemn and lacks grace or fluency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being large in mass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderousness designates an oppressive quality that is laborious and solemn and lacks grace or fluency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oppressive quality that is laborious and solemn and lacks grace or fluency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being large in mass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderousness designates an oppressive quality that is laborious and solemn and lacks grace or fluency."*

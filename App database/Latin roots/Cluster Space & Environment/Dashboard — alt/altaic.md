@@ -5,13 +5,6 @@ status: unread
 ---
 # altaic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the peoples speaking a language in the altaic language group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of related languages spoken in asia and southeastern europe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altaic designates any member of the peoples speaking a language in the altaic language group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the peoples speaking a language in the altaic language group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of related languages spoken in asia and southeastern europe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altaic designates any member of the peoples speaking a language in the altaic language group."*

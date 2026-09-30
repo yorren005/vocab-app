@@ -5,13 +5,6 @@ status: unread
 ---
 # motor-assisted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying on an engine for propulsion in addition to muscle power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on an engine for propulsion in addition to muscle power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motor-assisted designates relying on an engine for propulsion in addition to muscle power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying on an engine for propulsion in addition to muscle power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on an engine for propulsion in addition to muscle power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motor-assisted designates relying on an engine for propulsion in addition to muscle power."*

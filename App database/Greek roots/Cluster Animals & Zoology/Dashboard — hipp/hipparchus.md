@@ -5,13 +5,6 @@ status: unread
 ---
 # hipparchus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek astronomer and mathematician who discovered the precession of the equinoxes and made the first known star chart and is said to have invented trigonometry (second century bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek astronomer and mathematician who discovered the precession of the equinoxes and made the first known star chart and is said to have invented trigonometry (second century bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he mislike My speech and what is done, tell him he has Hipparchus, my enfranched bondman, whom He may at pleasure whip, or hang, or torture, As he shall like, to quit me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek astronomer and mathematician who discovered the precession of the equinoxes and made the first known star chart and is said to have invented trigonometry (second century bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek astronomer and mathematician who discovered the precession of the equinoxes and made the first known star chart and is said to have invented trigonometry (second century bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he mislike My speech and what is done, tell him he has Hipparchus, my enfranched bondman, whom He may at pleasure whip, or hang, or torture, As he shall like, to quit me."*

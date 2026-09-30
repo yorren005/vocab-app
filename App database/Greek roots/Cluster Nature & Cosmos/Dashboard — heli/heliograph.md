@@ -5,13 +5,6 @@ status: unread
 ---
 # heliograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for telegraphing by means of the sun's rays flashed from a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for telegraphing by means of the sun's rays flashed from a mirror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliograph designates an apparatus for telegraphing by means of the sun's rays flashed from a mirror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for telegraphing by means of the sun's rays flashed from a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for telegraphing by means of the sun's rays flashed from a mirror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliograph designates an apparatus for telegraphing by means of the sun's rays flashed from a mirror."*

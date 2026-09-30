@@ -5,14 +5,6 @@ status: unread
 ---
 # nullifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of nullification; someone who believes that a state can resist federal laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can invalidate or nullify.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The proviso was defeated; that chance of the nullifiers to force the issue was lost; another had to be made, which was speedily done, by the introduction into the Senate on the 19th February, 1847, by Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"His proclamation against Nullifiers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of nullification; someone who believes that a state can resist federal laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can invalidate or nullify.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The proviso was defeated; that chance of the nullifiers to force the issue was lost; another had to be made, which was speedily done, by the introduction into the Senate on the 19th February, 1847, by Mr."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"His proclamation against Nullifiers."*

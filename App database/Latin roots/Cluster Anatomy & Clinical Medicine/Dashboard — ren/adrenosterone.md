@@ -5,13 +5,6 @@ status: unread
 ---
 # adrenosterone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid having androgenic activity; obtained from the cortex of the adrenal gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steroid having androgenic activity; obtained from the cortex of the adrenal gland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenosterone designates a steroid having androgenic activity; obtained from the cortex of the adrenal gland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid having androgenic activity; obtained from the cortex of the adrenal gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steroid having androgenic activity; obtained from the cortex of the adrenal gland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenosterone designates a steroid having androgenic activity; obtained from the cortex of the adrenal gland."*

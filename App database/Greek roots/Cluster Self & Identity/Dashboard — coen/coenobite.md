@@ -5,13 +5,6 @@ status: unread
 ---
 # coenobite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a religious order living in common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a religious order living in common.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is significant that Christian monasticism and the coenobite life began in Egypt, where, as we learn from papyri found in recent years, great monasteries of Serapis existed long before our era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a religious order living in common.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a religious order living in common.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is significant that Christian monasticism and the coenobite life began in Egypt, where, as we learn from papyri found in recent years, great monasteries of Serapis existed long before our era."*

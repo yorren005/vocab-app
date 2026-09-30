@@ -5,13 +5,6 @@ status: unread
 ---
 # enjoinment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enjoinment designates (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enjoinment designates (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity."*

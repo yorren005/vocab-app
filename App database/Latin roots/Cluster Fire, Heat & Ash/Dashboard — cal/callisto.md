@@ -5,15 +5,6 @@ status: unread
 ---
 # callisto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second largest of jupiter's satellites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second largest of jupiter's satellites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A man of many talents, Narval had migrated to Planet Pluto from an independent colony orbiting Callisto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had accepted expulsion from the place of his birth as the alternative to the court's sentence of labor in Callisto's encapsulated subsurface mines."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Removed from the judicial arena, he was proven to have also cheated in the Callisto gambling halls, swindled citizens of sound repute, and twice convicted of murder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second largest of jupiter's satellites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second largest of jupiter's satellites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A man of many talents, Narval had migrated to Planet Pluto from an independent colony orbiting Callisto."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had accepted expulsion from the place of his birth as the alternative to the court's sentence of labor in Callisto's encapsulated subsurface mines."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Removed from the judicial arena, he was proven to have also cheated in the Callisto gambling halls, swindled citizens of sound repute, and twice convicted of murder."*

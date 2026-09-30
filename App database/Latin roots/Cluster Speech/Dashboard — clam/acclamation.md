@@ -5,15 +5,6 @@ status: unread
 ---
 # acclamation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enthusiastic approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enthusiastic approval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"To this chair the Synod summoned him by acclamation, and, having accepted its call, he began his new work in the following August."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The motion was no sooner made than it was carried by acclamation."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"And now they rise in triumphant acclamation, heaving higher and higher their accordant notes and piling sound on sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enthusiastic approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enthusiastic approval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"To this chair the Synod summoned him by acclamation, and, having accepted its call, he began his new work in the following August."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The motion was no sooner made than it was carried by acclamation."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"And now they rise in triumphant acclamation, heaving higher and higher their accordant notes and piling sound on sound."*

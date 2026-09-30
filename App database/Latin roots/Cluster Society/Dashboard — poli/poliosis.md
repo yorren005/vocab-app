@@ -5,13 +5,6 @@ status: unread
 ---
 # poliosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of color from the hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of color from the hair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliosis designates loss of color from the hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of color from the hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of color from the hair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliosis designates loss of color from the hair."*

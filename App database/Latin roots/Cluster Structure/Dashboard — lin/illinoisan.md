@@ -5,13 +5,6 @@ status: unread
 ---
 # illinoisan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of illinois.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of illinois.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illinoisan designates a native or resident of illinois."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of illinois.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of illinois.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illinoisan designates a native or resident of illinois."*

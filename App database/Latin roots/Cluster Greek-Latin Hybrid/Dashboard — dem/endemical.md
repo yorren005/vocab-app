@@ -5,13 +5,6 @@ status: unread
 ---
 # endemical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endemical designates of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endemical designates of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality."*

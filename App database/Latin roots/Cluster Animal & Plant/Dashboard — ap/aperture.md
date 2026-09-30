@@ -5,15 +5,6 @@ status: unread
 ---
 # aperture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that controls amount of light admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural opening in something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Emaciated as my body was, I had to saw four bars, each in two places, in order to make an aperture through which I could squirm."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Was it, I asked myself, a ray from the moon penetrating some aperture in the blind?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My eye was quickly at the aperture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that controls amount of light admitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural opening in something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Emaciated as my body was, I had to saw four bars, each in two places, in order to make an aperture through which I could squirm."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Was it, I asked myself, a ray from the moon penetrating some aperture in the blind?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My eye was quickly at the aperture."*

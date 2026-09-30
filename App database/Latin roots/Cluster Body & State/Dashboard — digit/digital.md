@@ -5,15 +5,6 @@ status: unread
 ---
 # digital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying numbers rather than scale positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or performed with the fingers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Produced by Kentuckiana Digital Library, David Garcia, Chuck Greif, Leonard Johnson and the Online Distributed Proofreading Team."*
-> - 📜 **Bram Stoker (*Dracula*):** *"You have work, much work, to do for her and for others; and the present will suffice.” When we stopped the operation, he attended to Lucy, whilst I applied digital pressure to my own incision."*
-> - 📜 **James Joyce (*Ulysses*):** *"In calculating the addenda of bills she frequently had recourse to digital aid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying numbers rather than scale positions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or performed with the fingers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Produced by Kentuckiana Digital Library, David Garcia, Chuck Greif, Leonard Johnson and the Online Distributed Proofreading Team."*
+> - 📜 **Bram Stoker (*Dracula*):** *"You have work, much work, to do for her and for others; and the present will suffice.” When we stopped the operation, he attended to Lucy, whilst I applied digital pressure to my own incision."*
+> - 📜 **James Joyce (*Ulysses*):** *"In calculating the addenda of bills she frequently had recourse to digital aid."*

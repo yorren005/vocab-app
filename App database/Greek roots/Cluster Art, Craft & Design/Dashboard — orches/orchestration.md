@@ -5,13 +5,6 @@ status: unread
 ---
 # orchestration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of a piece of music for performance by an orchestra or band.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of arranging a piece of music for an orchestra and assigning parts to the different musical instruments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestration designates an arrangement of a piece of music for performance by an orchestra or band."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of a piece of music for performance by an orchestra or band.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of arranging a piece of music for an orchestra and assigning parts to the different musical instruments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestration designates an arrangement of a piece of music for performance by an orchestra or band."*

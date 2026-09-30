@@ -5,13 +5,6 @@ status: unread
 ---
 # oversuspicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly suspicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly suspicious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversuspicious designates unduly suspicious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly suspicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly suspicious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversuspicious designates unduly suspicious."*

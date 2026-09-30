@@ -5,13 +5,6 @@ status: unread
 ---
 # polysyndeton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of conjunctions in close succession (as in we have ships and men and money).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of conjunctions in close succession (as in we have ships and men and money).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysyndeton designates repetition of conjunctions in close succession (as in we have ships and men and money)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of conjunctions in close succession (as in we have ships and men and money).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of conjunctions in close succession (as in we have ships and men and money).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysyndeton designates repetition of conjunctions in close succession (as in we have ships and men and money)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dissentious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissenting (especially dissenting with the majority opinion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissenting (especially dissenting with the majority opinion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks.—What’s the matter, you dissentious rogues, That, rubbing the poor itch of your opinion, Make yourselves scabs?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here do we make his friends Blush that the world goes well, who rather had, Though they themselves did suffer by’t, behold Dissentious numbers pest’ring streets than see Our tradesmen singing in their shops and going About their functions friendly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissenting (especially dissenting with the majority opinion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissenting (especially dissenting with the majority opinion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks.—What’s the matter, you dissentious rogues, That, rubbing the poor itch of your opinion, Make yourselves scabs?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here do we make his friends Blush that the world goes well, who rather had, Though they themselves did suffer by’t, behold Dissentious numbers pest’ring streets than see Our tradesmen singing in their shops and going About their functions friendly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*

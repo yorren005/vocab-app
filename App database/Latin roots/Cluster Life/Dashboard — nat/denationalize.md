@@ -5,13 +5,6 @@ status: unread
 ---
 # denationalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put under private control or ownership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put under private control or ownership.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denationalize designates put under private control or ownership."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put under private control or ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put under private control or ownership.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denationalize designates put under private control or ownership."*

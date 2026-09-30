@@ -5,15 +5,6 @@ status: unread
 ---
 # mitigated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Such a lady gave a neighborliness to both rank and religion, and mitigated the bitterness of uncommuted tithe."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In the present instance the pang was mitigated to a certain extent--not largely--by the fact that Phyllis looked at me."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The aunts expressed a mitigated approval of Charmion's proposal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Such a lady gave a neighborliness to both rank and religion, and mitigated the bitterness of uncommuted tithe."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In the present instance the pang was mitigated to a certain extent--not largely--by the fact that Phyllis looked at me."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The aunts expressed a mitigated approval of Charmion's proposal."*

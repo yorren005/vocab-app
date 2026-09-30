@@ -5,15 +5,6 @@ status: unread
 ---
 # propagate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit from one generation to the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel through the air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Attend me, then: I went to Antioch, Where, as thou know’st, against the face of death, I sought the purchase of a glorious beauty, From whence an issue I might propagate, Are arms to princes, and bring joys to subjects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Griefs of mine own lie heavy in my breast, Which thou wilt propagate to have it prest With more of thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The base o’ th’ mount Is ranked with all deserts, all kind of natures That labour on the bosom of this sphere To propagate their states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit from one generation to the next.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel through the air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Attend me, then: I went to Antioch, Where, as thou know’st, against the face of death, I sought the purchase of a glorious beauty, From whence an issue I might propagate, Are arms to princes, and bring joys to subjects."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Griefs of mine own lie heavy in my breast, Which thou wilt propagate to have it prest With more of thine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The base o’ th’ mount Is ranked with all deserts, all kind of natures That labour on the bosom of this sphere To propagate their states."*

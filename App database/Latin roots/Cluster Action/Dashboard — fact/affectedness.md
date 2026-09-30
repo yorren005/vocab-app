@@ -5,13 +5,6 @@ status: unread
 ---
 # affectedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being false or artificial (as to impress others).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affectedness designates the quality of being false or artificial (as to impress others)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being false or artificial (as to impress others).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affectedness designates the quality of being false or artificial (as to impress others)."*

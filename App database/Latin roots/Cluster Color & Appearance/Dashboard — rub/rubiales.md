@@ -5,13 +5,6 @@ status: unread
 ---
 # rubiales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubiales designates an order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubiales designates an order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # protoplanet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoplanet designates a hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoplanet designates a hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet."*

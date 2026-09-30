@@ -5,13 +5,6 @@ status: unread
 ---
 # entasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight convexity especially in the shaft of a column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight convexity especially in the shaft of a column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entasis designates a slight convexity especially in the shaft of a column."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight convexity especially in the shaft of a column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight convexity especially in the shaft of a column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entasis designates a slight convexity especially in the shaft of a column."*

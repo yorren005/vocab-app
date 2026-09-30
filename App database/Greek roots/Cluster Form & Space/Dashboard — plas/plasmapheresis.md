@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmapheresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmapheresis designates a process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmapheresis designates a process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system."*

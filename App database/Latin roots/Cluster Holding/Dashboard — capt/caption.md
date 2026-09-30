@@ -5,14 +5,6 @@ status: unread
 ---
 # caption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking exception; especially a quibble based on a captious argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translation of foreign dialogue of a movie or tv program; usually displayed at the bottom of the screen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Emancipation and its attendant agitations brought to the front a new class of political questions, which can best be grouped under the above caption."*
-> - 📜 **James Joyce (*Ulysses*):** *"Boudin find the captain’s age, his eyes went aimlessly over the respective captions which came under his special province the allembracing give us this day our daily press."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking exception; especially a quibble based on a captious argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translation of foreign dialogue of a movie or tv program; usually displayed at the bottom of the screen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Emancipation and its attendant agitations brought to the front a new class of political questions, which can best be grouped under the above caption."*
+> - 📜 **James Joyce (*Ulysses*):** *"Boudin find the captain’s age, his eyes went aimlessly over the respective captions which came under his special province the allembracing give us this day our daily press."*

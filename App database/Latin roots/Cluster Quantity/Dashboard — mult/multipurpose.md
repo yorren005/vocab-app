@@ -5,13 +5,6 @@ status: unread
 ---
 # multipurpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple uses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having multiple uses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multipurpose designates having multiple uses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple uses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having multiple uses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multipurpose designates having multiple uses."*

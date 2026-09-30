@@ -5,13 +5,6 @@ status: unread
 ---
 # paraldehyde
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless liquid (a cyclic trimer of acetaldehyde) that is used as a sedative and a solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless liquid (a cyclic trimer of acetaldehyde) that is used as a sedative and a solvent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraldehyde designates a colorless liquid (a cyclic trimer of acetaldehyde) that is used as a sedative and a solvent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless liquid (a cyclic trimer of acetaldehyde) that is used as a sedative and a solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless liquid (a cyclic trimer of acetaldehyde) that is used as a sedative and a solvent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraldehyde designates a colorless liquid (a cyclic trimer of acetaldehyde) that is used as a sedative and a solvent."*

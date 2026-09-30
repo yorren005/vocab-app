@@ -5,13 +5,6 @@ status: unread
 ---
 # stylization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stylizing; causing to conform to a particular style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of stylizing; causing to conform to a particular style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylization designates the act of stylizing; causing to conform to a particular style."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stylizing; causing to conform to a particular style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of stylizing; causing to conform to a particular style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylization designates the act of stylizing; causing to conform to a particular style."*

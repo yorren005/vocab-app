@@ -5,15 +5,6 @@ status: unread
 ---
 # diffusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading by diffusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading by diffusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And even here, in order to avoid a research too vague and diffusive, it will be proper to confine ourselves to the few examples which are best known, and which bear the greatest analogy to our particular case."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As far as it may consist of internal collections, a more diffusive knowledge of the circumstances of the State may be necessary."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I leave every man to decide whether the result of any one of these experiments can be said to countenance a suspicion, that a diffusive mode of choosing representatives of the people tends to elevate traitors and to undermine the public liberty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading by diffusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading by diffusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And even here, in order to avoid a research too vague and diffusive, it will be proper to confine ourselves to the few examples which are best known, and which bear the greatest analogy to our particular case."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As far as it may consist of internal collections, a more diffusive knowledge of the circumstances of the State may be necessary."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I leave every man to decide whether the result of any one of these experiments can be said to countenance a suspicion, that a diffusive mode of choosing representatives of the people tends to elevate traitors and to undermine the public liberty."*

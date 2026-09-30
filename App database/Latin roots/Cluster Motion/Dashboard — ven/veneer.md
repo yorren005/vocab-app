@@ -5,15 +5,6 @@ status: unread
 ---
 # veneer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coating consisting of a thin layer of superior wood glued to a base of inferior wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental coating to a building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The truth seems to be that to this day the peasant remains a pagan and savage at heart; his civilization is merely a thin veneer which the hard knocks of life soon abrade, exposing the solid core of paganism and savagery below."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The veneer of conventional good manners, conventional good taste, only made the actuality of it more appalling ... she with the gifts of life and grace, he with his, and all they could do was be physically intimate...."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She waited a minute in pensive silence, and then said, “Why do you not marry Alice Goff?” “Oh, hang Alice Goff!” “It is so easy to come at the man beneath the veneer by expertly chipping at his feelings,” said Lydia, laughing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coating consisting of a thin layer of superior wood glued to a base of inferior wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental coating to a building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The truth seems to be that to this day the peasant remains a pagan and savage at heart; his civilization is merely a thin veneer which the hard knocks of life soon abrade, exposing the solid core of paganism and savagery below."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The veneer of conventional good manners, conventional good taste, only made the actuality of it more appalling ... she with the gifts of life and grace, he with his, and all they could do was be physically intimate...."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She waited a minute in pensive silence, and then said, “Why do you not marry Alice Goff?” “Oh, hang Alice Goff!” “It is so easy to come at the man beneath the veneer by expertly chipping at his feelings,” said Lydia, laughing."*

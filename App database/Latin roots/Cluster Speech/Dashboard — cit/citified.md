@@ -5,13 +5,6 @@ status: unread
 ---
 # citified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accustom to urban ways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"He had a citified air about him that ate into Tom’s vitals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accustom to urban ways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"He had a citified air about him that ate into Tom’s vitals."*

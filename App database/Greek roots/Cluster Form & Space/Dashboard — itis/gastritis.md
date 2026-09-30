@@ -5,14 +5,6 @@ status: unread
 ---
 # gastritis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation especially of the mucous membrane of the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation especially of the mucous membrane of the stomach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Up to that time, for seventeen years, I had suffered with indigestion and gastritis in the worst form, often being overcome from a seeming pressure against the heart."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bristow, at Whitehall lane, London: Carr, Stoke Newington, of gastritis and heart disease: Cockburn, at the Moat house, Chepstow... —I know that fellow, says Joe, from bitter experience. —Cockburn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation especially of the mucous membrane of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation especially of the mucous membrane of the stomach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Up to that time, for seventeen years, I had suffered with indigestion and gastritis in the worst form, often being overcome from a seeming pressure against the heart."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bristow, at Whitehall lane, London: Carr, Stoke Newington, of gastritis and heart disease: Cockburn, at the Moat house, Chepstow... —I know that fellow, says Joe, from bitter experience. —Cockburn."*

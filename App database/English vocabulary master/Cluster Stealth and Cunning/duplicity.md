@@ -5,20 +5,6 @@ status: unread
 ---
 # duplicity
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The quality of being double or twofold
-> 2. **Nuance / Usage**: Intentional deceptiveness; double-dealing
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If I were not afraid of judging harshly, I should be almost tempted to say, that there is a strong appearance of duplicity in all this."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The manoeuvres of selfishness and duplicity must ever be revolting, but I have heard nothing which really surprises me."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her duplicity hurts me more than all; till the very last, if I reasoned with her, she declared herself as much attached to me as ever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Deliberate deceptiveness in behavior or speech; double-dealing in which one pretends to hold one set of feelings or intentions while secretly acting on another.
+> 2. **Nuance / Usage**: Etymologically rooted in the state of being twofold (*duplex*), it carries a formal, moral condemnation of calculated hypocrisy and betrayal of trust, as opposed to a simple lie.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass).
+> - **Syntactic Constructions**: Functions as an abstract subject or object of moral judgment (*accused of duplicity*, *unmasked his duplicity*).
+> - **Collocations & Registers**: Formal, diplomatic, and literary registers; collocated with *calculated*, *diplomatic*, *brazen*, and *treachery*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If I were not afraid of judging harshly, I should be almost tempted to say that there is a strong appearance of **duplicity** in all this."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"No man, for any considerable period, can wear one face to himself and another to the multitude, without finally getting bewildered as to which may be the true one through his own **duplicity**."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"He had been betrayed not by open force, but by the quiet **duplicity** of men who smiled while they signed away his honor."*

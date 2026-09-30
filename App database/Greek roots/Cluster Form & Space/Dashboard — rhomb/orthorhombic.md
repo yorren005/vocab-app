@@ -5,13 +5,6 @@ status: unread
 ---
 # orthorhombic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthorhombic designates of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthorhombic designates of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other."*

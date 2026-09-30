@@ -5,15 +5,6 @@ status: unread
 ---
 # baseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness by virtue of lacking higher values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness by virtue of lacking higher values.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Cleopatra died, I have lived in such dishonour that the gods Detest my baseness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not do’t, Lest I surcease to honour mine own truth And, by my body’s action, teach my mind A most inherent baseness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou took’st a beggar, wouldst have made my throne A seat for baseness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness by virtue of lacking higher values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness by virtue of lacking higher values.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Cleopatra died, I have lived in such dishonour that the gods Detest my baseness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not do’t, Lest I surcease to honour mine own truth And, by my body’s action, teach my mind A most inherent baseness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou took’st a beggar, wouldst have made my throne A seat for baseness."*

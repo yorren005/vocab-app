@@ -5,13 +5,6 @@ status: unread
 ---
 # auxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various usually acidic organic substances that promote cell elongation in plant shoots and usually regulate other growth processes (such as root initiation): such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indoleacetic acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxin designates any of various usually acidic organic substances that promote cell elongation in plant shoots and usually regulate other growth processes (such as root initiation): such as."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various usually acidic organic substances that promote cell elongation in plant shoots and usually regulate other growth processes (such as root initiation): such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indoleacetic acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxin designates any of various usually acidic organic substances that promote cell elongation in plant shoots and usually regulate other growth processes (such as root initiation): such as."*

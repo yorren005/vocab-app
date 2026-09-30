@@ -5,15 +5,6 @@ status: unread
 ---
 # preponderance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Superiority in power or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superiority in numbers or amount.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Despite the great preponderance of domestic production over foreign trade, it is perhaps too much to say that the tariff is unimportant in our present conditions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But I am constrained to take a view of the case which gives the preponderance to Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To attain this end we must secure a preponderance of virtue over vice and must endeavor to secure that the honest man may, even in this world, receive a lasting reward for his virtue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superiority in power or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superiority in numbers or amount.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Despite the great preponderance of domestic production over foreign trade, it is perhaps too much to say that the tariff is unimportant in our present conditions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But I am constrained to take a view of the case which gives the preponderance to Mr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To attain this end we must secure a preponderance of virtue over vice and must endeavor to secure that the honest man may, even in this world, receive a lasting reward for his virtue."*

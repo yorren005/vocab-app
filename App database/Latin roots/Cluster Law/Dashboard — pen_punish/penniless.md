@@ -5,15 +5,6 @@ status: unread
 ---
 # penniless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough money to pay for necessities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having enough money to pay for necessities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had always thought that some accident might happen which would throw me suddenly, without any relation or any property, on the world and had always tried to keep some little money by me that I might not be quite penniless."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps he revered his father’s practice even more now than ever, seeing that, in the question of making Tessy his wife, his father had not once thought of inquiring whether she were well provided or penniless."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A young Southern girl, who had lost a position through five months' sickness, and found herself, at last, in the street and penniless, turned her steps to a daily prayer-meeting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough money to pay for necessities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having enough money to pay for necessities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I had always thought that some accident might happen which would throw me suddenly, without any relation or any property, on the world and had always tried to keep some little money by me that I might not be quite penniless."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps he revered his father’s practice even more now than ever, seeing that, in the question of making Tessy his wife, his father had not once thought of inquiring whether she were well provided or penniless."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A young Southern girl, who had lost a position through five months' sickness, and found herself, at last, in the street and penniless, turned her steps to a daily prayer-meeting."*

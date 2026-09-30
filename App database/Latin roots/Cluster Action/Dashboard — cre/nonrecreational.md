@@ -5,13 +5,6 @@ status: unread
 ---
 # nonrecreational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving gainful employment in something often done as a hobby.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving gainful employment in something often done as a hobby.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrecreational designates involving gainful employment in something often done as a hobby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving gainful employment in something often done as a hobby.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving gainful employment in something often done as a hobby.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrecreational designates involving gainful employment in something often done as a hobby."*

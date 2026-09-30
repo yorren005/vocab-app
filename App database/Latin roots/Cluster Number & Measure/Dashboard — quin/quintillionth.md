@@ -5,13 +5,6 @@ status: unread
 ---
 # quintillionth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One part in a quintillion equal parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of one quintillion in counting order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintillionth designates one part in a quintillion equal parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One part in a quintillion equal parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of one quintillion in counting order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintillionth designates one part in a quintillion equal parts."*

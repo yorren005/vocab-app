@@ -5,13 +5,6 @@ status: unread
 ---
 # sinusoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny endothelium-lined passages for blood in the tissue of an organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curve of y=sin x.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinusoid designates tiny endothelium-lined passages for blood in the tissue of an organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny endothelium-lined passages for blood in the tissue of an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curve of y=sin x.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinusoid designates tiny endothelium-lined passages for blood in the tissue of an organ."*

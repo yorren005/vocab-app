@@ -5,13 +5,6 @@ status: unread
 ---
 # unnoticeably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperceptible manner or to an imperceptible degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperceptible manner or to an imperceptible degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Nevertheless at eleven o’clock she was walking towards Middlemarch, having made up her mind that she would make as quietly and unnoticeably as possible her second attempt to see and save Rosamond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperceptible manner or to an imperceptible degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperceptible manner or to an imperceptible degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Nevertheless at eleven o’clock she was walking towards Middlemarch, having made up her mind that she would make as quietly and unnoticeably as possible her second attempt to see and save Rosamond."*

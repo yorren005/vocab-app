@@ -5,15 +5,6 @@ status: unread
 ---
 # senility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental infirmity as a consequence of old age; sometimes shown by foolish infatuations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being senile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I, too, affected not to recognize my enemy, and, putting on an idiotic senility, I, too, crawled in the dust toward the litter whining for mercy and charity."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He made a slight motion to me to approach him, and instantly, as he turned his face half round to the company once more, subsided into a doddering, loose-lipped senility."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He showed marked signs of senility by a tendency to fall asleep, forgetfulness of quite recent events, remembrance of remote ones, and the childish vanity with which he accepted the role of head of the Moscow opposition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental infirmity as a consequence of old age; sometimes shown by foolish infatuations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being senile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I, too, affected not to recognize my enemy, and, putting on an idiotic senility, I, too, crawled in the dust toward the litter whining for mercy and charity."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He made a slight motion to me to approach him, and instantly, as he turned his face half round to the company once more, subsided into a doddering, loose-lipped senility."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He showed marked signs of senility by a tendency to fall asleep, forgetfulness of quite recent events, remembrance of remote ones, and the childish vanity with which he accepted the role of head of the Moscow opposition."*

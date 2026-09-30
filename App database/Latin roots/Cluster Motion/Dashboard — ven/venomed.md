@@ -5,15 +5,6 @@ status: unread
 ---
 # venomed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of malice or hate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of malice or hate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am disgraced, impeached, and baffled here, Pierced to the soul with slander’s venomed spear, The which no balm can cure but his heart-blood Which breathed this poison."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More direful hap betide that hated wretch That makes us wretched by the death of thee Than I can wish to adders, spiders, toads, Or any creeping venomed thing that lives."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Then it fled, this "soul out of my soul." He goes into the wintry forest of life, where "one whose voice was venomed melody" entraps and poisons his youth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of malice or hate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of malice or hate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am disgraced, impeached, and baffled here, Pierced to the soul with slander’s venomed spear, The which no balm can cure but his heart-blood Which breathed this poison."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More direful hap betide that hated wretch That makes us wretched by the death of thee Than I can wish to adders, spiders, toads, Or any creeping venomed thing that lives."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Then it fled, this "soul out of my soul." He goes into the wintry forest of life, where "one whose voice was venomed melody" entraps and poisons his youth."*

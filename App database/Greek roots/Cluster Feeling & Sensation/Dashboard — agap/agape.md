@@ -5,15 +5,6 @@ status: unread
 ---
 # agape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wide open : gaping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being in a state of wonder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was what their _Agape_ had come to."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was no more than six, and I remember looking on with mouth agape while his mother held him on her lap and his father set about bandaging the wound."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan, on his feet, mouth agape, stared at Xindral."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wide open : gaping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being in a state of wonder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was what their _Agape_ had come to."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was no more than six, and I remember looking on with mouth agape while his mother held him on her lap and his father set about bandaging the wound."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan, on his feet, mouth agape, stared at Xindral."*

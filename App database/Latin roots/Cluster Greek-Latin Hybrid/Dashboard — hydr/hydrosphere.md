@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The watery layer of the earth's surface; includes water vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The watery layer of the earth's surface; includes water vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrosphere designates the watery layer of the earth's surface; includes water vapor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The watery layer of the earth's surface; includes water vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The watery layer of the earth's surface; includes water vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrosphere designates the watery layer of the earth's surface; includes water vapor."*

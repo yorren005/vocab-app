@@ -5,15 +5,6 @@ status: unread
 ---
 # disinterestedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from bias or from selfish motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from bias or from selfish motives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And the outspoken honesty of his character was such that on any subject, even that of her love for, or marriage with, another man, the same disinterestedness of opinion might be calculated on, and be had for the asking."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He came to Trantridge two or three years ago to preach on behalf of some missionary society; and I, wretched fellow that I was, insulted him when, in his disinterestedness, he tried to reason with me and show me the way."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The difference of fortune can be nothing to signify.” “Oh! my sweet Catherine, in _your_ generous heart I know it would signify nothing; but we must not expect such disinterestedness in many."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from bias or from selfish motives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from bias or from selfish motives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And the outspoken honesty of his character was such that on any subject, even that of her love for, or marriage with, another man, the same disinterestedness of opinion might be calculated on, and be had for the asking."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He came to Trantridge two or three years ago to preach on behalf of some missionary society; and I, wretched fellow that I was, insulted him when, in his disinterestedness, he tried to reason with me and show me the way."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The difference of fortune can be nothing to signify.” “Oh! my sweet Catherine, in _your_ generous heart I know it would signify nothing; but we must not expect such disinterestedness in many."*

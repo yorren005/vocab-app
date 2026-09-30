@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptoprocta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large primitive cat-like carnivores inhabiting forests of madagascar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large primitive cat-like carnivores inhabiting forests of madagascar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptoprocta designates large primitive cat-like carnivores inhabiting forests of madagascar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large primitive cat-like carnivores inhabiting forests of madagascar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large primitive cat-like carnivores inhabiting forests of madagascar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptoprocta designates large primitive cat-like carnivores inhabiting forests of madagascar."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # engraver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who can inscribe designs or writing onto a surface by carving or etching.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printmaker who prints from an engraved printing plate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He was an engraver as well as goldsmith, sculptor, and painter.”--Heaton."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Charles Craske, an engraver of New York, introduced the method into the stereotype trade of the United States in 1850, and in 1854 he stereotyped a page of the "_New York Herald_" and later made stereotypes for other New York newspapers."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Adams, a wood-engraver connected with Harper & Bros. in New York, experimented along lines similar to those Spencer had pursued, but using a wood-cut from which to mold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who can inscribe designs or writing onto a surface by carving or etching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printmaker who prints from an engraved printing plate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He was an engraver as well as goldsmith, sculptor, and painter.”--Heaton."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Charles Craske, an engraver of New York, introduced the method into the stereotype trade of the United States in 1850, and in 1854 he stereotyped a page of the "_New York Herald_" and later made stereotypes for other New York newspapers."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Adams, a wood-engraver connected with Harper & Bros. in New York, experimented along lines similar to those Spencer had pursued, but using a wood-cut from which to mold."*

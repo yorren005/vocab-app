@@ -5,13 +5,6 @@ status: unread
 ---
 # matronymic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from the name of your mother or a maternal ancestor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A name derived from the name of your mother or a maternal ancestor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matronymic designates a name derived from the name of your mother or a maternal ancestor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from the name of your mother or a maternal ancestor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A name derived from the name of your mother or a maternal ancestor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matronymic designates a name derived from the name of your mother or a maternal ancestor."*

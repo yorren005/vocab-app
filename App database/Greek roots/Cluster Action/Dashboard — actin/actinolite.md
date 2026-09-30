@@ -5,13 +5,6 @@ status: unread
 ---
 # actinolite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green mineral of the amphibole group; calcium magnesium iron silicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green mineral of the amphibole group; calcium magnesium iron silicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinolite designates a green mineral of the amphibole group; calcium magnesium iron silicate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A green mineral of the amphibole group; calcium magnesium iron silicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green mineral of the amphibole group; calcium magnesium iron silicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinolite designates a green mineral of the amphibole group; calcium magnesium iron silicate."*

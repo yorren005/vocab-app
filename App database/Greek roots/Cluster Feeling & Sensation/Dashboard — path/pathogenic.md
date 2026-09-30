@@ -5,13 +5,6 @@ status: unread
 ---
 # pathogenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathogenetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or capable of causing disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenic designates pathogenetic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathogenetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or capable of causing disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenic designates pathogenetic."*

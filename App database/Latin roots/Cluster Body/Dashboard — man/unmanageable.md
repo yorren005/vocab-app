@@ -5,15 +5,6 @@ status: unread
 ---
 # unmanageable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to use or handle or manage because of size or weight or shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to control; ,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn observes, following her out upon the staircase, “as the most implacable and unmanageable of women."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I assure you, I have not seen a soul this whole long morning.” “You have had your little boys with you?” “Yes, as long as I could bear their noise; but they are so unmanageable that they do me more harm than good."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The wind still increasing, every stitch of canvas was taken in, and now the vessel lay helpless and unmanageable in the trough of the sea, not minding her helm at all, while the wind blew a perfect hurricane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to use or handle or manage because of size or weight or shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to control; ,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn observes, following her out upon the staircase, “as the most implacable and unmanageable of women."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I assure you, I have not seen a soul this whole long morning.” “You have had your little boys with you?” “Yes, as long as I could bear their noise; but they are so unmanageable that they do me more harm than good."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The wind still increasing, every stitch of canvas was taken in, and now the vessel lay helpless and unmanageable in the trough of the sea, not minding her helm at all, while the wind blew a perfect hurricane."*

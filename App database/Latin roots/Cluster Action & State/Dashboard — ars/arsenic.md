@@ -5,15 +5,6 @@ status: unread
 ---
 # arsenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powdered poisonous trioxide of arsenic; used in manufacturing glass and as a pesticide (rat poison) and weed killer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As to his religious notions—why, as Voltaire said, incantations will destroy a flock of sheep if administered with a certain quantity of arsenic."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I look for the man who will bring the arsenic, and don’t mind about his incantations.” “Very good."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But then you must not offend your arsenic-man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powdered poisonous trioxide of arsenic; used in manufacturing glass and as a pesticide (rat poison) and weed killer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As to his religious notions—why, as Voltaire said, incantations will destroy a flock of sheep if administered with a certain quantity of arsenic."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I look for the man who will bring the arsenic, and don’t mind about his incantations.” “Very good."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But then you must not offend your arsenic-man."*

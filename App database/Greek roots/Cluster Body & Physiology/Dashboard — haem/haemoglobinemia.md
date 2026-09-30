@@ -5,13 +5,6 @@ status: unread
 ---
 # haemoglobinemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excessive hemoglobin in the blood plasma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excessive hemoglobin in the blood plasma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoglobinemia designates presence of excessive hemoglobin in the blood plasma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excessive hemoglobin in the blood plasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excessive hemoglobin in the blood plasma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoglobinemia designates presence of excessive hemoglobin in the blood plasma."*

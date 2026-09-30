@@ -5,15 +5,6 @@ status: unread
 ---
 # monogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of identity usually formed of the combined initials of a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mark with a monogram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was of gold, and bore his monogram in diamonds."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You're like Isabel, who can't forgive him for sporting a diamond monogram." "No, but I'm interested."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of identity usually formed of the combined initials of a name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mark with a monogram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It was of gold, and bore his monogram in diamonds."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"You're like Isabel, who can't forgive him for sporting a diamond monogram." "No, but I'm interested."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*

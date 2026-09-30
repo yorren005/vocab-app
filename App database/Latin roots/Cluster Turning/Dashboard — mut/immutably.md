@@ -5,15 +5,6 @@ status: unread
 ---
 # immutably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unalterable and unchangeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unalterable and unchangeable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This whole act’s immutably decreed. ’Twas rehearsed by thee and me a billion years before this ocean rolled."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This whole act’s immutably decreed. ’Twas rehearsed by thee and me a billion years before this ocean rolled."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is "the same yesterday, and to-day, and forever;" and 3:1 He who is immutably right will do right without being reminded of His province."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unalterable and unchangeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unalterable and unchangeable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This whole act’s immutably decreed. ’Twas rehearsed by thee and me a billion years before this ocean rolled."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This whole act’s immutably decreed. ’Twas rehearsed by thee and me a billion years before this ocean rolled."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is "the same yesterday, and to-day, and forever;" and 3:1 He who is immutably right will do right without being reminded of His province."*

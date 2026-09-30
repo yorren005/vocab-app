@@ -5,13 +5,6 @@ status: unread
 ---
 # schismatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who creates or takes part in schism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or guilty of schism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"His doom be that of a parricide, Or of a swindling oil-presser, Or of a cheat with measure and weight, Or of Devadatta the first schismatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who creates or takes part in schism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or guilty of schism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"His doom be that of a parricide, Or of a swindling oil-presser, Or of a cheat with measure and weight, Or of Devadatta the first schismatic."*

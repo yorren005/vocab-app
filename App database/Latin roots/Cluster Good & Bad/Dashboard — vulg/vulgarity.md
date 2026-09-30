@@ -5,15 +5,6 @@ status: unread
 ---
 # vulgarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking taste and refinement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Philips’s vulgarity was another, and, perhaps, a greater tax on his forbearance; and though Mrs."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had measured in that moment the extent of his error, and he cursed, not for the first time, his want of perception, which his ever-candid father had once called a streak of vulgarity."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The streak of vulgarity again! and worse than vulgarity: Andrew Hyde's sardonic old voice was ringing in his ears, "Lawrence, you'll never be a gentleman." "All right, we'll leave it at that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking taste and refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Philips’s vulgarity was another, and, perhaps, a greater tax on his forbearance; and though Mrs."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He had measured in that moment the extent of his error, and he cursed, not for the first time, his want of perception, which his ever-candid father had once called a streak of vulgarity."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"The streak of vulgarity again! and worse than vulgarity: Andrew Hyde's sardonic old voice was ringing in his ears, "Lawrence, you'll never be a gentleman." "All right, we'll leave it at that."*

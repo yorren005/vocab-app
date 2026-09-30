@@ -5,15 +5,6 @@ status: unread
 ---
 # deserter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abandons their duty (as on a military post).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He broke out suddenly while clasping me in his arms— “Cruel, cruel deserter!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Toward dawn, Count Orlóv-Denísov, who had dozed off, was awakened by a deserter from the French army being brought to him."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"We were now formed into a company, but having Dempster for our commander, was no small mortification to us; knowing him to be a base wretch, and a deserter from the Bengal Artillery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abandons their duty (as on a military post).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He broke out suddenly while clasping me in his arms— “Cruel, cruel deserter!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Toward dawn, Count Orlóv-Denísov, who had dozed off, was awakened by a deserter from the French army being brought to him."*
+> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"We were now formed into a company, but having Dempster for our commander, was no small mortification to us; knowing him to be a base wretch, and a deserter from the Bengal Artillery."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # corrections
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The department of local government that is responsible for managing the treatment of convicted offenders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social control of offenders through a system of imprisonment and rehabilitation and probation and parole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale’s wholesome corrections."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Short and energetic!” he remarked when he had read over the proclamation which he had dictated straight off without corrections."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Request observation for corrections ..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The department of local government that is responsible for managing the treatment of convicted offenders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social control of offenders through a system of imprisonment and rehabilitation and probation and parole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale’s wholesome corrections."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Short and energetic!” he remarked when he had read over the proclamation which he had dictated straight off without corrections."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Request observation for corrections ..."*

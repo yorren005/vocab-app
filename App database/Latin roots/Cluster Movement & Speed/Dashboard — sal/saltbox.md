@@ -5,13 +5,6 @@ status: unread
 ---
 # saltbox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of house built in new england; has two stories in front and one behind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of house built in new england; has two stories in front and one behind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltbox designates a type of house built in new england; has two stories in front and one behind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of house built in new england; has two stories in front and one behind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of house built in new england; has two stories in front and one behind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltbox designates a type of house built in new england; has two stories in front and one behind."*

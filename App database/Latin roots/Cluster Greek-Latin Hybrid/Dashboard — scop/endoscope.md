@@ -5,13 +5,6 @@ status: unread
 ---
 # endoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates a long slender medical instrument for examining the interior of a bodily organ or performing minor surgery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates a long slender medical instrument for examining the interior of a bodily organ or performing minor surgery."*

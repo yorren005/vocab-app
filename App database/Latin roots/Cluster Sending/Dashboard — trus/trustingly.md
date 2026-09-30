@@ -5,14 +5,6 @@ status: unread
 ---
 # trustingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With trust; in a trusting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With trust; in a trusting manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She led her little boy, by the hand, who trustingly walked by her side."*
-> - 📜 **Effie Afton (*Eventide*):** *"How trustingly they cling to each other, and how their wan aspects brighten in the warmth of their mutual affection!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With trust; in a trusting manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With trust; in a trusting manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She led her little boy, by the hand, who trustingly walked by her side."*
+> - 📜 **Effie Afton (*Eventide*):** *"How trustingly they cling to each other, and how their wan aspects brighten in the warmth of their mutual affection!"*

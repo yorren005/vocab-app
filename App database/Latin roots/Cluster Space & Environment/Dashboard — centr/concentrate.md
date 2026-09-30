@@ -5,15 +5,6 @@ status: unread
 ---
 # concentrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The desired mineral that is left after impurities have been removed from mined ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concentrated form of a foodstuff; the bulk is reduced by removing water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I have so much to think of, in connexion with Borrioboola-Gha and it is so necessary I should concentrate myself that there is my remedy, you see.” As Caddy gave me a glance of entreaty, and as Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The impending night appeared to concentrate in his eye."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I resolved, on my next return from Adam Strang’s experiences, whenever it might be, that I should, immediately, on resuming consciousness, concentrate upon what visions and memories I had brought back of chess playing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The desired mineral that is left after impurities have been removed from mined ore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concentrated form of a foodstuff; the bulk is reduced by removing water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But I have so much to think of, in connexion with Borrioboola-Gha and it is so necessary I should concentrate myself that there is my remedy, you see.” As Caddy gave me a glance of entreaty, and as Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The impending night appeared to concentrate in his eye."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I resolved, on my next return from Adam Strang’s experiences, whenever it might be, that I should, immediately, on resuming consciousness, concentrate upon what visions and memories I had brought back of chess playing."*

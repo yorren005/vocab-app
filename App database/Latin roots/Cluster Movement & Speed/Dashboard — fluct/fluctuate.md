@@ -5,15 +5,6 @@ status: unread
 ---
 # fluctuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to fluctuate or move in a wavelike pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I fluctuate a little; that’s the truth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of any particular kind of goods may fluctuate in either direction as compared with the prices of other goods at the same time."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It might be done by letting the value of the gold dollar fluctuate as it does now, while requiring a greater or less number of dollars to be given in fulfilment of all outstanding contracts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to fluctuate or move in a wavelike pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I fluctuate a little; that’s the truth."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of any particular kind of goods may fluctuate in either direction as compared with the prices of other goods at the same time."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It might be done by letting the value of the gold dollar fluctuate as it does now, while requiring a greater or less number of dollars to be given in fulfilment of all outstanding contracts."*

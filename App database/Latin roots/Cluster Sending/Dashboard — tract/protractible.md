@@ -5,13 +5,6 @@ status: unread
 ---
 # protractible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be extended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractible designates able to be extended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be extended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be extended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractible designates able to be extended."*

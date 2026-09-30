@@ -5,13 +5,6 @@ status: unread
 ---
 # precociousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence achieved far ahead of normal developmental schedules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence achieved far ahead of normal developmental schedules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precociousness designates intelligence achieved far ahead of normal developmental schedules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence achieved far ahead of normal developmental schedules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence achieved far ahead of normal developmental schedules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precociousness designates intelligence achieved far ahead of normal developmental schedules."*

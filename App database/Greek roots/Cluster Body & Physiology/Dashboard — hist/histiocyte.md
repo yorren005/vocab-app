@@ -5,13 +5,6 @@ status: unread
 ---
 # histiocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histiocyte designates macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histiocyte designates macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue."*

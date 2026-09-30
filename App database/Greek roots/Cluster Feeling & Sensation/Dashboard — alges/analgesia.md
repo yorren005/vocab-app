@@ -5,13 +5,6 @@ status: unread
 ---
 # analgesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insensibility to pain without loss of consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insensibility to pain without loss of consciousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesia designates insensibility to pain without loss of consciousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insensibility to pain without loss of consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insensibility to pain without loss of consciousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesia designates insensibility to pain without loss of consciousness."*

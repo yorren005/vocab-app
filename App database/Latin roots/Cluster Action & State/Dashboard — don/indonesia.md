@@ -5,13 +5,6 @@ status: unread
 ---
 # indonesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indonesia designates a republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indonesia designates a republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions."*

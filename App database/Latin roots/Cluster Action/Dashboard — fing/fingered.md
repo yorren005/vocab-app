@@ -5,15 +5,6 @@ status: unread
 ---
 # fingered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel or handle with the fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine by touch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, that Warwick had no more forecast, But, whiles he thought to steal the single ten, The king was slily fingered from the deck!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy was now the mother, and I the godmother, of such a poor little baby—such a tiny old-faced mite, with a countenance that seemed to be scarcely anything but cap-border, and a little lean, long-fingered hand, always clenched under its chin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The deep-veined hands fingered many bank-notes one after the other, laying them down flat again, while Fred leaned back in his chair, scorning to look eager."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel or handle with the fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine by touch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, that Warwick had no more forecast, But, whiles he thought to steal the single ten, The king was slily fingered from the deck!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy was now the mother, and I the godmother, of such a poor little baby—such a tiny old-faced mite, with a countenance that seemed to be scarcely anything but cap-border, and a little lean, long-fingered hand, always clenched under its chin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The deep-veined hands fingered many bank-notes one after the other, laying them down flat again, while Fred leaned back in his chair, scorning to look eager."*

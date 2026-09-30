@@ -5,14 +5,6 @@ status: unread
 ---
 # pel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the smallest discrete component of an image or picture on a crt screen (usually a colored dot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the smallest discrete component of an image or picture on a crt screen (usually a colored dot).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Gifts in cases of great disasters, as the Irish and Indian famines, the Chicago fire, the Galveston flood, the eruption of Mount Pelée, bespeak a widening generosity."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The force in Mount Pelée, if chained and utilized, would run a million factories a million years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the smallest discrete component of an image or picture on a crt screen (usually a colored dot).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the smallest discrete component of an image or picture on a crt screen (usually a colored dot).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Gifts in cases of great disasters, as the Irish and Indian famines, the Chicago fire, the Galveston flood, the eruption of Mount Pelée, bespeak a widening generosity."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The force in Mount Pelée, if chained and utilized, would run a million factories a million years."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # circumvent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surround so as to force to give up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beat through cleverness and wit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might be the pate of a politician which this ass now o’er-offices, one that would circumvent God, might it not?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin might be better able to detect it lurking and to circumvent it."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had to watch the steering, and circumvent those snags, and get the tin-pot along by hook or by crook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surround so as to force to give up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beat through cleverness and wit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might be the pate of a politician which this ass now o’er-offices, one that would circumvent God, might it not?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Minchin might be better able to detect it lurking and to circumvent it."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had to watch the steering, and circumvent those snags, and get the tin-pot along by hook or by crook."*

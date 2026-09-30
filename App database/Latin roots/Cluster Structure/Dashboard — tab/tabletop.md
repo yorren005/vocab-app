@@ -5,15 +5,6 @@ status: unread
 ---
 # tabletop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The top horizontal work surface of a table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top horizontal work surface of a table.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Absently, his stubby fingers drummed the tabletop."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They shoved and twisted through the narrow spaces to the table in time for Hodak to slam his hand, palm down, flat on the tabletop, glaring off a trio of competitors."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But, collectively, we will not only resist them, we will win and take back full control of space throughout the Outer Region." Eyes cold, voice gritty as space-sand, Brad tapped the tabletop."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The top horizontal work surface of a table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top horizontal work surface of a table.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Absently, his stubby fingers drummed the tabletop."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They shoved and twisted through the narrow spaces to the table in time for Hodak to slam his hand, palm down, flat on the tabletop, glaring off a trio of competitors."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But, collectively, we will not only resist them, we will win and take back full control of space throughout the Outer Region." Eyes cold, voice gritty as space-sand, Brad tapped the tabletop."*

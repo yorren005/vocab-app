@@ -5,13 +5,6 @@ status: unread
 ---
 # aristolochiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of birthworts (including wild ginger).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of birthworts (including wild ginger).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristolochiaceae designates family of birthworts (including wild ginger)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of birthworts (including wild ginger).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of birthworts (including wild ginger).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristolochiaceae designates family of birthworts (including wild ginger)."*

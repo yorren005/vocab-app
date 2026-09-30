@@ -5,15 +5,6 @@ status: unread
 ---
 # passable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be passed or traversed or crossed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About average; acceptable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The virtue of your name Is not here passable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His body’s a passable carcass if he be not hurt."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Save in very wet weather this road was passable for most vehicles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be passed or traversed or crossed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About average; acceptable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The virtue of your name Is not here passable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His body’s a passable carcass if he be not hurt."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Save in very wet weather this road was passable for most vehicles."*

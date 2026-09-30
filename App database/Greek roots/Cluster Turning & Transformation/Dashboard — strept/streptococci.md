@@ -5,13 +5,6 @@ status: unread
 ---
 # streptococci
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococci designates spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococci designates spherical gram-positive bacteria occurring in pairs or chains; cause e.g. scarlet fever and tonsillitis."*

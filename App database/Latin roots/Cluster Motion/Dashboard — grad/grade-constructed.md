@@ -5,13 +5,6 @@ status: unread
 ---
 # grade-constructed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed at ground level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed at ground level.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grade-constructed designates constructed at ground level."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed at ground level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed at ground level.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grade-constructed designates constructed at ground level."*

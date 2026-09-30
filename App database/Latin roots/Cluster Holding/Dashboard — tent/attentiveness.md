@@ -5,14 +5,6 @@ status: unread
 ---
 # attentiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying particular notice (as to children or helpless people).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being considerate and thoughtful of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I am ashamed of you and of myself, but it shall never happen again.” “_Your_ attentiveness and consideration makes me more sensible of my own neglect."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had also a deferential bending attitude in listening, and an apparently fixed attentiveness in his eyes which made those persons who thought themselves worth hearing infer that he was seeking the utmost improvement from their discourse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying particular notice (as to children or helpless people).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being considerate and thoughtful of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I am ashamed of you and of myself, but it shall never happen again.” “_Your_ attentiveness and consideration makes me more sensible of my own neglect."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had also a deferential bending attitude in listening, and an apparently fixed attentiveness in his eyes which made those persons who thought themselves worth hearing infer that he was seeking the utmost improvement from their discourse."*

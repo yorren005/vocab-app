@@ -5,13 +5,6 @@ status: unread
 ---
 # vibrionic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by bacteria of the genus vibrio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by bacteria of the genus vibrio.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrionic designates caused by bacteria of the genus vibrio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by bacteria of the genus vibrio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by bacteria of the genus vibrio.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrionic designates caused by bacteria of the genus vibrio."*

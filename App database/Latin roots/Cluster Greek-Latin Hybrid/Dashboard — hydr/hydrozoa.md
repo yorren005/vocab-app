@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrozoa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coelenterates typically having alternation of generations; hydroid phase is usually colonial giving rise to the medusoid phase by budding: hydras and jellyfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial coelenterates having the polyp phase dominant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrozoa designates coelenterates typically having alternation of generations; hydroid phase is usually colonial giving rise to the medusoid phase by budding: hydras and jellyfishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coelenterates typically having alternation of generations; hydroid phase is usually colonial giving rise to the medusoid phase by budding: hydras and jellyfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial coelenterates having the polyp phase dominant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrozoa designates coelenterates typically having alternation of generations; hydroid phase is usually colonial giving rise to the medusoid phase by budding: hydras and jellyfishes."*

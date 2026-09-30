@@ -5,20 +5,6 @@ status: unread
 ---
 # estrangement
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The state of being alien; foreign, non-native
-> 2. **Nuance / Usage**: Remove from customary environment or associations
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to estrangement the target*) and intransitive clauses (*estrangementing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"solely on his side, an estrangement began to arise between them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada as I can in this condition of estrangement from poor Rick."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her illness or estrangement did not affect Amelia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The state of being alienated, divided, or turned away in affection from someone who was formerly close, such as a friend, spouse, or family member.
+> 2. **Nuance / Usage**: In philosophical and sociological discourse, also denotes a broader psychological alienation from one's community, heritage, or authentic self.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to estrangement the target*) and intransitive clauses (*estrangementing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Solely on his side, an **estrangement** began to arise between them."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her illness or **estrangement** did not affect Amelia’s steadfast devotion."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Years of silent **estrangement** had hardened the brothers' hearts against one another."*

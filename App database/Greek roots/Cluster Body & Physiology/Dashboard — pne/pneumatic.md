@@ -5,14 +5,6 @@ status: unread
 ---
 # pneumatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using gas (such as air or wind):.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moved or worked by air pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When it is fired it "kicks" backwards, against the force of a buffer of springs, or a hydraulic or pneumatic cylinder."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The invention of the bicycle with pneumatic tires, coincident with the adoption of electric traction for street cars, reduced the price of horses between 1890 and 1895."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using gas (such as air or wind):.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moved or worked by air pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When it is fired it "kicks" backwards, against the force of a buffer of springs, or a hydraulic or pneumatic cylinder."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The invention of the bicycle with pneumatic tires, coincident with the adoption of electric traction for street cars, reduced the price of horses between 1890 and 1895."*

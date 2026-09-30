@@ -5,13 +5,6 @@ status: unread
 ---
 # deictic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word specifying identity or spatial or temporal location from the perspective of a speaker or hearer in the context in which the communication occurs; - r.rommetveit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a word whose reference depends on the circumstances of its use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deictic designates a word specifying identity or spatial or temporal location from the perspective of a speaker or hearer in the context in which the communication occurs; - r.rommetveit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word specifying identity or spatial or temporal location from the perspective of a speaker or hearer in the context in which the communication occurs; - r.rommetveit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a word whose reference depends on the circumstances of its use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deictic designates a word specifying identity or spatial or temporal location from the perspective of a speaker or hearer in the context in which the communication occurs; - r.rommetveit."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # odor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property detected by the olfactory system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she entered his room with this concoction a little later, the odor from it was so inviting that the Baron breathed it in gratefully."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed even unconscious that trivialities existed, and never handed round that small-talk of heavy men which is as acceptable as stale bride-cake brought forth with an odor of cupboard."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Raffles, both of which seemed to have a stale odor of travellers’ rooms in the commercial hotels of that period."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property detected by the olfactory system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she entered his room with this concoction a little later, the odor from it was so inviting that the Baron breathed it in gratefully."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed even unconscious that trivialities existed, and never handed round that small-talk of heavy men which is as acceptable as stale bride-cake brought forth with an odor of cupboard."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Raffles, both of which seemed to have a stale odor of travellers’ rooms in the commercial hotels of that period."*

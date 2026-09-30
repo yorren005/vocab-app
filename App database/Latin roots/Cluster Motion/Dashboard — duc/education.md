@@ -5,15 +5,6 @@ status: unread
 ---
 # education
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities of educating or instructing; activities that impart knowledge or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge acquired by learning and instruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My father charged you in his will to give me good education."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities of educating or instructing; activities that impart knowledge or skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge acquired by learning and instruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My father charged you in his will to give me good education."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # interrupted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a break in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy the peace or tranquility of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you hence, Before the tag return, whose rage doth rend Like interrupted waters, and o’erbear What they are used to bear?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know she is not, for this match made up Her presence would have interrupted much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not in my house, Lucentio, for you know Pitchers have ears, and I have many servants; Besides, old Gremio is hearkening still, And happily we might be interrupted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a break in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy the peace or tranquility of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you hence, Before the tag return, whose rage doth rend Like interrupted waters, and o’erbear What they are used to bear?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know she is not, for this match made up Her presence would have interrupted much."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not in my house, Lucentio, for you know Pitchers have ears, and I have many servants; Besides, old Gremio is hearkening still, And happily we might be interrupted."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # artillery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large but transportable armament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An army unit that uses big guns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Tower with all the haste I can To view th’ artillery and munition; And then I will proclaim young Henry king. [_Exit._] EXETER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not heard great ordnance in the field, And heaven’s artillery thunder in the skies?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large but transportable armament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An army unit that uses big guns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Tower with all the haste I can To view th’ artillery and munition; And then I will proclaim young Henry king. [_Exit._] EXETER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not heard great ordnance in the field, And heaven’s artillery thunder in the skies?"*

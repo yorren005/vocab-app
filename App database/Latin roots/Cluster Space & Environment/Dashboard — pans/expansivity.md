@@ -5,13 +5,6 @@ status: unread
 ---
 # expansivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fractional change in length or area or volume per unit change in temperature at a given constant pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality characterized by magnificence of scale or the tendency to expand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansivity designates the fractional change in length or area or volume per unit change in temperature at a given constant pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fractional change in length or area or volume per unit change in temperature at a given constant pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality characterized by magnificence of scale or the tendency to expand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansivity designates the fractional change in length or area or volume per unit change in temperature at a given constant pressure."*

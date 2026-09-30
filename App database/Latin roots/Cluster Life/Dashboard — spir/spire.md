@@ -5,15 +5,6 @@ status: unread
 ---
 # spire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall tower that forms the superstructure of a building (usually a church or temple) and that tapers to a point at the top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall tower that forms the superstructure of a building (usually a church or temple) and that tapers to a point at the top.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among the trees and not far from the residence he pointed out the spire of the little church of which he had spoken."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, Frank—I made a mistake!—I thought that church with the spire was All Saints’, and I was at the door at half-past eleven to a minute as you said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall tower that forms the superstructure of a building (usually a church or temple) and that tapers to a point at the top.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall tower that forms the superstructure of a building (usually a church or temple) and that tapers to a point at the top.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Among the trees and not far from the residence he pointed out the spire of the little church of which he had spoken."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, Frank—I made a mistake!—I thought that church with the spire was All Saints’, and I was at the door at half-past eleven to a minute as you said."*

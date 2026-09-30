@@ -5,13 +5,6 @@ status: unread
 ---
 # anisotropic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not invariant with respect to direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not invariant with respect to direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisotropic designates not invariant with respect to direction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not invariant with respect to direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not invariant with respect to direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisotropic designates not invariant with respect to direction."*

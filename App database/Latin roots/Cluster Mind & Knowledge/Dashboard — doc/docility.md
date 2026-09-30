@@ -5,15 +5,6 @@ status: unread
 ---
 # docility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being agreeably submissive and manageable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being agreeably submissive and manageable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus her silence of docility was misinterpreted."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"With the fitful docility of the mad, Janaway obeyed, and directly he did so Lawrence checked and stood on the defensive, taking a moment to collect his wits--he had need of them: he had to make his head guard his hands."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He took her by the hands and raised her to her feet, and Isabel with irreproachable docility began to collect her scattered belongings, her sable scarf and mull and veil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being agreeably submissive and manageable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being agreeably submissive and manageable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus her silence of docility was misinterpreted."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"With the fitful docility of the mad, Janaway obeyed, and directly he did so Lawrence checked and stood on the defensive, taking a moment to collect his wits--he had need of them: he had to make his head guard his hands."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He took her by the hands and raised her to her feet, and Isabel with irreproachable docility began to collect her scattered belongings, her sable scarf and mull and veil."*

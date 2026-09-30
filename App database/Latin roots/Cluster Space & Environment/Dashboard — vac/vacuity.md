@@ -5,15 +5,6 @@ status: unread
 ---
 # vacuity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region that is devoid of matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sky wore, in another colour, the same likeness; a white vacuity of countenance with the lineaments gone."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The tape-like surface of the road diminished in his rear as far as he could see, and as he gazed a moving spot intruded on the white vacuity of its perspective."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He staggered at the door, and his head coming noisily in contact with it, he slipped down into a sitting posture with an expression suddenly changed from ferocity to a complete vacuity and indifference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region that is devoid of matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sky wore, in another colour, the same likeness; a white vacuity of countenance with the lineaments gone."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The tape-like surface of the road diminished in his rear as far as he could see, and as he gazed a moving spot intruded on the white vacuity of its perspective."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He staggered at the door, and his head coming noisily in contact with it, he slipped down into a sitting posture with an expression suddenly changed from ferocity to a complete vacuity and indifference."*

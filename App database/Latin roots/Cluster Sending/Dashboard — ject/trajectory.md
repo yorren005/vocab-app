@@ -5,14 +5,6 @@ status: unread
 ---
 # trajectory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The path followed by an object moving through space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The path followed by an object moving through space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bomb has to have a place to insert fuse and trajectory data and fine tune the initial settings."*
-> - 📜 **James Joyce (*Ulysses*):** *"Other eyewitnesses depose that they observed an incandescent object of enormous proportions hurtling through the atmosphere at a terrifying velocity in a trajectory directed southwest by west."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The path followed by an object moving through space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The path followed by an object moving through space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bomb has to have a place to insert fuse and trajectory data and fine tune the initial settings."*
+> - 📜 **James Joyce (*Ulysses*):** *"Other eyewitnesses depose that they observed an incandescent object of enormous proportions hurtling through the atmosphere at a terrifying velocity in a trajectory directed southwest by west."*

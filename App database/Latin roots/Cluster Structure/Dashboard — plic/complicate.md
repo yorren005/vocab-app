@@ -5,15 +5,6 @@ status: unread
 ---
 # complicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Clay’s selfishness was not so complicate nor so revolting as his; and Anne would have compounded for the marriage at once, with all its evils, to be clear of Mr Elliot’s subtleties in endeavouring to prevent it."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The more _outré_ and grotesque an incident is the more carefully it deserves to be examined, and the very point which appears to complicate a case is, when duly considered and scientifically handled, the one which is most likely to elucidate it."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"She feared he was going to complicate matters still more by falling in love with Alice, himself; and this, certainly, Billy did not want at all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complicated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Clay’s selfishness was not so complicate nor so revolting as his; and Anne would have compounded for the marriage at once, with all its evils, to be clear of Mr Elliot’s subtleties in endeavouring to prevent it."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The more _outré_ and grotesque an incident is the more carefully it deserves to be examined, and the very point which appears to complicate a case is, when duly considered and scientifically handled, the one which is most likely to elucidate it."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"She feared he was going to complicate matters still more by falling in love with Alice, himself; and this, certainly, Billy did not want at all."*

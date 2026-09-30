@@ -5,20 +5,6 @@ status: unread
 ---
 # assuage
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to pacify or soothe (someone)
-> 2. **Nuance / Usage**: Put an end to by satisfying : appease, quench
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to assuage the target*) and intransitive clauses (*assuaging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The good gods assuage thy wrath and turn the dregs of it upon this varlet here, this, who, like a block, hath denied my access to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So should I have co-partners in my pain; And fellowship in woe doth woe assuage, As palmers’ chat makes short their pilgrimage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I cannot deny that I grieved for his grief, whatever that was, and would have given much to assuage it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (transitive) to pacify or soothe (someone)
+> 2. **Nuance / Usage**: Put an end to by satisfying : appease, quench
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to assuage the target*) and intransitive clauses (*assuaging against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The good gods assuage thy wrath and turn the dregs of it upon this varlet here, this, who, like a block, hath denied my access to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So should I have co-partners in my pain; And fellowship in woe doth woe assuage, As palmers’ chat makes short their pilgrimage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I cannot deny that I grieved for his grief, whatever that was, and would have given much to assuage it."*

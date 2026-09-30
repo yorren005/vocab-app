@@ -5,13 +5,6 @@ status: unread
 ---
 # decarboxylation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarboxylation designates the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarboxylation designates the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)."*

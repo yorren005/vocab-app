@@ -5,13 +5,6 @@ status: unread
 ---
 # defamatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The editor of the _Aurora_ having, in his paper of February 19, 1800, inserted some paragraphs defamatory of the Senate, and failed in his appearance, he was ordered to be committed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The editor of the _Aurora_ having, in his paper of February 19, 1800, inserted some paragraphs defamatory of the Senate, and failed in his appearance, he was ordered to be committed."*

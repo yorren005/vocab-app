@@ -5,13 +5,6 @@ status: unread
 ---
 # passeriformes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passeriformes designates largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passeriformes designates largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres."*

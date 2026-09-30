@@ -5,13 +5,6 @@ status: unread
 ---
 # fertilisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fertilisation took place in spring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fertilisation took place in spring."*

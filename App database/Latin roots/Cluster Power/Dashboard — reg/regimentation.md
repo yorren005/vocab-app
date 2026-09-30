@@ -5,13 +5,6 @@ status: unread
 ---
 # regimentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of order or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of order or discipline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The state is construed to be a mechanism of public service, operated by the Body Politic, and the actual regulation and regimentation of society is accomplished by natural socio-economic laws which, of course, are both universal and unavoidable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of order or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of order or discipline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"The state is construed to be a mechanism of public service, operated by the Body Politic, and the actual regulation and regimentation of society is accomplished by natural socio-economic laws which, of course, are both universal and unavoidable."*

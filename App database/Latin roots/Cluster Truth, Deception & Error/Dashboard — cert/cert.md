@@ -5,15 +5,6 @@ status: unread
 ---
 # cert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute certainty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absolute certainty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah cert'nly can't allow li'l' Brer Rabbit to be hurt, Ah cert'nly can't!” muttered Ol' Mistah Buzzard, and chuckled."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Cert'nly, cert'nly, Ah sho'ly will!” replied Ol' Mistah Buzzard, and sailed up into the blue, blue sky."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah cert'nly can't!” muttered Unc' Billy Possum to himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absolute certainty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah cert'nly can't allow li'l' Brer Rabbit to be hurt, Ah cert'nly can't!” muttered Ol' Mistah Buzzard, and chuckled."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Cert'nly, cert'nly, Ah sho'ly will!” replied Ol' Mistah Buzzard, and sailed up into the blue, blue sky."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah cert'nly can't!” muttered Unc' Billy Possum to himself."*

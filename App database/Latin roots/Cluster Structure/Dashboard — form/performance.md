@@ -5,15 +5,6 @@ status: unread
 ---
 # performance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic or musical entertainment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of presenting a play or a piece of music or other entertainment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is my hand; the premises observ’d, Thy will by my performance shall be serv’d; So make the choice of thy own time, for I, Thy resolv’d patient, on thee still rely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could do more to do Antonius good, But ’twould offend him, and in his offence Should my performance perish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this should fail, And that our drift look through our bad performance. ’Twere better not assay’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic or musical entertainment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of presenting a play or a piece of music or other entertainment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is my hand; the premises observ’d, Thy will by my performance shall be serv’d; So make the choice of thy own time, for I, Thy resolv’d patient, on thee still rely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could do more to do Antonius good, But ’twould offend him, and in his offence Should my performance perish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this should fail, And that our drift look through our bad performance. ’Twere better not assay’d."*

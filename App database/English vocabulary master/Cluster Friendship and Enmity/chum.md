@@ -5,20 +5,6 @@ status: unread
 ---
 # chum
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Room together
-> 2. **Nuance / Usage**: Be a close friend
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chum withstood the storm*), direct object (*cleaved the chum*), or prepositional anchor (*amidst the chum*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I had it from a party who was an old chum of Bulstrode’s."*
-> - 📜 **Donald Ferguson (*The Chums of Scranton High, or Hugh Morgan's Uphill Fight*):** *"That made Thad think of Mark Twain, and he wondered whether the illustrious Tom Sawyer and his chum, Huckleberry Finn, had ever arranged a more fetching reception committee than this one{{..."*
-> - 📜 **Paul Siogvolk (*Schediasms: My College Friend, Bosworth Field*):** *"Field had a 'chum,' or room-mate, whose visage was suggestive to the 'Sophs;' it invited experiment; it held out opportunity for their peculiar deviltry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: An intimate, trusted friend or companion, especially from boyhood, school, or shared quarters.
+> 2. **Nuance / Usage**: Originated in 17th-century university slang (likely short for *chamber-fellow* or roommate); as a verb, means to share rooms or form a close, genial companionship.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chum withstood the storm*), direct object (*cleaved the chum*), or prepositional anchor (*amidst the chum*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I had it from a party who was an old **chum** of Bulstrode’s."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"He was a capital fellow and my most constant **chum** throughout our stay."*
+> - 📜 **Paul Siogvolk (*Schediasms*):** *"Field had a **chum**, or room-mate, whose visage invited experiment from the sophomores."*

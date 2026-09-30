@@ -5,13 +5,6 @@ status: unread
 ---
 # anthropophagy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Human cannibalism; the eating of human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Human cannibalism; the eating of human flesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"My word!” returned the Canadian, “I begin to understand the charms of anthropophagy.” “Ned!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Human cannibalism; the eating of human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Human cannibalism; the eating of human flesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"My word!” returned the Canadian, “I begin to understand the charms of anthropophagy.” “Ned!"*

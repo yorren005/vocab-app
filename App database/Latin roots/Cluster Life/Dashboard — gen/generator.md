@@ -5,15 +5,6 @@ status: unread
 ---
 # generator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus that produces a vapor or gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engine that converts mechanical energy into electrical energy by electromagnetic induction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your number one job is to build, harmonize, test and whatever else it takes to create a communications interference generator."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Dragon's bridge, at least for the moment, was isolated. ## Hodak crouched behind a massive generator at the bend of an L-shaped corridor."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"I said: "Ned, get up here to the Grenada and pick up a neutrino generator in Room 706A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus that produces a vapor or gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engine that converts mechanical energy into electrical energy by electromagnetic induction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your number one job is to build, harmonize, test and whatever else it takes to create a communications interference generator."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Dragon's bridge, at least for the moment, was isolated. ## Hodak crouched behind a massive generator at the bend of an L-shaped corridor."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"I said: "Ned, get up here to the Grenada and pick up a neutrino generator in Room 706A."*

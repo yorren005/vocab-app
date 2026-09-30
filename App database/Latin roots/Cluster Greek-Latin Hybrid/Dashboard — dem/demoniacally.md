@@ -5,13 +5,6 @@ status: unread
 ---
 # demoniacally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very agitated manner; as if possessed by an evil spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very agitated manner; as if possessed by an evil spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The fire in the grate looked impish—demoniacally funny, as if it did not care in the least about her strait."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very agitated manner; as if possessed by an evil spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very agitated manner; as if possessed by an evil spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The fire in the grate looked impish—demoniacally funny, as if it did not care in the least about her strait."*

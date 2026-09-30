@@ -5,15 +5,6 @@ status: unread
 ---
 # inseparable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being separated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being separated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We still have slept together, Rose at an instant, learned, played, ate together, And wheresoe’er we went, like Juno’s swans, Still we went coupled and inseparable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where but by a chance a silver drop hath fall’n, Even to that drop ten thousand wiry friends Do glue themselves in sociable grief, Like true, inseparable, faithful loves, Sticking together in calamity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The smell of sawdust, beer, tobacco-smoke, and spirits is inseparable in his vocation from death in its most awful shapes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being separated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being separated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We still have slept together, Rose at an instant, learned, played, ate together, And wheresoe’er we went, like Juno’s swans, Still we went coupled and inseparable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where but by a chance a silver drop hath fall’n, Even to that drop ten thousand wiry friends Do glue themselves in sociable grief, Like true, inseparable, faithful loves, Sticking together in calamity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The smell of sawdust, beer, tobacco-smoke, and spirits is inseparable in his vocation from death in its most awful shapes."*

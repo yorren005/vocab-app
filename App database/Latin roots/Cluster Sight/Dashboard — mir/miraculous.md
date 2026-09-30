@@ -5,15 +5,6 @@ status: unread
 ---
 # miraculous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having the character of a miracle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peculiarly fortunate or appropriate; as if by divine intervention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For murder, though it have no tongue, will speak With most miraculous organ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MALCOLM. ’Tis call’d the evil: A most miraculous work in this good king; Which often, since my here-remain in England, I have seen him do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His word is more than the miraculous harp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having the character of a miracle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peculiarly fortunate or appropriate; as if by divine intervention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For murder, though it have no tongue, will speak With most miraculous organ."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MALCOLM. ’Tis call’d the evil: A most miraculous work in this good king; Which often, since my here-remain in England, I have seen him do."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His word is more than the miraculous harp."*

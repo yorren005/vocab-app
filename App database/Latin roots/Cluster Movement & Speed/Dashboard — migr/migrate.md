@@ -5,15 +5,6 @@ status: unread
 ---
 # migrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move from one country or region to another and settle there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move periodically or seasonally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Sir James was much pained, and offered that they should all migrate to Cheltenham for a few months with the sacred ark, otherwise called a cradle: at that period a man could hardly know what to propose if Cheltenham were rejected."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The document would be a reference for interested government entities responsible for space policy, and to define the fundamental rights and freedoms of those who might some day migrate to space."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As birds migrate to somewhere beyond the sea, so these men with their wives and children streamed to the southeast, to parts where none of them had ever been."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move from one country or region to another and settle there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move periodically or seasonally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Sir James was much pained, and offered that they should all migrate to Cheltenham for a few months with the sacred ark, otherwise called a cradle: at that period a man could hardly know what to propose if Cheltenham were rejected."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The document would be a reference for interested government entities responsible for space policy, and to define the fundamental rights and freedoms of those who might some day migrate to space."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As birds migrate to somewhere beyond the sea, so these men with their wives and children streamed to the southeast, to parts where none of them had ever been."*

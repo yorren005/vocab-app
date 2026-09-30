@@ -5,13 +5,6 @@ status: unread
 ---
 # teleostan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony fish of the subclass teleostei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bony fish of the subclass teleostei.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostan designates a bony fish of the subclass teleostei."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony fish of the subclass teleostei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bony fish of the subclass teleostei.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostan designates a bony fish of the subclass teleostei."*

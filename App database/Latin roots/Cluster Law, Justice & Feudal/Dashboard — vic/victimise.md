@@ -5,13 +5,6 @@ status: unread
 ---
 # victimise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Six weeks--appropinquity--opportunity--had victimised him completely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Six weeks--appropinquity--opportunity--had victimised him completely."*

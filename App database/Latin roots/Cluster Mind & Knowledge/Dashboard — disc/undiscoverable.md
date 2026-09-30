@@ -5,13 +5,6 @@ status: unread
 ---
 # undiscoverable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be ascertained; resisting discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be ascertained; resisting discovery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A Formula of some great undiscoverable indefinable Thought...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be ascertained; resisting discovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be ascertained; resisting discovery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A Formula of some great undiscoverable indefinable Thought...."*

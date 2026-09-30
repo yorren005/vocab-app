@@ -5,13 +5,6 @@ status: unread
 ---
 # adipose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of animal fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of animal fat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fit as a fiddle only he has a lot of adipose tissue concealed about his person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of animal fat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of animal fat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Fit as a fiddle only he has a lot of adipose tissue concealed about his person."*

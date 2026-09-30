@@ -5,13 +5,6 @@ status: unread
 ---
 # trigon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Triplicity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the groups of three signs each distant 120 degrees from the other two into which the signs of the zodiac are divided —called also trigon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And look whether the fiery Trigon, his man, be not lisping to his master’s old tables, his note-book, his counsel-keeper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Triplicity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the groups of three signs each distant 120 degrees from the other two into which the signs of the zodiac are divided —called also trigon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And look whether the fiery Trigon, his man, be not lisping to his master’s old tables, his note-book, his counsel-keeper."*

@@ -5,18 +5,6 @@ status: unread
 ---
 # perambulate
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stroll
-> 2. **Nuance / Usage**: (transitive) to inspect (an area) on foot
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to perambulate the target*) and intransitive clauses (*perambulating against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*Edinburgh*):** *"The officials, in their gowns of grey, with a white St. Andrew’s cross on back and breast, and a white cloth carried before them on a staff, perambulated the city, adding the terror of man’s justice to the fear of God’s visitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Stroll
+> 2. **Nuance / Usage**: (transitive) to inspect (an area) on foot
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to perambulate the target*) and intransitive clauses (*perambulating against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Louis Stevenson (*Edinburgh*):** *"The officials, in their gowns of grey, with a white St. Andrew’s cross on back and breast, and a white cloth carried before them on a staff, perambulated the city, adding the terror of man’s justice to the fear of God’s visitation."*

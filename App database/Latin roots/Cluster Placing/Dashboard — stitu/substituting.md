@@ -5,15 +5,6 @@ status: unread
 ---
 # substituting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Working as a substitute for someone who is ill or on leave of absence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in the place of another; switch seemingly equivalent items.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Let’s have a wedding.” That discreet damsel was attired as usual, except that she was now engaged in substituting for her green kid gloves a pair of white."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Pardon!’ cried another of the company. ‘In the name of all us Limeese, I but desire to express to you, sir sailor, that we have by no means overlooked your delicacy in not substituting present Lima for distant Venice in your corrupt comparison."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They who promote the idea of substituting a number of distinct confederacies in the room of the plan of the convention, seem clearly to foresee that the rejection of it would put the continuance of the Union in the utmost jeopardy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Working as a substitute for someone who is ill or on leave of absence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in the place of another; switch seemingly equivalent items.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Let’s have a wedding.” That discreet damsel was attired as usual, except that she was now engaged in substituting for her green kid gloves a pair of white."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Pardon!’ cried another of the company. ‘In the name of all us Limeese, I but desire to express to you, sir sailor, that we have by no means overlooked your delicacy in not substituting present Lima for distant Venice in your corrupt comparison."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They who promote the idea of substituting a number of distinct confederacies in the room of the plan of the convention, seem clearly to foresee that the rejection of it would put the continuance of the Union in the utmost jeopardy."*

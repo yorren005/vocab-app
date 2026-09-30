@@ -5,13 +5,6 @@ status: unread
 ---
 # dolman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hussar's jacket worn over the shoulders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman's cloak with dolman sleeves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"MRS YELVERTON BARRY: _(In lowcorsaged opal balldress and elbowlength ivory gloves, wearing a sabletrimmed brickquilted dolman, a comb of brilliants and panache of osprey in her hair.)_ Arrest him, constable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hussar's jacket worn over the shoulders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman's cloak with dolman sleeves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"MRS YELVERTON BARRY: _(In lowcorsaged opal balldress and elbowlength ivory gloves, wearing a sabletrimmed brickquilted dolman, a comb of brilliants and panache of osprey in her hair.)_ Arrest him, constable."*

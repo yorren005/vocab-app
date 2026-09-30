@@ -5,15 +5,6 @@ status: unread
 ---
 # log
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually bulky piece or length of a cut or fallen tree; especially : a length of a tree trunk ready for sawing and over six feet (1.8 meters) long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring the rate of a ship's motion through the water that consists of a block fastened to a line and run out from a reel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Ferdinand bearing a log."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear my soul speak: The very instant that I saw you, did My heart fly to your service; there resides, To make me slave to it; and for your sake Am I this patient log-man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, as I told thee, ’tis a custom with him I’ th’ afternoon to sleep: there thou mayst brain him, Having first seiz’d his books; or with a log Batter his skull, or paunch him with a stake, Or cut his wezand with thy knife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually bulky piece or length of a cut or fallen tree; especially : a length of a tree trunk ready for sawing and over six feet (1.8 meters) long.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring the rate of a ship's motion through the water that consists of a block fastened to a line and run out from a reel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Ferdinand bearing a log."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear my soul speak: The very instant that I saw you, did My heart fly to your service; there resides, To make me slave to it; and for your sake Am I this patient log-man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, as I told thee, ’tis a custom with him I’ th’ afternoon to sleep: there thou mayst brain him, Having first seiz’d his books; or with a log Batter his skull, or paunch him with a stake, Or cut his wezand with thy knife."*

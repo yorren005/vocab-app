@@ -5,13 +5,6 @@ status: unread
 ---
 # leukoplakia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukoplakia designates an abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukoplakia designates an abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia."*

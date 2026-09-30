@@ -5,13 +5,6 @@ status: unread
 ---
 # aquanaut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An underwater swimmer equipped with a face mask and foot fins and either a snorkel or an air cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who can live in underwater installations and participate in scientific research.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquanaut designates an underwater swimmer equipped with a face mask and foot fins and either a snorkel or an air cylinder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underwater swimmer equipped with a face mask and foot fins and either a snorkel or an air cylinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who can live in underwater installations and participate in scientific research.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquanaut designates an underwater swimmer equipped with a face mask and foot fins and either a snorkel or an air cylinder."*

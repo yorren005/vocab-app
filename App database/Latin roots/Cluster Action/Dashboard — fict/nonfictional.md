@@ -5,13 +5,6 @@ status: unread
 ---
 # nonfictional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fictional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fictional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfictional designates not fictional."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fictional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fictional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfictional designates not fictional."*

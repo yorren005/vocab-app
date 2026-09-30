@@ -5,15 +5,6 @@ status: unread
 ---
 # final
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final match between the winners of all previous matches in an elimination tournament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination administered at the end of an academic term.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and had expired, and he still continued to assure Ada and me in the same final manner that it was “all right,” it became advisable to take Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I’ll consult my friend, then, by your leave, sir,” says the trooper, “and I’ll take the liberty of looking in again with the final answer in the course of the day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George gives a shake to each of the hands he holds, and relinquishing them, backs a pace or two in a broad-chested, upright attitude, as if he had made a final confession and were immediately going to be shot with all military honours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final match between the winners of all previous matches in an elimination tournament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination administered at the end of an academic term.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and had expired, and he still continued to assure Ada and me in the same final manner that it was “all right,” it became advisable to take Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I’ll consult my friend, then, by your leave, sir,” says the trooper, “and I’ll take the liberty of looking in again with the final answer in the course of the day."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George gives a shake to each of the hands he holds, and relinquishing them, backs a pace or two in a broad-chested, upright attitude, as if he had made a final confession and were immediately going to be shot with all military honours."*

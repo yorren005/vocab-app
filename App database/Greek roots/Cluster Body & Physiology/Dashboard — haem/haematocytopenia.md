@@ -5,13 +5,6 @@ status: unread
 ---
 # haematocytopenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low number of red blood cells in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally low number of red blood cells in the blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocytopenia designates an abnormally low number of red blood cells in the blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low number of red blood cells in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally low number of red blood cells in the blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocytopenia designates an abnormally low number of red blood cells in the blood."*

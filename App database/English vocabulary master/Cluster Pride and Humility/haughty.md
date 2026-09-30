@@ -5,20 +5,6 @@ status: unread
 ---
 # haughty
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Conveying in demeanour the assumption of superiority; disdainful, supercilious
-> 2. **Nuance / Usage**: Blatantly and disdainfully proud : having or showing an attitude of superiority and contempt for people or things perceived to be inferior
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a haughty appearance*) and predicatively after a linking verb (*remained haughty*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This Cardinal’s more haughty than the devil."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whose humble means match not his haughty spirit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a lady of a haughty temper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Conveying in demeanour the assumption of superiority; disdainful, supercilious
+> 2. **Nuance / Usage**: Blatantly and disdainfully proud : having or showing an attitude of superiority and contempt for people or things perceived to be inferior
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a haughty appearance*) and predicatively after a linking verb (*remained haughty*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This Cardinal’s more haughty than the devil."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whose humble means match not his haughty spirit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was a lady of a haughty temper."*

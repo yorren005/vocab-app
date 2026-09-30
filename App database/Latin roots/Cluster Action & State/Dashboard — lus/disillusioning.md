@@ -5,13 +5,6 @@ status: unread
 ---
 # disillusioning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from illusion or false belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There was no sign of life about, and it might have served as the refuge of the Sleeping Princess, but a nearer inspection would probably have been disillusioning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from illusion or false belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There was no sign of life about, and it might have served as the refuge of the Sleeping Princess, but a nearer inspection would probably have been disillusioning."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # bridle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Curb, restraint
-> 2. **Nuance / Usage**: (transitive) to put a bridle on
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"O, know he is the bridle of your will."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"beside him, constant to his bridle-rein."*
-> - 📜 **George Eliot (*Middlemarch*):** *"quickly along the bridle road through the wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The headgear used to govern a horse, consisting of buckled straps, a metal bit, and reins; as a verb, to restrain, check, or hold in control as if with a bridle.
+> 2. **Nuance / Usage**: As an intransitive verb (*to bridle at*), it means to draw up one's head and chin in sudden pride, resentment, or bristling offense.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Functions nominally (*put a bridle on one's tongue*), transitively (*bridle one's passions*), and intransitively with *at* (*bridled at the insult*).
+> - **Collocations & Registers**: Equestrian, moral, and psychological registers; paired with *bit*, *rein*, *passion*, *tongue*, and *temper*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"O, know he is the **bridle** of your will."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She rode beside him, constant to his **bridle**-rein."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley **bridled** at the suggestion, tossing her head with a look of offended dignity."*

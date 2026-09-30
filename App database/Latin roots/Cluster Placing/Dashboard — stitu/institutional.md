@@ -5,15 +5,6 @@ status: unread
 ---
 # institutional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or constituting or involving an institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized as or forming an institution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In New York state alone a sum of more than $20,000,000 a year is expended by institutional charities."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The other poems, ‘You ask me why’, ‘Of old sat Freedom’, and ‘Love thou thy land’, are important as exponents of what may be called the poet’s institutional creed."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He is a good deal of an institutional poet, and, as compared with Browning, a STRONGLY institutional poet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or constituting or involving an institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized as or forming an institution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In New York state alone a sum of more than $20,000,000 a year is expended by institutional charities."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The other poems, ‘You ask me why’, ‘Of old sat Freedom’, and ‘Love thou thy land’, are important as exponents of what may be called the poet’s institutional creed."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He is a good deal of an institutional poet, and, as compared with Browning, a STRONGLY institutional poet."*

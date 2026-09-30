@@ -5,15 +5,6 @@ status: unread
 ---
 # minion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A servile or fawning dependant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servile or fawning dependant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet fear her O thou minion of her pleasure, She may detain, but not still keep her treasure!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you hear, you minion? you’ll let us in, I hope?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll cry for this, minion, if I beat the door down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A servile or fawning dependant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servile or fawning dependant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet fear her O thou minion of her pleasure, She may detain, but not still keep her treasure!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you hear, you minion? you’ll let us in, I hope?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll cry for this, minion, if I beat the door down."*

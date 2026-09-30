@@ -5,15 +5,6 @@ status: unread
 ---
 # aggravated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, she had two.” My Lady, whose chronic malady of boredom has been sadly aggravated by Volumnia this evening, glances wearily towards the candlesticks and heaves a noiseless sigh."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I think the Romans must have aggravated one another very much, with their noses."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s Roman nose so aggravated me, during the recital of my misdemeanours, that I should have liked to pull it until he howled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, she had two.” My Lady, whose chronic malady of boredom has been sadly aggravated by Volumnia this evening, glances wearily towards the candlesticks and heaves a noiseless sigh."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I think the Romans must have aggravated one another very much, with their noses."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s Roman nose so aggravated me, during the recital of my misdemeanours, that I should have liked to pull it until he howled."*

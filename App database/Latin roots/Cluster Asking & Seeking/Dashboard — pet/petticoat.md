@@ -5,15 +5,6 @@ status: unread
 ---
 # petticoat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn under a skirt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn under a skirt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This grief is crowned with consolation; your old smock brings forth a new petticoat: and indeed the tears live in an onion that should water this sorrow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could find in my heart to disgrace my man’s apparel, and to cry like a woman, but I must comfort the weaker vessel, as doublet and hose ought to show itself courageous to petticoat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this shepherdess, my sister, here in the skirts of the forest, like fringe upon a petticoat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn under a skirt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn under a skirt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This grief is crowned with consolation; your old smock brings forth a new petticoat: and indeed the tears live in an onion that should water this sorrow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could find in my heart to disgrace my man’s apparel, and to cry like a woman, but I must comfort the weaker vessel, as doublet and hose ought to show itself courageous to petticoat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this shepherdess, my sister, here in the skirts of the forest, like fringe upon a petticoat."*

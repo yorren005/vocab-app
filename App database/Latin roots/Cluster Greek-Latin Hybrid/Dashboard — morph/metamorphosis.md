@@ -5,15 +5,6 @@ status: unread
 ---
 # metamorphosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The marked and rapid transformation of a larva into an adult that occurs in some animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A striking change in appearance or character or circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grandsire, ’tis Ovid’s _Metamorphosis_."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"His father’s looks of solemnity and amazement on this his first appearance on any stage, and the gradual metamorphosis of the impassioned Baron Wildenheim into the well-bred and easy Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Surely, his very features changed their form, his jaw looked sometimes large and sometimes small; and the little ripple in his nose was a preparation for metamorphosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The marked and rapid transformation of a larva into an adult that occurs in some animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A striking change in appearance or character or circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grandsire, ’tis Ovid’s _Metamorphosis_."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"His father’s looks of solemnity and amazement on this his first appearance on any stage, and the gradual metamorphosis of the impassioned Baron Wildenheim into the well-bred and easy Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Surely, his very features changed their form, his jaw looked sometimes large and sometimes small; and the little ripple in his nose was a preparation for metamorphosis."*

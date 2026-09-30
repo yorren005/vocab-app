@@ -5,14 +5,6 @@ status: unread
 ---
 # irrationality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being irrational; lacking powers of understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being irrational; lacking powers of understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Unknown (*The Second Story of Meno*):** *"Boy: Yes, Socrates. (bows to kiss his hand, Socrates turns) Socrates: Friend Meno, how hard do you think it will be for this boy to prove the irrationality of the square root of two?"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had ceased drinking at a point below irrationality, and had neither stirred nor spoken during two or three hours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being irrational; lacking powers of understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being irrational; lacking powers of understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Unknown (*The Second Story of Meno*):** *"Boy: Yes, Socrates. (bows to kiss his hand, Socrates turns) Socrates: Friend Meno, how hard do you think it will be for this boy to prove the irrationality of the square root of two?"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had ceased drinking at a point below irrationality, and had neither stirred nor spoken during two or three hours."*

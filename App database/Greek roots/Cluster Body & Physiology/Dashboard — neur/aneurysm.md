@@ -5,13 +5,6 @@ status: unread
 ---
 # aneurysm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysm designates an abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysm designates an abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall."*

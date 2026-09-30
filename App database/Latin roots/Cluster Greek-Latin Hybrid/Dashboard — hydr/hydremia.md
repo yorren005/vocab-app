@@ -5,13 +5,6 @@ status: unread
 ---
 # hydremia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydremia designates blood disorder in which there is excess fluid volume compared with the cell volume of the blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydremia designates blood disorder in which there is excess fluid volume compared with the cell volume of the blood."*

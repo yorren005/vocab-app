@@ -5,15 +5,6 @@ status: unread
 ---
 # jury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of citizens sworn to give a true verdict according to the evidence presented in a court of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A committee appointed to judge a competition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How innocent I was From any private malice in his end, His noble jury and foul cause can witness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I not deny The jury passing on the prisoner’s life May in the sworn twelve have a thief or two Guiltier than him they try."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is understood to be in want of witnesses for the inquest to-morrow who can tell the coroner and jury anything whatever respecting the deceased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of citizens sworn to give a true verdict according to the evidence presented in a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A committee appointed to judge a competition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How innocent I was From any private malice in his end, His noble jury and foul cause can witness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I not deny The jury passing on the prisoner’s life May in the sworn twelve have a thief or two Guiltier than him they try."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is understood to be in want of witnesses for the inquest to-morrow who can tell the coroner and jury anything whatever respecting the deceased."*

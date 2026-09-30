@@ -5,14 +5,6 @@ status: unread
 ---
 # insusceptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"You cannot think of God; for, if you could think of God, God would be in relation with you; God is insusceptible of relation with man."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Persons who are brought up in prayerless, worldly families--whose young minds are not moulded by a pious influence--are usually found very insusceptible of religious impressions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"You cannot think of God; for, if you could think of God, God would be in relation with you; God is insusceptible of relation with man."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Persons who are brought up in prayerless, worldly families--whose young minds are not moulded by a pious influence--are usually found very insusceptible of religious impressions."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # minuit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuit designates dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuit designates dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638)."*

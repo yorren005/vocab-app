@@ -5,15 +5,6 @@ status: unread
 ---
 # nostalgia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sad pleasure experienced in recalling what no longer exists : a wistful or sentimental yearning for a return to or the return of some real or romanticized past period or some irrecoverable past condition or setting; also : something that evokes nostalgia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being homesick : homesickness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He fretted, seized with nostalgia that flight only could cure."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If you never come how piteous for me! _Fhir a' bhata, na horo eile!_ _Hi horo, fhir a bhata--_ All the nostalgia of the Scottish isles was in the minors of that song...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And so a great nostalgia had come over Shane Campbell on this voyage for the Syrian port and the wife he had married there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sad pleasure experienced in recalling what no longer exists : a wistful or sentimental yearning for a return to or the return of some real or romanticized past period or some irrecoverable past condition or setting; also : something that evokes nostalgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being homesick : homesickness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He fretted, seized with nostalgia that flight only could cure."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If you never come how piteous for me! _Fhir a' bhata, na horo eile!_ _Hi horo, fhir a bhata--_ All the nostalgia of the Scottish isles was in the minors of that song...."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And so a great nostalgia had come over Shane Campbell on this voyage for the Syrian port and the wife he had married there."*

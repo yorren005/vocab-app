@@ -5,13 +5,6 @@ status: unread
 ---
 # sceneshifter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stagehand responsible for moving scenery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stagehand responsible for moving scenery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceneshifter designates a stagehand responsible for moving scenery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stagehand responsible for moving scenery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stagehand responsible for moving scenery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceneshifter designates a stagehand responsible for moving scenery."*

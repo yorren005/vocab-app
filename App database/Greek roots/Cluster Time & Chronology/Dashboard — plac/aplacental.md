@@ -5,13 +5,6 @@ status: unread
 ---
 # aplacental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no placenta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no placenta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplacental designates having no placenta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no placenta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no placenta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplacental designates having no placenta."*

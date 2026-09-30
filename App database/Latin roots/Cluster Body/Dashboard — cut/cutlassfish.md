@@ -5,13 +5,6 @@ status: unread
 ---
 # cutlassfish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutlassfish designates long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutlassfish designates long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel."*

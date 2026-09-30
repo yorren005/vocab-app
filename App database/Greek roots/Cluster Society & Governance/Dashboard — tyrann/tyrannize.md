@@ -5,15 +5,6 @@ status: unread
 ---
 # tyrannize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To exercise arbitrary oppressive power or severity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat tyrannically : oppress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within me is a hell; and there the poison Is, as a fiend, confin’d to tyrannize On unreprievable condemned blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This poor right hand of mine Is left to tyrannize upon my breast; Who when my heart, all mad with misery, Beats in this hollow prison of my flesh, Then thus I thump it down."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, well, I made thee miserable What time I threw the people’s suffrages On him that thus doth tyrannize o’er me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exercise arbitrary oppressive power or severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat tyrannically : oppress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within me is a hell; and there the poison Is, as a fiend, confin’d to tyrannize On unreprievable condemned blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This poor right hand of mine Is left to tyrannize upon my breast; Who when my heart, all mad with misery, Beats in this hollow prison of my flesh, Then thus I thump it down."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, well, I made thee miserable What time I threw the people’s suffrages On him that thus doth tyrannize o’er me."*

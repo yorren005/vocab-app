@@ -5,15 +5,6 @@ status: unread
 ---
 # unparalleled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I were to meet that most unparalleled despot in the streets to-morrow, I would fell him like a rotten tree!” “I have no doubt of it,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I were to meet that most unparalleled despot in the streets to-morrow, I would fell him like a rotten tree!” “I have no doubt of it,” said Mr."*

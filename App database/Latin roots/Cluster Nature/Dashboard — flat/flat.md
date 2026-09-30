@@ -5,15 +5,6 @@ status: unread
 ---
 # flat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A level tract of land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow box in which seedlings are started.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To unbuild the city and to lay all flat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is the way to lay the city flat, To bring the roof to the foundation And bury all which yet distinctly ranges In heaps and piles of ruin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A level tract of land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow box in which seedlings are started.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To unbuild the city and to lay all flat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is the way to lay the city flat, To bring the roof to the foundation And bury all which yet distinctly ranges In heaps and piles of ruin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*

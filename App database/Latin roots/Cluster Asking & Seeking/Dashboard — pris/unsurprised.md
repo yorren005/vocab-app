@@ -5,13 +5,6 @@ status: unread
 ---
 # unsurprised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not surprised or expressing surprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not surprised or expressing surprise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsurprised designates not surprised or expressing surprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not surprised or expressing surprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not surprised or expressing surprise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsurprised designates not surprised or expressing surprise."*

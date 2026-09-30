@@ -5,13 +5,6 @@ status: unread
 ---
 # turbogenerator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generator consisting of a steam turbine coupled to an electric generator for the production of electric power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generator consisting of a steam turbine coupled to an electric generator for the production of electric power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbogenerator designates generator consisting of a steam turbine coupled to an electric generator for the production of electric power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generator consisting of a steam turbine coupled to an electric generator for the production of electric power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generator consisting of a steam turbine coupled to an electric generator for the production of electric power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbogenerator designates generator consisting of a steam turbine coupled to an electric generator for the production of electric power."*

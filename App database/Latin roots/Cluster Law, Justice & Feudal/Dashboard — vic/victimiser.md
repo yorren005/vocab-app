@@ -5,13 +5,6 @@ status: unread
 ---
 # victimiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimizes others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who victimizes others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victimiser designates a person who victimizes others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimizes others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who victimizes others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victimiser designates a person who victimizes others."*

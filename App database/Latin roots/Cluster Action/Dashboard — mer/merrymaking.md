@@ -5,15 +5,6 @@ status: unread
 ---
 # merrymaking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boisterous celebration; a merry festivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boisterous celebration; a merry festivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long before this time Weatherbury had been thoroughly aroused, and the wild deed which had terminated Boldwood’s merrymaking became known to all."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As the merrymaking lasts for two or three weeks, the exhaustion of the musician at the end of it may be readily conceived."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Once in the regiment I had not gone to some merrymaking where there was music... and suddenly I felt so depressed...” “Oh yes, I know, I know, I know!” Natásha interrupted him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boisterous celebration; a merry festivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boisterous celebration; a merry festivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long before this time Weatherbury had been thoroughly aroused, and the wild deed which had terminated Boldwood’s merrymaking became known to all."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As the merrymaking lasts for two or three weeks, the exhaustion of the musician at the end of it may be readily conceived."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Once in the regiment I had not gone to some merrymaking where there was music... and suddenly I felt so depressed...” “Oh yes, I know, I know, I know!” Natásha interrupted him."*

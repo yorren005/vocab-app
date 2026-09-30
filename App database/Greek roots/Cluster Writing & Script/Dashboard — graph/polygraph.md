@@ -5,13 +5,6 @@ status: unread
 ---
 # polygraph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording variations of several different pulsations (as of physiological variables) simultaneously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for recording variations of several different pulsations (as of physiological variables) simultaneously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygraph designates an instrument for recording variations of several different pulsations (as of physiological variables) simultaneously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording variations of several different pulsations (as of physiological variables) simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for recording variations of several different pulsations (as of physiological variables) simultaneously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygraph designates an instrument for recording variations of several different pulsations (as of physiological variables) simultaneously."*

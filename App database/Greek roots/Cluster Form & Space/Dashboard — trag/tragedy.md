@@ -5,15 +5,6 @@ status: unread
 ---
 # tragedy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disastrous event : calamity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misfortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROLOGUE. _For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently._ HAMLET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disastrous event : calamity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misfortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROLOGUE. _For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently._ HAMLET."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*

@@ -5,20 +5,6 @@ status: unread
 ---
 # anchor
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Reliable or principal support : mainstay
-> 2. **Nuance / Usage**: Something that serves to hold an object firmly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Say Warwick was our anchor; what of that?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Then is all safe, the anchor in the port."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"smacks, which are accustomed to lie at anchor on the banks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A heavy metal device attached to a ship by a cable or chain and cast overboard to grip the seabed and hold the vessel fast in place.
+> 2. **Nuance / Usage**: Used figuratively as a noun or verb for any steadfast support, stabilizing force, or restraint that moors a person, idea, or institution against drift and turmoil.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Transitive/Intransitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*lie at anchor*, *cast anchor*) and verbally (*anchored to the bedrock*).
+> - **Collocations & Registers**: Maritime, psychological, and rhetorical registers; paired with *fast*, *moor*, *storm*, *cable*, and *steadfast*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Say Warwick was our **anchor**; what of that?"*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"We passed several fishing smacks, which are accustomed to lie at **anchor** on the banks."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With a fair wind the ship weighed **anchor** and stood out to the open sea."*

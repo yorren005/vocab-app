@@ -5,15 +5,6 @@ status: unread
 ---
 # nonsensical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incongruous;inviting ridicule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no intelligible meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are a nonsensical child to have done anything of this kind,” said Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Very nonsensical to come at all!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her mother only scolded her for being nonsensical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incongruous;inviting ridicule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no intelligible meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You are a nonsensical child to have done anything of this kind,” said Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Very nonsensical to come at all!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her mother only scolded her for being nonsensical."*

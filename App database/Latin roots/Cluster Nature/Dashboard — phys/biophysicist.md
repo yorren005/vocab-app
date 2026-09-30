@@ -5,13 +5,6 @@ status: unread
 ---
 # biophysicist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist who applies the methods of physics to biology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physicist who applies the methods of physics to biology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biophysicist designates a physicist who applies the methods of physics to biology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist who applies the methods of physics to biology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physicist who applies the methods of physics to biology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biophysicist designates a physicist who applies the methods of physics to biology."*

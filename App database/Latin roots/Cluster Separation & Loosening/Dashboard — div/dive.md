@@ -5,15 +5,6 @@ status: unread
 ---
 # dive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheap disreputable nightclub or dance hall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A headlong plunge into water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dive, thoughts, down to my soul."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I come To answer thy best pleasure; be’t to fly, To swim, to dive into the fire, to ride On the curl’d clouds, to thy strong bidding task Ariel and all his quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou wall That girdles in those wolves, dive in the earth And fence not Athens!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheap disreputable nightclub or dance hall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A headlong plunge into water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dive, thoughts, down to my soul."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I come To answer thy best pleasure; be’t to fly, To swim, to dive into the fire, to ride On the curl’d clouds, to thy strong bidding task Ariel and all his quality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou wall That girdles in those wolves, dive in the earth And fence not Athens!"*

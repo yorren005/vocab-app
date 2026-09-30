@@ -5,15 +5,6 @@ status: unread
 ---
 # repelling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move back by force or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be repellent to; cause aversion in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She had begun her confession under the subduing influence of Dorothea’s emotion; and as she went on she had gathered the sense that she was repelling Will’s reproaches, which were still like a knife-wound within her."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Those who do not possess it always produce an impression that they are unfair; and this impression, once produced, exercises a repelling influence upon the young."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move back by force or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be repellent to; cause aversion in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She had begun her confession under the subduing influence of Dorothea’s emotion; and as she went on she had gathered the sense that she was repelling Will’s reproaches, which were still like a knife-wound within her."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Those who do not possess it always produce an impression that they are unfair; and this impression, once produced, exercises a repelling influence upon the young."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*

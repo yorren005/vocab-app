@@ -5,14 +5,6 @@ status: unread
 ---
 # athletics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An active diversion requiring physical exertion and competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contest between athletes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"That's the worst of going in for athletics at school, Joe--it makes you grow such a whopping size afterwards when you stop them."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"You’ll give up athletics; And take to æsthetics. 29."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An active diversion requiring physical exertion and competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contest between athletes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"That's the worst of going in for athletics at school, Joe--it makes you grow such a whopping size afterwards when you stop them."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"You’ll give up athletics; And take to æsthetics. 29."*

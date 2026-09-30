@@ -5,15 +5,6 @@ status: unread
 ---
 # pulverised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become powder or dust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The device of using pulverised coal as a fuel has attracted attention at several smelters where the local coal as mined was proved to be unsuitable for use."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Pulverised fuel for reverberatories, 105."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The first has been taken as merely an imaginative explanation of the lustre of the glaze, but it is certain that some kind of pulverised quartz-like stone was used in the composition of later glazes, such as the "ruby red" (see vol. ii., p. 123)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become powder or dust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The device of using pulverised coal as a fuel has attracted attention at several smelters where the local coal as mined was proved to be unsuitable for use."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Pulverised fuel for reverberatories, 105."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The first has been taken as merely an imaginative explanation of the lustre of the glaze, but it is certain that some kind of pulverised quartz-like stone was used in the composition of later glazes, such as the "ruby red" (see vol. ii., p. 123)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithischia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithischia designates extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithischia designates extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods)."*

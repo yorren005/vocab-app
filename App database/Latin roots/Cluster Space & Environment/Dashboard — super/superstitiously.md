@@ -5,15 +5,6 @@ status: unread
 ---
 # superstitiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superstitious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superstitious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are like one that superstitiously Doth swear to the gods that winter kills the flies: But yet I know you’ll do as I advise. [_Exeunt._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dreams are toys, Yet for this once, yea, superstitiously, I will be squar’d by this."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This fire they carefully feed with straw and dry sticks and scatter the ashes over the vegetable gardens, foolishly and superstitiously imagining that in this way the caterpillar can be kept off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superstitious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superstitious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are like one that superstitiously Doth swear to the gods that winter kills the flies: But yet I know you’ll do as I advise. [_Exeunt._] SCENE IV."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dreams are toys, Yet for this once, yea, superstitiously, I will be squar’d by this."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This fire they carefully feed with straw and dry sticks and scatter the ashes over the vegetable gardens, foolishly and superstitiously imagining that in this way the caterpillar can be kept off."*

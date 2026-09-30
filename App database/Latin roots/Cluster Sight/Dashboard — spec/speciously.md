@@ -5,15 +5,6 @@ status: unread
 ---
 # speciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a specious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a specious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will do what I can for them all three, for so I have promised and I’ll be as good as my word—but speciously for Master Fenton."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, I warrant, speciously one of them."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Would the body be dressed in a coat alone?” “No, sir, but the facts might be met speciously enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a specious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a specious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will do what I can for them all three, for so I have promised and I’ll be as good as my word—but speciously for Master Fenton."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, I warrant, speciously one of them."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Would the body be dressed in a coat alone?” “No, sir, but the facts might be met speciously enough."*

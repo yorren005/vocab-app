@@ -5,13 +5,6 @@ status: unread
 ---
 # catalysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalysis designates a modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalysis designates a modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction."*

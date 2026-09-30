@@ -5,15 +5,6 @@ status: unread
 ---
 # venice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gratiano speaks an infinite deal of nothing, more than any man in all Venice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou know’st that all my fortunes are at sea; Neither have I money nor commodity To raise a present sum, therefore go forth Try what my credit can in Venice do; That shall be rack’d even to the uttermost, To furnish thee to Belmont to fair Portia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gratiano speaks an infinite deal of nothing, more than any man in all Venice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou know’st that all my fortunes are at sea; Neither have I money nor commodity To raise a present sum, therefore go forth Try what my credit can in Venice do; That shall be rack’d even to the uttermost, To furnish thee to Belmont to fair Portia."*

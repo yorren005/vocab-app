@@ -5,15 +5,6 @@ status: unread
 ---
 # exactitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They enforce promptness and exactitude in business dealings."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That day I commenced the journal of these adventures which has enabled me to relate them with more scrupulous exactitude and minute detail."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As regularity is a prime condition facilitating activity, regularity in his household was carried to the highest point of exactitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They enforce promptness and exactitude in business dealings."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That day I commenced the journal of these adventures which has enabled me to relate them with more scrupulous exactitude and minute detail."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As regularity is a prime condition facilitating activity, regularity in his household was carried to the highest point of exactitude."*

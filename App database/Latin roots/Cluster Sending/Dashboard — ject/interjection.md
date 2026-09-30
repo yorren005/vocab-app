@@ -5,15 +5,6 @@ status: unread
 ---
 # interjection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt emphatic exclamation expressing emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of interjecting or interposing an action or remark that interrupts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Powderell, a retired iron-monger of some standing—his interjection being something between a laugh and a Parliamentary disapproval; “we must let you have your say."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"To this proposal, Dawdle answered by the interjection pish! which inflamed Sycamore to a repetition of the defiance."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick’s stories often seemed to be ended when they were not really so, and strangers were betrayed into premature interjections of finality; though old friends knew better."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt emphatic exclamation expressing emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of interjecting or interposing an action or remark that interrupts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Powderell, a retired iron-monger of some standing—his interjection being something between a laugh and a Parliamentary disapproval; “we must let you have your say."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"To this proposal, Dawdle answered by the interjection pish! which inflamed Sycamore to a repetition of the defiance."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick’s stories often seemed to be ended when they were not really so, and strangers were betrayed into premature interjections of finality; though old friends knew better."*

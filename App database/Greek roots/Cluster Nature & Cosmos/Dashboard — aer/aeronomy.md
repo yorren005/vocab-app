@@ -5,13 +5,6 @@ status: unread
 ---
 # aeronomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the physics and chemistry of the upper atmosphere of planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with the physics and chemistry of the upper atmosphere of planets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeronomy designates a science that deals with the physics and chemistry of the upper atmosphere of planets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the physics and chemistry of the upper atmosphere of planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with the physics and chemistry of the upper atmosphere of planets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeronomy designates a science that deals with the physics and chemistry of the upper atmosphere of planets."*

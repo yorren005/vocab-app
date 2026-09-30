@@ -5,15 +5,6 @@ status: unread
 ---
 # coral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable color averaging a deep pink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hard stony skeleton of a mediterranean coral that has a delicate red or pink color and is used for jewelry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tranio, I saw her coral lips to move, And with her breath she did perfume the air; Sacred and sweet was all I saw in her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A belt of straw and ivy buds, With coral clasps and amber studs; And if these pleasures may thee move, Then live with me and be my love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With more than admiration he admired Her azure veins, her alabaster skin, Her coral lips, her snow-white dimpled chin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable color averaging a deep pink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hard stony skeleton of a mediterranean coral that has a delicate red or pink color and is used for jewelry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tranio, I saw her coral lips to move, And with her breath she did perfume the air; Sacred and sweet was all I saw in her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A belt of straw and ivy buds, With coral clasps and amber studs; And if these pleasures may thee move, Then live with me and be my love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With more than admiration he admired Her azure veins, her alabaster skin, Her coral lips, her snow-white dimpled chin."*

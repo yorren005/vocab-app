@@ -5,13 +5,6 @@ status: unread
 ---
 # undesirous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or feeling no desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or feeling no desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undesirous designates having or feeling no desire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or feeling no desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or feeling no desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undesirous designates having or feeling no desire."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sagacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acutely insightful and wise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in statecraft or management.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But of course I said nothing in reply except that I would do my best, though I feared (I really felt it necessary to repeat this) that he thought me much more sagacious than I was."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling is about to interrupt when the sagacious Smallweed checks him with a dry cough and the words, “Hem!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acutely insightful and wise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in statecraft or management.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But of course I said nothing in reply except that I would do my best, though I feared (I really felt it necessary to repeat this) that he thought me much more sagacious than I was."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling is about to interrupt when the sagacious Smallweed checks him with a dry cough and the words, “Hem!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # timely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Before a time limit expires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or happening at the appropriate or proper time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But here must end the story of my life; And happy were I in my timely death, Could all my travels warrant me they live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He did command me to call timely on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now spurs the lated traveller apace, To gain the timely inn; and near approaches The subject of our watch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Before a time limit expires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or happening at the appropriate or proper time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But here must end the story of my life; And happy were I in my timely death, Could all my travels warrant me they live."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He did command me to call timely on him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now spurs the lated traveller apace, To gain the timely inn; and near approaches The subject of our watch."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # angiocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree bearing fruit enclosed in a shell or involucre or husk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree bearing fruit enclosed in a shell or involucre or husk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarp designates tree bearing fruit enclosed in a shell or involucre or husk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree bearing fruit enclosed in a shell or involucre or husk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree bearing fruit enclosed in a shell or involucre or husk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarp designates tree bearing fruit enclosed in a shell or involucre or husk."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plateletpheresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Platelets are separated from whole blood and the rest is returned to the donor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platelets are separated from whole blood and the rest is returned to the donor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plateletpheresis designates platelets are separated from whole blood and the rest is returned to the donor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Platelets are separated from whole blood and the rest is returned to the donor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platelets are separated from whole blood and the rest is returned to the donor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plateletpheresis designates platelets are separated from whole blood and the rest is returned to the donor."*

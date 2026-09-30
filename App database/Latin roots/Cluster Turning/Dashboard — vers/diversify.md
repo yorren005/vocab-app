@@ -5,15 +5,6 @@ status: unread
 ---
 # diversify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (more) diverse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread into new habitats and produce variety or variegate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whilst the alloy and value depended on the general authority, a right of coinage in the particular States could have no other effect than to multiply expensive mints and diversify the forms and weights of the circulating pieces."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I sought to diversify my time by as many enjoyments as lay within my reach."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Cluster all these individuals together, as they sometimes were, with other miscellaneous ones to diversify the group, and, for the time being, it made the Custom-House a stirring scene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (more) diverse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread into new habitats and produce variety or variegate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whilst the alloy and value depended on the general authority, a right of coinage in the particular States could have no other effect than to multiply expensive mints and diversify the forms and weights of the circulating pieces."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I sought to diversify my time by as many enjoyments as lay within my reach."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Cluster all these individuals together, as they sometimes were, with other miscellaneous ones to diversify the group, and, for the time being, it made the Custom-House a stirring scene."*

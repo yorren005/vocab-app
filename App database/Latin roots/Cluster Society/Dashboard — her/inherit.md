@@ -5,15 +5,6 @@ status: unread
 ---
 # inherit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain from someone after their death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive from a predecessor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father’s moral parts Mayst thou inherit too!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And by th’ way Tell me how Wales was made so happy as T’ inherit such a haven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And God knows whether those that bawl out of the ruins of thy linen shall inherit his kingdom: but the midwives say the children are not in the fault; whereupon the world increases, and kindreds are mightily strengthened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain from someone after their death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive from a predecessor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father’s moral parts Mayst thou inherit too!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And by th’ way Tell me how Wales was made so happy as T’ inherit such a haven."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And God knows whether those that bawl out of the ruins of thy linen shall inherit his kingdom: but the midwives say the children are not in the fault; whereupon the world increases, and kindreds are mightily strengthened."*

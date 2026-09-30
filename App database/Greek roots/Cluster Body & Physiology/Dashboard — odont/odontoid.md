@@ -5,13 +5,6 @@ status: unread
 ---
 # odontoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoid designates a toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoid designates a toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates."*

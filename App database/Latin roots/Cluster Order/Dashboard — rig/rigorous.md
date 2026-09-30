@@ -5,15 +5,6 @@ status: unread
 ---
 # rigorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigidly accurate; allowing no deviation from a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding strict attention to rules and procedures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be thrown down the Tarpeian rock With rigorous hands."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this condition, wrapt up and shrouded like a corpse, she was kept for two or three days or so long as the symptoms lasted, and during this time she had to observe a most rigorous fast."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"These rigorous observances she must practise for nearly a year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigidly accurate; allowing no deviation from a standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding strict attention to rules and procedures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be thrown down the Tarpeian rock With rigorous hands."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this condition, wrapt up and shrouded like a corpse, she was kept for two or three days or so long as the symptoms lasted, and during this time she had to observe a most rigorous fast."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"These rigorous observances she must practise for nearly a year."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # erasmus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch humanist and theologian who was the leading renaissance scholar of northern europe; although his criticisms of the roman catholic church led to the reformation, he opposed violence and condemned martin luther (1466-1536).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch humanist and theologian who was the leading renaissance scholar of northern europe; although his criticisms of the roman catholic church led to the reformation, he opposed violence and condemned martin luther (1466-1536).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hippolytus, Plotinus, Athenodorus, and of that friend of Erasmus named Grocyn."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Luther and Erasmus were right when they said--each of them has said it, however it happened--that Paul "spoke pure flame." The letters, and the theology and its influence, establish at once Paul's claim to be a historical character."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Yer own daddy Erasmus wuz one ob um, an' a lackly littul fellah he wuz, too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch humanist and theologian who was the leading renaissance scholar of northern europe; although his criticisms of the roman catholic church led to the reformation, he opposed violence and condemned martin luther (1466-1536).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch humanist and theologian who was the leading renaissance scholar of northern europe; although his criticisms of the roman catholic church led to the reformation, he opposed violence and condemned martin luther (1466-1536).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hippolytus, Plotinus, Athenodorus, and of that friend of Erasmus named Grocyn."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Luther and Erasmus were right when they said--each of them has said it, however it happened--that Paul "spoke pure flame." The letters, and the theology and its influence, establish at once Paul's claim to be a historical character."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Yer own daddy Erasmus wuz one ob um, an' a lackly littul fellah he wuz, too."*

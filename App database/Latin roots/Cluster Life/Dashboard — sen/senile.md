@@ -5,15 +5,6 @@ status: unread
 ---
 # senile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally or physically infirm with age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentally or physically infirm with age.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He was a universal genius—on that point I agreed with the old chap, who thereupon blew his nose noisily into a large cotton handkerchief and withdrew in senile agitation, bearing off some family letters and memoranda without importance."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The senile cabinet has persuaded the Empress this is possible, and they are quite willing to face the inevitable foreign war that their policy entails."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Dobbin was not a little affected by the sight of this once kind old friend, crazed almost with misfortune and raving with senile anger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally or physically infirm with age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentally or physically infirm with age.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He was a universal genius—on that point I agreed with the old chap, who thereupon blew his nose noisily into a large cotton handkerchief and withdrew in senile agitation, bearing off some family letters and memoranda without importance."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The senile cabinet has persuaded the Empress this is possible, and they are quite willing to face the inevitable foreign war that their policy entails."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Dobbin was not a little affected by the sight of this once kind old friend, crazed almost with misfortune and raving with senile anger."*

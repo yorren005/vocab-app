@@ -5,13 +5,6 @@ status: unread
 ---
 # colloquialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial expression; characteristic of spoken or written communication that seeks to imitate informal speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial expression; characteristic of spoken or written communication that seeks to imitate informal speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colloquialism designates a colloquial expression; characteristic of spoken or written communication that seeks to imitate informal speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial expression; characteristic of spoken or written communication that seeks to imitate informal speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial expression; characteristic of spoken or written communication that seeks to imitate informal speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colloquialism designates a colloquial expression; characteristic of spoken or written communication that seeks to imitate informal speech."*

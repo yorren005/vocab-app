@@ -5,15 +5,6 @@ status: unread
 ---
 # latium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region of west central italy (southeast of rome) on the tyrrhenian sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region of west central italy (southeast of rome) on the tyrrhenian sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Why should it not have obtained in ancient Latium?"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Rome and in other cities of Latium there was a priest called the Sacrificial King or King of the Sacred Rites, and his wife bore the title of Queen of the Sacred Rites."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Theophrastus has left us a description of the woods of Latium as they were in the fourth century before Christ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region of west central italy (southeast of rome) on the tyrrhenian sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region of west central italy (southeast of rome) on the tyrrhenian sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Why should it not have obtained in ancient Latium?"*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Rome and in other cities of Latium there was a priest called the Sacrificial King or King of the Sacred Rites, and his wife bore the title of Queen of the Sacred Rites."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Theophrastus has left us a description of the woods of Latium as they were in the fourth century before Christ."*

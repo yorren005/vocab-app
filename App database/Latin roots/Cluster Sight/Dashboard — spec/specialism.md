@@ -5,13 +5,6 @@ status: unread
 ---
 # specialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of your efforts on a particular field of study or occupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The special line of work you have adopted as your career.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialism designates the concentration of your efforts on a particular field of study or occupation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of your efforts on a particular field of study or occupation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The special line of work you have adopted as your career.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialism designates the concentration of your efforts on a particular field of study or occupation."*

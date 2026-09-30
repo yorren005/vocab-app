@@ -5,15 +5,6 @@ status: unread
 ---
 # monosyllabic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by or consisting of one syllable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by or consisting of one syllable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I made some attempts to draw her into conversation, but she seemed a person of few words: a monosyllabic reply usually cut short every effort of that sort."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Mirestone followed in the Dutchman's footsteps, and when they were inside, he listened intently as Peter recited a monosyllabic chant over the feather."*
-> - 📜 **James Joyce (*Ulysses*):** *"To what inconsequent polysyllabic question of his host did the guest return a monosyllabic negative answer?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by or consisting of one syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by or consisting of one syllable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I made some attempts to draw her into conversation, but she seemed a person of few words: a monosyllabic reply usually cut short every effort of that sort."*
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"Mirestone followed in the Dutchman's footsteps, and when they were inside, he listened intently as Peter recited a monosyllabic chant over the feather."*
+> - 📜 **James Joyce (*Ulysses*):** *"To what inconsequent polysyllabic question of his host did the guest return a monosyllabic negative answer?"*

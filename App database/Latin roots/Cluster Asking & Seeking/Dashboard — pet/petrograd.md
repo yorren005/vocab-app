@@ -5,13 +5,6 @@ status: unread
 ---
 # petrograd
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrograd designates a city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrograd designates a city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia."*

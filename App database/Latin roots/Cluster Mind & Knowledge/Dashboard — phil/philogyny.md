@@ -5,13 +5,6 @@ status: unread
 ---
 # philogyny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admiration for women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admiration for women.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philogyny designates admiration for women."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admiration for women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admiration for women.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philogyny designates admiration for women."*

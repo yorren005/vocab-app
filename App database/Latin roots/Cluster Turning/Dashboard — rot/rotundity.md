@@ -5,15 +5,6 @@ status: unread
 ---
 # rotundity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fullness of a tone of voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou, all-shaking thunder, Strike flat the thick rotundity o’ the world!"*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There was, moreover, a boldness and rotundity of speech among these matrons, as most of them seemed to be, that would startle us at the present day, whether in respect to its purport or its volume of tone."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Then, in a flash, I perceived that all had the same form of costume, the same soft hairless visage, and the same girlish rotundity of limb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fullness of a tone of voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou, all-shaking thunder, Strike flat the thick rotundity o’ the world!"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There was, moreover, a boldness and rotundity of speech among these matrons, as most of them seemed to be, that would startle us at the present day, whether in respect to its purport or its volume of tone."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Then, in a flash, I perceived that all had the same form of costume, the same soft hairless visage, and the same girlish rotundity of limb."*

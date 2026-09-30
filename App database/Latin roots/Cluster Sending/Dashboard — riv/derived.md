@@ -5,15 +5,6 @@ status: unread
 ---
 # derived
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My son corrupts a well-derived nature With his inducement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am, my lord, a wretched Florentine, Derived from the ancient Capilet; My suit, as I do understand, you know, And therefore know how far I may be pitied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Long after this, when Henry the Fifth, Succeeding his father Bolingbroke, did reign, Thy father, Earl of Cambridge then, derived From famous Edmund Langley, Duke of York, Marrying my sister that thy mother was, Again, in pity of my hard distress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My son corrupts a well-derived nature With his inducement."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am, my lord, a wretched Florentine, Derived from the ancient Capilet; My suit, as I do understand, you know, And therefore know how far I may be pitied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Long after this, when Henry the Fifth, Succeeding his father Bolingbroke, did reign, Thy father, Earl of Cambridge then, derived From famous Edmund Langley, Duke of York, Marrying my sister that thy mother was, Again, in pity of my hard distress."*

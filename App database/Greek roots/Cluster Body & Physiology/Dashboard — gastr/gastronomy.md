@@ -5,13 +5,6 @@ status: unread
 ---
 # gastronomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of good eating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Culinary customs or style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"On the doorstep, she met the little urchin whose marvellous feats of gastronomy have been recorded in the earlier pages of our narrative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of good eating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Culinary customs or style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"On the doorstep, she met the little urchin whose marvellous feats of gastronomy have been recorded in the earlier pages of our narrative."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stylet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small needlelike appendage; especially the feeding organ of a tardigrade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small needlelike appendage; especially the feeding organ of a tardigrade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylet designates small needlelike appendage; especially the feeding organ of a tardigrade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small needlelike appendage; especially the feeding organ of a tardigrade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small needlelike appendage; especially the feeding organ of a tardigrade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylet designates small needlelike appendage; especially the feeding organ of a tardigrade."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cursory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hasty and without attention to detail; not thorough.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hasty and without attention to detail; not thorough.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When I come back I’ll give you full directions, and if you insist upon walking you may; or you may ride—at your pleasure.” She accepted these terms, and slid off on the near side, though not till he had stolen a cursory kiss."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The cursory remarks of the large-minded stranger, of whom he knew absolutely nothing beyond a commonplace name, were sublimed by his death, and influenced Clare more than all the reasoned ethics of the philosophers."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"From the cursory view here taken, it must clearly appear to have been an arduous part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hasty and without attention to detail; not thorough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hasty and without attention to detail; not thorough.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When I come back I’ll give you full directions, and if you insist upon walking you may; or you may ride—at your pleasure.” She accepted these terms, and slid off on the near side, though not till he had stolen a cursory kiss."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The cursory remarks of the large-minded stranger, of whom he knew absolutely nothing beyond a commonplace name, were sublimed by his death, and influenced Clare more than all the reasoned ethics of the philosophers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"From the cursory view here taken, it must clearly appear to have been an arduous part."*

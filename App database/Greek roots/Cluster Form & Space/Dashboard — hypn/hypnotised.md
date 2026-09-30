@@ -5,15 +5,6 @@ status: unread
 ---
 # hypnotised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your attention fixated as though by a spell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"At sunset time he hypnotised me, and he says that I answered as usual “darkness, lapping water and creaking wood”; so our enemy is still on the river."*
-> - 📜 **Bram Stoker (*Dracula*):** *"At dawn Van Helsing hypnotised me; he says I answered “darkness, creaking wood and roaring water,” so the river is changing as they ascend."*
-> - 📜 **James Joyce (*Ulysses*):** *"Half baked they look: hypnotised like."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your attention fixated as though by a spell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"At sunset time he hypnotised me, and he says that I answered as usual “darkness, lapping water and creaking wood”; so our enemy is still on the river."*
+> - 📜 **Bram Stoker (*Dracula*):** *"At dawn Van Helsing hypnotised me; he says I answered “darkness, creaking wood and roaring water,” so the river is changing as they ascend."*
+> - 📜 **James Joyce (*Ulysses*):** *"Half baked they look: hypnotised like."*

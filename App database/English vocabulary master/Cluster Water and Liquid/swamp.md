@@ -5,20 +5,6 @@ status: unread
 ---
 # swamp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Tract of swamp
-> 2. **Nuance / Usage**: Difficult or troublesome situation or subject
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"for us, we only get farther and farther into the swamp of awkwardness."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"The hollow is impassable—there’s a swamp there,” said the esaul."*
-> - 📜 **Cassandra Clark (*Alchemist of Netley Abbey*):** *"We two...in this swamp of iniquity...together we can bring redress to an unjust world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Tract of swamp
+> 2. **Nuance / Usage**: Difficult or troublesome situation or subject
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"for us, we only get farther and farther into the swamp of awkwardness."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The hollow is impassable—there’s a swamp there,” said the esaul."*
+> - 📜 **Cassandra Clark (*Alchemist of Netley Abbey*):** *"We two...in this swamp of iniquity...together we can bring redress to an unjust world."*

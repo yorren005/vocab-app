@@ -5,15 +5,6 @@ status: unread
 ---
 # convert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has been converted to another religious or political belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from one system to another or to a new plan or policy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet weep that Harry’s dead, and so will I; But Harry lives, that shall convert those tears By number into hours of happiness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let grief Convert to anger; blunt not the heart, enrage it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has been converted to another religious or political belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from one system to another or to a new plan or policy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet weep that Harry’s dead, and so will I; But Harry lives, that shall convert those tears By number into hours of happiness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let grief Convert to anger; blunt not the heart, enrage it."*

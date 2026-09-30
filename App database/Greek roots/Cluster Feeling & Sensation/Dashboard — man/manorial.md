@@ -5,15 +5,6 @@ status: unread
 ---
 # manorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on the manor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on the manor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not a manorial home in the ordinary sense, with fields, and pastures, and a grumbling farmer, out of whom the owner had to squeeze an income for himself and his family by hook or by crook."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everywhere he saw the stewards’ accounts, according to which the serfs’ manorial labor had been diminished, and heard the touching thanks of deputations of serfs in their full-skirted blue coats."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He did not know that the brick buildings, built to plan, were being built by serfs whose manorial labor was thus increased, though lessened on paper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on the manor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on the manor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not a manorial home in the ordinary sense, with fields, and pastures, and a grumbling farmer, out of whom the owner had to squeeze an income for himself and his family by hook or by crook."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everywhere he saw the stewards’ accounts, according to which the serfs’ manorial labor had been diminished, and heard the touching thanks of deputations of serfs in their full-skirted blue coats."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He did not know that the brick buildings, built to plan, were being built by serfs whose manorial labor was thus increased, though lessened on paper."*

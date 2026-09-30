@@ -5,15 +5,6 @@ status: unread
 ---
 # matching
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide funds complementary to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To that end, As matching to his youth and vanity, I did present him with the Paris balls."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But it’s not her air, her form, her face, Tho’ matching beauty’s fabled queen; ’Tis the mind that shines in ev’ry grace, An’ chiefly in her roguish een."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They returned his gaze, the bleakness in their eyes matching his own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide funds complementary to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To that end, As matching to his youth and vanity, I did present him with the Paris balls."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But it’s not her air, her form, her face, Tho’ matching beauty’s fabled queen; ’Tis the mind that shines in ev’ry grace, An’ chiefly in her roguish een."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They returned his gaze, the bleakness in their eyes matching his own."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hysterosalpingography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the uterus and fallopian tubes by radiography after injection of an opaque medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the uterus and fallopian tubes by radiography after injection of an opaque medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterosalpingography designates examination of the uterus and fallopian tubes by radiography after injection of an opaque medium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the uterus and fallopian tubes by radiography after injection of an opaque medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the uterus and fallopian tubes by radiography after injection of an opaque medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterosalpingography designates examination of the uterus and fallopian tubes by radiography after injection of an opaque medium."*

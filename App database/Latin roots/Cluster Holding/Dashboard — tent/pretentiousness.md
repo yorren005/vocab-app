@@ -5,13 +5,6 @@ status: unread
 ---
 # pretentiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being pretentious (behaving or speaking in such a manner as to create a false appearance of great importance or worth).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pretentiousness designates lack of elegance as a consequence of being pompous and puffed up with vanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being pretentious (behaving or speaking in such a manner as to create a false appearance of great importance or worth).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pretentiousness designates lack of elegance as a consequence of being pompous and puffed up with vanity."*

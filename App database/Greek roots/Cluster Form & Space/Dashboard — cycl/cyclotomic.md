@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclotomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclotomic designates relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclotomic designates relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number."*

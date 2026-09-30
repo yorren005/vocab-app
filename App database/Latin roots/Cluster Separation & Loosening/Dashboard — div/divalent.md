@@ -5,13 +5,6 @@ status: unread
 ---
 # divalent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a valence of two or having two valences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of two or having two valences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divalent designates having a valence of two or having two valences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a valence of two or having two valences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of two or having two valences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divalent designates having a valence of two or having two valences."*

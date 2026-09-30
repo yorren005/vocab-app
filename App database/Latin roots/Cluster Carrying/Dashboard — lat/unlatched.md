@@ -5,15 +5,6 @@ status: unread
 ---
 # unlatched
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly fastened or secured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not firmly fastened or secured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare unlatched the door of a large chamber, felt his way across it, and parted the shutters to the width of two or three inches."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The drawing-room door was unlatched, and Martha, pushing it without looking into the room, waited for Mrs."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Peter unlatched the heavy oaken door and went outside to the outbuildings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly fastened or secured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not firmly fastened or secured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare unlatched the door of a large chamber, felt his way across it, and parted the shutters to the width of two or three inches."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The drawing-room door was unlatched, and Martha, pushing it without looking into the room, waited for Mrs."*
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"Peter unlatched the heavy oaken door and went outside to the outbuildings."*

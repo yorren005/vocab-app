@@ -5,15 +5,6 @@ status: unread
 ---
 # subscribed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offer to buy, as of stocks and shares.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's signature; write one's name (on).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He set up his bills here in Messina and challenged Cupid at the flight; and my uncle’s fool, reading the challenge, subscribed for Cupid, and challenged him at the bird-bolt."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yes, I’m proud to say, neighbours, that he’s stole nothing at all.” “Well, ’tis an honest deed, and we thank ye for it, Pennyways,” said Joseph; to which opinion the remainder of the company subscribed unanimously."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His father, in the days of his boyhood, had subscribed, along with a neighbour, for the _Voluntary Church Magazine_, and the subject had often been discussed in the cottage at Dunglass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offer to buy, as of stocks and shares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's signature; write one's name (on).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He set up his bills here in Messina and challenged Cupid at the flight; and my uncle’s fool, reading the challenge, subscribed for Cupid, and challenged him at the bird-bolt."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yes, I’m proud to say, neighbours, that he’s stole nothing at all.” “Well, ’tis an honest deed, and we thank ye for it, Pennyways,” said Joseph; to which opinion the remainder of the company subscribed unanimously."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His father, in the days of his boyhood, had subscribed, along with a neighbour, for the _Voluntary Church Magazine_, and the subject had often been discussed in the cottage at Dunglass."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fussiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessary elaborateness in details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is no longer asceticism, no longer the mystical trance, no longer the "fussiness," with which the early Christian reproached the Jew, which still haunts all the religions of taboo and merit, and even Christianity in some forms."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That Christians are right to keep aloof from the general silliness and deceit of the Jews, their fussiness and quackery, I think you are well enough instructed."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"This does not mean fussiness --it means a combination of sympathy, wisdom and justice." The Humane Pleader LINES TO A SEABIRD."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessary elaborateness in details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is no longer asceticism, no longer the mystical trance, no longer the "fussiness," with which the early Christian reproached the Jew, which still haunts all the religions of taboo and merit, and even Christianity in some forms."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That Christians are right to keep aloof from the general silliness and deceit of the Jews, their fussiness and quackery, I think you are well enough instructed."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"This does not mean fussiness --it means a combination of sympathy, wisdom and justice." The Humane Pleader LINES TO A SEABIRD."*

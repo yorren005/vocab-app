@@ -5,15 +5,6 @@ status: unread
 ---
 # scaled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measure by or as if by a scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pattern, make, regulate, set, measure, or estimate according to some rate or standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the encounter acknowledge itself hereafter, it may compel him to her recompense; and here, by this, is your brother saved, your honour untainted, the poor Mariana advantaged, and the corrupt deputy scaled."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Peepy had scaled his crib, and crept down in his bed-gown and cap, and was so cold that his teeth were chattering as if he had cut them all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measure by or as if by a scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pattern, make, regulate, set, measure, or estimate according to some rate or standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the encounter acknowledge itself hereafter, it may compel him to her recompense; and here, by this, is your brother saved, your honour untainted, the poor Mariana advantaged, and the corrupt deputy scaled."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Peepy had scaled his crib, and crept down in his bed-gown and cap, and was so cold that his teeth were chattering as if he had cut them all."*

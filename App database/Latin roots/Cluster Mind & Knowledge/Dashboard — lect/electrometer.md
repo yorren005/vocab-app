@@ -5,15 +5,6 @@ status: unread
 ---
 # electrometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter to measure electrostatic voltage differences; draws no current from the source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter to measure electrostatic voltage differences; draws no current from the source.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The galvanometer has a near relative, the electrometer, the astounding delicacy of which renders it equally interesting."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The galvanometer, it will be remembered, measures minute currents; the electrometer measures minute pressures, particularly those of small electrically charged bodies."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Precisely as the pressure-gauge measures the pressure of air or gas in some vessel, so the electrometer measures the electrical pressure in a charged body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter to measure electrostatic voltage differences; draws no current from the source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter to measure electrostatic voltage differences; draws no current from the source.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The galvanometer has a near relative, the electrometer, the astounding delicacy of which renders it equally interesting."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The galvanometer, it will be remembered, measures minute currents; the electrometer measures minute pressures, particularly those of small electrically charged bodies."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Precisely as the pressure-gauge measures the pressure of air or gas in some vessel, so the electrometer measures the electrical pressure in a charged body."*

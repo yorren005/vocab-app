@@ -5,13 +5,6 @@ status: unread
 ---
 # murrumbidgee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river of southeastern australia; flows westward into the murray river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river of southeastern australia; flows westward into the murray river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murrumbidgee designates a river of southeastern australia; flows westward into the murray river."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river of southeastern australia; flows westward into the murray river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river of southeastern australia; flows westward into the murray river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murrumbidgee designates a river of southeastern australia; flows westward into the murray river."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # compost
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture of decaying vegetation and manure; used as a fertilizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert to compost.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Confess yourself to heaven, Repent what’s past, avoid what is to come; And do not spread the compost on the weeds, To make them ranker."*
-> - 📜 **James Joyce (*Ulysses*):** *"And also it was a marvel to see in that castle how by magic they make a compost out of fecund wheatkidneys out of Chaldee that by aid of certain angry spirits that they do in to it swells up wondrously like to a vast mountain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture of decaying vegetation and manure; used as a fertilizer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert to compost.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Confess yourself to heaven, Repent what’s past, avoid what is to come; And do not spread the compost on the weeds, To make them ranker."*
+> - 📜 **James Joyce (*Ulysses*):** *"And also it was a marvel to see in that castle how by magic they make a compost out of fecund wheatkidneys out of Chaldee that by aid of certain angry spirits that they do in to it swells up wondrously like to a vast mountain."*

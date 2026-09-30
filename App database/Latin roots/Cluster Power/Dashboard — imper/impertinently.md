@@ -5,14 +5,6 @@ status: unread
 ---
 # impertinently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impudent or impertinent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impudent or impertinent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No one is to speak impertinently or beside the question, superfluous, or tediously."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Credit me, it is better to enjoy the good which God sends thee, than to be impertinently curious how it comes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impudent or impertinent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impudent or impertinent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No one is to speak impertinently or beside the question, superfluous, or tediously."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Credit me, it is better to enjoy the good which God sends thee, than to be impertinently curious how it comes."*

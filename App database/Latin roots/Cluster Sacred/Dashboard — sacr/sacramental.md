@@ -5,15 +5,6 @@ status: unread
 ---
 # sacramental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving a sacrament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving a sacrament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He selected for this purpose those sermons which he had preached most frequently, and which he had, with few exceptions, originally written for sacramental occasions at Berwick--some of them far back in the old Golden Square days."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Holy Fair^1 A robe of seeming truth and trust Hid crafty Observation; And secret hung, with poison’d crust, The dirk of Defamation: [Footnote 1: “Holy Fair” is a common phrase in the west of Scotland for a sacramental occasion.—R."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the Greek Church--a suffering Church--on the round sacramental wafer there is a cross, and in the four corners there are the eight letters, IE, XE, NI, KA, "Jesus Christ conquers." That is the story of the Christian Church in the Roman Empire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving a sacrament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving a sacrament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He selected for this purpose those sermons which he had preached most frequently, and which he had, with few exceptions, originally written for sacramental occasions at Berwick--some of them far back in the old Golden Square days."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Holy Fair^1 A robe of seeming truth and trust Hid crafty Observation; And secret hung, with poison’d crust, The dirk of Defamation: [Footnote 1: “Holy Fair” is a common phrase in the west of Scotland for a sacramental occasion.—R."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the Greek Church--a suffering Church--on the round sacramental wafer there is a cross, and in the four corners there are the eight letters, IE, XE, NI, KA, "Jesus Christ conquers." That is the story of the Christian Church in the Roman Empire."*

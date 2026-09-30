@@ -5,13 +5,6 @@ status: unread
 ---
 # gene-splicing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gene-splicing designates the technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gene-splicing designates the technology of preparing recombinant dna in vitro by cutting up dna molecules and splicing together fragments from more than one organism."*

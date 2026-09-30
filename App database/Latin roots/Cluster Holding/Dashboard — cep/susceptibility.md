@@ -5,15 +5,6 @@ status: unread
 ---
 # susceptibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being susceptible; easily affected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being susceptible; easily affected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, cousin John.” “Why,” he slowly replied, roughening his head more and more, “he is all sentiment, and—and susceptibility, and—and sensibility, and—and imagination."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She has been doing everything in her power, by thinking and talking on the subject, to give greater--what shall I call it?--susceptibility to her feelings; which are naturally lively enough."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I believe she had not shown much susceptibility up to that time; but all the susceptibility she possessed certainly came out then, and she passionately loved him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being susceptible; easily affected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being susceptible; easily affected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, cousin John.” “Why,” he slowly replied, roughening his head more and more, “he is all sentiment, and—and susceptibility, and—and sensibility, and—and imagination."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She has been doing everything in her power, by thinking and talking on the subject, to give greater--what shall I call it?--susceptibility to her feelings; which are naturally lively enough."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I believe she had not shown much susceptibility up to that time; but all the susceptibility she possessed certainly came out then, and she passionately loved him."*

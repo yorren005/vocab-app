@@ -5,15 +5,6 @@ status: unread
 ---
 # ape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various primates with short tails or no tail at all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who copies the words or behavior of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sleep, thou ape of death, lie dull upon her!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, in despite of sense and secrecy, Unpeg the basket on the house’s top, Let the birds fly, and like the famous ape, To try conclusions, in the basket creep And break your own neck down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various primates with short tails or no tail at all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who copies the words or behavior of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sleep, thou ape of death, lie dull upon her!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, in despite of sense and secrecy, Unpeg the basket on the house’s top, Let the birds fly, and like the famous ape, To try conclusions, in the basket creep And break your own neck down."*

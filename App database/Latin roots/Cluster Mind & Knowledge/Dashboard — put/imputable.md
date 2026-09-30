@@ -5,15 +5,6 @@ status: unread
 ---
 # imputable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being assigned or credited to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being assigned or credited to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No one having previously heard his history, could for the first time behold Father Mapple without the utmost interest, because there were certain engrafted clerical peculiarities about him, imputable to that adventurous maritime life he had led."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This difference in the species is no doubt imputable in no small degree to the greater quantity of bone in the Right Whale; his Venetian blinds alone sometimes weighing more than a ton; from this incumbrance the Sperm Whale is wholly free."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Some of them, it will be found, may be imputable to peculiar circumstances connected with the war; but the greater part of them may be considered as the spontaneous shoots of an ill-constituted government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being assigned or credited to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being assigned or credited to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No one having previously heard his history, could for the first time behold Father Mapple without the utmost interest, because there were certain engrafted clerical peculiarities about him, imputable to that adventurous maritime life he had led."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This difference in the species is no doubt imputable in no small degree to the greater quantity of bone in the Right Whale; his Venetian blinds alone sometimes weighing more than a ton; from this incumbrance the Sperm Whale is wholly free."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Some of them, it will be found, may be imputable to peculiar circumstances connected with the war; but the greater part of them may be considered as the spontaneous shoots of an ill-constituted government."*

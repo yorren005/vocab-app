@@ -5,13 +5,6 @@ status: unread
 ---
 # rhabdosarcoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly malignant neoplasm derived from striated muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly malignant neoplasm derived from striated muscle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdosarcoma designates a highly malignant neoplasm derived from striated muscle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly malignant neoplasm derived from striated muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly malignant neoplasm derived from striated muscle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdosarcoma designates a highly malignant neoplasm derived from striated muscle."*

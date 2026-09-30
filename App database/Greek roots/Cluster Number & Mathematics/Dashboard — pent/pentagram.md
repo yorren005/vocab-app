@@ -5,13 +5,6 @@ status: unread
 ---
 # pentagram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of a 5-pointed star usually made with alternate points connected by a continuous line and used as a magic or occult symbol; also : a similar 6-pointed star (such as a Solomon's seal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of a 5-pointed star usually made with alternate points connected by a continuous line and used as a magic or occult symbol; also : a similar 6-pointed star (such as a Solomon's seal).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentagram designates a figure of a 5-pointed star usually made with alternate points connected by a continuous line and used as a magic or occult symbol; also : a similar 6-pointed star (such as a solomon's seal)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of a 5-pointed star usually made with alternate points connected by a continuous line and used as a magic or occult symbol; also : a similar 6-pointed star (such as a Solomon's seal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of a 5-pointed star usually made with alternate points connected by a continuous line and used as a magic or occult symbol; also : a similar 6-pointed star (such as a Solomon's seal).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentagram designates a figure of a 5-pointed star usually made with alternate points connected by a continuous line and used as a magic or occult symbol; also : a similar 6-pointed star (such as a solomon's seal)."*

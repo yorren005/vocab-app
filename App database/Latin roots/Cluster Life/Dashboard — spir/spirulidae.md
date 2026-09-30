@@ -5,13 +5,6 @@ status: unread
 ---
 # spirulidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus spirula; included in the order belemnoidea in some older classifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus spirula; included in the order belemnoidea in some older classifications.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirulidae designates coextensive with the genus spirula; included in the order belemnoidea in some older classifications."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus spirula; included in the order belemnoidea in some older classifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus spirula; included in the order belemnoidea in some older classifications.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirulidae designates coextensive with the genus spirula; included in the order belemnoidea in some older classifications."*

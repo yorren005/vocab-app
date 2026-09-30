@@ -5,15 +5,6 @@ status: unread
 ---
 # majestically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a majestic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a majestic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbit-sucker or a poulter’s hare."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Since he has your orders to come, I will not interrupt you.” Sir Leicester in his gallantry retires, rather declining to accept a bow from the young man as he goes out and majestically supposing him to be some shoemaker of intrusive appearance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore he says “you” are beaten, and not “we.” Sir Leicester is majestically wroth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a majestic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a majestic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbit-sucker or a poulter’s hare."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Since he has your orders to come, I will not interrupt you.” Sir Leicester in his gallantry retires, rather declining to accept a bow from the young man as he goes out and majestically supposing him to be some shoemaker of intrusive appearance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore he says “you” are beaten, and not “we.” Sir Leicester is majestically wroth."*

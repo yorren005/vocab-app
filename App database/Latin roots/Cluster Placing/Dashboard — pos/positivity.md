@@ -5,13 +5,6 @@ status: unread
 ---
 # positivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of the positive electric pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, positivity designates the character of the positive electric pole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of the positive electric pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, positivity designates the character of the positive electric pole."*

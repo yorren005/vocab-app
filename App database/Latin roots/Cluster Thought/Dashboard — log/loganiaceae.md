@@ -5,13 +5,6 @@ status: unread
 ---
 # loganiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous family of plants of order gentianales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous family of plants of order gentianales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loganiaceae designates a dicotyledonous family of plants of order gentianales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous family of plants of order gentianales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous family of plants of order gentianales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loganiaceae designates a dicotyledonous family of plants of order gentianales."*

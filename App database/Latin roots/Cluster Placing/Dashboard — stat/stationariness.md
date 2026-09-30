@@ -5,13 +5,6 @@ status: unread
 ---
 # stationariness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It would be hard to find better examples of stationariness, as we ordinarily look at things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It would be hard to find better examples of stationariness, as we ordinarily look at things."*

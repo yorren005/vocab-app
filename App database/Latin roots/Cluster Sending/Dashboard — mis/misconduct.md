@@ -5,15 +5,6 @@ status: unread
 ---
 # misconduct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad or dishonest management by persons supposed to act on another's behalf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that transgresses moral or civil law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Your father and mother seem so totally free from all those ambitious feelings which have led to so much misconduct and misery, both in young and old."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Far from comprehending him or his sister in their father’s misconduct, Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad or dishonest management by persons supposed to act on another's behalf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that transgresses moral or civil law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Your father and mother seem so totally free from all those ambitious feelings which have led to so much misconduct and misery, both in young and old."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Far from comprehending him or his sister in their father’s misconduct, Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by."*

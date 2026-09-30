@@ -5,15 +5,6 @@ status: unread
 ---
 # maintenance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Activity involved in maintaining something in good working order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Means of maintenance of a family or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw him hold Lord Percy at the point With lustier maintenance than I did look for Of such an ungrown warrior."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What maintenance he from his friends receives, Like exhibition thou shalt have from me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet resorts to his standard artifice for the maintenance of discipline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Activity involved in maintaining something in good working order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Means of maintenance of a family or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw him hold Lord Percy at the point With lustier maintenance than I did look for Of such an ungrown warrior."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What maintenance he from his friends receives, Like exhibition thou shalt have from me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet resorts to his standard artifice for the maintenance of discipline."*

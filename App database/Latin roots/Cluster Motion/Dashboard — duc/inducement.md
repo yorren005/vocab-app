@@ -5,15 +5,6 @@ status: unread
 ---
 # inducement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive motivational influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of bringing about a desired result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My son corrupts a well-derived nature With his inducement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this inducement move her not to love, Send her a letter of thy noble deeds; Tell her thou mad’st away her uncle Clarence, Her uncle Rivers, ay, and for her sake Mad’st quick conveyance with her good aunt Anne."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Another inducement was that our dear Rector, an erstwhile friend of my father's, promised to give Bruno instruction which he could not get at a country school, so that I was able to keep him at home longer, you see."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive motivational influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of bringing about a desired result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My son corrupts a well-derived nature With his inducement."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this inducement move her not to love, Send her a letter of thy noble deeds; Tell her thou mad’st away her uncle Clarence, Her uncle Rivers, ay, and for her sake Mad’st quick conveyance with her good aunt Anne."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Another inducement was that our dear Rector, an erstwhile friend of my father's, promised to give Bruno instruction which he could not get at a country school, so that I was able to keep him at home longer, you see."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sacking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coarse fabric used for bags or sacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The termination of someone's employment (leaving them free to depart).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, on a low bed opposite the fire, a confusion of dirty patchwork, lean-ribbed ticking, and coarse sacking, the lawyer, hesitating just within the doorway, sees a man."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yes, and my jute-sacking was far above the average demanded."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a heap of sacking in the far corner was lying the dead body of a man dressed in a coarse shirt and a pair of blue trousers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coarse fabric used for bags or sacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The termination of someone's employment (leaving them free to depart).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For, on a low bed opposite the fire, a confusion of dirty patchwork, lean-ribbed ticking, and coarse sacking, the lawyer, hesitating just within the doorway, sees a man."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yes, and my jute-sacking was far above the average demanded."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a heap of sacking in the far corner was lying the dead body of a man dressed in a coarse shirt and a pair of blue trousers."*

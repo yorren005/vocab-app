@@ -5,13 +5,6 @@ status: unread
 ---
 # orchestrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write an orchestra score for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan and direct (a complex undertaking).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It is my opinion that the positions taken by the governments of the Jovian Federation are orchestrated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Write an orchestra score for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan and direct (a complex undertaking).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It is my opinion that the positions taken by the governments of the Jovian Federation are orchestrated."*

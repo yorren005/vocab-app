@@ -5,13 +5,6 @@ status: unread
 ---
 # putrefacient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or promoting bacterial putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or promoting bacterial putrefaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrefacient designates causing or promoting bacterial putrefaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or promoting bacterial putrefaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or promoting bacterial putrefaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrefacient designates causing or promoting bacterial putrefaction."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # terrasse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide (a house) with a terrace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide (a house) with a terrace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrasse designates provide (a house) with a terrace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide (a house) with a terrace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide (a house) with a terrace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrasse designates provide (a house) with a terrace."*

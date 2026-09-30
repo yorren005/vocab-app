@@ -5,20 +5,6 @@ status: unread
 ---
 # adage
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Old saying which has obtained credit by long use
-> 2. **Nuance / Usage**: Saying often in metaphorical form that typically embodies a common observation
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the adage withstood the storm*), direct object (*cleaved the adage*), or prepositional anchor (*amidst the adage*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Macbeth*):** *"Letting 'I dare not' wait upon 'I would,' Like the poor cat i' the adage."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Charley verified the adage about little pitchers, I am sure, for she heard of more sayings and doings in a day than would have come to my ears in a month."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"At that moment a little accident supervened, which seemed decreed by fate purposely to prove the truth of the adage, that 'misfortunes never come singly.'"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Old saying which has obtained credit by long use
+> 2. **Nuance / Usage**: Saying often in metaphorical form that typically embodies a common observation
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the adage withstood the storm*), direct object (*cleaved the adage*), or prepositional anchor (*amidst the adage*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Macbeth*):** *"Letting 'I dare not' wait upon 'I would,' Like the poor cat i' the adage."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Charley verified the adage about little pitchers, I am sure, for she heard of more sayings and doings in a day than would have come to my ears in a month."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"At that moment a little accident supervened, which seemed decreed by fate purposely to prove the truth of the adage, that 'misfortunes never come singly.'"*

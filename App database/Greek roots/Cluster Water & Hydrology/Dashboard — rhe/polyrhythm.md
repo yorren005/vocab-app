@@ -5,13 +5,6 @@ status: unread
 ---
 # polyrhythm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous combination of contrasting rhythms in music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The simultaneous combination of contrasting rhythms in music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyrhythm designates the simultaneous combination of contrasting rhythms in music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous combination of contrasting rhythms in music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The simultaneous combination of contrasting rhythms in music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyrhythm designates the simultaneous combination of contrasting rhythms in music."*

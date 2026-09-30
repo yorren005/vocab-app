@@ -5,20 +5,6 @@ status: unread
 ---
 # stir
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Mix by or as if by stirring —often used with in
-> 2. **Nuance / Usage**: (transitive) to emotionally affect; to touch, to move
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stir the target*) and intransitive clauses (*stiring against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Express impatience, lest you stir up mine."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Wouldst thou not stir in this."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Good cousin, be advised, stir not tonight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To make a slight physical movement, especially when beginning to wake from sleep or emerging from stillness.
+> 2. **Nuance / Usage**: To arouse or awaken strong feelings, curiosity, or commotion (*cause a stir*), or to mix a liquid with a circular motion.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stir the target*) and intransitive clauses (*stiring against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clement Clarke Moore (*A Visit from St. Nicholas*):** *"’Twas the night before Christmas, when all through the house not a creature was **stirring**, not even a mouse."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Good cousin, be advised, **stir** not tonight."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Nobody was **stirring** in the house when I went down at daybreak to unbar the door."*

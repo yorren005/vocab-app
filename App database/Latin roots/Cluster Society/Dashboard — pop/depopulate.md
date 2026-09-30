@@ -5,15 +5,6 @@ status: unread
 ---
 # depopulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in population.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is this viper That would depopulate the city and Be every man himself?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happy Ned proposed to return to this enchanting island the next day, for he wished to depopulate it of all the eatable quadrupeds."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"These vampire bats sometimes depopulate a whole village." "Bless my shoe laces!" cried Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in population.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is this viper That would depopulate the city and Be every man himself?"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happy Ned proposed to return to this enchanting island the next day, for he wished to depopulate it of all the eatable quadrupeds."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"These vampire bats sometimes depopulate a whole village." "Bless my shoe laces!" cried Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # animality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical (or animal) side of a person as opposed to the spirit or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical (or animal) side of a person as opposed to the spirit or intellect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He that touches the hem 569:12 of Christ's robe and masters his mortal beliefs, animality, and hate, rejoices in the proof of healing, - in a sweet and certain sense that God is Love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical (or animal) side of a person as opposed to the spirit or intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical (or animal) side of a person as opposed to the spirit or intellect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He that touches the hem 569:12 of Christ's robe and masters his mortal beliefs, animality, and hate, rejoices in the proof of healing, - in a sweet and certain sense that God is Love."*

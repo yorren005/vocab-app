@@ -5,15 +5,6 @@ status: unread
 ---
 # falchion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short broad slightly convex medieval sword with a sharp point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short broad slightly convex medieval sword with a sharp point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have seen the day, with my good biting falchion I would have made them skip."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pommel of Caesar’s falchion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Queen Margaret saw Thy murd’rous falchion smoking in his blood, The which thou once didst bend against her breast, But that thy brothers beat aside the point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short broad slightly convex medieval sword with a sharp point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short broad slightly convex medieval sword with a sharp point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have seen the day, with my good biting falchion I would have made them skip."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pommel of Caesar’s falchion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Queen Margaret saw Thy murd’rous falchion smoking in his blood, The which thou once didst bend against her breast, But that thy brothers beat aside the point."*

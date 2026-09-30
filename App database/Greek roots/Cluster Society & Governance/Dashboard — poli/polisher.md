@@ -5,14 +5,6 @@ status: unread
 ---
 # polisher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A power tool used to buff surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A power tool used to buff surfaces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Your dean of studies holds he was a holy Roman. _Sufflaminandus sum._ —He was made in Germany, Stephen replied, as the champion French polisher of Italian scandals. —A myriadminded man, Mr Best reminded."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It could drive lathes, drills, planers, punches, polishers, in a word all the cunning machines of a great factory?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A power tool used to buff surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A power tool used to buff surfaces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Your dean of studies holds he was a holy Roman. _Sufflaminandus sum._ —He was made in Germany, Stephen replied, as the champion French polisher of Italian scandals. —A myriadminded man, Mr Best reminded."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It could drive lathes, drills, planers, punches, polishers, in a word all the cunning machines of a great factory?"*

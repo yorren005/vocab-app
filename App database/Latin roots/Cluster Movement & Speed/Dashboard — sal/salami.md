@@ -5,13 +5,6 @@ status: unread
 ---
 # salami
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly seasoned fatty sausage of pork and beef usually dried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly seasoned fatty sausage of pork and beef usually dried.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From two inscriptions found at Eleusis it appears that the names of the priests were committed to the depths of the sea; probably they were engraved on tablets of bronze or lead, which were then thrown into deep water in the Gulf of Salamis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly seasoned fatty sausage of pork and beef usually dried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly seasoned fatty sausage of pork and beef usually dried.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From two inscriptions found at Eleusis it appears that the names of the priests were committed to the depths of the sea; probably they were engraved on tablets of bronze or lead, which were then thrown into deep water in the Gulf of Salamis."*

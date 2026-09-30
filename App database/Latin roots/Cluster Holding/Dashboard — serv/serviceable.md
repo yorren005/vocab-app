@@ -5,15 +5,6 @@ status: unread
 ---
 # serviceable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready for service or able to give long service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being put to good use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so to do good service, never Let me be counted serviceable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A serviceable villain, As duteous to the vices of thy mistress As badness would desire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What would my lord, but that he may not have, Wherein Olivia may seem serviceable?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready for service or able to give long service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being put to good use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so to do good service, never Let me be counted serviceable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A serviceable villain, As duteous to the vices of thy mistress As badness would desire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What would my lord, but that he may not have, Wherein Olivia may seem serviceable?"*

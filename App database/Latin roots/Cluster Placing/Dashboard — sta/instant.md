@@ -5,15 +5,6 @@ status: unread
 ---
 # instant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very short time (as the time it takes the eye to blink or the heart to beat).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular point in time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very short time (as the time it takes the eye to blink or the heart to beat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular point in time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*

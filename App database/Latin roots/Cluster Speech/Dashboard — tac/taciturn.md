@@ -5,15 +5,6 @@ status: unread
 ---
 # taciturn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually reserved and uncommunicative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually reserved and uncommunicative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno was much more reserved and taciturn than Salo, who was naturally very gay and could sing and laugh so that the halls would re-echo loudly with his merriment."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There she sat, staid and taciturn-looking, as usual, in her brown stuff gown, her check apron, white handkerchief, and cap."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He appeared a taciturn, and perhaps a proud personage; but he was very kind to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually reserved and uncommunicative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually reserved and uncommunicative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno was much more reserved and taciturn than Salo, who was naturally very gay and could sing and laugh so that the halls would re-echo loudly with his merriment."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There she sat, staid and taciturn-looking, as usual, in her brown stuff gown, her check apron, white handkerchief, and cap."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He appeared a taciturn, and perhaps a proud personage; but he was very kind to me."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # migrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveler who moves from one region or country to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually moving from place to place especially in search of seasonal work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This done, he turned in the direction of the migrants."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This was Planet Pluto post-secession: a mixture of migrants from across the system."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveler who moves from one region or country to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually moving from place to place especially in search of seasonal work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This done, he turned in the direction of the migrants."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This was Planet Pluto post-secession: a mixture of migrants from across the system."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*

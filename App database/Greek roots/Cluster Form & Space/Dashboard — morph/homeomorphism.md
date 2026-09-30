@@ -5,13 +5,6 @@ status: unread
 ---
 # homeomorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeomorphism designates a function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeomorphism designates a function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation."*

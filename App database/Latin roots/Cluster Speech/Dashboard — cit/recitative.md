@@ -5,15 +5,6 @@ status: unread
 ---
 # recitative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vocal passage of narrative text that a singer delivers with natural rhythms of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vocal passage of narrative text that a singer delivers with natural rhythms of speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here, John, don’t ’ee see me?” She nudged him, while he, looking through her as through a window-pane, went on with his recitative."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When we moved off in this order, the natives struck up a musical recitative, which with various alternations, they continued until we arrived at the place of our destination."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As we proceeded on our way, bands of young girls, darting from the surrounding groves, hung upon our skirts, and accompanied us with shouts of merriment and delight, which almost drowned the deep notes of the recitative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vocal passage of narrative text that a singer delivers with natural rhythms of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vocal passage of narrative text that a singer delivers with natural rhythms of speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here, John, don’t ’ee see me?” She nudged him, while he, looking through her as through a window-pane, went on with his recitative."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When we moved off in this order, the natives struck up a musical recitative, which with various alternations, they continued until we arrived at the place of our destination."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As we proceeded on our way, bands of young girls, darting from the surrounding groves, hung upon our skirts, and accompanied us with shouts of merriment and delight, which almost drowned the deep notes of the recitative."*

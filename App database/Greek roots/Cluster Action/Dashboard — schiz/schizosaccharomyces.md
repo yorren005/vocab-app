@@ -5,13 +5,6 @@ status: unread
 ---
 # schizosaccharomyces
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and only genus of schizosaccharomycetaceae; comprises the fission yeasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and only genus of schizosaccharomycetaceae; comprises the fission yeasts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizosaccharomyces designates type and only genus of schizosaccharomycetaceae; comprises the fission yeasts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and only genus of schizosaccharomycetaceae; comprises the fission yeasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and only genus of schizosaccharomycetaceae; comprises the fission yeasts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizosaccharomyces designates type and only genus of schizosaccharomycetaceae; comprises the fission yeasts."*

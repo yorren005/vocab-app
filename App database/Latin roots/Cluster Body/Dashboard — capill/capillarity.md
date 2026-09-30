@@ -5,13 +5,6 @@ status: unread
 ---
 # capillarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The first thing I do is to melt the tallow, the melted tallow being drawn up by the capillarity of the wick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The first thing I do is to melt the tallow, the melted tallow being drawn up by the capillarity of the wick."*

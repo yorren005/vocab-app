@@ -5,14 +5,6 @@ status: unread
 ---
 # prescience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to foresee the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to foresee the future.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They tax our policy and call it cowardice, Count wisdom as no member of the war, Forestall prescience, and esteem no act But that of hand."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Why, how do you know my name?" the astonished mother cried, drawing back with a little shudder of half superstitious alarm at such surprising prescience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to foresee the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to foresee the future.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They tax our policy and call it cowardice, Count wisdom as no member of the war, Forestall prescience, and esteem no act But that of hand."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Why, how do you know my name?" the astonished mother cried, drawing back with a little shudder of half superstitious alarm at such surprising prescience."*

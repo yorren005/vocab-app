@@ -5,15 +5,6 @@ status: unread
 ---
 # canty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively and brisk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lively and brisk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The clachan yill had made me canty, I was na fou, but just had plenty; I stacher’d whiles, but yet too tent aye To free the ditches; An’ hillocks, stanes, an’ bushes, kenn’d eye Frae ghaists an’ witches."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then muse-inspirin’ aqua-vitae Shall make us baith sae blythe and witty, Till ye forget ye’re auld an’ gatty, An’ be as canty As ye were nine years less than thretty— Sweet ane an’ twenty!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Until a pow as auld’s Methusalem He canty claw!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively and brisk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lively and brisk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The clachan yill had made me canty, I was na fou, but just had plenty; I stacher’d whiles, but yet too tent aye To free the ditches; An’ hillocks, stanes, an’ bushes, kenn’d eye Frae ghaists an’ witches."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then muse-inspirin’ aqua-vitae Shall make us baith sae blythe and witty, Till ye forget ye’re auld an’ gatty, An’ be as canty As ye were nine years less than thretty— Sweet ane an’ twenty!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Until a pow as auld’s Methusalem He canty claw!"*

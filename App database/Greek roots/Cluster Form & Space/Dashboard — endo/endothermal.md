@@ -5,13 +5,6 @@ status: unread
 ---
 # endothermal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermal designates (of a chemical reaction or compound) occurring or formed with absorption of heat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermal designates (of a chemical reaction or compound) occurring or formed with absorption of heat."*

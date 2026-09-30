@@ -5,13 +5,6 @@ status: unread
 ---
 # antiphony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternate (responsive) singing by a choir in two parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse or song to be chanted or sung in response.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphony designates alternate (responsive) singing by a choir in two parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternate (responsive) singing by a choir in two parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse or song to be chanted or sung in response.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphony designates alternate (responsive) singing by a choir in two parts."*

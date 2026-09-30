@@ -5,13 +5,6 @@ status: unread
 ---
 # colonized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Settle as a colony; of countries in the developing world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle as colonists or establish a colony (in).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The spinning-stick, a tool used in ancient times, developed into the Saxon spinning-wheel of the sixteenth century, the form used when America was colonized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Settle as a colony; of countries in the developing world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle as colonists or establish a colony (in).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The spinning-stick, a tool used in ancient times, developed into the Saxon spinning-wheel of the sixteenth century, the form used when America was colonized."*

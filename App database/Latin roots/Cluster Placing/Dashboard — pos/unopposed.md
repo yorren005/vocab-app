@@ -5,14 +5,6 @@ status: unread
 ---
 # unopposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having opposition or an opponent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having opposition or an opponent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Both were suddenly converted when Fengtai, only six miles away, was burned, and the Boxers were reported marching unopposed upon Peking."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Unopposed, it sweeps everything before it; but, counterpoised, the waters become calm, safe and regular."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having opposition or an opponent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having opposition or an opponent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Both were suddenly converted when Fengtai, only six miles away, was burned, and the Boxers were reported marching unopposed upon Peking."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Unopposed, it sweeps everything before it; but, counterpoised, the waters become calm, safe and regular."*

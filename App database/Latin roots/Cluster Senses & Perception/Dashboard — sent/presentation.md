@@ -5,15 +5,6 @@ status: unread
 ---
 # presentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of formally presenting something (as a prize or reward).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A show or display; the act of presenting something to sight or view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He uses his folly like a stalking-horse, and under the presentation of that he shoots his wit."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was less able to stand the quiet which was reigning after the presentation of his gifts than were the children, who were completely lost in the new marvels."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Matthew Bagnet, and by you accepted, for the sum of ninety-seven pounds four shillings and ninepence, will become due to-morrow, when you will please be prepared to take up the same on presentation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of formally presenting something (as a prize or reward).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A show or display; the act of presenting something to sight or view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He uses his folly like a stalking-horse, and under the presentation of that he shoots his wit."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was less able to stand the quiet which was reigning after the presentation of his gifts than were the children, who were completely lost in the new marvels."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Matthew Bagnet, and by you accepted, for the sum of ninety-seven pounds four shillings and ninepence, will become due to-morrow, when you will please be prepared to take up the same on presentation."*

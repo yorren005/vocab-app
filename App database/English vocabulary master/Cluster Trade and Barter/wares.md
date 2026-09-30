@@ -5,20 +5,6 @@ status: unread
 ---
 # wares
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Article of merchandise
-> 2. **Nuance / Usage**: Goods or services that are for sale
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wares withstood the storm*), direct object (*cleaved the wares*), or prepositional anchor (*amidst the wares*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Report of the Interdepartmental Working Committee on Mortgage Arrears*):** *"I call on the Minister to ensure good regulation is applied to moneylenders and so-called independent money advisers, many of whom are former bankers peddling their wares"*
-> - 📜 **Hobson, R. L. (Robert Lockhart) (*Chinese pottery and porcelain*):** *"then, is there of recognising any but the most celebrated wares of China?"*
-> - 📜 **Hobson, R. L. (Robert Lockhart) (*Chinese pottery and porcelain*):** *", and no doubt alluding to wares of local make."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Article of merchandise
+> 2. **Nuance / Usage**: Goods or services that are for sale
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wares withstood the storm*), direct object (*cleaved the wares*), or prepositional anchor (*amidst the wares*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Report of the Interdepartmental Working Committee on Mortgage Arrears*):** *"I call on the Minister to ensure good regulation is applied to moneylenders and so-called independent money advisers, many of whom are former bankers peddling their wares"*
+> - 📜 **Hobson, R. L. (Robert Lockhart) (*Chinese pottery and porcelain*):** *"then, is there of recognising any but the most celebrated wares of China?"*
+> - 📜 **Hobson, R. L. (Robert Lockhart) (*Chinese pottery and porcelain*):** *", and no doubt alluding to wares of local make."*

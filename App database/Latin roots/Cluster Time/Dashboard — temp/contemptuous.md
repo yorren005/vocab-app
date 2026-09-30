@@ -5,15 +5,6 @@ status: unread
 ---
 # contemptuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing extreme contempt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing extreme contempt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Contemptuous base-born callet as she is, She vaunted ’mongst her minions t’ other day The very train of her worst wearing gown Was better worth than all my father’s lands Till Suffolk gave two dukedoms for his daughter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In face, watchful behind a blind; habitually not uncensorious and contemptuous perhaps."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But, I assure you, I have never been in the house above twice in my life.” She received no other answer, than an artificial, assenting smile, followed by a contemptuous glance, as he turned away, which Anne perfectly knew the meaning of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing extreme contempt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing extreme contempt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Contemptuous base-born callet as she is, She vaunted ’mongst her minions t’ other day The very train of her worst wearing gown Was better worth than all my father’s lands Till Suffolk gave two dukedoms for his daughter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In face, watchful behind a blind; habitually not uncensorious and contemptuous perhaps."*
+> - 📜 **Jane Austen (*Persuasion*):** *"But, I assure you, I have never been in the house above twice in my life.” She received no other answer, than an artificial, assenting smile, followed by a contemptuous glance, as he turned away, which Anne perfectly knew the meaning of."*

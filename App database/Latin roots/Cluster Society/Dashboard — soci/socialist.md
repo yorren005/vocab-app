@@ -5,15 +5,6 @@ status: unread
 ---
 # socialist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political advocate of socialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating or following the socialist principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Origin of the radical socialist party. § 16."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revisionism and opportunism in the socialist party. § 21."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Growth and nature of the socialist vote. § 23."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political advocate of socialism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating or following the socialist principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Origin of the radical socialist party. § 16."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revisionism and opportunism in the socialist party. § 21."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Growth and nature of the socialist vote. § 23."*

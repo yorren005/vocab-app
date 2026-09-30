@@ -5,15 +5,6 @@ status: unread
 ---
 # commoner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds no title.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or participated in by a community as a whole; public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Within a few months her dire necessity had often pointed to the glasses; but she could not see without them, nor could she sell the gold frames unless she had means to have the glass set in commoner ones."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The independent commoner Shall be the man for a’ that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds no title.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or participated in by a community as a whole; public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Within a few months her dire necessity had often pointed to the glasses; but she could not see without them, nor could she sell the gold frames unless she had means to have the glass set in commoner ones."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The independent commoner Shall be the man for a’ that."*

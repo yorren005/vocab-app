@@ -5,15 +5,6 @@ status: unread
 ---
 # martyrdom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Death that is imposed because of the person's adherence of a religious faith or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any experience that causes intense suffering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was as if people should laugh at martyrdom."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"What sacrifice of thanks, what age of service, What danger, of more dreadful look than death, What willing Martyrdom to crown me constant May merit such a goodness, such a sweetness?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have suffered a martyrdom from their incompetency and caprice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death that is imposed because of the person's adherence of a religious faith or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any experience that causes intense suffering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was as if people should laugh at martyrdom."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"What sacrifice of thanks, what age of service, What danger, of more dreadful look than death, What willing Martyrdom to crown me constant May merit such a goodness, such a sweetness?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have suffered a martyrdom from their incompetency and caprice."*

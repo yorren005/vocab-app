@@ -5,13 +5,6 @@ status: unread
 ---
 # actinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of radiate organisms) located on the surface or end on which the mouth is situated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of radiate organisms) located on the surface or end on which the mouth is situated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinal designates (of radiate organisms) located on the surface or end on which the mouth is situated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of radiate organisms) located on the surface or end on which the mouth is situated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of radiate organisms) located on the surface or end on which the mouth is situated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinal designates (of radiate organisms) located on the surface or end on which the mouth is situated."*

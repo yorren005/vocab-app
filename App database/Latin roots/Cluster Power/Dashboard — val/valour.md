@@ -5,15 +5,6 @@ status: unread
 ---
 # valour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*

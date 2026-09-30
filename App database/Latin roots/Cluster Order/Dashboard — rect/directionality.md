@@ -5,13 +5,6 @@ status: unread
 ---
 # directionality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a microphone or antenna of being more sensitive in one direction than in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being directional or maintaining a direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directionality designates the property of a microphone or antenna of being more sensitive in one direction than in another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a microphone or antenna of being more sensitive in one direction than in another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being directional or maintaining a direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directionality designates the property of a microphone or antenna of being more sensitive in one direction than in another."*

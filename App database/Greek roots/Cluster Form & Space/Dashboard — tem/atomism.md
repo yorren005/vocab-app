@@ -5,13 +5,6 @@ status: unread
 ---
 # atomism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) any theory in which all matter is composed of tiny discrete finite indivisible indestructible particles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atomism designates (psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) any theory in which all matter is composed of tiny discrete finite indivisible indestructible particles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atomism designates (psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association."*

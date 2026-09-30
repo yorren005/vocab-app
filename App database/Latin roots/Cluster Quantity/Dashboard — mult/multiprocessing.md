@@ -5,13 +5,6 @@ status: unread
 ---
 # multiprocessing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous processing by two or more processing units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simultaneous processing by two or more processing units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiprocessing designates simultaneous processing by two or more processing units."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous processing by two or more processing units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simultaneous processing by two or more processing units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiprocessing designates simultaneous processing by two or more processing units."*

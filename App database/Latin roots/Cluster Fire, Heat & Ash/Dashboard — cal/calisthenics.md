@@ -5,15 +5,6 @@ status: unread
 ---
 # calisthenics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of calisthenic exercises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light exercises designed to promote general fitness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
-> - 📜 **James Joyce (*Ulysses*):** *"He places a hand lightly on his breastbone, bows, and fondles his flower and buttons.)_ MAGINNI: The poetry of motion, art of calisthenics."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene, assisted by a competent staff of professors, would give lessons in dancing, deportment, and calisthenics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of calisthenic exercises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light exercises designed to promote general fitness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
+> - 📜 **James Joyce (*Ulysses*):** *"He places a hand lightly on his breastbone, bows, and fondles his flower and buttons.)_ MAGINNI: The poetry of motion, art of calisthenics."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene, assisted by a competent staff of professors, would give lessons in dancing, deportment, and calisthenics."*

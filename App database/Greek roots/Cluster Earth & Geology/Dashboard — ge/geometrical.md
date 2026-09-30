@@ -5,15 +5,6 @@ status: unread
 ---
 # geometrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or determined by geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by simple geometric forms in design and decoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Why not, as the cabalists had it, a Figure, arithmetical or geometrical, a Sound...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The third, I said the third!” cried the prince abruptly, pushing the letter away, and leaning his elbows on the table he drew toward him the exercise book containing geometrical figures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or determined by geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by simple geometric forms in design and decoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Why not, as the cabalists had it, a Figure, arithmetical or geometrical, a Sound...."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The third, I said the third!” cried the prince abruptly, pushing the letter away, and leaning his elbows on the table he drew toward him the exercise book containing geometrical figures."*

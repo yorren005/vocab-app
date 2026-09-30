@@ -5,13 +5,6 @@ status: unread
 ---
 # determinist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anyone who submits to the belief that they are powerless to change their destiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anyone who submits to the belief that they are powerless to change their destiny.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Old infrangible determinist bonds snap like tow under the liberating influence of a new personal relationship with a personal, all-loving Buddha-Father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anyone who submits to the belief that they are powerless to change their destiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anyone who submits to the belief that they are powerless to change their destiny.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Old infrangible determinist bonds snap like tow under the liberating influence of a new personal relationship with a personal, all-loving Buddha-Father."*

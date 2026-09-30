@@ -5,15 +5,6 @@ status: unread
 ---
 # secretly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In secrecy; not openly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not openly; inwardly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am given, sir, secretly to understand that your younger brother Orlando hath a disposition to come in disguised against me to try a fall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him this letter, do it secretly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What duke should that be comes so secretly?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In secrecy; not openly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not openly; inwardly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am given, sir, secretly to understand that your younger brother Orlando hath a disposition to come in disguised against me to try a fall."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him this letter, do it secretly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What duke should that be comes so secretly?"*

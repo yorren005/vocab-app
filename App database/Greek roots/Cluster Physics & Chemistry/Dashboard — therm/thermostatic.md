@@ -5,13 +5,6 @@ status: unread
 ---
 # thermostatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatic designates an automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatic designates an automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers."*

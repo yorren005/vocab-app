@@ -5,13 +5,6 @@ status: unread
 ---
 # decompound
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a compound leaf; consisting of divisions that are themselves compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a compound leaf; consisting of divisions that are themselves compound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompound designates of a compound leaf; consisting of divisions that are themselves compound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a compound leaf; consisting of divisions that are themselves compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a compound leaf; consisting of divisions that are themselves compound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompound designates of a compound leaf; consisting of divisions that are themselves compound."*

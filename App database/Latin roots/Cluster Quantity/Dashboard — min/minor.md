@@ -5,15 +5,6 @@ status: unread
 ---
 # minor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young person of either sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lesser importance or stature or rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Only at meal times was this interrupted, for Apollonie did not look at this as a minor matter, and she carefully planned what to give her master."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to this point, and as to some minor topics, there are differences of opinion; but it is perfectly clear to the brilliant and distinguished circle, all round, that nobody is in question but Boodle and his retinue, and Buffy and HIS retinue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn,” returns Sir Leicester, “there can be no minor point between myself and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young person of either sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lesser importance or stature or rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Only at meal times was this interrupted, for Apollonie did not look at this as a minor matter, and she carefully planned what to give her master."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As to this point, and as to some minor topics, there are differences of opinion; but it is perfectly clear to the brilliant and distinguished circle, all round, that nobody is in question but Boodle and his retinue, and Buffy and HIS retinue."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn,” returns Sir Leicester, “there can be no minor point between myself and Mr."*

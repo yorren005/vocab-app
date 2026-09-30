@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperodontidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beaked whales; in some especially former classifications included in the family physeteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beaked whales; in some especially former classifications included in the family physeteridae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperodontidae designates beaked whales; in some especially former classifications included in the family physeteridae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beaked whales; in some especially former classifications included in the family physeteridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beaked whales; in some especially former classifications included in the family physeteridae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperodontidae designates beaked whales; in some especially former classifications included in the family physeteridae."*

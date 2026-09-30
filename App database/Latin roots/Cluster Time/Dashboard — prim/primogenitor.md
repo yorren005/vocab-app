@@ -5,13 +5,6 @@ status: unread
 ---
 # primogenitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancestor in the direct line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancestor in the direct line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primogenitor designates an ancestor in the direct line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancestor in the direct line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancestor in the direct line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primogenitor designates an ancestor in the direct line."*

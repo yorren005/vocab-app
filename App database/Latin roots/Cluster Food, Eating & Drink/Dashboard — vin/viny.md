@@ -5,13 +5,6 @@ status: unread
 ---
 # viny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vin within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vin in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Richard's letter braced my viny drooping of mind at once and from thinking into the Crag's affairs of sentiment, I turned with masculine vigor to begin to mix into his affairs of finance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vin within the domain of Food, Eating & Drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vin in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Richard's letter braced my viny drooping of mind at once and from thinking into the Crag's affairs of sentiment, I turned with masculine vigor to begin to mix into his affairs of finance."*

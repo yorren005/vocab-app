@@ -5,15 +5,6 @@ status: unread
 ---
 # falsely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insincerely false manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incorrect manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st it falsely, as I love mine honour, And mak’st conjectural fears to come into me Which I would fain shut out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palt’ring Becomes not Rome, nor has Coriolanus Deserved this so dishonoured rub, laid falsely I’ th’ plain way of his merit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, faith, is’t not, Kate; but thy speaking of my tongue, and I thine, most truly-falsely, must needs be granted to be much at one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insincerely false manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incorrect manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st it falsely, as I love mine honour, And mak’st conjectural fears to come into me Which I would fain shut out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palt’ring Becomes not Rome, nor has Coriolanus Deserved this so dishonoured rub, laid falsely I’ th’ plain way of his merit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, faith, is’t not, Kate; but thy speaking of my tongue, and I thine, most truly-falsely, must needs be granted to be much at one."*

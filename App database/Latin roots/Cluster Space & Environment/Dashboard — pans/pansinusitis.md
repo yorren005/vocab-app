@@ -5,13 +5,6 @@ status: unread
 ---
 # pansinusitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of all of the paranasal sinuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of all of the paranasal sinuses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pansinusitis designates inflammation of all of the paranasal sinuses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of all of the paranasal sinuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of all of the paranasal sinuses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pansinusitis designates inflammation of all of the paranasal sinuses."*

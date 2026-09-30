@@ -5,15 +5,6 @@ status: unread
 ---
 # ravisher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who assaults others sexually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very attractive or seductive looking woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SERVINGMAN. ’Tis so, and as war in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go thou with him; and when it is thy hap To find another that is like to thee, Good Rapine, stab him; he is a ravisher."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou ravisher, thou traitor, thou false thief, Thy honey turns to gall, thy joy to grief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who assaults others sexually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very attractive or seductive looking woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SERVINGMAN. ’Tis so, and as war in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go thou with him; and when it is thy hap To find another that is like to thee, Good Rapine, stab him; he is a ravisher."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou ravisher, thou traitor, thou false thief, Thy honey turns to gall, thy joy to grief."*

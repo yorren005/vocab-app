@@ -5,13 +5,6 @@ status: unread
 ---
 # mandara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chadic language spoken in the mandara mountains in cameroon; has only two vowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chadic language spoken in the mandara mountains in cameroon; has only two vowels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandara designates a chadic language spoken in the mandara mountains in cameroon; has only two vowels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chadic language spoken in the mandara mountains in cameroon; has only two vowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chadic language spoken in the mandara mountains in cameroon; has only two vowels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandara designates a chadic language spoken in the mandara mountains in cameroon; has only two vowels."*

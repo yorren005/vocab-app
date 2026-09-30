@@ -5,15 +5,6 @@ status: unread
 ---
 # clamouring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loud and persistent outcry from many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter or proclaim insistently and noisily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The cry for blood rang through the court, and all were clamouring for crucifixion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate, the Roman governor, for the moment was Pilate the man, with a man’s anger against the miserable creatures clamouring for the blood of so sweet and simple, brave and good a spirit as this Jesus."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It appeared that I had demanded the thing above all others for which tens of thousands of other women were already clamouring!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loud and persistent outcry from many people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter or proclaim insistently and noisily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The cry for blood rang through the court, and all were clamouring for crucifixion."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate, the Roman governor, for the moment was Pilate the man, with a man’s anger against the miserable creatures clamouring for the blood of so sweet and simple, brave and good a spirit as this Jesus."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It appeared that I had demanded the thing above all others for which tens of thousands of other women were already clamouring!"*

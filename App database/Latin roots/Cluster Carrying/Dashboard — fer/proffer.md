@@ -5,15 +5,6 @@ status: unread
 ---
 # proffer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposal offered for acceptance or rejection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present for acceptance or rejection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, when last I went to visit her, She pray’d me to excuse her keeping close; Whereto constrain’d by her infirmity She should that duty leave unpaid to you Which daily she was bound to proffer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a candy deal of courtesy This fawning greyhound then did proffer me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for the proffer of my lord your master, I have inform’d his Highness so at large, As liking of the lady’s virtuous gifts, Her beauty and the value of her dower, He doth intend she shall be England’s Queen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposal offered for acceptance or rejection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present for acceptance or rejection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, when last I went to visit her, She pray’d me to excuse her keeping close; Whereto constrain’d by her infirmity She should that duty leave unpaid to you Which daily she was bound to proffer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a candy deal of courtesy This fawning greyhound then did proffer me!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for the proffer of my lord your master, I have inform’d his Highness so at large, As liking of the lady’s virtuous gifts, Her beauty and the value of her dower, He doth intend she shall be England’s Queen."*

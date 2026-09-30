@@ -5,15 +5,6 @@ status: unread
 ---
 # spectacle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something or someone seen (especially a notable or unusual sight).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborate and remarkable display on a lavish scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not moralize this spectacle?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In open market-place produced they me To be a public spectacle to all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O barbarous and bloody spectacle!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something or someone seen (especially a notable or unusual sight).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborate and remarkable display on a lavish scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not moralize this spectacle?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In open market-place produced they me To be a public spectacle to all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O barbarous and bloody spectacle!"*

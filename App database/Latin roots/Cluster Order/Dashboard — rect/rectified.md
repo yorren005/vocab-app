@@ -5,15 +5,6 @@ status: unread
 ---
 # rectified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Math: determine the length of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Here is some great misapprehension which must be rectified."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"That her manner was wrong, however, at times very wrong, her measures often ill-chosen and ill-timed, and her looks and language very often indefensible, Fanny could not cease to feel; but she began to hope they might be rectified."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the periods be separated by short intervals, the measures to be reviewed and rectified will have been of recent date, and will be connected with all the circumstances which tend to vitiate and pervert the result of occasional revisions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Math: determine the length of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Here is some great misapprehension which must be rectified."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"That her manner was wrong, however, at times very wrong, her measures often ill-chosen and ill-timed, and her looks and language very often indefensible, Fanny could not cease to feel; but she began to hope they might be rectified."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the periods be separated by short intervals, the measures to be reviewed and rectified will have been of recent date, and will be connected with all the circumstances which tend to vitiate and pervert the result of occasional revisions."*

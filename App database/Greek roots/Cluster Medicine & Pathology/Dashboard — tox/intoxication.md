@@ -5,15 +5,6 @@ status: unread
 ---
 # intoxication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological state produced by a poison or other toxic substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary state resulting from excessive consumption of alcohol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The New Testament was less a Christiad then a Pauliad to his intelligence—less an argument than an intoxication."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though I have borne blows from men in a mad state of intoxication.” “No!” “A dozen times, my boy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was too much like laughing at a man when sober for his erratic deeds during intoxication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological state produced by a poison or other toxic substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary state resulting from excessive consumption of alcohol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The New Testament was less a Christiad then a Pauliad to his intelligence—less an argument than an intoxication."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though I have borne blows from men in a mad state of intoxication.” “No!” “A dozen times, my boy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was too much like laughing at a man when sober for his erratic deeds during intoxication."*

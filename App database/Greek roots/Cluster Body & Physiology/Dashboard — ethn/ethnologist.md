@@ -5,13 +5,6 @@ status: unread
 ---
 # ethnologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies ethnology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies ethnology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In recent years the true nature of the association has been duly recognised by the distinguished Dutch ethnologist, J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies ethnology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies ethnology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In recent years the true nature of the association has been duly recognised by the distinguished Dutch ethnologist, J."*

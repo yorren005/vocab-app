@@ -5,13 +5,6 @@ status: unread
 ---
 # unvaned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an arrow) not equipped with feathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an arrow) not equipped with feathers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvaned designates (of an arrow) not equipped with feathers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an arrow) not equipped with feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an arrow) not equipped with feathers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvaned designates (of an arrow) not equipped with feathers."*

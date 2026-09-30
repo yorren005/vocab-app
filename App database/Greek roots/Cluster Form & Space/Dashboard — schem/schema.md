@@ -5,13 +5,6 @@ status: unread
 ---
 # schema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagrammatic presentation; broadly : a structured framework or plan : outline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental codification of experience that includes a particular organized way of perceiving cognitively and responding to a complex situation or set of stimuli.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schema designates a diagrammatic presentation; broadly : a structured framework or plan : outline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagrammatic presentation; broadly : a structured framework or plan : outline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental codification of experience that includes a particular organized way of perceiving cognitively and responding to a complex situation or set of stimuli.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schema designates a diagrammatic presentation; broadly : a structured framework or plan : outline."*

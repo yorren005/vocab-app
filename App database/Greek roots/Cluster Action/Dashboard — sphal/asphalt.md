@@ -5,13 +5,6 @@ status: unread
 ---
 # asphalt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark bituminous substance found in natural beds and as residue from petroleum distillation; consists mainly of hydrocarbons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But he was making for the middle of the lilac-hedge, for the red rose archway and the asphalt walk between reddening apple trees: and Isabel was sitting near the end, close to the garden wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark bituminous substance found in natural beds and as residue from petroleum distillation; consists mainly of hydrocarbons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But he was making for the middle of the lilac-hedge, for the red rose archway and the asphalt walk between reddening apple trees: and Isabel was sitting near the end, close to the garden wall."*

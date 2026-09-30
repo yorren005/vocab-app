@@ -5,13 +5,6 @@ status: unread
 ---
 # telencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior division of the forebrain; the cerebrum and related parts of the hypothalamus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior division of the forebrain; the cerebrum and related parts of the hypothalamus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telencephalon designates the anterior division of the forebrain; the cerebrum and related parts of the hypothalamus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior division of the forebrain; the cerebrum and related parts of the hypothalamus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior division of the forebrain; the cerebrum and related parts of the hypothalamus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telencephalon designates the anterior division of the forebrain; the cerebrum and related parts of the hypothalamus."*

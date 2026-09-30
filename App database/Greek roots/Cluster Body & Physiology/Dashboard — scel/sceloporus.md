@@ -5,13 +5,6 @@ status: unread
 ---
 # sceloporus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny lizards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceloporus designates spiny lizards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny lizards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceloporus designates spiny lizards."*

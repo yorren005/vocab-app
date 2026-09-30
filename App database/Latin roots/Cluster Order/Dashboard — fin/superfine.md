@@ -5,15 +5,6 @@ status: unread
 ---
 # superfine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of extremely fine size or texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively delicate or refined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Where was this superfine, extraordinary sort of gallantry of yours then?” “All merged in my friendship, Sophia."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel’s wife felt almost as if she had been hounded up that hill like a scorned thing by those—to her—superfine clerics."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It is a superfine piece of goods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of extremely fine size or texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively delicate or refined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Where was this superfine, extraordinary sort of gallantry of yours then?” “All merged in my friendship, Sophia."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel’s wife felt almost as if she had been hounded up that hill like a scorned thing by those—to her—superfine clerics."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It is a superfine piece of goods."*

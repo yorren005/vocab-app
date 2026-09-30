@@ -5,15 +5,6 @@ status: unread
 ---
 # congregate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together, usually for a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together, usually for a purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hates our sacred nation, and he rails, Even there where merchants most do congregate, On me, my bargains, and my well-won thrift, Which he calls interest."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am afraid he must at one period of his career have lived at one of those watering places to which trippers congregate."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of his lungs began to heal, the other promised to follow its example, and he was assured he might outweather a dozen winters if he would betake himself to those climates in which consumptives chiefly congregate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together, usually for a purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together, usually for a purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hates our sacred nation, and he rails, Even there where merchants most do congregate, On me, my bargains, and my well-won thrift, Which he calls interest."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am afraid he must at one period of his career have lived at one of those watering places to which trippers congregate."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of his lungs began to heal, the other promised to follow its example, and he was assured he might outweather a dozen winters if he would betake himself to those climates in which consumptives chiefly congregate."*

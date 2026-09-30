@@ -5,15 +5,6 @@ status: unread
 ---
 # unparallel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not straight or parallel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not straight or parallel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, one by one, you wedded all the world, Or from the all that are took something good, To make a perfect woman, she you kill’d Would be unparallel’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not straight or parallel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not straight or parallel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, one by one, you wedded all the world, Or from the all that are took something good, To make a perfect woman, she you kill’d Would be unparallel’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*

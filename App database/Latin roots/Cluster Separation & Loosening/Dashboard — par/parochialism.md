@@ -5,13 +5,6 @@ status: unread
 ---
 # parochialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A limitation of views or interests like that defined by a local parish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A limitation of views or interests like that defined by a local parish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His own parochialism made him ashamed by its contrast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A limitation of views or interests like that defined by a local parish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A limitation of views or interests like that defined by a local parish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His own parochialism made him ashamed by its contrast."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # calmness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absence of strong winds or rain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been i’ th’ marketplace; and, sir, ’tis fit You make strong party or defend yourself By calmness or by absence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It inspired me with new fortitude and new calmness to find that it was I who was under the necessity of reassuring him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet to look upon with the calmness proper to her position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absence of strong winds or rain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been i’ th’ marketplace; and, sir, ’tis fit You make strong party or defend yourself By calmness or by absence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It inspired me with new fortitude and new calmness to find that it was I who was under the necessity of reassuring him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet to look upon with the calmness proper to her position."*

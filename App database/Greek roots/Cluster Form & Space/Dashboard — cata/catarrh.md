@@ -5,15 +5,6 @@ status: unread
 ---
 # catarrh
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Then he began to praise the Lord, and to feel, 'tis done,' and it was done, and tells of the wonderful change, his ability to talk and sing, with no difficulty whatever." CURED OF CATARRH."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been afflicted with catarrh for over twenty years."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been entirely well from that time; not only cured of catarrh, but tumors on my limbs were entirely removed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Then he began to praise the Lord, and to feel, 'tis done,' and it was done, and tells of the wonderful change, his ability to talk and sing, with no difficulty whatever." CURED OF CATARRH."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been afflicted with catarrh for over twenty years."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been entirely well from that time; not only cured of catarrh, but tumors on my limbs were entirely removed."*

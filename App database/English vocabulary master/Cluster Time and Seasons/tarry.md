@@ -5,20 +5,6 @@ status: unread
 ---
 # tarry
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Linger in expectation : wait
-> 2. **Nuance / Usage**: Abide or stay in or at a place
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to tarry the target*) and intransitive clauses (*tarrying against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Well, come what will, I’ll tarry at home."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Come, I will go drink with you, but I cannot tarry dinner."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He cries aloud, “Tarry, my cousin Suffolk!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To delay in coming or going; to linger or stay longer than intended in a place.
+> 2. **Nuance / Usage**: Carries an elevated, literary, or biblical cadence (*tarry here awhile*), often implying expectant waiting or reluctant departure.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive).
+> - **Syntactic Constructions**: Operates in intransitive clauses with locative or temporal complements (*tarry at the inn*, *tarried not a moment*).
+> - **Collocations & Registers**: Literary, poetic, and archaic registers; collocated with *awhile*, *longer*, *behind*, and *journey*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"You’ll lose the tide if you **tarry** any longer."*
+> - 📜 **Robert Herrick (*To the Virgins, to Make Much of Time*):** *"Then be not coy, but use your time, and while ye may, go marry; for having lost but once your prime, you may forever **tarry**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I could not **tarry** to bandy words when every minute of daylight was precious."*

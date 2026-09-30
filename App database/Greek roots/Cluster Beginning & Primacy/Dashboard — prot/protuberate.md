@@ -5,13 +5,6 @@ status: unread
 ---
 # protuberate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to bulge out or project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a rounded prominence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protuberate designates cause to bulge out or project."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to bulge out or project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a rounded prominence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protuberate designates cause to bulge out or project."*

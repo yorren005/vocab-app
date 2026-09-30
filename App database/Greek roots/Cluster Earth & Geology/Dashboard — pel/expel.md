@@ -5,15 +5,6 @@ status: unread
 ---
 # expel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to leave or move out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from a position or office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Tribunes are no soldiers, and their people Will be as rash in the repeal as hasty To expel him thence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that that earth which kept the world in awe Should patch a wall t’expel the winter’s flaw."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which to reduce into our former favour You are assembled; and my speech entreats That I may know the let, why gentle Peace Should not expel these inconveniences And bless us with her former qualities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to leave or move out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from a position or office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Tribunes are no soldiers, and their people Will be as rash in the repeal as hasty To expel him thence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that that earth which kept the world in awe Should patch a wall t’expel the winter’s flaw."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which to reduce into our former favour You are assembled; and my speech entreats That I may know the let, why gentle Peace Should not expel these inconveniences And bless us with her former qualities."*

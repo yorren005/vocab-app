@@ -5,13 +5,6 @@ status: unread
 ---
 # octopod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cephalopod with eight arms but lacking an internal shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cephalopod with eight arms but lacking an internal shell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopod designates a cephalopod with eight arms but lacking an internal shell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cephalopod with eight arms but lacking an internal shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cephalopod with eight arms but lacking an internal shell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopod designates a cephalopod with eight arms but lacking an internal shell."*

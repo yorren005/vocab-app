@@ -5,15 +5,6 @@ status: unread
 ---
 # component
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract part of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something determined in relation to something that includes it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This unwonted abstraction by love of all dignity from a man of whom it had ever seemed the chief component, was, in its distressing incongruity, a pain to her which quenched much of the pleasure she derived from the proof that she was idolized."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On the other side, the component parts of the State governments will in no instance be indebted for their appointment to the direct agency of the federal government, and very little, if at all, to the local influence of its members."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract part of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something determined in relation to something that includes it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This unwonted abstraction by love of all dignity from a man of whom it had ever seemed the chief component, was, in its distressing incongruity, a pain to her which quenched much of the pleasure she derived from the proof that she was idolized."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On the other side, the component parts of the State governments will in no instance be indebted for their appointment to the direct agency of the federal government, and very little, if at all, to the local influence of its members."*

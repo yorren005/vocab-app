@@ -5,15 +5,6 @@ status: unread
 ---
 # emery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Emery, _Speculation on the Stock and Produce Exchanges of the United States_, in Columbia University Studies in History, Economics, and Public Law, Vol."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"However-- Among the assortment of tools in his bureau was a curve-bladed knife with the handle set parallel to the blade as though it were meant for chopping, and forming the wall of the same drawer was a strip of a material like emery cloth."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"After some experimenting he found a finger-hole which, when squeezed, caused this emery-cloth to revolve, giving a satisfactory abrasive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Emery, _Speculation on the Stock and Produce Exchanges of the United States_, in Columbia University Studies in History, Economics, and Public Law, Vol."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"However-- Among the assortment of tools in his bureau was a curve-bladed knife with the handle set parallel to the blade as though it were meant for chopping, and forming the wall of the same drawer was a strip of a material like emery cloth."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"After some experimenting he found a finger-hole which, when squeezed, caused this emery-cloth to revolve, giving a satisfactory abrasive."*

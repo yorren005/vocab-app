@@ -5,15 +5,6 @@ status: unread
 ---
 # eligibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being eligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being eligible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was his plan of amends--of atonement--for inheriting their father’s estate; and he thought it an excellent one, full of eligibility and suitableness, and excessively generous and disinterested on his own part."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued, and Re-Eligibility of the Executive Considered."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And they have excluded from eligibility to this trust, all those who from situation might be suspected of too great devotion to the President in office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being eligible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being eligible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was his plan of amends--of atonement--for inheriting their father’s estate; and he thought it an excellent one, full of eligibility and suitableness, and excessively generous and disinterested on his own part."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued, and Re-Eligibility of the Executive Considered."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And they have excluded from eligibility to this trust, all those who from situation might be suspected of too great devotion to the President in office."*

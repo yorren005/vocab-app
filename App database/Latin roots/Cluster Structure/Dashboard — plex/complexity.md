@@ -5,15 +5,6 @@ status: unread
 ---
 # complexity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intricate and compounded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intricate and compounded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This is the central problem which a study of his life presents, and it is one of no ordinary complexity; but there are some considerations relating to it which go far to solve it, and these it may be worth while for us at this point to examine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They are a simple folk, mere common people.” “I wish it were as simple, the report of all this complexity that I must send to Tiberius,” Pilate grumbled."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a period of years a country may change in a multitude of ways, in complexity of industry, modes of exchange, transportation, wealth, and income."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intricate and compounded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intricate and compounded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This is the central problem which a study of his life presents, and it is one of no ordinary complexity; but there are some considerations relating to it which go far to solve it, and these it may be worth while for us at this point to examine."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They are a simple folk, mere common people.” “I wish it were as simple, the report of all this complexity that I must send to Tiberius,” Pilate grumbled."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a period of years a country may change in a multitude of ways, in complexity of industry, modes of exchange, transportation, wealth, and income."*

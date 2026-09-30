@@ -5,13 +5,6 @@ status: unread
 ---
 # miro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New zealand conifer used for lumber; the dark wood is used for interior carpentry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish surrealist painter (1893-1983).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miro designates new zealand conifer used for lumber; the dark wood is used for interior carpentry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: New zealand conifer used for lumber; the dark wood is used for interior carpentry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish surrealist painter (1893-1983).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miro designates new zealand conifer used for lumber; the dark wood is used for interior carpentry."*

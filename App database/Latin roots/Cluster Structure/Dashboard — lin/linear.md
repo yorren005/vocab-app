@@ -5,15 +5,6 @@ status: unread
 ---
 # linear
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or involving an equation whose terms are of the first degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or in or along or relating to a line; involving a single dimension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In some instances, to the quick, observant eye, those linear marks, as in a veritable engraving, but afford the ground for far other delineations."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In some instances, to the quick, observant eye, those linear marks, as in a veritable engraving, but afford the ground for far other delineations."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The conceptacle is thin, black to the naked eye, of an olive-brown under the microscope, filled with a mass of linear extremely transparent asci (fig. 256), each containing a single row of broadly elliptic chocolate sporidia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or involving an equation whose terms are of the first degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or in or along or relating to a line; involving a single dimension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In some instances, to the quick, observant eye, those linear marks, as in a veritable engraving, but afford the ground for far other delineations."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In some instances, to the quick, observant eye, those linear marks, as in a veritable engraving, but afford the ground for far other delineations."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The conceptacle is thin, black to the naked eye, of an olive-brown under the microscope, filled with a mass of linear extremely transparent asci (fig. 256), each containing a single row of broadly elliptic chocolate sporidia."*

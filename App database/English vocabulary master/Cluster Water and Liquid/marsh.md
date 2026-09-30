@@ -5,20 +5,6 @@ status: unread
 ---
 # marsh
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Number of places in england:
-> 2. **Nuance / Usage**: Dame (edith) ngaio 1899—1982 new zealand writer
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the marsh withstood the storm*), direct object (*cleaved the marsh*), or prepositional anchor (*amidst the marsh*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Having crossed the marsh, I saw a trace of white over the moor."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Some calls it Marsh End, and some calls it Moor House."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"approaching departure from Marsh End should render yours necessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Number of places in england:
+> 2. **Nuance / Usage**: Dame (edith) ngaio 1899—1982 new zealand writer
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the marsh withstood the storm*), direct object (*cleaved the marsh*), or prepositional anchor (*amidst the marsh*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Having crossed the marsh, I saw a trace of white over the moor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Some calls it Marsh End, and some calls it Moor House."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"approaching departure from Marsh End should render yours necessary."*

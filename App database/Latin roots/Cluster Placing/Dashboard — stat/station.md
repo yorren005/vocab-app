@@ -5,15 +5,6 @@ status: unread
 ---
 # station
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility equipped with special equipment and personnel for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proper or designated social situation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her motion and her station are as one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, poor gentleman, take up some other station."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility equipped with special equipment and personnel for a particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proper or designated social situation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her motion and her station are as one."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, poor gentleman, take up some other station."*

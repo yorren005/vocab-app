@@ -5,15 +5,6 @@ status: unread
 ---
 # exclaim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter aloud; often with surprise, horror, or joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This she deliver’d in the most bitter touch of sorrow that e’er I heard virgin exclaim in, which I held my duty speedily to acquaint you withal; sithence, in the loss that may happen, it concerns you something to know it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will they not say afterwards, if they should grow themselves to common players—as it is most like, if their means are no better—their writers do them wrong to make them exclaim against their own succession?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The French exclaim’d the devil was in arms; All the whole army stood agaz’d on him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter aloud; often with surprise, horror, or joy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This she deliver’d in the most bitter touch of sorrow that e’er I heard virgin exclaim in, which I held my duty speedily to acquaint you withal; sithence, in the loss that may happen, it concerns you something to know it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will they not say afterwards, if they should grow themselves to common players—as it is most like, if their means are no better—their writers do them wrong to make them exclaim against their own succession?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The French exclaim’d the devil was in arms; All the whole army stood agaz’d on him."*

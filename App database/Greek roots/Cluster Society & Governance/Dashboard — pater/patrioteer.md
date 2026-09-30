@@ -5,13 +5,6 @@ status: unread
 ---
 # patrioteer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme bellicose nationalist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extreme bellicose nationalist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrioteer designates an extreme bellicose nationalist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme bellicose nationalist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extreme bellicose nationalist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrioteer designates an extreme bellicose nationalist."*

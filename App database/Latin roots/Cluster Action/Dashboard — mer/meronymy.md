@@ -5,13 +5,6 @@ status: unread
 ---
 # meronymy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between a part and the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between a part and the whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meronymy designates the semantic relation that holds between a part and the whole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between a part and the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between a part and the whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meronymy designates the semantic relation that holds between a part and the whole."*

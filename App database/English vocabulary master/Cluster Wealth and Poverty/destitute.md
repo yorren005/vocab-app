@@ -5,20 +5,6 @@ status: unread
 ---
 # destitute
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lacking something needed or desirable
-> 2. **Nuance / Usage**: People who are extremely poor : needy people
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a destitute presence*) or predicatively (*remained destitute*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Left their round turrets destitute and pale."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"could my darling do, I asked, left destitute and penniless?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"prove so; for else they will be destitute enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Lacking something needed or desirable
+> 2. **Nuance / Usage**: People who are extremely poor : needy people
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a destitute presence*) or predicatively (*remained destitute*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Left their round turrets destitute and pale."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"could my darling do, I asked, left destitute and penniless?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"prove so; for else they will be destitute enough."*

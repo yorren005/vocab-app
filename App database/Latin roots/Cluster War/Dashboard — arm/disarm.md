@@ -5,15 +5,6 @@ status: unread
 ---
 # disarm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove offensive capability from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less hostile; win over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disarm them, and let them question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put thy sword up, traitor; Who mak’st a show, but dar’st not strike, thy conscience Is so possess’d with guilt: come from thy ward, For I can here disarm thee with this stick And make thy weapon drop."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His stubborn buckles, With these your white enchanting fingers touch’d, Shall more obey than to the edge of steel Or force of Greekish sinews; you shall do more Than all the island kings—disarm great Hector."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove offensive capability from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less hostile; win over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disarm them, and let them question."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put thy sword up, traitor; Who mak’st a show, but dar’st not strike, thy conscience Is so possess’d with guilt: come from thy ward, For I can here disarm thee with this stick And make thy weapon drop."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His stubborn buckles, With these your white enchanting fingers touch’d, Shall more obey than to the edge of steel Or force of Greekish sinews; you shall do more Than all the island kings—disarm great Hector."*

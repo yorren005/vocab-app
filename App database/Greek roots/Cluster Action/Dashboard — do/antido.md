@@ -5,13 +5,6 @@ status: unread
 ---
 # antido
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language related to ido.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language related to ido.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antido designates an artificial language related to ido."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language related to ido.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language related to ido.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antido designates an artificial language related to ido."*

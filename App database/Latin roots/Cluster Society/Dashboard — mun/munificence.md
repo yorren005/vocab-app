@@ -5,15 +5,6 @@ status: unread
 ---
 # munificence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"It seems to me all this munificence goes to serve some fell purpose of his own."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His very proneness to be gulled by strangers and to pay extravagantly for absurdities is excused under the plea of munificence, for John is always more generous than wise."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I repeat, The Count your master’s known munificence Is ample warrant that no just pretence Of mine for dowry will be disallowed; Though his fair daughter’s self, as I avowed At starting, is my object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"It seems to me all this munificence goes to serve some fell purpose of his own."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His very proneness to be gulled by strangers and to pay extravagantly for absurdities is excused under the plea of munificence, for John is always more generous than wise."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I repeat, The Count your master’s known munificence Is ample warrant that no just pretence Of mine for dowry will be disallowed; Though his fair daughter’s self, as I avowed At starting, is my object."*

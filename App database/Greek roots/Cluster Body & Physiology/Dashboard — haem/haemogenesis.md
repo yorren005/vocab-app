@@ -5,13 +5,6 @@ status: unread
 ---
 # haemogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of blood cells in the living body (especially in the bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of blood cells in the living body (especially in the bone marrow).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemogenesis designates the formation of blood cells in the living body (especially in the bone marrow)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of blood cells in the living body (especially in the bone marrow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of blood cells in the living body (especially in the bone marrow).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemogenesis designates the formation of blood cells in the living body (especially in the bone marrow)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scotsman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"From a notice in _The Scotsman_ of 26th June, 1906 (p. 8) it appears that the old custom was observed as usual that year. [531] Thomas Moresinus, _Papatus seu Depravatae Religionis Origo et Incrementum_ (Edinburgh, 1594), p. 56. [532] Rev."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But I did not know my Scotsman."*
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A _Scotsman_ was very angry with an _English_ Gentleman, who, he said, had abused him, and called him _false Scot_; Indeed, said the _Englishman_, I said no such Thing, but that you were a _true Scot_. 151."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"From a notice in _The Scotsman_ of 26th June, 1906 (p. 8) it appears that the old custom was observed as usual that year. [531] Thomas Moresinus, _Papatus seu Depravatae Religionis Origo et Incrementum_ (Edinburgh, 1594), p. 56. [532] Rev."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But I did not know my Scotsman."*
+> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A _Scotsman_ was very angry with an _English_ Gentleman, who, he said, had abused him, and called him _false Scot_; Indeed, said the _Englishman_, I said no such Thing, but that you were a _true Scot_. 151."*

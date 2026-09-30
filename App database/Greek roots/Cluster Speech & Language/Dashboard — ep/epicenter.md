@@ -5,13 +5,6 @@ status: unread
 ---
 # epicenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface directly above the focus of an earthquake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's surface directly above the focus of an earthquake.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicenter designates the part of the earth's surface directly above the focus of an earthquake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface directly above the focus of an earthquake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's surface directly above the focus of an earthquake.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicenter designates the part of the earth's surface directly above the focus of an earthquake."*

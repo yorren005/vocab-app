@@ -5,13 +5,6 @@ status: unread
 ---
 # tyrannosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannosaur designates large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannosaur designates large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america."*

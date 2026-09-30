@@ -5,15 +5,6 @@ status: unread
 ---
 # genteel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by refinement in taste and manners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by refinement in taste and manners.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At present, I don’t mind confessing to the wards in Jarndyce (in strict confidence) that I sometimes find it difficult to keep up a genteel appearance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She regards a ghost as one of the privileges of the upper classes, a genteel distinction to which the common people have no claim."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One observes my Lady, how recognisant of my Lord’s politeness, with an inclination of her gracious head and the concession of her so-genteel fingers!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by refinement in taste and manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by refinement in taste and manners.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"At present, I don’t mind confessing to the wards in Jarndyce (in strict confidence) that I sometimes find it difficult to keep up a genteel appearance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She regards a ghost as one of the privileges of the upper classes, a genteel distinction to which the common people have no claim."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"One observes my Lady, how recognisant of my Lord’s politeness, with an inclination of her gracious head and the concession of her so-genteel fingers!"*

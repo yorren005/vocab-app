@@ -5,15 +5,6 @@ status: unread
 ---
 # mis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management information systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Badly : wrongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _O, prenez miséricorde!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This dagger hath mista’en, for lo, his house Is empty on the back of Montague, And it mis-sheathed in my daughter’s bosom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mis-shapen knave, His mother was a witch; and one so strong That could control the moon, make flows and ebbs, And deal in her command without her power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Management information systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Badly : wrongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _O, prenez miséricorde!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This dagger hath mista’en, for lo, his house Is empty on the back of Montague, And it mis-sheathed in my daughter’s bosom."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mis-shapen knave, His mother was a witch; and one so strong That could control the moon, make flows and ebbs, And deal in her command without her power."*

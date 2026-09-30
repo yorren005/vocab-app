@@ -5,15 +5,6 @@ status: unread
 ---
 # rapier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight sword with a narrow blade and two edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A straight sword with a narrow blade and two edges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antipholus of Syracuse with his rapier drawn, and Dromio of Syracuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his lawless fit Behind the arras hearing something stir, Whips out his rapier, cries ‘A rat, a rat!’ And in this brainish apprehension kills The unseen good old man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He made confession of you, And gave you such a masterly report For art and exercise in your defence, And for your rapier most especially, That he cried out ’twould be a sight indeed If one could match you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight sword with a narrow blade and two edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A straight sword with a narrow blade and two edges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antipholus of Syracuse with his rapier drawn, and Dromio of Syracuse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his lawless fit Behind the arras hearing something stir, Whips out his rapier, cries ‘A rat, a rat!’ And in this brainish apprehension kills The unseen good old man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He made confession of you, And gave you such a masterly report For art and exercise in your defence, And for your rapier most especially, That he cried out ’twould be a sight indeed If one could match you."*

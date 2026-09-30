@@ -5,15 +5,6 @@ status: unread
 ---
 # experiment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conducting a controlled test or investigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The testing of an idea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear sir, to my endeavours give consent; Of heaven, not me, make an experiment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of none but him, and swears he was carried out, the last time he searched for him, in a basket; protests to my husband he is now here; and hath drawn him and the rest of their company from their sport, to make another experiment of his suspicion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is to the credit of men that few attempt to settle the question by experiment, and it is for their happiness, perhaps, that accident has never settled it for them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conducting a controlled test or investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The testing of an idea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear sir, to my endeavours give consent; Of heaven, not me, make an experiment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of none but him, and swears he was carried out, the last time he searched for him, in a basket; protests to my husband he is now here; and hath drawn him and the rest of their company from their sport, to make another experiment of his suspicion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is to the credit of men that few attempt to settle the question by experiment, and it is for their happiness, perhaps, that accident has never settled it for them."*

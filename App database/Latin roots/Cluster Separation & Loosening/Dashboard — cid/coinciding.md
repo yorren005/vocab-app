@@ -5,15 +5,6 @@ status: unread
 ---
 # coinciding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go with, fall together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A deed done is irrevocable, and its result coinciding in time with the actions of millions of other men assumes an historic significance."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We should see a red flower, for there would be a red flower clearly defined upon one film coinciding with a blank transparent space upon the other film."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Their vivid and wild expression seemed likewise sufficient to illuminate them; it was an expression of scorn and mockery, coinciding with the emotions indicated by his gesture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go with, fall together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A deed done is irrevocable, and its result coinciding in time with the actions of millions of other men assumes an historic significance."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We should see a red flower, for there would be a red flower clearly defined upon one film coinciding with a blank transparent space upon the other film."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Their vivid and wild expression seemed likewise sufficient to illuminate them; it was an expression of scorn and mockery, coinciding with the emotions indicated by his gesture."*

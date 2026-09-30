@@ -5,13 +5,6 @@ status: unread
 ---
 # graphospasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular spasms of thumb and forefinger while writing with a pen or pencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular spasms of thumb and forefinger while writing with a pen or pencil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphospasm designates muscular spasms of thumb and forefinger while writing with a pen or pencil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular spasms of thumb and forefinger while writing with a pen or pencil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular spasms of thumb and forefinger while writing with a pen or pencil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphospasm designates muscular spasms of thumb and forefinger while writing with a pen or pencil."*

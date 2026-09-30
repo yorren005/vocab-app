@@ -5,15 +5,6 @@ status: unread
 ---
 # exacerbate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've also got to avoid political irritations that may exacerbate the situation further."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Narval realized that he was being goaded by his INOR allies to exacerbate the confrontation between the Regions."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He said nothing, however, and his conduct greatly astonished me; yet I thought it prudent not to exacerbate the growing moodiness of his temper by any comment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've also got to avoid political irritations that may exacerbate the situation further."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Narval realized that he was being goaded by his INOR allies to exacerbate the confrontation between the Regions."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He said nothing, however, and his conduct greatly astonished me; yet I thought it prudent not to exacerbate the growing moodiness of his temper by any comment."*

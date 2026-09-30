@@ -5,15 +5,6 @@ status: unread
 ---
 # octagon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of eight angles and eight sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon of eight angles and eight sides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter, his two daughters, and Mrs Clay, were the earliest of all their party at the rooms in the evening; and as Lady Dalrymple must be waited for, they took their station by one of the fires in the Octagon Room."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The difference between his present air and what it had been in the Octagon Room was strikingly great."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The moment of her stepping forward in the Octagon Room to speak to him: the moment of Mr Elliot’s appearing and tearing her away, and one or two subsequent moments, marked by returning hope or increasing despondency, were dwelt on with energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of eight angles and eight sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon of eight angles and eight sides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter, his two daughters, and Mrs Clay, were the earliest of all their party at the rooms in the evening; and as Lady Dalrymple must be waited for, they took their station by one of the fires in the Octagon Room."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The difference between his present air and what it had been in the Octagon Room was strikingly great."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The moment of her stepping forward in the Octagon Room to speak to him: the moment of Mr Elliot’s appearing and tearing her away, and one or two subsequent moments, marked by returning hope or increasing despondency, were dwelt on with energy."*

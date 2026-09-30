@@ -5,15 +5,6 @@ status: unread
 ---
 # estimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An approximate calculation of quantity or degree or worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judgment of the qualities of something or somebody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, beauty, wisdom, courage, all That happiness and prime can happy call."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do love My country’s good with a respect more tender, More holy and profound, than mine own life, My dear wife’s estimate, her womb’s increase, And treasure of my loins."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in it are the Lords of York, Berkeley, and Seymour, None else of name and noble estimate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An approximate calculation of quantity or degree or worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judgment of the qualities of something or somebody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, beauty, wisdom, courage, all That happiness and prime can happy call."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do love My country’s good with a respect more tender, More holy and profound, than mine own life, My dear wife’s estimate, her womb’s increase, And treasure of my loins."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in it are the Lords of York, Berkeley, and Seymour, None else of name and noble estimate."*

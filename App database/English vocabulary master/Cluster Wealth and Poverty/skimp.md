@@ -5,20 +5,6 @@ status: unread
 ---
 # skimp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Skimpy
-> 2. **Nuance / Usage**: Save by or as if by skimping
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a skimp appearance*) and predicatively after a linking verb (*remained skimp*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Rex Stout (*Three Witnesses (book)*):** *"I got out my wallet and let him have a look at my licenses, detective and driver's. He didn't skimp it, being a lawyer."*
-> - 📜 **Classic Author (*The maintenance of B.R. diesel-electric locomotives*):** *"The temptation to skimp examinations and maintenance procedures, to save time or overcome staff shortages, must be resisted, and supervisors must insist on strict adherence to maintenance schedules and quality of workmanship."*
-> - 📜 **James Poniewozik (*The Comfortable Problem of Mid TV*):** *"Apple’s investment bought something. Its shows feel professional. They look like premium products that no one skimped on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Skimpy
+> 2. **Nuance / Usage**: Save by or as if by skimping
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a skimp appearance*) and predicatively after a linking verb (*remained skimp*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Rex Stout (*Three Witnesses (book)*):** *"I got out my wallet and let him have a look at my licenses, detective and driver's. He didn't skimp it, being a lawyer."*
+> - 📜 **Classic Author (*The maintenance of B.R. diesel-electric locomotives*):** *"The temptation to skimp examinations and maintenance procedures, to save time or overcome staff shortages, must be resisted, and supervisors must insist on strict adherence to maintenance schedules and quality of workmanship."*
+> - 📜 **James Poniewozik (*The Comfortable Problem of Mid TV*):** *"Apple’s investment bought something. Its shows feel professional. They look like premium products that no one skimped on."*

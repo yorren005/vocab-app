@@ -5,15 +5,6 @@ status: unread
 ---
 # nasty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive or even (of persons) malicious; ; ; ; ; ; - ezra pound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperatingly difficult to handle or circumvent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but to live In the rank sweat of an enseamed bed, Stew’d in corruption, honeying and making love Over the nasty sty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The _solus_ in thy most mervailous face; The _solus_ in thy teeth, and in thy throat, And in thy hateful lungs, yea, in thy maw, perdy, And, which is worse, within thy nasty mouth!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You know, mother, that all they care about is to do mean and nasty things." "But they will go to town, too, and then you will be thrown together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive or even (of persons) malicious; ; ; ; ; ; - ezra pound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperatingly difficult to handle or circumvent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but to live In the rank sweat of an enseamed bed, Stew’d in corruption, honeying and making love Over the nasty sty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The _solus_ in thy most mervailous face; The _solus_ in thy teeth, and in thy throat, And in thy hateful lungs, yea, in thy maw, perdy, And, which is worse, within thy nasty mouth!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You know, mother, that all they care about is to do mean and nasty things." "But they will go to town, too, and then you will be thrown together."*

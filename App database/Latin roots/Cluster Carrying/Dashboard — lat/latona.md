@@ -5,13 +5,6 @@ status: unread
 ---
 # latona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latona designates wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latona designates wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology."*

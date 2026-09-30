@@ -5,15 +5,6 @@ status: unread
 ---
 # deuteronomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth book of the old testament; contains a second statement of mosaic law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fifth book of the old testament; contains a second statement of mosaic law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I never saw him going there, and I pass it every Lord’s day.” “I don’t know anything about Deacon Deuteronomy or his meeting,” said I, “all I know is, that Queequeg here is a born member of the First Congregational Church."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Deacon Deuteronomy—why Father Mapple himself couldn’t beat it, and he’s reckoned something."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I never saw him going there, and I pass it every Lord’s day.” “I don’t know anything about Deacon Deuteronomy or his meeting,” said I; “all I know is, that Queequeg here is a born member of the First Congregational Church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth book of the old testament; contains a second statement of mosaic law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fifth book of the old testament; contains a second statement of mosaic law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I never saw him going there, and I pass it every Lord’s day.” “I don’t know anything about Deacon Deuteronomy or his meeting,” said I, “all I know is, that Queequeg here is a born member of the First Congregational Church."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Deacon Deuteronomy—why Father Mapple himself couldn’t beat it, and he’s reckoned something."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I never saw him going there, and I pass it every Lord’s day.” “I don’t know anything about Deacon Deuteronomy or his meeting,” said I; “all I know is, that Queequeg here is a born member of the First Congregational Church."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # prostrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get into a prostrate position, as in submission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render helpless or defenseless.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will fall prostrate at his feet, And never rise until my tears and prayers Have won his grace to come in person hither And take perforce my husband from the abbess."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I affect it more Than as your honour and as your renown, Let me no more from this obedience rise, Which my most inward true and duteous spirit Teacheth this prostrate and exterior bending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime look gracious on thy prostrate thrall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get into a prostrate position, as in submission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render helpless or defenseless.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will fall prostrate at his feet, And never rise until my tears and prayers Have won his grace to come in person hither And take perforce my husband from the abbess."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I affect it more Than as your honour and as your renown, Let me no more from this obedience rise, Which my most inward true and duteous spirit Teacheth this prostrate and exterior bending."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime look gracious on thy prostrate thrall."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # search
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of looking thoroughly in order to find something or someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigation seeking answers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The search, sir, was profitable; and much fool may you find in you, even to the world’s pleasure and the increase of laughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search and altogether against my will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let not search and inquisition quail To bring again these foolish runaways. [_Exeunt._] SCENE III."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of looking thoroughly in order to find something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigation seeking answers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The search, sir, was profitable; and much fool may you find in you, even to the world’s pleasure and the increase of laughter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search and altogether against my will."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let not search and inquisition quail To bring again these foolish runaways. [_Exeunt._] SCENE III."*

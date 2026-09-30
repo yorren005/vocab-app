@@ -5,13 +5,6 @@ status: unread
 ---
 # abaca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of hemp obtained from the abaca plant in the philippines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philippine banana tree having leafstalks that yield manila hemp used for rope and paper etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abaca designates a kind of hemp obtained from the abaca plant in the philippines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of hemp obtained from the abaca plant in the philippines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philippine banana tree having leafstalks that yield manila hemp used for rope and paper etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abaca designates a kind of hemp obtained from the abaca plant in the philippines."*

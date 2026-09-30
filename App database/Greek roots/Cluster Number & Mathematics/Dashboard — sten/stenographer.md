@@ -5,14 +5,6 @@ status: unread
 ---
 # stenographer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the transcription of speech (especially dictation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the transcription of speech (especially dictation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Paine, the others to the stenographer and myself."*
-> - 📜 **Algis Budrys (*Citadel*):** *"He stared helplessly at his empty office, his mind automatically counting the pairs of departing footsteps that sounded momentarily as clerks and stenographers crossed the walk below his partly-open window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the transcription of speech (especially dictation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the transcription of speech (especially dictation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Paine, the others to the stenographer and myself."*
+> - 📜 **Algis Budrys (*Citadel*):** *"He stared helplessly at his empty office, his mind automatically counting the pairs of departing footsteps that sounded momentarily as clerks and stenographers crossed the walk below his partly-open window."*

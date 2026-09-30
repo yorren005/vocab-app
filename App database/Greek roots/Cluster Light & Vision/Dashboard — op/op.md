@@ -5,15 +5,6 @@ status: unread
 ---
 # op
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of planned actions for a particular purpose —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of planned actions for a particular purpose —usually plural.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This is a Slingshot Tac Ops from Red Fox to Keeper."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your Tac Ops and psych systems are monitored."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS patrollers were on directed Tac Ops missions: cite our messages to Red Fox and Blue Fox past half-hour, info recorded in Tac Ops Actions Register, your Headquarters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of planned actions for a particular purpose —usually plural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of planned actions for a particular purpose —usually plural.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This is a Slingshot Tac Ops from Red Fox to Keeper."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your Tac Ops and psych systems are monitored."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS patrollers were on directed Tac Ops missions: cite our messages to Red Fox and Blue Fox past half-hour, info recorded in Tac Ops Actions Register, your Headquarters."*

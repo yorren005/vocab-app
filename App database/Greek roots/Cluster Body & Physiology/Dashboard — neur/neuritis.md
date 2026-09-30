@@ -5,15 +5,6 @@ status: unread
 ---
 # neuritis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory or degenerative lesion of a nerve marked especially by pain, sensory disturbances, and impaired or lost reflexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory or degenerative lesion of a nerve marked especially by pain, sensory disturbances, and impaired or lost reflexes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I didn't know one suffered, with paralysis." "He has racking neuritis in his shoulders and back." "That's bad."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Verney for his neuritis, so I won't hear another word against him!" "Has he?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val had a touch of neuritis in his injured arm two nights out of seven, but he could not find the shillings for his train fare to Salisbury, far less the fees of a professional masseuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory or degenerative lesion of a nerve marked especially by pain, sensory disturbances, and impaired or lost reflexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory or degenerative lesion of a nerve marked especially by pain, sensory disturbances, and impaired or lost reflexes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I didn't know one suffered, with paralysis." "He has racking neuritis in his shoulders and back." "That's bad."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Verney for his neuritis, so I won't hear another word against him!" "Has he?"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Val had a touch of neuritis in his injured arm two nights out of seven, but he could not find the shillings for his train fare to Salisbury, far less the fees of a professional masseuse."*

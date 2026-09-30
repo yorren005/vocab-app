@@ -5,15 +5,6 @@ status: unread
 ---
 # salaried
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receiving a salary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving or eligible for compensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was the name of Barbary, and the name of Clare, and the name of Dedlock, too, I think.” “He knows as much of the cause as the real salaried Chancellor!” said Richard, quite astonished, to Ada and me."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This function of management is either performed by the same person that is carrying the financial risk, or by some salaried employee selected by him."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many salaried managers are in receipt of a share of profits and are gradually acquiring an interest in partnerships or a larger share of ownership in the enterprise for which they work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Receiving a salary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving or eligible for compensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was the name of Barbary, and the name of Clare, and the name of Dedlock, too, I think.” “He knows as much of the cause as the real salaried Chancellor!” said Richard, quite astonished, to Ada and me."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This function of management is either performed by the same person that is carrying the financial risk, or by some salaried employee selected by him."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many salaried managers are in receipt of a share of profits and are gradually acquiring an interest in partnerships or a larger share of ownership in the enterprise for which they work."*

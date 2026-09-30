@@ -5,15 +5,6 @@ status: unread
 ---
 # curved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn sharply; change direction abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend in curves and turns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her mouth—were the lips red or pale, plump or creased?—had curved itself to a certain expression as the pen went on—the corners had moved with all their natural tremulousness: what had been the expression?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There, it is like this.” Joan Durbeyfield, as she spoke, curved a sodden thumb and forefinger to the shape of the letter C, and used the other forefinger as a pointer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn sharply; change direction abruptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend in curves and turns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her mouth—were the lips red or pale, plump or creased?—had curved itself to a certain expression as the pen went on—the corners had moved with all their natural tremulousness: what had been the expression?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There, it is like this.” Joan Durbeyfield, as she spoke, curved a sodden thumb and forefinger to the shape of the letter C, and used the other forefinger as a pointer."*

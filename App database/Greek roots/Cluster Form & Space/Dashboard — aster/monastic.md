@@ -5,15 +5,6 @@ status: unread
 ---
 # monastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monasteries or to monks or nuns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling (as in seclusion or ascetic simplicity) life in a monastery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had rambled round by a road which led to the well-known ruins of the Cistercian abbey behind the mill, the latter having, in centuries past, been attached to the monastic establishment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Authoritative distribution is the dominant method in patriarchal tribes, in communal societies, and in monastic and other religious orders."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monasteries or to monks or nuns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling (as in seclusion or ascetic simplicity) life in a monastery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had rambled round by a road which led to the well-known ruins of the Cistercian abbey behind the mill, the latter having, in centuries past, been attached to the monastic establishment."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Authoritative distribution is the dominant method in patriarchal tribes, in communal societies, and in monastic and other religious orders."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*

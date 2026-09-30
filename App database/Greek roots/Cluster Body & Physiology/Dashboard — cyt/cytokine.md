@@ -5,13 +5,6 @@ status: unread
 ---
 # cytokine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of immunoregulatory proteins (such as interleukin or interferon) that are secreted by cells especially of the immune system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sometimes life-threatening, systemic inflammatory condition that results from an aggressive immune response involving over-activation of immune cells (such as T cells in response to immunotherapy or infection) which release excessive cytokines in the body in an uncontrolled fashion and that is characterized especially by fever, fatigue, headache, rash, or muscle or joint pain and may progress to more serious symptoms including hypotension, increased heart rate, capillary leakage, edema, hypoxia, multiple organ failure, and sometimes death : the syndrome resulting from a cytokine storm : cytokine storm syndrome —abbreviation CRS.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokine designates any of a class of immunoregulatory proteins (such as interleukin or interferon) that are secreted by cells especially of the immune system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of immunoregulatory proteins (such as interleukin or interferon) that are secreted by cells especially of the immune system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sometimes life-threatening, systemic inflammatory condition that results from an aggressive immune response involving over-activation of immune cells (such as T cells in response to immunotherapy or infection) which release excessive cytokines in the body in an uncontrolled fashion and that is characterized especially by fever, fatigue, headache, rash, or muscle or joint pain and may progress to more serious symptoms including hypotension, increased heart rate, capillary leakage, edema, hypoxia, multiple organ failure, and sometimes death : the syndrome resulting from a cytokine storm : cytokine storm syndrome —abbreviation CRS.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokine designates any of a class of immunoregulatory proteins (such as interleukin or interferon) that are secreted by cells especially of the immune system."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # depressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Depressed he is already, and deposed ’Tis doubt he will be."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She was glad that Kurt was in a strangely depressed mood, too, and hardly ever spoke."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, who was usually cheerful, had been as terribly depressed for the last few days as if he had been carrying a heavy weight around with him all the time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Depressed he is already, and deposed ’Tis doubt he will be."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She was glad that Kurt was in a strangely depressed mood, too, and hardly ever spoke."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, who was usually cheerful, had been as terribly depressed for the last few days as if he had been carrying a heavy weight around with him all the time."*

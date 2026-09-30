@@ -5,15 +5,6 @@ status: unread
 ---
 # devolve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass on or delegate to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be inherited by.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The Allens, he believed, had lived near them too long, and he knew the young man on whom the Fullerton estate must devolve."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The important task would probably devolve on men, who, with inferior capacities, would in other respects be little better qualified."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Even the management of foreign negotiations will naturally devolve upon him, according to general principles concerted with the Senate, and subject to their final concurrence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass on or delegate to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be inherited by.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The Allens, he believed, had lived near them too long, and he knew the young man on whom the Fullerton estate must devolve."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The important task would probably devolve on men, who, with inferior capacities, would in other respects be little better qualified."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Even the management of foreign negotiations will naturally devolve upon him, according to general principles concerted with the Senate, and subject to their final concurrence."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # profanely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With curses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irreverent or profane manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"What are you laughing at so profanely?” said Rosamond, with bland neutrality."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Charley profanely hinted they were humbug."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When his indignation had subsided a little he whirled the idol about most profanely, so as to give me an opportunity of examining it on all sides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With curses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irreverent or profane manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"What are you laughing at so profanely?” said Rosamond, with bland neutrality."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Charley profanely hinted they were humbug."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When his indignation had subsided a little he whirled the idol about most profanely, so as to give me an opportunity of examining it on all sides."*

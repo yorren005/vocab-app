@@ -5,15 +5,6 @@ status: unread
 ---
 # spectre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghostly appearing figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental representation of some haunting experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The purblind day was feebly struggling with the fog when I opened my eyes to encounter those of a dirty-faced little spectre fixed upon me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And you’ll ease my friend Bagnet’s mind, and his family’s mind, a good deal if you’ll just mention to him what our understanding is.” Here some shrill spectre cries out in a mocking manner, “Oh, good gracious!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ladder was against the straw-rick and is burnt to a cinder,” said a spectre-like form in the smoke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghostly appearing figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental representation of some haunting experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The purblind day was feebly struggling with the fog when I opened my eyes to encounter those of a dirty-faced little spectre fixed upon me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And you’ll ease my friend Bagnet’s mind, and his family’s mind, a good deal if you’ll just mention to him what our understanding is.” Here some shrill spectre cries out in a mocking manner, “Oh, good gracious!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ladder was against the straw-rick and is burnt to a cinder,” said a spectre-like form in the smoke."*

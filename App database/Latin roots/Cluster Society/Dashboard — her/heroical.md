@@ -5,15 +5,6 @@ status: unread
 ---
 # heroical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying qualities appropriate for heroes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying qualities appropriate for heroes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More fairer than fair, beautiful than beauteous, truer than truth itself, have commiseration on thy heroical vassal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’gainst your privacy The reasons are more potent and heroical. ’Tis known, Achilles, that you are in love With one of Priam’s daughters."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgelling that he raves in saying nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying qualities appropriate for heroes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying qualities appropriate for heroes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More fairer than fair, beautiful than beauteous, truer than truth itself, have commiseration on thy heroical vassal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’gainst your privacy The reasons are more potent and heroical. ’Tis known, Achilles, that you are in love With one of Priam’s daughters."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgelling that he raves in saying nothing."*

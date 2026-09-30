@@ -5,15 +5,6 @@ status: unread
 ---
 # aqueduct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conduit that resembles a bridge but carries water over a valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conduit that resembles a bridge but carries water over a valley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is a very old house, and the greater part of it was originally a castle, strongly fortified, and surrounded by a deep moat supplied with abundant water from the hills by a hidden aqueduct."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The water from the aqueduct supplies great fountains, and runs down into huge oblong basins in the terraced gardens, one below the other, each surrounded by a broad pavement of marble between the water and the flower-beds."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"An aqueduct, capable of any intended quantity or height of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conduit that resembles a bridge but carries water over a valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conduit that resembles a bridge but carries water over a valley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is a very old house, and the greater part of it was originally a castle, strongly fortified, and surrounded by a deep moat supplied with abundant water from the hills by a hidden aqueduct."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The water from the aqueduct supplies great fountains, and runs down into huge oblong basins in the terraced gardens, one below the other, each surrounded by a broad pavement of marble between the water and the flower-beds."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"An aqueduct, capable of any intended quantity or height of water."*

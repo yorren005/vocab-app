@@ -5,13 +5,6 @@ status: unread
 ---
 # philter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potion credited with magical power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potion, drug, or charm held to have the power to arouse sexual passion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, perchance still failing, then might I expect the common bravo’s steel in my back or the common poisoner’s philter in my wine, my meat, or bread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potion credited with magical power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potion, drug, or charm held to have the power to arouse sexual passion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, perchance still failing, then might I expect the common bravo’s steel in my back or the common poisoner’s philter in my wine, my meat, or bread."*

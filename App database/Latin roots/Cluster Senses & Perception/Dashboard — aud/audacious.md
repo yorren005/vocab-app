@@ -5,15 +5,6 @@ status: unread
 ---
 # audacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invulnerable to fear or intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or propriety; ; ; - los angeles times; ; ; - bertrand russell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath sent to know The nature of your griefs, and whereupon You conjure from the breast of civil peace Such bold hostility, teaching his duteous land Audacious cruelty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And perish ye, with your audacious prate!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invulnerable to fear or intimidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or propriety; ; ; - los angeles times; ; ; - bertrand russell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath sent to know The nature of your griefs, and whereupon You conjure from the breast of civil peace Such bold hostility, teaching his duteous land Audacious cruelty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And perish ye, with your audacious prate!"*

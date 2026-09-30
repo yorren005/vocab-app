@@ -5,13 +5,6 @@ status: unread
 ---
 # tropaeolum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropaeolum designates a tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropaeolum designates a tropical american genus of dicotyledonous climbing or diffuse pungent herbs constituting the family tropaeolaceae."*

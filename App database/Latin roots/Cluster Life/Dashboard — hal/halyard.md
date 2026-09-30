@@ -5,15 +5,6 @@ status: unread
 ---
 # halyard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rope for raising or lowering a sail or flag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rope for raising or lowering a sail or flag.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Suspended from his ears were two golden hoops, so large that the sailors called them ring-bolts, and would talk of securing the top-sail halyards to them."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hands by the halyards! in top-gallant sails!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The boats!—stand by!” Unmindful of the tedious rope-ladders of the shrouds, the men, like shooting stars, slid to the deck, by the isolated back-stays and halyards; while Ahab, less dartingly, but still rapidly was dropped from his perch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rope for raising or lowering a sail or flag.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rope for raising or lowering a sail or flag.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Suspended from his ears were two golden hoops, so large that the sailors called them ring-bolts, and would talk of securing the top-sail halyards to them."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hands by the halyards! in top-gallant sails!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The boats!—stand by!” Unmindful of the tedious rope-ladders of the shrouds, the men, like shooting stars, slid to the deck, by the isolated back-stays and halyards; while Ahab, less dartingly, but still rapidly was dropped from his perch."*

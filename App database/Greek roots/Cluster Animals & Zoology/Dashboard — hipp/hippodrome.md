@@ -5,14 +5,6 @@ status: unread
 ---
 # hippodrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oval stadium for horse and chariot races in ancient Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arena for equestrian performances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Royal Hippodrome Performance of Turpin’s Ride to York and the Death of Black Bess,” replied the man promptly, without turning his eyes or leaving off tying."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Royal Hippodrome Performance of Turpin’s Ride to York and the Death of Black Bess,” replied the man promptly, without turning his eyes or leaving off tying."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oval stadium for horse and chariot races in ancient Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arena for equestrian performances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Royal Hippodrome Performance of Turpin’s Ride to York and the Death of Black Bess,” replied the man promptly, without turning his eyes or leaving off tying."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Royal Hippodrome Performance of Turpin’s Ride to York and the Death of Black Bess,” replied the man promptly, without turning his eyes or leaving off tying."*

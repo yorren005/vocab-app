@@ -5,13 +5,6 @@ status: unread
 ---
 # basileus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler of the eastern roman empire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruler of the eastern roman empire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Greeks used _basileus_ as Emperor. [101] viii, 69."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler of the eastern roman empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruler of the eastern roman empire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Greeks used _basileus_ as Emperor. [101] viii, 69."*

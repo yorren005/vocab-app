@@ -5,13 +5,6 @@ status: unread
 ---
 # macron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark — placed over a vowel to indicate that the vowel is long or placed over a syllable or used alone to indicate a stressed or long syllable in a metrical foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emmanuel (Jean-Michel Frédéric) 1977— president of France (2017— ).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macron designates a mark — placed over a vowel to indicate that the vowel is long or placed over a syllable or used alone to indicate a stressed or long syllable in a metrical foot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark — placed over a vowel to indicate that the vowel is long or placed over a syllable or used alone to indicate a stressed or long syllable in a metrical foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emmanuel (Jean-Michel Frédéric) 1977— president of France (2017— ).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macron designates a mark — placed over a vowel to indicate that the vowel is long or placed over a syllable or used alone to indicate a stressed or long syllable in a metrical foot."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pontifex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the highest council of priests in ancient rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the highest council of priests in ancient rome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pontifex designates a member of the highest council of priests in ancient rome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the highest council of priests in ancient rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the highest council of priests in ancient rome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pontifex designates a member of the highest council of priests in ancient rome."*

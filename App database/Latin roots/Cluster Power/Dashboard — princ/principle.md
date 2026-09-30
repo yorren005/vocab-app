@@ -5,15 +5,6 @@ status: unread
 ---
 # principle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rule or standard especially of good behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle: That faith would live again by death of need."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is a splendid principle and ought to be followed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rule or standard especially of good behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle: That faith would live again by death of need."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is a splendid principle and ought to be followed."*

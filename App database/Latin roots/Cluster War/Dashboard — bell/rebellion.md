@@ -5,15 +5,6 @@ status: unread
 ---
 # rebellion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refusal to accept some authority or code or convention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COUNTESS. ’Tis past, my liege, And I beseech your majesty to make it Natural rebellion, done i’ the blaze of youth, When oil and fire, too strong for reason’s force, O’erbears it and burns on."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For that, being one o’ th’ lowest, basest, poorest, Of this most wise rebellion, thou goest foremost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In a rebellion, When what’s not meet but what must be was law, Then were they chosen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refusal to accept some authority or code or convention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COUNTESS. ’Tis past, my liege, And I beseech your majesty to make it Natural rebellion, done i’ the blaze of youth, When oil and fire, too strong for reason’s force, O’erbears it and burns on."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For that, being one o’ th’ lowest, basest, poorest, Of this most wise rebellion, thou goest foremost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In a rebellion, When what’s not meet but what must be was law, Then were they chosen."*

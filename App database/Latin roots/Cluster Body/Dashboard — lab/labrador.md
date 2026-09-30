@@ -5,15 +5,6 @@ status: unread
 ---
 # labrador
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mainland part of the province of newfoundland and labrador in the eastern part of the large labrador-ungava peninsula in northeastern canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mainland part of the province of newfoundland and labrador in the eastern part of the large labrador-ungava peninsula in northeastern canada.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Enveloped in their shaggy watch coats, and with their heads muffled in woollen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had it not been for us whalemen, that tract of land would this day perhaps have been in as howling condition as the coast of Labrador."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Enveloped in their shaggy watch coats, and with their heads muffled in woollen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mainland part of the province of newfoundland and labrador in the eastern part of the large labrador-ungava peninsula in northeastern canada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mainland part of the province of newfoundland and labrador in the eastern part of the large labrador-ungava peninsula in northeastern canada.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Enveloped in their shaggy watch coats, and with their heads muffled in woollen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had it not been for us whalemen, that tract of land would this day perhaps have been in as howling condition as the coast of Labrador."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Enveloped in their shaggy watch coats, and with their heads muffled in woollen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador."*

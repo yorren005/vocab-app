@@ -5,15 +5,6 @@ status: unread
 ---
 # fell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dressed skin of an animal (especially a large animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seam made by turning under or folding together and stitching the seamed materials to avoid rough edges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know your places well; When better fall, for your avails they fell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, He fell upon me ere admitted, then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dressed skin of an animal (especially a large animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seam made by turning under or folding together and stitching the seamed materials to avoid rough edges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know your places well; When better fall, for your avails they fell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, He fell upon me ere admitted, then."*

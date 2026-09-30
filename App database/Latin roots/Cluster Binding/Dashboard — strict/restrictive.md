@@ -5,15 +5,6 @@ status: unread
 ---
 # restrictive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to restrict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of tariff) protective of national interests by restricting imports.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Germany, which had always had restrictive duties, adopted still more protective measures under Bismarck in 1879."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The United States has followed a restrictive policy since near the beginning of the last century."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She then peeped round to where I sat; so stern a neighbour was too restrictive: to him, in his present fractious mood, she dared whisper no observations, nor ask of him any information."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to restrict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of tariff) protective of national interests by restricting imports.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Germany, which had always had restrictive duties, adopted still more protective measures under Bismarck in 1879."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The United States has followed a restrictive policy since near the beginning of the last century."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She then peeped round to where I sat; so stern a neighbour was too restrictive: to him, in his present fractious mood, she dared whisper no observations, nor ask of him any information."*

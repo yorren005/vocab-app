@@ -5,13 +5,6 @@ status: unread
 ---
 # polymorph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymorphic organism; also : one of the several forms of such an organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the crystalline forms of a polymorphic substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorph designates a polymorphic organism; also : one of the several forms of such an organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymorphic organism; also : one of the several forms of such an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the crystalline forms of a polymorphic substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorph designates a polymorphic organism; also : one of the several forms of such an organism."*

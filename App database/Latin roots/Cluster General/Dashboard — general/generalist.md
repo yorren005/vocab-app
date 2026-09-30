@@ -5,13 +5,6 @@ status: unread
 ---
 # generalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modern scholar who is in a position to acquire more than superficial knowledge about many different interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modern scholar who is in a position to acquire more than superficial knowledge about many different interests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalist designates a modern scholar who is in a position to acquire more than superficial knowledge about many different interests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modern scholar who is in a position to acquire more than superficial knowledge about many different interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modern scholar who is in a position to acquire more than superficial knowledge about many different interests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, generalist designates a modern scholar who is in a position to acquire more than superficial knowledge about many different interests."*

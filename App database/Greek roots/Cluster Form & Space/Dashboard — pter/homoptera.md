@@ -5,13 +5,6 @@ status: unread
 ---
 # homoptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoptera designates plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoptera designates plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects."*

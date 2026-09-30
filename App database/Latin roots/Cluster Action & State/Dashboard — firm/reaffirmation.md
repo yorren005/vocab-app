@@ -5,13 +5,6 @@ status: unread
 ---
 # reaffirmation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renewed affirmation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renewed affirmation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Finally the differences were partially adjusted by a reaffirmation of the platform of 1884, and very decided endorsements of both the President’s message and the Mills bill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Renewed affirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renewed affirmation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Finally the differences were partially adjusted by a reaffirmation of the platform of 1884, and very decided endorsements of both the President’s message and the Mills bill."*

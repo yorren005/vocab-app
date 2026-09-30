@@ -5,15 +5,6 @@ status: unread
 ---
 # depicted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show in, or as in, a picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a description of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, with his hair flattened down upon his head and woe depicted in his face, looking up at me."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Indeed, when we reflect on the character of the Gospels, their origin and composition, and then consider the sharp, strong outlines of the personality depicted, we shall be apt to feel his claim to historicity to be stronger than we supposed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And then he heard Lydgate’s account of the troubles which Rosamond had already depicted to him in her way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show in, or as in, a picture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a description of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, with his hair flattened down upon his head and woe depicted in his face, looking up at me."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Indeed, when we reflect on the character of the Gospels, their origin and composition, and then consider the sharp, strong outlines of the personality depicted, we shall be apt to feel his claim to historicity to be stronger than we supposed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And then he heard Lydgate’s account of the troubles which Rosamond had already depicted to him in her way."*

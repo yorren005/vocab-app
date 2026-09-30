@@ -5,15 +5,6 @@ status: unread
 ---
 # ostensible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing as such but not necessarily so.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented or appearing as such; pretended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But man, even to himself, is a palimpsest, having an ostensible writing, and another beneath the lines."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could it be possible, he continued, that eyes which as they gazed never expressed any divergence from what the tongue was telling, were yet ever seeing another world behind her ostensible one, discordant and contrasting?"*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"He wove into it, with all possible heightening of poetic imagery, the chief events of the period of revolution through which southern Europe was then passing, so that it differs from the Prometheus in having historical facts as ostensible subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing as such but not necessarily so.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented or appearing as such; pretended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But man, even to himself, is a palimpsest, having an ostensible writing, and another beneath the lines."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could it be possible, he continued, that eyes which as they gazed never expressed any divergence from what the tongue was telling, were yet ever seeing another world behind her ostensible one, discordant and contrasting?"*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"He wove into it, with all possible heightening of poetic imagery, the chief events of the period of revolution through which southern Europe was then passing, so that it differs from the Prometheus in having historical facts as ostensible subject."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # late
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or occurring at an advanced period of time or after a usual or expected time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the expected or usual time; delayed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I was very late more near her than I think she wish’d me; alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touch’d not any stranger sense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They begin to smoke me, and disgraces have of late knock’d too often at my door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or occurring at an advanced period of time or after a usual or expected time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the expected or usual time; delayed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I was very late more near her than I think she wish’d me; alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touch’d not any stranger sense."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They begin to smoke me, and disgraces have of late knock’d too often at my door."*

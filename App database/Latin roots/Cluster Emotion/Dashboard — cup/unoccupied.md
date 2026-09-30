@@ -5,15 +5,6 @@ status: unread
 ---
 # unoccupied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not held or filled or in use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seized and controlled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It seemed as if the spot was unoccupied by a living soul."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His walk was towards the churchyard, entering which he searched around till he found a newly dug unoccupied grave—the grave dug the day before for Fanny."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Once there, Bathsheba was forced to make the best of it and remain: she sat down, spreading her skirts with some dignity over the unoccupied space on each side of her, and giving a new and feminine aspect to the pavilion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not held or filled or in use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seized and controlled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It seemed as if the spot was unoccupied by a living soul."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His walk was towards the churchyard, entering which he searched around till he found a newly dug unoccupied grave—the grave dug the day before for Fanny."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Once there, Bathsheba was forced to make the best of it and remain: she sat down, spreading her skirts with some dignity over the unoccupied space on each side of her, and giving a new and feminine aspect to the pavilion."*

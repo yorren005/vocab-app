@@ -5,15 +5,6 @@ status: unread
 ---
 # van
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leading units moving at the head of an army.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go charge Agrippa Plant those that have revolted in the van That Antony may seem to spend his fury Upon himself. [_Exeunt Caesar and his Train._] ENOBARBUS."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now on at full speed!” No sound of the rider in their van could now be discovered."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was ten o’clock at least, when, walking deliberately through the lower part of Weatherbury, he heard the carrier’s spring van entering the village."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leading units moving at the head of an army.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go charge Agrippa Plant those that have revolted in the van That Antony may seem to spend his fury Upon himself. [_Exeunt Caesar and his Train._] ENOBARBUS."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now on at full speed!” No sound of the rider in their van could now be discovered."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was ten o’clock at least, when, walking deliberately through the lower part of Weatherbury, he heard the carrier’s spring van entering the village."*

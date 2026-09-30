@@ -5,13 +5,6 @@ status: unread
 ---
 # polymyxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several toxic antibiotics obtained from a particular soil bacterium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several toxic antibiotics obtained from a particular soil bacterium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymyxin designates any of several toxic antibiotics obtained from a particular soil bacterium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several toxic antibiotics obtained from a particular soil bacterium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several toxic antibiotics obtained from a particular soil bacterium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymyxin designates any of several toxic antibiotics obtained from a particular soil bacterium."*

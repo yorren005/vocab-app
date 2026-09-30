@@ -5,13 +5,6 @@ status: unread
 ---
 # disaccord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be different from one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be different from one another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disaccord designates be different from one another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be different from one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be different from one another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disaccord designates be different from one another."*

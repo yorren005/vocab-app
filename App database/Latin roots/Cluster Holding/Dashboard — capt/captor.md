@@ -5,15 +5,6 @@ status: unread
 ---
 # captor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who captures and holds people or animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who captures and holds people or animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, punish me!” she said, turning up her eyes to him with the hopeless defiance of the sparrow’s gaze before its captor twists its neck."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It becomes the property of the captor and is thereafter played by him."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Moreover, he was a boy whom no man could hurt; an invulnerable and dodging serpent who, when chased into a corner, flew out again between his captor’s legs, scornfully yelping."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who captures and holds people or animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who captures and holds people or animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, punish me!” she said, turning up her eyes to him with the hopeless defiance of the sparrow’s gaze before its captor twists its neck."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It becomes the property of the captor and is thereafter played by him."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Moreover, he was a boy whom no man could hurt; an invulnerable and dodging serpent who, when chased into a corner, flew out again between his captor’s legs, scornfully yelping."*

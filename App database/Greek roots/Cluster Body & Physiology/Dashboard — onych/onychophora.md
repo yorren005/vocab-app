@@ -5,13 +5,6 @@ status: unread
 ---
 # onychophora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychophora designates enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychophora designates enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids."*

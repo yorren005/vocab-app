@@ -5,15 +5,6 @@ status: unread
 ---
 # immobilize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold as reserve or withdraw from circulation; of capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold fast or prevent from moving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A command from the tug and mooring beams glowed at the fore-and-aft towers to immobilize the Raven."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko hit a switch, and the utility beam-anchor connected to a triangular plate above the airlock, immobilizing and fixing the utility to the huge transporter's axis."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Parallel in the center of the room a double line of four gray tables stood fused to the deck, each with benches on each long side, similarly immobilized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold as reserve or withdraw from circulation; of capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold fast or prevent from moving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A command from the tug and mooring beams glowed at the fore-and-aft towers to immobilize the Raven."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko hit a switch, and the utility beam-anchor connected to a triangular plate above the airlock, immobilizing and fixing the utility to the huge transporter's axis."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Parallel in the center of the room a double line of four gray tables stood fused to the deck, each with benches on each long side, similarly immobilized."*

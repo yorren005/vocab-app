@@ -5,13 +5,6 @@ status: unread
 ---
 # diakinesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of the meiotic prophase marked by contraction of the bivalents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final stage of the meiotic prophase marked by contraction of the bivalents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diakinesis designates the final stage of the meiotic prophase marked by contraction of the bivalents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of the meiotic prophase marked by contraction of the bivalents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final stage of the meiotic prophase marked by contraction of the bivalents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diakinesis designates the final stage of the meiotic prophase marked by contraction of the bivalents."*

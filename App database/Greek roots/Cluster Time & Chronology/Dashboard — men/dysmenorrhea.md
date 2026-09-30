@@ -5,13 +5,6 @@ status: unread
 ---
 # dysmenorrhea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painful menstruation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysmenorrhea designates painful menstruation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painful menstruation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysmenorrhea designates painful menstruation."*

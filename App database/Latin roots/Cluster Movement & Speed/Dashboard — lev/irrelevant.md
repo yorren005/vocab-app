@@ -5,15 +5,6 @@ status: unread
 ---
 # irrelevant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no bearing on or connection with the subject at issue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no bearing on or connection with the subject at issue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother gave irrelevant information by way of answer: “He called to see the doctor to-day in Shaston."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare performed the irrelevant act of stirring the fire; the intelligence had not even yet got to the bottom of him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Instead of "the Doctor" they now spoke of him habitually as "the Professor," and presented him with a finely befrogged but somewhat irrelevant professor's gown for use in the pulpit at Wallace Green."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no bearing on or connection with the subject at issue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no bearing on or connection with the subject at issue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother gave irrelevant information by way of answer: “He called to see the doctor to-day in Shaston."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare performed the irrelevant act of stirring the fire; the intelligence had not even yet got to the bottom of him."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Instead of "the Doctor" they now spoke of him habitually as "the Professor," and presented him with a finely befrogged but somewhat irrelevant professor's gown for use in the pulpit at Wallace Green."*

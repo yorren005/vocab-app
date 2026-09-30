@@ -5,13 +5,6 @@ status: unread
 ---
 # reentry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reentry designates the act of entering again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reentry designates the act of entering again."*

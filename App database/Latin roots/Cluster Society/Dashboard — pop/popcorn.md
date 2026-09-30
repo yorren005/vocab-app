@@ -5,15 +5,6 @@ status: unread
 ---
 # popcorn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corn having small ears and kernels that burst when exposed to dry heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small kernels of corn exploded by heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"It's so you can sit on the kitchen floor and string popcorn to hang on the big tree at church."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"She's eating up every grain of this popcorn!"*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Won't be enough left to go from one limb to another, much less all round the Christmas tree!" Mierd jerked the pan of popcorn out of my hands and held it up toward Mama."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corn having small ears and kernels that burst when exposed to dry heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small kernels of corn exploded by heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"It's so you can sit on the kitchen floor and string popcorn to hang on the big tree at church."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"She's eating up every grain of this popcorn!"*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Won't be enough left to go from one limb to another, much less all round the Christmas tree!" Mierd jerked the pan of popcorn out of my hands and held it up toward Mama."*

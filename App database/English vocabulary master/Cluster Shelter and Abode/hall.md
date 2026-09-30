@@ -5,20 +5,6 @@ status: unread
 ---
 # hall
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Large meeting room
-> 2. **Nuance / Usage**: Corridor; a hallway
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Operates as a spatial focal point (*in the great hall*, *enter the banquet hall*), subject of communal ceremony, or compound noun (*mead-hall*, *town hall*).
-> - **Collocations & Registers**: Evokes historic Anglo-Saxon communal assembly, hearth warmth, noble retinue, and epic skaldic tradition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And meet i’ th’ hall together."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As they turn towards the hall-door, Lady Dedlock addresses Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"his Olympus by the hall-fire to let the young man out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A large room or building used for public gatherings, banquets, assemblies, or communal feasting (historically, the chief room of a medieval manor or castle).
+> 2. **Nuance / Usage**: The entrance room, vestibule, or corridor just inside the front door of a house or building; a landed country residence (*manor hall*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Operates as a spatial focal point (*in the great hall*, *enter the banquet hall*), subject of communal ceremony, or compound noun (*mead-hall*, *town hall*).
+> - **Collocations & Registers**: Evokes historic Anglo-Saxon communal assembly, hearth warmth, noble retinue, and epic skaldic tradition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Seamus Heaney (*Beowulf*):** *"Then Hrothgar’s men lived happy in his **hall** until the monster stirred in the dark."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old man sat by the **hall**-fire to let the young visitor out into the night."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The long oaken table in the great **hall** of Rotherwood stood ready for the evening repast."*

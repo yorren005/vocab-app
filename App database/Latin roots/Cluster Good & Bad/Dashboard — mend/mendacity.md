@@ -5,13 +5,6 @@ status: unread
 ---
 # mendacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to be untruthful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to be untruthful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Then, too, her mendacity―George of England is advertised as a saint, and Joe Miller as a wit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to be untruthful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to be untruthful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Then, too, her mendacity―George of England is advertised as a saint, and Joe Miller as a wit."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # commercialized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploit for maximal profit, usually by sacrificing quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make commercial.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploit for maximal profit, usually by sacrificing quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make commercial.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*

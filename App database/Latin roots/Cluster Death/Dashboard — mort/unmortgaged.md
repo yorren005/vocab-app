@@ -5,13 +5,6 @@ status: unread
 ---
 # unmortgaged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of a title) free from any encumbrance or limitation that presents a question of fact or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of a title) free from any encumbrance or limitation that presents a question of fact or law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmortgaged designates (especially of a title) free from any encumbrance or limitation that presents a question of fact or law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of a title) free from any encumbrance or limitation that presents a question of fact or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of a title) free from any encumbrance or limitation that presents a question of fact or law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmortgaged designates (especially of a title) free from any encumbrance or limitation that presents a question of fact or law."*

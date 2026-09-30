@@ -5,15 +5,6 @@ status: unread
 ---
 # topographical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with topography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with topography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But in her topographical ignorance as a late comer to the place, she misreckoned the distance of her journey as not much more than half what it really was."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The district is of historic, no less than of topographical interest."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Mackenzie, _An Historical, Topographical, and Descriptive View of the County of Northumberland_, Second Edition (Newcastle, 1825), i. 217. [502] _County Folk-lore_, vol. iv. _Northumberland_, collected by M.C."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with topography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with topography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But in her topographical ignorance as a late comer to the place, she misreckoned the distance of her journey as not much more than half what it really was."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The district is of historic, no less than of topographical interest."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Mackenzie, _An Historical, Topographical, and Descriptive View of the County of Northumberland_, Second Edition (Newcastle, 1825), i. 217. [502] _County Folk-lore_, vol. iv. _Northumberland_, collected by M.C."*

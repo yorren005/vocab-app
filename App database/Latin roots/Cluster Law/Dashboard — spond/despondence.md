@@ -5,15 +5,6 @@ status: unread
 ---
 # despondence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling downcast and disheartened and hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling downcast and disheartened and hopeless.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"For Fanny’s present comfort it was concluded, perhaps, at the happiest moment: had he been able to talk another five minutes, there is no saying that he might not have talked away all Miss Crawford’s faults and his own despondence."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Let us go back, love, and dream no more of the Great Carbuncle!" "The sun cannot be yonder," said Hannah, with despondence."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The company were, in some measure, infected by his despondence, concerning the cause of which, however, they would not venture to inquire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling downcast and disheartened and hopeless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling downcast and disheartened and hopeless.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"For Fanny’s present comfort it was concluded, perhaps, at the happiest moment: had he been able to talk another five minutes, there is no saying that he might not have talked away all Miss Crawford’s faults and his own despondence."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Let us go back, love, and dream no more of the Great Carbuncle!" "The sun cannot be yonder," said Hannah, with despondence."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The company were, in some measure, infected by his despondence, concerning the cause of which, however, they would not venture to inquire."*

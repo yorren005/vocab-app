@@ -5,15 +5,6 @@ status: unread
 ---
 # polity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Political organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form of political organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Wise in his daily work was he: To fruits of diligence, And not to faiths or polity, He plied his utmost sense."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The scheme of representation, as a substitute for a meeting of the citizens in person, being at most but very imperfectly known to ancient polity, it is in more modern times only that we are to expect instructive examples."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The impact of various forces upon the structure and polity of that nation will be tremendous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Political organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form of political organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Wise in his daily work was he: To fruits of diligence, And not to faiths or polity, He plied his utmost sense."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The scheme of representation, as a substitute for a meeting of the citizens in person, being at most but very imperfectly known to ancient polity, it is in more modern times only that we are to expect instructive examples."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The impact of various forces upon the structure and polity of that nation will be tremendous."*

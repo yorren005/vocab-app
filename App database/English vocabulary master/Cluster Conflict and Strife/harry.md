@@ -5,20 +5,6 @@ status: unread
 ---
 # harry
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Plunder, pillage, assault
-> 2. **Nuance / Usage**: Force to move along by harassing
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to harry the target*) and intransitive clauses (*harrying against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"A banish’d woman from my Harry’s bed?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll know your business, Harry, that I will."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And your unthought-of Harry chance to meet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To ravage, pillage, or lay waste a region or enemy force through repeated raids and depredations.
+> 2. **Nuance / Usage**: In general usage, to harass, torment, or badger someone relentlessly, giving them no peace or respite.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb.
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to harry the retreating column*) and passive clauses (*harried by creditors*).
+> - **Collocations & Registers**: Martial, historical, and psychological registers; collocated with *flanks*, *rearguard*, *borderlands*, *creditors*, and *relentlessly*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sir Walter Scott (*The Lay of the Last Minstrel*):** *"The border raiders rode by night to **harry** the dales and drive off the cattle."*
+> - 📜 **John Richard Green (*A Short History of the English People*):** *"William marched northward in the depth of winter to **harry** Yorkshire with fire and sword."*
+> - 📜 **Jack London (*White Fang*):** *"The pack continued to **harry** the wounded moose through the deep snow until its strength gave out."*

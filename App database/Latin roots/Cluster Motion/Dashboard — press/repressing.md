@@ -5,15 +5,6 @@ status: unread
 ---
 # repressing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is repressing symptoms favourable to the fit when she seems to take alarm at something and vanishes down the stairs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You wouldn’t object to say, perhaps, that although an undoubted vagabond, I am a vagabond of the harum-scarum order, and not of the mean sort?” The ironmaster, repressing his amused smile, assents."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was no harassing restraint, no repressing of glee and vivacity with him; for with him I was at perfect ease, because I knew I suited him; all I said or did seemed either to console or revive him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She is repressing symptoms favourable to the fit when she seems to take alarm at something and vanishes down the stairs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You wouldn’t object to say, perhaps, that although an undoubted vagabond, I am a vagabond of the harum-scarum order, and not of the mean sort?” The ironmaster, repressing his amused smile, assents."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was no harassing restraint, no repressing of glee and vivacity with him; for with him I was at perfect ease, because I knew I suited him; all I said or did seemed either to console or revive him."*

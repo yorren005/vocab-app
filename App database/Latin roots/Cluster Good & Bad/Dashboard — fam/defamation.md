@@ -5,14 +5,6 @@ status: unread
 ---
 # defamation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive attack on a person's character or good name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Holy Fair^1 A robe of seeming truth and trust Hid crafty Observation; And secret hung, with poison’d crust, The dirk of Defamation: [Footnote 1: “Holy Fair” is a common phrase in the west of Scotland for a sacramental occasion.—R."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Derrick was present, for defamation, in calling his neighbour a scavenger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive attack on a person's character or good name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Holy Fair^1 A robe of seeming truth and trust Hid crafty Observation; And secret hung, with poison’d crust, The dirk of Defamation: [Footnote 1: “Holy Fair” is a common phrase in the west of Scotland for a sacramental occasion.—R."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Derrick was present, for defamation, in calling his neighbour a scavenger."*

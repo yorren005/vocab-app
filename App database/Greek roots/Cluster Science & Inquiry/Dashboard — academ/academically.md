@@ -5,13 +5,6 @@ status: unread
 ---
 # academically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regard to academic matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regard to academic matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academically designates in regard to academic matters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In regard to academic matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regard to academic matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academically designates in regard to academic matters."*

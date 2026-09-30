@@ -5,15 +5,6 @@ status: unread
 ---
 # reported
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To give an account or representation of in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce as the result of an investigation or experience or finding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from France, As ’tis reported, for the king had married him Against his liking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On the Alps It is reported thou didst eat strange flesh Which some did die to look on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give an account or representation of in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce as the result of an investigation or experience or finding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from France, As ’tis reported, for the king had married him Against his liking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On the Alps It is reported thou didst eat strange flesh Which some did die to look on."*

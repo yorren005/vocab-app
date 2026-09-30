@@ -5,15 +5,6 @@ status: unread
 ---
 # bounded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward by leaps and bounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form the boundary of; be contiguous to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O God, I could be bounded in a nutshell, and count myself a king of infinite space, were it not that I have bad dreams."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How are we park’d and bounded in a pale, A little herd of England’s timorous deer, Mazed with a yelping kennel of French curs!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet to be neutral to him were dishonour, Rebellious to oppose; therefore we must With him stand to the mercy of our fate, Who hath bounded our last minute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward by leaps and bounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form the boundary of; be contiguous to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O God, I could be bounded in a nutshell, and count myself a king of infinite space, were it not that I have bad dreams."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How are we park’d and bounded in a pale, A little herd of England’s timorous deer, Mazed with a yelping kennel of French curs!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet to be neutral to him were dishonour, Rebellious to oppose; therefore we must With him stand to the mercy of our fate, Who hath bounded our last minute."*

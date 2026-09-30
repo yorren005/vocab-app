@@ -5,15 +5,6 @@ status: unread
 ---
 # reorganized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize anew, as after a setback.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the winter of 1863, it was deemed best to make the Pittsburg Sanitary Committee, which had been reorganized for the purpose, an auxiliary of the United States Sanitary Commission, and measures were taken for that purpose by Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Emperor said that the fiscal system must be reorganized and the accounts published,” recounted Bítski, emphasizing certain words and opening his eyes significantly."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides this, the whole staff of the Russian army was now reorganized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize anew, as after a setback.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the winter of 1863, it was deemed best to make the Pittsburg Sanitary Committee, which had been reorganized for the purpose, an auxiliary of the United States Sanitary Commission, and measures were taken for that purpose by Mr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Emperor said that the fiscal system must be reorganized and the accounts published,” recounted Bítski, emphasizing certain words and opening his eyes significantly."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides this, the whole staff of the Russian army was now reorganized."*

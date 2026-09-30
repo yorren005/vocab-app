@@ -5,13 +5,6 @@ status: unread
 ---
 # bicyclic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having molecules consisting of two fused rings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having molecules consisting of two fused rings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicyclic designates having molecules consisting of two fused rings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having molecules consisting of two fused rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having molecules consisting of two fused rings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicyclic designates having molecules consisting of two fused rings."*

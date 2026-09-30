@@ -5,15 +5,6 @@ status: unread
 ---
 # dole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A share of money or food or clothing that has been charitably given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money received from the state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yonder they lie, the poor old man their father making such pitiful dole over them that all the beholders take his part with weeping."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my masters, happy man be his dole, say I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A share of money or food or clothing that has been charitably given.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money received from the state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yonder they lie, the poor old man their father making such pitiful dole over them that all the beholders take his part with weeping."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my masters, happy man be his dole, say I."*

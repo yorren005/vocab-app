@@ -5,13 +5,6 @@ status: unread
 ---
 # dissimilate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become dissimilar by changing the sound qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make dissimilar; cause to become less similar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissimilate designates become dissimilar by changing the sound qualities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become dissimilar by changing the sound qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make dissimilar; cause to become less similar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissimilate designates become dissimilar by changing the sound qualities."*

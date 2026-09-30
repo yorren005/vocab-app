@@ -5,13 +5,6 @@ status: unread
 ---
 # xenophobic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from xenophobia; having abnormal fear or hatred of the strange or foreign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from xenophobia; having abnormal fear or hatred of the strange or foreign.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenophobic designates suffering from xenophobia; having abnormal fear or hatred of the strange or foreign."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from xenophobia; having abnormal fear or hatred of the strange or foreign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from xenophobia; having abnormal fear or hatred of the strange or foreign.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenophobic designates suffering from xenophobia; having abnormal fear or hatred of the strange or foreign."*

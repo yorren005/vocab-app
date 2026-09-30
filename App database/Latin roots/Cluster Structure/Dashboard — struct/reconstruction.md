@@ -5,15 +5,6 @@ status: unread
 ---
 # reconstruction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period after the american civil war when the southern states were reorganized and reintegrated into the union; 1865-1877.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of constructing something again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The "reconstruction of a personality"--to borrow a phrase from some psychologists--is a very difficult matter, even when we are masters of our detail."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane had gone upstairs to make more calculations on our reconstruction, and I was trying to get a large deep breath."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is needless to repeat, for it must be present to all minds, how many and deep are the differences which separate him from the later doctrines of Comte, and how completely he repudiated connection with the religious reconstruction of Positivism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period after the american civil war when the southern states were reorganized and reintegrated into the union; 1865-1877.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of constructing something again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The "reconstruction of a personality"--to borrow a phrase from some psychologists--is a very difficult matter, even when we are masters of our detail."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane had gone upstairs to make more calculations on our reconstruction, and I was trying to get a large deep breath."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is needless to repeat, for it must be present to all minds, how many and deep are the differences which separate him from the later doctrines of Comte, and how completely he repudiated connection with the religious reconstruction of Positivism."*

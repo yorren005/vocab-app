@@ -5,13 +5,6 @@ status: unread
 ---
 # infective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to cause disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by infection or capable of causing infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infective designates able to cause disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to cause disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by infection or capable of causing infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infective designates able to cause disease."*

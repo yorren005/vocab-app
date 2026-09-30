@@ -5,15 +5,6 @@ status: unread
 ---
 # announce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known; make an announcement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A servant came to the door to announce Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple’s carriage, for which Miss Elliot was growing very impatient, now drew up; the servant came in to announce it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known; make an announcement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A servant came to the door to announce Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple’s carriage, for which Miss Elliot was growing very impatient, now drew up; the servant came in to announce it."*

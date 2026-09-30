@@ -5,13 +5,6 @@ status: unread
 ---
 # anorchism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of one of both testes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of one of both testes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorchism designates absence of one of both testes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of one of both testes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of one of both testes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorchism designates absence of one of both testes."*

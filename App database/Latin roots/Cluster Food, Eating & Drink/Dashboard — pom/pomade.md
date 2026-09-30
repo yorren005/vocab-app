@@ -5,15 +5,6 @@ status: unread
 ---
 # pomade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairdressing consisting of a perfumed oil or ointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply pomade to (hair).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She only felt a soft hand taking hers firmly, and she touched with her lips a white forehead, over which was beautiful light-brown hair smelling of pomade."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was wearing a blue swallow-tail coat, shoes and stockings, and was perfumed and his hair pomaded."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Berg arrived in an immaculate brand-new uniform, with his hair pomaded and brushed forward over his temples as the Emperor Alexander wore his hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairdressing consisting of a perfumed oil or ointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply pomade to (hair).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She only felt a soft hand taking hers firmly, and she touched with her lips a white forehead, over which was beautiful light-brown hair smelling of pomade."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was wearing a blue swallow-tail coat, shoes and stockings, and was perfumed and his hair pomaded."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Berg arrived in an immaculate brand-new uniform, with his hair pomaded and brushed forward over his temples as the Emperor Alexander wore his hair."*

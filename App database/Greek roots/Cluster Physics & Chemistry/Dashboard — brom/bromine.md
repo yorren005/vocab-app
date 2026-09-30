@@ -5,13 +5,6 @@ status: unread
 ---
 # bromine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromine designates a nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromine designates a nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides)."*

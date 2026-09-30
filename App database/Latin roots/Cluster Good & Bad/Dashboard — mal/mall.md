@@ -5,15 +5,6 @@ status: unread
 ---
 # mall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public area set aside as a pedestrian walk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are they like to take dust, like Mistress Mall’s picture?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Here you are, Peterson, run down to the advertising agency and have this put in the evening papers.” “In which, sir?” “Oh, in the _Globe_, _Star_, _Pall Mall_, _St."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Occasionally, a mall or square appeared along the transit route, lined with workshops, playgrounds, and colorful private houses or apartment complexes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public area set aside as a pedestrian walk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are they like to take dust, like Mistress Mall’s picture?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Here you are, Peterson, run down to the advertising agency and have this put in the evening papers.” “In which, sir?” “Oh, in the _Globe_, _Star_, _Pall Mall_, _St."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Occasionally, a mall or square appeared along the transit route, lined with workshops, playgrounds, and colorful private houses or apartment complexes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # discommode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause inconvenience or discomfort to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discommode designates to cause inconvenience or discomfort to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause inconvenience or discomfort to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discommode designates to cause inconvenience or discomfort to."*

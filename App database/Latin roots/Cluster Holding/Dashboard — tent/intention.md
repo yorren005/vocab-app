@@ -5,15 +5,6 @@ status: unread
 ---
 # intention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) the goal with respect to a marriage proposal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, she did so course o’er my exteriors with such a greedy intention that the appetite of her eye did seem to scorch me up like a burning-glass."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was clearly evident, however, that the approaching girl had no intention of changing her pace, despite the fact that she must have noticed long ago the friend who was hurrying towards her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli tried with all her might to prove to her mother that her intention had solely been to save her the work necessary to get the things together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) the goal with respect to a marriage proposal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, she did so course o’er my exteriors with such a greedy intention that the appetite of her eye did seem to scorch me up like a burning-glass."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was clearly evident, however, that the approaching girl had no intention of changing her pace, despite the fact that she must have noticed long ago the friend who was hurrying towards her."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli tried with all her might to prove to her mother that her intention had solely been to save her the work necessary to get the things together."*

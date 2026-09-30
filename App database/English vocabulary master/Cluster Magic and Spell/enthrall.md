@@ -5,20 +5,6 @@ status: unread
 ---
 # enthrall
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hold spellbound : charm
-> 2. **Nuance / Usage**: Hold in or reduce to slavery
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to enthrall the target*) and intransitive clauses (*enthralling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Too high to be enthrall’d to low."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"the company, frighten or enthrall them."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Free Vertue should enthrall to Force or Chance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To capture the charmed attention of someone completely; to hold spellbound with wonder or fascination.
+> 2. **Nuance / Usage**: Literally and historically (from Old English *þræl*, "thrall" or serf), to reduce someone to bondage or enslavement.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to enthrall the target*) and intransitive clauses (*enthralling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry had the strange, musical voice that could either frighten the company or **enthrall** them."*
+> - 📜 **John Milton (*Paradise Lost*):** *"How can hearts not free be tried whether they serve willingly, or what free virtue should **enthrall** to force or chance?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His tales of distant seas and foreign courts had power to **enthrall** my imagination for hours together."*

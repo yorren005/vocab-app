@@ -5,13 +5,6 @@ status: unread
 ---
 # secretaire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A desk used for writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desk used for writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretaire designates a desk used for writing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A desk used for writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desk used for writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretaire designates a desk used for writing."*

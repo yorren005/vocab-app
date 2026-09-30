@@ -5,15 +5,6 @@ status: unread
 ---
 # consistency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of holding together and retaining its shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious uniformity or agreement among things or parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, be kind to him, sir, for I love him true!” Boldwood’s ideas had reached that point of fusion at which outline and consistency entirely disappear."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His consistency was, indeed, too cruel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of holding together and retaining its shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious uniformity or agreement among things or parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, be kind to him, sir, for I love him true!” Boldwood’s ideas had reached that point of fusion at which outline and consistency entirely disappear."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His consistency was, indeed, too cruel."*

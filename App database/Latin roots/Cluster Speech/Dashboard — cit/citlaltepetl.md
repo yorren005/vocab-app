@@ -5,13 +5,6 @@ status: unread
 ---
 # citlaltepetl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citlaltepetl designates an extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citlaltepetl designates an extinct volcano in southern mexico between mexico city and veracruz; the highest peak in mexico (18,695 feet)."*

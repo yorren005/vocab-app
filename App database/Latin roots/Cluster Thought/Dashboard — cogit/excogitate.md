@@ -5,14 +5,6 @@ status: unread
 ---
 # excogitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Reflect, ponder, excogitate, reply."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The philosophies excogitated by the insulated intellect help nothing toward even a glimpse of these secrets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Reflect, ponder, excogitate, reply."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The philosophies excogitated by the insulated intellect help nothing toward even a glimpse of these secrets."*

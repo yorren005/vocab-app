@@ -5,14 +5,6 @@ status: unread
 ---
 # spiritedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spirited or lively manner; with animation and vivacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a spirited or lively manner; with animation and vivacity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And women to pay the price," answered Mamie, spiritedly."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Poor boy! you are indeed poor.” “But I can work,” said Paul, spiritedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spirited or lively manner; with animation and vivacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a spirited or lively manner; with animation and vivacity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And women to pay the price," answered Mamie, spiritedly."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Poor boy! you are indeed poor.” “But I can work,” said Paul, spiritedly."*

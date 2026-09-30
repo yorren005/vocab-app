@@ -5,15 +5,6 @@ status: unread
 ---
 # absentminded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lost in thought; showing preoccupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lost in thought; showing preoccupation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I noticed that you have been absentminded till now."*
-> - 📜 **James Joyce (*Ulysses*):** *"The French point of view. _Hamlet ou_... —The absentminded beggar, Stephen ended."*
-> - 📜 **James Joyce (*Ulysses*):** *"I fought with the colours for king and country in the absentminded war under general Gough in the park and was disabled at Spion Kop and Bloemfontein, was mentioned in dispatches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lost in thought; showing preoccupation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lost in thought; showing preoccupation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I noticed that you have been absentminded till now."*
+> - 📜 **James Joyce (*Ulysses*):** *"The French point of view. _Hamlet ou_... —The absentminded beggar, Stephen ended."*
+> - 📜 **James Joyce (*Ulysses*):** *"I fought with the colours for king and country in the absentminded war under general Gough in the park and was disabled at Spion Kop and Bloemfontein, was mentioned in dispatches."*

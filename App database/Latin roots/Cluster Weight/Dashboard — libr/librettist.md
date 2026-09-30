@@ -5,13 +5,6 @@ status: unread
 ---
 # librettist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Author of words to be set to music in an opera or operetta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Author of words to be set to music in an opera or operetta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librettist designates author of words to be set to music in an opera or operetta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Author of words to be set to music in an opera or operetta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Author of words to be set to music in an opera or operetta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, librettist designates author of words to be set to music in an opera or operetta."*

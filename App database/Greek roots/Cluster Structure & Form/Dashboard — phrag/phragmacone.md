@@ -5,13 +5,6 @@ status: unread
 ---
 # phragmacone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmacone designates the thin conical chambered internal shell (either straight or curved) of a belemnite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmacone designates the thin conical chambered internal shell (either straight or curved) of a belemnite."*

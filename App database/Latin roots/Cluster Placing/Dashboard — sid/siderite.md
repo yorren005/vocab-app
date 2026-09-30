@@ -5,13 +5,6 @@ status: unread
 ---
 # siderite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Iron ore in the form of ferrous carbonate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite consisting principally of nickel and iron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderite designates iron ore in the form of ferrous carbonate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Iron ore in the form of ferrous carbonate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite consisting principally of nickel and iron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderite designates iron ore in the form of ferrous carbonate."*

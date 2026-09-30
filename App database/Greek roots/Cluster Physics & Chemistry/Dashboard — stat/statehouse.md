@@ -5,13 +5,6 @@ status: unread
 ---
 # statehouse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government building in which a state legislature meets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government building in which a state legislature meets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statehouse designates a government building in which a state legislature meets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A government building in which a state legislature meets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government building in which a state legislature meets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statehouse designates a government building in which a state legislature meets."*

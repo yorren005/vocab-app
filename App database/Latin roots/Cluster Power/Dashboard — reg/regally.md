@@ -5,14 +5,6 @@ status: unread
 ---
 # regally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a regal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"So world-wondered-at Niagara shall be our destination, where Florence Howard and her father are already arrived and installed occupants of a regally-furnished suite of apartments at the Clifton House on the Canada side of the river."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"These girls are kept by themselves, and are regally fed and tended from birth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regal manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a regal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"So world-wondered-at Niagara shall be our destination, where Florence Howard and her father are already arrived and installed occupants of a regally-furnished suite of apartments at the Clifton House on the Canada side of the river."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"These girls are kept by themselves, and are regally fed and tended from birth."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # radiolarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa with amoeba-like bodies and radiating filamentous pseudopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa with amoeba-like bodies and radiating filamentous pseudopods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolarian designates protozoa with amoeba-like bodies and radiating filamentous pseudopods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa with amoeba-like bodies and radiating filamentous pseudopods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa with amoeba-like bodies and radiating filamentous pseudopods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolarian designates protozoa with amoeba-like bodies and radiating filamentous pseudopods."*

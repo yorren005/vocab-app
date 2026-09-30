@@ -5,13 +5,6 @@ status: unread
 ---
 # phagy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eating of a (specified) type or substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating of a (specified) type or substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"You must get a new patient, doctor, if you wish to study zoöphagy!” This puzzled me a little, so I drew him on:-- “Then you command life; you are a god, I suppose?” He smiled with an ineffably benign superiority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eating of a (specified) type or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating of a (specified) type or substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"You must get a new patient, doctor, if you wish to study zoöphagy!” This puzzled me a little, so I drew him on:-- “Then you command life; you are a god, I suppose?” He smiled with an ineffably benign superiority."*

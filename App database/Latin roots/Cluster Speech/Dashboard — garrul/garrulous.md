@@ -5,15 +5,6 @@ status: unread
 ---
 # garrulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of trivial conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of trivial conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The event of the day—that is, the return of Diana and Mary—pleased him; but the accompaniments of that event, the glad tumult, the garrulous glee of reception irked him: I saw he wished the calmer morrow was come."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That will do.” She lingered for a few moments, and was garrulous over some detail of the household."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Having confided in Drummer, Narval waxed garrulous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of trivial conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of trivial conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The event of the day—that is, the return of Diana and Mary—pleased him; but the accompaniments of that event, the glad tumult, the garrulous glee of reception irked him: I saw he wished the calmer morrow was come."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That will do.” She lingered for a few moments, and was garrulous over some detail of the household."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Having confided in Drummer, Narval waxed garrulous."*

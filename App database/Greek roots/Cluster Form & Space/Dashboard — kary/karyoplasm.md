@@ -5,13 +5,6 @@ status: unread
 ---
 # karyoplasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasm that constitutes the nucleus of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protoplasm that constitutes the nucleus of a cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyoplasm designates the protoplasm that constitutes the nucleus of a cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasm that constitutes the nucleus of a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protoplasm that constitutes the nucleus of a cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyoplasm designates the protoplasm that constitutes the nucleus of a cell."*

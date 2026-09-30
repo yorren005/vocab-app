@@ -5,13 +5,6 @@ status: unread
 ---
 # glyph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental vertical groove especially in a Doric frieze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbolic figure or a character (as in the Mayan system of writing) usually incised or carved in relief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The floral apostles are hiero- glyphs of Deity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental vertical groove especially in a Doric frieze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbolic figure or a character (as in the Mayan system of writing) usually incised or carved in relief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The floral apostles are hiero- glyphs of Deity."*

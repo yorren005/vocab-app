@@ -5,15 +5,6 @@ status: unread
 ---
 # cavern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any large dark enclosed space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large cave or a large chamber in a cave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, then, by day Where wilt thou find a cavern dark enough To mask thy monstrous visage?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Before us lay the cloud that was Semur, a darkness defined by the shining of the summer day around, the river escaping from that gloom as from a cavern, the towers piercing through, but the sunshine thrown back on every side from that darkness."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Thou! whatever title suit thee— Auld Hornie, Satan, Nick, or Clootie, Wha in yon cavern grim an’ sootie, Clos’d under hatches, Spairges about the brunstane cootie, To scaud poor wretches!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any large dark enclosed space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large cave or a large chamber in a cave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, then, by day Where wilt thou find a cavern dark enough To mask thy monstrous visage?"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Before us lay the cloud that was Semur, a darkness defined by the shining of the summer day around, the river escaping from that gloom as from a cavern, the towers piercing through, but the sunshine thrown back on every side from that darkness."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Thou! whatever title suit thee— Auld Hornie, Satan, Nick, or Clootie, Wha in yon cavern grim an’ sootie, Clos’d under hatches, Spairges about the brunstane cootie, To scaud poor wretches!"*

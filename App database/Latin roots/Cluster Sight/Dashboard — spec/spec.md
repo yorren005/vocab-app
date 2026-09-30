@@ -5,15 +5,6 @@ status: unread
 ---
 # spec
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed description of design criteria for a piece of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed description of design criteria for a piece of work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I swore arterwards, sure as ever I spec’lated and got rich, you should get rich."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Get a piece of land on spec, Plow and sow, There's a place for every peck, You can grow."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He done buyed a heap of Corson's spec'mens an' paid him more'n a hundred dollars for 'em."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed description of design criteria for a piece of work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed description of design criteria for a piece of work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I swore arterwards, sure as ever I spec’lated and got rich, you should get rich."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Get a piece of land on spec, Plow and sow, There's a place for every peck, You can grow."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He done buyed a heap of Corson's spec'mens an' paid him more'n a hundred dollars for 'em."*

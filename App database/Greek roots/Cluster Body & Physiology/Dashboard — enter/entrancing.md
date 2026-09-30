@@ -5,15 +5,6 @@ status: unread
 ---
 # entrancing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a trance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He was a lovely boy, clad in skeleton leaves and the juices that ooze out of trees but the most entrancing thing about him was that he had all his first teeth."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I suppose it was all especially entrancing to Wendy, because those rampagious boys of hers gave her so much to do."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Before them stretches a vista alluring in its as yet hazy outlines, entrancing in its magnitude, reaching to the far horizons of as yet unconquered territories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a trance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"He was a lovely boy, clad in skeleton leaves and the juices that ooze out of trees but the most entrancing thing about him was that he had all his first teeth."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"I suppose it was all especially entrancing to Wendy, because those rampagious boys of hers gave her so much to do."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Before them stretches a vista alluring in its as yet hazy outlines, entrancing in its magnitude, reaching to the far horizons of as yet unconquered territories."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # polymorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of existing in or assuming different forms: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existence of a species in several forms independent of the variations of sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphism designates the quality or state of existing in or assuming different forms: such as."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of existing in or assuming different forms: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existence of a species in several forms independent of the variations of sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphism designates the quality or state of existing in or assuming different forms: such as."*

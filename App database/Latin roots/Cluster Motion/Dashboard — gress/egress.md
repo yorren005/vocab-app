@@ -5,15 +5,6 @@ status: unread
 ---
 # egress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the reappearance of a celestial body after an eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The becoming visible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt have egress and regress—said I well?—and thy name shall be Brook."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At present, however, the door was open, and the egress of the jack, the blows on the bell, and the mannikin’s retreat into the nook again, were visible to many, and audible throughout the church."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When she had laid the supper-cloth, the bridge was lowered to give her means of egress, and she withdrew for the night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the reappearance of a celestial body after an eclipse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The becoming visible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt have egress and regress—said I well?—and thy name shall be Brook."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At present, however, the door was open, and the egress of the jack, the blows on the bell, and the mannikin’s retreat into the nook again, were visible to many, and audible throughout the church."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"When she had laid the supper-cloth, the bridge was lowered to give her means of egress, and she withdrew for the night."*

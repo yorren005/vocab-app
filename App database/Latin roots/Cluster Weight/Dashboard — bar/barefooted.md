@@ -5,15 +5,6 @@ status: unread
 ---
 # barefooted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without shoes on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were standing in a group, in their nightgowns, barefooted, at the window, the last red rays of the west still warming their faces and necks and the walls around them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And by a sort of fascination the three girls, one after another, crept out of their beds, and came and stood barefooted round Tess."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And Lydgate’s tendency was not towards extreme opinions: he would have liked no barefooted doctrines, being particular about his boots: he was no radical in relation to anything but medical reform and the prosecution of discovery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without shoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without shoes on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were standing in a group, in their nightgowns, barefooted, at the window, the last red rays of the west still warming their faces and necks and the walls around them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And by a sort of fascination the three girls, one after another, crept out of their beds, and came and stood barefooted round Tess."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And Lydgate’s tendency was not towards extreme opinions: he would have liked no barefooted doctrines, being particular about his boots: he was no radical in relation to anything but medical reform and the prosecution of discovery."*

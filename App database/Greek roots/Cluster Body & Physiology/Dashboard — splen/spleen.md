@@ -5,15 +5,6 @@ status: unread
 ---
 # spleen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large dark-red oval organ on the left side of the body between the stomach and the diaphragm; produces cells involved in immune responses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of resentful anger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So use it That my revengeful services may prove As benefits to thee, for I will fight Against my cankered country with the spleen Of all the under fiends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A weasel hath not such a deal of spleen As you are toss’d with."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large dark-red oval organ on the left side of the body between the stomach and the diaphragm; produces cells involved in immune responses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of resentful anger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So use it That my revengeful services may prove As benefits to thee, for I will fight Against my cankered country with the spleen Of all the under fiends."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A weasel hath not such a deal of spleen As you are toss’d with."*

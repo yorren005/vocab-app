@@ -5,13 +5,6 @@ status: unread
 ---
 # semipublic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having some of the features of public institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having some of the features of public institution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semipublic designates having some of the features of public institution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having some of the features of public institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having some of the features of public institution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semipublic designates having some of the features of public institution."*

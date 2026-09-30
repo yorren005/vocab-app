@@ -5,15 +5,6 @@ status: unread
 ---
 # cubic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three dimensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The cubic feet of oxygen yearly swallowed by a full-grown man—what a shudder they might have created in some Middlemarch circles!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The vast white headless phantom floats further and further from the ship, and every rod that it so floats, what seem square roods of sharks and cubic roods of fowls, augment the murderous din."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So like a choice casket is it secreted in him, that I have known some whalemen who peremptorily deny that the Sperm Whale has any other brain than that palpable semblance of one formed by the cubic-yards of his sperm magazine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three dimensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The cubic feet of oxygen yearly swallowed by a full-grown man—what a shudder they might have created in some Middlemarch circles!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The vast white headless phantom floats further and further from the ship, and every rod that it so floats, what seem square roods of sharks and cubic roods of fowls, augment the murderous din."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So like a choice casket is it secreted in him, that I have known some whalemen who peremptorily deny that the Sperm Whale has any other brain than that palpable semblance of one formed by the cubic-yards of his sperm magazine."*

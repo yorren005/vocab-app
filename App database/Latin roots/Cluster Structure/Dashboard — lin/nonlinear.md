@@ -5,13 +5,6 @@ status: unread
 ---
 # nonlinear
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or involving an equation whose terms are not of the first degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating or involving an equation whose terms are not of the first degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonlinear designates designating or involving an equation whose terms are not of the first degree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or involving an equation whose terms are not of the first degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating or involving an equation whose terms are not of the first degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonlinear designates designating or involving an equation whose terms are not of the first degree."*

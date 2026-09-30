@@ -5,15 +5,6 @@ status: unread
 ---
 # sept
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following august and preceding october.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People descended from a common ancestor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Never done nothink to get myself into no trouble, ’sept in not moving on and the inkwhich."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never was in no other trouble at all, sir, ’sept not knowin’ nothink and starwation.” “I believe it, now attend to Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inclosing A Copy Of “Holy Willie’s Prayer,” Which He Had Requested, Sept. 17, 1785 While at the stook the shearers cow’r To shun the bitter blaudin’ show’r, Or in gulravage rinnin scowr To pass the time, To you I dedicate the hour In idle rhyme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following august and preceding october.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People descended from a common ancestor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Never done nothink to get myself into no trouble, ’sept in not moving on and the inkwhich."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I never was in no other trouble at all, sir, ’sept not knowin’ nothink and starwation.” “I believe it, now attend to Mr."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inclosing A Copy Of “Holy Willie’s Prayer,” Which He Had Requested, Sept. 17, 1785 While at the stook the shearers cow’r To shun the bitter blaudin’ show’r, Or in gulravage rinnin scowr To pass the time, To you I dedicate the hour In idle rhyme."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # irresoluteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being irresolute; lacking firmness of purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being irresolute; lacking firmness of purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"His very melancholy, and the dejection of spirits he had so long been in, produced an irresoluteness and wavering of purpose which kept him from proceeding to extremities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being irresolute; lacking firmness of purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being irresolute; lacking firmness of purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"His very melancholy, and the dejection of spirits he had so long been in, produced an irresoluteness and wavering of purpose which kept him from proceeding to extremities."*

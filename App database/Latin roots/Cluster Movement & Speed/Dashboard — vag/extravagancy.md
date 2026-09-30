@@ -5,15 +5,6 @@ status: unread
 ---
 # extravagancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, sooth, sir; my determinate voyage is mere extravagancy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sincere friends of liberty, who give themselves up to the extravagancies of this passion, are not aware of the injury they do their own cause."*
-> - 📜 **Effie Afton (*Eventide*):** *"He was known to be a widower, and the woful extravagancies into which Mary Madeline Mumbles cajoled her doting mother, were enough to make one shudder in relating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, sooth, sir; my determinate voyage is mere extravagancy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sincere friends of liberty, who give themselves up to the extravagancies of this passion, are not aware of the injury they do their own cause."*
+> - 📜 **Effie Afton (*Eventide*):** *"He was known to be a widower, and the woful extravagancies into which Mary Madeline Mumbles cajoled her doting mother, were enough to make one shudder in relating."*

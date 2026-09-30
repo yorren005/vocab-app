@@ -5,15 +5,6 @@ status: unread
 ---
 # crime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (criminal law) an act punishable by law; usually considered an evil act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil act not necessarily punishable by law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be where you list, your charter is so strong, That you yourself may privilage your time To what you will, to you it doth belong, Yourself to pardon of self-doing crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (criminal law) an act punishable by law; usually considered an evil act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil act not necessarily punishable by law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be where you list, your charter is so strong, That you yourself may privilage your time To what you will, to you it doth belong, Yourself to pardon of self-doing crime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*

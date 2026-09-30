@@ -5,13 +5,6 @@ status: unread
 ---
 # mitrewort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitrewort designates any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitrewort designates any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter."*

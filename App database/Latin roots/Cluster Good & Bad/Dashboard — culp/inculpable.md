@@ -5,13 +5,6 @@ status: unread
 ---
 # inculpable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of guilt; not subject to blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of guilt; not subject to blame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpable designates free of guilt; not subject to blame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of guilt; not subject to blame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of guilt; not subject to blame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpable designates free of guilt; not subject to blame."*

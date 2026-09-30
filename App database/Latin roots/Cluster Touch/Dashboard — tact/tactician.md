@@ -5,15 +5,6 @@ status: unread
 ---
 # tactician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is skilled at planning tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is skilled at planning tactics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is a great tactician!” said the prince to his son, pointing to the architect."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was the skill of an experienced tactician to deploy the northern levies as the sappers and miners; it was very becoming certainly."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Stryver, shaking his forensic forefinger at the Temple in general, when it was down, “my way out of this, is, to put you all in the wrong.” It was a bit of the art of an Old Bailey tactician, in which he found great relief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is skilled at planning tactics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is skilled at planning tactics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is a great tactician!” said the prince to his son, pointing to the architect."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was the skill of an experienced tactician to deploy the northern levies as the sappers and miners; it was very becoming certainly."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Stryver, shaking his forensic forefinger at the Temple in general, when it was down, “my way out of this, is, to put you all in the wrong.” It was a bit of the art of an Old Bailey tactician, in which he found great relief."*

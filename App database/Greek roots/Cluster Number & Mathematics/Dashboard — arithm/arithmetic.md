@@ -5,15 +5,6 @@ status: unread
 ---
 # arithmetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals usually with the nonnegative real numbers including sometimes the transfinite cardinals and with the application of the operations of addition, subtraction, multiplication, and division to them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise on arithmetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now ’tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spare your arithmetic; never count the turns."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, his definement suffers no perdition in you, though I know, to divide him inventorially would dizzy th’arithmetic of memory, and yet but yaw neither, in respect of his quick sail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals usually with the nonnegative real numbers including sometimes the transfinite cardinals and with the application of the operations of addition, subtraction, multiplication, and division to them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise on arithmetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now ’tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spare your arithmetic; never count the turns."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, his definement suffers no perdition in you, though I know, to divide him inventorially would dizzy th’arithmetic of memory, and yet but yaw neither, in respect of his quick sail."*

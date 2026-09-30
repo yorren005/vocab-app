@@ -5,13 +5,6 @@ status: unread
 ---
 # somatotropin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone produced by the anterior pituitary gland; promotes growth in humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone produced by the anterior pituitary gland; promotes growth in humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatotropin designates a hormone produced by the anterior pituitary gland; promotes growth in humans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone produced by the anterior pituitary gland; promotes growth in humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone produced by the anterior pituitary gland; promotes growth in humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatotropin designates a hormone produced by the anterior pituitary gland; promotes growth in humans."*

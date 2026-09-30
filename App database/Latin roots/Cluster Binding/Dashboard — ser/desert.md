@@ -5,15 +5,6 @@ status: unread
 ---
 # desert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arid land with little or no vegetation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave someone who needs or counts on you; leave in the lurch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet it irks me the poor dappled fools, Being native burghers of this desert city, Should in their own confines with forked heads Have their round haunches gored."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, shepherd, if that love or gold Can in this desert place buy entertainment, Bring us where we may rest ourselves and feed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arid land with little or no vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave someone who needs or counts on you; leave in the lurch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet it irks me the poor dappled fools, Being native burghers of this desert city, Should in their own confines with forked heads Have their round haunches gored."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, shepherd, if that love or gold Can in this desert place buy entertainment, Bring us where we may rest ourselves and feed."*

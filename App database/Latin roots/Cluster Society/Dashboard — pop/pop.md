@@ -5,15 +5,6 @@ status: unread
 ---
 # pop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for a father; probably derived from baby talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet drink containing carbonated water and flavoring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For Heaven’s sake, pop thy hands under the pump, Deb!"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And besides the hedges and gravel paths I have a feeling that Dickie's father and the Crag and Sallie's girl-babies are fomenting around in my mind getting ready to pop the cork of an idea soon."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Well, we can pop it, and put it into paper bags, and Bernard can take it round to the houses and sell.” When Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for a father; probably derived from baby talk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet drink containing carbonated water and flavoring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For Heaven’s sake, pop thy hands under the pump, Deb!"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And besides the hedges and gravel paths I have a feeling that Dickie's father and the Crag and Sallie's girl-babies are fomenting around in my mind getting ready to pop the cork of an idea soon."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Well, we can pop it, and put it into paper bags, and Bernard can take it round to the houses and sell.” When Mrs."*

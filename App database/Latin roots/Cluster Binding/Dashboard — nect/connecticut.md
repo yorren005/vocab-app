@@ -5,15 +5,6 @@ status: unread
 ---
 # connecticut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new england state; one of the original 13 colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in the northeastern united states; flows south from northern new hampshire along the border between new hampshire and vermont and through massachusetts and connecticut where it empties into long island sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was brought up religiously as a servant in a family in Connecticut, and from twelve years of age until twenty-three, knew no other home."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The story is told by the Christian woman to whom it happened, in her own language: "About the month of January, 1863, I was living in Connecticut, alone with two little boys, one of them four years old, and the other about a year and a half old."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1910 the plan was adopted in California; and it is largely used in New Jersey, Connecticut, Delaware, and Pennsylvania, and to a small extent in some other states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new england state; one of the original 13 colonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in the northeastern united states; flows south from northern new hampshire along the border between new hampshire and vermont and through massachusetts and connecticut where it empties into long island sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I was brought up religiously as a servant in a family in Connecticut, and from twelve years of age until twenty-three, knew no other home."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The story is told by the Christian woman to whom it happened, in her own language: "About the month of January, 1863, I was living in Connecticut, alone with two little boys, one of them four years old, and the other about a year and a half old."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1910 the plan was adopted in California; and it is largely used in New Jersey, Connecticut, Delaware, and Pennsylvania, and to a small extent in some other states."*

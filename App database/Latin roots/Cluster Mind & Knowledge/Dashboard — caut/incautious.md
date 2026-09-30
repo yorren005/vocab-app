@@ -5,15 +5,6 @@ status: unread
 ---
 # incautious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in caution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carelessly failing to exercise proper caution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those were slow, silent, often turbid; flowing over beds of mud into which the incautious wader might sink and vanish unawares."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are not AT LIBERTY to vest in the executive department permanent funds for the support of an army, if they were even incautious enough to be willing to repose in it so improper a confidence."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Thus the incautious hunter may be brought, on the instant, into full relief, and the quick bound which follows discovery, rob him of the fruit of long crawling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in caution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carelessly failing to exercise proper caution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those were slow, silent, often turbid; flowing over beds of mud into which the incautious wader might sink and vanish unawares."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are not AT LIBERTY to vest in the executive department permanent funds for the support of an army, if they were even incautious enough to be willing to repose in it so improper a confidence."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Thus the incautious hunter may be brought, on the instant, into full relief, and the quick bound which follows discovery, rob him of the fruit of long crawling."*

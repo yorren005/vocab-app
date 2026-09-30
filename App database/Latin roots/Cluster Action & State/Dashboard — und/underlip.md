@@ -5,15 +5,6 @@ status: unread
 ---
 # underlip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower lip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His brows knit together into a wedge-like furrow, and with a twitch of pain he bit his underlip."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His eyes grew strangely bright, and he gnawed nervously at his underlip."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A few minutes later the eldest sister came out with a pale hard face, again biting her underlip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower lip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His brows knit together into a wedge-like furrow, and with a twitch of pain he bit his underlip."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His eyes grew strangely bright, and he gnawed nervously at his underlip."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A few minutes later the eldest sister came out with a pale hard face, again biting her underlip."*

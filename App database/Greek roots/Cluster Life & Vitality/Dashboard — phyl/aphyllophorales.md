@@ -5,13 +5,6 @@ status: unread
 ---
 # aphyllophorales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllophorales designates includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllophorales designates includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales."*

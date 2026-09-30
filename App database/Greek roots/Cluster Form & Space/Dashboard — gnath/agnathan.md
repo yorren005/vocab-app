@@ -5,13 +5,6 @@ status: unread
 ---
 # agnathan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnathan designates eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnathan designates eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms."*

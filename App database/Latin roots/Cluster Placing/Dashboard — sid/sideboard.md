@@ -5,15 +5,6 @@ status: unread
 ---
 # sideboard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A removable board fitted on the side of a wagon to increase its capacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A board that forms part of the side of a bed or crib.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The portraits of ancestors had been taken from the walls and the glinting pewter plates and goblets were gone from the large oaken sideboard."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax was dusting some vases of fine purple spar, which stood on a sideboard."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester had said; they were not seated at table,—the supper was arranged on the sideboard; each had taken what he chose, and they stood about here and there in groups, their plates and glasses in their hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A removable board fitted on the side of a wagon to increase its capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A board that forms part of the side of a bed or crib.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The portraits of ancestors had been taken from the walls and the glinting pewter plates and goblets were gone from the large oaken sideboard."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax was dusting some vases of fine purple spar, which stood on a sideboard."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester had said; they were not seated at table,—the supper was arranged on the sideboard; each had taken what he chose, and they stood about here and there in groups, their plates and glasses in their hands."*

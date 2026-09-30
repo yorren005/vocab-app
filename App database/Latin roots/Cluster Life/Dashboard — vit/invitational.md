@@ -5,13 +5,6 @@ status: unread
 ---
 # invitational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of an invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of an invitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The contrasting colors made the braiding process clearly visible and more understandable. *** I was invited by the Resource Teacher of a local elementary school to participate in their Authors and Illustrators Invitational."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of an invitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of an invitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The contrasting colors made the braiding process clearly visible and more understandable. *** I was invited by the Resource Teacher of a local elementary school to participate in their Authors and Illustrators Invitational."*

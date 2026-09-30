@@ -5,13 +5,6 @@ status: unread
 ---
 # herniation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herniation designates rupture in smooth muscle tissue through which a bodily structure protrudes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rupture in smooth muscle tissue through which a bodily structure protrudes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herniation designates rupture in smooth muscle tissue through which a bodily structure protrudes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # villa-lobos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brazilian composer (1887-1959).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brazilian composer (1887-1959).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villa-lobos designates brazilian composer (1887-1959)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brazilian composer (1887-1959).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brazilian composer (1887-1959).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villa-lobos designates brazilian composer (1887-1959)."*

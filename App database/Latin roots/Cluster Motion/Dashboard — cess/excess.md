@@ -5,15 +5,6 @@ status: unread
 ---
 # excess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity much larger than is needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall worms inheritors of this excess Eat up thy charge? is this thy body’s end?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the living be enemy to the grief, the excess makes it soon mortal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We consider It was excess of wine that set him on, And on his more advice we pardon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity much larger than is needed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall worms inheritors of this excess Eat up thy charge? is this thy body’s end?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the living be enemy to the grief, the excess makes it soon mortal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We consider It was excess of wine that set him on, And on his more advice we pardon him."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rent-roll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A register of rents; includes the names of tenants and the amount of rent they pay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A register of rents; includes the names of tenants and the amount of rent they pay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rent-roll designates a register of rents; includes the names of tenants and the amount of rent they pay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A register of rents; includes the names of tenants and the amount of rent they pay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A register of rents; includes the names of tenants and the amount of rent they pay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rent-roll designates a register of rents; includes the names of tenants and the amount of rent they pay."*

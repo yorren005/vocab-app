@@ -5,15 +5,6 @@ status: unread
 ---
 # roguish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful in an appealingly bold way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking principles or scruples; ;  - w.m. thackaray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s follow the old Earl, and get the bedlam To lead him where he would: his roguish madness Allows itself to anything."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She’s sweeter than the morning dawn, When rising Phoebus first is seen, And dew-drops twinkle o’er the lawn; An’ she has twa sparkling roguish een."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She’s stately like yon youthful ash, That grows the cowslip braes between, And drinks the stream with vigour fresh; An’ she has twa sparkling roguish een."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful in an appealingly bold way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking principles or scruples; ;  - w.m. thackaray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s follow the old Earl, and get the bedlam To lead him where he would: his roguish madness Allows itself to anything."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She’s sweeter than the morning dawn, When rising Phoebus first is seen, And dew-drops twinkle o’er the lawn; An’ she has twa sparkling roguish een."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She’s stately like yon youthful ash, That grows the cowslip braes between, And drinks the stream with vigour fresh; An’ she has twa sparkling roguish een."*

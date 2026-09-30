@@ -5,13 +5,6 @@ status: unread
 ---
 # antilocapra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of the antilocapridae comprising one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of the antilocapridae comprising one species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilocapra designates type and sole genus of the antilocapridae comprising one species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of the antilocapridae comprising one species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of the antilocapridae comprising one species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilocapra designates type and sole genus of the antilocapridae comprising one species."*

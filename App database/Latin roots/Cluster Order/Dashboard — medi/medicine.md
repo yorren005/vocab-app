@@ -5,15 +5,6 @@ status: unread
 ---
 # medicine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branches of medical science that deal with nonsurgical techniques.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) something that treats or prevents or alleviates the symptoms of disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branches of medical science that deal with nonsurgical techniques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) something that treats or prevents or alleviates the symptoms of disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tyrannosaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A massive North American bipedal tyrannosaurid dinosaur (Tyrannosaurus rex) of the late Cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also T. rex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive North American bipedal tyrannosaurid dinosaur (Tyrannosaurus rex) of the late Cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also T. rex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannosaurus designates a massive north american bipedal tyrannosaurid dinosaur (tyrannosaurus rex) of the late cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also t. rex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A massive North American bipedal tyrannosaurid dinosaur (Tyrannosaurus rex) of the late Cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also T. rex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive North American bipedal tyrannosaurid dinosaur (Tyrannosaurus rex) of the late Cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also T. rex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannosaurus designates a massive north american bipedal tyrannosaurid dinosaur (tyrannosaurus rex) of the late cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also t. rex."*

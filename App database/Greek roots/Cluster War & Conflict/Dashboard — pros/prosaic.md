@@ -5,15 +5,6 @@ status: unread
 ---
 # prosaic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fanciful or imaginative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking wit or imagination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Directly the assuring and prosaic light of the world’s active hours had grown strong, she crept from under her hillock of leaves, and looked around boldly."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Last day my mind was in a bog, Down George’s Street I stoited; A creeping cauld prosaic fog My very sense doited."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the prosaic neighborhood of Middlemarch, May was not always warm and sunny, and on this particular morning a chill wind was blowing the blossoms from the surrounding gardens on to the green mounds of Lowick churchyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fanciful or imaginative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking wit or imagination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Directly the assuring and prosaic light of the world’s active hours had grown strong, she crept from under her hillock of leaves, and looked around boldly."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Last day my mind was in a bog, Down George’s Street I stoited; A creeping cauld prosaic fog My very sense doited."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the prosaic neighborhood of Middlemarch, May was not always warm and sunny, and on this particular morning a chill wind was blowing the blossoms from the surrounding gardens on to the green mounds of Lowick churchyard."*

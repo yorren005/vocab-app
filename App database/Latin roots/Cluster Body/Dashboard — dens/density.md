@@ -5,15 +5,6 @@ status: unread
 ---
 # density
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount per unit size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of being crowded together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The air was so thick with the darkness of the day and the density of the fall that we could see but a very little way in any direction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By reason of the density of the interwoven foliage overhead, it was gloomy there at cloudless noontide, twilight in the evening, dark as midnight at dusk, and black as the ninth plague of Egypt at midnight."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Unfortunately, this need grows with the growing density of population."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount per unit size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of being crowded together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The air was so thick with the darkness of the day and the density of the fall that we could see but a very little way in any direction."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By reason of the density of the interwoven foliage overhead, it was gloomy there at cloudless noontide, twilight in the evening, dark as midnight at dusk, and black as the ninth plague of Egypt at midnight."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Unfortunately, this need grows with the growing density of population."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # practical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or manifested in practice or action : not theoretical or ideal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being such in practice or effect : virtual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby I could not expect to be able to reconcile, having so little experience or practical knowledge."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby refers everything not in the practical mysteries of the business to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s suggestion is the practical suggestion after all, and the beadle must be called in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or manifested in practice or action : not theoretical or ideal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being such in practice or effect : virtual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby I could not expect to be able to reconcile, having so little experience or practical knowledge."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby refers everything not in the practical mysteries of the business to Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s suggestion is the practical suggestion after all, and the beadle must be called in."*

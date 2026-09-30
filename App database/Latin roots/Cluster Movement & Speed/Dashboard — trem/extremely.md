@@ -5,15 +5,6 @@ status: unread
 ---
 # extremely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a high degree or extent; favorably or with much respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an extreme degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony, he sweat extremely And something spoke in choler, ill and hasty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my noble lord, It is not for you: I have heard it over, And it is nothing, nothing in the world; Unless you can find sport in their intents, Extremely stretch’d and conn’d with cruel pain To do you service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a high degree or extent; favorably or with much respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an extreme degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony, he sweat extremely And something spoke in choler, ill and hasty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my noble lord, It is not for you: I have heard it over, And it is nothing, nothing in the world; Unless you can find sport in their intents, Extremely stretch’d and conn’d with cruel pain To do you service."*

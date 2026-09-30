@@ -5,15 +5,6 @@ status: unread
 ---
 # anarchist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rebels against any authority, established order, or ruling power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who believes in, advocates, or promotes anarchism or anarchy; especially : one who uses violent means to overthrow the established order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ideal of the anarchist to do without government is nowhere realized."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The professor may be a member of an anarchist league, or something, and this is his punishment for refusing to assassinate the Kaiser." "Have another cup of tea, Tom, and stop talking nonsense." Mr."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The ideal of the anarchist to do without government is nowhere realized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rebels against any authority, established order, or ruling power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who believes in, advocates, or promotes anarchism or anarchy; especially : one who uses violent means to overthrow the established order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ideal of the anarchist to do without government is nowhere realized."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The professor may be a member of an anarchist league, or something, and this is his punishment for refusing to assassinate the Kaiser." "Have another cup of tea, Tom, and stop talking nonsense." Mr."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The ideal of the anarchist to do without government is nowhere realized."*

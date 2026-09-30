@@ -5,13 +5,6 @@ status: unread
 ---
 # meringue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet topping especially for pies made of beaten egg whites and sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet topping especially for pies made of beaten egg whites and sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As a rule I adore scrap suppers after everyone has gone, and the servants have gone to bed, and the guests make sorties into the pantry, and bring out plates of patties and fruit, and derelict meringues, and wobbling halves of jellies and creams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet topping especially for pies made of beaten egg whites and sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet topping especially for pies made of beaten egg whites and sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As a rule I adore scrap suppers after everyone has gone, and the servants have gone to bed, and the guests make sorties into the pantry, and bring out plates of patties and fruit, and derelict meringues, and wobbling halves of jellies and creams."*

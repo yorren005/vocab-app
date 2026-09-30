@@ -5,15 +5,6 @@ status: unread
 ---
 # transcendentalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of philosophy emphasizing the intuitive and spiritual above the empirical and material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any system of philosophy emphasizing the intuitive and spiritual above the empirical and material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Transcendentalism”: Apparent Failure."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Bless us, all the while How sprucely WE are dressed out, you and I!’” we who are so inferior to that divine poet; but, “A second, and the angels alter that.” “Transcendentalism”."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Transcendentalism”: A Poem in Twelve Books. -- * Transcendentalism: a poem in twelve books."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of philosophy emphasizing the intuitive and spiritual above the empirical and material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any system of philosophy emphasizing the intuitive and spiritual above the empirical and material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Transcendentalism”: Apparent Failure."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Bless us, all the while How sprucely WE are dressed out, you and I!’” we who are so inferior to that divine poet; but, “A second, and the angels alter that.” “Transcendentalism”."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Transcendentalism”: A Poem in Twelve Books. -- * Transcendentalism: a poem in twelve books."*

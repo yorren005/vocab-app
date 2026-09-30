@@ -5,15 +5,6 @@ status: unread
 ---
 # raving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaiming wildly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Participate in an all-night techno dance party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The hum of the thresher, which prevented speech, increased to a raving whenever the supply of corn fell short of the regular quantity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ever the cry for water went up, and the place became lunatic with the crying, sobbing, babbling and raving of men in delirium."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He had been shot in the head in the first attack, and all the second day was out of his head and raving and singing doggerel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaiming wildly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Participate in an all-night techno dance party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The hum of the thresher, which prevented speech, increased to a raving whenever the supply of corn fell short of the regular quantity."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ever the cry for water went up, and the place became lunatic with the crying, sobbing, babbling and raving of men in delirium."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He had been shot in the head in the first attack, and all the second day was out of his head and raving and singing doggerel."*

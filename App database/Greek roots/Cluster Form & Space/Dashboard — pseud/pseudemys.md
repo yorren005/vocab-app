@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudemys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sliders; red-bellied terrapin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sliders; red-bellied terrapin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudemys designates sliders; red-bellied terrapin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sliders; red-bellied terrapin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sliders; red-bellied terrapin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudemys designates sliders; red-bellied terrapin."*

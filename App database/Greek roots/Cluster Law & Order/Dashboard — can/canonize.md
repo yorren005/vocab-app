@@ -5,15 +5,6 @@ status: unread
 ---
 # canonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare (a dead person) to be a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat as a sacred person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Why, even the churches that believe in saints don't canonize mortals until they have been a hundred years dead--they want to be sure they are dead and their mortal weaknesses forgotten." Amanda laughed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tilt-yard, and his loves Are brazen images of canonized saints."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare (a dead person) to be a saint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat as a sacred person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Why, even the churches that believe in saints don't canonize mortals until they have been a hundred years dead--they want to be sure they are dead and their mortal weaknesses forgotten." Amanda laughed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tilt-yard, and his loves Are brazen images of canonized saints."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors."*

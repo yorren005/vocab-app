@@ -5,13 +5,6 @@ status: unread
 ---
 # facilitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being made easy (or easier).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (neurophysiology) phenomenon that occurs when two or more neural impulses that alone are not enough to trigger a response in a neuron combine to trigger an action potential.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Whereas from our present _via media_--facilitation of divorce--can only result the era when the young lady in reduced circumstances will no longer turn governess but will be open to engagement as wife at a reasonable stipend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being made easy (or easier).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (neurophysiology) phenomenon that occurs when two or more neural impulses that alone are not enough to trigger a response in a neuron combine to trigger an action potential.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Whereas from our present _via media_--facilitation of divorce--can only result the era when the young lady in reduced circumstances will no longer turn governess but will be open to engagement as wife at a reasonable stipend."*

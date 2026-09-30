@@ -5,13 +5,6 @@ status: unread
 ---
 # nephropsidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications coextensive with the homaridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications coextensive with the homaridae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephropsidae designates in some classifications coextensive with the homaridae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications coextensive with the homaridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications coextensive with the homaridae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephropsidae designates in some classifications coextensive with the homaridae."*

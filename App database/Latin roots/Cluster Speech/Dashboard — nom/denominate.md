@@ -5,15 +5,6 @@ status: unread
 ---
 # denominate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a name or title to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a name or title to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"WE SHOULD BE READY TO DENOMINATE INJURIES THOSE THINGS WHICH WERE IN REALITY THE JUSTIFIABLE ACTS OF INDEPENDENT SOVEREIGNTIES CONSULTING A DISTINCT INTEREST."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Thus it is that they whom we denominate ‘savages’ are made to deserve the title."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Those at the North who still cling to these errors, with a zeal above knowledged, we justly denominate fanatics.*** “In the conflict thus far, success has been, on our side, complete throughout the length and breadth of the Confederate States."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a name or title to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a name or title to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"WE SHOULD BE READY TO DENOMINATE INJURIES THOSE THINGS WHICH WERE IN REALITY THE JUSTIFIABLE ACTS OF INDEPENDENT SOVEREIGNTIES CONSULTING A DISTINCT INTEREST."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Thus it is that they whom we denominate ‘savages’ are made to deserve the title."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Those at the North who still cling to these errors, with a zeal above knowledged, we justly denominate fanatics.*** “In the conflict thus far, success has been, on our side, complete throughout the length and breadth of the Confederate States."*

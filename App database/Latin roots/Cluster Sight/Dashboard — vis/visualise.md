@@ -5,14 +5,6 @@ status: unread
 ---
 # visualise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: View the outline of by means of an x-ray.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a mental picture of something that is invisible or abstract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As usual, the Chinese descriptions are exceedingly difficult to visualise, and in many cases are open to several interpretations, and are not easy to reconcile with established facts."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In view of this the colour of the Yüeh bowls, the blue-green of the hills, is easily visualised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: View the outline of by means of an x-ray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a mental picture of something that is invisible or abstract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As usual, the Chinese descriptions are exceedingly difficult to visualise, and in many cases are open to several interpretations, and are not easy to reconcile with established facts."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In view of this the colour of the Yüeh bowls, the blue-green of the hills, is easily visualised."*

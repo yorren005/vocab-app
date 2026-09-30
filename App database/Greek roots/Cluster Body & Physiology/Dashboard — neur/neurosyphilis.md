@@ -5,13 +5,6 @@ status: unread
 ---
 # neurosyphilis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Syphilis of the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Syphilis of the central nervous system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosyphilis designates syphilis of the central nervous system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Syphilis of the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Syphilis of the central nervous system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosyphilis designates syphilis of the central nervous system."*

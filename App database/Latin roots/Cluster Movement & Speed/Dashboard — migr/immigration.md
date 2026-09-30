@@ -5,15 +5,6 @@ status: unread
 ---
 # immigration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migration into a place (especially migration to a country of which you are not a native in order to settle there).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of immigrants arriving during a specified interval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They have always sold to the immigration before."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Population and immigration PART VI."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These are the superior opportunities which give the economic motives for settlement and for continued immigration from the other lands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migration into a place (especially migration to a country of which you are not a native in order to settle there).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of immigrants arriving during a specified interval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They have always sold to the immigration before."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Population and immigration PART VI."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These are the superior opportunities which give the economic motives for settlement and for continued immigration from the other lands."*

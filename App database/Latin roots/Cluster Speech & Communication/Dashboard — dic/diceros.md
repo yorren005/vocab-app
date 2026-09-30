@@ -5,13 +5,6 @@ status: unread
 ---
 # diceros
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most common species in africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most common species in africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diceros designates most common species in africa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most common species in africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most common species in africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diceros designates most common species in africa."*

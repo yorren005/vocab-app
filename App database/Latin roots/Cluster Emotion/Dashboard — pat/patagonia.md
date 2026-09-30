@@ -5,15 +5,6 @@ status: unread
 ---
 # patagonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Region in southern south america between the andes and the south atlantic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region in southern south america between the andes and the south atlantic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Three of them ran something like the following, but I do not pretend to quote:— SACRED To the Memory OF JOHN TALBOT, Who, at the age of eighteen, was lost overboard, Near the Isle of Desolation, off Patagonia, _November_ 1_st_, 1836."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One magnificent evening, the 30th of July—that is to say, three weeks after our departure—the frigate was abreast of Cape Blanc, thirty miles to leeward of the coast of Patagonia."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Until the 3rd of April we did not quit the shores of Patagonia, sometimes under the ocean, sometimes at the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Region in southern south america between the andes and the south atlantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region in southern south america between the andes and the south atlantic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Three of them ran something like the following, but I do not pretend to quote:— SACRED To the Memory OF JOHN TALBOT, Who, at the age of eighteen, was lost overboard, Near the Isle of Desolation, off Patagonia, _November_ 1_st_, 1836."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One magnificent evening, the 30th of July—that is to say, three weeks after our departure—the frigate was abreast of Cape Blanc, thirty miles to leeward of the coast of Patagonia."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Until the 3rd of April we did not quit the shores of Patagonia, sometimes under the ocean, sometimes at the surface."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # protest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of protesting; a public (often organized) manifestation of dissent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a simple maid, and therein wealthiest That I protest I simply am a maid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This has no holding, To swear by him whom I protest to love That I will work against him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My meaning in’t, I protest, was very honest in the behalf of the maid; for I knew the young count to be a dangerous and lascivious boy, who is a whale to virginity, and devours up all the fry it finds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of protesting; a public (often organized) manifestation of dissent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a simple maid, and therein wealthiest That I protest I simply am a maid."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This has no holding, To swear by him whom I protest to love That I will work against him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My meaning in’t, I protest, was very honest in the behalf of the maid; for I knew the young count to be a dangerous and lascivious boy, who is a whale to virginity, and devours up all the fry it finds."*

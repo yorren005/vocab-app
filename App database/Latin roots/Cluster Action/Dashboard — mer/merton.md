@@ -5,15 +5,6 @@ status: unread
 ---
 # merton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious and writer (1915-1968).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sociologist (1910-2003).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As he thought of Hetty Merton, he began to wonder if the portrait in the locked room had changed."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He was thinking of Hetty Merton."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"But the kind experienc'd Dame Cracks and rejoices in the Flame. _Merton-College, Oxon, in a Window._ _A new Reading about the three Children in the Fiery Furnace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious and writer (1915-1968).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sociologist (1910-2003).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As he thought of Hetty Merton, he began to wonder if the portrait in the locked room had changed."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He was thinking of Hetty Merton."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"But the kind experienc'd Dame Cracks and rejoices in the Flame. _Merton-College, Oxon, in a Window._ _A new Reading about the three Children in the Fiery Furnace."*

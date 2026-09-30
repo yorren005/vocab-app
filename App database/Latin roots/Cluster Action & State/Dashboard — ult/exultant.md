@@ -5,15 +5,6 @@ status: unread
 ---
 # exultant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joyful and proud especially because of triumph or success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Joyful and proud especially because of triumph or success.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They were both earnest, exultant Christians, around whom the angels of God encamped day and night."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Why, of course!” cried Biddy, with an exultant face."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I made my exultant way to the old Battery, and, lying down there to consider the question whether Miss Havisham intended me for Estella, fell asleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joyful and proud especially because of triumph or success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Joyful and proud especially because of triumph or success.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They were both earnest, exultant Christians, around whom the angels of God encamped day and night."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Why, of course!” cried Biddy, with an exultant face."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I made my exultant way to the old Battery, and, lying down there to consider the question whether Miss Havisham intended me for Estella, fell asleep."*

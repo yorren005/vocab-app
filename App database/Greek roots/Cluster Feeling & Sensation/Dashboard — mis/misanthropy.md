@@ -5,15 +5,6 @@ status: unread
 ---
 # misanthropy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred or distrust of humankind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred or distrust of humankind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was no common misanthropy which had shut Captain Nemo and his companions within the _Nautilus_, but a hatred, either monstrous or sublime, which time could never weaken."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had the ordinary temperament of genius, and was a compound of misanthropy, sensibility, and enthusiasm."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There were the two sisters, the bride, and the artist—the latter in one of his customary fits of moody misanthropy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred or distrust of humankind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred or distrust of humankind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was no common misanthropy which had shut Captain Nemo and his companions within the _Nautilus_, but a hatred, either monstrous or sublime, which time could never weaken."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had the ordinary temperament of genius, and was a compound of misanthropy, sensibility, and enthusiasm."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There were the two sisters, the bride, and the artist—the latter in one of his customary fits of moody misanthropy."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lithium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"For instance, I have in one bottle an alcoholic solution of a lithium salt, in another of a barium, in a third of a strontium, and so on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"For instance, I have in one bottle an alcoholic solution of a lithium salt, in another of a barium, in a third of a strontium, and so on."*

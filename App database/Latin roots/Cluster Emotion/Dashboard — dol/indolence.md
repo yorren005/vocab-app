@@ -5,15 +5,6 @@ status: unread
 ---
 # indolence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactivity resulting from a dislike of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from a dislike of work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Eliza generally took no more notice of her sister’s indolence and complaints than if no such murmuring, lounging object had been before her."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"When the first transports of rage which had produced his activity in seeking her were over, he naturally returned to all his former indolence."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Indolence and love of ease; a want of all laudable ambition, of taste for good company, or of inclination to take the trouble of being agreeable, which make men clergymen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactivity resulting from a dislike of work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from a dislike of work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Eliza generally took no more notice of her sister’s indolence and complaints than if no such murmuring, lounging object had been before her."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"When the first transports of rage which had produced his activity in seeking her were over, he naturally returned to all his former indolence."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Indolence and love of ease; a want of all laudable ambition, of taste for good company, or of inclination to take the trouble of being agreeable, which make men clergymen."*

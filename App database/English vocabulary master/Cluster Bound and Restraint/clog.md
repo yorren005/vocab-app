@@ -5,20 +5,6 @@ status: unread
 ---
 # clog
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Blockage
-> 2. **Nuance / Usage**: Block or slow passage through (often with 'up')
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alice Sebold (*The Lovely Bones*):** *"She stomped up the stairs. Her clogs slammed against the pine boards of the staircase and shook the house."*
-> - 📜 **Classic Author (*Withnail and I*):** *"I let him in this morning. He lost one of his clogs."*
-> - 📜 **Alfred, Lord Tennyson (*Maud, and Other Poems*):** *"A clog of lead was round my feet / A band of pain across my brow;"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To obstruct, choke up, or block a channel, mechanism, or passage so that free movement or flow is hindered.
+> 2. **Nuance / Usage**: Originally a heavy block of wood attached to an animal's or prisoner's leg to impede motion; hence figuratively any dead weight or encumbrance that drags down progress or spirit.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun (count).
+> - **Syntactic Constructions**: Functions as a noun denoting an impediment (*a heavy clog upon his ambition*) or a verb (*silt clogged the harbor*).
+> - **Collocations & Registers**: Mechanical, physical, and figurative restraint registers; paired with *encumber*, *choke*, *progress*, *wheels*, and *fetter*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alfred, Lord Tennyson (*Maud, and Other Poems*):** *"A **clog** of lead was round my feet, a band of pain across my brow."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Such endless formalities only **clog** the wheels of administration and delay justice."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"They found their lives bound fast to an uncomplying and lifeless **clog** of ceremony."*

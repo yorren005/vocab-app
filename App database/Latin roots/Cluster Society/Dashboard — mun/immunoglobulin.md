@@ -5,13 +5,6 @@ status: unread
 ---
 # immunoglobulin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of proteins produced in lymph tissue in vertebrates and that function as antibodies in the immune response.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of proteins produced in lymph tissue in vertebrates and that function as antibodies in the immune response.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunoglobulin designates a class of proteins produced in lymph tissue in vertebrates and that function as antibodies in the immune response."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of proteins produced in lymph tissue in vertebrates and that function as antibodies in the immune response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of proteins produced in lymph tissue in vertebrates and that function as antibodies in the immune response.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunoglobulin designates a class of proteins produced in lymph tissue in vertebrates and that function as antibodies in the immune response."*

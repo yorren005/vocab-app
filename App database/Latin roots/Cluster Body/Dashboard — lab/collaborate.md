@@ -5,15 +5,6 @@ status: unread
 ---
 # collaborate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work together on a common enterprise of project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooperate as a traitor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I hoped that, by now, military bases would have been further along in collaborating with adjacent civilian suicide prevention resources and that such teamwork would be reflected in base and community media."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Another instance in which military and civilian resources collaborated and made the system work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work together on a common enterprise of project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooperate as a traitor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I hoped that, by now, military bases would have been further along in collaborating with adjacent civilian suicide prevention resources and that such teamwork would be reflected in base and community media."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Another instance in which military and civilian resources collaborated and made the system work."*

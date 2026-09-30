@@ -5,15 +5,6 @@ status: unread
 ---
 # tendon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord or band of inelastic tissue connecting a muscle with its bony attachment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cord or band of inelastic tissue connecting a muscle with its bony attachment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Every kind of finer tendon and ligament that is in the nature of poultry to possess is developed in these specimens in the singular form of guitar-strings."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is sometimes the custom when fast to a whale more than commonly powerful and alert, to seek to hamstring him, as it were, by sundering or maiming his gigantic tail-tendon."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is sometimes the custom when fast to a whale more than commonly powerful and alert, to seek to hamstring him, as it were, by sundering or maiming his gigantic tail-tendon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord or band of inelastic tissue connecting a muscle with its bony attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cord or band of inelastic tissue connecting a muscle with its bony attachment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Every kind of finer tendon and ligament that is in the nature of poultry to possess is developed in these specimens in the singular form of guitar-strings."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is sometimes the custom when fast to a whale more than commonly powerful and alert, to seek to hamstring him, as it were, by sundering or maiming his gigantic tail-tendon."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is sometimes the custom when fast to a whale more than commonly powerful and alert, to seek to hamstring him, as it were, by sundering or maiming his gigantic tail-tendon."*

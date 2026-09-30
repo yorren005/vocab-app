@@ -5,15 +5,6 @@ status: unread
 ---
 # opossum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small furry australian arboreal marsupials having long usually prehensile tails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal arboreal marsupial having a naked prehensile tail found from southern north america to northern south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There are no wild animals in the strict sense of the term, the chief ones being the wild ordinary tusked hog (Babi-rusa), cassowary, wallaby, tree-kangaroo (Dendrolagus), cuscus, opossum and alligators."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus when a lad has been circumcised and the wound is not yet healed, his mother may not eat opossum, or a certain kind of lizard, or carpet snake, or any kind of fat, for otherwise she would retard the healing of the boy's wound."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Wotjobaluk tribe of Victoria a wizard would sometimes get hold of a man's opossum rug and roast it slowly in the fire, and as he did so the owner of the rug would fall sick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small furry australian arboreal marsupials having long usually prehensile tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal arboreal marsupial having a naked prehensile tail found from southern north america to northern south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There are no wild animals in the strict sense of the term, the chief ones being the wild ordinary tusked hog (Babi-rusa), cassowary, wallaby, tree-kangaroo (Dendrolagus), cuscus, opossum and alligators."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus when a lad has been circumcised and the wound is not yet healed, his mother may not eat opossum, or a certain kind of lizard, or carpet snake, or any kind of fat, for otherwise she would retard the healing of the boy's wound."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Wotjobaluk tribe of Victoria a wizard would sometimes get hold of a man's opossum rug and roast it slowly in the fire, and as he did so the owner of the rug would fall sick."*

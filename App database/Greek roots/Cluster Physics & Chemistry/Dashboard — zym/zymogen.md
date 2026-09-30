@@ -5,13 +5,6 @@ status: unread
 ---
 # zymogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymogen designates an inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymogen designates an inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme."*

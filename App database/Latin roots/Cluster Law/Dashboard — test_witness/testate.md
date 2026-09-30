@@ -5,13 +5,6 @@ status: unread
 ---
 # testate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having made a legally valid will before death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testate designates a person who makes a will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having made a legally valid will before death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testate designates a person who makes a will."*

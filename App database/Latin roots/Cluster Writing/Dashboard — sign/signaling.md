@@ -5,15 +5,6 @@ status: unread
 ---
 # signaling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any nonverbal action or gesture that encodes a message.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Signaling Hodak for minimal repulse and acceleration to increase the drift, Brad ordered all hands immediately into accelo-nets."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A single report of a signaling gun followed, and the troops, who were already spread out on different sides of Moscow, moved into the city through the Tver, Kalúga, and Dorogomílov gates."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Arriving, they see that the space liner is signaling Suzanne and Roger to return."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any nonverbal action or gesture that encodes a message.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Signaling Hodak for minimal repulse and acceleration to increase the drift, Brad ordered all hands immediately into accelo-nets."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A single report of a signaling gun followed, and the troops, who were already spread out on different sides of Moscow, moved into the city through the Tver, Kalúga, and Dorogomílov gates."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Arriving, they see that the space liner is signaling Suzanne and Roger to return."*

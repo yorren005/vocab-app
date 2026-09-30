@@ -5,13 +5,6 @@ status: unread
 ---
 # levulose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple sugar found in honey and in many ripe fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple sugar found in honey and in many ripe fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levulose designates a simple sugar found in honey and in many ripe fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple sugar found in honey and in many ripe fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple sugar found in honey and in many ripe fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levulose designates a simple sugar found in honey and in many ripe fruits."*

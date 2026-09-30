@@ -5,15 +5,6 @@ status: unread
 ---
 # conquering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conquering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put down by force or authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Labienus— This is stiff news—hath with his Parthian force Extended Asia from Euphrates His conquering banner shook from Syria To Lydia and to Ionia, Whilst— ANTONY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s all take hands Till that the conquering wine hath steeped our sense In soft and delicate Lethe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conquering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put down by force or authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Labienus— This is stiff news—hath with his Parthian force Extended Asia from Euphrates His conquering banner shook from Syria To Lydia and to Ionia, Whilst— ANTONY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s all take hands Till that the conquering wine hath steeped our sense In soft and delicate Lethe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."*

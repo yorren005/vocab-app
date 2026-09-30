@@ -5,20 +5,6 @@ status: unread
 ---
 # rush
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Surge
-> 2. **Nuance / Usage**: General haste
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rush withstood the storm*), direct object (*cleaved the rush*), or prepositional anchor (*amidst the rush*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For bloody power to rush upon your peace."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hid in an auger hole, may rush, and seize us?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Quail, rush, conclude, and quell!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Surge
+> 2. **Nuance / Usage**: General haste
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rush withstood the storm*), direct object (*cleaved the rush*), or prepositional anchor (*amidst the rush*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For bloody power to rush upon your peace."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hid in an auger hole, may rush, and seize us?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Quail, rush, conclude, and quell!"*

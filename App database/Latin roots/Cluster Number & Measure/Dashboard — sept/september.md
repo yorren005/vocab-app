@@ -5,15 +5,6 @@ status: unread
 ---
 # september
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following august and preceding october.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month following august and preceding october.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never entered Kellynch since her quitting Lady Russell’s house in September."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At this time—the July preceding the September in which we find at Greenhill Fair—he fell in with a travelling circus which was performing in the outskirts of a northern town."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This had gone on for a month or two when there came a Saturday in September, on which a fair and a market coincided; and the pilgrims from Trantridge sought double delights at the inns on that account."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following august and preceding october.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month following august and preceding october.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never entered Kellynch since her quitting Lady Russell’s house in September."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At this time—the July preceding the September in which we find at Greenhill Fair—he fell in with a travelling circus which was performing in the outskirts of a northern town."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This had gone on for a month or two when there came a Saturday in September, on which a fair and a market coincided; and the pilgrims from Trantridge sought double delights at the inns on that account."*

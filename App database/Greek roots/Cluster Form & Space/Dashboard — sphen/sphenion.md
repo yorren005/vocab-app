@@ -5,13 +5,6 @@ status: unread
 ---
 # sphenion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior tip of the parietal bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior tip of the parietal bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenion designates the anterior tip of the parietal bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior tip of the parietal bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior tip of the parietal bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenion designates the anterior tip of the parietal bone."*

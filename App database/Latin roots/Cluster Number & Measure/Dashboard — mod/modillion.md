@@ -5,13 +5,6 @@ status: unread
 ---
 # modillion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (architecture) one of a set of ornamental brackets under a cornice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) one of a set of ornamental brackets under a cornice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modillion designates (architecture) one of a set of ornamental brackets under a cornice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (architecture) one of a set of ornamental brackets under a cornice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) one of a set of ornamental brackets under a cornice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modillion designates (architecture) one of a set of ornamental brackets under a cornice."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vali
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) one of the aesir and avenger of balder; son of odin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) one of the aesir and avenger of balder; son of odin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"There was also a man with Vali."*
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"His farm was named Vali's stead, and it stood on the way to Hrutafiord."*
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"So Vali went with them and they came to Muli where Bersi was and many men with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) one of the aesir and avenger of balder; son of odin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) one of the aesir and avenger of balder; son of odin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"There was also a man with Vali."*
+> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"His farm was named Vali's stead, and it stood on the way to Hrutafiord."*
+> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"So Vali went with them and they came to Muli where Bersi was and many men with him."*

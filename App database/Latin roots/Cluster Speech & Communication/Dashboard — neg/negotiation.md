@@ -5,15 +5,6 @@ status: unread
 ---
 # negotiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussion intended to produce an agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity or business of negotiating an agreement; coming to terms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook is at home, as in that case they may complete the negotiation without delay."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether there are two people in England less likely to come satisfactorily out of any negotiation with Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Skiffins’s brother conducted the negotiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussion intended to produce an agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity or business of negotiating an agreement; coming to terms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook is at home, as in that case they may complete the negotiation without delay."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whether there are two people in England less likely to come satisfactorily out of any negotiation with Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Skiffins’s brother conducted the negotiation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # motacillidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pipits and wagtails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pipits and wagtails.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motacillidae designates pipits and wagtails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pipits and wagtails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pipits and wagtails.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motacillidae designates pipits and wagtails."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # traduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak unfavorably about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak unfavorably about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I am Traduced by ignorant tongues, which neither know My faculties nor person, yet will be The chronicles of my doing, let me say ’Tis but the fate of place, and the rough brake That virtue must go through."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They have been dispossessed of their hereditary possessions by mercenary and frequently wanton warfare, and their characters have been traduced by bigoted and interested writers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak unfavorably about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak unfavorably about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I am Traduced by ignorant tongues, which neither know My faculties nor person, yet will be The chronicles of my doing, let me say ’Tis but the fate of place, and the rough brake That virtue must go through."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They have been dispossessed of their hereditary possessions by mercenary and frequently wanton warfare, and their characters have been traduced by bigoted and interested writers."*

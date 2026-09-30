@@ -5,15 +5,6 @@ status: unread
 ---
 # affixed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attach to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add to the very end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We’ll try this, and if it doesn’t do we’ll have another.” A large red seal was duly affixed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In all innocence before his palace he had affixed two shields with votive inscriptions."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In Hebrew, Greek, and Latin he had a writing affixed to Jesus’ cross which read, “The King of the Jews.” In vain the priests complained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attach to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add to the very end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We’ll try this, and if it doesn’t do we’ll have another.” A large red seal was duly affixed."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In all innocence before his palace he had affixed two shields with votive inscriptions."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In Hebrew, Greek, and Latin he had a writing affixed to Jesus’ cross which read, “The King of the Jews.” In vain the priests complained."*

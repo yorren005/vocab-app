@@ -5,15 +5,6 @@ status: unread
 ---
 # absentee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that is absent or not in residence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is absent or not in residence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Agricultural land in the hands of absentee landlords yields an income not very clearly due to social service, and this phase of property has been especially assailed during the past century."*
-> - 📜 **James Joyce (*Ulysses*):** *"Never about the runaway wife coming back, however much devoted to the absentee."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Also, after a year’s absence one of the five hundred thousand she will straightway recognize the returned absentee and grace the recognition with an affectionate welcome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One that is absent or not in residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is absent or not in residence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Agricultural land in the hands of absentee landlords yields an income not very clearly due to social service, and this phase of property has been especially assailed during the past century."*
+> - 📜 **James Joyce (*Ulysses*):** *"Never about the runaway wife coming back, however much devoted to the absentee."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Also, after a year’s absence one of the five hundred thousand she will straightway recognize the returned absentee and grace the recognition with an affectionate welcome."*

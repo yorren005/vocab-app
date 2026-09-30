@@ -5,13 +5,6 @@ status: unread
 ---
 # didanosine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiviral drug used to combat hiv infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral drug used to combat hiv infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didanosine designates an antiviral drug used to combat hiv infection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiviral drug used to combat hiv infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral drug used to combat hiv infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didanosine designates an antiviral drug used to combat hiv infection."*

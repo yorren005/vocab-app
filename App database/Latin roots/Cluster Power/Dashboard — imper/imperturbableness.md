@@ -5,13 +5,6 @@ status: unread
 ---
 # imperturbableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm and unruffled self-assurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm and unruffled self-assurance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperturbableness designates calm and unruffled self-assurance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm and unruffled self-assurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm and unruffled self-assurance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperturbableness designates calm and unruffled self-assurance."*

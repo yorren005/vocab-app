@@ -5,13 +5,6 @@ status: unread
 ---
 # lithotripsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithotripsy designates the breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithotripsy designates the breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out."*

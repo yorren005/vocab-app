@@ -5,15 +5,6 @@ status: unread
 ---
 # stagnation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of inactivity (in business or art etc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity of liquids; being stagnant; standing still; without current or circulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mentally she remained in utter stagnation, a condition which the mechanical occupation rather fostered than checked."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To pass its threshold was to return to stagnation; to cross the silent hall, to ascend the darksome staircase, to seek my own lonely little room, and then to meet tranquil Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of inactivity (in business or art etc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity of liquids; being stagnant; standing still; without current or circulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mentally she remained in utter stagnation, a condition which the mechanical occupation rather fostered than checked."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To pass its threshold was to return to stagnation; to cross the silent hall, to ascend the darksome staircase, to seek my own lonely little room, and then to meet tranquil Mrs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amygdala
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdala designates the one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdala designates the one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus."*

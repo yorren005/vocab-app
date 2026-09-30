@@ -5,13 +5,6 @@ status: unread
 ---
 # undogmatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to accept authority or dogma (especially in religion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to accept authority or dogma (especially in religion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undogmatic designates unwilling to accept authority or dogma (especially in religion)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to accept authority or dogma (especially in religion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to accept authority or dogma (especially in religion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undogmatic designates unwilling to accept authority or dogma (especially in religion)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One and the same : similar : alike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Homosexual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Example: The selfishness of Achilles, as remarked by the poet Homer, occasioned a thousand woes to the Greeks--muri Achaiois alge etheke--(Hom."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Lindsay Gordon._) Well, Douglas, I'm sorry you've got to be homing, Though I grant it's unwise to continue your roaming, But the evening's to spare ere you drop me astern, So come up to my room and indulge in a yarn."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If she had been defending a homing dove, she could not have been more outraged, more aflame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One and the same : similar : alike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Homosexual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Example: The selfishness of Achilles, as remarked by the poet Homer, occasioned a thousand woes to the Greeks--muri Achaiois alge etheke--(Hom."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Lindsay Gordon._) Well, Douglas, I'm sorry you've got to be homing, Though I grant it's unwise to continue your roaming, But the evening's to spare ere you drop me astern, So come up to my room and indulge in a yarn."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If she had been defending a homing dove, she could not have been more outraged, more aflame."*

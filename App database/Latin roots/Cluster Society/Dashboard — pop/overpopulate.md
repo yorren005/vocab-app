@@ -5,13 +5,6 @@ status: unread
 ---
 # overpopulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to have too great a population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to have too great a population.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Umney fainted. ‘What a monstrous climate!’ said the American Minister calmly, as he lit a long cheroot. ‘I guess the old country is so overpopulated that they have not enough decent weather for everybody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to have too great a population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to have too great a population.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Umney fainted. ‘What a monstrous climate!’ said the American Minister calmly, as he lit a long cheroot. ‘I guess the old country is so overpopulated that they have not enough decent weather for everybody."*

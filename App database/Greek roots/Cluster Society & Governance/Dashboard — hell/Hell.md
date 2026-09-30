@@ -5,15 +5,6 @@ status: unread
 ---
 # hell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of pain and turmoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cause of difficulty and suffering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of pain and turmoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cause of difficulty and suffering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*

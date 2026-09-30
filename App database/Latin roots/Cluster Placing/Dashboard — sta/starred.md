@@ -5,15 +5,6 @@ status: unread
 ---
 # starred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feature as the star.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be the star in a performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and proceeds to make that ill-starred stationer, already sufficiently confused, the immediate recipient of his discourse."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The starred and stately nights seemed haughty dames in jewelled velvets, nursing at home in lonely pride, the memory of their absent conquering Earls, the golden helmeted suns!"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feature as the star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be the star in a performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and proceeds to make that ill-starred stationer, already sufficiently confused, the immediate recipient of his discourse."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The starred and stately nights seemed haughty dames in jewelled velvets, nursing at home in lonely pride, the memory of their absent conquering Earls, the golden helmeted suns!"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St."*

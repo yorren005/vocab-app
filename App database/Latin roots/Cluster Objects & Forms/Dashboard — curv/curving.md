@@ -5,15 +5,6 @@ status: unread
 ---
 # curving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn sharply; change direction abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend in curves and turns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The long rows of teeth on the bulwarks glistened in the moonlight; and like the white ivory tusks of some huge elephant, vast curving icicles depended from the bows."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver-beaters could have furnished him."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A faint smile curving that sullen mouth was all the echo she could win."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn sharply; change direction abruptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend in curves and turns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The long rows of teeth on the bulwarks glistened in the moonlight; and like the white ivory tusks of some huge elephant, vast curving icicles depended from the bows."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver-beaters could have furnished him."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A faint smile curving that sullen mouth was all the echo she could win."*

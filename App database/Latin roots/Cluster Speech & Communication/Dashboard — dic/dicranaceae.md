@@ -5,13 +5,6 @@ status: unread
 ---
 # dicranaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mosses having costate leaves and long-stalked capsules with cleft peristome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mosses having costate leaves and long-stalked capsules with cleft peristome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicranaceae designates mosses having costate leaves and long-stalked capsules with cleft peristome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mosses having costate leaves and long-stalked capsules with cleft peristome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mosses having costate leaves and long-stalked capsules with cleft peristome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicranaceae designates mosses having costate leaves and long-stalked capsules with cleft peristome."*

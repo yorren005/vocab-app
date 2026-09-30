@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperactivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by excessive restlessness and movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition characterized by excessive restlessness and movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperactivity designates a condition characterized by excessive restlessness and movement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by excessive restlessness and movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition characterized by excessive restlessness and movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperactivity designates a condition characterized by excessive restlessness and movement."*

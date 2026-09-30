@@ -5,14 +5,6 @@ status: unread
 ---
 # belladonna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial eurasian herb with reddish bell-shaped flowers and shining black berries; extensively grown in united states; roots and leaves yield atropine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloidal extract or tincture of the poisonous belladonna plant that is used medicinally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It is so melodious and full. _Belladonna."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Madame de Belladonna made him a scene about you and fired off in one of her furies." "Oh, it was Madame de Belladonna, was it?" Becky said, relieved a little, for the information she had just got had scared her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial eurasian herb with reddish bell-shaped flowers and shining black berries; extensively grown in united states; roots and leaves yield atropine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloidal extract or tincture of the poisonous belladonna plant that is used medicinally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It is so melodious and full. _Belladonna."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Madame de Belladonna made him a scene about you and fired off in one of her furies." "Oh, it was Madame de Belladonna, was it?" Becky said, relieved a little, for the information she had just got had scared her."*

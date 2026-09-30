@@ -5,15 +5,6 @@ status: unread
 ---
 # cordage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of wood in an area as measured in cords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ropes in the rigging of a ship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sea was heaving under a thick white fog; and nothing else was moving but a few early ropemakers, who, with the yarn twisted round their bodies, looked as if, tired of their present state of existence, they were spinning themselves into cordage."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The _whap-whap-whap_ of the cordage...."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The night had been calm, a 'gossamer night,' as the gipsy folk call it, and from hedge to hemlock, and from lowly bracken to tall Queen o' the Meadow, the silver threads were stretched taut like the cordage of some sea-going ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of wood in an area as measured in cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ropes in the rigging of a ship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sea was heaving under a thick white fog; and nothing else was moving but a few early ropemakers, who, with the yarn twisted round their bodies, looked as if, tired of their present state of existence, they were spinning themselves into cordage."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The _whap-whap-whap_ of the cordage...."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The night had been calm, a 'gossamer night,' as the gipsy folk call it, and from hedge to hemlock, and from lowly bracken to tall Queen o' the Meadow, the silver threads were stretched taut like the cordage of some sea-going ship."*

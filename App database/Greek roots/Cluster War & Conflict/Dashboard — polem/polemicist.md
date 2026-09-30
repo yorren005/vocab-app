@@ -5,13 +5,6 @@ status: unread
 ---
 # polemicist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggressive attack on or refutation of the opinions or principles of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or practice of disputation or controversy —usually used in plural but singular or plural in construction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemicist designates an aggressive attack on or refutation of the opinions or principles of another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggressive attack on or refutation of the opinions or principles of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or practice of disputation or controversy —usually used in plural but singular or plural in construction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemicist designates an aggressive attack on or refutation of the opinions or principles of another."*

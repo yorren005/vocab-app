@@ -5,15 +5,6 @@ status: unread
 ---
 # embellish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s place in the meantime, though pearl necklaces and rouge pots, however calculated to embellish Bath, are but indifferent comforts to the invalid under present circumstances."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"In the midst of these properties, recognized as the international endowments of the Faith, is situated the most holy court, an enclosure comprising gardens and terraces which at once embellish, and lend a peculiar charm to, these sacred precincts."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"She has made no effort to embellish, elaborate, or treat in full detail so in- x:15 finite a theme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s place in the meantime, though pearl necklaces and rouge pots, however calculated to embellish Bath, are but indifferent comforts to the invalid under present circumstances."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"In the midst of these properties, recognized as the international endowments of the Faith, is situated the most holy court, an enclosure comprising gardens and terraces which at once embellish, and lend a peculiar charm to, these sacred precincts."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"She has made no effort to embellish, elaborate, or treat in full detail so in- x:15 finite a theme."*

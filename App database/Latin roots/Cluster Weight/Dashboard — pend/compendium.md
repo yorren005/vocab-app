@@ -5,15 +5,6 @@ status: unread
 ---
 # compendium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A publication containing a variety of works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise but comprehensive summary of a larger work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Maclean's _Compendium of Kafir Laws and Customs_; Cape Town, 1866, p. 98)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Maclean's _Compendium of Kafir Laws and Customs_ (Cape Town, 1866), p. 93; Rev."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Collected from the scattered pages of ninety royal octavo volumes of Congressional Record they would present an invaluable compendium of the political history of the most important era through which the national government has ever passed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A publication containing a variety of works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise but comprehensive summary of a larger work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Maclean's _Compendium of Kafir Laws and Customs_; Cape Town, 1866, p. 98)."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Maclean's _Compendium of Kafir Laws and Customs_ (Cape Town, 1866), p. 93; Rev."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Collected from the scattered pages of ninety royal octavo volumes of Congressional Record they would present an invaluable compendium of the political history of the most important era through which the national government has ever passed."*

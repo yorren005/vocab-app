@@ -5,13 +5,6 @@ status: unread
 ---
 # paleontology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the life of past geologic periods as known from fossil remains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science dealing with the life of past geologic periods as known from fossil remains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleontology designates a science dealing with the life of past geologic periods as known from fossil remains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the life of past geologic periods as known from fossil remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science dealing with the life of past geologic periods as known from fossil remains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleontology designates a science dealing with the life of past geologic periods as known from fossil remains."*

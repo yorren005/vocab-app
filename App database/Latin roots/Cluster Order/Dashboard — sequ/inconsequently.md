@@ -5,14 +5,6 @@ status: unread
 ---
 # inconsequently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking consequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking consequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"How do you communicate?” “I tell the bailiff. _He_ writes.” “And should you like him to write our story?” My question had a sarcastic force that I had not fully intended, and it made her, after a moment, inconsequently break down."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Betsey said inconsequently that it was a pity she did not have that black silk gown that would stand alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking consequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"How do you communicate?” “I tell the bailiff. _He_ writes.” “And should you like him to write our story?” My question had a sarcastic force that I had not fully intended, and it made her, after a moment, inconsequently break down."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Betsey said inconsequently that it was a pity she did not have that black silk gown that would stand alone."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # komorebi
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sunlight filtering through the leaves and branches of trees (木漏れ日).
-> 2. **Nuance / Usage**: An aesthetic concept referring to the transient, dappled patterns of light and shadow created when sunshine penetrates a leafy forest canopy.
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the komorebi withstood the storm*), direct object (*cleaved the komorebi*), or prepositional anchor (*amidst the komorebi*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isamu J. Yoshida (*Komorebi: The Light Between Leaves*):** *"Komorebi describes the interplay of light and leaves when sunlight filters through the trees—a fleeting reminder of nature’s quiet grace."*
-> - 📜 **Héctor García & Francesc Miralles (*A Geek in Japan*):** *"The Japanese have an evocative word for sunlight filtering through the canopy of trees: komorebi. It captures the ephemeral beauty of an unrepeatable moment."*
-> - 📜 **Wim Wenders (*Perfect Days*):** *"Komorebi is the Japanese word for the shimmering of light and shadows that is only produced by leaves fluttering in the wind. It only exists once, at that particular moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sunlight filtering through the leaves and branches of trees (木漏れ日).
+> 2. **Nuance / Usage**: An aesthetic concept referring to the transient, dappled patterns of light and shadow created when sunshine penetrates a leafy forest canopy.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the komorebi withstood the storm*), direct object (*cleaved the komorebi*), or prepositional anchor (*amidst the komorebi*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isamu J. Yoshida (*Komorebi: The Light Between Leaves*):** *"Komorebi describes the interplay of light and leaves when sunlight filters through the trees—a fleeting reminder of nature’s quiet grace."*
+> - 📜 **Héctor García & Francesc Miralles (*A Geek in Japan*):** *"The Japanese have an evocative word for sunlight filtering through the canopy of trees: komorebi. It captures the ephemeral beauty of an unrepeatable moment."*
+> - 📜 **Wim Wenders (*Perfect Days*):** *"Komorebi is the Japanese word for the shimmering of light and shadows that is only produced by leaves fluttering in the wind. It only exists once, at that particular moment."*

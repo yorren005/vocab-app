@@ -5,15 +5,6 @@ status: unread
 ---
 # impiety
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrighteousness by virtue of lacking respect for a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrighteousness by virtue of lacking respect for a god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To keep that oath were more impiety Than Jephthah’s when he sacrificed his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impiety has made a feast of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fare thee well, most foul, most fair! farewell, Thou pure impiety, and impious purity!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrighteousness by virtue of lacking respect for a god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrighteousness by virtue of lacking respect for a god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To keep that oath were more impiety Than Jephthah’s when he sacrificed his daughter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impiety has made a feast of thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fare thee well, most foul, most fair! farewell, Thou pure impiety, and impious purity!"*

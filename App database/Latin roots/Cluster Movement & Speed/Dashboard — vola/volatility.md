@@ -5,14 +5,6 @@ status: unread
 ---
 # volatility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of changing readily from a solid or liquid to a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unpredictably irresolute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Our importance, our respectability in the world, must be affected by the wild volatility, the assurance and disdain of all restraint which mark Lydia’s character."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It articulates everywhere the spiritual, so to speak--makes it healthy and robust, and protects it against volatility and from running into mysticism. 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of changing readily from a solid or liquid to a vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unpredictably irresolute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Our importance, our respectability in the world, must be affected by the wild volatility, the assurance and disdain of all restraint which mark Lydia’s character."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It articulates everywhere the spiritual, so to speak--makes it healthy and robust, and protects it against volatility and from running into mysticism. 2."*

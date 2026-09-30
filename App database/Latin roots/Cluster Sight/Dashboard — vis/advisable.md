@@ -5,15 +5,6 @@ status: unread
 ---
 # advisable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of being recommended or suggested; prudent or wise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being recommended or suggested; prudent or wise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and had expired, and he still continued to assure Ada and me in the same final manner that it was “all right,” it became advisable to take Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, being in this singular manner heard out, has merely to observe that the letter must be attended to without any delay, that it is advisable that George and he should immediately wait on Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed if he thought it advisable, deprived us of any merit in quite understanding him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of being recommended or suggested; prudent or wise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being recommended or suggested; prudent or wise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and had expired, and he still continued to assure Ada and me in the same final manner that it was “all right,” it became advisable to take Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, being in this singular manner heard out, has merely to observe that the letter must be attended to without any delay, that it is advisable that George and he should immediately wait on Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed if he thought it advisable, deprived us of any merit in quite understanding him."*

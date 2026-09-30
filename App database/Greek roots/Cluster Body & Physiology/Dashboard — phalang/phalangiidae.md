@@ -5,13 +5,6 @@ status: unread
 ---
 # phalangiidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of phalangida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of phalangida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangiidae designates a family of phalangida."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of phalangida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of phalangida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangiidae designates a family of phalangida."*

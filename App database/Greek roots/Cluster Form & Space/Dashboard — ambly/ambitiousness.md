@@ -5,13 +5,6 @@ status: unread
 ---
 # ambitiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong drive for success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambitiousness designates a strong drive for success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong drive for success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambitiousness designates a strong drive for success."*

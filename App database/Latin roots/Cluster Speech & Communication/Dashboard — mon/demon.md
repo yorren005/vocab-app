@@ -5,15 +5,6 @@ status: unread
 ---
 # demon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil supernatural being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cruel wicked and inhuman person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester receives the gout as a troublesome demon, but still a demon of the patrician order."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"While the dogs are yet barking and howling—there is one dog howling like a demon—the church-clocks, as if they were startled too, begin to strike."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket has a matter of this pressing interest under his consideration, the fat forefinger seems to rise, to the dignity of a familiar demon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil supernatural being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cruel wicked and inhuman person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester receives the gout as a troublesome demon, but still a demon of the patrician order."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"While the dogs are yet barking and howling—there is one dog howling like a demon—the church-clocks, as if they were startled too, begin to strike."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket has a matter of this pressing interest under his consideration, the fat forefinger seems to rise, to the dignity of a familiar demon."*

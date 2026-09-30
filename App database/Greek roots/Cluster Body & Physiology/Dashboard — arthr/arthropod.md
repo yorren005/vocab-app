@@ -5,13 +5,6 @@ status: unread
 ---
 # arthropod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a phylum (Arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropod designates any of a phylum (arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a phylum (Arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropod designates any of a phylum (arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # patristic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the writings of the early church fathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the writings of the early church fathers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"All this time he was pursuing his Patristic and other historical studies with unflagging vigour, always writing new lectures, always maintaining his love of abstract knowledge and his eager desire to add to his already vast stores of learning."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Probably he went to sleep over his Church Times, or else buried himself in some venerable volume of patristic literature and forgot about her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the writings of the early church fathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the writings of the early church fathers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"All this time he was pursuing his Patristic and other historical studies with unflagging vigour, always writing new lectures, always maintaining his love of abstract knowledge and his eager desire to add to his already vast stores of learning."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Probably he went to sleep over his Church Times, or else buried himself in some venerable volume of patristic literature and forgot about her."*

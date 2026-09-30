@@ -5,15 +5,6 @@ status: unread
 ---
 # cater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give what is desired or needed, especially support, food or sustenance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply food ready to eat; for parties and banquets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His master and he (saving your worship’s reverence) are scarce cater-cousins."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The diet for the men was changed three times a day; and it was her aim to cater as far as possible to the appetites of individual men."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At short intervals on the road were tea-houses and restaurants of the simpler sort especially planned to cater to the coolie class, but they were often not unattractive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give what is desired or needed, especially support, food or sustenance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply food ready to eat; for parties and banquets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His master and he (saving your worship’s reverence) are scarce cater-cousins."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The diet for the men was changed three times a day; and it was her aim to cater as far as possible to the appetites of individual men."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At short intervals on the road were tea-houses and restaurants of the simpler sort especially planned to cater to the coolie class, but they were often not unattractive."*

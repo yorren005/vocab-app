@@ -5,13 +5,6 @@ status: unread
 ---
 # suprainfection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secondary infection caused by an opportunistic infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secondary infection caused by an opportunistic infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suprainfection designates secondary infection caused by an opportunistic infection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secondary infection caused by an opportunistic infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secondary infection caused by an opportunistic infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suprainfection designates secondary infection caused by an opportunistic infection."*

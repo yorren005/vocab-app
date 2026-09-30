@@ -5,15 +5,6 @@ status: unread
 ---
 # lexicon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing an alphabetical arrangement of the words in a language and their definitions : dictionary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vocabulary of a language, an individual speaker or group of speakers, or a subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had compiled a Greek Lexicon which had some repute in its day, but he was not an inspiring teacher, and his gruff manners made him far from popular."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A Latin lexicon he did not possess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing an alphabetical arrangement of the words in a language and their definitions : dictionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vocabulary of a language, an individual speaker or group of speakers, or a subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had compiled a Greek Lexicon which had some repute in its day, but he was not an inspiring teacher, and his gruff manners made him far from popular."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"A Latin lexicon he did not possess."*

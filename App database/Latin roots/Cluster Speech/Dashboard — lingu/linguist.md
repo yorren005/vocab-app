@@ -5,15 +5,6 @@ status: unread
 ---
 # linguist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in linguistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks more than one language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your devoted friend, sir, the manifold linguist, and the armipotent soldier."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Goethe said that he was a ‘seeing’ man; W. von Humboldt, the great linguist, that he was a ‘listening’ man."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Living as he now lived was like reading a good book in a poor translation--a meagre entertainment for a young man who felt that he might have been an excellent linguist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in linguistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks more than one language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your devoted friend, sir, the manifold linguist, and the armipotent soldier."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Goethe said that he was a ‘seeing’ man; W. von Humboldt, the great linguist, that he was a ‘listening’ man."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Living as he now lived was like reading a good book in a poor translation--a meagre entertainment for a young man who felt that he might have been an excellent linguist."*

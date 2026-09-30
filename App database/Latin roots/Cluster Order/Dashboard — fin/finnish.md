@@ -5,15 +5,6 @@ status: unread
 ---
 # finnish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The official language of finland; belongs to the baltic finnic family of languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of finland or the people of finland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the Finnish war he also managed to distinguish himself."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Just as he had done after Austerlitz, he related this occurrence at such length and so insistently that everyone again believed it had been necessary to do this, and he received two decorations for the Finnish war also."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Finnish wizards used to sell wind to storm-stayed mariners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official language of finland; belongs to the baltic finnic family of languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of finland or the people of finland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the Finnish war he also managed to distinguish himself."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Just as he had done after Austerlitz, he related this occurrence at such length and so insistently that everyone again believed it had been necessary to do this, and he received two decorations for the Finnish war also."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Finnish wizards used to sell wind to storm-stayed mariners."*

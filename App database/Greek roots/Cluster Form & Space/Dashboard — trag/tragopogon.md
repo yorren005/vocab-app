@@ -5,13 +5,6 @@ status: unread
 ---
 # tragopogon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world herbs with linear entire leaves and yellow or purple flower heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world herbs with linear entire leaves and yellow or purple flower heads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We must reckon by millions, and our figures and faculties fail in appreciating the myriads of spores which compose the orange dust produced upon one infected cluster of plants of _Tragopogon_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world herbs with linear entire leaves and yellow or purple flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world herbs with linear entire leaves and yellow or purple flower heads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We must reckon by millions, and our figures and faculties fail in appreciating the myriads of spores which compose the orange dust produced upon one infected cluster of plants of _Tragopogon_."*

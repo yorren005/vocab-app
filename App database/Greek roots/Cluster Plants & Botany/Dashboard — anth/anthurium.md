@@ -5,13 +5,6 @@ status: unread
 ---
 # anthurium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthurium designates any of a genus (anthurium) of tropical american plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthurium designates any of a genus (anthurium) of tropical american plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # meditation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) contemplation of spiritual matters (usually on religious or philosophical subjects).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O fearful meditation, where alack, Shall Time’s best jewel from Time’s chest lie hid?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste me to know’t, that I, with wings as swift As meditation or the thoughts of love May sweep to my revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Close up his eyes, and draw the curtain close, And let us all to meditation. [_Exeunt._] ACT IV SCENE I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) contemplation of spiritual matters (usually on religious or philosophical subjects).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O fearful meditation, where alack, Shall Time’s best jewel from Time’s chest lie hid?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste me to know’t, that I, with wings as swift As meditation or the thoughts of love May sweep to my revenge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Close up his eyes, and draw the curtain close, And let us all to meditation. [_Exeunt._] ACT IV SCENE I."*

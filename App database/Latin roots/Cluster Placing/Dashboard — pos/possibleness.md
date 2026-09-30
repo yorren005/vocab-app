@@ -5,13 +5,6 @@ status: unread
 ---
 # possibleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of existing or happening or being true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of existing or happening or being true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, possibleness designates capability of existing or happening or being true."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of existing or happening or being true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of existing or happening or being true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, possibleness designates capability of existing or happening or being true."*

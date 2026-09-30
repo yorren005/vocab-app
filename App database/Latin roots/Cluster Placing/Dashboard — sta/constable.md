@@ -5,15 +5,6 @@ status: unread
 ---
 # constable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lawman with less authority and jurisdiction than a sheriff.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English landscape painter (1776-1837).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From below your duke to beneath your constable, it will fit any question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the French King, the Dauphin, the Dukes of Berry and Brittany, the Constable and others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, ’tis not so, my Lord High Constable; But though we think it so, it is no matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lawman with less authority and jurisdiction than a sheriff.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English landscape painter (1776-1837).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From below your duke to beneath your constable, it will fit any question."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the French King, the Dauphin, the Dukes of Berry and Brittany, the Constable and others."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, ’tis not so, my Lord High Constable; But though we think it so, it is no matter."*

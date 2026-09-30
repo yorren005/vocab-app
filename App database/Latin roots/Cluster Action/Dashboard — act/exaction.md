@@ -5,15 +5,6 @@ status: unread
 ---
 # exaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of demanding or levying by force or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of demanding or levying by force or authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In what kind, let’s know, Is this exaction?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, tell me this, If he should break his day, what should I gain By the exaction of the forfeiture?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All was, alas, worse than vanity—injustice, punishment, exaction, death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of demanding or levying by force or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of demanding or levying by force or authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In what kind, let’s know, Is this exaction?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, tell me this, If he should break his day, what should I gain By the exaction of the forfeiture?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All was, alas, worse than vanity—injustice, punishment, exaction, death."*

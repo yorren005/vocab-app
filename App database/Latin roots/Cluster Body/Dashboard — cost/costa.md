@@ -5,15 +5,6 @@ status: unread
 ---
 # costa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gabb, "On the Indian Tribes and Languages of Costa Rica," _Proceedings of the American Philosophical Society held at Philadelphia_, xiv. (Philadelphia, 1876), p. 510. [61] L."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus the Indians of Costa Rica hold that there are two kinds of ceremonial uncleanness, _nya_ and _bu-ku-rú_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gabb, "On the Indian Tribes and Languages of Costa Rica," _Proceedings of the American Philosophical Society held at Philadelphia_, xiv. (Philadelphia, 1876) pp. 504 _sq._ [156] J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gabb, "On the Indian Tribes and Languages of Costa Rica," _Proceedings of the American Philosophical Society held at Philadelphia_, xiv. (Philadelphia, 1876), p. 510. [61] L."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus the Indians of Costa Rica hold that there are two kinds of ceremonial uncleanness, _nya_ and _bu-ku-rú_."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gabb, "On the Indian Tribes and Languages of Costa Rica," _Proceedings of the American Philosophical Society held at Philadelphia_, xiv. (Philadelphia, 1876) pp. 504 _sq._ [156] J."*

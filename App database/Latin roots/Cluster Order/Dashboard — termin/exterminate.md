@@ -5,15 +5,6 @@ status: unread
 ---
 # exterminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill en masse; kill on a large scale; kill many.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely, as if down to the roots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They are forcing us to exterminate them."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Early tomorrow I shall go to his Serene Highness,” he read (“Sirin Highness,” said the tall fellow with a triumphant smile on his lips and a frown on his brow), “to consult with him to act, and to aid the army to exterminate these scoundrels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill en masse; kill on a large scale; kill many.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely, as if down to the roots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They are forcing us to exterminate them."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Early tomorrow I shall go to his Serene Highness,” he read (“Sirin Highness,” said the tall fellow with a triumphant smile on his lips and a frown on his brow), “to consult with him to act, and to aid the army to exterminate these scoundrels."*

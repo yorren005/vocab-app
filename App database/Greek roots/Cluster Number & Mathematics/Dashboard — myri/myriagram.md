@@ -5,13 +5,6 @@ status: unread
 ---
 # myriagram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of mass of ten thousand grams, or ten kilograms. Adopted as an equivalent of the French avoirdupois XX.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of mass of ten thousand grams, or ten kilograms. Adopted as an equivalent of the French avoirdupois XX.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriagram designates a unit of mass of ten thousand grams, or ten kilograms. adopted as an equivalent of the french avoirdupois xx."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of mass of ten thousand grams, or ten kilograms. Adopted as an equivalent of the French avoirdupois XX.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of mass of ten thousand grams, or ten kilograms. Adopted as an equivalent of the French avoirdupois XX.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriagram designates a unit of mass of ten thousand grams, or ten kilograms. adopted as an equivalent of the french avoirdupois xx."*

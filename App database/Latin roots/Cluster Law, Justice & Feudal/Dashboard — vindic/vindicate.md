@@ -5,15 +5,6 @@ status: unread
 ---
 # vindicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be right by providing justification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain, uphold, or defend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"They owe him a deanery.” And here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes, I confess I was surprised.” “She never did give me any—not the least in the world, when I talked to her myself,” said Fred, eager to vindicate Mary."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It belongs to us to vindicate the honor of the human race, and to teach that assuming brother, moderation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be right by providing justification or proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain, uphold, or defend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"They owe him a deanery.” And here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Yes, I confess I was surprised.” “She never did give me any—not the least in the world, when I talked to her myself,” said Fred, eager to vindicate Mary."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It belongs to us to vindicate the honor of the human race, and to teach that assuming brother, moderation."*

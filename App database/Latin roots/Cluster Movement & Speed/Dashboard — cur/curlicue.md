@@ -5,13 +5,6 @@ status: unread
 ---
 # curlicue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A round shape formed by a series of concentric circles (as formed by leaves or flower petals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short twisting line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"It was pure white except that at one end, where there was something that looked like a handle, there were figures and funny curlicues carved, and down the whole length of it was a row of things that looked like the Hebrew letters in our family Bible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round shape formed by a series of concentric circles (as formed by leaves or flower petals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short twisting line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"It was pure white except that at one end, where there was something that looked like a handle, there were figures and funny curlicues carved, and down the whole length of it was a row of things that looked like the Hebrew letters in our family Bible."*

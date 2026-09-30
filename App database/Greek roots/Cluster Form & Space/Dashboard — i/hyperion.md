@@ -5,15 +5,6 @@ status: unread
 ---
 # hyperion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But two months dead—nay, not so much, not two: So excellent a king; that was to this Hyperion to a satyr; so loving to my mother, That he might not beteem the winds of heaven Visit her face too roughly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when thy car is loaden with their heads, I will dismount, and by the waggon-wheel Trot like a servile footman all day long, Even from Hyperion’s rising in the east Until his very downfall in the sea."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But two months dead—nay, not so much, not two: So excellent a king; that was to this Hyperion to a satyr; so loving to my mother, That he might not beteem the winds of heaven Visit her face too roughly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when thy car is loaden with their heads, I will dismount, and by the waggon-wheel Trot like a servile footman all day long, Even from Hyperion’s rising in the east Until his very downfall in the sea."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*

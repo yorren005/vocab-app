@@ -5,20 +5,6 @@ status: unread
 ---
 # silt
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Deposit of sediment (as by a river)
-> 2. **Nuance / Usage**: Become choked or obstructed with silt —often used with up
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Duncan Price (*Welsh Sump Index*):** *"A large tube is then followed over several silt banks to surface after a total dive of 200 m in a large passage containing an active streamway – The San Agustin Way. 5 m before the passage surfaces another line junction is passed,&nbsp;..."*
-> - 📜 **Susan L. Woodward (*Murray Springs*):** *"Above the lower headcut, phreatophytic mesquite and little leaf sumac hug the banks, drawing pendulate water from the silts remaining from former marsh deposits and sending long taproots into channel stores."*
-> - 📜 **Sarah Moss (*Signs for Lost Children*):** *"They are city-dwellers, men whose lives pass in the shadows of buildings, whose lungs are silted with coalsmoke, and few will ever cross the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Deposit of sediment (as by a river)
+> 2. **Nuance / Usage**: Become choked or obstructed with silt —often used with up
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Duncan Price (*Welsh Sump Index*):** *"A large tube is then followed over several silt banks to surface after a total dive of 200 m in a large passage containing an active streamway – The San Agustin Way. 5 m before the passage surfaces another line junction is passed,&nbsp;..."*
+> - 📜 **Susan L. Woodward (*Murray Springs*):** *"Above the lower headcut, phreatophytic mesquite and little leaf sumac hug the banks, drawing pendulate water from the silts remaining from former marsh deposits and sending long taproots into channel stores."*
+> - 📜 **Sarah Moss (*Signs for Lost Children*):** *"They are city-dwellers, men whose lives pass in the shadows of buildings, whose lungs are silted with coalsmoke, and few will ever cross the sea."*

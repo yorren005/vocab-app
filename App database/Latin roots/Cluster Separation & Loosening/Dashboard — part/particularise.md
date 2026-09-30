@@ -5,13 +5,6 @@ status: unread
 ---
 # particularise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be specific about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"My dear Ma, I particularise eight.” “The exact size of the table and the room, my dear.” So it was settled that way: and when Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be specific about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"My dear Ma, I particularise eight.” “The exact size of the table and the room, my dear.” So it was settled that way: and when Mr."*

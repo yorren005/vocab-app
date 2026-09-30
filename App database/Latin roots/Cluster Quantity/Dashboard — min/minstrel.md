@@ -5,15 +5,6 @@ status: unread
 ---
 # minstrel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A singer of folk songs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer in a minstrel show.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hence, Fullarton, the brave and young; Hence, Dempster’s zeal-inspired tongue; Hence, sweet, harmonious Beattie sung His ’Minstrel lays’; Or tore, with noble ardour stung, The sceptic’s bays."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To phrase you and praise you, Ye ken your Laureat scorns: The pray’r still you share still Of grateful Minstrel Burns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A singer of folk songs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer in a minstrel show.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hence, Fullarton, the brave and young; Hence, Dempster’s zeal-inspired tongue; Hence, sweet, harmonious Beattie sung His ’Minstrel lays’; Or tore, with noble ardour stung, The sceptic’s bays."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To phrase you and praise you, Ye ken your Laureat scorns: The pray’r still you share still Of grateful Minstrel Burns."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go on a date with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stamp with a date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou treble-dated crow, That thy sable gender mak’st With the breath thou giv’st and tak’st, ’Mongst our mourners shalt thou go."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Tunbridge Wells,” and dated from London, as far back as July, 1803:— “Dear Smith, “I have received yours."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was dated several months before this time, and was signed by Parson Clare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go on a date with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stamp with a date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou treble-dated crow, That thy sable gender mak’st With the breath thou giv’st and tak’st, ’Mongst our mourners shalt thou go."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Tunbridge Wells,” and dated from London, as far back as July, 1803:— “Dear Smith, “I have received yours."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was dated several months before this time, and was signed by Parson Clare."*

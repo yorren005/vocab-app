@@ -5,13 +5,6 @@ status: unread
 ---
 # elucidative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That makes clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That makes clear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elucidative designates that makes clear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That makes clear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That makes clear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elucidative designates that makes clear."*

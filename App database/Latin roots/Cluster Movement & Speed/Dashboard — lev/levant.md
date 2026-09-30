@@ -5,15 +5,6 @@ status: unread
 ---
 # levant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy morocco often used in bookbinding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The former name for the geographical area of the eastern mediterranean that is now occupied by lebanon, syria, and israel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I’ve been in the Levant, where some of your Middlemarch goods go—and then, again, in the Baltic."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"That this was indeed the principal aspect in which Adonis presented himself in later times to the agricultural peoples of the Levant, may be admitted; but whether from the beginning he had been the corn and nothing but the corn, may be doubted."*
-> - 📜 **James Joyce (*Ulysses*):** *"Coming all that way: Spain, Gibraltar, Mediterranean, the Levant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy morocco often used in bookbinding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The former name for the geographical area of the eastern mediterranean that is now occupied by lebanon, syria, and israel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I’ve been in the Levant, where some of your Middlemarch goods go—and then, again, in the Baltic."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"That this was indeed the principal aspect in which Adonis presented himself in later times to the agricultural peoples of the Levant, may be admitted; but whether from the beginning he had been the corn and nothing but the corn, may be doubted."*
+> - 📜 **James Joyce (*Ulysses*):** *"Coming all that way: Spain, Gibraltar, Mediterranean, the Levant."*

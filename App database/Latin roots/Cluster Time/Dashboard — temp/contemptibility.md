@@ -5,13 +5,6 @@ status: unread
 ---
 # contemptibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness by virtue of lacking higher values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness by virtue of lacking higher values.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The old ballad, "I wish I were where Helen lies," is silly, to contemptibility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness by virtue of lacking higher values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness by virtue of lacking higher values.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The old ballad, "I wish I were where Helen lies," is silly, to contemptibility."*

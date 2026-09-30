@@ -5,13 +5,6 @@ status: unread
 ---
 # unindustrialized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted to industrialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted to industrialism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unindustrialized designates not converted to industrialism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted to industrialism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted to industrialism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unindustrialized designates not converted to industrialism."*

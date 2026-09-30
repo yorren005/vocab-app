@@ -5,15 +5,6 @@ status: unread
 ---
 # porter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to carry luggage and supplies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who guards an entrance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sister; Dromio, play the porter well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master, shall I be porter at the gate?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What patch is made our porter?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to carry luggage and supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who guards an entrance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sister; Dromio, play the porter well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master, shall I be porter at the gate?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What patch is made our porter?"*

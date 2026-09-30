@@ -5,15 +5,6 @@ status: unread
 ---
 # tonight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The present or immediately coming night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: During the night of the present day.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, my lord will go away tonight; A very serious business calls on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The present or immediately coming night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: During the night of the present day.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, my lord will go away tonight; A very serious business calls on him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*

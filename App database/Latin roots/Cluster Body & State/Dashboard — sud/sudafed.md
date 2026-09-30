@@ -5,13 +5,6 @@ status: unread
 ---
 # sudafed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudafed designates vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudafed designates vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation."*

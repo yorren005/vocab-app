@@ -5,13 +5,6 @@ status: unread
 ---
 # conventionalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I thought it was only women who were privileged to change their mind,” she began brightly; but Arkwright ignored her attempt to conventionalize the situation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I thought it was only women who were privileged to change their mind,” she began brightly; but Arkwright ignored her attempt to conventionalize the situation."*

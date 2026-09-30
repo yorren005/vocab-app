@@ -5,13 +5,6 @@ status: unread
 ---
 # electroscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In its simplest form the electrometer is called the "electroscope." Two strips of gold-leaf are suspended by their ends under a glass or metal shade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In its simplest form the electrometer is called the "electroscope." Two strips of gold-leaf are suspended by their ends under a glass or metal shade."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vitally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a vital degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a vital degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are not many grown and matured men living while we speak, good men too, who if they were thrown into this same court as suitors would not be vitally changed and depreciated within three years—within two—within one."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Vitally important: the electronic barrier must go up sufficiently in advance of launching your operations against the target so that no messages of the attack passes through from the depot, the terminals site, or any UIPS ships in the area."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Rejoice particularly at formulation of teaching plans so vitally linked with immediate destiny of Temple enterprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a vital degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a vital degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There are not many grown and matured men living while we speak, good men too, who if they were thrown into this same court as suitors would not be vitally changed and depreciated within three years—within two—within one."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Vitally important: the electronic barrier must go up sufficiently in advance of launching your operations against the target so that no messages of the attack passes through from the depot, the terminals site, or any UIPS ships in the area."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Rejoice particularly at formulation of teaching plans so vitally linked with immediate destiny of Temple enterprise."*

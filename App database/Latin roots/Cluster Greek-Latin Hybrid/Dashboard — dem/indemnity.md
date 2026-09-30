@@ -5,15 +5,6 @@ status: unread
 ---
 # indemnity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protection against future loss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legal exemption from liability for damages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This desirable condition has in many respects been accomplished by means of insurance. _Insurance_ is the act of providing a guarantee of indemnity against a financial loss that will result if an event of a specified kind occurs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The insurance with which we are here concerned is that which gives financial indemnity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each insured gets a contract of indemnity for the payment of a sum that will help cover the losses of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protection against future loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legal exemption from liability for damages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This desirable condition has in many respects been accomplished by means of insurance. _Insurance_ is the act of providing a guarantee of indemnity against a financial loss that will result if an event of a specified kind occurs."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The insurance with which we are here concerned is that which gives financial indemnity."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each insured gets a contract of indemnity for the payment of a sum that will help cover the losses of others."*

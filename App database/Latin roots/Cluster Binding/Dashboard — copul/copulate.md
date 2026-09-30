@@ -5,13 +5,6 @@ status: unread
 ---
 # copulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in sexual intercourse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And when I began to consider that, by copulating with one of the _Yahoo_ species I had become a parent of more, it struck me with the utmost shame, confusion, and horror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in sexual intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in sexual intercourse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And when I began to consider that, by copulating with one of the _Yahoo_ species I had become a parent of more, it struck me with the utmost shame, confusion, and horror."*

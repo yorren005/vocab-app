@@ -5,13 +5,6 @@ status: unread
 ---
 # dermatophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus parasitic on the skin or skin derivatives (such as hair or nails).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungus parasitic on the skin or skin derivatives (such as hair or nails).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatophyte designates a fungus parasitic on the skin or skin derivatives (such as hair or nails)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus parasitic on the skin or skin derivatives (such as hair or nails).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungus parasitic on the skin or skin derivatives (such as hair or nails).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatophyte designates a fungus parasitic on the skin or skin derivatives (such as hair or nails)."*

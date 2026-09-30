@@ -5,13 +5,6 @@ status: unread
 ---
 # seriocomedy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comedy with serious elements or overtones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comedy with serious elements or overtones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriocomedy designates a comedy with serious elements or overtones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comedy with serious elements or overtones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comedy with serious elements or overtones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriocomedy designates a comedy with serious elements or overtones."*

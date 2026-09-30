@@ -5,14 +5,6 @@ status: unread
 ---
 # undefeated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Victorious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Victorious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But, torn, blinded, baffled, the Dane was undefeated."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Himself the undefeated that shall be: Failure, disgrace, he flings them you to test,-- His triumph, in eternity Too plainly manifest! -- St. 7-9."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Victorious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Victorious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But, torn, blinded, baffled, the Dane was undefeated."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Himself the undefeated that shall be: Failure, disgrace, he flings them you to test,-- His triumph, in eternity Too plainly manifest! -- St. 7-9."*

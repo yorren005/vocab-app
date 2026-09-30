@@ -5,15 +5,6 @@ status: unread
 ---
 # complicated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This scarecrow of a suit has, in course of time, become so complicated that no man alive knows what it means."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Complicated garnish of iron-work entwines itself over the flights of steps in this awful street, and from these petrified bowers, extinguishers for obsolete flambeaux gasp at the upstart gas."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her tears fell fast beside the unconscious pair in the coffin: tears of a complicated origin, of a nature indescribable, almost indefinable except as other than those of simple sorrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complicated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This scarecrow of a suit has, in course of time, become so complicated that no man alive knows what it means."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Complicated garnish of iron-work entwines itself over the flights of steps in this awful street, and from these petrified bowers, extinguishers for obsolete flambeaux gasp at the upstart gas."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her tears fell fast beside the unconscious pair in the coffin: tears of a complicated origin, of a nature indescribable, almost indefinable except as other than those of simple sorrow."*

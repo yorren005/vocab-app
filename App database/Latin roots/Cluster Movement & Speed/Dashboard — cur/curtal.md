@@ -5,15 +5,6 @@ status: unread
 ---
 # curtal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obsolete) cut short.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obsolete) cut short.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’d give bay curtal and his furniture My mouth no more were broken than these boys’, And writ as little beard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A gallant curtal-axe upon my thigh, A boar-spear in my hand, and in my heart Lie there what hidden woman’s fear there will, We’ll have a swashing and a martial outside, As many other mannish cowards have That do outface it with their semblances."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, I think, if my breast had not been made of faith, and my heart of steel, she had transformed me to a curtal dog, and made me turn i’ the wheel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (obsolete) cut short.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obsolete) cut short.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’d give bay curtal and his furniture My mouth no more were broken than these boys’, And writ as little beard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A gallant curtal-axe upon my thigh, A boar-spear in my hand, and in my heart Lie there what hidden woman’s fear there will, We’ll have a swashing and a martial outside, As many other mannish cowards have That do outface it with their semblances."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, I think, if my breast had not been made of faith, and my heart of steel, she had transformed me to a curtal dog, and made me turn i’ the wheel."*

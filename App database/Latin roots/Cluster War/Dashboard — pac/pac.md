@@ -5,15 +5,6 @@ status: unread
 ---
 # pac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Committee formed by a special-interest group to raise money for their favorite political candidates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Committee formed by a special-interest group to raise money for their favorite political candidates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, bear Patroclus’ body to Achilles, And bid the snail-pac’d Ajax arm for shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So she parted, And with the same full state paced back again To York Place, where the feast is held."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, she’s not paced yet: you must take some pains to work her to your manage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Committee formed by a special-interest group to raise money for their favorite political candidates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Committee formed by a special-interest group to raise money for their favorite political candidates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, bear Patroclus’ body to Achilles, And bid the snail-pac’d Ajax arm for shame."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So she parted, And with the same full state paced back again To York Place, where the feast is held."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, she’s not paced yet: you must take some pains to work her to your manage."*

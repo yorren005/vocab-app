@@ -5,15 +5,6 @@ status: unread
 ---
 # stability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or attribute of being firm and steadfast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stable order (especially of society).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From 1492 to 1660 the ratio changed to 15 to 1, where it remained with remarkable stability until about the year 1800."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"National banks have been subject to stricter inspection than have been the banks in most of the states, a fact which has strengthened public confidence in their stability."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Greater stability in our tariff policy would remove a constantly disturbing factor in prices, as would likewise the stabilizing of the standard of deferred payments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or attribute of being firm and steadfast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stable order (especially of society).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From 1492 to 1660 the ratio changed to 15 to 1, where it remained with remarkable stability until about the year 1800."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"National banks have been subject to stricter inspection than have been the banks in most of the states, a fact which has strengthened public confidence in their stability."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Greater stability in our tariff policy would remove a constantly disturbing factor in prices, as would likewise the stabilizing of the standard of deferred payments."*

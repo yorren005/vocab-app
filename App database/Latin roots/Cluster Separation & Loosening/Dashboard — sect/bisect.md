@@ -5,14 +5,6 @@ status: unread
 ---
 # bisect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut in half or cut in two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut in half or cut in two.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The path, after passing the cowshed, bisected the plantation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From above on the left, bisecting that amphitheater, wound the Smolénsk highroad, passing through a village with a white church some five hundred paces in front of the knoll and below it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut in half or cut in two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut in half or cut in two.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The path, after passing the cowshed, bisected the plantation."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From above on the left, bisecting that amphitheater, wound the Smolénsk highroad, passing through a village with a white church some five hundred paces in front of the knoll and below it."*

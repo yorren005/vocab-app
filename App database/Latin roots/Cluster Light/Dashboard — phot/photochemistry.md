@@ -5,13 +5,6 @@ status: unread
 ---
 # photochemistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch of chemistry that deals with the chemical action of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branch of chemistry that deals with the chemical action of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photochemistry designates branch of chemistry that deals with the chemical action of light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch of chemistry that deals with the chemical action of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branch of chemistry that deals with the chemical action of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photochemistry designates branch of chemistry that deals with the chemical action of light."*

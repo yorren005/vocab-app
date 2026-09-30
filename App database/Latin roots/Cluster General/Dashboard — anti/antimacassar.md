@@ -5,13 +5,6 @@ status: unread
 ---
 # antimacassar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of ornamented cloth that protects the back of a chair from hair oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of ornamented cloth that protects the back of a chair from hair oils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I declare to my antimacassar if you took up a straw from the bloody floor and if you said to Bloom: _Look at, Bloom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of ornamented cloth that protects the back of a chair from hair oils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of ornamented cloth that protects the back of a chair from hair oils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"I declare to my antimacassar if you took up a straw from the bloody floor and if you said to Bloom: _Look at, Bloom."*

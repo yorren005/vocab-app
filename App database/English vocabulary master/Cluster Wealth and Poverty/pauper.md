@@ -5,20 +5,6 @@ status: unread
 ---
 # pauper
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Very poor person
-> 2. **Nuance / Usage**: One who is extremely poor
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"as such, comes with his pauper company to Mr."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"whether he had not been a pauper all his life."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"cursed the old pauper and relieved him from time to time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Very poor person
+> 2. **Nuance / Usage**: One who is extremely poor
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"as such, comes with his pauper company to Mr."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"whether he had not been a pauper all his life."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"cursed the old pauper and relieved him from time to time."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # blast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent gust of wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The effect or accompaniment (such as sleet) of such a gust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Mars, I prithee, make us quick in work, That we with smoking swords may march from hence To help our fielded friends!—Come, blow thy blast. [_They sound a parley._] Enter two Senators with others on the walls of Corioles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll cross it, though it blast me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore this project Should have a back or second, that might hold If this did blast in proof."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent gust of wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The effect or accompaniment (such as sleet) of such a gust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Mars, I prithee, make us quick in work, That we with smoking swords may march from hence To help our fielded friends!—Come, blow thy blast. [_They sound a parley._] Enter two Senators with others on the walls of Corioles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll cross it, though it blast me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore this project Should have a back or second, that might hold If this did blast in proof."*

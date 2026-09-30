@@ -5,15 +5,6 @@ status: unread
 ---
 # hor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horizontal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large solid-hoofed herbivorous ungulate mammal (Equus caballus, family Equidae, the horse family) domesticated since prehistoric times and used as a beast of burden, a draft animal, or for riding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But he has printed no ‘versus inopes rerum, nugaeque canorae’ (Hor. ad Pis.)."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Adeo nulla ferme nativitas munda, utique ethnicorum_. [51] Hor. _Ep._ ii. 2, 187 f."*
-> - 📜 **James Joyce (*Ulysses*):** *"The assistants leap at the victim’s legs and drag him downward, grunting: the croppy boy’s tongue protrudes violently.)_ THE CROPPY BOY: Horhot ho hray hor hother’s hest. _(He gives up the ghost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Horizontal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large solid-hoofed herbivorous ungulate mammal (Equus caballus, family Equidae, the horse family) domesticated since prehistoric times and used as a beast of burden, a draft animal, or for riding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But he has printed no ‘versus inopes rerum, nugaeque canorae’ (Hor. ad Pis.)."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Adeo nulla ferme nativitas munda, utique ethnicorum_. [51] Hor. _Ep._ ii. 2, 187 f."*
+> - 📜 **James Joyce (*Ulysses*):** *"The assistants leap at the victim’s legs and drag him downward, grunting: the croppy boy’s tongue protrudes violently.)_ THE CROPPY BOY: Horhot ho hray hor hother’s hest. _(He gives up the ghost."*

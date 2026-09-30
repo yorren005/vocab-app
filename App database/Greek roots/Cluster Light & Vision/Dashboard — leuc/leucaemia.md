@@ -5,13 +5,6 @@ status: unread
 ---
 # leucaemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucaemia designates malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucaemia designates malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer."*

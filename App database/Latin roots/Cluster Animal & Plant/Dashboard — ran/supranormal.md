@@ -5,13 +5,6 @@ status: unread
 ---
 # supranormal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the range of the normal or scientifically explainable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond the range of the normal or scientifically explainable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supranormal designates beyond the range of the normal or scientifically explainable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the range of the normal or scientifically explainable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond the range of the normal or scientifically explainable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supranormal designates beyond the range of the normal or scientifically explainable."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plasterwork
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface of hardened plaster (as on a wall or ceiling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface of hardened plaster (as on a wall or ceiling).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was, in its way, a very charming room, with its high panelled wainscoting of olive-stained oak, its cream-coloured frieze and ceiling of raised plasterwork, and its brickdust felt carpet strewn with silk, long-fringed Persian rugs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface of hardened plaster (as on a wall or ceiling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface of hardened plaster (as on a wall or ceiling).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was, in its way, a very charming room, with its high panelled wainscoting of olive-stained oak, its cream-coloured frieze and ceiling of raised plasterwork, and its brickdust felt carpet strewn with silk, long-fringed Persian rugs."*

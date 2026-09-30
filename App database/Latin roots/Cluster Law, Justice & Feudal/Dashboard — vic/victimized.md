@@ -5,13 +5,6 @@ status: unread
 ---
 # victimized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She, poor innocent creature, is left to be victimized by an old man who has outlived his wits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a victim of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish unjustly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She, poor innocent creature, is left to be victimized by an old man who has outlived his wits."*

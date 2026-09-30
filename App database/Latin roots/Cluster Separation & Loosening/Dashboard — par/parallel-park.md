@@ -5,13 +5,6 @@ status: unread
 ---
 # parallel-park
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Park directly behind another vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Park directly behind another vehicle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallel-park designates park directly behind another vehicle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Park directly behind another vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Park directly behind another vehicle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallel-park designates park directly behind another vehicle."*

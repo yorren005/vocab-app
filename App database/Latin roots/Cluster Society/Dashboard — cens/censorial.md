@@ -5,13 +5,6 @@ status: unread
 ---
 # censorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or relating to a censor or a censor's functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging or relating to a censor or a censor's functions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This censorial body, therefore, proves at the same time, by its researches, the existence of the disease, and by its example, the inefficacy of the remedy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or relating to a censor or a censor's functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging or relating to a censor or a censor's functions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This censorial body, therefore, proves at the same time, by its researches, the existence of the disease, and by its example, the inefficacy of the remedy."*

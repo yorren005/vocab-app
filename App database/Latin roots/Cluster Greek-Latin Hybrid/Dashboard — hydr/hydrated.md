@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply water or liquid to in order to maintain a healthy balance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become hydrated and combine with water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrated designates supply water or liquid to in order to maintain a healthy balance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply water or liquid to in order to maintain a healthy balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become hydrated and combine with water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrated designates supply water or liquid to in order to maintain a healthy balance."*

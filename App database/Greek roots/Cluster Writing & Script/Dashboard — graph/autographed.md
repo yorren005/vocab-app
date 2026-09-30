@@ -5,13 +5,6 @@ status: unread
 ---
 # autographed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with one's signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing an autograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autographed designates mark with one's signature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with one's signature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing an autograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autographed designates mark with one's signature."*

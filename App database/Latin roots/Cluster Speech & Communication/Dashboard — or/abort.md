@@ -5,13 +5,6 @@ status: unread
 ---
 # abort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of terminating a project or procedure before it is completed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate before completion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The launch cannot be aborted; there'll be no second chance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of terminating a project or procedure before it is completed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate before completion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The launch cannot be aborted; there'll be no second chance."*

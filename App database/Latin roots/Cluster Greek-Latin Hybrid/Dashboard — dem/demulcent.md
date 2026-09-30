@@ -5,13 +5,6 @@ status: unread
 ---
 # demulcent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a softening or soothing effect especially to the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demulcent designates a medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a softening or soothing effect especially to the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demulcent designates a medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (microscopy) a dye or other coloring material that is used in microscopy to make structures visible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have some stain of soldier in you; let me ask you a question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The meantime, lady, I’ll raise the preparation of a war Shall stain your brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (microscopy) a dye or other coloring material that is used in microscopy to make structures visible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have some stain of soldier in you; let me ask you a question."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The meantime, lady, I’ll raise the preparation of a war Shall stain your brother."*

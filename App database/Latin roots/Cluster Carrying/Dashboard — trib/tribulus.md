@@ -5,13 +5,6 @@ status: unread
 ---
 # tribulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbs or subshrubs of warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or subshrubs of warm regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribulus designates annual or perennial herbs or subshrubs of warm regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbs or subshrubs of warm regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or subshrubs of warm regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribulus designates annual or perennial herbs or subshrubs of warm regions."*

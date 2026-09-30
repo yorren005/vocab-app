@@ -5,13 +5,6 @@ status: unread
 ---
 # ramus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of the mandible that is more or less vertical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior part of the mandible that is more or less vertical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramus designates the posterior part of the mandible that is more or less vertical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of the mandible that is more or less vertical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior part of the mandible that is more or less vertical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramus designates the posterior part of the mandible that is more or less vertical."*

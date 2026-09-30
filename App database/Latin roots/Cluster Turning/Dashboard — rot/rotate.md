@@ -5,15 +5,6 @@ status: unread
 ---
 # rotate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange on a regular basis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll push to rotate the cover counter-clockwise; it'll take both of us to work it loose." "Why not cut out the entire plug?" "Too much time."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They now seemed to rotate on one spot."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From that time onward, apparently, the dates of the festivals were determined by the new calendar, and so ceased to rotate throughout the length of the solar year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange on a regular basis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll push to rotate the cover counter-clockwise; it'll take both of us to work it loose." "Why not cut out the entire plug?" "Too much time."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They now seemed to rotate on one spot."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From that time onward, apparently, the dates of the festivals were determined by the new calendar, and so ceased to rotate throughout the length of the solar year."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reformation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improvement (or an intended improvement) in the existing form or condition of institutions or practices etc.; intended to make a striking change for the better in social or political or religious affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious movement of the 16th century that began as an attempt to reform the roman catholic church and resulted in the creation of protestant churches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never was such a sudden scholar made, Never came reformation in a flood With such a heady currance scouring faults, Nor never Hydra-headed wilfulness So soon did lose his seat, and all at once, As in this king."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be brave, then, for your captain is brave, and vows reformation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reformation of our travelled gallants That fill the court with quarrels, talk, and tailors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improvement (or an intended improvement) in the existing form or condition of institutions or practices etc.; intended to make a striking change for the better in social or political or religious affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious movement of the 16th century that began as an attempt to reform the roman catholic church and resulted in the creation of protestant churches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never was such a sudden scholar made, Never came reformation in a flood With such a heady currance scouring faults, Nor never Hydra-headed wilfulness So soon did lose his seat, and all at once, As in this king."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be brave, then, for your captain is brave, and vows reformation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reformation of our travelled gallants That fill the court with quarrels, talk, and tailors."*

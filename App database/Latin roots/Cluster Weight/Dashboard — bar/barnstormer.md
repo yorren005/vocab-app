@@ -5,13 +5,6 @@ status: unread
 ---
 # barnstormer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who travels around the country presenting plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pilot who travels around the country giving exhibits of stunt flying and parachuting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Edwin Booth An old actor at the Player's Club told me that Edwin Booth first impersonated Hamlet when a barnstormer in California."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who travels around the country presenting plays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pilot who travels around the country giving exhibits of stunt flying and parachuting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Edwin Booth An old actor at the Player's Club told me that Edwin Booth first impersonated Hamlet when a barnstormer in California."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The head of the roman catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English poet and satirist (1688-1744).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under my feet I’ll stamp thy cardinal’s hat; In spite of Pope or dignities of church, Here by the cheeks I’ll drag thee up and down."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gloucester, thou wilt answer this before the Pope."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The head of the roman catholic church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English poet and satirist (1688-1744).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under my feet I’ll stamp thy cardinal’s hat; In spite of Pope or dignities of church, Here by the cheeks I’ll drag thee up and down."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gloucester, thou wilt answer this before the Pope."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac?"*

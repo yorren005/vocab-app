@@ -5,15 +5,6 @@ status: unread
 ---
 # gentlemanly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting a man of good breeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting a man of good breeding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop is a very gentlemanly man indeed—very gentlemanly.” “Does his wife know of it?” asked Ada."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop knows there is such a place, it’s as much as he does.” “It was he who was very gentlemanly, I think!” said I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Very gentlemanly indeed,” said Caddy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting a man of good breeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting a man of good breeding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop is a very gentlemanly man indeed—very gentlemanly.” “Does his wife know of it?” asked Ada."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop knows there is such a place, it’s as much as he does.” “It was he who was very gentlemanly, I think!” said I."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Very gentlemanly indeed,” said Caddy."*

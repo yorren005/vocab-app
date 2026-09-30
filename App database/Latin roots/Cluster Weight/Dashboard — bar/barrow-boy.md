@@ -5,13 +5,6 @@ status: unread
 ---
 # barrow-boy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hawker of fruit and vegetables from a barrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hawker of fruit and vegetables from a barrow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrow-boy designates a hawker of fruit and vegetables from a barrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hawker of fruit and vegetables from a barrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hawker of fruit and vegetables from a barrow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrow-boy designates a hawker of fruit and vegetables from a barrow."*

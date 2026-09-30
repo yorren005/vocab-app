@@ -5,15 +5,6 @@ status: unread
 ---
 # deceitful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to deceive; ; ;  - s.t.coleridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - israel zangwill; ; - w.m.thackeray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this thy cunning, thou deceitful dame?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These hands are free from guiltless bloodshedding, This breast from harbouring foul deceitful thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Deceitful Warwick, it was thy device By this alliance to make void my suit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to deceive; ; ;  - s.t.coleridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - israel zangwill; ; - w.m.thackeray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this thy cunning, thou deceitful dame?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These hands are free from guiltless bloodshedding, This breast from harbouring foul deceitful thoughts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Deceitful Warwick, it was thy device By this alliance to make void my suit."*

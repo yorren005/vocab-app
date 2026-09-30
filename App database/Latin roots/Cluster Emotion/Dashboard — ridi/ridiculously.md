@@ -5,15 +5,6 @@ status: unread
 ---
 # ridiculously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"At the feet of this one, ridiculously small, crouched a sphinx; yet this sphinx was taller than I."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was conscious of being irritated by ridiculously small causes, which were half of his own creation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was ridiculously disappointed, as if he had imagined that her coming had anything to do with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"At the feet of this one, ridiculously small, crouched a sphinx; yet this sphinx was taller than I."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was conscious of being irritated by ridiculously small causes, which were half of his own creation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was ridiculously disappointed, as if he had imagined that her coming had anything to do with him."*

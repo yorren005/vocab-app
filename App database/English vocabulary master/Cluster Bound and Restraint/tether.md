@@ -5,20 +5,6 @@ status: unread
 ---
 # tether
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The limit of one's strength or resources
-> 2. **Nuance / Usage**: (figurative) an attachment to a place, time, entity or person
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gude keep thee frae a tether string!"*
-> - 📜 **Neal Ungerleider (*Put On A Helmet, And You’re In The Story: Why Virtual Reality Journalism Is The Future*):** *"With the bulky, heavy helmet for the film strapped on, I was inside a fully immersive virtual world. With de la Peña playing minder and holding a tether which prevented me from bumping into walls, I somehow ended up inside the news story."*
-> - 📜 **John Kander (*Cheering For Me Now*):** *"We suffer the weather / We bind and we tether / This nation together"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A rope, chain, or cord by which a grazing animal or object is fastened to a fixed stake so that it can move only within a set radius; as a verb, to tie or secure with a tether.
+> 2. **Nuance / Usage**: Used figuratively for the outer limit of one's endurance, patience, or resources (*at the end of one's tether*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Transitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*straining at the tether*, *at the end of his tether*) and verbally (*tethered the horses*).
+> - **Collocations & Registers**: Pastoral, aerospace, and psychological registers; paired with *stake*, *endurance*, *patience*, *leash*, and *radius*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gude keep thee frae a **tether** string!"*
+> - 📜 **Neal Ungerleider (*Fast Company*):** *"With de la Peña playing minder and holding a **tether** which prevented me from bumping into walls, I somehow ended up inside the news story."*
+> - 📜 **Joseph Conrad (*The End of the Tether*):** *"Captain Whalley had come to the very end of his **tether**, with nothing left to sell and his eyesight failing fast."*

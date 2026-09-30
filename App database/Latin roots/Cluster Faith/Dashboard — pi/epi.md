@@ -5,15 +5,6 @@ status: unread
 ---
 # epi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-report personality inventory based on hans eysenck's factor analysis of personality which assumes three basic factors (the two most important being extraversion to introversion and neuroticism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-report personality inventory based on hans eysenck's factor analysis of personality which assumes three basic factors (the two most important being extraversion to introversion and neuroticism).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Confine yourself to "what is in your power" (_ta epi soi_), and no man can hurt you."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Everything with the Stoic turns on the individual. _ta epi soi_, "the things in your own power," is the refrain of Epictetus' teaching."*
-> - 📜 **James Joyce (*Ulysses*):** *"The scrotumtightening sea. _Epi oinopa ponton_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-report personality inventory based on hans eysenck's factor analysis of personality which assumes three basic factors (the two most important being extraversion to introversion and neuroticism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-report personality inventory based on hans eysenck's factor analysis of personality which assumes three basic factors (the two most important being extraversion to introversion and neuroticism).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Confine yourself to "what is in your power" (_ta epi soi_), and no man can hurt you."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Everything with the Stoic turns on the individual. _ta epi soi_, "the things in your own power," is the refrain of Epictetus' teaching."*
+> - 📜 **James Joyce (*Ulysses*):** *"The scrotumtightening sea. _Epi oinopa ponton_."*

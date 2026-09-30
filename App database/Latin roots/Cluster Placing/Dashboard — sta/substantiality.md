@@ -5,14 +5,6 @@ status: unread
 ---
 # substantiality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being substantial or having substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being substantial or having substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This reflection seems to mortal sense transcendental, because the spiritual 301:15 man's substantiality transcends mortal vision and is re- vealed only through divine Science."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For him to believe in matter was no task, but for him to conceive of the substantiality of Spirit - 318:3 to know that nothing can efface Mind and immortality, in which Spirit reigns - was more difficult."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being substantial or having substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being substantial or having substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This reflection seems to mortal sense transcendental, because the spiritual 301:15 man's substantiality transcends mortal vision and is re- vealed only through divine Science."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For him to believe in matter was no task, but for him to conceive of the substantiality of Spirit - 318:3 to know that nothing can efface Mind and immortality, in which Spirit reigns - was more difficult."*

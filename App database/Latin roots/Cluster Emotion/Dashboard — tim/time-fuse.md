@@ -5,13 +5,6 @@ status: unread
 ---
 # time-fuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fuse made to burn for a given time (especially to explode a bomb).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fuse made to burn for a given time (especially to explode a bomb).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-fuse designates a fuse made to burn for a given time (especially to explode a bomb)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fuse made to burn for a given time (especially to explode a bomb).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fuse made to burn for a given time (especially to explode a bomb).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-fuse designates a fuse made to burn for a given time (especially to explode a bomb)."*

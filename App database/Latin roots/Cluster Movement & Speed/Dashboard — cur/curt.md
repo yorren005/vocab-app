@@ -5,15 +5,6 @@ status: unread
 ---
 # curt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by rude or peremptory shortness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brief and to the point; effectively cut short.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Forbidden," was the curt reply."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"He had hardly closed the door when she started up, and ran to it to call him back, apologize for her curt refusal to go with him, and ask if she might still accept his invitation."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes gave his curt "Ha ha!" "I can still use my arms, Lawrence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by rude or peremptory shortness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brief and to the point; effectively cut short.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Forbidden," was the curt reply."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"He had hardly closed the door when she started up, and ran to it to call him back, apologize for her curt refusal to go with him, and ask if she might still accept his invitation."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes gave his curt "Ha ha!" "I can still use my arms, Lawrence."*

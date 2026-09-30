@@ -5,13 +5,6 @@ status: unread
 ---
 # assiduousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great and constant diligence and attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great and constant diligence and attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assiduousness designates great and constant diligence and attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great and constant diligence and attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great and constant diligence and attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assiduousness designates great and constant diligence and attention."*

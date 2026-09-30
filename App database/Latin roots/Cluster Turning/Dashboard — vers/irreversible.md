@@ -5,13 +5,6 @@ status: unread
 ---
 # irreversible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being reversed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"An unsatisfactory equation between an exodus and return in time through reversible space and an exodus and return in space through irreversible time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reversed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being reversed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"An unsatisfactory equation between an exodus and return in time through reversible space and an exodus and return in space through irreversible time."*

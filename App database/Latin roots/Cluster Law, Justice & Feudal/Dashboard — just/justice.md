@@ -5,15 +5,6 @@ status: unread
 ---
 # justice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being just or fair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment involved in the determination of rights and the assignment of rewards and punishments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot thrive, Unless her prayers, whom heaven delights to hear And loves to grant, reprieve him from the wrath Of greatest justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from Florence, taking no leave, and I follow him to his country for justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are abused Beyond the mark of thought, and the high gods, To do you justice, make their ministers Of us and those that love you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being just or fair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment involved in the determination of rights and the assignment of rewards and punishments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot thrive, Unless her prayers, whom heaven delights to hear And loves to grant, reprieve him from the wrath Of greatest justice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from Florence, taking no leave, and I follow him to his country for justice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are abused Beyond the mark of thought, and the high gods, To do you justice, make their ministers Of us and those that love you."*

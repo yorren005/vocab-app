@@ -5,15 +5,6 @@ status: unread
 ---
 # sister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female person who has the same parents as another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a title given to a nun (and used as a form of address).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are my mother, madam; would you were— So that my lord your son were not my brother,— Indeed my mother! or were you both our mothers, I care no more for than I do for heaven, So I were not his sister."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A sister I bequeath you, whom no brother Did ever love so dearly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female person who has the same parents as another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a title given to a nun (and used as a form of address).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are my mother, madam; would you were— So that my lord your son were not my brother,— Indeed my mother! or were you both our mothers, I care no more for than I do for heaven, So I were not his sister."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A sister I bequeath you, whom no brother Did ever love so dearly."*

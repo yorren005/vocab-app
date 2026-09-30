@@ -5,15 +5,6 @@ status: unread
 ---
 # porn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, he was porn at Monmouth, Captain Gower."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think it is in Macedon where Alexander is porn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell you there is good men porn at Monmouth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, he was porn at Monmouth, Captain Gower."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think it is in Macedon where Alexander is porn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell you there is good men porn at Monmouth."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aden
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former British protectorate in southern Arabia comprising the entire southern coast of what is now Yemen; became part of People's Democratic Republic of Yemen 1967 area 112,000 square miles (291,200 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former British colony in southwestern Arabia comprising Perim Island, the city of Aden, and the surrounding area; became part of People's Democratic Republic of Yemen 1967 area 75 square miles (195 square kilometers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were Will Aden, Abel Milliken, and Timothy Grant."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As soon as Will Aden spoke up, telling that they were from the Fancher Company, going to Cedar City for help, he was shot down."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The 5th of February we at last entered the Gulf of Aden, a perfect funnel introduced into the neck of Bab-el-mandeb, through which the Indian waters entered the Red Sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Former British protectorate in southern Arabia comprising the entire southern coast of what is now Yemen; became part of People's Democratic Republic of Yemen 1967 area 112,000 square miles (291,200 square kilometers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former British colony in southwestern Arabia comprising Perim Island, the city of Aden, and the surrounding area; became part of People's Democratic Republic of Yemen 1967 area 75 square miles (195 square kilometers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were Will Aden, Abel Milliken, and Timothy Grant."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As soon as Will Aden spoke up, telling that they were from the Fancher Company, going to Cedar City for help, he was shot down."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The 5th of February we at last entered the Gulf of Aden, a perfect funnel introduced into the neck of Bab-el-mandeb, through which the Indian waters entered the Red Sea."*

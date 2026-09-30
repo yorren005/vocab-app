@@ -5,15 +5,6 @@ status: unread
 ---
 # pacing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the speed at which a composition is to be played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking with slow regular strides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When last the young Orlando parted from you, He left a promise to return again Within an hour, and pacing through the forest, Chewing the food of sweet and bitter fancy, Lo, what befell."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would know it all the better if he saw the woman pacing her own rooms with her hair wildly thrown from her flung-back face, her hands clasped behind her head, her figure twisted as if by pain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Pacing up and down at the heels of the animals was Farmer Boldwood himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the speed at which a composition is to be played.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking with slow regular strides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When last the young Orlando parted from you, He left a promise to return again Within an hour, and pacing through the forest, Chewing the food of sweet and bitter fancy, Lo, what befell."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He would know it all the better if he saw the woman pacing her own rooms with her hair wildly thrown from her flung-back face, her hands clasped behind her head, her figure twisted as if by pain."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Pacing up and down at the heels of the animals was Farmer Boldwood himself."*

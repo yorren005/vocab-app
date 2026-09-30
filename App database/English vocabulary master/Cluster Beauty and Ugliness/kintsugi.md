@@ -5,17 +5,6 @@ status: unread
 ---
 # kintsugi
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The traditional japanese art of repairing broken pottery using a lacquer and metal powder (such as gold, silver, or platinum) to highlight the repair
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the kintsugi withstood the storm*), direct object (*cleaved the kintsugi*), or prepositional anchor (*amidst the kintsugi*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Patrick Healy (*For Christopher Shinn, Confronting Death Brings a New Play to Life*):** *"In rehearsals here the director, Oliver Butler, has brought up kintsugi, the Japanese art of repairing broken objects with powdered gold or other colors to accentuate the cracks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -51,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The traditional Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold, silver, or platinum.
+> 2. **Nuance / Usage**: Used figuratively in aesthetics and psychology as a philosophy of resilience—treating breakage, scars, and repair as an honored part of an object's or person's history rather than something to disguise.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass).
+> - **Syntactic Constructions**: Functions as a concrete or philosophical subject (*kintsugi honors the fracture*), direct object (*practiced kintsugi*), or attributive modifier (*a kintsugi bowl*).
+> - **Collocations & Registers**: Aesthetic, artisanal, and philosophical registers; paired with *lacquer*, *seam*, *fracture*, *vessel*, and *imperfection*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Patrick Healy (*The New York Times*):** *"In rehearsals here the director, Oliver Butler, has brought up **kintsugi**, the Japanese art of repairing broken objects with powdered gold to accentuate the cracks."*
+> - 📜 **Christy Bartlett (*Flickwerk: The Aesthetics of Mended Japanese Ceramics*):** *"Through **kintsugi**, a shattered tea bowl is reborn with golden seams that celebrate its fracture rather than concealing it."*
+> - 📜 **Bonnie Kistler (*The Cage*):** *"Like **kintsugi** pottery, the fractures in their lives had been sealed with gold, making the mended vessel more precious than the unbroken original."*

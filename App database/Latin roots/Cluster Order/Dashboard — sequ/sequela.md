@@ -5,13 +5,6 @@ status: unread
 ---
 # sequela
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormality following or resulting from a disease or injury or treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any abnormality following or resulting from a disease or injury or treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequela designates any abnormality following or resulting from a disease or injury or treatment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormality following or resulting from a disease or injury or treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any abnormality following or resulting from a disease or injury or treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequela designates any abnormality following or resulting from a disease or injury or treatment."*

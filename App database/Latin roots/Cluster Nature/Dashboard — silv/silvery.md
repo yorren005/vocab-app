@@ -5,15 +5,6 @@ status: unread
 ---
 # silvery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or reminiscent of silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the white lustrous sheen of silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A morning mist hung over it now—a fulsome yet magnificent silvery veil, full of light from the sun, yet semi-opaque—the hedge behind it being in some measure hidden by its hazy luminousness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The quick-silvery glaze on the rivers and pools vanished; from broad mirrors of light they changed to lustreless sheets of lead, with a surface like a rasp."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The veil was boldly folded away; the face of the child looked at me across her mother's bed, and upon the frame of the picture was laid a branch of olive, with silvery leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or reminiscent of silver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the white lustrous sheen of silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A morning mist hung over it now—a fulsome yet magnificent silvery veil, full of light from the sun, yet semi-opaque—the hedge behind it being in some measure hidden by its hazy luminousness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The quick-silvery glaze on the rivers and pools vanished; from broad mirrors of light they changed to lustreless sheets of lead, with a surface like a rasp."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The veil was boldly folded away; the face of the child looked at me across her mother's bed, and upon the frame of the picture was laid a branch of olive, with silvery leaves."*

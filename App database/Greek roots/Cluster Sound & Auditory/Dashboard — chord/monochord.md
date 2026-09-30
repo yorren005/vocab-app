@@ -5,13 +5,6 @@ status: unread
 ---
 # monochord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochord designates an instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochord designates an instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale."*

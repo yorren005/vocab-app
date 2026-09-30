@@ -5,15 +5,6 @@ status: unread
 ---
 # pariah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is rejected (from society or home).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is rejected (from society or home).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Already at Eton Shelley was a rebel and a pariah."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Shortly Tom came upon the juvenile pariah of the village, Huckleberry Finn, son of the town drunkard."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The scores of dogs--big, gaunt pariahs--that infested every village, greeted us as we passed through the gate with a chorus of barks, sending the word down the line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is rejected (from society or home).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is rejected (from society or home).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Already at Eton Shelley was a rebel and a pariah."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Shortly Tom came upon the juvenile pariah of the village, Huckleberry Finn, son of the town drunkard."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The scores of dogs--big, gaunt pariahs--that infested every village, greeted us as we passed through the gate with a chorus of barks, sending the word down the line."*

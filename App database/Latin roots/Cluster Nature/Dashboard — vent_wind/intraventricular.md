@@ -5,13 +5,6 @@ status: unread
 ---
 # intraventricular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within the system of ventricles in the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within the system of ventricles in the brain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraventricular designates within the system of ventricles in the brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Within the system of ventricles in the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within the system of ventricles in the brain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraventricular designates within the system of ventricles in the brain."*

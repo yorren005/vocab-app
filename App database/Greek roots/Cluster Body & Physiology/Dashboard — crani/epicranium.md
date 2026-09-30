@@ -5,13 +5,6 @@ status: unread
 ---
 # epicranium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle and aponeurosis and skin covering the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muscle and aponeurosis and skin covering the cranium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicranium designates the muscle and aponeurosis and skin covering the cranium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle and aponeurosis and skin covering the cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muscle and aponeurosis and skin covering the cranium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicranium designates the muscle and aponeurosis and skin covering the cranium."*

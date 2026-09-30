@@ -5,13 +5,6 @@ status: unread
 ---
 # disco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public dance hall for dancing to recorded popular music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disco designates popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public dance hall for dancing to recorded popular music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disco designates popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques."*

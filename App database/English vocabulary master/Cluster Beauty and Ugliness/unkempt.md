@@ -5,20 +5,6 @@ status: unread
 ---
 # unkempt
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Not combed
-> 2. **Nuance / Usage**: (figurative) rough; unpolished
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a unkempt presence*) or predicatively (*remained unkempt*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H.G. Wells (*The War of the Worlds*):** *"Men on cycles, lean-faced, unkempt, scorched along every country lane, shouting of unhoped deliverance, shouting to gaunt, staring figures of despair."*
-> - 📜 **Jeffery Farnol (*The Broad Highway*):** *"Now, upon his whole person, from the crown of his unkempt head down to his broken, dusty boots, there yet clung that air of jaunty, devil-may-care rakishness."*
-> - 📜 **George du Maurier (*Trilby*):** *"And his egotism and conceit were not to be borne; and then he was both tawdry and dirty in his person; more greasily, mattedly unkempt than even a really successful pianist has any right to be, even in the best society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Having an untidy, disheveled, or neglected appearance; literally, uncombed or ungroomed.
+> 2. **Nuance / Usage**: Also applied to landscapes, gardens, or prose and speech that is rough, overgrown, unpolished, or lacking orderly care.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*an unkempt beard*) or predicatively (*remained unkempt*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Men on cycles, lean-faced, **unkempt**, scorched along every country lane, shouting of unhoped deliverance to gaunt, staring figures of despair."*
+> - 📜 **Jeffery Farnol (*The Broad Highway*):** *"Now, upon his whole person, from the crown of his **unkempt** head down to his broken, dusty boots, there yet clung that air of jaunty, devil-may-care rakishness."*
+> - 📜 **George du Maurier (*Trilby*):** *"He was both tawdry and dirty in his person; more greasily, mattedly **unkempt** than even a really successful pianist has any right to be."*

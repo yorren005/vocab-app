@@ -5,13 +5,6 @@ status: unread
 ---
 # mesohippus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american three-toed oligocene animal; probably not directly ancestral to modern horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american three-toed oligocene animal; probably not directly ancestral to modern horses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesohippus designates north american three-toed oligocene animal; probably not directly ancestral to modern horses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: North american three-toed oligocene animal; probably not directly ancestral to modern horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american three-toed oligocene animal; probably not directly ancestral to modern horses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesohippus designates north american three-toed oligocene animal; probably not directly ancestral to modern horses."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ornate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by elaborate rhetoric and elaborated with decorative details; ; -john milton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by elaborate rhetoric and elaborated with decorative details; ; -john milton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had made a toilet of a nicely-adjusted kind—of a nature between the carefully neat and the carelessly ornate—of a degree between fine-market-day and wet-Sunday selection."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The silence and pleasing coolness were in harmonious unison with the gleaming alabaster arches, and the subdued loveliness of arrangement was more agreeable to sense than Lehna Singh's ornate magnificence."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"S., Nov., 1864; Wordsworth, Tennyson, and Browning; or Pure, Ornate, and Grotesque Art in English Poetry; republ. in ‘Literary Studies’, by Walter Bagshot. 1865."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by elaborate rhetoric and elaborated with decorative details; ; -john milton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by elaborate rhetoric and elaborated with decorative details; ; -john milton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had made a toilet of a nicely-adjusted kind—of a nature between the carefully neat and the carelessly ornate—of a degree between fine-market-day and wet-Sunday selection."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The silence and pleasing coolness were in harmonious unison with the gleaming alabaster arches, and the subdued loveliness of arrangement was more agreeable to sense than Lehna Singh's ornate magnificence."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"S., Nov., 1864; Wordsworth, Tennyson, and Browning; or Pure, Ornate, and Grotesque Art in English Poetry; republ. in ‘Literary Studies’, by Walter Bagshot. 1865."*

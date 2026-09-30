@@ -5,13 +5,6 @@ status: unread
 ---
 # admissibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptability by virtue of being admissible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acceptability by virtue of being admissible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admissibility designates acceptability by virtue of being admissible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptability by virtue of being admissible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acceptability by virtue of being admissible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admissibility designates acceptability by virtue of being admissible."*

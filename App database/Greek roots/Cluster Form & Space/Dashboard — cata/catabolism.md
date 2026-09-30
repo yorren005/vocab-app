@@ -5,13 +5,6 @@ status: unread
 ---
 # catabolism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolism designates degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolism designates degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism."*

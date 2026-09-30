@@ -5,13 +5,6 @@ status: unread
 ---
 # expatriate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is voluntarily absent from home or country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expel from a country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Saint-Martin will not expatriate himself without from time to time making inquiries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is voluntarily absent from home or country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expel from a country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Saint-Martin will not expatriate himself without from time to time making inquiries."*

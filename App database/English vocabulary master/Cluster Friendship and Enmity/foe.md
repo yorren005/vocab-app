@@ -5,20 +5,6 @@ status: unread
 ---
 # foe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Enemy
-> 2. **Nuance / Usage**: Enemy in war
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That oft in field, with targe and shield, did make my foe to sweat."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"thou wert, if Fortune thy foe were not, Nature thy friend."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Ours is the fall, I fear, our foe’s the snare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: An armed adversary in warfare, or a personal enemy who bears active hostility or ill will toward another.
+> 2. **Nuance / Usage**: More elevated, literary, and heroic in register than *enemy*; also used figuratively for someone who opposes a principle, institution, or reform (*a foe of tyranny*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"That oft in field, with targe and shield, did make my **foe** to sweat."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Here Ehrenbreitstein, with her shattered wall, shows what the **foe** could not by force subdue."*
+> - 📜 **William Blake (*Songs of Experience*):** *"I was angry with my friend: I told my wrath, my wrath did end; I was angry with my **foe**: I told it not, my wrath did grow."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # invigorated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give life or energy to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"About half-an-hour later she invigorated herself by an effort, and took her seat and the reins as usual—in external appearance much as if nothing had happened."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The man who follows any branch of natural science in this way is almost always especially happy in its prosecution; and his mental powers are refreshed and invigorated for the more serious and engrossing if less congenial occupation of his life."*
-> - 📜 **Unknown (*The Second Story of Meno*):** *"Boy: Certainly, Socrates, though I am much invigorated by the solution of two parts of the puzzle with one thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give life or energy to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"About half-an-hour later she invigorated herself by an effort, and took her seat and the reins as usual—in external appearance much as if nothing had happened."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The man who follows any branch of natural science in this way is almost always especially happy in its prosecution; and his mental powers are refreshed and invigorated for the more serious and engrossing if less congenial occupation of his life."*
+> - 📜 **Unknown (*The Second Story of Meno*):** *"Boy: Certainly, Socrates, though I am much invigorated by the solution of two parts of the puzzle with one thought."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indignantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indignant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indignant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt quite indignantly assured her that he would never do such a thing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They were there, though, when we came into the woods." "The cowards!" Clevi cried indignantly, "To be afraid of trees!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was night-time, and you can imagine we did not see the color clearly," Clevi said indignantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indignant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indignant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt quite indignantly assured her that he would never do such a thing."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They were there, though, when we came into the woods." "The cowards!" Clevi cried indignantly, "To be afraid of trees!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was night-time, and you can imagine we did not see the color clearly," Clevi said indignantly."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rhodanthe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodanthe designates australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodanthe designates australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum."*

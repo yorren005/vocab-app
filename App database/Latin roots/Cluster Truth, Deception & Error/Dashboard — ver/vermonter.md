@@ -5,14 +5,6 @@ status: unread
 ---
 # vermonter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of vermont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of vermont.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There weekly arrive in this town scores of green Vermonters and New Hampshire men, all athirst for gain and glory in the fishery."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There weekly arrive in this town scores of green Vermonters and New Hampshire men, all athirst for gain and glory in the fishery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of vermont.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of vermont.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There weekly arrive in this town scores of green Vermonters and New Hampshire men, all athirst for gain and glory in the fishery."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There weekly arrive in this town scores of green Vermonters and New Hampshire men, all athirst for gain and glory in the fishery."*

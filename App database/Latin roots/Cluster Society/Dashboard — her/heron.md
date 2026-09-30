@@ -5,15 +5,6 @@ status: unread
 ---
 # heron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek mathematician and inventor who devised a way to determine the area of a triangle and who described various mechanical devices (first century).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grey or white wading bird with long neck and long legs and (usually) long bill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sole effect of her presence upon the placid valley so far had been to excite the mind of a solitary heron, which, after descending to the ground not far from her path, stood with neck erect, looking at her."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad First Ballads on Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad Second Ballads on Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek mathematician and inventor who devised a way to determine the area of a triangle and who described various mechanical devices (first century).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grey or white wading bird with long neck and long legs and (usually) long bill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sole effect of her presence upon the placid valley so far had been to excite the mind of a solitary heron, which, after descending to the ground not far from her path, stood with neck erect, looking at her."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad First Ballads on Mr."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad Second Ballads on Mr."*

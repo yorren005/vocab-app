@@ -5,15 +5,6 @@ status: unread
 ---
 # insidious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beguiling but harmful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to entrap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Having been honoured, like other strangers, with a place on the platform, I did not myself detect Lucifer at work among the multitude below; I merely suspected his insidious presence. [323] W.H.D."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The simple, strenuous ascetic did not realize the seriousness of sin after all--its deep roots, its haunting power, its insidious charm."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Beware how you misprise this potent ally, for hers is the art of Giotto and Dante: beware how you misprise this insidious foe, for hers is the art of modern France and of Byron."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beguiling but harmful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to entrap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Having been honoured, like other strangers, with a place on the platform, I did not myself detect Lucifer at work among the multitude below; I merely suspected his insidious presence. [323] W.H.D."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The simple, strenuous ascetic did not realize the seriousness of sin after all--its deep roots, its haunting power, its insidious charm."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Beware how you misprise this potent ally, for hers is the art of Giotto and Dante: beware how you misprise this insidious foe, for hers is the art of modern France and of Byron."*

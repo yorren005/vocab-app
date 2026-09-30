@@ -5,13 +5,6 @@ status: unread
 ---
 # antioxidant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antioxidant designates substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antioxidant designates substance that inhibits oxidation or inhibits reactions promoted by oxygen or peroxides."*

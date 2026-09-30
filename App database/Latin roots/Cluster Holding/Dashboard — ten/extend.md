@@ -5,15 +5,6 @@ status: unread
 ---
 # extend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in scope or range or area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do extend These thoughts of horror further than you shall Find cause in Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do extend him, sir, within himself; Crush him together rather than unfold His measure duly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in scope or range or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do extend These thoughts of horror further than you shall Find cause in Caesar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do extend him, sir, within himself; Crush him together rather than unfold His measure duly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*

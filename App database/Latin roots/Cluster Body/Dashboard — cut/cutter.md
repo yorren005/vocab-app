@@ -5,15 +5,6 @@ status: unread
 ---
 # cutter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who cuts or carves stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who carves the meat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, there is Fortune too hard for Nature, when Fortune makes Nature’s natural the cutter-off of Nature’s wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cutter Was as another nature, dumb; outwent her, Motion and breath left out."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Let’s see what you have.” “The best I have in stock is this one,” said the stone-cutter, going into a shed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who cuts or carves stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who carves the meat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, there is Fortune too hard for Nature, when Fortune makes Nature’s natural the cutter-off of Nature’s wit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cutter Was as another nature, dumb; outwent her, Motion and breath left out."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Let’s see what you have.” “The best I have in stock is this one,” said the stone-cutter, going into a shed."*

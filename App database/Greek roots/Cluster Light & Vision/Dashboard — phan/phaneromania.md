@@ -5,13 +5,6 @@ status: unread
 ---
 # phaneromania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible desire to pick at superficial body parts (as in obsessive nail-biting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible desire to pick at superficial body parts (as in obsessive nail-biting).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaneromania designates an irresistible desire to pick at superficial body parts (as in obsessive nail-biting)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible desire to pick at superficial body parts (as in obsessive nail-biting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible desire to pick at superficial body parts (as in obsessive nail-biting).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaneromania designates an irresistible desire to pick at superficial body parts (as in obsessive nail-biting)."*

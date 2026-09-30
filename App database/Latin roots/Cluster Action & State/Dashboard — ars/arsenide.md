@@ -5,13 +5,6 @@ status: unread
 ---
 # arsenide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of arsenic with a more positive element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound of arsenic with a more positive element.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Also, 2PbO + SO_{3} ➡ PbSO_{4}.PbO (basic sulphate). _Arsenides_ are partly left as the corresponding oxides, whilst some As_{4}O_{6} is evolved, and some basic arsenate generally remains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of arsenic with a more positive element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound of arsenic with a more positive element.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Also, 2PbO + SO_{3} ➡ PbSO_{4}.PbO (basic sulphate). _Arsenides_ are partly left as the corresponding oxides, whilst some As_{4}O_{6} is evolved, and some basic arsenate generally remains."*

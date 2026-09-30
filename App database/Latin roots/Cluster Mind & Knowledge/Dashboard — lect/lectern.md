@@ -5,15 +5,6 @@ status: unread
 ---
 # lectern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desk or stand with a slanted top used to hold a text at the proper height for a lecturer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desk or stand with a slanted top used to hold a text at the proper height for a lecturer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer entered behind Narval and moved to stand silently beside a lectern adjacent the view tank."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The Bible, on the little lectern, behind a gilt eagle no bigger than a sparrow, was open at the lesson for the day."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Though I knew very well that behind the hanging of dull purple at the lectern was the door by which Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Desk or stand with a slanted top used to hold a text at the proper height for a lecturer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desk or stand with a slanted top used to hold a text at the proper height for a lecturer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer entered behind Narval and moved to stand silently beside a lectern adjacent the view tank."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The Bible, on the little lectern, behind a gilt eagle no bigger than a sparrow, was open at the lesson for the day."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Though I knew very well that behind the hanging of dull purple at the lectern was the door by which Mr."*

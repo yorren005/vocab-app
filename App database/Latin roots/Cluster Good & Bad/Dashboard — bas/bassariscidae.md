@@ -5,13 +5,6 @@ status: unread
 ---
 # bassariscidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassariscidae designates in some classifications considered a separate family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassariscidae designates in some classifications considered a separate family."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # therapeutic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the treatment of disease or disorders by remedial agents or methods : curative, medicinal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a beneficial effect on the body or mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
-> - 📜 **Bram Stoker (*Dracula*):** *"When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Tests in our day Since God, divine Mind, governs all, not partially but 149:27 supremely, predicting disease does not dignify therapeutics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the treatment of disease or disorders by remedial agents or methods : curative, medicinal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a beneficial effect on the body or mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
+> - 📜 **Bram Stoker (*Dracula*):** *"When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Tests in our day Since God, divine Mind, governs all, not partially but 149:27 supremely, predicting disease does not dignify therapeutics."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # torticollis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unnatural condition in which the head leans to one side because the neck muscles on that side are contracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unnatural condition in which the head leans to one side because the neck muscles on that side are contracted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torticollis designates an unnatural condition in which the head leans to one side because the neck muscles on that side are contracted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unnatural condition in which the head leans to one side because the neck muscles on that side are contracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unnatural condition in which the head leans to one side because the neck muscles on that side are contracted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torticollis designates an unnatural condition in which the head leans to one side because the neck muscles on that side are contracted."*

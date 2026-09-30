@@ -5,13 +5,6 @@ status: unread
 ---
 # omphalocele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalocele designates protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalocele designates protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth."*

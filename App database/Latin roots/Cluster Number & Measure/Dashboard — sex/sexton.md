@@ -5,15 +5,6 @@ status: unread
 ---
 # sexton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet (1928-1974).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of the church who is in charge of sacred objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, e’en so: and now my Lady Worm’s; chapless, and knocked about the mazard with a sexton’s spade."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been sexton here, man and boy, thirty years."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Old Time the clock-setter, that bald sexton Time, Is it as he will?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet (1928-1974).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of the church who is in charge of sacred objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, e’en so: and now my Lady Worm’s; chapless, and knocked about the mazard with a sexton’s spade."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been sexton here, man and boy, thirty years."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Old Time the clock-setter, that bald sexton Time, Is it as he will?"*

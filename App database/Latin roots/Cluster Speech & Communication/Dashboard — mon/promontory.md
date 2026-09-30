@@ -5,15 +5,6 @@ status: unread
 ---
 # promontory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural elevation (especially a rocky one that juts out into the sea).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural elevation (especially a rocky one that juts out into the sea).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural elevation (especially a rocky one that juts out into the sea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural elevation (especially a rocky one that juts out into the sea).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*

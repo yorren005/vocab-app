@@ -5,14 +5,6 @@ status: unread
 ---
 # prosily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prosy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prosy manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prosy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prosy manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # octameter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having eight metrical feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having eight metrical feet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octameter designates a verse line having eight metrical feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having eight metrical feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having eight metrical feet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octameter designates a verse line having eight metrical feet."*

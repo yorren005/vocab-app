@@ -5,15 +5,6 @@ status: unread
 ---
 # oxygen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and scintillates in the subtile oxygen of his mind."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The cubic feet of oxygen yearly swallowed by a full-grown man—what a shudder they might have created in some Middlemarch circles!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Oxygen! nobody knows what that may be—is it any wonder the cholera has got to Dantzic?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and scintillates in the subtile oxygen of his mind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The cubic feet of oxygen yearly swallowed by a full-grown man—what a shudder they might have created in some Middlemarch circles!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Oxygen! nobody knows what that may be—is it any wonder the cholera has got to Dantzic?"*

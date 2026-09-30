@@ -5,15 +5,6 @@ status: unread
 ---
 # septuagint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The oldest greek version of the old testament; said to have been translated from the hebrew by jewish scholars at the request of ptolemy ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oldest greek version of the old testament; said to have been translated from the hebrew by jewish scholars at the request of ptolemy ii.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Don't talk miracles of that kind, or you will be proved to talk folly beyond even that of the Greeks."'[64] Trypho has the Hebrew text behind him, which says {191} nothing about a virgin, though the Septuagint has the word."*
-> - 📜 **James Joyce (*Ulysses*):** *"This tenebrosity of the interior, he proceeded to say, hath not been illumined by the wit of the septuagint nor so much as mentioned for the Orient from on high which brake hell’s gates visited a darkness that was foraneous."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This was translated as χαλκὸς (_chalcos_) in the Septuagint, and _Aes_ in the Vulgate; the Greeks and Romans using the terms, however, both for copper and for the alloys brass and bronze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The oldest greek version of the old testament; said to have been translated from the hebrew by jewish scholars at the request of ptolemy ii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oldest greek version of the old testament; said to have been translated from the hebrew by jewish scholars at the request of ptolemy ii.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Don't talk miracles of that kind, or you will be proved to talk folly beyond even that of the Greeks."'[64] Trypho has the Hebrew text behind him, which says {191} nothing about a virgin, though the Septuagint has the word."*
+> - 📜 **James Joyce (*Ulysses*):** *"This tenebrosity of the interior, he proceeded to say, hath not been illumined by the wit of the septuagint nor so much as mentioned for the Orient from on high which brake hell’s gates visited a darkness that was foraneous."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This was translated as χαλκὸς (_chalcos_) in the Septuagint, and _Aes_ in the Vulgate; the Greeks and Romans using the terms, however, both for copper and for the alloys brass and bronze."*

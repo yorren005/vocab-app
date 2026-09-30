@@ -5,15 +5,6 @@ status: unread
 ---
 # eugene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Austrian general in the service of the holy roman empire during the war of the spanish succession (1663-1736).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western oregon on the willamette river; site of a university.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Edwin was already half way up the tree and Eugene was just beginning to climb it."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"First I only threatened and tried in that way to force Edwin down and keep Eugene from going further."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"First, Edwin tumbled down on top of Eugene and then they both ran away moaning, while I kept on striking them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Austrian general in the service of the holy roman empire during the war of the spanish succession (1663-1736).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western oregon on the willamette river; site of a university.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Edwin was already half way up the tree and Eugene was just beginning to climb it."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"First I only threatened and tried in that way to force Edwin down and keep Eugene from going further."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"First, Edwin tumbled down on top of Eugene and then they both ran away moaning, while I kept on striking them."*

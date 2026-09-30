@@ -5,13 +5,6 @@ status: unread
 ---
 # monomorphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having but a single form, structural pattern, or genotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having but a single form, structural pattern, or genotype.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomorphic designates having but a single form, structural pattern, or genotype."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having but a single form, structural pattern, or genotype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having but a single form, structural pattern, or genotype.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomorphic designates having but a single form, structural pattern, or genotype."*

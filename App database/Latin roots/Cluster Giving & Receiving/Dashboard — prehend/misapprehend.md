@@ -5,15 +5,6 @@ status: unread
 ---
 # misapprehend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish not to misapprehend you.” “Not exactly the notice you were to receive, Lady Dedlock, because the contemplated notice supposed the agreement to have been observed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought you set less store by them even than I.” “You misapprehend me, father; you often do,” said Angel with a little impatience."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not to agitate and hinder her longer, the considerate Clare began talking in a more general way: “You quite misapprehend my parents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I wish not to misapprehend you.” “Not exactly the notice you were to receive, Lady Dedlock, because the contemplated notice supposed the agreement to have been observed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought you set less store by them even than I.” “You misapprehend me, father; you often do,” said Angel with a little impatience."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not to agitate and hinder her longer, the considerate Clare began talking in a more general way: “You quite misapprehend my parents."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypernym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is more generic than a given word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more generic than a given word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernym designates a word that is more generic than a given word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is more generic than a given word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more generic than a given word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernym designates a word that is more generic than a given word."*

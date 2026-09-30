@@ -5,15 +5,6 @@ status: unread
 ---
 # decorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Disposed about these muskets, like the cutlasses that decorate the bulkhead of a man-of-war’s cabin, were a great variety of rude spears and paddles, javelins, and war-clubs."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"There were some spots in that sunny vale where they would frequently resort to decorate themselves with garlands of flowers."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"These are but a few of the features of park scenery; but what most delights me, is the creative talent with which the English decorate the unostentatious abodes of middle life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Disposed about these muskets, like the cutlasses that decorate the bulkhead of a man-of-war’s cabin, were a great variety of rude spears and paddles, javelins, and war-clubs."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"There were some spots in that sunny vale where they would frequently resort to decorate themselves with garlands of flowers."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"These are but a few of the features of park scenery; but what most delights me, is the creative talent with which the English decorate the unostentatious abodes of middle life."*

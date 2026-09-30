@@ -5,13 +5,6 @@ status: unread
 ---
 # nontelescopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not telescopic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not telescopic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontelescopic designates not telescopic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not telescopic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not telescopic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontelescopic designates not telescopic."*

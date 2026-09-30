@@ -5,13 +5,6 @@ status: unread
 ---
 # bronchitic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or prone to bronchitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from or prone to bronchitis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchitic designates suffering from or prone to bronchitis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or prone to bronchitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from or prone to bronchitis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchitic designates suffering from or prone to bronchitis."*

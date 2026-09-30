@@ -5,15 +5,6 @@ status: unread
 ---
 # negotiable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being passed or negotiated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be negotiated or arranged by compromise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Purchase in the open market anywhere various kinds of negotiable paper. d."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I told them plainly, and as a business man, that they would only be running their heads into a trap if I wrote any such order, but that the cheque was negotiable anywhere."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rent-papers thus came in the fifteenth century to be negotiable paper in somewhat general use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being passed or negotiated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be negotiated or arranged by compromise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Purchase in the open market anywhere various kinds of negotiable paper. d."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I told them plainly, and as a business man, that they would only be running their heads into a trap if I wrote any such order, but that the cheque was negotiable anywhere."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rent-papers thus came in the fifteenth century to be negotiable paper in somewhat general use."*

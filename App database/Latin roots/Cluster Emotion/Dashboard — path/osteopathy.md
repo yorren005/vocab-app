@@ -5,13 +5,6 @@ status: unread
 ---
 # osteopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy based on the assumption that restoring health is best accomplished by manipulating the skeleton and muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy based on the assumption that restoring health is best accomplished by manipulating the skeleton and muscles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had been treated by doctors and specialists; had taken magnetic treatments and osteopathy; had tried change of climate; had an operation in a hospital, and when I came out was worse than before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy based on the assumption that restoring health is best accomplished by manipulating the skeleton and muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy based on the assumption that restoring health is best accomplished by manipulating the skeleton and muscles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had been treated by doctors and specialists; had taken magnetic treatments and osteopathy; had tried change of climate; had an operation in a hospital, and when I came out was worse than before."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # misty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled or abounding with fog or mist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wet with mist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Night’s candles are burnt out, and jocund day Stands tiptoe on the misty mountain tops."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O brother, help me with thy fainting hand, If fear hath made thee faint, as me it hath, Out of this fell devouring receptacle, As hateful as Cocytus’ misty mouth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a hollow cave or lurking-place, No vast obscurity or misty vale, Where bloody murder or detested rape Can couch for fear but I will find them out, And in their ears tell them my dreadful name, Revenge, which makes the foul offender quake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled or abounding with fog or mist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wet with mist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Night’s candles are burnt out, and jocund day Stands tiptoe on the misty mountain tops."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O brother, help me with thy fainting hand, If fear hath made thee faint, as me it hath, Out of this fell devouring receptacle, As hateful as Cocytus’ misty mouth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a hollow cave or lurking-place, No vast obscurity or misty vale, Where bloody murder or detested rape Can couch for fear but I will find them out, And in their ears tell them my dreadful name, Revenge, which makes the foul offender quake."*

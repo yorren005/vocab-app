@@ -5,15 +5,6 @@ status: unread
 ---
 # transmitting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is remarkable, however, that she neither insisted on Catherine’s writing by every post, nor exacted her promise of transmitting the character of every new acquaintance, nor a detail of every interesting conversation that Bath might produce."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The first one was laid in the years 1857 and 1858; but, after transmitting about 400 telegrams, would not act any longer."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The capsule is transmitting orders to each ship of the fleet to move to new coordinates in a three-dimensional tract."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is remarkable, however, that she neither insisted on Catherine’s writing by every post, nor exacted her promise of transmitting the character of every new acquaintance, nor a detail of every interesting conversation that Bath might produce."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The first one was laid in the years 1857 and 1858; but, after transmitting about 400 telegrams, would not act any longer."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The capsule is transmitting orders to each ship of the fleet to move to new coordinates in a three-dimensional tract."*

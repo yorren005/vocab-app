@@ -5,15 +5,6 @@ status: unread
 ---
 # primaeval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having existed from the beginning; in an earliest or original stage or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having existed from the beginning; in an earliest or original stage or state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Above them rose the primaeval yews and oaks of The Chase, in which there poised gentle roosting birds in their last nap; and about them stole the hopping rabbits and hares."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"No one will probably deny that such a custom savours of a barbarous age, and, surviving into imperial times, stands out in striking isolation from the polished Italian society of the day, like a primaeval rock rising from a smooth-shaven lawn."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For at the dawn of history Europe was covered with immense primaeval forests, in which the scattered clearings must have appeared like islets in an ocean of green."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having existed from the beginning; in an earliest or original stage or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having existed from the beginning; in an earliest or original stage or state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Above them rose the primaeval yews and oaks of The Chase, in which there poised gentle roosting birds in their last nap; and about them stole the hopping rabbits and hares."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"No one will probably deny that such a custom savours of a barbarous age, and, surviving into imperial times, stands out in striking isolation from the polished Italian society of the day, like a primaeval rock rising from a smooth-shaven lawn."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For at the dawn of history Europe was covered with immense primaeval forests, in which the scattered clearings must have appeared like islets in an ocean of green."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thermograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermograph designates medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermograph designates medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # motivative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impelling to action; - arthur pap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impelling to action; - arthur pap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivative designates impelling to action; - arthur pap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impelling to action; - arthur pap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impelling to action; - arthur pap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivative designates impelling to action; - arthur pap."*

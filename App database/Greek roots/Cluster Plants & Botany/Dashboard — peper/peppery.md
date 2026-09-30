@@ -5,15 +5,6 @@ status: unread
 ---
 # peppery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the piquant burning taste of peppers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the piquant burning taste of peppers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In "Not Really a Coward," Vincent Devereux had rescued the earl's daughter from a fire, whereas in "Hilda's Hero" it was the peppery old father whom Tom Slingsby saved."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They also eat with it a leaf which is rather peppery but pleasant to the taste."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Young America, wasting uncounted gallons of midnight oil in the perusal of peppery tales of border life, little suspects how slight the foundation upon which his favorite author has reared the whole vast superstructure of thrilling adventure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the piquant burning taste of peppers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the piquant burning taste of peppers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In "Not Really a Coward," Vincent Devereux had rescued the earl's daughter from a fire, whereas in "Hilda's Hero" it was the peppery old father whom Tom Slingsby saved."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They also eat with it a leaf which is rather peppery but pleasant to the taste."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Young America, wasting uncounted gallons of midnight oil in the perusal of peppery tales of border life, little suspects how slight the foundation upon which his favorite author has reared the whole vast superstructure of thrilling adventure."*

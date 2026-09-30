@@ -5,15 +5,6 @@ status: unread
 ---
 # recuperate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regain or make up for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regain a former condition after a financial loss.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another bout of this duration they gave me, after a day and a night to recuperate."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The programme, as given me by Warden Atherton, was that I was to rest up and recuperate for a few days, and then, if in the meantime I had not confessed to the hiding-place of the dynamite, I should be given another ten days in the jacket."*
-> - 📜 **Bram Stoker (*Dracula*):** *"We want sleep, both you and I, and rest to recuperate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regain or make up for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regain a former condition after a financial loss.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another bout of this duration they gave me, after a day and a night to recuperate."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The programme, as given me by Warden Atherton, was that I was to rest up and recuperate for a few days, and then, if in the meantime I had not confessed to the hiding-place of the dynamite, I should be given another ten days in the jacket."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We want sleep, both you and I, and rest to recuperate."*

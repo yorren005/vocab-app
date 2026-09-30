@@ -5,13 +5,6 @@ status: unread
 ---
 # quadruplet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of three and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four children born at the same time from the same pregnancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplet designates the cardinal number that is the sum of three and one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of three and one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four children born at the same time from the same pregnancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplet designates the cardinal number that is the sum of three and one."*

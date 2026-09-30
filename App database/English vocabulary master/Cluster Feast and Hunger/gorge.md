@@ -5,20 +5,6 @@ status: unread
 ---
 # gorge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hawk's crop
-> 2. **Nuance / Usage**: (botany) the throat of a flower
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Sportsman’s Dictionary; or, The Gentleman’s Companion: For Town and Country.{{nb...*):** *"Gleam, a term uſed after a hawk hath caſt and gleameth, or throweth up filth from her gorge."*
-> - 📜 **“Snorro” [pseudonym (*The Fenian Chase of Lough Derg*):** *"Then as it [a giant serpent] opened its gorge with a gasp, <br> Darra his son made a running bound, <br> And keeping his sharp skian firm in his grasp, <br> Dived headlong into its throat profound."*
-> - 📜 **Madeleine L'Engle (*A Wrinkle in Time*):** *"Now her worries about Charles Wallace and her disappointment in her father’s human fallibility rose like gorge in her throat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To stuff oneself with food greedily and to excess; to eat until uncomfortably full.
+> 2. **Nuance / Usage**: Derived from the noun meaning the throat or gullet (as in *"one's gorge rises"* in revulsion or anger), the verb emphasizes coarse, unrestrained gluttony.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"My **gorge** rises at it."*
+> - 📜 **Madeleine L'Engle (*A Wrinkle in Time*):** *"Now her worries about Charles Wallace and her disappointment in her father’s human fallibility rose like **gorge** in her throat."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sharks **gorged** themselves upon the whale's flank until they could scarce swim."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # noth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek noth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Wealth may obviate the necessity for toil or the chance for ill-nature in the marriage relation, but noth- 58:30 ing can abolish the cares of marriage."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For many years, he 221:3 ate only bread and vegetables, and drank noth- ing but water."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Noth- ing but a display of matter could make existence real 318:1 to Thomas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek noth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Self & Identity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Wealth may obviate the necessity for toil or the chance for ill-nature in the marriage relation, but noth- 58:30 ing can abolish the cares of marriage."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For many years, he 221:3 ate only bread and vegetables, and drank noth- ing but water."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Noth- ing but a display of matter could make existence real 318:1 to Thomas."*

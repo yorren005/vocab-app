@@ -5,13 +5,6 @@ status: unread
 ---
 # dimensionality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of having dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of having dimensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimensionality designates the spatial property of having dimensions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of having dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of having dimensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimensionality designates the spatial property of having dimensions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # removal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dismissal from office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The letter gave me only five days’ notice of my removal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was very obliging, and as he handed me into a fly after superintending the removal of my boxes, I asked him whether there was a great fire anywhere?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The door was open, and the hall was blocked up by a grand piano, a harp, and several other musical instruments in cases, all in progress of removal, and all looking rakish in the daylight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dismissal from office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The letter gave me only five days’ notice of my removal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was very obliging, and as he handed me into a fly after superintending the removal of my boxes, I asked him whether there was a great fire anywhere?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The door was open, and the hall was blocked up by a grand piano, a harp, and several other musical instruments in cases, all in progress of removal, and all looking rakish in the daylight."*

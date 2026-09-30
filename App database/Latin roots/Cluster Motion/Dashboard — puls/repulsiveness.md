@@ -5,15 +5,6 @@ status: unread
 ---
 # repulsiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being disgusting to the senses or emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being disgusting to the senses or emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is in no slight degree through the constant recognition of its truth, that he has been enabled to divest of repulsiveness even the most abstract speculations, and to impart a glow of human interest to all that he has touched."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The terror of contemporary life, with its repulsiveness, its brutality and its fascination, drove men in search of the moral guide."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had reached the age of sixteen then, I think, and without having bad features, or being deficient in intellect, he contrived to convey an impression of inward and outward repulsiveness that his present aspect retains no traces of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being disgusting to the senses or emotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being disgusting to the senses or emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is in no slight degree through the constant recognition of its truth, that he has been enabled to divest of repulsiveness even the most abstract speculations, and to impart a glow of human interest to all that he has touched."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The terror of contemporary life, with its repulsiveness, its brutality and its fascination, drove men in search of the moral guide."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had reached the age of sixteen then, I think, and without having bad features, or being deficient in intellect, he contrived to convey an impression of inward and outward repulsiveness that his present aspect retains no traces of."*

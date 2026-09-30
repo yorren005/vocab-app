@@ -5,15 +5,6 @@ status: unread
 ---
 # alienation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being alienated from other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation resulting from hostility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sympathies, I believe, exist (for instance, between far-distant, long-absent, wholly estranged relatives asserting, notwithstanding their alienation, the unity of the source to which each traces his origin) whose workings baffle mortal comprehension."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A very respectable solicitor.” “I never noticed any alienation of mind—any aberration of intellect in the late Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was determined not to speak to his cousin, and that Will’s presence at church had served to mark more strongly the alienation between them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being alienated from other people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation resulting from hostility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sympathies, I believe, exist (for instance, between far-distant, long-absent, wholly estranged relatives asserting, notwithstanding their alienation, the unity of the source to which each traces his origin) whose workings baffle mortal comprehension."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A very respectable solicitor.” “I never noticed any alienation of mind—any aberration of intellect in the late Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was determined not to speak to his cousin, and that Will’s presence at church had served to mark more strongly the alienation between them."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ichthyosauridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosauridae designates later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosauridae designates later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres."*

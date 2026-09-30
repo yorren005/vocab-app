@@ -5,13 +5,6 @@ status: unread
 ---
 # unadorned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated with something to increase its beauty or distinction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decorated with something to increase its beauty or distinction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She moved like one of those bright beings pictured in the sunny walks of fancy’s Eden by the romantic and young, a queen of beauty unadorned save by her own transcendent loveliness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated with something to increase its beauty or distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decorated with something to increase its beauty or distinction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She moved like one of those bright beings pictured in the sunny walks of fancy’s Eden by the romantic and young, a queen of beauty unadorned save by her own transcendent loveliness."*

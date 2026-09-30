@@ -5,15 +5,6 @@ status: unread
 ---
 # beneficent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing or producing good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generous in assistance to the poor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But you are a single person, sir, and may you long be spared to ask a married person such a question!” With this beneficent wish, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Considering his position he became wonderfully free from the chronic melancholy which is taking hold of the civilized races with the decline of belief in a beneficent Power."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This work is so awful in its importance, and so beneficent in its results, that it must take the chief place in a minister's thoughts and in the disposition of his time; and if it requires the sole place, that too must be accorded to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing or producing good.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generous in assistance to the poor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But you are a single person, sir, and may you long be spared to ask a married person such a question!” With this beneficent wish, Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Considering his position he became wonderfully free from the chronic melancholy which is taking hold of the civilized races with the decline of belief in a beneficent Power."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"This work is so awful in its importance, and so beneficent in its results, that it must take the chief place in a minister's thoughts and in the disposition of his time; and if it requires the sole place, that too must be accorded to it."*

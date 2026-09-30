@@ -5,15 +5,6 @@ status: unread
 ---
 # octennial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin oct within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of oct in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Of late these shackles, if I mistake not, have been broken; and octennial parliaments have besides been established."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Now an octennial cycle is the shortest period at the end of which sun and moon really mark time together after overlapping, so to say, throughout the whole of the interval."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Without being unduly rash we may surmise that the tribute of seven youths and seven maidens whom the Athenians were bound to send to Minos every eight years had some connexion with the renewal of the king's power for another octennial cycle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin oct within the domain of Number & Measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of oct in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Of late these shackles, if I mistake not, have been broken; and octennial parliaments have besides been established."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Now an octennial cycle is the shortest period at the end of which sun and moon really mark time together after overlapping, so to say, throughout the whole of the interval."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Without being unduly rash we may surmise that the tribute of seven youths and seven maidens whom the Athenians were bound to send to Minos every eight years had some connexion with the renewal of the king's power for another octennial cycle."*

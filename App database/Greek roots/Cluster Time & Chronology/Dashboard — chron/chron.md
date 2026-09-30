@@ -5,13 +5,6 @@ status: unread
 ---
 # chron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: chronicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: chronological; chronology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christ to reign after the 1 _Chron._ 16, 23, 25-31: (a Crucifixion. psalm)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: chronicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: chronological; chronology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christ to reign after the 1 _Chron._ 16, 23, 25-31: (a Crucifixion. psalm)."*

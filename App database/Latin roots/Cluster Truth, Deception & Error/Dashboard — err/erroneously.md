@@ -5,15 +5,6 @@ status: unread
 ---
 # erroneously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mistaken manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mistaken manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He argued erroneously when he said to himself that her heart was not indexed in the honest freshness of her face; but Tess had no advocate to set him right."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certain it is that the winter solstice, which the ancients erroneously assigned to the twenty-fifth of December, was celebrated in antiquity as the Birthday of the Sun, and that festal lights or fires were kindled on this joyful occasion."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I have never understood that the decisions of the council on constitutional questions, whether rightly or erroneously formed, have had any effect in varying the practice founded on legislative constructions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mistaken manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mistaken manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He argued erroneously when he said to himself that her heart was not indexed in the honest freshness of her face; but Tess had no advocate to set him right."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certain it is that the winter solstice, which the ancients erroneously assigned to the twenty-fifth of December, was celebrated in antiquity as the Birthday of the Sun, and that festal lights or fires were kindled on this joyful occasion."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I have never understood that the decisions of the council on constitutional questions, whether rightly or erroneously formed, have had any effect in varying the practice founded on legislative constructions."*

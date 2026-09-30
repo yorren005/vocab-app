@@ -5,13 +5,6 @@ status: unread
 ---
 # plasticine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticine designates a synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticine designates a synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools)."*

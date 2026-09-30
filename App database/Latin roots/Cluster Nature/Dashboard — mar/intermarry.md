@@ -5,15 +5,6 @@ status: unread
 ---
 # intermarry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marry within the same ethnic, social, or family group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marry within the same ethnic, social, or family group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They seldom intermarry with their neighbours on the north-west side of the Gower."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They were old manufacturers, and had kept a good house for three generations, in which there had naturally been much intermarrying with neighbors more or less decidedly genteel."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Two people whose children have intermarried are also debarred from mentioning each other's names."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marry within the same ethnic, social, or family group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marry within the same ethnic, social, or family group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They seldom intermarry with their neighbours on the north-west side of the Gower."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They were old manufacturers, and had kept a good house for three generations, in which there had naturally been much intermarrying with neighbors more or less decidedly genteel."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Two people whose children have intermarried are also debarred from mentioning each other's names."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ricer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen utensil used for ricing soft foods by extruding them through small holes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen utensil used for ricing soft foods by extruding them through small holes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ricer designates a kitchen utensil used for ricing soft foods by extruding them through small holes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen utensil used for ricing soft foods by extruding them through small holes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen utensil used for ricing soft foods by extruding them through small holes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ricer designates a kitchen utensil used for ricing soft foods by extruding them through small holes."*

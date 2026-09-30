@@ -5,13 +5,6 @@ status: unread
 ---
 # exterminator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The exterminator of error is the great truth that God, good, is the /only/ Mind, and 469:15 that the supposititious opposite of infinite Mind - called /devil/ or evil - is not Mind, is not Truth, but error, without intelligence or reality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The exterminator of error is the great truth that God, good, is the /only/ Mind, and 469:15 that the supposititious opposite of infinite Mind - called /devil/ or evil - is not Mind, is not Truth, but error, without intelligence or reality."*

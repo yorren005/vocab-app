@@ -5,13 +5,6 @@ status: unread
 ---
 # centrosymmetric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symmetric with respect to a central point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symmetric with respect to a central point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosymmetric designates symmetric with respect to a central point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Symmetric with respect to a central point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symmetric with respect to a central point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosymmetric designates symmetric with respect to a central point."*

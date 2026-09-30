@@ -5,13 +5,6 @@ status: unread
 ---
 # ather
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready to obey one's command immediately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a charge against one as being responsible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ather designates ready to obey one's command immediately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready to obey one's command immediately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a charge against one as being responsible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ather designates ready to obey one's command immediately."*

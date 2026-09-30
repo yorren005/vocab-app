@@ -5,13 +5,6 @@ status: unread
 ---
 # microphage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neutrophil that ingests small things (as bacteria).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neutrophil that ingests small things (as bacteria).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphage designates a neutrophil that ingests small things (as bacteria)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neutrophil that ingests small things (as bacteria).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neutrophil that ingests small things (as bacteria).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphage designates a neutrophil that ingests small things (as bacteria)."*

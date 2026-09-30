@@ -5,15 +5,6 @@ status: unread
 ---
 # deflection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A twist or aberration; especially a perverse or abnormal way of judging or acting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which a propagating wave is bent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, such a slight deflection, a matter of inches, just barely sufficient to send his point past me so that it pierced a fold of my satin doublet in passing."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Deflection of being 502:9 Spiritually followed, the book of Genesis is the history of the untrue image of God, named a sinful mortal."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The deflection of the needle, therefore, gives us a measure of the strength of the current."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twist or aberration; especially a perverse or abnormal way of judging or acting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which a propagating wave is bent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, such a slight deflection, a matter of inches, just barely sufficient to send his point past me so that it pierced a fold of my satin doublet in passing."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Deflection of being 502:9 Spiritually followed, the book of Genesis is the history of the untrue image of God, named a sinful mortal."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The deflection of the needle, therefore, gives us a measure of the strength of the current."*

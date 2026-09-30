@@ -5,13 +5,6 @@ status: unread
 ---
 # letterhead
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of stationery with name and address of the organization printed at the top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of stationery with name and address of the organization printed at the top.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"No, not on the bill letterheads--on the regular office sheets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of stationery with name and address of the organization printed at the top.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of stationery with name and address of the organization printed at the top.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"No, not on the bill letterheads--on the regular office sheets."*

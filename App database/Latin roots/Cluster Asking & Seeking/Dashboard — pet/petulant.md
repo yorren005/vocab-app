@@ -5,15 +5,6 @@ status: unread
 ---
 # petulant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The petulant threat of some, that in the event of Disestablishment they would abandon Presbyterianism, he absolutely declined to notice."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They are perfectly charming.” “That entirely depends on how you sit to-day, Dorian.” “Oh, I am tired of sitting, and I don’t want a life-sized portrait of myself,” answered the lad, swinging round on the music-stool in a wilful, petulant manner."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You make it so much more difficult for me.” “What is it all about?” cried Dorian in his petulant way, flinging himself down on the sofa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The petulant threat of some, that in the event of Disestablishment they would abandon Presbyterianism, he absolutely declined to notice."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They are perfectly charming.” “That entirely depends on how you sit to-day, Dorian.” “Oh, I am tired of sitting, and I don’t want a life-sized portrait of myself,” answered the lad, swinging round on the music-stool in a wilful, petulant manner."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You make it so much more difficult for me.” “What is it all about?” cried Dorian in his petulant way, flinging himself down on the sofa."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # magnetically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By the use of magnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by magnetism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By the use of magnetism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by magnetism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*

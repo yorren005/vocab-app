@@ -5,13 +5,6 @@ status: unread
 ---
 # stabilisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something (as a vessel or aircraft) less likely to overturn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of stabilizing something or making it more stable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stabilisation designates the act of making something (as a vessel or aircraft) less likely to overturn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something (as a vessel or aircraft) less likely to overturn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of stabilizing something or making it more stable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stabilisation designates the act of making something (as a vessel or aircraft) less likely to overturn."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # adoptable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or eligible for adoption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable or eligible for adoption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adoptable designates suitable or eligible for adoption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or eligible for adoption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable or eligible for adoption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adoptable designates suitable or eligible for adoption."*

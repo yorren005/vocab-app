@@ -5,14 +5,6 @@ status: unread
 ---
 # modernise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become technologically advanced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make repairs, renovations, revisions or adjustments to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"They are of about the period of the Nuns’ House, irregularly modernised here and there, as steadily deteriorating generations found, more and more, that they preferred air and light to Fever and the Plague."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"On the north of the great tower is a long range of apartments, which seem to be of more recent construction, or to have been modernised in later times by one or other of its titled proprietors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become technologically advanced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make repairs, renovations, revisions or adjustments to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"They are of about the period of the Nuns’ House, irregularly modernised here and there, as steadily deteriorating generations found, more and more, that they preferred air and light to Fever and the Plague."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"On the north of the great tower is a long range of apartments, which seem to be of more recent construction, or to have been modernised in later times by one or other of its titled proprietors."*

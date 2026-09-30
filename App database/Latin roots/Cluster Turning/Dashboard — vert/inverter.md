@@ -5,13 +5,6 @@ status: unread
 ---
 # inverter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical converter that converts direct current into alternating current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical converter that converts direct current into alternating current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inverter designates an electrical converter that converts direct current into alternating current."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical converter that converts direct current into alternating current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical converter that converts direct current into alternating current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inverter designates an electrical converter that converts direct current into alternating current."*

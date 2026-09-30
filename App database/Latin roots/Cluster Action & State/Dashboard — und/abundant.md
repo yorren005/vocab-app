@@ -5,15 +5,6 @@ status: unread
 ---
 # abundant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Present in great quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present in great quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have too few to take my leave of you, When the tongue’s office should be prodigal To breathe the abundant dolour of the heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy overflow of good converts to bad, And thy abundant goodness shall excuse This deadly blot in thy digressing son."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To shuffle through the streets, unfamiliar with the shapes, and in utter darkness as to the meaning, of those mysterious symbols, so abundant over the shops, and at the corners of streets, and on the doors, and in the windows!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Present in great quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present in great quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have too few to take my leave of you, When the tongue’s office should be prodigal To breathe the abundant dolour of the heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy overflow of good converts to bad, And thy abundant goodness shall excuse This deadly blot in thy digressing son."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To shuffle through the streets, unfamiliar with the shapes, and in utter darkness as to the meaning, of those mysterious symbols, so abundant over the shops, and at the corners of streets, and on the doors, and in the windows!"*

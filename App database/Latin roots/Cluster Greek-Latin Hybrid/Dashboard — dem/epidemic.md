@@ -5,15 +5,6 @@ status: unread
 ---
 # epidemic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread outbreak of an infectious disease; many people are infected at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Whilst many were dying around him, _his health_ continued to improve; so that with the disappearance of the epidemic he found himself sufficiently restored to venture, if Providence should open the door, to resume his ministerial work."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The heedlessness of one family may bring an epidemic upon an entire city."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"An epidemic was raging among the children, and the need-fire was resorted to as a means of staying the plague."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread outbreak of an infectious disease; many people are infected at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Whilst many were dying around him, _his health_ continued to improve; so that with the disappearance of the epidemic he found himself sufficiently restored to venture, if Providence should open the door, to resume his ministerial work."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The heedlessness of one family may bring an epidemic upon an entire city."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"An epidemic was raging among the children, and the need-fire was resorted to as a means of staying the plague."*

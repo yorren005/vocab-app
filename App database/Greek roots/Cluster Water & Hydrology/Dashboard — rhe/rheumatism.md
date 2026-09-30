@@ -5,15 +5,6 @@ status: unread
 ---
 # rheumatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various conditions characterized by inflammation or pain in muscles, joints, or fibrous tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rheumatoid arthritis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The same gentleman, while calling on a poor family one day, discovered a little house in the rear, which he visited, finding a neat, cleanly room, occupied by an old lady, crippled with rheumatism."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller's own statement is as follows, and it is fully endorsed by the most reliable citizens and members of the First church at Oberlin: "From my parents I inherited a constitution subject to a chronic form of rheumatism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various conditions characterized by inflammation or pain in muscles, joints, or fibrous tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rheumatoid arthritis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The same gentleman, while calling on a poor family one day, discovered a little house in the rear, which he visited, finding a neat, cleanly room, occupied by an old lady, crippled with rheumatism."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller's own statement is as follows, and it is fully endorsed by the most reliable citizens and members of the First church at Oberlin: "From my parents I inherited a constitution subject to a chronic form of rheumatism."*

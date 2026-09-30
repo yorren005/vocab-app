@@ -5,13 +5,6 @@ status: unread
 ---
 # parmelia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the parmeliaceae; a large genus of chiefly alpine foliaceous lichens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the parmeliaceae; a large genus of chiefly alpine foliaceous lichens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parmelia designates type genus of the parmeliaceae; a large genus of chiefly alpine foliaceous lichens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the parmeliaceae; a large genus of chiefly alpine foliaceous lichens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the parmeliaceae; a large genus of chiefly alpine foliaceous lichens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parmelia designates type genus of the parmeliaceae; a large genus of chiefly alpine foliaceous lichens."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # incompressible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being compressed; resisting compression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being compressed; resisting compression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Water is practically incompressible, so that the water at the bottom of the sea is no heavier than that near the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being compressed; resisting compression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being compressed; resisting compression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Water is practically incompressible, so that the water at the bottom of the sea is no heavier than that near the surface."*

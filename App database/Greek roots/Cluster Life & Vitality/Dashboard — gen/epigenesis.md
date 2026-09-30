@@ -5,13 +5,6 @@ status: unread
 ---
 # epigenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems; also : the theory that plant and animal development proceeds in this way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the mineral character of a rock owing to outside influences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigenesis designates development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems; also : the theory that plant and animal development proceeds in this way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems; also : the theory that plant and animal development proceeds in this way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the mineral character of a rock owing to outside influences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigenesis designates development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems; also : the theory that plant and animal development proceeds in this way."*

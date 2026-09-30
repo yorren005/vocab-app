@@ -5,13 +5,6 @@ status: unread
 ---
 # pellucidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from obscurity and easy to understand; the comprehensibility of clear expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing light without diffusion or distortion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pellucidity designates free from obscurity and easy to understand; the comprehensibility of clear expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from obscurity and easy to understand; the comprehensibility of clear expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing light without diffusion or distortion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pellucidity designates free from obscurity and easy to understand; the comprehensibility of clear expression."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # energising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raise to a higher energy level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Generally speaking, alternating current is no use for energising a magnet."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If a magnet be arranged to attract another magnet, it will do so only when the energising current flows one way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Raise to a higher energy level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Generally speaking, alternating current is no use for energising a magnet."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If a magnet be arranged to attract another magnet, it will do so only when the energising current flows one way."*

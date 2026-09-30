@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcosporidia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfectly known parasites of the muscles of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfectly known parasites of the muscles of vertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosporidia designates imperfectly known parasites of the muscles of vertebrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfectly known parasites of the muscles of vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfectly known parasites of the muscles of vertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosporidia designates imperfectly known parasites of the muscles of vertebrates."*

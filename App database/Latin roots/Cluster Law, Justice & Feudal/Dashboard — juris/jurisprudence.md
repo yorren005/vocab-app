@@ -5,15 +5,6 @@ status: unread
 ---
 # jurisprudence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of rules imposed by authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"If you come to dignity it is a question for Minchin and Sprague.” “Does medical jurisprudence provide nothing against these infringements?” said Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"HIS STUDIES IN MORALS AND JURISPRUDENCE."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"VII HIS STUDIES IN MORALS AND JURISPRUDENCE The two chief characteristics of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of rules imposed by authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"If you come to dignity it is a question for Minchin and Sprague.” “Does medical jurisprudence provide nothing against these infringements?” said Mr."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"HIS STUDIES IN MORALS AND JURISPRUDENCE."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"VII HIS STUDIES IN MORALS AND JURISPRUDENCE The two chief characteristics of Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # philanderer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who likes many women and has short sexual relationships with them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who likes many women and has short sexual relationships with them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philanderer designates a man who likes many women and has short sexual relationships with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who likes many women and has short sexual relationships with them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who likes many women and has short sexual relationships with them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philanderer designates a man who likes many women and has short sexual relationships with them."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # posit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put (something somewhere) firmly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we posit that Jesus did not exist, we shall be involved other difficulties as to the story of the Church."*
-> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"No physical affinity The illusive senses may fancy affinities with their op- posites; but in Christian Science, Truth never mingles 191:30 with error."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put (something somewhere) firmly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we posit that Jesus did not exist, we shall be involved other difficulties as to the story of the Church."*
+> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"No physical affinity The illusive senses may fancy affinities with their op- posites; but in Christian Science, Truth never mingles 191:30 with error."*

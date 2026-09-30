@@ -5,13 +5,6 @@ status: unread
 ---
 # ideology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orientation that characterizes the thinking of a group or nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imaginary or visionary theorization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideology designates an orientation that characterizes the thinking of a group or nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orientation that characterizes the thinking of a group or nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imaginary or visionary theorization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideology designates an orientation that characterizes the thinking of a group or nation."*

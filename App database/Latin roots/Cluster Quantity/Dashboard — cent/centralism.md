@@ -5,13 +5,6 @@ status: unread
 ---
 # centralism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political policy of concentrating power in a central organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political policy of concentrating power in a central organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralism designates the political policy of concentrating power in a central organization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political policy of concentrating power in a central organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political policy of concentrating power in a central organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralism designates the political policy of concentrating power in a central organization."*

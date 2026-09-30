@@ -5,15 +5,6 @@ status: unread
 ---
 # disrupt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a break in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw into disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need you to gather and send confirmations to us and, while you're doing that, disrupt the plans and weapons being marshaled against us."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The real target's spunnel lines will crash, destabilization will disrupt the entire Slingshot construction schedule."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In other words, his coming here is to disrupt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a break in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw into disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need you to gather and send confirmations to us and, while you're doing that, disrupt the plans and weapons being marshaled against us."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The real target's spunnel lines will crash, destabilization will disrupt the entire Slingshot construction schedule."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In other words, his coming here is to disrupt."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # chiliasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiliasm designates belief in the christian doctrine of the millennium mentioned in the book of revelations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiliasm designates belief in the christian doctrine of the millennium mentioned in the book of revelations."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # immerse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrust or throw into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devote (oneself) fully to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is a common dodge with amateur photographers if they want to dry a negative quickly to immerse it in methylated spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrust or throw into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devote (oneself) fully to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is a common dodge with amateur photographers if they want to dry a negative quickly to immerse it in methylated spirit."*

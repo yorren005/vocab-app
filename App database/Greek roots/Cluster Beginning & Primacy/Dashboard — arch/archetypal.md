@@ -5,13 +5,6 @@ status: unread
 ---
 # archetypal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetypal designates representing or constituting an original type after which other similar things are patterned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetypal designates representing or constituting an original type after which other similar things are patterned."*

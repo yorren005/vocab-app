@@ -5,13 +5,6 @@ status: unread
 ---
 # communalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something the property of the commune or community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make something the property of the commune or community.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communalise designates make something the property of the commune or community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something the property of the commune or community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make something the property of the commune or community.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communalise designates make something the property of the commune or community."*

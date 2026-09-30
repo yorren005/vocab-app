@@ -5,13 +5,6 @@ status: unread
 ---
 # satisfactoriness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of giving satisfaction sufficient to meet a demand or requirement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of giving satisfaction sufficient to meet a demand or requirement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then I shall respect your opinion of their satisfactoriness as a staff of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of giving satisfaction sufficient to meet a demand or requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of giving satisfaction sufficient to meet a demand or requirement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then I shall respect your opinion of their satisfactoriness as a staff of life."*

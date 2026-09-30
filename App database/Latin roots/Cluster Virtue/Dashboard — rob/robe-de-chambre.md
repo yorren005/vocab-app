@@ -5,13 +5,6 @@ status: unread
 ---
 # robe-de-chambre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A robe worn before dressing or while lounging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A robe worn before dressing or while lounging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robe-de-chambre designates a robe worn before dressing or while lounging."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A robe worn before dressing or while lounging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A robe worn before dressing or while lounging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robe-de-chambre designates a robe worn before dressing or while lounging."*

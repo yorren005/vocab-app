@@ -5,15 +5,6 @@ status: unread
 ---
 # renovate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to a previous or better condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make brighter and prettier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It revived her, but could not renovate her courage."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"A thousand years scarce serve to form a state; An hour may lay it in the dust: and when Can man its shattered splendour renovate, Recall its virtues back, and vanquish Time and Fate?"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She insisted on much cleaning and renovating, and on the day of the arrival robbed the green-houses and conservatories for the adornment of the house, the table, and her own person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to a previous or better condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make brighter and prettier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It revived her, but could not renovate her courage."*
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"A thousand years scarce serve to form a state; An hour may lay it in the dust: and when Can man its shattered splendour renovate, Recall its virtues back, and vanquish Time and Fate?"*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She insisted on much cleaning and renovating, and on the day of the arrival robbed the green-houses and conservatories for the adornment of the house, the table, and her own person."*

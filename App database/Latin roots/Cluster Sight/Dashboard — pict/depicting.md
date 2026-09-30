@@ -5,15 +5,6 @@ status: unread
 ---
 # depicting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation by picture or portraiture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show in, or as in, a picture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Goldwin Smith has truly observed that “metaphor has been exhausted in depicting the perfection of it, combined with the narrowness of her field;” and he has justly added that we need not go beyond her own comparison to the art of a miniature painter."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Hindoo whale referred to, occurs in a separate department of the wall, depicting the incarnation of Vishnu in the form of leviathan, learnedly known as the Matse Avatar."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these manifold mistakes in depicting the whale are not so very surprising after all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation by picture or portraiture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show in, or as in, a picture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Goldwin Smith has truly observed that “metaphor has been exhausted in depicting the perfection of it, combined with the narrowness of her field;” and he has justly added that we need not go beyond her own comparison to the art of a miniature painter."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Hindoo whale referred to, occurs in a separate department of the wall, depicting the incarnation of Vishnu in the form of leviathan, learnedly known as the Matse Avatar."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these manifold mistakes in depicting the whale are not so very surprising after all."*

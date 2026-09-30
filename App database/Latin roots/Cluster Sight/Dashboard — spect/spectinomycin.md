@@ -5,13 +5,6 @@ status: unread
 ---
 # spectinomycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic used to treat gonorrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic used to treat gonorrhea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectinomycin designates an antibiotic used to treat gonorrhea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic used to treat gonorrhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic used to treat gonorrhea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectinomycin designates an antibiotic used to treat gonorrhea."*

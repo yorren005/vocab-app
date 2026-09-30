@@ -5,14 +5,6 @@ status: unread
 ---
 # ovum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive cell; the female gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female reproductive cell; the female gamete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Embryonic evolution 547:9 The late Louis Agassiz, by his microscopic examination of a vulture's ovum, strengthens the thinker's conclusions as to the scientific theory of creation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Eve was formed from Adam's rib, not from a foetal ovum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive cell; the female gamete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female reproductive cell; the female gamete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Embryonic evolution 547:9 The late Louis Agassiz, by his microscopic examination of a vulture's ovum, strengthens the thinker's conclusions as to the scientific theory of creation."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Eve was formed from Adam's rib, not from a foetal ovum."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # prosecute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduct a prosecution in a court of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring a criminal action against (in a trial).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should not I then prosecute my right?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had been too rough a life for them at Flintcomb-Ash, and they had come away, almost without notice, leaving Groby to prosecute them if he chose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduct a prosecution in a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring a criminal action against (in a trial).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should not I then prosecute my right?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had been too rough a life for them at Flintcomb-Ash, and they had come away, almost without notice, leaving Groby to prosecute them if he chose."*

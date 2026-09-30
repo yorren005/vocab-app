@@ -5,13 +5,6 @@ status: unread
 ---
 # organoleptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being, affecting, or relating to qualities (such as taste, color, odor, and feel) of a substance (such as a food or drug) that stimulate the sense organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving use of the sense organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organoleptic designates being, affecting, or relating to qualities (such as taste, color, odor, and feel) of a substance (such as a food or drug) that stimulate the sense organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being, affecting, or relating to qualities (such as taste, color, odor, and feel) of a substance (such as a food or drug) that stimulate the sense organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving use of the sense organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organoleptic designates being, affecting, or relating to qualities (such as taste, color, odor, and feel) of a substance (such as a food or drug) that stimulate the sense organs."*

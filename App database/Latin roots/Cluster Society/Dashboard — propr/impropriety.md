@@ -5,15 +5,6 @@ status: unread
 ---
 # impropriety
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An improper demeanor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being improper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On my pointing out the great impropriety of the word, especially in connexion with his parent (for he added sulkily “By her!”), he pinched me and said, “Oh, then!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She tapped nervously, and then thought it doubtful if it were right for a single woman to call upon a bachelor who lived alone, although he was her manager, and she might be supposed to call on business without any real impropriety."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Neatness and fashion are enough for the former, and a something of shabbiness or impropriety will be most endearing to the latter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An improper demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being improper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On my pointing out the great impropriety of the word, especially in connexion with his parent (for he added sulkily “By her!”), he pinched me and said, “Oh, then!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She tapped nervously, and then thought it doubtful if it were right for a single woman to call upon a bachelor who lived alone, although he was her manager, and she might be supposed to call on business without any real impropriety."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Neatness and fashion are enough for the former, and a something of shabbiness or impropriety will be most endearing to the latter."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # achromatin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a cell nucleus that is relatively uncolored by stains or dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a cell nucleus that is relatively uncolored by stains or dyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatin designates the part of a cell nucleus that is relatively uncolored by stains or dyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a cell nucleus that is relatively uncolored by stains or dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a cell nucleus that is relatively uncolored by stains or dyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatin designates the part of a cell nucleus that is relatively uncolored by stains or dyes."*

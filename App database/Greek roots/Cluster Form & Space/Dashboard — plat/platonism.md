@@ -5,15 +5,6 @@ status: unread
 ---
 # platonism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical doctrine that abstract concepts exist independent of their names.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical doctrine that abstract concepts exist independent of their names.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The last great system of defence was the New Platonism."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Eastern mind is affecting the Greek, and later Stoicism like later Platonism has thoughts and ideals not familiar to the Greeks of earlier days."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If Plutarch was not the founder of Neo-Platonism, he was one of its precursors and he showed the path."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical doctrine that abstract concepts exist independent of their names.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical doctrine that abstract concepts exist independent of their names.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The last great system of defence was the New Platonism."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Eastern mind is affecting the Greek, and later Stoicism like later Platonism has thoughts and ideals not familiar to the Greeks of earlier days."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If Plutarch was not the founder of Neo-Platonism, he was one of its precursors and he showed the path."*

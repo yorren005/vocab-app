@@ -5,13 +5,6 @@ status: unread
 ---
 # moneran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms that typically reproduce by asexual budding or fission and whose nutritional mode is absorption or photosynthesis or chemosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the monera.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneran designates organisms that typically reproduce by asexual budding or fission and whose nutritional mode is absorption or photosynthesis or chemosynthesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms that typically reproduce by asexual budding or fission and whose nutritional mode is absorption or photosynthesis or chemosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the monera.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneran designates organisms that typically reproduce by asexual budding or fission and whose nutritional mode is absorption or photosynthesis or chemosynthesis."*

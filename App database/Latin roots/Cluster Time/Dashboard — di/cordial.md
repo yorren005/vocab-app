@@ -5,15 +5,6 @@ status: unread
 ---
 # cordial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong highly flavored sweet liquor usually drunk after a meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffusing warmth and friendliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know What is more cordial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drug he gave me, which he said was precious And cordial to me, have I not found it Murd’rous to th’ senses?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I left out one thing which the Queen confess’d, Which must approve thee honest. ‘If Pisanio Have’ said she ‘given his mistress that confection Which I gave him for cordial, she is serv’d As I would serve a rat.’ CYMBELINE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong highly flavored sweet liquor usually drunk after a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffusing warmth and friendliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know What is more cordial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drug he gave me, which he said was precious And cordial to me, have I not found it Murd’rous to th’ senses?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I left out one thing which the Queen confess’d, Which must approve thee honest. ‘If Pisanio Have’ said she ‘given his mistress that confection Which I gave him for cordial, she is serv’d As I would serve a rat.’ CYMBELINE."*

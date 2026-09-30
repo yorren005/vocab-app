@@ -5,13 +5,6 @@ status: unread
 ---
 # marathi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indic language; the state language of maharashtra in west central india; written in the devanagari script.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indic language; the state language of maharashtra in west central india; written in the devanagari script.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marathi designates an indic language; the state language of maharashtra in west central india; written in the devanagari script."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indic language; the state language of maharashtra in west central india; written in the devanagari script.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indic language; the state language of maharashtra in west central india; written in the devanagari script.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marathi designates an indic language; the state language of maharashtra in west central india; written in the devanagari script."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vitriol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (h2so4) a highly corrosive acid made from sulfur dioxide; widely used in the chemical industry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Série, iii. (1872) pp. 21 _sq._ The writer says that the candidate has to keep his arms plunged up to the shoulders in vessels full of ants, "as in a bath of vitriol," for hours."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There have been two murders, a vitriol-throwing, a suicide, and several robberies brought about for the sake of this forty-grain weight of crystallised charcoal."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Ye git yer loon, pluck an' draw it, let it soak overnight in vinegar an' water, vitriol vinegar they say is the best."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (h2so4) a highly corrosive acid made from sulfur dioxide; widely used in the chemical industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Série, iii. (1872) pp. 21 _sq._ The writer says that the candidate has to keep his arms plunged up to the shoulders in vessels full of ants, "as in a bath of vitriol," for hours."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There have been two murders, a vitriol-throwing, a suicide, and several robberies brought about for the sake of this forty-grain weight of crystallised charcoal."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Ye git yer loon, pluck an' draw it, let it soak overnight in vinegar an' water, vitriol vinegar they say is the best."*

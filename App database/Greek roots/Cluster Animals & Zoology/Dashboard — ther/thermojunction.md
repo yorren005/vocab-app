@@ -5,13 +5,6 @@ status: unread
 ---
 # thermojunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A junction between two dissimilar metals across which a voltage appears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction between two dissimilar metals across which a voltage appears.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermojunction designates a junction between two dissimilar metals across which a voltage appears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A junction between two dissimilar metals across which a voltage appears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction between two dissimilar metals across which a voltage appears.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermojunction designates a junction between two dissimilar metals across which a voltage appears."*

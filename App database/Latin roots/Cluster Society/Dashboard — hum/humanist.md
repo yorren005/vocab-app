@@ -5,14 +5,6 @@ status: unread
 ---
 # humanist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical scholar or student of the liberal arts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the principles of humanism; someone concerned with the interests and welfare of humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Can the drunken old Poets make up my Vines? (I know they can drink 'em) or your excellent Humanists sell 'em the Merchants for my best advantage?"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Can the drunken old Poets make up my Vines? (I know they can drinke 'm) or your excellent Humanists Sell 'm the Merchants for my best advantage?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical scholar or student of the liberal arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the principles of humanism; someone concerned with the interests and welfare of humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Can the drunken old Poets make up my Vines? (I know they can drink 'em) or your excellent Humanists sell 'em the Merchants for my best advantage?"*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Can the drunken old Poets make up my Vines? (I know they can drinke 'm) or your excellent Humanists Sell 'm the Merchants for my best advantage?"*

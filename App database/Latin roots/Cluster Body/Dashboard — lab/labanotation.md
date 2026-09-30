@@ -5,13 +5,6 @@ status: unread
 ---
 # labanotation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labanotation designates a system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labanotation designates a system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics."*

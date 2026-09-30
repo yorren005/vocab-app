@@ -5,13 +5,6 @@ status: unread
 ---
 # operculated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an operculum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an operculum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operculated designates having an operculum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an operculum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an operculum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operculated designates having an operculum."*

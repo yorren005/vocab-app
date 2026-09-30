@@ -5,15 +5,6 @@ status: unread
 ---
 # homoeopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek homoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathic attenuations Her experiments in homoeopathy had made her skep- tical as to material curative methods."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The highest attenuation 153:12 of homoeopathy and the most potent rises above matter into mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathy diminishes the drug, but the potency of the medicine increases as the 155:27 drug disappears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek homoe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathic attenuations Her experiments in homoeopathy had made her skep- tical as to material curative methods."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The highest attenuation 153:12 of homoeopathy and the most potent rises above matter into mind."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathy diminishes the drug, but the potency of the medicine increases as the 155:27 drug disappears."*

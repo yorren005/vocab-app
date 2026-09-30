@@ -5,13 +5,6 @@ status: unread
 ---
 # streptomyces
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aerobic bacteria (some of which produce the antibiotic streptomycin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerobic bacteria (some of which produce the antibiotic streptomycin).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptomyces designates aerobic bacteria (some of which produce the antibiotic streptomycin)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aerobic bacteria (some of which produce the antibiotic streptomycin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerobic bacteria (some of which produce the antibiotic streptomycin).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptomyces designates aerobic bacteria (some of which produce the antibiotic streptomycin)."*

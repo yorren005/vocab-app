@@ -5,15 +5,6 @@ status: unread
 ---
 # debasing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not make the request; it was debasing loveliness to ask it to buy and sell, and jarred with his conceptions of her."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The issue of paper money in some cases grew out of the practice of debasing metal."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.” Alas! the scientific conscience had got into the debasing company of money obligation and selfish respects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not make the request; it was debasing loveliness to ask it to buy and sell, and jarred with his conceptions of her."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The issue of paper money in some cases grew out of the practice of debasing metal."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.” Alas! the scientific conscience had got into the debasing company of money obligation and selfish respects."*

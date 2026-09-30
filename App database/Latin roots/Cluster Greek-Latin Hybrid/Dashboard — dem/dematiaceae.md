@@ -5,13 +5,6 @@ status: unread
 ---
 # dematiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of imperfect mushrooms having dark-colored hyphae or conidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of imperfect mushrooms having dark-colored hyphae or conidia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dematiaceae designates family of imperfect mushrooms having dark-colored hyphae or conidia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of imperfect mushrooms having dark-colored hyphae or conidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of imperfect mushrooms having dark-colored hyphae or conidia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dematiaceae designates family of imperfect mushrooms having dark-colored hyphae or conidia."*

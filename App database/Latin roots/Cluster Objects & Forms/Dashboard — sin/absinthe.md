@@ -5,15 +5,6 @@ status: unread
 ---
 # absinthe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic herb of temperate eurasia and north africa having a bitter taste used in making the liqueur absinthe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong green liqueur flavored with wormwood and anise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
-> - 📜 **James Joyce (*Ulysses*):** *"Absinthe for me, savvy? _Caramba!_ Have an eggnog or a prairie oyster."*
-> - 📜 **James Joyce (*Ulysses*):** *"Absinthe the lot. _Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic herb of temperate eurasia and north africa having a bitter taste used in making the liqueur absinthe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong green liqueur flavored with wormwood and anise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
+> - 📜 **James Joyce (*Ulysses*):** *"Absinthe for me, savvy? _Caramba!_ Have an eggnog or a prairie oyster."*
+> - 📜 **James Joyce (*Ulysses*):** *"Absinthe the lot. _Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria_."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ectoplasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (spiritualism) a substance supposed to emanate from the body of the medium during a trance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer granule-free layer of cytoplasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoplasm designates (spiritualism) a substance supposed to emanate from the body of the medium during a trance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (spiritualism) a substance supposed to emanate from the body of the medium during a trance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer granule-free layer of cytoplasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoplasm designates (spiritualism) a substance supposed to emanate from the body of the medium during a trance."*

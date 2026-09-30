@@ -5,13 +5,6 @@ status: unread
 ---
 # archiepiscopal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or associated with an archbishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with an archbishop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"On the death of Richard, Archbishop of Canterbury, four years later, he was translated to that see--though not without difficulty, from his being the first of the Cistercian Order in England who had ever been promoted to the archiepiscopal dignity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or associated with an archbishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with an archbishop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"On the death of Richard, Archbishop of Canterbury, four years later, he was translated to that see--though not without difficulty, from his being the first of the Cistercian Order in England who had ever been promoted to the archiepiscopal dignity."*

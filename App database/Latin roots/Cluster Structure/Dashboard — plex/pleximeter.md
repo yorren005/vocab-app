@@ -5,13 +5,6 @@ status: unread
 ---
 # pleximeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small thin metal plate held against the body and struck with a plexor in percussive examinations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small thin metal plate held against the body and struck with a plexor in percussive examinations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleximeter designates a small thin metal plate held against the body and struck with a plexor in percussive examinations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small thin metal plate held against the body and struck with a plexor in percussive examinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small thin metal plate held against the body and struck with a plexor in percussive examinations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleximeter designates a small thin metal plate held against the body and struck with a plexor in percussive examinations."*

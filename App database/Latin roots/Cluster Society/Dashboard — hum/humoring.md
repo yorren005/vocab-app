@@ -5,15 +5,6 @@ status: unread
 ---
 # humoring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of indulging or gratifying a desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a good mood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Christine and Aunt Phillis, who had been left in charge of Miss Deane, had had a sore trial of patience in waiting upon her, humoring her whims, listening to her fretting and complaints, and trying to soothe and entertain her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However, you shall have the monster on your own terms.” “Don’t you think men overrate the necessity for humoring everybody’s nonsense, till they get despised by the very fools they humor?” said Lydgate, moving to Mr."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The uncompromising coldness and solidity of the viands was enough to appall a man conscious that his digestion needed humoring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of indulging or gratifying a desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a good mood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Christine and Aunt Phillis, who had been left in charge of Miss Deane, had had a sore trial of patience in waiting upon her, humoring her whims, listening to her fretting and complaints, and trying to soothe and entertain her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"However, you shall have the monster on your own terms.” “Don’t you think men overrate the necessity for humoring everybody’s nonsense, till they get despised by the very fools they humor?” said Lydgate, moving to Mr."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The uncompromising coldness and solidity of the viands was enough to appall a man conscious that his digestion needed humoring."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intimacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close or warm friendship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually secretive or illicit sexual relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth had been lately forming an intimacy, which she wished to see interrupted."*
-> - 📜 **Jane Austen (*Persuasion*):** *"With a great deal of quiet observation, and a knowledge, which she often wished less, of her father’s character, she was sensible that results the most serious to his family from the intimacy were more than possible."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The intimacy had been formed before our marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Close or warm friendship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually secretive or illicit sexual relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth had been lately forming an intimacy, which she wished to see interrupted."*
+> - 📜 **Jane Austen (*Persuasion*):** *"With a great deal of quiet observation, and a knowledge, which she often wished less, of her father’s character, she was sensible that results the most serious to his family from the intimacy were more than possible."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The intimacy had been formed before our marriage."*

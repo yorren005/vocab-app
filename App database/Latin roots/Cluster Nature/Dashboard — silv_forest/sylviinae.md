@@ -5,13 +5,6 @@ status: unread
 ---
 # sylviinae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative classification for the old world warblers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative classification for the old world warblers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylviinae designates alternative classification for the old world warblers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative classification for the old world warblers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative classification for the old world warblers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylviinae designates alternative classification for the old world warblers."*

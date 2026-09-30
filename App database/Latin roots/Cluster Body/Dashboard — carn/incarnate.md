@@ -5,15 +5,6 @@ status: unread
 ---
 # incarnate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make concrete and real.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent in bodily form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, that ’a did; and said they were devils incarnate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O worthy Goth, this is the incarnate devil That robbed Andronicus of his good hand; This is the pearl that pleased your empress’ eye; And here’s the base fruit of her burning lust."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had dreamed of an aged and dignified face, the sublimation of all the d’Urberville lineaments, furrowed with incarnate memories representing in hieroglyphic the centuries of her family’s and England’s history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make concrete and real.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent in bodily form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, that ’a did; and said they were devils incarnate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O worthy Goth, this is the incarnate devil That robbed Andronicus of his good hand; This is the pearl that pleased your empress’ eye; And here’s the base fruit of her burning lust."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had dreamed of an aged and dignified face, the sublimation of all the d’Urberville lineaments, furrowed with incarnate memories representing in hieroglyphic the centuries of her family’s and England’s history."*

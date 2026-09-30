@@ -5,15 +5,6 @@ status: unread
 ---
 # appropriately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an appropriate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an appropriate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"An altar was to be erected at one end of the lanai and appropriately decorated."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Besides the sticks and the drums, there are no other musical instruments among the Typees, except one which might appropriately be denominated a nasal flute."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"All Europe contributed to the making of Kurtz; and by and by I learned that, most appropriately, the International Society for the Suppression of Savage Customs had intrusted him with the making of a report, for its future guidance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an appropriate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an appropriate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"An altar was to be erected at one end of the lanai and appropriately decorated."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Besides the sticks and the drums, there are no other musical instruments among the Typees, except one which might appropriately be denominated a nasal flute."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"All Europe contributed to the making of Kurtz; and by and by I learned that, most appropriately, the International Society for the Suppression of Savage Customs had intrusted him with the making of a report, for its future guidance."*

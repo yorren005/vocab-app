@@ -5,13 +5,6 @@ status: unread
 ---
 # consignor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who delivers over or commits merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who delivers over or commits merchandise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consignor designates the person who delivers over or commits merchandise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who delivers over or commits merchandise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who delivers over or commits merchandise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consignor designates the person who delivers over or commits merchandise."*

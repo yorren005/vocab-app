@@ -5,15 +5,6 @@ status: unread
 ---
 # reserves
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Civilians trained as soldiers but not part of the regular army.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality and propriety of manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she so loves the token, For he conjur’d her she should ever keep it, That she reserves it evermore about her To kiss and talk to."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should have got a lawyer, and he would have said (as I have often read in the newspapers), ‘My client says nothing, my client reserves his defence’: my client this, that, and t’other."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As the reserves of strength are consumed there is less strength to lose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Civilians trained as soldiers but not part of the regular army.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality and propriety of manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she so loves the token, For he conjur’d her she should ever keep it, That she reserves it evermore about her To kiss and talk to."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I should have got a lawyer, and he would have said (as I have often read in the newspapers), ‘My client says nothing, my client reserves his defence’: my client this, that, and t’other."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As the reserves of strength are consumed there is less strength to lose."*

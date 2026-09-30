@@ -5,14 +5,6 @@ status: unread
 ---
 # describable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being described.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being described.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then the screw set to work at its maximum speed, its four blades beating the waves with in describable force."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The main door opened at once on a chamber of no describable shape, with a groined roof, which in its turn opened on another chamber of no describable shape, with another groined roof: their windows small, and in the thickness of the walls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being described.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being described.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then the screw set to work at its maximum speed, its four blades beating the waves with in describable force."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The main door opened at once on a chamber of no describable shape, with a groined roof, which in its turn opened on another chamber of no describable shape, with another groined roof: their windows small, and in the thickness of the walls."*

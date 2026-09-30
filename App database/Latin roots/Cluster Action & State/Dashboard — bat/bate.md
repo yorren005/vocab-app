@@ -5,15 +5,6 @@ status: unread
 ---
 # bate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate or restrain; lessen the force of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap the wings wildly or frantically; used of falcons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, good faith, every dram of it; and I will not bate thee a scruple."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, the people Must have their voices; neither will they bate One jot of ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, true Pisanio, Who long’st like me to see thy lord, who long’st (O, let me ’bate!) but not like me, yet long’st, But in a fainter kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate or restrain; lessen the force of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap the wings wildly or frantically; used of falcons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, good faith, every dram of it; and I will not bate thee a scruple."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, the people Must have their voices; neither will they bate One jot of ceremony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, true Pisanio, Who long’st like me to see thy lord, who long’st (O, let me ’bate!) but not like me, yet long’st, But in a fainter kind."*

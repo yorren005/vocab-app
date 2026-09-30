@@ -5,14 +5,6 @@ status: unread
 ---
 # allopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of medical practice that emphasizes diagnosing and treating disease and the use of conventional, evidence-based therapeutic measures (such as drugs or surgery) : allopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of medical practice that emphasizes diagnosing and treating disease and the use of conventional, evidence-based therapeutic measures (such as drugs or surgery) : allopathic medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathy, a step in advance of allopathy, is doing this."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Is it because 344:30 allopathy and homoeopathy are more fashionable and less spiritual?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of medical practice that emphasizes diagnosing and treating disease and the use of conventional, evidence-based therapeutic measures (such as drugs or surgery) : allopathic medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of medical practice that emphasizes diagnosing and treating disease and the use of conventional, evidence-based therapeutic measures (such as drugs or surgery) : allopathic medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathy, a step in advance of allopathy, is doing this."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Is it because 344:30 allopathy and homoeopathy are more fashionable and less spiritual?"*

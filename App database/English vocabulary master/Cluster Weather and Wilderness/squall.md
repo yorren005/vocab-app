@@ -5,20 +5,6 @@ status: unread
 ---
 # squall
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Raucous cry
-> 2. **Nuance / Usage**: Utter in a strident voice
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to squall the target*) and intransitive clauses (*squalling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Jack and Jill, and old Dame Gill*):** *"Sow ran and squall'd,<br>While Jack he bawl'd,<br>And Jill join'd in the choir,<br>Dog Ball being near,<br>Bit sow by the ear,<br>And threw Jack into the mire."*
-> - 📜 **Jack London (*The Red One*):** *"Squalling like an infuriated cat, the shadow crashed down"*
-> - 📜 **Anne McCafferey (*Masterharper of Pern*):** *"she wrapped the squalling, wriggling baby tightly into the fine cotton sheet"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Raucous cry
+> 2. **Nuance / Usage**: Utter in a strident voice
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to squall the target*) and intransitive clauses (*squalling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Jack and Jill, and old Dame Gill*):** *"Sow ran and squall'd,<br>While Jack he bawl'd,<br>And Jill join'd in the choir,<br>Dog Ball being near,<br>Bit sow by the ear,<br>And threw Jack into the mire."*
+> - 📜 **Jack London (*The Red One*):** *"Squalling like an infuriated cat, the shadow crashed down"*
+> - 📜 **Anne McCafferey (*Masterharper of Pern*):** *"she wrapped the squalling, wriggling baby tightly into the fine cotton sheet"*

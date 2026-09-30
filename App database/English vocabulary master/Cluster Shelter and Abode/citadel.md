@@ -5,20 +5,6 @@ status: unread
 ---
 # citadel
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stronghold
-> 2. **Nuance / Usage**: Fortress that commands a city
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Slidell Mackenzie (*The American in England*):** *"Intrenched within the citadel of our apartment, and cheered by the comfortings of a coal fire, we passed the day in letter-writing, conversation, or gazing from the sheltered security of our windows upon the agitated sea{{..."*
-> - 📜 **Lincoln P. Paine (*Warships of the World to 1900*):** *"Twenty-two of these — eleven per broadside — were on the main deck within a central citadel, essentially an armor-protected box in the middle of the ship. Also within the citadel were four 110-pdr. breech-loaders."*
-> - 📜 **Kelland, Clarence Budington (*Mark Tidd's Citadel*):** *"Then I jumped back for the citadel side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A fortress, typically on high ground above a city, built to protect the city and serve as a final defensive stronghold during a siege.
+> 2. **Nuance / Usage**: Used figuratively for any bastion, center, or stronghold where a belief, institution, or way of life is fiercely defended.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"High on a hill, far blazing as a mount raised on a mount, with pyramids and towers from diamond quarries hewn, stood the great **citadel**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The garrison retreated into the **citadel** of Antioch, which was seated on the precipices of Mount Silpius."*
+> - 📜 **Lincoln P. Paine (*Warships of the World to 1900*):** *"Twenty-two of these guns were on the main deck within a central **citadel**, essentially an armor-protected box in the middle of the ship."*

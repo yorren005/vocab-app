@@ -5,15 +5,6 @@ status: unread
 ---
 # interrogatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a questioning format.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With curiosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Who are they, Sir James, do you know?” “I see Vincy, the Mayor of Middlemarch; they are probably his wife and son,” said Sir James, looking interrogatively at Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Snatching the boat-knife from its sheath, he suspended its sharp edge over the line, and turning towards Stubb, exclaimed interrogatively, Cut?” Meantime Pip’s blue, choked face plainly looked, Do, for God’s sake!"*
-> - 📜 **Effie Afton (*Eventide*):** *"And that is"----he paused, and added, interrogatively, "Rufus Malcome?" Florence started."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a questioning format.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With curiosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Who are they, Sir James, do you know?” “I see Vincy, the Mayor of Middlemarch; they are probably his wife and son,” said Sir James, looking interrogatively at Mr."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Snatching the boat-knife from its sheath, he suspended its sharp edge over the line, and turning towards Stubb, exclaimed interrogatively, Cut?” Meantime Pip’s blue, choked face plainly looked, Do, for God’s sake!"*
+> - 📜 **Effie Afton (*Eventide*):** *"And that is"----he paused, and added, interrogatively, "Rufus Malcome?" Florence started."*

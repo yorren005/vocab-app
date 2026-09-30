@@ -5,15 +5,6 @@ status: unread
 ---
 # assiduous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by care and persistent effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by care and persistent effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He gave her all the money he had, prayed with them, and sent at once a kind, assiduous physician."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She hastened to ring the bell; and when the tray came, she proceeded to arrange the cups, spoons, &c., with assiduous celerity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mary would sit and watch me by the hour together: then she would take lessons; and a docile, intelligent, assiduous pupil she made."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by care and persistent effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by care and persistent effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He gave her all the money he had, prayed with them, and sent at once a kind, assiduous physician."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She hastened to ring the bell; and when the tray came, she proceeded to arrange the cups, spoons, &c., with assiduous celerity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mary would sit and watch me by the hour together: then she would take lessons; and a docile, intelligent, assiduous pupil she made."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vidua
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whydahs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whydahs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the Lord Treasurer’s Remembrancer’s office is the following:--“Uske: De Elizea John ap Jevan vidua, occasionat. ad ostendendum quo titulo tenet domum et situm Prioratus de Uske, et alias terras in comitatu Monmouth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Whydahs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whydahs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the Lord Treasurer’s Remembrancer’s office is the following:--“Uske: De Elizea John ap Jevan vidua, occasionat. ad ostendendum quo titulo tenet domum et situm Prioratus de Uske, et alias terras in comitatu Monmouth."*

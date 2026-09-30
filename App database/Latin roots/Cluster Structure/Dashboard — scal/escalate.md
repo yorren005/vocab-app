@@ -5,14 +5,6 @@ status: unread
 ---
 # escalate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase in extent or intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we play the game right, and show a united front, this confrontation won't escalate to major military actions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Have we no choice but to keep escalating provocation, sneak attacks and reprisals until our full military fleets are unleashed in their fury against each other?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase in extent or intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we play the game right, and show a united front, this confrontation won't escalate to major military actions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Have we no choice but to keep escalating provocation, sneak attacks and reprisals until our full military fleets are unleashed in their fury against each other?"*

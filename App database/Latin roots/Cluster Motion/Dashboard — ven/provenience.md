@@ -5,13 +5,6 @@ status: unread
 ---
 # provenience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Where something originated or was nurtured in its early existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Where something originated or was nurtured in its early existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On the upper shelf a battery of jamjars (empty) of various sizes and proveniences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Where something originated or was nurtured in its early existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Where something originated or was nurtured in its early existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"On the upper shelf a battery of jamjars (empty) of various sizes and proveniences."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # magnolia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dried bark of various magnolias; used in folk medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any shrub or tree of the genus magnolia; valued for their longevity and exquisite fragrant blooms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"No, I think not," he said reflectively; "nothing but that she, May, and Evelyn Leland were staying, by invitation, at Magnolia Hall."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Yes," she said: "I confessed every bit of it to him in that letter I wrote at Magnolia Hall." "Bully for you!" cried Max heartily."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dried bark of various magnolias; used in folk medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any shrub or tree of the genus magnolia; valued for their longevity and exquisite fragrant blooms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"No, I think not," he said reflectively; "nothing but that she, May, and Evelyn Leland were staying, by invitation, at Magnolia Hall."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Yes," she said: "I confessed every bit of it to him in that letter I wrote at Magnolia Hall." "Bully for you!" cried Max heartily."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*

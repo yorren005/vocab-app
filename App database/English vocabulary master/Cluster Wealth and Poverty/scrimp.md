@@ -5,20 +5,6 @@ status: unread
 ---
 # scrimp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Be frugal or stingy
-> 2. **Nuance / Usage**: Be stingy in providing for
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scrimp the target*) and intransitive clauses (*scrimping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"For lack o’ thee I scrimp my glass!"*
-> - 📜 **Mark Twain (*The $30,000 Bequest*):** *"Oh, Electra, jewel of women, darling of my heart, we are free at last, we roll in wealth, we need never scrimp again. It's a case for Veuve Cliquot!"*
-> - 📜 **Brit Bennett (*The Vanishing Half*):** *"They had to scrimp each month to afford it out of pocket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Be frugal or stingy
+> 2. **Nuance / Usage**: Be stingy in providing for
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scrimp the target*) and intransitive clauses (*scrimping against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"For lack o’ thee I scrimp my glass!"*
+> - 📜 **Mark Twain (*The $30,000 Bequest*):** *"Oh, Electra, jewel of women, darling of my heart, we are free at last, we roll in wealth, we need never scrimp again. It's a case for Veuve Cliquot!"*
+> - 📜 **Brit Bennett (*The Vanishing Half*):** *"They had to scrimp each month to afford it out of pocket."*

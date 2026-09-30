@@ -5,15 +5,6 @@ status: unread
 ---
 # armor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective covering made of metal and used in combat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military unit consisting of armored fighting vehicles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But it is so exciting to imagine that an old, old Baron of Wallerstätten might wander around the battlements in his armor."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full moonlight fell on the armor he was garbed in and made it, as well as the high helmet with waving plumes, glitter brightly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whom then, had he seen in armor and helmet and with a long mantle?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective covering made of metal and used in combat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military unit consisting of armored fighting vehicles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But it is so exciting to imagine that an old, old Baron of Wallerstätten might wander around the battlements in his armor."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full moonlight fell on the armor he was garbed in and made it, as well as the high helmet with waving plumes, glitter brightly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whom then, had he seen in armor and helmet and with a long mantle?"*

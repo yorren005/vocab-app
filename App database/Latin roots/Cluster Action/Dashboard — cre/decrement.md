@@ -5,13 +5,6 @@ status: unread
 ---
 # decrement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount by which something decreases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Increments and decrements of value on a great scale are unearned, and all classes of goods are affected, though in varying degrees. § II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount by which something decreases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Increments and decrements of value on a great scale are unearned, and all classes of goods are affected, though in varying degrees. § II."*

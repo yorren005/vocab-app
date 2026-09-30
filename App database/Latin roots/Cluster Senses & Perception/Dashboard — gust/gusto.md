@@ -5,15 +5,6 @@ status: unread
 ---
 # gusto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorous and enthusiastic enjoyment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorous and enthusiastic enjoyment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The natives have no European prejudices regarding the human body, and eat it with as good a conscience and as much gusto as we do butcher's meat."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Some of them read with animation the responses in church service and repeat the Lord's Prayer with the greatest gusto."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Harrison and used it with great gusto . . ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorous and enthusiastic enjoyment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorous and enthusiastic enjoyment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The natives have no European prejudices regarding the human body, and eat it with as good a conscience and as much gusto as we do butcher's meat."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Some of them read with animation the responses in church service and repeat the Lord's Prayer with the greatest gusto."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Harrison and used it with great gusto . . ."*

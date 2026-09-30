@@ -5,13 +5,6 @@ status: unread
 ---
 # sexism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discriminatory or abusive behavior towards members of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminatory or abusive behavior towards members of the opposite sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexism designates discriminatory or abusive behavior towards members of the opposite sex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discriminatory or abusive behavior towards members of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminatory or abusive behavior towards members of the opposite sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexism designates discriminatory or abusive behavior towards members of the opposite sex."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # excessively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a degree exceeding normal or proper limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree exceeding normal or proper limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They were excessively bare and disorderly, and the curtain to my window was fastened up with a fork."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I shall certainly go; I am sure I ought if I can, quite as much as Charles, for they want me excessively to be acquainted with Captain Wentworth, and I know you do not mind being left alone."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary is good-natured enough in many respects,” said she; “but she does sometimes provoke me excessively, by her nonsense and pride—the Elliot pride."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a degree exceeding normal or proper limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree exceeding normal or proper limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They were excessively bare and disorderly, and the curtain to my window was fastened up with a fork."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I shall certainly go; I am sure I ought if I can, quite as much as Charles, for they want me excessively to be acquainted with Captain Wentworth, and I know you do not mind being left alone."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Mary is good-natured enough in many respects,” said she; “but she does sometimes provoke me excessively, by her nonsense and pride—the Elliot pride."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exhale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out (breath or an odor).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The grave doth gape, and doting death is near, Therefore exhale."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In that sad time My manly eyes did scorn an humble tear; And what these sorrows could not thence exhale, Thy beauty hath, and made them blind with weeping."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My vow was breath, and breath a vapour is; Then, thou fair sun, that on this earth doth shine, Exhale this vapour vow; in thee it is; If broken then, it is no fault of mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out (breath or an odor).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The grave doth gape, and doting death is near, Therefore exhale."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In that sad time My manly eyes did scorn an humble tear; And what these sorrows could not thence exhale, Thy beauty hath, and made them blind with weeping."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My vow was breath, and breath a vapour is; Then, thou fair sun, that on this earth doth shine, Exhale this vapour vow; in thee it is; If broken then, it is no fault of mine."*

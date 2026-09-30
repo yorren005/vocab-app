@@ -5,20 +5,6 @@ status: unread
 ---
 # kindle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stir up : arouse
-> 2. **Nuance / Usage**: Bring into being : start
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to kindle the target*) and intransitive clauses (*kindling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This is the way to kindle, not to quench."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My love should kindle to inflam’d respect."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"She seeks to kindle with continual kissing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To set dry tinder or fuel on fire; to catch fire and begin to burn.
+> 2. **Nuance / Usage**: Widely used figuratively to mean awakening, stirring up, or inspiring an ardent emotion, passion, or conflict (*to kindle hope*, *eyes kindling with excitement*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to kindle the target*) and intransitive clauses (*kindling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Coriolanus*):** *"This is the way to **kindle**, not to quench."*
+> - 📜 **Hugh Latimer (*Last Sermon Before Execution*):** *"We shall this day light such a candle, by God's grace, in England, as I trust shall never be put out once **kindled**."*
+> - 📜 **Percy Bysshe Shelley (*Ode to the West Wind*):** *"Scatter, as from an unextinguished hearth, ashes and sparks, my words among mankind to **kindle** a new birth!"*

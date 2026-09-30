@@ -5,15 +5,6 @@ status: unread
 ---
 # utilitarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes that the value of a thing depends on its utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a useful function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is possible that there was this golden legend under the utilitarian one: “I will help to my last effort the woman I have loved so dearly.” He went back to the barn to endeavour to obtain assistance for covering the ricks that very night."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His own person was the exact embodiment of his utilitarian character."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes that the value of a thing depends on its utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a useful function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is possible that there was this golden legend under the utilitarian one: “I will help to my last effort the woman I have loved so dearly.” He went back to the barn to endeavour to obtain assistance for covering the ricks that very night."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His own person was the exact embodiment of his utilitarian character."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*

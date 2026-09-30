@@ -5,13 +5,6 @@ status: unread
 ---
 # herringbone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A twilled fabric with a herringbone pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pattern of columns of short parallel lines with all the lines in one column sloping one way and lines in adjacent columns sloping the other way; it is used in weaving, masonry, parquetry, embroidery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom walked behind the eyeless feet, a flatcut suit of herringbone tweed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twilled fabric with a herringbone pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pattern of columns of short parallel lines with all the lines in one column sloping one way and lines in adjacent columns sloping the other way; it is used in weaving, masonry, parquetry, embroidery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom walked behind the eyeless feet, a flatcut suit of herringbone tweed."*

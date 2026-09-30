@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalaspid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct jawless fish of the devonian with armored head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct jawless fish of the devonian with armored head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalaspid designates extinct jawless fish of the devonian with armored head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct jawless fish of the devonian with armored head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct jawless fish of the devonian with armored head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalaspid designates extinct jawless fish of the devonian with armored head."*

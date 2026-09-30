@@ -5,13 +5,6 @@ status: unread
 ---
 # grafting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of grafting something onto something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to grow together parts from different plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A high-spirited young lady and a musical Polish patriot made a likely enough stock for him to spring from, but I should never have suspected a grafting of the Jew pawnbroker."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of grafting something onto something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to grow together parts from different plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A high-spirited young lady and a musical Polish patriot made a likely enough stock for him to spring from, but I should never have suspected a grafting of the Jew pawnbroker."*

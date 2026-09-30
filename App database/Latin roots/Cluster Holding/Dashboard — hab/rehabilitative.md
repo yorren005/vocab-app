@@ -5,13 +5,6 @@ status: unread
 ---
 # rehabilitative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to accomplish rehabilitation; - j.b.costello.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Helping to restore to good condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rehabilitative designates designed to accomplish rehabilitation; - j.b.costello."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to accomplish rehabilitation; - j.b.costello.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Helping to restore to good condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rehabilitative designates designed to accomplish rehabilitation; - j.b.costello."*

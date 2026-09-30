@@ -5,15 +5,6 @@ status: unread
 ---
 # monotheism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that there is but one God.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine or belief that there is but one God.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Israel had stood for monotheism and that not the monotheism of Greek philosophy, a dogma of the schools consistent with the cults of Egypt and Phrygia, with hierodules and a deified Antinous."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was perhaps this very reconciliation that threw open the door for the glowing monotheism of the disciples of Jesus; but, whatever the cause, Christianity quickly spread over the whole Roman Empire."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Monotheism, 19, 94, 143, 146, 148."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that there is but one God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine or belief that there is but one God.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Israel had stood for monotheism and that not the monotheism of Greek philosophy, a dogma of the schools consistent with the cults of Egypt and Phrygia, with hierodules and a deified Antinous."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was perhaps this very reconciliation that threw open the door for the glowing monotheism of the disciples of Jesus; but, whatever the cause, Christianity quickly spread over the whole Roman Empire."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Monotheism, 19, 94, 143, 146, 148."*

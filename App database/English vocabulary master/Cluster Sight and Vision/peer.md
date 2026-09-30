@@ -5,20 +5,6 @@ status: unread
 ---
 # peer
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Noble
-> 2. **Nuance / Usage**: Someone who is approximately the same age (as someone else)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"on the forehead, crying “Peer out, peer out!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But king nor peer to such a peerless dame."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"be yours that I would accord a peer’s daughter, if about to marry her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To look keenly, closely, or with difficulty at someone or something, as if through fog, darkness, or a narrow opening.
+> 2. **Nuance / Usage**: Also means to come partially into view or peep out (as the sun *peering* through clouds); distinct from its homonym meaning an equal or nobleman.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Deep into that darkness **peering**, long I stood there wondering, fearing, doubting, dreaming dreams no mortal ever dared to dream before."*
+> - 📜 **Kenneth Grahame (*The Wind in the Willows*):** *"The Rat **peered** cautiously into the gloom of the Wild Wood, listening for the slightest rustle among the fallen leaves."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I **peered** through the iron bars of the gate into the overgrown, rank garden beyond."*

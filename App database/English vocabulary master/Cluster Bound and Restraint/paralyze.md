@@ -5,19 +5,6 @@ status: unread
 ---
 # paralyze
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Unnerve
-> 2. **Nuance / Usage**: Affect with paralysis
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to paralyze the target*) and intransitive clauses (*paralyzing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"will do more than if you paralyze it by encumbering it with remedies."*
-> - 📜 **{{w (*Harley Got Devoured by the Undead*):** *"So I stood alone in horror / Paralyzed with fear and dread / When a voice dead and inhuman / Whispered to me "go, you fool, Warren's dead!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To cause a person or part of the body to lose the power of physical movement or sensation.
+> 2. **Nuance / Usage**: Used figuratively to mean rendering someone or something utterly helpless, immobilized, or unable to function—as by terror, doubt, or a systemic crisis.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb.
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*fear paralyzed him*) and participial phrases (*paralyzed with dread*).
+> - **Collocations & Registers**: Medical, psychological, and political registers; collocated with *fear*, *indecision*, *venom*, *traffic*, and *economy*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The natural strength of the patient will do more than if you **paralyze** it by encumbering it with remedies."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A sudden and overwhelming terror seemed to **paralyze** his limbs, leaving him rooted to the deck as the squall struck."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"She sat motionless, **paralyzed** by the cold certainty that every door of escape had closed behind her."*

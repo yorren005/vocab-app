@@ -5,15 +5,6 @@ status: unread
 ---
 # dedication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete and wholehearted fidelity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremony in which something (as a building) is dedicated to some goal or purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rapt, sir, in some work, some dedication To the great lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His life I gave him, and did thereto add My love, without retention or restraint, All his in dedication."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Elvira, who was Loneli's neighbor, had asked her if she would be allowed to go to Sils on dedication day, next Sunday, and Loneli had answered no."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete and wholehearted fidelity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremony in which something (as a building) is dedicated to some goal or purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rapt, sir, in some work, some dedication To the great lord."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His life I gave him, and did thereto add My love, without retention or restraint, All his in dedication."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Elvira, who was Loneli's neighbor, had asked her if she would be allowed to go to Sils on dedication day, next Sunday, and Loneli had answered no."*

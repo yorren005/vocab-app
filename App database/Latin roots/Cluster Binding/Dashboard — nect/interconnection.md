@@ -5,13 +5,6 @@ status: unread
 ---
 # interconnection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being connected reciprocally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the act of interconnecting (wires or computers or theories etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interconnection designates a state of being connected reciprocally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being connected reciprocally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the act of interconnecting (wires or computers or theories etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interconnection designates a state of being connected reciprocally."*

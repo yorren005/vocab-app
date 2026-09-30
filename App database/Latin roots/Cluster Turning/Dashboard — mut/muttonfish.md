@@ -5,13 +5,6 @@ status: unread
 ---
 # muttonfish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar to and often marketed as `red snapper'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar to and often marketed as `red snapper'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muttonfish designates similar to and often marketed as `red snapper'."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar to and often marketed as `red snapper'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar to and often marketed as `red snapper'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muttonfish designates similar to and often marketed as `red snapper'."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unmercenary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mercenary; not influenced by financial gains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not mercenary; not influenced by financial gains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am also of opinion that it is greatly to my credit, and a proof of my pure and unmercenary nature, that I did not instantly put myself up to be raffled for, or rush out into the streets and propose marriage to the first lady I met."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mercenary; not influenced by financial gains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not mercenary; not influenced by financial gains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am also of opinion that it is greatly to my credit, and a proof of my pure and unmercenary nature, that I did not instantly put myself up to be raffled for, or rush out into the streets and propose marriage to the first lady I met."*

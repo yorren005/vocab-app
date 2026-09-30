@@ -5,15 +5,6 @@ status: unread
 ---
 # completeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being complete and entire; having everything that is needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) an attribute of a logical system that is so constituted that a contradiction arises if any proposition is introduced that cannot be derived from the axioms of the system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had sighed for her self-completeness then, and now she cried aloud against the severance of the union she had deplored."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This further time has more fully developed the thoroughness of the case spoken of and the completeness of the victory over an evil habit."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My friends could not realize the completeness of the cure, until I read a full hour, and that by lamp-light, and until asked to desist, the first opportunity after being healed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being complete and entire; having everything that is needed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) an attribute of a logical system that is so constituted that a contradiction arises if any proposition is introduced that cannot be derived from the axioms of the system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had sighed for her self-completeness then, and now she cried aloud against the severance of the union she had deplored."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This further time has more fully developed the thoroughness of the case spoken of and the completeness of the victory over an evil habit."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"My friends could not realize the completeness of the cure, until I read a full hour, and that by lamp-light, and until asked to desist, the first opportunity after being healed."*

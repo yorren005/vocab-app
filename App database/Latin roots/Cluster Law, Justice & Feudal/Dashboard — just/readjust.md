@@ -5,15 +5,6 @@ status: unread
 ---
 # readjust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjust again after an initial failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Fear, 392:6 which is an element of all disease, must be cast out to readjust the balance for God."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I turned frantically to the Time Machine, and strove hard to readjust it."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In the end, wisely and carefully we shall readjust the balance of animal and vegetable life to suit our human needs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjust again after an initial failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Fear, 392:6 which is an element of all disease, must be cast out to readjust the balance for God."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I turned frantically to the Time Machine, and strove hard to readjust it."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the end, wisely and carefully we shall readjust the balance of animal and vegetable life to suit our human needs."*

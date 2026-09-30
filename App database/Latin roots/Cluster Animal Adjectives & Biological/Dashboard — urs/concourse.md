@@ -5,15 +5,6 @@ status: unread
 ---
 # concourse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large gathering of people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wide hallway in a building where people can walk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here the crowd, like a concourse of imprisoned demons, turns back, yelling, and is seen no more."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was a concourse of people in one spot, surrounding some naval officers who were landing from a boat, and pressing about them with unusual interest."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On Yalbury Hill, about midway between Weatherbury and Casterbridge, where the turnpike road passes over the crest, a numerous concourse of people had gathered, the eyes of the greater number being frequently stretched afar in a northerly direction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large gathering of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wide hallway in a building where people can walk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here the crowd, like a concourse of imprisoned demons, turns back, yelling, and is seen no more."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was a concourse of people in one spot, surrounding some naval officers who were landing from a boat, and pressing about them with unusual interest."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On Yalbury Hill, about midway between Weatherbury and Casterbridge, where the turnpike road passes over the crest, a numerous concourse of people had gathered, the eyes of the greater number being frequently stretched afar in a northerly direction."*

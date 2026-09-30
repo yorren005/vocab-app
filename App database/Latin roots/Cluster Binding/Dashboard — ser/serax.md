@@ -5,13 +5,6 @@ status: unread
 ---
 # serax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serax designates a tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serax designates a tranquilizing drug (trade name serax) used to treat anxiety and insomnia and alcohol withdrawal."*

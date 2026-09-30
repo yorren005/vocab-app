@@ -5,15 +5,6 @@ status: unread
 ---
 # sinai
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in the southern sinai peninsula (7,500 feet high); it is believed to be the peak on which moses received the ten commandments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desert on the sinai peninsula in northeastern egypt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stanley, _Sinai and Palestine_, Second Edition (London, 1856), pp. 460-465; E."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was Mount Horeb, that Sinai at the top of which Moses saw God face to face."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Scale, 9 miles to an inch 27 in. by 32 in. 6 0 SINAI (The Peninsula of), the NEGEB, and LOWER EGYPT."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in the southern sinai peninsula (7,500 feet high); it is believed to be the peak on which moses received the ten commandments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desert on the sinai peninsula in northeastern egypt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stanley, _Sinai and Palestine_, Second Edition (London, 1856), pp. 460-465; E."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was Mount Horeb, that Sinai at the top of which Moses saw God face to face."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Scale, 9 miles to an inch 27 in. by 32 in. 6 0 SINAI (The Peninsula of), the NEGEB, and LOWER EGYPT."*

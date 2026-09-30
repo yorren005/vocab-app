@@ -5,15 +5,6 @@ status: unread
 ---
 # architecture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of building; specifically : the art or practice of designing and building structures and especially habitable ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation or construction resulting from or as if from a conscious act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The graceful pile of cathedral architecture rose dimly on their left hand, but it was lost upon them now."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The new building was not only new, but declared itself to be so; intended only for offices, and enclosed behind by stable-yards, no uniformity of architecture had been thought necessary."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now glanced sideways at this piece of architecture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of building; specifically : the art or practice of designing and building structures and especially habitable ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation or construction resulting from or as if from a conscious act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The graceful pile of cathedral architecture rose dimly on their left hand, but it was lost upon them now."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The new building was not only new, but declared itself to be so; intended only for offices, and enclosed behind by stable-yards, no uniformity of architecture had been thought necessary."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now glanced sideways at this piece of architecture."*

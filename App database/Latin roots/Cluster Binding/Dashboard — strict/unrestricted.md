@@ -5,15 +5,6 @@ status: unread
 ---
 # unrestricted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to or subjected to restriction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of restrictions on conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This increases the number of those whose self-interest, at least when narrowly judged, leads them to favor the policy of unrestricted immigration, Tho perhaps less general than it once was, this sentiment in favor of immigration is still potent."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But he knowed Orlick, and Orlick’s in the county jail.” By these approaches we arrived at unrestricted conversation."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"However, I would have none of these, though the king most earnestly impressed upon my mind that my choice was wholly unrestricted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to or subjected to restriction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of restrictions on conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This increases the number of those whose self-interest, at least when narrowly judged, leads them to favor the policy of unrestricted immigration, Tho perhaps less general than it once was, this sentiment in favor of immigration is still potent."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But he knowed Orlick, and Orlick’s in the county jail.” By these approaches we arrived at unrestricted conversation."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"However, I would have none of these, though the king most earnestly impressed upon my mind that my choice was wholly unrestricted."*

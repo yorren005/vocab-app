@@ -5,13 +5,6 @@ status: unread
 ---
 # radiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science dealing with the medical use of x-rays or other penetrating radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiology designates the branch of medical science dealing with the medical use of x-rays or other penetrating radiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science dealing with the medical use of x-rays or other penetrating radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiology designates the branch of medical science dealing with the medical use of x-rays or other penetrating radiation."*

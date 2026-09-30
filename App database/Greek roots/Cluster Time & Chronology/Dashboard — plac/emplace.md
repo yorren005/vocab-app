@@ -5,13 +5,6 @@ status: unread
 ---
 # emplace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide a new emplacement for guns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into place or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emplace designates provide a new emplacement for guns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide a new emplacement for guns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into place or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emplace designates provide a new emplacement for guns."*

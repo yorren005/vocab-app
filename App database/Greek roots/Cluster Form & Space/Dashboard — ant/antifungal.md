@@ -5,13 +5,6 @@ status: unread
 ---
 # antifungal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying fungi or inhibiting their growth : fungicidal, fungistatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying fungi or inhibiting their growth : fungicidal, fungistatic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antifungal designates destroying fungi or inhibiting their growth : fungicidal, fungistatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying fungi or inhibiting their growth : fungicidal, fungistatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying fungi or inhibiting their growth : fungicidal, fungistatic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antifungal designates destroying fungi or inhibiting their growth : fungicidal, fungistatic."*

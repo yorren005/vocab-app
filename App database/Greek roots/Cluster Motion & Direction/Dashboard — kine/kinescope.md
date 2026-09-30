@@ -5,13 +5,6 @@ status: unread
 ---
 # kinescope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube on which the picture appears in a television set : picture tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie made by filming the images displayed on a picture tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinescope designates a cathode-ray tube on which the picture appears in a television set : picture tube."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube on which the picture appears in a television set : picture tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie made by filming the images displayed on a picture tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinescope designates a cathode-ray tube on which the picture appears in a television set : picture tube."*

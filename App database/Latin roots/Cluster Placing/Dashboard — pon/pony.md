@@ -5,15 +5,6 @@ status: unread
 ---
 # pony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A range horse of the western united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal term for a racehorse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The service being concluded, Sir Leicester gave his arm with much taste and gallantry to Lady Dedlock—though he was obliged to walk by the help of a thick stick—and escorted her out of church to the pony carriage in which they had come."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As we sat there, silently, we saw a little pony phaeton coming towards us at a merry pace."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then there was a pony expressly for my riding, a chubby pony with a short neck and a mane all over his eyes who could canter—when he would—so easily and quietly that he was a treasure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A range horse of the western united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal term for a racehorse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The service being concluded, Sir Leicester gave his arm with much taste and gallantry to Lady Dedlock—though he was obliged to walk by the help of a thick stick—and escorted her out of church to the pony carriage in which they had come."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As we sat there, silently, we saw a little pony phaeton coming towards us at a merry pace."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then there was a pony expressly for my riding, a chubby pony with a short neck and a mane all over his eyes who could canter—when he would—so easily and quietly that he was a treasure."*

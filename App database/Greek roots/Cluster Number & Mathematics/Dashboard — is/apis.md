@@ -5,15 +5,6 @@ status: unread
 ---
 # apis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the apidae: honeybees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the apidae: honeybees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris was regularly identified with the bull Apis of Memphis and the bull Mnevis of Heliopolis."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But whatever the original relation of Apis to Osiris may have been, there is one fact about the former which ought not to be passed over in a disquisition on the custom of killing a god."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Although the bull Apis was worshipped as a god with much pomp and profound reverence, he was not suffered to live beyond a certain length of time which was prescribed by the sacred books, and on the expiry of which he was drowned in a holy spring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the apidae: honeybees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the apidae: honeybees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris was regularly identified with the bull Apis of Memphis and the bull Mnevis of Heliopolis."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But whatever the original relation of Apis to Osiris may have been, there is one fact about the former which ought not to be passed over in a disquisition on the custom of killing a god."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Although the bull Apis was worshipped as a god with much pomp and profound reverence, he was not suffered to live beyond a certain length of time which was prescribed by the sacred books, and on the expiry of which he was drowned in a holy spring."*

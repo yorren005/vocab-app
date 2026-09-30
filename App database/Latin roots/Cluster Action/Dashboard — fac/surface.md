@@ -5,15 +5,6 @@ status: unread
 ---
 # surface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer boundary of an artifact or a material layer constituting or resembling such a boundary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extended two-dimensional outer boundary of a three-dimensional object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Gusher, being a flabby gentleman with a moist surface and eyes so much too small for his moon of a face that they seemed to have been originally made for somebody else, was not at first sight prepossessing; yet he was scarcely seated before Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without a ruffle on the surface of his unfathomable depths, drinking his old wine, and go down into the streets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer boundary of an artifact or a material layer constituting or resembling such a boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extended two-dimensional outer boundary of a three-dimensional object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Gusher, being a flabby gentleman with a moist surface and eyes so much too small for his moon of a face that they seemed to have been originally made for somebody else, was not at first sight prepossessing; yet he was scarcely seated before Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without a ruffle on the surface of his unfathomable depths, drinking his old wine, and go down into the streets."*

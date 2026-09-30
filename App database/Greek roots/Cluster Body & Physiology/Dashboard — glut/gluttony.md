@@ -5,15 +5,6 @@ status: unread
 ---
 # gluttony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual eating to excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating to excess (personified as one of the deadly sins).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gluttony and diseases make them; I make them not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the cook help to make the gluttony, you help to make the diseases, Doll: we catch of you, Doll."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And God heard me, I know, for during all my term on that island I knew never a moment of sickness, save two, both of which were due to my gluttony, as I shall later relate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual eating to excess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating to excess (personified as one of the deadly sins).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gluttony and diseases make them; I make them not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the cook help to make the gluttony, you help to make the diseases, Doll: we catch of you, Doll."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And God heard me, I know, for during all my term on that island I knew never a moment of sickness, save two, both of which were due to my gluttony, as I shall later relate."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # silvia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the sylviidae: warblers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the sylviidae: warblers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SPEED. [_Calling_.] Madam Silvia!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, do you know Madam Silvia?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, dost thou know my lady Silvia?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the sylviidae: warblers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the sylviidae: warblers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SPEED. [_Calling_.] Madam Silvia!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, do you know Madam Silvia?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, dost thou know my lady Silvia?"*

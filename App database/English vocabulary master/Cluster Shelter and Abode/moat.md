@@ -5,20 +5,6 @@ status: unread
 ---
 # moat
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to surround with a moat
-> 2. **Nuance / Usage**: Channel resembling a moat (as about a seamount or for confinement of animals in a zoo)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe*):** *"head-piece, he dropped from the battlements into the moat a dead man."*
-> - 📜 **John Mauldin; Jonathan Tepper (*Code Red: How to Protect Your Savings From the Coming Crisis*):** *"No matter how good your company's product is or how quickly the industry is growing, if there is no moat, competitors will invade your castle and burn it down."*
-> - 📜 **Crockett, S. R. (Samuel Rutherford) (*Deep Moat Grange*):** *"house among them was called Deep Moat Grange."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A deep, wide defensive ditch dug around a castle, fort, or town, typically filled with water to hinder attacks.
+> 2. **Nuance / Usage**: In modern business and strategy, a durable competitive advantage (*economic moat*) that protects a company from rivals.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Struck through the head-piece, he dropped from the battlements into the **moat** below."*
+> - 📜 **Alfred, Lord Tennyson (*Mariana*):** *"About astone-cast from the wall a sluice with blackened waters slept, and o'er it many, round and small, the clustered marish-mosses crept across the **moat**."*
+> - 📜 **John Mauldin & Jonathan Tepper (*Code Red*):** *"No matter how good your company's product is, if there is no **moat**, competitors will invade your castle."*

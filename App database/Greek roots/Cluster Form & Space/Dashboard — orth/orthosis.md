@@ -5,13 +5,6 @@ status: unread
 ---
 # orthosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthosis designates an external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthosis designates an external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured."*

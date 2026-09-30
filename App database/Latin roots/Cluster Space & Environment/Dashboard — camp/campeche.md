@@ -5,13 +5,6 @@ status: unread
 ---
 # campeche
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican city on the bay of campeche.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican state on the eastern part of the gulf of campeche.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campeche designates a mexican city on the bay of campeche."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican city on the bay of campeche.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican state on the eastern part of the gulf of campeche.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campeche designates a mexican city on the bay of campeche."*

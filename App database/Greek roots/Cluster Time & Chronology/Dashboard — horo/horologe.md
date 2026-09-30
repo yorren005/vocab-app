@@ -5,13 +5,6 @@ status: unread
 ---
 # horologe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument or device for keeping time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument or device for keeping time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"IAGO. ’Tis evermore the prologue to his sleep: He’ll watch the horologe a double set If drink rock not his cradle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument or device for keeping time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument or device for keeping time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"IAGO. ’Tis evermore the prologue to his sleep: He’ll watch the horologe a double set If drink rock not his cradle."*

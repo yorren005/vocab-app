@@ -5,13 +5,6 @@ status: unread
 ---
 # logarithmic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent that indicates the power to which a base number is raised to produce a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function (such as y = loga x or y = ln x) that is the inverse of an exponential function (such as y = ax or y = ex) so that the independent variable appears in a logarithm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logarithmic designates the exponent that indicates the power to which a base number is raised to produce a given number."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent that indicates the power to which a base number is raised to produce a given number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function (such as y = loga x or y = ln x) that is the inverse of an exponential function (such as y = ax or y = ex) so that the independent variable appears in a logarithm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logarithmic designates the exponent that indicates the power to which a base number is raised to produce a given number."*

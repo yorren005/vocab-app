@@ -5,13 +5,6 @@ status: unread
 ---
 # coloration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The timbre of a musical sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearance with regard to color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These fruits are hidden amid the tissues of the plant on which the “white rust” is parasitic, and only betray their presence by the coloration of those tissues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The timbre of a musical sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearance with regard to color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These fruits are hidden amid the tissues of the plant on which the “white rust” is parasitic, and only betray their presence by the coloration of those tissues."*

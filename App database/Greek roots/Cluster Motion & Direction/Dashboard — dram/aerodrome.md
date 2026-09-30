@@ -5,13 +5,6 @@ status: unread
 ---
 # aerodrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of land from which aircraft operate : airfield.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of land from which aircraft operate : airfield.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodrome designates an area of land from which aircraft operate : airfield."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of land from which aircraft operate : airfield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of land from which aircraft operate : airfield.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodrome designates an area of land from which aircraft operate : airfield."*

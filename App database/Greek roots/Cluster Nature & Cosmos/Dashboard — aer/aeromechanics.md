@@ -5,13 +5,6 @@ status: unread
 ---
 # aeromechanics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromechanics designates mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromechanics designates mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them."*

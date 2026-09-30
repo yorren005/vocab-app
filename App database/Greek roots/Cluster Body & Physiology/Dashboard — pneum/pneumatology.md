@@ -5,13 +5,6 @@ status: unread
 ---
 # pneumatology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of spiritual beings or phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of spiritual beings or phenomena.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumatology designates the study of spiritual beings or phenomena."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of spiritual beings or phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of spiritual beings or phenomena.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumatology designates the study of spiritual beings or phenomena."*

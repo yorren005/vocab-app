@@ -5,15 +5,6 @@ status: unread
 ---
 # battlemented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected with battlements or parapets with indentations or embrasures for shooting through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling repeated square indentations like those in a battlement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On its summit stood clumps and stretches of fir-trees, whose notched tips appeared like battlemented towers crowning black-fronted castles of enchantment."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From my seat I could look down on Thornfield: the grey and battlemented hall was the principal object in the vale below me; its woods and dark rookery rose against the west."*
-> - 📜 **Algis Budrys (*Citadel*):** *"His jacket stretched like pliofilm to enclose the bulk of his stooped shoulders, and his eyes surveyed his world behind the battlemented heaviness of the puffing flesh that filled their sockets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected with battlements or parapets with indentations or embrasures for shooting through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling repeated square indentations like those in a battlement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On its summit stood clumps and stretches of fir-trees, whose notched tips appeared like battlemented towers crowning black-fronted castles of enchantment."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From my seat I could look down on Thornfield: the grey and battlemented hall was the principal object in the vale below me; its woods and dark rookery rose against the west."*
+> - 📜 **Algis Budrys (*Citadel*):** *"His jacket stretched like pliofilm to enclose the bulk of his stooped shoulders, and his eyes surveyed his world behind the battlemented heaviness of the puffing flesh that filled their sockets."*

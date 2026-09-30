@@ -5,13 +5,6 @@ status: unread
 ---
 # legionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier who is a member of a legion (especially the french foreign legion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier who is a member of a legion (especially the french foreign legion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My own twenty legionaries were close to hand and in readiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier who is a member of a legion (especially the french foreign legion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier who is a member of a legion (especially the french foreign legion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My own twenty legionaries were close to hand and in readiness."*

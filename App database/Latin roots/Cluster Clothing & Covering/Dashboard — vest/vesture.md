@@ -5,15 +5,6 @@ status: unread
 ---
 # vesture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that covers or cloaks like a garment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering designed to be worn on a person's body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him swear, Were he to stand for consul, never would he Appear i’ th’ marketplace nor on him put The napless vesture of humility, Nor showing, as the manner is, his wounds To th’ people, beg their stinking breaths."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind souls, what weep you when you but behold Our Caesar’s vesture wounded?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not the smallest orb which thou behold’st But in his motion like an angel sings, Still quiring to the young-eyed cherubins; Such harmony is in immortal souls, But whilst this muddy vesture of decay Doth grossly close it in, we cannot hear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that covers or cloaks like a garment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering designed to be worn on a person's body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him swear, Were he to stand for consul, never would he Appear i’ th’ marketplace nor on him put The napless vesture of humility, Nor showing, as the manner is, his wounds To th’ people, beg their stinking breaths."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind souls, what weep you when you but behold Our Caesar’s vesture wounded?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not the smallest orb which thou behold’st But in his motion like an angel sings, Still quiring to the young-eyed cherubins; Such harmony is in immortal souls, But whilst this muddy vesture of decay Doth grossly close it in, we cannot hear it."*

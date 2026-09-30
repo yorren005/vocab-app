@@ -5,13 +5,6 @@ status: unread
 ---
 # venturi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states architect (born in 1925).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tube with a constriction; used to control fluid flow (as in the air inlet of a carburetor).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venturi designates united states architect (born in 1925)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states architect (born in 1925).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tube with a constriction; used to control fluid flow (as in the air inlet of a carburetor).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venturi designates united states architect (born in 1925)."*

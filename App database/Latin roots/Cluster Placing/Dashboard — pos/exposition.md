@@ -5,15 +5,6 @@ status: unread
 ---
 # exposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic interpretation or explanation (usually written) of a specific topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of things (goods or works of art etc.) for public display.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It doth appear you are a worthy judge; You know the law; your exposition Hath been most sound."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, I pray you, let none of your people stir me; I have an exposition of sleep come upon me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, who is as upright as the house itself, rests apart in a window-seat or other such nook and listens with stately approval to Rosa’s exposition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic interpretation or explanation (usually written) of a specific topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of things (goods or works of art etc.) for public display.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It doth appear you are a worthy judge; You know the law; your exposition Hath been most sound."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, I pray you, let none of your people stir me; I have an exposition of sleep come upon me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, who is as upright as the house itself, rests apart in a window-seat or other such nook and listens with stately approval to Rosa’s exposition."*

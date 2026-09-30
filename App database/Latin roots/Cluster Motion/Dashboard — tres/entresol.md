@@ -5,14 +5,6 @@ status: unread
 ---
 # entresol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate floor just above the ground floor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate floor just above the ground floor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They could take the premier now, instead of the little entresol of the hotel which they occupied."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She grinned as she looked up at the little entresol which she had occupied, and thought of the Bareacres family, bawling for horses and flight, as their carriage stood in the porte-cochere of the hotel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate floor just above the ground floor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate floor just above the ground floor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They could take the premier now, instead of the little entresol of the hotel which they occupied."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She grinned as she looked up at the little entresol which she had occupied, and thought of the Bareacres family, bawling for horses and flight, as their carriage stood in the porte-cochere of the hotel."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # quintessence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth and highest element after air and earth and fire and water; was believed to be the substance composing all heavenly bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The purest and most concentrated essence of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But upon the fairest boughs, Or at every sentence’ end, Will I “Rosalinda” write, Teaching all that read to know The quintessence of every sprite Heaven would in little show."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, to me, what is this quintessence of dust?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth and highest element after air and earth and fire and water; was believed to be the substance composing all heavenly bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The purest and most concentrated essence of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But upon the fairest boughs, Or at every sentence’ end, Will I “Rosalinda” write, Teaching all that read to know The quintessence of every sprite Heaven would in little show."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, to me, what is this quintessence of dust?"*

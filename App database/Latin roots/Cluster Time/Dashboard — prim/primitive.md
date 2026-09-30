@@ -5,15 +5,6 @@ status: unread
 ---
 # primitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who belongs to an early stage of civilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical expression from which another expression is derived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not far off is the strong, rough, primitive table with a vice upon it at which he has been working."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl would prefer the bar in front, as being exposed to the weather and a primitive sort of perch more in accordance with her usual course of travelling, but Mrs."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who belongs to an early stage of civilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical expression from which another expression is derived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not far off is the strong, rough, primitive table with a vice upon it at which he has been working."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl would prefer the bar in front, as being exposed to the weather and a primitive sort of perch more in accordance with her usual course of travelling, but Mrs."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*

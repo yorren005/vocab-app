@@ -5,15 +5,6 @@ status: unread
 ---
 # aspiration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A will to succeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cherished desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That spirit of his In aspiration lifts him from the earth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He and Jo listen to the music, probably with much the same amount of animal satisfaction; likewise as to awakened association, aspiration, or regret, melancholy or joyful reference to things beyond the senses, they are probably upon a par."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But here was actually assembled the Jewish people, coming in swarms from all the world, for the feast; here was Judaism at its most pious; here was the pilgrim centre with all it meant of aspiration and blindness, of simple folly and gross sin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A will to succeed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cherished desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That spirit of his In aspiration lifts him from the earth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He and Jo listen to the music, probably with much the same amount of animal satisfaction; likewise as to awakened association, aspiration, or regret, melancholy or joyful reference to things beyond the senses, they are probably upon a par."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"But here was actually assembled the Jewish people, coming in swarms from all the world, for the feast; here was Judaism at its most pious; here was the pilgrim centre with all it meant of aspiration and blindness, of simple folly and gross sin."*

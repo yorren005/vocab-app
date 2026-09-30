@@ -5,20 +5,6 @@ status: unread
 ---
 # shieling
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Shepherd's hut or shack
-> 2. **Nuance / Usage**: Summer pasture in the mountains
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the shieling withstood the storm*), direct object (*cleaved the shieling*), or prepositional anchor (*amidst the shieling*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **‘Egil's Saga’ (*The Sagas of Icelanders*):** *"The cattle at Mosfell were kept in a shieling, and Thordis stayed there while the Thing took place."*
-> - 📜 **Joanna Baillie (*The Phantom*):** *"And what are twenty beds, when all the drovers,<br>And all the shieling herdsmen from Bengorach,<br>Must have a lair provided for the night."*
-> - 📜 **Joseph O'Conner (*Star of the Sea*):** *"Cabins and shielings had been torn down and burned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A rough hut or stone shelter on a high moor or mountain pasture, used by shepherds and dairymaids during the summer grazing season (chiefly Scottish and Northern English).
+> 2. **Nuance / Usage**: Also refers to the upland summer pasture itself where livestock are driven in seasonal transhumance.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the shieling withstood the storm*), direct object (*cleaved the shieling*), or prepositional anchor (*amidst the shieling*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Egil's Saga*):** *"The cattle at Mosfell were kept in a **shieling**, and Thordis stayed there while the assembly took place."*
+> - 📜 **Joanna Baillie (*The Phantom*):** *"And what are twenty beds, when all the drovers and all the **shieling** herdsmen from Bengorach must have a lair provided for the night?"*
+> - 📜 **Joseph O'Connor (*Star of the Sea*):** *"Across the cleared estate, cabins and **shielings** had been torn down and burned."*

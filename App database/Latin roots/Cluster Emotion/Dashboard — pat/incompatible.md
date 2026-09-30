@@ -5,15 +5,6 @@ status: unread
 ---
 # incompatible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compatible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of drugs or muscles that counteract or neutralize each other's effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I mean that all this business puts us on unnatural terms, with which natural relations are incompatible."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Sometimes it appeared to them as if his silence would be the natural result of the suspected engagement, and at others that it was wholly incompatible with it."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Some forms of mysticism seem to be incompatible with married life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compatible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of drugs or muscles that counteract or neutralize each other's effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I mean that all this business puts us on unnatural terms, with which natural relations are incompatible."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Sometimes it appeared to them as if his silence would be the natural result of the suspected engagement, and at others that it was wholly incompatible with it."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Some forms of mysticism seem to be incompatible with married life."*

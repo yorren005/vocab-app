@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-abstraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semiabstract painting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semiabstract painting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-abstraction designates a semiabstract painting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semiabstract painting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semiabstract painting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-abstraction designates a semiabstract painting."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # conurbation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggregation or continuous network of urban communities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aggregation or continuous network of urban communities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conurbation designates an aggregation or continuous network of urban communities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggregation or continuous network of urban communities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aggregation or continuous network of urban communities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conurbation designates an aggregation or continuous network of urban communities."*

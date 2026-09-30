@@ -5,15 +5,6 @@ status: unread
 ---
 # depose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to leave (an office).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a deposition; declare under oath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke yet lives that Henry shall depose, But him outlive and die a violent death. [_As the Spirit speaks, Southwell writes the answer._] BOLINGBROKE. [_Reads_.] _What fates await the Duke of Suffolk?_ SPIRIT."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What have we here? [_Reads_.] _The duke yet lives that Henry shall depose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry had none, but did usurp the place; Then, seeing ’twas he that made you to depose, Your oath, my lord, is vain and frivolous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to leave (an office).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a deposition; declare under oath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke yet lives that Henry shall depose, But him outlive and die a violent death. [_As the Spirit speaks, Southwell writes the answer._] BOLINGBROKE. [_Reads_.] _What fates await the Duke of Suffolk?_ SPIRIT."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What have we here? [_Reads_.] _The duke yet lives that Henry shall depose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry had none, but did usurp the place; Then, seeing ’twas he that made you to depose, Your oath, my lord, is vain and frivolous."*

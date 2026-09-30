@@ -5,15 +5,6 @@ status: unread
 ---
 # expose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposure of an impostor or a fraud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose or make accessible to some action or influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor lord, is’t I That chase thee from thy country, and expose Those tender limbs of thine to the event Of the none-sparing war?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take physic, pomp; Expose thyself to feel what wretches feel, That thou mayst shake the superflux to them And show the heavens more just."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why do fond men expose themselves to battle And not endure all threats?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposure of an impostor or a fraud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose or make accessible to some action or influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor lord, is’t I That chase thee from thy country, and expose Those tender limbs of thine to the event Of the none-sparing war?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take physic, pomp; Expose thyself to feel what wretches feel, That thou mayst shake the superflux to them And show the heavens more just."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why do fond men expose themselves to battle And not endure all threats?"*

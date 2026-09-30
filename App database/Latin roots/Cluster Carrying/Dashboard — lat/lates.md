@@ -5,14 +5,6 @@ status: unread
 ---
 # lates
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large percoid fishes of fresh and brackish water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of large percoid fishes of fresh and brackish water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Knowledge that we can accomplish the good we hope for, stimu- 394:9 lates the system to act in the direction which Mind points out."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Beginning creation with darkness instead of light, - materially rather than spiritually, - error now simu- 528:21 lates the work of Truth, mocking Love and declar- ing what great things error has done."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large percoid fishes of fresh and brackish water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of large percoid fishes of fresh and brackish water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Knowledge that we can accomplish the good we hope for, stimu- 394:9 lates the system to act in the direction which Mind points out."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Beginning creation with darkness instead of light, - materially rather than spiritually, - error now simu- 528:21 lates the work of Truth, mocking Love and declar- ing what great things error has done."*

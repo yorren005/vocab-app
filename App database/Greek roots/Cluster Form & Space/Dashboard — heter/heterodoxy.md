@@ -5,15 +5,6 @@ status: unread
 ---
 # heterodoxy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being heterodox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heterodox opinion or doctrine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Despite his heterodoxy, faults, and weaknesses, Clare was a man with a conscience."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Indeed, despite his own heterodoxy, Angel often felt that he was nearer to his father on the human side than was either of his brethren."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, my boy, my boy—home again at last!” cried Mrs Clare, who cared no more at that moment for the stains of heterodoxy which had caused all this separation than for the dust upon his clothes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being heterodox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heterodox opinion or doctrine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Despite his heterodoxy, faults, and weaknesses, Clare was a man with a conscience."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Indeed, despite his own heterodoxy, Angel often felt that he was nearer to his father on the human side than was either of his brethren."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, my boy, my boy—home again at last!” cried Mrs Clare, who cared no more at that moment for the stains of heterodoxy which had caused all this separation than for the dust upon his clothes."*

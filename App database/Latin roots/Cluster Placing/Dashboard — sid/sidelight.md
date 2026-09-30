@@ -5,15 +5,6 @@ status: unread
 ---
 # sidelight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light carried by a boat that indicates the boat's direction; vessels at night carry a red light on the port bow and a green light on the starboard bow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light carried by a boat that indicates the boat's direction; vessels at night carry a red light on the port bow and a green light on the starboard bow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now carry out my orders to the letter.” As he spoke the gleam of the sidelights of a carriage came round the curve of the avenue."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She knew that this silent, motionless portal opened into the street; if the sidelights had not been filled with green paper she might have looked out upon the little brown stoop and the well-worn brick pavement."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She had never opened the bolted door nor removed the green paper (renewed by other hands) from its sidelights; she had never assured herself that the vulgar street lay beyond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Light carried by a boat that indicates the boat's direction; vessels at night carry a red light on the port bow and a green light on the starboard bow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light carried by a boat that indicates the boat's direction; vessels at night carry a red light on the port bow and a green light on the starboard bow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now carry out my orders to the letter.” As he spoke the gleam of the sidelights of a carriage came round the curve of the avenue."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She knew that this silent, motionless portal opened into the street; if the sidelights had not been filled with green paper she might have looked out upon the little brown stoop and the well-worn brick pavement."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She had never opened the bolted door nor removed the green paper (renewed by other hands) from its sidelights; she had never assured herself that the vulgar street lay beyond."*

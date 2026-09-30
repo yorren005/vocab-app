@@ -5,13 +5,6 @@ status: unread
 ---
 # encephalography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalography designates roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalography designates roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram."*

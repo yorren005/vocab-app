@@ -5,13 +5,6 @@ status: unread
 ---
 # psephologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sociologist who studies election trends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sociologist who studies election trends.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephologist designates a sociologist who studies election trends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sociologist who studies election trends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sociologist who studies election trends.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephologist designates a sociologist who studies election trends."*

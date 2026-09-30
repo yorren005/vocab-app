@@ -5,15 +5,6 @@ status: unread
 ---
 # spiritless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking ardor or vigor or energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evidencing little spirit or courage; overly submissive or compliant; ; - orville prescott.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the further end the great churn could be seen revolving, and its slip-slopping heard—the moving power being discernible through the window in the form of a spiritless horse walking in a circle and driven by a boy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By the time they reached home she was contrite and spiritless."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Rendered spiritless by the ill success of all their endeavours, he had yielded to his brother-in-law’s entreaty that he would return to his family and leave it to him to do whatever occasion might suggest to be advisable for continuing their pursuit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking ardor or vigor or energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evidencing little spirit or courage; overly submissive or compliant; ; - orville prescott.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the further end the great churn could be seen revolving, and its slip-slopping heard—the moving power being discernible through the window in the form of a spiritless horse walking in a circle and driven by a boy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By the time they reached home she was contrite and spiritless."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Rendered spiritless by the ill success of all their endeavours, he had yielded to his brother-in-law’s entreaty that he would return to his family and leave it to him to do whatever occasion might suggest to be advisable for continuing their pursuit."*

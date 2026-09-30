@@ -5,13 +5,6 @@ status: unread
 ---
 # melos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Island of Greece in the southwestern Cyclades area 57 square miles (148 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Island of Greece in the southwestern Cyclades area 57 square miles (148 square kilometers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Milk-stones are used for the same purpose by Greek women in Crete and Melos at the present day; in Albania nursing mothers wear the stones in order to ensure an abundant flow of milk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Island of Greece in the southwestern Cyclades area 57 square miles (148 square kilometers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Island of Greece in the southwestern Cyclades area 57 square miles (148 square kilometers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Milk-stones are used for the same purpose by Greek women in Crete and Melos at the present day; in Albania nursing mothers wear the stones in order to ensure an abundant flow of milk."*

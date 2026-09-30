@@ -5,15 +5,6 @@ status: unread
 ---
 # damning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening with damnation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by a mysterious fatality, Heaven itself seemed to step in to take out of his hands into its own the damning thing he would have done."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Those are the main facts of the case as they came out before the coroner and the police-court.” “I could hardly imagine a more damning case,” I remarked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening with damnation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by a mysterious fatality, Heaven itself seemed to step in to take out of his hands into its own the damning thing he would have done."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Those are the main facts of the case as they came out before the coroner and the police-court.” “I could hardly imagine a more damning case,” I remarked."*

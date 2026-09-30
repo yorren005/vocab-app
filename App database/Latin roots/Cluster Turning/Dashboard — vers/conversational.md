@@ -5,15 +5,6 @@ status: unread
 ---
 # conversational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of informal spoken language or conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of informal spoken language or conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, “he parted from our conversational friend Kenge and took up, I believe, with Vholes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And you haven’t got anything on your mind, you know, George; what could you have on your mind!” Somewhat harping on this phrase, considering the extent and variety of his conversational powers, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Conversational and acquiescent on both sides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of informal spoken language or conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of informal spoken language or conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, “he parted from our conversational friend Kenge and took up, I believe, with Vholes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And you haven’t got anything on your mind, you know, George; what could you have on your mind!” Somewhat harping on this phrase, considering the extent and variety of his conversational powers, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Conversational and acquiescent on both sides."*

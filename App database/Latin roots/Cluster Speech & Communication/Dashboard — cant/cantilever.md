@@ -5,13 +5,6 @@ status: unread
 ---
 # cantilever
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Projecting horizontal beam fixed at one end only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Project as a cantilever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Gazing at it each day, there rose up slowly by degrees in his mind, like a dream, the picture of a great work on a new and startling principle--a modification of the cantilever to the necessities of the situation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Projecting horizontal beam fixed at one end only.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Project as a cantilever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Gazing at it each day, there rose up slowly by degrees in his mind, like a dream, the picture of a great work on a new and startling principle--a modification of the cantilever to the necessities of the situation."*

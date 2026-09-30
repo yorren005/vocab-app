@@ -5,15 +5,6 @@ status: unread
 ---
 # graft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grafted plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grafted plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll graft it with you, and then I shall graft it with a medlar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever lady wronged her lord so much, Thy mother took into her blameful bed Some stern untutored churl, and noble stock Was graft with crab-tree slip, whose fruit thou art, And never of the Nevilles’ noble race."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gard’ner, for telling me these news of woe, Pray God the plants thou graft’st may never grow! [_Exeunt Queen and Ladies._] GARDENER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grafted plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grafted plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll graft it with you, and then I shall graft it with a medlar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever lady wronged her lord so much, Thy mother took into her blameful bed Some stern untutored churl, and noble stock Was graft with crab-tree slip, whose fruit thou art, And never of the Nevilles’ noble race."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gard’ner, for telling me these news of woe, Pray God the plants thou graft’st may never grow! [_Exeunt Queen and Ladies._] GARDENER."*

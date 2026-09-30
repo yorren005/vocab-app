@@ -5,15 +5,6 @@ status: unread
 ---
 # excitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of responding to stimuli.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce was constantly beset by the crowd of excitable ladies and gentlemen whose proceedings had so much astonished us."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mother says I always was so excitable when my feelings were worked up to a point!” “True, true,” said Joseph Poorgrass."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Balls were always a very excitable family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily excited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of responding to stimuli.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce was constantly beset by the crowd of excitable ladies and gentlemen whose proceedings had so much astonished us."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mother says I always was so excitable when my feelings were worked up to a point!” “True, true,” said Joseph Poorgrass."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Balls were always a very excitable family."*

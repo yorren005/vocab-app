@@ -5,15 +5,6 @@ status: unread
 ---
 # temp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker (especially in an office) hired on a temporary basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker (especially in an office) hired on a temporary basis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be that you seem, truly your country’s friend, And temp’rately proceed to what you would Thus violently redress."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But, Lord, remember me an’ mine Wi’ mercies temp’ral an’ divine, That I for grace an’ gear may shine, Excell’d by nane, And a’ the glory shall be thine, Amen, Amen!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker (especially in an office) hired on a temporary basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker (especially in an office) hired on a temporary basis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be that you seem, truly your country’s friend, And temp’rately proceed to what you would Thus violently redress."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But, Lord, remember me an’ mine Wi’ mercies temp’ral an’ divine, That I for grace an’ gear may shine, Excell’d by nane, And a’ the glory shall be thine, Amen, Amen!"*

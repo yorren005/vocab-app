@@ -5,15 +5,6 @@ status: unread
 ---
 # surgery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with diseases and conditions requiring or amenable to operative or manual procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alterations made as if by surgery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And they are often tarred over with the surgery of our sheep; and would you have us kiss tar?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honour hath no skill in surgery then?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brooches, pearls, and ouches:”—for to serve bravely is to come halting off, you know; to come off the breach with his pike bent bravely, and to surgery bravely; to venture upon the charged chambers bravely— DOLL."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with diseases and conditions requiring or amenable to operative or manual procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alterations made as if by surgery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And they are often tarred over with the surgery of our sheep; and would you have us kiss tar?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honour hath no skill in surgery then?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brooches, pearls, and ouches:”—for to serve bravely is to come halting off, you know; to come off the breach with his pike bent bravely, and to surgery bravely; to venture upon the charged chambers bravely— DOLL."*

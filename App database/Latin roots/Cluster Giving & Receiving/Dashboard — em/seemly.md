@@ -5,15 +5,6 @@ status: unread
 ---
 # seemly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According with custom or propriety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According with custom or propriety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know I am a woman, lacking wit To make a seemly answer to such persons."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me: How can I then be elder than thou art?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According with custom or propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According with custom or propriety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know I am a woman, lacking wit To make a seemly answer to such persons."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me: How can I then be elder than thou art?"*

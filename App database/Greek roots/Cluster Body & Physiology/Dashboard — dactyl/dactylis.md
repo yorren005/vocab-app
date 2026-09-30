@@ -5,13 +5,6 @@ status: unread
 ---
 # dactylis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous grass of the family gramineae (has only one species).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous grass of the family gramineae (has only one species).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"COCKSFOOT SMUT; produced on the leaves, forming elongated parallel sori on the upper surface; spores obovate, rather large, rough with minute granules.—On leaves of _Dactylis glomerata_ and other Grasses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous grass of the family gramineae (has only one species).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous grass of the family gramineae (has only one species).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"COCKSFOOT SMUT; produced on the leaves, forming elongated parallel sori on the upper surface; spores obovate, rather large, rough with minute granules.—On leaves of _Dactylis glomerata_ and other Grasses."*

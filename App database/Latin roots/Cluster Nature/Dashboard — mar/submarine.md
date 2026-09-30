@@ -5,15 +5,6 @@ status: unread
 ---
 # submarine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A submersible warship usually armed with torpedoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a sense everything has been the natural outcome of evolution,--the steam engine, the submarine, the boycott, militarism."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The submarine railway may have its difficulties; but the bed of the sea is not divided among various landed proprietors with claims for damages not only measurable but sentimental."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There remained then only two possible solutions of the question, which created two distinct parties: on one side, those who were for a monster of colossal strength; on the other, those who were for a submarine vessel of enormous motive power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A submersible warship usually armed with torpedoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a sense everything has been the natural outcome of evolution,--the steam engine, the submarine, the boycott, militarism."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The submarine railway may have its difficulties; but the bed of the sea is not divided among various landed proprietors with claims for damages not only measurable but sentimental."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There remained then only two possible solutions of the question, which created two distinct parties: on one side, those who were for a monster of colossal strength; on the other, those who were for a submarine vessel of enormous motive power."*

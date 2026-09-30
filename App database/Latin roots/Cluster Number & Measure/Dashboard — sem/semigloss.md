@@ -5,13 +5,6 @@ status: unread
 ---
 # semigloss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paint that dries with a finish between glossy and flat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paint that dries with a finish between glossy and flat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semigloss designates a paint that dries with a finish between glossy and flat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paint that dries with a finish between glossy and flat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paint that dries with a finish between glossy and flat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semigloss designates a paint that dries with a finish between glossy and flat."*

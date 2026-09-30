@@ -5,15 +5,6 @@ status: unread
 ---
 # minimize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make small or insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But they occur also in the periods following crises, when the workers seek to minimize cuts in wages and to prevent the depression of working conditions."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only ethically worthless speculations that have always tried to minimize this distinction."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You won't think I'm trying to minimize what Val did, will you, if I say that we who were through the fighting saw so many horrible and ghastly things . . ." Again his voice failed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make small or insignificant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But they occur also in the periods following crises, when the workers seek to minimize cuts in wages and to prevent the depression of working conditions."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only ethically worthless speculations that have always tried to minimize this distinction."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"You won't think I'm trying to minimize what Val did, will you, if I say that we who were through the fighting saw so many horrible and ghastly things . . ." Again his voice failed."*

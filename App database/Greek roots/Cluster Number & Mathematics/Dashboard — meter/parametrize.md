@@ -5,13 +5,6 @@ status: unread
 ---
 # parametrize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To express in terms of parameters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express in terms of parameters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parametrize designates to express in terms of parameters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express in terms of parameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express in terms of parameters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parametrize designates to express in terms of parameters."*

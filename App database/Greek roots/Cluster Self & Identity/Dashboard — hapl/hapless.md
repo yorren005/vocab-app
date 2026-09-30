@@ -5,15 +5,6 @@ status: unread
 ---
 # hapless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inciting pity; ; ; - galsworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See, ruthless queen, a hapless father’s tears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The bird that hath been limed in a bush With trembling wings misdoubteth every bush; And I, the hapless male to one sweet bird, Have now the fatal object in my eye Where my poor young was limed, was caught, and killed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inciting pity; ; ; - galsworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See, ruthless queen, a hapless father’s tears."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The bird that hath been limed in a bush With trembling wings misdoubteth every bush; And I, the hapless male to one sweet bird, Have now the fatal object in my eye Where my poor young was limed, was caught, and killed."*

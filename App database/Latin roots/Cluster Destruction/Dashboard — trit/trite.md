@@ -5,15 +5,6 @@ status: unread
 ---
 # trite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeated too often; overfamiliar through overuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeated too often; overfamiliar through overuse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"For the rest, whether trite or novel, it is short."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeated too often; overfamiliar through overuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeated too often; overfamiliar through overuse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"For the rest, whether trite or novel, it is short."*

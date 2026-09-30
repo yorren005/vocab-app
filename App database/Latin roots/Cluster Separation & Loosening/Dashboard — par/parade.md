@@ -5,15 +5,6 @@ status: unread
 ---
 # parade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremonial procession including people marching.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extended (often showy) succession of persons or things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"An’ev’n their sports, their balls an’ races, Their galloping through public places, There’s sic parade, sic pomp, an’ art, The joy can scarcely reach the heart."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This is a parade,” cried he, “which does one good; it gives such an elegance to misfortune!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Rowsley, if you pull my hair I shall hit you in the--in the place where the Gauls fined their soldiers if they stuck out on parade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremonial procession including people marching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extended (often showy) succession of persons or things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"An’ev’n their sports, their balls an’ races, Their galloping through public places, There’s sic parade, sic pomp, an’ art, The joy can scarcely reach the heart."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This is a parade,” cried he, “which does one good; it gives such an elegance to misfortune!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Rowsley, if you pull my hair I shall hit you in the--in the place where the Gauls fined their soldiers if they stuck out on parade."*

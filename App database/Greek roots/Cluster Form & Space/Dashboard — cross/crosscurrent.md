@@ -5,13 +5,6 @@ status: unread
 ---
 # crosscurrent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stretch of turbulent water in a river or the sea caused by one current flowing into or across another current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Actions counter to the main group activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosscurrent designates a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stretch of turbulent water in a river or the sea caused by one current flowing into or across another current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Actions counter to the main group activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosscurrent designates a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current."*

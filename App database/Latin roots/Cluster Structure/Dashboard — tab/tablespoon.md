@@ -5,13 +5,6 @@ status: unread
 ---
 # tablespoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As much as a tablespoon will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spoon larger than a dessert spoon; used for serving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Would a tablespoon of vanilla be enough for a small layer cake?” “I felt sorrier than ever for the poor man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As much as a tablespoon will hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spoon larger than a dessert spoon; used for serving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Would a tablespoon of vanilla be enough for a small layer cake?” “I felt sorrier than ever for the poor man."*

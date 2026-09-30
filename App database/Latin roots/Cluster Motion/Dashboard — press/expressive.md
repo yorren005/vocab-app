@@ -5,15 +5,6 @@ status: unread
 ---
 # expressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I cannot imagine a countenance and manner more singularly expressive of caution and indecision, and a perpetual impulse to do something he could not resolve to venture on, than Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All at once she turned from me with a hasty air, almost expressive of displeasure or dislike, and spoke to him over her shoulder again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I cannot imagine a countenance and manner more singularly expressive of caution and indecision, and a perpetual impulse to do something he could not resolve to venture on, than Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All at once she turned from me with a hasty air, almost expressive of displeasure or dislike, and spoke to him over her shoulder again."*

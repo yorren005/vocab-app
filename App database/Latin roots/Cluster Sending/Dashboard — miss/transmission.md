@@ -5,15 +5,6 @@ status: unread
 ---
 # transmission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communication by means of transmitted signals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It lay quietly sheltered from the motions of the sea, and under a favourable pressure for the transmission of the electric spark which passes from Europe to America in .32 of a second."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An instant later the ship disintegrated into thousands of metal and composite fragments, and shards of what had been human flesh and bone. ## "Flash -- Spunnel Transmission Priority One."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communication by means of transmitted signals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It lay quietly sheltered from the motions of the sea, and under a favourable pressure for the transmission of the electric spark which passes from Europe to America in .32 of a second."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An instant later the ship disintegrated into thousands of metal and composite fragments, and shards of what had been human flesh and bone. ## "Flash -- Spunnel Transmission Priority One."*

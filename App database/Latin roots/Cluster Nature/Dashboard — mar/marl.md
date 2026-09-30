@@ -5,15 +5,6 @@ status: unread
 ---
 # marl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose and crumbling earthy deposit consisting mainly of calcite or dolomite; used as a fertilizer for soils deficient in lime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose and crumbling earthy deposit consisting mainly of calcite or dolomite; used as a fertilizer for soils deficient in lime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would it not grieve a woman to be over-mastered with a piece of valiant dust? to make an account of her life to a clod of wayward marl?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Renton Of Lamerton Your billet, Sir, I grant receipt; Wi’ you I’ll canter ony gate, Tho’ ’twere a trip to yon blue warl’, Whare birkies march on burning marl: Then, Sir, God willing, I’ll attend ye, And to his goodness I commend ye."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"For you, no bred to barn and byre, Wha sweetly tune the Scottish lyre, Thanks to you for your line: The marled plaid ye kindly spare, By me should gratefully be ware; ’Twad please me to the nine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose and crumbling earthy deposit consisting mainly of calcite or dolomite; used as a fertilizer for soils deficient in lime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose and crumbling earthy deposit consisting mainly of calcite or dolomite; used as a fertilizer for soils deficient in lime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would it not grieve a woman to be over-mastered with a piece of valiant dust? to make an account of her life to a clod of wayward marl?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Renton Of Lamerton Your billet, Sir, I grant receipt; Wi’ you I’ll canter ony gate, Tho’ ’twere a trip to yon blue warl’, Whare birkies march on burning marl: Then, Sir, God willing, I’ll attend ye, And to his goodness I commend ye."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"For you, no bred to barn and byre, Wha sweetly tune the Scottish lyre, Thanks to you for your line: The marled plaid ye kindly spare, By me should gratefully be ware; ’Twad please me to the nine."*

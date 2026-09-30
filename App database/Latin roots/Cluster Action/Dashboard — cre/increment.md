@@ -5,15 +5,6 @@ status: unread
 ---
 # increment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of becoming larger or longer or more numerous or more important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which something increases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"His book had gone through four editions, and, with the increment of the noble war poetry of "Drum Taps," had become a volume of size."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Each added portion, dose or increment beyond a certain point reduces thus the welfare of the user."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The term "unearned increment" has been frequently used in recent years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of becoming larger or longer or more numerous or more important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which something increases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"His book had gone through four editions, and, with the increment of the noble war poetry of "Drum Taps," had become a volume of size."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Each added portion, dose or increment beyond a certain point reduces thus the welfare of the user."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The term "unearned increment" has been frequently used in recent years."*

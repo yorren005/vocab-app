@@ -5,13 +5,6 @@ status: unread
 ---
 # pareve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of judaism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of judaism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pareve designates containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of judaism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of judaism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of judaism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pareve designates containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of judaism."*

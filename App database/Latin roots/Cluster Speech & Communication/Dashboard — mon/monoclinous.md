@@ -5,13 +5,6 @@ status: unread
 ---
 # monoclinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistils and stamens in the same flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pistils and stamens in the same flower.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinous designates having pistils and stamens in the same flower."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistils and stamens in the same flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pistils and stamens in the same flower.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinous designates having pistils and stamens in the same flower."*

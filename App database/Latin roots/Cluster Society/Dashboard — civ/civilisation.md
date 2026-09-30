@@ -5,15 +5,6 @@ status: unread
 ---
 # civilisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process whereby societies achieve an advanced stage of development and organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular society at a particular time and place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Then he disappeared, bored by civilisation; nothing is known of him until 1820, when he turns up in Switzerland in pursuit of sport and adventure."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This person had a certain fortunate, brilliant exceptional look--the air of a happy temperament fertilised by a high civilisation--which would have made almost any observer envy him at a venture."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Miss Stackpole knows I detest boarding-house civilisation, and she detests me for detesting it, because she thinks it the highest in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process whereby societies achieve an advanced stage of development and organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular society at a particular time and place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Then he disappeared, bored by civilisation; nothing is known of him until 1820, when he turns up in Switzerland in pursuit of sport and adventure."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This person had a certain fortunate, brilliant exceptional look--the air of a happy temperament fertilised by a high civilisation--which would have made almost any observer envy him at a venture."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Miss Stackpole knows I detest boarding-house civilisation, and she detests me for detesting it, because she thinks it the highest in the world."*

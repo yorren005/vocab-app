@@ -5,13 +5,6 @@ status: unread
 ---
 # planography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planography designates the process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planography designates the process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent)."*

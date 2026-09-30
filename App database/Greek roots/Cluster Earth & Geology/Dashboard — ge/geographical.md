@@ -5,15 +5,6 @@ status: unread
 ---
 # geographical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by geography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To persons of limited spheres, miles are as geographical degrees, parishes as counties, counties as provinces and kingdoms."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare _id._, "Notes on the Duke of York Group, New Britain, and New Ireland," _Journal of the Royal Geographical Society_, xlvii. (1877) pp. 142 _sq._; A."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Simons, "An Exploration of the Goajira Peninsula," _Proceedings of the Royal Geographical Society_, N.S., vii. (1885) p. 791."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of geography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by geography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To persons of limited spheres, miles are as geographical degrees, parishes as counties, counties as provinces and kingdoms."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare _id._, "Notes on the Duke of York Group, New Britain, and New Ireland," _Journal of the Royal Geographical Society_, xlvii. (1877) pp. 142 _sq._; A."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Simons, "An Exploration of the Goajira Peninsula," _Proceedings of the Royal Geographical Society_, N.S., vii. (1885) p. 791."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # chronometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Heart weak, but steady as a chronometer.” “It’s only twenty-four hours,” Captain Jamie said, “and he was never in like condition before.” “Putting it on, that’s what he’s doing, and you can stack on that,” Al Hutchins, the head trusty, interjected."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The boat took with me Captain Nemo, two men of the crew, and the instruments, which consisted of a chronometer, a telescope, and a barometer."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"If the disappearance of the half-disc of the sun coincided with twelve o’clock on the chronometer, we were at the pole itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Heart weak, but steady as a chronometer.” “It’s only twenty-four hours,” Captain Jamie said, “and he was never in like condition before.” “Putting it on, that’s what he’s doing, and you can stack on that,” Al Hutchins, the head trusty, interjected."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The boat took with me Captain Nemo, two men of the crew, and the instruments, which consisted of a chronometer, a telescope, and a barometer."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"If the disappearance of the half-disc of the sun coincided with twelve o’clock on the chronometer, we were at the pole itself."*

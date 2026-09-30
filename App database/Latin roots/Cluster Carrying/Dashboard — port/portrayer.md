@@ -5,13 +5,6 @@ status: unread
 ---
 # portrayer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter or drawer of portraits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter or drawer of portraits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He is the faithful portrayer of Nature, whose features are always the same and always interesting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter or drawer of portraits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter or drawer of portraits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He is the faithful portrayer of Nature, whose features are always the same and always interesting."*

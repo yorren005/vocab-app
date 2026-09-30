@@ -5,15 +5,6 @@ status: unread
 ---
 # transplant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (surgery) tissue or organ transplanted from a donor to a recipient; in some cases the patient can be both donor and recipient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation moving an organ from one organism (the donor) to another (the recipient).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"We want, as far as possible, to transplant our home bodily--to bring as much as we can of our own furniture because we have beautiful old things precious in Herby's eyes & that we are all fond of."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Armed men rode over the beautiful prairies, some east, some west--one band to transplant slavery from the tainted soil of Missouri, another to pluck it up."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Now, much as I should rejoice to transplant the poor old creature from the chilling air of such patronage, yet I know how straitened we are already, how unable already to answer any demand which sickness or any extraordinary expense may make."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (surgery) tissue or organ transplanted from a donor to a recipient; in some cases the patient can be both donor and recipient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation moving an organ from one organism (the donor) to another (the recipient).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"We want, as far as possible, to transplant our home bodily--to bring as much as we can of our own furniture because we have beautiful old things precious in Herby's eyes & that we are all fond of."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Armed men rode over the beautiful prairies, some east, some west--one band to transplant slavery from the tainted soil of Missouri, another to pluck it up."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Now, much as I should rejoice to transplant the poor old creature from the chilling air of such patronage, yet I know how straitened we are already, how unable already to answer any demand which sickness or any extraordinary expense may make."*

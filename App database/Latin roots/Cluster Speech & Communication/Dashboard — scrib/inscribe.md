@@ -5,15 +5,6 @@ status: unread
 ---
 # inscribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register formally as a participant or member.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the ancient monuments of barbarism and despotism I will inscribe great words of justice and mercy...."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I read to him the notes which I had made at the time, and which I inscribe here:-- “At Purfleet, on a by-road, I came across just such a place as seemed to be required, and where was displayed a dilapidated notice that the place was for sale."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"TO CLARENCE CARY, MY ADVISER AND MY FRIEND, WHEN ADVISERS I HAD NONE AND FRIENDS WERE FEW, I INSCRIBE THIS, MY FIRST BOOK."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register formally as a participant or member.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the ancient monuments of barbarism and despotism I will inscribe great words of justice and mercy...."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I read to him the notes which I had made at the time, and which I inscribe here:-- “At Purfleet, on a by-road, I came across just such a place as seemed to be required, and where was displayed a dilapidated notice that the place was for sale."*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"TO CLARENCE CARY, MY ADVISER AND MY FRIEND, WHEN ADVISERS I HAD NONE AND FRIENDS WERE FEW, I INSCRIBE THIS, MY FIRST BOOK."*

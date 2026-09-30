@@ -5,15 +5,6 @@ status: unread
 ---
 # rapture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being carried away by overwhelming emotion; - charles dickens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of elated bliss.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your prattling nurse Into a rapture lets her baby cry While she chats him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your furtherance I am clothed in steel; And spite of all the rapture of the sea, This jewel holds his building on my arm: Unto thy value I will mount myself Upon a courser, whose delightful steps Shall make the gazer joy to see him tread."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet, bid me hold my tongue, For in this rapture I shall surely speak The thing I shall repent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being carried away by overwhelming emotion; - charles dickens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of elated bliss.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your prattling nurse Into a rapture lets her baby cry While she chats him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your furtherance I am clothed in steel; And spite of all the rapture of the sea, This jewel holds his building on my arm: Unto thy value I will mount myself Upon a courser, whose delightful steps Shall make the gazer joy to see him tread."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet, bid me hold my tongue, For in this rapture I shall surely speak The thing I shall repent."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # scalage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimation of the amount of lumber in a log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of scaling in weight or quantity or dimension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalage designates estimation of the amount of lumber in a log."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimation of the amount of lumber in a log.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of scaling in weight or quantity or dimension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalage designates estimation of the amount of lumber in a log."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # socialize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take part in social activities; interact with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Train for a social environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just socializing." He motioned at the stool again."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The auction-sale is less a purely personal matter, takes on a more public aspect, has a more socialized character than isolated trade, depends more on forces outside the control of any one man, and results in a price fixed with greater definiteness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An enormous and increasing body of property is thus being year by year socialized, largely through bequests from persons without direct heirs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take part in social activities; interact with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Train for a social environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just socializing." He motioned at the stool again."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The auction-sale is less a purely personal matter, takes on a more public aspect, has a more socialized character than isolated trade, depends more on forces outside the control of any one man, and results in a price fixed with greater definiteness."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An enormous and increasing body of property is thus being year by year socialized, largely through bequests from persons without direct heirs."*

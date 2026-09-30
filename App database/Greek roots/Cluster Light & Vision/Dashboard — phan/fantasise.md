@@ -5,13 +5,6 @@ status: unread
 ---
 # fantasise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulge in fantasies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portray in the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantasise designates indulge in fantasies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulge in fantasies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portray in the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantasise designates indulge in fantasies."*

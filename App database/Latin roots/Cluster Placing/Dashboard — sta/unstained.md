@@ -5,15 +5,6 @@ status: unread
 ---
 # unstained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a coating of stain or varnish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I give you welcome with a powerless hand, But with a heart full of unstained love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that your youth, And the true blood which peeps fairly through ’t, Do plainly give you out an unstained shepherd, With wisdom I might fear, my Doricles, You woo’d me the false way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a coating of stain or varnish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I give you welcome with a powerless hand, But with a heart full of unstained love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that your youth, And the true blood which peeps fairly through ’t, Do plainly give you out an unstained shepherd, With wisdom I might fear, my Doricles, You woo’d me the false way."*

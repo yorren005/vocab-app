@@ -5,13 +5,6 @@ status: unread
 ---
 # ramachandra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hero in hindu mythology; an incarnation of vishnu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hero in hindu mythology; an incarnation of vishnu.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramachandra designates a hero in hindu mythology; an incarnation of vishnu."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hero in hindu mythology; an incarnation of vishnu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hero in hindu mythology; an incarnation of vishnu.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramachandra designates a hero in hindu mythology; an incarnation of vishnu."*

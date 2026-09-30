@@ -5,15 +5,6 @@ status: unread
 ---
 # noticeably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noticeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noticeable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Prosperously, but not noticeably otherwise; he thought, in black."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the beginning of dinner, the party being small and the room still, these motes from the mass of a magistrate’s mind fell too noticeably."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"For the first few days the illness took a normal course, and anxiety, though real, was not acute; but on the fourth day strength failed noticeably, and oxygen was ordered to help the clogged lungs to work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noticeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noticeable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Prosperously, but not noticeably otherwise; he thought, in black."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the beginning of dinner, the party being small and the room still, these motes from the mass of a magistrate’s mind fell too noticeably."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"For the first few days the illness took a normal course, and anxiety, though real, was not acute; but on the fourth day strength failed noticeably, and oxygen was ordered to help the clogged lungs to work."*

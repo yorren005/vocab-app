@@ -5,13 +5,6 @@ status: unread
 ---
 # pennywhistle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inexpensive fipple flute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inexpensive fipple flute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennywhistle designates an inexpensive fipple flute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inexpensive fipple flute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inexpensive fipple flute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennywhistle designates an inexpensive fipple flute."*

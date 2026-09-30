@@ -5,13 +5,6 @@ status: unread
 ---
 # deimos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer of two small satellites of mars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer of two small satellites of mars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deimos designates the outer of two small satellites of mars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer of two small satellites of mars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer of two small satellites of mars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deimos designates the outer of two small satellites of mars."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # methodology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of methods, rules, and ideas that are important in a science, art, or discipline : a particular procedure or set of procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science or the study of method; specifically : the analysis of the principles or procedures of inquiry in a particular field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Note: The technical design and operation of military man-carrying parachutes has advanced enormously since WW2 and the Korean War, as have parachute servicing, packing and maintenance methodologies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of methods, rules, and ideas that are important in a science, art, or discipline : a particular procedure or set of procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science or the study of method; specifically : the analysis of the principles or procedures of inquiry in a particular field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Note: The technical design and operation of military man-carrying parachutes has advanced enormously since WW2 and the Korean War, as have parachute servicing, packing and maintenance methodologies."*

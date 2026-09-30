@@ -5,15 +5,6 @@ status: unread
 ---
 # drily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dry laconic manner;  he said dryly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dry laconic manner;  he said dryly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are a prisoner, miss; it is no use blinking the matter,” said the soldier, drily."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was that because of love for her, or because other lips have touched there by now?” continued Izz drily to Marian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dry laconic manner;  he said dryly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dry laconic manner;  he said dryly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are a prisoner, miss; it is no use blinking the matter,” said the soldier, drily."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was that because of love for her, or because other lips have touched there by now?” continued Izz drily to Marian."*

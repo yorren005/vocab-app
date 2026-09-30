@@ -5,13 +5,6 @@ status: unread
 ---
 # mutamycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutamycin designates a complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutamycin designates a complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug."*

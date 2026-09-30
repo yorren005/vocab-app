@@ -5,15 +5,6 @@ status: unread
 ---
 # rodent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"There was a scurrying of tiny feet, a shrill squeal, and a rodent came from the darkness to nibble at the food."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Before long the state was overrun with little rodents, and many valuable crops were destroyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"There was a scurrying of tiny feet, a shrill squeal, and a rodent came from the darkness to nibble at the food."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"Before long the state was overrun with little rodents, and many valuable crops were destroyed."*

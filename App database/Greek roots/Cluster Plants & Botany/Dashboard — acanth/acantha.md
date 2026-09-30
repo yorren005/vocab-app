@@ -5,13 +5,6 @@ status: unread
 ---
 # acantha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any sharply pointed projection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sharply pointed projection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acantha designates any sharply pointed projection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any sharply pointed projection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sharply pointed projection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acantha designates any sharply pointed projection."*

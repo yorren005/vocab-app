@@ -5,14 +5,6 @@ status: unread
 ---
 # superman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with great powers and abilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street name for lysergic acid diethylamide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He has to be man to so many people that there is danger of his becoming a kind of superman."*
-> - 📜 **James Joyce (*Ulysses*):** *"Toothless Kinch, the superman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with great powers and abilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street name for lysergic acid diethylamide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He has to be man to so many people that there is danger of his becoming a kind of superman."*
+> - 📜 **James Joyce (*Ulysses*):** *"Toothless Kinch, the superman."*

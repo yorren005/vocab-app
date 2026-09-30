@@ -5,15 +5,6 @@ status: unread
 ---
 # abounding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be abundant or plentiful; exist in large quantities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in a state of movement or action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was bound to do more than we should expect, when he saw people whom he could help; and it is that spirit of abounding generosity that shows a man what to do (Luke 6:38)."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be abundant or plentiful; exist in large quantities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in a state of movement or action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was bound to do more than we should expect, when he saw people whom he could help; and it is that spirit of abounding generosity that shows a man what to do (Luke 6:38)."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*

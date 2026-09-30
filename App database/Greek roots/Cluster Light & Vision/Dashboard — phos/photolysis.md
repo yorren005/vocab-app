@@ -5,13 +5,6 @@ status: unread
 ---
 # photolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical decomposition by the action of radiant energy (such as light).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemical decomposition by the action of radiant energy (such as light).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolysis designates chemical decomposition by the action of radiant energy (such as light)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical decomposition by the action of radiant energy (such as light).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemical decomposition by the action of radiant energy (such as light).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolysis designates chemical decomposition by the action of radiant energy (such as light)."*

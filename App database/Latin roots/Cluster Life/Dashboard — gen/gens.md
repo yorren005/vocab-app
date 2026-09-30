@@ -5,15 +5,6 @@ status: unread
 ---
 # gens
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family based on male descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term for information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our sacks shall be a mean to sack the city, And we be lords and rulers over Rouen; Therefore we’ll knock. [_Knocks._] WATCH. [_Within_.] _Qui est la?_ PUCELLE. _Paysans, la pauvres gens de France:_ Poor market folks that come to sell their corn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but this; ’tis _bona terra, mala gens_."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Les gens du commun ne trouvent pas de différence entre les hommes_.” The typical and unvarying Hodge ceased to exist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family based on male descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term for information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our sacks shall be a mean to sack the city, And we be lords and rulers over Rouen; Therefore we’ll knock. [_Knocks._] WATCH. [_Within_.] _Qui est la?_ PUCELLE. _Paysans, la pauvres gens de France:_ Poor market folks that come to sell their corn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but this; ’tis _bona terra, mala gens_."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Les gens du commun ne trouvent pas de différence entre les hommes_.” The typical and unvarying Hodge ceased to exist."*

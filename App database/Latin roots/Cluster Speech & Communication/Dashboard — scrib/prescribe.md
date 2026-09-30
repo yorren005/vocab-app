@@ -5,15 +5,6 @@ status: unread
 ---
 # prescribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue commands or orders for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue commands or orders for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks you prescribe to yourself very preposterously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This we prescribe, though no physician; Deep malice makes too deep incision."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring me into your city, And I will use the olive with my sword, Make war breed peace, make peace stint war, make each Prescribe to other, as each other’s leech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue commands or orders for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue commands or orders for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks you prescribe to yourself very preposterously."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This we prescribe, though no physician; Deep malice makes too deep incision."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring me into your city, And I will use the olive with my sword, Make war breed peace, make peace stint war, make each Prescribe to other, as each other’s leech."*

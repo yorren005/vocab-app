@@ -5,15 +5,6 @@ status: unread
 ---
 # armory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the weapons and equipment that a country has.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Pigmies rummaging the armory of a giant, and contending for the possession of weapons which they could not wield."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In the armory, a Gothic hall furnished with weapons of various kinds and ages, I was shown a coat of armor hanging against the wall, which had once belonged to James."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her ward was one of the two in the armory itself, which for a considerable time contained more patients than any other in that hospital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the weapons and equipment that a country has.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Pigmies rummaging the armory of a giant, and contending for the possession of weapons which they could not wield."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In the armory, a Gothic hall furnished with weapons of various kinds and ages, I was shown a coat of armor hanging against the wall, which had once belonged to James."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her ward was one of the two in the armory itself, which for a considerable time contained more patients than any other in that hospital."*

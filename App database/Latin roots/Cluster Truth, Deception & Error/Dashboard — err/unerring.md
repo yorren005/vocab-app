@@ -5,15 +5,6 @@ status: unread
 ---
 # unerring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to error; -g.g.coulton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to error; -g.g.coulton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On similar unerring principles, Mr."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was a proof to me once again that heaven is true, that the good God loves and comprehends us all, to see how His wisdom, which is unerring, had chosen the best man in Semur."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For centuries I trod space, with the tip of my wand and with unerring eye and hand tapping each star I passed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to error; -g.g.coulton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to error; -g.g.coulton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On similar unerring principles, Mr."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was a proof to me once again that heaven is true, that the good God loves and comprehends us all, to see how His wisdom, which is unerring, had chosen the best man in Semur."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For centuries I trod space, with the tip of my wand and with unerring eye and hand tapping each star I passed."*

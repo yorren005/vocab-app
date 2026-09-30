@@ -5,13 +5,6 @@ status: unread
 ---
 # perianth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perianth designates the floral structure comprised of the calyx and corolla especially when the two whorls are fused."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perianth designates the floral structure comprised of the calyx and corolla especially when the two whorls are fused."*

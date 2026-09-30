@@ -5,15 +5,6 @@ status: unread
 ---
 # mythical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon aimed) that all the mythical systems or erratic mythical fragments in the world were corruptions of a tradition originally revealed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Having once mastered the true position and taken a firm footing there, the vast field of mythical constructions became intelligible, nay, luminous with the reflected light of correspondences."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some of them represent the fable of Cupid and Psyche, which is probably the romantic invention of a literary period, and cannot, I think, be reckoned as a genuine mythical product."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon aimed) that all the mythical systems or erratic mythical fragments in the world were corruptions of a tradition originally revealed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Having once mastered the true position and taken a firm footing there, the vast field of mythical constructions became intelligible, nay, luminous with the reflected light of correspondences."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Some of them represent the fable of Cupid and Psyche, which is probably the romantic invention of a literary period, and cannot, I think, be reckoned as a genuine mythical product."*

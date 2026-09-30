@@ -5,13 +5,6 @@ status: unread
 ---
 # gynecology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with the diseases and routine physical care of the reproductive system of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with the diseases and routine physical care of the reproductive system of women.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynecology designates a branch of medicine that deals with the diseases and routine physical care of the reproductive system of women."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with the diseases and routine physical care of the reproductive system of women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with the diseases and routine physical care of the reproductive system of women.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynecology designates a branch of medicine that deals with the diseases and routine physical care of the reproductive system of women."*

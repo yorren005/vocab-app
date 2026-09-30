@@ -5,15 +5,6 @@ status: unread
 ---
 # excited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beaten for loyalty Excited me to treason."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the mother went to Mäzli's bed that night to say prayers with her she found her still very much excited, as usual, by the happenings of the day."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He thought that the excited woman might forcibly enter the garden in order to seek the child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beaten for loyalty Excited me to treason."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the mother went to Mäzli's bed that night to say prayers with her she found her still very much excited, as usual, by the happenings of the day."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He thought that the excited woman might forcibly enter the garden in order to seek the child."*

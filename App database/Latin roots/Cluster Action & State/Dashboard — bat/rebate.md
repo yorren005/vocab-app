@@ -5,14 +5,6 @@ status: unread
 ---
 # rebate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A refund of some fraction of the amount paid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rectangular groove made to hold two pieces together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The result was first the Elkins' Act of 1903, aimed at discrimination and rebates, and then the Hepburn Act Of 1906, which marked a new era in railroad regulation in this country."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same allegation of inevitableness was once commonly made of discriminatory railroad rates and rebates, evils which have been in large part remedied only since the period 1903-1906, when at last intelligent action was taken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A refund of some fraction of the amount paid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rectangular groove made to hold two pieces together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The result was first the Elkins' Act of 1903, aimed at discrimination and rebates, and then the Hepburn Act Of 1906, which marked a new era in railroad regulation in this country."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same allegation of inevitableness was once commonly made of discriminatory railroad rates and rebates, evils which have been in large part remedied only since the period 1903-1906, when at last intelligent action was taken."*

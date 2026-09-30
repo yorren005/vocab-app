@@ -5,15 +5,6 @@ status: unread
 ---
 # severally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apart from others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste you again. [_Exeunt severally._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I’ll go seek the Duke; his banquet is prepared. [_Exeunt severally._] SCENE VI."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank thee. [_Exeunt severally._] SCENE V."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apart from others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste you again. [_Exeunt severally._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I’ll go seek the Duke; his banquet is prepared. [_Exeunt severally._] SCENE VI."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank thee. [_Exeunt severally._] SCENE V."*

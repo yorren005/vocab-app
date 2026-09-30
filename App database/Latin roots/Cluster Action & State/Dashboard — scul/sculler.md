@@ -5,13 +5,6 @@ status: unread
 ---
 # sculler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculler designates someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculler designates someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward)."*

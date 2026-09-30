@@ -5,13 +5,6 @@ status: unread
 ---
 # pervaporation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of a colloidal solution whose colloid will not pass through a semipermeable membrane; solution is placed in a bag of the membrane and the solvent is evaporated off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The concentration of a colloidal solution whose colloid will not pass through a semipermeable membrane; solution is placed in a bag of the membrane and the solvent is evaporated off.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pervaporation designates the concentration of a colloidal solution whose colloid will not pass through a semipermeable membrane; solution is placed in a bag of the membrane and the solvent is evaporated off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of a colloidal solution whose colloid will not pass through a semipermeable membrane; solution is placed in a bag of the membrane and the solvent is evaporated off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The concentration of a colloidal solution whose colloid will not pass through a semipermeable membrane; solution is placed in a bag of the membrane and the solvent is evaporated off.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pervaporation designates the concentration of a colloidal solution whose colloid will not pass through a semipermeable membrane; solution is placed in a bag of the membrane and the solvent is evaporated off."*

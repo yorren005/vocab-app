@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmacytoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neoplasm of plasma cells (usually in bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neoplasm of plasma cells (usually in bone marrow).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmacytoma designates neoplasm of plasma cells (usually in bone marrow)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Neoplasm of plasma cells (usually in bone marrow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neoplasm of plasma cells (usually in bone marrow).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmacytoma designates neoplasm of plasma cells (usually in bone marrow)."*

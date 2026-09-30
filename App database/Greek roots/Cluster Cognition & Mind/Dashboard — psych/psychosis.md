@@ -5,13 +5,6 @@ status: unread
 ---
 # psychosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosis designates a serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosis designates a serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # auricular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to near the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or perceived by or shaped like the organ of hearing; - george santayana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When she ceased, the auricular impressions from their previous endearments seemed to hustle away into the corner of their brains, repeating themselves as echoes from a time of supremely purblind foolishness."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"We often laughed at the strange stories relative to this man; but, from auricular and ocular demonstration, we could not avoid believing some of them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to near the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or perceived by or shaped like the organ of hearing; - george santayana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When she ceased, the auricular impressions from their previous endearments seemed to hustle away into the corner of their brains, repeating themselves as echoes from a time of supremely purblind foolishness."*
+> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"We often laughed at the strange stories relative to this man; but, from auricular and ocular demonstration, we could not avoid believing some of them."*

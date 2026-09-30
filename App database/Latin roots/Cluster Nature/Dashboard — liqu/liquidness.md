@@ -5,13 +5,6 @@ status: unread
 ---
 # liquidness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of flowing easily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidness designates the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of flowing easily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidness designates the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility."*

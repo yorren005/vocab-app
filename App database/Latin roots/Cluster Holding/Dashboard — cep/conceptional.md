@@ -5,13 +5,6 @@ status: unread
 ---
 # conceptional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of the nature of a notion or concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of the nature of a notion or concept.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptional designates being of the nature of a notion or concept."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of the nature of a notion or concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of the nature of a notion or concept.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptional designates being of the nature of a notion or concept."*

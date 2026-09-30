@@ -5,13 +5,6 @@ status: unread
 ---
 # extrusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeezing out by applying pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrusion designates something that bulges out or is protuberant or projects from its surroundings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeezing out by applying pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrusion designates something that bulges out or is protuberant or projects from its surroundings."*

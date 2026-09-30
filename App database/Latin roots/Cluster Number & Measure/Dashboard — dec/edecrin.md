@@ -5,13 +5,6 @@ status: unread
 ---
 # edecrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diuretic (trade name edecrin) used to treat edema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diuretic (trade name edecrin) used to treat edema.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edecrin designates diuretic (trade name edecrin) used to treat edema."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diuretic (trade name edecrin) used to treat edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diuretic (trade name edecrin) used to treat edema.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edecrin designates diuretic (trade name edecrin) used to treat edema."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # interrogatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal systematic questioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of an interrogation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"No one seemed to understand to whom the stately mistress addressed her brief interrogatory."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"That does not answer my interrogatory."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But, sir, this interrogatory of the honorable member was only introductory to another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal systematic questioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of an interrogation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"No one seemed to understand to whom the stately mistress addressed her brief interrogatory."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"That does not answer my interrogatory."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But, sir, this interrogatory of the honorable member was only introductory to another."*

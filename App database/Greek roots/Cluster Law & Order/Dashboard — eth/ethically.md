@@ -5,14 +5,6 @@ status: unread
 ---
 # ethically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ethical manner; from an ethical point of view; according to ethics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ethical manner; from an ethical point of view; according to ethics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only ethically worthless speculations that have always tried to minimize this distinction."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford's theories may be ethically beautiful, but I object to their being carried to extremes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ethical manner; from an ethical point of view; according to ethics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ethical manner; from an ethical point of view; according to ethics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only ethically worthless speculations that have always tried to minimize this distinction."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford's theories may be ethically beautiful, but I object to their being carried to extremes."*

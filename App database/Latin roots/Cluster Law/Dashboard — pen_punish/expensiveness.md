@@ -5,13 +5,6 @@ status: unread
 ---
 # expensiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being high-priced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being high-priced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Jeffery, that himself and his brother (both of whom were deemed simpletons), had been ordered to take ass’s milk, but that on account of its expensiveness, he hardly knew what they should do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being high-priced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being high-priced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Jeffery, that himself and his brother (both of whom were deemed simpletons), had been ordered to take ass’s milk, but that on account of its expensiveness, he hardly knew what they should do."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rigel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in orion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in orion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Rigel!" his mind called, and the thought went on."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Down there they were locked in battle--men and Lassans, his own people and the invaders from far-away Rigel."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you think that the Lassans of Rigel, the highest race in the universe will let go where they have once grasped?" "You will or we'll jolly well make you," replied the American."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in orion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in orion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Rigel!" his mind called, and the thought went on."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Down there they were locked in battle--men and Lassans, his own people and the invaders from far-away Rigel."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you think that the Lassans of Rigel, the highest race in the universe will let go where they have once grasped?" "You will or we'll jolly well make you," replied the American."*

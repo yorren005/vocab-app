@@ -5,13 +5,6 @@ status: unread
 ---
 # sumer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumer designates an area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumer designates an area in the southern region of babylonia in present-day iraq; site of the sumerian civilization of city-states that flowered during the third millennium bc."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # phytolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytolith designates a microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytolith designates a microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition."*

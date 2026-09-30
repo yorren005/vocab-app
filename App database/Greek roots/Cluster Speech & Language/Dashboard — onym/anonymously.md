@@ -5,14 +5,6 @@ status: unread
 ---
 # anonymously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without giving a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without giving a name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She has published several works anonymously--the first of which--"The Garland of Flora," was published in Boston in 1829."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Never mind the commoners, whom we will leave to grumble anonymously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without giving a name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without giving a name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She has published several works anonymously--the first of which--"The Garland of Flora," was published in Boston in 1829."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Never mind the commoners, whom we will leave to grumble anonymously."*

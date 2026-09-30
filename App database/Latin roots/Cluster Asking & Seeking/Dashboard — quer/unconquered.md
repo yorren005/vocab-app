@@ -5,15 +5,6 @@ status: unread
 ---
 # unconquered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conquered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conquered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wither, garden; and be henceforth a burying place to all that do dwell in this house, because the unconquered soul of Cade is fled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her breasts like ivory globes circled with blue, A pair of maiden worlds unconquered, Save of their lord no bearing yoke they knew, And him by oath they truly honoured."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Before them stretches a vista alluring in its as yet hazy outlines, entrancing in its magnitude, reaching to the far horizons of as yet unconquered territories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conquered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conquered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wither, garden; and be henceforth a burying place to all that do dwell in this house, because the unconquered soul of Cade is fled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her breasts like ivory globes circled with blue, A pair of maiden worlds unconquered, Save of their lord no bearing yoke they knew, And him by oath they truly honoured."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Before them stretches a vista alluring in its as yet hazy outlines, entrancing in its magnitude, reaching to the far horizons of as yet unconquered territories."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amyloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy translucent substance consisting primarily of protein that is deposited in some animal organs and tissues under abnormal conditions (such as Alzheimer's disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beta-amyloid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyloid designates a waxy translucent substance consisting primarily of protein that is deposited in some animal organs and tissues under abnormal conditions (such as alzheimer's disease)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy translucent substance consisting primarily of protein that is deposited in some animal organs and tissues under abnormal conditions (such as Alzheimer's disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beta-amyloid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyloid designates a waxy translucent substance consisting primarily of protein that is deposited in some animal organs and tissues under abnormal conditions (such as alzheimer's disease)."*

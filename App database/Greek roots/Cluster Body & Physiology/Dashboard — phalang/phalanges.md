@@ -5,13 +5,6 @@ status: unread
 ---
 # phalanges
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of heavily armed infantry in ancient Greece formed in close deep ranks and files; broadly : a body of troops in close array.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the digital bones of the hand or foot of a vertebrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalanges designates a body of heavily armed infantry in ancient greece formed in close deep ranks and files; broadly : a body of troops in close array."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of heavily armed infantry in ancient Greece formed in close deep ranks and files; broadly : a body of troops in close array.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the digital bones of the hand or foot of a vertebrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalanges designates a body of heavily armed infantry in ancient greece formed in close deep ranks and files; broadly : a body of troops in close array."*

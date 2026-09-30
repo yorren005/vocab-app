@@ -5,15 +5,6 @@ status: unread
 ---
 # botanical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug made from part of a plant (as the bark or root or leaves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants or botany.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being the professor’s sole companion in his botanical excursions, I almost forgot that I had ever been afloat, and became quite learned."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Italy, Switzerland, and many other districts, were explored, partly on foot, with a keen eye both to the natural features of the localities, especially in furtherance of those botanical studies to which Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill, there are probably few beyond the circle of his personal friends who are aware that he was also an author in a modest way on botanical subjects, and a keen searcher after wild plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug made from part of a plant (as the bark or root or leaves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants or botany.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Being the professor’s sole companion in his botanical excursions, I almost forgot that I had ever been afloat, and became quite learned."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Italy, Switzerland, and many other districts, were explored, partly on foot, with a keen eye both to the natural features of the localities, especially in furtherance of those botanical studies to which Mr."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill, there are probably few beyond the circle of his personal friends who are aware that he was also an author in a modest way on botanical subjects, and a keen searcher after wild plants."*

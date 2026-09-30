@@ -5,13 +5,6 @@ status: unread
 ---
 # microbalance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Balance for weighing very small objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Balance for weighing very small objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbalance designates balance for weighing very small objects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Balance for weighing very small objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Balance for weighing very small objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbalance designates balance for weighing very small objects."*

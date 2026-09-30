@@ -5,13 +5,6 @@ status: unread
 ---
 # phobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated fear of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobia designates an exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated fear of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobia designates an exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation."*

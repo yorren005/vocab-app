@@ -5,13 +5,6 @@ status: unread
 ---
 # mitra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu god of friendship and alliances; usually invoked together with varuna as a supporter of heaven and earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindu god of friendship and alliances; usually invoked together with varuna as a supporter of heaven and earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Mitra, likewise, was a good old Aryan god, ere he was filched from us or we discarded him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu god of friendship and alliances; usually invoked together with varuna as a supporter of heaven and earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindu god of friendship and alliances; usually invoked together with varuna as a supporter of heaven and earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Mitra, likewise, was a good old Aryan god, ere he was filched from us or we discarded him."*

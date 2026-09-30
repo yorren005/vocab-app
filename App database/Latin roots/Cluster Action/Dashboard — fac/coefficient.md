@@ -5,13 +5,6 @@ status: unread
 ---
 # coefficient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constant number that serves as a measure of some property or characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constant number that serves as a measure of some property or characteristic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coefficient designates a constant number that serves as a measure of some property or characteristic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constant number that serves as a measure of some property or characteristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constant number that serves as a measure of some property or characteristic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coefficient designates a constant number that serves as a measure of some property or characteristic."*

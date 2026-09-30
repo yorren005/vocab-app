@@ -5,13 +5,6 @@ status: unread
 ---
 # unitization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) the configuration of smaller units of information into large coordinated units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of packaging cargo into unit loads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitization designates (psychology) the configuration of smaller units of information into large coordinated units."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) the configuration of smaller units of information into large coordinated units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of packaging cargo into unit loads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitization designates (psychology) the configuration of smaller units of information into large coordinated units."*

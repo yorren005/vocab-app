@@ -5,13 +5,6 @@ status: unread
 ---
 # eroticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of anticipation of sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"This has ever been the fate of energy in security; it takes to art and to eroticism, and then come languor and decay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of anticipation of sexuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"This has ever been the fate of energy in security; it takes to art and to eroticism, and then come languor and decay."*

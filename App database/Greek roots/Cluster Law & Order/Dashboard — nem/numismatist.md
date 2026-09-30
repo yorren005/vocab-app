@@ -5,13 +5,6 @@ status: unread
 ---
 # numismatist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collector and student of money (and coins in particular).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collector and student of money (and coins in particular).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numismatist designates a collector and student of money (and coins in particular)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collector and student of money (and coins in particular).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collector and student of money (and coins in particular).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numismatist designates a collector and student of money (and coins in particular)."*

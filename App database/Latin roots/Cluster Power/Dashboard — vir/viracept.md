@@ -5,13 +5,6 @@ status: unread
 ---
 # viracept
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viracept designates a protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viracept designates a protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # venerableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of deserving veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of deserving veneration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A flowing robe of tappa, knotted over the shoulder, hung loosely round his stooping form, and heightened the venerableness of his aspect."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Such was her character and reputation, that the belief in her supernatural powers had only heightened the notion of her venerableness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of deserving veneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of deserving veneration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A flowing robe of tappa, knotted over the shoulder, hung loosely round his stooping form, and heightened the venerableness of his aspect."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Such was her character and reputation, that the belief in her supernatural powers had only heightened the notion of her venerableness."*

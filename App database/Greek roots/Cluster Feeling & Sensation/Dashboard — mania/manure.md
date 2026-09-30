@@ -5,15 +5,6 @@ status: unread
 ---
 # manure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal or plant material used to fertilize land especially animal excreta usually with litter material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread manure, as for fertilization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if you crown him, let me prophesy The blood of English shall manure the ground And future ages groan for this foul act."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now with that dam I could grow three crops a year, observing due rotation, and be able to turn under a wealth of green manure. . . ."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not valuing now the root whence it sprang; having found that it was of a sort which nothing but gold dust could manure, I have but half a liking to the blossom, especially when it looks so artificial as just now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal or plant material used to fertilize land especially animal excreta usually with litter material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread manure, as for fertilization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if you crown him, let me prophesy The blood of English shall manure the ground And future ages groan for this foul act."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now with that dam I could grow three crops a year, observing due rotation, and be able to turn under a wealth of green manure. . . ."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not valuing now the root whence it sprang; having found that it was of a sort which nothing but gold dust could manure, I have but half a liking to the blossom, especially when it looks so artificial as just now."*

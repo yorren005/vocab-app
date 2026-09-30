@@ -5,14 +5,6 @@ status: unread
 ---
 # paleozoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 544 million to about 230 million years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting the paleozoic era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our leader, Professor Paleozoic, ordinarily existed in a sort of transition state between the primary and tertiary formations."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 544 million to about 230 million years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting the paleozoic era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our leader, Professor Paleozoic, ordinarily existed in a sort of transition state between the primary and tertiary formations."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*

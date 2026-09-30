@@ -5,15 +5,6 @@ status: unread
 ---
 # prognostic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of something about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to prediction; having value for making predictions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If a man dreams he has lost all the buttons of his clothes, it is a sign he will not live long. =Cards.=--To dream that you are playing at cards is a sure prognostic that you will be in love, and speedily married."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"To dream you feed oxen is a good sign, but to see oxen go to water is a bad sign. =Old Man.=--For a woman to dream she is courted by an old man, is a sure prognostic that she will receive a sum of money and be successful in her undertakings."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"To dream of dead turkeys denotes that you will encounter trouble that you will soon surmount. =Tumbler.=--To dream you break a tumbler, is prognostic of secrets being discovered that have long remained a mystery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of something about to happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to prediction; having value for making predictions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If a man dreams he has lost all the buttons of his clothes, it is a sign he will not live long. =Cards.=--To dream that you are playing at cards is a sure prognostic that you will be in love, and speedily married."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"To dream you feed oxen is a good sign, but to see oxen go to water is a bad sign. =Old Man.=--For a woman to dream she is courted by an old man, is a sure prognostic that she will receive a sum of money and be successful in her undertakings."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"To dream of dead turkeys denotes that you will encounter trouble that you will soon surmount. =Tumbler.=--To dream you break a tumbler, is prognostic of secrets being discovered that have long remained a mystery."*

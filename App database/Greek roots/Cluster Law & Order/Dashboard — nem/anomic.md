@@ -5,13 +5,6 @@ status: unread
 ---
 # anomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially disoriented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially disoriented.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomic designates socially disoriented."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially disoriented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially disoriented.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomic designates socially disoriented."*

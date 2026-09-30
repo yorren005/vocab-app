@@ -5,13 +5,6 @@ status: unread
 ---
 # paternalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benevolent but sometimes intrusive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benevolent but sometimes intrusive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paternalistic designates benevolent but sometimes intrusive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Benevolent but sometimes intrusive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benevolent but sometimes intrusive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paternalistic designates benevolent but sometimes intrusive."*

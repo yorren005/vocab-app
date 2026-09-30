@@ -5,13 +5,6 @@ status: unread
 ---
 # antineoplastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several drugs that control or kill neoplastic cells; used in chemotherapy to kill cancer cells; all have unpleasant side effects that may include nausea and vomiting and hair loss and suppression of bone marrow function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in the treatment of cancer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antineoplastic designates any of several drugs that control or kill neoplastic cells; used in chemotherapy to kill cancer cells; all have unpleasant side effects that may include nausea and vomiting and hair loss and suppression of bone marrow function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several drugs that control or kill neoplastic cells; used in chemotherapy to kill cancer cells; all have unpleasant side effects that may include nausea and vomiting and hair loss and suppression of bone marrow function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in the treatment of cancer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antineoplastic designates any of several drugs that control or kill neoplastic cells; used in chemotherapy to kill cancer cells; all have unpleasant side effects that may include nausea and vomiting and hair loss and suppression of bone marrow function."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eviscerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgically remove a part of a structure or an organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the contents of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eviscerate designates surgically remove a part of a structure or an organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgically remove a part of a structure or an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the contents of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eviscerate designates surgically remove a part of a structure or an organ."*

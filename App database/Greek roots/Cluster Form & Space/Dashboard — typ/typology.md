@@ -5,13 +5,6 @@ status: unread
 ---
 # typology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of or analysis or classification based on types or categories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine of theological types; especially : one holding that things in Christian belief are prefigured or symbolized by things in the Old Testament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typology designates study of or analysis or classification based on types or categories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of or analysis or classification based on types or categories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine of theological types; especially : one holding that things in Christian belief are prefigured or symbolized by things in the Old Testament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typology designates study of or analysis or classification based on types or categories."*

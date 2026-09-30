@@ -5,13 +5,6 @@ status: unread
 ---
 # mandelamine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelamine designates antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelamine designates antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections."*

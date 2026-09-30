@@ -5,13 +5,6 @@ status: unread
 ---
 # abscissa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The value of a coordinate on the horizontal axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The value of a coordinate on the horizontal axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abscissa designates the value of a coordinate on the horizontal axis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The value of a coordinate on the horizontal axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The value of a coordinate on the horizontal axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abscissa designates the value of a coordinate on the horizontal axis."*

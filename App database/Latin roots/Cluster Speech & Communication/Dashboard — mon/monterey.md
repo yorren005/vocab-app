@@ -5,13 +5,6 @@ status: unread
 ---
 # monterey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in western california to the south of san francisco on a peninsula at the southern end of monterey bay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in western california to the south of san francisco on a peninsula at the southern end of monterey bay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"And young Raynor—you knew Raynor at Monterey—tells me that the men all like him, and that he is treated with something like deference everywhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in western california to the south of san francisco on a peninsula at the southern end of monterey bay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in western california to the south of san francisco on a peninsula at the southern end of monterey bay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"And young Raynor—you knew Raynor at Monterey—tells me that the men all like him, and that he is treated with something like deference everywhere."*

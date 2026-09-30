@@ -5,15 +5,6 @@ status: unread
 ---
 # ultimatum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A final peremptory demand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A final peremptory demand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dynamite or curtains had been Warden Atherton’s ultimatum."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The time came when I humbled Warden Atherton to unconditional surrender, making a vain and empty mouthing of his ultimatum, “Dynamite or curtains.” He gave me up as one who could not be killed in a strait-jacket."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They will be the main bargaining chip when I give my ultimatum to Camari." Brad nodded, his features closed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A final peremptory demand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A final peremptory demand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dynamite or curtains had been Warden Atherton’s ultimatum."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The time came when I humbled Warden Atherton to unconditional surrender, making a vain and empty mouthing of his ultimatum, “Dynamite or curtains.” He gave me up as one who could not be killed in a strait-jacket."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They will be the main bargaining chip when I give my ultimatum to Camari." Brad nodded, his features closed."*

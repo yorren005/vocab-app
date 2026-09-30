@@ -5,13 +5,6 @@ status: unread
 ---
 # dactyly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, dactyly is the arrangement of digits on the hands, feet, or sometimes wings of a tetrapod animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The term is derived from the Ancient Greek word δάκτυλος (dáktulos), meaning "finger.".
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactyly designates in biology, dactyly is the arrangement of digits on the hands, feet, or sometimes wings of a tetrapod animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, dactyly is the arrangement of digits on the hands, feet, or sometimes wings of a tetrapod animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The term is derived from the Ancient Greek word δάκτυλος (dáktulos), meaning "finger.".
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactyly designates in biology, dactyly is the arrangement of digits on the hands, feet, or sometimes wings of a tetrapod animal."*

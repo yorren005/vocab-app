@@ -5,13 +5,6 @@ status: unread
 ---
 # haemostasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemostasis designates surgical procedure of stopping the flow of blood (as with a hemostat)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemostasis designates surgical procedure of stopping the flow of blood (as with a hemostat)."*

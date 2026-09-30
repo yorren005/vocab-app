@@ -5,15 +5,6 @@ status: unread
 ---
 # circumstances
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your overall circumstances or condition in life (including everything that happens to you).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person's financial situation (good or bad).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my circumstances, Being so near the truth as I will make them, Must first induce you to believe; whose strength I will confirm with oath; which I doubt not You’ll give me leave to spare when you shall find You need it not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this from this, if this be otherwise. [_Points to his head and shoulder._] If circumstances lead me, I will find Where truth is hid, though it were hid indeed Within the centre."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe, Induced by potent circumstances, that You are mine enemy, and make my challenge You shall not be my judge; for it is you Have blown this coal betwixt my lord and me, Which God’s dew quench!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Your overall circumstances or condition in life (including everything that happens to you).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person's financial situation (good or bad).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my circumstances, Being so near the truth as I will make them, Must first induce you to believe; whose strength I will confirm with oath; which I doubt not You’ll give me leave to spare when you shall find You need it not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this from this, if this be otherwise. [_Points to his head and shoulder._] If circumstances lead me, I will find Where truth is hid, though it were hid indeed Within the centre."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe, Induced by potent circumstances, that You are mine enemy, and make my challenge You shall not be my judge; for it is you Have blown this coal betwixt my lord and me, Which God’s dew quench!"*

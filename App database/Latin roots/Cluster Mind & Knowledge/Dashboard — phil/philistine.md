@@ -5,15 +5,6 @@ status: unread
 ---
 # philistine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is uninterested in intellectual pursuits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an aegean people who settled ancient philistia around the 12th century bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s entirely new view of the Philistine god Dagon and other fish-deities, thinking that hereafter she should see this subject which touched him so nearly from the same high ground whence doubtless it had become so important to him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A philosopher fallen to betting is hardly distinguishable from a Philistine under the same circumstances: the difference will chiefly be found in his subsequent reflections, and Lydgate chewed a very disagreeable cud in that way."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is what I call the depth of generosity.” “Oh, Basil is the best of fellows, but he seems to me to be just a bit of a Philistine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is uninterested in intellectual pursuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an aegean people who settled ancient philistia around the 12th century bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s entirely new view of the Philistine god Dagon and other fish-deities, thinking that hereafter she should see this subject which touched him so nearly from the same high ground whence doubtless it had become so important to him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A philosopher fallen to betting is hardly distinguishable from a Philistine under the same circumstances: the difference will chiefly be found in his subsequent reflections, and Lydgate chewed a very disagreeable cud in that way."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is what I call the depth of generosity.” “Oh, Basil is the best of fellows, but he seems to me to be just a bit of a Philistine."*

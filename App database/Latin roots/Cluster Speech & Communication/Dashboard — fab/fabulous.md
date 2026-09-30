@@ -5,15 +5,6 @@ status: unread
 ---
 # fabulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see report is fabulous and false."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these suns— For so they phrase ’em—by their heralds challenged The noble spirits to arms, they did perform Beyond thought’s compass, that former fabulous story, Being now seen possible enough, got credit, That Bevis was believed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s seat and guarded by his spindle legs is a drawer in his chair, reported to contain property to a fabulous amount."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see report is fabulous and false."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these suns— For so they phrase ’em—by their heralds challenged The noble spirits to arms, they did perform Beyond thought’s compass, that former fabulous story, Being now seen possible enough, got credit, That Bevis was believed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s seat and guarded by his spindle legs is a drawer in his chair, reported to contain property to a fabulous amount."*

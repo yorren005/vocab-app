@@ -5,15 +5,6 @@ status: unread
 ---
 # judging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of reaching a decision or drawing conclusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the result of (a competition).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To your Highness’ hand I tender my commission, by whose virtue, The court of Rome commanding, you, my Lord Cardinal of York, are joined with me their servant In the unpartial judging of this business."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well, sir, it was before your time, most likely, judging from your appearance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I had taken note of any particular objects in my perturbed state of mind, but judging from the general character of the streets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of reaching a decision or drawing conclusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the result of (a competition).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To your Highness’ hand I tender my commission, by whose virtue, The court of Rome commanding, you, my Lord Cardinal of York, are joined with me their servant In the unpartial judging of this business."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Well, sir, it was before your time, most likely, judging from your appearance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I had taken note of any particular objects in my perturbed state of mind, but judging from the general character of the streets."*

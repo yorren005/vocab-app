@@ -5,15 +5,6 @@ status: unread
 ---
 # exceptional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Far beyond what is usual in magnitude or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing what is common or usual or expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “let me, even under the present exceptional circumstances, recommend strict punctuality."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Women will talk, and Volumnia, though a Dedlock, is no exceptional case."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like exceptional emphasis in the tone of a genius, that which would have made mediocrity ridiculous was an addition to recognised power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Far beyond what is usual in magnitude or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing what is common or usual or expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “let me, even under the present exceptional circumstances, recommend strict punctuality."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Women will talk, and Volumnia, though a Dedlock, is no exceptional case."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like exceptional emphasis in the tone of a genius, that which would have made mediocrity ridiculous was an addition to recognised power."*

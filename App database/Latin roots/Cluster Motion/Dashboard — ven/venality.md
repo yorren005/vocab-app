@@ -5,13 +5,6 @@ status: unread
 ---
 # venality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prostitution of talents or offices or services for reward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prostitution of talents or offices or services for reward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This peculiar felicity of situation has, in a great degree, contributed to preserve the liberty which that country to this day enjoys, in spite of the prevalent venality and corruption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prostitution of talents or offices or services for reward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prostitution of talents or offices or services for reward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This peculiar felicity of situation has, in a great degree, contributed to preserve the liberty which that country to this day enjoys, in spite of the prevalent venality and corruption."*

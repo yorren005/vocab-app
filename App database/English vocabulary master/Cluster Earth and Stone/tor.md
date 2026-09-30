@@ -5,20 +5,6 @@ status: unread
 ---
 # tor
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: High craggy hill
-> 2. **Nuance / Usage**: (south-west england) a hill with such rock formation
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the tor withstood the storm*), direct object (*cleaved the tor*), or prepositional anchor (*amidst the tor*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"croaked loudly from a tor behind us."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Out by the Cleft Tor, I think."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Do you see that Black Tor over yonder?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: High craggy hill
+> 2. **Nuance / Usage**: (south-west england) a hill with such rock formation
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the tor withstood the storm*), direct object (*cleaved the tor*), or prepositional anchor (*amidst the tor*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"croaked loudly from a tor behind us."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Out by the Cleft Tor, I think."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Do you see that Black Tor over yonder?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # asparagine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline amino acid found in proteins and in many plants (e.g., asparagus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline amino acid found in proteins and in many plants (e.g., asparagus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asparagine designates a crystalline amino acid found in proteins and in many plants (e.g., asparagus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline amino acid found in proteins and in many plants (e.g., asparagus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline amino acid found in proteins and in many plants (e.g., asparagus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asparagine designates a crystalline amino acid found in proteins and in many plants (e.g., asparagus)."*

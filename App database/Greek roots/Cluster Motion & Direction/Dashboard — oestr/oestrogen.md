@@ -5,13 +5,6 @@ status: unread
 ---
 # oestrogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestrogen designates a general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestrogen designates a general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics."*

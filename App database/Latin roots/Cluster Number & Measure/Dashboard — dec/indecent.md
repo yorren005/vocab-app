@@ -5,15 +5,6 @@ status: unread
 ---
 # indecent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in keeping with accepted standards of what is right or proper in polite society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to good taste especially in sexual matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be the officiating clergyman, about whom it would be indecent to make remarks."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Their inspiration is to be found almost exclusively in Heine's love-affairs, decent and indecent."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Pleyel loaded me with indecent and virulent invectives, but he withheld from me the facts that generated his suspicions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in keeping with accepted standards of what is right or proper in polite society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to good taste especially in sexual matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be the officiating clergyman, about whom it would be indecent to make remarks."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Their inspiration is to be found almost exclusively in Heine's love-affairs, decent and indecent."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Pleyel loaded me with indecent and virulent invectives, but he withheld from me the facts that generated his suspicions."*

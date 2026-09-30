@@ -5,13 +5,6 @@ status: unread
 ---
 # castro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castro designates cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castro designates cuban socialist leader who overthrew a dictator in 1959 and established a marxist socialist state in cuba (born in 1927)."*

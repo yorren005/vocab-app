@@ -5,13 +5,6 @@ status: unread
 ---
 # rigamarole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of confused and meaningless statements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and complicated and confusing procedure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I left the paper out yonder in my buggy, but I'll go get it." "That rigamarole is all beyond me, Nannie."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of confused and meaningless statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and complicated and confusing procedure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I left the paper out yonder in my buggy, but I'll go get it." "That rigamarole is all beyond me, Nannie."*

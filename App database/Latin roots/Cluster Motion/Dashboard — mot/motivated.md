@@ -5,13 +5,6 @@ status: unread
 ---
 # motivated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an incentive for action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with a motive or given incentive for action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivated designates give an incentive for action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an incentive for action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with a motive or given incentive for action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivated designates give an incentive for action."*

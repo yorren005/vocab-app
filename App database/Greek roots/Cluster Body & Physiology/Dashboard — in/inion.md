@@ -5,13 +5,6 @@ status: unread
 ---
 # inion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The external occipital protuberance of the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external occipital protuberance of the skull.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inion designates the external occipital protuberance of the skull."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The external occipital protuberance of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external occipital protuberance of the skull.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inion designates the external occipital protuberance of the skull."*

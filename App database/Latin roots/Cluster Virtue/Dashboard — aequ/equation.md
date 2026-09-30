@@ -5,15 +5,6 @@ status: unread
 ---
 # equation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical statement that two expressions are equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being essentially equal or equivalent; equally balanced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Material causes and emotional effects are not to be arranged in regular equation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was but a question of vanity throughout; and if that were admitted into one side of the equation it should be admitted into the other."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Equation of international exchange. §7."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical statement that two expressions are equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being essentially equal or equivalent; equally balanced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Material causes and emotional effects are not to be arranged in regular equation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was but a question of vanity throughout; and if that were admitted into one side of the equation it should be admitted into the other."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Equation of international exchange. §7."*

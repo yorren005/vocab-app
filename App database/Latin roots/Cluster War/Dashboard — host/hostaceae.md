@@ -5,13 +5,6 @@ status: unread
 ---
 # hostaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hostaceae designates one of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hostaceae designates one of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hosta."*

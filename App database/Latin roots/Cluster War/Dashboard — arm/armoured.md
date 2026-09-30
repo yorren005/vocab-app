@@ -5,15 +5,6 @@ status: unread
 ---
 # armoured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of animals; provided with protective covering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I love to think of fighting him, or telling him that I am not afraid." "Oh, yes, I am sure you would run away if the armoured knight with his wild eyes should come nearer," said Mea."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In one corner there is an armoured knight with a black-plumed helmet on his head."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo lifted the armoured knight to his shoulders, and had the long, blue cloak draped around him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of animals; provided with protective covering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I love to think of fighting him, or telling him that I am not afraid." "Oh, yes, I am sure you would run away if the armoured knight with his wild eyes should come nearer," said Mea."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In one corner there is an armoured knight with a black-plumed helmet on his head."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo lifted the armoured knight to his shoulders, and had the long, blue cloak draped around him."*

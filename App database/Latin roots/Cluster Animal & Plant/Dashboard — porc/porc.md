@@ -5,13 +5,6 @@ status: unread
 ---
 # porc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a domestic hog or pig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a domestic hog or pig.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porc designates meat from a domestic hog or pig."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a domestic hog or pig.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a domestic hog or pig.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porc designates meat from a domestic hog or pig."*

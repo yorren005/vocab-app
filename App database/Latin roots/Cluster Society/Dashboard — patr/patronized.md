@@ -5,15 +5,6 @@ status: unread
 ---
 # patronized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He dresses at that gentleman (by whom he is patronized), talks at him, walks at him, founds himself entirely on him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A few permanent erections dotted the spot, but the majority of visitors patronized canvas alone for resting and feeding under during the time of their sojourn here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He dresses at that gentleman (by whom he is patronized), talks at him, walks at him, founds himself entirely on him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A few permanent erections dotted the spot, but the majority of visitors patronized canvas alone for resting and feeding under during the time of their sojourn here."*

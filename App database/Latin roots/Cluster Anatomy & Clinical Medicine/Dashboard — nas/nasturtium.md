@@ -5,15 +5,6 @@ status: unread
 ---
 # nasturtium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical american plant of the genus tropaeolum having pungent juice and long-spurred yellow to red flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic herbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"NASTURTIUM UREDO: hypogenous; spots pale-yellow; sori minute, roundish, scattered or confluent; sporidia ovoid or subglobose, orange.—On leaves of _Tropæolum aduncum_."*
-> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Then she carried Big Mary out to the gray rock in the back yard where the nasturtiums grow, to sit in the fresh air all day long."*
-> - 📜 **James Joyce (*Ulysses*):** *"Don’t cast your nasturtiums on my character. —Whatever statement you make, says Joe, will be taken down in evidence against you. —Of course an action would lie, says J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical american plant of the genus tropaeolum having pungent juice and long-spurred yellow to red flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic herbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"NASTURTIUM UREDO: hypogenous; spots pale-yellow; sori minute, roundish, scattered or confluent; sporidia ovoid or subglobose, orange.—On leaves of _Tropæolum aduncum_."*
+> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Then she carried Big Mary out to the gray rock in the back yard where the nasturtiums grow, to sit in the fresh air all day long."*
+> - 📜 **James Joyce (*Ulysses*):** *"Don’t cast your nasturtiums on my character. —Whatever statement you make, says Joe, will be taken down in evidence against you. —Of course an action would lie, says J."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # domicile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Housing that someone is living in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shutters were not closed, nor was any blind or curtain drawn over the window, neither robbery nor observation being a contingency which could do much injury to the occupant of the domicile."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One evening Tess and Clare were obliged to sit indoors keeping house, all the other occupants of the domicile being away."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover, when two people are once parted—have abandoned a common domicile and a common environment—new growths insensibly bud upward to fill each vacated place; unforeseen accidents hinder intentions, and old plans are forgotten."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Housing that someone is living in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shutters were not closed, nor was any blind or curtain drawn over the window, neither robbery nor observation being a contingency which could do much injury to the occupant of the domicile."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One evening Tess and Clare were obliged to sit indoors keeping house, all the other occupants of the domicile being away."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover, when two people are once parted—have abandoned a common domicile and a common environment—new growths insensibly bud upward to fill each vacated place; unforeseen accidents hinder intentions, and old plans are forgotten."*

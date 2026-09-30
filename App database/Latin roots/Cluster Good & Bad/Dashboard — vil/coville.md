@@ -5,13 +5,6 @@ status: unread
 ---
 # coville
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coville designates desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coville designates desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # excelsior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin curly wood shavings used for packing or stuffing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin curly wood shavings used for packing or stuffing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excelsior designates thin curly wood shavings used for packing or stuffing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin curly wood shavings used for packing or stuffing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin curly wood shavings used for packing or stuffing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excelsior designates thin curly wood shavings used for packing or stuffing."*

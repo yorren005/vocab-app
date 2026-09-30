@@ -5,13 +5,6 @@ status: unread
 ---
 # aplacophora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of amphineura.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of amphineura.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Aplacophora designates an order of amphineura."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of amphineura.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of amphineura.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Aplacophora designates an order of amphineura."*

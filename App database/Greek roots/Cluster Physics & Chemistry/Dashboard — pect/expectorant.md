@@ -5,13 +5,6 @@ status: unread
 ---
 # expectorant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine promoting expectoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine promoting expectoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expectorant designates a medicine promoting expectoration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine promoting expectoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine promoting expectoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expectorant designates a medicine promoting expectoration."*

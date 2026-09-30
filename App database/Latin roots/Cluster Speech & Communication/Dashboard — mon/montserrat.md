@@ -5,13 +5,6 @@ status: unread
 ---
 # montserrat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island in the caribbean; in the west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volcanic island in the caribbean; in the west indies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montserrat designates a volcanic island in the caribbean; in the west indies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island in the caribbean; in the west indies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volcanic island in the caribbean; in the west indies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montserrat designates a volcanic island in the caribbean; in the west indies."*

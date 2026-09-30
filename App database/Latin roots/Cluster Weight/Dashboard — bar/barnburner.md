@@ -5,13 +5,6 @@ status: unread
 ---
 # barnburner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who burns down a barn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impressively successful event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barnburner designates someone who burns down a barn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who burns down a barn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impressively successful event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barnburner designates someone who burns down a barn."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # occitan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval dialects of langue d'oc (southern france).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medieval dialects of langue d'oc (southern france).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, occitan designates the medieval dialects of langue d'oc (southern france)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval dialects of langue d'oc (southern france).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medieval dialects of langue d'oc (southern france).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, occitan designates the medieval dialects of langue d'oc (southern france)."*

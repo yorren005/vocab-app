@@ -5,15 +5,6 @@ status: unread
 ---
 # contracted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a contractual arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage by written agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector, so it please your grace, Here are the articles of contracted peace Between our sovereign and the French king Charles, For eighteen months concluded by consent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was contracted to them both, all three Now marry in an instant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, wast thou e’er contracted to this woman?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a contractual arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage by written agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector, so it please your grace, Here are the articles of contracted peace Between our sovereign and the French king Charles, For eighteen months concluded by consent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was contracted to them both, all three Now marry in an instant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, wast thou e’er contracted to this woman?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gravestone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone that is used to mark a grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone that is used to mark a grave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lie where the light foam of the sea may beat Thy gravestone daily."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come not to me again, but say to Athens Timon hath made his everlasting mansion Upon the beached verge of the salt flood, Who once a day with his embossed froth The turbulent surge shall cover; thither come, And let my gravestone be your oracle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble general, Timon is dead, Entombed upon the very hem o’ th’ sea, And on his gravestone this insculpture, which With wax I brought away, whose soft impression Interprets for my poor ignorance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone that is used to mark a grave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone that is used to mark a grave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lie where the light foam of the sea may beat Thy gravestone daily."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come not to me again, but say to Athens Timon hath made his everlasting mansion Upon the beached verge of the salt flood, Who once a day with his embossed froth The turbulent surge shall cover; thither come, And let my gravestone be your oracle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble general, Timon is dead, Entombed upon the very hem o’ th’ sea, And on his gravestone this insculpture, which With wax I brought away, whose soft impression Interprets for my poor ignorance."*

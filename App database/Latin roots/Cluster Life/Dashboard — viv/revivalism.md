@@ -5,13 +5,6 @@ status: unread
 ---
 # revivalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attempt to reawaken the evangelical faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attempt to reawaken the evangelical faith.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"But the average minister is not distinguished for revivalism so much as proficiency in making a church social a "blooming success." FALLEN SAMSONS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attempt to reawaken the evangelical faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attempt to reawaken the evangelical faith.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"But the average minister is not distinguished for revivalism so much as proficiency in making a church social a "blooming success." FALLEN SAMSONS."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # carpeted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a carpet-like cover (over).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely, as if with a carpet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling puts up his legs on the carpeted seat (having his own side of the box to himself), leans against the wall, and says, “I am grown up now, Guppy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Tess had accomplished this feat she found herself to be standing on a carpeted level, which stretched to the east and west as far as the eye could reach."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not a herb which carpeted the ground, not a branch which clothed the trees, was either broken or bent, nor did they extend horizontally; all stretched up to the surface of the ocean."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a carpet-like cover (over).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely, as if with a carpet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling puts up his legs on the carpeted seat (having his own side of the box to himself), leans against the wall, and says, “I am grown up now, Guppy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Tess had accomplished this feat she found herself to be standing on a carpeted level, which stretched to the east and west as far as the eye could reach."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not a herb which carpeted the ground, not a branch which clothed the trees, was either broken or bent, nor did they extend horizontally; all stretched up to the surface of the ocean."*

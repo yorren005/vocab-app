@@ -5,15 +5,6 @@ status: unread
 ---
 # miner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laborer who works in a mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laborer who works in a mine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a dyer’s helper in Pyonhan, a gold-miner in the placers of Kang-wun, a rope-maker and twine-twister in Chiksan."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The subterranean miner that works in us all, how can one tell whither leads his shaft by the ever shifting, muffled sound of his pick?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The next day, March 26th, I resumed my miner’s work in beginning the fifth yard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Laborer who works in a mine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laborer who works in a mine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a dyer’s helper in Pyonhan, a gold-miner in the placers of Kang-wun, a rope-maker and twine-twister in Chiksan."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The subterranean miner that works in us all, how can one tell whither leads his shaft by the ever shifting, muffled sound of his pick?"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The next day, March 26th, I resumed my miner’s work in beginning the fifth yard."*

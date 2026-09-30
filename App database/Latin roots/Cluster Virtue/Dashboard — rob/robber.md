@@ -5,15 +5,6 @@ status: unread
 ---
 # robber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thief who steals from someone by threatening violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thief who steals from someone by threatening violence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art a robber, A law-breaker, a villain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your host: With robber’s hands my hospitable favours You should not ruffle thus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Injurious time now with a robber’s haste Crams his rich thiev’ry up, he knows not how."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thief who steals from someone by threatening violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thief who steals from someone by threatening violence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art a robber, A law-breaker, a villain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your host: With robber’s hands my hospitable favours You should not ruffle thus."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Injurious time now with a robber’s haste Crams his rich thiev’ry up, he knows not how."*

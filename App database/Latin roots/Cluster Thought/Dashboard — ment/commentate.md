@@ -5,13 +5,6 @@ status: unread
 ---
 # commentate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a commentary on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve as a commentator, as in sportscasting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commentate designates make a commentary on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a commentary on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve as a commentator, as in sportscasting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commentate designates make a commentary on."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # curtained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with drapery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnished or concealed with curtains or draperies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The pensive character which the curtained hood lent to their bent heads would have reminded the observer of some early Italian conception of the two Marys."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A pale distress was already on Tess’s face, and she pulled her curtained hood further over it."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In a little nook, curtained off from the great ward, lay a sick man upon his bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with drapery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnished or concealed with curtains or draperies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The pensive character which the curtained hood lent to their bent heads would have reminded the observer of some early Italian conception of the two Marys."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A pale distress was already on Tess’s face, and she pulled her curtained hood further over it."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In a little nook, curtained off from the great ward, lay a sick man upon his bed."*

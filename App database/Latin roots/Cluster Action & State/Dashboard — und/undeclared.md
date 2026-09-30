@@ -5,13 +5,6 @@ status: unread
 ---
 # undeclared
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not announced or openly acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not announced or openly acknowledged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s Middlemarch projects, revealed clearly enough that the undeclared motive had relation to Dorothea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not announced or openly acknowledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not announced or openly acknowledged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s Middlemarch projects, revealed clearly enough that the undeclared motive had relation to Dorothea."*

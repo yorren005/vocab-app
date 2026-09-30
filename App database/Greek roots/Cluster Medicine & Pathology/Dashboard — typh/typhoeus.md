@@ -5,13 +5,6 @@ status: unread
 ---
 # typhoeus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhoeus designates (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhoeus designates (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire."*

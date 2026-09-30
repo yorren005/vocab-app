@@ -5,13 +5,6 @@ status: unread
 ---
 # imperfectness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or an instance of being imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or an instance of being imperfect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfectness designates the state or an instance of being imperfect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or an instance of being imperfect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or an instance of being imperfect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfectness designates the state or an instance of being imperfect."*

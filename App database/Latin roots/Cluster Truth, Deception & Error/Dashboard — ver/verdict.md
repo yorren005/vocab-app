@@ -5,15 +5,6 @@ status: unread
 ---
 # verdict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then for the truth and plainness of the case, I pluck this pale and maiden blossom here, Giving my verdict on the white rose side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PLANTAGENET. [_Aside_.] Plantagenet, I see, must hold his tongue, Lest it be said, “Speak, sirrah, when you should; Must your bold verdict enter talk with lords?” Else would I have a fling at Winchester."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then for the truth and plainness of the case, I pluck this pale and maiden blossom here, Giving my verdict on the white rose side."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PLANTAGENET. [_Aside_.] Plantagenet, I see, must hold his tongue, Lest it be said, “Speak, sirrah, when you should; Must your bold verdict enter talk with lords?” Else would I have a fling at Winchester."*

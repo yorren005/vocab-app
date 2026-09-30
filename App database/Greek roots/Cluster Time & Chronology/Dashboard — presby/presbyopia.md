@@ -5,13 +5,6 @@ status: unread
 ---
 # presbyopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presbyopia designates a reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presbyopia designates a reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # transparently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be easily understood or seen through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to allow the passage of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, bless my soul, Lady Dedlock, transparently so!” “If, sir,” she begins, “in my knowledge of my secret—” But he interrupts her."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Not only are the personages too transparently allegorical, but the allegory is insipid; especially tactless is the treatment of the marriage between Prometheus, the Spirit of Humanity, and Asia, the Spirit of Nature, as a romantic love affair."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That evening, proud of Dólokhov’s proposal, her refusal, and her explanation with Nicholas, Sónya twirled about before she left home so that the maid could hardly get her hair plaited, and she was transparently radiant with impulsive joy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be easily understood or seen through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to allow the passage of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why, bless my soul, Lady Dedlock, transparently so!” “If, sir,” she begins, “in my knowledge of my secret—” But he interrupts her."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Not only are the personages too transparently allegorical, but the allegory is insipid; especially tactless is the treatment of the marriage between Prometheus, the Spirit of Humanity, and Asia, the Spirit of Nature, as a romantic love affair."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That evening, proud of Dólokhov’s proposal, her refusal, and her explanation with Nicholas, Sónya twirled about before she left home so that the maid could hardly get her hair plaited, and she was transparently radiant with impulsive joy."*

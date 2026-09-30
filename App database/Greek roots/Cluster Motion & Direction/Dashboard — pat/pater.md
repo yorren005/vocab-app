@@ -5,15 +5,6 @@ status: unread
 ---
 # pater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paternoster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paternoster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kneeling reverently at the hearth with the members of his family in a like attitude of devotion, the old man recited three _Pater Nosters_ and three _Aves_, and invoked the blessing of heaven on the log and on the cottage."*
-> - 📜 **James Joyce (*Ulysses*):** *"Icarus. _Pater, ait._ Seabedabbled, fallen, weltering."*
-> - 📜 **James Joyce (*Ulysses*):** *"Jay, look at the drunken minister coming out of the maternity hospal! _Benedicat vos omnipotens Deus, Pater et Filius_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paternoster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paternoster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kneeling reverently at the hearth with the members of his family in a like attitude of devotion, the old man recited three _Pater Nosters_ and three _Aves_, and invoked the blessing of heaven on the log and on the cottage."*
+> - 📜 **James Joyce (*Ulysses*):** *"Icarus. _Pater, ait._ Seabedabbled, fallen, weltering."*
+> - 📜 **James Joyce (*Ulysses*):** *"Jay, look at the drunken minister coming out of the maternity hospal! _Benedicat vos omnipotens Deus, Pater et Filius_."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # repentantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing remorse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing remorse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Who throws me aside and refuses forgiveness when it is repentantly implored?" "What signifies the pardon of a wretch like me?" said he, in a tone of agony."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Repentantly.)_ I am very disagreeable."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Dearest, I wasn’t making fun of you,” cried Anne repentantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing remorse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Who throws me aside and refuses forgiveness when it is repentantly implored?" "What signifies the pardon of a wretch like me?" said he, in a tone of agony."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Repentantly.)_ I am very disagreeable."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Dearest, I wasn’t making fun of you,” cried Anne repentantly."*

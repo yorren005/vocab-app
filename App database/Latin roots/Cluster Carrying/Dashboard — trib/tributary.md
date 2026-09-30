@@ -5,15 +5,6 @@ status: unread
 ---
 # tributary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a stream) flowing into a larger stream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back, foolish tears, back to your native spring, Your tributary drops belong to woe, Which you mistaking offer up to joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, at this tomb my tributary tears I render for my brethren’s obsequies; And at thy feet I kneel, with tears of joy Shed on this earth for thy return to Rome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a stream) flowing into a larger stream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back, foolish tears, back to your native spring, Your tributary drops belong to woe, Which you mistaking offer up to joy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, at this tomb my tributary tears I render for my brethren’s obsequies; And at thy feet I kneel, with tears of joy Shed on this earth for thy return to Rome."*

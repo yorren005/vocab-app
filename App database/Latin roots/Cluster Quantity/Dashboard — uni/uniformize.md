@@ -5,13 +5,6 @@ status: unread
 ---
 # uniformize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make uniform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make uniform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniformize designates make uniform."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make uniform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make uniform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniformize designates make uniform."*

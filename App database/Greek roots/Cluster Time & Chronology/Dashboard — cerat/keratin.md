@@ -5,13 +5,6 @@ status: unread
 ---
 # keratin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, keratin designates any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, keratin designates any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin."*

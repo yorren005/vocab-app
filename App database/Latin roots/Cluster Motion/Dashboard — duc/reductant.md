@@ -5,13 +5,6 @@ status: unread
 ---
 # reductant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductant designates a substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductant designates a substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver."*

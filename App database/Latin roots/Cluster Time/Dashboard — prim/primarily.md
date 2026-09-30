@@ -5,15 +5,6 @@ status: unread
 ---
 # primarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For the most part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of primary import.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll thank you to tell me if I’m in the way for Warren’s Malthouse?” Gabriel resumed, primarily to gain the information, indirectly to get more of the music."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Accordingly, in the following pages, the author has endeavored primarily to develop the economic aspects of each problem, and has repeatedly given warning when the discussion or the conclusions began to transcend strict economic limits."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The difference between insurance and gambling, thus, lies primarily in the purpose of insurance, which is not to increase artificially the risk that any individual runs, but to neutralize or offset an already existing chance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For the most part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of primary import.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll thank you to tell me if I’m in the way for Warren’s Malthouse?” Gabriel resumed, primarily to gain the information, indirectly to get more of the music."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Accordingly, in the following pages, the author has endeavored primarily to develop the economic aspects of each problem, and has repeatedly given warning when the discussion or the conclusions began to transcend strict economic limits."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The difference between insurance and gambling, thus, lies primarily in the purpose of insurance, which is not to increase artificially the risk that any individual runs, but to neutralize or offset an already existing chance."*

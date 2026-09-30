@@ -5,13 +5,6 @@ status: unread
 ---
 # disjunct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressing melodically by intervals larger than a major second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having deep constrictions separating head, thorax, and abdomen, as in insects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjunct designates progressing melodically by intervals larger than a major second."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressing melodically by intervals larger than a major second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having deep constrictions separating head, thorax, and abdomen, as in insects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjunct designates progressing melodically by intervals larger than a major second."*

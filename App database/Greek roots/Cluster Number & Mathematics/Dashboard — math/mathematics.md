@@ -5,15 +5,6 @@ status: unread
 ---
 # mathematics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of numbers and their operations, interrelations, combinations, generalizations, and abstractions and of space configurations and their structure, measurement, transformations, and generalizations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of, operation in, or use of mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, for an entrance to my entertainment, I do present you with a man of mine, [_Presenting Hortensio._] Cunning in music and the mathematics, To instruct her fully in those sciences, Whereof I know she is not ignorant."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In April 1841 he took his M.A. degree, coming out first in Classics and Philosophy, and being bracketed first in Mathematics."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Well, but now, Casaubon, such deep studies, classics, mathematics, that kind of thing, are too taxing for a woman—too taxing, you know.” “Dorothea is learning to read the characters simply,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of numbers and their operations, interrelations, combinations, generalizations, and abstractions and of space configurations and their structure, measurement, transformations, and generalizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of, operation in, or use of mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, for an entrance to my entertainment, I do present you with a man of mine, [_Presenting Hortensio._] Cunning in music and the mathematics, To instruct her fully in those sciences, Whereof I know she is not ignorant."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In April 1841 he took his M.A. degree, coming out first in Classics and Philosophy, and being bracketed first in Mathematics."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Well, but now, Casaubon, such deep studies, classics, mathematics, that kind of thing, are too taxing for a woman—too taxing, you know.” “Dorothea is learning to read the characters simply,” said Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hemosiderin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemosiderin designates a yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemosiderin designates a yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia)."*

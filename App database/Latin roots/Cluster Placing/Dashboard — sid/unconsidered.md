@@ -5,15 +5,6 @@ status: unread
 ---
 # unconsidered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without proper consideration or reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without proper consideration or reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you would love yourself, and in that love Not unconsidered leave your honour nor The dignity of your office, is the point Of my petition."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perceive you none that do arouse your pity But th’ unconsidered soldier?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My father named me Autolycus; who being, I as am, littered under Mercury, was likewise a snapper-up of unconsidered trifles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without proper consideration or reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without proper consideration or reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you would love yourself, and in that love Not unconsidered leave your honour nor The dignity of your office, is the point Of my petition."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perceive you none that do arouse your pity But th’ unconsidered soldier?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My father named me Autolycus; who being, I as am, littered under Mercury, was likewise a snapper-up of unconsidered trifles."*

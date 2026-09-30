@@ -5,15 +5,6 @@ status: unread
 ---
 # vulgar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking refinement or cultivation or taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with the great masses of people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found you as a morsel cold upon Dead Caesar’s trencher; nay, you were a fragment Of Gneius Pompey’s, besides what hotter hours, Unregistered in vulgar fame, you have Luxuriously pick’d out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five tribunes to defend their vulgar wisdoms, Of their own choice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking refinement or cultivation or taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with the great masses of people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found you as a morsel cold upon Dead Caesar’s trencher; nay, you were a fragment Of Gneius Pompey’s, besides what hotter hours, Unregistered in vulgar fame, you have Luxuriously pick’d out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five tribunes to defend their vulgar wisdoms, Of their own choice."*

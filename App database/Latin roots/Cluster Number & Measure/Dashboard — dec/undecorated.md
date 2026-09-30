@@ -5,15 +5,6 @@ status: unread
 ---
 # undecorated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated with something to increase its beauty or distinction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decorated with something to increase its beauty or distinction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Yet these people were clothed in pleasant fabrics that must at times need renewal, and their sandals, though undecorated, were fairly complex specimens of metalwork."*
-> - 📜 **James Joyce (*Ulysses*):** *"In the mirror of the giltbordered pierglass the undecorated back of the dwarf tree regarded the upright back of the embalmed owl."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the best period the pure white undecorated Ting ware, with rich unctuous glaze, compared to "congealed fat" or "mutton fat," was most esteemed, though ornament was freely used, especially on the Southern Ting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated with something to increase its beauty or distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decorated with something to increase its beauty or distinction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Yet these people were clothed in pleasant fabrics that must at times need renewal, and their sandals, though undecorated, were fairly complex specimens of metalwork."*
+> - 📜 **James Joyce (*Ulysses*):** *"In the mirror of the giltbordered pierglass the undecorated back of the dwarf tree regarded the upright back of the embalmed owl."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the best period the pure white undecorated Ting ware, with rich unctuous glaze, compared to "congealed fat" or "mutton fat," was most esteemed, though ornament was freely used, especially on the Southern Ting."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cantor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical director of a choir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official of a synagogue who conducts the liturgical part of the service and sings or chants the prayers intended to be performed as solos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantor designates the musical director of a choir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical director of a choir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official of a synagogue who conducts the liturgical part of the service and sings or chants the prayers intended to be performed as solos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantor designates the musical director of a choir."*

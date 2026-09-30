@@ -5,15 +5,6 @@ status: unread
 ---
 # rot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of decay usually accompanied by an offensive odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the process of decay caused by bacterial or fungal action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This common body, Like to a vagabond flag upon the stream, Goes to and back, lackeying the varying tide, To rot itself with motion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sink Rome, and their tongues rot That speak against us!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall, Antipholus, Even in the spring of love, thy love-springs rot?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of decay usually accompanied by an offensive odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the process of decay caused by bacterial or fungal action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This common body, Like to a vagabond flag upon the stream, Goes to and back, lackeying the varying tide, To rot itself with motion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sink Rome, and their tongues rot That speak against us!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall, Antipholus, Even in the spring of love, thy love-springs rot?"*

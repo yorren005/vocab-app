@@ -5,13 +5,6 @@ status: unread
 ---
 # demyelination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demyelination designates loss of the myelin covering of some nerve fibers resulting in their impaired function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demyelination designates loss of the myelin covering of some nerve fibers resulting in their impaired function."*

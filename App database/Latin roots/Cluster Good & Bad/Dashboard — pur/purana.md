@@ -5,13 +5,6 @@ status: unread
 ---
 # purana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purana designates a body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purana designates a body of 18 works written between the first and 11th centuries and incorporating legends and speculative histories of the universe and myths and customary observances."*

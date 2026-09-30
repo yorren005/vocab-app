@@ -5,15 +5,6 @@ status: unread
 ---
 # rejected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to accept or acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to accept.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then woo thyself, be of thyself rejected, Steal thine own freedom, and complain on theft. 160 Narcissus so himself himself forsook, And died to kiss his shadow in the brook."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn and he give private audience to the rejected witness in a corner."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though a rejected witness, who “can’t exactly say” what will be done to him in greater hands than men’s, thou art not quite in outer darkness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to accept or acknowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to accept.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then woo thyself, be of thyself rejected, Steal thine own freedom, and complain on theft. 160 Narcissus so himself himself forsook, And died to kiss his shadow in the brook."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn and he give private audience to the rejected witness in a corner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Though a rejected witness, who “can’t exactly say” what will be done to him in greater hands than men’s, thou art not quite in outer darkness."*

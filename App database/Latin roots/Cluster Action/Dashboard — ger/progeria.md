@@ -5,13 +5,6 @@ status: unread
 ---
 # progeria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progeria designates a rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progeria designates a rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child."*

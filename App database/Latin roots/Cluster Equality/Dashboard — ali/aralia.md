@@ -5,13 +5,6 @@ status: unread
 ---
 # aralia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aralia designates any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aralia designates any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers."*

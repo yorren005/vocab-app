@@ -5,15 +5,6 @@ status: unread
 ---
 # passado
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first and second cause will not serve my turn; the _passado_ he respects not, the _duello_ he regards not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, the immortal passado, the punto reverso, the hay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sir, your passado. [_They fight._] ROMEO."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first and second cause will not serve my turn; the _passado_ he respects not, the _duello_ he regards not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, the immortal passado, the punto reverso, the hay."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sir, your passado. [_They fight._] ROMEO."*

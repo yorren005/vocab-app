@@ -5,14 +5,6 @@ status: unread
 ---
 # incubus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male demon believed to lie on sleeping persons and to have sexual intercourse with sleeping women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation resembling a terrifying dream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then he turns from his cups, as 322:21 the startled dreamer who wakens from an incubus in- curred through the pains of distorted sense."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And beside, sir, this discussion has relieved my mind of a mystery that has weighed upon it like an incubus for years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male demon believed to lie on sleeping persons and to have sexual intercourse with sleeping women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation resembling a terrifying dream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then he turns from his cups, as 322:21 the startled dreamer who wakens from an incubus in- curred through the pains of distorted sense."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And beside, sir, this discussion has relieved my mind of a mystery that has weighed upon it like an incubus for years."*

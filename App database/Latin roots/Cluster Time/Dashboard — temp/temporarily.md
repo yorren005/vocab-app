@@ -5,15 +5,6 @@ status: unread
 ---
 # temporarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For a limited time only; not permanently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limited time only; not permanently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the details of his aspect were temporarily thrust aside by the discovery that he was one whom she had seen before."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How you surprise us!” “She is at her mother’s—temporarily."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Reason had had nothing to do with his whimsical conversion, which was perhaps the mere freak of a careless man in search of a new sensation, and temporarily impressed by his mother’s death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For a limited time only; not permanently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limited time only; not permanently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the details of his aspect were temporarily thrust aside by the discovery that he was one whom she had seen before."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How you surprise us!” “She is at her mother’s—temporarily."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Reason had had nothing to do with his whimsical conversion, which was perhaps the mere freak of a careless man in search of a new sensation, and temporarily impressed by his mother’s death."*

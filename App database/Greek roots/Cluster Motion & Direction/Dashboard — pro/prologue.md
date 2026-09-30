@@ -5,15 +5,6 @@ status: unread
 ---
 # prologue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The preface or introduction to a literary work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech often in verse addressed to the audience by an actor at the beginning of a play.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROLOGUE. _For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently._ HAMLET."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The preface or introduction to a literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech often in verse addressed to the audience by an actor at the beginning of a play.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROLOGUE. _For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently._ HAMLET."*

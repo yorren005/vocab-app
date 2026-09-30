@@ -5,13 +5,6 @@ status: unread
 ---
 # ecologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who studies the relation between organisms and their environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who studies the relation between organisms and their environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecologist designates a biologist who studies the relation between organisms and their environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who studies the relation between organisms and their environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who studies the relation between organisms and their environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecologist designates a biologist who studies the relation between organisms and their environment."*

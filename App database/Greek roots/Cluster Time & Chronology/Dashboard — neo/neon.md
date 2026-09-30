@@ -5,14 +5,6 @@ status: unread
 ---
 # neon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element that is found in minute amounts in air and is used especially in electric lamps, in lasers, and as a cryogenic refrigerant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discharge lamp in which the gas contains a large proportion of neon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"They are so inactive that possibly they never will be, with one exception, and that is neon."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If an electric discharge be made to pass through a tube filled with this gas, a beautiful glow is the result, and it is just possible that neon tubes may become the electric light of the future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element that is found in minute amounts in air and is used especially in electric lamps, in lasers, and as a cryogenic refrigerant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discharge lamp in which the gas contains a large proportion of neon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"They are so inactive that possibly they never will be, with one exception, and that is neon."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If an electric discharge be made to pass through a tube filled with this gas, a beautiful glow is the result, and it is just possible that neon tubes may become the electric light of the future."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antipyretic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that reduces fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that reduces fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipyretic designates an agent that reduces fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that reduces fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that reduces fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipyretic designates an agent that reduces fever."*

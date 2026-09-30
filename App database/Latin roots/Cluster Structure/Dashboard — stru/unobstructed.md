@@ -5,15 +5,6 @@ status: unread
 ---
 # unobstructed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from impediment or obstruction or hindrance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from impediment or obstruction or hindrance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Handling the long lance lightly, glancing twice or thrice along its length to see if it be exactly straight, Stubb whistlingly gathers up the coil of the warp in one hand, so as to secure its free end in his grasp, leaving the rest unobstructed."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If it be made in the unobstructed air, especially if it descend to its mark, the stroke is then simply irresistible."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Having already in various ways put before you his skull, spout-hole, jaw, teeth, tail, forehead, fins, and divers other parts, I shall now simply point out what is most interesting in the general bulk of his unobstructed bones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from impediment or obstruction or hindrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from impediment or obstruction or hindrance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Handling the long lance lightly, glancing twice or thrice along its length to see if it be exactly straight, Stubb whistlingly gathers up the coil of the warp in one hand, so as to secure its free end in his grasp, leaving the rest unobstructed."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If it be made in the unobstructed air, especially if it descend to its mark, the stroke is then simply irresistible."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Having already in various ways put before you his skull, spout-hole, jaw, teeth, tail, forehead, fins, and divers other parts, I shall now simply point out what is most interesting in the general bulk of his unobstructed bones."*

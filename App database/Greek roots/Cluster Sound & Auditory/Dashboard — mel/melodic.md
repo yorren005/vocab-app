@@ -5,13 +5,6 @@ status: unread
 ---
 # melodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or constituting or characterized by pleasing melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to melody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond Vincy seemed to have the true melodic charm; and when a man has seen the woman whom he would have chosen if he had intended to marry speedily, his remaining a bachelor will usually depend on her resolution rather than on his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or constituting or characterized by pleasing melody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to melody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond Vincy seemed to have the true melodic charm; and when a man has seen the woman whom he would have chosen if he had intended to marry speedily, his remaining a bachelor will usually depend on her resolution rather than on his."*

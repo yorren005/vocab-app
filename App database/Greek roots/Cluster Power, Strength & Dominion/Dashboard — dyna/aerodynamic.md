@@ -5,13 +5,6 @@ status: unread
 ---
 # aerodynamic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of an object that affect how easily it is able to move through the air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodynamic designates a branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of an object that affect how easily it is able to move through the air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodynamic designates a branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids."*

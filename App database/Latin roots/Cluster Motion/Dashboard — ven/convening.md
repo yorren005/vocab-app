@@ -5,15 +5,6 @@ status: unread
 ---
 # convening
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of convening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet formally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dilatory process of convening the legislature, or one of its branches, for the purpose of obtaining its sanction to the measure, would frequently be the occasion of letting slip the golden opportunity."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Except some cavils about the power of convening EITHER house of the legislature, and that of receiving ambassadors, no objection has been made to this class of authorities; nor could they possibly admit of any."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In regard to the power of convening either house of the legislature, I shall barely remark, that in respect to the Senate at least, we can readily discover a good reason for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of convening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet formally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dilatory process of convening the legislature, or one of its branches, for the purpose of obtaining its sanction to the measure, would frequently be the occasion of letting slip the golden opportunity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Except some cavils about the power of convening EITHER house of the legislature, and that of receiving ambassadors, no objection has been made to this class of authorities; nor could they possibly admit of any."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In regard to the power of convening either house of the legislature, I shall barely remark, that in respect to the Senate at least, we can readily discover a good reason for it."*

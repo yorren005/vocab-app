@@ -5,13 +5,6 @@ status: unread
 ---
 # schematize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To form or to form into a scheme or systematic arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express or depict schematically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematize designates to form or to form into a scheme or systematic arrangement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form or to form into a scheme or systematic arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express or depict schematically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematize designates to form or to form into a scheme or systematic arrangement."*

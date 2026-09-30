@@ -5,15 +5,6 @@ status: unread
 ---
 # laboratory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace for the conduct of scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a farmer, an agriculturist, a desk-tied professor, a laboratory slave, interested only in the soil and the increase of the productiveness of the soil."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, not lightly was I stirred when I slew Professor Haskell in the laboratory at the University of California."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace for the conduct of scientific research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a farmer, an agriculturist, a desk-tied professor, a laboratory slave, interested only in the soil and the increase of the productiveness of the soil."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, not lightly was I stirred when I slew Professor Haskell in the laboratory at the University of California."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unconvincing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not convincing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a probability too low to inspire belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconvincing designates not convincing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not convincing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a probability too low to inspire belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconvincing designates not convincing."*

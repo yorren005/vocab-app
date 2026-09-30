@@ -5,15 +5,6 @@ status: unread
 ---
 # sensitiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity to emotional feelings (of self and others).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) responsiveness to external stimuli; the faculty of sensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the intrinsic quality of the event moved his touchy sensitiveness less than its conjectured effect upon the minds of others."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was the interchange of ideas about her that made her sensitiveness wince."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her back seemed to be endowed with a sensitiveness to ocular beams—even her clothing—so alive was she to a fancied gaze which might be resting upon her from the outside of that barn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity to emotional feelings (of self and others).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) responsiveness to external stimuli; the faculty of sensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the intrinsic quality of the event moved his touchy sensitiveness less than its conjectured effect upon the minds of others."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was the interchange of ideas about her that made her sensitiveness wince."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her back seemed to be endowed with a sensitiveness to ocular beams—even her clothing—so alive was she to a fancied gaze which might be resting upon her from the outside of that barn."*

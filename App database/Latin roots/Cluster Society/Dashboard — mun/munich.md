@@ -5,15 +5,6 @@ status: unread
 ---
 # munich
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of bavaria in southwestern germany.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of bavaria in southwestern germany.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And so he passes on from city to city, and from land to land, by Vienna, Salzburg, and Munich, to Innsbruck, thence over the Brenner to Trent and Venice, and by Bologna to Florence and Rome."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Panzer, _Beitrag zur deutschen Mythologie_ (Munich, 1848-1855), i. 211, § 232; W."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Panzer, _Beitrag zur deutschen Mythologie_ (Munich, 1848-1855), ii. 207; W."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of bavaria in southwestern germany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of bavaria in southwestern germany.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"And so he passes on from city to city, and from land to land, by Vienna, Salzburg, and Munich, to Innsbruck, thence over the Brenner to Trent and Venice, and by Bologna to Florence and Rome."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Panzer, _Beitrag zur deutschen Mythologie_ (Munich, 1848-1855), i. 211, § 232; W."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Panzer, _Beitrag zur deutschen Mythologie_ (Munich, 1848-1855), ii. 207; W."*

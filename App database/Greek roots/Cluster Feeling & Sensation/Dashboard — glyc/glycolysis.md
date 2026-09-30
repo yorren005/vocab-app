@@ -5,13 +5,6 @@ status: unread
 ---
 # glycolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycolysis designates a metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycolysis designates a metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp."*

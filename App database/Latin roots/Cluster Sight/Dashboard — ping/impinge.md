@@ -5,14 +5,6 @@ status: unread
 ---
 # impinge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impinge or infringe upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance beyond the usual limit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such a jet impinging upon a pencil of lime causes the latter to glow with a dazzling white light."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At Cananea, four oil burners of the Shelby type are employed on each furnace, and this form is stated to project the flame further into the furnace, and to prevent its impinging on the roof, more successfully than the other types tried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impinge or infringe upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance beyond the usual limit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such a jet impinging upon a pencil of lime causes the latter to glow with a dazzling white light."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At Cananea, four oil burners of the Shelby type are employed on each furnace, and this form is stated to project the flame further into the furnace, and to prevent its impinging on the roof, more successfully than the other types tried."*

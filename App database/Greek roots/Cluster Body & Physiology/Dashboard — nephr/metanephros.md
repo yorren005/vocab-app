@@ -5,13 +5,6 @@ status: unread
 ---
 # metanephros
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metanephros designates either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metanephros designates either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms."*

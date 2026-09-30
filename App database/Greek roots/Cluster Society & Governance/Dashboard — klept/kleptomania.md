@@ -5,13 +5,6 @@ status: unread
 ---
 # kleptomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent neurotic impulse to steal especially without economic motive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A persistent neurotic impulse to steal especially without economic motive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptomania designates a persistent neurotic impulse to steal especially without economic motive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent neurotic impulse to steal especially without economic motive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A persistent neurotic impulse to steal especially without economic motive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptomania designates a persistent neurotic impulse to steal especially without economic motive."*

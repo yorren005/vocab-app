@@ -5,13 +5,6 @@ status: unread
 ---
 # caviare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard thee speak me a speech once, but it was never acted, or if it was, not above once, for the play, I remember, pleased not the million, ’twas caviare to the general."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard thee speak me a speech once, but it was never acted, or if it was, not above once, for the play, I remember, pleased not the million, ’twas caviare to the general."*

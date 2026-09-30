@@ -5,15 +5,6 @@ status: unread
 ---
 # sequestration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of segregating or sequestering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of forming a chelate or other stable compound with an ion or atom or molecule so that it is no longer available for reactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Henry Monmouth first began to reign, Before whose glory I was great in arms, This loathsome sequestration have I had; And even since then hath Richard been obscured, Deprived of honour and inheritance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a violent commencement, and thou shalt see an answerable sequestration—put but money in thy purse."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When, three or four years later, the period of sequestration ceased, only this same aunt had the right to take off her niece's ceremonial head-dress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of segregating or sequestering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of forming a chelate or other stable compound with an ion or atom or molecule so that it is no longer available for reactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Henry Monmouth first began to reign, Before whose glory I was great in arms, This loathsome sequestration have I had; And even since then hath Richard been obscured, Deprived of honour and inheritance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a violent commencement, and thou shalt see an answerable sequestration—put but money in thy purse."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When, three or four years later, the period of sequestration ceased, only this same aunt had the right to take off her niece's ceremonial head-dress."*

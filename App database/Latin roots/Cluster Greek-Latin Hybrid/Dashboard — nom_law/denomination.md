@@ -5,15 +5,6 @@ status: unread
 ---
 # denomination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of religious congregations having its own organization and a distinctive faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of one kind of unit in a system of numbers or measures or weights or money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Another business man of that denomination in Boston, during fifteen years, has appropriated _thirty-nine thousand dollars_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The actual moneys in circulation in every modern country consist of a wide variety of pieces, differing in denomination, physical size, shape and materials, mode of issue, source or authority of issue, and legal character."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The amount required (or most convenient to use) in each denomination of fractional coins is thus a more or less certain portion of each person's monetary demand, shaped by experience and fixed by habit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of religious congregations having its own organization and a distinctive faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of one kind of unit in a system of numbers or measures or weights or money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Another business man of that denomination in Boston, during fifteen years, has appropriated _thirty-nine thousand dollars_."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The actual moneys in circulation in every modern country consist of a wide variety of pieces, differing in denomination, physical size, shape and materials, mode of issue, source or authority of issue, and legal character."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The amount required (or most convenient to use) in each denomination of fractional coins is thus a more or less certain portion of each person's monetary demand, shaped by experience and fixed by habit."*

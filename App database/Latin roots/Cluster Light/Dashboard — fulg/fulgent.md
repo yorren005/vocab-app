@@ -5,14 +5,6 @@ status: unread
 ---
 # fulgent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shining intensely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Poems 1817*):** *"Here are sweet peas, on tip-toe for a flight: With wings of gentle flush o'er delicate white, And taper fulgent catching at all things, To bind them all about with tiny rings."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"The weary Sun betook himself to rest. --Then issued Vesper from the fulgent West, Outshining like a visible God The glorious path in which he trod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shining intensely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*Poems 1817*):** *"Here are sweet peas, on tip-toe for a flight: With wings of gentle flush o'er delicate white, And taper fulgent catching at all things, To bind them all about with tiny rings."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"The weary Sun betook himself to rest. --Then issued Vesper from the fulgent West, Outshining like a visible God The glorious path in which he trod."*

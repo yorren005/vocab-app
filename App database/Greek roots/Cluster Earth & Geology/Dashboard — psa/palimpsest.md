@@ -5,13 +5,6 @@ status: unread
 ---
 # palimpsest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing material (such as a parchment or tablet) used one or more times after earlier writing has been erased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something having usually diverse layers or aspects apparent beneath the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But man, even to himself, is a palimpsest, having an ostensible writing, and another beneath the lines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing material (such as a parchment or tablet) used one or more times after earlier writing has been erased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something having usually diverse layers or aspects apparent beneath the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But man, even to himself, is a palimpsest, having an ostensible writing, and another beneath the lines."*

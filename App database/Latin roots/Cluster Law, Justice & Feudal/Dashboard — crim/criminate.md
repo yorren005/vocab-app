@@ -5,15 +5,6 @@ status: unread
 ---
 # criminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring an accusation against; level a charge against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rebuke formally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As the spirit of party, in different degrees, must be expected to infect all political bodies, there will be, no doubt, persons in the national legislature willing enough to arraign the measures and criminate the views of the majority."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Crisparkle, “that in my desire to clear one man I should lightly criminate another!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"As to the choice of the spot, obviously such criminating evidence had better take its chance of being found anywhere, rather than upon himself, or in his possession."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring an accusation against; level a charge against.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rebuke formally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As the spirit of party, in different degrees, must be expected to infect all political bodies, there will be, no doubt, persons in the national legislature willing enough to arraign the measures and criminate the views of the majority."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Crisparkle, “that in my desire to clear one man I should lightly criminate another!"*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"As to the choice of the spot, obviously such criminating evidence had better take its chance of being found anywhere, rather than upon himself, or in his possession."*

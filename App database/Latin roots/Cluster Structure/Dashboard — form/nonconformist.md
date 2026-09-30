@@ -5,15 +5,6 @@ status: unread
 ---
 # nonconformist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protestant in england who is not a member of the church of england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who refuses to conform to established standards of conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Present at the managers' meeting were Val, still in breeches: Jack Bendish in a dinner jacket and black tie: Garrett the blacksmith, cursorily washed: Thurlow, a leading Nonconformist tradesman: and Mrs."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I think, perhaps, it is almost time that I prepare for the new role I have to play.” He disappeared into his bedroom and returned in a few minutes in the character of an amiable and simple-minded Nonconformist clergyman."*
-> - 📜 **James Joyce (*Ulysses*):** *"In the church, Roman, Anglican or Nonconformist: exemplars, the very reverend John Conmee S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protestant in england who is not a member of the church of england.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who refuses to conform to established standards of conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Present at the managers' meeting were Val, still in breeches: Jack Bendish in a dinner jacket and black tie: Garrett the blacksmith, cursorily washed: Thurlow, a leading Nonconformist tradesman: and Mrs."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I think, perhaps, it is almost time that I prepare for the new role I have to play.” He disappeared into his bedroom and returned in a few minutes in the character of an amiable and simple-minded Nonconformist clergyman."*
+> - 📜 **James Joyce (*Ulysses*):** *"In the church, Roman, Anglican or Nonconformist: exemplars, the very reverend John Conmee S."*

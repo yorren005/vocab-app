@@ -5,14 +5,6 @@ status: unread
 ---
 # grading
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of arranging in a graduated series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing the ground level to a smooth horizontal or gently sloping surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The "grading camps" of the railroads were followed by belts of these self-asserting annuals."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This is, therefore, a continuity classification, the varying classes of goods grading from those whose durableness is zero (just at the moment of consumption) to those most durable, which yield an endless series of uses or products."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of arranging in a graduated series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing the ground level to a smooth horizontal or gently sloping surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The "grading camps" of the railroads were followed by belts of these self-asserting annuals."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This is, therefore, a continuity classification, the varying classes of goods grading from those whose durableness is zero (just at the moment of consumption) to those most durable, which yield an endless series of uses or products."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # timidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the unknown or unfamiliar or fear of making decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fearfulness in venturing into new and unknown places or activities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It had been weakness and timidity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The same evening the sheep had trailed homeward head to tail, the behaviour of the rooks had been confused, and the horses had moved with timidity and caution."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Patience, that blending of moral courage with physical timidity, was now no longer a minor feature in Mrs Angel Clare; and it sustained her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the unknown or unfamiliar or fear of making decisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fearfulness in venturing into new and unknown places or activities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It had been weakness and timidity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The same evening the sheep had trailed homeward head to tail, the behaviour of the rooks had been confused, and the horses had moved with timidity and caution."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Patience, that blending of moral courage with physical timidity, was now no longer a minor feature in Mrs Angel Clare; and it sustained her."*

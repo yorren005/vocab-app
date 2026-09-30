@@ -5,15 +5,6 @@ status: unread
 ---
 # rive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear or be torn violently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate or cut with a tool, such as a sharp instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The soul and body rive not more in parting Than greatness going off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast affected the fine strains of honour To imitate the graces of the gods, To tear with thunder the wide cheeks o’ th’ air And yet to charge thy sulphur with a bolt That should but rive an oak."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear or be torn violently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate or cut with a tool, such as a sharp instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The soul and body rive not more in parting Than greatness going off."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast affected the fine strains of honour To imitate the graces of the gods, To tear with thunder the wide cheeks o’ th’ air And yet to charge thy sulphur with a bolt That should but rive an oak."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*

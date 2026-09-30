@@ -5,15 +5,6 @@ status: unread
 ---
 # sanatorium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pejorative terms for an insane asylum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He drives out with her every day and mixes with other people in the sanatorium and makes friends with them."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He will require some few weeks’ rest in our sanatorium in the hills, but will then return."*
-> - 📜 **James Joyce (*Ulysses*):** *"Can become ideal winter sanatorium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pejorative terms for an insane asylum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He drives out with her every day and mixes with other people in the sanatorium and makes friends with them."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He will require some few weeks’ rest in our sanatorium in the hills, but will then return."*
+> - 📜 **James Joyce (*Ulysses*):** *"Can become ideal winter sanatorium."*

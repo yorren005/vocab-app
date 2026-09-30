@@ -5,15 +5,6 @@ status: unread
 ---
 # accretion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase by natural growth or addition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something contributing to growth or increase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had no fear of the shadows; her sole idea seemed to be to shun mankind—or rather that cold accretion called the world, which, so terrible in the mass, is so unformidable, even pitiable, in its units."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Morality is a social fund, an accretion through the painful ages."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Wharton overlooked this expanse of hunting country: a formidable Norman keep, round which, by gradual accretion, a dwelling-place had grown up, a history of English architecture and English gardening written in stone and brick and grass and flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase by natural growth or addition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something contributing to growth or increase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had no fear of the shadows; her sole idea seemed to be to shun mankind—or rather that cold accretion called the world, which, so terrible in the mass, is so unformidable, even pitiable, in its units."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Morality is a social fund, an accretion through the painful ages."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Wharton overlooked this expanse of hunting country: a formidable Norman keep, round which, by gradual accretion, a dwelling-place had grown up, a history of English architecture and English gardening written in stone and brick and grass and flowers."*

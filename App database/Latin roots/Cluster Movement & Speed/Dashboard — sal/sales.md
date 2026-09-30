@@ -5,15 +5,6 @@ status: unread
 ---
 # sales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Income (at invoice values) received for goods and services over some given period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular instance of selling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Since Troy’s death Oak had attended all sales and fairs for her, transacting her business at the same time with his own."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A colporteur in the Wabash valley became quite discouraged and was almost ready to give up his work, on account of the smallness of his sales."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His sales were daily decreasing, and he became more and more disheartened, until one night, after a laborious day's effort, he found that he had _only sold twenty-five cents' worth_!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Income (at invoice values) received for goods and services over some given period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular instance of selling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Since Troy’s death Oak had attended all sales and fairs for her, transacting her business at the same time with his own."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A colporteur in the Wabash valley became quite discouraged and was almost ready to give up his work, on account of the smallness of his sales."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His sales were daily decreasing, and he became more and more disheartened, until one night, after a laborious day's effort, he found that he had _only sold twenty-five cents' worth_!"*

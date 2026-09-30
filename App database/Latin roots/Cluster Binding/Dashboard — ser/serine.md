@@ -5,13 +5,6 @@ status: unread
 ---
 # serine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweetish crystalline amino acid involved in the synthesis by the body of cysteine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweetish crystalline amino acid involved in the synthesis by the body of cysteine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serine designates a sweetish crystalline amino acid involved in the synthesis by the body of cysteine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweetish crystalline amino acid involved in the synthesis by the body of cysteine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweetish crystalline amino acid involved in the synthesis by the body of cysteine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serine designates a sweetish crystalline amino acid involved in the synthesis by the body of cysteine."*

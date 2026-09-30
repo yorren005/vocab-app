@@ -5,13 +5,6 @@ status: unread
 ---
 # cytology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with the structure, function, multiplication, pathology, and life history of cells : cell biology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cellular aspects of a phenomenon, process, or structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytology designates a branch of biology dealing with the structure, function, multiplication, pathology, and life history of cells : cell biology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with the structure, function, multiplication, pathology, and life history of cells : cell biology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cellular aspects of a phenomenon, process, or structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytology designates a branch of biology dealing with the structure, function, multiplication, pathology, and life history of cells : cell biology."*

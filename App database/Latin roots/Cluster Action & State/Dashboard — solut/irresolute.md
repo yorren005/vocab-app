@@ -5,15 +5,6 @@ status: unread
 ---
 # irresolute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain how to act or proceed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain how to act or proceed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He saw her too; yet he looked grave, and seemed irresolute, and only by very slow degrees came at last near enough to speak to her."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He joined them; but, as if irresolute whether to join or to pass on, said nothing, only looked."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He turned away to descend; then, irresolute, faced round to her door again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain how to act or proceed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain how to act or proceed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He saw her too; yet he looked grave, and seemed irresolute, and only by very slow degrees came at last near enough to speak to her."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He joined them; but, as if irresolute whether to join or to pass on, said nothing, only looked."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He turned away to descend; then, irresolute, faced round to her door again."*

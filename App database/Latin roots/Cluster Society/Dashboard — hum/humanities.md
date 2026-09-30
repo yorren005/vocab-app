@@ -5,15 +5,6 @@ status: unread
 ---
 # humanities
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being humane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The humanities and amenities of life had no attraction for him—its peaceful enjoyments no charm."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, no, my lad; stricken, blasted, if he be, Ahab has his humanities!” As I walked away, I was full of thoughtfulness; what had been incidentally revealed to me of Captain Ahab, filled me with a certain wild vagueness of painfulness concerning him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson has shown the despair and isolation of a soul surrounded by all luxuries of beauty, and living in and for them; but in the end the soul is redeemed and converted to the simple humanities of earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being humane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The humanities and amenities of life had no attraction for him—its peaceful enjoyments no charm."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, no, my lad; stricken, blasted, if he be, Ahab has his humanities!” As I walked away, I was full of thoughtfulness; what had been incidentally revealed to me of Captain Ahab, filled me with a certain wild vagueness of painfulness concerning him."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson has shown the despair and isolation of a soul surrounded by all luxuries of beauty, and living in and for them; but in the end the soul is redeemed and converted to the simple humanities of earth."*

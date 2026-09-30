@@ -5,13 +5,6 @@ status: unread
 ---
 # canalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a canal or a conversion to canals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management through specified channels of communication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canalization designates the production of a canal or a conversion to canals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a canal or a conversion to canals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management through specified channels of communication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canalization designates the production of a canal or a conversion to canals."*

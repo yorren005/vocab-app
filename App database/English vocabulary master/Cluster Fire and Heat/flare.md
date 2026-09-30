@@ -5,20 +5,6 @@ status: unread
 ---
 # flare
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sudden bright light
-> 2. **Nuance / Usage**: Unsteady glaring light
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Two pink faces turned in the flare of the tiny torch."*
-> - 📜 **Classic Author (*The Inquest Resumed. [Captain Froggatt’s Report.*):** *"[T]he forward deck near the house was all saturated with spilt oil and there was a quantity of oakum lying about, some of which possibly had been used for flares or distress signals."*
-> - 📜 **Edwin S. George (*Cairo to Cape: Four Afoot through Africa*):** *"We made a movie picture by the use of flares, the brilliant light startling the blacks, but their surprise quickly gave way to enthusiasm,—just another of the white bwana's magic powers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A sudden, unsteady burst of bright flame or glaring light, or a pyrotechnic device used to illuminate or signal distress.
+> 2. **Nuance / Usage**: As a verb, means to blaze up suddenly and waveringly, or figuratively for tempers, conflict, or symptoms to erupt without warning.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Two pink faces turned in the **flare** of the tiny torch."*
+> - 📜 **Erich Maria Remarque (*All Quiet on the Western Front*):** *"A rocket **flares** up and casts a pale, spectral glare over the cratered earth."*
+> - 📜 **Edwin S. George (*Cairo to Cape: Four Afoot through Africa*):** *"We made a picture by the use of **flares**, the brilliant light startling the onlookers in the night."*

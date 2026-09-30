@@ -5,15 +5,6 @@ status: unread
 ---
 # restaurant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where people go to eat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where people go to eat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"They dined in the middle of the day at a neighbouring restaurant, on soup, meat, vegetables, and black bread, at a cost of threepence."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Soon it transpired, in taking lunch at a restaurant kept by a man and his wife, that they advised her to choose a certain family hotel."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I booked a table at Malvani's, I thought you would prefer it to one of the big crowded shows." "Are we going to have supper--dinner I mean--at a restaurant?" asked Isabel awestruck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where people go to eat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where people go to eat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"They dined in the middle of the day at a neighbouring restaurant, on soup, meat, vegetables, and black bread, at a cost of threepence."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Soon it transpired, in taking lunch at a restaurant kept by a man and his wife, that they advised her to choose a certain family hotel."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I booked a table at Malvani's, I thought you would prefer it to one of the big crowded shows." "Are we going to have supper--dinner I mean--at a restaurant?" asked Isabel awestruck."*

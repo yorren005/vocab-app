@@ -5,15 +5,6 @@ status: unread
 ---
 # vertebrae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the bony segments of the spinal column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the bony segments of the spinal column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"While at Lahainaluna--the residence of this monstrous Jezebel--a humpbacked wretch was pointed out to me, who, some twenty-five years previously, had had the vertebrae of his backbone very seriously discomposed by his gentle mistress."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"However, it is but just to say that the author has already in her possession well-authenticated records of the cure, by herself and her students through 402:6 mental surgery alone, of broken bones, dislocated joints, and spinal vertebrae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the bony segments of the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the bony segments of the spinal column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"While at Lahainaluna--the residence of this monstrous Jezebel--a humpbacked wretch was pointed out to me, who, some twenty-five years previously, had had the vertebrae of his backbone very seriously discomposed by his gentle mistress."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"However, it is but just to say that the author has already in her possession well-authenticated records of the cure, by herself and her students through 402:6 mental surgery alone, of broken bones, dislocated joints, and spinal vertebrae."*

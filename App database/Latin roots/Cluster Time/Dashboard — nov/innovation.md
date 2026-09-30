@@ -5,15 +5,6 @@ status: unread
 ---
 # innovation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A creation (a new device or process) resulting from study and experimentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of something in the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think their inhibition comes by the means of the late innovation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have drunk but one cup tonight, and that was craftily qualified too, and behold, what innovation it makes here: I am unfortunate in the infirmity, and dare not task my weakness with any more."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Absolute nonsense!” “The innovation, if not wrong as an innovation, will be wrong as an expense.” “Yes, the expense of such an undertaking would be prodigious!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A creation (a new device or process) resulting from study and experimentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of something in the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think their inhibition comes by the means of the late innovation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have drunk but one cup tonight, and that was craftily qualified too, and behold, what innovation it makes here: I am unfortunate in the infirmity, and dare not task my weakness with any more."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Absolute nonsense!” “The innovation, if not wrong as an innovation, will be wrong as an expense.” “Yes, the expense of such an undertaking would be prodigious!"*

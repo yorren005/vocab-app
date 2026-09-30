@@ -5,15 +5,6 @@ status: unread
 ---
 # latterly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tangle,” says the Lord High Chancellor, latterly something restless under the eloquence of that learned gentleman."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was only latterly that people had begun to call Gabriel “Farmer” Oak."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan, who, no less than the panting horses, had latterly shown signs of weariness, again scrutinized the mystic characters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tangle,” says the Lord High Chancellor, latterly something restless under the eloquence of that learned gentleman."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was only latterly that people had begun to call Gabriel “Farmer” Oak."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan, who, no less than the panting horses, had latterly shown signs of weariness, again scrutinized the mystic characters."*

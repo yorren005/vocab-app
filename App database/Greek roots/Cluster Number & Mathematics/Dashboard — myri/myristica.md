@@ -5,13 +5,6 @@ status: unread
 ---
 # myristica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myristica designates type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myristica designates type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits."*

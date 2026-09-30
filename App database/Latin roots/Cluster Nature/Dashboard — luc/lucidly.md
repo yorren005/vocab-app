@@ -5,15 +5,6 @@ status: unread
 ---
 # lucidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clear and lucid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a clear and lucid manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is a kind, jolly sort of body, and is sure to ask me directly I return.” “You cannot, if we did not,” Mr Clare answered lucidly."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But--why should Mr Maplestone-- I gaped at him, and said:-- "_Why_?" And he said lucidly:-- "Well, there would have been more to catch, wouldn't there?"*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But at last, quite lucidly, he began again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clear and lucid manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a clear and lucid manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is a kind, jolly sort of body, and is sure to ask me directly I return.” “You cannot, if we did not,” Mr Clare answered lucidly."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But--why should Mr Maplestone-- I gaped at him, and said:-- "_Why_?" And he said lucidly:-- "Well, there would have been more to catch, wouldn't there?"*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But at last, quite lucidly, he began again."*

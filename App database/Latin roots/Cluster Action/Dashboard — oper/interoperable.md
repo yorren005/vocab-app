@@ -5,13 +5,6 @@ status: unread
 ---
 # interoperable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to exchange and use information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to exchange and use information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interoperable designates able to exchange and use information."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to exchange and use information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to exchange and use information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interoperable designates able to exchange and use information."*

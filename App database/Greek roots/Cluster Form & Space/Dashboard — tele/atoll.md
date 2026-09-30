@@ -5,13 +5,6 @@ status: unread
 ---
 # atoll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island consisting of a circular coral reef surrounding a lagoon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island consisting of a circular coral reef surrounding a lagoon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atoll designates an island consisting of a circular coral reef surrounding a lagoon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island consisting of a circular coral reef surrounding a lagoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island consisting of a circular coral reef surrounding a lagoon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atoll designates an island consisting of a circular coral reef surrounding a lagoon."*

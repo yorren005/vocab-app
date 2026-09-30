@@ -5,15 +5,6 @@ status: unread
 ---
 # generic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wine that is a blend of several varieties of grapes with no one grape predominating; a wine that does not carry the name of any specific grape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any product that can be sold without a brand name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the fishery, they usually go by the generic name of Gay-Headers."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The accursed shark alone can in any generic respect be said to bear comparative analogy to him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A sort of generic or Pantheistic vitality seemed to lurk in their very joints and bones, after what might be called the individual life had departed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wine that is a blend of several varieties of grapes with no one grape predominating; a wine that does not carry the name of any specific grape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any product that can be sold without a brand name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the fishery, they usually go by the generic name of Gay-Headers."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The accursed shark alone can in any generic respect be said to bear comparative analogy to him."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A sort of generic or Pantheistic vitality seemed to lurk in their very joints and bones, after what might be called the individual life had departed."*

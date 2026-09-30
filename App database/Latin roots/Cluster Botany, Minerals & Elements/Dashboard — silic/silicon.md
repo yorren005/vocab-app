@@ -5,13 +5,6 @@ status: unread
 ---
 # silicon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Aluminium and oxygen form alumina, of which are constituted the sapphire, the ruby and other precious stones, but alumina is most commonly found in combination with silica, or silicon and oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Aluminium and oxygen form alumina, of which are constituted the sapphire, the ruby and other precious stones, but alumina is most commonly found in combination with silica, or silicon and oxygen."*

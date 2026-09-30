@@ -5,13 +5,6 @@ status: unread
 ---
 # spirillum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spirally twisted elongate rodlike bacteria usually living in stagnant water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any flagellated aerobic bacteria having a spirally twisted rodlike form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirillum designates spirally twisted elongate rodlike bacteria usually living in stagnant water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spirally twisted elongate rodlike bacteria usually living in stagnant water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any flagellated aerobic bacteria having a spirally twisted rodlike form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirillum designates spirally twisted elongate rodlike bacteria usually living in stagnant water."*

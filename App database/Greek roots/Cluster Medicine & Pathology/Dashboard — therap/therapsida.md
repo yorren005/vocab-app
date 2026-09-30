@@ -5,13 +5,6 @@ status: unread
 ---
 # therapsida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsida designates extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsida designates extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic."*

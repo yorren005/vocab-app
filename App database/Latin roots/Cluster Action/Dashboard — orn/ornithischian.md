@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithischian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous dinosaur with a pelvis like that of a bird.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous dinosaur with a pelvis like that of a bird.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithischian designates herbivorous dinosaur with a pelvis like that of a bird."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous dinosaur with a pelvis like that of a bird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous dinosaur with a pelvis like that of a bird.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithischian designates herbivorous dinosaur with a pelvis like that of a bird."*

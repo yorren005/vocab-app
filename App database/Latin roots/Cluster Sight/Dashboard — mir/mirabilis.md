@@ -5,13 +5,6 @@ status: unread
 ---
 # mirabilis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Four o'clocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Four o'clocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So close behind some promontory lie The huge Leviathan to attend their prey, And give no chance, but swallow in the fry, Which through their gaping jaws mistake the way.” —_Dryden’s Annus Mirabilis_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Four o'clocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Four o'clocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So close behind some promontory lie The huge Leviathan to attend their prey, And give no chance, but swallow in the fry, Which through their gaping jaws mistake the way.” —_Dryden’s Annus Mirabilis_."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # debility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being weak in health or body (especially from old age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being weak in health or body (especially from old age).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Perhaps this faith that so easily possessed me was due to my extreme debility."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There was not only the debility of recent illness to assist: there was also, as she now learnt, nerves much affected, spirits much depressed to calm and raise, and her own imagination added that there must be a mind to be properly guided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being weak in health or body (especially from old age).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being weak in health or body (especially from old age).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Perhaps this faith that so easily possessed me was due to my extreme debility."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"There was not only the debility of recent illness to assist: there was also, as she now learnt, nerves much affected, spirits much depressed to calm and raise, and her own imagination added that there must be a mind to be properly guided."*

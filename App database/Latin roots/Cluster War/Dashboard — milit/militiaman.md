@@ -5,13 +5,6 @@ status: unread
 ---
 # militiaman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the militia; serves only during emergencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the militia; serves only during emergencies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But a militiaman got there before him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the militia; serves only during emergencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the militia; serves only during emergencies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But a militiaman got there before him."*

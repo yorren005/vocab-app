@@ -5,15 +5,6 @@ status: unread
 ---
 # dollar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic monetary unit in many countries; equal to 100 cents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of paper money worth one dollar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No less ready when at the bottom of fortune's ladder, than at the top, to do good as she had opportunity, she paid another poor woman's way to a neighboring State, where employment awaited her, and did it literally with her _last_ dollar-and a-half!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We were privileged to keep our rooms and have board at one dollar a week."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"N---- said: 'I should like to give Miss B---- something,' and handed my friend _a five dollar bill for me_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic monetary unit in many countries; equal to 100 cents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of paper money worth one dollar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"No less ready when at the bottom of fortune's ladder, than at the top, to do good as she had opportunity, she paid another poor woman's way to a neighboring State, where employment awaited her, and did it literally with her _last_ dollar-and a-half!"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"We were privileged to keep our rooms and have board at one dollar a week."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"N---- said: 'I should like to give Miss B---- something,' and handed my friend _a five dollar bill for me_."*

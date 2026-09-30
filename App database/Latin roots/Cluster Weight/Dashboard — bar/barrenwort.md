@@ -5,13 +5,6 @@ status: unread
 ---
 # barrenwort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrenwort designates slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrenwort designates slow-growing creeping plant with semi-evergreen leaves on erect wiry stems; used as ground cover."*

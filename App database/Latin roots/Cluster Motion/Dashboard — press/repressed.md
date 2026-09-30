@@ -5,15 +5,6 @@ status: unread
 ---
 # repressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To say of a man so severely and strictly self-repressed that he is triumphant would be to do him as great an injustice as to suppose him troubled with love or sentiment or any romantic weakness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He repressed the instinct, and his form drooped as with pain."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was trying to lead a repressed life, but she little divined the strength of her own vitality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"To say of a man so severely and strictly self-repressed that he is triumphant would be to do him as great an injustice as to suppose him troubled with love or sentiment or any romantic weakness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He repressed the instinct, and his form drooped as with pain."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was trying to lead a repressed life, but she little divined the strength of her own vitality."*

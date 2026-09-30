@@ -5,18 +5,6 @@ status: unread
 ---
 # wayfare
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (archaic) travel, journeying
-> 2. **Nuance / Usage**: (intransitive, archaic) to make a journey; to travel
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wayfare withstood the storm*), direct object (*cleaved the wayfare*), or prepositional anchor (*amidst the wayfare*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sir_Walter_Scott (*Classic Work*):** *"What frightens and disgusts me is those fearful letters from those who have been long dead, to those who linger on their wayfare through this valley of tears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (archaic) travel, journeying
+> 2. **Nuance / Usage**: (intransitive, archaic) to make a journey; to travel
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wayfare withstood the storm*), direct object (*cleaved the wayfare*), or prepositional anchor (*amidst the wayfare*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sir_Walter_Scott (*Classic Work*):** *"What frightens and disgusts me is those fearful letters from those who have been long dead, to those who linger on their wayfare through this valley of tears."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # malignity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing evil to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being disposed to evil; intense ill will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The very malignity of his enemies is a confession of their recognition that they are dealing with some one who is great."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is just an effusion of the malignity of the unsanctified heart."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"And no other possible manifestation of the malignity and atrocity of sin, of the divine abhorrence of all iniquity, and, at the same time, of the exhaustless treasures of redeeming mercy, could equal that which was witnessed on Calvary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing evil to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being disposed to evil; intense ill will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The very malignity of his enemies is a confession of their recognition that they are dealing with some one who is great."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is just an effusion of the malignity of the unsanctified heart."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"And no other possible manifestation of the malignity and atrocity of sin, of the divine abhorrence of all iniquity, and, at the same time, of the exhaustless treasures of redeeming mercy, could equal that which was witnessed on Calvary."*

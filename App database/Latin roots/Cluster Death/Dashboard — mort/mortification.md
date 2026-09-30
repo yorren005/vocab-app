@@ -5,15 +5,6 @@ status: unread
 ---
 # mortification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong feelings of embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The localized death of living cells (as from infection or the interruption of blood supply).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy has so slight a part, except when he gives his evidence, that he is moved on like a private individual and can only haunt the secret house on the outside, where he has the mortification of seeing Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby was understood to suffer great mortification from her daughter’s ignoble marriage and pursuits, but I hope she got over it in time."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Altered beyond his knowledge.” Anne fully submitted, in silent, deep mortification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong feelings of embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The localized death of living cells (as from infection or the interruption of blood supply).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy has so slight a part, except when he gives his evidence, that he is moved on like a private individual and can only haunt the secret house on the outside, where he has the mortification of seeing Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby was understood to suffer great mortification from her daughter’s ignoble marriage and pursuits, but I hope she got over it in time."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Altered beyond his knowledge.” Anne fully submitted, in silent, deep mortification."*

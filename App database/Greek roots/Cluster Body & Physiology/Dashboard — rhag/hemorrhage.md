@@ -5,15 +5,6 @@ status: unread
 ---
 # hemorrhage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copious or heavy discharge of blood from the blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and uncontrollable loss or outflow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In 1882 she had many hemorrhages, and gradually grew worse, so that she could not use her left arm or shoulder without producing hemorrhage."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But, in her absence, a hemorrhage took place, the nurse endeavored to staunch the blood, but at last, becoming frightened, sent for a Surgeon."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The surgeon tells me I shall not recover, that the next hemorrhage will probably be the last."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A copious or heavy discharge of blood from the blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and uncontrollable loss or outflow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In 1882 she had many hemorrhages, and gradually grew worse, so that she could not use her left arm or shoulder without producing hemorrhage."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But, in her absence, a hemorrhage took place, the nurse endeavored to staunch the blood, but at last, becoming frightened, sent for a Surgeon."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The surgeon tells me I shall not recover, that the next hemorrhage will probably be the last."*

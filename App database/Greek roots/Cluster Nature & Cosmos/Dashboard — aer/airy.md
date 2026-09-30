@@ -5,15 +5,6 @@ status: unread
 ---
 # airy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to or abounding in fresh air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not practical or realizable; speculative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, and I hold ambition of so airy and light a quality that it is but a shadow’s shadow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my life, this day grows wondrous hot; Some airy devil hovers in the sky And pours down mischief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Elves, list your names; silence, you airy toys!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to or abounding in fresh air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not practical or realizable; speculative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, and I hold ambition of so airy and light a quality that it is but a shadow’s shadow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my life, this day grows wondrous hot; Some airy devil hovers in the sky And pours down mischief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Elves, list your names; silence, you airy toys!"*

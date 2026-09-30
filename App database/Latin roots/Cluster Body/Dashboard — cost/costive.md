@@ -5,14 +5,6 @@ status: unread
 ---
 # costive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retarding evacuation of feces; binding; constipating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retarding evacuation of feces; binding; constipating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"One may be costive, one be full of Slime; Yet equally will any Hog that feeds, Produce good Pork by feeding on our Needs. _Underwritten._ You nasty Dog, you may eat your Pork yourself. _Hampstead, at the Flask._ Tell me why, ye gen'rous Swains?"*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"L._ _From a Bog-House at Hampstead._ Hard Stools proceed from costive Claret; Yet mortal Man cannot forbear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retarding evacuation of feces; binding; constipating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retarding evacuation of feces; binding; constipating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"One may be costive, one be full of Slime; Yet equally will any Hog that feeds, Produce good Pork by feeding on our Needs. _Underwritten._ You nasty Dog, you may eat your Pork yourself. _Hampstead, at the Flask._ Tell me why, ye gen'rous Swains?"*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"L._ _From a Bog-House at Hampstead._ Hard Stools proceed from costive Claret; Yet mortal Man cannot forbear it."*

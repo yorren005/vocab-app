@@ -5,14 +5,6 @@ status: unread
 ---
 # perplexedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perplexed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perplexed manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"What is it?” “This: that if you send me away you are likely to lose more than you bargain for.” Now Jan stared at him perplexedly, but I smiled, for I guessed what was to come."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The English customer paid for what he had had, perplexedly counted his change, and asked, as a stranger, to be directed towards the National Palace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perplexed manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perplexed manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"What is it?” “This: that if you send me away you are likely to lose more than you bargain for.” Now Jan stared at him perplexedly, but I smiled, for I guessed what was to come."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The English customer paid for what he had had, perplexedly counted his change, and asked, as a stranger, to be directed towards the National Palace."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # discrepant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compatible with other facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Lives of Pericles and Themistocles, for instance, are little more than mere collectanea from sources widely discrepant, and often quite worthless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compatible with other facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Lives of Pericles and Themistocles, for instance, are little more than mere collectanea from sources widely discrepant, and often quite worthless."*

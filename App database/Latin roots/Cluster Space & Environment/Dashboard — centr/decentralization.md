@@ -5,15 +5,6 @@ status: unread
 ---
 # decentralization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process in which population and industry moves from urban centers to outlying districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of power away from the center to local branches or governments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In one important respect, however, it is different; it provides for more decentralization of control and of reserves than did the Aldrich plan."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A striking feature of the competitive method is its decentralization."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A striking feature of the competitive method is its decentralization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process in which population and industry moves from urban centers to outlying districts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of power away from the center to local branches or governments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In one important respect, however, it is different; it provides for more decentralization of control and of reserves than did the Aldrich plan."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A striking feature of the competitive method is its decentralization."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A striking feature of the competitive method is its decentralization."*

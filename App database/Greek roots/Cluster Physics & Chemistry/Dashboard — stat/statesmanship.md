@@ -5,15 +5,6 @@ status: unread
 ---
 # statesmanship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom in the management of public affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom in the management of public affairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Perchance, from out the ashes where it lies, True statesmanship may, phoenix-like, arise."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That was a mistake, mixing up Irish politics with American statesmanship."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"For years a peaceful, sly, strategic conquest has been in progress, and American statesmanship has been almost silent, until the people have demanded action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom in the management of public affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom in the management of public affairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Perchance, from out the ashes where it lies, True statesmanship may, phoenix-like, arise."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That was a mistake, mixing up Irish politics with American statesmanship."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"For years a peaceful, sly, strategic conquest has been in progress, and American statesmanship has been almost silent, until the people have demanded action."*

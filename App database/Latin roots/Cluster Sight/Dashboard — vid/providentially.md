@@ -5,15 +5,6 @@ status: unread
 ---
 # providentially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fortunately providential manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a providential manner; as determined by providence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Men had come to look upon the ratio of 15 to 1 as the natural order, determined (it was sometimes said) providentially by the deposit of the two metals in due proportion in the earth's surface."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Still less does he use an adverb from the abstract, like "providentially." He says, "your heavenly Father." He does not talk of "humanity"; he says, "your brethren." He has no jargon, no technical terms, no scholastic vocabulary."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hence Bulstrode felt himself providentially secured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fortunately providential manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a providential manner; as determined by providence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Men had come to look upon the ratio of 15 to 1 as the natural order, determined (it was sometimes said) providentially by the deposit of the two metals in due proportion in the earth's surface."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Still less does he use an adverb from the abstract, like "providentially." He says, "your heavenly Father." He does not talk of "humanity"; he says, "your brethren." He has no jargon, no technical terms, no scholastic vocabulary."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hence Bulstrode felt himself providentially secured."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # keratinize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into keratin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become horny and impregnated with keratin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, keratinize designates convert into keratin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into keratin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become horny and impregnated with keratin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, keratinize designates convert into keratin."*

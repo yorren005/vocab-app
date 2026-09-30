@@ -5,15 +5,6 @@ status: unread
 ---
 # critical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to criticize severely and unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or involving criticism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle lady, do not put me to’t, For I am nothing if not critical."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being there, is much delighted with the horses and the feats of strength; looks at the weapons with a critical eye; disapproves of the combats as giving evidences of unskilful swordsmanship; but is touched home by the sentiments."*
-> - 📜 **Jane Austen (*Persuasion*):** *"A short absence from home had left his fair one unguarded by his attentions at this critical period, and when he came back he had the pain of finding very altered manners, and of seeing Captain Wentworth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to criticize severely and unfavorably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or involving criticism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle lady, do not put me to’t, For I am nothing if not critical."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Being there, is much delighted with the horses and the feats of strength; looks at the weapons with a critical eye; disapproves of the combats as giving evidences of unskilful swordsmanship; but is touched home by the sentiments."*
+> - 📜 **Jane Austen (*Persuasion*):** *"A short absence from home had left his fair one unguarded by his attentions at this critical period, and when he came back he had the pain of finding very altered manners, and of seeing Captain Wentworth."*

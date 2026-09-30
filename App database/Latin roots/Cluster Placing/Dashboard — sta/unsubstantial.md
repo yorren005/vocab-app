@@ -5,15 +5,6 @@ status: unread
 ---
 # unsubstantial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking material form or substance; unreal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking material form or substance; unreal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome then, Thou unsubstantial air that I embrace; The wretch that thou hast blown unto the worst Owes nothing to thy blasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I believe That unsubstantial death is amorous; And that the lean abhorred monster keeps Thee here in dark to be his paramour?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This neglect of duty may be disguised under affected but unsubstantial provisions, so as not to appear, and of course not to excite any alarm in the people for the safety of the Constitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking material form or substance; unreal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking material form or substance; unreal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome then, Thou unsubstantial air that I embrace; The wretch that thou hast blown unto the worst Owes nothing to thy blasts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I believe That unsubstantial death is amorous; And that the lean abhorred monster keeps Thee here in dark to be his paramour?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This neglect of duty may be disguised under affected but unsubstantial provisions, so as not to appear, and of course not to excite any alarm in the people for the safety of the Constitution."*

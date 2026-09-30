@@ -5,15 +5,6 @@ status: unread
 ---
 # seniority
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Higher rank than that of others especially by reason of longer service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being long-lived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had something to suffer, perhaps, when they came into contact again, in seeing Anne restored to the rights of seniority, and the mistress of a very pretty landaulette; but she had a future to look forward to, of powerful consolation."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bennet’s lovely face confirmed his views, and established all his strictest notions of what was due to seniority; and for the first evening _she_ was his settled choice."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Certainly Val's office of friend of the family was not less delicate because Laura, secure in her few years seniority, treated him like a younger brother!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Higher rank than that of others especially by reason of longer service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being long-lived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She had something to suffer, perhaps, when they came into contact again, in seeing Anne restored to the rights of seniority, and the mistress of a very pretty landaulette; but she had a future to look forward to, of powerful consolation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bennet’s lovely face confirmed his views, and established all his strictest notions of what was due to seniority; and for the first evening _she_ was his settled choice."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Certainly Val's office of friend of the family was not less delicate because Laura, secure in her few years seniority, treated him like a younger brother!"*

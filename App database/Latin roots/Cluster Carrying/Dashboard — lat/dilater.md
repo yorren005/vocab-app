@@ -5,13 +5,6 @@ status: unread
 ---
 # dilater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument that is used to dilate or distend an opening or an organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument that is used to dilate or distend an opening or an organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilater designates a surgical instrument that is used to dilate or distend an opening or an organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument that is used to dilate or distend an opening or an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument that is used to dilate or distend an opening or an organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilater designates a surgical instrument that is used to dilate or distend an opening or an organ."*

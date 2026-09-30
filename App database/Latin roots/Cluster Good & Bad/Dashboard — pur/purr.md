@@ -5,15 +5,6 @@ status: unread
 ---
 # purr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low vibrating sound typical of a contented cat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a soft swishing sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Back--some time,” replied Chester's voice, rising above the low purr of the engine with a note of satisfaction in it."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Catching the throbbing purr of the Imp as the car swung in at the driveway Chester jumped up."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Newark was a dead city, the diminished purr of the motor ringing curiously loud in the silent streets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low vibrating sound typical of a contented cat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a soft swishing sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Back--some time,” replied Chester's voice, rising above the low purr of the engine with a note of satisfaction in it."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Catching the throbbing purr of the Imp as the car swung in at the driveway Chester jumped up."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Newark was a dead city, the diminished purr of the motor ringing curiously loud in the silent streets."*

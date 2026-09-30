@@ -5,15 +5,6 @@ status: unread
 ---
 # enter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To come or go into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become a participant; be involved in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bertram, the Countess of Rossillon, Helena, and Lafew, all in black."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bertram, Lafew and Parolles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come or go into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become a participant; be involved in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bertram, the Countess of Rossillon, Helena, and Lafew, all in black."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bertram, Lafew and Parolles."*

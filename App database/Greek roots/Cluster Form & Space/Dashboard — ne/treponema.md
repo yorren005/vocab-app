@@ -5,13 +5,6 @@ status: unread
 ---
 # treponema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponema designates any of a genus (treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponema designates any of a genus (treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws."*

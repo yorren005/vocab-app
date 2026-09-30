@@ -5,15 +5,6 @@ status: unread
 ---
 # diabolic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the devil : extremely evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of the devil : extremely evil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we follow his orders, have no doubt that he will attain his diabolic objectives."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But both the diabolic love and the unearthly hate of the mysteries it had penetrated fought for the possession of that soul satiated with primitive emotions, avid of lying fame, of sham distinction, of all the appearances of success and power."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Now it was a herd of diabolic shapes, that grinned and mocked at the pale minister, and beckoned him away with them; now a group of shining angels, who flew upward heavily, as sorrow-laden, but grew more ethereal as they rose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the devil : extremely evil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of the devil : extremely evil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we follow his orders, have no doubt that he will attain his diabolic objectives."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But both the diabolic love and the unearthly hate of the mysteries it had penetrated fought for the possession of that soul satiated with primitive emotions, avid of lying fame, of sham distinction, of all the appearances of success and power."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Now it was a herd of diabolic shapes, that grinned and mocked at the pale minister, and beckoned him away with them; now a group of shining angels, who flew upward heavily, as sorrow-laden, but grew more ethereal as they rose."*

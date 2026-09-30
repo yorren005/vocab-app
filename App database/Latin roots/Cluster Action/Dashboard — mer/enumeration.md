@@ -5,15 +5,6 @@ status: unread
 ---
 # enumeration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A numbered list.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of counting; reciting numbers in ascending order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here this mere enumeration must be allowed to convey its own suggestion of far-reaching results for the whole political economy of the nation and of the world."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins expected the scene to inspire, and was but slightly affected by his enumeration of the windows in front of the house, and his relation of what the glazing altogether had originally cost Sir Lewis de Bourgh."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A numbered list.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of counting; reciting numbers in ascending order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here this mere enumeration must be allowed to convey its own suggestion of far-reaching results for the whole political economy of the nation and of the world."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins expected the scene to inspire, and was but slightly affected by his enumeration of the windows in front of the house, and his relation of what the glazing altogether had originally cost Sir Lewis de Bourgh."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations."*

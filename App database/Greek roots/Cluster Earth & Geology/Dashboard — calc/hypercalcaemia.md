@@ -5,13 +5,6 @@ status: unread
 ---
 # hypercalcaemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalcaemia designates the presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalcaemia designates the presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # respiration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metabolic processes whereby certain organisms obtain energy from organic molecules; processes that take place in the cells and tissues during which energy is released and carbon dioxide is produced and absorbed by the blood to be transported to the lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single complete act of breathing in and out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some scientist studied these peasants and found that during these periods of the “long sleep” respiration and digestion practically ceased, and that the heart was at so low tension as to defy detection by ordinary layman’s examination."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, if you regard him very closely, and time him with your watch, you will find that when unmolested, there is an undeviating rhyme between the periods of his jets and the ordinary periods of respiration."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I had thought well over it; but of what good was that, since the carbonic acid produced by our respiration had invaded every part of the vessel?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metabolic processes whereby certain organisms obtain energy from organic molecules; processes that take place in the cells and tissues during which energy is released and carbon dioxide is produced and absorbed by the blood to be transported to the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single complete act of breathing in and out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some scientist studied these peasants and found that during these periods of the “long sleep” respiration and digestion practically ceased, and that the heart was at so low tension as to defy detection by ordinary layman’s examination."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, if you regard him very closely, and time him with your watch, you will find that when unmolested, there is an undeviating rhyme between the periods of his jets and the ordinary periods of respiration."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I had thought well over it; but of what good was that, since the carbonic acid produced by our respiration had invaded every part of the vessel?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plagiarised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take without referencing from someone else's writing or speech; of intellectual property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copied and passed off as your own.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarised designates take without referencing from someone else's writing or speech; of intellectual property."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take without referencing from someone else's writing or speech; of intellectual property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copied and passed off as your own.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarised designates take without referencing from someone else's writing or speech; of intellectual property."*

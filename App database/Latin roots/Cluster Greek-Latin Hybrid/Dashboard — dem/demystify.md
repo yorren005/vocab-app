@@ -5,13 +5,6 @@ status: unread
 ---
 # demystify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less mysterious or remove the mystery from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less mysterious or remove the mystery from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demystify designates make less mysterious or remove the mystery from."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less mysterious or remove the mystery from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less mysterious or remove the mystery from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demystify designates make less mysterious or remove the mystery from."*

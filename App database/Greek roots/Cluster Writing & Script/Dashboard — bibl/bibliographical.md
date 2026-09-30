@@ -5,15 +5,6 @@ status: unread
 ---
 # bibliographical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or dealing with bibliography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or dealing with bibliography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"BIBLIOGRAPHICAL NOTE The literature dealing with Shelley's work and life is immense, and no attempt will be made even to summarise it here."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And this is the Bibliographical system here adopted; and it is the only one that can possibly succeed, for it alone is practicable."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And this is the Bibliographical system here adopted; and it is the only one that can possibly succeed, for it alone is practicable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or dealing with bibliography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or dealing with bibliography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"BIBLIOGRAPHICAL NOTE The literature dealing with Shelley's work and life is immense, and no attempt will be made even to summarise it here."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And this is the Bibliographical system here adopted; and it is the only one that can possibly succeed, for it alone is practicable."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And this is the Bibliographical system here adopted; and it is the only one that can possibly succeed, for it alone is practicable."*

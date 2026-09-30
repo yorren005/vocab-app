@@ -5,13 +5,6 @@ status: unread
 ---
 # plesianthropus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former name for the genus australopithecus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former name for the genus australopithecus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesianthropus designates former name for the genus australopithecus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Former name for the genus australopithecus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former name for the genus australopithecus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesianthropus designates former name for the genus australopithecus."*

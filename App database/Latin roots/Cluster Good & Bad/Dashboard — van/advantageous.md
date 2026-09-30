@@ -5,15 +5,6 @@ status: unread
 ---
 # advantageous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving an advantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate for achieving a particular end; implies a lack of concern for fairness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is everything advantageous to life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not fly; but advantageous care Withdrew me from the odds of multitude."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How shall I get you to see how advantageous it will be to you to secure her at once?” “I don’t wish to secure her in any new way.” Boldwood’s arm moved spasmodically towards Troy’s person again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving an advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate for achieving a particular end; implies a lack of concern for fairness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is everything advantageous to life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not fly; but advantageous care Withdrew me from the odds of multitude."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How shall I get you to see how advantageous it will be to you to secure her at once?” “I don’t wish to secure her in any new way.” Boldwood’s arm moved spasmodically towards Troy’s person again."*

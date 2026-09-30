@@ -5,14 +5,6 @@ status: unread
 ---
 # craniology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the skulls of various human races.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of the skulls of various human races.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I am certainly developing the wisdom of the serpent, for when Mortimer pressed his questions to an inconvenient extent I asked him casually to what type Frankland’s skull belonged, and so heard nothing but craniology for the rest of our drive."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"In a certain company, the conversation having fallen on the subject of craniology, and the organ of drunkenness being alluded to among others, a lady suggested that this must be the barrel-organ. 709."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the skulls of various human races.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of the skulls of various human races.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I am certainly developing the wisdom of the serpent, for when Mortimer pressed his questions to an inconvenient extent I asked him casually to what type Frankland’s skull belonged, and so heard nothing but craniology for the rest of our drive."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"In a certain company, the conversation having fallen on the subject of craniology, and the organ of drunkenness being alluded to among others, a lady suggested that this must be the barrel-organ. 709."*

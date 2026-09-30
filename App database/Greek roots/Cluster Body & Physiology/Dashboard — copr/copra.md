@@ -5,15 +5,6 @@ status: unread
 ---
 # copra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dried meat of the coconut from which oil is extracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried meat of the coconut from which oil is extracted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"A feast of this description often lasts from a week to ten days, during which time business is at a stand-still, as they will not work at making "copra" or anything else until the feast is over."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In the morning a number of large canoes came alongside of us with a quantity of bags of copra, which I took on board."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I jumped into one of their canoes and was soon on board, telling them at the same time that I purposed returning in a month or two, when I hoped they would have plenty of copra for me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dried meat of the coconut from which oil is extracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried meat of the coconut from which oil is extracted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"A feast of this description often lasts from a week to ten days, during which time business is at a stand-still, as they will not work at making "copra" or anything else until the feast is over."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In the morning a number of large canoes came alongside of us with a quantity of bags of copra, which I took on board."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I jumped into one of their canoes and was soon on board, telling them at the same time that I purposed returning in a month or two, when I hoped they would have plenty of copra for me."*

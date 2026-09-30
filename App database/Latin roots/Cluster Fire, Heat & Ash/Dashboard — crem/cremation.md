@@ -5,13 +5,6 @@ status: unread
 ---
 # cremation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The incineration of a dead body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The incineration of a dead body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"A reliquary, or shrine, of cupola-shape to contain remains after cremation, especially of the Buddha. _Subhūti_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The incineration of a dead body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The incineration of a dead body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"A reliquary, or shrine, of cupola-shape to contain remains after cremation, especially of the Buddha. _Subhūti_."*

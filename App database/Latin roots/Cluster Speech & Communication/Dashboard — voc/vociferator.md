@@ -5,13 +5,6 @@ status: unread
 ---
 # vociferator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud and vehement speaker (usually in protest).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud and vehement speaker (usually in protest).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vociferator designates a loud and vehement speaker (usually in protest)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud and vehement speaker (usually in protest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud and vehement speaker (usually in protest).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vociferator designates a loud and vehement speaker (usually in protest)."*

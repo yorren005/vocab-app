@@ -5,13 +5,6 @@ status: unread
 ---
 # ovarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving the ovaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving the ovaries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For over twenty years I had ovarian trouble, which was almost unbearable at times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving the ovaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving the ovaries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For over twenty years I had ovarian trouble, which was almost unbearable at times."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # proton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stable particle with positive charge equal to the negative charge of an electron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stable particle with positive charge equal to the negative charge of an electron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"As soon as you pick up anything with it, Ben will throw his switch, and whatever is at the end of it will get a dose of pure protons."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stable particle with positive charge equal to the negative charge of an electron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stable particle with positive charge equal to the negative charge of an electron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"As soon as you pick up anything with it, Ben will throw his switch, and whatever is at the end of it will get a dose of pure protons."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*

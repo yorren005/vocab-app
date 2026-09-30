@@ -5,15 +5,6 @@ status: unread
 ---
 # storey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of a room or set of rooms at a single position along a vertical scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure consisting of a room or set of rooms at a single position along a vertical scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Behind the church, and about a hundred yards to the west of the mansion-house, are the offices--stables, close boxes, coach-house, etc., all of a single storey, and built round a square paved courtyard."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"On the south side of the street, just in front of the church, stood the old schoolhouse--a low one storey building, roofed with the red tiles characteristic of the neighbourhood, and built on to the schoolmaster's two-storey dwelling."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The large front chambers I thought especially grand: and some of the third-storey rooms, though dark and low, were interesting from their air of antiquity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of a room or set of rooms at a single position along a vertical scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure consisting of a room or set of rooms at a single position along a vertical scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Behind the church, and about a hundred yards to the west of the mansion-house, are the offices--stables, close boxes, coach-house, etc., all of a single storey, and built round a square paved courtyard."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"On the south side of the street, just in front of the church, stood the old schoolhouse--a low one storey building, roofed with the red tiles characteristic of the neighbourhood, and built on to the schoolmaster's two-storey dwelling."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The large front chambers I thought especially grand: and some of the third-storey rooms, though dark and low, were interesting from their air of antiquity."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eukaryotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having cells with `good' or membrane-bound nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having cells with `good' or membrane-bound nuclei.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryotic designates having cells with `good' or membrane-bound nuclei."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having cells with `good' or membrane-bound nuclei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having cells with `good' or membrane-bound nuclei.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryotic designates having cells with `good' or membrane-bound nuclei."*

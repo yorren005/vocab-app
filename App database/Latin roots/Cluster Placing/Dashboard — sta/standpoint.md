@@ -5,15 +5,6 @@ status: unread
 ---
 # standpoint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental position from which things are viewed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental position from which things are viewed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak meditatively looked upon the horizon of circumstances without any special regard to his own standpoint in the midst."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From the standpoint of the authorities, their situation was as desperate as ours."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the standpoint of the depositor a time deposit is, by its very nature, an investment and not a demand credit available for current monetary uses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental position from which things are viewed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental position from which things are viewed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak meditatively looked upon the horizon of circumstances without any special regard to his own standpoint in the midst."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From the standpoint of the authorities, their situation was as desperate as ours."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the standpoint of the depositor a time deposit is, by its very nature, an investment and not a demand credit available for current monetary uses."*

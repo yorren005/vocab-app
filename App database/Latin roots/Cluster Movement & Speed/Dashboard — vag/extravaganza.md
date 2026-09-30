@@ -5,15 +5,6 @@ status: unread
 ---
 # extravaganza
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any lavishly staged or spectacular entertainment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any lavishly staged or spectacular entertainment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandpa had launched into his traditional and celebrated French Toast Extravaganza that began early each Thanksgiving Day morning. *** Thanksgiving is past."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these extravaganzas only show that Nantucket is no Illinois."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But these extravaganzas only show that Nantucket is no Illinois."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any lavishly staged or spectacular entertainment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any lavishly staged or spectacular entertainment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandpa had launched into his traditional and celebrated French Toast Extravaganza that began early each Thanksgiving Day morning. *** Thanksgiving is past."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these extravaganzas only show that Nantucket is no Illinois."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But these extravaganzas only show that Nantucket is no Illinois."*

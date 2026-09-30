@@ -5,13 +5,6 @@ status: unread
 ---
 # fertilization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXIV Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the rush of juices could almost be heard below the hiss of fertilization, it was impossible that the most fanciful love should not grow passionate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXIV Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the rush of juices could almost be heard below the hiss of fertilization, it was impossible that the most fanciful love should not grow passionate."*

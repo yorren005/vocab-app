@@ -5,14 +5,6 @@ status: unread
 ---
 # septennial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is it to be presumed, that at any future septennial epoch the same State will be free from parties?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin al within the domain of Food, Eating & Drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of al in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is it to be presumed, that at any future septennial epoch the same State will be free from parties?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ampleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being more than sufficient; comfortable sufficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of impressive largeness in size.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ampleness designates the property of being more than sufficient; comfortable sufficiency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being more than sufficient; comfortable sufficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of impressive largeness in size.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ampleness designates the property of being more than sufficient; comfortable sufficiency."*

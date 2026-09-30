@@ -5,15 +5,6 @@ status: unread
 ---
 # anthracite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard natural coal of high luster differing from bituminous coal in containing little volatile matter and in burning very cleanly —called also hard coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard natural coal of high luster differing from bituminous coal in containing little volatile matter and in burning very cleanly —called also hard coal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Nowhere in the United States has the principle of compulsory arbitration been adopted, but at the time of the great anthracite strike, in 1902, public sentiment grew strong in favor of it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coal mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Coal-mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard natural coal of high luster differing from bituminous coal in containing little volatile matter and in burning very cleanly —called also hard coal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard natural coal of high luster differing from bituminous coal in containing little volatile matter and in burning very cleanly —called also hard coal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Nowhere in the United States has the principle of compulsory arbitration been adopted, but at the time of the great anthracite strike, in 1902, public sentiment grew strong in favor of it."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coal mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Coal-mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*

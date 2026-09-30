@@ -5,15 +5,6 @@ status: unread
 ---
 # transcendence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being or existence above and beyond the limits of material experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of excelling or surpassing or going beyond usual limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And debile minister, great power, great transcendence, which should indeed give us a further use to be made than alone the recov’ry of the king, as to be— LAFEW."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Once accepted, it "solved all questions in the earth and out of it." It permitted the congenial idea of Greek theology to remain--the transcendence of God being saved by this personification of his Thought."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This feeling and a desire to keep the idea of God disentangled from every limitation led to men falling back (as we saw in the case of Plutarch) on the Platonic conception of God's transcendence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being or existence above and beyond the limits of material experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of excelling or surpassing or going beyond usual limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And debile minister, great power, great transcendence, which should indeed give us a further use to be made than alone the recov’ry of the king, as to be— LAFEW."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Once accepted, it "solved all questions in the earth and out of it." It permitted the congenial idea of Greek theology to remain--the transcendence of God being saved by this personification of his Thought."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This feeling and a desire to keep the idea of God disentangled from every limitation led to men falling back (as we saw in the case of Plutarch) on the Platonic conception of God's transcendence."*

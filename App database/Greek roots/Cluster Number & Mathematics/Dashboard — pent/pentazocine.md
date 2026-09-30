@@ -5,13 +5,6 @@ status: unread
 ---
 # pentazocine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Analgesic drug (trade name talwin) that is less addictive than morphine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analgesic drug (trade name talwin) that is less addictive than morphine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentazocine designates analgesic drug (trade name talwin) that is less addictive than morphine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Analgesic drug (trade name talwin) that is less addictive than morphine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analgesic drug (trade name talwin) that is less addictive than morphine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentazocine designates analgesic drug (trade name talwin) that is less addictive than morphine."*

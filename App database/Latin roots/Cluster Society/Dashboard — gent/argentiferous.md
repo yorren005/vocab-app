@@ -5,13 +5,6 @@ status: unread
 ---
 # argentiferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or yielding silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or yielding silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentiferous designates containing or yielding silver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or yielding silver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or yielding silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentiferous designates containing or yielding silver."*

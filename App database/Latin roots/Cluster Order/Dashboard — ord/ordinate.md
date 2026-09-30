@@ -5,15 +5,6 @@ status: unread
 ---
 # ordinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The value of a coordinate on the vertical axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To argue upon abstract principles that this co-ordinate authority cannot exist, is to set up supposition and theory against fact and reality."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And according to one, this mode of appointment is extended to one of the co-ordinate branches of the legislature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The value of a coordinate on the vertical axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To argue upon abstract principles that this co-ordinate authority cannot exist, is to set up supposition and theory against fact and reality."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And according to one, this mode of appointment is extended to one of the co-ordinate branches of the legislature."*

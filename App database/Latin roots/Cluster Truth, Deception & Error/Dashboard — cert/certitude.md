@@ -5,15 +5,6 @@ status: unread
 ---
 # certitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total certainty or greater certainty than circumstances warrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total certainty or greater certainty than circumstances warrant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Raffles’ slow wink and slight protrusion of his tongue was worse than a nightmare, because it held the certitude that it was not a nightmare, but a waking misery."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Through faith and certitude, and the precedence achieved by one over another, however, the dweller conferreth honor upon the dwelling, some of the countries achieve distinction, and attain a preeminent position."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"On the spot there came to me the added shock of a certitude that it was not for me he had come there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total certainty or greater certainty than circumstances warrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total certainty or greater certainty than circumstances warrant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Raffles’ slow wink and slight protrusion of his tongue was worse than a nightmare, because it held the certitude that it was not a nightmare, but a waking misery."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Through faith and certitude, and the precedence achieved by one over another, however, the dweller conferreth honor upon the dwelling, some of the countries achieve distinction, and attain a preeminent position."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"On the spot there came to me the added shock of a certitude that it was not for me he had come there."*

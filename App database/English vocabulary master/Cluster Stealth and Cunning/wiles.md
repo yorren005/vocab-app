@@ -5,20 +5,6 @@ status: unread
 ---
 # wiles
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Skill in outwitting : trickery, guile
-> 2. **Nuance / Usage**: Lure by or as if by a magic spell : entice
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wiles withstood the storm*), direct object (*cleaved the wiles*), or prepositional anchor (*amidst the wiles*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Sure, these are but imaginary wiles, And Lapland sorcerers inhabit here."*
-> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Upon my back, to defend my belly; upon my wit, to defend my wiles; upon my secrecy, to defend mine honesty."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My Nanie’s charming, sweet, an’ young; Nae artfu’ wiles to win ye, O: May ill befa’ the flattering tongue That wad beguile my Nanie, O."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Devious, alluring, or manipulative stratagems and tricks designed to entice, persuade, or outwit someone into doing what one wants.
+> 2. **Nuance / Usage**: Almost always used in the plural (*wiles*), it blends the notions of seductive charm and calculated trickery, suggesting persuasion through artful fascination rather than coercion.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (plural; singular *wile*).
+> - **Syntactic Constructions**: Functions in prepositional and possessive constructions (*practiced her wiles*, *immune to his wiles*).
+> - **Collocations & Registers**: Literary and psychological registers; collocated with *artful*, *feminine*, *subtle*, *serpent's*, and *beguiling*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Sure, these are but imaginary **wiles**, and Lapland sorcerers inhabit here."*
+> - 📜 **Robert Burns (*My Nanie, O*):** *"My Nanie’s charming, sweet, an’ young; nae artfu’ **wiles** to win ye, O."*
+> - 📜 **Daniel Defoe (*Moll Flanders*):** *"He used a thousand **wiles** to draw the secret of my fortune from my lips."*

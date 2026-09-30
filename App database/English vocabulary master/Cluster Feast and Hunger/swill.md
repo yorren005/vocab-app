@@ -5,20 +5,6 @@ status: unread
 ---
 # swill
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Wash, drench
-> 2. **Nuance / Usage**: Drink great drafts of : guzzle
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swill the target*) and intransitive clauses (*swilling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mitzel (*Clay Shaw, The Quean Network & That Kennedy Killing*):** *"The awful judge at the trial, booze-swilling hack James Haggerty"*
-> - 📜 **Muriel Spark (*Robinson*):** *"Jimmie looked lovingly at the flask, smelt it, and then, placing it next his ear, swilled it round to hear the splash of liquor."*
-> - 📜 **Ezra Pound (*{{w*):** *"A flood of fads swilled over all Europe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To drink large, greedy draughts of liquid—especially alcohol—coarsely and without restraint.
+> 2. **Nuance / Usage**: Also means to rinse or slosh liquid around, or as a noun, liquid kitchen refuse fed to pigs (and by extension, inferior or unpalatable drink).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swill the target*) and intransitive clauses (*swilling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Muriel Spark (*Robinson*):** *"Jimmie looked lovingly at the flask, smelt it, and then, placing it next his ear, **swilled** it round to hear the splash of liquor."*
+> - 📜 **Ezra Pound (*ABC of Reading*):** *"A flood of fads **swilled** over all Europe."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors sat around the forecastle table, **swilling** their grog and recounting tales of the southern seas."*

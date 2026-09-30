@@ -5,14 +5,6 @@ status: unread
 ---
 # caltha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of caltha.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of caltha.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The other children adorned themselves as best they could with the yellow flowers of the trollius and caltha."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MARSH-MARIGOLD CLUSTER-CUPS; aggregate; peridia somewhat campanulate, with numerous minute marginal teeth; spores bright orange, subglobose or oval.—On leaves and petioles of _Caltha palustris_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of caltha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of caltha.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The other children adorned themselves as best they could with the yellow flowers of the trollius and caltha."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MARSH-MARIGOLD CLUSTER-CUPS; aggregate; peridia somewhat campanulate, with numerous minute marginal teeth; spores bright orange, subglobose or oval.—On leaves and petioles of _Caltha palustris_."*

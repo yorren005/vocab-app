@@ -5,13 +5,6 @@ status: unread
 ---
 # delusory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to believe what is not true or fail to believe what is true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing one to believe what is not true or fail to believe what is true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delusory designates causing one to believe what is not true or fail to believe what is true."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to believe what is not true or fail to believe what is true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing one to believe what is not true or fail to believe what is true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delusory designates causing one to believe what is not true or fail to believe what is true."*

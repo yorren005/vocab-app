@@ -5,13 +5,6 @@ status: unread
 ---
 # dichotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into two especially mutually exclusive or contradictory groups or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differentiation into two contrasted or sharply opposed groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichotomy designates division into two especially mutually exclusive or contradictory groups or parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into two especially mutually exclusive or contradictory groups or parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differentiation into two contrasted or sharply opposed groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichotomy designates division into two especially mutually exclusive or contradictory groups or parts."*

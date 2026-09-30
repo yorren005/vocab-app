@@ -5,13 +5,6 @@ status: unread
 ---
 # ardisia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ardisia designates tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ardisia designates tropical evergreen subshrubs (some climbers) to trees of asia and australasia to americas."*

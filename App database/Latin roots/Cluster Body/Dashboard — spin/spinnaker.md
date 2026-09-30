@@ -5,13 +5,6 @@ status: unread
 ---
 # spinnaker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and usually triangular headsail; carried by a yacht as a headsail when running before the wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and usually triangular headsail; carried by a yacht as a headsail when running before the wind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The milkwhite dolphin tossed his mane and, rising in the golden poop the helmsman spread the bellying sail upon the wind and stood off forward with all sail set, the spinnaker to larboard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and usually triangular headsail; carried by a yacht as a headsail when running before the wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and usually triangular headsail; carried by a yacht as a headsail when running before the wind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The milkwhite dolphin tossed his mane and, rising in the golden poop the helmsman spread the bellying sail upon the wind and stood off forward with all sail set, the spinnaker to larboard."*

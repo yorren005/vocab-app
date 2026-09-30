@@ -5,15 +5,6 @@ status: unread
 ---
 # imploring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call upon in supplication; entreat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Begging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More will I do; Though all that I can do is nothing worth, Since that my penitence comes after all, Imploring pardon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Flying Dutchman, with a crew of ghostly clients imploring all whom they may encounter to peruse their papers, has drifted, for the time being, heaven knows where."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket in an impressive, almost in an imploring, tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call upon in supplication; entreat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Begging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More will I do; Though all that I can do is nothing worth, Since that my penitence comes after all, Imploring pardon."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Flying Dutchman, with a crew of ghostly clients imploring all whom they may encounter to peruse their papers, has drifted, for the time being, heaven knows where."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket in an impressive, almost in an imploring, tone."*

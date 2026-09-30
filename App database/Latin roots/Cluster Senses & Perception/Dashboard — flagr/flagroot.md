@@ -5,13 +5,6 @@ status: unread
 ---
 # flagroot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial marsh plant having swordlike leaves and aromatic roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial marsh plant having swordlike leaves and aromatic roots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flagroot designates perennial marsh plant having swordlike leaves and aromatic roots."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial marsh plant having swordlike leaves and aromatic roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial marsh plant having swordlike leaves and aromatic roots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flagroot designates perennial marsh plant having swordlike leaves and aromatic roots."*

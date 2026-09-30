@@ -5,13 +5,6 @@ status: unread
 ---
 # arthralgia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in one or more joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in one or more joints.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthralgia designates pain in one or more joints."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in one or more joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in one or more joints.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthralgia designates pain in one or more joints."*

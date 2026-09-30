@@ -5,14 +5,6 @@ status: unread
 ---
 # rameau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer of operas whose writings laid the foundation for the modern theory of harmony (1683-1764).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French composer of operas whose writings laid the foundation for the modern theory of harmony (1683-1764).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That I, the daughter of Prince Nicholas Bolkónski, asked General Rameau for protection and accepted his favor!” This idea horrified her, made her shudder, blush, and feel such a rush of anger and pride as she had never experienced before."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They, the French, would settle in this house: M. le Général Rameau would occupy Prince Andrew’s study and amuse himself by looking through and reading his letters and papers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer of operas whose writings laid the foundation for the modern theory of harmony (1683-1764).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French composer of operas whose writings laid the foundation for the modern theory of harmony (1683-1764).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That I, the daughter of Prince Nicholas Bolkónski, asked General Rameau for protection and accepted his favor!” This idea horrified her, made her shudder, blush, and feel such a rush of anger and pride as she had never experienced before."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They, the French, would settle in this house: M. le Général Rameau would occupy Prince Andrew’s study and amuse himself by looking through and reading his letters and papers."*

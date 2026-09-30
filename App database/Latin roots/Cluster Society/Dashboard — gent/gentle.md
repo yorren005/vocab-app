@@ -5,15 +5,6 @@ status: unread
 ---
 # gentle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a title to someone; make someone a member of the nobility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle thou art, and therefore to be won, Beauteous thou art, therefore to be assailed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a title to someone; make someone a member of the nobility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle thou art, and therefore to be won, Beauteous thou art, therefore to be assailed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*

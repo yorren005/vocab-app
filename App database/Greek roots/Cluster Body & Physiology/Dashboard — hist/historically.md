@@ -5,15 +5,6 @@ status: unread
 ---
 # historically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Son of Man, historically, has again and again found the lost--the lost gifts, the lost faculties, the lost charms and graces--and given them back to the man whom he had also found and brought home to God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But religions have, historically, a wonderful way of living in spite of their weaknesses--yes, and in spite of their apologetics."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He led them, historically, into what was, in truth, a new world, into a new understanding of life in all its relations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Son of Man, historically, has again and again found the lost--the lost gifts, the lost faculties, the lost charms and graces--and given them back to the man whom he had also found and brought home to God."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"But religions have, historically, a wonderful way of living in spite of their weaknesses--yes, and in spite of their apologetics."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He led them, historically, into what was, in truth, a new world, into a new understanding of life in all its relations."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rammer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool for driving something with force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tool for driving something with force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Above that it is quite safe to fill the hole with earth, ramming it in with a wooden rammer."*
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"Dr. _Tadloe_, who was a very fat Man, happening to go thump, thump, with his great Legs, thro' a Street, in _Oxford_, where some Paviers had been at Work, in the Midst of _July_, the Fellows immediately laid down their Rammers, Ah!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Sadler, who was a very fat man, happening to go thump, thump, through a street in Oxford, where the paviours were at work, in the midst of July, the fellows immediately laid down their rammers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool for driving something with force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tool for driving something with force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Above that it is quite safe to fill the hole with earth, ramming it in with a wooden rammer."*
+> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"Dr. _Tadloe_, who was a very fat Man, happening to go thump, thump, with his great Legs, thro' a Street, in _Oxford_, where some Paviers had been at Work, in the Midst of _July_, the Fellows immediately laid down their Rammers, Ah!"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Sadler, who was a very fat man, happening to go thump, thump, through a street in Oxford, where the paviours were at work, in the midst of July, the fellows immediately laid down their rammers."*

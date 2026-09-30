@@ -5,15 +5,6 @@ status: unread
 ---
 # funded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or store up in a fund for accumulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assessment companies now get 10 per cent of their total incomes from their funded investments, as against 24 per cent for the old-line companies."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The income is "funded" because it corresponds to an abiding fund of wealth."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The idea of regularity connected with funded income is not essential to the idea of income in general, _i.e._, we cannot refuse to call a thing income because it occurs only this year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or store up in a fund for accumulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assessment companies now get 10 per cent of their total incomes from their funded investments, as against 24 per cent for the old-line companies."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The income is "funded" because it corresponds to an abiding fund of wealth."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The idea of regularity connected with funded income is not essential to the idea of income in general, _i.e._, we cannot refuse to call a thing income because it occurs only this year."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # thereafter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From that time on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From that time on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thereafter as they be; a score of good ewes may be worth ten pounds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The bell at the inner door in the passage immediately thereafter tinkling, she is admonished by Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An immeasurable social chasm was to divide our heroine’s personality thereafter from that previous self of hers who stepped from her mother’s door to try her fortune at Trantridge poultry-farm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From that time on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From that time on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thereafter as they be; a score of good ewes may be worth ten pounds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The bell at the inner door in the passage immediately thereafter tinkling, she is admonished by Mrs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An immeasurable social chasm was to divide our heroine’s personality thereafter from that previous self of hers who stepped from her mother’s door to try her fortune at Trantridge poultry-farm."*

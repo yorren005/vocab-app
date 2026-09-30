@@ -5,13 +5,6 @@ status: unread
 ---
 # tenebrionid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenebrionid designates sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenebrionid designates sluggish hard-bodied black terrestrial weevil whose larvae feed on e.g. decaying plant material or grain."*

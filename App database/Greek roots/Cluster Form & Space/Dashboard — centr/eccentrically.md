@@ -5,14 +5,6 @@ status: unread
 ---
 # eccentrically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eccentric or bizarre manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not symmetrically with respect to the center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers’s room was lighted by a skylight only, and was a most dismal place; the skylight, eccentrically pitched like a broken head, and the distorted adjoining houses looking as if they had twisted themselves to peep down at me through it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eccentric or bizarre manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not symmetrically with respect to the center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers’s room was lighted by a skylight only, and was a most dismal place; the skylight, eccentrically pitched like a broken head, and the distorted adjoining houses looking as if they had twisted themselves to peep down at me through it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # polypore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basidiomycetous fungus (as of the genera Ganoderma, Laetiporus, Polyporus, and Trametes) that has the spore-bearing surface within tubes or pores located on the underside of a usually tough or woody fruiting body and that is found chiefly on trees or decaying wood : pore fungus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chicken of the woods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypore designates a basidiomycetous fungus (as of the genera ganoderma, laetiporus, polyporus, and trametes) that has the spore-bearing surface within tubes or pores located on the underside of a usually tough or woody fruiting body and that is found chiefly on trees or decaying wood : pore fungus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basidiomycetous fungus (as of the genera Ganoderma, Laetiporus, Polyporus, and Trametes) that has the spore-bearing surface within tubes or pores located on the underside of a usually tough or woody fruiting body and that is found chiefly on trees or decaying wood : pore fungus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chicken of the woods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypore designates a basidiomycetous fungus (as of the genera ganoderma, laetiporus, polyporus, and trametes) that has the spore-bearing surface within tubes or pores located on the underside of a usually tough or woody fruiting body and that is found chiefly on trees or decaying wood : pore fungus."*

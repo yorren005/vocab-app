@@ -5,13 +5,6 @@ status: unread
 ---
 # emeritus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professor or minister who is retired from assigned duties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorably retired from assigned duties and retaining your title along with the additional title `emeritus' as in `professor emeritus'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emeritus designates a professor or minister who is retired from assigned duties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professor or minister who is retired from assigned duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorably retired from assigned duties and retaining your title along with the additional title `emeritus' as in `professor emeritus'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emeritus designates a professor or minister who is retired from assigned duties."*

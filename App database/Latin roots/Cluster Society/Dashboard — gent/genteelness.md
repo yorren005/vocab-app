@@ -5,13 +5,6 @@ status: unread
 ---
 # genteelness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of fineness of manner and expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of fineness of manner and expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genteelness designates elegance by virtue of fineness of manner and expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of fineness of manner and expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of fineness of manner and expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genteelness designates elegance by virtue of fineness of manner and expression."*

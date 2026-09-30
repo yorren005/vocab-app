@@ -5,13 +5,6 @@ status: unread
 ---
 # heterostracan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterostracan designates extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterostracan designates extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian."*

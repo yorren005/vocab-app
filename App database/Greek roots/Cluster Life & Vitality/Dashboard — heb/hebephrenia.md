@@ -5,13 +5,6 @@ status: unread
 ---
 # hebephrenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebephrenia designates a form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebephrenia designates a form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly."*

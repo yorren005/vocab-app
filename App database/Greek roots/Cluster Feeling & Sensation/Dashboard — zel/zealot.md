@@ -5,15 +5,6 @@ status: unread
 ---
 # zealot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zealous person; especially : a fanatical partisan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a fanatical sect arising in Judea during the first century a.d. and militantly opposing the Roman domination of Palestine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And for a procurator to punish a zealot caught red-handed was to raise a riot or an insurrection."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan Warthell, a Negro in the South, has seen fit to publicly disapprove of a portion of the party's policy, whereupon a Negro Republican zealot has sought to take his life."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Do with me as thou wilt, but let Edith go untouched!" "Not so," replied the immitigable zealot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zealous person; especially : a fanatical partisan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a fanatical sect arising in Judea during the first century a.d. and militantly opposing the Roman domination of Palestine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And for a procurator to punish a zealot caught red-handed was to raise a riot or an insurrection."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan Warthell, a Negro in the South, has seen fit to publicly disapprove of a portion of the party's policy, whereupon a Negro Republican zealot has sought to take his life."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Do with me as thou wilt, but let Edith go untouched!" "Not so," replied the immitigable zealot."*

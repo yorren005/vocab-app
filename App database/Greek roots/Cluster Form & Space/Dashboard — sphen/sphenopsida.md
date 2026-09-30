@@ -5,13 +5,6 @@ status: unread
 ---
 # sphenopsida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horsetails and related forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horsetails and related forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenopsida designates horsetails and related forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Horsetails and related forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horsetails and related forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenopsida designates horsetails and related forms."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # demote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign to a lower position; reduce in rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demote designates assign to a lower position; reduce in rank."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign to a lower position; reduce in rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demote designates assign to a lower position; reduce in rank."*

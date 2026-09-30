@@ -5,15 +5,6 @@ status: unread
 ---
 # selection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of choosing or selecting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assortment of things from which a choice can be made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the first place, to discover a sufficiently eligible practitioner; and as soon as we make our want—and shall I add, our ability to pay a premium?—known, our only difficulty will be in the selection of one from a large number."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had made a toilet of a nicely-adjusted kind—of a nature between the carefully neat and the carelessly ornate—of a degree between fine-market-day and wet-Sunday selection."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The peeling of the former, and the selection of the latter, had been an operation of personal care."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of choosing or selecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assortment of things from which a choice can be made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the first place, to discover a sufficiently eligible practitioner; and as soon as we make our want—and shall I add, our ability to pay a premium?—known, our only difficulty will be in the selection of one from a large number."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had made a toilet of a nicely-adjusted kind—of a nature between the carefully neat and the carelessly ornate—of a degree between fine-market-day and wet-Sunday selection."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The peeling of the former, and the selection of the latter, had been an operation of personal care."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # saxony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in germany around the upper elbe river; the original home of the saxons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in germany around the upper elbe river; the original home of the saxons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How like you the young German, the Duke of Saxony’s nephew?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For instance, in Saxony and Thuringia any one who labours under a physical blemish can easily rid himself of it by transferring it to the witches on Walpurgis Night."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, mussels of certain waters in Scotland, Wales, Ireland, Saxony, Bohemia, and France.” “Good!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in germany around the upper elbe river; the original home of the saxons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in germany around the upper elbe river; the original home of the saxons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How like you the young German, the Duke of Saxony’s nephew?"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For instance, in Saxony and Thuringia any one who labours under a physical blemish can easily rid himself of it by transferring it to the witches on Walpurgis Night."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, mussels of certain waters in Scotland, Wales, Ireland, Saxony, Bohemia, and France.” “Good!"*

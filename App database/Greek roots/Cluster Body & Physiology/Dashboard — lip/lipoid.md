@@ -5,13 +5,6 @@ status: unread
 ---
 # lipoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipoid designates an oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipoid designates an oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates)."*

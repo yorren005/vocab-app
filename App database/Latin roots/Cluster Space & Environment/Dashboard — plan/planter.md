@@ -5,15 +5,6 @@ status: unread
 ---
 # planter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The owner or manager of a plantation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who puts or sets seeds or seedlings into the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mason, a West India planter and merchant, was his old acquaintance."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My uncle Elias emigrated to America when he was a young man and became a planter in Florida, where he was reported to have done very well."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At one small station a man who might have been a planter got in, followed by an attractive-looking Annamese woman carrying a little child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The owner or manager of a plantation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who puts or sets seeds or seedlings into the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mason, a West India planter and merchant, was his old acquaintance."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My uncle Elias emigrated to America when he was a young man and became a planter in Florida, where he was reported to have done very well."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At one small station a man who might have been a planter got in, followed by an attractive-looking Annamese woman carrying a little child."*

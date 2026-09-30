@@ -5,13 +5,6 @@ status: unread
 ---
 # valuelessness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having none of the properties that endow something with value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having none of the properties that endow something with value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valuelessness designates having none of the properties that endow something with value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having none of the properties that endow something with value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having none of the properties that endow something with value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valuelessness designates having none of the properties that endow something with value."*

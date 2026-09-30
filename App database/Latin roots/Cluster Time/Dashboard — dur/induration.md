@@ -5,13 +5,6 @@ status: unread
 ---
 # induration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any pathological hardening or thickening of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any pathological hardening or thickening of tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Tongans were subject to induration of the liver and certain forms of scrofula, which they often attributed to a failure to perform the requisite expiation after having inadvertently touched a chief or his belongings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any pathological hardening or thickening of tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any pathological hardening or thickening of tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Tongans were subject to induration of the liver and certain forms of scrofula, which they often attributed to a failure to perform the requisite expiation after having inadvertently touched a chief or his belongings."*

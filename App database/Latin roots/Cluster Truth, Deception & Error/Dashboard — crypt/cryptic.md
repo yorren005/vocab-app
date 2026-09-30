@@ -5,15 +5,6 @@ status: unread
 ---
 # cryptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an obscure nature; ; ; ; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a secret or hidden meaning; ; ; - john gunther.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus' answer is a little cryptic at first sight."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Yours very truly." As he gazed in astonishment at this cryptic collection of words it was erased and its place was taken by a picture which he recognized as a likeness of himself in his present metallic state."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I can manage James A. if that bird is out of the way.” With which cryptic utterance she went joyfully on her way and Anne flew to the kitchen door to meet Marilla."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an obscure nature; ; ; ; - rachel carson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a secret or hidden meaning; ; ; - john gunther.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus' answer is a little cryptic at first sight."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Yours very truly." As he gazed in astonishment at this cryptic collection of words it was erased and its place was taken by a picture which he recognized as a likeness of himself in his present metallic state."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I can manage James A. if that bird is out of the way.” With which cryptic utterance she went joyfully on her way and Anne flew to the kitchen door to meet Marilla."*

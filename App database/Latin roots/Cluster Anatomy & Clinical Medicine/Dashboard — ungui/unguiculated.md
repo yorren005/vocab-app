@@ -5,13 +5,6 @@ status: unread
 ---
 # unguiculated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or resembling claws or nails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling claws or nails.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguiculated designates having or resembling claws or nails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or resembling claws or nails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling claws or nails.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguiculated designates having or resembling claws or nails."*

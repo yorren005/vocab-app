@@ -5,15 +5,6 @@ status: unread
 ---
 # persistently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a persistent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With persistence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In arguing on prices, she held to her own firmly, as was natural in a dealer, and reduced theirs persistently, as was inevitable in a woman."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Don’t be such a dissembler!” The sergeant retreated to avoid receiving back his gift, which she held out persistently towards him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But as Oak was not only provokingly indifferent to public opinion, but a man who clung persistently to old habits and usages, simply because they were old, there was room for doubt as to his motives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a persistent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With persistence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In arguing on prices, she held to her own firmly, as was natural in a dealer, and reduced theirs persistently, as was inevitable in a woman."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Don’t be such a dissembler!” The sergeant retreated to avoid receiving back his gift, which she held out persistently towards him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But as Oak was not only provokingly indifferent to public opinion, but a man who clung persistently to old habits and usages, simply because they were old, there was room for doubt as to his motives."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # homing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with, or send to, a home.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return home accurately from a long distance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Lindsay Gordon._) Well, Douglas, I'm sorry you've got to be homing, Though I grant it's unwise to continue your roaming, But the evening's to spare ere you drop me astern, So come up to my room and indulge in a yarn."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If she had been defending a homing dove, she could not have been more outraged, more aflame."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Who am I that I should question your wisdom?” and, turning his horse’s head, he rode forward across the gloomy veldt as certainly as a homing rock-dove wings its flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with, or send to, a home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return home accurately from a long distance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Lindsay Gordon._) Well, Douglas, I'm sorry you've got to be homing, Though I grant it's unwise to continue your roaming, But the evening's to spare ere you drop me astern, So come up to my room and indulge in a yarn."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If she had been defending a homing dove, she could not have been more outraged, more aflame."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Who am I that I should question your wisdom?” and, turning his horse’s head, he rode forward across the gloomy veldt as certainly as a homing rock-dove wings its flight."*

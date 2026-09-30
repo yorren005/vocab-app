@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnosporangium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi that produce galls on cedars and other conifers of genera juniperus and libocedrus and causes rust spots on apples and pears and other plants of family rosaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi that produce galls on cedars and other conifers of genera juniperus and libocedrus and causes rust spots on apples and pears and other plants of family rosaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Spores uniseptate. =Gymnosporangium Juniperi=, Lk.; forming a soft gelatinous, irregular, orange mass; spores ovate or subelliptic, filled with subglobose granules.—On living twigs of _Juniperus communis_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi that produce galls on cedars and other conifers of genera juniperus and libocedrus and causes rust spots on apples and pears and other plants of family rosaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi that produce galls on cedars and other conifers of genera juniperus and libocedrus and causes rust spots on apples and pears and other plants of family rosaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Spores uniseptate. =Gymnosporangium Juniperi=, Lk.; forming a soft gelatinous, irregular, orange mass; spores ovate or subelliptic, filled with subglobose granules.—On living twigs of _Juniperus communis_."*

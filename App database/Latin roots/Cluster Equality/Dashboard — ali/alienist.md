@@ -5,14 +5,6 @@ status: unread
 ---
 # alienist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatrist and specialist in the legal aspects of mental illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychiatrist and specialist in the legal aspects of mental illness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Don't talk to me as if you were an alienist trying to examine an abstruse case, Evelina," he growled, with extreme temper."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I don't have to have your consent but I think it is courteous to ask for it." "What!" he exclaimed, as he sat up and looked at me with the expression an alienist might use in an important examination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatrist and specialist in the legal aspects of mental illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychiatrist and specialist in the legal aspects of mental illness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Don't talk to me as if you were an alienist trying to examine an abstruse case, Evelina," he growled, with extreme temper."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I don't have to have your consent but I think it is courteous to ask for it." "What!" he exclaimed, as he sat up and looked at me with the expression an alienist might use in an important examination."*

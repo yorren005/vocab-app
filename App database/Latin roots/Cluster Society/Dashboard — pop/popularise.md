@@ -5,13 +5,6 @@ status: unread
 ---
 # popularise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make understandable to the general public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"In 1793 the number suddenly goes up to sixty-six: the increase is due to the heartiness with which he took up the scheme of George Thomson to popularise and perpetuate the best old Scottish airs by fitting them with words worthy of their merits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make understandable to the general public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"In 1793 the number suddenly goes up to sixty-six: the increase is due to the heartiness with which he took up the scheme of George Thomson to popularise and perpetuate the best old Scottish airs by fitting them with words worthy of their merits."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # microcephaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephaly designates a condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephaly designates a condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures."*

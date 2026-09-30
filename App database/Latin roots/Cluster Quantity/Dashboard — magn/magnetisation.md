@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent or degree to which something is magnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process that makes a substance magnetic (temporarily or permanently).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetisation designates the extent or degree to which something is magnetized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent or degree to which something is magnetized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process that makes a substance magnetic (temporarily or permanently).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetisation designates the extent or degree to which something is magnetized."*

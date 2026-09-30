@@ -5,14 +5,6 @@ status: unread
 ---
 # calibrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fine adjustments or divide into marked intervals for optimal measuring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark (the scale of a measuring instrument) so that it can be read in the desired units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once the weapons are assembled, installed and calibrated we could be on the receiving end of more nastiness." Leaning forward over the table, he looked directly at the President."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The instruments can be so calibrated that it is quite easy to make the alteration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fine adjustments or divide into marked intervals for optimal measuring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark (the scale of a measuring instrument) so that it can be read in the desired units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once the weapons are assembled, installed and calibrated we could be on the receiving end of more nastiness." Leaning forward over the table, he looked directly at the President."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The instruments can be so calibrated that it is quite easy to make the alteration."*

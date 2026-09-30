@@ -5,15 +5,6 @@ status: unread
 ---
 # sanitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being clean and conducive to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something sanitary (free of germs) as by sterilizing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Better conditions of safety and sanitation in their work were not the first thought of laborers when they organized."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the modern, more enlightened, labor movement has better ideals and policies in respect to the safety, sanitation, and decency of the working places."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They had been erected with no thought of sanitation, safety, and decency for the workers. § 2. #Improvement of factory conditions#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being clean and conducive to health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something sanitary (free of germs) as by sterilizing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Better conditions of safety and sanitation in their work were not the first thought of laborers when they organized."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the modern, more enlightened, labor movement has better ideals and policies in respect to the safety, sanitation, and decency of the working places."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They had been erected with no thought of sanitation, safety, and decency for the workers. § 2. #Improvement of factory conditions#."*

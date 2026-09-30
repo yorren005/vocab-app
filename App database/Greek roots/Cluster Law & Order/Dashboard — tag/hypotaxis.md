@@ -5,13 +5,6 @@ status: unread
 ---
 # hypotaxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Syntactic subordination (as by a conjunction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Syntactic subordination (as by a conjunction).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotaxis designates syntactic subordination (as by a conjunction)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Syntactic subordination (as by a conjunction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Syntactic subordination (as by a conjunction).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotaxis designates syntactic subordination (as by a conjunction)."*

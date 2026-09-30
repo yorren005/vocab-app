@@ -5,15 +5,6 @@ status: unread
 ---
 # falconer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who breeds and trains hawks and who follows the sport of falconry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who breeds and trains hawks and who follows the sport of falconry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O for a falconer’s voice To lure this tassel-gentle back again."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The ravening hawk pursuing, The trembling dove thus flies, To shun impelling ruin, Awhile her pinions tries; Till, of escape despairing, No shelter or retreat, She trusts the ruthless Falconer, And drops beneath his feet."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Agatha's nunnery, And the firs at "The Ferngrove" fled on the right, And "Falconer's Tower" on the left took flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who breeds and trains hawks and who follows the sport of falconry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who breeds and trains hawks and who follows the sport of falconry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O for a falconer’s voice To lure this tassel-gentle back again."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The ravening hawk pursuing, The trembling dove thus flies, To shun impelling ruin, Awhile her pinions tries; Till, of escape despairing, No shelter or retreat, She trusts the ruthless Falconer, And drops beneath his feet."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Agatha's nunnery, And the firs at "The Ferngrove" fled on the right, And "Falconer's Tower" on the left took flight."*

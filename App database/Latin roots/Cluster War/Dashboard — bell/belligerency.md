@@ -5,13 +5,6 @@ status: unread
 ---
 # belligerency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or warlike attitude or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fighting; acts of overt warfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belligerency designates hostile or warlike attitude or nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or warlike attitude or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fighting; acts of overt warfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belligerency designates hostile or warlike attitude or nature."*

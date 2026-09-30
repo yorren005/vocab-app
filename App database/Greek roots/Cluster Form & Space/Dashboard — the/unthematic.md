@@ -5,13 +5,6 @@ status: unread
 ---
 # unthematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to a melodic subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not relating to a melodic subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unthematic designates not relating to a melodic subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to a melodic subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not relating to a melodic subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unthematic designates not relating to a melodic subject."*

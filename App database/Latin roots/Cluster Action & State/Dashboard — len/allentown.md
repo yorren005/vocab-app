@@ -5,13 +5,6 @@ status: unread
 ---
 # allentown
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in eastern pennsylvania; an industrial and commercial center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in eastern pennsylvania; an industrial and commercial center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"These words are being written in the city of Allentown, Pa., where the writer is spending ten days in a series of Pentecostal services."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in eastern pennsylvania; an industrial and commercial center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in eastern pennsylvania; an industrial and commercial center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"These words are being written in the city of Allentown, Pa., where the writer is spending ten days in a series of Pentecostal services."*

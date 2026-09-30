@@ -5,15 +5,6 @@ status: unread
 ---
 # armadillo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burrowing chiefly nocturnal mammal with body covered with strong horny plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burrowing chiefly nocturnal mammal with body covered with strong horny plates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These fishes, like the tortoise, the armadillo, the sea-hedgehog, and the Crustacea, are protected by a breastplate which is neither chalky nor stony, but real bone."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Come on as quiet as you can.” We got on to our stomachs and wriggled along like a couple of alligators, though I will say Mark looked more like an armadillo."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The Island of Huge Ants was one, and wee Shane had seen in his geography book pictures of armadillos, and he shrewdly surmised that Maeldun had been to South America."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Burrowing chiefly nocturnal mammal with body covered with strong horny plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burrowing chiefly nocturnal mammal with body covered with strong horny plates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These fishes, like the tortoise, the armadillo, the sea-hedgehog, and the Crustacea, are protected by a breastplate which is neither chalky nor stony, but real bone."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Come on as quiet as you can.” We got on to our stomachs and wriggled along like a couple of alligators, though I will say Mark looked more like an armadillo."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The Island of Huge Ants was one, and wee Shane had seen in his geography book pictures of armadillos, and he shrewdly surmised that Maeldun had been to South America."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # poliovirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The virus causing poliomyelitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The virus causing poliomyelitis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliovirus designates the virus causing poliomyelitis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The virus causing poliomyelitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The virus causing poliomyelitis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliovirus designates the virus causing poliomyelitis."*

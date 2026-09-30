@@ -5,13 +5,6 @@ status: unread
 ---
 # plectania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi in the family pezizaceae closely related to and often included in genus peziza.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi in the family pezizaceae closely related to and often included in genus peziza.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectania designates genus of fungi in the family pezizaceae closely related to and often included in genus peziza."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi in the family pezizaceae closely related to and often included in genus peziza.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi in the family pezizaceae closely related to and often included in genus peziza.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectania designates genus of fungi in the family pezizaceae closely related to and often included in genus peziza."*

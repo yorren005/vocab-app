@@ -5,15 +5,6 @@ status: unread
 ---
 # contact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close interaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of touching physically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As Mea had the privilege of being in the closest, most intimate contact with her new friend in the late evening hours, she was in a state of perfect bliss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The possibility of my being brought into contact with my mother, of my being taken to her house, even of Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never seen her father and sister before in contact with nobility, and she must acknowledge herself disappointed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Close interaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of touching physically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As Mea had the privilege of being in the closest, most intimate contact with her new friend in the late evening hours, she was in a state of perfect bliss."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The possibility of my being brought into contact with my mother, of my being taken to her house, even of Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never seen her father and sister before in contact with nobility, and she must acknowledge herself disappointed."*

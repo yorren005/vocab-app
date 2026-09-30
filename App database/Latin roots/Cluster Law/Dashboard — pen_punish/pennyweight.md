@@ -5,14 +5,6 @@ status: unread
 ---
 # pennyweight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of apothecary weight equal to 24 grains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of apothecary weight equal to 24 grains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Pennyweight of powder in a skull."*
-> - 📜 **James Joyce (*Ulysses*):** *"Twelve grammes one pennyweight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of apothecary weight equal to 24 grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of apothecary weight equal to 24 grains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Pennyweight of powder in a skull."*
+> - 📜 **James Joyce (*Ulysses*):** *"Twelve grammes one pennyweight."*

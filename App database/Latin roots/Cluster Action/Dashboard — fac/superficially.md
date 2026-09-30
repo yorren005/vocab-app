@@ -5,15 +5,6 @@ status: unread
 ---
 # superficially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superficial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superficial manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Paris and Troilus, you have both said well; And on the cause and question now in hand Have gloz’d, but superficially; not much Unlike young men, whom Aristotle thought Unfit to hear moral philosophy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I was yesterday taken by surprise, and saw it superficially."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He was about to take a step which would astonish all his friends and displease a great many of them, and which had superficially nothing to recommend it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superficial manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superficial manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Paris and Troilus, you have both said well; And on the cause and question now in hand Have gloz’d, but superficially; not much Unlike young men, whom Aristotle thought Unfit to hear moral philosophy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I was yesterday taken by surprise, and saw it superficially."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He was about to take a step which would astonish all his friends and displease a great many of them, and which had superficially nothing to recommend it."*

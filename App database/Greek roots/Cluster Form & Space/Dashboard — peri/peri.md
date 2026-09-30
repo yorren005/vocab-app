@@ -5,14 +5,6 @@ status: unread
 ---
 # peri
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supernatural being in Persian folklore descended from fallen angels and excluded from paradise until penance is accomplished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beautiful and graceful girl.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had already withdrawn his eye from the Peri, and was looking at a humble tuft of daisies which grew by the wicket."*
-> - 📜 **John Keats (*Lamia*):** *"Let the mad poets say whate'er they please Of the sweets of Fairies, Peris, Goddesses, There is not such a treat among them all, Haunters of cavern, lake, and waterfall, As a real woman, lineal indeed From Pyrrha's pebbles or old Adam's seed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supernatural being in Persian folklore descended from fallen angels and excluded from paradise until penance is accomplished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beautiful and graceful girl.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had already withdrawn his eye from the Peri, and was looking at a humble tuft of daisies which grew by the wicket."*
+> - 📜 **John Keats (*Lamia*):** *"Let the mad poets say whate'er they please Of the sweets of Fairies, Peris, Goddesses, There is not such a treat among them all, Haunters of cavern, lake, and waterfall, As a real woman, lineal indeed From Pyrrha's pebbles or old Adam's seed."*

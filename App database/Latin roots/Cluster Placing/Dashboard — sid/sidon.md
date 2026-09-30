@@ -5,14 +5,6 @@ status: unread
 ---
 # sidon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main city of ancient phoenicia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main city of ancient phoenicia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Delilah [From a Picture] The sun has gone down, spreading wide on The sky-line one ray of red fire; Prepare the soft cushions of Sidon, Make ready the rich loom of Tyre."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Trading-towns grew up at ports and at the favored points of trade: Tyre, Sidon, Carthage, Florence, Genoa, Venice, Antwerp, London, New York."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The main city of ancient phoenicia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main city of ancient phoenicia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Delilah [From a Picture] The sun has gone down, spreading wide on The sky-line one ray of red fire; Prepare the soft cushions of Sidon, Make ready the rich loom of Tyre."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Trading-towns grew up at ports and at the favored points of trade: Tyre, Sidon, Carthage, Florence, Genoa, Venice, Antwerp, London, New York."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # crassula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crassula designates type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crassula designates type genus of crassulaceae; herbs and small shrubs having woody stems and succulent aerial parts."*

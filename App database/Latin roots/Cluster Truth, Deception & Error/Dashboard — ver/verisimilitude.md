@@ -5,14 +5,6 @@ status: unread
 ---
 # verisimilitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of truth; the quality of seeming to be true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of truth; the quality of seeming to be true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"What could be a finer testimony to Miss Harding's verisimilitude than the blandishments of these sweet innocents?"*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Though it must be admitted that in Sir Launcelot Greaves his labours were but partially successful, yet the story possesses a good deal of the lively verisimilitude which Fathom lacked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of truth; the quality of seeming to be true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of truth; the quality of seeming to be true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"What could be a finer testimony to Miss Harding's verisimilitude than the blandishments of these sweet innocents?"*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Though it must be admitted that in Sir Launcelot Greaves his labours were but partially successful, yet the story possesses a good deal of the lively verisimilitude which Fathom lacked."*

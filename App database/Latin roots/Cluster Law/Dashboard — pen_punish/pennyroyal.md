@@ -5,13 +5,6 @@ status: unread
 ---
 # pennyroyal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian perennial mint have small lilac-blue flowers and ovate leaves; yields an aromatic oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erect hairy branching american herb having purple-blue flowers; yields an essential oil used as an insect repellent and sometimes in folk medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not one came, moreover, without her little pipkin of pennyroyal, sage, balm, or other herb tea, delighted at an opportunity of signalizing her kindness and her doctorship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian perennial mint have small lilac-blue flowers and ovate leaves; yields an aromatic oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erect hairy branching american herb having purple-blue flowers; yields an essential oil used as an insect repellent and sometimes in folk medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not one came, moreover, without her little pipkin of pennyroyal, sage, balm, or other herb tea, delighted at an opportunity of signalizing her kindness and her doctorship."*

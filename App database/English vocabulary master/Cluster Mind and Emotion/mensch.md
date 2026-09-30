@@ -5,20 +5,6 @@ status: unread
 ---
 # mensch
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Person of integrity and honor
-> 2. **Nuance / Usage**: Person (chiefly male) of strength, integrity, and honor or compassion; a gentleman
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the mensch withstood the storm*), direct object (*cleaved the mensch*), or prepositional anchor (*amidst the mensch*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Apartment*):** *"Doctor Dreyfuss [to C. C. Baxter]: Be a mensch!"*
-> - 📜 **Paul Krugman (*The Mensch Gap*):** *"Where have all the mensches gone? The character of the administration reflects the character of the man at its head."*
-> - 📜 **George Solomon (*My Little Red Book*):** *"Olie Kolzig: Goalie for the Washington Capitals who spent most of 16 seasons between the pipes for the team until being released in 2008. Had the longest career of any Capital. Now plays for Tampa Bay. The ultimate mensch, in my book."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A person of admirable integrity, honor, rectitude, and moral decency; someone who can be relied upon to act nobly and fairly.
+> 2. **Nuance / Usage**: Borrowed from Yiddish *mentsh* (from German *Mensch*, "human being"), it implies that true humanity is measured not by status or cleverness, but by kindness and ethical responsibility.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the mensch withstood the storm*), direct object (*cleaved the mensch*), or prepositional anchor (*amidst the mensch*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Rosten (*The Joys of Yiddish*):** *"To be a **mensch** has nothing to do with success, wealth, or status; it is a matter of character, rectitude, and dignity."*
+> - 📜 **Billy Wilder & I. A. L. Diamond (*The Apartment*):** *"Doctor Dreyfuss looked squarely at Baxter and gave him the only advice that mattered: 'Be a **mensch**!'"*
+> - 📜 **Paul Krugman (*The New York Times*):** *"Where have all the **mensches** gone in public life, when basic decency is treated as a political weakness?"*

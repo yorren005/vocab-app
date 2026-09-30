@@ -5,15 +5,6 @@ status: unread
 ---
 # incoherently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incoherent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incoherent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I acknowledged his attention incoherently, and began to think this was a dream."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Contrary to Bulstrode’s alarmed expectation, he took little notice of Lydgate’s presence, and continued to talk or murmur incoherently."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hurrah and away!” “God bless ye, and have ye in His holy keeping, men,” murmured old Bildad, almost incoherently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incoherent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incoherent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I acknowledged his attention incoherently, and began to think this was a dream."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Contrary to Bulstrode’s alarmed expectation, he took little notice of Lydgate’s presence, and continued to talk or murmur incoherently."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hurrah and away!” “God bless ye, and have ye in His holy keeping, men,” murmured old Bildad, almost incoherently."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # arrogator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrogator designates a person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrogator designates a person who through conceit makes pretentious claims to rights or advantages that he or she is not entitled to or to qualities that he or she does not possess."*

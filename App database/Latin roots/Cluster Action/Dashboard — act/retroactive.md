@@ -5,15 +5,6 @@ status: unread
 ---
 # retroactive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descriptive of any event or stimulus or process that has an effect on the effects of events or stimuli or process that occurred previously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting things past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton’s commission was vacated by the Tenure-of-Office Act, it ceased on the 4th of April, 1865; or, if the act had no retroactive effect, still, if Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This act was retroactive, extending back six months and eighteen days, namely, to March 4, 1789. 2."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This act was retroactive, extending back one year and fifteen days, namely to March 4, 1815. (This act was repealed by the act of February 6, 1817, but it was expressly declared that no former act was thereby revived.) 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descriptive of any event or stimulus or process that has an effect on the effects of events or stimuli or process that occurred previously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting things past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton’s commission was vacated by the Tenure-of-Office Act, it ceased on the 4th of April, 1865; or, if the act had no retroactive effect, still, if Mr."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This act was retroactive, extending back six months and eighteen days, namely, to March 4, 1789. 2."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This act was retroactive, extending back one year and fifteen days, namely to March 4, 1815. (This act was repealed by the act of February 6, 1817, but it was expressly declared that no former act was thereby revived.) 4."*

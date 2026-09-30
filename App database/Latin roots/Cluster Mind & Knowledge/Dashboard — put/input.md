@@ -5,15 +5,6 @@ status: unread
 ---
 # input
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Signal going into an electronic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that expresses a personal opinion or belief or adds information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's their input?" "Adari is your navigator."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out of the corners of his eyes Brad observed Hyk input orders to the Dragon's guidance control and navigation centers."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When the last capsule had cleared the tank Zolan's fingers raced across the console's keypad and the screen recapped the inputs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Signal going into an electronic system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that expresses a personal opinion or belief or adds information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's their input?" "Adari is your navigator."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out of the corners of his eyes Brad observed Hyk input orders to the Dragon's guidance control and navigation centers."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When the last capsule had cleared the tank Zolan's fingers raced across the console's keypad and the screen recapped the inputs."*

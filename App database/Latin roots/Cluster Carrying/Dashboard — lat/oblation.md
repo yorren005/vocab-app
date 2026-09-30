@@ -5,15 +5,6 @@ status: unread
 ---
 # oblation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of contributing to the funds of a church or charity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of offering the bread and wine of the eucharist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"No; let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mix’d with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think God will be satisfied with half an oblation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of contributing to the funds of a church or charity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of offering the bread and wine of the eucharist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"No; let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mix’d with seconds, knows no art, But mutual render, only me for thee."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think God will be satisfied with half an oblation?"*

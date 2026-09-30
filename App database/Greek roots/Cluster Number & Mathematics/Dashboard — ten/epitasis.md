@@ -5,13 +5,6 @@ status: unread
 ---
 # epitasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a play developing the main action and leading to the catastrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a play developing the main action and leading to the catastrophe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It doubles itself in the middle of his life, reflects itself in another, repeats itself, protasis, epitasis, catastasis, catastrophe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a play developing the main action and leading to the catastrophe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a play developing the main action and leading to the catastrophe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It doubles itself in the middle of his life, reflects itself in another, repeats itself, protasis, epitasis, catastasis, catastrophe."*

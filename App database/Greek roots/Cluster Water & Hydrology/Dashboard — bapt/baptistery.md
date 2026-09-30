@@ -5,13 +5,6 @@ status: unread
 ---
 # baptistery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowl for baptismal water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowl for baptismal water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ghiberti: Lorenzo Ghiberti, the great Florentine sculptor, 1381-1455; his famous masterpiece, the eastern doors of the Florentine Baptistery, of San Giovanni, of which Michael Angelo said that they were worthy to be the gates of Paradise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowl for baptismal water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowl for baptismal water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ghiberti: Lorenzo Ghiberti, the great Florentine sculptor, 1381-1455; his famous masterpiece, the eastern doors of the Florentine Baptistery, of San Giovanni, of which Michael Angelo said that they were worthy to be the gates of Paradise."*

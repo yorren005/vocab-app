@@ -5,13 +5,6 @@ status: unread
 ---
 # ventriloquy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventriloquy designates the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventriloquy designates the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)."*

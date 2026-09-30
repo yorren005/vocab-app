@@ -5,15 +5,6 @@ status: unread
 ---
 # startling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stimulate to action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jump suddenly, as if in surprise or alarm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yet the time is so short since his depreciation began that as he saunters away, reluctant to leave the spot for some long months together, though he hates it, Richard himself may feel his own case as if it were a startling one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could have no anticipation, and I had none, that something very startling to me at the moment, and ever memorable to me in what ensued from it, was to happen before this day was out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stimulate to action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jump suddenly, as if in surprise or alarm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yet the time is so short since his depreciation began that as he saunters away, reluctant to leave the spot for some long months together, though he hates it, Richard himself may feel his own case as if it were a startling one."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I could have no anticipation, and I had none, that something very startling to me at the moment, and ever memorable to me in what ensued from it, was to happen before this day was out."*

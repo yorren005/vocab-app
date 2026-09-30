@@ -5,13 +5,6 @@ status: unread
 ---
 # disassociation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unconnected in memory or imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which some integrated part of a person's life becomes separated from the rest of the personality and functions independently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disassociation designates the state of being unconnected in memory or imagination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unconnected in memory or imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which some integrated part of a person's life becomes separated from the rest of the personality and functions independently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disassociation designates the state of being unconnected in memory or imagination."*

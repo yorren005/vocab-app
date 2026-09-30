@@ -5,13 +5,6 @@ status: unread
 ---
 # psilocin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hallucinogenic compound obtained from a mushroom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hallucinogenic compound obtained from a mushroom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilocin designates a hallucinogenic compound obtained from a mushroom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hallucinogenic compound obtained from a mushroom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hallucinogenic compound obtained from a mushroom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilocin designates a hallucinogenic compound obtained from a mushroom."*

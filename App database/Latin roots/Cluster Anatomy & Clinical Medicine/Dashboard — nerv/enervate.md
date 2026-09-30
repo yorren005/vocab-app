@@ -5,15 +5,6 @@ status: unread
 ---
 # enervate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An artful cabal in that council would be able to distract and to enervate the whole system of administration."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An artful cabal in that council would be able to distract and to enervate the whole system of administration."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Similarly some savages imagine that contact with a woman in childbed enervates warriors and enfeebles their weapons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An artful cabal in that council would be able to distract and to enervate the whole system of administration."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An artful cabal in that council would be able to distract and to enervate the whole system of administration."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Similarly some savages imagine that contact with a woman in childbed enervates warriors and enfeebles their weapons."*

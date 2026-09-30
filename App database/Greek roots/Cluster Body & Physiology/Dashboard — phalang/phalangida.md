@@ -5,13 +5,6 @@ status: unread
 ---
 # phalangida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harvestmen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harvestmen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangida designates harvestmen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harvestmen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harvestmen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangida designates harvestmen."*

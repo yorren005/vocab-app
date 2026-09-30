@@ -5,13 +5,6 @@ status: unread
 ---
 # excrescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an outgrowth (usually an excessive outgrowth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an outgrowth (usually an excessive outgrowth).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Out of this lifeless mass has already grown an excrescent power, which tends to realize all the dangers that can be apprehended from a defective construction of the supreme government of the Union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an outgrowth (usually an excessive outgrowth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an outgrowth (usually an excessive outgrowth).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Out of this lifeless mass has already grown an excrescent power, which tends to realize all the dangers that can be apprehended from a defective construction of the supreme government of the Union."*

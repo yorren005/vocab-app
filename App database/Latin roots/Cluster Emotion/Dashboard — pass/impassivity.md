@@ -5,14 +5,6 @@ status: unread
 ---
 # impassivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apathy demonstrated by an absence of emotional reactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” she said, and gave him her hand, compressing her lips to a demure impassivity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” she said, and gave him her hand, compressing her lips to a demure impassivity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apathy demonstrated by an absence of emotional reactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” she said, and gave him her hand, compressing her lips to a demure impassivity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” she said, and gave him her hand, compressing her lips to a demure impassivity."*

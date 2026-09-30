@@ -5,15 +5,6 @@ status: unread
 ---
 # surprisingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a surprising manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an amazing manner; to everyone's surprise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The maids’ private aims, however, were the reverse of the dairyman’s rule, the daily selection by each damsel of the eight or ten cows to which she had grown accustomed rendering the operation on their willing udders surprisingly easy and effortless."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns used to remark that their Christian names included a surprisingly large number of apostolic pairs."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I should like to throw a dam across the fourth side, which is surprisingly narrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a surprising manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an amazing manner; to everyone's surprise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The maids’ private aims, however, were the reverse of the dairyman’s rule, the daily selection by each damsel of the eight or ten cows to which she had grown accustomed rendering the operation on their willing udders surprisingly easy and effortless."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns used to remark that their Christian names included a surprisingly large number of apostolic pairs."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I should like to throw a dam across the fourth side, which is surprisingly narrow."*

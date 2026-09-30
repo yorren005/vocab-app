@@ -5,13 +5,6 @@ status: unread
 ---
 # merginae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mergansers and closely related diving birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mergansers and closely related diving birds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merginae designates mergansers and closely related diving birds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mergansers and closely related diving birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mergansers and closely related diving birds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merginae designates mergansers and closely related diving birds."*

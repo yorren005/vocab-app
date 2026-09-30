@@ -5,15 +5,6 @@ status: unread
 ---
 # visually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to vision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Oh...nothin'.' Think a Story If you can think a story, and if you can write a letter or express your thoughts orally or visually, then you can combine them into a message to a grandchild."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The ground crew tracked the parachute visually to estimate where it would land."*
-> - 📜 **James Joyce (*Ulysses*):** *"Visually, Stephen’s: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to vision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Oh...nothin'.' Think a Story If you can think a story, and if you can write a letter or express your thoughts orally or visually, then you can combine them into a message to a grandchild."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The ground crew tracked the parachute visually to estimate where it would land."*
+> - 📜 **James Joyce (*Ulysses*):** *"Visually, Stephen’s: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair."*

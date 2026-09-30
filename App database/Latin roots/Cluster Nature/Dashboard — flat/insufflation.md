@@ -5,13 +5,6 @@ status: unread
 ---
 # insufflation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) blowing air or medicated powder into the lungs (or into some other body cavity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of blowing or breathing on or into something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insufflation designates (medicine) blowing air or medicated powder into the lungs (or into some other body cavity)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) blowing air or medicated powder into the lungs (or into some other body cavity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of blowing or breathing on or into something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insufflation designates (medicine) blowing air or medicated powder into the lungs (or into some other body cavity)."*

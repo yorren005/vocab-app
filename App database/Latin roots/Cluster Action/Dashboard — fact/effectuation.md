@@ -5,13 +5,6 @@ status: unread
 ---
 # effectuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of implementing (providing a practical means for accomplishing something); carrying into effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of implementing (providing a practical means for accomplishing something); carrying into effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectuation designates the act of implementing (providing a practical means for accomplishing something); carrying into effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of implementing (providing a practical means for accomplishing something); carrying into effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of implementing (providing a practical means for accomplishing something); carrying into effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectuation designates the act of implementing (providing a practical means for accomplishing something); carrying into effect."*

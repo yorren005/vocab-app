@@ -5,13 +5,6 @@ status: unread
 ---
 # unassertiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffidence about self promotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffidence about self promotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassertiveness designates diffidence about self promotion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffidence about self promotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffidence about self promotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassertiveness designates diffidence about self promotion."*

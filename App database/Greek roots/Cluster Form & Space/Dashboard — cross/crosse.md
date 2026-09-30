@@ -5,15 +5,6 @@ status: unread
 ---
 # crosse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long racket with a triangular frame; used in playing lacrosse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long racket with a triangular frame; used in playing lacrosse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a penny, not a penny; you are too impatient to bear crosses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am old now, And these same crosses spoil me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MOTH. [_Aside_.] He speaks the mere contrary; crosses love not him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long racket with a triangular frame; used in playing lacrosse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long racket with a triangular frame; used in playing lacrosse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a penny, not a penny; you are too impatient to bear crosses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am old now, And these same crosses spoil me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MOTH. [_Aside_.] He speaks the mere contrary; crosses love not him."*

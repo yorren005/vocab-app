@@ -5,15 +5,6 @@ status: unread
 ---
 # disturber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A troubler who interrupts or interferes with peace and quiet; someone who causes disorder and commotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A troubler who interrupts or interferes with peace and quiet; someone who causes disorder and commotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The recollection of what had been done for William was always the most powerful disturber of every decision against Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon led six hundred thousand men into Russia and captured Moscow; then he suddenly ran away from Moscow, and the Emperor Alexander, helped by the advice of Stein and others, united Europe to arm against the disturber of its peace."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"IN THE MARKET-PLACE On Saturday Boldwood was in the market-house as usual, when the disturber of his dreams entered, and became visible to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A troubler who interrupts or interferes with peace and quiet; someone who causes disorder and commotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A troubler who interrupts or interferes with peace and quiet; someone who causes disorder and commotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The recollection of what had been done for William was always the most powerful disturber of every decision against Mr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon led six hundred thousand men into Russia and captured Moscow; then he suddenly ran away from Moscow, and the Emperor Alexander, helped by the advice of Stein and others, united Europe to arm against the disturber of its peace."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"IN THE MARKET-PLACE On Saturday Boldwood was in the market-house as usual, when the disturber of his dreams entered, and became visible to him."*

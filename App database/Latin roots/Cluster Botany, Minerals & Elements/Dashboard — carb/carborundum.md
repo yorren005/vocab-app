@@ -5,13 +5,6 @@ status: unread
 ---
 # carborundum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrasive composed of silicon carbide crystals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrasive composed of silicon carbide crystals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The rectifying conductors are in many cases crystals, hence these detectors are called "Crystal Detectors." Carborundum is a favourite for this purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrasive composed of silicon carbide crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrasive composed of silicon carbide crystals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The rectifying conductors are in many cases crystals, hence these detectors are called "Crystal Detectors." Carborundum is a favourite for this purpose."*

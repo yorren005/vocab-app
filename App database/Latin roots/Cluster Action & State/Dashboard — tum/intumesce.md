@@ -5,13 +5,6 @@ status: unread
 ---
 # intumesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move upwards in bubbles, as from the effect of heating; also used metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand abnormally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumesce designates move upwards in bubbles, as from the effect of heating; also used metaphorically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move upwards in bubbles, as from the effect of heating; also used metaphorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand abnormally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumesce designates move upwards in bubbles, as from the effect of heating; also used metaphorically."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # regroup
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew, as after a setback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reorganize into new groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Then we'll regroup and go on from there." Boarding a robo-taxi that had just discharged suited figures at a nearby mooring tower, the Sentinels lined up along the taxi's portal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew, as after a setback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reorganize into new groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Then we'll regroup and go on from there." Boarding a robo-taxi that had just discharged suited figures at a nearby mooring tower, the Sentinels lined up along the taxi's portal."*

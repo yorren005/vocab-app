@@ -5,13 +5,6 @@ status: unread
 ---
 # isosmotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of solutions) having the same or equal osmotic pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of solutions) having the same or equal osmotic pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isosmotic designates (used of solutions) having the same or equal osmotic pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of solutions) having the same or equal osmotic pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of solutions) having the same or equal osmotic pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isosmotic designates (used of solutions) having the same or equal osmotic pressure."*

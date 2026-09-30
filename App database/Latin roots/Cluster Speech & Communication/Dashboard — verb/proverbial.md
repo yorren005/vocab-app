@@ -5,15 +5,6 @@ status: unread
 ---
 # proverbial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling or expressed in a proverb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and spoken of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The listener’s proverbial fate was not absolutely hers; she had heard no evil of herself, but she had heard a great deal of very painful import."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the evil effects of waiting for dead men's shoes are proverbial."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The success of such persons in stopping rain and hail and in stupefying snakes is proverbial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling or expressed in a proverb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and spoken of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"The listener’s proverbial fate was not absolutely hers; she had heard no evil of herself, but she had heard a great deal of very painful import."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the evil effects of waiting for dead men's shoes are proverbial."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The success of such persons in stopping rain and hail and in stupefying snakes is proverbial."*

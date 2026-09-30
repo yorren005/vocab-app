@@ -5,15 +5,6 @@ status: unread
 ---
 # disinterested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by self-interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by self-interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The case of Gridley is in no essential altered from one of actual occurrence, made public by a disinterested person who was professionally acquainted with the whole of the monstrous wrong from beginning to end."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger pursued the conversation, we both felt that it was disinterested in them to express the opinion they had communicated to us and that there was a great probability of its being sound."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You will lose the disinterested part of your Don Quixote character,” said Lady Dedlock to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by self-interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by self-interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The case of Gridley is in no essential altered from one of actual occurrence, made public by a disinterested person who was professionally acquainted with the whole of the monstrous wrong from beginning to end."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger pursued the conversation, we both felt that it was disinterested in them to express the opinion they had communicated to us and that there was a great probability of its being sound."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You will lose the disinterested part of your Don Quixote character,” said Lady Dedlock to Mr."*

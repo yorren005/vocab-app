@@ -5,15 +5,6 @@ status: unread
 ---
 # pageantry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich and spectacular ceremony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborate representation of scenes from history etc; usually involves a parade with rich costumes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the England of our day the forests have mostly disappeared, yet still on many a village green and in many a country lane a faded image of the sacred marriage lingers in the rustic pageantry of May Day."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Oh 'tis a passionate Work!--yet wise and well; Well chosen is the spirit that is here; That Hulk which labours in the deadly swell, This rueful sky, this pageantry of fear!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich and spectacular ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborate representation of scenes from history etc; usually involves a parade with rich costumes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the England of our day the forests have mostly disappeared, yet still on many a village green and in many a country lane a faded image of the sacred marriage lingers in the rustic pageantry of May Day."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Oh 'tis a passionate Work!--yet wise and well; Well chosen is the spirit that is here; That Hulk which labours in the deadly swell, This rueful sky, this pageantry of fear!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # untenanted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not leased to or occupied by a tenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not leased to or occupied by a tenant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"For ten years it had been untenanted, until a Miss O'Malley had bought it, and opened the great oak doors, and let the sea-air blow through the windows of it, and clipped the garden of the yews."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I had the further motive that Baskerville Hall, as the paper says, would certainly remain untenanted if anything were done to increase its already rather grim reputation."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The twilight under tall pines seems to be untenanted and to lack something, at first sight, as if one opened the door of an empty house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not leased to or occupied by a tenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not leased to or occupied by a tenant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"For ten years it had been untenanted, until a Miss O'Malley had bought it, and opened the great oak doors, and let the sea-air blow through the windows of it, and clipped the garden of the yews."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I had the further motive that Baskerville Hall, as the paper says, would certainly remain untenanted if anything were done to increase its already rather grim reputation."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The twilight under tall pines seems to be untenanted and to lack something, at first sight, as if one opened the door of an empty house."*

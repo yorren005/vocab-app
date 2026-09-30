@@ -5,13 +5,6 @@ status: unread
 ---
 # enucleate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the nucleus from (a cell).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove (a tumor or eye) from an enveloping sac or cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enucleate designates remove the nucleus from (a cell)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the nucleus from (a cell).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove (a tumor or eye) from an enveloping sac or cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enucleate designates remove the nucleus from (a cell)."*

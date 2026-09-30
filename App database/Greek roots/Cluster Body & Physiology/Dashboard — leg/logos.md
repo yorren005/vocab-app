@@ -5,15 +5,6 @@ status: unread
 ---
 # logos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The divine wisdom manifest in the creation, government, and redemption of the world and often identified with the second person of the Trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason that in ancient Greek philosophy is the controlling principle in the universe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"To explain Jesus, his friends and contemporaries spoke of him as the Logos, the Sacrifice, "Christ our Passover," the Messiah, and so forth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Rendel Harris, "can sing, 'How sweet the name of Logos sounds.'" Synesius of Cyrene did try to sing it, but most human beings prefer St."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We find, again, that the inner meaning of the Logos is that through it, and in it, God and man come in touch with each other and become mutually intelligible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The divine wisdom manifest in the creation, government, and redemption of the world and often identified with the second person of the Trinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason that in ancient Greek philosophy is the controlling principle in the universe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"To explain Jesus, his friends and contemporaries spoke of him as the Logos, the Sacrifice, "Christ our Passover," the Messiah, and so forth."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Rendel Harris, "can sing, 'How sweet the name of Logos sounds.'" Synesius of Cyrene did try to sing it, but most human beings prefer St."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We find, again, that the inner meaning of the Logos is that through it, and in it, God and man come in touch with each other and become mutually intelligible."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # homogeneity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being similar or comparable in kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being of uniform throughout in composition or structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is [Chinese] _yü t´ang chia ch´i_, "beautiful vessel for the Jade Hall." It is improbable that the _yü t´ang_ was a factory name, as the specimens so marked have little homogeneity."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This depended upon national polity and the fact as to most of the ancient republics that they did not possess homogeneity was the cause of their fall."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They believe in the homogeneity of our race, and that upon this depends the progress of our institutions and everything on which we build our hopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being similar or comparable in kind or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being of uniform throughout in composition or structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is [Chinese] _yü t´ang chia ch´i_, "beautiful vessel for the Jade Hall." It is improbable that the _yü t´ang_ was a factory name, as the specimens so marked have little homogeneity."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This depended upon national polity and the fact as to most of the ancient republics that they did not possess homogeneity was the cause of their fall."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They believe in the homogeneity of our race, and that upon this depends the progress of our institutions and everything on which we build our hopes."*

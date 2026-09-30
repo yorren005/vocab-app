@@ -5,15 +5,6 @@ status: unread
 ---
 # political
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or characteristic of politics or parties or politicians; - daniel goleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to your views about social relationships involving authority or power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s policy and mastery to have no political opinions; indeed, NO opinions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now I dare say her marrying another child, and having two more, was all wrong in point of political economy, but it was very agreeable."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why had he not known the difference between the political value and the imaginative value of these things?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or characteristic of politics or parties or politicians; - daniel goleman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to your views about social relationships involving authority or power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s policy and mastery to have no political opinions; indeed, NO opinions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now I dare say her marrying another child, and having two more, was all wrong in point of political economy, but it was very agreeable."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why had he not known the difference between the political value and the imaginative value of these things?"*

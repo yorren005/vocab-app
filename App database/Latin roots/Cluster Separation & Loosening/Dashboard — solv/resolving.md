@@ -5,15 +5,6 @@ status: unread
 ---
 # resolving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Analysis into clear-cut components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As one of which doth Tarquin lie revolving The sundry dangers of his will’s obtaining, Yet ever to obtain his will resolving, Though weak-built hopes persuade him to abstaining."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Thus passed my time till I had to go to bed, resolving to attempt an early settlement of the growing difficulty next morning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Analysis into clear-cut components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As one of which doth Tarquin lie revolving The sundry dangers of his will’s obtaining, Yet ever to obtain his will resolving, Though weak-built hopes persuade him to abstaining."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Thus passed my time till I had to go to bed, resolving to attempt an early settlement of the growing difficulty next morning."*

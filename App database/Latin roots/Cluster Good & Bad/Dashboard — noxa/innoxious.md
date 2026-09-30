@@ -5,13 +5,6 @@ status: unread
 ---
 # innoxious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no adverse effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no adverse effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple and Miss Carteret—they would soon be innoxious cousins to her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no adverse effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no adverse effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple and Miss Carteret—they would soon be innoxious cousins to her."*

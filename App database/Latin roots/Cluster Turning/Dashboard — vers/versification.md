@@ -5,15 +5,6 @@ status: unread
 ---
 # versification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical adaptation of something (e.g., of a prose text).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form or metrical composition of a poem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Compare with this the genuinely corrupt Byron, through the cracks and fissures of whose heaving versification steam up perpetually the sulphurous vapours from his central iniquity."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"GIVE EARTH YOURSELF, GO UP FOR GAIN ABOVE!” The versification of the first stanza of this section is very lovely, and subtly responsive to the feeling."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"These verses were much admired--far more than they deserved, for they were but a tame imitation of Pope's versification, and a little in his style." But it was not from exercises of this kind that Wordsworth's school-days drew their inspiration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical adaptation of something (e.g., of a prose text).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form or metrical composition of a poem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Compare with this the genuinely corrupt Byron, through the cracks and fissures of whose heaving versification steam up perpetually the sulphurous vapours from his central iniquity."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"GIVE EARTH YOURSELF, GO UP FOR GAIN ABOVE!” The versification of the first stanza of this section is very lovely, and subtly responsive to the feeling."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"These verses were much admired--far more than they deserved, for they were but a tame imitation of Pope's versification, and a little in his style." But it was not from exercises of this kind that Wordsworth's school-days drew their inspiration."*

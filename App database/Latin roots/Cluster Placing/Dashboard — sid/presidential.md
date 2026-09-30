@@ -5,15 +5,6 @@ status: unread
 ---
 # presidential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a president or presidency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting a president.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the year of a presidential election, however, Congress took no action in the matter."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1884, the Democratic party elected its presidential candidate (Cleveland) and a majority of the House, but as it did not control the Senate it could not pass any of the various proposed measures for a "reform" of the tariff."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When I select the course of action and authenticate them with the Presidential Implementation Designators, release directives to implement the decisions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a president or presidency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting a president.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the year of a presidential election, however, Congress took no action in the matter."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1884, the Democratic party elected its presidential candidate (Cleveland) and a majority of the House, but as it did not control the Senate it could not pass any of the various proposed measures for a "reform" of the tariff."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When I select the course of action and authenticate them with the Presidential Implementation Designators, release directives to implement the decisions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # compact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cosmetics case with a mirror; to be carried in a woman's purse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signed written agreement between two or more parties (nations) to perform some action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he, compact of jars, grow musical, We shall have shortly discord in the spheres."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patience once more whiles our compact is urged. [_To the Duke._] You say, if I bring in your Rosalind, You will bestow her on Orlando here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is the course and drift of your compact?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cosmetics case with a mirror; to be carried in a woman's purse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signed written agreement between two or more parties (nations) to perform some action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he, compact of jars, grow musical, We shall have shortly discord in the spheres."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patience once more whiles our compact is urged. [_To the Duke._] You say, if I bring in your Rosalind, You will bestow her on Orlando here?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is the course and drift of your compact?"*

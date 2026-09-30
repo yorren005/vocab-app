@@ -5,13 +5,6 @@ status: unread
 ---
 # multiphase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiphase designates of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiphase designates of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # uncle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brother of your father or mother; the husband of your aunt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of help and advice and encouragement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is at the court and no less beloved of her uncle than his own daughter, and never two ladies loved as they do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my uncle, thy banished father, had banished thy uncle, the Duke my father, so thou hadst been still with me, I could have taught my love to take thy father for mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brother of your father or mother; the husband of your aunt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of help and advice and encouragement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is at the court and no less beloved of her uncle than his own daughter, and never two ladies loved as they do."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my uncle, thy banished father, had banished thy uncle, the Duke my father, so thou hadst been still with me, I could have taught my love to take thy father for mine."*

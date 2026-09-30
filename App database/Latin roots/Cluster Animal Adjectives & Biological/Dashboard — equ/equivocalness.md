@@ -5,13 +5,6 @@ status: unread
 ---
 # equivocalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of having more than one meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unclearness by virtue of having more than one meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equivocalness designates unclearness by virtue of having more than one meaning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of having more than one meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unclearness by virtue of having more than one meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equivocalness designates unclearness by virtue of having more than one meaning."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # underact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act (a role) with great restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act (a role) with great restraint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underact designates act (a role) with great restraint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act (a role) with great restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act (a role) with great restraint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underact designates act (a role) with great restraint."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # fume
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive) to emit fumes
-> 2. **Nuance / Usage**: Something (such as an emotion) that impairs one's reasoning
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"there was some sulphurous fume, which at times made me dizzy."*
-> - 📜 **James Joyce (*Ulysses*):** *"vertical and serpentine fume redolent of aromatic oriental incense."*
-> - 📜 **Abby Chava Stein (*Becoming Eve*):** *"Whoever is doing this is not just showing immense disrespect to me as a teacher, but also to the whole Torah and to this whole class and school!" he fumed. "And to God!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Pungent, irritating, or noxious smoke, vapor, or gas emitted by burning, smoldering, or volatile substances.
+> 2. **Nuance / Usage**: As an intransitive verb, means to give off acrid vapors, or figuratively to seethe with suppressed or vehement anger.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"There was some sulphurous **fume**, which at times made me dizzy."*
+> - 📜 **James Joyce (*Ulysses*):** *"A vertical and serpentine **fume** rose redolent of aromatic oriental incense."*
+> - 📜 **Abby Chava Stein (*Becoming Eve*):** *"Whoever is doing this is showing immense disrespect to me as a teacher and to this whole school, he **fumed**."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irreparable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to repair, rectify, or amend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to repair, rectify, or amend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Irreparable is the loss, and patience Says it is past her cure."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Oswego had to mourn the most irreparable losses in that battle."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"And all this ruin, and irreparable loss, had been visited upon this charitable and patriotic family, by a furious, demoniac mob, because they loved Freedom, Justice, and their country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to repair, rectify, or amend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to repair, rectify, or amend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Irreparable is the loss, and patience Says it is past her cure."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Oswego had to mourn the most irreparable losses in that battle."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"And all this ruin, and irreparable loss, had been visited upon this charitable and patriotic family, by a furious, demoniac mob, because they loved Freedom, Justice, and their country."*

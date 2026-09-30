@@ -5,13 +5,6 @@ status: unread
 ---
 # lateran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The site in rome containing the church of rome and the lateran palace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site in rome containing the church of rome and the lateran palace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateran designates the site in rome containing the church of rome and the lateran palace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The site in rome containing the church of rome and the lateran palace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site in rome containing the church of rome and the lateran palace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateran designates the site in rome containing the church of rome and the lateran palace."*

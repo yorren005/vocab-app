@@ -5,15 +5,6 @@ status: unread
 ---
 # strumpet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great King, I am no strumpet, by my life; I am either maid, or else this old man’s wife. [_Pointing to Lafew._] KING."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where they come: Take but good note, and you shall see in him The triple pillar of the world transform’d Into a strumpet’s fool."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great King, I am no strumpet, by my life; I am either maid, or else this old man’s wife. [_Pointing to Lafew._] KING."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where they come: Take but good note, and you shall see in him The triple pillar of the world transform’d Into a strumpet’s fool."*

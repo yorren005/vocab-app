@@ -5,15 +5,6 @@ status: unread
 ---
 # unintelligible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly articulated or enunciated, or drowned by noise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not clearly understood or expressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius doesn't do." "Come now, Mäzli," said Leonore, for she had the feeling that this peculiar revelation might be followed by others as unintelligible."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was too much interested in Mäzli's expedition to the castle to be frightened off by the first unintelligible account."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and the other lower animals get on in the unintelligible mess as they can."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly articulated or enunciated, or drowned by noise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not clearly understood or expressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius doesn't do." "Come now, Mäzli," said Leonore, for she had the feeling that this peculiar revelation might be followed by others as unintelligible."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was too much interested in Mäzli's expedition to the castle to be frightened off by the first unintelligible account."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and the other lower animals get on in the unintelligible mess as they can."*

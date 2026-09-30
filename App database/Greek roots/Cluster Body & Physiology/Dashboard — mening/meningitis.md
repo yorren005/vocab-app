@@ -5,15 +5,6 @@ status: unread
 ---
 # meningitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the meninges and especially of the pia mater and arachnoid; specifically : a disease marked by inflammation of the meninges that is either a relatively mild illness caused by a virus (such as various Coxsackieviruses) or a more severe usually life-threatening illness caused by a bacterium (especially the meningococcus, Neisseria meningitides, or the serotype designated B of Haemophilus influenzae).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the meninges of both brain and spinal cord; specifically : an infectious often epidemic and fatal meningitis caused by the meningococcus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There was a little girl in this place that had the cerebro-spinal-meningitis; several had died with this disease, and the physician had given her up to die."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"For four long weeks Billie's life hung in the balance, for after the pneumonia crisis was passed, unconsciousness continued, and the terrible word "meningitis" was whispered from lip to lip."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In old times who ever heard of dyspepsia, cerebro-spinal meningitis, hay-fever, and rose-cold? 175:9 What an abuse of natural beauty to say that a rose, the smile of God, can produce suffering!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the meninges and especially of the pia mater and arachnoid; specifically : a disease marked by inflammation of the meninges that is either a relatively mild illness caused by a virus (such as various Coxsackieviruses) or a more severe usually life-threatening illness caused by a bacterium (especially the meningococcus, Neisseria meningitides, or the serotype designated B of Haemophilus influenzae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the meninges of both brain and spinal cord; specifically : an infectious often epidemic and fatal meningitis caused by the meningococcus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"There was a little girl in this place that had the cerebro-spinal-meningitis; several had died with this disease, and the physician had given her up to die."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"For four long weeks Billie's life hung in the balance, for after the pneumonia crisis was passed, unconsciousness continued, and the terrible word "meningitis" was whispered from lip to lip."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In old times who ever heard of dyspepsia, cerebro-spinal meningitis, hay-fever, and rose-cold? 175:9 What an abuse of natural beauty to say that a rose, the smile of God, can produce suffering!"*

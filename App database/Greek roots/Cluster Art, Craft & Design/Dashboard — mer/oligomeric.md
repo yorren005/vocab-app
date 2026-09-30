@@ -5,13 +5,6 @@ status: unread
 ---
 # oligomeric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or polymer intermediate containing relatively few structural units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer or polymer intermediate containing relatively few structural units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligomeric designates a polymer or polymer intermediate containing relatively few structural units."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or polymer intermediate containing relatively few structural units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer or polymer intermediate containing relatively few structural units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligomeric designates a polymer or polymer intermediate containing relatively few structural units."*

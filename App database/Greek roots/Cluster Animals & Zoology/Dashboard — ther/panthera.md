@@ -5,13 +5,6 @@ status: unread
 ---
 # panthera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lions; leopards; snow leopards; jaguars; tigers; cheetahs; saber-toothed tigers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lions; leopards; snow leopards; jaguars; tigers; cheetahs; saber-toothed tigers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jesus was born, they said, in a village, the bastard child of a peasant woman, a poor person who worked with her hands, divorced by her husband (who was a carpenter) for adultery.[10] The father was a soldier called Panthera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lions; leopards; snow leopards; jaguars; tigers; cheetahs; saber-toothed tigers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lions; leopards; snow leopards; jaguars; tigers; cheetahs; saber-toothed tigers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jesus was born, they said, in a village, the bastard child of a peasant woman, a poor person who worked with her hands, divorced by her husband (who was a carpenter) for adultery.[10] The father was a soldier called Panthera."*

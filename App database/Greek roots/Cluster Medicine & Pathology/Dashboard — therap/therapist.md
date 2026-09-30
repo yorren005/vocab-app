@@ -5,13 +5,6 @@ status: unread
 ---
 # therapist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual specializing in the therapeutic medical treatment of impairment, injury, disease, or disorder; especially : a health care professional trained in methods of treatment and rehabilitation other than the use of drugs or surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of psychotherapy : a psychotherapist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapist designates an individual specializing in the therapeutic medical treatment of impairment, injury, disease, or disorder; especially : a health care professional trained in methods of treatment and rehabilitation other than the use of drugs or surgery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual specializing in the therapeutic medical treatment of impairment, injury, disease, or disorder; especially : a health care professional trained in methods of treatment and rehabilitation other than the use of drugs or surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of psychotherapy : a psychotherapist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapist designates an individual specializing in the therapeutic medical treatment of impairment, injury, disease, or disorder; especially : a health care professional trained in methods of treatment and rehabilitation other than the use of drugs or surgery."*

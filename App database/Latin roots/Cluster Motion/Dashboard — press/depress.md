@@ -5,15 +5,6 @@ status: unread
 ---
 # depress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes—well, my father had been talking a good deal to me of his troubles and difficulties, and the subject always tends to depress me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Still, don’t let it depress you."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The absence of the sun did not depress me, and I was swiftly to learn that God, not forgetting me while I slumbered, had prepared other and wonderful blessings for me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes—well, my father had been talking a good deal to me of his troubles and difficulties, and the subject always tends to depress me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Still, don’t let it depress you."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The absence of the sun did not depress me, and I was swiftly to learn that God, not forgetting me while I slumbered, had prepared other and wonderful blessings for me."*

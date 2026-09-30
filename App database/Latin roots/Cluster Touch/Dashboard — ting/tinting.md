@@ -5,13 +5,6 @@ status: unread
 ---
 # tinting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adding a tinge of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color lightly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And she was so beautiful about the place, with her eyes green of the sea, her dusky velvet lips, her slim cinnamon hands, with the dramatic orange tinting on the nails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adding a tinge of color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color lightly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And she was so beautiful about the place, with her eyes green of the sea, her dusky velvet lips, her slim cinnamon hands, with the dramatic orange tinting on the nails."*

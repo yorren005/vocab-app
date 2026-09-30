@@ -5,13 +5,6 @@ status: unread
 ---
 # raper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who forces another to have sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who forces another to have sexual intercourse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Among those obliged to abdicate were Walsh, the mayor, Rapers, the sheriff, Wheaton, clerk of the court, Durant, the recorder, and Ferguson and Renfro, administrators."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who forces another to have sexual intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who forces another to have sexual intercourse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Among those obliged to abdicate were Walsh, the mayor, Rapers, the sheriff, Wheaton, clerk of the court, Durant, the recorder, and Ferguson and Renfro, administrators."*

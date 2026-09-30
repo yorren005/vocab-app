@@ -5,13 +5,6 @@ status: unread
 ---
 # bipolar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to manic depressive illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, pertaining to, or occurring in both polar regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bipolar designates of or relating to manic depressive illness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to manic depressive illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, pertaining to, or occurring in both polar regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bipolar designates of or relating to manic depressive illness."*

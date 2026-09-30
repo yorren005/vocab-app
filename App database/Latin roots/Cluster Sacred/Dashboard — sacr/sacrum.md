@@ -5,13 +5,6 @@ status: unread
 ---
 # sacrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrum designates wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrum designates wedge-shaped bone consisting of five fused vertebrae forming the posterior part of the pelvis; its base connects with the lowest lumbar vertebra and its tip with the coccyx."*

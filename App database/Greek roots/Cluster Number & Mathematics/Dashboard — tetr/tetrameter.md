@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrameter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting either of four dipodies (as in classical iambic, trochaic, and anapestic verse) or four metrical feet (as in modern English verse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting either of four dipodies (as in classical iambic, trochaic, and anapestic verse) or four metrical feet (as in modern English verse).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A catalectic tetrameter of iambs marching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting either of four dipodies (as in classical iambic, trochaic, and anapestic verse) or four metrical feet (as in modern English verse).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting either of four dipodies (as in classical iambic, trochaic, and anapestic verse) or four metrical feet (as in modern English verse).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A catalectic tetrameter of iambs marching."*

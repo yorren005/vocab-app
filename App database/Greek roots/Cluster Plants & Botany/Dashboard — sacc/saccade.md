@@ -5,13 +5,6 @@ status: unread
 ---
 # saccade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid, jerky movement of the eyes between positions of rest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrupt spasmodic movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccade designates a rapid, jerky movement of the eyes between positions of rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid, jerky movement of the eyes between positions of rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrupt spasmodic movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccade designates a rapid, jerky movement of the eyes between positions of rest."*

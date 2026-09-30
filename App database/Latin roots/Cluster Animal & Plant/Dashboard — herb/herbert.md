@@ -5,15 +5,6 @@ status: unread
 ---
 # herbert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states musician and composer and conductor noted for his comic operas (1859-1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states musician and composer and conductor noted for his comic operas (1859-1924).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plain near Tamworth Enter Richmond, Oxford, Blunt, Herbert, and others, with drum and colours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt._] Enter Richmond, Sir William Brandon, Oxford, Herbert, Blunt, and others who pitch Richmond’s tent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Oxford, you, Sir William Brandon, And you, Sir Walter Herbert, stay with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states musician and composer and conductor noted for his comic operas (1859-1924).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states musician and composer and conductor noted for his comic operas (1859-1924).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plain near Tamworth Enter Richmond, Oxford, Blunt, Herbert, and others, with drum and colours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt._] Enter Richmond, Sir William Brandon, Oxford, Herbert, Blunt, and others who pitch Richmond’s tent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Oxford, you, Sir William Brandon, And you, Sir Walter Herbert, stay with me."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # parseeism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faith of a zoroastrian sect in india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faith of a zoroastrian sect in india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If I trip him: What if I; and so in next stanza. a Manichee: a follower of Mani, who aimed to unite Parseeism, or Parsism, with Christianity. 8."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faith of a zoroastrian sect in india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faith of a zoroastrian sect in india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If I trip him: What if I; and so in next stanza. a Manichee: a follower of Mani, who aimed to unite Parseeism, or Parsism, with Christianity. 8."*

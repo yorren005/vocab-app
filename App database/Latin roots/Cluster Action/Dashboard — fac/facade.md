@@ -5,14 +5,6 @@ status: unread
 ---
 # facade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The face or front of a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A showy misrepresentation intended to conceal something unpleasant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The Dovenilid gave him a piercing look, but Marlowe presented a featureless facade of bulk."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Deshoulieres made straight for the church, skirted it, and found himself in front of a bran-new hotel, having a narrow facade, a little court, and stiff evergreens ranged round in bright green tubs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The face or front of a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A showy misrepresentation intended to conceal something unpleasant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"The Dovenilid gave him a piercing look, but Marlowe presented a featureless facade of bulk."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Deshoulieres made straight for the church, skirted it, and found himself in front of a bran-new hotel, having a narrow facade, a little court, and stiff evergreens ranged round in bright green tubs."*

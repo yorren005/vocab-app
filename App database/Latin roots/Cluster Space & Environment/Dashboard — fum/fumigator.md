@@ -5,13 +5,6 @@ status: unread
 ---
 # fumigator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose job is to fumigate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that generates a gas for the purpose of disinfecting or eradicating pests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumigator designates someone whose job is to fumigate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose job is to fumigate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that generates a gas for the purpose of disinfecting or eradicating pests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumigator designates someone whose job is to fumigate."*

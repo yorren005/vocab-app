@@ -5,15 +5,6 @@ status: unread
 ---
 # monarchical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of or befitting or worthy of a monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the latter case, no doubt, the disproportionate force, as well as the monarchical form, of the new confederate, had its share of influence on the events."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The boasted imitation of Nature in modern gardening had sprung up with modern republican notions, but did not suit a monarchical government; it smacked of the leveling system."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Has political economy anything to do with woman suffrage, the liquor problem, a republican _vs._ a monarchical form of government, the silver question? 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of or befitting or worthy of a monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the latter case, no doubt, the disproportionate force, as well as the monarchical form, of the new confederate, had its share of influence on the events."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The boasted imitation of Nature in modern gardening had sprung up with modern republican notions, but did not suit a monarchical government; it smacked of the leveling system."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Has political economy anything to do with woman suffrage, the liquor problem, a republican _vs._ a monarchical form of government, the silver question? 2."*

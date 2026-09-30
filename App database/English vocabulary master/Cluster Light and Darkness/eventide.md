@@ -5,20 +5,6 @@ status: unread
 ---
 # eventide
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The time of evening : evening
-> 2. **Nuance / Usage**: (archaic, poetic, literary) evening
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the eventide withstood the storm*), direct object (*cleaved the eventide*), or prepositional anchor (*amidst the eventide*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I cannot tell what sentiment haunted the quite solitary churchyard, with its inscribed headstone; its gate, its two trees, its low horizon, girdled by a broken wall, and its newly-risen crescent, attesting the hour of eventide."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Having brought my eventide musings to this point, I rose, went to my door, and looked at the sunset of the harvest-day, and at the quiet fields before my cottage, which, with the school, was distant half a mile from the village."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Attempting to do so, she thought of those long-past days in a distant land, when he used to emerge at eventide from the seclusion of his study and sit down in the firelight of their home, and in the light of her nuptial smile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The time of evening : evening
+> 2. **Nuance / Usage**: (archaic, poetic, literary) evening
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the eventide withstood the storm*), direct object (*cleaved the eventide*), or prepositional anchor (*amidst the eventide*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I cannot tell what sentiment haunted the quite solitary churchyard, with its inscribed headstone; its gate, its two trees, its low horizon, girdled by a broken wall, and its newly-risen crescent, attesting the hour of eventide."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Having brought my eventide musings to this point, I rose, went to my door, and looked at the sunset of the harvest-day, and at the quiet fields before my cottage, which, with the school, was distant half a mile from the village."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Attempting to do so, she thought of those long-past days in a distant land, when he used to emerge at eventide from the seclusion of his study and sit down in the firelight of their home, and in the light of her nuptial smile."*

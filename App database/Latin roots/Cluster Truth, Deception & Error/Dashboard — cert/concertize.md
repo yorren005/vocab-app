@@ -5,13 +5,6 @@ status: unread
 ---
 # concertize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give concerts; perform in concerts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give concerts; perform in concerts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concertize designates give concerts; perform in concerts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give concerts; perform in concerts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give concerts; perform in concerts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concertize designates give concerts; perform in concerts."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bound
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastened by or as if by a band : confined —often used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very likely : sure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You would answer very well to a whipping, if you were but bound to’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever thou beest bound in thy scarf and beaten, thou shalt find what it is to be proud of thy bondage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastened by or as if by a band : confined —often used in combination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very likely : sure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You would answer very well to a whipping, if you were but bound to’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever thou beest bound in thy scarf and beaten, thou shalt find what it is to be proud of thy bondage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # judith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jewish heroine in one of the books of the apocrypha; she saved her people by decapitating the assyrian general holofernes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book telling how judith saved her people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Going out early in life and marrying late, as his father had done before him, he too begat a lean and anxious-minded son, who in his turn, going out early in life and marrying late, became the father of Bartholomew and Judith Smallweed, twins."*
-> - 📜 **Effie Afton (*Eventide*):** *"Judith Justitia Pimble, or Mrs."*
-> - 📜 **Effie Afton (*Eventide*):** *"Judith Justitia Pimble, author of tracts for the amelioration of enslaved and down-trodden woman; and this is Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jewish heroine in one of the books of the apocrypha; she saved her people by decapitating the assyrian general holofernes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book telling how judith saved her people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Going out early in life and marrying late, as his father had done before him, he too begat a lean and anxious-minded son, who in his turn, going out early in life and marrying late, became the father of Bartholomew and Judith Smallweed, twins."*
+> - 📜 **Effie Afton (*Eventide*):** *"Judith Justitia Pimble, or Mrs."*
+> - 📜 **Effie Afton (*Eventide*):** *"Judith Justitia Pimble, author of tracts for the amelioration of enslaved and down-trodden woman; and this is Mrs."*

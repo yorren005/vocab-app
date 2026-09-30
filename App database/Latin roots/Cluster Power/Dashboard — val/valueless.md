@@ -5,15 +5,6 @@ status: unread
 ---
 # valueless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of no value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of no value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have beguil’d me with a counterfeit Resembling majesty, which, being touch’d and tried, Proves valueless."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why do I struggle to retain a valueless life?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Many of them were very old, and as timekeepers valueless; the works having suffered, more or less, from corrosion—but all were richly jeweled and in cases of great worth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of no value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of no value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have beguil’d me with a counterfeit Resembling majesty, which, being touch’d and tried, Proves valueless."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why do I struggle to retain a valueless life?"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Many of them were very old, and as timekeepers valueless; the works having suffered, more or less, from corrosion—but all were richly jeweled and in cases of great worth."*

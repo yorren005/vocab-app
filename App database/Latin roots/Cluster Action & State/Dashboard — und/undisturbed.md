@@ -5,15 +5,6 @@ status: unread
 ---
 # undisturbed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Untroubled by interference or disturbance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Untroubled by interference or disturbance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie has become the real, true Castle-Apollonie of yore and manages for her master's sake to live in undisturbed peace with Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, outwardly quite undisturbed, demands, “Why not?” “Why, sir,” returns the trooper."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That entry and exit hereby was only at rare intervals became apparent on noting that tufts of grass were allowed to flourish undisturbed in the chinks of the sill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Untroubled by interference or disturbance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Untroubled by interference or disturbance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie has become the real, true Castle-Apollonie of yore and manages for her master's sake to live in undisturbed peace with Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, outwardly quite undisturbed, demands, “Why not?” “Why, sir,” returns the trooper."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That entry and exit hereby was only at rare intervals became apparent on noting that tufts of grass were allowed to flourish undisturbed in the chinks of the sill."*

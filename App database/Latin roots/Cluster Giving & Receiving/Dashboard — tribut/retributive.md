@@ -5,15 +5,6 @@ status: unread
 ---
 # retributive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given or inflicted in requital according to merits or deserts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There may be black ingratitude in the thing, and the punishment may be retributive and well deserved; but that it is a miserable thing, I can testify."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Und was hab' ich dann gethan?"[20] There is a world of pathos in this helpless cry of pain, with its suggestion of retributive fate."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Then, if he is not seen to kill, the law is powerless and the murderer can snap his finger in the face of retributive justice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given or inflicted in requital according to merits or deserts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There may be black ingratitude in the thing, and the punishment may be retributive and well deserved; but that it is a miserable thing, I can testify."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Und was hab' ich dann gethan?"[20] There is a world of pathos in this helpless cry of pain, with its suggestion of retributive fate."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Then, if he is not seen to kill, the law is powerless and the murderer can snap his finger in the face of retributive justice."*

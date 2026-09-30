@@ -5,13 +5,6 @@ status: unread
 ---
 # mitosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cell division in which the nucleus divides into nuclei containing the same number of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cell division in which the nucleus divides into nuclei containing the same number of chromosomes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitosis designates cell division in which the nucleus divides into nuclei containing the same number of chromosomes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cell division in which the nucleus divides into nuclei containing the same number of chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cell division in which the nucleus divides into nuclei containing the same number of chromosomes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitosis designates cell division in which the nucleus divides into nuclei containing the same number of chromosomes."*

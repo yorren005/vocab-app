@@ -5,13 +5,6 @@ status: unread
 ---
 # psychosurgery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosurgery designates brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosurgery designates brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems."*

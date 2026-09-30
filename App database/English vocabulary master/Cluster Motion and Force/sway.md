@@ -5,20 +5,6 @@ status: unread
 ---
 # sway
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Controlling influence
-> 2. **Nuance / Usage**: Inclination or deflection caused by or as if by swaying
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Give solely sovereign sway and masterdom."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And let my counsel sway you in this case."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"The horses’ croups began to sway in the front line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Controlling influence
+> 2. **Nuance / Usage**: Inclination or deflection caused by or as if by swaying
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Give solely sovereign sway and masterdom."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And let my counsel sway you in this case."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The horses’ croups began to sway in the front line."*

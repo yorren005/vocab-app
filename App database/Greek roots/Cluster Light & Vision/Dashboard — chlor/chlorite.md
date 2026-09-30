@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorite designates a generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorite designates a generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal."*

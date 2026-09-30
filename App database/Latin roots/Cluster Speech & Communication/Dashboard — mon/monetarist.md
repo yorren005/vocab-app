@@ -5,13 +5,6 @@ status: unread
 ---
 # monetarist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of the theory that economic fluctuations are caused by increases or decreases in the supply of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the theory that economic fluctuations are caused by increases or decreases in the supply of money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monetarist designates an advocate of the theory that economic fluctuations are caused by increases or decreases in the supply of money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of the theory that economic fluctuations are caused by increases or decreases in the supply of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the theory that economic fluctuations are caused by increases or decreases in the supply of money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monetarist designates an advocate of the theory that economic fluctuations are caused by increases or decreases in the supply of money."*

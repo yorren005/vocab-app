@@ -5,15 +5,6 @@ status: unread
 ---
 # curry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (east indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Season with a mixture of spices; typical of indian cooking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This Cecil Winwood, in order to curry favour with the Captain of the Yard, and thence the Warden, the Prison Directors, the Board of Pardons, and the Governor of California, framed up a prison-break."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I could conclude was that some stool had lied an infraction of the rules on me in order to curry favour with the guards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (east indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Season with a mixture of spices; typical of indian cooking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This Cecil Winwood, in order to curry favour with the Captain of the Yard, and thence the Warden, the Prison Directors, the Board of Pardons, and the Governor of California, framed up a prison-break."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I could conclude was that some stool had lied an infraction of the rules on me in order to curry favour with the guards."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # electrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or providing or producing or transmitting or operated by electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, she is rendered harmless by being, in electrical language, insulated."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That brightness is of an essentially electrical nature."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Now look at this clock; it is electrical, and goes with a regularity that defies the best chronometers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or providing or producing or transmitting or operated by electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, she is rendered harmless by being, in electrical language, insulated."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That brightness is of an essentially electrical nature."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Now look at this clock; it is electrical, and goes with a regularity that defies the best chronometers."*

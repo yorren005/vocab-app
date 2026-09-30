@@ -5,15 +5,6 @@ status: unread
 ---
 # resign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave (a job, post, or position) voluntarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give up or retire from a position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I am Protector of the realm, And at his pleasure will resign my place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resign it then, and leave thine insolence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As willingly do I the same resign As e’er thy father Henry made it mine; And even as willingly at thy feet I leave it As others would ambitiously receive it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave (a job, post, or position) voluntarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give up or retire from a position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I am Protector of the realm, And at his pleasure will resign my place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resign it then, and leave thine insolence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As willingly do I the same resign As e’er thy father Henry made it mine; And even as willingly at thy feet I leave it As others would ambitiously receive it."*

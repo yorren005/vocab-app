@@ -5,15 +5,6 @@ status: unread
 ---
 # morbidness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally gloomy or unhealthy state of mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unhealthful and generally bad for you.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor will it at all detract from him, dramatically regarded, if either by birth or other circumstances, he have what seems a half wilful overruling morbidness at the bottom of his nature."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For all men tragically great are made so through a certain morbidness."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Although modern sophistication easily points out flaws in Charles Brockden Brown’s story-structure, and reproves him for improbability, morbidness, and a style often too elevated, yet his work lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally gloomy or unhealthy state of mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unhealthful and generally bad for you.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor will it at all detract from him, dramatically regarded, if either by birth or other circumstances, he have what seems a half wilful overruling morbidness at the bottom of his nature."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For all men tragically great are made so through a certain morbidness."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Although modern sophistication easily points out flaws in Charles Brockden Brown’s story-structure, and reproves him for improbability, morbidness, and a style often too elevated, yet his work lives."*

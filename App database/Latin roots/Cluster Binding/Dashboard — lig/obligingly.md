@@ -5,15 +5,6 @@ status: unread
 ---
 # obligingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accommodation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accommodation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She obligingly consented to act as mediatrix in the matter."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw as a great favor that he would obligingly use his remarkable knowledge of pictures on behalf of Mrs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Someone obligingly took the dish from Bagratión (or he would, it seemed, have held it till evening and have gone in to dinner with it) and drew his attention to the verses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accommodation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accommodation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She obligingly consented to act as mediatrix in the matter."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw as a great favor that he would obligingly use his remarkable knowledge of pictures on behalf of Mrs."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Someone obligingly took the dish from Bagratión (or he would, it seemed, have held it till evening and have gone in to dinner with it) and drew his attention to the verses."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # prefabricate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce synthetically, artificially, or stereotypically and unoriginally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefabricate designates to manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce synthetically, artificially, or stereotypically and unoriginally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefabricate designates to manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # attributive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of adjectives; placed before the nouns they modify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of adjectives; placed before the nouns they modify.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attributive designates of adjectives; placed before the nouns they modify."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of adjectives; placed before the nouns they modify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of adjectives; placed before the nouns they modify.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attributive designates of adjectives; placed before the nouns they modify."*

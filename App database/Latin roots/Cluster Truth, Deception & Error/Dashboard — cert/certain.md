@@ -5,15 +5,6 @@ status: unread
 ---
 # certain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Definite but not specified or identified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or feeling no doubt or uncertainty; confident and assured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do not know him, my lord, as we do; certain it is that he will steal himself into a man’s favour, and for a week escape a great deal of discoveries, but when you find him out, you have him ever after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would do the man what honour I can, but of this I am not certain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certain it is I lik’d her And boarded her i’ the wanton way of youth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Definite but not specified or identified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or feeling no doubt or uncertainty; confident and assured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do not know him, my lord, as we do; certain it is that he will steal himself into a man’s favour, and for a week escape a great deal of discoveries, but when you find him out, you have him ever after."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would do the man what honour I can, but of this I am not certain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certain it is I lik’d her And boarded her i’ the wanton way of youth."*

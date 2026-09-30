@@ -5,13 +5,6 @@ status: unread
 ---
 # extemporisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance given extempore without planning or preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performance given extempore without planning or preparation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What various advantages would or might have resulted from a prolongation of such an extemporisation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance given extempore without planning or preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performance given extempore without planning or preparation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What various advantages would or might have resulted from a prolongation of such an extemporisation?"*

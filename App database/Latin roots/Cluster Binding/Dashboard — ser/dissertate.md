@@ -5,13 +5,6 @@ status: unread
 ---
 # dissertate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk at length and formally about a topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk at length and formally about a topic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissertate designates talk at length and formally about a topic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk at length and formally about a topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk at length and formally about a topic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissertate designates talk at length and formally about a topic."*

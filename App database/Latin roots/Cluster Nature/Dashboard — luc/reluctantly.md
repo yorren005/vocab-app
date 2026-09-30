@@ -5,15 +5,6 @@ status: unread
 ---
 # reluctantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With reluctance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reluctance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Give him the new bill to sign, George, and he’ll sign it like a man.” “I was coming to you this morning,” observes the trooper reluctantly."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never submitted more reluctantly to the jealous and ill-judging claims of Mary; but so it must be, and they set off for the town, Charles taking care of his sister, and Captain Benwick attending to her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He reluctantly released the soldier, and flung him back against the hedge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With reluctance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reluctance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Give him the new bill to sign, George, and he’ll sign it like a man.” “I was coming to you this morning,” observes the trooper reluctantly."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never submitted more reluctantly to the jealous and ill-judging claims of Mary; but so it must be, and they set off for the town, Charles taking care of his sister, and Captain Benwick attending to her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He reluctantly released the soldier, and flung him back against the hedge."*

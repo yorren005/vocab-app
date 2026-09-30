@@ -5,13 +5,6 @@ status: unread
 ---
 # proximo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the next month after the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or of the next month after the present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proximo designates in or of the next month after the present."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the next month after the present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or of the next month after the present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proximo designates in or of the next month after the present."*

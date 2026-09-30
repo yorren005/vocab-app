@@ -5,13 +5,6 @@ status: unread
 ---
 # copartnership
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A partnership in which employees get a share of the profits in addition to their wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partnership in which employees get a share of the profits in addition to their wages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copartnership designates a partnership in which employees get a share of the profits in addition to their wages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A partnership in which employees get a share of the profits in addition to their wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partnership in which employees get a share of the profits in addition to their wages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copartnership designates a partnership in which employees get a share of the profits in addition to their wages."*

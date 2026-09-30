@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclamen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclamen designates mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclamen designates mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals."*

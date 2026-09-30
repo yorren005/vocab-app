@@ -5,15 +5,6 @@ status: unread
 ---
 # tyrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute ruler unrestrained by law or constitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usurper of sovereignty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do I not think on thee when I forgot Am of my self, all-tyrant, for thy sake?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rest much bounden to you; fare you well! [_Exit Le Beau._] Thus must I from the smoke into the smother, From tyrant Duke unto a tyrant brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute ruler unrestrained by law or constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usurper of sovereignty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do I not think on thee when I forgot Am of my self, all-tyrant, for thy sake?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rest much bounden to you; fare you well! [_Exit Le Beau._] Thus must I from the smoke into the smother, From tyrant Duke unto a tyrant brother."*

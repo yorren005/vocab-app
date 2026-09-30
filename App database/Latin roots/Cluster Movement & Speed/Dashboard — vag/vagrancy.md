@@ -5,14 +5,6 @@ status: unread
 ---
 # vagrancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of wandering from place to place; having no permanent home or means of livelihood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of wandering from place to place; having no permanent home or means of livelihood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"‘Yes, master, and I’ve never been in it much.’ (I had come out of Kingston Jail last on a vagrancy committal."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The task of recalling him from the vagrancy into which he always sank when he had spoken, was like recalling some very weak person from a swoon, or endeavouring, in the hope of some disclosure, to stay the spirit of a fast-dying man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of wandering from place to place; having no permanent home or means of livelihood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of wandering from place to place; having no permanent home or means of livelihood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"‘Yes, master, and I’ve never been in it much.’ (I had come out of Kingston Jail last on a vagrancy committal."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The task of recalling him from the vagrancy into which he always sank when he had spoken, was like recalling some very weak person from a swoon, or endeavouring, in the hope of some disclosure, to stay the spirit of a fast-dying man."*

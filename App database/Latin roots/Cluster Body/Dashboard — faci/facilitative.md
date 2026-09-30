@@ -5,13 +5,6 @@ status: unread
 ---
 # facilitative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from difficulty or impediment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from difficulty or impediment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitative designates freeing from difficulty or impediment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from difficulty or impediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from difficulty or impediment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitative designates freeing from difficulty or impediment."*

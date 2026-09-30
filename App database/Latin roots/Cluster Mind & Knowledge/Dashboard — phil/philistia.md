@@ -5,13 +5,6 @@ status: unread
 ---
 # philistia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philistia designates an ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philistia designates an ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # reverberant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tendency to reverberate or be repeatedly reflected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a tendency to reverberate or be repeatedly reflected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reverberant designates having a tendency to reverberate or be repeatedly reflected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tendency to reverberate or be repeatedly reflected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a tendency to reverberate or be repeatedly reflected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reverberant designates having a tendency to reverberate or be repeatedly reflected."*

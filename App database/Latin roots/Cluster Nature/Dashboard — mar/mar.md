@@ -5,15 +5,6 @@ status: unread
 ---
 # mar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following february and preceding april.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark or flaw that spoils the appearance of something (especially on a person's body).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it not sinful then striving to mend, To mar the subject that before was well?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But truly, these same whoreson devils do the gods great harm in their women, for in every ten that they make, the devils mar five."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, I am helping you to mar that which God made, a poor unworthy brother of yours, with idleness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following february and preceding april.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark or flaw that spoils the appearance of something (especially on a person's body).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it not sinful then striving to mend, To mar the subject that before was well?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But truly, these same whoreson devils do the gods great harm in their women, for in every ten that they make, the devils mar five."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, I am helping you to mar that which God made, a poor unworthy brother of yours, with idleness."*

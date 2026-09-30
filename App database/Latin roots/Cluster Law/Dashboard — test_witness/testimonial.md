@@ -5,15 +5,6 @@ status: unread
 ---
 # testimonial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something given or done as an expression of esteem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oswald, my second (ten and a half), is the child who contributed two and nine-pence to the Great National Smithers Testimonial."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All objects were alike to him, but he was always particularly ready for anything in the way of a testimonial to any one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When a testimonial was originated to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something given or done as an expression of esteem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oswald, my second (ten and a half), is the child who contributed two and nine-pence to the Great National Smithers Testimonial."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All objects were alike to him, but he was always particularly ready for anything in the way of a testimonial to any one."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"When a testimonial was originated to Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # accost
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak to someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approach with an offer of sexual favors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Mistress Accost, I desire better acquaintance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Mistress Mary Accost,— SIR TOBY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You mistake, knight: accost is front her, board her, woo her, assail her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approach with an offer of sexual favors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Mistress Accost, I desire better acquaintance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Mistress Mary Accost,— SIR TOBY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You mistake, knight: accost is front her, board her, woo her, assail her."*

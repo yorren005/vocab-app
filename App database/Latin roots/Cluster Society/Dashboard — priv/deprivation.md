@@ -5,15 +5,6 @@ status: unread
 ---
 # deprivation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme poverty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disadvantage that results from losing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You must feel it as a deprivation to you, miss,” replies Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was calculated to BE a deprivation, I’m sure he was.” Volumnia gives Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I think she’s took against ye—that I do.” “Oh no—not at all,” replied Gabriel, hastily, and a sigh escaped him, which the deprivation of lamb skins could hardly have caused."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme poverty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disadvantage that results from losing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You must feel it as a deprivation to you, miss,” replies Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was calculated to BE a deprivation, I’m sure he was.” Volumnia gives Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I think she’s took against ye—that I do.” “Oh no—not at all,” replied Gabriel, hastily, and a sigh escaped him, which the deprivation of lamb skins could hardly have caused."*

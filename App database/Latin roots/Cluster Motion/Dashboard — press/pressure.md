@@ -5,15 +5,6 @@ status: unread
 ---
 # pressure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The force applied to a unit area of surface; measured in pascals (si unit) or in dynes (cgs unit).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A force that compels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The pressure lay on them all very heavily."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rusty patch immediately upon the verse, caused by previous pressure of an iron substance thereon, told that this was not the first time the old volume had been used for the purpose."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So they all entered, and the cloth of the tent, to the eyes of an observer on the outside, became bulged into innumerable pimples such as we observe on a sack of potatoes, caused by the various human heads, backs, and elbows at high pressure within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The force applied to a unit area of surface; measured in pascals (si unit) or in dynes (cgs unit).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A force that compels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The pressure lay on them all very heavily."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rusty patch immediately upon the verse, caused by previous pressure of an iron substance thereon, told that this was not the first time the old volume had been used for the purpose."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So they all entered, and the cloth of the tent, to the eyes of an observer on the outside, became bulged into innumerable pimples such as we observe on a sack of potatoes, caused by the various human heads, backs, and elbows at high pressure within."*

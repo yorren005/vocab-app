@@ -5,15 +5,6 @@ status: unread
 ---
 # surprise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The astonishment you feel when something totally unexpected happens to you.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden unexpected event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see them lay their heads together to surprise me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but, in night’s coverture, Thy brother being carelessly encamped, His soldiers lurking in the towns about, And but attended by a simple guard, We may surprise and take him at our pleasure?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say not, slaughter him, For I intend but only to surprise him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The astonishment you feel when something totally unexpected happens to you.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden unexpected event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see them lay their heads together to surprise me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but, in night’s coverture, Thy brother being carelessly encamped, His soldiers lurking in the towns about, And but attended by a simple guard, We may surprise and take him at our pleasure?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say not, slaughter him, For I intend but only to surprise him."*

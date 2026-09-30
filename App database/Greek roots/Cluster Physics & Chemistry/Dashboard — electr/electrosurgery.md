@@ -5,13 +5,6 @@ status: unread
 ---
 # electrosurgery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery performed with electrical devices (as in electrocautery).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery performed with electrical devices (as in electrocautery).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrosurgery designates surgery performed with electrical devices (as in electrocautery)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery performed with electrical devices (as in electrocautery).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery performed with electrical devices (as in electrocautery).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrosurgery designates surgery performed with electrical devices (as in electrocautery)."*

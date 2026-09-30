@@ -5,15 +5,6 @@ status: unread
 ---
 # unfirm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly or solidly positioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of soil) unstable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you moved, when all the sway of earth Shakes like a thing unfirm?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under yond yew tree lay thee all along, Holding thy ear close to the hollow ground; So shall no foot upon the churchyard tread, Being loose, unfirm, with digging up of graves, But thou shalt hear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly or solidly positioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of soil) unstable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you moved, when all the sway of earth Shakes like a thing unfirm?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under yond yew tree lay thee all along, Holding thy ear close to the hollow ground; So shall no foot upon the churchyard tread, Being loose, unfirm, with digging up of graves, But thou shalt hear it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # translocate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer (a chromosomal segment) to a new position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move from one place to another, especially of wild animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, translocate designates transfer (a chromosomal segment) to a new position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer (a chromosomal segment) to a new position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move from one place to another, especially of wild animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, translocate designates transfer (a chromosomal segment) to a new position."*

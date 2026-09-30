@@ -5,13 +5,6 @@ status: unread
 ---
 # servilely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obsequious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obsequious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"And thou, sly hypocrite, who now wouldst seem Patron of liberty, who more than thou Once fawned, and cringed, and servilely adored Heaven’s awful Monarch? wherefore, but in hope To dispossess him, and thyself to reign?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obsequious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obsequious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"And thou, sly hypocrite, who now wouldst seem Patron of liberty, who more than thou Once fawned, and cringed, and servilely adored Heaven’s awful Monarch? wherefore, but in hope To dispossess him, and thyself to reign?"*

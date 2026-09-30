@@ -5,13 +5,6 @@ status: unread
 ---
 # purifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for removing impurities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for removing impurities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Chummy, the chimney-purifier, who had swept the last three families, tried to coax the butler and the boy under him, whose duty it was to go out covered with buttons and with stripes down his trousers, for the protection of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for removing impurities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for removing impurities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Chummy, the chimney-purifier, who had swept the last three families, tried to coax the butler and the boy under him, whose duty it was to go out covered with buttons and with stripes down his trousers, for the protection of Mrs."*

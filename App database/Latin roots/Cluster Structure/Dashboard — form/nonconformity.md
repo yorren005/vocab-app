@@ -5,13 +5,6 @@ status: unread
 ---
 # nonconformity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of harmony or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of orthodoxy in thoughts or beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was far from being seriously concerned about his nonconformity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of harmony or correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of orthodoxy in thoughts or beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was far from being seriously concerned about his nonconformity."*

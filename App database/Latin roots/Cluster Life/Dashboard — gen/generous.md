@@ -5,15 +5,6 @@ status: unread
 ---
 # generous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to give and share unstintingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not petty in character and mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, being remiss, Most generous, and free from all contriving, Will not peruse the foils; so that with ease, Or with a little shuffling, you may choose A sword unbated, and in a pass of practice, Requite him for your father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, in this audience, Let my disclaiming from a purpos’d evil Free me so far in your most generous thoughts That I have shot my arrow o’er the house And hurt my brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to give and share unstintingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not petty in character and mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, being remiss, Most generous, and free from all contriving, Will not peruse the foils; so that with ease, Or with a little shuffling, you may choose A sword unbated, and in a pass of practice, Requite him for your father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, in this audience, Let my disclaiming from a purpos’d evil Free me so far in your most generous thoughts That I have shot my arrow o’er the house And hurt my brother."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # assent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement with a statement or proposal to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, that without the King’s assent or knowledge, You wrought to be a legate, by which power You maimed the jurisdiction of all bishops."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He ought to be most sorry if he did not come up to the best." Bruno could now gladly and joyfully assent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy yielding his assent to this proposal, Jo is requested to follow into the drawing-room doorway, where Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement with a statement or proposal to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, that without the King’s assent or knowledge, You wrought to be a legate, by which power You maimed the jurisdiction of all bishops."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He ought to be most sorry if he did not come up to the best." Bruno could now gladly and joyfully assent."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy yielding his assent to this proposal, Jo is requested to follow into the drawing-room doorway, where Mr."*

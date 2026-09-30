@@ -5,13 +5,6 @@ status: unread
 ---
 # symbolising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing something with a symbol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent or identify by using a symbol; use symbols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then the usual form of marriage is performed between the priest and his wife, symbolising the supposed union between Sun and Earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing something with a symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent or identify by using a symbol; use symbols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then the usual form of marriage is performed between the priest and his wife, symbolising the supposed union between Sun and Earth."*

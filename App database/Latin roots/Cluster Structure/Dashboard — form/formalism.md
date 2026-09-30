@@ -5,15 +5,6 @@ status: unread
 ---
 # formalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that formal structure rather than content is what should be represented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical theory that formal (logical or mathematical) statements have no meaning but that its symbols (regarded as physical entities) exhibit a form that has useful applications.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In this, despite its beauty, there is still a _soupcon_ of formalism, a lingering trace of powder from the eighteenth century periwig, dimming the bright locks of poetry."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A finite and material sense of God leads to formalism and narrowness; it chills the spirit of 256:27 Christianity."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though its date or period is not discovered, it seems to have been both a product, and perhaps a producer, of the reaction against the formalism which had fallen upon ascetic Buddhism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that formal structure rather than content is what should be represented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical theory that formal (logical or mathematical) statements have no meaning but that its symbols (regarded as physical entities) exhibit a form that has useful applications.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In this, despite its beauty, there is still a _soupcon_ of formalism, a lingering trace of powder from the eighteenth century periwig, dimming the bright locks of poetry."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A finite and material sense of God leads to formalism and narrowness; it chills the spirit of 256:27 Christianity."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though its date or period is not discovered, it seems to have been both a product, and perhaps a producer, of the reaction against the formalism which had fallen upon ascetic Buddhism."*

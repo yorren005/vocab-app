@@ -5,15 +5,6 @@ status: unread
 ---
 # unobserved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not observed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not observed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"On its being proposed, Anne offered her services, as usual; and though her eyes would sometimes fill with tears as she sat at the instrument, she was extremely glad to be employed, and desired nothing in return but to be unobserved."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How much is that?” “Hundred and seventeen,” chuckled another old gentleman, given to mental arithmetic and little conversation, who had hitherto sat unobserved in a corner."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She made use of an unobserved minute whilst his attention was absorbed in the operation to arrange her plumes a little."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not observed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not observed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"On its being proposed, Anne offered her services, as usual; and though her eyes would sometimes fill with tears as she sat at the instrument, she was extremely glad to be employed, and desired nothing in return but to be unobserved."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How much is that?” “Hundred and seventeen,” chuckled another old gentleman, given to mental arithmetic and little conversation, who had hitherto sat unobserved in a corner."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She made use of an unobserved minute whilst his attention was absorbed in the operation to arrange her plumes a little."*

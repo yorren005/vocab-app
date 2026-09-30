@@ -5,20 +5,6 @@ status: unread
 ---
 # knoll
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Knell
-> 2. **Nuance / Usage**: Small round hill : mound
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the knoll withstood the storm*), direct object (*cleaved the knoll*), or prepositional anchor (*amidst the knoll*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch Book*):** *"beyond swells the green knoll on which stands the whitewashed church."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Two officers were standing on the knoll, directing the men."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"hundred paces in front of the knoll and below it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Knell
+> 2. **Nuance / Usage**: Small round hill : mound
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the knoll withstood the storm*), direct object (*cleaved the knoll*), or prepositional anchor (*amidst the knoll*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch Book*):** *"beyond swells the green knoll on which stands the whitewashed church."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Two officers were standing on the knoll, directing the men."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"hundred paces in front of the knoll and below it."*

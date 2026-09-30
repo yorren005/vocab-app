@@ -5,13 +5,6 @@ status: unread
 ---
 # toponymy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place-names of a region or language or especially the etymological study of them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place-names of a region or language or especially the etymological study of them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toponymy designates the place-names of a region or language or especially the etymological study of them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place-names of a region or language or especially the etymological study of them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place-names of a region or language or especially the etymological study of them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toponymy designates the place-names of a region or language or especially the etymological study of them."*

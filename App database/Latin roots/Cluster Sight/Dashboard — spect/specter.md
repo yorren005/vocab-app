@@ -5,15 +5,6 @@ status: unread
 ---
 # specter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental representation of some haunting experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ghostly appearing figure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Was It—the dark form with the chain—a creature of this world, or a specter?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This was no phantom, then—no air-drawn specter."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I had heard that specter and fiend were compelled to fade as morning brightened, but this creature was too real, too foul a thing of earth, to vanish at cock-crow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental representation of some haunting experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ghostly appearing figure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Was It—the dark form with the chain—a creature of this world, or a specter?"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This was no phantom, then—no air-drawn specter."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I had heard that specter and fiend were compelled to fade as morning brightened, but this creature was too real, too foul a thing of earth, to vanish at cock-crow."*

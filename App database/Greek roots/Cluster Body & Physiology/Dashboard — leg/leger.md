@@ -5,14 +5,6 @@ status: unread
 ---
 # leger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A record in which commercial accounts are recorded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter who was an early cubist (1881-1955).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Leger, and the colloquy between the Rector and his wife ended."*
-> - 📜 **James Joyce (*Ulysses*):** *"That was one of the saint Legers of Doneraile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A record in which commercial accounts are recorded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter who was an early cubist (1881-1955).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Leger, and the colloquy between the Rector and his wife ended."*
+> - 📜 **James Joyce (*Ulysses*):** *"That was one of the saint Legers of Doneraile."*

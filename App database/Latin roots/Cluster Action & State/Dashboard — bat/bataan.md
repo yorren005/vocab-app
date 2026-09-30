@@ -5,13 +5,6 @@ status: unread
 ---
 # bataan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bataan designates the peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bataan designates the peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945."*

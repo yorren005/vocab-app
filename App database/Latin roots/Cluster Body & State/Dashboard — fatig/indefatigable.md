@@ -5,15 +5,6 @@ status: unread
 ---
 # indefatigable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing sustained enthusiastic action with unflagging vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing sustained enthusiastic action with unflagging vitality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your son is indefatigable,” said I."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was indefatigable; he had the habit of sitting up to all hours, of being called at all hours, in which our _bourgeoisie_, I cannot but acknowledge, is wanting."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He is indefatigable in the performance of his spiritual duties; and he has, besides, a noble and upright soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing sustained enthusiastic action with unflagging vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing sustained enthusiastic action with unflagging vitality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Your son is indefatigable,” said I."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was indefatigable; he had the habit of sitting up to all hours, of being called at all hours, in which our _bourgeoisie_, I cannot but acknowledge, is wanting."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He is indefatigable in the performance of his spiritual duties; and he has, besides, a noble and upright soul."*

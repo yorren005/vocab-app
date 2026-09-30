@@ -5,15 +5,6 @@ status: unread
 ---
 # occupation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal activity in your life that you do to earn money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control of a country by military forces of a foreign power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love, That thou couldst see my wars today, and knew’st The royal occupation, thou shouldst see A workman in’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made good work, You and your apron-men, you that stood so much Upon the voice of occupation and The breath of garlic eaters!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I had been a man of any occupation, if I would not have taken him at a word, I would I might go to hell among the rogues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal activity in your life that you do to earn money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control of a country by military forces of a foreign power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love, That thou couldst see my wars today, and knew’st The royal occupation, thou shouldst see A workman in’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made good work, You and your apron-men, you that stood so much Upon the voice of occupation and The breath of garlic eaters!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I had been a man of any occupation, if I would not have taken him at a word, I would I might go to hell among the rogues."*

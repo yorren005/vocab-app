@@ -5,13 +5,6 @@ status: unread
 ---
 # summation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding summary (as in presenting a case before a law court).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This summation of each person's income makes income taxation peculiarly suitable for progressive taxation with the social-welfare motive of equalizing the distribution of wealth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding summary (as in presenting a case before a law court).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This summation of each person's income makes income taxation peculiarly suitable for progressive taxation with the social-welfare motive of equalizing the distribution of wealth."*

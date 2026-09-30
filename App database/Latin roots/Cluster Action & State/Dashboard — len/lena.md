@@ -5,14 +5,6 @@ status: unread
 ---
 # lena
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A russian river in siberia; flows northward into the laptev sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A russian river in siberia; flows northward into the laptev sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AEMILIUS LEPIDUS, ” ” ” CICERO, PUBLIUS, POPILIUS LENA, Senators."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cassius, be constant: Popilius Lena speaks not of our purposes; For look, he smiles, and Caesar doth not change."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A russian river in siberia; flows northward into the laptev sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A russian river in siberia; flows northward into the laptev sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AEMILIUS LEPIDUS, ” ” ” CICERO, PUBLIUS, POPILIUS LENA, Senators."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cassius, be constant: Popilius Lena speaks not of our purposes; For look, he smiles, and Caesar doth not change."*

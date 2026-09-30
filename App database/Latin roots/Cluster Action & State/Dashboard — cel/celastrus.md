@@ -5,13 +5,6 @@ status: unread
 ---
 # celastrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celastrus designates genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celastrus designates genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet."*

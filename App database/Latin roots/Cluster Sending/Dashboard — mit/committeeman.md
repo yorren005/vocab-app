@@ -5,13 +5,6 @@ status: unread
 ---
 # committeeman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of committee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of committee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Ilyá, again thrusting his way through the crowd, went out of the drawing room and reappeared a minute later with another committeeman, carrying a large silver salver which he presented to Prince Bagratión."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of committee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of committee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Ilyá, again thrusting his way through the crowd, went out of the drawing room and reappeared a minute later with another committeeman, carrying a large silver salver which he presented to Prince Bagratión."*

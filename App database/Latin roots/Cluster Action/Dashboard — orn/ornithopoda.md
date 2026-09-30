@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithopoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopoda designates widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopoda designates widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stratification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process or arranging persons into classes or social strata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being arranged in social strata or classes within a group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratification designates the act or process or arranging persons into classes or social strata."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process or arranging persons into classes or social strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being arranged in social strata or classes within a group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratification designates the act or process or arranging persons into classes or social strata."*

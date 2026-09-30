@@ -5,15 +5,6 @@ status: unread
 ---
 # Myrmidons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legendary Thessalian people who accompanied their king Achilles in the Trojan War.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loyal follower; especially : a subordinate who executes orders unquestioningly or unscrupulously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus’ wounds have rous’d his drowsy blood, Together with his mangled Myrmidons, That noseless, handless, hack’d and chipp’d, come to him, Crying on Hector."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Achilles with Myrmidons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come here about me, you my Myrmidons; Mark what I say."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legendary Thessalian people who accompanied their king Achilles in the Trojan War.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loyal follower; especially : a subordinate who executes orders unquestioningly or unscrupulously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus’ wounds have rous’d his drowsy blood, Together with his mangled Myrmidons, That noseless, handless, hack’d and chipp’d, come to him, Crying on Hector."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Achilles with Myrmidons."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come here about me, you my Myrmidons; Mark what I say."*

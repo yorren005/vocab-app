@@ -5,15 +5,6 @@ status: unread
 ---
 # interrogate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit (a signal) for setting off an appropriate response, as in telecommunication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a series of questions to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When I reached Coombe Tracey I told Perkins to put up the horses, and I made inquiries for the lady whom I had come to interrogate."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"During the recent unpleasant situation of affairs in Ireland, a watch-word was required of every passenger after a certain hour, with liberty for the sentinel to interrogate at will."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Good night!” It would have been of as much avail to interrogate any stone face outside the chateau as to interrogate that face of his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit (a signal) for setting off an appropriate response, as in telecommunication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a series of questions to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When I reached Coombe Tracey I told Perkins to put up the horses, and I made inquiries for the lady whom I had come to interrogate."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"During the recent unpleasant situation of affairs in Ireland, a watch-word was required of every passenger after a certain hour, with liberty for the sentinel to interrogate at will."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Good night!” It would have been of as much avail to interrogate any stone face outside the chateau as to interrogate that face of his."*

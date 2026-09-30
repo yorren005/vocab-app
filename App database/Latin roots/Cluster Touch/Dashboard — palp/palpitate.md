@@ -5,15 +5,6 @@ status: unread
 ---
 # palpitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to throb or beat rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shake with fast, tremulous movements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I shall go hwome.” The air of the sleeping-chamber seemed to palpitate with the hopeless passion of the girls."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"My heart began to palpitate with dread of some unknown danger."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The people crowded into the Plaza de la Seo, and in front of the Magdalene arch, waiting until the "Gazette" should appear; and at last it came out, cheering everybody's spirits, and making all hearts palpitate with hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to throb or beat rapidly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shake with fast, tremulous movements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I shall go hwome.” The air of the sleeping-chamber seemed to palpitate with the hopeless passion of the girls."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"My heart began to palpitate with dread of some unknown danger."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The people crowded into the Plaza de la Seo, and in front of the Magdalene arch, waiting until the "Gazette" should appear; and at last it came out, cheering everybody's spirits, and making all hearts palpitate with hope."*

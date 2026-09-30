@@ -5,13 +5,6 @@ status: unread
 ---
 # postcode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A code of letters and digits added to a postal address to aid in the sorting of mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A code of letters and digits added to a postal address to aid in the sorting of mail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postcode designates a code of letters and digits added to a postal address to aid in the sorting of mail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A code of letters and digits added to a postal address to aid in the sorting of mail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A code of letters and digits added to a postal address to aid in the sorting of mail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postcode designates a code of letters and digits added to a postal address to aid in the sorting of mail."*

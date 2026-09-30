@@ -5,15 +5,6 @@ status: unread
 ---
 # literally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a literal sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (intensifier before a figurative expression) without exaggeration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t mean literally a child,” pursued Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chesney Wold. (I thank my honourable friend for that cheer.) If any man had told me then that I should be as hard up at the present time as I literally find myself, I should have—well, I should have pitched into him,” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s door—literally with a hand, for the knocker was gone—and after a long parley gained admission from an Irishwoman, who was in the area when I knocked, breaking up the lid of a water-butt with a poker to light the fire with."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a literal sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (intensifier before a figurative expression) without exaggeration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t mean literally a child,” pursued Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chesney Wold. (I thank my honourable friend for that cheer.) If any man had told me then that I should be as hard up at the present time as I literally find myself, I should have—well, I should have pitched into him,” says Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s door—literally with a hand, for the knocker was gone—and after a long parley gained admission from an Irishwoman, who was in the area when I knocked, breaking up the lid of a water-butt with a poker to light the fire with."*

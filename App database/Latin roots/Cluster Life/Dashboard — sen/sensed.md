@@ -5,15 +5,6 @@ status: unread
 ---
 # sensed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceive by a physical sensation, e.g., coming from the skin or muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect some circumstance or entity automatically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Captain Jamie must have sensed this faith that informed me, for he said: “I remember a Swede that went crazy twenty years ago."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was nervous, tingling work, for as surely as I sensed his intention of briefness, just as surely had he sensed mine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But in him, this poor-clad, lean-bellied priest, I sensed the power behind power in all the palace and in all Cho-Sen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceive by a physical sensation, e.g., coming from the skin or muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect some circumstance or entity automatically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Captain Jamie must have sensed this faith that informed me, for he said: “I remember a Swede that went crazy twenty years ago."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was nervous, tingling work, for as surely as I sensed his intention of briefness, just as surely had he sensed mine."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But in him, this poor-clad, lean-bellied priest, I sensed the power behind power in all the palace and in all Cho-Sen."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # venue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scene of any event or action (especially the place of a meeting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law: the jurisdiction where a trial will be held.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by the salt wave of the Mediterraneum, a sweet touch, a quick venue of wit!"*
-> - 📜 **James Joyce (*Ulysses*):** *"How they change the venue when it’s not what they like."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scene of any event or action (especially the place of a meeting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law: the jurisdiction where a trial will be held.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by the salt wave of the Mediterraneum, a sweet touch, a quick venue of wit!"*
+> - 📜 **James Joyce (*Ulysses*):** *"How they change the venue when it’s not what they like."*

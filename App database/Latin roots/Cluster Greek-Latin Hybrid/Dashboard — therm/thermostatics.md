@@ -5,13 +5,6 @@ status: unread
 ---
 # thermostatics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of thermodynamics concerned with thermal equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of thermodynamics concerned with thermal equilibrium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatics designates the aspect of thermodynamics concerned with thermal equilibrium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of thermodynamics concerned with thermal equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of thermodynamics concerned with thermal equilibrium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatics designates the aspect of thermodynamics concerned with thermal equilibrium."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # nominally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In name only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In name only.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And our dinner hour is nominally (for we dine at all hours) five!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, “this man with me is the other party implicated in this unfortunate affair—nominally, only nominally—and my sole object is to prevent his getting into trouble on my account."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Although the road along its greater part had been as good as any turnpike-road in the country, it was nominally only a byway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In name only.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In name only.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And our dinner hour is nominally (for we dine at all hours) five!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, “this man with me is the other party implicated in this unfortunate affair—nominally, only nominally—and my sole object is to prevent his getting into trouble on my account."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Although the road along its greater part had been as good as any turnpike-road in the country, it was nominally only a byway."*

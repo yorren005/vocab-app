@@ -5,13 +5,6 @@ status: unread
 ---
 # prerecord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Record before presentation, as of a broadcast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record before presentation, as of a broadcast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prerecord designates record before presentation, as of a broadcast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Record before presentation, as of a broadcast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record before presentation, as of a broadcast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prerecord designates record before presentation, as of a broadcast."*

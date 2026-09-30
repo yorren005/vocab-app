@@ -5,15 +5,6 @@ status: unread
 ---
 # diaphanous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by such fineness of texture as to permit seeing through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme delicacy of form : ethereal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The water shone pacifically; the sky, without a speck, was a benign immensity of unstained light; the very mist on the Essex marsh was like a gauzy and radiant fabric, hung from the wooded rises inland, and draping the low shores in diaphanous folds."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"It was a wild, cold, seasonable night of March, with a pale moon, lying on her back as though the wind had tilted her, and flying wrack of the most diaphanous and lawny texture."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Or, using his own words, we may compare his tranquil existence to A crystal river, Diaphanous because it travels slowly, and in which poetic thoughts rose unimpeded to the surface, like bubbles through the pellucid stream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by such fineness of texture as to permit seeing through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme delicacy of form : ethereal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The water shone pacifically; the sky, without a speck, was a benign immensity of unstained light; the very mist on the Essex marsh was like a gauzy and radiant fabric, hung from the wooded rises inland, and draping the low shores in diaphanous folds."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"It was a wild, cold, seasonable night of March, with a pale moon, lying on her back as though the wind had tilted her, and flying wrack of the most diaphanous and lawny texture."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Or, using his own words, we may compare his tranquil existence to A crystal river, Diaphanous because it travels slowly, and in which poetic thoughts rose unimpeded to the surface, like bubbles through the pellucid stream."*

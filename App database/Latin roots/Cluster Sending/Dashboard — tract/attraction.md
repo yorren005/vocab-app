@@ -5,15 +5,6 @@ status: unread
 ---
 # attraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The force by which one object attracts another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainment that is offered to the public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Setting the attraction of my good parts aside, I have no other charms."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has an irresistible attraction for him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But, my dear,” she went on in her mysterious way, “there’s a dreadful attraction in the place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The force by which one object attracts another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainment that is offered to the public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Setting the attraction of my good parts aside, I have no other charms."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It has an irresistible attraction for him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But, my dear,” she went on in her mysterious way, “there’s a dreadful attraction in the place."*

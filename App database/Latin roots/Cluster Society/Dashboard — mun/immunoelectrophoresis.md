@@ -5,13 +5,6 @@ status: unread
 ---
 # immunoelectrophoresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrophoresis to separate antigens and antibodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrophoresis to separate antigens and antibodies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunoelectrophoresis designates electrophoresis to separate antigens and antibodies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrophoresis to separate antigens and antibodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrophoresis to separate antigens and antibodies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunoelectrophoresis designates electrophoresis to separate antigens and antibodies."*

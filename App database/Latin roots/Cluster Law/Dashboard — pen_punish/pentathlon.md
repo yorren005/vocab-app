@@ -5,13 +5,6 @@ status: unread
 ---
 # pentathlon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest consisting of five different events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athletic contest consisting of five different events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentathlon designates an athletic contest consisting of five different events."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest consisting of five different events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athletic contest consisting of five different events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentathlon designates an athletic contest consisting of five different events."*

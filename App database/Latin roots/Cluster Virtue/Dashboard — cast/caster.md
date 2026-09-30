@@ -5,14 +5,6 @@ status: unread
 ---
 # caster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who casts molten metal into finished products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaker with a perforated top for sprinkling powdered sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a caster of state."*
-> - 📜 **Algis Budrys (*Citadel*):** *"His office chair was heavier and wider by far than any standard size, its casters rolling on a special composition base that had been laid down over the carpeting, for Marlowe's weight would have cut any ordinary rug to shreds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who casts molten metal into finished products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaker with a perforated top for sprinkling powdered sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a caster of state."*
+> - 📜 **Algis Budrys (*Citadel*):** *"His office chair was heavier and wider by far than any standard size, its casters rolling on a special composition base that had been laid down over the carpeting, for Marlowe's weight would have cut any ordinary rug to shreds."*

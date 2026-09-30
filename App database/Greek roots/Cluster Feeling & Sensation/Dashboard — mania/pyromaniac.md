@@ -5,13 +5,6 @@ status: unread
 ---
 # pyromaniac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromaniac designates a person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromaniac designates a person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires."*

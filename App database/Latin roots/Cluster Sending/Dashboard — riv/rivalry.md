@@ -5,15 +5,6 @@ status: unread
 ---
 # rivalry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of competing as for profit or a prize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of competing as for profit or a prize.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No sooner did the dark queen hear the soberer richer note of Tess among those of the other work-people than a long-smouldering sense of rivalry inflamed her to madness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This rivalry between us was a serious matter—so serious, indeed, that I immediately took advantage of what he had imputed and raced back to the spring."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this country they have been granted recklessly, often in general laws, by states keen in their rivalry for railroad extension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of competing as for profit or a prize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of competing as for profit or a prize.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No sooner did the dark queen hear the soberer richer note of Tess among those of the other work-people than a long-smouldering sense of rivalry inflamed her to madness."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This rivalry between us was a serious matter—so serious, indeed, that I immediately took advantage of what he had imputed and raced back to the spring."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this country they have been granted recklessly, often in general laws, by states keen in their rivalry for railroad extension."*

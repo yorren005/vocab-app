@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsequence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no important effects or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, no, Liddy; you must stay!” said Bathsheba, dropping from haughtiness to entreaty with capricious inconsequence."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Grose looked round once more; she fixed her eyes on the duskier distance, then, pulling herself together, turned to me with abrupt inconsequence."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"And did you see anyone?” “Ah, _no!_” she returned, almost with the full privilege of childish inconsequence, resentfully, though with a long sweetness in her little drawl of the negative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no important effects or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, no, Liddy; you must stay!” said Bathsheba, dropping from haughtiness to entreaty with capricious inconsequence."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Grose looked round once more; she fixed her eyes on the duskier distance, then, pulling herself together, turned to me with abrupt inconsequence."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"And did you see anyone?” “Ah, _no!_” she returned, almost with the full privilege of childish inconsequence, resentfully, though with a long sweetness in her little drawl of the negative."*

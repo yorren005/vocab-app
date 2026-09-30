@@ -5,15 +5,6 @@ status: unread
 ---
 # presumption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assumption that is taken for granted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an inference of the truth of a fact from other facts proved or admitted or judicially noticed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not so with Him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my presumption not provoke thy wrath, For I am sorry that with reverence I did not entertain thee as thou art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, this was nothing but an argument That he that breaks a stick of Gloucester’s grove Shall lose his head for his presumption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assumption that is taken for granted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an inference of the truth of a fact from other facts proved or admitted or judicially noticed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not so with Him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my presumption not provoke thy wrath, For I am sorry that with reverence I did not entertain thee as thou art."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, this was nothing but an argument That he that breaks a stick of Gloucester’s grove Shall lose his head for his presumption."*

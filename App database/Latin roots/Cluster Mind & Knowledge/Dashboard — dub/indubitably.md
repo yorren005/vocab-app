@@ -5,15 +5,6 @@ status: unread
 ---
 # indubitably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to a degree that could not be doubted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner or to a degree that could not be doubted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is so indubitably sister to Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the very instant he did this and uttered those words, Pierre felt that the question of his wife’s guilt which had been tormenting him the whole day was finally and indubitably answered in the affirmative."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absence of suffering, the satisfaction of one’s needs and consequent freedom in the choice of one’s occupation, that is, of one’s way of life, now seemed to Pierre to be indubitably man’s highest happiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to a degree that could not be doubted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner or to a degree that could not be doubted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She is so indubitably sister to Mr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the very instant he did this and uttered those words, Pierre felt that the question of his wife’s guilt which had been tormenting him the whole day was finally and indubitably answered in the affirmative."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absence of suffering, the satisfaction of one’s needs and consequent freedom in the choice of one’s occupation, that is, of one’s way of life, now seemed to Pierre to be indubitably man’s highest happiness."*

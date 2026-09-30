@@ -5,13 +5,6 @@ status: unread
 ---
 # amphipoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Amphipoda designates small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Amphipoda designates small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp."*

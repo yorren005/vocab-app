@@ -5,15 +5,6 @@ status: unread
 ---
 # table
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of data arranged in rows and columns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of furniture having a smooth flat top that is usually supported by one or more vertical legs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sit down and feed, and welcome to our table."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, Signior Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of data arranged in rows and columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of furniture having a smooth flat top that is usually supported by one or more vertical legs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sit down and feed, and welcome to our table."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, Signior Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*

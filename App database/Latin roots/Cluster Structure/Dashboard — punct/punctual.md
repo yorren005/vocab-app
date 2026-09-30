@@ -5,15 +5,6 @@ status: unread
 ---
 # punctual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting or arriving or performed exactly at the time appointed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting or arriving or performed exactly at the time appointed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was punctual and diligent; he did what he had to do, sir,” said Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I would recommend a hasty sandwich.” “Thank you, father,” returned Prince, “I will be sure to be punctual."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are as punctual as the sun,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting or arriving or performed exactly at the time appointed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting or arriving or performed exactly at the time appointed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was punctual and diligent; he did what he had to do, sir,” said Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I would recommend a hasty sandwich.” “Thank you, father,” returned Prince, “I will be sure to be punctual."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You are as punctual as the sun,” said Mr."*

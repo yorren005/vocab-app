@@ -5,13 +5,6 @@ status: unread
 ---
 # baseboard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molding covering the joint formed by a wall and the floor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molding covering the joint formed by a wall and the floor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She did not sweep the dust under the bureau, or behind the door, or forget to wipe the rounds of the chairs and the baseboard all around the rooms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A molding covering the joint formed by a wall and the floor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molding covering the joint formed by a wall and the floor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She did not sweep the dust under the bureau, or behind the door, or forget to wipe the rounds of the chairs and the baseboard all around the rooms."*

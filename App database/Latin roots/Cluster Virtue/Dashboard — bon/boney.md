@@ -5,15 +5,6 @@ status: unread
 ---
 # boney
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having bones especially many or prominent bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being very thin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Yes,” said Paul, “I got tired and fell asleep, and I don't know when I should have waked up but for your dog.” “Yes, Boney's got a keen scent for provisions,” laughed the pedler."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You see his real name is Bonaparte; we only call him Boney, for short.” Meanwhile he had stopped his horse."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He clambered into the cart, and took a seat behind the pedler, while Boney, who took his recent disappointment very good-naturedly, jogged on contentedly behind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having bones especially many or prominent bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being very thin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Yes,” said Paul, “I got tired and fell asleep, and I don't know when I should have waked up but for your dog.” “Yes, Boney's got a keen scent for provisions,” laughed the pedler."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You see his real name is Bonaparte; we only call him Boney, for short.” Meanwhile he had stopped his horse."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He clambered into the cart, and took a seat behind the pedler, while Boney, who took his recent disappointment very good-naturedly, jogged on contentedly behind."*

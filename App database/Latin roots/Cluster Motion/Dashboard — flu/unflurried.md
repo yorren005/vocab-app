@@ -5,13 +5,6 @@ status: unread
 ---
 # unflurried
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She might have posed as a picture of graceful, imperturbed ease, so calm, so smiling, so absolutely unflurried and detached in both manner and bearing did she appear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She might have posed as a picture of graceful, imperturbed ease, so calm, so smiling, so absolutely unflurried and detached in both manner and bearing did she appear."*

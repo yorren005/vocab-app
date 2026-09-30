@@ -5,15 +5,6 @@ status: unread
 ---
 # villain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wicked or evil person; someone who does evil deliberately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal bad character in a film or work of fiction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou say so, villain, Thou kill’st thy mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you? [_Strikes him again._] Hence, horrible villain, or I’ll spurn thine eyes Like balls before me!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wicked or evil person; someone who does evil deliberately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal bad character in a film or work of fiction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou say so, villain, Thou kill’st thy mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you? [_Strikes him again._] Hence, horrible villain, or I’ll spurn thine eyes Like balls before me!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who evokes boredom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father’s father wore it And thy father bore it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak, old Egeon, if thou be’st the man That hadst a wife once called Emilia, That bore thee at a burden two fair sons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your temples burned in their cement, and Your franchises, whereon you stood, confined Into an auger’s bore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who evokes boredom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father’s father wore it And thy father bore it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak, old Egeon, if thou be’st the man That hadst a wife once called Emilia, That bore thee at a burden two fair sons."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your temples burned in their cement, and Your franchises, whereon you stood, confined Into an auger’s bore."*

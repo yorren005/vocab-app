@@ -5,15 +5,6 @@ status: unread
 ---
 # comedian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional performer who tells jokes and performs comical acts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor in a comedy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He was played by the low-comedian, who had introduced gags of his own and was on most friendly terms with the pit."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And Napoleon, that solemn comedian, was making ready his expedition to Mexico, with fine words and a tradesman's cunning...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon Bonaparte was despised by all as long as he was great, but now that he has become a wretched comedian the Emperor Francis wants to offer him his daughter in an illegal marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional performer who tells jokes and performs comical acts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor in a comedy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He was played by the low-comedian, who had introduced gags of his own and was on most friendly terms with the pit."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And Napoleon, that solemn comedian, was making ready his expedition to Mexico, with fine words and a tradesman's cunning...."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon Bonaparte was despised by all as long as he was great, but now that he has become a wretched comedian the Emperor Francis wants to offer him his daughter in an illegal marriage."*

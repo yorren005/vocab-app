@@ -5,15 +5,6 @@ status: unread
 ---
 # hummock
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small natural hill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small natural hill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We had just floundered and flopped round a bend, when I saw an islet, a mere grassy hummock of bright green, in the middle of the stream."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She had learned the way to Toby's place, the main trail through the swamp going right by the hummock on which the old man's farm was situated."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"When ye kin stick a fork in the grin'stone, the loon's done!” Nan joined in Toby's loud laugh at this old joke, and pretty soon thereafter they came to the hummock on which the Vanderwillers lived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small natural hill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small natural hill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We had just floundered and flopped round a bend, when I saw an islet, a mere grassy hummock of bright green, in the middle of the stream."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She had learned the way to Toby's place, the main trail through the swamp going right by the hummock on which the old man's farm was situated."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"When ye kin stick a fork in the grin'stone, the loon's done!” Nan joined in Toby's loud laugh at this old joke, and pretty soon thereafter they came to the hummock on which the Vanderwillers lived."*

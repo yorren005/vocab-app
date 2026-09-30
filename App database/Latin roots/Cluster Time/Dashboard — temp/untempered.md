@@ -5,13 +5,6 @@ status: unread
 ---
 # untempered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to a proper consistency or hardness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not moderated or controlled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Feeling without judgment is a washy draught indeed; but judgment untempered by feeling is too bitter and husky a morsel for human deglutition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to a proper consistency or hardness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not moderated or controlled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Feeling without judgment is a washy draught indeed; but judgment untempered by feeling is too bitter and husky a morsel for human deglutition."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # falcatifolium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcatifolium designates sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcatifolium designates sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unfertilised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been fertilized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having been fertilized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfertilised designates not having been fertilized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been fertilized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having been fertilized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfertilised designates not having been fertilized."*

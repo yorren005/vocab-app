@@ -5,13 +5,6 @@ status: unread
 ---
 # canard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately misleading fabrication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately misleading fabrication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I understood very soon that all that which was published in the "Gazette" of the sixteenth was a canard, and so I said to Don José de Montoria and his wife, who in their optimism attributed my incredulity to a lack of public spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately misleading fabrication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately misleading fabrication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I understood very soon that all that which was published in the "Gazette" of the sixteenth was a canard, and so I said to Don José de Montoria and his wife, who in their optimism attributed my incredulity to a lack of public spirit."*

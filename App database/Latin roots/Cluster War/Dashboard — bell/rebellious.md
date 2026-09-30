@@ -5,15 +5,6 @@ status: unread
 ---
 # rebellious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resisting control or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontented as toward authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His antique sword, Rebellious to his arm, lies where it falls, Repugnant to command."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resisting control or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontented as toward authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His antique sword, Rebellious to his arm, lies where it falls, Repugnant to command."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*

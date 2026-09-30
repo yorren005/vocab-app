@@ -5,15 +5,6 @@ status: unread
 ---
 # sente
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 lisente equal 1 loti in lesotho; one sente is worth one-hundredth of a loti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 lisente equal 1 loti in lesotho; one sente is worth one-hundredth of a loti.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Ogni dolcezza, ogni pensiero umile Nasce nel core a chi parlar la sente; Ond’è beato chi prima la vide."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So sented the grim Feature, and upturn’d His Nostril wide into the murkie Air, Sagacious of his Quarrey from so farr."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The parable may import that these spiritual laws, perverted by 118:18 a perverse material sense of law, are metaphysically pre- sented as three measures of meal, - that is, three modes of mortal thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 lisente equal 1 loti in lesotho; one sente is worth one-hundredth of a loti.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 lisente equal 1 loti in lesotho; one sente is worth one-hundredth of a loti.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Ogni dolcezza, ogni pensiero umile Nasce nel core a chi parlar la sente; Ond’è beato chi prima la vide."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So sented the grim Feature, and upturn’d His Nostril wide into the murkie Air, Sagacious of his Quarrey from so farr."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The parable may import that these spiritual laws, perverted by 118:18 a perverse material sense of law, are metaphysically pre- sented as three measures of meal, - that is, three modes of mortal thought."*

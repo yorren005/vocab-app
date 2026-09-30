@@ -5,13 +5,6 @@ status: unread
 ---
 # aphasic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone affected by aphasia or inability to use or understand language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or affected by aphasia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphasic designates someone affected by aphasia or inability to use or understand language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone affected by aphasia or inability to use or understand language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or affected by aphasia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphasic designates someone affected by aphasia or inability to use or understand language."*

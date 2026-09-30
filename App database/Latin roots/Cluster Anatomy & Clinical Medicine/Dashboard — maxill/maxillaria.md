@@ -5,13 +5,6 @@ status: unread
 ---
 # maxillaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxillaria designates any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxillaria designates any of numerous orchids of the genus maxillaria often cultivated for their large brilliantly colored solitary flowers."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # slink
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Move in a sinuous provocative manner
-> 2. **Nuance / Usage**: (countable) a furtive sneaking motion
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to slink the target*) and intransitive clauses (*slinking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*s:en:Waring*):** *"The leaving us was just a feint; / Back here to London did he slink, / And now works on without a wink / Of sleep, and we are on the brink"*
-> - 📜 **Beppie Noyes (*Mosby, the Kennedy Center Cat*):** *"His slink became a stride; he held his tail high; his eyes began to look more curious than scared. But he was still cautious."*
-> - 📜 **Charles Cameron (physician) (*The Stock-Feeder's Manual*):** *"It is an ascertained fact that young or “slink” veal very frequently gives rise to diarrhœa, more especially when that disease is epidemic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To move or glide along stealthily, noiselessly, and with a low, crouching gait, as if in fear, guilt, or predatory secrecy.
+> 2. **Nuance / Usage**: Connotes either feline grace and sinuous fluidity or the sheepish retreat of someone slipping away to avoid embarrassment or confrontation (*to slink away in shame*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun.
+> - **Syntactic Constructions**: Operates in intransitive clauses with directional adverbs (*slink away*, *slink into the shadows*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with *away*, *off*, *shadows*, *tail between one's legs*, and *feline*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*Waring*):** *"The leaving us was just a feint; back here to London did he **slink**."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"We’ll **slink** by and note him, for in these moods his tongue is full of matter."*
+> - 📜 **Beppie Noyes (*Mosby, the Kennedy Center Cat*):** *"His **slink** became a stride; he held his tail high and his eyes began to look more curious than scared."*

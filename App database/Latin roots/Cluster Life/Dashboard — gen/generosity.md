@@ -5,15 +5,6 @@ status: unread
 ---
 # generosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being willing to give your money or time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting generously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Young as she was when her mama died, she remembered how the tears would come into her eyes when she spoke of him and of the noble generosity of his character, which she had said was to be trusted above all earthly things; and Ada trusted it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I almost feel as if YOU ought to be grateful to ME for giving you the opportunity of enjoying the luxury of generosity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being willing to give your money or time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting generously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Young as she was when her mama died, she remembered how the tears would come into her eyes when she spoke of him and of the noble generosity of his character, which she had said was to be trusted above all earthly things; and Ada trusted it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I almost feel as if YOU ought to be grateful to ME for giving you the opportunity of enjoying the luxury of generosity."*

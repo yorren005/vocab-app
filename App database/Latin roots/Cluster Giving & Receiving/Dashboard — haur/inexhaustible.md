@@ -5,15 +5,6 @@ status: unread
 ---
 # inexhaustible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That cannot be entirely consumed or used up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being entirely consumed or used up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a considerable advantage to a man to have so inexhaustible a subject."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Here, consequently, was an inexhaustible subject of discourse."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke wondered, and felt that women were an inexhaustible subject of study, since even he at his age was not in a perfect state of scientific prediction about them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That cannot be entirely consumed or used up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being entirely consumed or used up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a considerable advantage to a man to have so inexhaustible a subject."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Here, consequently, was an inexhaustible subject of discourse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke wondered, and felt that women were an inexhaustible subject of study, since even he at his age was not in a perfect state of scientific prediction about them."*

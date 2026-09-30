@@ -5,15 +5,6 @@ status: unread
 ---
 # discrepancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A difference between conflicting facts or claims or opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that departs from expectations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, labor-incomes, in Index.] [Footnote 5: There is an appearance of a slight discrepancy due to the omission of fractions of cents."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence had never discussed it with Isabel; nor with Selincourt, except in a hurried whispered interchange of notes to avoid discrepancy in their evidence; nor with Bernard . . . the murderer."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He calls attention, and with reason, to the discrepancy about his father having signalled to him before seeing him, also to his refusal to give details of his conversation with his father, and his singular account of his father’s dying words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A difference between conflicting facts or claims or opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that departs from expectations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, labor-incomes, in Index.] [Footnote 5: There is an appearance of a slight discrepancy due to the omission of fractions of cents."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence had never discussed it with Isabel; nor with Selincourt, except in a hurried whispered interchange of notes to avoid discrepancy in their evidence; nor with Bernard . . . the murderer."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He calls attention, and with reason, to the discrepancy about his father having signalled to him before seeing him, also to his refusal to give details of his conversation with his father, and his singular account of his father’s dying words."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sophistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to sophists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible but misleading.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Since I myself have been an inmate of a lunatic asylum, I cannot but notice that the sophistic tendencies of some of its inmates lean towards the errors of _non causa_ and _ignoratio elenchi_.” I positively opened my eyes at this new development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to sophists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible but misleading.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Since I myself have been an inmate of a lunatic asylum, I cannot but notice that the sophistic tendencies of some of its inmates lean towards the errors of _non causa_ and _ignoratio elenchi_.” I positively opened my eyes at this new development."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # duplicator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus that makes copies of typed, written or drawn material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus that makes copies of typed, written or drawn material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duplicator designates apparatus that makes copies of typed, written or drawn material."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus that makes copies of typed, written or drawn material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus that makes copies of typed, written or drawn material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duplicator designates apparatus that makes copies of typed, written or drawn material."*

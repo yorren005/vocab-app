@@ -5,15 +5,6 @@ status: unread
 ---
 # baton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin tapered rod used by a conductor to lead an orchestra or choir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short stout club used primarily by policemen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal’s baton."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal’s baton."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Pots and pans rattled, dishes and bowls clattered, refrigerator doors slammed, and utensils baton-waved in all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin tapered rod used by a conductor to lead an orchestra or choir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short stout club used primarily by policemen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal’s baton."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal’s baton."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Pots and pans rattled, dishes and bowls clattered, refrigerator doors slammed, and utensils baton-waved in all directions."*

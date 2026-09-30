@@ -5,15 +5,6 @@ status: unread
 ---
 # bathing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immersing the body in water or sunshine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of washing yourself (or another person).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The chimney Is south the chamber, and the chimneypiece Chaste Dian bathing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would sit for any length of time, with the utmost enjoyment, bathing his temples in the light of any order of luminary."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her husband was drowned this week while bathing in Lulwind Cove."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immersing the body in water or sunshine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of washing yourself (or another person).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The chimney Is south the chamber, and the chimneypiece Chaste Dian bathing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He would sit for any length of time, with the utmost enjoyment, bathing his temples in the light of any order of luminary."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her husband was drowned this week while bathing in Lulwind Cove."*

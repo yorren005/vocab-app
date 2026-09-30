@@ -5,13 +5,6 @@ status: unread
 ---
 # ov
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ov designates a terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ov designates a terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland."*

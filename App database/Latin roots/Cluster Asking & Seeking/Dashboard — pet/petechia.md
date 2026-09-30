@@ -5,13 +5,6 @@ status: unread
 ---
 # petechia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petechia designates a minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petechia designates a minute red or purple spot on the surface of the skin as the result of tiny hemorrhages of blood vessels in the skin (as in typhoid fever)."*

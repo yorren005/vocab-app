@@ -5,15 +5,6 @@ status: unread
 ---
 # virtually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In essence or effect but not in fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of actions or states) slightly short of or not quite accomplished; all but.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But virtually the same, virtually the same."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The “No, I won’t” of Bathsheba meant virtually, “I think I must.” She followed her assistants through the gate, and lifted her hand to one of them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The other circumstance was the arrival of his clothes, when it became necessary for her to examine and identify them—though this had virtually been done long before by those who inspected the letters in his pockets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In essence or effect but not in fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of actions or states) slightly short of or not quite accomplished; all but.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But virtually the same, virtually the same."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The “No, I won’t” of Bathsheba meant virtually, “I think I must.” She followed her assistants through the gate, and lifted her hand to one of them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The other circumstance was the arrival of his clothes, when it became necessary for her to examine and identify them—though this had virtually been done long before by those who inspected the letters in his pockets."*

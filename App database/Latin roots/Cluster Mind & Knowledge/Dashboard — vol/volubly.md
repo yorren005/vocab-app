@@ -5,15 +5,6 @@ status: unread
 ---
 # volubly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a chatty manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chatty manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"What do you think of that for a fine bit of antithesis?” said the German, searching in his friend’s face for responding admiration, but going on volubly without waiting for any other answer."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"To-day she sent for me to come to tea, and he came into the room while she was volubly discussing various plans, which struck me as likely to cost more money than they were ever likely to gain."*
-> - 📜 **James Joyce (*Ulysses*):** *"On the doorstep all the whores clustered talk volubly, pointing to the right where the fog has cleared off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a chatty manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chatty manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"What do you think of that for a fine bit of antithesis?” said the German, searching in his friend’s face for responding admiration, but going on volubly without waiting for any other answer."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"To-day she sent for me to come to tea, and he came into the room while she was volubly discussing various plans, which struck me as likely to cost more money than they were ever likely to gain."*
+> - 📜 **James Joyce (*Ulysses*):** *"On the doorstep all the whores clustered talk volubly, pointing to the right where the fog has cleared off."*

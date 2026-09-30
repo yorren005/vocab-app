@@ -5,15 +5,6 @@ status: unread
 ---
 # desecrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Violate the sacred character of a place or language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the consecration from a person or an object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The enemy is advancing to destroy Russia, to desecrate the tombs of our fathers, to carry off our wives and children.” The nobleman smote his breast."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The innocent rapine of _nutting_ taught him to feel that there is a spirit in the woods--a presence which too rude a touch of ours will desecrate and destroy."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The audacious hand which had gone so far in its desecrating work stopping short, apparently wanting the heart to proceed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Violate the sacred character of a place or language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the consecration from a person or an object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The enemy is advancing to destroy Russia, to desecrate the tombs of our fathers, to carry off our wives and children.” The nobleman smote his breast."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The innocent rapine of _nutting_ taught him to feel that there is a spirit in the woods--a presence which too rude a touch of ours will desecrate and destroy."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The audacious hand which had gone so far in its desecrating work stopping short, apparently wanting the heart to proceed."*

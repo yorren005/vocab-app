@@ -5,13 +5,6 @@ status: unread
 ---
 # tarsometatarsus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsometatarsus designates the large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsometatarsus designates the large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports."*

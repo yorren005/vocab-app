@@ -5,15 +5,6 @@ status: unread
 ---
 # mouser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cat proficient at mousing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cat proficient at mousing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She's an' old creatur', like me, an' I can make shift to keep her some way or 'nuther; there's probably mice where we're goin', an' she's a proper mouser that can about keep herself if there's any sort o' chance."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Remember that a half-starved cat makes a poor mouser."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"The government cats are fed well, some postmasters being allowed forty dollars a year for "cat meat." The work that this army does proves that well-fed cats make the best mousers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cat proficient at mousing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cat proficient at mousing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She's an' old creatur', like me, an' I can make shift to keep her some way or 'nuther; there's probably mice where we're goin', an' she's a proper mouser that can about keep herself if there's any sort o' chance."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"Remember that a half-starved cat makes a poor mouser."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"The government cats are fed well, some postmasters being allowed forty dollars a year for "cat meat." The work that this army does proves that well-fed cats make the best mousers."*

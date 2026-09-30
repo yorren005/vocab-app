@@ -5,13 +5,6 @@ status: unread
 ---
 # unproblematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy and not involved or complicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy and not involved or complicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unproblematic designates easy and not involved or complicated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy and not involved or complicated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy and not involved or complicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unproblematic designates easy and not involved or complicated."*

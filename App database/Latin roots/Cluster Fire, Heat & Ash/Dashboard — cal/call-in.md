@@ -5,13 +5,6 @@ status: unread
 ---
 # call-in
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephone call to a radio station or a television station in which the caller participates in the on-going program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone call to a radio station or a television station in which the caller participates in the on-going program.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-in designates a telephone call to a radio station or a television station in which the caller participates in the on-going program."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephone call to a radio station or a television station in which the caller participates in the on-going program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone call to a radio station or a television station in which the caller participates in the on-going program.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-in designates a telephone call to a radio station or a television station in which the caller participates in the on-going program."*

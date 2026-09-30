@@ -5,13 +5,6 @@ status: unread
 ---
 # exporter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson who transports goods abroad (for sale).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson who transports goods abroad (for sale).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Here, in a month will be assembled the numerous fishing boats of the exporters, and these are the waters their divers will ransack so boldly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson who transports goods abroad (for sale).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson who transports goods abroad (for sale).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Here, in a month will be assembled the numerous fishing boats of the exporters, and these are the waters their divers will ransack so boldly."*

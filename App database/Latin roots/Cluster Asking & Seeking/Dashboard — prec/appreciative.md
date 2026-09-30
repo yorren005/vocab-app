@@ -5,15 +5,6 @@ status: unread
 ---
 # appreciative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressive of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing appreciation or a favorable critical judgment or opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some charm in this life he led, he stood still after looking at the sky as a useful instrument, and regarded it in an appreciative spirit, as a work of art superlatively beautiful."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had reached a stage at which people cease to have any appreciative regard for public opinion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was not greatly elated by the appreciative spirit in which he was undoubtedly treated, but he thought the engagement might afford him a few weeks for consideration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressive of gratitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing appreciation or a favorable critical judgment or opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some charm in this life he led, he stood still after looking at the sky as a useful instrument, and regarded it in an appreciative spirit, as a work of art superlatively beautiful."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had reached a stage at which people cease to have any appreciative regard for public opinion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was not greatly elated by the appreciative spirit in which he was undoubtedly treated, but he thought the engagement might afford him a few weeks for consideration."*

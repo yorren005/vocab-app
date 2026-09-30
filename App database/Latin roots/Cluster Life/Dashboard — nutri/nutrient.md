@@ -5,13 +5,6 @@ status: unread
 ---
 # nutrient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be metabolized by an animal to give energy and build tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nutrient designates any substance that can be metabolized by an animal to give energy and build tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be metabolized by an animal to give energy and build tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nutrient designates any substance that can be metabolized by an animal to give energy and build tissue."*

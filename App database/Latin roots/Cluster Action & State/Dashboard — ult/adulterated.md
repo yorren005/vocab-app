@@ -5,15 +5,6 @@ status: unread
 ---
 # adulterated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixed with impurities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Other works, which 457:3 have borrowed from this book without giving it credit, have adulterated the Science. /Third/: Because this book has done more for teacher and student, for healer and 457:6 patient, than has been accomplished by other books."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Unfortunately, it has of late years been much adulterated, and thus the marketable value has been lowered."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"But he had lost all faith in explosives, and Herr Winckelkopf himself acknowledged that everything is so adulterated nowadays, that even dynamite can hardly be got in a pure condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixed with impurities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Other works, which 457:3 have borrowed from this book without giving it credit, have adulterated the Science. /Third/: Because this book has done more for teacher and student, for healer and 457:6 patient, than has been accomplished by other books."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Unfortunately, it has of late years been much adulterated, and thus the marketable value has been lowered."*
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"But he had lost all faith in explosives, and Herr Winckelkopf himself acknowledged that everything is so adulterated nowadays, that even dynamite can hardly be got in a pure condition."*

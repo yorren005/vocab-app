@@ -5,13 +5,6 @@ status: unread
 ---
 # paleocene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 63 million to 58 million years ago; appearance of birds and earliest mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 63 million to 58 million years ago; appearance of birds and earliest mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocene designates from 63 million to 58 million years ago; appearance of birds and earliest mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 63 million to 58 million years ago; appearance of birds and earliest mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 63 million to 58 million years ago; appearance of birds and earliest mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocene designates from 63 million to 58 million years ago; appearance of birds and earliest mammals."*

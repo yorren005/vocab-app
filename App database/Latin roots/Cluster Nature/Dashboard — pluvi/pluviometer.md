@@ -5,13 +5,6 @@ status: unread
 ---
 # pluviometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gauge consisting of an instrument to measure the quantity of precipitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gauge consisting of an instrument to measure the quantity of precipitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluviometer designates gauge consisting of an instrument to measure the quantity of precipitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gauge consisting of an instrument to measure the quantity of precipitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gauge consisting of an instrument to measure the quantity of precipitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluviometer designates gauge consisting of an instrument to measure the quantity of precipitation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # realised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earn on some commercial or business transaction; earn as salary or wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into cash; of goods and property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She gazed upon their silent throes amid the shades of space, but realised none at all."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And so the hopes of his friends and his own aspirations must be realised in his work, not in the field of philosophy but in that of theology."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to stifle it—I endeavoured to be firm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earn on some commercial or business transaction; earn as salary or wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into cash; of goods and property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She gazed upon their silent throes amid the shades of space, but realised none at all."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"And so the hopes of his friends and his own aspirations must be realised in his work, not in the field of philosophy but in that of theology."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to stifle it—I endeavoured to be firm."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # evoked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hope you will excuse my want of acquaintance with the polite world.” Sir Leicester considers himself evoked out of the sanctuary by these remarks."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The war, and the benevolence and patriotism which it evoked, changed all this."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Tompkins, of Niagara Falls, was one of the truly heroic spirits evoked by the war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I hope you will excuse my want of acquaintance with the polite world.” Sir Leicester considers himself evoked out of the sanctuary by these remarks."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The war, and the benevolence and patriotism which it evoked, changed all this."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Tompkins, of Niagara Falls, was one of the truly heroic spirits evoked by the war."*

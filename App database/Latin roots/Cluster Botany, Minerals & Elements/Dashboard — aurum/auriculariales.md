@@ -5,13 +5,6 @@ status: unread
 ---
 # auriculariales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family auriculariaceae; sometimes included in the order tremellales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family auriculariaceae; sometimes included in the order tremellales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculariales designates coextensive with the family auriculariaceae; sometimes included in the order tremellales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family auriculariaceae; sometimes included in the order tremellales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family auriculariaceae; sometimes included in the order tremellales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculariales designates coextensive with the family auriculariaceae; sometimes included in the order tremellales."*

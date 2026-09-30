@@ -5,15 +5,6 @@ status: unread
 ---
 # batch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the loaves of bread baked at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou crusty batch of nature, what’s the news?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is amazed to hear from Sir Leicester at breakfast-time of the obliteration of landmarks, and opening of floodgates, and cracking of the framework of society, manifested through Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is really indignant, and connects it with the feebleness of William Buffy when in office, and really does feel deprived of a stake in the country—or the pension list—or something—by fraud and wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the loaves of bread baked at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou crusty batch of nature, what’s the news?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is amazed to hear from Sir Leicester at breakfast-time of the obliteration of landmarks, and opening of floodgates, and cracking of the framework of society, manifested through Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is really indignant, and connects it with the feebleness of William Buffy when in office, and really does feel deprived of a stake in the country—or the pension list—or something—by fraud and wrong."*

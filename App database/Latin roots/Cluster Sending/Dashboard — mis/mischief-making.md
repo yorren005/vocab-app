@@ -5,13 +5,6 @@ status: unread
 ---
 # mischief-making
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mischief-making designates reckless or malicious behavior that causes discomfort or annoyance in others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mischief-making designates reckless or malicious behavior that causes discomfort or annoyance in others."*

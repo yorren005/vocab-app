@@ -5,15 +5,6 @@ status: unread
 ---
 # dispossessed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of the possession of real estate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physically or spiritually homeless or deprived of security; - james stern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They have been dispossessed of their hereditary possessions by mercenary and frequently wanton warfare, and their characters have been traduced by bigoted and interested writers."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"We were alone with the quiet day, and his little heart, dispossessed, had stopped."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"A charm which at once cowed the King of P----, dispossessed the fanatic, dumbfounded the mathematician, dismayed the alchemist, deposed the Pope, and deprived the squire of all utterance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of the possession of real estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physically or spiritually homeless or deprived of security; - james stern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They have been dispossessed of their hereditary possessions by mercenary and frequently wanton warfare, and their characters have been traduced by bigoted and interested writers."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"We were alone with the quiet day, and his little heart, dispossessed, had stopped."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"A charm which at once cowed the King of P----, dispossessed the fanatic, dumbfounded the mathematician, dismayed the alchemist, deposed the Pope, and deprived the squire of all utterance."*

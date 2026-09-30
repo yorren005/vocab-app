@@ -5,15 +5,6 @@ status: unread
 ---
 # incurable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose disease is incurable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being cured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That gave him out incurable,— PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Borrowing only lingers and lingers it out, but the disease is incurable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then pause not; for the present time’s so sick That present med’cine must be minist’red Or overthrow incurable ensues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose disease is incurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being cured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That gave him out incurable,— PAROLLES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Borrowing only lingers and lingers it out, but the disease is incurable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then pause not; for the present time’s so sick That present med’cine must be minist’red Or overthrow incurable ensues."*

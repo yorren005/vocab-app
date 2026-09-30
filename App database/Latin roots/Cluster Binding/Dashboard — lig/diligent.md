@@ -5,15 +5,6 @@ status: unread
 ---
 # diligent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quietly and steadily persevering especially in detail or exactness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by care and perseverance in carrying out tasks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the guess of their true strength and forces By diligent discovery; but your haste Is now urg’d on you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, love; thou seest how diligent I am, To dress thy meat myself, and bring it thee: [_Sets the dish on a table._] I am sure, sweet Kate, this kindness merits thanks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quietly and steadily persevering especially in detail or exactness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by care and perseverance in carrying out tasks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the guess of their true strength and forces By diligent discovery; but your haste Is now urg’d on you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, love; thou seest how diligent I am, To dress thy meat myself, and bring it thee: [_Sets the dish on a table._] I am sure, sweet Kate, this kindness merits thanks."*

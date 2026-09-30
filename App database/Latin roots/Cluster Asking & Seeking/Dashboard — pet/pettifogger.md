@@ -5,13 +5,6 @@ status: unread
 ---
 # pettifogger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (especially a lawyer or politician) who uses unscrupulous or unethical methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disputant who quibbles; someone who raises annoying petty objections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The justice had been a pettifogger, and was a sycophant to a nobleman in the neighbourhood, who had a post at court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (especially a lawyer or politician) who uses unscrupulous or unethical methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disputant who quibbles; someone who raises annoying petty objections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The justice had been a pettifogger, and was a sycophant to a nobleman in the neighbourhood, who had a post at court."*

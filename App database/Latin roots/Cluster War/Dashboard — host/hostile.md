@@ -5,15 +5,6 @@ status: unread
 ---
 # hostile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Troops belonging to the enemy's military forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by enmity or ill will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I intend to prosper and repent, So thrive I in my dangerous affairs Of hostile arms!"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is true that, after the Committee had been relieved of this hostile element, considerable and rapid progress was made."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the trouble sign of a camp in hostile country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Troops belonging to the enemy's military forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by enmity or ill will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I intend to prosper and repent, So thrive I in my dangerous affairs Of hostile arms!"*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It is true that, after the Committee had been relieved of this hostile element, considerable and rapid progress was made."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the trouble sign of a camp in hostile country."*

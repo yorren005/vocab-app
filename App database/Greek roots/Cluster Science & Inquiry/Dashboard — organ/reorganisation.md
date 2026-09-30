@@ -5,13 +5,6 @@ status: unread
 ---
 # reorganisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reorganisation designates the imposition of a new organization; organizing differently (often involving extensive and drastic changes)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reorganisation designates the imposition of a new organization; organizing differently (often involving extensive and drastic changes)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # substantiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent in bodily form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The great people, men of law and learning, want more; they want something to substantiate God's messages from without."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"INDESTRUCTIBILITY: Amidst ceaseless change and seeming decay all the elements, all the forces (if indeed they be not one and the same) which operate and substantiate those changes, imperishable; neither matter nor force capable of annihilation."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In behalf of the dignity of whaling, I would fain advance naught but substantiated facts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent in bodily form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The great people, men of law and learning, want more; they want something to substantiate God's messages from without."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"INDESTRUCTIBILITY: Amidst ceaseless change and seeming decay all the elements, all the forces (if indeed they be not one and the same) which operate and substantiate those changes, imperishable; neither matter nor force capable of annihilation."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In behalf of the dignity of whaling, I would fain advance naught but substantiated facts."*

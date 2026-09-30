@@ -5,15 +5,6 @@ status: unread
 ---
 # salina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central kansas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central kansas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"A gentleman at Salina, Kansas, obtained two buffalo calves, and trained them carefully to the yoke."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"According to Leconte,[3] at Salina, one hundred and eighty-five miles west of the State line of Missouri, the rocks of the Dakota group constitute the bluffs, and continue to do so as far as Fort Harker, thirty-three miles farther west."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"About the close of 1867, a small body of Kiowas appeared in the vicinity of Wilson's Station, a few miles above Ellsworth, being first discovered by a young man from Salina, who was herding cattle there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central kansas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central kansas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"A gentleman at Salina, Kansas, obtained two buffalo calves, and trained them carefully to the yoke."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"According to Leconte,[3] at Salina, one hundred and eighty-five miles west of the State line of Missouri, the rocks of the Dakota group constitute the bluffs, and continue to do so as far as Fort Harker, thirty-three miles farther west."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"About the close of 1867, a small body of Kiowas appeared in the vicinity of Wilson's Station, a few miles above Ellsworth, being first discovered by a young man from Salina, who was herding cattle there."*

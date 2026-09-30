@@ -5,14 +5,6 @@ status: unread
 ---
 # riverbed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A channel occupied (or formerly occupied) by a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A channel occupied (or formerly occupied) by a river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Asking what they were doing, he was told that there was a famous spring at the bottom of the river well known from the time when the riverbed was dry land."*
-> - 📜 **James Joyce (*Ulysses*):** *"Found in the riverbed clutching rushes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A channel occupied (or formerly occupied) by a river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A channel occupied (or formerly occupied) by a river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Asking what they were doing, he was told that there was a famous spring at the bottom of the river well known from the time when the riverbed was dry land."*
+> - 📜 **James Joyce (*Ulysses*):** *"Found in the riverbed clutching rushes."*

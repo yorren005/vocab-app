@@ -5,15 +5,6 @@ status: unread
 ---
 # fallacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A misconception resulting from incorrect reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A misconception resulting from incorrect reasoning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Believers in the glut theory usually condemn efforts to encourage frugality among the masses, calling it the "fallacy of saving."] [Footnote 9: See Vol."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Can this be Moti, she who prates of being, And life, and death, and fallacy, and moan?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A misconception resulting from incorrect reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A misconception resulting from incorrect reasoning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Believers in the glut theory usually condemn efforts to encourage frugality among the masses, calling it the "fallacy of saving."] [Footnote 9: See Vol."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Can this be Moti, she who prates of being, And life, and death, and fallacy, and moan?"*

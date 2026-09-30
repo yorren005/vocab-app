@@ -5,15 +5,6 @@ status: unread
 ---
 # arcade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered passageway with shops and stalls on either side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure composed of a series of arches supported by columns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans and specifications have been prepared, and preliminary measures taken, to place contracts for the arcade of the Báb's Sepulcher."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans were drawn, contracts placed and foundations laid for its arcade while the holy places were ravaged by flames of the civil strife burning fiercely in the Holy Land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered passageway with shops and stalls on either side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure composed of a series of arches supported by columns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans and specifications have been prepared, and preliminary measures taken, to place contracts for the arcade of the Báb's Sepulcher."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans were drawn, contracts placed and foundations laid for its arcade while the holy places were ravaged by flames of the civil strife burning fiercely in the Holy Land."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paraquat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous yellow solid used in solution as a herbicide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous yellow solid used in solution as a herbicide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraquat designates a poisonous yellow solid used in solution as a herbicide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous yellow solid used in solution as a herbicide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous yellow solid used in solution as a herbicide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraquat designates a poisonous yellow solid used in solution as a herbicide."*

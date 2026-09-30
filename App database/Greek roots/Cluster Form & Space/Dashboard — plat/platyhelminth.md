@@ -5,13 +5,6 @@ status: unread
 ---
 # platyhelminth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: flatworm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: any of a phylum (Platyhelminthes) of soft-bodied usually much flattened acoelomate worms (such as the planarians, flukes, and tapeworms) —called also platyhelminth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog platyhelminth as a recognized concept in linguistic and etymological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: flatworm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: any of a phylum (Platyhelminthes) of soft-bodied usually much flattened acoelomate worms (such as the planarians, flukes, and tapeworms) —called also platyhelminth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog platyhelminth as a recognized concept in linguistic and etymological taxonomy."*

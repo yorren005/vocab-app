@@ -5,15 +5,6 @@ status: unread
 ---
 # superincumbent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying or resting on and exerting pressure on something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying or resting on and exerting pressure on something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then a superincumbent bundle rolled down, with a whisking noise; flames elongated, and bent themselves about with a quiet roar, but no crackle."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At evening she lays hold of the two digging-sticks and by their help frees herself from the superincumbent weight of sand and returns to the camp."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But in life—as we have elsewhere seen—this inclined plane is angularly filled up, and almost squared by the enormous superincumbent mass of the junk and sperm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying or resting on and exerting pressure on something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying or resting on and exerting pressure on something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then a superincumbent bundle rolled down, with a whisking noise; flames elongated, and bent themselves about with a quiet roar, but no crackle."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At evening she lays hold of the two digging-sticks and by their help frees herself from the superincumbent weight of sand and returns to the camp."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But in life—as we have elsewhere seen—this inclined plane is angularly filled up, and almost squared by the enormous superincumbent mass of the junk and sperm."*

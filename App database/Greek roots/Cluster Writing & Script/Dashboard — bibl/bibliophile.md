@@ -5,13 +5,6 @@ status: unread
 ---
 # bibliophile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover of books especially for qualities of format; also : a book collector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover of books especially for qualities of format; also : a book collector.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliophile designates a lover of books especially for qualities of format; also : a book collector."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover of books especially for qualities of format; also : a book collector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover of books especially for qualities of format; also : a book collector.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliophile designates a lover of books especially for qualities of format; also : a book collector."*

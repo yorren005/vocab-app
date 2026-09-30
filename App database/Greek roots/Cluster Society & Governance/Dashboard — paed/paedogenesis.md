@@ -5,13 +5,6 @@ status: unread
 ---
 # paedogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by young or larval animals : neoteny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation and development of soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedogenesis designates reproduction by young or larval animals : neoteny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by young or larval animals : neoteny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation and development of soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedogenesis designates reproduction by young or larval animals : neoteny."*

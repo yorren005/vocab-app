@@ -5,13 +5,6 @@ status: unread
 ---
 # cordova
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish explorer who discovered yucatan (1475-1526).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern spain; center of moorish culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is in any case truer than Mommsen's description of Cicero. [Sidenote: Seneca's early life] Seneca was born at Cordova in Spain about the Christian era--certainly not long before it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish explorer who discovered yucatan (1475-1526).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern spain; center of moorish culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is in any case truer than Mommsen's description of Cicero. [Sidenote: Seneca's early life] Seneca was born at Cordova in Spain about the Christian era--certainly not long before it."*

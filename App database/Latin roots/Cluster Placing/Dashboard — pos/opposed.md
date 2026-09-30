@@ -5,15 +5,6 @@ status: unread
 ---
 # opposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be against; express opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight against or resist strongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beware Of entrance to a quarrel; but being in, Bear’t that th’opposed may beware of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but mark how he bears his course, and runs me up With like advantage on the other side, Gelding the opposed continent as much As on the other side it takes from you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be against; express opposition to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight against or resist strongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beware Of entrance to a quarrel; but being in, Bear’t that th’opposed may beware of thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but mark how he bears his course, and runs me up With like advantage on the other side, Gelding the opposed continent as much As on the other side it takes from you."*

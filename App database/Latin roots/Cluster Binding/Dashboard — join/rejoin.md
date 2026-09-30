@@ -5,15 +5,6 @@ status: unread
 ---
 # rejoin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Join again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Answer back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Carstone is about to rejoin his regiment, perhaps Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel might have accompanied them, but preferred to rejoin his sweetheart at Talbothays."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had a conviction that sooner or later the magnanimity which she persisted in reckoning as a chief ingredient of Clare’s character would lead him to rejoin her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Join again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Answer back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Carstone is about to rejoin his regiment, perhaps Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel might have accompanied them, but preferred to rejoin his sweetheart at Talbothays."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had a conviction that sooner or later the magnanimity which she persisted in reckoning as a chief ingredient of Clare’s character would lead him to rejoin her."*

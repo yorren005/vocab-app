@@ -5,13 +5,6 @@ status: unread
 ---
 # cordoba
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in nicaragua; equal to 100 centavos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish explorer who discovered yucatan (1475-1526).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordoba designates the basic unit of money in nicaragua; equal to 100 centavos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in nicaragua; equal to 100 centavos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish explorer who discovered yucatan (1475-1526).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordoba designates the basic unit of money in nicaragua; equal to 100 centavos."*

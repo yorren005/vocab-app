@@ -5,15 +5,6 @@ status: unread
 ---
 # interrupter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for automatically interrupting an electric current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for automatically interrupting an electric current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proud Saturnine, interrupter of the good That noble-minded Titus means to thee!"*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The interrupter is only needed when the primary current is continuous--from batteries, for example."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternating current needs no interrupter, and so that bother is removed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for automatically interrupting an electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for automatically interrupting an electric current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proud Saturnine, interrupter of the good That noble-minded Titus means to thee!"*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The interrupter is only needed when the primary current is continuous--from batteries, for example."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternating current needs no interrupter, and so that bother is removed."*

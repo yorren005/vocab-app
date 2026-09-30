@@ -5,13 +5,6 @@ status: unread
 ---
 # anastatica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: rose of jericho; resurrection plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: rose of jericho; resurrection plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastatica designates one species: rose of jericho; resurrection plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: rose of jericho; resurrection plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: rose of jericho; resurrection plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastatica designates one species: rose of jericho; resurrection plant."*

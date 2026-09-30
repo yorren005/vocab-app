@@ -5,13 +5,6 @@ status: unread
 ---
 # levitra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Virility drug (trade name levitra) used to treat erectile dysfunction in men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Virility drug (trade name levitra) used to treat erectile dysfunction in men.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levitra designates virility drug (trade name levitra) used to treat erectile dysfunction in men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Virility drug (trade name levitra) used to treat erectile dysfunction in men.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Virility drug (trade name levitra) used to treat erectile dysfunction in men.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levitra designates virility drug (trade name levitra) used to treat erectile dysfunction in men."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # circular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advertisement (usually printed on a page or in a leaflet) intended for wide distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a circular shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was in a window of what seemed to be an old-fashioned house with three peaks in the roof in front and a circular sweep leading to the porch."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through a partly-opened door the noise of a scrubbing-brush led up to the charwoman, Maryann Money, a person who for a face had a circular disc, furrowed less by age than by long gazes of perplexity at distant objects."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll follow you soon.” Cainy Ball—a cheery-faced young lad, with a small circular orifice by way of mouth, advanced and deposited two others, and retired as he was bidden."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advertisement (usually printed on a page or in a leaflet) intended for wide distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a circular shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was in a window of what seemed to be an old-fashioned house with three peaks in the roof in front and a circular sweep leading to the porch."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through a partly-opened door the noise of a scrubbing-brush led up to the charwoman, Maryann Money, a person who for a face had a circular disc, furrowed less by age than by long gazes of perplexity at distant objects."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll follow you soon.” Cainy Ball—a cheery-faced young lad, with a small circular orifice by way of mouth, advanced and deposited two others, and retired as he was bidden."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # problematically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In such a way as to pose a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In such a way as to pose a problem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, problematically designates in such a way as to pose a problem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In such a way as to pose a problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In such a way as to pose a problem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, problematically designates in such a way as to pose a problem."*

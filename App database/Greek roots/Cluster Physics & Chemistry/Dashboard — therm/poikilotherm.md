@@ -5,13 +5,6 @@ status: unread
 ---
 # poikilotherm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poikilotherm designates an organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poikilotherm designates an organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # discomfort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tense and feeling pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncomfortable feeling of mental painfulness or distress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mean you, sir, To give them this discomfort?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An ’t please your lordship, I hear his Majesty is returned with some discomfort from Wales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tense and feeling pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncomfortable feeling of mental painfulness or distress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mean you, sir, To give them this discomfort?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An ’t please your lordship, I hear his Majesty is returned with some discomfort from Wales."*

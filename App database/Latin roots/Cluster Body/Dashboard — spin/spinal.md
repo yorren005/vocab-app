@@ -5,15 +5,6 @@ status: unread
 ---
 # spinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthesia of the lower half of the body; caused by injury to the spinal cord or by injecting an anesthetic beneath the arachnoid membrane that surrounds the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the spine or spinal cord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In September last, she was taken very sick with spinal fever."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Yet the Lord was keeping his promise to him, "_The beloved of the Lord shall dwell in safety by him, and the Lord shall cover him all the day long_." RECOVERY FROM SPINAL DISEASE."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This nearly paralyzed the spinal cord, and caused deep and permanent spinal disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthesia of the lower half of the body; caused by injury to the spinal cord or by injecting an anesthetic beneath the arachnoid membrane that surrounds the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the spine or spinal cord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In September last, she was taken very sick with spinal fever."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Yet the Lord was keeping his promise to him, "_The beloved of the Lord shall dwell in safety by him, and the Lord shall cover him all the day long_." RECOVERY FROM SPINAL DISEASE."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This nearly paralyzed the spinal cord, and caused deep and permanent spinal disease."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # marchantiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liverworts with prostrate and usually dichotomously branched thalli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liverworts with prostrate and usually dichotomously branched thalli.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marchantiaceae designates liverworts with prostrate and usually dichotomously branched thalli."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liverworts with prostrate and usually dichotomously branched thalli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liverworts with prostrate and usually dichotomously branched thalli.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marchantiaceae designates liverworts with prostrate and usually dichotomously branched thalli."*

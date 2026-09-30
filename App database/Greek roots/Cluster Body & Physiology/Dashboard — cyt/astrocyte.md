@@ -5,13 +5,6 @@ status: unread
 ---
 # astrocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large star-shaped cell of the glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large star-shaped cell of the glia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrocyte designates a large star-shaped cell of the glia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large star-shaped cell of the glia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large star-shaped cell of the glia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrocyte designates a large star-shaped cell of the glia."*

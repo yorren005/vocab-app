@@ -5,13 +5,6 @@ status: unread
 ---
 # semiepiphyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that is an epiphyte for part of its life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that is an epiphyte for part of its life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiepiphyte designates a plant that is an epiphyte for part of its life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that is an epiphyte for part of its life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that is an epiphyte for part of its life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiepiphyte designates a plant that is an epiphyte for part of its life."*

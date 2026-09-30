@@ -5,15 +5,6 @@ status: unread
 ---
 # bated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate or restrain; lessen the force of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap the wings wildly or frantically; used of falcons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So are the horses of the enemy In general, journey-bated and brought low."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These griefs and losses have so bated me That I shall hardly spare a pound of flesh Tomorrow to my bloody creditor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were the world mine, Demetrius being bated, The rest I’d give to be to you translated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate or restrain; lessen the force of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap the wings wildly or frantically; used of falcons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So are the horses of the enemy In general, journey-bated and brought low."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These griefs and losses have so bated me That I shall hardly spare a pound of flesh Tomorrow to my bloody creditor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were the world mine, Demetrius being bated, The rest I’d give to be to you translated."*

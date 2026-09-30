@@ -5,15 +5,6 @@ status: unread
 ---
 # amendment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of amending or correcting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that is added to or revises or improves a proposal or document (a bill or constitution etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hope is there of his majesty’s amendment?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see a good amendment of life in thee, from praying to purse-taking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What likelihood of his amendment, lords?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of amending or correcting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that is added to or revises or improves a proposal or document (a bill or constitution etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hope is there of his majesty’s amendment?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see a good amendment of life in thee, from praying to purse-taking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What likelihood of his amendment, lords?"*

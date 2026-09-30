@@ -5,14 +5,6 @@ status: unread
 ---
 # lingerie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Women's underwear and nightclothes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Women's underwear and nightclothes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Do they snapshot those girls or is it all a fake? _Lingerie_ does it."*
-> - 📜 **James Joyce (*Ulysses*):** *"Correct me but I always understood that the act so performed by skittish humans with glimpses of lingerie appealed to you in virtue of its exhibitionististicicity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Women's underwear and nightclothes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Women's underwear and nightclothes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Do they snapshot those girls or is it all a fake? _Lingerie_ does it."*
+> - 📜 **James Joyce (*Ulysses*):** *"Correct me but I always understood that the act so performed by skittish humans with glimpses of lingerie appealed to you in virtue of its exhibitionististicicity."*

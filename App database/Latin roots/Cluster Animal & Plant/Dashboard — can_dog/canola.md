@@ -5,13 +5,6 @@ status: unread
 ---
 # canola
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vegetable oil made from rapeseed; it is high in monounsaturated fatty acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vegetable oil made from rapeseed; it is high in monounsaturated fatty acids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canola designates vegetable oil made from rapeseed; it is high in monounsaturated fatty acids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vegetable oil made from rapeseed; it is high in monounsaturated fatty acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vegetable oil made from rapeseed; it is high in monounsaturated fatty acids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canola designates vegetable oil made from rapeseed; it is high in monounsaturated fatty acids."*

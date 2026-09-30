@@ -5,13 +5,6 @@ status: unread
 ---
 # mortgagor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who gives a mortgage in return for money to be repaid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who gives a mortgage in return for money to be repaid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The unfortunate mortgagor must then accept the terms, hard as they may be, dictated to him, be they 8, 10, 12, or 20 per cent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who gives a mortgage in return for money to be repaid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who gives a mortgage in return for money to be repaid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The unfortunate mortgagor must then accept the terms, hard as they may be, dictated to him, be they 8, 10, 12, or 20 per cent."*

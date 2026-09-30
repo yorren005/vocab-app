@@ -5,20 +5,6 @@ status: unread
 ---
 # scold
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Quarrel noisily
-> 2. **Nuance / Usage**: Find fault noisily or angrily
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scold the target*) and intransitive clauses (*scolding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will have more or scold it out of him."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear them scold than fight."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"assume life and scold with her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Quarrel noisily
+> 2. **Nuance / Usage**: Find fault noisily or angrily
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scold the target*) and intransitive clauses (*scolding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will have more or scold it out of him."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear them scold than fight."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"assume life and scold with her."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # perfective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of a verb that expresses a completed action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfective designates a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of a verb that expresses a completed action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfective designates a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)."*

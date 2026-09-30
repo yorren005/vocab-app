@@ -5,15 +5,6 @@ status: unread
 ---
 # acoustic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sense or organs of hearing, to sound, or to the science of sounds : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deadening or absorbing sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"At the one end of the scale is the acoustic artist, i.e., the musician."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Between these, and comprising both these activities in his own, is the poet, who is both acoustic and optic artist."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But he is optic as well as acoustic; that is, he calls up at the same time by his art a procession of images which march or dance across the theatre of the listener’s fancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sense or organs of hearing, to sound, or to the science of sounds : such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deadening or absorbing sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"At the one end of the scale is the acoustic artist, i.e., the musician."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Between these, and comprising both these activities in his own, is the poet, who is both acoustic and optic artist."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But he is optic as well as acoustic; that is, he calls up at the same time by his art a procession of images which march or dance across the theatre of the listener’s fancy."*

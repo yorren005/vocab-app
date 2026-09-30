@@ -5,13 +5,6 @@ status: unread
 ---
 # antiparallel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of vectors) parallel but oppositely directed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of vectors) parallel but oppositely directed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiparallel designates (especially of vectors) parallel but oppositely directed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of vectors) parallel but oppositely directed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of vectors) parallel but oppositely directed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiparallel designates (especially of vectors) parallel but oppositely directed."*

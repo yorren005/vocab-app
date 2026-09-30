@@ -5,13 +5,6 @@ status: unread
 ---
 # denatured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add nonfissionable material to (fissionable material) so as to make unsuitable for use in an atomic bomb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify (as a native protein) especially by heat, acid, alkali, or ultraviolet radiation so that all of the original properties are removed or diminished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denatured designates add nonfissionable material to (fissionable material) so as to make unsuitable for use in an atomic bomb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add nonfissionable material to (fissionable material) so as to make unsuitable for use in an atomic bomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify (as a native protein) especially by heat, acid, alkali, or ultraviolet radiation so that all of the original properties are removed or diminished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denatured designates add nonfissionable material to (fissionable material) so as to make unsuitable for use in an atomic bomb."*

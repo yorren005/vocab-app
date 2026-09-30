@@ -5,15 +5,6 @@ status: unread
 ---
 # unmarried
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not married or related to the unmarried state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not married or related to the unmarried state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here we are, And here the graces of our youths must wither Like a too-timely spring; here age must find us And, which is heaviest, Palamon, unmarried."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with his hair brushed back as usual and his knobs of temples shining very much, was also there, not in the character of a disappointed lover, but as the accepted of a young—at least, an unmarried—lady, a Miss Wisk, who was also there."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He did not covet the post relatively to the farm: in relation to herself, as beloved by him and unmarried to another, he had coveted it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not married or related to the unmarried state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not married or related to the unmarried state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here we are, And here the graces of our youths must wither Like a too-timely spring; here age must find us And, which is heaviest, Palamon, unmarried."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with his hair brushed back as usual and his knobs of temples shining very much, was also there, not in the character of a disappointed lover, but as the accepted of a young—at least, an unmarried—lady, a Miss Wisk, who was also there."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He did not covet the post relatively to the farm: in relation to herself, as beloved by him and unmarried to another, he had coveted it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthosis designates an abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthosis designates an abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis)."*

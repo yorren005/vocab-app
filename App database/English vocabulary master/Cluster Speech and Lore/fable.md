@@ -5,20 +5,6 @@ status: unread
 ---
 # fable
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fiction; untruth; falsehood
-> 2. **Nuance / Usage**: Fictitious narrative or statement: such as
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Dryden (*A Parallel betwixt Painting and Poetry*):** *"For the moral (as Bossu observes,) is the first business of the poet, as being the groundwork of his instruction. This being formed, he contrives such a design, or fable, as may be most suitable to the moral;"*
-> - 📜 **Classic Author (*The Wisdom of the Ancients*):** *"THE Poets Fable, That Apollo being enamoured of Caſſandra, was by her many ſhifts and cunning ſlights ſtill deluded in his Deſire {{..."*
-> - 📜 **Thomas Hearne (antiquarian) (*Ductor Historicus: or, A Short System of Universal History, and an Introduction to the Study of It.{{nb...*):** *"Æſculapius is fabled to be the Son of {{w|Apollo"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Fiction; untruth; falsehood
+> 2. **Nuance / Usage**: Fictitious narrative or statement: such as
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Dryden (*A Parallel betwixt Painting and Poetry*):** *"For the moral (as Bossu observes,) is the first business of the poet, as being the groundwork of his instruction. This being formed, he contrives such a design, or fable, as may be most suitable to the moral;"*
+> - 📜 **Classic Author (*The Wisdom of the Ancients*):** *"THE Poets Fable, That Apollo being enamoured of Caſſandra, was by her many ſhifts and cunning ſlights ſtill deluded in his Deſire {{..."*
+> - 📜 **Thomas Hearne (antiquarian) (*Ductor Historicus: or, A Short System of Universal History, and an Introduction to the Study of It.{{nb...*):** *"Æſculapius is fabled to be the Son of {{w|Apollo"*

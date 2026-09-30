@@ -5,15 +5,6 @@ status: unread
 ---
 # domesticated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapt (a wild plant or unclaimed land) to the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overcome the wildness of; make docile and tractable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember when with our domesticated wolves we herded our reindeer to pasture on the north shore of the Mediterranean where now are France and Italy and Spain."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like household dogs they came snuffling round us, right up to our gunwales, and touching them; till it almost seemed that some spell had suddenly domesticated them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapt (a wild plant or unclaimed land) to the environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overcome the wildness of; make docile and tractable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember when with our domesticated wolves we herded our reindeer to pasture on the north shore of the Mediterranean where now are France and Italy and Spain."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like household dogs they came snuffling round us, right up to our gunwales, and touching them; till it almost seemed that some spell had suddenly domesticated them."*

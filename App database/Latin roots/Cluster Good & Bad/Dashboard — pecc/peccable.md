@@ -5,13 +5,6 @@ status: unread
 ---
 # peccable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sin; - sir walter scott.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to sin; - sir walter scott.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peccable designates liable to sin; - sir walter scott."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sin; - sir walter scott.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to sin; - sir walter scott.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peccable designates liable to sin; - sir walter scott."*

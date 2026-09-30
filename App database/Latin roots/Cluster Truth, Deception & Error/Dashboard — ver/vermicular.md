@@ -5,13 +5,6 @@ status: unread
 ---
 # vermicular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorated with wormlike tracery or markings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorated with wormlike tracery or markings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermicular designates decorated with wormlike tracery or markings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorated with wormlike tracery or markings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorated with wormlike tracery or markings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermicular designates decorated with wormlike tracery or markings."*

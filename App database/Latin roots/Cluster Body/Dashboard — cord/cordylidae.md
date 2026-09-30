@@ -5,13 +5,6 @@ status: unread
 ---
 # cordylidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of spiny ovoviviparous african lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of spiny ovoviviparous african lizards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordylidae designates small family of spiny ovoviviparous african lizards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of spiny ovoviviparous african lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of spiny ovoviviparous african lizards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordylidae designates small family of spiny ovoviviparous african lizards."*

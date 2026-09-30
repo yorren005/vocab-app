@@ -5,13 +5,6 @@ status: unread
 ---
 # somniferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It must have been a work of vast ability in the somniferous school of literature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It must have been a work of vast ability in the somniferous school of literature."*

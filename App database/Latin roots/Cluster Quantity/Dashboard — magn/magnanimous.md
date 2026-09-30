@@ -5,15 +5,6 @@ status: unread
 ---
 # magnanimous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noble and generous in spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generous and understanding and tolerant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wilt be as valiant as the wrathful dove or most magnanimous mouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Exeter is as magnanimous as Agamemnon; and a man that I love and honour with my soul, and my heart, and my duty, and my life, and my living, and my uttermost power."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pig, or the great, or the mighty, or the huge, or the magnanimous, are all one reckonings, save the phrase is a little variations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noble and generous in spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generous and understanding and tolerant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wilt be as valiant as the wrathful dove or most magnanimous mouse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Exeter is as magnanimous as Agamemnon; and a man that I love and honour with my soul, and my heart, and my duty, and my life, and my living, and my uttermost power."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pig, or the great, or the mighty, or the huge, or the magnanimous, are all one reckonings, save the phrase is a little variations."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hemorrhoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemorrhoid designates an abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemorrhoid designates an abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles."*

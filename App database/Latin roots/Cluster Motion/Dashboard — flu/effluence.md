@@ -5,15 +5,6 @@ status: unread
 ---
 # effluence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of flowing out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of flowing out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I remember it now, and I know that it was the effluence of fine intellect, of true courage; it lit up her marked lineaments, her thin face, her sunken grey eye, like a reflection from the aspect of an angel."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is as really, though perhaps less obviously, manifest in his poetry, the sincere effluence of his life."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"And, as if the gloom of the earth and sky had been but the effluence of these two mortal hearts, it vanished with their sorrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of flowing out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of flowing out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I remember it now, and I know that it was the effluence of fine intellect, of true courage; it lit up her marked lineaments, her thin face, her sunken grey eye, like a reflection from the aspect of an angel."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is as really, though perhaps less obviously, manifest in his poetry, the sincere effluence of his life."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"And, as if the gloom of the earth and sky had been but the effluence of these two mortal hearts, it vanished with their sorrow."*

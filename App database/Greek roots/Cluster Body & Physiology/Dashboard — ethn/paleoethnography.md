@@ -5,13 +5,6 @@ status: unread
 ---
 # paleoethnography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ethnography of paleolithic humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ethnography of paleolithic humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoethnography designates the ethnography of paleolithic humans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ethnography of paleolithic humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ethnography of paleolithic humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoethnography designates the ethnography of paleolithic humans."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # eros
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek god of erotic love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of life-preserving instincts that are manifested as impulses to gratify basic needs, as sublimated impulses, and as impulses to protect and preserve the body and mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Enobarbus and Eros meeting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see you by and by. [_Sits down._] Enter Cleopatra led by Charmian, Iras and Eros."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou fumblest, Eros, and my queen’s a squire More tight at this than thou."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek god of erotic love.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of life-preserving instincts that are manifested as impulses to gratify basic needs, as sublimated impulses, and as impulses to protect and preserve the body and mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Enobarbus and Eros meeting."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see you by and by. [_Sits down._] Enter Cleopatra led by Charmian, Iras and Eros."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou fumblest, Eros, and my queen’s a squire More tight at this than thou."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # passover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The fast called the Passover—a religious affair, of course—was near, and thousands were pouring in from the country, according to custom, to celebrate the feast in Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You know how he tried to befool the mob, first by mocking Jesus as a harmless fool; and second by offering to release him according to the custom of releasing one prisoner at time of the Passover."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He lets them manage the boat, while he sleeps (Mark 4:38), and go and prepare for him (Luke 9:52), and see to the Passover meal (Mark 14:13)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The fast called the Passover—a religious affair, of course—was near, and thousands were pouring in from the country, according to custom, to celebrate the feast in Jerusalem."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You know how he tried to befool the mob, first by mocking Jesus as a harmless fool; and second by offering to release him according to the custom of releasing one prisoner at time of the Passover."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He lets them manage the boat, while he sleeps (Mark 4:38), and go and prepare for him (Luke 9:52), and see to the Passover meal (Mark 14:13)."*

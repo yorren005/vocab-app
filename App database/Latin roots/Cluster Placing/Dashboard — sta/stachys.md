@@ -5,13 +5,6 @@ status: unread
 ---
 # stachys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of usually woolly or hairy herbs or subshrubs or shrubs; temperate eastern hemisphere; tropical australasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of usually woolly or hairy herbs or subshrubs or shrubs; temperate eastern hemisphere; tropical australasia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BETONY BRAND; spots obliterated; sori hypogenous, subrotund, aggregate, surrounded by the ruptured epidermis; spores very pale-brown, short, obovate, elliptic; peduncles short.—On _Stachys Betonica_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of usually woolly or hairy herbs or subshrubs or shrubs; temperate eastern hemisphere; tropical australasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of usually woolly or hairy herbs or subshrubs or shrubs; temperate eastern hemisphere; tropical australasia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BETONY BRAND; spots obliterated; sori hypogenous, subrotund, aggregate, surrounded by the ruptured epidermis; spores very pale-brown, short, obovate, elliptic; peduncles short.—On _Stachys Betonica_."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # justifiable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being justified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being justified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I never was happier.” With silent indignation Fanny repeated to herself, “Never happier!—never happier than when doing what you must know was not justifiable!—never happier than when behaving so dishonourably and unfeelingly!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode was generally justifiable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The mass of his feeling about Dorothea’s marriage to Ladislaw was due partly to excusable prejudice, or even justifiable opinion, partly to a jealous repugnance hardly less in Ladislaw’s case than in Casaubon’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being justified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being justified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I never was happier.” With silent indignation Fanny repeated to herself, “Never happier!—never happier than when doing what you must know was not justifiable!—never happier than when behaving so dishonourably and unfeelingly!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode was generally justifiable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The mass of his feeling about Dorothea’s marriage to Ladislaw was due partly to excusable prejudice, or even justifiable opinion, partly to a jealous repugnance hardly less in Ladislaw’s case than in Casaubon’s."*

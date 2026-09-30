@@ -5,13 +5,6 @@ status: unread
 ---
 # serviceberry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various north american trees or shrubs having showy white flowers and edible blue-black or purplish fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edible purple or red berries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviceberry designates any of various north american trees or shrubs having showy white flowers and edible blue-black or purplish fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various north american trees or shrubs having showy white flowers and edible blue-black or purplish fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edible purple or red berries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviceberry designates any of various north american trees or shrubs having showy white flowers and edible blue-black or purplish fruit."*

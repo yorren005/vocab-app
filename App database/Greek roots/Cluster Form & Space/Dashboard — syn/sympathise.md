@@ -5,15 +5,6 @@ status: unread
 ---
 # sympathise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel or express sympathy or compassion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While something in me,” he went on, “is acutely sensible to her charms, something else is as deeply impressed with her defects: they are such that she could sympathise in nothing I aspired to—co-operate in nothing I undertook."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John’s taciturnity: he was sincerely glad to see his sisters; but in their glow of fervour and flow of joy he could not sympathise."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel or express sympathy or compassion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While something in me,” he went on, “is acutely sensible to her charms, something else is as deeply impressed with her defects: they are such that she could sympathise in nothing I aspired to—co-operate in nothing I undertook."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John’s taciturnity: he was sincerely glad to see his sisters; but in their glow of fervour and flow of joy he could not sympathise."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*

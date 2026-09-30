@@ -5,14 +5,6 @@ status: unread
 ---
 # elocutionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to elocution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of style of speaking) overly embellished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His reading of Scripture had no elocutionary pretensions about it; it was quiet, and to a large extent gone through in a monotone; but two things about it made it very impressive."*
-> - 📜 **James Joyce (*Ulysses*):** *"He extended elocutionary arms from frayed stained shirtcuffs, pausing: —What was their civilisation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to elocution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of style of speaking) overly embellished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"His reading of Scripture had no elocutionary pretensions about it; it was quiet, and to a large extent gone through in a monotone; but two things about it made it very impressive."*
+> - 📜 **James Joyce (*Ulysses*):** *"He extended elocutionary arms from frayed stained shirtcuffs, pausing: —What was their civilisation?"*

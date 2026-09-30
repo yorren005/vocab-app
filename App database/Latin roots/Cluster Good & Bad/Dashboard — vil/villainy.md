@@ -5,15 +5,6 @@ status: unread
 ---
 # villainy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of evil by virtue of villainous behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal or vicious act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In me ’tis villainy; In thee ’t had been good service."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All good seeming, By thy revolt, O husband, shall be thought Put on for villainy; not born where’t grows, But worn a bait for ladies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of evil by virtue of villainous behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal or vicious act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In me ’tis villainy; In thee ’t had been good service."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All good seeming, By thy revolt, O husband, shall be thought Put on for villainy; not born where’t grows, But worn a bait for ladies."*

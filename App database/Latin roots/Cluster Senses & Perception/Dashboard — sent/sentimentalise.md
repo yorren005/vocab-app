@@ -5,14 +5,6 @@ status: unread
 ---
 # sentimentalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone or something) sentimental or imbue with sentimental qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with sentimentality or turn into an object of sentiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sentimentalise over the railings when you feel _rose_." Charmion's fine brows arched, her lids drooped over her eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone or something) sentimental or imbue with sentimental qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with sentimentality or turn into an object of sentiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sentimentalise over the railings when you feel _rose_." Charmion's fine brows arched, her lids drooped over her eyes."*

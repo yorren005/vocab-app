@@ -5,15 +5,6 @@ status: unread
 ---
 # unimaginable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Totally unlikely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Totally unlikely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ha, ha, ha!” To hear him say all this with unimaginable energy, one might have thought him the angriest of mankind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yet was there a sort of indefinite, half-attained, unimaginable sublimity about it that fairly froze you to it, till you involuntarily took an oath with yourself to find out what that marvellous painting meant."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My arm hung over the counterpane, and the nameless, unimaginable, silent form or phantom, to which the hand belonged, seemed closely seated by my bedside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Totally unlikely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Totally unlikely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ha, ha, ha!” To hear him say all this with unimaginable energy, one might have thought him the angriest of mankind."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yet was there a sort of indefinite, half-attained, unimaginable sublimity about it that fairly froze you to it, till you involuntarily took an oath with yourself to find out what that marvellous painting meant."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My arm hung over the counterpane, and the nameless, unimaginable, silent form or phantom, to which the hand belonged, seemed closely seated by my bedside."*

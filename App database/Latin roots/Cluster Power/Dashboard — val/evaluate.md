@@ -5,15 +5,6 @@ status: unread
 ---
 # evaluate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a critical opinion of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Tangible things are comparatively easy to find, measure, and evaluate where they are, and if they are all taxed it is evidently the same as if all the capital values based upon them were taxed in the owners' hands."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tell Brad to prepare plans and evaluate our military capabilities to penetrate the protective shield around the Logistics Depot, to capture it and use it as hostage." "Good God!"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The plan would organize, staff, equip, transport, test and evaluate, and (in the event of war) activate and deploy Mobile Maintenance Teams consisting of U S civil service volunteers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a critical opinion of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Tangible things are comparatively easy to find, measure, and evaluate where they are, and if they are all taxed it is evidently the same as if all the capital values based upon them were taxed in the owners' hands."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tell Brad to prepare plans and evaluate our military capabilities to penetrate the protective shield around the Logistics Depot, to capture it and use it as hostage." "Good God!"*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The plan would organize, staff, equip, transport, test and evaluate, and (in the event of war) activate and deploy Mobile Maintenance Teams consisting of U S civil service volunteers."*

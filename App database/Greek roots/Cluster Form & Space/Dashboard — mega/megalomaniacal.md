@@ -5,13 +5,6 @@ status: unread
 ---
 # megalomaniacal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from megalomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from megalomania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomaniacal designates suffering from megalomania."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from megalomania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from megalomania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomaniacal designates suffering from megalomania."*

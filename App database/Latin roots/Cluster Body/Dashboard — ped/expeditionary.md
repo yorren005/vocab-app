@@ -5,13 +5,6 @@ status: unread
 ---
 # expeditionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of military forces) designed for military operations abroad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of military forces) designed for military operations abroad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expeditionary designates (used of military forces) designed for military operations abroad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of military forces) designed for military operations abroad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of military forces) designed for military operations abroad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expeditionary designates (used of military forces) designed for military operations abroad."*

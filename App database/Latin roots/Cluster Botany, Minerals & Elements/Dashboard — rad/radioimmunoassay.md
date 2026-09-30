@@ -5,13 +5,6 @@ status: unread
 ---
 # radioimmunoassay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunoassay of a substance that has been radioactively labeled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immunoassay of a substance that has been radioactively labeled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioimmunoassay designates immunoassay of a substance that has been radioactively labeled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunoassay of a substance that has been radioactively labeled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immunoassay of a substance that has been radioactively labeled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioimmunoassay designates immunoassay of a substance that has been radioactively labeled."*

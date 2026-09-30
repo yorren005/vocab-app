@@ -5,13 +5,6 @@ status: unread
 ---
 # centralisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consolidating power under a central control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gathering to a center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralisation designates the act of consolidating power under a central control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consolidating power under a central control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gathering to a center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralisation designates the act of consolidating power under a central control."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # consuming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat immoderately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve oneself to, or consume regularly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though now this grained face of mine be hid In sap-consuming winter’s drizzled snow, And all the conduits of my blood froze up, Yet hath my night of life some memory, My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sharp and piercing, to maintain his truth; Whiles thy consuming canker eats his falsehood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Light vanity, insatiate cormorant, Consuming means, soon preys upon itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat immoderately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve oneself to, or consume regularly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though now this grained face of mine be hid In sap-consuming winter’s drizzled snow, And all the conduits of my blood froze up, Yet hath my night of life some memory, My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sharp and piercing, to maintain his truth; Whiles thy consuming canker eats his falsehood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Light vanity, insatiate cormorant, Consuming means, soon preys upon itself."*

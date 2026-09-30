@@ -5,15 +5,6 @@ status: unread
 ---
 # submit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer for judgment or consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown fear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my gracious lord; for I submit My fancy to your eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do demand If you submit you to the people’s voices, Allow their officers, and are content To suffer lawful censure for such faults As shall be proved upon you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer for judgment or consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown fear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my gracious lord; for I submit My fancy to your eyes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do demand If you submit you to the people’s voices, Allow their officers, and are content To suffer lawful censure for such faults As shall be proved upon you."*

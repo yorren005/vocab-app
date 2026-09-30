@@ -5,15 +5,6 @@ status: unread
 ---
 # sexual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Should a party of villagers have gone to make salt, all sexual intercourse is forbidden among the people of the village, until the people who have gone to make the salt (from grass) return."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"During their seclusion they listen to lascivious songs sung by grown women and are instructed in sexual matters."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In the various dialects of the principal groups it is simply a sexual designation applied to the males; but it is now used by the natives in their intercourse with foreigners in the same sense in which the latter employ it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by sexuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Should a party of villagers have gone to make salt, all sexual intercourse is forbidden among the people of the village, until the people who have gone to make the salt (from grass) return."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"During their seclusion they listen to lascivious songs sung by grown women and are instructed in sexual matters."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In the various dialects of the principal groups it is simply a sexual designation applied to the males; but it is now used by the natives in their intercourse with foreigners in the same sense in which the latter employ it."*

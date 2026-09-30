@@ -5,13 +5,6 @@ status: unread
 ---
 # pheromone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheromone designates a chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheromone designates a chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses."*

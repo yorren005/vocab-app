@@ -5,13 +5,6 @@ status: unread
 ---
 # panopticon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument combining the telescope and microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular prison built with cells arranged radially so that a guard at a central position can see all the prisoners.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What can be a greater anachronism than the death of Prince Arthur three months hence on the stage of the Panopticon Theatre?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument combining the telescope and microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular prison built with cells arranged radially so that a guard at a central position can see all the prisoners.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What can be a greater anachronism than the death of Prince Arthur three months hence on the stage of the Panopticon Theatre?"*

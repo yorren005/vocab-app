@@ -5,15 +5,6 @@ status: unread
 ---
 # stature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High level of respect gained by impressive development or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a standing person) the distance from head to foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Care I for the limb, the thews, the stature, bulk, and big assemblance of a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be of any reasonable stature, he may creep in here; and throw foul linen upon him, as if it were going to bucking."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a tremendous fellow.” “In stature, sir?” asked Richard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High level of respect gained by impressive development or achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a standing person) the distance from head to foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Care I for the limb, the thews, the stature, bulk, and big assemblance of a man?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be of any reasonable stature, he may creep in here; and throw foul linen upon him, as if it were going to bucking."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a tremendous fellow.” “In stature, sir?” asked Richard."*

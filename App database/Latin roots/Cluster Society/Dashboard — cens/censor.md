@@ -5,15 +5,6 @@ status: unread
 ---
 # censor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who censures or condemns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is authorized to read publications or correspondence or to watch theatrical performances and suppress in whole or in part anything considered obscene or politically unacceptable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"No unbecoming word might fall from the lips of any of the company, and a censor, armed with a hand-bell, was appointed to mark and punish instantly any infraction of the rule."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"How calm, how deep and free, when the mind is either praised or admonished, when it has looked into itself, and like a secret censor makes a report upon its own moral state."*
-> - 📜 **James Joyce (*Ulysses*):** *"He says this, a censor of morals, a very pelican in his piety, who did not scruple, oblivious of the ties of nature, to attempt illicit intercourse with a female domestic drawn from the lowest strata of society!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who censures or condemns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is authorized to read publications or correspondence or to watch theatrical performances and suppress in whole or in part anything considered obscene or politically unacceptable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"No unbecoming word might fall from the lips of any of the company, and a censor, armed with a hand-bell, was appointed to mark and punish instantly any infraction of the rule."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"How calm, how deep and free, when the mind is either praised or admonished, when it has looked into itself, and like a secret censor makes a report upon its own moral state."*
+> - 📜 **James Joyce (*Ulysses*):** *"He says this, a censor of morals, a very pelican in his piety, who did not scruple, oblivious of the ties of nature, to attempt illicit intercourse with a female domestic drawn from the lowest strata of society!"*

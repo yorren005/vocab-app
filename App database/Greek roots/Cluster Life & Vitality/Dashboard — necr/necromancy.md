@@ -5,15 +5,6 @@ status: unread
 ---
 # necromancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conjuration of the spirits of the dead for purposes of magically revealing the future or influencing the course of events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magic, sorcery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was said to deal in necromancy, and to be attended by an old Indian witch or prophetess, whom he consulted and who assisted him by her charms and incantations."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The necromancy of yester- day foreshadowed the mesmerism and hypno- tism of to-day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conjuration of the spirits of the dead for purposes of magically revealing the future or influencing the course of events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magic, sorcery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was said to deal in necromancy, and to be attended by an old Indian witch or prophetess, whom he consulted and who assisted him by her charms and incantations."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The necromancy of yester- day foreshadowed the mesmerism and hypno- tism of to-day."*

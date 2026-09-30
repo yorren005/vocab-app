@@ -5,13 +5,6 @@ status: unread
 ---
 # castoroides
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct beavers of the pleistocene; of eastern and southern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct beavers of the pleistocene; of eastern and southern united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castoroides designates extinct beavers of the pleistocene; of eastern and southern united states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct beavers of the pleistocene; of eastern and southern united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct beavers of the pleistocene; of eastern and southern united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castoroides designates extinct beavers of the pleistocene; of eastern and southern united states."*

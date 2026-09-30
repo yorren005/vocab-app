@@ -5,15 +5,6 @@ status: unread
 ---
 # attempted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an effort or attempt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter upon an activity or enterprise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And how can that be true love which is falsely attempted?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kathy did not hinder her and, to show her gratitude, attempted to start a little conversation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an effort or attempt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter upon an activity or enterprise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And how can that be true love which is falsely attempted?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kathy did not hinder her and, to show her gratitude, attempted to start a little conversation."*

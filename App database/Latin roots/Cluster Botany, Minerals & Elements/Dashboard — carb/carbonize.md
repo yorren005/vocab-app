@@ -5,13 +5,6 @@ status: unread
 ---
 # carbonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unite with carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into carbon, as by burning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There was a sharp, crackling sound as cloth and Rimov's flesh carbonized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unite with carbon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into carbon, as by burning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There was a sharp, crackling sound as cloth and Rimov's flesh carbonized."*

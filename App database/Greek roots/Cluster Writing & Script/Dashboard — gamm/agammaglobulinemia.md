@@ -5,13 +5,6 @@ status: unread
 ---
 # agammaglobulinemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agammaglobulinemia designates a rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agammaglobulinemia designates a rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection."*

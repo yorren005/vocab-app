@@ -5,13 +5,6 @@ status: unread
 ---
 # pteropod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the opisthobranch mollusks comprising two orders (Thecosomata and Gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the opisthobranch mollusks comprising two orders (Thecosomata and Gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteropod designates any of the opisthobranch mollusks comprising two orders (thecosomata and gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the opisthobranch mollusks comprising two orders (Thecosomata and Gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the opisthobranch mollusks comprising two orders (Thecosomata and Gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteropod designates any of the opisthobranch mollusks comprising two orders (thecosomata and gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs."*

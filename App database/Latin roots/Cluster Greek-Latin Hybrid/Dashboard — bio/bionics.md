@@ -5,13 +5,6 @@ status: unread
 ---
 # bionics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Application of biological principles to the study and design of engineering systems (especially electronic systems).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Application of biological principles to the study and design of engineering systems (especially electronic systems).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bionics designates application of biological principles to the study and design of engineering systems (especially electronic systems)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Application of biological principles to the study and design of engineering systems (especially electronic systems).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Application of biological principles to the study and design of engineering systems (especially electronic systems).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bionics designates application of biological principles to the study and design of engineering systems (especially electronic systems)."*

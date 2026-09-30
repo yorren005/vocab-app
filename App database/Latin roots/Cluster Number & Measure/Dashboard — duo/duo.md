@@ -5,14 +5,6 @@ status: unread
 ---
 # duo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two items of the same kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two performers or singers who perform together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Albert Lead Mold Process are always duplicates of fine-screen half-tones or mezzo-tints used for the highest class of commercial job-work, such as three and four color process or duo-tone printing on paper with a highly glazed surface."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s nieces had resided with him, so that the talking was done in duos and trios more or less inharmonious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Two items of the same kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two performers or singers who perform together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Albert Lead Mold Process are always duplicates of fine-screen half-tones or mezzo-tints used for the highest class of commercial job-work, such as three and four color process or duo-tone printing on paper with a highly glazed surface."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s nieces had resided with him, so that the talking was done in duos and trios more or less inharmonious."*

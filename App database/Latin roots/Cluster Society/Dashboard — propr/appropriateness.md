@@ -5,14 +5,6 @@ status: unread
 ---
 # appropriateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate conduct; doing the right thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being specially suitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"For certain words of mysterious appropriateness that Mrs."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were ultrafashionable in dress, and, though no one could deny the richness of their decorations, yet their appropriateness might be questioned amidst the simplicity of a country church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate conduct; doing the right thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being specially suitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"For certain words of mysterious appropriateness that Mrs."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were ultrafashionable in dress, and, though no one could deny the richness of their decorations, yet their appropriateness might be questioned amidst the simplicity of a country church."*

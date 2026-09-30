@@ -5,13 +5,6 @@ status: unread
 ---
 # gentleman's-cane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentleman's-cane designates tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentleman's-cane designates tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal."*

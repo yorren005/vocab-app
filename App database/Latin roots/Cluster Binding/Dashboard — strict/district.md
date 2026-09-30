@@ -5,15 +5,6 @@ status: unread
 ---
 # district
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region marked off for administrative or other purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulate housing in; of certain areas of towns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is nothing at all," said the district attorney's wife in answer."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The district attorney's wife did not seem gratified with this information."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa told her brother now about the morning's interview with the wife of the district attorney."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region marked off for administrative or other purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulate housing in; of certain areas of towns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is nothing at all," said the district attorney's wife in answer."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The district attorney's wife did not seem gratified with this information."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa told her brother now about the morning's interview with the wife of the district attorney."*

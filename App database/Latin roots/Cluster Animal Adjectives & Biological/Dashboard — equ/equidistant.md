@@ -5,15 +5,6 @@ status: unread
 ---
 # equidistant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The same distance apart at every point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The same distance apart at every point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The footprints forming this recent impression were full of information as to pace; they were in equidistant pairs, three or four feet apart, the right and left foot of each pair being exactly opposite one another."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The footprints forming this recent impression were full of information as to pace; they were in equidistant pairs, three or four feet apart, the right and left foot of each pair being exactly opposite one another."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Inside, the youngsters and elders took seats in a circle, the elders spacing themselves about equidistant from each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The same distance apart at every point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The same distance apart at every point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The footprints forming this recent impression were full of information as to pace; they were in equidistant pairs, three or four feet apart, the right and left foot of each pair being exactly opposite one another."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The footprints forming this recent impression were full of information as to pace; they were in equidistant pairs, three or four feet apart, the right and left foot of each pair being exactly opposite one another."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Inside, the youngsters and elders took seats in a circle, the elders spacing themselves about equidistant from each other."*

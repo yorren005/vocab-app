@@ -5,13 +5,6 @@ status: unread
 ---
 # understructure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowest support of a structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understructure designates lowest support of a structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowest support of a structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understructure designates lowest support of a structure."*

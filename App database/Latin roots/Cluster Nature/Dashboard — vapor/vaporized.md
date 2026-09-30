@@ -5,15 +5,6 @@ status: unread
 ---
 # vaporized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill with or as if with a burst of gunfire or electric current or as if by shooting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The rain stage of condensation had been reached above, but the descending shower was re-vaporized apparently, and thus arrested."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Suppose we add to the steam some quicksilver in a vaporized condition, and turn the jet upon the ingot, will there be an instantaneous result?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It had never entered the head of Henry to rob the man—his ingot had been subjected to clean steam only; but George’s had been subjected to vaporized quicksilver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill with or as if with a burst of gunfire or electric current or as if by shooting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The rain stage of condensation had been reached above, but the descending shower was re-vaporized apparently, and thus arrested."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Suppose we add to the steam some quicksilver in a vaporized condition, and turn the jet upon the ingot, will there be an instantaneous result?"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It had never entered the head of Henry to rob the man—his ingot had been subjected to clean steam only; but George’s had been subjected to vaporized quicksilver."*

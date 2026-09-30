@@ -5,13 +5,6 @@ status: unread
 ---
 # commensalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between two different kinds of organisms when one receives benefits from the other without damaging it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between two different kinds of organisms when one receives benefits from the other without damaging it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commensalism designates the relation between two different kinds of organisms when one receives benefits from the other without damaging it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between two different kinds of organisms when one receives benefits from the other without damaging it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between two different kinds of organisms when one receives benefits from the other without damaging it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commensalism designates the relation between two different kinds of organisms when one receives benefits from the other without damaging it."*

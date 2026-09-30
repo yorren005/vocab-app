@@ -5,14 +5,6 @@ status: unread
 ---
 # mensuration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of assigning numbers to phenomena according to a rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of assigning numbers to phenomena according to a rule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mensuration of the faculties of the mind has, I believe, no place in the catalogue of known arts."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Oh, I don't know that," I told her; "old Mustard is well up in mathematics and mensuration----" "What's mensuration?" She said "men_th_uration," and curiously enough it sounded rather nice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of assigning numbers to phenomena according to a rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of assigning numbers to phenomena according to a rule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mensuration of the faculties of the mind has, I believe, no place in the catalogue of known arts."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Oh, I don't know that," I told her; "old Mustard is well up in mathematics and mensuration----" "What's mensuration?" She said "men_th_uration," and curiously enough it sounded rather nice."*

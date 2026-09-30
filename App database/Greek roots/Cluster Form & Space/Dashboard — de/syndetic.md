@@ -5,13 +5,6 @@ status: unread
 ---
 # syndetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connective, connecting; also : marked by a conjunctive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connective, connecting; also : marked by a conjunctive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndetic designates connective, connecting; also : marked by a conjunctive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connective, connecting; also : marked by a conjunctive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connective, connecting; also : marked by a conjunctive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndetic designates connective, connecting; also : marked by a conjunctive."*

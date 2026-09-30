@@ -5,13 +5,6 @@ status: unread
 ---
 # pronunciamento
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public declaration of intentions (as issued by a political party or government).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public declaration of intentions (as issued by a political party or government).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The sentiments of such people found expression in the following editorial which accompanied Dorlan's pronunciamento."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public declaration of intentions (as issued by a political party or government).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public declaration of intentions (as issued by a political party or government).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The sentiments of such people found expression in the following editorial which accompanied Dorlan's pronunciamento."*

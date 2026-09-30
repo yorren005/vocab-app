@@ -5,15 +5,6 @@ status: unread
 ---
 # prescriptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to giving directives or rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to giving directives or rules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Woman’s prescriptive infirmity had stalked into the sunlight, which had clothed it in the freshness of an originality."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But in all vessels this broom business is the prescriptive province of the boys, if boys there be aboard."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Woman’s prescriptive infirmity had stalked into the sunlight, which had invested it with the freshness of an originality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to giving directives or rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to giving directives or rules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Woman’s prescriptive infirmity had stalked into the sunlight, which had clothed it in the freshness of an originality."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But in all vessels this broom business is the prescriptive province of the boys, if boys there be aboard."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Woman’s prescriptive infirmity had stalked into the sunlight, which had invested it with the freshness of an originality."*

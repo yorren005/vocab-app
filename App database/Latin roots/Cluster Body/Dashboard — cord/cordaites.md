@@ -5,13 +5,6 @@ status: unread
 ---
 # cordaites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordaites designates tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordaites designates tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers."*

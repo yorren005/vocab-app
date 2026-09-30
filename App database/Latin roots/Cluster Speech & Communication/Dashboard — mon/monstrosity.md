@@ -5,15 +5,6 @@ status: unread
 ---
 # monstrosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or animal that is markedly unusual or deformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hideous or frightful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"He who thought it not good for man to be alone preserve me from the more prodigious monstrosity of being never by myself!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A people who without one word of opposition allows men who have been the enemies of a government to come into these legislative Halls and make laws for that government to be told that they are oppressors is a monstrosity in declamation and assertion."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"But the dweller in the wilderness acknowledges the subtle charm of this fantastic land of monstrosities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or animal that is markedly unusual or deformed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hideous or frightful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"He who thought it not good for man to be alone preserve me from the more prodigious monstrosity of being never by myself!"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A people who without one word of opposition allows men who have been the enemies of a government to come into these legislative Halls and make laws for that government to be told that they are oppressors is a monstrosity in declamation and assertion."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"But the dweller in the wilderness acknowledges the subtle charm of this fantastic land of monstrosities."*

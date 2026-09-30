@@ -5,13 +5,6 @@ status: unread
 ---
 # reallocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A share that has been allocated again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reallocation designates a share that has been allocated again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A share that has been allocated again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reallocation designates a share that has been allocated again."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # protropin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protropin designates trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protropin designates trade name of a synthetic human growth hormone given to children deficient in the hormone; use by athletes and weightlifters is banned."*

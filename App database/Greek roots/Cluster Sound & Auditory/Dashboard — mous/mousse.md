@@ -5,13 +5,6 @@ status: unread
 ---
 # mousse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich, frothy, creamy dessert made with whipped egg whites and heavy cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light creamy dish made from fish or meat and set with gelatin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mousse designates a rich, frothy, creamy dessert made with whipped egg whites and heavy cream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich, frothy, creamy dessert made with whipped egg whites and heavy cream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light creamy dish made from fish or meat and set with gelatin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mousse designates a rich, frothy, creamy dessert made with whipped egg whites and heavy cream."*

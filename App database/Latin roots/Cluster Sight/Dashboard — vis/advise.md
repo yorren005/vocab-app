@@ -5,15 +5,6 @@ status: unread
 ---
 # advise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give advice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, ’Tis an unseason’d courtier; good my lord, Advise him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my chamber and advise me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope I need not to advise you further; but I hope your own grace will keep you where you are, though there were no further danger known but the modesty which is so lost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give advice to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, ’Tis an unseason’d courtier; good my lord, Advise him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my chamber and advise me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope I need not to advise you further; but I hope your own grace will keep you where you are, though there were no further danger known but the modesty which is so lost."*

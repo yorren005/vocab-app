@@ -5,15 +5,6 @@ status: unread
 ---
 # scissors
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An edge tool having two crossed pivoting blades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master preaches patience to him, and the while His man with scissors nicks him like a fool; And sure (unless you send some present help) Between them they will kill the conjurer."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He will sit poring over his book, and not know when a person speaks to him, or when one drops one’s scissors, or anything that happens."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An edge tool having two crossed pivoting blades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master preaches patience to him, and the while His man with scissors nicks him like a fool; And sure (unless you send some present help) Between them they will kill the conjurer."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He will sit poring over his book, and not know when a person speaks to him, or when one drops one’s scissors, or anything that happens."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."*

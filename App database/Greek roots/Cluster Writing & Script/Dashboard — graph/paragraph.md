@@ -5,15 +5,6 @@ status: unread
 ---
 # paragraph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdivision of a written composition that consists of one or more sentences, deals with one point or gives the words of one speaker, and begins on a new usually indented line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short composition or note that is complete in one paragraph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come and teach our two-legged law-paragraph here to get some sense."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"These accidents have made a paragraph in the newspapers and have filled a bed or two in the nearest hospital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdivision of a written composition that consists of one or more sentences, deals with one point or gives the words of one speaker, and begins on a new usually indented line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short composition or note that is complete in one paragraph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come and teach our two-legged law-paragraph here to get some sense."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"These accidents have made a paragraph in the newspapers and have filled a bed or two in the nearest hospital."*

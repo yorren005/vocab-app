@@ -5,13 +5,6 @@ status: unread
 ---
 # allograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of a grapheme, as `m' or `m' or a handwritten version of that grapheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signature written by one person for another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograph designates a variant form of a grapheme, as `m' or `m' or a handwritten version of that grapheme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of a grapheme, as `m' or `m' or a handwritten version of that grapheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signature written by one person for another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograph designates a variant form of a grapheme, as `m' or `m' or a handwritten version of that grapheme."*

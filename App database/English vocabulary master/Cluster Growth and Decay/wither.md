@@ -5,20 +5,6 @@ status: unread
 ---
 # wither
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cause to wither
-> 2. **Nuance / Usage**: Lose vitality, force, or freshness
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wither the target*) and intransitive clauses (*withering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"violets, but they wither’d all when my father died."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"From this bare wither’d trunk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cause to wither
+> 2. **Nuance / Usage**: Lose vitality, force, or freshness
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wither the target*) and intransitive clauses (*withering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"violets, but they wither’d all when my father died."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"From this bare wither’d trunk."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # psychoanalyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed practitioner of psychoanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed practitioner of psychoanalysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalyst designates a licensed practitioner of psychoanalysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed practitioner of psychoanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed practitioner of psychoanalysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalyst designates a licensed practitioner of psychoanalysis."*

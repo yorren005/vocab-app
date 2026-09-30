@@ -5,15 +5,6 @@ status: unread
 ---
 # prince
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a royal family other than the sovereign (especially the son of a sovereign).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male member of a royal family other than the sovereign (especially the son of a sovereign).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, if I cannot serve you, I can serve as great a prince as you are."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The black prince, sir; alias the prince of darkness; alias the devil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But sure he is the prince of the world; let his nobility remain in’s court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a royal family other than the sovereign (especially the son of a sovereign).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male member of a royal family other than the sovereign (especially the son of a sovereign).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, if I cannot serve you, I can serve as great a prince as you are."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The black prince, sir; alias the prince of darkness; alias the devil."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But sure he is the prince of the world; let his nobility remain in’s court."*

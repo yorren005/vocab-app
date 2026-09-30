@@ -5,15 +5,6 @@ status: unread
 ---
 # damnable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving a curse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving a curse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it not meant damnable in us to be trumpeters of our unlawful intents?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, since I was three year old, conversed with a magician, most profound in his art and yet not damnable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pox, leave thy damnable faces, and begin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving a curse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving a curse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it not meant damnable in us to be trumpeters of our unlawful intents?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, since I was three year old, conversed with a magician, most profound in his art and yet not damnable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pox, leave thy damnable faces, and begin."*

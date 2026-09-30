@@ -5,15 +5,6 @@ status: unread
 ---
 # concluding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have often Begun to tell me what I am, but stopp’d, And left me to a bootless inquisition, Concluding “Stay; not yet.” PROSPERO."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, in a great perspiration, nerves himself to the hasty completion of the taking down of the Galaxy Gallery, concluding with Lady Dedlock."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You’ve had enough already.” Concluding thus, the parson rode on his way, with doubts as to his discretion in retailing this curious bit of lore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have often Begun to tell me what I am, but stopp’d, And left me to a bootless inquisition, Concluding “Stay; not yet.” PROSPERO."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, in a great perspiration, nerves himself to the hasty completion of the taking down of the Galaxy Gallery, concluding with Lady Dedlock."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You’ve had enough already.” Concluding thus, the parson rode on his way, with doubts as to his discretion in retailing this curious bit of lore."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # standard-bearer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outstanding leader of a political movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soldier who carries the standard of the unit in military parades or in battle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standard-bearer designates an outstanding leader of a political movement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outstanding leader of a political movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soldier who carries the standard of the unit in military parades or in battle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standard-bearer designates an outstanding leader of a political movement."*

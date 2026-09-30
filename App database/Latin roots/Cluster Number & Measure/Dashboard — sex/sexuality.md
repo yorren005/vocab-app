@@ -5,14 +5,6 @@ status: unread
 ---
 # sexuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The properties that distinguish organisms on the basis of their reproductive roles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The properties that distinguish organisms on the basis of their reproductive roles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word is not confined to sexuality, and grammars always recognize a neuter gender, neither 508:21 male nor female."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To these bodies it is proposed to give the name of “oogonia” and “antheridia,” on account of their presumed sexuality, the “oogonia” representing the female, and the “antheridia” the male organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The properties that distinguish organisms on the basis of their reproductive roles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The properties that distinguish organisms on the basis of their reproductive roles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word is not confined to sexuality, and grammars always recognize a neuter gender, neither 508:21 male nor female."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To these bodies it is proposed to give the name of “oogonia” and “antheridia,” on account of their presumed sexuality, the “oogonia” representing the female, and the “antheridia” the male organs."*

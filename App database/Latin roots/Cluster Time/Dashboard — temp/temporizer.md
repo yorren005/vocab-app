@@ -5,13 +5,6 @@ status: unread
 ---
 # temporizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is; you lie, you lie: I say thou liest, Camillo, and I hate thee, Pronounce thee a gross lout, a mindless slave, Or else a hovering temporizer that Canst with thine eyes at once see good and evil, Inclining to them both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who temporizes; someone who tries to gain time or who waits for a favorable time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is; you lie, you lie: I say thou liest, Camillo, and I hate thee, Pronounce thee a gross lout, a mindless slave, Or else a hovering temporizer that Canst with thine eyes at once see good and evil, Inclining to them both."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amenorrhea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence or suppression of normal menstrual flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence or suppression of normal menstrual flow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amenorrhea designates absence or suppression of normal menstrual flow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence or suppression of normal menstrual flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence or suppression of normal menstrual flow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amenorrhea designates absence or suppression of normal menstrual flow."*

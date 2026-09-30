@@ -5,15 +5,6 @@ status: unread
 ---
 # pension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular payment to a person that is intended to allow them to subsist without working.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a pension to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, the hot-blooded France, that dowerless took Our youngest born, I could as well be brought To knee his throne, and, squire-like, pension beg To keep base life afoot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not give my part of this sport for a pension of thousands to be paid from the Sophy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In any country in a wholesome state, Volumnia would be a clear case for the pension list."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular payment to a person that is intended to allow them to subsist without working.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a pension to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, the hot-blooded France, that dowerless took Our youngest born, I could as well be brought To knee his throne, and, squire-like, pension beg To keep base life afoot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not give my part of this sport for a pension of thousands to be paid from the Sophy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In any country in a wholesome state, Volumnia would be a clear case for the pension list."*

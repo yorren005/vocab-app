@@ -5,15 +5,6 @@ status: unread
 ---
 # exporting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity of selling and shipping goods to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or transfer abroad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Melting or exporting them before that point was reached would cause to the owner the loss of whatever element of seigniorage value they contained."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The excess of 111 pieces could not now be promptly removed by the melting down or exporting of 111 coins, for all those remaining in circulation have a bullion value 1/10 below their money value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _gold shipping points_ for importing or exporting gold are respectively par of exchange plus or minus the cost of moving the actual metal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity of selling and shipping goods to a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or transfer abroad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Melting or exporting them before that point was reached would cause to the owner the loss of whatever element of seigniorage value they contained."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The excess of 111 pieces could not now be promptly removed by the melting down or exporting of 111 coins, for all those remaining in circulation have a bullion value 1/10 below their money value."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _gold shipping points_ for importing or exporting gold are respectively par of exchange plus or minus the cost of moving the actual metal."*

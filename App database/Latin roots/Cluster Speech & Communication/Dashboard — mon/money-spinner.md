@@ -5,13 +5,6 @@ status: unread
 ---
 # money-spinner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A project that generates a continuous flow of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A project that generates a continuous flow of money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, money-spinner designates a project that generates a continuous flow of money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A project that generates a continuous flow of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A project that generates a continuous flow of money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, money-spinner designates a project that generates a continuous flow of money."*

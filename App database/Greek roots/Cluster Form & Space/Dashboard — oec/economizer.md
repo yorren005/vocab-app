@@ -5,13 +5,6 @@ status: unread
 ---
 # economizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frugal person who limits spending and avoids waste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frugal person who limits spending and avoids waste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, economizer designates a frugal person who limits spending and avoids waste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A frugal person who limits spending and avoids waste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frugal person who limits spending and avoids waste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, economizer designates a frugal person who limits spending and avoids waste."*

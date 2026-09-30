@@ -5,13 +5,6 @@ status: unread
 ---
 # archetype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetype designates the original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetype designates the original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example."*

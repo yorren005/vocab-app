@@ -5,15 +5,6 @@ status: unread
 ---
 # prejudicial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `to') causing harm or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to favor preconceived ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suppose, my lords, he did it unconstrained, Think you ’twere prejudicial to his crown?"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"That such men should give prejudicial accounts of America, is not a matter of surprise."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Mudge, but she was a little alarmed, nevertheless, as such an appeal would probably be prejudicial to her interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `to') causing harm or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to favor preconceived ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suppose, my lords, he did it unconstrained, Think you ’twere prejudicial to his crown?"*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"That such men should give prejudicial accounts of America, is not a matter of surprise."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Mudge, but she was a little alarmed, nevertheless, as such an appeal would probably be prejudicial to her interest."*

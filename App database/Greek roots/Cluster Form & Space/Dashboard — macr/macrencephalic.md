@@ -5,13 +5,6 @@ status: unread
 ---
 # macrencephalic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large brain case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a large brain case.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrencephalic designates having a large brain case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large brain case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a large brain case.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrencephalic designates having a large brain case."*

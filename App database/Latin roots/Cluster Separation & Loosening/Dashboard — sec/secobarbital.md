@@ -5,13 +5,6 @@ status: unread
 ---
 # secobarbital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Barbiturate that is a white odorless slightly bitter powder (trade name seconal) used as a sodium salt for sedation and to treat convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barbiturate that is a white odorless slightly bitter powder (trade name seconal) used as a sodium salt for sedation and to treat convulsions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secobarbital designates barbiturate that is a white odorless slightly bitter powder (trade name seconal) used as a sodium salt for sedation and to treat convulsions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Barbiturate that is a white odorless slightly bitter powder (trade name seconal) used as a sodium salt for sedation and to treat convulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barbiturate that is a white odorless slightly bitter powder (trade name seconal) used as a sodium salt for sedation and to treat convulsions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secobarbital designates barbiturate that is a white odorless slightly bitter powder (trade name seconal) used as a sodium salt for sedation and to treat convulsions."*

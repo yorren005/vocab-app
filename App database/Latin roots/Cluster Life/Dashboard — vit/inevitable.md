@@ -5,15 +5,6 @@ status: unread
 ---
 # inevitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unavoidable event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being avoided or prevented.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had a pass with him, rapier, scabbard, and all, and he gives me the stuck-in with such a mortal motion that it is inevitable; and on the answer, he pays you as surely as your feet hits the ground they step on."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli would arrive carrying a large bunch of flowers, the inevitable gift from Apollonie, Presenting them to her mother, she would shout: "There they are again, just look!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"And in short, she said more than her husband could long withstand, and as none of the others could oppose when he gave way, there was no help for it; the change of Mary for Anne was inevitable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unavoidable event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being avoided or prevented.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had a pass with him, rapier, scabbard, and all, and he gives me the stuck-in with such a mortal motion that it is inevitable; and on the answer, he pays you as surely as your feet hits the ground they step on."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli would arrive carrying a large bunch of flowers, the inevitable gift from Apollonie, Presenting them to her mother, she would shout: "There they are again, just look!"*
+> - 📜 **Jane Austen (*Persuasion*):** *"And in short, she said more than her husband could long withstand, and as none of the others could oppose when he gave way, there was no help for it; the change of Mary for Anne was inevitable."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # uneconomical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inefficient in use of time and effort and materials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasteful of resources.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uneconomical designates inefficient in use of time and effort and materials."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inefficient in use of time and effort and materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasteful of resources.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uneconomical designates inefficient in use of time and effort and materials."*

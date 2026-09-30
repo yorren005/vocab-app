@@ -5,13 +5,6 @@ status: unread
 ---
 # fictionalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary work based partly or wholly on fact but written as if it were fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing in a fictional form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictionalisation designates a literary work based partly or wholly on fact but written as if it were fiction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary work based partly or wholly on fact but written as if it were fiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing in a fictional form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictionalisation designates a literary work based partly or wholly on fact but written as if it were fiction."*

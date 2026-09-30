@@ -5,13 +5,6 @@ status: unread
 ---
 # mousetrap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trap for catching mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) a play in which a defensive player is allowed to cross the line of scrimmage and then blocked off as the runner goes through the place the lineman vacated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. _The Mousetrap._ Marry, how?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trap for catching mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) a play in which a defensive player is allowed to cross the line of scrimmage and then blocked off as the runner goes through the place the lineman vacated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. _The Mousetrap._ Marry, how?"*

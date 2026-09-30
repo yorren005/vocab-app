@@ -5,13 +5,6 @@ status: unread
 ---
 # tonocard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antiarrhythmic drug (trade name tonocard) used to treat ventricular arrhythmias when less dangerous drugs have failed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antiarrhythmic drug (trade name tonocard) used to treat ventricular arrhythmias when less dangerous drugs have failed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonocard designates antiarrhythmic drug (trade name tonocard) used to treat ventricular arrhythmias when less dangerous drugs have failed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antiarrhythmic drug (trade name tonocard) used to treat ventricular arrhythmias when less dangerous drugs have failed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antiarrhythmic drug (trade name tonocard) used to treat ventricular arrhythmias when less dangerous drugs have failed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonocard designates antiarrhythmic drug (trade name tonocard) used to treat ventricular arrhythmias when less dangerous drugs have failed."*

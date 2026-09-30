@@ -5,13 +5,6 @@ status: unread
 ---
 # nonaligned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affiliated with any faction, party, or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated with any faction, party, or cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonaligned designates not affiliated with any faction, party, or cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affiliated with any faction, party, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated with any faction, party, or cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonaligned designates not affiliated with any faction, party, or cause."*

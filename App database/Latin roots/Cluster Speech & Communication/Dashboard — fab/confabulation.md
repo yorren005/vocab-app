@@ -5,15 +5,6 @@ status: unread
 ---
 # confabulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a plausible but imagined memory that fills in gaps in what is remembered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket for a little private confabulation, tells his tale satisfactorily, though out of breath."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Trust me, sir, I have already laughed more than beseems my cloth at your Homeric confabulation with yonder ragamuffin General of the rebels."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The schoolroom piano broke into all gruesome fancies; and when that failed there were confabulations in corners, with a sequel of one of them going out in the highest spirits in order to “come in” as something new."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a plausible but imagined memory that fills in gaps in what is remembered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket for a little private confabulation, tells his tale satisfactorily, though out of breath."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Trust me, sir, I have already laughed more than beseems my cloth at your Homeric confabulation with yonder ragamuffin General of the rebels."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The schoolroom piano broke into all gruesome fancies; and when that failed there were confabulations in corners, with a sequel of one of them going out in the highest spirits in order to “come in” as something new."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # marabou
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large african black-and-white carrion-eating stork; its downy underwing feathers are used to trim garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The downy feathers of marabou storks are used for trimming garments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marabou designates large african black-and-white carrion-eating stork; its downy underwing feathers are used to trim garments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large african black-and-white carrion-eating stork; its downy underwing feathers are used to trim garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The downy feathers of marabou storks are used for trimming garments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marabou designates large african black-and-white carrion-eating stork; its downy underwing feathers are used to trim garments."*

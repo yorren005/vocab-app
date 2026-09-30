@@ -5,15 +5,6 @@ status: unread
 ---
 # opprobrium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of disgrace resulting from public abuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme dishonor; - f.d.roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My head still ached and bled with the blow and fall I had received: no one had reproved John for wantonly striking me; and because I had turned against him to avert farther irrational violence, I was loaded with general opprobrium."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But her silence shrouded her resistant emotion into a more thorough glow; and this misfortune in Will’s lot which, it seemed, others were wishing to fling at his back as an opprobrium, only gave something more of enthusiasm to her clinging thought."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let me add that it is the great desideratum by which this form of government can be rescued from the opprobrium under which it has so long labored, and be recommended to the esteem and adoption of mankind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of disgrace resulting from public abuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme dishonor; - f.d.roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My head still ached and bled with the blow and fall I had received: no one had reproved John for wantonly striking me; and because I had turned against him to avert farther irrational violence, I was loaded with general opprobrium."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But her silence shrouded her resistant emotion into a more thorough glow; and this misfortune in Will’s lot which, it seemed, others were wishing to fling at his back as an opprobrium, only gave something more of enthusiasm to her clinging thought."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let me add that it is the great desideratum by which this form of government can be rescued from the opprobrium under which it has so long labored, and be recommended to the esteem and adoption of mankind."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady, becoming more and more incensed against the master of deportment as she dwelt upon the subject, gave me some particulars of his career, with strong assurances that they were mildly stated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You come here to make a remarkably modest demand, which you have just stated, and it not being conceded, you will come again.” “And again,” says mademoiselle with more tight and angry nods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady, becoming more and more incensed against the master of deportment as she dwelt upon the subject, gave me some particulars of his career, with strong assurances that they were mildly stated."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You come here to make a remarkably modest demand, which you have just stated, and it not being conceded, you will come again.” “And again,” says mademoiselle with more tight and angry nods."*

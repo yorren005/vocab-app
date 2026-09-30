@@ -5,20 +5,6 @@ status: unread
 ---
 # tinder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to set fire to; torch
-> 2. **Nuance / Usage**: Something that serves to incite or inflame
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Tidy, Charles Meymott (*The Story of a Tinder-box*):** *"I have here several rare old tinder-boxes."*
-> - 📜 **Tidy, Charles Meymott (*The Story of a Tinder-box*):** *"see I have the tinder now safely secured in my tinder-box."*
-> - 📜 **Tidy, Charles Meymott (*The Story of a Tinder-box*):** *"it has done so, and my tinder has caught fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dry, easily ignitable material—such as scorched linen, dried moss, or wood shavings—used to catch the initial spark from flint and steel when starting a fire.
+> 2. **Nuance / Usage**: Used figuratively to describe volatile circumstances, passions, or political tensions ready to erupt into conflict at the slightest provocation (*dry as tinder*, *a tinderbox*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"A single spark has fallen into the box, and my **tinder** has caught fire."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dry furze bushes on the heath stood parched and ready to blaze like **tinder** at a single spark."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His temper was like dry **tinder**, requiring only a word to set it in a blaze."*

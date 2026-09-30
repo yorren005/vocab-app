@@ -5,13 +5,6 @@ status: unread
 ---
 # vulgarize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase and make vulgar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulgarize designates cater to popular taste to make popular and present to the general public; bring into general or common use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase and make vulgar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulgarize designates cater to popular taste to make popular and present to the general public; bring into general or common use."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # corruption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of integrity or honesty (especially susceptibility to bribery); use of a position of trust for dishonest gain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of progressive putrefaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see the jewel best enamelled Will lose his beauty; yet the gold bides still That others touch, yet often touching will Wear gold; and no man that hath a name By falsehood and corruption doth it shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but to live In the rank sweat of an enseamed bed, Stew’d in corruption, honeying and making love Over the nasty sty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will but skin and film the ulcerous place, Whilst rank corruption, mining all within, Infects unseen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of integrity or honesty (especially susceptibility to bribery); use of a position of trust for dishonest gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of progressive putrefaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see the jewel best enamelled Will lose his beauty; yet the gold bides still That others touch, yet often touching will Wear gold; and no man that hath a name By falsehood and corruption doth it shame."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but to live In the rank sweat of an enseamed bed, Stew’d in corruption, honeying and making love Over the nasty sty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will but skin and film the ulcerous place, Whilst rank corruption, mining all within, Infects unseen."*

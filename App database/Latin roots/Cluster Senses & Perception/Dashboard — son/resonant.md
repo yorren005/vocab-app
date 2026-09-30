@@ -5,15 +5,6 @@ status: unread
 ---
 # resonant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by resonance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to bring to mind; - wilder hobson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His voice, short, deep, and resonant, is not at all unlike the tones of the instrument to which he is devoted."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley started up, and said in his firm resonant voice, “Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by resonance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to bring to mind; - wilder hobson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His voice, short, deep, and resonant, is not at all unlike the tones of the instrument to which he is devoted."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley started up, and said in his firm resonant voice, “Mr."*

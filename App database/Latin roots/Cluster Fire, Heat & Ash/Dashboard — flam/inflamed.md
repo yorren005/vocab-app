@@ -5,15 +5,6 @@ status: unread
 ---
 # inflamed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause inflammation in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You gods that made me man, and sway in love, That have inflamed desire in my breast To taste the fruit of yon celestial tree, Or die in the adventure, be my helps, As I am son and servant to your will, To compass such a boundless happiness!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But Bathsh—Miss Everdene inflamed me, and displaced Fanny for a time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I think I won’t go in to-night.” “Oh no—you don’t drive me away.” Then they stood in a state of some embarrassment, Bathsheba trying to wipe her dreadfully drenched and inflamed face without his noticing her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause inflammation in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You gods that made me man, and sway in love, That have inflamed desire in my breast To taste the fruit of yon celestial tree, Or die in the adventure, be my helps, As I am son and servant to your will, To compass such a boundless happiness!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But Bathsh—Miss Everdene inflamed me, and displaced Fanny for a time."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I think I won’t go in to-night.” “Oh no—you don’t drive me away.” Then they stood in a state of some embarrassment, Bathsheba trying to wipe her dreadfully drenched and inflamed face without his noticing her."*

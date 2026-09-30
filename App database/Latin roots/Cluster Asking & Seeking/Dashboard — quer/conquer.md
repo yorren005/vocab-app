@@ -5,15 +5,6 @@ status: unread
 ---
 # conquer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To put down by force or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take possession of by force, as after an invasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now will I charge you in the band of truth, When you have conquer’d my yet maiden-bed, Remain there but an hour, nor speak to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We Have used to conquer standing on the earth And fighting foot to foot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put down by force or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take possession of by force, as after an invasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now will I charge you in the band of truth, When you have conquer’d my yet maiden-bed, Remain there but an hour, nor speak to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We Have used to conquer standing on the earth And fighting foot to foot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*

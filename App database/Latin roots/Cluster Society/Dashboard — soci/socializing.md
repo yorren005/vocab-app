@@ -5,13 +5,6 @@ status: unread
 ---
 # socializing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of meeting for social purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take part in social activities; interact with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just socializing." He motioned at the stool again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of meeting for social purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take part in social activities; interact with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just socializing." He motioned at the stool again."*

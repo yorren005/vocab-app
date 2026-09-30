@@ -5,13 +5,6 @@ status: unread
 ---
 # mixology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill in preparing mixed drinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill in preparing mixed drinks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mixology designates skill in preparing mixed drinks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill in preparing mixed drinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill in preparing mixed drinks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mixology designates skill in preparing mixed drinks."*

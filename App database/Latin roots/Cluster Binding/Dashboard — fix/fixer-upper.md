@@ -5,13 +5,6 @@ status: unread
 ---
 # fixer-upper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A house or other dwelling in need of repair (usually offered for sale at a low price).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A house or other dwelling in need of repair (usually offered for sale at a low price).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixer-upper designates a house or other dwelling in need of repair (usually offered for sale at a low price)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A house or other dwelling in need of repair (usually offered for sale at a low price).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A house or other dwelling in need of repair (usually offered for sale at a low price).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixer-upper designates a house or other dwelling in need of repair (usually offered for sale at a low price)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # loquacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of trivial conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of trivial conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby; and a loquacious young man called Mr."*
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom sad _Eve_ with shame nigh overwhelm’d, Confessing soon, yet not before her Judge Bold or loquacious, thus abasht repli’d."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble, had he not been deeply engaged in poring over the trials his loquacious housekeeper was so eloquently setting forth to her silent and rather inattentive listener, he would have discovered himself the hero of a tale which might have lost Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of trivial conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of trivial conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby; and a loquacious young man called Mr."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom sad _Eve_ with shame nigh overwhelm’d, Confessing soon, yet not before her Judge Bold or loquacious, thus abasht repli’d."*
+> - 📜 **Effie Afton (*Eventide*):** *"Pimble, had he not been deeply engaged in poring over the trials his loquacious housekeeper was so eloquently setting forth to her silent and rather inattentive listener, he would have discovered himself the hero of a tale which might have lost Mrs."*

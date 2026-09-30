@@ -5,15 +5,6 @@ status: unread
 ---
 # evaporation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of extracting moisture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They also heated a distilling apparatus, which, by evaporation, furnished excellent drinkable water."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Indeed, the volume of water in the Mediterranean, incessantly added to by the waves of the Atlantic and by rivers falling into it, would each year raise the level of this sea, for its evaporation is not sufficient to restore the equilibrium."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo took me to the galleys, where the vast distillatory machines stood that furnished the drinkable water by evaporation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming a vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of extracting moisture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They also heated a distilling apparatus, which, by evaporation, furnished excellent drinkable water."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Indeed, the volume of water in the Mediterranean, incessantly added to by the waves of the Atlantic and by rivers falling into it, would each year raise the level of this sea, for its evaporation is not sufficient to restore the equilibrium."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo took me to the galleys, where the vast distillatory machines stood that furnished the drinkable water by evaporation."*

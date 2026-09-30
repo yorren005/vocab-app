@@ -5,15 +5,6 @@ status: unread
 ---
 # suspected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine to be the case or true or probable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard as untrustworthy; regard with suspicion; have no faith or confidence in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only to seem to deserve well, and to beguile the supposition of that lascivious young boy the count, have I run into this danger: yet who would have suspected an ambush where I was taken?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O lady, weep no more, lest I give cause To be suspected of more tenderness Than doth become a man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, madam, we must take a short farewell, Lest, being miss’d, I be suspected of Your carriage from the court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine to be the case or true or probable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard as untrustworthy; regard with suspicion; have no faith or confidence in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only to seem to deserve well, and to beguile the supposition of that lascivious young boy the count, have I run into this danger: yet who would have suspected an ambush where I was taken?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O lady, weep no more, lest I give cause To be suspected of more tenderness Than doth become a man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, madam, we must take a short farewell, Lest, being miss’d, I be suspected of Your carriage from the court."*

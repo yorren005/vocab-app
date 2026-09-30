@@ -5,15 +5,6 @@ status: unread
 ---
 # rapidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate that is rapid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate that is rapid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the same odd way, yet with the same rapidity, he then produced singly, and rubbed out singly, the letters forming the words Bleak House."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon that, he shut himself up for a few weeks with some books and some bones and seemed to acquire a considerable fund of information with great rapidity."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I shall be at your service in half a minute.” Mrs Croft left them, and Captain Wentworth, having sealed his letter with great rapidity, was indeed ready, and had even a hurried, agitated air, which shewed impatience to be gone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate that is rapid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate that is rapid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the same odd way, yet with the same rapidity, he then produced singly, and rubbed out singly, the letters forming the words Bleak House."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Upon that, he shut himself up for a few weeks with some books and some bones and seemed to acquire a considerable fund of information with great rapidity."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I shall be at your service in half a minute.” Mrs Croft left them, and Captain Wentworth, having sealed his letter with great rapidity, was indeed ready, and had even a hurried, agitated air, which shewed impatience to be gone."*

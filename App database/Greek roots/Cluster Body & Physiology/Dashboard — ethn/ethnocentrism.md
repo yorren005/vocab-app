@@ -5,13 +5,6 @@ status: unread
 ---
 # ethnocentrism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the superiority of one's own ethnic group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the superiority of one's own ethnic group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnocentrism designates belief in the superiority of one's own ethnic group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the superiority of one's own ethnic group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the superiority of one's own ethnic group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnocentrism designates belief in the superiority of one's own ethnic group."*

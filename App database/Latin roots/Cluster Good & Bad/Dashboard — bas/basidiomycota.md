@@ -5,13 +5,6 @@ status: unread
 ---
 # basidiomycota
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycota designates comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycota designates comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi."*

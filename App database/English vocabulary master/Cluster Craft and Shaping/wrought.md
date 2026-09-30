@@ -5,20 +5,6 @@ status: unread
 ---
 # wrought
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Processed for use : manufactured
-> 2. **Nuance / Usage**: Elaborately embellished : ornamented
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a wrought presence*) or predicatively (*remained wrought*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hath the late overthrow wrought this offence?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And those thy fears might have wrought fears in me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Great business must be wrought ere noon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Processed for use : manufactured
+> 2. **Nuance / Usage**: Elaborately embellished : ornamented
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a wrought presence*) or predicatively (*remained wrought*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Hath the late overthrow wrought this offence?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And those thy fears might have wrought fears in me."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Great business must be wrought ere noon."*

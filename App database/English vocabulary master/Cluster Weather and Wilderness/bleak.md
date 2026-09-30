@@ -5,20 +5,6 @@ status: unread
 ---
 # bleak
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cold, raw
-> 2. **Nuance / Usage**: Without color; pale; pallid
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a bleak presence*) or predicatively (*remained bleak*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"over leaves, “is Jarndyce of Bleak House."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"some one in authority at Bleak House."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"forming the words Bleak House."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cold, raw
+> 2. **Nuance / Usage**: Without color; pale; pallid
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a bleak presence*) or predicatively (*remained bleak*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"over leaves, “is Jarndyce of Bleak House."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"some one in authority at Bleak House."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"forming the words Bleak House."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sociometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantitative study of social relationships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantitative study of social relationships.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociometry designates the quantitative study of social relationships."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantitative study of social relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantitative study of social relationships.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociometry designates the quantitative study of social relationships."*

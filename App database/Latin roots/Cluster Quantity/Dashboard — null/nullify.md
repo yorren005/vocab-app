@@ -5,15 +5,6 @@ status: unread
 ---
 # nullify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be invalid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He does not want drying.” “Who, my dear?” said Lady Chettam, a charming woman, not so quick as to nullify the pleasure of explanation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The banker felt that he had done something to nullify one cause of uneasiness, and yet he was scarcely the easier."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"In vain industry, self-sacrifice and generosity--that young face, that bright youthful colouring would nullify all my efforts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be invalid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He does not want drying.” “Who, my dear?” said Lady Chettam, a charming woman, not so quick as to nullify the pleasure of explanation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The banker felt that he had done something to nullify one cause of uneasiness, and yet he was scarcely the easier."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"In vain industry, self-sacrifice and generosity--that young face, that bright youthful colouring would nullify all my efforts."*

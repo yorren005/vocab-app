@@ -5,15 +5,6 @@ status: unread
 ---
 # postage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The charge for mailing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small adhesive token stuck on a letter or package to indicate that that postal fees have been paid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The letters that passed between the student and his family were also sent in the box, for as yet there was no penny post, and the postage of a letter between Dunglass and Edinburgh cost as much as sixpence halfpenny or sevenpence."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That evening a lady friend called to say good-by for the winter, and as she left gave me _fifty cents for postage._ While I was calling He answered me."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"AUSTIN DICKINSON, NEW YORK. * * * * * POSTAGE--_One Cent and a half_, not over 100 miles; _Two Cents and a half_, any distance over 100."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The charge for mailing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small adhesive token stuck on a letter or package to indicate that that postal fees have been paid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The letters that passed between the student and his family were also sent in the box, for as yet there was no penny post, and the postage of a letter between Dunglass and Edinburgh cost as much as sixpence halfpenny or sevenpence."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"That evening a lady friend called to say good-by for the winter, and as she left gave me _fifty cents for postage._ While I was calling He answered me."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"AUSTIN DICKINSON, NEW YORK. * * * * * POSTAGE--_One Cent and a half_, not over 100 miles; _Two Cents and a half_, any distance over 100."*

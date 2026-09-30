@@ -5,15 +5,6 @@ status: unread
 ---
 # dissenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The family were of that "strict, not strictest species of Presbyterian Dissenter," and John attended also the Bible-class and Fellowship Meeting."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But now he may be no better than a Dissenter, and want to push aside my son on pretence of doctrine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She so much wished to ignore towards others that her husband had ever been a London Dissenter, that she liked to keep it out of sight even in talking to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The family were of that "strict, not strictest species of Presbyterian Dissenter," and John attended also the Bible-class and Fellowship Meeting."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But now he may be no better than a Dissenter, and want to push aside my son on pretence of doctrine."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She so much wished to ignore towards others that her husband had ever been a London Dissenter, that she liked to keep it out of sight even in talking to him."*

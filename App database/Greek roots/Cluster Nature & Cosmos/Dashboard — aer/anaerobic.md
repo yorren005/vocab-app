@@ -5,14 +5,6 @@ status: unread
 ---
 # anaerobic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, active, occurring, or existing in the absence of free oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being activity in which the body incurs an oxygen debt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Further, they can be divided into two classes, the aerobic and the anaerobic."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There the anaerobic microbes flourish and multiply, and in the course of their life work they convert the sewage into an inoffensive liquid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, active, occurring, or existing in the absence of free oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being activity in which the body incurs an oxygen debt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Further, they can be divided into two classes, the aerobic and the anaerobic."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There the anaerobic microbes flourish and multiply, and in the course of their life work they convert the sewage into an inoffensive liquid."*

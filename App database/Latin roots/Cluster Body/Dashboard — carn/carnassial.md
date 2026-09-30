@@ -5,13 +5,6 @@ status: unread
 ---
 # carnassial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a tooth) adapted for shearing flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a tooth) adapted for shearing flesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnassial designates (of a tooth) adapted for shearing flesh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a tooth) adapted for shearing flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a tooth) adapted for shearing flesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnassial designates (of a tooth) adapted for shearing flesh."*

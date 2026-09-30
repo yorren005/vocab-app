@@ -5,13 +5,6 @@ status: unread
 ---
 # misogamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred of marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogamy designates a hatred of marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred of marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogamy designates a hatred of marriage."*

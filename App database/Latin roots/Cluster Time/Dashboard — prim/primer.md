@@ -5,15 +5,6 @@ status: unread
 ---
 # primer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An introductory textbook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any igniter that is used to initiate the burning of a propellant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would your Highness Would give it quick consideration, for There is no primer business."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Primer._ “We saw also abundance of large whales, there being more in those southern seas, as I may say, by a hundred to one; than we have to the northward of us.” _Captain Cowley’s Voyage round the Globe, A."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Where he planted the standard of the Union, she planted its institutions; and where he waved the sword, she waved the primer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An introductory textbook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any igniter that is used to initiate the burning of a propellant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would your Highness Would give it quick consideration, for There is no primer business."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Primer._ “We saw also abundance of large whales, there being more in those southern seas, as I may say, by a hundred to one; than we have to the northward of us.” _Captain Cowley’s Voyage round the Globe, A."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Where he planted the standard of the Union, she planted its institutions; and where he waved the sword, she waved the primer."*

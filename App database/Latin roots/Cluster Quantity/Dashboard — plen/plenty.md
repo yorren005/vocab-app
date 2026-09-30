@@ -5,15 +5,6 @@ status: unread
 ---
 # plenty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it is a spare life, look you, it fits my humour well; but as there is no more plenty in it, it goes much against my stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plenty and peace breeds cowards; hardness ever Of hardiness is mother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it is a spare life, look you, it fits my humour well; but as there is no more plenty in it, it goes much against my stomach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plenty and peace breeds cowards; hardness ever Of hardiness is mother."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*

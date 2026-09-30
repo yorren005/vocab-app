@@ -5,15 +5,6 @@ status: unread
 ---
 # admissible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving to be admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be admitted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be shown in the next paper that this CONCURRENT JURISDICTION in the article of taxation was the only admissible substitute for an entire subordination, in respect to this branch of power, of the State authority to that of the Union."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the CONSEQUENCE from this doctrine admissible?"*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"An accident is much more admissible--in this quiet parish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving to be admitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be admitted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be shown in the next paper that this CONCURRENT JURISDICTION in the article of taxation was the only admissible substitute for an entire subordination, in respect to this branch of power, of the State authority to that of the Union."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the CONSEQUENCE from this doctrine admissible?"*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"An accident is much more admissible--in this quiet parish."*

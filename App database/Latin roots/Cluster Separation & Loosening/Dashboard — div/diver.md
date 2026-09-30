@@ -5,15 +5,6 @@ status: unread
 ---
 # diver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works underwater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dives (into water).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re caught.” CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The diver sun—slow dived from noon,—goes down; my soul mounts up! she wearies with her endless hill."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thou hast been where bell or diver never went; hast slept by many a sailor’s side, where sleepless mothers would give their lives to lay them down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works underwater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dives (into water).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re caught.” CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The diver sun—slow dived from noon,—goes down; my soul mounts up! she wearies with her endless hill."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thou hast been where bell or diver never went; hast slept by many a sailor’s side, where sleepless mothers would give their lives to lay them down."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # salmi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ragout of game in a rich sauce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ragout of game in a rich sauce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Isn't it a good salmi?" she said; "I made it for you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ragout of game in a rich sauce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ragout of game in a rich sauce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Isn't it a good salmi?" she said; "I made it for you."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # differential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality that differentiates between similar things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The superiority of some consumption goods, either in quantity or quality, often is exactly analogous to the "differential advantage" spoken of by economists in the case of productive agents."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The differential advantage of the highest grade over the grade of free goods, whose value is zero, evidently is the whole value of the highest grade. § II."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The superior effectiveness of the earlier over the later units of the added agent is called the "differential advantage" of the two fixed agents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality that differentiates between similar things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The superiority of some consumption goods, either in quantity or quality, often is exactly analogous to the "differential advantage" spoken of by economists in the case of productive agents."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The differential advantage of the highest grade over the grade of free goods, whose value is zero, evidently is the whole value of the highest grade. § II."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The superior effectiveness of the earlier over the later units of the added agent is called the "differential advantage" of the two fixed agents."*

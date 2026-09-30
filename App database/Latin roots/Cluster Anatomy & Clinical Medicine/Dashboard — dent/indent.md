@@ -5,15 +5,6 @@ status: unread
 ---
 # indent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order for goods to be exported or imported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The space left between the margin and the start of an indented line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we buy treason and indent with fears When they have lost and forfeited themselves?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall not wind with such a deep indent, To rob me of so rich a bottom here."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"At length they came to a small cove, or rather indent of the shore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order for goods to be exported or imported.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The space left between the margin and the start of an indented line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we buy treason and indent with fears When they have lost and forfeited themselves?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall not wind with such a deep indent, To rob me of so rich a bottom here."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"At length they came to a small cove, or rather indent of the shore."*

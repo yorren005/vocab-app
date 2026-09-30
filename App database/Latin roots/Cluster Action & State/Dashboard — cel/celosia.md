@@ -5,13 +5,6 @@ status: unread
 ---
 # celosia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbs or vines of tropical and subtropical america and asia and africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or vines of tropical and subtropical america and asia and africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celosia designates annual or perennial herbs or vines of tropical and subtropical america and asia and africa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbs or vines of tropical and subtropical america and asia and africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or vines of tropical and subtropical america and asia and africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celosia designates annual or perennial herbs or vines of tropical and subtropical america and asia and africa."*

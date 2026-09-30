@@ -5,13 +5,6 @@ status: unread
 ---
 # buccal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or toward the cheek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying within the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, buccal designates of or relating to or toward the cheek."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or toward the cheek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying within the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, buccal designates of or relating to or toward the cheek."*

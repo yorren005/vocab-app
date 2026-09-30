@@ -5,15 +5,6 @@ status: unread
 ---
 # adornment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decoration of color or interest that is added to relieve plainness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of decorating yourself with something colorful and interesting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She said upon a time—the bitterness of it I now belch from my heart—that she held the very garment of Posthumus in more respect than my noble and natural person, together with the adornment of my qualities."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling is buttoned up closer than mere adornment might require."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If the public have the benefit, and if the country have the adornment, of this great grasp, it must be paid for in money or money’s worth, sir.” “Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decoration of color or interest that is added to relieve plainness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of decorating yourself with something colorful and interesting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She said upon a time—the bitterness of it I now belch from my heart—that she held the very garment of Posthumus in more respect than my noble and natural person, together with the adornment of my qualities."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling is buttoned up closer than mere adornment might require."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If the public have the benefit, and if the country have the adornment, of this great grasp, it must be paid for in money or money’s worth, sir.” “Mr."*

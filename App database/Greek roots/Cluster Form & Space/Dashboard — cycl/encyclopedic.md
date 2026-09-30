@@ -5,13 +5,6 @@ status: unread
 ---
 # encyclopedic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And surely among all men whose vocation requires them to exhibit their powers of speech, the happiest is a prosperous provincial auctioneer keenly alive to his own jokes and sensible of his encyclopedic knowledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"And surely among all men whose vocation requires them to exhibit their powers of speech, the happiest is a prosperous provincial auctioneer keenly alive to his own jokes and sensible of his encyclopedic knowledge."*

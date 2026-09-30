@@ -5,15 +5,6 @@ status: unread
 ---
 # presuppose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take for granted or as a given; suppose beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Require as a necessary antecedent or precondition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I shall have to presuppose your attachment to her; and to enter on the subject as you wish me to do, will be asking her to tell me whether she returns it.” “That is what I want her to tell you,” said Fred, bluntly."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Waiving any exception that might be taken to the inaccuracy or inexplicitness of the distinction between internal and external, let us inquire what ground there is to presuppose that disinclination in the people."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They 119:6 either presuppose the self-evolution and self-government of matter, or else they assume that matter is the product of Spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take for granted or as a given; suppose beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Require as a necessary antecedent or precondition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I shall have to presuppose your attachment to her; and to enter on the subject as you wish me to do, will be asking her to tell me whether she returns it.” “That is what I want her to tell you,” said Fred, bluntly."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Waiving any exception that might be taken to the inaccuracy or inexplicitness of the distinction between internal and external, let us inquire what ground there is to presuppose that disinclination in the people."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They 119:6 either presuppose the self-evolution and self-government of matter, or else they assume that matter is the product of Spirit."*

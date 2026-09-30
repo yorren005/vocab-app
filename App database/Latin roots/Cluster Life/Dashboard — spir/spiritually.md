@@ -5,15 +5,6 @@ status: unread
 ---
 # spiritually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spiritual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a spiritual manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had an intense consciousness within him, and was spiritually a-hungered like the rest of us."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Then will all the peoples of the world witness that this community is spiritually illumined and divinely guided."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Then will all the peoples of the world witness that this community is spiritually illumined and divinely guided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spiritual manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a spiritual manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had an intense consciousness within him, and was spiritually a-hungered like the rest of us."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Then will all the peoples of the world witness that this community is spiritually illumined and divinely guided."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Then will all the peoples of the world witness that this community is spiritually illumined and divinely guided."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # telencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telencephalon designates the anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telencephalon designates the anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures."*

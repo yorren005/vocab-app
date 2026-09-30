@@ -5,13 +5,6 @@ status: unread
 ---
 # disciform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a round or oval shape like a disc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a round or oval shape like a disc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disciform designates having a round or oval shape like a disc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a round or oval shape like a disc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a round or oval shape like a disc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disciform designates having a round or oval shape like a disc."*

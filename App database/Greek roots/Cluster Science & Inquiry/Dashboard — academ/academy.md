@@ -5,15 +5,6 @@ status: unread
 ---
 # academy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A school usually above the elementary level; especially : a private high school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high school or college in which special subjects or skills are taught.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s Academy in Newman Street.” “And was it there, my dear—” I began."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I found the academy established in a sufficiently dingy house at the corner of an archway, with busts in all the staircase windows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby informed me that the academy had been lent, last night, for a concert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A school usually above the elementary level; especially : a private high school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high school or college in which special subjects or skills are taught.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s Academy in Newman Street.” “And was it there, my dear—” I began."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I found the academy established in a sufficiently dingy house at the corner of an archway, with busts in all the staircase windows."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby informed me that the academy had been lent, last night, for a concert."*

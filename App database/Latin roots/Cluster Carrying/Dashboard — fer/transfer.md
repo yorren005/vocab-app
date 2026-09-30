@@ -5,15 +5,6 @@ status: unread
 ---
 # transfer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving something from one location to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transfers or is transferred from one position to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I resisted the movement which my excellent friend made to take off and transfer to me his scarf of office."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Typical gambling is the transfer of wealth on the outcome of events absolutely unpredictable, so far as the two gamblers are concerned."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gamblers constitute themselves a little fictitious economic circle, and they transfer gains and losses on the turn of events that have no practical objective result within their circle except to determine the direction of the transfer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving something from one location to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transfers or is transferred from one position to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I resisted the movement which my excellent friend made to take off and transfer to me his scarf of office."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Typical gambling is the transfer of wealth on the outcome of events absolutely unpredictable, so far as the two gamblers are concerned."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gamblers constitute themselves a little fictitious economic circle, and they transfer gains and losses on the turn of events that have no practical objective result within their circle except to determine the direction of the transfer."*

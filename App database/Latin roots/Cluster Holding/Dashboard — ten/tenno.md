@@ -5,13 +5,6 @@ status: unread
 ---
 # tenno
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The emperor of japan; when regarded as a religious leader the emperor is called tenno.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The emperor of japan; when regarded as a religious leader the emperor is called tenno.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenno designates the emperor of japan; when regarded as a religious leader the emperor is called tenno."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The emperor of japan; when regarded as a religious leader the emperor is called tenno.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The emperor of japan; when regarded as a religious leader the emperor is called tenno.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenno designates the emperor of japan; when regarded as a religious leader the emperor is called tenno."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # menstruate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo menstruation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Even a woman who did not menstruate was believed by the Baganda to be a source of danger to her husband, indeed capable of killing him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Akikuyu of British East Africa, if a new hut is built in a village and the wife chances to menstruate in it on the day she lights the first fire there, the hut must be broken down and demolished the very next day."*
-> - 📜 **James Joyce (*Ulysses*):** *"But then why don’t all women menstruate at the same time with the same moon, I mean?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo menstruation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Even a woman who did not menstruate was believed by the Baganda to be a source of danger to her husband, indeed capable of killing him."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Akikuyu of British East Africa, if a new hut is built in a village and the wife chances to menstruate in it on the day she lights the first fire there, the hut must be broken down and demolished the very next day."*
+> - 📜 **James Joyce (*Ulysses*):** *"But then why don’t all women menstruate at the same time with the same moon, I mean?"*

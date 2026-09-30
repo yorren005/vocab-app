@@ -5,15 +5,6 @@ status: unread
 ---
 # march
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following february and preceding april.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of marching; walking with regular steps (especially in a procession of some kind).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this the way? [_A march afar._] WIDOW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antony again in a march; Scarus with others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Through Alexandria make a jolly march; Bear our hacked targets like the men that owe them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following february and preceding april.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of marching; walking with regular steps (especially in a procession of some kind).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this the way? [_A march afar._] WIDOW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antony again in a march; Scarus with others."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Through Alexandria make a jolly march; Bear our hacked targets like the men that owe them."*

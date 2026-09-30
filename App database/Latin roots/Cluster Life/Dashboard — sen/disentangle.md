@@ -5,15 +5,6 @@ status: unread
 ---
 # disentangle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extricate from entanglement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He gave it its present name and lived here shut up, day and night poring over the wicked heaps of papers in the suit and hoping against hope to disentangle it from its mystification and bring it to a close."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The count moved in his affairs as in a huge net, trying not to believe that he was entangled but becoming more and more so at every step, and feeling too feeble to break the meshes or to set to work carefully and patiently to disentangle them."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Shall it be breakfast, lunch, dinner, tea, or supper?” The respectful tenderness with which, on one knee before her, he helped her to remove her hat, and disentangle her pretty hair from it, was quite a chivalrous sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extricate from entanglement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He gave it its present name and lived here shut up, day and night poring over the wicked heaps of papers in the suit and hoping against hope to disentangle it from its mystification and bring it to a close."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The count moved in his affairs as in a huge net, trying not to believe that he was entangled but becoming more and more so at every step, and feeling too feeble to break the meshes or to set to work carefully and patiently to disentangle them."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Shall it be breakfast, lunch, dinner, tea, or supper?” The respectful tenderness with which, on one knee before her, he helped her to remove her hat, and disentangle her pretty hair from it, was quite a chivalrous sight."*

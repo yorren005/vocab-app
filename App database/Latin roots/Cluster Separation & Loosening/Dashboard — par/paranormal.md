@@ -5,13 +5,6 @@ status: unread
 ---
 # paranormal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly outside normal sensory channels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in accordance with scientific laws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paranormal designates seemingly outside normal sensory channels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly outside normal sensory channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in accordance with scientific laws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paranormal designates seemingly outside normal sensory channels."*

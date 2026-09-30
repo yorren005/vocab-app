@@ -5,15 +5,6 @@ status: unread
 ---
 # sex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Activities associated with sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two categories (male or female) into which most organisms are divided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sole sir o’ th’ world, I cannot project mine own cause so well To make it clear, but do confess I have Been laden with like frailties which before Have often shamed our sex."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard him read many lectures against it, and I thank God I am not a woman, to be touched with so many giddy offences as he hath generally taxed their whole sex withal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Activities associated with sexual intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two categories (male or female) into which most organisms are divided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sole sir o’ th’ world, I cannot project mine own cause so well To make it clear, but do confess I have Been laden with like frailties which before Have often shamed our sex."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard him read many lectures against it, and I thank God I am not a woman, to be touched with so many giddy offences as he hath generally taxed their whole sex withal."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # labyrinthodont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amphibian of the superorder labyrinthodontia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibian of the superorder labyrinthodontia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthodont designates an amphibian of the superorder labyrinthodontia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amphibian of the superorder labyrinthodontia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibian of the superorder labyrinthodontia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthodont designates an amphibian of the superorder labyrinthodontia."*

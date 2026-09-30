@@ -5,15 +5,6 @@ status: unread
 ---
 # parry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (fencing) blocking a lunge or deflecting it with a circular motion of the sword.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A return punch (especially by a boxer).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Come, come, Lady Dedlock, we must not fence and parry now."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He desired of me a thrust and lunge, not that he might parry it but that he might time it and deflect it by the customary slight turn of the wrist, his rapier point directed to meet me as my body followed in the lunge."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He thrust tentatively, and again I feigned, this time making a needlessly wide parry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (fencing) blocking a lunge or deflecting it with a circular motion of the sword.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A return punch (especially by a boxer).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Come, come, Lady Dedlock, we must not fence and parry now."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He desired of me a thrust and lunge, not that he might parry it but that he might time it and deflect it by the customary slight turn of the wrist, his rapier point directed to meet me as my body followed in the lunge."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He thrust tentatively, and again I feigned, this time making a needlessly wide parry."*

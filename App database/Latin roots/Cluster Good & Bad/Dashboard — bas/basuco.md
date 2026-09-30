@@ -5,13 +5,6 @@ status: unread
 ---
 # basuco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-grade cocaine mixed with coca paste and cannabis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-grade cocaine mixed with coca paste and cannabis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basuco designates low-grade cocaine mixed with coca paste and cannabis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-grade cocaine mixed with coca paste and cannabis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-grade cocaine mixed with coca paste and cannabis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basuco designates low-grade cocaine mixed with coca paste and cannabis."*

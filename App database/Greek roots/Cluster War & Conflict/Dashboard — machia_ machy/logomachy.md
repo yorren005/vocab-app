@@ -5,14 +5,6 @@ status: unread
 ---
 # logomachy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argument about words or the meaning of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Argument about words or the meaning of words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Intricate and entangled as is the history, for instance, of the Arian controversy--that controversy which "turned on a diphthong," as Carlyle said in his younger days--it represented far more than mere logomachy, as Carlyle saw later on."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Gradually, from their pressure upon his spirit, he grew conscious of the outcome--they would not be content with logomachies; the end might be death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Argument about words or the meaning of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Argument about words or the meaning of words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Intricate and entangled as is the history, for instance, of the Arian controversy--that controversy which "turned on a diphthong," as Carlyle said in his younger days--it represented far more than mere logomachy, as Carlyle saw later on."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Gradually, from their pressure upon his spirit, he grew conscious of the outcome--they would not be content with logomachies; the end might be death."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # polystichum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystichum designates small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystichum designates small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae."*

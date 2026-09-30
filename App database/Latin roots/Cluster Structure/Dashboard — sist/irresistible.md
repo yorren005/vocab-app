@@ -5,15 +5,6 @@ status: unread
 ---
 # irresistible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to resist; overpowering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overpoweringly attractive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has an irresistible attraction for him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And all this was said with a truth and sincerity of feeling irresistible."*
-> - 📜 **Jane Austen (*Persuasion*):** *"His goodness of heart and simplicity of character were irresistible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to resist; overpowering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overpoweringly attractive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It has an irresistible attraction for him."*
+> - 📜 **Jane Austen (*Persuasion*):** *"And all this was said with a truth and sincerity of feeling irresistible."*
+> - 📜 **Jane Austen (*Persuasion*):** *"His goodness of heart and simplicity of character were irresistible."*

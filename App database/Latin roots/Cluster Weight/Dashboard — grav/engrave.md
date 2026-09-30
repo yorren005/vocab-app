@@ -5,15 +5,6 @@ status: unread
 ---
 # engrave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impress or affect deeply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave “Edward” and “York.” Then haply will she weep."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is recorded of Washington, that he wished the official title of the President to be ‘High Mightiness,’[65] and at one time it was proposed to engrave his portrait upon the national coinage."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"There had been a great deal of difficulty at first about the inscription on Sir Simon’s tombstone, but finally it had been decided to engrave on it simply the initials of the old gentleman’s name, and the verse from the library window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impress or affect deeply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave “Edward” and “York.” Then haply will she weep."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is recorded of Washington, that he wished the official title of the President to be ‘High Mightiness,’[65] and at one time it was proposed to engrave his portrait upon the national coinage."*
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"There had been a great deal of difficulty at first about the inscription on Sir Simon’s tombstone, but finally it had been decided to engrave on it simply the initials of the old gentleman’s name, and the verse from the library window."*

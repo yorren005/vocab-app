@@ -5,15 +5,6 @@ status: unread
 ---
 # arbitrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act between parties with a view to reconciling differences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might have been prevented and made whole With very easy arguments of love, Which now the manage of two kingdoms must With fearful bloody issue arbitrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts speculative their unsure hopes relate, But certain issue strokes must arbitrate; Towards which advance the war. [_Exeunt, marching._] SCENE V."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act between parties with a view to reconciling differences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might have been prevented and made whole With very easy arguments of love, Which now the manage of two kingdoms must With fearful bloody issue arbitrate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts speculative their unsure hopes relate, But certain issue strokes must arbitrate; Towards which advance the war. [_Exeunt, marching._] SCENE V."*

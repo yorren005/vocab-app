@@ -5,13 +5,6 @@ status: unread
 ---
 # periclase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periclase designates a white solid mineral that occurs naturally as periclase; a source of magnesium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periclase designates a white solid mineral that occurs naturally as periclase; a source of magnesium."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mottle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irregular arrangement of patches of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with spots or blotches of different color or shades of color as if stained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Height 14½ inches. _Eumorfopoulos Collection._ Fig. 2.--Vase, white pottery with traces of blue mottling: the glaze has perished."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is the marbling of the ware, not merely by mottling the glaze as in Fig. 2 of Plate 9, or by marbling the surface, but by blending dark and light clays in the body as in the "solid agate" ware of Staffordshire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irregular arrangement of patches of color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with spots or blotches of different color or shades of color as if stained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Height 14½ inches. _Eumorfopoulos Collection._ Fig. 2.--Vase, white pottery with traces of blue mottling: the glaze has perished."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is the marbling of the ware, not merely by mottling the glaze as in Fig. 2 of Plate 9, or by marbling the surface, but by blending dark and light clays in the body as in the "solid agate" ware of Staffordshire."*

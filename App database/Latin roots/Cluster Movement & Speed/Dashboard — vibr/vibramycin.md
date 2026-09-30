@@ -5,13 +5,6 @@ status: unread
 ---
 # vibramycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic derived from tetracycline that is effective against many infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic derived from tetracycline that is effective against many infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibramycin designates an antibiotic derived from tetracycline that is effective against many infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic derived from tetracycline that is effective against many infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic derived from tetracycline that is effective against many infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibramycin designates an antibiotic derived from tetracycline that is effective against many infections."*

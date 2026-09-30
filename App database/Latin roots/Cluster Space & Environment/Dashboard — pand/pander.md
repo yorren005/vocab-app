@@ -5,15 +5,6 @@ status: unread
 ---
 # pander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who procures customers for whores (in england they call a pimp a ponce).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, we’ll bring you to Windsor to one Master Brook, that you have cozened of money, to whom you should have been a pander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away! [_Exeunt Troilus and Cressida_.] And Cupid grant all tongue-tied maidens here, Bed, chamber, pander, to provide this gear! [_Exit_.] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Camillo was his help in this, his pander."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who procures customers for whores (in england they call a pimp a ponce).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, we’ll bring you to Windsor to one Master Brook, that you have cozened of money, to whom you should have been a pander."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away! [_Exeunt Troilus and Cressida_.] And Cupid grant all tongue-tied maidens here, Bed, chamber, pander, to provide this gear! [_Exit_.] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Camillo was his help in this, his pander."*

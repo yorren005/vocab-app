@@ -5,15 +5,6 @@ status: unread
 ---
 # ana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of each an equal quantity —used in writing prescriptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of the memorable sayings of a person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"He stopped fascinated, ana pressed his face against the glass eagerly to see if any prices were marked upon them."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Ana puhi, eel's cave, p. 188. ano akua nae, p. 51."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The best timbered portion of the Rio Grande Valley is between Socorro and Dona Ana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of each an equal quantity —used in writing prescriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of the memorable sayings of a person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"He stopped fascinated, ana pressed his face against the glass eagerly to see if any prices were marked upon them."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Ana puhi, eel's cave, p. 188. ano akua nae, p. 51."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The best timbered portion of the Rio Grande Valley is between Socorro and Dona Ana."*

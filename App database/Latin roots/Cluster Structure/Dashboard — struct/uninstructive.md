@@ -5,13 +5,6 @@ status: unread
 ---
 # uninstructive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to instruct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to instruct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninstructive designates failing to instruct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to instruct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to instruct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninstructive designates failing to instruct."*

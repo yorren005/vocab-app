@@ -5,15 +5,6 @@ status: unread
 ---
 # disparity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inequality or difference in some respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inequality or difference in some respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their single share, Their nobleness peculiar to them, gives The prejudice of disparity, value’s shortness, To any lady breathing. [_Cornets."*
-> - 📜 **Jane Austen (*Persuasion*):** *"After clearing his throat, however, he proceeded thus— “I confess that I do think there is a disparity, too great a disparity, and in a point no less essential than mind."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet there may be a slight disparity between the bullion value and the monetary value before the metal is converted into coin or the coin melted down into metal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inequality or difference in some respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inequality or difference in some respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their single share, Their nobleness peculiar to them, gives The prejudice of disparity, value’s shortness, To any lady breathing. [_Cornets."*
+> - 📜 **Jane Austen (*Persuasion*):** *"After clearing his throat, however, he proceeded thus— “I confess that I do think there is a disparity, too great a disparity, and in a point no less essential than mind."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet there may be a slight disparity between the bullion value and the monetary value before the metal is converted into coin or the coin melted down into metal."*

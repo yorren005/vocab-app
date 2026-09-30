@@ -5,13 +5,6 @@ status: unread
 ---
 # hybridize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed animals or plants using parents of different races and varieties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed animals or plants using parents of different races and varieties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridize designates breed animals or plants using parents of different races and varieties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed animals or plants using parents of different races and varieties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed animals or plants using parents of different races and varieties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridize designates breed animals or plants using parents of different races and varieties."*

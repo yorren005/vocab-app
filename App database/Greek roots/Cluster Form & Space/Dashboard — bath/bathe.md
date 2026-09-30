@@ -5,15 +5,6 @@ status: unread
 ---
 # bathe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleanse the entire body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or I will live, Or bathe my dying honour in the blood Shall make it live again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She dreamt tonight she saw my statue, Which like a fountain with an hundred spouts Did run pure blood; and many lusty Romans Came smiling, and did bathe their hands in it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The crow may bathe his coal-black wings in mire, And unperceived fly with the filth away; But if the like the snow-white swan desire, The stain upon his silver down will stay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of swimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleanse the entire body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or I will live, Or bathe my dying honour in the blood Shall make it live again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She dreamt tonight she saw my statue, Which like a fountain with an hundred spouts Did run pure blood; and many lusty Romans Came smiling, and did bathe their hands in it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The crow may bathe his coal-black wings in mire, And unperceived fly with the filth away; But if the like the snow-white swan desire, The stain upon his silver down will stay."*

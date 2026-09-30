@@ -5,15 +5,6 @@ status: unread
 ---
 # mischievous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Naughtily or annoyingly playful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately causing harm or damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So that it is even more mischievous,” said my guardian once to me, “to remonstrate with the poor dear fellow than to leave him alone.” I took one of these opportunities of mentioning my doubts of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I saw too, and had experienced in this very interview, the sense of my guardian’s remark that it was even more mischievous to use persuasion with him than to leave him as he was."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could almost be positive that there was a malicious leer upon the hideous creature’s face, and a mischievous delight in its twitchings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Naughtily or annoyingly playful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately causing harm or damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So that it is even more mischievous,” said my guardian once to me, “to remonstrate with the poor dear fellow than to leave him alone.” I took one of these opportunities of mentioning my doubts of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I saw too, and had experienced in this very interview, the sense of my guardian’s remark that it was even more mischievous to use persuasion with him than to leave him as he was."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could almost be positive that there was a malicious leer upon the hideous creature’s face, and a mischievous delight in its twitchings."*

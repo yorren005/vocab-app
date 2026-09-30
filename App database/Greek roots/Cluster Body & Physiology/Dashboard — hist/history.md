@@ -5,15 +5,6 @@ status: unread
 ---
 # history
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregate of past events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A record or narrative description of past events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last scene of all, That ends this strange eventful history, Is second childishness and mere oblivion, Sans teeth, sans eyes, sans taste, sans everything."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, sir, This paper is the history of my knowledge Touching her flight. [_Presenting a letter._] CLOTEN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregate of past events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A record or narrative description of past events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last scene of all, That ends this strange eventful history, Is second childishness and mere oblivion, Sans teeth, sans eyes, sans taste, sans everything."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, sir, This paper is the history of my knowledge Touching her flight. [_Presenting a letter._] CLOTEN."*

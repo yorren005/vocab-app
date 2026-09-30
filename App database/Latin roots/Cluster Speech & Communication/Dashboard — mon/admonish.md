@@ -5,15 +5,6 @@ status: unread
 ---
 # admonish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admonish or counsel in terms of someone's behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn strongly; put on guard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The swats sae ream’d in Tammie’s noddle, Fair play, he car’d na deils a boddle, But Maggie stood, right sair astonish’d, Till, by the heel and hand admonish’d, She ventur’d forward on the light; And, wow!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He did not admonish Isabel to be content with it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She simply continued to be mild in her temper, inflexible in her judgment, disposed to admonish her husband, and able to frustrate him by stratagem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admonish or counsel in terms of someone's behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn strongly; put on guard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The swats sae ream’d in Tammie’s noddle, Fair play, he car’d na deils a boddle, But Maggie stood, right sair astonish’d, Till, by the heel and hand admonish’d, She ventur’d forward on the light; And, wow!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He did not admonish Isabel to be content with it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She simply continued to be mild in her temper, inflexible in her judgment, disposed to admonish her husband, and able to frustrate him by stratagem."*

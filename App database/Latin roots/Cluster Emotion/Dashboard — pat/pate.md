@@ -5,15 +5,6 @@ status: unread
 ---
 # pate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liver or meat or fowl finely minced or ground and variously seasoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top of the head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had; so I had broke thy pate, And ask’d thee mercy for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you jest, sir, as you sit at dinner: I from my mistress come to you in post; If I return, I shall be post indeed, For she will score your fault upon my pate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have some marks of yours upon my pate, Some of my mistress’ marks upon my shoulders, But not a thousand marks between you both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liver or meat or fowl finely minced or ground and variously seasoned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top of the head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had; so I had broke thy pate, And ask’d thee mercy for’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you jest, sir, as you sit at dinner: I from my mistress come to you in post; If I return, I shall be post indeed, For she will score your fault upon my pate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have some marks of yours upon my pate, Some of my mistress’ marks upon my shoulders, But not a thousand marks between you both."*

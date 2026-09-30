@@ -5,13 +5,6 @@ status: unread
 ---
 # sevilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Full swiftly Harold wends his lonely way Where proud Sevilla triumphs unsubdued: Yet is she free--the spoiler's wished-for prey!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Full swiftly Harold wends his lonely way Where proud Sevilla triumphs unsubdued: Yet is she free--the spoiler's wished-for prey!"*

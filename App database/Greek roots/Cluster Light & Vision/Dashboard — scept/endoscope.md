@@ -5,13 +5,6 @@ status: unread
 ---
 # endoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates an illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates an illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # regularise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into conformity with rules or principles or usage; impose regulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make regular or more regular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regularise designates bring into conformity with rules or principles or usage; impose regulations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into conformity with rules or principles or usage; impose regulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make regular or more regular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regularise designates bring into conformity with rules or principles or usage; impose regulations."*

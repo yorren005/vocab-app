@@ -5,15 +5,6 @@ status: unread
 ---
 # domination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social control by dominating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to dominate or defeat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Africa, Asia, and America, have successively felt her domination."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Lacedaemonians next governed it twenty-nine years; at a subsequent period, after the battle of Leuctra, the Thebans had their turn of domination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"And now, a role that was entirely unexpected when Slingshot was first planned, dissolution of the unified solar government released us from UIPS domination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Social control by dominating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to dominate or defeat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Africa, Asia, and America, have successively felt her domination."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Lacedaemonians next governed it twenty-nine years; at a subsequent period, after the battle of Leuctra, the Thebans had their turn of domination."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"And now, a role that was entirely unexpected when Slingshot was first planned, dissolution of the unified solar government released us from UIPS domination."*

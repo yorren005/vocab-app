@@ -5,15 +5,6 @@ status: unread
 ---
 # remit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The topic that a person, committee, or piece of research is expected to deal with or has authority to deal with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of remitting (especially the referral of a law case to another court).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither of either; I remit both twain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy slanders I forgive, and therewithal Remit thy other forfeits.—Take him to prison, And see our pleasure herein executed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marcus, for thy sake, and thy brother’s here, And at my lovely Tamora’s entreats, I do remit these young men’s heinous faults."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The topic that a person, committee, or piece of research is expected to deal with or has authority to deal with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of remitting (especially the referral of a law case to another court).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither of either; I remit both twain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy slanders I forgive, and therewithal Remit thy other forfeits.—Take him to prison, And see our pleasure herein executed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marcus, for thy sake, and thy brother’s here, And at my lovely Tamora’s entreats, I do remit these young men’s heinous faults."*

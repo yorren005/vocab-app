@@ -5,15 +5,6 @@ status: unread
 ---
 # vermicelli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pasta in strings thinner than spaghetti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pasta in strings thinner than spaghetti.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A saucer of spun rice or millet, looking much like vermicelli, with a seasoning of vinegar, cost five cash."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pasta in strings thinner than spaghetti.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pasta in strings thinner than spaghetti.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A saucer of spun rice or millet, looking much like vermicelli, with a seasoning of vinegar, cost five cash."*

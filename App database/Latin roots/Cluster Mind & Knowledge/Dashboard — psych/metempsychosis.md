@@ -5,15 +5,6 @@ status: unread
 ---
 # metempsychosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After death the soul begins a new cycle of existence in another human body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After death the soul begins a new cycle of existence in another human body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many of their works, also, undergo a kind of metempsychosis, and spring up under new forms."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The latter's doctrine of metempsychosis he Darwinized."*
-> - 📜 **James Joyce (*Ulysses*):** *"He leaned downward and read near her polished thumbnail. —Metempsychosis? —Yes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After death the soul begins a new cycle of existence in another human body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After death the soul begins a new cycle of existence in another human body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many of their works, also, undergo a kind of metempsychosis, and spring up under new forms."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The latter's doctrine of metempsychosis he Darwinized."*
+> - 📜 **James Joyce (*Ulysses*):** *"He leaned downward and read near her polished thumbnail. —Metempsychosis? —Yes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # content
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything that is included in a collection and that is held or included in something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What a communication that is about something is about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The General is content to spare thee yet; And, hoodwink’d as thou art, will lead thee on To gather from thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With very much content, my lord, and I wish it happily effected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything that is included in a collection and that is held or included in something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What a communication that is about something is about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The General is content to spare thee yet; And, hoodwink’d as thou art, will lead thee on To gather from thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With very much content, my lord, and I wish it happily effected."*

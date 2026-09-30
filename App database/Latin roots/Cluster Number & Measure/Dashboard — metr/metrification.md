@@ -5,13 +5,6 @@ status: unread
 ---
 # metrification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing a metrical composition (or the metrical structure of a composition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrification designates writing a metrical composition (or the metrical structure of a composition)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing a metrical composition (or the metrical structure of a composition).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrification designates writing a metrical composition (or the metrical structure of a composition)."*

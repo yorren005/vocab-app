@@ -5,13 +5,6 @@ status: unread
 ---
 # undergarment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment worn under other garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment worn under other garments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I was evidently expected, for when I got near the door I faced a cheery-looking elderly woman in the usual peasant dress--white undergarment with long double apron, front, and back, of coloured stuff fitting almost too tight for modesty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment worn under other garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment worn under other garments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"I was evidently expected, for when I got near the door I faced a cheery-looking elderly woman in the usual peasant dress--white undergarment with long double apron, front, and back, of coloured stuff fitting almost too tight for modesty."*

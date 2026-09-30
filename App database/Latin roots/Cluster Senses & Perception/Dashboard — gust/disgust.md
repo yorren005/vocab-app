@@ -5,15 +5,6 @@ status: unread
 ---
 # disgust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong feelings of dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with distaste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"A man is in greater danger in the navy of being insulted by the rise of one whose father, his father might have disdained to speak to, and of becoming prematurely an object of disgust himself, than in any other line."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Freckles do not disgust me so very much as they do him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I should have thought your last impressions of Lyme must have been strong disgust.” “The last hours were certainly very painful,” replied Anne; “but when pain is over, the remembrance of it often becomes a pleasure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong feelings of dislike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with distaste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"A man is in greater danger in the navy of being insulted by the rise of one whose father, his father might have disdained to speak to, and of becoming prematurely an object of disgust himself, than in any other line."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Freckles do not disgust me so very much as they do him."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I should have thought your last impressions of Lyme must have been strong disgust.” “The last hours were certainly very painful,” replied Anne; “but when pain is over, the remembrance of it often becomes a pleasure."*

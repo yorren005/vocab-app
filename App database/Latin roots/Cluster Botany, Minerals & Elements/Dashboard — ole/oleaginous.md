@@ -5,13 +5,6 @@ status: unread
 ---
 # oleaginous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing an unusual amount of grease or oil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As the oleaginous matter exudes, it falls in drops through the apertures into a wide-mouthed calabash placed underneath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing an unusual amount of grease or oil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As the oleaginous matter exudes, it falls in drops through the apertures into a wide-mouthed calabash placed underneath."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # curacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a curate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a curate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He had the curacy of Monkford, you know, Sir Walter, some time back, for two or three years."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He was in orders; and having a curacy in the neighbourhood, where residence was not required, lived at his father’s house, only two miles from Uppercross."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He had been absent only two Sundays, and when they parted, had left her interested, even to the height of his wishes, in his prospect of soon quitting his present curacy, and obtaining that of Uppercross instead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a curate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a curate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He had the curacy of Monkford, you know, Sir Walter, some time back, for two or three years."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He was in orders; and having a curacy in the neighbourhood, where residence was not required, lived at his father’s house, only two miles from Uppercross."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He had been absent only two Sundays, and when they parted, had left her interested, even to the height of his wishes, in his prospect of soon quitting his present curacy, and obtaining that of Uppercross instead."*

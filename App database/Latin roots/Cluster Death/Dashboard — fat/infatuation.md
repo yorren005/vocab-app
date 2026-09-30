@@ -5,15 +5,6 @@ status: unread
 ---
 # infatuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish and usually extravagant passion or love or admiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary love of an adolescent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He proved this to himself by all the weary arguments on that side he had read, and every one of them sunk him deeper in the infatuation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is devoted to you almost to infatuation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He might not be able to overcome that infatuation, even knowing what we know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish and usually extravagant passion or love or admiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary love of an adolescent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He proved this to himself by all the weary arguments on that side he had read, and every one of them sunk him deeper in the infatuation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is devoted to you almost to infatuation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He might not be able to overcome that infatuation, even knowing what we know."*

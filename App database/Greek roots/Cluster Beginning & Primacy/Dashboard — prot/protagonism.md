@@ -5,13 +5,6 @@ status: unread
 ---
 # protagonism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protagonism designates active support of an idea or cause etc.; especially the act of pleading or arguing for something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protagonism designates active support of an idea or cause etc.; especially the act of pleading or arguing for something."*

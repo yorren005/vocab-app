@@ -5,15 +5,6 @@ status: unread
 ---
 # recreate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in recreational activities rather than work; occupy oneself in a diversion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover, he hath left you all his walks, His private arbors, and new-planted orchards, On this side Tiber; he hath left them you, And to your heirs forever; common pleasures, To walk abroad, and recreate yourselves."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I can now recreate life in a way that was hidden from me before. ‘A dream of form in days of thought’—who is it who says that?"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in recreational activities rather than work; occupy oneself in a diversion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover, he hath left you all his walks, His private arbors, and new-planted orchards, On this side Tiber; he hath left them you, And to your heirs forever; common pleasures, To walk abroad, and recreate yourselves."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I can now recreate life in a way that was hidden from me before. ‘A dream of form in days of thought’—who is it who says that?"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # procreation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual activity of conceiving and bearing offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sexual activity of conceiving and bearing offspring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twinned brothers of one womb, Whose procreation, residence and birth Scarce is dividant, touch them with several fortunes, The greater scorns the lesser."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"According to Merolla, it is thought that if girls did not go through these ceremonies, they would "never be fit for procreation." The other consequences supposed to flow from the omission of the rites are mentioned by Father Campana."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Where then is the necessity for recreation or procreation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual activity of conceiving and bearing offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sexual activity of conceiving and bearing offspring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twinned brothers of one womb, Whose procreation, residence and birth Scarce is dividant, touch them with several fortunes, The greater scorns the lesser."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"According to Merolla, it is thought that if girls did not go through these ceremonies, they would "never be fit for procreation." The other consequences supposed to flow from the omission of the rites are mentioned by Father Campana."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Where then is the necessity for recreation or procreation?"*

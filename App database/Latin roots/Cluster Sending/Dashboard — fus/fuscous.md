@@ -5,13 +5,6 @@ status: unread
 ---
 # fuscous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a dusky brownish grey color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a dusky brownish grey color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"HAWKWEED RUST; on both sides of the leaf, dark, fuscous, minute, round, scattered: spores globose, rarely minutely pedicellate.—On Thistles and Hawkweed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a dusky brownish grey color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a dusky brownish grey color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"HAWKWEED RUST; on both sides of the leaf, dark, fuscous, minute, round, scattered: spores globose, rarely minutely pedicellate.—On Thistles and Hawkweed."*

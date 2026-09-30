@@ -5,15 +5,6 @@ status: unread
 ---
 # imperiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST WARDER. [_Within_.] Who’s there that knocks so imperiously?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock looks imperiously at her visitor when the servant has left the room, casting her eyes over him from head to foot."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Answer me—speak again!” he ordered, imperiously and aloud."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST WARDER. [_Within_.] Who’s there that knocks so imperiously?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock looks imperiously at her visitor when the servant has left the room, casting her eyes over him from head to foot."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Answer me—speak again!” he ordered, imperiously and aloud."*

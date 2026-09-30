@@ -5,15 +5,6 @@ status: unread
 ---
 # rubicon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary in ancient times between italy and gaul; caesar's crossing it with his army in 49 bc was an act of war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line that when crossed permits of no return and typically results in irrevocable commitment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet such, I grieve to say, is the case.” A pause—in which I began to steady the palsy of my nerves, and to feel that the Rubicon was passed; and that the trial, no longer to be shirked, must be firmly sustained."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Rubicon, we know, was a very insignificant stream to look at; its significance lay entirely in certain invisible conditions."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"My soul, tempest-toss'd, Hath her Rubicon cross'd, She shall fly--saved or lost!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary in ancient times between italy and gaul; caesar's crossing it with his army in 49 bc was an act of war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line that when crossed permits of no return and typically results in irrevocable commitment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet such, I grieve to say, is the case.” A pause—in which I began to steady the palsy of my nerves, and to feel that the Rubicon was passed; and that the trial, no longer to be shirked, must be firmly sustained."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The Rubicon, we know, was a very insignificant stream to look at; its significance lay entirely in certain invisible conditions."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"My soul, tempest-toss'd, Hath her Rubicon cross'd, She shall fly--saved or lost!"*

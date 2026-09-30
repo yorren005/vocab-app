@@ -5,13 +5,6 @@ status: unread
 ---
 # actinomycetaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filamentous anaerobic bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filamentous anaerobic bacteria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycetaceae designates filamentous anaerobic bacteria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filamentous anaerobic bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filamentous anaerobic bacteria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycetaceae designates filamentous anaerobic bacteria."*

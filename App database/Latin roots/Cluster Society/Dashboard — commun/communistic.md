@@ -5,15 +5,6 @@ status: unread
 ---
 # communistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or marked by communism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or marked by communism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"True, if there were absolutely no private property, there would be little use for money, altho it might still be used as a form of counter by the communistic state."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Outside of a communistic group such as the family, trade is a necessary accompaniment of division of labor."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Wordsworth had said of the Revolution that it was "bliss to be alive" in that dawn; Southey and Coleridge had even planned to found a communistic society in the New World."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or marked by communism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or marked by communism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"True, if there were absolutely no private property, there would be little use for money, altho it might still be used as a form of counter by the communistic state."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Outside of a communistic group such as the family, trade is a necessary accompaniment of division of labor."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Wordsworth had said of the Revolution that it was "bliss to be alive" in that dawn; Southey and Coleridge had even planned to found a communistic society in the New World."*

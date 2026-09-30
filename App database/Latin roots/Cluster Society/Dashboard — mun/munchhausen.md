@@ -5,13 +5,6 @@ status: unread
 ---
 # munchhausen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German raconteur who told preposterous stories about his adventures as a soldier and hunter; his name is now associated with any telling of exaggerated stories or winning lies (1720-1797).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German raconteur who told preposterous stories about his adventures as a soldier and hunter; his name is now associated with any telling of exaggerated stories or winning lies (1720-1797).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, munchhausen designates german raconteur who told preposterous stories about his adventures as a soldier and hunter; his name is now associated with any telling of exaggerated stories or winning lies (1720-1797)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German raconteur who told preposterous stories about his adventures as a soldier and hunter; his name is now associated with any telling of exaggerated stories or winning lies (1720-1797).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German raconteur who told preposterous stories about his adventures as a soldier and hunter; his name is now associated with any telling of exaggerated stories or winning lies (1720-1797).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, munchhausen designates german raconteur who told preposterous stories about his adventures as a soldier and hunter; his name is now associated with any telling of exaggerated stories or winning lies (1720-1797)."*

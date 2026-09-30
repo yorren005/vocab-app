@@ -5,13 +5,6 @@ status: unread
 ---
 # pentamerous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentamerous designates divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentamerous designates divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members."*

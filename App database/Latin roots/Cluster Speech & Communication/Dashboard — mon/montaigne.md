@@ -5,15 +5,6 @@ status: unread
 ---
 # montaigne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer regarded as the originator of the modern essay (1533-1592).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer regarded as the originator of the modern essay (1533-1592).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is to their custom of annually extinguishing and relighting the fire that Montaigne refers in his essay (i. 22, vol. i. p. 140 of Charpentier's edition), though he mentions no names. [338] Sir H.H."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was such love as Michelangelo had known, and Montaigne, and Winckelmann, and Shakespeare himself."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Their clamour 'lighting from their chairs, Grew louder, all the way up stairs; At entrance loudest, where they found The room with volumes littered round, Vanessa held Montaigne, and read, Whilst Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer regarded as the originator of the modern essay (1533-1592).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer regarded as the originator of the modern essay (1533-1592).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is to their custom of annually extinguishing and relighting the fire that Montaigne refers in his essay (i. 22, vol. i. p. 140 of Charpentier's edition), though he mentions no names. [338] Sir H.H."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was such love as Michelangelo had known, and Montaigne, and Winckelmann, and Shakespeare himself."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Their clamour 'lighting from their chairs, Grew louder, all the way up stairs; At entrance loudest, where they found The room with volumes littered round, Vanessa held Montaigne, and read, Whilst Mrs."*

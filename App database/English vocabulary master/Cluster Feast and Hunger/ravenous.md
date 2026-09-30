@@ -5,20 +5,6 @@ status: unread
 ---
 # ravenous
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rapacious
-> 2. **Nuance / Usage**: Very hungry
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a ravenous presence*) or predicatively (*remained ravenous*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For he’s inclined as is the ravenous wolves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"writing with the ravenous little pens on the tissue-paper."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"had mad hungers that grew more ravenous as he fed them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Extremely and voraciously hungry; driven by an urgent, predatory appetite for food.
+> 2. **Nuance / Usage**: By extension, characterizes any insatiable, rapacious, or all-consuming desire for wealth, power, or sensory gratification.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a ravenous presence*) or predicatively (*remained ravenous*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"For he’s inclined as is the **ravenous** wolves."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They were still writing with the **ravenous** little pens on the tissue-paper."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He had mad hungers that grew more **ravenous** as he fed them."*

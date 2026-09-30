@@ -5,15 +5,6 @@ status: unread
 ---
 # competition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business relation in which two parties compete to gain customers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An occasion on which a winner is selected from among two or more contestants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Limitation of competition by custom. § 12."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"So closely connected with this that they are hardly more than different phases of the same thing, are the use of money (the monetary economy), the wage system, and competition as a mode of distribution."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Competition tended to bring the economic agents into more efficient hands, and the movement was furthered by many acts of injustice and violence on the part of those in power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A business relation in which two parties compete to gain customers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An occasion on which a winner is selected from among two or more contestants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Limitation of competition by custom. § 12."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"So closely connected with this that they are hardly more than different phases of the same thing, are the use of money (the monetary economy), the wage system, and competition as a mode of distribution."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Competition tended to bring the economic agents into more efficient hands, and the movement was furthered by many acts of injustice and violence on the part of those in power."*

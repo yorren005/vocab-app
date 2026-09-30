@@ -5,15 +5,6 @@ status: unread
 ---
 # vociferate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter in a very loud voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter in a very loud voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He replied audibly enough, in a fashion which made my companion vociferate, more clamorously than before, that a wide distinction might be drawn between saints like himself and sinners like his master."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Put ’em out!” He vociferates this so loudly that Mr."*
-> - 📜 **Effie Afton (*Eventide*):** *"Bring the sleigh to the door, instanter;" and Pimble rushed out, the ladies following close on his heels, vociferating at the top of their voices, without even a parting salutation to the family they had been visiting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter in a very loud voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter in a very loud voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He replied audibly enough, in a fashion which made my companion vociferate, more clamorously than before, that a wide distinction might be drawn between saints like himself and sinners like his master."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Put ’em out!” He vociferates this so loudly that Mr."*
+> - 📜 **Effie Afton (*Eventide*):** *"Bring the sleigh to the door, instanter;" and Pimble rushed out, the ladies following close on his heels, vociferating at the top of their voices, without even a parting salutation to the family they had been visiting."*

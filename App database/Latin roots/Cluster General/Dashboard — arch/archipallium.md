@@ -5,13 +5,6 @@ status: unread
 ---
 # archipallium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The olfactory cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The olfactory cortex of the cerebrum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archipallium designates the olfactory cortex of the cerebrum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The olfactory cortex of the cerebrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The olfactory cortex of the cerebrum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archipallium designates the olfactory cortex of the cerebrum."*

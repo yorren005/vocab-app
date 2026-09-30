@@ -5,15 +5,6 @@ status: unread
 ---
 # temporize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw out a discussion or process in order to gain time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw out a discussion or process in order to gain time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Dauphin is too wilful-opposite, And will not temporize with my entreaties; He flatly says he’ll not lay down his arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, you will temporize with the hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I could temporize with my affections Or brew it to a weak and colder palate, The like allayment could I give my grief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw out a discussion or process in order to gain time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw out a discussion or process in order to gain time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Dauphin is too wilful-opposite, And will not temporize with my entreaties; He flatly says he’ll not lay down his arms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, you will temporize with the hours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I could temporize with my affections Or brew it to a weak and colder palate, The like allayment could I give my grief."*

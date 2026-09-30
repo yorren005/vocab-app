@@ -5,13 +5,6 @@ status: unread
 ---
 # stoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the minute openings in the epidermis of a plant organ (such as a leaf) through which gaseous interchange takes place; also : the opening with its associated cellular structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small simple opening in or on the body of an animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stoma designates one of the minute openings in the epidermis of a plant organ (such as a leaf) through which gaseous interchange takes place; also : the opening with its associated cellular structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the minute openings in the epidermis of a plant organ (such as a leaf) through which gaseous interchange takes place; also : the opening with its associated cellular structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small simple opening in or on the body of an animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stoma designates one of the minute openings in the epidermis of a plant organ (such as a leaf) through which gaseous interchange takes place; also : the opening with its associated cellular structures."*

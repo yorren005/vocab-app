@@ -5,15 +5,6 @@ status: unread
 ---
 # expendable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable to be expended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of funds) remaining after taxes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You're telling me we're expendable?" "You're in covert intelligence work, Brad, and you'll be in the enemy's camp."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Expendable is bad enough; you're programming us into suicide." "Not quite, Brad."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In that sense, yes, you are expendable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable to be expended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of funds) remaining after taxes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You're telling me we're expendable?" "You're in covert intelligence work, Brad, and you'll be in the enemy's camp."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Expendable is bad enough; you're programming us into suicide." "Not quite, Brad."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In that sense, yes, you are expendable."*

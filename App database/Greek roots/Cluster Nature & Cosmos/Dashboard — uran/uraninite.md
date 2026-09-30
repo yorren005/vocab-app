@@ -5,13 +5,6 @@ status: unread
 ---
 # uraninite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uraninite designates a black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uraninite designates a black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium."*

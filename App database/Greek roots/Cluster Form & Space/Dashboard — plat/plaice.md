@@ -5,13 +5,6 @@ status: unread
 ---
 # plaice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various flatfishes; especially : a large European flounder (Pleuronectes platessa) having red spots and used for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various flatfishes; especially : a large European flounder (Pleuronectes platessa) having red spots and used for food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plaice designates any of various flatfishes; especially : a large european flounder (pleuronectes platessa) having red spots and used for food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various flatfishes; especially : a large European flounder (Pleuronectes platessa) having red spots and used for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various flatfishes; especially : a large European flounder (Pleuronectes platessa) having red spots and used for food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plaice designates any of various flatfishes; especially : a large european flounder (pleuronectes platessa) having red spots and used for food."*

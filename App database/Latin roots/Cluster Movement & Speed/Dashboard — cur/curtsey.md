@@ -5,15 +5,6 @@ status: unread
 ---
 # curtsey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending the knees; a gesture of respect made by women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees in a gesture of respectful greeting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke—fancy _curtseying_ as you’re falling through the air!"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She was introduced here and there by her uncle, and forced to be spoken to, and to curtsey, and speak again."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel made him a little smiling curtsey eloquent of her disdain--it was so like Captain Hyde to be saucy before Val!--and slipped away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending the knees; a gesture of respect made by women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees in a gesture of respectful greeting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke—fancy _curtseying_ as you’re falling through the air!"*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She was introduced here and there by her uncle, and forced to be spoken to, and to curtsey, and speak again."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel made him a little smiling curtsey eloquent of her disdain--it was so like Captain Hyde to be saucy before Val!--and slipped away."*

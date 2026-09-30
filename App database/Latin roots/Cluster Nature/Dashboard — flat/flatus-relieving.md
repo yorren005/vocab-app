@@ -5,13 +5,6 @@ status: unread
 ---
 # flatus-relieving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving gas in the alimentary tract (colic or flatulence or griping).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relieving gas in the alimentary tract (colic or flatulence or griping).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flatus-relieving designates relieving gas in the alimentary tract (colic or flatulence or griping)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving gas in the alimentary tract (colic or flatulence or griping).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relieving gas in the alimentary tract (colic or flatulence or griping).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flatus-relieving designates relieving gas in the alimentary tract (colic or flatulence or griping)."*

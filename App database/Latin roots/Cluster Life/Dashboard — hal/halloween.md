@@ -5,15 +5,6 @@ status: unread
 ---
 # halloween
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evening before all saints' day; often devoted to pranks played by young people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evening before all saints' day; often devoted to pranks played by young people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then, first an’ foremost, thro’ the kail, Their stocks^5 maun a’ be sought ance; [Footnote 5: The first ceremony of Halloween is pulling each a “stock,” or plant of kail."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ae hairst afore the Sherra-moor, I mind’t as weel’s yestreen— I was a gilpey then, I’m sure I was na past fyfteen: The simmer had been cauld an’ wat, An’ stuff was unco green; An’ eye a rantin kirn we gat, An’ just on Halloween It fell that night."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The last Halloween I was waukin My droukit sark-sleeve, as ye ken, His likeness came up the house staukin, And the very grey breeks o’ Tam Glen!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evening before all saints' day; often devoted to pranks played by young people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evening before all saints' day; often devoted to pranks played by young people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then, first an’ foremost, thro’ the kail, Their stocks^5 maun a’ be sought ance; [Footnote 5: The first ceremony of Halloween is pulling each a “stock,” or plant of kail."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ae hairst afore the Sherra-moor, I mind’t as weel’s yestreen— I was a gilpey then, I’m sure I was na past fyfteen: The simmer had been cauld an’ wat, An’ stuff was unco green; An’ eye a rantin kirn we gat, An’ just on Halloween It fell that night."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The last Halloween I was waukin My droukit sark-sleeve, as ye ken, His likeness came up the house staukin, And the very grey breeks o’ Tam Glen!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # durrell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer of irish descent who spent much of his life in mediterranean regions (1912-1990).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer of irish descent who spent much of his life in mediterranean regions (1912-1990).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durrell designates english writer of irish descent who spent much of his life in mediterranean regions (1912-1990)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer of irish descent who spent much of his life in mediterranean regions (1912-1990).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer of irish descent who spent much of his life in mediterranean regions (1912-1990).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durrell designates english writer of irish descent who spent much of his life in mediterranean regions (1912-1990)."*

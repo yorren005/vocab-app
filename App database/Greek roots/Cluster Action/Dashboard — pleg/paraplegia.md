@@ -5,13 +5,6 @@ status: unread
 ---
 # paraplegia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegia designates partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegia designates partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region."*

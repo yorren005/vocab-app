@@ -5,15 +5,6 @@ status: unread
 ---
 # procrastination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of procrastinating; putting off or delaying or defering an action to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slowness as a consequence of not getting around to it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In trickery, evasion, procrastination, spoliation, botheration, under false pretences of all sorts, there are influences that can never come to good."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"My avocations are very numerous, and a habit of procrastination, where anything is to be written, has sadly grown on me with time."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"To the Senator from Missouri rising in his seat, impatient at the dilatory procrastination of the Post-Office Department in not casting out more Republican postmasters, I say this does not include all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of procrastinating; putting off or delaying or defering an action to a later time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slowness as a consequence of not getting around to it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In trickery, evasion, procrastination, spoliation, botheration, under false pretences of all sorts, there are influences that can never come to good."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"My avocations are very numerous, and a habit of procrastination, where anything is to be written, has sadly grown on me with time."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"To the Senator from Missouri rising in his seat, impatient at the dilatory procrastination of the Post-Office Department in not casting out more Republican postmasters, I say this does not include all."*

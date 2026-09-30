@@ -5,15 +5,6 @@ status: unread
 ---
 # mechanics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physical science that deals with energy and forces and their effect on bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practical application of mechanics to the design, construction, or operation of machines or tools.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mechanics' liens give to workmen in the building trades the first claim upon the products of their labor. § 4. #Usury laws#."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I’m going to the meeting about the Mechanics’ Institute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physical science that deals with energy and forces and their effect on bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practical application of mechanics to the design, construction, or operation of machines or tools.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mechanics' liens give to workmen in the building trades the first claim upon the products of their labor. § 4. #Usury laws#."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I’m going to the meeting about the Mechanics’ Institute."*

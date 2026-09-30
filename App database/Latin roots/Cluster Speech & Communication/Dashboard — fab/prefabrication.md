@@ -5,13 +5,6 @@ status: unread
 ---
 # prefabrication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefabrication designates the manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefabrication designates the manufacture of sections of a building at the factory so they can be easily and rapidly assembled at the building site."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # renegotiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Negociate anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise the terms of in order to limit or regain excess profits gained by the contractor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renegotiate designates negociate anew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Negociate anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise the terms of in order to limit or regain excess profits gained by the contractor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renegotiate designates negociate anew."*

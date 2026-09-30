@@ -5,15 +5,6 @@ status: unread
 ---
 # underlying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or form the base for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lie underneath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But he was now a prey to that worst irritation which arises not simply from annoyances, but from the second consciousness underlying those annoyances, of wasted energy and a degrading preoccupation, which was the reverse of all his former purposes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was an underlying consciousness all the while that he should have to master this anger, and tell her everything, and convince her of the facts."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In a small community like this it is much easier to get at the real underlying motive of such things than it is in a more complicated civilization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or form the base for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lie underneath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But he was now a prey to that worst irritation which arises not simply from annoyances, but from the second consciousness underlying those annoyances, of wasted energy and a degrading preoccupation, which was the reverse of all his former purposes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was an underlying consciousness all the while that he should have to master this anger, and tell her everything, and convince her of the facts."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In a small community like this it is much easier to get at the real underlying motive of such things than it is in a more complicated civilization."*

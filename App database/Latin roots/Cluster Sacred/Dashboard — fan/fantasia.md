@@ -5,14 +5,6 @@ status: unread
 ---
 # fantasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition of a free form usually incorporating several familiar themes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition of a free form usually incorporating several familiar themes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Hoskyn’s, appeared, and played a fantasia for pianoforte and orchestra by the famous Jack, another of Mrs."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She listened as attentively as she could, but heard no angels, and was astonished when, at the conclusion of the fantasia, the audience applauded Madame Szczymplica as if she had made them hear the music of the spheres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition of a free form usually incorporating several familiar themes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition of a free form usually incorporating several familiar themes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Hoskyn’s, appeared, and played a fantasia for pianoforte and orchestra by the famous Jack, another of Mrs."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She listened as attentively as she could, but heard no angels, and was astonished when, at the conclusion of the fantasia, the audience applauded Madame Szczymplica as if she had made them hear the music of the spheres."*

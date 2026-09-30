@@ -5,15 +5,6 @@ status: unread
 ---
 # lusty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously passionate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endowed with or exhibiting great bodily or mental health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my age is as a lusty winter, Frosty but kindly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a pretty redness in his lip, A little riper and more lusty red Than that mixed in his cheek. ’Twas just the difference Betwixt the constant red and mingled damask."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously passionate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endowed with or exhibiting great bodily or mental health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my age is as a lusty winter, Frosty but kindly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a pretty redness in his lip, A little riper and more lusty red Than that mixed in his cheek. ’Twas just the difference Betwixt the constant red and mingled damask."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # peptisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting to a sol; bringing to a colloidal solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of converting to a sol; bringing to a colloidal solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptisation designates the process of converting to a sol; bringing to a colloidal solution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting to a sol; bringing to a colloidal solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of converting to a sol; bringing to a colloidal solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptisation designates the process of converting to a sol; bringing to a colloidal solution."*

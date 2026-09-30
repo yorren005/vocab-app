@@ -5,13 +5,6 @@ status: unread
 ---
 # megaloptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate order: alderflies; dobsonflies; snake flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate order: alderflies; dobsonflies; snake flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloptera designates in some classifications considered a separate order: alderflies; dobsonflies; snake flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate order: alderflies; dobsonflies; snake flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate order: alderflies; dobsonflies; snake flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloptera designates in some classifications considered a separate order: alderflies; dobsonflies; snake flies."*

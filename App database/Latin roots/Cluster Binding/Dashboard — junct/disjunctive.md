@@ -5,13 +5,6 @@ status: unread
 ---
 # disjunctive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to divide or separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or tending to divide or separate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjunctive designates serving or tending to divide or separate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to divide or separate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or tending to divide or separate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disjunctive designates serving or tending to divide or separate."*

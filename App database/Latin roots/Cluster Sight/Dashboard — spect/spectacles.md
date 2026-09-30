@@ -5,15 +5,6 @@ status: unread
 ---
 # spectacles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone seen (especially a notable or unusual sight).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even with this I lost fair England’s view, And bid mine eyes be packing with my heart, And called them blind and dusky spectacles, For losing ken of Albion’s wished coast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wilt thou on thy deathbed play the ruffian, And seek for sorrow with thy spectacles?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone seen (especially a notable or unusual sight).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even with this I lost fair England’s view, And bid mine eyes be packing with my heart, And called them blind and dusky spectacles, For losing ken of Albion’s wished coast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wilt thou on thy deathbed play the ruffian, And seek for sorrow with thy spectacles?"*

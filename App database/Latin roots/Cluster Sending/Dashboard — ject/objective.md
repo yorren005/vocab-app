@@ -5,15 +5,6 @@ status: unread
 ---
 # objective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The goal intended to be attained (and which is believed to be attainable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lens or system of lenses in a telescope or microscope that is nearest the object being viewed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood mistook his confusion: sensitive persons are always ready with their “Is it I?” in preference to objective reasoning."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Without any objective change whatever, variety had taken the place of monotonousness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their condition was objective, contemplative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The goal intended to be attained (and which is believed to be attainable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lens or system of lenses in a telescope or microscope that is nearest the object being viewed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood mistook his confusion: sensitive persons are always ready with their “Is it I?” in preference to objective reasoning."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Without any objective change whatever, variety had taken the place of monotonousness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their condition was objective, contemplative."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # catholicism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices of a catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beliefs and practices of a catholic church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, Angel Clare!” “Well?” “Why, you wicked man, a cloister implies a monk, and a monk Roman Catholicism.” “And Roman Catholicism sin, and sin damnation."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But poetry sinned, poetry fell; and, in place of lovingly reclaiming her, Catholicism cast her from the door to follow the feet of her pagan seducer."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It would be difficult to go through the forms and ceremonies of Catholicism in the camps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices of a catholic church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beliefs and practices of a catholic church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, Angel Clare!” “Well?” “Why, you wicked man, a cloister implies a monk, and a monk Roman Catholicism.” “And Roman Catholicism sin, and sin damnation."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But poetry sinned, poetry fell; and, in place of lovingly reclaiming her, Catholicism cast her from the door to follow the feet of her pagan seducer."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It would be difficult to go through the forms and ceremonies of Catholicism in the camps."*

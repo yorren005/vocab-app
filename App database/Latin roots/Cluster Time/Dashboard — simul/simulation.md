@@ -5,15 +5,6 @@ status: unread
 ---
 # simulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the technique of representing the real world by a computer program.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MALVOLIO. ‘M.O.A.I.’ This simulation is not as the former: and yet, to crush this a little, it would bow to me, for every one of these letters are in my name."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tank cleared to the United Inner Planetary System's standard simulation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same principle of make-believe, so dear to children, has led other peoples to employ a simulation of birth as a form of adoption, and even as a mode of restoring a supposed dead person to life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the technique of representing the real world by a computer program.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MALVOLIO. ‘M.O.A.I.’ This simulation is not as the former: and yet, to crush this a little, it would bow to me, for every one of these letters are in my name."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tank cleared to the United Inner Planetary System's standard simulation."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same principle of make-believe, so dear to children, has led other peoples to employ a simulation of birth as a form of adoption, and even as a mode of restoring a supposed dead person to life."*

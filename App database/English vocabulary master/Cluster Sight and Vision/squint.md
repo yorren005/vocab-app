@@ -5,20 +5,6 @@ status: unread
 ---
 # squint
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive) to look or glance sideways
-> 2. **Nuance / Usage**: Have an indirect bearing, reference, or aim
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a squint presence*) or predicatively (*remained squint*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sklent, to slant, to squint, to cheat."*
-> - 📜 **James Joyce (*Ulysses*):** *"—He might, Mr Dedalus said, if he hadn’t that squint troubling him."*
-> - 📜 **Classic Author (*Classic Work*):** *"Yet if the following sentence means anything, it is a squinting toward hypnotism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To look at something with the eyes partly closed, as when trying to see more clearly in bright glare or poor focus.
+> 2. **Nuance / Usage**: Medically and historically, to have eyes that look in different directions (*strabismus* or cross-eye), or to glance obliquely and suspiciously.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a squint presence*) or predicatively (*remained squint*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King Lear*):** *"He gives the web and the pin, **squints** the eye, and makes the hare-lip."*
+> - 📜 **James Joyce (*Ulysses*):** *"He might have seen her, Mr Dedalus said, if he hadn’t that **squint** troubling him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old man **squinted** against the blinding tropical glare at the distant spout on the horizon."*

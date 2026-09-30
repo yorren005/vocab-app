@@ -5,15 +5,6 @@ status: unread
 ---
 # synonymous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a synonym; also : alike in meaning or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same connotations, implications, or reference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Charitable is here used in its original sense, as synonymous with benevolence and affection."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Soul is synonymous with Spirit, God, the creative, governing, infinite Principle outside of finite form, 71:9 which forms only reflect."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The name is synonymous with Messiah, and al- ludes to the spirituality which is taught, illustrated, and 333:12 demonstrated in the life of which Christ Jesus was the embodiment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a synonym; also : alike in meaning or significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same connotations, implications, or reference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Charitable is here used in its original sense, as synonymous with benevolence and affection."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Soul is synonymous with Spirit, God, the creative, governing, infinite Principle outside of finite form, 71:9 which forms only reflect."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The name is synonymous with Messiah, and al- ludes to the spirituality which is taught, illustrated, and 333:12 demonstrated in the life of which Christ Jesus was the embodiment."*

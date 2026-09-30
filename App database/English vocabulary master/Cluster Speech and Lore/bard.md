@@ -5,20 +5,6 @@ status: unread
 ---
 # bard
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Poet
-> 2. **Nuance / Usage**: (by extension) a poet
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bard withstood the storm*), direct object (*cleaved the bard*), or prepositional anchor (*amidst the bard*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To him, the Bard that’s far awa."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou bure the Bard through many a shire?"*
-> - 📜 **Richard Llwyd (*The Poetical Works of Richard Llwyd, the '''Bard''' of Snowdon*):** *"He is a Welsh bard, and a man full of animation, anecdote, and independence; {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Poet
+> 2. **Nuance / Usage**: (by extension) a poet
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bard withstood the storm*), direct object (*cleaved the bard*), or prepositional anchor (*amidst the bard*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To him, the Bard that’s far awa."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou bure the Bard through many a shire?"*
+> - 📜 **Richard Llwyd (*The Poetical Works of Richard Llwyd, the '''Bard''' of Snowdon*):** *"He is a Welsh bard, and a man full of animation, anecdote, and independence; {{..."*

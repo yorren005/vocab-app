@@ -5,15 +5,6 @@ status: unread
 ---
 # stair
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support consisting of a place to rest the foot while ascending or descending a stairway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support consisting of a place to rest the foot while ascending or descending a stairway.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this hour my man shall be with thee, And bring thee cords made like a tackled stair, Which to the high topgallant of my joy Must be my convoy in the secret night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This has been some stair-work, some trunk-work, some behind-door-work."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s advice, for the stair-carpets, besides being very deficient in stair-wires, were so torn as to be absolute traps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Support consisting of a place to rest the foot while ascending or descending a stairway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support consisting of a place to rest the foot while ascending or descending a stairway.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this hour my man shall be with thee, And bring thee cords made like a tackled stair, Which to the high topgallant of my joy Must be my convoy in the secret night."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This has been some stair-work, some trunk-work, some behind-door-work."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s advice, for the stair-carpets, besides being very deficient in stair-wires, were so torn as to be absolute traps."*

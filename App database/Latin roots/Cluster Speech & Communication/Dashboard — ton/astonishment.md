@@ -5,15 +5,6 @@ status: unread
 ---
 # astonishment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that accompanies something extremely surprising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling that accompanies something extremely surprising.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She dug with growing astonishment into her box, which seemed to be filled with ever new and more marvellous objects."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa first could not say a word from astonishment."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea and Lippo, who started with him, looked full of astonishment at his unusual speed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that accompanies something extremely surprising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling that accompanies something extremely surprising.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She dug with growing astonishment into her box, which seemed to be filled with ever new and more marvellous objects."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa first could not say a word from astonishment."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea and Lippo, who started with him, looked full of astonishment at his unusual speed."*

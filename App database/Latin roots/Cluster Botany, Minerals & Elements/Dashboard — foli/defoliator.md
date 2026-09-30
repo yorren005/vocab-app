@@ -5,13 +5,6 @@ status: unread
 ---
 # defoliator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect that strips the leaves from plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insect that strips the leaves from plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliator designates an insect that strips the leaves from plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect that strips the leaves from plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insect that strips the leaves from plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliator designates an insect that strips the leaves from plants."*

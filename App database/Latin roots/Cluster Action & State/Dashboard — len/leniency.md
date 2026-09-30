@@ -5,14 +5,6 @@ status: unread
 ---
 # leniency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercifulness as a consequence of being lenient or tolerant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to yield to the wishes of someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The lawyer, too, was fairly provoked at the faithlessness of the debtor in his promises or his attention to the subject; thus matters dragged wearily for months, yet exercised leniency in pressing the claim."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"They will teach him charity for the faults of others, without which none can hope for leniency for his own shortcomings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercifulness as a consequence of being lenient or tolerant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to yield to the wishes of someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The lawyer, too, was fairly provoked at the faithlessness of the debtor in his promises or his attention to the subject; thus matters dragged wearily for months, yet exercised leniency in pressing the claim."*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"They will teach him charity for the faults of others, without which none can hope for leniency for his own shortcomings."*

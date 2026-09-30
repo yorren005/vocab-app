@@ -5,20 +5,6 @@ status: unread
 ---
 # hew
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cut down by blows of an ax
-> 2. **Nuance / Usage**: (transitive) to shape; to form
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hew the target*) and intransitive clauses (*hewing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The astounded brothers were dragged away to hack and hew and carry."*
-> - 📜 **{{w (*letter to {{w*):** *"rather polishing old works than hewing out new"*
-> - 📜 **Gene Stratton-Porter (*The Harvester*):** *"The oak he had hauled was being hewed into shape by a neighbour who knew how, and every wagon that carried a log to the city to be dressed at the mill brought back timber for side walls, joists, and rafters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cut down by blows of an ax
+> 2. **Nuance / Usage**: (transitive) to shape; to form
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hew the target*) and intransitive clauses (*hewing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The astounded brothers were dragged away to hack and hew and carry."*
+> - 📜 **{{w (*letter to {{w*):** *"rather polishing old works than hewing out new"*
+> - 📜 **Gene Stratton-Porter (*The Harvester*):** *"The oak he had hauled was being hewed into shape by a neighbour who knew how, and every wagon that carried a log to the city to be dressed at the mill brought back timber for side walls, joists, and rafters."*

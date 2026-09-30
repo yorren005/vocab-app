@@ -5,15 +5,6 @@ status: unread
 ---
 # sacked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plunder (a town) after capture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate the employment of; discharge from an office or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. [_Sings._] _ Was this fair face the cause, quoth she, Why the Grecians sacked Troy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her house is sacked, her quiet interrupted, Her mansion battered by the enemy, Her sacred temple spotted, spoiled, corrupted, Grossly engirt with daring infamy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket say, but sits with most attentive eyes until the sacked depository of noble secrets is brought down—Where are all those secrets now?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plunder (a town) after capture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate the employment of; discharge from an office or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. [_Sings._] _ Was this fair face the cause, quoth she, Why the Grecians sacked Troy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her house is sacked, her quiet interrupted, Her mansion battered by the enemy, Her sacred temple spotted, spoiled, corrupted, Grossly engirt with daring infamy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket say, but sits with most attentive eyes until the sacked depository of noble secrets is brought down—Where are all those secrets now?"*

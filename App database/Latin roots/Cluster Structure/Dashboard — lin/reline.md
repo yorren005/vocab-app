@@ -5,13 +5,6 @@ status: unread
 ---
 # reline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a new lining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put new lines on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The converter is constructed in two portions, the body and the hood, in order to facilitate removal, relining, and general repairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a new lining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put new lines on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The converter is constructed in two portions, the body and the hood, in order to facilitate removal, relining, and general repairs."*

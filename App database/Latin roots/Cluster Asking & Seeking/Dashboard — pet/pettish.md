@@ -5,15 +5,6 @@ status: unread
 ---
 # pettish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"French, shortly, and turned from him with a pettish movement to open the oven door."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Why, I wrote you twice to ask you what you could mean by Sid being here.” “Well, I never got ’em, Sis.” Aunt Polly she turns around slow and severe, and says: “You, Tom!” “Well—_what?_” he says, kind of pettish."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Edgar is sulky, because I’m glad of a thing that does not interest him: he refuses to open his mouth, except to utter pettish, silly speeches; and he affirmed I was cruel and selfish for wishing to talk when he was so sick and sleepy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"French, shortly, and turned from him with a pettish movement to open the oven door."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Why, I wrote you twice to ask you what you could mean by Sid being here.” “Well, I never got ’em, Sis.” Aunt Polly she turns around slow and severe, and says: “You, Tom!” “Well—_what?_” he says, kind of pettish."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Edgar is sulky, because I’m glad of a thing that does not interest him: he refuses to open his mouth, except to utter pettish, silly speeches; and he affirmed I was cruel and selfish for wishing to talk when he was so sick and sleepy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adaptability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to change (or be changed) to fit changed circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to change (or be changed) to fit changed circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In his fondness for society and his adaptability to all grades, Mr."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the great strength of this old religion was its infinite adaptability."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Amidst the terrible scenes of those eventful days, the quiet energy, the wonderful comforting and soothing power, and the perfect adaptability of Miss Gilson to her work were conspicuous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to change (or be changed) to fit changed circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to change (or be changed) to fit changed circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In his fondness for society and his adaptability to all grades, Mr."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the great strength of this old religion was its infinite adaptability."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Amidst the terrible scenes of those eventful days, the quiet energy, the wonderful comforting and soothing power, and the perfect adaptability of Miss Gilson to her work were conspicuous."*

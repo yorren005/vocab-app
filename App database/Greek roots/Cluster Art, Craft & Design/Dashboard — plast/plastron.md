@@ -5,15 +5,6 @@ status: unread
 ---
 # plastron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal breastplate formerly worn under the hauberk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quilted pad worn in fencing to protect the chest, waist, and the side on which the weapon is held.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It appears,' she said, 'that Pierre Plastron was in the hospital all the time, and heard and saw many wonderful things."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Lambert, and has received instructions for a pilgrimage--' 'Pierre Plastron!' I cried; 'Pierre Plastron saw nothing, ma mère."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Jean?' 'What have I to do with the community?' I cried--'when I tell thee, Maman, that this Pierre Plastron knows nothing!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal breastplate formerly worn under the hauberk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quilted pad worn in fencing to protect the chest, waist, and the side on which the weapon is held.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It appears,' she said, 'that Pierre Plastron was in the hospital all the time, and heard and saw many wonderful things."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Lambert, and has received instructions for a pilgrimage--' 'Pierre Plastron!' I cried; 'Pierre Plastron saw nothing, ma mère."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Jean?' 'What have I to do with the community?' I cried--'when I tell thee, Maman, that this Pierre Plastron knows nothing!"*

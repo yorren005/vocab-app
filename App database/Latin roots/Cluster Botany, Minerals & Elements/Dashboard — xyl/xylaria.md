@@ -5,13 +5,6 @@ status: unread
 ---
 # xylaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylaria designates type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylaria designates type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata."*

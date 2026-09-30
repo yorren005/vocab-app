@@ -5,15 +5,6 @@ status: unread
 ---
 # benevolent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intending or showing kindness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or motivated by sympathy and understanding and generosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My dear, how you are trembling!” I could not help it; I tried very hard, but being alone with that benevolent presence, and meeting his kind eyes, and feeling so happy and so honoured there, and my heart so full—I kissed his hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Happy dreams!” This was the first time I ever saw him follow Ada with his eyes with something of a shadow on their benevolent expression."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What a troop of fine fresh hearts like his have I seen in my time turned by the same means!” I could not help expressing something of my wonder and regret that his benevolent, disinterested intentions had prospered so little."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intending or showing kindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or motivated by sympathy and understanding and generosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My dear, how you are trembling!” I could not help it; I tried very hard, but being alone with that benevolent presence, and meeting his kind eyes, and feeling so happy and so honoured there, and my heart so full—I kissed his hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Happy dreams!” This was the first time I ever saw him follow Ada with his eyes with something of a shadow on their benevolent expression."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What a troop of fine fresh hearts like his have I seen in my time turned by the same means!” I could not help expressing something of my wonder and regret that his benevolent, disinterested intentions had prospered so little."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unflustered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unflustered designates free from emotional agitation or nervous tension; ; - anthony trollope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unflustered designates free from emotional agitation or nervous tension; ; - anthony trollope."*

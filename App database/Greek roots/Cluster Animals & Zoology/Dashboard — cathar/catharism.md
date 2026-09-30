@@ -5,13 +5,6 @@ status: unread
 ---
 # catharism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catharism designates a christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catharism designates a christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition."*

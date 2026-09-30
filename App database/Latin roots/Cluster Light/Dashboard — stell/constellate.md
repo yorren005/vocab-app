@@ -5,13 +5,6 @@ status: unread
 ---
 # constellate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scatter or intersperse like dots or studs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constellate designates scatter or intersperse like dots or studs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scatter or intersperse like dots or studs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constellate designates scatter or intersperse like dots or studs."*

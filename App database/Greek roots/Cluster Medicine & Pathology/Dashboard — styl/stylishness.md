@@ -5,13 +5,6 @@ status: unread
 ---
 # stylishness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of being fashionable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of being fashionable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Miss Tilney had a good figure, a pretty face, and a very agreeable countenance; and her air, though it had not all the decided pretension, the resolute stylishness of Miss Thorpe’s, had more real elegance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of being fashionable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of being fashionable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Miss Tilney had a good figure, a pretty face, and a very agreeable countenance; and her air, though it had not all the decided pretension, the resolute stylishness of Miss Thorpe’s, had more real elegance."*

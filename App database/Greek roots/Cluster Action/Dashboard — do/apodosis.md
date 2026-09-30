@@ -5,13 +5,6 @@ status: unread
 ---
 # apodosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main clause of a conditional sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main clause of a conditional sentence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The main clause of a conditional sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main clause of a conditional sentence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*

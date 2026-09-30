@@ -5,13 +5,6 @@ status: unread
 ---
 # isomorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) similarity or identity of form or shape or structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) similarity or identity of form or shape or structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphism designates (biology) similarity or identity of form or shape or structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) similarity or identity of form or shape or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) similarity or identity of form or shape or structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphism designates (biology) similarity or identity of form or shape or structure."*

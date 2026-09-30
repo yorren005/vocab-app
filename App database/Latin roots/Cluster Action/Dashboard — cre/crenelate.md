@@ -5,14 +5,6 @@ status: unread
 ---
 # crenelate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with battlements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with battlements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"This tower was one of a pair—square, incongruous, crenelated structures—that were distinguished, for some reason, though I could see little difference, as the new and the old."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"From this central block rose the twin towers, ancient, crenelated, and pierced with many loopholes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with battlements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with battlements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"This tower was one of a pair—square, incongruous, crenelated structures—that were distinguished, for some reason, though I could see little difference, as the new and the old."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"From this central block rose the twin towers, ancient, crenelated, and pierced with many loopholes."*

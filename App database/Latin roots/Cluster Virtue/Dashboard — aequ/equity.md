@@ -5,15 +5,6 @@ status: unread
 ---
 # equity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The difference between the market value of a property and the claims held against it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ownership interest of shareholders in a corporation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An the Prince and Poins be not two arrant cowards, there’s no equity stirring."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The difference between the market value of a property and the claims held against it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ownership interest of shareholders in a corporation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An the Prince and Poins be not two arrant cowards, there’s no equity stirring."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*

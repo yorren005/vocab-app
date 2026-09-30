@@ -5,15 +5,6 @@ status: unread
 ---
 # falls
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The petals or sepals of a flower that bend downward (especially the outer perianth of an iris).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steep descent of the water of a river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by your leave, hold your hands; though I know his brains are forfeit to the next tile that falls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you shall find yourself to be well thank’d, Whate’er falls more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iras falls and dies._] Have I the aspic in my lips?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The petals or sepals of a flower that bend downward (especially the outer perianth of an iris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steep descent of the water of a river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by your leave, hold your hands; though I know his brains are forfeit to the next tile that falls."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you shall find yourself to be well thank’d, Whate’er falls more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iras falls and dies._] Have I the aspic in my lips?"*

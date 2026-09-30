@@ -5,13 +5,6 @@ status: unread
 ---
 # aligning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hussars began carefully aligning their horses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hussars began carefully aligning their horses."*

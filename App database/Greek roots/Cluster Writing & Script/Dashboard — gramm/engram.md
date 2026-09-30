@@ -5,13 +5,6 @@ status: unread
 ---
 # engram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, engram designates a hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, engram designates a hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace."*

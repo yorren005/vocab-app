@@ -5,15 +5,6 @@ status: unread
 ---
 # operations
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Financial transactions at a brokerage; having to do with the execution of trades and keeping customer records.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being in effect or being operative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have operations in my head which be humours of revenge."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Charley directed the operations and went to and fro between the loft-room and the house with such little stimulants and comforts as we thought it safe to give him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And she don’t even let ye have the skins of the dead lambs, I hear?” resumed Joseph Poorgrass, his eyes lingering on the operations of Oak with the necessary melancholy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Financial transactions at a brokerage; having to do with the execution of trades and keeping customer records.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being in effect or being operative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have operations in my head which be humours of revenge."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Charley directed the operations and went to and fro between the loft-room and the house with such little stimulants and comforts as we thought it safe to give him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And she don’t even let ye have the skins of the dead lambs, I hear?” resumed Joseph Poorgrass, his eyes lingering on the operations of Oak with the necessary melancholy."*

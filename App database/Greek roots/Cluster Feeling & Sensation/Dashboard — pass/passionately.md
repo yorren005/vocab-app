@@ -5,15 +5,6 @@ status: unread
 ---
 # passionately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With passion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stormy or violent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There would be nothing to mourn over." Mea, however, fought passionately for her friend and never gave way till Kurt had promised not to go on with his ditty."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is why Bruno imagined that she loved her younger son better than him, and because he himself loved his mother passionately, he could not endure this thought."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She loved his eldest boy passionately and everybody who was close to her could see it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With passion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stormy or violent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There would be nothing to mourn over." Mea, however, fought passionately for her friend and never gave way till Kurt had promised not to go on with his ditty."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is why Bruno imagined that she loved her younger son better than him, and because he himself loved his mother passionately, he could not endure this thought."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She loved his eldest boy passionately and everybody who was close to her could see it."*

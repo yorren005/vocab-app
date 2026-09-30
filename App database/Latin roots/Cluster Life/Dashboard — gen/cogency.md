@@ -5,13 +5,6 @@ status: unread
 ---
 # cogency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persuasive relevance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valid and rigorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"And yet if we compare it with Burke, or with the great Greek exemplar of all those who would give speech the cogency of act,--we see at once the causes of its practical failure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persuasive relevance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valid and rigorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"And yet if we compare it with Burke, or with the great Greek exemplar of all those who would give speech the cogency of act,--we see at once the causes of its practical failure."*

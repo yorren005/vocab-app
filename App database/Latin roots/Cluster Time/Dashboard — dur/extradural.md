@@ -5,13 +5,6 @@ status: unread
 ---
 # extradural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or outside the dura mater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or outside the dura mater.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extradural designates on or outside the dura mater."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On or outside the dura mater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or outside the dura mater.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extradural designates on or outside the dura mater."*

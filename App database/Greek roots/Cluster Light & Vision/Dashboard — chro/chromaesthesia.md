@@ -5,13 +5,6 @@ status: unread
 ---
 # chromaesthesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of synesthesia in which nonvisual stimulation results in the experience of color sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of synesthesia in which nonvisual stimulation results in the experience of color sensations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromaesthesia designates a form of synesthesia in which nonvisual stimulation results in the experience of color sensations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of synesthesia in which nonvisual stimulation results in the experience of color sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of synesthesia in which nonvisual stimulation results in the experience of color sensations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromaesthesia designates a form of synesthesia in which nonvisual stimulation results in the experience of color sensations."*

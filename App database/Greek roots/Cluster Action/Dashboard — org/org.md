@@ -5,15 +5,6 @@ status: unread
 ---
 # org
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: organic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: organization; organized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Space Millennium: Vienna Declaration on Space and Human Development. http://www.oosa.unvienna.org/unisp-3/ or http://nuclearfree.lynx.co.nz/canadatreaty.htm THE LIMITS TO GROWTH."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"For permission to publish, transmit, display or otherwise use the Content for any commercial purpose, please contact us (http://reference.bahai.org/en/contact.html)."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Produced by Charles Bowen, from page scans provided by the Web Archive Source: http://www.archive.org/details/sagahalfredsigs00veitgoog SAGA OF HALFRED THE SIGSKALD SAGA OF HALFRED THE SIGSKALD _A Northern Tale of the Tenth_ _Century_ BY FELIX DAHN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: organic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: organization; organized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Space Millennium: Vienna Declaration on Space and Human Development. http://www.oosa.unvienna.org/unisp-3/ or http://nuclearfree.lynx.co.nz/canadatreaty.htm THE LIMITS TO GROWTH."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"For permission to publish, transmit, display or otherwise use the Content for any commercial purpose, please contact us (http://reference.bahai.org/en/contact.html)."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Produced by Charles Bowen, from page scans provided by the Web Archive Source: http://www.archive.org/details/sagahalfredsigs00veitgoog SAGA OF HALFRED THE SIGSKALD SAGA OF HALFRED THE SIGSKALD _A Northern Tale of the Tenth_ _Century_ BY FELIX DAHN."*

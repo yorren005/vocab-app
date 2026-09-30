@@ -5,13 +5,6 @@ status: unread
 ---
 # stenograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shorthand character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for typewriting shorthand characters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"When we are married I shall be able to be useful to Jonathan, and if I can stenograph well enough I can take down what he wants to say in this way and write it out for him on the typewriter, at which also I am practising very hard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shorthand character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for typewriting shorthand characters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"When we are married I shall be able to be useful to Jonathan, and if I can stenograph well enough I can take down what he wants to say in this way and write it out for him on the typewriter, at which also I am practising very hard."*

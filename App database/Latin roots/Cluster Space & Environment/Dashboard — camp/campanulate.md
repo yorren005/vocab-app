@@ -5,14 +5,6 @@ status: unread
 ---
 # campanulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a bell or campana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a bell or campana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The peridia are always closely packed together upon a thickened base, and offer but slight variations from the forms already enumerated, save that they widen slightly at the mouth, so as to become nearly campanulate."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MARSH-MARIGOLD CLUSTER-CUPS; aggregate; peridia somewhat campanulate, with numerous minute marginal teeth; spores bright orange, subglobose or oval.—On leaves and petioles of _Caltha palustris_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a bell or campana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a bell or campana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The peridia are always closely packed together upon a thickened base, and offer but slight variations from the forms already enumerated, save that they widen slightly at the mouth, so as to become nearly campanulate."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MARSH-MARIGOLD CLUSTER-CUPS; aggregate; peridia somewhat campanulate, with numerous minute marginal teeth; spores bright orange, subglobose or oval.—On leaves and petioles of _Caltha palustris_."*

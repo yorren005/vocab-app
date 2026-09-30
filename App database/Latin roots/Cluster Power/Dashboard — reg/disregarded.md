@@ -5,15 +5,6 @@ status: unread
 ---
 # disregarded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A coolness arose between him and my guardian, based principally on the foregoing grounds and on his having heartlessly disregarded my guardian’s entreaties (as we afterwards learned from Ada) in reference to Richard."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet at this very time, within the same parish, a greater waste had been going on, uncomplained of and disregarded."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"_Three_-and-twenty!” cried Thorpe, “five-and-twenty if it is an inch.” Morland remonstrated, pleaded the authority of road-books, innkeepers, and milestones; but his friend disregarded them all; he had a surer test of distance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A coolness arose between him and my guardian, based principally on the foregoing grounds and on his having heartlessly disregarded my guardian’s entreaties (as we afterwards learned from Ada) in reference to Richard."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet at this very time, within the same parish, a greater waste had been going on, uncomplained of and disregarded."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"_Three_-and-twenty!” cried Thorpe, “five-and-twenty if it is an inch.” Morland remonstrated, pleaded the authority of road-books, innkeepers, and milestones; but his friend disregarded them all; he had a surer test of distance."*

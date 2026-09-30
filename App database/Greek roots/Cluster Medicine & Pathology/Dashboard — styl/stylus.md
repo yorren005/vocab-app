@@ -5,15 +5,6 @@ status: unread
 ---
 # stylus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for writing, marking, or incising: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used by the ancients in writing on clay or waxed tablets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose that we connect the foil to one pole of a battery, and the other pole by a flexible wire to a metal pen or stylus."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is these excursions of the stylus which the dotted lines are intended to represent."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For nearly the whole of the time current will be flowing; but whenever the stylus is crossing one of the lines of non-conductive ink there will be a momentary cessation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for writing, marking, or incising: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used by the ancients in writing on clay or waxed tablets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose that we connect the foil to one pole of a battery, and the other pole by a flexible wire to a metal pen or stylus."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is these excursions of the stylus which the dotted lines are intended to represent."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For nearly the whole of the time current will be flowing; but whenever the stylus is crossing one of the lines of non-conductive ink there will be a momentary cessation."*

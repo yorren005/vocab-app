@@ -5,15 +5,6 @@ status: unread
 ---
 # comically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a comical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Nothing could have been more circumspect-- comically circumspect! between Selincourt and Isabel and the chambermaid, malice itself was put to silence."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She’s rather unhappy, and as she’s not of a serious turn she doesn’t tend to show it tragically: she shows it comically instead."*
-> - 📜 **Bram Stoker (*Dracula*):** *"If I am refused, the responsibility does not rest with me.” I thought it was now time to end the scene, which was becoming too comically grave, so I went towards the door, simply saying:-- “Come, my friends, we have work to do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a comical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Nothing could have been more circumspect-- comically circumspect! between Selincourt and Isabel and the chambermaid, malice itself was put to silence."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She’s rather unhappy, and as she’s not of a serious turn she doesn’t tend to show it tragically: she shows it comically instead."*
+> - 📜 **Bram Stoker (*Dracula*):** *"If I am refused, the responsibility does not rest with me.” I thought it was now time to end the scene, which was becoming too comically grave, so I went towards the door, simply saying:-- “Come, my friends, we have work to do."*

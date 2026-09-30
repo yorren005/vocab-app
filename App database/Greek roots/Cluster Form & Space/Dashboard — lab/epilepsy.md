@@ -5,15 +5,6 @@ status: unread
 ---
 # epilepsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various disorders marked by abnormal electrical discharges in the brain and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used or tending to control epileptic seizures : antiepileptic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord is fallen into an epilepsy."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No disease is found to be more obstinate than epilepsy, yet several instances are recorded of patients being restored to perfect health."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Several times in years past I have asked for the prayers of this meeting, and always found them answered." CURED OF EPILEPSY."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various disorders marked by abnormal electrical discharges in the brain and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used or tending to control epileptic seizures : antiepileptic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord is fallen into an epilepsy."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"No disease is found to be more obstinate than epilepsy, yet several instances are recorded of patients being restored to perfect health."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Several times in years past I have asked for the prayers of this meeting, and always found them answered." CURED OF EPILEPSY."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # revenuer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government agent responsible for collecting revenue (especially one responsible for stopping bootlegging).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government agent responsible for collecting revenue (especially one responsible for stopping bootlegging).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revenuer designates a government agent responsible for collecting revenue (especially one responsible for stopping bootlegging)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A government agent responsible for collecting revenue (especially one responsible for stopping bootlegging).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government agent responsible for collecting revenue (especially one responsible for stopping bootlegging).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revenuer designates a government agent responsible for collecting revenue (especially one responsible for stopping bootlegging)."*

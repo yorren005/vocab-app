@@ -5,13 +5,6 @@ status: unread
 ---
 # anosmia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the sense of smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the sense of smell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anosmia designates loss or impairment of the sense of smell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the sense of smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the sense of smell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anosmia designates loss or impairment of the sense of smell."*

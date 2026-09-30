@@ -5,13 +5,6 @@ status: unread
 ---
 # interactive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of acting on or influencing each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interactive designates used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of acting on or influencing each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interactive designates used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)."*

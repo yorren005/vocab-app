@@ -5,13 +5,6 @@ status: unread
 ---
 # motivating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of motivating; providing incentive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivating designates the act of motivating; providing incentive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of motivating; providing incentive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivating designates the act of motivating; providing incentive."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hipposideros
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseshoe bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseshoe bats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hipposideros designates horseshoe bats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseshoe bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseshoe bats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hipposideros designates horseshoe bats."*

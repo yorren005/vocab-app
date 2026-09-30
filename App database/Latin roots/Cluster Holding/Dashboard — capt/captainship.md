@@ -5,14 +5,6 @@ status: unread
 ---
 # captainship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of captain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of captain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore so please thee to return with us, And of our Athens, thine and ours, to take The captainship, thou shalt be met with thanks, Allowed with absolute power, and thy good name Live with authority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of captain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of captain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore so please thee to return with us, And of our Athens, thine and ours, to take The captainship, thou shalt be met with thanks, Allowed with absolute power, and thy good name Live with authority."*

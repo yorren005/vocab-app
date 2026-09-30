@@ -5,15 +5,6 @@ status: unread
 ---
 # percentage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proportion in relation to a whole (which is usually the amount per hundred).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assets belonging to or due to or contributed by an individual person or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t want to pay too large a price for my friend, but I want you to have your proper percentage and be remunerated for your loss of time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel’s farm had been stocked by a dealer—on the strength of Oak’s promising look and character—who was receiving a percentage from the farmer till such time as the advance should be cleared off."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I can pick the high-percentage butter-fat cow with my eye and let the Babcock Tester prove the wisdom of my eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proportion in relation to a whole (which is usually the amount per hundred).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assets belonging to or due to or contributed by an individual person or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t want to pay too large a price for my friend, but I want you to have your proper percentage and be remunerated for your loss of time."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel’s farm had been stocked by a dealer—on the strength of Oak’s promising look and character—who was receiving a percentage from the farmer till such time as the advance should be cleared off."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I can pick the high-percentage butter-fat cow with my eye and let the Babcock Tester prove the wisdom of my eye."*

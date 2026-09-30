@@ -5,13 +5,6 @@ status: unread
 ---
 # gustavus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last king of sweden to have any real political power (1882-1973).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of sweden who kept sweden neutral during both world war i and ii (1858-1950).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustavus designates the last king of sweden to have any real political power (1882-1973)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The last king of sweden to have any real political power (1882-1973).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of sweden who kept sweden neutral during both world war i and ii (1858-1950).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustavus designates the last king of sweden to have any real political power (1882-1973)."*

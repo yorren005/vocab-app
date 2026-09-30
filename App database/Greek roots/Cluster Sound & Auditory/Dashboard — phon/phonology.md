@@ -5,13 +5,6 @@ status: unread
 ---
 # phonology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of speech sounds including especially the history and theory of sound changes in a language or in two or more related languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phonetics and phonemics of a language at a particular time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonology designates the science of speech sounds including especially the history and theory of sound changes in a language or in two or more related languages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of speech sounds including especially the history and theory of sound changes in a language or in two or more related languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phonetics and phonemics of a language at a particular time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonology designates the science of speech sounds including especially the history and theory of sound changes in a language or in two or more related languages."*

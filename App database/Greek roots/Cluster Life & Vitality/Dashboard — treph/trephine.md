@@ -5,13 +5,6 @@ status: unread
 ---
 # trephine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument used to remove sections of bone from the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operate on with a trephine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The suffusion of the brain will increase quickly, so we must trephine at once or it may be too late.” As he was speaking there was a soft tapping at the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument used to remove sections of bone from the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operate on with a trephine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"The suffusion of the brain will increase quickly, so we must trephine at once or it may be too late.” As he was speaking there was a soft tapping at the door."*

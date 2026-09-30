@@ -5,13 +5,6 @@ status: unread
 ---
 # polysaccharide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysaccharide designates a carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysaccharide designates a carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # murmur
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Soft or gentle utterance
-> 2. **Nuance / Usage**: Low indistinct but often continuous sound
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"was from her lips that came the murmur of unspeakable despair."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"one objection, one murmur, he departed."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tarrow, to tarry; to be reluctant, to murmur; to weary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Soft or gentle utterance
+> 2. **Nuance / Usage**: Low indistinct but often continuous sound
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"was from her lips that came the murmur of unspeakable despair."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"one objection, one murmur, he departed."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tarrow, to tarry; to be reluctant, to murmur; to weary."*

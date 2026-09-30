@@ -5,15 +5,6 @@ status: unread
 ---
 # autograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something written or made with one's own hand:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An original manuscript or work of art.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had wondered why Jane had been poring over that old autograph manuscript receipt book in my desk for days, and as she paid these modern resurrecting compliments to the long gone cooks, tears and laughed literally deluged the table."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Crowds followed the cab, cheering it lustily; charming girls scaled it to get his autograph; interviews appeared in the better class of papers, and society invited him to dinner and added, “Do come in the kennel.” On that eventful Thursday week, Mrs."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I shall keep it." "Bless you," thought Garnet, "and I will write my precious autograph on every page, if you want it." "I wonder who Jeremy Garnet is?" said Phyllis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something written or made with one's own hand:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An original manuscript or work of art.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had wondered why Jane had been poring over that old autograph manuscript receipt book in my desk for days, and as she paid these modern resurrecting compliments to the long gone cooks, tears and laughed literally deluged the table."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Crowds followed the cab, cheering it lustily; charming girls scaled it to get his autograph; interviews appeared in the better class of papers, and society invited him to dinner and added, “Do come in the kennel.” On that eventful Thursday week, Mrs."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I shall keep it." "Bless you," thought Garnet, "and I will write my precious autograph on every page, if you want it." "I wonder who Jeremy Garnet is?" said Phyllis."*

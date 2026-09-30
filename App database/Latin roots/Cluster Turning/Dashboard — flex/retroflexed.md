@@ -5,13 +5,6 @@ status: unread
 ---
 # retroflexed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend or turn backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articulate (a consonant) with the tongue curled back against the palate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroflexed designates bend or turn backward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend or turn backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articulate (a consonant) with the tongue curled back against the palate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroflexed designates bend or turn backward."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # marsh
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-lying wet land with grassy vegetation; usually is a transition zone between land and water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states painter (1898-1954).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, the enemy is past the marsh."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"I never heard of the use of the needfire in the Marsh, though it was, I believe, used on the wolds not many miles off."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If I dared, I’d touch you, to see if you are substance or shadow, you elf!—but I’d as soon offer to take hold of a blue _ignis fatuus_ light in a marsh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-lying wet land with grassy vegetation; usually is a transition zone between land and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states painter (1898-1954).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, the enemy is past the marsh."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"I never heard of the use of the needfire in the Marsh, though it was, I believe, used on the wolds not many miles off."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If I dared, I’d touch you, to see if you are substance or shadow, you elf!—but I’d as soon offer to take hold of a blue _ignis fatuus_ light in a marsh."*

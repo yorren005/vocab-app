@@ -5,15 +5,6 @@ status: unread
 ---
 # lavish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expend profusely; also used with abstract nouns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very generous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when his headstrong riot hath no curb, When rage and hot blood are his counsellors, When means and lavish manners meet together, O, with what wings shall his affections fly Towards fronting peril and opposed decay!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This day, in argument upon a case, Some words there grew ’twixt Somerset and me; Among which terms he used his lavish tongue And did upbraid me with my father’s death; Which obloquy set bars before my tongue, Else with the like I had requited him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let her be admitted. [_Exit Servant._] See you the fornicatress be removed; Let her have needful but not lavish means; There shall be order for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expend profusely; also used with abstract nouns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very generous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when his headstrong riot hath no curb, When rage and hot blood are his counsellors, When means and lavish manners meet together, O, with what wings shall his affections fly Towards fronting peril and opposed decay!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This day, in argument upon a case, Some words there grew ’twixt Somerset and me; Among which terms he used his lavish tongue And did upbraid me with my father’s death; Which obloquy set bars before my tongue, Else with the like I had requited him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let her be admitted. [_Exit Servant._] See you the fornicatress be removed; Let her have needful but not lavish means; There shall be order for it."*

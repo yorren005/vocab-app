@@ -5,13 +5,6 @@ status: unread
 ---
 # bronchus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchus designates either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchus designates either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube."*

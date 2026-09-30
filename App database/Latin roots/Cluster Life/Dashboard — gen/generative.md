@@ -5,15 +5,6 @@ status: unread
 ---
 # generative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability to produce or originate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing new life or offspring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If the crops did not answer to the expectation of the husbandman, this would be attributed to some failure in the generative powers of the god whose function it was to produce the fruits of the earth."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Indians of Brazil at the mouth of the Amazon, when a man wishes to increase the size of his generative organ, he strikes it with the fruit of a white aquatic plant called _aninga,_ which grows luxuriantly on the banks of the river."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Stoic philosopher saw a unity in this world of confusion--it was the "Generative Reason"--the _spermatikos logos_, the Divine Word, or Reason, that is the seed and vital principle, whence all things come and in virtue of which they {38} live."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability to produce or originate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing new life or offspring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If the crops did not answer to the expectation of the husbandman, this would be attributed to some failure in the generative powers of the god whose function it was to produce the fruits of the earth."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Indians of Brazil at the mouth of the Amazon, when a man wishes to increase the size of his generative organ, he strikes it with the fruit of a white aquatic plant called _aninga,_ which grows luxuriantly on the banks of the river."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Stoic philosopher saw a unity in this world of confusion--it was the "Generative Reason"--the _spermatikos logos_, the Divine Word, or Reason, that is the seed and vital principle, whence all things come and in virtue of which they {38} live."*

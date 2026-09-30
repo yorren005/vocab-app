@@ -5,13 +5,6 @@ status: unread
 ---
 # hydroxychloroquine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxychloroquine designates anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxychloroquine designates anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # destitution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state without friends or money or prospects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state without friends or money or prospects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has no idea, poor wretch, of the spiritual destitution of a coral reef in the Pacific or what it costs to look up the precious souls among the coco-nuts and bread-fruit."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One day, as little George observed his mother weeping over their destitution, he said, "Why, mother, don't cry any; we shall not starve; God will send us something to eat, I know He will."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The mother in bed, with her head bound to mitigate its pain, revealed the story of her sufferings, and the good lady soon learned their entire destitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state without friends or money or prospects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state without friends or money or prospects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has no idea, poor wretch, of the spiritual destitution of a coral reef in the Pacific or what it costs to look up the precious souls among the coco-nuts and bread-fruit."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"One day, as little George observed his mother weeping over their destitution, he said, "Why, mother, don't cry any; we shall not starve; God will send us something to eat, I know He will."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The mother in bed, with her head bound to mitigate its pain, revealed the story of her sufferings, and the good lady soon learned their entire destitution."*

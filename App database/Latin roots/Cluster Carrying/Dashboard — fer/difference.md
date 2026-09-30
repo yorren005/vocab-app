@@ -5,15 +5,6 @@ status: unread
 ---
 # difference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unlike or dissimilar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variation that deviates from the standard or norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But how the fear of us May cement their divisions, and bind up The petty difference, we yet not know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unlike or dissimilar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variation that deviates from the standard or norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But how the fear of us May cement their divisions, and bind up The petty difference, we yet not know."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*

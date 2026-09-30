@@ -5,15 +5,6 @@ status: unread
 ---
 # descendants
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the offspring of a given progenitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person considered as descended from some ancestor or race.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Later on two of his descendants lived in the castle."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turn that dog’s descendants wild, like Jo, and in a very few years they will so degenerate that they will lose even their bark—but not their bite."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There had seemed nothing at all out of keeping with such a conjectured career in the storing up of these showy ornaments for his wife and the wives of her descendants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the offspring of a given progenitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person considered as descended from some ancestor or race.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Later on two of his descendants lived in the castle."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turn that dog’s descendants wild, like Jo, and in a very few years they will so degenerate that they will lose even their bark—but not their bite."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There had seemed nothing at all out of keeping with such a conjectured career in the storing up of these showy ornaments for his wife and the wives of her descendants."*

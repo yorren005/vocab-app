@@ -5,15 +5,6 @@ status: unread
 ---
 # uncovered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove all or part of one's clothes to show one's body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, rather let my head Stoop to the block than these knees bow to any Save to the God of heaven and to my King; And sooner dance upon a bloody pole Than stand uncovered to the vulgar groom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou wert better in thy grave than to answer with thy uncovered body this extremity of the skies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make visible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove all or part of one's clothes to show one's body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, rather let my head Stoop to the block than these knees bow to any Save to the God of heaven and to my King; And sooner dance upon a bloody pole Than stand uncovered to the vulgar groom."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou wert better in thy grave than to answer with thy uncovered body this extremity of the skies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*

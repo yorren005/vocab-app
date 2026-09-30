@@ -5,13 +5,6 @@ status: unread
 ---
 # vocalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sing (each note a scale or in a melody) with the same vowel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce as a vowel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalise designates sing (each note a scale or in a melody) with the same vowel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sing (each note a scale or in a melody) with the same vowel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce as a vowel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalise designates sing (each note a scale or in a melody) with the same vowel."*

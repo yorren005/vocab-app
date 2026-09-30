@@ -5,14 +5,6 @@ status: unread
 ---
 # dissident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by departure from accepted beliefs or standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His ostensible mission to meet with the President of Planet Pluto is, in actuality, a guise under which he intends to meet with dissident elements among our people."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He has a special hatred for dissidents to Narval's policies and uses spies, informers and killers to infiltrate their organizations and tear them apart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by departure from accepted beliefs or standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His ostensible mission to meet with the President of Planet Pluto is, in actuality, a guise under which he intends to meet with dissident elements among our people."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He has a special hatred for dissidents to Narval's policies and uses spies, informers and killers to infiltrate their organizations and tear them apart."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # augury
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Omen, portent
-> 2. **Nuance / Usage**: Divination based on the appearance and behaviour of animals
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Shelley (*Frankenstein*):** *"an unfavourable augury from my manner."*
-> - 📜 **James Russell Lowell (*s:The Works of the Late Edgar Allan Poe/Volume 1/Edgar A. Poe*):** *"In Wordsworth's first preludings there is but a dim foreboding of the creator of an era. From Southey's early poems, a safer augury might have been drawn."*
-> - 📜 **Cecil J. Allen (*British Locomotive Practice and Performance*):** *"Fortunately many of the younger men are keen enough to make a success of their work, and this gives a better augury for the future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Omen, portent
+> 2. **Nuance / Usage**: Divination based on the appearance and behaviour of animals
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Shelley (*Frankenstein*):** *"an unfavourable augury from my manner."*
+> - 📜 **James Russell Lowell (*s:The Works of the Late Edgar Allan Poe/Volume 1/Edgar A. Poe*):** *"In Wordsworth's first preludings there is but a dim foreboding of the creator of an era. From Southey's early poems, a safer augury might have been drawn."*
+> - 📜 **Cecil J. Allen (*British Locomotive Practice and Performance*):** *"Fortunately many of the younger men are keen enough to make a success of their work, and this gives a better augury for the future."*

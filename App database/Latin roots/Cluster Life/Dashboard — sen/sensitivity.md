@@ -5,14 +5,6 @@ status: unread
 ---
 # sensitivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) responsiveness to external stimuli; the faculty of sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to respond to physical stimuli or to register small physical amounts or differences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Compassion will not be a burden to her; to the contrary, reaching out strengthens her sensitivity and her developing maturity."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Moreover, there are now many explosives of the dynamite nature but differing from it in having an active instead of a passive absorbent, so that the decrease in sensitivity is accompanied by an increase in strength."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) responsiveness to external stimuli; the faculty of sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to respond to physical stimuli or to register small physical amounts or differences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Compassion will not be a burden to her; to the contrary, reaching out strengthens her sensitivity and her developing maturity."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Moreover, there are now many explosives of the dynamite nature but differing from it in having an active instead of a passive absorbent, so that the decrease in sensitivity is accompanied by an increase in strength."*

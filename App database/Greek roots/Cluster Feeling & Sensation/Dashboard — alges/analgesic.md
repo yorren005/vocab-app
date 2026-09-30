@@ -5,13 +5,6 @@ status: unread
 ---
 # analgesic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, characterized by, or producing analgesia : relieving or lessening pain without loss of consciousness; also : caused by the use of analgesics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesic designates an agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, characterized by, or producing analgesia : relieving or lessening pain without loss of consciousness; also : caused by the use of analgesics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesic designates an agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia."*

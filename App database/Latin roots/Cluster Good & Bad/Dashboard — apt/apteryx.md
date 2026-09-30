@@ -5,13 +5,6 @@ status: unread
 ---
 # apteryx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apteryx designates nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apteryx designates nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes."*

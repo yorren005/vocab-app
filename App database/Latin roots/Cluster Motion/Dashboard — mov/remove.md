@@ -5,15 +5,6 @@ status: unread
 ---
 # remove
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Degree of figurative distance or separation;  or.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove something concrete, as by lifting, pushing, or taking off, or remove something abstract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say our pleasure To such whose place is under us, requires Our quick remove from hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they set down before’s, for the remove Bring up your army."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Degree of figurative distance or separation;  or.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove something concrete, as by lifting, pushing, or taking off, or remove something abstract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say our pleasure To such whose place is under us, requires Our quick remove from hence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they set down before’s, for the remove Bring up your army."*

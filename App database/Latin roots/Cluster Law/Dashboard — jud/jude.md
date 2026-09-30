@@ -5,15 +5,6 @@ status: unread
 ---
 # jude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) supposed brother of st. james; one of the apostles who is invoked in prayer when a situation seems hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new testament book attributed to saint jude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Jude’s” (nodding north-west-by-north)."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ich bin jetzt bei Christ und Jude verhasst."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Jude’s” (nodding north-west-by-north)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) supposed brother of st. james; one of the apostles who is invoked in prayer when a situation seems hopeless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new testament book attributed to saint jude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Jude’s” (nodding north-west-by-north)."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ich bin jetzt bei Christ und Jude verhasst."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Jude’s” (nodding north-west-by-north)."*

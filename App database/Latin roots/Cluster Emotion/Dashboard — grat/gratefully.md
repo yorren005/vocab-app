@@ -5,15 +5,6 @@ status: unread
 ---
 # gratefully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With appreciation; in a grateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a thankful manner; with thanks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she entered his room with this concoction a little later, the odor from it was so inviting that the Baron breathed it in gratefully."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And so you must judge for yourself, whether it would be better for you to go about the house or not.” Anne, finding she might decline it, did so, very gratefully."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How can I thank ’ee?” he said at last, gratefully, some of the natural rusty red having returned to his face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With appreciation; in a grateful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a thankful manner; with thanks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she entered his room with this concoction a little later, the odor from it was so inviting that the Baron breathed it in gratefully."*
+> - 📜 **Jane Austen (*Persuasion*):** *"And so you must judge for yourself, whether it would be better for you to go about the house or not.” Anne, finding she might decline it, did so, very gratefully."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How can I thank ’ee?” he said at last, gratefully, some of the natural rusty red having returned to his face."*

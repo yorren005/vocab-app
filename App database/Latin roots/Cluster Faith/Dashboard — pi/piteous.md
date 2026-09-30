@@ -5,15 +5,6 @@ status: unread
 ---
 # piteous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inciting pity; ; ; - galsworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Long stay’d he so, At last,—a little shaking of mine arm, And thrice his head thus waving up and down, He rais’d a sigh so piteous and profound As it did seem to shatter all his bulk And end his being."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either they must be dieted like mules And have their provender tied to their mouths, Or piteous they will look, like drowned mice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inciting pity; ; ; - galsworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Long stay’d he so, At last,—a little shaking of mine arm, And thrice his head thus waving up and down, He rais’d a sigh so piteous and profound As it did seem to shatter all his bulk And end his being."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either they must be dieted like mules And have their provender tied to their mouths, Or piteous they will look, like drowned mice."*

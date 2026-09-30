@@ -5,15 +5,6 @@ status: unread
 ---
 # lieutenant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned military officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer in a police force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who’s his lieutenant, hear you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned military officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer in a police force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who’s his lieutenant, hear you?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*

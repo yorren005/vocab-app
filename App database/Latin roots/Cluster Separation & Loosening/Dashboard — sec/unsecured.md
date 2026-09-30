@@ -5,13 +5,6 @@ status: unread
 ---
 # unsecured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly fastened or secured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without financial security.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To do that we'd have to use unsecured channels," Brad replied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly fastened or secured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without financial security.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To do that we'd have to use unsecured channels," Brad replied."*

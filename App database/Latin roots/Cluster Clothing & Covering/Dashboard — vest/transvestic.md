@@ -5,13 +5,6 @@ status: unread
 ---
 # transvestic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receiving sexual gratification from wearing clothing of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving sexual gratification from wearing clothing of the opposite sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transvestic designates receiving sexual gratification from wearing clothing of the opposite sex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Receiving sexual gratification from wearing clothing of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving sexual gratification from wearing clothing of the opposite sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transvestic designates receiving sexual gratification from wearing clothing of the opposite sex."*

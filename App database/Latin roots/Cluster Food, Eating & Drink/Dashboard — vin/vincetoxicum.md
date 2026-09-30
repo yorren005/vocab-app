@@ -5,13 +5,6 @@ status: unread
 ---
 # vincetoxicum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincetoxicum designates genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincetoxicum designates genus of chiefly tropical american vines having cordate leaves and large purple or greenish cymose flowers; supposedly having powers as an antidote."*

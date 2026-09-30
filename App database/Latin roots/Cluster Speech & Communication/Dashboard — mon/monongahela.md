@@ -5,14 +5,6 @@ status: unread
 ---
 # monongahela
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river that rises in northern west virginia and flows north into pennsylvania where it joins the allegheny river at pittsburgh to form the ohio river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river that rises in northern west virginia and flows north into pennsylvania where it joins the allegheny river at pittsburgh to form the ohio river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old Monongahela!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old Monongahela!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river that rises in northern west virginia and flows north into pennsylvania where it joins the allegheny river at pittsburgh to form the ohio river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river that rises in northern west virginia and flows north into pennsylvania where it joins the allegheny river at pittsburgh to form the ohio river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old Monongahela!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old Monongahela!"*

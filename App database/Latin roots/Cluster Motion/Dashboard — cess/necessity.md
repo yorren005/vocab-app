@@ -5,15 +5,6 @@ status: unread
 ---
 # necessity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being essential or indispensable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything indispensable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, queen: The strong necessity of time commands Our services awhile, but my full heart Remains in use with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you could not lack—I am certain on’t— Very necessity of this thought, that I, Your partner in the cause ’gainst which he fought, Could not with graceful eyes attend those wars Which fronted mine own peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being essential or indispensable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything indispensable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, queen: The strong necessity of time commands Our services awhile, but my full heart Remains in use with you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you could not lack—I am certain on’t— Very necessity of this thought, that I, Your partner in the cause ’gainst which he fought, Could not with graceful eyes attend those wars Which fronted mine own peace."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # entertainingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an entertaining manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an entertaining manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"He was here on a visit not long ago, young Beecher was, and he talked most entertainingly about his discoveries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an entertaining manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an entertaining manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"He was here on a visit not long ago, young Beecher was, and he talked most entertainingly about his discoveries."*

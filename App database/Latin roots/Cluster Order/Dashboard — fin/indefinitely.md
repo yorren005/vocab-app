@@ -5,15 +5,6 @@ status: unread
 ---
 # indefinitely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an indefinite extent; for an indefinite time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an indefinite extent; for an indefinite time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And Tess won’t look pretty in her best cloze no mo-o-ore!” Her mother chimed in to the same tune: a certain way she had of making her labours in the house seem heavier than they were by prolonging them indefinitely, also weighed in the argument."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Digging began usually at six o’clock and extended indefinitely into the dusk or moonlight."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an indefinite extent; for an indefinite time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an indefinite extent; for an indefinite time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And Tess won’t look pretty in her best cloze no mo-o-ore!” Her mother chimed in to the same tune: a certain way she had of making her labours in the house seem heavier than they were by prolonging them indefinitely, also weighed in the argument."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Digging began usually at six o’clock and extended indefinitely into the dusk or moonlight."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # factorise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resolve (a polynomial) into factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolve (a polynomial) into factors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factorise designates resolve (a polynomial) into factors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resolve (a polynomial) into factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolve (a polynomial) into factors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factorise designates resolve (a polynomial) into factors."*

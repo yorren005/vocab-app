@@ -5,15 +5,6 @@ status: unread
 ---
 # eminently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eminent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an eminent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is eminently respectable, and likewise, in a general way, retainer-like."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is eminently calculated for a mother-in-law."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “‘that’s a man I should like to have seen!’ It strikingly bespeaks the first-class man that Captain Swosser pre-eminently was."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eminent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an eminent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is eminently respectable, and likewise, in a general way, retainer-like."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She is eminently calculated for a mother-in-law."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “‘that’s a man I should like to have seen!’ It strikingly bespeaks the first-class man that Captain Swosser pre-eminently was."*

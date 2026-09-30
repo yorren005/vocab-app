@@ -5,15 +5,6 @@ status: unread
 ---
 # dismissal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment disposing of the matter without a trial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official notice that you have been fired from your job.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George takes his dismissal in great dudgeon, the greater because a clerk coming up the stairs has heard the last words of all and evidently applies them to him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No dismissal by a hasty letter affects that.” “I wish you did not feel so strongly about me,” she murmured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment disposing of the matter without a trial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official notice that you have been fired from your job.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George takes his dismissal in great dudgeon, the greater because a clerk coming up the stairs has heard the last words of all and evidently applies them to him."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No dismissal by a hasty letter affects that.” “I wish you did not feel so strongly about me,” she murmured."*

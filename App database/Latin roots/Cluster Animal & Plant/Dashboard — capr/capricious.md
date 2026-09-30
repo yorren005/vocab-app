@@ -5,15 +5,6 @@ status: unread
 ---
 # capricious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Changeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by chance or impulse or whim rather than by necessity or reason.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Too capricious and imperious in all she does to be the cause of much surprise in those about her as to anything she does, this woman, loosely muffled, goes out into the moonlight."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, no, Liddy; you must stay!” said Bathsheba, dropping from haughtiness to entreaty with capricious inconsequence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Changeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by chance or impulse or whim rather than by necessity or reason.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Too capricious and imperious in all she does to be the cause of much surprise in those about her as to anything she does, this woman, loosely muffled, goes out into the moonlight."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, no, Liddy; you must stay!” said Bathsheba, dropping from haughtiness to entreaty with capricious inconsequence."*

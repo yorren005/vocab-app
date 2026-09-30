@@ -5,13 +5,6 @@ status: unread
 ---
 # scolion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song (sometimes improvised) sung by guests at a banquet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song (sometimes improvised) sung by guests at a banquet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scolion designates a song (sometimes improvised) sung by guests at a banquet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A song (sometimes improvised) sung by guests at a banquet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song (sometimes improvised) sung by guests at a banquet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scolion designates a song (sometimes improvised) sung by guests at a banquet."*

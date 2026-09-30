@@ -5,15 +5,6 @@ status: unread
 ---
 # volcano
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain formed by volcanic material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and bolts along the passage as if he had an acceptable commission to carry the old gentleman to the nearest volcano."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Others may boast a partial flame, But thou art a volcano!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain formed by volcanic material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and bolts along the passage as if he had an acceptable commission to carry the old gentleman to the nearest volcano."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Others may boast a partial flame, But thou art a volcano!"*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unconfirmed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not finally established or settled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not finally established or settled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That shows thou art unconfirmed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory that this connection is based on the transference of the collective will of a people to certain historical personages is an hypothesis unconfirmed by the experience of history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not finally established or settled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not finally established or settled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That shows thou art unconfirmed."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory that this connection is based on the transference of the collective will of a people to certain historical personages is an hypothesis unconfirmed by the experience of history."*

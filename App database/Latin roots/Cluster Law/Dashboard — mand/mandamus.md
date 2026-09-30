@@ -5,13 +5,6 @@ status: unread
 ---
 # mandamus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandamus designates an extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandamus designates an extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail."*

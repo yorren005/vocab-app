@@ -5,13 +5,6 @@ status: unread
 ---
 # cannabis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers; yields tough fibers and narcotic drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most commonly used illicit drug; considered a soft drug, it consists of the dried leaves of the hemp plant; smoked or chewed for euphoric effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannabis designates any plant of the genus cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers; yields tough fibers and narcotic drugs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers; yields tough fibers and narcotic drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most commonly used illicit drug; considered a soft drug, it consists of the dried leaves of the hemp plant; smoked or chewed for euphoric effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannabis designates any plant of the genus cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers; yields tough fibers and narcotic drugs."*

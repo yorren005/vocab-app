@@ -5,15 +5,6 @@ status: unread
 ---
 # uncorrupted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) not having its purity or excellence debased; ; - van wyck brooks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decayed or decomposed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He proposed that the couple should take Tess’s own name, d’Urberville, as uncorrupted."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Augustine entered manhood's estate with the security of a kind heart, firm and uncorrupted judgment, with a vigorous and healthy soul; the wide world only was the limit of his boundless goodness."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Possessed of vitality enough to keep it uncorrupted and pliant, its only instinct was a blind hunger for the sole food which could keep its awful life persistent--living human blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) not having its purity or excellence debased; ; - van wyck brooks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decayed or decomposed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He proposed that the couple should take Tess’s own name, d’Urberville, as uncorrupted."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Augustine entered manhood's estate with the security of a kind heart, firm and uncorrupted judgment, with a vigorous and healthy soul; the wide world only was the limit of his boundless goodness."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Possessed of vitality enough to keep it uncorrupted and pliant, its only instinct was a blind hunger for the sole food which could keep its awful life persistent--living human blood."*

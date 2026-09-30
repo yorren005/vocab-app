@@ -5,13 +5,6 @@ status: unread
 ---
 # prefixation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formation of a word by means of a prefix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of a prefix.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefixation designates formation of a word by means of a prefix."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formation of a word by means of a prefix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of a prefix.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefixation designates formation of a word by means of a prefix."*

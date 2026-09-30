@@ -5,13 +5,6 @@ status: unread
 ---
 # valine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential amino acid found in proteins; important for growth in children and nitrogen balance in adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential amino acid found in proteins; important for growth in children and nitrogen balance in adults.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valine designates an essential amino acid found in proteins; important for growth in children and nitrogen balance in adults."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential amino acid found in proteins; important for growth in children and nitrogen balance in adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential amino acid found in proteins; important for growth in children and nitrogen balance in adults.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valine designates an essential amino acid found in proteins; important for growth in children and nitrogen balance in adults."*

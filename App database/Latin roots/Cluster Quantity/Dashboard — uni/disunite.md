@@ -5,15 +5,6 @@ status: unread
 ---
 # disunite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it was a strong composure a fool could disunite!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it was a strong composure a fool could disunite!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*

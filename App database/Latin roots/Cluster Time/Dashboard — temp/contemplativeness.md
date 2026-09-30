@@ -5,13 +5,6 @@ status: unread
 ---
 # contemplativeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep serious thoughtfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemplativeness designates deep serious thoughtfulness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep serious thoughtfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contemplativeness designates deep serious thoughtfulness."*

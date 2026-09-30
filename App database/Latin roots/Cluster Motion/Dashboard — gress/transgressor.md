@@ -5,15 +5,6 @@ status: unread
 ---
 # transgressor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transgresses; someone who violates a law or command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transgresses; someone who violates a law or command.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was beginning to realize that the way of the transgressor is hard."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Meagre, indeed, and cold, was the sympathy that a transgressor might look for, from such bystanders, at the scaffold."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And were any man to sit on a stone which the king has consecrated to his own use, the transgressor would die within the year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transgresses; someone who violates a law or command.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transgresses; someone who violates a law or command.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was beginning to realize that the way of the transgressor is hard."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Meagre, indeed, and cold, was the sympathy that a transgressor might look for, from such bystanders, at the scaffold."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And were any man to sit on a stone which the king has consecrated to his own use, the transgressor would die within the year."*

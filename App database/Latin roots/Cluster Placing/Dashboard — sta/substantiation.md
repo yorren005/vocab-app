@@ -5,14 +5,6 @@ status: unread
 ---
 # substantiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of validating; finding or testing the truth of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In substantiation of his theory he exhibits a specimen of a word cast as a unit for him by this process, roughly similar to a modern linotype slug."*
-> - 📜 **James Joyce (*Ulysses*):** *"How was a glyphic comparison of the phonic symbols of both languages made in substantiation of the oral comparison?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of validating; finding or testing the truth of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In substantiation of his theory he exhibits a specimen of a word cast as a unit for him by this process, roughly similar to a modern linotype slug."*
+> - 📜 **James Joyce (*Ulysses*):** *"How was a glyphic comparison of the phonic symbols of both languages made in substantiation of the oral comparison?"*

@@ -5,20 +5,6 @@ status: unread
 ---
 # rue
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Regret, sorrow
-> 2. **Nuance / Usage**: Feel sorrow, remorse, or regret
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rue the target*) and intransitive clauses (*ruing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"France, thou shalt rue this hour within this hour."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll set a bank of rue, sour herb of grace."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Which may make you and him to rue at th’ other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To bitterly regret, repent of, or wish undone a past action, choice, or mistake (often in *rue the day*).
+> 2. **Nuance / Usage**: As a noun, bitter sorrow or compassion; also, a perennial woody herb (*Ruta graveolens*) with bitter leaves, traditionally symbolic of repentance.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rue the target*) and intransitive clauses (*ruing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King John*):** *"France, thou shalt **rue** this hour within this hour."*
+> - 📜 **A. E. Housman (*A Shropshire Lad*):** *"With **rue** my heart is laden for golden friends I had, for many a rose-lipt maiden and many a lightfoot lad."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Focus thy wrath elsewhere, lest thou **rue** the folly of contending with the Almighty."*

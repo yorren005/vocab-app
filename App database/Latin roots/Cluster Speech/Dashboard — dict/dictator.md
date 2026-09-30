@@ -5,15 +5,6 @@ status: unread
 ---
 # dictator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker who dictates to a secretary or a recording machine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruler who is unconstrained by law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our then dictator, Whom with all praise I point at, saw him fight When with his Amazonian chin he drove The bristled lips before him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Very well, dictator!” said Ben, contemptuously."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yes, their supreme lord and dictator was there, though hitherto unseen by any eyes not permitted to penetrate into the now sacred retreat of the cabin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker who dictates to a secretary or a recording machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruler who is unconstrained by law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our then dictator, Whom with all praise I point at, saw him fight When with his Amazonian chin he drove The bristled lips before him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Very well, dictator!” said Ben, contemptuously."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yes, their supreme lord and dictator was there, though hitherto unseen by any eyes not permitted to penetrate into the now sacred retreat of the cabin."*

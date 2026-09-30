@@ -5,13 +5,6 @@ status: unread
 ---
 # subsidised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secure the assistance of by granting a subsidy, as of nations or military forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support through subsidies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Impervious to fear is Rory’s son: he of the prudent soul. —For the old woman of Prince’s street, says the citizen, the subsidised organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secure the assistance of by granting a subsidy, as of nations or military forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support through subsidies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Impervious to fear is Rory’s son: he of the prudent soul. —For the old woman of Prince’s street, says the citizen, the subsidised organ."*

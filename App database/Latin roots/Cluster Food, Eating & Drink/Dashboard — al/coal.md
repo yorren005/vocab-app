@@ -5,15 +5,6 @@ status: unread
 ---
 # coal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fossil fuel consisting of carbonized vegetable matter deposited in the carboniferous period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hot fragment of wood or coal that is left from a fire and is glowing or smoldering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are no surer, no, Than is the coal of fire upon the ice Or hailstone in the sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he could burn us all into one coal We have deserved it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His face is all bubukles, and whelks, and knobs, and flames o’ fire; and his lips blows at his nose, and it is like a coal of fire, sometimes plue and sometimes red; but his nose is executed, and his fire’s out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fossil fuel consisting of carbonized vegetable matter deposited in the carboniferous period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hot fragment of wood or coal that is left from a fire and is glowing or smoldering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are no surer, no, Than is the coal of fire upon the ice Or hailstone in the sun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he could burn us all into one coal We have deserved it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His face is all bubukles, and whelks, and knobs, and flames o’ fire; and his lips blows at his nose, and it is like a coal of fire, sometimes plue and sometimes red; but his nose is executed, and his fire’s out."*

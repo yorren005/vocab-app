@@ -5,15 +5,6 @@ status: unread
 ---
 # policyholder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds an insurance policy; usually, the client in whose name an insurance policy is written.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who holds an insurance policy; usually, the client in whose name an insurance policy is written.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The mutual company legally belongs to the policyholders."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the excess of income resulting, the company sets aside a surplus and then divides the rest among the policyholders."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A very large part of the premiums paid by the insured is retained by the companies.[8] In the case of reserve life insurance a considerable part of what is not returned is, however, set aside as reserve virtually held in trust for the policyholders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds an insurance policy; usually, the client in whose name an insurance policy is written.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who holds an insurance policy; usually, the client in whose name an insurance policy is written.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The mutual company legally belongs to the policyholders."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the excess of income resulting, the company sets aside a surplus and then divides the rest among the policyholders."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A very large part of the premiums paid by the insured is retained by the companies.[8] In the case of reserve life insurance a considerable part of what is not returned is, however, set aside as reserve virtually held in trust for the policyholders."*

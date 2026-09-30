@@ -5,15 +5,6 @@ status: unread
 ---
 # rhythm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered recurrent alternation of strong and weak elements in the flow of sound and silence in speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular example or form of rhythm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, just as I was growing accustomed to this rhythm, it was suddenly altered and I was given two days and nights straight."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered recurrent alternation of strong and weak elements in the flow of sound and silence in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular example or form of rhythm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, just as I was growing accustomed to this rhythm, it was suddenly altered and I was given two days and nights straight."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*

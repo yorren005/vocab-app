@@ -5,15 +5,6 @@ status: unread
 ---
 # inhabitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who inhabits a particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inhabits a particular place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is more litter and lumber in it than of old, and it is dirtier if possible; likewise, it is ghostly with traces of its dead inhabitant and even with his chalked writing on the wall."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for the space of two or three years, and then it was usually but a pauper, a poacher, or other sinner of undignified sins."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No inhabitant of the place saw us off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who inhabits a particular place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inhabits a particular place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is more litter and lumber in it than of old, and it is dirtier if possible; likewise, it is ghostly with traces of its dead inhabitant and even with his chalked writing on the wall."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for the space of two or three years, and then it was usually but a pauper, a poacher, or other sinner of undignified sins."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No inhabitant of the place saw us off."*

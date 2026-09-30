@@ -5,13 +5,6 @@ status: unread
 ---
 # endometrium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometrium designates (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometrium designates (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sidearm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of pitches) made with the arm moving parallel to the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sidearm manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He slipped the sidearm into the sheath at his waist and scanned the monitors displaying his areas of jurisdiction."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad drew his sidearm, checked the safety and set it on the counter."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The owner picked up the sidearm, rechecked the safety and the setting, and slipped it back into its sheath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of pitches) made with the arm moving parallel to the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sidearm manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He slipped the sidearm into the sheath at his waist and scanned the monitors displaying his areas of jurisdiction."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad drew his sidearm, checked the safety and set it on the counter."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The owner picked up the sidearm, rechecked the safety and the setting, and slipped it back into its sheath."*

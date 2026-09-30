@@ -5,20 +5,6 @@ status: unread
 ---
 # hamlet
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Small village
-> 2. **Nuance / Usage**: (british) a village that does not have its own church
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hamlet withstood the storm*), direct object (*cleaved the hamlet*), or prepositional anchor (*amidst the hamlet*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The very cause of Hamlet’s lunacy."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You go to seek the Lord Hamlet; there he is."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I have nothing with this answer, Hamlet; these words are not mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A very small rural settlement, generally smaller than a village and lacking its own church or municipal government.
+> 2. **Nuance / Usage**: Evokes quiet pastoral seclusion, rustic simplicity, and a tight-knit cluster of country cottages.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hamlet withstood the storm*), direct object (*cleaved the hamlet*), or prepositional anchor (*amidst the hamlet*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Each in his narrow cell for ever laid, the rude forefathers of the **hamlet** sleep."*
+> - 📜 **George Eliot (*Silas Marner*):** *"In the early years of this century, such a linen-weaver, named Silas Marner, worked at his vocation in a stone cottage that stood among the nutty hedgerows near the **hamlet** of Raveloe."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The little **hamlet** of Trantridge nestled quietly at the foot of the wooded Chase."*

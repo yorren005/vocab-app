@@ -5,15 +5,6 @@ status: unread
 ---
 # connubial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to marriage or to the relationship between a wife and husband.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conjugal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inspire the highly-favour’d youth The destinies intend her: Still fan the sweet connubial flame Responsive in each bosom; And bless the dear parental name With many a filial blossom."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tho’ when some kind connubial dear Your but—and—ben adorns, The like has been that you may wear A noble head of horns."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But no such happy marriage could now teach the admiring multitude what connubial felicity really was."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to marriage or to the relationship between a wife and husband.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conjugal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inspire the highly-favour’d youth The destinies intend her: Still fan the sweet connubial flame Responsive in each bosom; And bless the dear parental name With many a filial blossom."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tho’ when some kind connubial dear Your but—and—ben adorns, The like has been that you may wear A noble head of horns."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But no such happy marriage could now teach the admiring multitude what connubial felicity really was."*

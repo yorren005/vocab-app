@@ -5,15 +5,6 @@ status: unread
 ---
 # fund
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reserve of money set aside for some purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supply of something available for future use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon that, he shut himself up for a few weeks with some books and some bones and seemed to acquire a considerable fund of information with great rapidity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, you have a fund of knowledge and good sense and can advise me.” Miss Flite, mighty proud of the compliment, sets herself to consider; but it is long before a bright thought occurs to her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’m thinking of sending round to all the old antiqueerians in this part of England,” he said, “asking them to subscribe to a fund to maintain me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reserve of money set aside for some purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supply of something available for future use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Upon that, he shut himself up for a few weeks with some books and some bones and seemed to acquire a considerable fund of information with great rapidity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, you have a fund of knowledge and good sense and can advise me.” Miss Flite, mighty proud of the compliment, sets herself to consider; but it is long before a bright thought occurs to her."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’m thinking of sending round to all the old antiqueerians in this part of England,” he said, “asking them to subscribe to a fund to maintain me."*

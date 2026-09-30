@@ -5,15 +5,6 @@ status: unread
 ---
 # hydrostatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For this purpose there is first of all a "hydrostatic valve." This little appliance, which is open to the action of the water, responds to changes in pressure."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So the hydrostatic valve is adjusted to set the rudders straight when the water-pressure upon it is a certain amount."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One is by the use of a hydrostatic valve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For this purpose there is first of all a "hydrostatic valve." This little appliance, which is open to the action of the water, responds to changes in pressure."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So the hydrostatic valve is adjusted to set the rudders straight when the water-pressure upon it is a certain amount."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One is by the use of a hydrostatic valve."*

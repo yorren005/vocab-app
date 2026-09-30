@@ -5,15 +5,6 @@ status: unread
 ---
 # tenacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly unyielding; ; ; ; - t.s.eliot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How long were you there?” “Eight years.” “Eight years! you must be tenacious of life."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While earnestly wishing to erase from his mind the trace of my former offence, I had stamped on that tenacious surface another and far deeper impression: I had burnt it in."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Her affections were not acute, nor was her mind tenacious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly unyielding; ; ; ; - t.s.eliot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How long were you there?” “Eight years.” “Eight years! you must be tenacious of life."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While earnestly wishing to erase from his mind the trace of my former offence, I had stamped on that tenacious surface another and far deeper impression: I had burnt it in."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her affections were not acute, nor was her mind tenacious."*

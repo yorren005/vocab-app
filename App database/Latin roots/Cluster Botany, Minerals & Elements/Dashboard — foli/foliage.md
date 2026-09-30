@@ -5,15 +5,6 @@ status: unread
 ---
 # foliage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main organ of photosynthesis and transpiration in higher plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) leaf-like architectural ornament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here and there a weak little iron hoop, through which bold boys aspire to throw their friends’ caps (its only present use), retains its place among the rusty foliage, sacred to the memory of departed oil."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the recesses of this knot of foliage the loud notes of three cuckoos were resounding through the still air."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By reason of the density of the interwoven foliage overhead, it was gloomy there at cloudless noontide, twilight in the evening, dark as midnight at dusk, and black as the ninth plague of Egypt at midnight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The main organ of photosynthesis and transpiration in higher plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) leaf-like architectural ornament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here and there a weak little iron hoop, through which bold boys aspire to throw their friends’ caps (its only present use), retains its place among the rusty foliage, sacred to the memory of departed oil."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the recesses of this knot of foliage the loud notes of three cuckoos were resounding through the still air."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By reason of the density of the interwoven foliage overhead, it was gloomy there at cloudless noontide, twilight in the evening, dark as midnight at dusk, and black as the ninth plague of Egypt at midnight."*

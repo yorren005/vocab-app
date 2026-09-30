@@ -5,13 +5,6 @@ status: unread
 ---
 # sardonyx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An onyx having parallel layers of sard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An onyx having parallel layers of sard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"A good vassal has held you this long time; Never shall France the Free behold his like." CLXXII Rollant hath struck the sardonyx terrace; The steel cries out, but broken is no ways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An onyx having parallel layers of sard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An onyx having parallel layers of sard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Song of Roland*):** *"A good vassal has held you this long time; Never shall France the Free behold his like." CLXXII Rollant hath struck the sardonyx terrace; The steel cries out, but broken is no ways."*

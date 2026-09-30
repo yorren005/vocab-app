@@ -5,13 +5,6 @@ status: unread
 ---
 # tenner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states bill worth 10 dollars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I first appear, though rude and raw and muddy, To speak before thy noble grace this tenner, At whose great feet I offer up my penner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states bill worth 10 dollars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I first appear, though rude and raw and muddy, To speak before thy noble grace this tenner, At whose great feet I offer up my penner."*

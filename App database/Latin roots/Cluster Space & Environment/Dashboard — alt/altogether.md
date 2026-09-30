@@ -5,15 +5,6 @@ status: unread
 ---
 # altogether
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for nakedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I perceive by this demand, you are not altogether of his council."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en a crow o’ the same nest; not altogether so great as the first in goodness, but greater a great deal in evil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search and altogether against my will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for nakedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I perceive by this demand, you are not altogether of his council."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en a crow o’ the same nest; not altogether so great as the first in goodness, but greater a great deal in evil."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search and altogether against my will."*

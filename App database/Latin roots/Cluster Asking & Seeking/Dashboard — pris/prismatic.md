@@ -5,15 +5,6 @@ status: unread
 ---
 # prismatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling or constituting a prism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting spectral colors formed by refraction of light through a prism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The huge pool of blood in front of her was already assuming the iridescence of coagulation; and when the sun rose a hundred prismatic hues were reflected from it."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The leaf, in one particular stage, when nearly all the prismatic colours are blended on its surface, is often converted by the natives into a superb and striking head-dress."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This phenomenon consists in the production of cylindrical tubes, more or less elongated, from the upper extremity (rarely from the base) of the prismatic spores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling or constituting a prism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting spectral colors formed by refraction of light through a prism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The huge pool of blood in front of her was already assuming the iridescence of coagulation; and when the sun rose a hundred prismatic hues were reflected from it."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The leaf, in one particular stage, when nearly all the prismatic colours are blended on its surface, is often converted by the natives into a superb and striking head-dress."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This phenomenon consists in the production of cylindrical tubes, more or less elongated, from the upper extremity (rarely from the base) of the prismatic spores."*

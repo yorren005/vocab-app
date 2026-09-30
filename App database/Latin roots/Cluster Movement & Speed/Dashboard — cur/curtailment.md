@@ -5,15 +5,6 @@ status: unread
 ---
 # curtailment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporal property of being cut short.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withholding or withdrawing some book or writing from publication or circulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"But, perhaps, such a sacrifice as the curtailment of your education will not be required of you.” “But, my DEAR!” gasped Nan."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She insisted on that, and urged the curtailment of the weekly expense by having Mrs."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Regarding the American output, the marked movement for curtailment in Montana has reduced the output of that State to such an extent, that the position it gained in 1909, of being the greatest producing State once more reverts to Arizona."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporal property of being cut short.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withholding or withdrawing some book or writing from publication or circulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"But, perhaps, such a sacrifice as the curtailment of your education will not be required of you.” “But, my DEAR!” gasped Nan."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She insisted on that, and urged the curtailment of the weekly expense by having Mrs."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Regarding the American output, the marked movement for curtailment in Montana has reduced the output of that State to such an extent, that the position it gained in 1909, of being the greatest producing State once more reverts to Arizona."*

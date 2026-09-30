@@ -5,13 +5,6 @@ status: unread
 ---
 # transposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormal position of the organs of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event in which one thing is substituted for another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Well, I recall perfectly how little, in my now quite established connexion, the maximum of ease appealed to me, and how I seemed to get rid of it by an honest transposition of the weights in the two scales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormal position of the organs of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event in which one thing is substituted for another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Well, I recall perfectly how little, in my now quite established connexion, the maximum of ease appealed to me, and how I seemed to get rid of it by an honest transposition of the weights in the two scales."*

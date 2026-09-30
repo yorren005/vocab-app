@@ -5,13 +5,6 @@ status: unread
 ---
 # orgasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense or paroxysmal excitement; especially : the rapid pleasurable release of neuromuscular tensions at the height of sexual arousal that is usually accompanied by the ejaculation of semen in the male and by vaginal contractions in the female.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To experience orgasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orgasm designates intense or paroxysmal excitement; especially : the rapid pleasurable release of neuromuscular tensions at the height of sexual arousal that is usually accompanied by the ejaculation of semen in the male and by vaginal contractions in the female."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense or paroxysmal excitement; especially : the rapid pleasurable release of neuromuscular tensions at the height of sexual arousal that is usually accompanied by the ejaculation of semen in the male and by vaginal contractions in the female.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To experience orgasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orgasm designates intense or paroxysmal excitement; especially : the rapid pleasurable release of neuromuscular tensions at the height of sexual arousal that is usually accompanied by the ejaculation of semen in the male and by vaginal contractions in the female."*

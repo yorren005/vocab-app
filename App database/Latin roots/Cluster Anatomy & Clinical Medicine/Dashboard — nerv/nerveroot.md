@@ -5,13 +5,6 @@ status: unread
 ---
 # nerveroot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Once common rose pink woodland orchid of eastern north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Once common rose pink woodland orchid of eastern north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nerveroot designates once common rose pink woodland orchid of eastern north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Once common rose pink woodland orchid of eastern north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Once common rose pink woodland orchid of eastern north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nerveroot designates once common rose pink woodland orchid of eastern north america."*

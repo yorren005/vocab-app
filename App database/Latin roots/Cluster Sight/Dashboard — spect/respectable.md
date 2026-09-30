@@ -5,15 +5,6 @@ status: unread
 ---
 # respectable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by socially or conventionally acceptable morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of esteem and respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His family is as old as the hills, and infinitely more respectable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is eminently respectable, and likewise, in a general way, retainer-like."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among them was one, in the same writing, having nothing to do with the business of the shop, but announcing that a respectable man aged forty-five wanted engrossing or copying to execute with neatness and dispatch: Address to Nemo, care of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by socially or conventionally acceptable morals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of esteem and respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His family is as old as the hills, and infinitely more respectable."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is eminently respectable, and likewise, in a general way, retainer-like."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Among them was one, in the same writing, having nothing to do with the business of the shop, but announcing that a respectable man aged forty-five wanted engrossing or copying to execute with neatness and dispatch: Address to Nemo, care of Mr."*

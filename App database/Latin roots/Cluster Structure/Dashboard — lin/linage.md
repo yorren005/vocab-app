@@ -5,13 +5,6 @@ status: unread
 ---
 # linage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of lines in a piece of printed material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate of payment for written material that is measured according to the number of lines submitted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linage designates the number of lines in a piece of printed material."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of lines in a piece of printed material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate of payment for written material that is measured according to the number of lines submitted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linage designates the number of lines in a piece of printed material."*

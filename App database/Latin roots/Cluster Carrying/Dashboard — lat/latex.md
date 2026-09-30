@@ -5,13 +5,6 @@ status: unread
 ---
 # latex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milky exudate from certain plants that coagulates on exposure to air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A water-base paint that has a latex binder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latex designates a milky exudate from certain plants that coagulates on exposure to air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A milky exudate from certain plants that coagulates on exposure to air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A water-base paint that has a latex binder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latex designates a milky exudate from certain plants that coagulates on exposure to air."*

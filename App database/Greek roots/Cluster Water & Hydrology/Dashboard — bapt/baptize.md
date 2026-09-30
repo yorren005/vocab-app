@@ -5,15 +5,6 @@ status: unread
 ---
 # baptize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To administer baptism to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To purify or cleanse spiritually especially by a purging experience or ordeal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For Christ sent me not to baptize, but to preach the gospel. - PAUL."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins had held services in the camp, and the logger requested him to baptize their baby when he next visited them."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"He is the baptizing element administered by Christ the Divine Baptizer: "He shall baptize you with the Holy Ghost." FIRE!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To administer baptism to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To purify or cleanse spiritually especially by a purging experience or ordeal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For Christ sent me not to baptize, but to preach the gospel. - PAUL."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins had held services in the camp, and the logger requested him to baptize their baby when he next visited them."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"He is the baptizing element administered by Christ the Divine Baptizer: "He shall baptize you with the Holy Ghost." FIRE!"*

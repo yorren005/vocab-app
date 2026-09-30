@@ -5,15 +5,6 @@ status: unread
 ---
 # maneuver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military training exercise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plan for attaining a particular goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even in the light pseudo-gravity, Scarf's bulk was hard to maneuver."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The maneuver was extremely complex, but within minutes the ships had come about in a ragged formation to face their oncoming allies."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Where's that jug?" But this time an unforeseen interruption prevented the maneuver from being the success it had been before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military training exercise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plan for attaining a particular goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even in the light pseudo-gravity, Scarf's bulk was hard to maneuver."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The maneuver was extremely complex, but within minutes the ships had come about in a ragged formation to face their oncoming allies."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Where's that jug?" But this time an unforeseen interruption prevented the maneuver from being the success it had been before."*

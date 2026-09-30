@@ -5,15 +5,6 @@ status: unread
 ---
 # engraving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made from an engraving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A block or plate or other hard surface that has been engraved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every hedge, bush, and tree was distinct as in a line engraving."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There were no other pictures, except an engraving of "The Light of the World," given her by Val, who admired it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Poor young Plymdale had lingered with admiration over this very engraving, and his spirit was stirred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made from an engraving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A block or plate or other hard surface that has been engraved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every hedge, bush, and tree was distinct as in a line engraving."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There were no other pictures, except an engraving of "The Light of the World," given her by Val, who admired it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Poor young Plymdale had lingered with admiration over this very engraving, and his spirit was stirred."*

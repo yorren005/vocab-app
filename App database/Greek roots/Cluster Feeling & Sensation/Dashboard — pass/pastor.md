@@ -5,15 +5,6 @@ status: unread
 ---
 # pastor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only the rose-colored starlings; in some classifications considered a separate genus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Cleaveland, of Boston, relates the following incident: "In a revival of religion in the church of which he was pastor, he was visited one morning by a member of his church, a widow, whose only son was a sailor."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The pastor had learned a lesson he never forgot."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He arose at the first dawn of day, and going to his own pastor inquired the name and address of the stranger who had recently preached for them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only the rose-colored starlings; in some classifications considered a separate genus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Cleaveland, of Boston, relates the following incident: "In a revival of religion in the church of which he was pastor, he was visited one morning by a member of his church, a widow, whose only son was a sailor."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The pastor had learned a lesson he never forgot."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He arose at the first dawn of day, and going to his own pastor inquired the name and address of the stranger who had recently preached for them."*

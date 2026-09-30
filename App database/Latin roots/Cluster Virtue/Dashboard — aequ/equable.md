@@ -5,15 +5,6 @@ status: unread
 ---
 # equable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not varying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily irritated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The equable manner in which Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes,” explains the client, somewhat abashed, “I had no intention to accuse you of insensibility.” “I think you had, sir, without knowing it,” returns the equable Vholes."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not varying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily irritated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The equable manner in which Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes,” explains the client, somewhat abashed, “I had no intention to accuse you of insensibility.” “I think you had, sir, without knowing it,” returns the equable Vholes."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*

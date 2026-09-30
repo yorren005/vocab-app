@@ -5,15 +5,6 @@ status: unread
 ---
 # interlocutor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The performer in the middle of a minstrel line who engages the others in talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes part in a conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s attention was thus attracted to the dairyman’s interlocutor, of whom she could see but the merest patch, owing to his burying his head so persistently in the flank of the milcher."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mobile and flexible, it was never intended to be compressed in the eternal silence of solitude: it is a mouth which should speak much and smile often, and have human affection for its interlocutor."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, I liked him: but you asked me that before.” I perceived, of course, the drift of my interlocutor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performer in the middle of a minstrel line who engages the others in talk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes part in a conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s attention was thus attracted to the dairyman’s interlocutor, of whom she could see but the merest patch, owing to his burying his head so persistently in the flank of the milcher."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mobile and flexible, it was never intended to be compressed in the eternal silence of solitude: it is a mouth which should speak much and smile often, and have human affection for its interlocutor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, I liked him: but you asked me that before.” I perceived, of course, the drift of my interlocutor."*

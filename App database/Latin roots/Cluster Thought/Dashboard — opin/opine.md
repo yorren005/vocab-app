@@ -5,15 +5,6 @@ status: unread
 ---
 # opine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's opinion openly and without fear or hesitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expect, believe, or suppose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When, as I opine, in the course of time, the true nature of spermaceti became known, its original name was still retained by the dealers; no doubt to enhance its value by a notion so strangely significant of its scarcity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I opine, that it is plainly traceable to the first arrival of the Greenland whaling ships in London, more than two centuries ago."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When, as I opine, in the course of time, the true nature of spermaceti became known, its original name was still retained by the dealers; no doubt to enhance its value by a notion so strangely significant of its scarcity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's opinion openly and without fear or hesitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expect, believe, or suppose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When, as I opine, in the course of time, the true nature of spermaceti became known, its original name was still retained by the dealers; no doubt to enhance its value by a notion so strangely significant of its scarcity."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I opine, that it is plainly traceable to the first arrival of the Greenland whaling ships in London, more than two centuries ago."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When, as I opine, in the course of time, the true nature of spermaceti became known, its original name was still retained by the dealers; no doubt to enhance its value by a notion so strangely significant of its scarcity."*

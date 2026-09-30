@@ -5,13 +5,6 @@ status: unread
 ---
 # melissophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense fear or dislike of bees : apiphobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense fear or dislike of bees : apiphobia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melissophobia designates intense fear or dislike of bees : apiphobia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense fear or dislike of bees : apiphobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense fear or dislike of bees : apiphobia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melissophobia designates intense fear or dislike of bees : apiphobia."*

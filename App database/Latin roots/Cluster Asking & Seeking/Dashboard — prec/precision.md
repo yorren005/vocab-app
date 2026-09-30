@@ -5,15 +5,6 @@ status: unread
 ---
 # precision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being reproducible in amount or performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reproducible in amount or performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The smaller of its hands, too, occasionally slipped round on the pivot, and thus, though the minutes were told with precision, nobody could be quite certain of the hour they belonged to."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The river would have been seen by day to be of that deep smooth sort which races middle and sides with the same gliding precision, any irregularities of speed being immediately corrected by a small whirlpool."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was not a sound of life save that acme and sublimation of all dismal sounds, the bark of a fox, its three hollow notes being rendered at intervals of a minute with the precision of a funeral bell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being reproducible in amount or performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reproducible in amount or performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The smaller of its hands, too, occasionally slipped round on the pivot, and thus, though the minutes were told with precision, nobody could be quite certain of the hour they belonged to."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The river would have been seen by day to be of that deep smooth sort which races middle and sides with the same gliding precision, any irregularities of speed being immediately corrected by a small whirlpool."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was not a sound of life save that acme and sublimation of all dismal sounds, the bark of a fox, its three hollow notes being rendered at intervals of a minute with the precision of a funeral bell."*

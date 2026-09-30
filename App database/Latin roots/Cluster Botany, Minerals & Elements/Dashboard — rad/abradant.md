@@ -5,13 +5,6 @@ status: unread
 ---
 # abradant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that abrades or wears down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tool or machine used for wearing down or smoothing or polishing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abradant designates a substance that abrades or wears down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that abrades or wears down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tool or machine used for wearing down or smoothing or polishing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abradant designates a substance that abrades or wears down."*

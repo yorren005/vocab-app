@@ -5,15 +5,6 @@ status: unread
 ---
 # barrel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tube through which a bullet travels when a gun is fired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cylindrical container that holds liquids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexander died, Alexander was buried, Alexander returneth into dust; the dust is earth; of earth we make loam; and why of that loam whereto he was converted might they not stop a beer-barrel?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"And Bruno always is like a loaded gun-barrel, just a little spark and he is on fire and explodes." "It is time to go in," said the mother now, taking the two youngest by the hand."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he is like a scrubbed out gun-barrel, all clean and polished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tube through which a bullet travels when a gun is fired.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cylindrical container that holds liquids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexander died, Alexander was buried, Alexander returneth into dust; the dust is earth; of earth we make loam; and why of that loam whereto he was converted might they not stop a beer-barrel?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"And Bruno always is like a loaded gun-barrel, just a little spark and he is on fire and explodes." "It is time to go in," said the mother now, taking the two youngest by the hand."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he is like a scrubbed out gun-barrel, all clean and polished."*

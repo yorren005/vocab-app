@@ -5,13 +5,6 @@ status: unread
 ---
 # demography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The statistical study of human populations especially with reference to size and density, distribution, and vital statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statistical study of human populations especially with reference to size and density, distribution, and vital statistics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demography designates the statistical study of human populations especially with reference to size and density, distribution, and vital statistics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The statistical study of human populations especially with reference to size and density, distribution, and vital statistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statistical study of human populations especially with reference to size and density, distribution, and vital statistics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demography designates the statistical study of human populations especially with reference to size and density, distribution, and vital statistics."*

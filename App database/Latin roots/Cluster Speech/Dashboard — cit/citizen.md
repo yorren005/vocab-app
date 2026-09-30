@@ -5,15 +5,6 @@ status: unread
 ---
 # citizen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or naturalized member of a state or other political community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or naturalized member of a state or other political community.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The belly answered— FIRST CITIZEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though that all at once, You, my good friends”—this says the belly, mark me— FIRST CITIZEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider further, That when he speaks not like a citizen, You find him like a soldier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or naturalized member of a state or other political community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or naturalized member of a state or other political community.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The belly answered— FIRST CITIZEN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though that all at once, You, my good friends”—this says the belly, mark me— FIRST CITIZEN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider further, That when he speaks not like a citizen, You find him like a soldier."*

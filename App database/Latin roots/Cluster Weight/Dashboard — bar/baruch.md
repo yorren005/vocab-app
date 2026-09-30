@@ -5,14 +5,6 @@ status: unread
 ---
 # baruch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Economic advisor to united states presidents (1870-1965).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disciple of and secretary for the prophet jeremiah.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*
-> - 📜 **James Joyce (*Ulysses*):** *"Felix Bartholdy Mendelssohn (composer), Baruch Spinoza (philosopher), Mendoza (pugilist), Ferdinand Lassalle (reformer, duellist)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Economic advisor to united states presidents (1870-1965).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disciple of and secretary for the prophet jeremiah.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*
+> - 📜 **James Joyce (*Ulysses*):** *"Felix Bartholdy Mendelssohn (composer), Baruch Spinoza (philosopher), Mendoza (pugilist), Ferdinand Lassalle (reformer, duellist)."*

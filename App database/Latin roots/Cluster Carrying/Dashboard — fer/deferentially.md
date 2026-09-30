@@ -5,15 +5,6 @@ status: unread
 ---
 # deferentially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a servile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a respectfully deferential manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, walking deferentially in the road and leaving the narrow pavement to the lawyer; “and the party is very rough."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"These ladies were deferentially received by Miss Temple, as Mrs. and the Misses Brocklehurst, and conducted to seats of honour at the top of the room."*
-> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary it seemed to Dorothea that Will had a happier way of drawing her husband into conversation and of deferentially listening to him than she had ever observed in any one before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a servile manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a respectfully deferential manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, walking deferentially in the road and leaving the narrow pavement to the lawyer; “and the party is very rough."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"These ladies were deferentially received by Miss Temple, as Mrs. and the Misses Brocklehurst, and conducted to seats of honour at the top of the room."*
+> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary it seemed to Dorothea that Will had a happier way of drawing her husband into conversation and of deferentially listening to him than she had ever observed in any one before."*

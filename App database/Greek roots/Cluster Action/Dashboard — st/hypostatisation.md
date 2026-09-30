@@ -5,13 +5,6 @@ status: unread
 ---
 # hypostatisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarding something abstract as a material thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarding something abstract as a material thing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatisation designates regarding something abstract as a material thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarding something abstract as a material thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarding something abstract as a material thing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatisation designates regarding something abstract as a material thing."*

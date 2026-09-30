@@ -5,13 +5,6 @@ status: unread
 ---
 # athanasianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine taught by athanasius that christ the son is of the same substance as god the father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine taught by athanasius that christ the son is of the same substance as god the father.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athanasianism designates the theological doctrine taught by athanasius that christ the son is of the same substance as god the father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine taught by athanasius that christ the son is of the same substance as god the father.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine taught by athanasius that christ the son is of the same substance as god the father.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athanasianism designates the theological doctrine taught by athanasius that christ the son is of the same substance as god the father."*

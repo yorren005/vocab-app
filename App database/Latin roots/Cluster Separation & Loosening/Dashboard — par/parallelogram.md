@@ -5,15 +5,6 @@ status: unread
 ---
 # parallelogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadrilateral whose opposite sides are both parallel and equal in length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quadrilateral whose opposite sides are both parallel and equal in length.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was life size and stretched across the white parallelogram of a door, half across the wall space on which the picture hung."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In its general outline, this castle forms a parallelogram, with a round tower at each angle, and a square ‘keep’ standing in the south-west part of the enclosed area."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The servants cut our bread into cones, cylinders, parallelograms, and several other mathematical figures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadrilateral whose opposite sides are both parallel and equal in length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quadrilateral whose opposite sides are both parallel and equal in length.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was life size and stretched across the white parallelogram of a door, half across the wall space on which the picture hung."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In its general outline, this castle forms a parallelogram, with a round tower at each angle, and a square ‘keep’ standing in the south-west part of the enclosed area."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The servants cut our bread into cones, cylinders, parallelograms, and several other mathematical figures."*

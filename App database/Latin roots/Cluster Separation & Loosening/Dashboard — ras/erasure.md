@@ -5,15 +5,6 @@ status: unread
 ---
 # erasure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A correction made by erasing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface area where something has been erased.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is to be presented fairly written, without any erasure or interlineation, or the Speaker may refuse it. _Scob._, 41; _1 Grey_, 82, 84."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This is the proper stage for filling up blanks; for if filled up before, and now altered by erasure, it would be peculiarly unsafe."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As a result of this habit, the vocabularies of the missionaries teemed with erasures, old words having constantly to be struck out as obsolete and new ones inserted in their place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A correction made by erasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface area where something has been erased.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is to be presented fairly written, without any erasure or interlineation, or the Speaker may refuse it. _Scob._, 41; _1 Grey_, 82, 84."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This is the proper stage for filling up blanks; for if filled up before, and now altered by erasure, it would be peculiarly unsafe."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As a result of this habit, the vocabularies of the missionaries teemed with erasures, old words having constantly to be struck out as obsolete and new ones inserted in their place."*

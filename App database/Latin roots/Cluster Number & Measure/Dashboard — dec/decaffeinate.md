@@ -5,13 +5,6 @@ status: unread
 ---
 # decaffeinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove caffeine from (coffee).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove caffeine from (coffee).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decaffeinate designates remove caffeine from (coffee)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove caffeine from (coffee).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove caffeine from (coffee).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decaffeinate designates remove caffeine from (coffee)."*

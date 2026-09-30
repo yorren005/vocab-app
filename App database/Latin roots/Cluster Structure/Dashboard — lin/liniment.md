@@ -5,15 +5,6 @@ status: unread
 ---
 # liniment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Sitting on a wagon tongue, and applying liniment to an abraded shin, might have been seen Pythagoras, M."*
-> - 📜 **James Joyce (*Ulysses*):** *"A redhot crowbar and some liniment rubbing on the burning part produced Fritz of Amsterdam, the thinking hyena. _(He glares.)_ I possess the Indian sign."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have used many liniments and remedies, but with no permanently good result."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Sitting on a wagon tongue, and applying liniment to an abraded shin, might have been seen Pythagoras, M."*
+> - 📜 **James Joyce (*Ulysses*):** *"A redhot crowbar and some liniment rubbing on the burning part produced Fritz of Amsterdam, the thinking hyena. _(He glares.)_ I possess the Indian sign."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I have used many liniments and remedies, but with no permanently good result."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # psilocybin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hallucinogenic indole C12H17N2O4P obtained from a fungus (such as Psilocybe mexicana or P. cubensis synonym Stropharia cubensis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hallucinogenic indole C12H17N2O4P obtained from a fungus (such as Psilocybe mexicana or P. cubensis synonym Stropharia cubensis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilocybin designates a hallucinogenic indole c12h17n2o4p obtained from a fungus (such as psilocybe mexicana or p. cubensis synonym stropharia cubensis)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hallucinogenic indole C12H17N2O4P obtained from a fungus (such as Psilocybe mexicana or P. cubensis synonym Stropharia cubensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hallucinogenic indole C12H17N2O4P obtained from a fungus (such as Psilocybe mexicana or P. cubensis synonym Stropharia cubensis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilocybin designates a hallucinogenic indole c12h17n2o4p obtained from a fungus (such as psilocybe mexicana or p. cubensis synonym stropharia cubensis)."*

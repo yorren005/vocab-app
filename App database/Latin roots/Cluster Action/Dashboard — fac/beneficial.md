@@ -5,15 +5,6 @@ status: unread
 ---
 # beneficial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or enhancing well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting or enhancing well-being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, merchant, I’ll limit thee this day To seek thy health by beneficial help."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wonder That such a keech can with his very bulk Take up the rays o’ th’ beneficial sun And keep it from the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For besides these beneficial news, it is the celebration of his nuptial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or enhancing well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting or enhancing well-being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, merchant, I’ll limit thee this day To seek thy health by beneficial help."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wonder That such a keech can with his very bulk Take up the rays o’ th’ beneficial sun And keep it from the earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For besides these beneficial news, it is the celebration of his nuptial."*

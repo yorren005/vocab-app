@@ -5,15 +5,6 @@ status: unread
 ---
 # alligator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leather made from alligator's hide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two amphibious reptiles related to crocodiles but with shorter broader snouts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Circus Adventure A favorite setting for a children's story is the circus, and following an alligator that sneaks about the grounds searching for an adventure offers the listener a sense of involvement."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Abercrombie, the alligator, wants to visit the circus."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Quickly, he climbs over a large red and white striped box, slips around a corner and, fast as an alligator can, he wiggles up, over the side and into an orange-colored barrel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leather made from alligator's hide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two amphibious reptiles related to crocodiles but with shorter broader snouts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Circus Adventure A favorite setting for a children's story is the circus, and following an alligator that sneaks about the grounds searching for an adventure offers the listener a sense of involvement."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Abercrombie, the alligator, wants to visit the circus."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Quickly, he climbs over a large red and white striped box, slips around a corner and, fast as an alligator can, he wiggles up, over the side and into an orange-colored barrel."*

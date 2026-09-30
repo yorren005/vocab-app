@@ -5,13 +5,6 @@ status: unread
 ---
 # haematocoele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocoele designates swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocoele designates swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis)."*

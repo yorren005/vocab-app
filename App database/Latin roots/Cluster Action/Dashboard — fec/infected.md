@@ -5,15 +5,6 @@ status: unread
 ---
 # infected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate a disease to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contaminate with a disease or microorganism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To speak my mind, and I will through and through Cleanse the foul body of th’ infected world, If they will patiently receive my medicine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am returned your soldier, No more infected with my country’s love Than when I parted hence, but still subsisting Under your great command."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Briefly to this end: we are all diseased, And with our surfeiting and wanton hours Have brought ourselves into a burning fever, And we must bleed for it; of which disease Our late King Richard, being infected, died."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate a disease to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contaminate with a disease or microorganism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To speak my mind, and I will through and through Cleanse the foul body of th’ infected world, If they will patiently receive my medicine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am returned your soldier, No more infected with my country’s love Than when I parted hence, but still subsisting Under your great command."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Briefly to this end: we are all diseased, And with our surfeiting and wanton hours Have brought ourselves into a burning fever, And we must bleed for it; of which disease Our late King Richard, being infected, died."*

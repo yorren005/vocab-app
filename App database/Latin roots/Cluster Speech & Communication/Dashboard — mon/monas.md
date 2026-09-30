@@ -5,14 +5,6 @@ status: unread
 ---
 # monas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A singular metaphysical entity from which material properties are said to derive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island to the northwest of wales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alleg._ ii, Sec. 1, 67 M. _tattetai oun ho theos kata to en kai ten monada, mallon de kai he monas kata ton hena theon_."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In the large balcony of a house called Las Monas at the entrance of the Calle de las Escuelas Pias all the priests had set up an altar and celebrated there the divine office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A singular metaphysical entity from which material properties are said to derive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island to the northwest of wales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alleg._ ii, Sec. 1, 67 M. _tattetai oun ho theos kata to en kai ten monada, mallon de kai he monas kata ton hena theon_."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In the large balcony of a house called Las Monas at the entrance of the Calle de las Escuelas Pias all the priests had set up an altar and celebrated there the divine office."*

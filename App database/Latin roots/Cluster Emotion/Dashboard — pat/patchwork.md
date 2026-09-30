@@ -5,15 +5,6 @@ status: unread
 ---
 # patchwork
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory or argument made up of miscellaneous or incongruous ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quilt made by sewing patches of different materials together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, on a low bed opposite the fire, a confusion of dirty patchwork, lean-ribbed ticking, and coarse sacking, the lawyer, hesitating just within the doorway, sees a man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose you do!” While she is gone, the surgeon abandons his hopeless investigation and covers its subject with the patchwork counterpane."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Certain keys were hanging on the wall, to which he now added the gate key; and his patchwork-covered bed was in a little inner division or recess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory or argument made up of miscellaneous or incongruous ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quilt made by sewing patches of different materials together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For, on a low bed opposite the fire, a confusion of dirty patchwork, lean-ribbed ticking, and coarse sacking, the lawyer, hesitating just within the doorway, sees a man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose you do!” While she is gone, the surgeon abandons his hopeless investigation and covers its subject with the patchwork counterpane."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Certain keys were hanging on the wall, to which he now added the gate key; and his patchwork-covered bed was in a little inner division or recess."*

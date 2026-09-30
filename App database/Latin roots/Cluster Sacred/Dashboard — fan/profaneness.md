@@ -5,13 +5,6 @@ status: unread
 ---
 # profaneness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of irreverence or contempt for a divinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unholiness by virtue of being profane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beseech you tenderly apply to her Some remedies for life. [_Exeunt Paulina and Ladies with Hermione._] Apollo, pardon My great profaneness ’gainst thine oracle!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of irreverence or contempt for a divinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unholiness by virtue of being profane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beseech you tenderly apply to her Some remedies for life. [_Exeunt Paulina and Ladies with Hermione._] Apollo, pardon My great profaneness ’gainst thine oracle!"*

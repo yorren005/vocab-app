@@ -5,13 +5,6 @@ status: unread
 ---
 # cervus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the cervidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the cervidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervus designates the type genus of the cervidae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the cervidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the cervidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervus designates the type genus of the cervidae."*

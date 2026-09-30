@@ -5,15 +5,6 @@ status: unread
 ---
 # anthology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of selected literary pieces or passages or works of art or music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assortment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The present writer lived for some time within a short distance of his house, but found no opportunity to meet him until it became necessary to obtain his portrait for an anthology in course of publication."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"If his dramas bear a resemblance to Jarry's _Ubu Roi_, so _The Merry-Thought_ resembles the kind of anthology that Jarry might have put together to illustrate the absurd anarchy of the human spirit."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"You encouraged that mopsey Miss Wesley to dance after you in the hope of having her nonsense put into a nonsensical anthology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of selected literary pieces or passages or works of art or music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assortment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The present writer lived for some time within a short distance of his house, but found no opportunity to meet him until it became necessary to obtain his portrait for an anthology in course of publication."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"If his dramas bear a resemblance to Jarry's _Ubu Roi_, so _The Merry-Thought_ resembles the kind of anthology that Jarry might have put together to illustrate the absurd anarchy of the human spirit."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"You encouraged that mopsey Miss Wesley to dance after you in the hope of having her nonsense put into a nonsensical anthology."*

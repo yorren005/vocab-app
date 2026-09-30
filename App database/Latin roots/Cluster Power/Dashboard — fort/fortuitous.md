@@ -5,15 +5,6 @@ status: unread
 ---
 # fortuitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no cause or apparent cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring by happy chance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin in return was quite sure that man was not a mere machine or a fortuitous conjunction of atoms; if Mrs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Propensities inherited If some fortuitous circumstance places promising chil- 61:15 dren in the arms of gross parents, often these beautiful children early droop and die, like tropical flowers born amid Alpine snows."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It seems unlikely that such reports are without foundation, and perhaps equally improbable that they refer to mere fortuitous outbursts of unnatural lust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no cause or apparent cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring by happy chance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Minchin in return was quite sure that man was not a mere machine or a fortuitous conjunction of atoms; if Mrs."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Propensities inherited If some fortuitous circumstance places promising chil- 61:15 dren in the arms of gross parents, often these beautiful children early droop and die, like tropical flowers born amid Alpine snows."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It seems unlikely that such reports are without foundation, and perhaps equally improbable that they refer to mere fortuitous outbursts of unnatural lust."*

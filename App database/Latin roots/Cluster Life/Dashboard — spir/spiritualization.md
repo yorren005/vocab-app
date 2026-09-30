@@ -5,15 +5,6 @@ status: unread
 ---
 # spiritualization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something spiritual; infusing it with spiritual content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something spiritual; infusing it with spiritual content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Lippi was one of the representatives of the protest made in the fifteenth century against the conventional spiritualization in the art of his time."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Earth will become dreary and desolate, but summer and winter, 96:9 seedtime and harvest (though in changed forms), will continue unto the end, - until the final spiritualization of all things."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Advancing degrees 158:24 Evidences of progress and of spiritualization greet us on every hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something spiritual; infusing it with spiritual content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something spiritual; infusing it with spiritual content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Lippi was one of the representatives of the protest made in the fifteenth century against the conventional spiritualization in the art of his time."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Earth will become dreary and desolate, but summer and winter, 96:9 seedtime and harvest (though in changed forms), will continue unto the end, - until the final spiritualization of all things."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Advancing degrees 158:24 Evidences of progress and of spiritualization greet us on every hand."*

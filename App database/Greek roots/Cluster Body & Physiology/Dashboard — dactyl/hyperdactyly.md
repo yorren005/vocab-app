@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperdactyly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth defect characterized by the presence of more than the normal number of fingers or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth defect characterized by the presence of more than the normal number of fingers or toes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperdactyly designates birth defect characterized by the presence of more than the normal number of fingers or toes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth defect characterized by the presence of more than the normal number of fingers or toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth defect characterized by the presence of more than the normal number of fingers or toes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperdactyly designates birth defect characterized by the presence of more than the normal number of fingers or toes."*

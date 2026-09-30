@@ -5,13 +5,6 @@ status: unread
 ---
 # micropyle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute opening in the integument of an ovule of a seed plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A differentiated area of surface in an egg through which a sperm enters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropyle designates a minute opening in the integument of an ovule of a seed plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute opening in the integument of an ovule of a seed plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A differentiated area of surface in an egg through which a sperm enters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropyle designates a minute opening in the integument of an ovule of a seed plant."*

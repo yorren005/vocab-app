@@ -5,15 +5,6 @@ status: unread
 ---
 # tardily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speed (`slow' is sometimes used informally for `slowly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Later than usual or than expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had no legs that practis’d not his gait; And speaking thick, which nature made his blemish, Became the accents of the valiant; For those who could speak low and tardily Would turn their own perfection to abuse, To seem like him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As the night lags tardily on—or rather when it seems to stop altogether, at between two and three o’clock—they find a restless craving on him to know more about the weather, now he cannot see it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under his escort she went tardily forward to the main front, whose shuttered windows, like sightless eyeballs, excluded the possibility of watchers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speed (`slow' is sometimes used informally for `slowly').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Later than usual or than expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had no legs that practis’d not his gait; And speaking thick, which nature made his blemish, Became the accents of the valiant; For those who could speak low and tardily Would turn their own perfection to abuse, To seem like him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As the night lags tardily on—or rather when it seems to stop altogether, at between two and three o’clock—they find a restless craving on him to know more about the weather, now he cannot see it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under his escort she went tardily forward to the main front, whose shuttered windows, like sightless eyeballs, excluded the possibility of watchers."*

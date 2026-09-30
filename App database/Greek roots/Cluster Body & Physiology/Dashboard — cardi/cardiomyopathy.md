@@ -5,13 +5,6 @@ status: unread
 ---
 # cardiomyopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiomyopathy designates any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiomyopathy designates any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart."*

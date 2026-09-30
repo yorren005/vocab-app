@@ -5,15 +5,6 @@ status: unread
 ---
 # cube
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hexahedron with six equal squares as faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A three-dimensional shape with six square or rectangular sides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Not distant far with heavy pace the foe Approaching gross and huge, in hollow cube Training his devilish enginery, impaled On every side with shadowing squadrons deep, To hide the fraud."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Univ. des Musiciens’ and Nisard’s ‘Vie de l’Abbe Vogler’. -- * “This was a very compact organ, in which four key-boards of five octaves each, and a pedal board of thirty-six keys, with swell complete, were packed into a cube of nine feet."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Nor, having only length, breadth, and thickness, can a cube have a real existence.” “There I object,” said Filby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hexahedron with six equal squares as faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A three-dimensional shape with six square or rectangular sides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Not distant far with heavy pace the foe Approaching gross and huge, in hollow cube Training his devilish enginery, impaled On every side with shadowing squadrons deep, To hide the fraud."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Univ. des Musiciens’ and Nisard’s ‘Vie de l’Abbe Vogler’. -- * “This was a very compact organ, in which four key-boards of five octaves each, and a pedal board of thirty-six keys, with swell complete, were packed into a cube of nine feet."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Nor, having only length, breadth, and thickness, can a cube have a real existence.” “There I object,” said Filby."*

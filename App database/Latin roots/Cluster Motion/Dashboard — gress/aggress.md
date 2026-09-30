@@ -5,14 +5,6 @@ status: unread
 ---
 # aggress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the initiative and go on the offensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the initiative and go on the offensive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Hannah trembled before him, but Betsey faced him sturdily, being amazingly like him, with a feminine difference; as like as a ruled person can be to a ruler, for the discipline of life had taught the man to aggress, the woman only to defend."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Independent of this motive of sympathy, if a large and influential State should happen to be the aggressing member, it would commonly have weight enough with its neighbors to win over some of them as associates to its cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the initiative and go on the offensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the initiative and go on the offensive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Hannah trembled before him, but Betsey faced him sturdily, being amazingly like him, with a feminine difference; as like as a ruled person can be to a ruler, for the discipline of life had taught the man to aggress, the woman only to defend."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Independent of this motive of sympathy, if a large and influential State should happen to be the aggressing member, it would commonly have weight enough with its neighbors to win over some of them as associates to its cause."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # formerly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At a previous time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a previous time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While I remain above the ground, you shall Hear from me still, and never of me aught But what is like me formerly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS of a tavern in Eastcheap, formerly Mistress Nell Quickly, and now married to Pistol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At a previous time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a previous time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While I remain above the ground, you shall Hear from me still, and never of me aught But what is like me formerly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS of a tavern in Eastcheap, formerly Mistress Nell Quickly, and now married to Pistol."*

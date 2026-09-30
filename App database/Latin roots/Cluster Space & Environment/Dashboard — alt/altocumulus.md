@@ -5,13 +5,6 @@ status: unread
 ---
 # altocumulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cumulus cloud at an intermediate altitude of 2 or 3 miles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cumulus cloud at an intermediate altitude of 2 or 3 miles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altocumulus designates a cumulus cloud at an intermediate altitude of 2 or 3 miles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cumulus cloud at an intermediate altitude of 2 or 3 miles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cumulus cloud at an intermediate altitude of 2 or 3 miles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altocumulus designates a cumulus cloud at an intermediate altitude of 2 or 3 miles."*

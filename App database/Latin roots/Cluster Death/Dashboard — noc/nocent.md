@@ -5,13 +5,6 @@ status: unread
 ---
 # nocent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tendency to cause harm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a tendency to cause harm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nocent designates having a tendency to cause harm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tendency to cause harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a tendency to cause harm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nocent designates having a tendency to cause harm."*

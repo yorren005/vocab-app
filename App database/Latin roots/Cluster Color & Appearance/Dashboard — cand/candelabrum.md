@@ -5,14 +5,6 @@ status: unread
 ---
 # candelabrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branched candlestick; ornamental; has several lights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched candlestick; ornamental; has several lights.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And when within the hall, and without, where the foreign servants were encamped, many fires and pine torches were kindled--before Halfred burned the seven armed candelabrum--it was at first a right jovial sun fire-feast."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Only the heavy candelabrum stood between the two."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Branched candlestick; ornamental; has several lights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched candlestick; ornamental; has several lights.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And when within the hall, and without, where the foreign servants were encamped, many fires and pine torches were kindled--before Halfred burned the seven armed candelabrum--it was at first a right jovial sun fire-feast."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Only the heavy candelabrum stood between the two."*

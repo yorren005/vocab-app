@@ -5,13 +5,6 @@ status: unread
 ---
 # flatulence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of excessive gas in the alimentary canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompously embellished language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Dear Mr Editor, what is a good cure for flatulence?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of excessive gas in the alimentary canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompously embellished language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Dear Mr Editor, what is a good cure for flatulence?"*

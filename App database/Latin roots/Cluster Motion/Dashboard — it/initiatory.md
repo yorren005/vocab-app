@@ -5,15 +5,6 @@ status: unread
 ---
 # initiatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to set in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to set in motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But, although he was often urged to do so, he never would accept office nor advance beyond the initiatory stage of membership represented by the simple white "bib" of infancy."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Amongst many savage tribes, especially such as are known to practice totemism, it is customary for lads at puberty to undergo certain initiatory rites, of which one of the commonest is a pretence of killing the lad and bringing him to life again."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus the essence of these initiatory rites, so far as they consist in a simulation of death and resurrection, would be an exchange of life or souls between the man and his totem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to set in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to set in motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But, although he was often urged to do so, he never would accept office nor advance beyond the initiatory stage of membership represented by the simple white "bib" of infancy."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Amongst many savage tribes, especially such as are known to practice totemism, it is customary for lads at puberty to undergo certain initiatory rites, of which one of the commonest is a pretence of killing the lad and bringing him to life again."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus the essence of these initiatory rites, so far as they consist in a simulation of death and resurrection, would be an exchange of life or souls between the man and his totem."*

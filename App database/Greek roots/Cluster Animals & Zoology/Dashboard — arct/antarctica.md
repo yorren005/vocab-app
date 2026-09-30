@@ -5,13 +5,6 @@ status: unread
 ---
 # antarctica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antarctica designates an extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antarctica designates an extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep."*

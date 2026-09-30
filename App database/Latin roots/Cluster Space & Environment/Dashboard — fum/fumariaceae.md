@@ -5,13 +5,6 @@ status: unread
 ---
 # fumariaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumariaceae designates erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumariaceae designates erect or climbing herbs of the northern hemisphere and southern africa: bleeding heart; dutchman's breeches; fumitory; squirrel corn."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # quadrupling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase by a factor of four.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase fourfold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seventeenth, the quadrupling of the number of local spiritual assemblies and the trebling of the number of localities in the aforementioned countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase by a factor of four.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase fourfold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seventeenth, the quadrupling of the number of local spiritual assemblies and the trebling of the number of localities in the aforementioned countries."*

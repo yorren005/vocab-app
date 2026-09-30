@@ -5,15 +5,6 @@ status: unread
 ---
 # conventionally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conventional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conventional manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The more his life changed, the more it was the same thing--the same plunging without forethought, the same disregard for all that is conventionally deemed necessary."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble as a little curly sharp-edged person in sky-blue, who held a conventionally juvenile position, because she had married Mr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Guizot and Montalembert were both members of the Institute, and being thus in the same boat, Guizot conventionally receives Montalembert. vv. 7 and 8."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conventional manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conventional manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The more his life changed, the more it was the same thing--the same plunging without forethought, the same disregard for all that is conventionally deemed necessary."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble as a little curly sharp-edged person in sky-blue, who held a conventionally juvenile position, because she had married Mr."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Guizot and Montalembert were both members of the Institute, and being thus in the same boat, Guizot conventionally receives Montalembert. vv. 7 and 8."*

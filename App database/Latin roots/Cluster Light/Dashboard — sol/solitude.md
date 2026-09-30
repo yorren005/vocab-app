@@ -5,15 +5,6 @@ status: unread
 ---
 # solitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of social isolation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or situation of being alone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I only wished to forget the past in this solitude, and I thought it right for me to die forgotten."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Westminster Hall itself is a shady solitude where nightingales might sing, and a tenderer class of suitors than is usually found there, walk."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When the moon shines very brilliantly, a solitude and stillness seem to proceed from her that influence even crowded places full of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of social isolation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or situation of being alone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I only wished to forget the past in this solitude, and I thought it right for me to die forgotten."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Westminster Hall itself is a shady solitude where nightingales might sing, and a tenderer class of suitors than is usually found there, walk."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"When the moon shines very brilliantly, a solitude and stillness seem to proceed from her that influence even crowded places full of life."*

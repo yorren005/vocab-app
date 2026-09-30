@@ -5,15 +5,6 @@ status: unread
 ---
 # invidious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or implying a slight or showing prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or implying a slight or showing prejudice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Either the change in the quality of the air from heavy to light, or the sense of being amid new scenes where there were no invidious eyes upon her, sent up her spirits wonderfully."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Distrust naturally creates distrust, and by nothing is good-will and kind conduct more speedily changed than by invidious jealousies and uncandid imputations, whether expressed or implied."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But all suppositions of this kind are invidious, and ought to be banished from the consideration of the great question before the people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or implying a slight or showing prejudice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or implying a slight or showing prejudice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Either the change in the quality of the air from heavy to light, or the sense of being amid new scenes where there were no invidious eyes upon her, sent up her spirits wonderfully."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Distrust naturally creates distrust, and by nothing is good-will and kind conduct more speedily changed than by invidious jealousies and uncandid imputations, whether expressed or implied."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But all suppositions of this kind are invidious, and ought to be banished from the consideration of the great question before the people."*

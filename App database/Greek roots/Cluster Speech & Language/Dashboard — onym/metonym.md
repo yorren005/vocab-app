@@ -5,13 +5,6 @@ status: unread
 ---
 # metonym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word used in metonymy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word used in metonymy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonym designates a word used in metonymy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word used in metonymy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word used in metonymy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonym designates a word used in metonymy."*

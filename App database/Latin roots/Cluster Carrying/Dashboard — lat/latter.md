@@ -5,15 +5,6 @@ status: unread
 ---
 # latter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second of two or the second mentioned of two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to the second of two things or persons mentioned (or the last one or ones of several).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, ’tis the rarest argument of wonder that hath shot out in our latter times."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good traveller is something at the latter end of a dinner; but one that lies three-thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten.— God save you, Captain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, I will go seek Some ditch wherein to die; the foul’st best fits My latter part of life. [_Exit._] SCENE VII."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second of two or the second mentioned of two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to the second of two things or persons mentioned (or the last one or ones of several).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, ’tis the rarest argument of wonder that hath shot out in our latter times."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good traveller is something at the latter end of a dinner; but one that lies three-thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten.— God save you, Captain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, I will go seek Some ditch wherein to die; the foul’st best fits My latter part of life. [_Exit._] SCENE VII."*

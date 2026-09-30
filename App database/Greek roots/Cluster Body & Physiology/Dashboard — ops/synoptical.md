@@ -5,14 +5,6 @@ status: unread
 ---
 # synoptical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presenting or taking the same point of view; used especially with regard to the first three gospels of the new testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presenting or taking the same point of view; used especially with regard to the first three gospels of the new testament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This paper, now, ‘Synoptical Tabulation’ and so on, ‘for the use of Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Synoptical Tabulation for the use of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Presenting or taking the same point of view; used especially with regard to the first three gospels of the new testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presenting or taking the same point of view; used especially with regard to the first three gospels of the new testament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"This paper, now, ‘Synoptical Tabulation’ and so on, ‘for the use of Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The Synoptical Tabulation for the use of Mrs."*

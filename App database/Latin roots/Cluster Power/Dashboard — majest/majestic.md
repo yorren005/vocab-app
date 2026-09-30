@@ -5,15 +5,6 @@ status: unread
 ---
 # majestic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Majestic in manner or bearing; superior to mundane matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying great dignity or nobility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ye gods, it doth amaze me, A man of such a feeble temper should So get the start of the majestic world, And bear the palm alone. [_Shout."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a most majestic vision, and Harmonious charmingly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Majestic in manner or bearing; superior to mundane matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying great dignity or nobility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ye gods, it doth amaze me, A man of such a feeble temper should So get the start of the majestic world, And bear the palm alone. [_Shout."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a most majestic vision, and Harmonious charmingly."*

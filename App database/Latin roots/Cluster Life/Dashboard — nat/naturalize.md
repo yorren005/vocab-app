@@ -5,15 +5,6 @@ status: unread
 ---
 # naturalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a citizen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explain with reference to nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The very improper power would still be retained by each State, of naturalizing aliens in every other State."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Being to read a bill for naturalizing Jemima, Duchess of Kent, he called her, Jeremiah, Duchess of Kent."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever shall I do?” Not-at-homes were hardly naturalized in Weatherbury farmhouses, so Liddy suggested—“Say you’re a fright with dust, and can’t come down.” “Yes—that sounds very well,” said Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a citizen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explain with reference to nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The very improper power would still be retained by each State, of naturalizing aliens in every other State."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Being to read a bill for naturalizing Jemima, Duchess of Kent, he called her, Jeremiah, Duchess of Kent."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever shall I do?” Not-at-homes were hardly naturalized in Weatherbury farmhouses, so Liddy suggested—“Say you’re a fright with dust, and can’t come down.” “Yes—that sounds very well,” said Mrs."*

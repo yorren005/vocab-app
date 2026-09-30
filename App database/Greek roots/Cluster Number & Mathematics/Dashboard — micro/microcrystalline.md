@@ -5,13 +5,6 @@ status: unread
 ---
 # microcrystalline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing crystals that are visible only under a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing crystals that are visible only under a microscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcrystalline designates containing crystals that are visible only under a microscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing crystals that are visible only under a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing crystals that are visible only under a microscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcrystalline designates containing crystals that are visible only under a microscope."*

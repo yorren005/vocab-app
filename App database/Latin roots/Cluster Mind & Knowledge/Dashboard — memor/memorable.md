@@ -5,15 +5,6 @@ status: unread
 ---
 # memorable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worth remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worth remembering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear it for a memorable honour; For I am Welsh, you know, good countryman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you mock at an ancient tradition, begun upon an honourable respect, and worn as a memorable trophy of predeceased valour, and dare not avouch in your deeds any of your words?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I do not mean that it ceased even then, but that my attention was then diverted into a current very memorable to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worth remembering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worth remembering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear it for a memorable honour; For I am Welsh, you know, good countryman."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you mock at an ancient tradition, begun upon an honourable respect, and worn as a memorable trophy of predeceased valour, and dare not avouch in your deeds any of your words?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I do not mean that it ceased even then, but that my attention was then diverted into a current very memorable to me."*

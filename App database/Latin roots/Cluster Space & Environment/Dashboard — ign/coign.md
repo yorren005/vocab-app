@@ -5,15 +5,6 @@ status: unread
 ---
 # coign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expandable metal or wooden wedge used by printers to lock up a form within a chase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The keystone of an arch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you yond coign o’ the Capitol, yond cornerstone?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This guest of summer, The temple-haunting martlet, does approve, By his loved mansionry, that the heaven’s breath Smells wooingly here: no jutty, frieze, Buttress, nor coign of vantage, but this bird hath made his pendant bed and procreant cradle."*
-> - 📜 **James Joyce (*Ulysses*):** *"They take me for a dun, peer out from a coign of vantage. —It’s Stephen, sir. —Let him in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expandable metal or wooden wedge used by printers to lock up a form within a chase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The keystone of an arch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you yond coign o’ the Capitol, yond cornerstone?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This guest of summer, The temple-haunting martlet, does approve, By his loved mansionry, that the heaven’s breath Smells wooingly here: no jutty, frieze, Buttress, nor coign of vantage, but this bird hath made his pendant bed and procreant cradle."*
+> - 📜 **James Joyce (*Ulysses*):** *"They take me for a dun, peer out from a coign of vantage. —It’s Stephen, sir. —Let him in."*

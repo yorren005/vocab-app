@@ -5,15 +5,6 @@ status: unread
 ---
 # relations
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual dealings or connections or communications among persons or groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstraction belonging to or characteristic of two entities or parts together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stones have been known to move, and trees to speak; Augurs, and understood relations, have By magot-pies, and choughs, and rooks, brought forth The secret’st man of blood.—What is the night?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Citizens of Verona; several Men and Women, relations to both houses; Maskers, Guards, Watchmen and Attendants."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, the daughter of one of her relations, had very early lost her father and mother, as her mother had died soon after the Baroness decided to adopt the child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual dealings or connections or communications among persons or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstraction belonging to or characteristic of two entities or parts together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stones have been known to move, and trees to speak; Augurs, and understood relations, have By magot-pies, and choughs, and rooks, brought forth The secret’st man of blood.—What is the night?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Citizens of Verona; several Men and Women, relations to both houses; Maskers, Guards, Watchmen and Attendants."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, the daughter of one of her relations, had very early lost her father and mother, as her mother had died soon after the Baroness decided to adopt the child."*

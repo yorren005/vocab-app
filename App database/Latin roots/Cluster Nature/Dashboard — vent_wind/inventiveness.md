@@ -5,14 +5,6 @@ status: unread
 ---
 # inventiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of creative imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of creative imagination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It's a wonder the modern child has a trace of resource or inventiveness left in him."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Surely it won't hazard his inventiveness: it will develop it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of creative imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of creative imagination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It's a wonder the modern child has a trace of resource or inventiveness left in him."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Surely it won't hazard his inventiveness: it will develop it."*

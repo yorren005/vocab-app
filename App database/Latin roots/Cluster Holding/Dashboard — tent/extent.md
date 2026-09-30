@@ -5,15 +5,6 @@ status: unread
 ---
 # extent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or degree to which something extends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distance or area or volume over which something extends.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, push him out of doors, And let my officers of such a nature Make an extent upon his house and lands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me comply with you in this garb, lest my extent to the players, which I tell you must show fairly outward, should more appear like entertainment than yours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very head and front of my offending Hath this extent, no more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or degree to which something extends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distance or area or volume over which something extends.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, push him out of doors, And let my officers of such a nature Make an extent upon his house and lands."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me comply with you in this garb, lest my extent to the players, which I tell you must show fairly outward, should more appear like entertainment than yours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very head and front of my offending Hath this extent, no more."*

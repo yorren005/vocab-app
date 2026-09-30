@@ -5,13 +5,6 @@ status: unread
 ---
 # gravida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of the pregnancy that a woman is in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pregnant woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravida designates the number of the pregnancy that a woman is in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of the pregnancy that a woman is in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pregnant woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravida designates the number of the pregnancy that a woman is in."*

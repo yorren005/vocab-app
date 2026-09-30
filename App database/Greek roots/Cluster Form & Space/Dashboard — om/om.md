@@ -5,13 +5,6 @@ status: unread
 ---
 # om
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mantra consisting of the sound \ˈōm\ and used in contemplation of ultimate reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of merit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, om designates a mantra consisting of the sound \ˈōm\ and used in contemplation of ultimate reality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mantra consisting of the sound \ˈōm\ and used in contemplation of ultimate reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of merit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, om designates a mantra consisting of the sound \ˈōm\ and used in contemplation of ultimate reality."*

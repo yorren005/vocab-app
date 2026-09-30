@@ -5,13 +5,6 @@ status: unread
 ---
 # furcation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place where something divides into branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place where something divides into branches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, furcation designates the place where something divides into branches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place where something divides into branches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place where something divides into branches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, furcation designates the place where something divides into branches."*

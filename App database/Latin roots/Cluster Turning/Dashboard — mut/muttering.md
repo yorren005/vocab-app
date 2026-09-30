@@ -5,15 +5,6 @@ status: unread
 ---
 # muttering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complaint uttered in a low and indistinct tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I thought that he had pleasant eyes, although he kept on muttering to himself in an angry manner and calling Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Muttering, after an ineffectual call to his lodger, that he will go downstairs and bring a lighted candle from the shop, the old man departs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, Ada, and I, until we heard thunder muttering in the distance and felt the large raindrops rattle through the leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complaint uttered in a low and indistinct tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But I thought that he had pleasant eyes, although he kept on muttering to himself in an angry manner and calling Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Muttering, after an ineffectual call to his lodger, that he will go downstairs and bring a lighted candle from the shop, the old man departs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, Ada, and I, until we heard thunder muttering in the distance and felt the large raindrops rattle through the leaves."*

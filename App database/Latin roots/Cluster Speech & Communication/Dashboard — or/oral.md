@@ -5,15 +5,6 @@ status: unread
 ---
 # oral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination conducted by spoken communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using speech rather than writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"I cannot produce written proof again, but I can give as authentic oral testimony as you can desire, of what he is now wanting, and what he is now doing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great aids to idealization in love were present here: occasional observation of her from a distance, and the absence of social intercourse with her—visual familiarity, oral strangeness."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This impression was deepened by the oral examinations which he was in the habit of holding every week on his lectures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination conducted by spoken communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using speech rather than writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"I cannot produce written proof again, but I can give as authentic oral testimony as you can desire, of what he is now wanting, and what he is now doing."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great aids to idealization in love were present here: occasional observation of her from a distance, and the absence of social intercourse with her—visual familiarity, oral strangeness."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"This impression was deepened by the oral examinations which he was in the habit of holding every week on his lectures."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # divisive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissenting (especially dissenting with the majority opinion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissenting (especially dissenting with the majority opinion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divisive designates dissenting (especially dissenting with the majority opinion)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissenting (especially dissenting with the majority opinion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissenting (especially dissenting with the majority opinion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divisive designates dissenting (especially dissenting with the majority opinion)."*

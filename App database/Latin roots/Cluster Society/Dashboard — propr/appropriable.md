@@ -5,13 +5,6 @@ status: unread
 ---
 # appropriable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be appropriated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be appropriated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appropriable designates that can be appropriated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be appropriated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be appropriated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appropriable designates that can be appropriated."*

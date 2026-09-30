@@ -5,15 +5,6 @@ status: unread
 ---
 # reprobate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without moral scruples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reject (documents) as invalid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If drawing my sword against the humour of affection would deliver me from the reprobate thought of it, I would take desire prisoner, and ransom him to any French courtier for a new-devised curtsy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if we do omit This reprobate till he were well inclined, And satisfy the Deputy with the visage Of Ragozine, more like to Claudio?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By reprobate desire thus madly led, The Roman lord marcheth to Lucrece’ bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without moral scruples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reject (documents) as invalid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If drawing my sword against the humour of affection would deliver me from the reprobate thought of it, I would take desire prisoner, and ransom him to any French courtier for a new-devised curtsy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if we do omit This reprobate till he were well inclined, And satisfy the Deputy with the visage Of Ragozine, more like to Claudio?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By reprobate desire thus madly led, The Roman lord marcheth to Lucrece’ bed."*

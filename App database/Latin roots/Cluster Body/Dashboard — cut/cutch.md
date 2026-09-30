@@ -5,13 +5,6 @@ status: unread
 ---
 # cutch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tannin extract derived from any of several mangrove barks of pacific areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tannin extract derived from any of several mangrove barks of pacific areas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutch designates tannin extract derived from any of several mangrove barks of pacific areas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tannin extract derived from any of several mangrove barks of pacific areas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tannin extract derived from any of several mangrove barks of pacific areas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutch designates tannin extract derived from any of several mangrove barks of pacific areas."*

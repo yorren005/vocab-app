@@ -5,15 +5,6 @@ status: unread
 ---
 # universally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everywhere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lived universally respected, and died lamented."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock, you see she’s universally admired."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That’s what her ladyship is; she’s universally admired,” says Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Everywhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everywhere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lived universally respected, and died lamented."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock, you see she’s universally admired."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That’s what her ladyship is; she’s universally admired,” says Mr."*

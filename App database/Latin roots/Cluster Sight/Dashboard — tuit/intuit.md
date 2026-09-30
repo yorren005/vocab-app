@@ -5,13 +5,6 @@ status: unread
 ---
 # intuit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Know or grasp by intuition or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Know or grasp by intuition or feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intuit designates know or grasp by intuition or feeling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Know or grasp by intuition or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Know or grasp by intuition or feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intuit designates know or grasp by intuition or feeling."*

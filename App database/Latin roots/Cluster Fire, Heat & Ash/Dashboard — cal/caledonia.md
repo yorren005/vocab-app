@@ -5,15 +5,6 @@ status: unread
 ---
 # caledonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The geographical area (in roman times) to the north of the antonine wall; now a poetic name for scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geographical area (in roman times) to the north of the antonine wall; now a poetic name for scotland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hail, Caledonia, name for ever dear!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Caledonia—A Ballad Tune—“Caledonian Hunts’ Delight” of Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It’s gude to be merry and wise, It’s gude to be honest and true; It’s gude to support Caledonia’s cause, And bide by the buff and the blue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geographical area (in roman times) to the north of the antonine wall; now a poetic name for scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geographical area (in roman times) to the north of the antonine wall; now a poetic name for scotland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hail, Caledonia, name for ever dear!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Caledonia—A Ballad Tune—“Caledonian Hunts’ Delight” of Mr."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It’s gude to be merry and wise, It’s gude to be honest and true; It’s gude to support Caledonia’s cause, And bide by the buff and the blue."*

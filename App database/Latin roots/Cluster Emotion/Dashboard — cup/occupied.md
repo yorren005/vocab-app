@@ -5,15 +5,6 @@ status: unread
 ---
 # occupied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep busy with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She would have loved to have a little daughter herself, therefore she occupied herself with me as if I belonged to her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so much occupied at lunch with his own plans and ideas that he never even noticed when his favorite dessert appeared on the table."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The distance they had to traverse occupied about two hours, but it did not seem long."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep busy with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She would have loved to have a little daughter herself, therefore she occupied herself with me as if I belonged to her."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so much occupied at lunch with his own plans and ideas that he never even noticed when his favorite dessert appeared on the table."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The distance they had to traverse occupied about two hours, but it did not seem long."*

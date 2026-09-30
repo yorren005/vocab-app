@@ -5,13 +5,6 @@ status: unread
 ---
 # starkers
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (british informal) stark naked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british informal) stark naked.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starkers designates (british informal) stark naked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (british informal) stark naked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british informal) stark naked.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starkers designates (british informal) stark naked."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paleolithic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Second part of the stone age beginning about 750,00 to 500,000 years bc and lasting until the end of the last ice age about 8,500 years bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the second period of the stone age (following the eolithic).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Second part of the stone age beginning about 750,00 to 500,000 years bc and lasting until the end of the last ice age about 8,500 years bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the second period of the stone age (following the eolithic).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*

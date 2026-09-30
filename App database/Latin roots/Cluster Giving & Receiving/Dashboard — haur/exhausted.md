@@ -5,15 +5,6 @@ status: unread
 ---
 # exhausted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear out completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You rascals, you!" the uncle said, quite exhausted."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore was so exhausted that, leaning against her companion, she fell asleep, but she staunchly held on to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear out completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You rascals, you!" the uncle said, quite exhausted."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore was so exhausted that, leaning against her companion, she fell asleep, but she staunchly held on to Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*

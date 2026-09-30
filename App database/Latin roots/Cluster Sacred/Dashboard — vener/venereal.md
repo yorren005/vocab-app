@@ -5,14 +5,6 @@ status: unread
 ---
 # venereal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the external sex organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the external sex organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, madam, these are no venereal signs."*
-> - 📜 **James Joyce (*Ulysses*):** *"Griffith’s paper is on the same tack now: an army rotten with venereal disease: overseas or halfseasover empire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the external sex organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the external sex organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, madam, these are no venereal signs."*
+> - 📜 **James Joyce (*Ulysses*):** *"Griffith’s paper is on the same tack now: an army rotten with venereal disease: overseas or halfseasover empire."*

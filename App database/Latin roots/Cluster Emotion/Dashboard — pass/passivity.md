@@ -5,15 +5,6 @@ status: unread
 ---
 # passivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of remaining inactive; a lack of initiative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submission to others or to outside influences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no; stay, I insist!” He seized her hand, and then volition seemed to leave her, and she went off into a state of passivity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The four sang on with the phlegmatic passivity of persons who had long ago settled the question, and there being no mistake about it, felt that further thought was not required."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This passivity was almost dream-like, and yet, in its way, it was positive almost to a pitch of exaltation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of remaining inactive; a lack of initiative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submission to others or to outside influences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no; stay, I insist!” He seized her hand, and then volition seemed to leave her, and she went off into a state of passivity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The four sang on with the phlegmatic passivity of persons who had long ago settled the question, and there being no mistake about it, felt that further thought was not required."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This passivity was almost dream-like, and yet, in its way, it was positive almost to a pitch of exaltation."*

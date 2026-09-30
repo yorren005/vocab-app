@@ -5,15 +5,6 @@ status: unread
 ---
 # vicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons or their actions) able or disposed to inflict pain or suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature of vice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It had been vicious To have mistrusted her; yet, O my daughter!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her away, for she hath lived too long, To fill the world with vicious qualities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons or their actions) able or disposed to inflict pain or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature of vice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It had been vicious To have mistrusted her; yet, O my daughter!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her away, for she hath lived too long, To fill the world with vicious qualities."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # litigiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarrelsome disposition to engage in or carry on lawsuits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quarrelsome disposition to engage in or carry on lawsuits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litigiousness designates a quarrelsome disposition to engage in or carry on lawsuits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarrelsome disposition to engage in or carry on lawsuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quarrelsome disposition to engage in or carry on lawsuits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litigiousness designates a quarrelsome disposition to engage in or carry on lawsuits."*

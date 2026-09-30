@@ -5,15 +5,6 @@ status: unread
 ---
 # promising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a promise or commitment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promise to undertake or give.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That goldsmith there, were he not pack’d with her, Could witness it, for he was with me then, Who parted with me to go fetch a chain, Promising to bring it to the Porpentine, Where Balthasar and I did dine together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Caius Lucius, Although the victor, we submit to Cæsar And to the Roman empire, promising To pay our wonted tribute, from the which We were dissuaded by our wicked queen, Whom heavens in justice, both on her and hers, Have laid most heavy hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a promise or commitment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promise to undertake or give.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That goldsmith there, were he not pack’d with her, Could witness it, for he was with me then, Who parted with me to go fetch a chain, Promising to bring it to the Porpentine, Where Balthasar and I did dine together."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Caius Lucius, Although the victor, we submit to Cæsar And to the Roman empire, promising To pay our wonted tribute, from the which We were dissuaded by our wicked queen, Whom heavens in justice, both on her and hers, Have laid most heavy hand."*

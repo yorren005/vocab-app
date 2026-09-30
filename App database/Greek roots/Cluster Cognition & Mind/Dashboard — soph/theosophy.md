@@ -5,15 +5,6 @@ status: unread
 ---
 # theosophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching about God and the world based on mystical insight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The teachings of a modern movement originating in the U.S. in 1875 and following chiefly Buddhist and Brahmanic theories especially of pantheistic evolution and reincarnation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Groups of people endeavoured to combine Christianity with the old thought, with philosophy, theosophy, theurgy, and magic."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Hans Lassen Martensen’s ‘Jacob Boehme: his life and teaching, or studies in theosophy: translated from the Danish by T."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science is unerring and Divine; the human sense of things errs because it is human. 99:18 Those individuals, who adopt theosophy, spiritualism, or hypnotism, may possess natures above some others who eschew their false beliefs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching about God and the world based on mystical insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The teachings of a modern movement originating in the U.S. in 1875 and following chiefly Buddhist and Brahmanic theories especially of pantheistic evolution and reincarnation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Groups of people endeavoured to combine Christianity with the old thought, with philosophy, theosophy, theurgy, and magic."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Hans Lassen Martensen’s ‘Jacob Boehme: his life and teaching, or studies in theosophy: translated from the Danish by T."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science is unerring and Divine; the human sense of things errs because it is human. 99:18 Those individuals, who adopt theosophy, spiritualism, or hypnotism, may possess natures above some others who eschew their false beliefs."*

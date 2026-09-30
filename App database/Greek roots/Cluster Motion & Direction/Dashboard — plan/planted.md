@@ -5,15 +5,6 @@ status: unread
 ---
 # planted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put or set (seeds, seedlings, or plants) into the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet at the first I saw the treasons planted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dare you ghosts Accuse the Thunderer whose bolt, you know, Sky-planted, batters all rebelling coasts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover, he hath left you all his walks, His private arbors, and new-planted orchards, On this side Tiber; he hath left them you, And to your heirs forever; common pleasures, To walk abroad, and recreate yourselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put or set (seeds, seedlings, or plants) into the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet at the first I saw the treasons planted."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dare you ghosts Accuse the Thunderer whose bolt, you know, Sky-planted, batters all rebelling coasts?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover, he hath left you all his walks, His private arbors, and new-planted orchards, On this side Tiber; he hath left them you, And to your heirs forever; common pleasures, To walk abroad, and recreate yourselves."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # doctorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the highest earned academic degrees conferred by a university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the highest earned academic degrees conferred by a university.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"One other such fit of merriment, and I must throw off my clerical wig and band." "Not so, good Doctor Byles," answered Sir William Howe; "if mirth were a crime, you had never gained your doctorate in divinity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the highest earned academic degrees conferred by a university.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the highest earned academic degrees conferred by a university.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"One other such fit of merriment, and I must throw off my clerical wig and band." "Not so, good Doctor Byles," answered Sir William Howe; "if mirth were a crime, you had never gained your doctorate in divinity."*

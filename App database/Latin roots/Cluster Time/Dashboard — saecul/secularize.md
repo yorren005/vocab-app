@@ -5,13 +5,6 @@ status: unread
 ---
 # secularize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make secular and draw away from a religious orientation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer from ecclesiastical to civil possession, use, or control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularize designates make secular and draw away from a religious orientation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make secular and draw away from a religious orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer from ecclesiastical to civil possession, use, or control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secularize designates make secular and draw away from a religious orientation."*

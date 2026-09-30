@@ -5,13 +5,6 @@ status: unread
 ---
 # retransmit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retransmit designates transmit again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retransmit designates transmit again."*

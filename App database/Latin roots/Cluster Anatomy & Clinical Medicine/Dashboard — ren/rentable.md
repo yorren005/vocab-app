@@ -5,13 +5,6 @@ status: unread
 ---
 # rentable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That is able or fit be rented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That is able or fit be rented.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rentable designates that is able or fit be rented."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That is able or fit be rented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That is able or fit be rented.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rentable designates that is able or fit be rented."*

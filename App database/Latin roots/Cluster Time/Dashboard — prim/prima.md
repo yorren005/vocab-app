@@ -5,15 +5,6 @@ status: unread
 ---
 # prima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used primarily as eating apples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicating the most important performer or role.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena prima_. _Enter_ Rutilio, _and_ Arnold[o]. _Rut._ Why do you grieve thus still? _Arn._ 'Twould melt a Marble, And tame a Savage man, to feel my fortune. _Rut._ What fortune?"*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena Prima_. _Enter_ Manuel du Sosa, _and_ Guiomar. _Man_."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena Prima._ _Enter Rutilio and Duarte._ _Rut."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used primarily as eating apples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicating the most important performer or role.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena prima_. _Enter_ Rutilio, _and_ Arnold[o]. _Rut._ Why do you grieve thus still? _Arn._ 'Twould melt a Marble, And tame a Savage man, to feel my fortune. _Rut._ What fortune?"*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena Prima_. _Enter_ Manuel du Sosa, _and_ Guiomar. _Man_."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Scena Prima._ _Enter Rutilio and Duarte._ _Rut."*

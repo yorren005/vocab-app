@@ -5,13 +5,6 @@ status: unread
 ---
 # tuberose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberose designates a tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberose designates a tuberous mexican herb having grasslike leaves and cultivated for its spikes of highly fragrant lily-like waxy white flowers."*

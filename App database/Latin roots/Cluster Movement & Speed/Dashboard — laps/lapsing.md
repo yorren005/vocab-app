@@ -5,15 +5,6 @@ status: unread
 ---
 # lapsing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass into a specified state or condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak imagined a terrible discovery resulting from this afternoon’s work that might cast over Bathsheba’s life a shade which the interposition of many lapsing years might but indifferently lighten, and which nothing at all might altogether remove."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself did not yet know what he would say, but he began to speak eagerly, occasionally lapsing into French or expressing himself in bookish Russian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass into a specified state or condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak imagined a terrible discovery resulting from this afternoon’s work that might cast over Bathsheba’s life a shade which the interposition of many lapsing years might but indifferently lighten, and which nothing at all might altogether remove."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself did not yet know what he would say, but he began to speak eagerly, occasionally lapsing into French or expressing himself in bookish Russian."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # recapitulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emergence during embryonic development of various characters or structures that appeared during the evolutionary history of the strain or species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the section of a composition or movement (especially in sonata form) in which musical themes that were introduced earlier are repeated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon leaned over the elbow of his chair, and swayed his head up and down, apparently as a muscular outlet instead of that recapitulation which would not have been becoming."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Recapitulation WE can now perhaps understand why the ancients identified Hippolytus, the consort of Artemis, with Virbius, who, according to Servius, stood to Diana as Adonis to Venus, or Attis to the Mother of the Gods."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He was so obstinate in his resolution, that Heathcliff deemed it expedient to compel from my lips a recapitulation of what had taken place; standing over me, heaving with malevolence, as I reluctantly delivered the account in answer to his questions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emergence during embryonic development of various characters or structures that appeared during the evolutionary history of the strain or species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the section of a composition or movement (especially in sonata form) in which musical themes that were introduced earlier are repeated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon leaned over the elbow of his chair, and swayed his head up and down, apparently as a muscular outlet instead of that recapitulation which would not have been becoming."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Recapitulation WE can now perhaps understand why the ancients identified Hippolytus, the consort of Artemis, with Virbius, who, according to Servius, stood to Diana as Adonis to Venus, or Attis to the Mother of the Gods."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He was so obstinate in his resolution, that Heathcliff deemed it expedient to compel from my lips a recapitulation of what had taken place; standing over me, heaving with malevolence, as I reluctantly delivered the account in answer to his questions."*

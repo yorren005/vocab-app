@@ -5,15 +5,6 @@ status: unread
 ---
 # unsealed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break the seal of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not established or confirmed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At length, when the last pint is casked, and all is cool, then the great hatchways are unsealed, the bowels of the ship are thrown open, and down go the casks to their final rest in the sea."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"But I opened the door to find again, in a flash, my eyes unsealed."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At length, when the last pint is casked, and all is cool, then the great hatchways are unsealed, the bowels of the ship are thrown open, and down go the casks to their final rest in the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Break the seal of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not established or confirmed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At length, when the last pint is casked, and all is cool, then the great hatchways are unsealed, the bowels of the ship are thrown open, and down go the casks to their final rest in the sea."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"But I opened the door to find again, in a flash, my eyes unsealed."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At length, when the last pint is casked, and all is cool, then the great hatchways are unsealed, the bowels of the ship are thrown open, and down go the casks to their final rest in the sea."*

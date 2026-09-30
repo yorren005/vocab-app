@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrachord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diatonic series of four tones with an interval of a perfect fourth between the first and last.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diatonic series of four tones with an interval of a perfect fourth between the first and last.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachord designates a diatonic series of four tones with an interval of a perfect fourth between the first and last."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diatonic series of four tones with an interval of a perfect fourth between the first and last.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diatonic series of four tones with an interval of a perfect fourth between the first and last.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachord designates a diatonic series of four tones with an interval of a perfect fourth between the first and last."*

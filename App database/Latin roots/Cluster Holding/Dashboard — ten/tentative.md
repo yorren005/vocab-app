@@ -5,15 +5,6 @@ status: unread
 ---
 # tentative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsettled in mind or opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That he was a desultory tentative student of something and everything might only have been predicted of him."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The tentative kiss has not yet disclosed the presence of the Prince of Revolution, and they are likely to doze for another century or two."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Whether the hen, too, was beginning to feel the effects of its run I do not know, but it slowed down to a walk, and even began to peck in a tentative manner at the grass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsettled in mind or opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That he was a desultory tentative student of something and everything might only have been predicted of him."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The tentative kiss has not yet disclosed the presence of the Prince of Revolution, and they are likely to doze for another century or two."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Whether the hen, too, was beginning to feel the effects of its run I do not know, but it slowed down to a walk, and even began to peck in a tentative manner at the grass."*

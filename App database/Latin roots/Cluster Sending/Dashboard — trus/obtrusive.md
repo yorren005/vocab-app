@@ -5,15 +5,6 @@ status: unread
 ---
 # obtrusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undesirably noticeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sticking out; protruding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, avoiding, with some trouble those obtrusive sounds, says, “True.” At this juncture a considerable noise of voices is heard in the hall."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The changes of the seasons are less obtrusive on spots of this kind than amid woodland scenery."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That’s the state of the case, for that much I’ve seen myself.” And then they both stared at me, and I, with an obtrusive show of artlessness on my countenance, stared at them, and plaited the right leg of my trousers with my right hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undesirably noticeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sticking out; protruding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, avoiding, with some trouble those obtrusive sounds, says, “True.” At this juncture a considerable noise of voices is heard in the hall."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The changes of the seasons are less obtrusive on spots of this kind than amid woodland scenery."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"That’s the state of the case, for that much I’ve seen myself.” And then they both stared at me, and I, with an obtrusive show of artlessness on my countenance, stared at them, and plaited the right leg of my trousers with my right hand."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # underworld
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) the world of the dead; -theognis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"What so natural, then, as to assume that it was in this artificial Underworld that such work as was necessary to the comfort of the daylight race was done?"*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I proceeded, as I have said, to question Weena about this Underworld, but here again I was disappointed."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I had some thought of trying to go up the shaft again, and leave the Underworld alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) the world of the dead; -theognis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"What so natural, then, as to assume that it was in this artificial Underworld that such work as was necessary to the comfort of the daylight race was done?"*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I proceeded, as I have said, to question Weena about this Underworld, but here again I was disappointed."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I had some thought of trying to go up the shaft again, and leave the Underworld alone."*

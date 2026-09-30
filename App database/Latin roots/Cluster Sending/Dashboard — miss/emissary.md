@@ -5,15 +5,6 @@ status: unread
 ---
 # emissary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission to represent the interests of someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission to represent the interests of someone else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And now I find he’s in everybody’s mouth in Middlemarch as the editor of the ‘Pioneer.’ There are stories going about him as a quill-driving alien, a foreign emissary, and what not.” “Casaubon won’t like that,” said the Rector."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"An emissary of the Ranee," cried some."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You were responsible for Camari's emissary, Drummer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission to represent the interests of someone else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission to represent the interests of someone else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"And now I find he’s in everybody’s mouth in Middlemarch as the editor of the ‘Pioneer.’ There are stories going about him as a quill-driving alien, a foreign emissary, and what not.” “Casaubon won’t like that,” said the Rector."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"An emissary of the Ranee," cried some."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You were responsible for Camari's emissary, Drummer."*

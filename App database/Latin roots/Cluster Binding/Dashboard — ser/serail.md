@@ -5,13 +5,6 @@ status: unread
 ---
 # serail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serail designates living quarters reserved for wives and concubines and female relatives in a muslim household."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serail designates living quarters reserved for wives and concubines and female relatives in a muslim household."*

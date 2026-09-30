@@ -5,15 +5,6 @@ status: unread
 ---
 # astrology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The divination of the supposed influences of the stars and planets on human affairs and terrestrial events by their positions and aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divination of the supposed influences of the stars and planets on human affairs and terrestrial events by their positions and aspects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But you must have your will and drag my old body about with you—a-studying astronomy and numbers in Venice, poetry and all the Italian _fol-de-rols_ in Florence, and astrology in Pisa, and God knows what in that madman country of Germany."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That superstition so gross was accompanied by paralysing belief in magic, enchantment, miracle, astrology[68] and witchcraft generally, is not surprising."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The divination of the supposed influences of the stars and planets on human affairs and terrestrial events by their positions and aspects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divination of the supposed influences of the stars and planets on human affairs and terrestrial events by their positions and aspects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But you must have your will and drag my old body about with you—a-studying astronomy and numbers in Venice, poetry and all the Italian _fol-de-rols_ in Florence, and astrology in Pisa, and God knows what in that madman country of Germany."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That superstition so gross was accompanied by paralysing belief in magic, enchantment, miracle, astrology[68] and witchcraft generally, is not surprising."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # petal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part of the perianth that is usually brightly colored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Part of the perianth that is usually brightly colored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yes—I know that,” she said panting like a robin, her face red and moist from her exertions, like a peony petal before the sun dries off the dew."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Above the elbow it was milk-white with a faint bloom on it, in texture not like ivory, which is a dead, cold, and polished material, but like a flower petal, one of those flowers that have a downy sheen on them, white hyacinths or tall lilies."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I will not part with a petal.” “Monmouth has ears.” “Old age is dull of hearing.” “Has he never been jealous?” “I wish he had been.” He glanced about as if in search of something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Part of the perianth that is usually brightly colored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Part of the perianth that is usually brightly colored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yes—I know that,” she said panting like a robin, her face red and moist from her exertions, like a peony petal before the sun dries off the dew."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Above the elbow it was milk-white with a faint bloom on it, in texture not like ivory, which is a dead, cold, and polished material, but like a flower petal, one of those flowers that have a downy sheen on them, white hyacinths or tall lilies."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I will not part with a petal.” “Monmouth has ears.” “Old age is dull of hearing.” “Has he never been jealous?” “I wish he had been.” He glanced about as if in search of something."*

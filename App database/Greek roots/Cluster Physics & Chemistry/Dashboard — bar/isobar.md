@@ -5,13 +5,6 @@ status: unread
 ---
 # isobar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or a line on a map or chart connecting or marking places of equal barometric pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more atoms or elements having the same atomic weights or mass numbers but different atomic numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isobar designates an imaginary line or a line on a map or chart connecting or marking places of equal barometric pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or a line on a map or chart connecting or marking places of equal barometric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more atoms or elements having the same atomic weights or mass numbers but different atomic numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isobar designates an imaginary line or a line on a map or chart connecting or marking places of equal barometric pressure."*

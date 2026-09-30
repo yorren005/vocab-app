@@ -5,15 +5,6 @@ status: unread
 ---
 # sermonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak as if delivering a sermon; express moral judgements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak as if delivering a sermon; express moral judgements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode?” “Who else, eh?” “Then the story has grown into this lie out of some sermonizing words he may have let fall about me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am perhaps talking rather superfluously; but a man likes to assume superiority over himself, by holding up his bad example and sermonizing on it.” Lydgate took Mr."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Old Caleb came in and ate quickly, sermonizing Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak as if delivering a sermon; express moral judgements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak as if delivering a sermon; express moral judgements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode?” “Who else, eh?” “Then the story has grown into this lie out of some sermonizing words he may have let fall about me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I am perhaps talking rather superfluously; but a man likes to assume superiority over himself, by holding up his bad example and sermonizing on it.” Lydgate took Mr."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Old Caleb came in and ate quickly, sermonizing Mr."*

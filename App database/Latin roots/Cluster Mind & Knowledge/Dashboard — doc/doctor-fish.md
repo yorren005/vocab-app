@@ -5,13 +5,6 @@ status: unread
 ---
 # doctor-fish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgeon fish of the west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgeon fish of the west indies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctor-fish designates surgeon fish of the west indies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgeon fish of the west indies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgeon fish of the west indies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctor-fish designates surgeon fish of the west indies."*

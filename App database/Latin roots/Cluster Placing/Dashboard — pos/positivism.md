@@ -5,15 +5,6 @@ status: unread
 ---
 # positivism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The form of empiricism that bases all knowledge on perceptual experience (not on intuition or revelation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is needless to repeat, for it must be present to all minds, how many and deep are the differences which separate him from the later doctrines of Comte, and how completely he repudiated connection with the religious reconstruction of Positivism."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill for Positivism in no other sense than that in which he claimed it for himself in his own latest writings."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Yet I would not pretend that it is only on this side of his connection with the founder and principles of Positivism, that we dwell on the memory of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The form of empiricism that bases all knowledge on perceptual experience (not on intuition or revelation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is needless to repeat, for it must be present to all minds, how many and deep are the differences which separate him from the later doctrines of Comte, and how completely he repudiated connection with the religious reconstruction of Positivism."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill for Positivism in no other sense than that in which he claimed it for himself in his own latest writings."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Yet I would not pretend that it is only on this side of his connection with the founder and principles of Positivism, that we dwell on the memory of Mr."*

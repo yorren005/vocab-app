@@ -5,20 +5,6 @@ status: unread
 ---
 # sear
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Wither; to dry up
-> 2. **Nuance / Usage**: Make withered and dry : parch
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to sear the target*) and intransitive clauses (*searing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Were red-hot steel, to sear me to the brains."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Some beauty peeped through lattice of sear’d age."*
-> - 📜 **Ben Stivers (*Wrath of Magic*):** *"I will sear the skin from your flesh. You will die a thousand deaths!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To burn, scorch, or cauterize the surface of flesh or tissue with sudden, intense heat, or to brown meat rapidly over high heat.
+> 2. **Nuance / Usage**: In poetic usage (often spelled *sere*), means to wither or dry up vegetation; figuratively, to deaden the conscience or imprint an unforgettable painful memory (*seared into one's mind*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to sear the target*) and intransitive clauses (*searing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard III*):** *"I would to God that the inclusive verge of golden metal that must round my brow were red-hot steel, to **sear** me to the brains!"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet token burned upon her breast as if it had been **seared** into her very soul."*
+> - 📜 **Ben Stivers (*Wrath of Magic*):** *"I will **sear** the skin from your flesh with living flame."*

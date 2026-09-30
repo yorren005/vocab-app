@@ -5,13 +5,6 @@ status: unread
 ---
 # discordance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harsh mixture of sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strife resulting from a lack of agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"As they sit listening to the solemn swell, the confidence of last night rises in young Edwin Drood’s mind, and he thinks how unlike this music is to that discordance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harsh mixture of sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strife resulting from a lack of agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"As they sit listening to the solemn swell, the confidence of last night rises in young Edwin Drood’s mind, and he thinks how unlike this music is to that discordance."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # herrenvolk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A race that considers itself superior to all others and fitted to rule the others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A race that considers itself superior to all others and fitted to rule the others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herrenvolk designates a race that considers itself superior to all others and fitted to rule the others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A race that considers itself superior to all others and fitted to rule the others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A race that considers itself superior to all others and fitted to rule the others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herrenvolk designates a race that considers itself superior to all others and fitted to rule the others."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # legend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A story about mythical or supernatural beings or events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brief description accompanying an illustration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, preceded by the legend Ground-Floor, is inscribed upon a door-post in Symond’s Inn, Chancery Lane—a little, pale, wall-eyed, woebegone inn like a large dust-binn of two compartments and a sifter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A story about mythical or supernatural beings or events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brief description accompanying an illustration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, preceded by the legend Ground-Floor, is inscribed upon a door-post in Symond’s Inn, Chancery Lane—a little, pale, wall-eyed, woebegone inn like a large dust-binn of two compartments and a sifter."*

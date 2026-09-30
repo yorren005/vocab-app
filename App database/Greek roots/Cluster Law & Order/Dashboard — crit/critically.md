@@ -5,15 +5,6 @@ status: unread
 ---
 # critically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a critical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a critical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked at her—not slily, critically, or understandingly, but blankly at gaze, in the way a reaper looks up at a passing train—as something foreign to his element, and but dimly understood."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Poor Gabriel’s soul was fed with a luxury of content by having her over him, her eyes critically regarding his skilful shears, which apparently were going to gather up a piece of the flesh at every close, and yet never did so."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ve seen a good many women in my time,” continued the young man in a murmur, and more thoughtfully than hitherto, critically regarding her bent head at the same time; “but I’ve never seen a woman so beautiful as you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a critical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a critical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked at her—not slily, critically, or understandingly, but blankly at gaze, in the way a reaper looks up at a passing train—as something foreign to his element, and but dimly understood."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Poor Gabriel’s soul was fed with a luxury of content by having her over him, her eyes critically regarding his skilful shears, which apparently were going to gather up a piece of the flesh at every close, and yet never did so."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ve seen a good many women in my time,” continued the young man in a murmur, and more thoughtfully than hitherto, critically regarding her bent head at the same time; “but I’ve never seen a woman so beautiful as you."*

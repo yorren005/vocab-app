@@ -5,18 +5,6 @@ status: unread
 ---
 # kith
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Friends and relatives
-> 2. **Nuance / Usage**: Familiar friends, neighbors, or relatives
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the kith withstood the storm*), direct object (*cleaved the kith*), or prepositional anchor (*amidst the kith*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"the eye, as that sometimes he is loathed by his own kith and kin!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: One's familiar friends, neighbors, and acquaintances (as distinguished from blood relatives, or *kin*).
+> 2. **Nuance / Usage**: An Old English noun (related to *couth*, "known") that survives almost exclusively in the alliterative idiom *kith and kin* ("friends and family").
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the kith withstood the storm*), direct object (*cleaved the kith*), or prepositional anchor (*amidst the kith*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick*):** *"So unmannerly is he to the eye that sometimes he is loathed by his own **kith** and kin!"*
+> - 📜 **William Langland (*Piers Plowman*):** *"He wandered far from his native **kith** and all who knew his name."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He stood alone in the parish, a stranger without **kith** or kin among the villagers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # importunate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing earnest entreaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing earnest entreaty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is importunate, indeed distract."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And among other importunate and most serious designs, and of great import indeed, too—but let that pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or heard him say (as knaves be such abroad, Who having, by their own importunate suit, Or voluntary dotage of some mistress, Convinced or supplied them, cannot choose But they must blab.) OTHELLO."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing earnest entreaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing earnest entreaty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is importunate, indeed distract."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And among other importunate and most serious designs, and of great import indeed, too—but let that pass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or heard him say (as knaves be such abroad, Who having, by their own importunate suit, Or voluntary dotage of some mistress, Convinced or supplied them, cannot choose But they must blab.) OTHELLO."*

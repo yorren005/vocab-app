@@ -5,15 +5,6 @@ status: unread
 ---
 # starches
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foodstuff rich in natural starch (especially potatoes, rice, bread).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He's as sharp as she is any day, when it comes to that; but he's made comfortable, and she starches his shirt bosoms so's you can hear 'em creak 'way across the meeting-house."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Nitrogen in different chemical combinations contributes largely to the manufacture of body substances; the fats produce heat; and the starches and sugars go to make the vital energy."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foodstuff rich in natural starch (especially potatoes, rice, bread).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice; an important foodstuff and used otherwise especially in adhesives and as fillers and stiffeners for paper and textiles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He's as sharp as she is any day, when it comes to that; but he's made comfortable, and she starches his shirt bosoms so's you can hear 'em creak 'way across the meeting-house."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Nitrogen in different chemical combinations contributes largely to the manufacture of body substances; the fats produce heat; and the starches and sugars go to make the vital energy."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*

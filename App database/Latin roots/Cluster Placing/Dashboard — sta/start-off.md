@@ -5,13 +5,6 @@ status: unread
 ---
 # start-off
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A start given to contestants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A start given to contestants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, start-off designates a start given to contestants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A start given to contestants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A start given to contestants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, start-off designates a start given to contestants."*

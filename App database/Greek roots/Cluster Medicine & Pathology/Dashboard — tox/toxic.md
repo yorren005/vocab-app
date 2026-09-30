@@ -5,13 +5,6 @@ status: unread
 ---
 # toxic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or being poisonous material especially when capable of causing death or serious debilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting symptoms of infection or toxicosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxic designates containing or being poisonous material especially when capable of causing death or serious debilitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or being poisonous material especially when capable of causing death or serious debilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting symptoms of infection or toxicosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxic designates containing or being poisonous material especially when capable of causing death or serious debilitation."*

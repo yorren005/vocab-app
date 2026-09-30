@@ -5,15 +5,6 @@ status: unread
 ---
 # ranch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage or run a ranch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Thinks he does, and it serves him right--serves him right for starting out to run a widow-ranch in the first place; it's like making a collection of old shoes."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Full advantage should be taken of the facilities provided by the use of practical workshop courses in Latin American pioneering at the International School at Temerity Ranch."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Before her marriage she had lived "out west," so I plied her with questions about ranch life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage or run a ranch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Thinks he does, and it serves him right--serves him right for starting out to run a widow-ranch in the first place; it's like making a collection of old shoes."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Full advantage should be taken of the facilities provided by the use of practical workshop courses in Latin American pioneering at the International School at Temerity Ranch."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Before her marriage she had lived "out west," so I plied her with questions about ranch life."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # spirt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of a sudden discharge (as of liquid).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gush forth in a sudden stream or jet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DAUPHIN. _O Dieu vivant_! shall a few sprays of us, The emptying of our fathers’ luxury, Our scions put in wild and savage stock, Spirt up so suddenly into the clouds, And overlook their grafters?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Soon a soft spirt, alternating with a loud spirt, came in regular succession from within the shed."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From time to time a hollow murmur underground or a sudden spirt of flame into the air tells of what is going on beneath our feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of a sudden discharge (as of liquid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gush forth in a sudden stream or jet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DAUPHIN. _O Dieu vivant_! shall a few sprays of us, The emptying of our fathers’ luxury, Our scions put in wild and savage stock, Spirt up so suddenly into the clouds, And overlook their grafters?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Soon a soft spirt, alternating with a loud spirt, came in regular succession from within the shed."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From time to time a hollow murmur underground or a sudden spirt of flame into the air tells of what is going on beneath our feet."*

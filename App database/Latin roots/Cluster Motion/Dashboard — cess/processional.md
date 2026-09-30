@@ -5,14 +5,6 @@ status: unread
 ---
 # processional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious music used in a procession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended for use in a procession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their first exhibition of themselves was in a processional march of two and two round the parish."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the unceasing processional of strange secret faces wearied the eye and the mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious music used in a procession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended for use in a procession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their first exhibition of themselves was in a processional march of two and two round the parish."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the unceasing processional of strange secret faces wearied the eye and the mind."*

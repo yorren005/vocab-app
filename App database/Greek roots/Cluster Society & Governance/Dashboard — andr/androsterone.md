@@ -5,13 +5,6 @@ status: unread
 ---
 # androsterone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An androgenic hormone that is less active than testosterone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An androgenic hormone that is less active than testosterone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androsterone designates an androgenic hormone that is less active than testosterone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An androgenic hormone that is less active than testosterone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An androgenic hormone that is less active than testosterone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androsterone designates an androgenic hormone that is less active than testosterone."*

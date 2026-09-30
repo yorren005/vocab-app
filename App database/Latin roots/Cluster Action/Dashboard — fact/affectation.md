@@ -5,15 +5,6 @@ status: unread
 ---
 # affectation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate pretense or exaggerated display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That without any affectation of disparaging such professional distinction as I may have attained (which our friend Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The affectation of the gauzy child, and her condescension to the boys, was a sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate pretense or exaggerated display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That without any affectation of disparaging such professional distinction as I may have attained (which our friend Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The affectation of the gauzy child, and her condescension to the boys, was a sight."*

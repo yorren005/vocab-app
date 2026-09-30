@@ -5,15 +5,6 @@ status: unread
 ---
 # adoptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of parents and children; related by adoption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acquired as your own by free choice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her husband had been an advanced member of the Order, and she had herself taken all the "Adoptive Degrees." These reasons induced her to seek the aid of the Order, and she was pleased to find that she met with much encouragement."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A woman will take a boy whom she intends to adopt and push or pull him through her clothes; ever afterwards he is regarded as her very son, and inherits the whole property of his adoptive parents."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He cannot mention them all--"new, old, barbarian, Greek, Roman, foreign, captive, adoptive, special, common, male, female, rustic, urban, nautical and military"--but Saturn at any rate was a man, as the historians know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of parents and children; related by adoption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acquired as your own by free choice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her husband had been an advanced member of the Order, and she had herself taken all the "Adoptive Degrees." These reasons induced her to seek the aid of the Order, and she was pleased to find that she met with much encouragement."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A woman will take a boy whom she intends to adopt and push or pull him through her clothes; ever afterwards he is regarded as her very son, and inherits the whole property of his adoptive parents."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He cannot mention them all--"new, old, barbarian, Greek, Roman, foreign, captive, adoptive, special, common, male, female, rustic, urban, nautical and military"--but Saturn at any rate was a man, as the historians know."*

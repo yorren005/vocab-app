@@ -5,13 +5,6 @@ status: unread
 ---
 # resistor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that resists the flow of electrical current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device that resists the flow of electrical current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resistor designates an electrical device that resists the flow of electrical current."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that resists the flow of electrical current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device that resists the flow of electrical current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resistor designates an electrical device that resists the flow of electrical current."*

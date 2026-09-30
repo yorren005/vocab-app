@@ -5,15 +5,6 @@ status: unread
 ---
 # florin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in suriname; equal to 100 cents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly the basic unit of money in the netherlands; equal to 100 cents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Bid your hangdogs go Drink out this quarter-florin to the health Of the munificent House that harbors me (And many more beside, lads! more beside!) {30} And all’s come square again."*
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan brought up a florin, twisted it round in his fingers and cried: —A miracle!"*
-> - 📜 **James Joyce (*Ulysses*):** *"But the funny part is..... —And Reuben J, Martin Cunningham said, gave the boatman a florin for saving his son’s life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in suriname; equal to 100 cents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly the basic unit of money in the netherlands; equal to 100 cents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Bid your hangdogs go Drink out this quarter-florin to the health Of the munificent House that harbors me (And many more beside, lads! more beside!) {30} And all’s come square again."*
+> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan brought up a florin, twisted it round in his fingers and cried: —A miracle!"*
+> - 📜 **James Joyce (*Ulysses*):** *"But the funny part is..... —And Reuben J, Martin Cunningham said, gave the boatman a florin for saving his son’s life."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # capromyidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coypus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog capromyidae as a recognized concept in linguistic and etymological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coypus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coypus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog capromyidae as a recognized concept in linguistic and etymological taxonomy."*

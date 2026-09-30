@@ -5,13 +5,6 @@ status: unread
 ---
 # tempura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vegetables and seafood dipped in batter and deep-fried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vegetables and seafood dipped in batter and deep-fried.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempura designates vegetables and seafood dipped in batter and deep-fried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vegetables and seafood dipped in batter and deep-fried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vegetables and seafood dipped in batter and deep-fried.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempura designates vegetables and seafood dipped in batter and deep-fried."*

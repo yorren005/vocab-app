@@ -5,15 +5,6 @@ status: unread
 ---
 # familiarly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intimately familiar manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intimately familiar manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Because that I familiarly sometimes Do use you for my fool, and chat with you, Your sauciness will jest upon my love, And make a common of my serious hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a large mouth indeed, That spits forth death and mountains, rocks and seas; Talks as familiarly of roaring lions As maids of thirteen do of puppy-dogs!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, that calls your beauteous daughter wife, Familiarly shall call thy Dorset brother; Again shall you be mother to a king, And all the ruins of distressful times Repaired with double riches of content."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intimately familiar manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intimately familiar manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Because that I familiarly sometimes Do use you for my fool, and chat with you, Your sauciness will jest upon my love, And make a common of my serious hours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a large mouth indeed, That spits forth death and mountains, rocks and seas; Talks as familiarly of roaring lions As maids of thirteen do of puppy-dogs!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, that calls your beauteous daughter wife, Familiarly shall call thy Dorset brother; Again shall you be mother to a king, And all the ruins of distressful times Repaired with double riches of content."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perpetrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who perpetrates wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who perpetrates wrongdoing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the time attack, a common but perilous trick that every novice knows, that has laid on his back many a good man who attempted it, and that is so fraught with danger to the perpetrator that swordsmen are not enamoured of it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mind, I don’t say a _crime_; I am not speaking of shedding of blood or any other guilty act, which might make the perpetrator amenable to the law: my word is _error_."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The perpetrator of Catharine’s death was unknown to me till now; nay, it is still unknown to me.” At that moment, the closing of a door in the kitchen was distinctly heard by us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who perpetrates wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who perpetrates wrongdoing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the time attack, a common but perilous trick that every novice knows, that has laid on his back many a good man who attempted it, and that is so fraught with danger to the perpetrator that swordsmen are not enamoured of it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mind, I don’t say a _crime_; I am not speaking of shedding of blood or any other guilty act, which might make the perpetrator amenable to the law: my word is _error_."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The perpetrator of Catharine’s death was unknown to me till now; nay, it is still unknown to me.” At that moment, the closing of a door in the kitchen was distinctly heard by us."*

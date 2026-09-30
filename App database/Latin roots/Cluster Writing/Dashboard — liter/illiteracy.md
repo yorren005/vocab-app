@@ -5,13 +5,6 @@ status: unread
 ---
 # illiteracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignorance resulting from not reading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to read.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It provides that the proceeds of the sale of public land and the earnings of the Patent Office shall be funded at four per cent., and the interest divided among the States in proportion to their illiteracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignorance resulting from not reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to read.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It provides that the proceeds of the sale of public land and the earnings of the Patent Office shall be funded at four per cent., and the interest divided among the States in proportion to their illiteracy."*

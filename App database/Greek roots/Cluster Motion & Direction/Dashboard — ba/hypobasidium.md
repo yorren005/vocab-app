@@ -5,13 +5,6 @@ status: unread
 ---
 # hypobasidium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Special cell constituting the base of the basidium in various fungi especially of the order tremellales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special cell constituting the base of the basidium in various fungi especially of the order tremellales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypobasidium designates special cell constituting the base of the basidium in various fungi especially of the order tremellales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Special cell constituting the base of the basidium in various fungi especially of the order tremellales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special cell constituting the base of the basidium in various fungi especially of the order tremellales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypobasidium designates special cell constituting the base of the basidium in various fungi especially of the order tremellales."*

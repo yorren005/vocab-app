@@ -5,15 +5,6 @@ status: unread
 ---
 # acclaim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enthusiastic approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise vociferously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Glittered and sparkled the revelling spray, Swelled and receded its silvery lay, Rustled the roses in fervid array, In fragrance declaring their costly acclaim, Wafting on soft winds the redolent fame Of fantasy, fountain, and tuneful refrain."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It is written caring nothing for money, nothing for light acclaim."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"Who then had heard them all "Monjoie!" acclaim Of vassalage might well recall the tale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enthusiastic approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise vociferously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Glittered and sparkled the revelling spray, Swelled and receded its silvery lay, Rustled the roses in fervid array, In fragrance declaring their costly acclaim, Wafting on soft winds the redolent fame Of fantasy, fountain, and tuneful refrain."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It is written caring nothing for money, nothing for light acclaim."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"Who then had heard them all "Monjoie!" acclaim Of vassalage might well recall the tale."*

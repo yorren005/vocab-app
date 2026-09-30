@@ -5,15 +5,6 @@ status: unread
 ---
 # indirectly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in a forthright manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a forthright manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should poor beauty indirectly seek, Roses of shadow, since his rose is true?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bald unjointed chat of his, my lord, I answered indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my love and your high Majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Chatillion may from England bring That right in peace which here we urge in war, And then we shall repent each drop of blood That hot rash haste so indirectly shed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in a forthright manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a forthright manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should poor beauty indirectly seek, Roses of shadow, since his rose is true?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bald unjointed chat of his, my lord, I answered indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my love and your high Majesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Chatillion may from England bring That right in peace which here we urge in war, And then we shall repent each drop of blood That hot rash haste so indirectly shed."*

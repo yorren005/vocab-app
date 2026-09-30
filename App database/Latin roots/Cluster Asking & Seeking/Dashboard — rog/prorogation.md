@@ -5,15 +5,6 @@ status: unread
 ---
 # prorogation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discontinuation of the meeting (of a legislative body) without dissolving it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontinuation of the meeting (of a legislative body) without dissolving it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Parliament have three modes of separation, to wit: by adjournment, by prorogation or dissolution by the King, or by the efflux of the term for which they were elected."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Prorogation or dissolution constitutes there what is called a session; provided some act was passed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Committees may be appointed to sit during a recess by adjournment, but not by prorogation. _5 Grey_, 374; _9 Grey_, 350; _1 Chandler_, 50."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discontinuation of the meeting (of a legislative body) without dissolving it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontinuation of the meeting (of a legislative body) without dissolving it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Parliament have three modes of separation, to wit: by adjournment, by prorogation or dissolution by the King, or by the efflux of the term for which they were elected."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Prorogation or dissolution constitutes there what is called a session; provided some act was passed."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Committees may be appointed to sit during a recess by adjournment, but not by prorogation. _5 Grey_, 374; _9 Grey_, 350; _1 Chandler_, 50."*

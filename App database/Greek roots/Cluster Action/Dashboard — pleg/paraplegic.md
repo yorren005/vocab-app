@@ -5,13 +5,6 @@ status: unread
 ---
 # paraplegic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has paraplegia (is paralyzed from the waist down).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegic designates a person who has paraplegia (is paralyzed from the waist down)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has paraplegia (is paralyzed from the waist down).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegic designates a person who has paraplegia (is paralyzed from the waist down)."*

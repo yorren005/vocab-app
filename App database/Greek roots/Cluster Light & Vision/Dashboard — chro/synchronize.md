@@ -5,15 +5,6 @@ status: unread
 ---
 # synchronize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent or arrange (events) to indicate coincidence or coexistence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each utility maneuvered to synchronize axis and align portals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It would be the final signal to synchronize and activate the collective controls of the Extractor and Collector."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The principal occupations of this animal appears to be two; first, barking like a squirrel, and second, jerking the caudal appendage, which operations synchronize with remarkable exactitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To happen at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent or arrange (events) to indicate coincidence or coexistence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each utility maneuvered to synchronize axis and align portals."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It would be the final signal to synchronize and activate the collective controls of the Extractor and Collector."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The principal occupations of this animal appears to be two; first, barking like a squirrel, and second, jerking the caudal appendage, which operations synchronize with remarkable exactitude."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tenerife
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenerife designates a spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenerife designates a spanish island in the atlantic off the northwestern coast of africa; the largest of the canary islands."*

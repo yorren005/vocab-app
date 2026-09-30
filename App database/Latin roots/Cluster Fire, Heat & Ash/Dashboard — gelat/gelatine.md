@@ -5,15 +5,6 @@ status: unread
 ---
 # gelatine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Do you know the meaning of "Ben Day?" It is a mechanical tint, printed mechanically either on the plate, by the engraver, or on the original drawing, from an inked gelatine surface and rubbed on with a stilus."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Peduncles extremely long, agglutinated by gelatine into a tremelloid expanded mass."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PODISOMA, _Lk._ Peduncles extremely long, agglutinated by gelatine into a common stem, spreading out above into a _clavariæform_ mass; spores mostly uniseptate.—_Berk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Do you know the meaning of "Ben Day?" It is a mechanical tint, printed mechanically either on the plate, by the engraver, or on the original drawing, from an inked gelatine surface and rubbed on with a stilus."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Peduncles extremely long, agglutinated by gelatine into a tremelloid expanded mass."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PODISOMA, _Lk._ Peduncles extremely long, agglutinated by gelatine into a common stem, spreading out above into a _clavariæform_ mass; spores mostly uniseptate.—_Berk."*

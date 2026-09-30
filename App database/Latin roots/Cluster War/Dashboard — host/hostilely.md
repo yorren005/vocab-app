@@ -5,13 +5,6 @@ status: unread
 ---
 # hostilely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hostility; in a belligerent hostile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hostility; in a belligerent hostile manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hostilely designates with hostility; in a belligerent hostile manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With hostility; in a belligerent hostile manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hostility; in a belligerent hostile manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hostilely designates with hostility; in a belligerent hostile manner."*

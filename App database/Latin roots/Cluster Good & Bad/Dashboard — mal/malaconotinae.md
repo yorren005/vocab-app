@@ -5,13 +5,6 @@ status: unread
 ---
 # malaconotinae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An african bush shrikes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An african bush shrikes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaconotinae designates an african bush shrikes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An african bush shrikes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An african bush shrikes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaconotinae designates an african bush shrikes."*

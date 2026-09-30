@@ -5,13 +5,6 @@ status: unread
 ---
 # cochlea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cochlea designates a hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cochlea designates a hollow tube in the inner ear of higher vertebrates that is usually coiled like a snail shell and contains the sensory organ of hearing."*

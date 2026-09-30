@@ -5,13 +5,6 @@ status: unread
 ---
 # primula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primula designates any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primula designates any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads."*

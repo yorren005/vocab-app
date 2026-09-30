@@ -5,13 +5,6 @@ status: unread
 ---
 # oximeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noninvasive medical device for measuring continuously or intermittently the degree of oxygen saturation of circulating blood or a localized region of tissue; especially : pulse oximeter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noninvasive medical device that utilizes spectrophotometry to measure the oxygen saturation of circulating arterial blood in an individual by determining the percentage of oxygenated hemoglobin pulsating through a network of blood capillaries by way of a sensor attached typically to a finger, toe, or earlobe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oximeter designates a noninvasive medical device for measuring continuously or intermittently the degree of oxygen saturation of circulating blood or a localized region of tissue; especially : pulse oximeter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noninvasive medical device for measuring continuously or intermittently the degree of oxygen saturation of circulating blood or a localized region of tissue; especially : pulse oximeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noninvasive medical device that utilizes spectrophotometry to measure the oxygen saturation of circulating arterial blood in an individual by determining the percentage of oxygenated hemoglobin pulsating through a network of blood capillaries by way of a sensor attached typically to a finger, toe, or earlobe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oximeter designates a noninvasive medical device for measuring continuously or intermittently the degree of oxygen saturation of circulating blood or a localized region of tissue; especially : pulse oximeter."*

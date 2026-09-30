@@ -5,15 +5,6 @@ status: unread
 ---
 # habit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An established custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will speak to him like a saucy lackey, and under that habit play the knave with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a fourth man, in a silly habit, That gave th’ affront with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An established custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will speak to him like a saucy lackey, and under that habit play the knave with him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a fourth man, in a silly habit, That gave th’ affront with them."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # effusively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effusive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an effusive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Amanda," the other girl said effusively, "what a fine young man!"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Sometimes the man is so effusively thankful that you know you have given him a good deal _more_ than was necessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effusive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an effusive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Amanda," the other girl said effusively, "what a fine young man!"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Sometimes the man is so effusively thankful that you know you have given him a good deal _more_ than was necessary."*

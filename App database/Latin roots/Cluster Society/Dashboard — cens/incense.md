@@ -5,15 +5,6 @@ status: unread
 ---
 # incense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that produces a fragrant odor when burned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pleasing scent produced when incense is burned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, God incense him, And let him cry “Ha!” louder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is attended with a desperate train, And what they may incense him to, being apt To have his ear abus’d, wisdom bids fear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon such sacrifices, my Cordelia, The gods themselves throw incense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that produces a fragrant odor when burned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pleasing scent produced when incense is burned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, God incense him, And let him cry “Ha!” louder."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is attended with a desperate train, And what they may incense him to, being apt To have his ear abus’d, wisdom bids fear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon such sacrifices, my Cordelia, The gods themselves throw incense."*

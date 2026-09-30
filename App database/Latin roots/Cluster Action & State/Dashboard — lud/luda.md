@@ -5,13 +5,6 @@ status: unread
 ---
 # luda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luda designates an industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luda designates an industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun."*

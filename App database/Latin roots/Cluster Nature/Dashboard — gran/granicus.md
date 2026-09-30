@@ -5,13 +5,6 @@ status: unread
 ---
 # granicus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The battle in which alexander won his first major victory against the persians (334 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The battle in which alexander won his first major victory against the persians (334 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granicus designates the battle in which alexander won his first major victory against the persians (334 bc)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The battle in which alexander won his first major victory against the persians (334 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The battle in which alexander won his first major victory against the persians (334 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granicus designates the battle in which alexander won his first major victory against the persians (334 bc)."*

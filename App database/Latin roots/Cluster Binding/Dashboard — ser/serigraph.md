@@ -5,13 +5,6 @@ status: unread
 ---
 # serigraph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serigraph designates a print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serigraph designates a print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil."*

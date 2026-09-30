@@ -5,13 +5,6 @@ status: unread
 ---
 # empathic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*

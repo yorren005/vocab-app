@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalotaxus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of cephalotaxus (see plum-yews).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The genus of cephalotaxus (see plum-yews).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalotaxus designates the genus of cephalotaxus (see plum-yews)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of cephalotaxus (see plum-yews).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The genus of cephalotaxus (see plum-yews).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalotaxus designates the genus of cephalotaxus (see plum-yews)."*

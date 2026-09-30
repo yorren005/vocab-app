@@ -5,13 +5,6 @@ status: unread
 ---
 # spermatogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatogenesis designates the process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatogenesis designates the process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa."*

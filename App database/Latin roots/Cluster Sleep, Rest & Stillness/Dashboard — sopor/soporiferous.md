@@ -5,13 +5,6 @@ status: unread
 ---
 # soporiferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing mental lethargy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"All this I was told; for, while the operation was performing, I lay in a profound sleep, by the force of that soporiferous medicine infused into my liquor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing mental lethargy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"All this I was told; for, while the operation was performing, I lay in a profound sleep, by the force of that soporiferous medicine infused into my liquor."*

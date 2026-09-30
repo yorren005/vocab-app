@@ -5,13 +5,6 @@ status: unread
 ---
 # choree
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choree designates a movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choree designates a movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance)."*

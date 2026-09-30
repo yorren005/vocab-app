@@ -5,15 +5,6 @@ status: unread
 ---
 # indenture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave cut into a surface or edge (as in a coastline).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal agreement between the issuer of bonds and the bondholders as to terms of the debt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Francis, darest thou be so valiant as to play the coward with thy indenture, and show it a fair pair of heels, and run from it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Empty Old receptacles, or common shores, of filth; Serve by indenture to the common hangman: Any of these ways are yet better than this; For what thou professest, a baboon, could he speak, Would own a name too dear."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In his malignity, he is ready to pledge his soul to Satan (leaving a flaw in the indenture), to see blasted that rose-acacia Laurence is so proud of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave cut into a surface or edge (as in a coastline).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal agreement between the issuer of bonds and the bondholders as to terms of the debt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Francis, darest thou be so valiant as to play the coward with thy indenture, and show it a fair pair of heels, and run from it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Empty Old receptacles, or common shores, of filth; Serve by indenture to the common hangman: Any of these ways are yet better than this; For what thou professest, a baboon, could he speak, Would own a name too dear."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In his malignity, he is ready to pledge his soul to Satan (leaving a flaw in the indenture), to see blasted that rose-acacia Laurence is so proud of."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # charm
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Practice or expression believed to have magic power
-> 2. **Nuance / Usage**: The chanting or reciting of a magic spell : incantation
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"_ Nor no witchcraft charm thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And therefore shall it charm thy riotous tongue."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Peace, wilful boy, or I will charm your tongue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A spoken verse, ritual formula, or small worn object believed to possess magical power to ward off evil or bring good fortune.
+> 2. **Nuance / Usage**: An alluring personal quality or magnetic grace that delights, attracts, and disarms others; as a verb, to soothe or captivate as if by magic.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Cymbeline*):** *"Fear no more the lightning-flash, nor the all-dreaded thunder-stone; thou hast finished joy and moan, nor no witchcraft **charm** thee!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sweet is the breath of morn, her rising sweet, with **charm** of earliest birds."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth wanted Mr. Darcy to account for his having ever fallen in love with her, and asked what **charm** had first attracted him."*

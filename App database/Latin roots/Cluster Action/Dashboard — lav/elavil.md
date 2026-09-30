@@ -5,13 +5,6 @@ status: unread
 ---
 # elavil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tricyclic antidepressant drug (trade name elavil) with serious side effects; interacts with many other medications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tricyclic antidepressant drug (trade name elavil) with serious side effects; interacts with many other medications.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elavil designates a tricyclic antidepressant drug (trade name elavil) with serious side effects; interacts with many other medications."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tricyclic antidepressant drug (trade name elavil) with serious side effects; interacts with many other medications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tricyclic antidepressant drug (trade name elavil) with serious side effects; interacts with many other medications.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elavil designates a tricyclic antidepressant drug (trade name elavil) with serious side effects; interacts with many other medications."*

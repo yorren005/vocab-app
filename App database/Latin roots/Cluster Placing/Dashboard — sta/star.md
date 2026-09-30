@@ -5,15 +5,6 @@ status: unread
 ---
 # star
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is dazzlingly skilled in any field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand’ring bark, Whose worth’s unknown, although his height be taken."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone: there is no living, none, If Bertram be away. ’Twere all one That I should love a bright particular star, And think to wed it, he is so above me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, you were born under a charitable star."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is dazzlingly skilled in any field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand’ring bark, Whose worth’s unknown, although his height be taken."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone: there is no living, none, If Bertram be away. ’Twere all one That I should love a bright particular star, And think to wed it, he is so above me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, you were born under a charitable star."*

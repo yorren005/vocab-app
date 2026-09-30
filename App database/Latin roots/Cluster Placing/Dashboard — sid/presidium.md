@@ -5,13 +5,6 @@ status: unread
 ---
 # presidium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presidium designates a permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presidium designates a permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session."*

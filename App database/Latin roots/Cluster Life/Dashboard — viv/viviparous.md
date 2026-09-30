@@ -5,13 +5,6 @@ status: unread
 ---
 # viviparous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing living young (not eggs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing living young (not eggs).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viviparous designates producing living young (not eggs)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing living young (not eggs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing living young (not eggs).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viviparous designates producing living young (not eggs)."*

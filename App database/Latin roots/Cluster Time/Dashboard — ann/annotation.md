@@ -5,15 +5,6 @@ status: unread
 ---
 # annotation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comment or instruction (usually added).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adding notes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have been led farther than I had foreseen, and various subjects for annotation have presented themselves which, though I have no direct need of them, I could not pretermit."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comment or instruction (usually added).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adding notes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I have been led farther than I had foreseen, and various subjects for annotation have presented themselves which, though I have no direct need of them, I could not pretermit."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
+> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aurora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first light of day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fairy lord, this must be done with haste, For night’s swift dragons cut the clouds full fast; And yonder shines Aurora’s harbinger, At whose approach, ghosts wandering here and there Troop home to churchyards."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the aid of the Casterbridge aurora, and by feeling with her hands, the woman selected two sticks from the heaps."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning, in the Fifth Book of her ‘Aurora Leigh’, has given a full and very forcible expression to the feeling which has caused the highest dramatic genius of the present day to seek refuge in the poem and the novel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first light of day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fairy lord, this must be done with haste, For night’s swift dragons cut the clouds full fast; And yonder shines Aurora’s harbinger, At whose approach, ghosts wandering here and there Troop home to churchyards."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the aid of the Casterbridge aurora, and by feeling with her hands, the woman selected two sticks from the heaps."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning, in the Fifth Book of her ‘Aurora Leigh’, has given a full and very forcible expression to the feeling which has caused the highest dramatic genius of the present day to seek refuge in the poem and the novel."*

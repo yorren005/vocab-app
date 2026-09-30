@@ -5,15 +5,6 @@ status: unread
 ---
 # acme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point or stage (as of growth or development); also : something or someone that represents perfection of the thing expressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest point or stage (as of growth or development); also : something or someone that represents perfection of the thing expressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was not a sound of life save that acme and sublimation of all dismal sounds, the bark of a fox, its three hollow notes being rendered at intervals of a minute with the precision of a funeral bell."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Thus his instinct for God and his instinct for the essential carry him to the very centre and acme of Moses' law."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Not ‘very good’--it’s simply delicious!” Just as “Uncle’s” pickled mushrooms, honey, and cherry brandy had seemed to her the best in the world, so also that song, at that moment, seemed to her the acme of musical delight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point or stage (as of growth or development); also : something or someone that represents perfection of the thing expressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest point or stage (as of growth or development); also : something or someone that represents perfection of the thing expressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was not a sound of life save that acme and sublimation of all dismal sounds, the bark of a fox, its three hollow notes being rendered at intervals of a minute with the precision of a funeral bell."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Thus his instinct for God and his instinct for the essential carry him to the very centre and acme of Moses' law."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Not ‘very good’--it’s simply delicious!” Just as “Uncle’s” pickled mushrooms, honey, and cherry brandy had seemed to her the best in the world, so also that song, at that moment, seemed to her the acme of musical delight."*

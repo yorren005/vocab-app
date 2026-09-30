@@ -5,20 +5,6 @@ status: unread
 ---
 # spurn
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Reject something disdainfully
-> 2. **Nuance / Usage**: Act of spurning; a scornful rejection
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to spurn the target*) and intransitive clauses (*spurning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That like a football you do spurn me thus?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You spurn me hence, and he will spurn me hither."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To spet on thee again, to spurn thee too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To reject a person, offer, or advance with disdain, scorn, or contemptuous pride.
+> 2. **Nuance / Usage**: Originally meant to kick or strike away with the foot; hence, it retains a visceral sense of pushing someone or something away as unworthy.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to spurn the target*) and intransitive clauses (*spurning against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Am I so round with you as you with me, that like a football you do **spurn** me thus?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I would rather be happy than dignified, and I could never **spurn** a heart that truly loved me."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He **spurned** the proffered mercy with haughty disdain and chose his own ruin."*

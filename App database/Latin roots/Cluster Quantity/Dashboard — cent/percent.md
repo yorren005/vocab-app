@@ -5,15 +5,6 @@ status: unread
 ---
 # percent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proportion in relation to a whole (which is usually the amount per hundred).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proportion in relation to a whole (which is usually the amount per hundred).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'm setting the thruster to cut in at twenty percent as soon as we're back in and slam the hatch."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad pointed at the highlighted "Fleet readiness 92 percent." "Allies?" "Made the trip from home stations along diverse routes and under detection wraps."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Maximum acceleration for almost two Earth decades increased the fleet's velocity to five percent speed-of-light, which it maintained for more than a Solar System Standard Century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proportion in relation to a whole (which is usually the amount per hundred).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proportion in relation to a whole (which is usually the amount per hundred).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'm setting the thruster to cut in at twenty percent as soon as we're back in and slam the hatch."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad pointed at the highlighted "Fleet readiness 92 percent." "Allies?" "Made the trip from home stations along diverse routes and under detection wraps."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Maximum acceleration for almost two Earth decades increased the fleet's velocity to five percent speed-of-light, which it maintained for more than a Solar System Standard Century."*

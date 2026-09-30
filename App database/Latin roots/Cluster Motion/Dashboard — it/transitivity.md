@@ -5,13 +5,6 @@ status: unread
 ---
 # transitivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by a transitive verb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitivity designates (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by a transitive verb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitivity designates (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third."*

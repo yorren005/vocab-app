@@ -5,15 +5,6 @@ status: unread
 ---
 # malaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infective disease caused by sporozoan parasites that are transmitted through the bite of an infected anopheles mosquito; marked by paroxysms of chills and fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infective disease caused by sporozoan parasites that are transmitted through the bite of an infected anopheles mosquito; marked by paroxysms of chills and fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The doctors scoffed at this; but they talked about malaria, which, as far as I could understand, was likely to produce exactly the same effect."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Do what I would, I could not deliver myself from a sense of something dreadful in the air which was neither malaria nor animalculæ, I took a promenade through the streets that evening, accompanied by M."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis and resumed her position at Benton Barracks, in which she continued till August, 1864, when in consequence of illness, caused by malaria, she returned to her home in Cambridge a second time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infective disease caused by sporozoan parasites that are transmitted through the bite of an infected anopheles mosquito; marked by paroxysms of chills and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infective disease caused by sporozoan parasites that are transmitted through the bite of an infected anopheles mosquito; marked by paroxysms of chills and fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The doctors scoffed at this; but they talked about malaria, which, as far as I could understand, was likely to produce exactly the same effect."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Do what I would, I could not deliver myself from a sense of something dreadful in the air which was neither malaria nor animalculæ, I took a promenade through the streets that evening, accompanied by M."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis and resumed her position at Benton Barracks, in which she continued till August, 1864, when in consequence of illness, caused by malaria, she returned to her home in Cambridge a second time."*

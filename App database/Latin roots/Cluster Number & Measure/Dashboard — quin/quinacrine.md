@@ -5,13 +5,6 @@ status: unread
 ---
 # quinacrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinacrine designates a drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinacrine designates a drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria."*

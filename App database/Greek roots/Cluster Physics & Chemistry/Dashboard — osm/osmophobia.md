@@ -5,13 +5,6 @@ status: unread
 ---
 # osmophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmophobia designates intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmophobia designates intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors."*

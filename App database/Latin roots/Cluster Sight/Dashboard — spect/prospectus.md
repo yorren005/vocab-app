@@ -5,15 +5,6 @@ status: unread
 ---
 # prospectus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written offer to sell securities (filed with the sec) that sets forth a plan for a (proposed) business enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catalog listing the courses offered by a college or university.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The addition of Karlshaven IV to the list of planets under colonization would be made, and Holliday's asking prices for land would be posted with Emigration, together with a prospectus abstracted from the General Galactic Survey."*
-> - 📜 **Algis Budrys (*Citadel*):** *"The individual holding the option is then referred to Emigration, which provides copies of a prospectus taken from the General Survey report, and advertises the option holder's asking prices on subdivisions."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I want you to be ready to lay out a complete advertising and prospectus program."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written offer to sell securities (filed with the sec) that sets forth a plan for a (proposed) business enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catalog listing the courses offered by a college or university.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"The addition of Karlshaven IV to the list of planets under colonization would be made, and Holliday's asking prices for land would be posted with Emigration, together with a prospectus abstracted from the General Galactic Survey."*
+> - 📜 **Algis Budrys (*Citadel*):** *"The individual holding the option is then referred to Emigration, which provides copies of a prospectus taken from the General Survey report, and advertises the option holder's asking prices on subdivisions."*
+> - 📜 **Algis Budrys (*Citadel*):** *"I want you to be ready to lay out a complete advertising and prospectus program."*

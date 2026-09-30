@@ -5,13 +5,6 @@ status: unread
 ---
 # elaborateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by elaborately complex detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornate appearance; being elaborately (even excessively) decorated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elaborateness designates marked by elaborately complex detail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by elaborately complex detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornate appearance; being elaborately (even excessively) decorated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elaborateness designates marked by elaborately complex detail."*

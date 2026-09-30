@@ -5,15 +5,6 @@ status: unread
 ---
 # impersonal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to or responsive to individual persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no personal preference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, addressing us, his new friends, in an impersonal manner."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wealth is an impersonal basis of taxation; each piece of wealth might be taxed once as a unit no matter how the ownership were divided."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These become a part of business costs, and are diffused over the whole population in general prices.[14] This system of impersonal wealth taxation may then be supplemented by personal taxation, applied through inheritance and income taxes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to or responsive to individual persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no personal preference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, addressing us, his new friends, in an impersonal manner."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wealth is an impersonal basis of taxation; each piece of wealth might be taxed once as a unit no matter how the ownership were divided."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These become a part of business costs, and are diffused over the whole population in general prices.[14] This system of impersonal wealth taxation may then be supplemented by personal taxation, applied through inheritance and income taxes."*

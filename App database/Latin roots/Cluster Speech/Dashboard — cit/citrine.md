@@ -5,13 +5,6 @@ status: unread
 ---
 # citrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Semiprecious yellow quartz resembling topaz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semiprecious yellow quartz resembling topaz.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrine designates semiprecious yellow quartz resembling topaz."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Semiprecious yellow quartz resembling topaz.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semiprecious yellow quartz resembling topaz.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrine designates semiprecious yellow quartz resembling topaz."*

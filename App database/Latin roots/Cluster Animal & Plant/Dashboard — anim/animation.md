@@ -5,15 +5,6 @@ status: unread
 ---
 # animation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of living or the state of being alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being able to survive and grow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is only an invention of people who are not contented with one misfortune but must make up an added terror," the mother said with animation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius is keeping watch, we won't get very close to it, because the property is fenced in for a long way around." "Oh, we can go up on the road to the entrance," said Kurt with animation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I do not really understand why the boys should have to live together," she said with animation; "they do not profess to feel much friendship for each other, and never seek each other out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of living or the state of being alive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being able to survive and grow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is only an invention of people who are not contented with one misfortune but must make up an added terror," the mother said with animation."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius is keeping watch, we won't get very close to it, because the property is fenced in for a long way around." "Oh, we can go up on the road to the entrance," said Kurt with animation."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I do not really understand why the boys should have to live together," she said with animation; "they do not profess to feel much friendship for each other, and never seek each other out."*

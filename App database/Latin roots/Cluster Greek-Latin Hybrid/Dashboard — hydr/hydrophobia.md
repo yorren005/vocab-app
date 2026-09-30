@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symptom of rabies in humans consisting of an aversion to swallowing liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morbid fear of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Growling and grousing and his eye all bloodshot from the drouth is in it and the hydrophobia dropping out of his jaws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symptom of rabies in humans consisting of an aversion to swallowing liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morbid fear of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Growling and grousing and his eye all bloodshot from the drouth is in it and the hydrophobia dropping out of his jaws."*

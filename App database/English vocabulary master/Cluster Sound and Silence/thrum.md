@@ -5,20 +5,6 @@ status: unread
 ---
 # thrum
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sound with a monotonous hum
-> 2. **Nuance / Usage**: Make a monotonous drumming noise
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrum the target*) and intransitive clauses (*thruming against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"O Fates, come, come; Cut thread and thrum; Quail, rush, conclude, and quell!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Here, ambush'd by the chimla cheek, Hid in an atmosphere of reek, I hear a wheel thrum i' the neuk, I hear it—for in vain I leuk."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Mítka tuned up afresh, and recommenced thrumming the balaláyka to the air of My Lady, with trills and variations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sound with a monotonous hum
+> 2. **Nuance / Usage**: Make a monotonous drumming noise
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrum the target*) and intransitive clauses (*thruming against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"O Fates, come, come; Cut thread and thrum; Quail, rush, conclude, and quell!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Here, ambush'd by the chimla cheek, Hid in an atmosphere of reek, I hear a wheel thrum i' the neuk, I hear it—for in vain I leuk."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Mítka tuned up afresh, and recommenced thrumming the balaláyka to the air of My Lady, with trills and variations."*

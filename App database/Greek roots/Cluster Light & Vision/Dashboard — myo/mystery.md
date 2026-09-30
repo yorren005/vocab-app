@@ -5,15 +5,6 @@ status: unread
 ---
 # mystery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something not understood or beyond understanding : enigma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of fiction dealing usually with the solution of a mysterious crime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fear hath catch’d your fondness; now I see The mystery of your loneliness, and find Your salt tears’ head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie upon him, he will discredit our mystery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something not understood or beyond understanding : enigma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of fiction dealing usually with the solution of a mysterious crime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fear hath catch’d your fondness; now I see The mystery of your loneliness, and find Your salt tears’ head."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie upon him, he will discredit our mystery."*

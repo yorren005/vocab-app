@@ -5,15 +5,6 @@ status: unread
 ---
 # dictation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative direction or instruction to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speech intended for reproduction in writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, as she at once proceeded with her dictation, and as I interrupted nothing by doing it, I ventured quietly to stop poor Peepy as he was going out and to take him up to nurse."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby had yet finished her dictation for the day, when Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am very sorry I couldn’t go on writing from dictation, Ma,” sobbed Caddy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative direction or instruction to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speech intended for reproduction in writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"However, as she at once proceeded with her dictation, and as I interrupted nothing by doing it, I ventured quietly to stop poor Peepy as he was going out and to take him up to nurse."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby had yet finished her dictation for the day, when Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am very sorry I couldn’t go on writing from dictation, Ma,” sobbed Caddy."*

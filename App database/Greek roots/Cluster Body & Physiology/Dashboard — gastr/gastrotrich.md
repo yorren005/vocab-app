@@ -5,13 +5,6 @@ status: unread
 ---
 # gastrotrich
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a phylum (Gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrotrich designates any of a phylum (gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a phylum (Gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrotrich designates any of a phylum (gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface."*

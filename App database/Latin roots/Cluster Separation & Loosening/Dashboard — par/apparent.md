@@ -5,15 +5,6 @@ status: unread
 ---
 # apparent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly revealed to the mind or the senses or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing as such but not necessarily so.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can make’t apparent That you have tasted her in bed, my hand And ring is yours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, and so used it that were it not here apparent that thou art heir apparent—But I prithee sweet wag, shall there be gallows standing in England when thou art king?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hang thyself in thine own heir-apparent garters!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly revealed to the mind or the senses or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing as such but not necessarily so.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can make’t apparent That you have tasted her in bed, my hand And ring is yours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, and so used it that were it not here apparent that thou art heir apparent—But I prithee sweet wag, shall there be gallows standing in England when thou art king?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hang thyself in thine own heir-apparent garters!"*

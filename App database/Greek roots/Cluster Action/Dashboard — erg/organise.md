@@ -5,15 +5,6 @@ status: unread
 ---
 # organise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create (as an entity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"To organise the patrol again, under the circumstances, would have been impossible."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"There were intricate, bristling things he rejoiced in; he liked to organise, to contend, to administer; he could make people work his will, believe in him, march before him and justify him."*
-> - 📜 **James Joyce (*Ulysses*):** *"He’s an excellent man to organise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create (as an entity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"To organise the patrol again, under the circumstances, would have been impossible."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"There were intricate, bristling things he rejoiced in; he liked to organise, to contend, to administer; he could make people work his will, believe in him, march before him and justify him."*
+> - 📜 **James Joyce (*Ulysses*):** *"He’s an excellent man to organise."*

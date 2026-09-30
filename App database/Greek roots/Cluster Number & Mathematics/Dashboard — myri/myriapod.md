@@ -5,13 +5,6 @@ status: unread
 ---
 # myriapod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriapod designates any of a group (myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriapod designates any of a group (myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes."*

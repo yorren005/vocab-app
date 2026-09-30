@@ -5,13 +5,6 @@ status: unread
 ---
 # sigmoidectomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmoidectomy designates surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmoidectomy designates surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # retractor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical instrument that holds back the edges of a surgical incision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical instrument that holds back the edges of a surgical incision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retractor designates surgical instrument that holds back the edges of a surgical incision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical instrument that holds back the edges of a surgical incision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical instrument that holds back the edges of a surgical incision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retractor designates surgical instrument that holds back the edges of a surgical incision."*

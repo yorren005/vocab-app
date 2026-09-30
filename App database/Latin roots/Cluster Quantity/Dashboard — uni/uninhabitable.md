@@ -5,14 +5,6 @@ status: unread
 ---
 # uninhabitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fit for habitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uninhabitable, and almost inaccessible,— SEBASTIAN."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the demons have been long unmolested the country is said to be "warm," and the priest issues orders to expel them by force, lest the whole of Bali should be rendered uninhabitable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit for habitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fit for habitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uninhabitable, and almost inaccessible,— SEBASTIAN."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the demons have been long unmolested the country is said to be "warm," and the priest issues orders to expel them by force, lest the whole of Bali should be rendered uninhabitable."*

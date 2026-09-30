@@ -5,15 +5,6 @@ status: unread
 ---
 # visit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going to see some person or place or thing for a short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go home with it, and please your wife withal, And soon at supper-time I’ll visit you, And then receive my money for the chain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the Lady Valeria is come to visit you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going to see some person or place or thing for a short time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go home with it, and please your wife withal, And soon at supper-time I’ll visit you, And then receive my money for the chain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the Lady Valeria is come to visit you."*

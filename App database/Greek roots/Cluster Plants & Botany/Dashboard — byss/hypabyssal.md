@@ -5,13 +5,6 @@ status: unread
 ---
 # hypabyssal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypabyssal designates of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypabyssal designates of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface."*

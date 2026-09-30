@@ -5,13 +5,6 @@ status: unread
 ---
 # cervid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguished from bovidae by the male's having solid deciduous antlers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguished from bovidae by the male's having solid deciduous antlers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervid designates distinguished from bovidae by the male's having solid deciduous antlers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguished from bovidae by the male's having solid deciduous antlers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguished from bovidae by the male's having solid deciduous antlers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervid designates distinguished from bovidae by the male's having solid deciduous antlers."*

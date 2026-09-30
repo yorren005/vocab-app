@@ -5,15 +5,6 @@ status: unread
 ---
 # mendicant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a religious order that originally relied solely on alms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pauper who lives by begging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They probably despised her already; how much more they would despise her in the character of a mendicant!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I dared to put off the mendicant—to resume my natural manner and character."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Still, that last clause about the mendicant leaves hope for the benighted man who still wants the cling of the vine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a religious order that originally relied solely on alms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pauper who lives by begging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They probably despised her already; how much more they would despise her in the character of a mendicant!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I dared to put off the mendicant—to resume my natural manner and character."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Still, that last clause about the mendicant leaves hope for the benighted man who still wants the cling of the vine."*

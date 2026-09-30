@@ -5,15 +5,6 @@ status: unread
 ---
 # ingenious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing inventiveness and skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing inventiveness and skill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou, King, send out For torturers ingenious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, treble woe Fall ten times treble on that cursed head Whose wicked deed thy most ingenious sense Depriv’d thee of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing inventiveness and skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing inventiveness and skill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou, King, send out For torturers ingenious."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, treble woe Fall ten times treble on that cursed head Whose wicked deed thy most ingenious sense Depriv’d thee of."*

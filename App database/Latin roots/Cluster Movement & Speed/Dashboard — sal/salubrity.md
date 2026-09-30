@@ -5,14 +5,6 @@ status: unread
 ---
 # salubrity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being salubrious and invigorating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being salubrious and invigorating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Also I think of changing my residence for a time: probably I shall close or let ‘The Shrubs,’ and take some place near the coast—under advice of course as to salubrity."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A farm was lately advertised in a newspaper in which all the beauty of the situation, fertility of the soil, and salubrity of the air, were detailed in the richest glow of rural description, and which was further enhanced with this N.B."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being salubrious and invigorating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being salubrious and invigorating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Also I think of changing my residence for a time: probably I shall close or let ‘The Shrubs,’ and take some place near the coast—under advice of course as to salubrity."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A farm was lately advertised in a newspaper in which all the beauty of the situation, fertility of the soil, and salubrity of the air, were detailed in the richest glow of rural description, and which was further enhanced with this N.B."*

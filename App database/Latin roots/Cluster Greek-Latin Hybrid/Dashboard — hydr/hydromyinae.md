@@ -5,13 +5,6 @@ status: unread
 ---
 # hydromyinae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water rats of australia and new guinea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water rats of australia and new guinea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromyinae designates water rats of australia and new guinea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Water rats of australia and new guinea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water rats of australia and new guinea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromyinae designates water rats of australia and new guinea."*

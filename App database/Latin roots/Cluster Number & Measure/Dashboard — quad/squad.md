@@ -5,15 +5,6 @@ status: unread
 ---
 # squad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smallest army unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative unit (especially in sports).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Observ’d ye yon reverend lad Mak faces to tickle the mob; He rails at our mountebank squad,— It’s rivalship just i’ the job."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye are sae grave, nae doubt ye’re wise; Nae ferly tho’ ye do despise The hairum-scairum, ram-stam boys, The rattling squad: I see ye upward cast your eyes— Ye ken the road!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ve faults and failings—granted clearly, We’re frail backsliding mortals merely, Eve’s bonie squad, priests wyte them sheerly For our grand fa’; But still, but still, I like them dearly— God bless them a’!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smallest army unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative unit (especially in sports).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Observ’d ye yon reverend lad Mak faces to tickle the mob; He rails at our mountebank squad,— It’s rivalship just i’ the job."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye are sae grave, nae doubt ye’re wise; Nae ferly tho’ ye do despise The hairum-scairum, ram-stam boys, The rattling squad: I see ye upward cast your eyes— Ye ken the road!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ve faults and failings—granted clearly, We’re frail backsliding mortals merely, Eve’s bonie squad, priests wyte them sheerly For our grand fa’; But still, but still, I like them dearly— God bless them a’!"*

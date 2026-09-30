@@ -5,13 +5,6 @@ status: unread
 ---
 # conglobate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a globular shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a globular shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conglobate designates assume a globular shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a globular shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a globular shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conglobate designates assume a globular shape."*

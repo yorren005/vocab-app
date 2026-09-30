@@ -5,13 +5,6 @@ status: unread
 ---
 # devaluation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reduction of something's value or worth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devaluation designates an official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reduction of something's value or worth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devaluation designates an official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries."*

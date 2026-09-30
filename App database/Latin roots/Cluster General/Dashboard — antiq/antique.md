@@ -5,15 +5,6 @@ status: unread
 ---
 # antique
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elderly man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any piece of furniture or decorative object or the like produced in a former period and valuable because of its beauty or rarity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O good old man, how well in thee appears The constant service of the antique world, When service sweat for duty, not for meed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elderly man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any piece of furniture or decorative object or the like produced in a former period and valuable because of its beauty or rarity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O good old man, how well in thee appears The constant service of the antique world, When service sweat for duty, not for meed."*

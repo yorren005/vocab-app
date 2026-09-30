@@ -5,15 +5,6 @@ status: unread
 ---
 # municipality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An urban district having corporate status and powers of self-government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People living in a town or city having local self-government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The proceeds are distributed 10 per cent to the state, 20 per cent to the county, and 70 per cent to the municipality in which the tax is collected."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The burning candle is then carried in solemn procession by the clergy and members of the municipality to the high altar in the cathedral."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A municipality was established and the following announcement issued: INHABITANTS OF MOSCOW!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An urban district having corporate status and powers of self-government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People living in a town or city having local self-government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The proceeds are distributed 10 per cent to the state, 20 per cent to the county, and 70 per cent to the municipality in which the tax is collected."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The burning candle is then carried in solemn procession by the clergy and members of the municipality to the high altar in the cathedral."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A municipality was established and the following announcement issued: INHABITANTS OF MOSCOW!"*

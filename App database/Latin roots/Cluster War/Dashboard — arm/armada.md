@@ -5,15 +5,6 @@ status: unread
 ---
 # armada
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large fleet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large fleet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What was left of the INOR armada withdrew beyond the reach of the UIPS fleet's long-range weapons, careful to demonstrate that their retreat was in a direction away from the Slingshot Terminals."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And so, on this March morning in 1947 the whole vast armada was crossing the Atlantic toward the United States."*
-> - 📜 **James Joyce (*Ulysses*):** *"His boots trod again a damp crackling mast, razorshells, squeaking pebbles, that on the unnumbered pebbles beats, wood sieved by the shipworm, lost Armada."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large fleet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large fleet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What was left of the INOR armada withdrew beyond the reach of the UIPS fleet's long-range weapons, careful to demonstrate that their retreat was in a direction away from the Slingshot Terminals."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And so, on this March morning in 1947 the whole vast armada was crossing the Atlantic toward the United States."*
+> - 📜 **James Joyce (*Ulysses*):** *"His boots trod again a damp crackling mast, razorshells, squeaking pebbles, that on the unnumbered pebbles beats, wood sieved by the shipworm, lost Armada."*

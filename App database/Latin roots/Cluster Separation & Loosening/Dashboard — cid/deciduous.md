@@ -5,15 +5,6 @@ status: unread
 ---
 # deciduous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants and shrubs) shedding foliage at the end of the growing season.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of teeth, antlers, etc.) being shed at the end of a period of growth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under foot the leaves were dry, and the foliage of some holly bushes which grew among the deciduous trees was dense enough to keep off draughts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus Mount Algidus, a spur of the Alban hills, was covered in antiquity with dark forests of oak, both of the evergreen and the deciduous sort."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And year by year, when the trees were deciduous, every Adonis would seem to bleed to death with the red leaves of autumn and to come to life again with the fresh green of spring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants and shrubs) shedding foliage at the end of the growing season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of teeth, antlers, etc.) being shed at the end of a period of growth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under foot the leaves were dry, and the foliage of some holly bushes which grew among the deciduous trees was dense enough to keep off draughts."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus Mount Algidus, a spur of the Alban hills, was covered in antiquity with dark forests of oak, both of the evergreen and the deciduous sort."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And year by year, when the trees were deciduous, every Adonis would seem to bleed to death with the red leaves of autumn and to come to life again with the fresh green of spring."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # underprice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell at artificially low prices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell at artificially low prices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underprice designates sell at artificially low prices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell at artificially low prices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell at artificially low prices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underprice designates sell at artificially low prices."*

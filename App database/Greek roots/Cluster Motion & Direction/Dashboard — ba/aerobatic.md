@@ -5,13 +5,6 @@ status: unread
 ---
 # aerobatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spectacular flying feats and maneuvers (such as rolls and dives).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spectacular flying feats and maneuvers (such as rolls and dives).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobatic designates spectacular flying feats and maneuvers (such as rolls and dives)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spectacular flying feats and maneuvers (such as rolls and dives).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spectacular flying feats and maneuvers (such as rolls and dives).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobatic designates spectacular flying feats and maneuvers (such as rolls and dives)."*

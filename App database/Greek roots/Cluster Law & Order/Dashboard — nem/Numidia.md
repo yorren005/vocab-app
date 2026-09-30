@@ -5,13 +5,6 @@ status: unread
 ---
 # Numidia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient country in northern Africa east of Mauretania, its site being in modern Algeria; chief city Hippo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient country in northern Africa east of Mauretania, its site being in modern Algeria; chief city Hippo.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Numidia designates ancient country in northern africa east of mauretania, its site being in modern algeria; chief city hippo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient country in northern Africa east of Mauretania, its site being in modern Algeria; chief city Hippo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient country in northern Africa east of Mauretania, its site being in modern Algeria; chief city Hippo.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Numidia designates ancient country in northern africa east of mauretania, its site being in modern algeria; chief city hippo."*

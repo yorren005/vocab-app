@@ -5,14 +5,6 @@ status: unread
 ---
 # citrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous fruits of the genus citrus having thick rind and juicy pulp; grown in warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous tropical usually thorny evergreen trees of the genus citrus having leathery evergreen leaves and widely cultivated for their juicy edible fruits having leathery aromatic rinds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The membership of the former is made up entirely of the local citrus growers' associations in California."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of these societies, as those dealing in citrus fruits, regulate with some success the picking and the marketing so as to distribute them more evenly throughout the year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous fruits of the genus citrus having thick rind and juicy pulp; grown in warm regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous tropical usually thorny evergreen trees of the genus citrus having leathery evergreen leaves and widely cultivated for their juicy edible fruits having leathery aromatic rinds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The membership of the former is made up entirely of the local citrus growers' associations in California."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of these societies, as those dealing in citrus fruits, regulate with some success the picking and the marketing so as to distribute them more evenly throughout the year."*

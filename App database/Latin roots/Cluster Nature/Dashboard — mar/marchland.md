@@ -5,13 +5,6 @@ status: unread
 ---
 # marchland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: District consisting of the area on either side of a border or boundary of a country or an area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: District consisting of the area on either side of a border or boundary of a country or an area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marchland designates district consisting of the area on either side of a border or boundary of a country or an area."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: District consisting of the area on either side of a border or boundary of a country or an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: District consisting of the area on either side of a border or boundary of a country or an area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marchland designates district consisting of the area on either side of a border or boundary of a country or an area."*

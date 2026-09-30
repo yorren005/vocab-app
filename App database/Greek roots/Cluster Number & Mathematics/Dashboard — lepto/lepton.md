@@ -5,13 +5,6 @@ status: unread
 ---
 # lepton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former monetary unit equal to 1/100 drachma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family of particles (such as electrons, muons, and neutrinos) that have spin quantum number ½ and that experience no strong forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lepton designates a former monetary unit equal to 1/100 drachma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former monetary unit equal to 1/100 drachma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family of particles (such as electrons, muons, and neutrinos) that have spin quantum number ½ and that experience no strong forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lepton designates a former monetary unit equal to 1/100 drachma."*

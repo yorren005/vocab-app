@@ -5,13 +5,6 @@ status: unread
 ---
 # secretase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretase designates a set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretase designates a set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's)."*

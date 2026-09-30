@@ -5,13 +5,6 @@ status: unread
 ---
 # dolmen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prehistoric megalithic tomb typically having two large upright stones and a capstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hussar's jacket worn over the shoulders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is, in fact, practically the same as the "mat marking" on the Japanese and Corean pottery taken from the dolmens which were built over a long period extending from the second century B.C. to the eighth century A.D."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prehistoric megalithic tomb typically having two large upright stones and a capstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hussar's jacket worn over the shoulders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is, in fact, practically the same as the "mat marking" on the Japanese and Corean pottery taken from the dolmens which were built over a long period extending from the second century B.C. to the eighth century A.D."*

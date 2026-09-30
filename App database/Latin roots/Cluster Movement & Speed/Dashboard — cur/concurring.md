@@ -5,15 +5,6 @@ status: unread
 ---
 # concurring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A line descending from the vital, beneath the congress of it and the hepatica, to the tuberculum of Saturn, shows an envious man, who rejoices at another’s calamity, the sight of others concurring."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"McKinley, of Ohio, offered the following resolution: _Resolved_, The Senate concurring, that the thanks of Congress are hereby presented to the Hon."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Much esteemed and dear Sir, It is scarcely necessary to mention the various and concurring reasons which induce me to place your name at the head of the following work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A line descending from the vital, beneath the congress of it and the hepatica, to the tuberculum of Saturn, shows an envious man, who rejoices at another’s calamity, the sight of others concurring."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"McKinley, of Ohio, offered the following resolution: _Resolved_, The Senate concurring, that the thanks of Congress are hereby presented to the Hon."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Much esteemed and dear Sir, It is scarcely necessary to mention the various and concurring reasons which induce me to place your name at the head of the following work."*

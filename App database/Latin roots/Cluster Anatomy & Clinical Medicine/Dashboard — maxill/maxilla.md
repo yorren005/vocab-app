@@ -5,13 +5,6 @@ status: unread
 ---
 # maxilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is fused to the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is fused to the cranium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxilla designates the jaw in vertebrates that is fused to the cranium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is fused to the cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is fused to the cranium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maxilla designates the jaw in vertebrates that is fused to the cranium."*

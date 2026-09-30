@@ -5,15 +5,6 @@ status: unread
 ---
 # sonorousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a loud deep sound; the quality of being resonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a loud deep sound; the quality of being resonant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The immortal tune ended, a fine DD rolling forth from the bass-viol with the sonorousness of a cannonade, and Gabriel delayed his entry no longer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any one may give their remarks an interrogative turn,” he continued, his sonorousness rising with his style."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a loud deep sound; the quality of being resonant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a loud deep sound; the quality of being resonant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The immortal tune ended, a fine DD rolling forth from the bass-viol with the sonorousness of a cannonade, and Gabriel delayed his entry no longer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Any one may give their remarks an interrogative turn,” he continued, his sonorousness rising with his style."*

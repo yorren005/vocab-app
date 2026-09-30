@@ -5,13 +5,6 @@ status: unread
 ---
 # operationally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In respect to operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respect to operation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operationally designates in respect to operation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In respect to operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respect to operation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operationally designates in respect to operation."*

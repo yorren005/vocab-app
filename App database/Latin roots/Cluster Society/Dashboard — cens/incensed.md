@@ -5,15 +5,6 @@ status: unread
 ---
 # incensed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfume especially with a censer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make furious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your patience, If ’gainst yourself you be incensed, we’ll put you, Like one that means his proper harm, in manacles, Then reason safely with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people are incensed against him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would he had?” ’Twas you incensed the rabble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfume especially with a censer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make furious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your patience, If ’gainst yourself you be incensed, we’ll put you, Like one that means his proper harm, in manacles, Then reason safely with you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people are incensed against him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would he had?” ’Twas you incensed the rabble."*

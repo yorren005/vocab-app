@@ -5,13 +5,6 @@ status: unread
 ---
 # neuroendocrinology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroendocrinology designates a branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroendocrinology designates a branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system."*

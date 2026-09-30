@@ -5,15 +5,6 @@ status: unread
 ---
 # dy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: delivery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: deputy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purple pride Which on thy soft cheek for complexion dwells, In my love’s veins thou hast too grossly dyed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot rest Until the white rose that I wear be dyed Even in the lukewarm blood of Henry’s heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: deputy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purple pride Which on thy soft cheek for complexion dwells, In my love’s veins thou hast too grossly dyed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot rest Until the white rose that I wear be dyed Even in the lukewarm blood of Henry’s heart."*

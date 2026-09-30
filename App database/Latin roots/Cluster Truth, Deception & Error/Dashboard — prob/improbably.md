@@ -5,15 +5,6 @@ status: unread
 ---
 # improbably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy to believe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easy to believe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No man is allowed to be a judge in his own cause, because his interest would certainly bias his judgment, and, not improbably, corrupt his integrity."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Not improbably, it was to this latter class of men that Mr."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She might, and not improbably would, have suffered death from the stern tribunals of the period, for attempting to undermine the foundations of the Puritan establishment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy to believe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easy to believe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No man is allowed to be a judge in his own cause, because his interest would certainly bias his judgment, and, not improbably, corrupt his integrity."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Not improbably, it was to this latter class of men that Mr."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She might, and not improbably would, have suffered death from the stern tribunals of the period, for attempting to undermine the foundations of the Puritan establishment."*

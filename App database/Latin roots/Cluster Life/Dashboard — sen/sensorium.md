@@ -5,13 +5,6 @@ status: unread
 ---
 # sensorium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensorium designates the areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensorium designates the areas of the brain that process and register incoming sensory information and make possible the conscious awareness of the world."*

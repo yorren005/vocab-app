@@ -5,15 +5,6 @@ status: unread
 ---
 # surrounding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend on all sides of simultaneously; encircle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Envelop completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore's eyes were usually very sad, but occasionally she would look quite merry, and it was so that she appeared that evening when the children were surrounding her on all sides."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A few days later the children, including Leonore, came back with rosy cheeks and glowing eyes from their first walk to the surrounding hills."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The character of much older and steadier people may be even changed by the circumstances surrounding them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend on all sides of simultaneously; encircle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Envelop completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore's eyes were usually very sad, but occasionally she would look quite merry, and it was so that she appeared that evening when the children were surrounding her on all sides."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A few days later the children, including Leonore, came back with rosy cheeks and glowing eyes from their first walk to the surrounding hills."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The character of much older and steadier people may be even changed by the circumstances surrounding them."*

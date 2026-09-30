@@ -5,14 +5,6 @@ status: unread
 ---
 # paranoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with paranoia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from paranoia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"Doesn't that follow the paranoid pattern better?" The Damakoi nodded slowly."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"That's the psychological pattern of these paranoids." Jedon Onomondo just looked at me, frowning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with paranoia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from paranoia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"Doesn't that follow the paranoid pattern better?" The Damakoi nodded slowly."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"That's the psychological pattern of these paranoids." Jedon Onomondo just looked at me, frowning."*

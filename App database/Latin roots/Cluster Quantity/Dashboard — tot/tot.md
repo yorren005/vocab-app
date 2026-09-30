@@ -5,15 +5,6 @@ status: unread
 ---
 # tot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small amount (especially of a drink).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young child.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"M. de Groot, "De Weertijger in onze Koloniën en op het oostaziatische Vasteland," _Bijdragen tot de Taal- Land- en Volkenkunde van Nederlandsch-Indië_, xlix. (1898) pp. 549-585; G.P."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rouffaer, "Matjan Gadoengan," _Bijdragen tot de Taal- Land- en Volkenkunde van Nederlandsch-Indië_ 1. (1899) pp. 67-75; J."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Plate, "Bijdrage tot de kennis van de lykanthropie bij de Sasaksche bevolking in Oost-Lombok," _Tijdschrift voor Indische Taal- Land- en Volkenkunde_, liv. (1912) pp. 458-469; G.A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small amount (especially of a drink).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young child.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"M. de Groot, "De Weertijger in onze Koloniën en op het oostaziatische Vasteland," _Bijdragen tot de Taal- Land- en Volkenkunde van Nederlandsch-Indië_, xlix. (1898) pp. 549-585; G.P."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rouffaer, "Matjan Gadoengan," _Bijdragen tot de Taal- Land- en Volkenkunde van Nederlandsch-Indië_ 1. (1899) pp. 67-75; J."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Plate, "Bijdrage tot de kennis van de lykanthropie bij de Sasaksche bevolking in Oost-Lombok," _Tijdschrift voor Indische Taal- Land- en Volkenkunde_, liv. (1912) pp. 458-469; G.A."*

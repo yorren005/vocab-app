@@ -5,15 +5,6 @@ status: unread
 ---
 # approximate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be close or similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge tentatively or form an estimate of (quantities or time).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, Tess found at least approximate expression for her feelings in the old _Benedicite_ that she had lisped from infancy; and it was enough."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These statements can with approximate truth now be made in the past tense, as was not possible a few years ago."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To conceive of a man being free we must imagine him outside space, which is evidently impossible. (2) However much we approximate the time of judgment to the time of the deed, we never get a conception of freedom in time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be close or similar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge tentatively or form an estimate of (quantities or time).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, Tess found at least approximate expression for her feelings in the old _Benedicite_ that she had lisped from infancy; and it was enough."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These statements can with approximate truth now be made in the past tense, as was not possible a few years ago."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To conceive of a man being free we must imagine him outside space, which is evidently impossible. (2) However much we approximate the time of judgment to the time of the deed, we never get a conception of freedom in time."*

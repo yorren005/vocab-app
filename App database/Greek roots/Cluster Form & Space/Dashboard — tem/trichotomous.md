@@ -5,13 +5,6 @@ status: unread
 ---
 # trichotomous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided or dividing into three parts or into threes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided or dividing into three parts or into threes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotomous designates divided or dividing into three parts or into threes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided or dividing into three parts or into threes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided or dividing into three parts or into threes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotomous designates divided or dividing into three parts or into threes."*

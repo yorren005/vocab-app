@@ -5,13 +5,6 @@ status: unread
 ---
 # dendrolagus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree wallabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree wallabies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There are no wild animals in the strict sense of the term, the chief ones being the wild ordinary tusked hog (Babi-rusa), cassowary, wallaby, tree-kangaroo (Dendrolagus), cuscus, opossum and alligators."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree wallabies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree wallabies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There are no wild animals in the strict sense of the term, the chief ones being the wild ordinary tusked hog (Babi-rusa), cassowary, wallaby, tree-kangaroo (Dendrolagus), cuscus, opossum and alligators."*

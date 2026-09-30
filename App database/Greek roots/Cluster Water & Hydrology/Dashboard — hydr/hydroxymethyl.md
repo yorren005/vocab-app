@@ -5,13 +5,6 @@ status: unread
 ---
 # hydroxymethyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A methyl with hydroxide replacing the hydrogen atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A methyl with hydroxide replacing the hydrogen atoms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxymethyl designates a methyl with hydroxide replacing the hydrogen atoms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A methyl with hydroxide replacing the hydrogen atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A methyl with hydroxide replacing the hydrogen atoms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxymethyl designates a methyl with hydroxide replacing the hydrogen atoms."*

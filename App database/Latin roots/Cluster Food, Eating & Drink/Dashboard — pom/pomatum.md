@@ -5,14 +5,6 @@ status: unread
 ---
 # pomatum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairdressing consisting of a perfumed oil or ointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hairdressing consisting of a perfumed oil or ointment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Largess, in the form of odds and ends of cold cream and pomatum, and also of hairpins, was freely distributed among the attendants."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His valet made a fortune out of his wardrobe: his toilet-table was covered with as many pomatums and essences as ever were employed by an old beauty: he had tried, in order to give himself a waist, every girth, stay, and waistband then invented."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairdressing consisting of a perfumed oil or ointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hairdressing consisting of a perfumed oil or ointment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Largess, in the form of odds and ends of cold cream and pomatum, and also of hairpins, was freely distributed among the attendants."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His valet made a fortune out of his wardrobe: his toilet-table was covered with as many pomatums and essences as ever were employed by an old beauty: he had tried, in order to give himself a waist, every girth, stay, and waistband then invented."*

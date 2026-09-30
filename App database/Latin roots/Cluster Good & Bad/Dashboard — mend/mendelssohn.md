@@ -5,15 +5,6 @@ status: unread
 ---
 # mendelssohn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German musician and romantic composer of orchestral and choral works (1809-1847).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German musician and romantic composer of orchestral and choral works (1809-1847).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And says he: —Mendelssohn was a jew and Karl Marx and Mercadante and Spinoza."*
-> - 📜 **James Joyce (*Ulysses*):** *"On the whole though favouring preferably light opera of the _Don Giovanni_ description and _Martha_, a gem in its line, he had a _penchant_, though with only a surface knowledge, for the severe classical school such as Mendelssohn."*
-> - 📜 **James Joyce (*Ulysses*):** *"Three seekers of the pure truth, Moses of Egypt, Moses Maimonides, author of _More Nebukim_ (Guide of the Perplexed) and Moses Mendelssohn of such eminence that from Moses (of Egypt) to Moses (Mendelssohn) there arose none like Moses (Maimonides)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German musician and romantic composer of orchestral and choral works (1809-1847).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German musician and romantic composer of orchestral and choral works (1809-1847).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"And says he: —Mendelssohn was a jew and Karl Marx and Mercadante and Spinoza."*
+> - 📜 **James Joyce (*Ulysses*):** *"On the whole though favouring preferably light opera of the _Don Giovanni_ description and _Martha_, a gem in its line, he had a _penchant_, though with only a surface knowledge, for the severe classical school such as Mendelssohn."*
+> - 📜 **James Joyce (*Ulysses*):** *"Three seekers of the pure truth, Moses of Egypt, Moses Maimonides, author of _More Nebukim_ (Guide of the Perplexed) and Moses Mendelssohn of such eminence that from Moses (of Egypt) to Moses (Mendelssohn) there arose none like Moses (Maimonides)."*

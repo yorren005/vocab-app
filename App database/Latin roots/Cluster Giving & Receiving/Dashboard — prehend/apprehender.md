@@ -5,13 +5,6 @@ status: unread
 ---
 # apprehender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who knows or apprehends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who seizes or arrests (especially a person who seizes or arrests in the name of justice).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apprehender designates a person who knows or apprehends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who knows or apprehends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who seizes or arrests (especially a person who seizes or arrests in the name of justice).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apprehender designates a person who knows or apprehends."*

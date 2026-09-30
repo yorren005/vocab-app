@@ -5,15 +5,6 @@ status: unread
 ---
 # plumed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rip off; ask an unreasonable price.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be proud of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is come That France must vail her lofty-plumed crest And let her head fall into England’s lap."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France spreads his banners in our noiseless land; With plumed helm thy state begins to threat, Whilst thou, a moral fool, sitt’st still, and criest ‘Alack, why does he so?’ ALBANY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell the plumed troops and the big wars That make ambition virtue!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rip off; ask an unreasonable price.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be proud of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is come That France must vail her lofty-plumed crest And let her head fall into England’s lap."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France spreads his banners in our noiseless land; With plumed helm thy state begins to threat, Whilst thou, a moral fool, sitt’st still, and criest ‘Alack, why does he so?’ ALBANY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell the plumed troops and the big wars That make ambition virtue!"*

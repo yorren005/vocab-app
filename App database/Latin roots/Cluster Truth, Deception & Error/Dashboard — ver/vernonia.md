@@ -5,13 +5,6 @@ status: unread
 ---
 # vernonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernonia designates any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernonia designates any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue."*

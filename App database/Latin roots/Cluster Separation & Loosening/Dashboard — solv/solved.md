@@ -5,15 +5,6 @@ status: unread
 ---
 # solved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Find the solution to (a problem or question) or understand the meaning of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find the solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am sure that you will be grateful if the question is solved for Bruno, as you would otherwise be obliged to settle it yourself." Frau Maxa's heart was very heavy at this news."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So Uncle Philip's last difficulty was solved for to-day and everybody was willing to go to bed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No practical problem in the field of economics can be solved as if it were solely and purely an economic problem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Find the solution to (a problem or question) or understand the meaning of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find the solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am sure that you will be grateful if the question is solved for Bruno, as you would otherwise be obliged to settle it yourself." Frau Maxa's heart was very heavy at this news."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So Uncle Philip's last difficulty was solved for to-day and everybody was willing to go to bed."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No practical problem in the field of economics can be solved as if it were solely and purely an economic problem."*

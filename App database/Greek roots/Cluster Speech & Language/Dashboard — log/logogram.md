@@ -5,13 +5,6 @@ status: unread
 ---
 # logogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter, symbol, or sign used to represent an entire word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter, symbol, or sign used to represent an entire word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogram designates a letter, symbol, or sign used to represent an entire word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter, symbol, or sign used to represent an entire word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter, symbol, or sign used to represent an entire word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogram designates a letter, symbol, or sign used to represent an entire word."*

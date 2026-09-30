@@ -5,15 +5,6 @@ status: unread
 ---
 # tremendously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He was tremendously impressed that Uncle Philip could do everything, even blow a harmonica, which generally only boys were able to do."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This pleased them tremendously, for they had expected Leonore to be very different from themselves and had been rather afraid of her."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"On a subject so tremendously awful, I have chosen to present simply God's testimony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He was tremendously impressed that Uncle Philip could do everything, even blow a harmonica, which generally only boys were able to do."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This pleased them tremendously, for they had expected Leonore to be very different from themselves and had been rather afraid of her."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"On a subject so tremendously awful, I have chosen to present simply God's testimony."*

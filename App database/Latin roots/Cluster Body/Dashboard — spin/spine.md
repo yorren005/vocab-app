@@ -5,15 +5,6 @@ status: unread
 ---
 # spine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The series of vertebrae forming the axis of the skeleton and protecting the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sharply pointed projection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"When a young girl her spine was injured while nursing her aged and helpless grandmother, and she has been a great sufferer for many years."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In December, 1859, while stepping out of doors, she slipped, by reason of her stiff joint, and fell, striking near the base of the spine, directly across the sharp edge of the stone step."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The series of vertebrae forming the axis of the skeleton and protecting the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sharply pointed projection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"When a young girl her spine was injured while nursing her aged and helpless grandmother, and she has been a great sufferer for many years."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In December, 1859, while stepping out of doors, she slipped, by reason of her stiff joint, and fell, striking near the base of the spine, directly across the sharp edge of the stone step."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perithecium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flask-shaped ascocarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flask-shaped ascocarp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Very common. (Plate XI. figs. 240-242.) CHÆTOMIUM, _Kze._ Perithecium thin, brittle, mouthless; sporangia linear, containing dark lemon-shaped spores. _Berk."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"STRAW-BRISTLE MOULD; perithecium sub-ovate, base radiato-fibrose, hairs of the vertex very long, interwoven, branched; spores broadly elliptic, apiculate at either end.—On mouldering straw, reeds, matting, &c."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PAPER-BRISTLE MOULD; perithecium subglobose, black, surrounded by a bright yellow spot; spores subglobose.—On paper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flask-shaped ascocarp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flask-shaped ascocarp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Very common. (Plate XI. figs. 240-242.) CHÆTOMIUM, _Kze._ Perithecium thin, brittle, mouthless; sporangia linear, containing dark lemon-shaped spores. _Berk."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"STRAW-BRISTLE MOULD; perithecium sub-ovate, base radiato-fibrose, hairs of the vertex very long, interwoven, branched; spores broadly elliptic, apiculate at either end.—On mouldering straw, reeds, matting, &c."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PAPER-BRISTLE MOULD; perithecium subglobose, black, surrounded by a bright yellow spot; spores subglobose.—On paper."*

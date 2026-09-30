@@ -5,13 +5,6 @@ status: unread
 ---
 # palearctic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a biogeographic region or subregion that includes Europe, Asia north of the Himalayas, and Africa north of the Sahara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a biogeographic region or subregion that includes Europe, Asia north of the Himalayas, and Africa north of the Sahara.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palearctic designates of, relating to, or being a biogeographic region or subregion that includes europe, asia north of the himalayas, and africa north of the sahara."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a biogeographic region or subregion that includes Europe, Asia north of the Himalayas, and Africa north of the Sahara.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a biogeographic region or subregion that includes Europe, Asia north of the Himalayas, and Africa north of the Sahara.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palearctic designates of, relating to, or being a biogeographic region or subregion that includes europe, asia north of the himalayas, and africa north of the sahara."*

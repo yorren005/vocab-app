@@ -5,13 +5,6 @@ status: unread
 ---
 # nondisjunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondisjunction designates meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondisjunction designates meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells."*

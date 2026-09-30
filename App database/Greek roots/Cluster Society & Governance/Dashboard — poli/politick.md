@@ -5,14 +5,6 @@ status: unread
 ---
 # politick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in political activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in political activities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le have your life you villain, You politick old Thief. _Char_."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Some of our _Projects_ were, I think, But politick _Farts_, _Foh! how they stink_!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in political activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in political activities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le have your life you villain, You politick old Thief. _Char_."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Some of our _Projects_ were, I think, But politick _Farts_, _Foh! how they stink_!"*

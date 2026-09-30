@@ -5,15 +5,6 @@ status: unread
 ---
 # comforts
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that make you comfortable and at ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being relaxed and feeling no pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that comforts my wife is the cherisher of my flesh and blood; he that cherishes my flesh and blood loves my flesh and blood; he that loves my flesh and blood is my friend; ergo, he that kisses my wife is my friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How mightily sometimes we make us comforts of our losses!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All strange and terrible events are welcome, But comforts we despise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that make you comfortable and at ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being relaxed and feeling no pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that comforts my wife is the cherisher of my flesh and blood; he that cherishes my flesh and blood loves my flesh and blood; he that loves my flesh and blood is my friend; ergo, he that kisses my wife is my friend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How mightily sometimes we make us comforts of our losses!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All strange and terrible events are welcome, But comforts we despise."*

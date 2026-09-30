@@ -5,13 +5,6 @@ status: unread
 ---
 # occlusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closure or blockage (as of a blood vessel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) a composite front when colder air surrounds a mass of warm air and forces it aloft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, occlusion designates closure or blockage (as of a blood vessel)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closure or blockage (as of a blood vessel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) a composite front when colder air surrounds a mass of warm air and forces it aloft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, occlusion designates closure or blockage (as of a blood vessel)."*

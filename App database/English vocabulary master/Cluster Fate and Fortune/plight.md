@@ -5,20 +5,6 @@ status: unread
 ---
 # plight
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dire or unfortunate situation
-> 2. **Nuance / Usage**: Put or give in pledge : engage
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to plight the target*) and intransitive clauses (*plighting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"certainly she did you wrong, for you were troth-plight to her."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Before her troth-plight: say’t and justify’t."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"you small good, my man, being in the same plight yourself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dire or unfortunate situation
+> 2. **Nuance / Usage**: Put or give in pledge : engage
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to plight the target*) and intransitive clauses (*plighting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"certainly she did you wrong, for you were troth-plight to her."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Before her troth-plight: say’t and justify’t."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"you small good, my man, being in the same plight yourself."*

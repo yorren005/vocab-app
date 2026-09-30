@@ -5,13 +5,6 @@ status: unread
 ---
 # poikilothermous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals except birds and mammals; having body temperature that varies with the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals except birds and mammals; having body temperature that varies with the environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poikilothermous designates of animals except birds and mammals; having body temperature that varies with the environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals except birds and mammals; having body temperature that varies with the environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals except birds and mammals; having body temperature that varies with the environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poikilothermous designates of animals except birds and mammals; having body temperature that varies with the environment."*

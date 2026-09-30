@@ -5,15 +5,6 @@ status: unread
 ---
 # polytheism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in or worship of more than one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in or worship of more than one god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As a French scholar has said, where there is polytheism there are no false gods."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the third place, the religion has the common weakness of all polytheism."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Animism is passing into polytheism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in or worship of more than one god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in or worship of more than one god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"As a French scholar has said, where there is polytheism there are no false gods."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the third place, the religion has the common weakness of all polytheism."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Animism is passing into polytheism."*

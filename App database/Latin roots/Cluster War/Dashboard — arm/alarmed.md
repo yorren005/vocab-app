@@ -5,15 +5,6 @@ status: unread
 ---
 # alarmed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn or arouse to a sense of danger or call to a state of preparedness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Warm yourself!” Richard shook him by both hands with an intuitive mixture of respect and frankness, and only saying (though with an earnestness that rather alarmed me, I was so afraid of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole—don’t be alarmed!—is arrested for debt.” “And really, my dear Miss Summerson,” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was alarmed by an occurrence in the house which might have alarmed a stronger person, and was made ill by the distress and agitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn or arouse to a sense of danger or call to a state of preparedness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Warm yourself!” Richard shook him by both hands with an intuitive mixture of respect and frankness, and only saying (though with an earnestness that rather alarmed me, I was so afraid of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole—don’t be alarmed!—is arrested for debt.” “And really, my dear Miss Summerson,” said Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was alarmed by an occurrence in the house which might have alarmed a stronger person, and was made ill by the distress and agitation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ambition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cherished desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who does i’ th’ wars more than his captain can Becomes his captain’s captain; and ambition, The soldier’s virtue, rather makes choice of loss Than gain which darkens him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AMIENS. [_Sings_.] Who doth ambition shun And loves to live i’ th’ sun, Seeking the food he eats And pleased with what he gets, Come hither, come hither, come hither."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cherished desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who does i’ th’ wars more than his captain can Becomes his captain’s captain; and ambition, The soldier’s virtue, rather makes choice of loss Than gain which darkens him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AMIENS. [_Sings_.] Who doth ambition shun And loves to live i’ th’ sun, Seeking the food he eats And pleased with what he gets, Come hither, come hither, come hither."*

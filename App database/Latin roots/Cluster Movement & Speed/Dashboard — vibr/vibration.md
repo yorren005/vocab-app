@@ -5,15 +5,6 @@ status: unread
 ---
 # vibration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of vibrating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaky motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides its being calculated to serve that friend in those chords of the human mind which—which need not be called into agonizing vibration on the present occasion—your friend is no fool."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I waited till the last deep and full vibration had expired—till the tide of talk, checked an instant, had resumed its flow; I then quitted my sheltered corner and made my exit by the side-door, which was fortunately near."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And at the sound of the first “give and bequeath” she could see all complexions changing subtly, as if some faint vibration were passing through them, save that of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of vibrating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaky motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Besides its being calculated to serve that friend in those chords of the human mind which—which need not be called into agonizing vibration on the present occasion—your friend is no fool."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I waited till the last deep and full vibration had expired—till the tide of talk, checked an instant, had resumed its flow; I then quitted my sheltered corner and made my exit by the side-door, which was fortunately near."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And at the sound of the first “give and bequeath” she could see all complexions changing subtly, as if some faint vibration were passing through them, save that of Mr."*

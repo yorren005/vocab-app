@@ -5,15 +5,6 @@ status: unread
 ---
 # determinable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being determined or limited or fixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being determined or limited or fixed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The appellate jurisdiction of the Supreme Court (it may have been argued) will extend to causes determinable in different modes, some in the course of the COMMON LAW, others in the course of the CIVIL LAW."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This would certainly be an authorized exception; but if, for the reason already intimated, it should be thought too extensive, it might be qualified with a limitation to such causes only as are determinable at common law in that mode of trial."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The foundation of this assertion is, that the national judiciary will have no cognizance of them, and of course they will remain determinable as heretofore by the State courts only, and in the manner which the State constitutions and laws prescribe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being determined or limited or fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being determined or limited or fixed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The appellate jurisdiction of the Supreme Court (it may have been argued) will extend to causes determinable in different modes, some in the course of the COMMON LAW, others in the course of the CIVIL LAW."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This would certainly be an authorized exception; but if, for the reason already intimated, it should be thought too extensive, it might be qualified with a limitation to such causes only as are determinable at common law in that mode of trial."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The foundation of this assertion is, that the national judiciary will have no cognizance of them, and of course they will remain determinable as heretofore by the State courts only, and in the manner which the State constitutions and laws prescribe."*

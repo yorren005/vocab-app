@@ -5,13 +5,6 @@ status: unread
 ---
 # overcall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcall designates (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcall designates (bridge) a bid that is higher than your opponent's bid (especially when your partner has not bid at all and your bid exceeds the value of your hand)."*

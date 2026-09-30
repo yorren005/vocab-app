@@ -5,13 +5,6 @@ status: unread
 ---
 # humongous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used informally) very large.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used informally) very large.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humongous designates (used informally) very large."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used informally) very large.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used informally) very large.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humongous designates (used informally) very large."*

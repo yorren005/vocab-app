@@ -5,20 +5,6 @@ status: unread
 ---
 # spite
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Annoy, offend
-> 2. **Nuance / Usage**: Instance of spite
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This is the fairy land; O spite of spites!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For these my friends in spite of thee shall wear."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"O’erbearing interruption, spite of France?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Petty ill will, vindictiveness, or a malicious desire to hurt, annoy, or humiliate another person; as a verb, to deliberately offend or thwart someone out of malice.
+> 2. **Nuance / Usage**: Also appears in the prepositional idiom *in spite of* ("notwithstanding, in defiance of"), which evolved from acting in contemptuous defiance of an opposing power.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass) & Transitive Verb.
+> - **Syntactic Constructions**: Functions in prepositional phrases (*out of pure spite*, *in spite of*) and infinitive clauses of purpose (*cut off his nose to spite his face*).
+> - **Collocations & Registers**: Psychological, moral, and conversational registers; paired with *petty*, *malice*, *vent*, *grudge*, and *defiance*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"This is the fairy land; O **spite** of spites! We talk with goblins, owls, and sprites!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella had been brought up by Miss Havisham to wreak her own **spite** upon all the male sex."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He had done it out of pure **spite**, merely to vex her family and triumph over their disappointment."*

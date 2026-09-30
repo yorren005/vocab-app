@@ -5,15 +5,6 @@ status: unread
 ---
 # misnomer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect or unsuitable name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect or unsuitable name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this fluctuation of general prices surely can be so greatly moderated in magnitude and in evil results as to make the word "crisis" almost a misnomer."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"And the title is still something of a misnomer, for many narratives involving a puzzle of some sort, though belonging to the category which I wish to discuss, are handled by the writer without expert detective aid."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had conceited to find Shallow Moat Grange, and lo! the name was no misnomer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect or unsuitable name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect or unsuitable name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this fluctuation of general prices surely can be so greatly moderated in magnitude and in evil results as to make the word "crisis" almost a misnomer."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"And the title is still something of a misnomer, for many narratives involving a puzzle of some sort, though belonging to the category which I wish to discuss, are handled by the writer without expert detective aid."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had conceited to find Shallow Moat Grange, and lo! the name was no misnomer."*

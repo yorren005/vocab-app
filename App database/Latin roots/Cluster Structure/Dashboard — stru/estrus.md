@@ -5,13 +5,6 @@ status: unread
 ---
 # estrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Applies to nonhuman mammals: a state or period of heightened sexual arousal and activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applies to nonhuman mammals: a state or period of heightened sexual arousal and activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrus designates applies to nonhuman mammals: a state or period of heightened sexual arousal and activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Applies to nonhuman mammals: a state or period of heightened sexual arousal and activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applies to nonhuman mammals: a state or period of heightened sexual arousal and activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrus designates applies to nonhuman mammals: a state or period of heightened sexual arousal and activity."*

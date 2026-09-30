@@ -5,13 +5,6 @@ status: unread
 ---
 # leptocephalus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender transparent larva of eels and certain fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender transparent larva of eels and certain fishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptocephalus designates slender transparent larva of eels and certain fishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender transparent larva of eels and certain fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender transparent larva of eels and certain fishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptocephalus designates slender transparent larva of eels and certain fishes."*

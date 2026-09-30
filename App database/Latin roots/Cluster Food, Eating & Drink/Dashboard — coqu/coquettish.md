@@ -5,15 +5,6 @@ status: unread
 ---
 # coquettish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like a coquette.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like a coquette.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At once connecting these signs with the letter Boldwood had shown him, Gabriel suspected her of some coquettish procedure begun by that means, and carried on since, he knew not how."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had learnt her whole character, which was without mystery or disguise: she was coquettish but not heartless; exacting, but not worthlessly selfish."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"She is the most beautiful of dusky Dianas and the belle of the Piccaninnies, coquettish, cold and amorous by turns; there is not a brave who would not have the wayward thing to wife, but she staves off the altar with a hatchet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like a coquette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like a coquette.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At once connecting these signs with the letter Boldwood had shown him, Gabriel suspected her of some coquettish procedure begun by that means, and carried on since, he knew not how."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had learnt her whole character, which was without mystery or disguise: she was coquettish but not heartless; exacting, but not worthlessly selfish."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"She is the most beautiful of dusky Dianas and the belle of the Piccaninnies, coquettish, cold and amorous by turns; there is not a brave who would not have the wayward thing to wife, but she staves off the altar with a hatchet."*

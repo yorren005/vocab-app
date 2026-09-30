@@ -5,13 +5,6 @@ status: unread
 ---
 # meritocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritocracy designates a system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritocracy designates a system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # proscenium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of an ancient Greek or Roman theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a modern stage in front of the curtain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When the lights went up after the first act Lawrence found himself looking directly across the rather small and narrow proscenium at a lady in the opposite box."*
-> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of an ancient Greek or Roman theater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a modern stage in front of the curtain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"When the lights went up after the first act Lawrence found himself looking directly across the rather small and narrow proscenium at a lady in the opposite box."*
+> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*

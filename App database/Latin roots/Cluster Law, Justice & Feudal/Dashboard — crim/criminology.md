@@ -5,13 +5,6 @@ status: unread
 ---
 # criminology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of crime and criminal behavior and law enforcement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of crime and criminal behavior and law enforcement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Students of criminology will remember the analogous incidents in Godno, in Little Russia, in the year ’66, and of course there are the Anderson murders in North Carolina, but this case possesses some features which are entirely its own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of crime and criminal behavior and law enforcement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of crime and criminal behavior and law enforcement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Students of criminology will remember the analogous incidents in Godno, in Little Russia, in the year ’66, and of course there are the Anderson murders in North Carolina, but this case possesses some features which are entirely its own."*

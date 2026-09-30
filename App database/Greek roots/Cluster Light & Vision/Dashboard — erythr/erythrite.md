@@ -5,13 +5,6 @@ status: unread
 ---
 # erythrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrite designates a reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrite designates a reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic."*

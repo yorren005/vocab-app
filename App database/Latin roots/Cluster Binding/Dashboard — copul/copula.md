@@ -5,13 +5,6 @@ status: unread
 ---
 # copula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copula designates an equating verb (such as `be' or `become') that links the subject with the complement of a sentence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An equating verb (such as `be' or `become') that links the subject with the complement of a sentence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copula designates an equating verb (such as `be' or `become') that links the subject with the complement of a sentence."*

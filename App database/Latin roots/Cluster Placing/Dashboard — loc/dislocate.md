@@ -5,15 +5,6 @@ status: unread
 ---
 # dislocate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put out of its usual place, position, or relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were’t my fitness To let these hands obey my blood, They are apt enough to dislocate and tear Thy flesh and bones."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But she shook her head to that extent when she was shown it, that we were terrified lest in her weak and shattered state she should dislocate her neck."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"To prevent their habits of coiling from dislocating the vertebral column, these had an additional pair of articulations at each end, while their muscular strength is attested by the elegant striae and other sculptures which appear on all their bones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put out of its usual place, position, or relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were’t my fitness To let these hands obey my blood, They are apt enough to dislocate and tear Thy flesh and bones."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But she shook her head to that extent when she was shown it, that we were terrified lest in her weak and shattered state she should dislocate her neck."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"To prevent their habits of coiling from dislocating the vertebral column, these had an additional pair of articulations at each end, while their muscular strength is attested by the elegant striae and other sculptures which appear on all their bones."*

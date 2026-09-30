@@ -5,15 +5,6 @@ status: unread
 ---
 # align
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each utility maneuvered to synchronize axis and align portals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Or you can align with Planet Pluto, which is your right as a free and independent nation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each utility maneuvered to synchronize axis and align portals."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Or you can align with Planet Pluto, which is your right as a free and independent nation."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*

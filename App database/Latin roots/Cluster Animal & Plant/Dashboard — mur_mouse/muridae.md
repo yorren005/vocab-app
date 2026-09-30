@@ -5,13 +5,6 @@ status: unread
 ---
 # muridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muridae designates originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muridae designates originally old world rats now distributed worldwide; distinguished from the cricetidae by typically lacking cheek pouches."*

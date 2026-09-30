@@ -5,15 +5,6 @@ status: unread
 ---
 # intimidated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now stood in the empty hall; before me was the breakfast-room door, and I stopped, intimidated and trembling."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We shall make the best use of them, when we are no longer intimidated by the terminology, but go at once to what is meant--to the facts."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I am not to be intimidated into anything so wholly unreasonable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now stood in the empty hall; before me was the breakfast-room door, and I stopped, intimidated and trembling."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We shall make the best use of them, when we are no longer intimidated by the terminology, but go at once to what is meant--to the facts."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I am not to be intimidated into anything so wholly unreasonable."*

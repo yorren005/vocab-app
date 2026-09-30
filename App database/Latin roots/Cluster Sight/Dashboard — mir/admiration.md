@@ -5,15 +5,6 @@ status: unread
 ---
 # admiration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of delighted approval and liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling aroused by something strange and surprising.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, good Lafew, Bring in the admiration; that we with thee May spend our wonder too, or take off thine By wond’ring how thou took’st it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I could then have look’d on him without the help of admiration, though the catalogue of his endowments had been tabled by his side, and I to peruse him by items."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bury him, And not protract with admiration what Is now due debt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of delighted approval and liking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling aroused by something strange and surprising.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, good Lafew, Bring in the admiration; that we with thee May spend our wonder too, or take off thine By wond’ring how thou took’st it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I could then have look’d on him without the help of admiration, though the catalogue of his endowments had been tabled by his side, and I to peruse him by items."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bury him, And not protract with admiration what Is now due debt."*

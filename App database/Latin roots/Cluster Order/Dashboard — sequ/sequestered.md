@@ -5,15 +5,6 @@ status: unread
 ---
 # sequestered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requisition forcibly, as of enemy property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take temporary possession of as a security, by legal authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are you sequestered from all your train, Dismounted from your snow-white goodly steed, And wandered hither to an obscure plot, Accompanied but with a barbarous Moor, If foul desire had not conducted you?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She uses for plates only banana leaves, which, when she has done with them, she throws away in a sequestered spot; for should a cow find and eat them, the animal would waste away and perish."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What crime was this, that lived incarnate in this sequestered mansion, and could neither be expelled nor subdued by the owner?—what mystery, that broke out now in fire and now in blood, at the deadest hours of night?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requisition forcibly, as of enemy property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take temporary possession of as a security, by legal authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are you sequestered from all your train, Dismounted from your snow-white goodly steed, And wandered hither to an obscure plot, Accompanied but with a barbarous Moor, If foul desire had not conducted you?"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She uses for plates only banana leaves, which, when she has done with them, she throws away in a sequestered spot; for should a cow find and eat them, the animal would waste away and perish."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What crime was this, that lived incarnate in this sequestered mansion, and could neither be expelled nor subdued by the owner?—what mystery, that broke out now in fire and now in blood, at the deadest hours of night?"*

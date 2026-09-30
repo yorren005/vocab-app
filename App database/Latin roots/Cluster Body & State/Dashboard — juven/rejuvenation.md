@@ -5,15 +5,6 @@ status: unread
 ---
 # rejuvenation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of vitality and freshness being restored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring to a more youthful condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Burn up the products of fatigue, replace them with fresh cells full of oxygen, and you get rejuvenation."*
-> - 📜 **James Joyce (*Ulysses*):** *"Were there no means still remaining to him to achieve the rejuvenation which these reminiscences divulged to a younger companion rendered the more desirable?"*
-> - 📜 **James Joyce (*Ulysses*):** *"For the host: rejuvenation of intelligence, vicarious satisfaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of vitality and freshness being restored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring to a more youthful condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Burn up the products of fatigue, replace them with fresh cells full of oxygen, and you get rejuvenation."*
+> - 📜 **James Joyce (*Ulysses*):** *"Were there no means still remaining to him to achieve the rejuvenation which these reminiscences divulged to a younger companion rendered the more desirable?"*
+> - 📜 **James Joyce (*Ulysses*):** *"For the host: rejuvenation of intelligence, vicarious satisfaction."*

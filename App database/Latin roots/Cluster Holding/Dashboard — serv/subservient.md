@@ -5,15 +5,6 @@ status: unread
 ---
 # subservient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compliant and obedient to authority; -g. b. shaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or acting as a means or aid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There now’s a patched professor in Queen Nature’s granite-founded College; but methinks he’s too subservient."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is in vain to say that enlightened statesmen will be able to adjust these clashing interests, and render them all subservient to the public good."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is observed that select corps may be formed, composed of the young and ardent, who may be rendered subservient to the views of arbitrary power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compliant and obedient to authority; -g. b. shaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or acting as a means or aid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There now’s a patched professor in Queen Nature’s granite-founded College; but methinks he’s too subservient."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is in vain to say that enlightened statesmen will be able to adjust these clashing interests, and render them all subservient to the public good."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is observed that select corps may be formed, composed of the young and ardent, who may be rendered subservient to the views of arbitrary power."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sedateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trait of dignified seriousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trait of dignified seriousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the farther he went and the more his attention was diverted by the ever-increasing crowds moving toward the Krémlin, the less he remembered to walk with the sedateness and deliberation of a man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trait of dignified seriousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trait of dignified seriousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the farther he went and the more his attention was diverted by the ever-increasing crowds moving toward the Krémlin, the less he remembered to walk with the sedateness and deliberation of a man."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # alg
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: algebra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: algebra.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For two hours we followed these sandy plains, then fields of algæ very disagreeable to cross."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I was stretched on the ground, just under the shelter of a bush of algæ, when, raising my head, I saw some enormous mass, casting phosphorescent gleams, pass blusteringly by."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, between two waters clear as crystal, through the open panels we were allowed to contemplate the beautiful bushes of brilliant coral and large blocks of rock clothed with a splendid fur of green algæ and fuci."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: algebra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: algebra.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For two hours we followed these sandy plains, then fields of algæ very disagreeable to cross."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I was stretched on the ground, just under the shelter of a bush of algæ, when, raising my head, I saw some enormous mass, casting phosphorescent gleams, pass blusteringly by."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, between two waters clear as crystal, through the open panels we were allowed to contemplate the beautiful bushes of brilliant coral and large blocks of rock clothed with a splendid fur of green algæ and fuci."*

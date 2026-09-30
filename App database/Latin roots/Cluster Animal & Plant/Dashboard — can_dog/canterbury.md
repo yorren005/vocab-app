@@ -5,15 +5,6 @@ status: unread
 ---
 # canterbury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in kent in southeastern england; site of the cathedral where thomas a becket was martyred in 1170; seat of the archbishop and primate of the anglican church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in kent in southeastern england; site of the cathedral where thomas a becket was martyred in 1170; seat of the archbishop and primate of the anglican church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my lads, my lads, tomorrow morning, by four o’clock early at Gad’s Hill, there are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Archbishop of Canterbury and the Bishop of Ely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CANTERBURY. ’Twould drink the cup and all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in kent in southeastern england; site of the cathedral where thomas a becket was martyred in 1170; seat of the archbishop and primate of the anglican church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in kent in southeastern england; site of the cathedral where thomas a becket was martyred in 1170; seat of the archbishop and primate of the anglican church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my lads, my lads, tomorrow morning, by four o’clock early at Gad’s Hill, there are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Archbishop of Canterbury and the Bishop of Ely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CANTERBURY. ’Twould drink the cup and all."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # revisal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rewriting something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rewriting something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The theory, neither of the British, nor the State constitutions, authorizes the revisal of a judicial sentence by a legislative act."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rewriting something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rewriting something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The theory, neither of the British, nor the State constitutions, authorizes the revisal of a judicial sentence by a legislative act."*

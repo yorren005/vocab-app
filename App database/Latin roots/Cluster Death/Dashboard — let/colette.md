@@ -5,13 +5,6 @@ status: unread
 ---
 # colette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer of novels about women (1873-1954).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer of novels about women (1873-1954).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colette designates french writer of novels about women (1873-1954)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer of novels about women (1873-1954).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer of novels about women (1873-1954).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colette designates french writer of novels about women (1873-1954)."*

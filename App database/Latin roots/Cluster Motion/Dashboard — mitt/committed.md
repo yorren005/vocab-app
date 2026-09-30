@@ -5,15 +5,6 @@ status: unread
 ---
 # committed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What wretched errors hath my heart committed, Whilst it hath thought it self so blessed never!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Once did I get him bound and sent him home, Whilst to take order for the wrongs I went, That here and there his fury had committed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, here comes the nobleman that committed the Prince for striking him about Bardolph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What wretched errors hath my heart committed, Whilst it hath thought it self so blessed never!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Once did I get him bound and sent him home, Whilst to take order for the wrongs I went, That here and there his fury had committed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, here comes the nobleman that committed the Prince for striking him about Bardolph."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # labeled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a label to; designate with a label.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a tag or label to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He ought at least to be labeled "poison for the very young." I was very young out on the porch that night."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I remember he once sent something here in a box labeled 'dynamite.' Though there was no explosive in it, it gave us a great fright."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The presents are not labeled—the hands are forever idle that would have labeled them today."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a label to; designate with a label.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a tag or label to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He ought at least to be labeled "poison for the very young." I was very young out on the porch that night."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I remember he once sent something here in a box labeled 'dynamite.' Though there was no explosive in it, it gave us a great fright."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The presents are not labeled—the hands are forever idle that would have labeled them today."*

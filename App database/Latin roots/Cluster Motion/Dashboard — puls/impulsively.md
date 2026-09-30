@@ -5,15 +5,6 @@ status: unread
 ---
 # impulsively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impulsive or impetuous way; without taking cautions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impulsive or impetuous way; without taking cautions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady, changing her position, sees the papers on the table—looks at them nearer—looks at them nearer still—asks impulsively, “Who copied that?” Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am friendless enough, God knows!” “I won’t notice anything, nor will I leave you!” sobbed Liddy, impulsively putting up her lips to Bathsheba’s, and kissing her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The moment had come for saving his game, and Troy impulsively felt that he would play the card."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impulsive or impetuous way; without taking cautions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impulsive or impetuous way; without taking cautions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady, changing her position, sees the papers on the table—looks at them nearer—looks at them nearer still—asks impulsively, “Who copied that?” Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am friendless enough, God knows!” “I won’t notice anything, nor will I leave you!” sobbed Liddy, impulsively putting up her lips to Bathsheba’s, and kissing her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The moment had come for saving his game, and Troy impulsively felt that he would play the card."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ozonise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert (oxygen) into ozone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (oxygen) into ozone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozonise designates convert (oxygen) into ozone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert (oxygen) into ozone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (oxygen) into ozone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozonise designates convert (oxygen) into ozone."*

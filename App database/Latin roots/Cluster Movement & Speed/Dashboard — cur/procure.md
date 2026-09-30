@@ -5,15 +5,6 @@ status: unread
 ---
 # procure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get by special effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange for sexual partners for others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed, Solinus, to procure my fall, And by the doom of death end woes and all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll procure this fat rogue a charge of foot, and I know his death will be a march of twelve score."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said, sir, you should procure him better assurance than Bardolph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get by special effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange for sexual partners for others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed, Solinus, to procure my fall, And by the doom of death end woes and all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll procure this fat rogue a charge of foot, and I know his death will be a march of twelve score."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said, sir, you should procure him better assurance than Bardolph."*

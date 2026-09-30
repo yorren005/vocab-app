@@ -5,13 +5,6 @@ status: unread
 ---
 # restructure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct or form anew or provide with a new structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct or form anew or provide with a new structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restructure designates construct or form anew or provide with a new structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct or form anew or provide with a new structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct or form anew or provide with a new structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restructure designates construct or form anew or provide with a new structure."*

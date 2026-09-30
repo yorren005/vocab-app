@@ -5,13 +5,6 @@ status: unread
 ---
 # spathe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spathe designates a sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spathe designates a sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis."*

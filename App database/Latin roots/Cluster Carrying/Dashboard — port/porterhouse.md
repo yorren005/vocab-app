@@ -5,13 +5,6 @@ status: unread
 ---
 # porterhouse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porterhouse designates large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porterhouse designates large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # divergency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinite series that has no limit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving away in different direction from a common point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divergency designates an infinite series that has no limit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinite series that has no limit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving away in different direction from a common point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divergency designates an infinite series that has no limit."*

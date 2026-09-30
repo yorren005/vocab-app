@@ -5,13 +5,6 @@ status: unread
 ---
 # regressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of taxes) adjusted so that the rate decreases as the amount of income increases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing progress; returning to a former less advanced state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regressive designates (of taxes) adjusted so that the rate decreases as the amount of income increases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of taxes) adjusted so that the rate decreases as the amount of income increases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing progress; returning to a former less advanced state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regressive designates (of taxes) adjusted so that the rate decreases as the amount of income increases."*

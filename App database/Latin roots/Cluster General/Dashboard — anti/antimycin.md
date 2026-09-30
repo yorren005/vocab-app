@@ -5,13 +5,6 @@ status: unread
 ---
 # antimycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline antibiotic active against various fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline antibiotic active against various fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimycin designates a crystalline antibiotic active against various fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline antibiotic active against various fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline antibiotic active against various fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimycin designates a crystalline antibiotic active against various fungi."*

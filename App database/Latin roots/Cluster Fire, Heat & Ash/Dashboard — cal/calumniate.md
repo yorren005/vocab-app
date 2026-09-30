@@ -5,15 +5,6 @@ status: unread
 ---
 # calumniate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Calumniate, _see_ Slander, Sutra."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let not virtue seek Remuneration for the thing it was; For beauty, wit, High birth, vigour of bone, desert in service, Love, friendship, charity, are subjects all To envious and calumniating Time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Calumniate, _see_ Slander, Sutra."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let not virtue seek Remuneration for the thing it was; For beauty, wit, High birth, vigour of bone, desert in service, Love, friendship, charity, are subjects all To envious and calumniating Time."*

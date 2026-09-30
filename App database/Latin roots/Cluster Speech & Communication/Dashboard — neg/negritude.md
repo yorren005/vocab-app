@@ -5,13 +5,6 @@ status: unread
 ---
 # negritude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideological position that holds black culture to be independent and valid on its own terms; an affirmation of the african cultural heritage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideological position that holds black culture to be independent and valid on its own terms; an affirmation of the african cultural heritage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, negritude designates an ideological position that holds black culture to be independent and valid on its own terms; an affirmation of the african cultural heritage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideological position that holds black culture to be independent and valid on its own terms; an affirmation of the african cultural heritage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideological position that holds black culture to be independent and valid on its own terms; an affirmation of the african cultural heritage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, negritude designates an ideological position that holds black culture to be independent and valid on its own terms; an affirmation of the african cultural heritage."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # protectorship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of protector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of protector.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, as you, my lord, An ’t like your lordly Lord Protectorship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did he not, in his protectorship, Levy great sums of money through the realm For soldiers’ pay in France, and never sent it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In your protectorship you did devise Strange tortures for offenders never heard of, That England was defamed by tyranny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of protector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of protector.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, as you, my lord, An ’t like your lordly Lord Protectorship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did he not, in his protectorship, Levy great sums of money through the realm For soldiers’ pay in France, and never sent it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In your protectorship you did devise Strange tortures for offenders never heard of, That England was defamed by tyranny."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stabilize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make stable and keep from fluctuating or put into an equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support or hold steady and make steadfast, with or as if with a brace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Destroyer had to stabilize to bring Scarf aboard; now they're hustlin'."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Use your attractors to stabilize and hold position."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Greater stability in our tariff policy would remove a constantly disturbing factor in prices, as would likewise the stabilizing of the standard of deferred payments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make stable and keep from fluctuating or put into an equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support or hold steady and make steadfast, with or as if with a brace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Destroyer had to stabilize to bring Scarf aboard; now they're hustlin'."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Use your attractors to stabilize and hold position."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Greater stability in our tariff policy would remove a constantly disturbing factor in prices, as would likewise the stabilizing of the standard of deferred payments."*

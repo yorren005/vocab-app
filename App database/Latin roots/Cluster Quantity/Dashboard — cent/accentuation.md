@@ -5,14 +5,6 @@ status: unread
 ---
 # accentuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use or application of an accent; the relative prominence of syllables in a phrase or utterance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving special importance or significance to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a sonorous, harmonious, and flexible dialect, the vowels seeming to admit of very varied accentuation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Emma Brigham, was now sitting up straight in her chair; she had ceased rocking, and was eyeing them both intently with a sudden accentuation of family likeness in her face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use or application of an accent; the relative prominence of syllables in a phrase or utterance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving special importance or significance to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a sonorous, harmonious, and flexible dialect, the vowels seeming to admit of very varied accentuation."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Emma Brigham, was now sitting up straight in her chair; she had ceased rocking, and was eyeing them both intently with a sudden accentuation of family likeness in her face."*

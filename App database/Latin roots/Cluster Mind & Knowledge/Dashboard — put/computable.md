@@ -5,13 +5,6 @@ status: unread
 ---
 # computable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: May be computed or estimated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be computed or estimated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computable designates may be computed or estimated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: May be computed or estimated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be computed or estimated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computable designates may be computed or estimated."*

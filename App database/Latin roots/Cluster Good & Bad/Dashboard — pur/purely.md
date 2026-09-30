@@ -5,15 +5,6 @@ status: unread
 ---
 # purely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricted to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether from a purely mechanical, or from any other cause, when Bathsheba arose it was with a quieted spirit, and a regret for the antagonistic instincts which had seized upon her just before."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From this day she forced herself to take pains to avoid him—never allowing herself, as formerly, to remain long in his company, even if their juxtaposition were purely accidental."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy-house, so humble, so insignificant, so purely to him a place of constrained sojourn that he had never hitherto deemed it of sufficient importance to be reconnoitred as an object of any quality whatever in the landscape; what was it now?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricted to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether from a purely mechanical, or from any other cause, when Bathsheba arose it was with a quieted spirit, and a regret for the antagonistic instincts which had seized upon her just before."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From this day she forced herself to take pains to avoid him—never allowing herself, as formerly, to remain long in his company, even if their juxtaposition were purely accidental."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy-house, so humble, so insignificant, so purely to him a place of constrained sojourn that he had never hitherto deemed it of sufficient importance to be reconnoitred as an object of any quality whatever in the landscape; what was it now?"*

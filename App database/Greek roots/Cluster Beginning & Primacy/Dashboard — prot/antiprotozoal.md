@@ -5,13 +5,6 @@ status: unread
 ---
 # antiprotozoal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal drug used to fight diseases (like malaria) that are caused by protozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal drug used to fight diseases (like malaria) that are caused by protozoa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiprotozoal designates a medicinal drug used to fight diseases (like malaria) that are caused by protozoa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal drug used to fight diseases (like malaria) that are caused by protozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal drug used to fight diseases (like malaria) that are caused by protozoa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiprotozoal designates a medicinal drug used to fight diseases (like malaria) that are caused by protozoa."*

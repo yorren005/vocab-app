@@ -5,15 +5,6 @@ status: unread
 ---
 # efficient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being effective without wasting time or effort or expense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to accomplish a purpose; functioning effectively; -g.b.shaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I tried to show the guards a score or so of more efficient ways."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My alfalfa meadows, my efficient Jersey cattle, my upland pastures, my brush-covered slopes melting into tilled fields, while ever higher up the slopes my angora goats eat away brush to tillage!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Competition tended to bring the economic agents into more efficient hands, and the movement was furthered by many acts of injustice and violence on the part of those in power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being effective without wasting time or effort or expense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to accomplish a purpose; functioning effectively; -g.b.shaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I tried to show the guards a score or so of more efficient ways."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My alfalfa meadows, my efficient Jersey cattle, my upland pastures, my brush-covered slopes melting into tilled fields, while ever higher up the slopes my angora goats eat away brush to tillage!"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Competition tended to bring the economic agents into more efficient hands, and the movement was furthered by many acts of injustice and violence on the part of those in power."*

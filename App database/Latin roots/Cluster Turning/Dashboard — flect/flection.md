@@ -5,14 +5,6 @@ status: unread
 ---
 # flection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from a straight or normal course.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Man is, and forever has been, God's re- 471:18 flection."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reflection of Spirit /Question/. - What are body and Soul? /Answer/. - Identity is the reflection of Spirit, the re- 477:21 flection in multifarious forms of the living Principle, Love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from a straight or normal course.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Man is, and forever has been, God's re- 471:18 flection."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reflection of Spirit /Question/. - What are body and Soul? /Answer/. - Identity is the reflection of Spirit, the re- 477:21 flection in multifarious forms of the living Principle, Love."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # canister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An often cylindrical container for holding a usually specified object or substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encased shot for close-range artillery fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thankee!” Having leisurely helped himself from a canister borrowed from somebody downstairs for the purpose, and having made a considerable show of tasting it, first with one side of his nose and then with the other, Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The guns were advanced, the artillerymen blew the ash off their linstocks, and an officer gave the word “Fire!” This was followed by two whistling sounds of canister shot, one after another."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"They lay upon the surface like canister-shot upon a battle-field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An often cylindrical container for holding a usually specified object or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encased shot for close-range artillery fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thankee!” Having leisurely helped himself from a canister borrowed from somebody downstairs for the purpose, and having made a considerable show of tasting it, first with one side of his nose and then with the other, Mr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The guns were advanced, the artillerymen blew the ash off their linstocks, and an officer gave the word “Fire!” This was followed by two whistling sounds of canister shot, one after another."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"They lay upon the surface like canister-shot upon a battle-field."*

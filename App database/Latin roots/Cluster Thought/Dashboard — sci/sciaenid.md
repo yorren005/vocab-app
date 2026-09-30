@@ -5,13 +5,6 @@ status: unread
 ---
 # sciaenid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaenid designates widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaenid designates widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unintelligibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsense that is simply incoherent and unintelligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensibility as a consequence of being unintelligible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"I'd--" His voice husked into unintelligibility, and he had to begin again."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I likewise came upon a whole nest of the German classics which seemed to have kept their places undisturbed, in virtue of their unintelligibility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsense that is simply incoherent and unintelligible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensibility as a consequence of being unintelligible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"I'd--" His voice husked into unintelligibility, and he had to begin again."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I likewise came upon a whole nest of the German classics which seemed to have kept their places undisturbed, in virtue of their unintelligibility."*

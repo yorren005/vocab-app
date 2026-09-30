@@ -5,14 +5,6 @@ status: unread
 ---
 # aphelion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point farthest from the sun in the path of an orbiting celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point farthest from the sun in the path of an orbiting celestial body (such as a planet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They ventured into the void beyond Pluto's aphelion for hundreds of millions of kilometers -- although not yet the stars."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point farthest from the sun in the path of an orbiting celestial body (such as a planet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point farthest from the sun in the path of an orbiting celestial body (such as a planet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They ventured into the void beyond Pluto's aphelion for hundreds of millions of kilometers -- although not yet the stars."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*

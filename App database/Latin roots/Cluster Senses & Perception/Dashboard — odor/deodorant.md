@@ -5,13 +5,6 @@ status: unread
 ---
 # deodorant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toiletry applied to the skin in order to mask unpleasant odors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toiletry applied to the skin in order to mask unpleasant odors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deodorant designates a toiletry applied to the skin in order to mask unpleasant odors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toiletry applied to the skin in order to mask unpleasant odors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toiletry applied to the skin in order to mask unpleasant odors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deodorant designates a toiletry applied to the skin in order to mask unpleasant odors."*

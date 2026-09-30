@@ -5,13 +5,6 @@ status: unread
 ---
 # coralberry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american deciduous shrub cultivated for it abundant clusters of coral-red berrylike fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrub with coral-red berries; japan to northern india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coralberry designates north american deciduous shrub cultivated for it abundant clusters of coral-red berrylike fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: North american deciduous shrub cultivated for it abundant clusters of coral-red berrylike fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrub with coral-red berries; japan to northern india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coralberry designates north american deciduous shrub cultivated for it abundant clusters of coral-red berrylike fruits."*

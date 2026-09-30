@@ -5,15 +5,6 @@ status: unread
 ---
 # dryness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of not containing or being covered by a liquid (especially water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderation in or abstinence from alcohol or other drugs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Steinberg at the doorway he felt a great leap at his heart, and a sudden dryness in his throat."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Rain fell the first night, and after that neither the soil nor I could complain of dryness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of not containing or being covered by a liquid (especially water).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderation in or abstinence from alcohol or other drugs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Steinberg at the doorway he felt a great leap at his heart, and a sudden dryness in his throat."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Rain fell the first night, and after that neither the soil nor I could complain of dryness."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # branchiopoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiopoda designates primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiopoda designates primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas."*

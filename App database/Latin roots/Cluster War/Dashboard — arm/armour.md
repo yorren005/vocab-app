@@ -5,15 +5,6 @@ status: unread
 ---
 # armour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military unit consisting of armored fighting vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective covering made of metal and used in combat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll give thee, friend, An armour all of gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before he should thus stoop to th’ herd—but that The violent fit o’ th’ time craves it as physic For the whole state—I would put mine armour on, Which I can scarcely bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou art to thyself: Such was the very armour he had on When he th’ambitious Norway combated; So frown’d he once, when in an angry parle He smote the sledded Polacks on the ice. ’Tis strange."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military unit consisting of armored fighting vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective covering made of metal and used in combat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll give thee, friend, An armour all of gold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before he should thus stoop to th’ herd—but that The violent fit o’ th’ time craves it as physic For the whole state—I would put mine armour on, Which I can scarcely bear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou art to thyself: Such was the very armour he had on When he th’ambitious Norway combated; So frown’d he once, when in an angry parle He smote the sledded Polacks on the ice. ’Tis strange."*

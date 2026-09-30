@@ -5,13 +5,6 @@ status: unread
 ---
 # psychotropic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting on the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting on the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotropic designates acting on the mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting on the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting on the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotropic designates acting on the mind."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # averting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing something from occurring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning yourself (or your gaze) away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They "are never permitted to walk on the ice of rivers or lakes, or near the part where the men are hunting beaver, or where a fishing-net is set, for fear of averting their success."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'm 'most ashamed to look at you," murmured Lulu, half averting her blushing face."*
-> - 📜 **George Eliot (*Middlemarch*):** *"At six o’clock he had already been long dressed, and had spent some of his wretchedness in prayer, pleading his motives for averting the worst evil if in anything he had used falsity and spoken what was not true before God."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing something from occurring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning yourself (or your gaze) away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They "are never permitted to walk on the ice of rivers or lakes, or near the part where the men are hunting beaver, or where a fishing-net is set, for fear of averting their success."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'm 'most ashamed to look at you," murmured Lulu, half averting her blushing face."*
+> - 📜 **George Eliot (*Middlemarch*):** *"At six o’clock he had already been long dressed, and had spent some of his wretchedness in prayer, pleading his motives for averting the worst evil if in anything he had used falsity and spoken what was not true before God."*

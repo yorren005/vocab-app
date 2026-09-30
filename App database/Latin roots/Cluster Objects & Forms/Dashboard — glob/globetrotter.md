@@ -5,13 +5,6 @@ status: unread
 ---
 # globetrotter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who travels widely and often.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels widely and often.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Possibly perceiving an expression of dubiosity on their faces the globetrotter went on, adhering to his adventures. —And I seen a man killed in Trieste by an Italian chap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who travels widely and often.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels widely and often.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Possibly perceiving an expression of dubiosity on their faces the globetrotter went on, adhering to his adventures. —And I seen a man killed in Trieste by an Italian chap."*

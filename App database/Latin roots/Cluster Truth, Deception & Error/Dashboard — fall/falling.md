@@ -5,15 +5,6 @@ status: unread
 ---
 # falling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descend in free fall under the influence of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move downward and lower, but not necessarily all the way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar must think, When one so great begins to rage, he’s hunted Even to falling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To do thus [_Falling on his sword._] I learned of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me see—what think you of falling in love?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descend in free fall under the influence of gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move downward and lower, but not necessarily all the way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar must think, When one so great begins to rage, he’s hunted Even to falling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To do thus [_Falling on his sword._] I learned of thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me see—what think you of falling in love?"*

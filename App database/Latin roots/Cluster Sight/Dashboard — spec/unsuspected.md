@@ -5,15 +5,6 @@ status: unread
 ---
 # unsuspected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspected or believed likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suspected or believed likely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the head of that ignoble traitor, The dangerous and unsuspected Hastings."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He had come in a pelting rain-storm, and part of the newspaper had become torn, and disclosed the blue, unsuspected hat box."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But conclusions regarding practical questions of public policy, tho they may appear to be simple, usually are biased and complicated by assumptions, prejudices, selfish interests, and feelings, deep-rooted and often unsuspected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspected or believed likely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suspected or believed likely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the head of that ignoble traitor, The dangerous and unsuspected Hastings."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He had come in a pelting rain-storm, and part of the newspaper had become torn, and disclosed the blue, unsuspected hat box."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But conclusions regarding practical questions of public policy, tho they may appear to be simple, usually are biased and complicated by assumptions, prejudices, selfish interests, and feelings, deep-rooted and often unsuspected."*

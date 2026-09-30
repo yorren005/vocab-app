@@ -5,13 +5,6 @@ status: unread
 ---
 # countertenor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer with a voice above that of a tenor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest adult male singing voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countertenor designates a male singer with a voice above that of a tenor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer with a voice above that of a tenor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest adult male singing voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countertenor designates a male singer with a voice above that of a tenor."*

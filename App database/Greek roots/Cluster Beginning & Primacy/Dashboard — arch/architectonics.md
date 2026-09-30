@@ -5,13 +5,6 @@ status: unread
 ---
 # architectonics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of architecture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, architectonics designates the science of architecture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of architecture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, architectonics designates the science of architecture."*

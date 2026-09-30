@@ -5,13 +5,6 @@ status: unread
 ---
 # retrovirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovirus designates any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovirus designates any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell."*

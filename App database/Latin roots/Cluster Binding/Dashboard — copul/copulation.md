@@ -5,15 +5,6 @@ status: unread
 ---
 # copulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let copulation thrive; For Gloucester’s bastard son was kinder to his father Than my daughters got ’tween the lawful sheets."*
-> - 📜 **James Joyce (*Ulysses*):** *"Copulation without population!"*
-> - 📜 **James Joyce (*Ulysses*):** *"From outrage (matrimony) to outrage (adultery) there arose nought but outrage (copulation) yet the matrimonial violator of the matrimonially violated had not been outraged by the adulterous violator of the adulterously violated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let copulation thrive; For Gloucester’s bastard son was kinder to his father Than my daughters got ’tween the lawful sheets."*
+> - 📜 **James Joyce (*Ulysses*):** *"Copulation without population!"*
+> - 📜 **James Joyce (*Ulysses*):** *"From outrage (matrimony) to outrage (adultery) there arose nought but outrage (copulation) yet the matrimonial violator of the matrimonially violated had not been outraged by the adulterous violator of the adulterously violated."*

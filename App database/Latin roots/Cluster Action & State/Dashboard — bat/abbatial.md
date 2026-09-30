@@ -5,13 +5,6 @@ status: unread
 ---
 # abbatial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or having to do with or belonging to an abbey or abbot, or abbess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or having to do with or belonging to an abbey or abbot, or abbess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the _Abbatial_ libraries, according to the catalogues given by Leland, there were only the following classics--Cicero and Aristotle, which were common; Terence, Euclid, Quintus Curtius, Sidonius Apollinaris, Julius Frontinus, Apuleius, and Seneca."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or having to do with or belonging to an abbey or abbot, or abbess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or having to do with or belonging to an abbey or abbot, or abbess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the _Abbatial_ libraries, according to the catalogues given by Leland, there were only the following classics--Cicero and Aristotle, which were common; Terence, Euclid, Quintus Curtius, Sidonius Apollinaris, Julius Frontinus, Apuleius, and Seneca."*

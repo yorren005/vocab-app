@@ -5,15 +5,6 @@ status: unread
 ---
 # specify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide upon or fix definitely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here enter’d Pucelle and her practisants; Now she is there, how will she specify Here is the best and safest passage in?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a poor boy, sir, but the rich Jew’s man, that would, sir, as my father shall specify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed the short and the long is, I serve the Jew, and have a desire, as my father shall specify."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide upon or fix definitely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here enter’d Pucelle and her practisants; Now she is there, how will she specify Here is the best and safest passage in?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a poor boy, sir, but the rich Jew’s man, that would, sir, as my father shall specify."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed the short and the long is, I serve the Jew, and have a desire, as my father shall specify."*

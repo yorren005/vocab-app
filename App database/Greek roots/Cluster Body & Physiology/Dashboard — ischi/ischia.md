@@ -5,13 +5,6 @@ status: unread
 ---
 # ischia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island (part of campania) in the tyrrhenian sea at the north end of the bay of naples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three sections of the hipbone; situated below the ilium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischia designates a volcanic island (part of campania) in the tyrrhenian sea at the north end of the bay of naples."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island (part of campania) in the tyrrhenian sea at the north end of the bay of naples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three sections of the hipbone; situated below the ilium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischia designates a volcanic island (part of campania) in the tyrrhenian sea at the north end of the bay of naples."*

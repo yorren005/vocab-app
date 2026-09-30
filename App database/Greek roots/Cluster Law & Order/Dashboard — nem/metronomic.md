@@ -5,13 +5,6 @@ status: unread
 ---
 # metronomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanically regular (as in action or tempo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a drug or regimen of drugs administered in low doses at regular intervals over an extended period of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"On the marvellous music of Shelley's verse we need not dwell, except to note that he avoids that metronomic beat of rhythm which Edgar Poe introduced into modern lyric measures, as Pope introduced it into the rhyming heroics of his day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanically regular (as in action or tempo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a drug or regimen of drugs administered in low doses at regular intervals over an extended period of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"On the marvellous music of Shelley's verse we need not dwell, except to note that he avoids that metronomic beat of rhythm which Edgar Poe introduced into modern lyric measures, as Pope introduced it into the rhyming heroics of his day."*

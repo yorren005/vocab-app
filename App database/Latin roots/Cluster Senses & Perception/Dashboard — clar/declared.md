@@ -5,15 +5,6 @@ status: unread
 ---
 # declared
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have no time to tell you now, Kurt," the mother declared decisively."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I told her right away," Lippo declared."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"One ought to put in the first block and pack it before one takes up the second." "Then I won't wait for you," Mäzli declared, rapidly whisking out by the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have no time to tell you now, Kurt," the mother declared decisively."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I told her right away," Lippo declared."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"One ought to put in the first block and pack it before one takes up the second." "Then I won't wait for you," Mäzli declared, rapidly whisking out by the door."*

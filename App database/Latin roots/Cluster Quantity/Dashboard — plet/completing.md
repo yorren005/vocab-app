@@ -5,15 +5,6 @@ status: unread
 ---
 # completing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a whole, with all the necessary parts or elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if everybody has done,” says Judy, completing her preparations, “I’ll have that girl in to her tea."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The autumn wore away gloomily enough amid these melancholy conjectures, and Christmas-day came, completing a year of her legal widowhood, and two years and a quarter of her life alone."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Captain Johannes Maartens was the last, completing the fourteen of us that clung on in the cleft."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a whole, with all the necessary parts or elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if everybody has done,” says Judy, completing her preparations, “I’ll have that girl in to her tea."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The autumn wore away gloomily enough amid these melancholy conjectures, and Christmas-day came, completing a year of her legal widowhood, and two years and a quarter of her life alone."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Captain Johannes Maartens was the last, completing the fourteen of us that clung on in the cleft."*

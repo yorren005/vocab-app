@@ -5,15 +5,6 @@ status: unread
 ---
 # civilly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a civil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a civil manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that it’s requisite, I am sure,” said the young gentleman civilly."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The visitors took their leave; and Charles, having civilly seen them off, and then made a face at them, and abused them for coming, began with— “Well, mother, I have done something for you that you will like."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a civil manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a civil manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that it’s requisite, I am sure,” said the young gentleman civilly."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The visitors took their leave; and Charles, having civilly seen them off, and then made a face at them, and abused them for coming, began with— “Well, mother, I have done something for you that you will like."*

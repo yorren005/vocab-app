@@ -5,15 +5,6 @@ status: unread
 ---
 # superfluity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme excess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they would yield us but the superfluity while it were wholesome, we might guess they relieved us humanely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then we shall ha’ means to vent Our musty superfluity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Superfluity come sooner by white hairs, but competency lives longer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme excess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme excess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they would yield us but the superfluity while it were wholesome, we might guess they relieved us humanely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then we shall ha’ means to vent Our musty superfluity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Superfluity come sooner by white hairs, but competency lives longer."*

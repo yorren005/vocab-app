@@ -5,14 +5,6 @@ status: unread
 ---
 # demonism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in and reverence for devils (especially satan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in and reverence for devils (especially satan).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in and reverence for devils (especially satan).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in and reverence for devils (especially satan).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*

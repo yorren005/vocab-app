@@ -5,13 +5,6 @@ status: unread
 ---
 # physostigma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African woody vines: calabar beans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African woody vines: calabar beans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostigma designates african woody vines: calabar beans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: African woody vines: calabar beans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African woody vines: calabar beans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostigma designates african woody vines: calabar beans."*

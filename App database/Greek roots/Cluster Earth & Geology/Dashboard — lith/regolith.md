@@ -5,13 +5,6 @@ status: unread
 ---
 # regolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regolith designates unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regolith designates unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet."*

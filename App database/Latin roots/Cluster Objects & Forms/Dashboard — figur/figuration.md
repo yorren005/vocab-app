@@ -5,13 +5,6 @@ status: unread
 ---
 # figuration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing figuratively as by emblem or allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorating with a design.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine sense of Deity The term Lord, as used in our version of the Old 576:27 Testament, is often synonymous with Jehovah, and ex- presses the Jewish concept, not yet elevated to deific apprehension through spiritual trans- 576:30 figuration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing figuratively as by emblem or allegory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorating with a design.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine sense of Deity The term Lord, as used in our version of the Old 576:27 Testament, is often synonymous with Jehovah, and ex- presses the Jewish concept, not yet elevated to deific apprehension through spiritual trans- 576:30 figuration."*

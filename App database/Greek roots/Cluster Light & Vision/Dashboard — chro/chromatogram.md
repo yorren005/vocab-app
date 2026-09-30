@@ -5,13 +5,6 @@ status: unread
 ---
 # chromatogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatogram designates the recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatogram designates the recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography."*

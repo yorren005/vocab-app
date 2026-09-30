@@ -5,15 +5,6 @@ status: unread
 ---
 # annexation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporation by joining or uniting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of acquiring something (especially territory) by conquest or occupation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Ask for Grosset & Dunlap’s list THE SECRET OF THE BARBICAN THE ANNEXATION SOCIETY THE WOLVES AND THE LAMB GREEN INK THE KING versus WARGRAVE THE LOST MR."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It must have come into the church from a Greek or Hellenistic source, perhaps as a translation of Paul's "heavenly Christ." As it stands, it is a peculiarly bold annexation from Philosophy."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The opening of a rich continent and its annexation, by these new agencies, to the available resources of the older countries were not dreamed of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporation by joining or uniting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of acquiring something (especially territory) by conquest or occupation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Ask for Grosset & Dunlap’s list THE SECRET OF THE BARBICAN THE ANNEXATION SOCIETY THE WOLVES AND THE LAMB GREEN INK THE KING versus WARGRAVE THE LOST MR."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It must have come into the church from a Greek or Hellenistic source, perhaps as a translation of Paul's "heavenly Christ." As it stands, it is a peculiarly bold annexation from Philosophy."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The opening of a rich continent and its annexation, by these new agencies, to the available resources of the older countries were not dreamed of."*

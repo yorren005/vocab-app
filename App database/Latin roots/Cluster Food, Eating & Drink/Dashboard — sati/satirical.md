@@ -5,15 +5,6 @@ status: unread
 ---
 # satirical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposing human folly to ridicule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposing human folly to ridicule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby myself, seeing and hearing this neglected girl and knowing how much of bitterly satirical truth there was in what she said."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is nonsense to have such thoughts in this kind of case, which is rather one for satirical laughter than for tragedy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposing human folly to ridicule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposing human folly to ridicule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby myself, seeing and hearing this neglected girl and knowing how much of bitterly satirical truth there was in what she said."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is nonsense to have such thoughts in this kind of case, which is rather one for satirical laughter than for tragedy."*

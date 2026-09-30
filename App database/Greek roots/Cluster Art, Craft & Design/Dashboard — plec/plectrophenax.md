@@ -5,13 +5,6 @@ status: unread
 ---
 # plectrophenax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Snow bunting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Snow bunting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectrophenax designates snow bunting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Snow bunting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Snow bunting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectrophenax designates snow bunting."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # contemporaneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the same period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the same period.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"For the feudal tournament--descriptions of which are handed down to us by contemporaneous authors--no substitute is left in these times."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Next I thought I would measure off the French reigns, and peg them alongside the English ones, so that we could always have contemporaneous French history under our eyes as we went our English rounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the same period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the same period.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"For the feudal tournament--descriptions of which are handed down to us by contemporaneous authors--no substitute is left in these times."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Next I thought I would measure off the French reigns, and peg them alongside the English ones, so that we could always have contemporaneous French history under our eyes as we went our English rounds."*

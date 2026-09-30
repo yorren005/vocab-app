@@ -5,15 +5,6 @@ status: unread
 ---
 # symptom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjective evidence of disease or physical disturbance; broadly : something that indicates the presence of bodily disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evident reaction by a plant to a pathogen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Pride, too, entered into her submission—which perhaps was a symptom of that reckless acquiescence in chance too apparent in the whole d’Urberville family—and the many effective chords which she could have stirred by an appeal were left untouched."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was unmistakably a symptom that something of his old passion for her had been revived; duty and desire ran hand-in-hand."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It is not within our power to tell what its meaning is, yet it must be a symptom of good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjective evidence of disease or physical disturbance; broadly : something that indicates the presence of bodily disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evident reaction by a plant to a pathogen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Pride, too, entered into her submission—which perhaps was a symptom of that reckless acquiescence in chance too apparent in the whole d’Urberville family—and the many effective chords which she could have stirred by an appeal were left untouched."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was unmistakably a symptom that something of his old passion for her had been revived; duty and desire ran hand-in-hand."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It is not within our power to tell what its meaning is, yet it must be a symptom of good."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neuralgy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute spasmodic pain along the course of one or more nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute spasmodic pain along the course of one or more nerves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuralgy designates acute spasmodic pain along the course of one or more nerves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute spasmodic pain along the course of one or more nerves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute spasmodic pain along the course of one or more nerves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuralgy designates acute spasmodic pain along the course of one or more nerves."*

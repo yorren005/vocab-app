@@ -5,13 +5,6 @@ status: unread
 ---
 # ureter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ureter designates either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ureter designates either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca."*

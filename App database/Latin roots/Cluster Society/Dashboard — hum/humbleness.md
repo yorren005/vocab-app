@@ -5,15 +5,6 @@ status: unread
 ---
 # humbleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being humble and unimportant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humble feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could not personally deliver to her What you commanded me, but by her woman I sent your message, who returned her thanks In the great’st humbleness, and desired your Highness Most heartily to pray for her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For half thy wealth, it is Antonio’s; The other half comes to the general state, Which humbleness may drive unto a fine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being humble and unimportant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humble feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could not personally deliver to her What you commanded me, but by her woman I sent your message, who returned her thanks In the great’st humbleness, and desired your Highness Most heartily to pray for her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For half thy wealth, it is Antonio’s; The other half comes to the general state, Which humbleness may drive unto a fine."*

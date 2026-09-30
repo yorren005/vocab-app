@@ -5,15 +5,6 @@ status: unread
 ---
 # anthropomorphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is individual and personal in a scientific 337:1 sense, but not in any anthropomorphic sense."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word /an- thropomorphic/, in such a phrase as "an anthropomorphic God," is derived from two Greek words, signifying /man/ 517:6 and /form/, and may be defined as a mortally mental at- tempt to reduce Deity to corporeality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for this anthropomorphic representation of the tree-spirit is largely to be found in the popular customs of European peasantry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is individual and personal in a scientific 337:1 sense, but not in any anthropomorphic sense."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word /an- thropomorphic/, in such a phrase as "an anthropomorphic God," is derived from two Greek words, signifying /man/ 517:6 and /form/, and may be defined as a mortally mental at- tempt to reduce Deity to corporeality."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for this anthropomorphic representation of the tree-spirit is largely to be found in the popular customs of European peasantry."*

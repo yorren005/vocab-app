@@ -5,13 +5,6 @@ status: unread
 ---
 # armyworm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noctuid moth larvae that travel in multitudes destroying especially grass and grain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moth whose destructive larvae travel in multitudes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armyworm designates noctuid moth larvae that travel in multitudes destroying especially grass and grain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noctuid moth larvae that travel in multitudes destroying especially grass and grain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moth whose destructive larvae travel in multitudes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armyworm designates noctuid moth larvae that travel in multitudes destroying especially grass and grain."*

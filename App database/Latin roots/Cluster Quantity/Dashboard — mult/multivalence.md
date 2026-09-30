@@ -5,13 +5,6 @@ status: unread
 ---
 # multivalence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the state of having a valence greater than two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) the state of having a valence greater than two.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivalence designates (chemistry) the state of having a valence greater than two."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the state of having a valence greater than two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) the state of having a valence greater than two.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivalence designates (chemistry) the state of having a valence greater than two."*

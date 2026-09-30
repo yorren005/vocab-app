@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmolysis designates shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmolysis designates shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water."*

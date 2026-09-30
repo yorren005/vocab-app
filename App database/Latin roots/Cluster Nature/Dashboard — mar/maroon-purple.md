@@ -5,13 +5,6 @@ status: unread
 ---
 # maroon-purple
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of purple tinged with maroon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of purple tinged with maroon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maroon-purple designates of purple tinged with maroon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of purple tinged with maroon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of purple tinged with maroon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maroon-purple designates of purple tinged with maroon."*

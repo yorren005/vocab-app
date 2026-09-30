@@ -5,13 +5,6 @@ status: unread
 ---
 # tradecraft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill acquired through experience in a trade; often used to discuss skill in espionage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill acquired through experience in a trade; often used to discuss skill in espionage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tradecraft designates skill acquired through experience in a trade; often used to discuss skill in espionage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill acquired through experience in a trade; often used to discuss skill in espionage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill acquired through experience in a trade; often used to discuss skill in espionage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tradecraft designates skill acquired through experience in a trade; often used to discuss skill in espionage."*

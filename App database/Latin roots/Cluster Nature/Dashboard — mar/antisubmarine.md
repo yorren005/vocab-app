@@ -5,13 +5,6 @@ status: unread
 ---
 # antisubmarine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive against enemy submarines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defensive against enemy submarines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisubmarine designates defensive against enemy submarines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive against enemy submarines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defensive against enemy submarines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisubmarine designates defensive against enemy submarines."*

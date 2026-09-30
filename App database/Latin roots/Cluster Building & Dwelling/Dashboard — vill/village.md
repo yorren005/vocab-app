@@ -5,15 +5,6 @@ status: unread
 ---
 # village
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A community of people smaller than a town.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settlement smaller than a town.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A community of people smaller than a town.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settlement smaller than a town.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*

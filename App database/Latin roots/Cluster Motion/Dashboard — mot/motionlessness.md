@@ -5,13 +5,6 @@ status: unread
 ---
 # motionlessness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of no motion or movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of no motion or movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"So they got up and went home, and Karl forgot the lay-figure, leaving it in busy motionlessness all night before the easel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of no motion or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of no motion or movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"So they got up and went home, and Karl forgot the lay-figure, leaving it in busy motionlessness all night before the easel."*

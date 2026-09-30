@@ -5,15 +5,6 @@ status: unread
 ---
 # parted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go one's own way; move apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontinue an association or relation; go different ways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was first smok’d by the old Lord Lafew; when his disguise and he is parted, tell me what a sprat you shall find him; which you shall see this very night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, are the brothers parted?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most wretched, That have my heart parted betwixt two friends That does afflict each other!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go one's own way; move apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontinue an association or relation; go different ways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was first smok’d by the old Lord Lafew; when his disguise and he is parted, tell me what a sprat you shall find him; which you shall see this very night."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, are the brothers parted?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most wretched, That have my heart parted betwixt two friends That does afflict each other!"*

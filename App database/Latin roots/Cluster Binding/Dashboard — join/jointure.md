@@ -5,15 +5,6 @@ status: unread
 ---
 # jointure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or becoming a single unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, of a snail, for though he comes slowly, he carries his house on his head—a better jointure, I think, than you make a woman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now forthwith shall articles be drawn Touching the jointure that your king must make, Which with her dowry shall be counterpoised."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will make you a hundred and fifty pounds jointure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or becoming a single unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, of a snail, for though he comes slowly, he carries his house on his head—a better jointure, I think, than you make a woman."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now forthwith shall articles be drawn Touching the jointure that your king must make, Which with her dowry shall be counterpoised."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will make you a hundred and fifty pounds jointure."*

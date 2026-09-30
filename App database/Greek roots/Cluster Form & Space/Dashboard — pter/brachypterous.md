@@ -5,13 +5,6 @@ status: unread
 ---
 # brachypterous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having rudimentary or abnormally small wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having rudimentary or abnormally small wings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachypterous designates having rudimentary or abnormally small wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having rudimentary or abnormally small wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having rudimentary or abnormally small wings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachypterous designates having rudimentary or abnormally small wings."*

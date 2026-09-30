@@ -5,13 +5,6 @@ status: unread
 ---
 # demijohn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Every now and then he lugged off to the mountain a great round demijohn of a calabash, and, panting with his exertions, brought it back filled with his darling fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Every now and then he lugged off to the mountain a great round demijohn of a calabash, and, panting with his exertions, brought it back filled with his darling fluid."*

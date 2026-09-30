@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with hyperopia; a farsighted person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with hyperopia; a farsighted person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperope designates a person with hyperopia; a farsighted person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with hyperopia; a farsighted person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with hyperopia; a farsighted person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperope designates a person with hyperopia; a farsighted person."*

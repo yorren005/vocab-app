@@ -5,13 +5,6 @@ status: unread
 ---
 # undried
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Still wet or moist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still wet or moist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undried designates still wet or moist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Still wet or moist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still wet or moist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undried designates still wet or moist."*

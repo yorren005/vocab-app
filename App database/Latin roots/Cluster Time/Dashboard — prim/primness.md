@@ -5,14 +5,6 @@ status: unread
 ---
 # primness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or affected modesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated and arrogant properness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence sat down in a deck chair and Isabel's smile broadened: she was laughing at him and teasing him with her eyes, though what she said remained conventional to the point of primness."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"It’s all a mere mistake and a worry and a joke—and we’ll go home as fast as we can!” Our companion, on this, had responded with a strange, quick primness of propriety, and they were again, with Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or affected modesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated and arrogant properness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence sat down in a deck chair and Isabel's smile broadened: she was laughing at him and teasing him with her eyes, though what she said remained conventional to the point of primness."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"It’s all a mere mistake and a worry and a joke—and we’ll go home as fast as we can!” Our companion, on this, had responded with a strange, quick primness of propriety, and they were again, with Mrs."*

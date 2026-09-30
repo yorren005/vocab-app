@@ -5,13 +5,6 @@ status: unread
 ---
 # ecosystem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex of a community of organisms and its environment functioning as an ecological unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a network of businesses) considered to resemble an ecological ecosystem especially because of its complex interdependent parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecosystem designates the complex of a community of organisms and its environment functioning as an ecological unit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex of a community of organisms and its environment functioning as an ecological unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a network of businesses) considered to resemble an ecological ecosystem especially because of its complex interdependent parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecosystem designates the complex of a community of organisms and its environment functioning as an ecological unit."*

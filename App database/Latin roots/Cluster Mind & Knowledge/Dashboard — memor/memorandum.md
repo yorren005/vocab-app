@@ -5,15 +5,6 @@ status: unread
 ---
 # memorandum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written proposal or reminder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written proposal or reminder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with a warmth approaching to rapture, engages himself for that day twelvemonth more than thankfully, makes a memorandum of the day in a large black pocket-book with a girdle to it, and breathes a hope that Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll make a memorandum of the arrangement which struck me as likely to be convenient, for I haven’t time to talk about it now; and then we’ll discuss it at our leisure."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"_Stolen!_” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written proposal or reminder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written proposal or reminder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with a warmth approaching to rapture, engages himself for that day twelvemonth more than thankfully, makes a memorandum of the day in a large black pocket-book with a girdle to it, and breathes a hope that Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll make a memorandum of the arrangement which struck me as likely to be convenient, for I haven’t time to talk about it now; and then we’ll discuss it at our leisure."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"_Stolen!_” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact."*

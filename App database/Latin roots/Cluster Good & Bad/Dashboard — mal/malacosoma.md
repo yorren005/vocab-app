@@ -5,13 +5,6 @@ status: unread
 ---
 # malacosoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tent caterpillars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tent caterpillars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacosoma designates tent caterpillars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tent caterpillars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tent caterpillars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacosoma designates tent caterpillars."*

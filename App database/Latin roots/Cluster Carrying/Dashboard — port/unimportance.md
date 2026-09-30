@@ -5,14 +5,6 @@ status: unread
 ---
 # unimportance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being humble and unimportant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being important or worthy of note.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Looking into Napoleon’s eyes Prince Andrew thought of the insignificance of greatness, the unimportance of life which no one could understand, and the still greater unimportance of death, the meaning of which no one alive could understand or explain."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is nothing certain, nothing at all except the unimportance of everything I understand, and the greatness of something incomprehensible but all-important.” The stretchers moved on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being humble and unimportant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being important or worthy of note.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Looking into Napoleon’s eyes Prince Andrew thought of the insignificance of greatness, the unimportance of life which no one could understand, and the still greater unimportance of death, the meaning of which no one alive could understand or explain."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is nothing certain, nothing at all except the unimportance of everything I understand, and the greatness of something incomprehensible but all-important.” The stretchers moved on."*

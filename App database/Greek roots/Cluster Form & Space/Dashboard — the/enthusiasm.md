@@ -5,15 +5,6 @@ status: unread
 ---
 # enthusiasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong excitement of feeling : ardor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something inspiring zeal or fervor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had been away on a journey and had not made his appearance for several weeks in Nolla, and his coming was therefore greeted with special enthusiasm."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Our friends at the castle and even Philip, who certainly was not easily filled with enthusiasm, were extremely enthusiastic about our new playmate."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt is sure to make dozens of songs about her and Mea will be carried away with enthusiasm for her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong excitement of feeling : ardor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something inspiring zeal or fervor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had been away on a journey and had not made his appearance for several weeks in Nolla, and his coming was therefore greeted with special enthusiasm."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Our friends at the castle and even Philip, who certainly was not easily filled with enthusiasm, were extremely enthusiastic about our new playmate."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt is sure to make dozens of songs about her and Mea will be carried away with enthusiasm for her."*

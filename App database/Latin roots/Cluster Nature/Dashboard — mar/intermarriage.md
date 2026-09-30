@@ -5,14 +5,6 @@ status: unread
 ---
 # intermarriage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage to a person belonging to a tribe or group other than your own as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage within one's own tribe or group as required by custom or law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Jews, whom christians tax with avarice, are of all races the most given to intermarriage."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Cedric lived to see this union approximate towards its completion; for as the two nations mixed in society and formed intermarriages with each other, the Normans abated their scorn, and the Saxons were refined from their rusticity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage to a person belonging to a tribe or group other than your own as required by custom or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage within one's own tribe or group as required by custom or law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Jews, whom christians tax with avarice, are of all races the most given to intermarriage."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Cedric lived to see this union approximate towards its completion; for as the two nations mixed in society and formed intermarriages with each other, the Normans abated their scorn, and the Saxons were refined from their rusticity."*

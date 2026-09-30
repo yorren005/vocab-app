@@ -5,15 +5,6 @@ status: unread
 ---
 # genius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has exceptional intellectual ability and originality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual mental ability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One of these men is _genius_ to the other; And so of these, which is the natural man, And which the spirit?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was the very genius of famine, yet lecherous as a monkey, and the whores called him mandrake."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is none but he Whose being I do fear: and under him My genius is rebuk’d; as, it is said, Mark Antony’s was by Caesar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has exceptional intellectual ability and originality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual mental ability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One of these men is _genius_ to the other; And so of these, which is the natural man, And which the spirit?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was the very genius of famine, yet lecherous as a monkey, and the whores called him mandrake."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is none but he Whose being I do fear: and under him My genius is rebuk’d; as, it is said, Mark Antony’s was by Caesar."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # post-horse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A horse kept at an inn or post house for use by mail carriers or for rent to travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse kept at an inn or post house for use by mail carriers or for rent to travelers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-horse designates a horse kept at an inn or post house for use by mail carriers or for rent to travelers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horse kept at an inn or post house for use by mail carriers or for rent to travelers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse kept at an inn or post house for use by mail carriers or for rent to travelers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-horse designates a horse kept at an inn or post house for use by mail carriers or for rent to travelers."*

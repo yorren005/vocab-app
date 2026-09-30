@@ -5,15 +5,6 @@ status: unread
 ---
 # laborious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by effort to the point of exhaustion; especially physical effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They dance in the academy, and at this time of year we do figures at five every morning.” “Why, what a laborious life!” I exclaimed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the former, his desire to go to the sources and to take nothing at second-hand led him to make a renewed and laborious study of the Fathers, who were already, to a far greater extent than with most theologians, his familiar friends."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His sales were daily decreasing, and he became more and more disheartened, until one night, after a laborious day's effort, he found that he had _only sold twenty-five cents' worth_!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by effort to the point of exhaustion; especially physical effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They dance in the academy, and at this time of year we do figures at five every morning.” “Why, what a laborious life!” I exclaimed."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"For the former, his desire to go to the sources and to take nothing at second-hand led him to make a renewed and laborious study of the Fathers, who were already, to a far greater extent than with most theologians, his familiar friends."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His sales were daily decreasing, and he became more and more disheartened, until one night, after a laborious day's effort, he found that he had _only sold twenty-five cents' worth_!"*

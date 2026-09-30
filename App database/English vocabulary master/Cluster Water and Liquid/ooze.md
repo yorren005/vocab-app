@@ -5,20 +5,6 @@ status: unread
 ---
 # ooze
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive, sometimes figurative) to be secreted or slowly leak
-> 2. **Nuance / Usage**: Oozing, gentle flowing, or seepage, as of water through sand or earth
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Term sets in, lie high and dry upon the ooze of the long vacation."*
-> - 📜 **James Joyce (*Ulysses*):** *"Still some might ooze out of an artery."*
-> - 📜 **Charlotte Riddell (*A Strange Christmas Game*):** *"I promised him I would keep silence, but the story gradually oozed out, and the Cronsons left the country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (intransitive, sometimes figurative) to be secreted or slowly leak
+> 2. **Nuance / Usage**: Oozing, gentle flowing, or seepage, as of water through sand or earth
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Term sets in, lie high and dry upon the ooze of the long vacation."*
+> - 📜 **James Joyce (*Ulysses*):** *"Still some might ooze out of an artery."*
+> - 📜 **Charlotte Riddell (*A Strange Christmas Game*):** *"I promised him I would keep silence, but the story gradually oozed out, and the Cronsons left the country."*

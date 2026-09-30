@@ -5,15 +5,6 @@ status: unread
 ---
 # rivulet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small stream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Burnie, dim. of burn, a rivulet."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"A mimic rivulet ran from room to room in an alabaster channel, and the spray of perfumed fountains cooled the air."*
-> - 📜 **Effie Afton (*Eventide*):** *"The mighty Mississippi shrunk within its banks to the size of a mere wayside rivulet, and the long lines of boats lay lazily along the levees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small stream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small stream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Burnie, dim. of burn, a rivulet."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"A mimic rivulet ran from room to room in an alabaster channel, and the spray of perfumed fountains cooled the air."*
+> - 📜 **Effie Afton (*Eventide*):** *"The mighty Mississippi shrunk within its banks to the size of a mere wayside rivulet, and the long lines of boats lay lazily along the levees."*

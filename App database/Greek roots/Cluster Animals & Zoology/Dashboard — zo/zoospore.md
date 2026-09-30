@@ -5,15 +5,6 @@ status: unread
 ---
 # zoospore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An independently motile spore; especially : a motile usually naked and flagellated asexual spore especially of an alga or lower fungus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independently motile spore; especially : a motile usually naked and flagellated asexual spore especially of an alga or lower fungus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Prevost described the zoospores, or moving spores, of these conidia, and his observations were confirmed by Dr. de Bary three years since, and are now adverted to by him again in further confirmation."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These portions are so many _zoospores_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Some minutes after the internal division, the papilla swells and makes itself an opening, through which the zoospores are expelled one by one, without giving any signs of movement of their own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An independently motile spore; especially : a motile usually naked and flagellated asexual spore especially of an alga or lower fungus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independently motile spore; especially : a motile usually naked and flagellated asexual spore especially of an alga or lower fungus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Prevost described the zoospores, or moving spores, of these conidia, and his observations were confirmed by Dr. de Bary three years since, and are now adverted to by him again in further confirmation."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These portions are so many _zoospores_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Some minutes after the internal division, the papilla swells and makes itself an opening, through which the zoospores are expelled one by one, without giving any signs of movement of their own."*

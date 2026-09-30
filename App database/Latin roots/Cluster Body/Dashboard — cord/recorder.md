@@ -5,15 +5,6 @@ status: unread
 ---
 # recorder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment for making records.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone responsible for keeping records.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed he hath played on this prologue like a child on a recorder; a sound, but not in government."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His answer was, the people were not used To be spoke to but by the Recorder."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The Recorder’s report is made to-day, and he is sure to be executed on Monday."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment for making records.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone responsible for keeping records.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed he hath played on this prologue like a child on a recorder; a sound, but not in government."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His answer was, the people were not used To be spoke to but by the Recorder."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The Recorder’s report is made to-day, and he is sure to be executed on Monday."*

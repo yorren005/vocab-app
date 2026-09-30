@@ -5,13 +5,6 @@ status: unread
 ---
 # ergonomics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An applied science concerned with designing and arranging things people use so that the people and things interact most efficiently and safely —called also biotechnology, human engineering, human factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The design characteristics of an object resulting especially from the application of the science of ergonomics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergonomics designates an applied science concerned with designing and arranging things people use so that the people and things interact most efficiently and safely —called also biotechnology, human engineering, human factors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An applied science concerned with designing and arranging things people use so that the people and things interact most efficiently and safely —called also biotechnology, human engineering, human factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The design characteristics of an object resulting especially from the application of the science of ergonomics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergonomics designates an applied science concerned with designing and arranging things people use so that the people and things interact most efficiently and safely —called also biotechnology, human engineering, human factors."*

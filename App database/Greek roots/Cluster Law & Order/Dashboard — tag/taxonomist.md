@@ -5,13 +5,6 @@ status: unread
 ---
 # taxonomist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomist designates a biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomist designates a biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior."*

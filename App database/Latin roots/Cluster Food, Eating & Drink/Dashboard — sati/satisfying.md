@@ -5,15 +5,6 @@ status: unread
 ---
 # satisfying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet the requirements or expectations of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make happy or satisfied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you seek For further satisfying, under her breast (Worthy the pressing) lies a mole, right proud Of that most delicate lodging."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is, sir, a doubt In such a time nothing becoming you Nor satisfying us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no great devotion to the deed; And yet he hath given me satisfying reasons. ’Tis but a man gone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet the requirements or expectations of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make happy or satisfied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you seek For further satisfying, under her breast (Worthy the pressing) lies a mole, right proud Of that most delicate lodging."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is, sir, a doubt In such a time nothing becoming you Nor satisfying us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no great devotion to the deed; And yet he hath given me satisfying reasons. ’Tis but a man gone."*

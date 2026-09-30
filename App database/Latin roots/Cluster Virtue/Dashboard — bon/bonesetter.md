@@ -5,13 +5,6 @@ status: unread
 ---
 # bonesetter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (not necessarily a licensed physician) who sets broken bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (not necessarily a licensed physician) who sets broken bones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She bows her old head to a voice that speaks to her loudly, her bonesetter, her medicineman: me she slights."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (not necessarily a licensed physician) who sets broken bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (not necessarily a licensed physician) who sets broken bones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"She bows her old head to a voice that speaks to her loudly, her bonesetter, her medicineman: me she slights."*

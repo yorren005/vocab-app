@@ -5,15 +5,6 @@ status: unread
 ---
 # letters
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The literary culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scholarly attainment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters from my mother; what th’ import is I know not yet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The literary culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scholarly attainment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters from my mother; what th’ import is I know not yet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*

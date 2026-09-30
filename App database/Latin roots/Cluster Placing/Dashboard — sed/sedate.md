@@ -5,15 +5,6 @@ status: unread
 ---
 # sedate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be calm or quiet as by administering a sedative to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by dignity and propriety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Distracted hens in coops occupied spots where formerly stood chairs supporting sedate agriculturists."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Eleanor’s countenance was dejected, yet sedate; and its composure spoke her inured to all the gloomy objects to which they were advancing."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Douce, douse, sedate, sober, prudent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be calm or quiet as by administering a sedative to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by dignity and propriety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Distracted hens in coops occupied spots where formerly stood chairs supporting sedate agriculturists."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Eleanor’s countenance was dejected, yet sedate; and its composure spoke her inured to all the gloomy objects to which they were advancing."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Douce, douse, sedate, sober, prudent."*

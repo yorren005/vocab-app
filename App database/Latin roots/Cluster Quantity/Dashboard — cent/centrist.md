@@ -5,13 +5,6 @@ status: unread
 ---
 # centrist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a position in the political center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supporting or pursuing a course of action that is neither liberal nor conservative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrist designates a person who takes a position in the political center."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a position in the political center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supporting or pursuing a course of action that is neither liberal nor conservative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrist designates a person who takes a position in the political center."*

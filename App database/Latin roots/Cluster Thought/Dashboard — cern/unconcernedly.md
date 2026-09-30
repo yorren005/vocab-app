@@ -5,15 +5,6 @@ status: unread
 ---
 # unconcernedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unconcerned manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unconcerned manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This is where he lives, is it?” says the lawyer unconcernedly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From behind the waggon a bright scarlet spot emerged, and went on loading unconcernedly with the rest."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy was asking questions about the city of Bath, and her companion was answering them listlessly and unconcernedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unconcerned manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unconcerned manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This is where he lives, is it?” says the lawyer unconcernedly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From behind the waggon a bright scarlet spot emerged, and went on loading unconcernedly with the rest."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy was asking questions about the city of Bath, and her companion was answering them listlessly and unconcernedly."*

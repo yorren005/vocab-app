@@ -5,13 +5,6 @@ status: unread
 ---
 # lithesome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving and bending with ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving and bending with ease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithesome designates moving and bending with ease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving and bending with ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving and bending with ease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithesome designates moving and bending with ease."*

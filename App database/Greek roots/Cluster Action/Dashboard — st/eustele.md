@@ -5,13 +5,6 @@ status: unread
 ---
 # eustele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eustele designates a stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eustele designates a stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles."*

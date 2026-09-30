@@ -5,13 +5,6 @@ status: unread
 ---
 # proration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proration designates the proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proration designates the proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tennyson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and victorian poet (1809-1892).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Englishman and victorian poet (1809-1892).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"EDWARDS. * * * * * MORE THINGS ARE WROUGHT BY PRAYER THAN THE WORLD DREAMS OF.--TENNYSON. * * * * * PRAYERS ANSWERED IN BUSINESS AND SOCIAL ANXIETIES."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"There is not ill Adonais that note of personal bereavement which wails through Tennyson's 'In Memoriam' or Cowley's 'Ode on the Death of Mr."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Do you read poetry, Val?" "I occasionally dip into Tennyson," Val replied, settling himself in an easy chair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and victorian poet (1809-1892).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Englishman and victorian poet (1809-1892).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"EDWARDS. * * * * * MORE THINGS ARE WROUGHT BY PRAYER THAN THE WORLD DREAMS OF.--TENNYSON. * * * * * PRAYERS ANSWERED IN BUSINESS AND SOCIAL ANXIETIES."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"There is not ill Adonais that note of personal bereavement which wails through Tennyson's 'In Memoriam' or Cowley's 'Ode on the Death of Mr."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Do you read poetry, Val?" "I occasionally dip into Tennyson," Val replied, settling himself in an easy chair."*

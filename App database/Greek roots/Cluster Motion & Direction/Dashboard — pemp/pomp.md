@@ -5,15 +5,6 @@ status: unread
 ---
 # pomp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A show of magnificence : splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or festival display (such as a train of followers or a pageant).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am for the house with the narrow gate, which I take to be too little for pomp to enter: some that humble themselves may, but the many will be too chill and tender, and they’ll be for the flow’ry way that leads to the broad gate and the great fire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold, How pomp is followed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my co-mates and brothers in exile, Hath not old custom made this life more sweet Than that of painted pomp?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A show of magnificence : splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or festival display (such as a train of followers or a pageant).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am for the house with the narrow gate, which I take to be too little for pomp to enter: some that humble themselves may, but the many will be too chill and tender, and they’ll be for the flow’ry way that leads to the broad gate and the great fire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold, How pomp is followed!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my co-mates and brothers in exile, Hath not old custom made this life more sweet Than that of painted pomp?"*

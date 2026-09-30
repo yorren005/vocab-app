@@ -5,15 +5,6 @@ status: unread
 ---
 # maryland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mid-atlantic state; one of the original 13 colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the british colonies that formed the united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But upon consulting our old records I found that such an oar had been presented by one Daniel Foss, of Elkton, Maryland, in the year 1821."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"New Jersey and Rhode Island, upon all occasions, discovered a warm zeal for the independence of Vermont; and Maryland, till alarmed by the appearance of a connection between Canada and that State, entered deeply into the same views."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Senate, like the present Congress, and the Senate of Maryland, derives its appointment indirectly from the people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mid-atlantic state; one of the original 13 colonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the british colonies that formed the united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But upon consulting our old records I found that such an oar had been presented by one Daniel Foss, of Elkton, Maryland, in the year 1821."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"New Jersey and Rhode Island, upon all occasions, discovered a warm zeal for the independence of Vermont; and Maryland, till alarmed by the appearance of a connection between Canada and that State, entered deeply into the same views."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Senate, like the present Congress, and the Senate of Maryland, derives its appointment indirectly from the people."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # ultramarine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blue pigment made of powdered lapis lazuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vivid blue to purple-blue color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The atmosphere beneath is languorous, and is so tinged with azure that what artists call the middle distance partakes also of that hue, while the horizon beyond is of the deepest ultramarine."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Beyond that the tints darkened into fine gradations of ultramarine, and faded into vague obscurity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blue pigment made of powdered lapis lazuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vivid blue to purple-blue color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The atmosphere beneath is languorous, and is so tinged with azure that what artists call the middle distance partakes also of that hue, while the horizon beyond is of the deepest ultramarine."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Beyond that the tints darkened into fine gradations of ultramarine, and faded into vague obscurity."*

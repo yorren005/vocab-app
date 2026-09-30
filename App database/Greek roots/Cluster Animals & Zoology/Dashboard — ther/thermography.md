@@ -5,13 +5,6 @@ status: unread
 ---
 # thermography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermography designates diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermography designates diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudohallucination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An image vivid enough to be a hallucination but recognized as unreal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An image vivid enough to be a hallucination but recognized as unreal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohallucination designates an image vivid enough to be a hallucination but recognized as unreal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An image vivid enough to be a hallucination but recognized as unreal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An image vivid enough to be a hallucination but recognized as unreal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohallucination designates an image vivid enough to be a hallucination but recognized as unreal."*

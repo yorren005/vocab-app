@@ -5,13 +5,6 @@ status: unread
 ---
 # physostegia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostegia designates any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostegia designates any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers."*

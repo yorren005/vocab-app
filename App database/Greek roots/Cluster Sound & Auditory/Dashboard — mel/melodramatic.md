@@ -5,15 +5,6 @@ status: unread
 ---
 # melodramatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of melodrama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appealing to the emotions : sensational.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And now to the stupid, silly, melodramatic slip of Cecil Winwood."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I swear it.” The exaggerated folly of the threat, the passionate gesture that accompanied it, the mad melodramatic words, made life seem more vivid to her."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Sibyl Vane seemed to him to be absurdly melodramatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of melodrama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appealing to the emotions : sensational.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And now to the stupid, silly, melodramatic slip of Cecil Winwood."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I swear it.” The exaggerated folly of the threat, the passionate gesture that accompanied it, the mad melodramatic words, made life seem more vivid to her."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Sibyl Vane seemed to him to be absurdly melodramatic."*

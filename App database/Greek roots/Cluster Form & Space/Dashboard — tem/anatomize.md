@@ -5,15 +5,6 @@ status: unread
 ---
 # anatomize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissect in order to analyze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analyze down to the smallest detail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But what need I thus My well-known body to anatomize Among my household?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let them anatomize Regan; see what breeds about her heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissect in order to analyze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analyze down to the smallest detail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But what need I thus My well-known body to anatomize Among my household?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let them anatomize Regan; see what breeds about her heart."*

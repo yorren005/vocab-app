@@ -5,13 +5,6 @@ status: unread
 ---
 # stenosed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally constricted body canal or passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally constricted body canal or passage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenosed designates abnormally constricted body canal or passage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally constricted body canal or passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally constricted body canal or passage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenosed designates abnormally constricted body canal or passage."*

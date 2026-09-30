@@ -5,15 +5,6 @@ status: unread
 ---
 # proclaim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare formally; declare someone to be something; of titles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet once again proclaim it publicly, If any friend will pay the sum for him, He shall not die; so much we tender him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare formally; declare someone to be something; of titles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet once again proclaim it publicly, If any friend will pay the sum for him, He shall not die; so much we tender him."*

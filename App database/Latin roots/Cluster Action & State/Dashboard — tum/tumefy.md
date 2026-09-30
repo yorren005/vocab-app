@@ -5,13 +5,6 @@ status: unread
 ---
 # tumefy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become very swollen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand abnormally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumefy designates cause to become very swollen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become very swollen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand abnormally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumefy designates cause to become very swollen."*

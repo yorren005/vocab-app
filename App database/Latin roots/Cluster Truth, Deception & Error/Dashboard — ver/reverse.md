@@ -5,15 +5,6 @@ status: unread
 ---
 # reverse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation of direct opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gears by which the motion of a machine can be reversed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reverse thy state; And in thy best consideration check This hideous rashness: answer my life my judgement, Thy youngest daughter does not love thee least; Nor are those empty-hearted, whose low sounds Reverb no hollowness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see thee fight, to see thee foin, to see thee traverse; to see thee here, to see thee there; to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless philosophy can make a Juliet, Displant a town, reverse a Prince’s doom, It helps not, it prevails not, talk no more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation of direct opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gears by which the motion of a machine can be reversed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reverse thy state; And in thy best consideration check This hideous rashness: answer my life my judgement, Thy youngest daughter does not love thee least; Nor are those empty-hearted, whose low sounds Reverb no hollowness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see thee fight, to see thee foin, to see thee traverse; to see thee here, to see thee there; to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless philosophy can make a Juliet, Displant a town, reverse a Prince’s doom, It helps not, it prevails not, talk no more."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # Eocene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an epoch of the Tertiary between the Paleocene and the Oligocene or the corresponding series of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an epoch of the Tertiary between the Paleocene and the Oligocene or the corresponding series of rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eocene designates of, relating to, or being an epoch of the tertiary between the paleocene and the oligocene or the corresponding series of rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an epoch of the Tertiary between the Paleocene and the Oligocene or the corresponding series of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an epoch of the Tertiary between the Paleocene and the Oligocene or the corresponding series of rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eocene designates of, relating to, or being an epoch of the tertiary between the paleocene and the oligocene or the corresponding series of rocks."*

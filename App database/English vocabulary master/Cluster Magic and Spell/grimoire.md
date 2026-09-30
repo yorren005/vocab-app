@@ -5,19 +5,6 @@ status: unread
 ---
 # grimoire
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (occult) a book of instructions in the use of alchemy or magic, especially one containing spells for summoning demons
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the grimoire withstood the storm*), direct object (*cleaved the grimoire*), or prepositional anchor (*amidst the grimoire*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Éliphas Lévi (*A History of Magic*):** *"There is extant among the old Grimoires a prayer attributed to the St. Cyprian of legend, who is possibly the holy Bishop of Carthage: its obscure and figurative expressions may have given credit to the idea that prior to his conversion he was addicted to the deadly practices of Black Magic."*
-> - 📜 **Arthur Edward Waite (*The Doctrine and Literature of the Kabalah*):** *"The adept of Hohenheim flourished at a period when, as we have seen, the spurious literature of clavicles and grimoires was fast multiplying."*
-> - 📜 **Jean Franco (*César Vallejo: The Dialectics of Poetry and Silence*):** *"Nevertheless, to generations of writers after Independence, the printed word was a kind of magic, the grimoire that would bring about liberation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A manual or textbook of magic and occult lore, typically containing instructions for casting spells, crafting talismans, and invoking spirits.
+> 2. **Nuance / Usage**: By extension, any dense, esoteric handbook or repository of arcane technical knowledge accessible only to initiates.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the grimoire withstood the storm*), direct object (*cleaved the grimoire*), or prepositional anchor (*amidst the grimoire*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Éliphas Lévi (*The History of Magic*):** *"There is extant among the old **grimoires** a mystic prayer attributed to Saint Cyprian of Carthage before his conversion from the black arts."*
+> - 📜 **Arthur Edward Waite (*The Book of Ceremonial Magic*):** *"The adept of Hohenheim flourished at a period when the clandestine literature of clavicles and **grimoires** was fast multiplying across Europe."*
+> - 📜 **Jean Franco (*César Vallejo: The Dialectics of Poetry and Silence*):** *"To generations of writers after Independence, the printed word was a kind of magic, the **grimoire** that would bring about liberation."*

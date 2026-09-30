@@ -5,13 +5,6 @@ status: unread
 ---
 # post-it
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brand name for a slip of notepaper that has an adhesive that allows it to stick to a surface and be removed without damaging the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brand name for a slip of notepaper that has an adhesive that allows it to stick to a surface and be removed without damaging the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-it designates brand name for a slip of notepaper that has an adhesive that allows it to stick to a surface and be removed without damaging the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brand name for a slip of notepaper that has an adhesive that allows it to stick to a surface and be removed without damaging the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brand name for a slip of notepaper that has an adhesive that allows it to stick to a surface and be removed without damaging the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-it designates brand name for a slip of notepaper that has an adhesive that allows it to stick to a surface and be removed without damaging the surface."*

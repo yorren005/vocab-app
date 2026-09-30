@@ -5,15 +5,6 @@ status: unread
 ---
 # bomb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive device fused to detonate under specified conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Atomic bomb; also : nuclear weapons in general —usually used with the.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am the worst nihilist that ever existed, and the bomb I am throwing may explode and destroy the human race."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Then wouldn't it be the most regular way to proceed to get an acceptance of the invitation from the Commission and then extend them one to be present?" pronounced Jane, coolly, seemingly totally unconscious that she was exploding; a bomb shell."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I paid the boy at the telegraph office five dollars not to talk about the matter to a human soul, and threatened to have him dismissed if he did, so the bomb-shell was kept in until this afternoon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive device fused to detonate under specified conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Atomic bomb; also : nuclear weapons in general —usually used with the.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am the worst nihilist that ever existed, and the bomb I am throwing may explode and destroy the human race."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Then wouldn't it be the most regular way to proceed to get an acceptance of the invitation from the Commission and then extend them one to be present?" pronounced Jane, coolly, seemingly totally unconscious that she was exploding; a bomb shell."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I paid the boy at the telegraph office five dollars not to talk about the matter to a human soul, and threatened to have him dismissed if he did, so the bomb-shell was kept in until this afternoon."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # batter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a ballplayer who is batting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid or semiliquid mixture, as of flour, eggs, and milk, used in cooking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony, Let not the piece of virtue which is set Betwixt us, as the cement of our love To keep it builded, be the ram to batter The fortress of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am vanquished; these haughty words of hers Have batter’d me like roaring cannon-shot, And made me almost yield upon my knees."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tyrant has not batter’d at their peace?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a ballplayer who is batting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid or semiliquid mixture, as of flour, eggs, and milk, used in cooking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony, Let not the piece of virtue which is set Betwixt us, as the cement of our love To keep it builded, be the ram to batter The fortress of it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am vanquished; these haughty words of hers Have batter’d me like roaring cannon-shot, And made me almost yield upon my knees."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tyrant has not batter’d at their peace?"*

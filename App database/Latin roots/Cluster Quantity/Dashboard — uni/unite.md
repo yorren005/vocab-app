@@ -5,15 +5,6 @@ status: unread
 ---
 # unite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will now unite in your complaints And force them with a constancy, the Cardinal Cannot stand under them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then, as we have ta’en the sacrament, We will unite the white rose and the red."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will now unite in your complaints And force them with a constancy, the Cardinal Cannot stand under them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then, as we have ta’en the sacrament, We will unite the white rose and the red."*

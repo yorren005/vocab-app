@@ -5,15 +5,6 @@ status: unread
 ---
 # alternative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of things from which only one can be chosen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or used in place of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the ashpit was a heap of potatoes roasting, and a boiling pipkin of charred bread, called “coffee”, for the benefit of whomsoever should call, for Warren’s was a sort of clubhouse, used as an alternative to the inn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had been known to observe casually that in dealing with womankind the only alternative to flattery was cursing and swearing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The alternative is dreadful, but take Bathsheba; I give her up!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of things from which only one can be chosen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or used in place of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the ashpit was a heap of potatoes roasting, and a boiling pipkin of charred bread, called “coffee”, for the benefit of whomsoever should call, for Warren’s was a sort of clubhouse, used as an alternative to the inn."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had been known to observe casually that in dealing with womankind the only alternative to flattery was cursing and swearing."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The alternative is dreadful, but take Bathsheba; I give her up!"*

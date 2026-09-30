@@ -5,15 +5,6 @@ status: unread
 ---
 # dictionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference book containing an alphabetical list of words with information about them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference book containing an alphabetical list of words with information about them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"It is stated in the _Dictionary of National Biography_ (Vol."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cheetham, _Dictionary of Christian Antiquities_ (London, 1875-1880), ii. 1161, referring to _Ordo Roman_. i. _u.s._ [314] R."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jamieson, _Etymological Dictionary of the Scottish Language_, revised by J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference book containing an alphabetical list of words with information about them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference book containing an alphabetical list of words with information about them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"It is stated in the _Dictionary of National Biography_ (Vol."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cheetham, _Dictionary of Christian Antiquities_ (London, 1875-1880), ii. 1161, referring to _Ordo Roman_. i. _u.s._ [314] R."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jamieson, _Etymological Dictionary of the Scottish Language_, revised by J."*

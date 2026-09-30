@@ -5,15 +5,6 @@ status: unread
 ---
 # assenting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreeing with or consenting to (often unwillingly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After breakfast it is time to go to school." The mother, assenting, rose and went to the table to fill their cups."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, entirely assenting, puts on his hat and prepares to march with Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl promptly makes a sign of entreaty to him to say nothing; assenting with a nod, he suffers them to enter as he shuts the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreeing with or consenting to (often unwillingly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After breakfast it is time to go to school." The mother, assenting, rose and went to the table to fill their cups."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, entirely assenting, puts on his hat and prepares to march with Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl promptly makes a sign of entreaty to him to say nothing; assenting with a nod, he suffers them to enter as he shuts the door."*

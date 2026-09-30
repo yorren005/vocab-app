@@ -5,15 +5,6 @@ status: unread
 ---
 # deferred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield to another's wish or opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech your Grace to pardon me, Who, earnest in the service of my God, Deferred the visitation of my friends."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, being very humble and meek, had deferred to Mr."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The Clifton scheme had been deferred, not relinquished, and on the afternoon’s Crescent of this day, it was brought forward again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield to another's wish or opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech your Grace to pardon me, Who, earnest in the service of my God, Deferred the visitation of my friends."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, being very humble and meek, had deferred to Mr."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The Clifton scheme had been deferred, not relinquished, and on the afternoon’s Crescent of this day, it was brought forward again."*

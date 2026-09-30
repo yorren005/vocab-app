@@ -5,13 +5,6 @@ status: unread
 ---
 # martynia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sprawling annual or perennial herb of central america and west indies having creamy-white to red-purple bell-shaped flowers followed by unusual horned fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sprawling annual or perennial herb of central america and west indies having creamy-white to red-purple bell-shaped flowers followed by unusual horned fruit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martynia designates sprawling annual or perennial herb of central america and west indies having creamy-white to red-purple bell-shaped flowers followed by unusual horned fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sprawling annual or perennial herb of central america and west indies having creamy-white to red-purple bell-shaped flowers followed by unusual horned fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sprawling annual or perennial herb of central america and west indies having creamy-white to red-purple bell-shaped flowers followed by unusual horned fruit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martynia designates sprawling annual or perennial herb of central america and west indies having creamy-white to red-purple bell-shaped flowers followed by unusual horned fruit."*

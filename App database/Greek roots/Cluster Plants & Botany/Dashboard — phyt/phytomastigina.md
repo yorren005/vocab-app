@@ -5,13 +5,6 @@ status: unread
 ---
 # phytomastigina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plantlike flagellates containing chlorophyll; often considered unicellular algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plantlike flagellates containing chlorophyll; often considered unicellular algae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytomastigina designates plantlike flagellates containing chlorophyll; often considered unicellular algae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plantlike flagellates containing chlorophyll; often considered unicellular algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plantlike flagellates containing chlorophyll; often considered unicellular algae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytomastigina designates plantlike flagellates containing chlorophyll; often considered unicellular algae."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cautionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warding off; - victor schultze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to warn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"They quickened in her when she felt the glow of his life so near her own, but there was a touch of Miranda in Isabel, and no cautionary withdrawal followed."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is remarkable, that even in the two States which seem to have meditated an interdiction of military establishments in time of peace, the mode of expression made use of is rather cautionary than prohibitory."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"And you are my friend.” “Don’t you get into a bad habit of boasting,” retorts Durdles, with a grave cautionary nod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warding off; - victor schultze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to warn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"They quickened in her when she felt the glow of his life so near her own, but there was a touch of Miranda in Isabel, and no cautionary withdrawal followed."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is remarkable, that even in the two States which seem to have meditated an interdiction of military establishments in time of peace, the mode of expression made use of is rather cautionary than prohibitory."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"And you are my friend.” “Don’t you get into a bad habit of boasting,” retorts Durdles, with a grave cautionary nod."*

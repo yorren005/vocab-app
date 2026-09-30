@@ -5,13 +5,6 @@ status: unread
 ---
 # thymosin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymosin designates hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymosin designates hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue."*

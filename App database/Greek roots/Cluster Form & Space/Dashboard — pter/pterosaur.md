@@ -5,13 +5,6 @@ status: unread
 ---
 # pterosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Pterosauria) of extinct flying reptiles existing from the Late Triassic throughout the Jurassic and most of the Cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Pterosauria) of extinct flying reptiles existing from the Late Triassic throughout the Jurassic and most of the Cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterosaur designates any of an order (pterosauria) of extinct flying reptiles existing from the late triassic throughout the jurassic and most of the cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Pterosauria) of extinct flying reptiles existing from the Late Triassic throughout the Jurassic and most of the Cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Pterosauria) of extinct flying reptiles existing from the Late Triassic throughout the Jurassic and most of the Cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterosaur designates any of an order (pterosauria) of extinct flying reptiles existing from the late triassic throughout the jurassic and most of the cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit."*

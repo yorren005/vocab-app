@@ -5,15 +5,6 @@ status: unread
 ---
 # emit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel (gases or odors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No one of these mischiefs is less incident to a power in the States to emit paper money, than to coin gold or silver."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are not, for instance, to emit paper money; but the interdiction results from the Constitution, and will have no connection with any law of the United States."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You never saw a more brilliant metallic luster than the scales emit— but of this you cannot judge till to-morrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel (gases or odors).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No one of these mischiefs is less incident to a power in the States to emit paper money, than to coin gold or silver."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are not, for instance, to emit paper money; but the interdiction results from the Constitution, and will have no connection with any law of the United States."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You never saw a more brilliant metallic luster than the scales emit— but of this you cannot judge till to-morrow."*

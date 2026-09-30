@@ -5,13 +5,6 @@ status: unread
 ---
 # terrapin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various edible north american web-footed turtles living in fresh or brackish water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various edible north american web-footed turtles living in fresh or brackish water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many of the animal manidos, not being dangerous, are often treated with contempt--the terrapin, the weasel, polecat, etc." The distinction is instructive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various edible north american web-footed turtles living in fresh or brackish water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various edible north american web-footed turtles living in fresh or brackish water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many of the animal manidos, not being dangerous, are often treated with contempt--the terrapin, the weasel, polecat, etc." The distinction is instructive."*

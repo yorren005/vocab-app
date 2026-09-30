@@ -5,13 +5,6 @@ status: unread
 ---
 # bryophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bryophyte designates any of a division (bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bryophyte designates any of a division (bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts."*

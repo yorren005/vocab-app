@@ -5,13 +5,6 @@ status: unread
 ---
 # boustrophedon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The writing of alternate lines in opposite directions (as from left to right and from right to left).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The writing of alternate lines in opposite directions (as from left to right and from right to left).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boustrophedon designates the writing of alternate lines in opposite directions (as from left to right and from right to left)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The writing of alternate lines in opposite directions (as from left to right and from right to left).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The writing of alternate lines in opposite directions (as from left to right and from right to left).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boustrophedon designates the writing of alternate lines in opposite directions (as from left to right and from right to left)."*

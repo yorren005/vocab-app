@@ -5,15 +5,6 @@ status: unread
 ---
 # topmast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mast next above a lower mast and topmost in a fore-and-aft rig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mast next above a lower mast and topmost in a fore-and-aft rig.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Montague our topmast; what of him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Down with the topmast! yare! lower, lower!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I boarded the King’s ship; now on the beak, Now in the waist, the deck, in every cabin, I flam’d amazement; sometime I’d divide, And burn in many places; on the topmast, The yards, and bowsprit, would I flame distinctly, Then meet and join."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mast next above a lower mast and topmost in a fore-and-aft rig.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mast next above a lower mast and topmost in a fore-and-aft rig.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Montague our topmast; what of him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Down with the topmast! yare! lower, lower!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I boarded the King’s ship; now on the beak, Now in the waist, the deck, in every cabin, I flam’d amazement; sometime I’d divide, And burn in many places; on the topmast, The yards, and bowsprit, would I flame distinctly, Then meet and join."*

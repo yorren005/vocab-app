@@ -5,13 +5,6 @@ status: unread
 ---
 # antiaircraft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artillery designed to shoot upward at airplanes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed for defense from a surface position against air attack.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiaircraft designates artillery designed to shoot upward at airplanes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Artillery designed to shoot upward at airplanes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed for defense from a surface position against air attack.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiaircraft designates artillery designed to shoot upward at airplanes."*

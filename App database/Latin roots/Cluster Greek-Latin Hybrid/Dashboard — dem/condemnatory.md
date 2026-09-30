@@ -5,13 +5,6 @@ status: unread
 ---
 # condemnatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or imposing condemnation or censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or imposing condemnation or censure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I do not think she will manage it; and yet it might be managed; and his wife might, I verily believe, be the very happiest woman the sun shines on.” I have not yet said anything condemnatory of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or imposing condemnation or censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or imposing condemnation or censure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I do not think she will manage it; and yet it might be managed; and his wife might, I verily believe, be the very happiest woman the sun shines on.” I have not yet said anything condemnatory of Mr."*

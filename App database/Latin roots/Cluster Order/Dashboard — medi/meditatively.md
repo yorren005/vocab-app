@@ -5,15 +5,6 @@ status: unread
 ---
 # meditatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meditative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a meditative manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In fact, I found him.” “Without any clue to anything more?” “Without any; there was,” says the lawyer meditatively, “an old portmanteau, but—No, there were no papers.” During the utterance of every word of this short dialogue, Lady Dedlock and Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I’ve seen hundreds worse looking at your time of life, I have indeed.” The fair Volumnia, not quite unconscious perhaps of the humanizing influence of her charms, pauses in the writing of cocked-hat notes and meditatively adjusts the pearl necklace."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Several exclaimed meditatively, after this operation had been completed:— “Oh, ’tis the new shepherd, ’a b’lieve.” “We thought we heard a hand pawing about the door for the bobbin, but weren’t sure ’twere not a dead leaf blowed across,” said another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meditative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a meditative manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In fact, I found him.” “Without any clue to anything more?” “Without any; there was,” says the lawyer meditatively, “an old portmanteau, but—No, there were no papers.” During the utterance of every word of this short dialogue, Lady Dedlock and Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I’ve seen hundreds worse looking at your time of life, I have indeed.” The fair Volumnia, not quite unconscious perhaps of the humanizing influence of her charms, pauses in the writing of cocked-hat notes and meditatively adjusts the pearl necklace."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Several exclaimed meditatively, after this operation had been completed:— “Oh, ’tis the new shepherd, ’a b’lieve.” “We thought we heard a hand pawing about the door for the bobbin, but weren’t sure ’twere not a dead leaf blowed across,” said another."*

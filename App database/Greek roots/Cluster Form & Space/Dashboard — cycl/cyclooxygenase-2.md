@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclooxygenase-2
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-2 designates an enzyme that makes prostaglandins that cause inflammation and pain and fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-2 designates an enzyme that makes prostaglandins that cause inflammation and pain and fever."*

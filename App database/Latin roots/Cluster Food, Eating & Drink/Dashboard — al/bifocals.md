@@ -5,13 +5,6 @@ status: unread
 ---
 # bifocals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eyeglasses having two focal lengths, one for near vision and the other for far vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eyeglasses having two focal lengths, one for near vision and the other for far vision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bifocals designates eyeglasses having two focal lengths, one for near vision and the other for far vision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eyeglasses having two focal lengths, one for near vision and the other for far vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eyeglasses having two focal lengths, one for near vision and the other for far vision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bifocals designates eyeglasses having two focal lengths, one for near vision and the other for far vision."*

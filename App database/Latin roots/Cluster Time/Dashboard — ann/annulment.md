@@ -5,13 +5,6 @@ status: unread
 ---
 # annulment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being cancelled or annulled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Trescot and recently sent to the Senate I was greatly surprised to find a proposition looking to the annulment of these invitations, and I was still more surprised when I read the reasons assigned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being cancelled or annulled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Trescot and recently sent to the Senate I was greatly surprised to find a proposition looking to the annulment of these invitations, and I was still more surprised when I read the reasons assigned."*

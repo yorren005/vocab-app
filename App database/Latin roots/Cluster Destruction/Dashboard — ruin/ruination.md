@@ -5,13 +5,6 @@ status: unread
 ---
 # ruination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrecoverable state of devastation and destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that results in destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was a working plumber was my ruination when I was pure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrecoverable state of devastation and destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that results in destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It was a working plumber was my ruination when I was pure."*

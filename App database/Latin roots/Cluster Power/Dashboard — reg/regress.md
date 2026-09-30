@@ -5,13 +5,6 @@ status: unread
 ---
 # regress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reasoning involved when you assume the conclusion is true and reason backward to the evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to a former state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt have egress and regress—said I well?—and thy name shall be Brook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reasoning involved when you assume the conclusion is true and reason backward to the evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to a former state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt have egress and regress—said I well?—and thy name shall be Brook."*

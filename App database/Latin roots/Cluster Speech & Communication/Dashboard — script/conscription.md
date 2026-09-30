@@ -5,15 +5,6 @@ status: unread
 ---
 # conscription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsory military service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsory military service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Robert Green and Walter White, And others I could name; When these refuse to go and fight It is a burning shame; I think they should be forced to go, Conscription is the plan To catch these chaps so very slow And make them play the man."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"He enlisted for ninety days, hoping thus to shield his family from persecution, but the Conscription Act, which shortly after went into effect, kept him in the position for which his opinions so unfitted him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The actions of Napoleon and Alexander, on whose words the event seemed to hang, were as little voluntary as the actions of any soldier who was drawn into the campaign by lot or by conscription."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsory military service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsory military service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Robert Green and Walter White, And others I could name; When these refuse to go and fight It is a burning shame; I think they should be forced to go, Conscription is the plan To catch these chaps so very slow And make them play the man."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"He enlisted for ninety days, hoping thus to shield his family from persecution, but the Conscription Act, which shortly after went into effect, kept him in the position for which his opinions so unfitted him."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The actions of Napoleon and Alexander, on whose words the event seemed to hang, were as little voluntary as the actions of any soldier who was drawn into the campaign by lot or by conscription."*

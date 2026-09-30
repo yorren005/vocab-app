@@ -5,15 +5,6 @@ status: unread
 ---
 # numerically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In number; with regard to numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In number; with regard to numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How was it that the Russian army, which when numerically weaker than the French had given battle at Borodinó, did not achieve its purpose when it had surrounded the French on three sides and when its aim was to capture them?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why was the Russian army—which with inferior forces had withstood the enemy in full strength at Borodinó—defeated at Krásnoe and the Berëzina by the disorganized crowds of the French when it was numerically superior?"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In expressing numerically, in terms of other objects, an estimate of the utility of an apple, a horse or a house, one inevitably gives expression to a ratio of exchange; demand for one good is the offer of another good. § II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In number; with regard to numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In number; with regard to numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How was it that the Russian army, which when numerically weaker than the French had given battle at Borodinó, did not achieve its purpose when it had surrounded the French on three sides and when its aim was to capture them?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why was the Russian army—which with inferior forces had withstood the enemy in full strength at Borodinó—defeated at Krásnoe and the Berëzina by the disorganized crowds of the French when it was numerically superior?"*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In expressing numerically, in terms of other objects, an estimate of the utility of an apple, a horse or a house, one inevitably gives expression to a ratio of exchange; demand for one good is the offer of another good. § II."*

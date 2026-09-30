@@ -5,13 +5,6 @@ status: unread
 ---
 # unionise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recruit for a union or organize into a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or join a union.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionise designates recruit for a union or organize into a union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recruit for a union or organize into a union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or join a union.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionise designates recruit for a union or organize into a union."*

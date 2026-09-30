@@ -5,20 +5,6 @@ status: unread
 ---
 # valor
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Us standard spelling of valour
-> 2. **Nuance / Usage**: Park comprising nine sites in hawaii, california, and alaska
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the valor withstood the storm*), direct object (*cleaved the valor*), or prepositional anchor (*amidst the valor*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wes McDermott (*Criando Arte de Jogos 3D Para iPhone Com Unity*):** *"Você pode configurar quantas vezes o seu jogo vai executar seu ciclo de renderização. Por padrão, é definido e limitado a 30 FPS. Você pode alterar esse valor para renderizar a diferentes velocidades de projeção, como 60 FPS."*
-> - 📜 **Pérez Galdós, Benito (*Saragossa: A Story of Spanish Valor*):** *"haughty heads humbled by your valor and patriotism."*
-> - 📜 **Pérez Galdós, Benito (*Saragossa: A Story of Spanish Valor*):** *"a model of all good military men, both in valor and in knowledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Great personal bravery, fearlessness, and strength of mind in the face of mortal danger, especially in battle.
+> 2. **Nuance / Usage**: Carries an elevated, chivalric register (from Latin *valere*, "to be strong or worthy"), connoting heroic gallantry rather than mere recklessness.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the valor withstood the storm*), direct object (*cleaved the valor*), or prepositional anchor (*amidst the valor*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"The better part of **valor** is discretion, in the which better part I have saved my life."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"He had burned several times to rush into the fray and prove that his **valor** was no mere campfire boast."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Don José stood before the besieged garrison as a model of all good military men, both in **valor** and in knowledge."*

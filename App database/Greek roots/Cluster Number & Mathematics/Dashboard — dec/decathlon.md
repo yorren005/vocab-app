@@ -5,13 +5,6 @@ status: unread
 ---
 # decathlon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decathlon designates a 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decathlon designates a 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump."*

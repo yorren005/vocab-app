@@ -5,15 +5,6 @@ status: unread
 ---
 # trophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An award for success in war or hunting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something given as a token of victory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It more becomes a man Than gilt his trophy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this be so; His means of death, his obscure burial,— No trophy, sword, nor hatchment o’er his bones, No noble rite, nor formal ostentation,— Cry to be heard, as ’twere from heaven to earth, That I must call’t in question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An award for success in war or hunting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something given as a token of victory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It more becomes a man Than gilt his trophy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this be so; His means of death, his obscure burial,— No trophy, sword, nor hatchment o’er his bones, No noble rite, nor formal ostentation,— Cry to be heard, as ’twere from heaven to earth, That I must call’t in question."*

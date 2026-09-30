@@ -5,13 +5,6 @@ status: unread
 ---
 # signore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian title of respect for a man; equivalent to the english `sir'; used separately (not prefixed to his name).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title of address equivalent to mrs. when used before a name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signore designates an italian title of respect for a man; equivalent to the english `sir'; used separately (not prefixed to his name)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian title of respect for a man; equivalent to the english `sir'; used separately (not prefixed to his name).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title of address equivalent to mrs. when used before a name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signore designates an italian title of respect for a man; equivalent to the english `sir'; used separately (not prefixed to his name)."*

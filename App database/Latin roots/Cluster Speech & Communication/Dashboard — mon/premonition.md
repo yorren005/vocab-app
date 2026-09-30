@@ -5,15 +5,6 @@ status: unread
 ---
 # premonition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of evil to come.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early warning about a future event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But I have a sort of premonition that I shall go right on rapping."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"So strong is the sense of his own misery, the premonition of his own death, that we scarcely know, nor does it matter, whether it is in the person of Keats or of himself that he is lamenting the impermanence of earthly good."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Now he arose, and in his face there must have been some premonition of protest, for Mason stepped back and put out his hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of evil to come.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early warning about a future event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But I have a sort of premonition that I shall go right on rapping."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"So strong is the sense of his own misery, the premonition of his own death, that we scarcely know, nor does it matter, whether it is in the person of Keats or of himself that he is lamenting the impermanence of earthly good."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Now he arose, and in his face there must have been some premonition of protest, for Mason stepped back and put out his hand."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mastodon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various extinct mammals (genus Mammut synonym Mastodon) of the elephant family existing from the Miocene through the Pleistocene that are distinguished from the related mammoths chiefly by molar teeth with cone-shaped cusps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is unusually large.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!"*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Amid these lovely pastures roved large herds of elephants, with the mastodon, rhinoceros, horse, and elk, while the streams and lakes abounded with fish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various extinct mammals (genus Mammut synonym Mastodon) of the elephant family existing from the Miocene through the Pleistocene that are distinguished from the related mammoths chiefly by molar teeth with cone-shaped cusps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is unusually large.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!"*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Amid these lovely pastures roved large herds of elephants, with the mastodon, rhinoceros, horse, and elk, while the streams and lakes abounded with fish."*

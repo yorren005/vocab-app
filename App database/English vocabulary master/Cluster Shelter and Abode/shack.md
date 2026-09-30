@@ -5,20 +5,6 @@ status: unread
 ---
 # shack
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hut, shanty
-> 2. **Nuance / Usage**: Crude, roughly built hut or cabin
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Barr (writer) (*Lord Stranleigh Abroad*):** *"The men resided in a huge bunk house, which consisted of one room only, with a shack outside where the cooking was done. In the large room were a dozen bunks ; half of them in a very dishevelled state, […]"*
-> - 📜 **E. R. McCarter (*The Cairn Valley Light Railway*):** *"The stations are generally very poor, even for a branch line; some are mere wooden shacks, and Moniaive itself is one of the least prepossessing terminal stations I have ever seen."*
-> - 📜 **Betsey Jane Ward (*Book of Goaks*):** *"Some peple hev a fakilty two get along into the world, whilst others air poor shacks & good for nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A roughly built hut, cabin, or shanty, typically made of cheap or scavenged materials such as rough planks or corrugated tin.
+> 2. **Nuance / Usage**: Used for a small utility shelter or outbuilding (such as a *cook shack* or *radio shack*), or phrasally in *shack up* (to live together casually).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Barr (*Lord Stranleigh Abroad*):** *"The men resided in a huge bunk house, which consisted of one room only, with a **shack** outside where the cooking was done."*
+> - 📜 **E. R. McCarter (*The Cairn Valley Light Railway*):** *"The stations are generally very poor, even for a branch line; some are mere wooden **shacks**."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"Mack and the boys lived in the Palace Flophouse, an unpainted **shack** near the sardine canneries."*

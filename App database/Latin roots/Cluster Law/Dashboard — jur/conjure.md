@@ -5,15 +5,6 @@ status: unread
 ---
 # conjure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Summon into action or bring into existence, often as if by magic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ask for or request earnestly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My way is to conjure you, and I’ll begin with the women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either get thee from the door or sit down at the hatch: Dost thou conjure for wenches, that thou call’st for such store When one is one too many?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I conjure thee to leave me and be gone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Summon into action or bring into existence, often as if by magic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ask for or request earnestly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My way is to conjure you, and I’ll begin with the women."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either get thee from the door or sit down at the hatch: Dost thou conjure for wenches, that thou call’st for such store When one is one too many?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I conjure thee to leave me and be gone."*

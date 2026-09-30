@@ -5,13 +5,6 @@ status: unread
 ---
 # enduringness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Permanence by virtue of the power to resist stress or force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permanence by virtue of the power to resist stress or force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course by toughness I mean enduringness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permanence by virtue of the power to resist stress or force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permanence by virtue of the power to resist stress or force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course by toughness I mean enduringness."*

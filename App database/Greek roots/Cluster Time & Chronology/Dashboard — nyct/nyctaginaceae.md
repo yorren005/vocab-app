@@ -5,13 +5,6 @@ status: unread
 ---
 # nyctaginaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants of the order caryophyllales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of flowering plants of the order caryophyllales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctaginaceae designates a family of flowering plants of the order caryophyllales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants of the order caryophyllales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of flowering plants of the order caryophyllales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctaginaceae designates a family of flowering plants of the order caryophyllales."*

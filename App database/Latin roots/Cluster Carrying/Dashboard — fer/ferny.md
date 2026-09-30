@@ -5,15 +5,6 @@ status: unread
 ---
 # ferny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in or covered with ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling ferns especially in leaf shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A minute later and she saw his scarlet form disappear amid the ferny thicket, almost in a flash, like a brand swiftly waved."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A minute later and she saw his scarlet form disappear amid the ferny thicket, almost in a flash, like a brand swiftly waved."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Here with bowed head, bashful with half-desire She glides into my yesterday's deep dream, All glowing by the misty ferny cliff Beside the far forbidden thundering stream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in or covered with ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling ferns especially in leaf shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A minute later and she saw his scarlet form disappear amid the ferny thicket, almost in a flash, like a brand swiftly waved."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A minute later and she saw his scarlet form disappear amid the ferny thicket, almost in a flash, like a brand swiftly waved."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Here with bowed head, bashful with half-desire She glides into my yesterday's deep dream, All glowing by the misty ferny cliff Beside the far forbidden thundering stream."*

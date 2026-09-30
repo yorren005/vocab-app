@@ -5,15 +5,6 @@ status: unread
 ---
 # spin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A swift whirling motion (usually of a missile).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rotating rapidly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mount them, and make incision in their hides, That their hot blood may spin in English eyes, And dout them with superfluous courage, ha!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Excellent, it hangs like flax on a distaff; and I hope to see a huswife take thee between her legs, and spin it off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SPEED. _Item, She can spin._ LANCE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swift whirling motion (usually of a missile).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rotating rapidly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mount them, and make incision in their hides, That their hot blood may spin in English eyes, And dout them with superfluous courage, ha!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Excellent, it hangs like flax on a distaff; and I hope to see a huswife take thee between her legs, and spin it off."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SPEED. _Item, She can spin._ LANCE."*

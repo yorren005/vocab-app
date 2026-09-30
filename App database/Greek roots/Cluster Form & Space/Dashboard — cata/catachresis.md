@@ -5,13 +5,6 @@ status: unread
 ---
 # catachresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachresis designates strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths')."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachresis designates strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths')."*

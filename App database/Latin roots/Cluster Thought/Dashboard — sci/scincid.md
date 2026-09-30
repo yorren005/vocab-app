@@ -5,13 +5,6 @@ status: unread
 ---
 # scincid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scincid designates alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scincid designates alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide."*

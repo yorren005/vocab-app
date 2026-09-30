@@ -5,13 +5,6 @@ status: unread
 ---
 # surrealist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who is a member of the movement called surrealism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who is a member of the movement called surrealism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealist designates an artist who is a member of the movement called surrealism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who is a member of the movement called surrealism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who is a member of the movement called surrealism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealist designates an artist who is a member of the movement called surrealism."*

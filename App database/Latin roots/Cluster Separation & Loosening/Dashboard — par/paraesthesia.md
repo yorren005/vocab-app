@@ -5,13 +5,6 @@ status: unread
 ---
 # paraesthesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraesthesia designates abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraesthesia designates abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage."*

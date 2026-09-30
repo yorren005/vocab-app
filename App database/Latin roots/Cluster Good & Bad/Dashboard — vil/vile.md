@@ -5,15 +5,6 @@ status: unread
 ---
 # vile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or able to cause nausea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I his lady I would poison that vile rascal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most wicked Sir Oliver, Audrey, a most vile Martext."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally reprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or able to cause nausea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I his lady I would poison that vile rascal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most wicked Sir Oliver, Audrey, a most vile Martext."*

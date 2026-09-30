@@ -5,13 +5,6 @@ status: unread
 ---
 # theridiid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spider having a comb-like row of bristles on each hind foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spider having a comb-like row of bristles on each hind foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theridiid designates spider having a comb-like row of bristles on each hind foot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spider having a comb-like row of bristles on each hind foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spider having a comb-like row of bristles on each hind foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theridiid designates spider having a comb-like row of bristles on each hind foot."*

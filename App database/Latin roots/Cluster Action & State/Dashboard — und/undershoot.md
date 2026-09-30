@@ -5,13 +5,6 @@ status: unread
 ---
 # undershoot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fall short of (the runway) in a landing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shoot short of or below (a target).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undershoot designates fall short of (the runway) in a landing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fall short of (the runway) in a landing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shoot short of or below (a target).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undershoot designates fall short of (the runway) in a landing."*

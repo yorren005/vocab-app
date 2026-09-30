@@ -5,13 +5,6 @@ status: unread
 ---
 # pantechnicon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large moving van (especially one used for moving furniture).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large moving van (especially one used for moving furniture).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantechnicon designates a large moving van (especially one used for moving furniture)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large moving van (especially one used for moving furniture).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large moving van (especially one used for moving furniture).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantechnicon designates a large moving van (especially one used for moving furniture)."*

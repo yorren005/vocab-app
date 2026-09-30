@@ -5,13 +5,6 @@ status: unread
 ---
 # naturism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going without clothes as a social practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going without clothes as a social practice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, naturism designates going without clothes as a social practice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going without clothes as a social practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going without clothes as a social practice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, naturism designates going without clothes as a social practice."*

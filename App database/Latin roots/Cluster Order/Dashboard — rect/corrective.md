@@ -5,15 +5,6 @@ status: unread
 ---
 # corrective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for treating injury or disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to promote discipline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"An interval of meditation, serious and grateful, was the best corrective of everything dangerous in such high-wrought felicity; and she went to her room, and grew steadfast and fearless in the thankfulness of her enjoyment."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode; “but trial, my dear sir, is our portion here, and is a needed corrective."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I've instituted corrective actions, and we'll be ready." Drummer nodded uneasily."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for treating injury or disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to promote discipline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"An interval of meditation, serious and grateful, was the best corrective of everything dangerous in such high-wrought felicity; and she went to her room, and grew steadfast and fearless in the thankfulness of her enjoyment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode; “but trial, my dear sir, is our portion here, and is a needed corrective."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I've instituted corrective actions, and we'll be ready." Drummer nodded uneasily."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthaceae designates widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthaceae designates widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales."*

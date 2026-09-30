@@ -5,15 +5,6 @@ status: unread
 ---
 # fornication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluntary sexual intercourse between persons not married to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless me, what a fry of fornication is at door!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the sister of one Claudio, Condemned upon the act of fornication To lose his head; condemned by Angelo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluntary sexual intercourse between persons not married to each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless me, what a fry of fornication is at door!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the sister of one Claudio, Condemned upon the act of fornication To lose his head; condemned by Angelo."*

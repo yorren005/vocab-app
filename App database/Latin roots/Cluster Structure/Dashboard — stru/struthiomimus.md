@@ -5,13 +5,6 @@ status: unread
 ---
 # struthiomimus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small light-boned toothless dinosaur resembling an ostrich in size and proportions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small light-boned toothless dinosaur resembling an ostrich in size and proportions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthiomimus designates small light-boned toothless dinosaur resembling an ostrich in size and proportions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small light-boned toothless dinosaur resembling an ostrich in size and proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small light-boned toothless dinosaur resembling an ostrich in size and proportions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthiomimus designates small light-boned toothless dinosaur resembling an ostrich in size and proportions."*

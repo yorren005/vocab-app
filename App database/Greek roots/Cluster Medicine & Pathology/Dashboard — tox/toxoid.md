@@ -5,13 +5,6 @@ status: unread
 ---
 # toxoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxoid designates a toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxoid designates a toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection."*

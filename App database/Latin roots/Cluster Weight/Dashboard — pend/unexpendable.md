@@ -5,13 +5,6 @@ status: unread
 ---
 # unexpendable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable to be expended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable to be expended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpendable designates not suitable to be expended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable to be expended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable to be expended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpendable designates not suitable to be expended."*

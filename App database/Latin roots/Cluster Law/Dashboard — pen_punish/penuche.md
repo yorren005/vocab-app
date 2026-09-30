@@ -5,13 +5,6 @@ status: unread
 ---
 # penuche
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fudge made with brown sugar and butter and milk and nuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fudge made with brown sugar and butter and milk and nuts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penuche designates fudge made with brown sugar and butter and milk and nuts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fudge made with brown sugar and butter and milk and nuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fudge made with brown sugar and butter and milk and nuts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penuche designates fudge made with brown sugar and butter and milk and nuts."*

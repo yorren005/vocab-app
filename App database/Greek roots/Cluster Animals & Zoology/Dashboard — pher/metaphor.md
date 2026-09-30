@@ -5,15 +5,6 @@ status: unread
 ---
 # metaphor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them (as in swimming in paperwork); broadly : figurative language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object, activity, or idea treated as a metaphor : symbol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, if your metaphor stink, I will stop my nose, or against any man’s metaphor."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Dark, Dark, is all I find for metaphor; All else were contrast,--save that contrast's wall Is down, and all opposed things flow together Into a vast monotony, where night And day, and frost and thaw, and death and life, Are synonyms."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them (as in swimming in paperwork); broadly : figurative language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object, activity, or idea treated as a metaphor : symbol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, if your metaphor stink, I will stop my nose, or against any man’s metaphor."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Dark, Dark, is all I find for metaphor; All else were contrast,--save that contrast's wall Is down, and all opposed things flow together Into a vast monotony, where night And day, and frost and thaw, and death and life, Are synonyms."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*

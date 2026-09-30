@@ -5,13 +5,6 @@ status: unread
 ---
 # biosynthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a chemical compound by a living organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of a chemical compound by a living organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosynthesis designates the production of a chemical compound by a living organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a chemical compound by a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of a chemical compound by a living organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosynthesis designates the production of a chemical compound by a living organism."*

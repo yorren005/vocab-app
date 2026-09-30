@@ -5,14 +5,6 @@ status: unread
 ---
 # holograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Handwritten book or document.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intermediate photograph (or photographic record) that contains information for reproducing a three-dimensional image by holography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"And so, none saying him nay, he rode back to Longtown with the holograph in his breast pocket, jesting with two farmers riding that way as he went."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"The will was holograph, for Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Handwritten book or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intermediate photograph (or photographic record) that contains information for reproducing a three-dimensional image by holography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"And so, none saying him nay, he rode back to Longtown with the holograph in his breast pocket, jesting with two farmers riding that way as he went."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"The will was holograph, for Mr."*

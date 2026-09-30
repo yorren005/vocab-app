@@ -5,13 +5,6 @@ status: unread
 ---
 # genoise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich and delicate italian sponge cake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rich and delicate italian sponge cake.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genoise designates rich and delicate italian sponge cake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich and delicate italian sponge cake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rich and delicate italian sponge cake.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genoise designates rich and delicate italian sponge cake."*

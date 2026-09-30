@@ -5,15 +5,6 @@ status: unread
 ---
 # insistently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insistent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insistent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And this thou didst deny, calling my name Insistently, until I rose and came."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"More and more insistently the plea and the demand have been made for better methods of distribution that will give to the masses of the people a larger share of the goods produced."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Labors, of an urgent and sacred character, claim insistently our undivided attention during the opening years of this new epoch which we have entered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insistent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insistent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And this thou didst deny, calling my name Insistently, until I rose and came."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"More and more insistently the plea and the demand have been made for better methods of distribution that will give to the masses of the people a larger share of the goods produced."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Labors, of an urgent and sacred character, claim insistently our undivided attention during the opening years of this new epoch which we have entered."*

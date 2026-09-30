@@ -5,13 +5,6 @@ status: unread
 ---
 # euphemize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to something with a euphemism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer to something with a euphemism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphemize designates refer to something with a euphemism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to something with a euphemism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer to something with a euphemism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphemize designates refer to something with a euphemism."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unnerve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb the composure of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"As he did it he avoided glancing at the sleeper, but not lest pity should unnerve him; merely to avoid spilling."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we follow up with threats and menacing gestures against Slingshot, the effect may unnerve them, to say the least."*
-> - 📜 **Effie Afton (*Eventide*):** *"Perhaps life's trials would sooner unnerve her spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb the composure of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"As he did it he avoided glancing at the sleeper, but not lest pity should unnerve him; merely to avoid spilling."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we follow up with threats and menacing gestures against Slingshot, the effect may unnerve them, to say the least."*
+> - 📜 **Effie Afton (*Eventide*):** *"Perhaps life's trials would sooner unnerve her spirit."*

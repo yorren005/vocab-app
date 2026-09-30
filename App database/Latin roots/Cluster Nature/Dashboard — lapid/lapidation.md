@@ -5,13 +5,6 @@ status: unread
 ---
 # lapidation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lapidation designates the act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lapidation designates the act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death)."*

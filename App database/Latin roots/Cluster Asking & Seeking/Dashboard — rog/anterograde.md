@@ -5,13 +5,6 @@ status: unread
 ---
 # anterograde
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of amnesia; affecting time immediately following trauma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of amnesia; affecting time immediately following trauma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anterograde designates of amnesia; affecting time immediately following trauma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of amnesia; affecting time immediately following trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of amnesia; affecting time immediately following trauma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anterograde designates of amnesia; affecting time immediately following trauma."*

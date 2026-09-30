@@ -5,13 +5,6 @@ status: unread
 ---
 # pressurize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase the pressure on a gas or liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain a certain pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Near-space cargo and passenger shuttles and taxis landed at and departed from pads adjacent pressurized air docks into the city."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase the pressure on a gas or liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain a certain pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Near-space cargo and passenger shuttles and taxis landed at and departed from pads adjacent pressurized air docks into the city."*

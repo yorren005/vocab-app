@@ -5,18 +5,6 @@ status: unread
 ---
 # shamble
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Walk while shuffling or dragging the feet
-> 2. **Nuance / Usage**: Walk awkwardly with dragging feet : shuffle
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to shamble the target*) and intransitive clauses (*shambling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"turned into what seemed a shamble; every sailor a butcher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Walk while shuffling or dragging the feet
+> 2. **Nuance / Usage**: Walk awkwardly with dragging feet : shuffle
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to shamble the target*) and intransitive clauses (*shambling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby Dick*):** *"turned into what seemed a shamble; every sailor a butcher."*

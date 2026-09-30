@@ -5,13 +5,6 @@ status: unread
 ---
 # dimorphotheca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african herbs or subshrubs with usually yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african herbs or subshrubs with usually yellow flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimorphotheca designates south african herbs or subshrubs with usually yellow flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: South african herbs or subshrubs with usually yellow flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african herbs or subshrubs with usually yellow flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimorphotheca designates south african herbs or subshrubs with usually yellow flowers."*

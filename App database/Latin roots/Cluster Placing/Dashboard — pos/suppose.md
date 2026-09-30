@@ -5,15 +5,6 @@ status: unread
 ---
 # suppose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a supposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expect, believe, or suppose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I question with my jealous thought, Where you may be, or your affairs suppose, But like a sad slave stay and think of nought Save where you are, how happy you make those."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impossible be strange attempts to those That weigh their pains in sense, and do suppose What hath been cannot be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I say the Earth was not of my mind, If you suppose as fearing you it shook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a supposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expect, believe, or suppose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I question with my jealous thought, Where you may be, or your affairs suppose, But like a sad slave stay and think of nought Save where you are, how happy you make those."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impossible be strange attempts to those That weigh their pains in sense, and do suppose What hath been cannot be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I say the Earth was not of my mind, If you suppose as fearing you it shook."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ambitiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ambition; in an ambitious and energetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ambition; in an ambitious and energetic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As willingly do I the same resign As e’er thy father Henry made it mine; And even as willingly at thy feet I leave it As others would ambitiously receive it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With ambition; in an ambitious and energetic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ambition; in an ambitious and energetic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As willingly do I the same resign As e’er thy father Henry made it mine; And even as willingly at thy feet I leave it As others would ambitiously receive it."*

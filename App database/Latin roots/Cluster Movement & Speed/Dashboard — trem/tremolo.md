@@ -5,13 +5,6 @@ status: unread
 ---
 # tremolo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a tremulous effect produced by rapid repetition of a single tone or rapid alternation of two tones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vocal vibrato especially an excessive or poorly controlled one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"It is like running water's flow A bit unearthly, and celestial quite-- A golden tremolo; And satin robes of air half veil him from our sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a tremulous effect produced by rapid repetition of a single tone or rapid alternation of two tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vocal vibrato especially an excessive or poorly controlled one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"It is like running water's flow A bit unearthly, and celestial quite-- A golden tremolo; And satin robes of air half veil him from our sight."*

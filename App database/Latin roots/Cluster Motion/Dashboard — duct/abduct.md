@@ -5,15 +5,6 @@ status: unread
 ---
 # abduct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away to an undisclosed location against their will and usually in order to extract a ransom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One of the family is said to have abducted some beautiful woman, who tried to escape from the coach in which he was carrying her off, and in the struggle he killed her—or she killed him—I forget which."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Young women were abducted, and compelled, against their parents' wishes and their own, to marry Muslims."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere perhaps is the art of abducting human souls more carefully cultivated or carried to higher perfection than in the Malay Peninsula."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away to an undisclosed location against their will and usually in order to extract a ransom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One of the family is said to have abducted some beautiful woman, who tried to escape from the coach in which he was carrying her off, and in the struggle he killed her—or she killed him—I forget which."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Young women were abducted, and compelled, against their parents' wishes and their own, to marry Muslims."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere perhaps is the art of abducting human souls more carefully cultivated or carried to higher perfection than in the Malay Peninsula."*

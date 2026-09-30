@@ -5,15 +5,6 @@ status: unread
 ---
 # confidante
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female confidant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female confidant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy,” she said, with a lighter heart, for youth and hope had begun to reassert themselves; “you are to be my confidante for the present—somebody must be—and I choose you."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Of course I had known before, but I had imagined that after the chair episode--What stings is not the dislike itself, but the putting it into words to such a confidante as Delphine."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy,” she said, with a lighter heart, for youth and hope had begun to re-assert themselves; “you are to be my confidante for the present—somebody must be—and I choose you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female confidant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female confidant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy,” she said, with a lighter heart, for youth and hope had begun to reassert themselves; “you are to be my confidante for the present—somebody must be—and I choose you."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Of course I had known before, but I had imagined that after the chair episode--What stings is not the dislike itself, but the putting it into words to such a confidante as Delphine."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy,” she said, with a lighter heart, for youth and hope had begun to re-assert themselves; “you are to be my confidante for the present—somebody must be—and I choose you."*

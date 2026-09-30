@@ -5,13 +5,6 @@ status: unread
 ---
 # demagoguery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impassioned appeals to the prejudices and emotions of the populace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassioned appeals to the prejudices and emotions of the populace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The respectable support which the measure has latterly received has cast out of the struggle the Kearneys and Kallochs, and if there be demagoguery on either side, it comes in better dress than ever before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impassioned appeals to the prejudices and emotions of the populace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassioned appeals to the prejudices and emotions of the populace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The respectable support which the measure has latterly received has cast out of the struggle the Kearneys and Kallochs, and if there be demagoguery on either side, it comes in better dress than ever before."*

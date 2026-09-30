@@ -5,15 +5,6 @@ status: unread
 ---
 # genet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French diplomat who in 1793 tried to draw the united states into the war between france and england (1763-1834).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer of novels and dramas for the theater of the absurd (1910-1986).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Soon after the inauguration Citizen Genet, an envoy from the French republic, arrived and sought to excite the sympathy of the United States and involve it in a war with Great Britain."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Washington showed his usual firmness, and before the expiration of the month in which Genet arrived, had issued his celebrated proclamation of neutrality."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Genet, chagrined at the issuance of this proclamation, threatened to appeal to the people, and made himself so obnoxious to Washington that the latter demanded his recall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French diplomat who in 1793 tried to draw the united states into the war between france and england (1763-1834).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer of novels and dramas for the theater of the absurd (1910-1986).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Soon after the inauguration Citizen Genet, an envoy from the French republic, arrived and sought to excite the sympathy of the United States and involve it in a war with Great Britain."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Washington showed his usual firmness, and before the expiration of the month in which Genet arrived, had issued his celebrated proclamation of neutrality."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Genet, chagrined at the issuance of this proclamation, threatened to appeal to the people, and made himself so obnoxious to Washington that the latter demanded his recall."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # flatterer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses flattery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses flattery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him that is no coward nor no flatterer, But dare maintain the party of the truth, Pluck a red rose from off this thorn with me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My credit now stands on such slippery ground, That one of two bad ways you must conceit me, Either a coward or a flatterer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses flattery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses flattery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him that is no coward nor no flatterer, But dare maintain the party of the truth, Pluck a red rose from off this thorn with me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My credit now stands on such slippery ground, That one of two bad ways you must conceit me, Either a coward or a flatterer."*

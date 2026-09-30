@@ -5,14 +5,6 @@ status: unread
 ---
 # arty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showily imitative of art or artists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showily imitative of art or artists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"That accounts for the arty strain in him."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Harrison left his wife because she throwed things at him . . . _hard_ things . . . and Arty Sloane says it was because she wouldn’t let him smoke, and Ned Clay says it was ’cause she never let up scolding him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showily imitative of art or artists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showily imitative of art or artists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"That accounts for the arty strain in him."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Harrison left his wife because she throwed things at him . . . _hard_ things . . . and Arty Sloane says it was because she wouldn’t let him smoke, and Ned Clay says it was ’cause she never let up scolding him."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # drachm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: drachma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: dram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Go to bed and think of it no more.” This was the last drachm required to turn the scale of her indecision."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the sanctuary of Aesculapius at Cos, for example, it was forbidden to cut down the cypress-trees under a penalty of a thousand drachms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: drachma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: dram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Go to bed and think of it no more.” This was the last drachm required to turn the scale of her indecision."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the sanctuary of Aesculapius at Cos, for example, it was forbidden to cut down the cypress-trees under a penalty of a thousand drachms."*

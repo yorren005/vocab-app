@@ -5,13 +5,6 @@ status: unread
 ---
 # excalibur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary sword of king arthur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legendary sword of king arthur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His sword-hilt may be rough with jewels, but it is the hilt of an Excalibur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary sword of king arthur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legendary sword of king arthur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His sword-hilt may be rough with jewels, but it is the hilt of an Excalibur."*

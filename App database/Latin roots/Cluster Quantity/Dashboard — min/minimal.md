@@ -5,15 +5,6 @@ status: unread
 ---
 # minimal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The least possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The least possible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Set environment controls at minimal levels for an indefinite stay."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Signaling Hodak for minimal repulse and acceleration to increase the drift, Brad ordered all hands immediately into accelo-nets."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It may slow us down a bit, but we'll need to look at gun emplacements that have minimal air or none at all." "Sounds reasonable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The least possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The least possible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Set environment controls at minimal levels for an indefinite stay."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Signaling Hodak for minimal repulse and acceleration to increase the drift, Brad ordered all hands immediately into accelo-nets."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It may slow us down a bit, but we'll need to look at gun emplacements that have minimal air or none at all." "Sounds reasonable."*

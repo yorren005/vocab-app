@@ -5,15 +5,6 @@ status: unread
 ---
 # caution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warning against certain acts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet my caution was more pertinent Than the rebuke you give it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so,—as so ’tis put on me, And that in way of caution,—I must tell you You do not understand yourself so clearly As it behoves my daughter and your honour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warning against certain acts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet my caution was more pertinent Than the rebuke you give it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so,—as so ’tis put on me, And that in way of caution,—I must tell you You do not understand yourself so clearly As it behoves my daughter and your honour."*

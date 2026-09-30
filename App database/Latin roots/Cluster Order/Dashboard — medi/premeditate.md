@@ -5,15 +5,6 @@ status: unread
 ---
 # premeditate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider, ponder, or plan (an action) beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Think or reflect beforehand or in advance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember that your fame Knolls in the ear o’ th’ world; what you do quickly Is not done rashly; your first thought is more Than others’ laboured meditance, your premeditating More than their actions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Com’st thou with deep premeditated lines, With written pamphlets studiously devised, Humphrey of Gloucester?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You wanted me, I know, to say ‘Yes,’ that you might have the pleasure of despising my taste; but I always delight in overthrowing those kind of schemes, and cheating a person of their premeditated contempt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider, ponder, or plan (an action) beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Think or reflect beforehand or in advance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember that your fame Knolls in the ear o’ th’ world; what you do quickly Is not done rashly; your first thought is more Than others’ laboured meditance, your premeditating More than their actions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Com’st thou with deep premeditated lines, With written pamphlets studiously devised, Humphrey of Gloucester?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You wanted me, I know, to say ‘Yes,’ that you might have the pleasure of despising my taste; but I always delight in overthrowing those kind of schemes, and cheating a person of their premeditated contempt."*

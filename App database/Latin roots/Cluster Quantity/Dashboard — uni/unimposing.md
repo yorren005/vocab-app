@@ -5,13 +5,6 @@ status: unread
 ---
 # unimposing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in impressiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in impressiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The scene is unimposing; there is nought Of grandeur or magnificence displayed; But by its quiet prettiness is brought A sense of calm enjoyment--hill and glade And peaceful meadow, all alike suggest Sweet thoughts of still serenity and rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in impressiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in impressiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The scene is unimposing; there is nought Of grandeur or magnificence displayed; But by its quiet prettiness is brought A sense of calm enjoyment--hill and glade And peaceful meadow, all alike suggest Sweet thoughts of still serenity and rest."*

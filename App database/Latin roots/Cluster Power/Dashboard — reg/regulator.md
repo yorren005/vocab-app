@@ -5,15 +5,6 @@ status: unread
 ---
 # regulator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various controls or devices for regulating or controlling fluid flow, pressure, temperature, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official responsible for control and supervision of a particular activity or area of public interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The statement that competition is not an effective regulator of railroads often is misunderstood to mean that it in no way acts on rates."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For some decades after these industries developed, the public faith was in competition as the effective regulator."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If individuals enter into a state of society, the laws of that society must be the supreme regulator of their conduct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various controls or devices for regulating or controlling fluid flow, pressure, temperature, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official responsible for control and supervision of a particular activity or area of public interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The statement that competition is not an effective regulator of railroads often is misunderstood to mean that it in no way acts on rates."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For some decades after these industries developed, the public faith was in competition as the effective regulator."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If individuals enter into a state of society, the laws of that society must be the supreme regulator of their conduct."*

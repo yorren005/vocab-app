@@ -5,13 +5,6 @@ status: unread
 ---
 # reseed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed again or anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain by seeding without human intervention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reseed designates seed again or anew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed again or anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain by seeding without human intervention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reseed designates seed again or anew."*

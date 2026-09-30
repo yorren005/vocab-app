@@ -5,15 +5,6 @@ status: unread
 ---
 # philippine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Official language of the philippines; based on tagalog; draws its lexicon from other philippine languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the philippines or its people or customs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some of the Philippine Islanders believe that the souls of their ancestors are in certain trees, which they therefore spare."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He could not possibly have lived as long as this." A tribe in the Philippine Islands told the Spanish conquerors that the grave of the Creator was upon the top of Mount Cabunian."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bagobos of Mindanao, one of the Philippine Islands, offer a human sacrifice before they sow their rice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Official language of the philippines; based on tagalog; draws its lexicon from other philippine languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the philippines or its people or customs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some of the Philippine Islanders believe that the souls of their ancestors are in certain trees, which they therefore spare."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He could not possibly have lived as long as this." A tribe in the Philippine Islands told the Spanish conquerors that the grave of the Creator was upon the top of Mount Cabunian."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bagobos of Mindanao, one of the Philippine Islands, offer a human sacrifice before they sow their rice."*

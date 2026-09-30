@@ -5,14 +5,6 @@ status: unread
 ---
 # perfumer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes (and sells) perfumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes (and sells) perfumes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He had a closet in his room, fitted up for the purpose, which smelt of the scented soap like a perfumer’s shop."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"First issued from perfumers' shops A crowd of fashionable fops; They liked her how she liked the play?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes (and sells) perfumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes (and sells) perfumes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He had a closet in his room, fitted up for the purpose, which smelt of the scented soap like a perfumer’s shop."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"First issued from perfumers' shops A crowd of fashionable fops; They liked her how she liked the play?"*

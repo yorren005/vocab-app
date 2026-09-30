@@ -5,15 +5,6 @@ status: unread
 ---
 # acceptance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental attitude that something is believable and should be accepted as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of accepting with approval; favorable reception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall will in others seem right gracious, And in my will no fair acceptance shine?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, if he tell us his noble deeds, we must also tell him our noble acceptance of them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I leave him to your gracious acceptance, whose trial shall better publish his commendation._ You hear the learn’d Bellario what he writes, And here, I take it, is the doctor come."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental attitude that something is believable and should be accepted as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of accepting with approval; favorable reception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall will in others seem right gracious, And in my will no fair acceptance shine?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, if he tell us his noble deeds, we must also tell him our noble acceptance of them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I leave him to your gracious acceptance, whose trial shall better publish his commendation._ You hear the learn’d Bellario what he writes, And here, I take it, is the doctor come."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rente
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Income from capital investment paid in a series of regular payments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Income from capital investment paid in a series of regular payments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Chaucer used "rente" as an income."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Cattle had he enough and rente," cattle probably meaning property (chattels), and rente income."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In the French _la rente_ means the income from any kind of property; but corporate securities and national bonds came particularly to be called _les rentes_, because they are a form of investment yielding a permanent income."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Income from capital investment paid in a series of regular payments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Income from capital investment paid in a series of regular payments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Chaucer used "rente" as an income."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Cattle had he enough and rente," cattle probably meaning property (chattels), and rente income."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In the French _la rente_ means the income from any kind of property; but corporate securities and national bonds came particularly to be called _les rentes_, because they are a form of investment yielding a permanent income."*

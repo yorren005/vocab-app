@@ -5,15 +5,6 @@ status: unread
 ---
 # borealis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aurora that occurs in earth's northern hemisphere —called also northern lights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A northern constellation between Hercules and Boötes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Searchlight. _(He stands at Cormack’s corner, watching.)_ BLOOM: _Aurora borealis_ or a steel foundry?"*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"In few places does one see such wonderful sunsets and cloud effects as in Orkney, followed often a little later by the "searchlight" rays of the Aurora Borealis."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The luminous appearance of the Aurora Borealis, or Northern Lights, in the firmament, foretells the approach of stormy and boisterous weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aurora that occurs in earth's northern hemisphere —called also northern lights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A northern constellation between Hercules and Boötes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Searchlight. _(He stands at Cormack’s corner, watching.)_ BLOOM: _Aurora borealis_ or a steel foundry?"*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"In few places does one see such wonderful sunsets and cloud effects as in Orkney, followed often a little later by the "searchlight" rays of the Aurora Borealis."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The luminous appearance of the Aurora Borealis, or Northern Lights, in the firmament, foretells the approach of stormy and boisterous weather."*

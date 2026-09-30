@@ -5,13 +5,6 @@ status: unread
 ---
 # liguria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Region of northwestern italy on the ligurian sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region of northwestern italy on the ligurian sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liguria designates region of northwestern italy on the ligurian sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Region of northwestern italy on the ligurian sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region of northwestern italy on the ligurian sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liguria designates region of northwestern italy on the ligurian sea."*

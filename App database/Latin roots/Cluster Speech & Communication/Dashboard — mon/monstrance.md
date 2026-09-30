@@ -5,15 +5,6 @@ status: unread
 ---
 # monstrance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proof by a process of argument or a series of proposition proving an asserted conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a vessel (usually of gold or silver) in which the consecrated host is exposed for adoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe said that in that case he would go home and place the monstrance--I think he called it, but it doesn't seem the right word, does it?--in a place of safety."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It is a sacred thing with me." With the grasp of one hand I caught hold of the leathern case, and out came the thing he called the monstrance."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Hold, Joseph--oh, my monstrance--my cibory!" He was evidently in a great strait with his conscience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proof by a process of argument or a series of proposition proving an asserted conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a vessel (usually of gold or silver) in which the consecrated host is exposed for adoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe said that in that case he would go home and place the monstrance--I think he called it, but it doesn't seem the right word, does it?--in a place of safety."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It is a sacred thing with me." With the grasp of one hand I caught hold of the leathern case, and out came the thing he called the monstrance."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Hold, Joseph--oh, my monstrance--my cibory!" He was evidently in a great strait with his conscience."*

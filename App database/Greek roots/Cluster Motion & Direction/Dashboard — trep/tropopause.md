@@ -5,13 +5,6 @@ status: unread
 ---
 # tropopause
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region at the top of the troposphere; also : a comparable layer of a celestial body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region at the top of the troposphere; also : a comparable layer of a celestial body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropopause designates the region at the top of the troposphere; also : a comparable layer of a celestial body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region at the top of the troposphere; also : a comparable layer of a celestial body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region at the top of the troposphere; also : a comparable layer of a celestial body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropopause designates the region at the top of the troposphere; also : a comparable layer of a celestial body."*

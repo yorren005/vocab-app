@@ -5,13 +5,6 @@ status: unread
 ---
 # prognathic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a projecting lower jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a projecting lower jaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A hobgoblin in the image of Punch Costello, hipshot, crookbacked, hydrocephalic, prognathic with receding forehead and Ally Sloper nose, tumbles in somersaults through the gathering darkness.)_ ALL: What?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a projecting lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a projecting lower jaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A hobgoblin in the image of Punch Costello, hipshot, crookbacked, hydrocephalic, prognathic with receding forehead and Ally Sloper nose, tumbles in somersaults through the gathering darkness.)_ ALL: What?"*

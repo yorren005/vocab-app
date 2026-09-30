@@ -5,13 +5,6 @@ status: unread
 ---
 # tableware
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles for use at the table (dishes and silverware and glassware).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articles for use at the table (dishes and silverware and glassware).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Seeing all was well, she smiled, and carried another armful of dishes and tableware to the kitchen counter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles for use at the table (dishes and silverware and glassware).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articles for use at the table (dishes and silverware and glassware).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Seeing all was well, she smiled, and carried another armful of dishes and tableware to the kitchen counter."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # humming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humming noise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of singing with closed lips.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon mine honour, sir, I heard a humming, And that a strange one too, which did awake me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I heard him a little while afterwards, through the floor here, humming like the wind, the only song he knows—about Bibo, and old Charon, and Bibo being drunk when he died, or something or other."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So I went about the house humming all the tunes I knew, and I sat working and working in a desperate manner, and I talked and talked, morning, noon, and night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A humming noise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of singing with closed lips.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon mine honour, sir, I heard a humming, And that a strange one too, which did awake me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I heard him a little while afterwards, through the floor here, humming like the wind, the only song he knows—about Bibo, and old Charon, and Bibo being drunk when he died, or something or other."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"So I went about the house humming all the tunes I knew, and I sat working and working in a desperate manner, and I talked and talked, morning, noon, and night."*

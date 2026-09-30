@@ -5,15 +5,6 @@ status: unread
 ---
 # proposal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something proposed (such as a plan or assumption).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offer of marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea had sent a proposal of peace to Elvira through Loneli, for she hated the constant sulking of her friend and the unpleasant new manner she exhibited in turning her back upon her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The best thing you can do is to pay your old friend a call; that would add you to the list of his admirers, instead of your bearing him a grudge." But Uncle Philip violently objected to this proposal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I made a proposal to Peepy, in default of being able to do anything better for him, that he should let me wash him and afterwards lay him down on my bed again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something proposed (such as a plan or assumption).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offer of marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea had sent a proposal of peace to Elvira through Loneli, for she hated the constant sulking of her friend and the unpleasant new manner she exhibited in turning her back upon her."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The best thing you can do is to pay your old friend a call; that would add you to the list of his admirers, instead of your bearing him a grudge." But Uncle Philip violently objected to this proposal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I made a proposal to Peepy, in default of being able to do anything better for him, that he should let me wash him and afterwards lay him down on my bed again."*

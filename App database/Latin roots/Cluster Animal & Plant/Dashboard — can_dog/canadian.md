@@ -5,15 +5,6 @@ status: unread
 ---
 # canadian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river rising in northeastern new mexico and flowing eastward across the texas panhandle to become a tributary of the arkansas river in oklahoma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Besides, if I failed to go on now, it would be very difficult to get my borrowed team together again, and impossible to get my man again; and we could as well live without bread as without wood in a Canadian Winter."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Canadian Industrial Disputes Act of 1907 is an example that has had influence upon public opinion everywhere, and has been followed to some extent in recent legislation in New Zealand, America, and elsewhere."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Colorado Act of 1915 goes even beyond the Canadian act in its scope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of canada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river rising in northeastern new mexico and flowing eastward across the texas panhandle to become a tributary of the arkansas river in oklahoma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Besides, if I failed to go on now, it would be very difficult to get my borrowed team together again, and impossible to get my man again; and we could as well live without bread as without wood in a Canadian Winter."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Canadian Industrial Disputes Act of 1907 is an example that has had influence upon public opinion everywhere, and has been followed to some extent in recent legislation in New Zealand, America, and elsewhere."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Colorado Act of 1915 goes even beyond the Canadian act in its scope."*

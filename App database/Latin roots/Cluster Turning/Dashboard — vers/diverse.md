@@ -5,15 +5,6 @@ status: unread
 ---
 # diverse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Many and different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctly dissimilar or unlike.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate waxed eloquent over the diverse sects and the fanatic uprisings and riotings that were continually occurring."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The institution of private property has evolved under diverse conditions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Many and different.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctly dissimilar or unlike.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate waxed eloquent over the diverse sects and the fanatic uprisings and riotings that were continually occurring."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The institution of private property has evolved under diverse conditions."*

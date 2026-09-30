@@ -5,13 +5,6 @@ status: unread
 ---
 # ectopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in an abnormal position or in an unusual manner or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a fertilized egg elsewhere than in the uterus (as in a fallopian tube or the peritoneal cavity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectopic designates occurring in an abnormal position or in an unusual manner or form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in an abnormal position or in an unusual manner or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a fertilized egg elsewhere than in the uterus (as in a fallopian tube or the peritoneal cavity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectopic designates occurring in an abnormal position or in an unusual manner or form."*

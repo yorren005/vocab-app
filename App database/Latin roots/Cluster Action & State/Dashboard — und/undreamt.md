@@ -5,14 +5,6 @@ status: unread
 ---
 # undreamt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He moved on in silence, as if his energies were benumbed by the hitherto undreamt-of possibility that his position was untenable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"New machinery and processes have given undreamt of opportunities for enterprise in the older countries, and the physical frontier of investment has moved outward with the march of millions of immigrants to people the fertile wilderness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He moved on in silence, as if his energies were benumbed by the hitherto undreamt-of possibility that his position was untenable."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"New machinery and processes have given undreamt of opportunities for enterprise in the older countries, and the physical frontier of investment has moved outward with the march of millions of immigrants to people the fertile wilderness."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # famished
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Very hungry
-> 2. **Nuance / Usage**: Extremely hungry
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a famished presence*) or predicatively (*remained famished*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Till Paris was besieged, famished, and lost."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"and nail, with famished voracity."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"was a weary and famished, but still a fighting and menacing army."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Suffering from extreme, exhausting hunger; reduced to near starvation from lack of food.
+> 2. **Nuance / Usage**: Often used hyperbolically in everyday speech to mean "very hungry," or figuratively in literature to describe a soul or intellect deprived of nourishment.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a famished presence*) or predicatively (*remained famished*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Till Paris was besieged, **famished**, and lost."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"He fell upon the meal tooth and nail, with **famished** voracity."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"It was a weary and **famished**, but still a fighting and menacing army."*

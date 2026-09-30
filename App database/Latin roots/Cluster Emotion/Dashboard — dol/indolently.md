@@ -5,15 +5,6 @@ status: unread
 ---
 # indolently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indolent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indolent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They came in yet greater volumes, and indolently crept across the intervening valleys, and around the withered papery flags of the moor and river brinks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The tranced ship indolently rolls; the drowsy trade winds blow; everything resolves you into languor."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like Mark Antony, for days and days along his green-turfed, flowery Nile, he indolently floats, openly toying with his red-cheeked Cleopatra, ripening his apricot thigh upon the sunny deck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indolent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indolent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They came in yet greater volumes, and indolently crept across the intervening valleys, and around the withered papery flags of the moor and river brinks."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The tranced ship indolently rolls; the drowsy trade winds blow; everything resolves you into languor."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like Mark Antony, for days and days along his green-turfed, flowery Nile, he indolently floats, openly toying with his red-cheeked Cleopatra, ripening his apricot thigh upon the sunny deck."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # consumable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: May be used up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be used up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In order to attack the difficulties one by one we will, therefore, in the following discussion, deal first with this class of ripe, consumable goods, as food, personal services, enjoyments of any sort that are immediately available."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: May be used up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be used up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In order to attack the difficulties one by one we will, therefore, in the following discussion, deal first with this class of ripe, consumable goods, as food, personal services, enjoyments of any sort that are immediately available."*

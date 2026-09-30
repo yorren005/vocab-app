@@ -5,15 +5,6 @@ status: unread
 ---
 # methodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, characterized by, or performed with method or order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually proceeding according to method : systematic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There again!—there again!” he cried, in long-drawn, lingering, methodic tones, attuned to the gradual prolongings of the whale’s visible jets."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But soon, as if satisfied that his work for that time was done, he pushed his pleated forehead through the ocean, and trailing after him the intertangled lines, continued his leeward way at a traveller’s methodic pace."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There again!—there again!” he cried, in long-drawn, lingering, methodic tones, attuned to the gradual prolongings of the whale’s visible jets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, characterized by, or performed with method or order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually proceeding according to method : systematic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There again!—there again!” he cried, in long-drawn, lingering, methodic tones, attuned to the gradual prolongings of the whale’s visible jets."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But soon, as if satisfied that his work for that time was done, he pushed his pleated forehead through the ocean, and trailing after him the intertangled lines, continued his leeward way at a traveller’s methodic pace."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There again!—there again!” he cried, in long-drawn, lingering, methodic tones, attuned to the gradual prolongings of the whale’s visible jets."*

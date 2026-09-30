@@ -5,15 +5,6 @@ status: unread
 ---
 # unequally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unequal or partial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unequal or partial manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Worldly goods are divided unequally, and man must not repine."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These figures are very unequally distributed geographically, the divisions ranking as to total deposits in the following order: the Eastern Middle, New England, Middle Western, Pacific, Southern, and Western divisions."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But when the government undertakes these various tasks the expense falls unequally on individuals and affects differently their incomes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unequal or partial manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unequal or partial manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Worldly goods are divided unequally, and man must not repine."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These figures are very unequally distributed geographically, the divisions ranking as to total deposits in the following order: the Eastern Middle, New England, Middle Western, Pacific, Southern, and Western divisions."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But when the government undertakes these various tasks the expense falls unequally on individuals and affects differently their incomes."*

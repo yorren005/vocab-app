@@ -5,13 +5,6 @@ status: unread
 ---
 # praxiteles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient greek sculptor (circa 370-330 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient greek sculptor (circa 370-330 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She began to think that the god-like figure was only the Hermes of Praxiteles, suggested to her by Goethe’s classical Sabbat, and changed by a day-dream into the semblance of a living reality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient greek sculptor (circa 370-330 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient greek sculptor (circa 370-330 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She began to think that the god-like figure was only the Hermes of Praxiteles, suggested to her by Goethe’s classical Sabbat, and changed by a day-dream into the semblance of a living reality."*

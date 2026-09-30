@@ -5,14 +5,6 @@ status: unread
 ---
 # mortmain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Real property held inalienably (as by an ecclesiastical corporation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oppressive influence of past events or decisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Throughout the history of England, Parliament has given attention to the question of mortmain, which chiefly concerned the drifting of great estates into the hands of the church or of corporations, as the result of bequests by the pious."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Throughout the history of England, Parliament has given attention to the question of mortmain, which chiefly concerned the drifting of great estates into the hands of the church or of corporations, as a result of bequests by the pious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Real property held inalienably (as by an ecclesiastical corporation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oppressive influence of past events or decisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Throughout the history of England, Parliament has given attention to the question of mortmain, which chiefly concerned the drifting of great estates into the hands of the church or of corporations, as the result of bequests by the pious."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Throughout the history of England, Parliament has given attention to the question of mortmain, which chiefly concerned the drifting of great estates into the hands of the church or of corporations, as a result of bequests by the pious."*

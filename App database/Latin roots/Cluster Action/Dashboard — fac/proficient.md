@@ -5,15 +5,6 @@ status: unread
 ---
 # proficient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing knowledge and skill and aptitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to technique or proficiency in a practical skill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The two of the living dead had become three, and we had so much to say, while the manner of saying it was exasperatingly slow and I was not so proficient as they at the knuckle game."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If I had ever learnt, I should have been a great proficient."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"During this period he was teaching his art of fishing in all its forms; and when he was satisfied the people were proficient, he prepared to visit other places for like service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing knowledge and skill and aptitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to technique or proficiency in a practical skill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The two of the living dead had become three, and we had so much to say, while the manner of saying it was exasperatingly slow and I was not so proficient as they at the knuckle game."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If I had ever learnt, I should have been a great proficient."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"During this period he was teaching his art of fishing in all its forms; and when he was satisfied the people were proficient, he prepared to visit other places for like service."*

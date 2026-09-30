@@ -5,14 +5,6 @@ status: unread
 ---
 # preferential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting partiality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting partiality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Classes A and B are elected by the member banks by a system of group and preferential voting designed to prevent the large banks from outvoting the smaller ones."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I was myself so much more antecedently conscious of my figures than of their setting--a too preliminary, a preferential interest in which struck me as in general such a putting of the cart before the horse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting partiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting partiality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Classes A and B are elected by the member banks by a system of group and preferential voting designed to prevent the large banks from outvoting the smaller ones."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I was myself so much more antecedently conscious of my figures than of their setting--a too preliminary, a preferential interest in which struck me as in general such a putting of the cart before the horse."*

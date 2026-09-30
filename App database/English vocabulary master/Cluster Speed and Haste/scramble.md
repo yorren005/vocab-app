@@ -5,20 +5,6 @@ status: unread
 ---
 # scramble
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Move with urgency or panic
-> 2. **Nuance / Usage**: Move or climb hastily especially on all fours
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scramble the target*) and intransitive clauses (*scrambling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Phil McNulty (*Chelsea 1 – 0 Barcelona*):** *"As half-time approached Fabregas had another chance to give Barcelona the lead. He collected an incisive Messi pass and this time beat Cech, who required Cole to scramble back and clear the ball off the line."*
-> - 📜 **Classic Author (*Network News: West Coast Railways runs 'Jacobite' with Mk 1 and Mk 2 combination*):** *"But on April 13 it 'scrambled' a rake of Mk 2s and dual-braked 'Black 5' 45212 to start its lucrative summer money-spinner two days later."*
-> - 📜 **Burke Davis (*Get Yamamoto*):** *"As the planes scrambled, four of his veterans went up: Tom Lanphier, Rex Barber, Joe Moore and Jim McLanahan. They had waited with other Lightnings at 30,000 feet and dived on a formation of eleven Zeroes far below, working in pairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Move with urgency or panic
+> 2. **Nuance / Usage**: Move or climb hastily especially on all fours
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scramble the target*) and intransitive clauses (*scrambling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Phil McNulty (*Chelsea 1 – 0 Barcelona*):** *"As half-time approached Fabregas had another chance to give Barcelona the lead. He collected an incisive Messi pass and this time beat Cech, who required Cole to scramble back and clear the ball off the line."*
+> - 📜 **Classic Author (*Network News: West Coast Railways runs 'Jacobite' with Mk 1 and Mk 2 combination*):** *"But on April 13 it 'scrambled' a rake of Mk 2s and dual-braked 'Black 5' 45212 to start its lucrative summer money-spinner two days later."*
+> - 📜 **Burke Davis (*Get Yamamoto*):** *"As the planes scrambled, four of his veterans went up: Tom Lanphier, Rex Barber, Joe Moore and Jim McLanahan. They had waited with other Lightnings at 30,000 feet and dived on a formation of eleven Zeroes far below, working in pairs."*

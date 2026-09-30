@@ -5,14 +5,6 @@ status: unread
 ---
 # trustfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With trust; in a trusting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a trustful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And trustfully flew one of the doves from Thoril's hand to Halfred's broad shoulder, and cooed lovingly to the other."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Therefore, these years stretch out your hand cordially, trustfully, that I may feel its warm grasp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With trust; in a trusting manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a trustful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And trustfully flew one of the doves from Thoril's hand to Halfred's broad shoulder, and cooed lovingly to the other."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Therefore, these years stretch out your hand cordially, trustfully, that I may feel its warm grasp."*

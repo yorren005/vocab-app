@@ -5,13 +5,6 @@ status: unread
 ---
 # medinilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medinilla designates tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medinilla designates tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers."*

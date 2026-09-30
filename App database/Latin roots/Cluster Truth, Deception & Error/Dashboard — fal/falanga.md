@@ -5,13 +5,6 @@ status: unread
 ---
 # falanga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of torture in which the soles of the feet are beaten with whips or cudgels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of torture in which the soles of the feet are beaten with whips or cudgels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falanga designates a form of torture in which the soles of the feet are beaten with whips or cudgels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of torture in which the soles of the feet are beaten with whips or cudgels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of torture in which the soles of the feet are beaten with whips or cudgels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falanga designates a form of torture in which the soles of the feet are beaten with whips or cudgels."*

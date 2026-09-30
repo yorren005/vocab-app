@@ -5,15 +5,6 @@ status: unread
 ---
 # degradation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Changing to a lower state (a less respected state).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low or downcast state; - h.l.menchken.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter could not have borne the degradation of being known to design letting his house."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Place her in safety and comfort: shelter her degradation with secrecy, and leave her.’ “I acted precisely on this suggestion."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They fell into deeper shame and degradation—if there can be deeper—and ruin.” “Are they alive now?” “I don’t know.” “You said just now that Estella was not related to Miss Havisham, but adopted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Changing to a lower state (a less respected state).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low or downcast state; - h.l.menchken.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter could not have borne the degradation of being known to design letting his house."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Place her in safety and comfort: shelter her degradation with secrecy, and leave her.’ “I acted precisely on this suggestion."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"They fell into deeper shame and degradation—if there can be deeper—and ruin.” “Are they alive now?” “I don’t know.” “You said just now that Estella was not related to Miss Havisham, but adopted."*

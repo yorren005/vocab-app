@@ -5,15 +5,6 @@ status: unread
 ---
 # athlete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is trained or skilled in exercises, sports, or games requiring physical strength, agility, or stamina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal (such as a horse or a dog) that competes in races or other sporting events or has qualities (such as stamina and agility) suggestive of a human athlete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Most men of his age would have looked clumsy in such an unbuttoned attitude, but Hyde was an athlete still, and Laura, who was fond of sketching, admired his vigorous grace."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"I do not believe that Keinohoomanawanui is an athlete."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Harker Brayton, a bachelor of thirty-five, a scholar, idler, and something of an athlete, rich, popular, and of sound health, had returned to San Francisco from all manner of remote and unfamiliar countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is trained or skilled in exercises, sports, or games requiring physical strength, agility, or stamina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal (such as a horse or a dog) that competes in races or other sporting events or has qualities (such as stamina and agility) suggestive of a human athlete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Most men of his age would have looked clumsy in such an unbuttoned attitude, but Hyde was an athlete still, and Laura, who was fond of sketching, admired his vigorous grace."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"I do not believe that Keinohoomanawanui is an athlete."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Harker Brayton, a bachelor of thirty-five, a scholar, idler, and something of an athlete, rich, popular, and of sound health, had returned to San Francisco from all manner of remote and unfamiliar countries."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cacodemon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: demon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside._] Hie thee to hell for shame, and leave this world, Thou cacodemon!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: demon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: demon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside._] Hie thee to hell for shame, and leave this world, Thou cacodemon!"*

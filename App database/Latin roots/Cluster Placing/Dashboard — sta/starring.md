@@ -5,14 +5,6 @@ status: unread
 ---
 # starring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feature as the star.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be the star in a performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The sun had sunk half below the horizon and an evening frost was starring the puddles near the ferry, but Pierre and Andrew, to the astonishment of the footmen, coachmen, and ferrymen, still stood on the raft and talked."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"On this evening he had seen Rosalind impersonated by a famous actress, who had come to a neighboring town on a starring tour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feature as the star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be the star in a performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The sun had sunk half below the horizon and an evening frost was starring the puddles near the ferry, but Pierre and Andrew, to the astonishment of the footmen, coachmen, and ferrymen, still stood on the raft and talked."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"On this evening he had seen Rosalind impersonated by a famous actress, who had come to a neighboring town on a starring tour."*

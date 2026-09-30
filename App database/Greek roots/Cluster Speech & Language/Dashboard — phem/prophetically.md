@@ -5,15 +5,6 @@ status: unread
 ---
 # prophetically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prophetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prophetic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The hope and expectation of thy time Is ruin’d, and the soul of every man Prophetically do forethink thy fall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgelling that he raves in saying nothing."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It brings the baptism of the Holy 558:18 Ghost, whose flames of Truth were prophetically de- scribed by John the Baptist as consuming error."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prophetic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prophetic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The hope and expectation of thy time Is ruin’d, and the soul of every man Prophetically do forethink thy fall."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgelling that he raves in saying nothing."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It brings the baptism of the Holy 558:18 Ghost, whose flames of Truth were prophetically de- scribed by John the Baptist as consuming error."*

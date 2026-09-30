@@ -5,15 +5,6 @@ status: unread
 ---
 # silver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coins made of silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poop was beaten gold; Purple the sails, and so perfumed that The winds were love-sick with them; the oars were silver, Which to the tune of flutes kept stroke, and made The water which they beat to follow faster, As amorous of their strokes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sing, siren, for thyself, and I will dote; Spread o’er the silver waves thy golden hairs, And as a bed I’ll take thee, and there lie, And, in that glorious supposition think He gains by death that hath such means to die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The roof o’ th’ chamber With golden cherubins is fretted; her andirons (I had forgot them) were two winking Cupids Of silver, each on one foot standing, nicely Depending on their brands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coins made of silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poop was beaten gold; Purple the sails, and so perfumed that The winds were love-sick with them; the oars were silver, Which to the tune of flutes kept stroke, and made The water which they beat to follow faster, As amorous of their strokes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sing, siren, for thyself, and I will dote; Spread o’er the silver waves thy golden hairs, And as a bed I’ll take thee, and there lie, And, in that glorious supposition think He gains by death that hath such means to die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The roof o’ th’ chamber With golden cherubins is fretted; her andirons (I had forgot them) were two winking Cupids Of silver, each on one foot standing, nicely Depending on their brands."*

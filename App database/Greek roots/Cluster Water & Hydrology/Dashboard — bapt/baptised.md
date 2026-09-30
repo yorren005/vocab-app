@@ -5,15 +5,6 @@ status: unread
 ---
 # baptised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone the christian ritual of baptism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is our experience that we repent and fall again; what else was the experience of the people whom John baptised?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"I have a baptism to be baptised with," he says (Luke 12:50)."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is a deal of obscurity concerning the identity of the species thus multitudinously baptised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone the christian ritual of baptism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is our experience that we repent and fall again; what else was the experience of the people whom John baptised?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"I have a baptism to be baptised with," he says (Luke 12:50)."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is a deal of obscurity concerning the identity of the species thus multitudinously baptised."*

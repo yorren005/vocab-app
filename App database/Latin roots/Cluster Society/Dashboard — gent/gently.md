@@ -5,15 +5,6 @@ status: unread
 ---
 # gently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gradual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gentle manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s amiss, May it be gently heard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou and nature can so gently part, The stroke of death is as a lover’s pinch, Which hurts and is desired."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gradual manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gentle manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s amiss, May it be gently heard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou and nature can so gently part, The stroke of death is as a lover’s pinch, Which hurts and is desired."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*

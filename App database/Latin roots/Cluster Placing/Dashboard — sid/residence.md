@@ -5,15 +5,6 @@ status: unread
 ---
 # residence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any address at which you dwell more than temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official house or establishment of an important person (as a sovereign or president).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made shift to run into ’t, boots and spurs and all, like him that leapt into the custard; and out of it you’ll run again, rather than suffer question for your residence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their residence, both in reputation and profit, was better both ways."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then God forgive the sin of all those souls That to their everlasting residence, Before the dew of evening fall, shall fleet, In dreadful trial of our kingdom’s king!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any address at which you dwell more than temporarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official house or establishment of an important person (as a sovereign or president).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made shift to run into ’t, boots and spurs and all, like him that leapt into the custard; and out of it you’ll run again, rather than suffer question for your residence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their residence, both in reputation and profit, was better both ways."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then God forgive the sin of all those souls That to their everlasting residence, Before the dew of evening fall, shall fleet, In dreadful trial of our kingdom’s king!"*

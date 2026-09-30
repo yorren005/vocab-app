@@ -5,15 +5,6 @@ status: unread
 ---
 # debt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of owing something (especially money).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money or goods or services owed by one person to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This I wonder at, [_Exit Luciana._] Thus he unknown to me should be in debt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be in debt and theft, and a sergeant in the way, Hath he not reason to turn back an hour in a day?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I let him go, The debt he owes will be requir’d of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of owing something (especially money).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money or goods or services owed by one person to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This I wonder at, [_Exit Luciana._] Thus he unknown to me should be in debt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be in debt and theft, and a sergeant in the way, Hath he not reason to turn back an hour in a day?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I let him go, The debt he owes will be requir’d of me."*

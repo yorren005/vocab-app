@@ -5,13 +5,6 @@ status: unread
 ---
 # terrarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivarium in which selected living plants are kept and observed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vivarium in which selected living plants are kept and observed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrarium designates a vivarium in which selected living plants are kept and observed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivarium in which selected living plants are kept and observed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vivarium in which selected living plants are kept and observed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrarium designates a vivarium in which selected living plants are kept and observed."*

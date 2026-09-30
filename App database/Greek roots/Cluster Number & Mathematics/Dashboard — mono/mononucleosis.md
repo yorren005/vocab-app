@@ -5,13 +5,6 @@ status: unread
 ---
 # mononucleosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononucleosis designates an acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononucleosis designates an acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing."*

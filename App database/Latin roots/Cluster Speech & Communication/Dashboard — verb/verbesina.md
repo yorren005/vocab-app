@@ -5,13 +5,6 @@ status: unread
 ---
 # verbesina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs and shrubs of warm north america to mexico; includes plants formerly placed in genus actinomeris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs and shrubs of warm north america to mexico; includes plants formerly placed in genus actinomeris.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verbesina designates herbs and shrubs of warm north america to mexico; includes plants formerly placed in genus actinomeris."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs and shrubs of warm north america to mexico; includes plants formerly placed in genus actinomeris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs and shrubs of warm north america to mexico; includes plants formerly placed in genus actinomeris.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verbesina designates herbs and shrubs of warm north america to mexico; includes plants formerly placed in genus actinomeris."*

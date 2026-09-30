@@ -5,13 +5,6 @@ status: unread
 ---
 # megacolon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megacolon designates an abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megacolon designates an abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate)."*

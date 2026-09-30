@@ -5,13 +5,6 @@ status: unread
 ---
 # urethra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urethra designates the canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urethra designates the canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen."*

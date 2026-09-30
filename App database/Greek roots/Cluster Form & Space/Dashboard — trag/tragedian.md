@@ -5,15 +5,6 @@ status: unread
 ---
 # tragedian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer (especially a playwright) who writes tragedies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who specializes in tragic roles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, I can counterfeit the deep tragedian; Speak, and look back, and pry on every side, Tremble and start at wagging of a straw, Intending deep suspicion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even those you were wont to take such delight in—the tragedians of the city."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He did not depend on his communings with Origen and Eusebius for keeping up his Greek, but went back as often as he could find time to Plato and to the Tragedians."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer (especially a playwright) who writes tragedies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who specializes in tragic roles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, I can counterfeit the deep tragedian; Speak, and look back, and pry on every side, Tremble and start at wagging of a straw, Intending deep suspicion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even those you were wont to take such delight in—the tragedians of the city."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He did not depend on his communings with Origen and Eusebius for keeping up his Greek, but went back as often as he could find time to Plato and to the Tragedians."*

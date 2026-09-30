@@ -5,15 +5,6 @@ status: unread
 ---
 # phalanx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of heavily armed infantry in ancient Greece formed in close deep ranks and files; broadly : a body of troops in close array.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the digital bones of the hand or foot of a vertebrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Even then they had time to gather in a phalanx that would have been hard to break had they risen quickly, but this they were forbidden to do by the traditions of their race."*
-> - 📜 **Effie Afton (*Eventide*):** *"Foremost in the crowding phalanx we mark the firm, upright figure of Mr."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The Roll of the Kettledrum; or, The Lay of the Last Charger "You have the Pyrrhic dance as yet, Where is the Pyrrhic phalanx gone?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of heavily armed infantry in ancient Greece formed in close deep ranks and files; broadly : a body of troops in close array.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the digital bones of the hand or foot of a vertebrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Even then they had time to gather in a phalanx that would have been hard to break had they risen quickly, but this they were forbidden to do by the traditions of their race."*
+> - 📜 **Effie Afton (*Eventide*):** *"Foremost in the crowding phalanx we mark the firm, upright figure of Mr."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The Roll of the Kettledrum; or, The Lay of the Last Charger "You have the Pyrrhic dance as yet, Where is the Pyrrhic phalanx gone?"*

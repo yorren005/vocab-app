@@ -5,13 +5,6 @@ status: unread
 ---
 # decolonise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant independence to (a former colony).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant independence to (a former colony).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonise designates grant independence to (a former colony)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant independence to (a former colony).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant independence to (a former colony).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonise designates grant independence to (a former colony)."*

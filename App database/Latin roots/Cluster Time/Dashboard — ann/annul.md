@@ -5,15 +5,6 @@ status: unread
 ---
 # annul
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Many arguments might have been adduced to prove the unfitness of two such seemingly contradictory authorities, each having power to ANNUL or REPEAL the acts of the other."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the case particularly under consideration, there is no such contradiction as appears in the example cited; there is no power on either side to annul the acts of the other."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And some midsummer morning, at the lull Just about daybreak, as he looks across A sparkling foreign country, wonderful To the sea’s edge for gloom and gloss, Next minute must annul,-- 12."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Many arguments might have been adduced to prove the unfitness of two such seemingly contradictory authorities, each having power to ANNUL or REPEAL the acts of the other."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the case particularly under consideration, there is no such contradiction as appears in the example cited; there is no power on either side to annul the acts of the other."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And some midsummer morning, at the lull Just about daybreak, as he looks across A sparkling foreign country, wonderful To the sea’s edge for gloom and gloss, Next minute must annul,-- 12."*

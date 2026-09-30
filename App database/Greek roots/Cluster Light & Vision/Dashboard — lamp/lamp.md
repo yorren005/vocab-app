@@ -5,15 +5,6 @@ status: unread
 ---
 # lamp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various devices for producing light or sometimes heat: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel with a wick for burning an inflammable liquid (such as oil) to produce light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, Our lamp is spent, it’s out!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, she’s the kitchen wench, and all grease, and I know not what use to put her to but to make a lamp of her and run from her by her own light."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the Knight of the Burning Lamp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various devices for producing light or sometimes heat: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel with a wick for burning an inflammable liquid (such as oil) to produce light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, Our lamp is spent, it’s out!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, she’s the kitchen wench, and all grease, and I know not what use to put her to but to make a lamp of her and run from her by her own light."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the Knight of the Burning Lamp."*

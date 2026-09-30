@@ -5,13 +5,6 @@ status: unread
 ---
 # rudapithecus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fossil hominoids from northern central hungary; late miocene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fossil hominoids from northern central hungary; late miocene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rudapithecus designates fossil hominoids from northern central hungary; late miocene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fossil hominoids from northern central hungary; late miocene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fossil hominoids from northern central hungary; late miocene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rudapithecus designates fossil hominoids from northern central hungary; late miocene."*

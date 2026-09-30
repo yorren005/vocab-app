@@ -5,15 +5,6 @@ status: unread
 ---
 # intense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or displaying a distinctive feature to a heightened degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely sharp or intense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I must go to him this minute," gasped Apollonie; she had spoken rapidly and with intense excitement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, who finds it so difficult to resume his object, whatever it may be, that he becomes exasperated and secretly claws the air with an impotent vindictiveness expressive of an intense desire to tear and rend the visage of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now do they note down, in the watches of the night, how the neighbourhood of Chancery Lane was yesterday, at about midnight, thrown into a state of the most intense agitation and excitement by the following alarming and horrible discovery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or displaying a distinctive feature to a heightened degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely sharp or intense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I must go to him this minute," gasped Apollonie; she had spoken rapidly and with intense excitement."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, who finds it so difficult to resume his object, whatever it may be, that he becomes exasperated and secretly claws the air with an impotent vindictiveness expressive of an intense desire to tear and rend the visage of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now do they note down, in the watches of the night, how the neighbourhood of Chancery Lane was yesterday, at about midnight, thrown into a state of the most intense agitation and excitement by the following alarming and horrible discovery."*

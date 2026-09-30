@@ -5,13 +5,6 @@ status: unread
 ---
 # creditworthiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trustworthiness with money as based on a person's credit history; a general qualification for borrowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trustworthiness with money as based on a person's credit history; a general qualification for borrowing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creditworthiness designates trustworthiness with money as based on a person's credit history; a general qualification for borrowing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trustworthiness with money as based on a person's credit history; a general qualification for borrowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trustworthiness with money as based on a person's credit history; a general qualification for borrowing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creditworthiness designates trustworthiness with money as based on a person's credit history; a general qualification for borrowing."*

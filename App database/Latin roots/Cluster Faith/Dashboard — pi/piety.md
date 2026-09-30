@@ -5,15 +5,6 @@ status: unread
 ---
 # piety
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteousness by virtue of being pious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteousness by virtue of being pious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, thou villain, thou art full of piety, as shall be proved upon thee by good witness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if to fight for king and commonweal Were piety in thine, it is in these."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And how his piety Does my deeds make the blacker!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteousness by virtue of being pious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteousness by virtue of being pious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, thou villain, thou art full of piety, as shall be proved upon thee by good witness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if to fight for king and commonweal Were piety in thine, it is in these."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And how his piety Does my deeds make the blacker!"*

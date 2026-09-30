@@ -5,15 +5,6 @@ status: unread
 ---
 # Neolithic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the latest period of the Stone Age characterized by polished stone implements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to an earlier age and now outmoded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When was it inhabited?” “Neolithic man—no date.” “What did he do?” “He grazed his cattle on these slopes, and he learned to dig for tin when the bronze sword began to supersede the stone axe."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Mortimer for opening a grave without the consent of the next of kin because he dug up the Neolithic skull in the barrow on Long Down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the latest period of the Stone Age characterized by polished stone implements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to an earlier age and now outmoded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When was it inhabited?” “Neolithic man—no date.” “What did he do?” “He grazed his cattle on these slopes, and he learned to dig for tin when the bronze sword began to supersede the stone axe."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Mortimer for opening a grave without the consent of the next of kin because he dug up the Neolithic skull in the barrow on Long Down."*

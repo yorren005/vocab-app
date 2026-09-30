@@ -5,13 +5,6 @@ status: unread
 ---
 # macrophage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrophage designates a phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrophage designates a phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell."*

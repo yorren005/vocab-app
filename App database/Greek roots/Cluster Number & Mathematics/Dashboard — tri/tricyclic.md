@@ -5,13 +5,6 @@ status: unread
 ---
 # tricyclic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a chemical with three usually fused rings in the molecular structure and especially a tricyclic antidepressant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tricyclic designates being a chemical with three usually fused rings in the molecular structure and especially a tricyclic antidepressant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a chemical with three usually fused rings in the molecular structure and especially a tricyclic antidepressant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tricyclic designates being a chemical with three usually fused rings in the molecular structure and especially a tricyclic antidepressant."*

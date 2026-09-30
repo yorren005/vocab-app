@@ -5,15 +5,6 @@ status: unread
 ---
 # immense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yet there is something a little wrong about it in despite of its immense advantages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yet there is something a little wrong about it in despite of its immense advantages."*

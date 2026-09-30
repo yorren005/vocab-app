@@ -5,15 +5,6 @@ status: unread
 ---
 # juncture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that occurs at a critical time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crisis situation or point in time when a critical decision must be made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, avoiding, with some trouble those obtrusive sounds, says, “True.” At this juncture a considerable noise of voices is heard in the hall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At this juncture we perceived Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I must take leave to observe, Sir Walter,” said Mr Shepherd one morning at Kellynch Hall, as he laid down the newspaper, “that the present juncture is much in our favour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that occurs at a critical time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crisis situation or point in time when a critical decision must be made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, avoiding, with some trouble those obtrusive sounds, says, “True.” At this juncture a considerable noise of voices is heard in the hall."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"At this juncture we perceived Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I must take leave to observe, Sir Walter,” said Mr Shepherd one morning at Kellynch Hall, as he laid down the newspaper, “that the present juncture is much in our favour."*

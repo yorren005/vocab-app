@@ -5,13 +5,6 @@ status: unread
 ---
 # hypercatalectic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of poetry having an extra syllable or syllables at the end of the last metrical foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) having an extra syllable or syllables at the end of a metrically complete verse or in a metrical foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercatalectic designates (prosody) a line of poetry having an extra syllable or syllables at the end of the last metrical foot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of poetry having an extra syllable or syllables at the end of the last metrical foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) having an extra syllable or syllables at the end of a metrically complete verse or in a metrical foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercatalectic designates (prosody) a line of poetry having an extra syllable or syllables at the end of the last metrical foot."*

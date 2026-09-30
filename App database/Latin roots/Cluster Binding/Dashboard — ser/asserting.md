@@ -5,15 +5,6 @@ status: unread
 ---
 # asserting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George himself, striding towards them in his morning exercise with his pipe in his mouth, no stock on, and his muscular arms, developed by broadsword and dumbbell, weightily asserting themselves through his light shirt-sleeves."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"King's counsel, and tendered his services for the recovery of the property, asserting he knew nothing about the robbery, nor the thieves, but that he could get the treasure."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sympathies, I believe, exist (for instance, between far-distant, long-absent, wholly estranged relatives asserting, notwithstanding their alienation, the unity of the source to which each traces his origin) whose workings baffle mortal comprehension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George himself, striding towards them in his morning exercise with his pipe in his mouth, no stock on, and his muscular arms, developed by broadsword and dumbbell, weightily asserting themselves through his light shirt-sleeves."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"King's counsel, and tendered his services for the recovery of the property, asserting he knew nothing about the robbery, nor the thieves, but that he could get the treasure."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sympathies, I believe, exist (for instance, between far-distant, long-absent, wholly estranged relatives asserting, notwithstanding their alienation, the unity of the source to which each traces his origin) whose workings baffle mortal comprehension."*

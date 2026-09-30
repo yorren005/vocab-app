@@ -5,15 +5,6 @@ status: unread
 ---
 # democracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the people : rule of the majority : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the people elect representatives to make decisions, policies, laws, etc. according to law —called also representative democracy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This theory is, in a way, based on an appeal to experience, as to the effect of property on human character, and it has the virtue of expressing one of the ideals of modern democracy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Once prosperous schools declined, once thronging country churches were deserted, and much of the old neighborhood democracy disappeared."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the people : rule of the majority : such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the people elect representatives to make decisions, policies, laws, etc. according to law —called also representative democracy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This theory is, in a way, based on an appeal to experience, as to the effect of property on human character, and it has the virtue of expressing one of the ideals of modern democracy."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Once prosperous schools declined, once thronging country churches were deserted, and much of the old neighborhood democracy disappeared."*

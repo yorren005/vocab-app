@@ -5,13 +5,6 @@ status: unread
 ---
 # serengeti
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast plain in tanzania to the west of the great rift valley known for its wildlife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast plain in tanzania to the west of the great rift valley known for its wildlife.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serengeti designates a vast plain in tanzania to the west of the great rift valley known for its wildlife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast plain in tanzania to the west of the great rift valley known for its wildlife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast plain in tanzania to the west of the great rift valley known for its wildlife.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serengeti designates a vast plain in tanzania to the west of the great rift valley known for its wildlife."*

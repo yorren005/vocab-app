@@ -5,13 +5,6 @@ status: unread
 ---
 # thyroglobulin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroglobulin designates an iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroglobulin designates an iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins."*

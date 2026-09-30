@@ -5,15 +5,6 @@ status: unread
 ---
 # nativity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of being born.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that jesus christ had no human father; christians believe that jesus's birth fulfilled old testament prophecies and was attended by miracles; the nativity is celebrated at christmas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nativity once in the main of light, Crawls to maturity, wherewith being crowned, Crooked eclipses ’gainst his glory fight, And Time that gave, doth now his gift confound."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke, my husband, and my children both, And you, the calendars of their nativity, Go to a gossips’ feast, and go with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of being born.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that jesus christ had no human father; christians believe that jesus's birth fulfilled old testament prophecies and was attended by miracles; the nativity is celebrated at christmas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nativity once in the main of light, Crawls to maturity, wherewith being crowned, Crooked eclipses ’gainst his glory fight, And Time that gave, doth now his gift confound."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke, my husband, and my children both, And you, the calendars of their nativity, Go to a gossips’ feast, and go with me."*

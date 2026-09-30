@@ -5,15 +5,6 @@ status: unread
 ---
 # total
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity obtained by the addition of a group of numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Head to foot Now is he total gules, horridly trick’d With blood of fathers, mothers, daughters, sons, Bak’d and impasted with the parching streets, That lend a tyrannous and a damned light To their vile murders."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed a tapster’s arithmetic may soon bring his particulars therein to a total."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The parties to it understand it least, but it has been observed that no two Chancery lawyers can talk about it for five minutes without coming to a total disagreement as to all the premises."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity obtained by the addition of a group of numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Head to foot Now is he total gules, horridly trick’d With blood of fathers, mothers, daughters, sons, Bak’d and impasted with the parching streets, That lend a tyrannous and a damned light To their vile murders."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed a tapster’s arithmetic may soon bring his particulars therein to a total."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The parties to it understand it least, but it has been observed that no two Chancery lawyers can talk about it for five minutes without coming to a total disagreement as to all the premises."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # psalmody
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, practice, or art of singing psalms in worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of psalms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these strange antics were accompanied by still stranger guttural noises from the devotee, who seemed to be praying in a sing-song or else singing some pagan psalmody or other, during which his face twitched about in the most unnatural manner."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Spring, I say, all of ye, and spring your eyes out!” And so saying, he moved along the windlass, here and there using his leg very freely, while imperturbable Bildad kept leading off with his psalmody."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In addition to his other vocations, he was the singing-master of the neighborhood, and picked up many bright shillings by instructing the young folks in psalmody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, practice, or art of singing psalms in worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of psalms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these strange antics were accompanied by still stranger guttural noises from the devotee, who seemed to be praying in a sing-song or else singing some pagan psalmody or other, during which his face twitched about in the most unnatural manner."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Spring, I say, all of ye, and spring your eyes out!” And so saying, he moved along the windlass, here and there using his leg very freely, while imperturbable Bildad kept leading off with his psalmody."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In addition to his other vocations, he was the singing-master of the neighborhood, and picked up many bright shillings by instructing the young folks in psalmody."*

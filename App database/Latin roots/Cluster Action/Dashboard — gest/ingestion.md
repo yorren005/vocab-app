@@ -5,13 +5,6 @@ status: unread
 ---
 # ingestion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking food into the body through the mouth (as by eating).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of taking food into the body through the mouth (as by eating).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingestion designates the process of taking food into the body through the mouth (as by eating)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking food into the body through the mouth (as by eating).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of taking food into the body through the mouth (as by eating).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingestion designates the process of taking food into the body through the mouth (as by eating)."*

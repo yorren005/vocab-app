@@ -5,15 +5,6 @@ status: unread
 ---
 # legion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic terms for army.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Association of ex-servicemen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If all the devils of hell be drawn in little, and Legion himself possessed him, yet I’ll speak to him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she had beauty, pride, ambition, insolent resolve, and sense enough to portion out a legion of fine ladies."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And with a great many people in a great many instances, the question is never one of a change from wrong to right (which is quite an extraneous consideration), but is always one of injury or advantage to that eminently respectable legion, Vholes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic terms for army.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Association of ex-servicemen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If all the devils of hell be drawn in little, and Legion himself possessed him, yet I’ll speak to him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But she had beauty, pride, ambition, insolent resolve, and sense enough to portion out a legion of fine ladies."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And with a great many people in a great many instances, the question is never one of a change from wrong to right (which is quite an extraneous consideration), but is always one of injury or advantage to that eminently respectable legion, Vholes."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # cuplike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the shape of a cup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the shape of a cup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"And flashing over them, and sucking honey from every cuplike flower, were shimmering humming-birds and marvelously marked butterflies."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Suddenly we looked down into a cuplike depression, patched with stunted oaks and firs which had been twisted and bent by the fury of years of storm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the shape of a cup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the shape of a cup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"And flashing over them, and sucking honey from every cuplike flower, were shimmering humming-birds and marvelously marked butterflies."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Suddenly we looked down into a cuplike depression, patched with stunted oaks and firs which had been twisted and bent by the fury of years of storm."*

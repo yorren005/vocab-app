@@ -5,13 +5,6 @@ status: unread
 ---
 # cutaway
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation (drawing or model) of something in which the outside is omitted to reveal the inner parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man's coat cut diagonally from the waist to the back of the knees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Ben Dollard’s loose blue cutaway and square hat above large slops crossed the quay in full gait from the metal bridge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation (drawing or model) of something in which the outside is omitted to reveal the inner parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man's coat cut diagonally from the waist to the back of the knees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Ben Dollard’s loose blue cutaway and square hat above large slops crossed the quay in full gait from the metal bridge."*

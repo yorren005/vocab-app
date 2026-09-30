@@ -5,15 +5,6 @@ status: unread
 ---
 # vineyard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farm of grapevines where wine grapes are produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A farm of grapevines where wine grapes are produced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath a garden circummured with brick, Whose western side is with a vineyard backed; And to that vineyard is a planched gate That makes his opening with this bigger key."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This other doth command a little door Which from the vineyard to the garden leads; There have I made my promise, upon the Heavy middle of the night to call on him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"She pointed along the path I had come by, as if she feared her child had wandered to the highway or been lost amid the wild brushwood that grew on that side of the vineyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A farm of grapevines where wine grapes are produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A farm of grapevines where wine grapes are produced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath a garden circummured with brick, Whose western side is with a vineyard backed; And to that vineyard is a planched gate That makes his opening with this bigger key."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This other doth command a little door Which from the vineyard to the garden leads; There have I made my promise, upon the Heavy middle of the night to call on him."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"She pointed along the path I had come by, as if she feared her child had wandered to the highway or been lost amid the wild brushwood that grew on that side of the vineyard."*

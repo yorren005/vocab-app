@@ -5,13 +5,6 @@ status: unread
 ---
 # amn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: airman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: airman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"CISSY CAFFREY: _(Alarmed, seizes Private Carr’s sleeve.)_ Amn’t I with you?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: airman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: airman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"CISSY CAFFREY: _(Alarmed, seizes Private Carr’s sleeve.)_ Amn’t I with you?"*

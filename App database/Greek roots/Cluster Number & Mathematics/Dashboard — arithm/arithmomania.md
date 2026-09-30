@@ -5,13 +5,6 @@ status: unread
 ---
 # arithmomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: an obsessive-compulsive disorder in which the subject feels the need to count things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an obsessive-compulsive disorder in which the subject feels the need to count things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithmomania designates an obsessive-compulsive disorder in which the subject feels the need to count things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: an obsessive-compulsive disorder in which the subject feels the need to count things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an obsessive-compulsive disorder in which the subject feels the need to count things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithmomania designates an obsessive-compulsive disorder in which the subject feels the need to count things."*

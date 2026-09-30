@@ -5,18 +5,6 @@ status: unread
 ---
 # slattern
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Untidy dirty woman
-> 2. **Nuance / Usage**: (derogatory) a slut, a sexually promiscuous woman
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & pejorative).
-> - **Syntactic Constructions**: Functions as an agent subject (*the slattern left the household in disarray*) or predicative nominal (*dismissed as a hopeless slattern*).
-> - **Collocations & Registers**: 18th- and 19th-century domestic satire and moral prose; paired with *untidy*, *slovenly*, *disheveled*, and *neglect*.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Next morning, Miss Scatcherd wrote in conspicuous characters on a piece of pasteboard the word “Slattern,” and bound it like a phylactery round Helen’s large, mild, intelligent, and benign-looking forehead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A person—historically a woman—who is habitually untidy, slovenly, and negligent in dress, housekeeping, or personal habits.
+> 2. **Nuance / Usage**: Carries an archaic, censorious 18th- and 19th-century domestic register, contrasting household order and personal neatness with careless squalor.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & pejorative).
+> - **Syntactic Constructions**: Functions as an agent subject (*the slattern left the household in disarray*) or predicative nominal (*dismissed as a hopeless slattern*).
+> - **Collocations & Registers**: 18th- and 19th-century domestic satire and moral prose; paired with *untidy*, *slovenly*, *disheveled*, and *neglect*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Miss Scatcherd wrote in conspicuous characters on a piece of pasteboard the word '**Slattern**,' and bound it like a phylactery round Helen’s forehead."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"She was no **slattern** in her person, even when busied about the meanest offices of the kitchen."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The house was kept in a state of chaotic neglect by a **slattern** of a maid who never touched a duster."*

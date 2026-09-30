@@ -5,15 +5,6 @@ status: unread
 ---
 # vestal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chaste woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to vesta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are not In their best fortunes strong, but want will perjure The ne’er-touch’d vestal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certes, she did, the kitchen-vestal scorn’d you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since King Pericles, My wedded lord, I ne’er shall see again, A vestal livery will I take me to, And never more have joy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chaste woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to vesta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are not In their best fortunes strong, but want will perjure The ne’er-touch’d vestal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certes, she did, the kitchen-vestal scorn’d you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since King Pericles, My wedded lord, I ne’er shall see again, A vestal livery will I take me to, And never more have joy."*

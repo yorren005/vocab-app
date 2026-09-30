@@ -5,13 +5,6 @@ status: unread
 ---
 # abstrusity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom that is recondite and abstruse and profound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom that is recondite and abstruse and profound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstrusity designates wisdom that is recondite and abstruse and profound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom that is recondite and abstruse and profound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom that is recondite and abstruse and profound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstrusity designates wisdom that is recondite and abstruse and profound."*

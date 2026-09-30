@@ -5,15 +5,6 @@ status: unread
 ---
 # formidable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely impressive in strength or excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspiring fear; ; - g.h.johnston.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a formidable style of lady with spectacles, a prominent nose, and a loud voice, who had the effect of wanting a great deal of room."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He was preparing only to bow and pass on, but her gentle “How do you do?” brought him out of the straight line to stand near her, and make enquiries in return, in spite of the formidable father and sister in the back ground."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely impressive in strength or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspiring fear; ; - g.h.johnston.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was a formidable style of lady with spectacles, a prominent nose, and a loud voice, who had the effect of wanting a great deal of room."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He was preparing only to bow and pass on, but her gentle “How do you do?” brought him out of the straight line to stand near her, and make enquiries in return, in spite of the formidable father and sister in the back ground."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*

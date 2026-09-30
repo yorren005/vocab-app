@@ -5,15 +5,6 @@ status: unread
 ---
 # descend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move downward and lower, but not necessarily all the way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come from; be connected by a relationship of blood, for example.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, pardon me, that I descend so low, To show the line and the predicament Wherein you range under this subtle King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To thee it shall descend with better quiet, Better opinion, better confirmation, For all the soil of the achievement goes With me into the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For in the Book of Numbers is it writ, “When the man dies, let the inheritance Descend unto the daughter.” Gracious lord, Stand for your own!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move downward and lower, but not necessarily all the way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come from; be connected by a relationship of blood, for example.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, pardon me, that I descend so low, To show the line and the predicament Wherein you range under this subtle King."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To thee it shall descend with better quiet, Better opinion, better confirmation, For all the soil of the achievement goes With me into the earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For in the Book of Numbers is it writ, “When the man dies, let the inheritance Descend unto the daughter.” Gracious lord, Stand for your own!"*

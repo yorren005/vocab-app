@@ -5,15 +5,6 @@ status: unread
 ---
 # intensified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The paint with which they were smeared, intensified in hue by the sunlight, imparted to them a look of having been dipped in liquid fire."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It intensified her consciousness of error to a practical despair; the break of continuity between her earlier and present existence, which she had hoped for, had not, after all, taken place."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In a more intensified signification than it is probable that Shakespeare dreamed of, Shelley gives to airy nothing a local habitation and a name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The paint with which they were smeared, intensified in hue by the sunlight, imparted to them a look of having been dipped in liquid fire."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It intensified her consciousness of error to a practical despair; the break of continuity between her earlier and present existence, which she had hoped for, had not, after all, taken place."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In a more intensified signification than it is probable that Shakespeare dreamed of, Shelley gives to airy nothing a local habitation and a name."*

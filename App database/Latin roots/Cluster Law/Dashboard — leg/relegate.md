@@ -5,15 +5,6 @@ status: unread
 ---
 # relegate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to another person for decision or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Whatever promises the nation makes, the nation must perform; and the nation can not with safety relegate this duty to the states."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was mostly a journey to the farmhouse on the slopes above the vale, to inquire how the advanced cows were getting on in the straw-barton to which they were relegated."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The "committing" of his sermons gave him little or no trouble, and he soon found that it could be relegated without anxiety to Saturday evening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to another person for decision or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Whatever promises the nation makes, the nation must perform; and the nation can not with safety relegate this duty to the states."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was mostly a journey to the farmhouse on the slopes above the vale, to inquire how the advanced cows were getting on in the straw-barton to which they were relegated."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The "committing" of his sermons gave him little or no trouble, and he soon found that it could be relegated without anxiety to Saturday evening."*

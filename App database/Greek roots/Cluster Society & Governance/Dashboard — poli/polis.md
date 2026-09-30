@@ -5,13 +5,6 @@ status: unread
 ---
 # polis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek city-state; broadly : a state or society especially when characterized by a sense of community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Greek city-state; broadly : a state or society especially when characterized by a sense of community.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Don’t be all night before the polis in plain clothes sees us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek city-state; broadly : a state or society especially when characterized by a sense of community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Greek city-state; broadly : a state or society especially when characterized by a sense of community.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Don’t be all night before the polis in plain clothes sees us."*

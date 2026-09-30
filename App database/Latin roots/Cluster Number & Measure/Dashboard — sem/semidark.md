@@ -5,13 +5,6 @@ status: unread
 ---
 # semidark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially devoid of light or brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially devoid of light or brightness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The shed became semidark, and the sharp rattle of the drums on two sides drowned the sick man’s groans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially devoid of light or brightness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially devoid of light or brightness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The shed became semidark, and the sharp rattle of the drums on two sides drowned the sick man’s groans."*

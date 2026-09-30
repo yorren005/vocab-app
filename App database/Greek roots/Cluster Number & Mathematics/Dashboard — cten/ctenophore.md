@@ -5,13 +5,6 @@ status: unread
 ---
 # ctenophore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenophore designates biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenophore designates biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # equisetum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horsetails; coextensive with the family equisetaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horsetails; coextensive with the family equisetaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetum designates horsetails; coextensive with the family equisetaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Horsetails; coextensive with the family equisetaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horsetails; coextensive with the family equisetaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetum designates horsetails; coextensive with the family equisetaceae."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # brachiopoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine invertebrates that resemble mollusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine invertebrates that resemble mollusks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopoda designates marine invertebrates that resemble mollusks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine invertebrates that resemble mollusks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine invertebrates that resemble mollusks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopoda designates marine invertebrates that resemble mollusks."*

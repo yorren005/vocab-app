@@ -5,15 +5,6 @@ status: unread
 ---
 # baring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay bare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or the baring of my beard, and to say it was in stratagem."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"By some invisible agency, my guardian wound him up to a pitch little short of ferocity about this trifle; and he fell to baring and spanning his arm to show how muscular it was, and we all fell to baring and spanning our arms in a ridiculous manner."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Old Karáy had turned his head and was angrily searching for fleas, baring his yellow teeth and snapping at his hind legs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay bare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or the baring of my beard, and to say it was in stratagem."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"By some invisible agency, my guardian wound him up to a pitch little short of ferocity about this trifle; and he fell to baring and spanning his arm to show how muscular it was, and we all fell to baring and spanning our arms in a ridiculous manner."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Old Karáy had turned his head and was angrily searching for fleas, baring his yellow teeth and snapping at his hind legs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # logic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that analyzes inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reasoned and reasonable judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, how now, chopp’d logic?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns returned to the University in the late autumn of 1837, enrolling himself in the classes of Latin, Greek, and Logic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that analyzes inference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reasoned and reasonable judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, how now, chopp’d logic?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns returned to the University in the late autumn of 1837, enrolling himself in the classes of Latin, Greek, and Logic."*

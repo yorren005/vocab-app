@@ -5,20 +5,6 @@ status: unread
 ---
 # din
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make a loud noise
-> 2. **Nuance / Usage**: Situation or condition resembling a din
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Think you a little din can daunt mine ears?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Half-wauken’d wi’ the din, man."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"with the Lilliputian din of drums, trumpets, and penny whistles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A loud, unpleasant, and prolonged noise or confused roar that stuns the ears.
+> 2. **Nuance / Usage**: As a transitive verb (usually *din into*), to instill or force an idea into someone's mind by constant, tiresome repetition.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Think you a little **din** can daunt mine ears?"*
+> - 📜 **Robert Burns (*Halloween*):** *"He roar'd a horrid murder-shout, half-wauken’d wi’ the **din**, man."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The village square rang with the Lilliputian **din** of drums, trumpets, and penny whistles."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # volley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid simultaneous discharge of firearms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tennis return made by hitting the ball before it bounces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The holding every man shall beat as loud As his strong sides can volley."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Young Fortinbras, with conquest come from Poland, To the ambassadors of England gives This warlike volley."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, bravely came we off, When with a volley of our needless shot, After such bloody toil, we bid good night, And wound our tott’ring colours clearly up, Last in the field, and almost lords of it!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid simultaneous discharge of firearms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tennis return made by hitting the ball before it bounces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The holding every man shall beat as loud As his strong sides can volley."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Young Fortinbras, with conquest come from Poland, To the ambassadors of England gives This warlike volley."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, bravely came we off, When with a volley of our needless shot, After such bloody toil, we bid good night, And wound our tott’ring colours clearly up, Last in the field, and almost lords of it!"*

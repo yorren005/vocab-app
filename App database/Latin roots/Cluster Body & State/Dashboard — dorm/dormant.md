@@ -5,15 +5,6 @@ status: unread
 ---
 # dormant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a condition of biological rest or suspended animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. volcanos) not erupting and not extinct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In coöperation there is occasionally developed good business ability that might have remained dormant under the wage system; some work-men showing unusual capacity cease to be handicraftsmen."*
-> - 📜 **Effie Afton (*Eventide*):** *"It feels there are other faculties, lying dormant and unemployed."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There is in every true woman’s heart a spark of heavenly fire, which lies dormant in the broad daylight of prosperity; but which kindles up, and beams, and blazes in the dark hour of adversity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a condition of biological rest or suspended animation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. volcanos) not erupting and not extinct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In coöperation there is occasionally developed good business ability that might have remained dormant under the wage system; some work-men showing unusual capacity cease to be handicraftsmen."*
+> - 📜 **Effie Afton (*Eventide*):** *"It feels there are other faculties, lying dormant and unemployed."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There is in every true woman’s heart a spark of heavenly fire, which lies dormant in the broad daylight of prosperity; but which kindles up, and beams, and blazes in the dark hour of adversity."*

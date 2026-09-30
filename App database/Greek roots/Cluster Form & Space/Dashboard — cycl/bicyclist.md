@@ -5,13 +5,6 @@ status: unread
 ---
 # bicyclist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Come, let us seek somewhere that we may eat, and then we shall go on our way.” We dined at “Jack Straw’s Castle” along with a little crowd of bicyclists and others who were genially noisy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Come, let us seek somewhere that we may eat, and then we shall go on our way.” We dined at “Jack Straw’s Castle” along with a little crowd of bicyclists and others who were genially noisy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plinth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest member of a base : subbase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A block upon which the moldings of an architrave or trim are stopped at the bottom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The end of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The base of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
-> - 📜 **James Joyce (*Ulysses*):** *"The grey alive crushed itself in under the plinth, wriggled itself in under it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest member of a base : subbase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A block upon which the moldings of an architrave or trim are stopped at the bottom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The end of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The base of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
+> - 📜 **James Joyce (*Ulysses*):** *"The grey alive crushed itself in under the plinth, wriggled itself in under it."*

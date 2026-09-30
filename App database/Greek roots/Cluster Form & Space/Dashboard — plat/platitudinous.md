@@ -5,13 +5,6 @@ status: unread
 ---
 # platitudinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull and tiresome but with pretensions of significance or originality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull and tiresome but with pretensions of significance or originality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"And I do not say this simply as an echo of what others before me have said, or to use a platitudinous phrase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull and tiresome but with pretensions of significance or originality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull and tiresome but with pretensions of significance or originality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"And I do not say this simply as an echo of what others before me have said, or to use a platitudinous phrase."*

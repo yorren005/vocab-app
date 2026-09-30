@@ -5,15 +5,6 @@ status: unread
 ---
 # tone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of a person's voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am doing the right thing," said Mäzli now in the most decided tone."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever you speak about him, your voice takes on a tone as if you were speaking about a misunderstood angel."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius said again in his unchangeable, dry tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of a person's voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am doing the right thing," said Mäzli now in the most decided tone."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever you speak about him, your voice takes on a tone as if you were speaking about a misunderstood angel."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius said again in his unchangeable, dry tone."*

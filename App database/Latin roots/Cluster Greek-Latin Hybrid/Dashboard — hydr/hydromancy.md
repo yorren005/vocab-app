@@ -5,13 +5,6 @@ status: unread
 ---
 # hydromancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by water (as by patterns seen in the ebb and flow of the tides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by water (as by patterns seen in the ebb and flow of the tides).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancy designates divination by water (as by patterns seen in the ebb and flow of the tides)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by water (as by patterns seen in the ebb and flow of the tides).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by water (as by patterns seen in the ebb and flow of the tides).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancy designates divination by water (as by patterns seen in the ebb and flow of the tides)."*

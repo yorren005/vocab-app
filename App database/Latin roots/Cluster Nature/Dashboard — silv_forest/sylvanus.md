@@ -5,13 +5,6 @@ status: unread
 ---
 # sylvanus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"In shadier bower More sacred and sequestered, though but feigned, Pan or Sylvanus never slept, nor Nymph Nor Faunus haunted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"In shadier bower More sacred and sequestered, though but feigned, Pan or Sylvanus never slept, nor Nymph Nor Faunus haunted."*

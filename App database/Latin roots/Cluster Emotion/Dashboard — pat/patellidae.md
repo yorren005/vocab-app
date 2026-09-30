@@ -5,13 +5,6 @@ status: unread
 ---
 # patellidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine limpets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine limpets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patellidae designates marine limpets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine limpets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine limpets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patellidae designates marine limpets."*

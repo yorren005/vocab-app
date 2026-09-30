@@ -5,13 +5,6 @@ status: unread
 ---
 # mandela
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandela designates south african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: South african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandela designates south african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918)."*

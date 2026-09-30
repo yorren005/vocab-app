@@ -5,13 +5,6 @@ status: unread
 ---
 # hospitableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a disposition that welcomes guests and is fond of entertaining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a disposition that welcomes guests and is fond of entertaining.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hospitableness designates having a disposition that welcomes guests and is fond of entertaining."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a disposition that welcomes guests and is fond of entertaining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a disposition that welcomes guests and is fond of entertaining.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hospitableness designates having a disposition that welcomes guests and is fond of entertaining."*

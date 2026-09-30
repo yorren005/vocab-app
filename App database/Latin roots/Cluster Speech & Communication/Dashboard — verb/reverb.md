@@ -5,14 +5,6 @@ status: unread
 ---
 # reverb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin verb within the domain of Speech & Communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of verb in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reverse thy state; And in thy best consideration check This hideous rashness: answer my life my judgement, Thy youngest daughter does not love thee least; Nor are those empty-hearted, whose low sounds Reverb no hollowness."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dark dome received, reverbed. —And what a character is Iago! undaunted John Eglinton exclaimed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin verb within the domain of Speech & Communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of verb in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reverse thy state; And in thy best consideration check This hideous rashness: answer my life my judgement, Thy youngest daughter does not love thee least; Nor are those empty-hearted, whose low sounds Reverb no hollowness."*
+> - 📜 **James Joyce (*Ulysses*):** *"Dark dome received, reverbed. —And what a character is Iago! undaunted John Eglinton exclaimed."*

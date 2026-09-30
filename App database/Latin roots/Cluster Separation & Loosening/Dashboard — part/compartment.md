@@ -5,15 +5,6 @@ status: unread
 ---
 # compartment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A space into which an area is subdivided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partitioned section, chamber, or separate room within a larger enclosed area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"After that the girl remains for a year in the large common hut (_tembe_), where she occupies a special compartment screened off from the men's quarters."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When they have abated, she may come down and take up her abode in a little compartment that is made for her in the darkest corner of the hut."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He found that the sea was pouring into the fifth compartment; and the rapidity of the influx proved that the force of the water was considerable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A space into which an area is subdivided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partitioned section, chamber, or separate room within a larger enclosed area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"After that the girl remains for a year in the large common hut (_tembe_), where she occupies a special compartment screened off from the men's quarters."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When they have abated, she may come down and take up her abode in a little compartment that is made for her in the darkest corner of the hut."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He found that the sea was pouring into the fifth compartment; and the rapidity of the influx proved that the force of the water was considerable."*

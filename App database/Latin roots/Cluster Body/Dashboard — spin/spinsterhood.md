@@ -5,13 +5,6 @@ status: unread
 ---
 # spinsterhood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a spinster (usually an elderly unmarried woman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a spinster (usually an elderly unmarried woman).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, seven saucers are placed in a row, filled respectively with water, earth, ashes, keys, a thimble, money, and grass, which things signify travel, death, widowhood, housekeeping, spinsterhood, riches, and farming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a spinster (usually an elderly unmarried woman).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a spinster (usually an elderly unmarried woman).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, seven saucers are placed in a row, filled respectively with water, earth, ashes, keys, a thimble, money, and grass, which things signify travel, death, widowhood, housekeeping, spinsterhood, riches, and farming."*

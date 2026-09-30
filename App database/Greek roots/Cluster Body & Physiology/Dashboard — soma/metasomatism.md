@@ -5,13 +5,6 @@ status: unread
 ---
 # metasomatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metasomatism designates metamorphism that involves changes in the chemical composition as well as in the texture of rock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metasomatism designates metamorphism that involves changes in the chemical composition as well as in the texture of rock."*

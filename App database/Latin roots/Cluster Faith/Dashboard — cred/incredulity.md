@@ -5,15 +5,6 @@ status: unread
 ---
 # incredulity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about the truth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doubt about the truth of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more foolish remark was never made, and I want you to contradict it: that’s what I came for.” Gabriel looked incredulous and sad, but between his moments of incredulity, relieved."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was not only received with utter incredulity as regarded itself, but threw a doubt on all the assurances that had preceded it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had gathered from Angel sufficient of the incredulity of modern thought to despise flash enthusiasm; but, as a woman, she was somewhat appalled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about the truth of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doubt about the truth of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more foolish remark was never made, and I want you to contradict it: that’s what I came for.” Gabriel looked incredulous and sad, but between his moments of incredulity, relieved."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was not only received with utter incredulity as regarded itself, but threw a doubt on all the assurances that had preceded it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had gathered from Angel sufficient of the incredulity of modern thought to despise flash enthusiasm; but, as a woman, she was somewhat appalled."*

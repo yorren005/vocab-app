@@ -5,15 +5,6 @@ status: unread
 ---
 # interphone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephonic intercommunication system linking different rooms in a building or ship etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephonic intercommunication system linking different rooms in a building or ship etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"A bulb flickered on his interphone set, and Marlowe shot a glance at the switch beneath it."*
-> - 📜 **Algis Budrys (*Citadel*):** *"He switched the interphone on again."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Yes and no, sir." Marlowe cocked an eyebrow at the interphone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephonic intercommunication system linking different rooms in a building or ship etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephonic intercommunication system linking different rooms in a building or ship etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"A bulb flickered on his interphone set, and Marlowe shot a glance at the switch beneath it."*
+> - 📜 **Algis Budrys (*Citadel*):** *"He switched the interphone on again."*
+> - 📜 **Algis Budrys (*Citadel*):** *"Yes and no, sir." Marlowe cocked an eyebrow at the interphone."*

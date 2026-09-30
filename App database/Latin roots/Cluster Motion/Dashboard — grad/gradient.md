@@ -5,13 +5,6 @@ status: unread
 ---
 # gradient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graded change in the magnitude of some physical quantity or dimension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a line or surface that departs from the horizontal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"O, get, rev on a gradient one in nine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graded change in the magnitude of some physical quantity or dimension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a line or surface that departs from the horizontal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"O, get, rev on a gradient one in nine."*

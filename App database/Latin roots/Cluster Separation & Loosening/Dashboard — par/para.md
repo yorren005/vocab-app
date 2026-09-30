@@ -5,15 +5,6 @@ status: unread
 ---
 # para
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) the number of liveborn children a woman has delivered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 para equal 1 dinar in yugoslavia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jew was now asked by the Christian to admit a second God--a God beside the Creator (_allos theos para ton poieten ton holon_[5])--and such a God!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Speaking of the depravity of the age, Almost all-houses, he said, were made ale-houses;―that men made matri-money a matter of money; and placed their Para-dise in a pair of dice: Was it so in the days of No-ah?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) the number of liveborn children a woman has delivered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 para equal 1 dinar in yugoslavia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jew was now asked by the Christian to admit a second God--a God beside the Creator (_allos theos para ton poieten ton holon_[5])--and such a God!"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Speaking of the depravity of the age, Almost all-houses, he said, were made ale-houses;―that men made matri-money a matter of money; and placed their Para-dise in a pair of dice: Was it so in the days of No-ah?"*

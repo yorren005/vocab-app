@@ -5,15 +5,6 @@ status: unread
 ---
 # lav
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or building equipped with one or more toilets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"_Le chien est retourné à son propre vomissement, et la truie lavée au bourbier_.” Thou mak’st use of anything."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rising sun owre Galston muirs Wi’ glorious light was glintin; The hares were hirplin down the furrs, The lav’rocks they were chantin Fu’ sweet that day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—Farewell To Ballochmyle Tune—“Miss Forbe’s farewell to Banff.” The Catrine woods were yellow seen, The flowers decay’d on Catrine lee, Nae lav’rock sang on hillock green, But nature sicken’d on the e’e."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or building equipped with one or more toilets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"_Le chien est retourné à son propre vomissement, et la truie lavée au bourbier_.” Thou mak’st use of anything."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rising sun owre Galston muirs Wi’ glorious light was glintin; The hares were hirplin down the furrs, The lav’rocks they were chantin Fu’ sweet that day."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—Farewell To Ballochmyle Tune—“Miss Forbe’s farewell to Banff.” The Catrine woods were yellow seen, The flowers decay’d on Catrine lee, Nae lav’rock sang on hillock green, But nature sicken’d on the e’e."*

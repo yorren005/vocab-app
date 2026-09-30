@@ -5,15 +5,6 @@ status: unread
 ---
 # contradictory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two propositions are contradictories if both cannot be true (or both cannot be false) at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of words or propositions so related that both cannot be true and both cannot be false.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among his other contradictory decorations he had the hat of a bishop and the little gloves of a baby."*
-> - 📜 **Jane Austen (*Persuasion*):** *"You have asserted nothing contradictory to what Mr Elliot appeared to be some years ago."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More tolerant than his father of a contradictory opinion, in its aspect as a danger to its holder, he was less ready than his father to pardon it as a slight to his own teaching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Two propositions are contradictories if both cannot be true (or both cannot be false) at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of words or propositions so related that both cannot be true and both cannot be false.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Among his other contradictory decorations he had the hat of a bishop and the little gloves of a baby."*
+> - 📜 **Jane Austen (*Persuasion*):** *"You have asserted nothing contradictory to what Mr Elliot appeared to be some years ago."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More tolerant than his father of a contradictory opinion, in its aspect as a danger to its holder, he was less ready than his father to pardon it as a slight to his own teaching."*

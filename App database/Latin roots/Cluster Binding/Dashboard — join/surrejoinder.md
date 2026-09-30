@@ -5,13 +5,6 @@ status: unread
 ---
 # surrejoinder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a pleading by the plaintiff in reply to the defendant's rejoinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pleading by the plaintiff in reply to the defendant's rejoinder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrejoinder designates (law) a pleading by the plaintiff in reply to the defendant's rejoinder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a pleading by the plaintiff in reply to the defendant's rejoinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pleading by the plaintiff in reply to the defendant's rejoinder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrejoinder designates (law) a pleading by the plaintiff in reply to the defendant's rejoinder."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # apogamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a sporophyte from a gametophyte without fertilization —called also agamospermy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a sporophyte from a gametophyte without fertilization —called also agamospermy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogamy designates development of a sporophyte from a gametophyte without fertilization —called also agamospermy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a sporophyte from a gametophyte without fertilization —called also agamospermy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a sporophyte from a gametophyte without fertilization —called also agamospermy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogamy designates development of a sporophyte from a gametophyte without fertilization —called also agamospermy."*

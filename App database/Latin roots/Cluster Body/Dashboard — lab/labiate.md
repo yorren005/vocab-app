@@ -5,13 +5,6 @@ status: unread
 ---
 # labiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having lips or parts that resemble lips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lips or parts that resemble lips.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A similar circumstance may befall the student in examining the rust of labiate plants (_Trichobasis Labiatarum_, Lev.), which occurs on different species of mint, especially the water-mint, about the month of August."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having lips or parts that resemble lips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lips or parts that resemble lips.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A similar circumstance may befall the student in examining the rust of labiate plants (_Trichobasis Labiatarum_, Lev.), which occurs on different species of mint, especially the water-mint, about the month of August."*

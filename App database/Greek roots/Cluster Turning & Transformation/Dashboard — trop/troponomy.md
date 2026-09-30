@@ -5,13 +5,6 @@ status: unread
 ---
 # troponomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place names of a region or a language considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place names of a region or a language considered collectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponomy designates the place names of a region or a language considered collectively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place names of a region or a language considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place names of a region or a language considered collectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponomy designates the place names of a region or a language considered collectively."*

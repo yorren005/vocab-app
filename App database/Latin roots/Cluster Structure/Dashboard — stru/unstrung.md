@@ -5,15 +5,6 @@ status: unread
 ---
 # unstrung
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the strings from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally upset.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket to understand, in reply, that her sensitive mind is fully made up never to get the better of it as long as she lives, that her nerves are unstrung for ever, and that she has not the least expectation of ever smiling again."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s nerves were still unstrung: she crouched down out of sight again, and the pedestrian came into view."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, he is not a ghost; yet every nerve I have is unstrung: for a moment I am beyond my own mastery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the strings from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally upset.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket to understand, in reply, that her sensitive mind is fully made up never to get the better of it as long as she lives, that her nerves are unstrung for ever, and that she has not the least expectation of ever smiling again."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s nerves were still unstrung: she crouched down out of sight again, and the pedestrian came into view."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, he is not a ghost; yet every nerve I have is unstrung: for a moment I am beyond my own mastery."*

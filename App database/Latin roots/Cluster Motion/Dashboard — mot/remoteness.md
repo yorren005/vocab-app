@@ -5,15 +5,6 @@ status: unread
 ---
 # remoteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being remote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be distant and unsympathetic in manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their remoteness and unpunctuality, or their exorbitant charges and frauds, will be drawing forth bitter lamentations.” “I mean to be too rich to lament or to feel anything of the sort."*
-> - 📜 **George Eliot (*Middlemarch*):** *"For the moment, Will’s admiration was accompanied with a chilling sense of remoteness."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The increasing remoteness of consanguinity is every day diminishing the force of the family compact between France and Spain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being remote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be distant and unsympathetic in manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Their remoteness and unpunctuality, or their exorbitant charges and frauds, will be drawing forth bitter lamentations.” “I mean to be too rich to lament or to feel anything of the sort."*
+> - 📜 **George Eliot (*Middlemarch*):** *"For the moment, Will’s admiration was accompanied with a chilling sense of remoteness."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The increasing remoteness of consanguinity is every day diminishing the force of the family compact between France and Spain."*

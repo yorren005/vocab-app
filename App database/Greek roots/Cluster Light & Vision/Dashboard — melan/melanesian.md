@@ -5,15 +5,6 @@ status: unread
 ---
 # melanesian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to melanesia or its people or culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to melanesia or its people or culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This was perhaps a modification of the Melanesian custom of secluding girls at puberty."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some of the Melanesian islands, when the yam vines are being trained, the men sleep near the gardens and never approach their wives; should they enter the garden after breaking this rule of continence the fruits of the garden would be spoilt."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Seligmann, M.D., _The Melanesians of British New Guinea_ (Cambridge, 1910), pp. 589-599. [23] George Brown, D.D., _Melanesians and Polynesians_ (London, 1910), pp. 60 _sq._, 64."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to melanesia or its people or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to melanesia or its people or culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This was perhaps a modification of the Melanesian custom of secluding girls at puberty."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some of the Melanesian islands, when the yam vines are being trained, the men sleep near the gardens and never approach their wives; should they enter the garden after breaking this rule of continence the fruits of the garden would be spoilt."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Seligmann, M.D., _The Melanesians of British New Guinea_ (Cambridge, 1910), pp. 589-599. [23] George Brown, D.D., _Melanesians and Polynesians_ (London, 1910), pp. 60 _sq._, 64."*

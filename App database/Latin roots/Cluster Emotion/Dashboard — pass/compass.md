@@ -5,15 +5,6 @@ status: unread
 ---
 # compass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Navigational instrument for finding directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is too big, I hope, for me to compass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, you are so fat, Sir John, that you must needs be out of all compass, out of all reasonable compass, Sir John."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Navigational instrument for finding directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is too big, I hope, for me to compass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, you are so fat, Sir John, that you must needs be out of all compass, out of all reasonable compass, Sir John."*

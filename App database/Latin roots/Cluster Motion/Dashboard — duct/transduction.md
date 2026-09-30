@@ -5,13 +5,6 @@ status: unread
 ---
 # transduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby a transducer accepts energy in one form and gives back related energy in a different form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transduction designates (genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby a transducer accepts energy in one form and gives back related energy in a different form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transduction designates (genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage."*

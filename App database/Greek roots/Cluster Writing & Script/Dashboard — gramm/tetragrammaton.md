@@ -5,13 +5,6 @@ status: unread
 ---
 # tetragrammaton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The four Hebrew letters usually transliterated YHWH or JHVH that form a biblical proper name of God.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The four Hebrew letters usually transliterated YHWH or JHVH that form a biblical proper name of God.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragrammaton designates the four hebrew letters usually transliterated yhwh or jhvh that form a biblical proper name of god."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The four Hebrew letters usually transliterated YHWH or JHVH that form a biblical proper name of God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The four Hebrew letters usually transliterated YHWH or JHVH that form a biblical proper name of God.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragrammaton designates the four hebrew letters usually transliterated yhwh or jhvh that form a biblical proper name of god."*

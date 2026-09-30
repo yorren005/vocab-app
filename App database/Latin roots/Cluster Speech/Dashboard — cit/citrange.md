@@ -5,13 +5,6 @@ status: unread
 ---
 # citrange
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More aromatic and acidic than oranges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More aromatic and acid tasting than oranges; used in beverages and marmalade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrange designates more aromatic and acidic than oranges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More aromatic and acidic than oranges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More aromatic and acid tasting than oranges; used in beverages and marmalade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrange designates more aromatic and acidic than oranges."*

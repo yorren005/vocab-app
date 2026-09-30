@@ -5,13 +5,6 @@ status: unread
 ---
 # pneumocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumonia occurring in infants or in persons with impaired immune systems (as aids victims).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pneumonia occurring in infants or in persons with impaired immune systems (as aids victims).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumocytosis designates pneumonia occurring in infants or in persons with impaired immune systems (as aids victims)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumonia occurring in infants or in persons with impaired immune systems (as aids victims).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pneumonia occurring in infants or in persons with impaired immune systems (as aids victims).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumocytosis designates pneumonia occurring in infants or in persons with impaired immune systems (as aids victims)."*

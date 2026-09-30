@@ -5,15 +5,6 @@ status: unread
 ---
 # signet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seal (especially one used to mark documents officially).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seal (especially one used to mark documents officially).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the character, I doubt not, and the signet is not strange to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been bold— For that I knew it the most general way— To them to use your signet and your name, But they do shake their heads, and I am here No richer in return."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seal (especially one used to mark documents officially).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seal (especially one used to mark documents officially).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the character, I doubt not, and the signet is not strange to you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been bold— For that I knew it the most general way— To them to use your signet and your name, But they do shake their heads, and I am here No richer in return."*

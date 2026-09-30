@@ -5,13 +5,6 @@ status: unread
 ---
 # cholecalciferol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fat-soluble vitamin that prevents rickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fat-soluble vitamin that prevents rickets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecalciferol designates a fat-soluble vitamin that prevents rickets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fat-soluble vitamin that prevents rickets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fat-soluble vitamin that prevents rickets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecalciferol designates a fat-soluble vitamin that prevents rickets."*

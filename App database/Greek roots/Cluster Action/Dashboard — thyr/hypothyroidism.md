@@ -5,13 +5,6 @@ status: unread
 ---
 # hypothyroidism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothyroidism designates an underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothyroidism designates an underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones."*

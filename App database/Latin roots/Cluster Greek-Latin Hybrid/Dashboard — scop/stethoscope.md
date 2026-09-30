@@ -5,15 +5,6 @@ status: unread
 ---
 # stethoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument for listening to the sounds generated inside the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for listening to the sounds generated inside the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He not only used his stethoscope (which had not become a matter of course in practice at that time), but sat quietly by his patient and watched him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I believe that you are suffering from what is called fatty degeneration of the heart, a disease which was first divined and explored by Laennec, the man who gave us the stethoscope, not so very many years ago."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Lucy’s heart beat a trifle more audibly to the stethoscope, and her lungs had a perceptible movement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument for listening to the sounds generated inside the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for listening to the sounds generated inside the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He not only used his stethoscope (which had not become a matter of course in practice at that time), but sat quietly by his patient and watched him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I believe that you are suffering from what is called fatty degeneration of the heart, a disease which was first divined and explored by Laennec, the man who gave us the stethoscope, not so very many years ago."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Lucy’s heart beat a trifle more audibly to the stethoscope, and her lungs had a perceptible movement."*

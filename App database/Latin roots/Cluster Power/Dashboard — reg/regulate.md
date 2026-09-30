@@ -5,15 +5,6 @@ status: unread
 ---
 # regulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or adjust the time, amount, degree, or rate of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into conformity with rules or principles or usage; impose regulations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Latterly he had seen only Life, felt only the great passionate pulse of existence, unwarped, uncontorted, untrammelled by those creeds which futilely attempt to check what wisdom would be content to regulate."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The _bon Dieu_ be praised that Madame also is here, who has sense and will regulate everything.' 'These are no _canaille,'_ I said: 'be silent, _ma bonne_ Léontine, here is something which you cannot understand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or adjust the time, amount, degree, or rate of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into conformity with rules or principles or usage; impose regulations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Latterly he had seen only Life, felt only the great passionate pulse of existence, unwarped, uncontorted, untrammelled by those creeds which futilely attempt to check what wisdom would be content to regulate."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The _bon Dieu_ be praised that Madame also is here, who has sense and will regulate everything.' 'These are no _canaille,'_ I said: 'be silent, _ma bonne_ Léontine, here is something which you cannot understand."*

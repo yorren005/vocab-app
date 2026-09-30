@@ -5,15 +5,6 @@ status: unread
 ---
 # chore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The regular or daily light work of a household or farm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A routine task or job.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At one time, when I was attending school about a mile from home, my time out of school was taken up by my walk to and from it and the chores which necessarily fall to a farmer's boy, so that for some months I had no opportunity of earning anything."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Ven ve get all dose leetle chores done, Und some more ve can't tink about yet, Ve vill hang up de sword und de gun."*
-> - 📜 **Effie Afton (*Eventide*):** *"Don't I give you the rent of that great house for the few light chores you do for us, which really amount to nothing?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The regular or daily light work of a household or farm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A routine task or job.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"At one time, when I was attending school about a mile from home, my time out of school was taken up by my walk to and from it and the chores which necessarily fall to a farmer's boy, so that for some months I had no opportunity of earning anything."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Ven ve get all dose leetle chores done, Und some more ve can't tink about yet, Ve vill hang up de sword und de gun."*
+> - 📜 **Effie Afton (*Eventide*):** *"Don't I give you the rent of that great house for the few light chores you do for us, which really amount to nothing?"*

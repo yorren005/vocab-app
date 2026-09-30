@@ -5,13 +5,6 @@ status: unread
 ---
 # archaist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who archaizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or collector of antiquities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaist designates a person who archaizes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who archaizes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or collector of antiquities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaist designates a person who archaizes."*

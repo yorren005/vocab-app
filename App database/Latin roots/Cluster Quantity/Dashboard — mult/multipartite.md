@@ -5,13 +5,6 @@ status: unread
 ---
 # multipartite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving more than two parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving more than two parties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multipartite designates involving more than two parties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving more than two parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving more than two parties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multipartite designates involving more than two parties."*

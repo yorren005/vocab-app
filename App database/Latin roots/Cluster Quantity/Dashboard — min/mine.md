@@ -5,15 +5,6 @@ status: unread
 ---
 # mine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excavation in the earth from which ores and minerals are extracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excavation in the earth from which ores and minerals are extracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*

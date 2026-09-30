@@ -5,15 +5,6 @@ status: unread
 ---
 # selenium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photosensitive element that occurs in both crystalline and amorphous forms, is obtained chiefly as a by-product in copper refining, and is used especially in glass, semiconductor devices, and alloys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insulated strip of selenium mounted with electrodes and used as a photoconductive element.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The basis of it is a peculiar power possessed by the metal selenium when in a certain state."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now the special feature of selenium is that its resistance is reduced if light shine upon it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose, then, that current be flowing through a mass of selenium and that the latter be suddenly illuminated brightly, the resistance will at once fall and the current increase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photosensitive element that occurs in both crystalline and amorphous forms, is obtained chiefly as a by-product in copper refining, and is used especially in glass, semiconductor devices, and alloys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insulated strip of selenium mounted with electrodes and used as a photoconductive element.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The basis of it is a peculiar power possessed by the metal selenium when in a certain state."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now the special feature of selenium is that its resistance is reduced if light shine upon it."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose, then, that current be flowing through a mass of selenium and that the latter be suddenly illuminated brightly, the resistance will at once fall and the current increase."*

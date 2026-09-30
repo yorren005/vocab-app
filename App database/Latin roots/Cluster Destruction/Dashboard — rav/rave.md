@@ -5,15 +5,6 @@ status: unread
 ---
 # rave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dance party that lasts all night and electronically synthesized music is played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extravagantly enthusiastic review.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee grieve to make me merry, York; Stamp, rave, and fret, that I may sing and dance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stamp, rave, and fret, that I may sing and dance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set him breast-deep in earth and famish him; There let him stand and rave and cry for food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dance party that lasts all night and electronically synthesized music is played.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extravagantly enthusiastic review.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee grieve to make me merry, York; Stamp, rave, and fret, that I may sing and dance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stamp, rave, and fret, that I may sing and dance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set him breast-deep in earth and famish him; There let him stand and rave and cry for food."*

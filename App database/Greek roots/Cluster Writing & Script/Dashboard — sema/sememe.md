@@ -5,13 +5,6 @@ status: unread
 ---
 # sememe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The meaning of a morpheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The meaning of a morpheme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sememe designates the meaning of a morpheme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The meaning of a morpheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The meaning of a morpheme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sememe designates the meaning of a morpheme."*

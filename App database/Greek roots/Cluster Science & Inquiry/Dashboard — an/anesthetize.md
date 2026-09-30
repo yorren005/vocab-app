@@ -5,13 +5,6 @@ status: unread
 ---
 # anesthetize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer an anesthetic drug to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer an anesthetic drug to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anesthetize designates administer an anesthetic drug to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer an anesthetic drug to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer an anesthetic drug to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anesthetize designates administer an anesthetic drug to."*

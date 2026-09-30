@@ -5,15 +5,6 @@ status: unread
 ---
 # negatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harmful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a negative way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She is also such a perfect dear that her influence is something terrific, even if negatively expressed."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Have ye seen a whale-boat adrift?” Throttling his joy, Ahab negatively answered this unexpected question; and would then have fain boarded the stranger, when the stranger captain himself, having stopped his vessel’s way, was seen descending her side."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Have ye seen a whale-boat adrift?” Throttling his joy, Ahab negatively answered this unexpected question; and would then have fain boarded the stranger, when the stranger captain himself, having stopped his vessel’s way, was seen descending her side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harmful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a negative way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She is also such a perfect dear that her influence is something terrific, even if negatively expressed."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Have ye seen a whale-boat adrift?” Throttling his joy, Ahab negatively answered this unexpected question; and would then have fain boarded the stranger, when the stranger captain himself, having stopped his vessel’s way, was seen descending her side."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Have ye seen a whale-boat adrift?” Throttling his joy, Ahab negatively answered this unexpected question; and would then have fain boarded the stranger, when the stranger captain himself, having stopped his vessel’s way, was seen descending her side."*

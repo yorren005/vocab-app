@@ -5,20 +5,6 @@ status: unread
 ---
 # throb
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Beat, pulse
-> 2. **Nuance / Usage**: Beat or vibrate rhythmically
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to throb the target*) and intransitive clauses (*throbing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"with perspiration, and the bedstead shook with each throb of her heart."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Four hearts gave a big throb simultaneously."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"mortar, and whole overhanging sky throb with a burning sensibility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Beat, pulse
+> 2. **Nuance / Usage**: Beat or vibrate rhythmically
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to throb the target*) and intransitive clauses (*throbing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"with perspiration, and the bedstead shook with each throb of her heart."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Four hearts gave a big throb simultaneously."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"mortar, and whole overhanging sky throb with a burning sensibility."*

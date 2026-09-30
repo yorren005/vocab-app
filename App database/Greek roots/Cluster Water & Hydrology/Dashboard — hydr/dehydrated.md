@@ -5,13 +5,6 @@ status: unread
 ---
 # dehydrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by removing all water and liquids from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove water from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrated designates preserve by removing all water and liquids from."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by removing all water and liquids from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove water from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrated designates preserve by removing all water and liquids from."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # ingratiatingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flattering and ingratiating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a flattering and ingratiating manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I smiled at him ingratiatingly, just to help things along, but he took little notice of me."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Makár Alexéevich came twice that evening shuffling along in his galoshes as far as the door and stopped and looked ingratiatingly at Pierre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flattering and ingratiating manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a flattering and ingratiating manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I smiled at him ingratiatingly, just to help things along, but he took little notice of me."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Makár Alexéevich came twice that evening shuffling along in his galoshes as far as the door and stopped and looked ingratiatingly at Pierre."*

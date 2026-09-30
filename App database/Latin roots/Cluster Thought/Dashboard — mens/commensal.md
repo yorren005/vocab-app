@@ -5,13 +5,6 @@ status: unread
 ---
 # commensal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two different animal or plant species living in close association but not interdependent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in a state of commensalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commensal designates either of two different animal or plant species living in close association but not interdependent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two different animal or plant species living in close association but not interdependent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in a state of commensalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commensal designates either of two different animal or plant species living in close association but not interdependent."*

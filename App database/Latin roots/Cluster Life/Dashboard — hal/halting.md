@@ -5,15 +5,6 @@ status: unread
 ---
 # halting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to stop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to a halt, stop moving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brooches, pearls, and ouches:”—for to serve bravely is to come halting off, you know; to come off the breach with his pike bent bravely, and to surgery bravely; to venture upon the charged chambers bravely— DOLL."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For at hand, Not trusting to this halting legate here, Whom he hath us’d rather for sport than need, Is warlike John; and in his forehead sits A bare-ribb’d death, whose office is this day To feast upon whole thousands of the French."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I’ll be sworn upon ’t that he loves her; For here’s a paper written in his hand, A halting sonnet of his own pure brain, Fashion’d to Beatrice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to stop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to a halt, stop moving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brooches, pearls, and ouches:”—for to serve bravely is to come halting off, you know; to come off the breach with his pike bent bravely, and to surgery bravely; to venture upon the charged chambers bravely— DOLL."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For at hand, Not trusting to this halting legate here, Whom he hath us’d rather for sport than need, Is warlike John; and in his forehead sits A bare-ribb’d death, whose office is this day To feast upon whole thousands of the French."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I’ll be sworn upon ’t that he loves her; For here’s a paper written in his hand, A halting sonnet of his own pure brain, Fashion’d to Beatrice."*

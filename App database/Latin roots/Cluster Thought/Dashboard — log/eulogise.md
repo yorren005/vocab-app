@@ -5,14 +5,6 @@ status: unread
 ---
 # eulogise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise formally and eloquently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise formally and eloquently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On a fine still autumn evening the 'crying of the neck' has a wonderful effect at a distance, far finer than that of the Turkish muezzin, which Lord Byron eulogises so much, and which he says is preferable to all the bells of Christendom."*
-> - 📜 **James Joyce (*Ulysses*):** *"He lauded almost extravagantly my nether extremities, my swelling calves in silk hose drawn up to the limit, and eulogised glowingly my other hidden treasures in priceless lace which, he said, he could conjure up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise formally and eloquently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise formally and eloquently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On a fine still autumn evening the 'crying of the neck' has a wonderful effect at a distance, far finer than that of the Turkish muezzin, which Lord Byron eulogises so much, and which he says is preferable to all the bells of Christendom."*
+> - 📜 **James Joyce (*Ulysses*):** *"He lauded almost extravagantly my nether extremities, my swelling calves in silk hose drawn up to the limit, and eulogised glowingly my other hidden treasures in priceless lace which, he said, he could conjure up."*

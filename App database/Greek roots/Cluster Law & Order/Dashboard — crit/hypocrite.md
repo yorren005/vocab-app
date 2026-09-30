@@ -5,15 +5,6 @@ status: unread
 ---
 # hypocrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who puts on a false appearance of virtue or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose behavior contradicts their stated beliefs or feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such an act That blurs the grace and blush of modesty, Calls virtue hypocrite, takes off the rose From the fair forehead of an innocent love, And sets a blister there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would think thee a most princely hypocrite."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never a man’s thought in the world keeps the roadway better than thine: every man would think me an hypocrite indeed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who puts on a false appearance of virtue or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose behavior contradicts their stated beliefs or feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such an act That blurs the grace and blush of modesty, Calls virtue hypocrite, takes off the rose From the fair forehead of an innocent love, And sets a blister there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would think thee a most princely hypocrite."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never a man’s thought in the world keeps the roadway better than thine: every man would think me an hypocrite indeed."*

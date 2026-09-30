@@ -5,13 +5,6 @@ status: unread
 ---
 # synodontidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-finned bottom-dwelling fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-finned bottom-dwelling fishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synodontidae designates soft-finned bottom-dwelling fishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-finned bottom-dwelling fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-finned bottom-dwelling fishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synodontidae designates soft-finned bottom-dwelling fishes."*

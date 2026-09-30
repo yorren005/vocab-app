@@ -5,15 +5,6 @@ status: unread
 ---
 # just
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of what is legally or ethically right or proper or fitting; - a.lincoln.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fair to all parties as dictated by reason and conscience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who taught thee how to make me love thee more, The more I hear and see just cause of hate?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, like an old courtier, wears her cap out of fashion, richly suited, but unsuitable, just like the brooch and the toothpick, which wear not now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore we marvel much our cousin France Would, in so just a business, shut his bosom Against our borrowing prayers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of what is legally or ethically right or proper or fitting; - a.lincoln.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fair to all parties as dictated by reason and conscience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who taught thee how to make me love thee more, The more I hear and see just cause of hate?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, like an old courtier, wears her cap out of fashion, richly suited, but unsuitable, just like the brooch and the toothpick, which wear not now."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore we marvel much our cousin France Would, in so just a business, shut his bosom Against our borrowing prayers."*

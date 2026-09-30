@@ -5,15 +5,6 @@ status: unread
 ---
 # unstudied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not by design or artifice; unforced and impromptu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking knowledge gained by study often in a particular field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And his prayers, quite unstudied as they of course were, brought the whole company right into the presence of the Unseen."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The idle word is to condemn a man, not because it is idle, but because, being unstudied, it speaks of his heart and reveals, unconsciously but plainly, what he is in reality (Matt. 12:36)."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Their appearance perfectly amazed me; their extreme youth, the light clear brown of their complexions, their delicate features, and inexpressibly graceful figures, their softly moulded limbs, and free unstudied action, seemed as strange as beautiful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not by design or artifice; unforced and impromptu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking knowledge gained by study often in a particular field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"And his prayers, quite unstudied as they of course were, brought the whole company right into the presence of the Unseen."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The idle word is to condemn a man, not because it is idle, but because, being unstudied, it speaks of his heart and reveals, unconsciously but plainly, what he is in reality (Matt. 12:36)."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Their appearance perfectly amazed me; their extreme youth, the light clear brown of their complexions, their delicate features, and inexpressibly graceful figures, their softly moulded limbs, and free unstudied action, seemed as strange as beautiful."*

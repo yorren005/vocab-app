@@ -5,13 +5,6 @@ status: unread
 ---
 # polyangiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria living mostly in soils and on dung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria living mostly in soils and on dung.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangiaceae designates bacteria living mostly in soils and on dung."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria living mostly in soils and on dung.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria living mostly in soils and on dung.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangiaceae designates bacteria living mostly in soils and on dung."*

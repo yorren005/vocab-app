@@ -5,13 +5,6 @@ status: unread
 ---
 # metamere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamere designates any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamere designates any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible."*

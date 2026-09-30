@@ -5,13 +5,6 @@ status: unread
 ---
 # intermediator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermediator designates a negotiator who acts as a link between parties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermediator designates a negotiator who acts as a link between parties."*

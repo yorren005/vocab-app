@@ -5,15 +5,6 @@ status: unread
 ---
 # contrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing pain or sorrow for sins or offenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing pain or sorrow for sins or offenses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I Richard’s body have interred new, And on it have bestow’d more contrite tears Than from it issued forced drops of blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her contrite sighs unto the clouds bequeathed Her winged sprite, and through her wounds doth fly Life’s lasting date from cancelled destiny."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ah, well! let me take the name of drunkard humbly—let me be a man of contrite knees—let it be!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing pain or sorrow for sins or offenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing pain or sorrow for sins or offenses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I Richard’s body have interred new, And on it have bestow’d more contrite tears Than from it issued forced drops of blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her contrite sighs unto the clouds bequeathed Her winged sprite, and through her wounds doth fly Life’s lasting date from cancelled destiny."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ah, well! let me take the name of drunkard humbly—let me be a man of contrite knees—let it be!"*

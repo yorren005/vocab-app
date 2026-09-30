@@ -5,13 +5,6 @@ status: unread
 ---
 # anticatalyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticatalyst designates (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticatalyst designates (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst."*

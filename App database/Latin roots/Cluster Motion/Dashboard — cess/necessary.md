@@ -5,15 +5,6 @@ status: unread
 ---
 # necessary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything indispensable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolutely essential.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I will eat no meat; I’ll not drink, sir; If idle talk will once be necessary, I’ll not sleep neither."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As horns are odious, they are necessary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything indispensable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolutely essential.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I will eat no meat; I’ll not drink, sir; If idle talk will once be necessary, I’ll not sleep neither."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As horns are odious, they are necessary."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # conductance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material's capacity to conduct electricity; measured as the reciprocal of electrical resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material's capacity to conduct electricity; measured as the reciprocal of electrical resistance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conductance designates a material's capacity to conduct electricity; measured as the reciprocal of electrical resistance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A material's capacity to conduct electricity; measured as the reciprocal of electrical resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material's capacity to conduct electricity; measured as the reciprocal of electrical resistance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conductance designates a material's capacity to conduct electricity; measured as the reciprocal of electrical resistance."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unsyllabic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsyllabic designates not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsyllabic designates not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong)."*

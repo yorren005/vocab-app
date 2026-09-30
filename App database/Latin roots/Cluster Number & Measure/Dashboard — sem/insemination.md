@@ -5,13 +5,6 @@ status: unread
 ---
 # insemination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sowing (of seeds in the ground or, figuratively, of germs in the body or ideas in the mind, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The introduction of semen into the genital tract of a female.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insemination designates the act of sowing (of seeds in the ground or, figuratively, of germs in the body or ideas in the mind, etc.)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sowing (of seeds in the ground or, figuratively, of germs in the body or ideas in the mind, etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The introduction of semen into the genital tract of a female.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insemination designates the act of sowing (of seeds in the ground or, figuratively, of germs in the body or ideas in the mind, etc.)."*

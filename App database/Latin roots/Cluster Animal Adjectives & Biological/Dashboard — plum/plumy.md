@@ -5,14 +5,6 @@ status: unread
 ---
 # plumy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered with or abounding in plumes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They dispersed about the room, reminding me, by the lightness and buoyancy of their movements, of a flock of white plumy birds."*
-> - 📜 **James Joyce (*Ulysses*):** *"He puffed a pungent plumy blast. —From the rock of Gibraltar... all the way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered with or abounding in plumes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They dispersed about the room, reminding me, by the lightness and buoyancy of their movements, of a flock of white plumy birds."*
+> - 📜 **James Joyce (*Ulysses*):** *"He puffed a pungent plumy blast. —From the rock of Gibraltar... all the way."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # divulgement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of disclosing something that was secret or private.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of disclosing something that was secret or private.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divulgement designates the act of disclosing something that was secret or private."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of disclosing something that was secret or private.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of disclosing something that was secret or private.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divulgement designates the act of disclosing something that was secret or private."*

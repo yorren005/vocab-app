@@ -5,13 +5,6 @@ status: unread
 ---
 # homomorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homomorphism designates a mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homomorphism designates a mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set."*

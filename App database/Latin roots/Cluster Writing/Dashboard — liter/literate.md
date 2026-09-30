@@ -5,13 +5,6 @@ status: unread
 ---
 # literate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who can read and write.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to read and write.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"One wit remarked that whatever the ability to read or write may have been at the time, almost everyone seemed to have been literate when presented with a bog-house wall: "Since all who come to Bog-house write" (pt. 2, p. 26)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who can read and write.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to read and write.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"One wit remarked that whatever the ability to read or write may have been at the time, almost everyone seemed to have been literate when presented with a bog-house wall: "Since all who come to Bog-house write" (pt. 2, p. 26)."*

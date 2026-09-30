@@ -5,13 +5,6 @@ status: unread
 ---
 # rancher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owns or operates a ranch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owns or operates a ranch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In the question of the grazing lands his peevish asperity is notorious and in Mr Cuffe’s hearing brought upon him from an indignant rancher a scathing retort couched in terms as straightforward as they were bucolic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owns or operates a ranch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owns or operates a ranch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In the question of the grazing lands his peevish asperity is notorious and in Mr Cuffe’s hearing brought upon him from an indignant rancher a scathing retort couched in terms as straightforward as they were bucolic."*

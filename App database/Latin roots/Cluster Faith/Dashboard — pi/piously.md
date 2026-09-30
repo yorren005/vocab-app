@@ -5,15 +5,6 @@ status: unread
 ---
 # piously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a devout and pious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a devout and pious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Primitive customs always take on a religious sanction, and every member of the tribe is piously bound to do as his fathers have done and as his neighbors are doing."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a devout and pious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a devout and pious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Primitive customs always take on a religious sanction, and every member of the tribe is piously bound to do as his fathers have done and as his neighbors are doing."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce."*

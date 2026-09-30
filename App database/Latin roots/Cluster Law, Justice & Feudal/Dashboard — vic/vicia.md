@@ -5,13 +5,6 @@ status: unread
 ---
 # vicia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed genus of annual or perennial and often climbing herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed genus of annual or perennial and often climbing herbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VETCH BRAND; sori few and small, scattered, intermixed with pustules of _Trichobasis_; sporidia obovate, on rather long pedicels, of a tawny colour, and slightly constricted at the septum; epispore smooth.—On leaves of _Vicia sepium_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed genus of annual or perennial and often climbing herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed genus of annual or perennial and often climbing herbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VETCH BRAND; sori few and small, scattered, intermixed with pustules of _Trichobasis_; sporidia obovate, on rather long pedicels, of a tawny colour, and slightly constricted at the septum; epispore smooth.—On leaves of _Vicia sepium_."*

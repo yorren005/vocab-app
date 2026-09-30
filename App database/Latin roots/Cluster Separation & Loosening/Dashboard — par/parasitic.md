@@ -5,15 +5,6 @@ status: unread
 ---
 # parasitic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to epenthesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Those creatures are parasitic.” “I am so glad I know that you do not like them,” said good Sir James."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, in the Swiss canton of Aargau "all parasitic plants are esteemed in a certain sense holy by the country folk, but most particularly so the mistletoe growing on an oak."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: Rosemary also did I understand you to say or willpower over parasitic tissues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to epenthesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Those creatures are parasitic.” “I am so glad I know that you do not like them,” said good Sir James."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, in the Swiss canton of Aargau "all parasitic plants are esteemed in a certain sense holy by the country folk, but most particularly so the mistletoe growing on an oak."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: Rosemary also did I understand you to say or willpower over parasitic tissues."*

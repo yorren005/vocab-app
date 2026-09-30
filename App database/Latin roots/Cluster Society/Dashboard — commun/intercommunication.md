@@ -5,13 +5,6 @@ status: unread
 ---
 # intercommunication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual communication; communication with each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual communication; communication with each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercommunication designates mutual communication; communication with each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual communication; communication with each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual communication; communication with each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercommunication designates mutual communication; communication with each other."*

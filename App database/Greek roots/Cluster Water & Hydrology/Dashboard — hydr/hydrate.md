@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply with ample fluid or moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to take up or combine with water or the elements of water : to make into a hydrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrate designates to supply with ample fluid or moisture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply with ample fluid or moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to take up or combine with water or the elements of water : to make into a hydrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrate designates to supply with ample fluid or moisture."*

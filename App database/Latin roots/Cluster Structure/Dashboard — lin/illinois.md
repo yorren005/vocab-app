@@ -5,15 +5,6 @@ status: unread
 ---
 # illinois
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midwestern state in north-central united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the algonquian people formerly of illinois and regions to the west.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The first case of this kind was the grant to the Illinois Central road, in 1850, of a great strip of land through the state from north to south."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of the Western states, notably Illinois and Iowa, developed in the seventies commissions of "the strong type," with power to fix rates and to enforce their rulings."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"One center of grievances was in "the granger states' of Illinois, Wisconsin, Kansas, Nebraska, Iowa, and Minnesota; another center was in the oil regions of Ohio and Pennsylvania."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A midwestern state in north-central united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the algonquian people formerly of illinois and regions to the west.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The first case of this kind was the grant to the Illinois Central road, in 1850, of a great strip of land through the state from north to south."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of the Western states, notably Illinois and Iowa, developed in the seventies commissions of "the strong type," with power to fix rates and to enforce their rulings."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"One center of grievances was in "the granger states' of Illinois, Wisconsin, Kansas, Nebraska, Iowa, and Minnesota; another center was in the oil regions of Ohio and Pennsylvania."*

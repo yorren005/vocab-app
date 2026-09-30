@@ -5,13 +5,6 @@ status: unread
 ---
 # lampshade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective ornamental shade used to screen a light bulb from direct view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective ornamental shade used to screen a light bulb from direct view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampshade designates a protective ornamental shade used to screen a light bulb from direct view."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective ornamental shade used to screen a light bulb from direct view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective ornamental shade used to screen a light bulb from direct view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampshade designates a protective ornamental shade used to screen a light bulb from direct view."*

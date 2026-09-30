@@ -5,15 +5,6 @@ status: unread
 ---
 # decoction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) the extraction of water-soluble drug substances by boiling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pharmacology) the extraction of water-soluble drug substances by boiling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ultimately he was reduced well-nigh to a homogeneous sop, and a decoction of his person trickled down and stood in a pool at the foot of the ladder."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) the extraction of water-soluble drug substances by boiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pharmacology) the extraction of water-soluble drug substances by boiling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ultimately he was reduced well-nigh to a homogeneous sop, and a decoction of his person trickled down and stood in a pool at the foot of the ladder."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*

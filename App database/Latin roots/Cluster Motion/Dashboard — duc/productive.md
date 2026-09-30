@@ -5,15 +5,6 @@ status: unread
 ---
 # productive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing (especially abundantly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to produce or originate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"After unspeakable suffering, productive of the utmost consternation, she is pronounced, by expresses from the bedroom, free from pain, though much exhausted, in which state of affairs Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Productive services of banks. § 13."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is supposed to be not merely an unequal and mistaken distribution of production, but a general excess of productive power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing (especially abundantly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to produce or originate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"After unspeakable suffering, productive of the utmost consternation, she is pronounced, by expresses from the bedroom, free from pain, though much exhausted, in which state of affairs Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Productive services of banks. § 13."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is supposed to be not merely an unequal and mistaken distribution of production, but a general excess of productive power."*

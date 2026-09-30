@@ -5,15 +5,6 @@ status: unread
 ---
 # observed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a history in all men’s lives Figuring the natures of the times deceased; The which observed, a man may prophesy, With a near aim, of the main chance of things As yet not come to life, who in their seeds And weak beginning lie intreasured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His temper therefore must be well observed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard your guilty rhymes, observed your fashion, Saw sighs reek from you, noted well your passion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a history in all men’s lives Figuring the natures of the times deceased; The which observed, a man may prophesy, With a near aim, of the main chance of things As yet not come to life, who in their seeds And weak beginning lie intreasured."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His temper therefore must be well observed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard your guilty rhymes, observed your fashion, Saw sighs reek from you, noted well your passion."*

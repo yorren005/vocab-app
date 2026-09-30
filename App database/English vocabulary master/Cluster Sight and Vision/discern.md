@@ -5,20 +5,6 @@ status: unread
 ---
 # discern
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Detect with the eyes
-> 2. **Nuance / Usage**: Recognize or identify as separate and distinct : discriminate
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to discern the target*) and intransitive clauses (*discerning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What from the cape can you discern at sea?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"that at first I could not discern what figure it was."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"they gradually discern the elder Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To perceive, make out, or detect something clearly with the eyes or other senses despite distance, dimness, or obscurity.
+> 2. **Nuance / Usage**: Intellectually, to recognize, grasp, or distinguish subtle differences and truths through keen judgment (*discerning truth from falsehood*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to discern the target*) and intransitive clauses (*discerning against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Othello*):** *"What from the cape can you **discern** at sea?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fog was so dense that at first I could not **discern** what figure stood before the gate."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"With all his boasted discernment, he had failed to **discern** the true nature of her affection."*

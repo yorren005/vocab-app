@@ -5,13 +5,6 @@ status: unread
 ---
 # misogynist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A misanthrope who dislikes women in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A misanthrope who dislikes women in particular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynist designates a misanthrope who dislikes women in particular."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A misanthrope who dislikes women in particular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A misanthrope who dislikes women in particular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynist designates a misanthrope who dislikes women in particular."*

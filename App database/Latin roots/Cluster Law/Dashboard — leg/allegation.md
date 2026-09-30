@@ -5,15 +5,6 @@ status: unread
 ---
 # allegation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal accusation against somebody (often in a court of law).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Suffolk, Buckingham, and York, Reprove my allegation if you can, Or else conclude my words effectual."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same allegation of inevitableness was once commonly made of discriminatory railroad rates and rebates, evils which have been in large part remedied only since the period 1903-1906, when at last intelligent action was taken."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am in a condition to prove my allegation: an insuperable impediment to this marriage exists.” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal accusation against somebody (often in a court of law).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Suffolk, Buckingham, and York, Reprove my allegation if you can, Or else conclude my words effectual."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same allegation of inevitableness was once commonly made of discriminatory railroad rates and rebates, evils which have been in large part remedied only since the period 1903-1906, when at last intelligent action was taken."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am in a condition to prove my allegation: an insuperable impediment to this marriage exists.” Mr."*

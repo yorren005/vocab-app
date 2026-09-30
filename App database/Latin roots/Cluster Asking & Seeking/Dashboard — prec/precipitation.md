@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity of water falling to earth at a specific place within a specified period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of forming a chemical precipitate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them pull all about mine ears, present me Death on the wheel or at wild horses’ heels, Or pile ten hills on the Tarpeian rock, That the precipitation might down stretch Below the beam of sight, yet will I still Be thus to them."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"It was a foolish precipitation last Christmas, but the evil of a few days may be blotted out in part."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Such might be the consequences of my frantic precipitation, and these it was necessary, if possible, to prevent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity of water falling to earth at a specific place within a specified period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of forming a chemical precipitate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them pull all about mine ears, present me Death on the wheel or at wild horses’ heels, Or pile ten hills on the Tarpeian rock, That the precipitation might down stretch Below the beam of sight, yet will I still Be thus to them."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"It was a foolish precipitation last Christmas, but the evil of a few days may be blotted out in part."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Such might be the consequences of my frantic precipitation, and these it was necessary, if possible, to prevent."*

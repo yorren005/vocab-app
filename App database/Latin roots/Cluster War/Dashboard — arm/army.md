@@ -5,15 +5,6 @@ status: unread
 ---
 # army
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent organization of the military land forces of a nation or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large number of people united for some specific purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, with a drum and colours, a party of the Florentine army, Bertram and Parolles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be whipped through the army with this rhyme in’s forehead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent organization of the military land forces of a nation or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large number of people united for some specific purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, with a drum and colours, a party of the Florentine army, Bertram and Parolles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be whipped through the army with this rhyme in’s forehead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*

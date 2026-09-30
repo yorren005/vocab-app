@@ -5,15 +5,6 @@ status: unread
 ---
 # unnatural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in accordance with or determined by nature; contrary to nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not normal; not typical or usual or regular or conforming to a norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I have heard him speak of that same brother, And he did render him the most unnatural That lived amongst men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And well he might so do, For well I know he was unnatural."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in accordance with or determined by nature; contrary to nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not normal; not typical or usual or regular or conforming to a norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I have heard him speak of that same brother, And he did render him the most unnatural That lived amongst men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And well he might so do, For well I know he was unnatural."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own."*

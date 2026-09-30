@@ -5,13 +5,6 @@ status: unread
 ---
 # reversioner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a party who is entitled to an estate in reversion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a party who is entitled to an estate in reversion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversioner designates (law) a party who is entitled to an estate in reversion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a party who is entitled to an estate in reversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a party who is entitled to an estate in reversion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversioner designates (law) a party who is entitled to an estate in reversion."*

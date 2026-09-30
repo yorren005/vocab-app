@@ -5,15 +5,6 @@ status: unread
 ---
 # facet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct feature or element in a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth surface (as of a bone or cut gemstone).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the larger and older jewels every facet may stand for a bloody deed."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"And you vary more, you're not always the same, you have more facets: one can see you've done all sorts of things and mixed with all sorts of people."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some reflected the light of day upon a thousand crystal facets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct feature or element in a problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth surface (as of a bone or cut gemstone).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the larger and older jewels every facet may stand for a bloody deed."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"And you vary more, you're not always the same, you have more facets: one can see you've done all sorts of things and mixed with all sorts of people."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some reflected the light of day upon a thousand crystal facets."*

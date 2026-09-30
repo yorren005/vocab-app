@@ -5,13 +5,6 @@ status: unread
 ---
 # factory-made
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced in quantity at a factory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced in quantity at a factory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factory-made designates produced in quantity at a factory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced in quantity at a factory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced in quantity at a factory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factory-made designates produced in quantity at a factory."*

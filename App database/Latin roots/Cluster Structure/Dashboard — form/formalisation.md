@@ -5,13 +5,6 @@ status: unread
 ---
 # formalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making formal (as by stating formal rules governing classes of expressions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making formal (as by stating formal rules governing classes of expressions).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalisation designates the act of making formal (as by stating formal rules governing classes of expressions)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making formal (as by stating formal rules governing classes of expressions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making formal (as by stating formal rules governing classes of expressions).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalisation designates the act of making formal (as by stating formal rules governing classes of expressions)."*

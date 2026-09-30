@@ -5,13 +5,6 @@ status: unread
 ---
 # archespore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive cell or group of cells from which a mother cell develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive cell or group of cells from which a mother cell develops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archespore designates primitive cell or group of cells from which a mother cell develops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive cell or group of cells from which a mother cell develops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive cell or group of cells from which a mother cell develops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archespore designates primitive cell or group of cells from which a mother cell develops."*

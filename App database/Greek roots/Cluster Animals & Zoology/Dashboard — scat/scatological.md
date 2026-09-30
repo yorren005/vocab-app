@@ -5,13 +5,6 @@ status: unread
 ---
 # scatological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing pruriently with excrement and excretory functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dealing pruriently with excrement and excretory functions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Only the scatological humor of the subtitle: _A Companion for the Close-stool._ Consisting of Original Pieces in Prose and Verse by several Modern Authors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing pruriently with excrement and excretory functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dealing pruriently with excrement and excretory functions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Only the scatological humor of the subtitle: _A Companion for the Close-stool._ Consisting of Original Pieces in Prose and Verse by several Modern Authors."*

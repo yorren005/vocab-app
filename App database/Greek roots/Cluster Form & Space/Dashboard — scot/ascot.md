@@ -5,15 +5,6 @@ status: unread
 ---
 # ascot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cravat with wide square ends; secured with an ornamental pin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cravat with wide square ends; secured with an ornamental pin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Better leave him the paper and get shut of him. —You can keep it, Mr Bloom said. —Ascot."*
-> - 📜 **James Joyce (*Ulysses*):** *"While the other was reading it on page two Boom (to give him for the nonce his new misnomer) whiled away a few odd leisure moments in fits and starts with the account of the third event at Ascot on page three, his side."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Would you like to go to Ascot, Alice?” Alice answered, as she felt Lucian wished her to answer, that she had never been to a race, and that she had no desire to go to one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cravat with wide square ends; secured with an ornamental pin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cravat with wide square ends; secured with an ornamental pin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Better leave him the paper and get shut of him. —You can keep it, Mr Bloom said. —Ascot."*
+> - 📜 **James Joyce (*Ulysses*):** *"While the other was reading it on page two Boom (to give him for the nonce his new misnomer) whiled away a few odd leisure moments in fits and starts with the account of the third event at Ascot on page three, his side."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Would you like to go to Ascot, Alice?” Alice answered, as she felt Lucian wished her to answer, that she had never been to a race, and that she had no desire to go to one."*

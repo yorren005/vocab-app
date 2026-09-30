@@ -5,13 +5,6 @@ status: unread
 ---
 # heptane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptane designates a colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptane designates a colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # orthodoxy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being orthodox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orthodox belief or practice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then Orthodoxy yet may prance, An’ Learning in a woody dance, An’ that fell cur ca’d Common Sense, That bites sae sair, Be banished o’er the sea to France: Let him bark there."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Holy Willie was a rather oldish bachelor elder, in the parish of Mauchline, and much and justly famed for that polemical chattering, which ends in tippling orthodoxy, and for that spiritualized bawdry which refines to liquorish devotion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being orthodox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orthodox belief or practice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then Orthodoxy yet may prance, An’ Learning in a woody dance, An’ that fell cur ca’d Common Sense, That bites sae sair, Be banished o’er the sea to France: Let him bark there."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Holy Willie was a rather oldish bachelor elder, in the parish of Mauchline, and much and justly famed for that polemical chattering, which ends in tippling orthodoxy, and for that spiritualized bawdry which refines to liquorish devotion."*

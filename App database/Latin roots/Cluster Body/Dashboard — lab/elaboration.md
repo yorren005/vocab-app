@@ -5,15 +5,6 @@ status: unread
 ---
 # elaboration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addition of extra material or illustration or clarifying detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The result of improving something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now,” she adds, “show me the spot again!” Jo thrusts the handle of his broom between the bars of the gate, and with his utmost power of elaboration, points it out."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"More subtle forms are drawn with greater elaboration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Addition of extra material or illustration or clarifying detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The result of improving something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now,” she adds, “show me the spot again!” Jo thrusts the handle of his broom between the bars of the gate, and with his utmost power of elaboration, points it out."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"More subtle forms are drawn with greater elaboration."*

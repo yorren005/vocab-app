@@ -5,13 +5,6 @@ status: unread
 ---
 # tortoiseshell-cat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cat having black and cream-colored and yellowish markings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cat having black and cream-colored and yellowish markings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortoiseshell-cat designates a cat having black and cream-colored and yellowish markings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cat having black and cream-colored and yellowish markings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cat having black and cream-colored and yellowish markings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortoiseshell-cat designates a cat having black and cream-colored and yellowish markings."*

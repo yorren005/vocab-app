@@ -5,15 +5,6 @@ status: unread
 ---
 # optimum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most favorable conditions or greatest degree or amount possible under given circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most desirable possible under a restriction expressed or implied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am convinced that the UIPS military forces, once they attain optimum strength, will attempt to crush me, or at the least, dominate the Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Launch fighters as soon as the INOR fleet is in optimum range."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." Optimum range was closing for particle beamers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most favorable conditions or greatest degree or amount possible under given circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most desirable possible under a restriction expressed or implied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am convinced that the UIPS military forces, once they attain optimum strength, will attempt to crush me, or at the least, dominate the Zone."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Launch fighters as soon as the INOR fleet is in optimum range."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." Optimum range was closing for particle beamers."*

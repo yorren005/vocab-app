@@ -5,13 +5,6 @@ status: unread
 ---
 # canecutter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wood rabbit of southeastern united states swamps and lowlands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wood rabbit of southeastern united states swamps and lowlands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canecutter designates a wood rabbit of southeastern united states swamps and lowlands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wood rabbit of southeastern united states swamps and lowlands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wood rabbit of southeastern united states swamps and lowlands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canecutter designates a wood rabbit of southeastern united states swamps and lowlands."*

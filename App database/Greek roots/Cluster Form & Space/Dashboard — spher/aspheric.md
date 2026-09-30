@@ -5,13 +5,6 @@ status: unread
 ---
 # aspheric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Departing slightly from the spherical form especially in order to correct for spherical aberration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing slightly from the spherical form especially in order to correct for spherical aberration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspheric designates departing slightly from the spherical form especially in order to correct for spherical aberration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Departing slightly from the spherical form especially in order to correct for spherical aberration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing slightly from the spherical form especially in order to correct for spherical aberration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspheric designates departing slightly from the spherical form especially in order to correct for spherical aberration."*

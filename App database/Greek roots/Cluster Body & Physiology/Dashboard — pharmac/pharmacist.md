@@ -5,14 +5,6 @@ status: unread
 ---
 # pharmacist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A health professional trained in the art of preparing and dispensing drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A health professional trained in the art of preparing and dispensing drugs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The popular doctor believes in his prescription, and the pharmacist believes in the power of his drugs to save a man's 166:12 life."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Mohammedan's belief is a religious delusion; the doctor's and pharmacist's is a medical mistake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A health professional trained in the art of preparing and dispensing drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A health professional trained in the art of preparing and dispensing drugs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The popular doctor believes in his prescription, and the pharmacist believes in the power of his drugs to save a man's 166:12 life."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Mohammedan's belief is a religious delusion; the doctor's and pharmacist's is a medical mistake."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # regretfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regret (used in polite formulas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regret (used in polite formulas).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is falling down again," said Leonore regretfully."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You and I are very different creatures.” He spoke regretfully and lapsed for a moment into his weary condition."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The men who sat nearest considerately turned their faces towards the other end of the field, some of them beginning to smoke; one, with absent-minded fondness, regretfully stroking the jar that would no longer yield a stream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regret (used in polite formulas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regret (used in polite formulas).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is falling down again," said Leonore regretfully."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You and I are very different creatures.” He spoke regretfully and lapsed for a moment into his weary condition."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The men who sat nearest considerately turned their faces towards the other end of the field, some of them beginning to smoke; one, with absent-minded fondness, regretfully stroking the jar that would no longer yield a stream."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parsons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sociologist (1902-1979).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But, what with the parsons and clerks and school-people and serious tea-parties, the merry old ways of good life have gone to the dogs—upon my carcase, they have!” “Well, really, I must be onward again now,” said Joseph."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The same unworldliness was what had necessitated Angel’s getting a living as a farmer, and would probably keep his brothers in the position of poor parsons for the term of their activities; yet Angel admired it none the less."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Do you remember Hawkins Browne’s ‘Address to Tobacco,’ in imitation of Pope?— Blest leaf! whose aromatic gales dispense To Templars modesty, to Parsons sense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sociologist (1902-1979).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But, what with the parsons and clerks and school-people and serious tea-parties, the merry old ways of good life have gone to the dogs—upon my carcase, they have!” “Well, really, I must be onward again now,” said Joseph."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The same unworldliness was what had necessitated Angel’s getting a living as a farmer, and would probably keep his brothers in the position of poor parsons for the term of their activities; yet Angel admired it none the less."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Do you remember Hawkins Browne’s ‘Address to Tobacco,’ in imitation of Pope?— Blest leaf! whose aromatic gales dispense To Templars modesty, to Parsons sense."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # melodiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a melodious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a melodious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Where the birds sing melodiously."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In answer to Richard’s inquiry from whom they came, he briefly answered, “Master, sir, if you please”; and putting on his hat again (which was like a soft bowl), cracked his whip, re-awakened his music, and went melodiously away."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"An ineffable intonation melodiously spoke: "It opes to a key that is golden, Within it a spirit lies folden, The soul of all matchless delight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a melodious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a melodious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Where the birds sing melodiously."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In answer to Richard’s inquiry from whom they came, he briefly answered, “Master, sir, if you please”; and putting on his hat again (which was like a soft bowl), cracked his whip, re-awakened his music, and went melodiously away."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"An ineffable intonation melodiously spoke: "It opes to a key that is golden, Within it a spirit lies folden, The soul of all matchless delight."*

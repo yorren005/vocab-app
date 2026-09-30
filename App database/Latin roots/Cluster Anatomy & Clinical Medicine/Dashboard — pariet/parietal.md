@@ -5,14 +5,6 @@ status: unread
 ---
 # parietal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or associated with the parietal bones in the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or associated with the parietal bones in the cranium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the surgeon’s deposition it was stated that the posterior third of the left parietal bone and the left half of the occipital bone had been shattered by a heavy blow from a blunt weapon."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Would you have any objection to my running my finger along your parietal fissure?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or associated with the parietal bones in the cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or associated with the parietal bones in the cranium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the surgeon’s deposition it was stated that the posterior third of the left parietal bone and the left half of the occipital bone had been shattered by a heavy blow from a blunt weapon."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Would you have any objection to my running my finger along your parietal fissure?"*

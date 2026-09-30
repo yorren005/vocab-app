@@ -5,15 +5,6 @@ status: unread
 ---
 # immovably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be incapable of moving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be incapable of moving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her hand often lay immovably on these, while she absently looked in front of her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter looked immovably at the little girl, while tears were coursing down her cheeks."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had long ago observed them and stood immovably behind the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be incapable of moving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be incapable of moving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her hand often lay immovably on these, while she absently looked in front of her."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter looked immovably at the little girl, while tears were coursing down her cheeks."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had long ago observed them and stood immovably behind the door."*

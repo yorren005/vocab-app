@@ -5,15 +5,6 @@ status: unread
 ---
 # spice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic substances of vegetable origin used as a preservative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of pungent aromatic vegetable substances used for flavoring food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me, I would, And venture maidenhead for’t; and so would you, For all this spice of your hypocrisy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and such like, the spice and salt that season a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prosper you, sweet sir! [_Exit Clown._] Your purse is not hot enough to purchase your spice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic substances of vegetable origin used as a preservative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of pungent aromatic vegetable substances used for flavoring food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me, I would, And venture maidenhead for’t; and so would you, For all this spice of your hypocrisy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and such like, the spice and salt that season a man?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prosper you, sweet sir! [_Exit Clown._] Your purse is not hot enough to purchase your spice."*

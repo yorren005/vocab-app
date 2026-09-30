@@ -5,15 +5,6 @@ status: unread
 ---
 # mere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pond of standing water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being nothing more than specified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, surely, mere the truth; I know his lady."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The loyalty well held to fools does make Our faith mere folly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pond of standing water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being nothing more than specified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, surely, mere the truth; I know his lady."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The loyalty well held to fools does make Our faith mere folly."*

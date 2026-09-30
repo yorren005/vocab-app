@@ -5,15 +5,6 @@ status: unread
 ---
 # idolater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worshipper of idols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person that admires intensely and often blindly one that is not usually a subject of worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Idolatrous illusions 214:18 We bow down to matter, and entertain finite thoughts of God like the pagan idolater."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worshipper of idols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person that admires intensely and often blindly one that is not usually a subject of worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Idolatrous illusions 214:18 We bow down to matter, and entertain finite thoughts of God like the pagan idolater."*

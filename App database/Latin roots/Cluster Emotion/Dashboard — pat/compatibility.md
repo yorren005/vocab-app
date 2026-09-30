@@ -5,15 +5,6 @@ status: unread
 ---
 # compatibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sympathetic understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of existing or performing in harmonious or congenial combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You mentioned 'three men and three women'; your mission can not exclude gender compatibility consistent with the prevailing psychosocial construct -- this is what we are."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With voluntary participation, concern about temperament compatibility need not be a problem."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Among these drastic and far-reaching changes, parachute compatibility with aircraft was one among thousands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sympathetic understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of existing or performing in harmonious or congenial combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You mentioned 'three men and three women'; your mission can not exclude gender compatibility consistent with the prevailing psychosocial construct -- this is what we are."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With voluntary participation, concern about temperament compatibility need not be a problem."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Among these drastic and far-reaching changes, parachute compatibility with aircraft was one among thousands."*

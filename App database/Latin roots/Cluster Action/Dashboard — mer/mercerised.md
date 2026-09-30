@@ -5,13 +5,6 @@ status: unread
 ---
 # mercerised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerised designates treat to strengthen and improve the luster."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerised designates treat to strengthen and improve the luster."*

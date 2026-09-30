@@ -5,13 +5,6 @@ status: unread
 ---
 # calloused
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make insensitive or callous; deaden feelings or morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having calluses; having skin made tough and thick through wear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hard work makes calloused hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make insensitive or callous; deaden feelings or morals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having calluses; having skin made tough and thick through wear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hard work makes calloused hands."*

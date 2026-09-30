@@ -5,13 +5,6 @@ status: unread
 ---
 # auriga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriga designates a conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriga designates a conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way."*

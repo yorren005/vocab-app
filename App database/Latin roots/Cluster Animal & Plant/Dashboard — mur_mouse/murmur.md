@@ -5,15 +5,6 @@ status: unread
 ---
 # murmur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schwa that is incidental to the pronunciation of a consonant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thy faint slumbers I by thee have watch’d, And heard thee murmur tales of iron wars, Speak terms of manage to thy bounding steed, Cry “Courage!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fresh streams ran by her, and murmur’d her moans, Sing willow, willow, willow; Her salt tears fell from her, and soften’d the stones;—_ Lay by these:— [_Sings._] _Sing willow, willow, willow._ Prithee hie thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schwa that is incidental to the pronunciation of a consonant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thy faint slumbers I by thee have watch’d, And heard thee murmur tales of iron wars, Speak terms of manage to thy bounding steed, Cry “Courage!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fresh streams ran by her, and murmur’d her moans, Sing willow, willow, willow; Her salt tears fell from her, and soften’d the stones;—_ Lay by these:— [_Sings._] _Sing willow, willow, willow._ Prithee hie thee."*

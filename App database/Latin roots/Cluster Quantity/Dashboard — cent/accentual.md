@@ -5,13 +5,6 @@ status: unread
 ---
 # accentual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to accent or stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of verse) having a metric system based on stress rather than syllables or quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accentual designates of or pertaining to accent or stress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to accent or stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of verse) having a metric system based on stress rather than syllables or quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accentual designates of or pertaining to accent or stress."*

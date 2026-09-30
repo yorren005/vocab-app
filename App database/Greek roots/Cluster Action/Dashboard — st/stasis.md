@@ -5,13 +5,6 @@ status: unread
 ---
 # stasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowing or stoppage of the normal flow of a bodily fluid or semifluid: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slowing of the current of circulating blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stasis designates a slowing or stoppage of the normal flow of a bodily fluid or semifluid: such as."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowing or stoppage of the normal flow of a bodily fluid or semifluid: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slowing of the current of circulating blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stasis designates a slowing or stoppage of the normal flow of a bodily fluid or semifluid: such as."*

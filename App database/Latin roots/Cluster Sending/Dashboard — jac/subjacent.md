@@ -5,13 +5,6 @@ status: unread
 ---
 # subjacent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying nearby but lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying nearby but lower.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The stem now rapidly putrefies, the cuticle and its subjacent tissue become pulpy, and separate when touched from the woody parts beneath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying nearby but lower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying nearby but lower.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The stem now rapidly putrefies, the cuticle and its subjacent tissue become pulpy, and separate when touched from the woody parts beneath."*

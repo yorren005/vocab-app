@@ -5,15 +5,6 @@ status: unread
 ---
 # doll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small replica of a person; used as a toy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a (young) woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you have Doll Tearsheet meet you at supper?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None, my lord, but old Mistress Quickly and Mistress Doll Tearsheet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fare you well; go. [_Exeunt Bardolph and Page._] This Doll Tearsheet should be some road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small replica of a person; used as a toy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a (young) woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you have Doll Tearsheet meet you at supper?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None, my lord, but old Mistress Quickly and Mistress Doll Tearsheet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fare you well; go. [_Exeunt Bardolph and Page._] This Doll Tearsheet should be some road."*

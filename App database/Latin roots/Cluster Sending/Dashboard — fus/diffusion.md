@@ -5,15 +5,6 @@ status: unread
 ---
 # diffusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the process in which there is movement of a substance from an area of high concentration of that substance to an area of lower concentration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of social institutions (and myths and skills) from one society to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There seemed a general diffusion of cheerfulness on the occasion."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Rapid currents bearing all these gases in diffusion and torrents of lava slid to the bottom of the mountain like an eruption of Vesuvius on another Terra del Greco."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only in our self-confident day of the popularization of knowledge—thanks to that most powerful engine of ignorance, the diffusion of printed matter—has the question of the freedom of will been put on a level on which the question itself cannot exist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the process in which there is movement of a substance from an area of high concentration of that substance to an area of lower concentration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of social institutions (and myths and skills) from one society to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"There seemed a general diffusion of cheerfulness on the occasion."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Rapid currents bearing all these gases in diffusion and torrents of lava slid to the bottom of the mountain like an eruption of Vesuvius on another Terra del Greco."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only in our self-confident day of the popularization of knowledge—thanks to that most powerful engine of ignorance, the diffusion of printed matter—has the question of the freedom of will been put on a level on which the question itself cannot exist."*

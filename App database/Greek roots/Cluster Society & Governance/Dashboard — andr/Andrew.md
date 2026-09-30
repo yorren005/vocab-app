@@ -5,15 +5,6 @@ status: unread
 ---
 # andrew
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should not see the sandy hour-glass run But I should think of shallows and of flats, And see my wealthy Andrew dock’d in sand, Vailing her high top lower than her ribs To kiss her burial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wench! _Castiliano vulgo:_ for here comes Sir Andrew Agueface."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou let part so, Sir Andrew, would thou mightst never draw sword again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should not see the sandy hour-glass run But I should think of shallows and of flats, And see my wealthy Andrew dock’d in sand, Vailing her high top lower than her ribs To kiss her burial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wench! _Castiliano vulgo:_ for here comes Sir Andrew Agueface."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou let part so, Sir Andrew, would thou mightst never draw sword again."*

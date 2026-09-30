@@ -5,15 +5,6 @@ status: unread
 ---
 # degenerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose behavior deviates from what is acceptable especially in sexual behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow worse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that art like enough, through vassal fear, Base inclination, and the start of spleen, To fight against me under Percy’s pay, To dog his heels, and curtsy at his frowns, To show how much thou art degenerate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside_.] Oft have I heard that grief softens the mind And makes it fearful and degenerate; Think therefore on revenge and cease to weep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, faint-hearted and degenerate king, In whose cold blood no spark of honour bides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose behavior deviates from what is acceptable especially in sexual behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow worse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that art like enough, through vassal fear, Base inclination, and the start of spleen, To fight against me under Percy’s pay, To dog his heels, and curtsy at his frowns, To show how much thou art degenerate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside_.] Oft have I heard that grief softens the mind And makes it fearful and degenerate; Think therefore on revenge and cease to weep."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, faint-hearted and degenerate king, In whose cold blood no spark of honour bides."*

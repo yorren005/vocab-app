@@ -5,15 +5,6 @@ status: unread
 ---
 # egoistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in egoism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egocentric or egotistic person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s mind clad his most egoistic terrors in doctrinal references to superhuman ends."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s wishes about his son had had a great deal of pride, inconsiderateness, and egoistic folly in them."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"If we attempt a classification of Weltschmerz with regard to its essence, or, better perhaps, with regard to its origin, we shall find that the various types may be classed under one of two heads: either as cosmic or as egoistic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in egoism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egocentric or egotistic person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s mind clad his most egoistic terrors in doctrinal references to superhuman ends."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s wishes about his son had had a great deal of pride, inconsiderateness, and egoistic folly in them."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"If we attempt a classification of Weltschmerz with regard to its essence, or, better perhaps, with regard to its origin, we shall find that the various types may be classed under one of two heads: either as cosmic or as egoistic."*

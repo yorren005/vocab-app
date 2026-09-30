@@ -5,13 +5,6 @@ status: unread
 ---
 # adumbrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Describe roughly or briefly or give the main points or summary of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s doings in church this morning, miss?” Liddy continued, adumbrating by the remark the track her thoughts had taken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describe roughly or briefly or give the main points or summary of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s doings in church this morning, miss?” Liddy continued, adumbrating by the remark the track her thoughts had taken."*

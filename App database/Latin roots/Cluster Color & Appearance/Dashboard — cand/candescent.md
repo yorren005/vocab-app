@@ -5,13 +5,6 @@ status: unread
 ---
 # candescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glowing from great heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glowing from great heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Tranquility sudden, vast, candescent: form of forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glowing from great heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glowing from great heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Tranquility sudden, vast, candescent: form of forms."*

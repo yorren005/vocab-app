@@ -5,15 +5,6 @@ status: unread
 ---
 # suspension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture in which fine particles are suspended in a fluid where they are supported by buoyancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time interval during which there is a temporary cessation of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For a few seconds the wayfarer stood with that tense stillness which signifies itself to be not the end, but merely the suspension, of a previous motion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Patience and suspension of judgement for a few hours were what she wanted to learn, and there was nobody to teach her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It seemed to hold the moonlight in suspension, rendering it more pervasive than in clear air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture in which fine particles are suspended in a fluid where they are supported by buoyancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time interval during which there is a temporary cessation of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For a few seconds the wayfarer stood with that tense stillness which signifies itself to be not the end, but merely the suspension, of a previous motion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Patience and suspension of judgement for a few hours were what she wanted to learn, and there was nobody to teach her."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It seemed to hold the moonlight in suspension, rendering it more pervasive than in clear air."*

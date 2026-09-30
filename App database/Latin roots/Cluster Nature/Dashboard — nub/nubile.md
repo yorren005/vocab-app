@@ -5,13 +5,6 @@ status: unread
 ---
 # nubile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of girls or women who are eligible to marry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of girls or women who are eligible to marry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nubile designates of girls or women who are eligible to marry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of girls or women who are eligible to marry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of girls or women who are eligible to marry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nubile designates of girls or women who are eligible to marry."*

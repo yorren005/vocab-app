@@ -5,15 +5,6 @@ status: unread
 ---
 # suspect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is under suspicion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CORNELIUS. [_Aside._] I do suspect you, madam; But you shall do no harm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is under suspicion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CORNELIUS. [_Aside._] I do suspect you, madam; But you shall do no harm."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # electrosleep
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrosleep designates unconsciousness brought about by the passage of a low voltage electric current through the brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrosleep designates unconsciousness brought about by the passage of a low voltage electric current through the brain."*

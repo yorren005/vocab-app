@@ -5,14 +5,6 @@ status: unread
 ---
 # rase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear down so as to make flat with the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tear down so as to make flat with the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistake me not, my lord, ’tis not my meaning To rase one title of your honour out."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It may hate him who dares to scrutinise and expose—to rase the gilding, and show base metal under it—to penetrate the sepulchre, and reveal charnel relics: but hate as it will, it is indebted to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear down so as to make flat with the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tear down so as to make flat with the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistake me not, my lord, ’tis not my meaning To rase one title of your honour out."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It may hate him who dares to scrutinise and expose—to rase the gilding, and show base metal under it—to penetrate the sepulchre, and reveal charnel relics: but hate as it will, it is indebted to him."*

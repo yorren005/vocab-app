@@ -5,13 +5,6 @@ status: unread
 ---
 # cachexia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: General physical wasting and malnutrition usually associated with chronic disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General physical wasting and malnutrition usually associated with chronic disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cachexia designates general physical wasting and malnutrition usually associated with chronic disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: General physical wasting and malnutrition usually associated with chronic disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General physical wasting and malnutrition usually associated with chronic disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cachexia designates general physical wasting and malnutrition usually associated with chronic disease."*

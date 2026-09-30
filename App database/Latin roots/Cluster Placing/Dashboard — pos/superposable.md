@@ -5,13 +5,6 @@ status: unread
 ---
 # superposable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coinciding exactly when superimposed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coinciding exactly when superimposed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superposable designates coinciding exactly when superimposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coinciding exactly when superimposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coinciding exactly when superimposed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superposable designates coinciding exactly when superimposed."*

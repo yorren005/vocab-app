@@ -5,13 +5,6 @@ status: unread
 ---
 # carpetbagger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outsider who seeks power or success presumptuously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outsider who seeks power or success presumptuously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbagger designates an outsider who seeks power or success presumptuously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outsider who seeks power or success presumptuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outsider who seeks power or success presumptuously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbagger designates an outsider who seeks power or success presumptuously."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # endocentric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling the grammatical role of one of its constituents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fulfilling the grammatical role of one of its constituents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocentric designates fulfilling the grammatical role of one of its constituents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling the grammatical role of one of its constituents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fulfilling the grammatical role of one of its constituents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocentric designates fulfilling the grammatical role of one of its constituents."*

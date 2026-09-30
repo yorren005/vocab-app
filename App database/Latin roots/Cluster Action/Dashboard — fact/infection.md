@@ -5,15 +5,6 @@ status: unread
 ---
 # infection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The pathological state resulting from the invasion of the body by pathogenic microorganisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (phonetics) the alteration of a speech sound under the influence of a neighboring sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pursue him to his house, and pluck him thence, Lest his infection, being of catching nature, Spread further."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O master, what a strange infection Is fall’n into thy ear!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore, by His majesty I swear, Whose far unworthy deputy I am, He shall not breathe infection in this air But three days longer, on the pain of death. [_Exit Salisbury._] QUEEN MARGARET."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pathological state resulting from the invasion of the body by pathogenic microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (phonetics) the alteration of a speech sound under the influence of a neighboring sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pursue him to his house, and pluck him thence, Lest his infection, being of catching nature, Spread further."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O master, what a strange infection Is fall’n into thy ear!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore, by His majesty I swear, Whose far unworthy deputy I am, He shall not breathe infection in this air But three days longer, on the pain of death. [_Exit Salisbury._] QUEEN MARGARET."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # disrepute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in low esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being held in low esteem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Fraser, the tutor, died however, and the school which had begun well sank from disrepute into infamy."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They do much to bring the whole Negro race into disrepute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in low esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being held in low esteem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Fraser, the tutor, died however, and the school which had begun well sank from disrepute into infamy."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They do much to bring the whole Negro race into disrepute."*

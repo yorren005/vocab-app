@@ -5,13 +5,6 @@ status: unread
 ---
 # internment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confinement during wartime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of confining someone in a prison (or as if in a prison).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internment designates confinement during wartime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confinement during wartime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of confining someone in a prison (or as if in a prison).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internment designates confinement during wartime."*

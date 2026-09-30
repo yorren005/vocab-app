@@ -5,20 +5,6 @@ status: unread
 ---
 # portent
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Marvel, prodigy
-> 2. **Nuance / Usage**: Portending; significance
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the portent withstood the storm*), direct object (*cleaved the portent*), or prepositional anchor (*amidst the portent*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And these does she apply for warnings and portents And evils imminent; and on her knee Hath begg’d that I will stay at home today."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But when the planets In evil mixture to disorder wander, What plagues and what portents, what mutiny, What raging of the sea, shaking of earth, Commotion in the winds!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Still, now and then, I received a damping check to my cheerfulness; and was, in spite of myself, thrown back on the region of doubts and portents, and dark conjectures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Marvel, prodigy
+> 2. **Nuance / Usage**: Portending; significance
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the portent withstood the storm*), direct object (*cleaved the portent*), or prepositional anchor (*amidst the portent*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And these does she apply for warnings and portents And evils imminent; and on her knee Hath begg’d that I will stay at home today."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But when the planets In evil mixture to disorder wander, What plagues and what portents, what mutiny, What raging of the sea, shaking of earth, Commotion in the winds!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Still, now and then, I received a damping check to my cheerfulness; and was, in spite of myself, thrown back on the region of doubts and portents, and dark conjectures."*

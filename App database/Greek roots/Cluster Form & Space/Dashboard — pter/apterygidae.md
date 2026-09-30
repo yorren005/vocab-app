@@ -5,13 +5,6 @@ status: unread
 ---
 # apterygidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the order apterygiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the order apterygiformes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterygidae designates coextensive with the order apterygiformes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the order apterygiformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the order apterygiformes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterygidae designates coextensive with the order apterygiformes."*

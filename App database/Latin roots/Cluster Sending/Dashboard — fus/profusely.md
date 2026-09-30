@@ -5,15 +5,6 @@ status: unread
 ---
 # profusely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abundant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They say that they perspire profusely."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Its supports were of silver gilt, beautifully chased, and profusely set with enamelled and jewelled medallions."*
-> - 📜 **Effie Afton (*Eventide*):** *"All around profusely thrown; Bowing in her proudest temple, Beggared Art, we humbly own!" As Florence ceased she refolded the paper and placed it in her pocket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abundant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They say that they perspire profusely."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Its supports were of silver gilt, beautifully chased, and profusely set with enamelled and jewelled medallions."*
+> - 📜 **Effie Afton (*Eventide*):** *"All around profusely thrown; Bowing in her proudest temple, Beggared Art, we humbly own!" As Florence ceased she refolded the paper and placed it in her pocket."*

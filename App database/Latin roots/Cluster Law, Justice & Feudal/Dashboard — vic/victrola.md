@@ -5,15 +5,6 @@ status: unread
 ---
 # victrola
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand of gramophone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brand of gramophone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"They were speaking of the Victrola recently purchased for the Crow Hill school when Martin asked, "Have you ever heard Isabel Souders play?" "Yes, at Millersville."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis turned to Amanda--"Now you stay a while and hear our new pieces on the Victrola." "I'll help you with the dishes," she offered."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"You just go in the room and enjoy yourself." With little Katie leading the way and Martin following Amanda went to the sitting-room and sat down while Martin opened the Victrola."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand of gramophone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brand of gramophone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"They were speaking of the Victrola recently purchased for the Crow Hill school when Martin asked, "Have you ever heard Isabel Souders play?" "Yes, at Millersville."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis turned to Amanda--"Now you stay a while and hear our new pieces on the Victrola." "I'll help you with the dishes," she offered."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"You just go in the room and enjoy yourself." With little Katie leading the way and Martin following Amanda went to the sitting-room and sat down while Martin opened the Victrola."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heliotropic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phototropism in which sunlight is the orienting stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phototropism in which sunlight is the orienting stimulus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliotropic designates phototropism in which sunlight is the orienting stimulus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Phototropism in which sunlight is the orienting stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phototropism in which sunlight is the orienting stimulus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliotropic designates phototropism in which sunlight is the orienting stimulus."*

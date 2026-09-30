@@ -5,15 +5,6 @@ status: unread
 ---
 # cannonade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense and continuous artillery fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with cannons or artillery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The immortal tune ended, a fine DD rolling forth from the bass-viol with the sonorousness of a cannonade, and Gabriel delayed his entry no longer."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In spite of the serious cannonade, Captain Nemo did not appear on the platform; but, if one of the conical projectiles had struck the shell of the _Nautilus_, it would have been fatal."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He heard the cannonade behind him growing louder and more frequent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense and continuous artillery fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with cannons or artillery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The immortal tune ended, a fine DD rolling forth from the bass-viol with the sonorousness of a cannonade, and Gabriel delayed his entry no longer."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In spite of the serious cannonade, Captain Nemo did not appear on the platform; but, if one of the conical projectiles had struck the shell of the _Nautilus_, it would have been fatal."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He heard the cannonade behind him growing louder and more frequent."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bionic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bionics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having particular physiological functions augmented or replaced by electronic or electromechanical components.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Men, women and children in all shapes and sizes: tall, short, stocky, slender, organic, bionic, robotic, and combinations thereof."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bionics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having particular physiological functions augmented or replaced by electronic or electromechanical components.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Men, women and children in all shapes and sizes: tall, short, stocky, slender, organic, bionic, robotic, and combinations thereof."*

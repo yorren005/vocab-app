@@ -5,13 +5,6 @@ status: unread
 ---
 # lentibulariaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentibulariaceae designates carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentibulariaceae designates carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea."*

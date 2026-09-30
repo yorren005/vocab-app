@@ -5,13 +5,6 @@ status: unread
 ---
 # epicycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle in which a planet moves and which has a center that is itself carried around at the same time on the circumference of a larger circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process going on within a larger one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicycle designates a circle in which a planet moves and which has a center that is itself carried around at the same time on the circumference of a larger circle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle in which a planet moves and which has a center that is itself carried around at the same time on the circumference of a larger circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process going on within a larger one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicycle designates a circle in which a planet moves and which has a center that is itself carried around at the same time on the circumference of a larger circle."*

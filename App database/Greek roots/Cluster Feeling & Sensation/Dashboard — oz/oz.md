@@ -5,15 +5,6 @@ status: unread
 ---
 # oz
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ounce; ounces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideal or fantastical place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Frenchy" had about 16 ozs. of gold."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Details regarding the machine vary at different smelters; at one works the length is 30 feet, the rate of travel 8 inches per minute, and the vacuum in the suction chamber 6 ozs."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It may be stated roughly as being from 300 to 500 cubic feet of air per minute per square foot of hearth area, at a pressure of about 40 to 50 ozs. per square inch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ounce; ounces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideal or fantastical place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Frenchy" had about 16 ozs. of gold."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Details regarding the machine vary at different smelters; at one works the length is 30 feet, the rate of travel 8 inches per minute, and the vacuum in the suction chamber 6 ozs."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It may be stated roughly as being from 300 to 500 cubic feet of air per minute per square foot of hearth area, at a pressure of about 40 to 50 ozs. per square inch."*

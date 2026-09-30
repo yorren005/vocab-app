@@ -5,13 +5,6 @@ status: unread
 ---
 # chromophore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromophore designates a chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromophore designates a chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # inhume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a grave or tomb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a grave or tomb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhume designates place in a grave or tomb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a grave or tomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a grave or tomb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhume designates place in a grave or tomb."*

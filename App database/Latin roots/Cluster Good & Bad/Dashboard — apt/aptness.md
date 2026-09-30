@@ -5,15 +5,6 @@ status: unread
 ---
 # aptness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to behave in a certain way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriateness for the occasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was for herself that he loved Tess; her soul, her heart, her substance—not for her skill in the dairy, her aptness as his scholar, and certainly not for her simple formal faith-professions."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And I was in the Sixth Standard when I left school, and they said I had great aptness, and should make a good teacher, so it was settled that I should be one."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I commend the propriety and aptness of your researches, Atma Singh." So saying he withdrew with a salaam that failed to cover the swift scowl he bestowed on Bertram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to behave in a certain way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriateness for the occasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was for herself that he loved Tess; her soul, her heart, her substance—not for her skill in the dairy, her aptness as his scholar, and certainly not for her simple formal faith-professions."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And I was in the Sixth Standard when I left school, and they said I had great aptness, and should make a good teacher, so it was settled that I should be one."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"I commend the propriety and aptness of your researches, Atma Singh." So saying he withdrew with a salaam that failed to cover the swift scowl he bestowed on Bertram."*

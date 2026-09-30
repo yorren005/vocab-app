@@ -5,15 +5,6 @@ status: unread
 ---
 # radiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Energy that is radiated or transmitted in the form of rays or waves or particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spreading outward from a central source.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fireball had a two thousand-kay radius, and the piggybacked neutronic dispenser, once the cloud was released by the detonation, would inflict radiation death throughout tens of thousands of kay in all directions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They won't have time to form up even if they do escape the blast and radiation zones."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Barely beyond the fatal radiation zone the now distant warhead detonated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Energy that is radiated or transmitted in the form of rays or waves or particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spreading outward from a central source.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fireball had a two thousand-kay radius, and the piggybacked neutronic dispenser, once the cloud was released by the detonation, would inflict radiation death throughout tens of thousands of kay in all directions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They won't have time to form up even if they do escape the blast and radiation zones."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Barely beyond the fatal radiation zone the now distant warhead detonated."*

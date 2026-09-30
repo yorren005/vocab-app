@@ -5,13 +5,6 @@ status: unread
 ---
 # merchandiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson engaged in retail trade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson engaged in retail trade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchandiser designates a businessperson engaged in retail trade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson engaged in retail trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson engaged in retail trade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchandiser designates a businessperson engaged in retail trade."*

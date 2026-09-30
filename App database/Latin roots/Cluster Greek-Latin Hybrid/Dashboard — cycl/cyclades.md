@@ -5,15 +5,6 @@ status: unread
 ---
 # cyclades
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bronze age civilization on the cyclades islands in the southern aegean sea that flourished 3000-1100 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of over 200 islands in the southern aegean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Were this world an endless plain, and by sailing eastward we could for ever reach new distances, and discover sights more sweet and strange than any Cyclades or Islands of King Solomon, then there were promise in the voyage."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He is well known in all the Cyclades."*
-> - 📜 **John Milton (*Paradise Lost*):** *"As when by night the Glass Of _Galileo_, less assur’d, observes Imagind Lands and Regions in the Moon: Or Pilot from amidst the _Cyclades_ _Delos_ or _Samos_ first appeering kenns A cloudy spot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bronze age civilization on the cyclades islands in the southern aegean sea that flourished 3000-1100 bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of over 200 islands in the southern aegean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Were this world an endless plain, and by sailing eastward we could for ever reach new distances, and discover sights more sweet and strange than any Cyclades or Islands of King Solomon, then there were promise in the voyage."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He is well known in all the Cyclades."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As when by night the Glass Of _Galileo_, less assur’d, observes Imagind Lands and Regions in the Moon: Or Pilot from amidst the _Cyclades_ _Delos_ or _Samos_ first appeering kenns A cloudy spot."*

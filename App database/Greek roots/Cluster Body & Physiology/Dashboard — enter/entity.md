@@ -5,15 +5,6 @@ status: unread
 ---
 # entity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That which is perceived or known or inferred to have its own distinct existence (living or nonliving).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which is perceived or known or inferred to have its own distinct existence (living or nonliving).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The soundlessness impressed her as a positive entity rather than as the mere negation of noise."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The entity, or the real thing that was he, was thought, spirit."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even the daemons they dismissed to irrelevance and non-entity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That which is perceived or known or inferred to have its own distinct existence (living or nonliving).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which is perceived or known or inferred to have its own distinct existence (living or nonliving).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The soundlessness impressed her as a positive entity rather than as the mere negation of noise."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The entity, or the real thing that was he, was thought, spirit."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even the daemons they dismissed to irrelevance and non-entity."*

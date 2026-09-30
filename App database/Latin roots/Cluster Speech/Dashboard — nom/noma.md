@@ -5,13 +5,6 @@ status: unread
 ---
 # noma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noma designates acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noma designates acute ulceration of the mucous membranes of the mouth or genitals; often seen in undernourished children."*

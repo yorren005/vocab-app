@@ -5,15 +5,6 @@ status: unread
 ---
 # satirically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a satirical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a satirical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Charawk," said the hen satirically from her basket."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mrs Marion from this out, my dear man, when you speak to me. _(Satirically.)_ Has poor little hubby cold feet waiting so long?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a satirical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a satirical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Charawk," said the hen satirically from her basket."*
+> - 📜 **James Joyce (*Ulysses*):** *"Mrs Marion from this out, my dear man, when you speak to me. _(Satirically.)_ Has poor little hubby cold feet waiting so long?"*

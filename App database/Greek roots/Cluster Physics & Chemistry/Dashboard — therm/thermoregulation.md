@@ -5,13 +5,6 @@ status: unread
 ---
 # thermoregulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoregulation designates the maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoregulation designates the maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # diverted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rather will subject me to the malice Of a diverted blood and bloody brother."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I do not mean that it ceased even then, but that my attention was then diverted into a current very memorable to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rather will subject me to the malice Of a diverted blood and bloody brother."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I do not mean that it ceased even then, but that my attention was then diverted into a current very memorable to me."*

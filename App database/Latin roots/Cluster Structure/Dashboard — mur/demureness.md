@@ -5,14 +5,6 @@ status: unread
 ---
 # demureness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of behaving with reserve and decorum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The affectation of being demure in a provocative way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But the likeness of quality consists in a great number of common subdivisions of quality--demureness, extreme minuteness of touch, avoidance of loud tones and glaring effects."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel was demureness itself as she followed with Captain Hyde."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of behaving with reserve and decorum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The affectation of being demure in a provocative way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But the likeness of quality consists in a great number of common subdivisions of quality--demureness, extreme minuteness of touch, avoidance of loud tones and glaring effects."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel was demureness itself as she followed with Captain Hyde."*

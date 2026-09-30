@@ -5,13 +5,6 @@ status: unread
 ---
 # nonreversible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reversible or capable of having either side out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reversible or capable of having either side out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonreversible designates not reversible or capable of having either side out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reversible or capable of having either side out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reversible or capable of having either side out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonreversible designates not reversible or capable of having either side out."*

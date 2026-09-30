@@ -5,13 +5,6 @@ status: unread
 ---
 # sericulture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raising silkworms in order to obtain raw silk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of raw silk by raising silkworms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericulture designates raising silkworms in order to obtain raw silk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Raising silkworms in order to obtain raw silk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of raw silk by raising silkworms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericulture designates raising silkworms in order to obtain raw silk."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # undertaking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any piece of work that is undertaken or attempted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trade of a funeral director.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Novelty is only in request, and as it is as dangerous to be aged in any kind of course as it is virtuous to be constant in any undertaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, wench, how will the world repute me For undertaking so unstaid a journey?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most worthy madam, Your honour and your goodness is so evident, That your free undertaking cannot miss A thriving issue: there is no lady living So meet for this great errand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any piece of work that is undertaken or attempted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trade of a funeral director.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Novelty is only in request, and as it is as dangerous to be aged in any kind of course as it is virtuous to be constant in any undertaking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, wench, how will the world repute me For undertaking so unstaid a journey?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most worthy madam, Your honour and your goodness is so evident, That your free undertaking cannot miss A thriving issue: there is no lady living So meet for this great errand."*

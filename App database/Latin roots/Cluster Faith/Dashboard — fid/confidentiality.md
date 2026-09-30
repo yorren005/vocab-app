@@ -5,14 +5,6 @@ status: unread
 ---
 # confidentiality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discretion in keeping secret information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I've screened my recollections so as to honor my commitments to confidentiality."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Air Force established policies providing limited confidentiality protection to service members experiencing personal problems and greatly expanded the proactive role of mental health service providers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being secret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discretion in keeping secret information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I've screened my recollections so as to honor my commitments to confidentiality."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Air Force established policies providing limited confidentiality protection to service members experiencing personal problems and greatly expanded the proactive role of mental health service providers."*

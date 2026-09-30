@@ -5,15 +5,6 @@ status: unread
 ---
 # sidewise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward one side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With one side forward or to the front.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not all at once could life return into the body that had been practically dead for ten days, and as a result, with no power as yet over my flesh, I gave at the knees, crumpled, pitched sidewise, and gashed my forehead against the wall."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Lurching sidewise, as if by accident, I ground my foot on his to a terrible crushing."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Come along, little hound.” “It’s a dear old place,” said the young man, looking sidewise at his neighbour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward one side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With one side forward or to the front.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not all at once could life return into the body that had been practically dead for ten days, and as a result, with no power as yet over my flesh, I gave at the knees, crumpled, pitched sidewise, and gashed my forehead against the wall."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Lurching sidewise, as if by accident, I ground my foot on his to a terrible crushing."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Come along, little hound.” “It’s a dear old place,” said the young man, looking sidewise at his neighbour."*

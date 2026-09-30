@@ -5,15 +5,6 @@ status: unread
 ---
 # depute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer power to someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint as a substitute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, there is especial commission come from Venice to depute Cassio in Othello’s place."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Warn him that I shan't be able to see much of him because of my invalid habits, and that I shall depute you to entertain him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The great dispenser, he who has absolute and uncontrollable power over the rain, is the king; but he can depute his power to other persons, so that the benefit may be distributed and the heavenly water laid on over the various parts of the kingdom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer power to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint as a substitute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, there is especial commission come from Venice to depute Cassio in Othello’s place."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Warn him that I shan't be able to see much of him because of my invalid habits, and that I shall depute you to entertain him."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The great dispenser, he who has absolute and uncontrollable power over the rain, is the king; but he can depute his power to other persons, so that the benefit may be distributed and the heavenly water laid on over the various parts of the kingdom."*

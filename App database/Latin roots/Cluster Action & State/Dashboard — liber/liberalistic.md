@@ -5,13 +5,6 @@ status: unread
 ---
 # liberalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberalistic designates having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberalistic designates having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority."*

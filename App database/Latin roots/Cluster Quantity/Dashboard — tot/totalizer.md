@@ -5,13 +5,6 @@ status: unread
 ---
 # totalizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Computer that registers bets and divides the total amount bet among those who won.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculator that performs simple arithmetic functions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalizer designates computer that registers bets and divides the total amount bet among those who won."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Computer that registers bets and divides the total amount bet among those who won.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculator that performs simple arithmetic functions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totalizer designates computer that registers bets and divides the total amount bet among those who won."*

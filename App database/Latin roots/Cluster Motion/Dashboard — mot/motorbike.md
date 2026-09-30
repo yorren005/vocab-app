@@ -5,13 +5,6 @@ status: unread
 ---
 # motorbike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small motorcycle with a low frame and small wheels and elevated handlebars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorbike designates small motorcycle with a low frame and small wheels and elevated handlebars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small motorcycle with a low frame and small wheels and elevated handlebars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorbike designates small motorcycle with a low frame and small wheels and elevated handlebars."*

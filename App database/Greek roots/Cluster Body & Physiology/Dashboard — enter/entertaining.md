@@ -5,15 +5,6 @@ status: unread
 ---
 # entertaining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide entertainment for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into consideration, have in view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli" may be pronounced the most natural and one of the most entertaining of Madame Spyri's creations."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The story is at once entertaining, healthy, and, in the best sense of a word often misused, sweet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide entertainment for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into consideration, have in view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli" may be pronounced the most natural and one of the most entertaining of Madame Spyri's creations."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The story is at once entertaining, healthy, and, in the best sense of a word often misused, sweet."*

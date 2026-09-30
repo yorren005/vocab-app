@@ -5,14 +5,6 @@ status: unread
 ---
 # sanicula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly american herbs: sanicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly american herbs: sanicle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During the past summer we noticed, for the first time, a very pretty little species of cluster-cup (_Æcidium_) on the wood sanicle (_Sanicula Europæa_) in Darenth wood."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SANICLE BRAND; orbicular, variable in size, blackish-brown, scattered, rather confluent; spores very obtuse; peduncles somewhat elongated.—On _Sanicula Europæa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly american herbs: sanicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly american herbs: sanicle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During the past summer we noticed, for the first time, a very pretty little species of cluster-cup (_Æcidium_) on the wood sanicle (_Sanicula Europæa_) in Darenth wood."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SANICLE BRAND; orbicular, variable in size, blackish-brown, scattered, rather confluent; spores very obtuse; peduncles somewhat elongated.—On _Sanicula Europæa_."*

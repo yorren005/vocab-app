@@ -5,15 +5,6 @@ status: unread
 ---
 # robe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any loose flowing garment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outerwear consisting of a long flowing garment used for official or ceremonial occasions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wish you joy o’ th’ worm. [_Exit._] Enter Iras with a robe, crown, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, this life Is nobler than attending for a check, Richer than doing nothing for a robe, Prouder than rustling in unpaid-for silk: Such gain the cap of him that makes him fine, Yet keeps his book uncross’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any loose flowing garment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outerwear consisting of a long flowing garment used for official or ceremonial occasions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wish you joy o’ th’ worm. [_Exit._] Enter Iras with a robe, crown, &c."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, this life Is nobler than attending for a check, Richer than doing nothing for a robe, Prouder than rustling in unpaid-for silk: Such gain the cap of him that makes him fine, Yet keeps his book uncross’d."*

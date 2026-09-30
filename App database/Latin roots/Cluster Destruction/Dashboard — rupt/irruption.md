@@ -5,15 +5,6 @@ status: unread
 ---
 # irruption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden violent entrance; a bursting in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden sharp increase in the relative numbers of a population.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Had an army of invaders made an irruption into their territory they could not have evinced greater excitement."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Did such a scene admit of ludicrous associations, we might imagine something whimsical in this strange irruption in the regions of learning."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The irruption of this motley crew with beat of drum, according to ancient custom, was the consummation of uproar and merriment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden violent entrance; a bursting in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden sharp increase in the relative numbers of a population.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Had an army of invaders made an irruption into their territory they could not have evinced greater excitement."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Did such a scene admit of ludicrous associations, we might imagine something whimsical in this strange irruption in the regions of learning."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The irruption of this motley crew with beat of drum, according to ancient custom, was the consummation of uproar and merriment."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sidebar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a courtroom conference between the lawyers and the judge that is held out of the jury's hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short news story presenting sidelights on a major story.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidebar designates (law) a courtroom conference between the lawyers and the judge that is held out of the jury's hearing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a courtroom conference between the lawyers and the judge that is held out of the jury's hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short news story presenting sidelights on a major story.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidebar designates (law) a courtroom conference between the lawyers and the judge that is held out of the jury's hearing."*

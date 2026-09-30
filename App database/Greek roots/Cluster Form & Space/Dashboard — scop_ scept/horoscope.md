@@ -5,13 +5,6 @@ status: unread
 ---
 # horoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prediction of someone's future based on the relative positions of the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagram of the positions of the planets and signs of the zodiac at a particular time and place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Though no higher 121:9 revelation than the horoscope was to them dis- played upon the empyrean, earth and heaven were bright, and bird and blossom were glad in God's 121:12 perennial and happy sunshine, golden with Truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prediction of someone's future based on the relative positions of the planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagram of the positions of the planets and signs of the zodiac at a particular time and place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Though no higher 121:9 revelation than the horoscope was to them dis- played upon the empyrean, earth and heaven were bright, and bird and blossom were glad in God's 121:12 perennial and happy sunshine, golden with Truth."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vinaigrette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oil and vinegar with mustard and garlic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oil and vinegar with mustard and garlic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Because,” said Lord Henry, passing beneath his nostrils the gilt trellis of an open vinaigrette box, “one can survive everything nowadays except that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oil and vinegar with mustard and garlic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oil and vinegar with mustard and garlic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Because,” said Lord Henry, passing beneath his nostrils the gilt trellis of an open vinaigrette box, “one can survive everything nowadays except that."*

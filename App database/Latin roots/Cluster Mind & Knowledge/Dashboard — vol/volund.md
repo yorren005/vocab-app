@@ -5,13 +5,6 @@ status: unread
 ---
 # volund
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volund designates (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volund designates (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland."*

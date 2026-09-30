@@ -5,13 +5,6 @@ status: unread
 ---
 # graniteware
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of stone-grey enamelware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of stone-grey enamelware.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graniteware designates a kind of stone-grey enamelware."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of stone-grey enamelware.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of stone-grey enamelware.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graniteware designates a kind of stone-grey enamelware."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # redundant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than is needed, desired, or required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of same sense in different words; ; ; - j.b.conant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is pretty generally agreed that unemployment is essentially a problem of maladjustment of the labor supply, and not that of an absolutely and permanently redundant supply."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The warmly cool, clear, ringing, perfumed, overflowing, redundant days, were as crystal goblets of Persian sherbet, heaped up—flaked up, with rose-water snow."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He was a small, short, youngish man, sprinkled all over his face with freckles, and wearing redundant yellow hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More than is needed, desired, or required.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of same sense in different words; ; ; - j.b.conant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is pretty generally agreed that unemployment is essentially a problem of maladjustment of the labor supply, and not that of an absolutely and permanently redundant supply."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The warmly cool, clear, ringing, perfumed, overflowing, redundant days, were as crystal goblets of Persian sherbet, heaped up—flaked up, with rose-water snow."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He was a small, short, youngish man, sprinkled all over his face with freckles, and wearing redundant yellow hair."*

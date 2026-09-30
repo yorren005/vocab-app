@@ -5,13 +5,6 @@ status: unread
 ---
 # exarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop in one of several eastern orthodox churches in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bishop in eastern christendom who holds a place below a patriarch but above a metropolitan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exarch designates a bishop in one of several eastern orthodox churches in north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop in one of several eastern orthodox churches in north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bishop in eastern christendom who holds a place below a patriarch but above a metropolitan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exarch designates a bishop in one of several eastern orthodox churches in north america."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fiction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary work based on the imagination and not necessarily on fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately false or improbable account.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en so, sir, as I say. [_To the Poet_.] And for thy fiction, Why, thy verse swells with stuff so fine and smooth That thou art even natural in thine art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this were played upon a stage now, I could condemn it as an improbable fiction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary work based on the imagination and not necessarily on fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately false or improbable account.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en so, sir, as I say. [_To the Poet_.] And for thy fiction, Why, thy verse swells with stuff so fine and smooth That thou art even natural in thine art."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this were played upon a stage now, I could condemn it as an improbable fiction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*

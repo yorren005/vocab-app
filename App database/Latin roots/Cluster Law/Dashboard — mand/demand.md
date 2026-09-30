@@ -5,15 +5,6 @@ status: unread
 ---
 # demand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An urgent or peremptory request.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability and desire to purchase goods and services.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father bequeath’d her to me, and she herself, without other advantage, may lawfully make title to as much love as she finds; there is more owing her than is paid, and more shall be paid her than she’ll demand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those girls of Italy, take heed of them; They say our French lack language to deny If they demand; beware of being captives Before you serve."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you see her, For that is her demand, and know her business?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An urgent or peremptory request.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability and desire to purchase goods and services.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father bequeath’d her to me, and she herself, without other advantage, may lawfully make title to as much love as she finds; there is more owing her than is paid, and more shall be paid her than she’ll demand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those girls of Italy, take heed of them; They say our French lack language to deny If they demand; beware of being captives Before you serve."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you see her, For that is her demand, and know her business?"*

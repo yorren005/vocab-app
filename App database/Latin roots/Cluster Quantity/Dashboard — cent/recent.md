@@ -5,15 +5,6 @@ status: unread
 ---
 # recent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approximately the last 10,000 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In the middle of this agitating scene Mäzli arrived, perfectly happy and filled with her recent experiences."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was able to quiet her on that score by the Baron's recent promise, and she even urged Apollonie to start directly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We are going to have dinner in a moment, and then you will have the chance to ask the dove herself what she thinks of the vulture's claws." Uncle Philip opened the door and found the children absolutely immersed in the recent events."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approximately the last 10,000 years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In the middle of this agitating scene Mäzli arrived, perfectly happy and filled with her recent experiences."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was able to quiet her on that score by the Baron's recent promise, and she even urged Apollonie to start directly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We are going to have dinner in a moment, and then you will have the chance to ask the dove herself what she thinks of the vulture's claws." Uncle Philip opened the door and found the children absolutely immersed in the recent events."*

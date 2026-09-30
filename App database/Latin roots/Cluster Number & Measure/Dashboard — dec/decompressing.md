@@ -5,13 +5,6 @@ status: unread
 ---
 # decompressing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore to its uncompressed form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompressing designates relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore to its uncompressed form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompressing designates relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stylopodium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlargement at the base of the style in some umbelliferae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlargement at the base of the style in some umbelliferae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylopodium designates an enlargement at the base of the style in some umbelliferae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlargement at the base of the style in some umbelliferae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlargement at the base of the style in some umbelliferae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylopodium designates an enlargement at the base of the style in some umbelliferae."*

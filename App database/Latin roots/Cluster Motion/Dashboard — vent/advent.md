@@ -5,15 +5,6 @@ status: unread
 ---
 # advent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrival that has been awaited (especially of something momentous).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The season including the four sundays preceding christmas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the turned-forth, be it known to you, That have preserved her welfare in my blood And from her bosom took the enemy’s point, Sheathing the steel in my advent’rous body."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As the control of industry became more concentrated in larger units with the advent of power machinery, the feeling of economic unity among the different ranks of industry was further weakened."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"RANDALL CANTUAR LAMBETH Advent Sunday, 1916 PREFACE This book has grown out of lectures upon the historical Jesus given in a good many cities of India during the winter 1915-16."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrival that has been awaited (especially of something momentous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The season including the four sundays preceding christmas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the turned-forth, be it known to you, That have preserved her welfare in my blood And from her bosom took the enemy’s point, Sheathing the steel in my advent’rous body."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As the control of industry became more concentrated in larger units with the advent of power machinery, the feeling of economic unity among the different ranks of industry was further weakened."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"RANDALL CANTUAR LAMBETH Advent Sunday, 1916 PREFACE This book has grown out of lectures upon the historical Jesus given in a good many cities of India during the winter 1915-16."*

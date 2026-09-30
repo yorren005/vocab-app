@@ -5,15 +5,6 @@ status: unread
 ---
 # deb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman making her debut into society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For Heaven’s sake, pop thy hands under the pump, Deb!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve got to go a-skimming,” she pleaded, “and I have on’y old Deb to help me to-day."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The bigot, the deb- auchee, the hypocrite, called Jesus a glutton and a wine-bibber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman making her debut into society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For Heaven’s sake, pop thy hands under the pump, Deb!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve got to go a-skimming,” she pleaded, “and I have on’y old Deb to help me to-day."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The bigot, the deb- auchee, the hypocrite, called Jesus a glutton and a wine-bibber."*

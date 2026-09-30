@@ -5,15 +5,6 @@ status: unread
 ---
 # locomotive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to locomotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was full of activity, but his activities were less of a locomotive than a vegetative nature; and, never being based upon any original choice of foundation or direction, they were exercised on whatever object chance might place in their way."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"HOW THE LORD CONTROLS EVEN THE LOCOMOTIVE AND THE RAILROAD TRAIN."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"A door opened, and I found myself in the compartment where Captain Nemo—certainly an engineer of a very high order—had arranged his locomotive machinery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to locomotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was full of activity, but his activities were less of a locomotive than a vegetative nature; and, never being based upon any original choice of foundation or direction, they were exercised on whatever object chance might place in their way."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"HOW THE LORD CONTROLS EVEN THE LOCOMOTIVE AND THE RAILROAD TRAIN."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"A door opened, and I found myself in the compartment where Captain Nemo—certainly an engineer of a very high order—had arranged his locomotive machinery."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # everlastingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For a limitless time; ; - p.p.bliss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limitless time; ; - p.p.bliss.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To whom, with all submission, on my knee, I do bequeath my faithful services And true subjection everlastingly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, I’ll hate him everlastingly That bids me be of comfort any more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say I will love her everlastingly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For a limitless time; ; - p.p.bliss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limitless time; ; - p.p.bliss.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To whom, with all submission, on my knee, I do bequeath my faithful services And true subjection everlastingly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, I’ll hate him everlastingly That bids me be of comfort any more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say I will love her everlastingly."*

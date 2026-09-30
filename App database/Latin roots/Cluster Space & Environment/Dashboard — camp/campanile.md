@@ -5,15 +5,6 @@ status: unread
 ---
 # campanile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bell tower; usually stands alone unattached to a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bell tower; usually stands alone unattached to a building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The sudden flashes of colour reminded him of the gleam of the opal-and-iris-throated birds that flutter round the tall honeycombed Campanile, or stalk, with such stately grace, through the dim, dust-stained arcades."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But all together, and all in their highest possible relative degrees, they exist, as far as I know, only in one building of the world, the Campanile of Giotto.”--Ruskin."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"For a good account of the Campanile, see Susan and Joanna Horner’s ‘Walks in Florence’, v."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bell tower; usually stands alone unattached to a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bell tower; usually stands alone unattached to a building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The sudden flashes of colour reminded him of the gleam of the opal-and-iris-throated birds that flutter round the tall honeycombed Campanile, or stalk, with such stately grace, through the dim, dust-stained arcades."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But all together, and all in their highest possible relative degrees, they exist, as far as I know, only in one building of the world, the Campanile of Giotto.”--Ruskin."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"For a good account of the Campanile, see Susan and Joanna Horner’s ‘Walks in Florence’, v."*

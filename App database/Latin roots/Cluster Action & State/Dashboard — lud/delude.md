@@ -5,15 +5,6 @@ status: unread
 ---
 # delude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be false to; be dishonest with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be false to; be dishonest with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each one was a girl of fair common sense, and she did not delude herself with any vain conceits, or deny her love, or give herself airs, in the idea of outshining the others."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"He trust you with my own Wife; I would not have your Brother go beyond ye; they're the prettiest Natural Philosophers to play with. _Char._ No, no, they're Opticks to delude mens eyes with."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"No, no, th'are Opticks to delude mens eyes with."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be false to; be dishonest with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be false to; be dishonest with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each one was a girl of fair common sense, and she did not delude herself with any vain conceits, or deny her love, or give herself airs, in the idea of outshining the others."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"He trust you with my own Wife; I would not have your Brother go beyond ye; they're the prettiest Natural Philosophers to play with. _Char._ No, no, they're Opticks to delude mens eyes with."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"No, no, th'are Opticks to delude mens eyes with."*

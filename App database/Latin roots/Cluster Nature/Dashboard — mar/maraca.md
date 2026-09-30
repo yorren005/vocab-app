@@ -5,13 +5,6 @@ status: unread
 ---
 # maraca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maraca designates a percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maraca designates a percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs."*

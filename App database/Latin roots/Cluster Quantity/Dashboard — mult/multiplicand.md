@@ -5,13 +5,6 @@ status: unread
 ---
 # multiplicand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number that is multiplied by the multiplier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number that is multiplied by the multiplier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicand designates the number that is multiplied by the multiplier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number that is multiplied by the multiplier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number that is multiplied by the multiplier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicand designates the number that is multiplied by the multiplier."*

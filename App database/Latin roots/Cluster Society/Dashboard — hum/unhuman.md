@@ -5,14 +5,6 @@ status: unread
 ---
 # unhuman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divested of human qualities or attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divested of human qualities or attributes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Hideous and soulless dwellers underground, they knew not old age; a sword could hew them asunder, but before it reached their deep-seated life, their unhuman strength had plucked a man apart."*
-> - 📜 **Bram Stoker (*Dracula*):** *"There was something so panther-like in the movement--something so unhuman, that it seemed to sober us all from the shock of his coming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divested of human qualities or attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divested of human qualities or attributes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Hideous and soulless dwellers underground, they knew not old age; a sword could hew them asunder, but before it reached their deep-seated life, their unhuman strength had plucked a man apart."*
+> - 📜 **Bram Stoker (*Dracula*):** *"There was something so panther-like in the movement--something so unhuman, that it seemed to sober us all from the shock of his coming."*

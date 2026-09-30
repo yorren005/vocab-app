@@ -5,13 +5,6 @@ status: unread
 ---
 # dedifferentiated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose specialization in form or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having experienced or undergone dedifferentiation or the loss of specialization in form or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dedifferentiated designates lose specialization in form or function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose specialization in form or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having experienced or undergone dedifferentiation or the loss of specialization in form or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dedifferentiated designates lose specialization in form or function."*

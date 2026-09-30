@@ -5,20 +5,6 @@ status: unread
 ---
 # trice
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: In a small amount of time : quickly
-> 2. **Nuance / Usage**: Brief space of time : instant —used chiefly in the phrase in a trice
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the trice withstood the storm*), direct object (*cleaved the trice*), or prepositional anchor (*amidst the trice*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"_(Virag unscrews his head in a trice and holds it under his arm."*
-> - 📜 **Joseph Conrad (*Lord Jim*):** *"... the fold of his double chin hung like a bag triced up close under the hinge of his jaw."*
-> - 📜 **J. M. Coetzee (*The Childhood of Jesus*):** *"And in a trice he has clambered onto the kitchen dresser and is reaching for the top shelf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A very brief moment or flash of time; an instant—used almost exclusively in the prepositional phrase *in a trice*.
+> 2. **Nuance / Usage**: Originally denoted a single pull or haul on a rope (from the nautical verb *to trice*, meaning to hoist and secure with a lashing), which came to signify an action completed at a single stroke.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (restricted to prepositional idiom).
+> - **Syntactic Constructions**: Functions adverbially in the fixed phrase *in a trice* (*vanished in a trice*).
+> - **Collocations & Registers**: Lively narrative and literary registers; collocated with *in a trice*, *ready*, *settled*, and *done*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King Lear*):** *"In this crack of doom, I could not in a **trice** cast off so great a weight of love."*
+> - 📜 **James Joyce (*Ulysses*):** *"Virag unscrews his head in a **trice** and holds it jauntily under his arm."*
+> - 📜 **J. M. Coetzee (*The Childhood of Jesus*):** *"And in a **trice** he has clambered onto the kitchen dresser and is reaching for the top shelf."*

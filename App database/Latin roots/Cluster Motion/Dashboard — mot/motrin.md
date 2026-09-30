@@ -5,13 +5,6 @@ status: unread
 ---
 # motrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motrin designates a nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motrin designates a nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic."*

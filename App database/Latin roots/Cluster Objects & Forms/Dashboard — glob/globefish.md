@@ -5,13 +5,6 @@ status: unread
 ---
 # globefish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globefish designates any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globefish designates any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers."*

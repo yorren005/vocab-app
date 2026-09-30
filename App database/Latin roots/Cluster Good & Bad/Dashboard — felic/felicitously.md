@@ -5,15 +5,6 @@ status: unread
 ---
 # felicitously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a felicitous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a felicitous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke read them, seemed felicitously worded—surprisingly the right thing, and determined a sequel which he had never before thought of."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"A separate house was assigned as the residence of the young couple, and their married life began felicitously."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This arrangement greatly pleased her; it was so felicitously definite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a felicitous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a felicitous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke read them, seemed felicitously worded—surprisingly the right thing, and determined a sequel which he had never before thought of."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"A separate house was assigned as the residence of the young couple, and their married life began felicitously."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This arrangement greatly pleased her; it was so felicitously definite."*

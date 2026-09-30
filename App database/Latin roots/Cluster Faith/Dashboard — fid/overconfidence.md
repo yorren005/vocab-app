@@ -5,13 +5,6 @@ status: unread
 ---
 # overconfidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total certainty or greater certainty than circumstances warrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total certainty or greater certainty than circumstances warrant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overconfidence designates total certainty or greater certainty than circumstances warrant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total certainty or greater certainty than circumstances warrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total certainty or greater certainty than circumstances warrant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overconfidence designates total certainty or greater certainty than circumstances warrant."*

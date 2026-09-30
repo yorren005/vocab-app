@@ -5,13 +5,6 @@ status: unread
 ---
 # salmonella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonella designates rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonella designates rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon."*

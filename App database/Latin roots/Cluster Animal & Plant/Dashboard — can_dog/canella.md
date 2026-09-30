@@ -5,13 +5,6 @@ status: unread
 ---
 # canella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly aromatic inner bark of the canella winterana used as a condiment and a tonic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly aromatic inner bark of the canella winterana used as a condiment and a tonic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canella designates highly aromatic inner bark of the canella winterana used as a condiment and a tonic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly aromatic inner bark of the canella winterana used as a condiment and a tonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly aromatic inner bark of the canella winterana used as a condiment and a tonic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canella designates highly aromatic inner bark of the canella winterana used as a condiment and a tonic."*

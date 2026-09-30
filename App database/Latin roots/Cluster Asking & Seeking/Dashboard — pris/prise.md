@@ -5,15 +5,6 @@ status: unread
 ---
 # prise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or force, especially in an effort to get something open; :.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make an uninvited or presumptuous inquiry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Nor we ’ain’t ever been arrested for doin’ d-d-damage to property.” “You s’prise me,” says Mr."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"He might s’prise you,” says I."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"We mustn’t be taken by s’prise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or force, especially in an effort to get something open; :.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make an uninvited or presumptuous inquiry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Nor we ’ain’t ever been arrested for doin’ d-d-damage to property.” “You s’prise me,” says Mr."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"He might s’prise you,” says I."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"We mustn’t be taken by s’prise."*

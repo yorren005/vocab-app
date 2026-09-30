@@ -5,13 +5,6 @@ status: unread
 ---
 # anaemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Not to run this striking and original simile out of breath, the Barter fly endured for a round twelve months, without showing signs of anaemia so pronounced as to look dangerous to his constitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Not to run this striking and original simile out of breath, the Barter fly endured for a round twelve months, without showing signs of anaemia so pronounced as to look dangerous to his constitution."*

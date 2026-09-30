@@ -5,13 +5,6 @@ status: unread
 ---
 # tautonymy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the International Code of Botanical Nomenclature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the International Code of Botanical Nomenclature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautonymy designates a taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the international code of botanical nomenclature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the International Code of Botanical Nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the International Code of Botanical Nomenclature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautonymy designates a taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the international code of botanical nomenclature."*

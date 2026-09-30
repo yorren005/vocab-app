@@ -5,15 +5,6 @@ status: unread
 ---
 # rottenness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of progressive putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of rotting and becoming putrid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By little and little he has been induced to trust in that rotten reed, and it communicates some portion of its rottenness to everything around him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You go against rottenness, and there is nothing more thoroughly rotten than making people believe that society can be cured by a political hocus-pocus.” “That’s very fine, my dear fellow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of progressive putrefaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of rotting and becoming putrid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"By little and little he has been induced to trust in that rotten reed, and it communicates some portion of its rottenness to everything around him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You go against rottenness, and there is nothing more thoroughly rotten than making people believe that society can be cured by a political hocus-pocus.” “That’s very fine, my dear fellow."*

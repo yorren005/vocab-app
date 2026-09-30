@@ -5,13 +5,6 @@ status: unread
 ---
 # olecranon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olecranon designates process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olecranon designates process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended."*

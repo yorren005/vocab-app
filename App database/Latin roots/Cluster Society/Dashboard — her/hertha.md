@@ -5,13 +5,6 @@ status: unread
 ---
 # hertha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The teutonic goddess of fertility; later identified with norse njord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The teutonic goddess of fertility; later identified with norse njord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hertha designates the teutonic goddess of fertility; later identified with norse njord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The teutonic goddess of fertility; later identified with norse njord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The teutonic goddess of fertility; later identified with norse njord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hertha designates the teutonic goddess of fertility; later identified with norse njord."*

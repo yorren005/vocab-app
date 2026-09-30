@@ -5,15 +5,6 @@ status: unread
 ---
 # admittedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As acknowledged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus is admittedly her eldest son, and is bred to be a carpenter; and a carpenter he undoubtedly was up to, we are told, about thirty years of age (Luke 3:23)."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've never seen such panelling in my life, and the gardens are admittedly the most beautiful in Dorsetshire."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That was the past and, admittedly, a poor foundation upon which to build; let us now look to a more positive future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As acknowledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As acknowledged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus is admittedly her eldest son, and is bred to be a carpenter; and a carpenter he undoubtedly was up to, we are told, about thirty years of age (Luke 3:23)."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I've never seen such panelling in my life, and the gardens are admittedly the most beautiful in Dorsetshire."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That was the past and, admittedly, a poor foundation upon which to build; let us now look to a more positive future."*

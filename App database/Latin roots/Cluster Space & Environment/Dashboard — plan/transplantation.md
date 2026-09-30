@@ -5,15 +5,6 @@ status: unread
 ---
 # transplantation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An operation moving an organ from one organism (the donor) to another (the recipient).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing something from one location and introducing it in another location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris seemed to do, to her transplantation to Mansfield, he was pleased with himself for having supplied everything else: education and manners she owed to him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But that exquisite creature herself suffered in the same sort of way:—it was at least one delightful thought that in marrying her, he could give her a much-needed transplantation."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Few of my countrymen can know what it is; nor, as frequent transplantation is perhaps better for the stock, need they consider it desirable to know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An operation moving an organ from one organism (the donor) to another (the recipient).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing something from one location and introducing it in another location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris seemed to do, to her transplantation to Mansfield, he was pleased with himself for having supplied everything else: education and manners she owed to him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But that exquisite creature herself suffered in the same sort of way:—it was at least one delightful thought that in marrying her, he could give her a much-needed transplantation."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Few of my countrymen can know what it is; nor, as frequent transplantation is perhaps better for the stock, need they consider it desirable to know."*

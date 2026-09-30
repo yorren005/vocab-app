@@ -5,15 +5,6 @@ status: unread
 ---
 # petr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stone : rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stone : rock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Petrúshka!” he called to his valet: “Come here, take these away."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a ball, nor had dancing been announced, but everyone knew that Catherine Petróvna would play valses and the écossaise on the clavichord and that there would be dancing, and so everyone had come as to a ball."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Catherine Petróvna speaks of Lily, but I say, no—the princess!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stone : rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stone : rock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Petrúshka!” he called to his valet: “Come here, take these away."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a ball, nor had dancing been announced, but everyone knew that Catherine Petróvna would play valses and the écossaise on the clavichord and that there would be dancing, and so everyone had come as to a ball."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Catherine Petróvna speaks of Lily, but I say, no—the princess!"*

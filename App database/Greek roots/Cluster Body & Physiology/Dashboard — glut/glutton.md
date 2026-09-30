@@ -5,15 +5,6 @@ status: unread
 ---
 # glutton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is devoted to eating and drinking to excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Musteline mammal of northern eurasia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be damned like the glutton!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, so, thou common dog, didst thou disgorge Thy glutton bosom of the royal Richard; And now thou wouldst eat thy dead vomit up, And howl’st to find it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love surfeits not, lust like a glutton dies; Love is all truth, lust full of forged lies. 804 “More I could tell, but more I dare not say; The text is old, the orator too green."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is devoted to eating and drinking to excess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Musteline mammal of northern eurasia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be damned like the glutton!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, so, thou common dog, didst thou disgorge Thy glutton bosom of the royal Richard; And now thou wouldst eat thy dead vomit up, And howl’st to find it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love surfeits not, lust like a glutton dies; Love is all truth, lust full of forged lies. 804 “More I could tell, but more I dare not say; The text is old, the orator too green."*

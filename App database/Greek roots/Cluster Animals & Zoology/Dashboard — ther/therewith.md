@@ -5,15 +5,6 @@ status: unread
 ---
 # therewith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With that or this or it; - phil.4:11.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With that or this or it; - phil.4:11.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was perfumed like a milliner, And ’twixt his finger and his thumb he held A pouncet-box, which ever and anon He gave his nose, and took’t away again, Who therewith angry, when it next came there, Took it in snuff; and still he smiled and talk’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How may the duke be therewith satisfied, Whose messengers are here about my side, Upon some present business of the state, To bring me to him?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno had read the whole letter aloud and had therewith conjured up such consternation and grief on every side that the mother hardly knew how to comfort them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With that or this or it; - phil.4:11.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With that or this or it; - phil.4:11.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was perfumed like a milliner, And ’twixt his finger and his thumb he held A pouncet-box, which ever and anon He gave his nose, and took’t away again, Who therewith angry, when it next came there, Took it in snuff; and still he smiled and talk’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How may the duke be therewith satisfied, Whose messengers are here about my side, Upon some present business of the state, To bring me to him?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno had read the whole letter aloud and had therewith conjured up such consternation and grief on every side that the mother hardly knew how to comfort them."*

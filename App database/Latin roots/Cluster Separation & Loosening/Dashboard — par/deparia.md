@@ -5,13 +5,6 @@ status: unread
 ---
 # deparia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classification used for 5 species of terrestrial ferns usually placed in other genera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classification used for 5 species of terrestrial ferns usually placed in other genera.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deparia designates classification used for 5 species of terrestrial ferns usually placed in other genera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Classification used for 5 species of terrestrial ferns usually placed in other genera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classification used for 5 species of terrestrial ferns usually placed in other genera.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deparia designates classification used for 5 species of terrestrial ferns usually placed in other genera."*

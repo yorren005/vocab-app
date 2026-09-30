@@ -5,13 +5,6 @@ status: unread
 ---
 # achromatinic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of substance of a cell nucleus) not readily colored by stains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of substance of a cell nucleus) not readily colored by stains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatinic designates (of substance of a cell nucleus) not readily colored by stains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of substance of a cell nucleus) not readily colored by stains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of substance of a cell nucleus) not readily colored by stains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatinic designates (of substance of a cell nucleus) not readily colored by stains."*

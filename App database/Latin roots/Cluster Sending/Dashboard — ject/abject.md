@@ -5,15 +5,6 @@ status: unread
 ---
 # abject
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the most contemptible kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most unfortunate or miserable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dissembling harlot, thou art false in all, And art confederate with a damned pack To make a loathsome abject scorn of me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disgrace not so your king, That he should be so abject, base, and poor, To choose for wealth and not for perfect love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Nell, ill can thy noble mind abrook The abject people gazing on thy face With envious looks, laughing at thy shame, That erst did follow thy proud chariot wheels When thou didst ride in triumph through the streets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the most contemptible kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most unfortunate or miserable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dissembling harlot, thou art false in all, And art confederate with a damned pack To make a loathsome abject scorn of me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disgrace not so your king, That he should be so abject, base, and poor, To choose for wealth and not for perfect love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Nell, ill can thy noble mind abrook The abject people gazing on thy face With envious looks, laughing at thy shame, That erst did follow thy proud chariot wheels When thou didst ride in triumph through the streets."*

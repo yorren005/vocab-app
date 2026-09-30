@@ -5,15 +5,6 @@ status: unread
 ---
 # evidently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything was just as we had left it last night and was evidently intended to remain so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought him only awkward and shy, for he was evidently much embarrassed; and I fancied that the best thing I could do would be to wait until I saw that he had everything he wanted and then to leave him to himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn was a long one, and a stormy one too, I should think, for although his room was at some distance I heard his loud voice rising every now and then like a high wind, and evidently blowing perfect broadsides of denunciation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Everything was just as we had left it last night and was evidently intended to remain so."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I thought him only awkward and shy, for he was evidently much embarrassed; and I fancied that the best thing I could do would be to wait until I saw that he had everything he wanted and then to leave him to himself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn was a long one, and a stormy one too, I should think, for although his room was at some distance I heard his loud voice rising every now and then like a high wind, and evidently blowing perfect broadsides of denunciation."*

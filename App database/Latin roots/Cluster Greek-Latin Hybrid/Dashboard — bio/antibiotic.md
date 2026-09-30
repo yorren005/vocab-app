@@ -5,13 +5,6 @@ status: unread
 ---
 # antibiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to antibiotic drugs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibiotic designates a chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to antibiotic drugs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibiotic designates a chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections."*

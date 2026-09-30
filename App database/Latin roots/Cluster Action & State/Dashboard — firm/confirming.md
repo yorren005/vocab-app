@@ -5,15 +5,6 @@ status: unread
 ---
 # confirming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, fie, unreverend tongue, to call her bad Whose sovereignty so oft thou hast preferred With twenty thousand soul-confirming oaths."*
-> - 📜 **George Eliot (*Middlemarch*):** *"For his observation was constantly confirming Mr."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Confirming the disconnect, Zolan wasted no time in preliminaries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, fie, unreverend tongue, to call her bad Whose sovereignty so oft thou hast preferred With twenty thousand soul-confirming oaths."*
+> - 📜 **George Eliot (*Middlemarch*):** *"For his observation was constantly confirming Mr."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Confirming the disconnect, Zolan wasted no time in preliminaries."*

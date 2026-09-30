@@ -5,13 +5,6 @@ status: unread
 ---
 # oblique-angled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having oblique angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having oblique angles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oblique-angled designates having oblique angles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having oblique angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having oblique angles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oblique-angled designates having oblique angles."*

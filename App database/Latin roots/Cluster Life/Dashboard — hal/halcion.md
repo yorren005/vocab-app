@@ -5,13 +5,6 @@ status: unread
 ---
 # halcion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of benzodiazepine (trade name halcion) frequently prescribed as a sleeping pill; usually given to people who have trouble falling asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of benzodiazepine (trade name halcion) frequently prescribed as a sleeping pill; usually given to people who have trouble falling asleep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halcion designates a form of benzodiazepine (trade name halcion) frequently prescribed as a sleeping pill; usually given to people who have trouble falling asleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of benzodiazepine (trade name halcion) frequently prescribed as a sleeping pill; usually given to people who have trouble falling asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of benzodiazepine (trade name halcion) frequently prescribed as a sleeping pill; usually given to people who have trouble falling asleep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halcion designates a form of benzodiazepine (trade name halcion) frequently prescribed as a sleeping pill; usually given to people who have trouble falling asleep."*

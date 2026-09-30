@@ -5,20 +5,6 @@ status: unread
 ---
 # sultry
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Burning hot : torrid
-> 2. **Nuance / Usage**: Hot with passion or anger
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a sultry presence*) or predicatively (*remained sultry*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Methinks it is very sultry and hot for my complexion."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Exceedingly, my lord; it is very sultry,—as ’twere—I cannot tell how."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The night was as sultry as the day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Oppressively hot, humid, and still; characterized by close, sweltering atmospheric heat.
+> 2. **Nuance / Usage**: Applied to a person, voice, or demeanor, it connotes a smoldering, languid sensual allure or passionate intensity.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a sultry presence*) or predicatively (*remained sultry*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"Methinks it is very **sultry** and hot for my complexion."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The night was as **sultry** as the day."*
+> - 📜 **John Milton (*Lycidas*):** *"What time the gray-fly winds her **sultry** horn, battening our flocks with the fresh dews of night."*

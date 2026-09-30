@@ -5,14 +5,6 @@ status: unread
 ---
 # unsufferable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons or their behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons or their behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Hell heard th’ unsufferable noise, Hell saw Heav’n ruining from Heav’n and would have fled Affrighted; but strict Fate had cast too deep Her dark foundations, and too fast had bound."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Hell heard the unsufferable noise, Hell saw Heaven ruining from Heaven, and would have fled Affrighted; but strict Fate had cast too deep Her dark foundations, and too fast had bound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons or their behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons or their behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Hell heard th’ unsufferable noise, Hell saw Heav’n ruining from Heav’n and would have fled Affrighted; but strict Fate had cast too deep Her dark foundations, and too fast had bound."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hell heard the unsufferable noise, Hell saw Heaven ruining from Heaven, and would have fled Affrighted; but strict Fate had cast too deep Her dark foundations, and too fast had bound."*

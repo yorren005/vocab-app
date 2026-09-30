@@ -5,15 +5,6 @@ status: unread
 ---
 # different
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlike in nature or quality or form or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctly separate from the first.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This week he hath been heavy, sour, sad, And much different from the man he was."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not mad; too well, too well I feel The different plague of each calamity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the stars, The stars above us govern our conditions; Else one self mate and make could not beget Such different issues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlike in nature or quality or form or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctly separate from the first.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This week he hath been heavy, sour, sad, And much different from the man he was."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not mad; too well, too well I feel The different plague of each calamity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the stars, The stars above us govern our conditions; Else one self mate and make could not beget Such different issues."*

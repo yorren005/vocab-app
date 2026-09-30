@@ -5,13 +5,6 @@ status: unread
 ---
 # holography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of making or using a hologram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or process of making or using a hologram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holography designates the art or process of making or using a hologram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of making or using a hologram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or process of making or using a hologram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holography designates the art or process of making or using a hologram."*

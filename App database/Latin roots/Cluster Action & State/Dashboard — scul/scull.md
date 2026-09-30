@@ -5,15 +5,6 @@ status: unread
 ---
 # scull
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long oar that is mounted at the stern of a boat and moved left and right to propel the boat forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Each of a pair of short oars that are used by a single oarsman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Light lay the earth on Billy’s breast, His chicken heart so tender; But build a castle on his head, His scull will prop it under."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I banged it a good while with one of my sculls, and at last forced it to leap out of the boat."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He had sculled the body of Foster, properly covered with bark and brushwood, and laid it comfortably in the place intended for the Lammermuir farmer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long oar that is mounted at the stern of a boat and moved left and right to propel the boat forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Each of a pair of short oars that are used by a single oarsman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Light lay the earth on Billy’s breast, His chicken heart so tender; But build a castle on his head, His scull will prop it under."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I banged it a good while with one of my sculls, and at last forced it to leap out of the boat."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He had sculled the body of Foster, properly covered with bark and brushwood, and laid it comfortably in the place intended for the Lammermuir farmer."*

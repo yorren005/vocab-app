@@ -5,13 +5,6 @@ status: unread
 ---
 # resplendently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressively beautiful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressively beautiful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"But as quiet I lay, and thought o'er my decision, All my wakefulness passed, and I saw in a vision, By my side standing closely, an Angel of Light, Clothed in shining apparel resplendently bright."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressively beautiful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressively beautiful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"But as quiet I lay, and thought o'er my decision, All my wakefulness passed, and I saw in a vision, By my side standing closely, an Angel of Light, Clothed in shining apparel resplendently bright."*

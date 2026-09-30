@@ -5,15 +5,6 @@ status: unread
 ---
 # fabian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the fabian society in britain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fabianism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Sir Toby, Sir Andrew and Fabian."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come thy ways, Signior Fabian."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MALVOLIO. _ I may command where I adore, But silence, like a Lucrece knife, With bloodless stroke my heart doth gore; M.O.A.I. doth sway my life._ FABIAN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the fabian society in britain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fabianism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Sir Toby, Sir Andrew and Fabian."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come thy ways, Signior Fabian."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MALVOLIO. _ I may command where I adore, But silence, like a Lucrece knife, With bloodless stroke my heart doth gore; M.O.A.I. doth sway my life._ FABIAN."*

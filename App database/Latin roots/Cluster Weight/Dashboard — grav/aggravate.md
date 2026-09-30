@@ -5,15 +5,6 @@ status: unread
 ---
 # aggravate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseek you now, aggravate your choler."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ford’s a knave, and I will aggravate his style."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I will aggravate my voice so, that I will roar you as gently as any sucking dove; I will roar you an ’twere any nightingale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseek you now, aggravate your choler."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ford’s a knave, and I will aggravate his style."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I will aggravate my voice so, that I will roar you as gently as any sucking dove; I will roar you an ’twere any nightingale."*

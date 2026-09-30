@@ -5,15 +5,6 @@ status: unread
 ---
 # flatness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having two dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A want of animation or brilliance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that he were alive, and here beholding His daughter’s trial! that he did but see The flatness of my misery; yet with eyes Of pity, not revenge!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We turn our attention to the left-hand characteristics; which were flatness in respect of the river, verticality in respect of the wall behind it, and darkness as to both."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not quite sure of her direction, Tess stood still upon the hemmed expanse of verdant flatness, like a fly on a billiard-table of indefinite length, and of no more consequence to the surroundings than that fly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having two dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A want of animation or brilliance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that he were alive, and here beholding His daughter’s trial! that he did but see The flatness of my misery; yet with eyes Of pity, not revenge!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We turn our attention to the left-hand characteristics; which were flatness in respect of the river, verticality in respect of the wall behind it, and darkness as to both."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not quite sure of her direction, Tess stood still upon the hemmed expanse of verdant flatness, like a fly on a billiard-table of indefinite length, and of no more consequence to the surroundings than that fly."*

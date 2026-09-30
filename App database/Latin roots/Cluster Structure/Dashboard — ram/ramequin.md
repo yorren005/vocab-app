@@ -5,13 +5,6 @@ status: unread
 ---
 # ramequin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small fireproof dish used for baking and serving individual portions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramequin designates a cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small fireproof dish used for baking and serving individual portions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramequin designates a cheese dish made with egg and bread crumbs that is baked and served in individual fireproof dishes."*

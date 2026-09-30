@@ -5,13 +5,6 @@ status: unread
 ---
 # habanera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music composed in duple time for dancing the habanera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cuban dance in duple time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habanera designates music composed in duple time for dancing the habanera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Music composed in duple time for dancing the habanera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cuban dance in duple time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habanera designates music composed in duple time for dancing the habanera."*

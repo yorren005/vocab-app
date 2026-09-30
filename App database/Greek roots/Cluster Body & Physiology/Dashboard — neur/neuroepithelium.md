@@ -5,13 +5,6 @@ status: unread
 ---
 # neuroepithelium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epithelium associated with special sense organs and containing sensory nerve endings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epithelium associated with special sense organs and containing sensory nerve endings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroepithelium designates epithelium associated with special sense organs and containing sensory nerve endings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Epithelium associated with special sense organs and containing sensory nerve endings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epithelium associated with special sense organs and containing sensory nerve endings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroepithelium designates epithelium associated with special sense organs and containing sensory nerve endings."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # organisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The persons (or committees or departments etc.) who make up a body for the purpose of administering something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people who work together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It is one of the penalties, I said to myself, which one has to pay for an organisation more finely tempered than that of the crowd."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Again, Shelley desired a religion of humanity, and that meant, to him, a religion for humanity, a religion which, unlike the spectral Christianity about him, should permeate and regulate the whole organisation of men."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"This required some organisation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The persons (or committees or departments etc.) who make up a body for the purpose of administering something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people who work together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It is one of the penalties, I said to myself, which one has to pay for an organisation more finely tempered than that of the crowd."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Again, Shelley desired a religion of humanity, and that meant, to him, a religion for humanity, a religion which, unlike the spectral Christianity about him, should permeate and regulate the whole organisation of men."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"This required some organisation."*

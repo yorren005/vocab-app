@@ -5,13 +5,6 @@ status: unread
 ---
 # chrysopid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pale green unpleasant-smelling lacewing fly having carnivorous larvae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pale green unpleasant-smelling lacewing fly having carnivorous larvae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysopid designates pale green unpleasant-smelling lacewing fly having carnivorous larvae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pale green unpleasant-smelling lacewing fly having carnivorous larvae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pale green unpleasant-smelling lacewing fly having carnivorous larvae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysopid designates pale green unpleasant-smelling lacewing fly having carnivorous larvae."*

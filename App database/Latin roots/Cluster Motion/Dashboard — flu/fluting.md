@@ -5,13 +5,6 @@ status: unread
 ---
 # fluting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A groove or furrow in cloth etc (particularly a shallow concave groove on the shaft of a column).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form flutes in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"It was crude as to shape, almost all the pieces are a little crooked, but it was wonderfully made in some ways, for it has a ring like a bell, and the loveliest fluting, and some of it is in beautiful blue, green and amethyst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A groove or furrow in cloth etc (particularly a shallow concave groove on the shaft of a column).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form flutes in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"It was crude as to shape, almost all the pieces are a little crooked, but it was wonderfully made in some ways, for it has a ring like a bell, and the loveliest fluting, and some of it is in beautiful blue, green and amethyst."*

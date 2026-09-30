@@ -5,14 +5,6 @@ status: unread
 ---
 # optional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possible but not necessary; left to personal choice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possible but not necessary; left to personal choice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To leave any form of insurance optional, or elective, with either employers or wage-workers, is to fail of the main purpose in a large proportion of the individual cases where it is most needed, and to increase the expense to those that are included."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They perform all the other functions of banks, essential and unessential, and perform them well, but the issue of bank-notes is optional with them, and some of them do not issue any bank-notes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possible but not necessary; left to personal choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possible but not necessary; left to personal choice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To leave any form of insurance optional, or elective, with either employers or wage-workers, is to fail of the main purpose in a large proportion of the individual cases where it is most needed, and to increase the expense to those that are included."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They perform all the other functions of banks, essential and unessential, and perform them well, but the issue of bank-notes is optional with them, and some of them do not issue any bank-notes."*

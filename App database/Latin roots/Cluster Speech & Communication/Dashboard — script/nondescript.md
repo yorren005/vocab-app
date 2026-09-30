@@ -5,15 +5,6 @@ status: unread
 ---
 # nondescript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person is not easily classified and not very interesting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinct or individual characteristics; dull and uninteresting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess did not stop at Weatherbury, after this long drive, further than to make a slight nondescript meal at noon at a cottage to which the farmer recommended her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A few small nondescript stars were appearing elsewhere."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He holds that truth is not a curiosity for the cabinet but a tool in the hand; that God's earnest world is no place for nondescript, and that there is only one region left to which they can drift."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person is not easily classified and not very interesting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinct or individual characteristics; dull and uninteresting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess did not stop at Weatherbury, after this long drive, further than to make a slight nondescript meal at noon at a cottage to which the farmer recommended her."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A few small nondescript stars were appearing elsewhere."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He holds that truth is not a curiosity for the cabinet but a tool in the hand; that God's earnest world is no place for nondescript, and that there is only one region left to which they can drift."*

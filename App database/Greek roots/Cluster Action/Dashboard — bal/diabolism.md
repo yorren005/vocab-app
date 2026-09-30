@@ -5,13 +5,6 @@ status: unread
 ---
 # diabolism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in and reverence for devils (especially satan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in and reverence for devils (especially satan).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolism designates a belief in and reverence for devils (especially satan)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in and reverence for devils (especially satan).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in and reverence for devils (especially satan).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolism designates a belief in and reverence for devils (especially satan)."*

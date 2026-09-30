@@ -5,13 +5,6 @@ status: unread
 ---
 # creolize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Develop into a creole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Develop into a creole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creolize designates develop into a creole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Develop into a creole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Develop into a creole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creolize designates develop into a creole."*

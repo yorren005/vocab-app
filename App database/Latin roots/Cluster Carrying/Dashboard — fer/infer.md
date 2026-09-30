@@ -5,15 +5,6 @@ status: unread
 ---
 # infer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw from specific cases for more general cases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This doth infer the zeal I had to see him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I this infer, That many things, having full reference To one consent, may work contrariously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle: That faith would live again by death of need."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw from specific cases for more general cases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This doth infer the zeal I had to see him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I this infer, That many things, having full reference To one consent, may work contrariously."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle: That faith would live again by death of need."*

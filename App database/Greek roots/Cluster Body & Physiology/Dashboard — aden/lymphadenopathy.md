@@ -5,13 +5,6 @@ status: unread
 ---
 # lymphadenopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the lymph nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal enlargement of the lymph nodes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphadenopathy designates abnormal enlargement of the lymph nodes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the lymph nodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal enlargement of the lymph nodes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphadenopathy designates abnormal enlargement of the lymph nodes."*

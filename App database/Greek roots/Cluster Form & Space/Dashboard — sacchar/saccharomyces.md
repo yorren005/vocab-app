@@ -5,13 +5,6 @@ status: unread
 ---
 # saccharomyces
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharomyces designates single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharomyces designates single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # dogmatical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by assertion of unproved or unprovable principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by assertion of unproved or unprovable principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed’s; she mouthed her words in speaking; her voice was deep, its inflections very pompous, very dogmatical,—very intolerable, in short."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"There came Manning with his "fine, sceptical, dogmatical face"; and George Dyer, with his head full of innutritious learning and his heart of the milk of kindness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by assertion of unproved or unprovable principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by assertion of unproved or unprovable principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed’s; she mouthed her words in speaking; her voice was deep, its inflections very pompous, very dogmatical,—very intolerable, in short."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"There came Manning with his "fine, sceptical, dogmatical face"; and George Dyer, with his head full of innutritious learning and his heart of the milk of kindness."*

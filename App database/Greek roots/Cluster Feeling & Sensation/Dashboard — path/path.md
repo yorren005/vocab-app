@@ -5,15 +5,6 @@ status: unread
 ---
 # path
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trodden way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A track specially constructed for a particular use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a path to’t; ’tis some savage hold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now hear me speak with a prophetic spirit; For even the breath of what I mean to speak Shall blow each dust, each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne; and therefore mark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trodden way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A track specially constructed for a particular use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a path to’t; ’tis some savage hold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now hear me speak with a prophetic spirit; For even the breath of what I mean to speak Shall blow each dust, each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne; and therefore mark."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # paterson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American revolutionary leader (born in ireland) who was a member of the constitutional convention (1745-1806).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city of northeastern new jersey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London._ “_17 August._ “Dear Sirs,-- “Herewith please receive invoice of goods sent by Great Northern Railway."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London, to Messrs."*
-> - 📜 **Bram Stoker (*Dracula*):** *"_Pro_ CARTER, PATERSON & CO.” _Mina Murray’s Journal._ _18 August._--I am happy to-day, and write sitting on the seat in the churchyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American revolutionary leader (born in ireland) who was a member of the constitutional convention (1745-1806).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city of northeastern new jersey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London._ “_17 August._ “Dear Sirs,-- “Herewith please receive invoice of goods sent by Great Northern Railway."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London, to Messrs."*
+> - 📜 **Bram Stoker (*Dracula*):** *"_Pro_ CARTER, PATERSON & CO.” _Mina Murray’s Journal._ _18 August._--I am happy to-day, and write sitting on the seat in the churchyard."*

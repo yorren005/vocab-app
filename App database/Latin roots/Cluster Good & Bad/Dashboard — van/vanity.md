@@ -5,15 +5,6 @@ status: unread
 ---
 # vanity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of excessive pride.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valueless or futile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take him away. [_Guards seize Bertram._] My fore-past proofs, howe’er the matter fall, Shall tax my fears of little vanity, Having vainly fear’d too little."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Hal, I prithee trouble me no more with vanity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I should have a heavy miss of thee If I were much in love with vanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of excessive pride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valueless or futile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take him away. [_Guards seize Bertram._] My fore-past proofs, howe’er the matter fall, Shall tax my fears of little vanity, Having vainly fear’d too little."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Hal, I prithee trouble me no more with vanity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I should have a heavy miss of thee If I were much in love with vanity."*

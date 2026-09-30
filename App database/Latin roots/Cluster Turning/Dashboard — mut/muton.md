@@ -5,13 +5,6 @@ status: unread
 ---
 # muton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest unit of dna where a mutation can occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest unit of dna where a mutation can occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muton designates the smallest unit of dna where a mutation can occur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest unit of dna where a mutation can occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest unit of dna where a mutation can occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muton designates the smallest unit of dna where a mutation can occur."*

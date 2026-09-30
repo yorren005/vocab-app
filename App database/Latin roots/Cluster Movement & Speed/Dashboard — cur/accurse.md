@@ -5,15 +5,6 @@ status: unread
 ---
 # accurse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am accursed to rob in that thief’s company."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that threw’st dust upon his goodly head When through proud London he came sighing on After th’ admired heels of Bolingbroke, Criest now “O earth, yield us that king again, And take thou this!” O thoughts of men accursed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am accursed to rob in that thief’s company."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that threw’st dust upon his goodly head When through proud London he came sighing on After th’ admired heels of Bolingbroke, Criest now “O earth, yield us that king again, And take thou this!” O thoughts of men accursed!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*

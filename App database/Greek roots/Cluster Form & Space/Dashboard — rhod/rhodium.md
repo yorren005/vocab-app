@@ -5,13 +5,6 @@ status: unread
 ---
 # rhodium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodium designates a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodium designates a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum."*

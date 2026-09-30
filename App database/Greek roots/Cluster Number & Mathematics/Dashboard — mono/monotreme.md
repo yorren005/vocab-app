@@ -5,13 +5,6 @@ status: unread
 ---
 # monotreme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotreme designates any of an order (monotremata) of egg-laying mammals comprising the platypuses and echidnas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotreme designates any of an order (monotremata) of egg-laying mammals comprising the platypuses and echidnas."*

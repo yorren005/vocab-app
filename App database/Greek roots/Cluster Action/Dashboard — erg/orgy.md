@@ -5,15 +5,6 @@ status: unread
 ---
 # orgy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secret ceremonial rites held in honor of an ancient Greek or Roman deity and usually characterized by ecstatic singing and dancing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drunken revelry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew that it was nothing else than a ridiculous orgy of the imagination, such as men enjoy in drug dreams, in delirium, or in mere ordinary slumber."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On the other hand, do not make the mistake of thinking that life in solitary was one wild orgy of blithe communion and exhilarating psychological research."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"After a time he fell asleep, and some unsteady fairies had to climb over him on their way home from an orgy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secret ceremonial rites held in honor of an ancient Greek or Roman deity and usually characterized by ecstatic singing and dancing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drunken revelry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew that it was nothing else than a ridiculous orgy of the imagination, such as men enjoy in drug dreams, in delirium, or in mere ordinary slumber."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On the other hand, do not make the mistake of thinking that life in solitary was one wild orgy of blithe communion and exhilarating psychological research."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"After a time he fell asleep, and some unsteady fairies had to climb over him on their way home from an orgy."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # curly-grained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of timber; having fibers running irregularly rather than in parallel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of timber; having fibers running irregularly rather than in parallel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-grained designates of timber; having fibers running irregularly rather than in parallel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of timber; having fibers running irregularly rather than in parallel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of timber; having fibers running irregularly rather than in parallel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-grained designates of timber; having fibers running irregularly rather than in parallel."*

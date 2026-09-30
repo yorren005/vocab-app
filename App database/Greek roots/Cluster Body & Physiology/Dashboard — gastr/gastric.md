@@ -5,15 +5,6 @@ status: unread
 ---
 # gastric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laparoscopic surgical procedure for the treatment of severe obesity that involves placing an adjustable band around the upper stomach to create a small pouch which empties into the remaining stomach through a narrow outlet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Another reason which Sag-Harbor (he went by that name) urged for his want of faith in this matter of the prophet, was something obscurely in reference to his incarcerated body and the whale’s gastric juices."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I know you said that he had terrible pains in his stomach, and had spasms, but what do you think made him have them?” “Henry called it gastric trouble."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was sick only a few hours.” “What did you call it?” “Gastric.” “You did not think of an examination?” “There was no need."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laparoscopic surgical procedure for the treatment of severe obesity that involves placing an adjustable band around the upper stomach to create a small pouch which empties into the remaining stomach through a narrow outlet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Another reason which Sag-Harbor (he went by that name) urged for his want of faith in this matter of the prophet, was something obscurely in reference to his incarcerated body and the whale’s gastric juices."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I know you said that he had terrible pains in his stomach, and had spasms, but what do you think made him have them?” “Henry called it gastric trouble."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was sick only a few hours.” “What did you call it?” “Gastric.” “You did not think of an examination?” “There was no need."*

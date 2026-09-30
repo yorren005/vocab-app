@@ -5,13 +5,6 @@ status: unread
 ---
 # statolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the usually calcareous bodies suspended in a statocyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various starch grains or other solid bodies in the plant cytoplasm that are held to be responsible by changes in their position for changes in orientation of a part or organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statolith designates any of the usually calcareous bodies suspended in a statocyst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the usually calcareous bodies suspended in a statocyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various starch grains or other solid bodies in the plant cytoplasm that are held to be responsible by changes in their position for changes in orientation of a part or organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statolith designates any of the usually calcareous bodies suspended in a statocyst."*

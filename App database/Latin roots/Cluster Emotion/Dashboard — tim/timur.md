@@ -5,13 +5,6 @@ status: unread
 ---
 # timur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timur designates mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timur designates mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405)."*

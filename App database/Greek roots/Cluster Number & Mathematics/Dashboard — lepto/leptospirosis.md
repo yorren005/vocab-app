@@ -5,13 +5,6 @@ status: unread
 ---
 # leptospirosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptospirosis designates an infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptospirosis designates an infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever."*

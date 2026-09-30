@@ -5,13 +5,6 @@ status: unread
 ---
 # demurrer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) any pleading that attacks the legal sufficiency of the opponent's pleadings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom thoroughly acquiesced in the general gist of this though the mystical finesse involved was a bit out of his sublunary depth still he felt bound to enter a demurrer on the head of simple, promptly rejoining: —Simple?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) any pleading that attacks the legal sufficiency of the opponent's pleadings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom thoroughly acquiesced in the general gist of this though the mystical finesse involved was a bit out of his sublunary depth still he felt bound to enter a demurrer on the head of simple, promptly rejoining: —Simple?"*

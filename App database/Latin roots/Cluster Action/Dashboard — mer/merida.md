@@ -5,13 +5,6 @@ status: unread
 ---
 # merida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the mexican state of yucatan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the mexican state of yucatan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merida designates the capital of the mexican state of yucatan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the mexican state of yucatan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the mexican state of yucatan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merida designates the capital of the mexican state of yucatan."*

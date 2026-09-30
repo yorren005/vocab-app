@@ -5,15 +5,6 @@ status: unread
 ---
 # sophist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of greek philosophers and teachers in the 5th century bc who speculated on a wide range of subjects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose reasoning is subtle and often specious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CASSIUS, ” ” ” CASCA, ” ” ” TREBONIUS, ” ” ” LIGARIUS,” ” ” DECIUS BRUTUS, ” ” ” METELLUS CIMBER, ” ” ” CINNA, ” ” ” FLAVIUS, tribune MARULLUS, tribune ARTEMIDORUS, a Sophist of Cnidos."*
-> - 📜 **John Keats (*Lamia*):** *"My sweet bride withers at their potency." "Fool!" said the sophist, in an under-tone Gruff with contempt; which a death-nighing moan From Lycius answer'd, as heart-struck and lost, He sank supine beside the aching ghost."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Talk about better and wiser, Wiser and worse are one, The sophist is the despiser Of all things under the sun; Is nothing real but confusion?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of greek philosophers and teachers in the 5th century bc who speculated on a wide range of subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose reasoning is subtle and often specious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CASSIUS, ” ” ” CASCA, ” ” ” TREBONIUS, ” ” ” LIGARIUS,” ” ” DECIUS BRUTUS, ” ” ” METELLUS CIMBER, ” ” ” CINNA, ” ” ” FLAVIUS, tribune MARULLUS, tribune ARTEMIDORUS, a Sophist of Cnidos."*
+> - 📜 **John Keats (*Lamia*):** *"My sweet bride withers at their potency." "Fool!" said the sophist, in an under-tone Gruff with contempt; which a death-nighing moan From Lycius answer'd, as heart-struck and lost, He sank supine beside the aching ghost."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Talk about better and wiser, Wiser and worse are one, The sophist is the despiser Of all things under the sun; Is nothing real but confusion?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # captivate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract; cause to be enamored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the substance shall endure the like, And I will chain these legs and arms of thine, That hast by tyranny these many years Wasted our country, slain our citizens, And sent our sons and husbands captivate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tush, women have been captivate ere now."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then, indeed, does she captivate all hearts by her condescension, by her girlish vivacity, and by her skipping about as in the days when the hideous old general with the mouth too full of teeth had not cut one of them at two guineas each."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract; cause to be enamored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the substance shall endure the like, And I will chain these legs and arms of thine, That hast by tyranny these many years Wasted our country, slain our citizens, And sent our sons and husbands captivate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tush, women have been captivate ere now."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then, indeed, does she captivate all hearts by her condescension, by her girlish vivacity, and by her skipping about as in the days when the hideous old general with the mouth too full of teeth had not cut one of them at two guineas each."*

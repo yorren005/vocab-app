@@ -5,13 +5,6 @@ status: unread
 ---
 # hyalin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalin designates a glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalin designates a glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions."*

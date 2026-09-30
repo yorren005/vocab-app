@@ -5,15 +5,6 @@ status: unread
 ---
 # fanatical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by excessive enthusiasm for and intense devotion to a cause or idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive enthusiasm for and intense devotion to a cause or idea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The people of Cho-Sen are fanatical ancestor-worshippers, and that old pirate of a booty-lusting Dutchman, with his four cunies, in far Kyong-ju, did no less a thing than raid the tombs of the gold-coffined, long-buried kings of ancient Silla."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Reflecting on the narrowness of his ideals we are apt to see him as an ignorant and fanatical sectary, and to detect an unpleasant flavour in his verse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by excessive enthusiasm for and intense devotion to a cause or idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive enthusiasm for and intense devotion to a cause or idea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The people of Cho-Sen are fanatical ancestor-worshippers, and that old pirate of a booty-lusting Dutchman, with his four cunies, in far Kyong-ju, did no less a thing than raid the tombs of the gold-coffined, long-buried kings of ancient Silla."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Reflecting on the narrowness of his ideals we are apt to see him as an ignorant and fanatical sectary, and to detect an unpleasant flavour in his verse."*

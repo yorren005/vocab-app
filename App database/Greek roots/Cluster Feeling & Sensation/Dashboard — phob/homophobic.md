@@ -5,13 +5,6 @@ status: unread
 ---
 # homophobic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prejudiced against homosexual people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prejudiced against homosexual people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophobic designates prejudiced against homosexual people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prejudiced against homosexual people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prejudiced against homosexual people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophobic designates prejudiced against homosexual people."*

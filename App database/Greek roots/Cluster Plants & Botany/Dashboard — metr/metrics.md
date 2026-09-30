@@ -5,13 +5,6 @@ status: unread
 ---
 # metrics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of poetic meter and the art of versification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function of a topological space that gives, for any two points in the space, a value equal to the distance between them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrics designates the study of poetic meter and the art of versification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of poetic meter and the art of versification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function of a topological space that gives, for any two points in the space, a value equal to the distance between them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrics designates the study of poetic meter and the art of versification."*

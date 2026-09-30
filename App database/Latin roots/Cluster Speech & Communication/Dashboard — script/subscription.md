@@ -5,15 +5,6 @@ status: unread
 ---
 # subscription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment for consecutive issues of a newspaper or magazine for a given period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement expressed by (or as if expressed by) signing your name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never gave you kingdom, call’d you children; You owe me no subscription: then let fall Your horrible pleasure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to us that some of them must pass their whole lives in dealing out subscription-cards to the whole post-office directory—shilling cards, half-crown cards, half-sovereign cards, penny cards."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You may have seen their names in a printed subscription list (perhaps more than one) in the possession of our esteemed friend Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment for consecutive issues of a newspaper or magazine for a given period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement expressed by (or as if expressed by) signing your name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never gave you kingdom, call’d you children; You owe me no subscription: then let fall Your horrible pleasure."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to us that some of them must pass their whole lives in dealing out subscription-cards to the whole post-office directory—shilling cards, half-crown cards, half-sovereign cards, penny cards."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You may have seen their names in a printed subscription list (perhaps more than one) in the possession of our esteemed friend Mr."*

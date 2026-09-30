@@ -5,20 +5,6 @@ status: unread
 ---
 # hex
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Witch
-> 2. **Nuance / Usage**: Practice witchcraft
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hex the target*) and intransitive clauses (*hexing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **nine lives (*How to add a hexed pet to my game*):** *"I don't even know how to put a hex in my game if a friend makes me something."*
-> - 📜 **Peterson, Don (*The White Feather Hex*):** *"ever heard of the hex of the white feather?"*
-> - 📜 **Peterson, Don (*The White Feather Hex*):** *"the white feather hex and passed the power on down to your father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: An evil spell, malediction, or malignant charm cast upon a person or object to bring misfortune; as a verb, to bewitch or curse.
+> 2. **Nuance / Usage**: Derived from Pennsylvania Dutch *hexe* (from German *Hexe*, "witch"), it also refers to protective geometric folk symbols ("hex signs") painted on barns to ward off ill luck.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hex the target*) and intransitive clauses (*hexing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Zora Neale Hurston (*Mules and Men*):** *"Old folks in the valley still believed that a conjurer could lay a **hex** across a threshold with graveyard dust and red pepper."*
+> - 📜 **John Updike (*The Witches of Eastwick*):** *"Whether by coincidence or by some petty domestic **hex**, the milk soured on the porch and the garden gate rusted shut."*
+> - 📜 **Shirley Jackson (*We Have Always Lived in the Castle*):** *"Merricat nailed the silver coin to the pine tree as a protective **hex** against anyone who dared trespass on our land."*

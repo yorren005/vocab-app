@@ -5,15 +5,6 @@ status: unread
 ---
 # lucifer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judeo-christian and islamic religions) chief spirit of evil and adversary of god; tempter of mankind; master of hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planet (usually venus) seen just before sunrise in the eastern sky.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That same mad fellow of the north, Percy, and he of Wales that gave Amamon the bastinado, and made Lucifer cuckold, and swore the devil his true liegeman upon the cross of a Welsh hook—what a plague call you him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fiend hath pricked down Bardolph irrecoverable, and his face is Lucifer’s privy-kitchen, where he doth nothing but roast malt-worms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have; And when he falls, he falls like Lucifer, Never to hope again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (judeo-christian and islamic religions) chief spirit of evil and adversary of god; tempter of mankind; master of hell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planet (usually venus) seen just before sunrise in the eastern sky.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That same mad fellow of the north, Percy, and he of Wales that gave Amamon the bastinado, and made Lucifer cuckold, and swore the devil his true liegeman upon the cross of a Welsh hook—what a plague call you him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fiend hath pricked down Bardolph irrecoverable, and his face is Lucifer’s privy-kitchen, where he doth nothing but roast malt-worms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have; And when he falls, he falls like Lucifer, Never to hope again."*

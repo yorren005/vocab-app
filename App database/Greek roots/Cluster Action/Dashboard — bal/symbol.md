@@ -5,15 +5,6 @@ status: unread
 ---
 # symbol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative summary of faith or doctrine : creed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that stands for or suggests something else by reason of relationship, association, convention, or accidental resemblance; especially : a visible sign of something invisible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This quantity theory may be expressed in the formula P = MR/N when P is the symbol for price, or the general price level, N is (1) above, R is (2), and M is (3)."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rough burr-thistle, spreading wide Amang the bearded bear, I turn’d the weeder-clips aside, An’ spar’d the symbol dear: No nation, no station, My envy e’er could raise; A Scot still, but blot still, I knew nae higher praise."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Repent, repent," John cries, "the judgement is coming." And men do repent, and John baptises them as a symbol that God has forgiven them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative summary of faith or doctrine : creed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that stands for or suggests something else by reason of relationship, association, convention, or accidental resemblance; especially : a visible sign of something invisible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This quantity theory may be expressed in the formula P = MR/N when P is the symbol for price, or the general price level, N is (1) above, R is (2), and M is (3)."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rough burr-thistle, spreading wide Amang the bearded bear, I turn’d the weeder-clips aside, An’ spar’d the symbol dear: No nation, no station, My envy e’er could raise; A Scot still, but blot still, I knew nae higher praise."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Repent, repent," John cries, "the judgement is coming." And men do repent, and John baptises them as a symbol that God has forgiven them."*

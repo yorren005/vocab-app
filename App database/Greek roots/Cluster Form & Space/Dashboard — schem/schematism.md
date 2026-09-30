@@ -5,13 +5,6 @@ status: unread
 ---
 # schematism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematism designates the disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematism designates the disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts."*

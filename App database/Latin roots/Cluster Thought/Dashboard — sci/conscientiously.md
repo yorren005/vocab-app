@@ -5,15 +5,6 @@ status: unread
 ---
 # conscientiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With extreme conscientiousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I fear I could not conscientiously do so."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Knowing, however, the dairyman’s wish, she endeavoured conscientiously to take the animals just as they came, excepting the very hard yielders which she could not yet manage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Carter, assure him there’s no danger.” “I can do that conscientiously,” said Carter, who had now undone the bandages; “only I wish I could have got here sooner: he would not have bled so much—but how is this?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With extreme conscientiousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I fear I could not conscientiously do so."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Knowing, however, the dairyman’s wish, she endeavoured conscientiously to take the animals just as they came, excepting the very hard yielders which she could not yet manage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Carter, assure him there’s no danger.” “I can do that conscientiously,” said Carter, who had now undone the bandages; “only I wish I could have got here sooner: he would not have bled so much—but how is this?"*

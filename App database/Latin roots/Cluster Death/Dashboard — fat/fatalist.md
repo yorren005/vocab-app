@@ -5,15 +5,6 @@ status: unread
 ---
 # fatalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anyone who submits to the belief that they are powerless to change their destiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fatalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Better almost the black resignation which the fatalist draws from his own hopelessness, from the fierce kisses of misery that hiss against his tears."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I am enough of a fatalist to believe that whatever the world needs it gets."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is said that he is a fatalist; that he regards himself as the child of fate—the man of destiny; and that he places devout and implicit reliance upon the guiding influence of his star."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anyone who submits to the belief that they are powerless to change their destiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fatalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Better almost the black resignation which the fatalist draws from his own hopelessness, from the fierce kisses of misery that hiss against his tears."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I am enough of a fatalist to believe that whatever the world needs it gets."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is said that he is a fatalist; that he regards himself as the child of fate—the man of destiny; and that he places devout and implicit reliance upon the guiding influence of his star."*

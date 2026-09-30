@@ -5,13 +5,6 @@ status: unread
 ---
 # chroma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saturation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of color combining hue and saturation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chroma designates saturation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saturation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of color combining hue and saturation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chroma designates saturation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rediscover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men, he saw, do not want precepts; they do not want ethics, morals or rules; what they do need is to rethink God, to rediscover him, to re-explore him, to live on the basis of relation with God."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Cataloging an heirloom rediscovers and records the past and, through the memories of you and others, builds another bridge from the past to the present."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Consequently it remained to be rediscovered by Branly, of Paris, in 1890."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men, he saw, do not want precepts; they do not want ethics, morals or rules; what they do need is to rethink God, to rediscover him, to re-explore him, to live on the basis of relation with God."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Cataloging an heirloom rediscovers and records the past and, through the memories of you and others, builds another bridge from the past to the present."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Consequently it remained to be rediscovered by Branly, of Paris, in 1890."*

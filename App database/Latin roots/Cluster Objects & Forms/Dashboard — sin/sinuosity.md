@@ -5,13 +5,6 @@ status: unread
 ---
 # sinuosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having curves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"By the light of our torches, we saw the French, like fantastic goblin figures engendered by the reddish light and the sinuosities of the old Moorish dungeon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having curves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"By the light of our torches, we saw the French, like fantastic goblin figures engendered by the reddish light and the sinuosities of the old Moorish dungeon."*

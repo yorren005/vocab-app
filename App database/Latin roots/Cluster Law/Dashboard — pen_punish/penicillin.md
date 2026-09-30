@@ -5,13 +5,6 @@ status: unread
 ---
 # penicillin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillin designates any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillin designates any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases."*

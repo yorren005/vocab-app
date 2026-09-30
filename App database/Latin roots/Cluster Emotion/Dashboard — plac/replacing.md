@@ -5,15 +5,6 @@ status: unread
 ---
 # replacing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To secure the full benefit of the plan it must be made the exclusive remedy, replacing entirely the old remedy of suits for negligence."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nothing in the world,” was the reply; and, replacing the paper, I saw him dexterously tear a narrow slip from the margin."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But no longer snuffing in the trail of the wild beasts of the woodland, Tashtego now hunted in the wake of the great whales of the sea; the unerring harpoon of the son fitly replacing the infallible arrow of the sires."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To secure the full benefit of the plan it must be made the exclusive remedy, replacing entirely the old remedy of suits for negligence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nothing in the world,” was the reply; and, replacing the paper, I saw him dexterously tear a narrow slip from the margin."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But no longer snuffing in the trail of the wild beasts of the woodland, Tashtego now hunted in the wake of the great whales of the sea; the unerring harpoon of the son fitly replacing the infallible arrow of the sires."*

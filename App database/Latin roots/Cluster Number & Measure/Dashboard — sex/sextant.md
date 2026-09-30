@@ -5,15 +5,6 @@ status: unread
 ---
 # sextant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of angular distance equal to 60 degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the angular distance between celestial objects; resembles an octant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo, by the help of his sextant, took the altitude of the sun, which ought also to give the latitude."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"As he was taking observations with the sextant, one of the sailors of the _Nautilus_ (the strong man who had accompanied us on our first submarine excursion to the Island of Crespo) came to clean the glasses of the lantern."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some minutes before the sun passed the meridian, Captain Nemo took his sextant, and watched with great attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of angular distance equal to 60 degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the angular distance between celestial objects; resembles an octant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo, by the help of his sextant, took the altitude of the sun, which ought also to give the latitude."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"As he was taking observations with the sextant, one of the sailors of the _Nautilus_ (the strong man who had accompanied us on our first submarine excursion to the Island of Crespo) came to clean the glasses of the lantern."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some minutes before the sun passed the meridian, Captain Nemo took his sextant, and watched with great attention."*

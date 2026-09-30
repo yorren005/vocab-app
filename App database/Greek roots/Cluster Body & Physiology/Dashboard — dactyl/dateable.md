@@ -5,13 +5,6 @@ status: unread
 ---
 # dateable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be given a date; - c.w.shumaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be given a date; - c.w.shumaker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dateable designates that can be given a date; - c.w.shumaker."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be given a date; - c.w.shumaker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be given a date; - c.w.shumaker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dateable designates that can be given a date; - c.w.shumaker."*

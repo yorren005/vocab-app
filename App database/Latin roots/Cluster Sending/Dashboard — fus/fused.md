@@ -5,15 +5,6 @@ status: unread
 ---
 # fused
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become plastic or fluid or liquefied from heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"By our era all these religions were fused into one religion, of many cults and rites and ancient traditions; and the incredible weight of old tradition in that world is hard to overestimate."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"All the religions were fused and the gods were blended."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Parallel in the center of the room a double line of four gray tables stood fused to the deck, each with benches on each long side, similarly immobilized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become plastic or fluid or liquefied from heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"By our era all these religions were fused into one religion, of many cults and rites and ancient traditions; and the incredible weight of old tradition in that world is hard to overestimate."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"All the religions were fused and the gods were blended."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Parallel in the center of the room a double line of four gray tables stood fused to the deck, each with benches on each long side, similarly immobilized."*

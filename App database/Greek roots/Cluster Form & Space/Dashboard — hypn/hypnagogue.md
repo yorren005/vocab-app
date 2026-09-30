@@ -5,13 +5,6 @@ status: unread
 ---
 # hypnagogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that induces drowsiness or sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that induces drowsiness or sleep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnagogue designates an agent that induces drowsiness or sleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that induces drowsiness or sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that induces drowsiness or sleep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnagogue designates an agent that induces drowsiness or sleep."*

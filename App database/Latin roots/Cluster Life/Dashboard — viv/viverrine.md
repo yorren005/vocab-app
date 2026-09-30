@@ -5,13 +5,6 @@ status: unread
 ---
 # viverrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small cat-like predatory mammals of warmer parts of the old world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small cat-like predatory mammals of warmer parts of the old world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viverrine designates small cat-like predatory mammals of warmer parts of the old world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small cat-like predatory mammals of warmer parts of the old world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small cat-like predatory mammals of warmer parts of the old world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viverrine designates small cat-like predatory mammals of warmer parts of the old world."*

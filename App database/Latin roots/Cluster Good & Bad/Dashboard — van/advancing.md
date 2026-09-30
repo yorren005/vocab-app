@@ -5,15 +5,6 @@ status: unread
 ---
 # advancing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward, also in the metaphorical sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring forward for consideration or acceptance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ROSALIND. [_Advancing_.] And why, I pray you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. [_Advancing._] What is he whose grief Bears such an emphasis? whose phrase of sorrow Conjures the wand’ring stars, and makes them stand Like wonder-wounded hearers?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us send her to call him in to dinner. [Exeunt Don Pedro, Claudio and Leonato.] BENEDICK. [Advancing from the arbour.] This can be no trick: the conference was sadly borne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward, also in the metaphorical sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring forward for consideration or acceptance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ROSALIND. [_Advancing_.] And why, I pray you?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. [_Advancing._] What is he whose grief Bears such an emphasis? whose phrase of sorrow Conjures the wand’ring stars, and makes them stand Like wonder-wounded hearers?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us send her to call him in to dinner. [Exeunt Don Pedro, Claudio and Leonato.] BENEDICK. [Advancing from the arbour.] This can be no trick: the conference was sadly borne."*

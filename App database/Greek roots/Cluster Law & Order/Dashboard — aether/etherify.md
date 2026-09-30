@@ -5,13 +5,6 @@ status: unread
 ---
 # etherify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change into an ether.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into an ether.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etherify designates change into an ether."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change into an ether.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into an ether.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etherify designates change into an ether."*

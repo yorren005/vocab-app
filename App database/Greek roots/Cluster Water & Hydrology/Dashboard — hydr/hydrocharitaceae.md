@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrocharitaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocharitaceae designates simple nearly stemless freshwater aquatic plants; widely distributed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocharitaceae designates simple nearly stemless freshwater aquatic plants; widely distributed."*

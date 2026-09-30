@@ -5,13 +5,6 @@ status: unread
 ---
 # permutation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event in which one thing is substituted for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the arrangement of a given number of elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A was undermining B, D was undermining C, and so on in all possible combinations and permutations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event in which one thing is substituted for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the arrangement of a given number of elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A was undermining B, D was undermining C, and so on in all possible combinations and permutations."*

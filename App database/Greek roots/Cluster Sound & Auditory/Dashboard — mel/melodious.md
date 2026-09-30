@@ -5,15 +5,6 @@ status: unread
 ---
 # melodious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a musical sound; especially a pleasing tune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or constituting or characterized by pleasing melody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But long it could not be Till that her garments, heavy with their drink, Pull’d the poor wretch from her melodious lay To muddy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pless my soul! [_Sings._] _To shallow rivers, to whose falls Melodious birds sings madrigals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To shallow_— Mercy on me, I have a great dispositions to cry. [_Sings._] _Melodious birds sing madrigals— Whenas I sat in Pabylon— And a thousand vagram posies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a musical sound; especially a pleasing tune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or constituting or characterized by pleasing melody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But long it could not be Till that her garments, heavy with their drink, Pull’d the poor wretch from her melodious lay To muddy death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pless my soul! [_Sings._] _To shallow rivers, to whose falls Melodious birds sings madrigals."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To shallow_— Mercy on me, I have a great dispositions to cry. [_Sings._] _Melodious birds sing madrigals— Whenas I sat in Pabylon— And a thousand vagram posies."*

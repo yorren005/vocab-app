@@ -5,15 +5,6 @@ status: unread
 ---
 # principal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The original amount of a debt on which interest is calculated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The educator who has executive authority for a school.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within the year it will make itself two, which is a goodly increase, and the principal itself not much the worse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you remember any of the principal evils that he laid to the charge of women?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this thick-grown brake we’ll shroud ourselves, For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer. 2 KEEPER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The original amount of a debt on which interest is calculated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The educator who has executive authority for a school.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within the year it will make itself two, which is a goodly increase, and the principal itself not much the worse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you remember any of the principal evils that he laid to the charge of women?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this thick-grown brake we’ll shroud ourselves, For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer. 2 KEEPER."*

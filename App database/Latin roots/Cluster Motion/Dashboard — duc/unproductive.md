@@ -5,15 +5,6 @@ status: unread
 ---
 # unproductive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing or capable of producing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing desired results.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had, by cross-ways and by-paths, once more drawn near the tract of moorland; and now, only a few fields, almost as wild and unproductive as the heath from which they were scarcely reclaimed, lay between me and the dusky hill."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"They become "full of hypocrisy and lawlessness" (Matt. 23:28), so depraved that they are like bad trees, unproductive of any but bad fruit (rotten, in the Greek, Matt. 7:17); the very light in them is darkness, and how great darkness (Matt. 6:23)."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The letter was not unproductive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing or capable of producing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing desired results.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had, by cross-ways and by-paths, once more drawn near the tract of moorland; and now, only a few fields, almost as wild and unproductive as the heath from which they were scarcely reclaimed, lay between me and the dusky hill."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"They become "full of hypocrisy and lawlessness" (Matt. 23:28), so depraved that they are like bad trees, unproductive of any but bad fruit (rotten, in the Greek, Matt. 7:17); the very light in them is darkness, and how great darkness (Matt. 6:23)."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The letter was not unproductive."*

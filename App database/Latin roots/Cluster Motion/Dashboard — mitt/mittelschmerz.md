@@ -5,13 +5,6 @@ status: unread
 ---
 # mittelschmerz
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mittelschmerz designates pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mittelschmerz designates pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle)."*

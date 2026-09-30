@@ -5,13 +5,6 @@ status: unread
 ---
 # nominalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who has adopted the doctrine of nominalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who has adopted the doctrine of nominalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalist designates a philosopher who has adopted the doctrine of nominalism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who has adopted the doctrine of nominalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who has adopted the doctrine of nominalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nominalist designates a philosopher who has adopted the doctrine of nominalism."*

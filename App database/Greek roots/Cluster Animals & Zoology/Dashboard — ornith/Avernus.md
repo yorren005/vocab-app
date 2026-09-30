@@ -5,15 +5,6 @@ status: unread
 ---
 # Avernus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lake in southern Italy in the crater of an extinct volcano west of Naples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake in southern Italy in the crater of an extinct volcano west of Naples.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The Marquesans have a similar belief in regard to the northermost island of their group, and apply the same term, "Reinga," to their Avernus."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Fragmentary Scenes from the Road to Avernus An Unpublished Dramatic Lyric Scene I "Discontent" LAURENCE RABY."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"He: Aye, 'tis the road to Avernus, n'est ce pas vrai donc, ma belle?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lake in southern Italy in the crater of an extinct volcano west of Naples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake in southern Italy in the crater of an extinct volcano west of Naples.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The Marquesans have a similar belief in regard to the northermost island of their group, and apply the same term, "Reinga," to their Avernus."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Fragmentary Scenes from the Road to Avernus An Unpublished Dramatic Lyric Scene I "Discontent" LAURENCE RABY."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"He: Aye, 'tis the road to Avernus, n'est ce pas vrai donc, ma belle?"*

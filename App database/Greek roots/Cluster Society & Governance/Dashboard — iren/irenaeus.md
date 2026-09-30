@@ -5,15 +5,6 @@ status: unread
 ---
 # irenaeus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek theologian who was bishop of lyons and an antiheretical writer; a saint and doctor of the church (circa 130-200).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek theologian who was bishop of lyons and an antiheretical writer; a saint and doctor of the church (circa 130-200).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But at last Christ departed from Jesus, and that then Jesus suffered and rose again, while Christ remained impassible, inasmuch as he was a spiritual being.” ‘The Writings of Irenaeus, transl. by Rev."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Art thou gone mad, Irenaeus?" asked the porter, as he opened the door for me and my bleating charge, "that thou drivest home before shearing time."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Thus far had he written, the God forsaken Brother Irenaeus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek theologian who was bishop of lyons and an antiheretical writer; a saint and doctor of the church (circa 130-200).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek theologian who was bishop of lyons and an antiheretical writer; a saint and doctor of the church (circa 130-200).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But at last Christ departed from Jesus, and that then Jesus suffered and rose again, while Christ remained impassible, inasmuch as he was a spiritual being.” ‘The Writings of Irenaeus, transl. by Rev."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Art thou gone mad, Irenaeus?" asked the porter, as he opened the door for me and my bleating charge, "that thou drivest home before shearing time."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Thus far had he written, the God forsaken Brother Irenaeus."*

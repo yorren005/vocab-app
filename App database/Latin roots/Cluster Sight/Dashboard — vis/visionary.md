@@ -5,15 +5,6 @@ status: unread
 ---
 # visionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person given to fanciful speculations and enthusiasms with little regard for what is actually possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with unusual powers of foresight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was no longer the milkmaid, but a visionary essence of woman—a whole sex condensed into one typical form."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Paul Lecamus is always worthy to be heard.' 'Oh!' he said, 'I am called visionary."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It brought a smile to the grave face of M. le Curé and tempted me well nigh to laughter, so strangely did this sensation of the actual, break and disperse the visionary atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person given to fanciful speculations and enthusiasms with little regard for what is actually possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with unusual powers of foresight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was no longer the milkmaid, but a visionary essence of woman—a whole sex condensed into one typical form."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Paul Lecamus is always worthy to be heard.' 'Oh!' he said, 'I am called visionary."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It brought a smile to the grave face of M. le Curé and tempted me well nigh to laughter, so strangely did this sensation of the actual, break and disperse the visionary atmosphere."*

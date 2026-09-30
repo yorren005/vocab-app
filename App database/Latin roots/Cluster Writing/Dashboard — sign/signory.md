@@ -5,14 +5,6 @@ status: unread
 ---
 # signory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a seigneur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The estate of a seigneur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were you not restored To all the Duke of Norfolk’s signories, Your noble and right well rememb’red father’s?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Repealed he shall be, And, though mine enemy, restored again To all his lands and signories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a seigneur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The estate of a seigneur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were you not restored To all the Duke of Norfolk’s signories, Your noble and right well rememb’red father’s?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Repealed he shall be, And, though mine enemy, restored again To all his lands and signories."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mitigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To act in such a way as to cause an offense to seem less serious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, How now for mitigation of this bill Urged by the Commons?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, behold, where Madam Mitigation comes!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do ye make an ale-house of my lady’s house, that ye squeak out your coziers’ catches without any mitigation or remorse of voice?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act in such a way as to cause an offense to seem less serious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, How now for mitigation of this bill Urged by the Commons?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, behold, where Madam Mitigation comes!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do ye make an ale-house of my lady’s house, that ye squeak out your coziers’ catches without any mitigation or remorse of voice?"*

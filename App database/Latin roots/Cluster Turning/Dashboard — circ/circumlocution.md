@@ -5,15 +5,6 @@ status: unread
 ---
 # circumlocution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style that involves indirect ways of expressing things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indirect way of expressing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She had a good honest glance and used no circumlocution."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"It was like a highly-finished miniature painting representing My Lords of the Circumlocution Department, Commandership-in-Chief of any sort, Government."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"We shall therefore, without circumlocution, premise, that Miss Meadows was no other than that paragon of beauty and goodness, the all-accomplished Miss Aurelia Darnel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A style that involves indirect ways of expressing things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indirect way of expressing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She had a good honest glance and used no circumlocution."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"It was like a highly-finished miniature painting representing My Lords of the Circumlocution Department, Commandership-in-Chief of any sort, Government."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"We shall therefore, without circumlocution, premise, that Miss Meadows was no other than that paragon of beauty and goodness, the all-accomplished Miss Aurelia Darnel."*

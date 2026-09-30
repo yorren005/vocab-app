@@ -5,15 +5,6 @@ status: unread
 ---
 # barricade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barrier (usually thrown up hastily) to impede the advance of an enemy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"So, in order that he might be quite undisturbed, he piled up some forms and chairs against the door on the inside, forgetting entirely that the upper part of it was obscure glass and that his barricade was perfectly visible from without."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now lead the way, and we shall soon see the end of this black business.” We passed up the stair, unlocked the door, followed on down a passage, and found ourselves in front of the barricade which Miss Hunter had described."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Fix the barricade so that we can shoot a one-time flash-spunnel message through to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barrier (usually thrown up hastily) to impede the advance of an enemy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"So, in order that he might be quite undisturbed, he piled up some forms and chairs against the door on the inside, forgetting entirely that the upper part of it was obscure glass and that his barricade was perfectly visible from without."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now lead the way, and we shall soon see the end of this black business.” We passed up the stair, unlocked the door, followed on down a passage, and found ourselves in front of the barricade which Miss Hunter had described."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Fix the barricade so that we can shoot a one-time flash-spunnel message through to him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lintwhite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small old world finch whose male has a red breast and forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small old world finch whose male has a red breast and forehead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In vain to me the cowslips blaw, In vain to me the vi’lets spring; In vain to me in glen or shaw, The mavis and the lintwhite sing."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But hawks will rob the tender joys That bless the little lintwhite’s nest; And frost will blight the fairest flowers, And love will break the soundest rest."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O, sweet are Coila’s haughs an’ woods, When lintwhites chant amang the buds, And jinkin hares, in amorous whids, Their loves enjoy; While thro’ the braes the cushat croods With wailfu’ cry!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small old world finch whose male has a red breast and forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small old world finch whose male has a red breast and forehead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In vain to me the cowslips blaw, In vain to me the vi’lets spring; In vain to me in glen or shaw, The mavis and the lintwhite sing."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But hawks will rob the tender joys That bless the little lintwhite’s nest; And frost will blight the fairest flowers, And love will break the soundest rest."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O, sweet are Coila’s haughs an’ woods, When lintwhites chant amang the buds, And jinkin hares, in amorous whids, Their loves enjoy; While thro’ the braes the cushat croods With wailfu’ cry!"*

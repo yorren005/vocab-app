@@ -5,15 +5,6 @@ status: unread
 ---
 # informal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not formal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not officially recognized or controlled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do perceive These poor informal women are no more But instruments of some more mightier member That sets them on."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"He readily gives and takes simple neighborly help in informal ways, but he does not readily turn to government for aid."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She maintained this belligerent attitude for several days, during which time a series of informal negotiations were pending, and wide alarm spread over the island."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not formal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not officially recognized or controlled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do perceive These poor informal women are no more But instruments of some more mightier member That sets them on."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"He readily gives and takes simple neighborly help in informal ways, but he does not readily turn to government for aid."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She maintained this belligerent attitude for several days, during which time a series of informal negotiations were pending, and wide alarm spread over the island."*

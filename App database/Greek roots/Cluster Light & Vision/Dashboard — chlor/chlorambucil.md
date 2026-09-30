@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorambucil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkalating agent (trade name leukeran) used to treat some kinds of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkalating agent (trade name leukeran) used to treat some kinds of cancer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorambucil designates an alkalating agent (trade name leukeran) used to treat some kinds of cancer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkalating agent (trade name leukeran) used to treat some kinds of cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkalating agent (trade name leukeran) used to treat some kinds of cancer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorambucil designates an alkalating agent (trade name leukeran) used to treat some kinds of cancer."*

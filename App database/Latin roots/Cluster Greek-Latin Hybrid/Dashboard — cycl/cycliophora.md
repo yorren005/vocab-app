@@ -5,13 +5,6 @@ status: unread
 ---
 # cycliophora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycliophora designates tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycliophora designates tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta."*

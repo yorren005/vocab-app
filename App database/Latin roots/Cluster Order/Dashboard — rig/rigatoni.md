@@ -5,13 +5,6 @@ status: unread
 ---
 # rigatoni
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tubular pasta in short ribbed pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tubular pasta in short ribbed pieces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigatoni designates tubular pasta in short ribbed pieces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tubular pasta in short ribbed pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tubular pasta in short ribbed pieces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigatoni designates tubular pasta in short ribbed pieces."*

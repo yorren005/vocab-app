@@ -5,15 +5,6 @@ status: unread
 ---
 # repulse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of driving away or warding off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force or drive back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He received in the repulse of Tarquin seven hurts i’ th’ body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A repulse; though your attempt, as you call it, deserve more; a punishment too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yield, my Lord Protector; yield, Winchester; Except you mean with obstinate repulse To slay your sovereign and destroy the realm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of driving away or warding off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force or drive back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He received in the repulse of Tarquin seven hurts i’ th’ body."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A repulse; though your attempt, as you call it, deserve more; a punishment too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yield, my Lord Protector; yield, Winchester; Except you mean with obstinate repulse To slay your sovereign and destroy the realm."*

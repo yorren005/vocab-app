@@ -5,15 +5,6 @@ status: unread
 ---
 # intentional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by conscious design or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made or performed with purpose and intent; - havelock ellis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"What could all this mean but an intentional affront?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Whether that might be or mightn’t be, is a thing as can’t be looked into now, without putting your sister on the Rampage; and that’s a thing not to be thought of as being done intentional."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am as you see.” The lively song gave a special flavor to the tone of free and easy gaiety with which Zherkóv spoke, and to the intentional coldness of Dólokhov’s reply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by conscious design or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made or performed with purpose and intent; - havelock ellis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"What could all this mean but an intentional affront?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Whether that might be or mightn’t be, is a thing as can’t be looked into now, without putting your sister on the Rampage; and that’s a thing not to be thought of as being done intentional."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am as you see.” The lively song gave a special flavor to the tone of free and easy gaiety with which Zherkóv spoke, and to the intentional coldness of Dólokhov’s reply."*

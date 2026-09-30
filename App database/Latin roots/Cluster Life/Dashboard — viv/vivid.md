@@ -5,15 +5,6 @@ status: unread
 ---
 # vivid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evoking lifelike images within the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the clarity and freshness of immediate experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She always found it difficult to quiet the little girl, but to-day she seemed filled by very vivid impressions."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the children returned at noon from school they were still full of their vivid impression of Salo's sudden appearance and departure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Or ’tis her father’s razor!” suggested Billy Smallbury, with a vivid sense of detail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evoking lifelike images within the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the clarity and freshness of immediate experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She always found it difficult to quiet the little girl, but to-day she seemed filled by very vivid impressions."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the children returned at noon from school they were still full of their vivid impression of Salo's sudden appearance and departure."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Or ’tis her father’s razor!” suggested Billy Smallbury, with a vivid sense of detail."*

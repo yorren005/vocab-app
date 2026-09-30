@@ -5,15 +5,6 @@ status: unread
 ---
 # electrify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excite suddenly and intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge (a conductor) with electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing of the dream had been real but my burst of laughter, a sound never before heard in that grave sanctuary, and so abhorrent to the ears of wisdom, as to electrify the fraternity."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge's breezy way of expressing himself is apt to electrify the stranger."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The murder of an empress then—even the assassination of Caesar himself—could not electrify the world as this murder has electrified it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excite suddenly and intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge (a conductor) with electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing of the dream had been real but my burst of laughter, a sound never before heard in that grave sanctuary, and so abhorrent to the ears of wisdom, as to electrify the fraternity."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge's breezy way of expressing himself is apt to electrify the stranger."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The murder of an empress then—even the assassination of Caesar himself—could not electrify the world as this murder has electrified it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # allocate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute according to a plan or set apart for a special purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Advise allocate substantial portion of budget to meet continual needs arising at International Center of Faith. [May 3, 1952] FORTY-FIFTH ANNUAL CONVENTION: U.S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute according to a plan or set apart for a special purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Advise allocate substantial portion of budget to meet continual needs arising at International Center of Faith. [May 3, 1952] FORTY-FIFTH ANNUAL CONVENTION: U.S."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amnion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A membrane analogous to the amnion and occurring in various invertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnion designates the thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A membrane analogous to the amnion and occurring in various invertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnion designates the thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord."*

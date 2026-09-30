@@ -5,15 +5,6 @@ status: unread
 ---
 # confidential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrusted with private information and the confidence of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of information) given in confidence or in secret.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, entering, greeted one after the other in such an engaging, confidential way that she made them feel as if they were old friends."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, in return, make any confidential communication to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It laid the injunction on me that I should never propose to see the writer, who had long been estranged from all intercourse with the world, but who would see a confidential agent if I would appoint one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrusted with private information and the confidence of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of information) given in confidence or in secret.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, entering, greeted one after the other in such an engaging, confidential way that she made them feel as if they were old friends."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, in return, make any confidential communication to Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It laid the injunction on me that I should never propose to see the writer, who had long been estranged from all intercourse with the world, but who would see a confidential agent if I would appoint one."*

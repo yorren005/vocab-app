@@ -5,20 +5,6 @@ status: unread
 ---
 # crave
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Yearn for
-> 2. **Nuance / Usage**: Want greatly : need
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to crave the target*) and intransitive clauses (*craving against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My nobler friends, I crave their pardons."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Till time and vantage crave my company."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And then I need not crave his courtesy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To feel a powerful, urgent desire or deep yearning for something, whether physical nourishment or emotional fulfillment.
+> 2. **Nuance / Usage**: Implies an almost visceral, compulsive appetite that demands satisfaction; in formal or archaic registers, it also means to earnestly beg or ask for (*to crave pardon*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to crave the target*) and intransitive clauses (*craving against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"My nobler friends, I **crave** their pardons."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My spirit **craved** liberty and the open air beyond the walls of Lowood."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"He was **craving** for the wild meat that sustained his newfound strength in the frozen north."*

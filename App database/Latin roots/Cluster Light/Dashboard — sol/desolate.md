@@ -5,15 +5,6 @@ status: unread
 ---
 # desolate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave someone who needs or counts on you; leave in the lurch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in population.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are his substance, sinews, arms and strength, With which he yoketh your rebellious necks, Razeth your cities and subverts your towns, And in a moment makes them desolate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The name of Henry the Fifth hales them to an hundred mischiefs and makes them leave me desolate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us seek out some desolate shade and there Weep our sad bosoms empty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave someone who needs or counts on you; leave in the lurch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in population.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are his substance, sinews, arms and strength, With which he yoketh your rebellious necks, Razeth your cities and subverts your towns, And in a moment makes them desolate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The name of Henry the Fifth hales them to an hundred mischiefs and makes them leave me desolate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us seek out some desolate shade and there Weep our sad bosoms empty."*

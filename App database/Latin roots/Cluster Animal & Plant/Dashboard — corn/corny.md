@@ -5,15 +5,6 @@ status: unread
 ---
 # corny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull and tiresome but with pretensions of significance or originality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull and tiresome but with pretensions of significance or originality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ilk cowslip cup shall kep a tear: Thou, Simmer, while each corny spear Shoots up its head, Thy gay, green, flow’ry tresses shear, For him that’s dead!"*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"But he would also find in the satirical squibs on Corny, the Cambridge bookseller and printer, evidence of learning and university life (pt. 2, pp. 4-6) as well as a criticism of opera (pt. 2, pp. 14-16)."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Poor Miss _Molly_! _Wrote on Cor---- Cr----d's (a Printer and Bookseller in Cambridge) Window in the Shop._ Ye longing Sophs, say it who can, That _Corny_'s not a learned Man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull and tiresome but with pretensions of significance or originality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull and tiresome but with pretensions of significance or originality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ilk cowslip cup shall kep a tear: Thou, Simmer, while each corny spear Shoots up its head, Thy gay, green, flow’ry tresses shear, For him that’s dead!"*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"But he would also find in the satirical squibs on Corny, the Cambridge bookseller and printer, evidence of learning and university life (pt. 2, pp. 4-6) as well as a criticism of opera (pt. 2, pp. 14-16)."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Poor Miss _Molly_! _Wrote on Cor---- Cr----d's (a Printer and Bookseller in Cambridge) Window in the Shop._ Ye longing Sophs, say it who can, That _Corny_'s not a learned Man."*

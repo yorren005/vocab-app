@@ -5,13 +5,6 @@ status: unread
 ---
 # defecation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elimination of fecal waste through the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elimination of fecal waste through the anus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"The traditional connection between defecation and writing was another comparison apparent to the commentators."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elimination of fecal waste through the anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elimination of fecal waste through the anus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"The traditional connection between defecation and writing was another comparison apparent to the commentators."*

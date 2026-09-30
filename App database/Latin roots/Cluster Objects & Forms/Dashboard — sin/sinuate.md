@@ -5,13 +5,6 @@ status: unread
 ---
 # sinuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or curving in and out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strongly waved margin alternately concave and convex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinuate designates curved or curving in and out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or curving in and out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strongly waved margin alternately concave and convex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinuate designates curved or curving in and out."*

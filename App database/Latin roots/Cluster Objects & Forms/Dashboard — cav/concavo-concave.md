@@ -5,13 +5,6 @@ status: unread
 ---
 # concavo-concave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on both sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concave on both sides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concavo-concave designates concave on both sides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on both sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concave on both sides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concavo-concave designates concave on both sides."*

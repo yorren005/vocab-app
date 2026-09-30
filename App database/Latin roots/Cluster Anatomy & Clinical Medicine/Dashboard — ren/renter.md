@@ -5,14 +5,6 @@ status: unread
 ---
 # renter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pays rent to use land or a building or a car that is owned by someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An owner of property who receives payment for its use by another person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She became a subscriber; amazed at being anything _in propria persona_, amazed at her own doings in every way, to be a renter, a chuser of books!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"All these things might be alleged against Lydgate, but then, they are the periphrases of a polite preacher, who talks of Adam, and would not like to mention anything painful to the pew-renters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pays rent to use land or a building or a car that is owned by someone else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An owner of property who receives payment for its use by another person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She became a subscriber; amazed at being anything _in propria persona_, amazed at her own doings in every way, to be a renter, a chuser of books!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"All these things might be alleged against Lydgate, but then, they are the periphrases of a polite preacher, who talks of Adam, and would not like to mention anything painful to the pew-renters."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inopportune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not opportune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not opportune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How foolish and inopportune that mistletoe looked now."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It appears I come at an inopportune time, madam,” said he, “when my friend, Mr."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But that perversity, which all children have more or less of, and of which little Pearl had a tenfold portion, now, at the most inopportune moment, took thorough possession of her, and closed her lips, or impelled her to speak words amiss."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not opportune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not opportune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How foolish and inopportune that mistletoe looked now."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It appears I come at an inopportune time, madam,” said he, “when my friend, Mr."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But that perversity, which all children have more or less of, and of which little Pearl had a tenfold portion, now, at the most inopportune moment, took thorough possession of her, and closed her lips, or impelled her to speak words amiss."*

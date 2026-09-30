@@ -5,13 +5,6 @@ status: unread
 ---
 # crecy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crecy designates the first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crecy designates the first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # injectant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any solution that is injected (as into the skin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any solution that is injected (as into the skin).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, injectant designates any solution that is injected (as into the skin)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any solution that is injected (as into the skin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any solution that is injected (as into the skin).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, injectant designates any solution that is injected (as into the skin)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # implant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prosthesis placed permanently in tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had made an effort to keep her children from harmful influences and to implant in them a hate for these things."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Socrates saw that the teacher's real work, his only work, is to implant the idea, like a seed; an idea, like a seed, will look after itself."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Implant in their bosoms an ardent love for the Union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prosthesis placed permanently in tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had made an effort to keep her children from harmful influences and to implant in them a hate for these things."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Socrates saw that the teacher's real work, his only work, is to implant the idea, like a seed; an idea, like a seed, will look after itself."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Implant in their bosoms an ardent love for the Union."*

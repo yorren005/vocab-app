@@ -5,15 +5,6 @@ status: unread
 ---
 # heresy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherence to a religious opinion contrary to church dogma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion or doctrine contrary to church dogma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The scriptures of the loyal Leonatus All turn’d to heresy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heresy in fair, fit for these days!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your reasons at dinner have been sharp and sententious, pleasant without scurrility, witty without affection, audacious without impudency, learned without opinion, and strange without heresy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherence to a religious opinion contrary to church dogma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion or doctrine contrary to church dogma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The scriptures of the loyal Leonatus All turn’d to heresy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heresy in fair, fit for these days!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your reasons at dinner have been sharp and sententious, pleasant without scurrility, witty without affection, audacious without impudency, learned without opinion, and strange without heresy."*

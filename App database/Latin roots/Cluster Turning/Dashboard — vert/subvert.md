@@ -5,15 +5,6 @@ status: unread
 ---
 # subvert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause the downfall of; of rulers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Schemes to subvert the liberties of a great community REQUIRE TIME to mature them for execution."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, you will be loyal to each other and to us; on the other, you, and I mean each of you, will lie, cheat, bribe, subvert, sabotage, and kill for the mission, and if it serves our greater purpose, act convincingly against us."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I suspect him of trying to subvert my rule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause the downfall of; of rulers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Schemes to subvert the liberties of a great community REQUIRE TIME to mature them for execution."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, you will be loyal to each other and to us; on the other, you, and I mean each of you, will lie, cheat, bribe, subvert, sabotage, and kill for the mission, and if it serves our greater purpose, act convincingly against us."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I suspect him of trying to subvert my rule."*

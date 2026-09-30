@@ -5,15 +5,6 @@ status: unread
 ---
 # stench
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is offensively unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive odor that is offensively unpleasant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So bees with smoke and doves with noisome stench Are from their hives and houses driven away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to the girdle do the gods inherit, beneath is all the fiend’s; there’s hell, there’s darkness, there is the sulphurous pit; burning, scalding, stench, consumption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is offensively unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive odor that is offensively unpleasant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So bees with smoke and doves with noisome stench Are from their hives and houses driven away."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to the girdle do the gods inherit, beneath is all the fiend’s; there’s hell, there’s darkness, there is the sulphurous pit; burning, scalding, stench, consumption."*

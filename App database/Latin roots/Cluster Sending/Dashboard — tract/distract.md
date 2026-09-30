@@ -5,15 +5,6 @@ status: unread
 ---
 # distract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw someone's attention away from something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fellow is distract, and so am I, And here we wander in illusions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is importunate, indeed distract."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this she fell distract, And, her attendants absent, swallow’d fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw someone's attention away from something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fellow is distract, and so am I, And here we wander in illusions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is importunate, indeed distract."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this she fell distract, And, her attendants absent, swallow’d fire."*

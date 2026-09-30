@@ -5,13 +5,6 @@ status: unread
 ---
 # syncarpous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ovaries of flowering plants) consisting of united carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ovaries of flowering plants) consisting of united carpels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncarpous designates (of ovaries of flowering plants) consisting of united carpels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ovaries of flowering plants) consisting of united carpels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ovaries of flowering plants) consisting of united carpels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncarpous designates (of ovaries of flowering plants) consisting of united carpels."*

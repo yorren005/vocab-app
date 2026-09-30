@@ -5,15 +5,6 @@ status: unread
 ---
 # rancorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deep-seated resentment; - aldous huxley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deep-seated resentment; - aldous huxley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me seemeth then it is no policy, Respecting what a rancorous mind he bears And his advantage following your decease, That he should come about your royal person Or be admitted to your Highness’ Council."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear no knife to slaughter sleeping men, But here’s a vengeful sword, rusted with ease, That shall be scoured in his rancorous heart That slanders me with murder’s crimson badge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deep-seated resentment; - aldous huxley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deep-seated resentment; - aldous huxley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me seemeth then it is no policy, Respecting what a rancorous mind he bears And his advantage following your decease, That he should come about your royal person Or be admitted to your Highness’ Council."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear no knife to slaughter sleeping men, But here’s a vengeful sword, rusted with ease, That shall be scoured in his rancorous heart That slanders me with murder’s crimson badge."*

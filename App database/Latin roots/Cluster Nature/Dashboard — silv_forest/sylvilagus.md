@@ -5,13 +5,6 @@ status: unread
 ---
 # sylvilagus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american rabbits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american rabbits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylvilagus designates north american rabbits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: North american rabbits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american rabbits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylvilagus designates north american rabbits."*

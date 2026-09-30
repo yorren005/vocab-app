@@ -5,15 +5,6 @@ status: unread
 ---
 # redolent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to bring to mind; - wilder hobson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with `of' or `with') noticeably odorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Must it not be to that famous elephant, with jewelled tusks, and redolent with myrrh, which was led out of an Indian town to do honor to Alexander the Great?"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Glittered and sparkled the revelling spray, Swelled and receded its silvery lay, Rustled the roses in fervid array, In fragrance declaring their costly acclaim, Wafting on soft winds the redolent fame Of fantasy, fountain, and tuneful refrain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to bring to mind; - wilder hobson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with `of' or `with') noticeably odorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Must it not be to that famous elephant, with jewelled tusks, and redolent with myrrh, which was led out of an Indian town to do honor to Alexander the Great?"*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Glittered and sparkled the revelling spray, Swelled and receded its silvery lay, Rustled the roses in fervid array, In fragrance declaring their costly acclaim, Wafting on soft winds the redolent fame Of fantasy, fountain, and tuneful refrain."*

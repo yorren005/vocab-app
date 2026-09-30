@@ -5,14 +5,6 @@ status: unread
 ---
 # nativism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy of perpetuating native cultures (in opposition to acculturation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical theory that some ideas are innate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thereafter for some years, with the exception of a small vote in Pennsylvania and New York, Nativism disappeared."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Nativism then re-appeared, but in a new form—that of a secret fraternity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy of perpetuating native cultures (in opposition to acculturation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical theory that some ideas are innate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thereafter for some years, with the exception of a small vote in Pennsylvania and New York, Nativism disappeared."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Nativism then re-appeared, but in a new form—that of a secret fraternity."*

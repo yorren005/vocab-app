@@ -5,13 +5,6 @@ status: unread
 ---
 # bellarmine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian cardinal and theologian (1542-1621).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stoneware drinking jug with a long neck; decorated with a caricature of cardinal bellarmine (17th century).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The rest was a confused multitude, led by Scotus, Aquinas, and Bellarmine; of mighty bulk and stature, but without either arms, courage, or discipline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian cardinal and theologian (1542-1621).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stoneware drinking jug with a long neck; decorated with a caricature of cardinal bellarmine (17th century).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The rest was a confused multitude, led by Scotus, Aquinas, and Bellarmine; of mighty bulk and stature, but without either arms, courage, or discipline."*

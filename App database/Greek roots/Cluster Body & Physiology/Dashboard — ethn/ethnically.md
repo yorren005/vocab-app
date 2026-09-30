@@ -5,13 +5,6 @@ status: unread
 ---
 # ethnically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to ethnicity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to ethnicity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What anthem did Bloom chant partially in anticipation of that multiple, ethnically irreducible consummation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to ethnicity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to ethnicity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What anthem did Bloom chant partially in anticipation of that multiple, ethnically irreducible consummation?"*

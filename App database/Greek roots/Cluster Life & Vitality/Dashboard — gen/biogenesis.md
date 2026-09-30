@@ -5,13 +5,6 @@ status: unread
 ---
 # biogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of life from preexisting life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The synthesis of chemical compounds or structures in the living organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogenesis designates the development of life from preexisting life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of life from preexisting life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The synthesis of chemical compounds or structures in the living organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogenesis designates the development of life from preexisting life."*

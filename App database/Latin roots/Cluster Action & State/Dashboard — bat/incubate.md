@@ -5,13 +5,6 @@ status: unread
 ---
 # incubate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow under conditions that promote development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sit on (eggs).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It appeared to me that the eggs from which young Insurers were hatched were incubated in dust and heat, like the eggs of ostriches, judging from the places to which those incipient giants repaired on a Monday morning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow under conditions that promote development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sit on (eggs).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It appeared to me that the eggs from which young Insurers were hatched were incubated in dust and heat, like the eggs of ostriches, judging from the places to which those incipient giants repaired on a Monday morning."*

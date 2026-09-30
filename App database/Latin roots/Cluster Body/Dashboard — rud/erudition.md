@@ -5,15 +5,6 @@ status: unread
 ---
 # erudition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound scholarly knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But I delivered this written communication (slate and all) with my own hand, and Joe received it as a miracle of erudition."*
-> - 📜 **George Eliot (*Middlemarch*):** *"How far the judicious Hooker or any other hero of erudition would have been the same at Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound scholarly knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But I delivered this written communication (slate and all) with my own hand, and Joe received it as a miracle of erudition."*
+> - 📜 **George Eliot (*Middlemarch*):** *"How far the judicious Hooker or any other hero of erudition would have been the same at Mr."*

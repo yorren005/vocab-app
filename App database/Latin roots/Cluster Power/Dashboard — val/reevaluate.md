@@ -5,13 +5,6 @@ status: unread
 ---
 # reevaluate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Revise or renew one's assessment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise or renew one's assessment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reevaluate designates revise or renew one's assessment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Revise or renew one's assessment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise or renew one's assessment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reevaluate designates revise or renew one's assessment."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # alimony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Court-ordered support paid by one spouse to another after they are separated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Court-ordered support paid by one spouse to another after they are separated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And would a jury give me five shillings alimony tomorrow, eh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Court-ordered support paid by one spouse to another after they are separated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Court-ordered support paid by one spouse to another after they are separated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"And would a jury give me five shillings alimony tomorrow, eh?"*

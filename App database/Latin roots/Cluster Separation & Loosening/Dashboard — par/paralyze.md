@@ -5,15 +5,6 @@ status: unread
 ---
 # paralyze
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make powerless and unable to function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be paralyzed and immobile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To leave it upon any lower plane than this, is to rob it of its highest functions and to paralyze it of lasting power for good in any direction."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Let life go on in it unhindered and let it defend itself, it will do more than if you paralyze it by encumbering it with remedies."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Secondly it was impossible, because to paralyze the momentum with which Napoleon’s army was retiring, incomparably greater forces than the Russians possessed would have been required."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make powerless and unable to function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be paralyzed and immobile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"To leave it upon any lower plane than this, is to rob it of its highest functions and to paralyze it of lasting power for good in any direction."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Let life go on in it unhindered and let it defend itself, it will do more than if you paralyze it by encumbering it with remedies."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Secondly it was impossible, because to paralyze the momentum with which Napoleon’s army was retiring, incomparably greater forces than the Russians possessed would have been required."*

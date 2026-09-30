@@ -5,13 +5,6 @@ status: unread
 ---
 # parser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer program that divides code up into functional components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer program that divides code up into functional components.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parser designates a computer program that divides code up into functional components."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer program that divides code up into functional components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer program that divides code up into functional components.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parser designates a computer program that divides code up into functional components."*

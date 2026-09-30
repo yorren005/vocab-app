@@ -5,15 +5,6 @@ status: unread
 ---
 # magnetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing an extraordinary power or ability to attract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a magnet or to magnetism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. de Clairon, who was by my side, murmured something about a magnetic current; but when I asked him sternly by what set in motion, his voice died away in his moustache."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet Anna has an air—a grace, Divine, magnetic, touching: She talks, she charms—but who can trace The process of bewitching?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is something attractive about them; they have his secret, something of his charm; they are magnetic with his power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing an extraordinary power or ability to attract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a magnet or to magnetism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. de Clairon, who was by my side, murmured something about a magnetic current; but when I asked him sternly by what set in motion, his voice died away in his moustache."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet Anna has an air—a grace, Divine, magnetic, touching: She talks, she charms—but who can trace The process of bewitching?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is something attractive about them; they have his secret, something of his charm; they are magnetic with his power."*

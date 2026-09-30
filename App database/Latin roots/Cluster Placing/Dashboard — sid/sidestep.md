@@ -5,13 +5,6 @@ status: unread
 ---
 # sidestep
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A step to one side (as in boxing or dancing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidestep designates a step to one side (as in boxing or dancing)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A step to one side (as in boxing or dancing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidestep designates a step to one side (as in boxing or dancing)."*

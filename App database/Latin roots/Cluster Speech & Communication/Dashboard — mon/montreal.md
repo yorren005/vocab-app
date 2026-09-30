@@ -5,15 +5,6 @@ status: unread
 ---
 # montreal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southern quebec province on the saint lawrence river; the largest city in quebec and 2nd largest in canada; the 2nd largest french-speaking city in the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern quebec province on the saint lawrence river; the largest city in quebec and 2nd largest in canada; the 2nd largest french-speaking city in the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But he arranged his tour so as to enable him also to be present at the General Assembly of the American Presbyterian Church at Madison, and at that of the Presbyterian Church of Canada at Montreal."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dawson, _Report on the Queen Charlotte Islands, 1878_ (Montreal, 1880), pp. 130 B _sq._ Some divine kings are not allowed to lie down."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dawson, _Report on the Queen Charlotte Islands, 1878_ (Montreal, 1880), p. 130 B; J.R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southern quebec province on the saint lawrence river; the largest city in quebec and 2nd largest in canada; the 2nd largest french-speaking city in the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern quebec province on the saint lawrence river; the largest city in quebec and 2nd largest in canada; the 2nd largest french-speaking city in the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But he arranged his tour so as to enable him also to be present at the General Assembly of the American Presbyterian Church at Madison, and at that of the Presbyterian Church of Canada at Montreal."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dawson, _Report on the Queen Charlotte Islands, 1878_ (Montreal, 1880), pp. 130 B _sq._ Some divine kings are not allowed to lie down."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dawson, _Report on the Queen Charlotte Islands, 1878_ (Montreal, 1880), p. 130 B; J.R."*

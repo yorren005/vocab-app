@@ -5,15 +5,6 @@ status: unread
 ---
 # nomad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people who have no fixed residence but move from place to place usually seasonally and within a well-defined territory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who roams about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"And all the sweetness, all the romance of an English midsummer night seized the heart of Lawrence, a nomad, a returned exile, and a man in love--as if he had never known England before."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Your nomad ancestors--we all have them--awake in you, and it is touch and go but you turn your back forever on duties and dining, on all the bonds and frills that we have entangled ourselves in--and then you remember, and go sadly to bed."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Indeed, they have no use for him save as a bird to be plucked, and plucked the poor nomad is, even to his last feather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people who have no fixed residence but move from place to place usually seasonally and within a well-defined territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who roams about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"And all the sweetness, all the romance of an English midsummer night seized the heart of Lawrence, a nomad, a returned exile, and a man in love--as if he had never known England before."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Your nomad ancestors--we all have them--awake in you, and it is touch and go but you turn your back forever on duties and dining, on all the bonds and frills that we have entangled ourselves in--and then you remember, and go sadly to bed."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Indeed, they have no use for him save as a bird to be plucked, and plucked the poor nomad is, even to his last feather."*

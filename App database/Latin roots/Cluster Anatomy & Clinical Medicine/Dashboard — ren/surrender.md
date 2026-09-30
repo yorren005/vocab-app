@@ -5,15 +5,6 @@ status: unread
 ---
 # surrender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance of despair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verbal act of admitting defeat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray tell ’em thus much from me: There should be one amongst ’em, by his person More worthy this place than myself, to whom, If I but knew him, with my love and duty I would surrender it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you let us hit together: if our father carry authority with such disposition as he bears, this last surrender of his will but offend us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fetch hither Richard, that in common view He may surrender."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance of despair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verbal act of admitting defeat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray tell ’em thus much from me: There should be one amongst ’em, by his person More worthy this place than myself, to whom, If I but knew him, with my love and duty I would surrender it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you let us hit together: if our father carry authority with such disposition as he bears, this last surrender of his will but offend us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fetch hither Richard, that in common view He may surrender."*

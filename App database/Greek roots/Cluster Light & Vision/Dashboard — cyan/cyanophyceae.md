@@ -5,13 +5,6 @@ status: unread
 ---
 # cyanophyceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanophyceae designates photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanophyceae designates photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae."*

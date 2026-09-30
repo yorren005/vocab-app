@@ -5,15 +5,6 @@ status: unread
 ---
 # directed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intend (something) to move towards a certain goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must either be directed by some that take upon them to know, or to take upon yourself that which I am sure you do not know, or jump the after-inquiry on your own peril."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i’ faith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Command with authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intend (something) to move towards a certain goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must either be directed by some that take upon them to know, or to take upon yourself that which I am sure you do not know, or jump the after-inquiry on your own peril."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i’ faith."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # seminar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any meeting for an exchange of ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A course offered for a small group of advanced students.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seminar designates any meeting for an exchange of ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any meeting for an exchange of ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A course offered for a small group of advanced students.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seminar designates any meeting for an exchange of ideas."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # portage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cost of carrying or transporting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overland track between navigable waterways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even at the first thy loss is more than can Thy portage quit, with all thou canst find here, Now, the good gods throw their best eyes upon’t!"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The excessive transmission and portage time was especially irritating in communications, shipment of priority cargo, and human travel across distances from bodies orbiting along on opposite sides of the Sun."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Most of the supplies were carried up the lakes and rivers and toted over the portages to the new village."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cost of carrying or transporting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overland track between navigable waterways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even at the first thy loss is more than can Thy portage quit, with all thou canst find here, Now, the good gods throw their best eyes upon’t!"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The excessive transmission and portage time was especially irritating in communications, shipment of priority cargo, and human travel across distances from bodies orbiting along on opposite sides of the Sun."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Most of the supplies were carried up the lakes and rivers and toted over the portages to the new village."*

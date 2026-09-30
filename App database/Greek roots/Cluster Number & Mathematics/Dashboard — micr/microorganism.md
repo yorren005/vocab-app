@@ -5,13 +5,6 @@ status: unread
 ---
 # microorganism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microorganism designates an organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microorganism designates an organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # supermarket
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large self-service grocery store selling groceries and dairy products and household goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large self-service grocery store selling groceries and dairy products and household goods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I identified each album sequentially on its spine with a gold foil letter from a packet purchased at a supermarket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large self-service grocery store selling groceries and dairy products and household goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large self-service grocery store selling groceries and dairy products and household goods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I identified each album sequentially on its spine with a gold foil letter from a packet purchased at a supermarket."*

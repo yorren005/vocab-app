@@ -5,15 +5,6 @@ status: unread
 ---
 # preternatural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing the ordinary or normal;  - george will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing outside of or not in accordance with nature; -aldous huxley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of the old colour had as yet come to her cheek, and its absolute paleness was heightened by the jet black of her gown, till it appeared preternatural."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wiped my tears and hushed my sobs, fearful lest any sign of violent grief might waken a preternatural voice to comfort me, or elicit from the gloom some haloed face, bending over me with strange pity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I remember but little of the journey; I only know that the day seemed to me of a preternatural length, and that we appeared to travel over hundreds of miles of road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing the ordinary or normal;  - george will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing outside of or not in accordance with nature; -aldous huxley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of the old colour had as yet come to her cheek, and its absolute paleness was heightened by the jet black of her gown, till it appeared preternatural."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wiped my tears and hushed my sobs, fearful lest any sign of violent grief might waken a preternatural voice to comfort me, or elicit from the gloom some haloed face, bending over me with strange pity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I remember but little of the journey; I only know that the day seemed to me of a preternatural length, and that we appeared to travel over hundreds of miles of road."*

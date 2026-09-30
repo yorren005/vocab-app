@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the anterior extremity of the intermaxillary suture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the anterior extremity of the intermaxillary suture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthion designates the craniometric point at the anterior extremity of the intermaxillary suture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the anterior extremity of the intermaxillary suture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the anterior extremity of the intermaxillary suture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthion designates the craniometric point at the anterior extremity of the intermaxillary suture."*

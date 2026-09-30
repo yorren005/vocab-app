@@ -5,13 +5,6 @@ status: unread
 ---
 # homoiotherm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoiotherm designates having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoiotherm designates having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded."*

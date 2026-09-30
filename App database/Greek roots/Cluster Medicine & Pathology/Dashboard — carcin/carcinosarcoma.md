@@ -5,13 +5,6 @@ status: unread
 ---
 # carcinosarcoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant neoplasm composed of carcinoma and sarcoma extensively intermixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant neoplasm composed of carcinoma and sarcoma extensively intermixed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinosarcoma designates a malignant neoplasm composed of carcinoma and sarcoma extensively intermixed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant neoplasm composed of carcinoma and sarcoma extensively intermixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant neoplasm composed of carcinoma and sarcoma extensively intermixed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinosarcoma designates a malignant neoplasm composed of carcinoma and sarcoma extensively intermixed."*

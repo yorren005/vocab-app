@@ -5,15 +5,6 @@ status: unread
 ---
 # vacuum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An empty area or space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I ask you how—I repeat, I ask you _how_ matter or flesh in any form can play chess on an imaginary board with imaginary pieces, across a vacuum of thirteen cells spanned only with knuckle-taps?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This vacuum economised the graphite points between which the luminous arc was developed—an important point of economy for Captain Nemo, who could not easily have replaced them; and under these conditions their waste was imperceptible."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"All at once, carried away by its frightful overcharge, the _Nautilus_ sank like a bullet under the waters, that is to say, it fell as if it was in a vacuum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An empty area or space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I ask you how—I repeat, I ask you _how_ matter or flesh in any form can play chess on an imaginary board with imaginary pieces, across a vacuum of thirteen cells spanned only with knuckle-taps?"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This vacuum economised the graphite points between which the luminous arc was developed—an important point of economy for Captain Nemo, who could not easily have replaced them; and under these conditions their waste was imperceptible."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"All at once, carried away by its frightful overcharge, the _Nautilus_ sank like a bullet under the waters, that is to say, it fell as if it was in a vacuum."*

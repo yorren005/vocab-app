@@ -5,13 +5,6 @@ status: unread
 ---
 # reclassification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classifying something again (usually in a new category).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classifying something again (usually in a new category).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclassification designates classifying something again (usually in a new category)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Classifying something again (usually in a new category).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classifying something again (usually in a new category).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclassification designates classifying something again (usually in a new category)."*

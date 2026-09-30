@@ -5,15 +5,6 @@ status: unread
 ---
 # repossess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regain possession of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her suit is now to repossess those lands, Which we in justice cannot well deny, Because in quarrel of the house of York The worthy gentleman did lose his life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bishop, farewell; shield thee from Warwick’s frown, And pray that I may repossess the crown. [_Exeunt._] SCENE VI."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, for if Edward repossess the crown, ’Tis like that Richmond with the rest shall down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regain possession of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her suit is now to repossess those lands, Which we in justice cannot well deny, Because in quarrel of the house of York The worthy gentleman did lose his life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bishop, farewell; shield thee from Warwick’s frown, And pray that I may repossess the crown. [_Exeunt._] SCENE VI."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, for if Edward repossess the crown, ’Tis like that Richmond with the rest shall down."*

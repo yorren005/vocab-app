@@ -5,13 +5,6 @@ status: unread
 ---
 # trisomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition (as in Down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition (as in Down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisomic designates the condition (as in down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition (as in Down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition (as in Down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisomic designates the condition (as in down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # appendant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affixed as an appendage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affixed as an appendage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"An impression of this seal on red wax is appendant to a conventual lease, temp."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The common seal of the Abbey, appendant to a deed, dated 1518, has been elegantly lithographed, as we read in the Monasticon, by the care of the Rev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affixed as an appendage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affixed as an appendage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"An impression of this seal on red wax is appendant to a conventual lease, temp."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The common seal of the Abbey, appendant to a deed, dated 1518, has been elegantly lithographed, as we read in the Monasticon, by the care of the Rev."*

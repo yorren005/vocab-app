@@ -5,20 +5,6 @@ status: unread
 ---
 # morass
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Marsh, swamp
-> 2. **Nuance / Usage**: Overwhelming or confusing mass or mixture
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Here was a weary experience in which he was as utterly condemned to loneliness as in the despair which sometimes threatened him while toiling in the morass of authorship without seeming nearer to the goal."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"And some certain significance lurks in all things, else all things are little worth, and the round world itself but an empty cipher, except to sell by the cartload, as they do hills about Boston, to fill up some morass in the Milky Way."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There was no chance of finding footsteps in the mire, for the rising mud oozed swiftly in upon them, but as we at last reached firmer ground beyond the morass we all looked eagerly for them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Marsh, swamp
+> 2. **Nuance / Usage**: Overwhelming or confusing mass or mixture
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Here was a weary experience in which he was as utterly condemned to loneliness as in the despair which sometimes threatened him while toiling in the morass of authorship without seeming nearer to the goal."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"And some certain significance lurks in all things, else all things are little worth, and the round world itself but an empty cipher, except to sell by the cartload, as they do hills about Boston, to fill up some morass in the Milky Way."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There was no chance of finding footsteps in the mire, for the rising mud oozed swiftly in upon them, but as we at last reached firmer ground beyond the morass we all looked eagerly for them."*

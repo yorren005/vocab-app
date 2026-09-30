@@ -5,20 +5,6 @@ status: unread
 ---
 # solder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Something that unites
-> 2. **Nuance / Usage**: Unite or make whole by solder
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet’ner of Life, and solder of Society!"*
-> - 📜 **Liz Galst (*Gay Male Incest Survivors,  Safer Sex, and AIDS*):** *"I've had so little feeling that I've burned myself with liquid solder and watched my skin burn and not felt anything."*
-> - 📜 **D R. M'Nab (*Christian consolation; The way home; and Conjugal love*):** *"Friendship! Mysterious cement of the soul &mdash; and solder of society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Something that unites
+> 2. **Nuance / Usage**: Unite or make whole by solder
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet’ner of Life, and solder of Society!"*
+> - 📜 **Liz Galst (*Gay Male Incest Survivors,  Safer Sex, and AIDS*):** *"I've had so little feeling that I've burned myself with liquid solder and watched my skin burn and not felt anything."*
+> - 📜 **D R. M'Nab (*Christian consolation; The way home; and Conjugal love*):** *"Friendship! Mysterious cement of the soul &mdash; and solder of society."*

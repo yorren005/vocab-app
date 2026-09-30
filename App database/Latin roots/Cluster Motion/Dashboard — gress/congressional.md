@@ -5,15 +5,6 @@ status: unread
 ---
 # congressional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to congress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to congress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The month after the McKinley bill became law, the Congressional elections (November, 1890) returned an overwhelming Democratic majority in the House, altho this was a period of business prosperity, a fact usually favoring the party in power."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Further it is urged that the higher the income the less does a certain rate cut into "the amount necessary for good living" (as was said in Congressional debate)."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin's circular--The denial of its truth by the Freedmen's Bureau--Their subsequent retraction--The Congressional appropriation--Should have been put in Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to congress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to congress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The month after the McKinley bill became law, the Congressional elections (November, 1890) returned an overwhelming Democratic majority in the House, altho this was a period of business prosperity, a fact usually favoring the party in power."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Further it is urged that the higher the income the less does a certain rate cut into "the amount necessary for good living" (as was said in Congressional debate)."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin's circular--The denial of its truth by the Freedmen's Bureau--Their subsequent retraction--The Congressional appropriation--Should have been put in Mrs."*

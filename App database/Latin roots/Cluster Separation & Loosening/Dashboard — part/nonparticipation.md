@@ -5,13 +5,6 @@ status: unread
 ---
 # nonparticipation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawing from the activities of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawing from the activities of a group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonparticipation designates withdrawing from the activities of a group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawing from the activities of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawing from the activities of a group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonparticipation designates withdrawing from the activities of a group."*

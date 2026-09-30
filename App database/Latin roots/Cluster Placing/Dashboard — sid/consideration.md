@@ -5,15 +5,6 @@ status: unread
 ---
 # consideration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of giving careful thought to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that should be kept in mind when making a decision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s to supper, come, And drown consideration. [_Exeunt._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not a confident brow, nor the throng of words that come with such more than impudent sauciness from you, can thrust me from a level consideration."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would your Highness Would give it quick consideration, for There is no primer business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of giving careful thought to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that should be kept in mind when making a decision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s to supper, come, And drown consideration. [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not a confident brow, nor the throng of words that come with such more than impudent sauciness from you, can thrust me from a level consideration."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would your Highness Would give it quick consideration, for There is no primer business."*

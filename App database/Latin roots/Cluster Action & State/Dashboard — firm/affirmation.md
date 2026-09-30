@@ -5,15 +5,6 @@ status: unread
 ---
 # affirmation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement asserting the existence or the truth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of affirming or asserting or stating something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Are you quite sure, Philip?" she asked, wishing for an affirmation."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"What say you, gentlemen?" _Every hand was raised in affirmation of this opinion_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Doubtless you will wear a crown when he wins to his kingdom.” She nodded affirmation, and I could have struck her in the face for her folly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement asserting the existence or the truth of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of affirming or asserting or stating something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Are you quite sure, Philip?" she asked, wishing for an affirmation."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"What say you, gentlemen?" _Every hand was raised in affirmation of this opinion_."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Doubtless you will wear a crown when he wins to his kingdom.” She nodded affirmation, and I could have struck her in the face for her folly."*

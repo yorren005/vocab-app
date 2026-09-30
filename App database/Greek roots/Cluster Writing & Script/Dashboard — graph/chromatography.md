@@ -5,13 +5,6 @@ status: unread
 ---
 # chromatography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromatography in which a macromolecule (such as a protein) is isolated and purified by passing it in solution through a column treated with a substance having a ligand for which the macromolecule has an affinity that causes it to be retained on the column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatography designates a process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromatography in which a macromolecule (such as a protein) is isolated and purified by passing it in solution through a column treated with a substance having a ligand for which the macromolecule has an affinity that causes it to be retained on the column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatography designates a process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase."*

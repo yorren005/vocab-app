@@ -5,15 +5,6 @@ status: unread
 ---
 # met
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meteorological; meteorology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metropolitan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, he’s gone to serve the Duke of Florence; We met him thitherward, for thence we came, And, after some despatch in hand at court, Thither we bend again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better ’twere I met the ravin lion when he roar’d With sharp constraint of hunger; better ’twere That all the miseries which nature owes Were mine at once."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He met the duke in the street, sir; of whom he hath taken a solemn leave: his lordship will next morning for France."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meteorological; meteorology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metropolitan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, he’s gone to serve the Duke of Florence; We met him thitherward, for thence we came, And, after some despatch in hand at court, Thither we bend again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better ’twere I met the ravin lion when he roar’d With sharp constraint of hunger; better ’twere That all the miseries which nature owes Were mine at once."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He met the duke in the street, sir; of whom he hath taken a solemn leave: his lordship will next morning for France."*

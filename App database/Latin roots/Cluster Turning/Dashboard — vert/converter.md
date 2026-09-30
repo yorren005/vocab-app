@@ -5,15 +5,6 @@ status: unread
 ---
 # converter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for changing one substance or form or state into another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for changing one substance or form or state into another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Bessemerising of Copper Mattes: — Development of the Process — The Converter — Converter Linings — Grade of Matte — Operation of the Process — Systems of Working, 192–216 LECTURE IX."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FRONTISPIECE—The Colour of the Converter Flame during the Bessemerising of Copper Matte."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"And, in addition, Lake Copper and some Converter Bars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for changing one substance or form or state into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for changing one substance or form or state into another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Bessemerising of Copper Mattes: — Development of the Process — The Converter — Converter Linings — Grade of Matte — Operation of the Process — Systems of Working, 192–216 LECTURE IX."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FRONTISPIECE—The Colour of the Converter Flame during the Bessemerising of Copper Matte."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"And, in addition, Lake Copper and some Converter Bars."*

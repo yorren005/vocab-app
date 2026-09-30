@@ -5,15 +5,6 @@ status: unread
 ---
 # mellow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soften, make mellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more relaxed, easygoing, or genial.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As Hercules did shake down mellow fruit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose is but the slave to memory, Of violent birth, but poor validity: Which now, like fruit unripe, sticks on the tree, But fall unshaken when they mellow be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soften, make mellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more relaxed, easygoing, or genial.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As Hercules did shake down mellow fruit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose is but the slave to memory, Of violent birth, but poor validity: Which now, like fruit unripe, sticks on the tree, But fall unshaken when they mellow be."*

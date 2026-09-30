@@ -5,13 +5,6 @@ status: unread
 ---
 # plumose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an ornamental plume or feathery tuft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an ornamental plume or feathery tuft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumose designates having an ornamental plume or feathery tuft."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an ornamental plume or feathery tuft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an ornamental plume or feathery tuft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumose designates having an ornamental plume or feathery tuft."*

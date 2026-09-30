@@ -5,13 +5,6 @@ status: unread
 ---
 # telethermometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that registers the temperature at some distant point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that registers the temperature at some distant point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telethermometer designates a thermometer that registers the temperature at some distant point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that registers the temperature at some distant point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that registers the temperature at some distant point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telethermometer designates a thermometer that registers the temperature at some distant point."*

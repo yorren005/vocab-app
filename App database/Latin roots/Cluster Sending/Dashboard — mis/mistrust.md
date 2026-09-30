@@ -5,15 +5,6 @@ status: unread
 ---
 # mistrust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your mistrust cannot make me a traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King will labour still to save his life, The commons haply rise to save his life, And yet we have but trivial argument, More than mistrust, that shows him worthy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistrust of my success hath done this deed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your mistrust cannot make me a traitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King will labour still to save his life, The commons haply rise to save his life, And yet we have but trivial argument, More than mistrust, that shows him worthy death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistrust of my success hath done this deed."*

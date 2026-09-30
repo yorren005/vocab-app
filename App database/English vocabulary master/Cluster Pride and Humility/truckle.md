@@ -5,20 +5,6 @@ status: unread
 ---
 # truckle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trundle bed
-> 2. **Nuance / Usage**: Small wheel; a caster or pulley
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to truckle the target*) and intransitive clauses (*truckling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"That’s because you truckle to them."*
-> - 📜 **{{w (*A Collection of Miscellanies, consisting of Poems, Essays, Discourses and Letters*):** *"Religion it self is forced to truckle to worldly policy."*
-> - 📜 **Classic Author (*THE ANCIENT DIALECT OF THE BARONIES OF FORTH AND BARGY, COUNTY WEXFORD*):** *"Fan a truckle ee zhoulthered too nigh upa ditch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Trundle bed
+> 2. **Nuance / Usage**: Small wheel; a caster or pulley
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to truckle the target*) and intransitive clauses (*truckling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"That’s because you truckle to them."*
+> - 📜 **{{w (*A Collection of Miscellanies, consisting of Poems, Essays, Discourses and Letters*):** *"Religion it self is forced to truckle to worldly policy."*
+> - 📜 **Classic Author (*THE ANCIENT DIALECT OF THE BARONIES OF FORTH AND BARGY, COUNTY WEXFORD*):** *"Fan a truckle ee zhoulthered too nigh upa ditch."*

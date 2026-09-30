@@ -5,15 +5,6 @@ status: unread
 ---
 # strung
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thread on or as if on a string.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add as if on a string.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Subtle as Sphinx, as sweet and musical As bright Apollo’s lute, strung with his hair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Orpheus’ lute was strung with poets’ sinews, Whose golden touch could soften steel and stones, Make tigers tame, and huge leviathans Forsake unsounded deeps to dance on sands."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dare I hint at that worse time when, strung together somewhere in great black space, there was a flaming necklace, or ring, or starry circle of some kind, of which I was one of the beads!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thread on or as if on a string.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add as if on a string.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Subtle as Sphinx, as sweet and musical As bright Apollo’s lute, strung with his hair."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Orpheus’ lute was strung with poets’ sinews, Whose golden touch could soften steel and stones, Make tigers tame, and huge leviathans Forsake unsounded deeps to dance on sands."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Dare I hint at that worse time when, strung together somewhere in great black space, there was a flaming necklace, or ring, or starry circle of some kind, of which I was one of the beads!"*

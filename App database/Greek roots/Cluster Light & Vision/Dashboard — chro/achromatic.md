@@ -5,13 +5,6 @@ status: unread
 ---
 # achromatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refracting light without dispersing it into its constituent colors : giving images practically free from extraneous colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not readily colored by the usual staining agents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refracting light without dispersing it into its constituent colors : giving images practically free from extraneous colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not readily colored by the usual staining agents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*

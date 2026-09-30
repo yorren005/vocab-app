@@ -5,15 +5,6 @@ status: unread
 ---
 # infirm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking firmness of will or character or purpose;  - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I stand your slave, A poor, infirm, weak, and despis’d old man: But yet I call you servile ministers, That will with two pernicious daughters join Your high-engender’d battles ’gainst a head So old and white as this!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He fell down, this morning, a handsome stately gentleman, somewhat infirm, but of a fine presence, and with a well-filled face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking firmness of will or character or purpose;  - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I stand your slave, A poor, infirm, weak, and despis’d old man: But yet I call you servile ministers, That will with two pernicious daughters join Your high-engender’d battles ’gainst a head So old and white as this!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He fell down, this morning, a handsome stately gentleman, somewhat infirm, but of a fine presence, and with a well-filled face."*

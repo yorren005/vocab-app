@@ -5,15 +5,6 @@ status: unread
 ---
 # pannier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of bags or boxes hung over the rear wheel of a vehicle (as a bicycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large basket (usually one of a pair) carried by a beast of burden or on by a person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The turkeys in my pannier are quite starved.—What, ostler!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Well observed and those pannier pockets of the skirt and slightly pegtop effect are devised to suggest bunchiness of hip."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Each had in his hand a small pannier; and, when they entered the dungeon, they stopt at the door until Front-de-Bœuf himself carefully locked and double-locked it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of bags or boxes hung over the rear wheel of a vehicle (as a bicycle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large basket (usually one of a pair) carried by a beast of burden or on by a person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The turkeys in my pannier are quite starved.—What, ostler!"*
+> - 📜 **James Joyce (*Ulysses*):** *"Well observed and those pannier pockets of the skirt and slightly pegtop effect are devised to suggest bunchiness of hip."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Each had in his hand a small pannier; and, when they entered the dungeon, they stopt at the door until Front-de-Bœuf himself carefully locked and double-locked it."*

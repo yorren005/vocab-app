@@ -5,15 +5,6 @@ status: unread
 ---
 # curtly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a curt, abrupt and discourteous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a curt, abrupt and discourteous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What is it called?" "This is Castle Wildenstein," the boy's companion curtly answered, throwing a searching glance at the young Baron."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as she saw that it was a human being and not a lion, she came nearer and asked quite confidentially, "Do you happen to know where the beautiful old mignonette is, that mama saw in the garden here?" "No," the man answered curtly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"No," he replied curtly, but his voice did not sound as severe as before, a fact which Mäzli noticed immediately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a curt, abrupt and discourteous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a curt, abrupt and discourteous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What is it called?" "This is Castle Wildenstein," the boy's companion curtly answered, throwing a searching glance at the young Baron."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as she saw that it was a human being and not a lion, she came nearer and asked quite confidentially, "Do you happen to know where the beautiful old mignonette is, that mama saw in the garden here?" "No," the man answered curtly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"No," he replied curtly, but his voice did not sound as severe as before, a fact which Mäzli noticed immediately."*

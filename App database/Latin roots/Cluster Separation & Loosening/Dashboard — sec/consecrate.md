@@ -5,15 +5,6 @@ status: unread
 ---
 # consecrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appoint to a clerical posts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that this body, consecrate to thee, By ruffian lust should be contaminate?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this field-dew consecrate, Every fairy take his gait, And each several chamber bless, Through this palace, with sweet peace; And the owner of it blest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appoint to a clerical posts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that this body, consecrate to thee, By ruffian lust should be contaminate?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this field-dew consecrate, Every fairy take his gait, And each several chamber bless, Through this palace, with sweet peace; And the owner of it blest."*

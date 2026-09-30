@@ -5,13 +5,6 @@ status: unread
 ---
 # polyangium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangium designates type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangium designates type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane."*

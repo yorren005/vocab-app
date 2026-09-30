@@ -5,13 +5,6 @@ status: unread
 ---
 # saponin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponin designates any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponin designates any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers."*

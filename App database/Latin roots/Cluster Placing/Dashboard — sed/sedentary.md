@@ -5,15 +5,6 @@ status: unread
 ---
 # sedentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring sitting or little activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring sitting or little activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He considered his disposition as of the sort which must suffer heavily, uniting very strong feelings with quiet, serious, and retiring manners, and a decided taste for reading, and sedentary pursuits."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He is a man who leads a sedentary life, goes out little, is out of training entirely, is middle-aged, has grizzled hair which he has had cut within the last few days, and which he anoints with lime-cream."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He was a seaman, but he was a wanderer, too, while most seamen lead, if one may so express it, a sedentary life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring sitting or little activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring sitting or little activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He considered his disposition as of the sort which must suffer heavily, uniting very strong feelings with quiet, serious, and retiring manners, and a decided taste for reading, and sedentary pursuits."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He is a man who leads a sedentary life, goes out little, is out of training entirely, is middle-aged, has grizzled hair which he has had cut within the last few days, and which he anoints with lime-cream."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He was a seaman, but he was a wanderer, too, while most seamen lead, if one may so express it, a sedentary life."*

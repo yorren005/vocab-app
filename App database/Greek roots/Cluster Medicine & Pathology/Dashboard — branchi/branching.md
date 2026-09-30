@@ -5,15 +5,6 @@ status: unread
 ---
 # branching
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of branching out or dividing into branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow and send out branches or branch-like structures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Branching from this street and its heaps of ruins are other streets and courts so infamous that Mr."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Branching from the stem on each side, and disposed alternately, were the graceful branches drooping with leaves all correctly drawn and elaborately finished."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Close beside and bending over it was a broad, branching oak, which promised a cool and comfortable shelter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of branching out or dividing into branches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow and send out branches or branch-like structures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Branching from this street and its heaps of ruins are other streets and courts so infamous that Mr."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Branching from the stem on each side, and disposed alternately, were the graceful branches drooping with leaves all correctly drawn and elaborately finished."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Close beside and bending over it was a broad, branching oak, which promised a cool and comfortable shelter."*

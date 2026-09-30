@@ -5,13 +5,6 @@ status: unread
 ---
 # finnan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Haddock usually baked but sometimes broiled with lots of butter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Haddock usually baked but sometimes broiled with lots of butter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finnan designates haddock usually baked but sometimes broiled with lots of butter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Haddock usually baked but sometimes broiled with lots of butter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Haddock usually baked but sometimes broiled with lots of butter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finnan designates haddock usually baked but sometimes broiled with lots of butter."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # flexibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With flexibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With flexibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He carried close to his leg a narrow unsheathed sword (small, curved, and not like a real weapon) and looked now at the superior officers and now back at the men without losing step, his whole powerful body turning flexibly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With flexibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He carried close to his leg a narrow unsheathed sword (small, curved, and not like a real weapon) and looked now at the superior officers and now back at the men without losing step, his whole powerful body turning flexibly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # military
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The military forces of a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of the principles of warfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there no military policy how virgins might blow up men?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What never-dying honour hath he got Against renowned Douglas! whose high deeds, Whose hot incursions and great name in arms, Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge Christ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that in speech, in gait, In diet, in affections of delight, In military rules, humours of blood, He was the mark and glass, copy and book, That fashion’d others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The military forces of a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of the principles of warfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there no military policy how virgins might blow up men?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What never-dying honour hath he got Against renowned Douglas! whose high deeds, Whose hot incursions and great name in arms, Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge Christ."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that in speech, in gait, In diet, in affections of delight, In military rules, humours of blood, He was the mark and glass, copy and book, That fashion’d others."*

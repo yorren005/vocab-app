@@ -5,15 +5,6 @@ status: unread
 ---
 # obduracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resoluteness by virtue of being unyielding and inflexible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resoluteness by virtue of being unyielding and inflexible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this hand, thou thinkest me as far in the devil’s book as thou and Falstaff for obduracy and persistency."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On the other hand, as men generally derive confidence from their numbers, they might often encourage each other in an act of obduracy, and might be less sensible to the apprehension of suspicion or censure for an injudicious or affected clemency."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Soon afterwards he repeated his suggestion, and meeting with a little repulse, showed some symptoms of displeasure at my obduracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resoluteness by virtue of being unyielding and inflexible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resoluteness by virtue of being unyielding and inflexible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this hand, thou thinkest me as far in the devil’s book as thou and Falstaff for obduracy and persistency."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On the other hand, as men generally derive confidence from their numbers, they might often encourage each other in an act of obduracy, and might be less sensible to the apprehension of suspicion or censure for an injudicious or affected clemency."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Soon afterwards he repeated his suggestion, and meeting with a little repulse, showed some symptoms of displeasure at my obduracy."*

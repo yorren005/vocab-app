@@ -5,15 +5,6 @@ status: unread
 ---
 # satin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth fabric of silk or rayon; has a glossy face and a dull back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth fabric of silk or rayon; has a glossy face and a dull back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What said Master Dommelton about the satin for my short cloak and my slops?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I looked he should have sent me two and twenty yards of satin, as I am a true knight, and he sends me “security”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth fabric of silk or rayon; has a glossy face and a dull back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth fabric of silk or rayon; has a glossy face and a dull back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What said Master Dommelton about the satin for my short cloak and my slops?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I looked he should have sent me two and twenty yards of satin, as I am a true knight, and he sends me “security”."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*

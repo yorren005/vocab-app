@@ -5,13 +5,6 @@ status: unread
 ---
 # murrow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murrow designates united states broadcast journalist remembered for his reports from london during world war ii (1908-1965)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murrow designates united states broadcast journalist remembered for his reports from london during world war ii (1908-1965)."*

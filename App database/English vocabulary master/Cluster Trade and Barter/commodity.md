@@ -5,20 +5,6 @@ status: unread
 ---
 # commodity
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Economic good: such as
-> 2. **Nuance / Usage**: Product of agriculture or mining
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now Jove, in his next commodity of hair, send thee a beard!"*
-> - 📜 **Gareth Dennis (*The Reshaping of things to come...*):** *"For mineral trains, he adds little other than pointing out the need to expand single-commodity trains and to end the use of mixed-commodity services that required extensive marshalling."*
-> - 📜 **Cox, Irving E., Jr. (*Export Commodity*):** *"The exportable commodity of man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Economic good: such as
+> 2. **Nuance / Usage**: Product of agriculture or mining
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now Jove, in his next commodity of hair, send thee a beard!"*
+> - 📜 **Gareth Dennis (*The Reshaping of things to come...*):** *"For mineral trains, he adds little other than pointing out the need to expand single-commodity trains and to end the use of mixed-commodity services that required extensive marshalling."*
+> - 📜 **Cox, Irving E., Jr. (*Export Commodity*):** *"The exportable commodity of man."*

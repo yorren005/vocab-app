@@ -5,14 +5,6 @@ status: unread
 ---
 # diagnostic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with diagnosis; used for furthering diagnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic or indicative of a disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Besides continuing his membership in the Metaphysical Society, he had also been, since the spring of 1839, a member of the Diagnostic, one of the most flourishing of the older students' debating societies."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of the Diagnostic he speedily became the life and soul, and discussed with ardour such questions as the Repeal of the Corn Laws, Vote by Ballot, and the Exclusion of Bishops from the House of Lords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with diagnosis; used for furthering diagnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic or indicative of a disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Besides continuing his membership in the Metaphysical Society, he had also been, since the spring of 1839, a member of the Diagnostic, one of the most flourishing of the older students' debating societies."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Of the Diagnostic he speedily became the life and soul, and discussed with ardour such questions as the Repeal of the Corn Laws, Vote by Ballot, and the Exclusion of Bishops from the House of Lords."*

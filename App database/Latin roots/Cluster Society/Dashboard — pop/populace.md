@@ -5,15 +5,6 @@ status: unread
 ---
 # populace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People in general considered as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People in general considered as a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hamel, whom Chong Mong-ju divined as my brains, was executed by the paddle—in short, was promptly and expeditiously beaten to death to the delighted shouts of the Keijo populace."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then howe’er crowns and coronets be rent, A virtuous populace may rise the while, And stand a wall of fire around their much-lov’d isle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People in general considered as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People in general considered as a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hamel, whom Chong Mong-ju divined as my brains, was executed by the paddle—in short, was promptly and expeditiously beaten to death to the delighted shouts of the Keijo populace."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then howe’er crowns and coronets be rent, A virtuous populace may rise the while, And stand a wall of fire around their much-lov’d isle."*

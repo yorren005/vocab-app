@@ -5,13 +5,6 @@ status: unread
 ---
 # leucoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eye disease consisting of an opaque white spot on the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eye disease consisting of an opaque white spot on the cornea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucoma designates eye disease consisting of an opaque white spot on the cornea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eye disease consisting of an opaque white spot on the cornea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eye disease consisting of an opaque white spot on the cornea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucoma designates eye disease consisting of an opaque white spot on the cornea."*

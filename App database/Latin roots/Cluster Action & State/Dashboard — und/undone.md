@@ -5,15 +5,6 @@ status: unread
 ---
 # undone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel, annul, or reverse an action or its effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of certain characteristics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone: there is no living, none, If Bertram be away. ’Twere all one That I should love a bright particular star, And think to wed it, he is so above me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Undone, and forfeited to cares for ever!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en that you have there. [_Exit._] COUNTESS. [_Reads._] _I have sent you a daughter-in-law; she hath recovered the king and undone me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel, annul, or reverse an action or its effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of certain characteristics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone: there is no living, none, If Bertram be away. ’Twere all one That I should love a bright particular star, And think to wed it, he is so above me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Undone, and forfeited to cares for ever!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en that you have there. [_Exit._] COUNTESS. [_Reads._] _I have sent you a daughter-in-law; she hath recovered the king and undone me."*

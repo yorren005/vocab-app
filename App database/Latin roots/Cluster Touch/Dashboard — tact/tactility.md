@@ -5,13 +5,6 @@ status: unread
 ---
 # tactility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of perceiving (via the skin) pressure or heat or pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of perceiving (via the skin) pressure or heat or pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tactility designates the faculty of perceiving (via the skin) pressure or heat or pain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of perceiving (via the skin) pressure or heat or pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of perceiving (via the skin) pressure or heat or pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tactility designates the faculty of perceiving (via the skin) pressure or heat or pain."*

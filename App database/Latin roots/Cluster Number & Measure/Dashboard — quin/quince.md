@@ -5,15 +5,6 @@ status: unread
 ---
 # quince
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small asian tree with pinkish flowers and pear-shaped fruit; widely cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic acid-tasting pear-shaped fruit used in preserves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in Quince’s House ACT V Scene I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in a Cottage Enter Quince, Snug, Bottom, Flute, Snout and Starveling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, good Peter Quince, say what the play treats on; then read the names of the actors; and so grow to a point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small asian tree with pinkish flowers and pear-shaped fruit; widely cultivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic acid-tasting pear-shaped fruit used in preserves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in Quince’s House ACT V Scene I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in a Cottage Enter Quince, Snug, Bottom, Flute, Snout and Starveling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, good Peter Quince, say what the play treats on; then read the names of the actors; and so grow to a point."*

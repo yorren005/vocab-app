@@ -5,14 +5,6 @@ status: unread
 ---
 # strategically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to strategy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Planet Pluto is strategically situated at this time to be the single, most influential force in human affairs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And, in fact, the last letter he had received from Mack’s army informed him of a victory and stated strategically the position of the army was very favorable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to strategy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to strategy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Planet Pluto is strategically situated at this time to be the single, most influential force in human affairs."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And, in fact, the last letter he had received from Mack’s army informed him of a victory and stated strategically the position of the army was very favorable."*

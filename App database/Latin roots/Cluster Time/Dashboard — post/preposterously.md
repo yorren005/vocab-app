@@ -5,15 +5,6 @@ status: unread
 ---
 # preposterously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks you prescribe to yourself very preposterously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is abused, stol’n from me, and corrupted By spells and medicines bought of mountebanks; For nature so preposterously to err, Being not deficient, blind, or lame of sense, Sans witchcraft could not."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Wonder and doubt come wrongly into play, Preposterously, at cross purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks you prescribe to yourself very preposterously."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is abused, stol’n from me, and corrupted By spells and medicines bought of mountebanks; For nature so preposterously to err, Being not deficient, blind, or lame of sense, Sans witchcraft could not."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Wonder and doubt come wrongly into play, Preposterously, at cross purposes."*

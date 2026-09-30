@@ -5,13 +5,6 @@ status: unread
 ---
 # dictyosome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictyosome designates a netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dictyosome designates a netlike structure in the cytoplasm of animal cells (especially in those cells that produce secretions)."*

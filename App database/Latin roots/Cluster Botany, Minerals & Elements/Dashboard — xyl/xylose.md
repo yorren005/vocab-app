@@ -5,13 +5,6 @@ status: unread
 ---
 # xylose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar extracted from wood or straw; used in foods for diabetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar extracted from wood or straw; used in foods for diabetics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylose designates a sugar extracted from wood or straw; used in foods for diabetics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar extracted from wood or straw; used in foods for diabetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar extracted from wood or straw; used in foods for diabetics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylose designates a sugar extracted from wood or straw; used in foods for diabetics."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # deprecative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to diminish or disparage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to expressing disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"But I am not the assassin type, myself." He waved a four-fingered blue hand in a deprecative gesture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to diminish or disparage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to expressing disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"But I am not the assassin type, myself." He waved a four-fingered blue hand in a deprecative gesture."*

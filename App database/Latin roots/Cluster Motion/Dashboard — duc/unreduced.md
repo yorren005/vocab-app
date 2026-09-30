@@ -5,13 +5,6 @@ status: unread
 ---
 # unreduced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not altered by reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not altered by reduction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Very well, what I am offering for acceptance and adoption is not shorthand, but longhand, written with the _Shorthand Alphabet Unreduced_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not altered by reduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not altered by reduction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Very well, what I am offering for acceptance and adoption is not shorthand, but longhand, written with the _Shorthand Alphabet Unreduced_."*

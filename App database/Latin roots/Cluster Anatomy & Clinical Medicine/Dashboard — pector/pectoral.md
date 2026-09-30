@@ -5,15 +5,6 @@ status: unread
 ---
 # pectoral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two large muscles of the chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adornment worn on the chest or breast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"At his shoulder-blades the Syrian's pectoral muscles pressed like shallow knobs of steel."*
-> - 📜 **James Joyce (*Ulysses*):** *"Got a pectoral trauma, eh, Dix?"*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"His broad pectoral muscles, in their white covering, were like slabs of marble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two large muscles of the chest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adornment worn on the chest or breast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"At his shoulder-blades the Syrian's pectoral muscles pressed like shallow knobs of steel."*
+> - 📜 **James Joyce (*Ulysses*):** *"Got a pectoral trauma, eh, Dix?"*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"His broad pectoral muscles, in their white covering, were like slabs of marble."*

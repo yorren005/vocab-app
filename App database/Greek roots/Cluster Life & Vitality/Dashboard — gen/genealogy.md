@@ -5,15 +5,6 @@ status: unread
 ---
 # genealogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the descent of a person, family, or group from an ancestor or from older forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regular descent of a person, family, or group of organisms from a progenitor or older form : pedigree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"They appear now as brothers, now as parents, now as sisters of one another; the task of unravelling their genealogy would be as difficult as it is pointless."*
-> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s attention to this ugly bit of Ladislaw’s genealogy, as a fresh candle for him to see his own folly by."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the descent of a person, family, or group from an ancestor or from older forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regular descent of a person, family, or group of organisms from a progenitor or older form : pedigree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"They appear now as brothers, now as parents, now as sisters of one another; the task of unravelling their genealogy would be as difficult as it is pointless."*
+> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s attention to this ugly bit of Ladislaw’s genealogy, as a fresh candle for him to see his own folly by."*

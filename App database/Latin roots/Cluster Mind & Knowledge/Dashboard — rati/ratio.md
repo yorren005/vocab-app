@@ -5,15 +5,6 @@ status: unread
 ---
 # ratio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative magnitudes of two quantities (usually expressed as a quotient).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The blaze, enlarging in a double ratio by his approach and its own increase, showed him as he drew nearer the outlines of ricks beside it, lighted up to great distinctness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For each kind of metal money there is an established _ratio of fineness_ for the more precious material, which is mixed with baser metals used as alloys."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _par of exchange_ between standard coins of different countries is the expression of the ratio of fine metal in them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative magnitudes of two quantities (usually expressed as a quotient).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The blaze, enlarging in a double ratio by his approach and its own increase, showed him as he drew nearer the outlines of ricks beside it, lighted up to great distinctness."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For each kind of metal money there is an established _ratio of fineness_ for the more precious material, which is mixed with baser metals used as alloys."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _par of exchange_ between standard coins of different countries is the expression of the ratio of fine metal in them."*

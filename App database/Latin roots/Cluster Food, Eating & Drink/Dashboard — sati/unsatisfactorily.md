@@ -5,14 +5,6 @@ status: unread
 ---
 # unsatisfactorily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsatisfactory manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unsatisfactory manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"What is a 'creature,' Miss Derrick?" "Pamela in your book is a creature," she replied unsatisfactorily, with the slightest tilt of the chin."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Oh, I don't know," she replied, most unsatisfactorily."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsatisfactory manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unsatisfactory manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"What is a 'creature,' Miss Derrick?" "Pamela in your book is a creature," she replied unsatisfactorily, with the slightest tilt of the chin."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Oh, I don't know," she replied, most unsatisfactorily."*

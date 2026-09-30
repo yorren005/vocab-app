@@ -5,15 +5,6 @@ status: unread
 ---
 # labelled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a label to; designate with a label.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a tag or label to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be inventoried and every particle and utensil labelled to my will: as, item, two lips indifferent red; item, two grey eyes with lids to them; item, one neck, one chin, and so forth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, among his many boxes labelled with transcendent names, lives Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were all carefully packed in paper, and each package was labelled “Bathsheba Boldwood,” a date being subjoined six years in advance in every instance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a label to; designate with a label.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a tag or label to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be inventoried and every particle and utensil labelled to my will: as, item, two lips indifferent red; item, two grey eyes with lids to them; item, one neck, one chin, and so forth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here, among his many boxes labelled with transcendent names, lives Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were all carefully packed in paper, and each package was labelled “Bathsheba Boldwood,” a date being subjoined six years in advance in every instance."*

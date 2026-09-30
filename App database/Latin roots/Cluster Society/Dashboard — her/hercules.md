@@ -5,15 +5,6 @@ status: unread
 ---
 # hercules
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large constellation in the northern hemisphere between lyra and corona borealis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He professes not keeping of oaths; in breaking them he is stronger than Hercules."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Hercules, I think I am i’ th’ right."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SOLDIER. ’Tis the god Hercules, whom Antony loved, Now leaves him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large constellation in the northern hemisphere between lyra and corona borealis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He professes not keeping of oaths; in breaking them he is stronger than Hercules."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Hercules, I think I am i’ th’ right."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SOLDIER. ’Tis the god Hercules, whom Antony loved, Now leaves him."*

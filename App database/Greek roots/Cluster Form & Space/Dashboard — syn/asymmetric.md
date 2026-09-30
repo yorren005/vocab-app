@@ -5,13 +5,6 @@ status: unread
 ---
 # asymmetric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two sides or halves that are not the same : not symmetrical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bonded to four different atoms or groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetric designates having two sides or halves that are not the same : not symmetrical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two sides or halves that are not the same : not symmetrical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bonded to four different atoms or groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetric designates having two sides or halves that are not the same : not symmetrical."*

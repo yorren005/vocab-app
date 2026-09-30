@@ -5,13 +5,6 @@ status: unread
 ---
 # collegial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or having authority vested equally among colleagues; ; - merle fainsod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling or typical of a college or college students.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collegial designates characterized by or having authority vested equally among colleagues; ; - merle fainsod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or having authority vested equally among colleagues; ; - merle fainsod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling or typical of a college or college students.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collegial designates characterized by or having authority vested equally among colleagues; ; - merle fainsod."*

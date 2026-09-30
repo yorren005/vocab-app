@@ -5,14 +5,6 @@ status: unread
 ---
 # rededication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new dedication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new dedication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Praying ardently for rededication of entire community for greater consecration to pressing tasks."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge intensification of efforts, rededication and achievement of goals of Plan in order to discharge befittingly the sacred, manifold, inescapable, urgent responsibilities confronting the entire American Bahá'í Community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new dedication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new dedication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Praying ardently for rededication of entire community for greater consecration to pressing tasks."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge intensification of efforts, rededication and achievement of goals of Plan in order to discharge befittingly the sacred, manifold, inescapable, urgent responsibilities confronting the entire American Bahá'í Community."*

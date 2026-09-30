@@ -5,13 +5,6 @@ status: unread
 ---
 # undeterred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred; - osbert sitwell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deterred; - osbert sitwell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On arriving before the battlements, I found the Union Jack flying and the drawbridge up; but undeterred by this show of defiance and resistance, I rang at the gate, and was admitted in a most pacific manner by the Aged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred; - osbert sitwell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deterred; - osbert sitwell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"On arriving before the battlements, I found the Union Jack flying and the drawbridge up; but undeterred by this show of defiance and resistance, I rang at the gate, and was admitted in a most pacific manner by the Aged."*

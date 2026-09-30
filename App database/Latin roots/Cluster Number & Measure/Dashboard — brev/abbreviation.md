@@ -5,15 +5,6 @@ status: unread
 ---
 # abbreviation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shortened form of a word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shortening something by omitting parts of it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was so in the Pequod with the little negro Pippin by nick-name, Pip by abbreviation."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Among these the most formidable was a burly, roaring, roistering blade of the name of Abraham--or, according to the Dutch abbreviation, Brom--Van Brunt, the hero of the country round, which rang with his feats of strength and hardihood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was so in the Pequod with the little negro Pippin by nick-name, Pip by abbreviation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shortened form of a word or phrase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shortening something by omitting parts of it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was so in the Pequod with the little negro Pippin by nick-name, Pip by abbreviation."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Among these the most formidable was a burly, roaring, roistering blade of the name of Abraham--or, according to the Dutch abbreviation, Brom--Van Brunt, the hero of the country round, which rang with his feats of strength and hardihood."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was so in the Pequod with the little negro Pippin by nick-name, Pip by abbreviation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plantae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantae designates (botany) the taxonomic kingdom comprising all living or extinct plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantae designates (botany) the taxonomic kingdom comprising all living or extinct plants."*

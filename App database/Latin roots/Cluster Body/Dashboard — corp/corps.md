@@ -5,15 +5,6 @@ status: unread
 ---
 # corps
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit usually consisting of two or more divisions and their support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of people associated together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of an adventurous and somewhat restless disposition, and, at the time of the threatened invasion by Napoleon, joined a local Volunteer corps."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A sounder plan would be general state assessment, with a permanent expert board of commissioners employing a corps of state assessors under the merit system of appointment."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles, A.D. 1793 The True Loyal Natives Ye true “Loyal Natives” attend to my song In uproar and riot rejoice the night long; From Envy and Hatred your corps is exempt, But where is your shield from the darts of Contempt!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit usually consisting of two or more divisions and their support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of people associated together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He was of an adventurous and somewhat restless disposition, and, at the time of the threatened invasion by Napoleon, joined a local Volunteer corps."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A sounder plan would be general state assessment, with a permanent expert board of commissioners employing a corps of state assessors under the merit system of appointment."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles, A.D. 1793 The True Loyal Natives Ye true “Loyal Natives” attend to my song In uproar and riot rejoice the night long; From Envy and Hatred your corps is exempt, But where is your shield from the darts of Contempt!"*

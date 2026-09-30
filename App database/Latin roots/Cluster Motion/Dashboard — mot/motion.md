@@ -5,15 +5,6 @@ status: unread
 ---
 # motion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of movements (especially of the hands) to communicate familiar or prearranged signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural event that involves a change in the position or location of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would it were hell-pains for thy sake, and my poor doing eternal; for doing I am past, as I will by thee, in what motion age will give me leave. [_Exit._] PAROLLES."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of movements (especially of the hands) to communicate familiar or prearranged signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural event that involves a change in the position or location of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would it were hell-pains for thy sake, and my poor doing eternal; for doing I am past, as I will by thee, in what motion age will give me leave. [_Exit._] PAROLLES."*

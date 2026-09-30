@@ -5,13 +5,6 @@ status: unread
 ---
 # actuary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such calculations, however, lead into many complexities of practical detail difficult to explain in brief compass, and are the special task of the actuary (the mathematical expert dealing with such problems in the insurance business)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such calculations, however, lead into many complexities of practical detail difficult to explain in brief compass, and are the special task of the actuary (the mathematical expert dealing with such problems in the insurance business)."*

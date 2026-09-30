@@ -5,13 +5,6 @@ status: unread
 ---
 # untheatrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suited to or characteristic of the stage or theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suited to or characteristic of the stage or theater.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untheatrical designates not suited to or characteristic of the stage or theater."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suited to or characteristic of the stage or theater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suited to or characteristic of the stage or theater.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untheatrical designates not suited to or characteristic of the stage or theater."*

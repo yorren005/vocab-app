@@ -5,13 +5,6 @@ status: unread
 ---
 # adaptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptor designates device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptor designates device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible."*

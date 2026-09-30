@@ -5,15 +5,6 @@ status: unread
 ---
 # geographer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert on geography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"At Comana in Syria (we read in Strabo the geographer, about the time of Christ) there was a temple where there were six thousand of these temple slaves."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Strabo, the Geographer, 26, 223."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Stick a pin there on the map, and you will find that we have got well out on the spot that geographers have been pleased to call desert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on geography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert on geography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"At Comana in Syria (we read in Strabo the geographer, about the time of Christ) there was a temple where there were six thousand of these temple slaves."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Strabo, the Geographer, 26, 223."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Stick a pin there on the map, and you will find that we have got well out on the spot that geographers have been pleased to call desert."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mellowing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming mellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soften, make mellow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are begot in the ventricle of memory, nourished in the womb of _pia mater_, and delivered upon the mellowing of occasion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All the valley at my right hand was full of pasture-fields, and cornfields, and wood; and a glittering stream ran zig-zag through the varied shades of green, the mellowing grain, the sombre woodland, the clear and sunny lea."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They are told after the mellowing lapse of half a century, which has been very full of satisfying labors in an ennobling profession..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming mellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soften, make mellow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are begot in the ventricle of memory, nourished in the womb of _pia mater_, and delivered upon the mellowing of occasion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All the valley at my right hand was full of pasture-fields, and cornfields, and wood; and a glittering stream ran zig-zag through the varied shades of green, the mellowing grain, the sombre woodland, the clear and sunny lea."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They are told after the mellowing lapse of half a century, which has been very full of satisfying labors in an ennobling profession..."*

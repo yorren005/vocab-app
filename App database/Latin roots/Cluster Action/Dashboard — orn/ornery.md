@@ -5,15 +5,6 @@ status: unread
 ---
 # ornery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a difficult and contrary disposition; - dorothy sayers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a difficult and contrary disposition; - dorothy sayers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"What’s the matter with the ornery cusses?” Laban impatiently wanted to know."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"You ornery scamp!” he said, almost under his breath."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Well, we was all a gathered, listenin' to the serpent and its poisoned sting, and that sort o' thing, and had about concluded to go for Old Bung, when that contrairy, ornery Hib broke us up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a difficult and contrary disposition; - dorothy sayers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a difficult and contrary disposition; - dorothy sayers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"What’s the matter with the ornery cusses?” Laban impatiently wanted to know."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"You ornery scamp!” he said, almost under his breath."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Well, we was all a gathered, listenin' to the serpent and its poisoned sting, and that sort o' thing, and had about concluded to go for Old Bung, when that contrairy, ornery Hib broke us up."*

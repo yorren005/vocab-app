@@ -5,13 +5,6 @@ status: unread
 ---
 # uninfected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sepsis or infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from sepsis or infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He found her uninfected by the rage for diversion and dissipation; for noise, tumult, gewgaws, glitter, and extravagance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sepsis or infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from sepsis or infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He found her uninfected by the rage for diversion and dissipation; for noise, tumult, gewgaws, glitter, and extravagance."*

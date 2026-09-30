@@ -5,15 +5,6 @@ status: unread
 ---
 # tardy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After the expected or usual time; delayed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the expected or usual time; delayed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, an you be so tardy, come no more in my sight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, is your tardy master now at hand?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After the expected or usual time; delayed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the expected or usual time; delayed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, an you be so tardy, come no more in my sight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, is your tardy master now at hand?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*

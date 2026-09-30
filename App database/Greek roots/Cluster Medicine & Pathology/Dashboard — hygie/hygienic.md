@@ -5,15 +5,6 @@ status: unread
 ---
 # hygienic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hygiene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing good hygiene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hygienic treatment also loses its efficacy."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Blissful ignorance He, who is ignorant of what is termed hygienic law, is more receptive of spiritual power and of faith in one 382:15 God, than is the devotee of supposed hygienic law, who comes to teach the so-called igno- rant one."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was also put through forms of hygienic treatment and other things that offered inducements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hygiene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing good hygiene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hygienic treatment also loses its efficacy."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Blissful ignorance He, who is ignorant of what is termed hygienic law, is more receptive of spiritual power and of faith in one 382:15 God, than is the devotee of supposed hygienic law, who comes to teach the so-called igno- rant one."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was also put through forms of hygienic treatment and other things that offered inducements."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # catachrestical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or characterized by or given to catachresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or characterized by or given to catachresis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachrestical designates constituting or characterized by or given to catachresis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or characterized by or given to catachresis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or characterized by or given to catachresis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachrestical designates constituting or characterized by or given to catachresis."*

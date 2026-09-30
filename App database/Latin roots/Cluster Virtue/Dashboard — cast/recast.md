@@ -5,14 +5,6 @@ status: unread
 ---
 # recast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast again, in a different role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus entirely recast mankind's common ideas of holiness."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"As soon as he was out of earshot Bernard turned on Laura and seized her by the wrist, his features altering, their sardonic mask recast in deep lines of hate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast again, in a different role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus entirely recast mankind's common ideas of holiness."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"As soon as he was out of earshot Bernard turned on Laura and seized her by the wrist, his features altering, their sardonic mask recast in deep lines of hate."*

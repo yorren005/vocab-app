@@ -5,13 +5,6 @@ status: unread
 ---
 # polyconic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyconic designates a map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyconic designates a map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude."*

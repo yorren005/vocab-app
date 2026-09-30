@@ -5,15 +5,6 @@ status: unread
 ---
 # distemper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various infectious viral diseases of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angry and disagreeable mood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you are sick at sea Or stomach-qualm’d at land, a dram of this Will drive away distemper."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself do grace to them, and bring them in. [_Exit Polonius._] He tells me, my sweet queen, that he hath found The head and source of all your son’s distemper."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my lord, what is your cause of distemper?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various infectious viral diseases of animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angry and disagreeable mood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you are sick at sea Or stomach-qualm’d at land, a dram of this Will drive away distemper."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself do grace to them, and bring them in. [_Exit Polonius._] He tells me, my sweet queen, that he hath found The head and source of all your son’s distemper."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my lord, what is your cause of distemper?"*

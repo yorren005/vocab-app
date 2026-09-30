@@ -5,14 +5,6 @@ status: unread
 ---
 # formulary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or of the nature of a formula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The _Lines written above Tintern Abbey_ have become, as it were, the _locus classicus_ or consecrated formulary of the Wordsworthian faith."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The writer rises above creeds and formularies and arbitrarily established rule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or of the nature of a formula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The _Lines written above Tintern Abbey_ have become, as it were, the _locus classicus_ or consecrated formulary of the Wordsworthian faith."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The writer rises above creeds and formularies and arbitrarily established rule."*

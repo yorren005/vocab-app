@@ -5,13 +5,6 @@ status: unread
 ---
 # hoi polloi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The general populace : masses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general populace : masses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hoi polloi designates the general populace : masses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general populace : masses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general populace : masses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hoi polloi designates the general populace : masses."*

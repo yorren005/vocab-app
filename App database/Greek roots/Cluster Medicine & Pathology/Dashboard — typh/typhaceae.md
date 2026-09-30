@@ -5,13 +5,6 @@ status: unread
 ---
 # typhaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial marsh plants with creeping rootstocks and long linear leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial marsh plants with creeping rootstocks and long linear leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhaceae designates perennial marsh plants with creeping rootstocks and long linear leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial marsh plants with creeping rootstocks and long linear leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial marsh plants with creeping rootstocks and long linear leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhaceae designates perennial marsh plants with creeping rootstocks and long linear leaves."*

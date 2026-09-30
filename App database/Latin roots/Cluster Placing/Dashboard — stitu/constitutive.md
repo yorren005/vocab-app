@@ -5,13 +5,6 @@ status: unread
 ---
 # constitutive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitutional in the structure of something (especially your physical makeup).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitutional in the structure of something (especially your physical makeup).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constitutive designates constitutional in the structure of something (especially your physical makeup)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitutional in the structure of something (especially your physical makeup).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitutional in the structure of something (especially your physical makeup).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constitutive designates constitutional in the structure of something (especially your physical makeup)."*

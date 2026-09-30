@@ -5,14 +5,6 @@ status: unread
 ---
 # proton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle that is identical with the nucleus of the hydrogen atom, that along with the neutron is a constituent of all other atomic nuclei, that carries a positive charge numerically equal to the charge of an electron, and that has a mass of 1.673 × 10—27 kilogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of drugs that inhibit the activity of pumps transporting hydrogen ions across cell membranes and are used to inhibit gastric acid secretion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"As soon as you pick up anything with it, Ben will throw his switch, and whatever is at the end of it will get a dose of pure protons."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle that is identical with the nucleus of the hydrogen atom, that along with the neutron is a constituent of all other atomic nuclei, that carries a positive charge numerically equal to the charge of an electron, and that has a mass of 1.673 × 10—27 kilogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of drugs that inhibit the activity of pumps transporting hydrogen ions across cell membranes and are used to inhibit gastric acid secretion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"As soon as you pick up anything with it, Ben will throw his switch, and whatever is at the end of it will get a dose of pure protons."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*

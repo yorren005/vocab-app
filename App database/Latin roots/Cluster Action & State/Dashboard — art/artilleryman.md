@@ -5,15 +5,6 @@ status: unread
 ---
 # artilleryman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serviceman in the artillery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serviceman in the artillery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet is an ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers like the fibres of a coco-nut, not a hair upon his head, and a torrid complexion."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Matthew Bagnet, otherwise Lignum Vitae, ex-artilleryman and present bassoon-player."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Whose company?” asked Prince Bagratión of an artilleryman standing by the ammunition wagon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serviceman in the artillery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serviceman in the artillery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet is an ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers like the fibres of a coco-nut, not a hair upon his head, and a torrid complexion."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Matthew Bagnet, otherwise Lignum Vitae, ex-artilleryman and present bassoon-player."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Whose company?” asked Prince Bagratión of an artilleryman standing by the ammunition wagon."*

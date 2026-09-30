@@ -5,13 +5,6 @@ status: unread
 ---
 # exostosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spur or bony outgrowth from a bone or the root of a tooth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spur or bony outgrowth from a bone or the root of a tooth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exostosis designates a spur or bony outgrowth from a bone or the root of a tooth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spur or bony outgrowth from a bone or the root of a tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spur or bony outgrowth from a bone or the root of a tooth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exostosis designates a spur or bony outgrowth from a bone or the root of a tooth."*

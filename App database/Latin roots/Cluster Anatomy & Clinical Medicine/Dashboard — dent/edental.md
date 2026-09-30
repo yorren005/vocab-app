@@ -5,13 +5,6 @@ status: unread
 ---
 # edental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having few if any teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having few if any teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edental designates having few if any teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having few if any teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having few if any teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edental designates having few if any teeth."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperextend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend a joint beyond its normal range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend a joint beyond its normal range.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperextend designates extend a joint beyond its normal range."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend a joint beyond its normal range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend a joint beyond its normal range.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperextend designates extend a joint beyond its normal range."*

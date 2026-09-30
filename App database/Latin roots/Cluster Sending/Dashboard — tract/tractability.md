@@ -5,14 +5,6 @@ status: unread
 ---
 # tractability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being easily persuaded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being easily persuaded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And to please her parent the girl put herself quite in Joan’s hands, saying serenely—“Do what you like with me, mother.” Mrs Durbeyfield was only too delighted at this tractability."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Children's tractability 236:21 Children should obey their parents; insubordination is an evil, blighting the buddings of self-government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being easily persuaded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being easily persuaded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And to please her parent the girl put herself quite in Joan’s hands, saying serenely—“Do what you like with me, mother.” Mrs Durbeyfield was only too delighted at this tractability."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Children's tractability 236:21 Children should obey their parents; insubordination is an evil, blighting the buddings of self-government."*

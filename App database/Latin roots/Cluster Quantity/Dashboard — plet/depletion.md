@@ -5,15 +5,6 @@ status: unread
 ---
 # depletion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of decreasing something markedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being depleted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"No patient will like it—certainly not Peacock’s, who have been used to depletion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There would be interregional and, within INOR, international competition that would increase the rate of depletion in resources."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The rate of depletion in the Solar Community's reserves of vital but nonrenewable substances rose rapidly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of decreasing something markedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being depleted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"No patient will like it—certainly not Peacock’s, who have been used to depletion."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There would be interregional and, within INOR, international competition that would increase the rate of depletion in resources."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The rate of depletion in the Solar Community's reserves of vital but nonrenewable substances rose rapidly."*

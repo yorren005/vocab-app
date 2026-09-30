@@ -5,13 +5,6 @@ status: unread
 ---
 # egyptologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An archeologist who specializes in egyptology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archeologist who specializes in egyptology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egyptologist designates an archeologist who specializes in egyptology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archeologist who specializes in egyptology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archeologist who specializes in egyptology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egyptologist designates an archeologist who specializes in egyptology."*

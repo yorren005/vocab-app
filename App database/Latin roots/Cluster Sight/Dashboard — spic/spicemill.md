@@ -5,13 +5,6 @@ status: unread
 ---
 # spicemill
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mill for grinding spices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mill for grinding spices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spicemill designates a mill for grinding spices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mill for grinding spices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mill for grinding spices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spicemill designates a mill for grinding spices."*

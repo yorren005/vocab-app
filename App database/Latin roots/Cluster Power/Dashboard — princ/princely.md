@@ -5,15 +5,6 @@ status: unread
 ---
 # princely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich and superior in quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the rank of or befitting a prince.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are fallen into a princely hand; fear nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that now Refused most princely gifts, am bound to beg Of my lord general."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou goddess, Thou divine Nature, thou thyself thou blazon’st In these two princely boys!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich and superior in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the rank of or befitting a prince.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are fallen into a princely hand; fear nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that now Refused most princely gifts, am bound to beg Of my lord general."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou goddess, Thou divine Nature, thou thyself thou blazon’st In these two princely boys!"*

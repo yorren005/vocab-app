@@ -5,20 +5,6 @@ status: unread
 ---
 # coffers
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Store or hoard up in a coffer
-> 2. **Nuance / Usage**: Chest; especially : strongbox
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (plural).
-> - **Syntactic Constructions**: Functions as a concrete or figurative direct object, subject, or prepositional focus denoting financial reserves, treasuries, or strongboxes.
-> - **Collocations & Registers**: Fill the coffers, royal coffers, depleted state coffers; formal, economic, and literary registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"A lady So fair, and fasten’d to an empery, Would make the great’st king double, to be partner’d With tomboys hir’d with that self exhibition Which your own coffers yield!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He hath brought many captives home to Rome, Whose ransoms did the general coffers fill: Did this in Caesar seem ambitious?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Store or hoard up in a coffer
+> 2. **Nuance / Usage**: Chest; especially : strongbox
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (plural).
+> - **Syntactic Constructions**: Functions as a concrete or figurative direct object, subject, or prepositional focus denoting financial reserves, treasuries, or strongboxes.
+> - **Collocations & Registers**: Fill the coffers, royal coffers, depleted state coffers; formal, economic, and literary registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"A lady So fair, and fasten’d to an empery, Would make the great’st king double, to be partner’d With tomboys hir’d with that self exhibition Which your own coffers yield!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He hath brought many captives home to Rome, Whose ransoms did the general coffers fill: Did this in Caesar seem ambitious?"*

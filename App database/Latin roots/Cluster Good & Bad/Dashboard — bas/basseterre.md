@@ -5,13 +5,6 @@ status: unread
 ---
 # basseterre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of saint kitts and nevis on the island of saint christopher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of saint kitts and nevis on the island of saint christopher.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basseterre designates the capital of saint kitts and nevis on the island of saint christopher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of saint kitts and nevis on the island of saint christopher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of saint kitts and nevis on the island of saint christopher.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basseterre designates the capital of saint kitts and nevis on the island of saint christopher."*

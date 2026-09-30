@@ -5,13 +5,6 @@ status: unread
 ---
 # sonneteer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poet who writes sonnets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poet who writes sonnets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Times had altered since then, and no sonneteer had insisted on Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poet who writes sonnets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poet who writes sonnets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Times had altered since then, and no sonneteer had insisted on Mr."*

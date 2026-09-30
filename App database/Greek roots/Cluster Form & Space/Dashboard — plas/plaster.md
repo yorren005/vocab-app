@@ -5,15 +5,6 @@ status: unread
 ---
 # plaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You herd of—Boils and plagues Plaster you o’er, that you may be abhorred Farther than seen, and one infect another Against the wind a mile!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let him have some plaster, or some loam, or some rough-cast about him, to signify wall; and let him hold his fingers thus, and through that cranny shall Pyramus and Thisbe whisper."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You rub the sore, When you should bring the plaster."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You herd of—Boils and plagues Plaster you o’er, that you may be abhorred Farther than seen, and one infect another Against the wind a mile!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let him have some plaster, or some loam, or some rough-cast about him, to signify wall; and let him hold his fingers thus, and through that cranny shall Pyramus and Thisbe whisper."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You rub the sore, When you should bring the plaster."*

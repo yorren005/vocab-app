@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrology designates the branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrology designates the branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation."*

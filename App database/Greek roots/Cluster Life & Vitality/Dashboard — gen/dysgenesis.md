@@ -5,13 +5,6 @@ status: unread
 ---
 # dysgenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infertility between hybrids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infertility between hybrids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgenesis designates infertility between hybrids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infertility between hybrids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infertility between hybrids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgenesis designates infertility between hybrids."*

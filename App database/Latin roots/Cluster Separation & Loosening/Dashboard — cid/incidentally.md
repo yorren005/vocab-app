@@ -5,15 +5,6 @@ status: unread
 ---
 # incidentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introducing a different topic; in point of fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a minor or subordinate nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The prison doctor, a likable chap, has just been in to have a yarn with me, incidentally to proffer me his good offices in the matter of dope."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Banks perform incidentally a further service in developing better business methods in the community."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The answer may be ventured that in the common law the whole question of restraint of trade was treated primarily as one of private rights and only incidentally as one involving general public policy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Introducing a different topic; in point of fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a minor or subordinate nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The prison doctor, a likable chap, has just been in to have a yarn with me, incidentally to proffer me his good offices in the matter of dope."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Banks perform incidentally a further service in developing better business methods in the community."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The answer may be ventured that in the common law the whole question of restraint of trade was treated primarily as one of private rights and only incidentally as one involving general public policy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # understand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Know and comprehend the nature or meaning of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We understand it, and thank heaven for you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SOLDIER. _Boskos vauvado._ I understand thee, and can speak thy tongue. _Kerelybonto._ Sir, Betake thee to thy faith, for seventeen poniards are at thy bosom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Know and comprehend the nature or meaning of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We understand it, and thank heaven for you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SOLDIER. _Boskos vauvado._ I understand thee, and can speak thy tongue. _Kerelybonto._ Sir, Betake thee to thy faith, for seventeen poniards are at thy bosom."*

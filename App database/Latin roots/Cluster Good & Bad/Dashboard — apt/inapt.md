@@ -5,13 +5,6 @@ status: unread
 ---
 # inapt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elegant or graceful in expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elegant or graceful in expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Her defense was weak and inapt but she attained her object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elegant or graceful in expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elegant or graceful in expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Her defense was weak and inapt but she attained her object."*

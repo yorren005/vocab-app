@@ -5,13 +5,6 @@ status: unread
 ---
 # pressure-wash
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wash before painting to remove old paint and mildew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wash before painting to remove old paint and mildew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressure-wash designates wash before painting to remove old paint and mildew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wash before painting to remove old paint and mildew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wash before painting to remove old paint and mildew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressure-wash designates wash before painting to remove old paint and mildew."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # craft
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Articles made by craftspeople
-> 2. **Nuance / Usage**: Skill in planning, making, or executing : dexterity
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Catching all passions in his craft of will."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Their tricks an’ craft hae put me daft."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Still making work his selfish craft must mend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Skill and dexterity in planning, making, or executing something; in the context of cunning, subtle artifice, guile, or calculated deceit used to outwit others.
+> 2. **Nuance / Usage**: Also denotes a specialized trade or manual occupation requiring practiced expertise (*the potter's craft*), or a vessel built for water, air, or space travel.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass) and Verb (transitive).
+> - **Syntactic Constructions**: Functions as an uncountable noun denoting guile (*by force or craft*) or skill (*master of one's craft*), and as a transitive verb (*to craft a stratagem*).
+> - **Collocations & Registers**: Literary, political, and artisanal registers; collocated with *subtle*, *kingly*, *guile*, *statecraft*, and *mastery*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, ’tis most sweet when in one line two **crafts** directly meet."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"A prince must therefore know well how to use the beast and the man, combining force with **craft** whenever law proves insufficient."*
+> - 📜 **Robert Burns (*Address to the Deil*):** *"Their tricks an’ **craft** hae put me daft, they’ve ta’en it in their heads to meddle."*

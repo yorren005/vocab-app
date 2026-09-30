@@ -5,15 +5,6 @@ status: unread
 ---
 # staccato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) marked by or composed of disconnected parts or sounds; cut short crisply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separating the notes; in music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Its deep "Ah! hah! hah!" came with a staccato, quacking sound from somewhere low down in the chest, and set his huge shoulders moving in unison with its peals."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Celia was not impulsive: what she had to say could wait, and came from her always with the same quiet staccato evenness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Poor Dodo,” she went on, in an amiable staccato."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) marked by or composed of disconnected parts or sounds; cut short crisply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separating the notes; in music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Its deep "Ah! hah! hah!" came with a staccato, quacking sound from somewhere low down in the chest, and set his huge shoulders moving in unison with its peals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia was not impulsive: what she had to say could wait, and came from her always with the same quiet staccato evenness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Poor Dodo,” she went on, in an amiable staccato."*

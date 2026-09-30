@@ -5,15 +5,6 @@ status: unread
 ---
 # damned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are condemned to eternal punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wish harm upon; invoke evil upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, madam, ’tis not so well that I am poor, though many of the rich are damned; but if I may have your ladyship’s good will to go to the world, Isbel the woman and I will do as we may."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, thou art damned, like an ill-roasted egg, all on one side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou be’st not damned for this, the devil himself will have no shepherds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are condemned to eternal punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wish harm upon; invoke evil upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, madam, ’tis not so well that I am poor, though many of the rich are damned; but if I may have your ladyship’s good will to go to the world, Isbel the woman and I will do as we may."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, thou art damned, like an ill-roasted egg, all on one side."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou be’st not damned for this, the devil himself will have no shepherds."*

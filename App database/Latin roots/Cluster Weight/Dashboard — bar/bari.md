@@ -5,15 +5,6 @@ status: unread
 ---
 # bari
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital city of the apulia region on the adriatic coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital city of the apulia region on the adriatic coast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happily, about two o’clock, Ned Land brought down a magnificent hog; from the brood of those the natives call “bari-outang.” The animal came in time for us to procure real quadruped meat, and he was well received."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The “bari-outang,” grilled on the coals, soon scented the air with a delicious odour."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the tribes which cherish these beliefs and observe these customs are the Latuka, Bari, Laluba, and Lokoiya."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital city of the apulia region on the adriatic coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital city of the apulia region on the adriatic coast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happily, about two o’clock, Ned Land brought down a magnificent hog; from the brood of those the natives call “bari-outang.” The animal came in time for us to procure real quadruped meat, and he was well received."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The “bari-outang,” grilled on the coals, soon scented the air with a delicious odour."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the tribes which cherish these beliefs and observe these customs are the Latuka, Bari, Laluba, and Lokoiya."*

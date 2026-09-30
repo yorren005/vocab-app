@@ -5,14 +5,6 @@ status: unread
 ---
 # premiss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take something as preexisting and given.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That standpoint was unquestioned by Celsus. [Sidenote: The failure of Celsus] Confident in the truth of his premisses and the conclusions that follow from them, Celsus charged the Christians with folly and dogmatism."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor is he the subject of the knowledge which amounts to demonstration; for this depends on premisses (_protera_) and things better known (_gnorimotepa_);[106] but nothing is anterior to the unbegotten."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take something as preexisting and given.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That standpoint was unquestioned by Celsus. [Sidenote: The failure of Celsus] Confident in the truth of his premisses and the conclusions that follow from them, Celsus charged the Christians with folly and dogmatism."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor is he the subject of the knowledge which amounts to demonstration; for this depends on premisses (_protera_) and things better known (_gnorimotepa_);[106] but nothing is anterior to the unbegotten."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # mesoderm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle of the three primary germ layers of an embryo that is the source of many bodily tissues and structures (such as bone, muscle, connective tissue, and dermis); broadly : tissue derived from this germ layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle of the three primary germ layers of an embryo that is the source of many bodily tissues and structures (such as bone, muscle, connective tissue, and dermis); broadly : tissue derived from this germ layer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoderm designates the middle of the three primary germ layers of an embryo that is the source of many bodily tissues and structures (such as bone, muscle, connective tissue, and dermis); broadly : tissue derived from this germ layer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle of the three primary germ layers of an embryo that is the source of many bodily tissues and structures (such as bone, muscle, connective tissue, and dermis); broadly : tissue derived from this germ layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle of the three primary germ layers of an embryo that is the source of many bodily tissues and structures (such as bone, muscle, connective tissue, and dermis); broadly : tissue derived from this germ layer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoderm designates the middle of the three primary germ layers of an embryo that is the source of many bodily tissues and structures (such as bone, muscle, connective tissue, and dermis); broadly : tissue derived from this germ layer."*

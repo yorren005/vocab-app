@@ -5,15 +5,6 @@ status: unread
 ---
 # unsmiling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not smiling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not smiling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"An unsmiling, a searching, a meaning gaze it was."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There were other guests and the countess talked little to him, and only as he kissed her hand on taking leave said unexpectedly and in a whisper, with a strangely unsmiling face: “Come to dinner tomorrow... in the evening."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I have also--But perhaps there was some one else you desired to inquire for,” he broke off, turning upon his hostess a bland but unsmiling countenance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not smiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not smiling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"An unsmiling, a searching, a meaning gaze it was."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There were other guests and the countess talked little to him, and only as he kissed her hand on taking leave said unexpectedly and in a whisper, with a strangely unsmiling face: “Come to dinner tomorrow... in the evening."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I have also--But perhaps there was some one else you desired to inquire for,” he broke off, turning upon his hostess a bland but unsmiling countenance."*

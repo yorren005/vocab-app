@@ -5,13 +5,6 @@ status: unread
 ---
 # popularization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation that easily understandable and acceptable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something attractive to the general public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only in our self-confident day of the popularization of knowledge—thanks to that most powerful engine of ignorance, the diffusion of printed matter—has the question of the freedom of will been put on a level on which the question itself cannot exist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation that easily understandable and acceptable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something attractive to the general public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only in our self-confident day of the popularization of knowledge—thanks to that most powerful engine of ignorance, the diffusion of printed matter—has the question of the freedom of will been put on a level on which the question itself cannot exist."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # recriminatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Countering one charge with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Countering one charge with another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recriminatory designates countering one charge with another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Countering one charge with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Countering one charge with another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recriminatory designates countering one charge with another."*

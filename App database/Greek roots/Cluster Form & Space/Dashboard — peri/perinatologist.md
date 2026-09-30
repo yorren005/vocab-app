@@ -5,13 +5,6 @@ status: unread
 ---
 # perinatologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An obstetrician specializing in perinatology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstetrician specializing in perinatology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinatologist designates an obstetrician specializing in perinatology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obstetrician specializing in perinatology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstetrician specializing in perinatology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinatologist designates an obstetrician specializing in perinatology."*

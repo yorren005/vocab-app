@@ -5,13 +5,6 @@ status: unread
 ---
 # monothelitism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monothelitism designates the theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monothelitism designates the theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople."*

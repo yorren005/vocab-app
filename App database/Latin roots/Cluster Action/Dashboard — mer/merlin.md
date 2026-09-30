@@ -5,15 +5,6 @@ status: unread
 ---
 # merlin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (arthurian legend) the magician who acted as king arthur's advisor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small falcon of europe and america having dark plumage with black-barred tail; used in falconry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This prophecy Merlin shall make; for I live before his time. [_Exit._] SCENE III."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Had they stuck on his fist a rough-foot merlin! (Hark, the wind’s on the heath at its game!"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Berold: the old Duke’s favorite hunting-horse. 78. merlin: a species of hawk. 80. falcon-lanner: a long-tailed species of hawk, ‘falco laniarius’. 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (arthurian legend) the magician who acted as king arthur's advisor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small falcon of europe and america having dark plumage with black-barred tail; used in falconry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This prophecy Merlin shall make; for I live before his time. [_Exit._] SCENE III."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Had they stuck on his fist a rough-foot merlin! (Hark, the wind’s on the heath at its game!"*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Berold: the old Duke’s favorite hunting-horse. 78. merlin: a species of hawk. 80. falcon-lanner: a long-tailed species of hawk, ‘falco laniarius’. 4."*

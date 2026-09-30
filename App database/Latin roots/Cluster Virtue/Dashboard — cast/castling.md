@@ -5,13 +5,6 @@ status: unread
 ---
 # castling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interchanging the positions of the king and a rook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move the king two squares toward a rook and in the same move the rook to the square next past the king.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castling designates interchanging the positions of the king and a rook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interchanging the positions of the king and a rook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move the king two squares toward a rook and in the same move the rook to the square next past the king.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castling designates interchanging the positions of the king and a rook."*

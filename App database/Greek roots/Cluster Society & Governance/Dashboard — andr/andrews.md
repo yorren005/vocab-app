@@ -5,15 +5,6 @@ status: unread
 ---
 # andrews
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states naturalist who contributed to paleontology and geology (1884-1960).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Andrews, Holborn, with the waggons and hackney-coaches roaring past him all the day and half the night like one great dragon."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I wish you knew Miss Andrews, you would be delighted with her."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I told Captain Hunt at one of our assemblies this winter that if he was to tease me all night, I would not dance with him, unless he would allow Miss Andrews to be as beautiful as an angel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states naturalist who contributed to paleontology and geology (1884-1960).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Andrews, Holborn, with the waggons and hackney-coaches roaring past him all the day and half the night like one great dragon."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"I wish you knew Miss Andrews, you would be delighted with her."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"I told Captain Hunt at one of our assemblies this winter that if he was to tease me all night, I would not dance with him, unless he would allow Miss Andrews to be as beautiful as an angel."*

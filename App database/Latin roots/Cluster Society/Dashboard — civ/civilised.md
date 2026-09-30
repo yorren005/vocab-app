@@ -5,15 +5,6 @@ status: unread
 ---
 # civilised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is as natural as that I should love those who show me affection, or submit to punishment when I feel it is deserved.” “Heathens and savage tribes hold that doctrine, but Christians and civilised nations disown it.” “How?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Undoubtedly we had to do with civilised people, and, had it not been for the electric light which flooded us, I could have fancied I was in the dining-room of the Adelphi Hotel at Liverpool, or at the Grand Hotel in Paris."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not that be my right?” “It might be the right of a savage,” I answered, “but not that of a civilised man.” “Professor,” replied the commander, quickly, “I am not what you call a civilised man!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is as natural as that I should love those who show me affection, or submit to punishment when I feel it is deserved.” “Heathens and savage tribes hold that doctrine, but Christians and civilised nations disown it.” “How?"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Undoubtedly we had to do with civilised people, and, had it not been for the electric light which flooded us, I could have fancied I was in the dining-room of the Adelphi Hotel at Liverpool, or at the Grand Hotel in Paris."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not that be my right?” “It might be the right of a savage,” I answered, “but not that of a civilised man.” “Professor,” replied the commander, quickly, “I am not what you call a civilised man!"*

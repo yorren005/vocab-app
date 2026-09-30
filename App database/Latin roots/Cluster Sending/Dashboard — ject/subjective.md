@@ -5,15 +5,6 @@ status: unread
 ---
 # subjective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place within the mind and modified by individual bias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a mental act performed entirely within the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been observed more than once that the causes of love are chiefly subjective, and Boldwood was a living testimony to the truth of the proposition."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Many besides Angel have learnt that the magnitude of lives is not as to their external displacements, but as to their subjective experiences."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Two main factors in this may be distinguished: the objective and the subjective, or the material environment and the population composing the nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place within the mind and modified by individual bias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a mental act performed entirely within the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been observed more than once that the causes of love are chiefly subjective, and Boldwood was a living testimony to the truth of the proposition."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Many besides Angel have learnt that the magnitude of lives is not as to their external displacements, but as to their subjective experiences."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Two main factors in this may be distinguished: the objective and the subjective, or the material environment and the population composing the nation."*

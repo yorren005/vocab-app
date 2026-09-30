@@ -5,13 +5,6 @@ status: unread
 ---
 # pteridophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridophyte designates any of a division (pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridophyte designates any of a division (pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds."*

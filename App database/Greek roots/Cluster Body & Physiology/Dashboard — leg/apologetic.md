@@ -5,15 +5,6 @@ status: unread
 ---
 # apologetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing regret : regretfully acknowledging fault or failure : expressing an apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offered in defense or vindication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The old woman was terribly apologetic about having gone into the room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, coughing his apologetic cough behind his hand, “I really don’t know what advice I could offer, except sending for the beadle.” “I don’t speak of advice,” returns Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his apologetic cough, “that I mean to say a word against the profession I get my living by.” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing regret : regretfully acknowledging fault or failure : expressing an apology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offered in defense or vindication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The old woman was terribly apologetic about having gone into the room."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, coughing his apologetic cough behind his hand, “I really don’t know what advice I could offer, except sending for the beadle.” “I don’t speak of advice,” returns Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his apologetic cough, “that I mean to say a word against the profession I get my living by.” Mr."*

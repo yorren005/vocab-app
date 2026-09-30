@@ -5,15 +5,6 @@ status: unread
 ---
 # dismissed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bar from attention or consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease to consider; put out of judicial consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I kneeled before him; ’Twas very faintly he said “Rise”; dismissed me Thus with his speechless hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him I’ll send Duke Edmund to the Tower.— And, Somerset, we will commit thee thither, Until his army be dismissed from him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I show it most of all when I show justice; For then I pity those I do not know, Which a dismissed offence would after gall, And do him right that, answering one foul wrong, Lives not to act another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bar from attention or consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease to consider; put out of judicial consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I kneeled before him; ’Twas very faintly he said “Rise”; dismissed me Thus with his speechless hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him I’ll send Duke Edmund to the Tower.— And, Somerset, we will commit thee thither, Until his army be dismissed from him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I show it most of all when I show justice; For then I pity those I do not know, Which a dismissed offence would after gall, And do him right that, answering one foul wrong, Lives not to act another."*

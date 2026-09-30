@@ -5,15 +5,6 @@ status: unread
 ---
 # merchandise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities offered for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in the trade of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The merchandise which thou hast brought from Rome Are all too dear for me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell not me, I know Antonio Is sad to think upon his merchandise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my merchandise makes me not sad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities offered for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in the trade of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The merchandise which thou hast brought from Rome Are all too dear for me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell not me, I know Antonio Is sad to think upon his merchandise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my merchandise makes me not sad."*

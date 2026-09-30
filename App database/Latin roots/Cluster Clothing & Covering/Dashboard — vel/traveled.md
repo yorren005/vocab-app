@@ -5,15 +5,6 @@ status: unread
 ---
 # traveled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertake a journey or trip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I traveled fast into the twilight, and I saw all the stars smile out over the ridge, in answer to the hearth stars in the valley, before I got across Silver Creek."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We traveled down together in a very full carriage, and I saw him next day on the beach." "He's a dear old boy, if you rub him the right way." "Yes?" I said."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The latter were a great comfort; we had a nice supply at the Lodge; and they traveled up and down from the tents to the cars daily."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertake a journey or trip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I traveled fast into the twilight, and I saw all the stars smile out over the ridge, in answer to the hearth stars in the valley, before I got across Silver Creek."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We traveled down together in a very full carriage, and I saw him next day on the beach." "He's a dear old boy, if you rub him the right way." "Yes?" I said."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The latter were a great comfort; we had a nice supply at the Lodge; and they traveled up and down from the tents to the cars daily."*

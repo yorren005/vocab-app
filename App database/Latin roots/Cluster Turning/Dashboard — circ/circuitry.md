@@ -5,13 +5,6 @@ status: unread
 ---
 # circuitry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a system of circuits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a system of circuits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out of sight beyond a hillock, Zolan reached into the circuitry behind the instrument panel, manipulated connections, and punched in new coordinates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a system of circuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a system of circuits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out of sight beyond a hillock, Zolan reached into the circuitry behind the instrument panel, manipulated connections, and punched in new coordinates."*

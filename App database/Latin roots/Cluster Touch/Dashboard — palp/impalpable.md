@@ -5,15 +5,6 @@ status: unread
 ---
 # impalpable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived by the senses especially the sense of touch; - james jeans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperceptible to the senses or the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For a quarter of an hour I trod on this sand, sown with the impalpable dust of shells."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If by chance a wandering glance met mine, it stared past and through me as though I were impalpable as a ghost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived by the senses especially the sense of touch; - james jeans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperceptible to the senses or the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For a quarter of an hour I trod on this sand, sown with the impalpable dust of shells."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If by chance a wandering glance met mine, it stared past and through me as though I were impalpable as a ghost."*

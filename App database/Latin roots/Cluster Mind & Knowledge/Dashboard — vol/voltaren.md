@@ -5,13 +5,6 @@ status: unread
 ---
 # voltaren
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voltaren designates a nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voltaren designates a nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally."*

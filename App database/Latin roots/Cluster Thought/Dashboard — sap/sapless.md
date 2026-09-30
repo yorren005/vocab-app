@@ -5,15 +5,6 @@ status: unread
 ---
 # sapless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of sap and other vital juices; dry; - norman mailer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O young John Talbot, I did send for thee To tutor thee in stratagems of war, That Talbot’s name might be in thee revived When sapless age and weak unable limbs Should bring thy father to his drooping chair."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fusionless, pithless, sapless, tasteless, Fyke, fret."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of sap and other vital juices; dry; - norman mailer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O young John Talbot, I did send for thee To tutor thee in stratagems of war, That Talbot’s name might be in thee revived When sapless age and weak unable limbs Should bring thy father to his drooping chair."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fusionless, pithless, sapless, tasteless, Fyke, fret."*

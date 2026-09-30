@@ -5,13 +5,6 @@ status: unread
 ---
 # inmarriage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage within one's own tribe or group as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage within one's own tribe or group as required by custom or law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inmarriage designates marriage within one's own tribe or group as required by custom or law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage within one's own tribe or group as required by custom or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage within one's own tribe or group as required by custom or law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inmarriage designates marriage within one's own tribe or group as required by custom or law."*

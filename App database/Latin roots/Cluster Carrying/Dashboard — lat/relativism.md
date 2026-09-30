@@ -5,13 +5,6 @@ status: unread
 ---
 # relativism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativism designates (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativism designates (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved."*

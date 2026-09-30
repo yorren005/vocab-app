@@ -5,15 +5,6 @@ status: unread
 ---
 # respected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard highly; think much of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show respect towards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The service of the foot, Being once gangrened, is not then respected For what before it was."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only their ends You have respected, stopped your ears against The general suit of Rome; never admitted A private whisper, no, not with such friends That thought them sure of you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we banished him, we respected not them; and he returning to break our necks, they respect not us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard highly; think much of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show respect towards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The service of the foot, Being once gangrened, is not then respected For what before it was."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only their ends You have respected, stopped your ears against The general suit of Rome; never admitted A private whisper, no, not with such friends That thought them sure of you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we banished him, we respected not them; and he returning to break our necks, they respect not us."*

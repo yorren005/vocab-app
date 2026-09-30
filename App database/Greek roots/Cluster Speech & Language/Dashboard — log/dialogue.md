@@ -5,15 +5,6 @@ status: unread
 ---
 # dialogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversational element of literary or dramatic composition (such as a movie, play, or novel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conversation between two or more persons; also : a similar exchange between a person and something else (such as a computer) —usually used before another noun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But shall we have this dialogue between the Fool and the Soldier?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, most esteemed Greatness, will you hear the dialogue that the two learned men have compiled in praise of the owl and the cuckoo?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear you not my part of the dialogue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversational element of literary or dramatic composition (such as a movie, play, or novel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conversation between two or more persons; also : a similar exchange between a person and something else (such as a computer) —usually used before another noun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But shall we have this dialogue between the Fool and the Soldier?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, most esteemed Greatness, will you hear the dialogue that the two learned men have compiled in praise of the owl and the cuckoo?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear you not my part of the dialogue."*

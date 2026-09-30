@@ -5,15 +5,6 @@ status: unread
 ---
 # flexibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being flexible; easily bent or shaped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adaptable or variable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl said it wouldn’t do; intention good, but want of flexibility; try the bassoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was awe-stricken to discover such determination under such apparent flexibility."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Come, Jack." Yvonne rose to her feet, more like a snake than ever in her flexibility and swiftness, and held Isabel to her for a moment, her arm round her young friend's waist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being flexible; easily bent or shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being adaptable or variable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl said it wouldn’t do; intention good, but want of flexibility; try the bassoon."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was awe-stricken to discover such determination under such apparent flexibility."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Come, Jack." Yvonne rose to her feet, more like a snake than ever in her flexibility and swiftness, and held Isabel to her for a moment, her arm round her young friend's waist."*

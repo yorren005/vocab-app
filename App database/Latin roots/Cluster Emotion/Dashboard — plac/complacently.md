@@ -5,15 +5,6 @@ status: unread
 ---
 # complacently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-satisfied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-satisfied manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe, smiling complacently; “I must say it, though I _am_ his mother, that there is not a more agreeable young man in the world.” This inapplicable answer might have been too much for the comprehension of many; but it did not puzzle Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed would have endured my presence more complacently; her children would have entertained for me more of the cordiality of fellow-feeling; the servants would have been less prone to make me the scapegoat of the nursery."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"That is all right, captain,” Smee answered complacently; “we let her go.” “Let her go!” cried Hook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-satisfied manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-satisfied manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe, smiling complacently; “I must say it, though I _am_ his mother, that there is not a more agreeable young man in the world.” This inapplicable answer might have been too much for the comprehension of many; but it did not puzzle Mrs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed would have endured my presence more complacently; her children would have entertained for me more of the cordiality of fellow-feeling; the servants would have been less prone to make me the scapegoat of the nursery."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"That is all right, captain,” Smee answered complacently; “we let her go.” “Let her go!” cried Hook."*

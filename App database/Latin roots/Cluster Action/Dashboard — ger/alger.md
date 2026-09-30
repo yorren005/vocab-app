@@ -5,15 +5,6 @@ status: unread
 ---
 # alger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Alger Series For Boys. {About 50 Titles} Uniform With This Volume."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Cloth, extra . . . . . . . . . . . . . . 1 25 ALGER'S RENOWNED BOOKS."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"By Horatio Alger, Jr. 6 vols., 12mo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Alger Series For Boys. {About 50 Titles} Uniform With This Volume."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Cloth, extra . . . . . . . . . . . . . . 1 25 ALGER'S RENOWNED BOOKS."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"By Horatio Alger, Jr. 6 vols., 12mo."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # helicteres
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicteres designates genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicteres designates genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another."*

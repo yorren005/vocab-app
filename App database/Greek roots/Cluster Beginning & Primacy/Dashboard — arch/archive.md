@@ -5,15 +5,6 @@ status: unread
 ---
 # archive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depository containing historical records and documents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into an archive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Special thanks to The Internet Archive: American Libraries."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Produced by Charles Bowen, from page scans provided by the Web Archive Source: http://www.archive.org/details/sagahalfredsigs00veitgoog SAGA OF HALFRED THE SIGSKALD SAGA OF HALFRED THE SIGSKALD _A Northern Tale of the Tenth_ _Century_ BY FELIX DAHN."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"See http://www.archive.org/details/unfetterednovel00grigrich UNFETTERED."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A depository containing historical records and documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into an archive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Special thanks to The Internet Archive: American Libraries."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Produced by Charles Bowen, from page scans provided by the Web Archive Source: http://www.archive.org/details/sagahalfredsigs00veitgoog SAGA OF HALFRED THE SIGSKALD SAGA OF HALFRED THE SIGSKALD _A Northern Tale of the Tenth_ _Century_ BY FELIX DAHN."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"See http://www.archive.org/details/unfetterednovel00grigrich UNFETTERED."*

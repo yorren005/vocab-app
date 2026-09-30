@@ -5,13 +5,6 @@ status: unread
 ---
 # recurvirostridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long-legged shorebirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long-legged shorebirds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurvirostridae designates long-legged shorebirds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long-legged shorebirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long-legged shorebirds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurvirostridae designates long-legged shorebirds."*

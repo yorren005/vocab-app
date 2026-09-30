@@ -5,15 +5,6 @@ status: unread
 ---
 # consistent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `with') in agreement or consistent or reliable; ; - fdr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being reproduced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had a cultivated mind, and was, generally speaking, rational and consistent—but she had prejudices on the side of ancestry; she had a value for rank and consequence, which blinded her a little to the faults of those who possessed them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He despised the Canons and Rubric, swore by the Articles, and deemed himself consistent through the whole category—which in a way he might have been."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `with') in agreement or consistent or reliable; ; - fdr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being reproduced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She had a cultivated mind, and was, generally speaking, rational and consistent—but she had prejudices on the side of ancestry; she had a value for rank and consequence, which blinded her a little to the faults of those who possessed them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He despised the Canons and Rubric, swore by the Articles, and deemed himself consistent through the whole category—which in a way he might have been."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*

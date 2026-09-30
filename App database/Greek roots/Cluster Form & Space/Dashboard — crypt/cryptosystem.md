@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptosystem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method for encoding and decoding messages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method for encoding and decoding messages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptosystem designates a method for encoding and decoding messages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method for encoding and decoding messages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method for encoding and decoding messages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptosystem designates a method for encoding and decoding messages."*

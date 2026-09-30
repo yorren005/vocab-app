@@ -5,19 +5,6 @@ status: unread
 ---
 # scarp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Line of cliffs produced by faulting or erosion
-> 2. **Nuance / Usage**: The steep artificial slope below a fort's parapet
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the scarp withstood the storm*), direct object (*cleaved the scarp*), or prepositional anchor (*amidst the scarp*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Matthew Carter (*Honor Redivivus: Or, The Analysis of Honor and Armory*):** *"[...] as in the seventh, which is Argent a Scarp Azure."*
-> - 📜 **John Guillim (*A Display of Heraldry*):** *"He beareth Argent, a Scarp, Azure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,16 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Line of cliffs produced by faulting or erosion
+> 2. **Nuance / Usage**: The steep artificial slope below a fort's parapet
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the scarp withstood the storm*), direct object (*cleaved the scarp*), or prepositional anchor (*amidst the scarp*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Matthew Carter (*Honor Redivivus: Or, The Analysis of Honor and Armory*):** *"[...] as in the seventh, which is Argent a Scarp Azure."*
+> - 📜 **John Guillim (*A Display of Heraldry*):** *"He beareth Argent, a Scarp, Azure."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # replica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Copy that is not the original; something that has been copied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copy that is not the original; something that has been copied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Everything, in fact, was done to make the place as perfect a replica as possible of actual underground workings."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"These are invariably dressed as exact replicas of their parents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Copy that is not the original; something that has been copied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copy that is not the original; something that has been copied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Everything, in fact, was done to make the place as perfect a replica as possible of actual underground workings."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"These are invariably dressed as exact replicas of their parents."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # navy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of military vessels belonging to a country and available for sea warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark shade of blue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our force by land Hath nobly held; our severed navy too Have knit again, and fleet, threat’ning most sea-like."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of military vessels belonging to a country and available for sea warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark shade of blue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our force by land Hath nobly held; our severed navy too Have knit again, and fleet, threat’ning most sea-like."*

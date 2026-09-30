@@ -5,15 +5,6 @@ status: unread
 ---
 # classified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short ad in a newspaper or magazine (usually in small print) and appearing along with other ads of the same type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And, discarding the traditional division of the Evidences into Internal and External, he classified them according to their relation to the different Attributes of God, as manifesting His Power, Knowledge, Wisdom, Holiness, and Benignity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the United States there were in 1913 about 26,000 banks reported.[1] These may be classified first according to the source from which they derive their charters or authority to do a banking business as: national, state, and private."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of the land in farms, a little over half is classified as improved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short ad in a newspaper or magazine (usually in small print) and appearing along with other ads of the same type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"And, discarding the traditional division of the Evidences into Internal and External, he classified them according to their relation to the different Attributes of God, as manifesting His Power, Knowledge, Wisdom, Holiness, and Benignity."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the United States there were in 1913 about 26,000 banks reported.[1] These may be classified first according to the source from which they derive their charters or authority to do a banking business as: national, state, and private."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of the land in farms, a little over half is classified as improved."*

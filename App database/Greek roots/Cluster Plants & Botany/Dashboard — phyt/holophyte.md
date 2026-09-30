@@ -5,13 +5,6 @@ status: unread
 ---
 # holophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that produces its own food by photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that produces its own food by photosynthesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holophyte designates an organism that produces its own food by photosynthesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that produces its own food by photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that produces its own food by photosynthesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holophyte designates an organism that produces its own food by photosynthesis."*

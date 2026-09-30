@@ -5,15 +5,6 @@ status: unread
 ---
 # visitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who visits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who visits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The visitor will not give him o’er so."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was very much astonished that her visitor should have already heard what had taken place the night before, as she knew that her sons would not speak of it of their own free will."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli, please join the other children and stay there till I come," the mother interrupted herself, turning to the little girl, whose eyes had been expectantly glued on the visitor's face in the hope of hearing if the two boys were still locked up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who visits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who visits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The visitor will not give him o’er so."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was very much astonished that her visitor should have already heard what had taken place the night before, as she knew that her sons would not speak of it of their own free will."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli, please join the other children and stay there till I come," the mother interrupted herself, turning to the little girl, whose eyes had been expectantly glued on the visitor's face in the hope of hearing if the two boys were still locked up."*

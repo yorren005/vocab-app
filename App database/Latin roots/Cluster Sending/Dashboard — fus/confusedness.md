@@ -5,13 +5,6 @@ status: unread
 ---
 # confusedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental state characterized by a lack of clear and orderly thought and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state characterized by a lack of clear and orderly thought and behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"An eddying murmur filled my ears, and a strange, dumb confusedness descended on my mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental state characterized by a lack of clear and orderly thought and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state characterized by a lack of clear and orderly thought and behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"An eddying murmur filled my ears, and a strange, dumb confusedness descended on my mind."*

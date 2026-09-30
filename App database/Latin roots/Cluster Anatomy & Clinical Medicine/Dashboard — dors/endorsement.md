@@ -5,15 +5,6 @@ status: unread
 ---
 # endorsement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A promotional statement (as found on the dust jackets of books).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech seconding a motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bank notes pass without endorsement and thus depend on the credit of the bank alone, not, like checks, on the credit of the person, from whom received."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Each of the managers was furnished with a copy of the rules, which, with the endorsement of the branch office with which the service was connected, constituted the commission of the manager."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I have done myself the honour of counting you one trusting friend, and such endorsement is dear to me.” He held out a hand, which Quincey took."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A promotional statement (as found on the dust jackets of books).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech seconding a motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bank notes pass without endorsement and thus depend on the credit of the bank alone, not, like checks, on the credit of the person, from whom received."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Each of the managers was furnished with a copy of the rules, which, with the endorsement of the branch office with which the service was connected, constituted the commission of the manager."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I have done myself the honour of counting you one trusting friend, and such endorsement is dear to me.” He held out a hand, which Quincey took."*

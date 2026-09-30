@@ -5,15 +5,6 @@ status: unread
 ---
 # append
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add to the very end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix to; attach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The extracts which we append describe better the closing scenes of her life than we can."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I will go back to the paper on Machiavelli now, and ask the reader to examine this passage from it which I append."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We also append as full and fair a statement of Confederate taxes as can be procured, beginning with a summary of the act authorizing the issue of Treasury notes and bonds, and providing a war tax for their redemption: THE TAX ACT OF JULY, 1861."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add to the very end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix to; attach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The extracts which we append describe better the closing scenes of her life than we can."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I will go back to the paper on Machiavelli now, and ask the reader to examine this passage from it which I append."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We also append as full and fair a statement of Confederate taxes as can be procured, beginning with a summary of the act authorizing the issue of Treasury notes and bonds, and providing a war tax for their redemption: THE TAX ACT OF JULY, 1861."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heuristic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods; also : of or relating to exploratory problem-solving techniques that utilize self-educating techniques (such as the evaluation of feedback) to improve performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heuristic method or procedure : a process or procedure that involves learning, discovery, or problem-solving by experimental and especially trial-and-error methods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heuristic designates involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods; also : of or relating to exploratory problem-solving techniques that utilize self-educating techniques (such as the evaluation of feedback) to improve performance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods; also : of or relating to exploratory problem-solving techniques that utilize self-educating techniques (such as the evaluation of feedback) to improve performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heuristic method or procedure : a process or procedure that involves learning, discovery, or problem-solving by experimental and especially trial-and-error methods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heuristic designates involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods; also : of or relating to exploratory problem-solving techniques that utilize self-educating techniques (such as the evaluation of feedback) to improve performance."*

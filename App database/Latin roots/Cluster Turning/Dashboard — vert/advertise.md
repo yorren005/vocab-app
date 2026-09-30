@@ -5,15 +5,6 @@ status: unread
 ---
 # advertise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call attention to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I do bend my speech To one that can my part in him advertise."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mr Shepherd had once mentioned the word “advertise,” but never dared approach it again."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Upon the whole, the door seemed to advertise itself as a species of Traitor’s Gate translated to another sphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call attention to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I do bend my speech To one that can my part in him advertise."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Mr Shepherd had once mentioned the word “advertise,” but never dared approach it again."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Upon the whole, the door seemed to advertise itself as a species of Traitor’s Gate translated to another sphere."*

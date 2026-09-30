@@ -5,15 +5,6 @@ status: unread
 ---
 # admit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare to be true or admit the existence or reality or truth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to enter; grant entry to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Admit him, sir. [_Exit Servant._] ENOBARBUS. [_Aside_.] Mine honesty and I begin to square."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Volsces re-enter and are driven back to the gates of Corioles, which open to admit them._] So, now the gates are ope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare to be true or admit the existence or reality or truth of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to enter; grant entry to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Admit him, sir. [_Exit Servant._] ENOBARBUS. [_Aside_.] Mine honesty and I begin to square."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Volsces re-enter and are driven back to the gates of Corioles, which open to admit them._] So, now the gates are ope."*

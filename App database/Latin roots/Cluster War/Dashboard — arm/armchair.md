@@ -5,15 +5,6 @@ status: unread
 ---
 # armchair
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chair with a support on each side for arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chair with a support on each side for arms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Gradually the whole knot moved into the house and towards the uncle's armchair."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In a sitting-room on the ground-floor, ensconced in an armchair with her back to the light, was the owner and mistress of the estate, a white-haired woman of not more than sixty, or even less, wearing a large cap."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"After he was gone, the mother threw herself into the armchair, and began to weep bitterly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chair with a support on each side for arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chair with a support on each side for arms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Gradually the whole knot moved into the house and towards the uncle's armchair."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In a sitting-room on the ground-floor, ensconced in an armchair with her back to the light, was the owner and mistress of the estate, a white-haired woman of not more than sixty, or even less, wearing a large cap."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"After he was gone, the mother threw herself into the armchair, and began to weep bitterly."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amicability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disinclination to quarrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a disposition characterized by warmth and friendliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Promptly, inexplicably, with amicability, gratefully it was declined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disinclination to quarrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a disposition characterized by warmth and friendliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Promptly, inexplicably, with amicability, gratefully it was declined."*

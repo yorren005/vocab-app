@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrocolloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that forms a gel with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that forms a gel with water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocolloid designates a substance that forms a gel with water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that forms a gel with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that forms a gel with water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocolloid designates a substance that forms a gel with water."*

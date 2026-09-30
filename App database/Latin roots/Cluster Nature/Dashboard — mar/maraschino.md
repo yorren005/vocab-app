@@ -5,15 +5,6 @@ status: unread
 ---
 # maraschino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distilled from fermented juice of bitter wild marasca cherries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cherry preserved in true or imitation maraschino liqueur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"They pined in depth of ocean shadow, gold by the beerpull, bronze by maraschino, thoughtful all two."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The black slave was given to Bedwin Sands by an Egyptian pasha in exchange for three dozen of Maraschino."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Raggles, to whom she was administering Maraschino."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distilled from fermented juice of bitter wild marasca cherries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cherry preserved in true or imitation maraschino liqueur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"They pined in depth of ocean shadow, gold by the beerpull, bronze by maraschino, thoughtful all two."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The black slave was given to Bedwin Sands by an Egyptian pasha in exchange for three dozen of Maraschino."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Raggles, to whom she was administering Maraschino."*

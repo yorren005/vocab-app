@@ -5,15 +5,6 @@ status: unread
 ---
 # retrograde
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move backward in an orbit, of celestial bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in a direction contrary to the usual one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was retrograde, I think rather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your intent In going back to school in Wittenberg, It is most retrograde to our desire: And we beseech you bend you to remain Here in the cheer and comfort of our eye, Our chiefest courtier, cousin, and our son."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But, contrary to my expectations, the _Nautilus_ took a decided retrograde motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move backward in an orbit, of celestial bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in a direction contrary to the usual one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was retrograde, I think rather."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your intent In going back to school in Wittenberg, It is most retrograde to our desire: And we beseech you bend you to remain Here in the cheer and comfort of our eye, Our chiefest courtier, cousin, and our son."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But, contrary to my expectations, the _Nautilus_ took a decided retrograde motion."*

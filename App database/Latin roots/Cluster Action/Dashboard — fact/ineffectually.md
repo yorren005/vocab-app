@@ -5,15 +5,6 @@ status: unread
 ---
 # ineffectually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ineffectual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ineffectual manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, a strong man’s hand, sometimes a strong man’s breast, was set against my mouth to deaden my cries, and with a hot breath always close to me, I struggled ineffectually in the dark, while I was fastened tight to the wall."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For, of course, each boat is supplied with several harpoons to bend on to the line should the first one be ineffectually darted without recovery."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A party of them caught sight of him as he fell, and sounding the alarm, had lifted him up; and after ineffectually endeavouring to restore him at the brook, had hurried forward with him to the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ineffectual manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ineffectual manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, a strong man’s hand, sometimes a strong man’s breast, was set against my mouth to deaden my cries, and with a hot breath always close to me, I struggled ineffectually in the dark, while I was fastened tight to the wall."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For, of course, each boat is supplied with several harpoons to bend on to the line should the first one be ineffectually darted without recovery."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A party of them caught sight of him as he fell, and sounding the alarm, had lifted him up; and after ineffectually endeavouring to restore him at the brook, had hurried forward with him to the house."*

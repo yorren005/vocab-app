@@ -5,15 +5,6 @@ status: unread
 ---
 # staid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by dignity and propriety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by dignity and propriety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She should have staid in France, and starved in France, Before— CARDINAL."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my liege, that I have staid so long."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But when they set out for the prison where the trooper is confined, the old lady has managed to draw about her, with her lavender-coloured dress, much of the staid calmness which is its usual accompaniment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by dignity and propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by dignity and propriety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She should have staid in France, and starved in France, Before— CARDINAL."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my liege, that I have staid so long."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But when they set out for the prison where the trooper is confined, the old lady has managed to draw about her, with her lavender-coloured dress, much of the staid calmness which is its usual accompaniment."*

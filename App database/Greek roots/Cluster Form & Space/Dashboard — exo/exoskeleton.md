@@ -5,13 +5,6 @@ status: unread
 ---
 # exoskeleton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external supportive covering of an animal (such as an arthropod).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bony or horny parts of a vertebrate produced from epidermal tissues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoskeleton designates an external supportive covering of an animal (such as an arthropod)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external supportive covering of an animal (such as an arthropod).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bony or horny parts of a vertebrate produced from epidermal tissues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoskeleton designates an external supportive covering of an animal (such as an arthropod)."*

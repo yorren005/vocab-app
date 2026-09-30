@@ -5,13 +5,6 @@ status: unread
 ---
 # colitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonspecific inflammatory disease of the colon of unknown cause characterized by diarrhea with discharge of mucus and blood, cramping abdominal pain, and inflammation and edema of the mucous membrane with patches of ulceration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colitis designates inflammation of the colon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonspecific inflammatory disease of the colon of unknown cause characterized by diarrhea with discharge of mucus and blood, cramping abdominal pain, and inflammation and edema of the mucous membrane with patches of ulceration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colitis designates inflammation of the colon."*

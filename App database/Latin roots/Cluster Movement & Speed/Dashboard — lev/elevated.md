@@ -5,15 +5,6 @@ status: unread
 ---
 # elevated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A railway that is powered by electricity and that runs on a track that is raised above the street level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a promotion to or assign to a higher position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She had one eye declined for the loss of her husband, another elevated that the oracle was fulfilled."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There the young gentleman improved his mind, which was of a lean and anxious character, and developing the family gifts, gradually elevated himself into the discounting profession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Especially in your elevated station of society, miss,” says Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A railway that is powered by electricity and that runs on a track that is raised above the street level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a promotion to or assign to a higher position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She had one eye declined for the loss of her husband, another elevated that the oracle was fulfilled."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There the young gentleman improved his mind, which was of a lean and anxious character, and developing the family gifts, gradually elevated himself into the discounting profession."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Especially in your elevated station of society, miss,” says Mr."*

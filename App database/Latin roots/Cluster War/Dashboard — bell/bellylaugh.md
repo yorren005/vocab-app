@@ -5,13 +5,6 @@ status: unread
 ---
 # bellylaugh
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laugh a deep, hearty laugh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laugh a deep, hearty laugh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellylaugh designates laugh a deep, hearty laugh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Laugh a deep, hearty laugh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laugh a deep, hearty laugh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellylaugh designates laugh a deep, hearty laugh."*

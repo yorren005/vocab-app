@@ -5,13 +5,6 @@ status: unread
 ---
 # genocide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate and systematic destruction of a racial, political, or cultural group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deliberate and systematic destruction of a racial, political, or cultural group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"That would be genocide, the one thing that every race fears more than anything else."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate and systematic destruction of a racial, political, or cultural group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deliberate and systematic destruction of a racial, political, or cultural group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"That would be genocide, the one thing that every race fears more than anything else."*

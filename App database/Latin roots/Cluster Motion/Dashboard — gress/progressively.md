@@ -5,15 +5,6 @@ status: unread
 ---
 # progressively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancing in amount or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancing in amount or intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Paul of Tarsus progressively found more in Christ, expected more of him, trusted him more; and his faith was justified."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I would rather have an inferior degree of beauty, of my own choice, and acquired progressively."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians fell into adultery and apostasy, and while at first this meant "delivery to Satan," restoration became progressively easy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancing in amount or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancing in amount or intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Paul of Tarsus progressively found more in Christ, expected more of him, trusted him more; and his faith was justified."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I would rather have an inferior degree of beauty, of my own choice, and acquired progressively."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians fell into adultery and apostasy, and while at first this meant "delivery to Satan," restoration became progressively easy."*

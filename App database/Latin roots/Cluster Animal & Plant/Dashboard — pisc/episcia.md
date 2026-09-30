@@ -5,13 +5,6 @@ status: unread
 ---
 # episcia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcia designates any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcia designates any plant of the genus episcia; usually creeping and stoloniferous and of cascading habit; grown for their colorful foliage and flowers."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # redbelly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater turtle of chesapeake bay tributaries having red markings on the lower shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater turtle of chesapeake bay tributaries having red markings on the lower shell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redbelly designates freshwater turtle of chesapeake bay tributaries having red markings on the lower shell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater turtle of chesapeake bay tributaries having red markings on the lower shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater turtle of chesapeake bay tributaries having red markings on the lower shell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redbelly designates freshwater turtle of chesapeake bay tributaries having red markings on the lower shell."*

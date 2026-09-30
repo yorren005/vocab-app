@@ -5,13 +5,6 @@ status: unread
 ---
 # calorimeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for measuring quantities of absorbed or emitted heat or for determining specific heats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring quantities of absorbed or emitted heat or for determining specific heats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorimeter designates an apparatus for measuring quantities of absorbed or emitted heat or for determining specific heats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for measuring quantities of absorbed or emitted heat or for determining specific heats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring quantities of absorbed or emitted heat or for determining specific heats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorimeter designates an apparatus for measuring quantities of absorbed or emitted heat or for determining specific heats."*

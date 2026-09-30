@@ -5,13 +5,6 @@ status: unread
 ---
 # epacris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epacris designates any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epacris designates any heathlike evergreen shrub of the genus epacris grown for their showy and crowded spikes of small bell-shaped or tubular flowers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # revive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to regain consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry is dead and never shall revive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks I should revive the soldiers’ hearts, Because I ever found them as myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Clifford, how thy words revive my heart!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to regain consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry is dead and never shall revive."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks I should revive the soldiers’ hearts, Because I ever found them as myself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Clifford, how thy words revive my heart!"*

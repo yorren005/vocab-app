@@ -5,15 +5,6 @@ status: unread
 ---
 # ineligible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not eligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prohibited by official rules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the first view, appeals to the people at fixed periods appear to be nearly as ineligible as appeals on particular occasions as they emerge."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the Congress are rendered ineligible to any civil offices that may be created, or of which the emoluments may be increased, during the term of their election."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not eligible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prohibited by official rules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the first view, appeals to the people at fixed periods appear to be nearly as ineligible as appeals on particular occasions as they emerge."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the Congress are rendered ineligible to any civil offices that may be created, or of which the emoluments may be increased, during the term of their election."*

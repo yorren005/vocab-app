@@ -5,15 +5,6 @@ status: unread
 ---
 # disport
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupy in an agreeable, entertaining or pleasant fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Play boisterously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands the case: you know our King, my brother, Is prisoner to the Bishop here, at whose hands He hath good usage and great liberty, And often but attended with weak guard, Comes hunting this way to disport himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We make ourselves fools to disport ourselves, And spend our flatteries to drink those men Upon whose age we void it up again With poisonous spite and envy."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"At the present moment for example I'm undergoing grinding torments and it doesn't amuse me to make conversation, so you two can cut along and disport yourselves in any way you like."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupy in an agreeable, entertaining or pleasant fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Play boisterously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands the case: you know our King, my brother, Is prisoner to the Bishop here, at whose hands He hath good usage and great liberty, And often but attended with weak guard, Comes hunting this way to disport himself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We make ourselves fools to disport ourselves, And spend our flatteries to drink those men Upon whose age we void it up again With poisonous spite and envy."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"At the present moment for example I'm undergoing grinding torments and it doesn't amuse me to make conversation, so you two can cut along and disport yourselves in any way you like."*

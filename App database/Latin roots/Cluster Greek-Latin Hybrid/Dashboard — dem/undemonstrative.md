@@ -5,15 +5,6 @@ status: unread
 ---
 # undemonstrative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not given to open expression of emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given to open expression of emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You _shall_,” repeated Mary, in the tone of undemonstrative sincerity which seemed natural to her."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She commanded respect, for she was lady-like and well educated; so quiet and undemonstrative, that her presence was hardly noticed, except by the smiling faces of the wounded as she passed."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She was oddly undemonstrative, and for all her charm had a manner which made it impossible to approach one step nearer than she herself decreed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not given to open expression of emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given to open expression of emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You _shall_,” repeated Mary, in the tone of undemonstrative sincerity which seemed natural to her."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She commanded respect, for she was lady-like and well educated; so quiet and undemonstrative, that her presence was hardly noticed, except by the smiling faces of the wounded as she passed."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She was oddly undemonstrative, and for all her charm had a manner which made it impossible to approach one step nearer than she herself decreed."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # querulousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being given to complaining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being given to complaining.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then we'll be saying a prayer for her who's gone--" "Dead she is, the poor heart, dead she is, and better off nor I am--" Her high querulousness died away as she went into the house, and again was the silence of the riding moon."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Princess Mary well knew this mood of quiet absorbed querulousness, which generally culminated in a burst of rage, and she went about all that morning as though facing a cocked and loaded gun and awaited the inevitable explosion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being given to complaining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being given to complaining.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then we'll be saying a prayer for her who's gone--" "Dead she is, the poor heart, dead she is, and better off nor I am--" Her high querulousness died away as she went into the house, and again was the silence of the riding moon."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Princess Mary well knew this mood of quiet absorbed querulousness, which generally culminated in a burst of rage, and she went about all that morning as though facing a cocked and loaded gun and awaited the inevitable explosion."*

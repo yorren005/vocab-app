@@ -5,15 +5,6 @@ status: unread
 ---
 # ebon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ebony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ebony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rouse up revenge from ebon den with fell Alecto’s snake, For Doll is in."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love’s golden arrow at him should have fled, And not death’s ebon dart to strike him dead. 948 “Dost thou drink tears, that thou provok’st such weeping?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: ebony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ebony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rouse up revenge from ebon den with fell Alecto’s snake, For Doll is in."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love’s golden arrow at him should have fled, And not death’s ebon dart to strike him dead. 948 “Dost thou drink tears, that thou provok’st such weeping?"*

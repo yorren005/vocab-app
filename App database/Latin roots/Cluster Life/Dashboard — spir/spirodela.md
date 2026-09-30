@@ -5,13 +5,6 @@ status: unread
 ---
 # spirodela
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute aquatic herbs floating on the water surface consisting of a shiny leaflike frond and 2-21 roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute aquatic herbs floating on the water surface consisting of a shiny leaflike frond and 2-21 roots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirodela designates minute aquatic herbs floating on the water surface consisting of a shiny leaflike frond and 2-21 roots."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute aquatic herbs floating on the water surface consisting of a shiny leaflike frond and 2-21 roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute aquatic herbs floating on the water surface consisting of a shiny leaflike frond and 2-21 roots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirodela designates minute aquatic herbs floating on the water surface consisting of a shiny leaflike frond and 2-21 roots."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inspiriting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infuse with spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheerfully encouraging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now that’s delightful, that’s inspiriting, that’s full of poetry!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her influence, we were told, was inspiriting to all on board."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"This is not an inspiriting close to a dull day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infuse with spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheerfully encouraging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now that’s delightful, that’s inspiriting, that’s full of poetry!"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her influence, we were told, was inspiriting to all on board."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"This is not an inspiriting close to a dull day."*

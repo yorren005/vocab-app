@@ -5,13 +5,6 @@ status: unread
 ---
 # deodorise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eliminate the odor from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate the odor from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This deodorises and purifies the sewage, in addition to which iron salts are formed on the iron plates, the effect of which is to precipitate the solid particles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eliminate the odor from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate the odor from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This deodorises and purifies the sewage, in addition to which iron salts are formed on the iron plates, the effect of which is to precipitate the solid particles."*

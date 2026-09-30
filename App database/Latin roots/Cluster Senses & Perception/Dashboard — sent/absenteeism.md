@@ -5,13 +5,6 @@ status: unread
 ---
 # absenteeism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual absence from work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual absence from work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"I disapprove of absenteeism; and now the land's mine, why, I must put up with it, I suppose, and live upon it in spite of myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual absence from work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual absence from work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"I disapprove of absenteeism; and now the land's mine, why, I must put up with it, I suppose, and live upon it in spite of myself."*

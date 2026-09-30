@@ -5,13 +5,6 @@ status: unread
 ---
 # pacifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tries to bring peace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything that serves to pacify.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacifier designates someone who tries to bring peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tries to bring peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything that serves to pacify.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacifier designates someone who tries to bring peace."*

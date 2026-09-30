@@ -5,15 +5,6 @@ status: unread
 ---
 # rubber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elastic material obtained from the latex sap of trees (especially trees of the genera hevea and ficus) that can be vulcanized and finished into a variety of products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various synthetic elastic materials whose properties resemble natural rubber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The writer also speaks of a rubber shoe being lost and promptly found after mention in prayer."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever seen canvas tarpaulins or rubber blankets with brass eyelets set in along the edges?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organization was very weak (less than 1 per cent) among the workers in a group of industries occupying nearly one-half of all workers, including agriculture, the hand trades, oil and natural gas, salt, and rubber factories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elastic material obtained from the latex sap of trees (especially trees of the genera hevea and ficus) that can be vulcanized and finished into a variety of products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various synthetic elastic materials whose properties resemble natural rubber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The writer also speaks of a rubber shoe being lost and promptly found after mention in prayer."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever seen canvas tarpaulins or rubber blankets with brass eyelets set in along the edges?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organization was very weak (less than 1 per cent) among the workers in a group of industries occupying nearly one-half of all workers, including agriculture, the hand trades, oil and natural gas, salt, and rubber factories."*

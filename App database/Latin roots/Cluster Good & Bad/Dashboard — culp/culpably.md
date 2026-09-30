@@ -5,15 +5,6 @@ status: unread
 ---
 # culpably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to a degree deserving blame or censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner or to a degree deserving blame or censure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Sir Claude MacDonald, the British minister, who is an ex-major in the army, and should have instructed in this very important duty, was, equally with marine officers, culpably silent."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"He did it carelessly, no doubt; but not guiltily, culpably."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"If the lad swore, he wouldn’t correct him: nor however culpably he behaved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to a degree deserving blame or censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner or to a degree deserving blame or censure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Sir Claude MacDonald, the British minister, who is an ex-major in the army, and should have instructed in this very important duty, was, equally with marine officers, culpably silent."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"He did it carelessly, no doubt; but not guiltily, culpably."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"If the lad swore, he wouldn’t correct him: nor however culpably he behaved."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # myriapodology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Myriapodology is the scientific study of myriapods which includes centipedes and millipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The field of myriapodology can also cover other myriapods such as pauropods and symphylans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriapodology designates myriapodology is the scientific study of myriapods which includes centipedes and millipedes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Myriapodology is the scientific study of myriapods which includes centipedes and millipedes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The field of myriapodology can also cover other myriapods such as pauropods and symphylans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriapodology designates myriapodology is the scientific study of myriapods which includes centipedes and millipedes."*

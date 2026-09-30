@@ -5,13 +5,6 @@ status: unread
 ---
 # scoter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black diving duck of northern parts of the northern hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large black diving duck of northern parts of the northern hemisphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scoter designates large black diving duck of northern parts of the northern hemisphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black diving duck of northern parts of the northern hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large black diving duck of northern parts of the northern hemisphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scoter designates large black diving duck of northern parts of the northern hemisphere."*

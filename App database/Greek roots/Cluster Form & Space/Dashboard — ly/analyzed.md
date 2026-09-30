@@ -5,15 +5,6 @@ status: unread
 ---
 # analyzed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the records of the organizations of the country are analyzed it becomes almost necessary to accept that statement."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In the case of each author treated, the development of the peculiar phase of Weltschmerz characteristic of him has been traced, and analyzed with reference to its various modes of expression."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Was it not Plato, that artist in thought, who had first analyzed it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the records of the organizations of the country are analyzed it becomes almost necessary to accept that statement."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In the case of each author treated, the development of the peculiar phase of Weltschmerz characteristic of him has been traced, and analyzed with reference to its various modes of expression."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Was it not Plato, that artist in thought, who had first analyzed it?"*

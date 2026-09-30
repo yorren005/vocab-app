@@ -5,13 +5,6 @@ status: unread
 ---
 # novation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novation designates (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novation designates (law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party."*

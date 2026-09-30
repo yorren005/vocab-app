@@ -5,15 +5,6 @@ status: unread
 ---
 # castled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move the king two squares toward a rook and in the same move the rook to the square next past the king.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling repeated square indentations like those in a battlement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"And ever, till my heart has ceased to beat, though I should roam in foreign lands, along the castled Rhine, or beneath the sunny skies of classic Italy, Mount Washington will be to me the glory of the earth!"*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"The castled crag of Drachenfels Frowns o'er the wide and winding Rhine."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Michael's!"--under the crest of the rocky islet, castled and mured, flamboyant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move the king two squares toward a rook and in the same move the rook to the square next past the king.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling repeated square indentations like those in a battlement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"And ever, till my heart has ceased to beat, though I should roam in foreign lands, along the castled Rhine, or beneath the sunny skies of classic Italy, Mount Washington will be to me the glory of the earth!"*
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"The castled crag of Drachenfels Frowns o'er the wide and winding Rhine."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Michael's!"--under the crest of the rocky islet, castled and mured, flamboyant."*

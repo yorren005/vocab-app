@@ -5,13 +5,6 @@ status: unread
 ---
 # saprobe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that lives in and derives its nourishment from organic matter in stagnant or foul water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that lives in and derives its nourishment from organic matter in stagnant or foul water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprobe designates an organism that lives in and derives its nourishment from organic matter in stagnant or foul water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that lives in and derives its nourishment from organic matter in stagnant or foul water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that lives in and derives its nourishment from organic matter in stagnant or foul water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprobe designates an organism that lives in and derives its nourishment from organic matter in stagnant or foul water."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # technical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pickup truck with a gun mounted on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct; does not usually involve physical contact during play.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the dignity of the girl, the strange tenderness in her voice, combined to affect his nobler impulses—or rather those that he had left in him after ten years of endeavour to graft technical belief on actual scepticism."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Technical features of coinage. § 10."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This rhythmic movement as it appears in the capitalization of enterprises is favored and magnified, we have seen, by the wide use of credit and by the constantly changing technical and physical conditions of industry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pickup truck with a gun mounted on it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct; does not usually involve physical contact during play.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the dignity of the girl, the strange tenderness in her voice, combined to affect his nobler impulses—or rather those that he had left in him after ten years of endeavour to graft technical belief on actual scepticism."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Technical features of coinage. § 10."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This rhythmic movement as it appears in the capitalization of enterprises is favored and magnified, we have seen, by the wide use of credit and by the constantly changing technical and physical conditions of industry."*

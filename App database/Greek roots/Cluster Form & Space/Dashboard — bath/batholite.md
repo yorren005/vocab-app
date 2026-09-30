@@ -5,13 +5,6 @@ status: unread
 ---
 # batholite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholite designates large mass of intrusive igneous rock believed to have solidified deep within the earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholite designates large mass of intrusive igneous rock believed to have solidified deep within the earth."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # immobilizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of limiting movement or making incapable of movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold as reserve or withdraw from circulation; of capital.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko hit a switch, and the utility beam-anchor connected to a triangular plate above the airlock, immobilizing and fixing the utility to the huge transporter's axis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of limiting movement or making incapable of movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold as reserve or withdraw from circulation; of capital.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko hit a switch, and the utility beam-anchor connected to a triangular plate above the airlock, immobilizing and fixing the utility to the huge transporter's axis."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # impenetrable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not admitting of penetration or passage into or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permitting little if any light to pass through because of denseness of matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the most impenetrable cur That ever kept with men."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever can have induced that transcendent woman to marry that effigy and figure-head of a baronet is one of the most impenetrable mysteries that ever baffled human inquiry."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The darkness was now impenetrable by the sharpest vision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not admitting of penetration or passage into or through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permitting little if any light to pass through because of denseness of matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the most impenetrable cur That ever kept with men."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever can have induced that transcendent woman to marry that effigy and figure-head of a baronet is one of the most impenetrable mysteries that ever baffled human inquiry."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The darkness was now impenetrable by the sharpest vision."*

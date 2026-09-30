@@ -5,15 +5,6 @@ status: unread
 ---
 # histrionic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of acting or a stage performance; often affected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of acting or a stage performance; often affected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Once it had seemed to him unnecessarily histrionic, but now he knew it was merciful...."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by he says: “But the histrionic muse is the darling."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Don’t ever tell _me_ any more that a nigger ain’t got any histrionic talent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of acting or a stage performance; often affected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of acting or a stage performance; often affected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Once it had seemed to him unnecessarily histrionic, but now he knew it was merciful...."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by he says: “But the histrionic muse is the darling."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Don’t ever tell _me_ any more that a nigger ain’t got any histrionic talent."*

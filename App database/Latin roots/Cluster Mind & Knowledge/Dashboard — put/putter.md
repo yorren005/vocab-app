@@ -5,15 +5,6 @@ status: unread
 ---
 # putter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A golfer who is putting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The iron normally used on the putting green.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seese is not good to give putter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that there were such men Whose heads stood in their breasts? which now we find Each putter-out of five for one will bring us Good warrant of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is for you we speak, not for ourselves: You are abus’d, and by some putter-on That will be damn’d for’t: would I knew the villain, I would land-damn him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A golfer who is putting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The iron normally used on the putting green.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seese is not good to give putter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that there were such men Whose heads stood in their breasts? which now we find Each putter-out of five for one will bring us Good warrant of."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is for you we speak, not for ourselves: You are abus’d, and by some putter-on That will be damn’d for’t: would I knew the villain, I would land-damn him."*

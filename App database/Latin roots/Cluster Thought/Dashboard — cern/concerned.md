@@ -5,15 +5,6 @@ status: unread
 ---
 # concerned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be relevant to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on the mind of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must be laughed at If, or for nothing or a little, I Should say myself offended, and with you Chiefly i’ th’ world; more laughed at that I should Once name you derogately when to sound your name It not concerned me."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is not right to starve a guest on his first visit; he might never come again." "Oh, I certainly shall, Mr.--," here Salo hesitated, "I do not remember the name," he added, quite concerned."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next week you can stay home and spend all your time with Leonore." Mea was very glad to hear it, but without uttering a word she ran away, for everything that concerned Leonore brought tears to her eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be relevant to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on the mind of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must be laughed at If, or for nothing or a little, I Should say myself offended, and with you Chiefly i’ th’ world; more laughed at that I should Once name you derogately when to sound your name It not concerned me."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is not right to starve a guest on his first visit; he might never come again." "Oh, I certainly shall, Mr.--," here Salo hesitated, "I do not remember the name," he added, quite concerned."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next week you can stay home and spend all your time with Leonore." Mea was very glad to hear it, but without uttering a word she ran away, for everything that concerned Leonore brought tears to her eyes."*

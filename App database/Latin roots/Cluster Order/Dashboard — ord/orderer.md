@@ -5,13 +5,6 @@ status: unread
 ---
 # orderer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who places an order to buy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orderer designates someone who places an order to buy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who places an order to buy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orderer designates someone who places an order to buy."*

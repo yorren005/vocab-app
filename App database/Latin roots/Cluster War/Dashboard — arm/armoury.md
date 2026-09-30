@@ -5,15 +5,6 @@ status: unread
 ---
 # armoury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the weapons and equipment that a country has.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go with me into mine armoury."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the surrounding cottages were more or less scenes of the same operation; the scurr of whetting spread into the sky from all parts of the village as from an armoury previous to a campaign."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This then, said I to Toby, must be the armoury of the tribe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the weapons and equipment that a country has.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go with me into mine armoury."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the surrounding cottages were more or less scenes of the same operation; the scurr of whetting spread into the sky from all parts of the village as from an armoury previous to a campaign."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This then, said I to Toby, must be the armoury of the tribe."*

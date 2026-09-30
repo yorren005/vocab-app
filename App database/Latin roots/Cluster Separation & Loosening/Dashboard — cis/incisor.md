@@ -5,13 +5,6 @@ status: unread
 ---
 # incisor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tooth for cutting or gnawing; located in the front of the mouth in both jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tooth for cutting or gnawing; located in the front of the mouth in both jaws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Another woman at 247:6 ninety had new teeth, incisors, cuspids, bi- cuspids, and one molar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tooth for cutting or gnawing; located in the front of the mouth in both jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tooth for cutting or gnawing; located in the front of the mouth in both jaws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Another woman at 247:6 ninety had new teeth, incisors, cuspids, bi- cuspids, and one molar."*

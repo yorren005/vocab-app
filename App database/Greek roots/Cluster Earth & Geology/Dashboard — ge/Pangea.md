@@ -5,13 +5,6 @@ status: unread
 ---
 # Pangea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient supercontinent that included almost all of the Earth's land area and was formed by the collision of Gondwana and Laurasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient supercontinent that included almost all of the Earth's land area and was formed by the collision of Gondwana and Laurasia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Pangea designates ancient supercontinent that included almost all of the earth's land area and was formed by the collision of gondwana and laurasia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient supercontinent that included almost all of the Earth's land area and was formed by the collision of Gondwana and Laurasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient supercontinent that included almost all of the Earth's land area and was formed by the collision of Gondwana and Laurasia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Pangea designates ancient supercontinent that included almost all of the earth's land area and was formed by the collision of gondwana and laurasia."*

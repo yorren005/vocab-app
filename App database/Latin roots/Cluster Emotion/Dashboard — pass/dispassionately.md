@@ -5,15 +5,6 @@ status: unread
 ---
 # dispassionately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impartially dispassionate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impartially dispassionate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"What! seeing the old man?” said the auctioneer, playing with his seals dispassionately."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's personal character and influence, and it is hardly possible for those who are mourning him as a friend to speak of these dispassionately."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett dispassionately asked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impartially dispassionate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impartially dispassionate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"What! seeing the old man?” said the auctioneer, playing with his seals dispassionately."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's personal character and influence, and it is hardly possible for those who are mourning him as a friend to speak of these dispassionately."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett dispassionately asked."*

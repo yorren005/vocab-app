@@ -5,13 +5,6 @@ status: unread
 ---
 # preciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something with a great price or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive quality of being precious and beyond value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"And I understand the reality & preciousness of that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something with a great price or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive quality of being precious and beyond value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"And I understand the reality & preciousness of that."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # arbitrager
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrager designates someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrager designates someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential)."*

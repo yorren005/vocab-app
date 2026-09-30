@@ -5,15 +5,6 @@ status: unread
 ---
 # sceptred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with legal power or official authority especially as symbolized by having a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invested with legal power or official authority especially as symbolized by having a scepter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"All womankind shall merit A just regard from me, And all the sex inherit A claim to courtesy; But none has ever claimed me Her vassal, slave or thrall, For Kate, my heart has named thee The sceptred Queen of all."*
-> - 📜 **John Milton (*Paradise Lost*):** *"His hand was known In Heaven by many a towered structure high, Where sceptred Angels held their residence, And sat as Princes, whom the supreme King Exalted to such power, and gave to rule, Each in his Hierarchy, the Orders bright."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Who can advise may speak.” He ceased; and next him Moloch, sceptred king, Stood up—the strongest and the fiercest Spirit That fought in Heaven, now fiercer by despair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with legal power or official authority especially as symbolized by having a scepter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invested with legal power or official authority especially as symbolized by having a scepter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"All womankind shall merit A just regard from me, And all the sex inherit A claim to courtesy; But none has ever claimed me Her vassal, slave or thrall, For Kate, my heart has named thee The sceptred Queen of all."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His hand was known In Heaven by many a towered structure high, Where sceptred Angels held their residence, And sat as Princes, whom the supreme King Exalted to such power, and gave to rule, Each in his Hierarchy, the Orders bright."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Who can advise may speak.” He ceased; and next him Moloch, sceptred king, Stood up—the strongest and the fiercest Spirit That fought in Heaven, now fiercer by despair."*

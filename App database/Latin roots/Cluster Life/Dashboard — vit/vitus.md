@@ -5,15 +5,6 @@ status: unread
 ---
 # vitus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Christian martyr and patron of those who suffer from epilepsy and sydenham's chorea (died around 300).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Christian martyr and patron of those who suffer from epilepsy and sydenham's chorea (died around 300).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Vitus’s dances, and fearful frenzies necessary when exhibiting its tones in their highest perfection."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Vitus's Day (the fifteenth of June) by igniting a cartwheel, which, smeared with pitch and plaited with straw, was fastened on a pole twelve feet high, the top of the pole being inserted in the nave of the wheel."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Not a limb, not a fibre about him was idle; and to have seen his loosely hung frame in full motion and clattering about the room you would have thought Saint Vitus himself, that blessed patron of the dance, was figuring before you in person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Christian martyr and patron of those who suffer from epilepsy and sydenham's chorea (died around 300).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Christian martyr and patron of those who suffer from epilepsy and sydenham's chorea (died around 300).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Vitus’s dances, and fearful frenzies necessary when exhibiting its tones in their highest perfection."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Vitus's Day (the fifteenth of June) by igniting a cartwheel, which, smeared with pitch and plaited with straw, was fastened on a pole twelve feet high, the top of the pole being inserted in the nave of the wheel."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Not a limb, not a fibre about him was idle; and to have seen his loosely hung frame in full motion and clattering about the room you would have thought Saint Vitus himself, that blessed patron of the dance, was figuring before you in person."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amygdaloidal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an almond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like an almond.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Lake Superior copper occurs in three formations:— (_a_) Vein deposits, from which the enormous masses of copper are taken out. (_b_) Copper-bearing ash beds, of amygdaloidal diabase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an almond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like an almond.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Lake Superior copper occurs in three formations:— (_a_) Vein deposits, from which the enormous masses of copper are taken out. (_b_) Copper-bearing ash beds, of amygdaloidal diabase."*

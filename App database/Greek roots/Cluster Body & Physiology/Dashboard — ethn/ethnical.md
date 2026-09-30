@@ -5,14 +5,6 @@ status: unread
 ---
 # ethnical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or deriving from or distinctive of the ways of living built up by a group of people; - j.f.kennedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting or deriving from or distinctive of the ways of living built up by a group of people; - j.f.kennedy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Berthold Laufer,[14] in discussing the jade ornaments of the Chou and Han periods, speaks of the "impersonal and ethnical character of the art of that age"--viz. the Chou."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It was," he continues, "general and communistic; it applied to everybody in the community in the same form; it did not spring up from an individual thought, but presented an ethnical element, a national type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or deriving from or distinctive of the ways of living built up by a group of people; - j.f.kennedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting or deriving from or distinctive of the ways of living built up by a group of people; - j.f.kennedy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Berthold Laufer,[14] in discussing the jade ornaments of the Chou and Han periods, speaks of the "impersonal and ethnical character of the art of that age"--viz. the Chou."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It was," he continues, "general and communistic; it applied to everybody in the community in the same form; it did not spring up from an individual thought, but presented an ethnical element, a national type."*

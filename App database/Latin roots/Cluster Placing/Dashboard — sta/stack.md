@@ -5,15 +5,6 @@ status: unread
 ---
 # stack
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orderly pile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I stood at the window with Ada, pretending to look at the housetops, and the blackened stack of chimneys, and the poor plants, and the birds in little cages belonging to the neighbours, when I found that Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hedge and ditch, and wall, and rick and stack, were examined by our men for a long distance round, lest the boy should be lying in such a place insensible or dead; but nothing was seen to indicate that he had ever been near."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He turned to an opening in the hedge, which he found to be a gate, and mounting thereon, he sat meditating whether to seek a cheap lodging in the village, or to ensure a cheaper one by lying under some hay or corn-stack."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orderly pile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I stood at the window with Ada, pretending to look at the housetops, and the blackened stack of chimneys, and the poor plants, and the birds in little cages belonging to the neighbours, when I found that Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Hedge and ditch, and wall, and rick and stack, were examined by our men for a long distance round, lest the boy should be lying in such a place insensible or dead; but nothing was seen to indicate that he had ever been near."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He turned to an opening in the hedge, which he found to be a gate, and mounting thereon, he sat meditating whether to seek a cheap lodging in the village, or to ensure a cheaper one by lying under some hay or corn-stack."*

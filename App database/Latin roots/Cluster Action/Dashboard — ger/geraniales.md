@@ -5,13 +5,6 @@ status: unread
 ---
 # geraniales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geraniales designates an order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geraniales designates an order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # legislate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make laws, bills, etc. or bring into effect by legislation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make laws, bills, etc. or bring into effect by legislation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Construe either of these articles by the rules which would justify the construction put on the new Constitution, and they vest in the existing Congress a power to legislate in all cases whatsoever."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No man can be a competent legislator who does not add to an upright intention and a sound judgment a certain degree of knowledge of the subjects on which he is to legislate."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The so-called laws of mortal belief are destroyed by the understanding that Soul is immortal, and that mortal mind cannot legislate the times, periods, 381:15 and types of disease, with which mortals die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make laws, bills, etc. or bring into effect by legislation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make laws, bills, etc. or bring into effect by legislation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Construe either of these articles by the rules which would justify the construction put on the new Constitution, and they vest in the existing Congress a power to legislate in all cases whatsoever."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No man can be a competent legislator who does not add to an upright intention and a sound judgment a certain degree of knowledge of the subjects on which he is to legislate."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The so-called laws of mortal belief are destroyed by the understanding that Soul is immortal, and that mortal mind cannot legislate the times, periods, 381:15 and types of disease, with which mortals die."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # addicted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause (someone or oneself) to become dependent (on something, especially a narcotic drug).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsively or physiologically dependent on something habit-forming.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was employed as book-keeper in a large mercantile house; but soon became addicted to drink, and the story is ever the same; loss of position, poverty, disgrace, suffering and recklessness."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Eight years ago I became addicted to strong drink."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He had a considerable independence besides two good livings—and he was not in the least addicted to locking up his daughters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause (someone or oneself) to become dependent (on something, especially a narcotic drug).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsively or physiologically dependent on something habit-forming.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He was employed as book-keeper in a large mercantile house; but soon became addicted to drink, and the story is ever the same; loss of position, poverty, disgrace, suffering and recklessness."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Eight years ago I became addicted to strong drink."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"He had a considerable independence besides two good livings—and he was not in the least addicted to locking up his daughters."*

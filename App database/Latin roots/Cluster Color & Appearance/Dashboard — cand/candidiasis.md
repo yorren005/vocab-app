@@ -5,13 +5,6 @@ status: unread
 ---
 # candidiasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection caused by fungi of the genus monilia or candida (especially candida albicans).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection caused by fungi of the genus monilia or candida (especially candida albicans).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candidiasis designates an infection caused by fungi of the genus monilia or candida (especially candida albicans)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection caused by fungi of the genus monilia or candida (especially candida albicans).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection caused by fungi of the genus monilia or candida (especially candida albicans).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candidiasis designates an infection caused by fungi of the genus monilia or candida (especially candida albicans)."*

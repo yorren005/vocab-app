@@ -5,15 +5,6 @@ status: unread
 ---
 # remonstrance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expressing earnest opposition or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expressing earnest opposition or protest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brother’s death, I know, sits at your heart, And you may marvel why I obscured myself, Labouring to save his life, and would not rather Make rash remonstrance of my hidden power Than let him so be lost."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"William Guppy, however, having got the advantage, cannot quite release it without a little more injured remonstrance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is not to be thought of.” There is a quiet decision in his reply which admits of no remonstrance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expressing earnest opposition or protest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expressing earnest opposition or protest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brother’s death, I know, sits at your heart, And you may marvel why I obscured myself, Labouring to save his life, and would not rather Make rash remonstrance of my hidden power Than let him so be lost."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"William Guppy, however, having got the advantage, cannot quite release it without a little more injured remonstrance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is not to be thought of.” There is a quiet decision in his reply which admits of no remonstrance."*

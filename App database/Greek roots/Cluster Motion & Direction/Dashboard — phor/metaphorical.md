@@ -5,15 +5,6 @@ status: unread
 ---
 # metaphorical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one thing in terms normally denoting another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing one thing in terms normally denoting another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We come still closer to the facts in the less metaphorical terms of the New Testament."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother must be of a metaphorical kind, which was much more difficult to Fred than the muscular."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Geology a failure The sun is a metaphorical representation of Soul out- side the body, giving existence and intelligence to the 510:18 universe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one thing in terms normally denoting another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing one thing in terms normally denoting another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We come still closer to the facts in the less metaphorical terms of the New Testament."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother must be of a metaphorical kind, which was much more difficult to Fred than the muscular."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Geology a failure The sun is a metaphorical representation of Soul out- side the body, giving existence and intelligence to the 510:18 universe."*

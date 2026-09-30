@@ -5,13 +5,6 @@ status: unread
 ---
 # verner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish philologist (1846-1896).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish philologist (1846-1896).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verner designates danish philologist (1846-1896)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish philologist (1846-1896).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish philologist (1846-1896).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verner designates danish philologist (1846-1896)."*

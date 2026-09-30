@@ -5,15 +5,6 @@ status: unread
 ---
 # subtract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a subtraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take off or away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, it would much subtract from the glory of the exploit had St."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Besides, it would much subtract from the glory of the exploit had St."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Affirmation and result 219:6 In mathematics, we do not multiply when we should subtract, and then say the product is correct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a subtraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take off or away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, it would much subtract from the glory of the exploit had St."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Besides, it would much subtract from the glory of the exploit had St."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Affirmation and result 219:6 In mathematics, we do not multiply when we should subtract, and then say the product is correct."*

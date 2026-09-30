@@ -5,15 +5,6 @@ status: unread
 ---
 # obstruct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinder or prevent the progress or accomplishment of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The nations of Europe are encircled with chains of fortified places, which mutually obstruct invasion."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The differences of opinion, and the jarrings of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check excesses in the majority."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The differences of opinion, and the jarrings of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check excesses in the majority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinder or prevent the progress or accomplishment of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The nations of Europe are encircled with chains of fortified places, which mutually obstruct invasion."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The differences of opinion, and the jarrings of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check excesses in the majority."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The differences of opinion, and the jarrings of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check excesses in the majority."*

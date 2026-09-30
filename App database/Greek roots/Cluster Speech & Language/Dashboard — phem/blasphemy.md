@@ -5,15 +5,6 @@ status: unread
 ---
 # blasphemy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of insulting or showing contempt or lack of reverence for God or to something sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something said or done that is disrespectful to God or to something sacred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my heart’s on future mischief set, I would speak blasphemy ere bid you fly; But fly you must; uncurable discomfit Reigns in the hearts of all our present parts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That in the captain’s but a choleric word Which in the soldier is flat blasphemy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, blasphemy, That swear’st grace o’erboard, not an oath on shore?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of insulting or showing contempt or lack of reverence for God or to something sacred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something said or done that is disrespectful to God or to something sacred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my heart’s on future mischief set, I would speak blasphemy ere bid you fly; But fly you must; uncurable discomfit Reigns in the hearts of all our present parts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That in the captain’s but a choleric word Which in the soldier is flat blasphemy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, blasphemy, That swear’st grace o’erboard, not an oath on shore?"*

@@ -5,14 +5,6 @@ status: unread
 ---
 # indocile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The untrained and indocile youth, however, is made the subject of compulsory distribution."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The untrained and indocile youth, however, is made the subject of compulsory distribution. [Sidenote: In much governmental action] The collection and distribution of taxes is by public authority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The untrained and indocile youth, however, is made the subject of compulsory distribution."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The untrained and indocile youth, however, is made the subject of compulsory distribution. [Sidenote: In much governmental action] The collection and distribution of taxes is by public authority."*

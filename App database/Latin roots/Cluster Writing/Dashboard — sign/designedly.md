@@ -5,15 +5,6 @@ status: unread
 ---
 # designedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He now discovered that he had been designedly mystified, and there was no escape."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Designedly, at least, Henry could not have betrayed her."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The bearings not being yet taken, perhaps designedly, I was ignorant of our exact position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He now discovered that he had been designedly mystified, and there was no escape."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Designedly, at least, Henry could not have betrayed her."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The bearings not being yet taken, perhaps designedly, I was ignorant of our exact position."*

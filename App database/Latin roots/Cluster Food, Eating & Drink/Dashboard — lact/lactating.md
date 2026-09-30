@@ -5,13 +5,6 @@ status: unread
 ---
 # lactating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give suck to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or secreting milk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactating designates give suck to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give suck to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or secreting milk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactating designates give suck to."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # contravention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming into conflict with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into conflict with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This power must either be a direct negative on the State laws, or an authority in the federal courts to overrule such as might be in manifest contravention of the articles of Union."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler says, referring to his former definition of what constituted an impeachable high crime: “All the articles allege these acts to be in contravention of his oath of office, and in disregard of the duties thereof."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Particular misconstructions and contraventions of the will of the legislature may now and then happen; but they can never be so extensive as to amount to an inconvenience, or in any sensible degree to affect the order of the political system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming into conflict with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into conflict with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This power must either be a direct negative on the State laws, or an authority in the federal courts to overrule such as might be in manifest contravention of the articles of Union."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler says, referring to his former definition of what constituted an impeachable high crime: “All the articles allege these acts to be in contravention of his oath of office, and in disregard of the duties thereof."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Particular misconstructions and contraventions of the will of the legislature may now and then happen; but they can never be so extensive as to amount to an inconvenience, or in any sensible degree to affect the order of the political system."*

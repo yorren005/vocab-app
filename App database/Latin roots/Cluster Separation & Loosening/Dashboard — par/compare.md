@@ -5,15 +5,6 @@ status: unread
 ---
 # compare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualities that are comparable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine and note the similarities or differences of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But were some child of yours alive that time, You should live twice,—in it, and in my rhyme. 18 Shall I compare thee to a summer’s day?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore banish’d—is a creature such As, to seek through the regions of the earth For one his like, there would be something failing In him that should compare."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dare not confess that, lest I should compare with him in excellence; but to know a man well were to know himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualities that are comparable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine and note the similarities or differences of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But were some child of yours alive that time, You should live twice,—in it, and in my rhyme. 18 Shall I compare thee to a summer’s day?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore banish’d—is a creature such As, to seek through the regions of the earth For one his like, there would be something failing In him that should compare."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dare not confess that, lest I should compare with him in excellence; but to know a man well were to know himself."*

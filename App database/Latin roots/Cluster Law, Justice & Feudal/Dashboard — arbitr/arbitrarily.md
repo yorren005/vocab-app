@@ -5,15 +5,6 @@ status: unread
 ---
 # arbitrarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a random manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a random manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 26.] [Footnote 7: In addition, certain items of receipts of companies or incomes of individuals are arbitrarily defined as property for purposes of taxation in a few cases in about fifteen other states."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absurd answer (that Achilles could never overtake the tortoise) resulted from this: that motion was arbitrarily divided into discontinuous elements, whereas the motion both of Achilles and of the tortoise was continuous."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The first method of history is to take an arbitrarily selected series of continuous events and examine it apart from others, though there is and can be no beginning to any event, for one event always flows uninterruptedly from another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a random manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a random manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 26.] [Footnote 7: In addition, certain items of receipts of companies or incomes of individuals are arbitrarily defined as property for purposes of taxation in a few cases in about fifteen other states."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absurd answer (that Achilles could never overtake the tortoise) resulted from this: that motion was arbitrarily divided into discontinuous elements, whereas the motion both of Achilles and of the tortoise was continuous."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The first method of history is to take an arbitrarily selected series of continuous events and examine it apart from others, though there is and can be no beginning to any event, for one event always flows uninterruptedly from another."*

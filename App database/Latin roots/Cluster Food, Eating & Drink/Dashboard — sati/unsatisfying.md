@@ -5,15 +5,6 @@ status: unread
 ---
 # unsatisfying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not up to expectations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not up to expectations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I couldn't say, sir," is the civil but unsatisfying reply with which research is met."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"But the jest was unsatisfying, and I was thinking of these figures all the morning, until Weena’s rescue drove them out of my head."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram's luncheon had been meager and unsatisfying."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not up to expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not up to expectations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I couldn't say, sir," is the civil but unsatisfying reply with which research is met."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"But the jest was unsatisfying, and I was thinking of these figures all the morning, until Weena’s rescue drove them out of my head."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram's luncheon had been meager and unsatisfying."*

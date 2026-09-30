@@ -5,14 +5,6 @@ status: unread
 ---
 # inculpate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggest that someone is guilty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggest that someone is guilty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He knew he was in these men’s power, that only by force had they brought him there, that force alone gave them the right to demand answers to their questions, and that the sole object of that assembly was to inculpate him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And so, as they had the power and wish to inculpate him, this expedient of an inquiry and trial seemed unnecessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggest that someone is guilty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggest that someone is guilty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He knew he was in these men’s power, that only by force had they brought him there, that force alone gave them the right to demand answers to their questions, and that the sole object of that assembly was to inculpate him."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And so, as they had the power and wish to inculpate him, this expedient of an inquiry and trial seemed unnecessary."*

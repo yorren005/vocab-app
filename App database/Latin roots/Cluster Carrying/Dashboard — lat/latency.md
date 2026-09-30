@@ -5,13 +5,6 @@ status: unread
 ---
 # latency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time that elapses between a stimulus and the response to it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"In other words it is the negative quality of passiveness either in recoverable latency or insipient latescence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time that elapses between a stimulus and the response to it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"In other words it is the negative quality of passiveness either in recoverable latency or insipient latescence."*

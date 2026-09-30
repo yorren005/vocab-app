@@ -5,15 +5,6 @@ status: unread
 ---
 # confer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a conference in order to talk something over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, madam, at your father’s castle walls We’ll crave a parley, to confer with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, leave us to ourselves; we must confer. [_Exit Lieutenant._] KING HENRY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a conference in order to talk something over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, madam, at your father’s castle walls We’ll crave a parley, to confer with him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, leave us to ourselves; we must confer. [_Exit Lieutenant._] KING HENRY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening."*

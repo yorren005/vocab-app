@@ -5,20 +5,6 @@ status: unread
 ---
 # anvil
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Incus
-> 2. **Nuance / Usage**: The anvil—shaped top of a cumulonimbus
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the anvil withstood the storm*), direct object (*cleaved the anvil*), or prepositional anchor (*amidst the anvil*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"upon my daily remembrance to which the anvil was a feather."*
-> - 📜 **Abraham Cowley (*The Foure Ages of England, or, The Iron Age with Other Select Poems*):** *"I Have anvil’d out this Iron Age,<br>Which I commit, not to your patronage,<br>But skill and Art {{..."*
-> - 📜 **Classic Author (*Atlas Chinensis*):** *"The Family Tang caus’d an Iron Pillar to be erected there of three Rods high, and of a proportionable thickness, Anvil’d out of an intire Piece."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Incus
+> 2. **Nuance / Usage**: The anvil—shaped top of a cumulonimbus
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the anvil withstood the storm*), direct object (*cleaved the anvil*), or prepositional anchor (*amidst the anvil*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"upon my daily remembrance to which the anvil was a feather."*
+> - 📜 **Abraham Cowley (*The Foure Ages of England, or, The Iron Age with Other Select Poems*):** *"I Have anvil’d out this Iron Age,<br>Which I commit, not to your patronage,<br>But skill and Art {{..."*
+> - 📜 **Classic Author (*Atlas Chinensis*):** *"The Family Tang caus’d an Iron Pillar to be erected there of three Rods high, and of a proportionable thickness, Anvil’d out of an intire Piece."*

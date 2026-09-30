@@ -5,15 +5,6 @@ status: unread
 ---
 # instantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without delay or hesitation; with no time intervening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any delay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, catching but the least noise of this, dies instantly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you hence instantly, and tell those friends They have chose a consul that will from them take Their liberties, make them of no more voice Than dogs that are as often beat for barking As therefore kept to do so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I beseech you instantly to visit My too much changed son."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without delay or hesitation; with no time intervening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any delay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, catching but the least noise of this, dies instantly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you hence instantly, and tell those friends They have chose a consul that will from them take Their liberties, make them of no more voice Than dogs that are as often beat for barking As therefore kept to do so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I beseech you instantly to visit My too much changed son."*

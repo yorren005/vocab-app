@@ -5,15 +5,6 @@ status: unread
 ---
 # passion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong feeling or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being intensely emotional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now to all sense ’tis gross You love my son; invention is asham’d, Against the proclamation of thy passion To say thou dost not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom everything becomes—to chide, to laugh, To weep; whose every passion fully strives To make itself, in thee fair and admired!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your speech is passion; But pray you stir no embers up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong feeling or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being intensely emotional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now to all sense ’tis gross You love my son; invention is asham’d, Against the proclamation of thy passion To say thou dost not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom everything becomes—to chide, to laugh, To weep; whose every passion fully strives To make itself, in thee fair and admired!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your speech is passion; But pray you stir no embers up."*

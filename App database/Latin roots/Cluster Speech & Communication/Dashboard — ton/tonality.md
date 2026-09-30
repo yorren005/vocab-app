@@ -5,13 +5,6 @@ status: unread
 ---
 # tonality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonality designates any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonality designates any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music."*

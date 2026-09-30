@@ -5,13 +5,6 @@ status: unread
 ---
 # gamete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of assisting reproduction in cases of infertility that involves obtaining eggs from an ovary, mixing them with sperm, and inserting them into a fallopian tube by a laparoscope —abbreviation GIFT—called also gamete intrafallopian tube transfer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamete designates a mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of assisting reproduction in cases of infertility that involves obtaining eggs from an ovary, mixing them with sperm, and inserting them into a fallopian tube by a laparoscope —abbreviation GIFT—called also gamete intrafallopian tube transfer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamete designates a mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex."*

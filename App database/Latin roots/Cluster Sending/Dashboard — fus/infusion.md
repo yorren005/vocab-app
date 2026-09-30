@@ -5,15 +5,6 @@ status: unread
 ---
 # infusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution obtained by steeping or soaking a substance (usually in water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A much more exemplary character with an infusion of sour dignity would not have furthered their comprehension of the Thirty-nine Articles, and would have been less socially uniting."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Into this division, in the year 1821, the directors, perceiving an infusion of new blood to be very urgently required, introduced, as assistant examiners, four outsiders,--Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution obtained by steeping or soaking a substance (usually in water).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A much more exemplary character with an infusion of sour dignity would not have furthered their comprehension of the Thirty-nine Articles, and would have been less socially uniting."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Into this division, in the year 1821, the directors, perceiving an infusion of new blood to be very urgently required, introduced, as assistant examiners, four outsiders,--Mr."*

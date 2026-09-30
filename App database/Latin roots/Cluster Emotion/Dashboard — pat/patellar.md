@@ -5,13 +5,6 @@ status: unread
 ---
 # patellar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near or relating to the patella or kneecap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near or relating to the patella or kneecap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Salivation is insufficient, the patellar reflex intermittent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Near or relating to the patella or kneecap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near or relating to the patella or kneecap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Salivation is insufficient, the patellar reflex intermittent."*

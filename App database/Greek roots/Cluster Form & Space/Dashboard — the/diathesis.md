@@ -5,13 +5,6 @@ status: unread
 ---
 # diathesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitutional predisposition to a particular disease or abnormality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitutional predisposition to a particular disease or abnormality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The patient may tell you that he has a humor in the blood, a scrofulous diathesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitutional predisposition to a particular disease or abnormality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitutional predisposition to a particular disease or abnormality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The patient may tell you that he has a humor in the blood, a scrofulous diathesis."*

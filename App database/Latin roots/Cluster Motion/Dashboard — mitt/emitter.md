@@ -5,13 +5,6 @@ status: unread
 ---
 # emitter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode in a transistor where electrons originate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The electrode in a transistor where electrons originate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emitter designates the electrode in a transistor where electrons originate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode in a transistor where electrons originate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The electrode in a transistor where electrons originate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emitter designates the electrode in a transistor where electrons originate."*

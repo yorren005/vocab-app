@@ -5,15 +5,6 @@ status: unread
 ---
 # diverting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba went home, her mind occupied with a new trouble, which being rather harassing than deadly was calculated to do good by diverting her from the chronic gloom of her life."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But supposing the invader of domestic bliss to betake himself away at the first rush of the harem’s lord, then is it very diverting to watch that lord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba went home, her mind occupied with a new trouble, which being rather harassing than deadly was calculated to do good by diverting her from the chronic gloom of her life."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But supposing the invader of domestic bliss to betake himself away at the first rush of the harem’s lord, then is it very diverting to watch that lord."*

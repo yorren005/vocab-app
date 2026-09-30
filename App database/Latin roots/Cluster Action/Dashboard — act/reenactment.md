@@ -5,13 +5,6 @@ status: unread
 ---
 # reenactment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Performing a role in an event that occurred at an earlier time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing a role in an event that occurred at an earlier time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reenactment designates performing a role in an event that occurred at an earlier time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performing a role in an event that occurred at an earlier time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing a role in an event that occurred at an earlier time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reenactment designates performing a role in an event that occurred at an earlier time."*

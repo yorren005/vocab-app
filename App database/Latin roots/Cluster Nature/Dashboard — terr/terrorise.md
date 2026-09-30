@@ -5,13 +5,6 @@ status: unread
 ---
 # terrorise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coerce by violence or with threats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with terror; frighten greatly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Its power was used for political purposes, principally for the terrorising of the negro voters and the murdering and driving from the country of those who were opposed to its views."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coerce by violence or with threats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with terror; frighten greatly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Its power was used for political purposes, principally for the terrorising of the negro voters and the murdering and driving from the country of those who were opposed to its views."*

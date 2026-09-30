@@ -5,15 +5,6 @@ status: unread
 ---
 # ludicrously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Jonah suggesting something about a “love-child,” and with this thought in his mind, the stranger’s face, which happened to be opposite him, affected him too ludicrously."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With utter stupefaction he saw an iron countenance, above which a stiff brush of wire hair projected ludicrously."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"That position is untenable—I may say ludicrously untenable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Jonah suggesting something about a “love-child,” and with this thought in his mind, the stranger’s face, which happened to be opposite him, affected him too ludicrously."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With utter stupefaction he saw an iron countenance, above which a stiff brush of wire hair projected ludicrously."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"That position is untenable—I may say ludicrously untenable."*

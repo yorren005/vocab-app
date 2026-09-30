@@ -5,15 +5,6 @@ status: unread
 ---
 # ruby
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent piece of ruby that has been cut and polished and is valued as a precious gem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent deep red variety of corundum; used as a gemstone and in lasers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You make me strange Even to the disposition that I owe, When now I think you can behold such sights, And keep the natural ruby of your cheeks, When mine are blanch’d with fear."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"My words were hardly intended as that, little wife," Edward responded in a kindly tone, following her into the hall, catching her in his arms, and imprinting a kiss on her ruby lips."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I thought you were taking a nap," he remarked, as he put his arm round her, and kissed the ruby lips she held up in mute request."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent piece of ruby that has been cut and polished and is valued as a precious gem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent deep red variety of corundum; used as a gemstone and in lasers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You make me strange Even to the disposition that I owe, When now I think you can behold such sights, And keep the natural ruby of your cheeks, When mine are blanch’d with fear."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"My words were hardly intended as that, little wife," Edward responded in a kindly tone, following her into the hall, catching her in his arms, and imprinting a kiss on her ruby lips."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I thought you were taking a nap," he remarked, as he put his arm round her, and kissed the ruby lips she held up in mute request."*

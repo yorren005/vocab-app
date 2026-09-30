@@ -5,13 +5,6 @@ status: unread
 ---
 # manic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, characterized by, or resulting from mania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipolar disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manic designates affected with, relating to, characterized by, or resulting from mania."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, characterized by, or resulting from mania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipolar disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manic designates affected with, relating to, characterized by, or resulting from mania."*

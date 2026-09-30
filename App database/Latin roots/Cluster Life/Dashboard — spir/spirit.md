@@ -5,15 +5,6 @@ status: unread
 ---
 # spirit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vital principle or animating force within living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general atmosphere of a place or situation and the effect that it has on people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vital principle or animating force within living things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general atmosphere of a place or situation and the effect that it has on people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*

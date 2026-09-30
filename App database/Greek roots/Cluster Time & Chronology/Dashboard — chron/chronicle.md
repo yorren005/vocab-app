@@ -5,15 +5,6 @@ status: unread
 ---
 # chronicle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical account of events arranged in order of time usually without analysis or interpretation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical account of events arranged in order of time usually without analysis or interpretation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I and my sword will earn our chronicle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To suckle fools and chronicle small beer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more yet of this; For ’tis a chronicle of day by day, Not a relation for a breakfast nor Befitting this first meeting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical account of events arranged in order of time usually without analysis or interpretation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical account of events arranged in order of time usually without analysis or interpretation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I and my sword will earn our chronicle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To suckle fools and chronicle small beer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more yet of this; For ’tis a chronicle of day by day, Not a relation for a breakfast nor Befitting this first meeting."*

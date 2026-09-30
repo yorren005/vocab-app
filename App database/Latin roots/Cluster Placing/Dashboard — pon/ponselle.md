@@ -5,13 +5,6 @@ status: unread
 ---
 # ponselle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states soprano (1897-1981).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states soprano (1897-1981).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponselle designates united states soprano (1897-1981)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states soprano (1897-1981).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states soprano (1897-1981).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponselle designates united states soprano (1897-1981)."*

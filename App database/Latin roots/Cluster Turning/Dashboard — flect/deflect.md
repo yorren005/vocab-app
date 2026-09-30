@@ -5,15 +5,6 @@ status: unread
 ---
 # deflect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent the occurrence of; prevent from happening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn from a straight course, fixed direction, or line of interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He desired of me a thrust and lunge, not that he might parry it but that he might time it and deflect it by the customary slight turn of the wrist, his rapier point directed to meet me as my body followed in the lunge."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did he deflect a fraction of a second too early, I should be warned and saved."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did he deflect a fraction of a second too late, my thrust would go home to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent the occurrence of; prevent from happening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn from a straight course, fixed direction, or line of interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He desired of me a thrust and lunge, not that he might parry it but that he might time it and deflect it by the customary slight turn of the wrist, his rapier point directed to meet me as my body followed in the lunge."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did he deflect a fraction of a second too early, I should be warned and saved."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did he deflect a fraction of a second too late, my thrust would go home to him."*

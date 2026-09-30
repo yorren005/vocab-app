@@ -5,13 +5,6 @@ status: unread
 ---
 # parana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A south american river; tributary of rio de la plata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A south american river; tributary of rio de la plata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parana designates a south american river; tributary of rio de la plata."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A south american river; tributary of rio de la plata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A south american river; tributary of rio de la plata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parana designates a south american river; tributary of rio de la plata."*

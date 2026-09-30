@@ -5,15 +5,6 @@ status: unread
 ---
 # semicircle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure with the shape of half a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane figure with the shape of half a circle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not for because Your brows are blacker; yet black brows, they say, Become some women best, so that there be not Too much hair there, but in a semicircle Or a half-moon made with a pen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn warms before the bars, alternately, the palms and knuckles of his hands and looks (from behind that blind which is always down) at the trio sitting in a little semicircle before him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The servants were called in, the dining-room tables wheeled away, the lights otherwise disposed, the chairs placed in a semicircle opposite the arch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure with the shape of half a circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane figure with the shape of half a circle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not for because Your brows are blacker; yet black brows, they say, Become some women best, so that there be not Too much hair there, but in a semicircle Or a half-moon made with a pen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn warms before the bars, alternately, the palms and knuckles of his hands and looks (from behind that blind which is always down) at the trio sitting in a little semicircle before him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The servants were called in, the dining-room tables wheeled away, the lights otherwise disposed, the chairs placed in a semicircle opposite the arch."*

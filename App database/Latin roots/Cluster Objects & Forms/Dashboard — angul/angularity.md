@@ -5,15 +5,6 @@ status: unread
 ---
 # angularity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape having one or more sharp angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a shape that has angles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those black angularities which his face had used to put on when his wishes were thwarted now did duty in picturing the incorrigible backslider who would insist upon turning again to his wallowing in the mire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape having one or more sharp angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a shape that has angles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those black angularities which his face had used to put on when his wishes were thwarted now did duty in picturing the incorrigible backslider who would insist upon turning again to his wallowing in the mire."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # firm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The members of a business organization that owns or operates one or more establishments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become taut or tauter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Firm and irrevocable is my doom Which I have passed upon her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The members of a business organization that owns or operates one or more establishments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become taut or tauter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Firm and irrevocable is my doom Which I have passed upon her."*

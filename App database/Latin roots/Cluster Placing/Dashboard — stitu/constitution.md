@@ -5,15 +5,6 @@ status: unread
 ---
 # constitution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Law determining the fundamental political principles of a government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forming or establishing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some dear friend dead, else nothing in the world Could turn so much the constitution Of any constant man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think, by the excellent constitution of thy leg, it was formed under the star of a galliard."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The doctor had not found Sale's wounds of a serious nature, but as he had a delicate constitution, great care had to be taken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Law determining the fundamental political principles of a government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forming or establishing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some dear friend dead, else nothing in the world Could turn so much the constitution Of any constant man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think, by the excellent constitution of thy leg, it was formed under the star of a galliard."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The doctor had not found Sale's wounds of a serious nature, but as he had a delicate constitution, great care had to be taken."*

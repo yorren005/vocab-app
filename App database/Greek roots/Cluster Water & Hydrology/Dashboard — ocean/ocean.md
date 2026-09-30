@@ -5,15 +5,6 @@ status: unread
 ---
 # ocean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole body of salt water that covers nearly three fourths of the surface of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the large bodies of water into which the mass of salt water covering most of the earth is divided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole body of salt water that covers nearly three fourths of the surface of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the large bodies of water into which the mass of salt water covering most of the earth is divided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*

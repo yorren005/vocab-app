@@ -5,13 +5,6 @@ status: unread
 ---
 # dispatcher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The official who signals the beginning of a race or competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employee of a transportation company who controls the departures of vehicles according to weather conditions and in the interest of efficient service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispatcher designates the official who signals the beginning of a race or competition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official who signals the beginning of a race or competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employee of a transportation company who controls the departures of vehicles according to weather conditions and in the interest of efficient service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispatcher designates the official who signals the beginning of a race or competition."*

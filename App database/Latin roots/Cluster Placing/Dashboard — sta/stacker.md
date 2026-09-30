@@ -5,13 +5,6 @@ status: unread
 ---
 # stacker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A laborer who builds up a stack or pile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laborer who builds up a stack or pile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stacker designates a laborer who builds up a stack or pile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A laborer who builds up a stack or pile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laborer who builds up a stack or pile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stacker designates a laborer who builds up a stack or pile."*

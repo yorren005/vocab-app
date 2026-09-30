@@ -5,15 +5,6 @@ status: unread
 ---
 # assorted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Falcon, steering straight for some chairs he had discovered, brought them for the ladies despite all the assorted objects on the floor."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought of the youth and love and beauty of my dear girl, shut up in such an ill-assorted refuge, almost as if it were a cruel place."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A still greater obscurity lies in the distinctive characters by which the objects in each of these great departments of nature have been arranged and assorted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Falcon, steering straight for some chairs he had discovered, brought them for the ladies despite all the assorted objects on the floor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I thought of the youth and love and beauty of my dear girl, shut up in such an ill-assorted refuge, almost as if it were a cruel place."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A still greater obscurity lies in the distinctive characters by which the objects in each of these great departments of nature have been arranged and assorted."*

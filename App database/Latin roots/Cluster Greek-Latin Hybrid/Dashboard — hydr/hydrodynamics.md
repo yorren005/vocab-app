@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrodynamics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of fluids in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of fluids in motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamics designates study of fluids in motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of fluids in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of fluids in motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamics designates study of fluids in motion."*

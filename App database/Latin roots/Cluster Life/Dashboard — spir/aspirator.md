@@ -5,13 +5,6 @@ status: unread
 ---
 # aspirator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pump that draws air or another gas through a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pump that draws air or another gas through a liquid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspirator designates a pump that draws air or another gas through a liquid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pump that draws air or another gas through a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pump that draws air or another gas through a liquid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspirator designates a pump that draws air or another gas through a liquid."*

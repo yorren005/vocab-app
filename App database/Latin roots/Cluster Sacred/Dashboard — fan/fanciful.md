@@ -5,15 +5,6 @@ status: unread
 ---
 # fanciful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging in or influenced by fancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on fact; unreal; - f.d.roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXIV Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the rush of juices could almost be heard below the hiss of fertilization, it was impossible that the most fanciful love should not grow passionate."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was so wrapt up in this fanciful dream that she seemed not to know how the season was advancing; that the days had lengthened, that Lady-Day was at hand, and would soon be followed by Old Lady-Day, the end of her term here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging in or influenced by fancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on fact; unreal; - f.d.roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXIV Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the rush of juices could almost be heard below the hiss of fertilization, it was impossible that the most fanciful love should not grow passionate."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was so wrapt up in this fanciful dream that she seemed not to know how the season was advancing; that the days had lengthened, that Lady-Day was at hand, and would soon be followed by Old Lady-Day, the end of her term here."*

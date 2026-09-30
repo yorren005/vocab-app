@@ -5,15 +5,6 @@ status: unread
 ---
 # correctly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an accurate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an accurate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s son.” “A proposal which, as you correctly informed me at the time, he had the becoming taste and perception,” observes Sir Leicester, “to decline."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, you must spell your name correctly—d’Urberville—from this very day.” “I like the other way rather best.” “But you _must_, dearest!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For pay that satisfied him and us, he staid in the family over a year, working out doors and in; could be trusted to do business with money, and return every cent correctly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an accurate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an accurate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s son.” “A proposal which, as you correctly informed me at the time, he had the becoming taste and perception,” observes Sir Leicester, “to decline."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, you must spell your name correctly—d’Urberville—from this very day.” “I like the other way rather best.” “But you _must_, dearest!"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"For pay that satisfied him and us, he staid in the family over a year, working out doors and in; could be trusted to do business with money, and return every cent correctly."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # carpophagous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on fruit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpophagous designates feeding on fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on fruit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpophagous designates feeding on fruit."*

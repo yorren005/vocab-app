@@ -5,13 +5,6 @@ status: unread
 ---
 # coloratura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lyric soprano who specializes in coloratura vocal music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Singing with florid ornamentation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coloratura designates a lyric soprano who specializes in coloratura vocal music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lyric soprano who specializes in coloratura vocal music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Singing with florid ornamentation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coloratura designates a lyric soprano who specializes in coloratura vocal music."*

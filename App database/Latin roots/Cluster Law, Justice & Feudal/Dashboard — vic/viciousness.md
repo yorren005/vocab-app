@@ -5,15 +5,6 @@ status: unread
 ---
 # viciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of extreme cruelty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of extreme cruelty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The animal he bestrode was a broken-down plough-horse that had outlived almost everything but his viciousness."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"All the viciousness of my nature was uppermost in me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of extreme cruelty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of extreme cruelty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The animal he bestrode was a broken-down plough-horse that had outlived almost everything but his viciousness."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"All the viciousness of my nature was uppermost in me."*

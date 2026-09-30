@@ -5,13 +5,6 @@ status: unread
 ---
 # cathartid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large birds of prey superficially similar to old world vultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large birds of prey superficially similar to old world vultures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartid designates large birds of prey superficially similar to old world vultures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large birds of prey superficially similar to old world vultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large birds of prey superficially similar to old world vultures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartid designates large birds of prey superficially similar to old world vultures."*

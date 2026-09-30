@@ -5,15 +5,6 @@ status: unread
 ---
 # consummate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfill sexually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect; bring to perfection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you the office, friar; which consummate, Return him here again.—Go with him, Provost. [_Exeunt Angelo, Mariana, Friar Peter and Provost._] ESCALUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do but stay till your marriage be consummate, and then go I toward Arragon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There shall we consummate our spousal rites. [_Exeunt all but Titus._] TITUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfill sexually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect; bring to perfection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you the office, friar; which consummate, Return him here again.—Go with him, Provost. [_Exeunt Angelo, Mariana, Friar Peter and Provost._] ESCALUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do but stay till your marriage be consummate, and then go I toward Arragon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There shall we consummate our spousal rites. [_Exeunt all but Titus._] TITUS."*

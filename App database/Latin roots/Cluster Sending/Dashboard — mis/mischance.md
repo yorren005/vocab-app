@@ -5,15 +5,6 @@ status: unread
 ---
 # mischance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unpredictable outcome that is unfortunate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of misfortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He never can meet more mischance than come To be but nam’d of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sleep rock thy brain, And never come mischance between us twain. [_Exit._] HAMLET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But let this same be presently perform’d, Even while men’s minds are wild, lest more mischance On plots and errors happen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unpredictable outcome that is unfortunate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of misfortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He never can meet more mischance than come To be but nam’d of thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sleep rock thy brain, And never come mischance between us twain. [_Exit._] HAMLET."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But let this same be presently perform’d, Even while men’s minds are wild, lest more mischance On plots and errors happen."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fluctuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wave motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of change; the rate or magnitude of change.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this fluctuation of general prices surely can be so greatly moderated in magnitude and in evil results as to make the word "crisis" almost a misnomer."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There were three different conclusions to be drawn from his silence, between which her mind was in fluctuation; each of them at times being held the most probable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the stormy fluctuation of his feelings these words of hers seemed to him cruelly neutral, and he looked pale and miserable after his angry outburst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wave motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of change; the rate or magnitude of change.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this fluctuation of general prices surely can be so greatly moderated in magnitude and in evil results as to make the word "crisis" almost a misnomer."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"There were three different conclusions to be drawn from his silence, between which her mind was in fluctuation; each of them at times being held the most probable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the stormy fluctuation of his feelings these words of hers seemed to him cruelly neutral, and he looked pale and miserable after his angry outburst."*

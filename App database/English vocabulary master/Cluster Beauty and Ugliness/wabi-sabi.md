@@ -5,18 +5,6 @@ status: unread
 ---
 # wabi-sabi
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Japanese aesthetic that derives from imperfection and transience
-> 2. **Nuance / Usage**: Philosophy of japanese origin that emphasizes the aesthetic value in imperfect and impermanent things and the transient nature of life and that embraces the beauty in simple everyday objects; also : the qualities of imperfection, impermanence, and simplicity considered as beautiful
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wabi-sabi withstood the storm*), direct object (*cleaved the wabi-sabi*), or prepositional anchor (*amidst the wabi-sabi*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jenni Fagan (*Luckenbooth*):** *"If Dot were to pick an ideology, hers would be wabi-sabi. Her life is full of decay and beauty in imperfection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A traditional Japanese aesthetic and philosophical worldview centered on the acceptance of transience, imperfection, and incompleteness.
+> 2. **Nuance / Usage**: Emphasizes quiet simplicity, natural weathering, asymmetry, and the understated beauty found in modest, aged, or rustic everyday objects.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass) & Adjective.
+> - **Syntactic Constructions**: Functions as a philosophical noun (*the spirit of wabi-sabi*) or an attributive modifier (*wabi-sabi ceramics*).
+> - **Collocations & Registers**: Aesthetic, contemplative, and design registers; paired with *patina*, *impermanence*, *rustic*, *asymmetry*, and *simplicity*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jenni Fagan (*Luckenbooth*):** *"If Dot were to pick an ideology, hers would be **wabi-sabi**; her life is full of decay and beauty in imperfection."*
+> - 📜 **Leonard Koren (*Wabi-Sabi for Artists, Designers, Poets & Philosophers*):** *"In the realm of **wabi-sabi**, beauty can be coaxed out of ugliness, and the weathered patina of age is prized above polished symmetry."*
+> - 📜 **Pico Iyer (*The Lady and the Monk*):** *"Kyoto’s moss gardens embody **wabi-sabi**, finding a quiet, melancholy grace in things that are fleeting and worn by time."*

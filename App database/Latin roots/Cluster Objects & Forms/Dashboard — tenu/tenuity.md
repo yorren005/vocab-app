@@ -5,13 +5,6 @@ status: unread
 ---
 # tenuity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small dimension through an object as opposed to its length or width.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rarified quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Science can now educe threads of such exquisite tenuity that only the feet of the tiniest infant-spiders can ascend them; but up the filmiest insubstantiality Shelley runs with agile ease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small dimension through an object as opposed to its length or width.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rarified quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Science can now educe threads of such exquisite tenuity that only the feet of the tiniest infant-spiders can ascend them; but up the filmiest insubstantiality Shelley runs with agile ease."*

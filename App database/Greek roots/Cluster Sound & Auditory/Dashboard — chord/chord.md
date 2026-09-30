@@ -5,15 +5,6 @@ status: unread
 ---
 # chord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line connecting two points on a curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination of three or more notes that blend harmoniously when sounded together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This would put Prince in such good spirits that he would sometimes take the kit from his pocket and play a chord or two to astonish the baby, which I never knew it to do in the least degree, for my tiny namesake never noticed it at all."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"A Fear that in the deep night starts awake Perpetually, to find its senses strained Against the taut strings of the quivering air, Awaiting the return of some dread chord?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line connecting two points on a curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination of three or more notes that blend harmoniously when sounded together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This would put Prince in such good spirits that he would sometimes take the kit from his pocket and play a chord or two to astonish the baby, which I never knew it to do in the least degree, for my tiny namesake never noticed it at all."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"A Fear that in the deep night starts awake Perpetually, to find its senses strained Against the taut strings of the quivering air, Awaiting the return of some dread chord?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # consolable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be consoled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be consoled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"What a good saint is our Ignatius, exclaimed the consolable widow, he bestows on us more benefits than we ask for! 581."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be consoled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be consoled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"What a good saint is our Ignatius, exclaimed the consolable widow, he bestows on us more benefits than we ask for! 581."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # postposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) the placing of one linguistic element after another (as placing a modifier after the word that it modifies in a sentence or placing an affix after the base to which it is attached).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) the placing of one linguistic element after another (as placing a modifier after the word that it modifies in a sentence or placing an affix after the base to which it is attached).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postposition designates (linguistics) the placing of one linguistic element after another (as placing a modifier after the word that it modifies in a sentence or placing an affix after the base to which it is attached)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) the placing of one linguistic element after another (as placing a modifier after the word that it modifies in a sentence or placing an affix after the base to which it is attached).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) the placing of one linguistic element after another (as placing a modifier after the word that it modifies in a sentence or placing an affix after the base to which it is attached).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postposition designates (linguistics) the placing of one linguistic element after another (as placing a modifier after the word that it modifies in a sentence or placing an affix after the base to which it is attached)."*

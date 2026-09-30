@@ -5,15 +5,6 @@ status: unread
 ---
 # inductive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising from inductance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from particular facts to a general conclusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inductive demonstration of broadly stated economic principles is usually difficult, but there have been many "monetary experiments" to teach their lessons."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It was even asserted confidently, that nothing more was to be expected,--that an inductive logic was impossible."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"All reasoning is shown to be at bottom inductive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising from inductance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from particular facts to a general conclusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inductive demonstration of broadly stated economic principles is usually difficult, but there have been many "monetary experiments" to teach their lessons."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It was even asserted confidently, that nothing more was to be expected,--that an inductive logic was impossible."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"All reasoning is shown to be at bottom inductive."*

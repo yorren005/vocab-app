@@ -5,13 +5,6 @@ status: unread
 ---
 # minimisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reducing something to the least possible amount or degree or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing something to the least possible amount or degree or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minimisation designates the act of reducing something to the least possible amount or degree or position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reducing something to the least possible amount or degree or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing something to the least possible amount or degree or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minimisation designates the act of reducing something to the least possible amount or degree or position."*

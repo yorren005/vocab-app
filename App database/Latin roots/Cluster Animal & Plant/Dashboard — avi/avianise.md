@@ -5,13 +5,6 @@ status: unread
 ---
 # avianise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To modify microorganisms by repeated culture in the developing chick embryo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To modify microorganisms by repeated culture in the developing chick embryo.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avianise designates to modify microorganisms by repeated culture in the developing chick embryo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To modify microorganisms by repeated culture in the developing chick embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To modify microorganisms by repeated culture in the developing chick embryo.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avianise designates to modify microorganisms by repeated culture in the developing chick embryo."*

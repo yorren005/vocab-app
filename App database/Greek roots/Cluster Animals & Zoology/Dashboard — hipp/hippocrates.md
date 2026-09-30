@@ -5,15 +5,6 @@ status: unread
 ---
 # hippocrates
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical practitioner who is regarded as the father of medicine; author of the hippocratic oath (circa 460-377 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical practitioner who is regarded as the father of medicine; author of the hippocratic oath (circa 460-377 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a result which paralleled the oft-quoted observation of Hippocrates concerning physical pains."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After the lapse of a few moments the stripling re-entered the house with an aged islander, who might have been taken for old Hippocrates himself."*
-> - 📜 **Effie Afton (*Eventide*):** *"Prague was accustomed to apply to her husband when she wished to be very killing and condescending, his Christian name being Hippocrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical practitioner who is regarded as the father of medicine; author of the hippocratic oath (circa 460-377 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical practitioner who is regarded as the father of medicine; author of the hippocratic oath (circa 460-377 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a result which paralleled the oft-quoted observation of Hippocrates concerning physical pains."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After the lapse of a few moments the stripling re-entered the house with an aged islander, who might have been taken for old Hippocrates himself."*
+> - 📜 **Effie Afton (*Eventide*):** *"Prague was accustomed to apply to her husband when she wished to be very killing and condescending, his Christian name being Hippocrates."*

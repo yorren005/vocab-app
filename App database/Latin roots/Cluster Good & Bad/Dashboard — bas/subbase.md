@@ -5,13 +5,6 @@ status: unread
 ---
 # subbase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest molding of an architectural base or of a baseboard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest molding of an architectural base or of a baseboard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subbase designates the lowest molding of an architectural base or of a baseboard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest molding of an architectural base or of a baseboard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest molding of an architectural base or of a baseboard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subbase designates the lowest molding of an architectural base or of a baseboard."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tachograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachograph designates a tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachograph designates a tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle."*

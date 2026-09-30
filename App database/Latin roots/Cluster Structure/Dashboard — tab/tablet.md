@@ -5,15 +5,6 @@ status: unread
 ---
 # tablet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slab of stone or wood suitable for bearing an inscription.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number of sheets of paper fastened together along one edge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This tablet lay upon his breast, wherein Our pleasure his full fortune doth confine; And so, away; no farther with your din Express impatience, lest you stir up mine."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A man’s body is as the shell, or the tablet, of his soul, as he is reserved or ingenuous, overflowing or self-contained."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slab of stone or wood suitable for bearing an inscription.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number of sheets of paper fastened together along one edge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This tablet lay upon his breast, wherein Our pleasure his full fortune doth confine; And so, away; no farther with your din Express impatience, lest you stir up mine."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A man’s body is as the shell, or the tablet, of his soul, as he is reserved or ingenuous, overflowing or self-contained."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*

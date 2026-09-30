@@ -5,13 +5,6 @@ status: unread
 ---
 # revaluation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new appraisal or evaluation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new appraisal or evaluation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These call for constant revaluations of the sources of incomes, thus destroying customary and habitual valuations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new appraisal or evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new appraisal or evaluation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These call for constant revaluations of the sources of incomes, thus destroying customary and habitual valuations."*

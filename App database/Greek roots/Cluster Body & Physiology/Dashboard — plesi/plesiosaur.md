@@ -5,13 +5,6 @@ status: unread
 ---
 # plesiosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order or suborder (Plesiosauria) of large carnivorous marine reptiles of the Mesozoic with dorsoventrally flattened bodies and limbs modified into flippers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order or suborder (Plesiosauria) of large carnivorous marine reptiles of the Mesozoic with dorsoventrally flattened bodies and limbs modified into flippers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesiosaur designates any of an order or suborder (plesiosauria) of large carnivorous marine reptiles of the mesozoic with dorsoventrally flattened bodies and limbs modified into flippers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order or suborder (Plesiosauria) of large carnivorous marine reptiles of the Mesozoic with dorsoventrally flattened bodies and limbs modified into flippers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order or suborder (Plesiosauria) of large carnivorous marine reptiles of the Mesozoic with dorsoventrally flattened bodies and limbs modified into flippers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesiosaur designates any of an order or suborder (plesiosauria) of large carnivorous marine reptiles of the mesozoic with dorsoventrally flattened bodies and limbs modified into flippers."*

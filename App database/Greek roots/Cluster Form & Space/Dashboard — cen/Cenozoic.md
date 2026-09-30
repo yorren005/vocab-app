@@ -5,13 +5,6 @@ status: unread
 ---
 # Cenozoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an era of geologic history that extends from the beginning of the Tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an era of geologic history that extends from the beginning of the Tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Cenozoic designates of, relating to, or being an era of geologic history that extends from the beginning of the tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an era of geologic history that extends from the beginning of the Tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an era of geologic history that extends from the beginning of the Tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Cenozoic designates of, relating to, or being an era of geologic history that extends from the beginning of the tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks."*

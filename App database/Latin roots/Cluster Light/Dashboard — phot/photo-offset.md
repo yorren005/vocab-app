@@ -5,13 +5,6 @@ status: unread
 ---
 # photo-offset
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of offset printing using photomechanical plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of offset printing using photomechanical plates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photo-offset designates a method of offset printing using photomechanical plates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of offset printing using photomechanical plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of offset printing using photomechanical plates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photo-offset designates a method of offset printing using photomechanical plates."*

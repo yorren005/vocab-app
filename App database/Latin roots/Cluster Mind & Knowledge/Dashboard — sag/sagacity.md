@@ -5,15 +5,6 @@ status: unread
 ---
 # sagacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental ability to understand and discriminate between relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forming opinions by distinguishing and evaluating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, I have had very little pleasure at our dear Richard’s lately, and your practical sagacity demonstrates why."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Young ladies have great penetration in such matters as these; but I think I may defy even _your_ sagacity to discover the name of your admirer."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford sure of her, and been delighted with his own sagacity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental ability to understand and discriminate between relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forming opinions by distinguishing and evaluating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, I have had very little pleasure at our dear Richard’s lately, and your practical sagacity demonstrates why."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Young ladies have great penetration in such matters as these; but I think I may defy even _your_ sagacity to discover the name of your admirer."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford sure of her, and been delighted with his own sagacity."*

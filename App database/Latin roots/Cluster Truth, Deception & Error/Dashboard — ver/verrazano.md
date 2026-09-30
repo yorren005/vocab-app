@@ -5,13 +5,6 @@ status: unread
 ---
 # verrazano
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verrazano designates florentine navigator who explored the eastern coast of north america (circa 1485-1528)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verrazano designates florentine navigator who explored the eastern coast of north america (circa 1485-1528)."*

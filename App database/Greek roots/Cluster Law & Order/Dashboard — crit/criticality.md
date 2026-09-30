@@ -5,13 +5,6 @@ status: unread
 ---
 # criticality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of critical urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical state; especially the point at which a nuclear reaction is self-sustaining.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criticality designates a state of critical urgency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of critical urgency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical state; especially the point at which a nuclear reaction is self-sustaining.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criticality designates a state of critical urgency."*

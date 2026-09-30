@@ -5,13 +5,6 @@ status: unread
 ---
 # parrotlike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanically imitated or repeated without thought or understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanically imitated or repeated without thought or understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parrotlike designates mechanically imitated or repeated without thought or understanding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanically imitated or repeated without thought or understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanically imitated or repeated without thought or understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parrotlike designates mechanically imitated or repeated without thought or understanding."*

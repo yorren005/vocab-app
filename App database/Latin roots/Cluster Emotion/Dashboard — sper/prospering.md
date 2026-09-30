@@ -5,15 +5,6 @@ status: unread
 ---
 # prospering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very lively and profitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are prospering, please the Powers?” Mr."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And they succeed; throughout all that territory that lies between the China Sea and the Bay of Bengal, whether under British or French rule, unless actually barred out, the Chinese is entrenching himself and prospering."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Today he is the proud owner of three hundred and twenty acres, and is prospering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very lively and profitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You are prospering, please the Powers?” Mr."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And they succeed; throughout all that territory that lies between the China Sea and the Bay of Bengal, whether under British or French rule, unless actually barred out, the Chinese is entrenching himself and prospering."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Today he is the proud owner of three hundred and twenty acres, and is prospering."*

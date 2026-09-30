@@ -5,13 +5,6 @@ status: unread
 ---
 # repudiative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting emphatically; e.g. refusing to pay or disowning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejecting emphatically; e.g. refusing to pay or disowning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repudiative designates rejecting emphatically; e.g. refusing to pay or disowning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting emphatically; e.g. refusing to pay or disowning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejecting emphatically; e.g. refusing to pay or disowning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repudiative designates rejecting emphatically; e.g. refusing to pay or disowning."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # voltmeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter that measures the potential difference between two points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter that measures the potential difference between two points.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Construction of a Voltmeter 64 5."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A simple modification makes any of these instruments into a voltmeter."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The voltmeter is therefore the same as the ammeter, except that its dial is marked for volts instead of for amperes, and it has to be provided with the resistance coil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter that measures the potential difference between two points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter that measures the potential difference between two points.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Construction of a Voltmeter 64 5."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A simple modification makes any of these instruments into a voltmeter."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The voltmeter is therefore the same as the ammeter, except that its dial is marked for volts instead of for amperes, and it has to be provided with the resistance coil."*

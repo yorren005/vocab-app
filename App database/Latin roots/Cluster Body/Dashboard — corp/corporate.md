@@ -5,15 +5,6 @@ status: unread
 ---
 # corporate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to a corporation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing or existing in bodily form; - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Master Corporate Bardolph, stand my friend; and here’s four Harry ten shillings in French crowns for you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They answer in a joint and corporate voice That now they are at fall, want treasure, cannot Do what they would, are sorry."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics in the broad sense includes the problems of individual economy, of domestic economy, of corporate economy, and of national economy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to a corporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing or existing in bodily form; - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Master Corporate Bardolph, stand my friend; and here’s four Harry ten shillings in French crowns for you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They answer in a joint and corporate voice That now they are at fall, want treasure, cannot Do what they would, are sorry."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics in the broad sense includes the problems of individual economy, of domestic economy, of corporate economy, and of national economy."*

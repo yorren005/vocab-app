@@ -5,15 +5,6 @@ status: unread
 ---
 # extortion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exorbitant charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unjust exaction (as by the misuse of authority).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, that goodness Of gleaning all the land’s wealth into one, Into your own hands, Cardinal, by extortion; The goodness of your intercepted packets You writ to the Pope against the King."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopoly price is a bad price to the one who pays it, not only because it is a high price but because it bears the character of personal extortion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our position is unchanged: the fees that they demand are without justification, an extortion to which we cannot submit." Throughout the discussions, the Strategic Concepts Computer flashed a continuing display."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exorbitant charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unjust exaction (as by the misuse of authority).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, that goodness Of gleaning all the land’s wealth into one, Into your own hands, Cardinal, by extortion; The goodness of your intercepted packets You writ to the Pope against the King."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopoly price is a bad price to the one who pays it, not only because it is a high price but because it bears the character of personal extortion."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our position is unchanged: the fees that they demand are without justification, an extortion to which we cannot submit." Throughout the discussions, the Strategic Concepts Computer flashed a continuing display."*

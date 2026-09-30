@@ -5,15 +5,6 @@ status: unread
 ---
 # debauchery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild gathering involving excessive drinking and promiscuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wild gathering involving excessive drinking and promiscuity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I tried dissipation—never debauchery: that I hated, and hate."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"See Social Life and Glee sit down, All joyous and unthinking, Till, quite transmugrified, they’re grown Debauchery and Drinking: O would they stay to calculate Th’ eternal consequences; Or your more dreaded hell to state, Damnation of expenses!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Her father overworked his conscience, treating a question of taste as a moral issue, and drawing no line between great and small--like the man who gave a penny to a beggar and implored him not to spend it on debauchery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild gathering involving excessive drinking and promiscuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wild gathering involving excessive drinking and promiscuity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I tried dissipation—never debauchery: that I hated, and hate."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"See Social Life and Glee sit down, All joyous and unthinking, Till, quite transmugrified, they’re grown Debauchery and Drinking: O would they stay to calculate Th’ eternal consequences; Or your more dreaded hell to state, Damnation of expenses!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Her father overworked his conscience, treating a question of taste as a moral issue, and drawing no line between great and small--like the man who gave a penny to a beggar and implored him not to spend it on debauchery."*

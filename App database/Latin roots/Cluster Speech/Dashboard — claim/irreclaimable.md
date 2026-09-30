@@ -5,15 +5,6 @@ status: unread
 ---
 # irreclaimable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insusceptible of reform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His wife was evidently, and must always have been, a quite irreclaimable fool; and unless he had shot her or himself there was no way out of it for a man of sense and spirit but the ironic."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I could not blame you if now you thought her utterly irreclaimable." "No, oh, no!" she answered earnestly."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It is rather singular that the title should have been bestowed upon them exclusively, inasmuch as the natives of all this group are irreclaimable cannibals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insusceptible of reform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His wife was evidently, and must always have been, a quite irreclaimable fool; and unless he had shot her or himself there was no way out of it for a man of sense and spirit but the ironic."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I could not blame you if now you thought her utterly irreclaimable." "No, oh, no!" she answered earnestly."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It is rather singular that the title should have been bestowed upon them exclusively, inasmuch as the natives of all this group are irreclaimable cannibals."*

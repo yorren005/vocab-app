@@ -5,15 +5,6 @@ status: unread
 ---
 # pagan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who follows a polytheistic or pre-christian religion (not a christian or muslim or jew).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a pagan rascal is this, an infidel!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, Their clothes are after such a pagan cut to’t, That, sure, they’ve worn out Christendom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adieu! tears exhibit my tongue, most beautiful pagan, most sweet Jew!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who follows a polytheistic or pre-christian religion (not a christian or muslim or jew).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a pagan rascal is this, an infidel!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, Their clothes are after such a pagan cut to’t, That, sure, they’ve worn out Christendom."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adieu! tears exhibit my tongue, most beautiful pagan, most sweet Jew!"*

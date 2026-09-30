@@ -5,15 +5,6 @@ status: unread
 ---
 # fort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortified military post where troops are stationed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fortified defensive structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ALICE. _C’est bien dit, madame; il est fort bon anglais._ KATHARINE. _Dites-moi l’anglais pour le bras._ ALICE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under that colour am I come to scale Thy never-conquered fort; the fault is thine, For those thine eyes betray thee unto mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let it not be called impiety, If in this blemished fort I make some hole Through which I may convey this troubled soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortified military post where troops are stationed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fortified defensive structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ALICE. _C’est bien dit, madame; il est fort bon anglais._ KATHARINE. _Dites-moi l’anglais pour le bras._ ALICE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under that colour am I come to scale Thy never-conquered fort; the fault is thine, For those thine eyes betray thee unto mine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let it not be called impiety, If in this blemished fort I make some hole Through which I may convey this troubled soul."*

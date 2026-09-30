@@ -5,13 +5,6 @@ status: unread
 ---
 # departmentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dependent on a department.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dependent on a department.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, departmentally designates dependent on a department."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dependent on a department.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dependent on a department.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, departmentally designates dependent on a department."*

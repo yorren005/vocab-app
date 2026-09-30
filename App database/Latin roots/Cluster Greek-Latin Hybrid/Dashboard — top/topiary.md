@@ -5,13 +5,6 @@ status: unread
 ---
 # topiary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garden having shrubs clipped or trimmed into decorative shapes especially of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making decorative shapes by trimming shrubs or trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topiary designates a garden having shrubs clipped or trimmed into decorative shapes especially of animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garden having shrubs clipped or trimmed into decorative shapes especially of animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making decorative shapes by trimming shrubs or trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topiary designates a garden having shrubs clipped or trimmed into decorative shapes especially of animals."*

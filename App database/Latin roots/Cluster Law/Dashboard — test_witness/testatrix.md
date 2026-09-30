@@ -5,13 +5,6 @@ status: unread
 ---
 # testatrix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female testator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female testator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"In a cause respecting a will, evidence was given to prove the testatrix, an apothecary’s widow, a lunatic; amongst other things, it was deposed, that she had swept a quantity of pots, lotions, potions, &c. into the street as rubbish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female testator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female testator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"In a cause respecting a will, evidence was given to prove the testatrix, an apothecary’s widow, a lunatic; amongst other things, it was deposed, that she had swept a quantity of pots, lotions, potions, &c. into the street as rubbish."*

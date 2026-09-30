@@ -5,15 +5,6 @@ status: unread
 ---
 # starlit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lighted only by stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lighted only by stars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had suffered till he could suffer no more, and tonight in the starlit garden he, suffered still, without hope, or rebellion, or defence."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He walked a long while on the Lowick road away from the town, glad of the starlit darkness when it came."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Must you, Eve?" "Yes," I answered, with a gulp that went all the way down to my feminine toes, as I glanced across the road at the grim, dark old pile that towered against the starlit sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lighted only by stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lighted only by stars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He had suffered till he could suffer no more, and tonight in the starlit garden he, suffered still, without hope, or rebellion, or defence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He walked a long while on the Lowick road away from the town, glad of the starlit darkness when it came."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Must you, Eve?" "Yes," I answered, with a gulp that went all the way down to my feminine toes, as I glanced across the road at the grim, dark old pile that towered against the starlit sky."*

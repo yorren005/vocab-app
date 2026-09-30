@@ -5,13 +5,6 @@ status: unread
 ---
 # cataplasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplasia designates (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplasia designates (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form."*

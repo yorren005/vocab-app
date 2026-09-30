@@ -5,15 +5,6 @@ status: unread
 ---
 # deacon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate officer in a Christian church: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Roman Catholic, Anglican, or Eastern Orthodox cleric ranking next below a priest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The wife of Deacon W. was sinking rapidly with pneumonia."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A poor man, some of whose family were sick, lived near Deacon Murray, (referred to in the tract, 'Worth of a Dollar,') and occasionally called at his house for a supply of milk."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Murray rose to wait upon him, but the deacon said to her, 'Wait till after breakfast.' She did so, and meanwhile the deacon made some inquiries of the man about his family and circumstances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate officer in a Christian church: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Roman Catholic, Anglican, or Eastern Orthodox cleric ranking next below a priest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The wife of Deacon W. was sinking rapidly with pneumonia."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A poor man, some of whose family were sick, lived near Deacon Murray, (referred to in the tract, 'Worth of a Dollar,') and occasionally called at his house for a supply of milk."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Murray rose to wait upon him, but the deacon said to her, 'Wait till after breakfast.' She did so, and meanwhile the deacon made some inquiries of the man about his family and circumstances."*

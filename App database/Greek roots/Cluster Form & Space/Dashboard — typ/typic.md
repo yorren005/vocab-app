@@ -5,13 +5,6 @@ status: unread
 ---
 # typic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or serving as an illustration of a type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or serving as an illustration of a type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typic designates being or serving as an illustration of a type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or serving as an illustration of a type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or serving as an illustration of a type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typic designates being or serving as an illustration of a type."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # convention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large formal assembly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something regarded as a normative example.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why not be revenged on society by shaping his future domesticities loosely, instead of kissing the pedagogic rod of convention in this ensnaring manner?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At a Sabbath-school convention in Massachusetts, a speaker stated that a friend of his, during an interview with Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was unhampered by rule or convention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large formal assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something regarded as a normative example.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why not be revenged on society by shaping his future domesticities loosely, instead of kissing the pedagogic rod of convention in this ensnaring manner?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"At a Sabbath-school convention in Massachusetts, a speaker stated that a friend of his, during an interview with Mr."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was unhampered by rule or convention."*

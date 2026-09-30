@@ -5,13 +5,6 @@ status: unread
 ---
 # subvent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guarantee financial support of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarantee financial support of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subvent designates guarantee financial support of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guarantee financial support of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarantee financial support of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subvent designates guarantee financial support of."*

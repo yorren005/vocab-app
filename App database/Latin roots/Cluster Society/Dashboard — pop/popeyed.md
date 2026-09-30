@@ -5,13 +5,6 @@ status: unread
 ---
 # popeyed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With eyes or mouth open in surprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having bulging eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, popeyed designates with eyes or mouth open in surprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With eyes or mouth open in surprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having bulging eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, popeyed designates with eyes or mouth open in surprise."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # campaigning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run, stand, or compete for an office or a position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When campaigning, Rostóv allowed himself the indulgence of riding not a regimental but a Cossack horse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run, stand, or compete for an office or a position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When campaigning, Rostóv allowed himself the indulgence of riding not a regimental but a Cossack horse."*

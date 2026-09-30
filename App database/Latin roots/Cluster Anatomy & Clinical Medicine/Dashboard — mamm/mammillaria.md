@@ -5,13 +5,6 @@ status: unread
 ---
 # mammillaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cactus of the genus mammillaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any cactus of the genus mammillaria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammillaria designates any cactus of the genus mammillaria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cactus of the genus mammillaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any cactus of the genus mammillaria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammillaria designates any cactus of the genus mammillaria."*

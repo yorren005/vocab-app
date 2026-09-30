@@ -5,13 +5,6 @@ status: unread
 ---
 # deoxygenate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove oxygen from (water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove oxygen from (water).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deoxygenate designates remove oxygen from (water)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove oxygen from (water).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove oxygen from (water).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deoxygenate designates remove oxygen from (water)."*

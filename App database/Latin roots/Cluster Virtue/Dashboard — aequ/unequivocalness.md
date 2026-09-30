@@ -5,13 +5,6 @@ status: unread
 ---
 # unequivocalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity achieved by the avoidance of ambiguity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity achieved by the avoidance of ambiguity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unequivocalness designates clarity achieved by the avoidance of ambiguity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity achieved by the avoidance of ambiguity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity achieved by the avoidance of ambiguity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unequivocalness designates clarity achieved by the avoidance of ambiguity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # avenue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of approach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wide street or thoroughfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Presently we lost the light, presently saw it, presently lost it, presently saw it, and turned into an avenue of trees and cantered up towards where it was beaming brightly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And now the moon rises to separate them, and to glimmer here and there in horizontal lines behind their stems, and to make the avenue a pavement of light among high cathedral arches fantastically broken."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Early in the afternoon the subdued sound of his heavy military trot is heard on the turf in the avenue as he rides on with imaginary clank and jingle of accoutrements under the old elm-trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of approach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wide street or thoroughfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Presently we lost the light, presently saw it, presently lost it, presently saw it, and turned into an avenue of trees and cantered up towards where it was beaming brightly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And now the moon rises to separate them, and to glimmer here and there in horizontal lines behind their stems, and to make the avenue a pavement of light among high cathedral arches fantastically broken."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Early in the afternoon the subdued sound of his heavy military trot is heard on the turf in the avenue as he rides on with imaginary clank and jingle of accoutrements under the old elm-trees."*

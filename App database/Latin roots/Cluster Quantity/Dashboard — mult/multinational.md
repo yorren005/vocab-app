@@ -5,13 +5,6 @@ status: unread
 ---
 # multinational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or operating in several nations or nationalities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or operating in several nations or nationalities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He notes that the struggle between rich and poor nations and multinational corporations over minerals in the vast oceanic seabed is likely to be heated in the years to come, especially as reserves of land-based minerals approach exhaustion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or operating in several nations or nationalities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or operating in several nations or nationalities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He notes that the struggle between rich and poor nations and multinational corporations over minerals in the vast oceanic seabed is likely to be heated in the years to come, especially as reserves of land-based minerals approach exhaustion."*

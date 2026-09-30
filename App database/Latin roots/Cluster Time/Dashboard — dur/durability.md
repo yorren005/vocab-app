@@ -5,15 +5,6 @@ status: unread
 ---
 # durability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Permanence by virtue of the power to resist stress or force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permanence by virtue of the power to resist stress or force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Durability; that is, the money-good must be easy to keep without much loss in amount or in quality, perhaps for long periods, until it can be passed on in trade."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The first solid consolation which Fanny received for the evils of home, the first which her judgment could entirely approve, and which gave any promise of durability, was in a better knowledge of Susan, and a hope of being of service to her."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And as to durability, let the cloak of Kalaalaneo, now several centuries old, attest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permanence by virtue of the power to resist stress or force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permanence by virtue of the power to resist stress or force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Durability; that is, the money-good must be easy to keep without much loss in amount or in quality, perhaps for long periods, until it can be passed on in trade."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The first solid consolation which Fanny received for the evils of home, the first which her judgment could entirely approve, and which gave any promise of durability, was in a better knowledge of Susan, and a hope of being of service to her."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And as to durability, let the cloak of Kalaalaneo, now several centuries old, attest."*

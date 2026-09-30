@@ -5,13 +5,6 @@ status: unread
 ---
 # atrial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrial designates of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrial designates of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)."*

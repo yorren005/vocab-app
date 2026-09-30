@@ -5,15 +5,6 @@ status: unread
 ---
 # disc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something with a round shape resembling a flat circular plate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through a partly-opened door the noise of a scrubbing-brush led up to the charwoman, Maryann Money, a person who for a face had a circular disc, furrowed less by age than by long gazes of perplexity at distant objects."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Before the disc is thrown it is set on fire, the wand is swung to and fro, and the impetus thus communicated to the disc is augmented by dashing the rod sharply against a sloping board."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The burning disc is thus thrown off, and mounting high into the air, describes a long fiery curve before it reaches the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something with a round shape resembling a flat circular plate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through a partly-opened door the noise of a scrubbing-brush led up to the charwoman, Maryann Money, a person who for a face had a circular disc, furrowed less by age than by long gazes of perplexity at distant objects."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Before the disc is thrown it is set on fire, the wand is swung to and fro, and the impetus thus communicated to the disc is augmented by dashing the rod sharply against a sloping board."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The burning disc is thus thrown off, and mounting high into the air, describes a long fiery curve before it reaches the ground."*

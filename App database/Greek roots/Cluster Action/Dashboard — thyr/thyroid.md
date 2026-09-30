@@ -5,13 +5,6 @@ status: unread
 ---
 # thyroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation of the thyroid gland of various domestic animals used in treating thyroid disorders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroid designates a large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation of the thyroid gland of various domestic animals used in treating thyroid disorders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroid designates a large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine."*

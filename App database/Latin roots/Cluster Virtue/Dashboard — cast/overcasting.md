@@ -5,13 +5,6 @@ status: unread
 ---
 # overcasting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long whipstitch or overhand stitch overlying an edge to prevent raveling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make overcast or cloudy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It was bright and clear still, though the morning was overcasting a little, as we passed through the meadows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long whipstitch or overhand stitch overlying an edge to prevent raveling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make overcast or cloudy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It was bright and clear still, though the morning was overcasting a little, as we passed through the meadows."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # saltwort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing strong-smelling coastal shrub of warm parts of the new world having unisexual flowers in conelike spikes and thick succulent leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltwort designates bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing strong-smelling coastal shrub of warm parts of the new world having unisexual flowers in conelike spikes and thick succulent leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltwort designates bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash."*

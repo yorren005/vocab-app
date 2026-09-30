@@ -5,15 +5,6 @@ status: unread
 ---
 # psychology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of mind and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental or behavioral characteristics of an individual or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An incorrigible is a terrible human being—at least such is the connotation of “incorrigible” in prison psychology."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus he turned the tenets and jargon of psychology back on me."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His theme is sin; his emphasis all falls on sin; but his psychology of sin is insufficient, it is not deep enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of mind and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental or behavioral characteristics of an individual or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An incorrigible is a terrible human being—at least such is the connotation of “incorrigible” in prison psychology."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus he turned the tenets and jargon of psychology back on me."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"His theme is sin; his emphasis all falls on sin; but his psychology of sin is insufficient, it is not deep enough."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # aeronaut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who operates or travels in an airship or balloon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who operates or travels in an airship or balloon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The medicine man near the hour of closing addressed the audience, saying: "Gentlemen, it pains me to state that our aeronaut is confined to his bed and will be unable to-night to make his customary balloon ascension and descent in the parachute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who operates or travels in an airship or balloon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who operates or travels in an airship or balloon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The medicine man near the hour of closing addressed the audience, saying: "Gentlemen, it pains me to state that our aeronaut is confined to his bed and will be unable to-night to make his customary balloon ascension and descent in the parachute."*

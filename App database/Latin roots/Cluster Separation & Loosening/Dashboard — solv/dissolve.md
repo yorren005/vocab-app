@@ -5,15 +5,6 @@ status: unread
 ---
 # dissolve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (film) a gradual transition from one scene to the next; the next scene is gradually superimposed as the former scene fades out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, dear, if I be so, From my cold heart let heaven engender hail And poison it in the source, and the first stone Drop in my neck; as it determines, so Dissolve my life!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dissolve, thick cloud, and rain, that I may say The gods themselves do weep!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek, seek for him; Lest his ungovern’d rage dissolve the life That wants the means to lead it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (film) a gradual transition from one scene to the next; the next scene is gradually superimposed as the former scene fades out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, dear, if I be so, From my cold heart let heaven engender hail And poison it in the source, and the first stone Drop in my neck; as it determines, so Dissolve my life!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dissolve, thick cloud, and rain, that I may say The gods themselves do weep!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek, seek for him; Lest his ungovern’d rage dissolve the life That wants the means to lead it."*

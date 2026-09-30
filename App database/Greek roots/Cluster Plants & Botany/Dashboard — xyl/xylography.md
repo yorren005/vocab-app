@@ -5,14 +5,6 @@ status: unread
 ---
 # xylography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making engravings on wood especially for printing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of making engravings on wood especially for printing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Xylography was also practiced in China long before Europe knew the art."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making engravings on wood especially for printing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of making engravings on wood especially for printing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Xylography was also practiced in China long before Europe knew the art."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*

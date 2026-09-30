@@ -5,15 +5,6 @@ status: unread
 ---
 # nocturne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pensive lyrical piece of music (especially for the piano).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pensive lyrical piece of music (especially for the piano).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Play me a nocturne, Dorian, and, as you play, tell me, in a low voice, how you have kept your youth."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Go back and give me the nocturne over again."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dimmler, please play my favorite nocturne by Field,” came the old countess’ voice from the drawing room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pensive lyrical piece of music (especially for the piano).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pensive lyrical piece of music (especially for the piano).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Play me a nocturne, Dorian, and, as you play, tell me, in a low voice, how you have kept your youth."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Go back and give me the nocturne over again."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dimmler, please play my favorite nocturne by Field,” came the old countess’ voice from the drawing room."*

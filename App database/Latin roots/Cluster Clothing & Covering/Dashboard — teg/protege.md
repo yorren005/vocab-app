@@ -5,15 +5,6 @@ status: unread
 ---
 # protege
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives support and protection from an influential patron who furthers the protege's career.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who receives support and protection from an influential patron who furthers the protege's career.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am quite pleased with your protege,” she said to Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My protege?—dear me!—who is that?” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives support and protection from an influential patron who furthers the protege's career.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who receives support and protection from an influential patron who furthers the protege's career.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I am quite pleased with your protege,” she said to Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"My protege?—dear me!—who is that?” said Mr."*

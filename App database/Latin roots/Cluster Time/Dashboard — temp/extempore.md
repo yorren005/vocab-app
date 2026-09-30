@@ -5,15 +5,6 @@ status: unread
 ---
 # extempore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With little or no preparation or forethought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without prior preparation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we have a play extempore?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O villain, thou stolest a cup of sack eighteen years ago, and wert taken with the manner, and ever since thou hast blushed extempore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may do it extempore, for it is nothing but roaring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With little or no preparation or forethought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without prior preparation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we have a play extempore?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O villain, thou stolest a cup of sack eighteen years ago, and wert taken with the manner, and ever since thou hast blushed extempore."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may do it extempore, for it is nothing but roaring."*

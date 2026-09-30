@@ -5,15 +5,6 @@ status: unread
 ---
 # placed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a certain place or abstract location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place somebody in a particular situation or location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution’s placed, and I have nothing Of woman in me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know you on which side They have placed their men of trust?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a certain place or abstract location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place somebody in a particular situation or location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution’s placed, and I have nothing Of woman in me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know you on which side They have placed their men of trust?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # debater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in debate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The same spirit and temper appeared in the speech on the Habeas Corpus Suspension (Ireland) Bill, which he delivered on the 17th of February; but his full strength as a debater was first manifested during the discussion on Mr."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"At the sign of the Green Man in the village he was known as a fluent orator and keen political debater."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Senate, and had already acquired a high reputation as an able and fluent debater."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in debate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The same spirit and temper appeared in the speech on the Habeas Corpus Suspension (Ireland) Bill, which he delivered on the 17th of February; but his full strength as a debater was first manifested during the discussion on Mr."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"At the sign of the Green Man in the village he was known as a fluent orator and keen political debater."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Senate, and had already acquired a high reputation as an able and fluent debater."*

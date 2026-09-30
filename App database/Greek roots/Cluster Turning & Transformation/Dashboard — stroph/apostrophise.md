@@ -5,15 +5,6 @@ status: unread
 ---
 # apostrophise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use an apostrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use an apostrophe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"But it’s not worth your while to apostrophise me, or the air, about it; what you want to do, you do."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How provoking!” exclaimed Miss Ingram: “you tiresome monkey!” (apostrophising Adèle), “who perched you up in the window to give false intelligence?” and she cast on me an angry glance, as if I were in fault."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, apostrophising the fowl in the dish, “when you was a young fledgling, what was in store for you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use an apostrophe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use an apostrophe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"But it’s not worth your while to apostrophise me, or the air, about it; what you want to do, you do."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How provoking!” exclaimed Miss Ingram: “you tiresome monkey!” (apostrophising Adèle), “who perched you up in the window to give false intelligence?” and she cast on me an angry glance, as if I were in fault."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, apostrophising the fowl in the dish, “when you was a young fledgling, what was in store for you."*

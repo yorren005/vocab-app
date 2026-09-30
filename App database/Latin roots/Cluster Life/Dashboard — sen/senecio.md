@@ -5,14 +5,6 @@ status: unread
 ---
 # senecio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enormous and diverse cosmopolitan genus of trees and shrubs and vines and herbs including many weeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enormous and diverse cosmopolitan genus of trees and shrubs and vines and herbs including many weeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Var. _d._ _Jacobæa_, Grev.; pustular, soon becoming agglomerated, numerous, depressed; peridia splitting into short, brittle, yellowish-white teeth.—On leaves of _Senecio Jacobæa_ and _Sonchus arvensis_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"RAGWORT BRAND; spots pale; sori roundish, depressed, often confluent; spores oblong, very variable; peduncles short.—On leaves of Ragwort, _Senecio Jacobæa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enormous and diverse cosmopolitan genus of trees and shrubs and vines and herbs including many weeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enormous and diverse cosmopolitan genus of trees and shrubs and vines and herbs including many weeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Var. _d._ _Jacobæa_, Grev.; pustular, soon becoming agglomerated, numerous, depressed; peridia splitting into short, brittle, yellowish-white teeth.—On leaves of _Senecio Jacobæa_ and _Sonchus arvensis_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"RAGWORT BRAND; spots pale; sori roundish, depressed, often confluent; spores oblong, very variable; peduncles short.—On leaves of Ragwort, _Senecio Jacobæa_."*

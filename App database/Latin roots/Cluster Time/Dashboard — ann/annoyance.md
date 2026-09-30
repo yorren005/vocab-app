@@ -5,15 +5,6 @@ status: unread
 ---
 # annoyance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological state of being irritated or annoyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anger produced by some annoying irritation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, that there were but a mote in yours, A grain, a dust, a gnat, a wandering hair, Any annoyance in that precious sense!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look after her; Remove from her the means of all annoyance, And still keep eyes upon her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological state of being irritated or annoyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anger produced by some annoying irritation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, that there were but a mote in yours, A grain, a dust, a gnat, a wandering hair, Any annoyance in that precious sense!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look after her; Remove from her the means of all annoyance, And still keep eyes upon her."*

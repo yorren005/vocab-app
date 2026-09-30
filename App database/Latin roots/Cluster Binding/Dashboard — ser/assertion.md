@@ -5,15 +5,6 @@ status: unread
 ---
 # assertion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of affirming or asserting or stating something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well,” observed my guardian, half pleasantly, half seriously, “that’s a great occasion and will give my fair cousin some necessary business to transact in assertion of her independence, and will make London a more convenient place for all of us."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It would not be fair; and yet you ought to have proof, for what is all this but assertion, and you shall have proof.” “Indeed, my dear Mrs Smith, I want none,” cried Anne."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am all right now.” As if, however, to falsify this assertion, his legs seemed to give way, and he suddenly sat down to save himself from falling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of affirming or asserting or stating something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Well,” observed my guardian, half pleasantly, half seriously, “that’s a great occasion and will give my fair cousin some necessary business to transact in assertion of her independence, and will make London a more convenient place for all of us."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It would not be fair; and yet you ought to have proof, for what is all this but assertion, and you shall have proof.” “Indeed, my dear Mrs Smith, I want none,” cried Anne."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am all right now.” As if, however, to falsify this assertion, his legs seemed to give way, and he suddenly sat down to save himself from falling."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preparatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding and preparing for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and preparing for something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess!” he said in a preparatory tone, after a silence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had nothing to do with preparatory labour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were soon in full progress, after a preparatory hitch or two, which rejoiced the hearts of those who hated machinery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding and preparing for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and preparing for something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess!” he said in a preparatory tone, after a silence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had nothing to do with preparatory labour."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were soon in full progress, after a preparatory hitch or two, which rejoiced the hearts of those who hated machinery."*

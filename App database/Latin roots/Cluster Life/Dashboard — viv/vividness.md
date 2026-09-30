@@ -5,15 +5,6 @@ status: unread
 ---
 # vividness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interest and variety and intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromatic purity: freedom from dilution with white and hence vivid in hue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But the question brought out with the vividness of a flash of lightning, and as suddenly, all that had been obscured by my course of life, and, hardly knowing what I did, I spoke to him of the power that might reside in prayer."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"There is a flow of vigorous language, vividness of imagination, and, above all, much conscientious reasoning and a passion for hard facts."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It is impossible to overstate the vividness of these images, and yet I was so intent, all the time, upon him himself,—who would not be intent on the tiger crouching to spring!—that I knew of the slightest action of his fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interest and variety and intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromatic purity: freedom from dilution with white and hence vivid in hue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But the question brought out with the vividness of a flash of lightning, and as suddenly, all that had been obscured by my course of life, and, hardly knowing what I did, I spoke to him of the power that might reside in prayer."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"There is a flow of vigorous language, vividness of imagination, and, above all, much conscientious reasoning and a passion for hard facts."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It is impossible to overstate the vividness of these images, and yet I was so intent, all the time, upon him himself,—who would not be intent on the tiger crouching to spring!—that I knew of the slightest action of his fingers."*

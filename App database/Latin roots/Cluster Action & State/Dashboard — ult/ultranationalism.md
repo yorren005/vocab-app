@@ -5,13 +5,6 @@ status: unread
 ---
 # ultranationalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatical patriotism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanatical patriotism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultranationalism designates fanatical patriotism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatical patriotism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanatical patriotism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultranationalism designates fanatical patriotism."*

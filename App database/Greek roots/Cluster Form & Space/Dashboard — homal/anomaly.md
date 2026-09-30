@@ -5,15 +5,6 @@ status: unread
 ---
 # anomaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something different, abnormal, peculiar, or not easily classified : something anomalous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from the common rule : irregularity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had been made to break an accepted social law, but no law known to the environment in which she fancied herself such an anomaly."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Was there a corresponding anomaly in his temperament?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"It is rather harder for a clergyman: Farebrother seems to be an anomaly.” This last thought brought back the Vincys and all the pictures of the evening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something different, abnormal, peculiar, or not easily classified : something anomalous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from the common rule : irregularity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had been made to break an accepted social law, but no law known to the environment in which she fancied herself such an anomaly."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Was there a corresponding anomaly in his temperament?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"It is rather harder for a clergyman: Farebrother seems to be an anomaly.” This last thought brought back the Vincys and all the pictures of the evening."*

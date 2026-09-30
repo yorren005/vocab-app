@@ -5,14 +5,6 @@ status: unread
 ---
 # systematization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic organization; the act of organizing something according to a system or a rationale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic organization; the act of organizing something according to a system or a rationale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My object here is simply to project the draught of a systematization of cetology."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"My object here is simply to project the draught of a systematization of cetology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic organization; the act of organizing something according to a system or a rationale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic organization; the act of organizing something according to a system or a rationale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My object here is simply to project the draught of a systematization of cetology."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"My object here is simply to project the draught of a systematization of cetology."*

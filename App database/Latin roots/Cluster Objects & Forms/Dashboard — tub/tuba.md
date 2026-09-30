@@ -5,13 +5,6 @@ status: unread
 ---
 # tuba
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest brass wind instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest brass wind instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuba designates the lowest brass wind instrument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest brass wind instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest brass wind instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuba designates the lowest brass wind instrument."*

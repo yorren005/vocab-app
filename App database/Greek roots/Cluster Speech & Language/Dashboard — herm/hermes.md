@@ -5,15 +5,6 @@ status: unread
 ---
 # hermes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) messenger and herald of the gods; god of commerce and cunning and invention and theft; identified with roman mercury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) messenger and herald of the gods; god of commerce and cunning and invention and theft; identified with roman mercury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He trots the air; the earth sings when he touches it; the basest horn of his hoof is more musical than the pipe of Hermes."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes,” he continued, “I am less to you than your ivory Hermes or your silver Faun."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thou knowest as well as I, though Hermes never taught thee, that, though every dairy be a house, every house is not a dairy.” To this speech, though she understood only a part of it, she replied by repeating her assurances that she had none to give."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) messenger and herald of the gods; god of commerce and cunning and invention and theft; identified with roman mercury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) messenger and herald of the gods; god of commerce and cunning and invention and theft; identified with roman mercury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He trots the air; the earth sings when he touches it; the basest horn of his hoof is more musical than the pipe of Hermes."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes,” he continued, “I am less to you than your ivory Hermes or your silver Faun."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thou knowest as well as I, though Hermes never taught thee, that, though every dairy be a house, every house is not a dairy.” To this speech, though she understood only a part of it, she replied by repeating her assurances that she had none to give."*

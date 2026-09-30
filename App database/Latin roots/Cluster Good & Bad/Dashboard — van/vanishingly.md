@@ -5,13 +5,6 @@ status: unread
 ---
 # vanishingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to disappear or approach zero.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to disappear or approach zero.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanishingly designates so as to disappear or approach zero."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to disappear or approach zero.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to disappear or approach zero.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanishingly designates so as to disappear or approach zero."*

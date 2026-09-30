@@ -5,14 +5,6 @@ status: unread
 ---
 # vermouth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I don’t want to see Dorian tied to some vile creature, who might degrade his nature and ruin his intellect.” “Oh, she is better than good—she is beautiful,” murmured Lord Henry, sipping a glass of vermouth and orange-bitters."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"As we sat over our vermouths he glorified the Company’s business, and by and by I expressed casually my surprise at him not going out there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I don’t want to see Dorian tied to some vile creature, who might degrade his nature and ruin his intellect.” “Oh, she is better than good—she is beautiful,” murmured Lord Henry, sipping a glass of vermouth and orange-bitters."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"As we sat over our vermouths he glorified the Company’s business, and by and by I expressed casually my surprise at him not going out there."*

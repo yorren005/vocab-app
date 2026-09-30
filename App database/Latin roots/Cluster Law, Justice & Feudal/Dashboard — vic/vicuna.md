@@ -5,13 +5,6 @@ status: unread
 ---
 # vicuna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wool of the vicuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft wool fabric made from the fleece of the vicuna.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicuna designates the wool of the vicuna."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wool of the vicuna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft wool fabric made from the fleece of the vicuna.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vicuna designates the wool of the vicuna."*

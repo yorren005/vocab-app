@@ -5,13 +5,6 @@ status: unread
 ---
 # anachronistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Retained anachronistic spelling and grammar as printed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Retained anachronistic spelling and grammar as printed."*

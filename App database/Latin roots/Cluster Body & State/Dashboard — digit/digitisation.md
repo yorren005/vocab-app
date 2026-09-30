@@ -5,13 +5,6 @@ status: unread
 ---
 # digitisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion of analog information into digital information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conversion of analog information into digital information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitisation designates conversion of analog information into digital information."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion of analog information into digital information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conversion of analog information into digital information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitisation designates conversion of analog information into digital information."*

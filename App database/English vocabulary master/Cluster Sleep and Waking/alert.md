@@ -5,20 +5,6 @@ status: unread
 ---
 # alert
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Alarm
-> 2. **Nuance / Usage**: Active, brisk
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a alert presence*) or predicatively (*remained alert*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"was resolute, calm, and animatedly alert, as never before."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"senses keenly on the alert once more."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"constantly upon the alert by the circumstances of his situation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Fully awake, watchful, and quick to perceive and act upon any sign of danger, change, or opportunity.
+> 2. **Nuance / Usage**: As a noun or verb, an urgent warning of a threat or a state of heightened readiness (*on the alert*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a alert presence*) or predicatively (*remained alert*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"His expression was resolute, calm, and animatedly **alert**, as never before."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes leaned forward in his seat, all his senses keenly on the **alert** once more."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The outlaw was kept constantly upon the **alert** by the perilous circumstances of his situation."*

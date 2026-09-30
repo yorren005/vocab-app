@@ -5,15 +5,6 @@ status: unread
 ---
 # assiduity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great and constant diligence and attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great and constant diligence and attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Now, mine continually rove away; when I should be listening to Miss Scatcherd, and collecting all she says with assiduity, often I lose the very sound of her voice; I fall into a sort of dream."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They are mounting up, Handel,” Herbert would say; “upon my life, they are mounting up.” “Be firm, Herbert,” I would retort, plying my own pen with great assiduity."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Whereas the Boar had cultivated my good opinion with warm assiduity when I was coming into property, the Boar was exceedingly cool on the subject now that I was going out of property."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great and constant diligence and attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great and constant diligence and attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Now, mine continually rove away; when I should be listening to Miss Scatcherd, and collecting all she says with assiduity, often I lose the very sound of her voice; I fall into a sort of dream."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"They are mounting up, Handel,” Herbert would say; “upon my life, they are mounting up.” “Be firm, Herbert,” I would retort, plying my own pen with great assiduity."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Whereas the Boar had cultivated my good opinion with warm assiduity when I was coming into property, the Boar was exceedingly cool on the subject now that I was going out of property."*

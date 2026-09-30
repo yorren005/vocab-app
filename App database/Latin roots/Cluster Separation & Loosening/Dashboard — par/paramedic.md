@@ -5,13 +5,6 @@ status: unread
 ---
 # paramedic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained to assist medical professionals and to give emergency medical treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person trained to assist medical professionals and to give emergency medical treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained to assist medical professionals and to give emergency medical treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person trained to assist medical professionals and to give emergency medical treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*

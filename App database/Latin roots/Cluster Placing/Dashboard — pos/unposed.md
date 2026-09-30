@@ -5,13 +5,6 @@ status: unread
 ---
 # unposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged for pictorial purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged for pictorial purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unposed designates not arranged for pictorial purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged for pictorial purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged for pictorial purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unposed designates not arranged for pictorial purposes."*

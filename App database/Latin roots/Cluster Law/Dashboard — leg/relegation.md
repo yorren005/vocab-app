@@ -5,13 +5,6 @@ status: unread
 ---
 # relegation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorizing subordinates to make certain decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of assigning (someone or something) to a particular class or category.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He objected to the dissociation of school and home life--to that relegation of domestic interests and duties to the background, which large and highly-organized schools, and teachers much above the home level, must necessarily involve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorizing subordinates to make certain decisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of assigning (someone or something) to a particular class or category.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He objected to the dissociation of school and home life--to that relegation of domestic interests and duties to the background, which large and highly-organized schools, and teachers much above the home level, must necessarily involve."*

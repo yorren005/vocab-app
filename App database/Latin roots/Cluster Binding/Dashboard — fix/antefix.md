@@ -5,13 +5,6 @@ status: unread
 ---
 # antefix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carved ornament at the eaves of a tile roof concealing the joints between tiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carved ornament at the eaves of a tile roof concealing the joints between tiles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antefix designates carved ornament at the eaves of a tile roof concealing the joints between tiles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carved ornament at the eaves of a tile roof concealing the joints between tiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carved ornament at the eaves of a tile roof concealing the joints between tiles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antefix designates carved ornament at the eaves of a tile roof concealing the joints between tiles."*

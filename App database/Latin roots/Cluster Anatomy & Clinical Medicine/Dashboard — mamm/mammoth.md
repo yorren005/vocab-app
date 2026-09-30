@@ -5,15 +5,6 @@ status: unread
 ---
 # mammoth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous extinct elephants widely distributed in the pleistocene; extremely large with hairy coats and long upcurved tusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So exceedingly large or extensive as to suggest a giant or mammoth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have scratched the reindeer’s semblance and the semblance of the hairy mammoth on ivory tusks gotten of the chase and on the rock walls of cave shelters when the winter storms moaned outside."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was for her, although I did not know it, that I put the stake in the pit for old Sabre-Tooth, tamed the horse, slew the mammoth, and herded my reindeer south in advance of the ice-sheet."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As all know, this fair which was about three months in course of preparation, was on a mammoth scale, and was a great success, and this result was no doubt greatly owing to the presence of that quality, which like every born leader, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous extinct elephants widely distributed in the pleistocene; extremely large with hairy coats and long upcurved tusks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So exceedingly large or extensive as to suggest a giant or mammoth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have scratched the reindeer’s semblance and the semblance of the hairy mammoth on ivory tusks gotten of the chase and on the rock walls of cave shelters when the winter storms moaned outside."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was for her, although I did not know it, that I put the stake in the pit for old Sabre-Tooth, tamed the horse, slew the mammoth, and herded my reindeer south in advance of the ice-sheet."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As all know, this fair which was about three months in course of preparation, was on a mammoth scale, and was a great success, and this result was no doubt greatly owing to the presence of that quality, which like every born leader, Mrs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unambitious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little desire for success or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little desire for success or achievement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are the most simple-mannered people alive, and quite unambitious."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A wife, a modest young lady, with the purely appreciative, unambitious abilities of her sex, is sure to think her husband’s mind powerful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little desire for success or achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little desire for success or achievement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are the most simple-mannered people alive, and quite unambitious."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A wife, a modest young lady, with the purely appreciative, unambitious abilities of her sex, is sure to think her husband’s mind powerful."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others."*

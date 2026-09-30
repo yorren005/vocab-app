@@ -5,15 +5,6 @@ status: unread
 ---
 # tempestuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by violent emotions or behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the elements) as if showing violent anger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On a ship at sea; a tempestuous noise of thunder and lightning heard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On a ship at sea; a tempestuous noise of thunder and lightning heard."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was thrown against my wife in his tempestuous course, and but that she was so light and elastic in her tread, gliding out straight and softly like one of the saints, I think he must have thrown her down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by violent emotions or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the elements) as if showing violent anger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On a ship at sea; a tempestuous noise of thunder and lightning heard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On a ship at sea; a tempestuous noise of thunder and lightning heard."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was thrown against my wife in his tempestuous course, and but that she was so light and elastic in her tread, gliding out straight and softly like one of the saints, I think he must have thrown her down."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antennaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antennaria designates small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antennaria designates small woolly perennial herbs having small whitish discoid flowers surrounded by a ring of club-shaped bristles."*

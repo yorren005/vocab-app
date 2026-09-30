@@ -5,15 +5,6 @@ status: unread
 ---
 # tragically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tragic manner; with tragic consequences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tragic manner; with tragic consequences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man who read all the dramas of life seriously, if he failed to please when they were comedies, there was no frivolous treatment to reproach him for when they chanced to end tragically."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She knew why the delicate Retty looked so fragile, and Izz so tragically sorrowful, and Marian so blank; and she forgot her own dogging shadow for a moment in contemplating theirs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For all men tragically great are made so through a certain morbidness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tragic manner; with tragic consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tragic manner; with tragic consequences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man who read all the dramas of life seriously, if he failed to please when they were comedies, there was no frivolous treatment to reproach him for when they chanced to end tragically."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She knew why the delicate Retty looked so fragile, and Izz so tragically sorrowful, and Marian so blank; and she forgot her own dogging shadow for a moment in contemplating theirs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For all men tragically great are made so through a certain morbidness."*

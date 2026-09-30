@@ -5,15 +5,6 @@ status: unread
 ---
 # committee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-constituted organization to promote something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good things have been said about it by blue-nosed, bulbous-shoed old benchers in select port-wine committee after dinner in hall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am a School lady, I am a Visiting lady, I am a Reading lady, I am a Distributing lady; I am on the local Linen Box Committee and many general committees; and my canvassing alone is very extensive—perhaps no one’s more so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, in the library, has fallen asleep for the good of the country over the report of a Parliamentary committee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-constituted organization to promote something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Good things have been said about it by blue-nosed, bulbous-shoed old benchers in select port-wine committee after dinner in hall."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am a School lady, I am a Visiting lady, I am a Reading lady, I am a Distributing lady; I am on the local Linen Box Committee and many general committees; and my canvassing alone is very extensive—perhaps no one’s more so."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, in the library, has fallen asleep for the good of the country over the report of a Parliamentary committee."*

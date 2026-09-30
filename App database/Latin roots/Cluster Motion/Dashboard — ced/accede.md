@@ -5,15 +5,6 @@ status: unread
 ---
 # accede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yield to another's wish or opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take on duties or office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore I make the entreaty I have now preferred, and I hope you will have sufficient consideration for me to accede to it.” I must do Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To newly organized laborers the union appeals mainly as an instrument for striking, for threatening the employer, or for making him suffer to compel him to accede to their demands."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I rather wished than believed him to be sincere; but, at any rate, was perfectly ready to accede to his proposal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yield to another's wish or opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take on duties or office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore I make the entreaty I have now preferred, and I hope you will have sufficient consideration for me to accede to it.” I must do Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To newly organized laborers the union appeals mainly as an instrument for striking, for threatening the employer, or for making him suffer to compel him to accede to their demands."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I rather wished than believed him to be sincere; but, at any rate, was perfectly ready to accede to his proposal."*

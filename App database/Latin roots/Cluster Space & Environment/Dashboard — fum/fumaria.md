@@ -5,13 +5,6 @@ status: unread
 ---
 # fumaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual herbs whose flowers have only one petal spurred at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual herbs whose flowers have only one petal spurred at the base.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumaria designates annual herbs whose flowers have only one petal spurred at the base."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual herbs whose flowers have only one petal spurred at the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual herbs whose flowers have only one petal spurred at the base.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fumaria designates annual herbs whose flowers have only one petal spurred at the base."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # conferee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person on whom something is bestowed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a conference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I shall then use this power to challenge the conferees and dictate my terms to both the UIPS and INOR's rulers." "Timing is of the utmost importance," Brad reflected."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I must control the timing on this operation so precisely that the conferees have minimal warning before I make my announcement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Members of each team serving a Chief of State inspected the suites assigned to their nation's conferees, made changes to meet personal or cultural needs and, when satisfied, installed the scheduled occupant's accouterments and trappings of Office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person on whom something is bestowed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a conference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I shall then use this power to challenge the conferees and dictate my terms to both the UIPS and INOR's rulers." "Timing is of the utmost importance," Brad reflected."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I must control the timing on this operation so precisely that the conferees have minimal warning before I make my announcement."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Members of each team serving a Chief of State inspected the suites assigned to their nation's conferees, made changes to meet personal or cultural needs and, when satisfied, installed the scheduled occupant's accouterments and trappings of Office."*

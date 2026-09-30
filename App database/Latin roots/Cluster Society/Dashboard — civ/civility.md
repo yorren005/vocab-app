@@ -5,15 +5,6 @@ status: unread
 ---
 # civility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal or perfunctory politeness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of showing regard for others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else a rude despiser of good manners, That in civility thou seem’st so empty?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thorny point Of bare distress hath ta’en from me the show Of smooth civility; yet am I inland bred And know some nurture."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not believe That from the sense of all civility, I thus would play and trifle with your reverence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal or perfunctory politeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of showing regard for others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else a rude despiser of good manners, That in civility thou seem’st so empty?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thorny point Of bare distress hath ta’en from me the show Of smooth civility; yet am I inland bred And know some nurture."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not believe That from the sense of all civility, I thus would play and trifle with your reverence."*

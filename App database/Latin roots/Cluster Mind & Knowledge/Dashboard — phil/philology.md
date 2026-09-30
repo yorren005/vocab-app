@@ -5,14 +5,6 @@ status: unread
 ---
 # philology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The humanistic study of language and literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of language and literature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At least it seems more likely that the rule sprang from a superstition of this sort than from a simple calculation of expediency, as I formerly suggested (_Journal of Philology_, xiv. (1885) p. 158)."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And yet the former history continues to be studied side by side with the laws of statistics, geography, political economy, comparative philology, and geology, which directly contradict its assumptions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The humanistic study of language and literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of language and literature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At least it seems more likely that the rule sprang from a superstition of this sort than from a simple calculation of expediency, as I formerly suggested (_Journal of Philology_, xiv. (1885) p. 158)."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And yet the former history continues to be studied side by side with the laws of statistics, geography, political economy, comparative philology, and geology, which directly contradict its assumptions."*

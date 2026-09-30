@@ -5,13 +5,6 @@ status: unread
 ---
 # euphoria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of well-being or elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state marked by positive emotions (such as happiness or excitement) arising from a sense of alignment between a person's gender identity and gender expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphoria designates a feeling of well-being or elation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of well-being or elation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state marked by positive emotions (such as happiness or excitement) arising from a sense of alignment between a person's gender identity and gender expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphoria designates a feeling of well-being or elation."*

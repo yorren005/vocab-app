@@ -5,15 +5,6 @@ status: unread
 ---
 # fantastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ludicrously odd.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There with fantastic garlands did she make Of crow-flowers, nettles, daisies, and long purples, That liberal shepherds give a grosser name, But our cold maids do dead men’s fingers call them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or wallow naked in December snow By thinking on fantastic summer’s heat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be fantastic may become a youth Of greater time than I shall show to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ludicrously odd.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There with fantastic garlands did she make Of crow-flowers, nettles, daisies, and long purples, That liberal shepherds give a grosser name, But our cold maids do dead men’s fingers call them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or wallow naked in December snow By thinking on fantastic summer’s heat?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be fantastic may become a youth Of greater time than I shall show to be."*

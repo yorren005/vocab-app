@@ -5,15 +5,6 @@ status: unread
 ---
 # colloquial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of informal spoken language or conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of informal spoken language or conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Stables, which bids fair to outshine the old one, on which he has so long rested his colloquial reputation."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of them was that he went every day to the American banker’s, where he found a post-office that was almost as sociable and colloquial an institution as in an American country town."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"When laid low with it, to use a colloquial phrase, you do not care "who wins the cup." All interest in life has departed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of informal spoken language or conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of informal spoken language or conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Stables, which bids fair to outshine the old one, on which he has so long rested his colloquial reputation."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of them was that he went every day to the American banker’s, where he found a post-office that was almost as sociable and colloquial an institution as in an American country town."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"When laid low with it, to use a colloquial phrase, you do not care "who wins the cup." All interest in life has departed."*

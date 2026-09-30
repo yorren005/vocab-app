@@ -5,15 +5,6 @@ status: unread
 ---
 # insensate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of feeling and consciousness and animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without compunction or human feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mine was th’ insensate frenzied part, Ah! why should I such scenes outlive?"*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"THE WORSHIPPERS Wo Sing was just a heathen blind, A dull insensate clod, Yet somehow to his darkened mind, There came a thought of God."*
-> - 📜 **John Milton (*Paradise Lost*):** *"This saw his hapless Foes, but stood obdur’d, And to rebellious fight rallied thir Powers Insensate, hope conceiving from despair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of feeling and consciousness and animation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without compunction or human feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mine was th’ insensate frenzied part, Ah! why should I such scenes outlive?"*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"THE WORSHIPPERS Wo Sing was just a heathen blind, A dull insensate clod, Yet somehow to his darkened mind, There came a thought of God."*
+> - 📜 **John Milton (*Paradise Lost*):** *"This saw his hapless Foes, but stood obdur’d, And to rebellious fight rallied thir Powers Insensate, hope conceiving from despair."*

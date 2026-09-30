@@ -5,15 +5,6 @@ status: unread
 ---
 # constructive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructing or tending to construct or improve or promote development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emphasizing what is laudable or hopeful or to the good.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has been a real service to the cause of moderate and constructive reform. § 20. #Revisionism and opportunism in the socialist party#."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Here and there are incorporated passages (rehandled) from articles that have appeared in The Constructive Quarterly, The Nation, The Expositor, and elsewhere."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He felt sure that if he did not come to a bargain with the farmer, Bambridge would; for the stress of circumstances, Fred felt, was sharpening his acuteness and endowing him with all the constructive power of suspicion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructing or tending to construct or improve or promote development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emphasizing what is laudable or hopeful or to the good.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has been a real service to the cause of moderate and constructive reform. § 20. #Revisionism and opportunism in the socialist party#."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Here and there are incorporated passages (rehandled) from articles that have appeared in The Constructive Quarterly, The Nation, The Expositor, and elsewhere."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He felt sure that if he did not come to a bargain with the farmer, Bambridge would; for the stress of circumstances, Fred felt, was sharpening his acuteness and endowing him with all the constructive power of suspicion."*

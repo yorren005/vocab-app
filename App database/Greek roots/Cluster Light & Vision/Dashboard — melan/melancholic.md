@@ -5,14 +5,6 @@ status: unread
 ---
 # melancholic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or subject to melancholy : depressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to melancholia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The little disappointments of schoolboy life, and the somewhat less childish ones of an uneventful and undistinguished academic career, should not have sufficed to turn me out at one-and-twenty years of age a melancholic, listless idler."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the melancholic drums of the East palled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or subject to melancholy : depressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to melancholia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The little disappointments of schoolboy life, and the somewhat less childish ones of an uneventful and undistinguished academic career, should not have sufficed to turn me out at one-and-twenty years of age a melancholic, listless idler."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the melancholic drums of the East palled."*

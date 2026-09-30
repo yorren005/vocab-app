@@ -5,13 +5,6 @@ status: unread
 ---
 # floridian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of florida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of florida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The famous Fountain of Youth, if I am rightly informed, is situated in the southern part of the Floridian peninsula, not far from Lake Macaco."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of florida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of florida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The famous Fountain of Youth, if I am rightly informed, is situated in the southern part of the Floridian peninsula, not far from Lake Macaco."*

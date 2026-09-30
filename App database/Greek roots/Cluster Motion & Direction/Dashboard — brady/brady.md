@@ -5,15 +5,6 @@ status: unread
 ---
 # brady
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: slow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mathew B. 1823?—1896 American photographer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady, represented it so ably in the field, until her incessant labors and hardships brought on disease of the heart, and in May, 1864, ended her active and useful life, had rallied around it a corps of noble and faithful workers."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady, a lady of West Philadelphia, herself a native of Ireland, but the wife of an English lawyer, who had made his home in Philadelphia, in 1849."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady felt that the time had come when she could consistently enter upon the work nearest her heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: slow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mathew B. 1823?—1896 American photographer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady, represented it so ably in the field, until her incessant labors and hardships brought on disease of the heart, and in May, 1864, ended her active and useful life, had rallied around it a corps of noble and faithful workers."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady, a lady of West Philadelphia, herself a native of Ireland, but the wife of an English lawyer, who had made his home in Philadelphia, in 1849."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady felt that the time had come when she could consistently enter upon the work nearest her heart."*

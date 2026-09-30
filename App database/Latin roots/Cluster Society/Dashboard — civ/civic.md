@@ -5,15 +5,6 @@ status: unread
 ---
 # civic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating or belonging to a city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or befitting citizens as individuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No social discovery has made individual honesty and civic virtue useless to good government."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The sheriffs with their great chains and nosegays, other civic gewgaws and monsters, criers, ushers, a great gallery full of people,—a large theatrical audience,—looked on, as the two-and-thirty and the Judge were solemnly confronted."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"No man said us nay in the exercising our right of religious hospitality, why should they in our civic?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating or belonging to a city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or befitting citizens as individuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No social discovery has made individual honesty and civic virtue useless to good government."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The sheriffs with their great chains and nosegays, other civic gewgaws and monsters, criers, ushers, a great gallery full of people,—a large theatrical audience,—looked on, as the two-and-thirty and the Judge were solemnly confronted."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"No man said us nay in the exercising our right of religious hospitality, why should they in our civic?"*

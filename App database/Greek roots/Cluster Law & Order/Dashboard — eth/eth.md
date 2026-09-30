@@ -5,14 +5,6 @@ status: unread
 ---
 # eth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The letter ð used in Old English to represent either of the fricatives \th\ or \t͟h\ and in Icelandic and some phonetic alphabets to represent the fricative \t͟h\.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter ð used in Old English to represent either of the fricatives \th\ or \t͟h\ and in Icelandic and some phonetic alphabets to represent the fricative \t͟h\.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian Science God is universal, eter- nal, divine love, which changeth not and caus- 140:27 eth no evil, disease, nor death."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"And the great dragon was cast out, 567:15 that old serpent, called the devil, and Satan, which deceiv- eth the whole world: he was cast out into the earth, and his angels were cast out with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The letter ð used in Old English to represent either of the fricatives \th\ or \t͟h\ and in Icelandic and some phonetic alphabets to represent the fricative \t͟h\.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter ð used in Old English to represent either of the fricatives \th\ or \t͟h\ and in Icelandic and some phonetic alphabets to represent the fricative \t͟h\.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian Science God is universal, eter- nal, divine love, which changeth not and caus- 140:27 eth no evil, disease, nor death."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"And the great dragon was cast out, 567:15 that old serpent, called the devil, and Satan, which deceiv- eth the whole world: he was cast out into the earth, and his angels were cast out with him."*

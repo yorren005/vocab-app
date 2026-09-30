@@ -5,13 +5,6 @@ status: unread
 ---
 # rubella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubella designates a contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubella designates a contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester."*

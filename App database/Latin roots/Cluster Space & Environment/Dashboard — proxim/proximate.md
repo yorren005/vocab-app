@@ -5,15 +5,6 @@ status: unread
 ---
 # proximate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closest in degree or order (space or time) especially in a chain of causes and effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very close in space or time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Spacetrack Ceres confirms unregistered objects proximate your position."*
-> - 📜 **James Joyce (*Ulysses*):** *"The cold of interstellar space, thousands of degrees below freezing point or the absolute zero of Fahrenheit, Centigrade or Réaumur: the incipient intimations of proximate dawn."*
-> - 📜 **James Joyce (*Ulysses*):** *"A silent contemplation: a tentative velation: a gradual abasement: a solicitous aversion: a proximate erection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closest in degree or order (space or time) especially in a chain of causes and effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very close in space or time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Spacetrack Ceres confirms unregistered objects proximate your position."*
+> - 📜 **James Joyce (*Ulysses*):** *"The cold of interstellar space, thousands of degrees below freezing point or the absolute zero of Fahrenheit, Centigrade or Réaumur: the incipient intimations of proximate dawn."*
+> - 📜 **James Joyce (*Ulysses*):** *"A silent contemplation: a tentative velation: a gradual abasement: a solicitous aversion: a proximate erection."*

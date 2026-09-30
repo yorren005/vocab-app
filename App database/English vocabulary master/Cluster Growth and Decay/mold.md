@@ -5,20 +5,6 @@ status: unread
 ---
 # mold
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Matrix for casting metal
-> 2. **Nuance / Usage**: Something that is made in or shaped on a mold
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sigbjørn Hølmebakk (*Tolv trøndere*):** *"Han kastet seg ned i åkeren og grov en grop i molda."*
-> - 📜 **Forster, H. C. (*From Xylographs to Lead Molds*):** *"type being oiled to prevent the subsequent mold from sticking."*
-> - 📜 **Forster, H. C. (*From Xylographs to Lead Molds*):** *"could be made, as the mold was usually destroyed in removing the cast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Matrix for casting metal
+> 2. **Nuance / Usage**: Something that is made in or shaped on a mold
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sigbjørn Hølmebakk (*Tolv trøndere*):** *"Han kastet seg ned i åkeren og grov en grop i molda."*
+> - 📜 **Forster, H. C. (*From Xylographs to Lead Molds*):** *"type being oiled to prevent the subsequent mold from sticking."*
+> - 📜 **Forster, H. C. (*From Xylographs to Lead Molds*):** *"could be made, as the mold was usually destroyed in removing the cast."*

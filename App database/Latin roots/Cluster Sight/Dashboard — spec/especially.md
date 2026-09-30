@@ -5,15 +5,6 @@ status: unread
 ---
 # especially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a distinctly greater extent or degree than is common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a special manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I especially think, under Mars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Especially he hath incurred the everlasting displeasure of the king, who had even tun’d his bounty to sing happiness to him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the business you have broached here cannot be without you, especially that of Cleopatra’s, which wholly depends on your abode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a distinctly greater extent or degree than is common.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a special manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I especially think, under Mars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Especially he hath incurred the everlasting displeasure of the king, who had even tun’d his bounty to sing happiness to him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the business you have broached here cannot be without you, especially that of Cleopatra’s, which wholly depends on your abode."*

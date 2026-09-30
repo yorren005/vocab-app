@@ -5,13 +5,6 @@ status: unread
 ---
 # hypsometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of the elevation of land above sea level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of the elevation of land above sea level.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypsometry designates measurement of the elevation of land above sea level."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of the elevation of land above sea level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of the elevation of land above sea level.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypsometry designates measurement of the elevation of land above sea level."*

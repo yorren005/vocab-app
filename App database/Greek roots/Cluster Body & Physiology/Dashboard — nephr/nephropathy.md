@@ -5,13 +5,6 @@ status: unread
 ---
 # nephropathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal state of the kidney; especially : one associated with or secondary to some other pathological process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal state of the kidney; especially : one associated with or secondary to some other pathological process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephropathy designates an abnormal state of the kidney; especially : one associated with or secondary to some other pathological process."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal state of the kidney; especially : one associated with or secondary to some other pathological process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal state of the kidney; especially : one associated with or secondary to some other pathological process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephropathy designates an abnormal state of the kidney; especially : one associated with or secondary to some other pathological process."*

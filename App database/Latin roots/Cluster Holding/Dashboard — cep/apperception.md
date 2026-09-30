@@ -5,13 +5,6 @@ status: unread
 ---
 # apperception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby perceived qualities of an object are related to past experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby perceived qualities of an object are related to past experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apperception designates the process whereby perceived qualities of an object are related to past experience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby perceived qualities of an object are related to past experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby perceived qualities of an object are related to past experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apperception designates the process whereby perceived qualities of an object are related to past experience."*

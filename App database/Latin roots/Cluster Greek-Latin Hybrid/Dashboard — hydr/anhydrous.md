@@ -5,13 +5,6 @@ status: unread
 ---
 # anhydrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without water; especially without water of crystallization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without water; especially without water of crystallization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydrous designates without water; especially without water of crystallization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without water; especially without water of crystallization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without water; especially without water of crystallization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydrous designates without water; especially without water of crystallization."*

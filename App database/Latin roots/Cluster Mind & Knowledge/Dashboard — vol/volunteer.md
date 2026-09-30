@@ -5,15 +5,6 @@ status: unread
 ---
 # volunteer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a person who freely enlists for service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who performs voluntary work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"End of "On the Improvement of the Understanding." Notes by Volunteer. 1."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Sentence Numbers, shown thus (1), have been added by volunteer. 5."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of an adventurous and somewhat restless disposition, and, at the time of the threatened invasion by Napoleon, joined a local Volunteer corps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a person who freely enlists for service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who performs voluntary work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"End of "On the Improvement of the Understanding." Notes by Volunteer. 1."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Sentence Numbers, shown thus (1), have been added by volunteer. 5."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He was of an adventurous and somewhat restless disposition, and, at the time of the threatened invasion by Napoleon, joined a local Volunteer corps."*

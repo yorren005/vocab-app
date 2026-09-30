@@ -5,13 +5,6 @@ status: unread
 ---
 # platitudinarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bore who makes excessive use of platitudes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bore who makes excessive use of platitudes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platitudinarian designates a bore who makes excessive use of platitudes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bore who makes excessive use of platitudes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bore who makes excessive use of platitudes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platitudinarian designates a bore who makes excessive use of platitudes."*

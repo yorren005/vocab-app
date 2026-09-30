@@ -5,15 +5,6 @@ status: unread
 ---
 # dyspepsia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indigestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ill humor : disgruntlement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I then asked Queequeg whether he himself was ever troubled with dyspepsia; expressing the idea very plainly, so that he could take it in."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, it turned out to be one of those problematical whales that seem to dry up and die with a sort of prodigious dyspepsia, or indigestion; leaving their defunct bodies almost entirely bankrupt of anything like oil."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some, ambergris is supposed to be the cause, and by others the effect, of the dyspepsia in the whale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indigestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ill humor : disgruntlement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I then asked Queequeg whether he himself was ever troubled with dyspepsia; expressing the idea very plainly, so that he could take it in."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, it turned out to be one of those problematical whales that seem to dry up and die with a sort of prodigious dyspepsia, or indigestion; leaving their defunct bodies almost entirely bankrupt of anything like oil."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some, ambergris is supposed to be the cause, and by others the effect, of the dyspepsia in the whale."*

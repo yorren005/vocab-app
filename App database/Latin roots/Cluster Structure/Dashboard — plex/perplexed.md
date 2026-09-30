@@ -5,15 +5,6 @@ status: unread
 ---
 # perplexed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone, I say; for till you do return, I rest perplexed with a thousand cares."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en in this thought through the dark night he stealeth, A captive victor that hath lost in gain, Bearing away the wound that nothing healeth, The scar that will, despite of cure, remain; Leaving his spoil perplexed in greater pain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seems perplexed respecting three or four, can’t remember where he left them, looks up and down the street as half expecting to see them astray, suddenly pricks up his ears and remembers all about it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone, I say; for till you do return, I rest perplexed with a thousand cares."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en in this thought through the dark night he stealeth, A captive victor that hath lost in gain, Bearing away the wound that nothing healeth, The scar that will, despite of cure, remain; Leaving his spoil perplexed in greater pain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seems perplexed respecting three or four, can’t remember where he left them, looks up and down the street as half expecting to see them astray, suddenly pricks up his ears and remembers all about it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # attacapa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A language spoken by the atakapa of the gulf coast of louisiana and texas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A language spoken by the atakapa of the gulf coast of louisiana and texas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attacapa designates a language spoken by the atakapa of the gulf coast of louisiana and texas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A language spoken by the atakapa of the gulf coast of louisiana and texas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A language spoken by the atakapa of the gulf coast of louisiana and texas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attacapa designates a language spoken by the atakapa of the gulf coast of louisiana and texas."*

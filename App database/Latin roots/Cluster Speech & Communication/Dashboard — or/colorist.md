@@ -5,13 +5,6 @@ status: unread
 ---
 # colorist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter able to achieve special effects with color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter able to achieve special effects with color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colorist designates a painter able to achieve special effects with color."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter able to achieve special effects with color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter able to achieve special effects with color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colorist designates a painter able to achieve special effects with color."*

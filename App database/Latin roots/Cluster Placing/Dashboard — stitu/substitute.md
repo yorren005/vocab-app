@@ -5,15 +5,6 @@ status: unread
 ---
 # substitute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that takes or can take the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who plays only when a starter on the team is replaced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ta’en up, Under the counterfeited zeal of God, The subjects of his substitute, my father, And both against the peace of heaven and him Have here up-swarm’d them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This devil here shall be my substitute; For that John Mortimer, which now is dead, In face, in gait, in speech, he doth resemble."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How will you do to content this substitute, and to save your brother?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that takes or can take the place of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who plays only when a starter on the team is replaced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ta’en up, Under the counterfeited zeal of God, The subjects of his substitute, my father, And both against the peace of heaven and him Have here up-swarm’d them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This devil here shall be my substitute; For that John Mortimer, which now is dead, In face, in gait, in speech, he doth resemble."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How will you do to content this substitute, and to save your brother?"*

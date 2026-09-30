@@ -5,13 +5,6 @@ status: unread
 ---
 # Euphrosyne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three sister goddesses (known as the three Graces) who are the givers of charm and beauty in Greek mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three sister goddesses (known as the three Graces) who are the givers of charm and beauty in Greek mythology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Euphrosyne designates one of the three sister goddesses (known as the three graces) who are the givers of charm and beauty in greek mythology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three sister goddesses (known as the three Graces) who are the givers of charm and beauty in Greek mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three sister goddesses (known as the three Graces) who are the givers of charm and beauty in Greek mythology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Euphrosyne designates one of the three sister goddesses (known as the three graces) who are the givers of charm and beauty in greek mythology."*

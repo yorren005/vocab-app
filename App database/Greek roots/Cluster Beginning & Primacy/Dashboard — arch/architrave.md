@@ -5,15 +5,6 @@ status: unread
 ---
 # architrave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The molding around a door or window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest part of an entablature; rests immediately on the capitals of the columns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At an indefinite height overhead something made the black sky blacker, which had the semblance of a vast architrave uniting the pillars horizontally."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Whoever has seen Saragossa can well understand my imperfect description, for the ruins of Santa Engracia still remain, and in the Puerta del Carmen may still be seen, not far from the Glorieta, its ruined architrave and worm-eaten stones."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Through the window-frames showed patches of sky, and the bricks, crumbling away, had made a ragged-toothed looking thing of that which had been an architrave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The molding around a door or window.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest part of an entablature; rests immediately on the capitals of the columns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At an indefinite height overhead something made the black sky blacker, which had the semblance of a vast architrave uniting the pillars horizontally."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Whoever has seen Saragossa can well understand my imperfect description, for the ruins of Santa Engracia still remain, and in the Puerta del Carmen may still be seen, not far from the Glorieta, its ruined architrave and worm-eaten stones."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Through the window-frames showed patches of sky, and the bricks, crumbling away, had made a ragged-toothed looking thing of that which had been an architrave."*

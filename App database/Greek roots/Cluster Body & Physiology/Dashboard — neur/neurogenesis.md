@@ -5,13 +5,6 @@ status: unread
 ---
 # neurogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neurogenesis is the process by which nervous system cells, the neurons, are produced by neural stem cells (NSCs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: This occurs in all species of animals except the porifera (sponges) and placozoans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurogenesis designates neurogenesis is the process by which nervous system cells, the neurons, are produced by neural stem cells (nscs)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Neurogenesis is the process by which nervous system cells, the neurons, are produced by neural stem cells (NSCs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: This occurs in all species of animals except the porifera (sponges) and placozoans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurogenesis designates neurogenesis is the process by which nervous system cells, the neurons, are produced by neural stem cells (nscs)."*

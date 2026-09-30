@@ -5,15 +5,6 @@ status: unread
 ---
 # inclusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Including much or everything; and especially including stated limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including much or everything; and especially including stated limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, would to God that the inclusive verge Of golden metal that must round my brow Were red-hot steel, to sear me to the brains."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conversation became inclusive, and presently other footsteps were heard crossing the room below."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that from 1862 to 1879 inclusive prices in the United States were expressed in an irredeemable paper standard makes comparisons for that period misleading."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Including much or everything; and especially including stated limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including much or everything; and especially including stated limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, would to God that the inclusive verge Of golden metal that must round my brow Were red-hot steel, to sear me to the brains."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conversation became inclusive, and presently other footsteps were heard crossing the room below."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that from 1862 to 1879 inclusive prices in the United States were expressed in an irredeemable paper standard makes comparisons for that period misleading."*

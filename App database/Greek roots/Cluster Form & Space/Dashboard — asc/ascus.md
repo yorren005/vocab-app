@@ -5,13 +5,6 @@ status: unread
 ---
 # ascus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The membranous oval or tubular spore case of an ascomycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membranous oval or tubular spore case of an ascomycete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascus designates the membranous oval or tubular spore case of an ascomycete."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The membranous oval or tubular spore case of an ascomycete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membranous oval or tubular spore case of an ascomycete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascus designates the membranous oval or tubular spore case of an ascomycete."*

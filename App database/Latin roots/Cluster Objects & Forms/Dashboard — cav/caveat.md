@@ -5,13 +5,6 @@ status: unread
 ---
 # caveat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A warning against certain acts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is nought, it is nought, saith the buyer, but, after he is gone his way, then he boasteth." And the seller has all the variants of caveat emptor ready to retort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A warning against certain acts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is nought, it is nought, saith the buyer, but, after he is gone his way, then he boasteth." And the seller has all the variants of caveat emptor ready to retort."*

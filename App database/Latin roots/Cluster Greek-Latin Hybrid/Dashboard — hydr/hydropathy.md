@@ -5,14 +5,6 @@ status: unread
 ---
 # hydropathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The internal and external use of water in the treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal and external use of water in the treatment of disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Nature of drugs Vegetarianism, homoeopathy, and hydropathy have diminished drugging; but if drugs are an antidote to 155:30 disease, why lessen the antidote?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The cures ascribed to hydropathy in our own time are, in many cases, not a whit less wonderful than those ascribed by monkish legends to the holy wells of England and Wales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The internal and external use of water in the treatment of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal and external use of water in the treatment of disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Nature of drugs Vegetarianism, homoeopathy, and hydropathy have diminished drugging; but if drugs are an antidote to 155:30 disease, why lessen the antidote?"*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The cures ascribed to hydropathy in our own time are, in many cases, not a whit less wonderful than those ascribed by monkish legends to the holy wells of England and Wales."*

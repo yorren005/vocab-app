@@ -5,15 +5,6 @@ status: unread
 ---
 # apoplectic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or causing apoplexy or stroke; also : affected with, susceptible to, or showing symptoms of apoplexy or stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a kind to cause or apparently cause stroke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle presents an apoplectic appearance before half the distance is accomplished."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, very apoplectic, still exhibits his deportment about town, still enjoys himself in the old manner, is still believed in in the old way."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The news so shocked his mother that it brought on an apoplectic attack.” “And what good can you do her?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or causing apoplexy or stroke; also : affected with, susceptible to, or showing symptoms of apoplexy or stroke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a kind to cause or apparently cause stroke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle presents an apoplectic appearance before half the distance is accomplished."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, very apoplectic, still exhibits his deportment about town, still enjoys himself in the old manner, is still believed in in the old way."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The news so shocked his mother that it brought on an apoplectic attack.” “And what good can you do her?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irredeemable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of paper money) not convertible into coin at the pleasure of the holder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Irredeemable paper money. § 11."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, all coins that contain an element of seigniorage, or monopoly value, are to that degree "political money." The typical paper money is irredeemable; that is, it cannot be turned into bullion money on demand."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that from 1862 to 1879 inclusive prices in the United States were expressed in an irredeemable paper standard makes comparisons for that period misleading."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of paper money) not convertible into coin at the pleasure of the holder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Irredeemable paper money. § 11."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, all coins that contain an element of seigniorage, or monopoly value, are to that degree "political money." The typical paper money is irredeemable; that is, it cannot be turned into bullion money on demand."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that from 1862 to 1879 inclusive prices in the United States were expressed in an irredeemable paper standard makes comparisons for that period misleading."*

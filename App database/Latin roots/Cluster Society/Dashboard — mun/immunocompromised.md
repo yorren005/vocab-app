@@ -5,13 +5,6 @@ status: unread
 ---
 # immunocompromised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to develop a normal immune response usually because of malnutrition or immunodeficiency or immunosuppressive therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unable to develop a normal immune response usually because of malnutrition or immunodeficiency or immunosuppressive therapy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunocompromised designates unable to develop a normal immune response usually because of malnutrition or immunodeficiency or immunosuppressive therapy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to develop a normal immune response usually because of malnutrition or immunodeficiency or immunosuppressive therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unable to develop a normal immune response usually because of malnutrition or immunodeficiency or immunosuppressive therapy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunocompromised designates unable to develop a normal immune response usually because of malnutrition or immunodeficiency or immunosuppressive therapy."*

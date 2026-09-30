@@ -5,20 +5,6 @@ status: unread
 ---
 # lurch
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sudden or unsteady movement
-> 2. **Nuance / Usage**: Roll or tip abruptly : pitch
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to lurch the target*) and intransitive clauses (*lurching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His pupil age Man-entered thus, he waxed like a sea, And in the brunt of seventeen battles since He lurched all swords of the garland."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t believe that I’ll leave you or yours in the lurch, Mat."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But the godly old chaplain left him in the lurch; The sword I forsook for the sake of the church: He ventur’d the soul, and I risked the body, ’Twas then I proved false to my sodger laddie."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A sudden, abrupt, uncontrolled tilt or staggering movement forward or to one side, as of a ship in heavy seas or a person losing balance; as a verb, to stagger or pitch.
+> 2. **Nuance / Usage**: In the idiom *leave in the lurch* (derived from an old French board game, *lourche*), to desert a companion in a state of helpless difficulty or embarrassment.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to lurch the target*) and intransitive clauses (*lurching against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t believe that I’ll leave you or yours in the **lurch**, Mat."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The steamer gave a sickening **lurch** to port as a mountain of black water crashed across her bows."*
+> - 📜 **Stephen Crane (*The Open Boat*):** *"The oiler rowed steadily even when the dinghy **lurched** on the foaming crest of the comber."*

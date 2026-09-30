@@ -5,15 +5,6 @@ status: unread
 ---
 # rhetorical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to rhetoric; - w.a.white; - lewis mumford.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to rhetoric, emphasizing style at the expense of thought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And, first, it should be said that Browning has so much material, such a large thought and passion capital, that we never find him making a little go a great way, by means of EXPRESSION, or rather concealing the little by means of rhetorical tinsel."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But little weight can be attached to their evidence; for the statement of Diodorus is vague and rhetorical, and the reasons which Macrobius, one of the fathers of solar mythology, assigns for the identification are exceedingly slight."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His father was a rich man of equestrian rank, a rhetorician, who has left several volumes of rhetorical compositions on imaginary cases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to rhetoric; - w.a.white; - lewis mumford.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to rhetoric, emphasizing style at the expense of thought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And, first, it should be said that Browning has so much material, such a large thought and passion capital, that we never find him making a little go a great way, by means of EXPRESSION, or rather concealing the little by means of rhetorical tinsel."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But little weight can be attached to their evidence; for the statement of Diodorus is vague and rhetorical, and the reasons which Macrobius, one of the fathers of solar mythology, assigns for the identification are exceedingly slight."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His father was a rich man of equestrian rank, a rhetorician, who has left several volumes of rhetorical compositions on imaginary cases."*

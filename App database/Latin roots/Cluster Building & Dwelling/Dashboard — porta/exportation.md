@@ -5,15 +5,6 @@ status: unread
 ---
 # exportation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) sold to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial activity of selling and shipping goods to a foreign country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This calls for a new equilibrium of money and requires at length large and continued exportation of specie."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of course, what is not seen is that if we stop importing goods we thereby eventually will stop the exportation of goods of equal value now being sent in payment and this must throw as many men out of jobs as we helped into jobs by raising the tariff."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The annual exportation has not yet begun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) sold to a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial activity of selling and shipping goods to a foreign country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This calls for a new equilibrium of money and requires at length large and continued exportation of specie."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of course, what is not seen is that if we stop importing goods we thereby eventually will stop the exportation of goods of equal value now being sent in payment and this must throw as many men out of jobs as we helped into jobs by raising the tariff."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The annual exportation has not yet begun."*

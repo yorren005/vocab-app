@@ -5,15 +5,6 @@ status: unread
 ---
 # jacobs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer of macabre short stories (1863-1943).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and critic of urban planning (born in 1916).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Shall I have my sheep kept with a _Jacobs-staff_ now?"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Shall I have my sheepe kept with a _Jacobs_ staffe now?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Jacobs had toothache, would he write like Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer of macabre short stories (1863-1943).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and critic of urban planning (born in 1916).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Shall I have my sheep kept with a _Jacobs-staff_ now?"*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Shall I have my sheepe kept with a _Jacobs_ staffe now?"*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Jacobs had toothache, would he write like Mr."*

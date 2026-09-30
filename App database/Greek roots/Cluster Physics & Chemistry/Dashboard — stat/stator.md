@@ -5,13 +5,6 @@ status: unread
 ---
 # stator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stator designates mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stator designates mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves."*

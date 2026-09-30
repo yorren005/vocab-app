@@ -5,15 +5,6 @@ status: unread
 ---
 # domestic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A servant who is paid to perform menial tasks around the household.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of concern to or concerning the internal affairs of a nation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am sorry, Cymbeline, That I am to pronounce Augustus Cæsar (Cæsar, that hath moe kings his servants than Thyself domestic officers) thine enemy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Combine together ’gainst the enemy; For these domestic and particular broils Are not the question here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Duncan is in his grave; After life’s fitful fever he sleeps well; Treason has done his worst: nor steel, nor poison, Malice domestic, foreign levy, nothing Can touch him further."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A servant who is paid to perform menial tasks around the household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of concern to or concerning the internal affairs of a nation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am sorry, Cymbeline, That I am to pronounce Augustus Cæsar (Cæsar, that hath moe kings his servants than Thyself domestic officers) thine enemy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Combine together ’gainst the enemy; For these domestic and particular broils Are not the question here."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Duncan is in his grave; After life’s fitful fever he sleeps well; Treason has done his worst: nor steel, nor poison, Malice domestic, foreign levy, nothing Can touch him further."*

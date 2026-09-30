@@ -5,15 +5,6 @@ status: unread
 ---
 # expanded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in one or more directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become larger in size or volume or quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I ran after you to say—that my aunt made a mistake in sending you away from courting me—” Gabriel expanded."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The slow twilight expanded and enveloped them completely before the signs of moving were shown."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Iridescent bubbles of dank subterranean breath rose from the sweating sod beside the waiting-maid’s feet as she trod, hissing as they burst and expanded away to join the vapoury firmament above."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in one or more directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become larger in size or volume or quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I ran after you to say—that my aunt made a mistake in sending you away from courting me—” Gabriel expanded."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The slow twilight expanded and enveloped them completely before the signs of moving were shown."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Iridescent bubbles of dank subterranean breath rose from the sweating sod beside the waiting-maid’s feet as she trod, hissing as they burst and expanded away to join the vapoury firmament above."*

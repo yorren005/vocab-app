@@ -5,15 +5,6 @@ status: unread
 ---
 # choleric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily moved to anger; - h.g.wells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quickly aroused to anger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I durst have denied that before you were so choleric."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you so choleric With Eleanor for telling but her dream?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily moved to anger; - h.g.wells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quickly aroused to anger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I durst have denied that before you were so choleric."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you so choleric With Eleanor for telling but her dream?"*

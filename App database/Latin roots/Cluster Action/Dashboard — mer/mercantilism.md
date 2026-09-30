@@ -5,13 +5,6 @@ status: unread
 ---
 # mercantilism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic system (europe in 18th century) to increase a nation's wealth by government regulation of all of the nation's commercial interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This doctrine as presented in the seventeenth and eighteenth centuries in Europe, was known as _mercantilism_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic system (europe in 18th century) to increase a nation's wealth by government regulation of all of the nation's commercial interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This doctrine as presented in the seventeenth and eighteenth centuries in Europe, was known as _mercantilism_."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # seismologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geophysicist who studies earthquakes and the mechanical characteristics of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geophysicist who studies earthquakes and the mechanical characteristics of the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismologist designates a geophysicist who studies earthquakes and the mechanical characteristics of the earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geophysicist who studies earthquakes and the mechanical characteristics of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geophysicist who studies earthquakes and the mechanical characteristics of the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismologist designates a geophysicist who studies earthquakes and the mechanical characteristics of the earth."*

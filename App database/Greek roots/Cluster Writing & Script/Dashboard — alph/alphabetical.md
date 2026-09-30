@@ -5,15 +5,6 @@ status: unread
 ---
 # alphabetical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or expressed by a writing system that uses an alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in order according to the alphabet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the end—what should that alphabetical position portend?"*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is not difficult to remember which is which if we bear in mind that the current traverses them in alphabetical order."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"After he had left me, I placed all my words, with their interpretations, in alphabetical order."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or expressed by a writing system that uses an alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in order according to the alphabet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the end—what should that alphabetical position portend?"*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is not difficult to remember which is which if we bear in mind that the current traverses them in alphabetical order."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"After he had left me, I placed all my words, with their interpretations, in alphabetical order."*

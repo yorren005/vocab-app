@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmodesma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodesma designates one of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodesma designates one of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells."*

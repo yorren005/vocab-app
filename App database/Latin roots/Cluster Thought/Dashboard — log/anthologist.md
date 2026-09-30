@@ -5,13 +5,6 @@ status: unread
 ---
 # anthologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An editor who makes selections for an anthology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An editor who makes selections for an anthology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthologist designates an editor who makes selections for an anthology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An editor who makes selections for an anthology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An editor who makes selections for an anthology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthologist designates an editor who makes selections for an anthology."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # clustered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together as in a cluster or flock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gather or cause to gather into a cluster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had often noticed the dark beauty of this lodge standing in a deep twilight of trees, and how the ivy clustered over it, and how there was a steep hollow near, where we had once seen the keeper’s dog dive down into the fern as if it were water."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now,” said Coggan, appealing in an earnest voice to the public at large as it stood clustered about his shoulder-blades, “did ye ever hear such onreasonable woman as that?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He held his head high; and we clustered closer and closer round him, not losing a half word, not a tone, not a breath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together as in a cluster or flock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gather or cause to gather into a cluster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We had often noticed the dark beauty of this lodge standing in a deep twilight of trees, and how the ivy clustered over it, and how there was a steep hollow near, where we had once seen the keeper’s dog dive down into the fern as if it were water."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now,” said Coggan, appealing in an earnest voice to the public at large as it stood clustered about his shoulder-blades, “did ye ever hear such onreasonable woman as that?"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He held his head high; and we clustered closer and closer round him, not losing a half word, not a tone, not a breath."*

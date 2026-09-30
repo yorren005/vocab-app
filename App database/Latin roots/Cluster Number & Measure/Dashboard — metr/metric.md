@@ -5,13 +5,6 @@ status: unread
 ---
 # metric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A function of a topological space that gives, for any two points in the space, a value equal to the distance between them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decimal unit of measurement of the metric system (based on meters and kilograms and seconds).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A function of a topological space that gives, for any two points in the space, a value equal to the distance between them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decimal unit of measurement of the metric system (based on meters and kilograms and seconds).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*

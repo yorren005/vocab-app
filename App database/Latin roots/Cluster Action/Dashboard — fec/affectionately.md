@@ -5,15 +5,6 @@ status: unread
 ---
 # affectionately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With affection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With affection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sweet queen, go to—commends himself most affectionately to you— HELEN."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The little girl took it, in a womanly sort of manner belonging to the apron and the bonnet, and stood looking at us over the burden that clung to her most affectionately."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, shaking hands with him quite affectionately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With affection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sweet queen, go to—commends himself most affectionately to you— HELEN."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The little girl took it, in a womanly sort of manner belonging to the apron and the bonnet, and stood looking at us over the burden that clung to her most affectionately."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, shaking hands with him quite affectionately."*

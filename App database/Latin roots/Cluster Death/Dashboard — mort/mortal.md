@@ -5,15 +5,6 @@ status: unread
 ---
 # mortal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mortal moon hath her eclipse endured, And the sad augurs mock their own presage, Incertainties now crown themselves assured, And peace proclaims olives of endless age."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the living be enemy to the grief, the excess makes it soon mortal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A human being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mortal moon hath her eclipse endured, And the sad augurs mock their own presage, Incertainties now crown themselves assured, And peace proclaims olives of endless age."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the living be enemy to the grief, the excess makes it soon mortal."*

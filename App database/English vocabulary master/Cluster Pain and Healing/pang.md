@@ -5,20 +5,6 @@ status: unread
 ---
 # pang
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Brief piercing spasm of pain
-> 2. **Nuance / Usage**: Cause to have pangs : torment
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"the very natal pang of the divine passion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"was not too late; I could yet spare him the bitter pang of bereavement."*
-> - 📜 **George Eliot (*Middlemarch*):** *"revive the tingling of shame or the pang of remorse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Brief piercing spasm of pain
+> 2. **Nuance / Usage**: Cause to have pangs : torment
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"the very natal pang of the divine passion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"was not too late; I could yet spare him the bitter pang of bereavement."*
+> - 📜 **George Eliot (*Middlemarch*):** *"revive the tingling of shame or the pang of remorse."*

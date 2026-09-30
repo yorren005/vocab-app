@@ -5,15 +5,6 @@ status: unread
 ---
 # fellow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy or man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. ’Tis not unknown to you, madam, I am a poor fellow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very tainted fellow, and full of wickedness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy or man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. ’Tis not unknown to you, madam, I am a poor fellow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very tainted fellow, and full of wickedness."*

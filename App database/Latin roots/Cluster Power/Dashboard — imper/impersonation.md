@@ -5,15 +5,6 @@ status: unread
 ---
 # impersonation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a person that is exaggerated for comic effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending to be another person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Driving in spars at any point and on any system, inch by inch he covered more and more safely from ruin this distracting impersonation of seven hundred pounds."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Finally, the delicate fancy of La Fargehas supplemented the immortal pen-portrait of the Typee maiden with a speaking impersonation of her beauty."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Driving in spars at any point and on any system, inch by inch he covered more and more safely from ruin this distracting impersonation of seven hundred pounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a person that is exaggerated for comic effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending to be another person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Driving in spars at any point and on any system, inch by inch he covered more and more safely from ruin this distracting impersonation of seven hundred pounds."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Finally, the delicate fancy of La Fargehas supplemented the immortal pen-portrait of the Typee maiden with a speaking impersonation of her beauty."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Driving in spars at any point and on any system, inch by inch he covered more and more safely from ruin this distracting impersonation of seven hundred pounds."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # acrobat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who performs acts requiring skill and agility and coordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who performs acts requiring skill and agility and coordination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Light as a lightweight acrobat Ahmet Ali had rolled aside, put palm to ground, sprung to his feet."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Aye! we had a glorious gallop after "Starlight" and his gang, When they bolted from Sylvester's on the flat; How the sun-dried reed-beds crackled, how the flint-strewn ranges rang To the strokes of "Mountaineer" and "Acrobat"."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Standing there, both of us bent forward peering into the web, I wove a story that transformed the sparkling strands into a carnival and the spider into an acrobat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who performs acts requiring skill and agility and coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who performs acts requiring skill and agility and coordination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Light as a lightweight acrobat Ahmet Ali had rolled aside, put palm to ground, sprung to his feet."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Aye! we had a glorious gallop after "Starlight" and his gang, When they bolted from Sylvester's on the flat; How the sun-dried reed-beds crackled, how the flint-strewn ranges rang To the strokes of "Mountaineer" and "Acrobat"."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Standing there, both of us bent forward peering into the web, I wove a story that transformed the sparkling strands into a carnival and the spider into an acrobat."*

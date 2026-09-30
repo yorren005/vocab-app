@@ -5,15 +5,6 @@ status: unread
 ---
 # departed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is no longer alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move away from a place into another direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then up he rose and donn’d his clothes, And dupp’d the chamber door, Let in the maid, that out a maid Never departed more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, countrymen, if when you make your prayers, God should be so obdurate as yourselves, How would it fare with your departed souls?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This letter he early bid me give his father, And threaten’d me with death, going in the vault, If I departed not, and left him there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is no longer alive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move away from a place into another direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then up he rose and donn’d his clothes, And dupp’d the chamber door, Let in the maid, that out a maid Never departed more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, countrymen, if when you make your prayers, God should be so obdurate as yourselves, How would it fare with your departed souls?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This letter he early bid me give his father, And threaten’d me with death, going in the vault, If I departed not, and left him there."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypersensitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"I was proud and selfish, and hypersensitive and ambitious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"I was proud and selfish, and hypersensitive and ambitious."*

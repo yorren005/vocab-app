@@ -5,13 +5,6 @@ status: unread
 ---
 # nectarous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the taste; sweet and fragrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely pleasing to the taste; sweet and fragrant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Then did you, chivalrous Terence, hand forth, as to the manner born, that nectarous beverage and you offered the crystal cup to him that thirsted, the soul of chivalry, in beauty akin to the immortals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the taste; sweet and fragrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely pleasing to the taste; sweet and fragrant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Then did you, chivalrous Terence, hand forth, as to the manner born, that nectarous beverage and you offered the crystal cup to him that thirsted, the soul of chivalry, in beauty akin to the immortals."*

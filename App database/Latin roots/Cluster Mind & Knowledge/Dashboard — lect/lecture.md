@@ -5,15 +5,6 @@ status: unread
 ---
 # lecture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech that is open to the public.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lengthy rebuke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So by my former lecture and advice Shall you my son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle Northumberland, If thy offences were upon record, Would it not shame thee in so fair a troop To read a lecture of them?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech that is open to the public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lengthy rebuke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So by my former lecture and advice Shall you my son."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle Northumberland, If thy offences were upon record, Would it not shame thee in so fair a troop To read a lecture of them?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*

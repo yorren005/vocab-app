@@ -5,15 +5,6 @@ status: unread
 ---
 # retinue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The group following and attending to some important person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group following and attending to some important person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not only, sir, this your all-licens’d fool, But other of your insolent retinue Do hourly carp and quarrel; breaking forth In rank and not-to-be-endured riots."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to this point, and as to some minor topics, there are differences of opinion; but it is perfectly clear to the brilliant and distinguished circle, all round, that nobody is in question but Boodle and his retinue, and Buffy and HIS retinue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Next evening, down come Sir Leicester and my Lady with their largest retinue, and down come the cousins and others from all the points of the compass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The group following and attending to some important person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group following and attending to some important person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not only, sir, this your all-licens’d fool, But other of your insolent retinue Do hourly carp and quarrel; breaking forth In rank and not-to-be-endured riots."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As to this point, and as to some minor topics, there are differences of opinion; but it is perfectly clear to the brilliant and distinguished circle, all round, that nobody is in question but Boodle and his retinue, and Buffy and HIS retinue."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Next evening, down come Sir Leicester and my Lady with their largest retinue, and down come the cousins and others from all the points of the compass."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ecclesiasticus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apocryphal book mainly of maxims (resembling proverbs in that respect).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book mainly of maxims (resembling proverbs in that respect).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"If thou hast heard a word, let it die with thee.” —_Ecclesiasticus_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apocryphal book mainly of maxims (resembling proverbs in that respect).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book mainly of maxims (resembling proverbs in that respect).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"If thou hast heard a word, let it die with thee.” —_Ecclesiasticus_."*

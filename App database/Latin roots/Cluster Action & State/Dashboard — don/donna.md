@@ -5,15 +5,6 @@ status: unread
 ---
 # donna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian woman of rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian woman of rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Negli occhi porta la mia donna Amore; Per che si fa gentil ciò ch’ella mira: Ov’ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Prima donna Imperial Opera of Warsaw—yes!"*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I always imagine I’m something very brilliant and triumphant and splendid . . . a great prima donna or a Red Cross nurse or a queen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian woman of rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian woman of rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Negli occhi porta la mia donna Amore; Per che si fa gentil ciò ch’ella mira: Ov’ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Prima donna Imperial Opera of Warsaw—yes!"*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I always imagine I’m something very brilliant and triumphant and splendid . . . a great prima donna or a Red Cross nurse or a queen."*

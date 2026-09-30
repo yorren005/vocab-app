@@ -5,15 +5,6 @@ status: unread
 ---
 # countermand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contrary command cancelling or reversing a previous command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you no countermand for Claudio yet, But he must die tomorrow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happily You something know, yet I believe there comes No countermand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, poor man, by your first order died, And that a winged Mercury did bear; Some tardy cripple bore the countermand, That came too lag to see him buried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contrary command cancelling or reversing a previous command.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you no countermand for Claudio yet, But he must die tomorrow?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happily You something know, yet I believe there comes No countermand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, poor man, by your first order died, And that a winged Mercury did bear; Some tardy cripple bore the countermand, That came too lag to see him buried."*

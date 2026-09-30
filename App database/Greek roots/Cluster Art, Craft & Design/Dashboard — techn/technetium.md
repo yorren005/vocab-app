@@ -5,13 +5,6 @@ status: unread
 ---
 # technetium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline metallic element not found in nature; occurs as one of the fission products of uranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline metallic element not found in nature; occurs as one of the fission products of uranium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technetium designates a crystalline metallic element not found in nature; occurs as one of the fission products of uranium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline metallic element not found in nature; occurs as one of the fission products of uranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline metallic element not found in nature; occurs as one of the fission products of uranium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technetium designates a crystalline metallic element not found in nature; occurs as one of the fission products of uranium."*

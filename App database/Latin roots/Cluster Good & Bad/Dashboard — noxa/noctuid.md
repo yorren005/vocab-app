@@ -5,13 +5,6 @@ status: unread
 ---
 # noctuid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctuid designates usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctuid designates usually dull-colored medium-sized nocturnal moth; the usually smooth-bodied larvae are destructive agricultural pests."*

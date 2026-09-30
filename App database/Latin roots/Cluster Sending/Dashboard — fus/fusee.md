@@ -5,13 +5,6 @@ status: unread
 ---
 # fusee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirally grooved spindle in a clock that counteracts the diminishing power of the uncoiling mainspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colored flare used as a warning signal by trucks and trains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fusee designates a spirally grooved spindle in a clock that counteracts the diminishing power of the uncoiling mainspring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirally grooved spindle in a clock that counteracts the diminishing power of the uncoiling mainspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colored flare used as a warning signal by trucks and trains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fusee designates a spirally grooved spindle in a clock that counteracts the diminishing power of the uncoiling mainspring."*

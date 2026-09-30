@@ -5,15 +5,6 @@ status: unread
 ---
 # distractedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a distracted manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a distracted manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She made good view of me, indeed, so much, That methought her eyes had lost her tongue, For she did speak in starts distractedly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell should murmur so distractedly, “My Lady, my Lady, my Lady!” over and over again."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My watchfulness has been effectual; and though I should certainly be a more interesting object to all my acquaintance, were I distractedly in love with him, I cannot say that I regret my comparative insignificance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a distracted manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a distracted manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She made good view of me, indeed, so much, That methought her eyes had lost her tongue, For she did speak in starts distractedly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell should murmur so distractedly, “My Lady, my Lady, my Lady!” over and over again."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My watchfulness has been effectual; and though I should certainly be a more interesting object to all my acquaintance, were I distractedly in love with him, I cannot say that I regret my comparative insignificance."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # citron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large lemonlike fruit with thick aromatic rind; usually preserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny evergreen small tree or shrub of india widely cultivated for its large lemonlike fruits that have thick warty rind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is plums of rubies, in pictures of citron."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The binding was of citron-green leather, with a design of gilt trellis-work and dotted pomegranates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large lemonlike fruit with thick aromatic rind; usually preserved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny evergreen small tree or shrub of india widely cultivated for its large lemonlike fruits that have thick warty rind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is plums of rubies, in pictures of citron."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The binding was of citron-green leather, with a design of gilt trellis-work and dotted pomegranates."*

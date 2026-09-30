@@ -5,15 +5,6 @@ status: unread
 ---
 # typhoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical cyclone occurring in the western pacific or indian oceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical cyclone occurring in the western pacific or indian oceans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, too, it is, that in these resplendent Japanese seas the mariner encounters the direst of all storms, the Typhoon."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Towards evening of that day, the Pequod was torn of her canvas, and bare-poled was left to fight a Typhoon which had struck her directly ahead."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Has he not dashed his heavenly quadrant? and in these same perilous seas, gropes he not his way by mere dead reckoning of the error-abounding log? and in this very Typhoon, did he not swear that he would have no lightning-rods?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical cyclone occurring in the western pacific or indian oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical cyclone occurring in the western pacific or indian oceans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, too, it is, that in these resplendent Japanese seas the mariner encounters the direst of all storms, the Typhoon."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Towards evening of that day, the Pequod was torn of her canvas, and bare-poled was left to fight a Typhoon which had struck her directly ahead."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Has he not dashed his heavenly quadrant? and in these same perilous seas, gropes he not his way by mere dead reckoning of the error-abounding log? and in this very Typhoon, did he not swear that he would have no lightning-rods?"*

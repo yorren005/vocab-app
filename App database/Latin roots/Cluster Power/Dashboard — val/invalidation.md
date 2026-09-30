@@ -5,13 +5,6 @@ status: unread
 ---
 # invalidation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidation designates (law) a formal termination (of a relationship or a judicial proceeding etc)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidation designates (law) a formal termination (of a relationship or a judicial proceeding etc)."*

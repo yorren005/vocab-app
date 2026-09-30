@@ -5,15 +5,6 @@ status: unread
 ---
 # translation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written communication in a second language having the same meaning as the written communication in a first language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uniform movement without rotation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A huge translation of hypocrisy, Vilely compiled, profound simplicity."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The text is that of the translation of the Tractatus de Intellectus Emendatione by R."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written communication in a second language having the same meaning as the written communication in a first language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uniform movement without rotation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A huge translation of hypocrisy, Vilely compiled, profound simplicity."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The text is that of the translation of the Tractatus de Intellectus Emendatione by R."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*

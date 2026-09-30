@@ -5,15 +5,6 @@ status: unread
 ---
 # resistless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to resist; overpowering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no resistance; ; - theodore roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is so d—— uncomfortable, living at an inn.” This was the last sentence by which he could weary Catherine’s attention, for he was just then borne off by the resistless pressure of a long string of passing ladies."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I saw his solemn eye melt with sudden fire, and flicker with resistless emotion."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Him, too, the stern impulse of Fate Resistless bears along; And the same rapid tide shall whelm The Poet and the Song."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to resist; overpowering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no resistance; ; - theodore roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is so d—— uncomfortable, living at an inn.” This was the last sentence by which he could weary Catherine’s attention, for he was just then borne off by the resistless pressure of a long string of passing ladies."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I saw his solemn eye melt with sudden fire, and flicker with resistless emotion."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Him, too, the stern impulse of Fate Resistless bears along; And the same rapid tide shall whelm The Poet and the Song."*

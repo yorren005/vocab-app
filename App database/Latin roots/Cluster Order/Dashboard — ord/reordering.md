@@ -5,13 +5,6 @@ status: unread
 ---
 # reordering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rearrangement in a different order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a new order to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reordering designates a rearrangement in a different order."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rearrangement in a different order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a new order to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reordering designates a rearrangement in a different order."*

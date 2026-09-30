@@ -5,15 +5,6 @@ status: unread
 ---
 # communicating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of communicating; the activity of conveying information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The room in which they were, communicating with that in which he stood, was only lighted by the fire."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are sensible of an obligation not to refer to me, miss, in communicating with Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Communicating this by similar means to my guardian and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of communicating; the activity of conveying information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The room in which they were, communicating with that in which he stood, was only lighted by the fire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You are sensible of an obligation not to refer to me, miss, in communicating with Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Communicating this by similar means to my guardian and Mr."*

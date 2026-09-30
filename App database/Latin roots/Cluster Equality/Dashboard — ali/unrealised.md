@@ -5,13 +5,6 @@ status: unread
 ---
 # unrealised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons; marked by failure to realize full potentialities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons; marked by failure to realize full potentialities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"It loves the vaguely beheld and unrealised ideal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons; marked by failure to realize full potentialities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons; marked by failure to realize full potentialities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"It loves the vaguely beheld and unrealised ideal."*

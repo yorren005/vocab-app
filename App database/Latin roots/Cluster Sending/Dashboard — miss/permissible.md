@@ -5,15 +5,6 @@ status: unread
 ---
 # permissible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That may be permitted especially as according to rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That may be accepted or conceded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon again and left off receiving favors from him, it would clearly be permissible to hate him the more."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes,” replied a footman in a bold loud voice, as if anything were now permissible; “the door to the left, ma’am.” “Perhaps the count did not ask for me,” said Pierre when he reached the landing."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"An excuse is always at hand to make an extra cigarette or cigar permissible on a special occasion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That may be permitted especially as according to rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That may be accepted or conceded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon again and left off receiving favors from him, it would clearly be permissible to hate him the more."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes,” replied a footman in a bold loud voice, as if anything were now permissible; “the door to the left, ma’am.” “Perhaps the count did not ask for me,” said Pierre when he reached the landing."*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"An excuse is always at hand to make an extra cigarette or cigar permissible on a special occasion."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # entertainer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who tries to please or amuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who tries to please or amuse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When every grief is entertain’d that’s offer’d, Comes to the entertainer— SEBASTIAN."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But he had so high a sense of his hospitable and responsible position as our entertainer, and my guardian laughed so sincerely at and with Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is scarcely necessary to state that Gabriel could not avoid noting the farmer’s bearing to-night towards their entertainer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who tries to please or amuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who tries to please or amuse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When every grief is entertain’d that’s offer’d, Comes to the entertainer— SEBASTIAN."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But he had so high a sense of his hospitable and responsible position as our entertainer, and my guardian laughed so sincerely at and with Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is scarcely necessary to state that Gabriel could not avoid noting the farmer’s bearing to-night towards their entertainer."*

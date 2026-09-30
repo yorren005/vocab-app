@@ -5,14 +5,6 @@ status: unread
 ---
 # mollusca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gastropods; bivalves; cephalopods; chitons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastropods; bivalves; cephalopods; chitons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its nets brought up numerous specimens of polypi and curious shells of mollusca."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Genera classified 556:3 Vertebrata, articulata, mollusca, and radiata are mor- tal and material concepts classified, and are supposed to possess life and mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gastropods; bivalves; cephalopods; chitons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastropods; bivalves; cephalopods; chitons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its nets brought up numerous specimens of polypi and curious shells of mollusca."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Genera classified 556:3 Vertebrata, articulata, mollusca, and radiata are mor- tal and material concepts classified, and are supposed to possess life and mind."*

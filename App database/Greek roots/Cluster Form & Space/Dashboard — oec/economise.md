@@ -5,15 +5,6 @@ status: unread
 ---
 # economise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend sparingly, avoid the waste of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use cautiously and frugally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It had never occurred to me until that moment that there was any need to economise them, and I had wasted almost half the box in astonishing the Overworlders, to whom fire was a novelty."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Very soon I had a choking smoky fire of green wood and dry sticks, and could economise my camphor."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The explanation of these apparently contradictory phenomena is that to economise space one piece was sometimes placed on top of another in the kiln."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend sparingly, avoid the waste of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use cautiously and frugally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"It had never occurred to me until that moment that there was any need to economise them, and I had wasted almost half the box in astonishing the Overworlders, to whom fire was a novelty."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Very soon I had a choking smoky fire of green wood and dry sticks, and could economise my camphor."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The explanation of these apparently contradictory phenomena is that to economise space one piece was sometimes placed on top of another in the kiln."*

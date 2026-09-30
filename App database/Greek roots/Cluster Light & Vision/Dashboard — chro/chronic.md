@@ -5,15 +5,6 @@ status: unread
 ---
 # chronic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing or occurring again and again for a long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being, providing, or requiring long-term medical care (as for a chronic disease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, she had two.” My Lady, whose chronic malady of boredom has been sadly aggravated by Volumnia this evening, glances wearily towards the candlesticks and heaves a noiseless sigh."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the twelvemonth preceding this time he had been enabled by sustained efforts of industry and chronic good spirits to lease the small sheep-farm of which Norcombe Hill was a portion, and stock it with two hundred sheep."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There burnt upon her face when she met the light of the candles the flush and excitement which were little less than chronic with her now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing or occurring again and again for a long time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being, providing, or requiring long-term medical care (as for a chronic disease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, she had two.” My Lady, whose chronic malady of boredom has been sadly aggravated by Volumnia this evening, glances wearily towards the candlesticks and heaves a noiseless sigh."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the twelvemonth preceding this time he had been enabled by sustained efforts of industry and chronic good spirits to lease the small sheep-farm of which Norcombe Hill was a portion, and stock it with two hundred sheep."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There burnt upon her face when she met the light of the candles the flush and excitement which were little less than chronic with her now."*

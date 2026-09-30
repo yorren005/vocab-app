@@ -5,14 +5,6 @@ status: unread
 ---
 # disputable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being disproved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to argument or debate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is too disputable for my company."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He certainly looked at her friend a great deal, but the expression of that look was disputable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being disproved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to argument or debate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is too disputable for my company."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He certainly looked at her friend a great deal, but the expression of that look was disputable."*

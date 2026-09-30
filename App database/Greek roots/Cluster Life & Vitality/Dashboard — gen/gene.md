@@ -5,13 +5,6 @@ status: unread
 ---
 # gene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gene designates a specific sequence of nucleotides in dna or rna that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gene designates a specific sequence of nucleotides in dna or rna that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material."*

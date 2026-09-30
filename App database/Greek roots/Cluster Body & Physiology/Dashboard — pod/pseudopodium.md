@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudopodium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudopodium designates temporary outgrowth used by some microorganisms as an organ of feeding or locomotion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudopodium designates temporary outgrowth used by some microorganisms as an organ of feeding or locomotion."*

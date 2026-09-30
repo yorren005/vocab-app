@@ -5,14 +5,6 @@ status: unread
 ---
 # hellene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of greece.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin's "Hyperion," we have the first poetic work in German which takes modern Greece as its locality and a modern Hellene as its hero."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Celsus' words: _hikanous ehurein dogmata tous barbarous_, and then _krinai de kai bebaiosasthai kai askesai pros areten ta hypo barbaron ehurethenta ameinones eisin hellenes_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of greece.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin's "Hyperion," we have the first poetic work in German which takes modern Greece as its locality and a modern Hellene as its hero."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Celsus' words: _hikanous ehurein dogmata tous barbarous_, and then _krinai de kai bebaiosasthai kai askesai pros areten ta hypo barbaron ehurethenta ameinones eisin hellenes_."*

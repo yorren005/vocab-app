@@ -5,13 +5,6 @@ status: unread
 ---
 # tendentious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or marked by a strong tendency especially a controversial one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or marked by a strong tendency especially a controversial one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendentious designates having or marked by a strong tendency especially a controversial one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or marked by a strong tendency especially a controversial one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or marked by a strong tendency especially a controversial one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendentious designates having or marked by a strong tendency especially a controversial one."*

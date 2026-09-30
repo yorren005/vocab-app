@@ -5,15 +5,6 @@ status: unread
 ---
 # chalky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having the color of chalk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I looked for the chalky cliffs, but I could find no whiteness in them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the dread summit of this chalky bourn."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There's the cottage." They had turned a bend and the head of the dale lay before them, a mere dimpling depression between breasts of chalky grass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having the color of chalk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I looked for the chalky cliffs, but I could find no whiteness in them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the dread summit of this chalky bourn."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There's the cottage." They had turned a bend and the head of the dale lay before them, a mere dimpling depression between breasts of chalky grass."*

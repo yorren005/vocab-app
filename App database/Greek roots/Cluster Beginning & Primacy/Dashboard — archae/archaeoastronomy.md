@@ -5,13 +5,6 @@ status: unread
 ---
 # archaeoastronomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the astronomy of ancient cultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the astronomy of ancient cultures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeoastronomy designates the study of the astronomy of ancient cultures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the astronomy of ancient cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the astronomy of ancient cultures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeoastronomy designates the study of the astronomy of ancient cultures."*

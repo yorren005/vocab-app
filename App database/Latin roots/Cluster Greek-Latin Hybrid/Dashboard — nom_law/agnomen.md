@@ -5,13 +5,6 @@ status: unread
 ---
 # agnomen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional name or an epithet appended to a name (as in `ferdinand the great').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An additional name or an epithet appended to a name (as in `ferdinand the great').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnomen designates an additional name or an epithet appended to a name (as in `ferdinand the great')."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An additional name or an epithet appended to a name (as in `ferdinand the great').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An additional name or an epithet appended to a name (as in `ferdinand the great').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnomen designates an additional name or an epithet appended to a name (as in `ferdinand the great')."*

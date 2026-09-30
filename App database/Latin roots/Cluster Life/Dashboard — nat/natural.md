@@ -5,15 +5,6 @@ status: unread
 ---
 # natural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone regarded as certain to succeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notation cancelling a previous sharp or flat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COUNTESS. ’Tis past, my liege, And I beseech your majesty to make it Natural rebellion, done i’ the blaze of youth, When oil and fire, too strong for reason’s force, O’erbears it and burns on."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost play with him at any game, Thou art sure to lose; and of that natural luck He beats thee ’gainst the odds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone regarded as certain to succeed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notation cancelling a previous sharp or flat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COUNTESS. ’Tis past, my liege, And I beseech your majesty to make it Natural rebellion, done i’ the blaze of youth, When oil and fire, too strong for reason’s force, O’erbears it and burns on."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost play with him at any game, Thou art sure to lose; and of that natural luck He beats thee ’gainst the odds."*

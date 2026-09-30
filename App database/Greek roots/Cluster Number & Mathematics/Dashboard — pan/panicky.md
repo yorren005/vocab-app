@@ -5,13 +5,6 @@ status: unread
 ---
 # panicky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrown into a state of intense fear or desperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown into a state of intense fear or desperation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"What time is she coming?" she asked in panicky way, as though she would flee before the visitor arrived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrown into a state of intense fear or desperation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown into a state of intense fear or desperation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"What time is she coming?" she asked in panicky way, as though she would flee before the visitor arrived."*

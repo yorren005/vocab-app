@@ -5,13 +5,6 @@ status: unread
 ---
 # plethodont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodont designates mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodont designates mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water."*

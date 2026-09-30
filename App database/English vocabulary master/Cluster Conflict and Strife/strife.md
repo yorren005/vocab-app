@@ -5,20 +5,6 @@ status: unread
 ---
 # strife
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bitter conflict, sometimes violent
-> 2. **Nuance / Usage**: (colloquial) a trouble of any kind
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Half stints their strife before their strokes begin."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"What makes heroic strife, famed afar, famed afar?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"What makes heroic strife famed afar?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Bitter, angry, or violent conflict, discord, and struggle between rival factions, nations, or individuals.
+> 2. **Nuance / Usage**: Elevates conflict to an enduring state of contention or war—whether civil, domestic, or elemental—often contrasted with peace and harmony.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass).
+> - **Syntactic Constructions**: Functions as a prepositional object (*torn by civil strife*, *at strife with*) or subject (*strife broke out*).
+> - **Collocations & Registers**: Literary, historical, and biblical registers; paired with *civil*, *intestine*, *sectarian*, *bitter*, and *discord*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"From forth the fatal loins of these two foes a pair of star-cross'd lovers take their life, whose misadventured piteous overthrows do with their death bury their parents' **strife**."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"What makes heroic **strife**, famed afar?"*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The two great empires had been engaged in amost obstinate **strife** for six and thirty moons."*

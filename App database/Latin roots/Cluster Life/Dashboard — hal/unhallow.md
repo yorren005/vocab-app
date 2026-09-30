@@ -5,15 +5,6 @@ status: unread
 ---
 # unhallow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the consecration from a person or an object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"State holy or unhallow’d, what of that?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will apprehend him. [_Advances._] Stop thy unhallow’d toil, vile Montague."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In vain Religion meets my shrinking eye, I dare not combat, but I turn and fly: Conscience in vain upbraids th’ unhallow’d fire, Love grasps her scorpions—stifled they expire!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the consecration from a person or an object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"State holy or unhallow’d, what of that?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will apprehend him. [_Advances._] Stop thy unhallow’d toil, vile Montague."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In vain Religion meets my shrinking eye, I dare not combat, but I turn and fly: Conscience in vain upbraids th’ unhallow’d fire, Love grasps her scorpions—stifled they expire!"*

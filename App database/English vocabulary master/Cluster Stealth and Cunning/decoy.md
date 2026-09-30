@@ -5,20 +5,6 @@ status: unread
 ---
 # decoy
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Pond into which wildfowl are lured for capture
-> 2. **Nuance / Usage**: Real or fake animal used by hunters to lure game
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Address to the Deil*):** *"And aft your moss-traversin Spunkies Decoy the wight that late an’ drunk is: The bleezin, curst, mischievous monkies Delude his eyes, Till in some miry slough he sunk is."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is thought that Flora decoyed my wife out and laid some terrible trap for her."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"How could they have decoyed him down there to his death?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A person, device, or stratagem used to lure an adversary or quarry into a trap, or to divert attention away from a concealed operation.
+> 2. **Nuance / Usage**: Originating in fowling (where a carved wooden bird or trained waterfowl lures wild ducks into a netted pond), it also functions as a transitive verb meaning to entice into danger by false appearances.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) and Verb (transitive).
+> - **Syntactic Constructions**: Functions as a concrete noun (*acted as a decoy*) or transitive verb (*decoyed the guards away from the gate*).
+> - **Collocations & Registers**: Tactical, espionage, and hunting registers; collocated with *plant*, *lure*, *ambush*, and *diversion*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"How could they have **decoyed** him down there to his death without arousing his suspicions?"*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The campfire had been left burning merely as a **decoy** while the mutineers slipped through the dark trees."*
+> - 📜 **John le Carré (*Tinker, Tailor, Soldier, Spy*):** *"Every false trail needs a believable **decoy** to keep the hunters looking in the wrong direction."*

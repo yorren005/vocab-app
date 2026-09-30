@@ -5,13 +5,6 @@ status: unread
 ---
 # dramatise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into dramatic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent something in a dramatic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatise designates put into dramatic form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into dramatic form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent something in a dramatic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatise designates put into dramatic form."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # atom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest particle of an element that can exist either alone or in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atom considered as a source of vast potential constructive or destructive energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Determined not to throw away one atom of my Esther’s worth, I took Mrs."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Without an atom of affectation, and without anything that is at all morbid on his part, he reveals this at a hundred points."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Every atom of your flesh is as dear to me as my own: in pain and sickness it would still be dear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest particle of an element that can exist either alone or in combination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atom considered as a source of vast potential constructive or destructive energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Determined not to throw away one atom of my Esther’s worth, I took Mrs."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Without an atom of affectation, and without anything that is at all morbid on his part, he reveals this at a hundred points."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Every atom of your flesh is as dear to me as my own: in pain and sickness it would still be dear."*

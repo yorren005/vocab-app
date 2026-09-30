@@ -5,15 +5,6 @@ status: unread
 ---
 # inconvenient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suited to your comfort, purpose or needs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conveniently timed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know into what straits of fortune she is driven and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But as long as our plans seem to coincide so well, I shall ask you if it would be inconvenient to you if we put off the date of our return a week longer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I put it to him, ‘This is unreasonable and inconvenient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suited to your comfort, purpose or needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conveniently timed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know into what straits of fortune she is driven and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But as long as our plans seem to coincide so well, I shall ask you if it would be inconvenient to you if we put off the date of our return a week longer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I put it to him, ‘This is unreasonable and inconvenient."*

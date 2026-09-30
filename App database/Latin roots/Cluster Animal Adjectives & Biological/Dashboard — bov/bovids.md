@@ -5,13 +5,6 @@ status: unread
 ---
 # bovids
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hollow-horned ruminants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow-horned ruminants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovids designates hollow-horned ruminants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hollow-horned ruminants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow-horned ruminants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovids designates hollow-horned ruminants."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gamma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone designated with the name gamma or the Greek letter γ especially denoting the third in position, order, or class.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The deployment we triggered concentrates them in three sectors: Alpha, Beta, Gamma."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak and I will take Alpha, Adari and Kumiko, you've got Beta; Myra and Drummer to Gamma."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"Within a few inches, they flare violently in the hard gamma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd letter of the Greek alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone designated with the name gamma or the Greek letter γ especially denoting the third in position, order, or class.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The deployment we triggered concentrates them in three sectors: Alpha, Beta, Gamma."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak and I will take Alpha, Adari and Kumiko, you've got Beta; Myra and Drummer to Gamma."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"Within a few inches, they flare violently in the hard gamma."*

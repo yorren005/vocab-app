@@ -5,15 +5,6 @@ status: unread
 ---
 # parrish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states painter (1870-1966).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states painter (1870-1966).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Joseph Parrish, of Philadelphia, also a Medical Inspector of the Commission, Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Parrish's labors in connection with it--The tour of inspection at the Annapolis hospitals--Letters to the Sanitary Commission--Condition of the returned prisoners--Their hunger--The St."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Parrish was residing at Media, Pennsylvania, near Philadelphia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states painter (1870-1966).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states painter (1870-1966).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Joseph Parrish, of Philadelphia, also a Medical Inspector of the Commission, Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Parrish's labors in connection with it--The tour of inspection at the Annapolis hospitals--Letters to the Sanitary Commission--Condition of the returned prisoners--Their hunger--The St."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Parrish was residing at Media, Pennsylvania, near Philadelphia."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # everyplace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, everyplace designates to or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere')."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, everyplace designates to or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere')."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # epsilon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 5th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone designated with the name epsilon or the Greek letter ε especially denoting the fifth in position, order, or class.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plutarch read it as Epsilon and translates it "Thou Art," and from this as from the very name of Apollo he draws a lesson as to the nature of real Being."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 5th letter of the Greek alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone designated with the name epsilon or the Greek letter ε especially denoting the fifth in position, order, or class.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plutarch read it as Epsilon and translates it "Thou Art," and from this as from the very name of Apollo he draws a lesson as to the nature of real Being."*

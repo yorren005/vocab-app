@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthomonad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria producing yellow non-water-soluble pigments; some pathogenic for plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria producing yellow non-water-soluble pigments; some pathogenic for plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthomonad designates bacteria producing yellow non-water-soluble pigments; some pathogenic for plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria producing yellow non-water-soluble pigments; some pathogenic for plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria producing yellow non-water-soluble pigments; some pathogenic for plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthomonad designates bacteria producing yellow non-water-soluble pigments; some pathogenic for plants."*

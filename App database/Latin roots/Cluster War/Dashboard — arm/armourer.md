@@ -5,15 +5,6 @@ status: unread
 ---
 # armourer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in making armor or arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man responsible for the upkeep of small arms and machine guns etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art The armourer of my heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Horner the armourer and his man Peter, guarded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, let him go.—Please it your majesty, This is the day appointed for the combat, And ready are the appellant and defendant, The armourer and his man, to enter the lists, So please your highness to behold the fight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in making armor or arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man responsible for the upkeep of small arms and machine guns etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art The armourer of my heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Horner the armourer and his man Peter, guarded."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, let him go.—Please it your majesty, This is the day appointed for the combat, And ready are the appellant and defendant, The armourer and his man, to enter the lists, So please your highness to behold the fight."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tetracycline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetracycline designates an antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetracycline designates an antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections."*

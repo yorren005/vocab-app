@@ -5,15 +5,6 @@ status: unread
 ---
 # ligature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a group of notes connected by a slur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Character consisting of two or more letters combined into one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Abbot, lend me your garters; she would break mine directly.” Miss Abbot turned to divest a stout leg of the necessary ligature."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, then, an elongated Siamese ligature united us."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, then, an elongated Siamese ligature united us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a group of notes connected by a slur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Character consisting of two or more letters combined into one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Abbot, lend me your garters; she would break mine directly.” Miss Abbot turned to divest a stout leg of the necessary ligature."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, then, an elongated Siamese ligature united us."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, then, an elongated Siamese ligature united us."*

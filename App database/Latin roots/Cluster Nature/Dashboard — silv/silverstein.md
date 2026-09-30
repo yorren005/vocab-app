@@ -5,13 +5,6 @@ status: unread
 ---
 # silverstein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet and cartoonist remembered for his stories and poems for children (1932-1999).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet and cartoonist remembered for his stories and poems for children (1932-1999).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverstein designates united states poet and cartoonist remembered for his stories and poems for children (1932-1999)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet and cartoonist remembered for his stories and poems for children (1932-1999).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet and cartoonist remembered for his stories and poems for children (1932-1999).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverstein designates united states poet and cartoonist remembered for his stories and poems for children (1932-1999)."*

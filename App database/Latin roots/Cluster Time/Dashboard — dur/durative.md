@@ -5,13 +5,6 @@ status: unread
 ---
 # durative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of a verb that expresses its duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of a verb that expresses its duration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The thing called money thus is a durative good passing from hand to hand in a community, and completing its use in turn to each possessor of it only as he parts with it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of a verb that expresses its duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of a verb that expresses its duration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The thing called money thus is a durative good passing from hand to hand in a community, and completing its use in turn to each possessor of it only as he parts with it."*

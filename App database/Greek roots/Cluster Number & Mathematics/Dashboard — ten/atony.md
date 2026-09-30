@@ -5,13 +5,6 @@ status: unread
 ---
 # atony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of normal muscular tension or tonus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of normal muscular tension or tonus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atony designates lack of normal muscular tension or tonus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of normal muscular tension or tonus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of normal muscular tension or tonus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atony designates lack of normal muscular tension or tonus."*

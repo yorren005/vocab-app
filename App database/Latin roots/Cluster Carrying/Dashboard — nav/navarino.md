@@ -5,13 +5,6 @@ status: unread
 ---
 # navarino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navarino designates a decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navarino designates a decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships."*

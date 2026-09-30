@@ -5,13 +5,6 @@ status: unread
 ---
 # monolatry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of a single god but without claiming that it is the only god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of a single god but without claiming that it is the only god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolatry designates the worship of a single god but without claiming that it is the only god."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of a single god but without claiming that it is the only god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of a single god but without claiming that it is the only god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolatry designates the worship of a single god but without claiming that it is the only god."*

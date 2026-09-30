@@ -5,13 +5,6 @@ status: unread
 ---
 # intima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intima designates the innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intima designates the innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel)."*

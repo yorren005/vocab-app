@@ -5,13 +5,6 @@ status: unread
 ---
 # multifactorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multifactorial designates involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multifactorial designates involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes)."*

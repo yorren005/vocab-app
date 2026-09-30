@@ -5,15 +5,6 @@ status: unread
 ---
 # stanton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states suffragist and feminist; called for reform of the practices that perpetuated sexual inequality (1815-1902).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states suffragist and feminist; called for reform of the practices that perpetuated sexual inequality (1815-1902).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Secretary Stanton, on succeeding him ratified the appointment, and she has installed several hundreds of nurses in this noble work--all of them Protestants, and middle-aged."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"STANTON, December 20th, was appointed his successor."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton, from the Committee on Military Affairs, in House of Representatives, Feb. 18th, 1861."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states suffragist and feminist; called for reform of the practices that perpetuated sexual inequality (1815-1902).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states suffragist and feminist; called for reform of the practices that perpetuated sexual inequality (1815-1902).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Secretary Stanton, on succeeding him ratified the appointment, and she has installed several hundreds of nurses in this noble work--all of them Protestants, and middle-aged."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"STANTON, December 20th, was appointed his successor."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton, from the Committee on Military Affairs, in House of Representatives, Feb. 18th, 1861."*

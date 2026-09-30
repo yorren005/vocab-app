@@ -5,13 +5,6 @@ status: unread
 ---
 # capitulum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense cluster of flowers or foliage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruiting spike of a cereal plant especially corn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitulum designates a dense cluster of flowers or foliage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense cluster of flowers or foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruiting spike of a cereal plant especially corn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitulum designates a dense cluster of flowers or foliage."*

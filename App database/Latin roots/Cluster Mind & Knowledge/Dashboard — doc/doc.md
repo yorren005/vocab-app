@@ -5,15 +5,6 @@ status: unread
 ---
 # doc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed medical practitioner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"How’s the heart?” “Splendid.” “You think he’ll stand ten days of it, Doc.?” “Sure.” “I don’t believe it,” the Warden announced savagely."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I’ve made you unlace me, Captain, when you thought I was croaking, and it was all I could do to keep from snickering in your face.” “What do you think, Doc?” Warden Atherton asked."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Doc, you don't suppose that's—" "It's him!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed medical practitioner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"How’s the heart?” “Splendid.” “You think he’ll stand ten days of it, Doc.?” “Sure.” “I don’t believe it,” the Warden announced savagely."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I’ve made you unlace me, Captain, when you thought I was croaking, and it was all I could do to keep from snickering in your face.” “What do you think, Doc?” Warden Atherton asked."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Doc, you don't suppose that's—" "It's him!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially incorrect in behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) lacking in refinement or grace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s nothing here that is too good for him But only she, and she deserves a lord That twenty such rude boys might tend upon, And call her hourly mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else a rude despiser of good manners, That in civility thou seem’st so empty?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially incorrect in behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) lacking in refinement or grace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s nothing here that is too good for him But only she, and she deserves a lord That twenty such rude boys might tend upon, And call her hourly mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else a rude despiser of good manners, That in civility thou seem’st so empty?"*

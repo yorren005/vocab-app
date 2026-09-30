@@ -5,15 +5,6 @@ status: unread
 ---
 # granary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A storehouse for threshed grain or animal feed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A storehouse for threshed grain or animal feed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The news is, that after Miss Everdene got home she went out again to see all was safe, as she usually do, and coming in found Baily Pennyways creeping down the granary steps with half a bushel of barley."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Where’s the key of the granary?” No answer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tall, I’ve come for the key of the granary, to get at the rick-cloths,” said Oak, in a stentorian voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A storehouse for threshed grain or animal feed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A storehouse for threshed grain or animal feed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The news is, that after Miss Everdene got home she went out again to see all was safe, as she usually do, and coming in found Baily Pennyways creeping down the granary steps with half a bushel of barley."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Where’s the key of the granary?” No answer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tall, I’ve come for the key of the granary, to get at the rick-cloths,” said Oak, in a stentorian voice."*

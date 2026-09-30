@@ -5,13 +5,6 @@ status: unread
 ---
 # diphthongize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To change into a diphthong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pronounce as a diphthong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diphthongize designates to change into a diphthong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change into a diphthong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pronounce as a diphthong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diphthongize designates to change into a diphthong."*

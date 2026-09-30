@@ -5,15 +5,6 @@ status: unread
 ---
 # converge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be adjacent or come together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approach a limit as the number of terms increases without limit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Because of the threat to Slingshot that they perceive in you, the UIPS has been draining both groups lately to augment patrols along routes through the Outer Region that converge on the Special Zone."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It was hard to believe that by our watches it was less than an hour that we waited in that rocky shelter before the various bodies began to converge close upon us."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For two distinct lines of argument converge to show that if Diana was a queen of the woods in general, she was at Nemi a goddess of the oak in particular."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be adjacent or come together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approach a limit as the number of terms increases without limit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Because of the threat to Slingshot that they perceive in you, the UIPS has been draining both groups lately to augment patrols along routes through the Outer Region that converge on the Special Zone."*
+> - 📜 **Bram Stoker (*Dracula*):** *"It was hard to believe that by our watches it was less than an hour that we waited in that rocky shelter before the various bodies began to converge close upon us."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For two distinct lines of argument converge to show that if Diana was a queen of the woods in general, she was at Nemi a goddess of the oak in particular."*

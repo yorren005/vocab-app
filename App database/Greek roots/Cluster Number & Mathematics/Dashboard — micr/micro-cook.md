@@ -5,13 +5,6 @@ status: unread
 ---
 # micro-cook
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook or heat in a microwave oven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cook or heat in a microwave oven.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micro-cook designates cook or heat in a microwave oven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook or heat in a microwave oven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cook or heat in a microwave oven.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micro-cook designates cook or heat in a microwave oven."*

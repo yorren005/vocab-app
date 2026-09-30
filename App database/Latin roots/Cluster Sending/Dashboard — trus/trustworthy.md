@@ -5,15 +5,6 @@ status: unread
 ---
 # trustworthy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of trust or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking responsibility for one's conduct and obligations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Say nothing to any one of what passes between us.” The timid little beauty promises in all earnestness to be trustworthy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though old, he was clever and trustworthy still."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel, like his dog, was too good to be trustworthy, and he never made advance beyond this point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of trust or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking responsibility for one's conduct and obligations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Say nothing to any one of what passes between us.” The timid little beauty promises in all earnestness to be trustworthy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though old, he was clever and trustworthy still."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel, like his dog, was too good to be trustworthy, and he never made advance beyond this point."*

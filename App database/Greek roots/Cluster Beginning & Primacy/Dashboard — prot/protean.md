@@ -5,13 +5,6 @@ status: unread
 ---
 # protean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking on different forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking on different forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The student of the poem is amazed, long before he gets over all these monologues, at the Protean capabilities of the poet’s own intellect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking on different forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking on different forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The student of the poem is amazed, long before he gets over all these monologues, at the Protean capabilities of the poet’s own intellect."*

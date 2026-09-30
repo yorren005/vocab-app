@@ -5,15 +5,6 @@ status: unread
 ---
 # familiarise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make familiar or conversant with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"However, seeing it motionless, by degrees they took courage, and sought to familiarise themselves with it."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I must familiarise my style--but she understands it."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Afterwards, when familiarised with the visions of enjoyment so suddenly opened, she could speak more largely to William and Edmund of what she felt; but still there were emotions of tenderness that could not be clothed in words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make familiar or conversant with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"However, seeing it motionless, by degrees they took courage, and sought to familiarise themselves with it."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I must familiarise my style--but she understands it."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Afterwards, when familiarised with the visions of enjoyment so suddenly opened, she could speak more largely to William and Edmund of what she felt; but still there were emotions of tenderness that could not be clothed in words."*

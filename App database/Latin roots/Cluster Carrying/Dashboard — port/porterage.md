@@ -5,15 +5,6 @@ status: unread
 ---
 # porterage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The charge for carrying burdens by porters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transportation of burdens by porters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The basket being large and heavy, Car had placed it for convenience of porterage on the top of her head, where it rode on in jeopardized balance as she walked with arms akimbo."*
-> - 📜 **Bram Stoker (*Dracula*):** *"When Skinsky had come to him, he had taken him to the ship and handed over the box, so as to save porterage."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A man don’t see all this here a goin’ on dreadful round him, in the way of Subjects without heads, dear me, plentiful enough fur to bring the price down to porterage and hardly that, without havin’ his serious thoughts of things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The charge for carrying burdens by porters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transportation of burdens by porters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The basket being large and heavy, Car had placed it for convenience of porterage on the top of her head, where it rode on in jeopardized balance as she walked with arms akimbo."*
+> - 📜 **Bram Stoker (*Dracula*):** *"When Skinsky had come to him, he had taken him to the ship and handed over the box, so as to save porterage."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A man don’t see all this here a goin’ on dreadful round him, in the way of Subjects without heads, dear me, plentiful enough fur to bring the price down to porterage and hardly that, without havin’ his serious thoughts of things."*

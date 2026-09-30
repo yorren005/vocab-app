@@ -5,13 +5,6 @@ status: unread
 ---
 # creosol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless to yellow aromatic liquid that is a constituent of creosote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless to yellow aromatic liquid that is a constituent of creosote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creosol designates a colorless to yellow aromatic liquid that is a constituent of creosote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless to yellow aromatic liquid that is a constituent of creosote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless to yellow aromatic liquid that is a constituent of creosote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creosol designates a colorless to yellow aromatic liquid that is a constituent of creosote."*

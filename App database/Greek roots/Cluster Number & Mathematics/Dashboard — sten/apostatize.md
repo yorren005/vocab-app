@@ -5,13 +5,6 @@ status: unread
 ---
 # apostatize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abandon one's beliefs or allegiances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abandon one's beliefs or allegiances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apostatize designates abandon one's beliefs or allegiances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abandon one's beliefs or allegiances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abandon one's beliefs or allegiances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apostatize designates abandon one's beliefs or allegiances."*

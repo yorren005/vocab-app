@@ -5,15 +5,6 @@ status: unread
 ---
 # vocabulary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A listing of the words used in some enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A language user's knowledge of words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Charley’s delight calmed mine; and after we had had a walk in the garden, and Charley had exhausted her whole vocabulary of admiring expressions, I was as tranquilly happy as I ought to have been."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for myself, at the beginnings of my vocabulary, at so tender a period that I still made hunger noises and sleep noises, yet even then did I know that I had been a star-rover."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent had not studied that science: though, as she said, she liked flowers, “especially wild ones;” Miss Ingram had, and she ran over its vocabulary with an air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A listing of the words used in some enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A language user's knowledge of words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Charley’s delight calmed mine; and after we had had a walk in the garden, and Charley had exhausted her whole vocabulary of admiring expressions, I was as tranquilly happy as I ought to have been."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for myself, at the beginnings of my vocabulary, at so tender a period that I still made hunger noises and sleep noises, yet even then did I know that I had been a star-rover."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent had not studied that science: though, as she said, she liked flowers, “especially wild ones;” Miss Ingram had, and she ran over its vocabulary with an air."*

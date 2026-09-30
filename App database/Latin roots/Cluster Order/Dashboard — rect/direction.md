@@ -5,15 +5,6 @@ status: unread
 ---
 # direction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line leading to a place or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial relation between something and the course along which it points or moves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s even as fair as “at hand, quoth the chamberlain,” for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do commit his youth To your direction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He needs not our mistrust; since he delivers Our offices and what we have to do To the direction just."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line leading to a place or point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial relation between something and the course along which it points or moves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s even as fair as “at hand, quoth the chamberlain,” for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do commit his youth To your direction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He needs not our mistrust; since he delivers Our offices and what we have to do To the direction just."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pentoxide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing five atoms of oxygen in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellowish-red crystalline compound V2O5 used especially in glass manufacture and as a catalyst.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentoxide designates an oxide containing five atoms of oxygen in the molecule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing five atoms of oxygen in the molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellowish-red crystalline compound V2O5 used especially in glass manufacture and as a catalyst.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentoxide designates an oxide containing five atoms of oxygen in the molecule."*

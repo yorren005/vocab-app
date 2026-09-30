@@ -5,15 +5,6 @@ status: unread
 ---
 # mandarin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree having flattened globose fruit with very sweet aromatic pulp and thin yellow-orange to flame-orange rind that is loose and easily removed; native to southeastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an elite intellectual or cultural group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Lord, Lord, a sea-cuny . . . and dispatched north over the Mandarin Road with five hundred soldiers and a retinue at my back!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once in a decade or a score of years Chinese ambassadors arrived, but they came overland, around the Yellow Sea, across the country of the Hong-du, and down the Mandarin Road to Keijo."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"He spoke English fairly well, and was sufficiently at home in the various forms of Mandarin to get on in Yunnan and Szechuan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree having flattened globose fruit with very sweet aromatic pulp and thin yellow-orange to flame-orange rind that is loose and easily removed; native to southeastern asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an elite intellectual or cultural group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Lord, Lord, a sea-cuny . . . and dispatched north over the Mandarin Road with five hundred soldiers and a retinue at my back!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once in a decade or a score of years Chinese ambassadors arrived, but they came overland, around the Yellow Sea, across the country of the Hong-du, and down the Mandarin Road to Keijo."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"He spoke English fairly well, and was sufficiently at home in the various forms of Mandarin to get on in Yunnan and Szechuan."*

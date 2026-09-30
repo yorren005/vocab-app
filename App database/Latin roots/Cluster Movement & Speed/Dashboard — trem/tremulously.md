@@ -5,15 +5,6 @@ status: unread
 ---
 # tremulously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tremulous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tremulous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should not be surprised if they all voluntarily abandoned the girl—yes, lover and all—instead of her abandoning them, supposing she remained at Chesney Wold under such circumstances.” “Well!” says Sir Leicester tremulously."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There is so little real friendship in the world! and unfortunately” (speaking low and tremulously) “there are so many who forget to think seriously till it is almost too late.” Anne saw the misery of such feelings."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Is it Sergeant Troy?” said the blurred spot in the snow, tremulously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tremulous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tremulous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I should not be surprised if they all voluntarily abandoned the girl—yes, lover and all—instead of her abandoning them, supposing she remained at Chesney Wold under such circumstances.” “Well!” says Sir Leicester tremulously."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There is so little real friendship in the world! and unfortunately” (speaking low and tremulously) “there are so many who forget to think seriously till it is almost too late.” Anne saw the misery of such feelings."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Is it Sergeant Troy?” said the blurred spot in the snow, tremulously."*

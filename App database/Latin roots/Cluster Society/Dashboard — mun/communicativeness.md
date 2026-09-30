@@ -5,15 +5,6 @@ status: unread
 ---
 # communicativeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being communicative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being communicative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Gardiner, whose manners were easy and pleasant, encouraged her communicativeness by his questions and remarks: Mrs."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I was courteously received by a worthy old housekeeper, who, with the civility and communicativeness of her order, showed me the interior of the house."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Do what one will for their comfort, those men are always ungrateful." She would have made up for his want of communicativeness by listening to the conversation as the two drank _vin ordinaire_, and munched radishes, but M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being communicative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being communicative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Gardiner, whose manners were easy and pleasant, encouraged her communicativeness by his questions and remarks: Mrs."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I was courteously received by a worthy old housekeeper, who, with the civility and communicativeness of her order, showed me the interior of the house."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Do what one will for their comfort, those men are always ungrateful." She would have made up for his want of communicativeness by listening to the conversation as the two drank _vin ordinaire_, and munched radishes, but M."*

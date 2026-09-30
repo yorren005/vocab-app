@@ -5,15 +5,6 @@ status: unread
 ---
 # ponderous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow and laborious because of weight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great mass and weight and unwieldiness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me not burst in ignorance; but tell Why thy canoniz’d bones, hearsed in death, Have burst their cerements; why the sepulchre, Wherein we saw thee quietly inurn’d, Hath op’d his ponderous and marble jaws To cast thee up again!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CORDELIA. [_Aside._] Then poor Cordelia, And yet not so; since, I am sure, my love’s More ponderous than my tongue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How may likeness, made in crimes, Make practice on the times, To draw with idle spiders’ strings Most ponderous and substantial things!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow and laborious because of weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great mass and weight and unwieldiness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me not burst in ignorance; but tell Why thy canoniz’d bones, hearsed in death, Have burst their cerements; why the sepulchre, Wherein we saw thee quietly inurn’d, Hath op’d his ponderous and marble jaws To cast thee up again!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CORDELIA. [_Aside._] Then poor Cordelia, And yet not so; since, I am sure, my love’s More ponderous than my tongue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How may likeness, made in crimes, Make practice on the times, To draw with idle spiders’ strings Most ponderous and substantial things!"*

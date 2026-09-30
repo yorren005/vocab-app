@@ -5,13 +5,6 @@ status: unread
 ---
 # neurotoxic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous to nerves or nerve cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous to nerves or nerve cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxic designates poisonous to nerves or nerve cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous to nerves or nerve cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous to nerves or nerve cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxic designates poisonous to nerves or nerve cells."*

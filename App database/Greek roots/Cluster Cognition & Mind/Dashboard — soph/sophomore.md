@@ -5,13 +5,6 @@ status: unread
 ---
 # sophomore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in the second year at college or a 4-year secondary school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or associated with the second in a series.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"SOPHOMORE PLUMPS FOR OLD MAN MOSES. —Call it, wait, the professor said, opening his long lips wide to reflect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in the second year at college or a 4-year secondary school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or associated with the second in a series.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"SOPHOMORE PLUMPS FOR OLD MAN MOSES. —Call it, wait, the professor said, opening his long lips wide to reflect."*

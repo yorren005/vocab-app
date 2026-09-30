@@ -5,15 +5,6 @@ status: unread
 ---
 # hypnotized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your attention fixated as though by a spell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She came nearer, as though hypnotized ..."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Morbid Secre- tion hypnotized the prisoner and took control of his mind, 431:24 making him despondent."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They tell you what to think." "What do you mean?" "You put the helmet on and it's like you're hypnotized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your attention fixated as though by a spell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She came nearer, as though hypnotized ..."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Morbid Secre- tion hypnotized the prisoner and took control of his mind, 431:24 making him despondent."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They tell you what to think." "What do you mean?" "You put the helmet on and it's like you're hypnotized."*

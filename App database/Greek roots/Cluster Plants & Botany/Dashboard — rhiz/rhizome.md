@@ -5,13 +5,6 @@ status: unread
 ---
 # rhizome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A somewhat elongated usually horizontal subterranean plant stem that is often thickened by deposits of reserve food material, produces shoots above and roots below, and is distinguished from a true root in possessing buds, nodes, and usually scalelike leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A somewhat elongated usually horizontal subterranean plant stem that is often thickened by deposits of reserve food material, produces shoots above and roots below, and is distinguished from a true root in possessing buds, nodes, and usually scalelike leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizome designates a somewhat elongated usually horizontal subterranean plant stem that is often thickened by deposits of reserve food material, produces shoots above and roots below, and is distinguished from a true root in possessing buds, nodes, and usually scalelike leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A somewhat elongated usually horizontal subterranean plant stem that is often thickened by deposits of reserve food material, produces shoots above and roots below, and is distinguished from a true root in possessing buds, nodes, and usually scalelike leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A somewhat elongated usually horizontal subterranean plant stem that is often thickened by deposits of reserve food material, produces shoots above and roots below, and is distinguished from a true root in possessing buds, nodes, and usually scalelike leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizome designates a somewhat elongated usually horizontal subterranean plant stem that is often thickened by deposits of reserve food material, produces shoots above and roots below, and is distinguished from a true root in possessing buds, nodes, and usually scalelike leaves."*

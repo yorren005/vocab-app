@@ -5,15 +5,6 @@ status: unread
 ---
 # bellman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone employed as an errand boy and luggage carrier around hotels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed as an errand boy and luggage carrier around hotels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the owl that shriek’d, the fatal bellman, Which gives the stern’st good night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, Bellman is as good as he, my lord; He cried upon it at the merest loss, And twice today pick’d out the dullest scent; Trust me, I take him for the better dog."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Clinkum, clinkumbell, the beadle, the bellman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone employed as an errand boy and luggage carrier around hotels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed as an errand boy and luggage carrier around hotels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the owl that shriek’d, the fatal bellman, Which gives the stern’st good night."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, Bellman is as good as he, my lord; He cried upon it at the merest loss, And twice today pick’d out the dullest scent; Trust me, I take him for the better dog."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Clinkum, clinkumbell, the beadle, the bellman."*

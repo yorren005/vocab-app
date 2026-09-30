@@ -5,15 +5,6 @@ status: unread
 ---
 # indecision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt concerning two or more possible alternatives or courses of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of irresolution; a lack of firmness of character or purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With the round top of an inkstand and two broken bits of sealing-wax he is silently and slowly working out whatever train of indecision is in his mind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This train of indecision must surely be worked out now or never."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How much of this indecision of character,” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt concerning two or more possible alternatives or courses of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of irresolution; a lack of firmness of character or purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"With the round top of an inkstand and two broken bits of sealing-wax he is silently and slowly working out whatever train of indecision is in his mind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This train of indecision must surely be worked out now or never."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"How much of this indecision of character,” Mr."*

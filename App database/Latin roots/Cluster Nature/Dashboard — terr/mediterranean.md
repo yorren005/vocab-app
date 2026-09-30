@@ -5,15 +5,6 @@ status: unread
 ---
 # mediterranean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest inland sea; between europe and africa and asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or located near the mediterranean sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was in the Mediterranean with him; I am quite a sailor."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bayham Badger when she was in the Mediterranean.” He invited Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"After that, when I was with Captain Swosser in the Mediterranean, I embraced every opportunity of knowing and befriending the midshipmen under Captain Swosser’s command."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest inland sea; between europe and africa and asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or located near the mediterranean sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was in the Mediterranean with him; I am quite a sailor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bayham Badger when she was in the Mediterranean.” He invited Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"After that, when I was with Captain Swosser in the Mediterranean, I embraced every opportunity of knowing and befriending the midshipmen under Captain Swosser’s command."*

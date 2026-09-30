@@ -5,13 +5,6 @@ status: unread
 ---
 # scindapsus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen climbers with adhesive adventitious roots; southeastern asia and brazil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen climbers with adhesive adventitious roots; southeastern asia and brazil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scindapsus designates evergreen climbers with adhesive adventitious roots; southeastern asia and brazil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen climbers with adhesive adventitious roots; southeastern asia and brazil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen climbers with adhesive adventitious roots; southeastern asia and brazil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scindapsus designates evergreen climbers with adhesive adventitious roots; southeastern asia and brazil."*

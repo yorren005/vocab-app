@@ -5,15 +5,6 @@ status: unread
 ---
 # intuitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spontaneously derived from or prompted by a natural tendency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtained through intuition rather than from reasoning or observation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Warm yourself!” Richard shook him by both hands with an intuitive mixture of respect and frankness, and only saying (though with an earnestness that rather alarmed me, I was so afraid of Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the consciousness expands on learning that what was fancied to be the rumble of wheels is the reverberation of thunder, so did Bathsheba’s at her intuitive conviction."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The intuitive heart of woman knoweth not only its own bitterness, but its husband’s, and even if these assumed reproaches were not likely to be addressed to him or to his by strangers, they might have reached his ears from his own fastidious brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spontaneously derived from or prompted by a natural tendency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtained through intuition rather than from reasoning or observation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Warm yourself!” Richard shook him by both hands with an intuitive mixture of respect and frankness, and only saying (though with an earnestness that rather alarmed me, I was so afraid of Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the consciousness expands on learning that what was fancied to be the rumble of wheels is the reverberation of thunder, so did Bathsheba’s at her intuitive conviction."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The intuitive heart of woman knoweth not only its own bitterness, but its husband’s, and even if these assumed reproaches were not likely to be addressed to him or to his by strangers, they might have reached his ears from his own fastidious brain."*

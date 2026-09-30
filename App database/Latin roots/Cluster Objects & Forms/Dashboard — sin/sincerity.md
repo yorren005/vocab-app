@@ -5,15 +5,6 @@ status: unread
 ---
 # sincerity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest and sincere feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being open and truthful; not deceitful or hypocritical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall see now, in very sincerity of fear and cold heart, will he to the King, and lay open all our proceedings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So jest with heaven, Make such unconstant children of ourselves, As now again to snatch our palm from palm, Unswear faith sworn, and on the marriage-bed Of smiling peace to march a bloody host, And make a riot on the gentle brow Of true sincerity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hold you as a thing enskied and sainted By your renouncement an immortal spirit, And to be talked with in sincerity, As with a saint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest and sincere feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being open and truthful; not deceitful or hypocritical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall see now, in very sincerity of fear and cold heart, will he to the King, and lay open all our proceedings."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So jest with heaven, Make such unconstant children of ourselves, As now again to snatch our palm from palm, Unswear faith sworn, and on the marriage-bed Of smiling peace to march a bloody host, And make a riot on the gentle brow Of true sincerity?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hold you as a thing enskied and sainted By your renouncement an immortal spirit, And to be talked with in sincerity, As with a saint."*

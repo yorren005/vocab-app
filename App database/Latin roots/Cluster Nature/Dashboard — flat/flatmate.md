@@ -5,13 +5,6 @@ status: unread
 ---
 # flatmate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An associate who shares an apartment with you.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An associate who shares an apartment with you.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flatmate designates an associate who shares an apartment with you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An associate who shares an apartment with you.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An associate who shares an apartment with you.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flatmate designates an associate who shares an apartment with you."*

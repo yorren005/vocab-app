@@ -5,13 +5,6 @@ status: unread
 ---
 # detent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detent designates a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detent designates a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward."*

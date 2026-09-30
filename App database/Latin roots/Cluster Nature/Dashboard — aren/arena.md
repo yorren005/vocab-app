@@ -5,15 +5,6 @@ status: unread
 ---
 # arena
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular environment or walk of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area of an ancient roman amphitheater where contests and spectacles were held; especially an area that was strewn with sand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Among his fellow-students his reputation was maintained not merely by the honours he gained in the class lists, but by his prowess in the debating arena."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The results, however, are momentous; for the hero, being a man of action, is no longer content to write and pay for the printing: in his capacity of liberator he has to step into the arena, and, above all, he has to think out a philosophy."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I might have been an unfortunate little bull in a Spanish arena, I got so smartingly touched up by these moral goads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular environment or walk of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area of an ancient roman amphitheater where contests and spectacles were held; especially an area that was strewn with sand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Among his fellow-students his reputation was maintained not merely by the honours he gained in the class lists, but by his prowess in the debating arena."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The results, however, are momentous; for the hero, being a man of action, is no longer content to write and pay for the printing: in his capacity of liberator he has to step into the arena, and, above all, he has to think out a philosophy."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I might have been an unfortunate little bull in a Spanish arena, I got so smartingly touched up by these moral goads."*

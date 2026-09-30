@@ -5,15 +5,6 @@ status: unread
 ---
 # reiterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be a stander-by to hear My sovereign mistress clouded so, without My present vengeance taken: ’shrew my heart, You never spoke what did become you less Than this; which to reiterate were sin As deep as that, though true."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How hard it was to reiterate firmly, “I am going.” “Jane!” “Mr."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby was now in ecstasies, especially as the young savages continued to reiterate their answer with great energy, as though desirous of impressing us with the idea that being among the Happars, we ought to consider ourselves perfectly secure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be a stander-by to hear My sovereign mistress clouded so, without My present vengeance taken: ’shrew my heart, You never spoke what did become you less Than this; which to reiterate were sin As deep as that, though true."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How hard it was to reiterate firmly, “I am going.” “Jane!” “Mr."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby was now in ecstasies, especially as the young savages continued to reiterate their answer with great energy, as though desirous of impressing us with the idea that being among the Happars, we ought to consider ourselves perfectly secure."*

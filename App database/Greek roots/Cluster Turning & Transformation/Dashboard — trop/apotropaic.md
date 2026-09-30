@@ -5,13 +5,6 @@ status: unread
 ---
 # apotropaic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to prevent evil or bad luck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the power to prevent evil or bad luck.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apotropaic designates having the power to prevent evil or bad luck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to prevent evil or bad luck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the power to prevent evil or bad luck.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apotropaic designates having the power to prevent evil or bad luck."*

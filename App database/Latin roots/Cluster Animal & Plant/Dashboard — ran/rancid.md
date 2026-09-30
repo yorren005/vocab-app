@@ -5,15 +5,6 @@ status: unread
 ---
 # rancid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of decomposing oils or fats) having a rank smell or taste usually due to a chemical change or decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of fermentation or staleness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Then anointing himself with a mixture of rancid cocoanut and kukui oil, which gave him a very strong corpse-like odor, he started with his companions in the well-loaded canoes for a point in the sea where the sky comes down to meet the water."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And he heard many remarks, such as "Whew! what an odor this corpse emits!" "He must have been long dead." He had rather overdone the matter of the rancid oil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of decomposing oils or fats) having a rank smell or taste usually due to a chemical change or decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of fermentation or staleness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Then anointing himself with a mixture of rancid cocoanut and kukui oil, which gave him a very strong corpse-like odor, he started with his companions in the well-loaded canoes for a point in the sea where the sky comes down to meet the water."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And he heard many remarks, such as "Whew! what an odor this corpse emits!" "He must have been long dead." He had rather overdone the matter of the rancid oil."*

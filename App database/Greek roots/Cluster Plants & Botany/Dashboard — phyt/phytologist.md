@@ -5,13 +5,6 @@ status: unread
 ---
 # phytologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist specializing in the study of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist specializing in the study of plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His short communications on botany were chiefly if not entirely published in a monthly magazine called "The Phytologist," edited, from its commencement in 1841, by the late George Luxford, till his death, in 1854, and afterwards conducted by Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist specializing in the study of plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist specializing in the study of plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His short communications on botany were chiefly if not entirely published in a monthly magazine called "The Phytologist," edited, from its commencement in 1841, by the late George Luxford, till his death, in 1854, and afterwards conducted by Mr."*

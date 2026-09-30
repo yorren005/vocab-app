@@ -5,13 +5,6 @@ status: unread
 ---
 # placement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of the way in which something is placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contact established between applicants and prospective employees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placement designates the spatial property of the way in which something is placed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of the way in which something is placed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contact established between applicants and prospective employees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placement designates the spatial property of the way in which something is placed."*

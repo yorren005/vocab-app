@@ -5,15 +5,6 @@ status: unread
 ---
 # starlight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The light of the stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light of the stars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now they never meet in grove or green, By fountain clear, or spangled starlight sheen, But they do square; that all their elves for fear Creep into acorn cups, and hide them there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She will find him by starlight."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn would walk on turret-tops in the starlight and look up into the sky to read their fortunes there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The light of the stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light of the stars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now they never meet in grove or green, By fountain clear, or spangled starlight sheen, But they do square; that all their elves for fear Creep into acorn cups, and hide them there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She will find him by starlight."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn would walk on turret-tops in the starlight and look up into the sky to read their fortunes there."*

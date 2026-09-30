@@ -5,15 +5,6 @@ status: unread
 ---
 # selective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to select; characterized by careful choice; - john mason brown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by very careful or fastidious selection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"We improve our favourite plants and animals—and how few they are—gradually by selective breeding; now a new and better peach, now a seedless grape, now a sweeter and larger flower, now a more convenient breed of cattle."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the first place, there is the basis of glass, but upon that there is laid what we might term the selective screen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It differs very little from the Lumiere except in detail, the selective screen being formed of small coloured squares instead of by a mass of little grains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to select; characterized by careful choice; - john mason brown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by very careful or fastidious selection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"We improve our favourite plants and animals—and how few they are—gradually by selective breeding; now a new and better peach, now a seedless grape, now a sweeter and larger flower, now a more convenient breed of cattle."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the first place, there is the basis of glass, but upon that there is laid what we might term the selective screen."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It differs very little from the Lumiere except in detail, the selective screen being formed of small coloured squares instead of by a mass of little grains."*

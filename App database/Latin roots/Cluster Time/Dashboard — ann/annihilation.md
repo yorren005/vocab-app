@@ -5,15 +5,6 @@ status: unread
 ---
 # annihilation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction by annihilating something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In truth, he had awakened that morning from a sleep deep as annihilation; and during those first few moments in which the brain, like a Samson shaking himself, is trying its strength, he had some dim notion of an unusual nocturnal proceeding."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He, with open eyes, chose physical pain, heightened to torture, not escaping any of the suffering which anticipation gives--that physical horror of death, that instinctive fear of annihilation, which nature suggests of itself."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth would be instant annihilation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction by annihilating something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In truth, he had awakened that morning from a sleep deep as annihilation; and during those first few moments in which the brain, like a Samson shaking himself, is trying its strength, he had some dim notion of an unusual nocturnal proceeding."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He, with open eyes, chose physical pain, heightened to torture, not escaping any of the suffering which anticipation gives--that physical horror of death, that instinctive fear of annihilation, which nature suggests of itself."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth would be instant annihilation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fixings
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food that is a component of a mixture in cooking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accessories that normally accompany (something or some activity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Well, he told me all about how you'd settled down now--son and heir, fireside bliss, pretty wife, and all the fixings."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"We’re collecting old-fashioned fixings everywhere."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The king said it was all the more homely and more pleasanter for these fixings, and so don’t disturb them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food that is a component of a mixture in cooking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accessories that normally accompany (something or some activity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Well, he told me all about how you'd settled down now--son and heir, fireside bliss, pretty wife, and all the fixings."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"We’re collecting old-fashioned fixings everywhere."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The king said it was all the more homely and more pleasanter for these fixings, and so don’t disturb them."*

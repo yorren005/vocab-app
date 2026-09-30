@@ -5,13 +5,6 @@ status: unread
 ---
 # nonoccurrence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence by virtue of not occurring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence by virtue of not occurring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonoccurrence designates absence by virtue of not occurring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence by virtue of not occurring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence by virtue of not occurring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonoccurrence designates absence by virtue of not occurring."*

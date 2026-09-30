@@ -5,13 +5,6 @@ status: unread
 ---
 # tenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A framework with hooks used for stretching and drying cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A framework with hooks used for stretching and drying cloth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenter designates a framework with hooks used for stretching and drying cloth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A framework with hooks used for stretching and drying cloth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A framework with hooks used for stretching and drying cloth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenter designates a framework with hooks used for stretching and drying cloth."*

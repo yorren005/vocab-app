@@ -5,13 +5,6 @@ status: unread
 ---
 # intertribal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among tribes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among tribes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We may deplore the brutality of these intertribal fights, but it is the sefights or wars that perpetuate the race by saving its members from the fatal effects of sloth, and a lack of interest in life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among tribes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among tribes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We may deplore the brutality of these intertribal fights, but it is the sefights or wars that perpetuate the race by saving its members from the fatal effects of sloth, and a lack of interest in life."*

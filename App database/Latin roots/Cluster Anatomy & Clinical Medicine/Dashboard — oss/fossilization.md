@@ -5,13 +5,6 @@ status: unread
 ---
 # fossilization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming inflexible or out of date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fossilization designates the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming inflexible or out of date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fossilization designates the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # centiliter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to one hundredth of a liter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume equal to one hundredth of a liter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centiliter designates a metric unit of volume equal to one hundredth of a liter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume equal to one hundredth of a liter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume equal to one hundredth of a liter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centiliter designates a metric unit of volume equal to one hundredth of a liter."*

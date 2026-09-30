@@ -5,15 +5,6 @@ status: unread
 ---
 # diverge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or draw apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have no limits as a mathematical series.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If we did by any chance diverge into another subject, we soon returned to this, and wondered what the house would be like, and when we should get there, and whether we should see Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The average result of a certain social policy may be right, but individuals diverge from the average and thus have constantly a motive to attempt to change the limits of governmental action."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Thus it is that historians differ at the very outset, and mere pebbles make the stream of truth diverge into different channels even at the fountain-head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or draw apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have no limits as a mathematical series.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If we did by any chance diverge into another subject, we soon returned to this, and wondered what the house would be like, and when we should get there, and whether we should see Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The average result of a certain social policy may be right, but individuals diverge from the average and thus have constantly a motive to attempt to change the limits of governmental action."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Thus it is that historians differ at the very outset, and mere pebbles make the stream of truth diverge into different channels even at the fountain-head."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incessantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With unflagging resolve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And suddenly tearing away from their clinging arms she burst into a hysterical fit of tears, bowing herself on the chest of drawers and repeating incessantly, “O yes, yes, yes!” Having once given way she could not stop her weeping."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wind was so nipping that the ivy-leaves had become wizened and gray, each tapping incessantly upon its neighbour with a disquieting stir of her nerves."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Incessantly to remember, means obsession, lunacy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With unflagging resolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And suddenly tearing away from their clinging arms she burst into a hysterical fit of tears, bowing herself on the chest of drawers and repeating incessantly, “O yes, yes, yes!” Having once given way she could not stop her weeping."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wind was so nipping that the ivy-leaves had become wizened and gray, each tapping incessantly upon its neighbour with a disquieting stir of her nerves."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Incessantly to remember, means obsession, lunacy."*

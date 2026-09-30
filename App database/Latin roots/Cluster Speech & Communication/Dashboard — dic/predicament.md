@@ -5,15 +5,6 @@ status: unread
 ---
 # predicament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation from which extrication is difficult especially an unpleasant or trying one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation from which extrication is difficult especially an unpleasant or trying one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, pardon me, that I descend so low, To show the line and the predicament Wherein you range under this subtle King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In which predicament I say thou stand’st; For it appears by manifest proceeding That indirectly, and directly too, Thou hast contrived against the very life Of the defendant; and thou hast incurr’d The danger formerly by me rehears’d."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was a much safer place for a gentleman in his predicament: he might there be important at comparatively little expense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation from which extrication is difficult especially an unpleasant or trying one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation from which extrication is difficult especially an unpleasant or trying one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, pardon me, that I descend so low, To show the line and the predicament Wherein you range under this subtle King."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In which predicament I say thou stand’st; For it appears by manifest proceeding That indirectly, and directly too, Thou hast contrived against the very life Of the defendant; and thou hast incurr’d The danger formerly by me rehears’d."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It was a much safer place for a gentleman in his predicament: he might there be important at comparatively little expense."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # legitimation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering a person legitimate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making lawful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have disclaim’d Sir Robert and my land; Legitimation, name, and all is gone."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre is illegitimate.” “But, my dear,” said Prince Vasíli suddenly, clutching the little table and becoming more animated and talking more rapidly: “what if a letter has been written to the Emperor in which the count asks for Pierre’s legitimation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering a person legitimate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making lawful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have disclaim’d Sir Robert and my land; Legitimation, name, and all is gone."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre is illegitimate.” “But, my dear,” said Prince Vasíli suddenly, clutching the little table and becoming more animated and talking more rapidly: “what if a letter has been written to the Emperor in which the count asks for Pierre’s legitimation?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # docetism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The heretical doctrine (associated with the gnostics) that jesus had no human body and his sufferings and death on the cross were apparent rather than real.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heretical doctrine (associated with the gnostics) that jesus had no human body and his sufferings and death on the cross were apparent rather than real.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Docetism, with its phantom Christ, and Gnosticism with its antithesis of the just God and the good God, were not likely to satisfy mankind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The heretical doctrine (associated with the gnostics) that jesus had no human body and his sufferings and death on the cross were apparent rather than real.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heretical doctrine (associated with the gnostics) that jesus had no human body and his sufferings and death on the cross were apparent rather than real.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Docetism, with its phantom Christ, and Gnosticism with its antithesis of the just God and the good God, were not likely to satisfy mankind."*

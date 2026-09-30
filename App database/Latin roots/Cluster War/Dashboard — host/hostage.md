@@ -5,15 +5,6 @@ status: unread
 ---
 # hostage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prisoner who is held by one party to insure that another party will meet specified terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prisoner who is held by one party to insure that another party will meet specified terms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have sent Cloten’s clotpoll down the stream, In embassy to his mother; his body’s hostage For his return. [_Solemn music._] BELARIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aemilius, do this message honourably, And if he stand on hostage for his safety, Bid him demand what pledge will please him best."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou couch But one night with her, every hour in ’t will Take hostage of thee for a hundred, and Thou shalt remember nothing more than what That banquet bids thee to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prisoner who is held by one party to insure that another party will meet specified terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prisoner who is held by one party to insure that another party will meet specified terms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have sent Cloten’s clotpoll down the stream, In embassy to his mother; his body’s hostage For his return. [_Solemn music._] BELARIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aemilius, do this message honourably, And if he stand on hostage for his safety, Bid him demand what pledge will please him best."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou couch But one night with her, every hour in ’t will Take hostage of thee for a hundred, and Thou shalt remember nothing more than what That banquet bids thee to."*

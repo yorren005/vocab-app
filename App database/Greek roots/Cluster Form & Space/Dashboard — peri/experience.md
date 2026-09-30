@@ -5,15 +5,6 @@ status: unread
 ---
 # experience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation of knowledge or skill that results from direct participation in events or activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The content of direct observation or participation in an event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to confound such time That drums him from his sport, and speaks as loud As his own state and ours, ’tis to be chid As we rate boys who, being mature in knowledge, Pawn their experience to their present pleasure And so rebel to judgment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Experience, manhood, honour, ne’er before Did violate so itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation of knowledge or skill that results from direct participation in events or activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The content of direct observation or participation in an event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to confound such time That drums him from his sport, and speaks as loud As his own state and ours, ’tis to be chid As we rate boys who, being mature in knowledge, Pawn their experience to their present pleasure And so rebel to judgment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Experience, manhood, honour, ne’er before Did violate so itself."*

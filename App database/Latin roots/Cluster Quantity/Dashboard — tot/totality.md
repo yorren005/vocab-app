@@ -5,15 +5,6 @@ status: unread
 ---
 # totality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being total and complete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being complete and indiscriminate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was spread-eagled, and thumbed-up, and privily beaten by the stupid guards whose totality of intelligence was only just sufficient to show them that I was different from them and not so stupid."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did I go into the minutiæ of detail of all that I saw this half a day and half a night that I was Count Guillaume de Sainte-Maure, not ten books the size of this I am writing could contain the totality of the matter."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The primary fact determining the public finances is the extent of the sphere of "the state," meaning by the state the totality of political powers and functions in a community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being total and complete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being complete and indiscriminate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was spread-eagled, and thumbed-up, and privily beaten by the stupid guards whose totality of intelligence was only just sufficient to show them that I was different from them and not so stupid."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Did I go into the minutiæ of detail of all that I saw this half a day and half a night that I was Count Guillaume de Sainte-Maure, not ten books the size of this I am writing could contain the totality of the matter."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The primary fact determining the public finances is the extent of the sphere of "the state," meaning by the state the totality of political powers and functions in a community."*

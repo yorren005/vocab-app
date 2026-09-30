@@ -5,15 +5,6 @@ status: unread
 ---
 # apart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remote and separate physically or socially; ; - w.h.hudson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics not shared by others; - vannever bush.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dare him therefore To lay his gay comparisons apart, And answer me declined, sword against sword, Ourselves alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go apart, Adam, and thou shalt hear how he will shake me up. [_Adam retires._] OLIVER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay, stand apart, I know not which is which."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remote and separate physically or socially; ; - w.h.hudson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics not shared by others; - vannever bush.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dare him therefore To lay his gay comparisons apart, And answer me declined, sword against sword, Ourselves alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go apart, Adam, and thou shalt hear how he will shake me up. [_Adam retires._] OLIVER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay, stand apart, I know not which is which."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # participate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share in something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become a participant; be involved in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A spirit I am indeed, But am in that dimension grossly clad, Which from the womb I did participate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are more than three times as many of them as of reported savings banks, their management is much more democratic than is that of the banks, and many of their members attend and participate in the meetings and understand how they are conducted."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policies that receive dividends are called "participating" and are said to participate in the earnings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Share in something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become a participant; be involved in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A spirit I am indeed, But am in that dimension grossly clad, Which from the womb I did participate."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are more than three times as many of them as of reported savings banks, their management is much more democratic than is that of the banks, and many of their members attend and participate in the meetings and understand how they are conducted."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policies that receive dividends are called "participating" and are said to participate in the earnings."*

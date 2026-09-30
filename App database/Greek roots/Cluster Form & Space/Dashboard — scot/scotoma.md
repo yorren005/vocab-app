@@ -5,13 +5,6 @@ status: unread
 ---
 # scotoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spot in the visual field in which vision is absent or deficient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spot in the visual field in which vision is absent or deficient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotoma designates a spot in the visual field in which vision is absent or deficient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spot in the visual field in which vision is absent or deficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spot in the visual field in which vision is absent or deficient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotoma designates a spot in the visual field in which vision is absent or deficient."*

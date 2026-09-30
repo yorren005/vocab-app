@@ -5,13 +5,6 @@ status: unread
 ---
 # smiledon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saber-toothed tigers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saber-toothed tigers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smiledon designates saber-toothed tigers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saber-toothed tigers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saber-toothed tigers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smiledon designates saber-toothed tigers."*

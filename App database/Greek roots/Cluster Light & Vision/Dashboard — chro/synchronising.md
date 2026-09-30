@@ -5,13 +5,6 @@ status: unread
 ---
 # synchronising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adjustment that causes something to occur or recur in unison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And when we separate the two by a distance of many miles, the task of synchronising them is even worse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adjustment that causes something to occur or recur in unison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And when we separate the two by a distance of many miles, the task of synchronising them is even worse."*

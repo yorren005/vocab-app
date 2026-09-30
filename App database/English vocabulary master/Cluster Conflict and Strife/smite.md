@@ -5,20 +5,6 @@ status: unread
 ---
 # smite
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Kill violently; to slay
-> 2. **Nuance / Usage**: Afflict; to chasten; to punish
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to smite the target*) and intransitive clauses (*smiting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Wake (*Preparation for Death*):** *"Let us not mistake the goodness of God, nor imagine that because he smites us, therefore we are forsaken by him."*
-> - 📜 **Alexander Pope (*The Works of Alexander Pope: Esq., with His Last Corrections, Additions, and Improvements*):** *"See what the charms that smite the simple heart, // Not touch'd by Nature, and not reach'd by art."*
-> - 📜 **Rupert Penny (*Policeman's Holiday*):** *"Beale, who had not been driving very well, took a smite at his ball and sent it curving far away to the left into a mess of gorse of bramble bushes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To strike with a firm, heavy blow of the hand or a weapon; to defeat, afflict, or destroy with sudden force.
+> 2. **Nuance / Usage**: Frequently used in the passive participle *smitten* to mean deeply captivated, infatuated, or struck with sudden love, awe, or remorse (*smitten with her charm*, *conscience-smitten*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive; past *smote*, participle *smitten*).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to smite the enemy*) and participial predicates (*smitten with remorse*).
+> - **Collocations & Registers**: Biblical, epic, and psychological registers; collocated with *hip and thigh*, *conscience*, *terror*, *blindness*, and *sword*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Wake (*Preparation for Death*):** *"Let us not mistake the goodness of God, nor imagine that because he **smites** us, therefore we are forsaken by him."*
+> - 📜 **Alexander Pope (*Moral Essays*):** *"See what the charms that **smite** the simple heart, not touch'd by Nature, and not reach'd by art."*
+> - 📜 **Alfred, Lord Tennyson (*Ulysses*):** *"Push off, and sitting well in order **smite** the sounding furrows; for my purpose holds to sail beyond the sunset."*

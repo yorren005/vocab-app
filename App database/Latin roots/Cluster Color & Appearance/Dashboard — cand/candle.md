@@ -5,15 +5,6 @@ status: unread
 ---
 # candle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stick of wax with a wick in the middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of luminous intensity adopted under the systeme international d'unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees kelvin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What though you have no beauty— As, by my faith, I see no more in you Than without candle may go dark to bed— Must you be therefore proud and pitiless?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time enough to go to bed with a candle, I warrant thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are as a candle, the better part burnt out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stick of wax with a wick in the middle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of luminous intensity adopted under the systeme international d'unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees kelvin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What though you have no beauty— As, by my faith, I see no more in you Than without candle may go dark to bed— Must you be therefore proud and pitiless?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time enough to go to bed with a candle, I warrant thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are as a candle, the better part burnt out."*

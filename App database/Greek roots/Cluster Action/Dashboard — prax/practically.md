@@ -5,15 +5,6 @@ status: unread
 ---
 # practically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Almost; nearly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a practical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She could talk and think of practically nothing but Leonore."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The circuit of the walls, which were built in the reign of Elizabeth, with their bastions, "mounts," and gates, is still practically complete, and is preserved with care and pride."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Its adherents, who included perhaps one-third of the ministers and people of the Church, were specially numerous in the Highlands, where United Presbyterianism was practically unrepresented."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Almost; nearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a practical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She could talk and think of practically nothing but Leonore."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The circuit of the walls, which were built in the reign of Elizabeth, with their bastions, "mounts," and gates, is still practically complete, and is preserved with care and pride."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Its adherents, who included perhaps one-third of the ministers and people of the Church, were specially numerous in the Highlands, where United Presbyterianism was practically unrepresented."*

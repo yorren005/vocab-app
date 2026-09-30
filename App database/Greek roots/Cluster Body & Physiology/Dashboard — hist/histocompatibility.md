@@ -5,13 +5,6 @@ status: unread
 ---
 # histocompatibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of mutual tolerance that allows some tissues to be grafted effectively to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of genes in mammals that code for cell-surface polymorphic glycoprotein molecules which display antigenic peptide fragments for T cell recognition and aid in the ability of the immune system to determine self from nonself —often used before another noun —abbreviation MHC.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histocompatibility designates a state of mutual tolerance that allows some tissues to be grafted effectively to others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of mutual tolerance that allows some tissues to be grafted effectively to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of genes in mammals that code for cell-surface polymorphic glycoprotein molecules which display antigenic peptide fragments for T cell recognition and aid in the ability of the immune system to determine self from nonself —often used before another noun —abbreviation MHC.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histocompatibility designates a state of mutual tolerance that allows some tissues to be grafted effectively to others."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stairhead
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Platform at the top of a staircase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platform at the top of a staircase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When tired of this occupation, I would retire from the stairhead to the solitary and silent nursery: there, though somewhat sad, I was not miserable."*
-> - 📜 **James Joyce (*Ulysses*):** *"His head vanished but the drone of his descending voice boomed out of the stairhead: And no more turn aside and brood Upon love’s bitter mystery For Fergus rules the brazen cars."*
-> - 📜 **James Joyce (*Ulysses*):** *"Woodshadows floated silently by through the morning peace from the stairhead seaward where he gazed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Platform at the top of a staircase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platform at the top of a staircase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When tired of this occupation, I would retire from the stairhead to the solitary and silent nursery: there, though somewhat sad, I was not miserable."*
+> - 📜 **James Joyce (*Ulysses*):** *"His head vanished but the drone of his descending voice boomed out of the stairhead: And no more turn aside and brood Upon love’s bitter mystery For Fergus rules the brazen cars."*
+> - 📜 **James Joyce (*Ulysses*):** *"Woodshadows floated silently by through the morning peace from the stairhead seaward where he gazed."*

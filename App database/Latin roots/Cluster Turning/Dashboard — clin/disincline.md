@@ -5,15 +5,6 @@ status: unread
 ---
 # disincline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unwilling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, was so strongly disinclined to die that I refused to let Warden Atherton and Captain Jamie kill me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unwilling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, was so strongly disinclined to die that I refused to let Warden Atherton and Captain Jamie kill me."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # appendicitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vermiform appendix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vermiform appendix.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Drury's floor was that Dorrie's pretty, sluttish little mother had been whisked off to the Cottage Hospital with appendicitis an hour earlier."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Gabrilowitsch had been operated on for appendicitis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vermiform appendix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vermiform appendix.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Drury's floor was that Dorrie's pretty, sluttish little mother had been whisked off to the Cottage Hospital with appendicitis an hour earlier."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Gabrilowitsch had been operated on for appendicitis."*

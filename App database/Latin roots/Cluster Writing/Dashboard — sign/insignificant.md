@@ -5,15 +5,6 @@ status: unread
 ---
 # insignificant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signifying nothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was no insignificant barrier, indeed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was something in the tone of twopence remarkably insignificant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She seemed to experience mirth, but of too insignificant a kind to start enjoyment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signifying nothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It was no insignificant barrier, indeed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was something in the tone of twopence remarkably insignificant."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She seemed to experience mirth, but of too insignificant a kind to start enjoyment."*

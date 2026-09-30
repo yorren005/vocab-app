@@ -5,15 +5,6 @@ status: unread
 ---
 # represent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place of or be parallel or equivalent to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For well I wot the empress never wags But in her company there is a Moor; And, would you represent our queen aright, It were convenient you had such a devil."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if I avow that I represent, in Jarndyce and Jarndyce and otherwise, a highly humane, but at the same time singular, man, shall I compromise myself by any stretch of my professional caution?” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband unpleasantly warm, but to represent the innocent Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place of or be parallel or equivalent to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For well I wot the empress never wags But in her company there is a Moor; And, would you represent our queen aright, It were convenient you had such a devil."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if I avow that I represent, in Jarndyce and Jarndyce and otherwise, a highly humane, but at the same time singular, man, shall I compromise myself by any stretch of my professional caution?” said Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband unpleasantly warm, but to represent the innocent Mr."*

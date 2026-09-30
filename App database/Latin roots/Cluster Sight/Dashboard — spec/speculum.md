@@ -5,14 +5,6 @@ status: unread
 ---
 # speculum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mirror (especially one made of polished metal) for use in an optical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for dilating a bodily passage or cavity in order to examine the interior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The "Speculum Humanae Salvationes," attributed to Coster by Junius was partly a folio Latin block-book, and partly typographically printed."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Their bad, irregular condition was due to the tools being imperfect, and Coster in the first practice of his invention was inexperienced and therefore bound to produce such imperfections as are found in the Speculum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mirror (especially one made of polished metal) for use in an optical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for dilating a bodily passage or cavity in order to examine the interior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The "Speculum Humanae Salvationes," attributed to Coster by Junius was partly a folio Latin block-book, and partly typographically printed."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Their bad, irregular condition was due to the tools being imperfect, and Coster in the first practice of his invention was inexperienced and therefore bound to produce such imperfections as are found in the Speculum."*

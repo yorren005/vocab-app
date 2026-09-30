@@ -5,15 +5,6 @@ status: unread
 ---
 # armenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in southwestern asia; formerly an asian soviet; modern armenia is but a fragment of ancient armenia which was one of the world's oldest civilizations; throughout 2500 years the armenian people have been invaded and oppressed by their neighbors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in southwestern asia; formerly an asian soviet; modern armenia is but a fragment of ancient armenia which was one of the world's oldest civilizations; throughout 2500 years the armenian people have been invaded and oppressed by their neighbors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what I have conquered I grant him part; but then in his Armenia And other of his conquered kingdoms, I Demand the like."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"See Belgium rent and bleeding, The Kaiser's hellish work, Armenia vainly pleading For mercy from the Turk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in southwestern asia; formerly an asian soviet; modern armenia is but a fragment of ancient armenia which was one of the world's oldest civilizations; throughout 2500 years the armenian people have been invaded and oppressed by their neighbors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in southwestern asia; formerly an asian soviet; modern armenia is but a fragment of ancient armenia which was one of the world's oldest civilizations; throughout 2500 years the armenian people have been invaded and oppressed by their neighbors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what I have conquered I grant him part; but then in his Armenia And other of his conquered kingdoms, I Demand the like."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"See Belgium rent and bleeding, The Kaiser's hellish work, Armenia vainly pleading For mercy from the Turk."*

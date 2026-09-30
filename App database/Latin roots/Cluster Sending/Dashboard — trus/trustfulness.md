@@ -5,15 +5,6 @@ status: unread
 ---
 # trustfulness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of believing in the honesty and reliability of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of believing in the honesty and reliability of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To her sublime trustfulness he was all that goodness could be—knew all that a guide, philosopher, and friend should know."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The trustfulness of a noble nature begets what it assumes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He could remain her brotherly friend, interpreting her actions with generous trustfulness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of believing in the honesty and reliability of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of believing in the honesty and reliability of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To her sublime trustfulness he was all that goodness could be—knew all that a guide, philosopher, and friend should know."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"The trustfulness of a noble nature begets what it assumes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He could remain her brotherly friend, interpreting her actions with generous trustfulness."*

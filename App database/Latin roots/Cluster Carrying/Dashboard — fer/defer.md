@@ -5,15 +5,6 @@ status: unread
 ---
 # defer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield to another's wish or opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Defer no time, delays have dangerous ends; Enter and cry, “The Dauphin!” presently, And then do execution on the watch. [_Alarum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soldiers, defer the spoil of the city until night; for with these borne before us instead of maces will we ride through the streets, and at every corner have them kiss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They know him there and defer to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield to another's wish or opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Defer no time, delays have dangerous ends; Enter and cry, “The Dauphin!” presently, And then do execution on the watch. [_Alarum."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soldiers, defer the spoil of the city until night; for with these borne before us instead of maces will we ride through the streets, and at every corner have them kiss."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They know him there and defer to him."*

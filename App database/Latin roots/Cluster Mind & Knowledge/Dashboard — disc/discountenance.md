@@ -5,15 +5,6 @@ status: unread
 ---
 # discountenance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look with disfavor on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show disapproval by discouraging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Several important considerations have been touched in the course of these papers, which discountenance the supposition that the operation of the federal government will by degrees prove fatal to the State governments."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This sort of thing has done infinite mischief to the progress of economic science; and one of Mill's great merits is, that both by example and by precept he steadily discountenanced it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In that circle they discountenanced those who advised hurried preparations for a removal to Kazán of the court and the girls’ educational establishments under the patronage of the Dowager Empress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Look with disfavor on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show disapproval by discouraging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Several important considerations have been touched in the course of these papers, which discountenance the supposition that the operation of the federal government will by degrees prove fatal to the State governments."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This sort of thing has done infinite mischief to the progress of economic science; and one of Mill's great merits is, that both by example and by precept he steadily discountenanced it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In that circle they discountenanced those who advised hurried preparations for a removal to Kazán of the court and the girls’ educational establishments under the patronage of the Dowager Empress."*

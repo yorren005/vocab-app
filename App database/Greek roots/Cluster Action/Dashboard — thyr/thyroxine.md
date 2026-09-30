@@ -5,13 +5,6 @@ status: unread
 ---
 # thyroxine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroxine designates an iodine-containing hormone c15h11i4no4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also t4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroxine designates an iodine-containing hormone c15h11i4no4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also t4."*

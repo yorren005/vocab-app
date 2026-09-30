@@ -5,13 +5,6 @@ status: unread
 ---
 # cholecystokinin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecystokinin designates a gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecystokinin designates a gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine."*

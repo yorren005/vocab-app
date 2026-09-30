@@ -5,13 +5,6 @@ status: unread
 ---
 # hysterosalpingogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: X ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: X ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterosalpingogram designates x ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: X ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: X ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterosalpingogram designates x ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages)."*

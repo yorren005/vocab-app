@@ -5,13 +5,6 @@ status: unread
 ---
 # ferrocerium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrophoric alloy of iron with cerium; used for lighter flints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pyrophoric alloy of iron with cerium; used for lighter flints.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrocerium designates a pyrophoric alloy of iron with cerium; used for lighter flints."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrophoric alloy of iron with cerium; used for lighter flints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pyrophoric alloy of iron with cerium; used for lighter flints.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrocerium designates a pyrophoric alloy of iron with cerium; used for lighter flints."*

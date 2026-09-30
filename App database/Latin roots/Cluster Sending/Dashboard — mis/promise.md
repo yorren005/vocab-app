@@ -5,15 +5,6 @@ status: unread
 ---
 # promise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verbal commitment by one person to another agreeing to do (or not to do) something in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grounds for feeling hopeful about the future.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not helping, death’s my fee; But if I help, what do you promise me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Promise, And in our name, what she requires; add more, From thine invention, offers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verbal commitment by one person to another agreeing to do (or not to do) something in the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grounds for feeling hopeful about the future.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not helping, death’s my fee; But if I help, what do you promise me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Promise, And in our name, what she requires; add more, From thine invention, offers."*

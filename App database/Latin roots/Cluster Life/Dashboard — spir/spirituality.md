@@ -5,15 +5,6 @@ status: unread
 ---
 # spirituality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property or income owned by a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concern with things of the spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"For knowledge, spirituality, good sense, and indomitable spirit of the finest discretion on moral subjects, the old man is a real marvel every way."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On the particular occasion we propose to mention, it was mutually agreed that we pray for one of the brethren, whose gifts were of a high order, and his usefulness hindered by a lack of spirituality."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode said no more, attributing some dissatisfaction which she felt to her own want of spirituality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property or income owned by a church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concern with things of the spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"For knowledge, spirituality, good sense, and indomitable spirit of the finest discretion on moral subjects, the old man is a real marvel every way."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"On the particular occasion we propose to mention, it was mutually agreed that we pray for one of the brethren, whose gifts were of a high order, and his usefulness hindered by a lack of spirituality."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode said no more, attributing some dissatisfaction which she felt to her own want of spirituality."*

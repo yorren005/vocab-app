@@ -5,15 +5,6 @@ status: unread
 ---
 # hierophant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin hier within the domain of Greek-Latin Hybrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of hier in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I stood motionless under my hierophant’s touch."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But their intercourse was only dramatic or symbolical, for the hierophant had temporarily deprived himself of his virility by an application of hemlock."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After a time the hierophant reappeared, and in a blaze of light silently exhibited to the assembly a reaped ear of corn, the fruit of the divine marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin hier within the domain of Greek-Latin Hybrid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of hier in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I stood motionless under my hierophant’s touch."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But their intercourse was only dramatic or symbolical, for the hierophant had temporarily deprived himself of his virility by an application of hemlock."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After a time the hierophant reappeared, and in a blaze of light silently exhibited to the assembly a reaped ear of corn, the fruit of the divine marriage."*

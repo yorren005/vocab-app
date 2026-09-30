@@ -5,15 +5,6 @@ status: unread
 ---
 # disaffection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being alienated from other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disloyalty to the government or to established authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may have been a flash of honesty in him; or mere prudential policy which, under the circumstance, imperiously forbade the slightest symptom of open disaffection, however transient, in the important chief officer of his ship."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Unless we presume at the same time that the powers of the general government will be worse administered than those of the State government, there seems to be no room for the presumption of ill-will, disaffection, or opposition in the people."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It may have been a flash of honesty in him; or mere prudential policy which, under the circumstance, imperiously forbade the slightest symptom of open disaffection, however transient, in the important chief officer of his ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being alienated from other people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disloyalty to the government or to established authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may have been a flash of honesty in him; or mere prudential policy which, under the circumstance, imperiously forbade the slightest symptom of open disaffection, however transient, in the important chief officer of his ship."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Unless we presume at the same time that the powers of the general government will be worse administered than those of the State government, there seems to be no room for the presumption of ill-will, disaffection, or opposition in the people."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It may have been a flash of honesty in him; or mere prudential policy which, under the circumstance, imperiously forbade the slightest symptom of open disaffection, however transient, in the important chief officer of his ship."*

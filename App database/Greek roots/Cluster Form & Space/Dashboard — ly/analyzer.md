@@ -5,13 +5,6 @@ status: unread
 ---
 # analyzer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that performs analyses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that performs analyses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that performs analyses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that performs analyses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*

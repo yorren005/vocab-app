@@ -5,13 +5,6 @@ status: unread
 ---
 # batholith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholith designates a great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholith designates a great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # auspiciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an auspicious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an auspicious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Nearly a million dollar drive to complete the Mother Temple of the West has been auspiciously launched and construction of interior sections of the ornamentation initiated."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Another accident did not end so auspiciously."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The reform of the civil service, auspiciously begun under Republican administration, should be completed by the further extension of the reformed system, already established by law, to all the grades of the service to which it is applicable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an auspicious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an auspicious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Nearly a million dollar drive to complete the Mother Temple of the West has been auspiciously launched and construction of interior sections of the ornamentation initiated."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Another accident did not end so auspiciously."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The reform of the civil service, auspiciously begun under Republican administration, should be completed by the further extension of the reformed system, already established by law, to all the grades of the service to which it is applicable."*

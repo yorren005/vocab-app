@@ -5,15 +5,6 @@ status: unread
 ---
 # general
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general officer of the highest rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of a religious order or congregation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methink’st thou art a general offence, and every man should beat thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general officer of the highest rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of a religious order or congregation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methink’st thou art a general offence, and every man should beat thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*

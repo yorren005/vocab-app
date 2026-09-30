@@ -5,15 +5,6 @@ status: unread
 ---
 # gemmed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with beads or jewels or sequins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with beads or jewels or sequins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Above the temples, amidst wreathed turban folds of black drapery, vague in its character and consistency as cloud, gleamed a ring of white flame, gemmed with sparkles of a more lurid tinge."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A great part of the island is rather level, and would be monotonous, were it not for the charms of culture; but it is studded and gemmed, as it were, with castles and palaces, and embroidered with parks and gardens."*
-> - 📜 **James Joyce (*Ulysses*):** *"On the steps of the Paris stock exchange the goldskinned men quoting prices on their gemmed fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with beads or jewels or sequins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with beads or jewels or sequins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Above the temples, amidst wreathed turban folds of black drapery, vague in its character and consistency as cloud, gleamed a ring of white flame, gemmed with sparkles of a more lurid tinge."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A great part of the island is rather level, and would be monotonous, were it not for the charms of culture; but it is studded and gemmed, as it were, with castles and palaces, and embroidered with parks and gardens."*
+> - 📜 **James Joyce (*Ulysses*):** *"On the steps of the Paris stock exchange the goldskinned men quoting prices on their gemmed fingers."*

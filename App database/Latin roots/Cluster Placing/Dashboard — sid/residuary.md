@@ -5,15 +5,6 @@ status: unread
 ---
 # residuary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entitled to the residue of an estate (after payment of debts and specific gifts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or indicating a remainder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It can’t be denied that undeserving people have been legatees, and even residuary legatees."*
-> - 📜 **George Eliot (*Middlemarch*):** *"O endless vocatives that would still leave expression slipping helpless from the measurement of mortal folly!—that residuary legatee was Joshua Rigg, who was also sole executor, and who was to take thenceforth the name of Featherstone."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And then the three harpooneers were bidden to the feast, they being its residuary legatees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entitled to the residue of an estate (after payment of debts and specific gifts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or indicating a remainder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It can’t be denied that undeserving people have been legatees, and even residuary legatees."*
+> - 📜 **George Eliot (*Middlemarch*):** *"O endless vocatives that would still leave expression slipping helpless from the measurement of mortal folly!—that residuary legatee was Joshua Rigg, who was also sole executor, and who was to take thenceforth the name of Featherstone."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And then the three harpooneers were bidden to the feast, they being its residuary legatees."*

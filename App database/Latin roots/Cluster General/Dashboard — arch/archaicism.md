@@ -5,13 +5,6 @@ status: unread
 ---
 # archaicism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of an archaic expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of an archaic expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaicism designates the use of an archaic expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of an archaic expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of an archaic expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaicism designates the use of an archaic expression."*

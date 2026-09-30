@@ -5,15 +5,6 @@ status: unread
 ---
 # grotto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: cave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an artificial recess or structure made to resemble a natural cave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At this moment there opened before us a large grotto dug in a picturesque heap of rocks and carpeted with all the thick warp of the submarine flora."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It adhered by its filaments to a table of granite, and there, isolated, it developed itself in the calm waters of the grotto."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"When he held it, the rocky door, though still fastened, no longer hid from view the loveliness of the grotto."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: cave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an artificial recess or structure made to resemble a natural cave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At this moment there opened before us a large grotto dug in a picturesque heap of rocks and carpeted with all the thick warp of the submarine flora."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It adhered by its filaments to a table of granite, and there, isolated, it developed itself in the calm waters of the grotto."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"When he held it, the rocky door, though still fastened, no longer hid from view the loveliness of the grotto."*

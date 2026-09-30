@@ -5,14 +5,6 @@ status: unread
 ---
 # agamogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Insanity and agamogenesis I never knew more than one individual who believed in agamogenesis; she was unmarried, a lovely charac- 68:18 ter, was suffering from incipient insanity, and a Christian Scientist cured her."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The per- 68:24 petuation of the floral species by bud or cell-division is evident, but I discredit the belief that agamogenesis applies to the human species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Insanity and agamogenesis I never knew more than one individual who believed in agamogenesis; she was unmarried, a lovely charac- 68:18 ter, was suffering from incipient insanity, and a Christian Scientist cured her."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The per- 68:24 petuation of the floral species by bud or cell-division is evident, but I discredit the belief that agamogenesis applies to the human species."*

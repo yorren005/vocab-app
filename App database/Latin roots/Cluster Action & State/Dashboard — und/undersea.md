@@ -5,13 +5,6 @@ status: unread
 ---
 # undersea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface of the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneath the surface of the sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fields of undersea, the lines faint brown in grass, buried cities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface of the sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneath the surface of the sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Fields of undersea, the lines faint brown in grass, buried cities."*

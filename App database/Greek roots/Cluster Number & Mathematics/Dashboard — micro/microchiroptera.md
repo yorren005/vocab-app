@@ -5,13 +5,6 @@ status: unread
 ---
 # microchiroptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most of the bats in the world; all bats except fruit bats insectivorous bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most of the bats in the world; all bats except fruit bats insectivorous bats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microchiroptera designates most of the bats in the world; all bats except fruit bats insectivorous bats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most of the bats in the world; all bats except fruit bats insectivorous bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most of the bats in the world; all bats except fruit bats insectivorous bats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microchiroptera designates most of the bats in the world; all bats except fruit bats insectivorous bats."*

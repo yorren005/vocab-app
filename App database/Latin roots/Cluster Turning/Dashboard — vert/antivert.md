@@ -5,13 +5,6 @@ status: unread
 ---
 # antivert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihistamine (trade name antivert) used to treat or prevent motion sickness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihistamine (trade name antivert) used to treat or prevent motion sickness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antivert designates an antihistamine (trade name antivert) used to treat or prevent motion sickness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihistamine (trade name antivert) used to treat or prevent motion sickness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihistamine (trade name antivert) used to treat or prevent motion sickness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antivert designates an antihistamine (trade name antivert) used to treat or prevent motion sickness."*

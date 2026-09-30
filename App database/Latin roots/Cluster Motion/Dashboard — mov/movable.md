@@ -5,15 +5,6 @@ status: unread
 ---
 # movable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of personal property as opposed to real estate) can be moved from place to place (especially carried by hand).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A house long unused must be swept, and then the person who is purifying it must take a stick and beat not only the movable objects, but the beds, posts, and in short every accessible part of the interior."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In shape, the Sleet’s crow’s-nest is something like a large tierce or pipe; it is open above, however, where it is furnished with a movable side-screen to keep to windward of your head in a hard gale."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"The French have also a movable stove, which can be wheeled from room to room, or even carried up or down stairs while full of burning coke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of personal property as opposed to real estate) can be moved from place to place (especially carried by hand).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A house long unused must be swept, and then the person who is purifying it must take a stick and beat not only the movable objects, but the beds, posts, and in short every accessible part of the interior."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In shape, the Sleet’s crow’s-nest is something like a large tierce or pipe; it is open above, however, where it is furnished with a movable side-screen to keep to windward of your head in a hard gale."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"The French have also a movable stove, which can be wheeled from room to room, or even carried up or down stairs while full of burning coke."*

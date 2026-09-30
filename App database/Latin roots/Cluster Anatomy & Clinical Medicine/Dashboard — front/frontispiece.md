@@ -5,15 +5,6 @@ status: unread
 ---
 # frontispiece
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental facade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Front illustration facing the title page of a book.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It possesses itself of the sixpenny history (with highly coloured folding frontispiece) of Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His frontispiece, boats attacking Sperm Whales, though no doubt calculated to excite the civil scepticism of some parlor men, is admirably correct and life-like in its general effect."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It'll soak in" _Frontispiece_ They had a momentary vision of an excited dog, framed in the doorway "I've only bin and drove 'im further up," said Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental facade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Front illustration facing the title page of a book.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It possesses itself of the sixpenny history (with highly coloured folding frontispiece) of Mr."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His frontispiece, boats attacking Sperm Whales, though no doubt calculated to excite the civil scepticism of some parlor men, is admirably correct and life-like in its general effect."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It'll soak in" _Frontispiece_ They had a momentary vision of an excited dog, framed in the doorway "I've only bin and drove 'im further up," said Mrs."*

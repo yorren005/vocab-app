@@ -5,15 +5,6 @@ status: unread
 ---
 # circinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a ring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The peridia are densely crowded together, often arranged in a circinate manner, _i.e._, like a watch-spring, or the young frond of a fern."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FIGWORT CLUSTER-CUPS; spots yellowish; peridia in roundish circinate clusters (rarely scattered) on the under surface; spores whitish, becoming tawny.—On the leaves of _Scrophularia aquatica_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WALL BRISTLE-MOULD; gregarious, glaucous, then blackish; perithecium globose, brown; hairs circinate, erect, septate, pulverulent; spores oblong, yellowish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a ring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The peridia are densely crowded together, often arranged in a circinate manner, _i.e._, like a watch-spring, or the young frond of a fern."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FIGWORT CLUSTER-CUPS; spots yellowish; peridia in roundish circinate clusters (rarely scattered) on the under surface; spores whitish, becoming tawny.—On the leaves of _Scrophularia aquatica_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WALL BRISTLE-MOULD; gregarious, glaucous, then blackish; perithecium globose, brown; hairs circinate, erect, septate, pulverulent; spores oblong, yellowish."*

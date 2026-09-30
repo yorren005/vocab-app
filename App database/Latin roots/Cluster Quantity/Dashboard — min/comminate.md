@@ -5,13 +5,6 @@ status: unread
 ---
 # comminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A garland of grey hair on his comminated head see him me clambering down to the footpace (_descende!_), clutching a monstrance, basiliskeyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A garland of grey hair on his comminated head see him me clambering down to the footpace (_descende!_), clutching a monstrance, basiliskeyed."*

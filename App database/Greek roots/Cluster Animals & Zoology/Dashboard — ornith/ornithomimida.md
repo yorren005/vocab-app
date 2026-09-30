@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithomimida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-size theropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-size theropods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimida designates lightly built medium-size theropods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-size theropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-size theropods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimida designates lightly built medium-size theropods."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bellicosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural disposition to fight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to fight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellicosity designates a natural disposition to fight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural disposition to fight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to fight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellicosity designates a natural disposition to fight."*

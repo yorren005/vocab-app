@@ -5,13 +5,6 @@ status: unread
 ---
 # preoperative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or done before and in preparation for a surgical operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or done before and in preparation for a surgical operation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preoperative designates happening or done before and in preparation for a surgical operation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or done before and in preparation for a surgical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or done before and in preparation for a surgical operation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preoperative designates happening or done before and in preparation for a surgical operation."*

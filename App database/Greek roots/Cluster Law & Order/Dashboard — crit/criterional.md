@@ -5,13 +5,6 @@ status: unread
 ---
 # criterional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a basis for evaluation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a basis for evaluation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criterional designates serving as a basis for evaluation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a basis for evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a basis for evaluation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criterional designates serving as a basis for evaluation."*

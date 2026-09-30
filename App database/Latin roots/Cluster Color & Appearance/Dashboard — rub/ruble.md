@@ -5,15 +5,6 @@ status: unread
 ---
 # ruble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in tajikistan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in russia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I need five hundred rubles, and have only one twenty-five-ruble note."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Rostóv was horrified to hear later that of all that mass of huge and handsome men, of all those brilliant, rich youths, officers and cadets, who had galloped past him on their thousand-ruble horses, only eighteen were left after the charge."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the last post station before Otrádnoe he gave the driver a three-ruble tip, and on arriving he ran breathlessly, like a boy, up the steps of his home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in tajikistan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in russia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I need five hundred rubles, and have only one twenty-five-ruble note."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Rostóv was horrified to hear later that of all that mass of huge and handsome men, of all those brilliant, rich youths, officers and cadets, who had galloped past him on their thousand-ruble horses, only eighteen were left after the charge."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the last post station before Otrádnoe he gave the driver a three-ruble tip, and on arriving he ran breathlessly, like a boy, up the steps of his home."*

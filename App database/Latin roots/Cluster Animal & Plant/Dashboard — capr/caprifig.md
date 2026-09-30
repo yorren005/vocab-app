@@ -5,13 +5,6 @@ status: unread
 ---
 # caprifig
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild variety of the common fig used to facilitate pollination of certain figs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild variety of the common fig used to facilitate pollination of certain figs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprifig designates wild variety of the common fig used to facilitate pollination of certain figs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild variety of the common fig used to facilitate pollination of certain figs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild variety of the common fig used to facilitate pollination of certain figs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprifig designates wild variety of the common fig used to facilitate pollination of certain figs."*

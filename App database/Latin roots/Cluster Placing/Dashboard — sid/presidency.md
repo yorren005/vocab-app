@@ -5,15 +5,6 @@ status: unread
 ---
 # presidency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenure of a president.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and function of president.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You can’t offer him the Presidency of the Council; that is reserved for Poodle."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I take it that this part of the bill must have run something like this: “_Grand Contested Election for the Presidency of the United States._ “WHALING VOYAGE BY ONE ISHMAEL."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"C.--Persecution for loyalty--Escape--She enters immediately upon Hospital Work--Her appointment to the Presidency of the Women's Branch--Her remarkable tact and skill--Her extraordinary executive talent--Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenure of a president.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and function of president.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You can’t offer him the Presidency of the Council; that is reserved for Poodle."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I take it that this part of the bill must have run something like this: “_Grand Contested Election for the Presidency of the United States._ “WHALING VOYAGE BY ONE ISHMAEL."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"C.--Persecution for loyalty--Escape--She enters immediately upon Hospital Work--Her appointment to the Presidency of the Women's Branch--Her remarkable tact and skill--Her extraordinary executive talent--Mrs."*

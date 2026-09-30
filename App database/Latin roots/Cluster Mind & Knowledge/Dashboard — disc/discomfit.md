@@ -5,15 +5,6 @@ status: unread
 ---
 # discomfit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my heart’s on future mischief set, I would speak blasphemy ere bid you fly; But fly you must; uncurable discomfit Reigns in the hearts of all our present parts."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne instantly made up her mind that she would win that boy’s affection and discomfit the Pyes utterly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To heave the traitor Somerset from hence And fight against that monstrous rebel Cade, Who since I heard to be discomfited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my heart’s on future mischief set, I would speak blasphemy ere bid you fly; But fly you must; uncurable discomfit Reigns in the hearts of all our present parts."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne instantly made up her mind that she would win that boy’s affection and discomfit the Pyes utterly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To heave the traitor Somerset from hence And fight against that monstrous rebel Cade, Who since I heard to be discomfited."*

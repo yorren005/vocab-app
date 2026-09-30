@@ -5,13 +5,6 @@ status: unread
 ---
 # hermaphrodite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal or plant having both male and female reproductive organs, structures, or tissue : an organism exhibiting hermaphroditism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is a combination of diverse elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Square-riggers, fore-and-afters, hermaphrodites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal or plant having both male and female reproductive organs, structures, or tissue : an organism exhibiting hermaphroditism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is a combination of diverse elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Square-riggers, fore-and-afters, hermaphrodites."*

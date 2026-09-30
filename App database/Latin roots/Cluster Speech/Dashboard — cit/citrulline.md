@@ -5,13 +5,6 @@ status: unread
 ---
 # citrulline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrulline designates an amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citrulline designates an amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine."*

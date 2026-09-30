@@ -5,15 +5,6 @@ status: unread
 ---
 # level
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A position on a scale of intensity or amount or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative position or degree of value in a graded group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, withered is the garland of the war, The soldier’s pole is fallen; young boys and girls Are level now with men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am guiltless of your father’s death, And am most sensibly in grief for it, It shall as level to your judgement ’pear As day does to your eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A position on a scale of intensity or amount or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative position or degree of value in a graded group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, withered is the garland of the war, The soldier’s pole is fallen; young boys and girls Are level now with men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am guiltless of your father’s death, And am most sensibly in grief for it, It shall as level to your judgement ’pear As day does to your eye."*

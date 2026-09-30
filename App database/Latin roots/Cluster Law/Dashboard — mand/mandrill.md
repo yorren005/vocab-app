@@ -5,13 +5,6 @@ status: unread
 ---
 # mandrill
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Baboon of west africa with a bright red and blue muzzle and blue hindquarters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baboon of west africa with a bright red and blue muzzle and blue hindquarters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandrill designates baboon of west africa with a bright red and blue muzzle and blue hindquarters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Baboon of west africa with a bright red and blue muzzle and blue hindquarters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baboon of west africa with a bright red and blue muzzle and blue hindquarters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandrill designates baboon of west africa with a bright red and blue muzzle and blue hindquarters."*

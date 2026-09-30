@@ -5,13 +5,6 @@ status: unread
 ---
 # monotheistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing that there is only one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believing that there is only one god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing that there is only one god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believing that there is only one god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*

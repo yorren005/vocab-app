@@ -5,13 +5,6 @@ status: unread
 ---
 # statoblast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statoblast designates a bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statoblast designates a bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring."*

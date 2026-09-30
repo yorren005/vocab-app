@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrolyse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hydrolysis; decompose by reacting with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo hydrolysis; decompose by reacting with water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyse designates undergo hydrolysis; decompose by reacting with water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hydrolysis; decompose by reacting with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo hydrolysis; decompose by reacting with water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyse designates undergo hydrolysis; decompose by reacting with water."*

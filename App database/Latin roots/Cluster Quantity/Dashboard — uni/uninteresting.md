@@ -5,15 +5,6 @@ status: unread
 ---
 # uninteresting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing no interest or attention or curiosity or excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic or suggestive of an institution especially in being uniform or dull or unimaginative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, the Weatherbury folk were by no means uninteresting intrinsically."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But these arguments seemed, to increase Captain Williams' anxiety, and the ship was steered toward the uninteresting little island."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing no interest or attention or curiosity or excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic or suggestive of an institution especially in being uniform or dull or unimaginative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, the Weatherbury folk were by no means uninteresting intrinsically."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But these arguments seemed, to increase Captain Williams' anxiety, and the ship was steered toward the uninteresting little island."*

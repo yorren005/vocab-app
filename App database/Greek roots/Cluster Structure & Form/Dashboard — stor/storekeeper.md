@@ -5,15 +5,6 @@ status: unread
 ---
 # storekeeper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who owns or manages a shop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who owns or manages a shop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I cannot get rid of the thought, and if you value my peace of mind, I beg you take the money!" Seeing, instantly, the hand of God in it, he told the story to the astonished storekeeper, then left to pay his debt with the money so strangely given."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An artist, even a storekeeper, attracts about him a body of patrons who like his product (for the merchant's manner and method of dealing are a part of the quality of his goods), and who cannot be tempted away by slight differences in price."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I wasn't cut out to be a storekeeper, Bandershanks, and I'll sure be glad when Papa gets his shelves stocked." "How come Papa goes and goes to town, Mama?" "He's got to buy his winter goods before bad weather sets in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who owns or manages a shop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who owns or manages a shop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I cannot get rid of the thought, and if you value my peace of mind, I beg you take the money!" Seeing, instantly, the hand of God in it, he told the story to the astonished storekeeper, then left to pay his debt with the money so strangely given."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An artist, even a storekeeper, attracts about him a body of patrons who like his product (for the merchant's manner and method of dealing are a part of the quality of his goods), and who cannot be tempted away by slight differences in price."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I wasn't cut out to be a storekeeper, Bandershanks, and I'll sure be glad when Papa gets his shelves stocked." "How come Papa goes and goes to town, Mama?" "He's got to buy his winter goods before bad weather sets in."*

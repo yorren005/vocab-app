@@ -5,15 +5,6 @@ status: unread
 ---
 # tacitly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tacit manner; by unexpressed agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tacit manner; by unexpressed agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There, ’twas a merciful thing it ended where it did.” The question of which was right being tacitly waived by the company, Jan went on meditatively:— “And he’s the fearfullest man, bain’t ye, Joseph?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The outlook and sympathies that are expressed or tacitly assumed throughout this work are not so much those personal to the author as they are those of our present day American democratic society, taken at about its center of gravity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Progressives did not expect all industries to become monopolies, and the Democrats tacitly conceded to monopoly-accepted the large field of transportation and local utilities it already had occupied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tacit manner; by unexpressed agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tacit manner; by unexpressed agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There, ’twas a merciful thing it ended where it did.” The question of which was right being tacitly waived by the company, Jan went on meditatively:— “And he’s the fearfullest man, bain’t ye, Joseph?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The outlook and sympathies that are expressed or tacitly assumed throughout this work are not so much those personal to the author as they are those of our present day American democratic society, taken at about its center of gravity."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Progressives did not expect all industries to become monopolies, and the Democrats tacitly conceded to monopoly-accepted the large field of transportation and local utilities it already had occupied."*

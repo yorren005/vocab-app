@@ -5,15 +5,6 @@ status: unread
 ---
 # structure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing constructed; a complex entity constructed of many parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manner of construction of something and the arrangement of its parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, really, really!” He said this at the stair-head, gently moving his right hand as if it were a silver trowel with which to spread the cement of his words on the structure of the system and consolidate it for a thousand ages."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was not an existence, an experience, a passion, a structure of sensations, to anybody but herself."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Inside this cumbrous and creaking structure, and behind this decayed conductor, the _partie carrée_ took their seats—the bride and bridegroom and Mr and Mrs Crick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing constructed; a complex entity constructed of many parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manner of construction of something and the arrangement of its parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, really, really!” He said this at the stair-head, gently moving his right hand as if it were a silver trowel with which to spread the cement of his words on the structure of the system and consolidate it for a thousand ages."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was not an existence, an experience, a passion, a structure of sensations, to anybody but herself."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Inside this cumbrous and creaking structure, and behind this decayed conductor, the _partie carrée_ took their seats—the bride and bridegroom and Mr and Mrs Crick."*

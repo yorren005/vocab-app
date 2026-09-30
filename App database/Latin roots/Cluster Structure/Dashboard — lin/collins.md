@@ -5,15 +5,6 @@ status: unread
 ---
 # collins
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer noted for early detective novels (1824-1889).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall iced drink of liquor (usually gin) with fruit juice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Crashaw, indeed, partially anticipated Shelley's success, and yet further did a later poet, so much further that we find it difficult to understand why a generation that worships Shelley should be reviving Gray, yet almost forget the name of Collins."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Crashaw, Collins, Shelley--three ricochets of the one pebble, three jets from three bounds of the one Pegasus!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, the visit to Hunsford, the Derbyshire tour--fit in after the same unostentatious, but masterly fashion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer noted for early detective novels (1824-1889).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall iced drink of liquor (usually gin) with fruit juice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Crashaw, indeed, partially anticipated Shelley's success, and yet further did a later poet, so much further that we find it difficult to understand why a generation that worships Shelley should be reviving Gray, yet almost forget the name of Collins."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Crashaw, Collins, Shelley--three ricochets of the one pebble, three jets from three bounds of the one Pegasus!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, the visit to Hunsford, the Derbyshire tour--fit in after the same unostentatious, but masterly fashion."*

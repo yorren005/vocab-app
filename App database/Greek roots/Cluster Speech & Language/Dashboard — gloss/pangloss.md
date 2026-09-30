@@ -5,13 +5,6 @@ status: unread
 ---
 # pangloss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incurable optimist in a satire by voltaire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incurable optimist in a satire by voltaire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Pangloss for himself; and very earnestly, but very unsuccessfully, trying to persuade the others that there were some fine tragic parts in the rest of the Dramatis Personæ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incurable optimist in a satire by voltaire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incurable optimist in a satire by voltaire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Pangloss for himself; and very earnestly, but very unsuccessfully, trying to persuade the others that there were some fine tragic parts in the rest of the Dramatis Personæ."*

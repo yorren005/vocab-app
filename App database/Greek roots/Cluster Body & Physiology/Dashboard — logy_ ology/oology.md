@@ -5,13 +5,6 @@ status: unread
 ---
 # oology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oology designates the branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oology designates the branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number)."*

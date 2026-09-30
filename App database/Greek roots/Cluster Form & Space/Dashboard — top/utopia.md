@@ -5,15 +5,6 @@ status: unread
 ---
 # utopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of ideal perfection especially in laws, government, and social conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impractical scheme for social improvement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But utopian (from _utopia_, Greek for no place) means nonexistent, and Marxian socialism surely was that."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Utopia's scene could here be fitly laid."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The other two were born in or about 125. [3] e.g. viii, 17. [4] The one passage is in xi, 3. [5] Or, the English equivalent, Utopia. [6] Marcus Aurelius, ix, 28-40, with omissions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of ideal perfection especially in laws, government, and social conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impractical scheme for social improvement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But utopian (from _utopia_, Greek for no place) means nonexistent, and Marxian socialism surely was that."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Utopia's scene could here be fitly laid."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The other two were born in or about 125. [3] e.g. viii, 17. [4] The one passage is in xi, 3. [5] Or, the English equivalent, Utopia. [6] Marcus Aurelius, ix, 28-40, with omissions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tenaciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With obstinate determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With obstinate determination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t cling so tenaciously to ties of the flesh; save your constancy and ardour for an adequate cause; forbear to waste them on trite transient objects."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Though the latter held on tenaciously, her voice lost none of its honeyed firmness and softness."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And she deduced the essentials of his wishes quite correctly, and having once arrived at them clung to them tenaciously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With obstinate determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With obstinate determination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t cling so tenaciously to ties of the flesh; save your constancy and ardour for an adequate cause; forbear to waste them on trite transient objects."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Though the latter held on tenaciously, her voice lost none of its honeyed firmness and softness."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And she deduced the essentials of his wishes quite correctly, and having once arrived at them clung to them tenaciously."*

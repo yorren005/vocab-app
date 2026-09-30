@@ -5,15 +5,6 @@ status: unread
 ---
 # luscious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having strong sexual appeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely pleasing to the sense of taste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses, and with eglantine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The food that to him now is as luscious as locusts shall be to him shortly as acerb as the coloquintida."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This preparation is called ‘kokoo’, and a most luscious preparation it is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having strong sexual appeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely pleasing to the sense of taste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses, and with eglantine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The food that to him now is as luscious as locusts shall be to him shortly as acerb as the coloquintida."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This preparation is called ‘kokoo’, and a most luscious preparation it is."*

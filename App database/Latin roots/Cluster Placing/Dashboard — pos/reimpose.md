@@ -5,13 +5,6 @@ status: unread
 ---
 # reimpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reimpose designates impose anew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reimpose designates impose anew."*

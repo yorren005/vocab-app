@@ -5,13 +5,6 @@ status: unread
 ---
 # seismic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, subject to, or caused by an earthquake; also : of or relating to an earth vibration caused by something else (such as an explosion or the impact of a meteorite).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a vibration on a celestial body (such as the moon) comparable to a seismic event on earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"From the reports of eyewitnesses it transpires that the seismic waves were accompanied by a violent atmospheric perturbation of cyclonic character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, subject to, or caused by an earthquake; also : of or relating to an earth vibration caused by something else (such as an explosion or the impact of a meteorite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a vibration on a celestial body (such as the moon) comparable to a seismic event on earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"From the reports of eyewitnesses it transpires that the seismic waves were accompanied by a violent atmospheric perturbation of cyclonic character."*

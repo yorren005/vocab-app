@@ -5,15 +5,6 @@ status: unread
 ---
 # fortnightly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring every two weeks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Every two weeks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law is especially favorable to the hand-laborer in regard to the collection of his wages, requiring monthly or fortnightly or sometimes weekly payments."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Fortnightly Rev., March, Vol. 5, N."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Fortnightly Rev., Oct., Vol. 10, N."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring every two weeks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Every two weeks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law is especially favorable to the hand-laborer in regard to the collection of his wages, requiring monthly or fortnightly or sometimes weekly payments."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Fortnightly Rev., March, Vol. 5, N."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Fortnightly Rev., Oct., Vol. 10, N."*

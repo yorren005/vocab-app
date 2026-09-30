@@ -5,13 +5,6 @@ status: unread
 ---
 # seismograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismograph designates a measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismograph designates a measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake)."*

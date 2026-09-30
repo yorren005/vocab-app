@@ -5,13 +5,6 @@ status: unread
 ---
 # credentialled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Certified as professional by evidence or testimonials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Certified as professional by evidence or testimonials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credentialled designates certified as professional by evidence or testimonials."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Certified as professional by evidence or testimonials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Certified as professional by evidence or testimonials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credentialled designates certified as professional by evidence or testimonials."*

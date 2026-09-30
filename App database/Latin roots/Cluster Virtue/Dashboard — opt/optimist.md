@@ -5,15 +5,6 @@ status: unread
 ---
 # optimist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person disposed to take a favorable view of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person disposed to take a favorable view of things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Be an optimist, my boy, be an optimist."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Many an optimist has been reduced to blank pessimism by that ditch."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Such is the normal feeling of the healthy optimist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person disposed to take a favorable view of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person disposed to take a favorable view of things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Be an optimist, my boy, be an optimist."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Many an optimist has been reduced to blank pessimism by that ditch."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Such is the normal feeling of the healthy optimist."*

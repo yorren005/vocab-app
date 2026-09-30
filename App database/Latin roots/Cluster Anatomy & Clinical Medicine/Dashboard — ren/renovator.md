@@ -5,13 +5,6 @@ status: unread
 ---
 # renovator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Moonlight, and the sentiment in man’s heart responsive to it, are the greatest of renovators and reformers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Moonlight, and the sentiment in man’s heart responsive to it, are the greatest of renovators and reformers."*

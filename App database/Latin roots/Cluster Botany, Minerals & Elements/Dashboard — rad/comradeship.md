@@ -5,15 +5,6 @@ status: unread
 ---
 # comradeship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of affording easy familiarity and sociability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of affording easy familiarity and sociability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ed Morrell and Jake Oppenheimer were great spirits, and in all time no greater honour was ever accorded me than this admission of me to their comradeship."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"There was nothing between this loud-babbling youth and himself which could have drawn them into even a momentary comradeship, if it had not been for the suspicion his father’s story had inspired in him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of affording easy familiarity and sociability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of affording easy familiarity and sociability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ed Morrell and Jake Oppenheimer were great spirits, and in all time no greater honour was ever accorded me than this admission of me to their comradeship."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"There was nothing between this loud-babbling youth and himself which could have drawn them into even a momentary comradeship, if it had not been for the suspicion his father’s story had inspired in him."*

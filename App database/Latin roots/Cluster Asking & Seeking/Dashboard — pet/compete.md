@@ -5,15 +5,6 @@ status: unread
 ---
 # compete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compete for something; engage in a contest; measure oneself against others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compete for something; engage in a contest; measure oneself against others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Five are selected to compete for it by the votes of their fellow-students."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Their efforts to attain freedom to compete was the vital force of the time."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, in a sense, different commodities compete, each trying to prove its fitness to be a medium of trade; but only one, or two, or three at the most, can at one time hold such a place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compete for something; engage in a contest; measure oneself against others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compete for something; engage in a contest; measure oneself against others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Five are selected to compete for it by the votes of their fellow-students."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Their efforts to attain freedom to compete was the vital force of the time."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, in a sense, different commodities compete, each trying to prove its fitness to be a medium of trade; but only one, or two, or three at the most, can at one time hold such a place."*

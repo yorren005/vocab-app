@@ -5,13 +5,6 @@ status: unread
 ---
 # unfluctuating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to fluctuate or especially to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to fluctuate or especially to fall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfluctuating designates not liable to fluctuate or especially to fall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to fluctuate or especially to fall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to fluctuate or especially to fall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfluctuating designates not liable to fluctuate or especially to fall."*

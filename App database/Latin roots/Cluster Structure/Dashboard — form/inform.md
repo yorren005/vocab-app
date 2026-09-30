@@ -5,15 +5,6 @@ status: unread
 ---
 # inform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart knowledge of some fact, state or affairs, or event to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give character or essence to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have discharg’d this honestly; keep it to yourself; many likelihoods inform’d me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply thou mayst inform Something to save thy life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. ’A will betray us all unto ourselves; Inform on that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart knowledge of some fact, state or affairs, or event to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give character or essence to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have discharg’d this honestly; keep it to yourself; many likelihoods inform’d me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply thou mayst inform Something to save thy life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. ’A will betray us all unto ourselves; Inform on that."*

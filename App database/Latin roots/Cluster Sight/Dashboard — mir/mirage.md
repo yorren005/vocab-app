@@ -5,15 +5,6 @@ status: unread
 ---
 # mirage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something illusory and unattainable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Nay, this is not the prairie that I saw In youth's mirage; 'twas fairer far than this."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A mirage, a seeming, a thing to look at, to go get bravely had come into his mind in little pictures, like prints in a book."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And she had never been with him after death; that had been a mirage in the hinterland of the mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something illusory and unattainable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Nay, this is not the prairie that I saw In youth's mirage; 'twas fairer far than this."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A mirage, a seeming, a thing to look at, to go get bravely had come into his mind in little pictures, like prints in a book."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And she had never been with him after death; that had been a mirage in the hinterland of the mind."*

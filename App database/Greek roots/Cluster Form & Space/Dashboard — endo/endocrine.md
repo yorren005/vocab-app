@@ -5,13 +5,6 @@ status: unread
 ---
 # endocrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secreting internally; specifically : producing secretions that are distributed in the body by way of the bloodstream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, affecting, or resembling an endocrine gland or secretion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocrine designates secreting internally; specifically : producing secretions that are distributed in the body by way of the bloodstream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secreting internally; specifically : producing secretions that are distributed in the body by way of the bloodstream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, affecting, or resembling an endocrine gland or secretion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocrine designates secreting internally; specifically : producing secretions that are distributed in the body by way of the bloodstream."*

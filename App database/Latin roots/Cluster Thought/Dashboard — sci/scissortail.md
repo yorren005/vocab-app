@@ -5,13 +5,6 @@ status: unread
 ---
 # scissortail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scissortail designates grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scissortail designates grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings."*

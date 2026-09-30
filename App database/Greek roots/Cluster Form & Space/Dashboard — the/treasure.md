@@ -5,15 +5,6 @@ status: unread
 ---
 # treasure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wealth (such as money, jewels, or precious metals) stored up or hoarded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth of any kind or in any form : riches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet fear her O thou minion of her pleasure, She may detain, but not still keep her treasure!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will will fulfil the treasure of thy love, Ay, fill it full with wills, and my will one, In things of great receipt with case we prove, Among a number one is reckoned none."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wealth (such as money, jewels, or precious metals) stored up or hoarded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth of any kind or in any form : riches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet fear her O thou minion of her pleasure, She may detain, but not still keep her treasure!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will will fulfil the treasure of thy love, Ay, fill it full with wills, and my will one, In things of great receipt with case we prove, Among a number one is reckoned none."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*

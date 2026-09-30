@@ -5,15 +5,6 @@ status: unread
 ---
 # capitalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring or practicing capitalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to capitalism or capitalists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Farming viewed as a capitalistic enterprise. § 5."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These products are taken to market and sold for money with which are bought the things needed for use on the farm. § 4. #Farming viewed as a capitalistic enterprise#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Capitalistic monopoly; aspects of the problem. § 5."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring or practicing capitalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to capitalism or capitalists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Farming viewed as a capitalistic enterprise. § 5."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These products are taken to market and sold for money with which are bought the things needed for use on the farm. § 4. #Farming viewed as a capitalistic enterprise#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Capitalistic monopoly; aspects of the problem. § 5."*

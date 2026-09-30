@@ -5,15 +5,6 @@ status: unread
 ---
 # delegation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of representatives or delegates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorizing subordinates to make certain decisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I was just breaking a last muffin and beginning to smile when I saw a delegation coming down the street and turning into my front gate; I rose to meet it with distinction."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie came over just as soon as the other delegation had got home to take the twins off her hands."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Harris was present and actively engaged, and as soon as the battle ceased, a delegation of ladies connected with the Sanitary Commission toiled most faithfully to alleviate the horrors of war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of representatives or delegates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorizing subordinates to make certain decisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I was just breaking a last muffin and beginning to smile when I saw a delegation coming down the street and turning into my front gate; I rose to meet it with distinction."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie came over just as soon as the other delegation had got home to take the twins off her hands."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Harris was present and actively engaged, and as soon as the battle ceased, a delegation of ladies connected with the Sanitary Commission toiled most faithfully to alleviate the horrors of war."*

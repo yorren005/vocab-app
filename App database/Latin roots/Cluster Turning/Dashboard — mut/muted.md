@@ -5,14 +5,6 @@ status: unread
 ---
 # muted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deaden (a sound or noise), especially by wrapping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a softened tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The place hummed with muted voices and the almost silent clicks of an organized combat ops center."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Full of grace!" But in the kitchen they would be laughing, chatting, playing crude forfeits, telling grotesque stories, giving riddles, and now, to the muted sound of a melodeon, a man would dance a hornpipe...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deaden (a sound or noise), especially by wrapping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a softened tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The place hummed with muted voices and the almost silent clicks of an organized combat ops center."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Full of grace!" But in the kitchen they would be laughing, chatting, playing crude forfeits, telling grotesque stories, giving riddles, and now, to the muted sound of a melodeon, a man would dance a hornpipe...."*

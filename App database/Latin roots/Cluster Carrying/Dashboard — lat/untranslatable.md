@@ -5,13 +5,6 @@ status: unread
 ---
 # untranslatable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being put into another form or style or language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being put into another form or style or language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"On the sculptured stones in the Copan valley there are characters which seem to resemble very ancient writing, but this pictographic writing is largely untranslatable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being put into another form or style or language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being put into another form or style or language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"On the sculptured stones in the Copan valley there are characters which seem to resemble very ancient writing, but this pictographic writing is largely untranslatable."*

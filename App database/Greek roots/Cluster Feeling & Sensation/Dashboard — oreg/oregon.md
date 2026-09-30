@@ -5,15 +5,6 @@ status: unread
 ---
 # oregon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in northwestern united states on the pacific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in northwestern united states on the pacific.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though thousands of miles from Oregon, still when he smells that savage musk, the rending, goring bison herds are as present as to the deserted wild foal of the prairies, which this instant they may be trampling into dust."*
-> - 📜 **Effie Afton (*Eventide*):** *"Old Oregon We'll look not on; Ho, for mines of wealth untold!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The men came in slowly at the last,--a lieutenant, all the way from Oregon, being among the very latest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in northwestern united states on the pacific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in northwestern united states on the pacific.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though thousands of miles from Oregon, still when he smells that savage musk, the rending, goring bison herds are as present as to the deserted wild foal of the prairies, which this instant they may be trampling into dust."*
+> - 📜 **Effie Afton (*Eventide*):** *"Old Oregon We'll look not on; Ho, for mines of wealth untold!"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The men came in slowly at the last,--a lieutenant, all the way from Oregon, being among the very latest."*

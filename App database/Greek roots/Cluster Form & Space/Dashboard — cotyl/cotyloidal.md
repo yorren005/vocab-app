@@ -5,13 +5,6 @@ status: unread
 ---
 # cotyloidal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the cup-shaped socket that receives the head of the thigh bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the cup-shaped socket that receives the head of the thigh bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotyloidal designates of the cup-shaped socket that receives the head of the thigh bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the cup-shaped socket that receives the head of the thigh bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the cup-shaped socket that receives the head of the thigh bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotyloidal designates of the cup-shaped socket that receives the head of the thigh bone."*

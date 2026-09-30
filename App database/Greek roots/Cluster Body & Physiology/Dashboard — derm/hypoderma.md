@@ -5,13 +5,6 @@ status: unread
 ---
 # hypoderma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered the type genus of the family hypodermatidae: warble flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered the type genus of the family hypodermatidae: warble flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoderma designates in some classifications considered the type genus of the family hypodermatidae: warble flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered the type genus of the family hypodermatidae: warble flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered the type genus of the family hypodermatidae: warble flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoderma designates in some classifications considered the type genus of the family hypodermatidae: warble flies."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # values
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beliefs of a person or social group in which they have an emotional investment (either for or against something).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity measured or assigned or computed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grievingly I think The peace between the French and us not values The cost that did conclude it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My good lord, Not your demand; it values not your asking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It did always seem so to us; but now, in the division of the kingdom, it appears not which of the Dukes he values most, for qualities are so weighed that curiosity in neither can make choice of either’s moiety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beliefs of a person or social group in which they have an emotional investment (either for or against something).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity measured or assigned or computed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grievingly I think The peace between the French and us not values The cost that did conclude it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My good lord, Not your demand; it values not your asking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It did always seem so to us; but now, in the division of the kingdom, it appears not which of the Dukes he values most, for qualities are so weighed that curiosity in neither can make choice of either’s moiety."*

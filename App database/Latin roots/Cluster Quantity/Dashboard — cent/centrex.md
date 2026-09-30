@@ -5,13 +5,6 @@ status: unread
 ---
 # centrex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (central exchange) a kind of telephone exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (central exchange) a kind of telephone exchange.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrex designates (central exchange) a kind of telephone exchange."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (central exchange) a kind of telephone exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (central exchange) a kind of telephone exchange.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrex designates (central exchange) a kind of telephone exchange."*

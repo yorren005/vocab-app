@@ -5,13 +5,6 @@ status: unread
 ---
 # secant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line that intersects a curve at two or more points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the hypotenuse to the adjacent side of a right-angled triangle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secant designates a straight line that intersects a curve at two or more points."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line that intersects a curve at two or more points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the hypotenuse to the adjacent side of a right-angled triangle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secant designates a straight line that intersects a curve at two or more points."*

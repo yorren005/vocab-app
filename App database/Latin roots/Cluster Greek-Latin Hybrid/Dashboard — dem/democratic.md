@@ -5,15 +5,6 @@ status: unread
 ---
 # democratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or advocating or based upon the principles of democracy or social equality; ; ; - george du maurier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belong to or relating to the democratic party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Christian religion has acted both directly and indirectly on the Scottish peasantry, and it has done so the more powerfully because of the democratic character of the Presbyterian form which that religion took in Scotland."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The outlook and sympathies that are expressed or tacitly assumed throughout this work are not so much those personal to the author as they are those of our present day American democratic society, taken at about its center of gravity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"President Wilson and the newly elected Congress with its Democratic majority made banking reform one of the main objects on the program for the special session beginning March 5, 1913."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or advocating or based upon the principles of democracy or social equality; ; ; - george du maurier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belong to or relating to the democratic party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Christian religion has acted both directly and indirectly on the Scottish peasantry, and it has done so the more powerfully because of the democratic character of the Presbyterian form which that religion took in Scotland."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The outlook and sympathies that are expressed or tacitly assumed throughout this work are not so much those personal to the author as they are those of our present day American democratic society, taken at about its center of gravity."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"President Wilson and the newly elected Congress with its Democratic majority made banking reform one of the main objects on the program for the special session beginning March 5, 1913."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # anthracnose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthracnose designates any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthracnose designates any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions."*

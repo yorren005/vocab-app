@@ -5,15 +5,6 @@ status: unread
 ---
 # evoke
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The grey placidity of Val's closed eyelids and crossed hands was the last memory that Lawrence would have chosen to evoke on his wedding night."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Don’t joke; tell me what you mean.” “You don’t really know?” said Rosamond, no longer playful, and desiring nothing better than to tell in order that she might evoke effects."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Or, to the unread, unsophisticated Protestant of the Middle American States, why does the passing mention of a White Friar or a White Nun, evoke such an eyeless statue in the soul?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"The grey placidity of Val's closed eyelids and crossed hands was the last memory that Lawrence would have chosen to evoke on his wedding night."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Don’t joke; tell me what you mean.” “You don’t really know?” said Rosamond, no longer playful, and desiring nothing better than to tell in order that she might evoke effects."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Or, to the unread, unsophisticated Protestant of the Middle American States, why does the passing mention of a White Friar or a White Nun, evoke such an eyeless statue in the soul?"*

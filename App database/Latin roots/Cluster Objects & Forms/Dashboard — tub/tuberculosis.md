@@ -5,15 +5,6 @@ status: unread
 ---
 # tuberculosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, and others followed Hodge and Polazzo; and others, whose physical stamina had been impaired, fell victims to prison-tuberculosis."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen men, strong men, men so strong that their physical stamina resisted all attacks of prison tuberculosis, after a prolonged bout with the jacket, their resistance broken down, fade away, and die of tuberculosis within six months."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Before I came into Science the physicians said that one lung was gone, and that the other was affected with tuberculosis; so, from their standpoint, there was little left for me to hope for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts of the body in acute stages).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, and others followed Hodge and Polazzo; and others, whose physical stamina had been impaired, fell victims to prison-tuberculosis."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen men, strong men, men so strong that their physical stamina resisted all attacks of prison tuberculosis, after a prolonged bout with the jacket, their resistance broken down, fade away, and die of tuberculosis within six months."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Before I came into Science the physicians said that one lung was gone, and that the other was affected with tuberculosis; so, from their standpoint, there was little left for me to hope for."*

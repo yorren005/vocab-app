@@ -5,15 +5,6 @@ status: unread
 ---
 # democritus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek philosopher who developed an atomistic theory of matter (460-370 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek philosopher who developed an atomistic theory of matter (460-370 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In the nests of Arabian birds was the aspilates, that, according to Democritus, kept the wearer from any danger by fire."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But Democritus of Abdera said atomic natures--and he did well; but since he made some mistakes about them, these will be set right in our opinions."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Lastly we may notice his reference to the improvement made in the theory of Democritus by the discovery of Epicurus of the swerve inherent in the atoms (fr. 81)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek philosopher who developed an atomistic theory of matter (460-370 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek philosopher who developed an atomistic theory of matter (460-370 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In the nests of Arabian birds was the aspilates, that, according to Democritus, kept the wearer from any danger by fire."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But Democritus of Abdera said atomic natures--and he did well; but since he made some mistakes about them, these will be set right in our opinions."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Lastly we may notice his reference to the improvement made in the theory of Democritus by the discovery of Epicurus of the swerve inherent in the atoms (fr. 81)."*

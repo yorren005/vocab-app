@@ -5,15 +5,6 @@ status: unread
 ---
 # specification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed description of design criteria for a piece of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Naming explicitly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But what color can the objection have, when a specification of the objects alluded to by these general terms immediately follows, and is not even separated by a longer pause than a semicolon?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This specification of particulars evidently excludes all pretension to a general legislative authority, because an affirmative grant of special powers would be absurd, as well as useless, if a general authority was intended."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Group Three (Logistics Depot) Mission Construct a space station to specification above Coldfield and designate it 'Slingshot Logistics Depot'."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed description of design criteria for a piece of work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Naming explicitly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But what color can the objection have, when a specification of the objects alluded to by these general terms immediately follows, and is not even separated by a longer pause than a semicolon?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This specification of particulars evidently excludes all pretension to a general legislative authority, because an affirmative grant of special powers would be absurd, as well as useless, if a general authority was intended."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Group Three (Logistics Depot) Mission Construct a space station to specification above Coldfield and designate it 'Slingshot Logistics Depot'."*

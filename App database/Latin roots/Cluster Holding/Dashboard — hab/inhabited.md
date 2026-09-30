@@ -5,15 +5,6 @@ status: unread
 ---
 # inhabited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabit or live in; be an inhabitant of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be present in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"JAQUES. [_Aside_.] O knowledge ill-inhabited, worse than Jove in a thatched house!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Leaving them to swing and caw, the travelling chariot rolls on to the house, where fires gleam warmly through some of the windows, though not through so many as to give an inhabited expression to the darkening mass of front."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The house in which Tess had passed the years of her childhood was now inhabited by another family who had never known her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabit or live in; be an inhabitant of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be present in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"JAQUES. [_Aside_.] O knowledge ill-inhabited, worse than Jove in a thatched house!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Leaving them to swing and caw, the travelling chariot rolls on to the house, where fires gleam warmly through some of the windows, though not through so many as to give an inhabited expression to the darkening mass of front."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The house in which Tess had passed the years of her childhood was now inhabited by another family who had never known her."*

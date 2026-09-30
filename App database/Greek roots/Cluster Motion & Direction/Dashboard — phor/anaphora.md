@@ -5,13 +5,6 @@ status: unread
 ---
 # anaphora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using a pronoun or similar word instead of repeating a word used earlier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of a word or phrase at the beginning of successive clauses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphora designates using a pronoun or similar word instead of repeating a word used earlier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using a pronoun or similar word instead of repeating a word used earlier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of a word or phrase at the beginning of successive clauses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphora designates using a pronoun or similar word instead of repeating a word used earlier."*

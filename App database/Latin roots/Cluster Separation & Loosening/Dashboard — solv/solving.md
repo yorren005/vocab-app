@@ -5,15 +5,6 @@ status: unread
 ---
 # solving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Finding a solution to a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find the solution to (a problem or question) or understand the meaning of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Gracious God! what dreadful thoughts entered my head; in solving this mystery perhaps I had solved another, and the fate of my lost companion might be revealed in the shocking spectacle I had just witnessed."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Two years since,” continued the poor man, growing more and more excited with every word that he uttered—“two years since, I succeeded in solving the great problem—in transmuting the baser metals into gold."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"There was little to aid you in solving Such questions--the how or the why."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Finding a solution to a problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find the solution to (a problem or question) or understand the meaning of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Gracious God! what dreadful thoughts entered my head; in solving this mystery perhaps I had solved another, and the fate of my lost companion might be revealed in the shocking spectacle I had just witnessed."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Two years since,” continued the poor man, growing more and more excited with every word that he uttered—“two years since, I succeeded in solving the great problem—in transmuting the baser metals into gold."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"There was little to aid you in solving Such questions--the how or the why."*

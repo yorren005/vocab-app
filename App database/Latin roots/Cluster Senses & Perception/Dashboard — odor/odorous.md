@@ -5,15 +5,6 @@ status: unread
 ---
 # odorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having odor or a characteristic odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting an odor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thorough this distemperature we see The seasons alter: hoary-headed frosts Fall in the fresh lap of the crimson rose; And on old Hiems’ thin and icy crown An odorous chaplet of sweet summer buds Is, as in mockery, set."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Comparisons are odorous: palabras, neighbour Verges."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon; but prejudices, like odorous bodies, have a double existence both solid and subtle—solid as the pyramids, subtle as the twentieth echo of an echo, or as the memory of hyacinths which once scented the darkness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having odor or a characteristic odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting an odor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thorough this distemperature we see The seasons alter: hoary-headed frosts Fall in the fresh lap of the crimson rose; And on old Hiems’ thin and icy crown An odorous chaplet of sweet summer buds Is, as in mockery, set."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Comparisons are odorous: palabras, neighbour Verges."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon; but prejudices, like odorous bodies, have a double existence both solid and subtle—solid as the pyramids, subtle as the twentieth echo of an echo, or as the memory of hyacinths which once scented the darkness."*

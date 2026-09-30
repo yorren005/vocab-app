@@ -5,13 +5,6 @@ status: unread
 ---
 # tenebrific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and gloomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and gloomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It lightens, it brightens The tenebrific scene, To meet with, and greet with My Davie, or my Jean!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and gloomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and gloomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It lightens, it brightens The tenebrific scene, To meet with, and greet with My Davie, or my Jean!"*

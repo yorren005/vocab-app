@@ -5,13 +5,6 @@ status: unread
 ---
 # nomenklatura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of patronage in communist countries; controlled by committees in the communist party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of patronage in communist countries; controlled by committees in the communist party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomenklatura designates the system of patronage in communist countries; controlled by committees in the communist party."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of patronage in communist countries; controlled by committees in the communist party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of patronage in communist countries; controlled by committees in the communist party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomenklatura designates the system of patronage in communist countries; controlled by committees in the communist party."*

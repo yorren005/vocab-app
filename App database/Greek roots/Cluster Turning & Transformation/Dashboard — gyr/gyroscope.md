@@ -5,15 +5,6 @@ status: unread
 ---
 # gyroscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheel or disk mounted so that it can spin rapidly about one axis while also free to rotate about one or both of the two other perpendicular axes so that when torque is applied to either of these axes when the wheel is spinning a rotation about the other axis results.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wheel or disk mounted so that it can spin rapidly about one axis while also free to rotate about one or both of the two other perpendicular axes so that when torque is applied to either of these axes when the wheel is spinning a rotation about the other axis results.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A comparatively small amount of such work would serve as a gyroscope to preserve the balance of employment for a large part of the less skilled workers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Being thus deprived of one of its movements the gyroscope with three degrees becomes a gyroscope with two degrees of freedom, and in that form it supplies the need for an efficient and reliable compass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheel or disk mounted so that it can spin rapidly about one axis while also free to rotate about one or both of the two other perpendicular axes so that when torque is applied to either of these axes when the wheel is spinning a rotation about the other axis results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wheel or disk mounted so that it can spin rapidly about one axis while also free to rotate about one or both of the two other perpendicular axes so that when torque is applied to either of these axes when the wheel is spinning a rotation about the other axis results.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A comparatively small amount of such work would serve as a gyroscope to preserve the balance of employment for a large part of the less skilled workers."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Being thus deprived of one of its movements the gyroscope with three degrees becomes a gyroscope with two degrees of freedom, and in that form it supplies the need for an efficient and reliable compass."*

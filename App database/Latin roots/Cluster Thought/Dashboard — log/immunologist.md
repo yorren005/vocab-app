@@ -5,13 +5,6 @@ status: unread
 ---
 # immunologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical scientist who specializes in immunology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical scientist who specializes in immunology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunologist designates a medical scientist who specializes in immunology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical scientist who specializes in immunology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical scientist who specializes in immunology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunologist designates a medical scientist who specializes in immunology."*

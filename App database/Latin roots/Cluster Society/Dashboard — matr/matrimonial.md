@@ -5,15 +5,6 @@ status: unread
 ---
 # matrimonial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the state of marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the state of marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with large shining knobs for temples and his hair all brushed to the back of his head, who came in the evening, and told Ada he was a philanthropist, also informed her that he called the matrimonial alliance of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s full exposure and a matrimonial separation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Being mentally older than her mother she did not regard Mrs Durbeyfield’s matrimonial hopes for her in a serious aspect for a moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the state of marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the state of marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with large shining knobs for temples and his hair all brushed to the back of his head, who came in the evening, and told Ada he was a philanthropist, also informed her that he called the matrimonial alliance of Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s full exposure and a matrimonial separation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Being mentally older than her mother she did not regard Mrs Durbeyfield’s matrimonial hopes for her in a serious aspect for a moment."*

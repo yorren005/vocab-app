@@ -5,13 +5,6 @@ status: unread
 ---
 # gelatin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatin designates a colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatin designates a colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin."*

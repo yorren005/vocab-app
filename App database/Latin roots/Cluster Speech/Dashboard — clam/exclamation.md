@@ -5,15 +5,6 @@ status: unread
 ---
 # exclamation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt excited utterance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud complaint or protest or reproach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie! what man of good temper would endure this tempest of exclamation?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say They are devised by you, or else you suffer Too hard an exclamation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I trust we shall, If not fill up the measure of her will, Yet in some measure satisfy her so That we shall stop her exclamation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt excited utterance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud complaint or protest or reproach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie! what man of good temper would endure this tempest of exclamation?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say They are devised by you, or else you suffer Too hard an exclamation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I trust we shall, If not fill up the measure of her will, Yet in some measure satisfy her so That we shall stop her exclamation."*

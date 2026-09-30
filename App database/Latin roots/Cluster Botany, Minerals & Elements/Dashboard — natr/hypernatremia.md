@@ -5,13 +5,6 @@ status: unread
 ---
 # hypernatremia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernatremia designates excessive amounts of sodium in the blood; possibly indicating diabetes insipidus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernatremia designates excessive amounts of sodium in the blood; possibly indicating diabetes insipidus."*

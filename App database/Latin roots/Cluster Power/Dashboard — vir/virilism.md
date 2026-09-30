@@ -5,13 +5,6 @@ status: unread
 ---
 # virilism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of male secondary sexual characteristics in a female (or prematurely in a young boy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of male secondary sexual characteristics in a female (or prematurely in a young boy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilism designates the development of male secondary sexual characteristics in a female (or prematurely in a young boy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of male secondary sexual characteristics in a female (or prematurely in a young boy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of male secondary sexual characteristics in a female (or prematurely in a young boy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilism designates the development of male secondary sexual characteristics in a female (or prematurely in a young boy)."*

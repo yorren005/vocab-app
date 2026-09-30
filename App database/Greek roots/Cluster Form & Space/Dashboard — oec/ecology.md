@@ -5,13 +5,6 @@ status: unread
 ---
 # ecology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science concerned with the interrelationship of organisms and their environments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The totality or pattern of relations between organisms and their environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecology designates a branch of science concerned with the interrelationship of organisms and their environments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science concerned with the interrelationship of organisms and their environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The totality or pattern of relations between organisms and their environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecology designates a branch of science concerned with the interrelationship of organisms and their environments."*

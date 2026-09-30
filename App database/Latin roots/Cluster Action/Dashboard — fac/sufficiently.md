@@ -5,15 +5,6 @@ status: unread
 ---
 # sufficiently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a sufficient degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a sufficient degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I grieve to hear what torments you endured, But we will be revenged sufficiently."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not need, my fellow peers of Tyre, Further to question me of your king’s departure: His seal’d commission, left in trust with me, Doth speak sufficiently he’s gone to travel."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was sufficiently engaged during the remainder of the evening in taking my first lesson in backgammon from Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a sufficient degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a sufficient degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I grieve to hear what torments you endured, But we will be revenged sufficiently."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not need, my fellow peers of Tyre, Further to question me of your king’s departure: His seal’d commission, left in trust with me, Doth speak sufficiently he’s gone to travel."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was sufficiently engaged during the remainder of the evening in taking my first lesson in backgammon from Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # expressionism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressionism designates an art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressionism designates an art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality."*

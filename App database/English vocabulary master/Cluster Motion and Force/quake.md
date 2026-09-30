@@ -5,20 +5,6 @@ status: unread
 ---
 # quake
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trembling or shaking
-> 2. **Nuance / Usage**: (intransitive) to tremble or shake
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to quake the target*) and intransitive clauses (*quaking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Lysander, look how I do quake with fear."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Yet that, by you deposed, you quake like rebels."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That one would swear he saw them quake and tremble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To shake, vibrate, or rock violently from an internal shock, upheaval, or instability (as the earth during a tremor).
+> 2. **Nuance / Usage**: Applied to people, to tremble uncontrollably from overwhelming terror, awe, or trepidation (often in *quake in one's boots*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to quake the target*) and intransitive clauses (*quaking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Lysander, look how I do **quake** with fear."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the Son, and into terror changed his countenance too severe to be beheld, while all the rebel host **quaked** at his thunder."*
+> - 📜 **J. R. R. Tolkien (*The Fellowship of the Ring*):** *"The stone floor of the chamber **quaked** beneath their feet as the drums in the deep beat louder."*

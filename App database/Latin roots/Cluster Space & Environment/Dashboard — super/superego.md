@@ -5,13 +5,6 @@ status: unread
 ---
 # superego
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) that part of the unconscious mind that acts as a conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychoanalysis) that part of the unconscious mind that acts as a conscience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superego designates (psychoanalysis) that part of the unconscious mind that acts as a conscience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) that part of the unconscious mind that acts as a conscience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychoanalysis) that part of the unconscious mind that acts as a conscience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superego designates (psychoanalysis) that part of the unconscious mind that acts as a conscience."*

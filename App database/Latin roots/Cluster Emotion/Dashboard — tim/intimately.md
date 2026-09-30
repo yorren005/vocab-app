@@ -5,15 +5,6 @@ status: unread
 ---
 # intimately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a close manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With great or especially intimate knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie was intimately connected with the earliest impressions of her childhood, as well as with the experiences of her youth, with all the people whom she had loved most and who had stood nearest to her."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I had heard you described by those who knew you intimately."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But I have not known him long; and he is not a man, I think, to be known intimately soon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a close manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With great or especially intimate knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie was intimately connected with the earliest impressions of her childhood, as well as with the experiences of her youth, with all the people whom she had loved most and who had stood nearest to her."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I had heard you described by those who knew you intimately."*
+> - 📜 **Jane Austen (*Persuasion*):** *"But I have not known him long; and he is not a man, I think, to be known intimately soon."*

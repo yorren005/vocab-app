@@ -5,13 +5,6 @@ status: unread
 ---
 # cycling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of traveling on a bicycle or motorcycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to go through a recurring sequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"About six and a half years ago, however, having exhausted all material means at my command, - /materia medica/, electricity, gymnastics, cycling, and so on, - and being in a hopeless state, the study of Christian Science was taken up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of traveling on a bicycle or motorcycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to go through a recurring sequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"About six and a half years ago, however, having exhausted all material means at my command, - /materia medica/, electricity, gymnastics, cycling, and so on, - and being in a hopeless state, the study of Christian Science was taken up."*

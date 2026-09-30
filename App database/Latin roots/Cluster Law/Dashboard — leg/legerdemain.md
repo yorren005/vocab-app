@@ -5,15 +5,6 @@ status: unread
 ---
 # legerdemain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illusory feat; considered magical by naive observers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illusory feat; considered magical by naive observers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But this kind of logical legerdemain will never counteract the plain suggestions of justice and common-sense."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had prosecuted his studies, also, under a traveling sage who united the mysteries of medicine with magic and legerdemain."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In 212:21 legerdemain and credulous frenzy, mortals believe that unseen spirits produce the flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illusory feat; considered magical by naive observers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illusory feat; considered magical by naive observers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But this kind of logical legerdemain will never counteract the plain suggestions of justice and common-sense."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had prosecuted his studies, also, under a traveling sage who united the mysteries of medicine with magic and legerdemain."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In 212:21 legerdemain and credulous frenzy, mortals believe that unseen spirits produce the flowers."*

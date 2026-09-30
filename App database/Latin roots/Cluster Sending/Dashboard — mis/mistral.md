@@ -5,13 +5,6 @@ status: unread
 ---
 # mistral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong north wind that blows in france during the winter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong north wind that blows in france during the winter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A touch of mistral was out, and the wind blew seaward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong north wind that blows in france during the winter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong north wind that blows in france during the winter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A touch of mistral was out, and the wind blew seaward."*

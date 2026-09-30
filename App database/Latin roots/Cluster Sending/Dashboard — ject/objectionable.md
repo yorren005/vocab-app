@@ -5,15 +5,6 @@ status: unread
 ---
 # objectionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disapproval or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to objection or debate; used of something one might take exception to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then John Jarndyce discovers that Ada and I must break off and that if I don’t amend that very objectionable course, I am not fit for her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Esther, I don’t mean to amend that very objectionable course: I will not hold John Jarndyce’s favour on those unfair terms of compromise, which he has no right to dictate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia, lighting a candle (with a predestined aptitude for doing something objectionable), is bidden to put it out again, for it is not yet dark enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disapproval or protest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to objection or debate; used of something one might take exception to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then John Jarndyce discovers that Ada and I must break off and that if I don’t amend that very objectionable course, I am not fit for her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Esther, I don’t mean to amend that very objectionable course: I will not hold John Jarndyce’s favour on those unfair terms of compromise, which he has no right to dictate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia, lighting a candle (with a predestined aptitude for doing something objectionable), is bidden to put it out again, for it is not yet dark enough."*

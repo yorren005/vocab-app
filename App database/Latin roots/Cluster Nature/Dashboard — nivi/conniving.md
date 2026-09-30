@@ -5,13 +5,6 @@ status: unread
 ---
 # conniving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Encourage or assent to illegally or criminally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form intrigues (for) in an underhand manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"This was exactly what Sir Thomas and Edmund had been separately conniving at, as each proved to the other by the sympathetic alacrity with which they both advised Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Encourage or assent to illegally or criminally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form intrigues (for) in an underhand manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"This was exactly what Sir Thomas and Edmund had been separately conniving at, as each proved to the other by the sympathetic alacrity with which they both advised Mrs."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # oblate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lay person dedicated to religious work or the religious life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the equatorial diameter greater than the polar diameter; being flattened at the poles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: _(Turns.)_ Eh? _(He disengages himself.)_ Why should I not speak to him or to any human being who walks upright upon this oblate orange? _(He points his finger.)_ I’m not afraid of what I can talk to if I see his eye."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"One is an oblate ovoid vase, with small neck and mouth, of hard, light buff body, coated with a dull greenish black glaze with minute specks of lighter colour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lay person dedicated to religious work or the religious life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the equatorial diameter greater than the polar diameter; being flattened at the poles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: _(Turns.)_ Eh? _(He disengages himself.)_ Why should I not speak to him or to any human being who walks upright upon this oblate orange? _(He points his finger.)_ I’m not afraid of what I can talk to if I see his eye."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"One is an oblate ovoid vase, with small neck and mouth, of hard, light buff body, coated with a dull greenish black glaze with minute specks of lighter colour."*

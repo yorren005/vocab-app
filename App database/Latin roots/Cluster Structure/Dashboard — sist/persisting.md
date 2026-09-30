@@ -5,15 +5,6 @@ status: unread
 ---
 # persisting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to exist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was soon generally agreed that Tuesday should be the day; Charles only reserving the advantage of still teasing his wife, by persisting that he would go to the play to-morrow if nobody else would."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"In revolving Lady Catherine’s expressions, however, she could not help feeling some uneasiness as to the possible consequence of her persisting in this interference."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford, and avoid both his looks and inquiries; and he, unrepulsable, was persisting in both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to exist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It was soon generally agreed that Tuesday should be the day; Charles only reserving the advantage of still teasing his wife, by persisting that he would go to the play to-morrow if nobody else would."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"In revolving Lady Catherine’s expressions, however, she could not help feeling some uneasiness as to the possible consequence of her persisting in this interference."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford, and avoid both his looks and inquiries; and he, unrepulsable, was persisting in both."*

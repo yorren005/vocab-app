@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound that contains water of crystallization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply water or liquid to in order to maintain a healthy balance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrate designates any compound that contains water of crystallization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound that contains water of crystallization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply water or liquid to in order to maintain a healthy balance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrate designates any compound that contains water of crystallization."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # gerrymander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide unfairly and to one's advantage; of voting districts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerrymander designates an act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide unfairly and to one's advantage; of voting districts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerrymander designates an act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage)."*

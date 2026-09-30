@@ -5,15 +5,6 @@ status: unread
 ---
 # Plutus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is my dagger, And here my naked breast; within, a heart Dearer than Plutus’ mine, richer than gold: If that thou be’st a Roman, take it forth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He pours it out; Plutus, the god of gold, Is but his steward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is my dagger, And here my naked breast; within, a heart Dearer than Plutus’ mine, richer than gold: If that thou be’st a Roman, take it forth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He pours it out; Plutus, the god of gold, Is but his steward."*

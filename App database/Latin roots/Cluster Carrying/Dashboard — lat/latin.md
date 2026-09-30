@@ -5,15 +5,6 @@ status: unread
 ---
 # latin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any dialect of the language of ancient rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhabitant of ancient latium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that’s the Latin word for three farthings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I smell false Latin! _Dunghill_ for _unguem_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know I say nothing to him, for he understands not me, nor I him: he hath neither Latin, French, nor Italian, and you will come into the court and swear that I have a poor pennyworth in the English."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any dialect of the language of ancient rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhabitant of ancient latium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that’s the Latin word for three farthings."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I smell false Latin! _Dunghill_ for _unguem_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know I say nothing to him, for he understands not me, nor I him: he hath neither Latin, French, nor Italian, and you will come into the court and swear that I have a poor pennyworth in the English."*

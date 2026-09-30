@@ -5,14 +5,6 @@ status: unread
 ---
 # trema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Looking at the tips of her hairs to see if they are split. _Mi trema un poco il_."*
-> - 📜 **James Joyce (*Ulysses*):** *"MARION: _Ti trema un poco il cuore?_ _(In disdain she saunters away, plump as a pampered pouter pigeon, humming the duet from_ Don Giovanni.) BLOOM: Are you sure about that _Voglio_?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Looking at the tips of her hairs to see if they are split. _Mi trema un poco il_."*
+> - 📜 **James Joyce (*Ulysses*):** *"MARION: _Ti trema un poco il cuore?_ _(In disdain she saunters away, plump as a pampered pouter pigeon, humming the duet from_ Don Giovanni.) BLOOM: Are you sure about that _Voglio_?"*

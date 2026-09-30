@@ -5,13 +5,6 @@ status: unread
 ---
 # amphiuma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiuma designates aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiuma designates aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states."*

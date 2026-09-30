@@ -5,13 +5,6 @@ status: unread
 ---
 # fantail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantail designates an overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantail designates an overhang consisting of the fan-shaped part of the deck extending aft of the sternpost of a ship."*

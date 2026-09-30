@@ -5,15 +5,6 @@ status: unread
 ---
 # solve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Find the solution to (a problem or question) or understand the meaning of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find the solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This is the central problem which a study of his life presents, and it is one of no ordinary complexity; but there are some considerations relating to it which go far to solve it, and these it may be worth while for us at this point to examine."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Here was a mystery she could not solve."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Ye are my friends," said the blessed Lord, "if ye do whatsoever I command you." Obedience will solve difficulties that reasoning cannot unravel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Find the solution to (a problem or question) or understand the meaning of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find the solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This is the central problem which a study of his life presents, and it is one of no ordinary complexity; but there are some considerations relating to it which go far to solve it, and these it may be worth while for us at this point to examine."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Here was a mystery she could not solve."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Ye are my friends," said the blessed Lord, "if ye do whatsoever I command you." Obedience will solve difficulties that reasoning cannot unravel."*

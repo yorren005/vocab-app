@@ -5,15 +5,6 @@ status: unread
 ---
 # copier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus that makes copies of typed, written or drawn material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus that makes copies of typed, written or drawn material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I drove home to my house in Kensington I thought over it all, from the extraordinary story of the red-headed copier of the _Encyclopædia_ down to the visit to Saxe-Coburg Square, and the ominous words with which he had parted from me."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Those forms, unalterable first as last, proved him her copier, not the protoplast of nature: what could come of being free by action to exhibit tree for tree, bird, beast, for beast and bird, or prove earth bore one veritable man or woman more?"*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I do not know whether I do not hazard my pretensions to be a critic of any kind, when I say that I think Virgil, in many instances, a servile copier of Homer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus that makes copies of typed, written or drawn material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus that makes copies of typed, written or drawn material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I drove home to my house in Kensington I thought over it all, from the extraordinary story of the red-headed copier of the _Encyclopædia_ down to the visit to Saxe-Coburg Square, and the ominous words with which he had parted from me."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Those forms, unalterable first as last, proved him her copier, not the protoplast of nature: what could come of being free by action to exhibit tree for tree, bird, beast, for beast and bird, or prove earth bore one veritable man or woman more?"*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I do not know whether I do not hazard my pretensions to be a critic of any kind, when I say that I think Virgil, in many instances, a servile copier of Homer."*

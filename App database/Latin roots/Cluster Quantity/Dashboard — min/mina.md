@@ -5,15 +5,6 @@ status: unread
 ---
 # mina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical asian starlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical asian starlings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Mina Harker’s Journal How these papers have been placed in sequence will be made manifest in the reading of them."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall enter here some of my notes, as they may refresh my memory when I talk over my travels with Mina."*
-> - 📜 **Bram Stoker (*Dracula*):** *"If this book should ever reach Mina before I do, let it bring my good-bye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical asian starlings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical asian starlings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Mina Harker’s Journal How these papers have been placed in sequence will be made manifest in the reading of them."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I shall enter here some of my notes, as they may refresh my memory when I talk over my travels with Mina."*
+> - 📜 **Bram Stoker (*Dracula*):** *"If this book should ever reach Mina before I do, let it bring my good-bye."*

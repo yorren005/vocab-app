@@ -5,15 +5,6 @@ status: unread
 ---
 # therefore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used to introduce a logical conclusion) from that fact or reason or as a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a consequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O therefore love be of thyself so wary, As I not for my self, but for thee will, Bearing thy heart which I will keep so chary As tender nurse her babe from faring ill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle thou art, and therefore to be won, Beauteous thou art, therefore to be assailed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used to introduce a logical conclusion) from that fact or reason or as a result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a consequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O therefore love be of thyself so wary, As I not for my self, but for thee will, Bearing thy heart which I will keep so chary As tender nurse her babe from faring ill."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle thou art, and therefore to be won, Beauteous thou art, therefore to be assailed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*

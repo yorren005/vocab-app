@@ -5,14 +5,6 @@ status: unread
 ---
 # frigidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warmth or enthusiasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warmth or enthusiasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Campbell passed by frigidly, as if the man weren't there, and all the time his blood was boiling...."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Clair,” Anne reminded him frigidly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warmth or enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warmth or enthusiasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Campbell passed by frigidly, as if the man weren't there, and all the time his blood was boiling...."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Clair,” Anne reminded him frigidly."*

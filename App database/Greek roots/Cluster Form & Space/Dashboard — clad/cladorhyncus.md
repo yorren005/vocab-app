@@ -5,13 +5,6 @@ status: unread
 ---
 # cladorhyncus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two genera of stilts; similar to avocets but with straight bills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two genera of stilts; similar to avocets but with straight bills.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladorhyncus designates one of two genera of stilts; similar to avocets but with straight bills."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two genera of stilts; similar to avocets but with straight bills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two genera of stilts; similar to avocets but with straight bills.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladorhyncus designates one of two genera of stilts; similar to avocets but with straight bills."*

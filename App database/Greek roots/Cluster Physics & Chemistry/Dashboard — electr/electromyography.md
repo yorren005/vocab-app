@@ -5,13 +5,6 @@ status: unread
 ---
 # electromyography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyography designates an instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyography designates an instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # suffering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of acute pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misery resulting from affliction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thou hast been As one, in suffering all, that suffers nothing, A man that Fortune’s buffets and rewards Hast ta’en with equal thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law, for the which I think thou wilt howl."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That bear’st a cheek for blows, a head for wrongs; Who hast not in thy brows an eye discerning Thine honour from thy suffering; that not know’st Fools do those villains pity who are punish’d Ere they have done their mischief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of acute pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misery resulting from affliction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thou hast been As one, in suffering all, that suffers nothing, A man that Fortune’s buffets and rewards Hast ta’en with equal thanks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law, for the which I think thou wilt howl."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That bear’st a cheek for blows, a head for wrongs; Who hast not in thy brows an eye discerning Thine honour from thy suffering; that not know’st Fools do those villains pity who are punish’d Ere they have done their mischief."*

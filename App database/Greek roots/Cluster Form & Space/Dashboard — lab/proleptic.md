@@ -5,13 +5,6 @@ status: unread
 ---
 # proleptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anticipation: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation or assumption of a future act or development as if presently existing or accomplished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proleptic designates anticipation: such as."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anticipation: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation or assumption of a future act or development as if presently existing or accomplished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proleptic designates anticipation: such as."*

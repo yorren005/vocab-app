@@ -5,13 +5,6 @@ status: unread
 ---
 # cense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfume especially with a censer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perfume especially with a censer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cense designates perfume especially with a censer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfume especially with a censer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perfume especially with a censer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cense designates perfume especially with a censer."*

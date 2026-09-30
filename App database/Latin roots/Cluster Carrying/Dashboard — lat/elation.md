@@ -5,15 +5,6 @@ status: unread
 ---
 # elation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhilarating psychological state of pride and optimism; an absence of depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of joy and pride.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"As to my feelings I shall say nothing, because I do not look upon the honour as one of a kind that ought to excite the least elation ..."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To my surprise—yes, to my elation be it said—both my fellow-prisoners knew me through my record as an incorrigible."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The very sight of the hollows between them gave me a sense of solemn elation, or, rather, to use a better word, of sanctification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhilarating psychological state of pride and optimism; an absence of depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of joy and pride.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"As to my feelings I shall say nothing, because I do not look upon the honour as one of a kind that ought to excite the least elation ..."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To my surprise—yes, to my elation be it said—both my fellow-prisoners knew me through my record as an incorrigible."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The very sight of the hollows between them gave me a sense of solemn elation, or, rather, to use a better word, of sanctification."*

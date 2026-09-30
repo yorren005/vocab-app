@@ -5,13 +5,6 @@ status: unread
 ---
 # hallel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a chant of praise (psalms 113 through 118) used at passover and shabuoth and sukkoth and hanukkah and rosh hodesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a chant of praise (psalms 113 through 118) used at passover and shabuoth and sukkoth and hanukkah and rosh hodesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hallel designates (judaism) a chant of praise (psalms 113 through 118) used at passover and shabuoth and sukkoth and hanukkah and rosh hodesh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a chant of praise (psalms 113 through 118) used at passover and shabuoth and sukkoth and hanukkah and rosh hodesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a chant of praise (psalms 113 through 118) used at passover and shabuoth and sukkoth and hanukkah and rosh hodesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hallel designates (judaism) a chant of praise (psalms 113 through 118) used at passover and shabuoth and sukkoth and hanukkah and rosh hodesh."*

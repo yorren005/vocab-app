@@ -5,15 +5,6 @@ status: unread
 ---
 # radium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intensely radioactive metallic element that occurs in minute amounts in uranium ores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intensely radioactive metallic element that occurs in minute amounts in uranium ores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This number, by the way, is known to science as "Avogadro's Constant." Everyone has heard of radium, and knows that it is in a state which can best be described as a long-drawn-out explosion."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Some years ago, when radium was being much talked about and the names of M. and Madame Curie were in everyone's mouth, little toys were sold, the invention, I believe, of Sir William Crookes, called spinthariscopes."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Those splashes were caused by a tiny speck of radium in the middle of the tube, the helium atoms from which, by bombarding the inner surface of the tube, produced the sparks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intensely radioactive metallic element that occurs in minute amounts in uranium ores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intensely radioactive metallic element that occurs in minute amounts in uranium ores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This number, by the way, is known to science as "Avogadro's Constant." Everyone has heard of radium, and knows that it is in a state which can best be described as a long-drawn-out explosion."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Some years ago, when radium was being much talked about and the names of M. and Madame Curie were in everyone's mouth, little toys were sold, the invention, I believe, of Sir William Crookes, called spinthariscopes."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Those splashes were caused by a tiny speck of radium in the middle of the tube, the helium atoms from which, by bombarding the inner surface of the tube, produced the sparks."*

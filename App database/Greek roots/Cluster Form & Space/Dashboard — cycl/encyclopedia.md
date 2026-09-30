@@ -5,15 +5,6 @@ status: unread
 ---
 # encyclopedia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In 1858 appeared the important article on "Kant," in the eighth edition of the _Encyclopedia Britannica_, which was written at the urgent request of his friend Adam Black, and which cost him ten months reading and preparation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Memoirs: Hot War-Cold War: Back of the Line Logistics The 1988 Edition of the Encyclopedia Americana defines 'logistics' as: "É the movement and maintenance of military forces."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The Encyclopedia Brittanica." "Electrotyping and Stereotyping" Typographical Technical Series, Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"In 1858 appeared the important article on "Kant," in the eighth edition of the _Encyclopedia Britannica_, which was written at the urgent request of his friend Adam Black, and which cost him ten months reading and preparation."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Memoirs: Hot War-Cold War: Back of the Line Logistics The 1988 Edition of the Encyclopedia Americana defines 'logistics' as: "É the movement and maintenance of military forces."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The Encyclopedia Brittanica." "Electrotyping and Stereotyping" Typographical Technical Series, Vol."*

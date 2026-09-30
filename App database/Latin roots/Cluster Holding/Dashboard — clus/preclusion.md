@@ -5,13 +5,6 @@ status: unread
 ---
 # preclusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing something by anticipating and disposing of it effectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing something by anticipating and disposing of it effectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preclusion designates the act of preventing something by anticipating and disposing of it effectively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing something by anticipating and disposing of it effectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing something by anticipating and disposing of it effectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preclusion designates the act of preventing something by anticipating and disposing of it effectively."*

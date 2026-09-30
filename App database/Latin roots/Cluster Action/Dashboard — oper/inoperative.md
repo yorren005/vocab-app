@@ -5,15 +5,6 @@ status: unread
 ---
 # inoperative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not working or taking effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not working or taking effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In other cases the old rates were but nominal and inoperative because they were upon goods regularly exported, not imported (e.g., farm products, cotton goods, and some other manufactures)."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It would therefore be destitute of a precise meaning, and inoperative from its uncertainty."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The final turret had been rendered inoperative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not working or taking effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not working or taking effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In other cases the old rates were but nominal and inoperative because they were upon goods regularly exported, not imported (e.g., farm products, cotton goods, and some other manufactures)."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It would therefore be destitute of a precise meaning, and inoperative from its uncertainty."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The final turret had been rendered inoperative."*

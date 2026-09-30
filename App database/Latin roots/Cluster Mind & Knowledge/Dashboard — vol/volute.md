@@ -5,13 +5,6 @@ status: unread
 ---
 # volute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure consisting of something wound in a continuous series of loops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electric light flooded everything; it was shed from four unpolished globes half sunk in the volutes of the ceiling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure consisting of something wound in a continuous series of loops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electric light flooded everything; it was shed from four unpolished globes half sunk in the volutes of the ceiling."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # litigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal proceeding in a court; a judicial contest to determine and enforce legal rights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal proceeding in a court; a judicial contest to determine and enforce legal rights.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some forty countries the principle of compensation by a prearranged schedule of rates has to some degree replaced that of litigation, and determination by a jury of the damages, in each separate case."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"His passion is for the British law, and he has spent a large fortune in litigation."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Of course such a rich prize provoked litigation, but Morgan's claim was too strong to be overthrown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal proceeding in a court; a judicial contest to determine and enforce legal rights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal proceeding in a court; a judicial contest to determine and enforce legal rights.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some forty countries the principle of compensation by a prearranged schedule of rates has to some degree replaced that of litigation, and determination by a jury of the damages, in each separate case."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"His passion is for the British law, and he has spent a large fortune in litigation."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Of course such a rich prize provoked litigation, but Morgan's claim was too strong to be overthrown."*

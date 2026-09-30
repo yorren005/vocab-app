@@ -5,13 +5,6 @@ status: unread
 ---
 # procellariiformes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Petrels; albatrosses; shearwaters; diving petrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Petrels; albatrosses; shearwaters; diving petrels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procellariiformes designates petrels; albatrosses; shearwaters; diving petrels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Petrels; albatrosses; shearwaters; diving petrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Petrels; albatrosses; shearwaters; diving petrels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procellariiformes designates petrels; albatrosses; shearwaters; diving petrels."*

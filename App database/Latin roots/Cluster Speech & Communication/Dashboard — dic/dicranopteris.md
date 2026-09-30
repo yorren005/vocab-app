@@ -5,13 +5,6 @@ status: unread
 ---
 # dicranopteris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial ferns of forest margin or open ground; pantropical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial ferns of forest margin or open ground; pantropical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicranopteris designates terrestrial ferns of forest margin or open ground; pantropical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial ferns of forest margin or open ground; pantropical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial ferns of forest margin or open ground; pantropical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicranopteris designates terrestrial ferns of forest margin or open ground; pantropical."*

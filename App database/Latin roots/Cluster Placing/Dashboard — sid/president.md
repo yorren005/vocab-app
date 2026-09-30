@@ -5,15 +5,6 @@ status: unread
 ---
 # president
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An executive officer of a firm or corporation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who holds the office of head of state of the united states government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A charge we bear i’ th’ war, And, as the president of my kingdom, will Appear there for a man."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Justice” was done, and the President of the Immortals, in Æschylean phrase, had ended his sport with Tess."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Lindsay as President of the Students' Total Abstinence Society, and, as no absolute pledge was exacted from the members, he willingly agreed to do so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An executive officer of a firm or corporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who holds the office of head of state of the united states government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A charge we bear i’ th’ war, And, as the president of my kingdom, will Appear there for a man."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Justice” was done, and the President of the Immortals, in Æschylean phrase, had ended his sport with Tess."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Lindsay as President of the Students' Total Abstinence Society, and, as no absolute pledge was exacted from the members, he willingly agreed to do so."*

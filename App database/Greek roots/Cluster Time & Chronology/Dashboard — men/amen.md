@@ -5,15 +5,6 @@ status: unread
 ---
 # amen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, amen. [_Exeunt Rosencrantz, Guildenstern and some Attendants._] Enter Polonius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To cry amen to that, thus we appear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, amen. [_Exeunt Rosencrantz, Guildenstern and some Attendants._] Enter Polonius."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To cry amen to that, thus we appear."*

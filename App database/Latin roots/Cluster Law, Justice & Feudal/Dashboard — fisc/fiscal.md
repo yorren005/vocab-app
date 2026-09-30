@@ -5,15 +5,6 @@ status: unread
 ---
 # fiscal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving financial matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving financial matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A tariff may be adopted mainly from stress of financial need (as in our own history in 1789 or in 1861), but its modification or repeal cannot be decided by fiscal considerations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The average rate of the three (fiscal) years 1873 to 1875 was 39 per cent on dutiable (a fall of 9) and 28 on free and dutiable (a fall of 16)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From 1876 to 1883 (8 fiscal years) nearly a third of the imports consisted of goods on the free list."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving financial matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving financial matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A tariff may be adopted mainly from stress of financial need (as in our own history in 1789 or in 1861), but its modification or repeal cannot be decided by fiscal considerations."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The average rate of the three (fiscal) years 1873 to 1875 was 39 per cent on dutiable (a fall of 9) and 28 on free and dutiable (a fall of 16)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From 1876 to 1883 (8 fiscal years) nearly a third of the imports consisted of goods on the free list."*

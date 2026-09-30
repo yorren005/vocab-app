@@ -5,13 +5,6 @@ status: unread
 ---
 # humous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick spread made from mashed chickpeas, tahini, lemon juice and garlic; used especially as a dip for pita; originated in the middle east.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick spread made from mashed chickpeas, tahini, lemon juice and garlic; used especially as a dip for pita; originated in the middle east.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And came the day when I moved my cattle on, and my plough-men went back and forth across the slopes’ contour—ploughing the rich sod under to rot to live and crawling humous in which to bed my seeds of crops to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick spread made from mashed chickpeas, tahini, lemon juice and garlic; used especially as a dip for pita; originated in the middle east.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick spread made from mashed chickpeas, tahini, lemon juice and garlic; used especially as a dip for pita; originated in the middle east.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And came the day when I moved my cattle on, and my plough-men went back and forth across the slopes’ contour—ploughing the rich sod under to rot to live and crawling humous in which to bed my seeds of crops to be."*

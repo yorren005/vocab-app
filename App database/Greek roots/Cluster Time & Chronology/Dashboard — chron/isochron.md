@@ -5,13 +5,6 @@ status: unread
 ---
 # isochron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochron designates an imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochron designates an imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference."*

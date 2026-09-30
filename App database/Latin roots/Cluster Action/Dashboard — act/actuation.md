@@ -5,13 +5,6 @@ status: unread
 ---
 # actuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of propelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of propelling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actuation designates the act of propelling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of propelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of propelling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actuation designates the act of propelling."*

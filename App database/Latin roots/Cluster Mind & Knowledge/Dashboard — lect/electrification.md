@@ -5,13 +5,6 @@ status: unread
 ---
 # electrification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of thrilling or markedly exciting some person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Take the one instance of the electrification of a railway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of thrilling or markedly exciting some person or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Take the one instance of the electrification of a railway."*

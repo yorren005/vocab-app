@@ -5,15 +5,6 @@ status: unread
 ---
 # congenial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable to your needs; ; - t.l.peacock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of plants) capable of cross-fertilization or of being grafted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At a short distance, we passed the young man and the dog, in congenial company."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I then asked Richard whether he had thought of any more congenial pursuit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is particularly complacent because he has found in his newspaper some congenial remarks bearing directly on the floodgates and the framework of society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable to your needs; ; - t.l.peacock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of plants) capable of cross-fertilization or of being grafted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"At a short distance, we passed the young man and the dog, in congenial company."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I then asked Richard whether he had thought of any more congenial pursuit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is particularly complacent because he has found in his newspaper some congenial remarks bearing directly on the floodgates and the framework of society."*

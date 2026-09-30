@@ -5,15 +5,6 @@ status: unread
 ---
 # glutinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the sticky properties of an adhesive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the sticky properties of an adhesive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It designates the dark, glutinous substance which is scraped off the back of the Greenland or right whale, and much of which covers the decks of those inferior souls who hunt that ignoble Leviathan."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It designates the dark, glutinous substance which is scraped off the back of the Greenland or right whale, and much of which covers the decks of those inferior souls who hunt that ignoble Leviathan."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The day was very hot, and heaps of flies, who were extending their inquisitive and adventurous perquisitions into all the glutinous little glasses near madame, fell dead at the bottom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the sticky properties of an adhesive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the sticky properties of an adhesive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It designates the dark, glutinous substance which is scraped off the back of the Greenland or right whale, and much of which covers the decks of those inferior souls who hunt that ignoble Leviathan."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It designates the dark, glutinous substance which is scraped off the back of the Greenland or right whale, and much of which covers the decks of those inferior souls who hunt that ignoble Leviathan."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The day was very hot, and heaps of flies, who were extending their inquisitive and adventurous perquisitions into all the glutinous little glasses near madame, fell dead at the bottom."*

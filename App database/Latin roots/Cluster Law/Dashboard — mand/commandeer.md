@@ -5,15 +5,6 @@ status: unread
 ---
 # commandeer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take arbitrarily or by force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take arbitrarily or by force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was impossible that he could feel the same freedom and ease; impossible that he should commandeer my help as he had done in days past."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hay and the spring corn, of which Alpátych said there had been a remarkable crop that year, had been commandeered by the troops and mown down while still green."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Also he did us another ill turn—for it was proved that his money was at the bottom of it—by causing Ralph to be commandeered to serve on some distant Kaffir expedition, out of which trouble we were obliged to buy him, and at no small cost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take arbitrarily or by force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take arbitrarily or by force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was impossible that he could feel the same freedom and ease; impossible that he should commandeer my help as he had done in days past."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hay and the spring corn, of which Alpátych said there had been a remarkable crop that year, had been commandeered by the troops and mown down while still green."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Also he did us another ill turn—for it was proved that his money was at the bottom of it—by causing Ralph to be commandeered to serve on some distant Kaffir expedition, out of which trouble we were obliged to buy him, and at no small cost."*

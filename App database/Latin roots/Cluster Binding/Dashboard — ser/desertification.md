@@ -5,13 +5,6 @@ status: unread
 ---
 # desertification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desertification designates the gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desertification designates the gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land."*

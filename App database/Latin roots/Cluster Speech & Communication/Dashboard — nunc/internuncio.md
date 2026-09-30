@@ -5,13 +5,6 @@ status: unread
 ---
 # internuncio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internuncio designates (roman catholic church) a diplomatic representative of the pope ranking below a nuncio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a diplomatic representative of the pope ranking below a nuncio.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internuncio designates (roman catholic church) a diplomatic representative of the pope ranking below a nuncio."*

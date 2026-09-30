@@ -5,13 +5,6 @@ status: unread
 ---
 # antiviral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any drug that destroys viruses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhibiting or stopping the growth and reproduction of viruses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiviral designates any drug that destroys viruses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any drug that destroys viruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhibiting or stopping the growth and reproduction of viruses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiviral designates any drug that destroys viruses."*

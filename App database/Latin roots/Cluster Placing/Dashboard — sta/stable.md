@@ -5,15 +5,6 @@ status: unread
 ---
 # stable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farm building for housing horses or other livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shelter in a stable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France is a stable; we that dwell in’t, jades, Therefore, to th’ war!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, lend me thy lantern, to see my gelding in the stable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid the ostler bring my gelding out of the stable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A farm building for housing horses or other livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shelter in a stable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France is a stable; we that dwell in’t, jades, Therefore, to th’ war!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, lend me thy lantern, to see my gelding in the stable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid the ostler bring my gelding out of the stable."*

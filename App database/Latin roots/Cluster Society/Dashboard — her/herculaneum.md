@@ -5,15 +5,6 @@ status: unread
 ---
 # herculaneum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient city; now destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient city; now destroyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In various enchanted attitudes, like the standing, or stepping, or running skeletons in Herculaneum, others remained rooted to the deck; but all their eyes upcast."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In various enchanted attitudes, like the standing, or stepping, or running skeletons in Herculaneum, others remained rooted to the deck; but all their eyes upcast."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne, by what somebody has called “a Herculaneum effort,” kept back her tears until she got home that night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient city; now destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient city; now destroyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In various enchanted attitudes, like the standing, or stepping, or running skeletons in Herculaneum, others remained rooted to the deck; but all their eyes upcast."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In various enchanted attitudes, like the standing, or stepping, or running skeletons in Herculaneum, others remained rooted to the deck; but all their eyes upcast."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne, by what somebody has called “a Herculaneum effort,” kept back her tears until she got home that night."*

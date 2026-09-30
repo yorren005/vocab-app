@@ -5,13 +5,6 @@ status: unread
 ---
 # discoglossidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of old world toads having a fixed disklike tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of old world toads having a fixed disklike tongue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discoglossidae designates family of old world toads having a fixed disklike tongue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of old world toads having a fixed disklike tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of old world toads having a fixed disklike tongue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discoglossidae designates family of old world toads having a fixed disklike tongue."*

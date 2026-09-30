@@ -5,13 +5,6 @@ status: unread
 ---
 # hypothrombinemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothrombinemia designates a low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothrombinemia designates a low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency."*

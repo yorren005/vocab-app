@@ -5,13 +5,6 @@ status: unread
 ---
 # protriptyline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tricyclic antidepressant used to treat clinical depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant used to treat clinical depression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protriptyline designates tricyclic antidepressant used to treat clinical depression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tricyclic antidepressant used to treat clinical depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant used to treat clinical depression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protriptyline designates tricyclic antidepressant used to treat clinical depression."*

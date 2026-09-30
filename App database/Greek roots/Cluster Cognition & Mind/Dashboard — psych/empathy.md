@@ -5,13 +5,6 @@ status: unread
 ---
 # empathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of imagining one's ideas, feelings, or attitudes as fully inhabiting something observed (such as a work of art or natural occurrence) : the imaginative projection of a subjective state into an object so that the object appears to be infused with it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathy designates the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of imagining one's ideas, feelings, or attitudes as fully inhabiting something observed (such as a work of art or natural occurrence) : the imaginative projection of a subjective state into an object so that the object appears to be infused with it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathy designates the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this."*

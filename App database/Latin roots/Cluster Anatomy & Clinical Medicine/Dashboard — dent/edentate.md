@@ -5,13 +5,6 @@ status: unread
 ---
 # edentate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive terrestrial mammal with few if any teeth; of tropical central america and south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having few if any teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edentate designates primitive terrestrial mammal with few if any teeth; of tropical central america and south america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive terrestrial mammal with few if any teeth; of tropical central america and south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having few if any teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edentate designates primitive terrestrial mammal with few if any teeth; of tropical central america and south america."*

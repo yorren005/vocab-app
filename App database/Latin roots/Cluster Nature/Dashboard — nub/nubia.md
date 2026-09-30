@@ -5,13 +5,6 @@ status: unread
 ---
 # nubia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region of northeastern africa (southern egypt and northern sudan) on the nile; much of nubia is now under lake nasser.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region of northeastern africa (southern egypt and northern sudan) on the nile; much of nubia is now under lake nasser.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nubia designates an ancient region of northeastern africa (southern egypt and northern sudan) on the nile; much of nubia is now under lake nasser."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region of northeastern africa (southern egypt and northern sudan) on the nile; much of nubia is now under lake nasser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region of northeastern africa (southern egypt and northern sudan) on the nile; much of nubia is now under lake nasser.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nubia designates an ancient region of northeastern africa (southern egypt and northern sudan) on the nile; much of nubia is now under lake nasser."*

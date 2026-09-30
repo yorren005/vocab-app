@@ -5,13 +5,6 @@ status: unread
 ---
 # multicellular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of many cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of many cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multicellular designates consisting of many cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of many cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of many cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multicellular designates consisting of many cells."*

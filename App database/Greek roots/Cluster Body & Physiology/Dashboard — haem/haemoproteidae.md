@@ -5,13 +5,6 @@ status: unread
 ---
 # haemoproteidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bird parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bird parasites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoproteidae designates bird parasites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bird parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bird parasites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoproteidae designates bird parasites."*

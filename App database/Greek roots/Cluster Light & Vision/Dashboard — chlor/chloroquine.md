@@ -5,13 +5,6 @@ status: unread
 ---
 # chloroquine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloroquine designates an antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloroquine designates an antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus."*

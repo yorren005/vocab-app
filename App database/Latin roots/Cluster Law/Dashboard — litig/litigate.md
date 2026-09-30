@@ -5,13 +5,6 @@ status: unread
 ---
 # litigate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in legal proceedings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Institute legal proceedings against; file a suit against.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litigate designates engage in legal proceedings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in legal proceedings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Institute legal proceedings against; file a suit against.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litigate designates engage in legal proceedings."*

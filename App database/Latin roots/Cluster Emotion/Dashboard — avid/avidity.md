@@ -5,15 +5,6 @@ status: unread
 ---
 # avidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of wanting to push ahead with something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of wanting to push ahead with something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John—look at the avidity in her eyes.” “No more at present, sister."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the mild voice of reason, pleading the cause of an enlarged and permanent interest, is but too often drowned, before public bodies as well as individuals, by the clamors of an impatient avidity for immediate and immoderate gain."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It required, indeed, an insatiable avidity for censure to invent exceptions to the parts which have been excepted to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of wanting to push ahead with something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of wanting to push ahead with something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John—look at the avidity in her eyes.” “No more at present, sister."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the mild voice of reason, pleading the cause of an enlarged and permanent interest, is but too often drowned, before public bodies as well as individuals, by the clamors of an impatient avidity for immediate and immoderate gain."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It required, indeed, an insatiable avidity for censure to invent exceptions to the parts which have been excepted to."*

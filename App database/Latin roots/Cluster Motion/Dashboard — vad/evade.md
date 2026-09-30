@@ -5,15 +5,6 @@ status: unread
 ---
 # evade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Escape, either physically or mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiates Was ne’er distributed."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It had not been necessary, and the few occasions of its being possible for her to go to the Hall she had contrived to evade and escape from."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I seem to have received, with full force, the blow I had been trying to evade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Escape, either physically or mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiates Was ne’er distributed."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It had not been necessary, and the few occasions of its being possible for her to go to the Hall she had contrived to evade and escape from."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I seem to have received, with full force, the blow I had been trying to evade."*

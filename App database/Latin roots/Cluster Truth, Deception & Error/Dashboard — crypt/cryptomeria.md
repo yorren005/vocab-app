@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptomeria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Japanese cedar; sugi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Japanese cedar; sugi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptomeria designates japanese cedar; sugi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Japanese cedar; sugi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Japanese cedar; sugi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptomeria designates japanese cedar; sugi."*

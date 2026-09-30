@@ -5,13 +5,6 @@ status: unread
 ---
 # succade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit cooked in sugar syrup and encrusted with a sugar crystals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit cooked in sugar syrup and encrusted with a sugar crystals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succade designates fruit cooked in sugar syrup and encrusted with a sugar crystals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit cooked in sugar syrup and encrusted with a sugar crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit cooked in sugar syrup and encrusted with a sugar crystals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succade designates fruit cooked in sugar syrup and encrusted with a sugar crystals."*

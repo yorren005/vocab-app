@@ -5,13 +5,6 @@ status: unread
 ---
 # indicant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves to indicate or suggest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indicant designates something that serves to indicate or suggest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves to indicate or suggest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indicant designates something that serves to indicate or suggest."*

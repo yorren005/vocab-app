@@ -5,14 +5,6 @@ status: unread
 ---
 # deglutition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of swallowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of swallowing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Feeling without judgment is a washy draught indeed; but judgment untempered by feeling is too bitter and husky a morsel for human deglutition."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The actual process of deglutition is variously enacted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of swallowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of swallowing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Feeling without judgment is a washy draught indeed; but judgment untempered by feeling is too bitter and husky a morsel for human deglutition."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The actual process of deglutition is variously enacted."*

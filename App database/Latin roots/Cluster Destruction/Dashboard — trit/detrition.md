@@ -5,13 +5,6 @@ status: unread
 ---
 # detrition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wearing down of rock particles by friction due to water or wind or ice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detrition designates erosion by friction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wearing down of rock particles by friction due to water or wind or ice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detrition designates erosion by friction."*

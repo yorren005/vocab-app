@@ -5,15 +5,6 @@ status: unread
 ---
 # picturesque
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting or suitable for a picture; pretty as a picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strikingly expressive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Who would make the vulgar very picturesque and faithful by putting back the hands upon the clock of time and cancelling a few hundred years of history."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was a picturesque old house in a fine park richly wooded."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting or suitable for a picture; pretty as a picture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strikingly expressive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Who would make the vulgar very picturesque and faithful by putting back the hands upon the clock of time and cancelling a few hundred years of history."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was a picturesque old house in a fine park richly wooded."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*

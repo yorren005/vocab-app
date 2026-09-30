@@ -5,14 +5,6 @@ status: unread
 ---
 # scentless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the sense of smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting or holding no odor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Roses were abundant, white and scentless, or small, pink, and spicy, and the ground was carpeted with yellow and blue flowers."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"A china bowl stood beside them, with some shrivelled, scentless rose-leaves in the bottom of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the sense of smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting or holding no odor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Roses were abundant, white and scentless, or small, pink, and spicy, and the ground was carpeted with yellow and blue flowers."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"A china bowl stood beside them, with some shrivelled, scentless rose-leaves in the bottom of it."*

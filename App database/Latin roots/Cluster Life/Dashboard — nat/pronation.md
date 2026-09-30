@@ -5,13 +5,6 @@ status: unread
 ---
 # pronation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotation of the hands and forearms so that the palms face downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotation of the hands and forearms so that the palms face downward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronation designates rotation of the hands and forearms so that the palms face downward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotation of the hands and forearms so that the palms face downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotation of the hands and forearms so that the palms face downward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronation designates rotation of the hands and forearms so that the palms face downward."*

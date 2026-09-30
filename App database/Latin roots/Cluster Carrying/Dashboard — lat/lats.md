@@ -5,13 +5,6 @@ status: unread
 ---
 # lats
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in latvia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad flat muscle on either side of the back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lats designates the basic unit of money in latvia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in latvia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad flat muscle on either side of the back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lats designates the basic unit of money in latvia."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # assignation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret rendezvous (especially between lovers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing by allotting or apportioning; distribution according to a plan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That watch has regulated imperial interests in its time—the stately ceremonial, the courtly assignation, pompous travels, and lordly sleeps."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This scene will be again polluted by a midnight assignation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This is the midnight assignation to which he alluded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret rendezvous (especially between lovers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing by allotting or apportioning; distribution according to a plan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That watch has regulated imperial interests in its time—the stately ceremonial, the courtly assignation, pompous travels, and lordly sleeps."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This scene will be again polluted by a midnight assignation."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This is the midnight assignation to which he alluded."*

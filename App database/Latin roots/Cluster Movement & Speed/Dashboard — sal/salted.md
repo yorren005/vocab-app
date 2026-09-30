@@ -5,15 +5,6 @@ status: unread
 ---
 # salted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add salt to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sprinkle as if with salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After any heavy gale, the flying spray salted my saved rainwater, so that at times I was grievously put to live through till fresh rains fell unaccompanied by high winds."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He was naturally a chatterbox and brimful of a Parisian's salted malice, even after six years in the service of Captain Hyde, who did not encourage his attendants to be communicative."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add salt to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sprinkle as if with salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After any heavy gale, the flying spray salted my saved rainwater, so that at times I was grievously put to live through till fresh rains fell unaccompanied by high winds."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He was naturally a chatterbox and brimful of a Parisian's salted malice, even after six years in the service of Captain Hyde, who did not encourage his attendants to be communicative."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*

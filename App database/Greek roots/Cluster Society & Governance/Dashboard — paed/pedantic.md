@@ -5,15 +5,6 @@ status: unread
 ---
 # pedantic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a pedant (as in being overly concerned with minor details).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrowly, stodgily, and often ostentatiously scholarly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mary had neither genius nor taste; and though vanity had given her application, it had given her likewise a pedantic air and conceited manner, which would have injured a higher degree of excellence than she had reached."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was as I thought: he cared much less for her portrait than his own.” “He’s a cursed white-blooded pedantic coxcomb,” said Will, with gnashing impetuosity."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Well, Douglas, then here's to our meeting again And meanwhile, old man, don't forget the pedantic And long-winded fellow across the Atlantic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a pedant (as in being overly concerned with minor details).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrowly, stodgily, and often ostentatiously scholarly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mary had neither genius nor taste; and though vanity had given her application, it had given her likewise a pedantic air and conceited manner, which would have injured a higher degree of excellence than she had reached."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was as I thought: he cared much less for her portrait than his own.” “He’s a cursed white-blooded pedantic coxcomb,” said Will, with gnashing impetuosity."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Well, Douglas, then here's to our meeting again And meanwhile, old man, don't forget the pedantic And long-winded fellow across the Atlantic."*

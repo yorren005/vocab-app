@@ -5,15 +5,6 @@ status: unread
 ---
 # querulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually complaining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually complaining.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no—O no!” “A strange old piece, ye say!” interposed the maltster, in a querulous voice."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When I started to crawl along the packed gear with which the wagon was laden my mother said in a tired and querulous voice, “Can’t you ever be still a minute, Jesse?” That was my name, Jesse."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While we were waiting we could hear the girls talking to the chief in a querulous way as if objecting to something or expressing their fears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually complaining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually complaining.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no—O no!” “A strange old piece, ye say!” interposed the maltster, in a querulous voice."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When I started to crawl along the packed gear with which the wagon was laden my mother said in a tired and querulous voice, “Can’t you ever be still a minute, Jesse?” That was my name, Jesse."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While we were waiting we could hear the girls talking to the chief in a querulous way as if objecting to something or expressing their fears."*

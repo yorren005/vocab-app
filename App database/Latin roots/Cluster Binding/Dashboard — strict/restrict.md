@@ -5,15 +5,6 @@ status: unread
 ---
 # restrict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The attempts of two of the States to restrict the authority of the legislature in the article of military establishments, are of the number of these instances."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Most elderly reject the diminution of their abilities and interests, although as they age into the seventh and eighth decades they may be compelled to restrict their direct involvement somewhat."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Now let us see how far the general powers arrayed against us are restrict, and how the individual cannot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The attempts of two of the States to restrict the authority of the legislature in the article of military establishments, are of the number of these instances."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Most elderly reject the diminution of their abilities and interests, although as they age into the seventh and eighth decades they may be compelled to restrict their direct involvement somewhat."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Now let us see how far the general powers arrayed against us are restrict, and how the individual cannot."*

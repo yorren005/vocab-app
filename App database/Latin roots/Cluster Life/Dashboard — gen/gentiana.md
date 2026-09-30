@@ -5,13 +5,6 @@ status: unread
 ---
 # gentiana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the gentianaceae; cosmopolitan genus of herbs nearly cosmopolitan in cool temperate regions; in some classifications includes genera gentianopsis and gentianella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the gentianaceae; cosmopolitan genus of herbs nearly cosmopolitan in cool temperate regions; in some classifications includes genera gentianopsis and gentianella.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentiana designates type genus of the gentianaceae; cosmopolitan genus of herbs nearly cosmopolitan in cool temperate regions; in some classifications includes genera gentianopsis and gentianella."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the gentianaceae; cosmopolitan genus of herbs nearly cosmopolitan in cool temperate regions; in some classifications includes genera gentianopsis and gentianella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the gentianaceae; cosmopolitan genus of herbs nearly cosmopolitan in cool temperate regions; in some classifications includes genera gentianopsis and gentianella.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentiana designates type genus of the gentianaceae; cosmopolitan genus of herbs nearly cosmopolitan in cool temperate regions; in some classifications includes genera gentianopsis and gentianella."*

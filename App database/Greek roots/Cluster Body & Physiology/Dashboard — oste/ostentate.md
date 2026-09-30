@@ -5,13 +5,6 @@ status: unread
 ---
 # ostentate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Display proudly; act ostentatiously or pretentiously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Display proudly; act ostentatiously or pretentiously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostentate designates display proudly; act ostentatiously or pretentiously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Display proudly; act ostentatiously or pretentiously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Display proudly; act ostentatiously or pretentiously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostentate designates display proudly; act ostentatiously or pretentiously."*

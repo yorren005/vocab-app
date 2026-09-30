@@ -5,14 +5,6 @@ status: unread
 ---
 # felicitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) an expression of pleasure at the success or good fortune of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of acknowledging that someone has an occasion for celebration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, in his domestic character of Bluffy, to take leave of Quebec and Malta and insinuate a sponsorial shilling into the pocket of his godson with felicitations on his success in life, it is dark when Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Métivier, who came in the morning with his felicitations, considered it proper in his quality of doctor de forcer la consigne, * as he told Princess Mary, and went in to see the prince."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) an expression of pleasure at the success or good fortune of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of acknowledging that someone has an occasion for celebration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, in his domestic character of Bluffy, to take leave of Quebec and Malta and insinuate a sponsorial shilling into the pocket of his godson with felicitations on his success in life, it is dark when Mr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Métivier, who came in the morning with his felicitations, considered it proper in his quality of doctor de forcer la consigne, * as he told Princess Mary, and went in to see the prince."*

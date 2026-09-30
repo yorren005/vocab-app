@@ -5,15 +5,6 @@ status: unread
 ---
 # cooperate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work together on a common enterprise of project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work together on a common enterprise of project.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Everything seemed to cooperate for her advantage."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We tell all new inmates, as I'm now telling you: cooperate, and you'll find your stay tolerable, resist, and take the consequences." A stern, hard stare, a shrug and his features relaxed."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unknowns were under a heavy screen and wouldn't cooperate with the Space Guard's self-identification requirements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work together on a common enterprise of project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work together on a common enterprise of project.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Everything seemed to cooperate for her advantage."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We tell all new inmates, as I'm now telling you: cooperate, and you'll find your stay tolerable, resist, and take the consequences." A stern, hard stare, a shrug and his features relaxed."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unknowns were under a heavy screen and wouldn't cooperate with the Space Guard's self-identification requirements."*

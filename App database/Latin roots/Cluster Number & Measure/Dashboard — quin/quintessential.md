@@ -5,14 +5,6 @@ status: unread
 ---
 # quintessential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing the perfect example of a class or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing the perfect example of a class or quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In quintessential triviality For years in this fleshcase a shesoul dwelt. —They say we are to have a literary surprise, the quaker librarian said, friendly and earnest."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"The belief in vampires is the quintessential concentration and embodiment of all the passion of fear in Hungary and the adjacent regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing the perfect example of a class or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing the perfect example of a class or quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In quintessential triviality For years in this fleshcase a shesoul dwelt. —They say we are to have a literary surprise, the quaker librarian said, friendly and earnest."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"The belief in vampires is the quintessential concentration and embodiment of all the passion of fear in Hungary and the adjacent regions."*

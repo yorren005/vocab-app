@@ -5,13 +5,6 @@ status: unread
 ---
 # entrepot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port where merchandise can be imported and then exported without paying import duties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrepot designates a port where merchandise can be imported and then exported without paying import duties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port where merchandise can be imported and then exported without paying import duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrepot designates a port where merchandise can be imported and then exported without paying import duties."*

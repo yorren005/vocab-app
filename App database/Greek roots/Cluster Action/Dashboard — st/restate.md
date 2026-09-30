@@ -5,15 +5,6 @@ status: unread
 ---
 # restate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler and Curtis, and in the arguments which came up upon points of testimony, that there remained little for the other counsel except to restate what had before been said."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A number of the ideas are well restated in more simple terms by E."*
-> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler and Curtis, and in the arguments which came up upon points of testimony, that there remained little for the other counsel except to restate what had before been said."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A number of the ideas are well restated in more simple terms by E."*
+> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*

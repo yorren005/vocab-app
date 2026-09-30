@@ -5,15 +5,6 @@ status: unread
 ---
 # archaeologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies prehistoric people and their culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies prehistoric people and their culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But there is a rival archaeologist who would ask nothing better than to get ahead of me in this matter."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It would be a great thing for a young archaeologist like Beecher to accomplish a mission of this sort, and beat Professor Bumper in the race." "Do you think that's why Beecher decided to go on the same steamer we are to take?" asked Ned."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It will do us good." "And perhaps I can get some specimens of interest," added Professor Bumper, who, in addition to being an archaeologist, was something of a naturalist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies prehistoric people and their culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies prehistoric people and their culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But there is a rival archaeologist who would ask nothing better than to get ahead of me in this matter."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It would be a great thing for a young archaeologist like Beecher to accomplish a mission of this sort, and beat Professor Bumper in the race." "Do you think that's why Beecher decided to go on the same steamer we are to take?" asked Ned."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It will do us good." "And perhaps I can get some specimens of interest," added Professor Bumper, who, in addition to being an archaeologist, was something of a naturalist."*

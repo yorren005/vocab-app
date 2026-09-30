@@ -5,15 +5,6 @@ status: unread
 ---
 # pretense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving a false appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending with intention to deceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An over-scrupulous jealousy of danger to the rights of the people, which is more commonly the fault of the head than of the heart, will be represented as mere pretense and artifice, the stale bait for popularity at the expense of the public good."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The pretense of the latter would always be at hand."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Where the whole power of the government is in the hands of the people, there is the less pretense for the use of violent remedies in partial or occasional distempers of the State."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving a false appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending with intention to deceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An over-scrupulous jealousy of danger to the rights of the people, which is more commonly the fault of the head than of the heart, will be represented as mere pretense and artifice, the stale bait for popularity at the expense of the public good."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The pretense of the latter would always be at hand."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Where the whole power of the government is in the hands of the people, there is the less pretense for the use of violent remedies in partial or occasional distempers of the State."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark that calls attention to something or someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short note recognizing a source of information or of a quoted passage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray sit down, then, and let me entreat you, By all the honesty and honour in you, No mention of this woman; ’twill disturb us."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The child might have heard you mention Spain yourself so that it roused her imagination."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At the mention of Aunt Maxa she suddenly remembered that they had not told her where they were going."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark that calls attention to something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short note recognizing a source of information or of a quoted passage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray sit down, then, and let me entreat you, By all the honesty and honour in you, No mention of this woman; ’twill disturb us."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The child might have heard you mention Spain yourself so that it roused her imagination."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At the mention of Aunt Maxa she suddenly remembered that they had not told her where they were going."*

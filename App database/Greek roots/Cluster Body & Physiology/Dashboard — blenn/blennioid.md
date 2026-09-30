@@ -5,13 +5,6 @@ status: unread
 ---
 # blennioid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennioid designates elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennioid designates elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins."*

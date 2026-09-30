@@ -5,15 +5,6 @@ status: unread
 ---
 # dissolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation into component parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of going into solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None, but that there is so great a fever on goodness that the dissolution of it must cure it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think of that, a man of my kidney, think of that—that am as subject to heat as butter; a man of continual dissolution and thaw."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reproach and dissolution hangeth over him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation into component parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of going into solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None, but that there is so great a fever on goodness that the dissolution of it must cure it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think of that, a man of my kidney, think of that—that am as subject to heat as butter; a man of continual dissolution and thaw."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reproach and dissolution hangeth over him."*

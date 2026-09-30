@@ -5,15 +5,6 @@ status: unread
 ---
 # misapprehension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An understanding of something that is not correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It had originated in misapprehension entirely."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He might be jealous of her brother as a rival, but if more had seemed implied, the fault must have been in her misapprehension."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Here is some great misapprehension which must be rectified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An understanding of something that is not correct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It had originated in misapprehension entirely."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"He might be jealous of her brother as a rival, but if more had seemed implied, the fault must have been in her misapprehension."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Here is some great misapprehension which must be rectified."*

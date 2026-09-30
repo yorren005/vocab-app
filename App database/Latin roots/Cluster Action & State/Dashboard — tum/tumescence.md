@@ -5,13 +5,6 @@ status: unread
 ---
 # tumescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tumidity resulting from the presence of blood or other fluid in the tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tumidity resulting from the presence of blood or other fluid in the tissues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To Bloom: the problems of irritability, tumescence, rigidity, reactivity, dimension, sanitariness, pilosity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tumidity resulting from the presence of blood or other fluid in the tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tumidity resulting from the presence of blood or other fluid in the tissues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"To Bloom: the problems of irritability, tumescence, rigidity, reactivity, dimension, sanitariness, pilosity."*

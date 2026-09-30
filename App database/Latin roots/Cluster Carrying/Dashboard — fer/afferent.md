@@ -5,13 +5,6 @@ status: unread
 ---
 # afferent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve that passes impulses from receptors toward or to the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying sensory information from the sense organs to the cns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, afferent designates a nerve that passes impulses from receptors toward or to the central nervous system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve that passes impulses from receptors toward or to the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying sensory information from the sense organs to the cns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, afferent designates a nerve that passes impulses from receptors toward or to the central nervous system."*

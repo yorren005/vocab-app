@@ -5,14 +5,6 @@ status: unread
 ---
 # fundamentalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of fundamentalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or tending toward fundamentalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Like the Fundamentalist in the West he refuses to have his faith shaken in the letter of the Law."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The “Northern” School may dub it Hinayana, if they wish; it prefers to stand by the documents, and to be fundamentalist with its Master, Śakyamuni, than universalist dependent on pious fiction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of fundamentalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or tending toward fundamentalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Like the Fundamentalist in the West he refuses to have his faith shaken in the letter of the Law."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The “Northern” School may dub it Hinayana, if they wish; it prefers to stand by the documents, and to be fundamentalist with its Master, Śakyamuni, than universalist dependent on pious fiction."*

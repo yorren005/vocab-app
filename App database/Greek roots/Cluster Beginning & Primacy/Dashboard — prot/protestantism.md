@@ -5,15 +5,6 @@ status: unread
 ---
 # protestantism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thou art in a parlous state, Angel Clare.” “_I_ glory in my Protestantism!” she said severely."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This devotion Spenser’s great poem everywhere reflects, and it has been justly pronounced to be the best exponent of the subtleties of that Calvinism which was the aristocratic form of Protestantism at that time in both France and England."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The training of the province does not develop a bias towards Protestantism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thou art in a parlous state, Angel Clare.” “_I_ glory in my Protestantism!” she said severely."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This devotion Spenser’s great poem everywhere reflects, and it has been justly pronounced to be the best exponent of the subtleties of that Calvinism which was the aristocratic form of Protestantism at that time in both France and England."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The training of the province does not develop a bias towards Protestantism."*

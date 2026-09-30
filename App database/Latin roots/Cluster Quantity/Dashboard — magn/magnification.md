@@ -5,15 +5,6 @@ status: unread
 ---
 # magnification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expanding something in apparent size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the size of an image to the size of the object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by a Portuguese Catholic priest, this very idea of Jonah’s going to Nineveh via the Cape of Good Hope was advanced as a signal magnification of the general miracle."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adjusted magnification defined the vehicles as personnel carriers, flatbed trailers, dome fissure-fusers, and methane frost scrapers."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad, at the controls, increased viewer magnification and inspected the ship closely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expanding something in apparent size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the size of an image to the size of the object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by a Portuguese Catholic priest, this very idea of Jonah’s going to Nineveh via the Cape of Good Hope was advanced as a signal magnification of the general miracle."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adjusted magnification defined the vehicles as personnel carriers, flatbed trailers, dome fissure-fusers, and methane frost scrapers."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad, at the controls, increased viewer magnification and inspected the ship closely."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # negotiator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who negotiates (confers with others in order to reach a settlement).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who negotiates (confers with others in order to reach a settlement).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was accordingly the process adopted in the case of France in 1798.] [It has been the usage for the Executive, when it communicates a treaty to the Senate for their ratification, to communicate also the correspondence of the negotiators."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who negotiates (confers with others in order to reach a settlement).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who negotiates (confers with others in order to reach a settlement).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was accordingly the process adopted in the case of France in 1798.] [It has been the usage for the Executive, when it communicates a treaty to the Senate for their ratification, to communicate also the correspondence of the negotiators."*

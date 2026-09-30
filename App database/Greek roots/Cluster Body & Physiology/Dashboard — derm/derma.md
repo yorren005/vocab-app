@@ -5,13 +5,6 @@ status: unread
 ---
 # derma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skin or skin ailment of a (specified) type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skin or skin ailment of a (specified) type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derma designates skin or skin ailment of a (specified) type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Skin or skin ailment of a (specified) type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skin or skin ailment of a (specified) type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derma designates skin or skin ailment of a (specified) type."*

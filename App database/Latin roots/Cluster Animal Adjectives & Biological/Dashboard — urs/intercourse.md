@@ -5,15 +5,6 @@ status: unread
 ---
 # intercourse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication between individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she had brought a sick child with her, she could have no intercourse with the children for two or three days."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper in consequence for an unpleasantness originating in young Perkins’ having “fetched” young Piper “a crack,” renews her friendly intercourse on this auspicious occasion."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It laid the injunction on me that I should never propose to see the writer, who had long been estranged from all intercourse with the world, but who would see a confidential agent if I would appoint one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication between individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she had brought a sick child with her, she could have no intercourse with the children for two or three days."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Piper in consequence for an unpleasantness originating in young Perkins’ having “fetched” young Piper “a crack,” renews her friendly intercourse on this auspicious occasion."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It laid the injunction on me that I should never propose to see the writer, who had long been estranged from all intercourse with the world, but who would see a confidential agent if I would appoint one."*

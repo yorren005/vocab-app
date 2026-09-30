@@ -5,13 +5,6 @@ status: unread
 ---
 # emesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or instance of vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act or instance of vomiting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emesis designates an act or instance of vomiting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or instance of vomiting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act or instance of vomiting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emesis designates an act or instance of vomiting."*

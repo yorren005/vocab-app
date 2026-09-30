@@ -5,15 +5,6 @@ status: unread
 ---
 # structural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by structure, especially political or economic structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having or characterized by structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's more, ship's structural and power plant robies are down for maintenance half the time and spare parts are a mess."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The quiet mean to which we originally found him adhering, and in which, with few exceptions, he had continually moved, was that of neutralization: it was not structural at all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by structure, especially political or economic structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having or characterized by structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's more, ship's structural and power plant robies are down for maintenance half the time and spare parts are a mess."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The quiet mean to which we originally found him adhering, and in which, with few exceptions, he had continually moved, was that of neutralization: it was not structural at all."*

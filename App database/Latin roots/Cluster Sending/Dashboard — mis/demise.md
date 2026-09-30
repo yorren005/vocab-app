@@ -5,15 +5,6 @@ status: unread
 ---
 # demise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer by a lease or by a will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me what state, what dignity, what honour, Canst thou demise to any child of mine?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone’s demise_—bless my heart! ‘property’—accrue—demise!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"The felicitous word “demise,” which had seasonably occurred to him, had raised his spirits even above their usual evening pitch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer by a lease or by a will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me what state, what dignity, what honour, Canst thou demise to any child of mine?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone’s demise_—bless my heart! ‘property’—accrue—demise!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"The felicitous word “demise,” which had seasonably occurred to him, had raised his spirits even above their usual evening pitch."*

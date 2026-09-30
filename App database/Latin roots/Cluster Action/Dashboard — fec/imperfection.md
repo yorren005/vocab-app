@@ -5,15 +5,6 @@ status: unread
 ---
 # imperfection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or an instance of being imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or an instance of being imperfect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall discover a thing to you, wherein I must very much lay open mine own imperfection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now I have the boy, I will undo This hateful imperfection of her eyes."*
-> - 📜 **Jane Austen (*Persuasion*):** *"This, to Anne, was a decided imperfection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or an instance of being imperfect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or an instance of being imperfect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall discover a thing to you, wherein I must very much lay open mine own imperfection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now I have the boy, I will undo This hateful imperfection of her eyes."*
+> - 📜 **Jane Austen (*Persuasion*):** *"This, to Anne, was a decided imperfection."*

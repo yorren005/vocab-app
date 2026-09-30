@@ -5,15 +5,6 @@ status: unread
 ---
 # canopied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cover with a canopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with or as with a canopy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flame o’ th’ taper Bows toward her and would under-peep her lids To see th’ enclosed lights, now canopied Under these windows white and azure, lac’d With blue of heaven’s own tinct."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses, and with eglantine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away before me to sweet beds of flowers, Love-thoughts lie rich when canopied with bowers. [_Exeunt._] SCENE II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cover with a canopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with or as with a canopy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flame o’ th’ taper Bows toward her and would under-peep her lids To see th’ enclosed lights, now canopied Under these windows white and azure, lac’d With blue of heaven’s own tinct."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses, and with eglantine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away before me to sweet beds of flowers, Love-thoughts lie rich when canopied with bowers. [_Exeunt._] SCENE II."*

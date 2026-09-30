@@ -5,15 +5,6 @@ status: unread
 ---
 # indisputable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not open to question; obviously true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to doubt or dispute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I don’t know why it should be a crack thing to be a brewer; but it is indisputable that while you cannot possibly be genteel and bake, you may be as genteel as never was and brew."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Lulu's act seemed the very wantonness of cruelty,--a most cowardly attack of a big, strong girl upon a tiny, helpless creature, who had an indisputable claim upon her tenderest protecting care."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"For the history of this little abode of good fellowship I was referred to a tallow-chandler’s widow opposite, who had been born and brought up on the spot, and was looked up to as the indisputable chronicler of the neighborhood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not open to question; obviously true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to doubt or dispute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I don’t know why it should be a crack thing to be a brewer; but it is indisputable that while you cannot possibly be genteel and bake, you may be as genteel as never was and brew."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Lulu's act seemed the very wantonness of cruelty,--a most cowardly attack of a big, strong girl upon a tiny, helpless creature, who had an indisputable claim upon her tenderest protecting care."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"For the history of this little abode of good fellowship I was referred to a tallow-chandler’s widow opposite, who had been born and brought up on the spot, and was looked up to as the indisputable chronicler of the neighborhood."*

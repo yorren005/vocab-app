@@ -5,15 +5,6 @@ status: unread
 ---
 # manufacturing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something (a product) from raw materials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"THE LORD WOKE ME UP IN TIME TO SAVE MY CLOTHES." In the very top of a four-story building, used only for various manufacturing purposes, lived an old man and daughter."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A man employed to attend to my little manufacturing business as manager, by imprudent management, deprived me of every earthly dependence for a support."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Manufacturing equipment 2,541 3,298 6,069 5."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something (a product) from raw materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"THE LORD WOKE ME UP IN TIME TO SAVE MY CLOTHES." In the very top of a four-story building, used only for various manufacturing purposes, lived an old man and daughter."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A man employed to attend to my little manufacturing business as manager, by imprudent management, deprived me of every earthly dependence for a support."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Manufacturing equipment 2,541 3,298 6,069 5."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypertonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of exhibiting excessive muscular tone or tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of exhibiting excessive muscular tone or tension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonia designates the condition of exhibiting excessive muscular tone or tension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of exhibiting excessive muscular tone or tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of exhibiting excessive muscular tone or tension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonia designates the condition of exhibiting excessive muscular tone or tension."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # topless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the breasts uncovered or featuring such nudity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topless designates having no top."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no top.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the breasts uncovered or featuring such nudity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topless designates having no top."*

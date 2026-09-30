@@ -5,14 +5,6 @@ status: unread
 ---
 # undrinkable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsuitable for drinking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsuitable for drinking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Masai believe that were the couple to commit a breach of chastity, not only would the wine be undrinkable but the bees which made the honey would fly away."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Methylated spirit only differs from the alcohol in alcoholic beverages in that something is added to make it undrinkable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsuitable for drinking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsuitable for drinking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Masai believe that were the couple to commit a breach of chastity, not only would the wine be undrinkable but the bees which made the honey would fly away."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Methylated spirit only differs from the alcohol in alcoholic beverages in that something is added to make it undrinkable."*

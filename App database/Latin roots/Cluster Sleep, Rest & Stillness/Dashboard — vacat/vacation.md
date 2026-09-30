@@ -5,15 +5,6 @@ status: unread
 ---
 # vacation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leisure time away from work devoted to rest or pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something legally void.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With lawyers in the vacation; for they sleep between term and term, and then they perceive not how time moves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I pass the greater part of the long vacation here."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You find the long vacation exceedingly long, don’t you?” We said yes, as she seemed to expect us to say so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leisure time away from work devoted to rest or pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something legally void.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With lawyers in the vacation; for they sleep between term and term, and then they perceive not how time moves."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I pass the greater part of the long vacation here."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You find the long vacation exceedingly long, don’t you?” We said yes, as she seemed to expect us to say so."*

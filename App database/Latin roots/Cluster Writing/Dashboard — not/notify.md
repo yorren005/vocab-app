@@ -5,15 +5,6 @@ status: unread
 ---
 # notify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inform (somebody) of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, she hath received your letter, for the which she thanks you a thousand times; and she gives you to notify that her husband will be absence from his house between ten and eleven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is stirring, sir; if she will stir hither, I shall seem to notify unto her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she wrote anew to her mother, ostensibly to notify the wedding-day; really to again implore her advice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inform (somebody) of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, she hath received your letter, for the which she thanks you a thousand times; and she gives you to notify that her husband will be absence from his house between ten and eleven."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is stirring, sir; if she will stir hither, I shall seem to notify unto her."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she wrote anew to her mother, ostensibly to notify the wedding-day; really to again implore her advice."*

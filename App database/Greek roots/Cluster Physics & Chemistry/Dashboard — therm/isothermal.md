@@ -5,14 +5,6 @@ status: unread
 ---
 # isothermal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a process or change taking place at constant temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a process or change taking place at constant temperature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This rate applied to utilities traces through each good a line analagous to the isothermal line on the map, marking off a zone of utilities for the present and other zones for each period of the future."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Has the isothermal line any relation to the number of millionaires? 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a process or change taking place at constant temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a process or change taking place at constant temperature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This rate applied to utilities traces through each good a line analagous to the isothermal line on the map, marking off a zone of utilities for the present and other zones for each period of the future."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Has the isothermal line any relation to the number of millionaires? 4."*

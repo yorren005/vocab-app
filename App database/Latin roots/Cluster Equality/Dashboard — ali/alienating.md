@@ -5,13 +5,6 @@ status: unread
 ---
 # alienating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That is what you have gained by alienating me!” And he walked silently several times up and down the room, his fat shoulders twitching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That is what you have gained by alienating me!” And he walked silently several times up and down the room, his fat shoulders twitching."*

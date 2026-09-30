@@ -5,13 +5,6 @@ status: unread
 ---
 # invagination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being folded inward or sheathed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding in of an outer layer so as to form a pocket in the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invagination designates the condition of being folded inward or sheathed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being folded inward or sheathed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding in of an outer layer so as to form a pocket in the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invagination designates the condition of being folded inward or sheathed."*

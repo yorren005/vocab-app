@@ -5,13 +5,6 @@ status: unread
 ---
 # anisogamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamy designates characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamy designates characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size."*

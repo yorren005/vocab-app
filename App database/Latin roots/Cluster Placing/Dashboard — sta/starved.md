@@ -5,15 +5,6 @@ status: unread
 ---
 # starved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Die of food deprivation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The turkeys in my pannier are quite starved.—What, ostler!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This same starved justice hath done nothing but prate to me of the wildness of his youth, and the feats he hath done about Turnbull Street, and every third word a lie, duer paid to the hearer than the Turk’s tribute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, come, you starved bloodhound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Die of food deprivation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The turkeys in my pannier are quite starved.—What, ostler!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This same starved justice hath done nothing but prate to me of the wildness of his youth, and the feats he hath done about Turnbull Street, and every third word a lie, duer paid to the hearer than the Turk’s tribute."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, come, you starved bloodhound."*

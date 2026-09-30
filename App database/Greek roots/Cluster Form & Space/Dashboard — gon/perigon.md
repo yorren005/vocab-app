@@ -5,13 +5,6 @@ status: unread
 ---
 # perigon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angle of 360 degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angle of 360 degrees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perigon designates an angle of 360 degrees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angle of 360 degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angle of 360 degrees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perigon designates an angle of 360 degrees."*

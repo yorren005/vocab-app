@@ -5,13 +5,6 @@ status: unread
 ---
 # bioattack
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of bacteria or viruses or toxins to destroy men and animals or food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of bacteria or viruses or toxins to destroy men and animals or food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioattack designates the use of bacteria or viruses or toxins to destroy men and animals or food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of bacteria or viruses or toxins to destroy men and animals or food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of bacteria or viruses or toxins to destroy men and animals or food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioattack designates the use of bacteria or viruses or toxins to destroy men and animals or food."*

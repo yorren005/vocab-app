@@ -5,14 +5,6 @@ status: unread
 ---
 # typist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone paid to operate a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone paid to operate a typewriter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Wanted, smart lady typist to aid gentleman in literary work."*
-> - 📜 **James Joyce (*Ulysses*):** *"Typist going up Roger Greene’s stairs two at a time to show her understandings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone paid to operate a typewriter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone paid to operate a typewriter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Wanted, smart lady typist to aid gentleman in literary work."*
+> - 📜 **James Joyce (*Ulysses*):** *"Typist going up Roger Greene’s stairs two at a time to show her understandings."*

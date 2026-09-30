@@ -5,15 +5,6 @@ status: unread
 ---
 # imperishable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perishable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unceasing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the imperishable spirit did not cease."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, later and earlier, there were other lives in which I sang with the priests and bards the taboo-songs of the stars wherein we believed was written our imperishable record."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Behind them is an imperishable record, brief yet illustrious, of feats performed over the entire range of the Western Hemisphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perishable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unceasing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the imperishable spirit did not cease."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, later and earlier, there were other lives in which I sang with the priests and bards the taboo-songs of the stars wherein we believed was written our imperishable record."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Behind them is an imperishable record, brief yet illustrious, of feats performed over the entire range of the Western Hemisphere."*

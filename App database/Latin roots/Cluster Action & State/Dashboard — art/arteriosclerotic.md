@@ -5,13 +5,6 @@ status: unread
 ---
 # arteriosclerotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by arteriosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by arteriosclerosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriosclerotic designates affected by arteriosclerosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by arteriosclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by arteriosclerosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriosclerotic designates affected by arteriosclerosis."*

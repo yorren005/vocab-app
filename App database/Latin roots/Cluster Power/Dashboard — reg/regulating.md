@@ -5,15 +5,6 @@ status: unread
 ---
 # regulating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of controlling or directing according to rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or adjust the time, amount, degree, or rate of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Regulating my purchases by my guardian’s taste, which I knew very well of course, I arranged my wardrobe to please him and hoped I should be highly successful."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Legislation to remedy these evils began in England a century ago, and the English code of factory laws, regulating the construction and operation of factories and providing for their inspection, has become voluminous."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By regulating and equalizing the output in the different localities, it can run more nearly full time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of controlling or directing according to rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or adjust the time, amount, degree, or rate of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Regulating my purchases by my guardian’s taste, which I knew very well of course, I arranged my wardrobe to please him and hoped I should be highly successful."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Legislation to remedy these evils began in England a century ago, and the English code of factory laws, regulating the construction and operation of factories and providing for their inspection, has become voluminous."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By regulating and equalizing the output in the different localities, it can run more nearly full time."*

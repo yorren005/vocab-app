@@ -5,15 +5,6 @@ status: unread
 ---
 # confines
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bounded scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place limits on (extent or access).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet it irks me the poor dappled fools, Being native burghers of this desert city, Should in their own confines with forked heads Have their round haunches gored."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly one; in which there are many confines, wards, and dungeons, Denmark being one o’ th’ worst."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, neighbour confines, purge you of your scum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bounded scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place limits on (extent or access).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet it irks me the poor dappled fools, Being native burghers of this desert city, Should in their own confines with forked heads Have their round haunches gored."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly one; in which there are many confines, wards, and dungeons, Denmark being one o’ th’ worst."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, neighbour confines, purge you of your scum."*

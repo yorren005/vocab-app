@@ -5,15 +5,6 @@ status: unread
 ---
 # jubilee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special anniversary; especially : a 50th anniversary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebration of such an anniversary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A beggar-woman and her little boy—pale, ragged objects both—were coming up the walk, and I ran down and gave them all the money I happened to have in my purse—some three or four shillings: good or bad, they must partake of my jubilee."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Some of the symptoms reminded me of the stir produced among the scullions of a large hotel, where a grand jubilee dinner is about to be given."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The vital needs of the most holy House of Worship reared in the service and for the glory of the Most Great Name, though virtually met, still require the last exertions to ensure its completion as the hour of its Jubilee approaches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A special anniversary; especially : a 50th anniversary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebration of such an anniversary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A beggar-woman and her little boy—pale, ragged objects both—were coming up the walk, and I ran down and gave them all the money I happened to have in my purse—some three or four shillings: good or bad, they must partake of my jubilee."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Some of the symptoms reminded me of the stir produced among the scullions of a large hotel, where a grand jubilee dinner is about to be given."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The vital needs of the most holy House of Worship reared in the service and for the glory of the Most Great Name, though virtually met, still require the last exertions to ensure its completion as the hour of its Jubilee approaches."*

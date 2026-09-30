@@ -5,13 +5,6 @@ status: unread
 ---
 # standardisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition in which a standard has been successfully established.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of standards or regulations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Later work, some already published, some still in progress, should eventually allow of more general standardisation than is at present possible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition in which a standard has been successfully established.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of standards or regulations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Later work, some already published, some still in progress, should eventually allow of more general standardisation than is at present possible."*

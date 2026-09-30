@@ -5,14 +5,6 @@ status: unread
 ---
 # infusoria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some recent classifications, coextensive with the ciliata: minute organisms found in decomposing infusions of organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some recent classifications, coextensive with the ciliata: minute organisms found in decomposing infusions of organic matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In reality, it was an infinite agglomeration of coloured infusoria, of veritable globules of jelly, provided with a threadlike tentacle, and of which as many as twenty-five thousand have been counted in less than two cubic half-inches of water."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, my boy; and you need not try to compute the number of these infusoria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some recent classifications, coextensive with the ciliata: minute organisms found in decomposing infusions of organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some recent classifications, coextensive with the ciliata: minute organisms found in decomposing infusions of organic matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In reality, it was an infinite agglomeration of coloured infusoria, of veritable globules of jelly, provided with a threadlike tentacle, and of which as many as twenty-five thousand have been counted in less than two cubic half-inches of water."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, my boy; and you need not try to compute the number of these infusoria."*

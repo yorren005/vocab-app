@@ -5,15 +5,6 @@ status: unread
 ---
 # incoherence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of cohesion or clarity or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsense that is simply incoherent and unintelligible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then I shall release my birds, you know, and confer estates.” I was much impressed by her allusion to Richard and by the sad meaning, so sadly illustrated in her poor pinched form, that made its way through all her incoherence."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Abel, “and to take something more strengthening than what you’ve done.” Bulstrode went away now without anxiety as to what Raffles might say in his raving, which had taken on a muttering incoherence not likely to create any dangerous belief."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued, and the Incoherence of the Objections to the New Plan Exposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of cohesion or clarity or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsense that is simply incoherent and unintelligible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then I shall release my birds, you know, and confer estates.” I was much impressed by her allusion to Richard and by the sad meaning, so sadly illustrated in her poor pinched form, that made its way through all her incoherence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Abel, “and to take something more strengthening than what you’ve done.” Bulstrode went away now without anxiety as to what Raffles might say in his raving, which had taken on a muttering incoherence not likely to create any dangerous belief."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued, and the Incoherence of the Objections to the New Plan Exposed."*

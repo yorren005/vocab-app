@@ -5,14 +5,6 @@ status: unread
 ---
 # supererogation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An effort above and beyond the call of duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An effort above and beyond the call of duty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Which was quite a work of supererogation--I think that is the word, but Elsie knows--considering that their own brother, Mad Jeremy, was on foot--and healthy, thank'ee kindly!"*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"While cause and effect remain in the ethical realm, factors of saving power and even of something resembling works of supererogation are introduced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An effort above and beyond the call of duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An effort above and beyond the call of duty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Which was quite a work of supererogation--I think that is the word, but Elsie knows--considering that their own brother, Mad Jeremy, was on foot--and healthy, thank'ee kindly!"*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"While cause and effect remain in the ethical realm, factors of saving power and even of something resembling works of supererogation are introduced."*

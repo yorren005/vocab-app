@@ -5,15 +5,6 @@ status: unread
 ---
 # distressfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, who has turned quite white and looks distressfully at the grey cloak and straw bonnet."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But he persisted in his demand, and at last, to get rid of him, she did put up her lips as directed for producing a clear note; laughing distressfully, however, and then blushing with vexation that she had laughed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother, seeing her small sister moving about the furniture-legs distressfully, “what is the matter?” “I have lost my tortoise-shell lozenge-box."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, who has turned quite white and looks distressfully at the grey cloak and straw bonnet."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But he persisted in his demand, and at last, to get rid of him, she did put up her lips as directed for producing a clear note; laughing distressfully, however, and then blushing with vexation that she had laughed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother, seeing her small sister moving about the furniture-legs distressfully, “what is the matter?” “I have lost my tortoise-shell lozenge-box."*

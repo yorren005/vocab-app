@@ -5,15 +5,6 @@ status: unread
 ---
 # privation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme poverty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of depriving someone of food or money or rights.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His father returned a negative, and then for the first time it occurred to Angel that her pride had stood in her way, and that she had suffered privation."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Remarkable proofs of genuine and vivid piety, triumphs of patience and grace, lifting their possessors above the most painful and distressing circumstances, are met with in all their explorations, and more than repay them for toil or privation."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"They saw him in privation, fatigued, exhausted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme poverty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of depriving someone of food or money or rights.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His father returned a negative, and then for the first time it occurred to Angel that her pride had stood in her way, and that she had suffered privation."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Remarkable proofs of genuine and vivid piety, triumphs of patience and grace, lifting their possessors above the most painful and distressing circumstances, are met with in all their explorations, and more than repay them for toil or privation."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"They saw him in privation, fatigued, exhausted."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perfumery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfumes in general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Store where perfumes are sold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides which, he quite scented the dining-room with bear’s-grease and other perfumery."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"They is a perfumery that goes with it at one quarter a bottle."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"As for shawls, kid gloves, silk stockings, gold French watches, bracelets and perfumery, he sent them in with the profusion of blind love and unbounded credit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfumes in general.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Store where perfumes are sold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Besides which, he quite scented the dining-room with bear’s-grease and other perfumery."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"They is a perfumery that goes with it at one quarter a bottle."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"As for shawls, kid gloves, silk stockings, gold French watches, bracelets and perfumery, he sent them in with the profusion of blind love and unbounded credit."*

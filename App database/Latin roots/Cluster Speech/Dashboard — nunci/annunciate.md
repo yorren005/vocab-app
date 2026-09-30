@@ -5,13 +5,6 @@ status: unread
 ---
 # annunciate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreshadow or presage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foreshadow or presage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annunciate designates foreshadow or presage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreshadow or presage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foreshadow or presage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annunciate designates foreshadow or presage."*

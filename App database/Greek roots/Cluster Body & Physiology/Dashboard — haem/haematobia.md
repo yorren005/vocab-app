@@ -5,13 +5,6 @@ status: unread
 ---
 # haematobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European genus of bloodsucking flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European genus of bloodsucking flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematobia designates european genus of bloodsucking flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: European genus of bloodsucking flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European genus of bloodsucking flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematobia designates european genus of bloodsucking flies."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # secretaryship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of secretary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of secretary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This order was not obeyed, and so the two claimants to the Secretaryship of War held their ground."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton in holding on to the secretaryship in opposition to the wish of the President, on the ground that “to desert it now would be to imitate the treachery of his accidental chief,” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of secretary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of secretary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This order was not obeyed, and so the two claimants to the Secretaryship of War held their ground."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton in holding on to the secretaryship in opposition to the wish of the President, on the ground that “to desert it now would be to imitate the treachery of his accidental chief,” Mr."*

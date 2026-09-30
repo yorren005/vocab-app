@@ -5,15 +5,6 @@ status: unread
 ---
 # order
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degree in a continuum of size or quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When midnight comes, knock at my chamber window; I’ll order take my mother shall not hear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this it is: our foot Upon the hills adjoining to the city Shall stay with us—order for sea is given; They have put forth the haven— Where their appointment we may best discover And look on their endeavour. [_Exeunt._] SCENE XI."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degree in a continuum of size or quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When midnight comes, knock at my chamber window; I’ll order take my mother shall not hear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this it is: our foot Upon the hills adjoining to the city Shall stay with us—order for sea is given; They have put forth the haven— Where their appointment we may best discover And look on their endeavour. [_Exeunt._] SCENE XI."*

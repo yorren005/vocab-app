@@ -5,13 +5,6 @@ status: unread
 ---
 # diaphoretic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to produce perspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing perspiration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"He mentioned many diaphoretic medicines in case the first failed, but the unmerciful questioner thus continued, Pray, sir, suppose none of those succeeded, what step would you take next?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to produce perspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing perspiration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"He mentioned many diaphoretic medicines in case the first failed, but the unmerciful questioner thus continued, Pray, sir, suppose none of those succeeded, what step would you take next?"*

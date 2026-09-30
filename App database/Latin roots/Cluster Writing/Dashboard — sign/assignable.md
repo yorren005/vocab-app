@@ -5,15 +5,6 @@ status: unread
 ---
 # assignable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally transferable to the ownership of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally transferable to the ownership of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed, he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He examined these phenomena afterwards, and decided in his own mind that they were assignable to fear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally transferable to the ownership of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally transferable to the ownership of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed, he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He examined these phenomena afterwards, and decided in his own mind that they were assignable to fear."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed he was the ideal embodiment of canine greatness—a generalization from what was common to all."*

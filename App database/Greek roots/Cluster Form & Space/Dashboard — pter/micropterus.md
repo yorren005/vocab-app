@@ -5,13 +5,6 @@ status: unread
 ---
 # micropterus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American freshwater black basses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American freshwater black basses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropterus designates american freshwater black basses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American freshwater black basses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American freshwater black basses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropterus designates american freshwater black basses."*

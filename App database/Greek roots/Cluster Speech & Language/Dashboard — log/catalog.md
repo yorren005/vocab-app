@@ -5,15 +5,6 @@ status: unread
 ---
 # catalog
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: List, register.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete enumeration of items arranged systematically with descriptive details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I p. 364.] [Footnote 7: In the first annual report of the United States Commissioner of Labor is given a long catalog of theories that have been suggested, many of them quite fantastic.] [Footnote 8: See Vol."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Her savings had amounted to quite a goodly sum and in the catalog of a mail-order house she had found something of which she wished to secure Margaret's opinion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: List, register.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete enumeration of items arranged systematically with descriptive details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I p. 364.] [Footnote 7: In the first annual report of the United States Commissioner of Labor is given a long catalog of theories that have been suggested, many of them quite fantastic.] [Footnote 8: See Vol."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Her savings had amounted to quite a goodly sum and in the catalog of a mail-order house she had found something of which she wished to secure Margaret's opinion."*

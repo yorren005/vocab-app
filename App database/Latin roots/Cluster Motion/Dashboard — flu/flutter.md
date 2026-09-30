@@ -5,15 +5,6 @@ status: unread
 ---
 # flutter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving back and forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally rapid beating of the auricles of the heart (especially in a regular rhythm); can result in heart block.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, then, most soft sweet goddess, Give me the victory of this question, which Is true love’s merit, and bless me with a sign Of thy great pleasure. [_Here music is heard; doves are seen to flutter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I had sufficient hopes of the will to be in a flutter about it, Allan and I agreed to go down to the court that morning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving back and forth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally rapid beating of the auricles of the heart (especially in a regular rhythm); can result in heart block.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, then, most soft sweet goddess, Give me the victory of this question, which Is true love’s merit, and bless me with a sign Of thy great pleasure. [_Here music is heard; doves are seen to flutter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As I had sufficient hopes of the will to be in a flutter about it, Allan and I agreed to go down to the court that morning."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # convolvulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus convolvulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous plants of the genus convolvulus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My Tess, no doubt, almost as many experiences as that wild convolvulus out there on the garden hedge, that opened itself this morning for the first time."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He saw it creeping into the stained trumpet of a Tyrian convolvulus."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"With the assistance of her friends, he collected from the mountain slope a great quantity of the _kowali_, or convolvulus vine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus convolvulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous plants of the genus convolvulus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My Tess, no doubt, almost as many experiences as that wild convolvulus out there on the garden hedge, that opened itself this morning for the first time."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He saw it creeping into the stained trumpet of a Tyrian convolvulus."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"With the assistance of her friends, he collected from the mountain slope a great quantity of the _kowali_, or convolvulus vine."*

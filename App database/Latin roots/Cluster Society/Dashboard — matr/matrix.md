@@ -5,15 +5,6 @@ status: unread
 ---
 # matrix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a rectangular array of quantities or expressions set out by rows and columns; treated as a single element and manipulated according to rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) amass of fine-grained rock in which fossils, crystals, or gems are embedded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Lambinet thought that the early printers may have discovered a way of molding in cooling metal so as to get a matrix-plate impression of an entire page."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Upon this matrix they would pour molten lead or tin and by the aid of a roller, press the fused metal evenly so as to make it penetrate into all the hollows and corners of the letters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a rectangular array of quantities or expressions set out by rows and columns; treated as a single element and manipulated according to rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) amass of fine-grained rock in which fossils, crystals, or gems are embedded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Lambinet thought that the early printers may have discovered a way of molding in cooling metal so as to get a matrix-plate impression of an entire page."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Upon this matrix they would pour molten lead or tin and by the aid of a roller, press the fused metal evenly so as to make it penetrate into all the hollows and corners of the letters."*

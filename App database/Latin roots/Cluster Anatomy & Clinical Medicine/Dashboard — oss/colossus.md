@@ -5,15 +5,6 @@ status: unread
 ---
 # colossus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone or something that is abnormally large and powerful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of exceptional importance and reputation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but a colossus can do thee that friendship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, man, he doth bestride the narrow world Like a Colossus, and we petty men Walk under his huge legs, and peep about To find ourselves dishonourable graves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fierce Polydamas Hath beat down Menon; bastard Margarelon Hath Doreus prisoner, And stands colossus-wise, waving his beam, Upon the pashed corses of the kings Epistrophus and Cedius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone or something that is abnormally large and powerful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of exceptional importance and reputation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but a colossus can do thee that friendship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, man, he doth bestride the narrow world Like a Colossus, and we petty men Walk under his huge legs, and peep about To find ourselves dishonourable graves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fierce Polydamas Hath beat down Menon; bastard Margarelon Hath Doreus prisoner, And stands colossus-wise, waving his beam, Upon the pashed corses of the kings Epistrophus and Cedius."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # brocade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick heavy expensive material with a raised pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weave a design into (textiles).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada’s sleeping-room was all flowers—in chintz and paper, in velvet, in needlework, in the brocade of two stiff courtly chairs which stood, each attended by a little page of a stool for greater state, on either side of the fire-place."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I went to look after a piece of old brocade in Wardour Street and had to bargain for hours for it."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The state bed of Sobieski, King of Poland, was made of Smyrna gold brocade embroidered in turquoises with verses from the Koran."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick heavy expensive material with a raised pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weave a design into (textiles).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ada’s sleeping-room was all flowers—in chintz and paper, in velvet, in needlework, in the brocade of two stiff courtly chairs which stood, each attended by a little page of a stool for greater state, on either side of the fire-place."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I went to look after a piece of old brocade in Wardour Street and had to bargain for hours for it."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The state bed of Sobieski, King of Poland, was made of Smyrna gold brocade embroidered in turquoises with verses from the Koran."*

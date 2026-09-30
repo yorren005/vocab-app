@@ -5,15 +5,6 @@ status: unread
 ---
 # iteration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) a single execution of a set of instructions that are to be repeated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) executing the same set of instructions a given number of times or until a specified result is obtained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou hast damnable iteration, and art indeed able to corrupt a saint."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never before seen a woman’s lips and teeth which forced upon his mind with such persistent iteration the old Elizabethan simile of roses filled with snow."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All material objects around announced their irresponsibility with terrible iteration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) a single execution of a set of instructions that are to be repeated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) executing the same set of instructions a given number of times or until a specified result is obtained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou hast damnable iteration, and art indeed able to corrupt a saint."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never before seen a woman’s lips and teeth which forced upon his mind with such persistent iteration the old Elizabethan simile of roses filled with snow."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All material objects around announced their irresponsibility with terrible iteration."*

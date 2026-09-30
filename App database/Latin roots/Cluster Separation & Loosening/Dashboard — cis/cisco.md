@@ -5,13 +5,6 @@ status: unread
 ---
 # cisco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cold-water fish caught in lake superior and northward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important food fish of cold deep lakes of north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisco designates cold-water fish caught in lake superior and northward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cold-water fish caught in lake superior and northward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important food fish of cold deep lakes of north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisco designates cold-water fish caught in lake superior and northward."*

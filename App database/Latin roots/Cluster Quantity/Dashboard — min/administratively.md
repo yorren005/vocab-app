@@ -5,13 +5,6 @@ status: unread
 ---
 # administratively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By or for an administrator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By or for an administrator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administratively designates by or for an administrator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By or for an administrator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By or for an administrator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administratively designates by or for an administrator."*

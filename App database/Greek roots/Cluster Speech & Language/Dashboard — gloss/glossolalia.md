@@ -5,13 +5,6 @@ status: unread
 ---
 # glossolalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossolalia designates repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossolalia designates repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor)."*

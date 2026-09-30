@@ -5,15 +5,6 @@ status: unread
 ---
 # amor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of love; counterpart of greek eros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) god of love; counterpart of greek eros.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What do you see?” “A crest and a motto.” “A coronet with five points, and beneath, _Cedit amor rebus_—‘Love yields to circumstance.’ It’s the motto of the Earls of Severn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What do you see?” “A crest and a motto.” “A coronet with five points, and beneath, _Cedit amor rebus_—‘Love yields to circumstance.’ It’s the motto of the Earls of Severn."*
-> - 📜 **James Joyce (*Ulysses*):** *"Waiting always for a word of help his hand moved faithfully the unsteady symbols, a faint hue of shame flickering behind his dull skin. _Amor matris:_ subjective and objective genitive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of love; counterpart of greek eros.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) god of love; counterpart of greek eros.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What do you see?” “A crest and a motto.” “A coronet with five points, and beneath, _Cedit amor rebus_—‘Love yields to circumstance.’ It’s the motto of the Earls of Severn."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What do you see?” “A crest and a motto.” “A coronet with five points, and beneath, _Cedit amor rebus_—‘Love yields to circumstance.’ It’s the motto of the Earls of Severn."*
+> - 📜 **James Joyce (*Ulysses*):** *"Waiting always for a word of help his hand moved faithfully the unsteady symbols, a faint hue of shame flickering behind his dull skin. _Amor matris:_ subjective and objective genitive."*

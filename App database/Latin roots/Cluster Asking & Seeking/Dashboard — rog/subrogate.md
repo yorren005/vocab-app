@@ -5,13 +5,6 @@ status: unread
 ---
 # subrogate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subrogate designates substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subrogate designates substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured."*

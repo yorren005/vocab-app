@@ -5,13 +5,6 @@ status: unread
 ---
 # commutator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Switch for reversing the direction of an electric current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Switch for reversing the direction of an electric current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutator designates switch for reversing the direction of an electric current."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Switch for reversing the direction of an electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Switch for reversing the direction of an electric current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutator designates switch for reversing the direction of an electric current."*

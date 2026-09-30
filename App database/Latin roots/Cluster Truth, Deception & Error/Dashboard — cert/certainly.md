@@ -5,15 +5,6 @@ status: unread
 ---
 # certainly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Definitely or positively (`sure' is sometimes used informally for `surely').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Definitely or positively (`sure' is sometimes used informally for `surely').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, certainly, I have heard the Ptolemies’ pyramises are very goodly things."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, certainly, there is no truth in him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s a girl goes before the priest, and certainly a woman’s thought runs before her actions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Definitely or positively (`sure' is sometimes used informally for `surely').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Definitely or positively (`sure' is sometimes used informally for `surely').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, certainly, I have heard the Ptolemies’ pyramises are very goodly things."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, certainly, there is no truth in him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s a girl goes before the priest, and certainly a woman’s thought runs before her actions."*

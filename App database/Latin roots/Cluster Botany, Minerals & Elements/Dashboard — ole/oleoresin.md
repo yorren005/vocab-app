@@ -5,13 +5,6 @@ status: unread
 ---
 # oleoresin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring mixture of a resin and an essential oil; obtained from certain plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring mixture of a resin and an essential oil; obtained from certain plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleoresin designates a naturally occurring mixture of a resin and an essential oil; obtained from certain plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring mixture of a resin and an essential oil; obtained from certain plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring mixture of a resin and an essential oil; obtained from certain plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleoresin designates a naturally occurring mixture of a resin and an essential oil; obtained from certain plants."*

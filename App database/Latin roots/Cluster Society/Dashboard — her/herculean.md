@@ -5,15 +5,6 @@ status: unread
 ---
 # herculean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying superhuman strength or power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely difficult; requiring the strength of a hercules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, prithee, Charmian, How this Herculean Roman does become The carriage of his chafe."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He was accompanied by a soldier, who lodged in the same house, a man of Herculean build."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In every country it is a herculean task to obtain a valuation of the land; in a country imperfectly settled and progressive in improvement, the difficulties are increased almost to impracticability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying superhuman strength or power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely difficult; requiring the strength of a hercules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, prithee, Charmian, How this Herculean Roman does become The carriage of his chafe."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He was accompanied by a soldier, who lodged in the same house, a man of Herculean build."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In every country it is a herculean task to obtain a valuation of the land; in a country imperfectly settled and progressive in improvement, the difficulties are increased almost to impracticability."*

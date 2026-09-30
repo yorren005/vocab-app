@@ -5,15 +5,6 @@ status: unread
 ---
 # filing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The entering of a legal document into the public record.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fragment rubbed off by the use of a file.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was full of business, examining tradesmen’s books, adding up columns, paying money, filing receipts, and I dare say making a great bustle about it when Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To settle that question, my brother filing a bill, I was obliged to go into this accursed Chancery; I was forced there because the law forced me and would let me go nowhere else."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Half heaven was pure and stainless: the clouds, now trooping before the wind, which had shifted to the west, were filing off eastward in long, silvered columns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entering of a legal document into the public record.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fragment rubbed off by the use of a file.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was full of business, examining tradesmen’s books, adding up columns, paying money, filing receipts, and I dare say making a great bustle about it when Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To settle that question, my brother filing a bill, I was obliged to go into this accursed Chancery; I was forced there because the law forced me and would let me go nowhere else."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Half heaven was pure and stainless: the clouds, now trooping before the wind, which had shifted to the west, were filing off eastward in long, silvered columns."*

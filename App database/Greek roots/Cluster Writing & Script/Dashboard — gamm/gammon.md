@@ -5,15 +5,6 @@ status: unread
 ---
 # gammon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat cut from the thigh of a hog (usually smoked).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hind portion of a side of bacon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a gammon of bacon and two razes of ginger, to be delivered as far as Charing Cross."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And there shall we be put in a cauldron of lead and usurers’ grease, amongst a whole million of cutpurses, and there boil like a gammon of bacon that will never be enough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hope, Joy, Youth, Peace, Rest, Life, Dust, Ashes, Waste, Want, Ruin, Despair, Madness, Death, Cunning, Folly, Words, Wigs, Rags, Sheepskin, Plunder, Precedent, Jargon, Gammon, and Spinach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat cut from the thigh of a hog (usually smoked).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hind portion of a side of bacon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a gammon of bacon and two razes of ginger, to be delivered as far as Charing Cross."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And there shall we be put in a cauldron of lead and usurers’ grease, amongst a whole million of cutpurses, and there boil like a gammon of bacon that will never be enough."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Hope, Joy, Youth, Peace, Rest, Life, Dust, Ashes, Waste, Want, Ruin, Despair, Madness, Death, Cunning, Folly, Words, Wigs, Rags, Sheepskin, Plunder, Precedent, Jargon, Gammon, and Spinach."*

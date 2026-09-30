@@ -5,15 +5,6 @@ status: unread
 ---
 # cancellation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cancelling; calling off some arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of revoking or annulling or making void.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The wasteful process of shipping these sums back and forth is avoided by the cancellation of indebtedness between the two localities."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Cancellation of foreign indebtedness. § 9."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Cancellation of human sin Prayer is not to be used as a confessional to cancel sin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cancelling; calling off some arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of revoking or annulling or making void.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The wasteful process of shipping these sums back and forth is avoided by the cancellation of indebtedness between the two localities."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Cancellation of foreign indebtedness. § 9."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Cancellation of human sin Prayer is not to be used as a confessional to cancel sin."*

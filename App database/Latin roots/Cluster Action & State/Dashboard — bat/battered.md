@@ -5,15 +5,6 @@ status: unread
 ---
 # battered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike against forcefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike violently and repeatedly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marcus, attend him in his ecstasy, That hath more scars of sorrow in his heart Than foemen’s marks upon his battered shield, But yet so just that he will not revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her house is sacked, her quiet interrupted, Her mansion battered by the enemy, Her sacred temple spotted, spoiled, corrupted, Grossly engirt with daring infamy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I say to you that if you rear yourself against it, you shall fall, you shall be bruised, you shall be battered, you shall be flawed, you shall be smashed.” The present effect of this flight of oratory—much admired for its general power by Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike against forcefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike violently and repeatedly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marcus, attend him in his ecstasy, That hath more scars of sorrow in his heart Than foemen’s marks upon his battered shield, But yet so just that he will not revenge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her house is sacked, her quiet interrupted, Her mansion battered by the enemy, Her sacred temple spotted, spoiled, corrupted, Grossly engirt with daring infamy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I say to you that if you rear yourself against it, you shall fall, you shall be bruised, you shall be battered, you shall be flawed, you shall be smashed.” The present effect of this flight of oratory—much admired for its general power by Mr."*

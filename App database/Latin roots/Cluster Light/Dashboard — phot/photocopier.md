@@ -5,13 +5,6 @@ status: unread
 ---
 # photocopier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copier that uses photographic methods of making copies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copier that uses photographic methods of making copies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocopier designates a copier that uses photographic methods of making copies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A copier that uses photographic methods of making copies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copier that uses photographic methods of making copies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocopier designates a copier that uses photographic methods of making copies."*

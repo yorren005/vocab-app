@@ -5,15 +5,6 @@ status: unread
 ---
 # horticulture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See _La Bresse Louhannaise, Bulletin Mensuel, Organe de la Société d'Agriculture et d'Horticulture de l'Arrondissement de Louhans_, Mars, 1906, pp. 111 _sq._; E."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Our agriculture and horticulture destroy a weed just here and there and cultivate perhaps a score or so of wholesome plants, leaving the greater number to fight out a balance as they can."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Odd as this mode of horticulture may seem to us, it has its exact parallels in Europe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See _La Bresse Louhannaise, Bulletin Mensuel, Organe de la Société d'Agriculture et d'Horticulture de l'Arrondissement de Louhans_, Mars, 1906, pp. 111 _sq._; E."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Our agriculture and horticulture destroy a weed just here and there and cultivate perhaps a score or so of wholesome plants, leaving the greater number to fight out a balance as they can."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Odd as this mode of horticulture may seem to us, it has its exact parallels in Europe."*

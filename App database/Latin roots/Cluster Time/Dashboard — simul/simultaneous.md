@@ -5,15 +5,6 @@ status: unread
 ---
 # simultaneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or operating at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or operating at the same time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was about to add,” he presently goes on, “I was about to add, respecting this attack, that it was unfortunately simultaneous with a slight misunderstanding between my Lady and myself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, as was true of the other six sleeping men of the watch below, awaking and leaping from bunk to floor were simultaneous."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There was a simultaneous and joyful assent from his own three: then Evelyn said, "Thank you, sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or operating at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or operating at the same time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was about to add,” he presently goes on, “I was about to add, respecting this attack, that it was unfortunately simultaneous with a slight misunderstanding between my Lady and myself."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, as was true of the other six sleeping men of the watch below, awaking and leaping from bunk to floor were simultaneous."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There was a simultaneous and joyful assent from his own three: then Evelyn said, "Thank you, sir."*

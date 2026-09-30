@@ -5,15 +5,6 @@ status: unread
 ---
 # impudent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by casual disrespect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improperly forward or bold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you could find out a country where but women were that had received so much shame, you might begin an impudent nation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s impudent, my lord, And was a common gamester to the camp."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not a confident brow, nor the throng of words that come with such more than impudent sauciness from you, can thrust me from a level consideration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by casual disrespect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improperly forward or bold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you could find out a country where but women were that had received so much shame, you might begin an impudent nation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s impudent, my lord, And was a common gamester to the camp."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not a confident brow, nor the throng of words that come with such more than impudent sauciness from you, can thrust me from a level consideration."*

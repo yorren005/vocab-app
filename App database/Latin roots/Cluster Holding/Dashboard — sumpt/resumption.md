@@ -5,15 +5,6 @@ status: unread
 ---
 # resumption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beginning again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beginning again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was called "the resumption of specie payments." Almost every nation has at some time issued political money."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was preparing to transfer his management of the Bank, and to give up any active control of other commercial affairs in the neighborhood, on the ground of his failing health, but without excluding his future resumption of such work."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I am unable even to remember at this day what proposal I framed for the end of his holidays and the resumption of his studies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beginning again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beginning again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was called "the resumption of specie payments." Almost every nation has at some time issued political money."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was preparing to transfer his management of the Bank, and to give up any active control of other commercial affairs in the neighborhood, on the ground of his failing health, but without excluding his future resumption of such work."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I am unable even to remember at this day what proposal I framed for the end of his holidays and the resumption of his studies."*

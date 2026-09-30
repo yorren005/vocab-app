@@ -5,14 +5,6 @@ status: unread
 ---
 # genitals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: External sex organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: External sex organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some confirmation of this conjecture is furnished by the savage story that the mother of Attis conceived by putting in her bosom a pomegranate sprung from the severed genitals of a man-monster named Agdestis, a sort of double of Attis."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"When in this line there are certain points observed, they argue strength of the genitals and burning lust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: External sex organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: External sex organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some confirmation of this conjecture is furnished by the savage story that the mother of Attis conceived by putting in her bosom a pomegranate sprung from the severed genitals of a man-monster named Agdestis, a sort of double of Attis."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"When in this line there are certain points observed, they argue strength of the genitals and burning lust."*

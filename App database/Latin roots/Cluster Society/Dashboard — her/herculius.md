@@ -5,13 +5,6 @@ status: unread
 ---
 # herculius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman emperor from 286 until he abdicated in 305; when diocletian divided the roman empire in 286 maximian became emperor in the west (died in 311).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman emperor from 286 until he abdicated in 305; when diocletian divided the roman empire in 286 maximian became emperor in the west (died in 311).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herculius designates roman emperor from 286 until he abdicated in 305; when diocletian divided the roman empire in 286 maximian became emperor in the west (died in 311)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman emperor from 286 until he abdicated in 305; when diocletian divided the roman empire in 286 maximian became emperor in the west (died in 311).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman emperor from 286 until he abdicated in 305; when diocletian divided the roman empire in 286 maximian became emperor in the west (died in 311).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herculius designates roman emperor from 286 until he abdicated in 305; when diocletian divided the roman empire in 286 maximian became emperor in the west (died in 311)."*

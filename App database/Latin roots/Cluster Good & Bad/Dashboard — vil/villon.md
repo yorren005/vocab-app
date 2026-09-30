@@ -5,13 +5,6 @@ status: unread
 ---
 # villon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French poet (flourished around 1460).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French poet (flourished around 1460).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It must have been like this in ancient Paris when Villon thieved and sang, and the wolves came clamoring at the gates ... and the crusaders in warm Palestine...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French poet (flourished around 1460).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French poet (flourished around 1460).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It must have been like this in ancient Paris when Villon thieved and sang, and the wolves came clamoring at the gates ... and the crusaders in warm Palestine...."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # curacao
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular island resort in the netherlands antilles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flavored with sour orange peel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She drank cherry-brandy after dinner," continued his Reverence, "and took curacao with her coffee."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He shook hands with Dobbin, looked at the clock, and told John, the waiter, to bring him some curacao."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular island resort in the netherlands antilles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flavored with sour orange peel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She drank cherry-brandy after dinner," continued his Reverence, "and took curacao with her coffee."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He shook hands with Dobbin, looked at the clock, and told John, the waiter, to bring him some curacao."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mott
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states feminist and suffragist (1793-1880).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states feminist and suffragist (1793-1880).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Mott said, at the women's meeting in Cooper Institute, after Sumter had been fired: 'Go on, ladies!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The board of the Woman's Central, after many changes, consisted of, VALENTINE MOTT, M.D., _President_, HENRY W."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Mott, whose fame gave weight to its early organization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states feminist and suffragist (1793-1880).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states feminist and suffragist (1793-1880).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Mott said, at the women's meeting in Cooper Institute, after Sumter had been fired: 'Go on, ladies!"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The board of the Woman's Central, after many changes, consisted of, VALENTINE MOTT, M.D., _President_, HENRY W."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Mott, whose fame gave weight to its early organization."*

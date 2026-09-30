@@ -5,15 +5,6 @@ status: unread
 ---
 # decapitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the head of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the Alake or king of Abeokuta in West Africa dies, the principal men decapitate his body, and placing the head in a large earthen vessel deliver it to the new sovereign; it becomes his fetish and he is bound to pay it honours."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He then orders his mother to approach; she kneels at his feet; he first cuts off her head, then decapitates his sons in succession, next his wives and relatives, and, last of all, his most beloved wife, called Anacullo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Next, after breaking the bones and decapitating the then governor of the five provinces, himself an adherent of Chong Mong-ju, I was made governor of the seven home provinces of ancient Koryu."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the head of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the Alake or king of Abeokuta in West Africa dies, the principal men decapitate his body, and placing the head in a large earthen vessel deliver it to the new sovereign; it becomes his fetish and he is bound to pay it honours."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He then orders his mother to approach; she kneels at his feet; he first cuts off her head, then decapitates his sons in succession, next his wives and relatives, and, last of all, his most beloved wife, called Anacullo."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Next, after breaking the bones and decapitating the then governor of the five provinces, himself an adherent of Chong Mong-ju, I was made governor of the seven home provinces of ancient Koryu."*

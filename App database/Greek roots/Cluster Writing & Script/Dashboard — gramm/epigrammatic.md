@@ -5,14 +5,6 @@ status: unread
 ---
 # epigrammatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling an epigram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or given to the use of epigrams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I was humorous concerning roop, epigrammatic on the subject of the hired retainer and Edwin."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Sapsea’s wisdom being, in its delivery to mortals, rather of the diffuse than the epigrammatic order, is by no means expended even then; but his visitor intimates that he will come back for more of the precious commodity on future occasions, and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling an epigram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or given to the use of epigrams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I was humorous concerning roop, epigrammatic on the subject of the hired retainer and Edwin."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Sapsea’s wisdom being, in its delivery to mortals, rather of the diffuse than the epigrammatic order, is by no means expended even then; but his visitor intimates that he will come back for more of the precious commodity on future occasions, and Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # decagon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane polygon of 10 angles and 10 sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane polygon of 10 angles and 10 sides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decagon designates a plane polygon of 10 angles and 10 sides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane polygon of 10 angles and 10 sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane polygon of 10 angles and 10 sides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decagon designates a plane polygon of 10 angles and 10 sides."*

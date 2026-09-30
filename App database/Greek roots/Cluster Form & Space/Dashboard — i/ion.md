@@ -5,15 +5,6 @@ status: unread
 ---
 # ion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atom or group of atoms that carries a positive or negative electric charge as a result of having lost or gained one or more electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A charged subatomic particle (such as a free electron).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"In what can I be of service to you?" "By inviting me to Ion to spend the night," she returned laughingly."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Travilla," remarked Miss Deane: "there is no place I like better to visit than Ion, and I begin to think it was rather a fortunate mishap--missing my train." "Very unfortunate for me, I fear," sighed Edward to himself."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"He accepted, of course; and they played without intermission till lunch-time, Zoe sitting by, for the most part silent, and wishing Miss Deane miles away from Ion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An atom or group of atoms that carries a positive or negative electric charge as a result of having lost or gained one or more electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A charged subatomic particle (such as a free electron).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"In what can I be of service to you?" "By inviting me to Ion to spend the night," she returned laughingly."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Travilla," remarked Miss Deane: "there is no place I like better to visit than Ion, and I begin to think it was rather a fortunate mishap--missing my train." "Very unfortunate for me, I fear," sighed Edward to himself."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"He accepted, of course; and they played without intermission till lunch-time, Zoe sitting by, for the most part silent, and wishing Miss Deane miles away from Ion."*

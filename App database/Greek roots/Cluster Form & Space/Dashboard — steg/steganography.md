@@ -5,13 +5,6 @@ status: unread
 ---
 # steganography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cryptography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or practice of concealing a message, image, or file within another message, image, or file.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steganography designates cryptography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cryptography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or practice of concealing a message, image, or file within another message, image, or file.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steganography designates cryptography."*

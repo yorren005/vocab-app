@@ -5,15 +5,6 @@ status: unread
 ---
 # facsimile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exact copy or reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duplicator that transmits the copy by wire or radio.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Each utensil, spoon, fork, knife, plate, had a letter engraved on it, with a motto above it, of which this is an exact facsimile:— MOBILIS IN MOBILI N."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"You figure them out.} {The following is transcribed from a letter (from Browning to Corson) which Corson chose to use in facsimile form to begin his text."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"ELECTROTYPING BY THE WAX MOLD PROCESS An electrotype is a facsimile printing plate duplicated from an original."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exact copy or reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duplicator that transmits the copy by wire or radio.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Each utensil, spoon, fork, knife, plate, had a letter engraved on it, with a motto above it, of which this is an exact facsimile:— MOBILIS IN MOBILI N."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"You figure them out.} {The following is transcribed from a letter (from Browning to Corson) which Corson chose to use in facsimile form to begin his text."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"ELECTROTYPING BY THE WAX MOLD PROCESS An electrotype is a facsimile printing plate duplicated from an original."*

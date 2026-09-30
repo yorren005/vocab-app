@@ -5,13 +5,6 @@ status: unread
 ---
 # acatalectic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of verse that has the full number of syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) metrically complete; especially having the full number of syllables in the final metrical foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acatalectic designates (prosody) a line of verse that has the full number of syllables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of verse that has the full number of syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) metrically complete; especially having the full number of syllables in the final metrical foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acatalectic designates (prosody) a line of verse that has the full number of syllables."*

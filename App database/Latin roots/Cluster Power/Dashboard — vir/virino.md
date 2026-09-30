@@ -5,13 +5,6 @@ status: unread
 ---
 # virino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virino designates (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virino designates (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins."*

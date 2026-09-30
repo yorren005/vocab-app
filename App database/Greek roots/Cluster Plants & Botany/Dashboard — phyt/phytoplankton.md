@@ -5,13 +5,6 @@ status: unread
 ---
 # phytoplankton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytoplankton designates minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytoplankton designates minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments."*

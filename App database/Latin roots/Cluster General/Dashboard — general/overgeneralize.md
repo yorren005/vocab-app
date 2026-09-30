@@ -5,13 +5,6 @@ status: unread
 ---
 # overgeneralize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw too general a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw too general a conclusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overgeneralize designates draw too general a conclusion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw too general a conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw too general a conclusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overgeneralize designates draw too general a conclusion."*

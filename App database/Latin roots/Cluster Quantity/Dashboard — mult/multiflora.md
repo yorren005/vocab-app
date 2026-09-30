@@ -5,13 +5,6 @@ status: unread
 ---
 # multiflora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiflora designates vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiflora designates vigorously growing rose having clusters of numerous small flowers; used for hedges and as grafting stock."*

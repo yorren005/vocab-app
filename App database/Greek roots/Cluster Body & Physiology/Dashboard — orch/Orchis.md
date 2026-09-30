@@ -5,15 +5,6 @@ status: unread
 ---
 # orchis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various deciduous terrestrial orchids having fleshy tubers and flowers in erect terminal racemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two male reproductive glands that produce spermatozoa and secrete androgens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ORCHIS CLUSTER-CUP; spots large, pallid, orbicular or elongated; peridia circinating, semi-immersed; spores golden-yellow.—On _Orchis latifolia_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ORCHIS UREDO; amphigenous; spots reddish-brown; sori subrotund, arranged in circles, often confluent; sporidia subglobose, golden-yellow.—On _Listera ovata_ and _Orchis latifolia_."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She never pulled a primrose, but she knew the haunts of all the orchis tribe, and brought from them bees and butterflies innumerable, as offerings to her sister."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various deciduous terrestrial orchids having fleshy tubers and flowers in erect terminal racemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two male reproductive glands that produce spermatozoa and secrete androgens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ORCHIS CLUSTER-CUP; spots large, pallid, orbicular or elongated; peridia circinating, semi-immersed; spores golden-yellow.—On _Orchis latifolia_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ORCHIS UREDO; amphigenous; spots reddish-brown; sori subrotund, arranged in circles, often confluent; sporidia subglobose, golden-yellow.—On _Listera ovata_ and _Orchis latifolia_."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She never pulled a primrose, but she knew the haunts of all the orchis tribe, and brought from them bees and butterflies innumerable, as offerings to her sister."*

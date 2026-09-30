@@ -5,14 +5,6 @@ status: unread
 ---
 # montenegro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former country bordering on the adriatic sea; now part of the union of serbia and montenegro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former country bordering on the adriatic sea; now part of the union of serbia and montenegro.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Montenegro they meet the log with a loaf of bread and a jug of wine, drink to it, and pour wine on it, whereupon the whole family drinks out of the same beaker."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And since that time, whenever chance has offered, that has been my holiday pastime, among the Kentucky mountains, in the Taurus, in Montenegro, in India."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former country bordering on the adriatic sea; now part of the union of serbia and montenegro.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former country bordering on the adriatic sea; now part of the union of serbia and montenegro.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Montenegro they meet the log with a loaf of bread and a jug of wine, drink to it, and pour wine on it, whereupon the whole family drinks out of the same beaker."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And since that time, whenever chance has offered, that has been my holiday pastime, among the Kentucky mountains, in the Taurus, in Montenegro, in India."*

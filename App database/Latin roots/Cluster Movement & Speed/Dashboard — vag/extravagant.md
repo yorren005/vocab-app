@@ -5,15 +5,6 @@ status: unread
 ---
 # extravagant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained, especially with regard to feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessly wasteful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard The cock, that is the trumpet to the morn, Doth with his lofty and shrill-sounding throat Awake the god of day; and at his warning, Whether in sea or fire, in earth or air, Th’extravagant and erring spirit hies To his confine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a gift that I have, simple, simple; a foolish extravagant spirit, full of forms, figures, shapes, objects, ideas, apprehensions, motions, revolutions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your daughter (if you have not given her leave) I say again, hath made a gross revolt, Tying her duty, beauty, wit, and fortunes In an extravagant and wheeling stranger Of here and everywhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained, especially with regard to feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessly wasteful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard The cock, that is the trumpet to the morn, Doth with his lofty and shrill-sounding throat Awake the god of day; and at his warning, Whether in sea or fire, in earth or air, Th’extravagant and erring spirit hies To his confine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a gift that I have, simple, simple; a foolish extravagant spirit, full of forms, figures, shapes, objects, ideas, apprehensions, motions, revolutions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your daughter (if you have not given her leave) I say again, hath made a gross revolt, Tying her duty, beauty, wit, and fortunes In an extravagant and wheeling stranger Of here and everywhere."*

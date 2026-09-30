@@ -5,15 +5,6 @@ status: unread
 ---
 # elusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to describe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful at eluding capture; - david kline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal incomes, when sought by local assessors, proved to be most elusive."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This elusive quality it is, which causes the thought of whiteness, when divorced from more kindly associations, and coupled with any object terrible in itself, to heighten that terror to the furthest bounds."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It harmonized admirably with the hair and the eyes of elusive color."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to describe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful at eluding capture; - david kline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal incomes, when sought by local assessors, proved to be most elusive."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This elusive quality it is, which causes the thought of whiteness, when divorced from more kindly associations, and coupled with any object terrible in itself, to heighten that terror to the furthest bounds."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It harmonized admirably with the hair and the eyes of elusive color."*

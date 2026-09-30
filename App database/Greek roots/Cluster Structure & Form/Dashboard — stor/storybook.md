@@ -5,15 +5,6 @@ status: unread
 ---
 # storybook
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing a collection of stories (usually for children).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book containing a collection of stories (usually for children).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Wasn’t it just a storybook over which I had fallen adoze and adream?"*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"They moved slowly, in unison, below us, over the lawn, the boy, as they went, reading aloud from a storybook and passing his arm round his sister to keep her quite in touch."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They looked a good bit like the kings in my storybook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing a collection of stories (usually for children).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book containing a collection of stories (usually for children).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Wasn’t it just a storybook over which I had fallen adoze and adream?"*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"They moved slowly, in unison, below us, over the lawn, the boy, as they went, reading aloud from a storybook and passing his arm round his sister to keep her quite in touch."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They looked a good bit like the kings in my storybook."*

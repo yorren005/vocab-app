@@ -5,15 +5,6 @@ status: unread
 ---
 # unanimously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of one mind; without dissent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of one mind; without dissent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The people in Nolla unanimously agree that the ghost of Wildenstein has gone to his eternal rest, because peace again is reigning at the castle."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Carried unanimously.” “Carried unanimously,” I repeated, going on with my work."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We all know that, and ye must have a wonderful talented constitution to be able to live so long, mustn’t he, neighbours?” “True, true; ye must, malter, wonderful,” said the meeting unanimously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of one mind; without dissent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of one mind; without dissent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The people in Nolla unanimously agree that the ghost of Wildenstein has gone to his eternal rest, because peace again is reigning at the castle."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Carried unanimously.” “Carried unanimously,” I repeated, going on with my work."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We all know that, and ye must have a wonderful talented constitution to be able to live so long, mustn’t he, neighbours?” “True, true; ye must, malter, wonderful,” said the meeting unanimously."*

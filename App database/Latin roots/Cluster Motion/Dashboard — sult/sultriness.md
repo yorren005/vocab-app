@@ -5,14 +5,6 @@ status: unread
 ---
 # sultriness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressively hot and humid weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of expressing or arousing sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"After such a revelation, let him smile with what sultriness he would, he could much sooner turn grapes purple, or pumpkins yellow, than melt the iron-branded impression out of the beholder’s memory."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"He looked up,—at first with a stern, keen glance, which penetrated at once into the obscurity behind the arched window,—then with a smile which might be conceived as diffusing a dog-day sultriness for the space of several yards about him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressively hot and humid weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of expressing or arousing sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"After such a revelation, let him smile with what sultriness he would, he could much sooner turn grapes purple, or pumpkins yellow, than melt the iron-branded impression out of the beholder’s memory."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"He looked up,—at first with a stern, keen glance, which penetrated at once into the obscurity behind the arched window,—then with a smile which might be conceived as diffusing a dog-day sultriness for the space of several yards about him."*

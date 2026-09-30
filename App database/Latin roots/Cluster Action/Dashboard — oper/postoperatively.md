@@ -5,13 +5,6 @@ status: unread
 ---
 # postoperatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After the operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the operation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postoperatively designates after the operation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After the operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the operation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postoperatively designates after the operation."*

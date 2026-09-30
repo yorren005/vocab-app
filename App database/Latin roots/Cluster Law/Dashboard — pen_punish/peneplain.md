@@ -5,13 +5,6 @@ status: unread
 ---
 # peneplain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peneplain designates a more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peneplain designates a more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements."*

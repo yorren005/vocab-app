@@ -5,13 +5,6 @@ status: unread
 ---
 # horology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of designing and making clocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of designing and making clocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horology designates the art of designing and making clocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of designing and making clocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of designing and making clocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horology designates the art of designing and making clocks."*

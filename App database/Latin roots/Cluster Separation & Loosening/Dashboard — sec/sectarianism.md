@@ -5,15 +5,6 @@ status: unread
 ---
 # sectarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow-minded adherence to a particular sect or party or denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrow-minded adherence to a particular sect or party or denomination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sectarianism and opposition In the record of nineteen centuries, there are sects 224:12 many but not enough Christianity."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Without entering into sectarianism our racial organization must foster such conceptions of religion as will make its ethical teachings, applicable to life in this world, more prominent."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"VARIOUS SECTS The writer has had the privilege of preaching in churches of different denominations in the work of special evangelism, but never has he known the falling of Pentecostal fire to fail to burn up sectarianism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow-minded adherence to a particular sect or party or denomination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrow-minded adherence to a particular sect or party or denomination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sectarianism and opposition In the record of nineteen centuries, there are sects 224:12 many but not enough Christianity."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Without entering into sectarianism our racial organization must foster such conceptions of religion as will make its ethical teachings, applicable to life in this world, more prominent."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"VARIOUS SECTS The writer has had the privilege of preaching in churches of different denominations in the work of special evangelism, but never has he known the falling of Pentecostal fire to fail to burn up sectarianism."*

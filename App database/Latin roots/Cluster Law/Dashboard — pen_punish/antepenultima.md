@@ -5,13 +5,6 @@ status: unread
 ---
 # antepenultima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd syllable of a word counting back from the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 3rd syllable of a word counting back from the end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antepenultima designates the 3rd syllable of a word counting back from the end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd syllable of a word counting back from the end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 3rd syllable of a word counting back from the end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antepenultima designates the 3rd syllable of a word counting back from the end."*

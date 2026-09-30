@@ -5,15 +5,6 @@ status: unread
 ---
 # indemnify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secure against future loss, damage, or liability; give security for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But about the ‘Pioneer,’ I have been consulting a little with some of the men on our side, and they are inclined to take it into their hands—indemnify me to a certain extent—carry it on, in fact."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Chronol. de l’Hist., etc., d’Allemagne,” says the pretext was to indemnify himself for the expense of the expedition."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was time, I thought, to indemnify myself for my years of suffering, and surround my child and myself with such moderate comforts as our means allowed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secure against future loss, damage, or liability; give security for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But about the ‘Pioneer,’ I have been consulting a little with some of the men on our side, and they are inclined to take it into their hands—indemnify me to a certain extent—carry it on, in fact."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Chronol. de l’Hist., etc., d’Allemagne,” says the pretext was to indemnify himself for the expense of the expedition."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was time, I thought, to indemnify myself for my years of suffering, and surround my child and myself with such moderate comforts as our means allowed."*

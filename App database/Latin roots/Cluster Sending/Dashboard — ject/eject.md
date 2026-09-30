@@ -5,15 +5,6 @@ status: unread
 ---
 # eject
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put out or expel from a place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate (a substance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To eject him hence Were but one danger, and to keep him here Our certain death."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A little music does occasionally stray in, but we are not musical in the law and soon eject it."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Suddenly, that long glowworm of a train stopped just long enough at Glendale to eject me and my five trunks, with such hurried emphasis that I felt I was being planted in the valley forever, and I would have to root myself here or die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put out or expel from a place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate (a substance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To eject him hence Were but one danger, and to keep him here Our certain death."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A little music does occasionally stray in, but we are not musical in the law and soon eject it."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Suddenly, that long glowworm of a train stopped just long enough at Glendale to eject me and my five trunks, with such hurried emphasis that I felt I was being planted in the valley forever, and I would have to root myself here or die."*

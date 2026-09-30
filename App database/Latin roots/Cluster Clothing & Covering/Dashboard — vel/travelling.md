@@ -5,15 +5,6 @@ status: unread
 ---
 # travelling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change location; move, travel, or proceed, also metaphorically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And travelling along this coast, I here am come by chance, And lay my arms before the legs of this sweet lass of France._ If your ladyship would say, “Thanks, Pompey”, I had done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, good father, Thou seest the heavens, as troubled with man’s act, Threatens his bloody stage: by the clock ’tis day, And yet dark night strangles the travelling lamp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change location; move, travel, or proceed, also metaphorically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And travelling along this coast, I here am come by chance, And lay my arms before the legs of this sweet lass of France._ If your ladyship would say, “Thanks, Pompey”, I had done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, good father, Thou seest the heavens, as troubled with man’s act, Threatens his bloody stage: by the clock ’tis day, And yet dark night strangles the travelling lamp."*

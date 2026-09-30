@@ -5,13 +5,6 @@ status: unread
 ---
 # literatim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letter for letter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letter for letter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Dyce's 1830 publication is described as a reprint "verbatim et literatim," but it has little claim to be so called."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Letter for letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letter for letter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Dyce's 1830 publication is described as a reprint "verbatim et literatim," but it has little claim to be so called."*

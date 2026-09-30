@@ -5,15 +5,6 @@ status: unread
 ---
 # topical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the surface of a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or arranged by topics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Union citizen Harrison was unavailable for comment at this time, but Topical News will present his views and such other clues when more ensues."*
-> - 📜 **James Joyce (*Ulysses*):** *"We subjoin a specimen which has been rendered into English by an eminent scholar whose name for the moment we are not at liberty to disclose though we believe that our readers will find the topical allusion rather more than an indication."*
-> - 📜 **James Joyce (*Ulysses*):** *"What had prevented him from completing a topical song (music by R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the surface of a body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or arranged by topics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"Union citizen Harrison was unavailable for comment at this time, but Topical News will present his views and such other clues when more ensues."*
+> - 📜 **James Joyce (*Ulysses*):** *"We subjoin a specimen which has been rendered into English by an eminent scholar whose name for the moment we are not at liberty to disclose though we believe that our readers will find the topical allusion rather more than an indication."*
+> - 📜 **James Joyce (*Ulysses*):** *"What had prevented him from completing a topical song (music by R."*

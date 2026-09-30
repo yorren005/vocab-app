@@ -5,15 +5,6 @@ status: unread
 ---
 # valor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But were the coming narrative to reveal, in any instance, the complete abasement of poor Starbuck’s fortitude, scarce might I have the heart to write it; for it is a thing most sorrowful, nay shocking, to expose the fall of valor in the soul."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The veteran legions of Rome were an overmatch for the undisciplined valor of all other nations and rendered her the mistress of the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But were the coming narrative to reveal, in any instance, the complete abasement of poor Starbuck’s fortitude, scarce might I have the heart to write it; for it is a thing most sorrowful, nay shocking, to expose the fall of valor in the soul."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The veteran legions of Rome were an overmatch for the undisciplined valor of all other nations and rendered her the mistress of the world."*

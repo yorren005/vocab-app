@@ -5,15 +5,6 @@ status: unread
 ---
 # arrival
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplishment of an objective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of arriving at a certain place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To spend that shortness basely were too long If life did ride upon a dial’s point, Still ending at the arrival of an hour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, demand of yonder champion The cause of his arrival here in arms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplishment of an objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of arriving at a certain place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To spend that shortness basely were too long If life did ride upon a dial’s point, Still ending at the arrival of an hour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, demand of yonder champion The cause of his arrival here in arms."*

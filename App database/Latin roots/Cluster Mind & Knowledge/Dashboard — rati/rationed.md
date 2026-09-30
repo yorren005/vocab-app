@@ -5,13 +5,6 @@ status: unread
 ---
 # rationed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restrict the consumption of a relatively scarce commodity, as during war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute in rations, as in the army.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"No bakeries, no stores, except small sutlers.' The bread had all to be baked; the boat rationed for two days; _eight hundred_ on board."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restrict the consumption of a relatively scarce commodity, as during war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute in rations, as in the army.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"No bakeries, no stores, except small sutlers.' The bread had all to be baked; the boat rationed for two days; _eight hundred_ on board."*

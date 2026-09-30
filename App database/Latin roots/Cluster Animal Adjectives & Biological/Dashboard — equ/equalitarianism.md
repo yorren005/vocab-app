@@ -5,13 +5,6 @@ status: unread
 ---
 # equalitarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the equality of mankind and the desirability of political and economic and social equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of the equality of mankind and the desirability of political and economic and social equality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equalitarianism designates the doctrine of the equality of mankind and the desirability of political and economic and social equality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the equality of mankind and the desirability of political and economic and social equality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of the equality of mankind and the desirability of political and economic and social equality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equalitarianism designates the doctrine of the equality of mankind and the desirability of political and economic and social equality."*

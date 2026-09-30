@@ -5,13 +5,6 @@ status: unread
 ---
 # deco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deco designates a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deco designates a style of design that was popular in the 1920s and 1930s; marked by stylized forms and geometric designs adapted to mass production."*

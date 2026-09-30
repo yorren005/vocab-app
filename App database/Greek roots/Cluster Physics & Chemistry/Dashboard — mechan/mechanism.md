@@ -5,15 +5,6 @@ status: unread
 ---
 # mechanism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of machinery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process, technique, or system for achieving a result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mechanism only transfers labour, being powerless to supersede it, and the original amount of exertion was not cleared away; it was thrown into the body and arms."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process, technique, or system for achieving a result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mechanism only transfers labour, being powerless to supersede it, and the original amount of exertion was not cleared away; it was thrown into the body and arms."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*

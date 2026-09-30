@@ -5,13 +5,6 @@ status: unread
 ---
 # cannabidaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannabidaceae designates two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannabidaceae designates two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae."*

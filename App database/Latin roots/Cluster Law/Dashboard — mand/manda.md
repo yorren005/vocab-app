@@ -5,15 +5,6 @@ status: unread
 ---
 # manda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dravidian language spoken in south central india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dravidian language spoken in south central india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"I wish he'd come once and we'd have some fun." As if in answer to her wish a boyish whistle rang out, followed by a long-drawn "Oo-oh, Manda, where are you?" "Here."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"He held his red- crowned head high and sang teasingly, "Manda, Manda, red-headed Manda; tee-legged, toe-legged, bow-legged Manda!" "Philip Reist," she shouted crossly, "I am not!"*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Mom says you should stop it." "Yea, that reminds me, Manda, what I come for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dravidian language spoken in south central india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dravidian language spoken in south central india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"I wish he'd come once and we'd have some fun." As if in answer to her wish a boyish whistle rang out, followed by a long-drawn "Oo-oh, Manda, where are you?" "Here."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"He held his red- crowned head high and sang teasingly, "Manda, Manda, red-headed Manda; tee-legged, toe-legged, bow-legged Manda!" "Philip Reist," she shouted crossly, "I am not!"*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Mom says you should stop it." "Yea, that reminds me, Manda, what I come for."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mollusc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But,” I continued, “the particular mollusc which secretes the pearl is the pearl-oyster, the meleagrina margaritifera, that precious pintadine."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They are formed alone in the tissue of the mollusc, are white, often opaque, and sometimes have the transparency of an opal; they are generally round or oval."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I approached this extraordinary mollusc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But,” I continued, “the particular mollusc which secretes the pearl is the pearl-oyster, the meleagrina margaritifera, that precious pintadine."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They are formed alone in the tissue of the mollusc, are white, often opaque, and sometimes have the transparency of an opal; they are generally round or oval."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I approached this extraordinary mollusc."*

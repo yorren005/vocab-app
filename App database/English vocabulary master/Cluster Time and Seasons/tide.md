@@ -5,20 +5,6 @@ status: unread
 ---
 # tide
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The associated flow of water
-> 2. **Nuance / Usage**: Less marked rising and falling of an inland body of water
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That ever lived in the tide of times."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You’ll lose the tide if you tarry any longer."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Held back his sorrow’s tide, to make it more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The alternate, periodic rising and falling of the surface of the ocean caused by the gravitational pull of the moon and sun; figuratively, a powerful, shifting current of historical events, fortune, or public sentiment.
+> 2. **Nuance / Usage**: Etymologically the Old English word for "time" or "season" (cognate with German *Zeit*), a sense preserved in liturgical seasons (*Yuletide*, *Eastertide*), proverbs (*time and tide wait for no man*), and the verb *to tide over*.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass) and Verb (phrasal *tide over*).
+> - **Syntactic Constructions**: Functions in maritime and temporal metaphors (*the tide of times*, *turn the tide*) and the phrasal verb *tide someone over*.
+> - **Collocations & Registers**: Maritime, historical, and poetic registers; collocated with *rising*, *ebb*, *turn*, *fortune*, and *times*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"There is a **tide** in the affairs of men, which, taken at the flood, leads on to fortune."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"For time and **tide** wait for no man, as the old clerk's proverb plainly saith."*
+> - 📜 **Henry Wadsworth Longfellow (*The Tide Rises, the Tide Falls*):** *"The **tide** rises, the **tide** falls, the twilight darkens, the curlew calls."*

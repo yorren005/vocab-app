@@ -5,15 +5,6 @@ status: unread
 ---
 # advice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposal for an appropriate course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal for an appropriate course of action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, young lords; these warlike principles Do not throw from you; and you, my lords, farewell; Share the advice betwixt you; if both gain all, The gift doth stretch itself as ’tis receiv’d, And is enough for both."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quarrel no more, but be prepared to know The purposes I bear; which are, or cease, As you shall give th’ advice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposal for an appropriate course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal for an appropriate course of action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, young lords; these warlike principles Do not throw from you; and you, my lords, farewell; Share the advice betwixt you; if both gain all, The gift doth stretch itself as ’tis receiv’d, And is enough for both."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quarrel no more, but be prepared to know The purposes I bear; which are, or cease, As you shall give th’ advice."*

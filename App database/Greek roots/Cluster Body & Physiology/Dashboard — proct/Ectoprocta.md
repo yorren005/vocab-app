@@ -5,13 +5,6 @@ status: unread
 ---
 # ectoprocta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with or a subphylum of bryozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with or a subphylum of bryozoa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ectoprocta designates coextensive with or a subphylum of bryozoa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with or a subphylum of bryozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with or a subphylum of bryozoa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ectoprocta designates coextensive with or a subphylum of bryozoa."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sophisticate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter deceptively; especially : adulterate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive of genuineness, naturalness, or simplicity; especially : to deprive of naïveté and make worldly-wise : disillusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! here’s three on’s are sophisticated!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She is so natural, a rare thing nowadays: the modern jeune fille is a sophisticated product." "Bravo, Lawrence!" cried Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter deceptively; especially : adulterate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive of genuineness, naturalness, or simplicity; especially : to deprive of naïveté and make worldly-wise : disillusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! here’s three on’s are sophisticated!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She is so natural, a rare thing nowadays: the modern jeune fille is a sophisticated product." "Bravo, Lawrence!" cried Mrs."*

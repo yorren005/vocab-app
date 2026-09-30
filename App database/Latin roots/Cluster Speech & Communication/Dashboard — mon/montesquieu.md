@@ -5,15 +5,6 @@ status: unread
 ---
 # montesquieu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French political philosopher who advocated the separation of executive and legislative and judicial powers (1689-1755).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French political philosopher who advocated the separation of executive and legislative and judicial powers (1689-1755).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The opponents of the plan proposed have, with great assiduity, cited and circulated the observations of Montesquieu on the necessity of a contracted territory for a republican government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"When Montesquieu recommends a small extent for republics, the standards he had in view were of dimensions far short of the limits of almost every one of these States."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As the confederate republic of Germany,” says Montesquieu, “consists of free cities and petty states, subject to different princes, experience shows us that it is more imperfect than that of Holland and Switzerland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French political philosopher who advocated the separation of executive and legislative and judicial powers (1689-1755).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French political philosopher who advocated the separation of executive and legislative and judicial powers (1689-1755).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The opponents of the plan proposed have, with great assiduity, cited and circulated the observations of Montesquieu on the necessity of a contracted territory for a republican government."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"When Montesquieu recommends a small extent for republics, the standards he had in view were of dimensions far short of the limits of almost every one of these States."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As the confederate republic of Germany,” says Montesquieu, “consists of free cities and petty states, subject to different princes, experience shows us that it is more imperfect than that of Holland and Switzerland."*

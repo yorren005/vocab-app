@@ -5,15 +5,6 @@ status: unread
 ---
 # equipped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with (something) usually for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with abilities or understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I told them that the place was not at all badly equipped, but that it was rather small, and the patients were of course very mixed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All that he has of certainty will be expended when he is fully equipped."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They suggested one distinct idea to her, for she said with her placid smile, and shaking her head, “My good Miss Summerson, at half the cost, this weak child might have been equipped for Africa!” On our going downstairs again, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with (something) usually for a specific purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with abilities or understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I told them that the place was not at all badly equipped, but that it was rather small, and the patients were of course very mixed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All that he has of certainty will be expended when he is fully equipped."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They suggested one distinct idea to her, for she said with her placid smile, and shaking her head, “My good Miss Summerson, at half the cost, this weak child might have been equipped for Africa!” On our going downstairs again, Mrs."*

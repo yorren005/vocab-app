@@ -5,13 +5,6 @@ status: unread
 ---
 # endosymbiont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosymbiont designates symbiosis in which a symbiont dwells within the body of its symbiotic partner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosymbiont designates symbiosis in which a symbiont dwells within the body of its symbiotic partner."*

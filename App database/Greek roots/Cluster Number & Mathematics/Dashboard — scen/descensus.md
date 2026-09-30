@@ -5,13 +5,6 @@ status: unread
 ---
 # descensus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The slipping or falling out of place of an organ (as the uterus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slipping or falling out of place of an organ (as the uterus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, descensus designates the slipping or falling out of place of an organ (as the uterus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The slipping or falling out of place of an organ (as the uterus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slipping or falling out of place of an organ (as the uterus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, descensus designates the slipping or falling out of place of an organ (as the uterus)."*

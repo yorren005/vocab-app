@@ -5,15 +5,6 @@ status: unread
 ---
 # nation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A politically organized body of people under a single government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The people who live in a nation or country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you could find out a country where but women were that had received so much shame, you might begin an impudent nation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, no, your son was misled with a snipt-taffeta fellow there, whose villanous saffron would have made all the unbak’d and doughy youth of a nation in his colour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks they are such a gentle nation that, but for the mountain of mad flesh that claims marriage of me, I could find in my heart to stay here still and turn witch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A politically organized body of people under a single government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The people who live in a nation or country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you could find out a country where but women were that had received so much shame, you might begin an impudent nation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, no, your son was misled with a snipt-taffeta fellow there, whose villanous saffron would have made all the unbak’d and doughy youth of a nation in his colour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks they are such a gentle nation that, but for the mountain of mad flesh that claims marriage of me, I could find in my heart to stay here still and turn witch."*

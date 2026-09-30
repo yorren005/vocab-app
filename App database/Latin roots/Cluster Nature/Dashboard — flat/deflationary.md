@@ -5,13 +5,6 @@ status: unread
 ---
 # deflationary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflationary designates associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflationary designates associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money."*

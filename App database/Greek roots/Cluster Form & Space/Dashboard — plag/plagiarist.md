@@ -5,14 +5,6 @@ status: unread
 ---
 # plagiarist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses another person's words or ideas as if they were his own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who uses another person's words or ideas as if they were his own.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The Rows of Casteele. _(Laughter.)_ LENEHAN: Plagiarist!"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here are two where the mistake has resulted from sound assisted by remote fact: PLAGIARIST, a writer of plays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses another person's words or ideas as if they were his own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who uses another person's words or ideas as if they were his own.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The Rows of Casteele. _(Laughter.)_ LENEHAN: Plagiarist!"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here are two where the mistake has resulted from sound assisted by remote fact: PLAGIARIST, a writer of plays."*

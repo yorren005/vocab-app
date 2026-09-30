@@ -5,15 +5,6 @@ status: unread
 ---
 # incontestable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being contested or disputed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not open to question; obviously true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But even stripped of these supernatural surmisings, there was enough in the earthly make and incontestable character of the monster to strike the imagination with unwonted power."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Certains droits et privilèges de la noblesse me paraissent être des moyens de soutenir ce sentiment.” * * “The principle of monarchies is honor seems to me incontestable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being contested or disputed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not open to question; obviously true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But even stripped of these supernatural surmisings, there was enough in the earthly make and incontestable character of the monster to strike the imagination with unwonted power."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Certains droits et privilèges de la noblesse me paraissent être des moyens de soutenir ce sentiment.” * * “The principle of monarchies is honor seems to me incontestable."*

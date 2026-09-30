@@ -5,15 +5,6 @@ status: unread
 ---
 # consultant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I insisted upon calling in a consultant from B--, whose verdict is that the lungs are seriously threatened."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Mead's function is to act as a consultant in these cases."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"After evaluating this information, the team called in consultants from both the Air Force and public sector to develop a comprehensive approach to suicide prevention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I insisted upon calling in a consultant from B--, whose verdict is that the lungs are seriously threatened."*
+> - 📜 **Algis Budrys (*Citadel*):** *"Mead's function is to act as a consultant in these cases."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"After evaluating this information, the team called in consultants from both the Air Force and public sector to develop a comprehensive approach to suicide prevention."*

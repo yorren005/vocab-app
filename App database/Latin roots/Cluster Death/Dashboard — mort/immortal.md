@@ -5,15 +5,6 @@ status: unread
 ---
 # immortal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (such as an author) of enduring fame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young gentlewoman had a father—O that “had!”, how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretch’d so far, would have made nature immortal, and death should have play for lack of work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I have him, but I would not be the party that should desire you to touch him, for his biting is immortal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have Immortal longings in me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (such as an author) of enduring fame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young gentlewoman had a father—O that “had!”, how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretch’d so far, would have made nature immortal, and death should have play for lack of work."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I have him, but I would not be the party that should desire you to touch him, for his biting is immortal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have Immortal longings in me."*

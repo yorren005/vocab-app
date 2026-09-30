@@ -5,15 +5,6 @@ status: unread
 ---
 # derogatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of low opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of low opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Which there is nothing derogatory, but far from it in the appellation,” says Mr."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is a new circumstance in romance, I acknowledge, and dreadfully derogatory of an heroine’s dignity; but if it be as new in common life, the credit of a wild imagination will at least be all my own."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There will be time enough to think about love when I want to, but now I have no time.” Besides, it seemed to him that the society of women was rather derogatory to his manhood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of low opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of low opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Which there is nothing derogatory, but far from it in the appellation,” says Mr."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is a new circumstance in romance, I acknowledge, and dreadfully derogatory of an heroine’s dignity; but if it be as new in common life, the credit of a wild imagination will at least be all my own."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There will be time enough to think about love when I want to, but now I have no time.” Besides, it seemed to him that the society of women was rather derogatory to his manhood."*

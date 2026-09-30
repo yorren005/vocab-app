@@ -5,15 +5,6 @@ status: unread
 ---
 # pensioner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beneficiary of a pension fund.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beneficiary of a pension fund.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Her crew was composed of some twenty venerable Greenwich-pensioner-looking old salts, who just managed to hobble about deck."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In April, 1782, Swift was entered at Trinity College as pensioner, together with his cousin Thomas, son of his uncle Thomas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beneficiary of a pension fund.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beneficiary of a pension fund.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Her crew was composed of some twenty venerable Greenwich-pensioner-looking old salts, who just managed to hobble about deck."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In April, 1782, Swift was entered at Trinity College as pensioner, together with his cousin Thomas, son of his uncle Thomas."*

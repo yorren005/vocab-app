@@ -5,15 +5,6 @@ status: unread
 ---
 # regent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a governing board.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rules during the absence or incapacity or minority of the country's monarch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford, Regent of France; the Duke of Gloucester, Protector; the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, the Duke of Somerset with Heralds, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me they concern; Regent I am of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois, Walloon and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a governing board.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rules during the absence or incapacity or minority of the country's monarch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford, Regent of France; the Duke of Gloucester, Protector; the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, the Duke of Somerset with Heralds, &c."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me they concern; Regent I am of France."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois, Walloon and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted."*

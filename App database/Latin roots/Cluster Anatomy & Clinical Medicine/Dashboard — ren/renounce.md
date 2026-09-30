@@ -5,15 +5,6 @@ status: unread
 ---
 # renounce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give up, such as power, as of monarchs and emperors, or duties and obligations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave (a job, post, or position) voluntarily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only this proof I’ll of thy valour make: In single combat thou shalt buckle with me, And if thou vanquishest, thy words are true; Otherwise I renounce all confidence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They call’d us for our fierceness, English dogs; Now like to whelps we crying run away. [_A short alarum._] Hark, countrymen, either renew the fight, Or tear the lions out of England’s coat; Renounce your soil, give sheep in lions’ stead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame on himself, for my desert is honour; And to repair my honour lost for him, I here renounce him and return to Henry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give up, such as power, as of monarchs and emperors, or duties and obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave (a job, post, or position) voluntarily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only this proof I’ll of thy valour make: In single combat thou shalt buckle with me, And if thou vanquishest, thy words are true; Otherwise I renounce all confidence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They call’d us for our fierceness, English dogs; Now like to whelps we crying run away. [_A short alarum._] Hark, countrymen, either renew the fight, Or tear the lions out of England’s coat; Renounce your soil, give sheep in lions’ stead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame on himself, for my desert is honour; And to repair my honour lost for him, I here renounce him and return to Henry."*

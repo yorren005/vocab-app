@@ -5,15 +5,6 @@ status: unread
 ---
 # picturesquely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a picturesque manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a picturesque manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Peter Shelby put that objection much more picturesquely than Lee Greenfield," Aunt Augusta snapped."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thanks: here I refill; now, you pour out again.’ “Freely depicted in his own vocation, gentlemen, the Canaller would make a fine dramatic hero, so abundantly and picturesquely wicked is he."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Between eight and nine.” She nodded to the dressmaker, whom she knew and who had curtsied respectfully to her, and seated herself in an armchair beside the looking glass, draping the folds of her velvet dress picturesquely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a picturesque manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a picturesque manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Peter Shelby put that objection much more picturesquely than Lee Greenfield," Aunt Augusta snapped."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thanks: here I refill; now, you pour out again.’ “Freely depicted in his own vocation, gentlemen, the Canaller would make a fine dramatic hero, so abundantly and picturesquely wicked is he."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Between eight and nine.” She nodded to the dressmaker, whom she knew and who had curtsied respectfully to her, and seated herself in an armchair beside the looking glass, draping the folds of her velvet dress picturesquely."*

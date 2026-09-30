@@ -5,13 +5,6 @@ status: unread
 ---
 # ametropia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametropia designates (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametropia designates (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia."*

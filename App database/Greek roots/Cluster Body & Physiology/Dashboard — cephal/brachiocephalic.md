@@ -5,13 +5,6 @@ status: unread
 ---
 # brachiocephalic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short artery that arises from the arch of the aorta and divides into the carotid and subclavian arteries of the right side —called also innominate artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two large veins that occur one on each side of the neck, receive blood from the head and neck, and unite to form the superior vena cava —called also innominate vein.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiocephalic designates a short artery that arises from the arch of the aorta and divides into the carotid and subclavian arteries of the right side —called also innominate artery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short artery that arises from the arch of the aorta and divides into the carotid and subclavian arteries of the right side —called also innominate artery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two large veins that occur one on each side of the neck, receive blood from the head and neck, and unite to form the superior vena cava —called also innominate vein.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiocephalic designates a short artery that arises from the arch of the aorta and divides into the carotid and subclavian arteries of the right side —called also innominate artery."*

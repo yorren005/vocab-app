@@ -5,13 +5,6 @@ status: unread
 ---
 # cleistocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistocarp designates closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistocarp designates closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration."*

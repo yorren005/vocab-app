@@ -5,13 +5,6 @@ status: unread
 ---
 # unarticulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of segments that are held together by joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttered without the use of normal words or syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulated designates not consisting of segments that are held together by joints."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of segments that are held together by joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttered without the use of normal words or syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulated designates not consisting of segments that are held together by joints."*

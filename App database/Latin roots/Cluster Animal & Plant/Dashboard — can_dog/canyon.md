@@ -5,15 +5,6 @@ status: unread
 ---
 # canyon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ravine formed by a river in an area with little rainfall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ravine formed by a river in an area with little rainfall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was just a bleak waste of a landscape, barren of trees and vegetation, a shallow canyon with easy-sloping walls of rubble."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"From the river we directed our course toward a deep canyon which, opening toward us as if the bluff had been riven asunder by some great convulsion of Nature, at its further end reached the level of the plains, and offered us an easy ascent."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Evidence of volcanic action appeared along the canyon in the form of vitrified fragments and occasional masses of lava resembling rock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ravine formed by a river in an area with little rainfall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ravine formed by a river in an area with little rainfall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was just a bleak waste of a landscape, barren of trees and vegetation, a shallow canyon with easy-sloping walls of rubble."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"From the river we directed our course toward a deep canyon which, opening toward us as if the bluff had been riven asunder by some great convulsion of Nature, at its further end reached the level of the plains, and offered us an easy ascent."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Evidence of volcanic action appeared along the canyon in the form of vitrified fragments and occasional masses of lava resembling rock."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # creamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the color of cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like cream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the spermaceti itself, how bland and creamy that is; like the transparent, half-jellied, white meat of a cocoanut in the third month of its growth, yet far too rich to supply a substitute for butter."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Take the reel, one of ye, I’ll heave.” They went towards the extreme stern, on the ship’s lee side, where the deck, with the oblique energy of the wind, was now almost dipping into the creamy, sidelong-rushing sea."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When I reached it, it had subsided to a creamy pool."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the color of cream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like cream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the spermaceti itself, how bland and creamy that is; like the transparent, half-jellied, white meat of a cocoanut in the third month of its growth, yet far too rich to supply a substitute for butter."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Take the reel, one of ye, I’ll heave.” They went towards the extreme stern, on the ship’s lee side, where the deck, with the oblique energy of the wind, was now almost dipping into the creamy, sidelong-rushing sea."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When I reached it, it had subsided to a creamy pool."*

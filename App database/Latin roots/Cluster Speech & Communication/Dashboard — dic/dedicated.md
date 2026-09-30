@@ -5,15 +5,6 @@ status: unread
 ---
 # dedicated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to public use, as of a highway, park, or building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"LXXXII I grant thou wert not married to my Muse, And therefore mayst without attaint o’erlook The dedicated words which writers use Of their fair subject, blessing every book."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There he anew dedicated himself and his all to the service of Christ."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Each lad tried to send his disc fizzing and flaring through the darkness as far as possible, and in discharging it he mentioned the name of the person to whose honour it was dedicated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to public use, as of a highway, park, or building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"LXXXII I grant thou wert not married to my Muse, And therefore mayst without attaint o’erlook The dedicated words which writers use Of their fair subject, blessing every book."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"There he anew dedicated himself and his all to the service of Christ."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Each lad tried to send his disc fizzing and flaring through the darkness as far as possible, and in discharging it he mentioned the name of the person to whose honour it was dedicated."*

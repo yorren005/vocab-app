@@ -5,15 +5,6 @@ status: unread
 ---
 # prefer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like better; value more highly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select as an alternative over another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not so far prefer her ’fore ours of Italy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are most bound to th’ King, Who lets go by no vantages that may Prefer you to his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman Emperor’s letters, Sent by a consul to me, should not sooner Than thine own worth prefer thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like better; value more highly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select as an alternative over another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not so far prefer her ’fore ours of Italy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are most bound to th’ King, Who lets go by no vantages that may Prefer you to his daughter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman Emperor’s letters, Sent by a consul to me, should not sooner Than thine own worth prefer thee."*

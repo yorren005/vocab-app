@@ -5,15 +5,6 @@ status: unread
 ---
 # patiently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With patience; in a patient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With patience; in a patient manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To speak my mind, and I will through and through Cleanse the foul body of th’ infected world, If they will patiently receive my medicine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I should pay your worship those again, Perchance you will not bear them patiently."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With patience; in a patient manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With patience; in a patient manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To speak my mind, and I will through and through Cleanse the foul body of th’ infected world, If they will patiently receive my medicine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I should pay your worship those again, Perchance you will not bear them patiently."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*

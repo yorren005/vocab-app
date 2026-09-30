@@ -5,13 +5,6 @@ status: unread
 ---
 # saprolegnia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic fungi growing chiefly on plant debris and animal remains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic fungi growing chiefly on plant debris and animal remains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprolegnia designates aquatic fungi growing chiefly on plant debris and animal remains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic fungi growing chiefly on plant debris and animal remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic fungi growing chiefly on plant debris and animal remains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprolegnia designates aquatic fungi growing chiefly on plant debris and animal remains."*

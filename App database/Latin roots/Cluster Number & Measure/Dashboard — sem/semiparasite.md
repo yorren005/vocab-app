@@ -5,13 +5,6 @@ status: unread
 ---
 # semiparasite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiparasite designates a parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiparasite designates a parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis."*

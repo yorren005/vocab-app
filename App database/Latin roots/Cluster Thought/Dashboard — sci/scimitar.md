@@ -5,15 +5,6 @@ status: unread
 ---
 # scimitar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved oriental saber; the edge is on the convex side of the blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved oriental saber; the edge is on the convex side of the blade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by the burning tapers of the sky That shone so brightly when this boy was got, He dies upon my scimitar’s sharp point That touches this my first-born son and heir."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll heat his blood with Greekish wine tonight, Which with my scimitar I’ll cool tomorrow."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Twisting and turning formed a half-meter long scimitar and bending it slightly along its length added a curve comparable to the ancient Australian boomerang."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved oriental saber; the edge is on the convex side of the blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved oriental saber; the edge is on the convex side of the blade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by the burning tapers of the sky That shone so brightly when this boy was got, He dies upon my scimitar’s sharp point That touches this my first-born son and heir."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll heat his blood with Greekish wine tonight, Which with my scimitar I’ll cool tomorrow."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Twisting and turning formed a half-meter long scimitar and bending it slightly along its length added a curve comparable to the ancient Australian boomerang."*

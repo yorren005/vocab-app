@@ -5,15 +5,6 @@ status: unread
 ---
 # versatility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a wide variety of skills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a wide variety of skills.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The trust companies, however, with their greater versatility, are increasing in number."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"In evidence of the versatility of his pursuits, the veteran author of a short and ungenerous memoir that was published in "The Times" of May the 10th contributes one interesting note."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not too much, I think, to assert that Goethe could never have become so uniquely great, not even through the splendid versatility of his genius, but for that incomparable self-control, which he made the watchword of his life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a wide variety of skills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a wide variety of skills.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The trust companies, however, with their greater versatility, are increasing in number."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"In evidence of the versatility of his pursuits, the veteran author of a short and ungenerous memoir that was published in "The Times" of May the 10th contributes one interesting note."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not too much, I think, to assert that Goethe could never have become so uniquely great, not even through the splendid versatility of his genius, but for that incomparable self-control, which he made the watchword of his life."*

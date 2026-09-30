@@ -5,15 +5,6 @@ status: unread
 ---
 # celerity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate that is rapid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate that is rapid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do think there is mettle in death which commits some loving act upon her, she hath such a celerity in dying."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celerity is never more admired Than by the negligent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus with imagin’d wing our swift scene flies, In motion of no less celerity Than that of thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate that is rapid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate that is rapid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do think there is mettle in death which commits some loving act upon her, she hath such a celerity in dying."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celerity is never more admired Than by the negligent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus with imagin’d wing our swift scene flies, In motion of no less celerity Than that of thought."*

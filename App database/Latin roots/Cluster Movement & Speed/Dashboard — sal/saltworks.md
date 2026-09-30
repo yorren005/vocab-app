@@ -5,13 +5,6 @@ status: unread
 ---
 # saltworks
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant where salt is produced commercially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant where salt is produced commercially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltworks designates a plant where salt is produced commercially."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant where salt is produced commercially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant where salt is produced commercially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltworks designates a plant where salt is produced commercially."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # petitionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of or expressing a petition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the nature of or expressing a petition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I prithee now, with most petitionary vehemence, tell me who it is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was hardly moved to come to thee; but being assured none but myself could move thee, I have been blown out of your gates with sighs, and conjure thee to pardon Rome and thy petitionary countrymen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of or expressing a petition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the nature of or expressing a petition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I prithee now, with most petitionary vehemence, tell me who it is."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was hardly moved to come to thee; but being assured none but myself could move thee, I have been blown out of your gates with sighs, and conjure thee to pardon Rome and thy petitionary countrymen."*

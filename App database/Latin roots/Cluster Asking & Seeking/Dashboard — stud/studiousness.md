@@ -5,13 +5,6 @@ status: unread
 ---
 # studiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diligent study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diligent study.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, studiousness designates diligent study."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diligent study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diligent study.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, studiousness designates diligent study."*

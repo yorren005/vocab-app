@@ -5,13 +5,6 @@ status: unread
 ---
 # penn'orth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that can be bought for a penny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount that can be bought for a penny.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penn'orth designates the amount that can be bought for a penny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that can be bought for a penny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount that can be bought for a penny.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penn'orth designates the amount that can be bought for a penny."*

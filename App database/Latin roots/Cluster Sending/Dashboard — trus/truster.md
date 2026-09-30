@@ -5,14 +5,6 @@ status: unread
 ---
 # truster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter who accepts something as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporter who accepts something as true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not hear your enemy say so; Nor shall you do my ear that violence, To make it truster of your own report Against yourself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bankrupts, hold fast; Rather than render back, out with your knives And cut your trusters’ throats!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter who accepts something as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporter who accepts something as true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not hear your enemy say so; Nor shall you do my ear that violence, To make it truster of your own report Against yourself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bankrupts, hold fast; Rather than render back, out with your knives And cut your trusters’ throats!"*

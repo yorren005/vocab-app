@@ -5,13 +5,6 @@ status: unread
 ---
 # sculling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rowing by a single oarsman in a racing shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propel with sculls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculling designates rowing by a single oarsman in a racing shell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rowing by a single oarsman in a racing shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propel with sculls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculling designates rowing by a single oarsman in a racing shell."*

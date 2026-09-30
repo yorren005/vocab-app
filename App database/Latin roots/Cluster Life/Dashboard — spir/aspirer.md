@@ -5,13 +5,6 @@ status: unread
 ---
 # aspirer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ambitious and aspiring young person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ambitious and aspiring young person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspirer designates an ambitious and aspiring young person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ambitious and aspiring young person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ambitious and aspiring young person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspirer designates an ambitious and aspiring young person."*

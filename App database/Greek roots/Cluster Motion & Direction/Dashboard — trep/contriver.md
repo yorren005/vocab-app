@@ -5,15 +5,6 @@ status: unread
 ---
 # contriver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes plans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes plans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How did you dare To trade and traffic with Macbeth In riddles and affairs of death; And I, the mistress of your charms, The close contriver of all harms, Was never call’d to bear my part, Or show the glory of our art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come and take choice of all my library, And so beguile thy sorrow, till the heavens Reveal the damned contriver of this deed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes plans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes plans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How did you dare To trade and traffic with Macbeth In riddles and affairs of death; And I, the mistress of your charms, The close contriver of all harms, Was never call’d to bear my part, Or show the glory of our art?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come and take choice of all my library, And so beguile thy sorrow, till the heavens Reveal the damned contriver of this deed."*

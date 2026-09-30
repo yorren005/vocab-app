@@ -5,15 +5,6 @@ status: unread
 ---
 # grotesquely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grotesque manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a grotesque manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Our dreams are grotesquely compounded of the things we know."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the end of the time she bathes, her person is loaded with ornaments, her face is grotesquely painted with red stripes on a white ground, and thus adorned she is brought forth in public to be admired by everybody."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The stick is sometimes a grotesquely-formed limb of a tree, with three or four branches twisting from its body like so many shapeless legs, and sustaining it two or three feet from the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grotesque manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a grotesque manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Our dreams are grotesquely compounded of the things we know."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the end of the time she bathes, her person is loaded with ornaments, her face is grotesquely painted with red stripes on a white ground, and thus adorned she is brought forth in public to be admired by everybody."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The stick is sometimes a grotesquely-formed limb of a tree, with three or four branches twisting from its body like so many shapeless legs, and sustaining it two or three feet from the ground."*

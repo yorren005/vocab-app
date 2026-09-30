@@ -5,15 +5,6 @@ status: unread
 ---
 # fumed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be mad, angry, or furious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emit a cloud of fine particles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And while he fumed and strutted I glimpsed Robert Lanfranc, beckoned him to us, and explained the happening."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sooner he marries that lazy lollypop the better," fumed Uncle Peter, as he waited at the gate."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I fretted and fumed and took to arguing with myself whether or no I would talk openly with Kurtz; but before I could come to any conclusion it occurred to me that my speech or my silence, indeed any action of mine, would be a mere futility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be mad, angry, or furious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emit a cloud of fine particles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And while he fumed and strutted I glimpsed Robert Lanfranc, beckoned him to us, and explained the happening."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sooner he marries that lazy lollypop the better," fumed Uncle Peter, as he waited at the gate."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I fretted and fumed and took to arguing with myself whether or no I would talk openly with Kurtz; but before I could come to any conclusion it occurred to me that my speech or my silence, indeed any action of mine, would be a mere futility."*

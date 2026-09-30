@@ -5,15 +5,6 @@ status: unread
 ---
 # divorce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal dissolution of a marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Part; cease or break association with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it appear not plain, and prove untrue, Deadly divorce step between me and you!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet earl, divorce not wisdom from your honour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal dissolution of a marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Part; cease or break association with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it appear not plain, and prove untrue, Deadly divorce step between me and you!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet earl, divorce not wisdom from your honour."*

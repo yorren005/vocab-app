@@ -5,15 +5,6 @@ status: unread
 ---
 # peradventure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt or uncertainty as to whether something is the case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By chance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peradventure I will with ye to the court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is more good toward you peradventure than is in your knowledge to dream of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt or uncertainty as to whether something is the case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By chance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peradventure I will with ye to the court."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is more good toward you peradventure than is in your knowledge to dream of."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # aphasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the power to use or comprehend words usually resulting from brain damage (as from a stroke, head injury, or infection).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the power to use or comprehend words usually resulting from brain damage (as from a stroke, head injury, or infection).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In clear speech, and in aphasia, they indicated their founder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the power to use or comprehend words usually resulting from brain damage (as from a stroke, head injury, or infection).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the power to use or comprehend words usually resulting from brain damage (as from a stroke, head injury, or infection).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In clear speech, and in aphasia, they indicated their founder."*

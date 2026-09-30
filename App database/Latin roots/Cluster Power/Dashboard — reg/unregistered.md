@@ -5,15 +5,6 @@ status: unread
 ---
 # unregistered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) not recorded with or certified by an official breed association.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not registered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found you as a morsel cold upon Dead Caesar’s trencher; nay, you were a fragment Of Gneius Pompey’s, besides what hotter hours, Unregistered in vulgar fame, you have Luxuriously pick’d out."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Spacetrack Ceres confirms unregistered objects proximate your position."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Thirty-five seconds later, sister ship Blue Fox, on directed survey of the Planet Pluto Special Zone for unregistered space debris and contraband was similarly attacked and destroyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) not recorded with or certified by an official breed association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not registered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found you as a morsel cold upon Dead Caesar’s trencher; nay, you were a fragment Of Gneius Pompey’s, besides what hotter hours, Unregistered in vulgar fame, you have Luxuriously pick’d out."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Spacetrack Ceres confirms unregistered objects proximate your position."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Thirty-five seconds later, sister ship Blue Fox, on directed survey of the Planet Pluto Special Zone for unregistered space debris and contraband was similarly attacked and destroyed."*

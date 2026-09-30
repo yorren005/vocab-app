@@ -5,15 +5,6 @@ status: unread
 ---
 # practice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out, apply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To do or perform often, customarily, or habitually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my lord; this is Monsieur Parolles, the gallant militarist (that was his own phrase), that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He alone Dealt on lieutenantry, and no practice had In the brave squares of war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness Shall from this practice but make hard your heart; Besides, the seeing these effects will be Both noisome and infectious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out, apply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To do or perform often, customarily, or habitually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my lord; this is Monsieur Parolles, the gallant militarist (that was his own phrase), that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He alone Dealt on lieutenantry, and no practice had In the brave squares of war."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness Shall from this practice but make hard your heart; Besides, the seeing these effects will be Both noisome and infectious."*

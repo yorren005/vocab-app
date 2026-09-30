@@ -5,15 +5,6 @@ status: unread
 ---
 # spic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) offensive term for persons of latin american descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely neat and clean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Spiced wine he would have from no other cup than the skull of Guthlaf."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I stood at Tostig Lodbrog’s shoulder, holding the skull of Guthlaf that steamed and stank with the hot, spiced wine."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Some women are so feminine that they are sticky, unless well spiced with deviltry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) offensive term for persons of latin american descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely neat and clean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Spiced wine he would have from no other cup than the skull of Guthlaf."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I stood at Tostig Lodbrog’s shoulder, holding the skull of Guthlaf that steamed and stank with the hot, spiced wine."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Some women are so feminine that they are sticky, unless well spiced with deviltry."*

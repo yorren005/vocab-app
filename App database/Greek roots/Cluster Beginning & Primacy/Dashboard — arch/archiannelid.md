@@ -5,13 +5,6 @@ status: unread
 ---
 # archiannelid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small primitive marine worm lacking external segmentation and resembling polychaete larvae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small primitive marine worm lacking external segmentation and resembling polychaete larvae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archiannelid designates small primitive marine worm lacking external segmentation and resembling polychaete larvae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small primitive marine worm lacking external segmentation and resembling polychaete larvae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small primitive marine worm lacking external segmentation and resembling polychaete larvae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archiannelid designates small primitive marine worm lacking external segmentation and resembling polychaete larvae."*

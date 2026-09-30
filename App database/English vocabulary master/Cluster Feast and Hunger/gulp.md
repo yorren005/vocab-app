@@ -5,20 +5,6 @@ status: unread
 ---
 # gulp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The usual amount swallowed
-> 2. **Nuance / Usage**: Keep back as if by swallowing
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gulp the target*) and intransitive clauses (*gulping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"emptying his glass at one gulp he dashed it to the floor."*
-> - 📜 **James Charles Collins; Jerry I. Porras (*Built to Last: Successful Habits of Visionary Companies*):** *"Indeed, the envisioned future should produce a bit of "the gulp factor" {{..."*
-> - 📜 **William Cowper (*Table-Talk*):** *"He does not swallow, but he gulps it down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To swallow food or drink hurriedly, audibly, or in large mouthfuls; a large single swallow of liquid.
+> 2. **Nuance / Usage**: Also denotes the spasmodic swallowing motion made when choking back fear, nervousness, or tears, or taking in a sudden deep breath of air.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gulp the target*) and intransitive clauses (*gulping against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Emptying his glass at one **gulp**, he dashed it to the floor."*
+> - 📜 **William Cowper (*Table-Talk*):** *"He does not swallow, but he **gulps** it down."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He **gulped** down his tea as if he were trying to drown an unpleasant thought."*

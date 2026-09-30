@@ -5,13 +5,6 @@ status: unread
 ---
 # coalescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of diverse things into one body or form or group; the growing together of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The union of diverse things into one body or form or group; the growing together of parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Impossible coalescence Mind is the grand creator, and there can be no power 143:27 except that which is derived from Mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of diverse things into one body or form or group; the growing together of parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The union of diverse things into one body or form or group; the growing together of parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Impossible coalescence Mind is the grand creator, and there can be no power 143:27 except that which is derived from Mind."*

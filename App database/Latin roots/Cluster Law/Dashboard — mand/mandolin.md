@@ -5,15 +5,6 @@ status: unread
 ---
 # mandolin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stringed instrument related to the lute, usually played with a plectrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stringed instrument related to the lute, usually played with a plectrum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Would it not be rash to conclude that there was no passion behind those sonnets to Delia which strike us as the thin music of a mandolin?"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a table by her side lay a mandolin and an apple."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At one place a group had gathered about a fellow who was playing rather nicely an instrument resembling a mandolin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stringed instrument related to the lute, usually played with a plectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stringed instrument related to the lute, usually played with a plectrum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Would it not be rash to conclude that there was no passion behind those sonnets to Delia which strike us as the thin music of a mandolin?"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a table by her side lay a mandolin and an apple."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At one place a group had gathered about a fellow who was playing rather nicely an instrument resembling a mandolin."*

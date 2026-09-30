@@ -5,15 +5,6 @@ status: unread
 ---
 # mutineer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is openly rebellious and refuses to obey authorities (especially seamen or soldiers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is openly rebellious and refuses to obey authorities (especially seamen or soldiers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Trinculo, keep a good tongue in your head: if you prove a mutineer, the next tree!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Cheever._ “If you make the least damn bit of noise,” replied Samuel, “I will send you to hell.” _Life of Samuel Comstock (the mutineer), by his brother, William Comstock."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The mutineer was the bowsman of the mate, and when fast to a fish, it was his duty to sit next him, while Radney stood up with his lance in the prow, and haul in or slacken the line, at the word of command."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is openly rebellious and refuses to obey authorities (especially seamen or soldiers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is openly rebellious and refuses to obey authorities (especially seamen or soldiers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Trinculo, keep a good tongue in your head: if you prove a mutineer, the next tree!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Cheever._ “If you make the least damn bit of noise,” replied Samuel, “I will send you to hell.” _Life of Samuel Comstock (the mutineer), by his brother, William Comstock."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The mutineer was the bowsman of the mate, and when fast to a fish, it was his duty to sit next him, while Radney stood up with his lance in the prow, and haul in or slacken the line, at the word of command."*

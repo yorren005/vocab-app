@@ -5,15 +5,6 @@ status: unread
 ---
 # stereotyped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat or classify according to a mental stereotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spontaneity or originality or individuality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There, those are the stereotyped forms."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"When he emerged from them he was fifty-four years of age, he had passed beyond the time of life when his creative powers were at their freshest, and the general habits of his life and lines of his activity had become settled and stereotyped."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The teaching posture of Buddha's hand is stereotyped in his images."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat or classify according to a mental stereotype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spontaneity or originality or individuality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There, those are the stereotyped forms."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"When he emerged from them he was fifty-four years of age, he had passed beyond the time of life when his creative powers were at their freshest, and the general habits of his life and lines of his activity had become settled and stereotyped."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The teaching posture of Buddha's hand is stereotyped in his images."*

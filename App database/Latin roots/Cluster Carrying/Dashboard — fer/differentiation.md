@@ -5,13 +5,6 @@ status: unread
 ---
 # differentiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discrimination between things as different and distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mathematical process of obtaining the derivative of a function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Social progress, as we know, consists mainly in a successive differentiation of functions, or, in simpler language, a division of labour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discrimination between things as different and distinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mathematical process of obtaining the derivative of a function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Social progress, as we know, consists mainly in a successive differentiation of functions, or, in simpler language, a division of labour."*

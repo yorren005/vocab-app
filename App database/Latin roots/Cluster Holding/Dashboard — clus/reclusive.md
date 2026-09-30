@@ -5,13 +5,6 @@ status: unread
 ---
 # reclusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawn from society; seeking solitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing privacy or seclusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclusive designates withdrawn from society; seeking solitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawn from society; seeking solitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing privacy or seclusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclusive designates withdrawn from society; seeking solitude."*

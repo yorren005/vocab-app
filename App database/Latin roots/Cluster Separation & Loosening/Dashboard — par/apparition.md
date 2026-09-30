@@ -5,15 +5,6 @@ status: unread
 ---
 # apparition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghostly appearing figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of a ghostlike figure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, as in an apparition, Sicilius Leonatus, father to Posthumus, an old man attired like a warrior; leading in his hand an ancient matron, his wife and Mother to Posthumus, with music before them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore I have entreated him along With us to watch the minutes of this night, That if again this apparition come He may approve our eyes and speak to it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to me In dreadful secrecy impart they did, And I with them the third night kept the watch, Where, as they had deliver’d, both in time, Form of the thing, each word made true and good, The apparition comes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghostly appearing figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of a ghostlike figure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, as in an apparition, Sicilius Leonatus, father to Posthumus, an old man attired like a warrior; leading in his hand an ancient matron, his wife and Mother to Posthumus, with music before them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore I have entreated him along With us to watch the minutes of this night, That if again this apparition come He may approve our eyes and speak to it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to me In dreadful secrecy impart they did, And I with them the third night kept the watch, Where, as they had deliver’d, both in time, Form of the thing, each word made true and good, The apparition comes."*

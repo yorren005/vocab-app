@@ -5,13 +5,6 @@ status: unread
 ---
 # carnosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large carnivorous bipedal dinosaur having huge claws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large carnivorous bipedal dinosaur having huge claws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnosaur designates large carnivorous bipedal dinosaur having huge claws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large carnivorous bipedal dinosaur having huge claws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large carnivorous bipedal dinosaur having huge claws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnosaur designates large carnivorous bipedal dinosaur having huge claws."*

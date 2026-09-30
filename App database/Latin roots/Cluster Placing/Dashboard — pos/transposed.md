@@ -5,15 +5,6 @@ status: unread
 ---
 # transposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the order or arrangement of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer from one place or period to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You have only knowledge enough of the language to translate at sight these inverted, transposed, curtailed Italian lines, into clear, comprehensible, elegant English."*
-> - 📜 **James Joyce (*Ulysses*):** *"Miss Kennedy with manners transposed the teatray down to an upturned lithia crate, safe from eyes, low. —What is it? loud boots unmannerly asked. —Find out, miss Douce retorted, leaving her spyingpoint. —Your _beau,_ is it?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If a section is to be transposed, a question must be put on striking it out where it stands and another for inserting it in the place desired."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the order or arrangement of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer from one place or period to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"You have only knowledge enough of the language to translate at sight these inverted, transposed, curtailed Italian lines, into clear, comprehensible, elegant English."*
+> - 📜 **James Joyce (*Ulysses*):** *"Miss Kennedy with manners transposed the teatray down to an upturned lithia crate, safe from eyes, low. —What is it? loud boots unmannerly asked. —Find out, miss Douce retorted, leaving her spyingpoint. —Your _beau,_ is it?"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If a section is to be transposed, a question must be put on striking it out where it stands and another for inserting it in the place desired."*

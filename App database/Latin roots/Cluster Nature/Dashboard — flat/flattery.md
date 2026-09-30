@@ -5,15 +5,6 @@ status: unread
 ---
 # flattery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or insincere praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive or insincere praise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, gentle brother, get you in again; Comfort my sister, cheer her, call her wife. ’Tis holy sport to be a little vain When the sweet breath of flattery conquers strife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or insincere praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive or insincere praise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, gentle brother, get you in again; Comfort my sister, cheer her, call her wife. ’Tis holy sport to be a little vain When the sweet breath of flattery conquers strife."*

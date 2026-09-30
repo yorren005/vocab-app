@@ -5,13 +5,6 @@ status: unread
 ---
 # sister-in-law
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sister of your spouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sister of your spouse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sister-in-law designates the sister of your spouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sister of your spouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sister of your spouse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sister-in-law designates the sister of your spouse."*

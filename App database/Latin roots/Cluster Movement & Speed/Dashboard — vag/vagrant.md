@@ -5,15 +5,6 @@ status: unread
 ---
 # vagrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wanderer who has no established residence or visible means of support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually changing especially as from one abode or occupation to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On the day of the missionary's visit, he was in a prison cell, committed as a vagrant and common drunkard."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I tell you this vagrant fisherman, this wandering preacher, this piece of driftage from Galilee, commanded me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I’ll give you a piece of bread,” she said, after a pause; “but we can’t take in a vagrant to lodge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wanderer who has no established residence or visible means of support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually changing especially as from one abode or occupation to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"On the day of the missionary's visit, he was in a prison cell, committed as a vagrant and common drunkard."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I tell you this vagrant fisherman, this wandering preacher, this piece of driftage from Galilee, commanded me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I’ll give you a piece of bread,” she said, after a pause; “but we can’t take in a vagrant to lodge."*

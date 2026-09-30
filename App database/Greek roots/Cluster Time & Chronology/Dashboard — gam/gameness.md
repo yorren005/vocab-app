@@ -5,13 +5,6 @@ status: unread
 ---
 # gameness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disability of walking due to crippling of the legs or feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disability of walking due to crippling of the legs or feet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gameness designates disability of walking due to crippling of the legs or feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disability of walking due to crippling of the legs or feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disability of walking due to crippling of the legs or feet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gameness designates disability of walking due to crippling of the legs or feet."*

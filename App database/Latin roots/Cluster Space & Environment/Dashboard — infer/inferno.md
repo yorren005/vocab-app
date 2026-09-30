@@ -5,15 +5,6 @@ status: unread
 ---
 # inferno
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of pain and turmoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very intense and uncontrolled fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet we could learn nothing from such transient and ofttimes stupid Dantes who would remain in our inferno too short a time to learn knuckle-talk ere they went forth again into the bright wide world of the living."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Other legends, however, state that the veritable and primordial lord of the Hawaiian inferno was called Manua."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The inferno itself bore a number of names, such as Po-pau-ole, Po-kua-kini, Po-kini-kini, Po-papa-ia-owa, Po-ia-milu."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of pain and turmoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very intense and uncontrolled fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet we could learn nothing from such transient and ofttimes stupid Dantes who would remain in our inferno too short a time to learn knuckle-talk ere they went forth again into the bright wide world of the living."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Other legends, however, state that the veritable and primordial lord of the Hawaiian inferno was called Manua."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The inferno itself bore a number of names, such as Po-pau-ole, Po-kua-kini, Po-kini-kini, Po-papa-ia-owa, Po-ia-milu."*

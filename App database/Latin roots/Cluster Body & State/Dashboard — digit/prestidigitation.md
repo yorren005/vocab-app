@@ -5,13 +5,6 @@ status: unread
 ---
 # prestidigitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manual dexterity in the execution of tricks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manual dexterity in the execution of tricks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My God—how can forgiveness meet such a grotesque—prestidigitation as that!” He paused, contemplating this definition; then suddenly broke into horrible laughter—as unnatural and ghastly as a laugh in hell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manual dexterity in the execution of tricks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manual dexterity in the execution of tricks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My God—how can forgiveness meet such a grotesque—prestidigitation as that!” He paused, contemplating this definition; then suddenly broke into horrible laughter—as unnatural and ghastly as a laugh in hell."*

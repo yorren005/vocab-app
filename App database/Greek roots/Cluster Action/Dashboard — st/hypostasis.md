@@ -5,14 +5,6 @@ status: unread
 ---
 # hypostasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that settles at the bottom of a fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The settling of blood in the dependent parts of an organ or body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A misty English morning the imp hypostasis tickled his brain."*
-> - 📜 **James Joyce (*Ulysses*):** *"Visually, Stephen’s: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that settles at the bottom of a fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The settling of blood in the dependent parts of an organ or body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A misty English morning the imp hypostasis tickled his brain."*
+> - 📜 **James Joyce (*Ulysses*):** *"Visually, Stephen’s: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair."*

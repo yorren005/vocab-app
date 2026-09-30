@@ -5,15 +5,6 @@ status: unread
 ---
 # convene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet formally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For these, the President will find no difficulty to provide; and should any circumstance occur which requires the advice and consent of the Senate, he may at any time convene them."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"AS this body has a concurrent power with the Executive in the article of treaties, it might often be necessary to call it together with a view to this object, when it would be unnecessary and improper to convene the House of Representatives."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The INOR Chiefs of State were urged to convene their Executive and Legislative Councils and to listen to the UIPS President."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet formally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For these, the President will find no difficulty to provide; and should any circumstance occur which requires the advice and consent of the Senate, he may at any time convene them."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"AS this body has a concurrent power with the Executive in the article of treaties, it might often be necessary to call it together with a view to this object, when it would be unnecessary and improper to convene the House of Representatives."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The INOR Chiefs of State were urged to convene their Executive and Legislative Councils and to listen to the UIPS President."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # schizophyceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former terms for cyanophyceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former terms for cyanophyceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophyceae designates former terms for cyanophyceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Former terms for cyanophyceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former terms for cyanophyceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophyceae designates former terms for cyanophyceae."*

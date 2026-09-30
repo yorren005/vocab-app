@@ -5,13 +5,6 @@ status: unread
 ---
 # haematoxylum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical american spiny bushy shrubs or trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical american spiny bushy shrubs or trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoxylum designates small genus of tropical american spiny bushy shrubs or trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical american spiny bushy shrubs or trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical american spiny bushy shrubs or trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoxylum designates small genus of tropical american spiny bushy shrubs or trees."*

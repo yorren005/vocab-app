@@ -5,15 +5,6 @@ status: unread
 ---
 # bombast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pompous or pretentious talk or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous or pretentious talk or writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, my sweet creature of bombast?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have received your letters, full of love; Your favours, the ambassadors of love; And in our maiden council rated them At courtship, pleasant jest, and courtesy, As bombast and as lining to the time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, as loving his own pride and purposes, Evades them, with a bombast circumstance, Horribly stuff’d with epithets of war: And in conclusion, Nonsuits my mediators: for “Certes,” says he, “I have already chose my officer.” And what was he?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pompous or pretentious talk or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous or pretentious talk or writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, my sweet creature of bombast?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have received your letters, full of love; Your favours, the ambassadors of love; And in our maiden council rated them At courtship, pleasant jest, and courtesy, As bombast and as lining to the time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, as loving his own pride and purposes, Evades them, with a bombast circumstance, Horribly stuff’d with epithets of war: And in conclusion, Nonsuits my mediators: for “Certes,” says he, “I have already chose my officer.” And what was he?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # figure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram or picture illustrating textual material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative names for the body of a human being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There I shall see mine own figure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For it is a figure in rhetoric that drink, being poured out of cup into a glass, by filling the one doth empty the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram or picture illustrating textual material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative names for the body of a human being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There I shall see mine own figure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For it is a figure in rhetoric that drink, being poured out of cup into a glass, by filling the one doth empty the other."*

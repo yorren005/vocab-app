@@ -5,13 +5,6 @@ status: unread
 ---
 # neuron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grayish or reddish granular cell that is the fundamental functional unit of nervous tissue transmitting and receiving nerve impulses and having cytoplasmic processes which are highly differentiated frequently as multiple dendrites or usually as solitary axons which conduct impulses to and away from the cell body : nerve cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interneuron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuron designates a grayish or reddish granular cell that is the fundamental functional unit of nervous tissue transmitting and receiving nerve impulses and having cytoplasmic processes which are highly differentiated frequently as multiple dendrites or usually as solitary axons which conduct impulses to and away from the cell body : nerve cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grayish or reddish granular cell that is the fundamental functional unit of nervous tissue transmitting and receiving nerve impulses and having cytoplasmic processes which are highly differentiated frequently as multiple dendrites or usually as solitary axons which conduct impulses to and away from the cell body : nerve cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interneuron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuron designates a grayish or reddish granular cell that is the fundamental functional unit of nervous tissue transmitting and receiving nerve impulses and having cytoplasmic processes which are highly differentiated frequently as multiple dendrites or usually as solitary axons which conduct impulses to and away from the cell body : nerve cell."*

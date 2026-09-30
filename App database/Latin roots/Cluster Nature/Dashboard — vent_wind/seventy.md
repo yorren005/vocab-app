@@ -5,15 +5,6 @@ status: unread
 ---
 # seventy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the product of ten and seven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ten more than sixty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear ’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To every Roman citizen he gives, To every several man, seventy-five drachmas."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine speak of seventy Senators that died By their proscriptions, Cicero being one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the product of ten and seven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ten more than sixty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear ’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To every Roman citizen he gives, To every several man, seventy-five drachmas."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine speak of seventy Senators that died By their proscriptions, Cicero being one."*

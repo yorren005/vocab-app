@@ -5,15 +5,6 @@ status: unread
 ---
 # ingrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shows no gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who shows no gratitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That we have been familiar, Ingrate forgetfulness shall poison rather Than pity note how much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, on his part I’ll empty all these veins, And shed my dear blood drop by drop in the dust, But I will lift the down-trod Mortimer As high in the air as this unthankful King, As this ingrate and canker’d Bolingbroke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shows no gratitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who shows no gratitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That we have been familiar, Ingrate forgetfulness shall poison rather Than pity note how much."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, on his part I’ll empty all these veins, And shed my dear blood drop by drop in the dust, But I will lift the down-trod Mortimer As high in the air as this unthankful King, As this ingrate and canker’d Bolingbroke."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*

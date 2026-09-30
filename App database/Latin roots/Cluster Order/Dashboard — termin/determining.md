@@ -5,15 +5,6 @@ status: unread
 ---
 # determining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But experience had shown that it was the existence of an Established Church, towards which the Anti-Union party had turned longing eyes, which was the determining factor in the wrecking of the Union negotiations."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Such a submission of our intellects, as I felt in determining to make it, must have been pleasing to heaven."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of fully equal importance with material wealth in determining the economic power of a people is the _social system_ under which the nation lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But experience had shown that it was the existence of an Established Church, towards which the Anti-Union party had turned longing eyes, which was the determining factor in the wrecking of the Union negotiations."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Such a submission of our intellects, as I felt in determining to make it, must have been pleasing to heaven."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of fully equal importance with material wealth in determining the economic power of a people is the _social system_ under which the nation lives."*

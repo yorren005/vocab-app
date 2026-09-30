@@ -5,15 +5,6 @@ status: unread
 ---
 # adventurer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enjoys taking risks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels into little known regions (especially for some scientific purpose).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There she is with plenty of money, and a house and farm, and horses, and comfort, and here am I living from hand to mouth—a needy adventurer."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Their fears were quite superfluous: they were very much mistaken if they imagined that he would put himself forward as a needy adventurer trying to win the favor of a rich woman."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They said Kelso got some rascally adventurer, some Belgian brute, to insult his son-in-law in public—paid him, sir, to do it, paid him—and that the fellow spitted his man as if he had been a pigeon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enjoys taking risks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels into little known regions (especially for some scientific purpose).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There she is with plenty of money, and a house and farm, and horses, and comfort, and here am I living from hand to mouth—a needy adventurer."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Their fears were quite superfluous: they were very much mistaken if they imagined that he would put himself forward as a needy adventurer trying to win the favor of a rich woman."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They said Kelso got some rascally adventurer, some Belgian brute, to insult his son-in-law in public—paid him, sir, to do it, paid him—and that the fellow spitted his man as if he had been a pigeon."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # monster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary creature usually having various human and animal parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is abnormally large and powerful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I break that oath, let me turn monster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ingratitude is monstrous, and for the multitude to be ingrateful were to make a monster of the multitude, of the which we being members, should bring ourselves to be monstrous members."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being an ugly monster, ’Tis strange he hides him in fresh cups, soft beds, Sweet words; or hath moe ministers than we That draw his knives i’ th’ war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary creature usually having various human and animal parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is abnormally large and powerful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I break that oath, let me turn monster."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ingratitude is monstrous, and for the multitude to be ingrateful were to make a monster of the multitude, of the which we being members, should bring ourselves to be monstrous members."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being an ugly monster, ’Tis strange he hides him in fresh cups, soft beds, Sweet words; or hath moe ministers than we That draw his knives i’ th’ war."*

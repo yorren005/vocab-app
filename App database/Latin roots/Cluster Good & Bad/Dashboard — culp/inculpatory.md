@@ -5,13 +5,6 @@ status: unread
 ---
 # inculpatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing blame to be imputed to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing blame to be imputed to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpatory designates causing blame to be imputed to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing blame to be imputed to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing blame to be imputed to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpatory designates causing blame to be imputed to."*

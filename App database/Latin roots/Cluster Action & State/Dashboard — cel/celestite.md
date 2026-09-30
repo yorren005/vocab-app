@@ -5,13 +5,6 @@ status: unread
 ---
 # celestite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of strontium sulphate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of strontium sulphate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celestite designates a mineral consisting of strontium sulphate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of strontium sulphate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of strontium sulphate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celestite designates a mineral consisting of strontium sulphate."*

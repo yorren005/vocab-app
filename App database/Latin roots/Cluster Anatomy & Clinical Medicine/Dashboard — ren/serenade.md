@@ -5,15 +5,6 @@ status: unread
 ---
 # serenade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition in several movements; has no fixed form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song characteristically played outside the house of a woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"If he does strain to the moment of ingress into the divine being, it is to swoon with excess of bliss, as at the end of 'Epipsychidion', or as in the 'Indian Serenade': "Oh lift me from the grass!"*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"P. 153 Christmas 158 A Serenade 160 THE SONG OF THE EXILE. _A CANADIAN EPIC_."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The bands of the regiments are also sent to serenade them, and on these occasions orders are given _to suppress the national airs_, as being offensive to these traitors in crinoline." During the year 1862, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition in several movements; has no fixed form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song characteristically played outside the house of a woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"If he does strain to the moment of ingress into the divine being, it is to swoon with excess of bliss, as at the end of 'Epipsychidion', or as in the 'Indian Serenade': "Oh lift me from the grass!"*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"P. 153 Christmas 158 A Serenade 160 THE SONG OF THE EXILE. _A CANADIAN EPIC_."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The bands of the regiments are also sent to serenade them, and on these occasions orders are given _to suppress the national airs_, as being offensive to these traitors in crinoline." During the year 1862, Mrs."*

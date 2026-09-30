@@ -5,13 +5,6 @@ status: unread
 ---
 # penetrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intruder who passes into or through (often by overcoming resistance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intruder who passes into or through (often by overcoming resistance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penetrator designates an intruder who passes into or through (often by overcoming resistance)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intruder who passes into or through (often by overcoming resistance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intruder who passes into or through (often by overcoming resistance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penetrator designates an intruder who passes into or through (often by overcoming resistance)."*

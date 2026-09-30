@@ -5,13 +5,6 @@ status: unread
 ---
 # ovulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce and discharge eggs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce and discharge eggs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovulate designates produce and discharge eggs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce and discharge eggs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce and discharge eggs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovulate designates produce and discharge eggs."*

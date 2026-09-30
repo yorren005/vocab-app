@@ -5,15 +5,6 @@ status: unread
 ---
 # pneumonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease that is marked by inflammation of lung tissue accompanied by infiltration of alveoli and often bronchioles with white blood cells (such as neutrophils) and fibrinous exudate, is characterized by fever, chills, cough, difficulty in breathing, fatigue, chest pain, and reduced lung expansion, and is typically caused by an infectious agent (such as a bacterium, virus, or fungus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pneumonia affecting both lungs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The wife of Deacon W. was sinking rapidly with pneumonia."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She had money from both of us, but she spent it in public houses--didn't seem to care what happened to her after losing Arthur: a wretched life: it ended last January with her death from pneumonia after measles."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The eloquent auctioneer was seized with pneumonia, and having been a patient of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease that is marked by inflammation of lung tissue accompanied by infiltration of alveoli and often bronchioles with white blood cells (such as neutrophils) and fibrinous exudate, is characterized by fever, chills, cough, difficulty in breathing, fatigue, chest pain, and reduced lung expansion, and is typically caused by an infectious agent (such as a bacterium, virus, or fungus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pneumonia affecting both lungs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The wife of Deacon W. was sinking rapidly with pneumonia."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She had money from both of us, but she spent it in public houses--didn't seem to care what happened to her after losing Arthur: a wretched life: it ended last January with her death from pneumonia after measles."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The eloquent auctioneer was seized with pneumonia, and having been a patient of Mr."*

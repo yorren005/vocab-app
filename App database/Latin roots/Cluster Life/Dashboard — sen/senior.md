@@ -5,15 +5,6 @@ status: unread
 ---
 # senior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undergraduate student during the year preceding graduation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is older than you are.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Forest of Arden Enter Duke Senior, Amiens and two or three Lords, dressed as foresters."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another part of the Forest Enter Duke Senior, Amiens and Lords as outlaws."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank ye, and be blest for your good comfort. [_Exit._] DUKE SENIOR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undergraduate student during the year preceding graduation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is older than you are.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Forest of Arden Enter Duke Senior, Amiens and two or three Lords, dressed as foresters."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another part of the Forest Enter Duke Senior, Amiens and Lords as outlaws."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank ye, and be blest for your good comfort. [_Exit._] DUKE SENIOR."*

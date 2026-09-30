@@ -5,13 +5,6 @@ status: unread
 ---
 # sclerotinia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus of the genus sclerotinia; some causing brown rot diseases in plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the genus sclerotinia; some causing brown rot diseases in plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotinia designates any fungus of the genus sclerotinia; some causing brown rot diseases in plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus of the genus sclerotinia; some causing brown rot diseases in plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the genus sclerotinia; some causing brown rot diseases in plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotinia designates any fungus of the genus sclerotinia; some causing brown rot diseases in plants."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # reprise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeat an earlier theme of a composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat an earlier theme of a composition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reprise designates repeat an earlier theme of a composition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeat an earlier theme of a composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat an earlier theme of a composition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reprise designates repeat an earlier theme of a composition."*

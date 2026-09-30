@@ -5,15 +5,6 @@ status: unread
 ---
 # lining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective covering that protects an inside surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of cloth that is used as the inside surface of a garment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have received your letters, full of love; Your favours, the ambassadors of love; And in our maiden council rated them At courtship, pleasant jest, and courtesy, As bombast and as lining to the time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lining of his coffers shall make coats To deck our soldiers for these Irish wars."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I expand, I open, I turn my silver lining outward like Milton’s cloud, and it’s more agreeable to both of us.’ That’s my view of such things, speaking as a child!” “But suppose you went down somewhere else to-morrow,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective covering that protects an inside surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of cloth that is used as the inside surface of a garment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have received your letters, full of love; Your favours, the ambassadors of love; And in our maiden council rated them At courtship, pleasant jest, and courtesy, As bombast and as lining to the time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lining of his coffers shall make coats To deck our soldiers for these Irish wars."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I expand, I open, I turn my silver lining outward like Milton’s cloud, and it’s more agreeable to both of us.’ That’s my view of such things, speaking as a child!” “But suppose you went down somewhere else to-morrow,” said Mr."*

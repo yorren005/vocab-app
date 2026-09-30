@@ -5,15 +5,6 @@ status: unread
 ---
 # ingenuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an inability to mask your feelings; not devious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in sophistication or worldliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was a handsome youth with an ingenuous face and a most engaging laugh; and after she had called him up to where we sat, he stood by us, in the light of the fire, talking gaily, like a light-hearted boy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Harold Skimpole?’” “To which Harold Skimpole would reply, you know,” he returned in his gayest manner and with his most ingenuous smile, “‘Upon my life I have not the least idea!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told Ada, in his most ingenuous way, that he had not come to make any secret inroad on the terms she had accepted (rather too implicitly and confidingly, he thought) from Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an inability to mask your feelings; not devious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in sophistication or worldliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was a handsome youth with an ingenuous face and a most engaging laugh; and after she had called him up to where we sat, he stood by us, in the light of the fire, talking gaily, like a light-hearted boy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Harold Skimpole?’” “To which Harold Skimpole would reply, you know,” he returned in his gayest manner and with his most ingenuous smile, “‘Upon my life I have not the least idea!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He told Ada, in his most ingenuous way, that he had not come to make any secret inroad on the terms she had accepted (rather too implicitly and confidingly, he thought) from Mr."*

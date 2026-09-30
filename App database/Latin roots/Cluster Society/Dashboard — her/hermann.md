@@ -5,13 +5,6 @@ status: unread
 ---
 # hermann
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Friedrich Hoelderlins Leben und Dichten, Bremen, 1894. (Reviewed by Hermann Fischer, Anz. f. d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Friedrich Hoelderlins Leben und Dichten, Bremen, 1894. (Reviewed by Hermann Fischer, Anz. f. d."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # orthilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthilia designates a shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthilia designates a shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # spiritism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concern with things of the spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concern with things of the spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritism consigns the so-called dead to a state resembling that of blighted buds, - to a wretched purgatory, where 77:30 the chances of the departed for improvement narrow into nothing and they return to their old standpoints of matter."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is not in the medley where matter cares for matter, where spiritism makes many gods, and hypnotism and electricity are claimed 78:27 to be the agents of God's government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concern with things of the spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concern with things of the spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritism consigns the so-called dead to a state resembling that of blighted buds, - to a wretched purgatory, where 77:30 the chances of the departed for improvement narrow into nothing and they return to their old standpoints of matter."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is not in the medley where matter cares for matter, where spiritism makes many gods, and hypnotism and electricity are claimed 78:27 to be the agents of God's government."*

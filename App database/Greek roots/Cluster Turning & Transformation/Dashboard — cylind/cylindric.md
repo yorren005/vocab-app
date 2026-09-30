@@ -5,14 +5,6 @@ status: unread
 ---
 # cylindric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the form or properties of a cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the form or properties of a cylinder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Such is the arrangement in the nearest living forms, and it is always, in these cases, cylindric and forked."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The teeth were all sharp cylindric fangs, smooth and glistening, and of irregular size."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the form or properties of a cylinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the form or properties of a cylinder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Such is the arrangement in the nearest living forms, and it is always, in these cases, cylindric and forked."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The teeth were all sharp cylindric fangs, smooth and glistening, and of irregular size."*

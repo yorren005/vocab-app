@@ -5,15 +5,6 @@ status: unread
 ---
 # marri
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very large red gum tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very large red gum tree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, your lord and master’s married; there’s news for you; you have a new mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my Parolles, they have married me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, these balls bound; there’s noise in it. ’Tis hard: A young man married is a man that’s marr’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very large red gum tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very large red gum tree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, your lord and master’s married; there’s news for you; you have a new mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my Parolles, they have married me!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, these balls bound; there’s noise in it. ’Tis hard: A young man married is a man that’s marr’d."*

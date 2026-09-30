@@ -5,15 +5,6 @@ status: unread
 ---
 # logistics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Handling an operation that involves providing labor and materials be supplied as needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handling an operation that involves providing labor and materials be supplied as needed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the studies he critiqued was 'Space Logistics, Operations, Maintenance and Rescue' (Project SLOMAR)."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Handling an operation that involves providing labor and materials be supplied as needed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handling an operation that involves providing labor and materials be supplied as needed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the studies he critiqued was 'Space Logistics, Operations, Maintenance and Rescue' (Project SLOMAR)."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*

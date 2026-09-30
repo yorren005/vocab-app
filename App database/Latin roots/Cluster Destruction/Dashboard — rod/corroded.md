@@ -5,15 +5,6 @@ status: unread
 ---
 # corroded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to deteriorate due to the action of water, air, or an acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become destroyed by water, air, or a corrosive such as an acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It so chanced that almost upon first cutting into him with the spade, the entire length of a corroded harpoon was found imbedded in his flesh, on the lower part of the bunch before described."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Give way!” cried Ahab to the oarsmen, and the boats darted forward to the attack; but maddened by yesterday’s fresh irons that corroded in him, Moby Dick seemed combinedly possessed by all the angels that fell from heaven."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"From the death of my parents till the commencement of this year my life had been serene and blissful beyond the ordinary portion of humanity; but now my bosom was corroded by anxiety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to deteriorate due to the action of water, air, or an acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become destroyed by water, air, or a corrosive such as an acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It so chanced that almost upon first cutting into him with the spade, the entire length of a corroded harpoon was found imbedded in his flesh, on the lower part of the bunch before described."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Give way!” cried Ahab to the oarsmen, and the boats darted forward to the attack; but maddened by yesterday’s fresh irons that corroded in him, Moby Dick seemed combinedly possessed by all the angels that fell from heaven."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"From the death of my parents till the commencement of this year my life had been serene and blissful beyond the ordinary portion of humanity; but now my bosom was corroded by anxiety."*

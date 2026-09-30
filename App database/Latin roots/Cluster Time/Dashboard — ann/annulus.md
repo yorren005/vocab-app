@@ -5,13 +5,6 @@ status: unread
 ---
 # annulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toroidal shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulus designates a toroidal shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toroidal shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulus designates a toroidal shape."*

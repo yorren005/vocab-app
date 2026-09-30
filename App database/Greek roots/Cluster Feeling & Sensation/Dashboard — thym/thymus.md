@@ -5,13 +5,6 @@ status: unread
 ---
 # thymus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of old world mints: thyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ductless glandular organ at the base of the neck that produces lymphocytes and aids in producing immunity; atrophies with age.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymus designates large genus of old world mints: thyme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of old world mints: thyme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ductless glandular organ at the base of the neck that produces lymphocytes and aids in producing immunity; atrophies with age.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymus designates large genus of old world mints: thyme."*

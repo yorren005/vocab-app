@@ -5,15 +5,6 @@ status: unread
 ---
 # malacca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stem of the rattan palm used for making canes and umbrella handles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cane made from the stem of a rattan palm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This rampart is pierced by several sally-ports for the convenience of ships and whales; conspicuous among which are the straits of Sunda and Malacca."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stem of the rattan palm used for making canes and umbrella handles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cane made from the stem of a rattan palm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This rampart is pierced by several sally-ports for the convenience of ships and whales; conspicuous among which are the straits of Sunda and Malacca."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."*

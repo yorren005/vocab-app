@@ -5,13 +5,6 @@ status: unread
 ---
 # creativity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to create.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to create.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The give-and-take stimulated our imaginations and creativity, and often provided me with opportunities to pass along family history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to create.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to create.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The give-and-take stimulated our imaginations and creativity, and often provided me with opportunities to pass along family history."*

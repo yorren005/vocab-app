@@ -5,15 +5,6 @@ status: unread
 ---
 # dominance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Superior development of one side of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I haven't talked with Cousin James yet," I felt white feathers sprouting all over me, as I thus invoked the masculine dominance I had come to lay."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The result is the end of UIPS dominance over its former colonies and space lanes." Brad paused to preface his next words."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"My recommendation is that you see him, but manipulate the discussions to give our rights dominance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superior development of one side of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I haven't talked with Cousin James yet," I felt white feathers sprouting all over me, as I thus invoked the masculine dominance I had come to lay."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The result is the end of UIPS dominance over its former colonies and space lanes." Brad paused to preface his next words."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"My recommendation is that you see him, but manipulate the discussions to give our rights dominance."*

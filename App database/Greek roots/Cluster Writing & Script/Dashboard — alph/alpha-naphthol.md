@@ -5,13 +5,6 @@ status: unread
 ---
 # alpha-naphthol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomer of naphthol used in dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomer of naphthol used in dyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-naphthol designates an isomer of naphthol used in dyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomer of naphthol used in dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomer of naphthol used in dyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-naphthol designates an isomer of naphthol used in dyes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # arthropoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropoda designates jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropoda designates jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes."*

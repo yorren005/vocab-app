@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclooxygenase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase designates either of two related enzymes that control the production of prostaglandins and are blocked by aspirin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase designates either of two related enzymes that control the production of prostaglandins and are blocked by aspirin."*

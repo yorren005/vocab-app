@@ -5,15 +5,6 @@ status: unread
 ---
 # matrimony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a married couple voluntarily joined for life (or until divorce).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremony or sacrament of marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s well I never made that evolution of matrimony."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Also into rooms high in the roof, and into offices in court-yards, and over stables, where humbler ambition dreams of bliss, in keepers’ lodges, and in holy matrimony with Will or Sally."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That means matrimony,” said Temperance Miller, following them out of sight with her eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a married couple voluntarily joined for life (or until divorce).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremony or sacrament of marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s well I never made that evolution of matrimony."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Also into rooms high in the roof, and into offices in court-yards, and over stables, where humbler ambition dreams of bliss, in keepers’ lodges, and in holy matrimony with Will or Sally."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That means matrimony,” said Temperance Miller, following them out of sight with her eyes."*

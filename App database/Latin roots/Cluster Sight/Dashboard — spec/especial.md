@@ -5,15 +5,6 @@ status: unread
 ---
 # especial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing what is common or usual or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing what is common or usual or expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hamlet, this deed, for thine especial safety,— Which we do tender, as we dearly grieve For that which thou hast done,—must send thee hence With fiery quickness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, there is especial commission come from Venice to depute Cassio in Othello’s place."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, looking round, “if I don’t think I must have had a dream of that picture, you know!” As no one present takes any especial interest in Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing what is common or usual or expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing what is common or usual or expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hamlet, this deed, for thine especial safety,— Which we do tender, as we dearly grieve For that which thou hast done,—must send thee hence With fiery quickness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, there is especial commission come from Venice to depute Cassio in Othello’s place."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, looking round, “if I don’t think I must have had a dream of that picture, you know!” As no one present takes any especial interest in Mr."*

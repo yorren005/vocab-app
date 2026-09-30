@@ -5,13 +5,6 @@ status: unread
 ---
 # phycobilin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water-soluble proteinaceous pigments found in red algae and cyanobacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water-soluble proteinaceous pigments found in red algae and cyanobacteria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycobilin designates water-soluble proteinaceous pigments found in red algae and cyanobacteria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Water-soluble proteinaceous pigments found in red algae and cyanobacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water-soluble proteinaceous pigments found in red algae and cyanobacteria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycobilin designates water-soluble proteinaceous pigments found in red algae and cyanobacteria."*

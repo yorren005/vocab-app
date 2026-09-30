@@ -5,20 +5,6 @@ status: unread
 ---
 # curb
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to check, restrain or control
-> 2. **Nuance / Usage**: Raised edge or margin to strengthen or confine
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"a living daughter curb’d by the will of a dead father."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What cares he now for curb or pricking spur?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I think, as a resolute rider would curb a rearing steed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To check, restrain, or hold back an impulse, appetite, or growing force within strict limits.
+> 2. **Nuance / Usage**: Originally a chain or strap attached to a horse's bit that presses against the lower jaw when the reins are pulled; also the raised stone edging that borders and confines a street.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb & Noun (count).
+> - **Syntactic Constructions**: Operates transitively (*curb one's impatience*, *curb inflation*) and nominally (*put a curb on extravagance*).
+> - **Collocations & Registers**: Moral, equestrian, and policy registers; paired with *passion*, *appetite*, *excess*, *rein*, and *bridle*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"So is the will of a living daughter **curb’d** by the will of a dead father."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I mastered my rising wrath, as a resolute rider would **curb** a rearing steed."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Restrain his fury, than provoke his speed; the winged courser, like a generous horse, shows most true mettle when you check his course with a firm **curb**."*

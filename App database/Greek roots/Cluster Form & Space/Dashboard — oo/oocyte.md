@@ -5,13 +5,6 @@ status: unread
 ---
 # oocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg before maturation : a female gametocyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egg before maturation : a female gametocyte.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oocyte designates an egg before maturation : a female gametocyte."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg before maturation : a female gametocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egg before maturation : a female gametocyte.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oocyte designates an egg before maturation : a female gametocyte."*

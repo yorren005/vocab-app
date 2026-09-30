@@ -5,13 +5,6 @@ status: unread
 ---
 # complexifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone makes things complex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone makes things complex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complexifier designates someone makes things complex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone makes things complex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone makes things complex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complexifier designates someone makes things complex."*

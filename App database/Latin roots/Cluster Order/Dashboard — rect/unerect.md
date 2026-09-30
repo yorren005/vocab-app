@@ -5,13 +5,6 @@ status: unread
 ---
 # unerect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not upright in position or posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not upright in position or posture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unerect designates not upright in position or posture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not upright in position or posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not upright in position or posture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unerect designates not upright in position or posture."*

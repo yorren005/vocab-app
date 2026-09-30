@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcostemma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent subshrubs or vines; tropical and subtropical india and africa and malaysia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent subshrubs or vines; tropical and subtropical india and africa and malaysia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcostemma designates succulent subshrubs or vines; tropical and subtropical india and africa and malaysia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent subshrubs or vines; tropical and subtropical india and africa and malaysia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent subshrubs or vines; tropical and subtropical india and africa and malaysia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcostemma designates succulent subshrubs or vines; tropical and subtropical india and africa and malaysia."*

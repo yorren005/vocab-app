@@ -5,13 +5,6 @@ status: unread
 ---
 # phage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A virus that is parasitic (reproduces itself) in bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A virus that is parasitic (reproduces itself) in bacteria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phage designates a virus that is parasitic (reproduces itself) in bacteria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A virus that is parasitic (reproduces itself) in bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A virus that is parasitic (reproduces itself) in bacteria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phage designates a virus that is parasitic (reproduces itself) in bacteria."*

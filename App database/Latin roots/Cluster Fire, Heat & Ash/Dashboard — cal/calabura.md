@@ -5,13 +5,6 @@ status: unread
 ---
 # calabura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calabura designates a fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calabura designates a fast-growing tropical american evergreen having white flowers and white fleshy edible fruit; bark yields a silky fiber used in cordage and wood is valuable for staves."*

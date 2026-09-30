@@ -5,15 +5,6 @@ status: unread
 ---
 # research
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic investigation to establish facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A search for knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had great gifts,--gifts of abstract thinking and writing, powers of scholarly research and continuous labour,--but his life had followed another path determined by his early choice."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On the other hand, do not make the mistake of thinking that life in solitary was one wild orgy of blithe communion and exhilarating psychological research."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She had left Thornfield Hall in the night; every research after her course had been vain: the country had been scoured far and wide; no vestige of information could be gathered respecting her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic investigation to establish facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A search for knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had great gifts,--gifts of abstract thinking and writing, powers of scholarly research and continuous labour,--but his life had followed another path determined by his early choice."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On the other hand, do not make the mistake of thinking that life in solitary was one wild orgy of blithe communion and exhilarating psychological research."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She had left Thornfield Hall in the night; every research after her course had been vain: the country had been scoured far and wide; no vestige of information could be gathered respecting her."*

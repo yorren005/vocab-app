@@ -5,15 +5,6 @@ status: unread
 ---
 # omnibus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthology of articles on a related subject or an anthology of the works of a single author.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle carrying many passengers; used for public transport.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Thicker and darker the fog became; they lighted the lamps, and the omnibus went at a walking pace."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She might have got into another omnibus and returned; but a strong feeling which she could not explain made her go on."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At last the omnibus stopped, and the conductor guided her to the foot-path."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthology of articles on a related subject or an anthology of the works of a single author.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle carrying many passengers; used for public transport.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Thicker and darker the fog became; they lighted the lamps, and the omnibus went at a walking pace."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She might have got into another omnibus and returned; but a strong feeling which she could not explain made her go on."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"At last the omnibus stopped, and the conductor guided her to the foot-path."*

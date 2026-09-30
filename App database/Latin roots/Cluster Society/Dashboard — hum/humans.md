@@ -5,15 +5,6 @@ status: unread
 ---
 # humans
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the living human inhabitants of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any living or extinct member of the family hominidae characterized by superior intelligence, articulate speech, and erect carriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Populated by humans and their robots, colonies extended from the voids above Mercury and Venus through the Asteroids, the satellites of the gas planets, to Planet Pluto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cumulative genetic and accelerated evolutionary alterations to the human body along with the effects of unique, often hostile, environments plus sheer distance from the familiar transformed humans-in-space into something else."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"One thing, however, he had learned was that the hex at least worked on humans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the living human inhabitants of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any living or extinct member of the family hominidae characterized by superior intelligence, articulate speech, and erect carriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Populated by humans and their robots, colonies extended from the voids above Mercury and Venus through the Asteroids, the satellites of the gas planets, to Planet Pluto."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cumulative genetic and accelerated evolutionary alterations to the human body along with the effects of unique, often hostile, environments plus sheer distance from the familiar transformed humans-in-space into something else."*
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"One thing, however, he had learned was that the hex at least worked on humans."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # phytolaccaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytolaccaceae designates chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytolaccaceae designates chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma."*

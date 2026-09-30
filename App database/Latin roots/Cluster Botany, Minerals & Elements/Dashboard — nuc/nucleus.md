@@ -5,15 +5,6 @@ status: unread
 ---
 # nucleus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of the cell containing dna and rna and responsible for growth and reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positively charged dense center of an atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A fine fever hospital in addition to the old infirmary might be the nucleus of a medical school here, when once we get our medical reforms; and what would do more for medical education than the spread of such schools over the country?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Of course it is a nucleus and focus of crime."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The OPMT formed the nucleus of upper level managers, scientists and engineers, and other experts charged with organizing and guiding the functional task groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of the cell containing dna and rna and responsible for growth and reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positively charged dense center of an atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A fine fever hospital in addition to the old infirmary might be the nucleus of a medical school here, when once we get our medical reforms; and what would do more for medical education than the spread of such schools over the country?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Of course it is a nucleus and focus of crime."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The OPMT formed the nucleus of upper level managers, scientists and engineers, and other experts charged with organizing and guiding the functional task groups."*

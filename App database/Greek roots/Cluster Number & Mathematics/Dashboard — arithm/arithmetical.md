@@ -5,15 +5,6 @@ status: unread
 ---
 # arithmetical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals usually with the nonnegative real numbers including sometimes the transfinite cardinals and with the application of the operations of addition, subtraction, multiplication, and division to them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise on arithmetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was too deeply materialized, poor woman, by her long and enforced bondage to that arithmetical demon Profit-and-Loss, to retain much curiousity for its own sake, and apart from possible lodgers’ pockets."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Nothing is so futile as an arithmetical numbering of people, for after a certain point figures paralyse the imagination, and after that they tell the mind little or nothing."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing can be more fallacious than to found our political calculations on arithmetical principles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals usually with the nonnegative real numbers including sometimes the transfinite cardinals and with the application of the operations of addition, subtraction, multiplication, and division to them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise on arithmetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was too deeply materialized, poor woman, by her long and enforced bondage to that arithmetical demon Profit-and-Loss, to retain much curiousity for its own sake, and apart from possible lodgers’ pockets."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Nothing is so futile as an arithmetical numbering of people, for after a certain point figures paralyse the imagination, and after that they tell the mind little or nothing."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing can be more fallacious than to found our political calculations on arithmetical principles."*

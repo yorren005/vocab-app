@@ -5,14 +5,6 @@ status: unread
 ---
 # corruptly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that estates, degrees, and offices Were not deriv’d corruptly, and that clear honour Were purchas’d by the merit of the wearer!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not only is the legislature (or council, or county board of commissioners, etc.) led by the economic difficulties to withhold a charter from a second company, but it may be corruptly influenced by the company already established."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that estates, degrees, and offices Were not deriv’d corruptly, and that clear honour Were purchas’d by the merit of the wearer!"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not only is the legislature (or council, or county board of commissioners, etc.) led by the economic difficulties to withhold a charter from a second company, but it may be corruptly influenced by the company already established."*

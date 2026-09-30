@@ -5,14 +5,6 @@ status: unread
 ---
 # campana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of a bell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape of a bell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pinkerton's _Voyages and Travels_ (London, 1808-1814), xvi. 238; Father Campana, "Congo; Mission Catholique de Landana," _Les Missions Catholiques_, xxvii. (1895) p. 161; R.E."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"According to Merolla, it is thought that if girls did not go through these ceremonies, they would "never be fit for procreation." The other consequences supposed to flow from the omission of the rites are mentioned by Father Campana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of a bell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape of a bell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pinkerton's _Voyages and Travels_ (London, 1808-1814), xvi. 238; Father Campana, "Congo; Mission Catholique de Landana," _Les Missions Catholiques_, xxvii. (1895) p. 161; R.E."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"According to Merolla, it is thought that if girls did not go through these ceremonies, they would "never be fit for procreation." The other consequences supposed to flow from the omission of the rites are mentioned by Father Campana."*

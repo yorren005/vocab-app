@@ -5,13 +5,6 @@ status: unread
 ---
 # modem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modem designates (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modem designates (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line."*

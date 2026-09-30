@@ -5,15 +5,6 @@ status: unread
 ---
 # adjure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ask for or request earnestly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command solemnly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. le Maire, I adjure you to put yourself in a place of safety.' 'Sir,' I said to him, sternly, 'for one who deserts his post there is no place of safety.' But I do not think he was capable of understanding me."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I adjure thee, by that God whose voice thou hast dared to counterfeit, to save my life!"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Then the Syrian would solemnly adjure him, or threaten him if he were obstinate, and so drive him out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ask for or request earnestly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command solemnly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. le Maire, I adjure you to put yourself in a place of safety.' 'Sir,' I said to him, sternly, 'for one who deserts his post there is no place of safety.' But I do not think he was capable of understanding me."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I adjure thee, by that God whose voice thou hast dared to counterfeit, to save my life!"*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Then the Syrian would solemnly adjure him, or threaten him if he were obstinate, and so drive him out."*

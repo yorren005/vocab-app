@@ -5,15 +5,6 @@ status: unread
 ---
 # confusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disorder resulting from a failure to behave predictably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state characterized by a lack of clear and orderly thought and behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And my soul aches To know, when two authorities are up, Neither supreme, how soon confusion May enter ’twixt the gap of both and take The one by th’ other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disorder resulting from a failure to behave predictably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state characterized by a lack of clear and orderly thought and behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And my soul aches To know, when two authorities are up, Neither supreme, how soon confusion May enter ’twixt the gap of both and take The one by th’ other."*

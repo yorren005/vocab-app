@@ -5,15 +5,6 @@ status: unread
 ---
 # overestimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that is too high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculation that results in an estimate that is too high.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"By our era all these religions were fused into one religion, of many cults and rites and ancient traditions; and the incredible weight of old tradition in that world is hard to overestimate."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of rent and of every other factor in value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that is too high.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculation that results in an estimate that is too high.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"By our era all these religions were fused into one religion, of many cults and rites and ancient traditions; and the incredible weight of old tradition in that world is hard to overestimate."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of rent and of every other factor in value."*

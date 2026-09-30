@@ -5,13 +5,6 @@ status: unread
 ---
 # sinanthropus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus to which peking man was formerly assigned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus to which peking man was formerly assigned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinanthropus designates genus to which peking man was formerly assigned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus to which peking man was formerly assigned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus to which peking man was formerly assigned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinanthropus designates genus to which peking man was formerly assigned."*

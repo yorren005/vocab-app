@@ -5,13 +5,6 @@ status: unread
 ---
 # artocarpus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen asiatic trees now grown through the tropics: breadfruit; jackfruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen asiatic trees now grown through the tropics: breadfruit; jackfruit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The sago pasty, the artocarpus bread, some mangoes, half a dozen pineapples, and the liquor fermented from some coco-nuts, overjoyed us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen asiatic trees now grown through the tropics: breadfruit; jackfruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen asiatic trees now grown through the tropics: breadfruit; jackfruit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The sago pasty, the artocarpus bread, some mangoes, half a dozen pineapples, and the liquor fermented from some coco-nuts, overjoyed us."*

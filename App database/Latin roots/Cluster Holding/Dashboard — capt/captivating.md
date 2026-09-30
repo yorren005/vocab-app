@@ -5,15 +5,6 @@ status: unread
 ---
 # captivating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capturing interest as if by a spell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, she had such a natural, captivating, winning manner that in a few minutes we were sitting in the window-seat, with the light of the fire upon us, talking together as free and happy as could be."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a man of attainments and of captivating manners."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All he said was so free from effort and spontaneous and was said with such a captivating gaiety that it was fascinating to hear him talk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capturing interest as if by a spell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In short, she had such a natural, captivating, winning manner that in a few minutes we were sitting in the window-seat, with the light of the fire upon us, talking together as free and happy as could be."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a man of attainments and of captivating manners."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All he said was so free from effort and spontaneous and was said with such a captivating gaiety that it was fascinating to hear him talk."*

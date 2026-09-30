@@ -5,13 +5,6 @@ status: unread
 ---
 # orthopnea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopnea designates form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopnea designates form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris."*

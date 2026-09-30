@@ -5,13 +5,6 @@ status: unread
 ---
 # disconnection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbridgeable disparity (as from a failure of understanding).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He looked on the operations of nature "in disconnection dull and spiritless;" he could no longer apprehend her unity nor feel her charm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbridgeable disparity (as from a failure of understanding).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He looked on the operations of nature "in disconnection dull and spiritless;" he could no longer apprehend her unity nor feel her charm."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dextrose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomer of glucose that is found in honey and sweet fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomer of glucose that is found in honey and sweet fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrose designates an isomer of glucose that is found in honey and sweet fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomer of glucose that is found in honey and sweet fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomer of glucose that is found in honey and sweet fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrose designates an isomer of glucose that is found in honey and sweet fruits."*

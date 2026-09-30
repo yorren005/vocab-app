@@ -5,13 +5,6 @@ status: unread
 ---
 # dehydrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove bound water or hydrogen and oxygen from (a chemical compound) in the proportion in which they form water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove water from (something, such as a food).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrate designates to remove bound water or hydrogen and oxygen from (a chemical compound) in the proportion in which they form water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove bound water or hydrogen and oxygen from (a chemical compound) in the proportion in which they form water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove water from (something, such as a food).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrate designates to remove bound water or hydrogen and oxygen from (a chemical compound) in the proportion in which they form water."*

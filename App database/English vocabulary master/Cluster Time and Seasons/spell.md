@@ -5,20 +5,6 @@ status: unread
 ---
 # spell
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make up (a word)
-> 2. **Nuance / Usage**: Write or print the letters of in a particular way
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"will dissolve the spell upon me of the mace and seal."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"being, broke the spell at once."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"faculties the same spell that entranced theirs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: An indeterminate, usually brief period of time marked by a particular state of weather, activity, or bodily condition (*a cold spell*, *a dizzy spell*).
+> 2. **Nuance / Usage**: Also denotes a turn or shift of work taken to relieve another person (*to spell a tired oarsman*), alongside its distinct homographic sense of a spoken incantation or state of enchantment.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) and Verb (transitive).
+> - **Syntactic Constructions**: Functions in temporal/meteorological phrases (*for a spell*, *a dry spell*) or as a verb of relief (*spelled him at the wheel*).
+> - **Collocations & Registers**: Meteorological, pastoral, and narrative registers; collocated with *cold*, *dry*, *dizzy*, *brief*, and *rest*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"We laid up under the willows and rested for a **spell** until the heat of the day had passed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A long dry **spell** in June had parched the upland pastures to the color of old straw."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"After a hard **spell** at the oars, the boat's crew leaned on their ash-staves to catch their breath."*

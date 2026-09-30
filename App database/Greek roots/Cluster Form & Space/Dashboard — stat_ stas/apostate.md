@@ -5,15 +5,6 @@ status: unread
 ---
 # apostate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not faithful to religion or party or cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ha-ha—I’m awfully glad you have made an apostate of me all the same!"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of course, there were those who broke down, but Julian the Apostate, in his letters to his heathen priests, is a reluctant witness to the higher character of Christian life."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So spake th’ Apostate Angel, though in pain, Vaunting aloud, but rackt with deep despare: And him thus answer’d soon his bold Compeer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not faithful to religion or party or cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ha-ha—I’m awfully glad you have made an apostate of me all the same!"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of course, there were those who broke down, but Julian the Apostate, in his letters to his heathen priests, is a reluctant witness to the higher character of Christian life."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake th’ Apostate Angel, though in pain, Vaunting aloud, but rackt with deep despare: And him thus answer’d soon his bold Compeer."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # coquette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seductive woman who uses her sex appeal to exploit men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, sweet, lost coquette, pardon me!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You seem almost like a coquette, upon my life you do—a coquette of the first urban water!"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She is a vain coquette, and her tricks have not answered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seductive woman who uses her sex appeal to exploit men.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, sweet, lost coquette, pardon me!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You seem almost like a coquette, upon my life you do—a coquette of the first urban water!"*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She is a vain coquette, and her tricks have not answered."*

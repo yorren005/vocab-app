@@ -5,15 +5,6 @@ status: unread
 ---
 # officiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In fact, my loneliness has liquefied my gaseous affection into what almost looks like officiousness."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The landlord waited on him with peculiar officiousness,—not that he paid better than his neighbors, but then the coin of a rich man seems always to be so much more acceptable."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The consequence is, that in the eagerness to enlighten, they are often apt to obscure; and I have occasionally seen an unlucky saint almost smoked out of countenance by the officiousness of his followers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In fact, my loneliness has liquefied my gaseous affection into what almost looks like officiousness."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The landlord waited on him with peculiar officiousness,—not that he paid better than his neighbors, but then the coin of a rich man seems always to be so much more acceptable."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The consequence is, that in the eagerness to enlighten, they are often apt to obscure; and I have occasionally seen an unlucky saint almost smoked out of countenance by the officiousness of his followers."*

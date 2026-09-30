@@ -5,15 +5,6 @@ status: unread
 ---
 # proportionally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a proportionate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a proportionate degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the output per hour is increased proportionally to the pay per hour, the existing wages equilibrium would not be disturbed."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She was proportionally surprised and a trifle flattered when he replaced the cigarette to which he had just helped himself."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The vices and diseases introduced among these unhappy people annually swell the ordinary mortality of the islands, while, from the same cause, the originally small number of births is proportionally decreased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a proportionate degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a proportionate degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the output per hour is increased proportionally to the pay per hour, the existing wages equilibrium would not be disturbed."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She was proportionally surprised and a trifle flattered when he replaced the cigarette to which he had just helped himself."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The vices and diseases introduced among these unhappy people annually swell the ordinary mortality of the islands, while, from the same cause, the originally small number of births is proportionally decreased."*

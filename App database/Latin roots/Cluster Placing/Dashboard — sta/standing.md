@@ -5,15 +5,6 @@ status: unread
 ---
 # standing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social or financial or professional status or reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So say I, madam, if he run away, as I hear he does; the danger is in standing to’t; that’s the loss of men, though it be the getting of children."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We Have used to conquer standing on the earth And fighting foot to foot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the cause, sirs, of my standing here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Social or financial or professional status or reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So say I, madam, if he run away, as I hear he does; the danger is in standing to’t; that’s the loss of men, though it be the getting of children."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We Have used to conquer standing on the earth And fighting foot to foot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the cause, sirs, of my standing here."*

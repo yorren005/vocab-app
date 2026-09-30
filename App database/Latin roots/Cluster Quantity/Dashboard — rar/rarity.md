@@ -5,15 +5,6 @@ status: unread
 ---
 # rarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noteworthy scarcity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rarified quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In brief, Sorrow would be a rarity most belov’d, If all could so become it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But the rarity of it is,—which is indeed almost beyond credit,— SEBASTIAN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noteworthy scarcity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rarified quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In brief, Sorrow would be a rarity most belov’d, If all could so become it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But the rarity of it is,—which is indeed almost beyond credit,— SEBASTIAN."*

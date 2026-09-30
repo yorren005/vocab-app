@@ -5,15 +5,6 @@ status: unread
 ---
 # recall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A request by the manufacturer of a defective product to return the product (as for replacement or repair).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A call to return.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though thou art adjudged to the death, And passed sentence may not be recall’d But to our honour’s great disparagement, Yet will I favour thee in what I can."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Henry were recall’d to life again, These news would cause him once more yield the ghost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We here below Recall not what we give, and therein may Vie honour with you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A request by the manufacturer of a defective product to return the product (as for replacement or repair).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A call to return.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though thou art adjudged to the death, And passed sentence may not be recall’d But to our honour’s great disparagement, Yet will I favour thee in what I can."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Henry were recall’d to life again, These news would cause him once more yield the ghost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We here below Recall not what we give, and therein may Vie honour with you."*

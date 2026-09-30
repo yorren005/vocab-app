@@ -5,13 +5,6 @@ status: unread
 ---
 # parsec
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of astronomical length based on the distance from earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of astronomical length based on the distance from earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parsec designates a unit of astronomical length based on the distance from earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of astronomical length based on the distance from earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of astronomical length based on the distance from earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parsec designates a unit of astronomical length based on the distance from earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years."*

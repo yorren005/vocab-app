@@ -5,13 +5,6 @@ status: unread
 ---
 # cystolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcium carbonate concretion arising from the cellulose wall of cells of higher plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calcium carbonate concretion arising from the cellulose wall of cells of higher plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystolith designates a calcium carbonate concretion arising from the cellulose wall of cells of higher plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcium carbonate concretion arising from the cellulose wall of cells of higher plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calcium carbonate concretion arising from the cellulose wall of cells of higher plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystolith designates a calcium carbonate concretion arising from the cellulose wall of cells of higher plants."*

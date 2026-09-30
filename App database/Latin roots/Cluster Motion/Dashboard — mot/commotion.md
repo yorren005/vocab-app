@@ -5,15 +5,6 @@ status: unread
 ---
 # commotion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorderly outburst or tumult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a noisy disturbance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, Poins, I feel me much to blame, So idly to profane the precious time, When tempest of commotion, like the south Borne with black vapour, doth begin to melt And drop upon our bare unarmed heads."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By flattery hath he won the commons’ hearts; And when he please to make commotion, ’Tis to be feared they all will follow him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorderly outburst or tumult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a noisy disturbance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, Poins, I feel me much to blame, So idly to profane the precious time, When tempest of commotion, like the south Borne with black vapour, doth begin to melt And drop upon our bare unarmed heads."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By flattery hath he won the commons’ hearts; And when he please to make commotion, ’Tis to be feared they all will follow him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unevenly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneven and irregular way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ragged uneven manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hirple, to move unevenly; to limp."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane, and my mind is breathing unevenly still."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Ah... those peasants!” shouted an officer, seizing by their shoulders and checking the peasants, who were walking unevenly and jolting the stretcher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneven and irregular way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ragged uneven manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hirple, to move unevenly; to limp."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane, and my mind is breathing unevenly still."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Ah... those peasants!” shouted an officer, seizing by their shoulders and checking the peasants, who were walking unevenly and jolting the stretcher."*

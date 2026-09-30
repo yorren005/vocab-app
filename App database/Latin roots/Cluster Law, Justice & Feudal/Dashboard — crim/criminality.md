@@ -5,15 +5,6 @@ status: unread
 ---
 # criminality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a criminal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a criminal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The criminality of wastefulness irritated me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had almost as much as declared his conviction of her criminality last night: what mysterious cause withheld him from accusing her?"*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"He could do what he liked, with all his cleverness to help him, so long as I should continue to defer to the old tradition of the criminality of those caretakers of the young who minister to superstitions and fears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a criminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a criminal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The criminality of wastefulness irritated me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had almost as much as declared his conviction of her criminality last night: what mysterious cause withheld him from accusing her?"*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"He could do what he liked, with all his cleverness to help him, so long as I should continue to defer to the old tradition of the criminality of those caretakers of the young who minister to superstitions and fears."*

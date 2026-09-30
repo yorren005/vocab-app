@@ -5,13 +5,6 @@ status: unread
 ---
 # neoteny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retention of some larval or immature characters in adulthood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attainment of sexual maturity during the larval stage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoteny designates retention of some larval or immature characters in adulthood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retention of some larval or immature characters in adulthood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attainment of sexual maturity during the larval stage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoteny designates retention of some larval or immature characters in adulthood."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypogammaglobulinemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of gamma globulin in the blood and increased risk of infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally low concentration of gamma globulin in the blood and increased risk of infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogammaglobulinemia designates an abnormally low concentration of gamma globulin in the blood and increased risk of infection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of gamma globulin in the blood and increased risk of infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally low concentration of gamma globulin in the blood and increased risk of infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogammaglobulinemia designates an abnormally low concentration of gamma globulin in the blood and increased risk of infection."*

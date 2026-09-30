@@ -5,13 +5,6 @@ status: unread
 ---
 # unpressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of clothing) not smoothed with heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of clothing) not smoothed with heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I my pillow left unpressed in Rome, Forborne the getting of a lawful race, And by a gem of women, to be abused By one that looks on feeders?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of clothing) not smoothed with heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of clothing) not smoothed with heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I my pillow left unpressed in Rome, Forborne the getting of a lawful race, And by a gem of women, to be abused By one that looks on feeders?"*

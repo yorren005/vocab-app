@@ -5,13 +5,6 @@ status: unread
 ---
 # pathognomonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctively characteristic of a particular disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctively characteristic of a particular disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"In your case,” he continued, “the _pathognomonic,_ if you will excuse medical slang, was every now and then broken by the intrusion of altogether foreign symptoms.” I listened with breathless attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctively characteristic of a particular disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctively characteristic of a particular disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"In your case,” he continued, “the _pathognomonic,_ if you will excuse medical slang, was every now and then broken by the intrusion of altogether foreign symptoms.” I listened with breathless attention."*

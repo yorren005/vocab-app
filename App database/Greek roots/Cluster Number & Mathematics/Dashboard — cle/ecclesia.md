@@ -5,15 +5,6 @@ status: unread
 ---
 # ecclesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The real ecclesia, the genuine church, is not so easily split."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist._ [38] 1287.--Conventus Ecclesiæ Beatæ Mariæ de <g>Tynterna</g> intravit dictam ecclesiam ad celebrandum in _nova_ ecclesia."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"HEREF. £ _s._ _d._ Porcio in ecclesia de Tudenham, 3 6 8 TEMPORALIA DIOC."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The real ecclesia, the genuine church, is not so easily split."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist._ [38] 1287.--Conventus Ecclesiæ Beatæ Mariæ de <g>Tynterna</g> intravit dictam ecclesiam ad celebrandum in _nova_ ecclesia."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"HEREF. £ _s._ _d._ Porcio in ecclesia de Tudenham, 3 6 8 TEMPORALIA DIOC."*

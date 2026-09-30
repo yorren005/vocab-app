@@ -5,14 +5,6 @@ status: unread
 ---
 # metallurgist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and technology of metals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science and technology of metals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"However that may be, and it is the subject of discussion among geologists and metallurgists, there the gold is to-day, firmly fixed in the hard rock, and the problem which confronts the metallurgist is to get it out with the least expense."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The work was commenced systematically in about 1878 by Richard Pearse (a Swansea-trained metallurgist) at the Argo Smelter in Colorado."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and technology of metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science and technology of metals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"However that may be, and it is the subject of discussion among geologists and metallurgists, there the gold is to-day, firmly fixed in the hard rock, and the problem which confronts the metallurgist is to get it out with the least expense."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The work was commenced systematically in about 1878 by Richard Pearse (a Swansea-trained metallurgist) at the Argo Smelter in Colorado."*

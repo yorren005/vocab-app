@@ -5,13 +5,6 @@ status: unread
 ---
 # paroxetime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name paxil).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name paxil).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxetime designates a selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name paxil)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name paxil).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name paxil).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxetime designates a selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name paxil)."*

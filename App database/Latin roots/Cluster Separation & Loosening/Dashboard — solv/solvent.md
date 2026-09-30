@@ -5,15 +5,6 @@ status: unread
 ---
 # solvent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquid substance capable of dissolving other substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But every man’s not obliged to be solvent?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Under this plan the company will remain solvent, but with this and all the other expedients the surviving members are forced to drop the insurance in later years."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Laughter, the universal solvent, 60."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquid substance capable of dissolving other substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But every man’s not obliged to be solvent?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Under this plan the company will remain solvent, but with this and all the other expedients the surviving members are forced to drop the insurance in later years."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Laughter, the universal solvent, 60."*

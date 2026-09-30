@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorofluorocarbon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorofluorocarbon designates a fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorofluorocarbon designates a fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans."*

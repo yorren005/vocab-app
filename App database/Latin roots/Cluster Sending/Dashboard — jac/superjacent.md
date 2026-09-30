@@ -5,13 +5,6 @@ status: unread
 ---
 # superjacent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying immediately above or on something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying immediately above or on something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superjacent designates lying immediately above or on something else."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying immediately above or on something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying immediately above or on something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superjacent designates lying immediately above or on something else."*

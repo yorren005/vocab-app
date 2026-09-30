@@ -5,14 +5,6 @@ status: unread
 ---
 # mitt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The (prehensile) extremity of the superior limb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The handwear used by fielders in playing baseball.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"By the dear ruffles round her feet, By her small hands that hung In their lace mitts, austere and sweet, Her gown's white folds among."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Know that in Science you cannot check a fever after ad- 376:30 mitting that it must have its course."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The (prehensile) extremity of the superior limb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The handwear used by fielders in playing baseball.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"By the dear ruffles round her feet, By her small hands that hung In their lace mitts, austere and sweet, Her gown's white folds among."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Know that in Science you cannot check a fever after ad- 376:30 mitting that it must have its course."*

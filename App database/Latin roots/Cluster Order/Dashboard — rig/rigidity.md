@@ -5,15 +5,6 @@ status: unread
 ---
 # rigidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of being stiff and resisting bending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rigid and rigorously severe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with the warmest enthusiasm, though without relaxing the rigidity of a single muscle."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young sergeant stood still with the abnormal rigidity of the old pillars around."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The body lost nothing of its dreadful rigidity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of being stiff and resisting bending.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rigid and rigorously severe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with the warmest enthusiasm, though without relaxing the rigidity of a single muscle."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young sergeant stood still with the abnormal rigidity of the old pillars around."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The body lost nothing of its dreadful rigidity."*

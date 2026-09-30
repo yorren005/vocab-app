@@ -5,13 +5,6 @@ status: unread
 ---
 # telerobotics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of robotics that is concerned with the control of robots from a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of robotics that is concerned with the control of robots from a distance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telerobotics designates the area of robotics that is concerned with the control of robots from a distance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of robotics that is concerned with the control of robots from a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of robotics that is concerned with the control of robots from a distance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telerobotics designates the area of robotics that is concerned with the control of robots from a distance."*

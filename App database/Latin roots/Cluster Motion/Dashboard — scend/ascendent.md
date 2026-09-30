@@ -5,13 +5,6 @@ status: unread
 ---
 # ascendent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position or state of being dominant or in control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone from whom you are descended (but usually more remote than a grandparent).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendent designates position or state of being dominant or in control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position or state of being dominant or in control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone from whom you are descended (but usually more remote than a grandparent).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendent designates position or state of being dominant or in control."*

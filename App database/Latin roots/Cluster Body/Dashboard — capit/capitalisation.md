@@ -5,13 +5,6 @@ status: unread
 ---
 # capitalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing in capital letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation of the value of a business.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The newly opened low-grade “porphyry” camps at Utah and elsewhere, which have been commenced under an enormous capitalisation, anticipate a production at a cost of about 6 cents per pound when steady and normal running is in progress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing in capital letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation of the value of a business.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The newly opened low-grade “porphyry” camps at Utah and elsewhere, which have been commenced under an enormous capitalisation, anticipate a production at a cost of about 6 cents per pound when steady and normal running is in progress."*

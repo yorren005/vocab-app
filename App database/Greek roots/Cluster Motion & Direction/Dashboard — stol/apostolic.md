@@ -5,15 +5,6 @@ status: unread
 ---
 # apostolic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or deriving from the apostles or their teachings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She might just now have been Apostolic Charity herself returned to a self-seeking modern world."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In numerical strength they usually approximated to the apostolic figure of twelve, and Dr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns used to remark that their Christian names included a surprisingly large number of apostolic pairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or deriving from the apostles or their teachings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She might just now have been Apostolic Charity herself returned to a self-seeking modern world."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In numerical strength they usually approximated to the apostolic figure of twelve, and Dr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns used to remark that their Christian names included a surprisingly large number of apostolic pairs."*

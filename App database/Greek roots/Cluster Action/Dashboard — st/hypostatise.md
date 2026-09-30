@@ -5,13 +5,6 @@ status: unread
 ---
 # hypostatise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construe as a real existence, of a conceptual entity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construe as a real existence, of a conceptual entity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatise designates construe as a real existence, of a conceptual entity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Construe as a real existence, of a conceptual entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construe as a real existence, of a conceptual entity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatise designates construe as a real existence, of a conceptual entity."*

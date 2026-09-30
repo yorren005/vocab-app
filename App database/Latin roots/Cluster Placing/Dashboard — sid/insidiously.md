@@ -5,15 +5,6 @@ status: unread
 ---
 # insidiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harmfully insidious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a harmfully insidious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The thought of going home broke out afresh, insidiously avoiding the barriers of bemusement which he had tried to erect, and he turned abruptly away from the window, moving decisively so as to be able to move at all."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Henry Jekyll stood at times aghast before the acts of Edward Hyde; but the situation was apart from ordinary laws, and insidiously relaxed the grasp of conscience."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"They creep insidiously along the intercellular passages, and are provided with certain appendages in the form of straight thread-like tubes, swollen at their tips into globular vesicles (Plate X. fig. 204)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harmfully insidious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a harmfully insidious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"The thought of going home broke out afresh, insidiously avoiding the barriers of bemusement which he had tried to erect, and he turned abruptly away from the window, moving decisively so as to be able to move at all."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Henry Jekyll stood at times aghast before the acts of Edward Hyde; but the situation was apart from ordinary laws, and insidiously relaxed the grasp of conscience."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"They creep insidiously along the intercellular passages, and are provided with certain appendages in the form of straight thread-like tubes, swollen at their tips into globular vesicles (Plate X. fig. 204)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # glaucoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucoma designates an eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucoma designates an eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness)."*

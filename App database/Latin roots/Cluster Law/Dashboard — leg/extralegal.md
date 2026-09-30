@@ -5,13 +5,6 @@ status: unread
 ---
 # extralegal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regulated or sanctioned by law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not regulated or sanctioned by law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extralegal designates not regulated or sanctioned by law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regulated or sanctioned by law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not regulated or sanctioned by law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extralegal designates not regulated or sanctioned by law."*

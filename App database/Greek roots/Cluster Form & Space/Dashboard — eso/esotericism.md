@@ -5,13 +5,6 @@ status: unread
 ---
 # esotericism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Esoteric doctrines or practices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being esoteric.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esotericism designates esoteric doctrines or practices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Esoteric doctrines or practices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being esoteric.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esotericism designates esoteric doctrines or practices."*

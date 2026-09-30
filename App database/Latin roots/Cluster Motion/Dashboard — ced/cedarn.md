@@ -5,13 +5,6 @@ status: unread
 ---
 # cedarn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or made of cedar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or made of cedar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedarn designates consisting of or made of cedar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or made of cedar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or made of cedar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedarn designates consisting of or made of cedar."*

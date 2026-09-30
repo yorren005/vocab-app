@@ -5,15 +5,6 @@ status: unread
 ---
 # parnassia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various usually evergreen bog plants of the genus parnassia having broad smooth basal leaves and a single pale flower resembling a buttercup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various usually evergreen bog plants of the genus parnassia having broad smooth basal leaves and a single pale flower resembling a buttercup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This rust was found on the leaves of the “grass of Parnassus” (_Parnassia palustris_) on a narrow strip of marsh near Irstead church."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GRASS OF PARNASSUS RUST; on both surfaces of the leaves; sori at first bullate, at length rupturing the epidermis, scattered, often confluent; spores globose or nearly so, rather large, tawny brown.—On _Parnassia palustris_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PARNASSIA CLUSTER-CUPS; hypophyllous; spots pallid; peridia in subrotund patches, irregularly disposed, tawny-yellow, between urceolate and concave; the margin thick and nearly entire; spores pallid. _Duby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various usually evergreen bog plants of the genus parnassia having broad smooth basal leaves and a single pale flower resembling a buttercup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various usually evergreen bog plants of the genus parnassia having broad smooth basal leaves and a single pale flower resembling a buttercup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This rust was found on the leaves of the “grass of Parnassus” (_Parnassia palustris_) on a narrow strip of marsh near Irstead church."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GRASS OF PARNASSUS RUST; on both surfaces of the leaves; sori at first bullate, at length rupturing the epidermis, scattered, often confluent; spores globose or nearly so, rather large, tawny brown.—On _Parnassia palustris_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PARNASSIA CLUSTER-CUPS; hypophyllous; spots pallid; peridia in subrotund patches, irregularly disposed, tawny-yellow, between urceolate and concave; the margin thick and nearly entire; spores pallid. _Duby."*

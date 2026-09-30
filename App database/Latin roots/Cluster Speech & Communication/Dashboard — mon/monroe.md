@@ -5,15 +5,6 @@ status: unread
 ---
 # monroe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film actress noted for sex appeal (1926-1962).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 5th president of the united states; author of the monroe doctrine (1758-1831).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But one of them, the captain of the _Monroe_, knowing that Ned Land had shipped on board the _Abraham Lincoln_, begged for his help in chasing a whale they had in sight."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Commander Farragut, desirous of seeing Ned Land at work, gave him permission to go on board the _Monroe_."*
-> - 📜 **Effie Afton (*Eventide*):** *"Down Mount Franklin and over the narrow path cut in the cragged side of Monroe, where a single misstep would hurl the horse and rider down a fathomless abyss, into whose depths the eye dares hardly for a moment gaze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film actress noted for sex appeal (1926-1962).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 5th president of the united states; author of the monroe doctrine (1758-1831).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But one of them, the captain of the _Monroe_, knowing that Ned Land had shipped on board the _Abraham Lincoln_, begged for his help in chasing a whale they had in sight."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Commander Farragut, desirous of seeing Ned Land at work, gave him permission to go on board the _Monroe_."*
+> - 📜 **Effie Afton (*Eventide*):** *"Down Mount Franklin and over the narrow path cut in the cragged side of Monroe, where a single misstep would hurl the horse and rider down a fathomless abyss, into whose depths the eye dares hardly for a moment gaze."*

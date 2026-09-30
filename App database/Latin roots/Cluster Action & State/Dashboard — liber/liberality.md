@@ -5,15 +5,6 @@ status: unread
 ---
 # liberality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to favor progress and individual freedom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being generous in behavior and temperament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Over and beside Signior Baptista’s liberality, I’ll mend it with a largess."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then why should he despair that knows to court it With words, fair looks, and liberality?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and such like, the spice and salt that season a man?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to favor progress and individual freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being generous in behavior and temperament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Over and beside Signior Baptista’s liberality, I’ll mend it with a largess."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then why should he despair that knows to court it With words, fair looks, and liberality?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and such like, the spice and salt that season a man?"*

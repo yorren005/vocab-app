@@ -5,15 +5,6 @@ status: unread
 ---
 # resentfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With resentment; in a resentful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With resentment; in a resentful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The truth is, he wrote to me under a sort of protest while unable to write to you with any hope of an answer—wrote coldly, haughtily, distantly, resentfully."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mrs d’Urberville was not the first mother compelled to love her offspring resentfully, and to be bitterly fond."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley likes,” said her mother, resentfully, “since we are not to visit.” “But you forget, mamma,” said Elizabeth, “that we shall meet him at the assemblies, and that Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With resentment; in a resentful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With resentment; in a resentful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The truth is, he wrote to me under a sort of protest while unable to write to you with any hope of an answer—wrote coldly, haughtily, distantly, resentfully."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mrs d’Urberville was not the first mother compelled to love her offspring resentfully, and to be bitterly fond."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley likes,” said her mother, resentfully, “since we are not to visit.” “But you forget, mamma,” said Elizabeth, “that we shall meet him at the assemblies, and that Mrs."*

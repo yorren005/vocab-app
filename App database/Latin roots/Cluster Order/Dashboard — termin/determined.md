@@ -5,15 +5,6 @@ status: unread
 ---
 # determined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be you not troubled with the time, which drives O’er your content these strong necessities, But let determined things to destiny Hold unbewailed their way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having determined of the Volsces and To send for Titus Lartius, it remains, As the main point of this our after-meeting, To gratify his noble service that Hath thus stood for his country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be you not troubled with the time, which drives O’er your content these strong necessities, But let determined things to destiny Hold unbewailed their way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having determined of the Volsces and To send for Titus Lartius, it remains, As the main point of this our after-meeting, To gratify his noble service that Hath thus stood for his country."*

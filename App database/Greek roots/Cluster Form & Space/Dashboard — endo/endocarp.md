@@ -5,13 +5,6 @@ status: unread
 ---
 # endocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarp designates the inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarp designates the inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # antoninus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Justin addressed an _Apology_ to Antoninus Pius, and one-half of his book is occupied with the demonstration that every major characteristic of Christianity had been prophesied and was a fulfilment."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Frazer on the passage (Pausan. ii, 27, 6) that this man was neither the Emperor Antoninus Pius nor Marcus."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Camden, on the contrary, thinks it of no great antiquity; for several affirm, says he, that “it had its rise, not many ages past, from the ancient <g>Venta</g>”--the Venta Silurum of Antoninus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Justin addressed an _Apology_ to Antoninus Pius, and one-half of his book is occupied with the demonstration that every major characteristic of Christianity had been prophesied and was a fulfilment."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Frazer on the passage (Pausan. ii, 27, 6) that this man was neither the Emperor Antoninus Pius nor Marcus."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Camden, on the contrary, thinks it of no great antiquity; for several affirm, says he, that “it had its rise, not many ages past, from the ancient <g>Venta</g>”--the Venta Silurum of Antoninus."*

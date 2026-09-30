@@ -5,13 +5,6 @@ status: unread
 ---
 # hummingbird
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny american bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny american bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hummingbird designates tiny american bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny american bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny american bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hummingbird designates tiny american bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # verbalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The communication (in speech or writing) of your beliefs or opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overabundance of words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verbalism designates the communication (in speech or writing) of your beliefs or opinions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The communication (in speech or writing) of your beliefs or opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overabundance of words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verbalism designates the communication (in speech or writing) of your beliefs or opinions."*

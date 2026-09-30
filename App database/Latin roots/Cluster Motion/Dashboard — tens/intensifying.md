@@ -5,15 +5,6 @@ status: unread
 ---
 # intensifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By and by the beadle comes out, once more intensifying the sensation, which has rather languished in the interval."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"As in her case, too, the disorder took the form of a great heightening and intensifying of the imaginative faculty."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"At length the surface of the same spots which had been sown in the first instance with the sporidia, become of a whitish tint, rapidly increasing and intensifying."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"By and by the beadle comes out, once more intensifying the sensation, which has rather languished in the interval."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"As in her case, too, the disorder took the form of a great heightening and intensifying of the imaginative faculty."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"At length the surface of the same spots which had been sown in the first instance with the sporidia, become of a whitish tint, rapidly increasing and intensifying."*

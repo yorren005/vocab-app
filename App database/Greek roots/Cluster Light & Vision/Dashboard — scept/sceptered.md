@@ -5,13 +5,6 @@ status: unread
 ---
 # sceptered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with legal power or official authority especially as symbolized by having a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invested with legal power or official authority especially as symbolized by having a scepter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceptered designates invested with legal power or official authority especially as symbolized by having a scepter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with legal power or official authority especially as symbolized by having a scepter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invested with legal power or official authority especially as symbolized by having a scepter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceptered designates invested with legal power or official authority especially as symbolized by having a scepter."*

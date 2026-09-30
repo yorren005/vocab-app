@@ -5,15 +5,6 @@ status: unread
 ---
 # deputation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of representatives or delegates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorizing subordinates to make certain decisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most kind messenger, Say to great Caesar this in deputation: I kiss his conqu’ring hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He writes me here, that inward sickness— And that his friends by deputation could not So soon be drawn, nor did he think it meet To lay so dangerous and dear a trust On any soul removed but on his own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of representatives or delegates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorizing subordinates to make certain decisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most kind messenger, Say to great Caesar this in deputation: I kiss his conqu’ring hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He writes me here, that inward sickness— And that his friends by deputation could not So soon be drawn, nor did he think it meet To lay so dangerous and dear a trust On any soul removed but on his own."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*

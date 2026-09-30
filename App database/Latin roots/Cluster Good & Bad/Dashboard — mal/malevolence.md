@@ -5,15 +5,6 @@ status: unread
 ---
 # malevolence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing evil to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of threatening evil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The son of Duncan, From whom this tyrant holds the due of birth, Lives in the English court and is receiv’d Of the most pious Edward with such grace That the malevolence of fortune nothing Takes from his high respect."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nor is this to be wondered at: for subject as Christianity is to the assaults of unprincipled foes, we are naturally disposed to regard everything like an exposure of ecclesiastical misconduct as the offspring of malevolence or irreligious feeling."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the meantime the snake’s eyes burned with a more pitiless malevolence than ever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing evil to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of threatening evil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The son of Duncan, From whom this tyrant holds the due of birth, Lives in the English court and is receiv’d Of the most pious Edward with such grace That the malevolence of fortune nothing Takes from his high respect."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nor is this to be wondered at: for subject as Christianity is to the assaults of unprincipled foes, we are naturally disposed to regard everything like an exposure of ecclesiastical misconduct as the offspring of malevolence or irreligious feeling."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the meantime the snake’s eyes burned with a more pitiless malevolence than ever."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # absolve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant remission of a sin to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Let off the hook.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"His crime makes guiltie all his Sons, thy merit Imputed shall absolve them who renounce Thir own both righteous and unrighteous deeds, And live in thee transplanted, and from thee Receive new life."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"He “had” me indeed, and in a cleft stick; for who would ever absolve me, who would consent that I should go unhung, if, by the faintest tremor of an overture, I were the first to introduce into our perfect intercourse an element so dire?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"His crime makes guilty all his sons; thy merit, Imputed, shall absolve them who renounce Their own both righteous and unrighteous deeds, And live in thee transplanted, and from thee Receive new life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant remission of a sin to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Let off the hook.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"His crime makes guiltie all his Sons, thy merit Imputed shall absolve them who renounce Thir own both righteous and unrighteous deeds, And live in thee transplanted, and from thee Receive new life."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"He “had” me indeed, and in a cleft stick; for who would ever absolve me, who would consent that I should go unhung, if, by the faintest tremor of an overture, I were the first to introduce into our perfect intercourse an element so dire?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"His crime makes guilty all his sons; thy merit, Imputed, shall absolve them who renounce Their own both righteous and unrighteous deeds, And live in thee transplanted, and from thee Receive new life."*

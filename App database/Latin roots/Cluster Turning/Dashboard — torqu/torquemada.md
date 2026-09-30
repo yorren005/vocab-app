@@ -5,14 +5,6 @@ status: unread
 ---
 # torquemada
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spaniard who as grand inquisitor was responsible for the death of thousands of jews and suspected witches during the spanish inquisition (1420-1498).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spaniard who as grand inquisitor was responsible for the death of thousands of jews and suspected witches during the spanish inquisition (1420-1498).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic! come, Torquemada; fathers of the Inquisition! merciless monsters, seek your equal here."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic, and sleep, O Torquemada, in your fiery jail!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spaniard who as grand inquisitor was responsible for the death of thousands of jews and suspected witches during the spanish inquisition (1420-1498).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spaniard who as grand inquisitor was responsible for the death of thousands of jews and suspected witches during the spanish inquisition (1420-1498).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic! come, Torquemada; fathers of the Inquisition! merciless monsters, seek your equal here."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic, and sleep, O Torquemada, in your fiery jail!"*

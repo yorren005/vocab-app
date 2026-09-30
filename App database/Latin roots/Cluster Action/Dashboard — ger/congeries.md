@@ -5,13 +5,6 @@ status: unread
 ---
 # congeries
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum total of many heterogenous things taken together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum total of many heterogenous things taken together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Dinka are a congeries of independent tribes in the valley of the White Nile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum total of many heterogenous things taken together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum total of many heterogenous things taken together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Dinka are a congeries of independent tribes in the valley of the White Nile."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # protected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HELENA, a Gentlewoman protected by the Countess."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as for you, that love to be protected Under the wings of our Protector’s grace, Begin your suits anew, and sue to him. [_Tears the supplications._] Away, base cullions!—Suffolk, let them go."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no reason why a king of years Should be to be protected like a child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HELENA, a Gentlewoman protected by the Countess."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as for you, that love to be protected Under the wings of our Protector’s grace, Begin your suits anew, and sue to him. [_Tears the supplications._] Away, base cullions!—Suffolk, let them go."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no reason why a king of years Should be to be protected like a child."*

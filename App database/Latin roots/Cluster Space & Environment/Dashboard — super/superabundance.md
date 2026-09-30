@@ -5,15 +5,6 @@ status: unread
 ---
 # superabundance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that is more than what is appropriate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is more than what is appropriate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She wished to help him, to bestow on him the superabundance of her own happiness."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"As to Henrietta, my apology for whom I just left incomplete, she exemplifies, I fear, in her superabundance, not an element of my plan, but only an excess of my zeal."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Of course in some districts food is scarce, in others, there is a superabundance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that is more than what is appropriate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is more than what is appropriate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She wished to help him, to bestow on him the superabundance of her own happiness."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"As to Henrietta, my apology for whom I just left incomplete, she exemplifies, I fear, in her superabundance, not an element of my plan, but only an excess of my zeal."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Of course in some districts food is scarce, in others, there is a superabundance."*

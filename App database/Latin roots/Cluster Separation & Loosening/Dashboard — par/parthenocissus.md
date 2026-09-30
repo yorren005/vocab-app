@@ -5,13 +5,6 @@ status: unread
 ---
 # parthenocissus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody vines having disklike tips on the tendrils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody vines having disklike tips on the tendrils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenocissus designates woody vines having disklike tips on the tendrils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody vines having disklike tips on the tendrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody vines having disklike tips on the tendrils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenocissus designates woody vines having disklike tips on the tendrils."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # camponotus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpenter ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpenter ants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, camponotus designates carpenter ants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpenter ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpenter ants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, camponotus designates carpenter ants."*

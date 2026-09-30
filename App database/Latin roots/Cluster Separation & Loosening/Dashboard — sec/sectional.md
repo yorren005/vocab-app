@@ -5,15 +5,6 @@ status: unread
 ---
 # sectional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of furniture made up of sections that can be arranged individually or together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or based upon a section (i.e. as if cut through by an intersecting plane).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An income tax was opposed as sectional taxation by many in the Eastern states where the owners of most of the larger fortunes reside."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The fruit somewhat resembles in magnitude and general appearance one of our citron melons of ordinary size; but, unlike the citron, it has no sectional lines drawn along the outside."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She is therefore a western woman in her habits, associations and feelings, while her patriotism and philanthropy are not bounded by sectional lines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of furniture made up of sections that can be arranged individually or together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or based upon a section (i.e. as if cut through by an intersecting plane).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An income tax was opposed as sectional taxation by many in the Eastern states where the owners of most of the larger fortunes reside."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The fruit somewhat resembles in magnitude and general appearance one of our citron melons of ordinary size; but, unlike the citron, it has no sectional lines drawn along the outside."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She is therefore a western woman in her habits, associations and feelings, while her patriotism and philanthropy are not bounded by sectional lines."*

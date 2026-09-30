@@ -5,13 +5,6 @@ status: unread
 ---
 # pluralist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleric who holds more than one benefice at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who believes that no single explanation can account for all the phenomena of nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluralist designates a cleric who holds more than one benefice at a time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleric who holds more than one benefice at a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who believes that no single explanation can account for all the phenomena of nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluralist designates a cleric who holds more than one benefice at a time."*

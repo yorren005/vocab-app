@@ -5,13 +5,6 @@ status: unread
 ---
 # tribology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribology designates a study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribology designates a study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears)."*

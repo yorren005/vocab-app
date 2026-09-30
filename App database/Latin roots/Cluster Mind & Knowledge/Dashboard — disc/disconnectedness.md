@@ -5,13 +5,6 @@ status: unread
 ---
 # disconnectedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being disconnected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I used to speculate—but even this with a dim disconnectedness—as to how the rough future (for all futures are rough!) would handle them and might bruise them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being disconnected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I used to speculate—but even this with a dim disconnectedness—as to how the rough future (for all futures are rough!) would handle them and might bruise them."*

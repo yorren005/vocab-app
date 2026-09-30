@@ -5,13 +5,6 @@ status: unread
 ---
 # empathetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathetic designates showing empathy or ready comprehension of others' states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathetic designates showing empathy or ready comprehension of others' states."*

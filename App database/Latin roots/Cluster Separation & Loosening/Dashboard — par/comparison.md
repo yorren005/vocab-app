@@ -5,15 +5,6 @@ status: unread
 ---
 # comparison
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of examining resemblances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relation based on similarities and differences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As fair and as good—a kind of hand-in-hand comparison—had been something too fair and too good for any lady in Britain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the King, for so stands the comparison; thou the beggar, for so witnesseth thy lowliness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of examining resemblances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relation based on similarities and differences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As fair and as good—a kind of hand-in-hand comparison—had been something too fair and too good for any lady in Britain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the King, for so stands the comparison; thou the beggar, for so witnesseth thy lowliness."*

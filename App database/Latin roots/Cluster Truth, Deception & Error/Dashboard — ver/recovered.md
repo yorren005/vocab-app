@@ -5,15 +5,6 @@ status: unread
 ---
 # recovered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en that you have there. [_Exit._] COUNTESS. [_Reads._] _I have sent you a daughter-in-law; she hath recovered the king and undone me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, we cannot greatly condemn our success: some dishonour we had in the loss of that drum, but it is not to be recovered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dismay not, princes, at this accident, Nor grieve that Rouen is so recovered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en that you have there. [_Exit._] COUNTESS. [_Reads._] _I have sent you a daughter-in-law; she hath recovered the king and undone me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, we cannot greatly condemn our success: some dishonour we had in the loss of that drum, but it is not to be recovered."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dismay not, princes, at this accident, Nor grieve that Rouen is so recovered."*

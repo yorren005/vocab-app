@@ -5,13 +5,6 @@ status: unread
 ---
 # excision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission that is made when an editorial change shortens a written passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of a body part or tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This branch of study is indispen- sable to the excision of error."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission that is made when an editorial change shortens a written passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of a body part or tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This branch of study is indispen- sable to the excision of error."*

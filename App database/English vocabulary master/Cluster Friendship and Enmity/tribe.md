@@ -5,20 +5,6 @@ status: unread
 ---
 # tribe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Phyle
-> 2. **Nuance / Usage**: (synecdochically) a tribal nation or people
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch Book*):** *"into soil, but it gives birth to a whole tribe of fungi."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"‘Kurtz got the tribe to follow him, did he?"*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"lid,—“The Lion of the tribe of Judah hath conquered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A social division or traditional community of families and clans linked by shared ancestry, customs, language, and leadership.
+> 2. **Nuance / Usage**: Historically, one of the political or ancestral divisions of ancient Israel or Rome; informally, any distinctive group or class of people sharing a common profession, passion, or character.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The decaying trunk crumbles into soil, and gives birth to a whole **tribe** of fungi."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Kurtz got the **tribe** to follow him, did he?"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Upon the shield was inscribed the motto: The Lion of the **tribe** of Judah hath conquered."*

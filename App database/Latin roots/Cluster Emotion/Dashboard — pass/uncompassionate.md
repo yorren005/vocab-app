@@ -5,13 +5,6 @@ status: unread
 ---
 # uncompassionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking compassion or feeling for others; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking compassion or feeling for others; - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But neither bended knees, pure hands held up, Sad sighs, deep groans, nor silver-shedding tears Could penetrate her uncompassionate sire; But Valentine, if he be ta’en, must die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking compassion or feeling for others; - shakespeare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking compassion or feeling for others; - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But neither bended knees, pure hands held up, Sad sighs, deep groans, nor silver-shedding tears Could penetrate her uncompassionate sire; But Valentine, if he be ta’en, must die."*

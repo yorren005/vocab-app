@@ -5,13 +5,6 @@ status: unread
 ---
 # hyaloplasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear nongranular portion of the cytoplasm of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clear nongranular portion of the cytoplasm of a cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaloplasm designates the clear nongranular portion of the cytoplasm of a cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear nongranular portion of the cytoplasm of a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clear nongranular portion of the cytoplasm of a cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaloplasm designates the clear nongranular portion of the cytoplasm of a cell."*

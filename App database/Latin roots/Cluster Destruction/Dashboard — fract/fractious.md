@@ -5,14 +5,6 @@ status: unread
 ---
 # fractious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly resistant to authority or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She then peeped round to where I sat; so stern a neighbour was too restrictive: to him, in his present fractious mood, she dared whisper no observations, nor ask of him any information."*
-> - 📜 **James Joyce (*Ulysses*):** *"Block tackle and a strangling pulley will bring your lion to heel, no matter how fractious, even _Leo ferox_ there, the Libyan maneater."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly resistant to authority or control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She then peeped round to where I sat; so stern a neighbour was too restrictive: to him, in his present fractious mood, she dared whisper no observations, nor ask of him any information."*
+> - 📜 **James Joyce (*Ulysses*):** *"Block tackle and a strangling pulley will bring your lion to heel, no matter how fractious, even _Leo ferox_ there, the Libyan maneater."*

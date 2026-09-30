@@ -5,14 +5,6 @@ status: unread
 ---
 # urania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the muse of astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of love; counterpart of greek aphrodite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Descend from Heav’n _Urania_, by that name If rightly thou art call’d, whose Voice divine Following, above th’ _Olympian_ Hill I soare, Above the flight of _Pegasean_ wing."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Book VII Descend from Heaven, Urania, by that name If rightly thou art called, whose voice divine Following, above the Olympian hill I soar, Above the flight of Pegasean wing!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the muse of astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of love; counterpart of greek aphrodite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Descend from Heav’n _Urania_, by that name If rightly thou art call’d, whose Voice divine Following, above th’ _Olympian_ Hill I soare, Above the flight of _Pegasean_ wing."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Book VII Descend from Heaven, Urania, by that name If rightly thou art called, whose voice divine Following, above the Olympian hill I soar, Above the flight of Pegasean wing!"*

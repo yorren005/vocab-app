@@ -5,13 +5,6 @@ status: unread
 ---
 # heterotrophic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring organic compounds of carbon and nitrogen for nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring organic compounds of carbon and nitrogen for nourishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotrophic designates requiring organic compounds of carbon and nitrogen for nourishment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring organic compounds of carbon and nitrogen for nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring organic compounds of carbon and nitrogen for nourishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotrophic designates requiring organic compounds of carbon and nitrogen for nourishment."*

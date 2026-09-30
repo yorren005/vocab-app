@@ -5,13 +5,6 @@ status: unread
 ---
 # oregano
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic eurasian perennial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent leaves used as seasoning with meats and fowl and in stews and soups and omelets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oregano designates aromatic eurasian perennial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic eurasian perennial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent leaves used as seasoning with meats and fowl and in stews and soups and omelets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oregano designates aromatic eurasian perennial."*

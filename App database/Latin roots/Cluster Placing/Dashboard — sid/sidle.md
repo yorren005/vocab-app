@@ -5,15 +5,6 @@ status: unread
 ---
 # sidle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move unobtrusively or furtively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move sideways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here I am, commander!” cries Phil, who has started from his chair and unaccountably begun to sidle away."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Occasionally, the delighted parent reached out her hand towards it, when the little thing, uttering a faint cry, and striking out its tiny limbs, would sidle for the rock, and the next moment be clasped to its mother’s bosom."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Next, leaving him to sidle along the footwalk, cast your eyes in the opposite direction, where a portly female, considerably in the wane of life, with a prayer-book in her hand, is proceeding to yonder church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move unobtrusively or furtively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move sideways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here I am, commander!” cries Phil, who has started from his chair and unaccountably begun to sidle away."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Occasionally, the delighted parent reached out her hand towards it, when the little thing, uttering a faint cry, and striking out its tiny limbs, would sidle for the rock, and the next moment be clasped to its mother’s bosom."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Next, leaving him to sidle along the footwalk, cast your eyes in the opposite direction, where a portly female, considerably in the wane of life, with a prayer-book in her hand, is proceeding to yonder church."*

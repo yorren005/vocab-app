@@ -5,15 +5,6 @@ status: unread
 ---
 # precocious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing or developing early.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such a precocious little girl, with such a dowdy bonnet on (that, too, of a gauzy texture), who brought her sandalled shoes in an old threadbare velvet reticule."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I judged then that the children of that time were extremely precocious, physically at least, and I found afterwards abundant verification of my opinion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing or developing early.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Such a precocious little girl, with such a dowdy bonnet on (that, too, of a gauzy texture), who brought her sandalled shoes in an old threadbare velvet reticule."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I judged then that the children of that time were extremely precocious, physically at least, and I found afterwards abundant verification of my opinion."*

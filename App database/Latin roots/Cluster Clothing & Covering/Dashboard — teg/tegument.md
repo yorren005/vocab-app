@@ -5,13 +5,6 @@ status: unread
 ---
 # tegument
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural protective body covering and site of the sense of touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural protective body covering and site of the sense of touch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegument designates a natural protective body covering and site of the sense of touch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural protective body covering and site of the sense of touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural protective body covering and site of the sense of touch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegument designates a natural protective body covering and site of the sense of touch."*

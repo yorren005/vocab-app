@@ -5,13 +5,6 @@ status: unread
 ---
 # bontemps
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (1902-1973).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer (1902-1973).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bontemps designates united states writer (1902-1973)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (1902-1973).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer (1902-1973).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bontemps designates united states writer (1902-1973)."*

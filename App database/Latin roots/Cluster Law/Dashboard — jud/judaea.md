@@ -5,13 +5,6 @@ status: unread
 ---
 # judaea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They were a large class--men and women open to religious ideas from whatever source they might come--Egypt, Judaea, or Persia, desirous of the knowledge of {260} God and of communion with God, and in many cases conscious of sin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They were a large class--men and women open to religious ideas from whatever source they might come--Egypt, Judaea, or Persia, desirous of the knowledge of {260} God and of communion with God, and in many cases conscious of sin."*

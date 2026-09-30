@@ -5,13 +5,6 @@ status: unread
 ---
 # antecedency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecedency designates preceding in time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecedency designates preceding in time."*

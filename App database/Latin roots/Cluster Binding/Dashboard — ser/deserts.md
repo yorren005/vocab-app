@@ -5,15 +5,6 @@ status: unread
 ---
 # deserts
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outcome (good or bad) that is well deserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arid land with little or no vegetation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To give away yourself, keeps yourself still, And you must live drawn by your own sweet skill. 17 Who will believe my verse in time to come If it were filled with your most high deserts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, stand up; and for these good deserts We here create you Earl of Shrewsbury; And in our coronation take your place. [_Sennet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector will, I doubt it not, See you well guerdoned for these good deserts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outcome (good or bad) that is well deserved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arid land with little or no vegetation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To give away yourself, keeps yourself still, And you must live drawn by your own sweet skill. 17 Who will believe my verse in time to come If it were filled with your most high deserts?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, stand up; and for these good deserts We here create you Earl of Shrewsbury; And in our coronation take your place. [_Sennet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector will, I doubt it not, See you well guerdoned for these good deserts."*

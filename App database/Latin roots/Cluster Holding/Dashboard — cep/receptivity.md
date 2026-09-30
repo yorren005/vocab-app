@@ -5,15 +5,6 @@ status: unread
 ---
 # receptivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willingness or readiness to receive (especially impressions or ideas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willingness or readiness to receive (especially impressions or ideas).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The attitudes of receptivity are various, and Will had sincerely tried many of them."*
-> - 📜 **Bram Stoker (*Dracula*):** *"We keep him, and we value him; but all the same we must not let him think himself all the truth in the universe.” “Then you want me not to let some previous conviction injure the receptivity of my mind with regard to some strange matter."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Childlike receptivity The effects of Christian Science are not so much seen as felt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willingness or readiness to receive (especially impressions or ideas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willingness or readiness to receive (especially impressions or ideas).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The attitudes of receptivity are various, and Will had sincerely tried many of them."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We keep him, and we value him; but all the same we must not let him think himself all the truth in the universe.” “Then you want me not to let some previous conviction injure the receptivity of my mind with regard to some strange matter."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Childlike receptivity The effects of Christian Science are not so much seen as felt."*

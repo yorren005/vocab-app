@@ -5,13 +5,6 @@ status: unread
 ---
 # carburize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unite with carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unite with carbon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburize designates unite with carbon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unite with carbon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unite with carbon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburize designates unite with carbon."*

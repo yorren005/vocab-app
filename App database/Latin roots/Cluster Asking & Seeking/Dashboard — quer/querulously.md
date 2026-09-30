@@ -5,15 +5,6 @@ status: unread
 ---
 # querulously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peevish manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peevish manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I don’t know how we could manage without him,” answered the elder woman querulously."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He had received the sound of the crash from the ape-man's brain and was asking querulously what it meant."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Must not!" repeated the little man, querulously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peevish manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peevish manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I don’t know how we could manage without him,” answered the elder woman querulously."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He had received the sound of the crash from the ape-man's brain and was asking querulously what it meant."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Must not!" repeated the little man, querulously."*

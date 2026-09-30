@@ -5,13 +5,6 @@ status: unread
 ---
 # paramilitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of civilians organized in a military fashion (especially to operate in place of or to assist regular army troops).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a group of civilians organized to function like or to assist a military unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramilitary designates a group of civilians organized in a military fashion (especially to operate in place of or to assist regular army troops)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of civilians organized in a military fashion (especially to operate in place of or to assist regular army troops).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a group of civilians organized to function like or to assist a military unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramilitary designates a group of civilians organized in a military fashion (especially to operate in place of or to assist regular army troops)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neurogenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising in or stimulated by nerve tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising in or stimulated by nerve tissues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurogenic designates arising in or stimulated by nerve tissues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising in or stimulated by nerve tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising in or stimulated by nerve tissues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurogenic designates arising in or stimulated by nerve tissues."*

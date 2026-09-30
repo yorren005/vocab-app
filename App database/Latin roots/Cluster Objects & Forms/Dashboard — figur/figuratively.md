@@ -5,15 +5,6 @@ status: unread
 ---
 # figuratively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a figurative sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a figurative sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Figuratively, this is what money does."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If she had managed the victory at once, and he had yielded and sincerely laid his heart at her feet, I should have covered my face, turned to the wall, and (figuratively) have died to them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is your time now, little tyrant, but it will be mine presently; and when once I have fairly seized you, to have and to hold, I’ll just—figuratively speaking—attach you to a chain like this” (touching his watch-guard)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a figurative sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a figurative sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Figuratively, this is what money does."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If she had managed the victory at once, and he had yielded and sincerely laid his heart at her feet, I should have covered my face, turned to the wall, and (figuratively) have died to them."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is your time now, little tyrant, but it will be mine presently; and when once I have fairly seized you, to have and to hold, I’ll just—figuratively speaking—attach you to a chain like this” (touching his watch-guard)."*

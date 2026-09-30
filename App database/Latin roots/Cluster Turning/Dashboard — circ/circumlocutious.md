@@ -5,13 +5,6 @@ status: unread
 ---
 # circumlocutious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumlocutious designates roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumlocutious designates roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic)."*

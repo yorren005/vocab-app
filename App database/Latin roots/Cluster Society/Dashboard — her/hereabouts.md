@@ -5,15 +5,6 @@ status: unread
 ---
 # hereabouts
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In this general vicinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In this general vicinity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli got it at the best farm hereabouts." After tasting a little the Baron was surprised how good it was."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Where can I lodge him hereabouts for the present?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"And take it altogether, now that we have been into most of the houses hereabouts and can judge, there is not one that we like better than this."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In this general vicinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In this general vicinity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli got it at the best farm hereabouts." After tasting a little the Baron was surprised how good it was."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Where can I lodge him hereabouts for the present?"*
+> - 📜 **Jane Austen (*Persuasion*):** *"And take it altogether, now that we have been into most of the houses hereabouts and can judge, there is not one that we like better than this."*

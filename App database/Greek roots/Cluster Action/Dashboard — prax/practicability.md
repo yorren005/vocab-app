@@ -5,15 +5,6 @@ status: unread
 ---
 # practicability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being usable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being usable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet both engage to have the requisite information ready and even hint to each other at the practicability of having a small stock collected there for approval."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Practicability of the wage system. § 5."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On a comparison of this extent with that of several countries in Europe, the practicability of rendering our system commensurate to it appears to be demonstrable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being usable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being usable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet both engage to have the requisite information ready and even hint to each other at the practicability of having a small stock collected there for approval."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Practicability of the wage system. § 5."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On a comparison of this extent with that of several countries in Europe, the practicability of rendering our system commensurate to it appears to be demonstrable."*

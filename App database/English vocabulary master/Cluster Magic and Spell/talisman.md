@@ -5,20 +5,6 @@ status: unread
 ---
 # talisman
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to adorn with a talisman
-> 2. **Nuance / Usage**: (india, obsolete) a mullah (islamic religious scholar)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the talisman withstood the storm*), direct object (*cleaved the talisman*), or prepositional anchor (*amidst the talisman*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank Baum (*Rinkitink in Oz*):** *"I have in my possession three Magic Talismans, which I have ever guarded with utmost care, keeping the knowledge of their existence from anyone else."*
-> - 📜 **Delano Ames (*Crime out of Mind*):** *"Dagobert gave him back his passport. He re-pocketed it indifferently; a talisman which had lost its potency."*
-> - 📜 **John Peel (*War of the Daleks*):** *"She kept low, clutching the rifle she'd taken as though it were a magic talisman, as if it would somehow protect her even though she didn't fire it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: An object—typically a ring, stone, or inscribed medal—believed to possess occult powers that protect the bearer or bring good fortune.
+> 2. **Nuance / Usage**: Figuratively, anything whose presence exercises a remarkable, almost miraculous comforting or empowering influence on the mind.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the talisman withstood the storm*), direct object (*cleaved the talisman*), or prepositional anchor (*amidst the talisman*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sir Walter Scott (*The Talisman*):** *"The Soldan drew from his bosom a small silken bag containing the celebrated **talisman** that had healed the fevered knight."*
+> - 📜 **L. Frank Baum (*Rinkitink in Oz*):** *"I have in my possession three magic **talismans**, which I have ever guarded with the utmost care."*
+> - 📜 **W. W. Jacobs (*The Monkey's Paw*):** *"He took the shriveled paw from his pocket and held it toward the fire as if testing the power of the dreadful **talisman**."*

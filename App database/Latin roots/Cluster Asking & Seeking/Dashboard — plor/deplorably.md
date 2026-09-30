@@ -5,15 +5,6 @@ status: unread
 ---
 # deplorably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfortunate or deplorable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unfortunate or deplorable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I told him, too, that he being in other things such an extremely sensible and sagacious savage, it pained me, very badly pained me, to see him now so deplorably foolish about this ridiculous Ramadan of his."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Her very looks denote her desires! how deplorably she appears!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I told him, too, that he being in other things such an extremely sensible and sagacious savage, it pained me, very badly pained me, to see him now so deplorably foolish about this ridiculous Ramadan of his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfortunate or deplorable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unfortunate or deplorable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I told him, too, that he being in other things such an extremely sensible and sagacious savage, it pained me, very badly pained me, to see him now so deplorably foolish about this ridiculous Ramadan of his."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Her very looks denote her desires! how deplorably she appears!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I told him, too, that he being in other things such an extremely sensible and sagacious savage, it pained me, very badly pained me, to see him now so deplorably foolish about this ridiculous Ramadan of his."*

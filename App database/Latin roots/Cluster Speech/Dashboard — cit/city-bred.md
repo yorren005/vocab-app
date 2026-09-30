@@ -5,13 +5,6 @@ status: unread
 ---
 # city-bred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having the customs or manners or dress of a city person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, city-bred designates being or having the customs or manners or dress of a city person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having the customs or manners or dress of a city person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having the customs or manners or dress of a city person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, city-bred designates being or having the customs or manners or dress of a city person."*

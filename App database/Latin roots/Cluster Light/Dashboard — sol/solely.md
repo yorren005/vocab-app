@@ -5,15 +5,6 @@ status: unread
 ---
 # solely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any others being included or involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any others being included or involved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I wish, sir— I mean for your particular—you had not Joined in commission with him, but either Had borne the action of yourself or else To him had left it solely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now thrive the armourers, and honour’s thought Reigns solely in the breast of every man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that’s coming Must be provided for; and you shall put This night’s great business into my dispatch; Which shall to all our nights and days to come Give solely sovereign sway and masterdom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any others being included or involved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any others being included or involved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I wish, sir— I mean for your particular—you had not Joined in commission with him, but either Had borne the action of yourself or else To him had left it solely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now thrive the armourers, and honour’s thought Reigns solely in the breast of every man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that’s coming Must be provided for; and you shall put This night’s great business into my dispatch; Which shall to all our nights and days to come Give solely sovereign sway and masterdom."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # miscast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast an actor, singer, or dancer in an unsuitable role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast an actor, singer, or dancer in an unsuitable role.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscast designates cast an actor, singer, or dancer in an unsuitable role."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast an actor, singer, or dancer in an unsuitable role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast an actor, singer, or dancer in an unsuitable role.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscast designates cast an actor, singer, or dancer in an unsuitable role."*

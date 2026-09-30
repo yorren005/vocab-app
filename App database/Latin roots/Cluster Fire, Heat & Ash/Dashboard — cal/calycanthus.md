@@ -5,13 +5,6 @@ status: unread
 ---
 # calycanthus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnoliid dicot genus of the family calycanthaceae including: allspice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magnoliid dicot genus of the family calycanthaceae including: allspice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycanthus designates a magnoliid dicot genus of the family calycanthaceae including: allspice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnoliid dicot genus of the family calycanthaceae including: allspice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magnoliid dicot genus of the family calycanthaceae including: allspice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycanthus designates a magnoliid dicot genus of the family calycanthaceae including: allspice."*

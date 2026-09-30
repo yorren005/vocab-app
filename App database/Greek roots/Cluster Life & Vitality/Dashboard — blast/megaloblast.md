@@ -5,13 +5,6 @@ status: unread
 ---
 # megaloblast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large red blood cell present in pernicious anemia and folic acid deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally large red blood cell present in pernicious anemia and folic acid deficiency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloblast designates abnormally large red blood cell present in pernicious anemia and folic acid deficiency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large red blood cell present in pernicious anemia and folic acid deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally large red blood cell present in pernicious anemia and folic acid deficiency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloblast designates abnormally large red blood cell present in pernicious anemia and folic acid deficiency."*

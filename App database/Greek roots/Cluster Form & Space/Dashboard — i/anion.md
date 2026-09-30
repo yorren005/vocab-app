@@ -5,13 +5,6 @@ status: unread
 ---
 # anion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anion designates the ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anion designates the ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion."*

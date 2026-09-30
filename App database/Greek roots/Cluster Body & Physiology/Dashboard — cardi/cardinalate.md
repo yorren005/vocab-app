@@ -5,13 +5,6 @@ status: unread
 ---
 # cardinalate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardinals collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardinals collectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinalate designates cardinals collectively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardinals collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardinals collectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinalate designates cardinals collectively."*

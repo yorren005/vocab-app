@@ -5,15 +5,6 @@ status: unread
 ---
 # express
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mail that is distributed by a rapid and efficient system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Public transport consisting of a fast train or bus that makes only a few scheduled stops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You ne’er oppress’d me with a mother’s groan, Yet I express to you a mother’s care."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that and all the progress more and less, Resolvedly more leisure shall express."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither rhyme nor reason can express how much."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mail that is distributed by a rapid and efficient system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Public transport consisting of a fast train or bus that makes only a few scheduled stops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You ne’er oppress’d me with a mother’s groan, Yet I express to you a mother’s care."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that and all the progress more and less, Resolvedly more leisure shall express."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither rhyme nor reason can express how much."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity obtained by the addition of a group of numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profitless usurer why dost thou use So great a sum of sums yet canst not live?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity obtained by the addition of a group of numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profitless usurer why dost thou use So great a sum of sums yet canst not live?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*

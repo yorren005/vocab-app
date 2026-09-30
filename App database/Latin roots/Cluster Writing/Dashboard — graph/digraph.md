@@ -5,13 +5,6 @@ status: unread
 ---
 # digraph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two successive letters (especially two letters used to represent a single sound: `sh' in `shoe').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two successive letters (especially two letters used to represent a single sound: `sh' in `shoe').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digraph designates two successive letters (especially two letters used to represent a single sound: `sh' in `shoe')."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Two successive letters (especially two letters used to represent a single sound: `sh' in `shoe').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two successive letters (especially two letters used to represent a single sound: `sh' in `shoe').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digraph designates two successive letters (especially two letters used to represent a single sound: `sh' in `shoe')."*

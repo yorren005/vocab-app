@@ -5,14 +5,6 @@ status: unread
 ---
 # innocuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not injurious to physical or mental health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In this particular case, however mechanical and innocuous it might be at other times, Hepzibah’s contortion of brow served her in good stead."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Too long has this literary masterpiece been buried in translations, unavoidably cumbrous and inspirationally innocuous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not injurious to physical or mental health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In this particular case, however mechanical and innocuous it might be at other times, Hepzibah’s contortion of brow served her in good stead."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Too long has this literary masterpiece been buried in translations, unavoidably cumbrous and inspirationally innocuous."*

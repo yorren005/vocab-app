@@ -5,13 +5,6 @@ status: unread
 ---
 # descriptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of stored information that is used to identify an item in an information storage and retrieval system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, descriptor designates the phonological or orthographic sound or appearance of a word that can be used to describe or identify something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of stored information that is used to identify an item in an information storage and retrieval system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, descriptor designates the phonological or orthographic sound or appearance of a word that can be used to describe or identify something."*

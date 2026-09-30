@@ -5,14 +5,6 @@ status: unread
 ---
 # inflorescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time and process of budding and unfolding of blossoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flowering part of a plant or arrangement of flowers on a stalk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of _Polygonum hydropiper_ with Utricle smut (_Ustilago utriculosa_). 〃 115."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of Scabious with Floret smut (_Ustilago flosculorum_). 〃 124."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time and process of budding and unfolding of blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flowering part of a plant or arrangement of flowers on a stalk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of _Polygonum hydropiper_ with Utricle smut (_Ustilago utriculosa_). 〃 115."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of Scabious with Floret smut (_Ustilago flosculorum_). 〃 124."*

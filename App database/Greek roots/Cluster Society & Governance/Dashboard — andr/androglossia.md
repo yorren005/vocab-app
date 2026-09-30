@@ -5,13 +5,6 @@ status: unread
 ---
 # androglossia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's voice with male qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman's voice with male qualities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androglossia designates a woman's voice with male qualities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's voice with male qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman's voice with male qualities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androglossia designates a woman's voice with male qualities."*

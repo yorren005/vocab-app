@@ -5,14 +5,6 @@ status: unread
 ---
 # conjunctive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uninflected function word that serves to conjoin words or phrases or clauses or sentences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or tending to connect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen his mother Lives almost by his looks; and for myself,— My virtue or my plague, be it either which,— She’s so conjunctive to my life and soul, That, as the star moves not but in his sphere, I could not but by her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us be conjunctive in our revenge against him: if thou canst cuckold him, thou dost thyself a pleasure, me a sport."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An uninflected function word that serves to conjoin words or phrases or clauses or sentences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or tending to connect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen his mother Lives almost by his looks; and for myself,— My virtue or my plague, be it either which,— She’s so conjunctive to my life and soul, That, as the star moves not but in his sphere, I could not but by her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us be conjunctive in our revenge against him: if thou canst cuckold him, thou dost thyself a pleasure, me a sport."*

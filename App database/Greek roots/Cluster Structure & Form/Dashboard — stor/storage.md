@@ -5,15 +5,6 @@ status: unread
 ---
 # storage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of storing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a windowless erection used for storage, and from the open door there floated into the obscurity a mist of yellow radiance, which at first Tess thought to be illuminated smoke."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Commission, and the gloom of Polk and Lee, Ned and the rest of them could have easily been cut in blocks and used for cold storage purposes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the period of our arrival at the Island, the heaviest storage of the Pequod had been almost completed; comprising her beef, bread, water, fuel, and iron hoops and staves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of storing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a windowless erection used for storage, and from the open door there floated into the obscurity a mist of yellow radiance, which at first Tess thought to be illuminated smoke."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Commission, and the gloom of Polk and Lee, Ned and the rest of them could have easily been cut in blocks and used for cold storage purposes."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the period of our arrival at the Island, the heaviest storage of the Pequod had been almost completed; comprising her beef, bread, water, fuel, and iron hoops and staves."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe replied, as she now replied, “O, Un—cle Pum-ble—chook!"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Nowadays all the married men live like bachelors, and all the bachelors like married men.” “_Fin de siêcle_,” murmured Lord Henry."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Saragossa" ranks with Tolstoi's "War and Peace," and Zola's "La Débâcle," among great dramatic war novels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe replied, as she now replied, “O, Un—cle Pum-ble—chook!"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Nowadays all the married men live like bachelors, and all the bachelors like married men.” “_Fin de siêcle_,” murmured Lord Henry."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Saragossa" ranks with Tolstoi's "War and Peace," and Zola's "La Débâcle," among great dramatic war novels."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reverently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With reverence; in a reverent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reverence; in a reverent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chide him for faults, and do it reverently, When you perceive his blood inclined to mirth; But, being moody, give him time and scope, Till that his passions, like a whale on ground, Confound themselves with working."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bright star of Venus, fall’n down on the earth, How may I reverently worship thee enough?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Northumberland, I hold thee reverently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With reverence; in a reverent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reverence; in a reverent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chide him for faults, and do it reverently, When you perceive his blood inclined to mirth; But, being moody, give him time and scope, Till that his passions, like a whale on ground, Confound themselves with working."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bright star of Venus, fall’n down on the earth, How may I reverently worship thee enough?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Northumberland, I hold thee reverently."*

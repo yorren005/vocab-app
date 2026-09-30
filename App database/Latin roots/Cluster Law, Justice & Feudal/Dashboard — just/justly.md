@@ -5,15 +5,6 @@ status: unread
 ---
 # justly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with moral or social standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You that have turn’d off a first so noble wife May justly diet me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you do keep your promises in love But justly, as you have exceeded promise, Your mistress shall be happy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this the madman justly chargeth them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With honesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with moral or social standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You that have turn’d off a first so noble wife May justly diet me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you do keep your promises in love But justly, as you have exceeded promise, Your mistress shall be happy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this the madman justly chargeth them."*

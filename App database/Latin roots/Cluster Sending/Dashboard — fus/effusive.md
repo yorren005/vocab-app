@@ -5,15 +5,6 @@ status: unread
 ---
 # effusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttered with unrestrained enthusiasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagantly demonstrative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He greeted me with effusive shouts, and drew me aside."*
-> - 📜 **James Joyce (*Ulysses*):** *"His initial impression was he was a shade standoffish or not over effusive but it grew on him someway."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"The visitor was effusive in her meeting with Martin's mother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttered with unrestrained enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagantly demonstrative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He greeted me with effusive shouts, and drew me aside."*
+> - 📜 **James Joyce (*Ulysses*):** *"His initial impression was he was a shade standoffish or not over effusive but it grew on him someway."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"The visitor was effusive in her meeting with Martin's mother."*

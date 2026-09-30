@@ -5,15 +5,6 @@ status: unread
 ---
 # secretion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic process of synthesizing and releasing some substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A functionally specialized substance (especially one that is not a waste) released from a gland or cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Obedient muscles 160:9 The motion of the arm is no more dependent upon the direction of mortal mind, than are the organic action and secretion of the viscera."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The husband is excluded from the hut for eight days of the lying-in period, chiefly from fear that he might be contaminated by this secretion."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Each year the secretions of the mollusc would add new concentric circles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic process of synthesizing and releasing some substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A functionally specialized substance (especially one that is not a waste) released from a gland or cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Obedient muscles 160:9 The motion of the arm is no more dependent upon the direction of mortal mind, than are the organic action and secretion of the viscera."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The husband is excluded from the hut for eight days of the lying-in period, chiefly from fear that he might be contaminated by this secretion."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Each year the secretions of the mollusc would add new concentric circles."*

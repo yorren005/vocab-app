@@ -5,15 +5,6 @@ status: unread
 ---
 # bonito
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flesh of mostly pacific food fishes of the genus sarda of the family scombridae; related to but smaller than tuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish whose flesh is dried and flaked for japanese cookery; may be same species as skipjack tuna.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"From Kahoolawe, Aiai next went to Lanai, where he started fishing for _aku_ (bonito) at Cape Kaunolu, using his pearl Kahuoi."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Sweet potatoes have been successfully tried in the vicinity of Fort Sumner and along the head-waters of the Rio Bonito."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These waters furnished our table with excellent fish, mackerel, bonitos, and some varieties of a sea-serpent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flesh of mostly pacific food fishes of the genus sarda of the family scombridae; related to but smaller than tuna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish whose flesh is dried and flaked for japanese cookery; may be same species as skipjack tuna.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"From Kahoolawe, Aiai next went to Lanai, where he started fishing for _aku_ (bonito) at Cape Kaunolu, using his pearl Kahuoi."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Sweet potatoes have been successfully tried in the vicinity of Fort Sumner and along the head-waters of the Rio Bonito."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These waters furnished our table with excellent fish, mackerel, bonitos, and some varieties of a sea-serpent."*

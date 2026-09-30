@@ -5,13 +5,6 @@ status: unread
 ---
 # silverfish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Silver-grey wingless insect found in houses feeding on book bindings and starched clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silvery variety of carassius auratus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverfish designates silver-grey wingless insect found in houses feeding on book bindings and starched clothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Silver-grey wingless insect found in houses feeding on book bindings and starched clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silvery variety of carassius auratus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverfish designates silver-grey wingless insect found in houses feeding on book bindings and starched clothing."*

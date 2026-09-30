@@ -5,13 +5,6 @@ status: unread
 ---
 # circinus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small faint constellation in the southern hemisphere near musca and triangulum australe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small faint constellation in the southern hemisphere near musca and triangulum australe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circinus designates a small faint constellation in the southern hemisphere near musca and triangulum australe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small faint constellation in the southern hemisphere near musca and triangulum australe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small faint constellation in the southern hemisphere near musca and triangulum australe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circinus designates a small faint constellation in the southern hemisphere near musca and triangulum australe."*

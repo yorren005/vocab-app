@@ -5,15 +5,6 @@ status: unread
 ---
 # disgusting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with distaste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Everything that revolts other people, low company, paltry rooms, foul air, disgusting associations are inviting to you."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her professions of attachment were now as disgusting as her excuses were empty, and her demands impudent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I saw a universal manifestation of discontent when the fumes of the repast met the nostrils of those destined to swallow it; from the van of the procession, the tall girls of the first class, rose the whispered words— “Disgusting!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with distaste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Everything that revolts other people, low company, paltry rooms, foul air, disgusting associations are inviting to you."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her professions of attachment were now as disgusting as her excuses were empty, and her demands impudent."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I saw a universal manifestation of discontent when the fumes of the repast met the nostrils of those destined to swallow it; from the van of the procession, the tall girls of the first class, rose the whispered words— “Disgusting!"*

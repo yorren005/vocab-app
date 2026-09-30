@@ -5,15 +5,6 @@ status: unread
 ---
 # plummet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal bob of a plumb line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop sharply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ignorance itself is a plummet o’er me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my son i’ th’ ooze is bedded; and I’ll seek him deeper than e’er plummet sounded, And with him there lie mudded. [_Exit._] SEBASTIAN."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Light as it was, I heard it fall like a plummet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal bob of a plumb line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop sharply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ignorance itself is a plummet o’er me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my son i’ th’ ooze is bedded; and I’ll seek him deeper than e’er plummet sounded, And with him there lie mudded. [_Exit._] SEBASTIAN."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Light as it was, I heard it fall like a plummet."*

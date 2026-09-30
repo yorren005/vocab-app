@@ -5,15 +5,6 @@ status: unread
 ---
 # reanimated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given fresh life or vigor or spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This kindly light reanimated us."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This sight reanimated me; and seizing my own knife, I hacked and hewed away without mercy."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But ever since Gaboriau created his Lecoq, the transcendent detective has been in favor; and Conan Doyle’s famous gentleman analyst has given him a fresh lease of life, and reanimated the stage by reverting to the method of Poe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given fresh life or vigor or spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This kindly light reanimated us."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This sight reanimated me; and seizing my own knife, I hacked and hewed away without mercy."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But ever since Gaboriau created his Lecoq, the transcendent detective has been in favor; and Conan Doyle’s famous gentleman analyst has given him a fresh lease of life, and reanimated the stage by reverting to the method of Poe."*

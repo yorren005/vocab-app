@@ -5,13 +5,6 @@ status: unread
 ---
 # feces
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid excretory product evacuated from the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feces designates solid excretory product evacuated from the bowels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid excretory product evacuated from the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feces designates solid excretory product evacuated from the bowels."*

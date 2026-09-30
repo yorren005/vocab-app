@@ -5,13 +5,6 @@ status: unread
 ---
 # gravidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical terms for pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical terms for pregnancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravidity designates technical terms for pregnancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical terms for pregnancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical terms for pregnancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravidity designates technical terms for pregnancy."*

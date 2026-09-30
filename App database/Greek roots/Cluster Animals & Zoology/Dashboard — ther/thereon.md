@@ -5,15 +5,6 @@ status: unread
 ---
 # thereon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On that.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he love her not, And be not from his reason fall’n thereon, Let me be no assistant for a state, But keep a farm and carters."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thereon I pawn my credit and mine honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave “Edward” and “York.” Then haply will she weep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On that.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On that.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he love her not, And be not from his reason fall’n thereon, Let me be no assistant for a state, But keep a farm and carters."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thereon I pawn my credit and mine honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave “Edward” and “York.” Then haply will she weep."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # deductible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (taxes) an amount that can be deducted (especially for the purposes of calculating income tax).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clause in an insurance policy that relieves the insurer of responsibility to pay the initial loss up to a stated amount.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deductible designates (taxes) an amount that can be deducted (especially for the purposes of calculating income tax)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (taxes) an amount that can be deducted (especially for the purposes of calculating income tax).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clause in an insurance policy that relieves the insurer of responsibility to pay the initial loss up to a stated amount.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deductible designates (taxes) an amount that can be deducted (especially for the purposes of calculating income tax)."*

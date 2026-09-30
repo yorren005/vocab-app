@@ -5,13 +5,6 @@ status: unread
 ---
 # exogamous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage outside of a specific group especially as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage outside of a specific group especially as required by custom or law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bataks are divided into exogamous clans (_margas_) with descent in the male line; and each clan is forbidden to eat the flesh of a particular animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage outside of a specific group especially as required by custom or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage outside of a specific group especially as required by custom or law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bataks are divided into exogamous clans (_margas_) with descent in the male line; and each clan is forbidden to eat the flesh of a particular animal."*

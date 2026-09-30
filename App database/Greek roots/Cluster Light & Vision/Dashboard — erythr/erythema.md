@@ -5,13 +5,6 @@ status: unread
 ---
 # erythema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal redness of the skin or mucous membranes due to capillary congestion (as in inflammation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red spreading annular skin lesion that is an early symptom of Lyme disease and that develops at the site of the bite of a tick (such as the deer tick) infected with the causative spirochete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythema designates abnormal redness of the skin or mucous membranes due to capillary congestion (as in inflammation)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal redness of the skin or mucous membranes due to capillary congestion (as in inflammation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red spreading annular skin lesion that is an early symptom of Lyme disease and that develops at the site of the bite of a tick (such as the deer tick) infected with the causative spirochete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythema designates abnormal redness of the skin or mucous membranes due to capillary congestion (as in inflammation)."*

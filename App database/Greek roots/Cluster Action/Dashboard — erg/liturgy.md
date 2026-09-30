@@ -5,14 +5,6 @@ status: unread
 ---
 # liturgy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A eucharistic rite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rite or body of rites prescribed for public worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Our liturgy,” observed Crawford, “has beauties, which not even a careless, slovenly style of reading can destroy; but it has also redundancies and repetitions which require good reading not to be felt."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"battle and murder and sudden death!" Against which the Liturgy preaches; By the will of a just, yet a merciful Power, Less bitter, perchance, in the mystic hour, When the wings of the shadowy angel lower, Than man in his blindness teaches!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A eucharistic rite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rite or body of rites prescribed for public worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Our liturgy,” observed Crawford, “has beauties, which not even a careless, slovenly style of reading can destroy; but it has also redundancies and repetitions which require good reading not to be felt."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"battle and murder and sudden death!" Against which the Liturgy preaches; By the will of a just, yet a merciful Power, Less bitter, perchance, in the mystic hour, When the wings of the shadowy angel lower, Than man in his blindness teaches!"*

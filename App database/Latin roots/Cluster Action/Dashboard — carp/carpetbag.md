@@ -5,13 +5,6 @@ status: unread
 ---
 # carpetbag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling bag made of carpet; widely used in 19th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following the practices or characteristic of carpetbaggers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbag designates traveling bag made of carpet; widely used in 19th century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling bag made of carpet; widely used in 19th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following the practices or characteristic of carpetbaggers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbag designates traveling bag made of carpet; widely used in 19th century."*

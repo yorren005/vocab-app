@@ -5,13 +5,6 @@ status: unread
 ---
 # paleomagnetism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intensity and direction of residual magnetization in ancient rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with paleomagnetism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleomagnetism designates the intensity and direction of residual magnetization in ancient rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intensity and direction of residual magnetization in ancient rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with paleomagnetism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleomagnetism designates the intensity and direction of residual magnetization in ancient rocks."*

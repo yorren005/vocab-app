@@ -5,15 +5,6 @@ status: unread
 ---
 # syllable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of spoken language that is next bigger than a speech sound and consists of one or more vowel sounds alone or of a syllabic consonant alone or of either with one or more consonant sounds preceding or following.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One or more letters (such as syl, la, and ble) in a word (such as syllable) usually set off from the rest of the word by a centered dot or a hyphen and roughly corresponding to the syllables of spoken language and treated as helps to pronunciation or as guides to placing hyphens at the end of a line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ Archbishop Is the King’s hand and tongue, and who dare speak One syllable against him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each new morn New widows howl, new orphans cry; new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland, and yell’d out Like syllable of dolour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of spoken language that is next bigger than a speech sound and consists of one or more vowel sounds alone or of a syllabic consonant alone or of either with one or more consonant sounds preceding or following.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One or more letters (such as syl, la, and ble) in a word (such as syllable) usually set off from the rest of the word by a centered dot or a hyphen and roughly corresponding to the syllables of spoken language and treated as helps to pronunciation or as guides to placing hyphens at the end of a line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ Archbishop Is the King’s hand and tongue, and who dare speak One syllable against him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each new morn New widows howl, new orphans cry; new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland, and yell’d out Like syllable of dolour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*

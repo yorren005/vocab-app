@@ -5,15 +5,6 @@ status: unread
 ---
 # pure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of extraneous elements of any kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When haply he shall hear that she is gone He will return; and hope I may that she, Hearing so much, will speed her foot again, Led hither by pure love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, sir, no; her passions are made of nothing but the finest part of pure love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of extraneous elements of any kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When haply he shall hear that she is gone He will return; and hope I may that she, Hearing so much, will speed her foot again, Led hither by pure love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, sir, no; her passions are made of nothing but the finest part of pure love."*

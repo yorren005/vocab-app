@@ -5,15 +5,6 @@ status: unread
 ---
 # surgeon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who practices surgery : a physician trained and qualified to perform surgical procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief medical officer of a branch of the armed services or of a public health service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I, my lord, for my opinion bleed, Opinion shall be surgeon to my hurt And keep me on the side where still I am."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, sir, all that I live by is with the awl; I meddle with no tradesman’s matters, nor women’s matters, but withal I am indeed, sir, a surgeon to old shoes: when they are in great danger, I recover them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have by some surgeon, Shylock, on your charge, To stop his wounds, lest he do bleed to death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who practices surgery : a physician trained and qualified to perform surgical procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief medical officer of a branch of the armed services or of a public health service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I, my lord, for my opinion bleed, Opinion shall be surgeon to my hurt And keep me on the side where still I am."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, sir, all that I live by is with the awl; I meddle with no tradesman’s matters, nor women’s matters, but withal I am indeed, sir, a surgeon to old shoes: when they are in great danger, I recover them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have by some surgeon, Shylock, on your charge, To stop his wounds, lest he do bleed to death."*

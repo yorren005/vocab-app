@@ -5,15 +5,6 @@ status: unread
 ---
 # indelicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In violation of good taste even verging on the indecent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking propriety and good taste in manners and conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I said to my landlord, ‘My good man, you are not aware that my excellent friend Jarndyce will have to pay for those things that you are sweeping off in that indelicate manner."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I never saw her.” Dorothea wondered a little, but felt that it would be indelicate just then to ask for any information which Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It would have been less indelicate.” “One of poor Casaubon’s freaks!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In violation of good taste even verging on the indecent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking propriety and good taste in manners and conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I said to my landlord, ‘My good man, you are not aware that my excellent friend Jarndyce will have to pay for those things that you are sweeping off in that indelicate manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I never saw her.” Dorothea wondered a little, but felt that it would be indelicate just then to ask for any information which Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It would have been less indelicate.” “One of poor Casaubon’s freaks!"*

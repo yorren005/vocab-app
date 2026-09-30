@@ -5,14 +5,6 @@ status: unread
 ---
 # calligraphy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beautiful handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beautiful handwriting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"After completion of laconic epistolary compositions she abandoned the implement of calligraphy in the encaustic pigment, exposed to the corrosive action of copperas, green vitriol and nutgall."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"These are usually inscriptions of a poetic nature, great importance being attached to the calligraphy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beautiful handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beautiful handwriting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"After completion of laconic epistolary compositions she abandoned the implement of calligraphy in the encaustic pigment, exposed to the corrosive action of copperas, green vitriol and nutgall."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"These are usually inscriptions of a poetic nature, great importance being attached to the calligraphy."*

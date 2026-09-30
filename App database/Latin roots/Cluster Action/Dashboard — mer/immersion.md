@@ -5,15 +5,6 @@ status: unread
 ---
 # immersion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the disappearance of a celestial body prior to an eclipse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As in droughty regions baptism by immersion could only be performed symbolically, Mr."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I hoped so, for the poor creature’s immersion was not long; but the blow from the shark’s tail might have been his death-blow."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After immersion the film is wet, not with water merely, but with a mixture of a lot of spirit and a little water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the disappearance of a celestial body prior to an eclipse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As in droughty regions baptism by immersion could only be performed symbolically, Mr."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I hoped so, for the poor creature’s immersion was not long; but the blow from the shark’s tail might have been his death-blow."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After immersion the film is wet, not with water merely, but with a mixture of a lot of spirit and a little water."*

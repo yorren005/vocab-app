@@ -5,15 +5,6 @@ status: unread
 ---
 # diagnose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine or distinguish the nature of a problem or an illness through a diagnostic analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a medical analysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When occasion offered, he would not only diagnose and prescribe but pray at the bedsides of his patients, and his influence was exerted in behalf of everything that was pure and lovely and of good report in the town of Berwick."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is more self-centred than Hoelderlin's and while the poet is able to diagnose the disease which holds him firmly in its grasp, he lacks those means by which he might free himself from it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one unquestioned service of the minimum wage law is that of diagnosing the evil of low wages rather than in remedying it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine or distinguish the nature of a problem or an illness through a diagnostic analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a medical analysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"When occasion offered, he would not only diagnose and prescribe but pray at the bedsides of his patients, and his influence was exerted in behalf of everything that was pure and lovely and of good report in the town of Berwick."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is more self-centred than Hoelderlin's and while the poet is able to diagnose the disease which holds him firmly in its grasp, he lacks those means by which he might free himself from it."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one unquestioned service of the minimum wage law is that of diagnosing the evil of low wages rather than in remedying it."*

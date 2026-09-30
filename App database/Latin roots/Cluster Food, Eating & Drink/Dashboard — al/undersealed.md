@@ -5,13 +5,6 @@ status: unread
 ---
 # undersealed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersealed designates (of motor vehicles) having a coating of tar or other rustproof material applied to the underside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersealed designates (of motor vehicles) having a coating of tar or other rustproof material applied to the underside."*

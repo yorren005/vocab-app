@@ -5,14 +5,6 @@ status: unread
 ---
 # unexpressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately impassive in manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Run, run, Orlando, carve on every tree The fair, the chaste, and unexpressive she. [_Exit._] Enter Corin and Touchstone."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Peace filled their souls so that they perceived the unexpressive adoration of the river, and the trees, and the solemn moonlight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately impassive in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Run, run, Orlando, carve on every tree The fair, the chaste, and unexpressive she. [_Exit._] Enter Corin and Touchstone."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Peace filled their souls so that they perceived the unexpressive adoration of the river, and the trees, and the solemn moonlight."*

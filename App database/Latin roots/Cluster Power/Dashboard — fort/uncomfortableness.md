@@ -5,13 +5,6 @@ status: unread
 ---
 # uncomfortableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tense and feeling pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embarrassment deriving from the feeling that others are critically aware of you.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncomfortableness designates the state of being tense and feeling pain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tense and feeling pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embarrassment deriving from the feeling that others are critically aware of you.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncomfortableness designates the state of being tense and feeling pain."*

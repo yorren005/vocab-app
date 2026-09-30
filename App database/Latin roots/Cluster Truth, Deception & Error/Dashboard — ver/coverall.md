@@ -5,15 +5,6 @@ status: unread
 ---
 # coverall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting protective garment that is worn over other clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting protective garment that is worn over other clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A slight adjustment brought into sharp focus the closed features of the three men and three women in dun-colored coveralls, under escort."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The switch of weapons and holsters to clips on their inner coveralls completed, they strolled out of the storage room and mingled with a throng of citizen commuters."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"His faded blue coveralls have patches on the knees and seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting protective garment that is worn over other clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting protective garment that is worn over other clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A slight adjustment brought into sharp focus the closed features of the three men and three women in dun-colored coveralls, under escort."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The switch of weapons and holsters to clips on their inner coveralls completed, they strolled out of the storage room and mingled with a throng of citizen commuters."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"His faded blue coveralls have patches on the knees and seat."*

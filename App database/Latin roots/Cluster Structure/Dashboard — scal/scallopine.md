@@ -5,13 +5,6 @@ status: unread
 ---
 # scallopine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scallopine designates sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scallopine designates sauteed cutlets (usually veal or poultry) that have been pounded thin and coated with flour."*

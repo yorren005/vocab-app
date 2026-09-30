@@ -5,13 +5,6 @@ status: unread
 ---
 # platyrrhinian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyrrhinian designates hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyrrhinian designates hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails."*

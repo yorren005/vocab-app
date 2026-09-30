@@ -5,13 +5,6 @@ status: unread
 ---
 # malaysia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Possibly the ware was of the same type as the coarse crackled porcelain, with roughly painted blue designs, found in Borneo and Malaysia, where it is credited with great antiquity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Possibly the ware was of the same type as the coarse crackled porcelain, with roughly painted blue designs, found in Borneo and Malaysia, where it is credited with great antiquity."*

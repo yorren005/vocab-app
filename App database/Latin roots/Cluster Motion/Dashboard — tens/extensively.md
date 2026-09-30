@@ -5,15 +5,6 @@ status: unread
 ---
 # extensively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a widespread way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a widespread way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The tradition is that his rule was an exceedingly stern one, that he kept the children hard at work, and that he flogged extensively and remorselessly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Investment has advanced both intensively and extensively in a series of great waves."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Land is used most extensively, with respect to labor, when it is in forests; somewhat less so when in pasture as care must be given to the live stock; and still less when used for hay, grain, and other crops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a widespread way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a widespread way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The tradition is that his rule was an exceedingly stern one, that he kept the children hard at work, and that he flogged extensively and remorselessly."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Investment has advanced both intensively and extensively in a series of great waves."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Land is used most extensively, with respect to labor, when it is in forests; somewhat less so when in pasture as care must be given to the live stock; and still less when used for hay, grain, and other crops."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # investigating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of inquiring into something thoroughly and systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Investigate scientifically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Human life—that appeared to him the one thing worth investigating."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But you wouldn't have brought us together without first investigating us for whatever your purpose might be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of inquiring into something thoroughly and systematically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Investigate scientifically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Human life—that appeared to him the one thing worth investigating."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But you wouldn't have brought us together without first investigating us for whatever your purpose might be."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # partly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In part; in some degree; not wholly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In part; in some degree; not wholly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SCENE: Partly in France, and partly in Tuscany."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For he partly begs To be desired to give."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The scene lies first near Oliver’s house; afterwards partly in the Usurper’s court and partly in the Forest of Arden."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In part; in some degree; not wholly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In part; in some degree; not wholly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SCENE: Partly in France, and partly in Tuscany."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For he partly begs To be desired to give."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The scene lies first near Oliver’s house; afterwards partly in the Usurper’s court and partly in the Forest of Arden."*

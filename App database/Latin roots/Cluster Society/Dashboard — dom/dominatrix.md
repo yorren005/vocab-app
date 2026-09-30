@@ -5,13 +5,6 @@ status: unread
 ---
 # dominatrix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dominating woman (especially one who plays that role in a sadomasochistic sexual relationship).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dominating woman (especially one who plays that role in a sadomasochistic sexual relationship).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominatrix designates a dominating woman (especially one who plays that role in a sadomasochistic sexual relationship)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dominating woman (especially one who plays that role in a sadomasochistic sexual relationship).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dominating woman (especially one who plays that role in a sadomasochistic sexual relationship).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominatrix designates a dominating woman (especially one who plays that role in a sadomasochistic sexual relationship)."*

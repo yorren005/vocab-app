@@ -5,15 +5,6 @@ status: unread
 ---
 # stainless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steel containing chromium that makes it resistant to corrosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of reputation) free from blemishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, civil night, Thou sober-suited matron, all in black, And learn me how to lose a winning match, Play’d for a pair of stainless maidenhoods."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Half heaven was pure and stainless: the clouds, now trooping before the wind, which had shifted to the west, were filing off eastward in long, silvered columns."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not ascribe vice to him; I would not say he had betrayed me; but the attribute of stainless truth was gone from his idea, and from his presence I must go: _that_ I perceived well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steel containing chromium that makes it resistant to corrosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of reputation) free from blemishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, civil night, Thou sober-suited matron, all in black, And learn me how to lose a winning match, Play’d for a pair of stainless maidenhoods."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Half heaven was pure and stainless: the clouds, now trooping before the wind, which had shifted to the west, were filing off eastward in long, silvered columns."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not ascribe vice to him; I would not say he had betrayed me; but the attribute of stainless truth was gone from his idea, and from his presence I must go: _that_ I perceived well."*

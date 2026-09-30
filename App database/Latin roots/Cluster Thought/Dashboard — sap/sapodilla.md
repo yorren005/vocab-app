@@ -5,13 +5,6 @@ status: unread
 ---
 # sapodilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical american evergreen yielding chicle gum and edible fruit; sometimes placed in genus achras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical fruit with a rough brownish skin and very sweet brownish pulp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapodilla designates large tropical american evergreen yielding chicle gum and edible fruit; sometimes placed in genus achras."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical american evergreen yielding chicle gum and edible fruit; sometimes placed in genus achras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical fruit with a rough brownish skin and very sweet brownish pulp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapodilla designates large tropical american evergreen yielding chicle gum and edible fruit; sometimes placed in genus achras."*

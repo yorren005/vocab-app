@@ -5,14 +5,6 @@ status: unread
 ---
 # phlegmatically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a phlegmatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a phlegmatic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The red and white herd nearest at hand, which had been phlegmatically waiting for the call, now trooped towards the steading in the background, their great bags of milk swinging under them as they walked."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It transported its great, lumbering bulk with more than railroad speed, and set itself phlegmatically down on whatever spot she glanced at."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a phlegmatic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a phlegmatic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The red and white herd nearest at hand, which had been phlegmatically waiting for the call, now trooped towards the steading in the background, their great bags of milk swinging under them as they walked."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It transported its great, lumbering bulk with more than railroad speed, and set itself phlegmatically down on whatever spot she glanced at."*

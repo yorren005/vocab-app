@@ -5,13 +5,6 @@ status: unread
 ---
 # canary-yellow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of a canary; of a light to moderate yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the color of a canary; of a light to moderate yellow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canary-yellow designates having the color of a canary; of a light to moderate yellow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of a canary; of a light to moderate yellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the color of a canary; of a light to moderate yellow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canary-yellow designates having the color of a canary; of a light to moderate yellow."*

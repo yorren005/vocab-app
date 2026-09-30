@@ -5,15 +5,6 @@ status: unread
 ---
 # patroller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone on patrol duty; an individual or a member of a group that patrols an area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone on patrol duty; an individual or a member of a group that patrols an area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The recon-patroller's omni-directional screen displayed the huge cylinder that floated in space behind him, its gravity-enhanced rotation barely perceptible to O'Hare's vision."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recon-patroller Red Fox was destroyed while on assigned mission to scout Special Zone to locate launch and support sites for spacecraft that present a clear and present danger to Slingshot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone on patrol duty; an individual or a member of a group that patrols an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone on patrol duty; an individual or a member of a group that patrols an area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The recon-patroller's omni-directional screen displayed the huge cylinder that floated in space behind him, its gravity-enhanced rotation barely perceptible to O'Hare's vision."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recon-patroller Red Fox was destroyed while on assigned mission to scout Special Zone to locate launch and support sites for spacecraft that present a clear and present danger to Slingshot."*

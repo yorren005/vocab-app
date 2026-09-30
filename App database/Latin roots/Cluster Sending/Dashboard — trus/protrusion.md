@@ -5,15 +5,6 @@ status: unread
 ---
 # protrusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of projecting out from something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Raffles’ slow wink and slight protrusion of his tongue was worse than a nightmare, because it held the certitude that it was not a nightmare, but a waking misery."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They deified the crocodile of the Nile, because the crocodile is tongueless; and the Sperm Whale has no tongue, or at least it is so exceedingly small, as to be incapable of protrusion."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They deified the crocodile of the Nile, because the crocodile is tongueless; and the Sperm Whale has no tongue, or at least it is so exceedingly small, as to be incapable of protrusion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of projecting out from something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Raffles’ slow wink and slight protrusion of his tongue was worse than a nightmare, because it held the certitude that it was not a nightmare, but a waking misery."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They deified the crocodile of the Nile, because the crocodile is tongueless; and the Sperm Whale has no tongue, or at least it is so exceedingly small, as to be incapable of protrusion."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They deified the crocodile of the Nile, because the crocodile is tongueless; and the Sperm Whale has no tongue, or at least it is so exceedingly small, as to be incapable of protrusion."*

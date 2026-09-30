@@ -5,15 +5,6 @@ status: unread
 ---
 # pedagogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teacher, schoolmaster; especially : a dull, formal, or pedantic teacher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher, schoolmaster; especially : a dull, formal, or pedantic teacher.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was delightful to hear the gigantic plans of the little rogues, and the impracticable feats they were to perform during their six weeks’ emancipation from the abhorred thraldom of book, birch, and pedagogue."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The pedagogue’s mouth watered as he looked upon this sumptuous promise of luxurious winter fare."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Then, he thought, how soon he’d turn his back upon the old school-house, snap his fingers in the face of Hans Van Ripper and every other niggardly patron, and kick any itinerant pedagogue out of doors that should dare to call him comrade!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teacher, schoolmaster; especially : a dull, formal, or pedantic teacher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher, schoolmaster; especially : a dull, formal, or pedantic teacher.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was delightful to hear the gigantic plans of the little rogues, and the impracticable feats they were to perform during their six weeks’ emancipation from the abhorred thraldom of book, birch, and pedagogue."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The pedagogue’s mouth watered as he looked upon this sumptuous promise of luxurious winter fare."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Then, he thought, how soon he’d turn his back upon the old school-house, snap his fingers in the face of Hans Van Ripper and every other niggardly patron, and kick any itinerant pedagogue out of doors that should dare to call him comrade!"*

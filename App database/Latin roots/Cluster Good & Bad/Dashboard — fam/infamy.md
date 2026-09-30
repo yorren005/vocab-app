@@ -5,15 +5,6 @@ status: unread
 ---
 # infamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme dishonor; - f.d.roosevelt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evil fame or public reputation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, the truth is, Sir John, you live in great infamy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No! to the spital go, And from the powdering tub of infamy Fetch forth the lazar kite of Cressid’s kind, Doll Tearsheet she by name, and her espouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, what infamy will there arise When foreign princes shall be certified That for a toy, a thing of no regard, King Henry’s peers and chief nobility Destroy’d themselves and lost the realm of France!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme dishonor; - f.d.roosevelt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evil fame or public reputation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, the truth is, Sir John, you live in great infamy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No! to the spital go, And from the powdering tub of infamy Fetch forth the lazar kite of Cressid’s kind, Doll Tearsheet she by name, and her espouse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, what infamy will there arise When foreign princes shall be certified That for a toy, a thing of no regard, King Henry’s peers and chief nobility Destroy’d themselves and lost the realm of France!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # valenciennes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northeastern france long noted for its lace industry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of bobbin lace with floral patterns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A bride (who is going to visit at a baronet’s) must have a few first-rate pocket-handkerchiefs; but beyond the absolutely necessary half-dozen, Rosamond contented herself without the very highest style of embroidery and Valenciennes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northeastern france long noted for its lace industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of bobbin lace with floral patterns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A bride (who is going to visit at a baronet’s) must have a few first-rate pocket-handkerchiefs; but beyond the absolutely necessary half-dozen, Rosamond contented herself without the very highest style of embroidery and Valenciennes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # misinterpret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret wrongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is something brave in your spirit, as well as penetrating in your eye; but allow me to assure you that you partially misinterpret my emotions."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You utterly misinterpret my words,” I said, at once seizing his hand: “I have no intention to grieve or pain you—indeed, I have not.” Most bitterly he smiled—most decidedly he withdrew his hand from mine."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"She: You misinterpret each stray word, you for each inch take an ell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret falsely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret wrongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is something brave in your spirit, as well as penetrating in your eye; but allow me to assure you that you partially misinterpret my emotions."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You utterly misinterpret my words,” I said, at once seizing his hand: “I have no intention to grieve or pain you—indeed, I have not.” Most bitterly he smiled—most decidedly he withdrew his hand from mine."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"She: You misinterpret each stray word, you for each inch take an ell."*

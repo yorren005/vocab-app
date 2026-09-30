@@ -5,13 +5,6 @@ status: unread
 ---
 # macrospore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrospore designates larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrospore designates larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte."*

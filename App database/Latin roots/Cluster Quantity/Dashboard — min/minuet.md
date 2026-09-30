@@ -5,15 +5,6 @@ status: unread
 ---
 # minuet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stately court dance in the 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stately piece of music composed for dancing the minuet; often incorporated into a sonata or suite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A tune much iterated has the ridiculous effect of making the words in my mind perform a sort of minuet to keep time—an effect hardly tolerable, I imagine, after boyhood."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Sometimes these neighbors took a great deal of pains to get a glimpse of Tomasso and Lilia as, paw in paw, they danced a minuet together."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Master Simon covered himself with glory by the stateliness with which, as Ancient Christmas, he walked a minuet with the peerless though giggling Dame Mince Pie."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stately court dance in the 17th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stately piece of music composed for dancing the minuet; often incorporated into a sonata or suite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A tune much iterated has the ridiculous effect of making the words in my mind perform a sort of minuet to keep time—an effect hardly tolerable, I imagine, after boyhood."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Sometimes these neighbors took a great deal of pains to get a glimpse of Tomasso and Lilia as, paw in paw, they danced a minuet together."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Master Simon covered himself with glory by the stateliness with which, as Ancient Christmas, he walked a minuet with the peerless though giggling Dame Mince Pie."*

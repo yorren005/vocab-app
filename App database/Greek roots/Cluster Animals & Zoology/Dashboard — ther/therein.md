@@ -5,15 +5,6 @@ status: unread
 ---
 # therein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) in or into that thing or place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formal) in or into that thing or place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a simple maid, and therein wealthiest That I protest I simply am a maid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein that when old robes are worn out, there are members to make new."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not find, Though you be therein curious, the least cause For what you seem to fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) in or into that thing or place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formal) in or into that thing or place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a simple maid, and therein wealthiest That I protest I simply am a maid."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein that when old robes are worn out, there are members to make new."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not find, Though you be therein curious, the least cause For what you seem to fear."*

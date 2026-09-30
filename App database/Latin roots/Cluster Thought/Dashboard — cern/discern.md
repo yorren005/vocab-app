@@ -5,15 +5,6 @@ status: unread
 ---
 # discern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Detect with the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect with the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You look on me: what wreck discern you in me Deserves your pity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He calls me e’en now, my lord, through a red lattice, and I could discern no part of his face from the window."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By thrusting out a torch from yonder tower, Which, once discern’d, shows that her meaning is: No way to that, for weakness, which she enter’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Detect with the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect with the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You look on me: what wreck discern you in me Deserves your pity?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He calls me e’en now, my lord, through a red lattice, and I could discern no part of his face from the window."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By thrusting out a torch from yonder tower, Which, once discern’d, shows that her meaning is: No way to that, for weakness, which she enter’d."*

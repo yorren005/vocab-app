@@ -5,15 +5,6 @@ status: unread
 ---
 # probationary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under terms not final or fully worked out or agreed upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"A practical inference from the whole is,--that the present life must be regarded as probationary."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"If souls proved entirely unworthy during the probationary or human period, they were cast back into the brute creation to try it over again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Such appointments are made for a probationary term of six months, when if the Board of Examiners approve the incumbent is continued."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under terms not final or fully worked out or agreed upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"A practical inference from the whole is,--that the present life must be regarded as probationary."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"If souls proved entirely unworthy during the probationary or human period, they were cast back into the brute creation to try it over again."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Such appointments are made for a probationary term of six months, when if the Board of Examiners approve the incumbent is continued."*

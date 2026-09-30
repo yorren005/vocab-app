@@ -5,13 +5,6 @@ status: unread
 ---
 # alternatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In place of, or as an alternative to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In place of, or as an alternative to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In place of, or as an alternative to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In place of, or as an alternative to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*

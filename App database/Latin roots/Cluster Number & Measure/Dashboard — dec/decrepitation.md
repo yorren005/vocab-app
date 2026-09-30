@@ -5,13 +5,6 @@ status: unread
 ---
 # decrepitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The crackling or breaking up of certain crystals when they are heated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crackling or breaking up of certain crystals when they are heated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrepitation designates the crackling or breaking up of certain crystals when they are heated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The crackling or breaking up of certain crystals when they are heated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crackling or breaking up of certain crystals when they are heated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrepitation designates the crackling or breaking up of certain crystals when they are heated."*

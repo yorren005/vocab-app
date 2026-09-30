@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrogel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloidal gel in which water is the dispersion medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloidal gel in which water is the dispersion medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogel designates a colloidal gel in which water is the dispersion medium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloidal gel in which water is the dispersion medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloidal gel in which water is the dispersion medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogel designates a colloidal gel in which water is the dispersion medium."*

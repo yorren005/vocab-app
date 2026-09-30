@@ -5,13 +5,6 @@ status: unread
 ---
 # demotion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of lowering in rank or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of lowering in rank or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demotion designates act of lowering in rank or position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of lowering in rank or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of lowering in rank or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demotion designates act of lowering in rank or position."*

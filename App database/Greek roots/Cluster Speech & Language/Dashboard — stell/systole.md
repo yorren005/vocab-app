@@ -5,13 +5,6 @@ status: unread
 ---
 # systole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systole designates a rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systole designates a rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery."*

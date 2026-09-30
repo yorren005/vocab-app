@@ -5,13 +5,6 @@ status: unread
 ---
 # codetalker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codetalker designates a secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codetalker designates a secret agent who was one of the navajos who devised and used a code based on their native language; the code was unbroken by the japanese during world war ii."*

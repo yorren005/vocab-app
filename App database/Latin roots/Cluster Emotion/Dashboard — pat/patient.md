@@ -5,15 +5,6 @@ status: unread
 ---
 # patient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who requires medical care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is my hand; the premises observ’d, Thy will by my performance shall be serv’d; So make the choice of thy own time, for I, Thy resolv’d patient, on thee still rely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I must be patient; there is no fettering of authority."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ADAM. [_Coming forward_.] Sweet masters, be patient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who requires medical care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is my hand; the premises observ’d, Thy will by my performance shall be serv’d; So make the choice of thy own time, for I, Thy resolv’d patient, on thee still rely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I must be patient; there is no fettering of authority."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ADAM. [_Coming forward_.] Sweet masters, be patient."*

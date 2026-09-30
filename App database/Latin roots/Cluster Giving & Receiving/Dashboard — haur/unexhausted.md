@@ -5,14 +5,6 @@ status: unread
 ---
 # unexhausted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not used up completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used up completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"They used to go away with the dazed air of men who have heard strange matters, and Ukridge, unexhausted, would turn to interview the next batch."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Her patience is unexhausted by hours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not used up completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used up completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"They used to go away with the dazed air of men who have heard strange matters, and Ukridge, unexhausted, would turn to interview the next batch."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Her patience is unexhausted by hours."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # expelling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bodily processes by which substances go out of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force to leave or move out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since she did neglect her looking-glass And threw her sun-expelling mask away, The air hath starved the roses in her cheeks And pinched the lily-tincture of her face, That now she is become as black as I."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various notables - Materia Medica, Anatomy, Physiology, Scho- lastic Theology, and Jurisprudence - rose to the ques- 437:24 tion of expelling Christian Science from the bar, for such high-handed illegality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Christian Europe the old heathen custom of expelling the powers of evil at certain times of the year has survived to modern times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bodily processes by which substances go out of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force to leave or move out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since she did neglect her looking-glass And threw her sun-expelling mask away, The air hath starved the roses in her cheeks And pinched the lily-tincture of her face, That now she is become as black as I."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various notables - Materia Medica, Anatomy, Physiology, Scho- lastic Theology, and Jurisprudence - rose to the ques- 437:24 tion of expelling Christian Science from the bar, for such high-handed illegality."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Christian Europe the old heathen custom of expelling the powers of evil at certain times of the year has survived to modern times."*

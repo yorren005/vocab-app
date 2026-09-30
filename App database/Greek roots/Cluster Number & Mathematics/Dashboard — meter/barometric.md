@@ -5,13 +5,6 @@ status: unread
 ---
 # barometric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining the pressure of the atmosphere and hence for assisting in forecasting weather and for determining altitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that indicates fluctuations (as in public opinion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is entirely a question of barometric pressure.” Lestrade looked startled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining the pressure of the atmosphere and hence for assisting in forecasting weather and for determining altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that indicates fluctuations (as in public opinion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is entirely a question of barometric pressure.” Lestrade looked startled."*

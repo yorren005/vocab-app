@@ -5,13 +5,6 @@ status: unread
 ---
 # vinogradoff
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British historian (born in russia) (1854-1925).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British historian (born in russia) (1854-1925).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinogradoff designates british historian (born in russia) (1854-1925)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British historian (born in russia) (1854-1925).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British historian (born in russia) (1854-1925).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinogradoff designates british historian (born in russia) (1854-1925)."*

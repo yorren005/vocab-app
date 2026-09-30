@@ -5,13 +5,6 @@ status: unread
 ---
 # infuscate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Darken with a brownish tinge, as of insect wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Darken with a brownish tinge, as of insect wings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infuscate designates darken with a brownish tinge, as of insect wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Darken with a brownish tinge, as of insect wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Darken with a brownish tinge, as of insect wings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infuscate designates darken with a brownish tinge, as of insect wings."*

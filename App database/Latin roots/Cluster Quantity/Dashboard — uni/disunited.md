@@ -5,15 +5,6 @@ status: unread
 ---
 # disunited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a review of these transactions we may trace some of the causes which would be likely to embroil the States with each other, if it should be their unpropitious destiny to become disunited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a review of these transactions we may trace some of the causes which would be likely to embroil the States with each other, if it should be their unpropitious destiny to become disunited."*

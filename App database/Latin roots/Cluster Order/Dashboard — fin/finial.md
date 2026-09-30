@@ -5,13 +5,6 @@ status: unread
 ---
 # finial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornament at the top of a spire or gable; usually a foliated fleur-de-lis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornament at the top of a spire or gable; usually a foliated fleur-de-lis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornament at the top of a spire or gable; usually a foliated fleur-de-lis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornament at the top of a spire or gable; usually a foliated fleur-de-lis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*

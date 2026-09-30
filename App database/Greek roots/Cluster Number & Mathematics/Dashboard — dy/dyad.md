@@ -5,13 +5,6 @@ status: unread
 ---
 # dyad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pair; specifically, sociology : two individuals (such as husband and wife) maintaining a sociologically significant relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meiotic chromosome after separation of the two homologous members of a tetrad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyad designates pair; specifically, sociology : two individuals (such as husband and wife) maintaining a sociologically significant relationship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pair; specifically, sociology : two individuals (such as husband and wife) maintaining a sociologically significant relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meiotic chromosome after separation of the two homologous members of a tetrad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyad designates pair; specifically, sociology : two individuals (such as husband and wife) maintaining a sociologically significant relationship."*

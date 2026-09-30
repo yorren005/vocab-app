@@ -5,13 +5,6 @@ status: unread
 ---
 # amendatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Effecting amendment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Effecting amendment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was called in Congress the Enforcement Act, and an Amendatory Enforcement Act was inserted in the Sundry Civil Bill, June 10, 1872."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Effecting amendment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Effecting amendment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was called in Congress the Enforcement Act, and an Amendatory Enforcement Act was inserted in the Sundry Civil Bill, June 10, 1872."*

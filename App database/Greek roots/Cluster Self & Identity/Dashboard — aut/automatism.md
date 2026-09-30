@@ -5,13 +5,6 @@ status: unread
 ---
 # automatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, automatism designates any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, automatism designates any reaction that occurs automatically without conscious thought or reflection (especially the undirected behavior seen in psychomotor epilepsy)."*

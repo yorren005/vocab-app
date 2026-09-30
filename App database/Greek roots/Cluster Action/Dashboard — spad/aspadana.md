@@ -5,13 +5,6 @@ status: unread
 ---
 # aspadana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: City in central iran; former capital of persia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in central iran; former capital of persia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspadana designates city in central iran; former capital of persia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: City in central iran; former capital of persia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in central iran; former capital of persia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspadana designates city in central iran; former capital of persia."*

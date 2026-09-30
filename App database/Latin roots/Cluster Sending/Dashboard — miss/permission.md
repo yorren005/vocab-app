@@ -5,15 +5,6 @@ status: unread
 ---
 # permission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approval to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a formal (usually written) authorization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What Antony shall speak, I will protest He speaks by leave and by permission; And that we are contented Caesar shall Have all true rights and lawful ceremonies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not in your funeral speech blame us, But speak all good you can devise of Caesar, And say you do’t by our permission; Else shall you not have any hand at all About his funeral."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do grace to Caesar’s corpse, and grace his speech Tending to Caesar’s glories, which Mark Antony, By our permission, is allow’d to make."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approval to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a formal (usually written) authorization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What Antony shall speak, I will protest He speaks by leave and by permission; And that we are contented Caesar shall Have all true rights and lawful ceremonies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not in your funeral speech blame us, But speak all good you can devise of Caesar, And say you do’t by our permission; Else shall you not have any hand at all About his funeral."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do grace to Caesar’s corpse, and grace his speech Tending to Caesar’s glories, which Mark Antony, By our permission, is allow’d to make."*

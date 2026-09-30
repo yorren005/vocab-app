@@ -5,15 +5,6 @@ status: unread
 ---
 # damaging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflict damage upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer or be susceptible to damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He made a damaging effect, and has great influence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Further, he often sees damaging letters produced in evidence and has occasion to reflect that it was a green thing to write them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Two persons could not walk abreast without damaging the crop, and Oak stood aside to let her pass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflict damage upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer or be susceptible to damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He made a damaging effect, and has great influence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Further, he often sees damaging letters produced in evidence and has occasion to reflect that it was a green thing to write them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Two persons could not walk abreast without damaging the crop, and Oak stood aside to let her pass."*

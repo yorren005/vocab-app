@@ -5,15 +5,6 @@ status: unread
 ---
 # carnivorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of carnivores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of plants as well as animals) feeding on animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"The Morlocks at any rate were carnivorous!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of carnivores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of plants as well as animals) feeding on animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The Morlocks at any rate were carnivorous!"*

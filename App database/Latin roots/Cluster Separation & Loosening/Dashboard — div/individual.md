@@ -5,15 +5,6 @@ status: unread
 ---
 # individual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This rehearsal, Which fury-innocent wots well, comes in Like old importment’s bastard—has this end, That the true love ’tween maid and maid may be More than in sex individual."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We can separate you from your office; we can separate the individual from the pursuit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He supposes all his dependents to be utterly bereft of individual characters, intentions, or opinions, and is persuaded that he was born to supersede the necessity of their having any."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A human being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This rehearsal, Which fury-innocent wots well, comes in Like old importment’s bastard—has this end, That the true love ’tween maid and maid may be More than in sex individual."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We can separate you from your office; we can separate the individual from the pursuit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He supposes all his dependents to be utterly bereft of individual characters, intentions, or opinions, and is persuaded that he was born to supersede the necessity of their having any."*

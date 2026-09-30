@@ -5,15 +5,6 @@ status: unread
 ---
 # maliciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With malice; in a malicious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With malice; in a malicious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be treble-sinewed, hearted, breathed, And fight maliciously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but speak not maliciously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my lord, I could do this, and that with no rash potion, But with a ling’ring dram, that should not work Maliciously like poison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With malice; in a malicious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With malice; in a malicious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be treble-sinewed, hearted, breathed, And fight maliciously."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but speak not maliciously."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my lord, I could do this, and that with no rash potion, But with a ling’ring dram, that should not work Maliciously like poison."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # xerography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process for copying graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder (such as toner).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xeroradiography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerography designates a process for copying graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder (such as toner)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process for copying graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder (such as toner).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xeroradiography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerography designates a process for copying graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder (such as toner)."*

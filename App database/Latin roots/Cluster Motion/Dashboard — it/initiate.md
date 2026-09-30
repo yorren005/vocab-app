@@ -5,15 +5,6 @@ status: unread
 ---
 # initiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone new to a field or activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has been admitted to membership in a scholarly field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My strange and self-abuse Is the initiate fear that wants hard use."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though I didn’t like to initiate it, I have seen that it was advisable we should part—at least for a while, till I can better see the shape that things have taken, and can write to you.” Tess stole a glance at her husband."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi sought to enlighten my ignorance, but he failed as signally as when he had endeavoured to initiate me into the perplexing arcana of the taboo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone new to a field or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has been admitted to membership in a scholarly field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My strange and self-abuse Is the initiate fear that wants hard use."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though I didn’t like to initiate it, I have seen that it was advisable we should part—at least for a while, till I can better see the shape that things have taken, and can write to you.” Tess stole a glance at her husband."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi sought to enlighten my ignorance, but he failed as signally as when he had endeavoured to initiate me into the perplexing arcana of the taboo."*

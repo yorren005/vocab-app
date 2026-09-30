@@ -5,13 +5,6 @@ status: unread
 ---
 # monopolisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Domination (of a market or commodity) to the exclusion of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domination (of a market or commodity) to the exclusion of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopolisation designates domination (of a market or commodity) to the exclusion of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Domination (of a market or commodity) to the exclusion of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domination (of a market or commodity) to the exclusion of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopolisation designates domination (of a market or commodity) to the exclusion of others."*

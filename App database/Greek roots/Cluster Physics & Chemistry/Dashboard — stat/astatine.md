@@ -5,13 +5,6 @@ status: unread
 ---
 # astatine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatine designates a radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatine designates a radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay."*

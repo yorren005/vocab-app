@@ -5,15 +5,6 @@ status: unread
 ---
 # catechize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To instruct systematically especially by questions, answers, and explanations and corrections; specifically : to give religious instruction in such a manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To question systematically or searchingly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will catechize the world for him, that is, make questions and by them answer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must catechize you for it, madonna."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"She didn't mean to reproach Angel, but she did mean to catechize her, and she intended to get back her father's last year's Christmas present."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To instruct systematically especially by questions, answers, and explanations and corrections; specifically : to give religious instruction in such a manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To question systematically or searchingly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will catechize the world for him, that is, make questions and by them answer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must catechize you for it, madonna."*
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"She didn't mean to reproach Angel, but she did mean to catechize her, and she intended to get back her father's last year's Christmas present."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # antenna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that sends or receives radio or television signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity similar to that of a receptor organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"With a frightful qualm, I turned, and I saw that I had grasped the antenna of another monster crab that stood just behind me."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Transmitting and sending instruments are, of course, installed at both ends and either of them can be connected to the antenna at will by the simple movement of a switch."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The antenna plays the part of one of the metal plates in the Hertz oscillator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that sends or receives radio or television signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity similar to that of a receptor organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"With a frightful qualm, I turned, and I saw that I had grasped the antenna of another monster crab that stood just behind me."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Transmitting and sending instruments are, of course, installed at both ends and either of them can be connected to the antenna at will by the simple movement of a switch."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The antenna plays the part of one of the metal plates in the Hertz oscillator."*

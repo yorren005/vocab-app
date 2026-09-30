@@ -5,15 +5,6 @@ status: unread
 ---
 # hippopotamus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Hippopotamidae) of very large, four-toed, chiefly aquatic, herbivorous artiodactyl mammals having a very large head and mouth, nearly hairless thick grayish skin, long lower canine teeth, and relatively short legs, and including two living species:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One (Hippopotamus amphibius) of sub-Saharan Africa that has webbing between the toes, spends most of the day in or near water, and typically weighs between 3 to 4 tons (2700 to 3600 kilograms).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He changed his manner; became very cold, and suddenly began to talk about a hippopotamus; wondered whether sleeping on board the steamer (I stuck to my salvage night and day) I wasn’t disturbed."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"She's making for him like the arrow to the target.” “Or the bullet for the hippopotamus,” suggested Macauley under his breath in Chester's ear."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, among several tribes on the banks of the Niger between Lokoja and the delta there prevails "a belief in the possibility of a man possessing an _alter ego_ in the form of some animal such as a crocodile or a hippopotamus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Hippopotamidae) of very large, four-toed, chiefly aquatic, herbivorous artiodactyl mammals having a very large head and mouth, nearly hairless thick grayish skin, long lower canine teeth, and relatively short legs, and including two living species:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One (Hippopotamus amphibius) of sub-Saharan Africa that has webbing between the toes, spends most of the day in or near water, and typically weighs between 3 to 4 tons (2700 to 3600 kilograms).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He changed his manner; became very cold, and suddenly began to talk about a hippopotamus; wondered whether sleeping on board the steamer (I stuck to my salvage night and day) I wasn’t disturbed."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"She's making for him like the arrow to the target.” “Or the bullet for the hippopotamus,” suggested Macauley under his breath in Chester's ear."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, among several tribes on the banks of the Niger between Lokoja and the delta there prevails "a belief in the possibility of a man possessing an _alter ego_ in the form of some animal such as a crocodile or a hippopotamus."*

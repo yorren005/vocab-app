@@ -5,13 +5,6 @@ status: unread
 ---
 # poetiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poetiser designates a writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poetiser designates a writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets)."*

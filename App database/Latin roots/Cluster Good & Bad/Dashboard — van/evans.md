@@ -5,15 +5,6 @@ status: unread
 ---
 # evans
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states anatomist who identified four pituitary hormones and discovered vitamin e (1882-1971).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British archaeologist who excavated the palace of knossos in crete to find what he called minoan civilization (1851-1941).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before Page’s house Enter Justice Shallow, Slender and Sir Hugh Evans."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EVANS. _Pauca verba_, Sir John; goot worts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Shallow and Sir Hugh Evans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states anatomist who identified four pituitary hormones and discovered vitamin e (1882-1971).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British archaeologist who excavated the palace of knossos in crete to find what he called minoan civilization (1851-1941).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before Page’s house Enter Justice Shallow, Slender and Sir Hugh Evans."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EVANS. _Pauca verba_, Sir John; goot worts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Shallow and Sir Hugh Evans."*

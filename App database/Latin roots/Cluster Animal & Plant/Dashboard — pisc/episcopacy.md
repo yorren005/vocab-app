@@ -5,13 +5,6 @@ status: unread
 ---
 # episcopacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective body of bishops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective body of bishops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopacy designates the collective body of bishops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective body of bishops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective body of bishops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopacy designates the collective body of bishops."*

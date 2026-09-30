@@ -5,15 +5,6 @@ status: unread
 ---
 # sceptical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or given to doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denying or questioning the tenets of especially a religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps in no minor point does woman astonish her helpmate more than in the strange power she possesses of believing cajoleries that she knows to be false—except, indeed, in that of being utterly sceptical on strictures that she knows to be true."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Politically I am sceptical as to the virtue of their being old."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Jackson, a weak stick of a creature with a smattering of medicine, grew sceptical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or given to doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denying or questioning the tenets of especially a religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps in no minor point does woman astonish her helpmate more than in the strange power she possesses of believing cajoleries that she knows to be false—except, indeed, in that of being utterly sceptical on strictures that she knows to be true."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Politically I am sceptical as to the virtue of their being old."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Jackson, a weak stick of a creature with a smattering of medicine, grew sceptical."*

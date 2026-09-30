@@ -5,13 +5,6 @@ status: unread
 ---
 # cotopaxi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The world's largest active volcano; located in the andes in north central ecuador.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The world's largest active volcano; located in the andes in north central ecuador.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotopaxi designates the world's largest active volcano; located in the andes in north central ecuador."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The world's largest active volcano; located in the andes in north central ecuador.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The world's largest active volcano; located in the andes in north central ecuador.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotopaxi designates the world's largest active volcano; located in the andes in north central ecuador."*

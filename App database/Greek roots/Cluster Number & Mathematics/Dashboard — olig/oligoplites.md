@@ -5,13 +5,6 @@ status: unread
 ---
 # oligoplites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leatherjackets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leatherjackets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligoplites designates leatherjackets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leatherjackets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leatherjackets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligoplites designates leatherjackets."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # armillary sphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillary sphere designates an old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillary sphere designates an old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # prosthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial device to replace or augment a missing or impaired part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial device to replace or augment a missing or impaired part of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthesis designates an artificial device to replace or augment a missing or impaired part of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial device to replace or augment a missing or impaired part of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial device to replace or augment a missing or impaired part of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthesis designates an artificial device to replace or augment a missing or impaired part of the body."*

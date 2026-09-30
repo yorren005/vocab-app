@@ -5,15 +5,6 @@ status: unread
 ---
 # stale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Urinate, of cattle and horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking freshness, palatability, or showing deterioration from age.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou didst drink The stale of horses and the gilded puddle Which beasts would cough at."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Age cannot wither her, nor custom stale Her infinite variety."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And mine, but it grows something stale with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Urinate, of cattle and horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking freshness, palatability, or showing deterioration from age.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou didst drink The stale of horses and the gilded puddle Which beasts would cough at."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Age cannot wither her, nor custom stale Her infinite variety."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And mine, but it grows something stale with me."*

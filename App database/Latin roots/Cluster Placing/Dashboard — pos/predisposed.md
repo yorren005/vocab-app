@@ -5,15 +5,6 @@ status: unread
 ---
 # predisposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make susceptible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made susceptible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Semi-starvation and neglected colds had predisposed most of the pupils to receive infection: forty-five out of the eighty girls lay ill at one time."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"No, no, I see you are not.” There was, indeed, so deep a blush over Fanny’s face at that moment as might warrant strong suspicion in a predisposed mind."*
-> - 📜 **Effie Afton (*Eventide*):** *"I believe our family are predisposed to strong feelings, for I never witnessed a love more engrossing than was hers for the young Lindenwood; nor was his devotion to her less remarkable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make susceptible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made susceptible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Semi-starvation and neglected colds had predisposed most of the pupils to receive infection: forty-five out of the eighty girls lay ill at one time."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"No, no, I see you are not.” There was, indeed, so deep a blush over Fanny’s face at that moment as might warrant strong suspicion in a predisposed mind."*
+> - 📜 **Effie Afton (*Eventide*):** *"I believe our family are predisposed to strong feelings, for I never witnessed a love more engrossing than was hers for the young Lindenwood; nor was his devotion to her less remarkable."*

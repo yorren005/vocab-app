@@ -5,15 +5,6 @@ status: unread
 ---
 # necromancer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices magic or sorcery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices divination by conjuring up the dead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For it is, even with the stillest and politest circles, as with the circle the necromancer draws around him—very strange appearances may be seen in active motion outside."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Castle of Wolfenbach, Clermont, Mysterious Warnings, Necromancer of the Black Forest, Midnight Bell, Orphan of the Rhine, and Horrid Mysteries."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"It is," said he, "a wise man who knows the omens of the future, and is thereby guided." "The services of a skilful necromancer are greatly needed at the present," whispered a courtier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices magic or sorcery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices divination by conjuring up the dead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For it is, even with the stillest and politest circles, as with the circle the necromancer draws around him—very strange appearances may be seen in active motion outside."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Castle of Wolfenbach, Clermont, Mysterious Warnings, Necromancer of the Black Forest, Midnight Bell, Orphan of the Rhine, and Horrid Mysteries."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"It is," said he, "a wise man who knows the omens of the future, and is thereby guided." "The services of a skilful necromancer are greatly needed at the present," whispered a courtier."*

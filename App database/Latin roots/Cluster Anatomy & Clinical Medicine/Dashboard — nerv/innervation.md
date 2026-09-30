@@ -5,13 +5,6 @@ status: unread
 ---
 # innervation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The neural or electrical arousal of an organ or muscle or gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distribution of nerve fibers to an organ or body region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innervation designates the neural or electrical arousal of an organ or muscle or gland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The neural or electrical arousal of an organ or muscle or gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distribution of nerve fibers to an organ or body region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innervation designates the neural or electrical arousal of an organ or muscle or gland."*

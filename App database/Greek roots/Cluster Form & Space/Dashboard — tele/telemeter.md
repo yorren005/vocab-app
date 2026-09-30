@@ -5,13 +5,6 @@ status: unread
 ---
 # telemeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance of an object from an observer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical apparatus for measuring a quantity (such as pressure, speed, or temperature) and transmitting the result especially by radio to a distant station.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemeter designates an instrument for measuring the distance of an object from an observer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance of an object from an observer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical apparatus for measuring a quantity (such as pressure, speed, or temperature) and transmitting the result especially by radio to a distant station.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemeter designates an instrument for measuring the distance of an object from an observer."*

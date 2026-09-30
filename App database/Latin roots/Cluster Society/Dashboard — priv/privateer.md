@@ -5,15 +5,6 @@ status: unread
 ---
 # privateer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer or crew member of a privateer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A privately owned warship commissioned to prey on the commercial shipping or warships of an enemy nation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I only wish I had the command of a clipping privateer to begin with and could carry off the Chancellor and keep him on short allowance until he gave judgment in our cause."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris was at intervals urging something different; and in the most interesting moment of his passage to England, when the alarm of a French privateer was at the height, she burst through his recital with the proposal of soup."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You're fit to be captain of a privateer," acknowledged Captain Asaph Ball, handsomely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer or crew member of a privateer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A privately owned warship commissioned to prey on the commercial shipping or warships of an enemy nation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I only wish I had the command of a clipping privateer to begin with and could carry off the Chancellor and keep him on short allowance until he gave judgment in our cause."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris was at intervals urging something different; and in the most interesting moment of his passage to England, when the alarm of a French privateer was at the height, she burst through his recital with the proposal of soup."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You're fit to be captain of a privateer," acknowledged Captain Asaph Ball, handsomely."*

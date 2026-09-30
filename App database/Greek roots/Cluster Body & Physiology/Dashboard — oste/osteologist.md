@@ -5,13 +5,6 @@ status: unread
 ---
 # osteologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomist who is skilled is osteology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomist who is skilled is osteology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteologist designates an anatomist who is skilled is osteology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomist who is skilled is osteology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomist who is skilled is osteology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteologist designates an anatomist who is skilled is osteology."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ecstasy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of overwhelming emotion; especially : rapturous delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic amphetamine analog C11H15NO2 used illicitly for its mood-enhancing and hallucinogenic properties —called also MDMA.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark how he trembles in his ecstasy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the very ecstasy of love, Whose violent property fordoes itself, And leads the will to desperate undertakings, As oft as any passion under heaven That does afflict our natures."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I, of ladies most deject and wretched, That suck’d the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled out of tune and harsh, That unmatch’d form and feature of blown youth Blasted with ecstasy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of overwhelming emotion; especially : rapturous delight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic amphetamine analog C11H15NO2 used illicitly for its mood-enhancing and hallucinogenic properties —called also MDMA.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark how he trembles in his ecstasy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the very ecstasy of love, Whose violent property fordoes itself, And leads the will to desperate undertakings, As oft as any passion under heaven That does afflict our natures."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I, of ladies most deject and wretched, That suck’d the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled out of tune and harsh, That unmatch’d form and feature of blown youth Blasted with ecstasy."*

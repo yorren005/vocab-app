@@ -5,13 +5,6 @@ status: unread
 ---
 # lipolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hydrolysis of fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hydrolysis of fat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipolysis designates the hydrolysis of fat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hydrolysis of fat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hydrolysis of fat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipolysis designates the hydrolysis of fat."*

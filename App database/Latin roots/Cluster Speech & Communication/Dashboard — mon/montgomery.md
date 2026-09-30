@@ -5,15 +5,6 @@ status: unread
 ---
 # montgomery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Canadian novelist (1874-1942).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English general during world war ii; won victories over rommel in north africa and led british ground forces in the invasion of normandy (1887-1976).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Montgomery with drum and Soldiers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brother, this is Sir John Montgomery, Our trusty friend unless I be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, good Montgomery; but we now forget Our title to the crown, and only claim Our dukedom till God please to send the rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Canadian novelist (1874-1942).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English general during world war ii; won victories over rommel in north africa and led british ground forces in the invasion of normandy (1887-1976).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Montgomery with drum and Soldiers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brother, this is Sir John Montgomery, Our trusty friend unless I be deceived."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, good Montgomery; but we now forget Our title to the crown, and only claim Our dukedom till God please to send the rest."*

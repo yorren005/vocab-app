@@ -5,15 +5,6 @@ status: unread
 ---
 # subdivision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area composed of subdivided lots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subdividing; division of something previously divided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each kind of political unit, or subdivision of government, develops characteristic kinds of public ownership and industry."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Let us now call this charred linen by its proper name--my tinder is carbon in a state of somewhat fine subdivision."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Only powder the lead sufficiently fine,--that is to say, bring it into a state of minute subdivision,--and it fires by contact with the oxygen of the air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area composed of subdivided lots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subdividing; division of something previously divided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each kind of political unit, or subdivision of government, develops characteristic kinds of public ownership and industry."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Let us now call this charred linen by its proper name--my tinder is carbon in a state of somewhat fine subdivision."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Only powder the lead sufficiently fine,--that is to say, bring it into a state of minute subdivision,--and it fires by contact with the oxygen of the air."*

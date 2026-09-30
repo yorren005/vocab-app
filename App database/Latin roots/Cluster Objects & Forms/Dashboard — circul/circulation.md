@@ -5,15 +5,6 @@ status: unread
 ---
 # circulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissemination of copies of periodicals (as newspapers or magazines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement through a circuit; especially the movement of blood through the heart and blood vessels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To be informed what the Galaxy Gallery of British Beauty is about, and means to be about, and what Galaxy marriages are on the tapis, and what Galaxy rumours are in circulation, is to become acquainted with the most glorious destinies of mankind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, and—yes—it partly helps the circulation,” he replies."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissemination of copies of periodicals (as newspapers or magazines).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement through a circuit; especially the movement of blood through the heart and blood vessels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"To be informed what the Galaxy Gallery of British Beauty is about, and means to be about, and what Galaxy marriages are on the tapis, and what Galaxy rumours are in circulation, is to become acquainted with the most glorious destinies of mankind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, and—yes—it partly helps the circulation,” he replies."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*

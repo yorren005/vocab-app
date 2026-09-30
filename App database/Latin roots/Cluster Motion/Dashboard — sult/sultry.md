@@ -5,15 +5,6 @@ status: unread
 ---
 # sultry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexually exciting or gratifying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by oppressive heat and humidity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks it is very sultry and hot for my complexion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exceedingly, my lord; it is very sultry,—as ’twere—I cannot tell how."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"These may not be desirable characteristics when November comes with fog and sleet or January with ice and snow, but they have their merits in the sultry long vacation weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexually exciting or gratifying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by oppressive heat and humidity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks it is very sultry and hot for my complexion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exceedingly, my lord; it is very sultry,—as ’twere—I cannot tell how."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"These may not be desirable characteristics when November comes with fog and sleet or January with ice and snow, but they have their merits in the sultry long vacation weather."*

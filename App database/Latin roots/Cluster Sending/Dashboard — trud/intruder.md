@@ -5,15 +5,6 @@ status: unread
 ---
 # intruder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intrudes on the privacy or property of another without permission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who intrudes on the privacy or property of another without permission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I the power that some say Dian had, Thy temples should be planted presently With horns, as was Actaeon’s; and the hounds Should drive upon thy new-transformed limbs, Unmannerly intruder as thou art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, base intruder, overweening slave, Bestow thy fawning smiles on equal mates, And think my patience, more than thy desert, Is privilege for thy departure hence."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Who are you?” he asked of the intruder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intrudes on the privacy or property of another without permission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who intrudes on the privacy or property of another without permission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I the power that some say Dian had, Thy temples should be planted presently With horns, as was Actaeon’s; and the hounds Should drive upon thy new-transformed limbs, Unmannerly intruder as thou art."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, base intruder, overweening slave, Bestow thy fawning smiles on equal mates, And think my patience, more than thy desert, Is privilege for thy departure hence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Who are you?” he asked of the intruder."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # carpeting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a carpet-like cover (over).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bretton’s is very large, though: I should love you to have such a house; but it will take a great deal of furniture—carpeting and everything, besides plate and glass."*
-> - 📜 **Algis Budrys (*Citadel*):** *"His office chair was heavier and wider by far than any standard size, its casters rolling on a special composition base that had been laid down over the carpeting, for Marlowe's weight would have cut any ordinary rug to shreds."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And so, in that derelict museum, upon the thick soft carpeting of dust, to Weena’s huge delight, I solemnly performed a kind of composite dance, whistling _The Land of the Leal_ as cheerfully as I could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a carpet-like cover (over).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Bretton’s is very large, though: I should love you to have such a house; but it will take a great deal of furniture—carpeting and everything, besides plate and glass."*
+> - 📜 **Algis Budrys (*Citadel*):** *"His office chair was heavier and wider by far than any standard size, its casters rolling on a special composition base that had been laid down over the carpeting, for Marlowe's weight would have cut any ordinary rug to shreds."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"And so, in that derelict museum, upon the thick soft carpeting of dust, to Weena’s huge delight, I solemnly performed a kind of composite dance, whistling _The Land of the Leal_ as cheerfully as I could."*

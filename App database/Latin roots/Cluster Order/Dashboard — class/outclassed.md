@@ -5,13 +5,6 @@ status: unread
 ---
 # outclassed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to appear in a lower class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decisively surpassed by something else so as to appear to be of a lower class.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"We hoped the pirates all were dead, Those horrid buccaneers, Who dyed the ocean's waves with red, In wicked bygone years: But now we mourn, as happy days, That sanguinary past, Since Kaiser Bill a hundred ways, Has Captain Kidd outclassed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to appear in a lower class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decisively surpassed by something else so as to appear to be of a lower class.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"We hoped the pirates all were dead, Those horrid buccaneers, Who dyed the ocean's waves with red, In wicked bygone years: But now we mourn, as happy days, That sanguinary past, Since Kaiser Bill a hundred ways, Has Captain Kidd outclassed."*

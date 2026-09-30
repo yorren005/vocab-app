@@ -5,13 +5,6 @@ status: unread
 ---
 # effervescing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bubbly or frothy or foaming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting or filled with bubbles as from carbonation or fermentation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effervescing designates become bubbly or frothy or foaming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bubbly or frothy or foaming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting or filled with bubbles as from carbonation or fermentation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effervescing designates become bubbly or frothy or foaming."*

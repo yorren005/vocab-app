@@ -5,14 +5,6 @@ status: unread
 ---
 # angina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of the throat or fauces marked by spasmodic attacks of intense suffocative pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heart condition marked by paroxysms of chest pain due to reduced oxygen to the heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The doctor says it is angina pectoris.” “Angina?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, that’s a terrible illness!” “They say that the rivals are reconciled, thanks to the angina...” and the word angina was repeated with great satisfaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of the throat or fauces marked by spasmodic attacks of intense suffocative pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heart condition marked by paroxysms of chest pain due to reduced oxygen to the heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The doctor says it is angina pectoris.” “Angina?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, that’s a terrible illness!” “They say that the rivals are reconciled, thanks to the angina...” and the word angina was repeated with great satisfaction."*

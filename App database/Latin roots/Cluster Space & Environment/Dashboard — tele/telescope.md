@@ -5,15 +5,6 @@ status: unread
 ---
 # telescope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnifier of images of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crush together or collapse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnifier of images of distant objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crush together or collapse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*

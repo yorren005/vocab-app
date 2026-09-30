@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsistency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between propositions that cannot both be true at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inconsistent and lacking a harmonious uniformity among things or parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet such is human inconsistency that one of the interests of the new place to her was the accidental virtues of its lying near her forefathers’ country (for they were not Blakemore men, though her mother was Blakemore to the bone)."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The more I see of the world the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of either merit or sense."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw the indelicacy of putting himself forward as he had done, and the inconsistency of his professions with his conduct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between propositions that cannot both be true at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inconsistent and lacking a harmonious uniformity among things or parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet such is human inconsistency that one of the interests of the new place to her was the accidental virtues of its lying near her forefathers’ country (for they were not Blakemore men, though her mother was Blakemore to the bone)."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The more I see of the world the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of either merit or sense."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw the indelicacy of putting himself forward as he had done, and the inconsistency of his professions with his conduct."*

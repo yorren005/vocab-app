@@ -5,20 +5,6 @@ status: unread
 ---
 # thwart
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Pass through or across
-> 2. **Nuance / Usage**: (transitive) to cause to fail; to frustrate, to prevent
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thwart the target*) and intransitive clauses (*thwarting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert South (*Twelve Sermons Preached upon Several Occasions*):** *"The Underſtanding and Will never diſagreed; for the Propoſals of the one never thwarted the Inclinations of the other."*
-> - 📜 **Peter Bondanella (*Hollywood Italians: Dagos, Palookas, Romeos, Wise Guys, and Sopranos*):** *"The film ends with the colorful deaths of Nico's enemies after he thwarts their attempts to assassinate a U.S. Senator investigating ties between drug dealers and the CIA."*
-> - 📜 **Edwin Black (*Internal Combustion: How Corporations and Governments Addicted the World to Oil and Derailed the Alternatives*):** *"More than a mere source of Promethean sustenance to thwart the cold and cook one's meat, wood was quite simply mankind's first industrial and manufacturing fuel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To prevent someone from accomplishing a purpose, or to oppose and defeat a plan, ambition, or effort; to frustrate or baffle.
+> 2. **Nuance / Usage**: From Old Norse *þvert* ("across, transverse"); as a nautical noun, it also denotes a structural seat or crossbeam extending across a boat from side to side.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb & Noun (count).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thwart a plot*) and passive clauses (*thwarted in every ambition*).
+> - **Collocations & Registers**: Narrative, strategic, and nautical registers; collocated with *ambition*, *conspiracy*, *design*, *effort*, and *baffle*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert South (*Twelve Sermons Preached upon Several Occasions*):** *"The Understanding and Will never disagreed; for the proposals of the one never **thwarted** the inclinations of the other."*
+> - 📜 **Peter Bondanella (*Hollywood Italians*):** *"The film ends with the deaths of Nico's enemies after he **thwarts** their attempts to assassinate a U.S. Senator."*
+> - 📜 **Edwin Black (*Internal Combustion*):** *"More than a mere source of Promethean sustenance to **thwart** the cold and cook one's meat, wood was mankind's first industrial fuel."*

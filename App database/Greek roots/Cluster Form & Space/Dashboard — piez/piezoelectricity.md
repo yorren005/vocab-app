@@ -5,13 +5,6 @@ status: unread
 ---
 # piezoelectricity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piezoelectricity designates electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piezoelectricity designates electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal."*

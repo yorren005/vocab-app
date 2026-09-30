@@ -5,13 +5,6 @@ status: unread
 ---
 # metalloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An element intermediate in properties between the typical metals and nonmetals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetal that can combine with a metal to form an alloy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metalloid designates an element intermediate in properties between the typical metals and nonmetals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An element intermediate in properties between the typical metals and nonmetals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetal that can combine with a metal to form an alloy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metalloid designates an element intermediate in properties between the typical metals and nonmetals."*

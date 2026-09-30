@@ -5,13 +5,6 @@ status: unread
 ---
 # derogation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication that belittles somebody or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the partial taking away of the effectiveness of a law; a partial repeal or abolition of a law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is no derogation from the credit, whatever that may be, of drawing the ordinance, that its principles had before been prepared and discussed, in the form of resolutions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication that belittles somebody or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the partial taking away of the effectiveness of a law; a partial repeal or abolition of a law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is no derogation from the credit, whatever that may be, of drawing the ordinance, that its principles had before been prepared and discussed, in the form of resolutions."*

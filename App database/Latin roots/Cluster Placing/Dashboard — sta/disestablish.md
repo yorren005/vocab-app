@@ -5,13 +5,6 @@ status: unread
 ---
 # disestablish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive (an established church) of its status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive (an established church) of its status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You see they want to disestablish everything; but I’m a pretty big landowner here, and I don’t want to be disestablished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive (an established church) of its status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive (an established church) of its status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You see they want to disestablish everything; but I’m a pretty big landowner here, and I don’t want to be disestablished."*

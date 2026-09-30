@@ -5,13 +5,6 @@ status: unread
 ---
 # adermin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that is essential for metabolism of amino acids and starch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that is essential for metabolism of amino acids and starch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adermin designates a b vitamin that is essential for metabolism of amino acids and starch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that is essential for metabolism of amino acids and starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that is essential for metabolism of amino acids and starch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adermin designates a b vitamin that is essential for metabolism of amino acids and starch."*

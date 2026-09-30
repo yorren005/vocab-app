@@ -5,15 +5,6 @@ status: unread
 ---
 # compensated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have compensated myself for that disappointment by coming here since and being of some small use to her.” “The kindest physician in the college,” whispered Miss Flite to me."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This is no doubt a great sum of money, but I trust it will be amply compensated by the honesty, cleanliness, economy, and good temper of the landlady...."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Moreover, the harpies who feed and thrive on the miseries of the poor, would in no case have given her more than twenty-five cents for them; and the short respite derived from that amount would not have compensated for the sacrifice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have compensated myself for that disappointment by coming here since and being of some small use to her.” “The kindest physician in the college,” whispered Miss Flite to me."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"This is no doubt a great sum of money, but I trust it will be amply compensated by the honesty, cleanliness, economy, and good temper of the landlady...."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Moreover, the harpies who feed and thrive on the miseries of the poor, would in no case have given her more than twenty-five cents for them; and the short respite derived from that amount would not have compensated for the sacrifice."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inanimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the class of nouns denoting nonliving things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not endowed with life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is occasioned by a propensity on the part of that unlucky old lady whenever she finds herself on her feet to amble about and “set” to inanimate objects, accompanying herself with a chattering noise, as in a witch dance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the class of nouns denoting nonliving things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not endowed with life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is occasioned by a propensity on the part of that unlucky old lady whenever she finds herself on her feet to amble about and “set” to inanimate objects, accompanying herself with a chattering noise, as in a witch dance."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rogers
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states humorist remembered for his homespun commentary on politics and american society (1879-1935).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states dancer and film actress who partnered with fred astaire (1911-1995).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rogers, _Social Life in Scotland_ (Edinburgh, 1884-1886), iii. 258-260. [582] Douglas Hyde, _Beside the Fire, a Collection of Irish Gaelic Folk Stories_ (London, 1890), pp. 104, 105, 121-128. [583] P.W."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rogers, _Social Life in Scotland_ (Edinburgh, 1884-1886), iii. 244 _sq_.; _The Folk-lore Journal_, vii. (1889) pp. 11-14, 46."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states humorist remembered for his homespun commentary on politics and american society (1879-1935).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states dancer and film actress who partnered with fred astaire (1911-1995).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rogers, _Social Life in Scotland_ (Edinburgh, 1884-1886), iii. 258-260. [582] Douglas Hyde, _Beside the Fire, a Collection of Irish Gaelic Folk Stories_ (London, 1890), pp. 104, 105, 121-128. [583] P.W."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Rogers, _Social Life in Scotland_ (Edinburgh, 1884-1886), iii. 244 _sq_.; _The Folk-lore Journal_, vii. (1889) pp. 11-14, 46."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*

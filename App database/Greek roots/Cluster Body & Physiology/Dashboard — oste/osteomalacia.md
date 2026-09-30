@@ -5,13 +5,6 @@ status: unread
 ---
 # osteomalacia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of adults that is characterized by softening of the bones and is analogous to rickets in the young.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of adults that is characterized by softening of the bones and is analogous to rickets in the young.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteomalacia designates a disease of adults that is characterized by softening of the bones and is analogous to rickets in the young."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of adults that is characterized by softening of the bones and is analogous to rickets in the young.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of adults that is characterized by softening of the bones and is analogous to rickets in the young.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteomalacia designates a disease of adults that is characterized by softening of the bones and is analogous to rickets in the young."*

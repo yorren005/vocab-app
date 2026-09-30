@@ -5,15 +5,6 @@ status: unread
 ---
 # fungi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic kingdom including yeast, molds, smuts, mushrooms, and toadstools; distinct from the green plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism of the kingdom fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From her feet, and between the beautiful yellowing ferns with their feathery arms, the ground sloped downwards to a hollow, in which was a species of swamp, dotted with fungi."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fungi grew in all manner of positions from rotting leaves and tree stumps, some exhibiting to her listless gaze their clammy tops, others their oozing gills."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From her feet, and between the beautiful yellowing ferns with their feathery arms, the ground sloped downwards to a hollow, in which was a species of swamp, dotted with fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic kingdom including yeast, molds, smuts, mushrooms, and toadstools; distinct from the green plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism of the kingdom fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From her feet, and between the beautiful yellowing ferns with their feathery arms, the ground sloped downwards to a hollow, in which was a species of swamp, dotted with fungi."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fungi grew in all manner of positions from rotting leaves and tree stumps, some exhibiting to her listless gaze their clammy tops, others their oozing gills."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From her feet, and between the beautiful yellowing ferns with their feathery arms, the ground sloped downwards to a hollow, in which was a species of swamp, dotted with fungi."*

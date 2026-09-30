@@ -5,13 +5,6 @@ status: unread
 ---
 # choric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or written for or in the style of a greek chorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or written for or in the style of a greek chorus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It is the most horrible of virgin-sacrifices,” said Will; and he painted to himself what were Dorothea’s inward sorrows as if he had been writing a choric wail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or written for or in the style of a greek chorus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or written for or in the style of a greek chorus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It is the most horrible of virgin-sacrifices,” said Will; and he painted to himself what were Dorothea’s inward sorrows as if he had been writing a choric wail."*

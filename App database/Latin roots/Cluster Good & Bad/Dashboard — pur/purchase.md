@@ -5,15 +5,6 @@ status: unread
 ---
 # purchase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The acquisition of something for payment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something acquired by purchase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enough to purchase what you have made known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acquisition of something for payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something acquired by purchase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enough to purchase what you have made known."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*

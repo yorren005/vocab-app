@@ -5,15 +5,6 @@ status: unread
 ---
 # tempest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent commotion or disturbance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (literary) a violent wind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The southern wind Doth play the trumpet to his purposes, And by his hollow whistling in the leaves Foretells a tempest and a blust’ring day."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie! what man of good temper would endure this tempest of exclamation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent commotion or disturbance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (literary) a violent wind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The southern wind Doth play the trumpet to his purposes, And by his hollow whistling in the leaves Foretells a tempest and a blust’ring day."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie! what man of good temper would endure this tempest of exclamation?"*

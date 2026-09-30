@@ -5,13 +5,6 @@ status: unread
 ---
 # caloosahatchee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caloosahatchee designates a river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caloosahatchee designates a river in southern florida that flows westerly to the gulf of mexico; forms the western end of the cross-florida waterway."*

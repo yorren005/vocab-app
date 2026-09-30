@@ -5,15 +5,6 @@ status: unread
 ---
 # presently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the near future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At this time or period; now.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That, having this obtain’d, you presently Attend his further pleasure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of us must Pompey presently be sought, Or else he seeks out us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the near future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At this time or period; now.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That, having this obtain’d, you presently Attend his further pleasure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of us must Pompey presently be sought, Or else he seeks out us."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lavaliere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jeweled pendant worn on a chain around the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jeweled pendant worn on a chain around the neck.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavaliere designates jeweled pendant worn on a chain around the neck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jeweled pendant worn on a chain around the neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jeweled pendant worn on a chain around the neck.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavaliere designates jeweled pendant worn on a chain around the neck."*

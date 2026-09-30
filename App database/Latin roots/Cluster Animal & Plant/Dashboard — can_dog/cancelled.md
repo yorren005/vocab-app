@@ -5,15 +5,6 @@ status: unread
 ---
 # cancelled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Postpone indefinitely or annul something that was scheduled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, no more but this: Henry, your sovereign, Is prisoner to the foe, his state usurped, His realm a slaughter-house, his subjects slain, His statutes cancelled, and his treasure spent; And yonder is the wolf that makes this spoil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An expired date, cancelled ere well begun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hath thy servant, Opportunity Betrayed the hours thou gav’st me to repose, Cancelled my fortunes, and enchained me To endless date of never-ending woes?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Postpone indefinitely or annul something that was scheduled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, no more but this: Henry, your sovereign, Is prisoner to the foe, his state usurped, His realm a slaughter-house, his subjects slain, His statutes cancelled, and his treasure spent; And yonder is the wolf that makes this spoil."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An expired date, cancelled ere well begun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hath thy servant, Opportunity Betrayed the hours thou gav’st me to repose, Cancelled my fortunes, and enchained me To endless date of never-ending woes?"*

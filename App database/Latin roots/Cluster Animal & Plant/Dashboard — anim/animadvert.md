@@ -5,15 +5,6 @@ status: unread
 ---
 # animadvert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's opinion openly and without fear or hesitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express blame or censure or make a harshly critical remark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A Frenchman meeting an English soldier with a Waterloo medal, began sneeringly to animadvert on our government for bestowing such a trifle, which did not cost them three francs."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"James Mill; the selection of the last-named being all the more creditable to them, because, in his "History of British India," he had animadverted with much severity on some parts of the Company's administration."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Joshua Pye, when thus animadverted upon, retorted that the Avonlea taste in colors was no business of his, whatever his private opinion might be; he had been hired to paint the hall, not to talk about it; and he meant to have his money for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's opinion openly and without fear or hesitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express blame or censure or make a harshly critical remark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A Frenchman meeting an English soldier with a Waterloo medal, began sneeringly to animadvert on our government for bestowing such a trifle, which did not cost them three francs."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"James Mill; the selection of the last-named being all the more creditable to them, because, in his "History of British India," he had animadverted with much severity on some parts of the Company's administration."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Joshua Pye, when thus animadverted upon, retorted that the Avonlea taste in colors was no business of his, whatever his private opinion might be; he had been hired to paint the hall, not to talk about it; and he meant to have his money for it."*

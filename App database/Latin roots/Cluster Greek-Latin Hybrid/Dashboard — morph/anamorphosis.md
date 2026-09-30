@@ -5,13 +5,6 @@ status: unread
 ---
 # anamorphosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution of one type of organism from another by a long series of gradual changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distorted projection or perspective; especially an image distorted in such a way that it becomes visible only when viewed in a special manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorphosis designates the evolution of one type of organism from another by a long series of gradual changes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution of one type of organism from another by a long series of gradual changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distorted projection or perspective; especially an image distorted in such a way that it becomes visible only when viewed in a special manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorphosis designates the evolution of one type of organism from another by a long series of gradual changes."*

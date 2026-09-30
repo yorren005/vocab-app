@@ -5,13 +5,6 @@ status: unread
 ---
 # plastid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastid designates any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastid designates any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein."*

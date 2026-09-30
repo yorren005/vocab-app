@@ -5,15 +5,6 @@ status: unread
 ---
 # start
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beginning of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time at which something is supposed to begin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s in mother, That you start at it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, gentlemen,— I have felt so many quirks of joy and grief That the first face of neither on the start Can woman me unto ’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of late when I cried “Ho!” Like boys unto a muss, kings would start forth And cry “Your will?” Have you no ears?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beginning of anything.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time at which something is supposed to begin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s in mother, That you start at it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, gentlemen,— I have felt so many quirks of joy and grief That the first face of neither on the start Can woman me unto ’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of late when I cried “Ho!” Like boys unto a muss, kings would start forth And cry “Your will?” Have you no ears?"*

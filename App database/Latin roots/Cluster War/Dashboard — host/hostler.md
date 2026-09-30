@@ -5,15 +5,6 @@ status: unread
 ---
 # hostler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone employed in a stable to take care of the horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed in a stable to take care of the horses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That hostler Must rise betime that cozens him."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They came from the water side, and at length were distinguished to be hailing the house in the seafaring manner, “House ahoy!” The landlord turned out with his head waiter, tapster, hostler, and errand boy—that is to say, with his old negro Cuff."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"It was pretty dry when Sam went to bed; but right early in the morning a sleepy hostler stumbled out to the trough and began to pump water into it for the cattle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone employed in a stable to take care of the horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed in a stable to take care of the horses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That hostler Must rise betime that cozens him."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They came from the water side, and at length were distinguished to be hailing the house in the seafaring manner, “House ahoy!” The landlord turned out with his head waiter, tapster, hostler, and errand boy—that is to say, with his old negro Cuff."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"It was pretty dry when Sam went to bed; but right early in the morning a sleepy hostler stumbled out to the trough and began to pump water into it for the cattle."*

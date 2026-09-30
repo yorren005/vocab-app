@@ -5,15 +5,6 @@ status: unread
 ---
 # perpetuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to continue or prevail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to continue or prevail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A strong sense of the value and blessings of union induced the people, at a very early period, to institute a federal government to preserve and perpetuate it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To preserve and perpetuate it was the great object of the people in forming that convention, and it is also the great object of the plan which the convention has advised them to adopt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to continue or prevail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to continue or prevail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A strong sense of the value and blessings of union induced the people, at a very early period, to institute a federal government to preserve and perpetuate it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To preserve and perpetuate it was the great object of the people in forming that convention, and it is also the great object of the plan which the convention has advised them to adopt."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # proprionamide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amide of propionic acid (c2h5conh2).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amide of propionic acid (c2h5conh2).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proprionamide designates the amide of propionic acid (c2h5conh2)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amide of propionic acid (c2h5conh2).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amide of propionic acid (c2h5conh2).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proprionamide designates the amide of propionic acid (c2h5conh2)."*

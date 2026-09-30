@@ -5,15 +5,6 @@ status: unread
 ---
 # tend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a tendency or disposition to do or be something; be inclined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have care of or look after.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For to no other pass my verses tend, Than of your graces and your gifts to tell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a tendency or disposition to do or be something; be inclined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have care of or look after.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For to no other pass my verses tend, Than of your graces and your gifts to tell."*

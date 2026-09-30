@@ -5,15 +5,6 @@ status: unread
 ---
 # prerogative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*

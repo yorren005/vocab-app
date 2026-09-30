@@ -5,15 +5,6 @@ status: unread
 ---
 # rhetorician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a speech or oration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who delivers a speech or oration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Those that were most coherent and most minute, and, of consequence, least entitled to credit, were yet rendered probable by the exquisite art of this rhetorician."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His father was a rich man of equestrian rank, a rhetorician, who has left several volumes of rhetorical compositions on imaginary cases."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There are no theatricalities in his style--he is not a rhetorician even on paper.[41] He discards the tricks of the school, adoxography, epigram and, as a rule, paradox."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a speech or oration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who delivers a speech or oration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Those that were most coherent and most minute, and, of consequence, least entitled to credit, were yet rendered probable by the exquisite art of this rhetorician."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His father was a rich man of equestrian rank, a rhetorician, who has left several volumes of rhetorical compositions on imaginary cases."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There are no theatricalities in his style--he is not a rhetorician even on paper.[41] He discards the tricks of the school, adoxography, epigram and, as a rule, paradox."*

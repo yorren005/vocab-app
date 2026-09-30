@@ -5,15 +5,6 @@ status: unread
 ---
 # superlative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated expression (usually of praise).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level or degree attainable; the highest stage of development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is always in extremes, perpetually in the superlative degree."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This genius Marheyo possessed in a superlative degree, as he abundantly evinced by the use to which he put those sorely bruised and battered old shoes."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"My dear, isn't she--" Kathie waved her hands to express a superlative beyond the power of words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated expression (usually of praise).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level or degree attainable; the highest stage of development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is always in extremes, perpetually in the superlative degree."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This genius Marheyo possessed in a superlative degree, as he abundantly evinced by the use to which he put those sorely bruised and battered old shoes."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"My dear, isn't she--" Kathie waved her hands to express a superlative beyond the power of words."*

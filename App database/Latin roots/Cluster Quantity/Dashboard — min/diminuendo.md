@@ -5,13 +5,6 @@ status: unread
 ---
 # diminuendo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual decrease in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually decreasing in volume.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I hope you are going to say a good word for Richard, don’t you know, for my sake. _(Laughter)_ BUCKMULLIGAN: (_Piano, diminuendo_) Then outspoke medical Dick To his comrade medical Davy..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual decrease in loudness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually decreasing in volume.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"I hope you are going to say a good word for Richard, don’t you know, for my sake. _(Laughter)_ BUCKMULLIGAN: (_Piano, diminuendo_) Then outspoke medical Dick To his comrade medical Davy..."*

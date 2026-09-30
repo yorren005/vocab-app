@@ -5,15 +5,6 @@ status: unread
 ---
 # antiseptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that destroys micro-organisms that carry disease without harming body tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughly clean and free of or destructive to disease-causing organisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And his keen sense of the ludicrous side of things often acted as an antiseptic, and kept him right both with himself and with his people."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"That women were often forced to go through thirteen or fourteen deliveries when little thought had yet been given to creating an antiseptic environment for childbirth is apparently of little concern to S."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"In a moment she was back with a small bottle and a bit of antiseptic cotton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that destroys micro-organisms that carry disease without harming body tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughly clean and free of or destructive to disease-causing organisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"And his keen sense of the ludicrous side of things often acted as an antiseptic, and kept him right both with himself and with his people."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"That women were often forced to go through thirteen or fourteen deliveries when little thought had yet been given to creating an antiseptic environment for childbirth is apparently of little concern to S."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"In a moment she was back with a small bottle and a bit of antiseptic cotton."*

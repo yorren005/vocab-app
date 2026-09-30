@@ -5,14 +5,6 @@ status: unread
 ---
 # unintelligibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unintelligible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unintelligible manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He had known many disagreeable fathers before, and often been struck with the inconveniences they occasioned, but never, in the whole course of his life, had he seen one of that class so unintelligibly moral, so infamously tyrannical as Sir Thomas."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then he spoke unintelligibly, and went to the window, which he opened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unintelligible manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unintelligible manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"He had known many disagreeable fathers before, and often been struck with the inconveniences they occasioned, but never, in the whole course of his life, had he seen one of that class so unintelligibly moral, so infamously tyrannical as Sir Thomas."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then he spoke unintelligibly, and went to the window, which he opened."*

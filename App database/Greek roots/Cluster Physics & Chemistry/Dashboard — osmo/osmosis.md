@@ -5,13 +5,6 @@ status: unread
 ---
 # osmosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Movement of a solvent (such as water) through a semipermeable membrane (as of a living cell) into a solution of higher solute concentration that tends to equalize the concentrations of solute on the two sides of the membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of absorption or diffusion suggestive of the flow of osmotic action; especially : a usually effortless often unconscious assimilation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmosis designates movement of a solvent (such as water) through a semipermeable membrane (as of a living cell) into a solution of higher solute concentration that tends to equalize the concentrations of solute on the two sides of the membrane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Movement of a solvent (such as water) through a semipermeable membrane (as of a living cell) into a solution of higher solute concentration that tends to equalize the concentrations of solute on the two sides of the membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of absorption or diffusion suggestive of the flow of osmotic action; especially : a usually effortless often unconscious assimilation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmosis designates movement of a solvent (such as water) through a semipermeable membrane (as of a living cell) into a solution of higher solute concentration that tends to equalize the concentrations of solute on the two sides of the membrane."*

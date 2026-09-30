@@ -5,13 +5,6 @@ status: unread
 ---
 # unprotective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affording protection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affording protection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprotective designates not affording protection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affording protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affording protection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprotective designates not affording protection."*

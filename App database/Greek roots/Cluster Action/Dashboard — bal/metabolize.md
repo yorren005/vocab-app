@@ -5,13 +5,6 @@ status: unread
 ---
 # metabolize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To perform metabolism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolize designates to subject to metabolism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To perform metabolism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolize designates to subject to metabolism."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # marriage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a married couple voluntarily joined for life (or until divorce).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two people who are married to each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy marriage, sooner than thy wickedness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A prophet I, madam; and I speak the truth the next way: _For I the ballad will repeat, Which men full true shall find; Your marriage comes by destiny, Your cuckoo sings by kind._ COUNTESS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a married couple voluntarily joined for life (or until divorce).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two people who are married to each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy marriage, sooner than thy wickedness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A prophet I, madam; and I speak the truth the next way: _For I the ballad will repeat, Which men full true shall find; Your marriage comes by destiny, Your cuckoo sings by kind._ COUNTESS."*

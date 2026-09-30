@@ -5,20 +5,6 @@ status: unread
 ---
 # hasten
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Move or act quickly
-> 2. **Nuance / Usage**: Cause to happen more quickly : accelerate
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hasten the target*) and intransitive clauses (*hastening against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Will you two help to hasten them?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"inclination—you will hasten to enter into that union at once."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I could certainly hasten the work,” said Rosamond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Move or act quickly
+> 2. **Nuance / Usage**: Cause to happen more quickly : accelerate
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hasten the target*) and intransitive clauses (*hastening against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Will you two help to hasten them?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"inclination—you will hasten to enter into that union at once."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I could certainly hasten the work,” said Rosamond."*

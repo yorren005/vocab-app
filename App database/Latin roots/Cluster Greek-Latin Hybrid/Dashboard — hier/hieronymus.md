@@ -5,13 +5,6 @@ status: unread
 ---
 # hieronymus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieronymus designates (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieronymus designates (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # acorn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found him under a tree, like a dropped acorn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now they never meet in grove or green, By fountain clear, or spangled starlight sheen, But they do square; that all their elves for fear Creep into acorn cups, and hide them there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found him under a tree, like a dropped acorn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now they never meet in grove or green, By fountain clear, or spangled starlight sheen, But they do square; that all their elves for fear Creep into acorn cups, and hide them there."*

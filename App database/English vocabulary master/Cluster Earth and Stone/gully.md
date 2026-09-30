@@ -5,20 +5,6 @@ status: unread
 ---
 # gully
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Small valley
-> 2. **Nuance / Usage**: Make gullies in
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gully withstood the storm*), direct object (*cleaved the gully*), or prepositional anchor (*amidst the gully*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Title: Great Jehoshaphat and Gully Dirt!"*
-> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Great Jehoshaphat and Gully Dirt!"*
-> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Great Jehoshaphat and Gully Dirt" is presently out of print."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Small valley
+> 2. **Nuance / Usage**: Make gullies in
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gully withstood the storm*), direct object (*cleaved the gully*), or prepositional anchor (*amidst the gully*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Title: Great Jehoshaphat and Gully Dirt!"*
+> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Great Jehoshaphat and Gully Dirt!"*
+> - 📜 **Smith, Jewell Ellen (*Great Jehoshaphat and Gully Dirt!*):** *"Great Jehoshaphat and Gully Dirt" is presently out of print."*

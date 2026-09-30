@@ -5,13 +5,6 @@ status: unread
 ---
 # pancytopenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pancytopenia designates an abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pancytopenia designates an abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lapse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake resulting from inattention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A break or intermission in the occurrence of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lapse in fulness Is sorer than to lie for need; and falsehood Is worse in kings than beggars."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The air, the movement in the court, the lapse of time, or the combination of these things recovers him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here, after the lapse of a few minutes, several more fell down, and lay helpless and livid as the rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake resulting from inattention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A break or intermission in the occurrence of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lapse in fulness Is sorer than to lie for need; and falsehood Is worse in kings than beggars."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The air, the movement in the court, the lapse of time, or the combination of these things recovers him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here, after the lapse of a few minutes, several more fell down, and lay helpless and livid as the rest."*

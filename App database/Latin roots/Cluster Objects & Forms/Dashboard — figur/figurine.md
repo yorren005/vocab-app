@@ -5,15 +5,6 @@ status: unread
 ---
 # figurine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carved or molded figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small carved or molded figure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She had all the delicate grace of that Tanagra figurine that you have in your studio, Basil."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Natural History Museum has a good series of Han pottery. _Chicago._--The Field Museum of Natural History has probably the largest collection of Han pottery and T´ang figurines in the world."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Among the T´ang figurines the horse is conspicuous not only in its comparative frequency, but for the spirit and character with which it is portrayed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carved or molded figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small carved or molded figure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She had all the delicate grace of that Tanagra figurine that you have in your studio, Basil."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Natural History Museum has a good series of Han pottery. _Chicago._--The Field Museum of Natural History has probably the largest collection of Han pottery and T´ang figurines in the world."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Among the T´ang figurines the horse is conspicuous not only in its comparative frequency, but for the spirit and character with which it is portrayed."*

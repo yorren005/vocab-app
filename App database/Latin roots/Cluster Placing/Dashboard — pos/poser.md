@@ -5,15 +5,6 @@ status: unread
 ---
 # poser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually pretends to be something he is not.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who poses for a photographer or painter or sculptor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I should humbly call it a poser, sir."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And there was the Island of Red-Hot Animals, but that was a poser."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I should humbly call it a poser, sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually pretends to be something he is not.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who poses for a photographer or painter or sculptor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I should humbly call it a poser, sir."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And there was the Island of Red-Hot Animals, but that was a poser."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I should humbly call it a poser, sir."*

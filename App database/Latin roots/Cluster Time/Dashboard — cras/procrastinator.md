@@ -5,13 +5,6 @@ status: unread
 ---
 # procrastinator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who postpones work (especially out of laziness or habitual carelessness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who postpones work (especially out of laziness or habitual carelessness).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This procrastinator Kutúzov, whose motto was “Patience and Time,” this enemy of decisive action, gave battle at Borodinó, investing the preparations for it with unparalleled solemnity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who postpones work (especially out of laziness or habitual carelessness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who postpones work (especially out of laziness or habitual carelessness).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This procrastinator Kutúzov, whose motto was “Patience and Time,” this enemy of decisive action, gave battle at Borodinó, investing the preparations for it with unparalleled solemnity."*

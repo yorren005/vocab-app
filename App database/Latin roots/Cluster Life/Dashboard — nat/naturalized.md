@@ -5,15 +5,6 @@ status: unread
 ---
 # naturalized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a citizen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explain with reference to nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever shall I do?” Not-at-homes were hardly naturalized in Weatherbury farmhouses, so Liddy suggested—“Say you’re a fright with dust, and can’t come down.” “Yes—that sounds very well,” said Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever shall I do?” Not-at-homes were hardly naturalized in Weatherbury farm-houses, so Liddy suggested—“Say you’re a fright with dust, and can’t come down.” “Yes—that sounds very well,” said Mrs."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The latter was made up to a large extent of naturalized foreigners; refugees from England, Ireland and Scotland, driven from home for hostility to the government or for attachment to France."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a citizen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explain with reference to nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever shall I do?” Not-at-homes were hardly naturalized in Weatherbury farmhouses, so Liddy suggested—“Say you’re a fright with dust, and can’t come down.” “Yes—that sounds very well,” said Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever shall I do?” Not-at-homes were hardly naturalized in Weatherbury farm-houses, so Liddy suggested—“Say you’re a fright with dust, and can’t come down.” “Yes—that sounds very well,” said Mrs."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The latter was made up to a large extent of naturalized foreigners; refugees from England, Ireland and Scotland, driven from home for hostility to the government or for attachment to France."*

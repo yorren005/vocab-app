@@ -5,15 +5,6 @@ status: unread
 ---
 # expedition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military campaign designed to achieve a specific objective in a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized group of people undertaking a journey for a particular purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, I brought you word an hour since that the bark _Expedition_ put forth tonight, and then were you hindered by the sergeant to tarry for the hoy _Delay_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had, before this last expedition, twenty-five wounds upon him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then it was when the unhappy King— Whose wrongs in us God pardon!—did set forth Upon his Irish expedition; From whence he, intercepted, did return To be deposed, and shortly murdered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military campaign designed to achieve a specific objective in a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized group of people undertaking a journey for a particular purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, I brought you word an hour since that the bark _Expedition_ put forth tonight, and then were you hindered by the sergeant to tarry for the hoy _Delay_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had, before this last expedition, twenty-five wounds upon him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then it was when the unhappy King— Whose wrongs in us God pardon!—did set forth Upon his Irish expedition; From whence he, intercepted, did return To be deposed, and shortly murdered."*

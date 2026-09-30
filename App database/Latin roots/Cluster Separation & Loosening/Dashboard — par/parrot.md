@@ -5,15 +5,6 @@ status: unread
 ---
 # parrot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually brightly colored zygodactyl tropical birds with short hooked beaks and the ability to mimic sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copycat who does not understand the words or acts being imitated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistress, _respice finem_, respect your end, or rather, the prophesy like the parrot, “Beware the rope’s end.” ANTIPHOLUS OF EPHESUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That ever this fellow should have fewer words than a parrot, and yet the son of a woman!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually brightly colored zygodactyl tropical birds with short hooked beaks and the ability to mimic sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copycat who does not understand the words or acts being imitated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistress, _respice finem_, respect your end, or rather, the prophesy like the parrot, “Beware the rope’s end.” ANTIPHOLUS OF EPHESUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That ever this fellow should have fewer words than a parrot, and yet the son of a woman!"*

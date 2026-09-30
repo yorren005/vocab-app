@@ -5,14 +5,6 @@ status: unread
 ---
 # tribesman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives in a tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives in a tribe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The conjecture will be confirmed if we can show that savages have actually imposed certain restrictions on the murderer of a fellow-tribesman from a definite fear that he is haunted by the ghost of his victim."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among some primitive peoples, when the blood of a tribesman has to be spilt it is not suffered to fall upon the ground, but is received upon the bodies of his fellow-tribesmen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives in a tribe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives in a tribe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The conjecture will be confirmed if we can show that savages have actually imposed certain restrictions on the murderer of a fellow-tribesman from a definite fear that he is haunted by the ghost of his victim."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among some primitive peoples, when the blood of a tribesman has to be spilt it is not suffered to fall upon the ground, but is received upon the bodies of his fellow-tribesmen."*

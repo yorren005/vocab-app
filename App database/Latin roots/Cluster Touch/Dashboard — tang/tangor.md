@@ -5,13 +5,6 @@ status: unread
 ---
 # tangor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangor designates large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangor designates large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida."*

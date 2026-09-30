@@ -5,13 +5,6 @@ status: unread
 ---
 # reactance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactance designates opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactance designates opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance)."*

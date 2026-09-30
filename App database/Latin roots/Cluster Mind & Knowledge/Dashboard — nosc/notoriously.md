@@ -5,15 +5,6 @@ status: unread
 ---
 # notoriously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a notorious degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a notorious degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fool, there was never man so notoriously abused."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath been most notoriously abus’d."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The notoriously unfair employer will find his workmen drifting away, his working-force reduced in number and quality at times of greatest need, and his evil reputation going abroad among workmen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a notorious degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a notorious degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fool, there was never man so notoriously abused."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath been most notoriously abus’d."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The notoriously unfair employer will find his workmen drifting away, his working-force reduced in number and quality at times of greatest need, and his evil reputation going abroad among workmen."*

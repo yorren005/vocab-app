@@ -5,15 +5,6 @@ status: unread
 ---
 # de
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defensive end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _O bon Dieu! les langues des hommes sont pleines de tromperies._ KING HENRY."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Barbou's country-house ('La Corbeille des Raisins') on the other."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"There were other saints with other thoughts that came for thee and for me!' All this contradiction was over when Agnès and I together took our flowers on the _jour des morts_ to the graves we love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defensive end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _O bon Dieu! les langues des hommes sont pleines de tromperies._ KING HENRY."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Barbou's country-house ('La Corbeille des Raisins') on the other."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"There were other saints with other thoughts that came for thee and for me!' All this contradiction was over when Agnès and I together took our flowers on the _jour des morts_ to the graves we love."*

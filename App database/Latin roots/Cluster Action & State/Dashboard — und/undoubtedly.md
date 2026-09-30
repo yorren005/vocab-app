@@ -5,15 +5,6 @@ status: unread
 ---
 # undoubtedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without doubt; certainly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without doubt; certainly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Cardinal, Though from an humble stock, undoubtedly Was fashioned to much honour."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa did not need to mind these annoying negotiations now, but calmly replied that the Baron would send his nephew to the high school in the city and would undoubtedly make his own arrangements."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was full of business and undoubtedly was, as she had told us, devoted to the cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without doubt; certainly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without doubt; certainly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Cardinal, Though from an humble stock, undoubtedly Was fashioned to much honour."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa did not need to mind these annoying negotiations now, but calmly replied that the Baron would send his nephew to the high school in the city and would undoubtedly make his own arrangements."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was full of business and undoubtedly was, as she had told us, devoted to the cause."*

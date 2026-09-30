@@ -5,13 +5,6 @@ status: unread
 ---
 # quadrature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The construction of a square having the same area as some other figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of a square having the same area as some other figure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A solution of the secular problem of the quadrature of the circle, government premium £ 1,000,000 sterling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The construction of a square having the same area as some other figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of a square having the same area as some other figure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A solution of the secular problem of the quadrature of the circle, government premium £ 1,000,000 sterling."*

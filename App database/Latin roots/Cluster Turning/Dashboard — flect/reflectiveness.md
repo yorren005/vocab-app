@@ -5,15 +5,6 @@ status: unread
 ---
 # reflectiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of quiet thought or contemplation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of quiet thought or contemplation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Symbols of reflectiveness passed into her face, and a note of tragedy at times into her voice."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They owe him a deanery.” And here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of quiet thought or contemplation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of quiet thought or contemplation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Symbols of reflectiveness passed into her face, and a note of tragedy at times into her voice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They owe him a deanery.” And here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr."*

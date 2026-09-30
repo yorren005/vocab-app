@@ -5,15 +5,6 @@ status: unread
 ---
 # taxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex translational or orientational movement by a freely motile and usually simple organism in relation to a source of stimulation (such as a light or a temperature or chemical gradient).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflex reaction involving a taxis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"These taxis are waiting for us," Lawrence had come up behind her and his hand was on her arm."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Space tugs and barges labored in all directions, taxis charged about, and space-cranes swayed above dozens of platforms that protruded from the Depot's hull."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Near-space cargo and passenger shuttles and taxis landed at and departed from pads adjacent pressurized air docks into the city."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex translational or orientational movement by a freely motile and usually simple organism in relation to a source of stimulation (such as a light or a temperature or chemical gradient).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflex reaction involving a taxis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"These taxis are waiting for us," Lawrence had come up behind her and his hand was on her arm."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Space tugs and barges labored in all directions, taxis charged about, and space-cranes swayed above dozens of platforms that protruded from the Depot's hull."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Near-space cargo and passenger shuttles and taxis landed at and departed from pads adjacent pressurized air docks into the city."*

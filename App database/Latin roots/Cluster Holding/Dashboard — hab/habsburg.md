@@ -5,15 +5,6 @@ status: unread
 ---
 # habsburg
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A royal german family that provided rulers for several european states and wore the crown of the holy roman empire from 1440 to 1806.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A royal german family that provided rulers for several european states and wore the crown of the holy roman empire from 1440 to 1806.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But in its crypt lie several of the great dead of the House of Habsburg, among them Maria Theresa and Napoleon’s son, the Duke of Reichstadt."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Hereabouts was a Roman camp, once, and in it the Emperor Marcus Aurelius died a thousand years before the first Habsburg ruled in Vienna, which was six hundred years ago and more."*
-> - 📜 **James Joyce (*Ulysses*):** *"That archduke Leopold was it no yes or was it Otto one of those Habsburgs?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A royal german family that provided rulers for several european states and wore the crown of the holy roman empire from 1440 to 1806.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A royal german family that provided rulers for several european states and wore the crown of the holy roman empire from 1440 to 1806.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But in its crypt lie several of the great dead of the House of Habsburg, among them Maria Theresa and Napoleon’s son, the Duke of Reichstadt."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Hereabouts was a Roman camp, once, and in it the Emperor Marcus Aurelius died a thousand years before the first Habsburg ruled in Vienna, which was six hundred years ago and more."*
+> - 📜 **James Joyce (*Ulysses*):** *"That archduke Leopold was it no yes or was it Otto one of those Habsburgs?"*

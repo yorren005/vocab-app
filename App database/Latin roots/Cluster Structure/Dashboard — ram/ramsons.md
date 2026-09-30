@@ -5,13 +5,6 @@ status: unread
 ---
 # ramsons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungent old world weedy plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent old world weedy plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramsons designates pungent old world weedy plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungent old world weedy plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent old world weedy plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramsons designates pungent old world weedy plant."*

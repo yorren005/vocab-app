@@ -5,15 +5,6 @@ status: unread
 ---
 # reminiscence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental impression retained and recalled from the past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of remembering (especially the process of recovering information by mental effort).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Afterwards, as you shall learn, I identified this reminiscence and knew that the moaning and the groaning was of the sweep-slaves manacled to their benches, which I heard from above, on the poop, a soldier passenger on a galley of old Rome."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The evening arrival at the great town of —— scattered these thoughts; night gave them quite another turn: laid down on my traveller’s bed, I left reminiscence for anticipation."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"They are dealing with the earthly life of the Son of God--and they deal with it with a faithfulness to tradition and reminiscence, which is, when we really consider it, quite surprising."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental impression retained and recalled from the past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of remembering (especially the process of recovering information by mental effort).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Afterwards, as you shall learn, I identified this reminiscence and knew that the moaning and the groaning was of the sweep-slaves manacled to their benches, which I heard from above, on the poop, a soldier passenger on a galley of old Rome."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The evening arrival at the great town of —— scattered these thoughts; night gave them quite another turn: laid down on my traveller’s bed, I left reminiscence for anticipation."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"They are dealing with the earthly life of the Son of God--and they deal with it with a faithfulness to tradition and reminiscence, which is, when we really consider it, quite surprising."*

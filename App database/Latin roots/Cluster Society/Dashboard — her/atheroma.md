@@ -5,13 +5,6 @@ status: unread
 ---
 # atheroma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fatty deposit in the intima (inner lining) of an artery; can obstruct blood flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fatty deposit in the intima (inner lining) of an artery; can obstruct blood flow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheroma designates a fatty deposit in the intima (inner lining) of an artery; can obstruct blood flow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fatty deposit in the intima (inner lining) of an artery; can obstruct blood flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fatty deposit in the intima (inner lining) of an artery; can obstruct blood flow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheroma designates a fatty deposit in the intima (inner lining) of an artery; can obstruct blood flow."*

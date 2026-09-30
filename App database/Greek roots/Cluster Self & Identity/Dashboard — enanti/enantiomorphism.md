@@ -5,13 +5,6 @@ status: unread
 ---
 # enantiomorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between crystals or molecules that are reflections of one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of opposition between crystals or molecules that are reflections of one another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorphism designates the relation of opposition between crystals or molecules that are reflections of one another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between crystals or molecules that are reflections of one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of opposition between crystals or molecules that are reflections of one another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorphism designates the relation of opposition between crystals or molecules that are reflections of one another."*

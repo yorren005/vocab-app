@@ -5,15 +5,6 @@ status: unread
 ---
 # tumour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A cure for a tumour, based on the principle of homoeopathic magic, is prescribed by Marcellus of Bordeaux, court physician to Theodosius the First, in his curious work on medicine."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As the vervain dries up in the smoke, so the tumour will also dry up and disappear."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If the patient should afterwards prove ungrateful to the good physician, the man of skill can avenge himself very easily by throwing the vervain into water; for as the root absorbs the moisture once more, the tumour will return."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A cure for a tumour, based on the principle of homoeopathic magic, is prescribed by Marcellus of Bordeaux, court physician to Theodosius the First, in his curious work on medicine."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As the vervain dries up in the smoke, so the tumour will also dry up and disappear."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If the patient should afterwards prove ungrateful to the good physician, the man of skill can avenge himself very easily by throwing the vervain into water; for as the root absorbs the moisture once more, the tumour will return."*

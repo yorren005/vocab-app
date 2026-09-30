@@ -5,13 +5,6 @@ status: unread
 ---
 # solenodon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solenodons are venomous, nocturnal, burrowing, insectivorous mammals belonging to the family Solenodontidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The two living solenodon species are the Cuban solenodon and the Hispaniolan solenodon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenodon designates solenodons are venomous, nocturnal, burrowing, insectivorous mammals belonging to the family solenodontidae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solenodons are venomous, nocturnal, burrowing, insectivorous mammals belonging to the family Solenodontidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The two living solenodon species are the Cuban solenodon and the Hispaniolan solenodon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenodon designates solenodons are venomous, nocturnal, burrowing, insectivorous mammals belonging to the family solenodontidae."*

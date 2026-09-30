@@ -5,13 +5,6 @@ status: unread
 ---
 # hydronephrosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of urine in the kidney because of an obstruction in the ureter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of urine in the kidney because of an obstruction in the ureter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydronephrosis designates accumulation of urine in the kidney because of an obstruction in the ureter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of urine in the kidney because of an obstruction in the ureter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of urine in the kidney because of an obstruction in the ureter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydronephrosis designates accumulation of urine in the kidney because of an obstruction in the ureter."*

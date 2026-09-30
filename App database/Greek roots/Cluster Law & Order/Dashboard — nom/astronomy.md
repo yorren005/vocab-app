@@ -5,15 +5,6 @@ status: unread
 ---
 # astronomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of objects and matter outside the earth's atmosphere and of their physical and chemical properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Astronomy in which celestial bodies in the solar system are studied by analyzing the return of radio waves directed at them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But you must have your will and drag my old body about with you—a-studying astronomy and numbers in Venice, poetry and all the Italian _fol-de-rols_ in Florence, and astrology in Pisa, and God knows what in that madman country of Germany."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And here, at the end of it all, I pore over books of astronomy from the prison library, such as they allow condemned men to read, and learn that even the heavens are passing fluxes, vexed with star-driftage as the earth is by the drifts of men."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of objects and matter outside the earth's atmosphere and of their physical and chemical properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Astronomy in which celestial bodies in the solar system are studied by analyzing the return of radio waves directed at them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But you must have your will and drag my old body about with you—a-studying astronomy and numbers in Venice, poetry and all the Italian _fol-de-rols_ in Florence, and astrology in Pisa, and God knows what in that madman country of Germany."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And here, at the end of it all, I pore over books of astronomy from the prison library, such as they allow condemned men to read, and learn that even the heavens are passing fluxes, vexed with star-driftage as the earth is by the drifts of men."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*

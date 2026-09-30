@@ -5,13 +5,6 @@ status: unread
 ---
 # post-communist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: No longer communist; subsequent to being communistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: No longer communist; subsequent to being communistic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-communist designates no longer communist; subsequent to being communistic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: No longer communist; subsequent to being communistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: No longer communist; subsequent to being communistic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-communist designates no longer communist; subsequent to being communistic."*

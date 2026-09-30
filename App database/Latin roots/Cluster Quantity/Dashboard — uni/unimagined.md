@@ -5,13 +5,6 @@ status: unread
 ---
 # unimagined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The frightful deeds that were to be soon done, were probably unimagined at that time in the brains of the doers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The frightful deeds that were to be soon done, were probably unimagined at that time in the brains of the doers."*

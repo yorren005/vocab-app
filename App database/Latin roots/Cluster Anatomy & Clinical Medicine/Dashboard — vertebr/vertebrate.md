@@ -5,15 +5,6 @@ status: unread
 ---
 # vertebrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a backbone or spinal column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I concluded definitely that it belonged to the vertebrate branch, class mammalia."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The bones of vertebrate fossils preserved in this bed are often much injured by the gypsum formation which covers their surface and often penetrates them in every direction."*
-> - 📜 **James Joyce (*Ulysses*):** *"My telegram. —You were speaking of the gaseous vertebrate, if I mistake not? he asked of Stephen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a backbone or spinal column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I concluded definitely that it belonged to the vertebrate branch, class mammalia."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The bones of vertebrate fossils preserved in this bed are often much injured by the gypsum formation which covers their surface and often penetrates them in every direction."*
+> - 📜 **James Joyce (*Ulysses*):** *"My telegram. —You were speaking of the gaseous vertebrate, if I mistake not? he asked of Stephen."*

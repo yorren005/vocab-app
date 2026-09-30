@@ -5,15 +5,6 @@ status: unread
 ---
 # submissive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or willing to submit to orders or wishes of others or showing such inclination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abjectly submissive; characteristic of a slave or servant; ; - s.h.adams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On what submissive message art thou sent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submissive fall his princely feet before, And he from forage will incline to play."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next comes his sister Mea, whose fault is that she is too submissive and confiding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or willing to submit to orders or wishes of others or showing such inclination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abjectly submissive; characteristic of a slave or servant; ; - s.h.adams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On what submissive message art thou sent?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submissive fall his princely feet before, And he from forage will incline to play."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next comes his sister Mea, whose fault is that she is too submissive and confiding."*

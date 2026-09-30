@@ -5,13 +5,6 @@ status: unread
 ---
 # pleuston
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms living in the thin surface layer existing at the air-water interface of a body of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organisms living in the thin surface layer existing at the air-water interface of a body of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuston designates organisms living in the thin surface layer existing at the air-water interface of a body of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms living in the thin surface layer existing at the air-water interface of a body of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organisms living in the thin surface layer existing at the air-water interface of a body of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuston designates organisms living in the thin surface layer existing at the air-water interface of a body of water."*

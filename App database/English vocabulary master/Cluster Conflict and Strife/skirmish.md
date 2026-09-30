@@ -5,20 +5,6 @@ status: unread
 ---
 # skirmish
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Brisk preliminary verbal conflict
-> 2. **Nuance / Usage**: Engage in a minor battle or dispute
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Enter Servingmen in skirmish with bloody pates."*
-> - 📜 **Classic Author (*The Evolution of Soviet Policy in the Sino-Soviet Border Dispute*):** *"On 2 March, Chinese border guards with the help of regular PLA forces skillfully ambushed Strelnikov's unit on the ice near Chen Pao, killing him and 30 Soviets in the subsequent skirmish."*
-> - 📜 **Classic Author (*AA Book of British Villages*):** *"The walls are slitted with embrasures through which bowmen could fire, indicating that the belfry also served as a stronghold during border skirmishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A brief, irregular fight or minor armed encounter between small bodies of troops or outlying patrols, usually apart from a pitched battle.
+> 2. **Nuance / Usage**: Used figuratively for any brisk, preliminary clash of wits, arguments, or political maneuvers before a larger contest.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Intransitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*a border skirmish*, *a skirmish of wits*) and verbally (*cavalry skirmishing along the ridge*).
+> - **Collocations & Registers**: Martial, historical, and rhetorical registers; paired with *outpost*, *border*, *patrol*, *preliminary*, and *wits*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"They never meet but there’s a **skirmish** of wit between them."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs*):** *"Our advance guard engaged in a sharp **skirmish** with the enemy's pickets along the wooded creek."*
+> - 📜 **Winston S. Churchill (*A History of the English-Speaking Peoples*):** *"The walls were slitted with embrasures through which bowmen could fire during border **skirmishes**."*

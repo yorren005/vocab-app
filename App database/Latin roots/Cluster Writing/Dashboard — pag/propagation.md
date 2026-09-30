@@ -5,15 +5,6 @@ status: unread
 ---
 # propagation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spreading of something (a belief or practice) into new regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of producing offspring or multiplying by such production.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This we came not to Only for propagation of a dower Remaining in the coffer of her friends, From whom we thought it meet to hide our love Till time had made them for us."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Auvergne, in _Annales de la Propagation de la Foi_, x. (1837) pp. 23 _sq._; A.P."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spreading of something (a belief or practice) into new regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of producing offspring or multiplying by such production.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This we came not to Only for propagation of a dower Remaining in the coffer of her friends, From whom we thought it meet to hide our love Till time had made them for us."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Auvergne, in _Annales de la Propagation de la Foi_, x. (1837) pp. 23 _sq._; A.P."*

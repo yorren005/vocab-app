@@ -5,15 +5,6 @@ status: unread
 ---
 # inhere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be inherent in something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be inherent in something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Still less is there any one individual thing, "The Finite," in which these contradictory attributes inhere."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For example, in Madagascar soldiers are forbidden to eat a number of foods lest on the principle of homoeopathic magic they should be tainted by certain dangerous or undesirable properties which are supposed to inhere in these particular viands."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Here it is obvious that fruitfulness is believed to inhere in a stick cut from a fruitful tree and to be imparted by contact to the young banana plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be inherent in something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be inherent in something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Still less is there any one individual thing, "The Finite," in which these contradictory attributes inhere."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For example, in Madagascar soldiers are forbidden to eat a number of foods lest on the principle of homoeopathic magic they should be tainted by certain dangerous or undesirable properties which are supposed to inhere in these particular viands."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Here it is obvious that fruitfulness is believed to inhere in a stick cut from a fruitful tree and to be imparted by contact to the young banana plants."*

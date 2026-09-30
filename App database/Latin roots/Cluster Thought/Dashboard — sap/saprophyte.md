@@ -5,13 +5,6 @@ status: unread
 ---
 # saprophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that feeds on dead organic matter especially a fungus or bacterium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that feeds on dead organic matter especially a fungus or bacterium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprophyte designates an organism that feeds on dead organic matter especially a fungus or bacterium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that feeds on dead organic matter especially a fungus or bacterium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that feeds on dead organic matter especially a fungus or bacterium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprophyte designates an organism that feeds on dead organic matter especially a fungus or bacterium."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bovini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Term not used technically; essentially coextensive with genus bos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Term not used technically; essentially coextensive with genus bos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovini designates term not used technically; essentially coextensive with genus bos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Term not used technically; essentially coextensive with genus bos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Term not used technically; essentially coextensive with genus bos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovini designates term not used technically; essentially coextensive with genus bos."*

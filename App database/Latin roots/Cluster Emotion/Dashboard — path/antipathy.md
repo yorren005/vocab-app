@@ -5,15 +5,6 @@ status: unread
 ---
 # antipathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The object of a feeling of intense aversion; something to be avoided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No contraries hold more antipathy Than I and such a knave."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John had not much affection for his mother and sisters, and an antipathy to me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That eye of hers, that voice stirred every antipathy I had."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The object of a feeling of intense aversion; something to be avoided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No contraries hold more antipathy Than I and such a knave."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John had not much affection for his mother and sisters, and an antipathy to me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That eye of hers, that voice stirred every antipathy I had."*

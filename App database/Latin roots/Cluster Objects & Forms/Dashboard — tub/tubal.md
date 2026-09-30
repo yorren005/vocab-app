@@ -5,15 +5,6 @@ status: unread
 ---
 # tubal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to occurring in a tube such as e.g. the fallopian tube or eustachian tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to occurring in a tube such as e.g. the fallopian tube or eustachian tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tubal, a wealthy Hebrew of my tribe, Will furnish me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, Tubal, what news from Genoa?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TUBAL. —hath an argosy cast away coming from Tripolis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to occurring in a tube such as e.g. the fallopian tube or eustachian tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to occurring in a tube such as e.g. the fallopian tube or eustachian tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tubal, a wealthy Hebrew of my tribe, Will furnish me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, Tubal, what news from Genoa?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TUBAL. —hath an argosy cast away coming from Tripolis."*

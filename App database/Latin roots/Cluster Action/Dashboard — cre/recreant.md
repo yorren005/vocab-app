@@ -5,15 +5,6 @@ status: unread
 ---
 # recreant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abject coward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Puff in thy teeth, most recreant coward base!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doff it for shame, And hang a calf’s-skin on those recreant limbs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And hang a calf’s-skin on those recreant limbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abject coward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Puff in thy teeth, most recreant coward base!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doff it for shame, And hang a calf’s-skin on those recreant limbs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And hang a calf’s-skin on those recreant limbs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # study
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed critical inspection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applying the mind to learning and understanding a subject (especially by reading).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sends greetings to the queen of Egypt, And bids thee study on what fair demands Thou mean’st to have him grant thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I care not if I have; it is my study To seem despiteful and ungentle to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You could for a need study a speech of some dozen or sixteen lines, which I would set down and insert in’t, could you not?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed critical inspection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applying the mind to learning and understanding a subject (especially by reading).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sends greetings to the queen of Egypt, And bids thee study on what fair demands Thou mean’st to have him grant thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I care not if I have; it is my study To seem despiteful and ungentle to you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You could for a need study a speech of some dozen or sixteen lines, which I would set down and insert in’t, could you not?"*

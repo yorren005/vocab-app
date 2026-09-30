@@ -5,13 +5,6 @@ status: unread
 ---
 # rotl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotl designates a unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotl designates a unit of weight used in some moslem countries near the mediterranean; varies between one and five pounds."*

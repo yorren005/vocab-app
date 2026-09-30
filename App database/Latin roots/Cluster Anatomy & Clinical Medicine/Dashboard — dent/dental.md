@@ -5,15 +5,6 @@ status: unread
 ---
 # dental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant articulated with the tip of the tongue near the gum ridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He took a reel of dental floss from his waistcoat pocket and, breaking off a piece, twanged it smartly between two and two of his resonant unwashed teeth. —Bingbang, bangbang."*
-> - 📜 **James Joyce (*Ulysses*):** *"As he strode past Mr Bloom’s dental windows the sway of his dustcoat brushed rudely from its angle a slender tapping cane and swept onwards, having buffeted a thewless body."*
-> - 📜 **James Joyce (*Ulysses*):** *"Ah, yes! _(He takes off his high grade hat, saluting.)_ Dr Bloom, Leopold, dental surgeon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant articulated with the tip of the tongue near the gum ridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He took a reel of dental floss from his waistcoat pocket and, breaking off a piece, twanged it smartly between two and two of his resonant unwashed teeth. —Bingbang, bangbang."*
+> - 📜 **James Joyce (*Ulysses*):** *"As he strode past Mr Bloom’s dental windows the sway of his dustcoat brushed rudely from its angle a slender tapping cane and swept onwards, having buffeted a thewless body."*
+> - 📜 **James Joyce (*Ulysses*):** *"Ah, yes! _(He takes off his high grade hat, saluting.)_ Dr Bloom, Leopold, dental surgeon."*

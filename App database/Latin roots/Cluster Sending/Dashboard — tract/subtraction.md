@@ -5,15 +5,6 @@ status: unread
 ---
 # subtraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arithmetic operation in which the difference between two numbers is calculated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subtracting (removing a part from the whole).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"He found it impossible, even by the Fulton Market method of subtraction, to get three hundred dollars' worth of express charges out of half that amount of sales, and suggested a discontinuance of shipments."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Whether the temperature rises or falls, there is a point beyond which the change is no longer an addition to, but a subtraction from, pleasure."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Am I any the less for these mutilations, for these subtractions of the flesh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arithmetic operation in which the difference between two numbers is calculated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subtracting (removing a part from the whole).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"He found it impossible, even by the Fulton Market method of subtraction, to get three hundred dollars' worth of express charges out of half that amount of sales, and suggested a discontinuance of shipments."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Whether the temperature rises or falls, there is a point beyond which the change is no longer an addition to, but a subtraction from, pleasure."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Am I any the less for these mutilations, for these subtractions of the flesh?"*

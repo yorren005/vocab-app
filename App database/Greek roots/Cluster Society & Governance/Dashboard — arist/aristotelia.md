@@ -5,13 +5,6 @@ status: unread
 ---
 # aristotelia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of shrubs or small trees of australia and new zealand and western south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of shrubs or small trees of australia and new zealand and western south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelia designates small genus of shrubs or small trees of australia and new zealand and western south america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of shrubs or small trees of australia and new zealand and western south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of shrubs or small trees of australia and new zealand and western south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelia designates small genus of shrubs or small trees of australia and new zealand and western south america."*

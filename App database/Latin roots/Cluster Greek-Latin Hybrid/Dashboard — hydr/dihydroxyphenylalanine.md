@@ -5,13 +5,6 @@ status: unread
 ---
 # dihydroxyphenylalanine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amino acid that is formed in the liver and converted into dopamine in the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amino acid that is formed in the liver and converted into dopamine in the brain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dihydroxyphenylalanine designates amino acid that is formed in the liver and converted into dopamine in the brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Amino acid that is formed in the liver and converted into dopamine in the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amino acid that is formed in the liver and converted into dopamine in the brain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dihydroxyphenylalanine designates amino acid that is formed in the liver and converted into dopamine in the brain."*

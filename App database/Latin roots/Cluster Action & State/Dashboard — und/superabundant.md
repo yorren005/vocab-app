@@ -5,14 +5,6 @@ status: unread
 ---
 # superabundant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most excessively abundant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most excessively abundant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revenues were superabundant for current expenses of government, and altho there was a large national debt, hardly any of it was redeemable at the time."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Can't you keep your place, ma'am?" and he gave a great _whoo!_ as if he were letting off superabundant steam."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most excessively abundant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most excessively abundant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revenues were superabundant for current expenses of government, and altho there was a large national debt, hardly any of it was redeemable at the time."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Can't you keep your place, ma'am?" and he gave a great _whoo!_ as if he were letting off superabundant steam."*

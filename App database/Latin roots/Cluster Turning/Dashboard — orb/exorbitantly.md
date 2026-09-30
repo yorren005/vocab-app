@@ -5,13 +5,6 @@ status: unread
 ---
 # exorbitantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exorbitant degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exorbitant degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Then what have we gained by getting these articles so exorbitantly cheap? or, rather, what have we not lost?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exorbitant degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exorbitant degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Then what have we gained by getting these articles so exorbitantly cheap? or, rather, what have we not lost?"*

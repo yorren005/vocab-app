@@ -5,15 +5,6 @@ status: unread
 ---
 # relaxed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, giving the relaxed figure of the old man another shake."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"During the whole of this time, and during the whole search, my companion, wrapped up on the box, never relaxed in his vigilance a single moment; but when we crossed the bridge he seemed, if possible, to be more on the alert than before."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My poor life and heart, how weak I am!” she moaned, in a relaxed, desultory way, heedless of Liddy’s presence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, giving the relaxed figure of the old man another shake."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"During the whole of this time, and during the whole search, my companion, wrapped up on the box, never relaxed in his vigilance a single moment; but when we crossed the bridge he seemed, if possible, to be more on the alert than before."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My poor life and heart, how weak I am!” she moaned, in a relaxed, desultory way, heedless of Liddy’s presence."*

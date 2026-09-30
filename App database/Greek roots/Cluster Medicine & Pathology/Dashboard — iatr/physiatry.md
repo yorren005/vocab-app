@@ -5,13 +5,6 @@ status: unread
 ---
 # physiatry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical medicine and rehabilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialty concerned with preventing, diagnosing, and treating disabling diseases, disorders, and injuries by physical means (as by the use of electrotherapy, therapeutic exercise, or pharmaceutical pain control) —called also physiatry, physical medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiatry designates physical medicine and rehabilitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical medicine and rehabilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialty concerned with preventing, diagnosing, and treating disabling diseases, disorders, and injuries by physical means (as by the use of electrotherapy, therapeutic exercise, or pharmaceutical pain control) —called also physiatry, physical medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiatry designates physical medicine and rehabilitation."*

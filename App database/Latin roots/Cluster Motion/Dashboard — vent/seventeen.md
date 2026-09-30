@@ -5,15 +5,6 @@ status: unread
 ---
 # seventeen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of sixteen and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being one more than sixteen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SOLDIER. _Boskos vauvado._ I understand thee, and can speak thy tongue. _Kerelybonto._ Sir, Betake thee to thy faith, for seventeen poniards are at thy bosom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From seventeen years till now almost fourscore Here lived I, but now live here no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At seventeen years many their fortunes seek, But at fourscore it is too late a week."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of sixteen and one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being one more than sixteen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SOLDIER. _Boskos vauvado._ I understand thee, and can speak thy tongue. _Kerelybonto._ Sir, Betake thee to thy faith, for seventeen poniards are at thy bosom."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From seventeen years till now almost fourscore Here lived I, but now live here no more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At seventeen years many their fortunes seek, But at fourscore it is too late a week."*

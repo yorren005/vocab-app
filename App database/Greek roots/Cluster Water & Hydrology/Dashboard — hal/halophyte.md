@@ -5,13 +5,6 @@ status: unread
 ---
 # halophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophyte designates a plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophyte designates a plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte."*

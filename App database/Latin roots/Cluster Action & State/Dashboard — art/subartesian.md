@@ -5,13 +5,6 @@ status: unread
 ---
 # subartesian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subartesian designates (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subartesian designates (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well."*

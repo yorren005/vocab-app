@@ -5,15 +5,6 @@ status: unread
 ---
 # vacate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave (a job, post, or position) voluntarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave behind empty; move out of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Adèle and I had now to vacate the library: it would be in daily requisition as a reception-room for callers."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood claimed, the court would have to vacate the injunction and Uncle Henry could risk going ahead and cutting and hauling timber from the tract."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For it seems a natural corollary from such a rule that the king was bound to vacate the throne on the death of his wife, the queen, since he occupied it only by virtue of his marriage with her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave (a job, post, or position) voluntarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave behind empty; move out of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Adèle and I had now to vacate the library: it would be in daily requisition as a reception-room for callers."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood claimed, the court would have to vacate the injunction and Uncle Henry could risk going ahead and cutting and hauling timber from the tract."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For it seems a natural corollary from such a rule that the king was bound to vacate the throne on the death of his wife, the queen, since he occupied it only by virtue of his marriage with her."*

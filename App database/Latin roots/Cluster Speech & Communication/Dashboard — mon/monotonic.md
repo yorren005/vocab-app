@@ -5,13 +5,6 @@ status: unread
 ---
 # monotonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sounded or spoken in a tone unvarying in pitch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotonic designates of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sounded or spoken in a tone unvarying in pitch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotonic designates of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value."*

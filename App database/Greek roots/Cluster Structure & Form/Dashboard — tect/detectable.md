@@ -5,15 +5,6 @@ status: unread
 ---
 # detectable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being detected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily seen or detected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The quantity needs to be multiplied threefold before the quantity of gold becomes even detectable, to say nothing of being recoverable."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It is detectable in every utterance of theirs when they are talking about us."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"At ten feet from each other, they give out easily detectable X-rays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being detected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily seen or detected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The quantity needs to be multiplied threefold before the quantity of gold becomes even detectable, to say nothing of being recoverable."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It is detectable in every utterance of theirs when they are talking about us."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"At ten feet from each other, they give out easily detectable X-rays."*

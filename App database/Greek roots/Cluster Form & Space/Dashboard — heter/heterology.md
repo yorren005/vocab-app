@@ -5,13 +5,6 @@ status: unread
 ---
 # heterology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the lack of correspondence of apparently similar body parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the lack of correspondence of apparently similar body parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterology designates (biology) the lack of correspondence of apparently similar body parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the lack of correspondence of apparently similar body parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the lack of correspondence of apparently similar body parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterology designates (biology) the lack of correspondence of apparently similar body parts."*

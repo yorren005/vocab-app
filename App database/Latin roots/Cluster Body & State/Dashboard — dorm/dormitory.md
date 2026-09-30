@@ -5,15 +5,6 @@ status: unread
 ---
 # dormitory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A college or university building containing living quarters for students.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sleeping room containing several beds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When I awoke it was day: an unusual movement roused me; I looked up; I was in somebody’s arms; the nurse held me; she was carrying me through the passage back to the dormitory."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You may retire to your dormitory.” “It's only seven o'clock, father,” said Ben, in dismay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A college or university building containing living quarters for students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sleeping room containing several beds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When I awoke it was day: an unusual movement roused me; I looked up; I was in somebody’s arms; the nurse held me; she was carrying me through the passage back to the dormitory."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You may retire to your dormitory.” “It's only seven o'clock, father,” said Ben, in dismay."*

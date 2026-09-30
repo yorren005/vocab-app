@@ -5,15 +5,6 @@ status: unread
 ---
 # floret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diminutive flower (especially one that is part of a composite flower).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diminutive flower (especially one that is part of a composite flower).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FLORET SMUT; produced within the florets; spores minute, purplish-brown.—On the florets of _Scabiosa arvensis_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Floret removed, sprinkled with spores of the smut, enlarged. 〃 94."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of Scabious with Floret smut (_Ustilago flosculorum_). 〃 124."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diminutive flower (especially one that is part of a composite flower).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diminutive flower (especially one that is part of a composite flower).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FLORET SMUT; produced within the florets; spores minute, purplish-brown.—On the florets of _Scabiosa arvensis_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Floret removed, sprinkled with spores of the smut, enlarged. 〃 94."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of Scabious with Floret smut (_Ustilago flosculorum_). 〃 124."*

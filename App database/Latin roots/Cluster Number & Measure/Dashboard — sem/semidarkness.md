@@ -5,15 +5,6 @@ status: unread
 ---
 # semidarkness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial darkness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial darkness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, a new happiness was revealed to me of which man cannot be deprived,” he thought as he lay in the semidarkness of the quiet hut, gazing fixedly before him with feverish wide open eyes."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Natásha lay on the bed and in the semidarkness of the room scanned Princess Mary’s face."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I--” He broke off suddenly, gave a hasty look around and bolted off the end of the porch into the semidarkness of the lawn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial darkness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, a new happiness was revealed to me of which man cannot be deprived,” he thought as he lay in the semidarkness of the quiet hut, gazing fixedly before him with feverish wide open eyes."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Natásha lay on the bed and in the semidarkness of the room scanned Princess Mary’s face."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I--” He broke off suddenly, gave a hasty look around and bolted off the end of the porch into the semidarkness of the lawn."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # diuretic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to increase the excretion of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to increase the excretion of urine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I had, the evening before, drunk plentifully of a most delicious wine called _glimigrim_, (the Blefuscudians call it _flunec_, but ours is esteemed the better sort,) which is very diuretic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to increase the excretion of urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to increase the excretion of urine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I had, the evening before, drunk plentifully of a most delicious wine called _glimigrim_, (the Blefuscudians call it _flunec_, but ours is esteemed the better sort,) which is very diuretic."*

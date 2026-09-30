@@ -5,13 +5,6 @@ status: unread
 ---
 # hygrophoraceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrophoraceae designates a family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrophoraceae designates a family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance."*

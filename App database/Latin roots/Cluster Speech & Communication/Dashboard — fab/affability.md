@@ -5,15 +5,6 @@ status: unread
 ---
 # affability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek none, conspiracy; Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell confirms all this, not without personal pride, reserving only the one point of affability."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship is very affable.” “You can sit down.” There is not much affability in her tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek none, conspiracy; Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell confirms all this, not without personal pride, reserving only the one point of affability."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship is very affable.” “You can sit down.” There is not much affability in her tone."*

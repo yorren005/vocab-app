@@ -5,15 +5,6 @@ status: unread
 ---
 # spectacled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All tongues speak of him, and the bleared sights Are spectacled to see him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce?” The old man had come by little and little into the room until he now touched my guardian with his elbow and looked close up into his face with his spectacled eyes."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had refused to give up the smallest scrap out of that package, and I took the same attitude with the spectacled man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All tongues speak of him, and the bleared sights Are spectacled to see him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce?” The old man had come by little and little into the room until he now touched my guardian with his elbow and looked close up into his face with his spectacled eyes."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had refused to give up the smallest scrap out of that package, and I took the same attitude with the spectacled man."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # obstacle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something immaterial that stands in the way and must be circumvented or surmounted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstruction that stands in the way (and must be removed or surmounted or circumvented).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, Joan, that thou wilt be so obstacle!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now the little company could wander upstairs to their respective rooms without further obstacle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something immaterial that stands in the way and must be circumvented or surmounted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstruction that stands in the way (and must be removed or surmounted or circumvented).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, Joan, that thou wilt be so obstacle!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now the little company could wander upstairs to their respective rooms without further obstacle."*

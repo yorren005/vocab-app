@@ -5,15 +5,6 @@ status: unread
 ---
 # dissent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the difference of one judge's opinion from that of the majority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difference of opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s two young men in a gig, ma’am, who want to see the house—yes, and if you please, I told them so!” in quick reply to a gesture of dissent from the housekeeper."*
-> - 📜 **Jane Austen (*Persuasion*):** *"We do not call Bermuda or Bahama, you know, the West Indies.” Mrs Musgrove had not a word to say in dissent; she could not accuse herself of having ever called them anything in the whole course of her life."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you understand?” I shook my head: it required a degree of courage, excited as he was becoming, even to risk that mute sign of dissent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the difference of one judge's opinion from that of the majority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difference of opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’s two young men in a gig, ma’am, who want to see the house—yes, and if you please, I told them so!” in quick reply to a gesture of dissent from the housekeeper."*
+> - 📜 **Jane Austen (*Persuasion*):** *"We do not call Bermuda or Bahama, you know, the West Indies.” Mrs Musgrove had not a word to say in dissent; she could not accuse herself of having ever called them anything in the whole course of her life."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you understand?” I shook my head: it required a degree of courage, excited as he was becoming, even to risk that mute sign of dissent."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parlay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of wagers in which the winnings from one wager are used as a stake for the subsequent wagers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stake winnings from one bet on a subsequent wager.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, the less you PARLAY, the better, you know.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I ref-use his money all togezzer.” “If you WILL PARLAY, you know,” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ha!” “Come, come, why this is worse PARLAYING than the other,” says Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of wagers in which the winnings from one wager are used as a stake for the subsequent wagers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stake winnings from one bet on a subsequent wager.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In short, the less you PARLAY, the better, you know.” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I ref-use his money all togezzer.” “If you WILL PARLAY, you know,” says Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ha!” “Come, come, why this is worse PARLAYING than the other,” says Mr."*

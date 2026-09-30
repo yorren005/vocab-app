@@ -5,15 +5,6 @@ status: unread
 ---
 # rusted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become destroyed by water, air, or a corrosive such as an acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to deteriorate due to the action of water, air, or an acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear no knife to slaughter sleeping men, But here’s a vengeful sword, rusted with ease, That shall be scoured in his rancorous heart That slanders me with murder’s crimson badge."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The trenches' mud, and trusted word, Or tainted blood, and rusted sword?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Also, the men persist that they found the print of a naked human foot in the soft mud of the ditch, and near it—this.” And he held up what seemed a broken link of a rusted iron chain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become destroyed by water, air, or a corrosive such as an acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to deteriorate due to the action of water, air, or an acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear no knife to slaughter sleeping men, But here’s a vengeful sword, rusted with ease, That shall be scoured in his rancorous heart That slanders me with murder’s crimson badge."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The trenches' mud, and trusted word, Or tainted blood, and rusted sword?"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Also, the men persist that they found the print of a naked human foot in the soft mud of the ditch, and near it—this.” And he held up what seemed a broken link of a rusted iron chain."*

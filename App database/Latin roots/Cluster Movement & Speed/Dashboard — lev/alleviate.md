@@ -5,15 +5,6 @@ status: unread
 ---
 # alleviate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide physical relief, as from pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make easier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that if we knew more of such strange afflictions we might be the better able to alleviate their intensity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was not, I was told, in the hospital portion of the house with the fever patients; for her complaint was consumption, not typhus: and by consumption I, in my ignorance, understood something mild, which time and care would be sure to alleviate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I replied, that nothing ailed me save anxiety of mind, which I hoped soon to alleviate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide physical relief, as from pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make easier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that if we knew more of such strange afflictions we might be the better able to alleviate their intensity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was not, I was told, in the hospital portion of the house with the fever patients; for her complaint was consumption, not typhus: and by consumption I, in my ignorance, understood something mild, which time and care would be sure to alleviate."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I replied, that nothing ailed me save anxiety of mind, which I hoped soon to alleviate."*

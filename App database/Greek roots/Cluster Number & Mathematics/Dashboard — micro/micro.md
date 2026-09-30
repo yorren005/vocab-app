@@ -5,15 +5,6 @@ status: unread
 ---
 # micro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely small in scale or scope or capability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely small in scale or scope or capability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As you may recall from your school days, it wasn't easy hauling micro-spunnel terminals around the Belt and ramming rocks into the hoppers for transfer to meltdown and refining above Venus."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The buggy was a single-seater, tiny, barely ten meters bow to stern, but the way she whipped around us, it was plain to my duty officer that she was charged by a micro deep space drive."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She can break down entire systems, and repair and reassemble them, blindfolded, from micro-miniatures to the big stuff."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely small in scale or scope or capability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely small in scale or scope or capability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As you may recall from your school days, it wasn't easy hauling micro-spunnel terminals around the Belt and ramming rocks into the hoppers for transfer to meltdown and refining above Venus."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The buggy was a single-seater, tiny, barely ten meters bow to stern, but the way she whipped around us, it was plain to my duty officer that she was charged by a micro deep space drive."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She can break down entire systems, and repair and reassemble them, blindfolded, from micro-miniatures to the big stuff."*

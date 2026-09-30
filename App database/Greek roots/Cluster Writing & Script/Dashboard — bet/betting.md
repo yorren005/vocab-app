@@ -5,15 +5,6 @@ status: unread
 ---
 # betting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintain with or as if with a bet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stake on the outcome of an issue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll pay me the eight shillings I won of you at betting?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall have my eight shillings I won from you at betting?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Betting and gambling do not produce wealth, but merely shift the ownership of existing wealth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintain with or as if with a bet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stake on the outcome of an issue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll pay me the eight shillings I won of you at betting?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall have my eight shillings I won from you at betting?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Betting and gambling do not produce wealth, but merely shift the ownership of existing wealth."*

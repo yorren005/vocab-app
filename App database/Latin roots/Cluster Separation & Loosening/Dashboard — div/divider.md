@@ -5,14 +5,6 @@ status: unread
 ---
 # divider
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomist who classifies organisms into many groups on the basis of relatively minor characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who separates something into parts or groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"His majesty laughing, said, Faith, you are no equal divider."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The furnace top consists of cast-iron corner-posts and dividers, the walls and ends laid up with brickwork, surmounted by a tubular top of the Shelby type from which the gas off-takes lead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomist who classifies organisms into many groups on the basis of relatively minor characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who separates something into parts or groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"His majesty laughing, said, Faith, you are no equal divider."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The furnace top consists of cast-iron corner-posts and dividers, the walls and ends laid up with brickwork, surmounted by a tubular top of the Shelby type from which the gas off-takes lead."*

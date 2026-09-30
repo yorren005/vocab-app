@@ -5,15 +5,6 @@ status: unread
 ---
 # fancied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a fancy or particular liking or desire for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could have fancied that all the rusty keys, of which there must have been hundreds huddled together as old iron, had once belonged to doors of rooms or strong chests in lawyers’ offices."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought him only awkward and shy, for he was evidently much embarrassed; and I fancied that the best thing I could do would be to wait until I saw that he had everything he wanted and then to leave him to himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I fancied she was dreaming of him when I kissed her cheek after she had slept an hour and saw how tranquil and happy she looked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a fancy or particular liking or desire for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I could have fancied that all the rusty keys, of which there must have been hundreds huddled together as old iron, had once belonged to doors of rooms or strong chests in lawyers’ offices."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I thought him only awkward and shy, for he was evidently much embarrassed; and I fancied that the best thing I could do would be to wait until I saw that he had everything he wanted and then to leave him to himself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I fancied she was dreaming of him when I kissed her cheek after she had slept an hour and saw how tranquil and happy she looked."*

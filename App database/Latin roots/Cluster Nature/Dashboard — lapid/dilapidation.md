@@ -5,15 +5,6 @@ status: unread
 ---
 # dilapidation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deterioration due to old age or long use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of becoming dilapidated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was in a state of dilapidation quite equal to our expectation."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The ivy inserting itself into every joint, and hanging in graceful festoons, seems more like artificial garlands woven in honour of a fête day, than as the sure emblem and evidence of dilapidation and decay."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"This tower, and the whole range of apartments connected with it, are in a state of complete dilapidation; and were it not for the wooden scaffolding that secures and facilitates the visitor’s progress, a tour of the ramparts would be impracticable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deterioration due to old age or long use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of becoming dilapidated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was in a state of dilapidation quite equal to our expectation."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The ivy inserting itself into every joint, and hanging in graceful festoons, seems more like artificial garlands woven in honour of a fête day, than as the sure emblem and evidence of dilapidation and decay."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"This tower, and the whole range of apartments connected with it, are in a state of complete dilapidation; and were it not for the wooden scaffolding that secures and facilitates the visitor’s progress, a tour of the ramparts would be impracticable."*

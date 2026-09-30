@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthomonas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthomonas designates a genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthomonas designates a genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water."*

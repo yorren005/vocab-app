@@ -5,13 +5,6 @@ status: unread
 ---
 # valent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) having valence; usually used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) having valence; usually used in combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valent._ 20, who suggests that the Valentinians had "nut-trees in the sky"--it is a book in which he allows himself a good deal of gaiety and free quotation. [57] i, 28. [58] M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) having valence; usually used in combination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) having valence; usually used in combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valent._ 20, who suggests that the Valentinians had "nut-trees in the sky"--it is a book in which he allows himself a good deal of gaiety and free quotation. [57] i, 28. [58] M."*

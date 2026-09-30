@@ -5,13 +5,6 @@ status: unread
 ---
 # spheroidal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature or shape of an ellipsoid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature or shape of an ellipsoid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"From this period a membrane begins to be formed about the gonosphere, which thenceforth maintains a regular spheroidal form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature or shape of an ellipsoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature or shape of an ellipsoid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"From this period a membrane begins to be formed about the gonosphere, which thenceforth maintains a regular spheroidal form."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tribulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppress or trouble greatly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppress or trouble greatly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribulate designates oppress or trouble greatly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppress or trouble greatly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppress or trouble greatly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribulate designates oppress or trouble greatly."*

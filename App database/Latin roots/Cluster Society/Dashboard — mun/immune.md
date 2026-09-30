@@ -5,15 +5,6 @@ status: unread
 ---
 # immune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is immune to a particular infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the condition of immunity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"She was the cannibal of the seas, and scarce needed that watchful eye, for she floated immune in the horror of her name."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He holds that it was nature's contribution to render us immune from the yellow fever germs so abundant in swampy regions."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He thinks that these beneficial modifications were preserved and transmitted with increasing strength from generation to generation until our hue and our hair or the physical attributes for which they stand rendered us immune from yellow fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is immune to a particular infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the condition of immunity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"She was the cannibal of the seas, and scarce needed that watchful eye, for she floated immune in the horror of her name."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He holds that it was nature's contribution to render us immune from the yellow fever germs so abundant in swampy regions."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He thinks that these beneficial modifications were preserved and transmitted with increasing strength from generation to generation until our hue and our hair or the physical attributes for which they stand rendered us immune from yellow fever."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # halitus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhaled breath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhaled breath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"The place, by the bye, was very stuffy and oppressive, and the faint halitus of freshly-shed blood was in the air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhaled breath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhaled breath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The place, by the bye, was very stuffy and oppressive, and the faint halitus of freshly-shed blood was in the air."*

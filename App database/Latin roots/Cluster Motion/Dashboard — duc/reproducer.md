@@ -5,13 +5,6 @@ status: unread
 ---
 # reproducer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An audio system that can reproduce and amplify signals to produce sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An audio system that can reproduce and amplify signals to produce sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Singers and seers, musicians and reporters, and reproducers of every degree, who have something to tell us or to show us of the ‘world as God has made it, where all is beauty’, we have need of all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An audio system that can reproduce and amplify signals to produce sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An audio system that can reproduce and amplify signals to produce sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Singers and seers, musicians and reporters, and reproducers of every degree, who have something to tell us or to show us of the ‘world as God has made it, where all is beauty’, we have need of all."*

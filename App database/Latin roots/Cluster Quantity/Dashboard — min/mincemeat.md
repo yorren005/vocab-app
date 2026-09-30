@@ -5,15 +5,6 @@ status: unread
 ---
 # mincemeat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiced mixture of chopped raisins and apples and other ingredients with or without meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiced mixture of chopped raisins and apples and other ingredients with or without meat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Cut out the heart, or, better, fling the flesh-remnant into a machine of a thousand blades and make mincemeat of it—and I, _I_, don’t you understand, all the spirit and the mystery and the vital fire and life of me, am off and away."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He was already handing mincemeat down his throat in the most curious manner,—more like a man who was putting it away somewhere in a violent hurry, than a man who was eating it,—but he left off to take some of the liquor."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll beat the shivers so far, I’ll bet you.” He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all at once: staring distrustfully while he did so at the mist all round us, and often stopping—even stopping his jaws—to listen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiced mixture of chopped raisins and apples and other ingredients with or without meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiced mixture of chopped raisins and apples and other ingredients with or without meat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Cut out the heart, or, better, fling the flesh-remnant into a machine of a thousand blades and make mincemeat of it—and I, _I_, don’t you understand, all the spirit and the mystery and the vital fire and life of me, am off and away."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He was already handing mincemeat down his throat in the most curious manner,—more like a man who was putting it away somewhere in a violent hurry, than a man who was eating it,—but he left off to take some of the liquor."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll beat the shivers so far, I’ll bet you.” He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all at once: staring distrustfully while he did so at the mist all round us, and often stopping—even stopping his jaws—to listen."*

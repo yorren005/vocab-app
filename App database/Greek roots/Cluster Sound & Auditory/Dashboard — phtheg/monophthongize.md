@@ -5,13 +5,6 @@ status: unread
 ---
 # monophthongize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthongize designates to change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthongize designates to change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound."*

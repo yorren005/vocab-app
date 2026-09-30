@@ -5,15 +5,6 @@ status: unread
 ---
 # inaptitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of aptitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of aptitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is grown up—he is at least as old as I am—but in simplicity, and freshness, and enthusiasm, and a fine guileless inaptitude for all worldly affairs, he is a perfect child.” We felt that he must be very interesting."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A brown sunburnt gentleman, who appears in some inaptitude for sleep to be wandering abroad rather than counting the hours on a restless pillow, strolls hitherward at this quiet time."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The mistress of the house, meanwhile, as is usual with persons of her stiff and unmalleable cast, stood mostly aside; willing to lend her aid, yet conscious that her natural inaptitude would be likely to impede the business in hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of aptitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of aptitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is grown up—he is at least as old as I am—but in simplicity, and freshness, and enthusiasm, and a fine guileless inaptitude for all worldly affairs, he is a perfect child.” We felt that he must be very interesting."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A brown sunburnt gentleman, who appears in some inaptitude for sleep to be wandering abroad rather than counting the hours on a restless pillow, strolls hitherward at this quiet time."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The mistress of the house, meanwhile, as is usual with persons of her stiff and unmalleable cast, stood mostly aside; willing to lend her aid, yet conscious that her natural inaptitude would be likely to impede the business in hand."*

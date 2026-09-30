@@ -5,13 +5,6 @@ status: unread
 ---
 # albuginaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi that produce white sori resembling blisters on certain flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that produce white sori resembling blisters on certain flowering plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuginaceae designates fungi that produce white sori resembling blisters on certain flowering plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi that produce white sori resembling blisters on certain flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that produce white sori resembling blisters on certain flowering plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuginaceae designates fungi that produce white sori resembling blisters on certain flowering plants."*

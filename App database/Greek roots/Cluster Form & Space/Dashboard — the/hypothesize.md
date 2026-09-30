@@ -5,14 +5,6 @@ status: unread
 ---
 # hypothesize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still, we can hypothesize, even if we cannot prove and establish."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still, we can hypothesize, even if we cannot prove and establish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still, we can hypothesize, even if we cannot prove and establish."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still, we can hypothesize, even if we cannot prove and establish."*

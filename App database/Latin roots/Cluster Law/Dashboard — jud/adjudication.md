@@ -5,13 +5,6 @@ status: unread
 ---
 # adjudication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This might as well happen in the case of two contradictory statutes; or it might as well happen in every adjudication upon any single statute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This might as well happen in the case of two contradictory statutes; or it might as well happen in every adjudication upon any single statute."*

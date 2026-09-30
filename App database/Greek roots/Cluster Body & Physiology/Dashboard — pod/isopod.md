@@ -5,13 +5,6 @@ status: unread
 ---
 # isopod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopod designates any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopod designates any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling."*

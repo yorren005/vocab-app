@@ -5,15 +5,6 @@ status: unread
 ---
 # actuated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I assure your ladyship I am not actuated by any motives of that sort,” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother, though highly exasperating to the feelings, is actuated by maternal dictates.” I could hardly have believed that anybody could in a moment have turned so red or changed so much as Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He had inquired after her, she found, slightly, as might suit a former slight acquaintance, seeming to acknowledge such as she had acknowledged, actuated, perhaps, by the same view of escaping introduction when they were to meet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I assure your ladyship I am not actuated by any motives of that sort,” says Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My mother, though highly exasperating to the feelings, is actuated by maternal dictates.” I could hardly have believed that anybody could in a moment have turned so red or changed so much as Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He had inquired after her, she found, slightly, as might suit a former slight acquaintance, seeming to acknowledge such as she had acknowledged, actuated, perhaps, by the same view of escaping introduction when they were to meet."*

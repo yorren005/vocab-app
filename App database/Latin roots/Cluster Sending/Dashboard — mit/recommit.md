@@ -5,13 +5,6 @@ status: unread
 ---
 # recommit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit once again, as of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recommit designates commit once again, as of a crime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit once again, as of a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recommit designates commit once again, as of a crime."*

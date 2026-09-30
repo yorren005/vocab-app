@@ -5,14 +5,6 @@ status: unread
 ---
 # primo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal part of a duet (especially a piano duet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The best of its kind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. _Primo, secundo, tertio_, is a good play, and the old saying is, the third pays for all; the triplex, sir, is a good tripping measure; or the bells of Saint Bennet, sir, may put you in mind—one, two, three."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Willelmo <g>Marescallo</g> primo, et sic factus est Comes totius Pembrochiæ, et dominus totius hæreditatis.--_Will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal part of a duet (especially a piano duet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The best of its kind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. _Primo, secundo, tertio_, is a good play, and the old saying is, the third pays for all; the triplex, sir, is a good tripping measure; or the bells of Saint Bennet, sir, may put you in mind—one, two, three."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Willelmo <g>Marescallo</g> primo, et sic factus est Comes totius Pembrochiæ, et dominus totius hæreditatis.--_Will."*

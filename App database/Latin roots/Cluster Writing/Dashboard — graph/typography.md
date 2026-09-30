@@ -5,15 +5,6 @@ status: unread
 ---
 # typography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of composing type and printing from it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Art and technique of printing with movable type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Junius does not say it, but clearly implies that, in this way, Coster came to the idea of the movability of the characters, the first step in the invention of typography."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Granting that all the earlier works of typography preserved to us are impressions of cast-metal type, there are still differences of opinion, especially among practical printers and type-founders, as to the probable methods employed to cast them."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of composing type and printing from it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Art and technique of printing with movable type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Junius does not say it, but clearly implies that, in this way, Coster came to the idea of the movability of the characters, the first step in the invention of typography."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Granting that all the earlier works of typography preserved to us are impressions of cast-metal type, there are still differences of opinion, especially among practical printers and type-founders, as to the probable methods employed to cast them."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # paternally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a paternal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a paternal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, paternally encircling Caddy with his left arm as she sat beside him, and putting his right hand gracefully on his hip."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Marquis of Steyne was present, paternally superintending the progress of his pupil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a paternal manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a paternal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, paternally encircling Caddy with his left arm as she sat beside him, and putting his right hand gracefully on his hip."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Marquis of Steyne was present, paternally superintending the progress of his pupil."*

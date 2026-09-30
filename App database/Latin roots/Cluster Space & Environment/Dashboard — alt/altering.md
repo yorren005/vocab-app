@@ -5,15 +5,6 @@ status: unread
 ---
 # altering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sterilization of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change; make different; cause a transformation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle, altering the construction of his sentence."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These he carefully transcribed, altering them where he thought this necessary, and not always, in the opinion of many, improving them in the process."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In place of building roofs and hunting meat, they are ever building doctrine.” “And altering the nature of God,” Pilate corroborated sourly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sterilization of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change; make different; cause a transformation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle, altering the construction of his sentence."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These he carefully transcribed, altering them where he thought this necessary, and not always, in the opinion of many, improving them in the process."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In place of building roofs and hunting meat, they are ever building doctrine.” “And altering the nature of God,” Pilate corroborated sourly."*

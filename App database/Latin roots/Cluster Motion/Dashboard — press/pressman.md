@@ -5,15 +5,6 @@ status: unread
 ---
 # pressman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation is printing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist employed to provide news stories for newspapers or broadcast media.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Gallaher, that was a pressman for you."*
-> - 📜 **James Joyce (*Ulysses*):** *"Come across yourself. —Where do you find a pressman like that now, eh? the editor cried."*
-> - 📜 **James Joyce (*Ulysses*):** *"We are considerably out of pocket over this bally pressman johnny, this jackdaw of Rheims, who has not even been to a university."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation is printing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist employed to provide news stories for newspapers or broadcast media.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Gallaher, that was a pressman for you."*
+> - 📜 **James Joyce (*Ulysses*):** *"Come across yourself. —Where do you find a pressman like that now, eh? the editor cried."*
+> - 📜 **James Joyce (*Ulysses*):** *"We are considerably out of pocket over this bally pressman johnny, this jackdaw of Rheims, who has not even been to a university."*

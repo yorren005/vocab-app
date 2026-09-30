@@ -5,15 +5,6 @@ status: unread
 ---
 # Polynesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands of the central and southern Pacific including Hawaii, the Line, Phoenix, Tonga, Cook, and Samoa islands, Tuvalu, Easter Island, and French Polynesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Islands in the South Pacific belonging to France and including the Society, Marquesas, Tuamotu, Gambier, and Austral groups; capital Papeete (on Tahiti).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On this board thirsty strangers deposited their cups as they stood in the road and drank, and threw the dregs on the dusty ground to the pattern of Polynesia, and wished they could have a restful seat inside."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The uncounted isles of all Polynesia confess the same truth, and do commercial homage to the whale-ship, that cleared the way for the missionary and the merchant, and in many cases carried the primitive missionaries to their first destinations."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The fact is, that there is a vast deal of unintentional humbuggery in some of the accounts we have from scientific men concerning the religious institutions of Polynesia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands of the central and southern Pacific including Hawaii, the Line, Phoenix, Tonga, Cook, and Samoa islands, Tuvalu, Easter Island, and French Polynesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Islands in the South Pacific belonging to France and including the Society, Marquesas, Tuamotu, Gambier, and Austral groups; capital Papeete (on Tahiti).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On this board thirsty strangers deposited their cups as they stood in the road and drank, and threw the dregs on the dusty ground to the pattern of Polynesia, and wished they could have a restful seat inside."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The uncounted isles of all Polynesia confess the same truth, and do commercial homage to the whale-ship, that cleared the way for the missionary and the merchant, and in many cases carried the primitive missionaries to their first destinations."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The fact is, that there is a vast deal of unintentional humbuggery in some of the accounts we have from scientific men concerning the religious institutions of Polynesia."*

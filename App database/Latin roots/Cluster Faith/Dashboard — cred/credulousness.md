@@ -5,13 +5,6 @@ status: unread
 ---
 # credulousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to believe too readily and therefore to be easily deceived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to believe too readily and therefore to be easily deceived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credulousness designates tendency to believe too readily and therefore to be easily deceived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to believe too readily and therefore to be easily deceived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to believe too readily and therefore to be easily deceived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credulousness designates tendency to believe too readily and therefore to be easily deceived."*

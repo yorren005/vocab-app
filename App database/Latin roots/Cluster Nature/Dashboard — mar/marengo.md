@@ -5,14 +5,6 @@ status: unread
 ---
 # marengo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A battle in 1800 in which the french under napoleon bonaparte won a great victory over the austrians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle in 1800 in which the french under napoleon bonaparte won a great victory over the austrians.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"So it had been at Lodi, Marengo, Arcola, Jena, Austerlitz, Wagram, and so on."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Soldiers!" it said, "this is the anniversary of Marengo and Friedland, by which the destinies of Europe were twice decided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A battle in 1800 in which the french under napoleon bonaparte won a great victory over the austrians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle in 1800 in which the french under napoleon bonaparte won a great victory over the austrians.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"So it had been at Lodi, Marengo, Arcola, Jena, Austerlitz, Wagram, and so on."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Soldiers!" it said, "this is the anniversary of Marengo and Friedland, by which the destinies of Europe were twice decided."*

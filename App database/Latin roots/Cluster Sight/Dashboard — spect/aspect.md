@@ -5,15 +5,6 @@ status: unread
 ---
 # aspect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct feature or element in a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic to be considered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And great Pompey Would stand and make his eyes grow in my brow; There would he anchor his aspect, and die With looking on his life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, upon her nose, all o’er-embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadoes of carracks to be ballast at her nose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct feature or element in a problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic to be considered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And great Pompey Would stand and make his eyes grow in my brow; There would he anchor his aspect, and die With looking on his life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, upon her nose, all o’er-embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadoes of carracks to be ballast at her nose."*

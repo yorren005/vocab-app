@@ -5,15 +5,6 @@ status: unread
 ---
 # granulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into grains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become granular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They do not, however, make it in a granulated form, but bake it into cakes, covering them with a frame of woven leaves, this being the handiest form for carrying it about with them in their canoes."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The differential in sugar is the difference between the cost of the raw sugar and the refined granulated sugar."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are small (fig. 107), not being more than one-fourth the length of the last species, and smooth, whilst those are minutely granulated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become granular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They do not, however, make it in a granulated form, but bake it into cakes, covering them with a frame of woven leaves, this being the handiest form for carrying it about with them in their canoes."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The differential in sugar is the difference between the cost of the raw sugar and the refined granulated sugar."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are small (fig. 107), not being more than one-fourth the length of the last species, and smooth, whilst those are minutely granulated."*

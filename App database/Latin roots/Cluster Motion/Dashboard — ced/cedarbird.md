@@ -5,13 +5,6 @@ status: unread
 ---
 # cedarbird
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed over temperate north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed over temperate north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedarbird designates widely distributed over temperate north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed over temperate north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed over temperate north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedarbird designates widely distributed over temperate north america."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # animalcule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic organism such as an amoeba or paramecium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic organism such as an amoeba or paramecium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The animalcule that the marine polypus secretes live by millions at the bottom of their cells."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here am I with nothing but my pipe and pond-animalcules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic organism such as an amoeba or paramecium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic organism such as an amoeba or paramecium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The animalcule that the marine polypus secretes live by millions at the bottom of their cells."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Here am I with nothing but my pipe and pond-animalcules."*

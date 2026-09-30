@@ -5,13 +5,6 @@ status: unread
 ---
 # minoxidil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minoxidil designates a vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minoxidil designates a vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness."*

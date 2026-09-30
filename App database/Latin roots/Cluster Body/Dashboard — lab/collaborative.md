@@ -5,13 +5,6 @@ status: unread
 ---
 # collaborative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplished by collaboration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accomplished by collaboration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborative designates accomplished by collaboration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplished by collaboration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accomplished by collaboration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborative designates accomplished by collaboration."*

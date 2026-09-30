@@ -5,13 +5,6 @@ status: unread
 ---
 # thanatology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The description or study of the phenomena of death and of psychological mechanisms for coping with them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The description or study of the phenomena of death and of psychological mechanisms for coping with them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatology designates the description or study of the phenomena of death and of psychological mechanisms for coping with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The description or study of the phenomena of death and of psychological mechanisms for coping with them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The description or study of the phenomena of death and of psychological mechanisms for coping with them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatology designates the description or study of the phenomena of death and of psychological mechanisms for coping with them."*

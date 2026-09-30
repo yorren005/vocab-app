@@ -5,13 +5,6 @@ status: unread
 ---
 # cupressaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cypresses and junipers and many cedars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cypresses and junipers and many cedars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupressaceae designates cypresses and junipers and many cedars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cypresses and junipers and many cedars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cypresses and junipers and many cedars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupressaceae designates cypresses and junipers and many cedars."*

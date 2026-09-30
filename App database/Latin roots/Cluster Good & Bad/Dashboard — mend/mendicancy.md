@@ -5,14 +5,6 @@ status: unread
 ---
 # mendicancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a beggar or mendicant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solicitation for money or food (especially in the street by an apparently penniless person).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Tuberculosis, lunacy, war and mendicancy must now cease."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"At last a particularly severe winter fell upon the country, and hundreds of them were reduced to mendicancy and were to be seen day after day in the bitterest weather, standing barefoot in the snow, holding out their crowns for alms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a beggar or mendicant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solicitation for money or food (especially in the street by an apparently penniless person).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Tuberculosis, lunacy, war and mendicancy must now cease."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"At last a particularly severe winter fell upon the country, and hundreds of them were reduced to mendicancy and were to be seen day after day in the bitterest weather, standing barefoot in the snow, holding out their crowns for alms."*

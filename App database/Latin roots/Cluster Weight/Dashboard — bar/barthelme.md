@@ -5,13 +5,6 @@ status: unread
 ---
 # barthelme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states author of sometimes surrealistic stories (1931-1989).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author of sometimes surrealistic stories (1931-1989).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barthelme designates united states author of sometimes surrealistic stories (1931-1989)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states author of sometimes surrealistic stories (1931-1989).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author of sometimes surrealistic stories (1931-1989).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barthelme designates united states author of sometimes surrealistic stories (1931-1989)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # paroxysm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fit, attack, or sudden increase or recurrence of symptoms (as of a disease) : convulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden violent emotion or action : outburst.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt fell into a state of coma, arising either from sleep or a rheumatic paroxysm."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I’m so frightened!” feigned to be in a paroxysm of terror and contrition, occasioned by the dignity of my appearance."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble; the last-named in a decent speechless paroxysm in a corner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fit, attack, or sudden increase or recurrence of symptoms (as of a disease) : convulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden violent emotion or action : outburst.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt fell into a state of coma, arising either from sleep or a rheumatic paroxysm."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I’m so frightened!” feigned to be in a paroxysm of terror and contrition, occasioned by the dignity of my appearance."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble; the last-named in a decent speechless paroxysm in a corner."*

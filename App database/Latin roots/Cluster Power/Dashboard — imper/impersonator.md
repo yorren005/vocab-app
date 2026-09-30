@@ -5,15 +5,6 @@ status: unread
 ---
 # impersonator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who (fraudulently) assumes the appearance of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who (fraudulently) assumes the appearance of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even then Boldwood did not recognize that the impersonator of Heaven’s persistent irony towards him, who had once before broken in upon his bliss, scourged him, and snatched his delight away, had come to do these things a second time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even then Boldwood did not recognize that the impersonator of Heaven’s persistent irony towards him, who had once before broken in upon his bliss, scourged him, and snatched his delight away, had come to do these things a second time."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Her hands and features working.)_ It was Gerald converted me to be a true corsetlover when I was female impersonator in the High School play _Vice Versa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who (fraudulently) assumes the appearance of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who (fraudulently) assumes the appearance of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even then Boldwood did not recognize that the impersonator of Heaven’s persistent irony towards him, who had once before broken in upon his bliss, scourged him, and snatched his delight away, had come to do these things a second time."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even then Boldwood did not recognize that the impersonator of Heaven’s persistent irony towards him, who had once before broken in upon his bliss, scourged him, and snatched his delight away, had come to do these things a second time."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Her hands and features working.)_ It was Gerald converted me to be a true corsetlover when I was female impersonator in the High School play _Vice Versa_."*

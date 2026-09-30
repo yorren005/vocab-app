@@ -5,13 +5,6 @@ status: unread
 ---
 # innervate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply nerves to (some organ or body part).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulate to action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innervate designates supply nerves to (some organ or body part)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply nerves to (some organ or body part).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulate to action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innervate designates supply nerves to (some organ or body part)."*

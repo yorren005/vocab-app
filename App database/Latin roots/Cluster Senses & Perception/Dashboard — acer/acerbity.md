@@ -5,15 +5,6 @@ status: unread
 ---
 # acerbity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp bitterness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp sour taste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Madame was sitting in the office, with a pen behind her ear, and her thin hair drawn up tighter, doing her husband's work with considerable acerbity."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Wine can mollify stones; then _that_ wine turns into acidity, acerbity, misanthropy, a hatred of my interrupters--(God bless 'em!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The scene closing on these charmers, and the lower slide ascending, oranges were revealed, attended by a mighty japanned sugar-box, to temper their acerbity if unripe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp bitterness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp sour taste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Madame was sitting in the office, with a pen behind her ear, and her thin hair drawn up tighter, doing her husband's work with considerable acerbity."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Wine can mollify stones; then _that_ wine turns into acidity, acerbity, misanthropy, a hatred of my interrupters--(God bless 'em!"*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The scene closing on these charmers, and the lower slide ascending, oranges were revealed, attended by a mighty japanned sugar-box, to temper their acerbity if unripe."*

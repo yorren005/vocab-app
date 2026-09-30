@@ -5,15 +5,6 @@ status: unread
 ---
 # creeps
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of cattle and sheep attributed to a dietary deficiency; characterized by anemia and softening of the bones and a slow stiff gait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of fear and revulsion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, ladies, you, whose gentle hearts do fear The smallest monstrous mouse that creeps on floor, May now, perchance, both quake and tremble here, When lion rough in wildest rage doth roar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He like a thievish dog creeps sadly thence; She like a wearied lamb lies panting there; He scowls, and hates himself for his offence; She, desperate, with her nails her flesh doth tear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of cattle and sheep attributed to a dietary deficiency; characterized by anemia and softening of the bones and a slow stiff gait.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of fear and revulsion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, ladies, you, whose gentle hearts do fear The smallest monstrous mouse that creeps on floor, May now, perchance, both quake and tremble here, When lion rough in wildest rage doth roar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He like a thievish dog creeps sadly thence; She like a wearied lamb lies panting there; He scowls, and hates himself for his offence; She, desperate, with her nails her flesh doth tear."*

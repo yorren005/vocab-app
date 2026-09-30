@@ -5,15 +5,6 @@ status: unread
 ---
 # provisional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under terms not final or fully worked out or agreed upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"My contribution to the history of the human mind consists of little more than a rough and purely provisional classification of facts gathered almost entirely from printed sources."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I suppose it was that in courtship everything is regarded as provisional and preliminary, and the smallest sample of virtue or accomplishment is taken to guarantee delightful stores which the broad leisure of marriage will reveal."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"How do we get it?" "Your entry permit is provisional; permanent party status depends on how you adjust to our rules." "This is the only place left to us," Hodak added a whine to his voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under terms not final or fully worked out or agreed upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"My contribution to the history of the human mind consists of little more than a rough and purely provisional classification of facts gathered almost entirely from printed sources."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I suppose it was that in courtship everything is regarded as provisional and preliminary, and the smallest sample of virtue or accomplishment is taken to guarantee delightful stores which the broad leisure of marriage will reveal."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"How do we get it?" "Your entry permit is provisional; permanent party status depends on how you adjust to our rules." "This is the only place left to us," Hodak added a whine to his voice."*

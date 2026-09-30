@@ -5,15 +5,6 @@ status: unread
 ---
 # definiteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being predictable with great confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being predictable with great confidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such impressions as these moved her vaguely, and without strict definiteness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But try as I would with my bright bit of straw in the oozement of light into solitary, I failed to achieve any such definiteness of previous personality."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the discussion of industrial monopoly, the problem now before us, there is a good deal of vagueness and misunderstanding because of lack of definiteness in the use of words which have rapidly shifted in meaning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being predictable with great confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being predictable with great confidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such impressions as these moved her vaguely, and without strict definiteness."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But try as I would with my bright bit of straw in the oozement of light into solitary, I failed to achieve any such definiteness of previous personality."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the discussion of industrial monopoly, the problem now before us, there is a good deal of vagueness and misunderstanding because of lack of definiteness in the use of words which have rapidly shifted in meaning."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # merlot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Black wine grape originally from the region of bordeaux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry red wine made from a grape grown widely in bordeaux and california.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merlot designates black wine grape originally from the region of bordeaux."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Black wine grape originally from the region of bordeaux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry red wine made from a grape grown widely in bordeaux and california.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merlot designates black wine grape originally from the region of bordeaux."*

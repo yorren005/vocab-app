@@ -5,13 +5,6 @@ status: unread
 ---
 # specialiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who is devoted to one occupation or branch of learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who is devoted to one occupation or branch of learning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialiser designates an expert who is devoted to one occupation or branch of learning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who is devoted to one occupation or branch of learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who is devoted to one occupation or branch of learning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialiser designates an expert who is devoted to one occupation or branch of learning."*

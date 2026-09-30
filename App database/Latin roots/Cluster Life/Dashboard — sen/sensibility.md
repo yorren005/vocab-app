@@ -5,15 +5,6 @@ status: unread
 ---
 # sensibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental responsiveness and awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refined sensitivity to pleasurable or painful impressions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, cousin John.” “Why,” he slowly replied, roughening his head more and more, “he is all sentiment, and—and susceptibility, and—and sensibility, and—and imagination."*
-> - 📜 **Jane Austen (*Persuasion*):** *"For the first time, since their renewed acquaintance, she felt that she was betraying the least sensibility of the two."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Glowing and lovely in sensibility and happiness, and more generally admired than she thought about or cared for, she had cheerful or forbearing feelings for every creature around her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental responsiveness and awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refined sensitivity to pleasurable or painful impressions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, cousin John.” “Why,” he slowly replied, roughening his head more and more, “he is all sentiment, and—and susceptibility, and—and sensibility, and—and imagination."*
+> - 📜 **Jane Austen (*Persuasion*):** *"For the first time, since their renewed acquaintance, she felt that she was betraying the least sensibility of the two."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Glowing and lovely in sensibility and happiness, and more generally admired than she thought about or cared for, she had cheerful or forbearing feelings for every creature around her."*

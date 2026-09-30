@@ -5,15 +5,6 @@ status: unread
 ---
 # inflexible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not making concessions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that her beauty and all the state and brilliancy surrounding her only gives him the greater zest for what he is set upon and makes him the more inflexible in it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such an inflexible little woman, too, through all!” “Only for the best, guardian,” said I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nor do I know yet.” “Lady Dedlock’s sister.” “And why,” I could scarcely ask him, “why, guardian, pray tell me why were THEY parted?” “It was her act, and she kept its motives in her inflexible heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not making concessions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that her beauty and all the state and brilliancy surrounding her only gives him the greater zest for what he is set upon and makes him the more inflexible in it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Such an inflexible little woman, too, through all!” “Only for the best, guardian,” said I."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nor do I know yet.” “Lady Dedlock’s sister.” “And why,” I could scarcely ask him, “why, guardian, pray tell me why were THEY parted?” “It was her act, and she kept its motives in her inflexible heart."*

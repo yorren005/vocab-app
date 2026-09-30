@@ -5,15 +5,6 @@ status: unread
 ---
 # ingress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the disappearance of a celestial body prior to an eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"If he does strain to the moment of ingress into the divine being, it is to swoon with excess of bliss, as at the end of 'Epipsychidion', or as in the 'Indian Serenade': "Oh lift me from the grass!"*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The bursted crust of the sawdust heap had given free ingress to the wind, and a draught being started, it sucked the flames directly up the tall chimney the tree made."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I could find no means of ingress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the disappearance of a celestial body prior to an eclipse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"If he does strain to the moment of ingress into the divine being, it is to swoon with excess of bliss, as at the end of 'Epipsychidion', or as in the 'Indian Serenade': "Oh lift me from the grass!"*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The bursted crust of the sawdust heap had given free ingress to the wind, and a draught being started, it sucked the flames directly up the tall chimney the tree made."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I could find no means of ingress."*

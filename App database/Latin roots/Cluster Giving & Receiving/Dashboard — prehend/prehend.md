@@ -5,15 +5,6 @@ status: unread
 ---
 # prehend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take hold of; grab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take hold of; grab.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Immortal Mind heals what eye hath not seen; but the spiritual capacity to ap- 179:9 prehend thought and to heal by the Truth-power, is won only as man is found, not in self-righteousness, but re- flecting the divine nature."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Through spiritual sense only, man com- 481:9 prehends and loves Deity."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"These states are not com- prehended and they are left without explanation except in Christian Science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take hold of; grab.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take hold of; grab.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Immortal Mind heals what eye hath not seen; but the spiritual capacity to ap- 179:9 prehend thought and to heal by the Truth-power, is won only as man is found, not in self-righteousness, but re- flecting the divine nature."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Through spiritual sense only, man com- 481:9 prehends and loves Deity."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"These states are not com- prehended and they are left without explanation except in Christian Science."*

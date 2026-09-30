@@ -5,13 +5,6 @@ status: unread
 ---
 # molluscum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skin disease characterized by soft pulpy nodules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any skin disease characterized by soft pulpy nodules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, molluscum designates any skin disease characterized by soft pulpy nodules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skin disease characterized by soft pulpy nodules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any skin disease characterized by soft pulpy nodules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, molluscum designates any skin disease characterized by soft pulpy nodules."*

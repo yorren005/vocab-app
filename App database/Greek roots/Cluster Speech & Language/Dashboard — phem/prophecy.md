@@ -5,15 +5,6 @@ status: unread
 ---
 # prophecy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inspired utterance of a prophet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The function or vocation of a prophet; specifically : the inspired declaration of divine will and purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But which of you was by— [_To Warwick_.] You, cousin Nevil, as I may remember— When Richard, with his eye brimful of tears, Then check’d and rated by Northumberland, Did speak these words, now proved a prophecy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spirit of deep prophecy she hath, Exceeding the nine sibyls of old Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As Henry’s late presaging prophecy Did glad my heart with hope of this young Richmond, So doth my heart misgive me, in these conflicts What may befall him, to his harm and ours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inspired utterance of a prophet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The function or vocation of a prophet; specifically : the inspired declaration of divine will and purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But which of you was by— [_To Warwick_.] You, cousin Nevil, as I may remember— When Richard, with his eye brimful of tears, Then check’d and rated by Northumberland, Did speak these words, now proved a prophecy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spirit of deep prophecy she hath, Exceeding the nine sibyls of old Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As Henry’s late presaging prophecy Did glad my heart with hope of this young Richmond, So doth my heart misgive me, in these conflicts What may befall him, to his harm and ours."*

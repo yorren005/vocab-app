@@ -5,15 +5,6 @@ status: unread
 ---
 # eventually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After an unspecified period of time or an especially long delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After an unspecified period of time or an especially long delay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"When you had the presence of mind to suggest that Benwick would be the properest person to fetch a surgeon, you could have little idea of his being eventually one of those most concerned in her recovery.” “Certainly I could have none."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, not being the least in love with him, was eventually able to look calmly at his offer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Introduced as lymph on the dart of Eros, it eventually permeated and coloured her whole constitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After an unspecified period of time or an especially long delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After an unspecified period of time or an especially long delay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"When you had the presence of mind to suggest that Benwick would be the properest person to fetch a surgeon, you could have little idea of his being eventually one of those most concerned in her recovery.” “Certainly I could have none."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, not being the least in love with him, was eventually able to look calmly at his offer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Introduced as lymph on the dart of Eros, it eventually permeated and coloured her whole constitution."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # nuncio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a diplomatic representative of the pope having ambassadorial status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a diplomatic representative of the pope having ambassadorial status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O then unfold the passion of my love, Surprise her with discourse of my dear faith; It shall become thee well to act my woes; She will attend it better in thy youth, Than in a nuncio’s of more grave aspect."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If a man came a cropper in a big way, it was because he had rushed into a work before Destiny, the invisible infallible nuncio of God, had chosen her man."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Mary reserves a portion of your silk, not to be buried in (as the false Nuncio asserts), but to make up spick and span into a bran new gown to wear when you come."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a diplomatic representative of the pope having ambassadorial status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a diplomatic representative of the pope having ambassadorial status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O then unfold the passion of my love, Surprise her with discourse of my dear faith; It shall become thee well to act my woes; She will attend it better in thy youth, Than in a nuncio’s of more grave aspect."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If a man came a cropper in a big way, it was because he had rushed into a work before Destiny, the invisible infallible nuncio of God, had chosen her man."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Mary reserves a portion of your silk, not to be buried in (as the false Nuncio asserts), but to make up spick and span into a bran new gown to wear when you come."*

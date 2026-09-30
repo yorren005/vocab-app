@@ -5,13 +5,6 @@ status: unread
 ---
 # antidiuretic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasopressin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polypeptide hormone secreted by the posterior lobe of the pituitary gland or obtained synthetically that increases blood pressure and decreases urine flow —called also antidiuretic hormone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidiuretic designates vasopressin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasopressin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polypeptide hormone secreted by the posterior lobe of the pituitary gland or obtained synthetically that increases blood pressure and decreases urine flow —called also antidiuretic hormone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidiuretic designates vasopressin."*

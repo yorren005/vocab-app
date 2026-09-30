@@ -5,13 +5,6 @@ status: unread
 ---
 # oligodontia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital condition in which some of the teeth are missing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital condition in which some of the teeth are missing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodontia designates congenital condition in which some of the teeth are missing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital condition in which some of the teeth are missing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital condition in which some of the teeth are missing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodontia designates congenital condition in which some of the teeth are missing."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # equivalence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being essentially equal or equivalent; equally balanced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Essential equality and interchangeability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is a complete lack of economic equivalence in the relation of parent and child in early years."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere, perhaps, does the equivalence of the shadow to the life or soul come out more clearly than in some customs practised to this day in South-eastern Europe."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the equivalence of the cock to the corn is expressed, hardly less plainly, in the custom of burying the bird in the ground, and cutting off its head (like the ears of corn) with the scythe. 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being essentially equal or equivalent; equally balanced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Essential equality and interchangeability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is a complete lack of economic equivalence in the relation of parent and child in early years."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere, perhaps, does the equivalence of the shadow to the life or soul come out more clearly than in some customs practised to this day in South-eastern Europe."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the equivalence of the cock to the corn is expressed, hardly less plainly, in the custom of burying the bird in the ground, and cutting off its head (like the ears of corn) with the scythe. 4."*

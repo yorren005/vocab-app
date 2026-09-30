@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithosis designates an atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithosis designates an atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds."*

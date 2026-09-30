@@ -5,13 +5,6 @@ status: unread
 ---
 # excursionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tourist who is visiting sights of interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tourist who is visiting sights of interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"To the great mass of cheap excursionists the characteristic scenery of the Lakes is in itself hardly a pleasure at all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tourist who is visiting sights of interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tourist who is visiting sights of interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"To the great mass of cheap excursionists the characteristic scenery of the Lakes is in itself hardly a pleasure at all."*

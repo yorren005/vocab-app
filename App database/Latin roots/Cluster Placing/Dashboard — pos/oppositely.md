@@ -5,15 +5,6 @@ status: unread
 ---
 # oppositely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an opposite position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an opposite position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"His senses drank in 52:6 the spiritual evidence of health, holiness, and life; their senses testified oppositely, and absorbed the material evi- dence of sin, sickness, and death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an opposite position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an opposite position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"His senses drank in 52:6 the spiritual evidence of health, holiness, and life; their senses testified oppositely, and absorbed the material evi- dence of sin, sickness, and death."*

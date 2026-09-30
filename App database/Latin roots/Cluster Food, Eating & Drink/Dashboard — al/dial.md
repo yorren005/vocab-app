@@ -5,15 +5,6 @@ status: unread
 ---
 # dial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The face of a timepiece; graduated to show the hours.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control on a radio or television set that is used for tuning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then my dial goes not true; I took this lark for a bunting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The face of a timepiece; graduated to show the hours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control on a radio or television set that is used for tuning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then my dial goes not true; I took this lark for a bunting."*

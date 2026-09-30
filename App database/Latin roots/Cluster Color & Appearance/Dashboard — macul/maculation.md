@@ -5,13 +5,6 @@ status: unread
 ---
 # maculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small contrasting part of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spotting or staining something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak not ‘Be thou true’ as fearing thee, For I will throw my glove to Death himself That there’s no maculation in thy heart; But ‘Be thou true’ say I to fashion in My sequent protestation: be thou true, And I will see thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small contrasting part of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spotting or staining something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak not ‘Be thou true’ as fearing thee, For I will throw my glove to Death himself That there’s no maculation in thy heart; But ‘Be thou true’ say I to fashion in My sequent protestation: be thou true, And I will see thee."*

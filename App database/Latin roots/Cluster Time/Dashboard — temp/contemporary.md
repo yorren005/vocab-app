@@ -5,15 +5,6 @@ status: unread
 ---
 # contemporary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of nearly the same age as another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Old Mr Clare was a clergyman of a type which, within the last twenty years, has well nigh dropped out of contemporary life."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet,” I reflected, “she has been young once; her youth would be contemporary with her master’s: Mrs."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Conybeare, an Oxford scholar avowedly not in allegiance to the Christian Church, has characterized some of the reconstructions made by contemporary anti-Christian writers as more miraculous than the history they are trying to correct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of nearly the same age as another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Old Mr Clare was a clergyman of a type which, within the last twenty years, has well nigh dropped out of contemporary life."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet,” I reflected, “she has been young once; her youth would be contemporary with her master’s: Mrs."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Conybeare, an Oxford scholar avowedly not in allegiance to the Christian Church, has characterized some of the reconstructions made by contemporary anti-Christian writers as more miraculous than the history they are trying to correct."*

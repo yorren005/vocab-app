@@ -5,15 +5,6 @@ status: unread
 ---
 # conclusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A position or opinion or judgment reached after consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intuitive assumption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife Octavia, with her modest eyes And still conclusion, shall acquire no honour Demuring upon me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know,” quoth he, “no house, no wife, no mistress.” So that my errand, due unto my tongue, I thank him, I bare home upon my shoulders; For, in conclusion, he did beat me there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A position or opinion or judgment reached after consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intuitive assumption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife Octavia, with her modest eyes And still conclusion, shall acquire no honour Demuring upon me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know,” quoth he, “no house, no wife, no mistress.” So that my errand, due unto my tongue, I thank him, I bare home upon my shoulders; For, in conclusion, he did beat me there."*

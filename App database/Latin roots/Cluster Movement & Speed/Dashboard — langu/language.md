@@ -5,15 +5,6 @@ status: unread
 ---
 # language
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic means of communicating by the use of sounds or conventional symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (language) communication by word of mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those girls of Italy, take heed of them; They say our French lack language to deny If they demand; beware of being captives Before you serve."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are the Muskos’ regiment, And I shall lose my life for want of language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic means of communicating by the use of sounds or conventional symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (language) communication by word of mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those girls of Italy, take heed of them; They say our French lack language to deny If they demand; beware of being captives Before you serve."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are the Muskos’ regiment, And I shall lose my life for want of language."*

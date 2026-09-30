@@ -5,15 +5,6 @@ status: unread
 ---
 # supernaturalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in forces beyond ordinary human understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, we have seen that, over and above this general supernaturalism, some persons are supposed to be inspired for short periods by a divine spirit, and thus temporarily to enjoy the knowledge and power of the indwelling deity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in forces beyond ordinary human understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being attributed to power that seems to violate or go beyond natural forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, in some things, does the common, hereditary experience of all mankind fail to bear witness to the supernaturalism of this hue."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, we have seen that, over and above this general supernaturalism, some persons are supposed to be inspired for short periods by a divine spirit, and thus temporarily to enjoy the knowledge and power of the indwelling deity."*

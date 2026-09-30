@@ -5,13 +5,6 @@ status: unread
 ---
 # marianas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chain of coral and volcanic islands in micronesia (including guam and the northern marianas) halfway between new guinea and japan; discovered by magellan in 1521.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chain of coral and volcanic islands in micronesia (including guam and the northern marianas) halfway between new guinea and japan; discovered by magellan in 1521.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marianas designates a chain of coral and volcanic islands in micronesia (including guam and the northern marianas) halfway between new guinea and japan; discovered by magellan in 1521."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chain of coral and volcanic islands in micronesia (including guam and the northern marianas) halfway between new guinea and japan; discovered by magellan in 1521.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chain of coral and volcanic islands in micronesia (including guam and the northern marianas) halfway between new guinea and japan; discovered by magellan in 1521.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marianas designates a chain of coral and volcanic islands in micronesia (including guam and the northern marianas) halfway between new guinea and japan; discovered by magellan in 1521."*

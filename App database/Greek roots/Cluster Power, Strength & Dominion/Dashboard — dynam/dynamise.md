@@ -5,13 +5,6 @@ status: unread
 ---
 # dynamise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more dynamic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a drug) effective.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamise designates make more dynamic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more dynamic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a drug) effective.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamise designates make more dynamic."*

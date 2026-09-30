@@ -5,15 +5,6 @@ status: unread
 ---
 # senatorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to senators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to senators.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It makes no difference that in these senatorial districts and counties a number of representatives are voted for by each elector at the same time."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Many of the defects, as we have seen, which can only be supplied by a senatorial institution, are common to a numerous assembly frequently elected by the people, and to the people themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to senators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to senators.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It makes no difference that in these senatorial districts and counties a number of representatives are voted for by each elector at the same time."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Many of the defects, as we have seen, which can only be supplied by a senatorial institution, are common to a numerous assembly frequently elected by the people, and to the people themselves."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # autonomous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the right or power of self-government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertaken or carried on without outside control : self-contained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autonomous designates having the right or power of self-government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the right or power of self-government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertaken or carried on without outside control : self-contained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autonomous designates having the right or power of self-government."*

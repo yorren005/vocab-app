@@ -5,15 +5,6 @@ status: unread
 ---
 # defender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cares for persons or property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fighter who holds out against attack.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou great defender of this Capitol, Stand gracious to the rites that we intend."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But—well, goodbye!” Her defender, whom she dreaded more than her assailant, having reluctantly disappeared, the farmer continued his reprimand, which Tess took with the greatest coolness, that sort of attack being independent of sex."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revered defender of beauteous Stuart, Of Stuart, a name once respected; A name, which to love was the mark of a true heart, But now ’tis despis’d and neglected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cares for persons or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fighter who holds out against attack.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou great defender of this Capitol, Stand gracious to the rites that we intend."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But—well, goodbye!” Her defender, whom she dreaded more than her assailant, having reluctantly disappeared, the farmer continued his reprimand, which Tess took with the greatest coolness, that sort of attack being independent of sex."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revered defender of beauteous Stuart, Of Stuart, a name once respected; A name, which to love was the mark of a true heart, But now ’tis despis’d and neglected."*

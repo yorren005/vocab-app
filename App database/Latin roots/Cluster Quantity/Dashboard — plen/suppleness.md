@@ -5,14 +5,6 @@ status: unread
 ---
 # suppleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gracefulness of a person or animal that is flexible and supple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being pliant and flexible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That very sweet language will be gone soon, if not gone already, and no book learning will revive the suppleness of idiom, that haunting misty loveliness...."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Twice, when she had been playing to him, she turned to find him testing the suppleness of his injured arm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gracefulness of a person or animal that is flexible and supple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being pliant and flexible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That very sweet language will be gone soon, if not gone already, and no book learning will revive the suppleness of idiom, that haunting misty loveliness...."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Twice, when she had been playing to him, she turned to find him testing the suppleness of his injured arm."*

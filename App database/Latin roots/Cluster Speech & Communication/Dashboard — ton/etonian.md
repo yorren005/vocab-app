@@ -5,13 +5,6 @@ status: unread
 ---
 # etonian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student enrolled in (or graduated from) eton college.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student enrolled in (or graduated from) eton college.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etonian designates a student enrolled in (or graduated from) eton college."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student enrolled in (or graduated from) eton college.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student enrolled in (or graduated from) eton college.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etonian designates a student enrolled in (or graduated from) eton college."*

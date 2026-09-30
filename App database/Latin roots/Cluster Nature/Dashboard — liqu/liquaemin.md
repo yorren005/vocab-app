@@ -5,13 +5,6 @@ status: unread
 ---
 # liquaemin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood; it (trade names lipo-hepin and liquaemin) is used as an anticoagulant in the treatment of thrombosis and in heart surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood; it (trade names lipo-hepin and liquaemin) is used as an anticoagulant in the treatment of thrombosis and in heart surgery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquaemin designates a polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood; it (trade names lipo-hepin and liquaemin) is used as an anticoagulant in the treatment of thrombosis and in heart surgery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood; it (trade names lipo-hepin and liquaemin) is used as an anticoagulant in the treatment of thrombosis and in heart surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood; it (trade names lipo-hepin and liquaemin) is used as an anticoagulant in the treatment of thrombosis and in heart surgery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquaemin designates a polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood; it (trade names lipo-hepin and liquaemin) is used as an anticoagulant in the treatment of thrombosis and in heart surgery."*

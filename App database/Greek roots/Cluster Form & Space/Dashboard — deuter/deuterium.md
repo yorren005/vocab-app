@@ -5,13 +5,6 @@ status: unread
 ---
 # deuterium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isotope of hydrogen that has one proton and one neutron in its nucleus and that has twice the mass of ordinary hydrogen —symbol D—called also heavy hydrogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterium designates an isotope of hydrogen that has one proton and one neutron in its nucleus and that has twice the mass of ordinary hydrogen —symbol d—called also heavy hydrogen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isotope of hydrogen that has one proton and one neutron in its nucleus and that has twice the mass of ordinary hydrogen —symbol D—called also heavy hydrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterium designates an isotope of hydrogen that has one proton and one neutron in its nucleus and that has twice the mass of ordinary hydrogen —symbol d—called also heavy hydrogen."*

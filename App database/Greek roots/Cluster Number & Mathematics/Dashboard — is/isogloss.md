@@ -5,13 +5,6 @@ status: unread
 ---
 # isogloss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boundary line between places or regions that differ in a particular linguistic feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a map representing an isogloss.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isogloss designates a boundary line between places or regions that differ in a particular linguistic feature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boundary line between places or regions that differ in a particular linguistic feature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a map representing an isogloss.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isogloss designates a boundary line between places or regions that differ in a particular linguistic feature."*

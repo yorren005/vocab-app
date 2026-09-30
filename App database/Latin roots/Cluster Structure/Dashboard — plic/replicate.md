@@ -5,13 +5,6 @@ status: unread
 ---
 # replicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend or turn backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduce or make an exact copy of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, replicate designates bend or turn backward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend or turn backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduce or make an exact copy of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, replicate designates bend or turn backward."*

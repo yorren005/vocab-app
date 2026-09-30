@@ -5,13 +5,6 @@ status: unread
 ---
 # heliobacter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliobacter designates a genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliobacter designates a genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # imperturbability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm and unruffled self-assurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm and unruffled self-assurance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"His countenance had resumed its habitual imperturbability."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Thank you, I'm well, and have had a passably agreeable summer, barring the heat, sundry persistent mosquitoes, several grievous disappointments, and a felon on my thumb,” he began, with shameless imperturbability."*
-> - 📜 **James Joyce (*Ulysses*):** *"The pluterperfect imperturbability of the department of agriculture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm and unruffled self-assurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm and unruffled self-assurance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"His countenance had resumed its habitual imperturbability."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Thank you, I'm well, and have had a passably agreeable summer, barring the heat, sundry persistent mosquitoes, several grievous disappointments, and a felon on my thumb,” he began, with shameless imperturbability."*
+> - 📜 **James Joyce (*Ulysses*):** *"The pluterperfect imperturbability of the department of agriculture."*

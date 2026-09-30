@@ -5,15 +5,6 @@ status: unread
 ---
 # program
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief usually printed outline of the order to be followed, of the features to be presented, and the persons participating (as in a public performance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"President Wilson and the newly elected Congress with its Democratic majority made banking reform one of the main objects on the program for the special session beginning March 5, 1913."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The program here outlined was carried out by the enactment between 1883 and 1889 of a series of laws, which taken together constituted a pretty effective system of social insurance for the mass of wage-workers in the German Empire."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Republican party led by President Taft stood for the policy of monopoly-prosecuted; its program was the vigorous enforcement of the Sherman law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief usually printed outline of the order to be followed, of the features to be presented, and the persons participating (as in a public performance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"President Wilson and the newly elected Congress with its Democratic majority made banking reform one of the main objects on the program for the special session beginning March 5, 1913."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The program here outlined was carried out by the enactment between 1883 and 1889 of a series of laws, which taken together constituted a pretty effective system of social insurance for the mass of wage-workers in the German Empire."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Republican party led by President Taft stood for the policy of monopoly-prosecuted; its program was the vigorous enforcement of the Sherman law."*

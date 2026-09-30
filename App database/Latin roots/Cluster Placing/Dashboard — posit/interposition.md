@@ -5,15 +5,6 @@ status: unread
 ---
 # interposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of interjecting or interposing an action or remark that interrupts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or fact of interposing one thing between or among others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak imagined a terrible discovery resulting from this afternoon’s work that might cast over Bathsheba’s life a shade which the interposition of many lapsing years might but indifferently lighten, and which nothing at all might altogether remove."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I want to make a confession to you, Love.” This, from him, so unexpectedly apposite, had the effect upon her of a Providential interposition."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Beloved try the spirits whether they be of God." Let us not waver in our faith in God's overruling providence, and in the reality of His interposition in answer to prayer for the deliverance and help of his people under any and all circumstances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of interjecting or interposing an action or remark that interrupts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or fact of interposing one thing between or among others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak imagined a terrible discovery resulting from this afternoon’s work that might cast over Bathsheba’s life a shade which the interposition of many lapsing years might but indifferently lighten, and which nothing at all might altogether remove."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I want to make a confession to you, Love.” This, from him, so unexpectedly apposite, had the effect upon her of a Providential interposition."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Beloved try the spirits whether they be of God." Let us not waver in our faith in God's overruling providence, and in the reality of His interposition in answer to prayer for the deliverance and help of his people under any and all circumstances."*

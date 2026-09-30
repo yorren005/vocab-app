@@ -5,14 +5,6 @@ status: unread
 ---
 # byssus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine probably linen cloth of ancient times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuft of long tough filaments by which some bivalve mollusks (such as mussels) adhere to a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He did not carry away more than ten at each plunge, for he was obliged to pull them from the bank to which they adhered by means of their strong byssus."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I returned to my room, clothed myself warmly—sea boots, an otterskin cap, a great coat of byssus, lined with sealskin; I was ready, I was waiting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine probably linen cloth of ancient times.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuft of long tough filaments by which some bivalve mollusks (such as mussels) adhere to a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He did not carry away more than ten at each plunge, for he was obliged to pull them from the bank to which they adhered by means of their strong byssus."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I returned to my room, clothed myself warmly—sea boots, an otterskin cap, a great coat of byssus, lined with sealskin; I was ready, I was waiting."*

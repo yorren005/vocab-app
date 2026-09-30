@@ -5,15 +5,6 @@ status: unread
 ---
 # place
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical environment : space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way for admission or transit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to be sure that is not false I swear, A thousand groans but thinking on thy face, One on another’s neck do witness bear Thy black is fairest in my judgement’s place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical environment : space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way for admission or transit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to be sure that is not false I swear, A thousand groans but thinking on thy face, One on another’s neck do witness bear Thy black is fairest in my judgement’s place."*

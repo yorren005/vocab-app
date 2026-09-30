@@ -5,13 +5,6 @@ status: unread
 ---
 # scotophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the dark is a common fear or phobia among toddlers, children and, to a varying degree, adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fear of the dark does not always concern darkness itself; it can also be a fear of possible or imagined dangers concealed by darkness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophobia designates fear of the dark is a common fear or phobia among toddlers, children and, to a varying degree, adults."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the dark is a common fear or phobia among toddlers, children and, to a varying degree, adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fear of the dark does not always concern darkness itself; it can also be a fear of possible or imagined dangers concealed by darkness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophobia designates fear of the dark is a common fear or phobia among toddlers, children and, to a varying degree, adults."*

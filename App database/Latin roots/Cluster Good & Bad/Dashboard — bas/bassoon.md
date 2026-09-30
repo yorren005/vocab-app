@@ -5,15 +5,6 @@ status: unread
 ---
 # bassoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A double-reed instrument; the tenor of the oboe family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A double-reed instrument; the tenor of the oboe family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A Briton!” “And Mat blows away at his bassoon, and you’re respectable civilians one and all,” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed there may be generally observed in him an unbending, unyielding, brass-bound air, as if he were himself the bassoon of the human orchestra."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet in short sentences, bassoon-like."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A double-reed instrument; the tenor of the oboe family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A double-reed instrument; the tenor of the oboe family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A Briton!” “And Mat blows away at his bassoon, and you’re respectable civilians one and all,” says Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed there may be generally observed in him an unbending, unyielding, brass-bound air, as if he were himself the bassoon of the human orchestra."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet in short sentences, bassoon-like."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # spiculum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiculum designates small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiculum designates small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals."*

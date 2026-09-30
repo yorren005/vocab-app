@@ -5,13 +5,6 @@ status: unread
 ---
 # Triassic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age."*

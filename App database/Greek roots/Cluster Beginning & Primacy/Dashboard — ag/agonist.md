@@ -5,13 +5,6 @@ status: unread
 ---
 # agonist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal character in a work of fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone involved in a contest or battle (as in an agon).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Within that period he wrote the ‘Paradise Lost’, ‘Paradise Regained’, and ‘Samson Agonistes’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal character in a work of fiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone involved in a contest or battle (as in an agon).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Within that period he wrote the ‘Paradise Lost’, ‘Paradise Regained’, and ‘Samson Agonistes’."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exceptionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to objection or debate; used of something one might take exception to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to objection or debate; used of something one might take exception to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And, besides, no traces of them were to be found on the Barnet road.” “Well, then,--supposing them to be in London--they may be there, though for the purpose of concealment, for no more exceptionable purpose."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if such an hypothesis be indeed exceptionable, there were still additional considerations which, though not so strictly according with the wildness of his ruling passion, yet were by no means incapable of swaying him."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The right of equal suffrage among the States is another exceptionable part of the Confederation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to objection or debate; used of something one might take exception to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to objection or debate; used of something one might take exception to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And, besides, no traces of them were to be found on the Barnet road.” “Well, then,--supposing them to be in London--they may be there, though for the purpose of concealment, for no more exceptionable purpose."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if such an hypothesis be indeed exceptionable, there were still additional considerations which, though not so strictly according with the wildness of his ruling passion, yet were by no means incapable of swaying him."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The right of equal suffrage among the States is another exceptionable part of the Confederation."*

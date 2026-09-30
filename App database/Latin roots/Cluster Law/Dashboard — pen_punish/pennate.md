@@ -5,13 +5,6 @@ status: unread
 ---
 # pennate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having feathered wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having feathered wings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennate designates having feathered wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having feathered wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having feathered wings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennate designates having feathered wings."*

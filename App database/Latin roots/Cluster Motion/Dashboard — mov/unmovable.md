@@ -5,13 +5,6 @@ status: unread
 ---
 # unmovable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able or intended to be moved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or intended to be moved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I feel an earnest wish you should do this too that there may be the broad unmovable foundation-rock of perfect truth and candour for our love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able or intended to be moved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or intended to be moved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I feel an earnest wish you should do this too that there may be the broad unmovable foundation-rock of perfect truth and candour for our love."*

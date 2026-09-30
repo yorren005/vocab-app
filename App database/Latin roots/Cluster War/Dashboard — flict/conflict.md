@@ -5,15 +5,6 @@ status: unread
 ---
 # conflict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An open clash between two opposing groups (or individuals); --thomas paine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposition between two simultaneous but incompatible feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is my father’s face, Whom in this conflict I unwares have killed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will persever in my course of loyalty, though the conflict be sore between that and my blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his flaw’d heart, Alack, too weak the conflict to support! ’Twixt two extremes of passion, joy and grief, Burst smilingly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open clash between two opposing groups (or individuals); --thomas paine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposition between two simultaneous but incompatible feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is my father’s face, Whom in this conflict I unwares have killed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will persever in my course of loyalty, though the conflict be sore between that and my blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his flaw’d heart, Alack, too weak the conflict to support! ’Twixt two extremes of passion, joy and grief, Burst smilingly."*

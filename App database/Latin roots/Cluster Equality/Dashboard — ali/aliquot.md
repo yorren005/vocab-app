@@ -5,13 +5,6 @@ status: unread
 ---
 # aliquot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer that is an exact divisor of some quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signifying an exact divisor or factor of a quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliquot designates an integer that is an exact divisor of some quantity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer that is an exact divisor of some quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signifying an exact divisor or factor of a quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliquot designates an integer that is an exact divisor of some quantity."*

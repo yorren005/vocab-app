@@ -5,20 +5,6 @@ status: unread
 ---
 # glow
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Flush, blush
-> 2. **Nuance / Usage**: Have a rich warm typically ruddy color
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to glow the target*) and intransitive clauses (*glowing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"into a ruddy little room, all in a glow with a blazing fire."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"tremble, my veins glow when I viewed them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"circumstance a fiery glow which suddenly rose to my face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To shine with a steady, warm, flameless radiance as from intense heat or live embers; a steady warmth and light.
+> 2. **Nuance / Usage**: Also describes a warm flush of color in the cheeks or sky, or a feeling of vibrant health, pride, or emotional warmth.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to glow the target*) and intransitive clauses (*glowing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We were shown into a ruddy little room, all in a **glow** with a blazing fire."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My pulse beat fast, and a fiery **glow** suddenly rose to my face."*
+> - 📜 **John Keats (*The Eve of St. Agnes*):** *"Full on this casement shone the wintry moon, and threw warm gules and a soft **glow** on Madeline's fair breast."*

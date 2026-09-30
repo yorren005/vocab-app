@@ -5,13 +5,6 @@ status: unread
 ---
 # polymerase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymerase designates an enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymerase designates an enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna."*

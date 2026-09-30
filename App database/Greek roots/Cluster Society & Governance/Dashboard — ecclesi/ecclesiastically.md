@@ -5,13 +5,6 @@ status: unread
 ---
 # ecclesiastically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecclesiastic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecclesiastic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He did not shrug his shoulders; and for want of that muscular outlet he thought the more irritably of beautiful lips kissing holy skulls and other emptinesses ecclesiastically enshrined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecclesiastic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecclesiastic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He did not shrug his shoulders; and for want of that muscular outlet he thought the more irritably of beautiful lips kissing holy skulls and other emptinesses ecclesiastically enshrined."*

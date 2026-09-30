@@ -5,13 +5,6 @@ status: unread
 ---
 # certificated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Present someone with a certificate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorize by certificate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Indeed, the postman had brought me an official blue paper that morning, by virtue of which I was informed of my registration as a regular certificated teacher under the Act of 1871."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Present someone with a certificate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorize by certificate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Indeed, the postman had brought me an official blue paper that morning, by virtue of which I was informed of my registration as a regular certificated teacher under the Act of 1871."*

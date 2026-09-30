@@ -5,13 +5,6 @@ status: unread
 ---
 # rensselaerite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of soft talc; sometimes used as wood filler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of soft talc; sometimes used as wood filler.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rensselaerite designates a kind of soft talc; sometimes used as wood filler."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of soft talc; sometimes used as wood filler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of soft talc; sometimes used as wood filler.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rensselaerite designates a kind of soft talc; sometimes used as wood filler."*

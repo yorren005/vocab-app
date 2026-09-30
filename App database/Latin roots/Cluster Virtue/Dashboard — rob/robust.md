@@ -5,15 +5,6 @@ status: unread
 ---
 # robust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sturdy and strong in form, constitution, or construction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by richness and fullness of flavor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had not recovered as quickly as she had hoped, and Leonore, instead of getting more robust in our vigorous mountain-air, only became thinner and frailer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I took him to be nearer sixty than fifty, but he was upright, hearty, and robust."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Man is more robust than woman, but he is not longer lived; which exactly explains my view of the nature of their attachments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sturdy and strong in form, constitution, or construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by richness and fullness of flavor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had not recovered as quickly as she had hoped, and Leonore, instead of getting more robust in our vigorous mountain-air, only became thinner and frailer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I took him to be nearer sixty than fifty, but he was upright, hearty, and robust."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Man is more robust than woman, but he is not longer lived; which exactly explains my view of the nature of their attachments."*

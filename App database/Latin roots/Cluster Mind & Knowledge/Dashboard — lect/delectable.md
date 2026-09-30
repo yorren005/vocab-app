@@ -5,15 +5,6 @@ status: unread
 ---
 # delectable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the sense of taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of arousing desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet your fair discourse hath been as sugar, Making the hard way sweet and delectable."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In a bright summer morning in early summer, it was delectable to hear their cheerful notes as they sported about in the pure, sweet air, chirping forth, as it were, the greatness and prosperity of the Webbers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the sense of taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of arousing desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet your fair discourse hath been as sugar, Making the hard way sweet and delectable."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In a bright summer morning in early summer, it was delectable to hear their cheerful notes as they sported about in the pure, sweet air, chirping forth, as it were, the greatness and prosperity of the Webbers."*

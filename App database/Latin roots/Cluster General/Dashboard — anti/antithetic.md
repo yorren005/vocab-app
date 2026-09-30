@@ -5,14 +5,6 @@ status: unread
 ---
 # antithetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharply contrasted in character or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharply contrasted in character or purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"True enough,” said the man of bitter moods, looking round upon the company with the antithetic laughter that comes from a keener appreciation of the miseries of life than ordinary men are capable of."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"True enough,” said the man of bitter moods, looking round upon the company, with the antithetic laughter that comes from a keener appreciation of the untold miseries of life than ordinary men are capable of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharply contrasted in character or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharply contrasted in character or purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"True enough,” said the man of bitter moods, looking round upon the company with the antithetic laughter that comes from a keener appreciation of the miseries of life than ordinary men are capable of."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"True enough,” said the man of bitter moods, looking round upon the company, with the antithetic laughter that comes from a keener appreciation of the untold miseries of life than ordinary men are capable of."*

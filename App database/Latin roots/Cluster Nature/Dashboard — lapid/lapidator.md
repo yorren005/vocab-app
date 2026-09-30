@@ -5,13 +5,6 @@ status: unread
 ---
 # lapidator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attacker who pelts the victim with stones (especially with intent to kill).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attacker who pelts the victim with stones (especially with intent to kill).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lapidator designates an attacker who pelts the victim with stones (especially with intent to kill)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attacker who pelts the victim with stones (especially with intent to kill).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attacker who pelts the victim with stones (especially with intent to kill).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lapidator designates an attacker who pelts the victim with stones (especially with intent to kill)."*

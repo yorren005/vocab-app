@@ -5,13 +5,6 @@ status: unread
 ---
 # redevelop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Develop for a second time, in order to improve the contrast, colour, etc., of a negative or print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formulate or develop again, of an improved theory or hypothesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redevelop designates develop for a second time, in order to improve the contrast, colour, etc., of a negative or print."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Develop for a second time, in order to improve the contrast, colour, etc., of a negative or print.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formulate or develop again, of an improved theory or hypothesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redevelop designates develop for a second time, in order to improve the contrast, colour, etc., of a negative or print."*

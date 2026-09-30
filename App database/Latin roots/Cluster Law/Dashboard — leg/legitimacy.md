@@ -5,14 +5,6 @@ status: unread
 ---
 # legitimacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness by virtue of being authorized or in accordance with law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undisputed credibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"On March 24, 1814, he married Harriet in church, to settle any possible question as to the legitimacy of his children; but they parted soon after."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The Webber dynasty continued in uninterrupted succession, and never did a line give more unquestionable proofs of legitimacy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness by virtue of being authorized or in accordance with law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undisputed credibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"On March 24, 1814, he married Harriet in church, to settle any possible question as to the legitimacy of his children; but they parted soon after."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The Webber dynasty continued in uninterrupted succession, and never did a line give more unquestionable proofs of legitimacy."*

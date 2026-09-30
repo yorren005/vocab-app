@@ -5,15 +5,6 @@ status: unread
 ---
 # entertainment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that is diverting and that holds the attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An activity that is diverting and that holds the attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must think us some band of strangers i’ the adversary’s entertainment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get thee back to Caesar; Tell him thy entertainment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that is diverting and that holds the attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An activity that is diverting and that holds the attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must think us some band of strangers i’ the adversary’s entertainment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get thee back to Caesar; Tell him thy entertainment."*

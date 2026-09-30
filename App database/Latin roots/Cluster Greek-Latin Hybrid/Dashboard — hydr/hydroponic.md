@@ -5,13 +5,6 @@ status: unread
 ---
 # hydroponic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aquiculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aquiculture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aquiculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aquiculture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short introductory essay preceding the text of a book.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with a preface or introduction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EMILIA. ’Twas an excellent dance, And, for a preface, I never heard a better."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Sir Leicester Dedlock, Baronet, with this short preface I come to the point."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have come to speak to you without preface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short introductory essay preceding the text of a book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with a preface or introduction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EMILIA. ’Twas an excellent dance, And, for a preface, I never heard a better."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Sir Leicester Dedlock, Baronet, with this short preface I come to the point."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have come to speak to you without preface."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # rotatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic or causing an axial or orbital turn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic or causing an axial or orbital turn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"With a shock he became aware of me, and was severely visited as before; but this time his motion was rotatory, and he staggered round and round me with knees more afflicted, and with uplifted hands as if beseeching for mercy."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"It is often literally machine-made, as witness the prayer-wheels or rotatory prayer-drums, large and small, stationary or portable, of the Lamaistic sect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic or causing an axial or orbital turn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic or causing an axial or orbital turn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"With a shock he became aware of me, and was severely visited as before; but this time his motion was rotatory, and he staggered round and round me with knees more afflicted, and with uplifted hands as if beseeching for mercy."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"It is often literally machine-made, as witness the prayer-wheels or rotatory prayer-drums, large and small, stationary or portable, of the Lamaistic sect."*

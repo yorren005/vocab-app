@@ -5,14 +5,6 @@ status: unread
 ---
 # inconveniently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inconvenient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inconvenient manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was bandaged, of course, but much less inconveniently than my left hand and arm; those I carried in a sling; and I could only wear my coat like a cloak, loose over my shoulders and fastened at the neck."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"They contained the Christmas presents which she had gone out to buy for Angel, but, luckily, the little girl was too excited to notice and wonder inconveniently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inconvenient manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inconvenient manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was bandaged, of course, but much less inconveniently than my left hand and arm; those I carried in a sling; and I could only wear my coat like a cloak, loose over my shoulders and fastened at the neck."*
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"They contained the Christmas presents which she had gone out to buy for Angel, but, luckily, the little girl was too excited to notice and wonder inconveniently."*

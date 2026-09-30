@@ -5,13 +5,6 @@ status: learning
 ---
 # anabolism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The constructive part of metabolism concerned especially with macromolecular synthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constructive part of metabolism concerned especially with macromolecular synthesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabolism designates the constructive part of metabolism concerned especially with macromolecular synthesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The constructive part of metabolism concerned especially with macromolecular synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constructive part of metabolism concerned especially with macromolecular synthesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabolism designates the constructive part of metabolism concerned especially with macromolecular synthesis."*

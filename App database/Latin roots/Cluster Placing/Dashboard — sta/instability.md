@@ -5,15 +5,6 @@ status: unread
 ---
 # instability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unstable order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unreliability attributable to being unstable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seven hundred and fifty pounds in the divinest form that money can wear—that of necessary food for man and beast: should the risk be run of deteriorating this bulk of corn to less than half its value, because of the instability of a woman?"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To the poet he bequeathed something of his own pathological sensuality, instability of thought and action, lack of will-energy, and the tears of a heartbroken mother, a sufficient guarantee, surely, of a poet of melancholy."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lenau's aimlessness and instability were so extreme that they may properly be counted a pathological trait."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unstable order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unreliability attributable to being unstable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seven hundred and fifty pounds in the divinest form that money can wear—that of necessary food for man and beast: should the risk be run of deteriorating this bulk of corn to less than half its value, because of the instability of a woman?"*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To the poet he bequeathed something of his own pathological sensuality, instability of thought and action, lack of will-energy, and the tears of a heartbroken mother, a sufficient guarantee, surely, of a poet of melancholy."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lenau's aimlessness and instability were so extreme that they may properly be counted a pathological trait."*

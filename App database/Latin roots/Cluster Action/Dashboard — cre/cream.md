@@ -5,15 +5,6 @@ status: unread
 ---
 # cream
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The best people or things in a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of milk containing the butterfat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, faith, proud mistress, hope not after it. ’Tis not your inky brows, your black silk hair, Your bugle eyeballs, nor your cheek of cream, That can entame my spirits to your worship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am as vigilant as a cat to steal cream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, to steal cream indeed, for thy theft hath already made thee butter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The best people or things in a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of milk containing the butterfat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, faith, proud mistress, hope not after it. ’Tis not your inky brows, your black silk hair, Your bugle eyeballs, nor your cheek of cream, That can entame my spirits to your worship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am as vigilant as a cat to steal cream."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, to steal cream indeed, for thy theft hath already made thee butter."*

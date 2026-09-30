@@ -5,15 +5,6 @@ status: unread
 ---
 # territory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region marked off for administrative or other purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of knowledge or interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him dead or living Within this twelvemonth, or turn thou no more To seek a living in our territory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, my daughters,— Since now we will divest us both of rule, Interest of territory, cares of state,— Which of you shall we say doth love us most?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When it grew tired, it would come to rest on the safe territory above."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region marked off for administrative or other purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of knowledge or interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him dead or living Within this twelvemonth, or turn thou no more To seek a living in our territory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, my daughters,— Since now we will divest us both of rule, Interest of territory, cares of state,— Which of you shall we say doth love us most?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When it grew tired, it would come to rest on the safe territory above."*

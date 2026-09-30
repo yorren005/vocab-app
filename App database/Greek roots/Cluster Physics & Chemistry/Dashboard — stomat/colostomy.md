@@ -5,13 +5,6 @@ status: unread
 ---
 # colostomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colostomy designates surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colostomy designates surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall."*

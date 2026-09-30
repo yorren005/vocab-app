@@ -5,13 +5,6 @@ status: unread
 ---
 # subordinating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rank or order as less important or consider of less value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make subordinate, dependent, or subservient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subordinating designates rank or order as less important or consider of less value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rank or order as less important or consider of less value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make subordinate, dependent, or subservient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subordinating designates rank or order as less important or consider of less value."*

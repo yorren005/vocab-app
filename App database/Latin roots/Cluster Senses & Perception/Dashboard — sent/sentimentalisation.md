@@ -5,13 +5,6 @@ status: unread
 ---
 # sentimentalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of indulging in sentiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of indulging in sentiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentimentalisation designates the act of indulging in sentiment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of indulging in sentiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of indulging in sentiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sentimentalisation designates the act of indulging in sentiment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # penitentiary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A correctional institution for those convicted of major crimes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used for punishment or reform of criminals or wrongdoers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"I do not hesitate to say that if you had your deserts you would be in the Penitentiary."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"But I can tell pretty well where he is.” “Where?” “In the penitentiary."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I deserve the penitentiary." Continuing, he told us his story."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A correctional institution for those convicted of major crimes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used for punishment or reform of criminals or wrongdoers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"I do not hesitate to say that if you had your deserts you would be in the Penitentiary."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"But I can tell pretty well where he is.” “Where?” “In the penitentiary."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I deserve the penitentiary." Continuing, he told us his story."*

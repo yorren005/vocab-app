@@ -5,13 +5,6 @@ status: unread
 ---
 # democratically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a democratic manner; based on democratic principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a democratic manner; based on democratic principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratically designates in a democratic manner; based on democratic principles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a democratic manner; based on democratic principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a democratic manner; based on democratic principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratically designates in a democratic manner; based on democratic principles."*

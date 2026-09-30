@@ -5,15 +5,6 @@ status: unread
 ---
 # enclitic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clitic that is associated with a preceding word : a word that is treated in pronunciation as forming a part of a preceding word and that is often unaccented or contracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clitic that is associated with a preceding word : a word that is treated in pronunciation as forming a part of a preceding word and that is often unaccented or contracted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Sir,-- In a clever article this morning you speak of ‘the doctrine of the enclitic De’--‘which, with all deference to Mr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning: but pray defer to Herr Buttmann, whose fifth list of ‘enclitics’ ends ‘with the inseparable De’--or to Curtius, whose fifth list ends also with ‘De (meaning ‘towards’ and as a demonstrative appendage)’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clitic that is associated with a preceding word : a word that is treated in pronunciation as forming a part of a preceding word and that is often unaccented or contracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clitic that is associated with a preceding word : a word that is treated in pronunciation as forming a part of a preceding word and that is often unaccented or contracted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Sir,-- In a clever article this morning you speak of ‘the doctrine of the enclitic De’--‘which, with all deference to Mr."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning: but pray defer to Herr Buttmann, whose fifth list of ‘enclitics’ ends ‘with the inseparable De’--or to Curtius, whose fifth list ends also with ‘De (meaning ‘towards’ and as a demonstrative appendage)’."*

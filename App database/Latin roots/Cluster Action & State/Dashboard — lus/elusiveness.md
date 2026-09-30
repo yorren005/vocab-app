@@ -5,14 +5,6 @@ status: unread
 ---
 # elusiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being difficult to grasp or pin down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being difficult to grasp or pin down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In its partizan phase socialism exhibits all of the baffling variability and elusiveness that it does in its other aspects."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Poetry hath an advantage over prose." "But an advantage compensated on the other hand by the elusiveness of its lightsome spirit, its grace so easily lost," said a poet who wrote songs for the pleasure of the Court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being difficult to grasp or pin down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being difficult to grasp or pin down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In its partizan phase socialism exhibits all of the baffling variability and elusiveness that it does in its other aspects."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Poetry hath an advantage over prose." "But an advantage compensated on the other hand by the elusiveness of its lightsome spirit, its grace so easily lost," said a poet who wrote songs for the pleasure of the Court."*

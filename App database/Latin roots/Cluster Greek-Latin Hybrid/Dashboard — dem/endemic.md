@@ -5,13 +5,6 @@ status: unread
 ---
 # endemic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that is constantly present to a greater or lesser degree in people of a certain class or in people living in a particular location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that is native to a certain limited area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What endemic characteristics were present?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that is constantly present to a greater or lesser degree in people of a certain class or in people living in a particular location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that is native to a certain limited area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What endemic characteristics were present?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tuber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy underground stem or root serving for reproductive and food storage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tuberaceae: fungi whose fruiting bodies are typically truffles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Sometimes—especially on the smoother kinds of tuber—two or more regular systems of concentric spots are exhibited on the same tuber."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"As already stated, this little fungus makes its first appearance on the under surface of the leaves, especially the lower ones, of the potato plant, and afterwards attacks the stem, and ultimately the tuber."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"When their potato tubers were fit to be eaten, the brother (Waahila Rain) made a double _imu_ (oven), having a _kapu_, or sacred side, for his food and a _noa_, or free side, for his sister."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy underground stem or root serving for reproductive and food storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tuberaceae: fungi whose fruiting bodies are typically truffles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Sometimes—especially on the smoother kinds of tuber—two or more regular systems of concentric spots are exhibited on the same tuber."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"As already stated, this little fungus makes its first appearance on the under surface of the leaves, especially the lower ones, of the potato plant, and afterwards attacks the stem, and ultimately the tuber."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"When their potato tubers were fit to be eaten, the brother (Waahila Rain) made a double _imu_ (oven), having a _kapu_, or sacred side, for his food and a _noa_, or free side, for his sister."*

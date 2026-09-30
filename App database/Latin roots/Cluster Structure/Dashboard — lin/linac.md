@@ -5,13 +5,6 @@ status: unread
 ---
 # linac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ions are accelerated along a linear path by voltage differences on electrodes along the path.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ions are accelerated along a linear path by voltage differences on electrodes along the path.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linac designates ions are accelerated along a linear path by voltage differences on electrodes along the path."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ions are accelerated along a linear path by voltage differences on electrodes along the path.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ions are accelerated along a linear path by voltage differences on electrodes along the path.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linac designates ions are accelerated along a linear path by voltage differences on electrodes along the path."*

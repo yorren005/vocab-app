@@ -5,15 +5,6 @@ status: unread
 ---
 # hospitality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kindness in welcoming guests or strangers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kindness in welcoming guests or strangers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master is of churlish disposition And little recks to find the way to heaven By doing deeds of hospitality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoth she, “Reward not hospitality With such black payment as thou hast pretended; Mud not the fountain that gave drink to thee, Mar not the thing that cannot be amended."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hope your time is not so precious but that you will allow my Lady and myself to offer you the hospitality of Chesney Wold, for to-night at least.” “I hope so,” adds my Lady."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kindness in welcoming guests or strangers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kindness in welcoming guests or strangers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master is of churlish disposition And little recks to find the way to heaven By doing deeds of hospitality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoth she, “Reward not hospitality With such black payment as thou hast pretended; Mud not the fountain that gave drink to thee, Mar not the thing that cannot be amended."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I hope your time is not so precious but that you will allow my Lady and myself to offer you the hospitality of Chesney Wold, for to-night at least.” “I hope so,” adds my Lady."*

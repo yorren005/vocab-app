@@ -5,15 +5,6 @@ status: unread
 ---
 # rehabilitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restoration of someone to a useful place in society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of wasteland into land suitable for use of habitation or cultivation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are inmates in the Social Rehabilitation Center of Guardian Station 15, about five million kay outbound from the Asteroid Belt's rim, or what was the Belt before the space-miners got through with it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our job is custodianship of those who can't adjust to the realities of our society, and rehabilitation and training of those who can be helped, eventually, to return to the outside world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The restoration of someone to a useful place in society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of wasteland into land suitable for use of habitation or cultivation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are inmates in the Social Rehabilitation Center of Guardian Station 15, about five million kay outbound from the Asteroid Belt's rim, or what was the Belt before the space-miners got through with it."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our job is custodianship of those who can't adjust to the realities of our society, and rehabilitation and training of those who can be helped, eventually, to return to the outside world."*

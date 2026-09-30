@@ -5,15 +5,6 @@ status: unread
 ---
 # annapolis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State capital of maryland; site of the united states naval academy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State capital of maryland; site of the united states naval academy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As all of these, however, had reference, either to the recommendation from the meeting at Annapolis, in September, 1786, or to that from Congress, in February, 1787, it will be sufficient to recur to these particular acts."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Parrish's labors in connection with it--The tour of inspection at the Annapolis hospitals--Letters to the Sanitary Commission--Condition of the returned prisoners--Their hunger--The St."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Vanderkieft--The Naval Academy Hospital at Annapolis--In charge of Section five--Succeeds Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State capital of maryland; site of the united states naval academy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State capital of maryland; site of the united states naval academy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As all of these, however, had reference, either to the recommendation from the meeting at Annapolis, in September, 1786, or to that from Congress, in February, 1787, it will be sufficient to recur to these particular acts."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Parrish's labors in connection with it--The tour of inspection at the Annapolis hospitals--Letters to the Sanitary Commission--Condition of the returned prisoners--Their hunger--The St."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Vanderkieft--The Naval Academy Hospital at Annapolis--In charge of Section five--Succeeds Mrs."*

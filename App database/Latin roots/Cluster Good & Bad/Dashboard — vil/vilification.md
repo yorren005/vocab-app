@@ -5,13 +5,6 @@ status: unread
 ---
 # vilification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slanderous defamation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rude expression intended to offend or hurt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vilification designates slanderous defamation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slanderous defamation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rude expression intended to offend or hurt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vilification designates slanderous defamation."*

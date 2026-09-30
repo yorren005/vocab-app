@@ -5,15 +5,6 @@ status: unread
 ---
 # lei
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wreath or necklace usually of flowers or leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic monetary unit of Moldova and Romania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was married to Lei-Lei, the king’s sister, who was a fraction over six feet and only by that fraction topped me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Negli occhi porta la mia donna Amore; Per che si fa gentil ciò ch’ella mira: Ov’ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Sicchè, bassando il viso, tutto smore, E d’ogni suo difetto allor sospira: Fuggon dinanzi a lei Superbia ed Ira: Aiutatemi, donne, a farle onore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wreath or necklace usually of flowers or leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic monetary unit of Moldova and Romania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was married to Lei-Lei, the king’s sister, who was a fraction over six feet and only by that fraction topped me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Negli occhi porta la mia donna Amore; Per che si fa gentil ciò ch’ella mira: Ov’ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Sicchè, bassando il viso, tutto smore, E d’ogni suo difetto allor sospira: Fuggon dinanzi a lei Superbia ed Ira: Aiutatemi, donne, a farle onore."*

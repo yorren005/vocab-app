@@ -5,14 +5,6 @@ status: unread
 ---
 # accessary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps another person commit a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aiding and abetting in a crime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your accessary; and so farewell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To both their deaths shalt thou be accessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps another person commit a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aiding and abetting in a crime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your accessary; and so farewell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To both their deaths shalt thou be accessary."*

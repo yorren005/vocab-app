@@ -5,15 +5,6 @@ status: unread
 ---
 # reverberate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring or echo with sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a long or continuing effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The first shots had not yet ceased to reverberate before others rang out and yet more were heard mingling with and overtaking one another."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"But I've seen it illumed with a mischievous light, Which the sparkles displayed in the meteor's flight Cannot meet, as her laughter reverberates round, And merrily echo responds to the sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring or echo with sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a long or continuing effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The first shots had not yet ceased to reverberate before others rang out and yet more were heard mingling with and overtaking one another."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"But I've seen it illumed with a mischievous light, Which the sparkles displayed in the meteor's flight Cannot meet, as her laughter reverberates round, And merrily echo responds to the sound."*

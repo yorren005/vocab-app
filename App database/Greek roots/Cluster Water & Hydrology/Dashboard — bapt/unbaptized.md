@@ -5,13 +5,6 @@ status: unread
 ---
 # unbaptized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having undergone the christian ritual of baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having undergone the christian ritual of baptism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The host he blesses is black and has three points; he consecrates no wine, but instead he drinks the water of a well into which the body of an unbaptized infant has been flung."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having undergone the christian ritual of baptism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having undergone the christian ritual of baptism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The host he blesses is black and has three points; he consecrates no wine, but instead he drinks the water of a well into which the body of an unbaptized infant has been flung."*

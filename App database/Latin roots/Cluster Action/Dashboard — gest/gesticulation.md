@@ -5,15 +5,6 @@ status: unread
 ---
 # gesticulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate and vigorous gesture or motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate and vigorous gesture or motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nothing can exceed the fierce gesticulation of these people when animated in conversation, and on this occasion they gave loose to all their natural vivacity, shouting and dancing about in a manner that well nigh intimidated us."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In vain I questioned Kory-Kory and others of the natives, as to the meaning of the strange things that were going on; all their explanations were conveyed in such a mass of outlandish gibberish and gesticulation that I gave up the attempt in despair."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"But he was evidently most solicitous about the musical part of the service, keeping his eye fixed intently on the choir, and beating time with much gesticulation and emphasis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate and vigorous gesture or motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate and vigorous gesture or motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nothing can exceed the fierce gesticulation of these people when animated in conversation, and on this occasion they gave loose to all their natural vivacity, shouting and dancing about in a manner that well nigh intimidated us."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In vain I questioned Kory-Kory and others of the natives, as to the meaning of the strange things that were going on; all their explanations were conveyed in such a mass of outlandish gibberish and gesticulation that I gave up the attempt in despair."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"But he was evidently most solicitous about the musical part of the service, keeping his eye fixed intently on the choir, and beating time with much gesticulation and emphasis."*

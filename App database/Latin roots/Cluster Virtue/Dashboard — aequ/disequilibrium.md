@@ -5,13 +5,6 @@ status: unread
 ---
 # disequilibrium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of equilibrium attributable to an unstable situation in which some forces outweigh others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of equilibrium attributable to an unstable situation in which some forces outweigh others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disequilibrium designates loss of equilibrium attributable to an unstable situation in which some forces outweigh others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of equilibrium attributable to an unstable situation in which some forces outweigh others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of equilibrium attributable to an unstable situation in which some forces outweigh others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disequilibrium designates loss of equilibrium attributable to an unstable situation in which some forces outweigh others."*

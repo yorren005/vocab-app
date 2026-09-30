@@ -5,15 +5,6 @@ status: unread
 ---
 # directly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without deviation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without anyone or anything intervening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was too hard for him directly, to say the troth on’t, before Corioles; he scotched him and notched him like a carbonado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or, like the Parthian, I shall flying fight; Rather, directly fly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without deviation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without anyone or anything intervening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was too hard for him directly, to say the troth on’t, before Corioles; he scotched him and notched him like a carbonado."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or, like the Parthian, I shall flying fight; Rather, directly fly."*

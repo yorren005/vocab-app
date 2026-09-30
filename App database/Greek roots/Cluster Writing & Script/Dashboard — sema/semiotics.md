@@ -5,13 +5,6 @@ status: unread
 ---
 # semiotics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory of the functions of signs and symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory of the functions of signs and symbols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotics designates (philosophy) a philosophical theory of the functions of signs and symbols."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory of the functions of signs and symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory of the functions of signs and symbols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotics designates (philosophy) a philosophical theory of the functions of signs and symbols."*

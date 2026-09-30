@@ -5,15 +5,6 @@ status: unread
 ---
 # oftentimes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Many times at short intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Many times at short intervals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This woman that I mean, My wife (but, I protest, without desert) Hath oftentimes upbraided me withal; To her will we to dinner.—Get you home And fetch the chain, by this I know ’tis made."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’tis strange: And oftentimes to win us to our harm, The instruments of darkness tell us truths; Win us with honest trifles, to betray’s In deepest consequence.— Cousins, a word, I pray you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TRANIO. ’Tis some odd humour pricks him to this fashion; Yet oftentimes he goes but mean-apparell’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Many times at short intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Many times at short intervals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This woman that I mean, My wife (but, I protest, without desert) Hath oftentimes upbraided me withal; To her will we to dinner.—Get you home And fetch the chain, by this I know ’tis made."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’tis strange: And oftentimes to win us to our harm, The instruments of darkness tell us truths; Win us with honest trifles, to betray’s In deepest consequence.— Cousins, a word, I pray you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TRANIO. ’Tis some odd humour pricks him to this fashion; Yet oftentimes he goes but mean-apparell’d."*

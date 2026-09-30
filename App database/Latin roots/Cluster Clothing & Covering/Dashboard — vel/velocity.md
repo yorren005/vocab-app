@@ -5,15 +5,6 @@ status: unread
 ---
 # velocity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distance travelled per unit time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distance travelled per unit time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"No I won’t.” The velocity and certainty of Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The experienced ear of Oak knew the sound he now heard to be caused by the running of the flock with great velocity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In due time a small stream began to trickle through the seventy feet of aerial space between its mouth and the ground, which the water-drops smote like duckshot in their accelerated velocity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distance travelled per unit time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distance travelled per unit time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"No I won’t.” The velocity and certainty of Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The experienced ear of Oak knew the sound he now heard to be caused by the running of the flock with great velocity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In due time a small stream began to trickle through the seventy feet of aerial space between its mouth and the ground, which the water-drops smote like duckshot in their accelerated velocity."*

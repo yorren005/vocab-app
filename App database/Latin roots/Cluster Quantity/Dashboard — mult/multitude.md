@@ -5,15 +5,6 @@ status: unread
 ---
 # multitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large indefinite number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large gathering of people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ingratitude is monstrous, and for the multitude to be ingrateful were to make a monster of the multitude, of the which we being members, should bring ourselves to be monstrous members."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to make us no better thought of, a little help will serve; for once we stood up about the corn, he himself stuck not to call us the many-headed multitude."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall this bosom multitude digest The senate’s courtesy?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large indefinite number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large gathering of people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ingratitude is monstrous, and for the multitude to be ingrateful were to make a monster of the multitude, of the which we being members, should bring ourselves to be monstrous members."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to make us no better thought of, a little help will serve; for once we stood up about the corn, he himself stuck not to call us the many-headed multitude."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall this bosom multitude digest The senate’s courtesy?"*

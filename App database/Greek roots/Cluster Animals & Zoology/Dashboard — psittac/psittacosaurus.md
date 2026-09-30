@@ -5,13 +5,6 @@ status: unread
 ---
 # psittacosaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacosaurus designates primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacosaurus designates primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal."*

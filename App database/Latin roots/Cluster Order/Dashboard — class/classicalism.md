@@ -5,13 +5,6 @@ status: unread
 ---
 # classicalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicalism designates a movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicalism designates a movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms."*

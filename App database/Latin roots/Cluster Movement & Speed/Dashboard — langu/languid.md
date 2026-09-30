@@ -5,15 +5,6 @@ status: unread
 ---
 # languid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spirit or liveliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spirit or liveliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For whom everything must be languid and pretty."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is of such a very easy disposition that probably he would never think it worth while to mention how he really feels, but he feels languid about the profession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"C., but for the zealous and active discharge—not the languid and routine discharge, sir: that much credit I stipulate for—of my professional duty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spirit or liveliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spirit or liveliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For whom everything must be languid and pretty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is of such a very easy disposition that probably he would never think it worth while to mention how he really feels, but he feels languid about the profession."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"C., but for the zealous and active discharge—not the languid and routine discharge, sir: that much credit I stipulate for—of my professional duty."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # parthenon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main temple of the goddess athena; built on the acropolis in athens more than 400 years b.c.; example of doric architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main temple of the goddess athena; built on the acropolis in athens more than 400 years b.c.; example of doric architecture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Theseus: a reclining statue from the eastern pediment of the Parthenon, now in the British Museum."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"You spoke out so plainly with squealing and capering, With whinnying, snorting, contorting and prancing, As you dodged your pursuers, looking askance, With Greek-footed figures, and Parthenon paces, O broncho that would not be broken of dancing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The main temple of the goddess athena; built on the acropolis in athens more than 400 years b.c.; example of doric architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main temple of the goddess athena; built on the acropolis in athens more than 400 years b.c.; example of doric architecture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Theseus: a reclining statue from the eastern pediment of the Parthenon, now in the British Museum."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"You spoke out so plainly with squealing and capering, With whinnying, snorting, contorting and prancing, As you dodged your pursuers, looking askance, With Greek-footed figures, and Parthenon paces, O broncho that would not be broken of dancing."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # reflectance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction of radiant energy that is reflected from a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraction of radiant energy that is reflected from a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectance designates the fraction of radiant energy that is reflected from a surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction of radiant energy that is reflected from a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraction of radiant energy that is reflected from a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflectance designates the fraction of radiant energy that is reflected from a surface."*

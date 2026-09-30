@@ -5,15 +5,6 @@ status: unread
 ---
 # hieroglyphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing that resembles hieroglyphics (usually by being illegible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writing system using picture symbols; used in ancient egypt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had dreamed of an aged and dignified face, the sublimation of all the d’Urberville lineaments, furrowed with incarnate memories representing in hieroglyphic the centuries of her family’s and England’s history."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By my retentive memory of the hieroglyphics upon one Sperm Whale in particular, I was much struck with a plate representing the old Indian characters chiselled on the famous hieroglyphic palisades on the banks of the Upper Mississippi."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"That the one is likely to appear on the walls of latrines and the other to be cut in glass by a diamond is part of what Johnson would have called the "Hieroglyphic" significance of this collection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing that resembles hieroglyphics (usually by being illegible).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writing system using picture symbols; used in ancient egypt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had dreamed of an aged and dignified face, the sublimation of all the d’Urberville lineaments, furrowed with incarnate memories representing in hieroglyphic the centuries of her family’s and England’s history."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By my retentive memory of the hieroglyphics upon one Sperm Whale in particular, I was much struck with a plate representing the old Indian characters chiselled on the famous hieroglyphic palisades on the banks of the Upper Mississippi."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"That the one is likely to appear on the walls of latrines and the other to be cut in glass by a diamond is part of what Johnson would have called the "Hieroglyphic" significance of this collection."*

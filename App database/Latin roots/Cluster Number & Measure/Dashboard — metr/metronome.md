@@ -5,13 +5,6 @@ status: unread
 ---
 # metronome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clicking pendulum indicates the exact tempo of a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clicking pendulum indicates the exact tempo of a piece of music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There's an old metronome up-stairs that Cyril left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clicking pendulum indicates the exact tempo of a piece of music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clicking pendulum indicates the exact tempo of a piece of music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There's an old metronome up-stairs that Cyril left."*

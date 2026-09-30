@@ -5,13 +5,6 @@ status: unread
 ---
 # commonage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property held in common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Property held in common.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His politeness for the fair sex has already been hinted at by Miss Rebecca Sharp--in a word, the whole baronetage, peerage, commonage of England, did not contain a more cunning, mean, selfish, foolish, disreputable old man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property held in common.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Property held in common.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His politeness for the fair sex has already been hinted at by Miss Rebecca Sharp--in a word, the whole baronetage, peerage, commonage of England, did not contain a more cunning, mean, selfish, foolish, disreputable old man."*

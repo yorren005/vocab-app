@@ -5,13 +5,6 @@ status: unread
 ---
 # conformist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who conforms to established standards of conduct (especially in religious matters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by convention and conformity to customs or rules or styles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conformist designates someone who conforms to established standards of conduct (especially in religious matters)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who conforms to established standards of conduct (especially in religious matters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by convention and conformity to customs or rules or styles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conformist designates someone who conforms to established standards of conduct (especially in religious matters)."*

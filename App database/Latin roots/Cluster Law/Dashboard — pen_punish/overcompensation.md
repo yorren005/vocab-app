@@ -5,13 +5,6 @@ status: unread
 ---
 # overcompensation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive compensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcompensation designates (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive compensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcompensation designates (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite."*

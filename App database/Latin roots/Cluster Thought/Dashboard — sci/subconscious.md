@@ -5,15 +5,6 @@ status: unread
 ---
 # subconscious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychic activity just below the level of awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Just below the level of consciousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If by hypnotism the conscious mind were put to sleep, and the subconscious mind awakened, then was the thing accomplished, then would all the dungeon doors of the brain be thrown wide, then would the prisoners emerge into the sunshine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By self-hypnosis, which I began successfully to practise, I became able to put my conscious mind to sleep and to awaken and loose my subconscious mind."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But these were dreams, frank dreams, fancied adventures of my deductive subconscious mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychic activity just below the level of awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Just below the level of consciousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If by hypnotism the conscious mind were put to sleep, and the subconscious mind awakened, then was the thing accomplished, then would all the dungeon doors of the brain be thrown wide, then would the prisoners emerge into the sunshine."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By self-hypnosis, which I began successfully to practise, I became able to put my conscious mind to sleep and to awaken and loose my subconscious mind."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But these were dreams, frank dreams, fancied adventures of my deductive subconscious mind."*

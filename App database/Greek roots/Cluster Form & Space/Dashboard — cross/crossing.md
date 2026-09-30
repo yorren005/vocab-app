@@ -5,15 +5,6 @@ status: unread
 ---
 # crossing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling across.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow area in a stream that can be forded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is true, without any slips of prolixity or crossing the plain highway of talk, that the good Antonio, the honest Antonio,—O that I had a title good enough to keep his name company!— SALARINO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens do lower upon you for some ill; Move them no more by crossing their high will. [_Exeunt Capulet, Lady Capulet, Paris and Friar._] FIRST MUSICIAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what I speak, or do, or think to do, You are still crossing it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling across.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow area in a stream that can be forded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is true, without any slips of prolixity or crossing the plain highway of talk, that the good Antonio, the honest Antonio,—O that I had a title good enough to keep his name company!— SALARINO."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens do lower upon you for some ill; Move them no more by crossing their high will. [_Exeunt Capulet, Lady Capulet, Paris and Friar._] FIRST MUSICIAN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what I speak, or do, or think to do, You are still crossing it."*

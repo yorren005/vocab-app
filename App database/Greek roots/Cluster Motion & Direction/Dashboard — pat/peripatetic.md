@@ -5,15 +5,6 @@ status: unread
 ---
 # peripatetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or given to walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or traveling from place to place : itinerant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She had sometimes taken pupils in a peripatetic fashion, making them follow her about in the kitchen with their book or slate."*
-> - 📜 **James Joyce (*Ulysses*):** *"God: noise in the street: very peripatetic."*
-> - 📜 **James Joyce (*Ulysses*):** *"To inaugurate a series of static, semistatic and peripatetic intellectual dialogues, places the residence of both speakers (if both speakers were resident in the same place), the _Ship_ hotel and tavern, 6 Lower Abbey street (W. and E."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or given to walking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or traveling from place to place : itinerant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She had sometimes taken pupils in a peripatetic fashion, making them follow her about in the kitchen with their book or slate."*
+> - 📜 **James Joyce (*Ulysses*):** *"God: noise in the street: very peripatetic."*
+> - 📜 **James Joyce (*Ulysses*):** *"To inaugurate a series of static, semistatic and peripatetic intellectual dialogues, places the residence of both speakers (if both speakers were resident in the same place), the _Ship_ hotel and tavern, 6 Lower Abbey street (W. and E."*

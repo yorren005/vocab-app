@@ -5,15 +5,6 @@ status: unread
 ---
 # commonness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being that is commonly observed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Where then lay the spots of commonness? says a young lady enamoured of that careless grace."*
-> - 📜 **George Eliot (*Middlemarch*):** *"How could there be any commonness in a man so well-bred, so ambitious of social distinction, so generous and unusual in his views of social duty?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the rest of practical life he walked by hereditary habit; half from that personal pride and unreflecting egoism which I have already called commonness, and half from that naivete which belonged to preoccupation with favorite ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being that is commonly observed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Where then lay the spots of commonness? says a young lady enamoured of that careless grace."*
+> - 📜 **George Eliot (*Middlemarch*):** *"How could there be any commonness in a man so well-bred, so ambitious of social distinction, so generous and unusual in his views of social duty?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the rest of practical life he walked by hereditary habit; half from that personal pride and unreflecting egoism which I have already called commonness, and half from that naivete which belonged to preoccupation with favorite ideas."*

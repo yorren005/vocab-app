@@ -5,15 +5,6 @@ status: unread
 ---
 # move
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deciding to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing your residence or place of business.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deciding to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing your residence or place of business.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*

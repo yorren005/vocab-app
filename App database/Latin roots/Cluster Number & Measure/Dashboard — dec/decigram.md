@@ -5,13 +5,6 @@ status: unread
 ---
 # decigram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 1/10 gram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 1/10 gram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decigram designates 1/10 gram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 1/10 gram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 1/10 gram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decigram designates 1/10 gram."*

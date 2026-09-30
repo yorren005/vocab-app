@@ -5,15 +5,6 @@ status: unread
 ---
 # text
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The words of something written.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage from the bible that is used as the subject of a sermon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thank you too; for society, saith the text, is the happiness of life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And certes, the text most infallibly concludes it. [_To Dull_.] Sir, I do invite you too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair as a text B in a copy-book."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The words of something written.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage from the bible that is used as the subject of a sermon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thank you too; for society, saith the text, is the happiness of life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And certes, the text most infallibly concludes it. [_To Dull_.] Sir, I do invite you too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair as a text B in a copy-book."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # carnal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the appetites and passions of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the body or flesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shall you hear Of carnal, bloody and unnatural acts, Of accidental judgements, casual slaughters, Of deaths put on by cunning and forc’d cause, And, in this upshot, purposes mistook Fall’n on the inventors’ heads."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O upright, just, and true-disposing God, How do I thank thee that this carnal cur Preys on the issue of his mother’s body, And makes her pew-fellow with others’ moan!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the appetites and passions of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the body or flesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shall you hear Of carnal, bloody and unnatural acts, Of accidental judgements, casual slaughters, Of deaths put on by cunning and forc’d cause, And, in this upshot, purposes mistook Fall’n on the inventors’ heads."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O upright, just, and true-disposing God, How do I thank thee that this carnal cur Preys on the issue of his mother’s body, And makes her pew-fellow with others’ moan!"*

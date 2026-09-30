@@ -5,15 +5,6 @@ status: unread
 ---
 # equinoctial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great circle on the celestial sphere midway between the celestial poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the vicinity of the equator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In sooth, thou wast in very gracious fooling last night when thou spok’st of Pigrogromitus, of the Vapians passing the equinoctial of Queubus; ’twas very good, i’ faith."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"L She plunged into the chilly equinoctial darkness as the clock struck ten, for her fifteen miles’ walk under the steely stars."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Again, the season was far advanced, for in the Antarctic regions the 13th of March corresponds with the 13th of September of northern regions, which begin at the equinoctial season."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great circle on the celestial sphere midway between the celestial poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the vicinity of the equator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In sooth, thou wast in very gracious fooling last night when thou spok’st of Pigrogromitus, of the Vapians passing the equinoctial of Queubus; ’twas very good, i’ faith."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"L She plunged into the chilly equinoctial darkness as the clock struck ten, for her fifteen miles’ walk under the steely stars."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Again, the season was far advanced, for in the Antarctic regions the 13th of March corresponds with the 13th of September of northern regions, which begin at the equinoctial season."*

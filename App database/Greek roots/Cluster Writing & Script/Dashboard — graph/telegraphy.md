@@ -5,15 +5,6 @@ status: unread
 ---
 # telegraphy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use or operation of a telegraph apparatus or system for communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telegraphy carried on by radio waves and without connecting wires —called also wireless telegraph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental telegraphy The clay cannot reply to the potter."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Neither immortal and unerring Mind nor matter, 243:21 the inanimate substratum of mortal mind, can carry on such telegraphy; for God is "of purer eyes than to behold evil," and matter has neither intelligence nor 243:24 sensation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Automatic mechanism So-called mortal mind sends its despatches over its 399:12 body, but this so-called mind is both the service and message of this telegraphy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use or operation of a telegraph apparatus or system for communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telegraphy carried on by radio waves and without connecting wires —called also wireless telegraph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental telegraphy The clay cannot reply to the potter."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Neither immortal and unerring Mind nor matter, 243:21 the inanimate substratum of mortal mind, can carry on such telegraphy; for God is "of purer eyes than to behold evil," and matter has neither intelligence nor 243:24 sensation."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Automatic mechanism So-called mortal mind sends its despatches over its 399:12 body, but this so-called mind is both the service and message of this telegraphy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # abstraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concept or idea not associated with any specific instance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withdrawing or removing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Aye!” said the old man, coming slowly out of his abstraction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has shown neither patience nor impatience, nor attention nor abstraction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby notices that both the constable and his guide fall into a deep abstraction as they come towards each other, and appear entirely to overlook each other, and to gaze into space."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concept or idea not associated with any specific instance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withdrawing or removing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Aye!” said the old man, coming slowly out of his abstraction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has shown neither patience nor impatience, nor attention nor abstraction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby notices that both the constable and his guide fall into a deep abstraction as they come towards each other, and appear entirely to overlook each other, and to gaze into space."*

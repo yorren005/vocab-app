@@ -5,15 +5,6 @@ status: unread
 ---
 # prosecution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The institution and conduct of legal proceedings against a defendant for criminal behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lawyers acting for the state to put the case against the defendant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It opposed no positive action to the making of monopolistic contracts and to the formation of combinations, but declared them to be illegal and provided for their prosecution and punishment after the mischief had been done."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Roosevelt, stood in the main for the policy of "monopoly-accepted-and-regulated"; its program called for minimizing prosecution and for developing a system of regulation of trust-prices."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When the prosecution opened and the evidence was put short, aforehand, I noticed how heavy it all bore on me, and how light on him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The institution and conduct of legal proceedings against a defendant for criminal behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lawyers acting for the state to put the case against the defendant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It opposed no positive action to the making of monopolistic contracts and to the formation of combinations, but declared them to be illegal and provided for their prosecution and punishment after the mischief had been done."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Roosevelt, stood in the main for the policy of "monopoly-accepted-and-regulated"; its program called for minimizing prosecution and for developing a system of regulation of trust-prices."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"When the prosecution opened and the evidence was put short, aforehand, I noticed how heavy it all bore on me, and how light on him."*

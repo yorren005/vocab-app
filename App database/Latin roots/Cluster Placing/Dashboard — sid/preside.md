@@ -5,15 +5,6 @@ status: unread
 ---
 # preside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as president.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as president.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Strangers filling their place!” No, except when she thought of her mother, and remembered where she had been used to sit and preside, she had no sigh of that description to heave."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His sisters were very anxious for his having an estate of his own; but though he was now established only as a tenant, Miss Bingley was by no means unwilling to preside at his table; nor was Mrs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This power ought to be coextensive with all the possible combinations of such circumstances; and ought to be under the direction of the same councils which are appointed to preside over the common defense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as president.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as president.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Strangers filling their place!” No, except when she thought of her mother, and remembered where she had been used to sit and preside, she had no sigh of that description to heave."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His sisters were very anxious for his having an estate of his own; but though he was now established only as a tenant, Miss Bingley was by no means unwilling to preside at his table; nor was Mrs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This power ought to be coextensive with all the possible combinations of such circumstances; and ought to be under the direction of the same councils which are appointed to preside over the common defense."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # signer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who can use sign language to communicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who signs and is bound by a document.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The ineffaceable, sad birth-mark in the brow of man, is but the stamp of sorrow in the signers."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The ineffaceable, sad birth-mark in the brow of man, is but the stamp of sorrow in the signers."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"What was said, sir, or rather what was not said, in those years, against John Adams, one of the signers of the Declaration of Independence, and its admitted ablest defender on the floor of Congress?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who can use sign language to communicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who signs and is bound by a document.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The ineffaceable, sad birth-mark in the brow of man, is but the stamp of sorrow in the signers."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The ineffaceable, sad birth-mark in the brow of man, is but the stamp of sorrow in the signers."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"What was said, sir, or rather what was not said, in those years, against John Adams, one of the signers of the Declaration of Independence, and its admitted ablest defender on the floor of Congress?"*

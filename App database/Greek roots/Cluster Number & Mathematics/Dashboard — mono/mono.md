@@ -5,13 +5,6 @@ status: unread
 ---
 # mono
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating sound transmission or recording or reproduction over a single channel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In forming a slag of similar oxygen ratio, thus— Mono-silicate of lime, 2CaO ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating sound transmission or recording or reproduction over a single channel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In forming a slag of similar oxygen ratio, thus— Mono-silicate of lime, 2CaO ."*

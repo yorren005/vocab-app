@@ -5,13 +5,6 @@ status: unread
 ---
 # prosencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: forebrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the anterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes especially the cerebral hemispheres, the thalamus, and the hypothalamus and that especially in higher vertebrates is the main control center for sensory and associative information processing, visceral functions, and voluntary motor functions —called also prosencephalon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosencephalon designates forebrain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: forebrain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the anterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes especially the cerebral hemispheres, the thalamus, and the hypothalamus and that especially in higher vertebrates is the main control center for sensory and associative information processing, visceral functions, and voluntary motor functions —called also prosencephalon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosencephalon designates forebrain."*

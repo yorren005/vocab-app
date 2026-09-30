@@ -5,13 +5,6 @@ status: unread
 ---
 # medico
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in medical school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed medical practitioner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I invite you heartily to remain, if you think in your feeble imaginings that you have devised fresh torture for me.” “He’s a wooz, a true-blue, dyed-in-the-wool wooz,” Doctor Jackson chanted, with the medico’s delight in a novelty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in medical school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed medical practitioner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I invite you heartily to remain, if you think in your feeble imaginings that you have devised fresh torture for me.” “He’s a wooz, a true-blue, dyed-in-the-wool wooz,” Doctor Jackson chanted, with the medico’s delight in a novelty."*

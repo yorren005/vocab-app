@@ -5,15 +5,6 @@ status: unread
 ---
 # decomposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The analysis of a vector field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a decomposed state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Thus they die in the open air; and at the end of ten days they are in a forward state of decomposition."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"She was in every way as beautiful as the spirit had appeared to him, and apparently decomposition had not yet set in."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When the substance is in a proper state for the next process, it betrays evidences of incipient decomposition; the fibres are relaxed and softened, and rendered perfectly malleable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The analysis of a vector field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a decomposed state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Thus they die in the open air; and at the end of ten days they are in a forward state of decomposition."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"She was in every way as beautiful as the spirit had appeared to him, and apparently decomposition had not yet set in."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When the substance is in a proper state for the next process, it betrays evidences of incipient decomposition; the fibres are relaxed and softened, and rendered perfectly malleable."*

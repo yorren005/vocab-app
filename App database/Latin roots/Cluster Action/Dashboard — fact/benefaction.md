@@ -5,15 +5,6 @@ status: unread
 ---
 # benefaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contribution of money or assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act intending or showing kindness and good will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been built by private enterprise, in the interest of the investors, not as a charity or as a public benefaction."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The custom is kept up through the benefaction of a certain Alexander Hogg, a native of the parish, who died about 1790 and left a small sum for the maintenance of a midsummer bonfire on the spot, because as a boy he had herded cattle on the hill."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Or a benefactor’s veto might impose such a negation on a man’s life that the consequent blank might be more cruel than the benefaction was generous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contribution of money or assistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act intending or showing kindness and good will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been built by private enterprise, in the interest of the investors, not as a charity or as a public benefaction."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The custom is kept up through the benefaction of a certain Alexander Hogg, a native of the parish, who died about 1790 and left a small sum for the maintenance of a midsummer bonfire on the spot, because as a boy he had herded cattle on the hill."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Or a benefactor’s veto might impose such a negation on a man’s life that the consequent blank might be more cruel than the benefaction was generous."*

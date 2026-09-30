@@ -5,13 +5,6 @@ status: unread
 ---
 # morph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: allomorph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a distinctive collocation of phones (such as a portmanteau form) that serves as the realization of more than one morpheme in a context (such as the French du for the sequence of de and le).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morph designates allomorph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: allomorph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a distinctive collocation of phones (such as a portmanteau form) that serves as the realization of more than one morpheme in a context (such as the French du for the sequence of de and le).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morph designates allomorph."*

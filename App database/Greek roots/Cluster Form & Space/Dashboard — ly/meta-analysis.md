@@ -5,13 +5,6 @@ status: unread
 ---
 # meta-analysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meta-analysis designates a quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meta-analysis designates a quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance."*

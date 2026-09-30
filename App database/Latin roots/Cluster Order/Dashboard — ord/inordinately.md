@@ -5,14 +5,6 @@ status: unread
 ---
 # inordinately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They do not manufacture sugar from it, but simply chew the cane, of which they are inordinately fond."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The Anglo-Saxon is fond of serious discussion and you reach him best through the sublime; the Negro is inordinately fond of joking and you get closest to him through the ludicrous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They do not manufacture sugar from it, but simply chew the cane, of which they are inordinately fond."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The Anglo-Saxon is fond of serious discussion and you reach him best through the sublime; the Negro is inordinately fond of joking and you get closest to him through the ludicrous."*

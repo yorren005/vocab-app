@@ -5,15 +5,6 @@ status: unread
 ---
 # mansion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) one of 12 equal areas into which the zodiac is divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and imposing house.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why so large cost having so short a lease, Dost thou upon thy fading mansion spend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I draw the sword myself; take it, and hit The innocent mansion of my love, my heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) one of 12 equal areas into which the zodiac is divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and imposing house.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why so large cost having so short a lease, Dost thou upon thy fading mansion spend?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I draw the sword myself; take it, and hit The innocent mansion of my love, my heart."*

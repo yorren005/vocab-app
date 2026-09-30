@@ -5,15 +5,6 @@ status: unread
 ---
 # german
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of german nationality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The standard german language; developed historically from west germanic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The phrase would be more german to the matter if we could carry cannon by our sides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of german nationality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The standard german language; developed historically from west germanic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The phrase would be more german to the matter if we could carry cannon by our sides."*

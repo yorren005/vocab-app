@@ -5,13 +5,6 @@ status: unread
 ---
 # epiphyllum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphyllum designates any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphyllum designates any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # manned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take charge of a certain job; occupy a certain work place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with workers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your ships are not well manned, Your mariners are muleteers, reapers, people Engrossed by swift impress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our overplus of shipping will we burn, And with the rest full-manned, from th’ head of Actium Beat th’ approaching Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never manned with an agate till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master, for a jewel,—the juvenal, the Prince your master, whose chin is not yet fledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take charge of a certain job; occupy a certain work place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with workers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your ships are not well manned, Your mariners are muleteers, reapers, people Engrossed by swift impress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our overplus of shipping will we burn, And with the rest full-manned, from th’ head of Actium Beat th’ approaching Caesar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never manned with an agate till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master, for a jewel,—the juvenal, the Prince your master, whose chin is not yet fledge."*

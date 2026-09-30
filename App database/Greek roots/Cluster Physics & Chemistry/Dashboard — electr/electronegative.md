@@ -5,13 +5,6 @@ status: unread
 ---
 # electronegative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a negative charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a negative charge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronegative designates having a negative charge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a negative charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a negative charge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronegative designates having a negative charge."*

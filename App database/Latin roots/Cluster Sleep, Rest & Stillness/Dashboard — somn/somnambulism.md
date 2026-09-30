@@ -5,15 +5,6 @@ status: unread
 ---
 # somnambulism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"THE MINISTER’S VIGIL Walking in the shadow of a dream, as it were, and perhaps actually under the influence of a species of somnambulism, Mr."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have never practised somnambulism before or since."*
-> - 📜 **James Joyce (*Ulysses*):** *"There have been cases of shipwreck and somnambulism in my client’s family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"THE MINISTER’S VIGIL Walking in the shadow of a dream, as it were, and perhaps actually under the influence of a species of somnambulism, Mr."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have never practised somnambulism before or since."*
+> - 📜 **James Joyce (*Ulysses*):** *"There have been cases of shipwreck and somnambulism in my client’s family."*

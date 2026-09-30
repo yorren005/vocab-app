@@ -5,15 +5,6 @@ status: unread
 ---
 # regal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or befitting a supreme ruler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or befitting a supreme ruler.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Charles, upon condition thou wilt swear To pay him tribute and submit thyself, Thou shalt be placed as viceroy under him, And still enjoy the regal dignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now art thou within point-blank of our jurisdiction regal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the palace of the fearful king, And this the regal seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or befitting a supreme ruler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or befitting a supreme ruler.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Charles, upon condition thou wilt swear To pay him tribute and submit thyself, Thou shalt be placed as viceroy under him, And still enjoy the regal dignity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now art thou within point-blank of our jurisdiction regal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the palace of the fearful king, And this the regal seat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # corresponding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply this life is best, If quiet life be best; sweeter to you That have a sharper known; well corresponding With your stiff age."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet returns thanks in a neat address of corresponding brevity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lays in a breakfast of two mutton chops as a foundation to work upon, together with tea, eggs, toast, and marmalade on a corresponding scale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply this life is best, If quiet life be best; sweeter to you That have a sharper known; well corresponding With your stiff age."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet returns thanks in a neat address of corresponding brevity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lays in a breakfast of two mutton chops as a foundation to work upon, together with tea, eggs, toast, and marmalade on a corresponding scale."*

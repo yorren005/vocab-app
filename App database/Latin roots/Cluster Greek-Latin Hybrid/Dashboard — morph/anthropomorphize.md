@@ -5,13 +5,6 @@ status: unread
 ---
 # anthropomorphize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribe human features to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe human features to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphize designates ascribe human features to something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribe human features to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe human features to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphize designates ascribe human features to something."*

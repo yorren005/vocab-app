@@ -5,15 +5,6 @@ status: unread
 ---
 # counteract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppose or check by a counteraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was deeply troubled at the wretchedly ironical aspect that circumstances were putting on with regard to Troy’s wife, and at his own powerlessness to counteract them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was some minutes before he could counteract his sudden wish to go in, and claim her."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Wallace Green congregation, however, sought to counteract it by an argument which amusingly shows how well they knew their man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in opposition to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppose or check by a counteraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was deeply troubled at the wretchedly ironical aspect that circumstances were putting on with regard to Troy’s wife, and at his own powerlessness to counteract them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was some minutes before he could counteract his sudden wish to go in, and claim her."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Wallace Green congregation, however, sought to counteract it by an argument which amusingly shows how well they knew their man."*

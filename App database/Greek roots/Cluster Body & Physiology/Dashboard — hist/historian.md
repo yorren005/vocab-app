@@ -5,15 +5,6 @@ status: unread
 ---
 # historian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is an authority on history and who studies it and writes about it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is an authority on history and who studies it and writes about it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The next most famous instance happened at Rheims six years earlier, and the historian in that case is Le Cat, one of the most renowned surgeons produced by France."*
-> - 📜 **Jane Austen (*Persuasion*):** *"So says my historian, at least."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Oh—nothing, nothing; except chasten yourself with the thought of ‘how are the mighty fallen.’ It is a fact of some interest to the local historian and genealogist, nothing more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is an authority on history and who studies it and writes about it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is an authority on history and who studies it and writes about it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The next most famous instance happened at Rheims six years earlier, and the historian in that case is Le Cat, one of the most renowned surgeons produced by France."*
+> - 📜 **Jane Austen (*Persuasion*):** *"So says my historian, at least."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Oh—nothing, nothing; except chasten yourself with the thought of ‘how are the mighty fallen.’ It is a fact of some interest to the local historian and genealogist, nothing more."*

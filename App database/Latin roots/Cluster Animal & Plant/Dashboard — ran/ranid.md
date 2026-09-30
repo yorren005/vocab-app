@@ -5,13 +5,6 @@ status: unread
 ---
 # ranid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranid designates insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranid designates insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs."*

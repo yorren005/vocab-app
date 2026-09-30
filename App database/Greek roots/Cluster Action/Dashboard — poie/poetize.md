@@ -5,13 +5,6 @@ status: unread
 ---
 # poetize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"You play a prominent part in this picture--seated at table bending over a nosegay of flowers, poetizing, before presenting them to mother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"You play a prominent part in this picture--seated at table bending over a nosegay of flowers, poetizing, before presenting them to mother."*

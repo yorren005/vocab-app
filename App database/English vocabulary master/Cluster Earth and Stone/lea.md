@@ -5,19 +5,6 @@ status: unread
 ---
 # lea
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Leather
-> 2. **Nuance / Usage**: Grassland, pasture
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the lea withstood the storm*), direct object (*cleaved the lea*), or prepositional anchor (*amidst the lea*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"little burgh whither I was bound, than of the charms of lea and water."*
-> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The curfew tolls the knell of parting day,<br>The lowing herd wind slowly o'er the lea,<br>The plowman homeward plods his weary way,<br>And leaves the world to darkness and to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,16 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Leather
+> 2. **Nuance / Usage**: Grassland, pasture
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the lea withstood the storm*), direct object (*cleaved the lea*), or prepositional anchor (*amidst the lea*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"little burgh whither I was bound, than of the charms of lea and water."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The curfew tolls the knell of parting day,<br>The lowing herd wind slowly o'er the lea,<br>The plowman homeward plods his weary way,<br>And leaves the world to darkness and to me."*

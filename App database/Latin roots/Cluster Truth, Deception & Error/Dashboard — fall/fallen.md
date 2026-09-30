@@ -5,15 +5,6 @@ status: unread
 ---
 # fallen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descend in free fall under the influence of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move downward and lower, but not necessarily all the way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a pur of Fortune’s, sir, or of Fortune’s cat, but not a musk-cat, that has fallen into the unclean fishpond of her displeasure, and as he says, is muddied withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descend in free fall under the influence of gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move downward and lower, but not necessarily all the way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a pur of Fortune’s, sir, or of Fortune’s cat, but not a musk-cat, that has fallen into the unclean fishpond of her displeasure, and as he says, is muddied withal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*

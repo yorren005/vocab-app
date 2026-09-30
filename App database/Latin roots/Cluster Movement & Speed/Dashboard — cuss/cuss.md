@@ -5,15 +5,6 @@ status: unread
 ---
 # cuss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistently annoying person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You seen that smooth-faced old cuss?” Laban said to father, after we had got outside and were returning to camp."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Cuss your black hide, young'un, I's gwine to break you from this snuff-stealin' and dippin'." Shoogie wasn't listening."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Hicks, cuss him, didn't show me how to make the damn lights work!" Mister Ward stopped the automobile and got out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistently annoying person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You seen that smooth-faced old cuss?” Laban said to father, after we had got outside and were returning to camp."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Cuss your black hide, young'un, I's gwine to break you from this snuff-stealin' and dippin'." Shoogie wasn't listening."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Hicks, cuss him, didn't show me how to make the damn lights work!" Mister Ward stopped the automobile and got out."*

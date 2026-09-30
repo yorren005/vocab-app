@@ -5,15 +5,6 @@ status: unread
 ---
 # tabor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small drum with one head of soft calfskin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small drum with one head of soft calfskin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The shepherd knows not thunder from a tabor More than I know the sound of Martius’ tongue From every meaner man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll make one in a dance, or so; or I will play on the tabor to the Worthies, and let them dance the hay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s not the tune. [_Ariel plays the tune on a tabor and pipe._] STEPHANO."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small drum with one head of soft calfskin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small drum with one head of soft calfskin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The shepherd knows not thunder from a tabor More than I know the sound of Martius’ tongue From every meaner man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll make one in a dance, or so; or I will play on the tabor to the Worthies, and let them dance the hay."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s not the tune. [_Ariel plays the tune on a tabor and pipe._] STEPHANO."*

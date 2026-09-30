@@ -5,15 +5,6 @@ status: unread
 ---
 # circumspect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heedful of potential consequences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heedful of potential consequences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not his smoothing words Bewitch your hearts; be wise and circumspect."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"High-reaching Buckingham grows circumspect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My life,” says the unhappy stationer, “would you have any objections to mention why, being in general so delicately circumspect in your conduct, you come into a wine-vaults before breakfast?” “Why do YOU come here?” inquires Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heedful of potential consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heedful of potential consequences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not his smoothing words Bewitch your hearts; be wise and circumspect."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"High-reaching Buckingham grows circumspect."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My life,” says the unhappy stationer, “would you have any objections to mention why, being in general so delicately circumspect in your conduct, you come into a wine-vaults before breakfast?” “Why do YOU come here?” inquires Mrs."*

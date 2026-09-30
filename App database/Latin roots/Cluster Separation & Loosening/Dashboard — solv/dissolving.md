@@ -5,15 +5,6 @@ status: unread
 ---
 # dissolving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of going into solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ev’n Wedlock asks not love beyond Death’s tie-dissolving portal; But thou, omnipotently fond, May’st promise love immortal!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"War! always war! and no theatre of scarlet and gold and cavalry charges, but a rat's war of mud and cold and fleas and unutterable, nerve-dissolving fatigue."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had plenty of oxygen; all this water contained a considerable quantity, and by dissolving it with our powerful piles, it would restore the vivifying fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of going into solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become weaker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ev’n Wedlock asks not love beyond Death’s tie-dissolving portal; But thou, omnipotently fond, May’st promise love immortal!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"War! always war! and no theatre of scarlet and gold and cavalry charges, but a rat's war of mud and cold and fleas and unutterable, nerve-dissolving fatigue."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had plenty of oxygen; all this water contained a considerable quantity, and by dissolving it with our powerful piles, it would restore the vivifying fluid."*

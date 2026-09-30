@@ -5,13 +5,6 @@ status: unread
 ---
 # ethos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethos designates the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethos designates the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic."*

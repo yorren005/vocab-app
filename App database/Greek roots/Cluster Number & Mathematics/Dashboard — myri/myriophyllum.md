@@ -5,13 +5,6 @@ status: unread
 ---
 # myriophyllum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly monoecious and usually aquatic herbs (as the milfoils).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly monoecious and usually aquatic herbs (as the milfoils).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriophyllum designates chiefly monoecious and usually aquatic herbs (as the milfoils)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly monoecious and usually aquatic herbs (as the milfoils).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly monoecious and usually aquatic herbs (as the milfoils).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriophyllum designates chiefly monoecious and usually aquatic herbs (as the milfoils)."*

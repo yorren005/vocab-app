@@ -5,15 +5,6 @@ status: unread
 ---
 # speculative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not financially safe or secure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on fact or investigation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts speculative their unsure hopes relate, But certain issue strokes must arbitrate; Towards which advance the war. [_Exeunt, marching._] SCENE V."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When sorrow ceases to be speculative, sleep sees her opportunity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not financially safe or secure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on fact or investigation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts speculative their unsure hopes relate, But certain issue strokes must arbitrate; Towards which advance the war. [_Exeunt, marching._] SCENE V."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When sorrow ceases to be speculative, sleep sees her opportunity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unexpressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made explicit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had indeed made my proposal from the idea that he wished and would ask me to be his wife: an expectation, not the less certain because unexpressed, had buoyed me up, that he would claim me at once as his own."*
-> - 📜 **Effie Afton (*Eventide*):** *"I can do so, but you prefer to be alone," interrupted the young man; "is not that what you would say?" "As you have been pleased to give expression to my unexpressed thoughts, I'll abide by your decision," she remarked quietly."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He leaned back, serene, with that peculiar smile of his sealing the unexpressed depths of his meanness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made explicit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made explicit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had indeed made my proposal from the idea that he wished and would ask me to be his wife: an expectation, not the less certain because unexpressed, had buoyed me up, that he would claim me at once as his own."*
+> - 📜 **Effie Afton (*Eventide*):** *"I can do so, but you prefer to be alone," interrupted the young man; "is not that what you would say?" "As you have been pleased to give expression to my unexpressed thoughts, I'll abide by your decision," she remarked quietly."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He leaned back, serene, with that peculiar smile of his sealing the unexpressed depths of his meanness."*

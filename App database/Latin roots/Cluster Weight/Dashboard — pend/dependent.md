@@ -5,15 +5,6 @@ status: unread
 ---
 # dependent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who relies on another person for support (especially financial support).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on or requiring a person or thing for support, supply, or what is needed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would on the whole admit nature to be a good idea (a little low, perhaps, when not enclosed with a park-fence), but an idea dependent for its execution on your great county families."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That she will faithfully apply herself to the acquisition of those accomplishments, upon the exercise of which she will be ultimately dependent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All this, instead of being as you now are, dependent on the mere caprice of Puffy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who relies on another person for support (especially financial support).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on or requiring a person or thing for support, supply, or what is needed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He would on the whole admit nature to be a good idea (a little low, perhaps, when not enclosed with a park-fence), but an idea dependent for its execution on your great county families."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That she will faithfully apply herself to the acquisition of those accomplishments, upon the exercise of which she will be ultimately dependent."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All this, instead of being as you now are, dependent on the mere caprice of Puffy!"*

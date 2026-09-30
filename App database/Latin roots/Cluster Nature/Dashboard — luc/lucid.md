@@ -5,15 +5,6 @@ status: unread
 ---
 # lucid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a clear mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had truly never thought so far as that, and his lucid picture of possible offspring who would scorn her was one that brought deadly convictions to an honest heart which was humanitarian to its centre."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These historical lectures were almost overweighted by the learning which he thus accumulated; but they were at once massive in their structure and orderly and lucid in their arrangement."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His speech is lucid, drives straight to the centre, to the principle, and is intelligible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a clear mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had truly never thought so far as that, and his lucid picture of possible offspring who would scorn her was one that brought deadly convictions to an honest heart which was humanitarian to its centre."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These historical lectures were almost overweighted by the learning which he thus accumulated; but they were at once massive in their structure and orderly and lucid in their arrangement."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"His speech is lucid, drives straight to the centre, to the principle, and is intelligible."*

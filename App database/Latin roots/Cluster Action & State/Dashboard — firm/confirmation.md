@@ -5,15 +5,6 @@ status: unread
 ---
 # confirmation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that confirms or verifies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not angry, Most mighty Princess, that I have adventur’d To try your taking of a false report, which hath Honour’d with confirmation your great judgement In the election of a sir so rare, Which you know cannot err."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To thee it shall descend with better quiet, Better opinion, better confirmation, For all the soil of the achievement goes With me into the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let heaven Witness how dear I hold this confirmation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that confirms or verifies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not angry, Most mighty Princess, that I have adventur’d To try your taking of a false report, which hath Honour’d with confirmation your great judgement In the election of a sir so rare, Which you know cannot err."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To thee it shall descend with better quiet, Better opinion, better confirmation, For all the soil of the achievement goes With me into the earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let heaven Witness how dear I hold this confirmation."*

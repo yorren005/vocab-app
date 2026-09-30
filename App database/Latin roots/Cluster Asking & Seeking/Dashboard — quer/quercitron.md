@@ -5,13 +5,6 @@ status: unread
 ---
 # quercitron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow dye made from the bark of the quercitron oak tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large deciduous timber tree of the eastern united states and southeastern canada having dark outer bark and yellow inner bark used for tanning; broad five-lobed leaves are bristle-tipped.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quercitron designates a yellow dye made from the bark of the quercitron oak tree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow dye made from the bark of the quercitron oak tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large deciduous timber tree of the eastern united states and southeastern canada having dark outer bark and yellow inner bark used for tanning; broad five-lobed leaves are bristle-tipped.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quercitron designates a yellow dye made from the bark of the quercitron oak tree."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dispatch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official report (usually sent in haste).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sending off something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch the most convenient messenger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, ere we put ourselves in arms, dispatch we The business we have talked of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch.—Enobarbus! [_Exeunt._] SCENE VI."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official report (usually sent in haste).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sending off something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch the most convenient messenger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, ere we put ourselves in arms, dispatch we The business we have talked of."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch.—Enobarbus! [_Exeunt._] SCENE VI."*

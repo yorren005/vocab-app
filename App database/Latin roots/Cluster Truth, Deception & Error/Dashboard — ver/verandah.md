@@ -5,15 +5,6 @@ status: unread
 ---
 # verandah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch along the outside of a building (sometimes partly enclosed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch along the outside of a building (sometimes partly enclosed).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I leant against a pillar of the verandah, drew my grey mantle close about me, and, trying to forget the cold which nipped me without, and the unsatisfied hunger which gnawed me within, delivered myself up to the employment of watching and thinking."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The only marked event of the afternoon was, that I saw the girl with whom I had conversed in the verandah dismissed in disgrace by Miss Scatcherd from a history class, and sent to stand in the middle of the large schoolroom."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"One morning an officer, at the head of a party of men, presented himself at the verandah of Mr Pritchard’s house, and inquired in broken English for the lady his wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch along the outside of a building (sometimes partly enclosed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch along the outside of a building (sometimes partly enclosed).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I leant against a pillar of the verandah, drew my grey mantle close about me, and, trying to forget the cold which nipped me without, and the unsatisfied hunger which gnawed me within, delivered myself up to the employment of watching and thinking."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The only marked event of the afternoon was, that I saw the girl with whom I had conversed in the verandah dismissed in disgrace by Miss Scatcherd from a history class, and sent to stand in the middle of the large schoolroom."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"One morning an officer, at the head of a party of men, presented himself at the verandah of Mr Pritchard’s house, and inquired in broken English for the lady his wife."*

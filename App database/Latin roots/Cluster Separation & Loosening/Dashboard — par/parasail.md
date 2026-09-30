@@ -5,13 +5,6 @@ status: unread
 ---
 # parasail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parachute that will lift a person up into the air when it is towed by a motorboat or a car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parachute that will lift a person up into the air when it is towed by a motorboat or a car.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasail designates parachute that will lift a person up into the air when it is towed by a motorboat or a car."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parachute that will lift a person up into the air when it is towed by a motorboat or a car.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parachute that will lift a person up into the air when it is towed by a motorboat or a car.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasail designates parachute that will lift a person up into the air when it is towed by a motorboat or a car."*

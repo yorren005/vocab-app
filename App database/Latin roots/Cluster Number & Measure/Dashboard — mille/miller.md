@@ -5,15 +5,6 @@ status: unread
 ---
 # miller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states bandleader of a popular big band (1909-1944).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states novelist whose novels were originally banned as pornographic (1891-1980).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of seven groats in mill-sixpences, and two Edward shovel-boards that cost me two shilling and two pence a-piece of Yed Miller, by these gloves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, man, more water glideth by the mill Than wots the miller of; and easy it is Of a cut loaf to steal a shive, we know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lisps in’s neighing, able to entice A miller’s mare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states bandleader of a popular big band (1909-1944).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states novelist whose novels were originally banned as pornographic (1891-1980).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of seven groats in mill-sixpences, and two Edward shovel-boards that cost me two shilling and two pence a-piece of Yed Miller, by these gloves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, man, more water glideth by the mill Than wots the miller of; and easy it is Of a cut loaf to steal a shive, we know."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lisps in’s neighing, able to entice A miller’s mare."*

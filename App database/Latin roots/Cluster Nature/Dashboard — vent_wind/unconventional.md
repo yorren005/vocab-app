@@ -5,15 +5,6 @@ status: unread
 ---
 # unconventional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to accepted rules or standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conventional or conformist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There are occasions when girls like Bathsheba will put up with a great deal of unconventional behaviour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The whole blame was mine—the whole unconventional business of our time at Trantridge."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unconventional redeployment of the Plutonian Assault Force amazed and appalled him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to accepted rules or standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conventional or conformist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There are occasions when girls like Bathsheba will put up with a great deal of unconventional behaviour."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The whole blame was mine—the whole unconventional business of our time at Trantridge."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unconventional redeployment of the Plutonian Assault Force amazed and appalled him."*

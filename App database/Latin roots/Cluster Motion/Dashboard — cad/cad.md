@@ -5,15 +5,6 @@ status: unread
 ---
 # cad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is morally reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Software used in art and architecture and engineering and manufacturing to assist in precision drawing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"On a stretch of level road he passed a pair talking, noting casually that the woman was a lady from her carriage, and from his threatening cringe that the man was a cad."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"You don't mean that Henshaw has been cad enough to find another--” Calderwell threw up his hand."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Dedalus fell back, saying: —Was that Mulligan cad with him?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is morally reprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Software used in art and architecture and engineering and manufacturing to assist in precision drawing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"On a stretch of level road he passed a pair talking, noting casually that the woman was a lady from her carriage, and from his threatening cringe that the man was a cad."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"You don't mean that Henshaw has been cad enough to find another--” Calderwell threw up his hand."*
+> - 📜 **James Joyce (*Ulysses*):** *"Mr Dedalus fell back, saying: —Was that Mulligan cad with him?"*

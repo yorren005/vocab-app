@@ -5,15 +5,6 @@ status: unread
 ---
 # undressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove (someone's or one's own) clothes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Despite all her lamenting the child was then undressed and put to bed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was so evident to her in the midst of her agitation that Troy had undressed in the full conviction of dressing again almost immediately, that the notion that anything but death could have prevented him was a perverse one to entertain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The body has been undressed and properly laid out in grave clothes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove (someone's or one's own) clothes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Despite all her lamenting the child was then undressed and put to bed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was so evident to her in the midst of her agitation that Troy had undressed in the full conviction of dressing again almost immediately, that the notion that anything but death could have prevented him was a perverse one to entertain."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The body has been undressed and properly laid out in grave clothes."*

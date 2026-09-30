@@ -5,15 +5,6 @@ status: unread
 ---
 # antic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ludicrous or grotesque act done for fun and amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as or like a clown.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And resolution thus fubbed as it is with the rusty curb of old father Antic the law?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ludicrous or grotesque act done for fun and amusement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as or like a clown.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And resolution thus fubbed as it is with the rusty curb of old father Antic the law?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*

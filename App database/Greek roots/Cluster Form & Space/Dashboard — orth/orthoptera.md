@@ -5,14 +5,6 @@ status: unread
 ---
 # orthoptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grasshoppers and locusts; crickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"We are singularly rich in orthoptera: I don’t know whether—Ah! you have got hold of that glass jar—you are looking into that instead of my drawers."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But do look at these delicate orthoptera!” Lydgate had after all to give some scrutiny to each drawer, the Vicar laughing at himself, and yet persisting in the exhibition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grasshoppers and locusts; crickets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"We are singularly rich in orthoptera: I don’t know whether—Ah! you have got hold of that glass jar—you are looking into that instead of my drawers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But do look at these delicate orthoptera!” Lydgate had after all to give some scrutiny to each drawer, the Vicar laughing at himself, and yet persisting in the exhibition."*

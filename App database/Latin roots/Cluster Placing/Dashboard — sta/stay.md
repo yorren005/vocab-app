@@ -5,15 +5,6 @@ status: unread
 ---
 # stay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing or remaining in a place or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of inactivity following an interruption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How would (I say) mine eyes be blessed made, By looking on thee in the living day, When in dead night thy fair imperfect shade, Through heavy sleep on sightless eyes doth stay!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I question with my jealous thought, Where you may be, or your affairs suppose, But like a sad slave stay and think of nought Save where you are, how happy you make those."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll stay at home, And pray God’s blessing into thy attempt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing or remaining in a place or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of inactivity following an interruption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How would (I say) mine eyes be blessed made, By looking on thee in the living day, When in dead night thy fair imperfect shade, Through heavy sleep on sightless eyes doth stay!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I question with my jealous thought, Where you may be, or your affairs suppose, But like a sad slave stay and think of nought Save where you are, how happy you make those."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll stay at home, And pray God’s blessing into thy attempt."*

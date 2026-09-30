@@ -5,13 +5,6 @@ status: unread
 ---
 # post-haste
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As fast as possible; with all possible haste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As fast as possible; with all possible haste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-haste designates as fast as possible; with all possible haste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As fast as possible; with all possible haste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As fast as possible; with all possible haste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-haste designates as fast as possible; with all possible haste."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # silver-tip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful brownish-yellow bear of the uplands of western north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powerful brownish-yellow bear of the uplands of western north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silver-tip designates powerful brownish-yellow bear of the uplands of western north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful brownish-yellow bear of the uplands of western north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powerful brownish-yellow bear of the uplands of western north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silver-tip designates powerful brownish-yellow bear of the uplands of western north america."*

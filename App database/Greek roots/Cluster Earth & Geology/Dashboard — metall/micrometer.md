@@ -5,13 +5,6 @@ status: unread
 ---
 # micrometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used with a telescope or microscope for measuring minute distances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caliper for making precise measurements that has a spindle moved by a finely threaded screw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometer designates an instrument used with a telescope or microscope for measuring minute distances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used with a telescope or microscope for measuring minute distances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caliper for making precise measurements that has a spindle moved by a finely threaded screw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometer designates an instrument used with a telescope or microscope for measuring minute distances."*

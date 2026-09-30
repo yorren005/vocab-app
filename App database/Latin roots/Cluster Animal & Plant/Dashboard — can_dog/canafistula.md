@@ -5,13 +5,6 @@ status: unread
 ---
 # canafistula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canafistula designates deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canafistula designates deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia."*

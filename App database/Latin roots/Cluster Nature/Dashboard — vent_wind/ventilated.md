@@ -5,15 +5,6 @@ status: unread
 ---
 # ventilated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to cool or cold air so as to cool or freshen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose to the circulation of fresh air so as to retard spoilage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The house was ventilated by two round holes, like the lights of a ship’s cabin, with wood slides."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A vile wind that has no doubt blown ere this through prison corridors and cells, and wards of hospitals, and ventilated them, and now comes blowing hither as innocent as fleeces."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The house was ventilated by two round holes, like the lights of a cabin, with wood slides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to cool or cold air so as to cool or freshen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose to the circulation of fresh air so as to retard spoilage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The house was ventilated by two round holes, like the lights of a ship’s cabin, with wood slides."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A vile wind that has no doubt blown ere this through prison corridors and cells, and wards of hospitals, and ventilated them, and now comes blowing hither as innocent as fleeces."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The house was ventilated by two round holes, like the lights of a cabin, with wood slides."*

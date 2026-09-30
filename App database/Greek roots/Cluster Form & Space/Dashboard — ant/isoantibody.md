@@ -5,13 +5,6 @@ status: unread
 ---
 # isoantibody
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that occurs naturally against foreign tissues from a person of the same species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that occurs naturally against foreign tissues from a person of the same species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoantibody designates an antibody that occurs naturally against foreign tissues from a person of the same species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that occurs naturally against foreign tissues from a person of the same species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that occurs naturally against foreign tissues from a person of the same species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoantibody designates an antibody that occurs naturally against foreign tissues from a person of the same species."*

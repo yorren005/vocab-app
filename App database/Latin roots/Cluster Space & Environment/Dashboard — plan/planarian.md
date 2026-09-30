@@ -5,13 +5,6 @@ status: unread
 ---
 # planarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planarian designates free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planarian designates free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts."*

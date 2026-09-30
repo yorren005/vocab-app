@@ -5,13 +5,6 @@ status: unread
 ---
 # epicardium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericardium that closely envelops the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericardium that closely envelops the heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicardium designates the inner layer of the pericardium that closely envelops the heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericardium that closely envelops the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericardium that closely envelops the heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicardium designates the inner layer of the pericardium that closely envelops the heart."*

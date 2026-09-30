@@ -5,13 +5,6 @@ status: unread
 ---
 # ponycart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cart with an underslung axle and two seats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cart with an underslung axle and two seats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponycart designates a cart with an underslung axle and two seats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cart with an underslung axle and two seats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cart with an underslung axle and two seats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponycart designates a cart with an underslung axle and two seats."*

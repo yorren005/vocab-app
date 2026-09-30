@@ -5,15 +5,6 @@ status: unread
 ---
 # flexuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having turns or windings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having turns or windings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They consisted in about equal proportions of gnarled and flexuous forms, the former being the men, the latter the women, who wore tilt bonnets covered with nankeen, which hung in a curtain upon their shoulders."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The face was young in the groundwork, old in the finish; the general contours were flexuous and childlike, but the finer lineaments had begun to be sharp and thin."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her flexuous and stealthy figure became an integral part of the scene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having turns or windings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having turns or windings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They consisted in about equal proportions of gnarled and flexuous forms, the former being the men, the latter the women, who wore tilt bonnets covered with nankeen, which hung in a curtain upon their shoulders."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The face was young in the groundwork, old in the finish; the general contours were flexuous and childlike, but the finer lineaments had begun to be sharp and thin."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her flexuous and stealthy figure became an integral part of the scene."*

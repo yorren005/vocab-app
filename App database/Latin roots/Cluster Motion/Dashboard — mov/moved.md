@@ -5,15 +5,6 @@ status: unread
 ---
 # moved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move or shift into a new position or place, both in a concrete and in an abstract sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His wife that’s dead did trespasses to Caesar; His brother warred upon him, although I think, Not moved by Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being moved, he will not spare to gird the gods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move or shift into a new position or place, both in a concrete and in an abstract sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His wife that’s dead did trespasses to Caesar; His brother warred upon him, although I think, Not moved by Antony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being moved, he will not spare to gird the gods."*

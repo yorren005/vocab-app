@@ -5,15 +5,6 @@ status: unread
 ---
 # excellent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very good;of the highest quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very good;of the highest quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was excellent command, to charge in with our horse upon our own wings, and to rend our own soldiers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good now, some excellent fortune!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very good;of the highest quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very good;of the highest quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was excellent command, to charge in with our horse upon our own wings, and to rend our own soldiers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good now, some excellent fortune!"*

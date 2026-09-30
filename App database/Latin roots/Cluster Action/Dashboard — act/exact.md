@@ -5,15 +5,6 @@ status: unread
 ---
 # exact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim as due or just.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take as an undesirable consequence of some event or state of affairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or _hic jacet_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it good To set the exact wealth of all our states All at one cast?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My train are men of choice and rarest parts, That all particulars of duty know; And in the most exact regard support The worships of their name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim as due or just.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take as an undesirable consequence of some event or state of affairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or _hic jacet_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it good To set the exact wealth of all our states All at one cast?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My train are men of choice and rarest parts, That all particulars of duty know; And in the most exact regard support The worships of their name."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # popularize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make understandable to the general public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But vain to popularize profundities, and all truth is profound."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But vain to popularize profundities, and all truth is profound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cater to popular taste to make popular and present to the general public; bring into general or common use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make understandable to the general public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But vain to popularize profundities, and all truth is profound."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But vain to popularize profundities, and all truth is profound."*

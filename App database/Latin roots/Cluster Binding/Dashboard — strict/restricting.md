@@ -5,15 +5,6 @@ status: unread
 ---
 # restricting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inelasticity was necessitated by illogical federal and state laws restricting absolutely the further extension of credit when the reserves fell below the percentage of deposits (15 or 25 per cent) fixed by law."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Not even to marry Isabel was he going to impose on his own unbroken egoism the restricting code of a country village."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At that time in the morning any Christian would have washed his face; but Queequeg, to my amazement, contented himself with restricting his ablutions to his chest, arms, and hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inelasticity was necessitated by illogical federal and state laws restricting absolutely the further extension of credit when the reserves fell below the percentage of deposits (15 or 25 per cent) fixed by law."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Not even to marry Isabel was he going to impose on his own unbroken egoism the restricting code of a country village."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At that time in the morning any Christian would have washed his face; but Queequeg, to my amazement, contented himself with restricting his ablutions to his chest, arms, and hands."*

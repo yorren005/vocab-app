@@ -5,20 +5,6 @@ status: unread
 ---
 # spill
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Kill, destroy
-> 2. **Nuance / Usage**: Cause (blood) to be lost by wounding
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to spill the target*) and intransitive clauses (*spilling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Neil Johnston (*Norwich 3 - 3 Blackburn*):** *"That should have been that, but Hart caught a dose of the Hennessey wobbles and spilled Adlene Guedioura's long-range shot."*
-> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"They [the colours] disfigure the stuff and spill the whole workmanship."*
-> - 📜 **Dr Joseph Brennan (*Railway Heritage saved in 2024*):** *"Liverpool Street's 1985-92 remodelling by the British Rail Architects' Department (under project lead Nick Derbyshire) had carefully followed original 1870s detailing, with the concourse designed to allow natural light to spill into the station."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Kill, destroy
+> 2. **Nuance / Usage**: Cause (blood) to be lost by wounding
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to spill the target*) and intransitive clauses (*spilling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Neil Johnston (*Norwich 3 - 3 Blackburn*):** *"That should have been that, but Hart caught a dose of the Hennessey wobbles and spilled Adlene Guedioura's long-range shot."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"They [the colours] disfigure the stuff and spill the whole workmanship."*
+> - 📜 **Dr Joseph Brennan (*Railway Heritage saved in 2024*):** *"Liverpool Street's 1985-92 remodelling by the British Rail Architects' Department (under project lead Nick Derbyshire) had carefully followed original 1870s detailing, with the concourse designed to allow natural light to spill into the station."*

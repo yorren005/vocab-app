@@ -5,15 +5,6 @@ status: unread
 ---
 # mincing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk daintily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mincing, B.A., Francis Troy, only son of the late Edward Troy, Esq., M.D., of Weatherbury, and sergeant with Dragoon Guards, to Bathsheba, only surviving daughter of the late Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her friend moved forward slowly, and she with small mincing steps moved forward beside him, half her weight being thrown upon the animal."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Crowse, with his empty face and neat umbrella, and mincing little speeches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk daintily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mincing, B.A., Francis Troy, only son of the late Edward Troy, Esq., M.D., of Weatherbury, and sergeant with Dragoon Guards, to Bathsheba, only surviving daughter of the late Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her friend moved forward slowly, and she with small mincing steps moved forward beside him, half her weight being thrown upon the animal."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Crowse, with his empty face and neat umbrella, and mincing little speeches."*

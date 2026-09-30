@@ -5,15 +5,6 @@ status: unread
 ---
 # lunacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsolete terms for legal insanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foolish or senseless behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is merely a madness, and, I tell you, deserves as well a dark house and a whip as madmen do; and the reason why they are not so punished and cured is that the lunacy is so ordinary that the whippers are in love too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence comes it that your kindred shuns your house, As beaten hence by your strange lunacy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsolete terms for legal insanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foolish or senseless behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is merely a madness, and, I tell you, deserves as well a dark house and a whip as madmen do; and the reason why they are not so punished and cured is that the lunacy is so ordinary that the whippers are in love too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence comes it that your kindred shuns your house, As beaten hence by your strange lunacy."*

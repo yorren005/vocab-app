@@ -5,15 +5,6 @@ status: unread
 ---
 # bicycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle that has two wheels and is moved by foot pedals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a bicycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When Drury drove up in a borrowed farm cart, Isabel without expecting or receiving many thanks dragged her bicycle to the top of the glen and pelted off across the moor."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Fanny thought a moment, and then spoke up quite distinctly: “Please send me some peppermints, and some new shoes for my doll, and a bunch of pansies for my mama, and a new bicycle for my papa, and--and--that’s all this time."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"They are for you, mama,” she cried, “and now everything has come but papa’s new bicycle.” Just then she looked out of the window, and there was her papa coming up the drive on a fine new wheel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle that has two wheels and is moved by foot pedals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a bicycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"When Drury drove up in a borrowed farm cart, Isabel without expecting or receiving many thanks dragged her bicycle to the top of the glen and pelted off across the moor."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Fanny thought a moment, and then spoke up quite distinctly: “Please send me some peppermints, and some new shoes for my doll, and a bunch of pansies for my mama, and a new bicycle for my papa, and--and--that’s all this time."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"They are for you, mama,” she cried, “and now everything has come but papa’s new bicycle.” Just then she looked out of the window, and there was her papa coming up the drive on a fine new wheel."*

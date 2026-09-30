@@ -5,13 +5,6 @@ status: unread
 ---
 # philistinism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A desire for wealth and material possessions with little interest in ethical or spiritual matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desire for wealth and material possessions with little interest in ethical or spiritual matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was a time rich in hidden intellectual forces, and yet it bore the stamp of that uninspired Philistinism which is so abundantly evidenced by the barren commonplace character of its architecture and art."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A desire for wealth and material possessions with little interest in ethical or spiritual matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desire for wealth and material possessions with little interest in ethical or spiritual matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was a time rich in hidden intellectual forces, and yet it bore the stamp of that uninspired Philistinism which is so abundantly evidenced by the barren commonplace character of its architecture and art."*

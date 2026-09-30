@@ -5,15 +5,6 @@ status: unread
 ---
 # simulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduce someone's behavior or looks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create a representation or model of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Besides the ceremonies already described there are two kindred sets of observances in which the simulated death of a divine or supernatural being is a conspicuous feature."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This is done by tying a threshed-out sheaf of corn into a rough semblance of a head and body, while the arms are simulated by a broomstick thrust through it horizontally."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Paton further supposes that the loves of the trees may, on the same principle of imitative magic, have been simulated by a mock or even a real marriage between the two human victims, one of whom appears sometimes to have been a woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduce someone's behavior or looks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create a representation or model of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Besides the ceremonies already described there are two kindred sets of observances in which the simulated death of a divine or supernatural being is a conspicuous feature."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This is done by tying a threshed-out sheaf of corn into a rough semblance of a head and body, while the arms are simulated by a broomstick thrust through it horizontally."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Paton further supposes that the loves of the trees may, on the same principle of imitative magic, have been simulated by a mock or even a real marriage between the two human victims, one of whom appears sometimes to have been a woman."*

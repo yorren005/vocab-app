@@ -5,15 +5,6 @@ status: unread
 ---
 # penman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for journalists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for journalists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The Captain evidently was not a great penman, and Rosamond reflected that the sisters might have been abroad."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phenomena explained Portraits, landscape-paintings, fac-similes of penman- ship, peculiarities of expression, recollected sentences, 86:27 can all be taken from pictorial thought and memory as readily as from objects cognizable by the senses."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"To write “laff,” the pen has to make the _same number_ of strokes—no labor is saved to the penman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for journalists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for journalists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The Captain evidently was not a great penman, and Rosamond reflected that the sisters might have been abroad."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phenomena explained Portraits, landscape-paintings, fac-similes of penman- ship, peculiarities of expression, recollected sentences, 86:27 can all be taken from pictorial thought and memory as readily as from objects cognizable by the senses."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"To write “laff,” the pen has to make the _same number_ of strokes—no labor is saved to the penman."*

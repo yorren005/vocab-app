@@ -5,13 +5,6 @@ status: unread
 ---
 # heterobasidiomycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Category used in some classification systems for various basidiomycetous fungi including rusts and smuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Category used in some classification systems for various basidiomycetous fungi including rusts and smuts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterobasidiomycetes designates category used in some classification systems for various basidiomycetous fungi including rusts and smuts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Category used in some classification systems for various basidiomycetous fungi including rusts and smuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Category used in some classification systems for various basidiomycetous fungi including rusts and smuts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterobasidiomycetes designates category used in some classification systems for various basidiomycetous fungi including rusts and smuts."*

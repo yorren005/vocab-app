@@ -5,15 +5,6 @@ status: unread
 ---
 # monarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who reigns over a kingdom or empire: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sovereign ruler.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Broad-fronted Caesar, When thou wast here above the ground, I was A morsel for a monarch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, thou monarch of the vine, Plumpy Bacchus with pink eyne!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who reigns over a kingdom or empire: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sovereign ruler.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Broad-fronted Caesar, When thou wast here above the ground, I was A morsel for a monarch."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, thou monarch of the vine, Plumpy Bacchus with pink eyne!"*

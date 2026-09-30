@@ -5,13 +5,6 @@ status: unread
 ---
 # nephridium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular glandular excretory organ characteristic of various invertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular glandular excretory organ characteristic of various invertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephridium designates a tubular glandular excretory organ characteristic of various invertebrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular glandular excretory organ characteristic of various invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular glandular excretory organ characteristic of various invertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephridium designates a tubular glandular excretory organ characteristic of various invertebrates."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # brachiopod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the phylum brachiopoda.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopod designates marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the phylum brachiopoda.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopod designates marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide."*

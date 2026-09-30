@@ -5,15 +5,6 @@ status: unread
 ---
 # dinosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Dinosauria) of extinct, often very large, carnivorous or herbivorous archosaurian reptiles that have the hind limbs extending directly beneath the body and include chiefly terrestrial, bipedal or quadrupedal ornithischians (such as ankylosaurs and stegosaurs) and saurischians (such as sauropods and theropods) which flourished during the Mesozoic era from the late Triassic period to the end of the Cretaceous period; also : any of a broader group that also includes all living and extinct birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various large extinct reptiles (such as an ichthyosaur or mosasaur) other than the true dinosaurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As he closes his eyes he says, 'I sure had a fine adventure today.' Dinosaur's Nest The introduction to this next story is about an experience I had ten or so years ago at the Portland Museum of Science and Industry."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"It is time to inspect the dinosaur's nest.' The youngsters gathered round as I removed my shoes, stepped across the inflated tube into the nest, lowered to my knees, bent, and carefully inspected the nest's floor."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They are excited to hear that another dinosaur family has moved into their neighborhood, and that a birthday party was coming soon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Dinosauria) of extinct, often very large, carnivorous or herbivorous archosaurian reptiles that have the hind limbs extending directly beneath the body and include chiefly terrestrial, bipedal or quadrupedal ornithischians (such as ankylosaurs and stegosaurs) and saurischians (such as sauropods and theropods) which flourished during the Mesozoic era from the late Triassic period to the end of the Cretaceous period; also : any of a broader group that also includes all living and extinct birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various large extinct reptiles (such as an ichthyosaur or mosasaur) other than the true dinosaurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As he closes his eyes he says, 'I sure had a fine adventure today.' Dinosaur's Nest The introduction to this next story is about an experience I had ten or so years ago at the Portland Museum of Science and Industry."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"It is time to inspect the dinosaur's nest.' The youngsters gathered round as I removed my shoes, stepped across the inflated tube into the nest, lowered to my knees, bent, and carefully inspected the nest's floor."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They are excited to hear that another dinosaur family has moved into their neighborhood, and that a birthday party was coming soon."*

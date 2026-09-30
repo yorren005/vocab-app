@@ -5,13 +5,6 @@ status: unread
 ---
 # genista
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly deciduous shrubs or small trees of mediterranean area and western asia: broom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly deciduous shrubs or small trees of mediterranean area and western asia: broom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genista designates chiefly deciduous shrubs or small trees of mediterranean area and western asia: broom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly deciduous shrubs or small trees of mediterranean area and western asia: broom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly deciduous shrubs or small trees of mediterranean area and western asia: broom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genista designates chiefly deciduous shrubs or small trees of mediterranean area and western asia: broom."*

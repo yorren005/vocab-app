@@ -5,13 +5,6 @@ status: unread
 ---
 # prismatoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron that has all of its vertices in two parallel planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron that has all of its vertices in two parallel planes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismatoid designates a polyhedron that has all of its vertices in two parallel planes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron that has all of its vertices in two parallel planes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron that has all of its vertices in two parallel planes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismatoid designates a polyhedron that has all of its vertices in two parallel planes."*

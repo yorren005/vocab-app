@@ -5,15 +5,6 @@ status: unread
 ---
 # boneset
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European herb having small white, pink or purple flowers; naturalized as a weed in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herb of southeastern united states having white-rayed flower heads; formerly used as in folk medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Once they crossed a wandering little creek whose shallow waters flowed through lovely meadows where boneset plants were white with bloom and giant eupatorium lifted its rosy heads."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"But why don't you make a big crock of boneset tea and make her take a good swallow every day?"*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"I'll fix her up some boneset tea to-day yet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: European herb having small white, pink or purple flowers; naturalized as a weed in north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herb of southeastern united states having white-rayed flower heads; formerly used as in folk medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Once they crossed a wandering little creek whose shallow waters flowed through lovely meadows where boneset plants were white with bloom and giant eupatorium lifted its rosy heads."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"But why don't you make a big crock of boneset tea and make her take a good swallow every day?"*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"I'll fix her up some boneset tea to-day yet."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # speciality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing trait.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This, however, was a speciality on that particular birthday, and not a general solemnity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first movement in his new progress was the lambing of his ewes, and sheep having been his speciality from his youth, he wisely refrained from deputing the task of tending them at this season to a hireling or a novice."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sheep-tending was Gabriel’s speciality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing trait.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This, however, was a speciality on that particular birthday, and not a general solemnity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first movement in his new progress was the lambing of his ewes, and sheep having been his speciality from his youth, he wisely refrained from deputing the task of tending them at this season to a hireling or a novice."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sheep-tending was Gabriel’s speciality."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # candlestick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A holder with sockets for candles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A holder with sockets for candles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I opened it softly and found Miss Jellyby shivering there with a broken candle in a broken candlestick in one hand and an egg-cup in the other."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found Miss Jellyby trying to warm herself at the fire in the writing-room, which Priscilla was then lighting with a smutty parlour candlestick, throwing the candle in to make it burn better."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, stopping again, and making several absent endeavours to put his candlestick in his pocket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A holder with sockets for candles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A holder with sockets for candles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I opened it softly and found Miss Jellyby shivering there with a broken candle in a broken candlestick in one hand and an egg-cup in the other."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We found Miss Jellyby trying to warm herself at the fire in the writing-room, which Priscilla was then lighting with a smutty parlour candlestick, throwing the candle in to make it burn better."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, stopping again, and making several absent endeavours to put his candlestick in his pocket."*

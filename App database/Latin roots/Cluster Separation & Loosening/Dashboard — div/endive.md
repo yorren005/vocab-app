@@ -5,13 +5,6 @@ status: unread
 ---
 # endive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely cultivated herb with leaves valued as salad green; either curly serrated leaves or broad flat ones that are usually blanched.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Variety of endive having leaves with irregular frilled edges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This mould is by no means confined to lettuces, but has also been found on species of ragwort, sow-thistle, nipplewort, endive, and other composite plants; and has from time to time received numerous names, which it is unnecessary to enumerate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely cultivated herb with leaves valued as salad green; either curly serrated leaves or broad flat ones that are usually blanched.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Variety of endive having leaves with irregular frilled edges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This mould is by no means confined to lettuces, but has also been found on species of ragwort, sow-thistle, nipplewort, endive, and other composite plants; and has from time to time received numerous names, which it is unnecessary to enumerate."*

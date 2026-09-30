@@ -5,15 +5,6 @@ status: unread
 ---
 # perceptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived by the mind or senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily perceived by the senses or grasped by the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne was so impressed by the degree of their danger, that she could not excuse herself from trying to make it perceptible to her sister."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her start was perceptible only to herself; but she instantly felt that she was the greatest simpleton in the world, the most unaccountable and absurd!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A difference of colour in the stars—oftener read of than seen in England—was really perceptible here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived by the mind or senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily perceived by the senses or grasped by the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne was so impressed by the degree of their danger, that she could not excuse herself from trying to make it perceptible to her sister."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her start was perceptible only to herself; but she instantly felt that she was the greatest simpleton in the world, the most unaccountable and absurd!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A difference of colour in the stars—oftener read of than seen in England—was really perceptible here."*

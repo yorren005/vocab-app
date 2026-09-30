@@ -5,15 +5,6 @@ status: unread
 ---
 # expense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detriment or sacrifice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do so; this jest shall cost me some expense. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One would have lingering wars with little cost; Another would fly swift, but wanteth wings; A third thinks, without expense at all, By guileful fair words peace may be obtain’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what expense by th’ hour Seems to flow from him!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detriment or sacrifice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do so; this jest shall cost me some expense. [_Exeunt._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One would have lingering wars with little cost; Another would fly swift, but wanteth wings; A third thinks, without expense at all, By guileful fair words peace may be obtain’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what expense by th’ hour Seems to flow from him!"*

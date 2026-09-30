@@ -5,20 +5,6 @@ status: unread
 ---
 # tramp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Journey as a tramp
-> 2. **Nuance / Usage**: Travel about on foot : hike
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to tramp the target*) and intransitive clauses (*tramping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"resounded with the tramp of many footsteps, a surgeon among the rest."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"in order, Damn ’em, with their tramp, tramp—I see a hundred."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"In the deathlike stillness only the tramp of horses was heard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Journey as a tramp
+> 2. **Nuance / Usage**: Travel about on foot : hike
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to tramp the target*) and intransitive clauses (*tramping against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"resounded with the tramp of many footsteps, a surgeon among the rest."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"in order, Damn ’em, with their tramp, tramp—I see a hundred."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"In the deathlike stillness only the tramp of horses was heard."*

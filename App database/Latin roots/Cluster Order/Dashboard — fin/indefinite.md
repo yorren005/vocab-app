@@ -5,15 +5,6 @@ status: unread
 ---
 # indefinite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vague or not clearly defined or stated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decided or not known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, as he is now gone so far away and for an indefinite time, and as he will have good opportunities and introductions, we may consider this past and gone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I ever thought of the time I had been out, it presented itself as an indefinite period of great duration, and I seemed, in a strange way, never to have been free from the anxiety under which I then laboured."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not quite sure of her direction, Tess stood still upon the hemmed expanse of verdant flatness, like a fly on a billiard-table of indefinite length, and of no more consequence to the surroundings than that fly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vague or not clearly defined or stated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decided or not known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"However, as he is now gone so far away and for an indefinite time, and as he will have good opportunities and introductions, we may consider this past and gone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I ever thought of the time I had been out, it presented itself as an indefinite period of great duration, and I seemed, in a strange way, never to have been free from the anxiety under which I then laboured."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not quite sure of her direction, Tess stood still upon the hemmed expanse of verdant flatness, like a fly on a billiard-table of indefinite length, and of no more consequence to the surroundings than that fly."*

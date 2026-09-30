@@ -5,15 +5,6 @@ status: unread
 ---
 # ferocity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being wild or turbulent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being wild or turbulent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In his condemnation he is all ferocity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long pointed features, narrow eye, and smirk of the one, so suggestive of merciless treachery; the bill-hook nose, large teeth, and bold eye of the other suggesting arrogance to the point of ferocity, haunt the beholder afterwards in his dreams."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And, reader, do you think I feared him in his blind ferocity?—if you do, you little know me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being wild or turbulent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being wild or turbulent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In his condemnation he is all ferocity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long pointed features, narrow eye, and smirk of the one, so suggestive of merciless treachery; the bill-hook nose, large teeth, and bold eye of the other suggesting arrogance to the point of ferocity, haunt the beholder afterwards in his dreams."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And, reader, do you think I feared him in his blind ferocity?—if you do, you little know me."*

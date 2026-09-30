@@ -5,14 +5,6 @@ status: unread
 ---
 # countermarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a march in the reverse direction or back along the same route.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: March back along the same way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"When the balloting was completed the company had countermarched twice, and stood on the same ground it occupied before the ceremony began."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"My father talks of nothing but marches and countermarches, things of which I understand nothing; and the day before yesterday during my daily walk through the village I witnessed a heartrending scene...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a march in the reverse direction or back along the same route.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: March back along the same way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"When the balloting was completed the company had countermarched twice, and stood on the same ground it occupied before the ceremony began."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"My father talks of nothing but marches and countermarches, things of which I understand nothing; and the day before yesterday during my daily walk through the village I witnessed a heartrending scene...."*

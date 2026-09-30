@@ -5,15 +5,6 @@ status: unread
 ---
 # rating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal of the value of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of ascertaining or fixing the value or worth of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, dear lady, Rating myself at nothing, you shall see How much I was a braggart."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There can be no want of gallantry, Admiral, in rating the claims of women to every personal comfort _high_, and this is what I do."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was one or the other, and, according to ship’s rating, it was his due to draw next."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal of the value of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of ascertaining or fixing the value or worth of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, dear lady, Rating myself at nothing, you shall see How much I was a braggart."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There can be no want of gallantry, Admiral, in rating the claims of women to every personal comfort _high_, and this is what I do."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was one or the other, and, according to ship’s rating, it was his due to draw next."*

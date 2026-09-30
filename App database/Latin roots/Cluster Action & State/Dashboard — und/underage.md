@@ -5,13 +5,6 @@ status: unread
 ---
 # underage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of legal age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dependent by virtue of youth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underage designates not of legal age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of legal age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dependent by virtue of youth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underage designates not of legal age."*

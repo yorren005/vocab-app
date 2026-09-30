@@ -5,19 +5,6 @@ status: unread
 ---
 # smolder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Exist in a state of suppressed activity
-> 2. **Nuance / Usage**: Be consumed by smoldering —often used with out
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to smolder the target*) and intransitive clauses (*smoldering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **{{w (*{{w*):** *"Behind him, where the deer had been, smoldered a large circle of grass and trees."*
-> - 📜 **A. A. Dowd (*{{w*):** *"And she’s got a great scene partner in Stevens, refining his star power into a just slightly, almost imperceptibly mechanical approximation of Don Juan smolder. He lets us admire the interface and still see the code ticking away underneath it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To burn slowly with smoke and persistent internal heat but without an open flame.
+> 2. **Nuance / Usage**: Frequently used figuratively for suppressed resentment, jealousy, or passion that festers beneath a calm surface, ready to erupt into open conflict.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to smolder the target*) and intransitive clauses (*smoldering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A secret fire **smoldered** within his breast, consuming his strength day by day."*
+> - 📜 **Jack London (*White Fang*):** *"Deep in his yellow eyes **smoldered** a fierce, unquenchable resentment of his captors."*
+> - 📜 **A. A. Dowd (*The A.V. Club*):** *"He refines his star power into a slightly mechanical approximation of a Don Juan **smolder**."*

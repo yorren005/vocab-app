@@ -5,15 +5,6 @@ status: unread
 ---
 # venture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any venturesome undertaking especially one with an uncertain outcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investment that is very risky but could yield great profits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon thy certainty and confidence What dar’st thou venture?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be you have heard it, But since it serves my purpose, I will venture To stale’t a little more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Masters of the people, Your multiplying spawn how can he flatter— That’s thousand to one good one—when you now see He had rather venture all his limbs for honour Than one on’s ears to hear it?—Proceed, Cominius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any venturesome undertaking especially one with an uncertain outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investment that is very risky but could yield great profits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon thy certainty and confidence What dar’st thou venture?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be you have heard it, But since it serves my purpose, I will venture To stale’t a little more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Masters of the people, Your multiplying spawn how can he flatter— That’s thousand to one good one—when you now see He had rather venture all his limbs for honour Than one on’s ears to hear it?—Proceed, Cominius."*

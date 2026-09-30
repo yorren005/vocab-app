@@ -5,14 +5,6 @@ status: unread
 ---
 # ductile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily influenced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Their growing minds soon close above the wound--their elastic spirits soon rise beneath the pressure--their green and ductile affections soon twine round new objects."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It begins to stretch as soon as the tension is applied, theoretically at all events, and if the metal were perfectly ductile it would stretch continuously as the load increases, until at last the breaking stress is reached."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily influenced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Their growing minds soon close above the wound--their elastic spirits soon rise beneath the pressure--their green and ductile affections soon twine round new objects."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It begins to stretch as soon as the tension is applied, theoretically at all events, and if the metal were perfectly ductile it would stretch continuously as the load increases, until at last the breaking stress is reached."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # epineurium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The external connective-tissue sheath of a nerve trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external connective-tissue sheath of a nerve trunk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epineurium designates the external connective-tissue sheath of a nerve trunk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The external connective-tissue sheath of a nerve trunk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external connective-tissue sheath of a nerve trunk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epineurium designates the external connective-tissue sheath of a nerve trunk."*

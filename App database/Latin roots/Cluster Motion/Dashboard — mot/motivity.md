@@ -5,13 +5,6 @@ status: unread
 ---
 # motivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or ability to move.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power or ability to move.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivity designates the power or ability to move."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or ability to move.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power or ability to move.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivity designates the power or ability to move."*

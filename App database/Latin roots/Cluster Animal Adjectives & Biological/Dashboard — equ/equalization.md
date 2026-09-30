@@ -5,14 +5,6 @@ status: unread
 ---
 # equalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making equal or uniform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making equal or uniform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has led in many cases to absurd underassessment, which boards of equalization have proved powerless to remedy in any great measure."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Entering the air lock, they hurried into space suits from the public service rack, checked each other's seals and oxygen reserves, tested the communications and pressurization systems and crowded into the pressure-equalization chamber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making equal or uniform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making equal or uniform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has led in many cases to absurd underassessment, which boards of equalization have proved powerless to remedy in any great measure."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Entering the air lock, they hurried into space suits from the public service rack, checked each other's seals and oxygen reserves, tested the communications and pressurization systems and crowded into the pressure-equalization chamber."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # metatarsus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metatarsal part of a human foot or of a hind foot in quadrupeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The metatarsal part of a human foot or of a hind foot in quadrupeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatarsus designates the metatarsal part of a human foot or of a hind foot in quadrupeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metatarsal part of a human foot or of a hind foot in quadrupeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The metatarsal part of a human foot or of a hind foot in quadrupeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatarsus designates the metatarsal part of a human foot or of a hind foot in quadrupeds."*

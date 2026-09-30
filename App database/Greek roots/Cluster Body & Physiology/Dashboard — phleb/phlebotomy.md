@@ -5,14 +5,6 @@ status: unread
 ---
 # phlebotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The drawing of blood (as by venipuncture) for transfusion, apheresis, diagnostic testing, or experimental procedures —called also venesection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawing of blood (as by venipuncture) for transfusion, apheresis, diagnostic testing, or experimental procedures —called also venesection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It’s no use plying him with wide words like Expenditure: I wouldn’t talk of phlebotomy, I would empty a pot of leeches upon him."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"He had even taken from his pocket a cupping apparatus, and was about to proceed to phlebotomy, when the object of his anxious solicitude suddenly revived; but it was to dash his cap from his head, and to throw dust on his grey hairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The drawing of blood (as by venipuncture) for transfusion, apheresis, diagnostic testing, or experimental procedures —called also venesection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawing of blood (as by venipuncture) for transfusion, apheresis, diagnostic testing, or experimental procedures —called also venesection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It’s no use plying him with wide words like Expenditure: I wouldn’t talk of phlebotomy, I would empty a pot of leeches upon him."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"He had even taken from his pocket a cupping apparatus, and was about to proceed to phlebotomy, when the object of his anxious solicitude suddenly revived; but it was to dash his cap from his head, and to throw dust on his grey hairs."*

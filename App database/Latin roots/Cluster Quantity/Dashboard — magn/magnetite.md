@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide of iron that is strongly attracted by magnets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxide of iron that is strongly attracted by magnets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetite designates an oxide of iron that is strongly attracted by magnets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide of iron that is strongly attracted by magnets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxide of iron that is strongly attracted by magnets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetite designates an oxide of iron that is strongly attracted by magnets."*

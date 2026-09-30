@@ -5,15 +5,6 @@ status: unread
 ---
 # triad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A union or group of three : trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chord of three tones consisting of a root with its third and fifth and constituting the harmonic basis of tonal music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The _Kane_, _Ku_ and _Lono:_ or, Sunlight, Substance, and Sound,--these constituted a triad named _Ku-Kaua-Kahi_, or the Fundamental Supreme Unity."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Ku-Kaua-Kahi, a triad--the Fundamental Supreme Unity, p. 15. kukini, trained runner. kuko, to wish, to lust, p. 89. kukui tree, Aleurites molluccana, p. 88."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How then is it possible for Him to create man subject to this triad of errors, - man who is made in the divine likeness? 356:24 Does God create a material man out of Himself, Spirit?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A union or group of three : trinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chord of three tones consisting of a root with its third and fifth and constituting the harmonic basis of tonal music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The _Kane_, _Ku_ and _Lono:_ or, Sunlight, Substance, and Sound,--these constituted a triad named _Ku-Kaua-Kahi_, or the Fundamental Supreme Unity."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Ku-Kaua-Kahi, a triad--the Fundamental Supreme Unity, p. 15. kukini, trained runner. kuko, to wish, to lust, p. 89. kukui tree, Aleurites molluccana, p. 88."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How then is it possible for Him to create man subject to this triad of errors, - man who is made in the divine likeness? 356:24 Does God create a material man out of Himself, Spirit?"*

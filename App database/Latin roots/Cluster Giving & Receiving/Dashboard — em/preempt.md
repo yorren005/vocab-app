@@ -5,13 +5,6 @@ status: unread
 ---
 # preempt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high bid that is intended to prevent the opposing players from bidding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acquire for oneself before others can do so.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preempt designates a high bid that is intended to prevent the opposing players from bidding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high bid that is intended to prevent the opposing players from bidding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acquire for oneself before others can do so.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preempt designates a high bid that is intended to prevent the opposing players from bidding."*

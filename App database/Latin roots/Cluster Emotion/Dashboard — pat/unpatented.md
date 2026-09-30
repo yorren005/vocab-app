@@ -5,13 +5,6 @@ status: unread
 ---
 # unpatented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of devices and processes) not protected by patent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of devices and processes) not protected by patent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpatented designates (of devices and processes) not protected by patent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of devices and processes) not protected by patent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of devices and processes) not protected by patent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpatented designates (of devices and processes) not protected by patent."*

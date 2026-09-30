@@ -5,13 +5,6 @@ status: unread
 ---
 # diverticulosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of multiple diverticula in the walls of the colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of multiple diverticula in the walls of the colon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulosis designates presence of multiple diverticula in the walls of the colon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of multiple diverticula in the walls of the colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of multiple diverticula in the walls of the colon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulosis designates presence of multiple diverticula in the walls of the colon."*

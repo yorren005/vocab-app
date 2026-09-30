@@ -5,15 +5,6 @@ status: unread
 ---
 # distinguish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect with the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There had she not been long but she became A joyful mother of two goodly sons, And, which was strange, the one so like the other As could not be distinguish’d but by names."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since my dear soul was mistress of her choice, And could of men distinguish, her election Hath seal’d thee for herself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sight may distinguish of colours; but suddenly to nominate them all, it is impossible.—My lords, Saint Alban here hath done a miracle; and would ye not think his cunning to be great that could restore this cripple to his legs again?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect with the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There had she not been long but she became A joyful mother of two goodly sons, And, which was strange, the one so like the other As could not be distinguish’d but by names."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since my dear soul was mistress of her choice, And could of men distinguish, her election Hath seal’d thee for herself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sight may distinguish of colours; but suddenly to nominate them all, it is impossible.—My lords, Saint Alban here hath done a miracle; and would ye not think his cunning to be great that could restore this cripple to his legs again?"*

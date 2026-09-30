@@ -5,14 +5,6 @@ status: unread
 ---
 # exculpation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense of some offensive behavior or some failure to keep a promise etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of freeing from guilt or blame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Barter’s office?’ ‘No,’ said Bommaney, suddenly weary after his outburst of self-exculpation, ‘I don’t know."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He is then to be heard in exculpation, and to withdraw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense of some offensive behavior or some failure to keep a promise etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of freeing from guilt or blame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Barter’s office?’ ‘No,’ said Bommaney, suddenly weary after his outburst of self-exculpation, ‘I don’t know."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He is then to be heard in exculpation, and to withdraw."*

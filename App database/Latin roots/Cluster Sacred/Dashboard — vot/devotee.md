@@ -5,15 +5,6 @@ status: unread
 ---
 # devotee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ardent follower and admirer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ardent follower and admirer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She loved the fresh air and the various aspects of the country, and when her eyes and cheeks glowed with mingled pleasure she looked very little like a devotee."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these strange antics were accompanied by still stranger guttural noises from the devotee, who seemed to be praying in a sing-song or else singing some pagan psalmody or other, during which his face twitched about in the most unnatural manner."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"My father, you must know, is a bigoted devotee of the old school, and prides himself upon keeping up something of old English hospitality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ardent follower and admirer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ardent follower and admirer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She loved the fresh air and the various aspects of the country, and when her eyes and cheeks glowed with mingled pleasure she looked very little like a devotee."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these strange antics were accompanied by still stranger guttural noises from the devotee, who seemed to be praying in a sing-song or else singing some pagan psalmody or other, during which his face twitched about in the most unnatural manner."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"My father, you must know, is a bigoted devotee of the old school, and prides himself upon keeping up something of old English hospitality."*

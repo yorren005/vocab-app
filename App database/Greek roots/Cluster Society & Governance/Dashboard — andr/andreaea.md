@@ -5,13 +5,6 @@ status: unread
 ---
 # andreaea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andreaea designates brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andreaea designates brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits."*

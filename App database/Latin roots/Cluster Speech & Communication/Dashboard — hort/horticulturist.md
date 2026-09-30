@@ -5,15 +5,6 @@ status: unread
 ---
 # horticulturist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"At first the name suggested nothing, but when he learned that the man was "a gardener, or horticulturist, or something," he remembered."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"It was a business card, on which was printed--not engraved--in large, plain letters, "Paul Valois, Horticulturist." So, after all, he had come!"*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"But it was not Paul Valois, horticulturist, who entered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"At first the name suggested nothing, but when he learned that the man was "a gardener, or horticulturist, or something," he remembered."*
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"It was a business card, on which was printed--not engraved--in large, plain letters, "Paul Valois, Horticulturist." So, after all, he had come!"*
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"But it was not Paul Valois, horticulturist, who entered."*

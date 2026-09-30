@@ -5,15 +5,6 @@ status: unread
 ---
 # eczema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"SEVERE ECZEMA DESTROYED It is only two years since I came from darkness into the light of Christian Science, and to me the spiritual uplifting has been wonderful, to say nothing of the physical healing."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For five years I suffered with that dreaded disease, eczema, all over my body."*
-> - 📜 **James Joyce (*Ulysses*):** *"A smaller girl with scars of eczema on her forehead eyed him, listlessly holding her battered caskhoop."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"SEVERE ECZEMA DESTROYED It is only two years since I came from darkness into the light of Christian Science, and to me the spiritual uplifting has been wonderful, to say nothing of the physical healing."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For five years I suffered with that dreaded disease, eczema, all over my body."*
+> - 📜 **James Joyce (*Ulysses*):** *"A smaller girl with scars of eczema on her forehead eyed him, listlessly holding her battered caskhoop."*

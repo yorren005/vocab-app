@@ -5,15 +5,6 @@ status: unread
 ---
 # aggression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to behave aggressively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of hostility that arouses thoughts of attack.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In view of the recrudescence of the spirit of armed national aggression evident of late, and especially in the outbreak of the Great War in 1914, the military aspect of the population question deserves serious consideration."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Are we in a condition to resent or to repel the aggression?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to behave aggressively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of hostility that arouses thoughts of attack.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In view of the recrudescence of the spirit of armed national aggression evident of late, and especially in the outbreak of the Great War in 1914, the military aspect of the population question deserves serious consideration."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Are we in a condition to resent or to repel the aggression?"*

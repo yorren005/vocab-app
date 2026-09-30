@@ -5,14 +5,6 @@ status: unread
 ---
 # perambulating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an official inspection on foot of (the bounds of a property).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk with no particular goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The last survivor of these perambulating English giants lingered at Salisbury, where an antiquary found him mouldering to decay in the neglected hall of the Tailors' Company about the year 1844."*
-> - 📜 **James Joyce (*Ulysses*):** *"On land, meridional, a bispherical moon, revealed in imperfect varying phases of lunation through the posterior interstice of the imperfectly occluded skirt of a carnose negligent perambulating female, a pillar of the cloud by day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an official inspection on foot of (the bounds of a property).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk with no particular goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The last survivor of these perambulating English giants lingered at Salisbury, where an antiquary found him mouldering to decay in the neglected hall of the Tailors' Company about the year 1844."*
+> - 📜 **James Joyce (*Ulysses*):** *"On land, meridional, a bispherical moon, revealed in imperfect varying phases of lunation through the posterior interstice of the imperfectly occluded skirt of a carnose negligent perambulating female, a pillar of the cloud by day."*

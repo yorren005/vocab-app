@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-formal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately formal; requiring a dinner jacket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderately formal; requiring a dinner jacket.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-formal designates moderately formal; requiring a dinner jacket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderately formal; requiring a dinner jacket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderately formal; requiring a dinner jacket.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-formal designates moderately formal; requiring a dinner jacket."*

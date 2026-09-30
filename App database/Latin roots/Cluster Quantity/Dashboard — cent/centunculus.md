@@ -5,13 +5,6 @@ status: unread
 ---
 # centunculus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous genus of the family primulaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous genus of the family primulaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centunculus designates a dicotyledonous genus of the family primulaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous genus of the family primulaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous genus of the family primulaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centunculus designates a dicotyledonous genus of the family primulaceae."*

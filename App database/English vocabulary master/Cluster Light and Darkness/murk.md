@@ -5,20 +5,6 @@ status: unread
 ---
 # murk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dark, murky
-> 2. **Nuance / Usage**: Gloom, darkness; also : fog
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the murk withstood the storm*), direct object (*cleaved the murk*), or prepositional anchor (*amidst the murk*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Rodman Drake (*The Culprit Fay*):** *"He cannot see through the mantle murk."*
-> - 📜 **Walt Whitman (*Sequel to Drum-Taps: When Lilacs Last in the Dooryard Bloom’d and other poems*):** *"O great star disappear’d—O the black murk that hides the star!"*
-> - 📜 **Booth Tarkington (*The Magnificent Ambersons*):** *"Dawn had been murking through the smoky windows, growing stronger for half an hour..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dark, murky
+> 2. **Nuance / Usage**: Gloom, darkness; also : fog
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the murk withstood the storm*), direct object (*cleaved the murk*), or prepositional anchor (*amidst the murk*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Rodman Drake (*The Culprit Fay*):** *"He cannot see through the mantle murk."*
+> - 📜 **Walt Whitman (*Sequel to Drum-Taps: When Lilacs Last in the Dooryard Bloom’d and other poems*):** *"O great star disappear’d—O the black murk that hides the star!"*
+> - 📜 **Booth Tarkington (*The Magnificent Ambersons*):** *"Dawn had been murking through the smoky windows, growing stronger for half an hour..."*

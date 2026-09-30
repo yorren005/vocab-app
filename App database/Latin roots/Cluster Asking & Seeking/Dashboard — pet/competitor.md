@@ -5,15 +5,6 @@ status: unread
 ---
 # competitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contestant you hope to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contestant you hope to defeat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tribunes, and me, a poor competitor. [_Flourish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night he meaneth with a corded ladder To climb celestial Silvia’s chamber window, Myself in counsel, his competitor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contestant you hope to defeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contestant you hope to defeat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tribunes, and me, a poor competitor. [_Flourish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night he meaneth with a corded ladder To climb celestial Silvia’s chamber window, Myself in counsel, his competitor."*

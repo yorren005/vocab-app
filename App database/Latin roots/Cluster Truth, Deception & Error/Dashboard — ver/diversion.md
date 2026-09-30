@@ -5,15 +5,6 @@ status: unread
 ---
 # diversion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that diverts or amuses or stimulates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turning aside (of your course or attention or concern).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, after a moment’s consideration, began, to the great diversion of his mother, which she displayed by nudging Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My one diversion was an oar and a jackknife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that diverts or amuses or stimulates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turning aside (of your course or attention or concern).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, after a moment’s consideration, began, to the great diversion of his mother, which she displayed by nudging Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My one diversion was an oar and a jackknife."*

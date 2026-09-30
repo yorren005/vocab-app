@@ -5,13 +5,6 @@ status: unread
 ---
 # endomorphy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Round, fat, and heavy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Round, fat, and heavy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorphy designates round, fat, and heavy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Round, fat, and heavy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Round, fat, and heavy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorphy designates round, fat, and heavy."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # impasse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress can be made or no advancement is possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A street with only one way in or out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The impasse will, quite likely, remain for some time."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Rose lights up better!" "Purple is more uncommon." "Rose is more cheerful in winter!" "Purple is restful in summer!" It seemed for a moment as if we had reached an _impasse_, then came an illuminating thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress can be made or no advancement is possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A street with only one way in or out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The impasse will, quite likely, remain for some time."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Rose lights up better!" "Purple is more uncommon." "Rose is more cheerful in winter!" "Purple is restful in summer!" It seemed for a moment as if we had reached an _impasse_, then came an illuminating thought."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # insertion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message (spoken or written) that is introduced or inserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting one thing into another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now suspended in stages over the side, Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body for the insertion of the hook just above the nearest of the two side-fins."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For my own part, at every new view I take of the subject, I become more convinced of the reality of the obstacles which, we are authoritatively informed, prevented the insertion of a provision on this head in the plan of the convention."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Spectacles and hair still left the personality of the face untouched; even the bushy eyebrows were but a partial disguise, but with the insertion of those small india-rubber pads came an utter and radical change."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message (spoken or written) that is introduced or inserted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting one thing into another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now suspended in stages over the side, Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body for the insertion of the hook just above the nearest of the two side-fins."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For my own part, at every new view I take of the subject, I become more convinced of the reality of the obstacles which, we are authoritatively informed, prevented the insertion of a provision on this head in the plan of the convention."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Spectacles and hair still left the personality of the face untouched; even the bushy eyebrows were but a partial disguise, but with the insertion of those small india-rubber pads came an utter and radical change."*

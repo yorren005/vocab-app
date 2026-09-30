@@ -5,15 +5,6 @@ status: unread
 ---
 # photographically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By photographic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By photographic means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The picture is placed, either by hand or photographically, upon a sheet of copper foil, which is fixed round the rotating cylinder, the lines being formed of non-conducting material."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The waves are recorded photographically, in some cases by the kinematograph."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The differently coloured lights are not of the same power photographically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By photographic means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By photographic means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The picture is placed, either by hand or photographically, upon a sheet of copper foil, which is fixed round the rotating cylinder, the lines being formed of non-conducting material."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The waves are recorded photographically, in some cases by the kinematograph."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The differently coloured lights are not of the same power photographically."*

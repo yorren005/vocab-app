@@ -5,15 +5,6 @@ status: unread
 ---
 # alarm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear resulting from the awareness of danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that signals the occurrence of some undesirable event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forth at your eyes your spirits wildly peep, And, as the sleeping soldiers in the alarm, Your bedded hairs, like life in excrements, Start up and stand an end."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when she speaks, is it not an alarm to love?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear resulting from the awareness of danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that signals the occurrence of some undesirable event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forth at your eyes your spirits wildly peep, And, as the sleeping soldiers in the alarm, Your bedded hairs, like life in excrements, Start up and stand an end."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when she speaks, is it not an alarm to love?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonmigratory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of animals that do not migrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of animals that do not migrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmigratory designates used of animals that do not migrate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of animals that do not migrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of animals that do not migrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmigratory designates used of animals that do not migrate."*

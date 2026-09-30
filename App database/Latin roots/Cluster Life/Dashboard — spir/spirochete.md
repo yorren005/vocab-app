@@ -5,13 +5,6 @@ status: unread
 ---
 # spirochete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic or free-living bacteria; many pathogenic to humans and other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic or free-living bacteria; many pathogenic to humans and other animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochete designates parasitic or free-living bacteria; many pathogenic to humans and other animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic or free-living bacteria; many pathogenic to humans and other animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic or free-living bacteria; many pathogenic to humans and other animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochete designates parasitic or free-living bacteria; many pathogenic to humans and other animals."*

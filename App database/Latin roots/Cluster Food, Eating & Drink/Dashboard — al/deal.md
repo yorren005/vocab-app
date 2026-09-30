@@ -5,15 +5,6 @@ status: unread
 ---
 # deal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular instance of buying or selling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agreement between parties (usually arrived at after discussion) fixing obligations of each.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, good lady, The fellow has a deal of that too much, Which holds him much to have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do not know him, my lord, as we do; certain it is that he will steal himself into a man’s favour, and for a week escape a great deal of discoveries, but when you find him out, you have him ever after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should I be a great deal of his act."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular instance of buying or selling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agreement between parties (usually arrived at after discussion) fixing obligations of each.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, good lady, The fellow has a deal of that too much, Which holds him much to have."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do not know him, my lord, as we do; certain it is that he will steal himself into a man’s favour, and for a week escape a great deal of discoveries, but when you find him out, you have him ever after."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should I be a great deal of his act."*

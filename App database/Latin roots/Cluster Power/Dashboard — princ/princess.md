@@ -5,15 +5,6 @@ status: unread
 ---
 # princess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a royal family other than the queen (especially the daughter of a sovereign).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female member of a royal family other than the queen (especially the daughter of a sovereign).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is well done, and fitting for a princess Descended of so many royal kings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair princess, you have lost much good sport."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur the challenger, the Princess calls for you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a royal family other than the queen (especially the daughter of a sovereign).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female member of a royal family other than the queen (especially the daughter of a sovereign).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is well done, and fitting for a princess Descended of so many royal kings."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair princess, you have lost much good sport."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur the challenger, the Princess calls for you."*

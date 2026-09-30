@@ -5,13 +5,6 @@ status: unread
 ---
 # tenebrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and gloomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and gloomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It is strange how I accepted this unforeseen partnership, this choice of nightmares forced upon me in the tenebrous land invaded by these mean and greedy phantoms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and gloomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and gloomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It is strange how I accepted this unforeseen partnership, this choice of nightmares forced upon me in the tenebrous land invaded by these mean and greedy phantoms."*

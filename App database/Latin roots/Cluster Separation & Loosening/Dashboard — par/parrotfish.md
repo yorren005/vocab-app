@@ -5,13 +5,6 @@ status: unread
 ---
 # parrotfish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gaudy tropical fishes with parrotlike beaks formed by fusion of teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gaudy tropical fishes with parrotlike beaks formed by fusion of teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parrotfish designates gaudy tropical fishes with parrotlike beaks formed by fusion of teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gaudy tropical fishes with parrotlike beaks formed by fusion of teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gaudy tropical fishes with parrotlike beaks formed by fusion of teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parrotfish designates gaudy tropical fishes with parrotlike beaks formed by fusion of teeth."*

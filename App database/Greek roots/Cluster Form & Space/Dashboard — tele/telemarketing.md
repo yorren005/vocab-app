@@ -5,13 +5,6 @@ status: unread
 ---
 # telemarketing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemarketing designates the use of the telephone as an interactive medium for promotion and sales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemarketing designates the use of the telephone as an interactive medium for promotion and sales."*

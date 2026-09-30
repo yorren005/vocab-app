@@ -5,14 +5,6 @@ status: unread
 ---
 # depopulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having reduced numbers of inhabitants (or no inhabitants at all).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having reduced numbers of inhabitants (or no inhabitants at all).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A depopulation was also going on."*
-> - 📜 **John Milton (*Paradise Lost*):** *"How didst thou grieve then, Adam, to behold The end of all thy offspring, end so sad, Depopulation!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having reduced numbers of inhabitants (or no inhabitants at all).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having reduced numbers of inhabitants (or no inhabitants at all).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A depopulation was also going on."*
+> - 📜 **John Milton (*Paradise Lost*):** *"How didst thou grieve then, Adam, to behold The end of all thy offspring, end so sad, Depopulation!"*

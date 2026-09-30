@@ -5,15 +5,6 @@ status: unread
 ---
 # merged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He may be a very superior man, but he is, so to speak, merged—merged—in the more shining qualities of his wife.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s power of jocularity merged into a power of taking the profoundest offence."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Where was this superfine, extraordinary sort of gallantry of yours then?” “All merged in my friendship, Sophia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He may be a very superior man, but he is, so to speak, merged—merged—in the more shining qualities of his wife.” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s power of jocularity merged into a power of taking the profoundest offence."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Where was this superfine, extraordinary sort of gallantry of yours then?” “All merged in my friendship, Sophia."*

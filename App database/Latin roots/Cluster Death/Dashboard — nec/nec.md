@@ -5,15 +5,6 @@ status: unread
 ---
 # nec
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute inflammatory disease occurring in the intestines of premature infants; necrosis of intestinal tissue may follow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute inflammatory disease occurring in the intestines of premature infants; necrosis of intestinal tissue may follow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see: [_Reads_.] _Integer vitae, scelerisque purus, Non eget Mauri iaculis, nec arcu._ CHIRON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Elsewhere Tertullian explains this: _laedimas Romanos nec Romani habemur qui non Romanorum deum colimus, Apol._ 24. [4] Apud Origen, _c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute inflammatory disease occurring in the intestines of premature infants; necrosis of intestinal tissue may follow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute inflammatory disease occurring in the intestines of premature infants; necrosis of intestinal tissue may follow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see: [_Reads_.] _Integer vitae, scelerisque purus, Non eget Mauri iaculis, nec arcu._ CHIRON."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Elsewhere Tertullian explains this: _laedimas Romanos nec Romani habemur qui non Romanorum deum colimus, Apol._ 24. [4] Apud Origen, _c."*

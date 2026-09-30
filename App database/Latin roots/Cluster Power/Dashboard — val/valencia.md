@@ -5,15 +5,6 @@ status: unread
 ---
 # valencia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in northern venezuela.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in eastern spain on the mediterranean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had made an excursion from Valencia to Murviedro, with a view to inspect the remains of Roman magnificence scattered in the environs of that town."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They returned to Valencia together."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"While Pleyel remained in Valencia, Carwin betrayed no aversion to intercourse, and the former found no small attractions in the society of this new acquaintance, On general topics he was highly intelligent and communicative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in northern venezuela.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in eastern spain on the mediterranean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had made an excursion from Valencia to Murviedro, with a view to inspect the remains of Roman magnificence scattered in the environs of that town."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They returned to Valencia together."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"While Pleyel remained in Valencia, Carwin betrayed no aversion to intercourse, and the former found no small attractions in the society of this new acquaintance, On general topics he was highly intelligent and communicative."*

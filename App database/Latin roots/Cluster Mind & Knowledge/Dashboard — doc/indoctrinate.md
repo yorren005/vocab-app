@@ -5,13 +5,6 @@ status: unread
 ---
 # indoctrinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach doctrines to; teach uncritically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teach doctrines to; teach uncritically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indoctrinate designates teach doctrines to; teach uncritically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach doctrines to; teach uncritically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teach doctrines to; teach uncritically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indoctrinate designates teach doctrines to; teach uncritically."*

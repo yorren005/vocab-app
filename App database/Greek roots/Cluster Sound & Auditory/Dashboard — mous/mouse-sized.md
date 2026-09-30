@@ -5,13 +5,6 @@ status: unread
 ---
 # mouse-sized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the approximate size of a mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the approximate size of a mouse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mouse-sized designates having the approximate size of a mouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the approximate size of a mouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the approximate size of a mouse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mouse-sized designates having the approximate size of a mouse."*

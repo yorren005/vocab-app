@@ -5,15 +5,6 @@ status: unread
 ---
 # inaccurate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through the operation of its act New Zealand came to be called the "land without strikes," tho the description was inaccurate, especially after 1907."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am inaccurate but vigorous, and occasionally send in a quite unplayable shot."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But for this the shell would tend to turn over and over, resulting in uncertain and inaccurate flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through the operation of its act New Zealand came to be called the "land without strikes," tho the description was inaccurate, especially after 1907."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am inaccurate but vigorous, and occasionally send in a quite unplayable shot."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But for this the shell would tend to turn over and over, resulting in uncertain and inaccurate flight."*

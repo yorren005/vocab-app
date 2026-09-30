@@ -5,15 +5,6 @@ status: unread
 ---
 # subserve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be helpful or useful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be helpful or useful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble's is to stay at home and superintend the minor matters of life, such as milking the kine, feeding the chickens, and slaughtering a lamb occasionally to subserve the grosser wants of poor human nature."*
-> - 📜 **Effie Afton (*Eventide*):** *"But I'm willing you should use my name, darling, to subserve your timidity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be helpful or useful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be helpful or useful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
+> - 📜 **Effie Afton (*Eventide*):** *"Pimble's is to stay at home and superintend the minor matters of life, such as milking the kine, feeding the chickens, and slaughtering a lamb occasionally to subserve the grosser wants of poor human nature."*
+> - 📜 **Effie Afton (*Eventide*):** *"But I'm willing you should use my name, darling, to subserve your timidity."*

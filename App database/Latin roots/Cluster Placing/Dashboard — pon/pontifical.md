@@ -5,14 +5,6 @@ status: unread
 ---
 # pontifical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vestments and other insignia of a pontiff (especially a bishop).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus did I keep my person fresh and new, My presence, like a robe pontifical, Ne’er seen but wonder’d at, and so my state, Seldom but sumptuous, showed like a feast, And won by rareness such solemnity."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Campbell could almost see his white Spanish face, his pointed fingers, his pointed beard, his pontifical walk...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vestments and other insignia of a pontiff (especially a bishop).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus did I keep my person fresh and new, My presence, like a robe pontifical, Ne’er seen but wonder’d at, and so my state, Seldom but sumptuous, showed like a feast, And won by rareness such solemnity."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Campbell could almost see his white Spanish face, his pointed fingers, his pointed beard, his pontifical walk...."*

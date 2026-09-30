@@ -5,13 +5,6 @@ status: unread
 ---
 # rani
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (the feminine of raja) a hindu princess or the wife of a raja.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (the feminine of raja) a hindu princess or the wife of a raja.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rani designates (the feminine of raja) a hindu princess or the wife of a raja."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (the feminine of raja) a hindu princess or the wife of a raja.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (the feminine of raja) a hindu princess or the wife of a raja.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rani designates (the feminine of raja) a hindu princess or the wife of a raja."*

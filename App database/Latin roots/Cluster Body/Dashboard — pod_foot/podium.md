@@ -5,13 +5,6 @@ status: unread
 ---
 # podium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A platform raised above the surrounding level to give prominence to the person on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A platform raised above the surrounding level to give prominence to the person on it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podium designates a platform raised above the surrounding level to give prominence to the person on it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A platform raised above the surrounding level to give prominence to the person on it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A platform raised above the surrounding level to give prominence to the person on it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podium designates a platform raised above the surrounding level to give prominence to the person on it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # front
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The side that is forward or prominent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The line along which opposing armies face each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those his goodly eyes, That o’er the files and musters of the war Have glowed like plated Mars, now bend, now turn The office and devotion of their view Upon a tawny front."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, Caesar, I shall be furnished to inform you rightly Both what by sea and land I can be able To front this present time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirs, you four shall front them in the narrow lane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The side that is forward or prominent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The line along which opposing armies face each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those his goodly eyes, That o’er the files and musters of the war Have glowed like plated Mars, now bend, now turn The office and devotion of their view Upon a tawny front."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, Caesar, I shall be furnished to inform you rightly Both what by sea and land I can be able To front this present time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirs, you four shall front them in the narrow lane."*

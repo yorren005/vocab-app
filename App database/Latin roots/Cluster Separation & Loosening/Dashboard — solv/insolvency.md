@@ -5,15 +5,6 @@ status: unread
 ---
 # insolvency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of financial resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of financial resources.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won’t she feel forsaken and deserted?” “Impossible!—when I told you how she, on the contrary, deserted me: the idea of my insolvency cooled, or rather extinguished, her flame in a moment.” “You have a curious, designing mind, Mr."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They must be redeemed on penalty of insolvency; government notes need not be, and yet will circulate at par if properly limited."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A general suspension of the banks, a depreciated currency, and insolvency of the federal treasury were at hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of financial resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of financial resources.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won’t she feel forsaken and deserted?” “Impossible!—when I told you how she, on the contrary, deserted me: the idea of my insolvency cooled, or rather extinguished, her flame in a moment.” “You have a curious, designing mind, Mr."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They must be redeemed on penalty of insolvency; government notes need not be, and yet will circulate at par if properly limited."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A general suspension of the banks, a depreciated currency, and insolvency of the federal treasury were at hand."*

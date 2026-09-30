@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrazzini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pasta dish with cream sauce and mushrooms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pasta dish with cream sauce and mushrooms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrazzini designates a pasta dish with cream sauce and mushrooms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pasta dish with cream sauce and mushrooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pasta dish with cream sauce and mushrooms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrazzini designates a pasta dish with cream sauce and mushrooms."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypnotherapy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment by hypnotism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychotherapy that facilitates suggestion, reeducation, or analysis by hypnosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnotherapy designates treatment by hypnotism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment by hypnotism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychotherapy that facilitates suggestion, reeducation, or analysis by hypnosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnotherapy designates treatment by hypnotism."*

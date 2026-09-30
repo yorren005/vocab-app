@@ -5,13 +5,6 @@ status: unread
 ---
 # pacha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A civil or military authority in turkey or egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A civil or military authority in turkey or egypt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacha designates a civil or military authority in turkey or egypt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A civil or military authority in turkey or egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A civil or military authority in turkey or egypt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacha designates a civil or military authority in turkey or egypt."*

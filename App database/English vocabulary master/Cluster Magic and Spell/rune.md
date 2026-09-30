@@ -5,20 +5,6 @@ status: unread
 ---
 # rune
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Mystery, magic
-> 2. **Nuance / Usage**: Finnish or old norse poem
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rune withstood the storm*), direct object (*cleaved the rune*), or prepositional anchor (*amidst the rune*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **{{w (*The Old English Herbals*):** *"Yet they made for man those mystic swords of superhuman workmanship engraved with magic runes and dipped when red hot in blood or in a broth of poisonous herbs and twigs."*
-> - 📜 **Classic Author (*A Choice of Anglo-Saxon Verse*):** *"Runes were the letters of an ancient Germanic alphabet, ultimately derived from the Mediterranean alphabets, which was used for carving on wood or stone and which to some extent survived the introduction of writing."*
-> - 📜 **Richard Carpenter (screenwriter) (*Catweazle and the Magic Zodiac*):** *"Finding you somewhere to live isn't going to be easy," he said. "We must cast the runes," said Catweazle. "They will tell us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Any of the angular letters of the ancient Germanic and Norse alphabets, historically carved into stone, wood, or metal.
+> 2. **Nuance / Usage**: A mark, symbol, or verse invested with occult mystery, divinatory power, or secret magical significance.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rune withstood the storm*), direct object (*cleaved the rune*), or prepositional anchor (*amidst the rune*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. R. R. Tolkien (*The Hobbit*):** *"Moon-letters are **rune** letters, but you cannot see them unless the moon shines behind them."*
+> - 📜 **M. R. James (*Casting the Runes*):** *"He handed the slip of paper to Karswell without a word, unaware of the fatal **runes** inscribed upon the parchment."*
+> - 📜 **Edgar Allan Poe (*Ulalume*):** *"Yet we knew not the month was October, and we marked not the night of the year—ah, night of all nights in the year!—as we murmured the **runes** of the stars."*

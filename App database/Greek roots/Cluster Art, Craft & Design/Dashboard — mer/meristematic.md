@@ -5,13 +5,6 @@ status: unread
 ---
 # meristematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristematic designates a formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristematic designates a formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs."*

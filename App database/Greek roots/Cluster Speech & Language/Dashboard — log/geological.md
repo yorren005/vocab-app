@@ -5,15 +5,6 @@ status: unread
 ---
 # geological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on geology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on geology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “that he disfigured some of the houses and other buildings by chipping off fragments of those edifices with his little geological hammer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the active superintendence of this young person, Judy Smallweed appears to attain a perfectly geological age and to date from the remotest periods."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon his steady, ivory stride was heard, as to and fro he paced his old rounds, upon planks so familiar to his tread, that they were all over dented, like geological stones, with the peculiar mark of his walk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on geology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on geology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “that he disfigured some of the houses and other buildings by chipping off fragments of those edifices with his little geological hammer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the active superintendence of this young person, Judy Smallweed appears to attain a perfectly geological age and to date from the remotest periods."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon his steady, ivory stride was heard, as to and fro he paced his old rounds, upon planks so familiar to his tread, that they were all over dented, like geological stones, with the peculiar mark of his walk."*

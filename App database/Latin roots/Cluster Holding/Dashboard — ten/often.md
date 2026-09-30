@@ -5,15 +5,6 @@ status: unread
 ---
 # often
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Many times at short intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frequently or in great quantities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair, kind, and true, have often lived alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They begin to smoke me, and disgraces have of late knock’d too often at my door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Many times at short intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frequently or in great quantities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair, kind, and true, have often lived alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They begin to smoke me, and disgraces have of late knock’d too often at my door."*

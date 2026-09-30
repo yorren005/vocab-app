@@ -5,13 +5,6 @@ status: unread
 ---
 # medicolegal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicolegal designates pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicolegal designates pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information)."*

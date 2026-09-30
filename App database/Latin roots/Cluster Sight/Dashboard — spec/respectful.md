@@ -5,15 +5,6 @@ status: unread
 ---
 # respectful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or exhibiting respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or manifesting veneration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I speak of interest, it is only to recommend myself and my respectful wretchedness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He says, ‘I beg my respectful compliments to my Lady, who, I hope, has benefited by the change."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell with a respectful glance and a bow that way, “as to place near her a young beauty of the name of Rosa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or exhibiting respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or manifesting veneration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I speak of interest, it is only to recommend myself and my respectful wretchedness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He says, ‘I beg my respectful compliments to my Lady, who, I hope, has benefited by the change."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell with a respectful glance and a bow that way, “as to place near her a young beauty of the name of Rosa."*

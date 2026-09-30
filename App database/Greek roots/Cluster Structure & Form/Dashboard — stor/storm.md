@@ -5,15 +5,6 @@ status: unread
 ---
 # storm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent weather condition with winds 64-72 knots (11 on the beaufort scale) and precipitation and thunder and lightning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent commotion or disturbance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next Caesarion smite, Till, by degrees the memory of my womb, Together with my brave Egyptians all, By the discandying of this pelleted storm, Lie graveless, till the flies and gnats of Nile Have buried them for prey!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that unbuckles this, till we do please To daff’t for our repose, shall hear a storm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent weather condition with winds 64-72 knots (11 on the beaufort scale) and precipitation and thunder and lightning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent commotion or disturbance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next Caesarion smite, Till, by degrees the memory of my womb, Together with my brave Egyptians all, By the discandying of this pelleted storm, Lie graveless, till the flies and gnats of Nile Have buried them for prey!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that unbuckles this, till we do please To daff’t for our repose, shall hear a storm."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*

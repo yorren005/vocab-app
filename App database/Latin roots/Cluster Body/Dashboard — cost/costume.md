@@ -5,15 +5,6 @@ status: unread
 ---
 # costume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attire worn in a play or at a fancy dress ball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual or period attire not characteristic of or appropriate to the time and place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Inside them she found a whole stock of clothing, from bonnet to shoes, including a perfect morning costume, such as would well suit the simple wedding they planned."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not her hard taskmaster, Farmer Groby; it was one in a semi-clerical costume, who now represented what had once been the free-and-easy Alec d’Urberville."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was fully dressed now in the walking costume of a well-to-do young lady in which she had arrived, with the sole addition that over her hat and black feathers a veil was drawn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attire worn in a play or at a fancy dress ball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual or period attire not characteristic of or appropriate to the time and place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Inside them she found a whole stock of clothing, from bonnet to shoes, including a perfect morning costume, such as would well suit the simple wedding they planned."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not her hard taskmaster, Farmer Groby; it was one in a semi-clerical costume, who now represented what had once been the free-and-easy Alec d’Urberville."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was fully dressed now in the walking costume of a well-to-do young lady in which she had arrived, with the sole addition that over her hat and black feathers a veil was drawn."*

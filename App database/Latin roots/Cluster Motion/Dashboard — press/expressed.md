@@ -5,15 +5,6 @@ status: unread
 ---
 # expressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articulate; either verbally or with a cry, shout, or noise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His heart, like an agate, with your print impressed, Proud with his form, in his eye pride expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forswear them, and I here protest, By this white glove—how white the hand, God knows!— Henceforth my wooing mind shall be expressed In russet yeas and honest kersey noes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articulate; either verbally or with a cry, shout, or noise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His heart, like an agate, with your print impressed, Proud with his form, in his eye pride expressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forswear them, and I here protest, By this white glove—how white the hand, God knows!— Henceforth my wooing mind shall be expressed In russet yeas and honest kersey noes."*

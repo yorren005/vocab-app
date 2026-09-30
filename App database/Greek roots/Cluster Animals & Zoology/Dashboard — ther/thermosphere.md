@@ -5,13 +5,6 @@ status: unread
 ---
 # thermosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermosphere designates the part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermosphere designates the part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height."*

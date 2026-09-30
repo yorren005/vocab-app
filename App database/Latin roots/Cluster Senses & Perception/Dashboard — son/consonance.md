@@ -5,15 +5,6 @@ status: unread
 ---
 # consonance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of consonants (or consonant patterns) especially at the ends of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of sounding harmonious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This self-effacement in both directions had been quite in consonance with her independent character of desiring nothing by way of favour or pity to which she was not entitled on a fair consideration of her deserts."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"His jaw was too square and set and his figure too straight and stiff: these things suggested a want of easy consonance with the deeper rhythms of life."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The divine authority 168:15 Because man-made systems insist that man becomes sick and useless, suffers and dies, all in consonance with the laws of God, are we to believe it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of consonants (or consonant patterns) especially at the ends of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of sounding harmonious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This self-effacement in both directions had been quite in consonance with her independent character of desiring nothing by way of favour or pity to which she was not entitled on a fair consideration of her deserts."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"His jaw was too square and set and his figure too straight and stiff: these things suggested a want of easy consonance with the deeper rhythms of life."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The divine authority 168:15 Because man-made systems insist that man becomes sick and useless, suffers and dies, all in consonance with the laws of God, are we to believe it?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # der
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivation; derivative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spirit that always negates —applied originally to Mephistopheles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bastian, _Der Mensch in der Geschichte_ (Leipsic, 1860), iii. 81. [7] Athenaeus, xii. 8, p. 514 c. [8] _The Voiages and Travels of John Struys_ (London, 1684), p. 30. [9] Rev."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bishop, _Korea and her Neighbours_ (London, 1898), ii. 248. [58] J.L. van Hasselt, "Eenige aanteekeningen aangaande de bewoners der N."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivation; derivative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spirit that always negates —applied originally to Mephistopheles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bastian, _Der Mensch in der Geschichte_ (Leipsic, 1860), iii. 81. [7] Athenaeus, xii. 8, p. 514 c. [8] _The Voiages and Travels of John Struys_ (London, 1684), p. 30. [9] Rev."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bishop, _Korea and her Neighbours_ (London, 1898), ii. 248. [58] J.L. van Hasselt, "Eenige aanteekeningen aangaande de bewoners der N."*

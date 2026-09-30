@@ -5,13 +5,6 @@ status: unread
 ---
 # plenteousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"The plenteousness of all--that there are no bounds; To emerge, and be of the sky--of the sun and moon and the flying clouds, as one with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"The plenteousness of all--that there are no bounds; To emerge, and be of the sky--of the sun and moon and the flying clouds, as one with them."*

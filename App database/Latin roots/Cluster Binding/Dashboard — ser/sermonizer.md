@@ -5,13 +5,6 @@ status: unread
 ---
 # sermonizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation is preaching the gospel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose occupation is preaching the gospel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sermonizer designates someone whose occupation is preaching the gospel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation is preaching the gospel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose occupation is preaching the gospel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sermonizer designates someone whose occupation is preaching the gospel."*

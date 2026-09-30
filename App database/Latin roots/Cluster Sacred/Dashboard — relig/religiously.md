@@ -5,15 +5,6 @@ status: unread
 ---
 # religiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A nun of winter’s sisterhood kisses not more religiously; the very ice of chastity is in them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My learned lord, we pray you to proceed And justly and religiously unfold Why the law Salic that they have in France Or should or should not bar us in our claim."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A nun of winter’s sisterhood kisses not more religiously; the very ice of chastity is in them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My learned lord, we pray you to proceed And justly and religiously unfold Why the law Salic that they have in France Or should or should not bar us in our claim."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # inequity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Injustice by virtue of not conforming with rules or standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injustice by virtue of not conforming with rules or standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inequity designates injustice by virtue of not conforming with rules or standards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Injustice by virtue of not conforming with rules or standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injustice by virtue of not conforming with rules or standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inequity designates injustice by virtue of not conforming with rules or standards."*

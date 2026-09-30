@@ -5,15 +5,6 @@ status: unread
 ---
 # sumatra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous island in western indonesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountainous island in western indonesia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And on the great drift, southward and eastward under the burning sun that perished all descendants of the houses of Asgard and Vanaheim, I have been a king in Ceylon, a builder of Aryan monuments under Aryan kings in old Java and old Sumatra."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would not Lazarus rather be in Sumatra than here?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Time out of mind the piratical proas of the Malays, lurking among the low shaded coves and islets of Sumatra, have sallied out upon the vessels sailing through the straits, fiercely demanding tribute at the point of their spears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous island in western indonesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountainous island in western indonesia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And on the great drift, southward and eastward under the burning sun that perished all descendants of the houses of Asgard and Vanaheim, I have been a king in Ceylon, a builder of Aryan monuments under Aryan kings in old Java and old Sumatra."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would not Lazarus rather be in Sumatra than here?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Time out of mind the piratical proas of the Malays, lurking among the low shaded coves and islets of Sumatra, have sallied out upon the vessels sailing through the straits, fiercely demanding tribute at the point of their spears."*

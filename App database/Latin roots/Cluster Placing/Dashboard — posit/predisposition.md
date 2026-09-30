@@ -5,15 +5,6 @@ status: unread
 ---
 # predisposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptibility to a pathogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination beforehand to interpret statements in a particular way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is but seldom that any one overt act produces hostilities between two nations; there exists, most commonly, a previous jealousy and ill-will, a predisposition to take offence."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"At fifteen years of age she became a teacher, and in 1856 came West for the benefit of her health, having a predisposition to pulmonary consumption, and fearing the effect of the east winds and the trying climate of the Eastern States."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptibility to a pathogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination beforehand to interpret statements in a particular way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is but seldom that any one overt act produces hostilities between two nations; there exists, most commonly, a previous jealousy and ill-will, a predisposition to take offence."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"At fifteen years of age she became a teacher, and in 1856 came West for the benefit of her health, having a predisposition to pulmonary consumption, and fearing the effect of the east winds and the trying climate of the Eastern States."*

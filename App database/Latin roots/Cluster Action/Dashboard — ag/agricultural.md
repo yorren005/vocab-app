@@ -5,15 +5,6 @@ status: unread
 ---
 # agricultural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or used in or promoting agriculture or farming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to rural matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons left the castle in order to attend a university in Germany, and Philip also left for an agricultural school."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In less than five months his term here would have ended, and after a few additional months spent upon other farms he would be fully equipped in agricultural knowledge and in a position to start on his own account."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wide acreage of blank agricultural brownness, apparent where the swedes had been pulled, was beginning to be striped in wales of darker brown, gradually broadening to ribands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or used in or promoting agriculture or farming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to rural matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons left the castle in order to attend a university in Germany, and Philip also left for an agricultural school."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In less than five months his term here would have ended, and after a few additional months spent upon other farms he would be fully equipped in agricultural knowledge and in a position to start on his own account."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wide acreage of blank agricultural brownness, apparent where the swedes had been pulled, was beginning to be striped in wales of darker brown, gradually broadening to ribands."*

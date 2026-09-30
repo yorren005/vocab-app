@@ -5,15 +5,6 @@ status: unread
 ---
 # cute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attractive especially by means of smallness or prettiness or quaintness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obviously contrived to charm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And then, these exchanges, they don’t answer when you have ’cute jockeys to deal with."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Skill, coolness, audacity, and cunning he possessed in a superior degree, and it must be a cunning whale or a singularly “cute” cachalot to escape the stroke of his harpoon."*
-> - 📜 **James Joyce (*Ulysses*):** *"Hope he’s not looking, cute as a rat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attractive especially by means of smallness or prettiness or quaintness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obviously contrived to charm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"And then, these exchanges, they don’t answer when you have ’cute jockeys to deal with."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Skill, coolness, audacity, and cunning he possessed in a superior degree, and it must be a cunning whale or a singularly “cute” cachalot to escape the stroke of his harpoon."*
+> - 📜 **James Joyce (*Ulysses*):** *"Hope he’s not looking, cute as a rat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # superintend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She meant to superintend these preparations herself and to have it all fixed as daintily as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was quite willing to receive Richard into his house and to superintend his studies, and as it seemed that those could be pursued advantageously under Mr."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"We read that "in those days, when the stock of any considerable farmer was seized with the murrain, he would send for one of the charm-doctors to superintend the raising of a _need-fire_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She meant to superintend these preparations herself and to have it all fixed as daintily as possible."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was quite willing to receive Richard into his house and to superintend his studies, and as it seemed that those could be pursued advantageously under Mr."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"We read that "in those days, when the stock of any considerable farmer was seized with the murrain, he would send for one of the charm-doctors to superintend the raising of a _need-fire_."*

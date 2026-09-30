@@ -5,15 +5,6 @@ status: unread
 ---
 # ravaged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a pillaging or destructive raid on (a place), as in wartimes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause extensive destruction or ruin utterly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Hyde raised himself on his arm and felt for his handkerchief--indifferent to Isabel's observation, or soothed by it: his features were ravaged."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans were drawn, contracts placed and foundations laid for its arcade while the holy places were ravaged by flames of the civil strife burning fiercely in the Holy Land."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whenever Marseilles, one of the busiest and most brilliant of Greek colonies, was ravaged by a plague, a man of the poorer classes used to offer himself as a scapegoat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a pillaging or destructive raid on (a place), as in wartimes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause extensive destruction or ruin utterly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Hyde raised himself on his arm and felt for his handkerchief--indifferent to Isabel's observation, or soothed by it: his features were ravaged."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans were drawn, contracts placed and foundations laid for its arcade while the holy places were ravaged by flames of the civil strife burning fiercely in the Holy Land."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whenever Marseilles, one of the busiest and most brilliant of Greek colonies, was ravaged by a plague, a man of the poorer classes used to offer himself as a scapegoat."*

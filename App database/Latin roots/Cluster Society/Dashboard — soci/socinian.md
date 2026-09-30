@@ -5,13 +5,6 @@ status: unread
 ---
 # socinian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of the teachings of socinus; a christian who rejects the divinity of christ and the trinity and original sin; influenced the development of unitarian theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of the teachings of socinus; a christian who rejects the divinity of christ and the trinity and original sin; influenced the development of unitarian theology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socinian designates an adherent of the teachings of socinus; a christian who rejects the divinity of christ and the trinity and original sin; influenced the development of unitarian theology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of the teachings of socinus; a christian who rejects the divinity of christ and the trinity and original sin; influenced the development of unitarian theology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of the teachings of socinus; a christian who rejects the divinity of christ and the trinity and original sin; influenced the development of unitarian theology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socinian designates an adherent of the teachings of socinus; a christian who rejects the divinity of christ and the trinity and original sin; influenced the development of unitarian theology."*

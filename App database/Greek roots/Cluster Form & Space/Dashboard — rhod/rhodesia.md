@@ -5,14 +5,6 @@ status: unread
 ---
 # rhodesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in south central africa formerly called rhodesia; achieved independence from the united kingdom in 1980.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in south central africa formerly called rhodesia; achieved independence from the united kingdom in 1980.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the contrary, when lightning sets fire to a tree, the Winamwanga of Northern Rhodesia put out all the fires in the village and plaster the fireplaces afresh, while the head men convey the lightning-kindled fire to the chief, who prays over it."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Others succeeded in locating such queer names as Popocatepetl, Martinique, Ashtabula, Rhodesia, Orkney, Comanche."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in south central africa formerly called rhodesia; achieved independence from the united kingdom in 1980.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in south central africa formerly called rhodesia; achieved independence from the united kingdom in 1980.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the contrary, when lightning sets fire to a tree, the Winamwanga of Northern Rhodesia put out all the fires in the village and plaster the fireplaces afresh, while the head men convey the lightning-kindled fire to the chief, who prays over it."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Others succeeded in locating such queer names as Popocatepetl, Martinique, Ashtabula, Rhodesia, Orkney, Comanche."*

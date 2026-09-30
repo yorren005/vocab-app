@@ -5,15 +5,6 @@ status: unread
 ---
 # theretofore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Up to that time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Up to that time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The methods of extracting gold theretofore had still been in large part of a primitive sort."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The rate of this movement has been more rapid in the past century than theretofore, and perhaps more rapid than it will be henceforward; but that this development will continue in large measure and for a long period, is not open to question."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The result showed the injustice done, and convinced theretofore doubting Republicans that Conkling, even as a partisan, was faithful and far-seeing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Up to that time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Up to that time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The methods of extracting gold theretofore had still been in large part of a primitive sort."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The rate of this movement has been more rapid in the past century than theretofore, and perhaps more rapid than it will be henceforward; but that this development will continue in large measure and for a long period, is not open to question."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The result showed the injustice done, and convinced theretofore doubting Republicans that Conkling, even as a partisan, was faithful and far-seeing."*

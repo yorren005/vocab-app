@@ -5,15 +5,6 @@ status: unread
 ---
 # fusible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being melted and fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being melted and fused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The presence of such envelopes of very brittle, fusible, and limpid bismuth material explains much of the harmful effect of this impurity."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Oxygen converts the bismuth into a more compactly crystalline oxide, much less fusible and harmful."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is readily formed by the oxidation of copper, and melts at a red heat without decomposition; further heating in the presence of air produces the cupric oxide which is less fusible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being melted and fused.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being melted and fused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The presence of such envelopes of very brittle, fusible, and limpid bismuth material explains much of the harmful effect of this impurity."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Oxygen converts the bismuth into a more compactly crystalline oxide, much less fusible and harmful."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is readily formed by the oxidation of copper, and melts at a red heat without decomposition; further heating in the presence of air produces the cupric oxide which is less fusible."*

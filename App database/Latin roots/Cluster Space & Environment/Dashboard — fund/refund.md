@@ -5,15 +5,6 @@ status: unread
 ---
 # refund
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money returned to a payer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of returning money received previously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You have had the money and must refund it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These returns, virtually but the refund of excess premiums, are called "dividends" (a somewhat misleading term, not to be confused with dividends on corporate stock)."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"For the lacquey complaining to Sir Launcelot of his having been despoiled, the knight commanded his squire to refund, not without menaces of subjecting him to the severest chastisement for his injustice and rapacity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money returned to a payer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of returning money received previously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You have had the money and must refund it."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These returns, virtually but the refund of excess premiums, are called "dividends" (a somewhat misleading term, not to be confused with dividends on corporate stock)."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"For the lacquey complaining to Sir Launcelot of his having been despoiled, the knight commanded his squire to refund, not without menaces of subjecting him to the severest chastisement for his injustice and rapacity."*

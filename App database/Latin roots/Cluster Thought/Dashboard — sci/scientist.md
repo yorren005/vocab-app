@@ -5,15 +5,6 @@ status: unread
 ---
 # scientist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with advanced knowledge of one or more sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with advanced knowledge of one or more sciences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A scientist might laugh at this way of driving, or at asking God to guide in such trivial matters."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, despite the sceptical attitude of the scientist that was mine, I believed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some scientist studied these peasants and found that during these periods of the “long sleep” respiration and digestion practically ceased, and that the heart was at so low tension as to defy detection by ordinary layman’s examination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with advanced knowledge of one or more sciences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with advanced knowledge of one or more sciences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A scientist might laugh at this way of driving, or at asking God to guide in such trivial matters."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, despite the sceptical attitude of the scientist that was mine, I believed."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some scientist studied these peasants and found that during these periods of the “long sleep” respiration and digestion practically ceased, and that the heart was at so low tension as to defy detection by ordinary layman’s examination."*

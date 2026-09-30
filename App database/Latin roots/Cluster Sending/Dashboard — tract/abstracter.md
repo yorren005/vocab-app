@@ -5,13 +5,6 @@ status: unread
 ---
 # abstracter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who makes abstracts or summarizes information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing only in the mind; separated from embodiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In the practical economic issues of the day, the most urgent need is a better popular understanding of the abstracter theory of value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who makes abstracts or summarizes information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing only in the mind; separated from embodiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In the practical economic issues of the day, the most urgent need is a better popular understanding of the abstracter theory of value."*

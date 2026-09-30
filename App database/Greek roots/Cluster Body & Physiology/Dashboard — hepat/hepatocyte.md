@@ -5,13 +5,6 @@ status: unread
 ---
 # hepatocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epithelial parenchymatous cell of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An epithelial parenchymatous cell of the liver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatocyte designates an epithelial parenchymatous cell of the liver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An epithelial parenchymatous cell of the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An epithelial parenchymatous cell of the liver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatocyte designates an epithelial parenchymatous cell of the liver."*

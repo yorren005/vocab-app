@@ -5,14 +5,6 @@ status: unread
 ---
 # dissolutely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dissolute way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dissolute way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am freely dissolved, and dissolutely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a fery discretion answer, save the fall is in the ’ord “dissolutely.” The ’ort is, according to our meaning, “resolutely.” His meaning is good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dissolute way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dissolute way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am freely dissolved, and dissolutely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a fery discretion answer, save the fall is in the ’ord “dissolutely.” The ’ort is, according to our meaning, “resolutely.” His meaning is good."*

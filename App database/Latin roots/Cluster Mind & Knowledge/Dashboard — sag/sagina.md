@@ -5,13 +5,6 @@ status: unread
 ---
 # sagina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small low-growing annual or perennial herbs of temperate and cool regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small low-growing annual or perennial herbs of temperate and cool regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"LYCHNIS BRAND; spots yellowish; sori subrotund or oblong, unequal, scattered, rarely confluent; spores white, at length brown, elongated, oblong, slightly constricted.—On leaves and stems of _Lychnidæ_, _Sagina procumbens_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small low-growing annual or perennial herbs of temperate and cool regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small low-growing annual or perennial herbs of temperate and cool regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"LYCHNIS BRAND; spots yellowish; sori subrotund or oblong, unequal, scattered, rarely confluent; spores white, at length brown, elongated, oblong, slightly constricted.—On leaves and stems of _Lychnidæ_, _Sagina procumbens_."*

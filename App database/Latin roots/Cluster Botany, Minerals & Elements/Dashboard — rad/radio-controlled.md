@@ -5,13 +5,6 @@ status: unread
 ---
 # radio-controlled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated and guided by radio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operated and guided by radio.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-controlled designates operated and guided by radio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated and guided by radio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operated and guided by radio.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-controlled designates operated and guided by radio."*

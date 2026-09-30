@@ -5,15 +5,6 @@ status: unread
 ---
 # sarcasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of words that mean the opposite of what one intends to say especially in order to insult, to show irritation, or to be funny : a mode of satirical wit depending for its effect on ironic and usually bitter and caustic language often directed against an individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp and often satirical or ironic utterance designed to cut or give pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The learned gentleman who does the withering business and who blights all opponents with his gloomy sarcasm is as merry as a grig at a French watering-place."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His form beside her light gray figure looked black, sinister, and forbidding, and she felt as sarcasm the touch of the jewels of which she had been momentarily so proud."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There was only one prospect left, and he went to a rich money lender, and in response to his request for relief in money difficulties, was met with this reply of irony and sarcasm from one who loved to indulge his enmity to the Christian faith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of words that mean the opposite of what one intends to say especially in order to insult, to show irritation, or to be funny : a mode of satirical wit depending for its effect on ironic and usually bitter and caustic language often directed against an individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp and often satirical or ironic utterance designed to cut or give pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The learned gentleman who does the withering business and who blights all opponents with his gloomy sarcasm is as merry as a grig at a French watering-place."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His form beside her light gray figure looked black, sinister, and forbidding, and she felt as sarcasm the touch of the jewels of which she had been momentarily so proud."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"There was only one prospect left, and he went to a rich money lender, and in response to his request for relief in money difficulties, was met with this reply of irony and sarcasm from one who loved to indulge his enmity to the Christian faith."*

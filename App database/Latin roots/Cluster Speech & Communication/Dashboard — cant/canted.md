@@ -5,15 +5,6 @@ status: unread
 ---
 # canted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heel over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing or being caused to depart from the true vertical or horizontal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A continual cascade played at the bows; a ceaseless whirling eddy in her wake; and, at the slightest motion from within, even but of a little finger, the vibrating, cracking craft canted over her spasmodic gunwale into the sea."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A continual cascade played at the bows; a ceaseless whirling eddy in her wake; and, at the slightest motion from within, even but of a little finger, the vibrating, cracking craft canted over her spasmodic gunwale into the sea."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Just then the stone canted, the dark and slimy top was seen to end in a smoothly rounded edge, and close by the man’s legs poked up a dusky, flat, and snake-like head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heel over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing or being caused to depart from the true vertical or horizontal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A continual cascade played at the bows; a ceaseless whirling eddy in her wake; and, at the slightest motion from within, even but of a little finger, the vibrating, cracking craft canted over her spasmodic gunwale into the sea."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A continual cascade played at the bows; a ceaseless whirling eddy in her wake; and, at the slightest motion from within, even but of a little finger, the vibrating, cracking craft canted over her spasmodic gunwale into the sea."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"Just then the stone canted, the dark and slimy top was seen to end in a smoothly rounded edge, and close by the man’s legs poked up a dusky, flat, and snake-like head."*

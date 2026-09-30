@@ -5,15 +5,6 @@ status: unread
 ---
 # sensation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unelaborated elementary awareness of stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is dazzlingly skilled in any field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of this sensation, the beadle arrives."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sensation is heightened as the tidings spread from mouth to mouth that the beadle is on the ground and has gone in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unelaborated elementary awareness of stimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is dazzlingly skilled in any field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of this sensation, the beadle arrives."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sensation is heightened as the tidings spread from mouth to mouth that the beadle is on the ground and has gone in."*

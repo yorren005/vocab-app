@@ -5,13 +5,6 @@ status: unread
 ---
 # calorifacient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing heat; usually used of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing heat; usually used of foods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorifacient designates producing heat; usually used of foods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing heat; usually used of foods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing heat; usually used of foods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calorifacient designates producing heat; usually used of foods."*

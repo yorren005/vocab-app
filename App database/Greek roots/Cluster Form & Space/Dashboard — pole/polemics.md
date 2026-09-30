@@ -5,13 +5,6 @@ status: unread
 ---
 # polemics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of christian theology devoted to the refutation of errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who argues in opposition to others (especially in theology).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The attempt succeeded, and the two usurpers have reigned ever since in his stead; but, to maintain quiet for the future, it was decreed that all polemics of the larger size should be hold fast with a chain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of christian theology devoted to the refutation of errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who argues in opposition to others (especially in theology).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The attempt succeeded, and the two usurpers have reigned ever since in his stead; but, to maintain quiet for the future, it was decreed that all polemics of the larger size should be hold fast with a chain."*

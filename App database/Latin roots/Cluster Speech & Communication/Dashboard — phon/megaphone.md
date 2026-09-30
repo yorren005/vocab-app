@@ -5,13 +5,6 @@ status: unread
 ---
 # megaphone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cone-shaped acoustic device held to the mouth to intensify and direct the human voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cone-shaped acoustic device held to the mouth to intensify and direct the human voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"JOHN O’CONNELL: _(Foghorns stormily through his megaphone.)_ Dignam, Patrick T, deceased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cone-shaped acoustic device held to the mouth to intensify and direct the human voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cone-shaped acoustic device held to the mouth to intensify and direct the human voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"JOHN O’CONNELL: _(Foghorns stormily through his megaphone.)_ Dignam, Patrick T, deceased."*

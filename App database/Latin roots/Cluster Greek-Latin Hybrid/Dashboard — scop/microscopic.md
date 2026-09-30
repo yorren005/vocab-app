@@ -5,15 +5,6 @@ status: unread
 ---
 # microscopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in microscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible under a microscope; using a microscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As the inimical plant could only be present in very microscopic dimensions to have escaped ordinary observation, to find it seemed rather a hopeless attempt in the stretch of rich grass before them."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And I will throw in Robert Brown’s new thing—‘Microscopic Observations on the Pollen of Plants’—if you don’t happen to have it already.” “Why, seeing how you long for the monster, I might ask a higher price."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Medusae, microscopic crustacea, and pennatules lit it slightly with their phosphorescent gleam."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in microscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible under a microscope; using a microscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As the inimical plant could only be present in very microscopic dimensions to have escaped ordinary observation, to find it seemed rather a hopeless attempt in the stretch of rich grass before them."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And I will throw in Robert Brown’s new thing—‘Microscopic Observations on the Pollen of Plants’—if you don’t happen to have it already.” “Why, seeing how you long for the monster, I might ask a higher price."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Medusae, microscopic crustacea, and pennatules lit it slightly with their phosphorescent gleam."*

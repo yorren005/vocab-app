@@ -5,13 +5,6 @@ status: unread
 ---
 # orbison
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states composer and rockabilly tenor popular in the 1950s (1936-1988).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states composer and rockabilly tenor popular in the 1950s (1936-1988).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbison designates united states composer and rockabilly tenor popular in the 1950s (1936-1988)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states composer and rockabilly tenor popular in the 1950s (1936-1988).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states composer and rockabilly tenor popular in the 1950s (1936-1988).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orbison designates united states composer and rockabilly tenor popular in the 1950s (1936-1988)."*

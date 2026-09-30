@@ -5,15 +5,6 @@ status: unread
 ---
 # cape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of land projecting into a body of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sleeveless garment like a cloak but shorter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but a little charge will trench him here, And on this north side win this cape of land, And then he runs straight and even."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What from the cape can you discern at sea?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TAILOR. ‘With a small compassed cape.’ GRUMIO."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of land projecting into a body of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sleeveless garment like a cloak but shorter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but a little charge will trench him here, And on this north side win this cape of land, And then he runs straight and even."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What from the cape can you discern at sea?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TAILOR. ‘With a small compassed cape.’ GRUMIO."*

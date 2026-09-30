@@ -5,15 +5,6 @@ status: unread
 ---
 # inscribed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register formally as a participant or member.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that in all you writ to Rome, or else To foreign princes, “_ego et rex meus_” Was still inscribed, in which you brought the King To be your servant."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, preceded by the legend Ground-Floor, is inscribed upon a door-post in Symond’s Inn, Chancery Lane—a little, pale, wall-eyed, woebegone inn like a large dust-binn of two compartments and a sifter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Underneath this was now inscribed in new letters:— In the Same Grave lie The Remains of the aforesaid Francis Troy, Who died December 24th, 18—, Aged 26 years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register formally as a participant or member.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that in all you writ to Rome, or else To foreign princes, “_ego et rex meus_” Was still inscribed, in which you brought the King To be your servant."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, preceded by the legend Ground-Floor, is inscribed upon a door-post in Symond’s Inn, Chancery Lane—a little, pale, wall-eyed, woebegone inn like a large dust-binn of two compartments and a sifter."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Underneath this was now inscribed in new letters:— In the Same Grave lie The Remains of the aforesaid Francis Troy, Who died December 24th, 18—, Aged 26 years."*

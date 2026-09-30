@@ -5,15 +5,6 @@ status: unread
 ---
 # directory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alphabetical list of names and addresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a listing of the files stored in memory (usually on a hard disk).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to us that some of them must pass their whole lives in dealing out subscription-cards to the whole post-office directory—shilling cards, half-crown cards, half-sovereign cards, penny cards."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Many thousands were instructed by this little directory, where to find the lodges, homes and pension offices of the Commission, and were guarded against imposture and loss."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"About this time a Hospital Directory was opened at Number 10, Cooper Union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alphabetical list of names and addresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a listing of the files stored in memory (usually on a hard disk).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to us that some of them must pass their whole lives in dealing out subscription-cards to the whole post-office directory—shilling cards, half-crown cards, half-sovereign cards, penny cards."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Many thousands were instructed by this little directory, where to find the lodges, homes and pension offices of the Commission, and were guarded against imposture and loss."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"About this time a Hospital Directory was opened at Number 10, Cooper Union."*

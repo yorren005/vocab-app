@@ -5,20 +5,6 @@ status: unread
 ---
 # scurry
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dash
-> 2. **Nuance / Usage**: Confused rush : turmoil
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scurry the target*) and intransitive clauses (*scurrying against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The White Rabbit put on his white kid gloves, and took up the fan, and scurried away into the darkness as hard as he could go."*
-> - 📜 **Arthur Conan Doyle (*The White Company*):** *"There was a sudden scurry of hoofs, and the archers scurried in confusion back to their ranks."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"startled out of their sleep, would listen for a moment till the hurry-scurry had clattered by, and then exclaim, 'Ay, there goes Brom Bones and his gang!'"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dash
+> 2. **Nuance / Usage**: Confused rush : turmoil
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scurry the target*) and intransitive clauses (*scurrying against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The White Rabbit put on his white kid gloves, and took up the fan, and scurried away into the darkness as hard as he could go."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"There was a sudden scurry of hoofs, and the archers scurried in confusion back to their ranks."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"startled out of their sleep, would listen for a moment till the hurry-scurry had clattered by, and then exclaim, 'Ay, there goes Brom Bones and his gang!'"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcorhamphus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually containing only the king vulture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually containing only the king vulture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcorhamphus designates usually containing only the king vulture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually containing only the king vulture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually containing only the king vulture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcorhamphus designates usually containing only the king vulture."*

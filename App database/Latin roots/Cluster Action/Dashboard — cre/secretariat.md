@@ -5,13 +5,6 @@ status: unread
 ---
 # secretariat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughbred that won the triple crown in 1973.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretariat designates an administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughbred that won the triple crown in 1973.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretariat designates an administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations."*

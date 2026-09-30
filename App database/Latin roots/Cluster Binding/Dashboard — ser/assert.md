@@ -5,15 +5,6 @@ status: learned
 ---
 # assert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It wasn’t a bad profession; he couldn’t assert that he disliked it; perhaps he liked it as well as he liked any other—suppose he gave it one more chance!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I assert no cause whatever of complaint against her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It wasn’t a bad profession; he couldn’t assert that he disliked it; perhaps he liked it as well as he liked any other—suppose he gave it one more chance!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That I assert no cause whatever of complaint against her."*

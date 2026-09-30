@@ -5,15 +5,6 @@ status: unread
 ---
 # stringy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lean and sinewy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of meat) full of sinews; especially impossible to chew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At one place in the path he saw a tuft of stringy roots washed white and clean as a bundle of tendons."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After all superfluous flesh is gone what is left is stringy and resistant."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From the wild stringy root of human uprightness, she has reared a due sense of the Divine justice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lean and sinewy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of meat) full of sinews; especially impossible to chew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At one place in the path he saw a tuft of stringy roots washed white and clean as a bundle of tendons."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After all superfluous flesh is gone what is left is stringy and resistant."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From the wild stringy root of human uprightness, she has reared a due sense of the Divine justice."*

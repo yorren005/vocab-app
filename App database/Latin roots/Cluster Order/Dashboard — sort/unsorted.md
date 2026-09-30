@@ -5,13 +5,6 @@ status: unread
 ---
 # unsorted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged according to size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not categorized or sorted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purpose you undertake is dangerous, the friends you have named uncertain, the time itself unsorted, and your whole plot too light for the counterpoise of so great an opposition.” Say you so, say you so?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged according to size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not categorized or sorted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purpose you undertake is dangerous, the friends you have named uncertain, the time itself unsorted, and your whole plot too light for the counterpoise of so great an opposition.” Say you so, say you so?"*

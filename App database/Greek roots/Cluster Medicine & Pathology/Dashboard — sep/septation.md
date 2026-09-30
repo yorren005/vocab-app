@@ -5,13 +5,6 @@ status: unread
 ---
 # septation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The division or partitioning of a cavity into parts by a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The division or partitioning of a cavity into parts by a septum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septation designates the division or partitioning of a cavity into parts by a septum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The division or partitioning of a cavity into parts by a septum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The division or partitioning of a cavity into parts by a septum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septation designates the division or partitioning of a cavity into parts by a septum."*

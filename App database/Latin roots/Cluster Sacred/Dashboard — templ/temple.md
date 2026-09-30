@@ -5,15 +5,6 @@ status: unread
 ---
 # temple
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place of worship consisting of an edifice for the worship of a deity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat area on either side of the forehead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man may, if he were of a fearful heart, stagger in this attempt, for here we have no temple but the wood, no assembly but horn-beasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The noble sister of Publicola, The moon of Rome, chaste as the icicle That’s curdied by the frost from purest snow And hangs on Dian’s temple!—Dear Valeria."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ladies, you deserve To have a temple built you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place of worship consisting of an edifice for the worship of a deity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat area on either side of the forehead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man may, if he were of a fearful heart, stagger in this attempt, for here we have no temple but the wood, no assembly but horn-beasts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The noble sister of Publicola, The moon of Rome, chaste as the icicle That’s curdied by the frost from purest snow And hangs on Dian’s temple!—Dear Valeria."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ladies, you deserve To have a temple built you."*

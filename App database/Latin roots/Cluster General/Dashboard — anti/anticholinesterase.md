@@ -5,13 +5,6 @@ status: unread
 ---
 # anticholinesterase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticholinesterase designates a medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticholinesterase designates a medicine that inhibits cholinesterase by combining with it and so has a cholinergic effect."*

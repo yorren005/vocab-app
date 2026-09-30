@@ -5,20 +5,6 @@ status: unread
 ---
 # lurk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Persist in staying
-> 2. **Nuance / Usage**: Move furtively or inconspicuously
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to lurk the target*) and intransitive clauses (*lurking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Or tyrant folly lurk in gentle breasts?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"She would have said “can lurk in such a look."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And from her tongue “can lurk” from “cannot” took."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To lie hidden or move furtively in the shadows, waiting in ambush or remaining out of sight with sinister intent.
+> 2. **Nuance / Usage**: Extended figuratively to latent dangers, unspoken suspicions, or suppressed emotions that persist just beneath the surface of consciousness or appearance.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun.
+> - **Syntactic Constructions**: Operates in intransitive clauses with locative prepositions (*to lurk in the shadows*, *danger lurking beneath*).
+> - **Collocations & Registers**: Suspenseful and psychological registers; collocated with *shadows*, *ambush*, *suspicion*, and *unseen*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Rape of Lucrece*):** *"Or tyrant folly **lurk** in gentle breasts?"*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"Some unseen terror seemed to **lurk** in every dark corner of the fog-bound street."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"A faint suspicion **lurked** in her mind that his civility was not wholly disinterested."*

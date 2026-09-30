@@ -5,13 +5,6 @@ status: unread
 ---
 # probabilism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the doctrine that (since certainty is unattainable) probability is a sufficient basis for belief and action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probabilism designates a roman catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the doctrine that (since certainty is unattainable) probability is a sufficient basis for belief and action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probabilism designates a roman catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # medication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) something that treats or prevents or alleviates the symptoms of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of treating with medicines or remedies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"An ailing individual might suddenly stop taking life-saving medication; or family members, friends, or 'significant others' might goad or exert harsh psychological pressures on an emotionally distraught person so that suicide becomes the only escape."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"So also faith, cooperating with a belief in the healing effects of time and medication, will soothe fear and change 398:27 the belief of disease to a belief of health."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mindless methods 484:6 /Question/. - Does Christian Science, or metaphysical healing, include medication, material hygiene, mesmer- ism, hypnotism, theosophy, or spiritualism? 484:9 /Answer/. - Not one of them is included in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) something that treats or prevents or alleviates the symptoms of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of treating with medicines or remedies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"An ailing individual might suddenly stop taking life-saving medication; or family members, friends, or 'significant others' might goad or exert harsh psychological pressures on an emotionally distraught person so that suicide becomes the only escape."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"So also faith, cooperating with a belief in the healing effects of time and medication, will soothe fear and change 398:27 the belief of disease to a belief of health."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mindless methods 484:6 /Question/. - Does Christian Science, or metaphysical healing, include medication, material hygiene, mesmer- ism, hypnotism, theosophy, or spiritualism? 484:9 /Answer/. - Not one of them is included in it."*

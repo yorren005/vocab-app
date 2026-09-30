@@ -5,15 +5,6 @@ status: unread
 ---
 # summary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief statement that presents the main points in a concise form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performed speedily and without formality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s the scroll, The continent and summary of my fortune. _You that choose not by the view Chance as fair and choose as true!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It may save trouble to give here a summary of the Bergmann household."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tangle’s learned friends, each armed with a little summary of eighteen hundred sheets, bob up like eighteen hammers in a pianoforte, make eighteen bows, and drop into their eighteen places of obscurity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief statement that presents the main points in a concise form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performed speedily and without formality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s the scroll, The continent and summary of my fortune. _You that choose not by the view Chance as fair and choose as true!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It may save trouble to give here a summary of the Bergmann household."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tangle’s learned friends, each armed with a little summary of eighteen hundred sheets, bob up like eighteen hammers in a pianoforte, make eighteen bows, and drop into their eighteen places of obscurity."*

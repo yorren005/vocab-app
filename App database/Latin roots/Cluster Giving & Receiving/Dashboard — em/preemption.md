@@ -5,13 +5,6 @@ status: unread
 ---
 # preemption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The judicial principle asserting the supremacy of federal over state legislation on the same subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right of a government to seize or appropriate something (as property).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preemption designates the judicial principle asserting the supremacy of federal over state legislation on the same subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The judicial principle asserting the supremacy of federal over state legislation on the same subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right of a government to seize or appropriate something (as property).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preemption designates the judicial principle asserting the supremacy of federal over state legislation on the same subject."*

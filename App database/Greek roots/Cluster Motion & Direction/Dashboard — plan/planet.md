@@ -5,15 +5,6 @@ status: unread
 ---
 # planet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the large bodies that revolve around the sun in the solar system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A similar body associated with another star.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the fleeting moon No planet is of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alone he entered The mortal gate o’ th’ city, which he painted With shunless destiny; aidless came off And with a sudden reinforcement struck Corioles like a planet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath this lovely face Ruled, like a wandering planet, over me, And could it not enforce them to relent That were unworthy to behold the same?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the large bodies that revolve around the sun in the solar system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A similar body associated with another star.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the fleeting moon No planet is of mine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alone he entered The mortal gate o’ th’ city, which he painted With shunless destiny; aidless came off And with a sudden reinforcement struck Corioles like a planet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath this lovely face Ruled, like a wandering planet, over me, And could it not enforce them to relent That were unworthy to behold the same?"*

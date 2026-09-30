@@ -5,20 +5,6 @@ status: unread
 ---
 # pinch
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Squeeze between two objects
-> 2. **Nuance / Usage**: Squeeze or compress painfully
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to pinch the target*) and intransitive clauses (*pinching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"They’ll suck our breath, or pinch us black and blue."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And, as you trip, still pinch him to your time."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Could you fetch me a pinch from anywheres?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Squeeze between two objects
+> 2. **Nuance / Usage**: Squeeze or compress painfully
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to pinch the target*) and intransitive clauses (*pinching against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"They’ll suck our breath, or pinch us black and blue."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And, as you trip, still pinch him to your time."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Could you fetch me a pinch from anywheres?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hadrosauridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Duck-billed dinosaurs; upper cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duck-billed dinosaurs; upper cretaceous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosauridae designates duck-billed dinosaurs; upper cretaceous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Duck-billed dinosaurs; upper cretaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duck-billed dinosaurs; upper cretaceous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosauridae designates duck-billed dinosaurs; upper cretaceous."*

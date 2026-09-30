@@ -5,13 +5,6 @@ status: unread
 ---
 # bibulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to or marked by the consumption of alcohol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or marked by the consumption of alcohol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Speak!” Denísov blushed like a girl (it was strange to see the color rise in that shaggy, bibulous, time-worn face) and boldly began to expound his plan of cutting the enemy’s lines of communication between Smolénsk and Vyázma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to or marked by the consumption of alcohol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or marked by the consumption of alcohol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Speak!” Denísov blushed like a girl (it was strange to see the color rise in that shaggy, bibulous, time-worn face) and boldly began to expound his plan of cutting the enemy’s lines of communication between Smolénsk and Vyázma."*

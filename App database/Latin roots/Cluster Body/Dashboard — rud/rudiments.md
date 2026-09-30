@@ -5,15 +5,6 @@ status: unread
 ---
 # rudiments
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement of fundamental facts or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elementary stages of any subject (usually plural).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, this boy is forest-born And hath been tutored in the rudiments Of many desperate studies by his uncle, Whom he reports to be a great magician, Obscured in the circle of this forest."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These are the merest rudiments of the subject."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He advised my attending certain places in London, for the acquisition of such mere rudiments as I wanted, and my investing him with the functions of explainer and director of all my studies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement of fundamental facts or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elementary stages of any subject (usually plural).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, this boy is forest-born And hath been tutored in the rudiments Of many desperate studies by his uncle, Whom he reports to be a great magician, Obscured in the circle of this forest."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These are the merest rudiments of the subject."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He advised my attending certain places in London, for the acquisition of such mere rudiments as I wanted, and my investing him with the functions of explainer and director of all my studies."*

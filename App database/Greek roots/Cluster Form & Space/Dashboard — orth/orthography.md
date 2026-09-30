@@ -5,15 +5,6 @@ status: unread
 ---
 # orthography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of writing words with the proper letters according to standard usage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of the sounds of a language by written or printed symbols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was wont to speak plain and to the purpose, like an honest man and a soldier; and now is he turned orthography; his words are a very fantastical banquet, just so many strange dishes."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In the Polynesian words used in this volume,--except in those cases where the spelling has been previously determined by others,--that form of orthography has been employed, which might be supposed most easily to convey their sound to a stranger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of writing words with the proper letters according to standard usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of the sounds of a language by written or printed symbols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was wont to speak plain and to the purpose, like an honest man and a soldier; and now is he turned orthography; his words are a very fantastical banquet, just so many strange dishes."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In the Polynesian words used in this volume,--except in those cases where the spelling has been previously determined by others,--that form of orthography has been employed, which might be supposed most easily to convey their sound to a stranger."*

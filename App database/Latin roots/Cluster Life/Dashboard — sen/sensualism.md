@@ -5,15 +5,6 @@ status: unread
 ---
 # sensualism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desire for sensual pleasures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the ethical doctrine that feeling is the only criterion for what is good.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"This doctrine may be inconvenient in practice, but it is far removed from vulgar sensualism, of which Shelley had not a trace."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The earthly 36:15 price of spirituality in a material age and the great moral distance between Christianity and sensualism preclude Christian Science from finding favor with the worldly- 36:18 minded."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Powerless promises The broadcast powers of evil so conspicuous to-day show themselves in the materialism and sensualism of 65:15 the age, struggling against the advancing spiritual era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Desire for sensual pleasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the ethical doctrine that feeling is the only criterion for what is good.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"This doctrine may be inconvenient in practice, but it is far removed from vulgar sensualism, of which Shelley had not a trace."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The earthly 36:15 price of spirituality in a material age and the great moral distance between Christianity and sensualism preclude Christian Science from finding favor with the worldly- 36:18 minded."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Powerless promises The broadcast powers of evil so conspicuous to-day show themselves in the materialism and sensualism of 65:15 the age, struggling against the advancing spiritual era."*

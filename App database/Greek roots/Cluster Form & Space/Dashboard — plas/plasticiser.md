@@ -5,13 +5,6 @@ status: unread
 ---
 # plasticiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance added to plastics or other materials to make them more pliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance added to plastics or other materials to make them more pliable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticiser designates a substance added to plastics or other materials to make them more pliable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance added to plastics or other materials to make them more pliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance added to plastics or other materials to make them more pliable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticiser designates a substance added to plastics or other materials to make them more pliable."*

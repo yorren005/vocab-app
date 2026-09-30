@@ -5,13 +5,6 @@ status: unread
 ---
 # postpaid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of mail; paid in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of mail; paid in advance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postpaid designates used especially of mail; paid in advance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of mail; paid in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of mail; paid in advance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postpaid designates used especially of mail; paid in advance."*

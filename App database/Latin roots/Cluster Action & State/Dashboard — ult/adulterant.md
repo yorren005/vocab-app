@@ -5,13 +5,6 @@ status: unread
 ---
 # adulterant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that lessens the purity or effectiveness of a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making impure or corrupt by adding extraneous materials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adulterant designates any substance that lessens the purity or effectiveness of a substance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that lessens the purity or effectiveness of a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making impure or corrupt by adding extraneous materials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adulterant designates any substance that lessens the purity or effectiveness of a substance."*

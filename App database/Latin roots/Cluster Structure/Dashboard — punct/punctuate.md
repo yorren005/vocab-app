@@ -5,15 +5,6 @@ status: unread
 ---
 # punctuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert punctuation marks into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I won't think you're--dead!” “You--blessed--little-goose!” scolded Bertram, punctuating each word with a kiss."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I’m grown a man no doubt, I’ve broken bounds: all the editions are so punctuated; but it seems the comma should be after “man”, connecting “no doubt” with “I’ve broken bounds”. 235."*
-> - 📜 **James Joyce (*Ulysses*):** *"From the belfries far and near the funereal deathbell tolled unceasingly while all around the gloomy precincts rolled the ominous warning of a hundred muffled drums punctuated by the hollow booming of pieces of ordnance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert punctuation marks into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I won't think you're--dead!” “You--blessed--little-goose!” scolded Bertram, punctuating each word with a kiss."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I’m grown a man no doubt, I’ve broken bounds: all the editions are so punctuated; but it seems the comma should be after “man”, connecting “no doubt” with “I’ve broken bounds”. 235."*
+> - 📜 **James Joyce (*Ulysses*):** *"From the belfries far and near the funereal deathbell tolled unceasingly while all around the gloomy precincts rolled the ominous warning of a hundred muffled drums punctuated by the hollow booming of pieces of ordnance."*

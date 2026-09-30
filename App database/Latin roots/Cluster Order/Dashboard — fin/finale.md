@@ -5,15 +5,6 @@ status: unread
 ---
 # finale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The closing section of a musical composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal end; the concluding time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Finale: already Bathsheba’s husband."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"This was the sad finale of every reflection: and Captain Tilney’s letter would certainly come in his absence; and Wednesday she was very sure would be wet."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is as if the choral _finale_ of an opera were prolonged through two acts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The closing section of a musical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal end; the concluding time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Finale: already Bathsheba’s husband."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"This was the sad finale of every reflection: and Captain Tilney’s letter would certainly come in his absence; and Wednesday she was very sure would be wet."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is as if the choral _finale_ of an opera were prolonged through two acts."*

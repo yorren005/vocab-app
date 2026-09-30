@@ -5,13 +5,6 @@ status: unread
 ---
 # quassia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter compound used as an insecticide and tonic and vermifuge; extracted from the wood and bark of trees of the genera quassia and picrasma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handsome south american shrub or small tree having bright scarlet flowers and yielding a valuable fine-grained yellowish wood; yields the bitter drug quassia from its wood and bark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"One third of a pint of quassia to which add a tablespoonful of rocksalt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter compound used as an insecticide and tonic and vermifuge; extracted from the wood and bark of trees of the genera quassia and picrasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handsome south american shrub or small tree having bright scarlet flowers and yielding a valuable fine-grained yellowish wood; yields the bitter drug quassia from its wood and bark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"One third of a pint of quassia to which add a tablespoonful of rocksalt."*

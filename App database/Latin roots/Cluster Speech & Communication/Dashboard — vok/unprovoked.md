@@ -5,15 +5,6 @@ status: unread
 ---
 # unprovoked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Who can wonder at the deadly hatred of the Typees to all foreigners after such unprovoked atrocities?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He grew still more irritable, and it was Princess Mary who generally bore the brunt of his frequent fits of unprovoked anger."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Scorn, bitterness, unprovoked malignity, gratuitous desire of ill, ridicule of whatever was good and holy, all awoke to tempt, even while they frightened him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Who can wonder at the deadly hatred of the Typees to all foreigners after such unprovoked atrocities?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He grew still more irritable, and it was Princess Mary who generally bore the brunt of his frequent fits of unprovoked anger."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Scorn, bitterness, unprovoked malignity, gratuitous desire of ill, ridicule of whatever was good and holy, all awoke to tempt, even while they frightened him."*

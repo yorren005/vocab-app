@@ -5,15 +5,6 @@ status: unread
 ---
 # factotum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A servant employed to do a variety of jobs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servant employed to do a variety of jobs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old man who was his indoor factotum came at the same moment to the foot of the stairs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was the cheerful servant of that establishment, who, in her part of factotum, turned groom and ostler at times."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But I have been talking to this young Ladislaw that Brooke is making a factotum of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A servant employed to do a variety of jobs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servant employed to do a variety of jobs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old man who was his indoor factotum came at the same moment to the foot of the stairs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was the cheerful servant of that establishment, who, in her part of factotum, turned groom and ostler at times."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But I have been talking to this young Ladislaw that Brooke is making a factotum of."*

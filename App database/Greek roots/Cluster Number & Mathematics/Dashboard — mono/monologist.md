@@ -5,13 +5,6 @@ status: unread
 ---
 # monologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who performs alone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainer who performs alone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monologist designates an entertainer who performs alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who performs alone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainer who performs alone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monologist designates an entertainer who performs alone."*

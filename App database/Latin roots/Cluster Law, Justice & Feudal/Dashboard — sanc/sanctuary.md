@@ -5,15 +5,6 @@ status: unread
 ---
 # sanctuary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consecrated place where sacred objects are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shelter from danger or hardship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in assaying it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to prevent the tyrant’s violence— For trust not him that hath once broken faith— I’ll hence forthwith unto the sanctuary To save at least the heir of Edward’s right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consecrated place where sacred objects are kept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shelter from danger or hardship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in assaying it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to prevent the tyrant’s violence— For trust not him that hath once broken faith— I’ll hence forthwith unto the sanctuary To save at least the heir of Edward’s right."*

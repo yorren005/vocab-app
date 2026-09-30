@@ -5,13 +5,6 @@ status: unread
 ---
 # europeanise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denationalize and subject (a territory) to the supervision of an agency of a european community of nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (continental) european in customs, character, or ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, europeanise designates denationalize and subject (a territory) to the supervision of an agency of a european community of nations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denationalize and subject (a territory) to the supervision of an agency of a european community of nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (continental) european in customs, character, or ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, europeanise designates denationalize and subject (a territory) to the supervision of an agency of a european community of nations."*

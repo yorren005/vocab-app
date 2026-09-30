@@ -5,13 +5,6 @@ status: unread
 ---
 # decentalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process in which population and industry moves from urban centers to outlying districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process in which population and industry moves from urban centers to outlying districts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentalisation designates the social process in which population and industry moves from urban centers to outlying districts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process in which population and industry moves from urban centers to outlying districts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process in which population and industry moves from urban centers to outlying districts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentalisation designates the social process in which population and industry moves from urban centers to outlying districts."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hemiramphidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiramphidae designates halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiramphidae designates halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide."*

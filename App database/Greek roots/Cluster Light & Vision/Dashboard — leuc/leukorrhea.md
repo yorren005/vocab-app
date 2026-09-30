@@ -5,13 +5,6 @@ status: unread
 ---
 # leukorrhea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukorrhea designates a whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukorrhea designates a whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane."*

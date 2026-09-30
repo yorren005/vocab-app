@@ -5,13 +5,6 @@ status: unread
 ---
 # hippocampus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocampus designates a curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocampus designates a curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory."*

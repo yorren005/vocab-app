@@ -5,15 +5,6 @@ status: unread
 ---
 # conduct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manner of acting or controlling yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To th’ Roman camp conduct us. [_Exeunt._] SCENE VIII."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manner of acting or controlling yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To th’ Roman camp conduct us. [_Exeunt._] SCENE VIII."*

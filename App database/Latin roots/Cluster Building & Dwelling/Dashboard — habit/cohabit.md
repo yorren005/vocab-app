@@ -5,14 +5,6 @@ status: unread
 ---
 # cohabit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share living quarters; usually said of people who are not married and live together as a couple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Share living quarters; usually said of people who are not married and live together as a couple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus among the hill tribes of Assam, not only are men forbidden to cohabit with their wives during or after a raid, but they may not eat food cooked by a woman; nay, they should not address a word even to their own wives."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the custom which prohibits the commerce of the sexes while the worms are hatching may be only an extension, by analogy, of the rule which is observed by many races, that the husband may not cohabit with his wife during pregnancy and lactation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Share living quarters; usually said of people who are not married and live together as a couple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Share living quarters; usually said of people who are not married and live together as a couple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus among the hill tribes of Assam, not only are men forbidden to cohabit with their wives during or after a raid, but they may not eat food cooked by a woman; nay, they should not address a word even to their own wives."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the custom which prohibits the commerce of the sexes while the worms are hatching may be only an extension, by analogy, of the rule which is observed by many races, that the husband may not cohabit with his wife during pregnancy and lactation."*

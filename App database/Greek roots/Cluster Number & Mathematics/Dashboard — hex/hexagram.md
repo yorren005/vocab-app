@@ -5,13 +5,6 @@ status: unread
 ---
 # hexagram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexagram designates a plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexagram designates a plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon."*

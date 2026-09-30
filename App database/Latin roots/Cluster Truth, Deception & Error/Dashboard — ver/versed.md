@@ -5,15 +5,6 @@ status: unread
 ---
 # versed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An injectable form of benzodiazepine (trade name versed) useful for sedation and for reducing pain during uncomfortable medical procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel might be one time part-owner of the old _Sparwehr_, with a navigator’s knowledge of the stars and deep versed in books, but with women, no, there I would not give him better."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She knows both Regions like the palm of her hand, and her record shows she's well versed in nav for the entire system."*
-> - 📜 **Effie Afton (*Eventide*):** *"But it often happens that such high-wrought natures are but poorly versed in the plodding concerns of this nether world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An injectable form of benzodiazepine (trade name versed) useful for sedation and for reducing pain during uncomfortable medical procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel might be one time part-owner of the old _Sparwehr_, with a navigator’s knowledge of the stars and deep versed in books, but with women, no, there I would not give him better."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She knows both Regions like the palm of her hand, and her record shows she's well versed in nav for the entire system."*
+> - 📜 **Effie Afton (*Eventide*):** *"But it often happens that such high-wrought natures are but poorly versed in the plodding concerns of this nether world."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is their god; he leads them like a thing Made by some other deity than Nature, That shapes man better; and they follow him Against us brats with no less confidence Than boys pursuing summer butterflies Or butchers killing flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or we poor ghosts will cry To th’ shining synod of the rest Against thy deity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the liver vein, which makes flesh a deity, A green goose a goddess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is their god; he leads them like a thing Made by some other deity than Nature, That shapes man better; and they follow him Against us brats with no less confidence Than boys pursuing summer butterflies Or butchers killing flies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or we poor ghosts will cry To th’ shining synod of the rest Against thy deity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the liver vein, which makes flesh a deity, A green goose a goddess."*

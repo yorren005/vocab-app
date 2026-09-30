@@ -5,15 +5,6 @@ status: unread
 ---
 # photography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of producing images by the action of radiant energy and especially light on a sensitive surface (such as film or an optical sensor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which an image is obtained by application of a high-frequency electric field to an object so that it radiates a characteristic pattern of luminescence that is recorded on photographic film.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The several uses of gold are constantly competing for it: its uses for rings, pens, ornaments, championship cups, photography, dentistry, delicate instruments, and as a circulating medium."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Never was such a fellow for photography."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought of the assistant’s fondness for photography, and his trick of vanishing into the cellar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of producing images by the action of radiant energy and especially light on a sensitive surface (such as film or an optical sensor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which an image is obtained by application of a high-frequency electric field to an object so that it radiates a characteristic pattern of luminescence that is recorded on photographic film.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The several uses of gold are constantly competing for it: its uses for rings, pens, ornaments, championship cups, photography, dentistry, delicate instruments, and as a circulating medium."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Never was such a fellow for photography."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought of the assistant’s fondness for photography, and his trick of vanishing into the cellar."*

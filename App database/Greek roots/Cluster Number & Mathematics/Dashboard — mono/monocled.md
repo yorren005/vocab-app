@@ -5,13 +5,6 @@ status: unread
 ---
 # monocled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocled designates wearing, or having the face adorned with, eyeglasses or an eyeglass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocled designates wearing, or having the face adorned with, eyeglasses or an eyeglass."*

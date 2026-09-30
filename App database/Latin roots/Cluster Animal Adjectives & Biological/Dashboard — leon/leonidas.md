@@ -5,15 +5,6 @@ status: unread
 ---
 # leonidas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of sparta and hero of the battle of thermopylae where he was killed by the persians (died in 480 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of sparta and hero of the battle of thermopylae where he was killed by the persians (died in 480 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I would not die like Socrates, For all the fuss of Plato; Nor would I with Leonidas, Nor yet would I with Cato: The zealots of the Church and State Shall ne’er my mortal foes be; But let me have bold Zimri’s fate, Within the arms of Cozbi!"*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"My name is--my name is Lynchpinne," he replied, with some hesitation, so that I wondered whether he had not forgotten his name--"Leonidas Lynchpinne." I thought it was a queer name, but an instinct of politeness prevented me from saying so."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Leonidas Lynchpinne; and I was not at all comforted by the reflection that he had used the cloak of religion to cover his designs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of sparta and hero of the battle of thermopylae where he was killed by the persians (died in 480 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of sparta and hero of the battle of thermopylae where he was killed by the persians (died in 480 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I would not die like Socrates, For all the fuss of Plato; Nor would I with Leonidas, Nor yet would I with Cato: The zealots of the Church and State Shall ne’er my mortal foes be; But let me have bold Zimri’s fate, Within the arms of Cozbi!"*
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"My name is--my name is Lynchpinne," he replied, with some hesitation, so that I wondered whether he had not forgotten his name--"Leonidas Lynchpinne." I thought it was a queer name, but an instinct of politeness prevented me from saying so."*
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Leonidas Lynchpinne; and I was not at all comforted by the reflection that he had used the cloak of religion to cover his designs."*

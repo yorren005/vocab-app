@@ -5,13 +5,6 @@ status: unread
 ---
 # protraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The consequence of being lengthened in duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prolonging something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"By the quantity of provision which I had consumed, I should guess that I had passed three weeks in this journey; and the continual protraction of hope, returning back upon the heart, often wrung bitter drops of despondency and grief from my eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The consequence of being lengthened in duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prolonging something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"By the quantity of provision which I had consumed, I should guess that I had passed three weeks in this journey; and the continual protraction of hope, returning back upon the heart, often wrung bitter drops of despondency and grief from my eyes."*

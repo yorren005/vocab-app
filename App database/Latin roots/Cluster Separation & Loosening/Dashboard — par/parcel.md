@@ -5,15 +5,6 @@ status: unread
 ---
 # parcel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrapped container.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The allotment of some amount by dividing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This youthful parcel Of noble bachelors stand at my bestowing, O’er whom both sovereign power and father’s voice I have to use."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see men’s judgments are A parcel of their fortunes, and things outward Do draw the inward quality after them To suffer all alike."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrapped container.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The allotment of some amount by dividing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This youthful parcel Of noble bachelors stand at my bestowing, O’er whom both sovereign power and father’s voice I have to use."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see men’s judgments are A parcel of their fortunes, and things outward Do draw the inward quality after them To suffer all alike."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*

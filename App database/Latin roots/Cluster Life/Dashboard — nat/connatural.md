@@ -5,14 +5,6 @@ status: unread
 ---
 # connatural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in nature; - john milton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normally existing at birth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"But is there yet no other way, besides These painful passages, how we may come To Death, and mix with our connatural dust?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"But is there yet no other way, besides These painful passages, how we may come To death, and mix with our connatural dust?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in nature; - john milton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normally existing at birth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"But is there yet no other way, besides These painful passages, how we may come To Death, and mix with our connatural dust?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"But is there yet no other way, besides These painful passages, how we may come To death, and mix with our connatural dust?"*

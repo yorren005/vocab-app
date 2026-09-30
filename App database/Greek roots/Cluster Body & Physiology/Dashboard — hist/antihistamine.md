@@ -5,13 +5,6 @@ status: unread
 ---
 # antihistamine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihistamine designates a medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihistamine designates a medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site."*

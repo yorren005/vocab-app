@@ -5,13 +5,6 @@ status: unread
 ---
 # osteodystrophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteodystrophy designates defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteodystrophy designates defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism."*

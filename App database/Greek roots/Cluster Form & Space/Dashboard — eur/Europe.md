@@ -5,15 +5,6 @@ status: unread
 ---
 # Europe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continent of the eastern and northern hemispheres that has the Atlantic Ocean to its west, the Arctic Ocean to its north, Asia to its east, and Africa and the Mediterranean and Black seas to its south area 3,997,929 square miles (10,354,636 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The European continent exclusive of the British Isles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thy master’s; shrew me, If I would lose it for a revenue Of any king’s in Europe!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast saved me a thousand marks in links and torches, walking with thee in the night betwixt tavern and tavern: but the sack that thou hast drunk me would have bought me lights as good cheap at the dearest chandler’s in Europe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine by yea and no, which is as much as to say, as thou usest him—Jack Falstaff with my familiars, John with my brothers and sisters, and Sir John with all Europe.” POINS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continent of the eastern and northern hemispheres that has the Atlantic Ocean to its west, the Arctic Ocean to its north, Asia to its east, and Africa and the Mediterranean and Black seas to its south area 3,997,929 square miles (10,354,636 square kilometers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The European continent exclusive of the British Isles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thy master’s; shrew me, If I would lose it for a revenue Of any king’s in Europe!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast saved me a thousand marks in links and torches, walking with thee in the night betwixt tavern and tavern: but the sack that thou hast drunk me would have bought me lights as good cheap at the dearest chandler’s in Europe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine by yea and no, which is as much as to say, as thou usest him—Jack Falstaff with my familiars, John with my brothers and sisters, and Sir John with all Europe.” POINS."*

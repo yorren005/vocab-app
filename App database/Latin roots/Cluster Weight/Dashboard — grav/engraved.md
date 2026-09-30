@@ -5,15 +5,6 @@ status: unread
 ---
 # engraved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impress or affect deeply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Has the picture been engraved, miss?” “The picture has never been engraved."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Matter has no memory, because its forms are evanescent, and what is engraved on its forms perishes with the forms."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ross Browne are pretty correct in contour; but they are wretchedly engraved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carve, cut, or etch into a material or surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impress or affect deeply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Has the picture been engraved, miss?” “The picture has never been engraved."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Matter has no memory, because its forms are evanescent, and what is engraved on its forms perishes with the forms."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ross Browne are pretty correct in contour; but they are wretchedly engraved."*

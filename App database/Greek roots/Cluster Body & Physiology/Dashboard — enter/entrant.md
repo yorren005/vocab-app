@@ -5,13 +5,6 @@ status: unread
 ---
 # entrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commodity that enters competition with established merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any new participant in some activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrant designates a commodity that enters competition with established merchandise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commodity that enters competition with established merchandise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any new participant in some activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrant designates a commodity that enters competition with established merchandise."*

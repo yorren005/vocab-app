@@ -5,15 +5,6 @@ status: unread
 ---
 # postmaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person in charge of a post office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person in charge of a post office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I went to her in white and cried “mum”, and she cried “budget”, as Anne and I had appointed, and yet it was not Anne, but a postmaster’s boy."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the Torzhók post station, either there were no horses or the postmaster would not supply them."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The postmaster, his wife, the valet, and a peasant woman selling Torzhók embroidery came into the room offering their services."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person in charge of a post office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person in charge of a post office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I went to her in white and cried “mum”, and she cried “budget”, as Anne and I had appointed, and yet it was not Anne, but a postmaster’s boy."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the Torzhók post station, either there were no horses or the postmaster would not supply them."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The postmaster, his wife, the valet, and a peasant woman selling Torzhók embroidery came into the room offering their services."*

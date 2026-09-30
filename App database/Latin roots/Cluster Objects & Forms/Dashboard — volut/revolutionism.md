@@ -5,13 +5,6 @@ status: unread
 ---
 # revolutionism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in the spread of revolutionary principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in the spread of revolutionary principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revolutionism designates a belief in the spread of revolutionary principles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in the spread of revolutionary principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in the spread of revolutionary principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revolutionism designates a belief in the spread of revolutionary principles."*

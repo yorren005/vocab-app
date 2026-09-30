@@ -5,15 +5,6 @@ status: unread
 ---
 # advisory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An announcement that usually advises or warns the public of some threat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving advice; ,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Alongside of the Reserve Board, is placed a Federal Advisory Council, consisting of one member from the board of directors of each of the twelve district banks."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Massachusetts developed in the seventies a commission of "the advisory type" which investigated and made public the conditions, leaving to public opinion the correction of the evils."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Shea, _William Andrews Clark Memorial Library_ Thomas Wright, _William Andrews Clark Memorial Library_ ADVISORY EDITORS Ralph Cohen, _University of Virginia_ William E."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An announcement that usually advises or warns the public of some threat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving advice; ,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Alongside of the Reserve Board, is placed a Federal Advisory Council, consisting of one member from the board of directors of each of the twelve district banks."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Massachusetts developed in the seventies a commission of "the advisory type" which investigated and made public the conditions, leaving to public opinion the correction of the evils."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Shea, _William Andrews Clark Memorial Library_ Thomas Wright, _William Andrews Clark Memorial Library_ ADVISORY EDITORS Ralph Cohen, _University of Virginia_ William E."*

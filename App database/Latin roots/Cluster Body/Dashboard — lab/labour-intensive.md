@@ -5,13 +5,6 @@ status: unread
 ---
 # labour-intensive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a large expenditure of labor but not much capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring a large expenditure of labor but not much capital.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labour-intensive designates requiring a large expenditure of labor but not much capital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a large expenditure of labor but not much capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring a large expenditure of labor but not much capital.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labour-intensive designates requiring a large expenditure of labor but not much capital."*

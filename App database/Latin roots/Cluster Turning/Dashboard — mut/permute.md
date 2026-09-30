@@ -5,13 +5,6 @@ status: unread
 ---
 # permute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the order or arrangement of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the order or arrangement of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permute designates change the order or arrangement of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the order or arrangement of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the order or arrangement of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permute designates change the order or arrangement of."*

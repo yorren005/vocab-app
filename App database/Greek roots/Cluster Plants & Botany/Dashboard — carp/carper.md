@@ -5,15 +5,6 @@ status: unread
 ---
 # carper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who constantly criticizes in a petty way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who constantly criticizes in a petty way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame not these woods By putting on the cunning of a carper."*
-> - 📜 **James Joyce (*Ulysses*):** *"His look went from brooder’s beard to carper’s skull, to remind, to chide them not unkindly, then to the baldpink lollard costard, guiltless though maligned. —He had a good groatsworth of wit, Stephen said, and no truant memory."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Some notorious carpers and squeamish moralists might be sulky with Lord Steyne, but they were glad enough to come when he asked them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who constantly criticizes in a petty way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who constantly criticizes in a petty way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame not these woods By putting on the cunning of a carper."*
+> - 📜 **James Joyce (*Ulysses*):** *"His look went from brooder’s beard to carper’s skull, to remind, to chide them not unkindly, then to the baldpink lollard costard, guiltless though maligned. —He had a good groatsworth of wit, Stephen said, and no truant memory."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Some notorious carpers and squeamish moralists might be sulky with Lord Steyne, but they were glad enough to come when he asked them."*

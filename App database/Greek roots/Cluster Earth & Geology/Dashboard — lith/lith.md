@@ -5,13 +5,6 @@ status: unread
 ---
 # lith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lithographic; lithography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structure or implement of stone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lith designates lithographic; lithography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lithographic; lithography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structure or implement of stone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lith designates lithographic; lithography."*

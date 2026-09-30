@@ -5,15 +5,6 @@ status: unread
 ---
 # polysyllable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of more than three syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word of more than three syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In the readers’ book Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell parafes his polysyllables."*
-> - 📜 **James Joyce (*Ulysses*):** *"Unusual polysyllables of foreign origin she interpreted phonetically or by false analogy or by both: metempsychosis (met him pike hoses), _alias_ (a mendacious person mentioned in sacred scripture)."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The first project was to shorten discourse by cutting polysyllables into one, and leaving out verbs and participles, because, in reality, all things imaginable are but nouns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of more than three syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word of more than three syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In the readers’ book Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell parafes his polysyllables."*
+> - 📜 **James Joyce (*Ulysses*):** *"Unusual polysyllables of foreign origin she interpreted phonetically or by false analogy or by both: metempsychosis (met him pike hoses), _alias_ (a mendacious person mentioned in sacred scripture)."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The first project was to shorten discourse by cutting polysyllables into one, and leaving out verbs and participles, because, in reality, all things imaginable are but nouns."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # anima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (jungian psychology) the inner self (not the external persona) that is in touch with the unconscious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (jungian psychology) the inner self (not the external persona) that is in touch with the unconscious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"I own it, this is all wrong, and the rest, Frustra sed anima monet, caro quod fortius est."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Also _Tert. de Anima_, 39, _Sic et omnibus genii deputantur, quod daemonum nomen est."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The tone of Tertullian, _e.g._ in _de Anima_, 1, on the Phaedo, suggests that Socrates may have been over-preached."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (jungian psychology) the inner self (not the external persona) that is in touch with the unconscious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (jungian psychology) the inner self (not the external persona) that is in touch with the unconscious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"I own it, this is all wrong, and the rest, Frustra sed anima monet, caro quod fortius est."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Also _Tert. de Anima_, 39, _Sic et omnibus genii deputantur, quod daemonum nomen est."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The tone of Tertullian, _e.g._ in _de Anima_, 1, on the Phaedo, suggests that Socrates may have been over-preached."*

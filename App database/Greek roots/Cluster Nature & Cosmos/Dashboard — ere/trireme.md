@@ -5,14 +5,6 @@ status: unread
 ---
 # trireme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient galley having three banks of oars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient galley having three banks of oars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"You have no cities nor no wealth: our cities are hives of humanity and our galleys, trireme and quadrireme, laden with all manner merchandise furrow the waters of the known globe."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It took four days to go up this canal, and it was so wide that two triremes could go abreast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient galley having three banks of oars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient galley having three banks of oars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"You have no cities nor no wealth: our cities are hives of humanity and our galleys, trireme and quadrireme, laden with all manner merchandise furrow the waters of the known globe."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It took four days to go up this canal, and it was so wide that two triremes could go abreast."*

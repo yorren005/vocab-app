@@ -5,15 +5,6 @@ status: unread
 ---
 # marrow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fatty network of connective tissue that fills the cavities of bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would he were wasted, marrow, bones, and all, That from his loins no hopeful branch may spring, To cross me from the golden time I look for!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is flush, When crouching marrow, in the bearer strong Cries of itself, “No more!” Now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his wind With fear and horrid flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fatty network of connective tissue that fills the cavities of bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would he were wasted, marrow, bones, and all, That from his loins no hopeful branch may spring, To cross me from the golden time I look for!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is flush, When crouching marrow, in the bearer strong Cries of itself, “No more!” Now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his wind With fear and horrid flight."*

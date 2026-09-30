@@ -5,15 +5,6 @@ status: unread
 ---
 # spirituous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or of the nature of alcohol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or of the nature of alcohol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Halloa, sir!” But it would seem as easy to wake a bundle of old clothes with a spirituous heat smouldering in it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Goods imported are taxed at the time of entering the country; domestic products such as cigars, spirituous or malt liquors, playing cards, and (at times) matches, pig iron, and other products, are taxed usually at the time of exit from the factory."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From the alighting board, instead of the former spirituous fragrant smell of honey and venom, and the warm whiffs of crowded life, comes an odor of emptiness and decay mingling with the smell of honey."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or of the nature of alcohol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or of the nature of alcohol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Halloa, sir!” But it would seem as easy to wake a bundle of old clothes with a spirituous heat smouldering in it."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Goods imported are taxed at the time of entering the country; domestic products such as cigars, spirituous or malt liquors, playing cards, and (at times) matches, pig iron, and other products, are taxed usually at the time of exit from the factory."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From the alighting board, instead of the former spirituous fragrant smell of honey and venom, and the warm whiffs of crowded life, comes an odor of emptiness and decay mingling with the smell of honey."*

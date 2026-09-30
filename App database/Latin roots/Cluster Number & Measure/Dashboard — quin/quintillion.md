@@ -5,14 +5,6 @@ status: unread
 ---
 # quintillion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number that is represented as a one followed by 18 zeros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number that is represented as a one followed by 18 zeros.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"To comprehend the meaning of these figures, it is necessary to observe that a quintillion is to a billion as a billion is to unity; in other words, there are as many billions in a quintillion as there are units in a billion."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This fluid mass comprises two billions two hundred and fifty millions of cubic miles, forming a spherical body of a diameter of sixty leagues, the weight of which would be three quintillions of tons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number that is represented as a one followed by 18 zeros.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number that is represented as a one followed by 18 zeros.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"To comprehend the meaning of these figures, it is necessary to observe that a quintillion is to a billion as a billion is to unity; in other words, there are as many billions in a quintillion as there are units in a billion."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This fluid mass comprises two billions two hundred and fifty millions of cubic miles, forming a spherical body of a diameter of sixty leagues, the weight of which would be three quintillions of tons."*

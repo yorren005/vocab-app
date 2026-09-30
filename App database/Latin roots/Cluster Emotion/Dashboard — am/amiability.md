@@ -5,15 +5,6 @@ status: unread
 ---
 # amiability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheerful and agreeable mood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce for a day or two, I shall hear the larks sing and preserve my amiability."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura fancied that so far as she was concerned she could count on a personal amiability: he liked her, she was sure of that, his eyes softened when he spoke to her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lemon’s favorite pupil, who by general consent (Fred’s excepted) was a rare compound of beauty, cleverness, and amiability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheerful and agreeable mood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce for a day or two, I shall hear the larks sing and preserve my amiability."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura fancied that so far as she was concerned she could count on a personal amiability: he liked her, she was sure of that, his eyes softened when he spoke to her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lemon’s favorite pupil, who by general consent (Fred’s excepted) was a rare compound of beauty, cleverness, and amiability."*

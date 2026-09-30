@@ -5,13 +5,6 @@ status: unread
 ---
 # hertzian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the physicist heinrich hertz or his work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the physicist heinrich hertz or his work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The important fact is that all three--light, radiant heat and Hertzian waves--in addition to travelling at the same speed, are reflected, absorbed or refracted, according to precisely the same principles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the physicist heinrich hertz or his work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the physicist heinrich hertz or his work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The important fact is that all three--light, radiant heat and Hertzian waves--in addition to travelling at the same speed, are reflected, absorbed or refracted, according to precisely the same principles."*

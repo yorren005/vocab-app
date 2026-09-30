@@ -5,13 +5,6 @@ status: unread
 ---
 # centigrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The cold of interstellar space, thousands of degrees below freezing point or the absolute zero of Fahrenheit, Centigrade or Réaumur: the incipient intimations of proximate dawn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The cold of interstellar space, thousands of degrees below freezing point or the absolute zero of Fahrenheit, Centigrade or Réaumur: the incipient intimations of proximate dawn."*

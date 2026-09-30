@@ -5,15 +5,6 @@ status: unread
 ---
 # hostilities
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fighting; acts of overt warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hostile (very unfriendly) disposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, entering behind us, “to wave—not to put too fine a point upon it, my dear—hostilities for one single moment in the course of this prolonged night, here is Inspector Bucket, Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man conscious of enthusiasm for worthy aims is sustained under petty hostilities by the memory of great workers who had to fight their way not without wounds, and who hover in his mind as patron saints, invisibly helping."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Consequences of Hostilities Between the States FEDERALIST No."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fighting; acts of overt warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hostile (very unfriendly) disposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, entering behind us, “to wave—not to put too fine a point upon it, my dear—hostilities for one single moment in the course of this prolonged night, here is Inspector Bucket, Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A man conscious of enthusiasm for worthy aims is sustained under petty hostilities by the memory of great workers who had to fight their way not without wounds, and who hover in his mind as patron saints, invisibly helping."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Consequences of Hostilities Between the States FEDERALIST No."*

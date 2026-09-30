@@ -5,14 +5,6 @@ status: unread
 ---
 # robotics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of ai concerned with the practical use of robots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of ai concerned with the practical use of robots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The problem is that although much of the gear is self-repairing through built-in robotics, when the robies themselves need fixing, no one knows how."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But nav robotics have no backups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of ai concerned with the practical use of robots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of ai concerned with the practical use of robots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The problem is that although much of the gear is self-repairing through built-in robotics, when the robies themselves need fixing, no one knows how."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"But nav robotics have no backups."*

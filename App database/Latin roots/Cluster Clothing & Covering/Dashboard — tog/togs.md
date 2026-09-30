@@ -5,14 +5,6 @@ status: unread
 ---
 # togs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with clothes or put clothes on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with clothes or put clothes on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*

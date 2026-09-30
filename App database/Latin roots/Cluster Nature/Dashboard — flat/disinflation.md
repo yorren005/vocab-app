@@ -5,13 +5,6 @@ status: unread
 ---
 # disinflation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction of prices intended to improve the balance of payments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduction of prices intended to improve the balance of payments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinflation designates a reduction of prices intended to improve the balance of payments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction of prices intended to improve the balance of payments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduction of prices intended to improve the balance of payments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinflation designates a reduction of prices intended to improve the balance of payments."*

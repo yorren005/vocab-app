@@ -5,15 +5,6 @@ status: unread
 ---
 # refuge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A safe place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone turned to for assistance or security.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their latest refuge Was to send him, for whose old love I have— Though I showed sourly to him—once more offered The first conditions, which they did refuse And cannot now accept, to grace him only That thought he could do more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BEDFORD. ’Tis thought, Lord Talbot, when the fight began, Rous’d on the sudden from their drowsy beds, They did amongst the troops of armed men Leap o’er the walls for refuge in the field."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did imagine what would be her refuge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A safe place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone turned to for assistance or security.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their latest refuge Was to send him, for whose old love I have— Though I showed sourly to him—once more offered The first conditions, which they did refuse And cannot now accept, to grace him only That thought he could do more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BEDFORD. ’Tis thought, Lord Talbot, when the fight began, Rous’d on the sudden from their drowsy beds, They did amongst the troops of armed men Leap o’er the walls for refuge in the field."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did imagine what would be her refuge."*

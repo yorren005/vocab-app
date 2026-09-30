@@ -5,15 +5,6 @@ status: unread
 ---
 # phaeton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large open car seating four with folding top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large open car seating four with folding top.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a waggoner As Phaeton would whip you to the west And bring in cloudy night immediately."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But his father—and his uncle—were the most profligate coachmen that ever sat upon a box.” While he said this in tones of the greatest indignation, he handed us into the little phaeton with the utmost gentleness and was all smiles and pleasure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As we sat there, silently, we saw a little pony phaeton coming towards us at a merry pace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large open car seating four with folding top.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large open car seating four with folding top.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a waggoner As Phaeton would whip you to the west And bring in cloudy night immediately."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But his father—and his uncle—were the most profligate coachmen that ever sat upon a box.” While he said this in tones of the greatest indignation, he handed us into the little phaeton with the utmost gentleness and was all smiles and pleasure."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As we sat there, silently, we saw a little pony phaeton coming towards us at a merry pace."*

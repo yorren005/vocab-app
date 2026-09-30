@@ -5,13 +5,6 @@ status: unread
 ---
 # phylogenetics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, phylogenetics is the study of the evolutionary history of life using observable characteristics of organisms, which is known as phylogenetic inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It infers the relationship among organisms based on empirical data and observed heritable traits of DNA sequences, protein amino acid sequences, and morphology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogenetics designates in biology, phylogenetics is the study of the evolutionary history of life using observable characteristics of organisms, which is known as phylogenetic inference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, phylogenetics is the study of the evolutionary history of life using observable characteristics of organisms, which is known as phylogenetic inference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It infers the relationship among organisms based on empirical data and observed heritable traits of DNA sequences, protein amino acid sequences, and morphology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogenetics designates in biology, phylogenetics is the study of the evolutionary history of life using observable characteristics of organisms, which is known as phylogenetic inference."*

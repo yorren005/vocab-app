@@ -5,13 +5,6 @@ status: unread
 ---
 # flame-flower
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant with fleshy roots and erect stems with narrow succulent leaves and one reddish-orange flower in each upper leaf axil; southwestern united states; indians once cooked the fleshy roots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-flower designates a plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant with fleshy roots and erect stems with narrow succulent leaves and one reddish-orange flower in each upper leaf axil; southwestern united states; indians once cooked the fleshy roots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-flower designates a plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # malice
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Intend to cause harm; to bear malice
-> 2. **Nuance / Usage**: Desire to cause pain, injury, or distress to another
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"larded with malice, and malice forced with wit, turn him to?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I think there is not in the world either malice or matter to alter it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"there was no enmity or malice between them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The active desire or cold-blooded intention to inflict injury, pain, or harm upon another person; deep-seated ill will or spite.
+> 2. **Nuance / Usage**: In criminal and tort law (*malice aforethought*, *actual malice*), the deliberate, wrongful intent to commit an unlawful act without just cause or excuse.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass).
+> - **Syntactic Constructions**: Functions in prepositional phrases (*with malice toward none*, *out of pure malice*) and legal compounds (*malice aforethought*).
+> - **Collocations & Registers**: Legal, moral, and psychological registers; paired with *bear*, *aforethought*, *enmity*, *spite*, and *prepense*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With **malice** toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"I think there is not in the world either **malice** or matter to alter it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In their shared misfortune, there was no enmity or **malice** between them."*

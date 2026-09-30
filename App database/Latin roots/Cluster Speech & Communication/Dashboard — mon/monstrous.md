@@ -5,15 +5,6 @@ status: unread
 ---
 # monstrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shockingly brutal or cruel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be an answer of most monstrous size that must fit all demands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We had much more monstrous matter of feast, which worthily deserved noting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shockingly brutal or cruel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be an answer of most monstrous size that must fit all demands."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We had much more monstrous matter of feast, which worthily deserved noting."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # reenactor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enacts a role in an event that occurred earlier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enacts a role in an event that occurred earlier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reenactor designates a person who enacts a role in an event that occurred earlier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enacts a role in an event that occurred earlier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enacts a role in an event that occurred earlier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reenactor designates a person who enacts a role in an event that occurred earlier."*

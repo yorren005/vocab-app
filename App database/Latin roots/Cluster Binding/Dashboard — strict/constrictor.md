@@ -5,14 +5,6 @@ status: unread
 ---
 # constrictor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various large nonvenomous snakes that kill their prey by crushing it in its coils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various large nonvenomous snakes that kill their prey by crushing it in its coils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Like the fatal boa-constrictor Charming those who soon must die, She can so transfix her victim By the glitter of her eye, That the greatest of thy statesmen Dares not question her decree, But in meek humiliation Bows to her, abjuring thee."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the Caffres are said to dread greatly the boa-constrictor or an enormous serpent resembling it; "and being influenced by certain superstitious notions they even fear to kill it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various large nonvenomous snakes that kill their prey by crushing it in its coils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various large nonvenomous snakes that kill their prey by crushing it in its coils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Like the fatal boa-constrictor Charming those who soon must die, She can so transfix her victim By the glitter of her eye, That the greatest of thy statesmen Dares not question her decree, But in meek humiliation Bows to her, abjuring thee."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the Caffres are said to dread greatly the boa-constrictor or an enormous serpent resembling it; "and being influenced by certain superstitious notions they even fear to kill it."*

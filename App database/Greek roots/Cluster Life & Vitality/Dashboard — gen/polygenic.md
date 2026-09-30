@@ -5,13 +5,6 @@ status: unread
 ---
 # polygenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygenic designates of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygenic designates of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes."*

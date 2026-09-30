@@ -5,14 +5,6 @@ status: unread
 ---
 # nationalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who loves and defends his or her country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of national independence of or a strong national government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Great nationalist meeting in Borris-in-Ossory."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Sultan Mohammed V sided with the nationalists and was deposed in 1953."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who loves and defends his or her country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of national independence of or a strong national government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Great nationalist meeting in Borris-in-Ossory."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Sultan Mohammed V sided with the nationalists and was deposed in 1953."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stomacher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a v-shaped panel of stiff material worn over the chest and stomach in the 16th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garment consisting of a v-shaped panel of stiff material worn over the chest and stomach in the 16th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s calm hands lose their composure when she speaks of him, and unfolding themselves from her stomacher, hover about her in an agitated manner as she says what a likely lad, what a fine lad, what a gay, good-humoured, clever lad he was!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, expanding her stomacher to its utmost limits, “than it formerly was!” The young man inclines his head in acknowledgment of the precepts of experience."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And the broad stomacher heaves, and the quaint upright old-fashioned figure bends under its load of affectionate distress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a v-shaped panel of stiff material worn over the chest and stomach in the 16th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garment consisting of a v-shaped panel of stiff material worn over the chest and stomach in the 16th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s calm hands lose their composure when she speaks of him, and unfolding themselves from her stomacher, hover about her in an agitated manner as she says what a likely lad, what a fine lad, what a gay, good-humoured, clever lad he was!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, expanding her stomacher to its utmost limits, “than it formerly was!” The young man inclines his head in acknowledgment of the precepts of experience."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And the broad stomacher heaves, and the quaint upright old-fashioned figure bends under its load of affectionate distress."*

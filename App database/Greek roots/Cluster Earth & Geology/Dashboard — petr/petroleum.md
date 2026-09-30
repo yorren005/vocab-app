@@ -5,15 +5,6 @@ status: unread
 ---
 # petroleum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily flammable bituminous liquid that may vary from almost colorless to black, occurs in many places in the upper strata of the earth, is a complex mixture of hydrocarbons with small amounts of other substances, and is prepared for use as gasoline, naphtha, or other products by various refining processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neutral unctuous odorless tasteless substance obtained from petroleum and used especially in ointments and dressings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Petroleum and natural gas, of which our original reservoirs were perhaps the richest in the world, are being rapidly exhausted."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Long before Easter the young people have been busy collecting firewood; every farmer contributes, and tar-barrels, petroleum cases, and so forth go to swell the pile."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Coal beds, petroleum basins, the works."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily flammable bituminous liquid that may vary from almost colorless to black, occurs in many places in the upper strata of the earth, is a complex mixture of hydrocarbons with small amounts of other substances, and is prepared for use as gasoline, naphtha, or other products by various refining processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neutral unctuous odorless tasteless substance obtained from petroleum and used especially in ointments and dressings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Petroleum and natural gas, of which our original reservoirs were perhaps the richest in the world, are being rapidly exhausted."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Long before Easter the young people have been busy collecting firewood; every farmer contributes, and tar-barrels, petroleum cases, and so forth go to swell the pile."*
+> - 📜 **Algis Budrys (*Citadel*):** *"Coal beds, petroleum basins, the works."*

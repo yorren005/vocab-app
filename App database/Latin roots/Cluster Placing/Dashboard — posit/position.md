@@ -5,15 +5,6 @@ status: unread
 ---
 # position
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The particular portion of space occupied by something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A point occupied by troops for tactical reasons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But pardon me: I do not in position Distinctly speak of her, though I may fear Her will, recoiling to her better judgement, May fall to match you with her country forms, And happily repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the end—what should that alphabetical position portend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In manners this was false position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The particular portion of space occupied by something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A point occupied by troops for tactical reasons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But pardon me: I do not in position Distinctly speak of her, though I may fear Her will, recoiling to her better judgement, May fall to match you with her country forms, And happily repent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the end—what should that alphabetical position portend?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In manners this was false position."*

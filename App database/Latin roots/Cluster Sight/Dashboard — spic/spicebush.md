@@ -5,13 +5,6 @@ status: unread
 ---
 # spicebush
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrub of the eastern united states having highly aromatic leaves and bark and yellow flowers followed by scarlet or yellow berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Straggling aromatic shrub of southwestern united states having fragrant brown flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spicebush designates deciduous shrub of the eastern united states having highly aromatic leaves and bark and yellow flowers followed by scarlet or yellow berries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrub of the eastern united states having highly aromatic leaves and bark and yellow flowers followed by scarlet or yellow berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Straggling aromatic shrub of southwestern united states having fragrant brown flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spicebush designates deciduous shrub of the eastern united states having highly aromatic leaves and bark and yellow flowers followed by scarlet or yellow berries."*

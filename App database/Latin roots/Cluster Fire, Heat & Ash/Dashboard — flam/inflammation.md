@@ -5,15 +5,6 @@ status: unread
 ---
 # inflammation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being emotionally aroused and worked up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are generally fools and cowards, which some of us should be too, but for inflammation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Towards the close of the year in which his father died, his brother William, who had almost completed his apprenticeship to a mason at Chirnside, in Berwickshire, was seized with inflammation, and for some weeks hung between life and death."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All of which was not good for us, causing a fever of inflammation to attack our mouths so that the membranes were continually dry and burning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being emotionally aroused and worked up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are generally fools and cowards, which some of us should be too, but for inflammation."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Towards the close of the year in which his father died, his brother William, who had almost completed his apprenticeship to a mason at Chirnside, in Berwickshire, was seized with inflammation, and for some weeks hung between life and death."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All of which was not good for us, causing a fever of inflammation to attack our mouths so that the membranes were continually dry and burning."*

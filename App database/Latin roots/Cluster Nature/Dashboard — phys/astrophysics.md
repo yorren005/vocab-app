@@ -5,13 +5,6 @@ status: unread
 ---
 # astrophysics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astronomy concerned with the physical and chemical properties of celestial bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of astronomy concerned with the physical and chemical properties of celestial bodies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysics designates the branch of astronomy concerned with the physical and chemical properties of celestial bodies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astronomy concerned with the physical and chemical properties of celestial bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of astronomy concerned with the physical and chemical properties of celestial bodies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysics designates the branch of astronomy concerned with the physical and chemical properties of celestial bodies."*

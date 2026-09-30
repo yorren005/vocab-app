@@ -5,15 +5,6 @@ status: unread
 ---
 # constellation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of parts or elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A configuration of stars as seen from the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know thy constellation is right apt For this affair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here Love himself sits smiling; Just such another wanton Ganymede Set Jove afire with, and enforced the god Snatch up the goodly boy and set him by him, A shining constellation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Dog-star and Aldebaran, pointing to the restless Pleiades, were half-way up the Southern sky, and between them hung Orion, which gorgeous constellation never burnt more vividly than now, as it soared forth above the rim of the landscape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of parts or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A configuration of stars as seen from the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know thy constellation is right apt For this affair."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here Love himself sits smiling; Just such another wanton Ganymede Set Jove afire with, and enforced the god Snatch up the goodly boy and set him by him, A shining constellation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Dog-star and Aldebaran, pointing to the restless Pleiades, were half-way up the Southern sky, and between them hung Orion, which gorgeous constellation never burnt more vividly than now, as it soared forth above the rim of the landscape."*

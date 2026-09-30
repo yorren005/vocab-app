@@ -5,15 +5,6 @@ status: unread
 ---
 # culprit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who perpetrates wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who perpetrates wrongdoing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their arrival was dreaded by the elder Miss Bennets--and Jane more especially, who gave Lydia the feelings which would have attended herself, had _she_ been the culprit, and was wretched in the thought of what her sister must endure."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Also, they stood about the door of the Jolly Bargemen, with knowing and reserved looks that filled the whole neighbourhood with admiration; and they had a mysterious manner of taking their drink, that was almost as good as taking the culprit."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Especially if there was anything discreditable to be found out concerning another man, Caleb preferred not to know it; and if he had to tell anybody under him that his evil doings were discovered, he was more embarrassed than the culprit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who perpetrates wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who perpetrates wrongdoing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their arrival was dreaded by the elder Miss Bennets--and Jane more especially, who gave Lydia the feelings which would have attended herself, had _she_ been the culprit, and was wretched in the thought of what her sister must endure."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Also, they stood about the door of the Jolly Bargemen, with knowing and reserved looks that filled the whole neighbourhood with admiration; and they had a mysterious manner of taking their drink, that was almost as good as taking the culprit."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Especially if there was anything discreditable to be found out concerning another man, Caleb preferred not to know it; and if he had to tell anybody under him that his evil doings were discovered, he was more embarrassed than the culprit."*

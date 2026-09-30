@@ -5,15 +5,6 @@ status: unread
 ---
 # facile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrived at without due care or effort; lacking depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing adroitly and without effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was plenty of eggs, butter, bread, and so on in the larder, and Clare soon had breakfast laid, his experiences at the dairy having rendered him facile in domestic preparations."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He meant too much for them to seek the facile relief of praise."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My love,” he said, with irritation reined in by propriety, “you may rely upon me for knowing the times and the seasons, adapted to the different stages of a work which is not to be measured by the facile conjectures of ignorant onlookers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrived at without due care or effort; lacking depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing adroitly and without effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was plenty of eggs, butter, bread, and so on in the larder, and Clare soon had breakfast laid, his experiences at the dairy having rendered him facile in domestic preparations."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He meant too much for them to seek the facile relief of praise."*
+> - 📜 **George Eliot (*Middlemarch*):** *"My love,” he said, with irritation reined in by propriety, “you may rely upon me for knowing the times and the seasons, adapted to the different stages of a work which is not to be measured by the facile conjectures of ignorant onlookers."*

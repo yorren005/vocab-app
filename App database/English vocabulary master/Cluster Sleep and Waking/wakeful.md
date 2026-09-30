@@ -5,20 +5,6 @@ status: unread
 ---
 # wakeful
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sleepless
-> 2. **Nuance / Usage**: Awake; not sleeping
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a wakeful appearance*) and predicatively after a linking verb (*remained wakeful*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It would not be worth mentioning for its own sake, but I was wakeful and rather low-spirited."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"One of the girls, who occupied an adjoining bed, was more wakeful than Tess, and would insist upon relating to the latter various particulars of the homestead."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"For me, the watches of that long night passed in ghastly wakefulness; ear, eye, and mind were alike strained by dread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Unable or unwilling to sleep; remaining awake, especially during the night (*a wakeful night*).
+> 2. **Nuance / Usage**: Vigilant, observant, and unceasingly attentive to one's surroundings.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a wakeful appearance*) and predicatively after a linking verb (*remained wakeful*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It would not be worth mentioning for its own sake, but I was **wakeful** and rather low-spirited."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"One of the girls, who occupied an adjoining bed, was more **wakeful** than Tess, and insisted upon talking through the dark."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"For me, the watches of that long night passed in ghastly **wakefulness**; ear, eye, and mind were alike strained by dread."*

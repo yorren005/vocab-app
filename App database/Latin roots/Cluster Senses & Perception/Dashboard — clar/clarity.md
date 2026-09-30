@@ -5,15 +5,6 @@ status: unread
 ---
 # clarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from obscurity and easy to understand; the comprehensibility of clear expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of clear water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The message's clarity was unaffected by passage through hundreds of spunnel boosters that linked O'Hare to a shielded bunker beneath Luna's surface."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ad hoc committees were set up to explore options in depth, or at minimum, to provide clarity and context to the issue."*
-> - 📜 **Unknown (*The Second Story of Meno*):** *"Meno: I quite agree with you, son, the clarity of your reasoning is truly astounding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from obscurity and easy to understand; the comprehensibility of clear expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of clear water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The message's clarity was unaffected by passage through hundreds of spunnel boosters that linked O'Hare to a shielded bunker beneath Luna's surface."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ad hoc committees were set up to explore options in depth, or at minimum, to provide clarity and context to the issue."*
+> - 📜 **Unknown (*The Second Story of Meno*):** *"Meno: I quite agree with you, son, the clarity of your reasoning is truly astounding."*

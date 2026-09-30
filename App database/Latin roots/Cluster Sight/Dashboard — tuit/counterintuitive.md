@@ -5,13 +5,6 @@ status: unread
 ---
 # counterintuitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to what common sense would suggest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to what common sense would suggest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterintuitive designates contrary to what common sense would suggest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to what common sense would suggest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to what common sense would suggest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterintuitive designates contrary to what common sense would suggest."*

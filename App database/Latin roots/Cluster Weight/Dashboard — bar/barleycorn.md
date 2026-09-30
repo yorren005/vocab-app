@@ -5,15 +5,6 @@ status: unread
 ---
 # barleycorn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grain of barley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grain of barley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"John Barleycorn: A Ballad There was three kings into the east, Three kings both great and high, And they hae sworn a solemn oath John Barleycorn should die."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They took a plough and plough’d him down, Put clods upon his head, And they hae sworn a solemn oath John Barleycorn was dead."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But the cheerful Spring came kindly on, And show’rs began to fall; John Barleycorn got up again, And sore surpris’d them all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grain of barley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grain of barley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"John Barleycorn: A Ballad There was three kings into the east, Three kings both great and high, And they hae sworn a solemn oath John Barleycorn should die."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They took a plough and plough’d him down, Put clods upon his head, And they hae sworn a solemn oath John Barleycorn was dead."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But the cheerful Spring came kindly on, And show’rs began to fall; John Barleycorn got up again, And sore surpris’d them all."*

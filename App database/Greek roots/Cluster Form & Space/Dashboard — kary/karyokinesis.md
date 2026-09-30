@@ -5,13 +5,6 @@ status: unread
 ---
 # karyokinesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organic process consisting of the division of the nucleus of a cell during mitosis or meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organic process consisting of the division of the nucleus of a cell during mitosis or meiosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyokinesis designates organic process consisting of the division of the nucleus of a cell during mitosis or meiosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organic process consisting of the division of the nucleus of a cell during mitosis or meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organic process consisting of the division of the nucleus of a cell during mitosis or meiosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyokinesis designates organic process consisting of the division of the nucleus of a cell during mitosis or meiosis."*

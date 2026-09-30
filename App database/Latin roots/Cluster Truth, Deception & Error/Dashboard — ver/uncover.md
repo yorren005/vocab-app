@@ -5,15 +5,6 @@ status: unread
 ---
 # uncover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove all or part of one's clothes to show one's body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then as the manner of our country is, In thy best robes, uncover’d, on the bier, Thou shalt be borne to that same ancient vault Where all the kindred of the Capulets lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncover, dogs, and lap. [_The dishes are uncovered and prove to be full of lukewarm water._] SOME SPEAK."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"One design of the judgment, then, is to uncover these hidden springs, and lay open every dark retreat of human conduct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make visible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove all or part of one's clothes to show one's body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then as the manner of our country is, In thy best robes, uncover’d, on the bier, Thou shalt be borne to that same ancient vault Where all the kindred of the Capulets lie."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncover, dogs, and lap. [_The dishes are uncovered and prove to be full of lukewarm water._] SOME SPEAK."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"One design of the judgment, then, is to uncover these hidden springs, and lay open every dark retreat of human conduct."*

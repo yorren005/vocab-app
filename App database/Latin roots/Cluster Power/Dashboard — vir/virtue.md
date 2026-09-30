@@ -5,15 +5,6 @@ status: unread
 ---
 # virtue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of doing what is right and avoiding what is wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any admirable quality or attribute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy blood and virtue Contend for empire in thee, and thy goodness Share with thy birthright!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of doing what is right and avoiding what is wrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any admirable quality or attribute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy blood and virtue Contend for empire in thee, and thy goodness Share with thy birthright!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*

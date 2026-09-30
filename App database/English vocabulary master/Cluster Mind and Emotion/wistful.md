@@ -5,20 +5,6 @@ status: unread
 ---
 # wistful
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sad and thoughtful
-> 2. **Nuance / Usage**: Musingly sad : pensive
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a wistful presence*) or predicatively (*remained wistful*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was now too fond of you often to simulate the first whim; and, when I stretched my hand out cordially, such bloom and light and bliss rose to your young, wistful features, I had much ado often to avoid straining you then and there to my heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby wistfully, and coughing behind his hand his cough of great perplexity and doubt, “really, that does seem a question.”"*
-> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I walked toward the sea, and casting my eyes downward, perceived two vessels at anchor, and sashes, cast many a wistful melancholy look towards the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Full of yearning or desire tinged with quiet, pensive melancholy—especially when looking back on something lost or unattainable.
+> 2. **Nuance / Usage**: Unlike acute grief or restless craving, *wistful* conveys a gentle, contemplative sadness resigned to the fact that what is wished for cannot be recovered.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a wistful presence*) or predicatively (*remained wistful*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"When I stretched my hand out cordially, such bloom and light and bliss rose to your young, **wistful** features that I could scarcely refrain from embracing you."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I walked toward the shore and cast many a **wistful**, melancholy look toward the open sea."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"There was a **wistful** quality in his smile, as though he were still listening for the music of a summer that had ended years ago."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # repression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of forcible subjugation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) the classical defense mechanism that protects you from impulses or ideas that would cause anxiety by preventing them from becoming conscious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Instead of being a man trained to repression he was—what she had seen him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He felt sure that she had been suffering from the strain and conflict of self-repression; and that she was likely now to feel herself only in another sort of pinfold than that from which she had been released."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Alan would never be an irritated, jealous, paretic old man, nor would he see "this woman" grow stern with repression and ache, and loneliness of heart and spirit...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of forcible subjugation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) the classical defense mechanism that protects you from impulses or ideas that would cause anxiety by preventing them from becoming conscious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Instead of being a man trained to repression he was—what she had seen him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He felt sure that she had been suffering from the strain and conflict of self-repression; and that she was likely now to feel herself only in another sort of pinfold than that from which she had been released."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Alan would never be an irritated, jealous, paretic old man, nor would he see "this woman" grow stern with repression and ache, and loneliness of heart and spirit...."*

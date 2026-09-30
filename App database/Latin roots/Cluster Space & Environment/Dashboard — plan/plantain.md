@@ -5,15 +5,6 @@ status: unread
 ---
 # plantain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus plantago; mostly small roadside or dooryard weeds with elliptic leaves and small spikes of very small flowers; seeds of some used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banana tree bearing hanging clusters of edible angular greenish starchy fruits; tropics and subtropics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, plantain, a plain plantain!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No _l’envoi_, no _l’envoi_, no salve, sir, but a plantain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your plantain leaf is excellent for that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus plantago; mostly small roadside or dooryard weeds with elliptic leaves and small spikes of very small flowers; seeds of some used medicinally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banana tree bearing hanging clusters of edible angular greenish starchy fruits; tropics and subtropics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, plantain, a plain plantain!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No _l’envoi_, no _l’envoi_, no salve, sir, but a plantain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your plantain leaf is excellent for that."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # humbled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be unpretentious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The common executioner, Whose heart th’ accustomed sight of death makes hard, Falls not the axe upon the humbled neck But first begs pardon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, take this purse, thou whom the heaven’s plagues Have humbled to all strokes: that I am wretched Makes thee the happier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be unpretentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The common executioner, Whose heart th’ accustomed sight of death makes hard, Falls not the axe upon the humbled neck But first begs pardon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, take this purse, thou whom the heaven’s plagues Have humbled to all strokes: that I am wretched Makes thee the happier."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # orthodontic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthodontic designates a branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthodontic designates a branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics."*

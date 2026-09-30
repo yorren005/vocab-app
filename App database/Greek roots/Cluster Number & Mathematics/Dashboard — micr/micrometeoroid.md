@@ -5,13 +5,6 @@ status: unread
 ---
 # micrometeoroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeoroid designates a meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeoroid designates a meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere."*

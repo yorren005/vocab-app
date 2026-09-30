@@ -5,15 +5,6 @@ status: unread
 ---
 # transfix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To render motionless, as with a fixed stare or by arousing terror or awe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time doth transfix the flourish set on youth, And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Time doth transfix the flourish set on youth And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow: And yet to times in hope, my verse shall stand."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, you too have power over me, and may injure me: yet I dare not show you where I am vulnerable, lest, faithful and friendly as you are, you should transfix me at once.” “If you have no more to fear from Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render motionless, as with a fixed stare or by arousing terror or awe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time doth transfix the flourish set on youth, And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Time doth transfix the flourish set on youth And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow: And yet to times in hope, my verse shall stand."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, you too have power over me, and may injure me: yet I dare not show you where I am vulnerable, lest, faithful and friendly as you are, you should transfix me at once.” “If you have no more to fear from Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # commandership
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position or office of commander.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position or office of commander.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"It was like a highly-finished miniature painting representing My Lords of the Circumlocution Department, Commandership-in-Chief of any sort, Government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position or office of commander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position or office of commander.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"It was like a highly-finished miniature painting representing My Lords of the Circumlocution Department, Commandership-in-Chief of any sort, Government."*

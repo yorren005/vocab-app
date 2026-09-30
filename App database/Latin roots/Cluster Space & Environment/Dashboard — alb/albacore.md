@@ -5,13 +5,6 @@ status: unread
 ---
 # albacore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small tuna with choice white flesh; major source of canned tuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large pelagic tuna the source of most canned tuna; reaches 93 pounds and has long pectoral fins; found worldwide in tropical and temperate waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albacore designates relatively small tuna with choice white flesh; major source of canned tuna."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small tuna with choice white flesh; major source of canned tuna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large pelagic tuna the source of most canned tuna; reaches 93 pounds and has long pectoral fins; found worldwide in tropical and temperate waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albacore designates relatively small tuna with choice white flesh; major source of canned tuna."*

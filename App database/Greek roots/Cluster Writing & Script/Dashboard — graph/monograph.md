@@ -5,15 +5,6 @@ status: unread
 ---
 # monograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A learned treatise on a small area of learning; also : a written account of a single thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To write a monograph on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Knuffmann in a learned monograph, _Balder, Mythus und Sage_ (Strasburg, 1902). [257] Gudbrand Vigfusson and F."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had adopted an immediate intention: there was to be a new Parergon, a small monograph on some lately traced indications concerning the Egyptian mysteries whereby certain assertions of Warburton’s could be corrected."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In this case I found her biography sandwiched in between that of a Hebrew rabbi and that of a staff-commander who had written a monograph upon the deep-sea fishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A learned treatise on a small area of learning; also : a written account of a single thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To write a monograph on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Knuffmann in a learned monograph, _Balder, Mythus und Sage_ (Strasburg, 1902). [257] Gudbrand Vigfusson and F."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had adopted an immediate intention: there was to be a new Parergon, a small monograph on some lately traced indications concerning the Egyptian mysteries whereby certain assertions of Warburton’s could be corrected."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In this case I found her biography sandwiched in between that of a Hebrew rabbi and that of a staff-commander who had written a monograph upon the deep-sea fishes."*

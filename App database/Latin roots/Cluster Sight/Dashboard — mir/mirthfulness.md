@@ -5,13 +5,6 @@ status: unread
 ---
 # mirthfulness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great merriment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great merriment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The thoughts, too, that run around the ring of familiar guests have a piquancy and mirthfulness, and oftentimes a vivid truth, which more rarely find their way into the elaborate intercourse of dinner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great merriment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great merriment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The thoughts, too, that run around the ring of familiar guests have a piquancy and mirthfulness, and oftentimes a vivid truth, which more rarely find their way into the elaborate intercourse of dinner."*

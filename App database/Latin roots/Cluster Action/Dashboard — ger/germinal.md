@@ -5,13 +5,6 @@ status: unread
 ---
 # germinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seventh month of the revolutionary calendar (march and april); the month of buds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing seeds of later development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke had written his invitation, those germinal ideas of making his mind tell upon the world at large which had been present in him from his younger years, but had hitherto lain in some obstruction, had been sprouting under cover."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seventh month of the revolutionary calendar (march and april); the month of buds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing seeds of later development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke had written his invitation, those germinal ideas of making his mind tell upon the world at large which had been present in him from his younger years, but had hitherto lain in some obstruction, had been sprouting under cover."*

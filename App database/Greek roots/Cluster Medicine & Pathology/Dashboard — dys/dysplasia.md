@@ -5,13 +5,6 @@ status: unread
 ---
 # dysplasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplasia designates abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplasia designates abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth."*

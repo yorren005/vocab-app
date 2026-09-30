@@ -5,15 +5,6 @@ status: unread
 ---
 # confrontation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bold challenge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discord resulting from a clash of ideas or opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We are well into an armed confrontation," he said."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The momentary confrontation passed, Brad, obviously fed up with Xindral's evasions, crossed his arms across his chest and waited."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You came out of it looking like a fool in a confrontation that enhances Drummer's image to the detriment of the President's Chief of Security." Narval raised his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bold challenge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discord resulting from a clash of ideas or opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We are well into an armed confrontation," he said."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The momentary confrontation passed, Brad, obviously fed up with Xindral's evasions, crossed his arms across his chest and waited."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You came out of it looking like a fool in a confrontation that enhances Drummer's image to the detriment of the President's Chief of Security." Narval raised his head."*

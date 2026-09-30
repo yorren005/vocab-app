@@ -5,15 +5,6 @@ status: unread
 ---
 # imperturbable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily perturbed or excited or upset; marked by extreme calm and composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily perturbed or excited or upset; marked by extreme calm and composure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His imperturbable face has been as inexpressive as his rusty clothes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s chafing and galling—it’s—it’s worse than your smattering chattering magpie of a grandmother,” to the imperturbable Judy, who only looks at the fire, “to know he has got what’s wanted and won’t give it up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is as imperturbable as the hearthstone to which he has quietly walked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily perturbed or excited or upset; marked by extreme calm and composure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily perturbed or excited or upset; marked by extreme calm and composure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His imperturbable face has been as inexpressive as his rusty clothes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s chafing and galling—it’s—it’s worse than your smattering chattering magpie of a grandmother,” to the imperturbable Judy, who only looks at the fire, “to know he has got what’s wanted and won’t give it up."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is as imperturbable as the hearthstone to which he has quietly walked."*

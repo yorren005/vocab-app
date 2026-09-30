@@ -5,15 +5,6 @@ status: unread
 ---
 # patronage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of providing approval and support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Customers collectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, as an outlaw in a castle keeps, And useth it to patronage his theft."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, sir, as well as you dare patronage The envious barking of your saucy tongue Against my lord the Duke of Somerset."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I would suggest that as you think her worthy of your patronage, you should exert your influence to keep her from these dangerous hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of providing approval and support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Customers collectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, as an outlaw in a castle keeps, And useth it to patronage his theft."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, sir, as well as you dare patronage The envious barking of your saucy tongue Against my lord the Duke of Somerset."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I would suggest that as you think her worthy of your patronage, you should exert your influence to keep her from these dangerous hands."*

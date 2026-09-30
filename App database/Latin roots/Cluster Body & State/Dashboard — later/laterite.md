@@ -5,13 +5,6 @@ status: unread
 ---
 # laterite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laterite designates a red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laterite designates a red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides."*

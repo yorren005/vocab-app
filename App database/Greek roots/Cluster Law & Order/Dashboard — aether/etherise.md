@@ -5,13 +5,6 @@ status: unread
 ---
 # etherise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthetize with ether.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetize with ether.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etherise designates anesthetize with ether."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthetize with ether.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetize with ether.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etherise designates anesthetize with ether."*

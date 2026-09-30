@@ -5,15 +5,6 @@ status: unread
 ---
 # machiavellian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of machiavelli's principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to machiavelli or the principles of conduct he recommended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett going to take you abroad?” “I hope so.” “Is England not good enough for you?” “That’s a very Machiavellian speech; it doesn’t deserve an answer."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So this Machiavellian captain of infantry cast about him for some happy means or stratagem by which he could gently and gradually bring the Misses Osborne to a knowledge of their brother's secret."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The artful diplomatist and disciple of the Machiavellian Binkie!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of machiavelli's principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to machiavelli or the principles of conduct he recommended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett going to take you abroad?” “I hope so.” “Is England not good enough for you?” “That’s a very Machiavellian speech; it doesn’t deserve an answer."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So this Machiavellian captain of infantry cast about him for some happy means or stratagem by which he could gently and gradually bring the Misses Osborne to a knowledge of their brother's secret."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The artful diplomatist and disciple of the Machiavellian Binkie!"*

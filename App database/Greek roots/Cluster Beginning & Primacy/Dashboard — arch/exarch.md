@@ -5,13 +5,6 @@ status: unread
 ---
 # exarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Byzantine viceroy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Eastern bishop ranking below a patriarch and above a metropolitan; specifically : the head of an independent church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exarch designates a byzantine viceroy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Byzantine viceroy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Eastern bishop ranking below a patriarch and above a metropolitan; specifically : the head of an independent church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exarch designates a byzantine viceroy."*

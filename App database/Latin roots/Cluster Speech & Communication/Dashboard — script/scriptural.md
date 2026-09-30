@@ -5,15 +5,6 @@ status: unread
 ---
 # scriptural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or contained in or in accordance with the bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or relating to writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Larcher was nervous until reassured by finding the subjects to be Scriptural."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Notwithstanding the existence of wedlock among the Typees, the Scriptural injunction to increase and multiply seems to be but indifferently attended to."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The frown, the harsh rebuke, the frequent application of the rod, enjoined by Scriptural authority, were used, not merely in the way of punishment for actual offences, but as a wholesome regimen for the growth and promotion of all childish virtues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or contained in or in accordance with the bible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or relating to writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Larcher was nervous until reassured by finding the subjects to be Scriptural."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Notwithstanding the existence of wedlock among the Typees, the Scriptural injunction to increase and multiply seems to be but indifferently attended to."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The frown, the harsh rebuke, the frequent application of the rod, enjoined by Scriptural authority, were used, not merely in the way of punishment for actual offences, but as a wholesome regimen for the growth and promotion of all childish virtues."*

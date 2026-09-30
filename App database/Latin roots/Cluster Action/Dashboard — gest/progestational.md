@@ -5,13 +5,6 @@ status: unread
 ---
 # progestational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to progesterone (or to a drug with effects like those of progesterone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and favoring gestation; of or relating to physiological changes associated with ovulation and formation of the corpus luteum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progestational designates of or relating to progesterone (or to a drug with effects like those of progesterone)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to progesterone (or to a drug with effects like those of progesterone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and favoring gestation; of or relating to physiological changes associated with ovulation and formation of the corpus luteum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progestational designates of or relating to progesterone (or to a drug with effects like those of progesterone)."*

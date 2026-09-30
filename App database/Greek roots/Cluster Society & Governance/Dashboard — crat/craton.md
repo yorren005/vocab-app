@@ -5,13 +5,6 @@ status: unread
 ---
 # craton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a continent that is stable and forms the central mass of the continent; typically precambrian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a continent that is stable and forms the central mass of the continent; typically precambrian.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craton designates the part of a continent that is stable and forms the central mass of the continent; typically precambrian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a continent that is stable and forms the central mass of the continent; typically precambrian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a continent that is stable and forms the central mass of the continent; typically precambrian.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craton designates the part of a continent that is stable and forms the central mass of the continent; typically precambrian."*

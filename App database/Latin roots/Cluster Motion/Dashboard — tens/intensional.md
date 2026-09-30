@@ -5,13 +5,6 @@ status: unread
 ---
 # intensional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the set of attributes that distinguish the referents of a given word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the set of attributes that distinguish the referents of a given word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensional designates used of the set of attributes that distinguish the referents of a given word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the set of attributes that distinguish the referents of a given word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the set of attributes that distinguish the referents of a given word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensional designates used of the set of attributes that distinguish the referents of a given word."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # disruptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrest or disorder or insubordination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was all too ridiculous, the introducing of disruptive foreign substances into the bodies of little black men-folk."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was torn by an exquisite and disruptive agony."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Then came the summons, the stamp of the hoof of doom, the exquisite disruptive agony, and again I was back in my cell in San Quentin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrest or disorder or insubordination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was all too ridiculous, the introducing of disruptive foreign substances into the bodies of little black men-folk."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was torn by an exquisite and disruptive agony."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Then came the summons, the stamp of the hoof of doom, the exquisite disruptive agony, and again I was back in my cell in San Quentin."*

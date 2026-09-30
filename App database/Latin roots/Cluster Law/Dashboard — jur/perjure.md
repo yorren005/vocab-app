@@ -5,15 +5,6 @@ status: unread
 ---
 # perjure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowingly tell an untruth in a legal court and render oneself guilty of perjury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowingly tell an untruth in a legal court and render oneself guilty of perjury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are not In their best fortunes strong, but want will perjure The ne’er-touch’d vestal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, he comes in like a perjure, wearing papers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perjured most, For all my vows are oaths but to misuse thee: And all my honest faith in thee is lost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowingly tell an untruth in a legal court and render oneself guilty of perjury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowingly tell an untruth in a legal court and render oneself guilty of perjury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are not In their best fortunes strong, but want will perjure The ne’er-touch’d vestal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, he comes in like a perjure, wearing papers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perjured most, For all my vows are oaths but to misuse thee: And all my honest faith in thee is lost."*

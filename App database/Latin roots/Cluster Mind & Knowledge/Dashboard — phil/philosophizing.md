@@ -5,15 +5,6 @@ status: unread
 ---
 # philosophizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposition (often superficially) of a particular philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why,” thought Prince Andrew, “that’s the captain who stood up in the sutler’s hut without his boots.” He recognized the agreeable, philosophizing voice with pleasure."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dimmler struck a chord and, turning to Natásha, Nicholas, and Sónya, remarked: “How quiet you young people are!” “Yes, we’re philosophizing,” said Natásha, glancing round for a moment and then continuing the conversation."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"P.” Philosophizing thus, he presently sent the Green Imp at her quietest pace in at the home driveway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposition (often superficially) of a particular philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why,” thought Prince Andrew, “that’s the captain who stood up in the sutler’s hut without his boots.” He recognized the agreeable, philosophizing voice with pleasure."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dimmler struck a chord and, turning to Natásha, Nicholas, and Sónya, remarked: “How quiet you young people are!” “Yes, we’re philosophizing,” said Natásha, glancing round for a moment and then continuing the conversation."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"P.” Philosophizing thus, he presently sent the Green Imp at her quietest pace in at the home driveway."*

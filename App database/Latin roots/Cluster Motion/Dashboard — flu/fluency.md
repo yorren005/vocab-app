@@ -5,15 +5,6 @@ status: unread
 ---
 # fluency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful and effective language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in speaking or writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He talked with fluency and spirit—and there was an archness and pleasantry in his manner which interested, though it was hardly understood by her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She played: her execution was brilliant; she sang: her voice was fine; she talked French apart to her mamma; and she talked it well, with fluency and with a good accent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My cousins, full of exhilaration, were so eloquent in narrative and comment, that their fluency covered St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful and effective language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in speaking or writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"He talked with fluency and spirit—and there was an archness and pleasantry in his manner which interested, though it was hardly understood by her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She played: her execution was brilliant; she sang: her voice was fine; she talked French apart to her mamma; and she talked it well, with fluency and with a good accent."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My cousins, full of exhilaration, were so eloquent in narrative and comment, that their fluency covered St."*

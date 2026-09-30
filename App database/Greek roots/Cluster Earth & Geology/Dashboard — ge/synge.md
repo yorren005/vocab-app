@@ -5,15 +5,6 @@ status: unread
 ---
 # synge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irish poet and playwright whose plays are based on rural irish life (1871-1909).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irish poet and playwright whose plays are based on rural irish life (1871-1909).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I pray you all synge merily Qui estis in convivio."*
-> - 📜 **James Joyce (*Ulysses*):** *"Synge has promised me an article for _Dana_ too."*
-> - 📜 **James Joyce (*Ulysses*):** *"The chap that writes like Synge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irish poet and playwright whose plays are based on rural irish life (1871-1909).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irish poet and playwright whose plays are based on rural irish life (1871-1909).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I pray you all synge merily Qui estis in convivio."*
+> - 📜 **James Joyce (*Ulysses*):** *"Synge has promised me an article for _Dana_ too."*
+> - 📜 **James Joyce (*Ulysses*):** *"The chap that writes like Synge."*

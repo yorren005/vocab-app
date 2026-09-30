@@ -5,15 +5,6 @@ status: unread
 ---
 # correspond
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A maid of honour of the court of Charles the Second, with large round eyes (and other charms to correspond), seems to bathe in glowing water, and it ripples as it glows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They were dressed to correspond, though in a most untidy and negligent way."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the disturbances are so modified by the particular conditions (of crops, politics, and speculation) that the phenomena never correspond exactly in time of occurrence, in duration, or in intensity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A maid of honour of the court of Charles the Second, with large round eyes (and other charms to correspond), seems to bathe in glowing water, and it ripples as it glows."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They were dressed to correspond, though in a most untidy and negligent way."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the disturbances are so modified by the particular conditions (of crops, politics, and speculation) that the phenomena never correspond exactly in time of occurrence, in duration, or in intensity."*

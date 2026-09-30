@@ -5,15 +5,6 @@ status: unread
 ---
 # trembling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shaky motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jerk quickly and involuntarily up and down or sideways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have brought A trembling upon Rome such as was never S’ incapable of help."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will forsooth have all my prisoners, And when I urged the ransom once again Of my wife’s brother, then his cheek look’d pale, And on my face he turn’d an eye of death, Trembling even at the name of Mortimer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore rouse up fear and trembling, and do observance to my mercy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shaky motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jerk quickly and involuntarily up and down or sideways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have brought A trembling upon Rome such as was never S’ incapable of help."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will forsooth have all my prisoners, And when I urged the ransom once again Of my wife’s brother, then his cheek look’d pale, And on my face he turn’d an eye of death, Trembling even at the name of Mortimer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore rouse up fear and trembling, and do observance to my mercy."*

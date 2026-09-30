@@ -5,15 +5,6 @@ status: unread
 ---
 # barcelona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northeastern spain on the mediterranean; 2nd largest spanish city and the largest port and commercial center; has been a center for radical political beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northeastern spain on the mediterranean; 2nd largest spanish city and the largest port and commercial center; has been a center for radical political beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There was a fellow I knew once in Barcelona, queer fellow, used to call it his postprandial."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The French held their front towards the Barcelona road and the Juslibol, where more kilns and gardens lie at the left of the second of those two ways."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Thence the Twelfth had furiously attacked our intrenchments, making their way by the Barcelona road, and challenging with impetuous intrepidity the cross-fires of San Lazarus and that of the place called El Marcelo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northeastern spain on the mediterranean; 2nd largest spanish city and the largest port and commercial center; has been a center for radical political beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northeastern spain on the mediterranean; 2nd largest spanish city and the largest port and commercial center; has been a center for radical political beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"There was a fellow I knew once in Barcelona, queer fellow, used to call it his postprandial."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The French held their front towards the Barcelona road and the Juslibol, where more kilns and gardens lie at the left of the second of those two ways."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Thence the Twelfth had furiously attacked our intrenchments, making their way by the Barcelona road, and challenging with impetuous intrepidity the cross-fires of San Lazarus and that of the place called El Marcelo."*

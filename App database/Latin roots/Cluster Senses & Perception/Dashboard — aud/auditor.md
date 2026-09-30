@@ -5,15 +5,6 @@ status: unread
 ---
 # auditor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who listens attentively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student who attends a course but does not take it for credit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him tell it to one of his company last night at supper; a kind of auditor, one that hath abundance of charge too, God knows what."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll be an auditor; An actor too perhaps, if I see cause."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket’s eye and the masterly manner in which he contrived, without a look or a word against which his watchful auditor could protest, to let us know that he stated the case according to previous agreement and could say much more of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who listens attentively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student who attends a course but does not take it for credit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him tell it to one of his company last night at supper; a kind of auditor, one that hath abundance of charge too, God knows what."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll be an auditor; An actor too perhaps, if I see cause."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket’s eye and the masterly manner in which he contrived, without a look or a word against which his watchful auditor could protest, to let us know that he stated the case according to previous agreement and could say much more of Mr."*

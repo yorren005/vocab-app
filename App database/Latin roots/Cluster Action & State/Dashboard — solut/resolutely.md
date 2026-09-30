@@ -5,15 +5,6 @@ status: unread
 ---
 # resolutely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing firm determination or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With firmness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thrice-noble Suffolk, ’tis resolutely spoke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a fery discretion answer, save the fall is in the ’ord “dissolutely.” The ’ort is, according to our meaning, “resolutely.” His meaning is good."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli inspected the tiny chickens and the ripening plums with great enjoyment, but as this had barely taken any time at all, she soon said resolutely, "I have to go now because it is late."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing firm determination or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With firmness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thrice-noble Suffolk, ’tis resolutely spoke."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a fery discretion answer, save the fall is in the ’ord “dissolutely.” The ’ort is, according to our meaning, “resolutely.” His meaning is good."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli inspected the tiny chickens and the ripening plums with great enjoyment, but as this had barely taken any time at all, she soon said resolutely, "I have to go now because it is late."*

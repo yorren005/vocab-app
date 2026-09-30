@@ -5,13 +5,6 @@ status: unread
 ---
 # unagitated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not physically disturbed or set in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not agitated or disturbed emotionally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unagitated designates not physically disturbed or set in motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not physically disturbed or set in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not agitated or disturbed emotionally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unagitated designates not physically disturbed or set in motion."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heteroecious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroecious designates passing through the different stages in the life cycle on alternate and often unrelated hosts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroecious designates passing through the different stages in the life cycle on alternate and often unrelated hosts."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pectinibranchia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large order of gastropods comprising univalve mollusks that have a single gill resembling a comb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large order of gastropods comprising univalve mollusks that have a single gill resembling a comb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectinibranchia designates large order of gastropods comprising univalve mollusks that have a single gill resembling a comb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large order of gastropods comprising univalve mollusks that have a single gill resembling a comb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large order of gastropods comprising univalve mollusks that have a single gill resembling a comb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectinibranchia designates large order of gastropods comprising univalve mollusks that have a single gill resembling a comb."*

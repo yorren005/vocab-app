@@ -5,15 +5,6 @@ status: unread
 ---
 # ordain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order by virtue of superior authority; decree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say then to Cæsar, Our ancestor was that Mulmutius which Ordain’d our laws, whose use the sword of Cæsar Hath too much mangled; whose repair and franchise Shall, by the power we hold, be our good deed, Though Rome be therefore angry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To Eltham will I, where the young King is, Being ordain’d his special governor; And for his safety there I’ll best devise. [_Exit._] WINCHESTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Out of your grace, devise, ordain, impose Some gentle order, and then we shall be blest To do your pleasure and continue friends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Order by virtue of superior authority; decree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say then to Cæsar, Our ancestor was that Mulmutius which Ordain’d our laws, whose use the sword of Cæsar Hath too much mangled; whose repair and franchise Shall, by the power we hold, be our good deed, Though Rome be therefore angry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To Eltham will I, where the young King is, Being ordain’d his special governor; And for his safety there I’ll best devise. [_Exit._] WINCHESTER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Out of your grace, devise, ordain, impose Some gentle order, and then we shall be blest To do your pleasure and continue friends."*

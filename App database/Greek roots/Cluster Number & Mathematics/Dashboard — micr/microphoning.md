@@ -5,13 +5,6 @@ status: unread
 ---
 # microphoning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transduction of sound waves into electrical waves (by a microphone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transduction of sound waves into electrical waves (by a microphone).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphoning designates the transduction of sound waves into electrical waves (by a microphone)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transduction of sound waves into electrical waves (by a microphone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transduction of sound waves into electrical waves (by a microphone).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphoning designates the transduction of sound waves into electrical waves (by a microphone)."*

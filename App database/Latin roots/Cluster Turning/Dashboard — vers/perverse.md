@@ -5,15 +5,6 @@ status: unread
 ---
 # perverse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a disposition to oppose and contradict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to guidance or discipline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were covetous, ambitious, or perverse, As he will have me, how am I so poor?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you, my lords, methinks you do not well To bear with their perverse objections, Much less to take occasion from their mouths To raise a mutiny betwixt yourselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or if thou thinkest I am too quickly won, I’ll frown and be perverse, and say thee nay, So thou wilt woo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a disposition to oppose and contradict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to guidance or discipline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were covetous, ambitious, or perverse, As he will have me, how am I so poor?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you, my lords, methinks you do not well To bear with their perverse objections, Much less to take occasion from their mouths To raise a mutiny betwixt yourselves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or if thou thinkest I am too quickly won, I’ll frown and be perverse, and say thee nay, So thou wilt woo."*

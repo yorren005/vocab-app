@@ -5,13 +5,6 @@ status: unread
 ---
 # oligotrophic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligotrophic designates having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligotrophic designates having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen."*

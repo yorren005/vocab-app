@@ -5,15 +5,6 @@ status: unread
 ---
 # refection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light meal or repast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light meal or repast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"They eat, they drink, and with refection sweet Are fill’d, before th’ all bounteous King, who showrd With copious hand, rejoycing in thir joy."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Six words there, While I stood munching my first bread that month: “So, boy, you’re minded,” quoth the good fat father Wiping his own mouth, ‘twas refection-time,-- “To quit this very miserable world?"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When he finishes refection, Knife and fork he never lays Cross-wise, to my recollection, As do I, in Jesu’s praise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light meal or repast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light meal or repast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"They eat, they drink, and with refection sweet Are fill’d, before th’ all bounteous King, who showrd With copious hand, rejoycing in thir joy."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Six words there, While I stood munching my first bread that month: “So, boy, you’re minded,” quoth the good fat father Wiping his own mouth, ‘twas refection-time,-- “To quit this very miserable world?"*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When he finishes refection, Knife and fork he never lays Cross-wise, to my recollection, As do I, in Jesu’s praise."*

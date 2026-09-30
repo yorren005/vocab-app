@@ -5,13 +5,6 @@ status: unread
 ---
 # dispiritedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dispirited manner without hope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dispirited manner without hope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispiritedly designates in a dispirited manner without hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dispirited manner without hope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dispirited manner without hope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispiritedly designates in a dispirited manner without hope."*

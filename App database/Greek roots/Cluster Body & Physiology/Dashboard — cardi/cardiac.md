@@ -5,15 +5,6 @@ status: unread
 ---
 # cardiac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, situated near, or acting on the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cardia of the stomach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But as the autumn advanced and his health did not greatly improve, another consultation of his doctors was held, the result of which was that he was pronounced to be suffering from cardiac weakness, and quite unfit for the work of the coming winter."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Mortimer refused at first to believe that it was indeed his friend and patient who lay before him—it was explained that that is a symptom which is not unusual in cases of dyspnœa and death from cardiac exhaustion."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The mensa sharpened by the concourse of the thoral and cardiac lines, points out deceit and danger of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, situated near, or acting on the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cardia of the stomach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But as the autumn advanced and his health did not greatly improve, another consultation of his doctors was held, the result of which was that he was pronounced to be suffering from cardiac weakness, and quite unfit for the work of the coming winter."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Mortimer refused at first to believe that it was indeed his friend and patient who lay before him—it was explained that that is a symptom which is not unusual in cases of dyspnœa and death from cardiac exhaustion."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The mensa sharpened by the concourse of the thoral and cardiac lines, points out deceit and danger of life."*

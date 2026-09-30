@@ -5,13 +5,6 @@ status: unread
 ---
 # heliacal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliacal designates pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliacal designates pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # leptotyphlops
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blind snakes of asia and africa and americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blind snakes of asia and africa and americas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptotyphlops designates blind snakes of asia and africa and americas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blind snakes of asia and africa and americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blind snakes of asia and africa and americas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptotyphlops designates blind snakes of asia and africa and americas."*

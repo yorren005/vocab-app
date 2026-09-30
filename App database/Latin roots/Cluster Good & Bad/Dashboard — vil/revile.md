@@ -5,15 +5,6 @@ status: unread
 ---
 # revile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread negative information about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread negative information about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did not she herself revile me there?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A man of strife ye’ve born me: For sair contention I maun bear; They hate, revile, and scorn me."*
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom The gracious Judge without revile repli’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread negative information about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread negative information about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did not she herself revile me there?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A man of strife ye’ve born me: For sair contention I maun bear; They hate, revile, and scorn me."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom The gracious Judge without revile repli’d."*

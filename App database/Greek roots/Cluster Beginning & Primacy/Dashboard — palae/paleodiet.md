@@ -5,13 +5,6 @@ status: unread
 ---
 # paleodiet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diet approximating that of hunter-gatherers of the Paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, Stone Age diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diet approximating that of hunter-gatherers of the Paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, Stone Age diet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleodiet designates a diet approximating that of hunter-gatherers of the paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, stone age diet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diet approximating that of hunter-gatherers of the Paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, Stone Age diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diet approximating that of hunter-gatherers of the Paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, Stone Age diet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleodiet designates a diet approximating that of hunter-gatherers of the paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, stone age diet."*

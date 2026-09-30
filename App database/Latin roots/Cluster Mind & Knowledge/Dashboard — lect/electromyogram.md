@@ -5,13 +5,6 @@ status: unread
 ---
 # electromyogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record of electric currents associated with muscle contractions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical record of electric currents associated with muscle contractions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyogram designates a graphical record of electric currents associated with muscle contractions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record of electric currents associated with muscle contractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical record of electric currents associated with muscle contractions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyogram designates a graphical record of electric currents associated with muscle contractions."*

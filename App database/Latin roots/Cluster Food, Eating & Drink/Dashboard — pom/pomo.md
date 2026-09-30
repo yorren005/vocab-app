@@ -5,13 +5,6 @@ status: unread
 ---
 # pomo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an indian people of northern california living along the russian river valley and adjacent pacific coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kulanapan language spoken by the pomo.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Pomos of California celebrate an expulsion of devils every seven years, at which the devils are represented by disguised men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an indian people of northern california living along the russian river valley and adjacent pacific coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kulanapan language spoken by the pomo.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Pomos of California celebrate an expulsion of devils every seven years, at which the devils are represented by disguised men."*

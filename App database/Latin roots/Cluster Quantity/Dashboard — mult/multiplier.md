@@ -5,13 +5,6 @@ status: unread
 ---
 # multiplier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number by which a multiplicand is multiplied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number by which a multiplicand is multiplied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"But the seed is in itself, only as the divine Mind 508:3 is All and reproduces all - as Mind is the multiplier, and Mind's infinite idea, man and the universe, is the product."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number by which a multiplicand is multiplied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number by which a multiplicand is multiplied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"But the seed is in itself, only as the divine Mind 508:3 is All and reproduces all - as Mind is the multiplier, and Mind's infinite idea, man and the universe, is the product."*

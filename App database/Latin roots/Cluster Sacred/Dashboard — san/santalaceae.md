@@ -5,13 +5,6 @@ status: unread
 ---
 # santalaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santalaceae designates chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, santalaceae designates chiefly tropical herbs or shrubs or trees bearing nuts or one-seeded fruit."*

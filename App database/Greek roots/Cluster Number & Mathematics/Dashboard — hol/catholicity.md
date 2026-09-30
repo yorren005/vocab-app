@@ -5,13 +5,6 @@ status: unread
 ---
 # catholicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices of a catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being universal; existing everywhere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Utterson; for he was undemonstrative at the best, and even his friendship seemed to be founded in a similar catholicity of good-nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices of a catholic church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being universal; existing everywhere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Utterson; for he was undemonstrative at the best, and even his friendship seemed to be founded in a similar catholicity of good-nature."*

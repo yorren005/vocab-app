@@ -5,14 +5,6 @@ status: unread
 ---
 # anarchical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without law or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without law or control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The name of Kansas was for some years synonymous with all that is lawless and anarchical."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I am not ignorant that those opposed to the doctrine have always, now and formerly, regarded it in a very different light, as anarchical and revolutionary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without law or control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without law or control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The name of Kansas was for some years synonymous with all that is lawless and anarchical."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I am not ignorant that those opposed to the doctrine have always, now and formerly, regarded it in a very different light, as anarchical and revolutionary."*

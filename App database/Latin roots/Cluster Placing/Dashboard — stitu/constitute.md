@@ -5,15 +5,6 @@ status: unread
 ---
 # constitute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form or compose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create and charge with a task or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boiled beef and greens constitute the day’s variety on the former repast of boiled pork and greens, and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My wife and a lodger constitute my family."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did at one time mean,” said Miss Flite, echoing the sigh, “to nominate, constitute, and appoint poor Gridley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form or compose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create and charge with a task or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boiled beef and greens constitute the day’s variety on the former repast of boiled pork and greens, and Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My wife and a lodger constitute my family."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I did at one time mean,” said Miss Flite, echoing the sigh, “to nominate, constitute, and appoint poor Gridley."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # adulterously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adulterous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adulterous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"From outrage (matrimony) to outrage (adultery) there arose nought but outrage (copulation) yet the matrimonial violator of the matrimonially violated had not been outraged by the adulterous violator of the adulterously violated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adulterous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adulterous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"From outrage (matrimony) to outrage (adultery) there arose nought but outrage (copulation) yet the matrimonial violator of the matrimonially violated had not been outraged by the adulterous violator of the adulterously violated."*

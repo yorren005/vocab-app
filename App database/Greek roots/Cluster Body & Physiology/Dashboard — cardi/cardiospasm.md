@@ -5,13 +5,6 @@ status: unread
 ---
 # cardiospasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: achalasia of the cardia (part of the esophagus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: achalasia of the cardia (part of the esophagus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiospasm designates achalasia of the cardia (part of the esophagus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: achalasia of the cardia (part of the esophagus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: achalasia of the cardia (part of the esophagus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiospasm designates achalasia of the cardia (part of the esophagus)."*

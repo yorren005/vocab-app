@@ -5,15 +5,6 @@ status: unread
 ---
 # superintendence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the active superintendence of this young person, Judy Smallweed appears to attain a perfectly geological age and to date from the remotest periods."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dairy superintendence shall be done by a man—I can afford it well—you shall never have so much as to look out of doors at haymaking time, or to think of weather in the harvest."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy often acknowledged himself to be under the greatest obligations to my father’s active superintendence; and when, immediately before my father’s death, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the active superintendence of this young person, Judy Smallweed appears to attain a perfectly geological age and to date from the remotest periods."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dairy superintendence shall be done by a man—I can afford it well—you shall never have so much as to look out of doors at haymaking time, or to think of weather in the harvest."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy often acknowledged himself to be under the greatest obligations to my father’s active superintendence; and when, immediately before my father’s death, Mr."*

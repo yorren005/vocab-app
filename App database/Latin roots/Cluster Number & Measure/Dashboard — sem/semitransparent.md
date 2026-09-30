@@ -5,13 +5,6 @@ status: unread
 ---
 # semitransparent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowing light to pass through diffusely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allowing light to pass through diffusely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"After a lapse of four minutes the glimmer of his candle was discernible through the semitransparent semicircular glass fanlight over the halldoor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowing light to pass through diffusely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allowing light to pass through diffusely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"After a lapse of four minutes the glimmer of his candle was discernible through the semitransparent semicircular glass fanlight over the halldoor."*

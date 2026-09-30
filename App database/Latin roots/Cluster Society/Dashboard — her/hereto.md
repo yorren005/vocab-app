@@ -5,15 +5,6 @@ status: unread
 ---
 # hereto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To this writing or document.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To this writing or document.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which the rather We shall be blest to do if he remember A kinder value of the people than He hath hereto prized them at."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE SEVEN We announce the formation of an international apparatus, with representation from all Governments, to assemble within three Solar Standard months from the date affixed hereto."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"Gunnlaug went before him, and told him he had made a song on him; the earl gave a willing ear hereto, and Gunnlaug brought the song, which was a shorter lay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To this writing or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To this writing or document.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which the rather We shall be blest to do if he remember A kinder value of the people than He hath hereto prized them at."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE SEVEN We announce the formation of an international apparatus, with representation from all Governments, to assemble within three Solar Standard months from the date affixed hereto."*
+> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"Gunnlaug went before him, and told him he had made a song on him; the earl gave a willing ear hereto, and Gunnlaug brought the song, which was a shorter lay."*

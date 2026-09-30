@@ -5,13 +5,6 @@ status: unread
 ---
 # plassey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The victory in 1757 by the british under clive over siraj-ud-daula that established british supremacy over bengal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The victory in 1757 by the british under clive over siraj-ud-daula that established british supremacy over bengal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Louis XII. being at his castle of Plassey, near Tours, went one evening into the kitchen, where he found a boy turning the spit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The victory in 1757 by the british under clive over siraj-ud-daula that established british supremacy over bengal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The victory in 1757 by the british under clive over siraj-ud-daula that established british supremacy over bengal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Louis XII. being at his castle of Plassey, near Tours, went one evening into the kitchen, where he found a boy turning the spit."*

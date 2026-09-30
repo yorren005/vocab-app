@@ -5,15 +5,6 @@ status: unread
 ---
 # classify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange or order by classes or categories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare unavailable, as for security reasons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We may classify the records of the Christian exploration roughly in three groups."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And herein we find the trail by which we would classify him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yet we have seen that by his baleen it is impossible correctly to classify the Greenland whale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange or order by classes or categories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare unavailable, as for security reasons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We may classify the records of the Christian exploration roughly in three groups."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And herein we find the trail by which we would classify him."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yet we have seen that by his baleen it is impossible correctly to classify the Greenland whale."*

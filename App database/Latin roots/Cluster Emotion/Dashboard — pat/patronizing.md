@@ -5,15 +5,6 @@ status: unread
 ---
 # patronizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Well, then,” said Joe, “It’s more than twenty pound.” That abject hypocrite, Pumblechook, nodded again, and said, with a patronizing laugh, “It’s more than that, Mum."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There’s your true Ashantee, gentlemen; there howl your pagans; where you ever find them, next door to you; under the long-flung shadow, and the snug patronizing lee of churches."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The old Admiral stopped and, in a kindly patronizing way, pointed out the weak and absurd folly of his move and asked him to begin again with some one of the safe openings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Well, then,” said Joe, “It’s more than twenty pound.” That abject hypocrite, Pumblechook, nodded again, and said, with a patronizing laugh, “It’s more than that, Mum."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There’s your true Ashantee, gentlemen; there howl your pagans; where you ever find them, next door to you; under the long-flung shadow, and the snug patronizing lee of churches."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The old Admiral stopped and, in a kindly patronizing way, pointed out the weak and absurd folly of his move and asked him to begin again with some one of the safe openings."*

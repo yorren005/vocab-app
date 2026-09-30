@@ -5,13 +5,6 @@ status: unread
 ---
 # arthrography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrography designates roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrography designates roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram."*

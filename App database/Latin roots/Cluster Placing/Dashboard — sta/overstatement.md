@@ -5,13 +5,6 @@ status: unread
 ---
 # overstatement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making to seem more important than it really is.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making to seem more important than it really is.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overstatement designates making to seem more important than it really is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making to seem more important than it really is.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making to seem more important than it really is.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overstatement designates making to seem more important than it really is."*

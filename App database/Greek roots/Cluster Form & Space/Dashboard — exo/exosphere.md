@@ -5,13 +5,6 @@ status: unread
 ---
 # exosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exosphere designates the outer fringe region of the atmosphere of the earth or a celestial body (such as a planet)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exosphere designates the outer fringe region of the atmosphere of the earth or a celestial body (such as a planet)."*

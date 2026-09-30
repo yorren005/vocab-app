@@ -5,13 +5,6 @@ status: unread
 ---
 # illegality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlawfulness by virtue of violating some legal statute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlawfulness by virtue of violating some legal statute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various notables - Materia Medica, Anatomy, Physiology, Scho- lastic Theology, and Jurisprudence - rose to the ques- 437:24 tion of expelling Christian Science from the bar, for such high-handed illegality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlawfulness by virtue of violating some legal statute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlawfulness by virtue of violating some legal statute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various notables - Materia Medica, Anatomy, Physiology, Scho- lastic Theology, and Jurisprudence - rose to the ques- 437:24 tion of expelling Christian Science from the bar, for such high-handed illegality."*

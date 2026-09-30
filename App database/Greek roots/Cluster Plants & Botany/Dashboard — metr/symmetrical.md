@@ -5,15 +5,6 @@ status: unread
 ---
 # symmetrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similarity in size, shape, and relative position of corresponding parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting equivalence or correspondence among constituents of an entity or between different entities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And we like ’em all the better for it, don’t we?” Mercury, with his hands in the pockets of his bright peach-blossom small-clothes, stretches his symmetrical silk legs with the air of a man of gallantry and can’t deny it."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When I had no more ticks to make, I folded all my bills up uniformly, docketed each on the back, and tied the whole into a symmetrical bundle."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Soothed by my exertions, my method, and Herbert’s compliments, I would sit with his symmetrical bundle and my own on the table before me among the stationery, and feel like a Bank of some sort, rather than a private individual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similarity in size, shape, and relative position of corresponding parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting equivalence or correspondence among constituents of an entity or between different entities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And we like ’em all the better for it, don’t we?” Mercury, with his hands in the pockets of his bright peach-blossom small-clothes, stretches his symmetrical silk legs with the air of a man of gallantry and can’t deny it."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"When I had no more ticks to make, I folded all my bills up uniformly, docketed each on the back, and tied the whole into a symmetrical bundle."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Soothed by my exertions, my method, and Herbert’s compliments, I would sit with his symmetrical bundle and my own on the table before me among the stationery, and feel like a Bank of some sort, rather than a private individual."*

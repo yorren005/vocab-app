@@ -5,15 +5,6 @@ status: unread
 ---
 # impulsiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting suddenly on impulse without reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting suddenly on impulse without reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As it was, she distrusted the elderly woman who showed an impulsiveness foreign to her years."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anna Pávlovna Schérer on the contrary, despite her forty years, overflowed with animation and impulsiveness."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Impulsiveness, unconventionality, and girlish irresponsibility were all very delightful, of course--at times; but not now, certainly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting suddenly on impulse without reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting suddenly on impulse without reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As it was, she distrusted the elderly woman who showed an impulsiveness foreign to her years."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anna Pávlovna Schérer on the contrary, despite her forty years, overflowed with animation and impulsiveness."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Impulsiveness, unconventionality, and girlish irresponsibility were all very delightful, of course--at times; but not now, certainly."*

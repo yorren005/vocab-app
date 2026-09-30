@@ -5,14 +5,6 @@ status: unread
 ---
 # correlation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between two or more things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistic representing how closely two variables co-vary; it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"He scanned through his memorized star catalogues, trying to find the correlation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To John, "the bride" and "the Lamb" repre- sented the correlation of divine Principle and spiritual idea, 561:15 God and His Christ, bringing harmony to earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between two or more things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistic representing how closely two variables co-vary; it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"He scanned through his memorized star catalogues, trying to find the correlation."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To John, "the bride" and "the Lamb" repre- sented the correlation of divine Principle and spiritual idea, 561:15 God and His Christ, bringing harmony to earth."*

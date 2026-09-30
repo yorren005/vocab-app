@@ -5,13 +5,6 @@ status: unread
 ---
 # fatso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotund individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rotund individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Say, Fatso, which one of you's the Buick?" Then the light changed, the car spurted away, and left Marlowe cringing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotund individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rotund individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"Say, Fatso, which one of you's the Buick?" Then the light changed, the car spurted away, and left Marlowe cringing."*

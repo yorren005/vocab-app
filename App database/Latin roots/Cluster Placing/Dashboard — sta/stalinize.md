@@ -5,13 +5,6 @@ status: unread
 ---
 # stalinize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transform in accordance with stalin's policies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transform in accordance with stalin's policies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stalinize designates transform in accordance with stalin's policies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transform in accordance with stalin's policies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transform in accordance with stalin's policies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stalinize designates transform in accordance with stalin's policies."*

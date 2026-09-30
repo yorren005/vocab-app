@@ -5,15 +5,6 @@ status: unread
 ---
 # penance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catholic sacrament; repentance and confession and atonement and absolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, madam, for you are more nobly born, Despoiled of your honour in your life, Shall, after three days’ open penance done, Live in your country here in banishment, With Sir John Stanley in the Isle of Man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be there. [_Exit Herald._] My Nell, I take my leave; and, master sheriff, Let not her penance exceed the King’s commission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, your penance done, throw off this sheet, And go we to attire you for our journey."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catholic sacrament; repentance and confession and atonement and absolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, madam, for you are more nobly born, Despoiled of your honour in your life, Shall, after three days’ open penance done, Live in your country here in banishment, With Sir John Stanley in the Isle of Man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be there. [_Exit Herald._] My Nell, I take my leave; and, master sheriff, Let not her penance exceed the King’s commission."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, your penance done, throw off this sheet, And go we to attire you for our journey."*

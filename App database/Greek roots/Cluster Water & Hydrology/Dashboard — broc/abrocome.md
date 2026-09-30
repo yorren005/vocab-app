@@ -5,13 +5,6 @@ status: unread
 ---
 # abrocome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratlike rodent with soft fur and large ears of the andes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratlike rodent with soft fur and large ears of the andes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrocome designates ratlike rodent with soft fur and large ears of the andes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratlike rodent with soft fur and large ears of the andes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratlike rodent with soft fur and large ears of the andes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrocome designates ratlike rodent with soft fur and large ears of the andes."*

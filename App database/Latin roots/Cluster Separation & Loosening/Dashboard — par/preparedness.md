@@ -5,13 +5,6 @@ status: unread
 ---
 # preparedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having been made ready or prepared for use or action (especially military action).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having been made ready or prepared for use or action (especially military action).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the most recent application of science and the mechanical arts to the uses of war has given new significance to a larger policy of industrial preparedness for military purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having been made ready or prepared for use or action (especially military action).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having been made ready or prepared for use or action (especially military action).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the most recent application of science and the mechanical arts to the uses of war has given new significance to a larger policy of industrial preparedness for military purposes."*

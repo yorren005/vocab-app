@@ -5,15 +5,6 @@ status: unread
 ---
 # inoculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a vaccine as a precaution against contracting a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking a vaccine as a precaution against contracting a disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Inoculation of thought The baneful effect of evil associates is less seen than felt."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The inoculation of evil human thoughts ought to 449:21 be understood and guarded against."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Much has been done to elucidate this mystery of inoculation, but much also remains a mystery still."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a vaccine as a precaution against contracting a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking a vaccine as a precaution against contracting a disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Inoculation of thought The baneful effect of evil associates is less seen than felt."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The inoculation of evil human thoughts ought to 449:21 be understood and guarded against."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Much has been done to elucidate this mystery of inoculation, but much also remains a mystery still."*

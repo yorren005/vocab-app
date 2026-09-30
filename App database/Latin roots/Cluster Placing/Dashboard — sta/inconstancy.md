@@ -5,15 +5,6 @@ status: unread
 ---
 # inconstancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfaithfulness by virtue of being unreliable or treacherous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being changeable and variable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How often have I tempted Suffolk’s tongue, The agent of thy foul inconstancy, To sit and witch me, as Ascanius did When he to madding Dido would unfold His father’s acts commenced in burning Troy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O foul revolt of French inconstancy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am betrayed by keeping company With men like you, men of inconstancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfaithfulness by virtue of being unreliable or treacherous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being changeable and variable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How often have I tempted Suffolk’s tongue, The agent of thy foul inconstancy, To sit and witch me, as Ascanius did When he to madding Dido would unfold His father’s acts commenced in burning Troy!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O foul revolt of French inconstancy!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am betrayed by keeping company With men like you, men of inconstancy."*

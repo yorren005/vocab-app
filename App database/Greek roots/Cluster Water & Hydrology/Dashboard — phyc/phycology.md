@@ -5,13 +5,6 @@ status: unread
 ---
 # phycology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or science of algae —called also algology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or science of algae —called also algology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycology designates the study or science of algae —called also algology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or science of algae —called also algology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or science of algae —called also algology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycology designates the study or science of algae —called also algology."*

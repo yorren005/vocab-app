@@ -5,13 +5,6 @@ status: unread
 ---
 # traumatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychologically or emotionally stressful in a way that can lead to serious mental and emotional problems; broadly : causing distress or anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, being, or caused by a sudden, severe, often life-threatening injury to the body; also : involving or causing tissue damage or physical stress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Ironically, 'suicide statistics' do not examine the impact of a suicide on the victim's family and friends, nor do they note the traumatic and often permanent effects of the failed attempt on the victim."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychologically or emotionally stressful in a way that can lead to serious mental and emotional problems; broadly : causing distress or anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, being, or caused by a sudden, severe, often life-threatening injury to the body; also : involving or causing tissue damage or physical stress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Ironically, 'suicide statistics' do not examine the impact of a suicide on the victim's family and friends, nor do they note the traumatic and often permanent effects of the failed attempt on the victim."*

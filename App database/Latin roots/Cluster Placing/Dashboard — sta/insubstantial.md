@@ -5,15 +5,6 @@ status: unread
 ---
 # insubstantial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking material form or substance; unreal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in nutritive value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In doing so he caught sight of his reflected features, wan in expression, and insubstantial in form."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He held out his arms again but they closed on the empty firelight: she had gone dancing off, the most fugitive, the most insubstantial of mistresses, nothing left of her to him but the memory of that moth's wing touch."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In doing so he caught sight of his reflected features, wan in expression, and insubstantial in form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking material form or substance; unreal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in nutritive value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In doing so he caught sight of his reflected features, wan in expression, and insubstantial in form."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He held out his arms again but they closed on the empty firelight: she had gone dancing off, the most fugitive, the most insubstantial of mistresses, nothing left of her to him but the memory of that moth's wing touch."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In doing so he caught sight of his reflected features, wan in expression, and insubstantial in form."*

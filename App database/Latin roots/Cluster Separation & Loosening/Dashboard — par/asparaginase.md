@@ -5,13 +5,6 @@ status: unread
 ---
 # asparaginase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antineoplastic drug (trade name elspar) sometimes used to treat lymphoblastic leukemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antineoplastic drug (trade name elspar) sometimes used to treat lymphoblastic leukemia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asparaginase designates antineoplastic drug (trade name elspar) sometimes used to treat lymphoblastic leukemia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antineoplastic drug (trade name elspar) sometimes used to treat lymphoblastic leukemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antineoplastic drug (trade name elspar) sometimes used to treat lymphoblastic leukemia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asparaginase designates antineoplastic drug (trade name elspar) sometimes used to treat lymphoblastic leukemia."*

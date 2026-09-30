@@ -5,15 +5,6 @@ status: unread
 ---
 # avian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of birds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Perhaps sir can inform inquirer, in such case, what is curious avian object?" he said, pointing upward."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It seemed to be inspecting them as a smaller avian might inspect a bug crawling across a road."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Too bad; I liked that little sprout." "I thank gracious lady for kindly expressed sentiment, but oversize avians have not yet removed me," said a voice and Gloria looked down to see Yoshio bowing at her side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of birds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Perhaps sir can inform inquirer, in such case, what is curious avian object?" he said, pointing upward."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It seemed to be inspecting them as a smaller avian might inspect a bug crawling across a road."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Too bad; I liked that little sprout." "I thank gracious lady for kindly expressed sentiment, but oversize avians have not yet removed me," said a voice and Gloria looked down to see Yoshio bowing at her side."*

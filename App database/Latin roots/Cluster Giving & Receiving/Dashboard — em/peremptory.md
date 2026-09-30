@@ -5,15 +5,6 @@ status: unread
 ---
 # peremptory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensively self-assured or given to exercising usually unwarranted power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not allowing contradiction or refusal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak briefly then, For we are peremptory to dispatch This viperous traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worcester, get thee gone, for I do see Danger and disobedience in thine eye: O, sir, your presence is too bold and peremptory, And majesty might never yet endure The moody frontier of a servant brow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pleaseth your Grace To appoint some of your council presently To sit with us once more, with better heed To re-survey them, we will suddenly Pass our accept and peremptory answer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensively self-assured or given to exercising usually unwarranted power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not allowing contradiction or refusal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak briefly then, For we are peremptory to dispatch This viperous traitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worcester, get thee gone, for I do see Danger and disobedience in thine eye: O, sir, your presence is too bold and peremptory, And majesty might never yet endure The moody frontier of a servant brow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pleaseth your Grace To appoint some of your council presently To sit with us once more, with better heed To re-survey them, we will suddenly Pass our accept and peremptory answer."*

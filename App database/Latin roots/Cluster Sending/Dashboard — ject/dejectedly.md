@@ -5,15 +5,6 @@ status: unread
 ---
 # dejectedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dejected manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dejected manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe offered no answer, poor fellow, but stood feeling his whisker and looking dejectedly at me, as if he thought it really might have been a better speculation."*
-> - 📜 **Effie Afton (*Eventide*):** *"Stanhope's hand, and turning dejectedly away."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am fond of reading aloud; I believe I do it pretty well." "I don't," she said dejectedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dejected manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dejected manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe offered no answer, poor fellow, but stood feeling his whisker and looking dejectedly at me, as if he thought it really might have been a better speculation."*
+> - 📜 **Effie Afton (*Eventide*):** *"Stanhope's hand, and turning dejectedly away."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am fond of reading aloud; I believe I do it pretty well." "I don't," she said dejectedly."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cylindroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to roll.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to roll.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindroid designates adjective & noun*) resembling, having the physical form of, or akin to roll."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to roll.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to roll.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindroid designates adjective & noun*) resembling, having the physical form of, or akin to roll."*

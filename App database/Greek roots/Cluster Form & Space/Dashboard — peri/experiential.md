@@ -5,13 +5,6 @@ status: unread
 ---
 # experiential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from experience or the experience of existence; - benjamin farrington; - john dewey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"I had, both directly and by implication, combated that form of the experiential theory of human knowledge which characterizes Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from experience or the experience of existence; - benjamin farrington; - john dewey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"I had, both directly and by implication, combated that form of the experiential theory of human knowledge which characterizes Mr."*

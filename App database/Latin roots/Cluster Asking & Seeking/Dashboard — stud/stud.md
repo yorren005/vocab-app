@@ -5,15 +5,6 @@ status: unread
 ---
 # stud
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is virile and sexually active.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornament consisting of a circular rounded protuberance (as on a vault or shield or belt).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This sparkling sally is to the effect that although he always knew she was the best-groomed woman in the stud, he had no idea she was a bolter."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"There were stud-horses of Thorstein, four of them together, all red of hue."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"He said he was in no need of horses, as he was going away from the country; and so they ride to other stud-horses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is virile and sexually active.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornament consisting of a circular rounded protuberance (as on a vault or shield or belt).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This sparkling sally is to the effect that although he always knew she was the best-groomed woman in the stud, he had no idea she was a bolter."*
+> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"There were stud-horses of Thorstein, four of them together, all red of hue."*
+> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"He said he was in no need of horses, as he was going away from the country; and so they ride to other stud-horses."*

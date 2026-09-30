@@ -5,13 +5,6 @@ status: unread
 ---
 # placation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of placating and overcoming distrust and animosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of placating and overcoming distrust and animosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of placating and overcoming distrust and animosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of placating and overcoming distrust and animosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*

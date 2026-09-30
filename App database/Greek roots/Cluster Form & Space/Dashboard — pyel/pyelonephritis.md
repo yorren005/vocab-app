@@ -5,13 +5,6 @@ status: unread
 ---
 # pyelonephritis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyelonephritis designates inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyelonephritis designates inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection."*

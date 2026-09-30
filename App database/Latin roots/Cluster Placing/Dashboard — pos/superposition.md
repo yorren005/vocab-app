@@ -5,13 +5,6 @@ status: unread
 ---
 # superposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the deposition of one geological stratum on another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) the principle that in a series of stratified sedimentary rocks the lowest stratum is the oldest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superposition designates (geology) the deposition of one geological stratum on another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the deposition of one geological stratum on another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) the principle that in a series of stratified sedimentary rocks the lowest stratum is the oldest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superposition designates (geology) the deposition of one geological stratum on another."*

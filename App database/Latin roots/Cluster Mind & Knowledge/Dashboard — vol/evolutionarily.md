@@ -5,13 +5,6 @@ status: unread
 ---
 # evolutionarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an evolutionary way; from an evolutionary point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an evolutionary way; from an evolutionary point of view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evolutionarily designates in an evolutionary way; from an evolutionary point of view."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an evolutionary way; from an evolutionary point of view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an evolutionary way; from an evolutionary point of view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evolutionarily designates in an evolutionary way; from an evolutionary point of view."*

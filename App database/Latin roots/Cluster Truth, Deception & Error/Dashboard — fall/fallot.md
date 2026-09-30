@@ -5,13 +5,6 @@ status: unread
 ---
 # fallot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French physician who described cardiac anomalies including fallot's tetralogy (1850-1911).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physician who described cardiac anomalies including fallot's tetralogy (1850-1911).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallot designates french physician who described cardiac anomalies including fallot's tetralogy (1850-1911)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French physician who described cardiac anomalies including fallot's tetralogy (1850-1911).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physician who described cardiac anomalies including fallot's tetralogy (1850-1911).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallot designates french physician who described cardiac anomalies including fallot's tetralogy (1850-1911)."*

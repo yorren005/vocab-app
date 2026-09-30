@@ -5,13 +5,6 @@ status: unread
 ---
 # alalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the vocal cords resulting in an inability to speak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of the vocal cords resulting in an inability to speak.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alalia designates paralysis of the vocal cords resulting in an inability to speak."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the vocal cords resulting in an inability to speak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of the vocal cords resulting in an inability to speak.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alalia designates paralysis of the vocal cords resulting in an inability to speak."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # articled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bind by a contract; especially for a training period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound by contract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks have been in the habit of fleshing their legal wit upon it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks go a good deal on the water."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge and Carboy are out of town, and the articled clerk has taken out a shooting license and gone down to his father’s, and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bind by a contract; especially for a training period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound by contract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks have been in the habit of fleshing their legal wit upon it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks go a good deal on the water."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge and Carboy are out of town, and the articled clerk has taken out a shooting license and gone down to his father’s, and Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # texture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feel of a surface or a fabric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The essential quality of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What colour, and what texture!” “That’ll do, my good friend!” said Richard, strongly disapproving of his having drawn one of Ada’s tresses through his yellow hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such a precocious little girl, with such a dowdy bonnet on (that, too, of a gauzy texture), who brought her sandalled shoes in an old threadbare velvet reticule."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Aware that a continual dropping will wear a stone, I selected a large stone, fine and tight of texture and, by means of smaller stones, I proceeded to pound it hollow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feel of a surface or a fabric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The essential quality of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"What colour, and what texture!” “That’ll do, my good friend!” said Richard, strongly disapproving of his having drawn one of Ada’s tresses through his yellow hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Such a precocious little girl, with such a dowdy bonnet on (that, too, of a gauzy texture), who brought her sandalled shoes in an old threadbare velvet reticule."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Aware that a continual dropping will wear a stone, I selected a large stone, fine and tight of texture and, by means of smaller stones, I proceeded to pound it hollow."*

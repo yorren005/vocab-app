@@ -5,15 +5,6 @@ status: unread
 ---
 # prison
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A correctional institution where persons are confined while on trial or for punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prisonlike situation; a place of seeming confinement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She does abuse our ears; to prison with her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On, officer, to prison till it come. [_Exeunt Merchant, Angelo, Officer and Antipholus of Ephesus._] DROMIO OF SYRACUSE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that Adam that kept the paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A correctional institution where persons are confined while on trial or for punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prisonlike situation; a place of seeming confinement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She does abuse our ears; to prison with her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On, officer, to prison till it come. [_Exeunt Merchant, Angelo, Officer and Antipholus of Ephesus._] DROMIO OF SYRACUSE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that Adam that kept the paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty."*

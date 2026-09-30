@@ -5,15 +5,6 @@ status: unread
 ---
 # appreciation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Understanding of the nature or meaning or quality or magnitude of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate discrimination (especially of aesthetic values).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sea has no appreciation of great men, but knocks them about like the small fry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did not thank him in words for what he had done—my appreciation of it had risen above all words then—but I hoped he might not be without some understanding of what I felt so strongly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Understanding of the nature or meaning or quality or magnitude of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate discrimination (especially of aesthetic values).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sea has no appreciation of great men, but knocks them about like the small fry."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I did not thank him in words for what he had done—my appreciation of it had risen above all words then—but I hoped he might not be without some understanding of what I felt so strongly."*

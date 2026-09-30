@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrarchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by four persons ruling jointly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by four persons ruling jointly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrarchy designates government by four persons ruling jointly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by four persons ruling jointly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by four persons ruling jointly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrarchy designates government by four persons ruling jointly."*

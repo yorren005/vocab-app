@@ -5,13 +5,6 @@ status: unread
 ---
 # theropod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theropod designates any of a suborder (theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theropod designates any of a suborder (theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # monotone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unchanging intonation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single tone repeated with different words or different rhythms (especially in rendering liturgical texts).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His reading of Scripture had no elocutionary pretensions about it; it was quiet, and to a large extent gone through in a monotone; but two things about it made it very impressive."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She rose slowly without any sign of resentment, and said in her usual muffled monotone, “Brother, I hope the new doctor will be able to do something for you."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ramming his face close, he cursed in a loud, coarse monotone, swinging Drummer in one direction, then another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unchanging intonation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single tone repeated with different words or different rhythms (especially in rendering liturgical texts).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"His reading of Scripture had no elocutionary pretensions about it; it was quiet, and to a large extent gone through in a monotone; but two things about it made it very impressive."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She rose slowly without any sign of resentment, and said in her usual muffled monotone, “Brother, I hope the new doctor will be able to do something for you."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ramming his face close, he cursed in a loud, coarse monotone, swinging Drummer in one direction, then another."*

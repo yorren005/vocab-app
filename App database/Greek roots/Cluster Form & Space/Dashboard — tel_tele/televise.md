@@ -5,13 +5,6 @@ status: unread
 ---
 # televise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcast via television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, televise designates broadcast via television."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcast via television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, televise designates broadcast via television."*

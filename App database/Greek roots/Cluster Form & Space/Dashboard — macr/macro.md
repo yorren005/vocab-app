@@ -5,13 +5,6 @@ status: unread
 ---
 # macro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single computer instruction that results in a series of instructions in machine language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very large in scale or scope or capability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single computer instruction that results in a series of instructions in machine language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very large in scale or scope or capability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # utilized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (from an investment trust to a unit trust).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke was sealing this letter, he felt elated with an influx of dim projects:—a young man capable of putting ideas into form, the “Pioneer” purchased to clear the pathway for a new candidate, documents utilized—who knew what might come of it all?"*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"No; it was a big, ugly, antique, but convenient house, embodying a few features of a building still older, half-replaced and half-utilized, in which I had the fancy of our being almost as lost as a handful of passengers in a great drifting ship."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Chance created the situation; genius utilized it,” says history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (from an investment trust to a unit trust).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke was sealing this letter, he felt elated with an influx of dim projects:—a young man capable of putting ideas into form, the “Pioneer” purchased to clear the pathway for a new candidate, documents utilized—who knew what might come of it all?"*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"No; it was a big, ugly, antique, but convenient house, embodying a few features of a building still older, half-replaced and half-utilized, in which I had the fancy of our being almost as lost as a handful of passengers in a great drifting ship."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Chance created the situation; genius utilized it,” says history."*

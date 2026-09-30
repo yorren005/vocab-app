@@ -5,15 +5,6 @@ status: unread
 ---
 # reviving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to regain consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your statue spouting blood in many pipes, In which so many smiling Romans bath’d, Signifies that from you great Rome shall suck Reviving blood, and that great men shall press For tinctures, stains, relics, and cognizance."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa were reviving memories of long ago, and he listened with great emotion when Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was altogether too much for her, and Bathsheba seemed as one who, facing a reviving wind, finds it blow so strongly that it stops the breath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to regain consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your statue spouting blood in many pipes, In which so many smiling Romans bath’d, Signifies that from you great Rome shall suck Reviving blood, and that great men shall press For tinctures, stains, relics, and cognizance."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa were reviving memories of long ago, and he listened with great emotion when Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was altogether too much for her, and Bathsheba seemed as one who, facing a reviving wind, finds it blow so strongly that it stops the breath."*

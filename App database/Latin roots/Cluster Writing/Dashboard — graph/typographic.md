@@ -5,14 +5,6 @@ status: unread
 ---
 # typographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring or used in typography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or occurring or used in typography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Typographic printing had long before superseded Xylographic printing, that is, printing from a solid block of wood on which type of an entire page were cut individually by hand."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I will design fanciful tailpieces to be woven in with the text; as a frontispiece the drawing that I gave you, retouched by me, and reproduced by the Typographic Etching Company, 23 Farringdon street, London, E."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring or used in typography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or occurring or used in typography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Typographic printing had long before superseded Xylographic printing, that is, printing from a solid block of wood on which type of an entire page were cut individually by hand."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I will design fanciful tailpieces to be woven in with the text; as a frontispiece the drawing that I gave you, retouched by me, and reproduced by the Typographic Etching Company, 23 Farringdon street, London, E."*

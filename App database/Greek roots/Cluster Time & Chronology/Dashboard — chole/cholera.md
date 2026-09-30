@@ -5,15 +5,6 @@ status: unread
 ---
 # cholera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several diseases of humans and domestic animals usually marked by severe gastrointestinal symptoms; especially : an acute diarrheal disease caused by an enterotoxin produced by a comma-shaped gram-negative bacillus (Vibrio cholerae synonym V. comma) when it is present in large numbers in the proximal part of the human small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastrointestinal illness characterized by cramps, diarrhea, and sometimes vomiting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fifteen miles.” “Who’s farm were you upon last?” “My own.” This reply invariably operated like a rumour of cholera."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"There falls to be mentioned first a Memoir of his friend John Clark, who, after a brief and troubled ministerial career, had died of cholera in 1849."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"While the train was making up, the cholera prevailed in camp, for about six weeks, at first with terrible severity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several diseases of humans and domestic animals usually marked by severe gastrointestinal symptoms; especially : an acute diarrheal disease caused by an enterotoxin produced by a comma-shaped gram-negative bacillus (Vibrio cholerae synonym V. comma) when it is present in large numbers in the proximal part of the human small intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastrointestinal illness characterized by cramps, diarrhea, and sometimes vomiting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fifteen miles.” “Who’s farm were you upon last?” “My own.” This reply invariably operated like a rumour of cholera."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"There falls to be mentioned first a Memoir of his friend John Clark, who, after a brief and troubled ministerial career, had died of cholera in 1849."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"While the train was making up, the cholera prevailed in camp, for about six weeks, at first with terrible severity."*

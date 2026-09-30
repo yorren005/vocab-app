@@ -5,13 +5,6 @@ status: unread
 ---
 # cisalpine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On the italian or roman side of the alps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the italian or roman side of the alps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisalpine designates on the italian or roman side of the alps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On the italian or roman side of the alps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the italian or roman side of the alps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisalpine designates on the italian or roman side of the alps."*

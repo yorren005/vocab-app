@@ -5,13 +5,6 @@ status: unread
 ---
 # aberrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose behavior departs substantially from the norm of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly different from an accepted norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose behavior departs substantially from the norm of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly different from an accepted norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # leveler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical who advocates the abolition of social distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical who advocates the abolition of social distinctions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leveler designates a radical who advocates the abolition of social distinctions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical who advocates the abolition of social distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical who advocates the abolition of social distinctions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leveler designates a radical who advocates the abolition of social distinctions."*

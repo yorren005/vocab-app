@@ -5,13 +5,6 @@ status: unread
 ---
 # parasympathomimetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an effect similar to that resulting from stimulation of the parasympathetic nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an effect similar to that resulting from stimulation of the parasympathetic nervous system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathomimetic designates having an effect similar to that resulting from stimulation of the parasympathetic nervous system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an effect similar to that resulting from stimulation of the parasympathetic nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an effect similar to that resulting from stimulation of the parasympathetic nervous system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathomimetic designates having an effect similar to that resulting from stimulation of the parasympathetic nervous system."*

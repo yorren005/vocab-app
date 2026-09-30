@@ -5,15 +5,6 @@ status: unread
 ---
 # reaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a process in which one or more substances are changed into others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea evoked by some experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Public loses interest and undergoes reaction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"More fevered now by a reaction from the first feelings which Oak’s example had raised in her, she paused in the hall, looking at the door of the room wherein Fanny lay."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a process in which one or more substances are changed into others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea evoked by some experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Public loses interest and undergoes reaction."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"More fevered now by a reaction from the first feelings which Oak’s example had raised in her, she paused in the hall, looking at the door of the room wherein Fanny lay."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*

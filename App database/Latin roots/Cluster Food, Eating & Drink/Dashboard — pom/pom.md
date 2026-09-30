@@ -5,15 +5,6 @@ status: unread
 ---
 # pom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for a british person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for a british person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Poor little _nominedomine._ Pom."*
-> - 📜 **James Joyce (*Ulysses*):** *"I mean of course it’s all pom pom pom very much what they call _da capo._ Still you can hear."*
-> - 📜 **James Joyce (*Ulysses*):** *"Then he screwed his features up someway sideways and glared out into the night with an unprepossessing cast of countenance. —Pom! he then shouted once."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for a british person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for a british person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Poor little _nominedomine._ Pom."*
+> - 📜 **James Joyce (*Ulysses*):** *"I mean of course it’s all pom pom pom very much what they call _da capo._ Still you can hear."*
+> - 📜 **James Joyce (*Ulysses*):** *"Then he screwed his features up someway sideways and glared out into the night with an unprepossessing cast of countenance. —Pom! he then shouted once."*

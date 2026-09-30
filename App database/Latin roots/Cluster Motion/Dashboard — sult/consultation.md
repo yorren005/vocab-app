@@ -5,15 +5,6 @@ status: unread
 ---
 # consultation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference (usually with someone important).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference between two or more people to consider a particular question.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes had copies of these papers and had been in consultation with him throughout."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket and his fat forefinger are much in consultation together under existing circumstances."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then we stopped at offices like those we had visited when we began our journey, and I saw him in consultation with others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference (usually with someone important).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference between two or more people to consider a particular question.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes had copies of these papers and had been in consultation with him throughout."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket and his fat forefinger are much in consultation together under existing circumstances."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then we stopped at offices like those we had visited when we began our journey, and I saw him in consultation with others."*

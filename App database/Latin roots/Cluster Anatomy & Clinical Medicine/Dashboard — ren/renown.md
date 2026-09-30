@@ -5,15 +5,6 @@ status: unread
 ---
 # renown
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being widely honored and acclaimed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or quality of being widely honored and acclaimed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er the course, the end is the renown. [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being widely honored and acclaimed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or quality of being widely honored and acclaimed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er the course, the end is the renown. [_Exeunt._] SCENE V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*

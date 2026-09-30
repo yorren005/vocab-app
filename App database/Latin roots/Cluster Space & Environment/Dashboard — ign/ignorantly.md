@@ -5,15 +5,6 @@ status: unread
 ---
 # ignorantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In ignorance; in an ignorant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ignorance; in an ignorant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Here have I been unconsciously toiling, not pleasuring,—aye, and ignorantly smoking to windward all the while; to windward, and with such nervous whiffs, as if, like the dying whale, my final jets were the strongest and fullest of trouble."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And darker yet to tell, the blacksmith himself did ignorantly conduct this burglar into his family’s heart."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Had he blundered on it unwittingly, eaten ignorantly and surely died?..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ignorance; in an ignorant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ignorance; in an ignorant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Here have I been unconsciously toiling, not pleasuring,—aye, and ignorantly smoking to windward all the while; to windward, and with such nervous whiffs, as if, like the dying whale, my final jets were the strongest and fullest of trouble."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And darker yet to tell, the blacksmith himself did ignorantly conduct this burglar into his family’s heart."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Had he blundered on it unwittingly, eaten ignorantly and surely died?..."*

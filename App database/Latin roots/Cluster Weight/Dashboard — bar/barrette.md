@@ -5,13 +5,6 @@ status: unread
 ---
 # barrette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pin for holding women's hair in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pin for holding women's hair in place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrette designates a pin for holding women's hair in place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pin for holding women's hair in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pin for holding women's hair in place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barrette designates a pin for holding women's hair in place."*

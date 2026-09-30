@@ -5,14 +5,6 @@ status: unread
 ---
 # undamaged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not harmed or spoiled; sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not harmed or spoiled; sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even if we get the depot back undamaged, we'll be unable to make up the time lost."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Put the railroad guns on." Murray glanced through the side peep-hole again--one, two, three, four, five--all the American tanks seemed undamaged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not harmed or spoiled; sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not harmed or spoiled; sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even if we get the depot back undamaged, we'll be unable to make up the time lost."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Put the railroad guns on." Murray glanced through the side peep-hole again--one, two, three, four, five--all the American tanks seemed undamaged."*

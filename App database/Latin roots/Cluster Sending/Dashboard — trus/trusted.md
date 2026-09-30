@@ -5,15 +5,6 @@ status: unread
 ---
 # trusted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have confidence or faith in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow without fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you, the worm is not to be trusted but in the keeping of wise people; for indeed there is no goodness in the worm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspicion all our lives shall be stuck full of eyes, For treason is but trusted like the fox, Who, ne’er so tame, so cherish’d and lock’d up, Will have a wild trick of his ancestors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That man i’ th’ world who shall report he has A better wife, let him in naught be trusted, For speaking false in that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have confidence or faith in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow without fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you, the worm is not to be trusted but in the keeping of wise people; for indeed there is no goodness in the worm."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspicion all our lives shall be stuck full of eyes, For treason is but trusted like the fox, Who, ne’er so tame, so cherish’d and lock’d up, Will have a wild trick of his ancestors."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That man i’ th’ world who shall report he has A better wife, let him in naught be trusted, For speaking false in that."*

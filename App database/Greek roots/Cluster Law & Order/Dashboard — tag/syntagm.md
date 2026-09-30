@@ -5,13 +5,6 @@ status: unread
 ---
 # syntagm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A syntactic string of words that forms a part of some larger syntactic unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syntactic string of words that forms a part of some larger syntactic unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntagm designates a syntactic string of words that forms a part of some larger syntactic unit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A syntactic string of words that forms a part of some larger syntactic unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syntactic string of words that forms a part of some larger syntactic unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntagm designates a syntactic string of words that forms a part of some larger syntactic unit."*

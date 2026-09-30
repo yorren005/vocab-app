@@ -5,15 +5,6 @@ status: unread
 ---
 # construct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract or general idea inferred or derived from specific instances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make by combining materials and parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon the undertaker’s stating in the Sol’s bar in the course of the day that he has received orders to construct “a six-footer,” the general solicitude is much relieved, and it is considered that Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The debts of the American states have partly been made necessary to meet deficits in current expenses, but largely of late to erect public buildings, purchase forest lands, improve roads, and construct canals."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My mind is something like the ghost of an ancient, wandering about the world and trying mentally to construct it as it used to be, in spite of ruin and confusing changes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract or general idea inferred or derived from specific instances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make by combining materials and parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Upon the undertaker’s stating in the Sol’s bar in the course of the day that he has received orders to construct “a six-footer,” the general solicitude is much relieved, and it is considered that Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The debts of the American states have partly been made necessary to meet deficits in current expenses, but largely of late to erect public buildings, purchase forest lands, improve roads, and construct canals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"My mind is something like the ghost of an ancient, wandering about the world and trying mentally to construct it as it used to be, in spite of ruin and confusing changes."*

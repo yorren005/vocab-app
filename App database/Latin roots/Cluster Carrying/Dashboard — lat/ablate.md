@@ -5,13 +5,6 @@ status: unread
 ---
 # ablate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away through erosion or vaporization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove an organ or bodily structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablate designates wear away through erosion or vaporization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away through erosion or vaporization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove an organ or bodily structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablate designates wear away through erosion or vaporization."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # urbanised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart urban habits, ways of life, or responsibilities upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more industrial or city-like.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urbanised designates impart urban habits, ways of life, or responsibilities upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart urban habits, ways of life, or responsibilities upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more industrial or city-like.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urbanised designates impart urban habits, ways of life, or responsibilities upon."*

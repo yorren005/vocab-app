@@ -5,13 +5,6 @@ status: unread
 ---
 # halogeton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse annual herb introduced into north america from siberia; dangerous to sheep and cattle on western rangelands because of its high oxalate content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coarse annual herb introduced into north america from siberia; dangerous to sheep and cattle on western rangelands because of its high oxalate content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halogeton designates a coarse annual herb introduced into north america from siberia; dangerous to sheep and cattle on western rangelands because of its high oxalate content."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse annual herb introduced into north america from siberia; dangerous to sheep and cattle on western rangelands because of its high oxalate content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coarse annual herb introduced into north america from siberia; dangerous to sheep and cattle on western rangelands because of its high oxalate content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halogeton designates a coarse annual herb introduced into north america from siberia; dangerous to sheep and cattle on western rangelands because of its high oxalate content."*

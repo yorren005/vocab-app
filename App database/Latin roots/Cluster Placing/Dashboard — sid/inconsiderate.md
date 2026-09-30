@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsiderate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking regard for the rights or feelings of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without proper consideration or reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doth the inconsiderate take _salve_ for _l’envoi_, and the word _l’envoi_ for a _salve?_ MOTH."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I acknowledge that it was inconsiderate."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The barbarous and inconsiderate greed of these fishermen will one day cause the disappearance of the last whale in the ocean."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking regard for the rights or feelings of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without proper consideration or reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doth the inconsiderate take _salve_ for _l’envoi_, and the word _l’envoi_ for a _salve?_ MOTH."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I acknowledge that it was inconsiderate."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The barbarous and inconsiderate greed of these fishermen will one day cause the disappearance of the last whale in the ocean."*

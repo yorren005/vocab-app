@@ -5,15 +5,6 @@ status: unread
 ---
 # deprave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If England is willing to permit the mean jealousies of trade, or the rancorous animosities of politics, to deprave the integrity of her press, and poison the fountain of public opinion, let us beware of her example."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lives that’s not depraved or depraves?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"That was only prophetic of further steps towards the banishment of a 226:3 world-wide slavery, found on higher planes of existence and under more subtle and depraving forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If England is willing to permit the mean jealousies of trade, or the rancorous animosities of politics, to deprave the integrity of her press, and poison the fountain of public opinion, let us beware of her example."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lives that’s not depraved or depraves?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"That was only prophetic of further steps towards the banishment of a 226:3 world-wide slavery, found on higher planes of existence and under more subtle and depraving forms."*

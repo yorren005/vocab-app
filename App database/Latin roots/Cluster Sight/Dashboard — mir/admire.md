@@ -5,15 +5,6 @@ status: unread
 ---
 # admire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel admiration for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with admiration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"England shall repent his folly, see his weakness, and admire our sufferance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well learned is that tongue that well can thee commend, All ignorant that soul that sees thee without wonder; Which is to me some praise, that I thy parts admire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray; Or so devote to Aristotle’s checks As Ovid be an outcast quite abjur’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel admiration for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with admiration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"England shall repent his folly, see his weakness, and admire our sufferance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well learned is that tongue that well can thee commend, All ignorant that soul that sees thee without wonder; Which is to me some praise, that I thy parts admire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray; Or so devote to Aristotle’s checks As Ovid be an outcast quite abjur’d."*

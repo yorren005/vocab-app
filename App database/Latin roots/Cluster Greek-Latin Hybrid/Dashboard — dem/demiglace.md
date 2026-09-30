@@ -5,13 +5,6 @@ status: unread
 ---
 # demiglace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demiglace designates sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demiglace designates sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry."*

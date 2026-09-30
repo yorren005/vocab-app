@@ -5,18 +5,6 @@ status: unread
 ---
 # chine
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The top of a ridge
-> 2. **Nuance / Usage**: The spine of an animal
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chine withstood the storm*), direct object (*cleaved the chine*), or prepositional anchor (*amidst the chine*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jean Ingelow (*A Cottage in a Chine*):** *"The cottage in a chine, we were not to behold it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The top of a ridge
+> 2. **Nuance / Usage**: The spine of an animal
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chine withstood the storm*), direct object (*cleaved the chine*), or prepositional anchor (*amidst the chine*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jean Ingelow (*A Cottage in a Chine*):** *"The cottage in a chine, we were not to behold it."*

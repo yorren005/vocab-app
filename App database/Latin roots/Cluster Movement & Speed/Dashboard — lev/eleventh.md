@@ -5,15 +5,6 @@ status: unread
 ---
 # eleventh
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 11 in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming next after the tenth and just before the twelfth in position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Mortimer of Scotland hath sent word That Douglas and the English rebels met The eleventh of this month at Shrewsbury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I’ll tell you, that self bill is urg’d Which in the eleventh year of the last king’s reign Was like, and had indeed against us passed But that the scambling and unquiet time Did push it out of farther question."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When I got to Casterbridge Barracks, they said, ‘The Eleventh Dragoon-Guards be gone away, and new troops have come.’ The Eleventh left last week for Melchester and onwards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 11 in a countable series of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming next after the tenth and just before the twelfth in position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Mortimer of Scotland hath sent word That Douglas and the English rebels met The eleventh of this month at Shrewsbury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I’ll tell you, that self bill is urg’d Which in the eleventh year of the last king’s reign Was like, and had indeed against us passed But that the scambling and unquiet time Did push it out of farther question."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When I got to Casterbridge Barracks, they said, ‘The Eleventh Dragoon-Guards be gone away, and new troops have come.’ The Eleventh left last week for Melchester and onwards."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # disrespectfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disrespectful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disrespectful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Upon the hint of having spoken disrespectfully or carelessly of the family and the family honours, he was quite indignant."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I would not speak disrespectfully of a brother of yours, Isabella, I am sure; but you know very well that if I could think of one man more than another—_he_ is not the person.” Isabella was silent."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Yet, Fanny, do not imagine I would now speak disrespectfully of Sir Thomas, though I certainly did hate him for many a week."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disrespectful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disrespectful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Upon the hint of having spoken disrespectfully or carelessly of the family and the family honours, he was quite indignant."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"I would not speak disrespectfully of a brother of yours, Isabella, I am sure; but you know very well that if I could think of one man more than another—_he_ is not the person.” Isabella was silent."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Yet, Fanny, do not imagine I would now speak disrespectfully of Sir Thomas, though I certainly did hate him for many a week."*

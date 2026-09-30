@@ -5,15 +5,6 @@ status: unread
 ---
 # refectory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communal dining-hall (usually in a monastery).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A communal dining-hall (usually in a monastery).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The refectory was a great, low-ceiled, gloomy room; on two long tables smoked basins of something hot, which, however, to my dismay, sent forth an odour far from inviting."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Thanks being returned for what we had not got, and a second hymn chanted, the refectory was evacuated for the schoolroom."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A communal dining-hall (usually in a monastery).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A communal dining-hall (usually in a monastery).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The refectory was a great, low-ceiled, gloomy room; on two long tables smoked basins of something hot, which, however, to my dismay, sent forth an odour far from inviting."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Thanks being returned for what we had not got, and a second hymn chanted, the refectory was evacuated for the schoolroom."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*

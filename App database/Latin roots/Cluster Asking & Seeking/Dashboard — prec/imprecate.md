@@ -5,14 +5,6 @@ status: unread
 ---
 # imprecate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter obscenities or profanities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"How often did I imprecate curses on the cause of my being!"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"No language can describe the wretchedness which I felt; and in the bitterness of my soul I imprecated a thousand curses on the perfidious Toby, who had thus abandoned me to destruction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter obscenities or profanities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"How often did I imprecate curses on the cause of my being!"*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"No language can describe the wretchedness which I felt; and in the bitterness of my soul I imprecated a thousand curses on the perfidious Toby, who had thus abandoned me to destruction."*

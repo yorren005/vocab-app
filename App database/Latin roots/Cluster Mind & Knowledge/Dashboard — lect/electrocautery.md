@@ -5,13 +5,6 @@ status: unread
 ---
 # electrocautery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Application of a needle heated by an electric current to destroy tissue (as to remove warts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Application of a needle heated by an electric current to destroy tissue (as to remove warts).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocautery designates application of a needle heated by an electric current to destroy tissue (as to remove warts)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Application of a needle heated by an electric current to destroy tissue (as to remove warts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Application of a needle heated by an electric current to destroy tissue (as to remove warts).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocautery designates application of a needle heated by an electric current to destroy tissue (as to remove warts)."*

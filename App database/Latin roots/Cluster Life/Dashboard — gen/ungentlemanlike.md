@@ -5,15 +5,6 @@ status: unread
 ---
 # ungentlemanlike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not befitting a gentleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not befitting a gentleman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He stopt; and, ungentlemanlike as he looked, Fanny was obliged to introduce him to Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A facetious abbé having engaged a box at the opera-house at Paris, was turned out of his possession by a marshal of France, as remarkable for his ungentlemanlike behaviour as for his cowardice and meanness."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It would be ungentlemanlike (in a manner) to resist it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not befitting a gentleman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not befitting a gentleman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"He stopt; and, ungentlemanlike as he looked, Fanny was obliged to introduce him to Mr."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A facetious abbé having engaged a box at the opera-house at Paris, was turned out of his possession by a marshal of France, as remarkable for his ungentlemanlike behaviour as for his cowardice and meanness."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It would be ungentlemanlike (in a manner) to resist it."*

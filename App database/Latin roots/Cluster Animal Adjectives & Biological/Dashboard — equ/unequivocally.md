@@ -5,15 +5,6 @@ status: unread
 ---
 # unequivocally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unambiguous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unambiguous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And it appears yet more unequivocally, that there is no pretense for the parallel which has been attempted between him and the king of Great Britain."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In that plan the power of nomination is unequivocally vested in the Executive."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"It is my purpose to attempt to weld together the Negroes in the hope of defeating any man that will not unequivocally and openly declare in favor of the ultimate political equality of the Filipinos." "Are you not leaning on a broken reed, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unambiguous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unambiguous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And it appears yet more unequivocally, that there is no pretense for the parallel which has been attempted between him and the king of Great Britain."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In that plan the power of nomination is unequivocally vested in the Executive."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"It is my purpose to attempt to weld together the Negroes in the hope of defeating any man that will not unequivocally and openly declare in favor of the ultimate political equality of the Filipinos." "Are you not leaning on a broken reed, Mr."*

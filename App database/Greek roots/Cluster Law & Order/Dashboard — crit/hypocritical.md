@@ -5,15 +5,6 @@ status: unread
 ---
 # hypocritical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Professing feelings or virtues one does not have.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Professing feelings or virtues one does not have.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She is a selfish, hypocritical woman, and I have no opinion of her.” “No more have I,” said Mr."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But if you will listen to his letter, you may, perhaps, be a little softened by his manner of expressing himself.” “No, that I am sure I shall not: and I think it was very impertinent of him to write to you at all, and very hypocritical."*
-> - 📜 **Effie Afton (*Eventide*):** *"O, don't babble in that hypocritical tone!" said the man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Professing feelings or virtues one does not have.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Professing feelings or virtues one does not have.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She is a selfish, hypocritical woman, and I have no opinion of her.” “No more have I,” said Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But if you will listen to his letter, you may, perhaps, be a little softened by his manner of expressing himself.” “No, that I am sure I shall not: and I think it was very impertinent of him to write to you at all, and very hypocritical."*
+> - 📜 **Effie Afton (*Eventide*):** *"O, don't babble in that hypocritical tone!" said the man."*

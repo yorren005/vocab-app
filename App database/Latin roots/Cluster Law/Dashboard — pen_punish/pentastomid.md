@@ -5,13 +5,6 @@ status: unread
 ---
 # pentastomid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wormlike arthropod having two pairs of hooks at the sides of the mouth; parasitic in nasal sinuses of mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wormlike arthropod having two pairs of hooks at the sides of the mouth; parasitic in nasal sinuses of mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentastomid designates wormlike arthropod having two pairs of hooks at the sides of the mouth; parasitic in nasal sinuses of mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wormlike arthropod having two pairs of hooks at the sides of the mouth; parasitic in nasal sinuses of mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wormlike arthropod having two pairs of hooks at the sides of the mouth; parasitic in nasal sinuses of mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentastomid designates wormlike arthropod having two pairs of hooks at the sides of the mouth; parasitic in nasal sinuses of mammals."*

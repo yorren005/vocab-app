@@ -5,15 +5,6 @@ status: unread
 ---
 # perception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The representation of what is perceived; basic component in the formation of a concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of conceiving something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My guardian, with his sweet temper and his quick perception and his amiable face, made something agreeable even out of the ungenial company."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But Coodle knew the danger, and Doodle knew the danger, and all their followers and hangers-on had the clearest possible perception of the danger."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s son.” “A proposal which, as you correctly informed me at the time, he had the becoming taste and perception,” observes Sir Leicester, “to decline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The representation of what is perceived; basic component in the formation of a concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of conceiving something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My guardian, with his sweet temper and his quick perception and his amiable face, made something agreeable even out of the ungenial company."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But Coodle knew the danger, and Doodle knew the danger, and all their followers and hangers-on had the clearest possible perception of the danger."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s son.” “A proposal which, as you correctly informed me at the time, he had the becoming taste and perception,” observes Sir Leicester, “to decline."*

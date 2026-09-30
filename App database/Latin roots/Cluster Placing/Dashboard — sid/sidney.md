@@ -5,15 +5,6 @@ status: unread
 ---
 # sidney
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English poet (1554-1586).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English poet (1554-1586).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Sir Philip Sidney’s Arcadia, the immortality of which was so fondly predicted by his admirers,* and which, in truth, was full of noble thoughts, delicate images, and graceful turns of language, is now scarcely ever mentioned."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I, pp. 62-66; Art. in ‘Macmillan’s Mag.’, April, 1877, by Sidney Colvin,--‘Giotto’s Gospel of Labor’. 3."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"S., pp. 478-490: on ‘Balaustion’s Adventure’, by Sidney Colvin. 1871."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English poet (1554-1586).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English poet (1554-1586).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Sir Philip Sidney’s Arcadia, the immortality of which was so fondly predicted by his admirers,* and which, in truth, was full of noble thoughts, delicate images, and graceful turns of language, is now scarcely ever mentioned."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I, pp. 62-66; Art. in ‘Macmillan’s Mag.’, April, 1877, by Sidney Colvin,--‘Giotto’s Gospel of Labor’. 3."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"S., pp. 478-490: on ‘Balaustion’s Adventure’, by Sidney Colvin. 1871."*

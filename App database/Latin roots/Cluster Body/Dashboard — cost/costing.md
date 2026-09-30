@@ -5,15 +5,6 @@ status: unread
 ---
 # costing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cost accounting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be priced at.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But her commendation, though costing her some trouble, could by no means satisfy Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any other article” was a phrase delicately implying jewellery, and more particularly some purple amethysts costing thirty pounds, which Lydgate had bought as a bridal present."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Do you know,” he said at last, evidently unable to check the sad current of his thoughts, “that Anatole is costing me forty thousand rubles a year?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cost accounting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be priced at.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But her commendation, though costing her some trouble, could by no means satisfy Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Any other article” was a phrase delicately implying jewellery, and more particularly some purple amethysts costing thirty pounds, which Lydgate had bought as a bridal present."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Do you know,” he said at last, evidently unable to check the sad current of his thoughts, “that Anatole is costing me forty thousand rubles a year?"*

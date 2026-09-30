@@ -5,13 +5,6 @@ status: unread
 ---
 # boniness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme leanness (usually caused by starvation or disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme leanness (usually caused by starvation or disease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boniness designates extreme leanness (usually caused by starvation or disease)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme leanness (usually caused by starvation or disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme leanness (usually caused by starvation or disease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boniness designates extreme leanness (usually caused by starvation or disease)."*

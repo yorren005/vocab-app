@@ -5,15 +5,6 @@ status: unread
 ---
 # misused
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply to a wrong thing or person; apply badly or incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the inherent purpose or function of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have simply misused our sex in your love-prate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have misused the King’s press damnably."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! she misused me past the endurance of a block: an oak but with one green leaf on it would have answered her: my very visor began to assume life and scold with her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply to a wrong thing or person; apply badly or incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the inherent purpose or function of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have simply misused our sex in your love-prate!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have misused the King’s press damnably."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! she misused me past the endurance of a block: an oak but with one green leaf on it would have answered her: my very visor began to assume life and scold with her."*

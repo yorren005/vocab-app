@@ -5,13 +5,6 @@ status: unread
 ---
 # aerenchyma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerenchyma designates modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerenchyma designates modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy."*

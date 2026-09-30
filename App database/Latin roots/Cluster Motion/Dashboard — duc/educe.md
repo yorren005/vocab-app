@@ -5,15 +5,6 @@ status: unread
 ---
 # educe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deduce (a principle) or construe (a meaning).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Develop or evolve from a latent or potential state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Science can now educe threads of such exquisite tenuity that only the feet of the tiniest infant-spiders can ascend them; but up the filmiest insubstantiality Shelley runs with agile ease."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Whether there be theories, they shall pass; whether there be systems, they shall fail; the true epoch-maker in the history of the human soul is the man who educes from this bewildering universe a new and elevating joy."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"In all these passages, it will be observed, the emotion is educed from Nature rather than added to her; she is treated as a mystic text to be deciphered, rather than as a stimulus to roving imagination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deduce (a principle) or construe (a meaning).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Develop or evolve from a latent or potential state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Science can now educe threads of such exquisite tenuity that only the feet of the tiniest infant-spiders can ascend them; but up the filmiest insubstantiality Shelley runs with agile ease."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Whether there be theories, they shall pass; whether there be systems, they shall fail; the true epoch-maker in the history of the human soul is the man who educes from this bewildering universe a new and elevating joy."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"In all these passages, it will be observed, the emotion is educed from Nature rather than added to her; she is treated as a mystic text to be deciphered, rather than as a stimulus to roving imagination."*

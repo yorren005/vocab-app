@@ -5,15 +5,6 @@ status: unread
 ---
 # ungratified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worried and uneasy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worried and uneasy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"During this period, no reasonable wish of an invalid ever went ungratified."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Goodwood’s stiffness--a curiosity for the present ungratified, inasmuch as when he asked her three days later if she had written to London she was obliged to confess she had written in vain."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Jan and I were afraid also, for we knew the terrible nature of the man and of his father before him, and that they came of a family which never forgot a quarrel or left a desire ungratified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worried and uneasy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worried and uneasy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"During this period, no reasonable wish of an invalid ever went ungratified."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Goodwood’s stiffness--a curiosity for the present ungratified, inasmuch as when he asked her three days later if she had written to London she was obliged to confess she had written in vain."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Jan and I were afraid also, for we knew the terrible nature of the man and of his father before him, and that they came of a family which never forgot a quarrel or left a desire ungratified."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perverted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce has warped him out of himself and perverted me in his eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was much disconcerted, but I reflected that if the main point were gained, it mattered little how strangely he perverted everything leading to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce has warped him out of himself and perverted me in his eyes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was much disconcerted, but I reflected that if the main point were gained, it mattered little how strangely he perverted everything leading to it."*

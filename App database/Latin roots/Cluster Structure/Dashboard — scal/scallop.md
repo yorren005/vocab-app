@@ -5,15 +5,6 @@ status: unread
 ---
 # scallop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Stephen’s embarrassed hand moved over the shells heaped in the cold stone mortar: whelks and money cowries and leopard shells: and this, whorled as an emir’s turban, and this, the scallop of saint James."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"By the scallop-shell of Compostella, I will make a martyr of him, if he loiters here to hatch treason among my domestics!” “What a true prophet,” said Ulrica, “is an evil conscience!"*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Some are double-faced satin and some with them little scallops at the edge, and they're pretty colors, too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edible muscle of mollusks having fan-shaped shells; served broiled or poached or in salads or cream sauces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Stephen’s embarrassed hand moved over the shells heaped in the cold stone mortar: whelks and money cowries and leopard shells: and this, whorled as an emir’s turban, and this, the scallop of saint James."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"By the scallop-shell of Compostella, I will make a martyr of him, if he loiters here to hatch treason among my domestics!” “What a true prophet,” said Ulrica, “is an evil conscience!"*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Some are double-faced satin and some with them little scallops at the edge, and they're pretty colors, too."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # amour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually secretive or illicit sexual relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually secretive or illicit sexual relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _O, je vous supplie, pour l’amour de Dieu, me pardonner!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Lament Occasioned by the unfortunate issue of a Friend’s Amour."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] [Footnote 4: Alluding to the newspaper account of a certain Royal sailor’s amour.—R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually secretive or illicit sexual relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually secretive or illicit sexual relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _O, je vous supplie, pour l’amour de Dieu, me pardonner!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Lament Occasioned by the unfortunate issue of a Friend’s Amour."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] [Footnote 4: Alluding to the newspaper account of a certain Royal sailor’s amour.—R."*

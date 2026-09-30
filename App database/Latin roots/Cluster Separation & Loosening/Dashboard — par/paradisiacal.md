@@ -5,15 +5,6 @@ status: unread
 ---
 # paradisiacal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or befitting paradise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or befitting paradise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Given at this our loyal city of Dublin in the year 1 of the Paradisiacal Era."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I read and reread her letter, and some softened feelings stole into my heart and dared to whisper paradisiacal dreams of love and joy; but the apple was already eaten, and the angel’s arm bared to drive me from all hope."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have no paradisiacal evening interviews, stolen from the restless cares and prying inhabitants of this weary world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or befitting paradise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or befitting paradise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Given at this our loyal city of Dublin in the year 1 of the Paradisiacal Era."*
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I read and reread her letter, and some softened feelings stole into my heart and dared to whisper paradisiacal dreams of love and joy; but the apple was already eaten, and the angel’s arm bared to drive me from all hope."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have no paradisiacal evening interviews, stolen from the restless cares and prying inhabitants of this weary world."*

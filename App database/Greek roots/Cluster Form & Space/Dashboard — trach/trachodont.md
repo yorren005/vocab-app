@@ -5,13 +5,6 @@ status: unread
 ---
 # trachodont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large duck-billed dinosaur of the cretaceous period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large duck-billed dinosaur of the cretaceous period.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachodont designates large duck-billed dinosaur of the cretaceous period."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large duck-billed dinosaur of the cretaceous period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large duck-billed dinosaur of the cretaceous period.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachodont designates large duck-billed dinosaur of the cretaceous period."*

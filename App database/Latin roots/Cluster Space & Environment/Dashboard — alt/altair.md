@@ -5,13 +5,6 @@ status: unread
 ---
 # altair
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Double star 15.7 light years from earth; the brightest star in the aquila constellation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Double star 15.7 light years from earth; the brightest star in the aquila constellation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"In a village near where the maiden dwelt there was a young man named Altair, whom the Chinese call the Cow-herd."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Double star 15.7 light years from earth; the brightest star in the aquila constellation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Double star 15.7 light years from earth; the brightest star in the aquila constellation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"In a village near where the maiden dwelt there was a young man named Altair, whom the Chinese call the Cow-herd."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plumber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who installs and repairs pipes and fixtures and appliances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who installs and repairs pipes and fixtures and appliances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I am my own engineer, and my own carpenter, and my own plumber, and my own gardener, and my own Jack of all Trades,” said Wemmick, in acknowledging my compliments."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is an ordinary plumber’s smoke-rocket, fitted with a cap at either end to make it self-lighting."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Father was a plumber in the Tottenham Court Road, and he left a tidy business behind him, which mother carried on with Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who installs and repairs pipes and fixtures and appliances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who installs and repairs pipes and fixtures and appliances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I am my own engineer, and my own carpenter, and my own plumber, and my own gardener, and my own Jack of all Trades,” said Wemmick, in acknowledging my compliments."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is an ordinary plumber’s smoke-rocket, fitted with a cap at either end to make it self-lighting."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Father was a plumber in the Tottenham Court Road, and he left a tidy business behind him, which mother carried on with Mr."*

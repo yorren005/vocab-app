@@ -5,15 +5,6 @@ status: unread
 ---
 # posse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary police force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary police force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But him outlive and die a violent death._ Why, this is just _Aio te, Aeacida, Romanos vincere posse._ Well, to the rest: _Tell me what fate awaits the Duke of Suffolk?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The same persons who tell us in one breath, that the powers of the federal government will be despotic and unlimited, inform us in the next, that it has not authority sufficient even to call out the POSSE COMITATUS."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Accordingly, before Crabshaw could be properly remounted, the peace officer arrived with his posse; and by the corporal was charged with Sir Launcelot and his squire, as two highwaymen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary police force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary police force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But him outlive and die a violent death._ Why, this is just _Aio te, Aeacida, Romanos vincere posse._ Well, to the rest: _Tell me what fate awaits the Duke of Suffolk?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The same persons who tell us in one breath, that the powers of the federal government will be despotic and unlimited, inform us in the next, that it has not authority sufficient even to call out the POSSE COMITATUS."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Accordingly, before Crabshaw could be properly remounted, the peace officer arrived with his posse; and by the corporal was charged with Sir Launcelot and his squire, as two highwaymen."*

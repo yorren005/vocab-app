@@ -5,13 +5,6 @@ status: unread
 ---
 # phytotoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance produced by plants that is similar in its properties to extracellular bacterial toxin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance produced by plants that is similar in its properties to extracellular bacterial toxin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytotoxin designates any substance produced by plants that is similar in its properties to extracellular bacterial toxin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance produced by plants that is similar in its properties to extracellular bacterial toxin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance produced by plants that is similar in its properties to extracellular bacterial toxin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytotoxin designates any substance produced by plants that is similar in its properties to extracellular bacterial toxin."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypertext
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertext designates machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertext designates machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson."*

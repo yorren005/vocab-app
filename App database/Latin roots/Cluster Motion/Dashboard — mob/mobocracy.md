@@ -5,13 +5,6 @@ status: unread
 ---
 # mobocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political system in which a mob is the source of control; government by the masses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system in which a mob is the source of control; government by the masses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobocracy designates a political system in which a mob is the source of control; government by the masses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political system in which a mob is the source of control; government by the masses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system in which a mob is the source of control; government by the masses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobocracy designates a political system in which a mob is the source of control; government by the masses."*

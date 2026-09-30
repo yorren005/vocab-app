@@ -5,15 +5,6 @@ status: unread
 ---
 # appreciable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enough to be estimated or measured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enough to be estimated or measured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This well-favoured and comely girl soon made appreciable inroads upon the emotional constitution of young Farmer Oak."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Society is hopelessly snobbish, and this fact of your extraction may make an appreciable difference to its acceptance of you as my wife, after I have made you the well-read woman that I mean to make you."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The banker’s speech was fluent, but it was also copious, and he used up an appreciable amount of time in brief meditative pauses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enough to be estimated or measured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enough to be estimated or measured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This well-favoured and comely girl soon made appreciable inroads upon the emotional constitution of young Farmer Oak."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Society is hopelessly snobbish, and this fact of your extraction may make an appreciable difference to its acceptance of you as my wife, after I have made you the well-read woman that I mean to make you."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The banker’s speech was fluent, but it was also copious, and he used up an appreciable amount of time in brief meditative pauses."*

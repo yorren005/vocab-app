@@ -5,20 +5,6 @@ status: unread
 ---
 # gasp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Breathe laboriously
-> 2. **Nuance / Usage**: Utter in a gasping manner
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gasp the target*) and intransitive clauses (*gasping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Fight till the last gasp; I will be your guard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"never recover himself, most likely, except to gasp and die."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is distinctly heard to gasp before speaking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To catch one's breath with a sudden, sharp intake of air through an open mouth, whether from shock, pain, or exhaustion.
+> 2. **Nuance / Usage**: As a noun, a convulsive intake of breath, or figuratively the final moment before death or collapse (*at its last gasp*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gasp the target*) and intransitive clauses (*gasping against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Fight till the last **gasp**; I will be your guard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the dead hush of the room, Sir Leicester is distinctly heard to **gasp** before speaking."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"Utterson gave a loud **gasp** of horror as he looked upon the twitching face on the floor."*

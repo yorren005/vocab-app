@@ -5,13 +5,6 @@ status: unread
 ---
 # annualry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The third finger (especially of the left hand).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The third finger (especially of the left hand).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annualry designates the third finger (especially of the left hand)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third finger (especially of the left hand).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The third finger (especially of the left hand).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annualry designates the third finger (especially of the left hand)."*

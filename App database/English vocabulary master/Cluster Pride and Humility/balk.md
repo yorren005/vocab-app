@@ -5,20 +5,6 @@ status: unread
 ---
 # balk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Commit a balk
-> 2. **Nuance / Usage**: Refuse abruptly —used with at
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to balk the target*) and intransitive clauses (*balking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Derek Hart (*Tidal Trap*):** *"Carla balked for a moment, but when the badge and identification was produced, she acquiesced immediately. "Of course, Director, what can I do for you?"*
-> - 📜 **Sharon Salvato (*Briarcliff Manor: A Novel*):** *"Her horse balked at the jump and threw her," said Michael."*
-> - 📜 **Temple Grandin (*Thinking in Pictures*):** *"I’ve seen cattle that were handled in two identical facilities easily walk through one and balk in the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Commit a balk
+> 2. **Nuance / Usage**: Refuse abruptly —used with at
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to balk the target*) and intransitive clauses (*balking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Derek Hart (*Tidal Trap*):** *"Carla balked for a moment, but when the badge and identification was produced, she acquiesced immediately. "Of course, Director, what can I do for you?"*
+> - 📜 **Sharon Salvato (*Briarcliff Manor: A Novel*):** *"Her horse balked at the jump and threw her," said Michael."*
+> - 📜 **Temple Grandin (*Thinking in Pictures*):** *"I’ve seen cattle that were handled in two identical facilities easily walk through one and balk in the other."*

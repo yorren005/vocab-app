@@ -5,13 +5,6 @@ status: unread
 ---
 # concordance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement of opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The weight of the insect was very remarkable, and, taking all things into consideration, I could hardly blame Jupiter for his opinion respecting it; but what to make of Legrand’s concordance with that opinion, I could not, for the life of me, tell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement of opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The weight of the insect was very remarkable, and, taking all things into consideration, I could hardly blame Jupiter for his opinion respecting it; but what to make of Legrand’s concordance with that opinion, I could not, for the life of me, tell."*

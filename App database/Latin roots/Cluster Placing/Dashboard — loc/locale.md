@@ -5,14 +5,6 @@ status: unread
 ---
 # locale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scene of any event or action (especially the place of a meeting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scene of any event or action (especially the place of a meeting).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"But this locale is also disputed, particularly by one who is resident near the spot, and fully conversant with whatever has descended to our own times respecting the original plan of the Castle."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Living History For many of us, our lives are keyed to significant events, transitions, locales, or something that has importance to ourselves or to our families."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scene of any event or action (especially the place of a meeting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scene of any event or action (especially the place of a meeting).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"But this locale is also disputed, particularly by one who is resident near the spot, and fully conversant with whatever has descended to our own times respecting the original plan of the Castle."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Living History For many of us, our lives are keyed to significant events, transitions, locales, or something that has importance to ourselves or to our families."*

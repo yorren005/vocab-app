@@ -5,13 +5,6 @@ status: unread
 ---
 # granulose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or covered with particles resembling meal in texture or consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or covered with particles resembling meal in texture or consistency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granulose designates composed of or covered with particles resembling meal in texture or consistency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or covered with particles resembling meal in texture or consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or covered with particles resembling meal in texture or consistency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granulose designates composed of or covered with particles resembling meal in texture or consistency."*

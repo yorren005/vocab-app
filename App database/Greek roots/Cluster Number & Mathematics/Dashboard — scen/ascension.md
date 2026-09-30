@@ -5,15 +5,6 @@ status: unread
 ---
 # ascension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) celebration of the ascension of christ into heaven; observed on the 40th day after easter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement upward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His ascension is More sweet than our blest fields."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On this Ascension-day, remember well, Upon your oath of service to the pope, Go I to make the French lay down their arms. [_Exit._] KING JOHN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did not the prophet Say that before Ascension-day at noon My crown I should give off?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) celebration of the ascension of christ into heaven; observed on the 40th day after easter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement upward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His ascension is More sweet than our blest fields."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On this Ascension-day, remember well, Upon your oath of service to the pope, Go I to make the French lay down their arms. [_Exit._] KING JOHN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did not the prophet Say that before Ascension-day at noon My crown I should give off?"*

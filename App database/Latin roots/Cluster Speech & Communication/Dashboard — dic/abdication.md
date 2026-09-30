@@ -5,13 +5,6 @@ status: unread
 ---
 # abdication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal resignation and renunciation of powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abdicating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The abdication at Bayonne of Carlos IV in favor of Napoleon, and the appointment of Joseph Bonaparte as king of Spain, with the consent of ninety-one Spanish nobles, roused the Peninsula into a spontaneous and determined revolt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal resignation and renunciation of powers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abdicating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The abdication at Bayonne of Carlos IV in favor of Napoleon, and the appointment of Joseph Bonaparte as king of Spain, with the consent of ninety-one Spanish nobles, roused the Peninsula into a spontaneous and determined revolt."*

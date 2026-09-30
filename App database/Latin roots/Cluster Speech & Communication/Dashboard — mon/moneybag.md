@@ -5,15 +5,6 @@ status: unread
 ---
 # moneybag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drawstring bag for holding money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawstring bag for holding money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Judge Moneybag will settle this case, I think! * * * * * _16 October._--Mina’s report still the same: lapping waves and rushing water, darkness and favouring winds."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"Galsworthy The Constructive Reasoner POEMS: Amy Lowell Clear, with Light Variable Winds Fool's Moneybags The Crucified Dionysus Alexander S."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Let him go thither, and loll at ease upon his moneybags!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drawstring bag for holding money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawstring bag for holding money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Judge Moneybag will settle this case, I think! * * * * * _16 October._--Mina’s report still the same: lapping waves and rushing water, darkness and favouring winds."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"Galsworthy The Constructive Reasoner POEMS: Amy Lowell Clear, with Light Variable Winds Fool's Moneybags The Crucified Dionysus Alexander S."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Let him go thither, and loll at ease upon his moneybags!"*

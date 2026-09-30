@@ -5,13 +5,6 @@ status: unread
 ---
 # phanerogamae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phanerogamae designates in former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phanerogamae designates in former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # amphibious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining two characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or adapted for both land and water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No one, it was probable, would ever appear to dispute my claim, unless it were the amphibious animals of the ocean."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was not then, but when we had got to the cheese, that our conversation turned upon our rowing feats, and that Drummle was rallied for coming up behind of a night in that slow amphibious way of his."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"After a little show of indecision, which there were none to see but the two or three amphibious creatures belonging to our Temple stairs, we went on board and cast off; Herbert in the bow, I steering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining two characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or adapted for both land and water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No one, it was probable, would ever appear to dispute my claim, unless it were the amphibious animals of the ocean."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was not then, but when we had got to the cheese, that our conversation turned upon our rowing feats, and that Drummle was rallied for coming up behind of a night in that slow amphibious way of his."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"After a little show of indecision, which there were none to see but the two or three amphibious creatures belonging to our Temple stairs, we went on board and cast off; Herbert in the bow, I steering."*

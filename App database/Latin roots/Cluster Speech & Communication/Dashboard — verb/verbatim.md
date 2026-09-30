@@ -5,15 +5,6 @@ status: unread
 ---
 # verbatim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In precisely the same words used by a writer or speaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using exactly the same words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think not, although in writing I preferr’d The manner of thy vile outrageous crimes, That therefore I have forged, or am not able Verbatim to rehearse the method of my pen."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"After reading a long sermon once, or at most twice over, he could repeat it verbatim."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Dyce's 1830 publication is described as a reprint "verbatim et literatim," but it has little claim to be so called."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In precisely the same words used by a writer or speaker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using exactly the same words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think not, although in writing I preferr’d The manner of thy vile outrageous crimes, That therefore I have forged, or am not able Verbatim to rehearse the method of my pen."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"After reading a long sermon once, or at most twice over, he could repeat it verbatim."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Dyce's 1830 publication is described as a reprint "verbatim et literatim," but it has little claim to be so called."*

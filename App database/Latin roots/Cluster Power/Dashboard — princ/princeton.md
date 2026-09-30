@@ -5,15 +5,6 @@ status: unread
 ---
 # princeton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university town in central new jersey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university in new jersey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the Fall of 1858, H----, a student in the Theological Seminary at Princeton, N.J., was in great need of a new pair of boots."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He took the morning train at the Princeton depot, and reached home about eleven o'clock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A university town in central new jersey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university in new jersey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In the Fall of 1858, H----, a student in the Theological Seminary at Princeton, N.J., was in great need of a new pair of boots."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He took the morning train at the Princeton depot, and reached home about eleven o'clock."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # basement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowermost portion of a structure partly or wholly below ground level; often used for storage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ground floor facade or interior in renaissance architecture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was close to the wall, where there is a ledge of stonework round the basement of the tower."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In a dismal basement, A. found a very interesting American family."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The passage was a long one, and seemed to pervade the whole square basement of the Manor House."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowermost portion of a structure partly or wholly below ground level; often used for storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ground floor facade or interior in renaissance architecture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was close to the wall, where there is a ledge of stonework round the basement of the tower."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In a dismal basement, A. found a very interesting American family."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The passage was a long one, and seemed to pervade the whole square basement of the Manor House."*

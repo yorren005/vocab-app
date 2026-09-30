@@ -5,13 +5,6 @@ status: unread
 ---
 # purloo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick stew made of rice and chicken and small game; southern u.s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick stew made of rice and chicken and small game; southern u.s.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purloo designates thick stew made of rice and chicken and small game; southern u.s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick stew made of rice and chicken and small game; southern u.s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick stew made of rice and chicken and small game; southern u.s.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purloo designates thick stew made of rice and chicken and small game; southern u.s."*

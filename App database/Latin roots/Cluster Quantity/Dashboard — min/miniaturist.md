@@ -5,13 +5,6 @@ status: unread
 ---
 # miniaturist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who paints tiny pictures in great detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who paints tiny pictures in great detail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That is probably the work of Vinesse,” said Pierre, mentioning a celebrated miniaturist, and he leaned over the table to take the snuffbox while trying to hear what was being said at the other table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who paints tiny pictures in great detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who paints tiny pictures in great detail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That is probably the work of Vinesse,” said Pierre, mentioning a celebrated miniaturist, and he leaned over the table to take the snuffbox while trying to hear what was being said at the other table."*

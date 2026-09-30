@@ -5,15 +5,6 @@ status: unread
 ---
 # dubliner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of dublin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident of dublin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And, what though murdered and betrayed, bewept by all frail tender hearts for, Dane or Dubliner, sorrow for the dead is the only husband from whom they refuse to be divorced."*
-> - 📜 **James Joyce (*Ulysses*):** *"The redcoat ducked but the Dubliner lifted him with a left hook, the body punch being a fine one."*
-> - 📜 **James Joyce (*Ulysses*):** *"DEAR DIRTY DUBLIN Dubliners. —Two Dublin vestals, Stephen said, elderly and pious, have lived fifty and fiftythree years in Fumbally’s lane. —Where is that? the professor asked. —Off Blackpitts, Stephen said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of dublin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident of dublin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"And, what though murdered and betrayed, bewept by all frail tender hearts for, Dane or Dubliner, sorrow for the dead is the only husband from whom they refuse to be divorced."*
+> - 📜 **James Joyce (*Ulysses*):** *"The redcoat ducked but the Dubliner lifted him with a left hook, the body punch being a fine one."*
+> - 📜 **James Joyce (*Ulysses*):** *"DEAR DIRTY DUBLIN Dubliners. —Two Dublin vestals, Stephen said, elderly and pious, have lived fifty and fiftythree years in Fumbally’s lane. —Where is that? the professor asked. —Off Blackpitts, Stephen said."*

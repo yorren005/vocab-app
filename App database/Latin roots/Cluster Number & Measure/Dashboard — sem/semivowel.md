@@ -5,13 +5,6 @@ status: unread
 ---
 # semivowel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vowellike sound that serves as a consonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vowellike sound that serves as a consonant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semivowel designates a vowellike sound that serves as a consonant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vowellike sound that serves as a consonant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vowellike sound that serves as a consonant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semivowel designates a vowellike sound that serves as a consonant."*

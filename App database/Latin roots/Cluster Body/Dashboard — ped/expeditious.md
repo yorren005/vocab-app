@@ -5,15 +5,6 @@ status: unread
 ---
 # expeditious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by speed and efficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by speed and efficiency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll deliver all; And promise you calm seas, auspicious gales, And sail so expeditious that shall catch Your royal fleet far off. [_Aside to Ariel._] My Ariel, chick, That is thy charge: then to the elements Be free, and fare thou well!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The plan is closely approached in the industrial courts that are now provided in a number of European countries for a cheap and expeditious settlement of small disputes regarding trade matters, arising in the relations between employer and employees."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The merchant, especially in a country of small commercial capital, is often under a necessity of keeping prices down in order to a more expeditious sale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by speed and efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by speed and efficiency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll deliver all; And promise you calm seas, auspicious gales, And sail so expeditious that shall catch Your royal fleet far off. [_Aside to Ariel._] My Ariel, chick, That is thy charge: then to the elements Be free, and fare thou well!"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The plan is closely approached in the industrial courts that are now provided in a number of European countries for a cheap and expeditious settlement of small disputes regarding trade matters, arising in the relations between employer and employees."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The merchant, especially in a country of small commercial capital, is often under a necessity of keeping prices down in order to a more expeditious sale."*

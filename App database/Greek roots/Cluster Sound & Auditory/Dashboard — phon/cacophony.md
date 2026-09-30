@@ -5,13 +5,6 @@ status: unread
 ---
 # cacophony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incongruous or chaotic mixture : a striking combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophony designates harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incongruous or chaotic mixture : a striking combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophony designates harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # resident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician (especially an intern) who lives in a hospital and cares for hospitalized patients under the supervision of the medical staff of the hospital.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this the Lord Talbot, uncle Gloucester, That hath so long been resident in France?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no brother, I am like no brother; And this word “love,” which greybeards call divine, Be resident in men like one another, And not in me."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I have no conception whom you can mean, Shepherd; I remember no gentleman resident at Monkford since the time of old Governor Trent.” “Bless me! how very odd!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician (especially an intern) who lives in a hospital and cares for hospitalized patients under the supervision of the medical staff of the hospital.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this the Lord Talbot, uncle Gloucester, That hath so long been resident in France?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no brother, I am like no brother; And this word “love,” which greybeards call divine, Be resident in men like one another, And not in me."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I have no conception whom you can mean, Shepherd; I remember no gentleman resident at Monkford since the time of old Governor Trent.” “Bless me! how very odd!"*

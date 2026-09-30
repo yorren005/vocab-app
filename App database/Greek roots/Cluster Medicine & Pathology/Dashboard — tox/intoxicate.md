@@ -5,15 +5,6 @@ status: unread
 ---
 # intoxicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To excite or stupefy by alcohol or a drug especially to the point where physical and mental control is markedly diminished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To excite or elate to the point of enthusiasm or frenzy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, on one day of the year the Bhotiyas of Juhar, in the Western Himalayas, take a dog, intoxicate him with spirits and bhang or hemp, and having fed him with sweetmeats, lead him round the village and let him loose."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each clasping the other round the waist they promenaded over the dry bed of fir-needles, thrown into a vague intoxicating atmosphere at the consciousness of being together at last, with no living soul between them; ignoring that there was a corpse."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No,' said he, 'I never drink intoxicating drink, and I ask the Lord Jesus to help me never to touch it.' "I looked at him with surprise, and inquired, 'Are you a Christian?' "'Yes, I trust I am,' he answered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To excite or stupefy by alcohol or a drug especially to the point where physical and mental control is markedly diminished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To excite or elate to the point of enthusiasm or frenzy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, on one day of the year the Bhotiyas of Juhar, in the Western Himalayas, take a dog, intoxicate him with spirits and bhang or hemp, and having fed him with sweetmeats, lead him round the village and let him loose."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each clasping the other round the waist they promenaded over the dry bed of fir-needles, thrown into a vague intoxicating atmosphere at the consciousness of being together at last, with no living soul between them; ignoring that there was a corpse."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"No,' said he, 'I never drink intoxicating drink, and I ask the Lord Jesus to help me never to touch it.' "I looked at him with surprise, and inquired, 'Are you a Christian?' "'Yes, I trust I am,' he answered."*

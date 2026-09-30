@@ -5,15 +5,6 @@ status: unread
 ---
 # clamor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud harsh or strident noise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loud and persistent outcry from many people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Just after dark that day, when one watch had retired below, a clamor was heard in the forecastle; and the two trembling traitors running up, besieged the cabin door, saying they durst not consort with the crew."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"With all their clamor for political upheavals, the "Stuermer und Draenger" never arrived at any serious or practical plan of action."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I forbear to remark upon the additional pretext for clamor against the judiciary, which so considerable an augmentation of its authority would have afforded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud harsh or strident noise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loud and persistent outcry from many people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Just after dark that day, when one watch had retired below, a clamor was heard in the forecastle; and the two trembling traitors running up, besieged the cabin door, saying they durst not consort with the crew."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"With all their clamor for political upheavals, the "Stuermer und Draenger" never arrived at any serious or practical plan of action."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I forbear to remark upon the additional pretext for clamor against the judiciary, which so considerable an augmentation of its authority would have afforded."*

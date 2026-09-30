@@ -5,14 +5,6 @@ status: unread
 ---
 # flatiron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron that was heated by placing it on a stove.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iron that was heated by placing it on a stove.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"It's not more'n a quarter of a mile." While Miss Lida Belle was gone, Mama set Miss Ophelia's ironing board up on the backs of two straight chairs and put two flatirons on the kitchen stove to heat."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Peet's housekeeping: some battered books, and singed holders for flatirons, and the faded little shoulder shawl that I had seen her wear many a day about her bent shoulders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron that was heated by placing it on a stove.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iron that was heated by placing it on a stove.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"It's not more'n a quarter of a mile." While Miss Lida Belle was gone, Mama set Miss Ophelia's ironing board up on the backs of two straight chairs and put two flatirons on the kitchen stove to heat."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Peet's housekeeping: some battered books, and singed holders for flatirons, and the faded little shoulder shawl that I had seen her wear many a day about her bent shoulders."*

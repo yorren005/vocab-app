@@ -5,15 +5,6 @@ status: unread
 ---
 # proscribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command against.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The speaker knows that this beau monde does not proscribe love, provided it be in accordance with the proprieties which IT has determined upon and established. v. 5."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I lament sincerely that unessential differences of opinion should ever have been deemed sufficient to interdict half the society from the rights and the blessings of self-government, to proscribe them as unworthy of every trust."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"All we know is that persons of foreign birth and of Catholic faith are proscribed; and so are all others who don’t proscribe them at the polls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Command against.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command against.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The speaker knows that this beau monde does not proscribe love, provided it be in accordance with the proprieties which IT has determined upon and established. v. 5."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I lament sincerely that unessential differences of opinion should ever have been deemed sufficient to interdict half the society from the rights and the blessings of self-government, to proscribe them as unworthy of every trust."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"All we know is that persons of foreign birth and of Catholic faith are proscribed; and so are all others who don’t proscribe them at the polls."*

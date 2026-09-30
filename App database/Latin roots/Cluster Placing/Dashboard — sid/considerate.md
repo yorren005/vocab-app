@@ -5,15 +5,6 @@ status: unread
 ---
 # considerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing concern for the rights and feelings of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing concern for the rights and feelings of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING RICHARD. [_Aside_.] I will converse with iron-witted fools And unrespective boys; none are for me That look into me with considerate eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did not speculate upon the source from which it came or wonder whose humanity was so considerate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This troubled Prince a good deal, not because he had the least doubt about it, but because he is so considerate of the feelings of old Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing concern for the rights and feelings of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing concern for the rights and feelings of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING RICHARD. [_Aside_.] I will converse with iron-witted fools And unrespective boys; none are for me That look into me with considerate eyes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I did not speculate upon the source from which it came or wonder whose humanity was so considerate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This troubled Prince a good deal, not because he had the least doubt about it, but because he is so considerate of the feelings of old Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # petticoated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing or furnished with a petticoat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing or furnished with a petticoat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"There was a great deal of talk among the neighbors, particularly the petticoated ones, about what they called the witchcraft of Maule’s eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing or furnished with a petticoat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing or furnished with a petticoat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"There was a great deal of talk among the neighbors, particularly the petticoated ones, about what they called the witchcraft of Maule’s eye."*

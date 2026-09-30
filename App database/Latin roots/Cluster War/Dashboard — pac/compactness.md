@@ -5,15 +5,6 @@ status: unread
 ---
 # compactness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of being crowded together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The consistency of a compact solid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The attaining of the necessary compactness, toughness, and strength of the metallic product is aided by the employment of pressure during deposition, as by burnishers, or by very rapid rotation of the depositing surfaces in the solutions."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I think it is a model of compactness."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is formed of rough stones, selected with care, and laid in courses or circles, with much compactness, but without cement of any kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of being crowded together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The consistency of a compact solid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The attaining of the necessary compactness, toughness, and strength of the metallic product is aided by the employment of pressure during deposition, as by burnishers, or by very rapid rotation of the depositing surfaces in the solutions."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I think it is a model of compactness."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is formed of rough stones, selected with care, and laid in courses or circles, with much compactness, but without cement of any kind."*

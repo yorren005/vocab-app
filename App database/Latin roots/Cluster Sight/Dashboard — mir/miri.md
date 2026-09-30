@@ -5,13 +5,6 @@ status: unread
 ---
 # miri
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Little known kamarupan languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Little known kamarupan languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Miris of Assam prize tiger's flesh as food for men; it gives them strength and courage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Little known kamarupan languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Little known kamarupan languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Miris of Assam prize tiger's flesh as food for men; it gives them strength and courage."*

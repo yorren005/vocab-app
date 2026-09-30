@@ -5,15 +5,6 @@ status: unread
 ---
 # port
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place (seaport or airport) where people and merchandise can enter or leave a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet dark-red dessert wine originally from portugal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the Saint Francis here, beside the port."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A thousand, sir, Early though’t be, have on their riveted trim And at the port expect you. [_Shout."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where souls do couch on flowers, we’ll hand in hand, And with our sprightly port make the ghosts gaze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place (seaport or airport) where people and merchandise can enter or leave a country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet dark-red dessert wine originally from portugal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the Saint Francis here, beside the port."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A thousand, sir, Early though’t be, have on their riveted trim And at the port expect you. [_Shout."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where souls do couch on flowers, we’ll hand in hand, And with our sprightly port make the ghosts gaze."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indisposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certain degree of unwillingness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance some single vantages you took When my indisposition put you back, And that unaptness made your minister Thus to excuse yourself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am subject to—gout”—Sir Leicester was going to say indisposition and would have said it to anybody else, but Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While well, and happy, and properly attended to, she had great good humour and excellent spirits; but any indisposition sunk her completely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certain degree of unwillingness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance some single vantages you took When my indisposition put you back, And that unaptness made your minister Thus to excuse yourself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am subject to—gout”—Sir Leicester was going to say indisposition and would have said it to anybody else, but Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"While well, and happy, and properly attended to, she had great good humour and excellent spirits; but any indisposition sunk her completely."*

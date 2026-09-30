@@ -5,14 +5,6 @@ status: unread
 ---
 # agronomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or promoting agronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or promoting agronomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Eight years ago I was Professor of Agronomics in the College of Agriculture of the University of California."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a stool—strange words for a professor of agronomics to use in writing, but a professor of agronomics may well learn strange words when pent in prison for the term of his natural life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or promoting agronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or promoting agronomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Eight years ago I was Professor of Agronomics in the College of Agriculture of the University of California."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a stool—strange words for a professor of agronomics to use in writing, but a professor of agronomics may well learn strange words when pent in prison for the term of his natural life."*

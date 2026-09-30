@@ -5,13 +5,6 @@ status: unread
 ---
 # protoceratops
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small horned dinosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small horned dinosaur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoceratops designates small horned dinosaur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small horned dinosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small horned dinosaur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoceratops designates small horned dinosaur."*

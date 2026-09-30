@@ -5,15 +5,6 @@ status: unread
 ---
 # purge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of clearing yourself (or another) from some stigma or charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of removing by cleansing; ridding of sediment or other undesired elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I accuse The city ports by this hath entered and Intends t’ appear before the people, hoping To purge himself with words."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So please your Majesty, I would I could Quit all offences with as clear excuse As well as I am doubtless I can purge Myself of many I am charged withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I do grow great, I’ll grow less, for I’ll purge, and leave sack, and live cleanly as a nobleman should do. [_Exit, bearing off the body._] SCENE V."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of clearing yourself (or another) from some stigma or charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of removing by cleansing; ridding of sediment or other undesired elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I accuse The city ports by this hath entered and Intends t’ appear before the people, hoping To purge himself with words."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So please your Majesty, I would I could Quit all offences with as clear excuse As well as I am doubtless I can purge Myself of many I am charged withal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I do grow great, I’ll grow less, for I’ll purge, and leave sack, and live cleanly as a nobleman should do. [_Exit, bearing off the body._] SCENE V."*

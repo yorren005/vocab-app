@@ -5,15 +5,6 @@ status: unread
 ---
 # embellishment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaboration of an interpretation by the use of decorative (sometimes fictitious) detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superfluous ornament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She heard it all under embellishment."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The chisel had made three or four of these attempts at embellishment over his nose, but had given them up without an effort to smooth them off."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The very laborer, with his thatched cottage and narrow slip of ground, attends to their embellishment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaboration of an interpretation by the use of decorative (sometimes fictitious) detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superfluous ornament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She heard it all under embellishment."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The chisel had made three or four of these attempts at embellishment over his nose, but had given them up without an effort to smooth them off."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The very laborer, with his thatched cottage and narrow slip of ground, attends to their embellishment."*

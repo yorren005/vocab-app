@@ -5,13 +5,6 @@ status: unread
 ---
 # ostracod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a subclass (Ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a subclass (Ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracod designates any of a subclass (ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a subclass (Ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a subclass (Ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracod designates any of a subclass (ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages."*

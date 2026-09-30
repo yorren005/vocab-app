@@ -5,15 +5,6 @@ status: unread
 ---
 # aligned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Aligned, Zolan released the tug, and gentling his thrusters, brought his flitter to rest on a landing platform that had articulated from a portal."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The taxi paused and aligned to the new course, Zolan's hands on its manual controls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Aligned, Zolan released the tug, and gentling his thrusters, brought his flitter to rest on a landing platform that had articulated from a portal."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The taxi paused and aligned to the new course, Zolan's hands on its manual controls."*

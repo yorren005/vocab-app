@@ -5,13 +5,6 @@ status: unread
 ---
 # amphoteric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of both an acid and a base and capable of reacting as either.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of both an acid and a base and capable of reacting as either.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphoteric designates having characteristics of both an acid and a base and capable of reacting as either."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of both an acid and a base and capable of reacting as either.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of both an acid and a base and capable of reacting as either.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphoteric designates having characteristics of both an acid and a base and capable of reacting as either."*

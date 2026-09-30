@@ -5,13 +5,6 @@ status: unread
 ---
 # spinel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinel designates a hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinel designates a hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones."*

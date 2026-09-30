@@ -5,15 +5,6 @@ status: unread
 ---
 # academic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or associated with an academy or school especially of higher learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to performance in courses of study.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Neither saw the difference between local truth and universal truth; that what the inner world said in their clerical and academic hearing was quite a different thing from what the outer world was thinking."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The voice is loud and clear, and marches on with academic stateliness and gravity, and even something of musical softness mixes with its notes."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But Cairns, in addition to gaining academic distinctions, seems to have impressed his contemporaries in a quite exceptional degree with a sense of his power and promise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or associated with an academy or school especially of higher learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to performance in courses of study.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Neither saw the difference between local truth and universal truth; that what the inner world said in their clerical and academic hearing was quite a different thing from what the outer world was thinking."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The voice is loud and clear, and marches on with academic stateliness and gravity, and even something of musical softness mixes with its notes."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But Cairns, in addition to gaining academic distinctions, seems to have impressed his contemporaries in a quite exceptional degree with a sense of his power and promise."*

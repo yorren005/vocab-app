@@ -5,13 +5,6 @@ status: unread
 ---
 # suppositious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppositious designates based primarily on surmise rather than adequate evidence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppositious designates based primarily on surmise rather than adequate evidence."*

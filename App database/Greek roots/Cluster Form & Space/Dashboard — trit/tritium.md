@@ -5,13 +5,6 @@ status: unread
 ---
 # tritium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol T.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol T.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritium designates a radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol t."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol T.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol T.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritium designates a radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol t."*

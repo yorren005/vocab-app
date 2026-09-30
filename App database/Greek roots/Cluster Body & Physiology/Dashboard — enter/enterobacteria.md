@@ -5,13 +5,6 @@ status: unread
 ---
 # enterobacteria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobacteria designates rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobacteria designates rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals."*

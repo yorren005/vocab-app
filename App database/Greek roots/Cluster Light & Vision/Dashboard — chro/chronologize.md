@@ -5,13 +5,6 @@ status: unread
 ---
 # chronologize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the order in time of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the order in time of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronologize designates establish the order in time of something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the order in time of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the order in time of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronologize designates establish the order in time of something."*

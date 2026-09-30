@@ -5,13 +5,6 @@ status: unread
 ---
 # demographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The statistical characteristics of human populations (such as age or income) used especially to identify markets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A market or segment of the population identified by demographics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographic designates the statistical characteristics of human populations (such as age or income) used especially to identify markets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The statistical characteristics of human populations (such as age or income) used especially to identify markets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A market or segment of the population identified by demographics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographic designates the statistical characteristics of human populations (such as age or income) used especially to identify markets."*

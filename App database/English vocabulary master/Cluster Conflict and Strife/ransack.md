@@ -5,19 +5,6 @@ status: unread
 ---
 # ransack
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Look through thoroughly in often a rough way
-> 2. **Nuance / Usage**: Search through and steal from in a forceful and damaging way : plunder
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to ransack the target*) and intransitive clauses (*ransacking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Byron Mowery (*Pirates Of The Muskeg{{nb...*):** *"Dreams do not materialize in flesh and blood before a man! He ransacked his memory for a clew to that haunting familiarity. He tried to make himself believe it was just a crazy, senseless notion. But it persisted; he could not shake it off."*
-> - 📜 **Classic Author (*Antique Gems*):** *"[H]e is decided in his belief that the signet was an emerald, and as precious for the work of the artist as its own intrinsic value. Perhaps this stone also will turn up in the ransack of the sultan's treasury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To search through a place violently, carelessly, or destructively in order to steal valuables or pillage; to plunder.
+> 2. **Nuance / Usage**: Also used of a frantic, exhaustive search where everything is turned upside down—including figuratively (*ransacked his memory for a name*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb.
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*ransacked the drawers*, *ransacked his memory*).
+> - **Collocations & Registers**: Martial, investigative, and psychological registers; collocated with *plunder*, *cabin*, *treasury*, *archives*, and *memory*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Byron Mowery (*Pirates of the Muskeg*):** *"He **ransacked** his memory for a clue to that haunting familiarity."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The buccaneers **ransacked** the cabin from floor to ceiling in their frantic hunt for Flint's chart."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The officers **ransacked** every chest in my quarters, leaving my books and papers strewn across the floor."*

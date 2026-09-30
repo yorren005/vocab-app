@@ -5,14 +5,6 @@ status: unread
 ---
 # noncommittal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refusing to bind oneself to a particular course of action or view or the like.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refusing to bind oneself to a particular course of action or view or the like.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Bussard stood beside him, trying nervously to appear noncommittal, while Mead went up to the shaking old man, grasped his hand, and brought him over to the desk."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I believe so,” Miss Mathewson replied in the noncommittal manner of the professional man's confidential assistant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refusing to bind oneself to a particular course of action or view or the like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refusing to bind oneself to a particular course of action or view or the like.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"Bussard stood beside him, trying nervously to appear noncommittal, while Mead went up to the shaking old man, grasped his hand, and brought him over to the desk."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I believe so,” Miss Mathewson replied in the noncommittal manner of the professional man's confidential assistant."*

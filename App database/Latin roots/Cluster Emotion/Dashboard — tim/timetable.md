@@ -5,13 +5,6 @@ status: unread
 ---
 # timetable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A schedule listing events and the times at which they will take place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schedule of times of arrivals and departures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All of your plans and timetables must be synchronized with the actions I take at the conference." "Any attacks on the depot will be immediately spunnel-flashed by Hanno to the UIPS," Drummer said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A schedule listing events and the times at which they will take place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schedule of times of arrivals and departures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All of your plans and timetables must be synchronized with the actions I take at the conference." "Any attacks on the depot will be immediately spunnel-flashed by Hanno to the UIPS," Drummer said."*

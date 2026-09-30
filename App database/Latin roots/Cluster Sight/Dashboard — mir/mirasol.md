@@ -5,13 +5,6 @@ status: unread
 ---
 # mirasol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mirasol designates annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mirasol designates annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # assign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an assignment to (a person) to a post, or assign a task to (a person).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assign’d am I to be the English scourge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So please your grace, my ancient, A man he is of honesty and trust, To his conveyance I assign my wife, With what else needful your good grace shall think To be sent after me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In haste whereof most heartily I pray Your highness to assign our trial day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an assignment to (a person) to a post, or assign a task to (a person).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assign’d am I to be the English scourge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So please your grace, my ancient, A man he is of honesty and trust, To his conveyance I assign my wife, With what else needful your good grace shall think To be sent after me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In haste whereof most heartily I pray Your highness to assign our trial day."*

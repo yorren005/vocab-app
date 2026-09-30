@@ -5,15 +5,6 @@ status: unread
 ---
 # turbaned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing a turban.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing a turban.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No turbaned Turk, no hired Venetian or Malay, could have smote him with more seeming malice."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While yet the wondering ship’s company were gazing upon these strangers, Ahab cried out to the white-turbaned old man at their head, “All ready there, Fedallah?” “Ready,” was the half-hissed reply."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But be all this as it may, certain it is that while the subordinate phantoms soon found their place among the crew, though still as it were somehow distinct from them, yet that hair-turbaned Fedallah remained a muffled mystery to the last."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing a turban.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing a turban.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No turbaned Turk, no hired Venetian or Malay, could have smote him with more seeming malice."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While yet the wondering ship’s company were gazing upon these strangers, Ahab cried out to the white-turbaned old man at their head, “All ready there, Fedallah?” “Ready,” was the half-hissed reply."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But be all this as it may, certain it is that while the subordinate phantoms soon found their place among the crew, though still as it were somehow distinct from them, yet that hair-turbaned Fedallah remained a muffled mystery to the last."*

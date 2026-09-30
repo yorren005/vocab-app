@@ -5,15 +5,6 @@ status: unread
 ---
 # legitimately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner acceptable to common custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lawfully recognized manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Legitimately applied they yield science; illegitimately applied they yield magic, the bastard sister of science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner acceptable to common custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lawfully recognized manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Legitimately applied they yield science; illegitimately applied they yield magic, the bastard sister of science."*

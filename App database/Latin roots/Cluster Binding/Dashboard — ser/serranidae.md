@@ -5,13 +5,6 @@ status: unread
 ---
 # serranidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine fishes: sea basses; sea perches; groupers; jewfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine fishes: sea basses; sea perches; groupers; jewfish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serranidae designates marine fishes: sea basses; sea perches; groupers; jewfish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine fishes: sea basses; sea perches; groupers; jewfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine fishes: sea basses; sea perches; groupers; jewfish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serranidae designates marine fishes: sea basses; sea perches; groupers; jewfish."*

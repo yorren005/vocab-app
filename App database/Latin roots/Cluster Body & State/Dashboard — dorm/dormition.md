@@ -5,13 +5,6 @@ status: unread
 ---
 # dormition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dormition designates celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dormition designates celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th."*

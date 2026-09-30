@@ -5,15 +5,6 @@ status: unread
 ---
 # respectfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a respectful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a respectful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Seated at the same table, though with his chair modestly and uncomfortably drawn a little way from it, sits a bald, mild, shining man who coughs respectfully behind his hand when the lawyer bids him fill his glass."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And bred there.” Phil elevates his one eyebrow, and after respectfully staring at his master to express interest, swallows a great gulp of coffee, still staring at him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable world—tremendous orb, nearly five miles round—is in full swing, and the solar system works respectfully at its appointed distances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a respectful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a respectful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Seated at the same table, though with his chair modestly and uncomfortably drawn a little way from it, sits a bald, mild, shining man who coughs respectfully behind his hand when the lawyer bids him fill his glass."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And bred there.” Phil elevates his one eyebrow, and after respectfully staring at his master to express interest, swallows a great gulp of coffee, still staring at him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable world—tremendous orb, nearly five miles round—is in full swing, and the solar system works respectfully at its appointed distances."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # phantasmagoria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constantly changing medley of real or imagined images (as in a dream).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constantly changing medley of real or imagined images (as in a dream).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The flesh is phantasmagoria and apparitional."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The unseen powers that throng the air and watch our ways arranged about him the phantasmagoria of dissolution."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The phantasmagoria of that wild dreamland termed the Bush interprets itself, and the Poet of our desolation begins to comprehend why free Esau loved his heritage of desert sand better than all the bountiful richness of Egypt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constantly changing medley of real or imagined images (as in a dream).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constantly changing medley of real or imagined images (as in a dream).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The flesh is phantasmagoria and apparitional."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The unseen powers that throng the air and watch our ways arranged about him the phantasmagoria of dissolution."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The phantasmagoria of that wild dreamland termed the Bush interprets itself, and the Poet of our desolation begins to comprehend why free Esau loved his heritage of desert sand better than all the bountiful richness of Egypt."*

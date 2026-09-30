@@ -5,13 +5,6 @@ status: unread
 ---
 # vocationally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting the pursuit of a vocation or occupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting the pursuit of a vocation or occupation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocationally designates affecting the pursuit of a vocation or occupation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting the pursuit of a vocation or occupation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting the pursuit of a vocation or occupation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocationally designates affecting the pursuit of a vocation or occupation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neuroleptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroleptic designates tranquilizer used to treat psychotic conditions when a calming effect is desired."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroleptic designates tranquilizer used to treat psychotic conditions when a calming effect is desired."*

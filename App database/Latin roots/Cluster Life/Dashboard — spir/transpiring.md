@@ -5,15 +5,6 @@ status: unread
 ---
 # transpiring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through the tissue or substance or its pores or interstices, as of gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exude water vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"And this is but one instance, in one city, similar events transpiring in every other large city."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While these things were transpiring at the church, a frightful tragedy was being enacted elsewhere."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Exciting events were now daily transpiring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through the tissue or substance or its pores or interstices, as of gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exude water vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"And this is but one instance, in one city, similar events transpiring in every other large city."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While these things were transpiring at the church, a frightful tragedy was being enacted elsewhere."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Exciting events were now daily transpiring."*

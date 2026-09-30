@@ -5,15 +5,6 @@ status: unread
 ---
 # dictatorship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested; through those forms that same sultanism became incarnate in an irresistible dictatorship."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I should have associated my son in the Empire; my dictatorship would have been finished, and his constitutional reign would have begun."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested; through those forms that same sultanism became incarnate in an irresistible dictatorship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested; through those forms that same sultanism became incarnate in an irresistible dictatorship."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I should have associated my son in the Empire; my dictatorship would have been finished, and his constitutional reign would have begun."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That certain sultanism of his brain, which had otherwise in a good degree remained unmanifested; through those forms that same sultanism became incarnate in an irresistible dictatorship."*

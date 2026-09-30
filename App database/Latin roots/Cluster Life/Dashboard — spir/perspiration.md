@@ -5,15 +5,6 @@ status: unread
 ---
 # perspiration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salty fluid secreted by sweat glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the sweat glands of the skin secreting a salty fluid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to be working hard, with the perspiration standing on his forehead, and had a piece of chalk by him, with which, as he put each separate package or bundle down, he made a crooked mark on the panelling of the wall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, in a great perspiration, nerves himself to the hasty completion of the taking down of the Galaxy Gallery, concluding with Lady Dedlock."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every drop of moisture not in the men’s bottles and flagons in the form of cider was raining as perspiration from their foreheads and cheeks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Salty fluid secreted by sweat glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the sweat glands of the skin secreting a salty fluid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to be working hard, with the perspiration standing on his forehead, and had a piece of chalk by him, with which, as he put each separate package or bundle down, he made a crooked mark on the panelling of the wall."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, in a great perspiration, nerves himself to the hasty completion of the taking down of the Galaxy Gallery, concluding with Lady Dedlock."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every drop of moisture not in the men’s bottles and flagons in the form of cider was raining as perspiration from their foreheads and cheeks."*

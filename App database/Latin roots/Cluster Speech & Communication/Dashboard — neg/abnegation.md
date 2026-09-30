@@ -5,15 +5,6 @@ status: unread
 ---
 # abnegation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The denial and rejection of a doctrine or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renunciation of your own interests in favor of the interests of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dear father,” he said sadly, “I wish you would not expose yourself to such gratuitous pain from scoundrels!” “Pain?” said his father, his rugged face shining in the ardour of self-abnegation."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"If to labor fearlessly and ceaselessly for the good of society, and with the completest self-abnegation that is consistent with healthy individuality, be the true form of religion, Mr."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"All of its members who have participated in this collective undertaking should be heartily congratulated, particularly those who, by their acts of self-abnegation, have emulated the example of the heroes of our Faith at the early dawn of its history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The denial and rejection of a doctrine or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renunciation of your own interests in favor of the interests of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dear father,” he said sadly, “I wish you would not expose yourself to such gratuitous pain from scoundrels!” “Pain?” said his father, his rugged face shining in the ardour of self-abnegation."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"If to labor fearlessly and ceaselessly for the good of society, and with the completest self-abnegation that is consistent with healthy individuality, be the true form of religion, Mr."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"All of its members who have participated in this collective undertaking should be heartily congratulated, particularly those who, by their acts of self-abnegation, have emulated the example of the heroes of our Faith at the early dawn of its history."*

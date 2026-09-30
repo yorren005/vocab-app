@@ -5,13 +5,6 @@ status: unread
 ---
 # carpenteria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpenteria designates california evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpenteria designates california evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers."*

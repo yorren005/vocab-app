@@ -5,13 +5,6 @@ status: unread
 ---
 # sclerophyll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sclerophyll is a type of vegetation that is adapted to long periods of dryness and heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The plants feature hard leaves, short internodes and leaf orientation which is parallel or oblique to direct sunlight..
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerophyll designates sclerophyll is a type of vegetation that is adapted to long periods of dryness and heat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sclerophyll is a type of vegetation that is adapted to long periods of dryness and heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The plants feature hard leaves, short internodes and leaf orientation which is parallel or oblique to direct sunlight..
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerophyll designates sclerophyll is a type of vegetation that is adapted to long periods of dryness and heat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # persistent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Never-ceasing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually recurring to the mind; ; - claudia cassidy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For many years the persistent Roman has been pointing, with no particular meaning, from that ceiling."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wouldn’t see any humour in it.” “He’d worry to death,” said the persistent Liddy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The persistent torrent from the gurgoyle’s jaws directed all its vengeance into the grave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Never-ceasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually recurring to the mind; ; - claudia cassidy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For many years the persistent Roman has been pointing, with no particular meaning, from that ceiling."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wouldn’t see any humour in it.” “He’d worry to death,” said the persistent Liddy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The persistent torrent from the gurgoyle’s jaws directed all its vengeance into the grave."*

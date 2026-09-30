@@ -5,13 +5,6 @@ status: unread
 ---
 # osteoporosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoporosis designates a condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoporosis designates a condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # consume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat immoderately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve oneself to, or consume regularly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were putting to my house the brand That should consume it, I have not the face To say “Beseech you, cease.”—You have made fair hands, You and your crafts!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Break thou in pieces and consume to ashes, Thou foul accursed minister of hell!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The iron of itself, though heat red-hot, Approaching near these eyes would drink my tears And quench his fiery indignation Even in the matter of mine innocence; Nay, after that, consume away in rust, But for containing fire to harm mine eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat immoderately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve oneself to, or consume regularly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were putting to my house the brand That should consume it, I have not the face To say “Beseech you, cease.”—You have made fair hands, You and your crafts!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Break thou in pieces and consume to ashes, Thou foul accursed minister of hell!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The iron of itself, though heat red-hot, Approaching near these eyes would drink my tears And quench his fiery indignation Even in the matter of mine innocence; Nay, after that, consume away in rust, But for containing fire to harm mine eye."*

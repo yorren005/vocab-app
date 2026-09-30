@@ -5,13 +5,6 @@ status: unread
 ---
 # revitalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing again into activity and prominence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revitalisation designates bringing again into activity and prominence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing again into activity and prominence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revitalisation designates bringing again into activity and prominence."*

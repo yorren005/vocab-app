@@ -5,15 +5,6 @@ status: unread
 ---
 # centennial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 100th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or completing a period of 100 years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Topliff, with suppressed indignation; "but this we're to work on I had before the Centennial."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am thinking a great deal about the new edition; and cannot help hoping you are going to revert to the plan of the Centennial Edition, which issued your writings in two independent volumes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 100th anniversary (or the celebration of it).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or completing a period of 100 years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Topliff, with suppressed indignation; "but this we're to work on I had before the Centennial."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am thinking a great deal about the new edition; and cannot help hoping you are going to revert to the plan of the Centennial Edition, which issued your writings in two independent volumes."*

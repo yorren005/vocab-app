@@ -5,15 +5,6 @@ status: unread
 ---
 # sevens
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of six and one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He’s been courted by sixes and sevens—all the girls, gentle and simple, for miles round, have tried him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And I with a family vault under that there church of Kingsbere as big as Squire Jollard’s ale-cellar, and my folk lying there in sixes and sevens, as genuine county bones and marrow as any recorded in history."*
-> - 📜 **George Eliot (*Middlemarch*):** *"After this, it came to be held in various quarters that Lydgate played even with respectable constitutions for his own purposes, and how much more likely that in his flighty experimenting he should make sixes and sevens of hospital patients."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of six and one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He’s been courted by sixes and sevens—all the girls, gentle and simple, for miles round, have tried him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And I with a family vault under that there church of Kingsbere as big as Squire Jollard’s ale-cellar, and my folk lying there in sixes and sevens, as genuine county bones and marrow as any recorded in history."*
+> - 📜 **George Eliot (*Middlemarch*):** *"After this, it came to be held in various quarters that Lydgate played even with respectable constitutions for his own purposes, and how much more likely that in his flighty experimenting he should make sixes and sevens of hospital patients."*

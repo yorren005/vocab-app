@@ -5,15 +5,6 @@ status: unread
 ---
 # troubadour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a class of lyric poets often of knightly rank who flourished from the 11th to the 13th century in France and Italy and whose major theme was courtly love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A singer especially of folk songs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The moment the dance was over he caught up a guitar, and, lolling against the old marble fireplace in an attitude which I am half inclined to suspect was studied, began the little French air of the Troubadour."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Richard, a professed admirer of the joyous science in all its branches, could imitate either the minstrel or troubadour."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And not seldom the catastrophe is bound up with the other passion, sung by the Troubadours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a class of lyric poets often of knightly rank who flourished from the 11th to the 13th century in France and Italy and whose major theme was courtly love.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A singer especially of folk songs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The moment the dance was over he caught up a guitar, and, lolling against the old marble fireplace in an attitude which I am half inclined to suspect was studied, began the little French air of the Troubadour."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Richard, a professed admirer of the joyous science in all its branches, could imitate either the minstrel or troubadour."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And not seldom the catastrophe is bound up with the other passion, sung by the Troubadours."*

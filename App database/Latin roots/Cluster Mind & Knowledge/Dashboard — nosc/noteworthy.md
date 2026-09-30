@@ -5,15 +5,6 @@ status: unread
 ---
 # noteworthy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of notice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think on thy Proteus when thou haply seest Some rare noteworthy object in thy travel."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this was not the most noteworthy feature: they were all grouped in such a way that their tails, without a single exception, were towards that half of the horizon from which the storm threatened."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The only other noteworthy objects in the study were two splendid engravings of Raphael's "Transfiguration" and "Spasimo" (the former bearing the signature of Raphael Morghen), which had been a gift to him from Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of notice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think on thy Proteus when thou haply seest Some rare noteworthy object in thy travel."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this was not the most noteworthy feature: they were all grouped in such a way that their tails, without a single exception, were towards that half of the horizon from which the storm threatened."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The only other noteworthy objects in the study were two splendid engravings of Raphael's "Transfiguration" and "Spasimo" (the former bearing the signature of Raphael Morghen), which had been a gift to him from Mrs."*

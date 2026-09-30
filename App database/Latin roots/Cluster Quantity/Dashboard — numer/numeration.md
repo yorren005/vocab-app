@@ -5,13 +5,6 @@ status: unread
 ---
 # numeration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Naming numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of counting; reciting numbers in ascending order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This point won, you have started as you should. 326:18 You have begun at the numeration-table of Christian Science, and nothing but wrong intention can hinder your advancement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Naming numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of counting; reciting numbers in ascending order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This point won, you have started as you should. 326:18 You have begun at the numeration-table of Christian Science, and nothing but wrong intention can hinder your advancement."*

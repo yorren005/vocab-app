@@ -5,15 +5,6 @@ status: unread
 ---
 # curate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, understanding that the curate and your sweet self are good at such eruptions and sudden breaking-out of mirth, as it were, I have acquainted you withal, to the end to crave your assistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Nathaniel, the Curate, for Alexander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I prithee, put on this gown and this beard; make him believe thou art Sir Topas the curate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, understanding that the curate and your sweet self are good at such eruptions and sudden breaking-out of mirth, as it were, I have acquainted you withal, to the end to crave your assistance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Nathaniel, the Curate, for Alexander."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I prithee, put on this gown and this beard; make him believe thou art Sir Topas the curate."*

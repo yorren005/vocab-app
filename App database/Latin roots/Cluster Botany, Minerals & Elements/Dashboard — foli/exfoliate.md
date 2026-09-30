@@ -5,13 +5,6 @@ status: unread
 ---
 # exfoliate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread by opening the leaves of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast off in scales, laminae, or splinters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exfoliate designates spread by opening the leaves of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread by opening the leaves of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast off in scales, laminae, or splinters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exfoliate designates spread by opening the leaves of."*

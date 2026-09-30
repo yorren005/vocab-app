@@ -5,13 +5,6 @@ status: unread
 ---
 # glute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any one of three large skeletal muscles that form the buttock and move the thigh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any one of three large skeletal muscles that form the buttock and move the thigh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glute designates any one of three large skeletal muscles that form the buttock and move the thigh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any one of three large skeletal muscles that form the buttock and move the thigh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any one of three large skeletal muscles that form the buttock and move the thigh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glute designates any one of three large skeletal muscles that form the buttock and move the thigh."*

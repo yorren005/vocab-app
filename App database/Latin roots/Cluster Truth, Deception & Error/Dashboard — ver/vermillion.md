@@ -5,15 +5,6 @@ status: unread
 ---
 # vermillion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a vivid red to reddish-orange color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a vivid red to reddish-orange color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The hills, which fell back gracefully from the valley, were covered with cloaks of gold and vermillion and emerald, and not a leaf stirred in the evening air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a vivid red to reddish-orange color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a vivid red to reddish-orange color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The hills, which fell back gracefully from the valley, were covered with cloaks of gold and vermillion and emerald, and not a leaf stirred in the evening air."*

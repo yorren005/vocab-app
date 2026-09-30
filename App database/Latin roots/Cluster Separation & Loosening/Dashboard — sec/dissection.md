@@ -5,15 +5,6 @@ status: unread
 ---
 # dissection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cutting so as to separate into pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute and critical analysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Aye free, aff-han’, your story tell, When wi’ a bosom crony; But still keep something to yoursel’, Ye scarcely tell to ony: Conceal yoursel’ as weel’s ye can Frae critical dissection; But keek thro’ ev’ry other man, Wi’ sharpen’d, sly inspection."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Adieu, my Liege; may freedom geck Beneath your high protection; An’ may ye rax Corruption’s neck, And gie her for dissection!"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pollajuolo is said to have been the first artist who studied anatomy by means of dissection, and his sole aim in this picture seems to have been to display his knowledge of muscular action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cutting so as to separate into pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute and critical analysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Aye free, aff-han’, your story tell, When wi’ a bosom crony; But still keep something to yoursel’, Ye scarcely tell to ony: Conceal yoursel’ as weel’s ye can Frae critical dissection; But keek thro’ ev’ry other man, Wi’ sharpen’d, sly inspection."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Adieu, my Liege; may freedom geck Beneath your high protection; An’ may ye rax Corruption’s neck, And gie her for dissection!"*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pollajuolo is said to have been the first artist who studied anatomy by means of dissection, and his sole aim in this picture seems to have been to display his knowledge of muscular action."*

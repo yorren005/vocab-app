@@ -5,13 +5,6 @@ status: unread
 ---
 # carcinoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinoid designates a small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinoid designates a small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin."*

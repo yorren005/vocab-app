@@ -5,13 +5,6 @@ status: unread
 ---
 # parasitoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasitoid designates an insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasitoid designates an insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult."*

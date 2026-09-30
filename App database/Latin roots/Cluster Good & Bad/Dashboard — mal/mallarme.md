@@ -5,13 +5,6 @@ status: unread
 ---
 # mallarme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French symbolist poet noted for his free verse (1842-1898).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French symbolist poet noted for his free verse (1842-1898).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mallarme designates french symbolist poet noted for his free verse (1842-1898)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French symbolist poet noted for his free verse (1842-1898).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French symbolist poet noted for his free verse (1842-1898).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mallarme designates french symbolist poet noted for his free verse (1842-1898)."*

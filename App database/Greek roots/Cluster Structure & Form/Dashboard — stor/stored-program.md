@@ -5,13 +5,6 @@ status: unread
 ---
 # stored-program
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning programs stored in the computer's own memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerning programs stored in the computer's own memory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stored-program designates of or concerning programs stored in the computer's own memory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning programs stored in the computer's own memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerning programs stored in the computer's own memory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stored-program designates of or concerning programs stored in the computer's own memory."*

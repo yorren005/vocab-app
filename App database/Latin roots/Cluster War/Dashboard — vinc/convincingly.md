@@ -5,15 +5,6 @@ status: unread
 ---
 # convincingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convincing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a convincing manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It never has been convincingly shown, however, that there is any large measure of correspondence in time (not to say causal relation) between tariff revisions and crises.[13] § 15. #Rhythmic changes in weather and in crops#."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, you will be loyal to each other and to us; on the other, you, and I mean each of you, will lie, cheat, bribe, subvert, sabotage, and kill for the mission, and if it serves our greater purpose, act convincingly against us."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"His prompt reply to all complaints and remonstrances was--the butt-end of a handspike, so convincingly administered as effectually to silence the aggrieved party."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convincing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a convincing manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It never has been convincingly shown, however, that there is any large measure of correspondence in time (not to say causal relation) between tariff revisions and crises.[13] § 15. #Rhythmic changes in weather and in crops#."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, you will be loyal to each other and to us; on the other, you, and I mean each of you, will lie, cheat, bribe, subvert, sabotage, and kill for the mission, and if it serves our greater purpose, act convincingly against us."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"His prompt reply to all complaints and remonstrances was--the butt-end of a handspike, so convincingly administered as effectually to silence the aggrieved party."*

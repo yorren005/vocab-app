@@ -5,15 +5,6 @@ status: unread
 ---
 # accomplice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who joins with another in carrying out some plan (especially an unethical or illegal plan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who joins with another in carrying out some plan (especially an unethical or illegal plan).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If George the vagabond dragoon had any hand in it, he was only an accomplice, and was set on."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He had made me, if not an accomplice, at least a witness of his vengeance."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You, of course, saw that everyone in the street was an accomplice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who joins with another in carrying out some plan (especially an unethical or illegal plan).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who joins with another in carrying out some plan (especially an unethical or illegal plan).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If George the vagabond dragoon had any hand in it, he was only an accomplice, and was set on."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He had made me, if not an accomplice, at least a witness of his vengeance."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You, of course, saw that everyone in the street was an accomplice."*

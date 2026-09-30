@@ -5,20 +5,6 @@ status: unread
 ---
 # clangor
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make a clangor
-> 2. **Nuance / Usage**: Resounding clang or medley of clangs
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the clangor withstood the storm*), direct object (*cleaved the clangor*), or prepositional anchor (*amidst the clangor*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"And in the very pangs of death he cried, Like to a dismal clangor heard from far, 'Warwick, revenge!'"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The bell that rings at nine o'clock has ceased its doleful clangour about nothing; the gates are shut; and the night-porter, a solemn warder with a mighty power of sleep, keeps guard in his lodge."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"And now the melodious clangor of bells from church towers summons their several flocks to the fold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A continuous, prolonged, and resounding din of loud metallic ringing or clashing sounds.
+> 2. **Nuance / Usage**: More elevated and sustained than *clang*, often used for the pealing of bells, the clash of armor in battle, or the honking cries of wild geese.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the clangor withstood the storm*), direct object (*cleaved the clangor*), or prepositional anchor (*amidst the clangor*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"And in the very pangs of death he cried, like to a dismal **clangor** heard from far, 'Warwick, revenge!'"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The bell that rings at nine o'clock has ceased its doleful **clangour**, and the gates are shut for the night."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"And now the melodious **clangor** of bells from church towers summons their several flocks to the fold."*

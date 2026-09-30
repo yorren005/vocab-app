@@ -5,15 +5,6 @@ status: unread
 ---
 # amateur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pursues a study or sport as a pastime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who does not play for pay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a musical man, an amateur, but might have been a professional."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an artist too, an amateur, but might have been a professional."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A mere amateur.” Sir Leicester seemed to approve of this even more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pursues a study or sport as a pastime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who does not play for pay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a musical man, an amateur, but might have been a professional."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is an artist too, an amateur, but might have been a professional."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A mere amateur.” Sir Leicester seemed to approve of this even more."*

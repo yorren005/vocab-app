@@ -5,15 +5,6 @@ status: unread
 ---
 # judge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public official authorized to decide questions brought before a court of justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who is able to estimate worth or quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither his daughter, if we judge by manners, But yet indeed the smaller is his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have said, but whether wisely or no, let the forest judge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public official authorized to decide questions brought before a court of justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who is able to estimate worth or quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither his daughter, if we judge by manners, But yet indeed the smaller is his daughter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have said, but whether wisely or no, let the forest judge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # flatulency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of excessive gas in the alimentary canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of excessive gas in the alimentary canal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flatulency designates a state of excessive gas in the alimentary canal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of excessive gas in the alimentary canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of excessive gas in the alimentary canal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flatulency designates a state of excessive gas in the alimentary canal."*

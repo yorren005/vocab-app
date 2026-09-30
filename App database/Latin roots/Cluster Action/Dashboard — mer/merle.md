@@ -5,15 +5,6 @@ status: unread
 ---
 # merle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common black european thrush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common black european thrush.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now laverocks wake the merry morn Aloft on dewy wing; The merle, in his noontide bow’r, Makes woodland echoes ring; The mavis wild wi’ mony a note, Sings drowsy day to rest: In love and freedom they rejoice, Wi’ care nor thrall opprest."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’m Madame Merle.” She made this last announcement as if she were referring to a person of tolerably distinct identity."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"For Isabel, however, it represented little; she could only continue to feel that Madame Merle had as charming a manner as any she had ever encountered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Common black european thrush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common black european thrush.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now laverocks wake the merry morn Aloft on dewy wing; The merle, in his noontide bow’r, Makes woodland echoes ring; The mavis wild wi’ mony a note, Sings drowsy day to rest: In love and freedom they rejoice, Wi’ care nor thrall opprest."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’m Madame Merle.” She made this last announcement as if she were referring to a person of tolerably distinct identity."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"For Isabel, however, it represented little; she could only continue to feel that Madame Merle had as charming a manner as any she had ever encountered."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # protea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protea designates any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protea designates any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones."*

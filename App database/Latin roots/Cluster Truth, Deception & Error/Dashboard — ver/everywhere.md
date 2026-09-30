@@ -5,15 +5,6 @@ status: unread
 ---
 # everywhere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Rosalind, these trees shall be my books, And in their barks my thoughts I’ll character, That every eye which in this forest looks Shall see thy virtue witnessed everywhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Rosalind, these trees shall be my books, And in their barks my thoughts I’ll character, That every eye which in this forest looks Shall see thy virtue witnessed everywhere."*

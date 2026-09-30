@@ -5,15 +5,6 @@ status: unread
 ---
 # socialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political theory advocating state ownership of industry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economic system based on state ownership of capital.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some aspects of socialism Index FOREWORD The present volume deals with various practical problems in economics, as a volume published a year earlier dealt with the broader economic principles of value and distribution."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The two pillars of "scientific" socialism. § 17."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Utopian nature of "scientific" socialism. § 19."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political theory advocating state ownership of industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economic system based on state ownership of capital.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some aspects of socialism Index FOREWORD The present volume deals with various practical problems in economics, as a volume published a year earlier dealt with the broader economic principles of value and distribution."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The two pillars of "scientific" socialism. § 17."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Utopian nature of "scientific" socialism. § 19."*

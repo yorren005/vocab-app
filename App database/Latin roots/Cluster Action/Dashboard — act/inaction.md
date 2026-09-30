@@ -5,15 +5,6 @@ status: unread
 ---
 # inaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being inactive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But this was not the effect of time so much as of the change in all my habits made by the helplessness and inaction of a sick-room."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But to be waiting so long in inaction, and waiting only for evil, had been dreadful."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Condemned to inaction and a state of constant restlessness and suspense, I rowed about in my boat, and waited, waited, waited, as I best could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inactive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being inactive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But this was not the effect of time so much as of the change in all my habits made by the helplessness and inaction of a sick-room."*
+> - 📜 **Jane Austen (*Persuasion*):** *"But to be waiting so long in inaction, and waiting only for evil, had been dreadful."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Condemned to inaction and a state of constant restlessness and suspense, I rowed about in my boat, and waited, waited, waited, as I best could."*

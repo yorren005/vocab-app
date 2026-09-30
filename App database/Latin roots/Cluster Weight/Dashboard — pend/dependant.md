@@ -5,15 +5,6 @@ status: unread
 ---
 # dependant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who relies on another person for support (especially financial support).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contingent on something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"I am an heire, sweet Ladie, How ever I appeare a poore dependant; Love you with honour, I shall love so ever; Is your eye ambitious?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"At another time a person who had long been a dependant on His Grace, begged his interest for him at court; and to press the thing more home upon the duke, said, he had nobody to depend upon but God and His Grace."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will exist in every state, but as a poor dependant on state permission."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who relies on another person for support (especially financial support).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contingent on something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"I am an heire, sweet Ladie, How ever I appeare a poore dependant; Love you with honour, I shall love so ever; Is your eye ambitious?"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"At another time a person who had long been a dependant on His Grace, begged his interest for him at court; and to press the thing more home upon the duke, said, he had nobody to depend upon but God and His Grace."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will exist in every state, but as a poor dependant on state permission."*

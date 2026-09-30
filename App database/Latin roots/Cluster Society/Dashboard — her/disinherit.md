@@ -5,15 +5,6 @@ status: unread
 ---
 # disinherit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent deliberately (as by making a will) from inheriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent deliberately (as by making a will) from inheriting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Father, you cannot disinherit me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, but a duke, would have his son a king, And raise his issue like a loving sire; Thou, being a king, blest with a goodly son, Didst yield consent to disinherit him, Which argued thee a most unloving father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent deliberately (as by making a will) from inheriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent deliberately (as by making a will) from inheriting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Father, you cannot disinherit me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, but a duke, would have his son a king, And raise his issue like a loving sire; Thou, being a king, blest with a goodly son, Didst yield consent to disinherit him, Which argued thee a most unloving father."*

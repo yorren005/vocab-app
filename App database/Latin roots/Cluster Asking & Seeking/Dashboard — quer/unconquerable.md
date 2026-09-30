@@ -5,15 +5,6 @@ status: unread
 ---
 # unconquerable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being conquered or vanquished or overcome; - r.e.danielson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being surmounted or excelled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I, the unconquerable and indestructible I, survive."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"After surmounting your _unconquerable_ horror of the bed, you will retire to rest, and get a few hours’ unquiet slumber."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I purposely abstain from dates on this occasion, that every one may be at liberty to fix their own, aware that the cure of unconquerable passions, and the transfer of unchanging attachments, must vary much as to time in different people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being conquered or vanquished or overcome; - r.e.danielson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being surmounted or excelled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I, the unconquerable and indestructible I, survive."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"After surmounting your _unconquerable_ horror of the bed, you will retire to rest, and get a few hours’ unquiet slumber."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I purposely abstain from dates on this occasion, that every one may be at liberty to fix their own, aware that the cure of unconquerable passions, and the transfer of unchanging attachments, must vary much as to time in different people."*

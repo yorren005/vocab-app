@@ -5,13 +5,6 @@ status: unread
 ---
 # desegregation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of incorporating a racial or religious group into a community.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desegregation designates the action of incorporating a racial or religious group into a community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of incorporating a racial or religious group into a community.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desegregation designates the action of incorporating a racial or religious group into a community."*

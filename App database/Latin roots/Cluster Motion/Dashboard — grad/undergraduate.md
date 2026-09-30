@@ -5,15 +5,6 @@ status: unread
 ---
 # undergraduate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university student who has not yet received a first degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university student who has not yet received a first degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"When I was an undergraduate, I well remember that most of my friends who were likely to take high mathematical honors were already so ultimately acquainted with Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Not one of those who were his greatest admirers at Cambridge, when I was an undergraduate, ever saw him till many years after they had left the University."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"To be sure, it was nothing more than might have been expected of a man whose undergraduate work in English had aroused the reluctant wonder of more than one instructor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A university student who has not yet received a first degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university student who has not yet received a first degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"When I was an undergraduate, I well remember that most of my friends who were likely to take high mathematical honors were already so ultimately acquainted with Mr."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Not one of those who were his greatest admirers at Cambridge, when I was an undergraduate, ever saw him till many years after they had left the University."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"To be sure, it was nothing more than might have been expected of a man whose undergraduate work in English had aroused the reluctant wonder of more than one instructor."*

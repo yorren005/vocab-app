@@ -5,15 +5,6 @@ status: unread
 ---
 # patriarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the scriptural fathers of the human race or of the Hebrew people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is father or founder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’s your fare!” says the patriarch to the coachman with a fierce grin and shaking his incapable fist at him."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the Aryan races the family system was widened, and the patriarch of the tribe secured personal obedience and economic services from all members of the community."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the scriptural fathers of the human race or of the Hebrew people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is father or founder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There’s your fare!” says the patriarch to the coachman with a fierce grin and shaking his incapable fist at him."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the Aryan races the family system was widened, and the patriarch of the tribe secured personal obedience and economic services from all members of the community."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*

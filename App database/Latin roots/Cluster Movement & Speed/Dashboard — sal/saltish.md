@@ -5,13 +5,6 @@ status: unread
 ---
 # saltish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat salty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat salty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The saltish torrent deluged the surrounding plains--putting every thing into a pretty pickle, as may well be imagined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat salty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat salty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The saltish torrent deluged the surrounding plains--putting every thing into a pretty pickle, as may well be imagined."*

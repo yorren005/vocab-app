@@ -5,13 +5,6 @@ status: unread
 ---
 # irenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring, conducive to, or operating toward peace, moderation, or conciliation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring, conducive to, or operating toward peace, moderation, or conciliation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irenic designates favoring, conducive to, or operating toward peace, moderation, or conciliation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring, conducive to, or operating toward peace, moderation, or conciliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring, conducive to, or operating toward peace, moderation, or conciliation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irenic designates favoring, conducive to, or operating toward peace, moderation, or conciliation."*

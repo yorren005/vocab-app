@@ -5,15 +5,6 @@ status: unread
 ---
 # congregational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or conducted or participated in by a congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of a congregational church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They are members of Lincoln Park Congregational Church."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller is the wife of a Congregational minister, and a lady of unquestionably veracity."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Another lady, the same week my wife was healed, a member of the First Congregational Church, confined to her bed with a complicated disease, was prayed for, and restored at once to soundness." THE WONDERFUL CURE OF MRS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or conducted or participated in by a congregation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of a congregational church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They are members of Lincoln Park Congregational Church."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller is the wife of a Congregational minister, and a lady of unquestionably veracity."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Another lady, the same week my wife was healed, a member of the First Congregational Church, confined to her bed with a complicated disease, was prayed for, and restored at once to soundness." THE WONDERFUL CURE OF MRS."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # starflower
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common old world herb having grasslike leaves and clusters of star-shaped white flowers with green stripes; naturalized in the eastern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common old world herb having grasslike leaves and clusters of star-shaped white flowers with green stripes; naturalized in the eastern united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starflower designates common old world herb having grasslike leaves and clusters of star-shaped white flowers with green stripes; naturalized in the eastern united states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Common old world herb having grasslike leaves and clusters of star-shaped white flowers with green stripes; naturalized in the eastern united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common old world herb having grasslike leaves and clusters of star-shaped white flowers with green stripes; naturalized in the eastern united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starflower designates common old world herb having grasslike leaves and clusters of star-shaped white flowers with green stripes; naturalized in the eastern united states."*

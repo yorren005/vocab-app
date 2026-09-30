@@ -5,15 +5,6 @@ status: unread
 ---
 # designing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of working out the form of something (as by making a sketch or outline or plan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or work out a plan for; devise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are designing people compared with me” (he really made me consider myself in that light) “but I am gay and innocent; forget your worldly arts and play with me!” the effect was absolutely dazzling."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Hence it was a favourite expedient to represent him as the tool of more designing men--as one whose simplicity had been imposed upon, and who had been thrust forward against his better judgment to do work in which he had no heart."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won’t she feel forsaken and deserted?” “Impossible!—when I told you how she, on the contrary, deserted me: the idea of my insolvency cooled, or rather extinguished, her flame in a moment.” “You have a curious, designing mind, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of working out the form of something (as by making a sketch or outline or plan).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or work out a plan for; devise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You are designing people compared with me” (he really made me consider myself in that light) “but I am gay and innocent; forget your worldly arts and play with me!” the effect was absolutely dazzling."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Hence it was a favourite expedient to represent him as the tool of more designing men--as one whose simplicity had been imposed upon, and who had been thrust forward against his better judgment to do work in which he had no heart."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won’t she feel forsaken and deserted?” “Impossible!—when I told you how she, on the contrary, deserted me: the idea of my insolvency cooled, or rather extinguished, her flame in a moment.” “You have a curious, designing mind, Mr."*

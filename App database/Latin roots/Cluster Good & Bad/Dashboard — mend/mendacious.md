@@ -5,14 +5,6 @@ status: unread
 ---
 # mendacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to lying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally untrue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Unusual polysyllables of foreign origin she interpreted phonetically or by false analogy or by both: metempsychosis (met him pike hoses), _alias_ (a mendacious person mentioned in sacred scripture)."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"MENDACIOUS, what can be mended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to lying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally untrue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Unusual polysyllables of foreign origin she interpreted phonetically or by false analogy or by both: metempsychosis (met him pike hoses), _alias_ (a mendacious person mentioned in sacred scripture)."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"MENDACIOUS, what can be mended."*

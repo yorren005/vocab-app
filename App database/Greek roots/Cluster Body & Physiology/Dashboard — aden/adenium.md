@@ -5,13 +5,6 @@ status: unread
 ---
 # adenium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: succulent shrub or tree of tropical africa and arabia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: succulent shrub or tree of tropical africa and arabia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenium designates one species: succulent shrub or tree of tropical africa and arabia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: succulent shrub or tree of tropical africa and arabia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: succulent shrub or tree of tropical africa and arabia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenium designates one species: succulent shrub or tree of tropical africa and arabia."*

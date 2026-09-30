@@ -5,15 +5,6 @@ status: unread
 ---
 # repugnance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense aversion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between propositions that cannot both be true at the same time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She seemed like an animal of another species, and there was instinctive repugnance on both sides."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray, pray, dear Richard, for my sake, and for your own, and in a natural repugnance for that source of trouble which had its share in making us both orphans when we were very young, pray, pray, let it go for ever."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a simple physical fear—the weak of the strong; there was no emotional aversion or inner repugnance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense aversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between propositions that cannot both be true at the same time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She seemed like an animal of another species, and there was instinctive repugnance on both sides."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pray, pray, dear Richard, for my sake, and for your own, and in a natural repugnance for that source of trouble which had its share in making us both orphans when we were very young, pray, pray, let it go for ever."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a simple physical fear—the weak of the strong; there was no emotional aversion or inner repugnance."*

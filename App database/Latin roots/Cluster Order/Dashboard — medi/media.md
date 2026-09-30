@@ -5,15 +5,6 @@ status: unread
 ---
 # media
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A means or instrumentality for storing or communicating information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surrounding environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spur through Media, Mesopotamia, and the shelters whither The routed fly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A means or instrumentality for storing or communicating information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surrounding environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spur through Media, Mesopotamia, and the shelters whither The routed fly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # valance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative framework to conceal curtain fixtures at the top of a window casing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative framework to conceal curtain fixtures at the top of a window casing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He stooped and lifted the valance."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She pictured to herself with a shudder the effect of a sixpenny Chinese umbrella in that fireplace, a cretonne valance to that bed, or chintz curtains to those windows."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Too late he divined her “drift.” The handle of the telltale tea-spoon was visible under the bed-valance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative framework to conceal curtain fixtures at the top of a window casing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative framework to conceal curtain fixtures at the top of a window casing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He stooped and lifted the valance."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She pictured to herself with a shudder the effect of a sixpenny Chinese umbrella in that fireplace, a cretonne valance to that bed, or chintz curtains to those windows."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Too late he divined her “drift.” The handle of the telltale tea-spoon was visible under the bed-valance."*

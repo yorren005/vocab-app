@@ -5,15 +5,6 @@ status: unread
 ---
 # moving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move or shift into a new position or place, both in a concrete and in an abstract sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blow thou hadst Shall make thy peace for moving me to rage, And I will boot thee with what gift beside Thy modesty can beg."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a piece of work is man, how noble in reason, how infinite in faculties, in form and moving, how express and admirable; in action how like an angel, in apprehension, how like a god: the beauty of the world, the paragon of animals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I could divide myself, and go to buffets, for moving such a dish of skim milk with so honourable an action!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move or shift into a new position or place, both in a concrete and in an abstract sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blow thou hadst Shall make thy peace for moving me to rage, And I will boot thee with what gift beside Thy modesty can beg."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a piece of work is man, how noble in reason, how infinite in faculties, in form and moving, how express and admirable; in action how like an angel, in apprehension, how like a god: the beauty of the world, the paragon of animals."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I could divide myself, and go to buffets, for moving such a dish of skim milk with so honourable an action!"*

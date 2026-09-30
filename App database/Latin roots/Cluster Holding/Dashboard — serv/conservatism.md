@@ -5,15 +5,6 @@ status: unread
 ---
 # conservatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Commerce is the strongest enemy of custom, and new opportunities gave a rude shock to the conservatism both of the manor and of the village."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had also taken too much in the shape of muddy political talk, a stimulant dangerously disturbing to his farming conservatism, which consisted in holding that whatever is, is bad, and any change is likely to be worse."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But we all have to learn by experience, and conservatism is one of the hardest lessons.” An ugly light was growing in Red Pepper's eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Commerce is the strongest enemy of custom, and new opportunities gave a rude shock to the conservatism both of the manor and of the village."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had also taken too much in the shape of muddy political talk, a stimulant dangerously disturbing to his farming conservatism, which consisted in holding that whatever is, is bad, and any change is likely to be worse."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But we all have to learn by experience, and conservatism is one of the hardest lessons.” An ugly light was growing in Red Pepper's eye."*

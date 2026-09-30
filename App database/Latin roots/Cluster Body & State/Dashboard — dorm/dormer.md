@@ -5,15 +5,6 @@ status: unread
 ---
 # dormer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gabled extension built out from a sloping roof to accommodate a vertical window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gabled extension built out from a sloping roof to accommodate a vertical window.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"All the doors and windows in the house are closed, except a single dormer-window in the roof."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Terrified at this onslaught, the devils escape by the dormer-window, and sliding down the rope of palm-leaves take themselves off."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of her body and life it ever seemed to be; the slope of its dormers, the finish of its gables, the broken courses of brick which topped the chimney, all had something in common with her personal character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gabled extension built out from a sloping roof to accommodate a vertical window.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gabled extension built out from a sloping roof to accommodate a vertical window.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"All the doors and windows in the house are closed, except a single dormer-window in the roof."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Terrified at this onslaught, the devils escape by the dormer-window, and sliding down the rope of palm-leaves take themselves off."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of her body and life it ever seemed to be; the slope of its dormers, the finish of its gables, the broken courses of brick which topped the chimney, all had something in common with her personal character."*

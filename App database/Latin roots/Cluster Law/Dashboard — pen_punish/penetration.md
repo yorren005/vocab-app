@@ -5,15 +5,6 @@ status: unread
 ---
 # penetration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack that penetrates into enemy territory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clear or deep perception of a situation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that it required much penetration to say that, because I knew that his being there at all was an act of kindness."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She was still in the astonishment and confusion excited by her friend’s penetration, unable to imagine how any report of Captain Wentworth could have reached her."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There is a quickness of perception in some, a nicety in the discernment of character, a natural penetration, in short, which no experience in others can equal, and Lady Russell had been less gifted in this part of understanding than her young friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack that penetrates into enemy territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clear or deep perception of a situation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that it required much penetration to say that, because I knew that his being there at all was an act of kindness."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She was still in the astonishment and confusion excited by her friend’s penetration, unable to imagine how any report of Captain Wentworth could have reached her."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There is a quickness of perception in some, a nicety in the discernment of character, a natural penetration, in short, which no experience in others can equal, and Lady Russell had been less gifted in this part of understanding than her young friend."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reflected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifest or bring back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You may be sure that I should not tell you if I did not have to," Loneli added, "because it makes me so sad." Mea reflected a moment, wondering what she had really done."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At first I was in two minds about taking such a liberty, but I soon reflected that nobody in the house was likely to notice it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I will not dwell on the suspense and anxiety with which I reflected all this time that we were leaving my mother farther and farther behind every minute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifest or bring back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You may be sure that I should not tell you if I did not have to," Loneli added, "because it makes me so sad." Mea reflected a moment, wondering what she had really done."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"At first I was in two minds about taking such a liberty, but I soon reflected that nobody in the house was likely to notice it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I will not dwell on the suspense and anxiety with which I reflected all this time that we were leaving my mother farther and farther behind every minute."*

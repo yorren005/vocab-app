@@ -5,15 +5,6 @@ status: unread
 ---
 # investigator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who devotes himself to doing research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who investigates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A theory which had the support of so learned and sagacious an investigator as W."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The wisest thing the investigator can do then, it seems to me, is to let this deadly spout alone."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The wisest thing the investigator can do then, it seems to me, is to let this deadly spout alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who devotes himself to doing research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who investigates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A theory which had the support of so learned and sagacious an investigator as W."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The wisest thing the investigator can do then, it seems to me, is to let this deadly spout alone."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The wisest thing the investigator can do then, it seems to me, is to let this deadly spout alone."*

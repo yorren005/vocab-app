@@ -5,13 +5,6 @@ status: unread
 ---
 # kinetosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetosis designates the state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetosis designates the state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle."*

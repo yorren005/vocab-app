@@ -5,15 +5,6 @@ status: unread
 ---
 # sumach
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"They plunged into the narrow path between the tall sumach bushes, and were at once hidden in the gloom."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Now he turned in his tracks, between the walls of sumach bushes—turned himself as carefully as if he were a ship—and then stepped quickly but cautiously along."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"You see we knew right where to put our hands on them, by your description; so we crept along on tiptoe till we got within fifteen feet of them—dark as a cellar that sumach path was—and just then I found I was going to sneeze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"They plunged into the narrow path between the tall sumach bushes, and were at once hidden in the gloom."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Now he turned in his tracks, between the walls of sumach bushes—turned himself as carefully as if he were a ship—and then stepped quickly but cautiously along."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"You see we knew right where to put our hands on them, by your description; so we crept along on tiptoe till we got within fifteen feet of them—dark as a cellar that sumach path was—and just then I found I was going to sneeze."*

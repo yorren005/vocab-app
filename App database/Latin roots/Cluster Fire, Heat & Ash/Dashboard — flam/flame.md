@@ -5,15 +5,6 @@ status: unread
 ---
 # flame
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combustion of inflammable materials producing heat and light and (often) smoke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shine with a sudden light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you think to blow out the intended fire your city is ready to flame in with such weak breath as this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flame o’ th’ taper Bows toward her and would under-peep her lids To see th’ enclosed lights, now canopied Under these windows white and azure, lac’d With blue of heaven’s own tinct."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle son, Upon the heat and flame of thy distemper Sprinkle cool patience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combustion of inflammable materials producing heat and light and (often) smoke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shine with a sudden light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you think to blow out the intended fire your city is ready to flame in with such weak breath as this?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flame o’ th’ taper Bows toward her and would under-peep her lids To see th’ enclosed lights, now canopied Under these windows white and azure, lac’d With blue of heaven’s own tinct."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle son, Upon the heat and flame of thy distemper Sprinkle cool patience."*

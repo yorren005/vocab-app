@@ -5,15 +5,6 @@ status: unread
 ---
 # tornado
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent destructive whirling wind accompanied by a funnel-shaped cloud that progresses in a narrow path over the land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A squall accompanying a thunderstorm in Africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Right in the center of the tornado stood a small cabin."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Only the infidel sharks in the audacious seas may give ear to such words, when, with tornado brow, and eyes of red murder, and foam-glued lips, Ahab leaped after his prey."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was then that I rushed in like a tornado, wasn’t it?” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent destructive whirling wind accompanied by a funnel-shaped cloud that progresses in a narrow path over the land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A squall accompanying a thunderstorm in Africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Right in the center of the tornado stood a small cabin."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Only the infidel sharks in the audacious seas may give ear to such words, when, with tornado brow, and eyes of red murder, and foam-glued lips, Ahab leaped after his prey."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was then that I rushed in like a tornado, wasn’t it?” Mr."*

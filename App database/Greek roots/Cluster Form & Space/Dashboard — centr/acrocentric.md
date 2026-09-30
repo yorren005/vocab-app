@@ -5,13 +5,6 @@ status: unread
 ---
 # acrocentric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere situated so that one chromosomal arm is much shorter than the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the centromere situated so that one chromosomal arm is much shorter than the other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrocentric designates having the centromere situated so that one chromosomal arm is much shorter than the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere situated so that one chromosomal arm is much shorter than the other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the centromere situated so that one chromosomal arm is much shorter than the other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrocentric designates having the centromere situated so that one chromosomal arm is much shorter than the other."*

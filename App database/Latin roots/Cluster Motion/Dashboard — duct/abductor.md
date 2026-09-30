@@ -5,15 +5,6 @@ status: unread
 ---
 # abductor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who unlawfully seizes and detains a victim (usually for ransom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle that draws a body part away from the median line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Utter a whisper and I’ll murder you!” hissed the abductor, venomously."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Hawksley, cool and collected, began slowly searching the two chambers, in hope of finding some clue to the real object of the abductor."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"The abductor seemed striking for the broad, unsettled prairie."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who unlawfully seizes and detains a victim (usually for ransom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle that draws a body part away from the median line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Utter a whisper and I’ll murder you!” hissed the abductor, venomously."*
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Hawksley, cool and collected, began slowly searching the two chambers, in hope of finding some clue to the real object of the abductor."*
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"The abductor seemed striking for the broad, unsettled prairie."*

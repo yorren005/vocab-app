@@ -5,15 +5,6 @@ status: unread
 ---
 # radiant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiating or as if radiating light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiating or as if radiating light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, To hide me from the radiant sun and solace I’ th’ dungeon by a snuff?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The marble pavement closes, he is enter’d His radiant roof."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But virtue, as it never will be mov’d, Though lewdness court it in a shape of heaven; So lust, though to a radiant angel link’d, Will sate itself in a celestial bed And prey on garbage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiating or as if radiating light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiating or as if radiating light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, To hide me from the radiant sun and solace I’ th’ dungeon by a snuff?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The marble pavement closes, he is enter’d His radiant roof."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But virtue, as it never will be mov’d, Though lewdness court it in a shape of heaven; So lust, though to a radiant angel link’d, Will sate itself in a celestial bed And prey on garbage."*

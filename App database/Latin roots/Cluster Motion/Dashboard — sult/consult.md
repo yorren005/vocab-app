@@ -5,15 +5,6 @@ status: unread
 ---
 # consult
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or ask advice from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seek information from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now part them again, lest they consult about the giving up of some more towns in France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s consult together against this greasy knight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good night, good Captain Blunt. [_Exit Blunt._] Come, gentlemen, Let us consult upon tomorrow’s business; Into my tent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or ask advice from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seek information from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now part them again, lest they consult about the giving up of some more towns in France."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s consult together against this greasy knight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good night, good Captain Blunt. [_Exit Blunt._] Come, gentlemen, Let us consult upon tomorrow’s business; Into my tent."*

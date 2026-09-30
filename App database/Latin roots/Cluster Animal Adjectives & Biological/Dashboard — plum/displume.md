@@ -5,13 +5,6 @@ status: unread
 ---
 # displume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip of honors, possessions, or attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip of feathers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, displume designates strip of honors, possessions, or attributes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip of honors, possessions, or attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip of feathers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, displume designates strip of honors, possessions, or attributes."*

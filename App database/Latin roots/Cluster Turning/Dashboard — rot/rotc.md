@@ -5,13 +5,6 @@ status: unread
 ---
 # rotc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A training program to prepare college students to be commissioned officers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A training program to prepare college students to be commissioned officers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotc designates a training program to prepare college students to be commissioned officers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A training program to prepare college students to be commissioned officers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A training program to prepare college students to be commissioned officers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotc designates a training program to prepare college students to be commissioned officers."*

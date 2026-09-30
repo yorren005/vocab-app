@@ -5,15 +5,6 @@ status: unread
 ---
 # disentangled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extricate from entanglement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"And all this the artist had disentangled from a rough block of stone--so vivid was his conception of the goddess, and so sure his hand."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But Ned Land had disentangled the Captain, who, getting up without any wound, went straight to the Indian, quickly cut the cord which held him to his stone, took him in his arms, and, with a sharp blow of his heel, mounted to the surface."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having disentangled his leg, he rose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extricate from entanglement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"And all this the artist had disentangled from a rough block of stone--so vivid was his conception of the goddess, and so sure his hand."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But Ned Land had disentangled the Captain, who, getting up without any wound, went straight to the Indian, quickly cut the cord which held him to his stone, took him in his arms, and, with a sharp blow of his heel, mounted to the surface."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having disentangled his leg, he rose."*

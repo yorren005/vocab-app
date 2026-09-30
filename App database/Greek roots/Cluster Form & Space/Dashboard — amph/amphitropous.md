@@ -5,13 +5,6 @@ status: unread
 ---
 # amphitropous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a plant ovule) partly inverted; turned back 90 degrees on its stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a plant ovule) partly inverted; turned back 90 degrees on its stalk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphitropous designates (of a plant ovule) partly inverted; turned back 90 degrees on its stalk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a plant ovule) partly inverted; turned back 90 degrees on its stalk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a plant ovule) partly inverted; turned back 90 degrees on its stalk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphitropous designates (of a plant ovule) partly inverted; turned back 90 degrees on its stalk."*

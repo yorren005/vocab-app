@@ -5,15 +5,6 @@ status: unread
 ---
 # miserliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of generosity with money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total lack of generosity with money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He is vulnerable to reason there—always a few grains of common-sense in an ounce of miserliness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Miserliness is a capital quality to run in families; it’s the safe side for madness to dip on."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Does economic theory throw any light on the ethics of miserliness? 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of generosity with money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total lack of generosity with money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He is vulnerable to reason there—always a few grains of common-sense in an ounce of miserliness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Miserliness is a capital quality to run in families; it’s the safe side for madness to dip on."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Does economic theory throw any light on the ethics of miserliness? 4."*

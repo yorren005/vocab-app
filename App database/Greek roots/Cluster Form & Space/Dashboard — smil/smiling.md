@@ -5,15 +5,6 @@ status: unread
 ---
 # smiling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change one's facial expression by spreading the lips, often to signal pleasure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On each side her Stood pretty dimpled boys, like smiling Cupids, With divers-coloured fans, whose wind did seem To glow the delicate cheeks which they did cool, And what they undid did."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O infinite virtue, com’st thou smiling from The world’s great snare uncaught?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman gods Lead their successes as we wish our own, That both our powers, with smiling fronts encount’ring, May give you thankful sacrifice!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change one's facial expression by spreading the lips, often to signal pleasure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On each side her Stood pretty dimpled boys, like smiling Cupids, With divers-coloured fans, whose wind did seem To glow the delicate cheeks which they did cool, And what they undid did."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O infinite virtue, com’st thou smiling from The world’s great snare uncaught?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman gods Lead their successes as we wish our own, That both our powers, with smiling fronts encount’ring, May give you thankful sacrifice!"*

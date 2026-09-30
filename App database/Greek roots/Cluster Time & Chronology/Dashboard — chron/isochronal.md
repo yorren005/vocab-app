@@ -5,13 +5,6 @@ status: unread
 ---
 # isochronal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal in duration or interval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equal in duration or interval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochronal designates equal in duration or interval."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal in duration or interval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equal in duration or interval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochronal designates equal in duration or interval."*

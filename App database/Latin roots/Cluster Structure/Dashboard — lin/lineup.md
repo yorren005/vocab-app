@@ -5,14 +5,6 @@ status: unread
 ---
 # lineup
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a list of batters in the order in which they will bat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of persons arranged by police for inspection or identification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One of the men in the lineup, third from the head, shifted his gaze from the officer to the guards and back again."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We managed to get in the lineup and made it." Narval glanced at the monitor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a list of batters in the order in which they will bat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of persons arranged by police for inspection or identification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One of the men in the lineup, third from the head, shifted his gaze from the officer to the guards and back again."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We managed to get in the lineup and made it." Narval glanced at the monitor."*

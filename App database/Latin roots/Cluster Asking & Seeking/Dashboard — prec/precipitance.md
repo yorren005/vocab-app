@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of happening with headlong haste or without warning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening with headlong haste or without warning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that with cords, knives, drams, precipitance, Weary of this world’s light, have to themselves Been death’s most horrid agents, human grace Affords them dust and shadow."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"At least, therefore, I did not assume the character of needless precipitance merely to show off before the ladies.” “I daresay you believed it; but I am by no means convinced that you would be gone with such celerity."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A little over-precipitance may ruin all.” “And now?” I asked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of happening with headlong haste or without warning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening with headlong haste or without warning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that with cords, knives, drams, precipitance, Weary of this world’s light, have to themselves Been death’s most horrid agents, human grace Affords them dust and shadow."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"At least, therefore, I did not assume the character of needless precipitance merely to show off before the ladies.” “I daresay you believed it; but I am by no means convinced that you would be gone with such celerity."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A little over-precipitance may ruin all.” “And now?” I asked."*

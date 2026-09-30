@@ -5,15 +5,6 @@ status: unread
 ---
 # hospitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Favorable to life and growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to treat guests and strangers with cordiality and generosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I find him, were it At home, upon my brother’s guard, even there, Against the hospitable canon, would I Wash my fierce hand in’s heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your host: With robber’s hands my hospitable favours You should not ruffle thus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favorable to life and growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to treat guests and strangers with cordiality and generosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I find him, were it At home, upon my brother’s guard, even there, Against the hospitable canon, would I Wash my fierce hand in’s heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your host: With robber’s hands my hospitable favours You should not ruffle thus."*

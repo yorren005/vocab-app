@@ -5,13 +5,6 @@ status: unread
 ---
 # hypostatize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute real identity to (a concept).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attribute real identity to (a concept).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatize designates to attribute real identity to (a concept)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute real identity to (a concept).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attribute real identity to (a concept).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatize designates to attribute real identity to (a concept)."*

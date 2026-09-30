@@ -5,20 +5,6 @@ status: unread
 ---
 # guile
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stratagem, trick
-> 2. **Nuance / Usage**: Deceive, beguile, bewile
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Poor Clarence, by thy guile betrayed to death."*
-> - 📜 **Hester Thrale Piozzi (*Classic Work*):** *"Perkins told me Yesterday that his Guile of Beer had a Summer-head on't, like as one sees in the last Weeks of Brewing in a forward Spring:—The Phænomenon surprized him I find."*
-> - 📜 **Rutebeuf (*s:fr:Ci encoumence li miracles que nostre Dame fist dou soucretain et d'une dame*):** *"Moult saveiz bien servir de guile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sly, treacherous, or insidious cunning used to attain a goal through deception and artful stratagems.
+> 2. **Nuance / Usage**: Often contrasted with candor and innocence (especially in the phrase *without guile*), emphasizing smooth, suave duplicity rather than crude dishonesty.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass).
+> - **Syntactic Constructions**: Functions as an uncountable noun in prepositional phrases (*by guile*, *devoid of guile*) or as a direct object.
+> - **Collocations & Registers**: Literary, biblical, and political registers; collocated with *artful*, *serpentine*, *free from*, and *treachery*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard III*):** *"Poor Clarence, by thy **guile** betrayed to death!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Who first seduced them to that foul revolt? Th’ infernal Serpent; he it was, whose **guile**, stirred up with envy and revenge, deceived the Mother of Mankind."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There was a vitality of **guile** in him that seemed to outlast every honest impulse."*

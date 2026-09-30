@@ -5,15 +5,6 @@ status: unread
 ---
 # seducer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bad person who entices others into error or wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who takes advantage of women.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grant it me, O king, in you it best lies; otherwise a seducer flourishes, and a poor maid is undone._ DIANA CAPILET."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The three o’clock sun shone full upon him, and the strange enervating conviction that her seducer confronted her, which had been gaining ground in Tess ever since she had heard his words distinctly, was at last established as a fact indeed."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But poetry sinned, poetry fell; and, in place of lovingly reclaiming her, Catholicism cast her from the door to follow the feet of her pagan seducer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bad person who entices others into error or wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who takes advantage of women.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grant it me, O king, in you it best lies; otherwise a seducer flourishes, and a poor maid is undone._ DIANA CAPILET."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The three o’clock sun shone full upon him, and the strange enervating conviction that her seducer confronted her, which had been gaining ground in Tess ever since she had heard his words distinctly, was at last established as a fact indeed."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But poetry sinned, poetry fell; and, in place of lovingly reclaiming her, Catholicism cast her from the door to follow the feet of her pagan seducer."*

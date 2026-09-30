@@ -5,13 +5,6 @@ status: unread
 ---
 # transgender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving a partial or full reversal of gender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving a partial or full reversal of gender.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transgender designates involving a partial or full reversal of gender."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving a partial or full reversal of gender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving a partial or full reversal of gender.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transgender designates involving a partial or full reversal of gender."*

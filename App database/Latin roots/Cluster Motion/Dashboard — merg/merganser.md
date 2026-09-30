@@ -5,13 +5,6 @@ status: unread
 ---
 # merganser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large crested fish-eating diving duck having a slender hooked bill with serrated edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large crested fish-eating diving duck having a slender hooked bill with serrated edges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merganser designates large crested fish-eating diving duck having a slender hooked bill with serrated edges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large crested fish-eating diving duck having a slender hooked bill with serrated edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large crested fish-eating diving duck having a slender hooked bill with serrated edges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merganser designates large crested fish-eating diving duck having a slender hooked bill with serrated edges."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # basidium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidium designates a structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidium designates a structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores."*

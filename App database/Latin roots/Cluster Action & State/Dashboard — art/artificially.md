@@ -5,15 +5,6 @@ status: unread
 ---
 # artificially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not according to nature; not by natural means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not according to nature; not by natural means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Apparently he had some time ago reached that entrance to middle age at which a man’s aspect naturally ceases to alter for the term of a dozen years or so; and, artificially, a woman’s does likewise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not according to nature; not by natural means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not according to nature; not by natural means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Apparently he had some time ago reached that entrance to middle age at which a man’s aspect naturally ceases to alter for the term of a dozen years or so; and, artificially, a woman’s does likewise."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # circassian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the sunni muslim people living in northwestern caucasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mostly sunni muslim community living in northwestern caucasia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hemp is a dusky, dark fellow, a sort of Indian; but Manilla is as a golden-haired Circassian to behold."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He doffed his Circassian cap to his master and looked at him scornfully."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An hussar was Natásha, and a Circassian was Sónya with burnt-cork mustache and eyebrows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the sunni muslim people living in northwestern caucasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mostly sunni muslim community living in northwestern caucasia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hemp is a dusky, dark fellow, a sort of Indian; but Manilla is as a golden-haired Circassian to behold."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He doffed his Circassian cap to his master and looked at him scornfully."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An hussar was Natásha, and a Circassian was Sónya with burnt-cork mustache and eyebrows."*

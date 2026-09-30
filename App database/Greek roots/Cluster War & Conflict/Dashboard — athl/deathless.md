@@ -5,15 +5,6 @@ status: unread
 ---
 # deathless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Never dying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never dying.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forty long years of persecution followed, for Chong Mong-ju’s hatred of the Lady Om and me was deathless."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am little better than a devil at this moment; and, as my pastor there would tell me, deserve no doubt the sternest judgments of God, even to the quenchless fire and deathless worm."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My senses wad be in a creel, Should I but dare a hope to speel Wi’ Allan, or wi’ Gilbertfield, The braes o’ fame; Or Fergusson, the writer-chiel, A deathless name. (O Fergusson! thy glorious parts Ill suited law’s dry, musty arts!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Never dying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never dying.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forty long years of persecution followed, for Chong Mong-ju’s hatred of the Lady Om and me was deathless."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am little better than a devil at this moment; and, as my pastor there would tell me, deserve no doubt the sternest judgments of God, even to the quenchless fire and deathless worm."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My senses wad be in a creel, Should I but dare a hope to speel Wi’ Allan, or wi’ Gilbertfield, The braes o’ fame; Or Fergusson, the writer-chiel, A deathless name. (O Fergusson! thy glorious parts Ill suited law’s dry, musty arts!"*

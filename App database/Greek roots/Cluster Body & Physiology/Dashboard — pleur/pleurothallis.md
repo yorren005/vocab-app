@@ -5,13 +5,6 @@ status: unread
 ---
 # pleurothallis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurothallis designates any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurothallis designates any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers."*

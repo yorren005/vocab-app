@@ -5,13 +5,6 @@ status: unread
 ---
 # pachydermatous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally hardened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally hardened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*

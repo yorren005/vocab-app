@@ -5,13 +5,6 @@ status: unread
 ---
 # malapropism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unintentional misuse of a word by confusion with one that sounds similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unintentional misuse of a word by confusion with one that sounds similar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malapropism designates the unintentional misuse of a word by confusion with one that sounds similar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unintentional misuse of a word by confusion with one that sounds similar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unintentional misuse of a word by confusion with one that sounds similar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malapropism designates the unintentional misuse of a word by confusion with one that sounds similar."*

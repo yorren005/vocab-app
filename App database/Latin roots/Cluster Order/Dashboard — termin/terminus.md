@@ -5,15 +5,6 @@ status: unread
 ---
 # terminus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where something ends or is complete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ultimate goal for which something is done.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Of that day, doomed to be her terminus in time through all the ages, she did not know the place in month, week, season or year."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The place had built itself up as simply the temporary terminus of the Pacific Railroad."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It can now be reached by wagoning fifty miles or so beyond the terminus of the A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where something ends or is complete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ultimate goal for which something is done.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Of that day, doomed to be her terminus in time through all the ages, she did not know the place in month, week, season or year."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The place had built itself up as simply the temporary terminus of the Pacific Railroad."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"It can now be reached by wagoning fifty miles or so beyond the terminus of the A."*

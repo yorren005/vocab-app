@@ -5,13 +5,6 @@ status: unread
 ---
 # tonne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equivalent to 1000 kilograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of weight equivalent to 1000 kilograms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonne designates a unit of weight equivalent to 1000 kilograms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equivalent to 1000 kilograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of weight equivalent to 1000 kilograms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonne designates a unit of weight equivalent to 1000 kilograms."*

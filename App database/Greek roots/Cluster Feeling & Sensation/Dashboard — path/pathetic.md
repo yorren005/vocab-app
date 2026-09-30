@@ -5,15 +5,6 @@ status: unread
 ---
 # pathetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a capacity to move one to either compassionate or contemptuous pity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by sorrow or melancholy : sad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole was left alone all this time and entertained himself by playing snatches of pathetic airs and sometimes singing to them (as we heard at a distance) with great expression and feeling."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby repeats the word with pathetic emphasis—“in the court."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a capacity to move one to either compassionate or contemptuous pity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by sorrow or melancholy : sad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole was left alone all this time and entertained himself by playing snatches of pathetic airs and sometimes singing to them (as we heard at a distance) with great expression and feeling."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby repeats the word with pathetic emphasis—“in the court."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*

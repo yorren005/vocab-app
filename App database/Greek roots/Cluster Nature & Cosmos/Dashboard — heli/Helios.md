@@ -5,13 +5,6 @@ status: unread
 ---
 # helios
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) ancient god of the sun; drove his chariot across the sky each day; identified with roman sol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) ancient god of the sun; drove his chariot across the sky each day; identified with roman sol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This well-known, beautiful, and deeply affecting head, which bears a strong resemblance to the Alexander Helios of the Capitol --especially in the treatment of the hair--has been called by Ottfried Mueller a riddle of archaeology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) ancient god of the sun; drove his chariot across the sky each day; identified with roman sol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) ancient god of the sun; drove his chariot across the sky each day; identified with roman sol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This well-known, beautiful, and deeply affecting head, which bears a strong resemblance to the Alexander Helios of the Capitol --especially in the treatment of the hair--has been called by Ottfried Mueller a riddle of archaeology."*

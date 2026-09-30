@@ -5,20 +5,6 @@ status: unread
 ---
 # blurt
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Abrupt outburst
-> 2. **Nuance / Usage**: (uncommon, informal) to spurt
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to blurt the target*) and intransitive clauses (*blurting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Pericles*):** *"Whilst ours was blurted at and held a malkin / Not worth the time of day."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"The case is this: you ought to have thought the matter over and taken advice; but no, you go and blurt it all straight out before the officers."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I felt quite excited over it, and blurted out: 'Why, this beats even shorthand!'"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Abrupt outburst
+> 2. **Nuance / Usage**: (uncommon, informal) to spurt
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to blurt the target*) and intransitive clauses (*blurting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Pericles*):** *"Whilst ours was blurted at and held a malkin / Not worth the time of day."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The case is this: you ought to have thought the matter over and taken advice; but no, you go and blurt it all straight out before the officers."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I felt quite excited over it, and blurted out: 'Why, this beats even shorthand!'"*

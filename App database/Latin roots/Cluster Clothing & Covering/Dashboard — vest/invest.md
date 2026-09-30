@@ -5,15 +5,6 @@ status: unread
 ---
 # invest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an investment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give qualities or abilities to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou so hunger for mine empty chair That thou wilt needs invest thee with my honours Before thy hour be ripe?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis the cunning livery of hell The damned’st body to invest and cover In precise guards!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an investment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give qualities or abilities to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou so hunger for mine empty chair That thou wilt needs invest thee with my honours Before thy hour be ripe?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis the cunning livery of hell The damned’st body to invest and cover In precise guards!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # politeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A courteous manner that respects accepted social usage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of showing regard for others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Out of pure politeness she answered a question somebody asked her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t think we knew what it was either, but this is what our politeness expressed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady alights so quickly and walks away so quickly that Sir Leicester, for all his scrupulous politeness, is unable to assist her, and is left behind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A courteous manner that respects accepted social usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of showing regard for others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Out of pure politeness she answered a question somebody asked her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t think we knew what it was either, but this is what our politeness expressed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady alights so quickly and walks away so quickly that Sir Leicester, for all his scrupulous politeness, is unable to assist her, and is left behind."*

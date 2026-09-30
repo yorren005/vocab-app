@@ -5,13 +5,6 @@ status: unread
 ---
 # auricle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small conical pouch projecting from the upper anterior part of each atrium of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The externally visible cartilaginous structure of the external ear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auricle designates a small conical pouch projecting from the upper anterior part of each atrium of the heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small conical pouch projecting from the upper anterior part of each atrium of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The externally visible cartilaginous structure of the external ear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auricle designates a small conical pouch projecting from the upper anterior part of each atrium of the heart."*

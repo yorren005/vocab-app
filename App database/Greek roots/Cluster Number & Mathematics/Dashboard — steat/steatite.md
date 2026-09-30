@@ -5,14 +5,6 @@ status: unread
 ---
 # steatite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft heavy compact variety of talc having a soapy feel; used to make hearths and tabletops and ornaments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft heavy compact variety of talc having a soapy feel; used to make hearths and tabletops and ornaments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And here, yielding to an irresistible impulse, I wrote my name upon the nose of a steatite monster from South America that particularly took my fancy."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Moreover, there were 'millet coloured' (_mi sê_) and pale green (_fên ch´ing_) kinds.[229] The potters used _hua shih_ (steatite) in the glaze, and the crackle was in running lines, like a broken thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft heavy compact variety of talc having a soapy feel; used to make hearths and tabletops and ornaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft heavy compact variety of talc having a soapy feel; used to make hearths and tabletops and ornaments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"And here, yielding to an irresistible impulse, I wrote my name upon the nose of a steatite monster from South America that particularly took my fancy."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Moreover, there were 'millet coloured' (_mi sê_) and pale green (_fên ch´ing_) kinds.[229] The potters used _hua shih_ (steatite) in the glaze, and the crackle was in running lines, like a broken thing."*

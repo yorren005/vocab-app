@@ -5,13 +5,6 @@ status: unread
 ---
 # melanin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanin designates any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanin designates any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin."*

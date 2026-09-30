@@ -5,13 +5,6 @@ status: unread
 ---
 # hemipteron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipteron designates insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipteron designates insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis."*

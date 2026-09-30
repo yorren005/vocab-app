@@ -5,13 +5,6 @@ status: unread
 ---
 # armillaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillaria designates genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillaria designates genus of edible mushrooms having white spores an annulus and blue juice; some are edible; some cause root rot."*

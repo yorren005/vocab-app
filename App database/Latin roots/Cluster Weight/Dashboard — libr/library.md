@@ -5,15 +5,6 @@ status: unread
 ---
 # library
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room where books are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of literary documents or records kept for reference or borrowing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come and take choice of all my library, And so beguile thy sorrow, till the heavens Reveal the damned contriver of this deed."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"This text is "an unabridged and unaltered republication of the Bohn Library edition originally published by George Bell and Sons in 1883." 3."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From these you came on Richard’s room, which was part library, part sitting-room, part bedroom, and seemed indeed a comfortable compound of many rooms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room where books are kept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of literary documents or records kept for reference or borrowing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come and take choice of all my library, And so beguile thy sorrow, till the heavens Reveal the damned contriver of this deed."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"This text is "an unabridged and unaltered republication of the Bohn Library edition originally published by George Bell and Sons in 1883." 3."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"From these you came on Richard’s room, which was part library, part sitting-room, part bedroom, and seemed indeed a comfortable compound of many rooms."*

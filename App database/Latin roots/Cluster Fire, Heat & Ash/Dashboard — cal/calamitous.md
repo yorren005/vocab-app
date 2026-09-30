@@ -5,15 +5,6 @@ status: unread
 ---
 # calamitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The populations of many rural neighborhoods thus became heterogeneous, with results calamitous to the social life."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode is anxious for her niece, and I myself should grieve at a calamitous change in your position."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The internal effects of a mutable policy are still more calamitous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The populations of many rural neighborhoods thus became heterogeneous, with results calamitous to the social life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode is anxious for her niece, and I myself should grieve at a calamitous change in your position."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The internal effects of a mutable policy are still more calamitous."*

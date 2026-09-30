@@ -5,13 +5,6 @@ status: unread
 ---
 # phototherapy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of strong light to treat acne or hyperbilirubinemia of the newborn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of strong light to treat acne or hyperbilirubinemia of the newborn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototherapy designates the use of strong light to treat acne or hyperbilirubinemia of the newborn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of strong light to treat acne or hyperbilirubinemia of the newborn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of strong light to treat acne or hyperbilirubinemia of the newborn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototherapy designates the use of strong light to treat acne or hyperbilirubinemia of the newborn."*

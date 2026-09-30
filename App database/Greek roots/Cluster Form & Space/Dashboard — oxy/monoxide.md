@@ -5,14 +5,6 @@ status: unread
 ---
 # monoxide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing one atom of oxygen in a molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless odorless very toxic gas CO that is formed as a product of the incomplete combustion of carbon or a carbon compound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The ordinary iron furnaces belch forth flames which are really good useful gas (carbon monoxide) burning to waste."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Others, in byways and sheltered corners, escaping the burning cloud of flame, are poisoned by the deadly fumes of carbon monoxide which it leaves when its force is spent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing one atom of oxygen in a molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless odorless very toxic gas CO that is formed as a product of the incomplete combustion of carbon or a carbon compound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The ordinary iron furnaces belch forth flames which are really good useful gas (carbon monoxide) burning to waste."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Others, in byways and sheltered corners, escaping the burning cloud of flame, are poisoned by the deadly fumes of carbon monoxide which it leaves when its force is spent."*

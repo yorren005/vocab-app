@@ -5,15 +5,6 @@ status: unread
 ---
 # confidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from doubt; belief in yourself and your abilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of trust (in someone or something).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon thy certainty and confidence What dar’st thou venture?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is their god; he leads them like a thing Made by some other deity than Nature, That shapes man better; and they follow him Against us brats with no less confidence Than boys pursuing summer butterflies Or butchers killing flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I make my wager rather against your confidence than her reputation; and, to bar your offence herein too, I durst attempt it against any lady in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from doubt; belief in yourself and your abilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of trust (in someone or something).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon thy certainty and confidence What dar’st thou venture?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is their god; he leads them like a thing Made by some other deity than Nature, That shapes man better; and they follow him Against us brats with no less confidence Than boys pursuing summer butterflies Or butchers killing flies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I make my wager rather against your confidence than her reputation; and, to bar your offence herein too, I durst attempt it against any lady in the world."*

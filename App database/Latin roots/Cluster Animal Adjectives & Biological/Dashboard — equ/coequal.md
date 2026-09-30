@@ -5,15 +5,6 @@ status: unread
 ---
 # coequal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same standing before the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same standing before the law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The union is composed of seven coequal and sovereign states, and each state or province is a composition of equal and independent cities."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This, I contend, is manifestly a concurrent and coequal authority in the United States and in the individual States."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Senate, on the other hand, will derive its powers from the States, as political and coequal societies; and these will be represented on the principle of equality in the Senate, as they now are in the existing Congress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same standing before the law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same standing before the law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The union is composed of seven coequal and sovereign states, and each state or province is a composition of equal and independent cities."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This, I contend, is manifestly a concurrent and coequal authority in the United States and in the individual States."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Senate, on the other hand, will derive its powers from the States, as political and coequal societies; and these will be represented on the principle of equality in the Senate, as they now are in the existing Congress."*

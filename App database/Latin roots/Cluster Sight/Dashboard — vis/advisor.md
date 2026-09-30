@@ -5,15 +5,6 @@ status: unread
 ---
 # advisor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His eyes moved from one advisor to the other."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Well, as my diplomatic affairs advisor, Drummer, what did you make of it?" "My feeling is that Camari is willing to meet us halfway to resolve differences between the Regions." "You do, eh?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To those who do not recognize me, I am Deke Drummer, formerly an advisor to Reen Narval and, also formerly the Commander of the INOR Combined Fleet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His eyes moved from one advisor to the other."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Well, as my diplomatic affairs advisor, Drummer, what did you make of it?" "My feeling is that Camari is willing to meet us halfway to resolve differences between the Regions." "You do, eh?"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To those who do not recognize me, I am Deke Drummer, formerly an advisor to Reen Narval and, also formerly the Commander of the INOR Combined Fleet."*

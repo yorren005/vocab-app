@@ -5,15 +5,6 @@ status: unread
 ---
 # conductress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman conductor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman conductor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As a conductress of Indian schools, and a helper amongst Indian women, your assistance will be to me invaluable.” My iron shroud contracted round me; persuasion advanced with slow sure step."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My young conductress locked the gate, and we went across the courtyard."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond met her in the cold ante-chamber--it was cold even in the month of May--and ushered her, with her conductress, into the apartment to which we have already been introduced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman conductor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman conductor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As a conductress of Indian schools, and a helper amongst Indian women, your assistance will be to me invaluable.” My iron shroud contracted round me; persuasion advanced with slow sure step."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My young conductress locked the gate, and we went across the courtyard."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond met her in the cold ante-chamber--it was cold even in the month of May--and ushered her, with her conductress, into the apartment to which we have already been introduced."*

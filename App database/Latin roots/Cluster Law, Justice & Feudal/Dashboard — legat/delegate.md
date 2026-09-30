@@ -5,15 +5,6 @@ status: unread
 ---
 # delegate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed or elected to represent others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer power to someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Then, there are wifely duties which you would not wish to delegate to any one else." "No, never!" she cried."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A government, the constitution of which renders it unfit to be trusted with all the powers which a free people OUGHT TO DELEGATE TO ANY GOVERNMENT, would be an unsafe and improper depositary of the NATIONAL INTERESTS."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hoge, was again a Delegate, and in relating the results of her now very large experience, helped greatly the beneficial results of the Council, and harmonized all the views and action of the various branches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed or elected to represent others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer power to someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Then, there are wifely duties which you would not wish to delegate to any one else." "No, never!" she cried."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A government, the constitution of which renders it unfit to be trusted with all the powers which a free people OUGHT TO DELEGATE TO ANY GOVERNMENT, would be an unsafe and improper depositary of the NATIONAL INTERESTS."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hoge, was again a Delegate, and in relating the results of her now very large experience, helped greatly the beneficial results of the Council, and harmonized all the views and action of the various branches."*

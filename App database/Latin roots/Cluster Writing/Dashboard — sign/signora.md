@@ -5,13 +5,6 @@ status: unread
 ---
 # signora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian title of address equivalent to mrs. when used before a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title or form of address for a married woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I sought my ideal of a woman amongst English ladies, French countesses, Italian signoras, and German gräfinnen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian title of address equivalent to mrs. when used before a name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title or form of address for a married woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I sought my ideal of a woman amongst English ladies, French countesses, Italian signoras, and German gräfinnen."*

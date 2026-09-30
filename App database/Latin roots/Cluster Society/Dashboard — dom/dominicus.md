@@ -5,15 +5,6 @@ status: unread
 ---
 # dominicus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: First day of the week; observed as a day of rest and worship by most christians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: First day of the week; observed as a day of rest and worship by most christians.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"After an early breakfast at Morristown, the tobacco pedlar, whose name was Dominicus Pike, had travelled seven miles through a solitary piece of woods, without speaking a word to anybody but himself and his little gray mare."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Dominicus watched him as he descended, and noticed that he carried a bundle over his shoulder on the end of a stick, and travelled with a weary, yet determined pace."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Good morning, mister," said Dominicus, when within speaking distance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: First day of the week; observed as a day of rest and worship by most christians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: First day of the week; observed as a day of rest and worship by most christians.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"After an early breakfast at Morristown, the tobacco pedlar, whose name was Dominicus Pike, had travelled seven miles through a solitary piece of woods, without speaking a word to anybody but himself and his little gray mare."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Dominicus watched him as he descended, and noticed that he carried a bundle over his shoulder on the end of a stick, and travelled with a weary, yet determined pace."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Good morning, mister," said Dominicus, when within speaking distance."*

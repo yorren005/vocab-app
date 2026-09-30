@@ -5,13 +5,6 @@ status: unread
 ---
 # porcine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggesting swine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repellently fat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcine designates relating to or suggesting swine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggesting swine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repellently fat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcine designates relating to or suggesting swine."*

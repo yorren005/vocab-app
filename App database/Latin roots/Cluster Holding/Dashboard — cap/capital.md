@@ -5,15 +5,6 @@ status: unread
 ---
 # capital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets available for use in the production of further assets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth in the form of money or property owned by a person or business and human resources of economic value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to poor we Thine enmity’s most capital."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a brute part of him to kill so capital a calf there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets available for use in the production of further assets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth in the form of money or property owned by a person or business and human resources of economic value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to poor we Thine enmity’s most capital."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a brute part of him to kill so capital a calf there."*

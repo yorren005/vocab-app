@@ -5,15 +5,6 @@ status: unread
 ---
 # epoch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event or a time marked by an event that begins a new period or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A memorable event or date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was this undertaking of the initiative by the government, the treatment of the problem as one of the general welfare, that marked a new epoch in this field."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The great epoch of the formation of combinations[15] followed the enactment of this law."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The entrance of the Grants and Crawfords was a favourable epoch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event or a time marked by an event that begins a new period or development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A memorable event or date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was this undertaking of the initiative by the government, the treatment of the problem as one of the general welfare, that marked a new epoch in this field."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The great epoch of the formation of combinations[15] followed the enactment of this law."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The entrance of the Grants and Crawfords was a favourable epoch."*

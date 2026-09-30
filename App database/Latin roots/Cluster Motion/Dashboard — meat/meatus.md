@@ -5,13 +5,6 @@ status: unread
 ---
 # meatus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural body passageway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural body passageway.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatus designates a natural body passageway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural body passageway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural body passageway.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatus designates a natural body passageway."*

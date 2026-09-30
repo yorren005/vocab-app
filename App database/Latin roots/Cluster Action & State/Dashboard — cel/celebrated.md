@@ -5,15 +5,6 @@ status: unread
 ---
 # celebrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave as expected during of holidays or rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a celebration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heaven sets spies upon us, will not have Our contract celebrated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is celebrated almost everywhere for his deportment.” “Does he teach?” asked Ada."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My father,” said the son, aside, to me with quite an affecting belief in him, “is a celebrated character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave as expected during of holidays or rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a celebration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heaven sets spies upon us, will not have Our contract celebrated."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is celebrated almost everywhere for his deportment.” “Does he teach?” asked Ada."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My father,” said the son, aside, to me with quite an affecting belief in him, “is a celebrated character."*

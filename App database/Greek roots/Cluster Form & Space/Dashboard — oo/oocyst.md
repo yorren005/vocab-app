@@ -5,13 +5,6 @@ status: unread
 ---
 # oocyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Zygote; specifically : a sporozoan zygote undergoing sporogenous development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Zygote; specifically : a sporozoan zygote undergoing sporogenous development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oocyst designates zygote; specifically : a sporozoan zygote undergoing sporogenous development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Zygote; specifically : a sporozoan zygote undergoing sporogenous development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Zygote; specifically : a sporozoan zygote undergoing sporogenous development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oocyst designates zygote; specifically : a sporozoan zygote undergoing sporogenous development."*

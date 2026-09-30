@@ -5,13 +5,6 @@ status: unread
 ---
 # nonunion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to or not allowing affiliation with a trade union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not belonging to or not allowing affiliation with a trade union.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonunion designates not belonging to or not allowing affiliation with a trade union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to or not allowing affiliation with a trade union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not belonging to or not allowing affiliation with a trade union.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonunion designates not belonging to or not allowing affiliation with a trade union."*

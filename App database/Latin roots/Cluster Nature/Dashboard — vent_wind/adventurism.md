@@ -5,13 +5,6 @@ status: unread
 ---
 # adventurism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recklessness in politics or foreign affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessness in politics or foreign affairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventurism designates recklessness in politics or foreign affairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recklessness in politics or foreign affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessness in politics or foreign affairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventurism designates recklessness in politics or foreign affairs."*

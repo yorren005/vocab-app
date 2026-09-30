@@ -5,13 +5,6 @@ status: unread
 ---
 # magneto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magneto designates a small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magneto designates a small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine."*

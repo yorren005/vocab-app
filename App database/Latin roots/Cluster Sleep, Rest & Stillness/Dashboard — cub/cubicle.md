@@ -5,15 +5,6 @@ status: unread
 ---
 # cubicle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small room in which a monk or nun lives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small individual study area in a library.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bank of screens shut down as he stepped across the doorway of the cubicle that served him as both command post and sleeping quarters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad and his companions had been secretly transferred beforehand to a cubicle adjacent access to the catwalk."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Myra and Brad stomped into a sleeping cubicle and heaved the sleeping pads first one way, then the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small room in which a monk or nun lives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small individual study area in a library.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bank of screens shut down as he stepped across the doorway of the cubicle that served him as both command post and sleeping quarters."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad and his companions had been secretly transferred beforehand to a cubicle adjacent access to the catwalk."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Myra and Brad stomped into a sleeping cubicle and heaved the sleeping pads first one way, then the other."*

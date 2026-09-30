@@ -5,13 +5,6 @@ status: unread
 ---
 # equaliser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that reduces frequency distortion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weight that balances another weight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equaliser designates electronic equipment that reduces frequency distortion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that reduces frequency distortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weight that balances another weight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equaliser designates electronic equipment that reduces frequency distortion."*

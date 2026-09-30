@@ -5,13 +5,6 @@ status: unread
 ---
 # nonfigurative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representing or imitating external reality or the objects of nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not representing or imitating external reality or the objects of nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfigurative designates not representing or imitating external reality or the objects of nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representing or imitating external reality or the objects of nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not representing or imitating external reality or the objects of nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfigurative designates not representing or imitating external reality or the objects of nature."*

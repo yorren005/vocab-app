@@ -5,13 +5,6 @@ status: unread
 ---
 # epithelium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A membranous cellular tissue that covers a free surface or lines a tube or cavity of an animal body and serves especially to enclose and protect the other parts of the body, to produce secretions and excretions, and to function in assimilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually thin layer of parenchyma that lines a cavity or tube of a plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithelium designates a membranous cellular tissue that covers a free surface or lines a tube or cavity of an animal body and serves especially to enclose and protect the other parts of the body, to produce secretions and excretions, and to function in assimilation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membranous cellular tissue that covers a free surface or lines a tube or cavity of an animal body and serves especially to enclose and protect the other parts of the body, to produce secretions and excretions, and to function in assimilation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually thin layer of parenchyma that lines a cavity or tube of a plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithelium designates a membranous cellular tissue that covers a free surface or lines a tube or cavity of an animal body and serves especially to enclose and protect the other parts of the body, to produce secretions and excretions, and to function in assimilation."*

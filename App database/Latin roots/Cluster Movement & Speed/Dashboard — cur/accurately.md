@@ -5,15 +5,6 @@ status: unread
 ---
 # accurately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With few mistakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictly correctly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I can lie down on the grass—in fine weather—and float along an African river, embracing all the natives I meet, as sensible of the deep silence and sketching the dense overhanging tropical growth as accurately as if I were there."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet takes his usual seat, the hands of the clock are very near to half-past four; as they mark it accurately, Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He must learn to know accurately how much of his time that work would take up, before he could venture to spend any of it in other fields."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With few mistakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictly correctly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I can lie down on the grass—in fine weather—and float along an African river, embracing all the natives I meet, as sensible of the deep silence and sketching the dense overhanging tropical growth as accurately as if I were there."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet takes his usual seat, the hands of the clock are very near to half-past four; as they mark it accurately, Mr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He must learn to know accurately how much of his time that work would take up, before he could venture to spend any of it in other fields."*

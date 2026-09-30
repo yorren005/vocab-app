@@ -5,15 +5,6 @@ status: unread
 ---
 # dispensed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a dispensation; grant an exemption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could had dispensed with Coavinses."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The ruling passion!” Although we could have dispensed with the length at which Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are such a favourite of his, Esther.” I expressed myself much obliged to him, but did not think it necessary to add that I readily dispensed with this attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a dispensation; grant an exemption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He could had dispensed with Coavinses."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ruling passion!” Although we could have dispensed with the length at which Mr. and Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You are such a favourite of his, Esther.” I expressed myself much obliged to him, but did not think it necessary to add that I readily dispensed with this attention."*

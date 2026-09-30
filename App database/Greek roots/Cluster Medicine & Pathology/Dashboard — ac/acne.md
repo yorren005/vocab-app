@@ -5,13 +5,6 @@ status: unread
 ---
 # acne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of the skin that is marked by blemishes (such as whiteheads, blackheads, or pustules) especially on the face, chest, and shoulders and is caused by inflammation of sebaceous glands and hair follicles; especially : a form found chiefly in adolescents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic inflammatory skin disorder typically involving the nose, forehead, and chin that is characterized especially by redness, flushing, telangiectasia, inflamed lesions, and burning sensation, and sometimes by eye dryness and irritation and thickening of tissues especially of the nose : rosacea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acne designates a disorder of the skin that is marked by blemishes (such as whiteheads, blackheads, or pustules) especially on the face, chest, and shoulders and is caused by inflammation of sebaceous glands and hair follicles; especially : a form found chiefly in adolescents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of the skin that is marked by blemishes (such as whiteheads, blackheads, or pustules) especially on the face, chest, and shoulders and is caused by inflammation of sebaceous glands and hair follicles; especially : a form found chiefly in adolescents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic inflammatory skin disorder typically involving the nose, forehead, and chin that is characterized especially by redness, flushing, telangiectasia, inflamed lesions, and burning sensation, and sometimes by eye dryness and irritation and thickening of tissues especially of the nose : rosacea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acne designates a disorder of the skin that is marked by blemishes (such as whiteheads, blackheads, or pustules) especially on the face, chest, and shoulders and is caused by inflammation of sebaceous glands and hair follicles; especially : a form found chiefly in adolescents."*

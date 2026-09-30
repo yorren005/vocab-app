@@ -5,15 +5,6 @@ status: unread
 ---
 # unperturbed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Beyond gasping at the sacrilege of the king’s tombs and applauding Chong Mong-ju, Cho-Sen was unperturbed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader in her phaeton, without witnessing any interview that could excite suspicion, or any scene from which she did not return with the same unperturbed keenness of eye and the same high natural color."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mrs Elliott followed, unperturbed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Beyond gasping at the sacrilege of the king’s tombs and applauding Chong Mong-ju, Cho-Sen was unperturbed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader in her phaeton, without witnessing any interview that could excite suspicion, or any scene from which she did not return with the same unperturbed keenness of eye and the same high natural color."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mrs Elliott followed, unperturbed."*

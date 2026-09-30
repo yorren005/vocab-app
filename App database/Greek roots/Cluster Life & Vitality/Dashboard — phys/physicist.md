@@ -5,15 +5,6 @@ status: unread
 ---
 # physicist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist trained in physics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist trained in physics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Did not an immortal physicist and interpreter of hieroglyphs write detestable verses?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Caltech physicist Kip Thorne explores the limits of Einstein's theory of gravity, where spunnels -- or tunnels through space -- lurk. (K."*
-> - 📜 **James Joyce (*Ulysses*):** *"As a physicist he had learned that of the 70 years of complete human life at least 2/7, viz. 20 years are passed in sleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist trained in physics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist trained in physics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Did not an immortal physicist and interpreter of hieroglyphs write detestable verses?"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Caltech physicist Kip Thorne explores the limits of Einstein's theory of gravity, where spunnels -- or tunnels through space -- lurk. (K."*
+> - 📜 **James Joyce (*Ulysses*):** *"As a physicist he had learned that of the 70 years of complete human life at least 2/7, viz. 20 years are passed in sleep."*

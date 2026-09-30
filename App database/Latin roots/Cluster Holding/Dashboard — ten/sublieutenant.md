@@ -5,13 +5,6 @@ status: unread
 ---
 # sublieutenant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer ranking next below a lieutenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer ranking next below a lieutenant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublieutenant designates an officer ranking next below a lieutenant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer ranking next below a lieutenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer ranking next below a lieutenant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublieutenant designates an officer ranking next below a lieutenant."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # patience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good-natured tolerance of delay or incompetence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game played by one person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His confession is taken, and it shall be read to his face; if your lordship be in’t, as I believe you are, you must have the patience to hear it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Good-natured tolerance of delay or incompetence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game played by one person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His confession is taken, and it shall be read to his face; if your lordship be in’t, as I believe you are, you must have the patience to hear it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*

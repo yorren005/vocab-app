@@ -5,13 +5,6 @@ status: unread
 ---
 # indorsement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A promotional statement (as found on the dust jackets of books).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech seconding a motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"The grumblers looked blank and did not open their mouths, and the others joined in a shout of indorsement and approval."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A promotional statement (as found on the dust jackets of books).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech seconding a motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. H. Costello (*Sure-dart*):** *"The grumblers looked blank and did not open their mouths, and the others joined in a shout of indorsement and approval."*

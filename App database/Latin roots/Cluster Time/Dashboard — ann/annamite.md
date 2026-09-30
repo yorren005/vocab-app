@@ -5,13 +5,6 @@ status: unread
 ---
 # annamite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mon-khmer language spoken in vietnam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mon-khmer language spoken in vietnam.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annamite designates the mon-khmer language spoken in vietnam."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mon-khmer language spoken in vietnam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mon-khmer language spoken in vietnam.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annamite designates the mon-khmer language spoken in vietnam."*

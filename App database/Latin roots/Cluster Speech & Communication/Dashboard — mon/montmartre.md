@@ -5,13 +5,6 @@ status: unread
 ---
 # montmartre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point in paris; famous for its associations with many artists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest point in paris; famous for its associations with many artists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Making his day’s stations, the dingy printingcase, his three taverns, the Montmartre lair he sleeps short night in, rue de la Goutte-d’Or, damascened with flyblown faces of the gone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point in paris; famous for its associations with many artists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest point in paris; famous for its associations with many artists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Making his day’s stations, the dingy printingcase, his three taverns, the Montmartre lair he sleeps short night in, rue de la Goutte-d’Or, damascened with flyblown faces of the gone."*

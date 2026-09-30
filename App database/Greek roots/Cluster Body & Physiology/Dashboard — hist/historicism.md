@@ -5,13 +5,6 @@ status: unread
 ---
 # historicism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that social and cultural events are determined by history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theory that social and cultural events are determined by history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historicism designates a theory that social and cultural events are determined by history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that social and cultural events are determined by history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theory that social and cultural events are determined by history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historicism designates a theory that social and cultural events are determined by history."*

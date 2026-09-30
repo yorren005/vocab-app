@@ -5,13 +5,6 @@ status: unread
 ---
 # reduplication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of the final words of a sentence or line at the beginning of the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The syllable added in a reduplicated word form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He secreted mirth on all occasions for special discharge at popular parties—his productions of this class being more noticeably advanced than Coggan’s, inflicting a faint sense of reduplication and similitude upon the elder members of such companies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of the final words of a sentence or line at the beginning of the next.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The syllable added in a reduplicated word form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He secreted mirth on all occasions for special discharge at popular parties—his productions of this class being more noticeably advanced than Coggan’s, inflicting a faint sense of reduplication and similitude upon the elder members of such companies."*

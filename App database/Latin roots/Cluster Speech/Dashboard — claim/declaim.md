@@ -5,15 +5,6 @@ status: unread
 ---
 # declaim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recite in elocution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak against in an impassioned manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It is the humor of many heads to extol the days of their forefathers, and declaim against the wickedness of times present."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ingenious men may declaim with plausibility on any subject; but no human ingenuity can point out any other expedient to rescue us from the inconveniences and embarrassments naturally resulting from defective supplies of the public treasury."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They rarely declaim, and they certainly never reach any high level of thought or feeling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recite in elocution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak against in an impassioned manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It is the humor of many heads to extol the days of their forefathers, and declaim against the wickedness of times present."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ingenious men may declaim with plausibility on any subject; but no human ingenuity can point out any other expedient to rescue us from the inconveniences and embarrassments naturally resulting from defective supplies of the public treasury."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They rarely declaim, and they certainly never reach any high level of thought or feeling."*

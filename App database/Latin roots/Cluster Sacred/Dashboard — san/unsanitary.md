@@ -5,15 +5,6 @@ status: unread
 ---
 # unsanitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanitary or healthful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sanitary or healthful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The narrow streets were an unsanitary scandal of filth and slime."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The friend’s stable had to be reached through a back street where you might as easily have been poisoned without expense of drugs as in any grim street of that unsanitary period."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If the individual chose to live and work in unsuitable places and under unsanitary conditions, it was usually his own fault and he bore the consequences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sanitary or healthful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sanitary or healthful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The narrow streets were an unsanitary scandal of filth and slime."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The friend’s stable had to be reached through a back street where you might as easily have been poisoned without expense of drugs as in any grim street of that unsanitary period."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If the individual chose to live and work in unsuitable places and under unsanitary conditions, it was usually his own fault and he bore the consequences."*

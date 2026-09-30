@@ -5,15 +5,6 @@ status: unread
 ---
 # habitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit for habitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, “a habitable doll’s house with good board and a few tin people to get into debt with and borrow money of would set the boy up in life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I therefore caused such a place to be looked out for, and such a place was found on very easy terms, and I have been touching it up for him and making it habitable."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To suppose that a manuscript of many generations back could have remained undiscovered in a room such as that, so modern, so habitable!—Or that she should be the first to possess the skill of unlocking a cabinet, the key of which was open to all!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit for habitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit for habitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, “a habitable doll’s house with good board and a few tin people to get into debt with and borrow money of would set the boy up in life."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I therefore caused such a place to be looked out for, and such a place was found on very easy terms, and I have been touching it up for him and making it habitable."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"To suppose that a manuscript of many generations back could have remained undiscovered in a room such as that, so modern, so habitable!—Or that she should be the first to possess the skill of unlocking a cabinet, the key of which was open to all!"*

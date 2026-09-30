@@ -5,15 +5,6 @@ status: unread
 ---
 # lenten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or suitable for lent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suitable for lent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To think, my lord, if you delight not in man, what Lenten entertainment the players shall receive from you."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Famenne, a district of Namur, men and cattle who traversed the Lenten fires were thought to be safe from sickness and witchcraft."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The dinner, both the Lenten and the other fare, was splendid, yet he could not feel quite at ease till the end of the meal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or suitable for lent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suitable for lent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To think, my lord, if you delight not in man, what Lenten entertainment the players shall receive from you."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Famenne, a district of Namur, men and cattle who traversed the Lenten fires were thought to be safe from sickness and witchcraft."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The dinner, both the Lenten and the other fare, was splendid, yet he could not feel quite at ease till the end of the meal."*

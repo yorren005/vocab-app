@@ -5,13 +5,6 @@ status: unread
 ---
 # dolichocephalic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively long head with cephalic index of less than 75.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively long head with cephalic index of less than 75.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I had hardly expected so dolichocephalic a skull or such well-marked supra-orbital development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively long head with cephalic index of less than 75.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively long head with cephalic index of less than 75.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I had hardly expected so dolichocephalic a skull or such well-marked supra-orbital development."*

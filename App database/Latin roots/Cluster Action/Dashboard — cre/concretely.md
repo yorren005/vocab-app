@@ -5,15 +5,6 @@ status: unread
 ---
 # concretely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In concrete terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In concrete terms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To put it concretely: America, having great natural resources for agriculture, might continue to trade food for manufactured goods even tho England reaped most of the benefits of the trade."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He remembered, the mood coming back to him as concretely as an action, what he had thought while the old woman had wheedled him with her voice like butter."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To put it concretely: if America, having great natural resources for agriculture, continues to exchange food for manufactures up to the narrowest margin of advantage, England reaps most of the benefits of the trade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In concrete terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In concrete terms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To put it concretely: America, having great natural resources for agriculture, might continue to trade food for manufactured goods even tho England reaped most of the benefits of the trade."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He remembered, the mood coming back to him as concretely as an action, what he had thought while the old woman had wheedled him with her voice like butter."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To put it concretely: if America, having great natural resources for agriculture, continues to exchange food for manufactures up to the narrowest margin of advantage, England reaps most of the benefits of the trade."*

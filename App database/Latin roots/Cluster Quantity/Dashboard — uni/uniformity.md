@@ -5,15 +5,6 @@ status: unread
 ---
 # uniformity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which everything is regular and unvarying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking diversity or variation (even to the point of boredom).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the speckled side of his face he has no eyebrow, and on the other side he has a bushy black one, which want of uniformity gives him a very singular and rather sinister appearance."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Banks of smoke went off horizontally at the back like passing clouds, and behind these burned hidden pyres, illuminating the semi-transparent sheet of smoke to a lustrous yellow uniformity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Having from their youth up been entirely unaccustomed to any liquor stronger than cider or mild ale, it was no wonder that they had succumbed, one and all, with extraordinary uniformity, after the lapse of about an hour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which everything is regular and unvarying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking diversity or variation (even to the point of boredom).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the speckled side of his face he has no eyebrow, and on the other side he has a bushy black one, which want of uniformity gives him a very singular and rather sinister appearance."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Banks of smoke went off horizontally at the back like passing clouds, and behind these burned hidden pyres, illuminating the semi-transparent sheet of smoke to a lustrous yellow uniformity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Having from their youth up been entirely unaccustomed to any liquor stronger than cider or mild ale, it was no wonder that they had succumbed, one and all, with extraordinary uniformity, after the lapse of about an hour."*

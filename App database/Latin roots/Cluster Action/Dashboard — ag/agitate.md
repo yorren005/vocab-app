@@ -5,15 +5,6 @@ status: unread
 ---
 # agitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It won’t much agitate Ma; I am only pen and ink to HER."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not to agitate and hinder her longer, the considerate Clare began talking in a more general way: “You quite misapprehend my parents."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But we have had a difference—” “Angel—is she a young woman whose history will bear investigation?” With a mother’s instinct Mrs Clare had put her finger on the kind of trouble that would cause such a disquiet as seemed to agitate her son."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It won’t much agitate Ma; I am only pen and ink to HER."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not to agitate and hinder her longer, the considerate Clare began talking in a more general way: “You quite misapprehend my parents."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But we have had a difference—” “Angel—is she a young woman whose history will bear investigation?” With a mother’s instinct Mrs Clare had put her finger on the kind of trouble that would cause such a disquiet as seemed to agitate her son."*

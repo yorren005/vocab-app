@@ -5,13 +5,6 @@ status: unread
 ---
 # devilise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into a devil or make devilish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a devil or make devilish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devilise designates turn into a devil or make devilish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into a devil or make devilish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a devil or make devilish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devilise designates turn into a devil or make devilish."*

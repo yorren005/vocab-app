@@ -5,13 +5,6 @@ status: unread
 ---
 # psilotatae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilotatae designates whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilotatae designates whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # toxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In narrator by the access of years and in consequence of the use of narcotic toxin: in listener by the access of years and in consequence of the action of distraction upon vicarious experiences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In narrator by the access of years and in consequence of the use of narcotic toxin: in listener by the access of years and in consequence of the action of distraction upon vicarious experiences."*

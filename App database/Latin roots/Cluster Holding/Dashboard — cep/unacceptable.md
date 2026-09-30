@@ -5,15 +5,6 @@ status: unread
 ---
 # unacceptable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adequate to give satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not acceptable; not welcome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This view, however, is very unacceptable to the leaders of organized labor in America, and there the question now stands. § 17. #Future role of organization#."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe was a very clean housekeeper, but had an exquisite art of making her cleanliness more uncomfortable and unacceptable than dirt itself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She thought them totally unwarranted, and the repulsion which this exceptional severity excited in her was in danger of making the more persistent tenderness unacceptable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adequate to give satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not acceptable; not welcome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This view, however, is very unacceptable to the leaders of organized labor in America, and there the question now stands. § 17. #Future role of organization#."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe was a very clean housekeeper, but had an exquisite art of making her cleanliness more uncomfortable and unacceptable than dirt itself."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She thought them totally unwarranted, and the repulsion which this exceptional severity excited in her was in danger of making the more persistent tenderness unacceptable."*

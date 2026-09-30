@@ -5,15 +5,6 @@ status: unread
 ---
 # incidental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (frequently plural) an expense not budgeted or not specified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An item that is incidental.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket walks upstairs to the little library within the larger one with the face of a man who receives some scores of letters every day, it happens that much correspondence is not incidental to his life."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The miles necessary to be traversed, and other hindrances incidental to the lateness of the hour and the darkness of the night, delayed the arrival of Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This incidental effect on debts and industry offers the main motive to some citizens for advocating the issue of paper money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (frequently plural) an expense not budgeted or not specified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An item that is incidental.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket walks upstairs to the little library within the larger one with the face of a man who receives some scores of letters every day, it happens that much correspondence is not incidental to his life."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The miles necessary to be traversed, and other hindrances incidental to the lateness of the hour and the darkness of the night, delayed the arrival of Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This incidental effect on debts and industry offers the main motive to some citizens for advocating the issue of paper money."*

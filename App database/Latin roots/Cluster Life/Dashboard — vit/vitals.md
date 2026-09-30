@@ -5,15 +5,6 @@ status: unread
 ---
 # vitals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily organ that is essential for life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily organ that is essential for life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the flaking of stone they laughed at, till I shot an elk through and through, the flaked stone standing out and beyond, the feathered shaft sunk in its vitals, the whole tribe applauding."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why are you silent, Jane?” I was experiencing an ordeal: a hand of fiery iron grasped my vitals."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John looks quiet, Jane; but he hides a fever in his vitals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily organ that is essential for life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily organ that is essential for life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the flaking of stone they laughed at, till I shot an elk through and through, the flaked stone standing out and beyond, the feathered shaft sunk in its vitals, the whole tribe applauding."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why are you silent, Jane?” I was experiencing an ordeal: a hand of fiery iron grasped my vitals."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John looks quiet, Jane; but he hides a fever in his vitals."*

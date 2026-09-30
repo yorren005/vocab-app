@@ -5,15 +5,6 @@ status: unread
 ---
 # mediocrity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ordinariness as a consequence of being average and not outstanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of second-rate ability or value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like exceptional emphasis in the tone of a genius, that which would have made mediocrity ridiculous was an addition to recognised power."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mediocrity, no: do not let envy prompt you to the thought."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His attentions to Miss King were now the consequence of views solely and hatefully mercenary; and the mediocrity of her fortune proved no longer the moderation of his wishes, but his eagerness to grasp at anything."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ordinariness as a consequence of being average and not outstanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of second-rate ability or value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like exceptional emphasis in the tone of a genius, that which would have made mediocrity ridiculous was an addition to recognised power."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mediocrity, no: do not let envy prompt you to the thought."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His attentions to Miss King were now the consequence of views solely and hatefully mercenary; and the mediocrity of her fortune proved no longer the moderation of his wishes, but his eagerness to grasp at anything."*

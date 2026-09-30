@@ -5,13 +5,6 @@ status: unread
 ---
 # nonparallel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sequential performance of multiple operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. lines or paths) not parallel; converging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonparallel designates of or relating to the sequential performance of multiple operations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sequential performance of multiple operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. lines or paths) not parallel; converging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonparallel designates of or relating to the sequential performance of multiple operations."*

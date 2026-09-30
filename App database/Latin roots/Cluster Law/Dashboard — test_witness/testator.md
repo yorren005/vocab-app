@@ -5,15 +5,6 @@ status: unread
 ---
 # testator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes a will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appears to be all in the testator’s handwriting."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Who was ever awe struck about a testator, or sang a hymn on the title to real property?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He forged wills, this blade did, if he didn’t also put the supposed testators to sleep too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes a will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It appears to be all in the testator’s handwriting."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Who was ever awe struck about a testator, or sang a hymn on the title to real property?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He forged wills, this blade did, if he didn’t also put the supposed testators to sleep too."*

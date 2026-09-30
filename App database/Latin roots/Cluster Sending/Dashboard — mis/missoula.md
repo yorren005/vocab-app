@@ -5,13 +5,6 @@ status: unread
 ---
 # missoula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university town in western montana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university town in western montana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, missoula designates a university town in western montana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A university town in western montana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university town in western montana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, missoula designates a university town in western montana."*

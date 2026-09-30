@@ -5,15 +5,6 @@ status: unread
 ---
 # discomposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your composure disturbed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You will not be discomposed by the Lord Chancellor, I dare say?” “No, sir,” I said, “I don’t think I shall,” really not seeing on consideration why I should be."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, after saying, in reference to the state of his pinafore, “Oh, you naughty Peepy, what a shocking little pig you are!” was not at all discomposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your composure disturbed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You will not be discomposed by the Lord Chancellor, I dare say?” “No, sir,” I said, “I don’t think I shall,” really not seeing on consideration why I should be."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, after saying, in reference to the state of his pinafore, “Oh, you naughty Peepy, what a shocking little pig you are!” was not at all discomposed."*

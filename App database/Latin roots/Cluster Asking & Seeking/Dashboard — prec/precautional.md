@@ -5,13 +5,6 @@ status: unread
 ---
 # precautional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precautional designates taken in advance to protect against possible danger or failure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precautional designates taken in advance to protect against possible danger or failure."*

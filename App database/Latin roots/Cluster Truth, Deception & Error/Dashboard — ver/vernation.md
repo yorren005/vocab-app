@@ -5,13 +5,6 @@ status: unread
 ---
 # vernation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the arrangement of young leaves in a leaf bud before it opens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the arrangement of young leaves in a leaf bud before it opens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernation designates (botany) the arrangement of young leaves in a leaf bud before it opens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the arrangement of young leaves in a leaf bud before it opens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the arrangement of young leaves in a leaf bud before it opens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernation designates (botany) the arrangement of young leaves in a leaf bud before it opens."*

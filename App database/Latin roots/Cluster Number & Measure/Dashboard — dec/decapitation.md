@@ -5,15 +5,6 @@ status: unread
 ---
 # decapitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Execution by cutting off the victim's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by cutting off the head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Who would believe that there could be any one so cruel as to long for the decapitation of the luckless Pedro; yet the sailors pray every minute, selfish fellows, that the miserable fowl may be brought to his end."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This institution was styled _Thalavettiparothiam_ or authority obtained by decapitation. . . ."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The ceremony of decapitation, which is here somewhat slurred over, is carried out with a greater semblance of reality in other parts of Bohemia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Execution by cutting off the victim's head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by cutting off the head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Who would believe that there could be any one so cruel as to long for the decapitation of the luckless Pedro; yet the sailors pray every minute, selfish fellows, that the miserable fowl may be brought to his end."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This institution was styled _Thalavettiparothiam_ or authority obtained by decapitation. . . ."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The ceremony of decapitation, which is here somewhat slurred over, is carried out with a greater semblance of reality in other parts of Bohemia."*

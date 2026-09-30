@@ -5,15 +5,6 @@ status: unread
 ---
 # fantasy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or process of creating especially unrealistic or improbable mental images in response to psychological need; also : a mental image or a series of mental images (such as a daydream) so created.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creation of the imagination: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thy love were ever like to mine— As sure I think did never man love so— How many actions most ridiculous Hast thou been drawn to by thy fantasy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Horatio says ’tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or process of creating especially unrealistic or improbable mental images in response to psychological need; also : a mental image or a series of mental images (such as a daydream) so created.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creation of the imagination: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thy love were ever like to mine— As sure I think did never man love so— How many actions most ridiculous Hast thou been drawn to by thy fantasy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Horatio says ’tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us."*

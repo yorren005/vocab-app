@@ -5,13 +5,6 @@ status: unread
 ---
 # spathiphyllum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spathiphyllum designates any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spathiphyllum designates any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # artichoke
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean thistlelike plant widely cultivated for its large edible flower head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thistlelike flower head with edible fleshy leaves and heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The interior looked like a white pasty, a sort of soft crumb, the flavour of which was like that of an artichoke."*
-> - 📜 **James Joyce (*Ulysses*):** *"Open like flowers, know their hours, sunflowers, Jerusalem artichokes, in ballrooms, chandeliers, avenues under the lamps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean thistlelike plant widely cultivated for its large edible flower head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thistlelike flower head with edible fleshy leaves and heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The interior looked like a white pasty, a sort of soft crumb, the flavour of which was like that of an artichoke."*
+> - 📜 **James Joyce (*Ulysses*):** *"Open like flowers, know their hours, sunflowers, Jerusalem artichokes, in ballrooms, chandeliers, avenues under the lamps."*

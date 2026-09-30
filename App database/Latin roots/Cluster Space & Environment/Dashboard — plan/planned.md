@@ -5,15 +5,6 @@ status: unread
 ---
 # planned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the will and intention to carry out some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plans for something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So he planned to visit your brother and talk the plan over with him." This calmed Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had probably discovered long ago what Kurt had planned to do that night."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If it could not be the way Apollonie planned, she might at least stay for a long stretch of time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the will and intention to carry out some action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plans for something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So he planned to visit your brother and talk the plan over with him." This calmed Mrs."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had probably discovered long ago what Kurt had planned to do that night."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If it could not be the way Apollonie planned, she might at least stay for a long stretch of time."*

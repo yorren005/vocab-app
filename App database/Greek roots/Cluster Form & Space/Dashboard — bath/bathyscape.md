@@ -5,13 +5,6 @@ status: unread
 ---
 # bathyscape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Navigable deep diving vessel for underwater exploration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Navigable deep diving vessel for underwater exploration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyscape designates navigable deep diving vessel for underwater exploration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Navigable deep diving vessel for underwater exploration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Navigable deep diving vessel for underwater exploration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyscape designates navigable deep diving vessel for underwater exploration."*

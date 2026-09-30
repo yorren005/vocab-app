@@ -5,13 +5,6 @@ status: unread
 ---
 # interconnectedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being connected reciprocally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being connected reciprocally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interconnectedness designates a state of being connected reciprocally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being connected reciprocally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being connected reciprocally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interconnectedness designates a state of being connected reciprocally."*

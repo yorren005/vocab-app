@@ -5,13 +5,6 @@ status: unread
 ---
 # concavo-convex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on one side and convex on the other with the concavity being greater than the convexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concave on one side and convex on the other with the concavity being greater than the convexity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concavo-convex designates concave on one side and convex on the other with the concavity being greater than the convexity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concave on one side and convex on the other with the concavity being greater than the convexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concave on one side and convex on the other with the concavity being greater than the convexity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concavo-convex designates concave on one side and convex on the other with the concavity being greater than the convexity."*

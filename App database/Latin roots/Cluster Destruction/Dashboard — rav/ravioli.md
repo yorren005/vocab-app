@@ -5,13 +5,6 @@ status: unread
 ---
 # ravioli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small circular or square cases of dough with savory fillings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small circular or square cases of dough with savory fillings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravioli designates small circular or square cases of dough with savory fillings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small circular or square cases of dough with savory fillings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small circular or square cases of dough with savory fillings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravioli designates small circular or square cases of dough with savory fillings."*

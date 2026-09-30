@@ -5,13 +5,6 @@ status: unread
 ---
 # biopsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal and examination of tissue, cells, or fluids from the living body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal and examination of tissue, cells, or fluids from the living body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsy designates the removal and examination of tissue, cells, or fluids from the living body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal and examination of tissue, cells, or fluids from the living body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal and examination of tissue, cells, or fluids from the living body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsy designates the removal and examination of tissue, cells, or fluids from the living body."*

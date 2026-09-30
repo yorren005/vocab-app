@@ -5,15 +5,6 @@ status: unread
 ---
 # speculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy bones are marrowless, thy blood is cold; Thou hast no speculation in those eyes Which thou dost glare with!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I know it to be unnecessary and calculated to awaken speculation, doubt, rumour, I don’t know what, in the house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has been used by all sides of the speculation and has done a deal more harm in bringing odds and ends together than if she had meant it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy bones are marrowless, thy blood is cold; Thou hast no speculation in those eyes Which thou dost glare with!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I know it to be unnecessary and calculated to awaken speculation, doubt, rumour, I don’t know what, in the house."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has been used by all sides of the speculation and has done a deal more harm in bringing odds and ends together than if she had meant it."*

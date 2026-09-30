@@ -5,13 +5,6 @@ status: unread
 ---
 # internalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporate within oneself; make subjective or personal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate within oneself; make subjective or personal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalise designates incorporate within oneself; make subjective or personal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporate within oneself; make subjective or personal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate within oneself; make subjective or personal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internalise designates incorporate within oneself; make subjective or personal."*

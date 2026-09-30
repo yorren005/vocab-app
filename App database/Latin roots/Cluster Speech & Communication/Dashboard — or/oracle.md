@@ -5,15 +5,6 @@ status: unread
 ---
 # oracle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative person who divines the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prophecy (usually obscure or allegorical) revealed by a priest or priestess; believed to be infallible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Again, there is sprung up An heretic, an arch-one, Cranmer, one Hath crawled into the favour of the King And is his oracle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This oracle of comfort has so pleased me That when I am in heaven I shall desire To see what this child does and praise my Maker."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My other self, my counsel’s consistory, My oracle, my prophet, my dear cousin, I, as a child, will go by thy direction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative person who divines the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prophecy (usually obscure or allegorical) revealed by a priest or priestess; believed to be infallible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Again, there is sprung up An heretic, an arch-one, Cranmer, one Hath crawled into the favour of the King And is his oracle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This oracle of comfort has so pleased me That when I am in heaven I shall desire To see what this child does and praise my Maker."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My other self, my counsel’s consistory, My oracle, my prophet, my dear cousin, I, as a child, will go by thy direction."*

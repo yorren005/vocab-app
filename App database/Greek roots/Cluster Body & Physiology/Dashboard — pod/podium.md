@@ -5,13 +5,6 @@ status: unread
 ---
 # podium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low wall serving as a foundation or terrace wall: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One around the arena of an ancient amphitheater serving as a base for the tiers of seats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podium designates a low wall serving as a foundation or terrace wall: such as."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low wall serving as a foundation or terrace wall: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One around the arena of an ancient amphitheater serving as a base for the tiers of seats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podium designates a low wall serving as a foundation or terrace wall: such as."*

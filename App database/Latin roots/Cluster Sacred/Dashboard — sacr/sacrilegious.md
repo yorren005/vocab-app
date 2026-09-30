@@ -5,15 +5,6 @@ status: unread
 ---
 # sacrilegious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly irreverent toward what is held to be sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grossly irreverent toward what is held to be sacred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Posthumus, That kill’d thy daughter; villain-like, I lie; That caus’d a lesser villain than myself, A sacrilegious thief, to do’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most sacrilegious murder hath broke ope The Lord’s anointed temple, and stole thence The life o’ th’ building."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Our father’s blude the Kettle bought, And wha wad dare to spoil it; By Heav’ns! the sacrilegious dog Shall fuel be to boil it!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly irreverent toward what is held to be sacred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grossly irreverent toward what is held to be sacred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Posthumus, That kill’d thy daughter; villain-like, I lie; That caus’d a lesser villain than myself, A sacrilegious thief, to do’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most sacrilegious murder hath broke ope The Lord’s anointed temple, and stole thence The life o’ th’ building."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Our father’s blude the Kettle bought, And wha wad dare to spoil it; By Heav’ns! the sacrilegious dog Shall fuel be to boil it!"*

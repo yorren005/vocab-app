@@ -5,15 +5,6 @@ status: unread
 ---
 # delusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate to reality or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate to reality or facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could not find that it led to anything but the formation of delusive hopes in connexion with the suit already the pernicious cause of so much sorrow and ruin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hopes are often delusive,” said Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But as to Fred Vincy, it is only fair he should be excused a little: old Featherstone’s delusive behavior did help to spoil him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate to reality or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate to reality or facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I could not find that it led to anything but the formation of delusive hopes in connexion with the suit already the pernicious cause of so much sorrow and ruin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hopes are often delusive,” said Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But as to Fred Vincy, it is only fair he should be excused a little: old Featherstone’s delusive behavior did help to spoil him."*

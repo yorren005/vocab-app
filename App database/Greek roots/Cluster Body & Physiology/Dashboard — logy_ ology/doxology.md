@@ -5,13 +5,6 @@ status: unread
 ---
 # doxology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hymn or verse in christian liturgy glorifying god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn or verse in christian liturgy glorifying god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of course a great many hymns are mere copies, and poor copies; but the Hymn Book at its best is a collection of first-hand records of experience.[33] In the story of the Christian Church doxology comes before dogma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hymn or verse in christian liturgy glorifying god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn or verse in christian liturgy glorifying god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of course a great many hymns are mere copies, and poor copies; but the Hymn Book at its best is a collection of first-hand records of experience.[33] In the story of the Christian Church doxology comes before dogma."*

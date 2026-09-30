@@ -5,13 +5,6 @@ status: unread
 ---
 # adenoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor of a glandular structure or of glandular origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A benign tumor of a glandular structure or of glandular origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenoma designates a benign tumor of a glandular structure or of glandular origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor of a glandular structure or of glandular origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A benign tumor of a glandular structure or of glandular origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenoma designates a benign tumor of a glandular structure or of glandular origin."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ravenala
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravenala designates giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravenala designates giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers."*

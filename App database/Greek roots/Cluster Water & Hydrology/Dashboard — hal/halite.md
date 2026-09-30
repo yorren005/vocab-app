@@ -5,13 +5,6 @@ status: unread
 ---
 # halite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt that is in the form of large pieces or crystals : rock salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt that is in the form of large pieces or crystals : rock salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halite designates salt that is in the form of large pieces or crystals : rock salt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt that is in the form of large pieces or crystals : rock salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt that is in the form of large pieces or crystals : rock salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halite designates salt that is in the form of large pieces or crystals : rock salt."*

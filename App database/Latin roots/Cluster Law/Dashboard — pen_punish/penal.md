@@ -5,15 +5,6 @@ status: unread
 ---
 # penal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or designed to impose punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sully-Prudhomme, hear a penal sentence in the fiat, “You shall be born,” particularly if addressed to potential issue of hers."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was in a penal settlement on Patmos, when he wrote it."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Remember, Watson that though we have so homely a thing as a goose at one end of this chain, we have at the other a man who will certainly get seven years’ penal servitude unless we can establish his innocence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or designed to impose punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sully-Prudhomme, hear a penal sentence in the fiat, “You shall be born,” particularly if addressed to potential issue of hers."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was in a penal settlement on Patmos, when he wrote it."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Remember, Watson that though we have so homely a thing as a goose at one end of this chain, we have at the other a man who will certainly get seven years’ penal servitude unless we can establish his innocence."*

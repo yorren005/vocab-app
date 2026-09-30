@@ -5,13 +5,6 @@ status: unread
 ---
 # indentured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bind by or as if by indentures, as of an apprentice or servant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound by contract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indentured designates bind by or as if by indentures, as of an apprentice or servant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bind by or as if by indentures, as of an apprentice or servant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound by contract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indentured designates bind by or as if by indentures, as of an apprentice or servant."*

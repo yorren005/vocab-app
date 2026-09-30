@@ -5,13 +5,6 @@ status: unread
 ---
 # flunitrazepan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flunitrazepan designates a depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flunitrazepan designates a depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia."*

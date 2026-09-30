@@ -5,13 +5,6 @@ status: unread
 ---
 # senega
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dried root of two plants of the genus polygala containing an irritating saponin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial bushy herb of central and southern united states having white flowers with green centers and often purple crest; similar to seneca snakeroot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, senega designates dried root of two plants of the genus polygala containing an irritating saponin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dried root of two plants of the genus polygala containing an irritating saponin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial bushy herb of central and southern united states having white flowers with green centers and often purple crest; similar to seneca snakeroot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, senega designates dried root of two plants of the genus polygala containing an irritating saponin."*

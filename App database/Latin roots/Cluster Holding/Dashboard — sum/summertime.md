@@ -5,15 +5,6 @@ status: unread
 ---
 # summertime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There's no danger in summertime, the shepherds often cross it and so do I."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"And so old Granny Fox puckered up her brows and thought and thought, trying to find some good reason why Farmer Brown's boy should have been hunting in the summertime."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I was told that this road is in summertime excellent, but that it had not yet been put in order after the winter snows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There's no danger in summertime, the shepherds often cross it and so do I."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"And so old Granny Fox puckered up her brows and thought and thought, trying to find some good reason why Farmer Brown's boy should have been hunting in the summertime."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I was told that this road is in summertime excellent, but that it had not yet been put in order after the winter snows."*

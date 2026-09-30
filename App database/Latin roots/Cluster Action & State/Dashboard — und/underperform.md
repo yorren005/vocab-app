@@ -5,13 +5,6 @@ status: unread
 ---
 # underperform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform less well or with less success than expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform too rarely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underperform designates perform less well or with less success than expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform less well or with less success than expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform too rarely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underperform designates perform less well or with less success than expected."*

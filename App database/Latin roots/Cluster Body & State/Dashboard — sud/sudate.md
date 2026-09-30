@@ -5,13 +5,6 @@ status: unread
 ---
 # sudate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excrete perspiration through the pores in the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excrete perspiration through the pores in the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudate designates excrete perspiration through the pores in the skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excrete perspiration through the pores in the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excrete perspiration through the pores in the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudate designates excrete perspiration through the pores in the skin."*

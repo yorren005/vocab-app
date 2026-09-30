@@ -5,13 +5,6 @@ status: unread
 ---
 # trematode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Trematoda) of parasitic usually hermaphroditic flatworms including the flukes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Trematoda) of parasitic usually hermaphroditic flatworms including the flukes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematode designates any of a class (trematoda) of parasitic usually hermaphroditic flatworms including the flukes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Trematoda) of parasitic usually hermaphroditic flatworms including the flukes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Trematoda) of parasitic usually hermaphroditic flatworms including the flukes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematode designates any of a class (trematoda) of parasitic usually hermaphroditic flatworms including the flukes."*

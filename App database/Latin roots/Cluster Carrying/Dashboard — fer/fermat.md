@@ -5,13 +5,6 @@ status: unread
 ---
 # fermat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermat designates french mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermat designates french mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665)."*

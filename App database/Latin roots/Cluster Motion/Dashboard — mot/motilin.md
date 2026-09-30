@@ -5,13 +5,6 @@ status: unread
 ---
 # motilin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motilin designates a gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motilin designates a gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine."*

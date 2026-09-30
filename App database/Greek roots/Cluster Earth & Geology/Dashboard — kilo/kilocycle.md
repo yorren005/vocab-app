@@ -5,13 +5,6 @@ status: unread
 ---
 # kilocycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One thousand periods per second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One thousand periods per second.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilocycle designates one thousand periods per second."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One thousand periods per second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One thousand periods per second.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilocycle designates one thousand periods per second."*

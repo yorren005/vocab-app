@@ -5,13 +5,6 @@ status: unread
 ---
 # euphony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agreeable (pleasing and harmonious) sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agreeable (pleasing and harmonious) sounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"If a girl she may be compelled to answer to "Little Slave," and if a boy to "Baldhead." But the names usually given indicate the place or time of birth, the hope of the parent for the child, or exhibit the parent's love of beauty or euphony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agreeable (pleasing and harmonious) sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agreeable (pleasing and harmonious) sounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"If a girl she may be compelled to answer to "Little Slave," and if a boy to "Baldhead." But the names usually given indicate the place or time of birth, the hope of the parent for the child, or exhibit the parent's love of beauty or euphony."*

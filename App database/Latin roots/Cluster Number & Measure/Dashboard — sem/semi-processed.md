@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-processed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been subjected to partial processing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been subjected to partial processing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-processed designates having been subjected to partial processing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been subjected to partial processing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been subjected to partial processing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-processed designates having been subjected to partial processing."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # bathtub
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively large open container that you fill with water and use to wash the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively large open container that you fill with water and use to wash the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The vegetation was of almost tropical density, and the moisture underfoot and overhead was so great that it seemed to me I had never been wetter except in a bathtub."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you know, I think they're scared yellow about something and I'll bet a hundred dollars against a case of bathtub gin I know what it is." "Yeh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively large open container that you fill with water and use to wash the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively large open container that you fill with water and use to wash the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The vegetation was of almost tropical density, and the moisture underfoot and overhead was so great that it seemed to me I had never been wetter except in a bathtub."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you know, I think they're scared yellow about something and I'll bet a hundred dollars against a case of bathtub gin I know what it is." "Yeh?"*

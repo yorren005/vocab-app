@@ -5,13 +5,6 @@ status: unread
 ---
 # onychosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease or disorder of the nails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease or disorder of the nails.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychosis designates any disease or disorder of the nails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease or disorder of the nails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease or disorder of the nails.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychosis designates any disease or disorder of the nails."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # penitent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a person who repents for wrongdoing (a roman catholic may be admitted to penance under the direction of a confessor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing remorse for misdeeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As nearly as I may I’ll play the penitent to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My conscience, thou art fetter’d More than my shanks and wrists; you good gods, give me The penitent instrument to pick that bolt, Then, free for ever!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Didst ever hear a man so penitent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a person who repents for wrongdoing (a roman catholic may be admitted to penance under the direction of a confessor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing remorse for misdeeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As nearly as I may I’ll play the penitent to you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My conscience, thou art fetter’d More than my shanks and wrists; you good gods, give me The penitent instrument to pick that bolt, Then, free for ever!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Didst ever hear a man so penitent?"*

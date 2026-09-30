@@ -5,13 +5,6 @@ status: unread
 ---
 # phytotherapy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytotherapy designates the use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytotherapy designates the use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet)."*

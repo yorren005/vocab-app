@@ -5,15 +5,6 @@ status: unread
 ---
 # moderately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderately sufficient extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With moderation; in a moderate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To hear meekly, sir, and to laugh moderately, or to forbear both."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore love moderately: long love doth so; Too swift arrives as tardy as too slow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You can tell them to sprinkle a little vinegar about the place where he sleeps and to keep it moderately cool and him moderately warm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderately sufficient extent or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With moderation; in a moderate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To hear meekly, sir, and to laugh moderately, or to forbear both."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore love moderately: long love doth so; Too swift arrives as tardy as too slow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You can tell them to sprinkle a little vinegar about the place where he sleeps and to keep it moderately cool and him moderately warm."*

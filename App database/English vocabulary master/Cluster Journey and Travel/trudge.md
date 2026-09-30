@@ -5,19 +5,6 @@ status: unread
 ---
 # trudge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trudge along or over
-> 2. **Nuance / Usage**: Long tiring walk : tramp
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trudge the target*) and intransitive clauses (*trudging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"’Tis time, I think, to trudge, pack and be gone."*
-> - 📜 **Paul Clifton (*Heavy rainfall causes landslip in Hampshire: At the scene...*):** *"The morning after the landslip, with rain still pouring down, it was an unpleasant trudge through deep mud to get there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,16 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Trudge along or over
+> 2. **Nuance / Usage**: Long tiring walk : tramp
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trudge the target*) and intransitive clauses (*trudging against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"’Tis time, I think, to trudge, pack and be gone."*
+> - 📜 **Paul Clifton (*Heavy rainfall causes landslip in Hampshire: At the scene...*):** *"The morning after the landslip, with rain still pouring down, it was an unpleasant trudge through deep mud to get there."*

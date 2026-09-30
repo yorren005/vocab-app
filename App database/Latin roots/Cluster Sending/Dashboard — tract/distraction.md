@@ -5,15 +5,6 @@ status: unread
 ---
 # distraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental turmoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstacle to attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How have mine eyes out of their spheres been fitted In the distraction of this madding fever!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him no breath, but now Make boot of his distraction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This presence knows, and you must needs have heard, How I am punish’d with sore distraction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental turmoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstacle to attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How have mine eyes out of their spheres been fitted In the distraction of this madding fever!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him no breath, but now Make boot of his distraction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This presence knows, and you must needs have heard, How I am punish’d with sore distraction."*

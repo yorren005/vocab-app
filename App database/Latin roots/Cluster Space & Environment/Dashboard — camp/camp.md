@@ -5,15 +5,6 @@ status: unread
 ---
 # camp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary living quarters specially built by the army for soldiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people living together in a camp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let me live, And all the secrets of our camp I’ll show, Their force, their purposes; nay, I’ll speak that Which you will wonder at."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, is this captain in the Duke of Florence’s camp?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s impudent, my lord, And was a common gamester to the camp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary living quarters specially built by the army for soldiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people living together in a camp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let me live, And all the secrets of our camp I’ll show, Their force, their purposes; nay, I’ll speak that Which you will wonder at."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, is this captain in the Duke of Florence’s camp?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s impudent, my lord, And was a common gamester to the camp."*

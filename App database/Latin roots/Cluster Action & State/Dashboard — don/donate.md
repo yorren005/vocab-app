@@ -5,14 +5,6 @@ status: unread
 ---
 # donate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give to a charity or good cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to a charity or good cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"DAMES DONATE DUBLIN’S CITS SPEEDPILLS VELOCITOUS AEROLITHS, BELIEF —It gives them a crick in their necks, Stephen said, and they are too tired to look up or down or to speak."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On the 15th of January, 1851, the waters of the “main channel” of Mill Creek were donated to Brigham Young."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give to a charity or good cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to a charity or good cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"DAMES DONATE DUBLIN’S CITS SPEEDPILLS VELOCITOUS AEROLITHS, BELIEF —It gives them a crick in their necks, Stephen said, and they are too tired to look up or down or to speak."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On the 15th of January, 1851, the waters of the “main channel” of Mill Creek were donated to Brigham Young."*

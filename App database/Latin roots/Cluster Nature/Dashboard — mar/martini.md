@@ -5,15 +5,6 @@ status: unread
 ---
 # martini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cocktail made of gin (or vodka) with dry vermouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cocktail made of gin (or vodka) with dry vermouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It contained a couch, two camp-stools, a loaded Martini-Henry leaning in one corner, a tiny table, and the steering-wheel."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fool-nigger had dropped everything, to throw the shutter open and let off that Martini-Henry."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Could you give me a few Martini-Henry cartridges?’ I could, and did, with proper secrecy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cocktail made of gin (or vodka) with dry vermouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cocktail made of gin (or vodka) with dry vermouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It contained a couch, two camp-stools, a loaded Martini-Henry leaning in one corner, a tiny table, and the steering-wheel."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fool-nigger had dropped everything, to throw the shutter open and let off that Martini-Henry."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Could you give me a few Martini-Henry cartridges?’ I could, and did, with proper secrecy."*

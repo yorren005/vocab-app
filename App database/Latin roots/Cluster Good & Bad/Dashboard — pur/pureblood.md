@@ -5,13 +5,6 @@ status: unread
 ---
 # pureblood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pedigreed animal of unmixed lineage; used especially of horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a list of ancestors as proof of being a purebred animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pureblood designates a pedigreed animal of unmixed lineage; used especially of horses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pedigreed animal of unmixed lineage; used especially of horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a list of ancestors as proof of being a purebred animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pureblood designates a pedigreed animal of unmixed lineage; used especially of horses."*

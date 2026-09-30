@@ -5,15 +5,6 @@ status: unread
 ---
 # traitorously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disloyal and faithless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disloyal and faithless manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported, mighty sovereign, That good Duke Humphrey traitorously is murdered By Suffolk and the Cardinal Beaufort’s means."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enemies of early society were outside its borders, and the citizen who traitorously gave them aid was held in abhorrence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disloyal and faithless manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disloyal and faithless manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported, mighty sovereign, That good Duke Humphrey traitorously is murdered By Suffolk and the Cardinal Beaufort’s means."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enemies of early society were outside its borders, and the citizen who traitorously gave them aid was held in abhorrence."*

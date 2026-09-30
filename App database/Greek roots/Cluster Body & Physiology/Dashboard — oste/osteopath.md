@@ -5,13 +5,6 @@ status: unread
 ---
 # osteopath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician practicing osteopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician practicing osteopathic medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopath designates a physician practicing osteopathic medicine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician practicing osteopathic medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician practicing osteopathic medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopath designates a physician practicing osteopathic medicine."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deceiver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leads you to believe something that is not true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leads you to believe something that is not true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me not, Since I have my dukedom got, And pardon’d the deceiver, dwell In this bare island by your spell, But release me from my bands With the help of your good hands."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Learn three-mile pray’rs, an’ half-mile graces, Wi’ weel-spread looves, an’ lang, wry faces; Grunt up a solemn, lengthen’d groan, And damn a’ parties but your own; I’ll warrant they ye’re nae deceiver, A steady, sturdy, staunch believer."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I am, indeed, very much inclined to believe that Marnoo, with his handsome person and captivating manners, was a sad deceiver among the simple maidens of the island."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leads you to believe something that is not true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leads you to believe something that is not true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me not, Since I have my dukedom got, And pardon’d the deceiver, dwell In this bare island by your spell, But release me from my bands With the help of your good hands."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Learn three-mile pray’rs, an’ half-mile graces, Wi’ weel-spread looves, an’ lang, wry faces; Grunt up a solemn, lengthen’d groan, And damn a’ parties but your own; I’ll warrant they ye’re nae deceiver, A steady, sturdy, staunch believer."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I am, indeed, very much inclined to believe that Marnoo, with his handsome person and captivating manners, was a sad deceiver among the simple maidens of the island."*

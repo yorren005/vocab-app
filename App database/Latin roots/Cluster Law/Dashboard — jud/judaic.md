@@ -5,14 +5,6 @@ status: unread
 ---
 # judaic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the jews or their culture or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to jews or their culture or religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Judaic and other rituals are but types and shadows of true worship."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Jewish women wore veils over their faces in token 597:1 of reverence and submission and in accordance with Pharisaical notions. 597:3 The Judaic religion consisted mostly of rites and cere- monies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the jews or their culture or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to jews or their culture or religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Judaic and other rituals are but types and shadows of true worship."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Jewish women wore veils over their faces in token 597:1 of reverence and submission and in accordance with Pharisaical notions. 597:3 The Judaic religion consisted mostly of rites and cere- monies."*

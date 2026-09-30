@@ -5,13 +5,6 @@ status: unread
 ---
 # physiatrics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy that uses physical agents: exercise and massage and other modalities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy that uses physical agents: exercise and massage and other modalities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiatrics designates therapy that uses physical agents: exercise and massage and other modalities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy that uses physical agents: exercise and massage and other modalities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy that uses physical agents: exercise and massage and other modalities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiatrics designates therapy that uses physical agents: exercise and massage and other modalities."*

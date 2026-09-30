@@ -5,13 +5,6 @@ status: unread
 ---
 # allergy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Altered bodily reactivity (such as hypersensitivity) to an antigen in response to a first exposure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or pathological immunological reaction (as by sneezing, difficult breathing, itching, or skin rashes) to substances, situations, or physical states that are without comparable effect on the average individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergy designates altered bodily reactivity (such as hypersensitivity) to an antigen in response to a first exposure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Altered bodily reactivity (such as hypersensitivity) to an antigen in response to a first exposure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or pathological immunological reaction (as by sneezing, difficult breathing, itching, or skin rashes) to substances, situations, or physical states that are without comparable effect on the average individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergy designates altered bodily reactivity (such as hypersensitivity) to an antigen in response to a first exposure."*

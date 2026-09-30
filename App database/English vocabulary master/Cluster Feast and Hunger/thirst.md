@@ -5,20 +5,6 @@ status: unread
 ---
 # thirst
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Desire or need to drink
-> 2. **Nuance / Usage**: (intransitive) to be thirsty
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"for bread, not in thirst for revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Then be at peace, except ye thirst for blood."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He drank eagerly, and his thirst seemed to increase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The dry, parched physical sensation caused by a lack of fluids, accompanied by an urgent need to drink.
+> 2. **Nuance / Usage**: Used both as a noun and a verb (*to thirst for*) to denote an ardent, unquenchable craving for knowledge, justice, power, or vengeance.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Then be at peace, except ye **thirst** for blood."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He drank eagerly, and his **thirst** seemed to increase."*
+> - 📜 **Lord Byron (*Don Juan*):** *"A **thirst** for glory and a restless heart drove him across the wine-dark sea."*

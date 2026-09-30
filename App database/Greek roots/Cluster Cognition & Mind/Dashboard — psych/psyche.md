@@ -5,15 +5,6 @@ status: unread
 ---
 # psyche
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A princess loved by Cupid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soul, personality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Some of them represent the fable of Cupid and Psyche, which is probably the romantic invention of a literary period, and cannot, I think, be reckoned as a genuine mythical product."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The tale which he would like to write down is _Cupid and Psyche_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But if Psyche is at times the soul, and if the daughter she bears to Cupid is Pleasure, the fairy-tale triumphs gloriously over the allegory, and remains the most wonderful thing of the kind in Latin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A princess loved by Cupid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soul, personality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Some of them represent the fable of Cupid and Psyche, which is probably the romantic invention of a literary period, and cannot, I think, be reckoned as a genuine mythical product."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The tale which he would like to write down is _Cupid and Psyche_."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But if Psyche is at times the soul, and if the daughter she bears to Cupid is Pleasure, the fairy-tale triumphs gloriously over the allegory, and remains the most wonderful thing of the kind in Latin."*

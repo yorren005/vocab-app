@@ -5,15 +5,6 @@ status: unread
 ---
 # urban
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with a city or densely populated area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located in or characteristic of a city or city life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But there is a way some men have, rural and urban alike, for which the mind is more responsible than flesh and sinew: it is a way of curtailing their dimensions by their manner of showing them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You seem almost like a coquette, upon my life you do—a coquette of the first urban water!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, our national banking development has been predominantly urban and commercial to the neglect of rural and agricultural interests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with a city or densely populated area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located in or characteristic of a city or city life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But there is a way some men have, rural and urban alike, for which the mind is more responsible than flesh and sinew: it is a way of curtailing their dimensions by their manner of showing them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You seem almost like a coquette, upon my life you do—a coquette of the first urban water!"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, our national banking development has been predominantly urban and commercial to the neglect of rural and agricultural interests."*

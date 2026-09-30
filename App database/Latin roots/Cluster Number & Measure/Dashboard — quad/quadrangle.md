@@ -5,15 +5,6 @@ status: unread
 ---
 # quadrangle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-sided polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rectangular area surrounded on all sides by buildings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, lords, my choler being overblown With walking once about the quadrangle, I come to talk of commonwealth affairs."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Amidst a scene of wild enthusiasm we hoisted his big form upon our shoulders, and careered round the old quadrangle in triumph."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Bid my Supsiser carry my Hackney to the Butt'ry, and give him his Bever; it is a civil and sober Beast, and will drink moderately; and that done, turn him into the Quadrangle. _Bri_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-sided polygon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rectangular area surrounded on all sides by buildings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, lords, my choler being overblown With walking once about the quadrangle, I come to talk of commonwealth affairs."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Amidst a scene of wild enthusiasm we hoisted his big form upon our shoulders, and careered round the old quadrangle in triumph."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Bid my Supsiser carry my Hackney to the Butt'ry, and give him his Bever; it is a civil and sober Beast, and will drink moderately; and that done, turn him into the Quadrangle. _Bri_."*

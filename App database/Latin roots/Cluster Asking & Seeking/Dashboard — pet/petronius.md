@@ -5,14 +5,6 @@ status: unread
 ---
 # petronius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman satirist (died in 66).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman satirist (died in 66).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Oldenberg, Part ii. (Oxford, 1892) p. 218 (_Sacred Books of the East_, vol. xxx.). [251] Petronius, _Sat._ 48; Pausanias, x. 12: 8; Justin Martyr, _Cohort ad Graecos_, 37, p. 34 c (ed. 1742)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And the soldier did not long survive him.[766] [The were-wolf story in Petronius.] But the classical example of these stories is an old Roman tale told by Petronius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman satirist (died in 66).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman satirist (died in 66).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Oldenberg, Part ii. (Oxford, 1892) p. 218 (_Sacred Books of the East_, vol. xxx.). [251] Petronius, _Sat._ 48; Pausanias, x. 12: 8; Justin Martyr, _Cohort ad Graecos_, 37, p. 34 c (ed. 1742)."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And the soldier did not long survive him.[766] [The were-wolf story in Petronius.] But the classical example of these stories is an old Roman tale told by Petronius."*

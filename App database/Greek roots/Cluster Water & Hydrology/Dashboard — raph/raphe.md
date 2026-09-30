@@ -5,13 +5,6 @@ status: unread
 ---
 # raphe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The seamlike union of the two lateral halves of a part or organ (such as the tongue) having externally a ridge or furrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the stalk of an anatropous ovary that is united in growth to the outside covering and forms a ridge along the body of the ovule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphe designates the seamlike union of the two lateral halves of a part or organ (such as the tongue) having externally a ridge or furrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seamlike union of the two lateral halves of a part or organ (such as the tongue) having externally a ridge or furrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the stalk of an anatropous ovary that is united in growth to the outside covering and forms a ridge along the body of the ovule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphe designates the seamlike union of the two lateral halves of a part or organ (such as the tongue) having externally a ridge or furrow."*

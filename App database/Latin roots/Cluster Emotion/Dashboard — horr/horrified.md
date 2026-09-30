@@ -5,15 +5,6 @@ status: unread
 ---
 # horrified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stricken with horror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When he cried out loudly, "We mustn't do it, we mustn't do it," they ran away again, quite frightened, for his horrified shrieks might have penetrated into the sick-room."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But all this had only brought horrified cries from the little boy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A month ago I should have been horrified at such a possibility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stricken with horror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When he cried out loudly, "We mustn't do it, we mustn't do it," they ran away again, quite frightened, for his horrified shrieks might have penetrated into the sick-room."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But all this had only brought horrified cries from the little boy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A month ago I should have been horrified at such a possibility."*

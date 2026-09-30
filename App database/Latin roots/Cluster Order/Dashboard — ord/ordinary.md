@@ -5,15 +5,6 @@ status: unread
 ---
 # ordinary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judge of a probate court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expected or commonplace condition or situation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our courteous Antony, Whom ne’er the word of “No” woman heard speak, Being barbered ten times o’er, goes to the feast, And, for his ordinary, pays his heart For what his eyes eat only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is merely a madness, and, I tell you, deserves as well a dark house and a whip as madmen do; and the reason why they are not so punished and cured is that the lunacy is so ordinary that the whippers are in love too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no more in you than in the ordinary Of nature’s sale-work. ’Od’s my little life, I think she means to tangle my eyes too!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A judge of a probate court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expected or commonplace condition or situation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our courteous Antony, Whom ne’er the word of “No” woman heard speak, Being barbered ten times o’er, goes to the feast, And, for his ordinary, pays his heart For what his eyes eat only."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is merely a madness, and, I tell you, deserves as well a dark house and a whip as madmen do; and the reason why they are not so punished and cured is that the lunacy is so ordinary that the whippers are in love too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no more in you than in the ordinary Of nature’s sale-work. ’Od’s my little life, I think she means to tangle my eyes too!"*

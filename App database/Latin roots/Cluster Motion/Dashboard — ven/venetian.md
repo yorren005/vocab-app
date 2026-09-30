@@ -5,15 +5,6 @@ status: unread
 ---
 # venetian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of venice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of venice or its people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not remember, lady, in your father’s time, a Venetian, a scholar and a soldier, that came hither in company of the Marquis of Montferrat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, and my old Venetian friend, Salerio!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of a strange nature is the suit you follow, Yet in such rule that the Venetian law Cannot impugn you as you do proceed. [_To Antonio_.] You stand within his danger, do you not?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of venice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of venice or its people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not remember, lady, in your father’s time, a Venetian, a scholar and a soldier, that came hither in company of the Marquis of Montferrat?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, and my old Venetian friend, Salerio!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of a strange nature is the suit you follow, Yet in such rule that the Venetian law Cannot impugn you as you do proceed. [_To Antonio_.] You stand within his danger, do you not?"*

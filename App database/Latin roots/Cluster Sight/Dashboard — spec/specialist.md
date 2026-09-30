@@ -5,15 +5,6 @@ status: unread
 ---
 # specialist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who is devoted to one occupation or branch of learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practices one branch of medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The stage lost a fine actor, even as science lost an acute reasoner, when he became a specialist in crime."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He was an aircraft emergency survival equipment specialist in the Pacific Area during World War II and a technical writer for several years afterwards."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who is devoted to one occupation or branch of learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practices one branch of medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The stage lost a fine actor, even as science lost an acute reasoner, when he became a specialist in crime."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He was an aircraft emergency survival equipment specialist in the Pacific Area during World War II and a technical writer for several years afterwards."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*

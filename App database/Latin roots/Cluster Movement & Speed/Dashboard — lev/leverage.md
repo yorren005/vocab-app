@@ -5,15 +5,6 @@ status: unread
 ---
 # leverage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical advantage gained by being in a position to use a lever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strategic advantage; power to act effectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If he could only shift his feet, get some sort of leverage."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Judson Parker and his sister were the only Parkers in Avonlea, so that no leverage could be exerted by family connections."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This finger of mine, so quick with sensation, so subtle to feel, so delicate in its multifarious dexterities, so firm and strong to crook and bend or stiffen by means of cunning leverages—this finger is not I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical advantage gained by being in a position to use a lever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strategic advantage; power to act effectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If he could only shift his feet, get some sort of leverage."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Judson Parker and his sister were the only Parkers in Avonlea, so that no leverage could be exerted by family connections."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This finger of mine, so quick with sensation, so subtle to feel, so delicate in its multifarious dexterities, so firm and strong to crook and bend or stiffen by means of cunning leverages—this finger is not I."*

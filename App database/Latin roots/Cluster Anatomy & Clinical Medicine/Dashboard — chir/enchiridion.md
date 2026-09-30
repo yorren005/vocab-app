@@ -5,13 +5,6 @@ status: unread
 ---
 # enchiridion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise reference book providing specific information about a subject or location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise reference book providing specific information about a subject or location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enchiridion designates a concise reference book providing specific information about a subject or location."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise reference book providing specific information about a subject or location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise reference book providing specific information about a subject or location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enchiridion designates a concise reference book providing specific information about a subject or location."*

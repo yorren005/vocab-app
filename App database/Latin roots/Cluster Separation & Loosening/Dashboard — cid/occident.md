@@ -5,14 +5,6 @@ status: unread
 ---
 # occident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The countries of (originally) europe and (now including) north america and south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hemisphere that includes north america and south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I may wander From east to occident; cry out for service; Try many, all good; serve truly; never Find such another master."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"If the family is rich the presents are correspondingly rich, for nowhere either in Orient or Occident can there be found a people more lavish and generous in their gifts than the Chinese."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The countries of (originally) europe and (now including) north america and south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hemisphere that includes north america and south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I may wander From east to occident; cry out for service; Try many, all good; serve truly; never Find such another master."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"If the family is rich the presents are correspondingly rich, for nowhere either in Orient or Occident can there be found a people more lavish and generous in their gifts than the Chinese."*

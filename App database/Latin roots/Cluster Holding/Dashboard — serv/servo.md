@@ -5,14 +5,6 @@ status: unread
 ---
 # servo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving servomechanisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Hhhn: burst sideways. _—Non intres in judicium cum servo tuo, Domine._ Makes them feel more important to be prayed over in Latin."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Be ye Turks or Christians, that handle a churchman?—Know ye what it is, ‘manus imponere in servos Domini’?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving servomechanisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Hhhn: burst sideways. _—Non intres in judicium cum servo tuo, Domine._ Makes them feel more important to be prayed over in Latin."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Be ye Turks or Christians, that handle a churchman?—Know ye what it is, ‘manus imponere in servos Domini’?"*

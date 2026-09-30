@@ -5,15 +5,6 @@ status: unread
 ---
 # heraldry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and classification of armorial bearings and the tracing of genealogies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emblem indicating the right of a person to bear arms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The hearts of old gave hands, But our new heraldry is hands, not hearts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This heraldry in Lucrece’ face was seen, Argued by beauty’s red and virtue’s white."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and classification of armorial bearings and the tracing of genealogies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emblem indicating the right of a person to bear arms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The hearts of old gave hands, But our new heraldry is hands, not hearts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This heraldry in Lucrece’ face was seen, Argued by beauty’s red and virtue’s white."*

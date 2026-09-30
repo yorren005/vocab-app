@@ -5,13 +5,6 @@ status: unread
 ---
 # circularise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Canvass by distributing letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute circulars to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circularise designates canvass by distributing letters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Canvass by distributing letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute circulars to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circularise designates canvass by distributing letters."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # finocchio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic bulbous stem base eaten cooked or raw in salads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic bulbous stem base eaten cooked or raw in salads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finocchio designates aromatic bulbous stem base eaten cooked or raw in salads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic bulbous stem base eaten cooked or raw in salads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic bulbous stem base eaten cooked or raw in salads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finocchio designates aromatic bulbous stem base eaten cooked or raw in salads."*

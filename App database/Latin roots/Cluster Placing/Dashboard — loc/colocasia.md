@@ -5,13 +5,6 @@ status: unread
 ---
 # colocasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of perennial tuberous herbs of tropical asia: taro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of perennial tuberous herbs of tropical asia: taro.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"She remembered and heeded the warning during those years, but one day, her husband and all their men having gone to Manoa to cultivate kalo (_Colocasia antiquorum_), she was left alone with her maid servants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of perennial tuberous herbs of tropical asia: taro.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of perennial tuberous herbs of tropical asia: taro.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"She remembered and heeded the warning during those years, but one day, her husband and all their men having gone to Manoa to cultivate kalo (_Colocasia antiquorum_), she was left alone with her maid servants."*

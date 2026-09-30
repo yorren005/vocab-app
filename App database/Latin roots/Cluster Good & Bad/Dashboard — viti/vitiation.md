@@ -5,13 +5,6 @@ status: unread
 ---
 # vitiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nullification by the destruction of the legal force; rendering null.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nullification by the destruction of the legal force; rendering null.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitiation designates nullification by the destruction of the legal force; rendering null."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nullification by the destruction of the legal force; rendering null.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nullification by the destruction of the legal force; rendering null.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitiation designates nullification by the destruction of the legal force; rendering null."*

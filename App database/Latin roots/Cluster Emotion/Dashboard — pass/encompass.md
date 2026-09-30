@@ -5,15 +5,6 @@ status: unread
 ---
 # encompass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Include in scope; include as part of something broader; have as one's sphere or territory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include in scope; include as part of something broader; have as one's sphere or territory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul fiend of France and hag of all despite, Encompass’d with thy lustful paramours, Becomes it thee to taunt his valiant age And twit with cowardice a man half dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When could they say, till now, that talk’d of Rome, That her wide walls encompass’d but one man?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"He said, and as the sound of waters deep Hoarce murmur echo’d to his words applause Through the infinite Host, nor less for that The flaming Seraph fearless, though alone Encompass’d round with foes, thus answerd bold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Include in scope; include as part of something broader; have as one's sphere or territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include in scope; include as part of something broader; have as one's sphere or territory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul fiend of France and hag of all despite, Encompass’d with thy lustful paramours, Becomes it thee to taunt his valiant age And twit with cowardice a man half dead?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When could they say, till now, that talk’d of Rome, That her wide walls encompass’d but one man?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"He said, and as the sound of waters deep Hoarce murmur echo’d to his words applause Through the infinite Host, nor less for that The flaming Seraph fearless, though alone Encompass’d round with foes, thus answerd bold."*

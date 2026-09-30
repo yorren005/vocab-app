@@ -5,13 +5,6 @@ status: unread
 ---
 # cardi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heart : cardiac : cardiac and.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heart : cardiac : cardiac and.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardi designates heart : cardiac : cardiac and."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heart : cardiac : cardiac and.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heart : cardiac : cardiac and.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardi designates heart : cardiac : cardiac and."*

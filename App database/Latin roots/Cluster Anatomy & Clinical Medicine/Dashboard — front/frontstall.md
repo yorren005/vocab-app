@@ -5,13 +5,6 @@ status: unread
 ---
 # frontstall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medieval plate armor to protect a horse's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medieval plate armor to protect a horse's head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frontstall designates medieval plate armor to protect a horse's head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medieval plate armor to protect a horse's head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medieval plate armor to protect a horse's head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frontstall designates medieval plate armor to protect a horse's head."*

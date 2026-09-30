@@ -5,14 +5,6 @@ status: unread
 ---
 # canticle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hymn derived from the bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn derived from the bible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What a noble thing is that canticle in the fish’s belly!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What a noble thing is that canticle in the fish’s belly!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hymn derived from the bible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn derived from the bible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What a noble thing is that canticle in the fish’s belly!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What a noble thing is that canticle in the fish’s belly!"*

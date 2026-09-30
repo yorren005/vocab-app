@@ -5,15 +5,6 @@ status: unread
 ---
 # partition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertical structure that divides or separates (as a wall divides one room from another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the part of a hard disk that is dedicated to a particular operating system or application and accessed as a single unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the wittiest partition that ever I heard discourse, my lord."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I think you will find it behind the clerk’s partition in the corner yonder.” She merely throws a laugh over her shoulder and stands her ground with folded arms."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oak partition shook with the concussion, and the place was filled with grey smoke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertical structure that divides or separates (as a wall divides one room from another).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the part of a hard disk that is dedicated to a particular operating system or application and accessed as a single unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the wittiest partition that ever I heard discourse, my lord."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I think you will find it behind the clerk’s partition in the corner yonder.” She merely throws a laugh over her shoulder and stands her ground with folded arms."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oak partition shook with the concussion, and the place was filled with grey smoke."*

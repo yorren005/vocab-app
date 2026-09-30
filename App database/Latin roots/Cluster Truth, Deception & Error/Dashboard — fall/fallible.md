@@ -5,15 +5,6 @@ status: unread
 ---
 # fallible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to fail or make errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not satisfy your resolution with hopes that are fallible."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assessment of taxes has to be intrusted to men with fallible judgment, imperfect knowledge, and selfish interests."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Even here there might be a mistake: human prescriptions were fallible things: Lydgate had said that treatment had hastened death,—why not his own method of treatment?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to fail or make errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not satisfy your resolution with hopes that are fallible."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assessment of taxes has to be intrusted to men with fallible judgment, imperfect knowledge, and selfish interests."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Even here there might be a mistake: human prescriptions were fallible things: Lydgate had said that treatment had hastened death,—why not his own method of treatment?"*

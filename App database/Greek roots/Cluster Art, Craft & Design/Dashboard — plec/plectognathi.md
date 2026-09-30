@@ -5,13 +5,6 @@ status: unread
 ---
 # plectognathi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectognathi designates boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectognathi designates boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers."*

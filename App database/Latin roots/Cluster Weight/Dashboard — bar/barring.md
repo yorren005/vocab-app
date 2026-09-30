@@ -5,15 +5,6 @@ status: unread
 ---
 # barring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of excluding someone by a negative vote or veto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from entering; keep out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s codicil, barring Dorothea’s marriage with Will, except under a penalty, was enough to cast unfitness over any relation at all between them."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Barring these you'd hear nothing at all."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And barring a mountainy man or woman, and they cutting turf, you'd meet nothing unless it were the sheep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of excluding someone by a negative vote or veto.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from entering; keep out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s codicil, barring Dorothea’s marriage with Will, except under a penalty, was enough to cast unfitness over any relation at all between them."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Barring these you'd hear nothing at all."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And barring a mountainy man or woman, and they cutting turf, you'd meet nothing unless it were the sheep."*

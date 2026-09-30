@@ -5,13 +5,6 @@ status: unread
 ---
 # montpelier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of the state of vermont; located in north central vermont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of the state of vermont; located in north central vermont.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some skeletons of poulps are preserved in the museums of Trieste and Montpelier, that measure two yards in length."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of the state of vermont; located in north central vermont.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of the state of vermont; located in north central vermont.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some skeletons of poulps are preserved in the museums of Trieste and Montpelier, that measure two yards in length."*

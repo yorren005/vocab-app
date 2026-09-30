@@ -5,13 +5,6 @@ status: unread
 ---
 # bathymetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of water depth at various places in a body of water; also : the information derived from such measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of water depth at various places in a body of water; also : the information derived from such measurements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathymetry designates the measurement of water depth at various places in a body of water; also : the information derived from such measurements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of water depth at various places in a body of water; also : the information derived from such measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of water depth at various places in a body of water; also : the information derived from such measurements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathymetry designates the measurement of water depth at various places in a body of water; also : the information derived from such measurements."*

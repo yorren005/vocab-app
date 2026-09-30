@@ -5,15 +5,6 @@ status: unread
 ---
 # maleficent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful or evil in intent or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful or evil in intent or effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Indians of Mexico employed for this maleficent purpose the left fore-arm of a woman who had died in giving birth to her first child; but the arm had to be stolen."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The maleficent power of knots may also be manifested in the infliction of sickness, disease, and all kinds of misfortune."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But apart from this negative virtue of maleficent knots, there are certain beneficent knots to which a positive power of healing is ascribed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful or evil in intent or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful or evil in intent or effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Indians of Mexico employed for this maleficent purpose the left fore-arm of a woman who had died in giving birth to her first child; but the arm had to be stolen."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The maleficent power of knots may also be manifested in the infliction of sickness, disease, and all kinds of misfortune."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But apart from this negative virtue of maleficent knots, there are certain beneficent knots to which a positive power of healing is ascribed."*

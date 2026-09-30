@@ -5,15 +5,6 @@ status: unread
 ---
 # unprotected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking protection or defense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking protection or defense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An unprotected childhood in a cold world has beaten gentleness out of me.” He immediately said with more resentment: “That may be true, somewhat; but ah, Miss Everdene, it won’t do as a reason!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak gazed with misgiving at eight naked and unprotected ricks, massive and heavy with the rich produce of one-half the farm for that year."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wiped his weary brow, and looked again at the black forms of the unprotected stacks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking protection or defense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking protection or defense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An unprotected childhood in a cold world has beaten gentleness out of me.” He immediately said with more resentment: “That may be true, somewhat; but ah, Miss Everdene, it won’t do as a reason!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak gazed with misgiving at eight naked and unprotected ricks, massive and heavy with the rich produce of one-half the farm for that year."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wiped his weary brow, and looked again at the black forms of the unprotected stacks."*

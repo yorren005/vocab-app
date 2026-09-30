@@ -5,15 +5,6 @@ status: unread
 ---
 # factory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant consisting of one or more buildings with facilities for manufacturing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant consisting of one or more buildings with facilities for manufacturing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A son will sometimes make it known to his father that he has fallen in love, say, with a young woman in the factory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The father, who once worked in a factory himself, will be a little disappointed at first very possibly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The bank, the factory, or the house?” the workman wants to know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant consisting of one or more buildings with facilities for manufacturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant consisting of one or more buildings with facilities for manufacturing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A son will sometimes make it known to his father that he has fallen in love, say, with a young woman in the factory."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The father, who once worked in a factory himself, will be a little disappointed at first very possibly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The bank, the factory, or the house?” the workman wants to know."*

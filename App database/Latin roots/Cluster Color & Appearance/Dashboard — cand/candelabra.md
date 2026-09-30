@@ -5,15 +5,6 @@ status: unread
 ---
 # candelabra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branched candlestick; ornamental; has several lights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched candlestick; ornamental; has several lights.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then, leaping down from the mantel-shelf with the same graceful ease as he had mounted, he strode to the last great red candle, fit for a cathedral altar, which Aphra had set in the central candelabra."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Branched candlestick; ornamental; has several lights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched candlestick; ornamental; has several lights.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then, leaping down from the mantel-shelf with the same graceful ease as he had mounted, he strode to the last great red candle, fit for a cathedral altar, which Aphra had set in the central candelabra."*

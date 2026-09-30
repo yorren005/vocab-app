@@ -5,15 +5,6 @@ status: unread
 ---
 # nova
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star that ejects some of its material in the form of a cloud and become more luminous in the process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star that ejects some of its material in the form of a cloud and become more luminous in the process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"When I think that before long the _Nautilus_ will be by Nova Scotia, and that there near New foundland is a large bay, and into that bay the St."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would it touch at Spitzbergen, or on the shores of Nova Zembla?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They say Semënova acts marvelously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A star that ejects some of its material in the form of a cloud and become more luminous in the process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star that ejects some of its material in the form of a cloud and become more luminous in the process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"When I think that before long the _Nautilus_ will be by Nova Scotia, and that there near New foundland is a large bay, and into that bay the St."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would it touch at Spitzbergen, or on the shores of Nova Zembla?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They say Semënova acts marvelously."*

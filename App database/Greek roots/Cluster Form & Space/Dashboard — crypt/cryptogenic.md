@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptogenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of obscure or unknown origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of obscure or unknown origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogenic designates of obscure or unknown origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of obscure or unknown origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of obscure or unknown origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogenic designates of obscure or unknown origin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # patroness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a patron or the wife of a patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a patron or the wife of a patron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold our patroness, the life of Rome!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Divinest patroness, and midwife gentle To those that cry by night, convey thy deity Aboard our dancing boat; make swift the pangs Of my queen’s travails!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a patron or the wife of a patron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a patron or the wife of a patron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold our patroness, the life of Rome!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Divinest patroness, and midwife gentle To those that cry by night, convey thy deity Aboard our dancing boat; make swift the pangs Of my queen’s travails!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*

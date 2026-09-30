@@ -5,15 +5,6 @@ status: unread
 ---
 # estate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything you own; all of your assets (whether real property or personal property) and liabilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extensive landed property (especially in the country) retained by the owner for his own use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything you own; all of your assets (whether real property or personal property) and liabilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extensive landed property (especially in the country) retained by the owner for his own use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*

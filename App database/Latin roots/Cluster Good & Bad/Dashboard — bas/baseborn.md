@@ -5,13 +5,6 @@ status: unread
 ---
 # baseborn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of low birth or station (`base' is archaic in this sense).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illegitimate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baseborn designates of low birth or station (`base' is archaic in this sense)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of low birth or station (`base' is archaic in this sense).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illegitimate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baseborn designates of low birth or station (`base' is archaic in this sense)."*

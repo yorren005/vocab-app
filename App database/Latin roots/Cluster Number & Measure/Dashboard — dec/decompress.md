@@ -5,13 +5,6 @@ status: unread
 ---
 # decompress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to its uncompressed form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decrease the pressure of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At this extremely close range the concentrations of laser-quads and explosive decompress energy by both of us at a single point might disable some part of the warhead or set it off." "It would take too much time to cut through."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to its uncompressed form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decrease the pressure of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At this extremely close range the concentrations of laser-quads and explosive decompress energy by both of us at a single point might disable some part of the warhead or set it off." "It would take too much time to cut through."*

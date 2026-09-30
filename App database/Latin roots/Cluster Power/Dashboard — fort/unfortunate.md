@@ -5,15 +5,6 @@ status: unread
 ---
 # unfortunate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who suffers misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not favored by fortune; marked or accompanied by or resulting in ill fortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your unfortunate son,_ BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I swear to thee, youth, by the white hand of Rosalind, I am that he, that unfortunate he."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said he was gentle, but unfortunate; Dishonestly afflicted, but yet honest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who suffers misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not favored by fortune; marked or accompanied by or resulting in ill fortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your unfortunate son,_ BERTRAM."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I swear to thee, youth, by the white hand of Rosalind, I am that he, that unfortunate he."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said he was gentle, but unfortunate; Dishonestly afflicted, but yet honest."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # diaper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic garment for infants consisting of a folded cloth or other absorbent material drawn up between the legs and fastened about the waist to hold body waste; also : a similar garment especially for incontinent adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric with a distinctive pattern:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He crossed the wood with his hunter's step and found her lapped in dreams, the starlight that filtered between the alder branches chequering her with a faint diaper of light and shade."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A diaper pin?' Raising my arm, I pumped my fist at the sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic garment for infants consisting of a folded cloth or other absorbent material drawn up between the legs and fastened about the waist to hold body waste; also : a similar garment especially for incontinent adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric with a distinctive pattern:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He crossed the wood with his hunter's step and found her lapped in dreams, the starlight that filtered between the alder branches chequering her with a faint diaper of light and shade."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A diaper pin?' Raising my arm, I pumped my fist at the sky."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intrust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer a trust upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer a trust upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Well, I will henceforth intrust my felicity to no one’s keeping but my own.” The first agonies of this disappointment would not allow me to be reasonable or just."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I will intrust you with the letter to deliver it to Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We believe the people will not intrust the government to any party or combination of men composed chiefly of those who have resisted every step of this beneficent progress. 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer a trust upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer a trust upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Well, I will henceforth intrust my felicity to no one’s keeping but my own.” The first agonies of this disappointment would not allow me to be reasonable or just."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I will intrust you with the letter to deliver it to Mr."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We believe the people will not intrust the government to any party or combination of men composed chiefly of those who have resisted every step of this beneficent progress. 2."*

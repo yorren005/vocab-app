@@ -5,15 +5,6 @@ status: unread
 ---
 # impertinence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An impudent statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being rude and impertinent; inclined to take liberties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Isn't it possible that the child should have unconsciously said an impertinence?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is mere impertinence in me to offer any recommendation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What impertinence!” said Liddy, in a low voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impudent statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being rude and impertinent; inclined to take liberties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Isn't it possible that the child should have unconsciously said an impertinence?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it is mere impertinence in me to offer any recommendation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What impertinence!” said Liddy, in a low voice."*

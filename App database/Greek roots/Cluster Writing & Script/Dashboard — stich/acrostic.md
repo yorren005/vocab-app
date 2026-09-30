@@ -5,15 +5,6 @@ status: unread
 ---
 # acrostic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition usually in verse in which sets of letters (such as the initial or final letters of the lines) taken in order form a word or phrase or a regular sequence of letters of the alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition usually in verse in which sets of letters (such as the initial or final letters of the lines) taken in order form a word or phrase or a regular sequence of letters of the alphabet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What acrostic upon the abbreviation of his first name had he (kinetic poet) sent to Miss Marion (Molly) Tweedy on the 14 February 1888?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Some time before he died he made the epitaph, by way of acrostic, on himself, which is engraved on the stone which now covers his remains.” Mrs."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"So you may toy with imagery in mere intellectual ingenuity, and then you might as well go write acrostics: or you may toy with it in raptures, and then you may write a _Sensitive Plant_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition usually in verse in which sets of letters (such as the initial or final letters of the lines) taken in order form a word or phrase or a regular sequence of letters of the alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition usually in verse in which sets of letters (such as the initial or final letters of the lines) taken in order form a word or phrase or a regular sequence of letters of the alphabet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What acrostic upon the abbreviation of his first name had he (kinetic poet) sent to Miss Marion (Molly) Tweedy on the 14 February 1888?"*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Some time before he died he made the epitaph, by way of acrostic, on himself, which is engraved on the stone which now covers his remains.” Mrs."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"So you may toy with imagery in mere intellectual ingenuity, and then you might as well go write acrostics: or you may toy with it in raptures, and then you may write a _Sensitive Plant_."*

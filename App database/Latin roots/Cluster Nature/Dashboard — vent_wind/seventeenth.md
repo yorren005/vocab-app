@@ -5,15 +5,6 @@ status: unread
 ---
 # seventeenth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 17 in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming next after the sixteenth in position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I had just finished my seventeenth and Leonore her eighteenth year when a summer came which was to bring grave changes."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A certain d’Urberville of the sixteenth or seventeenth century committed a dreadful crime in his family coach; and since that time members of the family see or hear the old coach whenever—— But I’ll tell you another day—it is rather gloomy."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But it was bought about the middle of the seventeenth century by the Halls, who own it still, and in whose family there has been a baronetcy since 1687."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 17 in a countable series of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming next after the sixteenth in position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I had just finished my seventeenth and Leonore her eighteenth year when a summer came which was to bring grave changes."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A certain d’Urberville of the sixteenth or seventeenth century committed a dreadful crime in his family coach; and since that time members of the family see or hear the old coach whenever—— But I’ll tell you another day—it is rather gloomy."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But it was bought about the middle of the seventeenth century by the Halls, who own it still, and in whose family there has been a baronetcy since 1687."*

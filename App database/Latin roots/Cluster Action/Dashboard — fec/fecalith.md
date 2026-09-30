@@ -5,13 +5,6 @@ status: unread
 ---
 # fecalith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard mass of fecal matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard mass of fecal matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fecalith designates a hard mass of fecal matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard mass of fecal matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard mass of fecal matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fecalith designates a hard mass of fecal matter."*

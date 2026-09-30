@@ -5,13 +5,6 @@ status: unread
 ---
 # debarment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being debarred (excluded from enjoying certain possessions or rights or practices).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prevention by legal means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debarment designates the state of being debarred (excluded from enjoying certain possessions or rights or practices)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being debarred (excluded from enjoying certain possessions or rights or practices).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prevention by legal means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debarment designates the state of being debarred (excluded from enjoying certain possessions or rights or practices)."*

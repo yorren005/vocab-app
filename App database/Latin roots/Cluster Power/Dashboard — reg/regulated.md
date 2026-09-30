@@ -5,15 +5,6 @@ status: unread
 ---
 # regulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or adjust the time, amount, degree, or rate of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into conformity with rules or principles or usage; impose regulations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should have come down sooner,” he explains, “but that I have been much engaged with those matters in the several suits between yourself and Boythorn.” “A man of a very ill-regulated mind,” observes Sir Leicester with severity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And these qualities are not regulated in him, somehow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This model composition is limited to the three words “And wishing yours!” which the old girl follows up with a nod at everybody in succession and a well-regulated swig of the mixture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or adjust the time, amount, degree, or rate of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into conformity with rules or principles or usage; impose regulations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I should have come down sooner,” he explains, “but that I have been much engaged with those matters in the several suits between yourself and Boythorn.” “A man of a very ill-regulated mind,” observes Sir Leicester with severity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And these qualities are not regulated in him, somehow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This model composition is limited to the three words “And wishing yours!” which the old girl follows up with a nod at everybody in succession and a well-regulated swig of the mixture."*

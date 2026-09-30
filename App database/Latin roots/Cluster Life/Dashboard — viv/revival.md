@@ -5,15 +5,6 @@ status: unread
 ---
 # revival
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evangelistic meeting intended to reawaken interest in religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You’re a brimstone chatterer!” with a sudden revival of his late hostility."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The flood of memories brought back by this revival of an incident anterior to her troubles produced a momentary dismay lest, recognizing her also, he should by some means discover her story."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns's ministry at Berwick was made memorable by a remarkable religious revival in the town."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evangelistic meeting intended to reawaken interest in religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You’re a brimstone chatterer!” with a sudden revival of his late hostility."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The flood of memories brought back by this revival of an incident anterior to her troubles produced a momentary dismay lest, recognizing her also, he should by some means discover her story."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns's ministry at Berwick was made memorable by a remarkable religious revival in the town."*

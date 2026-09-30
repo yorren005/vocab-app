@@ -5,15 +5,6 @@ status: unread
 ---
 # rod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long thin implement made of metal or wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any rod-shaped bacterium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have been a scourge to her enemies; you have been a rod to her friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Earl of Surrey, bearing the rod of silver with the dove, crowned with an earl’s coronet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Duke of Norfolk, with the rod of marshalship, a coronet on his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long thin implement made of metal or wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any rod-shaped bacterium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have been a scourge to her enemies; you have been a rod to her friends."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Earl of Surrey, bearing the rod of silver with the dove, crowned with an earl’s coronet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Duke of Norfolk, with the rod of marshalship, a coronet on his head."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calciferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calciferous designates bearing or producing or containing calcium or calcium carbonate or calcite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calciferous designates bearing or producing or containing calcium or calcium carbonate or calcite."*

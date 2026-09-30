@@ -5,13 +5,6 @@ status: unread
 ---
 # substandard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Falling short of some prescribed norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Falling short of some prescribed norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, substandard designates falling short of some prescribed norm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Falling short of some prescribed norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Falling short of some prescribed norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, substandard designates falling short of some prescribed norm."*

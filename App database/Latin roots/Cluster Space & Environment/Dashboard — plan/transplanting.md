@@ -5,14 +5,6 @@ status: unread
 ---
 # transplanting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing something from one location and introducing it in another location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lift and reset in another soil or situation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Others are dotted over with thin clumps of rice through which the ducks swim gaily, while still others are solid masses of green, and transplanting has already begun."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Let us come & be near you--& see if we are made of the right sort of stuff for transplanting to American soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing something from one location and introducing it in another location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lift and reset in another soil or situation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Others are dotted over with thin clumps of rice through which the ducks swim gaily, while still others are solid masses of green, and transplanting has already begun."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Let us come & be near you--& see if we are made of the right sort of stuff for transplanting to American soil."*

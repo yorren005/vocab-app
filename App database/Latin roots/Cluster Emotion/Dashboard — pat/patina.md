@@ -5,13 +5,6 @@ status: unread
 ---
 # patina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine coating of oxide on the surface of a metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine coating of oxide on the surface of a metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The latter are actually made of coco-nut, and, curiously enough, their interior after much use acquires a vivid patina, whose colour recalls some of the Yüan tz´ŭ glazes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine coating of oxide on the surface of a metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine coating of oxide on the surface of a metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The latter are actually made of coco-nut, and, curiously enough, their interior after much use acquires a vivid patina, whose colour recalls some of the Yüan tz´ŭ glazes."*

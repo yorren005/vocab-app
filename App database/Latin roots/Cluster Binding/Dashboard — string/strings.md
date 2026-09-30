@@ -5,15 +5,6 @@ status: unread
 ---
 # strings
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The section of an orchestra that plays stringed instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight cord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Egypt, thou knew’st too well My heart was to thy rudder tied by th’ strings, And thou shouldst tow me after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make assay: Bow, stubborn knees; and heart with strings of steel, Be soft as sinews of the new-born babe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When such strings jar, what hope of harmony?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The section of an orchestra that plays stringed instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight cord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Egypt, thou knew’st too well My heart was to thy rudder tied by th’ strings, And thou shouldst tow me after."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make assay: Bow, stubborn knees; and heart with strings of steel, Be soft as sinews of the new-born babe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When such strings jar, what hope of harmony?"*

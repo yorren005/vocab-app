@@ -5,15 +5,6 @@ status: unread
 ---
 # atone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amends for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn away from sin or do penitence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it might please you to enforce no further The griefs between ye; to forget them quite Were to remember that the present need Speaks to atone you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there mirth in heaven When earthly things made even Atone together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is unlikely; He and Aufidius can no more atone Than violent’st contrariety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amends for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn away from sin or do penitence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it might please you to enforce no further The griefs between ye; to forget them quite Were to remember that the present need Speaks to atone you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there mirth in heaven When earthly things made even Atone together."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is unlikely; He and Aufidius can no more atone Than violent’st contrariety."*

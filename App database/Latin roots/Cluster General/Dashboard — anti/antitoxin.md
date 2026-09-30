@@ -5,13 +5,6 @@ status: unread
 ---
 # antitoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that can neutralize a specific toxin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that can neutralize a specific toxin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitoxin designates an antibody that can neutralize a specific toxin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that can neutralize a specific toxin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that can neutralize a specific toxin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitoxin designates an antibody that can neutralize a specific toxin."*

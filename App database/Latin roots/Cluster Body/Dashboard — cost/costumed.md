@@ -5,15 +5,6 @@ status: unread
 ---
 # costumed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dress in a costume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with costumes; as for a film or play.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The collective appearance of the gentlemen, like that of the ladies, is very imposing: they are all costumed in black; most of them are tall, some young."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, costumed in shawls, with a turban on his head."*
-> - 📜 **James Joyce (*Ulysses*):** *"Angels much prostitutes like and holy apostles big damn ruffians. _Demimondaines_ nicely handsome sparkling of diamonds very amiable costumed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dress in a costume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with costumes; as for a film or play.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The collective appearance of the gentlemen, like that of the ladies, is very imposing: they are all costumed in black; most of them are tall, some young."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, costumed in shawls, with a turban on his head."*
+> - 📜 **James Joyce (*Ulysses*):** *"Angels much prostitutes like and holy apostles big damn ruffians. _Demimondaines_ nicely handsome sparkling of diamonds very amiable costumed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # anecdote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually short narrative of an interesting, amusing, or biographical incident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is given to or is skilled in telling anecdotes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has never been more than a family anecdote.” “You’ll excuse my asking again if it has anything to do with a picture, ma’am,” observes Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why hasn’t he thirty thousand a year?’ But these are little matters of anecdote—the general property, ma’am—still repeated occasionally among the upper classes.” “Indeed?” said I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well, my dear, it’s a pretty anecdote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually short narrative of an interesting, amusing, or biographical incident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is given to or is skilled in telling anecdotes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It has never been more than a family anecdote.” “You’ll excuse my asking again if it has anything to do with a picture, ma’am,” observes Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why hasn’t he thirty thousand a year?’ But these are little matters of anecdote—the general property, ma’am—still repeated occasionally among the upper classes.” “Indeed?” said I."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Well, my dear, it’s a pretty anecdote."*

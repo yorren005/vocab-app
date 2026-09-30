@@ -5,15 +5,6 @@ status: unread
 ---
 # deserved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly deserved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not how I have deserved to run into my lord’s displeasure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Cleopatra heard you, your reproof Were well deserved of rashness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We had much more monstrous matter of feast, which worthily deserved noting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly deserved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not how I have deserved to run into my lord’s displeasure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Cleopatra heard you, your reproof Were well deserved of rashness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We had much more monstrous matter of feast, which worthily deserved noting."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # overproduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too much production or more than expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too much production or more than expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overproduction designates too much production or more than expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too much production or more than expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too much production or more than expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overproduction designates too much production or more than expected."*

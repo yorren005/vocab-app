@@ -5,13 +5,6 @@ status: unread
 ---
 # otolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcareous concretion in the inner ear of a vertebrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calcareous concretion in the inner ear of a vertebrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otolith designates a calcareous concretion in the inner ear of a vertebrate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcareous concretion in the inner ear of a vertebrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calcareous concretion in the inner ear of a vertebrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otolith designates a calcareous concretion in the inner ear of a vertebrate."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # occurrent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presently occurring (either causally or incidentally).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So tell him, with the occurrents more and less, Which have solicited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that happens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presently occurring (either causally or incidentally).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So tell him, with the occurrents more and less, Which have solicited."*

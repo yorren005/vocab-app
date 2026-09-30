@@ -5,13 +5,6 @@ status: unread
 ---
 # diaspore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of aluminum hydrogen oxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of aluminum hydrogen oxide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaspore designates a mineral consisting of aluminum hydrogen oxide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of aluminum hydrogen oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of aluminum hydrogen oxide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaspore designates a mineral consisting of aluminum hydrogen oxide."*

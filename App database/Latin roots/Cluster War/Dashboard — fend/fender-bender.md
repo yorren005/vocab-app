@@ -5,13 +5,6 @@ status: unread
 ---
 # fender-bender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collision between motor vehicles that produces minor damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collision between motor vehicles that produces minor damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fender-bender designates a collision between motor vehicles that produces minor damage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collision between motor vehicles that produces minor damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collision between motor vehicles that produces minor damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fender-bender designates a collision between motor vehicles that produces minor damage."*

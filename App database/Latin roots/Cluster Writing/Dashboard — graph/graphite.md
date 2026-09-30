@@ -5,15 +5,6 @@ status: unread
 ---
 # graphite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as a lubricant and as a moderator in nuclear reactors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a lubricant and as a moderator in nuclear reactors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This vacuum economised the graphite points between which the luminous arc was developed—an important point of economy for Captain Nemo, who could not easily have replaced them; and under these conditions their waste was imperceptible."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Black-lead--or, as we term it, graphite--of which I have several specimens here--is simply carbon--an allotrope of carbon--the same elementary substance, notwithstanding, as the diamond."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"There is a block of graphite or black lead, for instance, prepared by simple pressure (Fig. 18 _b_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as a lubricant and as a moderator in nuclear reactors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a lubricant and as a moderator in nuclear reactors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This vacuum economised the graphite points between which the luminous arc was developed—an important point of economy for Captain Nemo, who could not easily have replaced them; and under these conditions their waste was imperceptible."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Black-lead--or, as we term it, graphite--of which I have several specimens here--is simply carbon--an allotrope of carbon--the same elementary substance, notwithstanding, as the diamond."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"There is a block of graphite or black lead, for instance, prepared by simple pressure (Fig. 18 _b_)."*

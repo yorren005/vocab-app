@@ -5,15 +5,6 @@ status: unread
 ---
 # repugnant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His antique sword, Rebellious to his arm, lies where it falls, Repugnant to command."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But the Oxford of that day was a home of "chartered laziness." An academic circle absorbed in intrigues for preferment, and enlivened only by drunkenness and immorality, could offer nothing but what was repugnant to Shelley."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But you wrong me, you do indeed; I'm not in love with Laura, and, if I were, the notion of picking poor Bernard's pocket is absolutely repugnant to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His antique sword, Rebellious to his arm, lies where it falls, Repugnant to command."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"But the Oxford of that day was a home of "chartered laziness." An academic circle absorbed in intrigues for preferment, and enlivened only by drunkenness and immorality, could offer nothing but what was repugnant to Shelley."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But you wrong me, you do indeed; I'm not in love with Laura, and, if I were, the notion of picking poor Bernard's pocket is absolutely repugnant to me."*

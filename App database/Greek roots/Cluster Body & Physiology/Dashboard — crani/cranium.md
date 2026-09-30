@@ -5,15 +5,6 @@ status: unread
 ---
 # cranium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skull; specifically : the part of the skull that encloses the brain : braincase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skull; specifically : the part of the skull that encloses the brain : braincase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Present appearances would indicate them not to have been altogether groundless; but really, when the fair Mary fled so precipitately, the idea of making Winnie Morris his bride had never entered her brother's cranium."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It encountered his cranium with a tremendous crash; he was tumbled headlong into the dust, and Gunpowder, the black steed, and the goblin rider passed by like a whirlwind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"From the illusion implied in this last postulate arises the decomposition of mortal bodies in what is termed death. 92:9 Mind is not an entity within the cranium with the power of sinning now and forever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Skull; specifically : the part of the skull that encloses the brain : braincase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skull; specifically : the part of the skull that encloses the brain : braincase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Present appearances would indicate them not to have been altogether groundless; but really, when the fair Mary fled so precipitately, the idea of making Winnie Morris his bride had never entered her brother's cranium."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It encountered his cranium with a tremendous crash; he was tumbled headlong into the dust, and Gunpowder, the black steed, and the goblin rider passed by like a whirlwind."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"From the illusion implied in this last postulate arises the decomposition of mortal bodies in what is termed death. 92:9 Mind is not an entity within the cranium with the power of sinning now and forever."*

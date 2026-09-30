@@ -5,15 +5,6 @@ status: unread
 ---
 # visage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is british).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance conveyed by a person's face.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blood upon your visage dries; ’tis time It should be looked to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereto serves mercy But to confront the visage of offence?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven’s face doth glow, Yea this solidity and compound mass, With tristful visage, as against the doom, Is thought-sick at the act."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is british).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance conveyed by a person's face.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blood upon your visage dries; ’tis time It should be looked to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereto serves mercy But to confront the visage of offence?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven’s face doth glow, Yea this solidity and compound mass, With tristful visage, as against the doom, Is thought-sick at the act."*

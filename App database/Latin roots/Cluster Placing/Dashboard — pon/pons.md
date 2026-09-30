@@ -5,15 +5,6 @@ status: unread
 ---
 # pons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states coloratura soprano (born in france) (1904-1976).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band of nerve fibers linking the medulla oblongata and the cerebellum with the midbrain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pons,” I ordered, without opening my eyes, “water, cold water, quick, a deluge."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And as I drank I looked at Pons."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pons was a little withered old man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states coloratura soprano (born in france) (1904-1976).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band of nerve fibers linking the medulla oblongata and the cerebellum with the midbrain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pons,” I ordered, without opening my eyes, “water, cold water, quick, a deluge."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And as I drank I looked at Pons."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pons was a little withered old man."*

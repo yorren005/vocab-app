@@ -5,14 +5,6 @@ status: unread
 ---
 # asphyxiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of oxygen and prevent from breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impair the respiration of or obstruct the air passage of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They don't wound me at all, all these sordid miserable details; they just irritate and disgust and asphyxiate."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Be frank with Polk as to how much he asphyxiates me?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of oxygen and prevent from breathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impair the respiration of or obstruct the air passage of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They don't wound me at all, all these sordid miserable details; they just irritate and disgust and asphyxiate."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Be frank with Polk as to how much he asphyxiates me?"*

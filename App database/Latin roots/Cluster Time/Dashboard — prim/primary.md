@@ -5,15 +5,6 @@ status: unread
 ---
 # primary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preliminary election where delegates or nominees are chosen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the main flight feathers projecting along the outer edge of a bird's wing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed in person, and that the primary object is to save and hold harmless Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The primary fact determining the public finances is the extent of the sphere of "the state," meaning by the state the totality of political powers and functions in a community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preliminary election where delegates or nominees are chosen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the main flight feathers projecting along the outer edge of a bird's wing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed in person, and that the primary object is to save and hold harmless Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The primary fact determining the public finances is the extent of the sphere of "the state," meaning by the state the totality of political powers and functions in a community."*

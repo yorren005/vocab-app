@@ -5,13 +5,6 @@ status: unread
 ---
 # dicotyledonous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a flowering plant) having two cotyledons in the seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a flowering plant) having two cotyledons in the seed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near Fort Harker, certain strata contain large quantities of the remains (leaves chiefly) of dicotyledonous and other forms of land vegetation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a flowering plant) having two cotyledons in the seed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a flowering plant) having two cotyledons in the seed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near Fort Harker, certain strata contain large quantities of the remains (leaves chiefly) of dicotyledonous and other forms of land vegetation."*

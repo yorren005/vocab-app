@@ -5,15 +5,6 @@ status: unread
 ---
 # malone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English scholar remembered for his chronology of shakespeare's plays and his editions of shakespeare and dryden (1741-1812).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English scholar remembered for his chronology of shakespeare's plays and his editions of shakespeare and dryden (1741-1812).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A., alone, in the protestant church of Saint Nicholas Without, Coombe, by James O’Connor, Philip Gilligan and James Fitzpatrick, together, under a pump in the village of Swords, and by the reverend Charles Malone C."*
-> - 📜 **James Joyce (*Ulysses*):** *"Stephen (once) by the reverend Charles Malone C."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"They gathered, he declared, all the riffraff of two countries, besides all the Molly Malones and cutpurses that ever were born to be hanged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English scholar remembered for his chronology of shakespeare's plays and his editions of shakespeare and dryden (1741-1812).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English scholar remembered for his chronology of shakespeare's plays and his editions of shakespeare and dryden (1741-1812).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A., alone, in the protestant church of Saint Nicholas Without, Coombe, by James O’Connor, Philip Gilligan and James Fitzpatrick, together, under a pump in the village of Swords, and by the reverend Charles Malone C."*
+> - 📜 **James Joyce (*Ulysses*):** *"Stephen (once) by the reverend Charles Malone C."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"They gathered, he declared, all the riffraff of two countries, besides all the Molly Malones and cutpurses that ever were born to be hanged."*

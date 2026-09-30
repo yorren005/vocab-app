@@ -5,15 +5,6 @@ status: unread
 ---
 # merry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering fun and gaiety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is not well, but yet she has her health; she’s very merry, but yet she is not well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like to the time o’ th’ year between the extremes Of hot and cold, he was nor sad nor merry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heavenly mingle!—Be’st thou sad or merry, The violence of either thee becomes, So does it no man else.—Met’st thou my posts?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering fun and gaiety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is not well, but yet she has her health; she’s very merry, but yet she is not well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like to the time o’ th’ year between the extremes Of hot and cold, he was nor sad nor merry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heavenly mingle!—Be’st thou sad or merry, The violence of either thee becomes, So does it no man else.—Met’st thou my posts?"*

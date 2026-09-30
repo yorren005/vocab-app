@@ -5,15 +5,6 @@ status: unread
 ---
 # idolize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This unwonted abstraction by love of all dignity from a man of whom it had ever seemed the chief component, was, in its distressing incongruity, a pain to her which quenched much of the pleasure she derived from the proof that she was idolized."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The anti-climax would be too intolerable; and her return might bring reproach upon her idolized husband."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There is no doubt that she perfectly idolized him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This unwonted abstraction by love of all dignity from a man of whom it had ever seemed the chief component, was, in its distressing incongruity, a pain to her which quenched much of the pleasure she derived from the proof that she was idolized."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The anti-climax would be too intolerable; and her return might bring reproach upon her idolized husband."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There is no doubt that she perfectly idolized him."*

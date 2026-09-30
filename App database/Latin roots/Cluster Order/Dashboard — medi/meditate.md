@@ -5,15 +5,6 @@ status: unread
 ---
 # meditate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Think intently and at length, as for spiritual purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will meditate the while upon some horrid message for a challenge. [_Exeunt Sir Toby, Fabian and Maria._] OLIVIA."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn seems to meditate as he looks distrustfully at her, then he replies, “Well, wench, well."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Come, Miss Morland, let us leave him to meditate over our faults in the utmost propriety of diction, while we praise Udolpho in whatever terms we like best."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Think intently and at length, as for spiritual purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will meditate the while upon some horrid message for a challenge. [_Exeunt Sir Toby, Fabian and Maria._] OLIVIA."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn seems to meditate as he looks distrustfully at her, then he replies, “Well, wench, well."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Come, Miss Morland, let us leave him to meditate over our faults in the utmost propriety of diction, while we praise Udolpho in whatever terms we like best."*

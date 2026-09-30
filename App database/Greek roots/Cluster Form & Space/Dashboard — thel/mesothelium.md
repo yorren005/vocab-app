@@ -5,13 +5,6 @@ status: unread
 ---
 # mesothelium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesothelium designates epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesothelium designates epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # recessional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn that is sung at the end of a service as the clergy and choir withdraw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recessional designates the withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn that is sung at the end of a service as the clergy and choir withdraw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recessional designates the withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service."*

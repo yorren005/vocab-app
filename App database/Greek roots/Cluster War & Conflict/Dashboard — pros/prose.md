@@ -5,15 +5,6 @@ status: unread
 ---
 # prose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ordinary writing as distinguished from verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matter of fact, commonplace, or dull expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sweet Maria, empress of my love, These numbers will I tear, and write in prose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soft, here follows prose. [_Reads._] _If this fall into thy hand, revolve."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We got into such a chatty state that night, through Ada and my guardian drawing me out to tell them all about Caddy, that I went on prose, prose, prosing for a length of time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ordinary writing as distinguished from verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matter of fact, commonplace, or dull expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sweet Maria, empress of my love, These numbers will I tear, and write in prose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soft, here follows prose. [_Reads._] _If this fall into thy hand, revolve."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We got into such a chatty state that night, through Ada and my guardian drawing me out to tell them all about Caddy, that I went on prose, prose, prosing for a length of time."*

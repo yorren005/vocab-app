@@ -5,14 +5,6 @@ status: unread
 ---
 # agnosticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agnostic quality, state, or attitude:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The view that any ultimate reality (such as a deity) is unknown and probably unknowable : a philosophical or religious position characterized by uncertainty about the existence of a god or any gods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In this age of professed and often, no doubt, affected, agnosticism and pessimism, Browning is the foremost apostle of Hope."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A RESTLESS SENSE OF EXISTENCE DESTROYED Through reading Science and Health and the illumination which followed, I was healed of ulceration of the stomach and kindred troubles, a restless sense of existence, agnosticism, etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agnostic quality, state, or attitude:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The view that any ultimate reality (such as a deity) is unknown and probably unknowable : a philosophical or religious position characterized by uncertainty about the existence of a god or any gods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In this age of professed and often, no doubt, affected, agnosticism and pessimism, Browning is the foremost apostle of Hope."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A RESTLESS SENSE OF EXISTENCE DESTROYED Through reading Science and Health and the illumination which followed, I was healed of ulceration of the stomach and kindred troubles, a restless sense of existence, agnosticism, etc."*

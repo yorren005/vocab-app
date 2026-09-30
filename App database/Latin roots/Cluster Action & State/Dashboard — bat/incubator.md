@@ -5,15 +5,6 @@ status: unread
 ---
 # incubator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Garnet," said Phyllis, "do you use an incubator?" "Oh, yes, we have an incubator." "I suppose you find it very useful?" "I'm afraid we use it chiefly for drying our boots when they get wet," I said."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We have to keep a constant eye on him." "And have you had any success with the incubator?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I have always wanted to have one of my own, but we have never kept fowls." "The incubator has not done all that it should have done," I said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Garnet," said Phyllis, "do you use an incubator?" "Oh, yes, we have an incubator." "I suppose you find it very useful?" "I'm afraid we use it chiefly for drying our boots when they get wet," I said."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We have to keep a constant eye on him." "And have you had any success with the incubator?"*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I have always wanted to have one of my own, but we have never kept fowls." "The incubator has not done all that it should have done," I said."*

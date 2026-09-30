@@ -5,13 +5,6 @@ status: unread
 ---
 # combativeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant aggressiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant aggressiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Seeing that he could not arouse their patriotism, the captain next tried to arouse their combativeness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant aggressiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant aggressiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Seeing that he could not arouse their patriotism, the captain next tried to arouse their combativeness."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # noctilucent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining or glowing by night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shining or glowing by night.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctilucent designates shining or glowing by night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining or glowing by night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shining or glowing by night.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctilucent designates shining or glowing by night."*

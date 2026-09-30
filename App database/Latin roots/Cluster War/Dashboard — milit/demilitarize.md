@@ -5,13 +5,6 @@ status: unread
 ---
 # demilitarize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with the military organization and potential of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove offensive capability from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demilitarize designates do away with the military organization and potential of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with the military organization and potential of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove offensive capability from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demilitarize designates do away with the military organization and potential of."*

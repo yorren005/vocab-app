@@ -5,13 +5,6 @@ status: unread
 ---
 # inventorying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making an itemized list of merchandise or supplies on hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or include in an itemized record or report.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inventorying designates making an itemized list of merchandise or supplies on hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making an itemized list of merchandise or supplies on hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or include in an itemized record or report.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inventorying designates making an itemized list of merchandise or supplies on hand."*

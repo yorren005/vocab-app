@@ -5,15 +5,6 @@ status: unread
 ---
 # marley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jamaican singer who popularized reggae (1945-1981).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jamaican singer who popularized reggae (1945-1981).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"ANNE GILCHRIST TO WALT WHITMAN _Marley, Haslemere, England_ _August 22, 1880_ 193 LVI."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"LETTER LV ANNE GILCHRIST TO WALT WHITMAN _Marley, Haslemere England Aug. 22, '80._ MY DEAREST FRIEND: I have had all the welcome papers with accounts of your doings, and to-day a nice long letter from Mrs."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"He has a commission also to paint a small portrait of me for our friends at Marley, on which he is busy just now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jamaican singer who popularized reggae (1945-1981).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jamaican singer who popularized reggae (1945-1981).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"ANNE GILCHRIST TO WALT WHITMAN _Marley, Haslemere, England_ _August 22, 1880_ 193 LVI."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"LETTER LV ANNE GILCHRIST TO WALT WHITMAN _Marley, Haslemere England Aug. 22, '80._ MY DEAREST FRIEND: I have had all the welcome papers with accounts of your doings, and to-day a nice long letter from Mrs."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"He has a commission also to paint a small portrait of me for our friends at Marley, on which he is busy just now."*

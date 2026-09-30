@@ -5,15 +5,6 @@ status: unread
 ---
 # asparagus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant whose succulent young shoots are cooked and eaten as a vegetable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edible young shoots of the asparagus plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The count walked up and down the hall in his dressing gown, giving orders to the club steward and to the famous Feoktíst, the club’s head cook, about asparagus, fresh cucumbers, strawberries, veal, and fish for this dinner."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Do you like asparagus? said Fontenelle."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"If you take the mice away from her when she plays with, them, she will learn, in time, to kill her prey quickly." "Fred's cat eats asparagus," said Philip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant whose succulent young shoots are cooked and eaten as a vegetable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edible young shoots of the asparagus plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The count walked up and down the hall in his dressing gown, giving orders to the club steward and to the famous Feoktíst, the club’s head cook, about asparagus, fresh cucumbers, strawberries, veal, and fish for this dinner."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Do you like asparagus? said Fontenelle."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"If you take the mice away from her when she plays with, them, she will learn, in time, to kill her prey quickly." "Fred's cat eats asparagus," said Philip."*

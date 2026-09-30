@@ -5,15 +5,6 @@ status: unread
 ---
 # technician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation involves training in a specific technical process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone known for high skill in some intellectual or artistic technique.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It would take time for the comm technician on duty to work it out."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As a senior technician, I was assigned to the recovery and repair of damaged parachutes, life rafts, inflatable life preservers, oxygen masks, and the escape-and-evasion kits that air crews relied on when they bailed out over enemy territory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation involves training in a specific technical process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone known for high skill in some intellectual or artistic technique.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It would take time for the comm technician on duty to work it out."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As a senior technician, I was assigned to the recovery and repair of damaged parachutes, life rafts, inflatable life preservers, oxygen masks, and the escape-and-evasion kits that air crews relied on when they bailed out over enemy territory."*

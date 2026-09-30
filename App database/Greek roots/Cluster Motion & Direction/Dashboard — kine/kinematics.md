@@ -5,13 +5,6 @@ status: unread
 ---
 # kinematics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dynamics that deals with aspects of motion apart from considerations of mass and force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dynamics that deals with aspects of motion apart from considerations of mass and force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinematics designates a branch of dynamics that deals with aspects of motion apart from considerations of mass and force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dynamics that deals with aspects of motion apart from considerations of mass and force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dynamics that deals with aspects of motion apart from considerations of mass and force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinematics designates a branch of dynamics that deals with aspects of motion apart from considerations of mass and force."*

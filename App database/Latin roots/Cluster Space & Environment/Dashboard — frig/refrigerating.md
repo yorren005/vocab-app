@@ -5,15 +5,6 @@ status: unread
 ---
 # refrigerating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by chilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool or chill in or as if in a refrigerator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The Working of a Refrigerating Machine 70 6."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the refrigerating machine motion produces heat, on the face of it a strange way of producing cold."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The feature of the above machine, it will be noticed, is that no cooling water is required, as in the refrigerating machine, although the principle of the two is the same."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by chilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool or chill in or as if in a refrigerator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The Working of a Refrigerating Machine 70 6."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the refrigerating machine motion produces heat, on the face of it a strange way of producing cold."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The feature of the above machine, it will be noticed, is that no cooling water is required, as in the refrigerating machine, although the principle of the two is the same."*

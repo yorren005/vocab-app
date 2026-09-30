@@ -5,15 +5,6 @@ status: unread
 ---
 # informality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that does not take forms and ceremonies seriously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from constraint or embarrassment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Why did not you seek legal redress?” “There was just such an informality in the terms of the bequest as to give me no hope from law."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Better now?" His informality went against the grain of Isabel's taste: he had no right to presume on a forced situation: with what fastidious modesty Val would have drawn back!"*
-> - 📜 **Algis Budrys (*Citadel*):** *"She'll tolerate informality from me because I'm in direct authority over her, and direct authority, of course, is Law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that does not take forms and ceremonies seriously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from constraint or embarrassment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Why did not you seek legal redress?” “There was just such an informality in the terms of the bequest as to give me no hope from law."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Better now?" His informality went against the grain of Isabel's taste: he had no right to presume on a forced situation: with what fastidious modesty Val would have drawn back!"*
+> - 📜 **Algis Budrys (*Citadel*):** *"She'll tolerate informality from me because I'm in direct authority over her, and direct authority, of course, is Law."*

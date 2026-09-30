@@ -5,20 +5,6 @@ status: unread
 ---
 # stifle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Deter, discourage
-> 2. **Nuance / Usage**: Cut off (the voice, the breath, etc.)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stifle the target*) and intransitive clauses (*stifling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"endeavoured to stifle it—I endeavoured to be firm."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s desire to stifle the scandal of Raffles."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"ill-fated pirate’s mouth to stifle the dying groan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To suffocate or make unable to breathe, especially from oppressive heat, thick smoke, or lack of fresh air; to smother a fire.
+> 2. **Nuance / Usage**: Figuratively, to hold back, muffle, or suppress a natural impulse, sound, or activity (*to stifle a yawn*, *to stifle dissent*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stifle the target*) and intransitive clauses (*stifling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I endeavoured to **stifle** my sobs; I endeavoured to be firm."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Nothing could equal Bulstrode’s desire to **stifle** the scandal of Raffles."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"He clapped his hand over the ill-fated pirate’s mouth to **stifle** the dying groan."*

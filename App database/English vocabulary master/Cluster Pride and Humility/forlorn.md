@@ -5,20 +5,6 @@ status: unread
 ---
 # forlorn
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bereft, forsaken
-> 2. **Nuance / Usage**: Unlikely to succeed; hopeless
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a forlorn presence*) or predicatively (*remained forlorn*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now for the honour of the forlorn French!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Be poisonous too and kill thy forlorn Queen."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Speak, captain, shall I stab the forlorn swain?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Bereft, forsaken
+> 2. **Nuance / Usage**: Unlikely to succeed; hopeless
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a forlorn presence*) or predicatively (*remained forlorn*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now for the honour of the forlorn French!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Be poisonous too and kill thy forlorn Queen."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Speak, captain, shall I stab the forlorn swain?"*

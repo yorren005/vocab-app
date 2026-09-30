@@ -5,15 +5,6 @@ status: unread
 ---
 # pasted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Join or attach with or as if with glue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hit with the fists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was a bill, pasted on the door-post, announcing a room to let on the second floor."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here on the head of an empty barrel stood on end were an ink-bottle, some old stumps of pens, and some dirty playbills; and against the wall were pasted several large printed alphabets in several plain hands."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Tis for your credit, Monsieur _Brisac_, printed in Capital Letters, then pasted upon all the posts in _Paris_. _Bri_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Join or attach with or as if with glue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hit with the fists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was a bill, pasted on the door-post, announcing a room to let on the second floor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here on the head of an empty barrel stood on end were an ink-bottle, some old stumps of pens, and some dirty playbills; and against the wall were pasted several large printed alphabets in several plain hands."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Tis for your credit, Monsieur _Brisac_, printed in Capital Letters, then pasted upon all the posts in _Paris_. _Bri_."*

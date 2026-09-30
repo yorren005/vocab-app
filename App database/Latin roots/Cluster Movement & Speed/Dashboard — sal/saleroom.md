@@ -5,13 +5,6 @@ status: unread
 ---
 # saleroom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area where merchandise (such as cars) can be displayed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area where merchandise (such as cars) can be displayed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saleroom designates an area where merchandise (such as cars) can be displayed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area where merchandise (such as cars) can be displayed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area where merchandise (such as cars) can be displayed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saleroom designates an area where merchandise (such as cars) can be displayed."*

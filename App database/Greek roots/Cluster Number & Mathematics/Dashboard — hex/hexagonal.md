@@ -5,15 +5,6 @@ status: unread
 ---
 # hexagonal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having six sides or divided into hexagons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having six sides or divided into hexagons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"These are hexagonal-radiate, each division being a pinnate or feather-shaped lamina of twin rows of crystals."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then, not daring to hesitate any longer, she rang the bell, and was presently joined by a French lady of polished manners--Miss Carew’s maid who conducted her to the boudoir, a hexagonal apartment that, Alice thought, a sultana might have envied."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Peters Collection includes a well-modelled duck, a handsome vase with mask handles and hexagonal base, and a good example of the "granary urn." The last is a grain jar which derives its form from a granary tower."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having six sides or divided into hexagons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having six sides or divided into hexagons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"These are hexagonal-radiate, each division being a pinnate or feather-shaped lamina of twin rows of crystals."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then, not daring to hesitate any longer, she rang the bell, and was presently joined by a French lady of polished manners--Miss Carew’s maid who conducted her to the boudoir, a hexagonal apartment that, Alice thought, a sultana might have envied."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Peters Collection includes a well-modelled duck, a handsome vase with mask handles and hexagonal base, and a good example of the "granary urn." The last is a grain jar which derives its form from a granary tower."*

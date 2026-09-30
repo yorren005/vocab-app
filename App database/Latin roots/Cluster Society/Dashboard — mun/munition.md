@@ -5,15 +5,6 @@ status: unread
 ---
 # munition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military supplies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Tower with all the haste I can To view th’ artillery and munition; And then I will proclaim young Henry king. [_Exit._] EXETER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What penny hath Rome borne, What men provided, what munition sent, To underprop this action?"*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"What made you wandring Sir, into that vault Where all the City store, and the Munition lay? _Rut._ I fell into it by chance, I broke my shins for't: Your worships feel not that: I knockt my head Against a hundred posts, would you had had it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military supplies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Tower with all the haste I can To view th’ artillery and munition; And then I will proclaim young Henry king. [_Exit._] EXETER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What penny hath Rome borne, What men provided, what munition sent, To underprop this action?"*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"What made you wandring Sir, into that vault Where all the City store, and the Munition lay? _Rut._ I fell into it by chance, I broke my shins for't: Your worships feel not that: I knockt my head Against a hundred posts, would you had had it."*

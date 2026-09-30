@@ -5,15 +5,6 @@ status: unread
 ---
 # meter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematically arranged and measured rhythm in verse:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhythm that continuously repeats a single basic pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Five-meter high orange letters glowed brightly along its blunt bow and stern, and on each quarter sector of its exposed surface, proclaiming the huge cylinder as the UIPS SLINGSHOT LOGISTICS DEPOT."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fifteen-meters-long vessel, with a barely two-meter beam, swooped low and snapped into its run barely fifteen meters across Pluto's desolate plains."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A panel in the wall slid upward to reveal a two-meter square well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematically arranged and measured rhythm in verse:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhythm that continuously repeats a single basic pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Five-meter high orange letters glowed brightly along its blunt bow and stern, and on each quarter sector of its exposed surface, proclaiming the huge cylinder as the UIPS SLINGSHOT LOGISTICS DEPOT."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fifteen-meters-long vessel, with a barely two-meter beam, swooped low and snapped into its run barely fifteen meters across Pluto's desolate plains."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A panel in the wall slid upward to reveal a two-meter square well."*

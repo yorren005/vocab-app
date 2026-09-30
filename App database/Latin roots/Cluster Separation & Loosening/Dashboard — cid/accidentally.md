@@ -5,15 +5,6 @@ status: unread
 ---
 # accidentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without advance planning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a minor or subordinate nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are the parents to these children, Which accidentally are met together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am most fortunate thus accidentally to encounter you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, accidentally remembering them, sent them to bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without advance planning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a minor or subordinate nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are the parents to these children, Which accidentally are met together."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am most fortunate thus accidentally to encounter you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, accidentally remembering them, sent them to bed."*

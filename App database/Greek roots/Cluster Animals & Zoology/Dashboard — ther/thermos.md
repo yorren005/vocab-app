@@ -5,15 +5,6 @@ status: unread
 ---
 # thermos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They call it a thermos bottle."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"We'll have our coffee, and get the thermos bottle filled, too, by the time you come back.” Nan liked tom Sherwood."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The boys have to be at Blackton's so's to get to work at seven.” They filled the thermos bottle that had so puzzled Tom, and then sallied forth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They call it a thermos bottle."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"We'll have our coffee, and get the thermos bottle filled, too, by the time you come back.” Nan liked tom Sherwood."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The boys have to be at Blackton's so's to get to work at seven.” They filled the thermos bottle that had so puzzled Tom, and then sallied forth."*

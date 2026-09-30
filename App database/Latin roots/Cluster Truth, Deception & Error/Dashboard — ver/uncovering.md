@@ -5,15 +5,6 @@ status: unread
 ---
 # uncovering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discovering something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Time is long when there is neither night nor day.' Then, uncovering himself, he turned towards the city."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You know this place, Mason,” said our guide; “she bit and stabbed you here.” He lifted the hangings from the wall, uncovering the second door: this, too, he opened."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi, saluting this old gentleman, motioned him to a seat between us, and then uncovering my limb, desired him to examine it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discovering something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Time is long when there is neither night nor day.' Then, uncovering himself, he turned towards the city."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You know this place, Mason,” said our guide; “she bit and stabbed you here.” He lifted the hangings from the wall, uncovering the second door: this, too, he opened."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi, saluting this old gentleman, motioned him to a seat between us, and then uncovering my limb, desired him to examine it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exhaust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gases ejected from an engine as waste products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: System consisting of the parts of an engine through which burned gases or steam are discharged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spare not the babe, Whose dimpled smiles from fools exhaust their mercy; Think it a bastard whom the oracle Hath doubtfully pronounced thy throat shall cut, And mince it sans remorse."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada had been telling me only that morning of her hopes that Richard might exhaust his ardour in the Chancery suit by being so very earnest in it; and therefore, not to damp my dear girl’s spirits, I said nothing about Mr."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus Christ transcends our categories and classification; we never exhaust him; and one element of Christian happiness is that there is always more in him than we supposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gases ejected from an engine as waste products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: System consisting of the parts of an engine through which burned gases or steam are discharged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spare not the babe, Whose dimpled smiles from fools exhaust their mercy; Think it a bastard whom the oracle Hath doubtfully pronounced thy throat shall cut, And mince it sans remorse."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ada had been telling me only that morning of her hopes that Richard might exhaust his ardour in the Chancery suit by being so very earnest in it; and therefore, not to damp my dear girl’s spirits, I said nothing about Mr."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus Christ transcends our categories and classification; we never exhaust him; and one element of Christian happiness is that there is always more in him than we supposed."*

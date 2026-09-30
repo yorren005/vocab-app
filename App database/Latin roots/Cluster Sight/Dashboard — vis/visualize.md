@@ -5,15 +5,6 @@ status: unread
 ---
 # visualize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: View the outline of by means of an x-ray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Can you visualize me milking cows, for instance?" "No," answered Amanda, "I'd say that you were cut out for a different role." There was a deeper meaning in the country girl's words than the flighty city girl could read."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The tone of the parables is due largely to this gift of visualizing, to use an ugly modern word, and of doing it with swiftness and precision."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence was not a fanciful man: but the red and grey remains of Clara Janaway would have set the visualizing faculty to work in the mind of a ploughboy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: View the outline of by means of an x-ray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Can you visualize me milking cows, for instance?" "No," answered Amanda, "I'd say that you were cut out for a different role." There was a deeper meaning in the country girl's words than the flighty city girl could read."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The tone of the parables is due largely to this gift of visualizing, to use an ugly modern word, and of doing it with swiftness and precision."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence was not a fanciful man: but the red and grey remains of Clara Janaway would have set the visualizing faculty to work in the mind of a ploughboy."*

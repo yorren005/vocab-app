@@ -5,14 +5,6 @@ status: unread
 ---
 # ostracise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel from a community or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid speaking to or dealing with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have a curious conviction that to be socially ostracised would be just what she would prefer."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Socrates, immortal teacher of Grecian philosophy, soldier and senator, and one of the most shining examples of public virtue, was ostracised and condemned and drank the fatal hemlock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel from a community or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid speaking to or dealing with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have a curious conviction that to be socially ostracised would be just what she would prefer."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Socrates, immortal teacher of Grecian philosophy, soldier and senator, and one of the most shining examples of public virtue, was ostracised and condemned and drank the fatal hemlock."*

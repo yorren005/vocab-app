@@ -5,13 +5,6 @@ status: unread
 ---
 # tragopan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliantly colored asian pheasant having wattles and two fleshy processes on the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored asian pheasant having wattles and two fleshy processes on the head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragopan designates brilliantly colored asian pheasant having wattles and two fleshy processes on the head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliantly colored asian pheasant having wattles and two fleshy processes on the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored asian pheasant having wattles and two fleshy processes on the head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragopan designates brilliantly colored asian pheasant having wattles and two fleshy processes on the head."*

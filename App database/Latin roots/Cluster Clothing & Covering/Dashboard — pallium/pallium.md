@@ -5,13 +5,6 @@ status: unread
 ---
 # pallium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pallium designates the layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pallium designates the layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum."*

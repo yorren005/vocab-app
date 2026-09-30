@@ -5,13 +5,6 @@ status: unread
 ---
 # nonbelligerent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not directly at war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not directly at war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonbelligerent designates not directly at war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not directly at war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not directly at war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonbelligerent designates not directly at war."*

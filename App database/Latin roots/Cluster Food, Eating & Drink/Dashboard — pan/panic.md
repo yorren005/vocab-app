@@ -5,15 +5,6 @@ status: unread
 ---
 # panic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming feeling of fear and anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden mass fear and anxiety over anticipated events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He followed me when I called him: but cast a regretful look at the postern by which we had gone out, through which I had dragged him back in a panic (I confess it) unworthy of me."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"They had all a look of half panic, half shame upon their faces."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Look! it comes again.' I have always considered myself a man of courage, but when I saw this extraordinary appearance the panic which had seized upon me the former night returned, though in another form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming feeling of fear and anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden mass fear and anxiety over anticipated events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He followed me when I called him: but cast a regretful look at the postern by which we had gone out, through which I had dragged him back in a panic (I confess it) unworthy of me."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"They had all a look of half panic, half shame upon their faces."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Look! it comes again.' I have always considered myself a man of courage, but when I saw this extraordinary appearance the panic which had seized upon me the former night returned, though in another form."*

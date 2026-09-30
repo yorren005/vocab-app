@@ -5,15 +5,6 @@ status: unread
 ---
 # propeller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that rotates to push against air or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that rotates to push against air or water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The F-80's high accident rate in the early years of the war was attributed to pilots familiar with propeller-driven aircraft transitioning to the faster and more powerful jets."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In effect, the USAF was experiencing a major transition from relatively slow propeller-driven to much higher speed jet aircraft - in the middle of an intense air war."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since no man-made mechanism can approach the marvellous action of the fish's fins and tail, the propulsion is achieved by a propeller like that of a steamboat, but of course on a very small scale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that rotates to push against air or water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that rotates to push against air or water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The F-80's high accident rate in the early years of the war was attributed to pilots familiar with propeller-driven aircraft transitioning to the faster and more powerful jets."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In effect, the USAF was experiencing a major transition from relatively slow propeller-driven to much higher speed jet aircraft - in the middle of an intense air war."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since no man-made mechanism can approach the marvellous action of the fish's fins and tail, the propulsion is achieved by a propeller like that of a steamboat, but of course on a very small scale."*

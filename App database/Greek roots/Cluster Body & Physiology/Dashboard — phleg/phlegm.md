@@ -5,15 +5,6 @@ status: unread
 ---
 # phlegm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Viscid mucus secreted in abnormal quantity in the respiratory passages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the four humors in ancient and medieval physiology that was believed to be cold and moist and to cause lethargy and dullness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O no, I should never ha’ thought a word of where she was a sitting to, if she hadn’t told me—not I.” “We are going to be married soon,” said Clare, with improvised phlegm."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was a busy, bustling, disputatious tone about it, instead of the accustomed phlegm and drowsy tranquillity."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"British phlegm incased his soul, and British leather his feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Viscid mucus secreted in abnormal quantity in the respiratory passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the four humors in ancient and medieval physiology that was believed to be cold and moist and to cause lethargy and dullness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O no, I should never ha’ thought a word of where she was a sitting to, if she hadn’t told me—not I.” “We are going to be married soon,” said Clare, with improvised phlegm."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was a busy, bustling, disputatious tone about it, instead of the accustomed phlegm and drowsy tranquillity."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"British phlegm incased his soul, and British leather his feet."*

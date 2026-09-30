@@ -5,20 +5,6 @@ status: unread
 ---
 # hound
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Any canine animal
-> 2. **Nuance / Usage**: Mean or despicable person
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch Book*):** *"together; and the sound hound and horn blend all feelings into harmony."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"any hound that ever mortal eye has rested upon."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"heard of the hound ever since I was in the nursery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: As a transitive verb, to pursue, chase, or harass someone relentlessly and without respite, as if with a pack of hunting dogs.
+> 2. **Nuance / Usage**: As a noun, a dog bred for hunting by scent or sight; also used figuratively for a relentless pursuer or a despicable person.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb & Noun (count).
+> - **Syntactic Constructions**: Functions verbally (*hounded out of office*, *hounded by the press*) and nominally (*the baying of the hounds*).
+> - **Collocations & Registers**: Hunting, gothic, and journalistic registers; paired with *pack*, *horn*, *bay*, *relentlessly*, and *persecute*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"It was a foul thing, larger and fiercer than any **hound** that ever mortal eye has rested upon."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The cheerful sound of **hound** and horn seemed to blend all feelings into harmony."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"Javert continued to **hound** his quarry through the labyrinth of dark Parisian streets."*

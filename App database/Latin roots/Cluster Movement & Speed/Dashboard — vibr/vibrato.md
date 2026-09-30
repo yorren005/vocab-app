@@ -5,13 +5,6 @@ status: unread
 ---
 # vibrato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Old Glynn he knew how to make that instrument talk, the _vibrato_: fifty pounds a year they say he had in Gardiner street."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Old Glynn he knew how to make that instrument talk, the _vibrato_: fifty pounds a year they say he had in Gardiner street."*

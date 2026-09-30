@@ -5,13 +5,6 @@ status: unread
 ---
 # tangiers
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city of northern morocco at the west end of the strait of gibraltar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city of northern morocco at the west end of the strait of gibraltar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangiers designates a city of northern morocco at the west end of the strait of gibraltar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city of northern morocco at the west end of the strait of gibraltar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city of northern morocco at the west end of the strait of gibraltar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangiers designates a city of northern morocco at the west end of the strait of gibraltar."*

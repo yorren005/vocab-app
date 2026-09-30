@@ -5,13 +5,6 @@ status: unread
 ---
 # semifinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two competitions in the next to the last round of an elimination tournament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two competitions in the next to the last round of an elimination tournament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semifinal designates one of the two competitions in the next to the last round of an elimination tournament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two competitions in the next to the last round of an elimination tournament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two competitions in the next to the last round of an elimination tournament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semifinal designates one of the two competitions in the next to the last round of an elimination tournament."*

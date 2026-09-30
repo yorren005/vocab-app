@@ -5,15 +5,6 @@ status: unread
 ---
 # tropic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two parallels of terrestrial latitude at a distance of about 23½ degrees north or south of the equator where the sun is directly overhead when it reaches its most northerly or southerly point in the sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region lying between the tropics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was far from dreaming that the dark and silent shape upon which she had so carelessly thrown a seed was a hotbed of tropic intensity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the complexion of a third still lingers a tropic tawn, but slightly bleached withal; he doubtless has tarried whole weeks ashore."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I hope ye’ll have fine weather now, so that Captain Ahab may soon be moving among ye—a pleasant sun is all he needs, and ye’ll have plenty of them in the tropic voyage ye go."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two parallels of terrestrial latitude at a distance of about 23½ degrees north or south of the equator where the sun is directly overhead when it reaches its most northerly or southerly point in the sky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region lying between the tropics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was far from dreaming that the dark and silent shape upon which she had so carelessly thrown a seed was a hotbed of tropic intensity."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the complexion of a third still lingers a tropic tawn, but slightly bleached withal; he doubtless has tarried whole weeks ashore."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I hope ye’ll have fine weather now, so that Captain Ahab may soon be moving among ye—a pleasant sun is all he needs, and ye’ll have plenty of them in the tropic voyage ye go."*

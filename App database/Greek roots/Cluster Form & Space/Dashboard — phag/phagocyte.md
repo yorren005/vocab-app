@@ -5,13 +5,6 @@ status: unread
 ---
 # phagocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (such as a macrophage or neutrophil) that engulfs and consumes foreign material (such as microorganisms) and debris (such as dead tissue cells).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of cells comprising all free and fixed phagocytes and especially macrophages together with their ancestral cells including monocytes and their precursors in the bone marrow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagocyte designates a cell (such as a macrophage or neutrophil) that engulfs and consumes foreign material (such as microorganisms) and debris (such as dead tissue cells)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (such as a macrophage or neutrophil) that engulfs and consumes foreign material (such as microorganisms) and debris (such as dead tissue cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of cells comprising all free and fixed phagocytes and especially macrophages together with their ancestral cells including monocytes and their precursors in the bone marrow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagocyte designates a cell (such as a macrophage or neutrophil) that engulfs and consumes foreign material (such as microorganisms) and debris (such as dead tissue cells)."*

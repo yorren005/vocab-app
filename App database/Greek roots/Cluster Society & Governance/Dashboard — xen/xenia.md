@@ -5,13 +5,6 @@ status: unread
 ---
 # xenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The effect of genes introduced by pollen especially on endosperm and embryo development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwest central Ohio east-southeast of Dayton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenia designates the effect of genes introduced by pollen especially on endosperm and embryo development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The effect of genes introduced by pollen especially on endosperm and embryo development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwest central Ohio east-southeast of Dayton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenia designates the effect of genes introduced by pollen especially on endosperm and embryo development."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # albino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with congenital albinism: white hair and milky skin; eyes are usually pink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with congenital albinism: white hair and milky skin; eyes are usually pink.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is it that in the Albino man so peculiarly repels and often shocks the eye, as that sometimes he is loathed by his own kith and kin!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Albino is as well made as other men—has no substantive deformity—and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And of all these things the Albino whale was the symbol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with congenital albinism: white hair and milky skin; eyes are usually pink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with congenital albinism: white hair and milky skin; eyes are usually pink.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is it that in the Albino man so peculiarly repels and often shocks the eye, as that sometimes he is loathed by his own kith and kin!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Albino is as well made as other men—has no substantive deformity—and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And of all these things the Albino whale was the symbol."*

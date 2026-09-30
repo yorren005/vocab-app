@@ -5,15 +5,6 @@ status: unread
 ---
 # plastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic substance; specifically : any of numerous organic synthetic or processed materials that are mostly thermoplastic or thermosetting polymers of high molecular weight and that can be made into objects, films, or filaments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Credit cards used for payment —called also plastic money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The road-metal grew softer and more clayey as Weatherbury was left behind, and the late rain had wetted its surface to a somewhat plastic, but not muddy state."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You were plastic, a soul in flux, a consciousness and an identity in the process of forming—ay, of forming and forgetting."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic substance; specifically : any of numerous organic synthetic or processed materials that are mostly thermoplastic or thermosetting polymers of high molecular weight and that can be made into objects, films, or filaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Credit cards used for payment —called also plastic money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The road-metal grew softer and more clayey as Weatherbury was left behind, and the late rain had wetted its surface to a somewhat plastic, but not muddy state."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You were plastic, a soul in flux, a consciousness and an identity in the process of forming—ay, of forming and forgetting."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*

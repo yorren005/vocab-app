@@ -5,15 +5,6 @@ status: unread
 ---
 # cuttlefish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It served as nest and food for myriads of crustacea and molluscs, crabs, and cuttlefish."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One cannot deny that poulps and cuttlefish exist of a large species, inferior, however, to the cetaceans."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Aristotle has stated the dimensions of a cuttlefish as five cubits, or nine feet two inches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It served as nest and food for myriads of crustacea and molluscs, crabs, and cuttlefish."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One cannot deny that poulps and cuttlefish exist of a large species, inferior, however, to the cetaceans."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Aristotle has stated the dimensions of a cuttlefish as five cubits, or nine feet two inches."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # clavicle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavicle designates a bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavicle designates a bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone."*

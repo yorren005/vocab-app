@@ -5,13 +5,6 @@ status: unread
 ---
 # immunotherapy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy designed to produce immunity to a disease or to enhance resistance by the immune system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy designed to produce immunity to a disease or to enhance resistance by the immune system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunotherapy designates therapy designed to produce immunity to a disease or to enhance resistance by the immune system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy designed to produce immunity to a disease or to enhance resistance by the immune system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy designed to produce immunity to a disease or to enhance resistance by the immune system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunotherapy designates therapy designed to produce immunity to a disease or to enhance resistance by the immune system."*

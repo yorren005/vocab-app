@@ -5,15 +5,6 @@ status: unread
 ---
 # semicircular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved into a half circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved into a half circle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The homestead consisted of a threshing floor, outhouses, stables, a bathhouse, a lodge, and a large brick house with semicircular façade still in course of construction."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved into a half circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved into a half circle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The homestead consisted of a threshing floor, outhouses, stables, a bathhouse, a lodge, and a large brick house with semicircular façade still in course of construction."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass."*

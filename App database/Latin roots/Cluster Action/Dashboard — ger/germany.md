@@ -5,15 +5,6 @@ status: unread
 ---
 # germany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in central europe; split into east germany and west germany after world war ii and reunited in 1990.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in central europe; split into east germany and west germany after world war ii and reunited in 1990.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Commotions, uproars, with a general taint Of the whole state, as of late days our neighbours, The upper Germany, can dearly witness, Yet freshly pitied in our memories."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And once dispatch’d him in an embassy To Germany, there with the emperor To treat of high affairs touching that time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say Edgar, his banished son, is with the Earl of Kent in Germany."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in central europe; split into east germany and west germany after world war ii and reunited in 1990.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in central europe; split into east germany and west germany after world war ii and reunited in 1990.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Commotions, uproars, with a general taint Of the whole state, as of late days our neighbours, The upper Germany, can dearly witness, Yet freshly pitied in our memories."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And once dispatch’d him in an embassy To Germany, there with the emperor To treat of high affairs touching that time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say Edgar, his banished son, is with the Earl of Kent in Germany."*

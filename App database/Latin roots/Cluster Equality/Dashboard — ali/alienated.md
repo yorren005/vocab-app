@@ -5,15 +5,6 @@ status: unread
 ---
 # alienated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is no more "alienated from the life of God" (Eph. 4:18; Col. 1:21), "without God in the world" (Eph. 2:12), an "enemy of God" (Rom. 5:10); he was lost and is found, and the Father himself, Jesus says, cries: "Let us be merry" ("Euphranthomen")."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She had probably alienated love by the helplessness and fretfulness of a fearful temper, or been unreasonable in wanting a larger share than any one among so many could deserve."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was inconceivable, in those times, that the region beyond the Asteroids would become politically and culturally alienated from the unified community that humankind had created to guide them into the future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is no more "alienated from the life of God" (Eph. 4:18; Col. 1:21), "without God in the world" (Eph. 2:12), an "enemy of God" (Rom. 5:10); he was lost and is found, and the Father himself, Jesus says, cries: "Let us be merry" ("Euphranthomen")."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She had probably alienated love by the helplessness and fretfulness of a fearful temper, or been unreasonable in wanting a larger share than any one among so many could deserve."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was inconceivable, in those times, that the region beyond the Asteroids would become politically and culturally alienated from the unified community that humankind had created to guide them into the future."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # courbet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French painter noted for his realistic depiction of everyday scenes (1819-1877).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter noted for his realistic depiction of everyday scenes (1819-1877).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, courbet designates french painter noted for his realistic depiction of everyday scenes (1819-1877)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French painter noted for his realistic depiction of everyday scenes (1819-1877).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter noted for his realistic depiction of everyday scenes (1819-1877).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, courbet designates french painter noted for his realistic depiction of everyday scenes (1819-1877)."*

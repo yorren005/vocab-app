@@ -5,13 +5,6 @@ status: unread
 ---
 # axoneme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axoneme designates the fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axoneme designates the fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair."*

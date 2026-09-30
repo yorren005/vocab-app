@@ -5,15 +5,6 @@ status: unread
 ---
 # turned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change orientation or direction, also in the abstract sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo a transformation or a change of position or action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are so still, Or thou, the greatest soldier of the world, Art turned the greatest liar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my part, I am sorry it is turned to a drinking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change orientation or direction, also in the abstract sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo a transformation or a change of position or action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are so still, Or thou, the greatest soldier of the world, Art turned the greatest liar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my part, I am sorry it is turned to a drinking."*

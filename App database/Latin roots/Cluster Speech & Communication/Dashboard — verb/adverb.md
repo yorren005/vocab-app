@@ -5,14 +5,6 @@ status: unread
 ---
 # adverb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The word class that qualifies verbs or clauses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that modifies something other than a noun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Still less does he use an adverb from the abstract, like "providentially." He says, "your heavenly Father." He does not talk of "humanity"; he says, "your brethren." He has no jargon, no technical terms, no scholastic vocabulary."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Adverbs should always be used as adjectives and adjectives as adverbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The word class that qualifies verbs or clauses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that modifies something other than a noun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Still less does he use an adverb from the abstract, like "providentially." He says, "your heavenly Father." He does not talk of "humanity"; he says, "your brethren." He has no jargon, no technical terms, no scholastic vocabulary."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Adverbs should always be used as adjectives and adjectives as adverbs."*

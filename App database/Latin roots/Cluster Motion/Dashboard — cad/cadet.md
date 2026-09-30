@@ -5,15 +5,6 @@ status: unread
 ---
 # cadet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military trainee (as at a military academy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military trainee (as at a military academy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Edward” (John was an old servant, and had known his master when he was the cadet of the house, therefore, he often gave him his Christian name)—“I knew what Mr."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Bertram is certainly well off for a cadet of even a baronet’s family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military trainee (as at a military academy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military trainee (as at a military academy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Edward” (John was an old servant, and had known his master when he was the cadet of the house, therefore, he often gave him his Christian name)—“I knew what Mr."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Bertram is certainly well off for a cadet of even a baronet’s family."*

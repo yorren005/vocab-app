@@ -5,15 +5,6 @@ status: unread
 ---
 # cissy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unsuitable feminine qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unsuitable feminine qualities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Cissy Caffrey bent over to him to tease his fat little plucks and the dainty dimple in his chin. —Now, baby, Cissy Caffrey said."*
-> - 📜 **James Joyce (*Ulysses*):** *"None of your spoilt beauties, Flora MacFlimsy sort, was Cissy Caffrey."*
-> - 📜 **James Joyce (*Ulysses*):** *"His little man-o’-war top and unmentionables were full of sand but Cissy was a past mistress in the art of smoothing over life’s tiny troubles and very quickly not one speck of sand was to be seen on his smart little suit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unsuitable feminine qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unsuitable feminine qualities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Cissy Caffrey bent over to him to tease his fat little plucks and the dainty dimple in his chin. —Now, baby, Cissy Caffrey said."*
+> - 📜 **James Joyce (*Ulysses*):** *"None of your spoilt beauties, Flora MacFlimsy sort, was Cissy Caffrey."*
+> - 📜 **James Joyce (*Ulysses*):** *"His little man-o’-war top and unmentionables were full of sand but Cissy was a past mistress in the art of smoothing over life’s tiny troubles and very quickly not one speck of sand was to be seen on his smart little suit."*

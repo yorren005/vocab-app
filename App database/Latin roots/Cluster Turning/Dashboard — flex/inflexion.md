@@ -5,15 +5,6 @@ status: unread
 ---
 # inflexion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Give up--a--?” asked Lord Warburton, meeting her harsh inflexion with a very mellow one."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Shall I show the gentleman up, ma’am?” he asked with a slightly encouraging inflexion."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He sighed and moaned like one under great suffering, and kept it up for a quarter of an hour; on purpose to distress his cousin apparently, for whenever he caught a stifled sob from her he put renewed pain and pathos into the inflexions of his voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Give up--a--?” asked Lord Warburton, meeting her harsh inflexion with a very mellow one."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Shall I show the gentleman up, ma’am?” he asked with a slightly encouraging inflexion."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He sighed and moaned like one under great suffering, and kept it up for a quarter of an hour; on purpose to distress his cousin apparently, for whenever he caught a stifled sob from her he put renewed pain and pathos into the inflexions of his voice."*

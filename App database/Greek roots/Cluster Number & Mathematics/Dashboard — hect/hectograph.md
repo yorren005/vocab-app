@@ -5,13 +5,6 @@ status: unread
 ---
 # hectograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Duplicator consisting of a gelatin plate from which ink can be taken to make a copy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copy on a duplicator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectograph designates duplicator consisting of a gelatin plate from which ink can be taken to make a copy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Duplicator consisting of a gelatin plate from which ink can be taken to make a copy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copy on a duplicator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectograph designates duplicator consisting of a gelatin plate from which ink can be taken to make a copy."*

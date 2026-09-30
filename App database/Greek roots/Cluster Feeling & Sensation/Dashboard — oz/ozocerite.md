@@ -5,13 +5,6 @@ status: unread
 ---
 # ozocerite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozocerite designates a waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozocerite designates a waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping."*

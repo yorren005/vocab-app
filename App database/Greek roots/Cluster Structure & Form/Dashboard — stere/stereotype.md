@@ -5,15 +5,6 @@ status: unread
 ---
 # stereotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a stereotype from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To repeat without variation : make hackneyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This tablet of lead or tin, when cooled, being easily detached from the matrix, would then reveal the letters of the alphabet reversed and in relief, similar to a present day stereotype."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This was the first "stereotype," a term derived from two Greek words meaning literally "solidtype." This method met one requirement."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The distance between the flat plate and the mold was adjusted to make a stereotype plate of the required thickness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a stereotype from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To repeat without variation : make hackneyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This tablet of lead or tin, when cooled, being easily detached from the matrix, would then reveal the letters of the alphabet reversed and in relief, similar to a present day stereotype."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This was the first "stereotype," a term derived from two Greek words meaning literally "solidtype." This method met one requirement."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The distance between the flat plate and the mold was adjusted to make a stereotype plate of the required thickness."*

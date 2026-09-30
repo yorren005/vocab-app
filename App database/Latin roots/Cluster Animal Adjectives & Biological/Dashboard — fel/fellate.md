@@ -5,13 +5,6 @@ status: unread
 ---
 # fellate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide sexual gratification through oral stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide sexual gratification through oral stimulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellate designates provide sexual gratification through oral stimulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide sexual gratification through oral stimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide sexual gratification through oral stimulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellate designates provide sexual gratification through oral stimulation."*

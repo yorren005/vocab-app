@@ -5,13 +5,6 @@ status: unread
 ---
 # perfecta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bet that you can pick the first and second finishers in the right order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bet that you can pick the first and second finishers in the right order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Pérez Galdós, possibly known best in the United States as the author of "Doña Perfecta," may be called the Walter Scott of Spain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bet that you can pick the first and second finishers in the right order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bet that you can pick the first and second finishers in the right order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Pérez Galdós, possibly known best in the United States as the author of "Doña Perfecta," may be called the Walter Scott of Spain."*

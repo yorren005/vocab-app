@@ -5,15 +5,6 @@ status: unread
 ---
 # rendering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a musical composition or a dramatic role etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanation of something that is not immediately obvious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To his good friends thus wide I’ll ope my arms; And, like the kind life-rendering pelican, Repast them with my blood."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop with speechless indignation as he drew on his tight gloves, of course unconscious of the homage she was rendering."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It might be—any age almost.” After rendering this general tribute to the port, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a musical composition or a dramatic role etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanation of something that is not immediately obvious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To his good friends thus wide I’ll ope my arms; And, like the kind life-rendering pelican, Repast them with my blood."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop with speechless indignation as he drew on his tight gloves, of course unconscious of the homage she was rendering."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It might be—any age almost.” After rendering this general tribute to the port, Mr."*

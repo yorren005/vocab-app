@@ -5,13 +5,6 @@ status: unread
 ---
 # trustor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trustor designates (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trustor designates (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee."*

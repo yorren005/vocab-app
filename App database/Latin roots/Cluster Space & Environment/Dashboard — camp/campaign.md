@@ -5,15 +5,6 @@ status: unread
 ---
 # campaign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A race between candidates for elective office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of actions advancing a principle or tending toward a particular end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the surrounding cottages were more or less scenes of the same operation; the scurr of whetting spread into the sky from all parts of the village as from an armoury previous to a campaign."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Poor Sorrow’s campaign against sin, the world, and the devil was doomed to be of limited brilliancy—luckily perhaps for himself, considering his beginnings."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The victory of the gold standard in the campaign of 1896 was, it would seem, due more to the well-founded fear that a sudden change of the money standard would cause a panic than to a popular understanding of the question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A race between candidates for elective office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of actions advancing a principle or tending toward a particular end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the surrounding cottages were more or less scenes of the same operation; the scurr of whetting spread into the sky from all parts of the village as from an armoury previous to a campaign."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Poor Sorrow’s campaign against sin, the world, and the devil was doomed to be of limited brilliancy—luckily perhaps for himself, considering his beginnings."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The victory of the gold standard in the campaign of 1896 was, it would seem, due more to the well-founded fear that a sudden change of the money standard would cause a panic than to a popular understanding of the question."*

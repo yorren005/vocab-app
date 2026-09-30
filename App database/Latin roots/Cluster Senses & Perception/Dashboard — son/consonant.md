@@ -5,15 +5,6 @@ status: unread
 ---
 # consonant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech sound that is not a vowel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter of the alphabet standing for a spoken consonant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOLOFERNES. _Quis, quis_, thou consonant?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"That isn't consonant with the traditions of the service." "Oh, when it comes to the honour of the Army--!" Lawrence jeered at him."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Under such a regulation, it may well happen that the public voice, pronounced by the representatives of the people, will be more consonant to the public good than if pronounced by the people themselves, convened for the purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech sound that is not a vowel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter of the alphabet standing for a spoken consonant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOLOFERNES. _Quis, quis_, thou consonant?"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"That isn't consonant with the traditions of the service." "Oh, when it comes to the honour of the Army--!" Lawrence jeered at him."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Under such a regulation, it may well happen that the public voice, pronounced by the representatives of the people, will be more consonant to the public good than if pronounced by the people themselves, convened for the purpose."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # eradicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely, as if down to the roots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Prejudices, it is well known, are most difficult to eradicate from the heart whose soil has never been loosened or fertilised by education: they grow there, firm as weeds among stones."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But she could not eradicate nature: nor will it be eradicated ‘till this mortal shall put on immortality.’” Having said this, he took his hat, which lay on the table beside my palette."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It is impossible to eradicate the passions; but we must strive to direct them to a noble aim, and it is therefore necessary that everyone should be able to satisfy his passions within the limits of virtue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely, as if down to the roots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Prejudices, it is well known, are most difficult to eradicate from the heart whose soil has never been loosened or fertilised by education: they grow there, firm as weeds among stones."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But she could not eradicate nature: nor will it be eradicated ‘till this mortal shall put on immortality.’” Having said this, he took his hat, which lay on the table beside my palette."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It is impossible to eradicate the passions; but we must strive to direct them to a noble aim, and it is therefore necessary that everyone should be able to satisfy his passions within the limits of virtue."*

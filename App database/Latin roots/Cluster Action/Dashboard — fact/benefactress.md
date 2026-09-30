@@ -5,15 +5,6 @@ status: unread
 ---
 # benefactress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman benefactor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman benefactor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What shocking conduct, Miss Eyre, to strike a young gentleman, your benefactress’s son!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I hope that sigh is from the heart, and that you repent of ever having been the occasion of discomfort to your excellent benefactress.” “Benefactress! benefactress!” said I inwardly: “they all call Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed my benefactress; if so, a benefactress is a disagreeable thing.” “Do you say your prayers night and morning?” continued my interrogator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman benefactor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman benefactor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What shocking conduct, Miss Eyre, to strike a young gentleman, your benefactress’s son!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I hope that sigh is from the heart, and that you repent of ever having been the occasion of discomfort to your excellent benefactress.” “Benefactress! benefactress!” said I inwardly: “they all call Mrs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed my benefactress; if so, a benefactress is a disagreeable thing.” “Do you say your prayers night and morning?” continued my interrogator."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # oculomotor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplies extrinsic muscles of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplies extrinsic muscles of the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oculomotor designates supplies extrinsic muscles of the eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplies extrinsic muscles of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplies extrinsic muscles of the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oculomotor designates supplies extrinsic muscles of the eye."*

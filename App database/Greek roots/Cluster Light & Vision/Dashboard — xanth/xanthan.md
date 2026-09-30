@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide that is produced by fermentation of carbohydrates by a gram-negative bacterium (Xanthomonas campestris) and is a thickening and suspending agent used especially in pharmaceuticals and prepared foods —called also xanthan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide that is produced by fermentation of carbohydrates by a gram-negative bacterium (Xanthomonas campestris) and is a thickening and suspending agent used especially in pharmaceuticals and prepared foods —called also xanthan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthan designates a polysaccharide that is produced by fermentation of carbohydrates by a gram-negative bacterium (xanthomonas campestris) and is a thickening and suspending agent used especially in pharmaceuticals and prepared foods —called also xanthan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide that is produced by fermentation of carbohydrates by a gram-negative bacterium (Xanthomonas campestris) and is a thickening and suspending agent used especially in pharmaceuticals and prepared foods —called also xanthan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide that is produced by fermentation of carbohydrates by a gram-negative bacterium (Xanthomonas campestris) and is a thickening and suspending agent used especially in pharmaceuticals and prepared foods —called also xanthan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthan designates a polysaccharide that is produced by fermentation of carbohydrates by a gram-negative bacterium (xanthomonas campestris) and is a thickening and suspending agent used especially in pharmaceuticals and prepared foods —called also xanthan."*

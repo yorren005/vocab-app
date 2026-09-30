@@ -5,15 +5,6 @@ status: unread
 ---
 # subsiding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual sinking to a lower level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wear off or die down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There he again walks slowly up and down in the same attitude, subsiding, if a man so cool may have any need to subside, from the story he has related downstairs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mind you don’t,” said Bessie; and when she had ascertained that I was really subsiding, she loosened her hold of me; then she and Miss Abbot stood with folded arms, looking darkly and doubtfully on my face, as incredulous of my sanity."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"His uneasiness increasing instead of subsiding, after a quarter of an hour’s consideration, he set off for the coach-office with Startop, who volunteered his company, to make inquiry when the next coach went down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual sinking to a lower level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wear off or die down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There he again walks slowly up and down in the same attitude, subsiding, if a man so cool may have any need to subside, from the story he has related downstairs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mind you don’t,” said Bessie; and when she had ascertained that I was really subsiding, she loosened her hold of me; then she and Miss Abbot stood with folded arms, looking darkly and doubtfully on my face, as incredulous of my sanity."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"His uneasiness increasing instead of subsiding, after a quarter of an hour’s consideration, he set off for the coach-office with Startop, who volunteered his company, to make inquiry when the next coach went down."*

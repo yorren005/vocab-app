@@ -5,13 +5,6 @@ status: unread
 ---
 # pentatonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatonic designates consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatonic designates consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted."*

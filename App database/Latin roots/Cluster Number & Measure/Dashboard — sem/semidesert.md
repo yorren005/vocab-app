@@ -5,13 +5,6 @@ status: unread
 ---
 # semidesert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region much like a desert but usually located between a desert and the surrounding regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region much like a desert but usually located between a desert and the surrounding regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semidesert designates a region much like a desert but usually located between a desert and the surrounding regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region much like a desert but usually located between a desert and the surrounding regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region much like a desert but usually located between a desert and the surrounding regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semidesert designates a region much like a desert but usually located between a desert and the surrounding regions."*

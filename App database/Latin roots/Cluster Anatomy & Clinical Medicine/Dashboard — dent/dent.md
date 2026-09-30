@@ -5,15 +5,6 @@ status: unread
 ---
 # dent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appreciable consequence (especially a lessening).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depression scratched or carved into a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Colonel Dent was less showy; but, I thought, more lady-like."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent had not studied that science: though, as she said, she liked flowers, “especially wild ones;” Miss Ingram had, and she ran over its vocabulary with an air."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent; that is, playing on her ignorance; her _trail_ might be clever, but it was decidedly not good-natured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appreciable consequence (especially a lessening).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depression scratched or carved into a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Colonel Dent was less showy; but, I thought, more lady-like."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent had not studied that science: though, as she said, she liked flowers, “especially wild ones;” Miss Ingram had, and she ran over its vocabulary with an air."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent; that is, playing on her ignorance; her _trail_ might be clever, but it was decidedly not good-natured."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # zoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal : zooid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animal : zooid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A Gentleman was saying one Day at the _Tilt-Yard_ Coffee-House, when it rained exceeding hard, that it put him in Mind of the General _Deluge_; Zoons, Sir, said an old Campaigner, who stood by, who's that?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Zoons, sir, said an old campaigner, who stood by, who’s that?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Zoons! how came you here? replied the old man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal : zooid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animal : zooid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A Gentleman was saying one Day at the _Tilt-Yard_ Coffee-House, when it rained exceeding hard, that it put him in Mind of the General _Deluge_; Zoons, Sir, said an old Campaigner, who stood by, who's that?"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Zoons, sir, said an old campaigner, who stood by, who’s that?"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Zoons! how came you here? replied the old man."*

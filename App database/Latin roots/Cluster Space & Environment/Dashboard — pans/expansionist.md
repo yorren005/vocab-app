@@ -5,15 +5,6 @@ status: unread
 ---
 # expansionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or guided by expansionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or guided by expansionism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Oh, I am an enthusiastic expansionist, Mr.----." "Warthell is my name," supplied Dorlan."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"THE ARDENT EXPANSIONIST." A few minutes before the appointed hour, Dorlan was at the place designated."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Some are expansionists for the sake of finding outlets for the ever-increasing excess of our production."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or guided by expansionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or guided by expansionism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Oh, I am an enthusiastic expansionist, Mr.----." "Warthell is my name," supplied Dorlan."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"THE ARDENT EXPANSIONIST." A few minutes before the appointed hour, Dorlan was at the place designated."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Some are expansionists for the sake of finding outlets for the ever-increasing excess of our production."*

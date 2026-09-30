@@ -5,13 +5,6 @@ status: unread
 ---
 # glossinidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flies closely related to the muscidae: tsetse flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flies closely related to the muscidae: tsetse flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossinidae designates flies closely related to the muscidae: tsetse flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flies closely related to the muscidae: tsetse flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flies closely related to the muscidae: tsetse flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossinidae designates flies closely related to the muscidae: tsetse flies."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # anna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former copper coin of pakistan and india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former copper coin of pakistan and india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sutherland Lines To A Gentleman, Elegy On Willie Nicol’s Mare Song—The Gowden Locks Of Anna Song—I Murder Hate Song—Gudewife, Count The Lawin Election Ballad At the close of the contest for representing the Dumfries Burghs, 1790."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then Anna comes in, the pride o’ her kin, The boast of our bachelors a’, man: Sae sonsy and sweet, sae fully complete, She steals our affections awa, man."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet Anna has an air—a grace, Divine, magnetic, touching: She talks, she charms—but who can trace The process of bewitching?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former copper coin of pakistan and india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former copper coin of pakistan and india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sutherland Lines To A Gentleman, Elegy On Willie Nicol’s Mare Song—The Gowden Locks Of Anna Song—I Murder Hate Song—Gudewife, Count The Lawin Election Ballad At the close of the contest for representing the Dumfries Burghs, 1790."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then Anna comes in, the pride o’ her kin, The boast of our bachelors a’, man: Sae sonsy and sweet, sae fully complete, She steals our affections awa, man."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet Anna has an air—a grace, Divine, magnetic, touching: She talks, she charms—but who can trace The process of bewitching?"*

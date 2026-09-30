@@ -5,13 +5,6 @@ status: unread
 ---
 # parsi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parsi designates a member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parsi designates a member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india."*

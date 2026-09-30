@@ -5,15 +5,6 @@ status: unread
 ---
 # suffuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to spread or flush or flood through, over, or across.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To become overspread as with a fluid, a colour, a gleam of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A group of more interest appeared near the hearth, sitting still amidst the rosy peace and warmth suffusing it."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon we were running through a suffusing wide veil of mist; neither ship nor boat to be seen."*
-> - 📜 **Effie Afton (*Eventide*):** *"But you won't be angry if I say it?" said the child, a conscious blush suffusing her lovely features."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to spread or flush or flood through, over, or across.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To become overspread as with a fluid, a colour, a gleam of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A group of more interest appeared near the hearth, sitting still amidst the rosy peace and warmth suffusing it."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon we were running through a suffusing wide veil of mist; neither ship nor boat to be seen."*
+> - 📜 **Effie Afton (*Eventide*):** *"But you won't be angry if I say it?" said the child, a conscious blush suffusing her lovely features."*

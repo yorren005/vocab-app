@@ -5,13 +5,6 @@ status: unread
 ---
 # plethodontidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small mostly terrestrial new world salamanders having neither lungs nor gills as adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small mostly terrestrial new world salamanders having neither lungs nor gills as adults.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodontidae designates small mostly terrestrial new world salamanders having neither lungs nor gills as adults."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small mostly terrestrial new world salamanders having neither lungs nor gills as adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small mostly terrestrial new world salamanders having neither lungs nor gills as adults.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodontidae designates small mostly terrestrial new world salamanders having neither lungs nor gills as adults."*

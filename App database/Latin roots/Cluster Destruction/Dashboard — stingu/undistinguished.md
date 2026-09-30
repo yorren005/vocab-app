@@ -5,15 +5,6 @@ status: unread
 ---
 # undistinguished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of notice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny with doubting feelings had risen to meet him, but sank down again on finding herself undistinguished in the dusk, and unthought of."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The little disappointments of schoolboy life, and the somewhat less childish ones of an uneventful and undistinguished academic career, should not have sufficed to turn me out at one-and-twenty years of age a melancholic, listless idler."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He could have borne to live an undistinguished life, but not to be forgotten in the grave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of notice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny with doubting feelings had risen to meet him, but sank down again on finding herself undistinguished in the dusk, and unthought of."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The little disappointments of schoolboy life, and the somewhat less childish ones of an uneventful and undistinguished academic career, should not have sufficed to turn me out at one-and-twenty years of age a melancholic, listless idler."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He could have borne to live an undistinguished life, but not to be forgotten in the grave."*

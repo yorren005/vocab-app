@@ -5,13 +5,6 @@ status: unread
 ---
 # countersubversion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of counterintelligence designed to detect and prevent subversive activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of counterintelligence designed to detect and prevent subversive activities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countersubversion designates the aspect of counterintelligence designed to detect and prevent subversive activities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of counterintelligence designed to detect and prevent subversive activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of counterintelligence designed to detect and prevent subversive activities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countersubversion designates the aspect of counterintelligence designed to detect and prevent subversive activities."*

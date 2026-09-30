@@ -5,13 +5,6 @@ status: unread
 ---
 # kudos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise given for achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fame and renown resulting from an act or achievement : prestige.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Also literary labour not merely for the kudos of the thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise given for achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fame and renown resulting from an act or achievement : prestige.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Also literary labour not merely for the kudos of the thing."*

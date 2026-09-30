@@ -5,15 +5,6 @@ status: unread
 ---
 # hero
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man distinguished by exceptional courage and nobility and strength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal character in a play or movie or novel or poem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARGARET, Waiting gentlewoman attending on Hero."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"URSULA, Waiting gentlewoman attending on Hero."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Leonato, Hero, Beatrice and others, with a Messenger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man distinguished by exceptional courage and nobility and strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal character in a play or movie or novel or poem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARGARET, Waiting gentlewoman attending on Hero."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"URSULA, Waiting gentlewoman attending on Hero."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Leonato, Hero, Beatrice and others, with a Messenger."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # valletta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of malta; located on the northeastern coast of the island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of malta; located on the northeastern coast of the island.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valletta designates the capital of malta; located on the northeastern coast of the island."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of malta; located on the northeastern coast of the island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of malta; located on the northeastern coast of the island.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valletta designates the capital of malta; located on the northeastern coast of the island."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # splash
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Become spattered about
-> 2. **Nuance / Usage**: Small amount of liquid
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Spairge, to splash; to spatter."*
-> - 📜 **Chris Morrison (*recipe, Grilled fillet of halibut and langoustine tails with smoked haddock risotto and shellfish froth*):** *"Add the tomato purée and cook for a further 4-5 minutes. Add a splash of whisky to the pan, scraping up any browned bits from the bottom of the pan with a wooden spoon to deglaze."*
-> - 📜 **Ron Carswell; Heidi Webb (*Guide to Microsoft Virtual PC 2007 and Virtual Server 2005*):** *"When the splash appears with Please wait, wait for Windows to start configuration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Become spattered about
+> 2. **Nuance / Usage**: Small amount of liquid
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Spairge, to splash; to spatter."*
+> - 📜 **Chris Morrison (*recipe, Grilled fillet of halibut and langoustine tails with smoked haddock risotto and shellfish froth*):** *"Add the tomato purée and cook for a further 4-5 minutes. Add a splash of whisky to the pan, scraping up any browned bits from the bottom of the pan with a wooden spoon to deglaze."*
+> - 📜 **Ron Carswell; Heidi Webb (*Guide to Microsoft Virtual PC 2007 and Virtual Server 2005*):** *"When the splash appears with Please wait, wait for Windows to start configuration."*

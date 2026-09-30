@@ -5,14 +5,6 @@ status: unread
 ---
 # natty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by up-to-dateness in dress and manners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by up-to-dateness in dress and manners.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"I just laid back and laughed, not out loud, you understand, but silent, like Natty Bumppo in the Leatherstocking Tales."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"His cap was a dainty thing, his close-buttoned blue cloth roundabout was new and natty, and so were his pantaloons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by up-to-dateness in dress and manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by up-to-dateness in dress and manners.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"I just laid back and laughed, not out loud, you understand, but silent, like Natty Bumppo in the Leatherstocking Tales."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"His cap was a dainty thing, his close-buttoned blue cloth roundabout was new and natty, and so were his pantaloons."*

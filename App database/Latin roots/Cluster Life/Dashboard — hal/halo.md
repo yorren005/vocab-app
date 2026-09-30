@@ -5,15 +5,6 @@ status: unread
 ---
 # halo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indication of radiant light drawn around the head of a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toroidal shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is surrounded by a mysterious halo of family confidences, of which he is known to be the silent depository."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One ancestress of Volumnia, in high-heeled shoes, very like her—casting the shadow of that virgin event before her full two centuries—shoots out into a halo and becomes a saint."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A sort of halo, an occidental glow, came over life then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indication of radiant light drawn around the head of a saint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toroidal shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is surrounded by a mysterious halo of family confidences, of which he is known to be the silent depository."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"One ancestress of Volumnia, in high-heeled shoes, very like her—casting the shadow of that virgin event before her full two centuries—shoots out into a halo and becomes a saint."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A sort of halo, an occidental glow, came over life then."*

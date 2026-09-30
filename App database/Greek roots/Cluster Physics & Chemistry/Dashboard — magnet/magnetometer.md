@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetometer designates an instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetometer designates an instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # cataclysm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden violent change in the earth's surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event resulting in great loss and misfortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But what was this portion of the globe which had been swallowed by cataclysms?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"English and alien poets, statesmen, artists, heroes, battles, plagues, cataclysms, revolutions—we shoveled them all into the English fences according to their dates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden violent change in the earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event resulting in great loss and misfortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But what was this portion of the globe which had been swallowed by cataclysms?"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"English and alien poets, statesmen, artists, heroes, battles, plagues, cataclysms, revolutions—we shoveled them all into the English fences according to their dates."*

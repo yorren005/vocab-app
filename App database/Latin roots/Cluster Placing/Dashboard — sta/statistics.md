@@ -5,15 +5,6 @@ status: unread
 ---
 # statistics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population parameters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A datum that can be represented numerically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rivers, lakes, and ocean waters near our coasts are other great sources of food, but no statistics are available to show adequately their yield."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Finally, much better commercial statistics are needed, and for collecting them and reporting the outlook, government organization is required comparable in range and methods to the weather bureau."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population parameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A datum that can be represented numerically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rivers, lakes, and ocean waters near our coasts are other great sources of food, but no statistics are available to show adequately their yield."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Finally, much better commercial statistics are needed, and for collecting them and reporting the outlook, government organization is required comparable in range and methods to the weather bureau."*

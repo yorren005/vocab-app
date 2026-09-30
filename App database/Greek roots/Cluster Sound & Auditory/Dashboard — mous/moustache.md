@@ -5,15 +5,6 @@ status: unread
 ---
 # moustache
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unshaved growth of hair on the upper lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unshaved growth of hair on the upper lip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is close-shaved now, but his mouth is set as if his upper lip had been for years familiar with a great moustache; and his manner of occasionally laying the open palm of his broad brown hand upon it is to the same effect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, pausing with a frown in stroking the recollection of his moustache."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is!” “I am sorry,” says Allan, “to have touched so sore a place.” “Sore?” The trooper plants his legs wider apart, wets the palm of his broad right hand, and lays it on the imaginary moustache."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unshaved growth of hair on the upper lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unshaved growth of hair on the upper lip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is close-shaved now, but his mouth is set as if his upper lip had been for years familiar with a great moustache; and his manner of occasionally laying the open palm of his broad brown hand upon it is to the same effect."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, pausing with a frown in stroking the recollection of his moustache."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is!” “I am sorry,” says Allan, “to have touched so sore a place.” “Sore?” The trooper plants his legs wider apart, wets the palm of his broad right hand, and lays it on the imaginary moustache."*

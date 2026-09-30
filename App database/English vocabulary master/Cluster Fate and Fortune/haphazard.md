@@ -5,20 +5,6 @@ status: unread
 ---
 # haphazard
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Chance
-> 2. **Nuance / Usage**: Haphazardly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a haphazard appearance*) and predicatively after a linking verb (*remained haphazard*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"strange-thoughted sometimes, they say; but that’s only haphazard-like."*
-> - 📜 **N. H. Egleston (*Arbor-Day*):** *"The haphazard efforts of a few, working here and there without concert, easily spent themselves in attaining results far short of what were needed."*
-> - 📜 **Fielding Hudson Garrison (*Josiah Willard Gibbs and his relation to modern science*):** *"we assume a gas to be an assemblage of elastic spheres or molecules, flying in straight lines in all directions, with swift haphazard collisions and repulsions, like so many billiard balls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Chance
+> 2. **Nuance / Usage**: Haphazardly
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a haphazard appearance*) and predicatively after a linking verb (*remained haphazard*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby Dick*):** *"strange-thoughted sometimes, they say; but that’s only haphazard-like."*
+> - 📜 **N. H. Egleston (*Arbor-Day*):** *"The haphazard efforts of a few, working here and there without concert, easily spent themselves in attaining results far short of what were needed."*
+> - 📜 **Fielding Hudson Garrison (*Josiah Willard Gibbs and his relation to modern science*):** *"we assume a gas to be an assemblage of elastic spheres or molecules, flying in straight lines in all directions, with swift haphazard collisions and repulsions, like so many billiard balls."*

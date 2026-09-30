@@ -5,13 +5,6 @@ status: unread
 ---
 # cistus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small to medium-sized evergreen shrubs of southern europe and north africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small to medium-sized evergreen shrubs of southern europe and north africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cistus designates small to medium-sized evergreen shrubs of southern europe and north africa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small to medium-sized evergreen shrubs of southern europe and north africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small to medium-sized evergreen shrubs of southern europe and north africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cistus designates small to medium-sized evergreen shrubs of southern europe and north africa."*

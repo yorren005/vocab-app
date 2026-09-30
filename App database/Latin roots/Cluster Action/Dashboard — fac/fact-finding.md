@@ -5,13 +5,6 @@ status: unread
 ---
 # fact-finding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to find information or ascertain facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to find information or ascertain facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fact-finding designates designed to find information or ascertain facts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to find information or ascertain facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to find information or ascertain facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fact-finding designates designed to find information or ascertain facts."*

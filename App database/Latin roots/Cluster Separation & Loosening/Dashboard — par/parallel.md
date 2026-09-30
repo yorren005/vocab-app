@@ -5,15 +5,6 @@ status: unread
 ---
 # parallel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something having the property of being analogous to something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary line around the earth parallel to the equator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My young remembrance cannot parallel A fellow to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something having the property of being analogous to something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary line around the earth parallel to the equator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My young remembrance cannot parallel A fellow to it."*

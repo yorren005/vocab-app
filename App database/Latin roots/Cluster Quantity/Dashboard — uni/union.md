@@ -5,15 +5,6 @@ status: unread
 ---
 # union
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of employees formed to bargain with the employer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states (especially the northern states during the american civil war).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This union shall do more than battery can To our fast-closed gates; for at this match, With swifter spleen than powder can enforce, The mouth of passage shall we fling wide ope, And give you entrance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby the union of mind and matter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the last scene, when the Emperor of Tartary gets up into a cart and condescends to bless the united lovers by hovering over them with the Union Jack, his eyelashes are moistened with emotion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of employees formed to bargain with the employer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states (especially the northern states during the american civil war).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This union shall do more than battery can To our fast-closed gates; for at this match, With swifter spleen than powder can enforce, The mouth of passage shall we fling wide ope, And give you entrance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby the union of mind and matter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the last scene, when the Emperor of Tartary gets up into a cart and condescends to bless the united lovers by hovering over them with the Union Jack, his eyelashes are moistened with emotion."*

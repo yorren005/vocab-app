@@ -5,15 +5,6 @@ status: unread
 ---
 # militia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Civilians trained as soldiers but not part of the regular army.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The entire body of physically fit civilians eligible by law for military service; ; --united states constitution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I learned afterward, the Board of Prison Directors had been summoned by telegraph, and two companies of state militia were being rushed to the prison."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He said that they had had a hard time with the Indians keeping them off of us, and that Major Higbee, with fifty of the Mormon militia, were ready to take us under their charge."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By so doing we would appear to be the prisoners of the Mormon militia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Civilians trained as soldiers but not part of the regular army.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The entire body of physically fit civilians eligible by law for military service; ; --united states constitution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I learned afterward, the Board of Prison Directors had been summoned by telegraph, and two companies of state militia were being rushed to the prison."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He said that they had had a hard time with the Indians keeping them off of us, and that Major Higbee, with fifty of the Mormon militia, were ready to take us under their charge."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By so doing we would appear to be the prisoners of the Mormon militia."*

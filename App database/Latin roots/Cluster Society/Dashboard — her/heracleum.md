@@ -5,13 +5,6 @@ status: unread
 ---
 # heracleum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed genus of plants with usually thick rootstocks and large umbels of white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed genus of plants with usually thick rootstocks and large umbels of white flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"HOGWEED RUST; on the under surface, scattered, sometimes subconfluent, roundish, light brown, girt by the remains of the epidermis; spores obovate, with a very short peduncle.—On _Heracleum spondylium_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed genus of plants with usually thick rootstocks and large umbels of white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed genus of plants with usually thick rootstocks and large umbels of white flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"HOGWEED RUST; on the under surface, scattered, sometimes subconfluent, roundish, light brown, girt by the remains of the epidermis; spores obovate, with a very short peduncle.—On _Heracleum spondylium_."*

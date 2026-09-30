@@ -5,13 +5,6 @@ status: unread
 ---
 # unsatiably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insatiable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insatiable manner; with persistence but without satisfaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsatiably designates to an insatiable degree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insatiable degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insatiable manner; with persistence but without satisfaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsatiably designates to an insatiable degree."*

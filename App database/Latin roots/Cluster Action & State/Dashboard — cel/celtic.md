@@ -5,15 +5,6 @@ status: unread
 ---
 # celtic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the indo-european languages that (judging from inscriptions and place names) was spread widely over europe in the pre-christian era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the celts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In English the story is told at length by Professor (Sir) John Rhys, _Celtic Heathendom_ (London and Edinburgh, 1888), pp. 529 _sqq._ It is elaborately discussed by Professor F."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Isle of Man, one of the fortresses in which the Celtic language and lore longest held out against the siege of the Saxon invaders, the first of November, Old Style, has been regarded as New Year's day down to recent times."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare (Sir) John Rhys, _Celtic Heathendom_ (London, 1888), pp. 514 _sq._ [349] W.R.S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the indo-european languages that (judging from inscriptions and place names) was spread widely over europe in the pre-christian era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the celts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In English the story is told at length by Professor (Sir) John Rhys, _Celtic Heathendom_ (London and Edinburgh, 1888), pp. 529 _sqq._ It is elaborately discussed by Professor F."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Isle of Man, one of the fortresses in which the Celtic language and lore longest held out against the siege of the Saxon invaders, the first of November, Old Style, has been regarded as New Year's day down to recent times."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare (Sir) John Rhys, _Celtic Heathendom_ (London, 1888), pp. 514 _sq._ [349] W.R.S."*

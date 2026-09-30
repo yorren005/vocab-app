@@ -5,15 +5,6 @@ status: unread
 ---
 # barm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, divination was practised by means of a cake called _barm-breac_, in which a nut and a ring were baked."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That clarty barm should stain my laurels: But—what’ll ye say?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, divination was practised by means of a cake called _barm-breac_, in which a nut and a ring were baked."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That clarty barm should stain my laurels: But—what’ll ye say?"*

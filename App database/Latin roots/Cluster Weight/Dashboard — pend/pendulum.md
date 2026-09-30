@@ -5,15 +5,6 @@ status: unread
 ---
 # pendulum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus consisting of an object mounted so that it swings freely under the influence of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus consisting of an object mounted so that it swings freely under the influence of gravity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unfortunately the erratic crumb did not improve his narrative powers, and a supplementary hindrance was that of a sneeze, jerking from his pocket his rather large watch, which dangled in front of the young man pendulum-wise."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No resolution could withstand it; in that dreamy mood losing all consciousness, at last my soul went out of my body; though my body still continued to sway as a pendulum will, long after the power which first moved it is withdrawn."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Satisfied by his scrutiny, my light limbed companion swung himself nimbly upon it, and twisting his legs round it in sailor fashion, slipped down eight or ten feet, where his weight gave it a motion not un-like that of a pendulum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus consisting of an object mounted so that it swings freely under the influence of gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus consisting of an object mounted so that it swings freely under the influence of gravity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unfortunately the erratic crumb did not improve his narrative powers, and a supplementary hindrance was that of a sneeze, jerking from his pocket his rather large watch, which dangled in front of the young man pendulum-wise."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No resolution could withstand it; in that dreamy mood losing all consciousness, at last my soul went out of my body; though my body still continued to sway as a pendulum will, long after the power which first moved it is withdrawn."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Satisfied by his scrutiny, my light limbed companion swung himself nimbly upon it, and twisting his legs round it in sailor fashion, slipped down eight or ten feet, where his weight gave it a motion not un-like that of a pendulum."*

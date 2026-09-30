@@ -5,13 +5,6 @@ status: unread
 ---
 # coxsackievirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enterovirus causing a disease resembling poliomyelitis but without paralysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enterovirus causing a disease resembling poliomyelitis but without paralysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxsackievirus designates enterovirus causing a disease resembling poliomyelitis but without paralysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enterovirus causing a disease resembling poliomyelitis but without paralysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enterovirus causing a disease resembling poliomyelitis but without paralysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxsackievirus designates enterovirus causing a disease resembling poliomyelitis but without paralysis."*

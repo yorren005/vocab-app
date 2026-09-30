@@ -5,14 +5,6 @@ status: unread
 ---
 # elegiac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of or appropriate to an elegy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing sorrow often for something past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Nowhere has Heine struck a more truly elegiac note than in the stanza: Der Tod, das ist die kuehle Nacht, Das Leben ist der schwuele Tag."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am in a fine disposition, my honoured friend, to send you an elegiac epistle; and want only genius to make it quite Shenstonian:-- Why droops my heart with fancied woes forlorn?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of or appropriate to an elegy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing sorrow often for something past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Nowhere has Heine struck a more truly elegiac note than in the stanza: Der Tod, das ist die kuehle Nacht, Das Leben ist der schwuele Tag."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am in a fine disposition, my honoured friend, to send you an elegiac epistle; and want only genius to make it quite Shenstonian:-- Why droops my heart with fancied woes forlorn?"*

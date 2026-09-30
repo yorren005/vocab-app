@@ -5,15 +5,6 @@ status: unread
 ---
 # prevision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prophetic vision (as in a dream).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to foresee the future.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"That would be in a couple of hours, at the end of which—I had the acute prevision—my little pupils would play at innocent wonder about my nonappearance in their train."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I suppose I now read into our situation a clearness it couldn’t have had at the time, for I seem to see our poor eyes already lighted with some spark of a prevision of the anguish that was to come."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had a prevision that day that Elsie and I had better make the most of our time during this summer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prophetic vision (as in a dream).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to foresee the future.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"That would be in a couple of hours, at the end of which—I had the acute prevision—my little pupils would play at innocent wonder about my nonappearance in their train."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I suppose I now read into our situation a clearness it couldn’t have had at the time, for I seem to see our poor eyes already lighted with some spark of a prevision of the anguish that was to come."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had a prevision that day that Elsie and I had better make the most of our time during this summer."*

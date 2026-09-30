@@ -5,15 +5,6 @@ status: unread
 ---
 # fluid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that is fluid at room temperature and pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Carefully I covered my rock cisterns with flat stones so that the sun’s rays might not evaporate the precious fluid and in precaution against some upspringing of wind in the night and the sudden flying of spray."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"An ancient Hindoo method of securing prosperity was to swallow a portion of the menstruous fluid."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fluid was applied by means of a wisp of straw, and the person who discharged this salutary office went round the house in the direction of the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that is fluid at room temperature and pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Carefully I covered my rock cisterns with flat stones so that the sun’s rays might not evaporate the precious fluid and in precaution against some upspringing of wind in the night and the sudden flying of spray."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"An ancient Hindoo method of securing prosperity was to swallow a portion of the menstruous fluid."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fluid was applied by means of a wisp of straw, and the person who discharged this salutary office went round the house in the direction of the sun."*

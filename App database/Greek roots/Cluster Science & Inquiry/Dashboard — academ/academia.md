@@ -5,13 +5,6 @@ status: unread
 ---
 # academia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The life, community, or world of teachers, schools, and education : academe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aesthetic in literature, interior design, fashion, etc. that is reminiscent of or characterized by stereotypical hallmarks of affluent higher education at traditional elite institutions and that in fiction is often marked by mysterious or gothic themes —often used before another noun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academia designates the life, community, or world of teachers, schools, and education : academe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The life, community, or world of teachers, schools, and education : academe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aesthetic in literature, interior design, fashion, etc. that is reminiscent of or characterized by stereotypical hallmarks of affluent higher education at traditional elite institutions and that in fiction is often marked by mysterious or gothic themes —often used before another noun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academia designates the life, community, or world of teachers, schools, and education : academe."*

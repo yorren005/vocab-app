@@ -5,15 +5,6 @@ status: unread
 ---
 # passive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in energy or will; - george meredith.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the twilight of the morning, light seems active, darkness passive; in the twilight of evening it is the darkness which is active and crescent, and the light which is the drowsy reverse."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His mood transmuted itself into a dogged indifference till at length he fancied he was looking on his own existence with the passive interest of an outsider."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I was the only passive thing, the being without occupation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in energy or will; - george meredith.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the twilight of the morning, light seems active, darkness passive; in the twilight of evening it is the darkness which is active and crescent, and the light which is the drowsy reverse."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His mood transmuted itself into a dogged indifference till at length he fancied he was looking on his own existence with the passive interest of an outsider."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I was the only passive thing, the being without occupation."*

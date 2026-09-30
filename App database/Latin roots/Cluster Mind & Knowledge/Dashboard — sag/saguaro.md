@@ -5,13 +5,6 @@ status: unread
 ---
 # saguaro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saguaro designates extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saguaro designates extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit."*

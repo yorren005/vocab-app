@@ -5,13 +5,6 @@ status: unread
 ---
 # photoretinitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage to the retina resulting from exposure of the eye to the sun without adequate protection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damage to the retina resulting from exposure of the eye to the sun without adequate protection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoretinitis designates damage to the retina resulting from exposure of the eye to the sun without adequate protection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage to the retina resulting from exposure of the eye to the sun without adequate protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damage to the retina resulting from exposure of the eye to the sun without adequate protection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoretinitis designates damage to the retina resulting from exposure of the eye to the sun without adequate protection."*

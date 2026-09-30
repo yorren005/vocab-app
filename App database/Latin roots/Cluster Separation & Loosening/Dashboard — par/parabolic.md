@@ -5,14 +5,6 @@ status: unread
 ---
 # parabolic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or expressed by parables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a parabola.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At any distance the beam from the parabolic reflector will be more intense than that from the spherical one, since the rays will be closer together."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But even with the parabolic one there is some diffusion, for the simple reason that whereas the focus is a mathematical point (position without magnitude) the most concentrated form of light known has a considerable magnitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or expressed by parables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a parabola.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At any distance the beam from the parabolic reflector will be more intense than that from the spherical one, since the rays will be closer together."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But even with the parabolic one there is some diffusion, for the simple reason that whereas the focus is a mathematical point (position without magnitude) the most concentrated form of light known has a considerable magnitude."*

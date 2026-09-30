@@ -5,15 +5,6 @@ status: unread
 ---
 # proven
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be shown or be found to be.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is too well proven to admit the possibility of a doubt."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John is also a day of joy for the Provençals."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"We may compare the Provençal and Spanish customs of bathing and splashing water at Midsummer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be shown or be found to be.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It is too well proven to admit the possibility of a doubt."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John is also a day of joy for the Provençals."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"We may compare the Provençal and Spanish customs of bathing and splashing water at Midsummer."*

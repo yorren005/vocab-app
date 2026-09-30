@@ -5,15 +5,6 @@ status: unread
 ---
 # everlasting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of various genera of the family compositae having flowers that can be dried without loss of form or color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever or indefinitely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Especially he hath incurred the everlasting displeasure of the king, who had even tun’d his bounty to sing happiness to him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that the Everlasting had not fix’d His canon ’gainst self-slaughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art a perpetual triumph, an everlasting bonfire-light!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of various genera of the family compositae having flowers that can be dried without loss of form or color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever or indefinitely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Especially he hath incurred the everlasting displeasure of the king, who had even tun’d his bounty to sing happiness to him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that the Everlasting had not fix’d His canon ’gainst self-slaughter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art a perpetual triumph, an everlasting bonfire-light!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # possumwood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium-sized tree of dry woodlands in the southern and eastern united states bearing yellow or orange very astringent fruit that is edible when fully ripe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium-sized tree of dry woodlands in the southern and eastern united states bearing yellow or orange very astringent fruit that is edible when fully ripe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, possumwood designates medium-sized tree of dry woodlands in the southern and eastern united states bearing yellow or orange very astringent fruit that is edible when fully ripe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium-sized tree of dry woodlands in the southern and eastern united states bearing yellow or orange very astringent fruit that is edible when fully ripe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium-sized tree of dry woodlands in the southern and eastern united states bearing yellow or orange very astringent fruit that is edible when fully ripe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, possumwood designates medium-sized tree of dry woodlands in the southern and eastern united states bearing yellow or orange very astringent fruit that is edible when fully ripe."*

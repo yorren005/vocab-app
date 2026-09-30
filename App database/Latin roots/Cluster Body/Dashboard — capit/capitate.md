@@ -5,13 +5,6 @@ status: unread
 ---
 # capitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wrist bone with a rounded head shape that articulates with the 3rd metacarpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abruptly enlarged and globose at the tip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitate designates the wrist bone with a rounded head shape that articulates with the 3rd metacarpus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wrist bone with a rounded head shape that articulates with the 3rd metacarpus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abruptly enlarged and globose at the tip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitate designates the wrist bone with a rounded head shape that articulates with the 3rd metacarpus."*

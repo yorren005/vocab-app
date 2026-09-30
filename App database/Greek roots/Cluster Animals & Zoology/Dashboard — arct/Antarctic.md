@@ -5,15 +5,6 @@ status: unread
 ---
 # antarctic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region around the south pole: antarctica and surrounding waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or near the south pole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was during a prolonged gale, in waters hard upon the Antarctic seas."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The shape of continents allows us to divide the waters into five great portions: the Arctic or Frozen Ocean, the Antarctic or Frozen Ocean, the Indian, the Atlantic, and the Pacific Oceans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region around the south pole: antarctica and surrounding waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or near the south pole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was during a prolonged gale, in waters hard upon the Antarctic seas."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The shape of continents allows us to divide the waters into five great portions: the Arctic or Frozen Ocean, the Antarctic or Frozen Ocean, the Indian, the Atlantic, and the Pacific Oceans."*

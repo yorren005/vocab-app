@@ -5,13 +5,6 @@ status: unread
 ---
 # bare-breasted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the breasts uncovered or featuring such nudity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the breasts uncovered or featuring such nudity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bare-breasted designates having the breasts uncovered or featuring such nudity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the breasts uncovered or featuring such nudity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the breasts uncovered or featuring such nudity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bare-breasted designates having the breasts uncovered or featuring such nudity."*

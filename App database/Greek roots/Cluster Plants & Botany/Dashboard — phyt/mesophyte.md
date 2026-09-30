@@ -5,13 +5,6 @@ status: unread
 ---
 # mesophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophyte designates land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophyte designates land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # demonstrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an exhibition of to an interested audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a conclusion of pure empiricism, and I, too, as you shall see, demonstrated it empirically."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The head trusty certainly demonstrated his ability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an exhibition of to an interested audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a conclusion of pure empiricism, and I, too, as you shall see, demonstrated it empirically."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The head trusty certainly demonstrated his ability."*

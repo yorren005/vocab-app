@@ -5,15 +5,6 @@ status: unread
 ---
 # sarcastically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sarcastic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sarcastic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she was anxious to have the matter settled then and there, she remarked rather sarcastically that a mother should be able to decide such matters alone."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She said quite sarcastically that if I chose to correct her on account of that raggedy Loneli, I should keep Loneli for a friend and not her." "Let her be for once," said the mother."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He looked at everybody coldly and sarcastically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sarcastic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sarcastic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she was anxious to have the matter settled then and there, she remarked rather sarcastically that a mother should be able to decide such matters alone."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She said quite sarcastically that if I chose to correct her on account of that raggedy Loneli, I should keep Loneli for a friend and not her." "Let her be for once," said the mother."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He looked at everybody coldly and sarcastically."*

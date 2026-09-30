@@ -5,13 +5,6 @@ status: unread
 ---
 # citizenry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of citizens of a state or country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of citizens of a state or country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I will govern well, and we shall prosper," President Narval glibly promised the Plutonian citizenry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of citizens of a state or country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of citizens of a state or country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I will govern well, and we shall prosper," President Narval glibly promised the Plutonian citizenry."*

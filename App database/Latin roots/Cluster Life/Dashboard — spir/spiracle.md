@@ -5,15 +5,6 @@ status: unread
 ---
 # spiracle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A breathing orifice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A breathing orifice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, he breathes through his spiracle alone; and this is on the top of his head."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is certain that the mouth indirectly communicates with the spouting canal; but it cannot be proved that this is for the purpose of discharging water through the spiracle."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You would almost think a great gun had been discharged; and if you noticed the light wreath of vapor from the spiracle at his other extremity, you would think that that was the smoke from the touch-hole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A breathing orifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A breathing orifice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, he breathes through his spiracle alone; and this is on the top of his head."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is certain that the mouth indirectly communicates with the spouting canal; but it cannot be proved that this is for the purpose of discharging water through the spiracle."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You would almost think a great gun had been discharged; and if you noticed the light wreath of vapor from the spiracle at his other extremity, you would think that that was the smoke from the touch-hole."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ignatius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bishop of antioch who was martyred under the roman emperor trajan (died 110).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bishop of antioch who was martyred under the roman emperor trajan (died 110).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Watch out what you say!” The outburst of imprecations that went up would have shaken the fortitude of a braver man than Ignatius Irvine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As it was, having all sworn to tell the truth, they talked openly before Ignatius Irvine."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Brother Ignatius at once, as was his pious obligation, told all to me, his abbot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bishop of antioch who was martyred under the roman emperor trajan (died 110).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bishop of antioch who was martyred under the roman emperor trajan (died 110).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Watch out what you say!” The outburst of imprecations that went up would have shaken the fortitude of a braver man than Ignatius Irvine."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As it was, having all sworn to tell the truth, they talked openly before Ignatius Irvine."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Brother Ignatius at once, as was his pious obligation, told all to me, his abbot."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sarcenet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine soft silk fabric often used for linings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine soft silk fabric often used for linings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not you, in good sooth,” and “As true as I live,” and “As God shall mend me,” and “As sure as day” And givest such sarcenet surety for thy oaths As if thou never walk’dst further than Finsbury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why art thou, then, exasperate, thou idle immaterial skein of sleave silk, thou green sarcenet flap for a sore eye, thou tassel of a prodigal’s purse, thou?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val's language was refined enough for a curate, and even Rowsley in his young sister's presence never went beyond a sarcenet oath; but Hyde's frank fury was piquant to Isabel's not very decorous taste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine soft silk fabric often used for linings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine soft silk fabric often used for linings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not you, in good sooth,” and “As true as I live,” and “As God shall mend me,” and “As sure as day” And givest such sarcenet surety for thy oaths As if thou never walk’dst further than Finsbury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why art thou, then, exasperate, thou idle immaterial skein of sleave silk, thou green sarcenet flap for a sore eye, thou tassel of a prodigal’s purse, thou?"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Val's language was refined enough for a curate, and even Rowsley in his young sister's presence never went beyond a sarcenet oath; but Hyde's frank fury was piquant to Isabel's not very decorous taste."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # polecat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily mephitinae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark brown mustelid of woodlands of eurasia that gives off an unpleasant odor when threatened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll prat her. [_Beats him_.] Out of my door, you witch, you rag, you baggage, you polecat, you runnion!"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many of the animal manidos, not being dangerous, are often treated with contempt--the terrapin, the weasel, polecat, etc." The distinction is instructive."*
-> - 📜 **James Joyce (*Ulysses*):** *"Husband rolling in drunk, stink of pub off him like a polecat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily mephitinae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark brown mustelid of woodlands of eurasia that gives off an unpleasant odor when threatened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll prat her. [_Beats him_.] Out of my door, you witch, you rag, you baggage, you polecat, you runnion!"*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many of the animal manidos, not being dangerous, are often treated with contempt--the terrapin, the weasel, polecat, etc." The distinction is instructive."*
+> - 📜 **James Joyce (*Ulysses*):** *"Husband rolling in drunk, stink of pub off him like a polecat."*

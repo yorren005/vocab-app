@@ -5,13 +5,6 @@ status: unread
 ---
 # summarization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summarization designates the act of preparing a summary (or an instance thereof); stating briefly and succinctly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preparing a summary (or an instance thereof); stating briefly and succinctly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summarization designates the act of preparing a summary (or an instance thereof); stating briefly and succinctly."*

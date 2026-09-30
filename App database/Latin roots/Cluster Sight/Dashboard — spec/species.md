@@ -5,15 +5,6 @@ status: unread
 ---
 # species
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) taxonomic group whose members can interbreed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific kind of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It involves me in correspondence with public bodies and with private individuals anxious for the welfare of their species all over the country."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sleeps in his turret with a complaining flag-staff over his head, and has some leads outside on which, any fine morning when he is down here, his black figure may be seen walking before breakfast like a larger species of rook."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The father of this pleasant grandfather, of the neighbourhood of Mount Pleasant, was a horny-skinned, two-legged, money-getting species of spider who spun webs to catch unwary flies and retired into holes until they were entrapped."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) taxonomic group whose members can interbreed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific kind of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It involves me in correspondence with public bodies and with private individuals anxious for the welfare of their species all over the country."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sleeps in his turret with a complaining flag-staff over his head, and has some leads outside on which, any fine morning when he is down here, his black figure may be seen walking before breakfast like a larger species of rook."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The father of this pleasant grandfather, of the neighbourhood of Mount Pleasant, was a horny-skinned, two-legged, money-getting species of spider who spun webs to catch unwary flies and retired into holes until they were entrapped."*

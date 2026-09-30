@@ -5,15 +5,6 @@ status: unread
 ---
 # calendar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of timekeeping that defines the beginning and length and divisions of the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list or register of events (appointments or social events or court cases etc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hath it done That it in golden letters should be set Among the high tides in the calendar?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of timekeeping that defines the beginning and length and divisions of the year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list or register of events (appointments or social events or court cases etc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hath it done That it in golden letters should be set Among the high tides in the calendar?"*

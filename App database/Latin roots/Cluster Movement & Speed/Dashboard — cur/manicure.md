@@ -5,14 +5,6 @@ status: unread
 ---
 # manicure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Professional care for the hands and fingernails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trim carefully and neatly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She laughed at the gold brushes and gold manicure set, the polished array of boots, the fine silk and linen laid out on his bed, the perfume of sandalwood and Russian leather and eau de cologne."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But Stafford only touched with the tips of his fingers the ringed and manicured hand of the elder man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Professional care for the hands and fingernails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trim carefully and neatly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She laughed at the gold brushes and gold manicure set, the polished array of boots, the fine silk and linen laid out on his bed, the perfume of sandalwood and Russian leather and eau de cologne."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But Stafford only touched with the tips of his fingers the ringed and manicured hand of the elder man."*

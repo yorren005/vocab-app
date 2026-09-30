@@ -5,13 +5,6 @@ status: unread
 ---
 # genotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All or part of the genetic constitution of an individual or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genotype designates type species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All or part of the genetic constitution of an individual or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genotype designates type species."*

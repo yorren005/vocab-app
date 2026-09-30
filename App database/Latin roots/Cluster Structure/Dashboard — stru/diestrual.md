@@ -5,13 +5,6 @@ status: unread
 ---
 # diestrual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diestrual designates (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diestrual designates (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity."*

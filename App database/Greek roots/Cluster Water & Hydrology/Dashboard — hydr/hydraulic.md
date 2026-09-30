@@ -5,15 +5,6 @@ status: unread
 ---
 # hydraulic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, moved, or effected by means of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydraulics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In larger part this is due to the increasing use of machinery in place of simple hand tools, and the substitution of horse-, hydraulic-, windmill-, steam-, and gasoline-power for human labor."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Victor Hatherley, hydraulic engineer, 16A, Victoria Street (3rd floor).” That was the name, style, and abode of my morning visitor."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"By profession I am a hydraulic engineer, and I have had considerable experience of my work during the seven years that I was apprenticed to Venner & Matheson, the well-known firm, of Greenwich."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, moved, or effected by means of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydraulics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In larger part this is due to the increasing use of machinery in place of simple hand tools, and the substitution of horse-, hydraulic-, windmill-, steam-, and gasoline-power for human labor."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Victor Hatherley, hydraulic engineer, 16A, Victoria Street (3rd floor).” That was the name, style, and abode of my morning visitor."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"By profession I am a hydraulic engineer, and I have had considerable experience of my work during the seven years that I was apprenticed to Venner & Matheson, the well-known firm, of Greenwich."*

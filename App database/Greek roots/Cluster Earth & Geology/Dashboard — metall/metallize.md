@@ -5,15 +5,6 @@ status: unread
 ---
 # metallize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He rather admired the smoothness of the hip joints and the way the sliding parts of his arms fitted together, and was agreeably surprised to find that in the metallizing process his toes had become prehensile."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Free love, free beer, no work!" "Yes," said Gloria, "what's the use of all this metallizing, anyway?"*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And the lousy blue coloring that affected all the people who didn't get metallized isn't going to be permanent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He rather admired the smoothness of the hip joints and the way the sliding parts of his arms fitted together, and was agreeably surprised to find that in the metallizing process his toes had become prehensile."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Free love, free beer, no work!" "Yes," said Gloria, "what's the use of all this metallizing, anyway?"*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And the lousy blue coloring that affected all the people who didn't get metallized isn't going to be permanent."*

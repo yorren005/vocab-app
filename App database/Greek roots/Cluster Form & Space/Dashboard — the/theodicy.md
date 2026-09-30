@@ -5,13 +5,6 @@ status: unread
 ---
 # theodicy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defense of God's goodness and omnipotence in view of the existence of evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense of God's goodness and omnipotence in view of the existence of evil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theodicy designates defense of god's goodness and omnipotence in view of the existence of evil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defense of God's goodness and omnipotence in view of the existence of evil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense of God's goodness and omnipotence in view of the existence of evil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theodicy designates defense of god's goodness and omnipotence in view of the existence of evil."*

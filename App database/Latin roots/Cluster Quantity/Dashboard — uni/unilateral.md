@@ -5,13 +5,6 @@ status: unread
 ---
 # unilateral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving only one part or side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tracing descent from either the paternal or the maternal line only.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilateral designates involving only one part or side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving only one part or side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tracing descent from either the paternal or the maternal line only.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilateral designates involving only one part or side."*

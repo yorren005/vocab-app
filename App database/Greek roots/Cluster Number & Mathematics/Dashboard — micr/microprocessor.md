@@ -5,13 +5,6 @@ status: unread
 ---
 # microprocessor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microprocessor designates integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microprocessor designates integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonsexual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or involving sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having or involving sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsexual designates not having or involving sex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or involving sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having or involving sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsexual designates not having or involving sex."*

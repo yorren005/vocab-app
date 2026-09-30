@@ -5,14 +5,6 @@ status: unread
 ---
 # calibration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Access to the calibration cavity," Brad said as he stooped, shed his outer glove, and felt around the mating edge."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Alignment to major concentrations of potential sources, selection of a 'first phase' work site, calibration of instrumentation and activating its spunnel channels and monitors required still more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Access to the calibration cavity," Brad said as he stooped, shed his outer glove, and felt around the mating edge."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Alignment to major concentrations of potential sources, selection of a 'first phase' work site, calibration of instrumentation and activating its spunnel channels and monitors required still more."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # undeniably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an undeniable degree or in an undeniable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an undeniable degree or in an undeniable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You, Diana, and Mary are his sister’s children, as I am his brother’s child?” “Undeniably.” “You three, then, are my cousins; half our blood on each side flows from the same source?” “We are cousins; yes.” I surveyed him."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've only this moment learnt it from Isabel." Yes, undeniably a trace of pique."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was undeniably a prosperous man, bore his drinking better than others bore their moderation, and, on the whole, flourished like the green bay-tree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an undeniable degree or in an undeniable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an undeniable degree or in an undeniable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You, Diana, and Mary are his sister’s children, as I am his brother’s child?” “Undeniably.” “You three, then, are my cousins; half our blood on each side flows from the same source?” “We are cousins; yes.” I surveyed him."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I've only this moment learnt it from Isabel." Yes, undeniably a trace of pique."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was undeniably a prosperous man, bore his drinking better than others bore their moderation, and, on the whole, flourished like the green bay-tree."*

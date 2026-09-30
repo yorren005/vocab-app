@@ -5,15 +5,6 @@ status: unread
 ---
 # inhospitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfavorable to life or growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not hospitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From all of which we could argue that the inhabitants were as inhospitable as the little of their land we could see."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the surf proved to be too great to permit the boat to land on my inhospitable shore."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rather an inhospitable question to put to a visitor; but since you ask it, I answer simply to have a little talk with you; I got tired of my mute books and empty rooms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfavorable to life or growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not hospitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From all of which we could argue that the inhabitants were as inhospitable as the little of their land we could see."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the surf proved to be too great to permit the boat to land on my inhospitable shore."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rather an inhospitable question to put to a visitor; but since you ask it, I answer simply to have a little talk with you; I got tired of my mute books and empty rooms."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sanatarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hospital for recuperation or for the treatment of chronic diseases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanatarium designates a hospital for recuperation or for the treatment of chronic diseases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hospital for recuperation or for the treatment of chronic diseases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanatarium designates a hospital for recuperation or for the treatment of chronic diseases."*

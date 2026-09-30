@@ -5,15 +5,6 @@ status: unread
 ---
 # communication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of communicating; the activity of conveying information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is communicated by or to or between people or groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What did this vanity But minister communication of A most poor issue?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then again she would sigh deeply and another communication filled her full of anxiety."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She informed the Rector's widow that she had come to her with a quite incredible communication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of communicating; the activity of conveying information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is communicated by or to or between people or groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What did this vanity But minister communication of A most poor issue?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then again she would sigh deeply and another communication filled her full of anxiety."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She informed the Rector's widow that she had come to her with a quite incredible communication."*

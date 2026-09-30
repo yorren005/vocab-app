@@ -5,15 +5,6 @@ status: unread
 ---
 # tournament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of games or contests that make up a single unit of competition (as on a professional golf tour), the championship playoffs of a league or conference, or an invitational event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knightly sport of the Middle Ages between mounted combatants armed with blunted lances or swords and divided into two parties contesting for a prize or favor bestowed by the lady of the tournament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, on peeping from his dressing-tent through a slit for a reconnoitre before entering, saw his unconscious wife on high before him as described, sitting as queen of the tournament."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Well, one day it happened that all the people in the castle had gone away to a neighbouring castle to witness a tournament and other gaieties, and the two young folks were left as usual all alone at the window looking out to the north."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"What if we were to drive over and join the rest at the tournament?" His young wife gladly consented, for she longed to see more of the world than those eternal green woods and those eternal blue hills, which were all she ever saw from the window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of games or contests that make up a single unit of competition (as on a professional golf tour), the championship playoffs of a league or conference, or an invitational event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knightly sport of the Middle Ages between mounted combatants armed with blunted lances or swords and divided into two parties contesting for a prize or favor bestowed by the lady of the tournament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, on peeping from his dressing-tent through a slit for a reconnoitre before entering, saw his unconscious wife on high before him as described, sitting as queen of the tournament."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Well, one day it happened that all the people in the castle had gone away to a neighbouring castle to witness a tournament and other gaieties, and the two young folks were left as usual all alone at the window looking out to the north."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"What if we were to drive over and join the rest at the tournament?" His young wife gladly consented, for she longed to see more of the world than those eternal green woods and those eternal blue hills, which were all she ever saw from the window."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tactfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing tact or tactfulness; in a tactful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing tact or tactfulness; in a tactful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had tactfully suggested substantive alterations to minimize warning time to the depot and its nearby transports."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Do I look as if I had strength enough to push a pram?" He glanced at my grey locks, and said tactfully:-- "Bobby could walk part of the time."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Levi Boulter, tactfully approached by a carefully selected committee in regard to the old house on his upper farm, did bluntly tell them that he wasn’t going to have it meddled with."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing tact or tactfulness; in a tactful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing tact or tactfulness; in a tactful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had tactfully suggested substantive alterations to minimize warning time to the depot and its nearby transports."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Do I look as if I had strength enough to push a pram?" He glanced at my grey locks, and said tactfully:-- "Bobby could walk part of the time."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Levi Boulter, tactfully approached by a carefully selected committee in regard to the old house on his upper farm, did bluntly tell them that he wasn’t going to have it meddled with."*

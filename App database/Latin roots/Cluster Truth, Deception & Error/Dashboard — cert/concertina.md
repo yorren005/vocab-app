@@ -5,14 +5,6 @@ status: unread
 ---
 # concertina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coiled barbed wire used as an obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-reed instrument played like an accordion by pushing its ends together to force air through the reeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Imagine him here—the very end of the world, a sea the colour of lead, a sky the colour of smoke, a kind of ship about as rigid as a concertina—and going up this river with stores, or orders, or what you like."*
-> - 📜 **James Joyce (*Ulysses*):** *"If I could get that dressmaker to make a concertina skirt like Susy Nagle’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coiled barbed wire used as an obstacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-reed instrument played like an accordion by pushing its ends together to force air through the reeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Imagine him here—the very end of the world, a sea the colour of lead, a sky the colour of smoke, a kind of ship about as rigid as a concertina—and going up this river with stores, or orders, or what you like."*
+> - 📜 **James Joyce (*Ulysses*):** *"If I could get that dressmaker to make a concertina skirt like Susy Nagle’s."*

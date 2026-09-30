@@ -5,13 +5,6 @@ status: unread
 ---
 # gestalt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A configuration or pattern of elements so unified as a whole that it cannot be described merely as a sum of its parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A configuration or pattern of elements so unified as a whole that it cannot be described merely as a sum of its parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lieblichkeit und Hoheit, und Ruh und Leben, und Geist und Gemuet und Gestalt ist Ein seeliges Eins in diesem Wesen."[65] And six or eight months later: "Mein Schoenheitsinn ist nun vor Stoerung sicher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A configuration or pattern of elements so unified as a whole that it cannot be described merely as a sum of its parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A configuration or pattern of elements so unified as a whole that it cannot be described merely as a sum of its parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lieblichkeit und Hoheit, und Ruh und Leben, und Geist und Gemuet und Gestalt ist Ein seeliges Eins in diesem Wesen."[65] And six or eight months later: "Mein Schoenheitsinn ist nun vor Stoerung sicher."*

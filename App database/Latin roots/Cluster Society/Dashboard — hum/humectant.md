@@ -5,13 +5,6 @@ status: unread
 ---
 # humectant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that is added to another substance to keep it moist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance that is added to another substance to keep it moist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humectant designates any substance that is added to another substance to keep it moist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that is added to another substance to keep it moist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance that is added to another substance to keep it moist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humectant designates any substance that is added to another substance to keep it moist."*

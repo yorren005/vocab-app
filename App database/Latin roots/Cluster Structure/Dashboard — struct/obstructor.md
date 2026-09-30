@@ -5,13 +5,6 @@ status: unread
 ---
 # obstructor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who systematically obstructs some action that others want to take.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any structure that makes progress difficult.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstructor designates someone who systematically obstructs some action that others want to take."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who systematically obstructs some action that others want to take.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any structure that makes progress difficult.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstructor designates someone who systematically obstructs some action that others want to take."*

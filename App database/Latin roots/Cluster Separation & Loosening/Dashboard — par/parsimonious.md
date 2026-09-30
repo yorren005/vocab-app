@@ -5,15 +5,6 @@ status: unread
 ---
 # parsimonious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively unwilling to spend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively unwilling to spend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I wanted other authorities for Jarndyce and Jarndyce, I could rain them on these pages, to the shame of—a parsimonious public."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Is he not such an one as moves to mirth-- Warily parsimonious, when no need, Wasteful as drunkenness at undue times?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The great Lord Kames was extremely parsimonious; and, at a circuit dinner at Perth, did not allow claret, as had been the custom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively unwilling to spend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively unwilling to spend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I wanted other authorities for Jarndyce and Jarndyce, I could rain them on these pages, to the shame of—a parsimonious public."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Is he not such an one as moves to mirth-- Warily parsimonious, when no need, Wasteful as drunkenness at undue times?"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The great Lord Kames was extremely parsimonious; and, at a circuit dinner at Perth, did not allow claret, as had been the custom."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pteridophyta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridophyta designates containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridophyta designates containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta."*

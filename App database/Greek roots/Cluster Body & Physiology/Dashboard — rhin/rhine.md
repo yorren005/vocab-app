@@ -5,15 +5,6 @@ status: unread
 ---
 # rhine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states parapsychologist (1895-1980).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major european river carrying more traffic than any other river in the world; flows into the north sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Returning by Genoa, Milan, and the Italian Lakes, he passes into Switzerland, and travels homeward by the Rhine."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Castle of Wolfenbach, Clermont, Mysterious Warnings, Necromancer of the Black Forest, Midnight Bell, Orphan of the Rhine, and Horrid Mysteries."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the clear embers I was tracing a view, not unlike a picture I remembered to have seen of the castle of Heidelberg, on the Rhine, when Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states parapsychologist (1895-1980).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major european river carrying more traffic than any other river in the world; flows into the north sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Returning by Genoa, Milan, and the Italian Lakes, he passes into Switzerland, and travels homeward by the Rhine."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Castle of Wolfenbach, Clermont, Mysterious Warnings, Necromancer of the Black Forest, Midnight Bell, Orphan of the Rhine, and Horrid Mysteries."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the clear embers I was tracing a view, not unlike a picture I remembered to have seen of the castle of Heidelberg, on the Rhine, when Mrs."*

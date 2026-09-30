@@ -5,13 +5,6 @@ status: unread
 ---
 # encephalocele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of brain tissue through a congenital fissure in the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of brain tissue through a congenital fissure in the skull.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalocele designates protrusion of brain tissue through a congenital fissure in the skull."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of brain tissue through a congenital fissure in the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of brain tissue through a congenital fissure in the skull.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalocele designates protrusion of brain tissue through a congenital fissure in the skull."*

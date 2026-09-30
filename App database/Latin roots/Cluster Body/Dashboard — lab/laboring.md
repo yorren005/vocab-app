@@ -5,15 +5,6 @@ status: unread
 ---
 # laboring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"While laboring with my wife as a missionary in Northern Mexico, we supported ourselves for nearly four years by teaching and such other ways as the Lord opened up to us."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To a gentleman laboring under great nervous depression, whom he had visited, and who was moving along the streets as though he was apprehensive that every step would shake his system in pieces, he was rendered singularly useful."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He has been laboring all his life and looking forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"While laboring with my wife as a missionary in Northern Mexico, we supported ourselves for nearly four years by teaching and such other ways as the Lord opened up to us."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"To a gentleman laboring under great nervous depression, whom he had visited, and who was moving along the streets as though he was apprehensive that every step would shake his system in pieces, he was rendered singularly useful."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He has been laboring all his life and looking forward."*

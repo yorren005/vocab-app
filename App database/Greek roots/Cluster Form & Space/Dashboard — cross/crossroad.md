@@ -5,15 +5,6 @@ status: unread
 ---
 # crossroad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A junction where one street or road crosses another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction where one street or road crosses another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"A mile or so farther on they came to another crossroad, and there Mr."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The members of the North American Bahá'í Community, to whose care the immediate destinies of this fate-laden crusade have been entrusted, are standing at a new crossroads."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"They now stand at the crossroads, unable to relax for a moment, or hesitate as to which road they should tread, or to allow any decline in the high standard they have, for no less than six decades, undeviatingly upheld."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A junction where one street or road crosses another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction where one street or road crosses another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"A mile or so farther on they came to another crossroad, and there Mr."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The members of the North American Bahá'í Community, to whose care the immediate destinies of this fate-laden crusade have been entrusted, are standing at a new crossroads."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"They now stand at the crossroads, unable to relax for a moment, or hesitate as to which road they should tread, or to allow any decline in the high standard they have, for no less than six decades, undeviatingly upheld."*

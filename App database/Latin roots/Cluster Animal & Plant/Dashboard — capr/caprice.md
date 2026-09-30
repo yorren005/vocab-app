@@ -5,15 +5,6 @@ status: unread
 ---
 # caprice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All this, instead of being as you now are, dependent on the mere caprice of Puffy!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"They have no difficulties to contend with at home, no opposition, no caprice, no delays."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have suffered a martyrdom from their incompetency and caprice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"All this, instead of being as you now are, dependent on the mere caprice of Puffy!"*
+> - 📜 **Jane Austen (*Persuasion*):** *"They have no difficulties to contend with at home, no opposition, no caprice, no delays."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have suffered a martyrdom from their incompetency and caprice."*

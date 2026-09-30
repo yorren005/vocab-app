@@ -5,15 +5,6 @@ status: unread
 ---
 # sciatica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neuralgia along the sciatic nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neuralgia along the sciatic nerve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, which of your hips has the most profound sciatica?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou cold sciatica, Cripple our senators, that their limbs may halt As lamely as their manners!"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"As for the rest, it requires youth and strength, and the labour in an old man would breed Agues, Sciatica's, and Cramps: You shall not curse me for taking from you what you cannot spare, Sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Neuralgia along the sciatic nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neuralgia along the sciatic nerve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, which of your hips has the most profound sciatica?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou cold sciatica, Cripple our senators, that their limbs may halt As lamely as their manners!"*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"As for the rest, it requires youth and strength, and the labour in an old man would breed Agues, Sciatica's, and Cramps: You shall not curse me for taking from you what you cannot spare, Sir."*

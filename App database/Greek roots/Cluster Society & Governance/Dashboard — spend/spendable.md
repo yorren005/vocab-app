@@ -5,13 +5,6 @@ status: unread
 ---
 # spendable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of funds) remaining after taxes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of funds) remaining after taxes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No country on the globe sends out so many foreign travelers with a spendable surplus, as the United States, or that scatter their money more generously, not to say extravagantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of funds) remaining after taxes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of funds) remaining after taxes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No country on the globe sends out so many foreign travelers with a spendable surplus, as the United States, or that scatter their money more generously, not to say extravagantly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Urgently needed; absolutely necessary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing an essential function in the living body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, go speak; the Duke will hear thy voice; And let not Bardolph’s vital thread be cut With edge of penny cord and vile reproach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Came he right now to sing a raven’s note, Whose dismal tune bereft my vital powers, And thinks he that the chirping of a wren, By crying comfort from a hollow breast, Can chase away the first-conceived sound?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have pluck’d thy rose, I cannot give it vital growth again, It must needs wither."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Urgently needed; absolutely necessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing an essential function in the living body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, go speak; the Duke will hear thy voice; And let not Bardolph’s vital thread be cut With edge of penny cord and vile reproach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Came he right now to sing a raven’s note, Whose dismal tune bereft my vital powers, And thinks he that the chirping of a wren, By crying comfort from a hollow breast, Can chase away the first-conceived sound?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have pluck’d thy rose, I cannot give it vital growth again, It must needs wither."*

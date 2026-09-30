@@ -5,13 +5,6 @@ status: unread
 ---
 # hipposideridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world leafnose bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world leafnose bats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hipposideridae designates old world leafnose bats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world leafnose bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world leafnose bats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hipposideridae designates old world leafnose bats."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tenuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thin consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very thin in gauge or diameter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Something tenuous, of immense brain power, of immense will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thin consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very thin in gauge or diameter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Something tenuous, of immense brain power, of immense will."*

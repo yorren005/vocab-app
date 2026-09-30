@@ -5,13 +5,6 @@ status: unread
 ---
 # underbid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bid (a hand of cards) at less than the strength of the hand warrants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bid lower than a competing bidder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbid designates bid (a hand of cards) at less than the strength of the hand warrants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bid (a hand of cards) at less than the strength of the hand warrants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bid lower than a competing bidder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbid designates bid (a hand of cards) at less than the strength of the hand warrants."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # corporeality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being physical; consisting of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being physical; consisting of matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty put her hands upon Tess’s shoulders, as if to realize her friend’s corporeality after such a miracle, and the other two laid their arms round her waist, all looking into her face."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He showed that diseases were cast out neither 138:12 by corporeality, by /materia medica/, nor by hygiene, but by the divine Spirit, casting out the errors of mortal mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"We 140:9 shall obey and adore in proportion as we apprehend the divine nature and love Him understandingly, warring no more over the corporeality, but rejoicing in the affluence 140:12 of our God."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being physical; consisting of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being physical; consisting of matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty put her hands upon Tess’s shoulders, as if to realize her friend’s corporeality after such a miracle, and the other two laid their arms round her waist, all looking into her face."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He showed that diseases were cast out neither 138:12 by corporeality, by /materia medica/, nor by hygiene, but by the divine Spirit, casting out the errors of mortal mind."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"We 140:9 shall obey and adore in proportion as we apprehend the divine nature and love Him understandingly, warring no more over the corporeality, but rejoicing in the affluence 140:12 of our God."*

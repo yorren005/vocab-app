@@ -5,15 +5,6 @@ status: unread
 ---
 # prescription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Directions prescribed beforehand; the action of prescribing authoritative rules or directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that is available only with written instructions from a doctor or dentist to a pharmacist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a horse drench."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But for the rest: you tell a pedigree Of threescore and two years, a silly time To make prescription for a kingdom’s worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is silliness to live, when to live is torment; and then have we a prescription to die when death is our physician."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directions prescribed beforehand; the action of prescribing authoritative rules or directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that is available only with written instructions from a doctor or dentist to a pharmacist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a horse drench."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But for the rest: you tell a pedigree Of threescore and two years, a silly time To make prescription for a kingdom’s worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is silliness to live, when to live is torment; and then have we a prescription to die when death is our physician."*

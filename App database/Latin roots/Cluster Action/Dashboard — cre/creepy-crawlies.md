@@ -5,13 +5,6 @@ status: unread
 ---
 # creepy-crawlies
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of dislike and anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that creeps or crawls (such as worms or spiders or insects).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creepy-crawlies designates feelings of dislike and anxiety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of dislike and anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that creeps or crawls (such as worms or spiders or insects).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creepy-crawlies designates feelings of dislike and anxiety."*

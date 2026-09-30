@@ -5,15 +5,6 @@ status: unread
 ---
 # selectman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elected member of a board of officials who run new england towns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elected member of a board of officials who run new england towns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The selectman was already within a hundred rods."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The selectman eyed him intently."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The selectman nodded to the constable; and there sat the light-heeled reprobate in the stocks; or if he danced, it was round the whipping-post, which might be termed the Puritan Maypole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elected member of a board of officials who run new england towns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elected member of a board of officials who run new england towns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The selectman was already within a hundred rods."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The selectman eyed him intently."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The selectman nodded to the constable; and there sat the light-heeled reprobate in the stocks; or if he danced, it was round the whipping-post, which might be termed the Puritan Maypole."*

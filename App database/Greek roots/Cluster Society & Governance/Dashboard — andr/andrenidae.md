@@ -5,13 +5,6 @@ status: unread
 ---
 # andrenidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of solitary short-tongued bees most of which burrow in the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of solitary short-tongued bees most of which burrow in the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrenidae designates a large family of solitary short-tongued bees most of which burrow in the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of solitary short-tongued bees most of which burrow in the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of solitary short-tongued bees most of which burrow in the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrenidae designates a large family of solitary short-tongued bees most of which burrow in the ground."*

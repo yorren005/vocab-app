@@ -5,15 +5,6 @@ status: unread
 ---
 # pencilled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write, draw, or trace with a pencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn or written with a pencil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The painting is almost the natural man, For since dishonour traffics with man’s nature, He is but outside; these pencilled figures are Even such as they give out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Lucrece set a-work, sad tales doth tell To pencilled pensiveness and coloured sorrow; She lends them words, and she their looks doth borrow."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her unexpected presence brought him to utter hopelessness in his own power of saying anything unpleasant; but desperation suggested a resource; he sent the groom on an unsaddled horse across the park with a pencilled note to Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Write, draw, or trace with a pencil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn or written with a pencil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The painting is almost the natural man, For since dishonour traffics with man’s nature, He is but outside; these pencilled figures are Even such as they give out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Lucrece set a-work, sad tales doth tell To pencilled pensiveness and coloured sorrow; She lends them words, and she their looks doth borrow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her unexpected presence brought him to utter hopelessness in his own power of saying anything unpleasant; but desperation suggested a resource; he sent the groom on an unsaddled horse across the park with a pencilled note to Mrs."*

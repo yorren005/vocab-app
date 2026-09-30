@@ -5,15 +5,6 @@ status: unread
 ---
 # reduced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut down on; make a reduction in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less complex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So our young friends, reduced to prose (which is much to be regretted), degenerate in their power of imparting pleasure to me."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her kind, compassionate visits to this old schoolfellow, sick and reduced, seemed to have quite delighted Mr Elliot."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In arguing on prices, she held to her own firmly, as was natural in a dealer, and reduced theirs persistently, as was inevitable in a woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut down on; make a reduction in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less complex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So our young friends, reduced to prose (which is much to be regretted), degenerate in their power of imparting pleasure to me."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her kind, compassionate visits to this old schoolfellow, sick and reduced, seemed to have quite delighted Mr Elliot."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In arguing on prices, she held to her own firmly, as was natural in a dealer, and reduced theirs persistently, as was inevitable in a woman."*

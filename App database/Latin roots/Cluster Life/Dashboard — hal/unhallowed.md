@@ -5,15 +5,6 @@ status: unread
 ---
 # unhallowed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not hallowed or consecrated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let never day nor night unhallowed pass, But still remember what the Lord hath done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou unreverend and unhallowed friar, Is’t not enough thou hast suborned these women To accuse this worthy man, but, in foul mouth, And in the witness of his proper ear, To call him villain?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy currish spirit Govern’d a wolf who, hang’d for human slaughter, Even from the gallows did his fell soul fleet, And whilst thou layest in thy unhallowed dam, Infus’d itself in thee; for thy desires Are wolfish, bloody, starv’d and ravenous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the consecration from a person or an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not hallowed or consecrated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let never day nor night unhallowed pass, But still remember what the Lord hath done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou unreverend and unhallowed friar, Is’t not enough thou hast suborned these women To accuse this worthy man, but, in foul mouth, And in the witness of his proper ear, To call him villain?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy currish spirit Govern’d a wolf who, hang’d for human slaughter, Even from the gallows did his fell soul fleet, And whilst thou layest in thy unhallowed dam, Infus’d itself in thee; for thy desires Are wolfish, bloody, starv’d and ravenous."*

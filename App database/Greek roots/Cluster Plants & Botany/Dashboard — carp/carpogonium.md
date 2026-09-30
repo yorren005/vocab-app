@@ -5,13 +5,6 @@ status: unread
 ---
 # carpogonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The egg-bearing portion of the female reproductive organ in some red algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The egg-bearing portion of the female reproductive organ in some red algae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpogonium designates the egg-bearing portion of the female reproductive organ in some red algae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The egg-bearing portion of the female reproductive organ in some red algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The egg-bearing portion of the female reproductive organ in some red algae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpogonium designates the egg-bearing portion of the female reproductive organ in some red algae."*

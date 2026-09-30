@@ -5,15 +5,6 @@ status: unread
 ---
 # oratory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addressing an audience formally (usually a long and rhetorical address and often pompous).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Addressing an audience formally (usually a long and rhetorical address and often pompous).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er trust me then; for when a world of men Could not prevail with all their oratory, Yet hath a woman’s kindness over-ruled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Buckingham, if my weak oratory Can from his mother win the Duke of York, Anon expect him here; but if she be obdurate To mild entreaties, God in heaven forbid We should infringe the holy privilege Of blessed sanctuary!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when mine oratory drew toward end, I bid them that did love their country’s good Cry “God save Richard, England’s royal King!” RICHARD."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Addressing an audience formally (usually a long and rhetorical address and often pompous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Addressing an audience formally (usually a long and rhetorical address and often pompous).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er trust me then; for when a world of men Could not prevail with all their oratory, Yet hath a woman’s kindness over-ruled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Buckingham, if my weak oratory Can from his mother win the Duke of York, Anon expect him here; but if she be obdurate To mild entreaties, God in heaven forbid We should infringe the holy privilege Of blessed sanctuary!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when mine oratory drew toward end, I bid them that did love their country’s good Cry “God save Richard, England’s royal King!” RICHARD."*

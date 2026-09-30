@@ -5,13 +5,6 @@ status: unread
 ---
 # linum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A herbaceous plant genus of the family linaceae with small sessile leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herbaceous plant genus of the family linaceae with small sessile leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FLAX RUST; spots yellowish; sori subrotund, scattered, surrounded by the ruptured epidermis; spores globose or pyriform, sometimes pedicellate.—On _Linum catharticum_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A herbaceous plant genus of the family linaceae with small sessile leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herbaceous plant genus of the family linaceae with small sessile leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FLAX RUST; spots yellowish; sori subrotund, scattered, surrounded by the ruptured epidermis; spores globose or pyriform, sometimes pedicellate.—On _Linum catharticum_."*

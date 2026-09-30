@@ -5,15 +5,6 @@ status: unread
 ---
 # ulterior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed); ; - bertrand russell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond or outside an area of immediate interest; remote; ; - g.b.shaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the view easy to take is the short view, and the ulterior consequences seem to the popular mind to be vain imaginings. § 10. #Exports and exhaustion of the soil#."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That day at noon, after the bearings were taken, Captain Nemo mounted the platform, where I happened to be, and I was determined not to let him go down again without at least pressing him regarding his ulterior projects."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The little princess, like an old war horse that hears the trumpet, unconsciously and quite forgetting her condition, prepared for the familiar gallop of coquetry, without any ulterior motive or any struggle, but with naïve and lighthearted gaiety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed); ; - bertrand russell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond or outside an area of immediate interest; remote; ; - g.b.shaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the view easy to take is the short view, and the ulterior consequences seem to the popular mind to be vain imaginings. § 10. #Exports and exhaustion of the soil#."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That day at noon, after the bearings were taken, Captain Nemo mounted the platform, where I happened to be, and I was determined not to let him go down again without at least pressing him regarding his ulterior projects."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The little princess, like an old war horse that hears the trumpet, unconsciously and quite forgetting her condition, prepared for the familiar gallop of coquetry, without any ulterior motive or any struggle, but with naïve and lighthearted gaiety."*

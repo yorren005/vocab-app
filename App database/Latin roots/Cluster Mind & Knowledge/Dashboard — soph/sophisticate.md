@@ -5,15 +5,6 @@ status: unread
 ---
 # sophisticate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worldly-wise person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less natural or innocent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! here’s three on’s are sophisticated!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She is so natural, a rare thing nowadays: the modern jeune fille is a sophisticated product." "Bravo, Lawrence!" cried Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worldly-wise person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less natural or innocent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! here’s three on’s are sophisticated!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She is so natural, a rare thing nowadays: the modern jeune fille is a sophisticated product." "Bravo, Lawrence!" cried Mrs."*

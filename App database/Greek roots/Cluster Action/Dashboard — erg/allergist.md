@@ -5,13 +5,6 @@ status: unread
 ---
 # allergist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician skilled in the diagnosis and treatment of allergies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician skilled in the diagnosis and treatment of allergies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergist designates a physician skilled in the diagnosis and treatment of allergies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician skilled in the diagnosis and treatment of allergies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician skilled in the diagnosis and treatment of allergies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergist designates a physician skilled in the diagnosis and treatment of allergies."*

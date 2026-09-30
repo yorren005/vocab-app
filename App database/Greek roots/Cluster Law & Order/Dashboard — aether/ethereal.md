@@ -5,15 +5,6 @@ status: unread
 ---
 # ethereal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeming to belong to or come from another world : otherworldly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or suggesting heaven or the heavens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would let her see, all those six years of intangible ethereal courtship, how little care he had for anything but as it bore upon the consummation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It lacked the intensely blue atmosphere of the rival vale, and its heavy soils and scents; the new air was clear, bracing, ethereal."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet there was nothing ethereal about it; all was real vitality, real warmth, real incarnation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeming to belong to or come from another world : otherworldly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or suggesting heaven or the heavens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would let her see, all those six years of intangible ethereal courtship, how little care he had for anything but as it bore upon the consummation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It lacked the intensely blue atmosphere of the rival vale, and its heavy soils and scents; the new air was clear, bracing, ethereal."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet there was nothing ethereal about it; all was real vitality, real warmth, real incarnation."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # persuader
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tries to persuade or induce or lead on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who tries to persuade or induce or lead on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"To satisfy the sharp desire I had Of tasting those fair apples, I resolved Not to defer; hunger and thirst at once, Powerful persuaders, quickened at the scent Of that alluring fruit, urged me so keen."*
-> - 📜 **James Joyce (*Ulysses*):** *"The poorest kitchenwench no less than the opulent lady of fashion, if so be their constructions and their tempers were warm persuaders for their petitions, would find in him their man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tries to persuade or induce or lead on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who tries to persuade or induce or lead on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"To satisfy the sharp desire I had Of tasting those fair apples, I resolved Not to defer; hunger and thirst at once, Powerful persuaders, quickened at the scent Of that alluring fruit, urged me so keen."*
+> - 📜 **James Joyce (*Ulysses*):** *"The poorest kitchenwench no less than the opulent lady of fashion, if so be their constructions and their tempers were warm persuaders for their petitions, would find in him their man."*

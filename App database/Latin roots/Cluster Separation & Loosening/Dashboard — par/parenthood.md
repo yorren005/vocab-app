@@ -5,15 +5,6 @@ status: unread
 ---
 # parenthood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a parent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a parent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Is not one of the most real features of parenthood enjoyment of the child?"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I want him to have about five years of such days and then he would deserve the joys of parenthood that he now does not appreciate." "Oh, Mamie wouldn't smoke a cigar!" was the exclamation that showed how much Sallie got of the motif of my eruption."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Was this glorious gift on parenthood to which he had looked forward as the crowning joy of his existence, to be nothing but a tragedy that would finally wreck his domestic happiness?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a parent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a parent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Is not one of the most real features of parenthood enjoyment of the child?"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I want him to have about five years of such days and then he would deserve the joys of parenthood that he now does not appreciate." "Oh, Mamie wouldn't smoke a cigar!" was the exclamation that showed how much Sallie got of the motif of my eruption."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Was this glorious gift on parenthood to which he had looked forward as the crowning joy of his existence, to be nothing but a tragedy that would finally wreck his domestic happiness?"*

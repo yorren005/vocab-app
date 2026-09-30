@@ -5,15 +5,6 @@ status: unread
 ---
 # consolatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording comfort or solace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording comfort or solace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, however, giving him the consolatory assurance, “It’s only a job you will be paid for, Jo,” he recovers; and on being taken outside by Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was consolatory to know that he had found such a resting-place for it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to stifle it—I endeavoured to be firm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording comfort or solace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording comfort or solace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, however, giving him the consolatory assurance, “It’s only a job you will be paid for, Jo,” he recovers; and on being taken outside by Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was consolatory to know that he had found such a resting-place for it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to stifle it—I endeavoured to be firm."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # immediate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the present time and place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very close or connected in space or time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is young, wise, fair; In these to nature she’s immediate heir; And these breed honour: that is honour’s scorn Which challenges itself as honour’s born, And is not like the sire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let his shames quickly Drive him to Rome. ’Tis time we twain Did show ourselves i’ th’ field, and to that end Assemble we immediate council."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then shall the sighs of Octavia blow the fire up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the present time and place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very close or connected in space or time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is young, wise, fair; In these to nature she’s immediate heir; And these breed honour: that is honour’s scorn Which challenges itself as honour’s born, And is not like the sire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let his shames quickly Drive him to Rome. ’Tis time we twain Did show ourselves i’ th’ field, and to that end Assemble we immediate council."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then shall the sighs of Octavia blow the fire up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance."*

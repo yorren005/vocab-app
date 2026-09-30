@@ -5,15 +5,6 @@ status: unread
 ---
 # clamshell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shell of a clam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dredging bucket with hinges like the shell of a clam.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The number 4 clamshell panels drew back and slipped aside."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He turned away, and Brad felt the deck vibrate as the clamshells slammed shut."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Straight-backed from flat, hard seat to shoulder level, extension clamshells from the upper section of the chair curved forward sharply to form tapered wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The shell of a clam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dredging bucket with hinges like the shell of a clam.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The number 4 clamshell panels drew back and slipped aside."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He turned away, and Brad felt the deck vibrate as the clamshells slammed shut."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Straight-backed from flat, hard seat to shoulder level, extension clamshells from the upper section of the chair curved forward sharply to form tapered wings."*

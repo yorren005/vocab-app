@@ -5,15 +5,6 @@ status: unread
 ---
 # sortie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military action in which besieged troops burst forth from their position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) an operational flight by a single aircraft (as in a military operation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It's been fouled up already by this little sortie."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"It was necessary to give expression to this ardor, to arrange a sortie, and so in effect it was done; but it happened that all wished to take part in this at the same time, and it was necessary to bury the dead."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In this attack we were fortunate, for while we were destroying those at work on the intrenchments, the troops who had made the sortie on the left were carrying on a successful struggle with the detachments which the enemy had in the Bernardona."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military action in which besieged troops burst forth from their position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) an operational flight by a single aircraft (as in a military operation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It's been fouled up already by this little sortie."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"It was necessary to give expression to this ardor, to arrange a sortie, and so in effect it was done; but it happened that all wished to take part in this at the same time, and it was necessary to bury the dead."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In this attack we were fortunate, for while we were destroying those at work on the intrenchments, the troops who had made the sortie on the left were carrying on a successful struggle with the detachments which the enemy had in the Bernardona."*

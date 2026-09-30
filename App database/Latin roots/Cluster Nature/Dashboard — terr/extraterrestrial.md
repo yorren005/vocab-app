@@ -5,13 +5,6 @@ status: unread
 ---
 # extraterrestrial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of life assumed to exist outside the earth or its atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating or located or occurring outside earth or its atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"The Damakoi are one of the few extraterrestrials who have taken up the use of tobacco."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of life assumed to exist outside the earth or its atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating or located or occurring outside earth or its atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"The Damakoi are one of the few extraterrestrials who have taken up the use of tobacco."*

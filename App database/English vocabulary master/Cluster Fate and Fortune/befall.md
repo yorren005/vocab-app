@@ -5,20 +5,6 @@ status: unread
 ---
 # befall
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Happen to
-> 2. **Nuance / Usage**: (intransitive) to happen
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to befall the target*) and intransitive clauses (*befalling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Madam, all joy befall your Grace, and you!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"More blessed hap did ne’er befall our state."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And peace, no war, befall thy parting soul!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Happen to
+> 2. **Nuance / Usage**: (intransitive) to happen
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to befall the target*) and intransitive clauses (*befalling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Madam, all joy befall your Grace, and you!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"More blessed hap did ne’er befall our state."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And peace, no war, befall thy parting soul!"*

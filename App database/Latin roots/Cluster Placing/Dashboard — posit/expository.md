@@ -5,14 +5,6 @@ status: unread
 ---
 # expository
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to expound or set forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to expound or set forth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was a good scholar and a stimulating preacher, excelling more particularly in his expository discourses, or "lectures" as they used to be called."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Brown, his discourse in the forenoon was always a "lecture" expository of some extended passage of Scripture, and forming one of a consecutive series; while that in the afternoon followed the familiar lines of an ordinary sermon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to expound or set forth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to expound or set forth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He was a good scholar and a stimulating preacher, excelling more particularly in his expository discourses, or "lectures" as they used to be called."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Brown, his discourse in the forenoon was always a "lecture" expository of some extended passage of Scripture, and forming one of a consecutive series; while that in the afternoon followed the familiar lines of an ordinary sermon."*

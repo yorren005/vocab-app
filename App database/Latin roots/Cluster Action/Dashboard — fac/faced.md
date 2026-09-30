@@ -5,15 +5,6 @@ status: unread
 ---
 # faced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deal with (something unpleasant) head on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppose, as in hostility or a competition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Along with them They brought one Pinch, a hungry lean-faced villain, A mere anatomy, a mountebank, A threadbare juggler, and a fortune-teller; A needy, hollow-ey’d, sharp-looking wretch; A living dead man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see by you I am a sweet-faced youth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When drums and trumpets shall I’ th’ field prove flatterers, let courts and cities be Made all of false-faced soothing!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deal with (something unpleasant) head on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppose, as in hostility or a competition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Along with them They brought one Pinch, a hungry lean-faced villain, A mere anatomy, a mountebank, A threadbare juggler, and a fortune-teller; A needy, hollow-ey’d, sharp-looking wretch; A living dead man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see by you I am a sweet-faced youth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When drums and trumpets shall I’ th’ field prove flatterers, let courts and cities be Made all of false-faced soothing!"*

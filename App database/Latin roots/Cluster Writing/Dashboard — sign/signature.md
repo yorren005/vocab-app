@@ -5,15 +5,6 @@ status: unread
 ---
 # signature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your name written in your own handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I always received by return of post exactly the same answer in the same round hand, with the signature of Kenge and Carboy in another writing, which I supposed to be Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have nothing but his signature."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed by no means reciprocated, “and so you chance to find, you know, a paper with the signature of Jarndyce to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Your name written in your own handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I always received by return of post exactly the same answer in the same round hand, with the signature of Kenge and Carboy in another writing, which I supposed to be Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have nothing but his signature."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed by no means reciprocated, “and so you chance to find, you know, a paper with the signature of Jarndyce to it."*

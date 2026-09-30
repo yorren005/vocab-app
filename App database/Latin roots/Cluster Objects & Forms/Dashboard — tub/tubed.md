@@ -5,13 +5,6 @@ status: unread
 ---
 # tubed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a tube or insert a tube into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convey in a tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubed designates provide with a tube or insert a tube into."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a tube or insert a tube into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convey in a tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubed designates provide with a tube or insert a tube into."*

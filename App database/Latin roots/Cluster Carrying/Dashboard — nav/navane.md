@@ -5,13 +5,6 @@ status: unread
 ---
 # navane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade name navane) used to treat schizophrenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade name navane) used to treat schizophrenia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navane designates a tranquilizer (trade name navane) used to treat schizophrenia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade name navane) used to treat schizophrenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade name navane) used to treat schizophrenia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navane designates a tranquilizer (trade name navane) used to treat schizophrenia."*

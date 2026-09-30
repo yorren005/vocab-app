@@ -5,15 +5,6 @@ status: unread
 ---
 # appetizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to or stimulating the appetite especially in appearance or aroma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appealing to or stimulating the appetite especially in appearance or aroma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The steaming coffee and hot milk and the fresh white bread Apollonie had prepared looked very appetizing to him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Then she had dinner, a substantial and appetizing meal at which there were always three or four guests; after dinner she played a game of boston, and at night she had the newspapers or a new book read to her while she knitted."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was an appetizing smell from the pots upon the stove, and the long table was set for dinner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to or stimulating the appetite especially in appearance or aroma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appealing to or stimulating the appetite especially in appearance or aroma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The steaming coffee and hot milk and the fresh white bread Apollonie had prepared looked very appetizing to him."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Then she had dinner, a substantial and appetizing meal at which there were always three or four guests; after dinner she played a game of boston, and at night she had the newspapers or a new book read to her while she knitted."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was an appetizing smell from the pots upon the stove, and the long table was set for dinner."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deplorable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad; unfortunate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of very poor quality or condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The coroner’s jury found that he took the poison accidentally.” “And what kind of man,” my Lady asks, “was this deplorable creature?” “Very difficult to say,” returns the lawyer, shaking his head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It affected us to see Caddy clinging, then, to her deplorable home and hanging on her mother’s neck with the greatest tenderness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess had thirty pounds coming to her almost immediately from Angel’s bankers, and, the case being so deplorable, as soon as the sum was received she sent the twenty as requested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad; unfortunate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of very poor quality or condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The coroner’s jury found that he took the poison accidentally.” “And what kind of man,” my Lady asks, “was this deplorable creature?” “Very difficult to say,” returns the lawyer, shaking his head."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It affected us to see Caddy clinging, then, to her deplorable home and hanging on her mother’s neck with the greatest tenderness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess had thirty pounds coming to her almost immediately from Angel’s bankers, and, the case being so deplorable, as soon as the sum was received she sent the twenty as requested."*

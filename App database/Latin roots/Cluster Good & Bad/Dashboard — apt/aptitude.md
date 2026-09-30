@@ -5,15 +5,6 @@ status: unread
 ---
 # aptitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherent ability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She felt it with a mother’s anguish to be a move in the Wat Tyler direction, well knowing that Sir Leicester had that general impression of an aptitude for any art to which smoke and a tall chimney might be considered essential."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia, lighting a candle (with a predestined aptitude for doing something objectionable), is bidden to put it out again, for it is not yet dark enough."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had, it is true, worked in it strenuously and with conspicuous success, and had revealed a natural aptitude for Christian apologetics of a very high order."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent ability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherent ability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She felt it with a mother’s anguish to be a move in the Wat Tyler direction, well knowing that Sir Leicester had that general impression of an aptitude for any art to which smoke and a tall chimney might be considered essential."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia, lighting a candle (with a predestined aptitude for doing something objectionable), is bidden to put it out again, for it is not yet dark enough."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had, it is true, worked in it strenuously and with conspicuous success, and had revealed a natural aptitude for Christian apologetics of a very high order."*

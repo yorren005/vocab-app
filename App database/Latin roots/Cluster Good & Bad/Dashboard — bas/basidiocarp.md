@@ -5,13 +5,6 @@ status: unread
 ---
 # basidiocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fruiting body of a basidiomycete which bears its spores on special cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruiting body of a basidiomycete which bears its spores on special cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiocarp designates the fruiting body of a basidiomycete which bears its spores on special cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fruiting body of a basidiomycete which bears its spores on special cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruiting body of a basidiomycete which bears its spores on special cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiocarp designates the fruiting body of a basidiomycete which bears its spores on special cells."*

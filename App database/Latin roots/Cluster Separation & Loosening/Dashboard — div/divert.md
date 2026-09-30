@@ -5,15 +5,6 @@ status: unread
 ---
 # divert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The French, advis’d by good intelligence Of this most dreadful preparation, Shake in their fear, and with pale policy Seek to divert the English purposes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Frights, changes, horrors, Divert and crack, rend and deracinate, The unity and married calm of states Quite from their fixture!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I might tell you that you don’t know your own minds yet, that a thousand things may happen to divert you from one another, that it is well this chain of flowers you have taken up is very easily broken, or it might become a chain of lead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The French, advis’d by good intelligence Of this most dreadful preparation, Shake in their fear, and with pale policy Seek to divert the English purposes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Frights, changes, horrors, Divert and crack, rend and deracinate, The unity and married calm of states Quite from their fixture!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I might tell you that you don’t know your own minds yet, that a thousand things may happen to divert you from one another, that it is well this chain of flowers you have taken up is very easily broken, or it might become a chain of lead."*

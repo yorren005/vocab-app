@@ -5,15 +5,6 @@ status: unread
 ---
 # prim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a prim appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contract one's lips.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She takes strong note of me, Hath made me near her, and this beauteous morn, The prim’st of all the year, presents me with A brace of horses; two such steeds might well Be by a pair of kings backed, in a field That their crowns’ titles tried."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He looked all grace and success, and he is Doubtless the prim’st of men."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Must thou, the noble, gen’rous, great, Fall in bold manhood’s hardy prim Why did I live to see that day— A day to me so full of woe?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a prim appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contract one's lips.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She takes strong note of me, Hath made me near her, and this beauteous morn, The prim’st of all the year, presents me with A brace of horses; two such steeds might well Be by a pair of kings backed, in a field That their crowns’ titles tried."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He looked all grace and success, and he is Doubtless the prim’st of men."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Must thou, the noble, gen’rous, great, Fall in bold manhood’s hardy prim Why did I live to see that day— A day to me so full of woe?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unitarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherent of unitarianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterizing unitarianism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin for his part liked to keep the mental windows open and objected to fixed limits; if the Unitarian brewer jested about the Athanasian Creed, Dr."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Forman, late Secretary of that Commission, and now Secretary of the Unitarian Association, and his accomplished wife, both of whom were indefatigable in their efforts to obtain facts relative to western ladies; to Rev."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Eliot, the Unitarian Pastor, of St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherent of unitarianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterizing unitarianism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Minchin for his part liked to keep the mental windows open and objected to fixed limits; if the Unitarian brewer jested about the Athanasian Creed, Dr."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Forman, late Secretary of that Commission, and now Secretary of the Unitarian Association, and his accomplished wife, both of whom were indefatigable in their efforts to obtain facts relative to western ladies; to Rev."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Eliot, the Unitarian Pastor, of St."*

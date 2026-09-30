@@ -5,15 +5,6 @@ status: unread
 ---
 # fermentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of agitation or turbulent change or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Transition and reform There will ensue a fermentation over this as over many 65:21 other reforms, until we get at last the clear straining of truth, and impurity and error are left among the lees."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The fermentation even of fluids is 65:24 not pleasant."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This mental fermentation has begun, and will continue until all errors of belief yield to understanding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of agitation or turbulent change or development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Transition and reform There will ensue a fermentation over this as over many 65:21 other reforms, until we get at last the clear straining of truth, and impurity and error are left among the lees."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The fermentation even of fluids is 65:24 not pleasant."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This mental fermentation has begun, and will continue until all errors of belief yield to understanding."*

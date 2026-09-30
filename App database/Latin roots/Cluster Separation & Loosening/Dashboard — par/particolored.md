@@ -5,13 +5,6 @@ status: unread
 ---
 # particolored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Tattered and torn, he saw a bright, particolored patchwork quilt that he knew had covered his daughter’s bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Tattered and torn, he saw a bright, particolored patchwork quilt that he knew had covered his daughter’s bed."*

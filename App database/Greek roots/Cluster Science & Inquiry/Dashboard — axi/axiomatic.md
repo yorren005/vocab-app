@@ -5,15 +5,6 @@ status: unread
 ---
 # axiomatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken for granted : self-evident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or involving an axiom or system of axioms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually the basis of the labor theory of property is declared to be each individual's natural right to the results of his own labor, which claim is assumed to be an ultimate, undebatable, axiomatic fact."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Bishop Gore, in a book recently published, suggested that the belief that God is Love is not axiomatic."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The proposition with which this section opens was accepted as our axiomatic starting-point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken for granted : self-evident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or involving an axiom or system of axioms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually the basis of the labor theory of property is declared to be each individual's natural right to the results of his own labor, which claim is assumed to be an ultimate, undebatable, axiomatic fact."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Bishop Gore, in a book recently published, suggested that the belief that God is Love is not axiomatic."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The proposition with which this section opens was accepted as our axiomatic starting-point."*

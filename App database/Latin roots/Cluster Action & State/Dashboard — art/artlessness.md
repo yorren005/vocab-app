@@ -5,15 +5,6 @@ status: unread
 ---
 # artlessness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of innocent naivete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ingenuousness by virtue of being free from artful deceit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought we were an old family; but this is all new!” she said, in her artlessness."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That’s the state of the case, for that much I’ve seen myself.” And then they both stared at me, and I, with an obtrusive show of artlessness on my countenance, stared at them, and plaited the right leg of my trousers with my right hand."*
-> - 📜 **Effie Afton (*Eventide*):** *"The eyes were soft and gentle in their glance, And looked with trusting artlessness in yours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of innocent naivete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ingenuousness by virtue of being free from artful deceit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought we were an old family; but this is all new!” she said, in her artlessness."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"That’s the state of the case, for that much I’ve seen myself.” And then they both stared at me, and I, with an obtrusive show of artlessness on my countenance, stared at them, and plaited the right leg of my trousers with my right hand."*
+> - 📜 **Effie Afton (*Eventide*):** *"The eyes were soft and gentle in their glance, And looked with trusting artlessness in yours."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # carnotite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow radioactive mineral; an ore of uranium and radium and vanadium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow radioactive mineral; an ore of uranium and radium and vanadium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnotite designates a yellow radioactive mineral; an ore of uranium and radium and vanadium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow radioactive mineral; an ore of uranium and radium and vanadium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow radioactive mineral; an ore of uranium and radium and vanadium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnotite designates a yellow radioactive mineral; an ore of uranium and radium and vanadium."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # redeemed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soldiers, this day have you redeemed your lives And showed how well you love your prince and country."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He might have tried Lord Lucius or Lucullus; And now Ventidius is wealthy too, Whom he redeemed from prison."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Such imperiousness would have damned a little less beauty; and on the other hand, such beauty would have redeemed a little less imperiousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soldiers, this day have you redeemed your lives And showed how well you love your prince and country."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He might have tried Lord Lucius or Lucullus; And now Ventidius is wealthy too, Whom he redeemed from prison."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Such imperiousness would have damned a little less beauty; and on the other hand, such beauty would have redeemed a little less imperiousness."*

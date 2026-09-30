@@ -5,15 +5,6 @@ status: unread
 ---
 # manner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of acting or behaving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pompey, Menecrates and Menas in warlike manner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not much dislike the matter, but The manner of his speech; for’t cannot be We shall remain in friendship, our conditions So differing in their acts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What manner o’ thing is your crocodile?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of acting or behaving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pompey, Menecrates and Menas in warlike manner."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not much dislike the matter, but The manner of his speech; for’t cannot be We shall remain in friendship, our conditions So differing in their acts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What manner o’ thing is your crocodile?"*

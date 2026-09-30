@@ -5,15 +5,6 @@ status: unread
 ---
 # rebound
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement back from an impact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reaction to a crisis or setback or frustration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would I might never O’ertake pursued success, but I do feel, By the rebound of yours, a grief that smites My very heart at root."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Resistance to unjust dispraise had mingled with her feeling for him from the very first, and now in the rebound of her heart after her anguish the resistance was stronger than ever."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 25th of January the ocean was entirely deserted; the _Nautilus_ passed the day on the surface, beating the waves with its powerful screw and making them rebound to a great height."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement back from an impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reaction to a crisis or setback or frustration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would I might never O’ertake pursued success, but I do feel, By the rebound of yours, a grief that smites My very heart at root."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Resistance to unjust dispraise had mingled with her feeling for him from the very first, and now in the rebound of her heart after her anguish the resistance was stronger than ever."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 25th of January the ocean was entirely deserted; the _Nautilus_ passed the day on the surface, beating the waves with its powerful screw and making them rebound to a great height."*

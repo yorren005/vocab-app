@@ -5,15 +5,6 @@ status: unread
 ---
 # regina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of saskatchewan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of saskatchewan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOLSEY. _Tanta est erga te mentis integritas, regina serenissima_— QUEEN KATHERINE."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Regina will bring the matter before the attention of the public."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Regina I venture to think that a thrill of indignation will run through the country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of saskatchewan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of saskatchewan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOLSEY. _Tanta est erga te mentis integritas, regina serenissima_— QUEEN KATHERINE."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Regina will bring the matter before the attention of the public."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Regina I venture to think that a thrill of indignation will run through the country."*

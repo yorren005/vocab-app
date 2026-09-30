@@ -5,13 +5,6 @@ status: unread
 ---
 # stenography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of writing in shorthand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorthand especially written from dictation or oral discourse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Now to the historical, for as Madam Mina write not in her stenography, I must, in my cumbrous old fashion, that so each day of us may not go unrecorded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of writing in shorthand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorthand especially written from dictation or oral discourse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Now to the historical, for as Madam Mina write not in her stenography, I must, in my cumbrous old fashion, that so each day of us may not go unrecorded."*

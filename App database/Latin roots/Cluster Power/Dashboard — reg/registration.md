@@ -5,15 +5,6 @@ status: unread
 ---
 # registration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of enrolling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of people (such as students) who register or enroll at the same time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes a special mortgage registration tax, payable but once (in New York 1/2 of 1 per cent) is levied, and otherwise mortgages are free from taxation."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Prominent and onerous were the duties of the Registration Committee."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Especially do we recognize the valuable aid rendered by the members of our Registration Committee, who, in the early days of this Association, superintended the training of a band of one hundred women nurses for our army hospitals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of enrolling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of people (such as students) who register or enroll at the same time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes a special mortgage registration tax, payable but once (in New York 1/2 of 1 per cent) is levied, and otherwise mortgages are free from taxation."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Prominent and onerous were the duties of the Registration Committee."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Especially do we recognize the valuable aid rendered by the members of our Registration Committee, who, in the early days of this Association, superintended the training of a band of one hundred women nurses for our army hospitals."*

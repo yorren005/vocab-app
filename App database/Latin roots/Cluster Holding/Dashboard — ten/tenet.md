@@ -5,15 +5,6 @@ status: unread
 ---
 # tenet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious doctrine that is proclaimed as true without proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious doctrine that is proclaimed as true without proof.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan replied, "Congressman Bloodworth, I am thoroughly convinced that the Republican party is in error in the chief tenet of its present day creed."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The corporeity of the soul {346} was a tenet of Stoicism, essential to Tertullian, for without it he could not conceive of what was to follow the resurrection."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the Lord Treasurer’s Remembrancer’s office is the following:--“Uske: De Elizea John ap Jevan vidua, occasionat. ad ostendendum quo titulo tenet domum et situm Prioratus de Uske, et alias terras in comitatu Monmouth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious doctrine that is proclaimed as true without proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious doctrine that is proclaimed as true without proof.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan replied, "Congressman Bloodworth, I am thoroughly convinced that the Republican party is in error in the chief tenet of its present day creed."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The corporeity of the soul {346} was a tenet of Stoicism, essential to Tertullian, for without it he could not conceive of what was to follow the resurrection."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the Lord Treasurer’s Remembrancer’s office is the following:--“Uske: De Elizea John ap Jevan vidua, occasionat. ad ostendendum quo titulo tenet domum et situm Prioratus de Uske, et alias terras in comitatu Monmouth."*

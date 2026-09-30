@@ -5,13 +5,6 @@ status: unread
 ---
 # sinoper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red ocher formerly used as a pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red ocher formerly used as a pigment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinoper designates a red ocher formerly used as a pigment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red ocher formerly used as a pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red ocher formerly used as a pigment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinoper designates a red ocher formerly used as a pigment."*

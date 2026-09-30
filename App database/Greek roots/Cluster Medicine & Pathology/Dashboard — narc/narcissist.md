@@ -5,13 +5,6 @@ status: unread
 ---
 # narcissist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone in love with themselves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone in love with themselves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcissist designates someone in love with themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone in love with themselves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone in love with themselves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcissist designates someone in love with themselves."*

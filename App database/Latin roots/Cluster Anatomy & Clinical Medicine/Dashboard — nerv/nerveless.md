@@ -5,15 +5,6 @@ status: unread
 ---
 # nerveless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by calm self-control (especially in trying circumstances); unemotional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking strength; - nathaniel hawthorne.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As soon as the nerveless pause of her surprise would allow her to stir, her impulse was to pass on out of his sight."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But, nerveless woman as she had now become, she could not bring herself to attempt the handle."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even the virtues of men were difficult; they were apt to be nerveless and uncertain, because their aim was uncertain, and they wanted inspiration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by calm self-control (especially in trying circumstances); unemotional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking strength; - nathaniel hawthorne.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As soon as the nerveless pause of her surprise would allow her to stir, her impulse was to pass on out of his sight."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But, nerveless woman as she had now become, she could not bring herself to attempt the handle."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even the virtues of men were difficult; they were apt to be nerveless and uncertain, because their aim was uncertain, and they wanted inspiration."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # minimise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent as less significant or important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make small or insignificant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"B. ii.—_Prevention of Radiation through Walls and Roof._—Such heat losses are now minimised by thickening these parts, and blanketing the outside of the roof with sand, keeping the construction together by very heavy bracing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent as less significant or important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make small or insignificant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"B. ii.—_Prevention of Radiation through Walls and Roof._—Such heat losses are now minimised by thickening these parts, and blanketing the outside of the roof with sand, keeping the construction together by very heavy bracing."*

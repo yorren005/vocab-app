@@ -5,15 +5,6 @@ status: unread
 ---
 # policy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prudence or wisdom in the management of affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management or procedure based primarily on material interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there no military policy how virgins might blow up men?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So much uncurbable, her garboils, Caesar, Made out of her impatience—which not wanted Shrewdness of policy too—I grieving grant Did you too much disquiet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prudence or wisdom in the management of affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management or procedure based primarily on material interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there no military policy how virgins might blow up men?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So much uncurbable, her garboils, Caesar, Made out of her impatience—which not wanted Shrewdness of policy too—I grieving grant Did you too much disquiet."*

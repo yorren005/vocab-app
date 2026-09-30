@@ -5,13 +5,6 @@ status: unread
 ---
 # vitiligo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitiligo designates an acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitiligo designates an acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border)."*

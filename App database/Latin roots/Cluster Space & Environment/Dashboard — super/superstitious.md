@@ -5,15 +5,6 @@ status: unread
 ---
 # superstitious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing ignorance of the laws of nature and faith in magic or chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing ignorance of the laws of nature and faith in magic or chance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is doubtful yet Whether Caesar will come forth today or no; For he is superstitious grown of late, Quite from the main opinion he held once Of fantasy, of dreams, and ceremonies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have heard of such a spirit, and well you know The superstitious idle-headed eld Received and did deliver to our age, This tale of Herne the hunter for a truth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This foolish, dreaming, superstitious girl Makes all these bodements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing ignorance of the laws of nature and faith in magic or chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing ignorance of the laws of nature and faith in magic or chance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is doubtful yet Whether Caesar will come forth today or no; For he is superstitious grown of late, Quite from the main opinion he held once Of fantasy, of dreams, and ceremonies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have heard of such a spirit, and well you know The superstitious idle-headed eld Received and did deliver to our age, This tale of Herne the hunter for a truth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This foolish, dreaming, superstitious girl Makes all these bodements."*

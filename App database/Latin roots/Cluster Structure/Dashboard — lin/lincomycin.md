@@ -5,13 +5,6 @@ status: unread
 ---
 # lincomycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lincomycin designates antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lincomycin designates antibiotic (trade name lincocin) obtained from a streptomyces bacterium and used in the treatment of certain penicillin-resistant infections."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # mellifluous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing to the ear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mellifluous voice, as I am true knight."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The same proceeding was gone through with Toby, whose mellifluous appellation was more easily caught."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing to the ear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mellifluous voice, as I am true knight."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The same proceeding was gone through with Toby, whose mellifluous appellation was more easily caught."*

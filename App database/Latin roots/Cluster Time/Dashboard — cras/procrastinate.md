@@ -5,15 +5,6 @@ status: unread
 ---
 # procrastinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Postpone doing what one should be doing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone or delay needlessly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hopeless and helpless doth Egeon wend, But to procrastinate his lifeless end. [_Exeunt._] SCENE II."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He wished me not to procrastinate.” “I called to tell you not to go any further, Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The hope of a still further increase afforded an inducement to those who were disposed to serve to procrastinate their enlistment, and disinclined them from engaging for any considerable periods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Postpone doing what one should be doing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone or delay needlessly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hopeless and helpless doth Egeon wend, But to procrastinate his lifeless end. [_Exeunt._] SCENE II."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He wished me not to procrastinate.” “I called to tell you not to go any further, Mr."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The hope of a still further increase afforded an inducement to those who were disposed to serve to procrastinate their enlistment, and disinclined them from engaging for any considerable periods."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # domitian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome; son of vespasian who succeeded his brother titus; instigated a reign of terror and was assassinated as a tyrant (51-96).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome; son of vespasian who succeeded his brother titus; instigated a reign of terror and was assassinated as a tyrant (51-96).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"II. c. 2) assigned them to the reign of Domitian (A.D. 81-96)."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Eventually he was set free, and when Domitian expelled the philosophers from Rome, he went to Nicopolis in Epirus,[53] where he lived and taught--lame, neat, poor and old."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But he tells with pride how once Arulenus Rusticus had a letter from Domitian brought him by a soldier in the middle of one of these lectures and kept it unopened till the end.[28] The lectures were given in Greek."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome; son of vespasian who succeeded his brother titus; instigated a reign of terror and was assassinated as a tyrant (51-96).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome; son of vespasian who succeeded his brother titus; instigated a reign of terror and was assassinated as a tyrant (51-96).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"II. c. 2) assigned them to the reign of Domitian (A.D. 81-96)."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Eventually he was set free, and when Domitian expelled the philosophers from Rome, he went to Nicopolis in Epirus,[53] where he lived and taught--lame, neat, poor and old."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But he tells with pride how once Arulenus Rusticus had a letter from Domitian brought him by a soldier in the middle of one of these lectures and kept it unopened till the end.[28] The lectures were given in Greek."*

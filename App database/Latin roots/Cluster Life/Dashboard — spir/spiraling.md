@@ -5,13 +5,6 @@ status: unread
 ---
 # spiraling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To wind or move in a spiral course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a spiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The jar, when he landed, sent pain spiraling through his body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wind or move in a spiral course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a spiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The jar, when he landed, sent pain spiraling through his body."*

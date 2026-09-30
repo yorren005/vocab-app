@@ -5,15 +5,6 @@ status: unread
 ---
 # declaration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is emphatic and explicit (spoken or written).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) unsworn statement that can be admitted in evidence in a legal transaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Would you be so kind as to allow me (as I may say) to file a declaration—to make an offer!” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You have referred to an occasion, miss, when I—when I did myself the honour of making a declaration which—” Something seemed to rise in his throat that he could not possibly swallow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is emphatic and explicit (spoken or written).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) unsworn statement that can be admitted in evidence in a legal transaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Would you be so kind as to allow me (as I may say) to file a declaration—to make an offer!” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You have referred to an occasion, miss, when I—when I did myself the honour of making a declaration which—” Something seemed to rise in his throat that he could not possibly swallow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*

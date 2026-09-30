@@ -5,13 +5,6 @@ status: unread
 ---
 # monocotyledonous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonous designates any of a class or subclass (liliopsida or monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonous designates any of a class or subclass (liliopsida or monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot."*

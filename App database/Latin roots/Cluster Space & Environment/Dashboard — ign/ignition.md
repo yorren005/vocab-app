@@ -5,15 +5,6 @@ status: unread
 ---
 # ignition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of initiating combustion or catching fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanism that ignites the fuel in an internal-combustion engine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Balfour, _l.c.: "Need-fire_ ... an ignition produced by the friction of two pieces of dried wood."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"After that no wood is used, except as a means of quick ignition to the staple fuel."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"After that no wood is used, except as a means of quick ignition to the staple fuel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of initiating combustion or catching fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanism that ignites the fuel in an internal-combustion engine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Balfour, _l.c.: "Need-fire_ ... an ignition produced by the friction of two pieces of dried wood."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"After that no wood is used, except as a means of quick ignition to the staple fuel."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"After that no wood is used, except as a means of quick ignition to the staple fuel."*

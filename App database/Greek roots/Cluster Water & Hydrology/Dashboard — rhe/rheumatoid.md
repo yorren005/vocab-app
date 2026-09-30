@@ -5,13 +5,6 @@ status: unread
 ---
 # rheumatoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or affected with rheumatoid arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually chronic autoimmune disease that is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints —abbreviation RA.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheumatoid designates characteristic of or affected with rheumatoid arthritis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or affected with rheumatoid arthritis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually chronic autoimmune disease that is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints —abbreviation RA.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheumatoid designates characteristic of or affected with rheumatoid arthritis."*

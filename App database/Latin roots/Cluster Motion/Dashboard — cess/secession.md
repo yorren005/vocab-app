@@ -5,15 +5,6 @@ status: unread
 ---
 # secession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An austrian school of art and architecture parallel to the french art nouveau in the 1890s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The withdrawal of eleven southern states from the union in 1860 which precipitated the american civil war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The United Secession--formerly the Burgher--Church at Stockbridge occupied a site conveniently central for the wide district which it served, but very solitary."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Stark, minister of another Secession church in the village--a much younger man than Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In November 1844 be applied to the Edinburgh Presbytery of the Secession Church for license, and he received it at their hands in the following February."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An austrian school of art and architecture parallel to the french art nouveau in the 1890s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The withdrawal of eleven southern states from the union in 1860 which precipitated the american civil war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The United Secession--formerly the Burgher--Church at Stockbridge occupied a site conveniently central for the wide district which it served, but very solitary."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Stark, minister of another Secession church in the village--a much younger man than Mr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In November 1844 be applied to the Edinburgh Presbytery of the Secession Church for license, and he received it at their hands in the following February."*

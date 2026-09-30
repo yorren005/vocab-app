@@ -5,15 +5,6 @@ status: unread
 ---
 # modality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A classification of propositions on the basis of whether they claim necessity or possibility or impossibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb inflections that express how the action or state is conceived by the speaker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On his wise shoulders through the checkerwork of leaves the sun flung spangles, dancing coins. [ 3 ] Ineluctable modality of the visible: at least that if no more, thought through my eyes."*
-> - 📜 **James Joyce (*Ulysses*):** *"Exactly: and that is the ineluctable modality of the audible."*
-> - 📜 **James Joyce (*Ulysses*):** *"Into the ineluctable modality of the ineluctable visuality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classification of propositions on the basis of whether they claim necessity or possibility or impossibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb inflections that express how the action or state is conceived by the speaker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"On his wise shoulders through the checkerwork of leaves the sun flung spangles, dancing coins. [ 3 ] Ineluctable modality of the visible: at least that if no more, thought through my eyes."*
+> - 📜 **James Joyce (*Ulysses*):** *"Exactly: and that is the ineluctable modality of the audible."*
+> - 📜 **James Joyce (*Ulysses*):** *"Into the ineluctable modality of the ineluctable visuality."*

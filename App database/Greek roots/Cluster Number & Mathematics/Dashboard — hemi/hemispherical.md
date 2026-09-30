@@ -5,14 +5,6 @@ status: unread
 ---
 # hemispherical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a hemisphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a hemispherical concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate XI. fig. 216.) PHYLLACTINIA, _Lév._ Perithecia hemispherical, at length depressed, seated on a persistent or evanescent membranaceo-granular receptacle; appendages straight, rigid, acicular, at length bent back.—_Berk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a hemisphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a hemispherical concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate XI. fig. 216.) PHYLLACTINIA, _Lév._ Perithecia hemispherical, at length depressed, seated on a persistent or evanescent membranaceo-granular receptacle; appendages straight, rigid, acicular, at length bent back.—_Berk."*

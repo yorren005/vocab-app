@@ -5,15 +5,6 @@ status: unread
 ---
 # equator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line around the earth forming the great circle that is equidistant from the north and south poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle dividing a sphere or other surface into two usually equal and symmetrical parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Adam Strang, invariably assume my consciousness on a group of low, sandy islands somewhere under the equator in what must be the western Pacific Ocean."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would he not far rather lay him down lengthwise along the line of the equator; yea, ye gods! go down to the fiery pit itself, in order to keep out this frost?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Be cool at the equator; keep thy blood fluid at the Pole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line around the earth forming the great circle that is equidistant from the north and south poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle dividing a sphere or other surface into two usually equal and symmetrical parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Adam Strang, invariably assume my consciousness on a group of low, sandy islands somewhere under the equator in what must be the western Pacific Ocean."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would he not far rather lay him down lengthwise along the line of the equator; yea, ye gods! go down to the fiery pit itself, in order to keep out this frost?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Be cool at the equator; keep thy blood fluid at the Pole."*

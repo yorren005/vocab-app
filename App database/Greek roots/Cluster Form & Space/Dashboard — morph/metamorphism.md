@@ -5,13 +5,6 @@ status: unread
 ---
 # metamorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphism designates a change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphism designates a change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition."*

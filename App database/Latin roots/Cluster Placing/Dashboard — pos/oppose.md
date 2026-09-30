@@ -5,15 +5,6 @@ status: unread
 ---
 # oppose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be against; express opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight against or resist strongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sits down in Alexandria, where I will oppose his fate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wish I had a cause to seek him there, To oppose his hatred fully."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be against; express opposition to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight against or resist strongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sits down in Alexandria, where I will oppose his fate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wish I had a cause to seek him there, To oppose his hatred fully."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*

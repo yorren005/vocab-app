@@ -5,13 +5,6 @@ status: unread
 ---
 # barnstorm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appear at county fairs and carnivals as a stunt flier and parachute jumper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tour the country making political speeches, giving lectures, or presenting plays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barnstorm designates appear at county fairs and carnivals as a stunt flier and parachute jumper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appear at county fairs and carnivals as a stunt flier and parachute jumper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tour the country making political speeches, giving lectures, or presenting plays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barnstorm designates appear at county fairs and carnivals as a stunt flier and parachute jumper."*

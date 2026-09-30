@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorococcales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unicellular green algae that reproduce by spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unicellular green algae that reproduce by spores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorococcales designates unicellular green algae that reproduce by spores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unicellular green algae that reproduce by spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unicellular green algae that reproduce by spores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorococcales designates unicellular green algae that reproduce by spores."*

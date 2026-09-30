@@ -5,15 +5,6 @@ status: unread
 ---
 # negligible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So small as to be meaningless; insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worth considering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In such a trance the bodily processes are so near to absolute suspension that the air and food consumed are practically negligible."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"An ancient writer is not necessarily negligible because he records, and perhaps believes, miracles or marvels or omens which a modern would never notice."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The American nation, of which the community of the Most Great Name forms as yet a negligible and infinitesimal part, stands, indeed, from whichever angle one observes its immediate fortunes, in grave peril."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So small as to be meaningless; insignificant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worth considering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In such a trance the bodily processes are so near to absolute suspension that the air and food consumed are practically negligible."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"An ancient writer is not necessarily negligible because he records, and perhaps believes, miracles or marvels or omens which a modern would never notice."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The American nation, of which the community of the Most Great Name forms as yet a negligible and infinitesimal part, stands, indeed, from whichever angle one observes its immediate fortunes, in grave peril."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unsigned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a signature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Coming down with unsigned warrant."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The Dial': Unsigned article by Lucien Carey, October 16, 1914, on "The Congo", etc."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Ordinarily when an unsigned poem sweeps across the continent like a tidal wave whose roar and boom and thunder are made up of admiration, delight, and applause, a dozen obscure people rise up and claim the authorship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a signature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a signature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Coming down with unsigned warrant."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The Dial': Unsigned article by Lucien Carey, October 16, 1914, on "The Congo", etc."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Ordinarily when an unsigned poem sweeps across the continent like a tidal wave whose roar and boom and thunder are made up of admiration, delight, and applause, a dozen obscure people rise up and claim the authorship."*

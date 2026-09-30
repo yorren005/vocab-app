@@ -5,13 +5,6 @@ status: unread
 ---
 # vivace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of tempo) very fast and lively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lively, in music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vivace designates (of tempo) very fast and lively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of tempo) very fast and lively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lively, in music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vivace designates (of tempo) very fast and lively."*

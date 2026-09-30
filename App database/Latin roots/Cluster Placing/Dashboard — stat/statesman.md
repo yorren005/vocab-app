@@ -5,15 +5,6 @@ status: unread
 ---
 # statesman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a respected leader in national or international affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a respected leader in national or international affairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be but testimonied in his own bringings-forth, and he shall appear to the envious a scholar, a statesman, and a soldier."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If at home, sir, He’s all my exercise, my mirth, my matter: Now my sworn friend, and then mine enemy; My parasite, my soldier, statesman, all."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every tax "system" has grown up more or less accidentally, guided by no more of a general principle than the advice of the cynical old statesman--so to pluck the feathers of the goose that it will squawk as little as possible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a respected leader in national or international affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a respected leader in national or international affairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be but testimonied in his own bringings-forth, and he shall appear to the envious a scholar, a statesman, and a soldier."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If at home, sir, He’s all my exercise, my mirth, my matter: Now my sworn friend, and then mine enemy; My parasite, my soldier, statesman, all."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every tax "system" has grown up more or less accidentally, guided by no more of a general principle than the advice of the cynical old statesman--so to pluck the feathers of the goose that it will squawk as little as possible."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # epistle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the letters adopted as books of the New Testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liturgical lection usually from one of the New Testament Epistles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The substance of the epistle had occupied him but little in comparison with the fact of its arrival."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She watched till the postman passed by, ran out to him with her epistle, and then again took her listless place inside the window-panes."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He also gained a knowledge of men and things German, and a living interest in them, which he retained through life. [Footnote 5: Afterwards author of a learned but fantastic Commentary on the Epistle to the Hebrews."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the letters adopted as books of the New Testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liturgical lection usually from one of the New Testament Epistles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The substance of the epistle had occupied him but little in comparison with the fact of its arrival."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She watched till the postman passed by, ran out to him with her epistle, and then again took her listless place inside the window-panes."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He also gained a knowledge of men and things German, and a living interest in them, which he retained through life. [Footnote 5: Afterwards author of a learned but fantastic Commentary on the Epistle to the Hebrews."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bared
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lay bare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shave the head and tie the beard, and say it was the desire of the penitent to be so bared before his death."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba knew more of him now; he had entirely bared his heart before her, even until he had almost worn in her eyes the sorry look of a grand bird without the feathers that make it grand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The other portion remained erect, and revealed the bared surface as a strip of white down the front."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lay bare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shave the head and tie the beard, and say it was the desire of the penitent to be so bared before his death."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba knew more of him now; he had entirely bared his heart before her, even until he had almost worn in her eyes the sorry look of a grand bird without the feathers that make it grand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The other portion remained erect, and revealed the bared surface as a strip of white down the front."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # canuck
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term for canadians in general and french canadians in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term for canadians in general and french canadians in particular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Our Jack Canuck is active, He plays a pretty goal, But make swift runs to cover When drums begin to roll."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Jack Canuck's unselfish, He lets the honors go All to his British brother, When war time bugles blow."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Jack Canuck is modest; That's why he chooses rears, And sees the front seats taken By British volunteers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term for canadians in general and french canadians in particular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term for canadians in general and french canadians in particular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Our Jack Canuck is active, He plays a pretty goal, But make swift runs to cover When drums begin to roll."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Jack Canuck's unselfish, He lets the honors go All to his British brother, When war time bugles blow."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Jack Canuck is modest; That's why he chooses rears, And sees the front seats taken By British volunteers."*

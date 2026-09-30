@@ -5,13 +5,6 @@ status: unread
 ---
 # extraversion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) an extroverted disposition; concern with what is outside the self.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) an extroverted disposition; concern with what is outside the self.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraversion designates (psychology) an extroverted disposition; concern with what is outside the self."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) an extroverted disposition; concern with what is outside the self.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) an extroverted disposition; concern with what is outside the self.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraversion designates (psychology) an extroverted disposition; concern with what is outside the self."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # individualism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in the importance of the individual and the virtue of self-reliance and personal independence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Do not hope to find elsewhere the secret of our ills."[11] This then in briefest outline is the transition from the century of individualism and autocracy to the nineteenth century of democracy."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Besides, individualism has really the higher aim."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And now it is reported that individualism run mad among the revolutionary leaders has led to a slackening in the enforcement of the rules, and the revival of poppy cultivation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in the importance of the individual and the virtue of self-reliance and personal independence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Do not hope to find elsewhere the secret of our ills."[11] This then in briefest outline is the transition from the century of individualism and autocracy to the nineteenth century of democracy."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Besides, individualism has really the higher aim."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And now it is reported that individualism run mad among the revolutionary leaders has led to a slackening in the enforcement of the rules, and the revival of poppy cultivation."*

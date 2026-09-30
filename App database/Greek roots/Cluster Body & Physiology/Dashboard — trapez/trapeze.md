@@ -5,15 +5,6 @@ status: unread
 ---
 # trapeze
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gymnastic or acrobatic apparatus consisting of a short horizontal bar suspended by two parallel ropes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer on the trapeze —called also trapeze artist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Abercrombie's secret ambition is that ever since he first attending a circus he wanted to swing from a trapeze-a circus trapeze."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The tiny platform to which he climbed has a trapeze fastened to its railing."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The trapeze is now a few inches from where Abercrombie is standing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gymnastic or acrobatic apparatus consisting of a short horizontal bar suspended by two parallel ropes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer on the trapeze —called also trapeze artist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Abercrombie's secret ambition is that ever since he first attending a circus he wanted to swing from a trapeze-a circus trapeze."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The tiny platform to which he climbed has a trapeze fastened to its railing."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The trapeze is now a few inches from where Abercrombie is standing."*

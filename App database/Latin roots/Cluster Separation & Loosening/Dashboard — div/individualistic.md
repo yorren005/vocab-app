@@ -5,13 +5,6 @@ status: unread
 ---
 # individualistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or expressing individuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With minimally restricted freedom in commerce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Altho, in common with various other "natural-rights" theories, it must be deemed too absolute and too individualistic, it contains a far-reaching truth, of which due account must be taken in our social philosophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or expressing individuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With minimally restricted freedom in commerce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Altho, in common with various other "natural-rights" theories, it must be deemed too absolute and too individualistic, it contains a far-reaching truth, of which due account must be taken in our social philosophy."*

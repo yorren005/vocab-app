@@ -5,15 +5,6 @@ status: unread
 ---
 # immure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lock up or confine, in or as in a jail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sixty and nine that wore Their crownets regal from the Athenian bay Put forth toward Phrygia; and their vow is made To ransack Troy, within whose strong immures The ravish’d Helen, Menelaus’ queen, With wanton Paris sleeps—and that’s the quarrel."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Our prison strong, this huge convex of fire, Outrageous to devour, immures us round Ninefold; and gates of burning adamant, Barred over us, prohibit all egress."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"First, three hundred lashes with the scourge; then immuring in the chastisement cell, with vinegar, water, and bread, until repentant contrition and the fullest amendment were made manifest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lock up or confine, in or as in a jail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sixty and nine that wore Their crownets regal from the Athenian bay Put forth toward Phrygia; and their vow is made To ransack Troy, within whose strong immures The ravish’d Helen, Menelaus’ queen, With wanton Paris sleeps—and that’s the quarrel."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Our prison strong, this huge convex of fire, Outrageous to devour, immures us round Ninefold; and gates of burning adamant, Barred over us, prohibit all egress."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"First, three hundred lashes with the scourge; then immuring in the chastisement cell, with vinegar, water, and bread, until repentant contrition and the fullest amendment were made manifest."*

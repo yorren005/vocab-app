@@ -5,15 +5,6 @@ status: unread
 ---
 # attractiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of arousing interest; being attractive or something that attracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual allure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Among the difficulties of her lonely position not the least was the attention she excited by her appearance, a certain bearing of distinction, which she had caught from Clare, being superadded to her natural attractiveness."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"What was the secret of Jesus' attractiveness, and what kinds of men and women did he attract? 3."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Only genius could have made Charlotte what she is, yet not disagreeable; Wickham what he is, without investing him either with a cheap Don Juanish attractiveness or a disgusting rascality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of arousing interest; being attractive or something that attracts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual allure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Among the difficulties of her lonely position not the least was the attention she excited by her appearance, a certain bearing of distinction, which she had caught from Clare, being superadded to her natural attractiveness."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"What was the secret of Jesus' attractiveness, and what kinds of men and women did he attract? 3."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Only genius could have made Charlotte what she is, yet not disagreeable; Wickham what he is, without investing him either with a cheap Don Juanish attractiveness or a disgusting rascality."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # coprophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked interest in excrement; especially : the use of feces or filth for sexual excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked interest in excrement; especially : the use of feces or filth for sexual excitement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprophilia designates marked interest in excrement; especially : the use of feces or filth for sexual excitement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked interest in excrement; especially : the use of feces or filth for sexual excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked interest in excrement; especially : the use of feces or filth for sexual excitement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprophilia designates marked interest in excrement; especially : the use of feces or filth for sexual excitement."*

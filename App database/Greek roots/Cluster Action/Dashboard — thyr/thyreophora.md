@@ -5,13 +5,6 @@ status: unread
 ---
 # thyreophora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Armored dinosaurs: stegosaurs and ankylosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Armored dinosaurs: stegosaurs and ankylosaurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyreophora designates armored dinosaurs: stegosaurs and ankylosaurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Armored dinosaurs: stegosaurs and ankylosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Armored dinosaurs: stegosaurs and ankylosaurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyreophora designates armored dinosaurs: stegosaurs and ankylosaurs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # endoprocta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes considered a subphylum of bryozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes considered a subphylum of bryozoa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoprocta designates sometimes considered a subphylum of bryozoa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes considered a subphylum of bryozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes considered a subphylum of bryozoa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoprocta designates sometimes considered a subphylum of bryozoa."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # myrmecophile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism such as an insect that habitually shares the nest of a species of ant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism such as an insect that habitually shares the nest of a species of ant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophile designates an organism such as an insect that habitually shares the nest of a species of ant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism such as an insect that habitually shares the nest of a species of ant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism such as an insect that habitually shares the nest of a species of ant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophile designates an organism such as an insect that habitually shares the nest of a species of ant."*

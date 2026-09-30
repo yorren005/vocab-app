@@ -5,13 +5,6 @@ status: unread
 ---
 # nonintegrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; not taken into or made a part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not integrated; not taken into or made a part of a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonintegrated designates not integrated; not taken into or made a part of a whole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; not taken into or made a part of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not integrated; not taken into or made a part of a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonintegrated designates not integrated; not taken into or made a part of a whole."*

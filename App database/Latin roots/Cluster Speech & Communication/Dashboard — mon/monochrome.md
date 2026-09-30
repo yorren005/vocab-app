@@ -5,15 +5,6 @@ status: unread
 ---
 # monochrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painting done in a range of tones of a single color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black-and-white photograph or slide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass looked round upon his sad burden as it loomed faintly through the flowering laurustinus, then at the unfathomable gloom amid the high trees on each hand, indistinct, shadowless, and spectre-like in their monochrome of grey."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painting done in a range of tones of a single color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black-and-white photograph or slide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass looked round upon his sad burden as it loomed faintly through the flowering laurustinus, then at the unfathomable gloom amid the high trees on each hand, indistinct, shadowless, and spectre-like in their monochrome of grey."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."*

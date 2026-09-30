@@ -5,15 +5,6 @@ status: unread
 ---
 # disconnect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unbridgeable disparity (as from a failure of understanding).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull the plug of (electrical appliances) and render inoperable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As the last of the six cleared in through the Raven's air lock, Hodak had hit "Emergency," on appropriate switches and the ship-to-station servicing lines went through quick-disconnect."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adari hit the tether-disconnect."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Confirming the disconnect, Zolan wasted no time in preliminaries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unbridgeable disparity (as from a failure of understanding).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull the plug of (electrical appliances) and render inoperable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As the last of the six cleared in through the Raven's air lock, Hodak had hit "Emergency," on appropriate switches and the ship-to-station servicing lines went through quick-disconnect."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adari hit the tether-disconnect."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Confirming the disconnect, Zolan wasted no time in preliminaries."*

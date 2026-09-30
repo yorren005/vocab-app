@@ -5,20 +5,6 @@ status: unread
 ---
 # stray
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The act of going astray
-> 2. **Nuance / Usage**: Person or thing that strays
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"home, and perhaps to stray wild."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"have had—as I have read—for a weed or a stray blade of grass."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"through at noon with a stray penny—my last coin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The act of going astray
+> 2. **Nuance / Usage**: Person or thing that strays
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"home, and perhaps to stray wild."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"have had—as I have read—for a weed or a stray blade of grass."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"through at noon with a stray penny—my last coin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unassisted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsupported by other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking help.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So self-denying, so uncomplaining, so anxious to get well on their account, so afraid of giving trouble, and so thoughtful of the unassisted labours of her husband and the comforts of old Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s unassisted power of dreaming, however, being enough for her sublimation at present, she declined except the merest sip, and then Marian took a pull from the spirits."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Much of my unassisted self, and more by the help of Biddy than of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsupported by other people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking help.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So self-denying, so uncomplaining, so anxious to get well on their account, so afraid of giving trouble, and so thoughtful of the unassisted labours of her husband and the comforts of old Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s unassisted power of dreaming, however, being enough for her sublimation at present, she declined except the merest sip, and then Marian took a pull from the spirits."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Much of my unassisted self, and more by the help of Biddy than of Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lateral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pass to a receiver upfield from the passer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to the side; ; - tennyson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This dugong, which also bears the name of the halicore, closely resembles the manatee; its oblong body terminated in a lengthened tail, and its lateral fins in perfect fingers."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo intended seeking the bottom of the ocean by a diagonal sufficiently lengthened by means of lateral planes placed at an angle of 45° with the water-line of the _Nautilus_."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Beneath, because the overturned block, having slid by degrees, had found a resting-place on the lateral walls, which kept it in that position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pass to a receiver upfield from the passer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to the side; ; - tennyson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This dugong, which also bears the name of the halicore, closely resembles the manatee; its oblong body terminated in a lengthened tail, and its lateral fins in perfect fingers."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo intended seeking the bottom of the ocean by a diagonal sufficiently lengthened by means of lateral planes placed at an angle of 45° with the water-line of the _Nautilus_."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Beneath, because the overturned block, having slid by degrees, had found a resting-place on the lateral walls, which kept it in that position."*

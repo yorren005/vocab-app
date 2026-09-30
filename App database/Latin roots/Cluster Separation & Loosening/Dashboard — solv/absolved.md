@@ -5,15 +5,6 @@ status: unread
 ---
 # absolved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant remission of a sin to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Let off the hook.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cardinal, The willing’st sin I ever yet committed May be absolved in English."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You sent me Deputy for Ireland, Far from his succour, from the King, from all That might have mercy on the fault thou gav’st him, Whilst your great goodness, out of holy pity, Absolved him with an axe."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But in all contracts, if one party fail to perform his share of the compact, is not the other virtually absolved from his liability?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant remission of a sin to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Let off the hook.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cardinal, The willing’st sin I ever yet committed May be absolved in English."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You sent me Deputy for Ireland, Far from his succour, from the King, from all That might have mercy on the fault thou gav’st him, Whilst your great goodness, out of holy pity, Absolved him with an axe."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But in all contracts, if one party fail to perform his share of the compact, is not the other virtually absolved from his liability?"*

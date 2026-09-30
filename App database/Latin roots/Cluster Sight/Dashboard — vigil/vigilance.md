@@ -5,15 +5,6 @@ status: unread
 ---
 # vigilance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of paying close and continuous attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigilant attentiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall Henry’s conquest, Bedford’s vigilance, Your deeds of war, and all our counsel die?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No port is free, no place That guard and most unusual vigilance Does not attend my taking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONIO. [_Aside to Sebastian._] Let it be tonight; For, now they are oppress’d with travel, they Will not, nor cannot, use such vigilance As when they are fresh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of paying close and continuous attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigilant attentiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall Henry’s conquest, Bedford’s vigilance, Your deeds of war, and all our counsel die?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No port is free, no place That guard and most unusual vigilance Does not attend my taking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONIO. [_Aside to Sebastian._] Let it be tonight; For, now they are oppress’d with travel, they Will not, nor cannot, use such vigilance As when they are fresh."*

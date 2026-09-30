@@ -5,13 +5,6 @@ status: unread
 ---
 # anth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an opposite policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is opposite in kind to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anth designates of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an opposite policy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an opposite policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is opposite in kind to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anth designates of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an opposite policy."*

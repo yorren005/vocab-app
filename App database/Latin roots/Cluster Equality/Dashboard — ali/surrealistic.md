@@ -5,13 +5,6 @@ status: unread
 ---
 # surrealistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealistic designates characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealistic designates characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys."*

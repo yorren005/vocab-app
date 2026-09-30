@@ -5,13 +5,6 @@ status: unread
 ---
 # psychoanalysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalysis designates a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalysis designates a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud."*

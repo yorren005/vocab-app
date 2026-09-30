@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudotsuga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Douglas fir; closely related to genera larix and cathaya.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Douglas fir; closely related to genera larix and cathaya.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudotsuga designates douglas fir; closely related to genera larix and cathaya."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Douglas fir; closely related to genera larix and cathaya.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Douglas fir; closely related to genera larix and cathaya.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudotsuga designates douglas fir; closely related to genera larix and cathaya."*

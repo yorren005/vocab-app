@@ -5,13 +5,6 @@ status: unread
 ---
 # equidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horses; asses; zebras; extinct animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horses; asses; zebras; extinct animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equidae designates horses; asses; zebras; extinct animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Horses; asses; zebras; extinct animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horses; asses; zebras; extinct animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equidae designates horses; asses; zebras; extinct animals."*

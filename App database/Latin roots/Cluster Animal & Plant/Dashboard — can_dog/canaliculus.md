@@ -5,13 +5,6 @@ status: unread
 ---
 # canaliculus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small canal or duct as in some bones and parts of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small canal or duct as in some bones and parts of plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canaliculus designates a small canal or duct as in some bones and parts of plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small canal or duct as in some bones and parts of plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small canal or duct as in some bones and parts of plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canaliculus designates a small canal or duct as in some bones and parts of plants."*

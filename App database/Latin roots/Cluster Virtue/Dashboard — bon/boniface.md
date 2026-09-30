@@ -5,15 +5,6 @@ status: unread
 ---
 # boniface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) anglo-saxon missionary who was sent to frisia and germany to spread the christian faith; was martyred in frisia (680-754).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The owner or manager of an inn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"According to the great alchemist, Pierre de Boniface, the diamond rendered a man invisible, and the agate of India made him eloquent."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"O!”: Boniface VIII. (not Benedict IX., as Vasari has it), wishing to employ Giotto, sent a courtier to obtain some proof of his skill."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"True, sir, said Boniface, but your honour forgets the three gentlemen under the table. 631."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) anglo-saxon missionary who was sent to frisia and germany to spread the christian faith; was martyred in frisia (680-754).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The owner or manager of an inn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"According to the great alchemist, Pierre de Boniface, the diamond rendered a man invisible, and the agate of India made him eloquent."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"O!”: Boniface VIII. (not Benedict IX., as Vasari has it), wishing to employ Giotto, sent a courtier to obtain some proof of his skill."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"True, sir, said Boniface, but your honour forgets the three gentlemen under the table. 631."*

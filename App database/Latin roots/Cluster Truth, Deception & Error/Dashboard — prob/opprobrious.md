@@ -5,15 +5,6 @@ status: unread
 ---
 # opprobrious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing offensive reproach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He will tell you, it is all _pfuscherei_, which is his most opprobrious word!” “Is that true?” said Dorothea, turning her sincere eyes on Naumann, who made a slight grimace and said— “Oh, he does not mean it seriously with painting."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Did it not become my character to testify resentment for language and treatment so opprobrious?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"Opprobrious, with his robe of righteousness, Arraying, covered from his Father’s sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing offensive reproach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He will tell you, it is all _pfuscherei_, which is his most opprobrious word!” “Is that true?” said Dorothea, turning her sincere eyes on Naumann, who made a slight grimace and said— “Oh, he does not mean it seriously with painting."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Did it not become my character to testify resentment for language and treatment so opprobrious?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Opprobrious, with his robe of righteousness, Arraying, covered from his Father’s sight."*

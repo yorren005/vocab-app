@@ -5,15 +5,6 @@ status: unread
 ---
 # morbidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morbid manner or to a morbid degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a morbid manner or to a morbid degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This was a good time, to be sure, to sit down morbidly and cry!"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of a grave, quiet, and somewhat anxious temperament, almost morbidly scrupulous where matters of conscience and responsibility were concerned."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I morbidly represented to myself that if Joe knew it, I never afterwards could see him at the fireside feeling his fair whisker, without thinking that he was meditating on it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morbid manner or to a morbid degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a morbid manner or to a morbid degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This was a good time, to be sure, to sit down morbidly and cry!"*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He was of a grave, quiet, and somewhat anxious temperament, almost morbidly scrupulous where matters of conscience and responsibility were concerned."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I morbidly represented to myself that if Joe knew it, I never afterwards could see him at the fireside feeling his fair whisker, without thinking that he was meditating on it."*

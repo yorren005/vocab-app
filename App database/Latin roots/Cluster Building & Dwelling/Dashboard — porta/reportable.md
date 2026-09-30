@@ -5,13 +5,6 @@ status: unread
 ---
 # reportable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of income) required by law to be reported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meriting report.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportable designates (of income) required by law to be reported."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of income) required by law to be reported.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meriting report.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportable designates (of income) required by law to be reported."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # terrorism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The solid south must be divided by the peaceful agencies of the ballot, and all opinions must there find free expression; and to this end honest voters must be protected against terrorism, violence, or fraud."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The solid south must be divided by the peaceful agencies of the ballot, and all opinions must there find free expression; and to this end honest voters must be protected against terrorism, violence, or fraud."*

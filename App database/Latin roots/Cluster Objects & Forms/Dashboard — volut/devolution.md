@@ -5,14 +5,6 @@ status: unread
 ---
 # devolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of declining from a higher to a lower level of effective power or vitality or essential quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delegation of authority (especially from a central to a regional government).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Felix, though an offshoot from a far more recent point in the devolution of theology than his father, was less self-sacrificing and disinterested."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mary’s Abbey) and masshouse (Adam and Eve’s tavern): the proscription of their national costumes in penal laws and jewish dress acts: the restoration in Chanah David of Zion and the possibility of Irish political autonomy or devolution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of declining from a higher to a lower level of effective power or vitality or essential quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delegation of authority (especially from a central to a regional government).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Felix, though an offshoot from a far more recent point in the devolution of theology than his father, was less self-sacrificing and disinterested."*
+> - 📜 **James Joyce (*Ulysses*):** *"Mary’s Abbey) and masshouse (Adam and Eve’s tavern): the proscription of their national costumes in penal laws and jewish dress acts: the restoration in Chanah David of Zion and the possibility of Irish political autonomy or devolution."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual : generative : semen : seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figure having (so many) angles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"I suspect my master Has found harsh welcome, he's gon supperless Into his study; could I find out the cause, It may be borrowing of his books, or so, I shall be satisfi'd. _Eust_."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Nay Now, y'are gon without bail. _Mir_."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Cynthia was all goned away and I heard the fiddles and they made me cry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual : generative : semen : seed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figure having (so many) angles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"I suspect my master Has found harsh welcome, he's gon supperless Into his study; could I find out the cause, It may be borrowing of his books, or so, I shall be satisfi'd. _Eust_."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Nay Now, y'are gon without bail. _Mir_."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Cynthia was all goned away and I heard the fiddles and they made me cry."*

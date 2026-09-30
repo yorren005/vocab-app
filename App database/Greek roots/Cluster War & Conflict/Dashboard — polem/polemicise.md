@@ -5,13 +5,6 @@ status: unread
 ---
 # polemicise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in a controversy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemicise designates engage in a controversy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in a controversy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemicise designates engage in a controversy."*

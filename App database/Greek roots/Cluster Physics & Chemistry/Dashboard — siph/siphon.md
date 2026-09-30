@@ -5,15 +5,6 @@ status: unread
 ---
 # siphon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tube bent to form two legs of unequal length by which a liquid can be transferred to a lower level over an intermediate elevation by the pressure of the atmosphere in forcing the liquid up the shorter branch of the tube immersed in it while the excess of weight of the liquid in the longer branch when once filled causes a continuous flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottle for holding aerated water that is driven out through a bent tube in its neck by the pressure of the gas when a valve in the tube is opened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He was back again in a trice, a flask in one hand, a soda siphon in the other, and a small glass balanced on his thumb."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The new instrument is known as the Siphon Recorder."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The lamps were lit, and an open Dutch silver spirit-case stood, with some siphons of soda-water and large cut-glass tumblers, on a little marqueterie table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tube bent to form two legs of unequal length by which a liquid can be transferred to a lower level over an intermediate elevation by the pressure of the atmosphere in forcing the liquid up the shorter branch of the tube immersed in it while the excess of weight of the liquid in the longer branch when once filled causes a continuous flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottle for holding aerated water that is driven out through a bent tube in its neck by the pressure of the gas when a valve in the tube is opened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He was back again in a trice, a flask in one hand, a soda siphon in the other, and a small glass balanced on his thumb."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The new instrument is known as the Siphon Recorder."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The lamps were lit, and an open Dutch silver spirit-case stood, with some siphons of soda-water and large cut-glass tumblers, on a little marqueterie table."*

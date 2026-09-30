@@ -5,15 +5,6 @@ status: unread
 ---
 # constance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lake in southeastern germany on the northern side of the swiss alps; forms part of the rhine river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The council in 1414-1418 that succeeded in ending the great schism in the roman catholic church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not ever said How that ambitious Constance would not cease Till she had kindled France and all the world Upon the right and party of her son?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, on one side, the Archduke of Austria and Forces; on the other, Philip King of France, Louis, Constance, Arthur and Forces."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not the Lady Constance in this troop?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lake in southeastern germany on the northern side of the swiss alps; forms part of the rhine river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The council in 1414-1418 that succeeded in ending the great schism in the roman catholic church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not ever said How that ambitious Constance would not cease Till she had kindled France and all the world Upon the right and party of her son?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, on one side, the Archduke of Austria and Forces; on the other, Philip King of France, Louis, Constance, Arthur and Forces."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not the Lady Constance in this troop?"*

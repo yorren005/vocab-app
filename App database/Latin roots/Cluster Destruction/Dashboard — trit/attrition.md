@@ -5,13 +5,6 @@ status: unread
 ---
 # attrition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wearing down of rock particles by friction due to water or wind or ice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But the incidents of his adventure grew sensibly sharper and clearer under the attrition of thinking them over, and so he presently found himself leaning to the impression that the thing might not have been a dream, after all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wearing down of rock particles by friction due to water or wind or ice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But the incidents of his adventure grew sensibly sharper and clearer under the attrition of thinking them over, and so he presently found himself leaning to the impression that the thing might not have been a dream, after all."*

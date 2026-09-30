@@ -5,13 +5,6 @@ status: unread
 ---
 # diatribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter and abusive speech or piece of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ironic or satirical criticism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You couldn’t kill a cornered rat with a stick of dynamite—_real_ dynamite, and not the sort you are deluded into believing I have hidden away.” “Anything more?” he demanded, when I had ceased from my diatribe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter and abusive speech or piece of writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ironic or satirical criticism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You couldn’t kill a cornered rat with a stick of dynamite—_real_ dynamite, and not the sort you are deluded into believing I have hidden away.” “Anything more?” he demanded, when I had ceased from my diatribe."*

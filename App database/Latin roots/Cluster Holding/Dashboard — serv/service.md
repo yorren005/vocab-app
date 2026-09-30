@@ -5,15 +5,6 @@ status: unread
 ---
 # service
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work done by one person or group that benefits another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of help or assistance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath arm’d our answer, And Florence is denied before he comes: Yet, for our gentlemen that mean to see The Tuscan service, freely have they leave To stand on either part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He did look far Into the service of the time, and was Discipled of the bravest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work done by one person or group that benefits another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of help or assistance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath arm’d our answer, And Florence is denied before he comes: Yet, for our gentlemen that mean to see The Tuscan service, freely have they leave To stand on either part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He did look far Into the service of the time, and was Discipled of the bravest."*

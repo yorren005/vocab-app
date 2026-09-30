@@ -5,15 +5,6 @@ status: unread
 ---
 # monte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gambling card game of spanish origin; 3 or 4 cards are dealt face up and players bet that one of them will be matched before the others as the cards are dealt from the pack one at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gambling card game of spanish origin; 3 or 4 cards are dealt face up and players bet that one of them will be matched before the others as the cards are dealt from the pack one at a time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DAUPHIN. _Monte à cheval!_ My horse, _varlet! laquais_, ha!"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"A man as rich as Monte Christo, able to do whatever he would, with the equipage of an English duke, the palace of an Italian prince, the retinue of a Russian noble--he, indeed, might be excused if his money seemed to him a kind of god."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"With that brother, the writer was once climbing the Cima di Jazzi, one of the mountains in the chain of Monte Rosa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gambling card game of spanish origin; 3 or 4 cards are dealt face up and players bet that one of them will be matched before the others as the cards are dealt from the pack one at a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gambling card game of spanish origin; 3 or 4 cards are dealt face up and players bet that one of them will be matched before the others as the cards are dealt from the pack one at a time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DAUPHIN. _Monte à cheval!_ My horse, _varlet! laquais_, ha!"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"A man as rich as Monte Christo, able to do whatever he would, with the equipage of an English duke, the palace of an Italian prince, the retinue of a Russian noble--he, indeed, might be excused if his money seemed to him a kind of god."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"With that brother, the writer was once climbing the Cima di Jazzi, one of the mountains in the chain of Monte Rosa."*

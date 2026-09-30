@@ -5,15 +5,6 @@ status: unread
 ---
 # inelegantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without elegance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without elegance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Her skirt was short in front and narrow below the waist, and her sailor blouse was comfortably but inelegantly loose round the armholes."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Then what?" "Search me," said the boy inelegantly."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"He describes it as covered with lead, and not inelegantly constructed with a roof of stone. [320] Hist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without elegance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without elegance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Her skirt was short in front and narrow below the waist, and her sailor blouse was comfortably but inelegantly loose round the armholes."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Then what?" "Search me," said the boy inelegantly."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"He describes it as covered with lead, and not inelegantly constructed with a roof of stone. [320] Hist."*

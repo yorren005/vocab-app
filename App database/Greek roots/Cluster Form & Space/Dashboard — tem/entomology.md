@@ -5,15 +5,6 @@ status: unread
 ---
 # entomology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of zoology that deals with insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of zoology that deals with insects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"See,” continued the Vicar, opening several small drawers, “I fancy I have made an exhaustive study of the entomology of this district."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pooh!: that’s bringing the mysterious little thing down to the plane of entomology. 8."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When I learned that the missing man was devoted to entomology the identification was complete.” The darkness was rising, but much was still hidden by the shadows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of zoology that deals with insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of zoology that deals with insects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"See,” continued the Vicar, opening several small drawers, “I fancy I have made an exhaustive study of the entomology of this district."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pooh!: that’s bringing the mysterious little thing down to the plane of entomology. 8."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When I learned that the missing man was devoted to entomology the identification was complete.” The darkness was rising, but much was still hidden by the shadows."*

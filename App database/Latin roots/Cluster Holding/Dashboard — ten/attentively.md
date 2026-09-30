@@ -5,15 +5,6 @@ status: unread
 ---
 # attentively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With attention; in an attentive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With attention; in an attentive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It will also keep you from making uncertain plans, which might only bring fresh disappointments." Leonore had attentively followed every word Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Esther, my dear, do you wish to ask me anything?” He looked so attentively at me that I looked attentively at him and felt sure I understood him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rick,” said my guardian, after hearing him attentively, “we can retreat with honour, and we will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With attention; in an attentive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With attention; in an attentive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It will also keep you from making uncertain plans, which might only bring fresh disappointments." Leonore had attentively followed every word Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Esther, my dear, do you wish to ask me anything?” He looked so attentively at me that I looked attentively at him and felt sure I understood him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rick,” said my guardian, after hearing him attentively, “we can retreat with honour, and we will."*

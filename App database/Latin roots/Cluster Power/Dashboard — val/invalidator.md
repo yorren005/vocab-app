@@ -5,13 +5,6 @@ status: unread
 ---
 # invalidator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who can invalidate or nullify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can invalidate or nullify.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidator designates an official who can invalidate or nullify."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who can invalidate or nullify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can invalidate or nullify.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidator designates an official who can invalidate or nullify."*

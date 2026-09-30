@@ -5,15 +5,6 @@ status: unread
 ---
 # forte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) loud.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This young man, besides having a great deal to say for himself about Africa and a project of his for teaching the coffee colonists to teach the natives to turn piano-forte legs and establish an export trade, delighted in drawing Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, trampled and crushed in the piano-forte removal, and extremely timid and feeble, ventures to come out from behind the door in the drawing-room."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And we agreed it would be best to have the harp, for it seems to amuse her more than the piano-forte."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) loud.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This young man, besides having a great deal to say for himself about Africa and a project of his for teaching the coffee colonists to teach the natives to turn piano-forte legs and establish an export trade, delighted in drawing Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, trampled and crushed in the piano-forte removal, and extremely timid and feeble, ventures to come out from behind the door in the drawing-room."*
+> - 📜 **Jane Austen (*Persuasion*):** *"And we agreed it would be best to have the harp, for it seems to amuse her more than the piano-forte."*

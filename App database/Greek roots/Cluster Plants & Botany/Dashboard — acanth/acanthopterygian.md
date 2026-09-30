@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthopterygian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A teleost fish with fins that are supported by sharp inflexible rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teleost fish with fins that are supported by sharp inflexible rays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthopterygian designates a teleost fish with fins that are supported by sharp inflexible rays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A teleost fish with fins that are supported by sharp inflexible rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teleost fish with fins that are supported by sharp inflexible rays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthopterygian designates a teleost fish with fins that are supported by sharp inflexible rays."*

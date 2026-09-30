@@ -5,15 +5,6 @@ status: unread
 ---
 # individuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distinct personality of an individual regarded as a persisting entity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The vision of the woman writing, as a supplement to the words written, had no individuality."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This woman was not given to soliloquy; but extremity of feeling lessens the individuality of the weak, as it increases that of the strong."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The schoolmaster at this time was John M'Gregor, a man of ripe and accurate scholarship and quite separate individuality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distinct personality of an individual regarded as a persisting entity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The vision of the woman writing, as a supplement to the words written, had no individuality."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This woman was not given to soliloquy; but extremity of feeling lessens the individuality of the weak, as it increases that of the strong."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The schoolmaster at this time was John M'Gregor, a man of ripe and accurate scholarship and quite separate individuality."*

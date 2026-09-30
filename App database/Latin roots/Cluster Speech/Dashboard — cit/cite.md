@@ -5,15 +5,6 @@ status: unread
 ---
 # cite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short note recognizing a source of information or of a quoted passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make reference to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark you this, Bassanio, The devil can cite Scripture for his purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Valentine, I need not cite him to it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart doth charge the watch; the morning rise Doth cite each moving sense from idle rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short note recognizing a source of information or of a quoted passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make reference to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark you this, Bassanio, The devil can cite Scripture for his purpose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Valentine, I need not cite him to it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart doth charge the watch; the morning rise Doth cite each moving sense from idle rest."*

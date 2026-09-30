@@ -5,14 +5,6 @@ status: unread
 ---
 # dementia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental deterioration of organic or functional origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental deterioration of organic or functional origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Evils cast out It is recorded that once Jesus asked the name of a dis- ease, - a disease which moderns would call /dementia/. 411:15 The demon, or evil, replied that his name was Legion."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Formation from thought 423:27 Ossification or any abnormal condition or derange- ment of the body is as directly the action of mortal mind as is dementia or insanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental deterioration of organic or functional origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental deterioration of organic or functional origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Evils cast out It is recorded that once Jesus asked the name of a dis- ease, - a disease which moderns would call /dementia/. 411:15 The demon, or evil, replied that his name was Legion."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Formation from thought 423:27 Ossification or any abnormal condition or derange- ment of the body is as directly the action of mortal mind as is dementia or insanity."*

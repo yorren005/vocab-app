@@ -5,15 +5,6 @@ status: unread
 ---
 # anti
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is opposed (to an action or policy or practice etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in favor of (an action or proposal etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The anti-climax would be too intolerable; and her return might bring reproach upon her idolized husband."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Assembly by 346 votes to 120 decided to goon; whereupon the Anti-Union leaders resigned the seats which up to this time they had retained on the Union Committee."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But experience had shown that it was the existence of an Established Church, towards which the Anti-Union party had turned longing eyes, which was the determining factor in the wrecking of the Union negotiations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is opposed (to an action or policy or practice etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in favor of (an action or proposal etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The anti-climax would be too intolerable; and her return might bring reproach upon her idolized husband."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Assembly by 346 votes to 120 decided to goon; whereupon the Anti-Union leaders resigned the seats which up to this time they had retained on the Union Committee."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But experience had shown that it was the existence of an Established Church, towards which the Anti-Union party had turned longing eyes, which was the determining factor in the wrecking of the Union negotiations."*

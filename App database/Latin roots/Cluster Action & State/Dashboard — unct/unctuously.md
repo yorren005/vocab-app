@@ -5,15 +5,6 @@ status: unread
 ---
 # unctuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unctuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unctuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Harry Hawk's attitude toward myself had not been so unctuously confidential and mysterious."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And he had eyed wee Shane unctuously."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She has been (unctuously) very kind to me." "She is kind to everyone," he said shortly, "except myself!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unctuous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unctuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Harry Hawk's attitude toward myself had not been so unctuously confidential and mysterious."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And he had eyed wee Shane unctuously."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She has been (unctuously) very kind to me." "She is kind to everyone," he said shortly, "except myself!"*

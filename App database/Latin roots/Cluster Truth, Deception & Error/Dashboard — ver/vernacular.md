@@ -5,15 +5,6 @@ status: unread
 ---
 # vernacular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic language of a particular group (as among thieves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The everyday speech of the people (as distinguished from literary language).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lallans, Scots Lowland vernacular."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Fornander's manuscript collection of _meles_, legends, and genealogies in the vernacular has fortunately become, by purchase, the property of the Hon."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"French troops in Indo-China, familiar with vernacular, 20."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic language of a particular group (as among thieves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The everyday speech of the people (as distinguished from literary language).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lallans, Scots Lowland vernacular."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Fornander's manuscript collection of _meles_, legends, and genealogies in the vernacular has fortunately become, by purchase, the property of the Hon."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"French troops in Indo-China, familiar with vernacular, 20."*

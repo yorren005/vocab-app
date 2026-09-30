@@ -5,13 +5,6 @@ status: unread
 ---
 # pentalpha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pentalpha is a puzzle where the goal is to place nine stones on the ten intersections of a pentagram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The puzzle is used as a confidence trick in Mexico, where it is known as estrella mágica.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentalpha designates pentalpha is a puzzle where the goal is to place nine stones on the ten intersections of a pentagram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pentalpha is a puzzle where the goal is to place nine stones on the ten intersections of a pentagram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The puzzle is used as a confidence trick in Mexico, where it is known as estrella mágica.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentalpha designates pentalpha is a puzzle where the goal is to place nine stones on the ten intersections of a pentagram."*

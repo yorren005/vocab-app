@@ -5,13 +5,6 @@ status: unread
 ---
 # inclusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being included.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of comprising something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In consequence, the cathode copper is contaminated through this mechanical inclusion of impurities, whilst electro-deposition of some of these materials may also be encouraged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being included.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of comprising something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In consequence, the cathode copper is contaminated through this mechanical inclusion of impurities, whilst electro-deposition of some of these materials may also be encouraged."*

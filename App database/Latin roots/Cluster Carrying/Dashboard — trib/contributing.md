@@ -5,15 +5,6 @@ status: unread
 ---
 # contributing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a quality on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute to some cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Believe me, I have no pleasure in the world superior to that of contributing to yours."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There can hardly be a more unpleasant sensation than the having anything returned on our hands which we have given with a reasonable hope of its contributing to the comfort of a friend."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Here was comfort indeed! and quite as soon as Sir Thomas could place dependence on such sources of good, Edmund was contributing to his father’s ease by improvement in the only point in which he had given him pain before—improvement in his spirits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a quality on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute to some cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Believe me, I have no pleasure in the world superior to that of contributing to yours."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"There can hardly be a more unpleasant sensation than the having anything returned on our hands which we have given with a reasonable hope of its contributing to the comfort of a friend."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Here was comfort indeed! and quite as soon as Sir Thomas could place dependence on such sources of good, Edmund was contributing to his father’s ease by improvement in the only point in which he had given him pain before—improvement in his spirits."*

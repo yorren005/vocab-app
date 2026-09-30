@@ -5,13 +5,6 @@ status: unread
 ---
 # historicalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having in fact existed in the past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Significance owing to its history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historicalness designates the state of having in fact existed in the past."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having in fact existed in the past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Significance owing to its history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historicalness designates the state of having in fact existed in the past."*

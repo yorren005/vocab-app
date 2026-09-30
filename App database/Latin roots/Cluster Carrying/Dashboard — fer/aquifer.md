@@ -5,13 +5,6 @@ status: unread
 ---
 # aquifer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Underground bed or layer yielding ground water for wells and springs etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Underground bed or layer yielding ground water for wells and springs etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquifer designates underground bed or layer yielding ground water for wells and springs etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Underground bed or layer yielding ground water for wells and springs etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Underground bed or layer yielding ground water for wells and springs etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquifer designates underground bed or layer yielding ground water for wells and springs etc."*

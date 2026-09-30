@@ -5,15 +5,6 @@ status: unread
 ---
 # passing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (american football) a play that involves one player throwing the ball to a teammate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemistic expressions for death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be bitter with him and passing short."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A street near the gate Enter two Senators, with Ladies (Volumnia, Virgilia, Valeria) passing over the stage, with other Lords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (american football) a play that involves one player throwing the ball to a teammate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemistic expressions for death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be bitter with him and passing short."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A street near the gate Enter two Senators, with Ladies (Volumnia, Virgilia, Valeria) passing over the stage, with other Lords."*

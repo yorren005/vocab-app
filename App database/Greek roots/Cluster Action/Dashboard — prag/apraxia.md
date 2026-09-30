@@ -5,13 +5,6 @@ status: unread
 ---
 # apraxia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apraxia designates loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apraxia designates loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment."*

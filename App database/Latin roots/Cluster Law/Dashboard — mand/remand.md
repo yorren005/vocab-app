@@ -5,15 +5,6 @@ status: unread
 ---
 # remand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending an accused person back into custody to await trial (or the continuation of the trial).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer (a matter or legal case) to another committee or authority or court for decision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"How does it stand now?” “Why, sir, it is under remand at present."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will remand the order I despatched to my banker."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Awhile his right hand {120} Held the brow, helped the eyes, left too vacant, forthwith to remand To their place what new objects should enter: ‘twas Saul as before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending an accused person back into custody to await trial (or the continuation of the trial).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer (a matter or legal case) to another committee or authority or court for decision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"How does it stand now?” “Why, sir, it is under remand at present."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will remand the order I despatched to my banker."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Awhile his right hand {120} Held the brow, helped the eyes, left too vacant, forthwith to remand To their place what new objects should enter: ‘twas Saul as before."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # temperament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your usual mood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive emotionalism or irritability and excitability (especially when displayed openly).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne, judging from her own temperament, would have deemed such a domestic hurricane a bad restorative of the nerves, which Louisa’s illness must have so greatly shaken."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such high contentment with such a slight initial performance as that of having started towards a means of independent living was a part of the Durbeyfield temperament."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of a grave, quiet, and somewhat anxious temperament, almost morbidly scrupulous where matters of conscience and responsibility were concerned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Your usual mood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive emotionalism or irritability and excitability (especially when displayed openly).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne, judging from her own temperament, would have deemed such a domestic hurricane a bad restorative of the nerves, which Louisa’s illness must have so greatly shaken."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such high contentment with such a slight initial performance as that of having started towards a means of independent living was a part of the Durbeyfield temperament."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He was of a grave, quiet, and somewhat anxious temperament, almost morbidly scrupulous where matters of conscience and responsibility were concerned."*

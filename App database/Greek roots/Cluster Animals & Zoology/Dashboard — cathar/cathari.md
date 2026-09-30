@@ -5,13 +5,6 @@ status: unread
 ---
 # cathari
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathari designates a christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathari designates a christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism."*

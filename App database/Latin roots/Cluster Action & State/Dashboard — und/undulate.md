@@ -5,15 +5,6 @@ status: unread
 ---
 # undulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stir up (water) so as to form ripples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occur in soft rounded shapes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stir up (water) so as to form ripples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occur in soft rounded shapes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*

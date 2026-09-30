@@ -5,13 +5,6 @@ status: unread
 ---
 # furcate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into two or more branches so as to form a fork.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two or more branches so as to form a fork.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Furcate tip of one of the appendages of the Maple blight (_Uncinula bicornis_) × highly. 〃 228."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into two or more branches so as to form a fork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two or more branches so as to form a fork.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Furcate tip of one of the appendages of the Maple blight (_Uncinula bicornis_) × highly. 〃 228."*

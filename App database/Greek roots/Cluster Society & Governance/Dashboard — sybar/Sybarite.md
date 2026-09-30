@@ -5,15 +5,6 @@ status: unread
 ---
 # sybarite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person addicted to luxury and pleasures of the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person addicted to luxury and pleasures of the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Oh, fork'd-tongue of adder, by her pent In smooth lips!--oh, Sybarite blind!"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The tired faculties of the Sybarite cease at length to respond to natural pleasures."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Not to speak it harshly or scornfully, it seemed Clifford’s nature to be a Sybarite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person addicted to luxury and pleasures of the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person addicted to luxury and pleasures of the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Oh, fork'd-tongue of adder, by her pent In smooth lips!--oh, Sybarite blind!"*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The tired faculties of the Sybarite cease at length to respond to natural pleasures."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Not to speak it harshly or scornfully, it seemed Clifford’s nature to be a Sybarite."*

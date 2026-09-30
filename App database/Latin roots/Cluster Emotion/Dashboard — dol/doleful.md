@@ -5,15 +5,6 @@ status: unread
 ---
 # doleful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with or evoking sadness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with or evoking sadness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we imbrue? [_Snatching up his sword._] Then death rock me asleep, abridge my doleful days!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the cygnet to this pale faint swan, Who chants a doleful hymn to his own death And from the organ-pipe of frailty sings His soul and body to their lasting rest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Answer me like men. ‘When griping griefs the heart doth wound, And doleful dumps the mind oppress, Then music with her silver sound’— Why ‘silver sound’?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with or evoking sadness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with or evoking sadness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we imbrue? [_Snatching up his sword._] Then death rock me asleep, abridge my doleful days!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the cygnet to this pale faint swan, Who chants a doleful hymn to his own death And from the organ-pipe of frailty sings His soul and body to their lasting rest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Answer me like men. ‘When griping griefs the heart doth wound, And doleful dumps the mind oppress, Then music with her silver sound’— Why ‘silver sound’?"*

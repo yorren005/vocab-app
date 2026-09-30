@@ -5,20 +5,6 @@ status: unread
 ---
 # swagger
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Boast, brag
-> 2. **Nuance / Usage**: Confidence, pride
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swagger the target*) and intransitive clauses (*swaggering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Matt Flegenheimer (*A President’s Positive Test and the Year That Won’t Let Up*):** *"They say there’s something wrong with our president!” Mr. Trump swaggered at his indoor Tulsa rally in June,{{..."*
-> - 📜 **Robert Lowell (*Life Studies*):** *"It's the injustice… he is so unjust—<br>whiskey-blind, swaggering home at five."*
-> - 📜 **Robert F. Kennedy (*s:en:On the Mindless Menace of Violence*):** *"Too often we honor swagger and bluster and the wielders of force; too often we excuse those who are willing to build their lives on the shattered dreams of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Boast, brag
+> 2. **Nuance / Usage**: Confidence, pride
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swagger the target*) and intransitive clauses (*swaggering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Matt Flegenheimer (*A President’s Positive Test and the Year That Won’t Let Up*):** *"They say there’s something wrong with our president!” Mr. Trump swaggered at his indoor Tulsa rally in June,{{..."*
+> - 📜 **Robert Lowell (*Life Studies*):** *"It's the injustice… he is so unjust—<br>whiskey-blind, swaggering home at five."*
+> - 📜 **Robert F. Kennedy (*s:en:On the Mindless Menace of Violence*):** *"Too often we honor swagger and bluster and the wielders of force; too often we excuse those who are willing to build their lives on the shattered dreams of others."*

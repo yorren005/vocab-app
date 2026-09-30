@@ -5,13 +5,6 @@ status: unread
 ---
 # invigoration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being active or spirited or alive and vigorous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of giving vitality and vigour to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the new Constitution be examined with accuracy and candor, it will be found that the change which it proposes consists much less in the addition of NEW POWERS to the Union, than in the invigoration of its ORIGINAL POWERS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being active or spirited or alive and vigorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of giving vitality and vigour to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the new Constitution be examined with accuracy and candor, it will be found that the change which it proposes consists much less in the addition of NEW POWERS to the Union, than in the invigoration of its ORIGINAL POWERS."*

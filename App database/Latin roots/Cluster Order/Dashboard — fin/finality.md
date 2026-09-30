@@ -5,15 +5,6 @@ status: unread
 ---
 # finality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being final or definitely settled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being final or definitely settled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am the new shepherd—just arrived.” “Only a shepherd—and you seem almost a farmer by your ways.” “Only a shepherd,” Gabriel repeated, in a dull cadence of finality."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick’s stories often seemed to be ended when they were not really so, and strangers were betrayed into premature interjections of finality; though old friends knew better."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You are going to your ship now?" There was a finality in her voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being final or definitely settled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being final or definitely settled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am the new shepherd—just arrived.” “Only a shepherd—and you seem almost a farmer by your ways.” “Only a shepherd,” Gabriel repeated, in a dull cadence of finality."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick’s stories often seemed to be ended when they were not really so, and strangers were betrayed into premature interjections of finality; though old friends knew better."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You are going to your ship now?" There was a finality in her voice."*

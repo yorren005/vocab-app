@@ -5,15 +5,6 @@ status: unread
 ---
 # alternately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alternating sequence or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an alternating sequence or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The view from my Lady Dedlock’s own windows is alternately a lead-coloured view and a view in Indian ink."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn warms before the bars, alternately, the palms and knuckles of his hands and looks (from behind that blind which is always down) at the trio sitting in a little semicircle before him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alternating sequence or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an alternating sequence or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The view from my Lady Dedlock’s own windows is alternately a lead-coloured view and a view in Indian ink."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn warms before the bars, alternately, the palms and knuckles of his hands and looks (from behind that blind which is always down) at the trio sitting in a little semicircle before him."*

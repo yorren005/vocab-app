@@ -5,15 +5,6 @@ status: unread
 ---
 # artificer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who practices some trade or handicraft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another lean unwash’d artificer Cuts off his tale and talks of Arthur’s death."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Perhaps the Great Artificer is too far away for our minds."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The Artificer’s hand is not arrested With us; we are rough-hewn, nowise polished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who practices some trade or handicraft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another lean unwash’d artificer Cuts off his tale and talks of Arthur’s death."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Perhaps the Great Artificer is too far away for our minds."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The Artificer’s hand is not arrested With us; we are rough-hewn, nowise polished."*

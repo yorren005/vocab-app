@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorofucin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chlorophyll present in brown algae, diatoms, and flagellates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chlorophyll present in brown algae, diatoms, and flagellates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorofucin designates the chlorophyll present in brown algae, diatoms, and flagellates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chlorophyll present in brown algae, diatoms, and flagellates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chlorophyll present in brown algae, diatoms, and flagellates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorofucin designates the chlorophyll present in brown algae, diatoms, and flagellates."*

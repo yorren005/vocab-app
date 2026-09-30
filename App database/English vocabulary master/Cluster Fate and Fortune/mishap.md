@@ -5,20 +5,6 @@ status: unread
 ---
 # mishap
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Unfortunate accident
-> 2. **Nuance / Usage**: Bad luck : misfortune
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Major A. Playfair (*The Garos*):** *"There are certain ceremonies which are observed once a year by a whole community or village, and are intended to safeguard its members from dangers of the forest, and from sickness and mishap during the coming twelve months."*
-> - 📜 **Optic, Oliver (*Plane and Plank*):** *"IN WHICH PHIL HAS ANOTHER MISHAP, AND IS TAKEN TO A POLICE STATION."*
-> - 📜 **Optic, Oliver (*Plane and Plank*):** *"that seemed to me the greatest mishap which could possibly befall me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Unfortunate accident
+> 2. **Nuance / Usage**: Bad luck : misfortune
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Major A. Playfair (*The Garos*):** *"There are certain ceremonies which are observed once a year by a whole community or village, and are intended to safeguard its members from dangers of the forest, and from sickness and mishap during the coming twelve months."*
+> - 📜 **Optic, Oliver (*Plane and Plank*):** *"IN WHICH PHIL HAS ANOTHER MISHAP, AND IS TAKEN TO A POLICE STATION."*
+> - 📜 **Optic, Oliver (*Plane and Plank*):** *"that seemed to me the greatest mishap which could possibly befall me."*

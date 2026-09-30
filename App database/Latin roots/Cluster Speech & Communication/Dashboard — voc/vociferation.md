@@ -5,15 +5,6 @@ status: unread
 ---
 # vociferation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud utterance; often in protest or opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud utterance; often in protest or opposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The unlucky fellow who had slipped the leash, waving his wrist, sought to induce the bold robber to alight, but his cries were scarcely heard above the vociferation of the throng, and he was fain to tear his beard and curse the day of his birth."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The sound of the pieces clattering on the pavement roused Captain Crowe from a trance or slumber, in which he had lain since the apparition vanished; and he hallooed, or rather bellowed, with vast vociferation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud utterance; often in protest or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud utterance; often in protest or opposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The unlucky fellow who had slipped the leash, waving his wrist, sought to induce the bold robber to alight, but his cries were scarcely heard above the vociferation of the throng, and he was fain to tear his beard and curse the day of his birth."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The sound of the pieces clattering on the pavement roused Captain Crowe from a trance or slumber, in which he had lain since the apparition vanished; and he hallooed, or rather bellowed, with vast vociferation."*

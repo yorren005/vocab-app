@@ -5,15 +5,6 @@ status: unread
 ---
 # perform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or perform an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perform’t, or else we damn thee.” ANTONY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This if she perform, She shall not sue unheard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or perform an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perform’t, or else we damn thee.” ANTONY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This if she perform, She shall not sue unheard."*

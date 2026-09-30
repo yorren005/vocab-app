@@ -5,14 +5,6 @@ status: unread
 ---
 # debile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking bodily or muscular strength or vitality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And debile minister, great power, great transcendence, which should indeed give us a further use to be made than alone the recov’ry of the king, as to be— LAFEW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For that I have not washed my nose that bled, Or foiled some debile wretch—which, without note, Here’s many else have done—you shout me forth In acclamations hyperbolical, As if I loved my little should be dieted In praises sauced with lies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking bodily or muscular strength or vitality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And debile minister, great power, great transcendence, which should indeed give us a further use to be made than alone the recov’ry of the king, as to be— LAFEW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For that I have not washed my nose that bled, Or foiled some debile wretch—which, without note, Here’s many else have done—you shout me forth In acclamations hyperbolical, As if I loved my little should be dieted In praises sauced with lies."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # illicit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to accepted morality (especially sexual morality) or convention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to or forbidden by law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sacred lowe o’ weel-plac’d love, Luxuriantly indulge it; But never tempt th’ illicit rove, Tho’ naething should divulge it: I waive the quantum o’ the sin, The hazard of concealing; But, Och! it hardens a’ within, And petrifies the feeling!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The last war but two between Britain and Spain, sprang from the attempts of the English merchants, to prosecute an illicit trade with the Spanish main."*
-> - 📜 **James Joyce (*Ulysses*):** *"He says this, a censor of morals, a very pelican in his piety, who did not scruple, oblivious of the ties of nature, to attempt illicit intercourse with a female domestic drawn from the lowest strata of society!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to accepted morality (especially sexual morality) or convention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to or forbidden by law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sacred lowe o’ weel-plac’d love, Luxuriantly indulge it; But never tempt th’ illicit rove, Tho’ naething should divulge it: I waive the quantum o’ the sin, The hazard of concealing; But, Och! it hardens a’ within, And petrifies the feeling!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The last war but two between Britain and Spain, sprang from the attempts of the English merchants, to prosecute an illicit trade with the Spanish main."*
+> - 📜 **James Joyce (*Ulysses*):** *"He says this, a censor of morals, a very pelican in his piety, who did not scruple, oblivious of the ties of nature, to attempt illicit intercourse with a female domestic drawn from the lowest strata of society!"*

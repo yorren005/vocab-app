@@ -5,13 +5,6 @@ status: unread
 ---
 # copacetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely satisfactory; ; - john o'hara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely satisfactory; ; - john o'hara.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copacetic designates completely satisfactory; ; - john o'hara."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely satisfactory; ; - john o'hara.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely satisfactory; ; - john o'hara.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copacetic designates completely satisfactory; ; - john o'hara."*

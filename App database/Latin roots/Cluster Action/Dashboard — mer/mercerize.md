@@ -5,13 +5,6 @@ status: unread
 ---
 # mercerize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat to strengthen and improve the luster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerize designates treat to strengthen and improve the luster."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat to strengthen and improve the luster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerize designates treat to strengthen and improve the luster."*

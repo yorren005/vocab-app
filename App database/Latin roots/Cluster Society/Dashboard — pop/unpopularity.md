@@ -5,15 +5,6 @@ status: unread
 ---
 # unpopularity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking general approval or acceptance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking general approval or acceptance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"They were with him in popularity and in unpopularity; they were with him in danger, when Herod tried to kill him and he went out of Herod's territory."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s unpopularity, to begin with."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His fearless disregard of unpopularity, as manifested in his prosecution, in conjunction with Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking general approval or acceptance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking general approval or acceptance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"They were with him in popularity and in unpopularity; they were with him in danger, when Herod tried to kill him and he went out of Herod's territory."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s unpopularity, to begin with."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His fearless disregard of unpopularity, as manifested in his prosecution, in conjunction with Mr."*

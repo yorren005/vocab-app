@@ -5,13 +5,6 @@ status: unread
 ---
 # sciarid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciarid designates minute blackish gregarious flies destructive to mushrooms and seedlings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciarid designates minute blackish gregarious flies destructive to mushrooms and seedlings."*

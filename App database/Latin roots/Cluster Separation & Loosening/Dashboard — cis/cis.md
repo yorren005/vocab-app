@@ -5,15 +5,6 @@ status: unread
 ---
 # cis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alliance made up of states that had been soviet socialist republics in the soviet union prior to its dissolution in dec 1991.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of radioactivity equal to the amount of a radioactive isotope that decays at the rate of 37,000,000,000 disintegrations per second.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I know she goes in for giving a rapid _précis_ of all her guests."*
-> - 📜 **James Joyce (*Ulysses*):** *"But Cissy Caffrey told baby Boardman to look up, look up high at her finger and she snatched the ball quickly and threw it along the sand and Tommy after it in full career, having won the day. —Anything for a quiet life, laughed Ciss."*
-> - 📜 **James Joyce (*Ulysses*):** *"But not a pin cared Ciss. —Let him! she said with a pert toss of her head and a piquant tilt of her nose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alliance made up of states that had been soviet socialist republics in the soviet union prior to its dissolution in dec 1991.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of radioactivity equal to the amount of a radioactive isotope that decays at the rate of 37,000,000,000 disintegrations per second.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I know she goes in for giving a rapid _précis_ of all her guests."*
+> - 📜 **James Joyce (*Ulysses*):** *"But Cissy Caffrey told baby Boardman to look up, look up high at her finger and she snatched the ball quickly and threw it along the sand and Tommy after it in full career, having won the day. —Anything for a quiet life, laughed Ciss."*
+> - 📜 **James Joyce (*Ulysses*):** *"But not a pin cared Ciss. —Let him! she said with a pert toss of her head and a piquant tilt of her nose."*

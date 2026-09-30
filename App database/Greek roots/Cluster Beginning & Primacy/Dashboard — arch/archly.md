@@ -5,15 +5,6 @@ status: unread
 ---
 # archly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In_an_arch_manner; with playful slyness or roguishness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In_an_arch_manner; with playful slyness or roguishness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He ought not to be supposed to be paying his addresses to any one.” “Oh! if these are your only objections,” cried Mrs Smith, archly, “Mr Elliot is safe, and I shall give myself no more trouble about him."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He is, indeed: but considering the inducement, my dear Miss Eliza, we cannot wonder at his complaisance; for who would object to such a partner?” Elizabeth looked archly, and turned away."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"These are something like grievances, and make me think the weather most unseasonably close.” “The sweets of housekeeping in a country village!” said Miss Crawford archly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In_an_arch_manner; with playful slyness or roguishness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In_an_arch_manner; with playful slyness or roguishness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He ought not to be supposed to be paying his addresses to any one.” “Oh! if these are your only objections,” cried Mrs Smith, archly, “Mr Elliot is safe, and I shall give myself no more trouble about him."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He is, indeed: but considering the inducement, my dear Miss Eliza, we cannot wonder at his complaisance; for who would object to such a partner?” Elizabeth looked archly, and turned away."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"These are something like grievances, and make me think the weather most unseasonably close.” “The sweets of housekeeping in a country village!” said Miss Crawford archly."*

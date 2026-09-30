@@ -5,15 +5,6 @@ status: unread
 ---
 # unostentatious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ostentatious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting restrained good taste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, the visit to Hunsford, the Derbyshire tour--fit in after the same unostentatious, but masterly fashion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But look at the godly, honest, unostentatious, hospitable, sociable, free-and-easy whaler!"*
-> - 📜 **Effie Afton (*Eventide*):** *"The good people were quite embarrassed to behold so smart a visitor in their unostentatious little parlor, but the colonel, by his gentlemanly grace, soon placed them at their ease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ostentatious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting restrained good taste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, the visit to Hunsford, the Derbyshire tour--fit in after the same unostentatious, but masterly fashion."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But look at the godly, honest, unostentatious, hospitable, sociable, free-and-easy whaler!"*
+> - 📜 **Effie Afton (*Eventide*):** *"The good people were quite embarrassed to behold so smart a visitor in their unostentatious little parlor, but the colonel, by his gentlemanly grace, soon placed them at their ease."*

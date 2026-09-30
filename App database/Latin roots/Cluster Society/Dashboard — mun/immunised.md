@@ -5,13 +5,6 @@ status: unread
 ---
 # immunised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Law: grant immunity from prosecution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform vaccinations or produce immunity in by inoculation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunised designates law: grant immunity from prosecution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Law: grant immunity from prosecution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform vaccinations or produce immunity in by inoculation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunised designates law: grant immunity from prosecution."*

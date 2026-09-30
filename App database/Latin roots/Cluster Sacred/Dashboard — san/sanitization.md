@@ -5,13 +5,6 @@ status: unread
 ---
 # sanitization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making something sanitary (free of germs) as by sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something sanitary (free of germs) as by sterilizing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitization designates making something sanitary (free of germs) as by sterilizing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making something sanitary (free of germs) as by sterilizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something sanitary (free of germs) as by sterilizing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitization designates making something sanitary (free of germs) as by sterilizing."*

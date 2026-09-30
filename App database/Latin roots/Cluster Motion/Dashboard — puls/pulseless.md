@@ -5,14 +5,6 @@ status: unread
 ---
 # pulseless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing dead; not breathing or having no perceptible pulse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing dead; not breathing or having no perceptible pulse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This is a fleshly woman,--let the free bestow their life blood, thou art pulseless now!’ . . ."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"With- out this, the letter is but the dead body of Science, - pulseless, cold, inanimate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing dead; not breathing or having no perceptible pulse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing dead; not breathing or having no perceptible pulse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This is a fleshly woman,--let the free bestow their life blood, thou art pulseless now!’ . . ."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"With- out this, the letter is but the dead body of Science, - pulseless, cold, inanimate."*

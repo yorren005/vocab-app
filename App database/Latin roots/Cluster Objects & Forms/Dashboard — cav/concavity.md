@@ -5,15 +5,6 @@ status: unread
 ---
 # concavity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that curves or bends inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a concave shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The uniform concavity of black cloud was lifting bodily like the lid of a pot, letting in at the earth’s edge the coming day, against which the towering monoliths and trilithons began to be blackly defined."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Suddenly I noticed that the circular westward outline of the sun had changed; that a concavity, a bay, had appeared in the curve."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ribs on one side are taken out with a knife, and the concavity serves as a dish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that curves or bends inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a concave shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The uniform concavity of black cloud was lifting bodily like the lid of a pot, letting in at the earth’s edge the coming day, against which the towering monoliths and trilithons began to be blackly defined."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Suddenly I noticed that the circular westward outline of the sun had changed; that a concavity, a bay, had appeared in the curve."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ribs on one side are taken out with a knife, and the concavity serves as a dish."*

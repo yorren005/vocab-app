@@ -5,13 +5,6 @@ status: unread
 ---
 # athyrium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athyrium designates temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athyrium designates temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium."*

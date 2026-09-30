@@ -5,15 +5,6 @@ status: unread
 ---
 # hysteric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person subject to or affected by hysteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overemotional or unstable person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He could not, even in his newfound heroism, and with whatever hysteric hardihood he was prepared to meet the stroke of fate, he could not as yet encounter Brown, and lay bare before him the plot of the melancholy farce he had played an hour ago."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"But,’ with a half-hysteric courage, ‘suppose you had--suppose I had--suppose anybody had--what would he do?"*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Her voice was succeeded by the hysteric shrieks of several women, but the feelings of the audience generally had not been drawn onward in the current with her own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person subject to or affected by hysteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overemotional or unstable person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He could not, even in his newfound heroism, and with whatever hysteric hardihood he was prepared to meet the stroke of fate, he could not as yet encounter Brown, and lay bare before him the plot of the melancholy farce he had played an hour ago."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"But,’ with a half-hysteric courage, ‘suppose you had--suppose I had--suppose anybody had--what would he do?"*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Her voice was succeeded by the hysteric shrieks of several women, but the feelings of the audience generally had not been drawn onward in the current with her own."*

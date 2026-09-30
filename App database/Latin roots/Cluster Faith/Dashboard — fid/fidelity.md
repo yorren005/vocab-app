@@ -5,15 +5,6 @@ status: unread
 ---
 # fidelity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accuracy with which an electronic system reproduces the sound or image of its input signal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being faithful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my fidelity, this is not well, Master Ford, this wrongs you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"With pleasure, sir.” Then, with fidelity, though with some prolixity, the law-stationer repeats Jo’s statement made to the assembled guests at his house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That the more I stood in need of such fidelity, the more firmly I might trust in him to the last."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accuracy with which an electronic system reproduces the sound or image of its input signal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being faithful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my fidelity, this is not well, Master Ford, this wrongs you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"With pleasure, sir.” Then, with fidelity, though with some prolixity, the law-stationer repeats Jo’s statement made to the assembled guests at his house."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That the more I stood in need of such fidelity, the more firmly I might trust in him to the last."*

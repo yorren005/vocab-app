@@ -5,13 +5,6 @@ status: unread
 ---
 # erotomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological disorder marked by the delusional belief that one is the object of another person's love or sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotomania designates excessive sexual desire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive sexual desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological disorder marked by the delusional belief that one is the object of another person's love or sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotomania designates excessive sexual desire."*

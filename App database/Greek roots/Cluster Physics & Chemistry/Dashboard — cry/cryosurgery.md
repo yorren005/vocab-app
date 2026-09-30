@@ -5,13 +5,6 @@ status: unread
 ---
 # cryosurgery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryosurgery designates surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryosurgery designates surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen)."*

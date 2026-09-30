@@ -5,13 +5,6 @@ status: unread
 ---
 # misspell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spell incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spell incorrectly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Misspelled words have been corrected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spell incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spell incorrectly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Misspelled words have been corrected."*

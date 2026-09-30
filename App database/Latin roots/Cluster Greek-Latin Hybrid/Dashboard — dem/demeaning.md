@@ -5,14 +5,6 @@ status: unread
 ---
 # demeaning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in worth or character, usually verbally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing awareness of your shortcomings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No person, demeaning himself in a peaceable and orderly manner, shall ever be molested on account of his mode of worship or religious sentiments, in the said Territory."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"I call it demeaning a man’s business to trade with such people; and from this time forth, if they want a sausage or an ounce of liver, they shall run after the cart for it!” He tossed the titbit angrily into his cart, and drove off in a pet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in worth or character, usually verbally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing awareness of your shortcomings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No person, demeaning himself in a peaceable and orderly manner, shall ever be molested on account of his mode of worship or religious sentiments, in the said Territory."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"I call it demeaning a man’s business to trade with such people; and from this time forth, if they want a sausage or an ounce of liver, they shall run after the cart for it!” He tossed the titbit angrily into his cart, and drove off in a pet."*

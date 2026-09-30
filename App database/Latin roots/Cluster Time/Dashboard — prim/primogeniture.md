@@ -5,15 +5,6 @@ status: unread
 ---
 # primogeniture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Right of inheritance belongs exclusively to the eldest son.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Right of inheritance belongs exclusively to the eldest son.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In countries where hereditary aristocracies exist, primogeniture is in some cases required by law, in others so strongly favored by public opinion that it is practically always followed."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In countries where hereditary aristocracies exist, primogeniture is in some cases required by law, in others so strongly favored by public opinion that it is practically always followed."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Is Richard’s title of primogeniture more decidedly certain than that of Duke Robert of Normandy, the Conqueror’s eldest son?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Right of inheritance belongs exclusively to the eldest son.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Right of inheritance belongs exclusively to the eldest son.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In countries where hereditary aristocracies exist, primogeniture is in some cases required by law, in others so strongly favored by public opinion that it is practically always followed."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In countries where hereditary aristocracies exist, primogeniture is in some cases required by law, in others so strongly favored by public opinion that it is practically always followed."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Is Richard’s title of primogeniture more decidedly certain than that of Duke Robert of Normandy, the Conqueror’s eldest son?"*

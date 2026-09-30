@@ -5,13 +5,6 @@ status: unread
 ---
 # aerology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meteorology of the total extent of the atmosphere; especially the upper layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meteorology of the total extent of the atmosphere; especially the upper layers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerology designates meteorology of the total extent of the atmosphere; especially the upper layers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meteorology of the total extent of the atmosphere; especially the upper layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meteorology of the total extent of the atmosphere; especially the upper layers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerology designates meteorology of the total extent of the atmosphere; especially the upper layers."*

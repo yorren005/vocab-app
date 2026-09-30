@@ -5,13 +5,6 @@ status: unread
 ---
 # phyton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structural unit of a plant consisting of a leaf and its associated portion of stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest part of a stem, root, or leaf that when severed may grow into a new plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyton designates a structural unit of a plant consisting of a leaf and its associated portion of stem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structural unit of a plant consisting of a leaf and its associated portion of stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest part of a stem, root, or leaf that when severed may grow into a new plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyton designates a structural unit of a plant consisting of a leaf and its associated portion of stem."*

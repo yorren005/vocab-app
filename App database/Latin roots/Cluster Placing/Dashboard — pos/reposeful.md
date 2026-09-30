@@ -5,14 +5,6 @@ status: unread
 ---
 # reposeful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording physical or mental rest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording physical or mental rest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I chose a reposeful Sabbath-day sort of a back street which was about thirty yards wide between the curbstones."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Cardiff Hill, beyond the village and above it, was green with vegetation and it lay just far enough away to seem a Delectable Land, dreamy, reposeful, and inviting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording physical or mental rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording physical or mental rest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I chose a reposeful Sabbath-day sort of a back street which was about thirty yards wide between the curbstones."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Cardiff Hill, beyond the village and above it, was green with vegetation and it lay just far enough away to seem a Delectable Land, dreamy, reposeful, and inviting."*

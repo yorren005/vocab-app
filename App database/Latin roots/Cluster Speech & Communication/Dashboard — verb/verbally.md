@@ -5,15 +5,6 @@ status: unread
 ---
 # verbally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s being much given to describe himself, both verbally and in writing, as a vessel, he is occasionally mistaken by strangers for a gentleman connected with navigation, but he is, as he expresses it, “in the ministry.” Mr."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Many have reported to me verbally the occurrences of the last half-hour before my return; and in their accounts there are naturally discrepancies, owing to their different points of view and different ways of regarding the subject."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if these suspicions were really his, he sagaciously refrained from verbally expressing them, however his actions might seem to hint them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As a verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s being much given to describe himself, both verbally and in writing, as a vessel, he is occasionally mistaken by strangers for a gentleman connected with navigation, but he is, as he expresses it, “in the ministry.” Mr."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Many have reported to me verbally the occurrences of the last half-hour before my return; and in their accounts there are naturally discrepancies, owing to their different points of view and different ways of regarding the subject."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if these suspicions were really his, he sagaciously refrained from verbally expressing them, however his actions might seem to hint them."*

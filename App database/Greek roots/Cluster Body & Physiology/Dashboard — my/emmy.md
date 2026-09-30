@@ -5,15 +5,6 @@ status: unread
 ---
 # emmy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annual award by the academy of television arts and sciences for outstanding achievements in television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annual award by the academy of television arts and sciences for outstanding achievements in television.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What's the matter, Emmy?" says he."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos will be sure to leave Emmy in the crowd, he will be so taken up with Miss Sharp here."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Do you remember when you wrote to him to come on Twelfth-night, Emmy, and spelt twelfth without the f?" "That was years ago," said Amelia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annual award by the academy of television arts and sciences for outstanding achievements in television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annual award by the academy of television arts and sciences for outstanding achievements in television.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What's the matter, Emmy?" says he."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos will be sure to leave Emmy in the crowd, he will be so taken up with Miss Sharp here."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Do you remember when you wrote to him to come on Twelfth-night, Emmy, and spelt twelfth without the f?" "That was years ago," said Amelia."*

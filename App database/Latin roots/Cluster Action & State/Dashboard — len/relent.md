@@ -5,15 +5,6 @@ status: unread
 ---
 # relent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give in, as to influence or pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give in, as to influence or pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you, my Lord of Winchester, behold My sighs and tears, and will not once relent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For shame, my Lord of Winchester, relent!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either she hath bewitch’d me with her words, Or nature makes me suddenly relent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give in, as to influence or pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give in, as to influence or pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you, my Lord of Winchester, behold My sighs and tears, and will not once relent?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For shame, my Lord of Winchester, relent!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either she hath bewitch’d me with her words, Or nature makes me suddenly relent."*

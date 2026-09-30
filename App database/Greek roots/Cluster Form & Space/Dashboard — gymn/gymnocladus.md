@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnocladus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocladus designates small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocladus designates small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods."*

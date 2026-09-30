@@ -5,13 +5,6 @@ status: unread
 ---
 # acrodont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal having teeth consolidated with the summit of the alveolar ridge without sockets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal having teeth consolidated with the summit of the alveolar ridge without sockets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrodont designates an animal having teeth consolidated with the summit of the alveolar ridge without sockets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal having teeth consolidated with the summit of the alveolar ridge without sockets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal having teeth consolidated with the summit of the alveolar ridge without sockets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrodont designates an animal having teeth consolidated with the summit of the alveolar ridge without sockets."*

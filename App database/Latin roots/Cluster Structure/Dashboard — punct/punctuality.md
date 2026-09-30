@@ -5,15 +5,6 @@ status: unread
 ---
 # punctuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or habit of adhering to an appointed time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or habit of adhering to an appointed time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “let me, even under the present exceptional circumstances, recommend strict punctuality."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His visitations were still carried out with the method and punctuality which had characterised them in the early days of his ministry, and he usually arranged to make a brief pause for tea with one of the families visited."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That’s for you, nurse,” said he; “you can go down; I’ll give Miss Jane a lecture till you come back.” Bessie would rather have stayed, but she was obliged to go, because punctuality at meals was rigidly enforced at Gateshead Hall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or habit of adhering to an appointed time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or habit of adhering to an appointed time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “let me, even under the present exceptional circumstances, recommend strict punctuality."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His visitations were still carried out with the method and punctuality which had characterised them in the early days of his ministry, and he usually arranged to make a brief pause for tea with one of the families visited."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That’s for you, nurse,” said he; “you can go down; I’ll give Miss Jane a lecture till you come back.” Bessie would rather have stayed, but she was obliged to go, because punctuality at meals was rigidly enforced at Gateshead Hall."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mound of fatty tissue covering the pubic area in women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second day of the week; the first working day.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Monseur, _Le Folklore Wallon_ (Brussels, N.D.), pp. 124 _sq._ [268] Émile Hublard, _Fêtes du Temps Jadis, les Feux du Carême_ (Mons, 1899), pp. 25."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O for a throat like huge Mons-Meg, To muster o’er each ardent Whig Beneath Drumlanrig’s banners; Heroes and heroines commix, All in the field of politics, To win immortal honours."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He was sent out with the First Division and carried himself with his usual phlegmatic good humour through almost four years of fighting from Mons to Cambrai."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mound of fatty tissue covering the pubic area in women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second day of the week; the first working day.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Monseur, _Le Folklore Wallon_ (Brussels, N.D.), pp. 124 _sq._ [268] Émile Hublard, _Fêtes du Temps Jadis, les Feux du Carême_ (Mons, 1899), pp. 25."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O for a throat like huge Mons-Meg, To muster o’er each ardent Whig Beneath Drumlanrig’s banners; Heroes and heroines commix, All in the field of politics, To win immortal honours."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He was sent out with the First Division and carried himself with his usual phlegmatic good humour through almost four years of fighting from Mons to Cambrai."*

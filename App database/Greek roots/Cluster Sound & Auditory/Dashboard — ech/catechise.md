@@ -5,15 +5,6 @@ status: unread
 ---
 # catechise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give religious instructions to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine through questioning and answering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye’ll catechise him, every quirk, An’ shore him weel wi’ hell; An’ gar him follow to the kirk— Aye when ye gang yoursel."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Why do you catechise me about Sir James?"*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Who gave any fellow-creature of yours (one incapable of being your judge because not your peer) a right to catechise, scold, undervalue, abuse, and insult--wantonly and inhumanly to insult you thus?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give religious instructions to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine through questioning and answering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye’ll catechise him, every quirk, An’ shore him weel wi’ hell; An’ gar him follow to the kirk— Aye when ye gang yoursel."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Why do you catechise me about Sir James?"*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Who gave any fellow-creature of yours (one incapable of being your judge because not your peer) a right to catechise, scold, undervalue, abuse, and insult--wantonly and inhumanly to insult you thus?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # subhuman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Less than human or not worthy of a human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfit for human beings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subhuman designates less than human or not worthy of a human being."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Less than human or not worthy of a human being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfit for human beings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subhuman designates less than human or not worthy of a human being."*

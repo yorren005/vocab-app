@@ -5,15 +5,6 @@ status: unread
 ---
 # hypnosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state that resembles sleep but is induced by a person whose suggestions are readily accepted by the subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various conditions that resemble sleep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By self-hypnosis, which I began successfully to practise, I became able to put my conscious mind to sleep and to awaken and loose my subconscious mind."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My method of mechanical hypnosis was the soul of simplicity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet I, Darrell Standing, found these things within myself in solitary in San Quentin by means of mechanical self-hypnosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state that resembles sleep but is induced by a person whose suggestions are readily accepted by the subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various conditions that resemble sleep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By self-hypnosis, which I began successfully to practise, I became able to put my conscious mind to sleep and to awaken and loose my subconscious mind."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My method of mechanical hypnosis was the soul of simplicity."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet I, Darrell Standing, found these things within myself in solitary in San Quentin by means of mechanical self-hypnosis."*

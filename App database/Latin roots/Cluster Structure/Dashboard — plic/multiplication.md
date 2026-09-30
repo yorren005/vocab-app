@@ -5,15 +5,6 @@ status: unread
 ---
 # multiplication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of producing offspring or multiplying by such production.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multiplicative increase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"However, the Multiplication Table doesn’t signify: let’s try Geography."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ever has it seemed to me a witless thing to prove the multiplication table by turning a staff into a serpent, or even into two serpents."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the multiplication of the Executive adds to the difficulty of detection in either case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of producing offspring or multiplying by such production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multiplicative increase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"However, the Multiplication Table doesn’t signify: let’s try Geography."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ever has it seemed to me a witless thing to prove the multiplication table by turning a staff into a serpent, or even into two serpents."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the multiplication of the Executive adds to the difficulty of detection in either case."*

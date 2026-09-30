@@ -5,15 +5,6 @@ status: unread
 ---
 # signior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Signior Angelo, you must excuse us all, My wife is shrewish when I keep not hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re sad, Signior Balthasar; pray God our cheer May answer my good will and your good welcome here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, Signior Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Signior Angelo, you must excuse us all, My wife is shrewish when I keep not hours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re sad, Signior Balthasar; pray God our cheer May answer my good will and your good welcome here."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, Signior Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish."*

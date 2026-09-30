@@ -5,15 +5,6 @@ status: unread
 ---
 # verso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Left-hand page.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal that does not bear the principal design.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Durantis), a writer of the thirteenth century, in his _Rationale Divinorum Officiorum_, lib. vii. cap. 14 (p. 442 _verso_, ed."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 54 _verso_."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This was a genuine antique Ko vessel." FOOTNOTES: [Footnote 95: Quoted in the _T´ao lu_, bk. ix., fol. 9 verso."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Left-hand page.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal that does not bear the principal design.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Durantis), a writer of the thirteenth century, in his _Rationale Divinorum Officiorum_, lib. vii. cap. 14 (p. 442 _verso_, ed."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 54 _verso_."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This was a genuine antique Ko vessel." FOOTNOTES: [Footnote 95: Quoted in the _T´ao lu_, bk. ix., fol. 9 verso."*

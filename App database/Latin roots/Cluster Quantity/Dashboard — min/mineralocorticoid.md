@@ -5,13 +5,6 @@ status: unread
 ---
 # mineralocorticoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mineralocorticoid designates hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mineralocorticoid designates hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium."*

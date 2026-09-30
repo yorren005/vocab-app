@@ -5,15 +5,6 @@ status: unread
 ---
 # modulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the key of, in music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lines of his features softened, and dismay modulated to illimitable sadness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the key of, in music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lines of his features softened, and dismay modulated to illimitable sadness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*

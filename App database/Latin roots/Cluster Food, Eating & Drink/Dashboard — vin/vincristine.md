@@ -5,13 +5,6 @@ status: unread
 ---
 # vincristine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincristine designates periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincristine designates periwinkle plant derivative used as an antineoplastic drug (trade name oncovin); used to treat cancer of the lymphatic system."*

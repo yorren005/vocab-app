@@ -5,15 +5,6 @@ status: unread
 ---
 # struck
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliver a sharp blow, as with the hand, fist, or weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an emotional or cognitive impact upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, darting Parthia, art thou struck, and now Pleased Fortune does of Marcus Crassus’ death Make me revenger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliver a sharp blow, as with the hand, fist, or weapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an emotional or cognitive impact upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, darting Parthia, art thou struck, and now Pleased Fortune does of Marcus Crassus’ death Make me revenger."*

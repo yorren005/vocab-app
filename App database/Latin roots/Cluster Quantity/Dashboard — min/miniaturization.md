@@ -5,13 +5,6 @@ status: unread
 ---
 # miniaturization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of making on a greatly reduced scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of making on a greatly reduced scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniaturization designates act of making on a greatly reduced scale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of making on a greatly reduced scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of making on a greatly reduced scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniaturization designates act of making on a greatly reduced scale."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # symphysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal adhesion of two or more structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A growing together of parts or structures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphysis designates an abnormal adhesion of two or more structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal adhesion of two or more structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A growing together of parts or structures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphysis designates an abnormal adhesion of two or more structures."*

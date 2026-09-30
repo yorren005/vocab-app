@@ -5,13 +5,6 @@ status: unread
 ---
 # coracoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coracoid designates of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coracoid designates of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum."*

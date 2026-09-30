@@ -5,15 +5,6 @@ status: unread
 ---
 # phone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You can 'phone from the post office." Lawrence had secured a box ten days ago, but he strolled out, thinking that the husband and wife might understand each other better when alone."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"His head hit the side of the phone, and he slid to the floor, blood running out of his nose!"*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"There she was, leaning against the wall, talking on the phone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"You can 'phone from the post office." Lawrence had secured a box ten days ago, but he strolled out, thinking that the husband and wife might understand each other better when alone."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"His head hit the side of the phone, and he slid to the floor, blood running out of his nose!"*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"There she was, leaning against the wall, talking on the phone."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # extensiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large or extensive in breadth or importance or comprehensiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large or extensive in breadth or importance or comprehensiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensiveness designates large or extensive in breadth or importance or comprehensiveness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large or extensive in breadth or importance or comprehensiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large or extensive in breadth or importance or comprehensiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensiveness designates large or extensive in breadth or importance or comprehensiveness."*

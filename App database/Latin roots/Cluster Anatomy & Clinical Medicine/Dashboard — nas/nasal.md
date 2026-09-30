@@ -5,15 +5,6 @@ status: unread
 ---
 # nasal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant produced through the nose with the mouth closed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elongated rectangular bone that forms the bridge of the nose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Trumbull dropped his voice and became slightly nasal, trimming his outlines with his left finger—“that might not fall in with ordinary tastes."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Besides the sticks and the drums, there are no other musical instruments among the Typees, except one which might appropriately be denominated a nasal flute."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was understood to be a description of my conversation; American peculiarities, nasal twang, Yankee notions, stars and stripes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant produced through the nose with the mouth closed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elongated rectangular bone that forms the bridge of the nose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Trumbull dropped his voice and became slightly nasal, trimming his outlines with his left finger—“that might not fall in with ordinary tastes."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Besides the sticks and the drums, there are no other musical instruments among the Typees, except one which might appropriately be denominated a nasal flute."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was understood to be a description of my conversation; American peculiarities, nasal twang, Yankee notions, stars and stripes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vapors
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible suspension in the air of particles of some substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This thing that is meant for sereneness, to send up mild white vapors among mild white hairs, not among torn iron-grey locks like mine."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Blinding vapors of foam and white-fire!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed formed of detached white vapors, rising and falling something like the spouts of the whales; only they did not so completely come and go; for they constantly hovered, without finally disappearing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible suspension in the air of particles of some substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This thing that is meant for sereneness, to send up mild white vapors among mild white hairs, not among torn iron-grey locks like mine."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Blinding vapors of foam and white-fire!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed formed of detached white vapors, rising and falling something like the spouts of the whales; only they did not so completely come and go; for they constantly hovered, without finally disappearing."*

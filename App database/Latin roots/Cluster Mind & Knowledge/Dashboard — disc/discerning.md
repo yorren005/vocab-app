@@ -5,15 +5,6 @@ status: unread
 ---
 # discerning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Detect with the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing keen insight and good judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That bear’st a cheek for blows, a head for wrongs; Who hast not in thy brows an eye discerning Thine honour from thy suffering; that not know’st Fools do those villains pity who are punish’d Ere they have done their mischief."*
-> - 📜 **Jane Austen (*Persuasion*):** *"His tone, his expressions, his choice of subject, his knowing where to stop; it was all the operation of a sensible, discerning mind."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s lodgings, and the feelings of the discerning and unprejudiced reader of Camilla gave way to the feelings of the dutiful and affectionate son, as they met Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Detect with the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing keen insight and good judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That bear’st a cheek for blows, a head for wrongs; Who hast not in thy brows an eye discerning Thine honour from thy suffering; that not know’st Fools do those villains pity who are punish’d Ere they have done their mischief."*
+> - 📜 **Jane Austen (*Persuasion*):** *"His tone, his expressions, his choice of subject, his knowing where to stop; it was all the operation of a sensible, discerning mind."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s lodgings, and the feelings of the discerning and unprejudiced reader of Camilla gave way to the feelings of the dutiful and affectionate son, as they met Mrs."*

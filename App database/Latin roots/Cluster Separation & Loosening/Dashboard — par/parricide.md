@@ -5,15 +5,6 @@ status: unread
 ---
 # parricide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who kills his or her parent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The murder of your own father or mother.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We hear our bloody cousins are bestow’d In England and in Ireland; not confessing Their cruel parricide, filling their hearers With strange invention."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"When to insults and oppression he added the horrors of an incestuous passion for his daughter, the cup overflowed, and Beatrice, faced with shame more intolerable than death, preferred parricide."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thou whom thy fate has changed into parricide and savage!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who kills his or her parent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The murder of your own father or mother.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We hear our bloody cousins are bestow’d In England and in Ireland; not confessing Their cruel parricide, filling their hearers With strange invention."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"When to insults and oppression he added the horrors of an incestuous passion for his daughter, the cup overflowed, and Beatrice, faced with shame more intolerable than death, preferred parricide."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thou whom thy fate has changed into parricide and savage!"*

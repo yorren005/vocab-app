@@ -5,15 +5,6 @@ status: unread
 ---
 # suavity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bland and gracious or ingratiating in manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bland and gracious or ingratiating in manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Extremely honoured, I am sure,” said our poor hostess with the greatest suavity, “by this visit from the wards in Jarndyce."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Just so!” Miss Flite acquiesced with the greatest suavity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Which there’s not a man alive more ready to do, for you’re a man of urbanity and suavity, you know, and you’ve got the sort of heart that can feel for another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bland and gracious or ingratiating in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bland and gracious or ingratiating in manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Extremely honoured, I am sure,” said our poor hostess with the greatest suavity, “by this visit from the wards in Jarndyce."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Just so!” Miss Flite acquiesced with the greatest suavity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Which there’s not a man alive more ready to do, for you’re a man of urbanity and suavity, you know, and you’ve got the sort of heart that can feel for another."*

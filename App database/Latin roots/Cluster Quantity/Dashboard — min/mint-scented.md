@@ -5,13 +5,6 @@ status: unread
 ---
 # mint-scented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of mint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of mint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mint-scented designates smelling of mint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of mint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of mint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mint-scented designates smelling of mint."*

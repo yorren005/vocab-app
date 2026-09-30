@@ -5,15 +5,6 @@ status: unread
 ---
 # unjust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fair; marked by injustice or partiality or deception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violating principles of justice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But wherefore says she not she is unjust?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oft our displeasures, to ourselves unjust, Destroy our friends, and after weep their dust: Our own love waking cries to see what’s done, While shameful hate sleeps out the afternoon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say my request’s unjust And spurn me back; but if it be not so, Thou art not honest, and the gods will plague thee That thou restrain’st from me the duty which To a mother’s part belongs.—He turns away.— Down, ladies!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fair; marked by injustice or partiality or deception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violating principles of justice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But wherefore says she not she is unjust?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oft our displeasures, to ourselves unjust, Destroy our friends, and after weep their dust: Our own love waking cries to see what’s done, While shameful hate sleeps out the afternoon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say my request’s unjust And spurn me back; but if it be not so, Thou art not honest, and the gods will plague thee That thou restrain’st from me the duty which To a mother’s part belongs.—He turns away.— Down, ladies!"*

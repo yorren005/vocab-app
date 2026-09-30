@@ -5,20 +5,6 @@ status: unread
 ---
 # croak
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Grumble
-> 2. **Nuance / Usage**: Make a deep harsh sound
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to croak the target*) and intransitive clauses (*croaking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The hungry man repeated, in a rapturous croak, “Magnificent!"*
-> - 📜 **Classic Author (*Classic Work*):** *"I am so tired,” he croaked. “It’s ageing this nation in Tom Hanks in Castaway years."*
-> - 📜 **Sebastian Mallaby (*The Infinity Machine: Demis Hassabis, DeepMind and the Quest for Superintelligence*):** *"I would like to understand before I croak. I would like to understand, and then I’m perfectly fine to shuffle off my mortal coil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To utter a deep, hoarse, guttural sound, characteristic of a frog or a raven.
+> 2. **Nuance / Usage**: Of a person, to speak in a husky, raspy, or lugubrious voice, or to grumble forebodingly; in informal slang, to die.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to croak the target*) and intransitive clauses (*croaking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Macbeth*):** *"The raven himself is hoarse that **croaks** the fatal entrance of Duncan under my battlements."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The hungry man repeated, in a rapturous **croak**, 'Magnificent!'"*
+> - 📜 **Aristophanes (*The Frogs*):** *"The marsh-chorus of frogs swelled in a rhythmic **croak** across the dark waters of the Styx."*

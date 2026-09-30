@@ -5,15 +5,6 @@ status: unread
 ---
 # calorie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They even give the quantities of calories of energy required for different sized men."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Then I'll know just how many calories to give each of you."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They say a man of average size and weight, and sedentary occupation, should have at least 2,000 calories--and some authorities say 3,000--in this proportion: proteins, 300 calories, fats, 350 calories, carbohydrates, 1,350 calories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They even give the quantities of calories of energy required for different sized men."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Then I'll know just how many calories to give each of you."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They say a man of average size and weight, and sedentary occupation, should have at least 2,000 calories--and some authorities say 3,000--in this proportion: proteins, 300 calories, fats, 350 calories, carbohydrates, 1,350 calories."*

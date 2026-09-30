@@ -5,14 +5,6 @@ status: unread
 ---
 # deterrent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something immaterial that interferes with or delays action or progress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to deter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A sufficient deterrent to irregular withdrawal of funds is usually found in the loss of interest if deposits are withdrawn at other than stated times."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've never got up the subject because for me it's settled out of hand on religious grounds, but they may not influence you, nor perhaps would the other possible deterrent, pity for the weak--if one can call Bernard weak."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something immaterial that interferes with or delays action or progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to deter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A sufficient deterrent to irregular withdrawal of funds is usually found in the loss of interest if deposits are withdrawn at other than stated times."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I've never got up the subject because for me it's settled out of hand on religious grounds, but they may not influence you, nor perhaps would the other possible deterrent, pity for the weak--if one can call Bernard weak."*

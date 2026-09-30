@@ -5,13 +5,6 @@ status: unread
 ---
 # unimpeachably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Marriage, like religion and erudition, nay, like authorship itself, was fated to become an outward requirement, and Edward Casaubon was bent on fulfilling unimpeachably all requirements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Marriage, like religion and erudition, nay, like authorship itself, was fated to become an outward requirement, and Edward Casaubon was bent on fulfilling unimpeachably all requirements."*

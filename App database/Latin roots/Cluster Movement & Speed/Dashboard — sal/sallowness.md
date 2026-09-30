@@ -5,14 +5,6 @@ status: unread
 ---
 # sallowness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sickly yellowish skin color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sickly yellowish skin color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s moles and sallowness, had escaped to the vicarage to play with the curate’s ill-shod but merry children."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then the prisoner rose up regenerated, strong, free. 442:9 We noticed, as he shook hands with his counsel, Chris- tian Science, that all sallowness and debility had dis- appeared."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sickly yellowish skin color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sickly yellowish skin color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s moles and sallowness, had escaped to the vicarage to play with the curate’s ill-shod but merry children."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then the prisoner rose up regenerated, strong, free. 442:9 We noticed, as he shook hands with his counsel, Chris- tian Science, that all sallowness and debility had dis- appeared."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # monosomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosomy designates chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosomy designates chromosomal abnormality consisting of the absence of one chromosome from the normal diploid number."*

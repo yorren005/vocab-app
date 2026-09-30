@@ -5,13 +5,6 @@ status: unread
 ---
 # stabilise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support or hold steady and make steadfast, with or as if with a brace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become stable or more stable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stabilise designates support or hold steady and make steadfast, with or as if with a brace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Support or hold steady and make steadfast, with or as if with a brace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become stable or more stable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stabilise designates support or hold steady and make steadfast, with or as if with a brace."*

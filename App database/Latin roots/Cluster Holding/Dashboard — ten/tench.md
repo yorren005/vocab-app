@@ -5,13 +5,6 @@ status: unread
 ---
 # tench
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater dace-like game fish of europe and western asia noted for ability to survive outside water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater dace-like game fish of europe and western asia noted for ability to survive outside water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tench designates freshwater dace-like game fish of europe and western asia noted for ability to survive outside water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater dace-like game fish of europe and western asia noted for ability to survive outside water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater dace-like game fish of europe and western asia noted for ability to survive outside water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tench designates freshwater dace-like game fish of europe and western asia noted for ability to survive outside water."*

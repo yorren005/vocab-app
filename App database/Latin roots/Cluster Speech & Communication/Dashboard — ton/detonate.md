@@ -5,15 +5,6 @@ status: unread
 ---
 # detonate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to burst with a violent release of energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burst and release energy as through a violent chemical or physical reaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Can we detonate it with our guns from here?"*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"These are connected to an electrical machine, which causes a current to pass down into the fuse, where, by heating a fine platinum wire, it fires the detonating material with which it is packed."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This detonating material in turn fires the dynamite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to burst with a violent release of energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burst and release energy as through a violent chemical or physical reaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Can we detonate it with our guns from here?"*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"These are connected to an electrical machine, which causes a current to pass down into the fuse, where, by heating a fine platinum wire, it fires the detonating material with which it is packed."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This detonating material in turn fires the dynamite."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # developing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Processing a photosensitive material in order to make an image visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make something new, such as a product or a mental or artistic creation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For the rest he is a quiet lodger, full of handy shifts and devices as before mentioned, able to cook and clean for himself as well as to carpenter, and developing social inclinations after the shades of evening have fallen on the court."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There the young gentleman improved his mind, which was of a lean and anxious character, and developing the family gifts, gradually elevated himself into the discounting profession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My friend Jobling is naturally aristocratic by taste, and besides being acquainted with the movements of the upper circles, fully backs me in the intentions I am now developing.” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Processing a photosensitive material in order to make an image visible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make something new, such as a product or a mental or artistic creation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For the rest he is a quiet lodger, full of handy shifts and devices as before mentioned, able to cook and clean for himself as well as to carpenter, and developing social inclinations after the shades of evening have fallen on the court."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There the young gentleman improved his mind, which was of a lean and anxious character, and developing the family gifts, gradually elevated himself into the discounting profession."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My friend Jobling is naturally aristocratic by taste, and besides being acquainted with the movements of the upper circles, fully backs me in the intentions I am now developing.” Mr."*

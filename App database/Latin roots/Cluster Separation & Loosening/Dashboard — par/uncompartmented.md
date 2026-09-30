@@ -5,13 +5,6 @@ status: unread
 ---
 # uncompartmented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compartmented; not divided into compartments or isolated units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not compartmented; not divided into compartments or isolated units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncompartmented designates not compartmented; not divided into compartments or isolated units."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compartmented; not divided into compartments or isolated units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not compartmented; not divided into compartments or isolated units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncompartmented designates not compartmented; not divided into compartments or isolated units."*

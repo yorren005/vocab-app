@@ -5,15 +5,6 @@ status: unread
 ---
 # rusticity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being rustic or gauche.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rustic or gauche.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fragment On Sensibility Rusticity’s ungainly form May cloud the highest mind; But when the heart is nobly warm, The good excuse will find."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Miss Crawford found a sister without preciseness or rusticity, a sister’s husband who looked the gentleman, and a house commodious and well fitted up; and Mrs."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Cedric lived to see this union approximate towards its completion; for as the two nations mixed in society and formed intermarriages with each other, the Normans abated their scorn, and the Saxons were refined from their rusticity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being rustic or gauche.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rustic or gauche.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fragment On Sensibility Rusticity’s ungainly form May cloud the highest mind; But when the heart is nobly warm, The good excuse will find."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Miss Crawford found a sister without preciseness or rusticity, a sister’s husband who looked the gentleman, and a house commodious and well fitted up; and Mrs."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Cedric lived to see this union approximate towards its completion; for as the two nations mixed in society and formed intermarriages with each other, the Normans abated their scorn, and the Saxons were refined from their rusticity."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # entropion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inversion or turning inward of the border of the eyelid against the eyeball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inversion or turning inward of the border of the eyelid against the eyeball.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropion designates the inversion or turning inward of the border of the eyelid against the eyeball."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inversion or turning inward of the border of the eyelid against the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inversion or turning inward of the border of the eyelid against the eyeball.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropion designates the inversion or turning inward of the border of the eyelid against the eyeball."*

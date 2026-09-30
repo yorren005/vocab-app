@@ -5,13 +5,6 @@ status: unread
 ---
 # petard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive device used to break down a gate or wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explosive device used to break down a gate or wall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it work; For ’tis the sport to have the enginer Hoist with his own petard, and ’t shall go hard But I will delve one yard below their mines And blow them at the moon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive device used to break down a gate or wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explosive device used to break down a gate or wall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it work; For ’tis the sport to have the enginer Hoist with his own petard, and ’t shall go hard But I will delve one yard below their mines And blow them at the moon."*

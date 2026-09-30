@@ -5,15 +5,6 @@ status: unread
 ---
 # clarence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed carriage with four wheels and seats for four passengers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed carriage with four wheels and seats for four passengers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King, Warwick, Thomas Duke of Clarence and Humphrey Duke of Gloucester and others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not his brother Thomas of Clarence with him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but well to thee, Thomas of Clarence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed carriage with four wheels and seats for four passengers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed carriage with four wheels and seats for four passengers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King, Warwick, Thomas Duke of Clarence and Humphrey Duke of Gloucester and others."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not his brother Thomas of Clarence with him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but well to thee, Thomas of Clarence."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # elegance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A refined quality of gracefulness and good taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of neatness and ingenious simplicity in the solution of a problem (especially in science or mathematics).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Greater still when Ada asked me what she had said, and when I replied that she had been kind and interested, and when Ada, while admitting her beauty and elegance, remarked upon her proud manner and her imperious chilling air."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Now Mary, I declare it was so, I heard it myself, and you were in the other room. ‘Elegance, sweetness, beauty.’ Oh! there was no end of Miss Elliot’s charms.” “And I am sure,” cried Mary, warmly, “it was a very little to his credit, if he did."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple, Lady Dalrymple,” was the rejoicing sound; and with all the eagerness compatible with anxious elegance, Sir Walter and his two ladies stepped forward to meet her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A refined quality of gracefulness and good taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of neatness and ingenious simplicity in the solution of a problem (especially in science or mathematics).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Greater still when Ada asked me what she had said, and when I replied that she had been kind and interested, and when Ada, while admitting her beauty and elegance, remarked upon her proud manner and her imperious chilling air."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Now Mary, I declare it was so, I heard it myself, and you were in the other room. ‘Elegance, sweetness, beauty.’ Oh! there was no end of Miss Elliot’s charms.” “And I am sure,” cried Mary, warmly, “it was a very little to his credit, if he did."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple, Lady Dalrymple,” was the rejoicing sound; and with all the eagerness compatible with anxious elegance, Sir Walter and his two ladies stepped forward to meet her."*

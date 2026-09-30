@@ -5,15 +5,6 @@ status: unread
 ---
 # haberdasher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who sells men's clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who sells men's clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a haberdasher’s wife of small wit near him that railed upon me till her pinked porringer fell off her head for kindling such a combustion in the state."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, tailor, let us see these ornaments; Lay forth the gown.— Enter Haberdasher."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love me or love me not, I like the cap; And it I will have, or I will have none. [_Exit Haberdasher._] PETRUCHIO."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who sells men's clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who sells men's clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a haberdasher’s wife of small wit near him that railed upon me till her pinked porringer fell off her head for kindling such a combustion in the state."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, tailor, let us see these ornaments; Lay forth the gown.— Enter Haberdasher."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love me or love me not, I like the cap; And it I will have, or I will have none. [_Exit Haberdasher._] PETRUCHIO."*

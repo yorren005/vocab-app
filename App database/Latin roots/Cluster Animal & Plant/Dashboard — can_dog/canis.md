@@ -5,14 +5,6 @@ status: unread
 ---
 # canis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the canidae: domestic and wild dogs; wolves; jackals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the canidae: domestic and wild dogs; wolves; jackals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pliny, _Naturalis Historic_ xviii. 269 _sq_.: "_Exoritur dein post triduum fere ubique confessum inter omnes sidus ingens quod canis ortum vocamus, sole partem primam leonis ingresso."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"If so, classify it." And we answered that the birth in the air had developed into wolves, and been classified as the _canis latrans_, noisy and harmless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the canidae: domestic and wild dogs; wolves; jackals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the canidae: domestic and wild dogs; wolves; jackals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pliny, _Naturalis Historic_ xviii. 269 _sq_.: "_Exoritur dein post triduum fere ubique confessum inter omnes sidus ingens quod canis ortum vocamus, sole partem primam leonis ingresso."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"If so, classify it." And we answered that the birth in the air had developed into wolves, and been classified as the _canis latrans_, noisy and harmless."*

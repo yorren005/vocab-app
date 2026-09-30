@@ -5,13 +5,6 @@ status: unread
 ---
 # reconfirm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirm again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirm again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*

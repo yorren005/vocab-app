@@ -5,15 +5,6 @@ status: unread
 ---
 # monopolise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have and control fully and exclusively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have or exploit a monopoly of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed more than foremost, for in the minds of many he monopolises the credit for this invention."*
-> - 📜 **James Joyce (*Ulysses*):** *"But a day of reckoning, he stated _crescendo_ with no uncertain voice, thoroughly monopolising all the conversation, was in store for mighty England, despite her power of pelf on account of her crimes."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Ribbons opened an account at the Mudbury Branch Savings Bank; the Ribbons drove to church, monopolising the pony-chaise, which was for the use of the servants at the Hall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have and control fully and exclusively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have or exploit a monopoly of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed more than foremost, for in the minds of many he monopolises the credit for this invention."*
+> - 📜 **James Joyce (*Ulysses*):** *"But a day of reckoning, he stated _crescendo_ with no uncertain voice, thoroughly monopolising all the conversation, was in store for mighty England, despite her power of pelf on account of her crimes."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Ribbons opened an account at the Mudbury Branch Savings Bank; the Ribbons drove to church, monopolising the pony-chaise, which was for the use of the servants at the Hall."*

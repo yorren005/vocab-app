@@ -5,15 +5,6 @@ status: unread
 ---
 # carbohydrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various neutral compounds of carbon, hydrogen, and oxygen (such as sugars, starches, and celluloses) most of which are formed by green plants and which constitute a major class of animal foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide (such as starch or cellulose) consisting of usually hundreds or thousands of monosaccharide units; also : a food (such as rice or pasta) composed primarily of such polysaccharides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They possessed attributes known as proteids, fats, and carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now in selecting the diet for the day you should take care to choose those foods which give the proteins, fats, and carbohydrates in just the right proportion.'” “Oh, Billy!” groaned Bertram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various neutral compounds of carbon, hydrogen, and oxygen (such as sugars, starches, and celluloses) most of which are formed by green plants and which constitute a major class of animal foods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide (such as starch or cellulose) consisting of usually hundreds or thousands of monosaccharide units; also : a food (such as rice or pasta) composed primarily of such polysaccharides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They possessed attributes known as proteids, fats, and carbohydrates."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now in selecting the diet for the day you should take care to choose those foods which give the proteins, fats, and carbohydrates in just the right proportion.'” “Oh, Billy!” groaned Bertram."*

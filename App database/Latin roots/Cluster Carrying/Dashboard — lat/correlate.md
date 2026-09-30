@@ -5,15 +5,6 @@ status: unread
 ---
 # correlate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two or more related or complementary variables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bear a reciprocal or mutual relation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And queer as it is I have to positively control the desire to answer him with the correlated title--Adam!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The state- 288:1 ment that /Truth is real/ necessarily includes the correlated statement, that /error, Truth's unlikeness, is unreal/."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It seems, at least, to be closely correlated with those other messages of which we have spoken,--those other cases where some original element of our nature is capable of being regarded as an inlet of mystic truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two or more related or complementary variables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bear a reciprocal or mutual relation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And queer as it is I have to positively control the desire to answer him with the correlated title--Adam!"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The state- 288:1 ment that /Truth is real/ necessarily includes the correlated statement, that /error, Truth's unlikeness, is unreal/."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It seems, at least, to be closely correlated with those other messages of which we have spoken,--those other cases where some original element of our nature is capable of being regarded as an inlet of mystic truth."*

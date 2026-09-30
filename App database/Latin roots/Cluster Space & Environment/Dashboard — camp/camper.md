@@ -5,15 +5,6 @@ status: unread
 ---
 # camper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone living temporarily in a tent or lodge for recreation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recreational vehicle equipped for camping out while traveling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I'll prove to you I'm a woodsman,” she asserted, and when she had performed her task after the most approved fashion of the skilled camper, he acknowledged that she had made good her boast."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"You're a crack camper for sure,” he declared."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The girl with the guitar joins us, and so do other campers and everyone joins in the singing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone living temporarily in a tent or lodge for recreation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recreational vehicle equipped for camping out while traveling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I'll prove to you I'm a woodsman,” she asserted, and when she had performed her task after the most approved fashion of the skilled camper, he acknowledged that she had made good her boast."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"You're a crack camper for sure,” he declared."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The girl with the guitar joins us, and so do other campers and everyone joins in the singing."*

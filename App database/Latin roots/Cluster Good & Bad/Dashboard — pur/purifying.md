@@ -5,15 +5,6 @@ status: unread
 ---
 # purifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove impurities from, increase the concentration of, and separate through the process of distillation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One good woman in ten, madam, which is a purifying o’ the song."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A house long unused must be swept, and then the person who is purifying it must take a stick and beat not only the movable objects, but the beds, posts, and in short every accessible part of the interior."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even the most degraded women find in him an amazing sympathy; for he has the secret of being pure and kind at the same time--his purity has not to be protected; it is itself a purifying force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove impurities from, increase the concentration of, and separate through the process of distillation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One good woman in ten, madam, which is a purifying o’ the song."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A house long unused must be swept, and then the person who is purifying it must take a stick and beat not only the movable objects, but the beds, posts, and in short every accessible part of the interior."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even the most degraded women find in him an amazing sympathy; for he has the secret of being pure and kind at the same time--his purity has not to be protected; it is itself a purifying force."*

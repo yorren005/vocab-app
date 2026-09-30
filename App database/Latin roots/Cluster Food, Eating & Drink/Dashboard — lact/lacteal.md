@@ -5,13 +5,6 @@ status: unread
 ---
 # lacteal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the lymphatic vessels that convey chyle from the small intestine to the thoracic duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or producing or resembling milk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Condensed milk supplied well the place of the usual lacteal, and was an improvement on the city article, inasmuch as we knew exactly what quantity and quality of water went into it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the lymphatic vessels that convey chyle from the small intestine to the thoracic duct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or producing or resembling milk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Condensed milk supplied well the place of the usual lacteal, and was an improvement on the city article, inasmuch as we knew exactly what quantity and quality of water went into it."*

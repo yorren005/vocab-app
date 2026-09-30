@@ -5,15 +5,6 @@ status: unread
 ---
 # officiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an officious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an officious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The only thing is that I may well be asked, I acknowledge, why then, in the present fiction, I have suffered Henrietta (of whom we have indubitably too much) so officiously, so strangely, so almost inexplicably, to pervade."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lenehan in yachtsman’s cap and white shoes officiously detaches a long hair from Blazes Boylan’s coat shoulder.)_ LENEHAN: Ho!"*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"You can have as long as you plea-” “Oh, I can let you know tomorrow,” interrupted Alice, officiously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an officious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an officious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The only thing is that I may well be asked, I acknowledge, why then, in the present fiction, I have suffered Henrietta (of whom we have indubitably too much) so officiously, so strangely, so almost inexplicably, to pervade."*
+> - 📜 **James Joyce (*Ulysses*):** *"Lenehan in yachtsman’s cap and white shoes officiously detaches a long hair from Blazes Boylan’s coat shoulder.)_ LENEHAN: Ho!"*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"You can have as long as you plea-” “Oh, I can let you know tomorrow,” interrupted Alice, officiously."*

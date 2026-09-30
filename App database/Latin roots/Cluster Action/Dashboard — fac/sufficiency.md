@@ -5,15 +5,6 @@ status: unread
 ---
 # sufficiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sufficient resources to provide comfort and meet obligations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adequate quantity; a quantity that is large enough to achieve a purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then no more remains But that, to your sufficiency, as your worth is able, And let them work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no; ’tis all men’s office to speak patience To those that wring under the load of sorrow, But no man’s virtue nor sufficiency To be so moral when he shall endure The like himself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, who had asked of God’s mercy no more than putrid meat to eat and a sufficiency of water not too brackish, was no sooner blessed with an abundance of cured meat and sweet water than I began to know discontent with my lot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sufficient resources to provide comfort and meet obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adequate quantity; a quantity that is large enough to achieve a purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then no more remains But that, to your sufficiency, as your worth is able, And let them work."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no; ’tis all men’s office to speak patience To those that wring under the load of sorrow, But no man’s virtue nor sufficiency To be so moral when he shall endure The like himself."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, who had asked of God’s mercy no more than putrid meat to eat and a sufficiency of water not too brackish, was no sooner blessed with an abundance of cured meat and sweet water than I began to know discontent with my lot."*

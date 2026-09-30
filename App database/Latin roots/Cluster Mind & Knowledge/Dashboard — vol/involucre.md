@@ -5,14 +5,6 @@ status: unread
 ---
 # involucre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly conspicuous bract or bract pair or ring of bracts at the base of an inflorescence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly conspicuous bract or bract pair or ring of bracts at the base of an inflorescence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If, by any means, the lobes of the involucre are any of them separated, the enclosed dust escapes, blackening the fingers and clothing of the collector, as if it were soot (Plate V. fig. 92)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOATSBEARD CLUSTER-CUPS; spots obliterated; peridia scattered, torn, wider above; spores orange, at length black.—On stems, leaves, and involucres of common Goatsbeard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly conspicuous bract or bract pair or ring of bracts at the base of an inflorescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly conspicuous bract or bract pair or ring of bracts at the base of an inflorescence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If, by any means, the lobes of the involucre are any of them separated, the enclosed dust escapes, blackening the fingers and clothing of the collector, as if it were soot (Plate V. fig. 92)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOATSBEARD CLUSTER-CUPS; spots obliterated; peridia scattered, torn, wider above; spores orange, at length black.—On stems, leaves, and involucres of common Goatsbeard."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # phrenology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the conformation and especially the contours of the skull based on the former belief that they are indicative of mental faculties and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the conformation and especially the contours of the skull based on the former belief that they are indicative of mental faculties and character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Apply this spinal branch of phrenology to the Sperm Whale."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Apply this spinal branch of phrenology to the Sperm Whale."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phrenology makes man knavish or honest according to the development of the cranium; but anatomy, physiology, 173:24 phrenology, do not define the image of God, the real im- mortal man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the conformation and especially the contours of the skull based on the former belief that they are indicative of mental faculties and character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the conformation and especially the contours of the skull based on the former belief that they are indicative of mental faculties and character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Apply this spinal branch of phrenology to the Sperm Whale."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Apply this spinal branch of phrenology to the Sperm Whale."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phrenology makes man knavish or honest according to the development of the cranium; but anatomy, physiology, 173:24 phrenology, do not define the image of God, the real im- mortal man."*

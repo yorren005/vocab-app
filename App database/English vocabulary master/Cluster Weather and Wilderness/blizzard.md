@@ -5,20 +5,6 @@ status: unread
 ---
 # blizzard
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Long severe snowstorm
-> 2. **Nuance / Usage**: Overwhelming rush or deluge
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Remember her laughing at the wind, her blizzard collar up."*
-> - 📜 **Jack London (*To Build a Fire*):** *"He remembered the tale of the man, caught in a blizzard, who killed a steer and crawled inside the carcass, and so was saved."*
-> - 📜 **Willa Cather (*O Pioneers!*):** *"One winter his cattle had perished in a blizzard. The next summer one of his plow horses broke its leg in a prairie-dog hole and had to be shot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Long severe snowstorm
+> 2. **Nuance / Usage**: Overwhelming rush or deluge
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Remember her laughing at the wind, her blizzard collar up."*
+> - 📜 **Jack London (*To Build a Fire*):** *"He remembered the tale of the man, caught in a blizzard, who killed a steer and crawled inside the carcass, and so was saved."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"One winter his cattle had perished in a blizzard. The next summer one of his plow horses broke its leg in a prairie-dog hole and had to be shot."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exciseman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who collects taxes for the government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who collects taxes for the government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ll mak our maut, and we’ll brew our drink, We’ll laugh, sing, and rejoice, man, And mony braw thanks to the meikle black deil, That danc’d awa wi’ th’ Exciseman."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s threesome reels, there’s foursome reels, There’s hornpipes and strathspeys, man, But the ae best dance ere came to the land Was—the deil’s awa wi’ the Exciseman."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The exciseman presented himself as a surety; but he not being an housekeeper, was not accepted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who collects taxes for the government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who collects taxes for the government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ll mak our maut, and we’ll brew our drink, We’ll laugh, sing, and rejoice, man, And mony braw thanks to the meikle black deil, That danc’d awa wi’ th’ Exciseman."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s threesome reels, there’s foursome reels, There’s hornpipes and strathspeys, man, But the ae best dance ere came to the land Was—the deil’s awa wi’ the Exciseman."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The exciseman presented himself as a surety; but he not being an housekeeper, was not accepted."*

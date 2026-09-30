@@ -5,13 +5,6 @@ status: unread
 ---
 # decalescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescence designates phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescence designates phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal."*

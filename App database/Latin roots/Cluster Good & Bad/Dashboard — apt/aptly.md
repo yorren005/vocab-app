@@ -5,15 +5,6 @@ status: unread
 ---
 # aptly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With competence; in a competent capable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With competence; in a competent capable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That monster custom, who all sense doth eat, Of habits evil, is angel yet in this, That to the use of actions fair and good He likewise gives a frock or livery That aptly is put on."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With competence; in a competent capable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With competence; in a competent capable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That monster custom, who all sense doth eat, Of habits evil, is angel yet in this, That to the use of actions fair and good He likewise gives a frock or livery That aptly is put on."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unmistakably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without possibility of mistake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a signal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I have the sad satisfaction of knowing that my words, whether pleasing or offensive, are unmistakably true."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was unmistakably a symptom that something of his old passion for her had been revived; duty and desire ran hand-in-hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without possibility of mistake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a signal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I have the sad satisfaction of knowing that my words, whether pleasing or offensive, are unmistakably true."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was unmistakably a symptom that something of his old passion for her had been revived; duty and desire ran hand-in-hand."*

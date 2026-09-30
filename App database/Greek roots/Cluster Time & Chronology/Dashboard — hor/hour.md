@@ -5,15 +5,6 @@ status: unread
 ---
 # hour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A time or office for daily liturgical devotion; especially : canonical hour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 24th part of a day : 60 minutes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I chide the world-without-end hour, Whilst I (my sovereign) watch the clock for you, Nor think the bitterness of absence sour, When you have bid your servant once adieu."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now will I charge you in the band of truth, When you have conquer’d my yet maiden-bed, Remain there but an hour, nor speak to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have deliv’red it an hour since; there is something in’t that stings his nature; for on the reading it, he chang’d almost into another man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A time or office for daily liturgical devotion; especially : canonical hour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 24th part of a day : 60 minutes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I chide the world-without-end hour, Whilst I (my sovereign) watch the clock for you, Nor think the bitterness of absence sour, When you have bid your servant once adieu."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now will I charge you in the band of truth, When you have conquer’d my yet maiden-bed, Remain there but an hour, nor speak to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have deliv’red it an hour since; there is something in’t that stings his nature; for on the reading it, he chang’d almost into another man."*

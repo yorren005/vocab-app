@@ -5,15 +5,6 @@ status: unread
 ---
 # insinuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce or insert (oneself) in a subtle manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a case am I in then, that am neither a good epilogue nor cannot insinuate with you in the behalf of a good play!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hardly yet have learned To insinuate, flatter, bow, and bend my knee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would insinuate with thee but to make thee sigh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce or insert (oneself) in a subtle manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a case am I in then, that am neither a good epilogue nor cannot insinuate with you in the behalf of a good play!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hardly yet have learned To insinuate, flatter, bow, and bend my knee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would insinuate with thee but to make thee sigh."*

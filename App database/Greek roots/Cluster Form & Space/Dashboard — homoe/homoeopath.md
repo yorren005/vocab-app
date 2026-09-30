@@ -5,13 +5,6 @@ status: unread
 ---
 # homoeopath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of homeopathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of homeopathy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoeopath designates a practitioner of homeopathy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of homeopathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of homeopathy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoeopath designates a practitioner of homeopathy."*

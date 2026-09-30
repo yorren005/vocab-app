@@ -5,15 +5,6 @@ status: unread
 ---
 # paralytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from paralysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of paralysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But ever while he laughs, he glances over his paralytic shoulder at Mr."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was like a dumb paralytic with flaming words in his heart and brain, and he could not write them, not even speak them aloud...."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Now he has had a paralytic stroke, and is making his way home by slow stages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from paralysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of paralysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But ever while he laughs, he glances over his paralytic shoulder at Mr."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was like a dumb paralytic with flaming words in his heart and brain, and he could not write them, not even speak them aloud...."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Now he has had a paralytic stroke, and is making his way home by slow stages."*

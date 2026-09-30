@@ -5,15 +5,6 @@ status: unread
 ---
 # social
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A party of people assembled to promote sociability and communal activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to human society and its members.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I take it that my business in the social system is to be agreeable; I take it that everybody’s business in the social system is to be agreeable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For the rest he is a quiet lodger, full of handy shifts and devices as before mentioned, able to cook and clean for himself as well as to carpenter, and developing social inclinations after the shades of evening have fallen on the court."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I refer, my dear, to his social conduct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A party of people assembled to promote sociability and communal activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to human society and its members.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I take it that my business in the social system is to be agreeable; I take it that everybody’s business in the social system is to be agreeable."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For the rest he is a quiet lodger, full of handy shifts and devices as before mentioned, able to cook and clean for himself as well as to carpenter, and developing social inclinations after the shades of evening have fallen on the court."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I refer, my dear, to his social conduct."*

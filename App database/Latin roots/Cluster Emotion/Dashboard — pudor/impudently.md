@@ -5,15 +5,6 @@ status: unread
 ---
 # impudently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impudent or impertinent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impudent or impertinent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt confess, Or else be impudently negative, To have nor eyes nor ears nor thought, then say My wife’s a hobby-horse, deserves a name As rank as any flax-wench that puts to Before her troth-plight: say’t and justify’t."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Don’t let me stop you.” I was impudently suave."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, he was impudently familiar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impudent or impertinent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impudent or impertinent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt confess, Or else be impudently negative, To have nor eyes nor ears nor thought, then say My wife’s a hobby-horse, deserves a name As rank as any flax-wench that puts to Before her troth-plight: say’t and justify’t."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Don’t let me stop you.” I was impudently suave."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, he was impudently familiar."*

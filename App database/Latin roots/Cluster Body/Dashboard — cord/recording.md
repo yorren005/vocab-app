@@ -5,15 +5,6 @@ status: unread
 ---
 # recording
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A signal that encodes something (e.g., picture or sound) that has been recorded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a record (especially an audio record).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is Richard a monster in all this, or would Chancery be found rich in such precedents too if they could be got for citation from the Recording Angel?"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Later editors, therefore, relying upon Dyce, have been led into recording as 'MS.' readings variations which do not occur in the MS."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers are recording, with deep conviction of its worth, what they have discovered in experience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A signal that encodes something (e.g., picture or sound) that has been recorded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a record (especially an audio record).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is Richard a monster in all this, or would Chancery be found rich in such precedents too if they could be got for citation from the Recording Angel?"*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Later editors, therefore, relying upon Dyce, have been led into recording as 'MS.' readings variations which do not occur in the MS."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers are recording, with deep conviction of its worth, what they have discovered in experience."*

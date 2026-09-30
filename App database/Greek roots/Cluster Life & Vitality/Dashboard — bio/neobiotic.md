@@ -5,13 +5,6 @@ status: unread
 ---
 # neobiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neobiotic designates an antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neobiotic designates an antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery."*

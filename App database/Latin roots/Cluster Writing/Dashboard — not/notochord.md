@@ -5,13 +5,6 @@ status: unread
 ---
 # notochord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notochord designates a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notochord designates a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # damnatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening with damnation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening with damnation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had cut my knuckles against the pale young gentleman’s teeth, and I twisted my imagination into a thousand tangles, as I devised incredible ways of accounting for that damnatory circumstance when I should be haled before the Judges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening with damnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening with damnation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I had cut my knuckles against the pale young gentleman’s teeth, and I twisted my imagination into a thousand tangles, as I devised incredible ways of accounting for that damnatory circumstance when I should be haled before the Judges."*

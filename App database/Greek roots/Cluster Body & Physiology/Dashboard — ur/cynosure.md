@@ -5,15 +5,6 @@ status: unread
 ---
 # cynosure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The northern constellation Ursa Minor; also : north star.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that serves to direct or guide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Then I thought of Eliza and Georgiana; I beheld one the cynosure of a ball-room, the other the inmate of a convent cell; and I dwelt on and analysed their separate peculiarities of person and character."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"His virtues, the cynosure of all eyes, withered like tender flowers meant to blossom in the shade, but unnaturally exposed to noon-day."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Once again Bertram found his picture the cynosure of all admiring eyes, and himself the center of an enthusiastic group of friends and fellow-artists who vied with each other in hearty words of congratulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The northern constellation Ursa Minor; also : north star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that serves to direct or guide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Then I thought of Eliza and Georgiana; I beheld one the cynosure of a ball-room, the other the inmate of a convent cell; and I dwelt on and analysed their separate peculiarities of person and character."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"His virtues, the cynosure of all eyes, withered like tender flowers meant to blossom in the shade, but unnaturally exposed to noon-day."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Once again Bertram found his picture the cynosure of all admiring eyes, and himself the center of an enthusiastic group of friends and fellow-artists who vied with each other in hearty words of congratulation."*

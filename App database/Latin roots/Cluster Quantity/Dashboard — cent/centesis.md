@@ -5,13 +5,6 @@ status: unread
 ---
 # centesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centesis designates (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centesis designates (surgery) the act of puncturing a body cavity or organ with a hollow needle in order to draw out fluid."*

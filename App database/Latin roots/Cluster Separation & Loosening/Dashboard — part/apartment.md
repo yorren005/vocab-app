@@ -5,15 +5,6 @@ status: unread
 ---
 # apartment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suite of rooms usually on one floor of an apartment house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suite of rooms usually on one floor of an apartment house.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Apartment in Caesar’s House Scene V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Apartment in Caesar’s House."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An apartment in Martius’ house Scene IV."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suite of rooms usually on one floor of an apartment house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suite of rooms usually on one floor of an apartment house.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Apartment in Caesar’s House Scene V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Apartment in Caesar’s House."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An apartment in Martius’ house Scene IV."*

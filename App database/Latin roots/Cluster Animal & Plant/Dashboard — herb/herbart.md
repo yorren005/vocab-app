@@ -5,13 +5,6 @@ status: unread
 ---
 # herbart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German philosopher (1776-1841).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German philosopher (1776-1841).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herbart designates german philosopher (1776-1841)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German philosopher (1776-1841).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German philosopher (1776-1841).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herbart designates german philosopher (1776-1841)."*

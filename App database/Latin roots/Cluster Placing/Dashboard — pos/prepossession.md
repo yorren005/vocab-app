@@ -5,15 +5,6 @@ status: unread
 ---
 # prepossession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being prepossessed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion formed beforehand without adequate evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She could not help thinking much of the extraordinary circumstances attending their acquaintance, of the right which he seemed to have to interest her, by everything in situation, by his own sentiments, by his early prepossession."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Pleased with the preference of one, and offended by the neglect of the other, on the very beginning of our acquaintance, I have courted prepossession and ignorance, and driven reason away where either were concerned."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious should now know likewise—that I took a great prepossession against Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being prepossessed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion formed beforehand without adequate evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She could not help thinking much of the extraordinary circumstances attending their acquaintance, of the right which he seemed to have to interest her, by everything in situation, by his own sentiments, by his early prepossession."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Pleased with the preference of one, and offended by the neglect of the other, on the very beginning of our acquaintance, I have courted prepossession and ignorance, and driven reason away where either were concerned."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious should now know likewise—that I took a great prepossession against Mr."*

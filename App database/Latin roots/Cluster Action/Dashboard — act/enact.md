@@ -5,15 +5,6 @@ status: unread
 ---
 # enact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order by virtue of superior authority; decree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act out; represent or perform as if in a play.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spirits, which by mine art I have from their confines call’d to enact My present fancies."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba sat here till it began to rain, and the light vanished, when she withdrew to lie restlessly in her bed and re-enact in a worn mind the lurid scene of yesternight."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolitan Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Order by virtue of superior authority; decree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act out; represent or perform as if in a play.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spirits, which by mine art I have from their confines call’d to enact My present fancies."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba sat here till it began to rain, and the light vanished, when she withdrew to lie restlessly in her bed and re-enact in a worn mind the lurid scene of yesternight."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolitan Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*

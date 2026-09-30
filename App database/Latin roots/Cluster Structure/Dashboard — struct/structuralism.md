@@ -5,13 +5,6 @@ status: unread
 ---
 # structuralism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Linguistics defined as the analysis of formal structures in a text or discourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropological theory that there are unobservable social structures that generate observable social phenomena.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, structuralism designates linguistics defined as the analysis of formal structures in a text or discourse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Linguistics defined as the analysis of formal structures in a text or discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropological theory that there are unobservable social structures that generate observable social phenomena.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, structuralism designates linguistics defined as the analysis of formal structures in a text or discourse."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # patriot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who loves and supports their country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who loves and supports their country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"An austere patriot’s passion for his fatherland!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"God bless your Honours! can ye see’t— The kind, auld cantie carlin greet, An’ no get warmly to your feet, An’ gar them hear it, An’ tell them wi’a patriot-heat Ye winna bear it?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They Scotia’s race among them share: Some fire the soldier on to dare; Some rouse the patriot up to bare Corruption’s heart: Some teach the bard—a darling care— The tuneful art."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who loves and supports their country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who loves and supports their country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"An austere patriot’s passion for his fatherland!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"God bless your Honours! can ye see’t— The kind, auld cantie carlin greet, An’ no get warmly to your feet, An’ gar them hear it, An’ tell them wi’a patriot-heat Ye winna bear it?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They Scotia’s race among them share: Some fire the soldier on to dare; Some rouse the patriot up to bare Corruption’s heart: Some teach the bard—a darling care— The tuneful art."*

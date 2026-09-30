@@ -5,15 +5,6 @@ status: unread
 ---
 # conjectural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st it falsely, as I love mine honour, And mak’st conjectural fears to come into me Which I would fain shut out."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She walked briskly in the brisk air, the color rose in her cheeks, and her straw bonnet (which our contemporaries might look at with conjectural curiosity as at an obsolete form of basket) fell a little backward."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"As regarded its origin there were various explanations, all of which must necessarily have been conjectural."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st it falsely, as I love mine honour, And mak’st conjectural fears to come into me Which I would fain shut out."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She walked briskly in the brisk air, the color rose in her cheeks, and her straw bonnet (which our contemporaries might look at with conjectural curiosity as at an obsolete form of basket) fell a little backward."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"As regarded its origin there were various explanations, all of which must necessarily have been conjectural."*

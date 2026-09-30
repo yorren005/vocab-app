@@ -5,13 +5,6 @@ status: unread
 ---
 # petitio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The logical fallacy of assuming the conclusion in the premises; begging the question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The logical fallacy of assuming the conclusion in the premises; begging the question.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petitio designates the logical fallacy of assuming the conclusion in the premises; begging the question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The logical fallacy of assuming the conclusion in the premises; begging the question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The logical fallacy of assuming the conclusion in the premises; begging the question.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petitio designates the logical fallacy of assuming the conclusion in the premises; begging the question."*

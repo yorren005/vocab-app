@@ -5,13 +5,6 @@ status: unread
 ---
 # jacaranda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacaranda designates an important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacaranda designates an important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black."*

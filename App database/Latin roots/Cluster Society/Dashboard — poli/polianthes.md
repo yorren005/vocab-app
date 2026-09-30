@@ -5,13 +5,6 @@ status: unread
 ---
 # polianthes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polianthes designates genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polianthes designates genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae."*

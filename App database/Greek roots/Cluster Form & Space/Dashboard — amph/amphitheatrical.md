@@ -5,14 +5,6 @@ status: unread
 ---
 # amphitheatrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to an amphitheater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to an amphitheater.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to an amphitheater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to an amphitheater.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*

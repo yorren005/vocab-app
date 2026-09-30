@@ -5,20 +5,6 @@ status: unread
 ---
 # shroud
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Burial garment : winding-sheet, cerement
-> 2. **Nuance / Usage**: Conceal or hide from view, as if by a shroud
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"white and straight; but whether gown, sheet, or shroud, I cannot tell."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"deck, grasps a shroud, to look out upon the sea."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"the monumental white shroud that wraps all the prospect around him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Burial garment : winding-sheet, cerement
+> 2. **Nuance / Usage**: Conceal or hide from view, as if by a shroud
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"white and straight; but whether gown, sheet, or shroud, I cannot tell."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"deck, grasps a shroud, to look out upon the sea."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"the monumental white shroud that wraps all the prospect around him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # luncheon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midday meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A midday meal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Come here, and I’ll see what grub I can find.” Stoke d’Urberville took her back to the lawn and into the tent, where he left her, soon reappearing with a basket of light luncheon, which he put before her himself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But how strangely Dodo goes from one extreme to the other.” The next day, at luncheon, the butler, handing something to Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had not been very well that morning, suffering from some difficulty in breathing, and had not preached in consequence; she was not surprised, therefore, that he was nearly silent at luncheon, still less that he made no allusion to Will Ladislaw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A midday meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A midday meal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Come here, and I’ll see what grub I can find.” Stoke d’Urberville took her back to the lawn and into the tent, where he left her, soon reappearing with a basket of light luncheon, which he put before her himself."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But how strangely Dodo goes from one extreme to the other.” The next day, at luncheon, the butler, handing something to Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had not been very well that morning, suffering from some difficulty in breathing, and had not preached in consequence; she was not surprised, therefore, that he was nearly silent at luncheon, still less that he made no allusion to Will Ladislaw."*

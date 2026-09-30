@@ -5,15 +5,6 @@ status: unread
 ---
 # underline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn underneath (especially under written matter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Underline _imposs._ To write today."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was full of apologies for having failed to pay before; and then--then came the passage that had been underlined."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She underlined the letter a great deal, and she signed herself affectionately his friend, Amelia Osborne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn underneath (especially under written matter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Underline _imposs._ To write today."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was full of apologies for having failed to pay before; and then--then came the passage that had been underlined."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She underlined the letter a great deal, and she signed herself affectionately his friend, Amelia Osborne."*

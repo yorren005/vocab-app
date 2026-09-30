@@ -5,13 +5,6 @@ status: unread
 ---
 # phytochemical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance obtained from plants that is biologically active but not nutritive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance obtained from plants that is biologically active but not nutritive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytochemical designates a chemical substance obtained from plants that is biologically active but not nutritive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance obtained from plants that is biologically active but not nutritive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance obtained from plants that is biologically active but not nutritive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytochemical designates a chemical substance obtained from plants that is biologically active but not nutritive."*

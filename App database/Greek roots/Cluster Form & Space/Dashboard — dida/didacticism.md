@@ -5,13 +5,6 @@ status: unread
 ---
 # didacticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or intended to teach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to convey instruction and information in addition to serving another purpose (such as pleasure and entertainment); often : overly instructive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didacticism designates designed or intended to teach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or intended to teach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to convey instruction and information in addition to serving another purpose (such as pleasure and entertainment); often : overly instructive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didacticism designates designed or intended to teach."*

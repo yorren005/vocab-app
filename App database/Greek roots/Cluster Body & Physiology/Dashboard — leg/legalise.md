@@ -5,13 +5,6 @@ status: unread
 ---
 # legalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The artist may of course, in wanton moods, dream of some Paradise (for art) where the direct appeal to the intelligence might be legalised; for to such extravagances as these his yearning mind can scarce hope ever completely to close itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The artist may of course, in wanton moods, dream of some Paradise (for art) where the direct appeal to the intelligence might be legalised; for to such extravagances as these his yearning mind can scarce hope ever completely to close itself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # codling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Young codfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young codfish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not yet old enough for a man, nor young enough for a boy; as a squash is before ’tis a peascod, or a codling, when ’tis almost an apple. ’Tis with him in standing water, between boy and man."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He can make lovely whistles out of bore-tree, and his name is Codling."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I did this because I knew it was the proper place to go--not because old Silver-buttons Codling was the least good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Young codfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young codfish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not yet old enough for a man, nor young enough for a boy; as a squash is before ’tis a peascod, or a codling, when ’tis almost an apple. ’Tis with him in standing water, between boy and man."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He can make lovely whistles out of bore-tree, and his name is Codling."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I did this because I knew it was the proper place to go--not because old Silver-buttons Codling was the least good."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # patent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document granting an inventor sole rights to an invention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official document granting a right or privilege.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cause of this fair gift in me is wanting, And so my patent back again is swerving."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord that’s gone made himself much sport out of him; by his authority he remains here, which he thinks is a patent for his sauciness; and indeed he has no pace, but runs where he will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So will I grow, so live, so die, my lord, Ere I will yield my virgin patent up Unto his lordship, whose unwishèd yoke My soul consents not to give sovereignty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A document granting an inventor sole rights to an invention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official document granting a right or privilege.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cause of this fair gift in me is wanting, And so my patent back again is swerving."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord that’s gone made himself much sport out of him; by his authority he remains here, which he thinks is a patent for his sauciness; and indeed he has no pace, but runs where he will."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So will I grow, so live, so die, my lord, Ere I will yield my virgin patent up Unto his lordship, whose unwishèd yoke My soul consents not to give sovereignty."*

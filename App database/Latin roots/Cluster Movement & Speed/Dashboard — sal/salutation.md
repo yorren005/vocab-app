@@ -5,15 +5,6 @@ status: unread
 ---
 # salutation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of honor or courteous recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) an acknowledgment or expression of good will (especially on meeting).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why should others’ false adulterate eyes Give salutation to my sportive blood?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Salutation and greeting to you all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is at hand, and Pindarus is come To do you salutation from his master. [_Pindarus gives a letter to Brutus._] BRUTUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of honor or courteous recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) an acknowledgment or expression of good will (especially on meeting).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why should others’ false adulterate eyes Give salutation to my sportive blood?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Salutation and greeting to you all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is at hand, and Pindarus is come To do you salutation from his master. [_Pindarus gives a letter to Brutus._] BRUTUS."*

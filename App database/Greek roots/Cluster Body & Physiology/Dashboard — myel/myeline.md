@@ -5,13 +5,6 @@ status: unread
 ---
 # myeline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myeline designates a white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myeline designates a white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rama
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Avatar of vishnu whose name is synonymous with god; any of three incarnations: ramachandra or parashurama or balarama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avatar of vishnu whose name is synonymous with god; any of three incarnations: ramachandra or parashurama or balarama.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When he was about to give battle to Rama, he deposited his soul with a hermit called Fire-eye, who was to keep it safe for him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So in the fight Rama was astounded to see that his arrows struck the king without wounding him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But one of Rama's allies, knowing the secret of the king's invulnerability, transformed himself by magic into the likeness of the king, and going to the hermit asked back his soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Avatar of vishnu whose name is synonymous with god; any of three incarnations: ramachandra or parashurama or balarama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avatar of vishnu whose name is synonymous with god; any of three incarnations: ramachandra or parashurama or balarama.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When he was about to give battle to Rama, he deposited his soul with a hermit called Fire-eye, who was to keep it safe for him."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So in the fight Rama was astounded to see that his arrows struck the king without wounding him."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But one of Rama's allies, knowing the secret of the king's invulnerability, transformed himself by magic into the likeness of the king, and going to the hermit asked back his soul."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # murmuring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complaint uttered in a low and indistinct tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s speaking now, Or murmuring “Where’s my serpent of old Nile?” For so he calls me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"West of this place, down in the neighbour bottom; The rank of osiers, by the murmuring stream, Left on your right hand, brings you to the place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fishermen that walk upon the beach Appear like mice; and yond tall anchoring bark, Diminish’d to her cock; her cock a buoy Almost too small for sight: the murmuring surge That on th’unnumber’d idle pebble chafes Cannot be heard so high."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complaint uttered in a low and indistinct tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s speaking now, Or murmuring “Where’s my serpent of old Nile?” For so he calls me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"West of this place, down in the neighbour bottom; The rank of osiers, by the murmuring stream, Left on your right hand, brings you to the place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fishermen that walk upon the beach Appear like mice; and yond tall anchoring bark, Diminish’d to her cock; her cock a buoy Almost too small for sight: the murmuring surge That on th’unnumber’d idle pebble chafes Cannot be heard so high."*

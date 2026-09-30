@@ -5,13 +5,6 @@ status: unread
 ---
 # nascence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of being born.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The event of being born.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nascence designates the event of being born."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of being born.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The event of being born.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nascence designates the event of being born."*

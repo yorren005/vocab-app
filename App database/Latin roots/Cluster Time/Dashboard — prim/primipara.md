@@ -5,13 +5,6 @@ status: unread
 ---
 # primipara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) woman who has been delivered of a child for the first time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) woman who has been delivered of a child for the first time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primipara designates (obstetrics) woman who has been delivered of a child for the first time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) woman who has been delivered of a child for the first time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) woman who has been delivered of a child for the first time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primipara designates (obstetrics) woman who has been delivered of a child for the first time."*

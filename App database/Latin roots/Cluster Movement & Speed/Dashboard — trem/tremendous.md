@@ -5,15 +5,6 @@ status: unread
 ---
 # tremendous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily large in size or extent or amount or power or degree; ; ; ; - walter lippman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore had a tremendous influence on me, and I am glad to say an influence for my good, for I was able to look up to her in everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a tremendous fellow.” “In stature, sir?” asked Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce into some great volley of superlatives, or threw up his head like a bloodhound and gave out that tremendous “Ha, ha, ha!” “You have brought your bird with you, I suppose?” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily large in size or extent or amount or power or degree; ; ; ; - walter lippman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore had a tremendous influence on me, and I am glad to say an influence for my good, for I was able to look up to her in everything."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a tremendous fellow.” “In stature, sir?” asked Richard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce into some great volley of superlatives, or threw up his head like a bloodhound and gave out that tremendous “Ha, ha, ha!” “You have brought your bird with you, I suppose?” said Mr."*

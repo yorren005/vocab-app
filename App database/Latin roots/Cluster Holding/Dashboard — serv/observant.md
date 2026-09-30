@@ -5,15 +5,6 @@ status: unread
 ---
 # observant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying close attention especially to details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quick to notice; showing quick and keen perception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Being extremely observant, she had noticed that it was very hard to find out the truth about the night expedition to the castle."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, looking at her with an observant smile, “as she ever will be."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, tell me,” says Bucket aloud, “how you know that to be the lady.” “I know the wale,” replies Jo, staring, “and the bonnet, and the gownd.” “Be quite sure of what you say, Tough,” returns Bucket, narrowly observant of him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying close attention especially to details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quick to notice; showing quick and keen perception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Being extremely observant, she had noticed that it was very hard to find out the truth about the night expedition to the castle."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, looking at her with an observant smile, “as she ever will be."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, tell me,” says Bucket aloud, “how you know that to be the lady.” “I know the wale,” replies Jo, staring, “and the bonnet, and the gownd.” “Be quite sure of what you say, Tough,” returns Bucket, narrowly observant of him."*

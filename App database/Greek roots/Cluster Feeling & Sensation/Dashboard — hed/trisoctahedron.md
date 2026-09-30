@@ -5,13 +5,6 @@ status: unread
 ---
 # trisoctahedron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisoctahedron designates a solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisoctahedron designates a solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron."*

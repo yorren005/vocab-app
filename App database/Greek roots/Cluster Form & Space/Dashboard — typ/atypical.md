@@ -5,13 +5,6 @@ status: unread
 ---
 # atypical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not typical : irregular, unusual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being an antipsychotic drug (such as risperidone) that tends to produce fewer adverse side effects on movement (such as dyskinesia) than previously used antipsychotic drugs (such as haloperidol).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atypical designates not typical : irregular, unusual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not typical : irregular, unusual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being an antipsychotic drug (such as risperidone) that tends to produce fewer adverse side effects on movement (such as dyskinesia) than previously used antipsychotic drugs (such as haloperidol).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atypical designates not typical : irregular, unusual."*

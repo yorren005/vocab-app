@@ -5,13 +5,6 @@ status: unread
 ---
 # uncensored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to censorship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to censorship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncensored designates not subject to censorship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to censorship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to censorship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncensored designates not subject to censorship."*

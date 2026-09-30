@@ -5,13 +5,6 @@ status: unread
 ---
 # phlebotomize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through vein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through vein.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomize designates verb*) to subject to, transform by, or operate upon through vein."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through vein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through vein.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomize designates verb*) to subject to, transform by, or operate upon through vein."*

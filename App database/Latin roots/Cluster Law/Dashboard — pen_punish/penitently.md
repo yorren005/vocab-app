@@ -5,15 +5,6 @@ status: unread
 ---
 # penitently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing remorse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing remorse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath he borne himself penitently in prison?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"And as my extreme weakness prevented me from getting up and going to him, I lay there, penitently whispering, “O God bless him!"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I can and do forgive her now," she said, her sweet eyes looking penitently into his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing remorse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath he borne himself penitently in prison?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"And as my extreme weakness prevented me from getting up and going to him, I lay there, penitently whispering, “O God bless him!"*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I can and do forgive her now," she said, her sweet eyes looking penitently into his."*

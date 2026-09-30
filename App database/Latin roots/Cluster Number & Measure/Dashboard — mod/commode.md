@@ -5,15 +5,6 @@ status: unread
 ---
 # commode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plumbing fixture for defecation and urination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall elegant chest of drawers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He fitted the book roughly into his inner pocket and, stubbing his toes against the broken commode, hurried out towards the smell, stepping hastily down the stairs with a flurried stork’s legs."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Reflects precautiously.)_ That antiquated commode."*
-> - 📜 **James Joyce (*Ulysses*):** *"A commode, one leg fractured, totally covered by square cretonne cutting, apple design, on which rested a lady’s black straw hat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plumbing fixture for defecation and urination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall elegant chest of drawers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He fitted the book roughly into his inner pocket and, stubbing his toes against the broken commode, hurried out towards the smell, stepping hastily down the stairs with a flurried stork’s legs."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Reflects precautiously.)_ That antiquated commode."*
+> - 📜 **James Joyce (*Ulysses*):** *"A commode, one leg fractured, totally covered by square cretonne cutting, apple design, on which rested a lady’s black straw hat."*

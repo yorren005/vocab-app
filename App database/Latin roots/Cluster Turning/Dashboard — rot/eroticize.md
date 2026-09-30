@@ -5,13 +5,6 @@ status: unread
 ---
 # eroticize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give erotic character to or make more interesting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give erotic character to or make more interesting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eroticize designates give erotic character to or make more interesting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give erotic character to or make more interesting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give erotic character to or make more interesting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eroticize designates give erotic character to or make more interesting."*

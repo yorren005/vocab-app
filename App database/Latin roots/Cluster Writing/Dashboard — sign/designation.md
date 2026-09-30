@@ -5,15 +5,6 @@ status: unread
 ---
 # designation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identifying word or words by which someone or something is called and classified or distinguished from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting a person into a non-elective position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed about to dispute this designation of himself when he was seized with a violent fit of coughing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But the name was soon taken up elsewhere as a local designation."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Among these were the name of a banking-house in New South Wales, where a sum of money was, and the designation of certain lands of considerable value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identifying word or words by which someone or something is called and classified or distinguished from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting a person into a non-elective position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed about to dispute this designation of himself when he was seized with a violent fit of coughing."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But the name was soon taken up elsewhere as a local designation."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Among these were the name of a banking-house in New South Wales, where a sum of money was, and the designation of certain lands of considerable value."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # capitalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw advantages from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitalise designates supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw advantages from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitalise designates supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders."*

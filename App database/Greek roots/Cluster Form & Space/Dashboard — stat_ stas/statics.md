@@ -5,13 +5,6 @@ status: unread
 ---
 # statics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mechanics concerned with forces in equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crackling or hissing noise caused by electrical interference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statics designates the branch of mechanics concerned with forces in equilibrium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mechanics concerned with forces in equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crackling or hissing noise caused by electrical interference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statics designates the branch of mechanics concerned with forces in equilibrium."*

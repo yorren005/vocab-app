@@ -5,13 +5,6 @@ status: unread
 ---
 # exfoliation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The peeling off in flakes or scales of bark or dead skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin flake of dead epidermis shed from the surface of the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exfoliation designates the peeling off in flakes or scales of bark or dead skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The peeling off in flakes or scales of bark or dead skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin flake of dead epidermis shed from the surface of the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exfoliation designates the peeling off in flakes or scales of bark or dead skin."*

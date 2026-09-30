@@ -5,13 +5,6 @@ status: unread
 ---
 # putout
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An out resulting from a fielding play (not a strikeout).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An out resulting from a fielding play (not a strikeout).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putout designates an out resulting from a fielding play (not a strikeout)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An out resulting from a fielding play (not a strikeout).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An out resulting from a fielding play (not a strikeout).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putout designates an out resulting from a fielding play (not a strikeout)."*

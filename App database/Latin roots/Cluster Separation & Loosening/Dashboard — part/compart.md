@@ -5,13 +5,6 @@ status: unread
 ---
 # compart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lay out in parts according to a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay out in parts according to a plan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compart designates lay out in parts according to a plan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lay out in parts according to a plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay out in parts according to a plan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compart designates lay out in parts according to a plan."*

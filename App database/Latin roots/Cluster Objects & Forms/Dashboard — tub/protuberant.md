@@ -5,14 +5,6 @@ status: unread
 ---
 # protuberant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving outward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The Count, evidently noticing it, drew back; and with a grim sort of smile, which showed more than he had yet done his protuberant teeth, sat himself down again on his own side of the fireplace."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Brown was just weathering the corner, by Peter Goldthwaite's house, when the hurricane caught him off his feet, tossed him face downward into a snow bank, and proceeded to bury his protuberant part beneath fresh drifts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving outward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving outward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"The Count, evidently noticing it, drew back; and with a grim sort of smile, which showed more than he had yet done his protuberant teeth, sat himself down again on his own side of the fireplace."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Brown was just weathering the corner, by Peter Goldthwaite's house, when the hurricane caught him off his feet, tossed him face downward into a snow bank, and proceeded to bury his protuberant part beneath fresh drifts."*

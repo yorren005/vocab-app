@@ -5,13 +5,6 @@ status: unread
 ---
 # ctenophora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ctenophora designates comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ctenophora designates comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata."*

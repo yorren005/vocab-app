@@ -5,14 +5,6 @@ status: unread
 ---
 # juridical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the law or jurisprudence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the administration of justice or the function of a judge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We want to give the Senate new juridical powers, but we have no laws."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"If the realm of human knowledge were confined to abstract reasoning, then having subjected to criticism the explanation of “power” that juridical science gives us, humanity would conclude that power is merely a word and has no real existence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the law or jurisprudence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the administration of justice or the function of a judge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We want to give the Senate new juridical powers, but we have no laws."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"If the realm of human knowledge were confined to abstract reasoning, then having subjected to criticism the explanation of “power” that juridical science gives us, humanity would conclude that power is merely a word and has no real existence."*

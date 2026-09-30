@@ -5,15 +5,6 @@ status: unread
 ---
 # demoralization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying the moral basis for a doctrine or policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of disorder and confusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Their condition at Harrison's Landing was pitiable; the medical bureau seemed to have shared in the general demoralization."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"His appearance was certainly that of a hairdresser’s dummy; but in the great demoralization of the land he kept up his appearance."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In national prosperity, miracles attended the successes of the Hebrews; but when they departed from the true 133:15 idea, their demoralization began."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying the moral basis for a doctrine or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of disorder and confusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Their condition at Harrison's Landing was pitiable; the medical bureau seemed to have shared in the general demoralization."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"His appearance was certainly that of a hairdresser’s dummy; but in the great demoralization of the land he kept up his appearance."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In national prosperity, miracles attended the successes of the Hebrews; but when they departed from the true 133:15 idea, their demoralization began."*

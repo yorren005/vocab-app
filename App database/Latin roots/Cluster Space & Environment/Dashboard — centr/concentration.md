@@ -5,15 +5,6 @@ status: unread
 ---
 # concentration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The strength of a solution; number of molecules of a substance in a given volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of being crowded together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But though I liked him more and more the better I knew him, I still felt more and more how much it was to be regretted that he had been educated in no habits of application and concentration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby serenely, “what a happiness it is to be so much occupied as I am and to have this necessity for self-concentration that I have."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the strenuousness of his concentration he treadled fitfully on the floor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The strength of a solution; number of molecules of a substance in a given volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of being crowded together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But though I liked him more and more the better I knew him, I still felt more and more how much it was to be regretted that he had been educated in no habits of application and concentration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby serenely, “what a happiness it is to be so much occupied as I am and to have this necessity for self-concentration that I have."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the strenuousness of his concentration he treadled fitfully on the floor."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dispirited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by low spirits; showing no enthusiasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Why bless you Bairn," returned Samuel, "_there were snails in the ark_." The reply was so earnest, so unexpected, and met the dispirited man so immediately on his own ground, that the temptation broke away, and he was out of his depression."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Dispirited and anxious, long hoping that to-morrow or next week would clear my way, and long disappointed, I sadly missed the cheerful face and ready response of my friend."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert, coming to my bedside when he came in,—for I went straight to bed, dispirited and fatigued,—made the same report."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by low spirits; showing no enthusiasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Why bless you Bairn," returned Samuel, "_there were snails in the ark_." The reply was so earnest, so unexpected, and met the dispirited man so immediately on his own ground, that the temptation broke away, and he was out of his depression."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Dispirited and anxious, long hoping that to-morrow or next week would clear my way, and long disappointed, I sadly missed the cheerful face and ready response of my friend."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert, coming to my bedside when he came in,—for I went straight to bed, dispirited and fatigued,—made the same report."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # quadruplex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four units or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four units or components.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplex designates having four units or components."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four units or components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four units or components.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplex designates having four units or components."*

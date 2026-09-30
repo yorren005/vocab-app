@@ -5,14 +5,6 @@ status: unread
 ---
 # scintillation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid change in brightness; a brief spark or flash.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And here is the answer to that scintillation of Free Trade wisdom which flashes out in wonder that _Manufactures_ are eternally and especially in want of Protection, while Agriculture and Commerce need none."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Her dress flashed back the firelight in a thousand scintillations, from the beads and silver ornaments that thickly studded its folds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid change in brightness; a brief spark or flash.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And here is the answer to that scintillation of Free Trade wisdom which flashes out in wonder that _Manufactures_ are eternally and especially in want of Protection, while Agriculture and Commerce need none."*
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Her dress flashed back the firelight in a thousand scintillations, from the beads and silver ornaments that thickly studded its folds."*

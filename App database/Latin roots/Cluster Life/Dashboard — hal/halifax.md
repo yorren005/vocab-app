@@ -5,15 +5,6 @@ status: unread
 ---
 # halifax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provincial capital and largest city of nova scotia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provincial capital and largest city of nova scotia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Prior to the Revolution there is a dearth of records; the earlier documents and archives of the Custom-House having, probably, been carried off to Halifax, when all the king’s officials accompanied the British army in its flight from Boston."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"On the transfer of the archives to Halifax, this package, proving to be of no public concern, was left behind, and had remained ever since unopened."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Bid farewell to a land that has shaken off its allegiance, and live still under a royal government, at Halifax." "Never, never!" said the pertinacious old dame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provincial capital and largest city of nova scotia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provincial capital and largest city of nova scotia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Prior to the Revolution there is a dearth of records; the earlier documents and archives of the Custom-House having, probably, been carried off to Halifax, when all the king’s officials accompanied the British army in its flight from Boston."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"On the transfer of the archives to Halifax, this package, proving to be of no public concern, was left behind, and had remained ever since unopened."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Bid farewell to a land that has shaken off its allegiance, and live still under a royal government, at Halifax." "Never, never!" said the pertinacious old dame."*

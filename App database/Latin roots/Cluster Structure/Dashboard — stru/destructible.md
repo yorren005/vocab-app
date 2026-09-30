@@ -5,14 +5,6 @@ status: unread
 ---
 # destructible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily destroyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is true that materiality renders these ideals imperfect and destructible; yet I would not ex- change mine for thine, for mine give me such personal 360:9 pleasure, and they are not so shockingly transcendental."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But in economic discussion it is the value of things that is being considered, and from this point of view everything is in some degree destructible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily destroyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is true that materiality renders these ideals imperfect and destructible; yet I would not ex- change mine for thine, for mine give me such personal 360:9 pleasure, and they are not so shockingly transcendental."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But in economic discussion it is the value of things that is being considered, and from this point of view everything is in some degree destructible."*

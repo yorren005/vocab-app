@@ -5,15 +5,6 @@ status: unread
 ---
 # unreality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is unreal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being insubstantial or imaginary; not existing objectively or in fact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Strangest of all it was, to the brink of unreality, that Laura evidently remained blind."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A dim sense of having taken part in some strange tragedy came to him once or twice, but there was the unreality of a dream about it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is unreal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being insubstantial or imaginary; not existing objectively or in fact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Strangest of all it was, to the brink of unreality, that Laura evidently remained blind."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A dim sense of having taken part in some strange tragedy came to him once or twice, but there was the unreality of a dream about it."*

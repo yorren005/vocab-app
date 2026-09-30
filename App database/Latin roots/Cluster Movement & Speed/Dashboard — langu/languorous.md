@@ -5,15 +5,6 @@ status: unread
 ---
 # languorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spirit or liveliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spirit or liveliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The atmosphere beneath is languorous, and is so tinged with azure that what artists call the middle distance partakes also of that hue, while the horizon beyond is of the deepest ultramarine."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Perhaps that is the reason that I don’t believe anything he has told me.” “You know you believe it all,” said Lord Henry, looking at him with his dreamy languorous eyes."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They always _do_ in books, you know, when girls go to live in country houses." Charmion smiled her slow, languorous smile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spirit or liveliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spirit or liveliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The atmosphere beneath is languorous, and is so tinged with azure that what artists call the middle distance partakes also of that hue, while the horizon beyond is of the deepest ultramarine."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Perhaps that is the reason that I don’t believe anything he has told me.” “You know you believe it all,” said Lord Henry, looking at him with his dreamy languorous eyes."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They always _do_ in books, you know, when girls go to live in country houses." Charmion smiled her slow, languorous smile."*

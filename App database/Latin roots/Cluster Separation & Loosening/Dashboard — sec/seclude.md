@@ -5,15 +5,6 @@ status: unread
 ---
 # seclude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep away from others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I told my guardian all about it, and why I felt it was necessary that I should seclude myself, and my reason for not seeing my darling above all."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Not only was she secluded from her family and the community, but an attempt was made to seclude the world from her."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dubois, _Moeurs, Institutions et Cérémonies des Peuples de l'Inde_ (Paris, 1825), i. 245 _sq._ Nair women in Malabar seclude themselves for three days at menstruation and prepare their food in separate pots and pans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep away from others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I told my guardian all about it, and why I felt it was necessary that I should seclude myself, and my reason for not seeing my darling above all."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Not only was she secluded from her family and the community, but an attempt was made to seclude the world from her."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dubois, _Moeurs, Institutions et Cérémonies des Peuples de l'Inde_ (Paris, 1825), i. 245 _sq._ Nair women in Malabar seclude themselves for three days at menstruation and prepare their food in separate pots and pans."*

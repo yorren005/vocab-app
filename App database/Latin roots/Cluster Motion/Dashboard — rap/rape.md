@@ -5,15 +5,6 @@ status: unread
 ---
 # rape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian plant cultivated for its seed and as a forage crop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of despoiling a country in warfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This toil of ours should be a work of thine; But thou from loving England art so far That thou hast underwrought his lawful king, Cut off the sequence of posterity, Outfaced infant state, and done a rape Upon the maiden virtue of the crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Traitor, if Rome have law or we have power, Thou and thy faction shall repent this rape."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rape call you it, my lord, to seize my own, My true betrothed love, and now my wife?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian plant cultivated for its seed and as a forage crop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of despoiling a country in warfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This toil of ours should be a work of thine; But thou from loving England art so far That thou hast underwrought his lawful king, Cut off the sequence of posterity, Outfaced infant state, and done a rape Upon the maiden virtue of the crown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Traitor, if Rome have law or we have power, Thou and thy faction shall repent this rape."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rape call you it, my lord, to seize my own, My true betrothed love, and now my wife?"*

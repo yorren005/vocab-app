@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptocercidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of blattodea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of blattodea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocercidae designates a family of blattodea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of blattodea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of blattodea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocercidae designates a family of blattodea."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # diapason
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A burst of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal foundation stop in the organ extending through the complete range of the instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As the dank earth weeps at thy languishment, So I at each sad strain will strain a tear And with deep groans the diapason bear; For burden-wise I’ll hum on Tarquin still, While thou on Tereus descants better skill."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It arouses the "seven thunders" of evil, and stirs their latent forces to utter the full diapason of secret tones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A burst of sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal foundation stop in the organ extending through the complete range of the instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As the dank earth weeps at thy languishment, So I at each sad strain will strain a tear And with deep groans the diapason bear; For burden-wise I’ll hum on Tarquin still, While thou on Tereus descants better skill."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It arouses the "seven thunders" of evil, and stirs their latent forces to utter the full diapason of secret tones."*

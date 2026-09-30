@@ -5,13 +5,6 @@ status: unread
 ---
 # zymase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme or enzyme complex of yeast that promotes fermentation of sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme or enzyme complex of yeast that promotes fermentation of sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymase designates an enzyme or enzyme complex of yeast that promotes fermentation of sugar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme or enzyme complex of yeast that promotes fermentation of sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme or enzyme complex of yeast that promotes fermentation of sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymase designates an enzyme or enzyme complex of yeast that promotes fermentation of sugar."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # surrogate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes the place of another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person appointed to represent or act on behalf of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come with me to-night, and go with me to-morrow to the surrogate’s.” “But she must be consulted; at any rate informed.” “Very well; go on.” They went up the hill to Bathsheba’s house."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well, then; first, a license.” On a dark night, a few days later, Oak came with mysterious steps from the surrogate’s door, in Casterbridge."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come with me to-night, and go with me to-morrow to the surrogate’s.” “But she must be consulted; at any rate informed.” “Very well; go on.” They went up the hill to Bathsheba’s house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes the place of another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person appointed to represent or act on behalf of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come with me to-night, and go with me to-morrow to the surrogate’s.” “But she must be consulted; at any rate informed.” “Very well; go on.” They went up the hill to Bathsheba’s house."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well, then; first, a license.” On a dark night, a few days later, Oak came with mysterious steps from the surrogate’s door, in Casterbridge."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come with me to-night, and go with me to-morrow to the surrogate’s.” “But she must be consulted; at any rate informed.” “Very well; go on.” They went up the hill to Bathsheba’s house."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # denote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a sign or indication of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have as a meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be not, then love doth well denote, Love’s eye is not so true as all men’s: no, How can it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall observe him, And his own courses will denote him so That I may save my speech: do but go after, And mark how he continues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy tears are womanish, thy wild acts denote The unreasonable fury of a beast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a sign or indication of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have as a meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be not, then love doth well denote, Love’s eye is not so true as all men’s: no, How can it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall observe him, And his own courses will denote him so That I may save my speech: do but go after, And mark how he continues."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy tears are womanish, thy wild acts denote The unreasonable fury of a beast."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # modify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh or extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add a modifier to a constituent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was meant not merely to supplement and modify competition, but to displace it completely, or (in the more moderate program) in large part."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Again and again the quiet and sympathetic study of what a man has been through will modify our judgement upon his conclusions; it will often change our own conclusions, or even our way of thinking."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He threw out a reserve, encysted in which he grew to maturity unaffected by the intercourses that modify the maturity of others into the thing we call a man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh or extreme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add a modifier to a constituent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was meant not merely to supplement and modify competition, but to displace it completely, or (in the more moderate program) in large part."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Again and again the quiet and sympathetic study of what a man has been through will modify our judgement upon his conclusions; it will often change our own conclusions, or even our way of thinking."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He threw out a reserve, encysted in which he grew to maturity unaffected by the intercourses that modify the maturity of others into the thing we call a man."*

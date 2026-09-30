@@ -5,15 +5,6 @@ status: unread
 ---
 # montezuma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tree with large leathery leaves and large pink to orange flowers; considered a link plant between families bombacaceae and sterculiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen tree with large leathery leaves and large pink to orange flowers; considered a link plant between families bombacaceae and sterculiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We are told that Montezuma, the last king of Mexico, was worshipped by his people as a god."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Montezuma, emperor of Mexico, never set foot on the ground; he was always carried on the shoulders of noblemen, and if he lighted anywhere they laid rich tapestry for him to walk upon."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"While the world moves on, the degenerate descendants of Montezuma sleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tree with large leathery leaves and large pink to orange flowers; considered a link plant between families bombacaceae and sterculiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen tree with large leathery leaves and large pink to orange flowers; considered a link plant between families bombacaceae and sterculiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We are told that Montezuma, the last king of Mexico, was worshipped by his people as a god."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Montezuma, emperor of Mexico, never set foot on the ground; he was always carried on the shoulders of noblemen, and if he lighted anywhere they laid rich tapestry for him to walk upon."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"While the world moves on, the degenerate descendants of Montezuma sleep."*

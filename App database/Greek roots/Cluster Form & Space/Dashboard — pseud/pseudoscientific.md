@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudoscientific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on theories and methods erroneously regarded as scientific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on theories and methods erroneously regarded as scientific.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscientific designates based on theories and methods erroneously regarded as scientific."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on theories and methods erroneously regarded as scientific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on theories and methods erroneously regarded as scientific.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscientific designates based on theories and methods erroneously regarded as scientific."*

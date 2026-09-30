@@ -5,15 +5,6 @@ status: unread
 ---
 # oxygenate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate, combine, or supply with oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnate, combine, or supply with oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus, after being purified and re-oxygenated, the air passes on through more pipes to the helmet or mouth-piece, to be breathed once more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate, combine, or supply with oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnate, combine, or supply with oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus, after being purified and re-oxygenated, the air passes on through more pipes to the helmet or mouth-piece, to be breathed once more."*

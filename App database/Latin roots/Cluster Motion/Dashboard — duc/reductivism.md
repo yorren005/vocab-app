@@ -5,13 +5,6 @@ status: unread
 ---
 # reductivism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductivism designates an art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductivism designates an art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color."*

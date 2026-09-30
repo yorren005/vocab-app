@@ -5,13 +5,6 @@ status: unread
 ---
 # countertop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The top side of a counter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top side of a counter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Keep out of trouble and you'll get by OK." As he finished each weapon inspection he returned it to the countertop, pointing the muzzle into a shielded enclosure and stepped back behind a barrier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The top side of a counter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top side of a counter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Keep out of trouble and you'll get by OK." As he finished each weapon inspection he returned it to the countertop, pointing the muzzle into a shielded enclosure and stepped back behind a barrier."*

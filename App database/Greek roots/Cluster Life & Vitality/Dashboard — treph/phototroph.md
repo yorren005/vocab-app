@@ -5,13 +5,6 @@ status: unread
 ---
 # phototroph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phototrophs are organisms that carry out photon capture to acquire energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: They use the energy from light to carry out various cellular metabolic processes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototroph designates phototrophs are organisms that carry out photon capture to acquire energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Phototrophs are organisms that carry out photon capture to acquire energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: They use the energy from light to carry out various cellular metabolic processes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototroph designates phototrophs are organisms that carry out photon capture to acquire energy."*

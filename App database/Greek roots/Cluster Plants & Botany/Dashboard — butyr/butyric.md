@@ -5,13 +5,6 @@ status: unread
 ---
 # butyric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or producing butyric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two isomeric fatty acids C4H8O2; especially : the straight-chain acid of unpleasant odor normally found in perspiration and rancid butter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, butyric designates relating to or producing butyric acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or producing butyric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two isomeric fatty acids C4H8O2; especially : the straight-chain acid of unpleasant odor normally found in perspiration and rancid butter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, butyric designates relating to or producing butyric acid."*

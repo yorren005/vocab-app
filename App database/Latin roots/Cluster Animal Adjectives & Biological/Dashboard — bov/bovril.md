@@ -5,13 +5,6 @@ status: unread
 ---
 # bovril
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extract of beef (given to people who are ill).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extract of beef (given to people who are ill).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovril designates an extract of beef (given to people who are ill)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extract of beef (given to people who are ill).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extract of beef (given to people who are ill).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovril designates an extract of beef (given to people who are ill)."*

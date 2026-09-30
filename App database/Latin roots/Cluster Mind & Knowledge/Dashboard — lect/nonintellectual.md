@@ -5,13 +5,6 @@ status: unread
 ---
 # nonintellectual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not intellectual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not intellectual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonintellectual designates not intellectual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not intellectual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not intellectual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonintellectual designates not intellectual."*

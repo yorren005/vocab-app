@@ -5,13 +5,6 @@ status: unread
 ---
 # poleax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ax used to slaughter cattle; has a hammer opposite the blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle ax used in the middle ages; a long handled ax and a pick.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poleax designates an ax used to slaughter cattle; has a hammer opposite the blade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ax used to slaughter cattle; has a hammer opposite the blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle ax used in the middle ages; a long handled ax and a pick.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poleax designates an ax used to slaughter cattle; has a hammer opposite the blade."*

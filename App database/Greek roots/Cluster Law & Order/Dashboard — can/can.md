@@ -5,15 +5,6 @@ status: unread
 ---
 # can
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be physically or mentally able to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Know how to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then can I grieve at grievances foregone, And heavily from woe to woe tell o’er The sad account of fore-bemoaned moan, Which I new pay as if not paid before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be physically or mentally able to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Know how to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then can I grieve at grievances foregone, And heavily from woe to woe tell o’er The sad account of fore-bemoaned moan, Which I new pay as if not paid before."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # politesse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Courtesy towards women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courtesy towards women.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The frank address, the soft caress, Are worse than poisoned darts of steel; The frank address, and politesse, Are all finesse in Rob Mossgiel."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not easy to imagine a more helpless state than his whose poetic fancy unfits him for the world, and whose character as a scholar gives him some pretensions to the _politesse_ of life, yet is as poor as I am."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Courtesy towards women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courtesy towards women.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The frank address, the soft caress, Are worse than poisoned darts of steel; The frank address, and politesse, Are all finesse in Rob Mossgiel."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not easy to imagine a more helpless state than his whose poetic fancy unfits him for the world, and whose character as a scholar gives him some pretensions to the _politesse_ of life, yet is as poor as I am."*

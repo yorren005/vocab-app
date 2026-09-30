@@ -5,15 +5,6 @@ status: unread
 ---
 # adopt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose and follow; as of theories, ideas, policies, strategies or plans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up and practice as one's own.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be honour in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With honour as in war, since that to both It stands in like request?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, may not a king adopt an heir?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lead your lady off And call your lovers from the stage of death, Whom I adopt my friends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose and follow; as of theories, ideas, policies, strategies or plans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up and practice as one's own.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be honour in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With honour as in war, since that to both It stands in like request?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, may not a king adopt an heir?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lead your lady off And call your lovers from the stage of death, Whom I adopt my friends."*

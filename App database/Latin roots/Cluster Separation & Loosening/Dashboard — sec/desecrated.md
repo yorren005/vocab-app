@@ -5,15 +5,6 @@ status: unread
 ---
 # desecrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Violate the sacred character of a place or language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the consecration from a person or an object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Desecrated as the body is, a vengeful ghost survives and hovers over it to scare."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"There is nothing sacred, he claims, that has not been desecrated by this nation."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Desecrated as the body is, a vengeful ghost survives and hovers over it to scare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Violate the sacred character of a place or language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the consecration from a person or an object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Desecrated as the body is, a vengeful ghost survives and hovers over it to scare."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"There is nothing sacred, he claims, that has not been desecrated by this nation."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Desecrated as the body is, a vengeful ghost survives and hovers over it to scare."*

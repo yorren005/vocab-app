@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudonymous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or using a fictitious name; also : being a pseudonym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or using a fictitious name; also : being a pseudonym.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But to guide one's course aright, between the true myth and the depraved, to distinguish between the true and good god and the pseudonymous daemon, was no easy task."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or using a fictitious name; also : being a pseudonym.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or using a fictitious name; also : being a pseudonym.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But to guide one's course aright, between the true myth and the depraved, to distinguish between the true and good god and the pseudonymous daemon, was no easy task."*

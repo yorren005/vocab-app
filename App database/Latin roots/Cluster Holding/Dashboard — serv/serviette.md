@@ -5,13 +5,6 @@ status: unread
 ---
 # serviette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviette designates a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serviette designates a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing."*

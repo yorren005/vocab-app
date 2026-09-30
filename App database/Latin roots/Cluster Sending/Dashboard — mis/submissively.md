@@ -5,15 +5,6 @@ status: unread
 ---
 # submissively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a servile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a servile manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s deportment so submissively that they had become excellent friends."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Have you paid Wemmick?” “We made the money up this morning, sir,” said one of the men, submissively, while the other perused Mr."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"One wild cry of agony, one hour of unmitigated sorrow, and then she sweetly and submissively bowed herself to the will of her Heavenly Father, and was still; but the shock was too great for the wearied body and the bereaved heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a servile manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a servile manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s deportment so submissively that they had become excellent friends."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Have you paid Wemmick?” “We made the money up this morning, sir,” said one of the men, submissively, while the other perused Mr."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"One wild cry of agony, one hour of unmitigated sorrow, and then she sweetly and submissively bowed herself to the will of her Heavenly Father, and was still; but the shock was too great for the wearied body and the bereaved heart."*

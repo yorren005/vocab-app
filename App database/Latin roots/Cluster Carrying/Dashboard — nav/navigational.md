@@ -5,15 +5,6 @@ status: unread
 ---
 # navigational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to navigation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She and the tug driver exchanged salutations and prattled navigational details as the escort moved off with the Raven following like an elephant leashed to a flea."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Those vessels don't have navigational gear for trips to the rim, nor do they carry the required gear and supplies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adari studied a large-scale celestial navigational chart tacked to the wall, Zolan tapped at a remote keyboard, and Myra scrutinized a spreadsheet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to navigation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She and the tug driver exchanged salutations and prattled navigational details as the escort moved off with the Raven following like an elephant leashed to a flea."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Those vessels don't have navigational gear for trips to the rim, nor do they carry the required gear and supplies."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adari studied a large-scale celestial navigational chart tacked to the wall, Zolan tapped at a remote keyboard, and Myra scrutinized a spreadsheet."*

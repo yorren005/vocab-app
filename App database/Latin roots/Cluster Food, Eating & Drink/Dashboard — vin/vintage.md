@@ -5,15 +5,6 @@ status: unread
 ---
 # vintage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A season's yield of wine from a vineyard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oldness of wines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was not the gleaning of the grapes of Ephraim better than the vintage of Abi-ezer?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His ideas are none of them later than that vintage."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, at Konz, on the banks of the Moselle, if the blazing wheel which was trundled down the hillside reached the river without being extinguished, this was hailed as a proof that the vintage would be abundant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A season's yield of wine from a vineyard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oldness of wines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was not the gleaning of the grapes of Ephraim better than the vintage of Abi-ezer?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His ideas are none of them later than that vintage."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, at Konz, on the banks of the Moselle, if the blazing wheel which was trundled down the hillside reached the river without being extinguished, this was hailed as a proof that the vintage would be abundant."*

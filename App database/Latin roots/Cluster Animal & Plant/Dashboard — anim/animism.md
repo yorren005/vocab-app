@@ -5,15 +5,6 @@ status: unread
 ---
 # animism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that all natural objects and the universe itself have souls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that all natural objects and the universe itself have souls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They hold to their own language and religion, one a dialect akin to Tibetan, and the other a form of animism."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But Buddhist animism is not a philosophical theory."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To suppose, with Benfey and others, that the theories of animism and transmigration current among rude peoples of Asia are derived from Buddhism, is to reverse the facts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that all natural objects and the universe itself have souls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that all natural objects and the universe itself have souls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They hold to their own language and religion, one a dialect akin to Tibetan, and the other a form of animism."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But Buddhist animism is not a philosophical theory."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To suppose, with Benfey and others, that the theories of animism and transmigration current among rude peoples of Asia are derived from Buddhism, is to reverse the facts."*

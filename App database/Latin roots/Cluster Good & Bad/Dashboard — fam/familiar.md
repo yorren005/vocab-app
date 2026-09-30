@@ -5,15 +5,6 @@ status: unread
 ---
 # familiar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person attached to the household of a high official (as a pope or bishop) who renders service in return for support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He nor that affable familiar ghost Which nightly gulls him with intelligence, As victors of my silence cannot boast, I was not sick of any fear from thence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To let a fellow that will take rewards And say “God quit you!” be familiar with My playfellow, your hand, this kingly seal And plighter of high hearts!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person attached to the household of a high official (as a pope or bishop) who renders service in return for support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He nor that affable familiar ghost Which nightly gulls him with intelligence, As victors of my silence cannot boast, I was not sick of any fear from thence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To let a fellow that will take rewards And say “God quit you!” be familiar with My playfellow, your hand, this kingly seal And plighter of high hearts!"*

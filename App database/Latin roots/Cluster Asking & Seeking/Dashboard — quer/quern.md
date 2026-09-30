@@ -5,15 +5,6 @@ status: unread
 ---
 # quern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive stone mill for grinding corn by hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive stone mill for grinding corn by hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Michael's cake (_Strùthan na h'eill Micheil_), referred to in the text, is described as "the size of a quern" in circumference."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is kneaded simply with water, and marked across like a scone, dividing it into four equal parts, and then placed in front of the fire resting on a quern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive stone mill for grinding corn by hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive stone mill for grinding corn by hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Michael's cake (_Strùthan na h'eill Micheil_), referred to in the text, is described as "the size of a quern" in circumference."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is kneaded simply with water, and marked across like a scone, dividing it into four equal parts, and then placed in front of the fire resting on a quern."*

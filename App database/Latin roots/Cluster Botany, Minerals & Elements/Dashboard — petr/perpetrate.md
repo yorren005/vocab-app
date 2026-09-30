@@ -5,15 +5,6 @@ status: unread
 ---
 # perpetrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform an act, usually with a negative connotation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Do they, your hang-dogs, O smug citizen, do these your hang-dogs fear to gaze upon the facial horror of the horror they perpetrate for you and ours and at your behest?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only is it a dirty game, degrading to the hang-dogs who personally perpetrate it for a wage, but it is degrading to the commonwealth that tolerates it, votes for it, and pays the taxes for its maintenance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Honest men and gentlemen, if they don’t want the company of people who perpetrate such acts, have got to defend themselves as they best can, and that is what I and the friends whom I may call my clients in this affair are determined to do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform an act, usually with a negative connotation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Do they, your hang-dogs, O smug citizen, do these your hang-dogs fear to gaze upon the facial horror of the horror they perpetrate for you and ours and at your behest?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only is it a dirty game, degrading to the hang-dogs who personally perpetrate it for a wage, but it is degrading to the commonwealth that tolerates it, votes for it, and pays the taxes for its maintenance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Honest men and gentlemen, if they don’t want the company of people who perpetrate such acts, have got to defend themselves as they best can, and that is what I and the friends whom I may call my clients in this affair are determined to do."*

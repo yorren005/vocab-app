@@ -5,13 +5,6 @@ status: unread
 ---
 # psychotherapy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of mental or emotional disorder or of related bodily ills by psychological means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy in the presence of a therapist in which several patients discuss and share their personal problems —called also group psychotherapy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapy designates treatment of mental or emotional disorder or of related bodily ills by psychological means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of mental or emotional disorder or of related bodily ills by psychological means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy in the presence of a therapist in which several patients discuss and share their personal problems —called also group psychotherapy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapy designates treatment of mental or emotional disorder or of related bodily ills by psychological means."*

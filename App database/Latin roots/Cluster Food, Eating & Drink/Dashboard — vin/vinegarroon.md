@@ -5,13 +5,6 @@ status: unread
 ---
 # vinegarroon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarroon designates large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarroon designates large whip-scorpion of mexico and southern united states that emits a vinegary odor when alarmed."*

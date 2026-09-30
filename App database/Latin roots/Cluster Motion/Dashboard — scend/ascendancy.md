@@ -5,15 +5,6 @@ status: unread
 ---
 # ascendancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She knew how high his standard of honor was, but how would he end if his unfortunate trait gained more ascendancy over him?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not his ascendancy alone, however, held me in thrall at present."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The more adequate, indeed, the federal powers may be rendered to the national defense, the less frequent will be those scenes of danger which might favor their ascendancy over the governments of the particular States."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She knew how high his standard of honor was, but how would he end if his unfortunate trait gained more ascendancy over him?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not his ascendancy alone, however, held me in thrall at present."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The more adequate, indeed, the federal powers may be rendered to the national defense, the less frequent will be those scenes of danger which might favor their ascendancy over the governments of the particular States."*

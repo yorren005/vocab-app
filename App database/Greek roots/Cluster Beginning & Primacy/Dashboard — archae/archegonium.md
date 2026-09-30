@@ -5,13 +5,6 @@ status: unread
 ---
 # archegonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flask-shaped female sex organ of bryophytes, lower vascular plants (such as ferns), and some gymnosperms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flask-shaped female sex organ of bryophytes, lower vascular plants (such as ferns), and some gymnosperms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archegonium designates the flask-shaped female sex organ of bryophytes, lower vascular plants (such as ferns), and some gymnosperms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The flask-shaped female sex organ of bryophytes, lower vascular plants (such as ferns), and some gymnosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flask-shaped female sex organ of bryophytes, lower vascular plants (such as ferns), and some gymnosperms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archegonium designates the flask-shaped female sex organ of bryophytes, lower vascular plants (such as ferns), and some gymnosperms."*

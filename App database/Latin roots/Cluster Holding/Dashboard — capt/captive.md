@@ -5,15 +5,6 @@ status: unread
 ---
 # captive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is confined; especially a prisoner of war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that is confined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if thou say Antony lives, is well, Or friends with Caesar, or not captive to him, I’ll set thee in a shower of gold and hail Rich pearls upon thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when came you to serve our Roman captive?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is confined; especially a prisoner of war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that is confined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if thou say Antony lives, is well, Or friends with Caesar, or not captive to him, I’ll set thee in a shower of gold and hail Rich pearls upon thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when came you to serve our Roman captive?"*

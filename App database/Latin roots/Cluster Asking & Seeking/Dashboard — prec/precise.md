@@ -5,15 +5,6 @@ status: unread
 ---
 # precise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharply exact or accurate or delimited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth ; strictly correct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never, O never, do his ghost the wrong To hold your honour more precise and nice With others than with him!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He promised to meet me two hours since, and he was ever precise in promise-keeping."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharply exact or accurate or delimited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth ; strictly correct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never, O never, do his ghost the wrong To hold your honour more precise and nice With others than with him!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He promised to meet me two hours since, and he was ever precise in promise-keeping."*

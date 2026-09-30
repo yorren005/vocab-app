@@ -5,15 +5,6 @@ status: unread
 ---
 # diploma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official or state document : charter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writing usually under seal conferring some honor or privilege.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Dix, Government Superintendent of Female Nurses, for a diploma, but as she had not reached the required age she was rejected."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Come June, Bess is gonna get her high school diploma in one hand and her teaching certificate in the other!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To be received in the Countess Bezúkhova’s salon was regarded as a diploma of intellect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official or state document : charter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writing usually under seal conferring some honor or privilege.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Dix, Government Superintendent of Female Nurses, for a diploma, but as she had not reached the required age she was rejected."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Come June, Bess is gonna get her high school diploma in one hand and her teaching certificate in the other!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To be received in the Countess Bezúkhova’s salon was regarded as a diploma of intellect."*

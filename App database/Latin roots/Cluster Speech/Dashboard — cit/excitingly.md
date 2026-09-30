@@ -5,14 +5,6 @@ status: unread
 ---
 # excitingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exciting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exciting manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I have talked, and let you talk, too much and too excitingly."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Among them she found herself more excitingly applauded before the curtain, her authority more despotic behind it, her expenses smaller, and her gains greater than in London, for which she accordingly cared as little as London cared for her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exciting manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exciting manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I have talked, and let you talk, too much and too excitingly."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Among them she found herself more excitingly applauded before the curtain, her authority more despotic behind it, her expenses smaller, and her gains greater than in London, for which she accordingly cared as little as London cared for her."*

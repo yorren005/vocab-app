@@ -5,20 +5,6 @@ status: unread
 ---
 # slosh
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Slush
-> 2. **Nuance / Usage**: The slap or splash of liquid
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the slosh withstood the storm*), direct object (*cleaved the slosh*), or prepositional anchor (*amidst the slosh*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Cathy Gohlke (*Promise Me This*):** *"Shoes and socks, soaked and frozen in the mud and icy slosh, did little to protect their feet."*
-> - 📜 **Stuart Walton (*Understanding, Choosing, and Enjoying Wine*):** *"In the Midi, Grenache dominates most of the traditional appellations. Corbières, Minervois, Fitou, Faugères &mdash; these were once bywords for rough-and-ready red slosh."*
-> - 📜 **Samuel Beckett (*Watt*):** *"Finally they retired, did you not? said Tetty.<br>We did indeed, said Goff, we retired to the billiard-room, for a game of slosh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Slush
+> 2. **Nuance / Usage**: The slap or splash of liquid
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the slosh withstood the storm*), direct object (*cleaved the slosh*), or prepositional anchor (*amidst the slosh*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Cathy Gohlke (*Promise Me This*):** *"Shoes and socks, soaked and frozen in the mud and icy slosh, did little to protect their feet."*
+> - 📜 **Stuart Walton (*Understanding, Choosing, and Enjoying Wine*):** *"In the Midi, Grenache dominates most of the traditional appellations. Corbières, Minervois, Fitou, Faugères &mdash; these were once bywords for rough-and-ready red slosh."*
+> - 📜 **Samuel Beckett (*Watt*):** *"Finally they retired, did you not? said Tetty.<br>We did indeed, said Goff, we retired to the billiard-room, for a game of slosh."*

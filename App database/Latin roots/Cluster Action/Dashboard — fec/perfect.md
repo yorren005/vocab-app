@@ -5,15 +5,6 @@ status: unread
 ---
 # perfect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect or complete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you may well perceive I have not wrong’d you One of the greatest in the Christian world Shall be my surety; fore whose throne ’tis needful, Ere I can perfect mine intents, to kneel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good now, play one scene Of excellent dissembling, and let it look Like perfect honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy and so perfect is my love, And I in such a poverty of grace, That I shall think it a most plenteous crop To glean the broken ears after the man That the main harvest reaps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect or complete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you may well perceive I have not wrong’d you One of the greatest in the Christian world Shall be my surety; fore whose throne ’tis needful, Ere I can perfect mine intents, to kneel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good now, play one scene Of excellent dissembling, and let it look Like perfect honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy and so perfect is my love, And I in such a poverty of grace, That I shall think it a most plenteous crop To glean the broken ears after the man That the main harvest reaps."*

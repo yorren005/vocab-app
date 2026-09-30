@@ -5,15 +5,6 @@ status: unread
 ---
 # medicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate with a medicinal substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat medicinally, treat with medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Ministering to their temporal wants as well, clothing, feeding, medicating these unfortunate people, visiting their hospitals as well as those of the army, Mrs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It then occurred to me to give her un- 156:18 medicated pellets and watch the result."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I asked for wine—they gave me some, but it must have been highly medicated, for I slept yet more deeply than before, and wakened not for many hours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate with a medicinal substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat medicinally, treat with medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Ministering to their temporal wants as well, clothing, feeding, medicating these unfortunate people, visiting their hospitals as well as those of the army, Mrs."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It then occurred to me to give her un- 156:18 medicated pellets and watch the result."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I asked for wine—they gave me some, but it must have been highly medicated, for I slept yet more deeply than before, and wakened not for many hours."*

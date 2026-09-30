@@ -5,15 +5,6 @@ status: unread
 ---
 # vantage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place or situation affording some advantage (especially a comprehensive view or commanding perspective).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having a superior or more favorable position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But these offers, Which serve not for his vantage, he shakes off, And so should you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yon ribaudred nag of Egypt, Whom leprosy o’ertake, i’ th’ midst o’ th’ fight, When vantage like a pair of twins appeared, Both as the same—or, rather, ours the elder— The breeze upon her, like a cow in June, Hoists sails and flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou rascal, that art worst in blood to run, Lead’st first to win some vantage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place or situation affording some advantage (especially a comprehensive view or commanding perspective).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having a superior or more favorable position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But these offers, Which serve not for his vantage, he shakes off, And so should you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yon ribaudred nag of Egypt, Whom leprosy o’ertake, i’ th’ midst o’ th’ fight, When vantage like a pair of twins appeared, Both as the same—or, rather, ours the elder— The breeze upon her, like a cow in June, Hoists sails and flies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou rascal, that art worst in blood to run, Lead’st first to win some vantage."*

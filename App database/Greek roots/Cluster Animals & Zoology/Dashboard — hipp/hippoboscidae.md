@@ -5,13 +5,6 @@ status: unread
 ---
 # hippoboscidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Winged or wingless dipterans: louse flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winged or wingless dipterans: louse flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippoboscidae designates winged or wingless dipterans: louse flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Winged or wingless dipterans: louse flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winged or wingless dipterans: louse flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippoboscidae designates winged or wingless dipterans: louse flies."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thyroprotein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preparation made from iodinated protein and having an action similar to thyroxine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation made from iodinated protein and having an action similar to thyroxine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroprotein designates a preparation made from iodinated protein and having an action similar to thyroxine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preparation made from iodinated protein and having an action similar to thyroxine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation made from iodinated protein and having an action similar to thyroxine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroprotein designates a preparation made from iodinated protein and having an action similar to thyroxine."*

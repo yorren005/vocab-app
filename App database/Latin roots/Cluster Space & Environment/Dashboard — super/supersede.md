@@ -5,15 +5,6 @@ status: unread
 ---
 # supersede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place or move into the position of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He supposes all his dependents to be utterly bereft of individual characters, intentions, or opinions, and is persuaded that he was born to supersede the necessity of their having any."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mechanism only transfers labour, being powerless to supersede it, and the original amount of exertion was not cleared away; it was thrown into the body and arms."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"This brief account of the family is intended to supersede the necessity of a long and minute detail from Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place or move into the position of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He supposes all his dependents to be utterly bereft of individual characters, intentions, or opinions, and is persuaded that he was born to supersede the necessity of their having any."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mechanism only transfers labour, being powerless to supersede it, and the original amount of exertion was not cleared away; it was thrown into the body and arms."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"This brief account of the family is intended to supersede the necessity of a long and minute detail from Mrs."*

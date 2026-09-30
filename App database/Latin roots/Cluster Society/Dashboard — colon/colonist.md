@@ -5,15 +5,6 @@ status: unread
 ---
 # colonist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who settles in a new colony or moves into new country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who settles in a new colony or moves into new country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, still looking hard at me, “that he has received a letter, under date Portsmouth, from a colonist of the name of Purvis, or—” “Or Provis,” I suggested."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"A letter, under date Portsmouth, from a colonist of the name of Provis, asking for the particulars of your address, on behalf of Magwitch."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"For my father was a thorough Englishman, with nothing of the Boer about him, moreover he married an English lady, the daughter of a Natal colonist, and for these reasons he and his grandmother did not get on very well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who settles in a new colony or moves into new country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who settles in a new colony or moves into new country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, still looking hard at me, “that he has received a letter, under date Portsmouth, from a colonist of the name of Purvis, or—” “Or Provis,” I suggested."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A letter, under date Portsmouth, from a colonist of the name of Provis, asking for the particulars of your address, on behalf of Magwitch."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"For my father was a thorough Englishman, with nothing of the Boer about him, moreover he married an English lady, the daughter of a Natal colonist, and for these reasons he and his grandmother did not get on very well."*

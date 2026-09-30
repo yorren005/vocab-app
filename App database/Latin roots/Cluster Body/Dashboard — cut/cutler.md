@@ -5,15 +5,6 @@ status: unread
 ---
 # cutler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in cutlery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dealer in cutlery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"I ne'er tri'd this, yet I have worn as fair as any man; I'm sure I've made my Cutler rich, and paid for several weapons, _Turkish_ and _Toledo's_, two thousand Crowns, and yet could never light upon a fighting one. _Eust_."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The same noble Duke, another time, was making his complaint to Sir John Cutler, a rich miser, of the disorder of his affairs, and asked him what he should do to prevent the ruin of his estate?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"One said Sir John Cutler looked very dismally when night came on, not because it brought darkness with it, but because daylight saved him a candle. 481."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in cutlery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dealer in cutlery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"I ne'er tri'd this, yet I have worn as fair as any man; I'm sure I've made my Cutler rich, and paid for several weapons, _Turkish_ and _Toledo's_, two thousand Crowns, and yet could never light upon a fighting one. _Eust_."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The same noble Duke, another time, was making his complaint to Sir John Cutler, a rich miser, of the disorder of his affairs, and asked him what he should do to prevent the ruin of his estate?"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"One said Sir John Cutler looked very dismally when night came on, not because it brought darkness with it, but because daylight saved him a candle. 481."*

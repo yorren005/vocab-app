@@ -5,14 +5,6 @@ status: unread
 ---
 # linoleum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floor covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floor covering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We heard the door open, a few hurried words, and then quick steps upon the linoleum."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Imagine a large table formed of wood, the upper surface covered with linoleum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A floor covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floor covering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We heard the door open, a few hurried words, and then quick steps upon the linoleum."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Imagine a large table formed of wood, the upper surface covered with linoleum."*

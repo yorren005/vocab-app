@@ -5,15 +5,6 @@ status: unread
 ---
 # precept
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule of personal conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that is taught.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have ta’en a due and wary note upon’t; With whispering and most guilty diligence, In action all of precept, he did show me The way twice o’er."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gresham's "law" becomes thus a practical precept."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule of personal conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that is taught.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have ta’en a due and wary note upon’t; With whispering and most guilty diligence, In action all of precept, he did show me The way twice o’er."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gresham's "law" becomes thus a practical precept."*

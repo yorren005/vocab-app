@@ -5,15 +5,6 @@ status: unread
 ---
 # granular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or covered with particles resembling meal in texture or consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a granular structure like that of chondrites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gelatinous substance is dissolved away from the granular bodies which are immersed in it, by adding a little water upon the slide on which the mass is placed for examination."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These enclose a granular matter, which surrounds what has been termed the nucleus, but which appears to be a vacuole."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"They are filled with orange granular matter, and provided with a colourless, finely-punctated epispore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or covered with particles resembling meal in texture or consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a granular structure like that of chondrites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gelatinous substance is dissolved away from the granular bodies which are immersed in it, by adding a little water upon the slide on which the mass is placed for examination."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These enclose a granular matter, which surrounds what has been termed the nucleus, but which appears to be a vacuole."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"They are filled with orange granular matter, and provided with a colourless, finely-punctated epispore."*

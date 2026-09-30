@@ -5,13 +5,6 @@ status: unread
 ---
 # tachycardia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively rapid heart action whether physiological (as after exercise) or pathological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively rapid heart action whether physiological (as after exercise) or pathological.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachycardia designates relatively rapid heart action whether physiological (as after exercise) or pathological."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively rapid heart action whether physiological (as after exercise) or pathological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively rapid heart action whether physiological (as after exercise) or pathological.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachycardia designates relatively rapid heart action whether physiological (as after exercise) or pathological."*

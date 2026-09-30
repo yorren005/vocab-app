@@ -5,13 +5,6 @@ status: unread
 ---
 # monet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French impressionist painter (1840-1926).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French impressionist painter (1840-1926).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"I own it, this is all wrong, and the rest, Frustra sed anima monet, caro quod fortius est."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French impressionist painter (1840-1926).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French impressionist painter (1840-1926).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"I own it, this is all wrong, and the rest, Frustra sed anima monet, caro quod fortius est."*

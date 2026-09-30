@@ -5,20 +5,6 @@ status: unread
 ---
 # smart
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Witty, clever
-> 2. **Nuance / Usage**: (intransitive) to hurt or sting
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a smart appearance*) and predicatively after a linking verb (*remained smart*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Their softest touch as smart as lizards’ stings!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That she should feel the smart of this?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And shall, or some of us will smart for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Witty, clever
+> 2. **Nuance / Usage**: (intransitive) to hurt or sting
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a smart appearance*) and predicatively after a linking verb (*remained smart*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Their softest touch as smart as lizards’ stings!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That she should feel the smart of this?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And shall, or some of us will smart for it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thermion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermion designates an electrically charged particle (electron or ion) emitted by a substance at a high temperature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermion designates an electrically charged particle (electron or ion) emitted by a substance at a high temperature."*

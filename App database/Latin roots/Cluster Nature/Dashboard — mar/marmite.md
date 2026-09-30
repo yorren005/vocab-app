@@ -5,13 +5,6 @@ status: unread
 ---
 # marmite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soup cooked in a large pot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large pot especially one with legs used e.g. for cooking soup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marmite designates soup cooked in a large pot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soup cooked in a large pot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large pot especially one with legs used e.g. for cooking soup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marmite designates soup cooked in a large pot."*

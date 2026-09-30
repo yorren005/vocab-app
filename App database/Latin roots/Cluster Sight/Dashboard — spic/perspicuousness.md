@@ -5,13 +5,6 @@ status: unread
 ---
 # perspicuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being perspicuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being perspicuous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicuousness designates clarity as a consequence of being perspicuous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being perspicuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being perspicuous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicuousness designates clarity as a consequence of being perspicuous."*

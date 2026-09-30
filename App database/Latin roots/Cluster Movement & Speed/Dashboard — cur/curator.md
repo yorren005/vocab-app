@@ -5,15 +5,6 @@ status: unread
 ---
 # curator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The custodian of a collection (as a museum or library).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The custodian of a collection (as a museum or library).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I now give the reply, sent me by the curator of the Philadelphia Museum, and smuggled to me by Ed Morrell: “It is true there is such an oar here as you have described."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hosea Salsburty, Curator of the Philadelphia Museum, and, in reply, have received confirmation of the existence of the oar and the pamphlet.—THE EDITOR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The custodian of a collection (as a museum or library).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The custodian of a collection (as a museum or library).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I now give the reply, sent me by the curator of the Philadelphia Museum, and smuggled to me by Ed Morrell: “It is true there is such an oar here as you have described."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hosea Salsburty, Curator of the Philadelphia Museum, and, in reply, have received confirmation of the existence of the oar and the pamphlet.—THE EDITOR."*

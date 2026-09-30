@@ -5,15 +5,6 @@ status: unread
 ---
 # pennsylvania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mid-atlantic state; one of the original 13 colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the british colonies that formed the united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In 1874, while on my way to see my mother in Pennsylvania--who had just been paralyzed, and died the next week--I was suddenly paralyzed in my left arm, by which, I have since been helpless and useless."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miss M---- is the daughter of a respectable farmer, an elder in a Presbyterian church in Western Pennsylvania."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Pennsylvania continues to rank first in respect to amount of total assets, with Ohio a close second, and New Jersey third (the ranking first in proportion to population)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mid-atlantic state; one of the original 13 colonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the british colonies that formed the united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In 1874, while on my way to see my mother in Pennsylvania--who had just been paralyzed, and died the next week--I was suddenly paralyzed in my left arm, by which, I have since been helpless and useless."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Miss M---- is the daughter of a respectable farmer, an elder in a Presbyterian church in Western Pennsylvania."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Pennsylvania continues to rank first in respect to amount of total assets, with Ohio a close second, and New Jersey third (the ranking first in proportion to population)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antilocapridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising only the pronghorns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising only the pronghorns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilocapridae designates comprising only the pronghorns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising only the pronghorns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising only the pronghorns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilocapridae designates comprising only the pronghorns."*

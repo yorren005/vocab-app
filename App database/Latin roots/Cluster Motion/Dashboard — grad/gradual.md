@@ -5,15 +5,6 @@ status: unread
 ---
 # gradual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) an antiphon (usually from the book of psalms) immediately after the epistle at mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding in small stages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Drink, Henry Fray—drink,” magnanimously said Jan Coggan, a person who held Saint-Simonian notions of share and share alike where liquor was concerned, as the vessel showed signs of approaching him in its gradual revolution among them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or waste."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Up the hill stretched a road nearly straight and perfectly white, the two sides approaching each other in a gradual taper till they met the sky at the top about two miles off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) an antiphon (usually from the book of psalms) immediately after the epistle at mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding in small stages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Drink, Henry Fray—drink,” magnanimously said Jan Coggan, a person who held Saint-Simonian notions of share and share alike where liquor was concerned, as the vessel showed signs of approaching him in its gradual revolution among them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or waste."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Up the hill stretched a road nearly straight and perfectly white, the two sides approaching each other in a gradual taper till they met the sky at the top about two miles off."*

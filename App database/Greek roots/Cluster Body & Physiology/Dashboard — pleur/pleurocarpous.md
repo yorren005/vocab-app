@@ -5,13 +5,6 @@ status: unread
 ---
 # pleurocarpous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of mosses) having the archegonia on short lateral branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mosses) having the archegonia on short lateral branches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurocarpous designates (of mosses) having the archegonia on short lateral branches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of mosses) having the archegonia on short lateral branches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mosses) having the archegonia on short lateral branches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurocarpous designates (of mosses) having the archegonia on short lateral branches."*

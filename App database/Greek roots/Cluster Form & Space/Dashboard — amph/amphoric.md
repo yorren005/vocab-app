@@ -5,13 +5,6 @@ status: unread
 ---
 # amphoric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphoric designates the sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphoric designates the sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # applause
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A demonstration of approval by clapping the hands together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A demonstration of approval by clapping the hands together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Albeit you have deserved High commendation, true applause, and love, Yet such is now the Duke’s condition That he misconsters all that you have done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And from this time, For what he did before Corioles, call him, With all th’ applause and clamour of the host, Caius Martius Coriolanus!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou fond many, with what loud applause Didst thou beat heaven with blessing Bolingbroke, Before he was what thou wouldst have him be!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A demonstration of approval by clapping the hands together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A demonstration of approval by clapping the hands together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Albeit you have deserved High commendation, true applause, and love, Yet such is now the Duke’s condition That he misconsters all that you have done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And from this time, For what he did before Corioles, call him, With all th’ applause and clamour of the host, Caius Martius Coriolanus!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou fond many, with what loud applause Didst thou beat heaven with blessing Bolingbroke, Before he was what thou wouldst have him be!"*

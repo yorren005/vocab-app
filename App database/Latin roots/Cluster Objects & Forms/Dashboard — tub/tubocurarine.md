@@ -5,13 +5,6 @@ status: unread
 ---
 # tubocurarine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubocurarine designates a toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubocurarine designates a toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles."*

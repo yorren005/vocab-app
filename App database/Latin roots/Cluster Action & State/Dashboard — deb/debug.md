@@ -5,13 +5,6 @@ status: unread
 ---
 # debug
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Locate and correct errors in a computer program code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Locate and correct errors in a computer program code.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debug designates locate and correct errors in a computer program code."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Locate and correct errors in a computer program code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Locate and correct errors in a computer program code.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debug designates locate and correct errors in a computer program code."*

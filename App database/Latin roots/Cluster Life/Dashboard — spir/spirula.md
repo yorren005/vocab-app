@@ -5,13 +5,6 @@ status: unread
 ---
 # spirula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tropical cephalopod of the genus spirula having prominent eyes and short arms and a many-chambered shell coiled in a flat spiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small tropical cephalopod of the genus spirula having prominent eyes and short arms and a many-chambered shell coiled in a flat spiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirula designates a small tropical cephalopod of the genus spirula having prominent eyes and short arms and a many-chambered shell coiled in a flat spiral."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tropical cephalopod of the genus spirula having prominent eyes and short arms and a many-chambered shell coiled in a flat spiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small tropical cephalopod of the genus spirula having prominent eyes and short arms and a many-chambered shell coiled in a flat spiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirula designates a small tropical cephalopod of the genus spirula having prominent eyes and short arms and a many-chambered shell coiled in a flat spiral."*

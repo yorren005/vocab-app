@@ -5,13 +5,6 @@ status: unread
 ---
 # stegosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stegosaur designates herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stegosaur designates herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon."*

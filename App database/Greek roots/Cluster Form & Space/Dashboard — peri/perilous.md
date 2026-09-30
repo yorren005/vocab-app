@@ -5,15 +5,6 @@ status: unread
 ---
 # perilous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraught with danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then on good ground we fear, If we do fear this body hath a tail More perilous than the head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You speak like a green girl, Unsifted in such perilous circumstance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A perilous gash, a very limb lopp’d off— And yet, in faith, it is not!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraught with danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then on good ground we fear, If we do fear this body hath a tail More perilous than the head."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You speak like a green girl, Unsifted in such perilous circumstance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A perilous gash, a very limb lopp’d off— And yet, in faith, it is not!"*

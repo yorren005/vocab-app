@@ -5,13 +5,6 @@ status: unread
 ---
 # semaphore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for visual signaling (as by the position of one or more movable arms).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of visual signaling by two flags held one in each hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A sailor on her deck began to swing his arms in the curious semaphore language of the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for visual signaling (as by the position of one or more movable arms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of visual signaling by two flags held one in each hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A sailor on her deck began to swing his arms in the curious semaphore language of the sea."*

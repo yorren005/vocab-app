@@ -5,13 +5,6 @@ status: unread
 ---
 # bibliolatrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to bible-worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to bible-worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliolatrous designates given to bible-worship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to bible-worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to bible-worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliolatrous designates given to bible-worship."*

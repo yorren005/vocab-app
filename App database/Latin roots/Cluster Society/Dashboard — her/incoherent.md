@@ -5,15 +5,6 @@ status: unread
 ---
 # incoherent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without logical or meaningful connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) of waves having no stable definite or stable phase relation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did so in broken, incoherent words, for besides the trouble I was in, it frightened me to see her at MY feet."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Heap as much anger as you want to upon me, and welcome; but pity the child!” She leant against the chest of drawers, and murmured incoherent supplications for a long while, till she suddenly started up."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the incoherent multitude of his emotions he knelt down at the bedside wet-eyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without logical or meaningful connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) of waves having no stable definite or stable phase relation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I did so in broken, incoherent words, for besides the trouble I was in, it frightened me to see her at MY feet."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Heap as much anger as you want to upon me, and welcome; but pity the child!” She leant against the chest of drawers, and murmured incoherent supplications for a long while, till she suddenly started up."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the incoherent multitude of his emotions he knelt down at the bedside wet-eyed."*

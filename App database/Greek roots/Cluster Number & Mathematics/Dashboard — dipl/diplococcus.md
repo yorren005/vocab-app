@@ -5,13 +5,6 @@ status: unread
 ---
 # diplococcus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gram-positive bacteria usually occurring in pairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gram-positive bacteria usually occurring in pairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplococcus designates gram-positive bacteria usually occurring in pairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gram-positive bacteria usually occurring in pairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gram-positive bacteria usually occurring in pairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplococcus designates gram-positive bacteria usually occurring in pairs."*

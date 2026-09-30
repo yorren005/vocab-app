@@ -5,14 +5,6 @@ status: unread
 ---
 # locus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scene of any event or action (especially the place of a meeting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specific site of a particular gene on its chromosome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Robert and his disciples:--“Qui locus (_Cistercium_) et pro nemorum, et spinarum tunc temporis opacitate accessui hominum insolitus, a solis feris inhabitabatur."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The _Lines written above Tintern Abbey_ have become, as it were, the _locus classicus_ or consecrated formulary of the Wordsworthian faith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scene of any event or action (especially the place of a meeting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specific site of a particular gene on its chromosome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Robert and his disciples:--“Qui locus (_Cistercium_) et pro nemorum, et spinarum tunc temporis opacitate accessui hominum insolitus, a solis feris inhabitabatur."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The _Lines written above Tintern Abbey_ have become, as it were, the _locus classicus_ or consecrated formulary of the Wordsworthian faith."*

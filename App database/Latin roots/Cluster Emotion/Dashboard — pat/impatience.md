@@ -5,15 +5,6 @@ status: unread
 ---
 # impatience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of patience; irritation with anything that causes delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A restless desire for change and excitement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So much uncurbable, her garboils, Caesar, Made out of her impatience—which not wanted Shrewdness of policy too—I grieving grant Did you too much disquiet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But Mark Antony Put me to some impatience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s but naught; Patience is sottish, and impatience does Become a dog that’s mad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of patience; irritation with anything that causes delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A restless desire for change and excitement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So much uncurbable, her garboils, Caesar, Made out of her impatience—which not wanted Shrewdness of policy too—I grieving grant Did you too much disquiet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But Mark Antony Put me to some impatience."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s but naught; Patience is sottish, and impatience does Become a dog that’s mad."*

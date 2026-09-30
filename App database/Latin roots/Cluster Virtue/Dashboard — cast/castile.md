@@ -5,15 +5,6 @@ status: unread
 ---
 # castile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BLANCHE OF SPAIN, Daughter to Alphonso, King of Castile, and Niece to King John."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lenehan announced gladly: —_The Rose of Castile_."*
-> - 📜 **James Joyce (*Ulysses*):** *"A jumping rose on satiny breast of satin, rose of Castile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of central spain; a former kingdom that comprised most of modern spain and united with aragon to form spain in 1479.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BLANCHE OF SPAIN, Daughter to Alphonso, King of Castile, and Niece to King John."*
+> - 📜 **James Joyce (*Ulysses*):** *"Lenehan announced gladly: —_The Rose of Castile_."*
+> - 📜 **James Joyce (*Ulysses*):** *"A jumping rose on satiny breast of satin, rose of Castile."*

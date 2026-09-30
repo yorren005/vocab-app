@@ -5,13 +5,6 @@ status: unread
 ---
 # catacorner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slanted across a polygon on a diagonal line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slanted across a polygon on a diagonal line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catacorner designates slanted across a polygon on a diagonal line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slanted across a polygon on a diagonal line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slanted across a polygon on a diagonal line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catacorner designates slanted across a polygon on a diagonal line."*

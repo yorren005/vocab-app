@@ -5,15 +5,6 @@ status: unread
 ---
 # dependable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of reliance or trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being depended on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Often enough have I found the auxiliaries good soldiers, but never so steadily dependable as the Romans."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Roman was invariably steady and dependable."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"That's a remarkably fine child and she should have good, dependable, business-like habits put in the place of faulty and useless ones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of reliance or trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being depended on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Often enough have I found the auxiliaries good soldiers, but never so steadily dependable as the Romans."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Roman was invariably steady and dependable."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"That's a remarkably fine child and she should have good, dependable, business-like habits put in the place of faulty and useless ones."*

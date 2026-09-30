@@ -5,15 +5,6 @@ status: unread
 ---
 # credit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money available for a client to borrow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus vainly thinking that she thinks me young, Although she knows my days are past the best, Simply I credit her false-speaking tongue; On both sides thus is simple truth suppressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, pretty lady, you must hold the credit of your father. [_Exeunt Bertram and Lafew._] HELENA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall they credit A poor unlearned virgin, when the schools, Embowell’d of their doctrine, have let off The danger to itself?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money available for a client to borrow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus vainly thinking that she thinks me young, Although she knows my days are past the best, Simply I credit her false-speaking tongue; On both sides thus is simple truth suppressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, pretty lady, you must hold the credit of your father. [_Exeunt Bertram and Lafew._] HELENA."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall they credit A poor unlearned virgin, when the schools, Embowell’d of their doctrine, have let off The danger to itself?"*

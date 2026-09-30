@@ -5,15 +5,6 @@ status: unread
 ---
 # salmon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tributary of the snake river in idaho.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, the prison I keep, though it be for great ones, yet they seldom come; before one salmon, you shall take a number of minnows."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Seals, turtles, salmon, and so on; then, when you’ve cleared all the jelly-fish out of the way—” “_That_ generally takes some time,” interrupted the Gryphon."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They might not cut or carve salmon, because to do so would seriously endanger their health, and especially would enfeeble their arms for life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tributary of the snake river in idaho.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, the prison I keep, though it be for great ones, yet they seldom come; before one salmon, you shall take a number of minnows."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Seals, turtles, salmon, and so on; then, when you’ve cleared all the jelly-fish out of the way—” “_That_ generally takes some time,” interrupted the Gryphon."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They might not cut or carve salmon, because to do so would seriously endanger their health, and especially would enfeeble their arms for life."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # labor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Productive work (especially physical work done for wages).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Laws, indeed, are fixed in their operation and results as subserving the highest good in the training and the disciplining of the race, giving them hope in their labor and sure expectation of fruit from their toil."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They have ceased to labor with their hands, and, without warrant in the providences of God and the judgment of brethren, have turned from doing their own business, expecting the Lord to pay their debts and provide for their necessities."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Productive work (especially physical work done for wages).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Laws, indeed, are fixed in their operation and results as subserving the highest good in the training and the disciplining of the race, giving them hope in their labor and sure expectation of fruit from their toil."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They have ceased to labor with their hands, and, without warrant in the providences of God and the judgment of brethren, have turned from doing their own business, expecting the Lord to pay their debts and provide for their necessities."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paraphysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphysis designates a sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphysis designates a sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed."*

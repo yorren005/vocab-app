@@ -5,15 +5,6 @@ status: unread
 ---
 # sympathizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who shares your feelings or opinions and hopes that you will be successful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"So I supposed; but you can't depend upon your horse to tell you whether you are talking to a Yankee sympathizer or an honest Confederate, can you?"*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Speak up, which do you want?" "Throw them through the roof, Pilot, we'll see fair play," cried a sympathizer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I was dressing, I looked out of my window and asked one of our men who had been among the active sympathizers last night whether there was anything wrong about the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who shares your feelings or opinions and hopes that you will be successful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"So I supposed; but you can't depend upon your horse to tell you whether you are talking to a Yankee sympathizer or an honest Confederate, can you?"*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Speak up, which do you want?" "Throw them through the roof, Pilot, we'll see fair play," cried a sympathizer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As I was dressing, I looked out of my window and asked one of our men who had been among the active sympathizers last night whether there was anything wrong about the house."*

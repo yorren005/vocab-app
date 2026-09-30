@@ -5,15 +5,6 @@ status: unread
 ---
 # deplore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regret strongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so adieu, good madam; never more Will I my master’s tears to you deplore."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship will remember when I mention it that the last time I was here I run against a party very eminent in our profession and whose loss we all deplore."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There he had seen everything to exalt in his estimation the woman he had lost; and there begun to deplore the pride, the folly, the madness of resentment, which had kept him from trying to regain her when thrown in his way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regret strongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so adieu, good madam; never more Will I my master’s tears to you deplore."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship will remember when I mention it that the last time I was here I run against a party very eminent in our profession and whose loss we all deplore."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There he had seen everything to exalt in his estimation the woman he had lost; and there begun to deplore the pride, the folly, the madness of resentment, which had kept him from trying to regain her when thrown in his way."*

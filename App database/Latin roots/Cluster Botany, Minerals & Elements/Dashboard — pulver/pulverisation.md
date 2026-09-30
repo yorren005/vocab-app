@@ -5,13 +5,6 @@ status: unread
 ---
 # pulverisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid substance in the form of tiny loose particles; a solid that has been pulverized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of grinding to a powder or dust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulverisation designates a solid substance in the form of tiny loose particles; a solid that has been pulverized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid substance in the form of tiny loose particles; a solid that has been pulverized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of grinding to a powder or dust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulverisation designates a solid substance in the form of tiny loose particles; a solid that has been pulverized."*

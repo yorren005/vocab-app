@@ -5,15 +5,6 @@ status: unread
 ---
 # vesta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) goddess of the hearth and its fire whose flame was tended by vestal virgins; counterpart of greek hestia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest asteroid but the fourth to be discovered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"We shall go and see her to-morrow--I told her about you, Elsie." She flashed a look at me--like striking a vesta at night, it was."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, the title of Vesta borne by Diana at Nemi points clearly to the maintenance of a perpetual holy fire in her sanctuary."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A large circular basement at the north-east corner of the temple, raised on three steps and bearing traces of a mosaic pavement, probably supported a round temple of Diana in her character of Vesta, like the round temple of Vesta in the Roman Forum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) goddess of the hearth and its fire whose flame was tended by vestal virgins; counterpart of greek hestia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest asteroid but the fourth to be discovered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"We shall go and see her to-morrow--I told her about you, Elsie." She flashed a look at me--like striking a vesta at night, it was."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, the title of Vesta borne by Diana at Nemi points clearly to the maintenance of a perpetual holy fire in her sanctuary."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A large circular basement at the north-east corner of the temple, raised on three steps and bearing traces of a mosaic pavement, probably supported a round temple of Diana in her character of Vesta, like the round temple of Vesta in the Roman Forum."*

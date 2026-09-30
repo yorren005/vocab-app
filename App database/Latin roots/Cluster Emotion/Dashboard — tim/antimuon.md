@@ -5,13 +5,6 @@ status: unread
 ---
 # antimuon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimuon designates the antiparticle of a muon; decays to positron and neutrino and antineutrino."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimuon designates the antiparticle of a muon; decays to positron and neutrino and antineutrino."*

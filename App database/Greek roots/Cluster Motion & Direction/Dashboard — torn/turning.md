@@ -5,15 +5,6 @@ status: unread
 ---
 # turning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing or reversing the direction of the course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of changing in practice or custom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thee! [_Turning from him._] EROS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But turning these jests out of service, let us talk in good earnest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, like gross terms, The Prince will, in the perfectness of time, Cast off his followers, and their memory Shall as a pattern or a measure live, By which his Grace must mete the lives of other, Turning past evils to advantages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing or reversing the direction of the course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of changing in practice or custom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thee! [_Turning from him._] EROS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But turning these jests out of service, let us talk in good earnest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, like gross terms, The Prince will, in the perfectness of time, Cast off his followers, and their memory Shall as a pattern or a measure live, By which his Grace must mete the lives of other, Turning past evils to advantages."*

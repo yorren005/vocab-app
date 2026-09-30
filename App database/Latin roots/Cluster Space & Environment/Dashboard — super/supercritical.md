@@ -5,13 +5,6 @@ status: unread
 ---
 # supercritical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercritical designates (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercritical designates (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases."*

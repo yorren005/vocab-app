@@ -5,15 +5,6 @@ status: unread
 ---
 # centenary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 100th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or completing a period of 100 years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1916, the centenary of the beginning of savings banks in this country, a nation-wide propaganda was undertaken by the American Bankers' Association for the encouragement of savings. § 4. #Investment banking#."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The three years since the celebration of the Centenary have been characterized by a simultaneous process of internal consolidation and steady enlargement of the orbit of a fast-evolving Administrative Order."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The world-wide Centenary celebrations crowning these enterprises were undertaken in such perilous circumstances and carried out despite the formidable obstacles engendered through prolongation of hostilities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 100th anniversary (or the celebration of it).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or completing a period of 100 years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1916, the centenary of the beginning of savings banks in this country, a nation-wide propaganda was undertaken by the American Bankers' Association for the encouragement of savings. § 4. #Investment banking#."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The three years since the celebration of the Centenary have been characterized by a simultaneous process of internal consolidation and steady enlargement of the orbit of a fast-evolving Administrative Order."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The world-wide Centenary celebrations crowning these enterprises were undertaken in such perilous circumstances and carried out despite the formidable obstacles engendered through prolongation of hostilities."*

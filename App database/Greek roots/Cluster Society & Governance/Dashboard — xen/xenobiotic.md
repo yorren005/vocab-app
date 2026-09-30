@@ -5,13 +5,6 @@ status: unread
 ---
 # xenobiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenobiotic designates a chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenobiotic designates a chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism."*

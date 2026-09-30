@@ -5,15 +5,6 @@ status: unread
 ---
 # fertile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reproducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intellectually productive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If every of your wishes had a womb, And fertile every wish, a million."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath much land, and fertile; let a beast be lord of beasts, and his crib shall stand at the king’s mess; ’tis a chough; but, as I say, spacious in the possession of dirt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look on thy country, look on fertile France, And see the cities and the towns defaced By wasting ruin of the cruel foe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reproducing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intellectually productive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If every of your wishes had a womb, And fertile every wish, a million."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath much land, and fertile; let a beast be lord of beasts, and his crib shall stand at the king’s mess; ’tis a chough; but, as I say, spacious in the possession of dirt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look on thy country, look on fertile France, And see the cities and the towns defaced By wasting ruin of the cruel foe."*

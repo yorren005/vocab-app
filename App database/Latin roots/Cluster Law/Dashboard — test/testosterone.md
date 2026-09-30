@@ -5,13 +5,6 @@ status: unread
 ---
 # testosterone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testosterone designates a potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testosterone designates a potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics."*

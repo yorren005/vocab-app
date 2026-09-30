@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrazine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrazine designates a colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrazine designates a colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels."*

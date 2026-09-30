@@ -5,14 +5,6 @@ status: unread
 ---
 # precocity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence achieved far ahead of normal developmental schedules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence achieved far ahead of normal developmental schedules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But she had the dismal precocity of poverty."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"How he DU dam and swear," the servants would cry, delighted at his precocity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence achieved far ahead of normal developmental schedules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence achieved far ahead of normal developmental schedules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But she had the dismal precocity of poverty."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"How he DU dam and swear," the servants would cry, delighted at his precocity."*

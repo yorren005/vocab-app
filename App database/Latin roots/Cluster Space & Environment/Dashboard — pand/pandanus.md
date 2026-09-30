@@ -5,15 +5,6 @@ status: unread
 ---
 # pandanus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fiber from leaves of the pandanus tree; used for woven articles (such as mats).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various old world tropical palmlike trees having huge prop roots and edible conelike fruits and leaves like pineapple leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"These cages were made of the broad leaves of the pandanus-tree, sewn quite close together so that no light and little or no air could enter."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On one side of each is an opening which is closed by a double door of plaited cocoa-nut tree and pandanus-tree leaves."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He started for Manoa at dawn, and proceeded as far as Mahinauli, in mid-valley, where he rested under a hala (_Pandanus odoratissimus_) tree that grew in the grove of wiliwili (_Erythrina monosperma_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fiber from leaves of the pandanus tree; used for woven articles (such as mats).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various old world tropical palmlike trees having huge prop roots and edible conelike fruits and leaves like pineapple leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"These cages were made of the broad leaves of the pandanus-tree, sewn quite close together so that no light and little or no air could enter."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On one side of each is an opening which is closed by a double door of plaited cocoa-nut tree and pandanus-tree leaves."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He started for Manoa at dawn, and proceeded as far as Mahinauli, in mid-valley, where he rested under a hala (_Pandanus odoratissimus_) tree that grew in the grove of wiliwili (_Erythrina monosperma_)."*

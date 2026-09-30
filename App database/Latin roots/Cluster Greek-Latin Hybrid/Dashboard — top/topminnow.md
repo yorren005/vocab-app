@@ -5,13 +5,6 @@ status: unread
 ---
 # topminnow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topminnow designates small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topminnow designates small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control."*

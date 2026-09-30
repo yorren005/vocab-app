@@ -5,13 +5,6 @@ status: unread
 ---
 # turboprop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane with an external propeller that is driven by a turbojet engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airplane with an external propeller that is driven by a turbojet engine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turboprop designates an airplane with an external propeller that is driven by a turbojet engine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane with an external propeller that is driven by a turbojet engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airplane with an external propeller that is driven by a turbojet engine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turboprop designates an airplane with an external propeller that is driven by a turbojet engine."*

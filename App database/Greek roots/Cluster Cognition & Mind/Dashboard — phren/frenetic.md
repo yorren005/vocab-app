@@ -5,13 +5,6 @@ status: unread
 ---
 # frenetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frenetic designates marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frenetic designates marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic."*

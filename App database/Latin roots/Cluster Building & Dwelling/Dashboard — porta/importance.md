@@ -5,15 +5,6 @@ status: unread
 ---
 # importance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being important and worthy of note.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prominent status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was glad I did atone my countryman and you; it had been pity you should have been put together with so mortal a purpose as then each bore, upon importance of so slight and trivial a nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, for amends to his posterity, At our importance hither is he come To spread his colours, boy, in thy behalf, And to rebuke the usurpation Of thy unnatural uncle, English John."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maria writ The letter, at Sir Toby’s great importance, In recompense whereof he hath married her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being important and worthy of note.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prominent status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was glad I did atone my countryman and you; it had been pity you should have been put together with so mortal a purpose as then each bore, upon importance of so slight and trivial a nature."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, for amends to his posterity, At our importance hither is he come To spread his colours, boy, in thy behalf, And to rebuke the usurpation Of thy unnatural uncle, English John."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maria writ The letter, at Sir Toby’s great importance, In recompense whereof he hath married her."*

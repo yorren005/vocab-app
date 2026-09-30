@@ -5,13 +5,6 @@ status: unread
 ---
 # phot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phot designates a unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phot designates a unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux."*

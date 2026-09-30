@@ -5,14 +5,6 @@ status: unread
 ---
 # calcium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic chemical element of the alkaline-earth group that occurs naturally only in combination and is essential to cellular functions in all known organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually dark gray crystalline compound CaC2 used especially for the generation of acetylene and for making calcium cyanamide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic chemical element of the alkaline-earth group that occurs naturally only in combination and is essential to cellular functions in all known organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually dark gray crystalline compound CaC2 used especially for the generation of acetylene and for making calcium cyanamide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*

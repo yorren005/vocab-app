@@ -5,15 +5,6 @@ status: unread
 ---
 # family
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social unit living together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primary social group; parents and children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lord, here in the parliament Let us assail the family of York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior, is all your family within?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MONTAGUE, head of a Veronese family at feud with the Capulets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social unit living together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primary social group; parents and children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lord, here in the parliament Let us assail the family of York."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior, is all your family within?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MONTAGUE, head of a Veronese family at feud with the Capulets."*

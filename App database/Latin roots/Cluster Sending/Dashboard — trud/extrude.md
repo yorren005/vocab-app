@@ -5,13 +5,6 @@ status: unread
 ---
 # extrude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form or shape by forcing through an opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or shape by forcing through an opening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrude designates form or shape by forcing through an opening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form or shape by forcing through an opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or shape by forcing through an opening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrude designates form or shape by forcing through an opening."*

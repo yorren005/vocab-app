@@ -5,14 +5,6 @@ status: unread
 ---
 # gluttonously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gluttonous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gluttonous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"And not only was he perpetually writing; he read gluttonously."*
-> - 📜 **James Joyce (*Ulysses*):** *"Spanish fly in his fly or mustard plaster on his dibble. _(He gobbles gluttonously with turkey wattles.)_ Bubbly jock!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gluttonous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gluttonous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"And not only was he perpetually writing; he read gluttonously."*
+> - 📜 **James Joyce (*Ulysses*):** *"Spanish fly in his fly or mustard plaster on his dibble. _(He gobbles gluttonously with turkey wattles.)_ Bubbly jock!"*

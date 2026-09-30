@@ -5,13 +5,6 @@ status: unread
 ---
 # trichobezoar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichobezoar designates a compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichobezoar designates a compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur)."*

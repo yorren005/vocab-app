@@ -5,13 +5,6 @@ status: unread
 ---
 # linemen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The football players who line up on the line of scrimmage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the players on the line of scrimmage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linemen designates the football players who line up on the line of scrimmage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The football players who line up on the line of scrimmage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the players on the line of scrimmage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linemen designates the football players who line up on the line of scrimmage."*

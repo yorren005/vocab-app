@@ -5,15 +5,6 @@ status: unread
 ---
 # nerves
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uneasy psychological state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control of your emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though grey Do something mingle with our younger brown, yet ha’ we A brain that nourishes our nerves and can Get goal for goal of youth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke is very strangely gone from hence; Bore many gentlemen, myself being one, In hand, and hope of action; but we do learn, By those that know the very nerves of state, His givings-out were of an infinite distance From his true-meant design."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROSPERO. [_To Ferdinand._] Come on; obey: Thy nerves are in their infancy again, And have no vigour in them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An uneasy psychological state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control of your emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though grey Do something mingle with our younger brown, yet ha’ we A brain that nourishes our nerves and can Get goal for goal of youth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke is very strangely gone from hence; Bore many gentlemen, myself being one, In hand, and hope of action; but we do learn, By those that know the very nerves of state, His givings-out were of an infinite distance From his true-meant design."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROSPERO. [_To Ferdinand._] Come on; obey: Thy nerves are in their infancy again, And have no vigour in them."*

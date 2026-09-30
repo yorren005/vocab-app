@@ -5,13 +5,6 @@ status: unread
 ---
 # indemnification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money paid in compensation for loss or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of compensation for actual loss or damage or for trouble and annoyance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Our Order soon adopted bolder and wider views, and found out a better indemnification for our sacrifices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money paid in compensation for loss or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of compensation for actual loss or damage or for trouble and annoyance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Our Order soon adopted bolder and wider views, and found out a better indemnification for our sacrifices."*

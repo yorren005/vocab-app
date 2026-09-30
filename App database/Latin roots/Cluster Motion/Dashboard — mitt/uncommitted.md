@@ -5,14 +5,6 @@ status: unread
 ---
 # uncommitted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or pledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated in an exclusive sexual relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was the great four-post bed with amber hangings as of old; there the toilet-table, the armchair, and the footstool, at which I had a hundred times been sentenced to kneel, to ask pardon for offences by me uncommitted."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Huck, being uncommitted as yet, joined in with Tom, and the waverer quickly “explained,” and was glad to get out of the scrape with as little taint of chicken-hearted home-sickness clinging to his garments as he could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or pledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated in an exclusive sexual relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was the great four-post bed with amber hangings as of old; there the toilet-table, the armchair, and the footstool, at which I had a hundred times been sentenced to kneel, to ask pardon for offences by me uncommitted."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Huck, being uncommitted as yet, joined in with Tom, and the waverer quickly “explained,” and was glad to get out of the scrape with as little taint of chicken-hearted home-sickness clinging to his garments as he could."*

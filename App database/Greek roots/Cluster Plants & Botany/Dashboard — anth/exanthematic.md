@@ -5,13 +5,6 @@ status: unread
 ---
 # exanthematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eruptive disease (such as measles) or its symptomatic eruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eruptive disease (such as measles) or its symptomatic eruption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exanthematic designates an eruptive disease (such as measles) or its symptomatic eruption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eruptive disease (such as measles) or its symptomatic eruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eruptive disease (such as measles) or its symptomatic eruption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exanthematic designates an eruptive disease (such as measles) or its symptomatic eruption."*

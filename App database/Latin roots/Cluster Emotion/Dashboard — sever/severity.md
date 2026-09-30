@@ -5,15 +5,6 @@ status: unread
 ---
 # severity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the degree of something undesirable e.g. pain or weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath resisted law, And therefore law shall scorn him further trial Than the severity of the public power Which he so sets at naught."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I laugh to see your ladyship so fond To think that you have aught but Talbot’s shadow Whereon to practice your severity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is too general a vice, and severity must cure it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the degree of something undesirable e.g. pain or weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath resisted law, And therefore law shall scorn him further trial Than the severity of the public power Which he so sets at naught."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I laugh to see your ladyship so fond To think that you have aught but Talbot’s shadow Whereon to practice your severity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is too general a vice, and severity must cure it."*

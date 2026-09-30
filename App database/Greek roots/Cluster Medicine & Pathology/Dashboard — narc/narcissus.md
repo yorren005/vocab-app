@@ -5,15 +5,6 @@ status: unread
 ---
 # narcissus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bulbous plant having erect linear leaves and showy yellow or white flowers either solitary or in clusters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a beautiful young man who fell in love with his own reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou Narcissus in thy face, to me Thou wouldst appear most ugly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOMAN. ’Tis called narcissus, madam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet these that we count errors may become him; Narcissus was a sad boy but a heavenly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bulbous plant having erect linear leaves and showy yellow or white flowers either solitary or in clusters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a beautiful young man who fell in love with his own reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou Narcissus in thy face, to me Thou wouldst appear most ugly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOMAN. ’Tis called narcissus, madam."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet these that we count errors may become him; Narcissus was a sad boy but a heavenly."*

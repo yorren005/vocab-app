@@ -5,13 +5,6 @@ status: unread
 ---
 # disputative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disputative designates inclined or showing an inclination to dispute or disagree, even to engage in law suits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disputative designates inclined or showing an inclination to dispute or disagree, even to engage in law suits."*

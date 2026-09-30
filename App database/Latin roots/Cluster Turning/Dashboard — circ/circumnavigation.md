@@ -5,15 +5,6 @@ status: unread
 ---
 # circumnavigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling around something (by ship or plane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traveling around something (by ship or plane).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Harris Coll._ “Here they saw such huge troops of whales, that they were forced to proceed with a great deal of caution for fear they should run their ship upon them.” _Schouten’s Sixth Circumnavigation._ “We set sail from the Elbe, wind N."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is much in that sound to inspire proud feelings; but whereto does all that circumnavigation conduct?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"La Perouse, and his second, Captain de Langle, were sent by Louis XVI, in 1785, on a voyage of circumnavigation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling around something (by ship or plane).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traveling around something (by ship or plane).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Harris Coll._ “Here they saw such huge troops of whales, that they were forced to proceed with a great deal of caution for fear they should run their ship upon them.” _Schouten’s Sixth Circumnavigation._ “We set sail from the Elbe, wind N."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is much in that sound to inspire proud feelings; but whereto does all that circumnavigation conduct?"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"La Perouse, and his second, Captain de Langle, were sent by Louis XVI, in 1785, on a voyage of circumnavigation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # promissory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the character of a promise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the character of a promise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It differs from promissory notes and bonds in that its value is not based on the interest it yields, but mainly on its monetary uses."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The process of discount and deposit is the purchase of the promissory note of a customer,[6] the price being a credit in the form of a demand deposit on the books of the bank."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Between bank notes and ordinary promissory notes there are other differences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the character of a promise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the character of a promise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It differs from promissory notes and bonds in that its value is not based on the interest it yields, but mainly on its monetary uses."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The process of discount and deposit is the purchase of the promissory note of a customer,[6] the price being a credit in the form of a demand deposit on the books of the bank."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Between bank notes and ordinary promissory notes there are other differences."*

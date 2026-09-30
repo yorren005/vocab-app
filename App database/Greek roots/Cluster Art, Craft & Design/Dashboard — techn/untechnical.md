@@ -5,13 +5,6 @@ status: unread
 ---
 # untechnical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characteristic of or skilled in applied arts and sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not characteristic of or skilled in applied arts and sciences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"They must be read as intentionally untechnical holiday lectures intended for juveniles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characteristic of or skilled in applied arts and sciences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not characteristic of or skilled in applied arts and sciences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"They must be read as intentionally untechnical holiday lectures intended for juveniles."*

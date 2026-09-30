@@ -5,15 +5,6 @@ status: unread
 ---
 # doer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who acts and gets things done.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who acts and gets things done.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Jove, not I, is the doer of this, and he is to be thanked."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He does it every time anybody does wrong," said the mother, "for the evil-doer always hears such a voice that calls out to him: 'Don't do it, don't do it!' But sometimes he does it in spite of the voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who acts and gets things done.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who acts and gets things done.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Jove, not I, is the doer of this, and he is to be thanked."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He does it every time anybody does wrong," said the mother, "for the evil-doer always hears such a voice that calls out to him: 'Don't do it, don't do it!' But sometimes he does it in spite of the voice."*

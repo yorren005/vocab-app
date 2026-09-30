@@ -5,13 +5,6 @@ status: unread
 ---
 # vaporish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Though he’s deeply impressed with the subject, he approaches it with extreme diffidence, writing to the “all-sagacious” Abib. 82. exhibition: used in its medical sense of administering a remedy. 103. fume: vaporish fancy. 106."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Though he’s deeply impressed with the subject, he approaches it with extreme diffidence, writing to the “all-sagacious” Abib. 82. exhibition: used in its medical sense of administering a remedy. 103. fume: vaporish fancy. 106."*

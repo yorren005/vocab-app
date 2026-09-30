@@ -5,15 +5,6 @@ status: unread
 ---
 # tropics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface between the tropic of cancer and the tropic of capricorn; characterized by a hot climate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the torrid zone or tropics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He waited for her in the rare shadow of the birchtree, a tall powerful figure in a white drill suit of the tropics, his fair skin and black eyes shaded by a wide Panama hat."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the serene weather of the tropics it is exceedingly pleasant the mast-head; nay, to a dreamy meditative man it is delightful."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Witness the white bear of the poles, and the white shark of the tropics; what but their smooth, flaky whiteness makes them the transcendent horrors they are?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface between the tropic of cancer and the tropic of capricorn; characterized by a hot climate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the torrid zone or tropics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He waited for her in the rare shadow of the birchtree, a tall powerful figure in a white drill suit of the tropics, his fair skin and black eyes shaded by a wide Panama hat."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the serene weather of the tropics it is exceedingly pleasant the mast-head; nay, to a dreamy meditative man it is delightful."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Witness the white bear of the poles, and the white shark of the tropics; what but their smooth, flaky whiteness makes them the transcendent horrors they are?"*

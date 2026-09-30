@@ -5,14 +5,6 @@ status: unread
 ---
 # immortalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or provide a memorial to a person or an event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make famous forever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Lord Ravenshaw, in Cornwall, which would of course have immortalised the whole party for at least a twelvemonth! and being so near, to lose it all, was an injury to be keenly felt, and Mr."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Some had said that she was the painter’s wife; that she had been false to him; that he had killed her; and, finding that that was no sufficing revenge, thus half in love, and half in deepest hate, immortalised his vengeance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or provide a memorial to a person or an event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make famous forever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Lord Ravenshaw, in Cornwall, which would of course have immortalised the whole party for at least a twelvemonth! and being so near, to lose it all, was an injury to be keenly felt, and Mr."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Some had said that she was the painter’s wife; that she had been false to him; that he had killed her; and, finding that that was no sufficing revenge, thus half in love, and half in deepest hate, immortalised his vengeance."*

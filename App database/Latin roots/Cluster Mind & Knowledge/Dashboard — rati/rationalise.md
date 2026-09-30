@@ -5,13 +5,6 @@ status: unread
 ---
 # rationalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Structure and run according to rational or scientific principles in order to achieve desired results.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defend, explain, clear away, or make excuses for by reasoning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story that he was a human being transformed into a pine-tree is only one of those transparent attempts at rationalising old beliefs which meet us so frequently in mythology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Structure and run according to rational or scientific principles in order to achieve desired results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defend, explain, clear away, or make excuses for by reasoning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story that he was a human being transformed into a pine-tree is only one of those transparent attempts at rationalising old beliefs which meet us so frequently in mythology."*

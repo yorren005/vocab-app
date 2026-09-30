@@ -5,15 +5,6 @@ status: unread
 ---
 # abrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rub hard or scrub.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The truth seems to be that to this day the peasant remains a pagan and savage at heart; his civilization is merely a thin veneer which the hard knocks of life soon abrade, exposing the solid core of paganism and savagery below."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain had been heavier here, and all foot and horse tracks made previous to the storm had been abraded and blurred by the drops, and they were now so many little scoops of water, which reflected the flame of the match like eyes."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sharp projections along the way snagged and abraded their protective suits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rub hard or scrub.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The truth seems to be that to this day the peasant remains a pagan and savage at heart; his civilization is merely a thin veneer which the hard knocks of life soon abrade, exposing the solid core of paganism and savagery below."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain had been heavier here, and all foot and horse tracks made previous to the storm had been abraded and blurred by the drops, and they were now so many little scoops of water, which reflected the flame of the match like eyes."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sharp projections along the way snagged and abraded their protective suits."*

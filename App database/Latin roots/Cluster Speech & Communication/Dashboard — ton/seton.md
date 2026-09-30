@@ -5,14 +5,6 @@ status: unread
 ---
 # seton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious leader who was the first person born in the united states to be canonized (1774-1821).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states religious leader who was the first person born in the united states to be canonized (1774-1821).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The operator takes a very sharp bone of an ape, rubs it with a pungent spice, and then pinching up the skin of his son's arm he pierces it with the bone through and through, as a surgeon might introduce a seton."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Since, then, the animals are creatures with wants and feelings differing in degree only from our own, they surely have their rights."--ERNEST THOMPSON SETON."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious leader who was the first person born in the united states to be canonized (1774-1821).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states religious leader who was the first person born in the united states to be canonized (1774-1821).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The operator takes a very sharp bone of an ape, rubs it with a pungent spice, and then pinching up the skin of his son's arm he pierces it with the bone through and through, as a surgeon might introduce a seton."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"Since, then, the animals are creatures with wants and feelings differing in degree only from our own, they surely have their rights."--ERNEST THOMPSON SETON."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pictorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical (magazine or newspaper) containing many pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or consisting of pictures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s master-key, admitted us to the tapestried room, with its great bed and its pictorial cabinet."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers now closed his book, approached the table, and, as he took a seat, fixed his blue pictorial-looking eyes full on me."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Agnes in the low September sunshine, Val became aware of something pleasantly pictorial in the landscape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical (magazine or newspaper) containing many pictures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or consisting of pictures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s master-key, admitted us to the tapestried room, with its great bed and its pictorial cabinet."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers now closed his book, approached the table, and, as he took a seat, fixed his blue pictorial-looking eyes full on me."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Agnes in the low September sunshine, Val became aware of something pleasantly pictorial in the landscape."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # bonny
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Attractive, fair; also : fine, excellent
-> 2. **Nuance / Usage**: (geordie) alternative spelling of bonnie (“attractive”)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a bonny appearance*) and predicatively after a linking verb (*remained bonny*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Here, come in, bonny wanderer!"*
-> - 📜 **James Joyce (*Ulysses*):** *")_ I bet she’s a bonny lassie."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Will Hathecliff bide sich bonny ways, think ye?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Pleasing to the eye, attractive, and healthy-looking; fair or comely.
+> 2. **Nuance / Usage**: Chiefly Scottish and Northern English in register, carrying a warm, affectionate connotation of robust vitality, cheerfulness, or fine quality (*a bonny lass*, *a bonny fight*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a bonny appearance*) and predicatively after a linking verb (*remained bonny*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Here, come in, **bonny** wanderer!"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Will Hathecliff bide sich **bonny** ways, think ye?"*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Then sigh not so, but let them go, and be you blithe and **bonny**, converting all your sounds of woe into Hey nonny, nonny."*

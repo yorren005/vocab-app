@@ -5,15 +5,6 @@ status: unread
 ---
 # schemer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A planner who draws up a personal scheme of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planner who draws up a personal scheme of action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The old schemer,” muttered Mason."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The cowardly old schemer, to strike in the back; but we can beat her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A planner who draws up a personal scheme of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planner who draws up a personal scheme of action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The old schemer,” muttered Mason."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The cowardly old schemer, to strike in the back; but we can beat her."*

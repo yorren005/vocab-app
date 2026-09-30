@@ -5,13 +5,6 @@ status: unread
 ---
 # superordination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of being superordinate or belonging to a higher rank or class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being superordinate or belonging to a higher rank or class.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superordination designates the semantic relation of being superordinate or belonging to a higher rank or class."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of being superordinate or belonging to a higher rank or class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being superordinate or belonging to a higher rank or class.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superordination designates the semantic relation of being superordinate or belonging to a higher rank or class."*

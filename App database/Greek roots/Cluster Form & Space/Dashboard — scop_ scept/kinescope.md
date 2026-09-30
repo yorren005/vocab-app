@@ -5,13 +5,6 @@ status: unread
 ---
 # kinescope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinescope designates a cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinescope designates a cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen."*

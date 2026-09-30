@@ -5,15 +5,6 @@ status: unread
 ---
 # distaste
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense dislike.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put on what weary negligence you please, You and your fellows; I’d have it come to question: If he distaste it, let him to our sister, Whose mind and mine, I know, in that are one, Not to be overruled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Moor already changes with my poison: Dangerous conceits are in their natures poisons, Which at the first are scarce found to distaste, But with a little act upon the blood Burn like the mines of sulphur."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her brain-sick raptures Cannot distaste the goodness of a quarrel Which hath our several honours all engag’d To make it gracious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense dislike.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put on what weary negligence you please, You and your fellows; I’d have it come to question: If he distaste it, let him to our sister, Whose mind and mine, I know, in that are one, Not to be overruled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Moor already changes with my poison: Dangerous conceits are in their natures poisons, Which at the first are scarce found to distaste, But with a little act upon the blood Burn like the mines of sulphur."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her brain-sick raptures Cannot distaste the goodness of a quarrel Which hath our several honours all engag’d To make it gracious."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fugitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who flees from an uncongenial situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is sought by law officers; someone trying to elude justice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Ventidius, Whilst yet with Parthian blood thy sword is warm, The fugitive Parthians follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Talbot hath set footing once in France, And fashion’d thee that instrument of ill, Who then but English Henry will be lord, And thou be thrust out like a fugitive?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who flees from an uncongenial situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is sought by law officers; someone trying to elude justice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Ventidius, Whilst yet with Parthian blood thy sword is warm, The fugitive Parthians follow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Talbot hath set footing once in France, And fashion’d thee that instrument of ill, Who then but English Henry will be lord, And thou be thrust out like a fugitive?"*

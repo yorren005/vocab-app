@@ -5,15 +5,6 @@ status: unread
 ---
 # diameter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chord passing through the center of a figure or body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a straight line through the center of an object or space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A tributary of the main stream flowed through the basin of the pool by an inlet and outlet at opposite points of its diameter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a saucer-shaped concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Instead, I equipped myself with a stone club, some three feet in length and of suitable diameter, which occupied an even month in the fashioning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chord passing through the center of a figure or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a straight line through the center of an object or space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A tributary of the main stream flowed through the basin of the pool by an inlet and outlet at opposite points of its diameter."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a saucer-shaped concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Instead, I equipped myself with a stone club, some three feet in length and of suitable diameter, which occupied an even month in the fashioning."*

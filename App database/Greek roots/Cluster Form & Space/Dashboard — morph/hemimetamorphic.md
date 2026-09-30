@@ -5,13 +5,6 @@ status: unread
 ---
 # hemimetamorphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphic designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphic designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*

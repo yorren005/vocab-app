@@ -5,13 +5,6 @@ status: unread
 ---
 # glutinosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having a viscosity like jelly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a viscosity like jelly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutinosity designates the property of having a viscosity like jelly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having a viscosity like jelly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a viscosity like jelly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutinosity designates the property of having a viscosity like jelly."*

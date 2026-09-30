@@ -5,13 +5,6 @@ status: unread
 ---
 # armilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celestial globe consisting of metal hoops; used by early astronomers to determine the positions of stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a bracelet worn around the wrist or arm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armilla designates a celestial globe consisting of metal hoops; used by early astronomers to determine the positions of stars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celestial globe consisting of metal hoops; used by early astronomers to determine the positions of stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a bracelet worn around the wrist or arm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armilla designates a celestial globe consisting of metal hoops; used by early astronomers to determine the positions of stars."*

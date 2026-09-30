@@ -5,15 +5,6 @@ status: unread
 ---
 # unmoving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arousing emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, alas, to make me A fixed figure for the time of scorn To point his slow unmoving finger at."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Standing close, they spoke through unmoving lips."*
-> - 📜 **Effie Afton (*Eventide*):** *"Folded we the tiny fingers On the cold, unmoving breast; Robed her in a decent garment, For her long and dreamless rest; And when o'er the tranquil Sabbath Evening's rays began to fall, Followed her with heavy footsteps To the home that waits us all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arousing emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, alas, to make me A fixed figure for the time of scorn To point his slow unmoving finger at."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Standing close, they spoke through unmoving lips."*
+> - 📜 **Effie Afton (*Eventide*):** *"Folded we the tiny fingers On the cold, unmoving breast; Robed her in a decent garment, For her long and dreamless rest; And when o'er the tranquil Sabbath Evening's rays began to fall, Followed her with heavy footsteps To the home that waits us all."*

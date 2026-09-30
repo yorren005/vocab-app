@@ -5,15 +5,6 @@ status: unread
 ---
 # covert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flock of coots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering that serves to conceal or shelter something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak of peace, while covert enmity Under the smile of safety wounds the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this thick-grown brake we’ll shroud ourselves, For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer. 2 KEEPER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore let our alliance be combin’d, Our best friends made, our means stretch’d; And let us presently go sit in council, How covert matters may be best disclos’d, And open perils surest answered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flock of coots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering that serves to conceal or shelter something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak of peace, while covert enmity Under the smile of safety wounds the world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this thick-grown brake we’ll shroud ourselves, For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer. 2 KEEPER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore let our alliance be combin’d, Our best friends made, our means stretch’d; And let us presently go sit in council, How covert matters may be best disclos’d, And open perils surest answered."*

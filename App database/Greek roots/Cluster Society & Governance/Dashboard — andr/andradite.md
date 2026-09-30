@@ -5,13 +5,6 @@ status: unread
 ---
 # andradite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andradite designates a garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andradite designates a garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone."*

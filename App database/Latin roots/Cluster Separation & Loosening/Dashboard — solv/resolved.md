@@ -5,15 +5,6 @@ status: unread
 ---
 # resolved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end; settle conclusively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reach a conclusion after a discussion or deliberation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have myself resolved upon a course Which has no need of you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are all resolved rather to die than to famish?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you all resolved to give your voices?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end; settle conclusively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reach a conclusion after a discussion or deliberation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have myself resolved upon a course Which has no need of you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are all resolved rather to die than to famish?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you all resolved to give your voices?"*

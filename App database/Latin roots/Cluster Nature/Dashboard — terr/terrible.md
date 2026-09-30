@@ -5,15 +5,6 @@ status: unread
 ---
 # terrible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing fear or dread or terror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally bad or displeasing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All strange and terrible events are welcome, But comforts we despise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing fear or dread or terror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally bad or displeasing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All strange and terrible events are welcome, But comforts we despise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wast a soldier Even to Cato’s wish, not fierce and terrible Only in strokes, but with thy grim looks and The thunderlike percussion of thy sounds Thou mad’st thine enemies shake, as if the world Were feverous and did tremble."*

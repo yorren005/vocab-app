@@ -5,15 +5,6 @@ status: unread
 ---
 # solvency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to meet maturing obligations as they come due.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to meet maturing obligations as they come due.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The total reserve is essential to the solvency of the company and the payment of all the policies as they fall due."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For, we always ran into new debt immediately, to the full extent of the margin, and sometimes, in the sense of freedom and solvency it imparted, got pretty far on into another margin."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"So first, what guarantee have I of your means and solvency?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to meet maturing obligations as they come due.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to meet maturing obligations as they come due.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The total reserve is essential to the solvency of the company and the payment of all the policies as they fall due."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"For, we always ran into new debt immediately, to the full extent of the margin, and sometimes, in the sense of freedom and solvency it imparted, got pretty far on into another margin."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"So first, what guarantee have I of your means and solvency?"*

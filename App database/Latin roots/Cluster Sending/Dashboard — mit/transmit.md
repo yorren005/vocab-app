@@ -5,15 +5,6 @@ status: unread
 ---
 # transmit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit or serve as the medium for transmission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Social effects of the right to transmit property. § 4."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But please transmit th’ enclosed letter,—Igo, and ago, Which will oblige your humble debtor.—Iram, coram, dago."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electricity produced passes forward, where it works, by electro-magnets of great size, on a system of levers and cog-wheels that transmit the movement to the axle of the screw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit or serve as the medium for transmission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Social effects of the right to transmit property. § 4."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But please transmit th’ enclosed letter,—Igo, and ago, Which will oblige your humble debtor.—Iram, coram, dago."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electricity produced passes forward, where it works, by electro-magnets of great size, on a system of levers and cog-wheels that transmit the movement to the axle of the screw."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # illogical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in correct logical relation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking orderly continuity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inelasticity was necessitated by illogical federal and state laws restricting absolutely the further extension of credit when the reserves fell below the percentage of deposits (15 or 25 per cent) fixed by law."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As a result of these changes the state laws display a bewildering and illogical variety."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I spoke in deep, impressive tones:-- "Mr Maplestone, I'm sorry, but you are illogical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in correct logical relation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking orderly continuity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inelasticity was necessitated by illogical federal and state laws restricting absolutely the further extension of credit when the reserves fell below the percentage of deposits (15 or 25 per cent) fixed by law."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As a result of these changes the state laws display a bewildering and illogical variety."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I spoke in deep, impressive tones:-- "Mr Maplestone, I'm sorry, but you are illogical."*

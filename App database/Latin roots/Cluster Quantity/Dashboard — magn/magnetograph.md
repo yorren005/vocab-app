@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetograph designates a scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetograph designates a scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field)."*

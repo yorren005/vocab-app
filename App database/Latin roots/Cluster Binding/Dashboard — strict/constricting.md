@@ -5,15 +5,6 @@ status: unread
 ---
 # constricting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Squeeze or press together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become tight or as if tight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I found that I could suspend animation by the exercise of my will, aided mechanically by constricting my chest and abdomen with the blanket."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What my sensations were, no language can describe; but just as they all rose, stifling my breath and constricting my throat, a girl came up and passed me: in passing, she lifted her eyes."*
-> - 📜 **Algis Budrys (*Citadel*):** *"He grunted softly with breath that had to force its way past the constricting weight of his hunched chest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Squeeze or press together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become tight or as if tight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I found that I could suspend animation by the exercise of my will, aided mechanically by constricting my chest and abdomen with the blanket."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What my sensations were, no language can describe; but just as they all rose, stifling my breath and constricting my throat, a girl came up and passed me: in passing, she lifted her eyes."*
+> - 📜 **Algis Budrys (*Citadel*):** *"He grunted softly with breath that had to force its way past the constricting weight of his hunched chest."*

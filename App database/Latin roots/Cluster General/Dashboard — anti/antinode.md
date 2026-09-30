@@ -5,13 +5,6 @@ status: unread
 ---
 # antinode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the point of maximum displacement in a periodic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the point of maximum displacement in a periodic system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinode designates (physics) the point of maximum displacement in a periodic system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the point of maximum displacement in a periodic system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the point of maximum displacement in a periodic system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinode designates (physics) the point of maximum displacement in a periodic system."*

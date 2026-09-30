@@ -5,15 +5,6 @@ status: unread
 ---
 # perceptibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noticeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noticeable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I shall do one thing in this life—one thing certain—that is, love you, and long for you, and _keep wanting you_ till I die.” His voice had a genuine pathos now, and his large brown hands perceptibly trembled."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The minutes glided by uncounted, until the evening shades began perceptibly to deepen, and the eyes of the three were but sparkling points on the surface of darkness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the weeks intervening between the night of this conversation and Christmas day began perceptibly to diminish, her anxiety and perplexity increased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noticeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noticeable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I shall do one thing in this life—one thing certain—that is, love you, and long for you, and _keep wanting you_ till I die.” His voice had a genuine pathos now, and his large brown hands perceptibly trembled."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The minutes glided by uncounted, until the evening shades began perceptibly to deepen, and the eyes of the three were but sparkling points on the surface of darkness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the weeks intervening between the night of this conversation and Christmas day began perceptibly to diminish, her anxiety and perplexity increased."*

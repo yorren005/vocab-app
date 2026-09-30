@@ -5,15 +5,6 @@ status: unread
 ---
 # incubation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintaining something at the most favorable temperature for its development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) the phase in the development of an infection between the time a pathogen enters the body and the time the first symptoms appear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For _egkolmesis_ or _incubatio_ see Mary Hamilton, _Incubation_ (1906) [84] Clem."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Translation of Mary Hamilton, in her _Incubation_, p. 41 (1906). [52] I agree with the view of Schubart quoted by J."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For Aristides see Hamilton, _Incubation_, pt. i. ch. 3, and Dill, _Roman Society from Nero to Marcus Aurelius_, bk. iv. ch. 1."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintaining something at the most favorable temperature for its development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) the phase in the development of an infection between the time a pathogen enters the body and the time the first symptoms appear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For _egkolmesis_ or _incubatio_ see Mary Hamilton, _Incubation_ (1906) [84] Clem."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Translation of Mary Hamilton, in her _Incubation_, p. 41 (1906). [52] I agree with the view of Schubart quoted by J."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For Aristides see Hamilton, _Incubation_, pt. i. ch. 3, and Dill, _Roman Society from Nero to Marcus Aurelius_, bk. iv. ch. 1."*

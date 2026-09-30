@@ -5,15 +5,6 @@ status: unread
 ---
 # septic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or resulting from disease-causing organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by putrefaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The cup is clean enough without; it is septic and poisonous within--and from which side of it do you drink, outside or inside? (Matt. 23:25)."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If our modern medical language may be applied--and Jesus used the analogy of medicine in this very case (Mark 2:17)--sin is septic."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The surgeons attributed it to the septic condition of the blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or resulting from disease-causing organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by putrefaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The cup is clean enough without; it is septic and poisonous within--and from which side of it do you drink, outside or inside? (Matt. 23:25)."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If our modern medical language may be applied--and Jesus used the analogy of medicine in this very case (Mark 2:17)--sin is septic."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The surgeons attributed it to the septic condition of the blood."*

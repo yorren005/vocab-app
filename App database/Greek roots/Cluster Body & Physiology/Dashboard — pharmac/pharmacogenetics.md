@@ -5,13 +5,6 @@ status: unread
 ---
 # pharmacogenetics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of how genetic differences among individuals cause varied responses to a drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of how genetic differences among individuals cause varied responses to a drug.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacogenetics designates the study of how genetic differences among individuals cause varied responses to a drug."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of how genetic differences among individuals cause varied responses to a drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of how genetic differences among individuals cause varied responses to a drug.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacogenetics designates the study of how genetic differences among individuals cause varied responses to a drug."*

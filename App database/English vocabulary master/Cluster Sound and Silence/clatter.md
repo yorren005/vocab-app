@@ -5,20 +5,6 @@ status: unread
 ---
 # clatter
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make a rattling sound
-> 2. **Nuance / Usage**: Talk noisily or rapidly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to clatter the target*) and intransitive clauses (*clattering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"me, and there is a clatter of a donkey’s hoofs up the paved road below."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"minute yah heard t’ maister’s horse-fit clatter up t’ road."*
-> - 📜 **Gwen White (*Antique Toys And Their Background*):** *"[Hoop-and-stick] was not a little gentleman's game but was played by boys in heavy boots making a terrific noise as they clattered along on the pavements at quite a speed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A rapid, continuous rattling sound produced by hard objects striking against one another (such as hooves on cobblestones or dishes in a kitchen); to make or move with such a sound.
+> 2. **Nuance / Usage**: Figuratively, noisy, rapid, and idle chatter or commotion.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to clatter the target*) and intransitive clauses (*clattering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"From the window I heard the sharp **clatter** of a donkey’s hoofs up the paved road below."*
+> - 📜 **Clement Clarke Moore (*A Visit from St. Nicholas*):** *"When out on the lawn there arose such a **clatter**, I sprang from the bed to see what was the matter."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"In another minute we heard the master’s horse **clatter** up the stony road."*

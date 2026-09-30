@@ -5,15 +5,6 @@ status: unread
 ---
 # studying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reading carefully with intent to remember.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So help me God, as I have watched the night, Ay, night by night, in studying good for England!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been studying how I may compare This prison where I live unto the world; And for because the world is populous And here is not a creature but myself, I cannot do it."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt had climbed a tree and from the highest branch he could reach was searchingly studying the castle, as if something special was to be discovered there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reading carefully with intent to remember.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So help me God, as I have watched the night, Ay, night by night, in studying good for England!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been studying how I may compare This prison where I live unto the world; And for because the world is populous And here is not a creature but myself, I cannot do it."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt had climbed a tree and from the highest branch he could reach was searchingly studying the castle, as if something special was to be discovered there."*

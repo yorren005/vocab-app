@@ -5,15 +5,6 @@ status: unread
 ---
 # archbishop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop of highest rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bishop of highest rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archbishop’s Palace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SIR MICHAEL, a friend to the archbishop of York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy, Northumberland, The Archbishop’s Grace of York, Douglas, Mortimer, Capitulate against us and are up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop of highest rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bishop of highest rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archbishop’s Palace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SIR MICHAEL, a friend to the archbishop of York."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy, Northumberland, The Archbishop’s Grace of York, Douglas, Mortimer, Capitulate against us and are up."*

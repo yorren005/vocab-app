@@ -5,13 +5,6 @@ status: unread
 ---
 # mesomorphy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular and big-boned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular and big-boned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesomorphy designates muscular and big-boned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular and big-boned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular and big-boned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesomorphy designates muscular and big-boned."*

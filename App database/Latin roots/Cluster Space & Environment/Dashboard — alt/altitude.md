@@ -5,15 +5,6 @@ status: unread
 ---
 # altitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elevation especially above sea level or above the earth's surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though soft-conscienced men can be content to say it was for his country, he did it to please his mother and to be partly proud, which he is, even to the altitude of his virtue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By’r lady, your ladyship is nearer to heaven than when I saw you last, by the altitude of a chopine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten masts at each make not the altitude Which thou hast perpendicularly fell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elevation especially above sea level or above the earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though soft-conscienced men can be content to say it was for his country, he did it to please his mother and to be partly proud, which he is, even to the altitude of his virtue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By’r lady, your ladyship is nearer to heaven than when I saw you last, by the altitude of a chopine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten masts at each make not the altitude Which thou hast perpendicularly fell."*

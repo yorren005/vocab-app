@@ -5,13 +5,6 @@ status: unread
 ---
 # ballistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of the motion of projectiles in flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely and usually suddenly excited, upset, or angry : wild.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Intercontinental nuclear-armed ballistic missiles were far beyond drawing boards; their operational reach, capabilities, and effects against civilian as well as military targets had been carefully estimated and understood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of the motion of projectiles in flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely and usually suddenly excited, upset, or angry : wild.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Intercontinental nuclear-armed ballistic missiles were far beyond drawing boards; their operational reach, capabilities, and effects against civilian as well as military targets had been carefully estimated and understood."*

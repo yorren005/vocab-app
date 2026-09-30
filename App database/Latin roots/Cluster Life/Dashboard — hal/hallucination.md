@@ -5,15 +5,6 @@ status: unread
 ---
 # hallucination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Illusory perception; a common symptom of severe mental disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistaken or unfounded opinion or idea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was very terrible if true; if a temporary hallucination, sad."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon must have raised some heroic hallucination in her."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How glad and how grateful the relief from this unnatural hallucination of the night, and the fatal contingency of being brought by the lee!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Illusory perception; a common symptom of severe mental disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistaken or unfounded opinion or idea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was very terrible if true; if a temporary hallucination, sad."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon must have raised some heroic hallucination in her."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How glad and how grateful the relief from this unnatural hallucination of the night, and the fatal contingency of being brought by the lee!"*

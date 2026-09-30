@@ -5,15 +5,6 @@ status: unread
 ---
 # plantation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estate where cash crops are grown on a large scale (especially in tropical areas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newly established colony (especially in the colonization of north america).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I plantation of this isle, my lord,— ANTONIO."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As it was not a time for standing among trees, we ran out of the wood, and up and down the moss-grown steps which crossed the plantation-fence like two broad-staved ladders placed back to back, and made for a keeper’s lodge which was close at hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hill was covered on its northern side by an ancient and decaying plantation of beeches, whose upper verge formed a line over the crest, fringing its arched curve against the sky, like a mane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estate where cash crops are grown on a large scale (especially in tropical areas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newly established colony (especially in the colonization of north america).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I plantation of this isle, my lord,— ANTONIO."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As it was not a time for standing among trees, we ran out of the wood, and up and down the moss-grown steps which crossed the plantation-fence like two broad-staved ladders placed back to back, and made for a keeper’s lodge which was close at hand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hill was covered on its northern side by an ancient and decaying plantation of beeches, whose upper verge formed a line over the crest, fringing its arched curve against the sky, like a mane."*

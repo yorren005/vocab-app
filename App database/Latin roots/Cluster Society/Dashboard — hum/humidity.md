@@ -5,15 +5,6 @@ status: unread
 ---
 # humidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wetness in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wetness in the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll use this unwholesome humidity, this gross watery pumpion; we’ll teach him to know turtles from jays."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O blessed breeding sun, draw from the earth Rotten humidity, below thy sister’s orb Infect the air!"*
-> - 📜 **Algis Budrys (*Citadel*):** *"There was too much nostalgia concentrated here, along with the humidity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wetness in the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wetness in the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll use this unwholesome humidity, this gross watery pumpion; we’ll teach him to know turtles from jays."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O blessed breeding sun, draw from the earth Rotten humidity, below thy sister’s orb Infect the air!"*
+> - 📜 **Algis Budrys (*Citadel*):** *"There was too much nostalgia concentrated here, along with the humidity."*

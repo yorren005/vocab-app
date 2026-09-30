@@ -5,15 +5,6 @@ status: unread
 ---
 # collection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Several things grouped together or considered as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A publication containing a variety of works.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I wak’d, I found This label on my bosom; whose containing Is so from sense in hardness that I can Make no collection of it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Their lives, poor silly things, are so short in comparison with Chancery proceedings that, one by one, the whole collection has died over and over again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Certainly, a collection of horrors,” says my Lady, gathering up her mantles and furs, “but they interest one for the moment!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Several things grouped together or considered as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A publication containing a variety of works.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I wak’d, I found This label on my bosom; whose containing Is so from sense in hardness that I can Make no collection of it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Their lives, poor silly things, are so short in comparison with Chancery proceedings that, one by one, the whole collection has died over and over again."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Certainly, a collection of horrors,” says my Lady, gathering up her mantles and furs, “but they interest one for the moment!"*

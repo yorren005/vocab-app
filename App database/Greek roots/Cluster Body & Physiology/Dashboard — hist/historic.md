@@ -5,15 +5,6 @@ status: unread
 ---
 # historic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the past; of what is important or famous in the past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important in history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The district is of historic, no less than of topographical interest."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That curiously historic worn-out family with its ghostly legend of the coach-and-four?” “O no."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The historic interest of her family—that masterful line of d’Urbervilles—whom he had despised as a spent force, touched his sentiments now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the past; of what is important or famous in the past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important in history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The district is of historic, no less than of topographical interest."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That curiously historic worn-out family with its ghostly legend of the coach-and-four?” “O no."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The historic interest of her family—that masterful line of d’Urbervilles—whom he had despised as a spent force, touched his sentiments now."*

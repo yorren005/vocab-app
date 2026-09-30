@@ -5,13 +5,6 @@ status: unread
 ---
 # agamospermy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agamospermy designates development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agamospermy designates development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # iconoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoscope designates the first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoscope designates the first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin."*

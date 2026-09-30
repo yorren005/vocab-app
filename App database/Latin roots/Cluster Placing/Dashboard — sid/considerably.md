@@ -5,15 +5,6 @@ status: unread
 ---
 # considerably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a great extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a great extent or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby required a good deal of attention, the lattice-work up her back having widened considerably since I first knew her and her hair looking like the mane of a dustman’s horse."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s house, as large as life; in fact, considerably larger, making a very temple of it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you had perused this document, you would have seen that it reduces your interest considerably, though still leaving it a very handsome one, still leaving it a very handsome one,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a great extent or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a great extent or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby required a good deal of attention, the lattice-work up her back having widened considerably since I first knew her and her hair looking like the mane of a dustman’s horse."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s house, as large as life; in fact, considerably larger, making a very temple of it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If you had perused this document, you would have seen that it reduces your interest considerably, though still leaving it a very handsome one, still leaving it a very handsome one,” said Mr."*

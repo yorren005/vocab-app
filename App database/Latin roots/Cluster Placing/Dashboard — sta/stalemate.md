@@ -5,13 +5,6 @@ status: unread
 ---
 # stalemate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress can be made or no advancement is possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawing position in chess: any of a player's possible moves would place his king in check.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I like neither Bulstrode nor speculation.” He spoke rather sulkily, feeling himself stalemated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress can be made or no advancement is possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawing position in chess: any of a player's possible moves would place his king in check.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I like neither Bulstrode nor speculation.” He spoke rather sulkily, feeling himself stalemated."*

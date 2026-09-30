@@ -5,14 +5,6 @@ status: unread
 ---
 # rusticate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Live in the country and lead a rustic life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send to the country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Go on down and rusticate with your relatives for the summer, and fly the bats in your belfry at the old moss-backs, while I am getting this Cincinnati and Gulf Stations commission under way."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura-- may I say it?--while rusticating in Arden you haven't forgotten certain talents you used to possess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Live in the country and lead a rustic life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send to the country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Go on down and rusticate with your relatives for the summer, and fly the bats in your belfry at the old moss-backs, while I am getting this Cincinnati and Gulf Stations commission under way."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura-- may I say it?--while rusticating in Arden you haven't forgotten certain talents you used to possess."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reserve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formality and propriety of manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something kept back or saved for future use or a special purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Dromio, come, these jests are out of season, Reserve them till a merrier hour than this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No reason I, since of your lives you set So slight a valuation, should reserve My crack’d one to more care."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give every man thine ear, but few thy voice: Take each man’s censure, but reserve thy judgement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formality and propriety of manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something kept back or saved for future use or a special purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Dromio, come, these jests are out of season, Reserve them till a merrier hour than this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No reason I, since of your lives you set So slight a valuation, should reserve My crack’d one to more care."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give every man thine ear, but few thy voice: Take each man’s censure, but reserve thy judgement."*

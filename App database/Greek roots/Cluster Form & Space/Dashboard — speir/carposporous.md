@@ -5,13 +5,6 @@ status: unread
 ---
 # carposporous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having carpospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having carpospores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporous designates having carpospores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having carpospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having carpospores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporous designates having carpospores."*

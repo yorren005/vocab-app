@@ -5,13 +5,6 @@ status: unread
 ---
 # languedoc-roussillon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region in south central france; named after the medieval dialect of french that was spoken there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region in south central france; named after the medieval dialect of french that was spoken there.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, languedoc-roussillon designates a region in south central france; named after the medieval dialect of french that was spoken there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region in south central france; named after the medieval dialect of french that was spoken there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region in south central france; named after the medieval dialect of french that was spoken there.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, languedoc-roussillon designates a region in south central france; named after the medieval dialect of french that was spoken there."*

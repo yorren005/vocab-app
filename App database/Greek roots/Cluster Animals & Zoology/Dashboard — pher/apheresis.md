@@ -5,13 +5,6 @@ status: unread
 ---
 # apheresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apheresis designates (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apheresis designates (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'."*

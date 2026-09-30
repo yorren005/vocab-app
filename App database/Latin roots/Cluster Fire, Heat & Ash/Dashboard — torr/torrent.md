@@ -5,15 +5,6 @@ status: unread
 ---
 # torrent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy rain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violently fast stream of water (or other liquid).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The torrent roar’d, and we did buffet it With lusty sinews, throwing it aside And stemming it with hearts of controversy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the rain fell in a steady and ceaseless torrent the stream dashed downward in volumes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy rain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violently fast stream of water (or other liquid).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The torrent roar’d, and we did buffet it With lusty sinews, throwing it aside And stemming it with hearts of controversy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the rain fell in a steady and ceaseless torrent the stream dashed downward in volumes."*

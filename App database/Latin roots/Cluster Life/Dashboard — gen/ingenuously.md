@@ -5,15 +5,6 @@ status: unread
 ---
 # ingenuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ingenuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ingenuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee, be not sad, Thou art true and honest, ingenuously I speak, No blame belongs to thee."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It would be a unique delight to wait and watch for the melodious fragments in which her heart and soul came forth so directly and ingenuously."*
-> - 📜 **Effie Afton (*Eventide*):** *"To thank you for all your kindness to her," replied the lad, ingenuously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ingenuous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ingenuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee, be not sad, Thou art true and honest, ingenuously I speak, No blame belongs to thee."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It would be a unique delight to wait and watch for the melodious fragments in which her heart and soul came forth so directly and ingenuously."*
+> - 📜 **Effie Afton (*Eventide*):** *"To thank you for all your kindness to her," replied the lad, ingenuously."*

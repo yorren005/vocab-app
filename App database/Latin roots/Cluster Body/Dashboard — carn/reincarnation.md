@@ -5,15 +5,6 @@ status: unread
 ---
 # reincarnation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Embodiment in a new form (especially the reappearance or a person in another form).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second or new birth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A study of family portraits is enough to convert a man to the doctrine of reincarnation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The reverence which the Shilluk pay to their king appears to arise chiefly from the conviction that he is a reincarnation of the spirit of Nyakang, the semi-divine hero who founded the dynasty and settled the tribe in their present territory."*
-> - 📜 **James Joyce (*Ulysses*):** *"Reincarnation: that’s the word. —Some people believe, he said, that we go on living in another body after death, that we lived before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Embodiment in a new form (especially the reappearance or a person in another form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second or new birth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A study of family portraits is enough to convert a man to the doctrine of reincarnation."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The reverence which the Shilluk pay to their king appears to arise chiefly from the conviction that he is a reincarnation of the spirit of Nyakang, the semi-divine hero who founded the dynasty and settled the tribe in their present territory."*
+> - 📜 **James Joyce (*Ulysses*):** *"Reincarnation: that’s the word. —Some people believe, he said, that we go on living in another body after death, that we lived before."*

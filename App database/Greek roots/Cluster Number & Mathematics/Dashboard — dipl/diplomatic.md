@@ -5,15 +5,6 @@ status: unread
 ---
 # diplomatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paleographic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exactly reproducing the original.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes governments have used embargoes, bounties, or tariffs as weapons to injure the trade of other nations and to secure diplomatic or commercial concessions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And he delivered this statement with as much careful precision as if he had been a diplomatic envoy whose words would be attended with results."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he set about acting on his views in a thoroughly diplomatic manner, by stimulating suspicion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paleographic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exactly reproducing the original.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes governments have used embargoes, bounties, or tariffs as weapons to injure the trade of other nations and to secure diplomatic or commercial concessions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And he delivered this statement with as much careful precision as if he had been a diplomatic envoy whose words would be attended with results."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But he set about acting on his views in a thoroughly diplomatic manner, by stimulating suspicion."*

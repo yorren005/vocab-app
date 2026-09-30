@@ -5,15 +5,6 @@ status: unread
 ---
 # indigestion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of digestive function characterized by discomfort or heartburn or nausea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of digestive function characterized by discomfort or heartburn or nausea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We used to canvass whether his wife bullied him or whether he had chronic indigestion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have often thought that Kwan Yung-jin suffered from indigestion, and that when the attacks were acute he took it out on us."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Without poetry, the progress of science and of the mechanical arts results in mental and moral indigestion, merely exasperating the inequality of mankind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of digestive function characterized by discomfort or heartburn or nausea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of digestive function characterized by discomfort or heartburn or nausea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We used to canvass whether his wife bullied him or whether he had chronic indigestion."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have often thought that Kwan Yung-jin suffered from indigestion, and that when the attacks were acute he took it out on us."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Without poetry, the progress of science and of the mechanical arts results in mental and moral indigestion, merely exasperating the inequality of mankind."*

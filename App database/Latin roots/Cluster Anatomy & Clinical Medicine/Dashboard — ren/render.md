@@ -5,15 +5,6 @@ status: unread
 ---
 # render
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance similar to stucco but exclusively applied to masonry walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance similar to stucco but exclusively applied to masonry walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*

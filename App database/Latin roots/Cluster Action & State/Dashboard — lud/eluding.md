@@ -5,15 +5,6 @@ status: unread
 ---
 # eluding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of avoiding capture (especially by cunning).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Escape, either physically or mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sanguine by nature, Troy had a power of eluding grief by simply adjourning it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He saw no way of eluding Featherstone’s stupid demand without incurring consequences which he liked less even than the task of fulfilling it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had taken a cruelly effective means of hindering her: even with indignation against him in her heart, any act that seemed a triumphant eluding of his purpose revolted her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of avoiding capture (especially by cunning).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Escape, either physically or mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sanguine by nature, Troy had a power of eluding grief by simply adjourning it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He saw no way of eluding Featherstone’s stupid demand without incurring consequences which he liked less even than the task of fulfilling it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had taken a cruelly effective means of hindering her: even with indignation against him in her heart, any act that seemed a triumphant eluding of his purpose revolted her."*

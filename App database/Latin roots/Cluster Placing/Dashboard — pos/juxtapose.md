@@ -5,13 +5,6 @@ status: unread
 ---
 # juxtapose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place side by side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place side by side.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they were together the Jacobean and the Victorian ages were juxtaposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place side by side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place side by side.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they were together the Jacobean and the Victorian ages were juxtaposed."*

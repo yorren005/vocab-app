@@ -5,14 +5,6 @@ status: unread
 ---
 # detachable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be unfastened or disconnected without damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to be unfastened or disconnected without damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This "head," as it is termed, is detachable, so that it can be left off until it is really required for war."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jews had a parallel belief in angels, and had come to think of God's spirit and God's intelligence as somehow detachable from his being."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be unfastened or disconnected without damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to be unfastened or disconnected without damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This "head," as it is termed, is detachable, so that it can be left off until it is really required for war."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jews had a parallel belief in angels, and had come to think of God's spirit and God's intelligence as somehow detachable from his being."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # electrician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who installs or repairs electrical or telephone lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who installs or repairs electrical or telephone lines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Before describing it, it may sharpen the reader's interest to mention a wonderful experiment which was made by Varley, the famous electrician, on the first successful Atlantic cable."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"What the farmer would call a short cut the electrician calls a short circuit, and a short circuit is often a more convenient way of cutting off a current than a switch which interposes resistance."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electricians on board resolved to cut the cable before fishing it up, and at eleven o’clock at night they had recovered the damaged part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who installs or repairs electrical or telephone lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who installs or repairs electrical or telephone lines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Before describing it, it may sharpen the reader's interest to mention a wonderful experiment which was made by Varley, the famous electrician, on the first successful Atlantic cable."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"What the farmer would call a short cut the electrician calls a short circuit, and a short circuit is often a more convenient way of cutting off a current than a switch which interposes resistance."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electricians on board resolved to cut the cable before fishing it up, and at eleven o’clock at night they had recovered the damaged part."*

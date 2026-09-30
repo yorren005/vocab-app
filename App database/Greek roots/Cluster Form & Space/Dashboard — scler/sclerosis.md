@@ -5,13 +5,6 @@ status: unread
 ---
 # sclerosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological hardening of tissue especially from overgrowth of fibrous tissue or increase in interstitial tissue; also : a disease characterized by sclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability or reluctance to adapt or compromise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerosis designates pathological hardening of tissue especially from overgrowth of fibrous tissue or increase in interstitial tissue; also : a disease characterized by sclerosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological hardening of tissue especially from overgrowth of fibrous tissue or increase in interstitial tissue; also : a disease characterized by sclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability or reluctance to adapt or compromise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerosis designates pathological hardening of tissue especially from overgrowth of fibrous tissue or increase in interstitial tissue; also : a disease characterized by sclerosis."*

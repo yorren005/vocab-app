@@ -5,13 +5,6 @@ status: unread
 ---
 # macrocephalous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an exceptionally large head and brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an exceptionally large head and brain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"No one could better describe the macrocephalous cachalot, which is sometimes more than seventy-five feet long."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an exceptionally large head and brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an exceptionally large head and brain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"No one could better describe the macrocephalous cachalot, which is sometimes more than seventy-five feet long."*

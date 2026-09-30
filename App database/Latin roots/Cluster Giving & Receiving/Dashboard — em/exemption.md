@@ -5,15 +5,6 @@ status: unread
 ---
 # exemption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunity from an obligation or duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this as in other branches of study it is the fate of theories to be washed away like children's castles of sand by the rising tide of knowledge, and I am not so presumptuous as to expect or desire for mine an exemption from the common lot."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She didn't hurt the baby on purpose." "I shall try to do what is best for her, my little girl, though I very much doubt if that is exemption from punishment," he said with an involuntary sigh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunity from an obligation or duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this as in other branches of study it is the fate of theories to be washed away like children's castles of sand by the rising tide of knowledge, and I am not so presumptuous as to expect or desire for mine an exemption from the common lot."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She didn't hurt the baby on purpose." "I shall try to do what is best for her, my little girl, though I very much doubt if that is exemption from punishment," he said with an involuntary sigh."*

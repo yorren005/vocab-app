@@ -5,13 +5,6 @@ status: unread
 ---
 # tetanus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute infectious bacterial disease characterized by tonic spasm of voluntary muscles especially of the jaw and caused by an exotoxin of a clostridium (Clostridium tetani) which is usually introduced through a wound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bacterium that causes tetanus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Moreover, they are careful to keep the bow-string taut and to twang it occasionally, for this will cause the wounded man to suffer from tension of the nerves and spasms of tetanus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute infectious bacterial disease characterized by tonic spasm of voluntary muscles especially of the jaw and caused by an exotoxin of a clostridium (Clostridium tetani) which is usually introduced through a wound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bacterium that causes tetanus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Moreover, they are careful to keep the bow-string taut and to twang it occasionally, for this will cause the wounded man to suffer from tension of the nerves and spasms of tetanus."*

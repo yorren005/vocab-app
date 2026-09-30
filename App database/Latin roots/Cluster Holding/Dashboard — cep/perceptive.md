@@ -5,15 +5,6 @@ status: unread
 ---
 # perceptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to perceive or understand; keen in discernment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Perceptive grandparents see the world through a grandchild's imagination."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"The mind needs diversion, recreation, rest; and any mentality kept at a certain tension for more than seven or eight hours per day will sooner or later lose its keen perceptive powers."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It did not yield to her hand; and the white curtain, drawn across the window which formed the upper section of the door, struck her quick perceptive faculty as something unusual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to perceive or understand; keen in discernment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Perceptive grandparents see the world through a grandchild's imagination."*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"The mind needs diversion, recreation, rest; and any mentality kept at a certain tension for more than seven or eight hours per day will sooner or later lose its keen perceptive powers."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It did not yield to her hand; and the white curtain, drawn across the window which formed the upper section of the door, struck her quick perceptive faculty as something unusual."*

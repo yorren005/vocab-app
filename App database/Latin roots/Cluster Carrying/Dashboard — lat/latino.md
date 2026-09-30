@@ -5,13 +5,6 @@ status: unread
 ---
 # latino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native of latin america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based on words common to the romance languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latino designates a native of latin america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native of latin america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based on words common to the romance languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latino designates a native of latin america."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # centr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Everybody’s glance was now centred upon him and the unconscious Bathsheba."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only a mind, a soul, a consciousness—call it what you will—incorporate in a nebulous brain that, while it still centred inside my skull, was expanded, and was continuing to expand, beyond my skull."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Tilney should ask her a third time to dance, her wishes, hopes, and plans all centred in nothing less."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Everybody’s glance was now centred upon him and the unconscious Bathsheba."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only a mind, a soul, a consciousness—call it what you will—incorporate in a nebulous brain that, while it still centred inside my skull, was expanded, and was continuing to expand, beyond my skull."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Tilney should ask her a third time to dance, her wishes, hopes, and plans all centred in nothing less."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # located
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover the location of; determine the place of; find by searching or examining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine or indicate the place, site, or limits of, as if by an instrument or by a survey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I gave no sign, made no move, until I had located him and distanced him."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then, too, the rate may intentionally be fixed so as to make just possible the survival of the most favorably located or most efficiently operated establishments, while compelling the abandonment of other establishments."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer selected you, showed where each of you was located and why, and that you were all, shall we say, relatively unknown and available."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover the location of; determine the place of; find by searching or examining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine or indicate the place, site, or limits of, as if by an instrument or by a survey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I gave no sign, made no move, until I had located him and distanced him."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then, too, the rate may intentionally be fixed so as to make just possible the survival of the most favorably located or most efficiently operated establishments, while compelling the abandonment of other establishments."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer selected you, showed where each of you was located and why, and that you were all, shall we say, relatively unknown and available."*

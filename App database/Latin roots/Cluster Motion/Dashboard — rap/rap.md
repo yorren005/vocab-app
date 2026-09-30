@@ -5,15 +5,6 @@ status: unread
 ---
 # rap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reproach for some lapse or misdeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gentle blow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Villain, I say, knock me at this gate; And rap me well, or I’ll knock your knave’s pate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this be not a lawful cause for me to leave his service, look you, sir, he bid me knock him and rap him soundly, sir: well, was it fit for a servant to use his master so; being, perhaps, for aught I see, two-and-thirty, a pip out?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spake you not these words plain: ‘Sirrah knock me here, rap me here, knock me well, and knock me soundly’?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reproach for some lapse or misdeed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gentle blow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Villain, I say, knock me at this gate; And rap me well, or I’ll knock your knave’s pate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this be not a lawful cause for me to leave his service, look you, sir, he bid me knock him and rap him soundly, sir: well, was it fit for a servant to use his master so; being, perhaps, for aught I see, two-and-thirty, a pip out?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spake you not these words plain: ‘Sirrah knock me here, rap me here, knock me well, and knock me soundly’?"*

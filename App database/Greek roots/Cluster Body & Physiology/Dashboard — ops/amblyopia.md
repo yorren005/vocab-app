@@ -5,13 +5,6 @@ status: unread
 ---
 # amblyopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblyopia designates reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblyopia designates reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye."*

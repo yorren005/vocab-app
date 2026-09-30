@@ -5,15 +5,6 @@ status: unread
 ---
 # spectacular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lavishly produced performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensational in appearance or thrilling in effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am trying to--" "Polk said last night that he thought it would be much more spectacular for all the good looking women in town to go when we are invited to Mrs."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need an exercise that is sufficiently visible, even spectacular, to make both the UIPS and our INOR allies respect our will and capabilities to use organized military forces throughout our legitimate jurisdiction."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"THE INDIVIDUAL BAHÁ'Í MUST ARISE There can be no doubt whatever that to achieve this fourfold purpose is the most strenuous, the least spectacular, and the most challenging of the tasks now confronting the American Bahá'í Community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lavishly produced performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensational in appearance or thrilling in effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am trying to--" "Polk said last night that he thought it would be much more spectacular for all the good looking women in town to go when we are invited to Mrs."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need an exercise that is sufficiently visible, even spectacular, to make both the UIPS and our INOR allies respect our will and capabilities to use organized military forces throughout our legitimate jurisdiction."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"THE INDIVIDUAL BAHÁ'Í MUST ARISE There can be no doubt whatever that to achieve this fourfold purpose is the most strenuous, the least spectacular, and the most challenging of the tasks now confronting the American Bahá'í Community."*

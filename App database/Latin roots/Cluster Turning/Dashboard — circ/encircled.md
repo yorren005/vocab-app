@@ -5,15 +5,6 @@ status: unread
 ---
 # encircled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a circle around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind with something round or circular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When they came, he encircled Ada with one arm in his fatherly way and addressed himself to Richard with a cheerful gravity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is strangely reminded of another infant, encircled with light, that he has seen in pictures."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Until she had met Troy, Bathsheba had been proud of her position as a woman; it had been a glory to her to know that her lips had been touched by no man’s on earth—that her waist had never been encircled by a lover’s arm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a circle around.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind with something round or circular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"When they came, he encircled Ada with one arm in his fatherly way and addressed himself to Richard with a cheerful gravity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is strangely reminded of another infant, encircled with light, that he has seen in pictures."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Until she had met Troy, Bathsheba had been proud of her position as a woman; it had been a glory to her to know that her lips had been touched by no man’s on earth—that her waist had never been encircled by a lover’s arm."*

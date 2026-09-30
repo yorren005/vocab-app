@@ -5,13 +5,6 @@ status: unread
 ---
 # superslasher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superslasher designates large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superslasher designates large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot; early cretaceous."*

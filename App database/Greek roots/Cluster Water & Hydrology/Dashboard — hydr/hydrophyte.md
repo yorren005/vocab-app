@@ -5,15 +5,6 @@ status: unread
 ---
 # hydrophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I noticed that the green plants kept nearer the top of the sea, whilst the red were at a greater depth, leaving to the black or brown hydrophytes the care of forming gardens and parterres in the remote beds of the ocean."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But for some minutes I involuntarily confounded the genera, taking zoophytes for hydrophytes, animals for plants; and who would not have been mistaken?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In the midst of these living plants, and under the arbours of the hydrophytes, were layers of clumsy articulates, particularly some raninae, whose carapace formed a slightly rounded triangle; and some horrible looking parthenopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I noticed that the green plants kept nearer the top of the sea, whilst the red were at a greater depth, leaving to the black or brown hydrophytes the care of forming gardens and parterres in the remote beds of the ocean."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But for some minutes I involuntarily confounded the genera, taking zoophytes for hydrophytes, animals for plants; and who would not have been mistaken?"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In the midst of these living plants, and under the arbours of the hydrophytes, were layers of clumsy articulates, particularly some raninae, whose carapace formed a slightly rounded triangle; and some horrible looking parthenopes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # corporatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Control of a state or organization by large interest groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control of a state or organization by large interest groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corporatism designates control of a state or organization by large interest groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Control of a state or organization by large interest groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control of a state or organization by large interest groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corporatism designates control of a state or organization by large interest groups."*

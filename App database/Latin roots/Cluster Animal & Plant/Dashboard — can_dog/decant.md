@@ -5,15 +5,6 @@ status: unread
 ---
 # decant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pour out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"No fighting, indeed, but folks lying drunk on the floor, and decanting, until both my dogs got so drunk by attending them, that they could not stand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pour out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"No fighting, indeed, but folks lying drunk on the floor, and decanting, until both my dogs got so drunk by attending them, that they could not stand."*

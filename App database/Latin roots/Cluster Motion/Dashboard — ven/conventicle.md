@@ -5,14 +5,6 @@ status: unread
 ---
 # conventicle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret unauthorized meeting for religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building for religious assembly (especially nonconformists, e.g., quakers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, all of you have laid your heads together— Myself had notice of your conventicles— And all to make away my guiltless life."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was sick of Pharisaical importers who did the heathen in the eye on Saturday and on Sunday in their blasted conventicles thumped their black-covered craws in respectable humility...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret unauthorized meeting for religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building for religious assembly (especially nonconformists, e.g., quakers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, all of you have laid your heads together— Myself had notice of your conventicles— And all to make away my guiltless life."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was sick of Pharisaical importers who did the heathen in the eye on Saturday and on Sunday in their blasted conventicles thumped their black-covered craws in respectable humility...."*

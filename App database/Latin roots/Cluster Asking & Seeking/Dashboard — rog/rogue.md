@@ -5,15 +5,6 @@ status: unread
 ---
 # rogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceitful and unreliable scoundrel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rogue, thou hast lived too long. [_Draws a knife._] MESSENGER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a rogue and peasant slave am I!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pestilence on him for a mad rogue!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceitful and unreliable scoundrel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rogue, thou hast lived too long. [_Draws a knife._] MESSENGER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a rogue and peasant slave am I!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pestilence on him for a mad rogue!"*

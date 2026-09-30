@@ -5,13 +5,6 @@ status: unread
 ---
 # centrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or situated at or near a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or situated at or near a center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is time, then,” said Fitzurse, “to draw our party to a head, either at York, or some other centrical place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or situated at or near a center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or situated at or near a center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is time, then,” said Fitzurse, “to draw our party to a head, either at York, or some other centrical place."*

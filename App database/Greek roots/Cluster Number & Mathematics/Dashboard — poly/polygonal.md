@@ -5,13 +5,6 @@ status: unread
 ---
 # polygonal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many sides or relating to a surface marked by polygons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many sides or relating to a surface marked by polygons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Four polygonal fragments of two lacerated scarlet betting tickets, numbered 8 87, 88 6."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many sides or relating to a surface marked by polygons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many sides or relating to a surface marked by polygons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Four polygonal fragments of two lacerated scarlet betting tickets, numbered 8 87, 88 6."*

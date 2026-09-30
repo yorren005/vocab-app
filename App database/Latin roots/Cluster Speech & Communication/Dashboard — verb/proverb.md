@@ -5,15 +5,6 @@ status: unread
 ---
 # proverb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Lord, I must laugh; Have at you with a proverb:—Shall I set in my staff?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sir, but while the grass grows—the proverb is something musty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet do I not use my horse for my mistress, or any such proverb so little kin to the purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Lord, I must laugh; Have at you with a proverb:—Shall I set in my staff?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sir, but while the grass grows—the proverb is something musty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet do I not use my horse for my mistress, or any such proverb so little kin to the purpose."*

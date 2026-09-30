@@ -5,15 +5,6 @@ status: unread
 ---
 # stalker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks with long stiff strides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who stalks game.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"GREAT STALKER An American species of the iguanodon, called thespesius or “marvellous.” It is also called claosaurus."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"LITTLE STALKER A smaller variety of the thespesius family."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Neither is it now a common sight from here to note the snake-necked fish-lizard, or even the giant but harmless “great stalker.” These, too, have gone from the neighborhood of the destined conquerors of all the earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks with long stiff strides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who stalks game.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. H. Costello (*Sure-dart*):** *"GREAT STALKER An American species of the iguanodon, called thespesius or “marvellous.” It is also called claosaurus."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"LITTLE STALKER A smaller variety of the thespesius family."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"Neither is it now a common sight from here to note the snake-necked fish-lizard, or even the giant but harmless “great stalker.” These, too, have gone from the neighborhood of the destined conquerors of all the earth."*

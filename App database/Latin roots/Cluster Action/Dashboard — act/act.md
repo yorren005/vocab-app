@@ -5,15 +5,6 @@ status: unread
 ---
 # act
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that people do or cause to happen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lasted long, But on us both did haggish age steal on, And wore us out of act."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone tomorrow; and be sure of this, What I can help thee to, thou shalt not miss. [_Exeunt._] ACT II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not so with Him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that people do or cause to happen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lasted long, But on us both did haggish age steal on, And wore us out of act."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone tomorrow; and be sure of this, What I can help thee to, thou shalt not miss. [_Exeunt._] ACT II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not so with Him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of steps to be carried out or goals to be accomplished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement scheme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When Lippo had properly filled the box and set it in its right place, he quickly followed Mäzli, wondering what her plan was."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Everybody was satisfied with the plan and the mother assented eagerly, as she had intended the same thing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So the host had made all necessary arrangements, as there were no objections to the plan on either side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of steps to be carried out or goals to be accomplished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement scheme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When Lippo had properly filled the box and set it in its right place, he quickly followed Mäzli, wondering what her plan was."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Everybody was satisfied with the plan and the mother assented eagerly, as she had intended the same thing."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So the host had made all necessary arrangements, as there were no objections to the plan on either side."*

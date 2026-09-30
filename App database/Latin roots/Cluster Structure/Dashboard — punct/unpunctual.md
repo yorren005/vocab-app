@@ -5,14 +5,6 @@ status: unread
 ---
 # unpunctual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not punctual; after the appointed time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not punctual; after the appointed time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I glanced at Herbert’s home, and at his character, and at his having no means but such as he was dependent on his father for; those, uncertain and unpunctual."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It seems to me that the further east you go the more unpunctual are the trains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not punctual; after the appointed time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not punctual; after the appointed time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I glanced at Herbert’s home, and at his character, and at his having no means but such as he was dependent on his father for; those, uncertain and unpunctual."*
+> - 📜 **Bram Stoker (*Dracula*):** *"It seems to me that the further east you go the more unpunctual are the trains."*

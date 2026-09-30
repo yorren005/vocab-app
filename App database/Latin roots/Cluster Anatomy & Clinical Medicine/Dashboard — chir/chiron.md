@@ -5,15 +5,6 @@ status: unread
 ---
 # chiron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the learned centaur who tutored achilles, asclepius, hercules, jason, and other heroes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asteroid discovered in 1977; it is unique in having an orbit lying mainly between the orbits of saturn and uranus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Follow, my lord, and I’ll soon bring her back. [_Exeunt Saturninus, Tamora, Demetrius, Chiron, Aaron, and Guards._] MUTIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Chiron and Demetrius braving."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chiron, thy years wants wit, thy wit wants edge And manners, to intrude where I am graced, And may, for aught thou knowest, affected be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the learned centaur who tutored achilles, asclepius, hercules, jason, and other heroes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asteroid discovered in 1977; it is unique in having an orbit lying mainly between the orbits of saturn and uranus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Follow, my lord, and I’ll soon bring her back. [_Exeunt Saturninus, Tamora, Demetrius, Chiron, Aaron, and Guards._] MUTIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Chiron and Demetrius braving."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chiron, thy years wants wit, thy wit wants edge And manners, to intrude where I am graced, And may, for aught thou knowest, affected be."*

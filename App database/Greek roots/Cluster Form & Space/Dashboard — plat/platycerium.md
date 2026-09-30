@@ -5,13 +5,6 @@ status: unread
 ---
 # platycerium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Often epiphytic tropical old world ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often epiphytic tropical old world ferns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platycerium designates often epiphytic tropical old world ferns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Often epiphytic tropical old world ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often epiphytic tropical old world ferns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platycerium designates often epiphytic tropical old world ferns."*

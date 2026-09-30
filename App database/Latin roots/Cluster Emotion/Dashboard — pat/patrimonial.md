@@ -5,15 +5,6 @@ status: unread
 ---
 # patrimonial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherited or inheritable by established rules (usually legal rules) of descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherited or inheritable by established rules (usually legal rules) of descent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"At the time Shamus was added to the population of Ireland, the patrimonial estate had dwindled down to a peat bog."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Preston], enclosing a note of five thousand dollars, which he requested him to endorse, and raise the money in Virginia, so as to enable him to leave this city, and return to his modest retreat—his patrimonial inheritance—in that State."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"But there is no one thing which men so rarely do, whatever the provocation or inducement, as to bequeath patrimonial property away from their own blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherited or inheritable by established rules (usually legal rules) of descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherited or inheritable by established rules (usually legal rules) of descent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"At the time Shamus was added to the population of Ireland, the patrimonial estate had dwindled down to a peat bog."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Preston], enclosing a note of five thousand dollars, which he requested him to endorse, and raise the money in Virginia, so as to enable him to leave this city, and return to his modest retreat—his patrimonial inheritance—in that State."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"But there is no one thing which men so rarely do, whatever the provocation or inducement, as to bequeath patrimonial property away from their own blood."*

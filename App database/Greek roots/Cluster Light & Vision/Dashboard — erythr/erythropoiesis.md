@@ -5,13 +5,6 @@ status: unread
 ---
 # erythropoiesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of red blood cells (as from the bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of red blood cells (as from the bone marrow).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythropoiesis designates the production of red blood cells (as from the bone marrow)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of red blood cells (as from the bone marrow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of red blood cells (as from the bone marrow).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythropoiesis designates the production of red blood cells (as from the bone marrow)."*

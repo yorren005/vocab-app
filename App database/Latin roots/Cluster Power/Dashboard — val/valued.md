@@ -5,15 +5,6 @@ status: unread
 ---
 # valued
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or determine the value of; assign a value to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold dear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy substance, valued at the highest rate, Cannot amount unto a hundred marks; Therefore by law thou art condemn’d to die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Harry, you Shall march through Gloustershire; by which account, Our business valued, some twelve days hence Our general forces at Bridgenorth shall meet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or determine the value of; assign a value to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold dear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy substance, valued at the highest rate, Cannot amount unto a hundred marks; Therefore by law thou art condemn’d to die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Harry, you Shall march through Gloustershire; by which account, Our business valued, some twelve days hence Our general forces at Bridgenorth shall meet."*

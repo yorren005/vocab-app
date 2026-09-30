@@ -5,15 +5,6 @@ status: unread
 ---
 # inadvertently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without knowledge or intention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without knowledge or intention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But as you, though inadvertently and without intending so unreasonable a question, asked me ‘what for?’ let me reply to you."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As she was supposed to exercise malefic influence on any man who might inadvertently glance at her, she had to wear a sort of head-dress combining in itself the purposes of a veil, a bonnet, and a mantlet."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His old dog, Pilot, lay on one side, removed out of the way, and coiled up as if afraid of being inadvertently trodden upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without knowledge or intention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without knowledge or intention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But as you, though inadvertently and without intending so unreasonable a question, asked me ‘what for?’ let me reply to you."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As she was supposed to exercise malefic influence on any man who might inadvertently glance at her, she had to wear a sort of head-dress combining in itself the purposes of a veil, a bonnet, and a mantlet."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His old dog, Pilot, lay on one side, removed out of the way, and coiled up as if afraid of being inadvertently trodden upon."*

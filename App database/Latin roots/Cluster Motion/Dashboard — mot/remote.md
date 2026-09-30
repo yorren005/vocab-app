@@ -5,15 +5,6 @@ status: unread
 ---
 # remote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that can be used to control a machine or apparatus from a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located far away spatially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle ACT II Scene I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shaken as we are, so wan with care, Find we a time for frighted peace to pant, And breathe short-winded accents of new broils To be commenced in strands afar remote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that can be used to control a machine or apparatus from a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located far away spatially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle ACT II Scene I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shaken as we are, so wan with care, Find we a time for frighted peace to pant, And breathe short-winded accents of new broils To be commenced in strands afar remote."*

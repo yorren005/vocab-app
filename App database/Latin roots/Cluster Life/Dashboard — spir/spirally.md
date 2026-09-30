@@ -5,13 +5,6 @@ status: unread
 ---
 # spirally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With spirals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With spirals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The next moment a delicate wreath of smoke curls spirally into the air, the heap of dusty particles glows with fire, and Kory-Kory, almost breathless, dismounts from his steed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With spirals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With spirals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The next moment a delicate wreath of smoke curls spirally into the air, the heap of dusty particles glows with fire, and Kory-Kory, almost breathless, dismounts from his steed."*

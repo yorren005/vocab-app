@@ -5,15 +5,6 @@ status: unread
 ---
 # mover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Workman employed by a moving company.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (parliamentary procedure) someone who makes a formal motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Thou eternal mover of the heavens, Look with a gentle eye upon this wretch!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have here among us, my friends,” says Chadband, “a Gentile and a heathen, a dweller in the tents of Tom-all-Alone’s and a mover-on upon the surface of the earth."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I believed that my God was my mover!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Workman employed by a moving company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (parliamentary procedure) someone who makes a formal motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Thou eternal mover of the heavens, Look with a gentle eye upon this wretch!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have here among us, my friends,” says Chadband, “a Gentile and a heathen, a dweller in the tents of Tom-all-Alone’s and a mover-on upon the surface of the earth."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I believed that my God was my mover!"*

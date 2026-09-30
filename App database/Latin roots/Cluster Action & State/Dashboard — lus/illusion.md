@@ -5,15 +5,6 @@ status: unread
 ---
 # illusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erroneous mental representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something many people believe that is false.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By some illusion see thou bring her here; I’ll charm his eyes against she do appear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He beheld it all by degrees, stared in stupefaction at the scene, as if he thought it an illusion raised by some fiendish incantation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This very morning the illusion completed its disappearance, and, as it were, all of a sudden, Troy hated himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erroneous mental representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something many people believe that is false.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By some illusion see thou bring her here; I’ll charm his eyes against she do appear."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He beheld it all by degrees, stared in stupefaction at the scene, as if he thought it an illusion raised by some fiendish incantation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This very morning the illusion completed its disappearance, and, as it were, all of a sudden, Troy hated himself."*

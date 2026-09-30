@@ -5,13 +5,6 @@ status: unread
 ---
 # germfree
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from germs or pathogenic organisms; sterile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from germs or pathogenic organisms; sterile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germfree designates free from germs or pathogenic organisms; sterile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from germs or pathogenic organisms; sterile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from germs or pathogenic organisms; sterile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germfree designates free from germs or pathogenic organisms; sterile."*

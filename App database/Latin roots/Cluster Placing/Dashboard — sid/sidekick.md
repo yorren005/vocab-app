@@ -5,13 +5,6 @@ status: unread
 ---
 # sidekick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A close friend who accompanies his buddies in their activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A close friend who accompanies his buddies in their activities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'm here on counter-intelligence work, and I don't like your sending this guy," thumbing toward Brad, "and one of his sidekicks over to a UIPS ship on a highly sensitive assignment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A close friend who accompanies his buddies in their activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A close friend who accompanies his buddies in their activities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'm here on counter-intelligence work, and I don't like your sending this guy," thumbing toward Brad, "and one of his sidekicks over to a UIPS ship on a highly sensitive assignment."*

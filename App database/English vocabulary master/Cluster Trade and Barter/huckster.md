@@ -5,20 +5,6 @@ status: unread
 ---
 # huckster
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Haggle
-> 2. **Nuance / Usage**: Somebody who sells things in an aggressive or showy manner
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the huckster withstood the storm*), direct object (*cleaved the huckster*), or prepositional anchor (*amidst the huckster*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Young women of such birth, living in a quiet country-house, and attending a village church hardly larger than a parlor, naturally regarded frippery as the ambition of a huckster’s daughter."*
-> - 📜 **James Joyce (*Ulysses*):** *"Twopence each, the huckster said."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her mother keeps a huckster's stall in Bath still--even those who are so bold, one might fancy they could face anything, dare not face the world without a female friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Haggle
+> 2. **Nuance / Usage**: Somebody who sells things in an aggressive or showy manner
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the huckster withstood the storm*), direct object (*cleaved the huckster*), or prepositional anchor (*amidst the huckster*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Young women of such birth, living in a quiet country-house, and attending a village church hardly larger than a parlor, naturally regarded frippery as the ambition of a huckster’s daughter."*
+> - 📜 **James Joyce (*Ulysses*):** *"Twopence each, the huckster said."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her mother keeps a huckster's stall in Bath still--even those who are so bold, one might fancy they could face anything, dare not face the world without a female friend."*

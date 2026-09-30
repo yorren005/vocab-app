@@ -5,15 +5,6 @@ status: unread
 ---
 # credulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to believe on little evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing a lack of judgment or experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most credulous fool, Egregious murderer, thief, anything That’s due to all the villains past, in being, To come!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do serve you in this business. [_Exit Edgar._] A credulous father! and a brother noble, Whose nature is so far from doing harms That he suspects none; on whose foolish honesty My practices ride easy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to believe on little evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing a lack of judgment or experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most credulous fool, Egregious murderer, thief, anything That’s due to all the villains past, in being, To come!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do serve you in this business. [_Exit Edgar._] A credulous father! and a brother noble, Whose nature is so far from doing harms That he suspects none; on whose foolish honesty My practices ride easy!"*

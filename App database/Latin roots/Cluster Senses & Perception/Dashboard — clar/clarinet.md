@@ -5,13 +5,6 @@ status: unread
 ---
 # clarinet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-reed instrument with a straight tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single-reed instrument with a straight tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clarinet designates a single-reed instrument with a straight tube."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-reed instrument with a straight tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single-reed instrument with a straight tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clarinet designates a single-reed instrument with a straight tube."*

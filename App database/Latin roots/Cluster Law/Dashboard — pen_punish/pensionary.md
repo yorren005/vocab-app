@@ -5,13 +5,6 @@ status: unread
 ---
 # pensionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beneficiary of a pension fund.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who works only for money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensionary designates the beneficiary of a pension fund."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beneficiary of a pension fund.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who works only for money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensionary designates the beneficiary of a pension fund."*

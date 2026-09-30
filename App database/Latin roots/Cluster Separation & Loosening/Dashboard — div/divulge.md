@@ -5,15 +5,6 @@ status: unread
 ---
 # divulge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It cannot be expected of me to divulge how I came into possession of the four needles."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sacred lowe o’ weel-plac’d love, Luxuriantly indulge it; But never tempt th’ illicit rove, Tho’ naething should divulge it: I waive the quantum o’ the sin, The hazard of concealing; But, Och! it hardens a’ within, And petrifies the feeling!"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Perhaps it is tell-tale to divulge that for a moment Hook entranced her, and we tell on her only because her slip led to strange results."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It cannot be expected of me to divulge how I came into possession of the four needles."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sacred lowe o’ weel-plac’d love, Luxuriantly indulge it; But never tempt th’ illicit rove, Tho’ naething should divulge it: I waive the quantum o’ the sin, The hazard of concealing; But, Och! it hardens a’ within, And petrifies the feeling!"*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Perhaps it is tell-tale to divulge that for a moment Hook entranced her, and we tell on her only because her slip led to strange results."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # everest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, everest designates a mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, everest designates a mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high)."*

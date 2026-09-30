@@ -5,13 +5,6 @@ status: unread
 ---
 # heteroglossia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diversity of voices, styles of discourse, or points of view in a literary work and especially a novel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diversity of voices, styles of discourse, or points of view in a literary work and especially a novel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroglossia designates a diversity of voices, styles of discourse, or points of view in a literary work and especially a novel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diversity of voices, styles of discourse, or points of view in a literary work and especially a novel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diversity of voices, styles of discourse, or points of view in a literary work and especially a novel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroglossia designates a diversity of voices, styles of discourse, or points of view in a literary work and especially a novel."*

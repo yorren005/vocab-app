@@ -5,15 +5,6 @@ status: unread
 ---
 # defendant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, let him go.—Please it your majesty, This is the day appointed for the combat, And ready are the appellant and defendant, The armourer and his man, to enter the lists, So please your highness to behold the fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In which predicament I say thou stand’st; For it appears by manifest proceeding That indirectly, and directly too, Thou hast contrived against the very life Of the defendant; and thou hast incurr’d The danger formerly by me rehears’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then enter Mowbray in armour, defendant, preceded by a Herald."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, let him go.—Please it your majesty, This is the day appointed for the combat, And ready are the appellant and defendant, The armourer and his man, to enter the lists, So please your highness to behold the fight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In which predicament I say thou stand’st; For it appears by manifest proceeding That indirectly, and directly too, Thou hast contrived against the very life Of the defendant; and thou hast incurr’d The danger formerly by me rehears’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then enter Mowbray in armour, defendant, preceded by a Herald."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # emergent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring unexpectedly and requiring urgent action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emergent designates occurring unexpectedly and requiring urgent action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring unexpectedly and requiring urgent action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emergent designates occurring unexpectedly and requiring urgent action."*

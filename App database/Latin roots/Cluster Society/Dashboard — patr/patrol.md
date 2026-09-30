@@ -5,15 +5,6 @@ status: unread
 ---
 # patrol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detachment used for security or reconnaissance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of going around or through an area at regular intervals for security purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When I proposed to put him at the head of a patrol, he had an attack of the nerves."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He read his Hours as he went round at the head of his patrol."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I got up and went to meet the patrol which was coming in, and found that great good-for-nothing Jacques running close after me, holding my cloak."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detachment used for security or reconnaissance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of going around or through an area at regular intervals for security purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When I proposed to put him at the head of a patrol, he had an attack of the nerves."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He read his Hours as he went round at the head of his patrol."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I got up and went to meet the patrol which was coming in, and found that great good-for-nothing Jacques running close after me, holding my cloak."*

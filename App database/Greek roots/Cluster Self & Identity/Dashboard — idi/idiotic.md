@@ -5,15 +5,6 @@ status: unread
 ---
 # idiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing complete lack of thought or common sense : foolish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme intellectual disability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, there’s no use in talking to him,” said Alice desperately: “he’s perfectly idiotic!” And she opened the door and went in."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I, too, affected not to recognize my enemy, and, putting on an idiotic senility, I, too, crawled in the dust toward the litter whining for mercy and charity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is no folly so besotted that the idiotic rivalries of society, the prurience, the rashness, the blindness of youth, will not hurry a man to its commission."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing complete lack of thought or common sense : foolish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme intellectual disability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, there’s no use in talking to him,” said Alice desperately: “he’s perfectly idiotic!” And she opened the door and went in."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I, too, affected not to recognize my enemy, and, putting on an idiotic senility, I, too, crawled in the dust toward the litter whining for mercy and charity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is no folly so besotted that the idiotic rivalries of society, the prurience, the rashness, the blindness of youth, will not hurry a man to its commission."*

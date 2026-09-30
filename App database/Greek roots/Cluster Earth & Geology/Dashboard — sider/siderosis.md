@@ -5,13 +5,6 @@ status: unread
 ---
 # siderosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fibrosis of the lung caused by iron dust; occurs among welders and other metal workers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fibrosis of the lung caused by iron dust; occurs among welders and other metal workers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderosis designates fibrosis of the lung caused by iron dust; occurs among welders and other metal workers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fibrosis of the lung caused by iron dust; occurs among welders and other metal workers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fibrosis of the lung caused by iron dust; occurs among welders and other metal workers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderosis designates fibrosis of the lung caused by iron dust; occurs among welders and other metal workers."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # prosopopoeia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which an imaginary or absent person is represented as speaking or acting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Personification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopopoeia designates a figure of speech in which an imaginary or absent person is represented as speaking or acting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which an imaginary or absent person is represented as speaking or acting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Personification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopopoeia designates a figure of speech in which an imaginary or absent person is represented as speaking or acting."*

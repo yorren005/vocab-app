@@ -5,15 +5,6 @@ status: unread
 ---
 # barometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures atmospheric pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures atmospheric pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The barometer did not go down, nor was there any rain, but an unusual greyness wrapped earth and sky."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen, not having his own skies and barometer about him, declined giving any absolute promise of sunshine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But now Lydgate came in; the book was closed before he reached Rosamond’s corner, and as he took his seat with easy confidence on the other side of her, young Plymdale’s jaw fell like a barometer towards the cheerless side of change."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures atmospheric pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The barometer did not go down, nor was there any rain, but an unusual greyness wrapped earth and sky."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen, not having his own skies and barometer about him, declined giving any absolute promise of sunshine."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But now Lydgate came in; the book was closed before he reached Rosamond’s corner, and as he took his seat with easy confidence on the other side of her, young Plymdale’s jaw fell like a barometer towards the cheerless side of change."*

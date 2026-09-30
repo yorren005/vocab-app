@@ -5,15 +5,6 @@ status: unread
 ---
 # intermission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of suspending activity temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time interval during which there is a temporary cessation of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You lov’d, I lov’d; for intermission No more pertains to me, my lord, than you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The rain had been thick and heavy all day, and with little intermission for many days."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would think so all the more if he saw the woman thus hurrying up and down for hours, without fatigue, without intermission, followed by the faithful step upon the Ghost’s Walk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of suspending activity temporarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time interval during which there is a temporary cessation of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You lov’d, I lov’d; for intermission No more pertains to me, my lord, than you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The rain had been thick and heavy all day, and with little intermission for many days."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He would think so all the more if he saw the woman thus hurrying up and down for hours, without fatigue, without intermission, followed by the faithful step upon the Ghost’s Walk."*

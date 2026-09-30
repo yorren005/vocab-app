@@ -5,20 +5,6 @@ status: unread
 ---
 # darkling
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dark
-> 2. **Nuance / Usage**: In the dark
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adverb.
-> - **Syntactic Constructions**: Modifies action verbs (*proceeded darkling*) and evaluative adjectives (*darkling adorned*).
-> - **Collocations & Registers**: Emphatic narrative cadences; paired with kinetic verbs and psychological focus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou left us darkling in a world of tears."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"give an old wives’ darkling hint."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"surprise of those who had augured ill from his darkling demeanour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dark
+> 2. **Nuance / Usage**: In the dark
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adverb.
+> - **Syntactic Constructions**: Modifies action verbs (*proceeded darkling*) and evaluative adjectives (*darkling adorned*).
+> - **Collocations & Registers**: Emphatic narrative cadences; paired with kinetic verbs and psychological focus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou left us darkling in a world of tears."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"give an old wives’ darkling hint."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"surprise of those who had augured ill from his darkling demeanour."*

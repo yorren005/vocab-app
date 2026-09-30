@@ -5,15 +5,6 @@ status: unread
 ---
 # incisive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or demonstrating ability to recognize or draw fine distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for cutting or piercing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Old Testament was emptied of meaning to fortify the Christian faith with "proof texts." When Jesus quotes the Old Testament, it is for other ends and with a clear, incisive sense of the prophet's meaning."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had taken care to repeat the incisive statement of his resolve not to be played on any more; and had tried to penetrate Raffles with the fact that he had shown the risks of bribing him to be quite equal to the risks of defying him."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"The order came sharp and incisive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or demonstrating ability to recognize or draw fine distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for cutting or piercing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Old Testament was emptied of meaning to fortify the Christian faith with "proof texts." When Jesus quotes the Old Testament, it is for other ends and with a clear, incisive sense of the prophet's meaning."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had taken care to repeat the incisive statement of his resolve not to be played on any more; and had tried to penetrate Raffles with the fact that he had shown the risks of bribing him to be quite equal to the risks of defying him."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"The order came sharp and incisive."*

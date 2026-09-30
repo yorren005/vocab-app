@@ -5,14 +5,6 @@ status: unread
 ---
 # trespasser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intrudes on the privacy or property of another without permission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who intrudes on the privacy or property of another without permission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Toller lets him loose every night, and God help the trespasser whom he lays his fangs upon."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She fled into the wood at once, and, when she was safe there, laughed at the oddity of being a trespasser in her own domain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intrudes on the privacy or property of another without permission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who intrudes on the privacy or property of another without permission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Toller lets him loose every night, and God help the trespasser whom he lays his fangs upon."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She fled into the wood at once, and, when she was safe there, laughed at the oddity of being a trespasser in her own domain."*

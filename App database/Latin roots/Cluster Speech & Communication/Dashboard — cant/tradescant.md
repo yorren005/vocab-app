@@ -5,14 +5,6 @@ status: unread
 ---
 # tradescant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English botanist who was one of the first to collect specimens of plants (1570-1638).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English botanist who was one of the first to collect specimens of plants (1570-1638).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"One of these is represented by the Tradescant jar in the Ashmolean Museum, Oxford."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Tradescant Collection was given to Elias Ashmole in 1659 by John Tradescant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English botanist who was one of the first to collect specimens of plants (1570-1638).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English botanist who was one of the first to collect specimens of plants (1570-1638).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"One of these is represented by the Tradescant jar in the Ashmolean Museum, Oxford."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Tradescant Collection was given to Elias Ashmole in 1659 by John Tradescant."*

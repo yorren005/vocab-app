@@ -5,15 +5,6 @@ status: unread
 ---
 # topic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The subject matter of a conversation or discussion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some situation or event that is thought about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At Blaze and Sparkle’s the jewellers and at Sheen and Gloss’s the mercers, it is and will be for several hours the topic of the age, the feature of the century."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You’ll find, sir, that this topic will be very popular among my high connexion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nothing disturbed the stillness of the cottage save the chatter of a knot of sparrows on the eaves; one might fancy scandal and rumour to be no less the staple topic of these little coteries on roofs than of those under them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The subject matter of a conversation or discussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some situation or event that is thought about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"At Blaze and Sparkle’s the jewellers and at Sheen and Gloss’s the mercers, it is and will be for several hours the topic of the age, the feature of the century."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You’ll find, sir, that this topic will be very popular among my high connexion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nothing disturbed the stillness of the cottage save the chatter of a knot of sparrows on the eaves; one might fancy scandal and rumour to be no less the staple topic of these little coteries on roofs than of those under them."*

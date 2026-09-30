@@ -5,15 +5,6 @@ status: unread
 ---
 # travel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement through space that changes the location of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will he travel higher, or return again into France?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement through space that changes the location of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will he travel higher, or return again into France?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel."*

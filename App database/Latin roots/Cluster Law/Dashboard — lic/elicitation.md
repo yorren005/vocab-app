@@ -5,13 +5,6 @@ status: unread
 ---
 # elicitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulation that calls up (draws forth) a particular class of behaviors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulation that calls up (draws forth) a particular class of behaviors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elicitation designates stimulation that calls up (draws forth) a particular class of behaviors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulation that calls up (draws forth) a particular class of behaviors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulation that calls up (draws forth) a particular class of behaviors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elicitation designates stimulation that calls up (draws forth) a particular class of behaviors."*

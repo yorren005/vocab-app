@@ -5,15 +5,6 @@ status: unread
 ---
 # restriction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A principle that limits the extent of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of limiting or restricting (as by regulation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Every restriction that would wound the most susceptible is withdrawn; not one more than another, but all."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The American Revolution was one of the bitter fruits of the English policy of trade restriction. § 13. #Adam Smith's influence#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The paper money issued under the English bank restriction act of 1797-1820 is especially notable because it gave rise to the controversy which did much to develop the modern theory of the subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A principle that limits the extent of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of limiting or restricting (as by regulation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Every restriction that would wound the most susceptible is withdrawn; not one more than another, but all."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The American Revolution was one of the bitter fruits of the English policy of trade restriction. § 13. #Adam Smith's influence#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The paper money issued under the English bank restriction act of 1797-1820 is especially notable because it gave rise to the controversy which did much to develop the modern theory of the subject."*

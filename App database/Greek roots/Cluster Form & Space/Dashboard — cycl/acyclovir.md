@@ -5,13 +5,6 @@ status: unread
 ---
 # acyclovir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acyclovir designates an oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acyclovir designates an oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # trichechidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising only the manatees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising only the manatees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichechidae designates comprising only the manatees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising only the manatees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising only the manatees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichechidae designates comprising only the manatees."*

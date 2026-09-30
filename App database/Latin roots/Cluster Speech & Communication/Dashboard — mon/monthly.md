@@ -5,15 +5,6 @@ status: unread
 ---
 # monthly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical that is published every month (or 12 issues per year).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or occurring or payable every month.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, by monthly course, With reservation of an hundred knights, By you to be sustain’d, shall our abode Make with you by due turn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O swear not by the moon, th’inconstant moon, That monthly changes in her circled orb, Lest that thy love prove likewise variable."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He found she had no one in the world but a sister, a monthly nurse, to care for her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical that is published every month (or 12 issues per year).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or occurring or payable every month.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, by monthly course, With reservation of an hundred knights, By you to be sustain’d, shall our abode Make with you by due turn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O swear not by the moon, th’inconstant moon, That monthly changes in her circled orb, Lest that thy love prove likewise variable."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He found she had no one in the world but a sister, a monthly nurse, to care for her."*

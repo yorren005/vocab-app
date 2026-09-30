@@ -5,13 +5,6 @@ status: unread
 ---
 # scilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scilla designates an old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scilla designates an old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers."*

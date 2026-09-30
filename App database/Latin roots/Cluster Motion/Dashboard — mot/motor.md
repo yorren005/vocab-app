@@ -5,15 +5,6 @@ status: unread
 ---
 # motor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine that converts other forms of energy into mechanical energy and so imparts motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonspecific agent that imparts motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Many a farmer, riding in his motor-car to-day, knows who made possible that motor-car."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Will you let me telephone for my own car and motor you down?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine that converts other forms of energy into mechanical energy and so imparts motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonspecific agent that imparts motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Many a farmer, riding in his motor-car to-day, knows who made possible that motor-car."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Will you let me telephone for my own car and motor you down?"*

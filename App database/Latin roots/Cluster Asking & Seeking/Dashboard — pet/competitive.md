@@ -5,15 +5,6 @@ status: unread
 ---
 # competitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving competition or competitiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subscribing to capitalistic competition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We may note here merely that the use of money is an outstanding feature of the present economic system and gives rise to many of the problems of political economy. § 10. #The competitive system#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rent, however, was not a competitive price, but consisted of the dues and services which the forefathers had been accustomed to pay."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 73.] [Footnote 7: This will appear in comparing the competitive method of distribution with other methods in ch. 31.] [Footnote 8: See Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving competition or competitiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subscribing to capitalistic competition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We may note here merely that the use of money is an outstanding feature of the present economic system and gives rise to many of the problems of political economy. § 10. #The competitive system#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rent, however, was not a competitive price, but consisted of the dues and services which the forefathers had been accustomed to pay."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 73.] [Footnote 7: This will appear in comparing the competitive method of distribution with other methods in ch. 31.] [Footnote 8: See Vol."*

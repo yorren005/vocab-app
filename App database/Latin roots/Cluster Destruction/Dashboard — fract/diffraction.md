@@ -5,13 +5,6 @@ status: unread
 ---
 # diffraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: When light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: When light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diffraction designates when light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: When light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: When light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diffraction designates when light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands."*

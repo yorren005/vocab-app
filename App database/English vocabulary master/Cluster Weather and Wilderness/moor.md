@@ -5,20 +5,6 @@ status: unread
 ---
 # moor
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Game preserve consisting of moorland
-> 2. **Nuance / Usage**: Expanse of open rolling infertile land
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the moor withstood the storm*), direct object (*cleaved the moor*), or prepositional anchor (*amidst the moor*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What sayest thou to a hare, or the melancholy of Moor-ditch?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Like to the empress’ Moor; therefore I killed him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"and that we may dismiss you to the moor and the rainy night?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Game preserve consisting of moorland
+> 2. **Nuance / Usage**: Expanse of open rolling infertile land
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the moor withstood the storm*), direct object (*cleaved the moor*), or prepositional anchor (*amidst the moor*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What sayest thou to a hare, or the melancholy of Moor-ditch?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Like to the empress’ Moor; therefore I killed him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"and that we may dismiss you to the moor and the rainy night?"*

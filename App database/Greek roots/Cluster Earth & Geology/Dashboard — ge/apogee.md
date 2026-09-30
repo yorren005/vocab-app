@@ -5,13 +5,6 @@ status: unread
 ---
 # apogee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the orbit of an object (such as a satellite) orbiting the earth that is at the greatest distance from the center of the earth; also : the point farthest from a planet or a satellite (such as the moon) reached by an object orbiting it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The farthest or highest point : culmination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogee designates the point in the orbit of an object (such as a satellite) orbiting the earth that is at the greatest distance from the center of the earth; also : the point farthest from a planet or a satellite (such as the moon) reached by an object orbiting it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the orbit of an object (such as a satellite) orbiting the earth that is at the greatest distance from the center of the earth; also : the point farthest from a planet or a satellite (such as the moon) reached by an object orbiting it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The farthest or highest point : culmination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogee designates the point in the orbit of an object (such as a satellite) orbiting the earth that is at the greatest distance from the center of the earth; also : the point farthest from a planet or a satellite (such as the moon) reached by an object orbiting it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # detecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A police investigation to determine the perpetrator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover or determine the existence, presence, or fact of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he steal aught the whilst this play is playing, And ’scape detecting, I will pay the theft."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I cannot remember detecting gratitude in his face.” “Detecting!"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They still believe in dreams and fortune-telling, and an old woman that lives in Bull-and-Mouth Street makes a tolerable subsistence by detecting stolen goods and promising the girls good husbands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A police investigation to determine the perpetrator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover or determine the existence, presence, or fact of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he steal aught the whilst this play is playing, And ’scape detecting, I will pay the theft."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I cannot remember detecting gratitude in his face.” “Detecting!"*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They still believe in dreams and fortune-telling, and an old woman that lives in Bull-and-Mouth Street makes a tolerable subsistence by detecting stolen goods and promising the girls good husbands."*

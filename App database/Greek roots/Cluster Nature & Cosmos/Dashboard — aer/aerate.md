@@ -5,15 +5,6 @@ status: unread
 ---
 # aerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply or impregnate (something, such as the soil or a liquid) with air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To supply (the blood) with oxygen by respiration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Moreover, it permits air to find an entrance, thereby aerating the soil in such a way as to increase its fertility."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply or impregnate (something, such as the soil or a liquid) with air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To supply (the blood) with oxygen by respiration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Moreover, it permits air to find an entrance, thereby aerating the soil in such a way as to increase its fertility."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*

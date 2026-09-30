@@ -5,14 +5,6 @@ status: unread
 ---
 # mirthfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joyous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a joyous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Miss Mathewson”--his glance mirthfully surveyed her--“Aunt Ellen will take you upstairs and give you a chance to put that magnificent brown hair into a condition where it will not shock the natives at the station."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Then all shouted mirthfully, and leaped about the room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joyous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a joyous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Miss Mathewson”--his glance mirthfully surveyed her--“Aunt Ellen will take you upstairs and give you a chance to put that magnificent brown hair into a condition where it will not shock the natives at the station."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Then all shouted mirthfully, and leaped about the room."*

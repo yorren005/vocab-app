@@ -5,13 +5,6 @@ status: unread
 ---
 # hypocycloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocycloid designates a curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocycloid designates a curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # carpospore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diploid spore of a red alga.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diploid spore of a red alga.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpospore designates a diploid spore of a red alga."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diploid spore of a red alga.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diploid spore of a red alga.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpospore designates a diploid spore of a red alga."*

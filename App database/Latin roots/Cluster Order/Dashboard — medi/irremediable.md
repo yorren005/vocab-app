@@ -5,15 +5,6 @@ status: unread
 ---
 # irremediable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to remedy or correct or redress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to remedy or correct or redress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A wet day was the expression of irremediable grief at her weakness in the mind of some vague ethical being whom she could not class definitely as the God of her childhood, and could not comprehend as any other."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption in this is that the "general property tax" is an irremediable failure, and is particularly inapplicable to corporations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to remedy or correct or redress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to remedy or correct or redress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A wet day was the expression of irremediable grief at her weakness in the mind of some vague ethical being whom she could not class definitely as the God of her childhood, and could not comprehend as any other."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption in this is that the "general property tax" is an irremediable failure, and is particularly inapplicable to corporations."*

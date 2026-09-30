@@ -5,15 +5,6 @@ status: unread
 ---
 # confusing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Be happy!” His benignity as he raised his future daughter-in-law and stretched out his hand to his son (who kissed it with affectionate respect and gratitude) was the most confusing sight I ever saw."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tracks were absolutely the only guide as to the direction that they now had, and great caution was necessary to avoid confusing them with some others which had made their appearance lately."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I’m afraid I can’t put it more clearly,” Alice replied very politely, “for I can’t understand it myself to begin with; and being so many different sizes in a day is very confusing.” “It isn’t,” said the Caterpillar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Be happy!” His benignity as he raised his future daughter-in-law and stretched out his hand to his son (who kissed it with affectionate respect and gratitude) was the most confusing sight I ever saw."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tracks were absolutely the only guide as to the direction that they now had, and great caution was necessary to avoid confusing them with some others which had made their appearance lately."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I’m afraid I can’t put it more clearly,” Alice replied very politely, “for I can’t understand it myself to begin with; and being so many different sizes in a day is very confusing.” “It isn’t,” said the Caterpillar."*

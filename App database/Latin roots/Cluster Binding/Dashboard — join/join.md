@@ -5,15 +5,6 @@ status: unread
 ---
 # join
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape or manner in which things come together and a connection is made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set containing all and only the members of two or more given sets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let witchcraft join with beauty, lust with both; Tie up the libertine in a field of feasts; Keep his brain fuming."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let her live To join our kingdoms and our hearts; and never Fly off our loves again!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape or manner in which things come together and a connection is made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set containing all and only the members of two or more given sets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let witchcraft join with beauty, lust with both; Tie up the libertine in a field of feasts; Keep his brain fuming."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let her live To join our kingdoms and our hearts; and never Fly off our loves again!"*

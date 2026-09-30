@@ -5,15 +5,6 @@ status: unread
 ---
 # plum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several trees producing edible oval fruit having a smooth skin and a single hard stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give grandam kingdom, and it grandam will Give it a plum, a cherry, and a fig."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a green plum that hangs upon a tree, And falls, through wind, before the fall should be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several trees producing edible oval fruit having a smooth skin and a single hard stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give grandam kingdom, and it grandam will Give it a plum, a cherry, and a fig."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a green plum that hangs upon a tree, And falls, through wind, before the fall should be."*

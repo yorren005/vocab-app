@@ -5,14 +5,6 @@ status: unread
 ---
 # undertow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination contrary to the strongest or prevailing feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seaward undercurrent created after waves have broken on the shore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"But all the din of the isles that the Delver heaves in foam In the draught of the undertow glides out to the sea-gods' home."*
-> - 📜 **James Joyce (*Ulysses*):** *"A corpse rising saltwhite from the undertow, bobbing a pace a pace a porpoise landward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination contrary to the strongest or prevailing feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seaward undercurrent created after waves have broken on the shore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"But all the din of the isles that the Delver heaves in foam In the draught of the undertow glides out to the sea-gods' home."*
+> - 📜 **James Joyce (*Ulysses*):** *"A corpse rising saltwhite from the undertow, bobbing a pace a pace a porpoise landward."*

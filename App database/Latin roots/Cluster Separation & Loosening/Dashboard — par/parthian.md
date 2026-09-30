@@ -5,15 +5,6 @@ status: unread
 ---
 # parthian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of parthia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The iranian language spoken in the parthian kingdom (250 bc to ad 226).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Labienus— This is stiff news—hath with his Parthian force Extended Asia from Euphrates His conquering banner shook from Syria To Lydia and to Ionia, Whilst— ANTONY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Ventidius, Whilst yet with Parthian blood thy sword is warm, The fugitive Parthians follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I do that which all the Parthian darts, Though enemy, lost aim and could not?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of parthia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The iranian language spoken in the parthian kingdom (250 bc to ad 226).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Labienus— This is stiff news—hath with his Parthian force Extended Asia from Euphrates His conquering banner shook from Syria To Lydia and to Ionia, Whilst— ANTONY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Ventidius, Whilst yet with Parthian blood thy sword is warm, The fugitive Parthians follow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I do that which all the Parthian darts, Though enemy, lost aim and could not?"*

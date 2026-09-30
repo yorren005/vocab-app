@@ -5,13 +5,6 @@ status: unread
 ---
 # pensionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entitled to receive a pension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entitled to receive a pension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensionable designates entitled to receive a pension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entitled to receive a pension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entitled to receive a pension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensionable designates entitled to receive a pension."*

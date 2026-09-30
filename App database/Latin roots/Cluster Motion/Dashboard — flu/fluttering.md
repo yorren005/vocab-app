@@ -5,15 +5,6 @@ status: unread
 ---
 # fluttering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion made by flapping up and down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move along rapidly and lightly; skim or dart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly they caught a glimpse of two blue ribbons fluttering from Leonore's hat."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I put up my trembling little hand to clasp hers or to beg her pardon with what earnestness I might, but withdrew it as she looked at me, and laid it on my fluttering heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To polish—polish—polish!” he repeated, taking a pinch of snuff and gently fluttering his fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion made by flapping up and down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move along rapidly and lightly; skim or dart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly they caught a glimpse of two blue ribbons fluttering from Leonore's hat."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I put up my trembling little hand to clasp hers or to beg her pardon with what earnestness I might, but withdrew it as she looked at me, and laid it on my fluttering heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To polish—polish—polish!” he repeated, taking a pinch of snuff and gently fluttering his fingers."*

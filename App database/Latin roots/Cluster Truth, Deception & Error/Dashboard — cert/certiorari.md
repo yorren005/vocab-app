@@ -5,13 +5,6 @@ status: unread
 ---
 # certiorari
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, certiorari designates a common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, certiorari designates a common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case."*

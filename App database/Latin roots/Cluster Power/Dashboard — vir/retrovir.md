@@ -5,13 +5,6 @@ status: unread
 ---
 # retrovir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovir designates an antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovir designates an antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow."*

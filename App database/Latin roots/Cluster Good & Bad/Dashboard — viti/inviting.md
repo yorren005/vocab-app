@@ -5,15 +5,6 @@ status: unread
 ---
 # inviting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase the likelihood of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invite someone to one's house.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An inviting eye, and yet methinks right modest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter several strange Shapes, bringing in a banquet: they dance about it with gentle actions of salutation; and inviting the King &c., to eat, they depart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath sent me an earnest inviting, which many my near occasions did urge me to put off; but he hath conjured me beyond them, and I must needs appear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase the likelihood of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invite someone to one's house.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An inviting eye, and yet methinks right modest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter several strange Shapes, bringing in a banquet: they dance about it with gentle actions of salutation; and inviting the King &c., to eat, they depart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath sent me an earnest inviting, which many my near occasions did urge me to put off; but he hath conjured me beyond them, and I must needs appear."*

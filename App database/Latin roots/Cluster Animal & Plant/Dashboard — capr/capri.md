@@ -5,15 +5,6 @@ status: unread
 ---
 # capri
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island (part of campania) in the bay of naples in southern italy; a tourist attraction noted for beautiful scenery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island (part of campania) in the bay of naples in southern italy; a tourist attraction noted for beautiful scenery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"A man was starving in Capri; He moved his eyes and looked at me; I felt his gaze, I heard his moan, And knew his hunger as my own."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Housman, who witnessed the celebration in different years at both places, has kindly furnished me with the following particulars: "In 1906 I was in the island of Capri on September the eighth, the feast of the Nativity of the Virgin."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For the present Lord Steyne lives at Naples, preferring the view of the Bay and Capri and Vesuvius to the dreary aspect of the wall in Gaunt Square."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island (part of campania) in the bay of naples in southern italy; a tourist attraction noted for beautiful scenery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island (part of campania) in the bay of naples in southern italy; a tourist attraction noted for beautiful scenery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"A man was starving in Capri; He moved his eyes and looked at me; I felt his gaze, I heard his moan, And knew his hunger as my own."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Housman, who witnessed the celebration in different years at both places, has kindly furnished me with the following particulars: "In 1906 I was in the island of Capri on September the eighth, the feast of the Nativity of the Virgin."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For the present Lord Steyne lives at Naples, preferring the view of the Bay and Capri and Vesuvius to the dreary aspect of the wall in Gaunt Square."*

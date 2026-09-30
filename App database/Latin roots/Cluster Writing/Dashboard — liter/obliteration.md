@@ -5,14 +5,6 @@ status: unread
 ---
 # obliteration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction by annihilating something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete destruction of every trace of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is amazed to hear from Sir Leicester at breakfast-time of the obliteration of landmarks, and opening of floodgates, and cracking of the framework of society, manifested through Mrs."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She had not looked at it long, before she wetted the tip of her forefinger, and began to rub away at the obliteration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction by annihilating something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete destruction of every trace of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is amazed to hear from Sir Leicester at breakfast-time of the obliteration of landmarks, and opening of floodgates, and cracking of the framework of society, manifested through Mrs."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She had not looked at it long, before she wetted the tip of her forefinger, and began to rub away at the obliteration."*

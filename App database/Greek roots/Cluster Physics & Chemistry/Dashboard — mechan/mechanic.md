@@ -5,15 +5,6 @@ status: unread
 ---
 # mechanic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman skilled in operating machine tools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose occupation is repairing and maintaining automobiles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er becomes of me, This is a soldier’s kiss. [_Kisses her._] Rebukeable And worthy shameful check it were, to stand On more mechanic compliment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mechanic slaves With greasy aprons, rules, and hammers shall Uplift us to the view."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing less worthy can be seen through the lustre of such qualities in the commonest mechanic, nothing less worthy can be seen in the best-born gentleman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman skilled in operating machine tools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose occupation is repairing and maintaining automobiles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er becomes of me, This is a soldier’s kiss. [_Kisses her._] Rebukeable And worthy shameful check it were, to stand On more mechanic compliment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mechanic slaves With greasy aprons, rules, and hammers shall Uplift us to the view."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing less worthy can be seen through the lustre of such qualities in the commonest mechanic, nothing less worthy can be seen in the best-born gentleman."*

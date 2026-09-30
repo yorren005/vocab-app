@@ -981,6 +981,19 @@ html, body {
   gap: 8px;
 }
 
+.tiktok-def-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 2px;
+}
+
+.tiktok-def-status-mount {
+  display: inline-flex;
+  align-items: center;
+}
+
 .tiktok-def-title {
   font-size: 11px;
   font-weight: 800;
@@ -1017,22 +1030,145 @@ html, body {
   line-height: 1.5;
 }
 
-/* Authentic Example Box */
-.tiktok-quote-box {
-  border-left: 3.5px solid var(--web-accent);
-  padding: 14px 16px;
-  background: var(--web-accent-muted);
-  border-radius: 0 var(--app-radius-md) var(--app-radius-md) 0;
+/* Original App Apple Glide 3-State Tracking Toggle (.apple-c) */
+:root {
+  --apple-red: #FF375F;
+  --apple-red-glow: rgba(255, 55, 95, 0.45);
+  --apple-amber: #FF9F0A;
+  --apple-amber-glow: rgba(255, 159, 10, 0.45);
+  --apple-green: #30D158;
+  --apple-green-glow: rgba(48, 209, 88, 0.45);
+}
+
+.apple-c {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 3px 10px 3px 4px;
+  border-radius: 999px;
+  background: var(--web-surface-1, #111624);
+  border: 1px solid var(--web-border, #232d42);
+  cursor: pointer;
+  user-select: none;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  line-height: 1;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+.apple-c:hover {
+  border-color: var(--web-accent);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+.apple-c:active {
+  transform: scale(0.96);
+}
+.apple-c .track-c {
+  position: relative;
+  width: 48px;
+  height: 18px;
+  background: var(--web-surface-0, #090d17);
+  border-radius: 999px;
+  border: 1px solid var(--web-border, #1c2436);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 6px;
+  box-sizing: border-box;
+}
+.apple-c .c-dot {
+  width: 3px;
+  height: 3px;
+  border-radius: 999px;
+  background: var(--web-text-muted, #64748b);
+  opacity: 0.6;
+}
+.apple-c .halo-c {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  transition: transform 0.35s cubic-bezier(0.34, 1.6, 0.64, 1), background-color 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.apple-c .halo-c .core-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 0 4px #fff;
+}
+.apple-c .halo-c.p0 {
+  transform: translateX(0);
+  background: var(--apple-red);
+  box-shadow: 0 0 12px var(--apple-red), 0 0 20px var(--apple-red-glow);
+}
+.apple-c .halo-c.p1 {
+  transform: translateX(15px);
+  background: var(--apple-amber);
+  box-shadow: 0 0 12px var(--apple-amber), 0 0 20px var(--apple-amber-glow);
+}
+.apple-c .halo-c.p2 {
+  transform: translateX(30px);
+  background: var(--apple-green);
+  box-shadow: 0 0 12px var(--apple-green), 0 0 20px var(--apple-green-glow);
+}
+.apple-c .label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  transition: color 0.2s ease;
+  min-width: 48px;
+}
+.apple-c .label.unread { color: var(--apple-red); }
+.apple-c .label.learning { color: var(--apple-amber); }
+.apple-c .label.learned { color: var(--apple-green); }
+
+/* Authentic 3-Citation Stack */
+.tiktok-quotes-stack {
   display: flex;
   flex-direction: column;
   gap: 8px;
 }
 
+.tiktok-quotes-header {
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--web-text-muted);
+  padding-left: 2px;
+}
+
+.tiktok-quote-box {
+  border-left: 3.5px solid var(--web-accent);
+  padding: 11px 14px;
+  background: var(--web-accent-muted);
+  border-radius: 0 var(--app-radius-md) var(--app-radius-md) 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
 .tiktok-quote-text {
-  font-size: 14px;
+  font-size: 13.5px;
   font-style: italic;
   color: var(--web-text-primary);
-  line-height: 1.6;
+  line-height: 1.55;
+}
+
+.quote-word-hl {
+  font-weight: 800;
+  color: var(--web-accent);
+  text-decoration: underline;
+  text-decoration-color: rgba(212, 163, 89, 0.45);
+  text-underline-offset: 2px;
 }
 
 .tiktok-quote-author {

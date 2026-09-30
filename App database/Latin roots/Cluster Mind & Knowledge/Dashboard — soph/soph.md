@@ -5,13 +5,6 @@ status: unread
 ---
 # soph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A second-year undergraduate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second-year undergraduate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Poor Miss _Molly_! _Wrote on Cor---- Cr----d's (a Printer and Bookseller in Cambridge) Window in the Shop._ Ye longing Sophs, say it who can, That _Corny_'s not a learned Man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second-year undergraduate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second-year undergraduate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Poor Miss _Molly_! _Wrote on Cor---- Cr----d's (a Printer and Bookseller in Cambridge) Window in the Shop._ Ye longing Sophs, say it who can, That _Corny_'s not a learned Man."*

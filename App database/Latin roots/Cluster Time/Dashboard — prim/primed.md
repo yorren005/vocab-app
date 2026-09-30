@@ -5,15 +5,6 @@ status: unread
 ---
 # primed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert a primer into (a gun, mine, or charge) preparatory to detonation or firing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with a primer; apply a primer to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Marian, primed to a humorous mood, would discover the queer-shaped flints aforesaid, and shriek with laughter, Tess remaining severely obtuse."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"In time you will rise to higher efforts of thought and intellectual activity, but you will be primed for those efforts by the grasp you have secured in your studies of every-day phenomena."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"The two friends primed the remaining guns and kept vigilant watch until daylight to guard against surprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert a primer into (a gun, mine, or charge) preparatory to detonation or firing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with a primer; apply a primer to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Marian, primed to a humorous mood, would discover the queer-shaped flints aforesaid, and shriek with laughter, Tess remaining severely obtuse."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"In time you will rise to higher efforts of thought and intellectual activity, but you will be primed for those efforts by the grasp you have secured in your studies of every-day phenomena."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"The two friends primed the remaining guns and kept vigilant watch until daylight to guard against surprise."*

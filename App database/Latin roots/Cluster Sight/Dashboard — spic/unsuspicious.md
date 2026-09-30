@@ -5,15 +5,6 @@ status: unread
 ---
 # unsuspicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suspicious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never saw her, except upon a baggage-waggon, when she wasn’t washing greens!” The subject of this reflection is at all events so occupied in washing greens at present that she remains unsuspicious of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have seen many new faces come, unsuspicious, within the influence of the mace and seal in these many years."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Morland knew so little of lords and baronets, that she entertained no notion of their general mischievousness, and was wholly unsuspicious of danger to her daughter from their machinations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suspicious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I never saw her, except upon a baggage-waggon, when she wasn’t washing greens!” The subject of this reflection is at all events so occupied in washing greens at present that she remains unsuspicious of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have seen many new faces come, unsuspicious, within the influence of the mace and seal in these many years."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Morland knew so little of lords and baronets, that she entertained no notion of their general mischievousness, and was wholly unsuspicious of danger to her daughter from their machinations."*

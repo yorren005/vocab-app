@@ -5,13 +5,6 @@ status: unread
 ---
 # dermatoglyphics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the whorls and loops and arches in the fingertips and on the palms of the hand and the soles of the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatoglyphics designates the study of the whorls and loops and arches in the fingertips and on the palms of the hand and the soles of the feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the whorls and loops and arches in the fingertips and on the palms of the hand and the soles of the feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatoglyphics designates the study of the whorls and loops and arches in the fingertips and on the palms of the hand and the soles of the feet."*

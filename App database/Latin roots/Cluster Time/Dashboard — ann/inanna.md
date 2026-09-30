@@ -5,13 +5,6 @@ status: unread
 ---
 # inanna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consort of dumuzi (tammuz).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consort of dumuzi (tammuz).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inanna designates consort of dumuzi (tammuz)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consort of dumuzi (tammuz).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consort of dumuzi (tammuz).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inanna designates consort of dumuzi (tammuz)."*

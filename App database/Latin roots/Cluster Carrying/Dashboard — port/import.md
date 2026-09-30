@@ -5,15 +5,6 @@ status: unread
 ---
 # import
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) bought from a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imported person brought from a foreign country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters from my mother; what th’ import is I know not yet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this marriage All little jealousies, which now seem great, And all great fears, which now import their dangers, Would then be nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you knew How much they do import, you would make haste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) bought from a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imported person brought from a foreign country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters from my mother; what th’ import is I know not yet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this marriage All little jealousies, which now seem great, And all great fears, which now import their dangers, Would then be nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you knew How much they do import, you would make haste."*

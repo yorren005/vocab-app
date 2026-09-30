@@ -5,13 +5,6 @@ status: unread
 ---
 # penicillinase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillinase designates enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillinase designates enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic."*

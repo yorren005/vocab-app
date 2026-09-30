@@ -5,14 +5,6 @@ status: unread
 ---
 # evocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imaginative re-creation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calling up supposed supernatural forces by spells and incantations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I seemed at any rate, for an instant, to see their evocation of her as distinctly as I had seen her by the pond; and I brought out with decision: “It must have been also what _she_ wished!” Mrs."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"On my honor, miss, she says things—!” But at this evocation she broke down; she dropped, with a sudden sob, upon my sofa and, as I had seen her do before, gave way to all the grief of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imaginative re-creation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calling up supposed supernatural forces by spells and incantations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I seemed at any rate, for an instant, to see their evocation of her as distinctly as I had seen her by the pond; and I brought out with decision: “It must have been also what _she_ wished!” Mrs."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"On my honor, miss, she says things—!” But at this evocation she broke down; she dropped, with a sudden sob, upon my sofa and, as I had seen her do before, gave way to all the grief of it."*

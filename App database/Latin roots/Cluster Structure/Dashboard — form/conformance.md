@@ -5,14 +5,6 @@ status: unread
 ---
 # conformance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence in form or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence in form or appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such rights extend off-planet to national boundaries established in conformance with treaties in effect for delineating planetary and satellite jurisdictions in near and contiguous space."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such resources will be available, proportionately, from the Common Reserve in conformance with a nation's or government's verified needs and technological capabilities to utilize the resources for peaceful and beneficial purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence in form or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence in form or appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such rights extend off-planet to national boundaries established in conformance with treaties in effect for delineating planetary and satellite jurisdictions in near and contiguous space."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such resources will be available, proportionately, from the Common Reserve in conformance with a nation's or government's verified needs and technological capabilities to utilize the resources for peaceful and beneficial purposes."*

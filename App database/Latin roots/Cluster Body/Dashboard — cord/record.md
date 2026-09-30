@@ -5,15 +5,6 @@ status: unread
 ---
 # record
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be witness to me, O thou blessed moon, When men revolted shall upon record Bear hateful memory, poor Enobarbus did Before thy face repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My queen and Eros Have by their brave instruction got upon me A nobleness in record."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be witness to me, O thou blessed moon, When men revolted shall upon record Bear hateful memory, poor Enobarbus did Before thy face repent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My queen and Eros Have by their brave instruction got upon me A nobleness in record."*

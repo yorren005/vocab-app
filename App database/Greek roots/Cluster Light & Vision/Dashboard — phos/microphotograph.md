@@ -5,13 +5,6 @@ status: unread
 ---
 # microphotograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small photograph that is normally magnified for viewing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photomicrograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphotograph designates a small photograph that is normally magnified for viewing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small photograph that is normally magnified for viewing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photomicrograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphotograph designates a small photograph that is normally magnified for viewing."*

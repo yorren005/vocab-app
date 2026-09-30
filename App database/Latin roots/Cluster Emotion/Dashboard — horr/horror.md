@@ -5,15 +5,6 @@ status: unread
 ---
 # horror
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense and profound fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that inspires dislike; something horrible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do extend These thoughts of horror further than you shall Find cause in Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With horror, madly dying, like her life; Which, being cruel to the world, concluded Most cruel to herself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be stirring as the time; be fire with fire; Threaten the threat’ner, and outface the brow Of bragging horror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense and profound fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that inspires dislike; something horrible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do extend These thoughts of horror further than you shall Find cause in Caesar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With horror, madly dying, like her life; Which, being cruel to the world, concluded Most cruel to herself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be stirring as the time; be fire with fire; Threaten the threat’ner, and outface the brow Of bragging horror."*

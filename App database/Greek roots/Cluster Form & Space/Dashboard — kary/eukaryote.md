@@ -5,13 +5,6 @@ status: unread
 ---
 # eukaryote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryote designates any of a domain (eukarya) or a higher taxonomic group (eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryote designates any of a domain (eukarya) or a higher taxonomic group (eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles."*

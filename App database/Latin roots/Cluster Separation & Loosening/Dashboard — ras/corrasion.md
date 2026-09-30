@@ -5,13 +5,6 @@ status: unread
 ---
 # corrasion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erosion by friction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corrasion designates erosion by friction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erosion by friction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corrasion designates erosion by friction."*

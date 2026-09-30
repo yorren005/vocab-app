@@ -5,15 +5,6 @@ status: unread
 ---
 # archaic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of the language of the past and surviving chiefly in specialized uses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of an earlier or more primitive time : antiquated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Will the Jesus we draw be an antiquary's Jesus--an archaic figure, simple and lovable perhaps, but quaint and old-world--in blunt language, outgrown?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"When we look at the ancient world, the great men are not archaic figures."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is thing archaic about Plato or Virgil or Paul--to keep abreast of their thinking is no easy task for the strongest of our brains, so modern, eternal, and original they are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of the language of the past and surviving chiefly in specialized uses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of an earlier or more primitive time : antiquated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Will the Jesus we draw be an antiquary's Jesus--an archaic figure, simple and lovable perhaps, but quaint and old-world--in blunt language, outgrown?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"When we look at the ancient world, the great men are not archaic figures."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is thing archaic about Plato or Virgil or Paul--to keep abreast of their thinking is no easy task for the strongest of our brains, so modern, eternal, and original they are."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sexualise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sexual, endow with sex, attribute sex to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sexual, endow with sex, attribute sex to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexualise designates make sexual, endow with sex, attribute sex to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sexual, endow with sex, attribute sex to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sexual, endow with sex, attribute sex to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexualise designates make sexual, endow with sex, attribute sex to."*

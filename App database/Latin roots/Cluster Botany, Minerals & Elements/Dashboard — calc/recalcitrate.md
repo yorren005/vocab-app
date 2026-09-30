@@ -5,13 +5,6 @@ status: unread
 ---
 # recalcitrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalcitrate designates show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalcitrate designates show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient."*

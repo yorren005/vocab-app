@@ -5,15 +5,6 @@ status: unread
 ---
 # terminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end or halt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy explaining that he would terminate his little entertainment by standing treat at the play but that there are chords in the human mind which would render it a hollow mockery."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, and helped to turn up the circumstances in which the present company are interested, casually, by the wayside, being still and ever on the great high road that is to terminate in Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This was understood to terminate the Course for the evening, and we emerged into the air with shrieks of intellectual victory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end or halt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy explaining that he would terminate his little entertainment by standing treat at the play but that there are chords in the human mind which would render it a hollow mockery."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, and helped to turn up the circumstances in which the present company are interested, casually, by the wayside, being still and ever on the great high road that is to terminate in Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"This was understood to terminate the Course for the evening, and we emerged into the air with shrieks of intellectual victory."*

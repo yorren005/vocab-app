@@ -5,13 +5,6 @@ status: unread
 ---
 # anostraca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anostraca designates small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anostraca designates small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps."*

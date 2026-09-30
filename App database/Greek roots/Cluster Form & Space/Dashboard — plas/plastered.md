@@ -5,15 +5,6 @@ status: unread
 ---
 # plastered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply a heavy coat to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover conspicuously or thickly, as by pasting something on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He brought back only damp sand, which he plastered thick on the chest and shoulders of Robert Carr."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was empty, and he went on into a big old-fashioned kitchen, draughty enough with its high roof and blue plastered walls."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Should the monster follow, the taste which had plastered the walls with paintings had consistently supplied a rack of murderous Oriental weapons from which he could snatch one to suit the occasion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply a heavy coat to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover conspicuously or thickly, as by pasting something on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He brought back only damp sand, which he plastered thick on the chest and shoulders of Robert Carr."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It was empty, and he went on into a big old-fashioned kitchen, draughty enough with its high roof and blue plastered walls."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Should the monster follow, the taste which had plastered the walls with paintings had consistently supplied a rack of murderous Oriental weapons from which he could snatch one to suit the occasion."*

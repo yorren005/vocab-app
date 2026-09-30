@@ -5,15 +5,6 @@ status: unread
 ---
 # rival
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contestant you hope to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equal to in quality or ability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my Antonio, had I but the means To hold a rival place with one of them, I have a mind presages me such thrift That I should questionless be fortunate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you two are rival enemies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My foolish rival, that her father likes Only for his possessions are so huge, Is gone with her along, and I must after, For love, thou know’st, is full of jealousy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contestant you hope to defeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equal to in quality or ability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my Antonio, had I but the means To hold a rival place with one of them, I have a mind presages me such thrift That I should questionless be fortunate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you two are rival enemies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My foolish rival, that her father likes Only for his possessions are so huge, Is gone with her along, and I must after, For love, thou know’st, is full of jealousy."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # localisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) the principle that specific functions have relatively circumscribed locations in some particular part or organ of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A determination of the place where something is.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Success in true pyritic working depends upon the intensity of oxidation of the sulphides, and upon the localisation of the resulting heat at the narrow bessemerising zone situated just above the tuyeres."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Neither is localisation of the heat at the narrow tuyere zone so essential in partial pyritic smelting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) the principle that specific functions have relatively circumscribed locations in some particular part or organ of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A determination of the place where something is.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Success in true pyritic working depends upon the intensity of oxidation of the sulphides, and upon the localisation of the resulting heat at the narrow bessemerising zone situated just above the tuyeres."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Neither is localisation of the heat at the narrow tuyere zone so essential in partial pyritic smelting."*

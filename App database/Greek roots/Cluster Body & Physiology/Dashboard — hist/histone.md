@@ -5,13 +5,6 @@ status: unread
 ---
 # histone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histone designates a simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histone designates a simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # apocryphal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of doubtful authenticity : spurious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling the Apocrypha.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers of the Apocryphal Gospels did their best to fill the gap by inventing or developing stories, pretty, silly, or repellent, which only show how little they understood the original Gospels or the character of Jesus."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nay, they will even make these apocryphal volumes text-books, on which to enlarge, with a zeal and an ability worthy of a more generous cause."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I confess I was a little dubious at first whether it was not one of those apocryphal tales often passed off upon inquiring travellers like myself, and which have brought our general character for veracity into such unmerited reproach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of doubtful authenticity : spurious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling the Apocrypha.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers of the Apocryphal Gospels did their best to fill the gap by inventing or developing stories, pretty, silly, or repellent, which only show how little they understood the original Gospels or the character of Jesus."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nay, they will even make these apocryphal volumes text-books, on which to enlarge, with a zeal and an ability worthy of a more generous cause."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I confess I was a little dubious at first whether it was not one of those apocryphal tales often passed off upon inquiring travellers like myself, and which have brought our general character for veracity into such unmerited reproach."*

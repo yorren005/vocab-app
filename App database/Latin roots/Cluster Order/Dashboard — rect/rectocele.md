@@ -5,13 +5,6 @@ status: unread
 ---
 # rectocele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectocele designates protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectocele designates protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth."*

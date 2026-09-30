@@ -5,15 +5,6 @@ status: unread
 ---
 # promoter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is an active supporter and advocate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sponsor who books and stages public entertainments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not the civil engineer, but the railroad promoter determined the devious lines of many a railroad on the level prairies of America."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then is the time for the promoter to offer shares without limit to investors. § 14. #Monopoly's power to raise prices#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 334, on the function of the promoter.] [Footnote 12: See Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is an active supporter and advocate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sponsor who books and stages public entertainments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not the civil engineer, but the railroad promoter determined the devious lines of many a railroad on the level prairies of America."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then is the time for the promoter to offer shares without limit to investors. § 14. #Monopoly's power to raise prices#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 334, on the function of the promoter.] [Footnote 12: See Vol."*

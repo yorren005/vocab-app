@@ -5,15 +5,6 @@ status: unread
 ---
 # tote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A capacious bag or basket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry with difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"When her mother died, she went to live with a colored woman who made her work very hard, 'tote' wood and water, hoe cotton and corn, do all manner of drudgery, rise at daybreak, and live on scanty food."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah believe Ah will just tote my sympathy over to Reddy Fox,” said Unc' Billy Possum, as he started in the direction of Reddy Fox's house."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He say my chillens gwine to help chop and tote the wood!" "He can't—" "He say he shoot me 'tween the eyes iffen I tells hit, Mister Jodie!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A capacious bag or basket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry with difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"When her mother died, she went to live with a colored woman who made her work very hard, 'tote' wood and water, hoe cotton and corn, do all manner of drudgery, rise at daybreak, and live on scanty food."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah believe Ah will just tote my sympathy over to Reddy Fox,” said Unc' Billy Possum, as he started in the direction of Reddy Fox's house."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He say my chillens gwine to help chop and tote the wood!" "He can't—" "He say he shoot me 'tween the eyes iffen I tells hit, Mister Jodie!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # morpheus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roman god of sleep and dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roman god of sleep and dreams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"If I don’t sleep at once, chloral, the modern Morpheus--C_{2}HCl_{3}O."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In a few brief moments, the others of the party were blowing, in nasal trumpetings, the praises of Morpheus."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Even Sachem, who usually hugged Morpheus so long and late, might that morning have been seen among the earliest of us washing in the waters of the creek."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The roman god of sleep and dreams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roman god of sleep and dreams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"If I don’t sleep at once, chloral, the modern Morpheus--C_{2}HCl_{3}O."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"In a few brief moments, the others of the party were blowing, in nasal trumpetings, the praises of Morpheus."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Even Sachem, who usually hugged Morpheus so long and late, might that morning have been seen among the earliest of us washing in the waters of the creek."*

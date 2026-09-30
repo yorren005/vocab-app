@@ -5,15 +5,6 @@ status: unread
 ---
 # baseball
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ball used in playing baseball.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Columbia, my sister, Your children you have seen, Drowned in the cruel ocean By German submarine; But baseball is important, The theatre and dance, And pleasure rules in Texas While horror reigns in France."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Harry was the champion runner, jumper, boxer and baseball player, and was quite eager to maintain his proud distinction."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was about the size of a baseball with little holes in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ball used in playing baseball.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Columbia, my sister, Your children you have seen, Drowned in the cruel ocean By German submarine; But baseball is important, The theatre and dance, And pleasure rules in Texas While horror reigns in France."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Harry was the champion runner, jumper, boxer and baseball player, and was quite eager to maintain his proud distinction."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was about the size of a baseball with little holes in it."*

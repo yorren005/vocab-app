@@ -5,13 +5,6 @@ status: unread
 ---
 # unselective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not selective or discriminating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not selective or discriminating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unselective designates not selective or discriminating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not selective or discriminating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not selective or discriminating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unselective designates not selective or discriminating."*

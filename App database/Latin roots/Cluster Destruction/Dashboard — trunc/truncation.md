@@ -5,13 +5,6 @@ status: unread
 ---
 # truncation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being truncated or short.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The replacement of an edge or solid angle (as in cutting a gemstone) by a plane (especially by a plane that is equally inclined to the adjacent faces).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, truncation designates the property of being truncated or short."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being truncated or short.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The replacement of an edge or solid angle (as in cutting a gemstone) by a plane (especially by a plane that is equally inclined to the adjacent faces).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, truncation designates the property of being truncated or short."*

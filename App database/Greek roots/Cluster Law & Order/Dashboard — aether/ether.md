@@ -5,15 +5,6 @@ status: unread
 ---
 # ether
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rarefied element formerly believed to fill the upper regions of space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper regions of space : heavens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or, if man’s superior might Dare invade your native right, On the lofty ether borne, Man with all his pow’rs you scorn; Swiftly seek, on clanging wings, Other lakes and other springs; And the foe you cannot brave, Scorn at least to be his slave."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When Politics came there, to mix And make his ether-stane, man!"*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He runs wild over the fields of ether."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rarefied element formerly believed to fill the upper regions of space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper regions of space : heavens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or, if man’s superior might Dare invade your native right, On the lofty ether borne, Man with all his pow’rs you scorn; Swiftly seek, on clanging wings, Other lakes and other springs; And the foe you cannot brave, Scorn at least to be his slave."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When Politics came there, to mix And make his ether-stane, man!"*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He runs wild over the fields of ether."*

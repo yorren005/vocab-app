@@ -5,15 +5,6 @@ status: unread
 ---
 # disturbance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Activity that is a malfunction, intrusion, or interruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unhappy and worried mental state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It seems like making a great disturbance about nothing particular.” “My dear Richard,” said I, “how CAN you say about nothing particular?” “I don’t mean absolutely that,” he returned."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a wild disturbance—is it fear or anger?—in her eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’ll be no noise and no disturbance at all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Activity that is a malfunction, intrusion, or interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unhappy and worried mental state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It seems like making a great disturbance about nothing particular.” “My dear Richard,” said I, “how CAN you say about nothing particular?” “I don’t mean absolutely that,” he returned."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is a wild disturbance—is it fear or anger?—in her eyes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There’ll be no noise and no disturbance at all."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tunic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping or covering membrane or layer of body tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of loose fitting cloaks extending to the hips or knees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His military uniform was skin-tight: a black tunic belted over blood-red breeches."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Go ahead." Ram drew a small plastic card from the breast pocket of his tunic and handed it to the operator."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A small man in a nondescript tunic sidled up Ram's table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping or covering membrane or layer of body tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of loose fitting cloaks extending to the hips or knees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His military uniform was skin-tight: a black tunic belted over blood-red breeches."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Go ahead." Ram drew a small plastic card from the breast pocket of his tunic and handed it to the operator."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A small man in a nondescript tunic sidled up Ram's table."*

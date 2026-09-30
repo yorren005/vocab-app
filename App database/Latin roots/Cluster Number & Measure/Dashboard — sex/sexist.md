@@ -5,13 +5,6 @@ status: unread
 ---
 # sexist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man with a chauvinistic belief in the inferiority of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminatory on the basis of sex (usually said of men's attitude toward women).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexist designates a man with a chauvinistic belief in the inferiority of women."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man with a chauvinistic belief in the inferiority of women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discriminatory on the basis of sex (usually said of men's attitude toward women).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexist designates a man with a chauvinistic belief in the inferiority of women."*

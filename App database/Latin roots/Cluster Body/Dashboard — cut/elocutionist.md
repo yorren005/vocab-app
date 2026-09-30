@@ -5,13 +5,6 @@ status: unread
 ---
 # elocutionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public speaker trained in voice production and gesture and delivery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public speaker trained in voice production and gesture and delivery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Murdoch, the daughter of the patriotic actor and elocutionist, gave her services with great earnestness to the work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public speaker trained in voice production and gesture and delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public speaker trained in voice production and gesture and delivery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Murdoch, the daughter of the patriotic actor and elocutionist, gave her services with great earnestness to the work."*

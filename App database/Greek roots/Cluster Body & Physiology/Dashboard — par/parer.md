@@ -5,13 +5,6 @@ status: unread
 ---
 # parer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manicurist who trims the fingernails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sharp knife used in paring fruits or vegetables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parer designates a manicurist who trims the fingernails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manicurist who trims the fingernails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sharp knife used in paring fruits or vegetables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parer designates a manicurist who trims the fingernails."*

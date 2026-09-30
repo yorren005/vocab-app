@@ -5,13 +5,6 @@ status: unread
 ---
 # pinguecula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinguecula designates a slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinguecula designates a slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it."*

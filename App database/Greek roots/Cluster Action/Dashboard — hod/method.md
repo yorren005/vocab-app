@@ -5,15 +5,6 @@ status: unread
 ---
 # method
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procedure or process for attaining an object: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic procedure, technique, or mode of inquiry employed by or proper to a particular discipline or art.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, methinks, if you did love him dearly, You do not hold the method to enforce The like from him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"POLONIUS. [_Aside._] Though this be madness, yet there is method in’t.— Will you walk out of the air, my lord?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A procedure or process for attaining an object: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic procedure, technique, or mode of inquiry employed by or proper to a particular discipline or art.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, methinks, if you did love him dearly, You do not hold the method to enforce The like from him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"POLONIUS. [_Aside._] Though this be madness, yet there is method in’t.— Will you walk out of the air, my lord?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # encrimson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make crimson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make crimson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encrimson designates make crimson."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make crimson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make crimson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encrimson designates make crimson."*

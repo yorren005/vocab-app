@@ -5,15 +5,6 @@ status: unread
 ---
 # receptacle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container that is used to put or keep things in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enlarged tip of a stem that bears the floral parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sacred receptacle of my joys, Sweet cell of virtue and nobility, How many sons hast thou of mine in store, That thou wilt never render to me more?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O brother, help me with thy fainting hand, If fear hath made thee faint, as me it hath, Out of this fell devouring receptacle, As hateful as Cocytus’ misty mouth."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This place has previously been mentioned as the receptacle for the blanket-pieces, when stript and hoisted from the whale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container that is used to put or keep things in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enlarged tip of a stem that bears the floral parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sacred receptacle of my joys, Sweet cell of virtue and nobility, How many sons hast thou of mine in store, That thou wilt never render to me more?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O brother, help me with thy fainting hand, If fear hath made thee faint, as me it hath, Out of this fell devouring receptacle, As hateful as Cocytus’ misty mouth."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This place has previously been mentioned as the receptacle for the blanket-pieces, when stript and hoisted from the whale."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # alpha-tocopheral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent form of vitamin e obtained from germ oils or by synthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent form of vitamin e obtained from germ oils or by synthesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-tocopheral designates a potent form of vitamin e obtained from germ oils or by synthesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent form of vitamin e obtained from germ oils or by synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent form of vitamin e obtained from germ oils or by synthesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-tocopheral designates a potent form of vitamin e obtained from germ oils or by synthesis."*

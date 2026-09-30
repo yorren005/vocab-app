@@ -5,13 +5,6 @@ status: unread
 ---
 # anabatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an air current or wind; rising especially up a slope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an air current or wind; rising especially up a slope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabatic designates of an air current or wind; rising especially up a slope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an air current or wind; rising especially up a slope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an air current or wind; rising especially up a slope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabatic designates of an air current or wind; rising especially up a slope."*

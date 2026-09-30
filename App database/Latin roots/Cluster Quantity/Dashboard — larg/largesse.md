@@ -5,15 +5,6 @@ status: unread
 ---
 # largesse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gift or money given (as for service or out of benevolence); usually given ostentatiously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Next day he distributed largesse to his followers."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"James closes his description by a burst of general eulogium: In her was youth, beauty, with humble port, Bounty, richesse, and womanly feature: God better knows than my pen can report, Wisdom, largesse,+ estate,++ and cunning& sure."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In every point so guided her measure, In word, in deed, in shape, in countenance, That nature might no more her child advance. * Wrought gold. + Largesse, bounty. ++ Estate, dignity. & Cunning, discretion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gift or money given (as for service or out of benevolence); usually given ostentatiously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Next day he distributed largesse to his followers."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"James closes his description by a burst of general eulogium: In her was youth, beauty, with humble port, Bounty, richesse, and womanly feature: God better knows than my pen can report, Wisdom, largesse,+ estate,++ and cunning& sure."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In every point so guided her measure, In word, in deed, in shape, in countenance, That nature might no more her child advance. * Wrought gold. + Largesse, bounty. ++ Estate, dignity. & Cunning, discretion."*

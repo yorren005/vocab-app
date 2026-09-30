@@ -5,15 +5,6 @@ status: unread
 ---
 # stand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A support or foundation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position where a thing or person stands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O give thyself the thanks if aught in me, Worthy perusal stand against thy sight, For who’s so dumb that cannot write to thee, When thou thyself dost give invention light?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet to times in hope, my verse shall stand Praising thy worth, despite his cruel hand. 61 Is it thy will, thy image should keep open My heavy eyelids to the weary night?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A support or foundation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position where a thing or person stands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O give thyself the thanks if aught in me, Worthy perusal stand against thy sight, For who’s so dumb that cannot write to thee, When thou thyself dost give invention light?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet to times in hope, my verse shall stand Praising thy worth, despite his cruel hand. 61 Is it thy will, thy image should keep open My heavy eyelids to the weary night?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*

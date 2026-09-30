@@ -5,15 +5,6 @@ status: unread
 ---
 # cognac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High quality grape brandy distilled in the cognac district of france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High quality grape brandy distilled in the cognac district of france.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"By Jove! my feelings have ripened for you like fine old cognac."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had not yet fully learned that even the desire for cognac was not stronger in Raffles than the desire to torment, and that a hint of annoyance always served him as a fresh cue."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"A fire lingered in the grate, and Barter replenished it, and, having produced a box of cigars and a bottle of cognac, proffered refreshment to his guest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High quality grape brandy distilled in the cognac district of france.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High quality grape brandy distilled in the cognac district of france.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"By Jove! my feelings have ripened for you like fine old cognac."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had not yet fully learned that even the desire for cognac was not stronger in Raffles than the desire to torment, and that a hint of annoyance always served him as a fresh cue."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"A fire lingered in the grate, and Barter replenished it, and, having produced a box of cigars and a bottle of cognac, proffered refreshment to his guest."*

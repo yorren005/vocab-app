@@ -5,15 +5,6 @@ status: unread
 ---
 # deputy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone authorized to exercise the powers of sheriff in emergencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant with power to act when his superior is absent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no more faith in thee than in a stewed prune, nor no more truth in thee than in a drawn fox; and, for woman-hood, Maid Marian may be the deputy’s wife of the ward to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I again, in Henry’s royal name, As deputy unto that gracious king, Give thee her hand for sign of plighted faith."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore, by His majesty I swear, Whose far unworthy deputy I am, He shall not breathe infection in this air But three days longer, on the pain of death. [_Exit Salisbury._] QUEEN MARGARET."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone authorized to exercise the powers of sheriff in emergencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant with power to act when his superior is absent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no more faith in thee than in a stewed prune, nor no more truth in thee than in a drawn fox; and, for woman-hood, Maid Marian may be the deputy’s wife of the ward to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I again, in Henry’s royal name, As deputy unto that gracious king, Give thee her hand for sign of plighted faith."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore, by His majesty I swear, Whose far unworthy deputy I am, He shall not breathe infection in this air But three days longer, on the pain of death. [_Exit Salisbury._] QUEEN MARGARET."*

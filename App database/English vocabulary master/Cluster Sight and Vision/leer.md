@@ -5,20 +5,6 @@ status: unread
 ---
 # leer
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lascivious, knowing, or wanton look
-> 2. **Nuance / Usage**: (transitive) to entice with a leer or leers
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to leer the target*) and intransitive clauses (*leering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"carves, she gives the leer of invitation."*
-> - 📜 **James Joyce (*Ulysses*):** *"with your lousy leer and your gloomy jesuit jibes."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"and not very pleasing leer)--why boys will be boys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To look sideways or obliquely at someone with a lascivious, malicious, or unpleasant grin.
+> 2. **Nuance / Usage**: As a noun, a sly, lecherous, or gloating expression that betrays ill intent or unwholesome desire.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to leer the target*) and intransitive clauses (*leering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"She discourses, she carves, she gives the **leer** of invitation."*
+> - 📜 **James Joyce (*Ulysses*):** *"Away with your lousy **leer** and your gloomy Jesuit jibes!"*
+> - 📜 **Alexander Pope (*Epistle to Dr. Arbuthnot*):** *"Damn with faint praise, assent with civil **leer**, and without sneering, teach the rest to sneer."*

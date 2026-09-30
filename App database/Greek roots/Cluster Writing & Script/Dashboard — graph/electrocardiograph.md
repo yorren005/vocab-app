@@ -5,13 +5,6 @@ status: unread
 ---
 # electrocardiograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiograph designates an instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiograph designates an instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action."*

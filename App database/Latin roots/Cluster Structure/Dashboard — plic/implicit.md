@@ -5,15 +5,6 @@ status: unread
 ---
 # implicit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Implied though not directly expressed; inherent in the nature of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without doubt or reserve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s face, his mother yields her implicit assent to what he asks."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She lived many years after that, but was never heard to murmur in that way again, and often said that the two pairs of shoes taught her to _wait, hope and trust_, and thereby learn implicit confidence in Him who sendeth all blessings."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let me recommend you, however, as a friend, not to give implicit confidence to all his assertions; for, as to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Implied though not directly expressed; inherent in the nature of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without doubt or reserve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s face, his mother yields her implicit assent to what he asks."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She lived many years after that, but was never heard to murmur in that way again, and often said that the two pairs of shoes taught her to _wait, hope and trust_, and thereby learn implicit confidence in Him who sendeth all blessings."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let me recommend you, however, as a friend, not to give implicit confidence to all his assertions; for, as to Mr."*

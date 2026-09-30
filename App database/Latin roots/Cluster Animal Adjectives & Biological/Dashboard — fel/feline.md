@@ -5,15 +5,6 @@ status: unread
 ---
 # feline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That feline personage, with her lips tightly shut and her eyes looking out at him sideways, softly closes the door before replying."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"A dark blot among ripples on a flat and steely glimmer, the sketch of a whiskered feline mask . . ."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Human madness is oftentimes a cunning and most feline thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That feline personage, with her lips tightly shut and her eyes looking out at him sideways, softly closes the door before replying."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"A dark blot among ripples on a flat and steely glimmer, the sketch of a whiskered feline mask . . ."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Human madness is oftentimes a cunning and most feline thing."*

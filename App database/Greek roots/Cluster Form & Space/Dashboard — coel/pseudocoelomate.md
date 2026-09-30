@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudocoelomate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocoelomate designates an invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocoelomate designates an invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom."*

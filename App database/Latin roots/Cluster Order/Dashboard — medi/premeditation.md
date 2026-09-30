@@ -5,15 +5,6 @@ status: unread
 ---
 # premeditation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Planning or plotting in advance of acting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) thought and intention to commit a crime well in advance of the crime; goes to show criminal intent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A cold premeditation for my purpose!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her entreaty that _she_ would not give in to it."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Without premeditation, to her own surprise, and indeed terror, she had given vent, for once, to the inveteracy of her resentment, cherished against this kinsman for thirty years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Planning or plotting in advance of acting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) thought and intention to commit a crime well in advance of the crime; goes to show criminal intent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A cold premeditation for my purpose!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her entreaty that _she_ would not give in to it."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Without premeditation, to her own surprise, and indeed terror, she had given vent, for once, to the inveteracy of her resentment, cherished against this kinsman for thirty years."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # intercessor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"He ask’d, but all the Heav’nly Quire stood mute, And silence was in Heav’n: on mans behalf Patron or Intercessor none appeerd, Much less that durst upon his own head draw The deadly forfeiture, and ransom set."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not be made a soft and dull-eyed fool, To shake the head, relent, and sigh, and yield To Christian intercessors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"He ask’d, but all the Heav’nly Quire stood mute, And silence was in Heav’n: on mans behalf Patron or Intercessor none appeerd, Much less that durst upon his own head draw The deadly forfeiture, and ransom set."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not be made a soft and dull-eyed fool, To shake the head, relent, and sigh, and yield To Christian intercessors."*

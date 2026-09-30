@@ -5,15 +5,6 @@ status: unread
 ---
 # portrayal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting the part of a character on stage; dramatically representing the character by speech and action and gesture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is much easier to create perplexity on these terms; but on the other hand, the riddle novel demands a power of vivid character portrayal and of telling description which are not indispensable in the briefer narrative."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The portrayal is still graphically accurate, for the common conception of mor- 92:18 tal man - a burlesque of God's man - is an outgrowth of human knowledge or sensuality, a mere offshoot of material sense."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Egypt again had other portrayals of the gods--on a pattern of her own, strange and massive and huge, far older."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting the part of a character on stage; dramatically representing the character by speech and action and gesture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is much easier to create perplexity on these terms; but on the other hand, the riddle novel demands a power of vivid character portrayal and of telling description which are not indispensable in the briefer narrative."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The portrayal is still graphically accurate, for the common conception of mor- 92:18 tal man - a burlesque of God's man - is an outgrowth of human knowledge or sensuality, a mere offshoot of material sense."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Egypt again had other portrayals of the gods--on a pattern of her own, strange and massive and huge, far older."*

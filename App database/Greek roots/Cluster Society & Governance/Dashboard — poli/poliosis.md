@@ -5,13 +5,6 @@ status: unread
 ---
 # poliosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The decrease or absence of melanin in head hair, eyebrows, or eyelashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decrease or absence of melanin in head hair, eyebrows, or eyelashes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliosis designates the decrease or absence of melanin in head hair, eyebrows, or eyelashes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The decrease or absence of melanin in head hair, eyebrows, or eyelashes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decrease or absence of melanin in head hair, eyebrows, or eyelashes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliosis designates the decrease or absence of melanin in head hair, eyebrows, or eyelashes."*

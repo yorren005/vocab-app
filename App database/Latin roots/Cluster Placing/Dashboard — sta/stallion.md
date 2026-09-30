@@ -5,15 +5,6 @@ status: unread
 ---
 # stallion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncastrated adult male horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncastrated adult male horse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And most of all I remember a great, hairy-fetlocked stallion, often led dancing, sidling, and nickering down the narrow street."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, in the end she wept, so that I was raped of my vision, and it was Har, naked and clinging, that bestrode the stallion when he vaulted away."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In her eyes I saw the eyes of Igar when I was Ushu the archer, the eyes of Arunga when I was the rice-harvester, the eyes of Selpa when I dreamed of bestriding the stallion, the eyes of Nuhila who leaned to the thrust of my sword."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncastrated adult male horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncastrated adult male horse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And most of all I remember a great, hairy-fetlocked stallion, often led dancing, sidling, and nickering down the narrow street."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, in the end she wept, so that I was raped of my vision, and it was Har, naked and clinging, that bestrode the stallion when he vaulted away."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In her eyes I saw the eyes of Igar when I was Ushu the archer, the eyes of Arunga when I was the rice-harvester, the eyes of Selpa when I dreamed of bestriding the stallion, the eyes of Nuhila who leaned to the thrust of my sword."*

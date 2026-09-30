@@ -5,15 +5,6 @@ status: unread
 ---
 # allegiance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of binding yourself (intellectually or emotionally) to a course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The loyalty that citizens owe to their country (or subjects to their sovereign).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As if allegiance in their bosoms sat Crowned with faith and constant loyalty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you, on allegiance to ourself, To hold your slaughtering hands and keep the peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of binding yourself (intellectually or emotionally) to a course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The loyalty that citizens owe to their country (or subjects to their sovereign).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As if allegiance in their bosoms sat Crowned with faith and constant loyalty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you, on allegiance to ourself, To hold your slaughtering hands and keep the peace."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lunchroom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A restaurant (in a facility) where lunch can be purchased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A restaurant (in a facility) where lunch can be purchased.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The lunchroom was in the rear of a saloon and there the missionary took his belated meal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A restaurant (in a facility) where lunch can be purchased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A restaurant (in a facility) where lunch can be purchased.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The lunchroom was in the rear of a saloon and there the missionary took his belated meal."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # efficacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capacity or power to produce a desired effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capacity or power to produce a desired effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth had nothing to propose of deeper efficacy."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Believing in the efficacy of prayer, he called together his friends, specially to ask that his impediment might be removed."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Patton, her personal testimony of the efficacy of prayer: "Three years ago, I was healed of a bodily disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capacity or power to produce a desired effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capacity or power to produce a desired effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth had nothing to propose of deeper efficacy."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Believing in the efficacy of prayer, he called together his friends, specially to ask that his impediment might be removed."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Patton, her personal testimony of the efficacy of prayer: "Three years ago, I was healed of a bodily disease."*

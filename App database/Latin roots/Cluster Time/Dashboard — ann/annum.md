@@ -5,15 +5,6 @@ status: unread
 ---
 # annum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (latin) year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (latin) year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"There dwells near us a Gentleman of bloud, Monsieur _Brisac_, of a fair Estate, six thousand Crowns _per annum_, the happy Father of two hopeful Sons, of different breeding; the Elder, a meer Scholar; the younger, a quaint Courtier. _Ang_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These bear interest, from the first day of the month next following that in which the deposit is made, at the rate of 2 per cent per annum for a whole year (interest is not paid for any fraction of a year)."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester _is_ peculiar—he seems to forget that he pays me £30 per annum for receiving his orders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (latin) year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (latin) year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"There dwells near us a Gentleman of bloud, Monsieur _Brisac_, of a fair Estate, six thousand Crowns _per annum_, the happy Father of two hopeful Sons, of different breeding; the Elder, a meer Scholar; the younger, a quaint Courtier. _Ang_."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These bear interest, from the first day of the month next following that in which the deposit is made, at the rate of 2 per cent per annum for a whole year (interest is not paid for any fraction of a year)."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester _is_ peculiar—he seems to forget that he pays me £30 per annum for receiving his orders."*

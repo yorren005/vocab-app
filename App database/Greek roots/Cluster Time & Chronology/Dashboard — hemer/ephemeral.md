@@ -5,15 +5,6 @@ status: unread
 ---
 # ephemeral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting a very short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lasting one day only.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The infinitude of God 267:1 Every object in material thought will be destroyed, but the spiritual idea, whose substance is in Mind, is eternal. 267:3 The offspring of God start not from matter or ephemeral dust."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For strength of character in the race as in the individual consists mainly in the power of sacrificing the present to the future, of disregarding the immediate temptations of ephemeral pleasure for more distant and lasting sources of satisfaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting a very short time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lasting one day only.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The infinitude of God 267:1 Every object in material thought will be destroyed, but the spiritual idea, whose substance is in Mind, is eternal. 267:3 The offspring of God start not from matter or ephemeral dust."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For strength of character in the race as in the individual consists mainly in the power of sacrificing the present to the future, of disregarding the immediate temptations of ephemeral pleasure for more distant and lasting sources of satisfaction."*

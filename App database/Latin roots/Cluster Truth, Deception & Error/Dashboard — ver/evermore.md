@@ -5,15 +5,6 @@ status: unread
 ---
 # evermore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At any future time; in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limitless time; ; - p.p.bliss.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine evermore, most dear lady, whilst this machine is to him, HAMLET._ This in obedience hath my daughter show’d me; And more above, hath his solicitings, As they fell out by time, by means, and place, All given to mine ear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At any future time; in the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limitless time; ; - p.p.bliss.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine evermore, most dear lady, whilst this machine is to him, HAMLET._ This in obedience hath my daughter show’d me; And more above, hath his solicitings, As they fell out by time, by means, and place, All given to mine ear."*

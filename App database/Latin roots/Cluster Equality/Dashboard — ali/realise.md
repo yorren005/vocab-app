@@ -5,15 +5,6 @@ status: unread
 ---
 # realise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earn on some commercial or business transaction; earn as salary or wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into cash; of goods and property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was only as I walked away, hearing my own steps and those of Lecamus ringing upon the pavement, that I began to realise what had happened."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was tormented by the contrast between my idea and my handiwork: in each case I had imagined something which I was quite powerless to realise.” “Not quite: you have secured the shadow of your thought; but no more, probably."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was not born for a different destiny to the rest of my species: to imagine such a lot befalling me is a fairy tale—a day-dream.” “Which I can and will realise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earn on some commercial or business transaction; earn as salary or wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into cash; of goods and property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was only as I walked away, hearing my own steps and those of Lecamus ringing upon the pavement, that I began to realise what had happened."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was tormented by the contrast between my idea and my handiwork: in each case I had imagined something which I was quite powerless to realise.” “Not quite: you have secured the shadow of your thought; but no more, probably."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was not born for a different destiny to the rest of my species: to imagine such a lot befalling me is a fairy tale—a day-dream.” “Which I can and will realise."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adoration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of profound love and admiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admiring strongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is thy soul of adoration?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The rapture of Lydia on this occasion, her adoration of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of profound love and admiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admiring strongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is thy soul of adoration?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The rapture of Lydia on this occasion, her adoration of Mrs."*

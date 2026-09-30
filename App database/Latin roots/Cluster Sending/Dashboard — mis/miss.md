@@ -5,15 +5,6 @@ status: unread
 ---
 # miss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure to hit (or meet or find etc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who ever strove To show her merit that did miss her love?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone tomorrow; and be sure of this, What I can help thee to, thou shalt not miss. [_Exeunt._] ACT II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he would miss it rather Than carry it but by the suit of the gentry to him And the desire of the nobles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure to hit (or meet or find etc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who ever strove To show her merit that did miss her love?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone tomorrow; and be sure of this, What I can help thee to, thou shalt not miss. [_Exeunt._] ACT II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he would miss it rather Than carry it but by the suit of the gentry to him And the desire of the nobles."*

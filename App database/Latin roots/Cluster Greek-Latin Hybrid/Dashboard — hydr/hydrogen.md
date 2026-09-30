@@ -5,15 +5,6 @@ status: unread
 ---
 # hydrogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And even if I wish to rise more quickly to the surface, I ship the screw, and the pressure of the water causes the _Nautilus_ to rise vertically like a balloon filled with hydrogen.” “Bravo, Captain!"*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The platinum, owing to a property it possesses in a high degree (which property however is not special to platinum), has the power of coercing the union of the hydrogen and oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And even if I wish to rise more quickly to the surface, I ship the screw, and the pressure of the water causes the _Nautilus_ to rise vertically like a balloon filled with hydrogen.” “Bravo, Captain!"*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The platinum, owing to a property it possesses in a high degree (which property however is not special to platinum), has the power of coercing the union of the hydrogen and oxygen."*

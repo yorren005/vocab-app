@@ -5,15 +5,6 @@ status: unread
 ---
 # appraise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider in a comprehensive way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"It is needless; I have seen him!” “Well?” “I fear that he does not appraise me at much."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You insult and then threaten harm to us." Brad grinned at Drummer, who was watching him with an appraising expression."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself carefully scanned each face, appraising the possibilities of establishing intimacy with each of those present, and the advantages that might accrue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider in a comprehensive way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"It is needless; I have seen him!” “Well?” “I fear that he does not appraise me at much."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You insult and then threaten harm to us." Brad grinned at Drummer, who was watching him with an appraising expression."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself carefully scanned each face, appraising the possibilities of establishing intimacy with each of those present, and the advantages that might accrue."*

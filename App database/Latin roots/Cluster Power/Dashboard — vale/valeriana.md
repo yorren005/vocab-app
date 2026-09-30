@@ -5,13 +5,6 @@ status: unread
 ---
 # valeriana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of widely distributed perennial herbs and some shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of widely distributed perennial herbs and some shrubs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VALERIAN RUST; spots yellowish; sori subrotund, small, confluent, sometimes circinating; epidermis at length bursting; spores reddish-brown, subglobose or clavate, shortly pedicellate.—On _Valeriana officinalis_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of widely distributed perennial herbs and some shrubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of widely distributed perennial herbs and some shrubs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VALERIAN RUST; spots yellowish; sori subrotund, small, confluent, sometimes circinating; epidermis at length bursting; spores reddish-brown, subglobose or clavate, shortly pedicellate.—On _Valeriana officinalis_."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # commissure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commissure designates a bundle of nerve fibers passing from one side to the other of the brain or spinal cord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commissure designates a bundle of nerve fibers passing from one side to the other of the brain or spinal cord."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reflex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic instinctive unlearned reaction to a stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without volition or conscious control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll say yon grey is not the morning’s eye, ’Tis but the pale reflex of Cynthia’s brow."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Fred fancied that he saw to the bottom of his uncle Featherstone’s soul, though in reality half what he saw there was no more than the reflex of his own inclinations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic instinctive unlearned reaction to a stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without volition or conscious control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll say yon grey is not the morning’s eye, ’Tis but the pale reflex of Cynthia’s brow."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred fancied that he saw to the bottom of his uncle Featherstone’s soul, though in reality half what he saw there was no more than the reflex of his own inclinations."*

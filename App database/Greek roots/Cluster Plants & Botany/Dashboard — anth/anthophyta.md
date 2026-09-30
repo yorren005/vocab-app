@@ -5,13 +5,6 @@ status: unread
 ---
 # anthophyta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophyta designates comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophyta designates comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta)."*

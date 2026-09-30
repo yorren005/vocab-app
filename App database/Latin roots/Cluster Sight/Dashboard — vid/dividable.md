@@ -5,13 +5,6 @@ status: unread
 ---
 # dividable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Can be divided usually without leaving a remainder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can be divided usually without leaving a remainder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Can be divided usually without leaving a remainder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can be divided usually without leaving a remainder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*

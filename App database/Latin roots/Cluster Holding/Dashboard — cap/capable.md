@@ -5,15 +5,6 @@ status: unread
 ---
 # capable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `of') having capacity or ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possibly accepting or permitting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Scratch thee but with a pin, and there remains Some scar of it; lean upon a rush, The cicatrice and capable impressure Thy palm some moment keeps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `of') having capacity or ability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possibly accepting or permitting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Scratch thee but with a pin, and there remains Some scar of it; lean upon a rush, The cicatrice and capable impressure Thy palm some moment keeps."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # corvette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly maneuverable escort warship; smaller than a destroyer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly maneuverable escort warship; smaller than a destroyer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"American schooner arrested by Russian corvette for selling rum to Bering Strait natives: a very strict modern people, the Russians...."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I chose this place, because, having served last in a little corvette, I knew I should feel more at home where I had a constant opportunity of knocking my head against the ceiling."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They embarked in the corvettes Boussole and the Astrolabe, neither of which were again heard of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly maneuverable escort warship; smaller than a destroyer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly maneuverable escort warship; smaller than a destroyer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"American schooner arrested by Russian corvette for selling rum to Bering Strait natives: a very strict modern people, the Russians...."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I chose this place, because, having served last in a little corvette, I knew I should feel more at home where I had a constant opportunity of knocking my head against the ceiling."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They embarked in the corvettes Boussole and the Astrolabe, neither of which were again heard of."*

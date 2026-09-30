@@ -5,15 +5,6 @@ status: unread
 ---
 # prescribed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue commands or orders for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set down as a rule or guide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mere animal satisfaction!” “This is our friend’s consulting-room (or would be, if he ever prescribed), his sanctum, his studio,” said my guardian to us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The auspicious event is always commemorated according to certain forms settled and prescribed by Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She wanted it to be prescribed, and felt as a duty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue commands or orders for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set down as a rule or guide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mere animal satisfaction!” “This is our friend’s consulting-room (or would be, if he ever prescribed), his sanctum, his studio,” said my guardian to us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The auspicious event is always commemorated according to certain forms settled and prescribed by Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She wanted it to be prescribed, and felt as a duty."*

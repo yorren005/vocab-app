@@ -5,14 +5,6 @@ status: unread
 ---
 # primus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presiding bishop of the episcopal church of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable paraffin cooking stove; used by campers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Read here and wonder;_ Fletcher _writ the Play._ _ACTUS PRIMUS."*
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Well, see you, sweet lady, Primus and Secundus were my own thoughts, and who is to disprove them?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presiding bishop of the episcopal church of scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable paraffin cooking stove; used by campers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Read here and wonder;_ Fletcher _writ the Play._ _ACTUS PRIMUS."*
+> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Well, see you, sweet lady, Primus and Secundus were my own thoughts, and who is to disprove them?"*

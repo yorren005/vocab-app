@@ -5,15 +5,6 @@ status: unread
 ---
 # attribute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A construct whereby objects or individuals can be distinguished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstraction belonging to or characteristic of an entity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless you play the pious innocent, And for an honest attribute cry out ‘She died by foul play.’ CLEON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much attribute he hath, and much the reason Why we ascribe it to him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I began to fear,” with timid tenderness, “as it was past the usual time, that Miss Jellyby was not coming.” “I beg you will have the goodness to attribute that to me, who have detained her, and to receive my excuses, sir,” said I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A construct whereby objects or individuals can be distinguished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstraction belonging to or characteristic of an entity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless you play the pious innocent, And for an honest attribute cry out ‘She died by foul play.’ CLEON."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much attribute he hath, and much the reason Why we ascribe it to him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I began to fear,” with timid tenderness, “as it was past the usual time, that Miss Jellyby was not coming.” “I beg you will have the goodness to attribute that to me, who have detained her, and to receive my excuses, sir,” said I."*

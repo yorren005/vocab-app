@@ -5,13 +5,6 @@ status: unread
 ---
 # extremism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any political theory favoring immoderate uncompromising policies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any political theory favoring immoderate uncompromising policies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extremism designates any political theory favoring immoderate uncompromising policies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any political theory favoring immoderate uncompromising policies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any political theory favoring immoderate uncompromising policies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extremism designates any political theory favoring immoderate uncompromising policies."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # arsehole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulgar slang for anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulgar slang for anus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsehole designates vulgar slang for anus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulgar slang for anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulgar slang for anus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsehole designates vulgar slang for anus."*

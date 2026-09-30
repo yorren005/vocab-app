@@ -5,14 +5,6 @@ status: unread
 ---
 # importunately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beseeching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beseeching manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Not the less, however, came this importunately obtrusive sense of change."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Oh! it is Green,” I said, recollecting myself—“only Green,” and I went on, intending to send somebody else to open it; but the knock was repeated: not loud, and still importunately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beseeching manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beseeching manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Not the less, however, came this importunately obtrusive sense of change."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Oh! it is Green,” I said, recollecting myself—“only Green,” and I went on, intending to send somebody else to open it; but the knock was repeated: not loud, and still importunately."*

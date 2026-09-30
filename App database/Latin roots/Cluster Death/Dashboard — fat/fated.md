@@ -5,15 +5,6 @@ status: unread
 ---
 # fated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decree or designate beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fat or plump.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our remedies oft in ourselves do lie, Which we ascribe to heaven: the fated sky Gives us free scope; only doth backward pull Our slow designs when we ourselves are dull."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubt not but heaven Hath brought me up to be your daughter’s dower, As it hath fated her to be my motive And helper to a husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decree or designate beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fat or plump.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our remedies oft in ourselves do lie, Which we ascribe to heaven: the fated sky Gives us free scope; only doth backward pull Our slow designs when we ourselves are dull."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubt not but heaven Hath brought me up to be your daughter’s dower, As it hath fated her to be my motive And helper to a husband."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters!"*

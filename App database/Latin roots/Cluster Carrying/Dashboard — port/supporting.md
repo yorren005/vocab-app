@@ -5,15 +5,6 @@ status: unread
 ---
 # supporting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bearing the weight of or strengthening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give moral or psychological support, aid, or courage to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall one of us, That struck the foremost man of all this world But for supporting robbers, shall we now Contaminate our fingers with base bribes, And sell the mighty space of our large honours For so much trash as may be grasped thus?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has seen me, and he loves me better than he did; he has seen me and is even fonder of me than he was before; and what have I to mourn for!” He sat down by me on the sofa, supporting me with his arm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have the privilege of supporting an aged father in the Vale of Taunton—his native place—and I admire that country very much."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bearing the weight of or strengthening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give moral or psychological support, aid, or courage to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall one of us, That struck the foremost man of all this world But for supporting robbers, shall we now Contaminate our fingers with base bribes, And sell the mighty space of our large honours For so much trash as may be grasped thus?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has seen me, and he loves me better than he did; he has seen me and is even fonder of me than he was before; and what have I to mourn for!” He sat down by me on the sofa, supporting me with his arm."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have the privilege of supporting an aged father in the Vale of Taunton—his native place—and I admire that country very much."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # formalities
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A requirement of etiquette or custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A requirement of etiquette or custom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the second place, to observe those little formalities which are rendered necessary by our time of life and our being under the guardianship of the court."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is she who, at the core of all the constrained formalities and conventionalities of his life, has been a stock of living tenderness and love, susceptible as nothing else is of being struck with the agony he feels."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"There were official formalities to fulfil, and the materials had to be assembled--the fuel, the improvised furnace, the iron bars, salt and wine and oil to pour upon the pyre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A requirement of etiquette or custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A requirement of etiquette or custom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have only, in the second place, to observe those little formalities which are rendered necessary by our time of life and our being under the guardianship of the court."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is she who, at the core of all the constrained formalities and conventionalities of his life, has been a stock of living tenderness and love, susceptible as nothing else is of being struck with the agony he feels."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"There were official formalities to fulfil, and the materials had to be assembled--the fuel, the improvised furnace, the iron bars, salt and wine and oil to pour upon the pyre."*

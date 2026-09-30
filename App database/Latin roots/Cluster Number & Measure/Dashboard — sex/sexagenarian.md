@@ -5,13 +5,6 @@ status: unread
 ---
 # sexagenarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the sixties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being from 60 to 69 years old.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexagenarian designates someone whose age is in the sixties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the sixties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being from 60 to 69 years old.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexagenarian designates someone whose age is in the sixties."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # reassign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer somebody to a different position or location of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer somebody to a different position or location of work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When I saw all this, the life of man came before me under the likeness of a great pageant, arranged and marshalled by Chance," who assigns the parts and reassigns them as she pleases; and then the pageant ends, every one disrobes and all are alike."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's more, I understand you've reassigned some of my troops to this wagon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer somebody to a different position or location of work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer somebody to a different position or location of work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When I saw all this, the life of man came before me under the likeness of a great pageant, arranged and marshalled by Chance," who assigns the parts and reassigns them as she pleases; and then the pageant ends, every one disrobes and all are alike."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's more, I understand you've reassigned some of my troops to this wagon."*

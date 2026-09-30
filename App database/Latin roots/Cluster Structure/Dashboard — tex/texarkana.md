@@ -5,13 +5,6 @@ status: unread
 ---
 # texarkana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northeast texas adjacent to texarkana, arkansas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest arkansas on the texas border adjacent to texarkana, texas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, texarkana designates a town in northeast texas adjacent to texarkana, arkansas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northeast texas adjacent to texarkana, arkansas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest arkansas on the texas border adjacent to texarkana, texas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, texarkana designates a town in northeast texas adjacent to texarkana, arkansas."*

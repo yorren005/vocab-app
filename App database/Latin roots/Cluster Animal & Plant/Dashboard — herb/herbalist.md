@@ -5,13 +5,6 @@ status: unread
 ---
 # herbalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who heals by the use of herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who heals by the use of herbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In a rosery of Fetter lane of Gerard, herbalist, he walks, greyedauburn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who heals by the use of herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who heals by the use of herbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In a rosery of Fetter lane of Gerard, herbalist, he walks, greyedauburn."*

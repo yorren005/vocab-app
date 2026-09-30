@@ -5,15 +5,6 @@ status: unread
 ---
 # parental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating the generation of organisms from which hybrid offspring are produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or befitting a parent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop underwent a severe internal struggle and came upright on the sofa again with his cheeks puffing over his stiff cravat, a perfect model of parental deportment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop downstairs, in a state of deportment not to be expressed, benignly blessing Caddy and giving my guardian to understand that his son’s happiness was his own parental work and that he sacrificed personal considerations to ensure it."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Musgroves are behaving like themselves, most honourably and kindly, only anxious with true parental hearts to promote their daughter’s comfort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating the generation of organisms from which hybrid offspring are produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or befitting a parent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop underwent a severe internal struggle and came upright on the sofa again with his cheeks puffing over his stiff cravat, a perfect model of parental deportment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop downstairs, in a state of deportment not to be expressed, benignly blessing Caddy and giving my guardian to understand that his son’s happiness was his own parental work and that he sacrificed personal considerations to ensure it."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The Musgroves are behaving like themselves, most honourably and kindly, only anxious with true parental hearts to promote their daughter’s comfort."*

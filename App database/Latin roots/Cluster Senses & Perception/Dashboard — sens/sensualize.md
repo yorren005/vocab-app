@@ -5,13 +5,6 @@ status: unread
 ---
 # sensualize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent materialistically, as in a painting or a sculpture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe to an origin in sensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensualize designates represent materialistically, as in a painting or a sculpture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent materialistically, as in a painting or a sculpture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe to an origin in sensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensualize designates represent materialistically, as in a painting or a sculpture."*

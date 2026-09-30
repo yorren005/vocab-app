@@ -5,14 +5,6 @@ status: unread
 ---
 # residuum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something left after other parts have been taken away.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something left after other parts have been taken away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The advance of thought tends to strip the old animal and plant gods of their bestial and vegetable husk, and to leave their human attributes (which are always the kernel of the conception) as the final and sole residuum."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Above 300 deg. there is obtained another oil, which is used for lubrication, also the invaluable vaseline, and finally, when the still is allowed to cool, there remains a solid residuum known as paraffin wax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something left after other parts have been taken away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something left after other parts have been taken away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The advance of thought tends to strip the old animal and plant gods of their bestial and vegetable husk, and to leave their human attributes (which are always the kernel of the conception) as the final and sole residuum."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Above 300 deg. there is obtained another oil, which is used for lubrication, also the invaluable vaseline, and finally, when the still is allowed to cool, there remains a solid residuum known as paraffin wax."*

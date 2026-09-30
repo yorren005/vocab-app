@@ -5,15 +5,6 @@ status: unread
 ---
 # imperfect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that is on-going.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perfect; defective or inadequate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How would (I say) mine eyes be blessed made, By looking on thee in the living day, When in dead night thy fair imperfect shade, Through heavy sleep on sightless eyes doth stay!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something he left imperfect in the state, which since his coming forth is thought of, which imports to the kingdom so much fear and danger that his personal return was most required and necessary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then, your other senses grow imperfect By your eyes’ anguish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that is on-going.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perfect; defective or inadequate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How would (I say) mine eyes be blessed made, By looking on thee in the living day, When in dead night thy fair imperfect shade, Through heavy sleep on sightless eyes doth stay!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something he left imperfect in the state, which since his coming forth is thought of, which imports to the kingdom so much fear and danger that his personal return was most required and necessary."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then, your other senses grow imperfect By your eyes’ anguish."*

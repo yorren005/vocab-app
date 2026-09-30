@@ -5,15 +5,6 @@ status: unread
 ---
 # undo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel, annul, or reverse an action or its effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of certain characteristics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods will mock me presently When I shall pray “O, bless my lord and husband!” Undo that prayer by crying out as loud “O, bless my brother!” Husband win, win brother, Prays and destroys the prayer; no midway ’Twixt these extremes at all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, masters, my good friends, mine honest neighbours, Will you undo yourselves?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel, annul, or reverse an action or its effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of certain characteristics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods will mock me presently When I shall pray “O, bless my lord and husband!” Undo that prayer by crying out as loud “O, bless my brother!” Husband win, win brother, Prays and destroys the prayer; no midway ’Twixt these extremes at all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, masters, my good friends, mine honest neighbours, Will you undo yourselves?"*

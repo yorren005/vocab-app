@@ -5,13 +5,6 @@ status: unread
 ---
 # fingerboard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A guidepost resembling a hand with a pointing index finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bank of keys on a musical instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerboard designates a guidepost resembling a hand with a pointing index finger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A guidepost resembling a hand with a pointing index finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bank of keys on a musical instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerboard designates a guidepost resembling a hand with a pointing index finger."*

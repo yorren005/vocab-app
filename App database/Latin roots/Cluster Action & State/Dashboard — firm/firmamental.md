@@ -5,14 +5,6 @@ status: unread
 ---
 # firmamental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the firmament or upper regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the firmament or upper regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Manœuvres of a most extraordinary kind were going on in the vast firmamental hollows overhead."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Manœuvres of a most extraordinary kind were going on in the vast firmamental hollows overhead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the firmament or upper regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the firmament or upper regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Manœuvres of a most extraordinary kind were going on in the vast firmamental hollows overhead."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Manœuvres of a most extraordinary kind were going on in the vast firmamental hollows overhead."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vintner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sells wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes wine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, Officers, Sheriff, Vintner, Chamberlain, Drawers, Carriers, Ostler, Messengers, Servant, Travellers and Attendants."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou not hear them call? [_Here they both call him; the Drawer stands amazed, not knowing which way to go._] Enter Vintner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them alone awhile, and then open the door. [_Exit Vintner._] Poins!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sells wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes wine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords, Officers, Sheriff, Vintner, Chamberlain, Drawers, Carriers, Ostler, Messengers, Servant, Travellers and Attendants."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou not hear them call? [_Here they both call him; the Drawer stands amazed, not knowing which way to go._] Enter Vintner."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them alone awhile, and then open the door. [_Exit Vintner._] Poins!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Buildings for carrying on industrial labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) a living organism lacking the power of locomotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go charge Agrippa Plant those that have revolted in the van That Antony may seem to spend his fury Upon himself. [_Exeunt Caesar and his Train._] ENOBARBUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll plant Plantagenet, root him up who dares."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Buildings for carrying on industrial labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) a living organism lacking the power of locomotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go charge Agrippa Plant those that have revolted in the van That Antony may seem to spend his fury Upon himself. [_Exeunt Caesar and his Train._] ENOBARBUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll plant Plantagenet, root him up who dares."*

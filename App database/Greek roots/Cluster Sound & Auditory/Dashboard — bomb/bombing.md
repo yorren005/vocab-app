@@ -5,15 +5,6 @@ status: unread
 ---
 # bombing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack by dropping bombs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of bombs for sabotage; a tactic frequently used by terrorists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Truman. -- 1949 June 29 - Last US troops withdrawn from South Korea. -- 1950 June 30 - President Truman orders US ground forces into Korea and authorizes the bombing of North Korea by the US Air Force."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The bombing of Canberra was merely the first blow."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Has airplane bombing been tried on these--things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack by dropping bombs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of bombs for sabotage; a tactic frequently used by terrorists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Truman. -- 1949 June 29 - Last US troops withdrawn from South Korea. -- 1950 June 30 - President Truman orders US ground forces into Korea and authorizes the bombing of North Korea by the US Air Force."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The bombing of Canberra was merely the first blow."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Has airplane bombing been tried on these--things."*

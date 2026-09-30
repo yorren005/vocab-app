@@ -5,15 +5,6 @@ status: unread
 ---
 # prostitution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering sexual intercourse for pay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering sexual intercourse for pay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When I was a Son of the Mountain and a Son of the Bull, prostitution had no meaning."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The world has accordingly been witness to few examples of this species of royal prostitution, though there have been abundant specimens of every other kind."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The temptations to prostitution which the judges might have to surmount, must certainly be much fewer, while the co-operation of a jury is necessary, than they might be, if they had themselves the exclusive determination of all causes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering sexual intercourse for pay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering sexual intercourse for pay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When I was a Son of the Mountain and a Son of the Bull, prostitution had no meaning."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The world has accordingly been witness to few examples of this species of royal prostitution, though there have been abundant specimens of every other kind."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The temptations to prostitution which the judges might have to surmount, must certainly be much fewer, while the co-operation of a jury is necessary, than they might be, if they had themselves the exclusive determination of all causes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cogitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider carefully and deeply; reflect upon; turn over in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His reply was in substance as follows: "When standing on a stoop on the corner of Fourth and Congress streets, cogitating which way I should go, I was impressed by a voice within which directed my course to the Conference Room."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Wolfert was deeply cogitating these matters in his mind, and his brow wrinkled with unusual care, as he wended his way one Saturday afternoon to a rural inn, about two miles from the city."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"It depends on what you call ‘much’!” “Yes”—with all accommodation—“everything depends!” On this, however, he faced to the window again and presently reached it with his vague, restless, cogitating step."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider carefully and deeply; reflect upon; turn over in one's mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His reply was in substance as follows: "When standing on a stoop on the corner of Fourth and Congress streets, cogitating which way I should go, I was impressed by a voice within which directed my course to the Conference Room."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Wolfert was deeply cogitating these matters in his mind, and his brow wrinkled with unusual care, as he wended his way one Saturday afternoon to a rural inn, about two miles from the city."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"It depends on what you call ‘much’!” “Yes”—with all accommodation—“everything depends!” On this, however, he faced to the window again and presently reached it with his vague, restless, cogitating step."*

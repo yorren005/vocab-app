@@ -5,14 +5,6 @@ status: unread
 ---
 # barmaid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female bartender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female bartender.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was with his barmaid wife that he had spent the last three days in Bristol, and his father did not know where he was."*
-> - 📜 **James Joyce (*Ulysses*):** *"The boots to them, them in the bar, them barmaids came."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female bartender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female bartender.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was with his barmaid wife that he had spent the last three days in Bristol, and his father did not know where he was."*
+> - 📜 **James Joyce (*Ulysses*):** *"The boots to them, them in the bar, them barmaids came."*

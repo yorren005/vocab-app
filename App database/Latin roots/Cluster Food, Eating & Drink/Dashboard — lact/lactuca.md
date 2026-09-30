@@ -5,13 +5,6 @@ status: unread
 ---
 # lactuca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An herb with milky juice: lettuce; prickly lettuce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An herb with milky juice: lettuce; prickly lettuce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactuca designates an herb with milky juice: lettuce; prickly lettuce."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An herb with milky juice: lettuce; prickly lettuce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An herb with milky juice: lettuce; prickly lettuce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactuca designates an herb with milky juice: lettuce; prickly lettuce."*

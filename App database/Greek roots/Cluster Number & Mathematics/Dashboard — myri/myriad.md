@@ -5,15 +5,6 @@ status: unread
 ---
 # myriad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten thousand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Sleeping your myriad magics through, Close-sepulchred away from you!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was this Hideyoshi who sent back to Japan a myriad tubs of pickled ears and noses of Koreans slain in battle."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But with Miss Austen the myriad, trivial, unforced strokes build up the picture like magic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten thousand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Sleeping your myriad magics through, Close-sepulchred away from you!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was this Hideyoshi who sent back to Japan a myriad tubs of pickled ears and noses of Koreans slain in battle."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But with Miss Austen the myriad, trivial, unforced strokes build up the picture like magic."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cupidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme greed for material wealth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme greed for material wealth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"These people hated me with the hatred of cupidity and disappointment."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was no odious cupidity in Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now Jonah’s Captain, shipmates, was one whose discernment detects crime in any, but whose cupidity exposes it only in the penniless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme greed for material wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme greed for material wealth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"These people hated me with the hatred of cupidity and disappointment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was no odious cupidity in Mr."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now Jonah’s Captain, shipmates, was one whose discernment detects crime in any, but whose cupidity exposes it only in the penniless."*

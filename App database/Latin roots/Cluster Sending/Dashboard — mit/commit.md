@@ -5,15 +5,6 @@ status: unread
 ---
 # commit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what thy memory cannot contain, Commit to these waste blanks, and thou shalt find Those children nursed, delivered from thy brain, To take a new acquaintance of thy mind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The complaints I have heard of you I do not all believe; ’tis my slowness that I do not; for I know you lack not folly to commit them, and have ability enough to make such knaveries yours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what thy memory cannot contain, Commit to these waste blanks, and thou shalt find Those children nursed, delivered from thy brain, To take a new acquaintance of thy mind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The complaints I have heard of you I do not all believe; ’tis my slowness that I do not; for I know you lack not folly to commit them, and have ability enough to make such knaveries yours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*

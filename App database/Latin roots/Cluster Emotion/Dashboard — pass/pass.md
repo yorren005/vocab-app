@@ -5,15 +5,6 @@ status: unread
 ---
 # pass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) an advance to first base by a batter who receives four balls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) a written leave of absence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For to no other pass my verses tend, Than of your graces and your gifts to tell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then in the number let me pass untold, Though in thy store’s account I one must be, For nothing hold me, so it please thee hold, That nothing me, a something sweet to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) an advance to first base by a batter who receives four balls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) a written leave of absence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For to no other pass my verses tend, Than of your graces and your gifts to tell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then in the number let me pass untold, Though in thy store’s account I one must be, For nothing hold me, so it please thee hold, That nothing me, a something sweet to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*

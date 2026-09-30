@@ -5,13 +5,6 @@ status: unread
 ---
 # patchboard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telephone central where circuits are completed with patchcords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telephone central where circuits are completed with patchcords.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchboard designates telephone central where circuits are completed with patchcords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Telephone central where circuits are completed with patchcords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telephone central where circuits are completed with patchcords.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchboard designates telephone central where circuits are completed with patchcords."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bathos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sudden appearance of the commonplace in otherwise elevated matter or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anticlimax.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"And he’ll never be able to emerge from his bathos of coarseness and ignorance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sudden appearance of the commonplace in otherwise elevated matter or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anticlimax.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"And he’ll never be able to emerge from his bathos of coarseness and ignorance."*

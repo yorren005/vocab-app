@@ -5,13 +5,6 @@ status: unread
 ---
 # hemingway
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An american writer of fiction who won the nobel prize for literature in 1954 (1899-1961).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An american writer of fiction who won the nobel prize for literature in 1954 (1899-1961).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemingway designates an american writer of fiction who won the nobel prize for literature in 1954 (1899-1961)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An american writer of fiction who won the nobel prize for literature in 1954 (1899-1961).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An american writer of fiction who won the nobel prize for literature in 1954 (1899-1961).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemingway designates an american writer of fiction who won the nobel prize for literature in 1954 (1899-1961)."*

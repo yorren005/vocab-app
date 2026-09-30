@@ -5,15 +5,6 @@ status: unread
 ---
 # phalaris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of grasses with broad leaves and a dense spike of flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of grasses with broad leaves and a dense spike of flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the tradition of Phalaris, tyrant of Agrigentum, and his brazen bull we may have an echo of similar rites in Sicily, where the Carthaginian power struck deep roots."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"On behalf of the Ancients, stress was laid by Temple on the letters of Phalaris, tyrant of Agrigentum."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Charles Boyle, of Christ Church, published a new edition of the Epistles of Phalaris, with translation of the Greek text into Latin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of grasses with broad leaves and a dense spike of flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of grasses with broad leaves and a dense spike of flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the tradition of Phalaris, tyrant of Agrigentum, and his brazen bull we may have an echo of similar rites in Sicily, where the Carthaginian power struck deep roots."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"On behalf of the Ancients, stress was laid by Temple on the letters of Phalaris, tyrant of Agrigentum."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Charles Boyle, of Christ Church, published a new edition of the Epistles of Phalaris, with translation of the Greek text into Latin."*

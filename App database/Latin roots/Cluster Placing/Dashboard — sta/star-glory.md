@@ -5,13 +5,6 @@ status: unread
 ---
 # star-glory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american annual climber having red (sometimes white) flowers and finely dissected leaves; naturalized in united states and elsewhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american annual climber having red (sometimes white) flowers and finely dissected leaves; naturalized in united states and elsewhere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, star-glory designates tropical american annual climber having red (sometimes white) flowers and finely dissected leaves; naturalized in united states and elsewhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american annual climber having red (sometimes white) flowers and finely dissected leaves; naturalized in united states and elsewhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american annual climber having red (sometimes white) flowers and finely dissected leaves; naturalized in united states and elsewhere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, star-glory designates tropical american annual climber having red (sometimes white) flowers and finely dissected leaves; naturalized in united states and elsewhere."*

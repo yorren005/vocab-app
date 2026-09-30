@@ -5,13 +5,6 @@ status: unread
 ---
 # absentmindedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation so great that the ordinary demands on attention are ignored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation so great that the ordinary demands on attention are ignored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, absentmindedness designates preoccupation so great that the ordinary demands on attention are ignored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation so great that the ordinary demands on attention are ignored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation so great that the ordinary demands on attention are ignored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, absentmindedness designates preoccupation so great that the ordinary demands on attention are ignored."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stolid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is so original, such a stolid creature, such an immense being for knowing all sorts of things and never telling them!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet smokes in stolid satisfaction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The half-mile stood now before the sick and weary woman like a stolid Juggernaut."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is so original, such a stolid creature, such an immense being for knowing all sorts of things and never telling them!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet smokes in stolid satisfaction."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The half-mile stood now before the sick and weary woman like a stolid Juggernaut."*

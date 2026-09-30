@@ -5,15 +5,6 @@ status: unread
 ---
 # insensibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a numb manner; without feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a numb manner; without feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover, when two people are once parted—have abandoned a common domicile and a common environment—new growths insensibly bud upward to fill each vacated place; unforeseen accidents hinder intentions, and old plans are forgotten."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Insensibly our voices had slightly risen, so that Philippa heard."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"This is what we find in the sayings of Jesus; there is form, but living form, the freedom and grace which the clear mind and the friendly eye communicate insensibly and inimitably to language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a numb manner; without feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a numb manner; without feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover, when two people are once parted—have abandoned a common domicile and a common environment—new growths insensibly bud upward to fill each vacated place; unforeseen accidents hinder intentions, and old plans are forgotten."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Insensibly our voices had slightly risen, so that Philippa heard."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"This is what we find in the sayings of Jesus; there is form, but living form, the freedom and grace which the clear mind and the friendly eye communicate insensibly and inimitably to language."*

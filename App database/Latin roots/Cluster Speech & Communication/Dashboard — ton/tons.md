@@ -5,15 +5,6 @@ status: unread
 ---
 # tons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large number or amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of weight equivalent to 2000 pounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under the church of that there parish lie my ancestors—hundreds of ’em—in coats of mail and jewels, in gr’t lead coffins weighing tons and tons."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The wagon was loaded with bacon, in bulk about two tons."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A gentleman has this day ordered a furnace to be put in, with fourteen tons of coal at his expense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large number or amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of weight equivalent to 2000 pounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under the church of that there parish lie my ancestors—hundreds of ’em—in coats of mail and jewels, in gr’t lead coffins weighing tons and tons."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The wagon was loaded with bacon, in bulk about two tons."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A gentleman has this day ordered a furnace to be put in, with fourteen tons of coal at his expense."*

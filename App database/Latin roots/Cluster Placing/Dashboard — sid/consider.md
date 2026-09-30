@@ -5,15 +5,6 @@ status: unread
 ---
 # consider
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deem to be.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give careful consideration to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So.— Thus then, thou most renowned: Caesar entreats Not to consider in what case thou stand’st Further than he is Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do, I prithee, but yet have the grace to consider that tears do not become a man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deem to be.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give careful consideration to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So.— Thus then, thou most renowned: Caesar entreats Not to consider in what case thou stand’st Further than he is Caesar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do, I prithee, but yet have the grace to consider that tears do not become a man."*

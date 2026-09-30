@@ -5,14 +5,6 @@ status: unread
 ---
 # finical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exacting especially about details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exacting especially about details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No Virgin by him the somewhat petty, Of finical touch and tempera crumbly-- Could not Alesso Baldovinetti Contribute so much, I ask him humbly? -- St. 27."*
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s face smiled with delight. —Charming! he said in a finical sweet voice, showing his white teeth and blinking his eyes pleasantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exacting especially about details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exacting especially about details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No Virgin by him the somewhat petty, Of finical touch and tempera crumbly-- Could not Alesso Baldovinetti Contribute so much, I ask him humbly? -- St. 27."*
+> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s face smiled with delight. —Charming! he said in a finical sweet voice, showing his white teeth and blinking his eyes pleasantly."*

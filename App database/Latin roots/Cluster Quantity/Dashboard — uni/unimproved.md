@@ -5,15 +5,6 @@ status: unread
 ---
 # unimproved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made more desirable or valuable or profitable; especially not made ready for use or marketing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of land) not cleared of trees and brush; in the wild or natural state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of the total in farms a little more than one-half was improved, 478,000,000 acres altogether, a per capita average of 5.2 acres; and a little less than one-half was unimproved, 400,000,000 acres altogether, a per capita average of 4.3 acres."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The improved land produced not merely food but many kinds of materials, such as cotton, wool, hides, and lumber, while much of the unimproved land was either in farm wood-lots, or in rough range pasture."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Between 1900 and 1910 the increase was only 4.8 per cent; whereas a larger increase occurred in the area of improved land, 15.4 per cent, and the unimproved area in farms decreased 5.6."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made more desirable or valuable or profitable; especially not made ready for use or marketing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of land) not cleared of trees and brush; in the wild or natural state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of the total in farms a little more than one-half was improved, 478,000,000 acres altogether, a per capita average of 5.2 acres; and a little less than one-half was unimproved, 400,000,000 acres altogether, a per capita average of 4.3 acres."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The improved land produced not merely food but many kinds of materials, such as cotton, wool, hides, and lumber, while much of the unimproved land was either in farm wood-lots, or in rough range pasture."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Between 1900 and 1910 the increase was only 4.8 per cent; whereas a larger increase occurred in the area of improved land, 15.4 per cent, and the unimproved area in farms decreased 5.6."*

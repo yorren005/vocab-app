@@ -5,13 +5,6 @@ status: unread
 ---
 # unassertive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to timidity or lack of self-confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to timidity or lack of self-confidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassertive designates inclined to timidity or lack of self-confidence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to timidity or lack of self-confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to timidity or lack of self-confidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unassertive designates inclined to timidity or lack of self-confidence."*

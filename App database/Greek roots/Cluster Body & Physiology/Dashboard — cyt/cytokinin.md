@@ -5,13 +5,6 @@ status: unread
 ---
 # cytokinin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plant growth substances (such as kinetin) that are usually derivatives of adenine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plant growth substances (such as kinetin) that are usually derivatives of adenine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokinin designates any of various plant growth substances (such as kinetin) that are usually derivatives of adenine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plant growth substances (such as kinetin) that are usually derivatives of adenine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plant growth substances (such as kinetin) that are usually derivatives of adenine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokinin designates any of various plant growth substances (such as kinetin) that are usually derivatives of adenine."*

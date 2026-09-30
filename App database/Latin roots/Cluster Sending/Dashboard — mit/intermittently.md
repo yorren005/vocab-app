@@ -5,14 +5,6 @@ status: unread
 ---
 # intermittently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intermittent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intermittent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He was often remorseful, and he strove painfully, if intermittently, after better things."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To that end Kutúzov’s activity was directed during the whole campaign from Moscow to Vílna—not casually or intermittently but so consistently that he never once deviated from it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intermittent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intermittent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He was often remorseful, and he strove painfully, if intermittently, after better things."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To that end Kutúzov’s activity was directed during the whole campaign from Moscow to Vílna—not casually or intermittently but so consistently that he never once deviated from it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paranasal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjacent to the nasal cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjacent to the nasal cavities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paranasal designates adjacent to the nasal cavities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjacent to the nasal cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjacent to the nasal cavities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paranasal designates adjacent to the nasal cavities."*

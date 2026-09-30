@@ -5,13 +5,6 @@ status: unread
 ---
 # bassia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Summer cypress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Summer cypress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassia designates summer cypress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Summer cypress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Summer cypress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassia designates summer cypress."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unscrupulously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without scruples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without scruples.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Thus unscrupulously did the old gentlewoman sacrifice the continuance, perhaps, of an ancient feathered race, with no better end than to supply her brother with a dainty that hardly filled the bowl of a tea-spoon!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without scruples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without scruples.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Thus unscrupulously did the old gentlewoman sacrifice the continuance, perhaps, of an ancient feathered race, with no better end than to supply her brother with a dainty that hardly filled the bowl of a tea-spoon!"*

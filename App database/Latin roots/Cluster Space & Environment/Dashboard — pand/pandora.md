@@ -5,15 +5,6 @@ status: unread
 ---
 # pandora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the first woman; created by hephaestus on orders from zeus who presented her to epimetheus along with a box filled with evils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the first woman; created by hephaestus on orders from zeus who presented her to epimetheus along with a box filled with evils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"An account of them was subsequently published in the _Christian_: "In 1839 I was a sailor on board the brig Pandora, Captain G----, bound from Savannah to Boston, with a cargo of cotton."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There were glad souls on board the Pandora that day, as she swung around in obedience to the helm, and we laid her course again for our destined port."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The description of man as purely physical, or as both material and spiritual, - but in either case dependent 170:30 upon his physical organization, - is the Pandora box, from which all ills have gone forth, especially despair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the first woman; created by hephaestus on orders from zeus who presented her to epimetheus along with a box filled with evils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the first woman; created by hephaestus on orders from zeus who presented her to epimetheus along with a box filled with evils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"An account of them was subsequently published in the _Christian_: "In 1839 I was a sailor on board the brig Pandora, Captain G----, bound from Savannah to Boston, with a cargo of cotton."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"There were glad souls on board the Pandora that day, as she swung around in obedience to the helm, and we laid her course again for our destined port."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The description of man as purely physical, or as both material and spiritual, - but in either case dependent 170:30 upon his physical organization, - is the Pandora box, from which all ills have gone forth, especially despair."*

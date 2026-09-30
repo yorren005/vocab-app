@@ -5,15 +5,6 @@ status: unread
 ---
 # protract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lengthen in time; cause to be or last longer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lengthen in time; cause to be or last longer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bury him, And not protract with admiration what Is now due debt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubtless he shrives this woman to her smock; Else ne’er could he so long protract his speech."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I should wish now to protract this moment _ad infinitum_; but I dare not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lengthen in time; cause to be or last longer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lengthen in time; cause to be or last longer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bury him, And not protract with admiration what Is now due debt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubtless he shrives this woman to her smock; Else ne’er could he so long protract his speech."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I should wish now to protract this moment _ad infinitum_; but I dare not."*

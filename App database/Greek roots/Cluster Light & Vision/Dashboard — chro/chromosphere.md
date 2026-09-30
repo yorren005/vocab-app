@@ -5,13 +5,6 @@ status: unread
 ---
 # chromosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromosphere designates a gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromosphere designates a gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun."*

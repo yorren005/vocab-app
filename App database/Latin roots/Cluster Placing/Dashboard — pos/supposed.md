@@ -5,15 +5,6 @@ status: unread
 ---
 # supposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a supposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expect, believe, or suppose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But think you, Helen, If you should tender your supposed aid, He would receive it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must know I am supposed dead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It seem’d in me But as an honour snatch’d with boisterous hand, And I had many living to upbraid My gain of it by their assistances, Which daily grew to quarrel and to bloodshed, Wounding supposed peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a supposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expect, believe, or suppose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But think you, Helen, If you should tender your supposed aid, He would receive it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must know I am supposed dead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It seem’d in me But as an honour snatch’d with boisterous hand, And I had many living to upbraid My gain of it by their assistances, Which daily grew to quarrel and to bloodshed, Wounding supposed peace."*

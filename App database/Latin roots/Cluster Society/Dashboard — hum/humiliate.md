@@ -5,15 +5,6 @@ status: unread
 ---
 # humiliate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Since that night that Polk humiliated me as completely as a man can humiliate a woman, he has looked at me like a whipped child, and I haven't looked at him at all I have used Jane as a wide-spread fan behind which to hide from him."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"No longer would she humiliate herself by any further delay."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The hidden and awful Wisdom which apportions the destinies of mankind is pleased so to humiliate and cast down the tender, good, and wise, and to set up the selfish, the foolish, or the wicked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Since that night that Polk humiliated me as completely as a man can humiliate a woman, he has looked at me like a whipped child, and I haven't looked at him at all I have used Jane as a wide-spread fan behind which to hide from him."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"No longer would she humiliate herself by any further delay."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The hidden and awful Wisdom which apportions the destinies of mankind is pleased so to humiliate and cast down the tender, good, and wise, and to set up the selfish, the foolish, or the wicked."*

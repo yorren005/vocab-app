@@ -5,14 +5,6 @@ status: unread
 ---
 # circumscription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of circumscribing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of circumscribing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For know, Iago, But that I love the gentle Desdemona, I would not my unhoused free condition Put into circumscription and confine For the sea’s worth."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Were I assured that this is the utmost I can reasonably expect, that assurance would be a useful circumscription of my attempts, and a guide in both the positive and negative determination of my course.” Here Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of circumscribing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of circumscribing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For know, Iago, But that I love the gentle Desdemona, I would not my unhoused free condition Put into circumscription and confine For the sea’s worth."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Were I assured that this is the utmost I can reasonably expect, that assurance would be a useful circumscription of my attempts, and a guide in both the positive and negative determination of my course.” Here Mr."*

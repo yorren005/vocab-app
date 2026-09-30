@@ -5,15 +5,6 @@ status: unread
 ---
 # carpathians
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain range in central europe that extends from slovakia and southern poland southeastward through western ukraine to northeastern romania; a popular resort area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain range in central europe that extends from slovakia and southern poland southeastward through western ukraine to northeastern romania; a popular resort area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"He went, but immediately returned with a letter:-- “My Friend.--Welcome to the Carpathians."*
-> - 📜 **Bram Stoker (*Dracula*):** *"In this respect it is different from the general run of roads in the Carpathians, for it is an old tradition that they are not to be kept in too good order."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Beyond the green swelling hills of the Mittel Land rose mighty slopes of forest up to the lofty steeps of the Carpathians themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain range in central europe that extends from slovakia and southern poland southeastward through western ukraine to northeastern romania; a popular resort area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain range in central europe that extends from slovakia and southern poland southeastward through western ukraine to northeastern romania; a popular resort area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"He went, but immediately returned with a letter:-- “My Friend.--Welcome to the Carpathians."*
+> - 📜 **Bram Stoker (*Dracula*):** *"In this respect it is different from the general run of roads in the Carpathians, for it is an old tradition that they are not to be kept in too good order."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Beyond the green swelling hills of the Mittel Land rose mighty slopes of forest up to the lofty steeps of the Carpathians themselves."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # injudicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking or showing lack of judgment or discretion; unwise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking or showing lack of judgment or discretion; unwise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I felt it would be injudicious to confine her too much at first; so, when I had talked to her a great deal, and got her to learn a little, and when the morning had advanced to noon, I allowed her to return to her nurse."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I think them injudicious, but I am not paid for giving any opinion on their merits.” I was beginning to express my gratitude to my benefactor for the great liberality with which I was treated, when Mr."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The two girls were more at a loss from being younger and in greater awe of their father, who addressed them on the occasion with rather an injudicious particularity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking or showing lack of judgment or discretion; unwise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking or showing lack of judgment or discretion; unwise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I felt it would be injudicious to confine her too much at first; so, when I had talked to her a great deal, and got her to learn a little, and when the morning had advanced to noon, I allowed her to return to her nurse."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I think them injudicious, but I am not paid for giving any opinion on their merits.” I was beginning to express my gratitude to my benefactor for the great liberality with which I was treated, when Mr."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The two girls were more at a loss from being younger and in greater awe of their father, who addressed them on the occasion with rather an injudicious particularity."*

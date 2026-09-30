@@ -5,13 +5,6 @@ status: unread
 ---
 # consortium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of companies for some definite purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of companies for some definite purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consortium designates an association of companies for some definite purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of companies for some definite purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of companies for some definite purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consortium designates an association of companies for some definite purpose."*

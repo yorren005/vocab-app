@@ -5,15 +5,6 @@ status: unread
 ---
 # vivacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorous and animated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorous and animated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If she is as nice as her brother, she is the nicest child any of us have ever seen." At this description Loneli's vivacious eyes fairly gleamed with sympathy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was as vivacious as ever and told us he was very industrious, but I was not easy in my mind about him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then why should HE escape?” “Because,” said I, “his is an uncommon character, and he has resolutely kept himself outside the circle, Richard.” “Oh, because and because!” replied Richard in his vivacious way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorous and animated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorous and animated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If she is as nice as her brother, she is the nicest child any of us have ever seen." At this description Loneli's vivacious eyes fairly gleamed with sympathy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was as vivacious as ever and told us he was very industrious, but I was not easy in my mind about him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then why should HE escape?” “Because,” said I, “his is an uncommon character, and he has resolutely kept himself outside the circle, Richard.” “Oh, because and because!” replied Richard in his vivacious way."*

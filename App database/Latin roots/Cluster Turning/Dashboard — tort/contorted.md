@@ -5,15 +5,6 @@ status: unread
 ---
 # contorted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twist and press out of shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twisted (especially as in pain or struggle); ; ; - walter scott.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am not a fool," he hissed as his features contorted into waves of quivering fat."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A face, contorted in anger and despair, appeared and addressed them."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The agony of those contorted limbs struck me with a spasm of pain and blurred my eyes with tears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twist and press out of shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twisted (especially as in pain or struggle); ; ; - walter scott.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am not a fool," he hissed as his features contorted into waves of quivering fat."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A face, contorted in anger and despair, appeared and addressed them."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The agony of those contorted limbs struck me with a spasm of pain and blurred my eyes with tears."*

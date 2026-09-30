@@ -5,15 +5,6 @@ status: unread
 ---
 # deface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mar or spoil the appearance of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall we then dispense with that contract, And not deface your honour with reproach?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pay him six thousand, and deface the bond."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"VI Then let not winter’s ragged hand deface, In thee thy summer, ere thou be distill’d: Make sweet some vial; treasure thou some place With beauty’s treasure ere it be self-kill’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mar or spoil the appearance of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall we then dispense with that contract, And not deface your honour with reproach?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pay him six thousand, and deface the bond."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"VI Then let not winter’s ragged hand deface, In thee thy summer, ere thou be distill’d: Make sweet some vial; treasure thou some place With beauty’s treasure ere it be self-kill’d."*

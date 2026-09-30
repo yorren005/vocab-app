@@ -5,15 +5,6 @@ status: unread
 ---
 # unpromising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlikely to bring about favorable results or enjoyment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlikely to bring about favorable results or enjoyment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thurveydrop, in virtue of his deportment, considering himself vastly superior to all the company—it was a very unpromising case."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That is a noble though perhaps an unpromising love which not even the fear of breeding aversion in the bosom of the one beloved can deter from combating his or her errors."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Under these unpromising auspices, the parting took place, and the journey began."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlikely to bring about favorable results or enjoyment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlikely to bring about favorable results or enjoyment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thurveydrop, in virtue of his deportment, considering himself vastly superior to all the company—it was a very unpromising case."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That is a noble though perhaps an unpromising love which not even the fear of breeding aversion in the bosom of the one beloved can deter from combating his or her errors."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Under these unpromising auspices, the parting took place, and the journey began."*

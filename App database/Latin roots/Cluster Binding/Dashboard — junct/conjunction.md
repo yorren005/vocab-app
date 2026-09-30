@@ -5,15 +5,6 @@ status: unread
 ---
 # conjunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporal property of two things happening at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being joined together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet doth he give us bold advertisement That with our small conjunction we should on, To see how fortune is disposed to us; For, as he writes, there is no quailing now, Because the King is certainly possess’d Of all our purposes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saturn and Venus this year in conjunction!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their spirits are so married in conjunction with the participation of society that they flock together in consent, like so many wild-geese."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporal property of two things happening at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being joined together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet doth he give us bold advertisement That with our small conjunction we should on, To see how fortune is disposed to us; For, as he writes, there is no quailing now, Because the King is certainly possess’d Of all our purposes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saturn and Venus this year in conjunction!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their spirits are so married in conjunction with the participation of society that they flock together in consent, like so many wild-geese."*

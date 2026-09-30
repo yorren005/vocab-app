@@ -5,13 +5,6 @@ status: unread
 ---
 # extensional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defining a word by listing the class of entities to which the word correctly applies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defining a word by listing the class of entities to which the word correctly applies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensional designates defining a word by listing the class of entities to which the word correctly applies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defining a word by listing the class of entities to which the word correctly applies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defining a word by listing the class of entities to which the word correctly applies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensional designates defining a word by listing the class of entities to which the word correctly applies."*

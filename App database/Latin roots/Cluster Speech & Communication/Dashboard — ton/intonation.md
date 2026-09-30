@@ -5,15 +5,6 @@ status: unread
 ---
 # intonation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rise and fall of the voice pitch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Singing by a soloist of the opening piece of plainsong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I suppose you received a letter from our Rector telling you of the refusal to teach the boys any further." This was said with a less severe intonation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s how I can do it,” said the sergeant, with an intonation of such exquisite fidelity to nature that it was evidently not all acted now."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rise and fall of the voice pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Singing by a soloist of the opening piece of plainsong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I suppose you received a letter from our Rector telling you of the refusal to teach the boys any further." This was said with a less severe intonation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s how I can do it,” said the sergeant, with an intonation of such exquisite fidelity to nature that it was evidently not all acted now."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*

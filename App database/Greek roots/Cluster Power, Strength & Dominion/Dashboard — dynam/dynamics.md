@@ -5,15 +5,6 @@ status: unread
 ---
 # dynamics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mechanics that deals with forces and their relation primarily to the motion but sometimes also to the equilibrium of bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pattern or process of change, growth, or activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Collector is fixed to the Extractor's product launch nodes, functions and operations, and to the Extractor's orbital dynamics at destination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He wove into his analysis the effects of orbital dynamics on normal and spunnel transit times from each Inner and Outer Region point-of-origin to the Slingshot work sites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mechanics that deals with forces and their relation primarily to the motion but sometimes also to the equilibrium of bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pattern or process of change, growth, or activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Collector is fixed to the Extractor's product launch nodes, functions and operations, and to the Extractor's orbital dynamics at destination."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He wove into his analysis the effects of orbital dynamics on normal and spunnel transit times from each Inner and Outer Region point-of-origin to the Slingshot work sites."*

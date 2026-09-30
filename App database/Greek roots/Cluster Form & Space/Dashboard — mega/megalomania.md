@@ -5,13 +5,6 @@ status: unread
 ---
 # megalomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mania for great or grandiose performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delusional mental illness that is marked by feelings of personal omnipotence and grandeur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomania designates a mania for great or grandiose performance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mania for great or grandiose performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delusional mental illness that is marked by feelings of personal omnipotence and grandeur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomania designates a mania for great or grandiose performance."*

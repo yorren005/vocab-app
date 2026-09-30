@@ -5,15 +5,6 @@ status: unread
 ---
 # intestate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having made no legally valid will before death or not disposed of by a legal will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having made no legally valid will before death or not disposed of by a legal will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Windy attorneys to their clients’ woes, Airy succeeders of intestate joys, Poor breathing orators of miseries, Let them have scope, though what they do impart Help nothing else, yet do they ease the heart."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inheritance, in contrast with bequest, usually means succession to the property of one who has died intestate, that is, has made no will."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Forty-one states in America have inheritance tax laws (in 1915) which apply generally to property passing either by will or under the intestate laws of the state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having made no legally valid will before death or not disposed of by a legal will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having made no legally valid will before death or not disposed of by a legal will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Windy attorneys to their clients’ woes, Airy succeeders of intestate joys, Poor breathing orators of miseries, Let them have scope, though what they do impart Help nothing else, yet do they ease the heart."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inheritance, in contrast with bequest, usually means succession to the property of one who has died intestate, that is, has made no will."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Forty-one states in America have inheritance tax laws (in 1915) which apply generally to property passing either by will or under the intestate laws of the state."*

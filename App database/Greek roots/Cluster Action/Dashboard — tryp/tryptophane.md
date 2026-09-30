@@ -5,13 +5,6 @@ status: unread
 ---
 # tryptophane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tryptophane designates an amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tryptophane designates an amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin."*

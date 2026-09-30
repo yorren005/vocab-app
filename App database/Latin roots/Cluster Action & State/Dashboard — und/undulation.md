@@ -5,15 +5,6 @@ status: unread
 ---
 # undulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undulating curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wavelike motion; a gentle rising and falling in the manner of waves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While composing a little treatise on Eternity, I had the curiosity to place a mirror before me; and ere long saw reflected there, a curious involved worming and undulation in the atmosphere over my head."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The narwhal seemed motionless; perhaps, tired with its day’s work, it slept, letting itself float with the undulation of the waves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I seemed to see the membraneous and cylindrical tubes tremble beneath the undulation of the waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undulating curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wavelike motion; a gentle rising and falling in the manner of waves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While composing a little treatise on Eternity, I had the curiosity to place a mirror before me; and ere long saw reflected there, a curious involved worming and undulation in the atmosphere over my head."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The narwhal seemed motionless; perhaps, tired with its day’s work, it slept, letting itself float with the undulation of the waves."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I seemed to see the membraneous and cylindrical tubes tremble beneath the undulation of the waters."*

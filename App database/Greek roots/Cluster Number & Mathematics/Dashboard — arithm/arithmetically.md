@@ -5,13 +5,6 @@ status: unread
 ---
 # arithmetically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to arithmetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to arithmetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These do not constitute a sum of social wealth in any proper sense of the term.[3] Arithmetically it is a fallacious kind of a total, for the sum of the individual capitals contains some items that should be canceled to find the sum of wealth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to arithmetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to arithmetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These do not constitute a sum of social wealth in any proper sense of the term.[3] Arithmetically it is a fallacious kind of a total, for the sum of the individual capitals contains some items that should be canceled to find the sum of wealth."*

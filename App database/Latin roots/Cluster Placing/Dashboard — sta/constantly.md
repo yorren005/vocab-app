@@ -5,15 +5,6 @@ status: unread
 ---
 # constantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without variation or change, in every case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I but believe it partly, For I am fresh of spirit, and resolv’d To meet all perils very constantly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I constantly believe— Or rather call my thought a certain knowledge— My brother Troilus lodges there tonight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without variation or change, in every case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I but believe it partly, For I am fresh of spirit, and resolv’d To meet all perils very constantly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I constantly believe— Or rather call my thought a certain knowledge— My brother Troilus lodges there tonight."*

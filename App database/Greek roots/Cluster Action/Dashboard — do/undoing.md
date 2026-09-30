@@ -5,15 +5,6 @@ status: unread
 ---
 # undoing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that makes a previous act of no effect (as if not done).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loosening the ties that fasten something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, you are the wiser man; for many a man’s tongue shakes out his master’s undoing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, Do not abuse my master’s bounty by Th’ undoing of yourself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fatal this marriage, cancelling your fame, Blotting your names from books of memory, Razing the characters of your renown, Defacing monuments of conquered France, Undoing all, as all had never been!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that makes a previous act of no effect (as if not done).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loosening the ties that fasten something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, you are the wiser man; for many a man’s tongue shakes out his master’s undoing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, Do not abuse my master’s bounty by Th’ undoing of yourself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fatal this marriage, cancelling your fame, Blotting your names from books of memory, Razing the characters of your renown, Defacing monuments of conquered France, Undoing all, as all had never been!"*

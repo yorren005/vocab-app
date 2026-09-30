@@ -5,13 +5,6 @@ status: unread
 ---
 # microsecond
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One millionth (10^-6) of a second; one thousandth of a millisecond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One millionth (10^-6) of a second; one thousandth of a millisecond.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsecond designates one millionth (10^-6) of a second; one thousandth of a millisecond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One millionth (10^-6) of a second; one thousandth of a millisecond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One millionth (10^-6) of a second; one thousandth of a millisecond.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsecond designates one millionth (10^-6) of a second; one thousandth of a millisecond."*

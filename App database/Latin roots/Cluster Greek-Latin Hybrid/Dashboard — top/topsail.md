@@ -5,15 +5,6 @@ status: unread
 ---
 # topsail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sail (or either of a pair of sails) immediately above the lowermost sail of a mast and supported by a topmast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sail (or either of a pair of sails) immediately above the lowermost sail of a mast and supported by a topmast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"At times junks of Japan were sighted, but never lifted a familiar topsail of old Europe above the sea-rim."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"_This afternoon, ma'am_," said the captain, as if it were the ay, ay, sir, of an able seaman who sprang to his duty of reefing the main-topsail."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We went on board the _S----l_, got all the sails and sheets in good order, rigged up an awning as a square sail, set our topsail, and by a little after 10 o'clock had everything ready for a start."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sail (or either of a pair of sails) immediately above the lowermost sail of a mast and supported by a topmast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sail (or either of a pair of sails) immediately above the lowermost sail of a mast and supported by a topmast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"At times junks of Japan were sighted, but never lifted a familiar topsail of old Europe above the sea-rim."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"_This afternoon, ma'am_," said the captain, as if it were the ay, ay, sir, of an able seaman who sprang to his duty of reefing the main-topsail."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We went on board the _S----l_, got all the sails and sheets in good order, rigged up an awning as a square sail, set our topsail, and by a little after 10 o'clock had everything ready for a start."*

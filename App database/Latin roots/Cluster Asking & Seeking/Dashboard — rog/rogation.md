@@ -5,13 +5,6 @@ status: unread
 ---
 # rogation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn supplication ceremony prescribed by the church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solemn supplication ceremony prescribed by the church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rogation designates a solemn supplication ceremony prescribed by the church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn supplication ceremony prescribed by the church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solemn supplication ceremony prescribed by the church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rogation designates a solemn supplication ceremony prescribed by the church."*

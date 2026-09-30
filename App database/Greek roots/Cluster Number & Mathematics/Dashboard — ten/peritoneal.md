@@ -5,13 +5,6 @@ status: unread
 ---
 # peritoneal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affecting the peritoneum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affecting the peritoneum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Although the former (we are thinking of neglect) is undoubtedly only too true the case he cites of nurses forgetting to count the sponges in the peritoneal cavity is too rare to be normative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affecting the peritoneum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affecting the peritoneum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Although the former (we are thinking of neglect) is undoubtedly only too true the case he cites of nurses forgetting to count the sponges in the peritoneal cavity is too rare to be normative."*

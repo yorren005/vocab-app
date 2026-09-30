@@ -5,13 +5,6 @@ status: unread
 ---
 # matriculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admission to a group (especially a college or university).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admission to a group (especially a college or university).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriculation designates admission to a group (especially a college or university)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admission to a group (especially a college or university).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admission to a group (especially a college or university).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriculation designates admission to a group (especially a college or university)."*

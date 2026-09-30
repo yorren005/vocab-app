@@ -5,15 +5,6 @@ status: unread
 ---
 # acceptable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of acceptance or satisfactory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judged to be in conformity with approved usage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and bolts along the passage as if he had an acceptable commission to carry the old gentleman to the nearest volcano."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"COULD you give us ‘British Grenadiers,’ my fine fellow?” Nothing could be more acceptable to the little circle than this call upon young Woolwich, who immediately fetches his fife and performs the stirring melody, during which performance Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of acceptance or satisfactory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judged to be in conformity with approved usage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and bolts along the passage as if he had an acceptable commission to carry the old gentleman to the nearest volcano."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"COULD you give us ‘British Grenadiers,’ my fine fellow?” Nothing could be more acceptable to the little circle than this call upon young Woolwich, who immediately fetches his fife and performs the stirring melody, during which performance Mr."*

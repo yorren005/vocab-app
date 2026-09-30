@@ -5,15 +5,6 @@ status: unread
 ---
 # unadvisable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prudent or wise; not recommended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not prudent or wise; not recommended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I do go it will be unadvisable for me to take her on this my first journey."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It may be unadvisable, however, to speak too loudly of the increased custom of the house, lest Mr."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"With every deference to the opinion of my beloved and respected Lady Southdown, I think it would be quite unadvisable to commence so early upon serious topics with Miss Crawley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prudent or wise; not recommended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not prudent or wise; not recommended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I do go it will be unadvisable for me to take her on this my first journey."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It may be unadvisable, however, to speak too loudly of the increased custom of the house, lest Mr."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"With every deference to the opinion of my beloved and respected Lady Southdown, I think it would be quite unadvisable to commence so early upon serious topics with Miss Crawley."*

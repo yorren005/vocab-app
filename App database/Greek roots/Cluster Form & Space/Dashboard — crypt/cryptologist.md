@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decoder skilled in the analysis of codes and cryptograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decoder skilled in the analysis of codes and cryptograms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptologist designates decoder skilled in the analysis of codes and cryptograms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decoder skilled in the analysis of codes and cryptograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decoder skilled in the analysis of codes and cryptograms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptologist designates decoder skilled in the analysis of codes and cryptograms."*

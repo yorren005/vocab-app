@@ -5,15 +5,6 @@ status: unread
 ---
 # ne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: neon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nebraska.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, my good window of lattice, fare thee well; thy casement I need not open, for I look through thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: neon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nebraska.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, my good window of lattice, fare thee well; thy casement I need not open, for I look through thee."*

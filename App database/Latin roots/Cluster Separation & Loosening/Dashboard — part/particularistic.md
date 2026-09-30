@@ -5,13 +5,6 @@ status: unread
 ---
 # particularistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to particularism (exclusive interest in one group or class or sect etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to particularism (exclusive interest in one group or class or sect etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, particularistic designates relating to particularism (exclusive interest in one group or class or sect etc.)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to particularism (exclusive interest in one group or class or sect etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to particularism (exclusive interest in one group or class or sect etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, particularistic designates relating to particularism (exclusive interest in one group or class or sect etc.)."*

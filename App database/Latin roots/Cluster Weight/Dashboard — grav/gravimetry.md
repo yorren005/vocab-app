@@ -5,13 +5,6 @@ status: unread
 ---
 # gravimetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of specific gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of specific gravity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravimetry designates the measurement of specific gravity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of specific gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of specific gravity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravimetry designates the measurement of specific gravity."*

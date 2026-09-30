@@ -5,14 +5,6 @@ status: unread
 ---
 # sanicle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus sanicula having palmately compound leaves and unisexual flowers in panicled umbels followed by bristly fruit; reputed to have healing powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus sanicula having palmately compound leaves and unisexual flowers in panicled umbels followed by bristly fruit; reputed to have healing powers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During the past summer we noticed, for the first time, a very pretty little species of cluster-cup (_Æcidium_) on the wood sanicle (_Sanicula Europæa_) in Darenth wood."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SANICLE BRAND; orbicular, variable in size, blackish-brown, scattered, rather confluent; spores very obtuse; peduncles somewhat elongated.—On _Sanicula Europæa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus sanicula having palmately compound leaves and unisexual flowers in panicled umbels followed by bristly fruit; reputed to have healing powers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus sanicula having palmately compound leaves and unisexual flowers in panicled umbels followed by bristly fruit; reputed to have healing powers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During the past summer we noticed, for the first time, a very pretty little species of cluster-cup (_Æcidium_) on the wood sanicle (_Sanicula Europæa_) in Darenth wood."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SANICLE BRAND; orbicular, variable in size, blackish-brown, scattered, rather confluent; spores very obtuse; peduncles somewhat elongated.—On _Sanicula Europæa_."*

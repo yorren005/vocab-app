@@ -5,15 +5,6 @@ status: unread
 ---
 # conclave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A private meeting or secret assembly; especially : a meeting of Roman Catholic cardinals secluded continuously while choosing a pope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gathering of a group or association.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And once more in mine arms I bid him welcome, And thank the holy conclave for their loves."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Oh, ’tis you, Mrs Durbeyfield—Lard—how you frightened me!—I thought it might be some gaffer sent by Gover’ment.” Mrs Durbeyfield was welcomed with glances and nods by the remainder of the conclave, and turned to where her husband sat."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When all ordinary measures to arrest the malady failed, the farmers met in solemn conclave on the village green and determined that next morning there should be a need-fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A private meeting or secret assembly; especially : a meeting of Roman Catholic cardinals secluded continuously while choosing a pope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gathering of a group or association.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And once more in mine arms I bid him welcome, And thank the holy conclave for their loves."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Oh, ’tis you, Mrs Durbeyfield—Lard—how you frightened me!—I thought it might be some gaffer sent by Gover’ment.” Mrs Durbeyfield was welcomed with glances and nods by the remainder of the conclave, and turned to where her husband sat."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When all ordinary measures to arrest the malady failed, the farmers met in solemn conclave on the village green and determined that next morning there should be a need-fire."*

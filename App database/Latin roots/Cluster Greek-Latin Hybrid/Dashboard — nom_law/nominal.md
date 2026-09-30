@@ -5,15 +5,6 @@ status: unread
 ---
 # nominal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phrase that can function as the subject or object of a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting or bearing or giving a name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of the remainder she was obliged to expend in winter clothing, leaving only a nominal sum for the whole inclement season at hand."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is for sale, but its value has not been adequately appreciated, and I would not part with it.' 'What is its price?' 'I have done affixing any nominal sum."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If I delivered up the dynamite, they would give me a nominal punishment of thirty days in the dungeon and then make me a trusty in the prison library."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phrase that can function as the subject or object of a verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting or bearing or giving a name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of the remainder she was obliged to expend in winter clothing, leaving only a nominal sum for the whole inclement season at hand."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It is for sale, but its value has not been adequately appreciated, and I would not part with it.' 'What is its price?' 'I have done affixing any nominal sum."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If I delivered up the dynamite, they would give me a nominal punishment of thirty days in the dungeon and then make me a trusty in the prison library."*

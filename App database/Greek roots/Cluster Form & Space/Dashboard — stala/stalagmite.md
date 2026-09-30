@@ -5,13 +5,6 @@ status: unread
 ---
 # stalagmite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deposit of calcium carbonate like an inverted stalactite formed on the floor of a cave by the drip of calcareous water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deposit of calcium carbonate like an inverted stalactite formed on the floor of a cave by the drip of calcareous water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"In one place, near at hand, a stalagmite had been slowly growing up from the ground for ages, builded by the water-drip from a stalactite overhead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deposit of calcium carbonate like an inverted stalactite formed on the floor of a cave by the drip of calcareous water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deposit of calcium carbonate like an inverted stalactite formed on the floor of a cave by the drip of calcareous water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"In one place, near at hand, a stalagmite had been slowly growing up from the ground for ages, builded by the water-drip from a stalactite overhead."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # crosstown
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going or extending across a town or city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Across a town or city.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosstown designates going or extending across a town or city."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going or extending across a town or city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Across a town or city.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosstown designates going or extending across a town or city."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # albatross
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (figurative) something that hinders or handicaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Bethink thee of the albatross, whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not Coleridge first threw that spell; but God’s great, unflattering laureate, Nature.[5] [5] I remember the first albatross I ever saw."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But some time after, I learned that goney was some seaman’s name for albatross."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (figurative) something that hinders or handicaps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Bethink thee of the albatross, whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not Coleridge first threw that spell; but God’s great, unflattering laureate, Nature.[5] [5] I remember the first albatross I ever saw."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But some time after, I learned that goney was some seaman’s name for albatross."*

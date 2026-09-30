@@ -5,15 +5,6 @@ status: unread
 ---
 # albania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southeastern europe on the adriatic coast of the balkan peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southeastern europe on the adriatic coast of the balkan peninsula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John's fire will not burn them.[548] In Albania fires of dry herbage are, or used to be, lit everywhere on St."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Edith Durham, _High Albania_ (London, 1909), p. 129. [675] R.F."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Milk-stones are used for the same purpose by Greek women in Crete and Melos at the present day; in Albania nursing mothers wear the stones in order to ensure an abundant flow of milk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southeastern europe on the adriatic coast of the balkan peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southeastern europe on the adriatic coast of the balkan peninsula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John's fire will not burn them.[548] In Albania fires of dry herbage are, or used to be, lit everywhere on St."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Edith Durham, _High Albania_ (London, 1909), p. 129. [675] R.F."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Milk-stones are used for the same purpose by Greek women in Crete and Melos at the present day; in Albania nursing mothers wear the stones in order to ensure an abundant flow of milk."*

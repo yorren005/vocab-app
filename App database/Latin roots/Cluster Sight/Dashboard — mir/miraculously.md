@@ -5,15 +5,6 @@ status: unread
 ---
 # miraculously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a miraculous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a miraculous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick, who was there with the rest, his wrapper gleaming miraculously white against a leaden evening sky, suddenly looked at his heavy watch."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The blind prayed for sight, the lepers for a cure, the lame far the use of their limbs, and the deaf for the use of their ears, and surely had they prayed unwarrantably, their prayers would not have been so miraculously answered."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But first, ere the great task began, I returned thanks to that Being through whose mercy I had been so miraculously preserved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a miraculous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a miraculous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick, who was there with the rest, his wrapper gleaming miraculously white against a leaden evening sky, suddenly looked at his heavy watch."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The blind prayed for sight, the lepers for a cure, the lame far the use of their limbs, and the deaf for the use of their ears, and surely had they prayed unwarrantably, their prayers would not have been so miraculously answered."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But first, ere the great task began, I returned thanks to that Being through whose mercy I had been so miraculously preserved."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # provokingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a provocative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a provocative manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But as Oak was not only provokingly indifferent to public opinion, but a man who clung persistently to old habits and usages, simply because they were old, there was room for doubt as to his motives."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Austen was always provokingly chary of description in regard to her beauties; and except the fine eyes, and a hint or two that she had at any rate sometimes a bright complexion, and was not very tall, we hear nothing about her looks."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You would admire a stupendous fellow, who would have wise opinions about everything.” “Yes, I should.” Mary was sewing swiftly, and seemed provokingly mistress of the situation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a provocative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a provocative manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But as Oak was not only provokingly indifferent to public opinion, but a man who clung persistently to old habits and usages, simply because they were old, there was room for doubt as to his motives."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Austen was always provokingly chary of description in regard to her beauties; and except the fine eyes, and a hint or two that she had at any rate sometimes a bright complexion, and was not very tall, we hear nothing about her looks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You would admire a stupendous fellow, who would have wise opinions about everything.” “Yes, I should.” Mary was sewing swiftly, and seemed provokingly mistress of the situation."*

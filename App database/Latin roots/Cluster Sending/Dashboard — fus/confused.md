@@ -5,15 +5,6 @@ status: unread
 ---
 # confused
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when such time they have begun to cry, Let them not cease, but with a din confused Enforce the present execution Of what we chance to sentence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But such is the infection of the time, That, for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance; towards the end whereof Prospero starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when such time they have begun to cry, Let them not cease, but with a din confused Enforce the present execution Of what we chance to sentence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But such is the infection of the time, That, for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance; towards the end whereof Prospero starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish."*

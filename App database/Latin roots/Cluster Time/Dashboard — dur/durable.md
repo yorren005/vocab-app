@@ -5,15 +5,6 @@ status: unread
 ---
 # durable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing for a long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of withstanding wear and tear and decay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You are never sure of a good impression being durable; everybody may sway it."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Even the smooth surface of family-union seems worth preserving, though there may be nothing durable beneath."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be used either for immediate consumption or for further indirect use in durable form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing for a long time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of withstanding wear and tear and decay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"You are never sure of a good impression being durable; everybody may sway it."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Even the smooth surface of family-union seems worth preserving, though there may be nothing durable beneath."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be used either for immediate consumption or for further indirect use in durable form."*

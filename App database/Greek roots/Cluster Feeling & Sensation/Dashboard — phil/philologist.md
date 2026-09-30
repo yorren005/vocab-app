@@ -5,13 +5,6 @@ status: unread
 ---
 # philologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humanist specializing in classical scholarship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humanist specializing in classical scholarship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Something of that sort.” “Colonial, is it not?” pursued Lydia, with the air of a philologist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A humanist specializing in classical scholarship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humanist specializing in classical scholarship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Something of that sort.” “Colonial, is it not?” pursued Lydia, with the air of a philologist."*

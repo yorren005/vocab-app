@@ -5,15 +5,6 @@ status: unread
 ---
 # mitchell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English aeronautical engineer (1895-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states aviator and general who was an early advocate of military air power (1879-1936).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mitchell, in Bulletin 173 of the U.S."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, writing in the year 1862, Sir Arthur Mitchell tells us that "for the cure of the murrain in cattle, one of the herd is still sacrificed for the good of the whole."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Verses To Collector Mitchell Friend of the Poet, tried and leal, Wha, wanting thee, might beg or steal; Alake, alake, the meikle deil Wi’ a’ his witches Are at it skelpin jig and reel, In my poor pouches?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English aeronautical engineer (1895-1937).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states aviator and general who was an early advocate of military air power (1879-1936).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mitchell, in Bulletin 173 of the U.S."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, writing in the year 1862, Sir Arthur Mitchell tells us that "for the cure of the murrain in cattle, one of the herd is still sacrificed for the good of the whole."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Verses To Collector Mitchell Friend of the Poet, tried and leal, Wha, wanting thee, might beg or steal; Alake, alake, the meikle deil Wi’ a’ his witches Are at it skelpin jig and reel, In my poor pouches?"*

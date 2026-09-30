@@ -5,15 +5,6 @@ status: unread
 ---
 # relentless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be placated or appeased or moved by entreaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never-ceasing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket shakes his relentless head."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"All the way home she was asking the Lord to release her from this relentless creditor, and all the way home a man, without her knowledge, was following her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The well-known face was there: stern, relentless as ever—there was that peculiar eye which nothing could melt, and the somewhat raised, imperious, despotic eyebrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be placated or appeased or moved by entreaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never-ceasing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket shakes his relentless head."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"All the way home she was asking the Lord to release her from this relentless creditor, and all the way home a man, without her knowledge, was following her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The well-known face was there: stern, relentless as ever—there was that peculiar eye which nothing could melt, and the somewhat raised, imperious, despotic eyebrow."*

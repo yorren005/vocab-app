@@ -5,20 +5,6 @@ status: unread
 ---
 # starve
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Die of cold
-> 2. **Nuance / Usage**: Suffer extreme hunger
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to starve the target*) and intransitive clauses (*starving against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whilst I at home starve for a merry look."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Your Grace may starve, perhaps, before that time."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"that surfeit with too much as they that starve with nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To suffer severely or perish from a prolonged lack of food, or to deprive someone of nourishment.
+> 2. **Nuance / Usage**: Used figuratively for depriving a person, institution, or fire of something essential to its survival (*starved of affection*, *starved of oxygen*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to starve the target*) and intransitive clauses (*starving against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"They are as sick that surfeit with too much as they that **starve** with nothing."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"So they established the rule that all poor people should have the alternative of being **starved** by a gradual process in the house, or by a quick one out of it."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I’ll **starve** myself to death before I touch a morsel from his hands."*

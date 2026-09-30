@@ -5,13 +5,6 @@ status: unread
 ---
 # stearic acid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline fatty acid C18H36O2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline fatty acid C18H36O2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stearic acid designates a white crystalline fatty acid c18h36o2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline fatty acid C18H36O2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline fatty acid C18H36O2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stearic acid designates a white crystalline fatty acid c18h36o2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids."*

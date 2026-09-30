@@ -5,13 +5,6 @@ status: unread
 ---
 # salafism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salafism designates a militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salafism designates a militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # discompose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Men who possess all the advantages of life, are in a state where there are many accidents to disorder and discompose, but few to please them."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And having been long used to sea-voyages, those motions, although sometimes very violent, did not much discompose me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You will not be discomposed by the Lord Chancellor, I dare say?” “No, sir,” I said, “I don’t think I shall,” really not seeing on consideration why I should be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Men who possess all the advantages of life, are in a state where there are many accidents to disorder and discompose, but few to please them."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And having been long used to sea-voyages, those motions, although sometimes very violent, did not much discompose me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You will not be discomposed by the Lord Chancellor, I dare say?” “No, sir,” I said, “I don’t think I shall,” really not seeing on consideration why I should be."*

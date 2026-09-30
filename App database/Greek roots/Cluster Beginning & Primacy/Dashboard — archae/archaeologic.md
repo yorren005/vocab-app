@@ -5,13 +5,6 @@ status: unread
 ---
 # archaeologic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or dealing with or devoted to archaeology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or dealing with or devoted to archaeology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Absolute archaeologic accuracy was promised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or dealing with or devoted to archaeology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or dealing with or devoted to archaeology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Absolute archaeologic accuracy was promised."*

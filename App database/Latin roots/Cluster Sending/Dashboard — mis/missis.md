@@ -5,15 +5,6 @@ status: unread
 ---
 # missis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the morning, I said, 'Laura, did you sleep well last night?' She replied, 'O, missis, my heart too full of joy to sleep."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Me never sleep in a bed before, missis.' "Laura, then about thirteen years old, came to me with a hard cough, and pain in her side."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Do you believe he will, Laura?' 'Yes, missis, me _do believe_,' she replied earnestly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In the morning, I said, 'Laura, did you sleep well last night?' She replied, 'O, missis, my heart too full of joy to sleep."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Me never sleep in a bed before, missis.' "Laura, then about thirteen years old, came to me with a hard cough, and pain in her side."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Do you believe he will, Laura?' 'Yes, missis, me _do believe_,' she replied earnestly."*

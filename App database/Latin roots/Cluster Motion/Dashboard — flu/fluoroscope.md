@@ -5,13 +5,6 @@ status: unread
 ---
 # fluoroscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroscope designates an x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroscope designates an x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation."*

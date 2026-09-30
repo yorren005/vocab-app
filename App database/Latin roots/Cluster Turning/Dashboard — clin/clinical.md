@@ -5,14 +5,6 @@ status: unread
 ---
 # clinical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scientifically detached; unemotional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The PHA is a four-stage process that includes a prevention-oriented clinical screening, occupational examination, screening of military-unique medical requirements and counseling."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"They cannot get admission to any Hospital for the clinical part of the course."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scientifically detached; unemotional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The PHA is a four-stage process that includes a prevention-oriented clinical screening, occupational examination, screening of military-unique medical requirements and counseling."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"They cannot get admission to any Hospital for the clinical part of the course."*

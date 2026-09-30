@@ -5,15 +5,6 @@ status: unread
 ---
 # overdone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do something to an excessive degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented as greater than is true or reasonable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Mistress Overdone, a Bawd."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sir, by Mistress Overdone’s means; but as she spit in his face, so she defied him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do something to an excessive degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented as greater than is true or reasonable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Mistress Overdone, a Bawd."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sir, by Mistress Overdone’s means; but as she spit in his face, so she defied him."*

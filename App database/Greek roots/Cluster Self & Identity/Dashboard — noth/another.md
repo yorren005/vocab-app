@@ -5,15 +5,6 @@ status: unread
 ---
 # another
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various alternatives; some other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various alternatives; some other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most true it is, that I have looked on truth Askance and strangely: but by all above, These blenches gave my heart another youth, And worse essays proved thee my best of love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to be sure that is not false I swear, A thousand groans but thinking on thy face, One on another’s neck do witness bear Thy black is fairest in my judgement’s place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various alternatives; some other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various alternatives; some other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most true it is, that I have looked on truth Askance and strangely: but by all above, These blenches gave my heart another youth, And worse essays proved thee my best of love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to be sure that is not false I swear, A thousand groans but thinking on thy face, One on another’s neck do witness bear Thy black is fairest in my judgement’s place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*

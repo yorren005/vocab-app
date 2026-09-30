@@ -5,13 +5,6 @@ status: unread
 ---
 # oleo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleo designates a spread made chiefly from vegetable oils and used as a substitute for butter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleo designates a spread made chiefly from vegetable oils and used as a substitute for butter."*

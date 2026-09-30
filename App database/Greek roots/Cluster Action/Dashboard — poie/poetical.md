@@ -5,15 +5,6 @@ status: unread
 ---
 # poetical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or befitting poetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I would the gods had made thee poetical."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know what “poetical” is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you wish, then, that the gods had made me poetical?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or befitting poetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I would the gods had made thee poetical."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know what “poetical” is."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you wish, then, that the gods had made me poetical?"*

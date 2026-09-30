@@ -5,15 +5,6 @@ status: unread
 ---
 # regard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually preceded by `in') a detail or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paying particular notice (as to children or helpless people).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I offered to awaken his regard For’s private friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you swear still, your recompense is still That I regard it not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually preceded by `in') a detail or point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paying particular notice (as to children or helpless people).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I offered to awaken his regard For’s private friends."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you swear still, your recompense is still That I regard it not."*

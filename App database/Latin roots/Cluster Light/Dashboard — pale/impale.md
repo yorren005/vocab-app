@@ -5,15 +5,6 @@ status: unread
 ---
 # impale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a sharp stake or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill by piercing with a spear or sharp pole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did I impale him with the regal crown?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By that fraction of a second too late Fortini attempted to deflect my blade and impale me on his."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Lagos in Guinea it was the custom annually to impale a young girl alive soon after the spring equinox in order to secure good crops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a sharp stake or point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill by piercing with a spear or sharp pole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did I impale him with the regal crown?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By that fraction of a second too late Fortini attempted to deflect my blade and impale me on his."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Lagos in Guinea it was the custom annually to impale a young girl alive soon after the spring equinox in order to secure good crops."*

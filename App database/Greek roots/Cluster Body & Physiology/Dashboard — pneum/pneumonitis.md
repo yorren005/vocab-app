@@ -5,13 +5,6 @@ status: unread
 ---
 # pneumonitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumonitis designates acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumonitis designates acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated."*

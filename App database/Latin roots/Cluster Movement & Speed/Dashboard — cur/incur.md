@@ -5,15 +5,6 @@ status: unread
 ---
 # incur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make oneself subject to; bring upon oneself; become liable to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive a specified treatment (abstract).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the King come, I shall incur I know not How much of his displeasure. [_Aside._] Yet I’ll move him To walk this way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In faith, he’s penitent; And yet his trespass, in our common reason, (Save that, they say, the wars must make examples Out of their best) is not almost a fault To incur a private check."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, to speak, and to avoid the first, And then, in speaking, not to incur the last, Definitively thus I answer you: Your love deserves my thanks, but my desert Unmeritable shuns your high request."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make oneself subject to; bring upon oneself; become liable to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive a specified treatment (abstract).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the King come, I shall incur I know not How much of his displeasure. [_Aside._] Yet I’ll move him To walk this way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In faith, he’s penitent; And yet his trespass, in our common reason, (Save that, they say, the wars must make examples Out of their best) is not almost a fault To incur a private check."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, to speak, and to avoid the first, And then, in speaking, not to incur the last, Definitively thus I answer you: Your love deserves my thanks, but my desert Unmeritable shuns your high request."*

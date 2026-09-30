@@ -5,15 +5,6 @@ status: unread
 ---
 # multiply
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine by multiplication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or increase by multiplication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It would be going only to multiply trouble to the others, and increase his own distress; and a much better scheme followed and was acted upon."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And when it comes to sleeping with an unknown stranger, in a strange inn, in a strange town, and that stranger a harpooneer, then your objections indefinitely multiply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine by multiplication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or increase by multiplication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It would be going only to multiply trouble to the others, and increase his own distress; and a much better scheme followed and was acted upon."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And when it comes to sleeping with an unknown stranger, in a strange inn, in a strange town, and that stranger a harpooneer, then your objections indefinitely multiply."*

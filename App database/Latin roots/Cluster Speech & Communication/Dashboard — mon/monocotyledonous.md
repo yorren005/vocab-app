@@ -5,13 +5,6 @@ status: unread
 ---
 # monocotyledonous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonous designates (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonous designates (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies."*

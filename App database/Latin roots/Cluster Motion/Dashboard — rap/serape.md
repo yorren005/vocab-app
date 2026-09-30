@@ -5,13 +5,6 @@ status: unread
 ---
 # serape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long brightly colored shawl; worn mainly by mexican men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long brightly colored shawl; worn mainly by mexican men.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The Spaniard was wrapped in a serape; he had bushy white whiskers; long white hair flowed from under his sombrero, and he wore green goggles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long brightly colored shawl; worn mainly by mexican men.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long brightly colored shawl; worn mainly by mexican men.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The Spaniard was wrapped in a serape; he had bushy white whiskers; long white hair flowed from under his sombrero, and he wore green goggles."*

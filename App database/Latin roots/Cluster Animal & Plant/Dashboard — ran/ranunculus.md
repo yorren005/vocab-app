@@ -5,15 +5,6 @@ status: unread
 ---
 # ranunculus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual, biennial or perennial herbs: buttercup; crowfoot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual, biennial or perennial herbs: buttercup; crowfoot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"One of the first of our native wild flowers, in making its appearance after the departure of frost and snow, is the little yellow celandine (_Ranunculus ficaria_)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"So common is _Æcidium ranunculacearum_ on this species of _Ranunculus_, that it can scarcely have escaped the eye of any one who has taken the trouble to examine the plant."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It is found on several species of _Ranunculus_, as _R. acris_, _bulbosus_, and _repens_, but most commonly on _R. ficaria_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual, biennial or perennial herbs: buttercup; crowfoot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual, biennial or perennial herbs: buttercup; crowfoot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"One of the first of our native wild flowers, in making its appearance after the departure of frost and snow, is the little yellow celandine (_Ranunculus ficaria_)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"So common is _Æcidium ranunculacearum_ on this species of _Ranunculus_, that it can scarcely have escaped the eye of any one who has taken the trouble to examine the plant."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It is found on several species of _Ranunculus_, as _R. acris_, _bulbosus_, and _repens_, but most commonly on _R. ficaria_."*

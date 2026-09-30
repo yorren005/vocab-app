@@ -5,13 +5,6 @@ status: unread
 ---
 # candelilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wax-coated mexican shrub related to euphorbia antisyphilitica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wax-coated shrub of northern mexico and southwestern united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candelilla designates wax-coated mexican shrub related to euphorbia antisyphilitica."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wax-coated mexican shrub related to euphorbia antisyphilitica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wax-coated shrub of northern mexico and southwestern united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candelilla designates wax-coated mexican shrub related to euphorbia antisyphilitica."*

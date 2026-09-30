@@ -5,15 +5,6 @@ status: unread
 ---
 # independent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neutral or uncommitted person (especially in politics).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer or artist who sells services to different employers without a long-term contract with any of them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She firmly held the little girl's hand, for there was no telling what she might undertake otherwise, and the less independent Lippo held his mother's other hand, so that the two older brothers were obliged to accommodate their steps to the rest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You’re an independent dragoon, too!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neutral or uncommitted person (especially in politics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer or artist who sells services to different employers without a long-term contract with any of them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She firmly held the little girl's hand, for there was no telling what she might undertake otherwise, and the less independent Lippo held his mother's other hand, so that the two older brothers were obliged to accommodate their steps to the rest."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You’re an independent dragoon, too!"*

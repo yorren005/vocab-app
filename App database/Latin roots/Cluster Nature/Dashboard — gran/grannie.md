@@ -5,15 +5,6 @@ status: unread
 ---
 # grannie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of your father or mother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mother of your father or mother.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My grannie she bought me a beuk, An’ I held awa to the school; I fear I my talent misteuk, But what will ye hae of a fool?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ah! little ken’d thy reverend grannie, That sark she coft for her wee Nannie, Wi twa pund Scots (’twas a’ her riches), Wad ever grac’d a dance of witches!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Grannie, graunie, grandmother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of your father or mother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mother of your father or mother.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My grannie she bought me a beuk, An’ I held awa to the school; I fear I my talent misteuk, But what will ye hae of a fool?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ah! little ken’d thy reverend grannie, That sark she coft for her wee Nannie, Wi twa pund Scots (’twas a’ her riches), Wad ever grac’d a dance of witches!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Grannie, graunie, grandmother."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # trochlea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochlea designates an anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochlea designates an anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna."*

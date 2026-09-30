@@ -5,13 +5,6 @@ status: unread
 ---
 # adenohypophysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior glandular lobe of the pituitary gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior glandular lobe of the pituitary gland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenohypophysis designates the anterior glandular lobe of the pituitary gland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior glandular lobe of the pituitary gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior glandular lobe of the pituitary gland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenohypophysis designates the anterior glandular lobe of the pituitary gland."*

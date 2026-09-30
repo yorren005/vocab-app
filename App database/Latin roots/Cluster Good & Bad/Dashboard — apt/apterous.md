@@ -5,13 +5,6 @@ status: unread
 ---
 # apterous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of insects) without wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of insects) without wings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterous designates (of insects) without wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of insects) without wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of insects) without wings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterous designates (of insects) without wings."*

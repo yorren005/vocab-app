@@ -5,15 +5,6 @@ status: unread
 ---
 # expatiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, as the business of standing mast-heads, ashore or afloat, is a very ancient and interesting one, let us in some measure expatiate here."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From his mighty bulk the whale affords a most congenial theme whereon to enlarge, amplify, and generally expatiate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, as the business of standing mast-heads, ashore or afloat, is a very ancient and interesting one, let us in some measure expatiate here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, as the business of standing mast-heads, ashore or afloat, is a very ancient and interesting one, let us in some measure expatiate here."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From his mighty bulk the whale affords a most congenial theme whereon to enlarge, amplify, and generally expatiate."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, as the business of standing mast-heads, ashore or afloat, is a very ancient and interesting one, let us in some measure expatiate here."*

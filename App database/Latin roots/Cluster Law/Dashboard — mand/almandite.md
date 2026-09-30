@@ -5,13 +5,6 @@ status: unread
 ---
 # almandite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep red garnet consisting of iron aluminum silicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep red garnet consisting of iron aluminum silicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, almandite designates a deep red garnet consisting of iron aluminum silicate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep red garnet consisting of iron aluminum silicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep red garnet consisting of iron aluminum silicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, almandite designates a deep red garnet consisting of iron aluminum silicate."*

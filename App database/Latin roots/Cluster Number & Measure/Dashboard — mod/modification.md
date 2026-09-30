@@ -5,15 +5,6 @@ status: unread
 ---
 # modification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something different (as e.g. the size of a garment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slightly modified copy; not an exact copy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is no support for this view, except in the rare case when the money standard is undergoing a rapid change, as in the United States from 1866 to 1873, and the statement then needs much modification and explanation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A tariff may be adopted mainly from stress of financial need (as in our own history in 1789 or in 1861), but its modification or repeal cannot be decided by fiscal considerations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It does not look to the abolition, but only to the modification and limitation in some directions, of private property and of competitive industry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something different (as e.g. the size of a garment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slightly modified copy; not an exact copy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is no support for this view, except in the rare case when the money standard is undergoing a rapid change, as in the United States from 1866 to 1873, and the statement then needs much modification and explanation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A tariff may be adopted mainly from stress of financial need (as in our own history in 1789 or in 1861), but its modification or repeal cannot be decided by fiscal considerations."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It does not look to the abolition, but only to the modification and limitation in some directions, of private property and of competitive industry."*

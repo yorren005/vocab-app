@@ -5,13 +5,6 @@ status: unread
 ---
 # chirico
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirico designates italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirico designates italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978)."*

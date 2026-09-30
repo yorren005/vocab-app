@@ -5,15 +5,6 @@ status: unread
 ---
 # alliteration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of the same consonant at the beginning of each stressed syllable in a line of verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of the same consonant at the beginning of each stressed syllable in a line of verse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"You feel he does not strain after effect--epigram, antithesis, or alliteration."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The unobtrusive, but distinctly felt, alliteration which runs through it, contributes something toward this lightsomeness."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We must not, of course, suppose that Wordsworth consciously sought these alliterations, arranged these accents, resolved to introduce an unusual word in the last line, or hunted for a classical allusion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of the same consonant at the beginning of each stressed syllable in a line of verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of the same consonant at the beginning of each stressed syllable in a line of verse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"You feel he does not strain after effect--epigram, antithesis, or alliteration."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The unobtrusive, but distinctly felt, alliteration which runs through it, contributes something toward this lightsomeness."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We must not, of course, suppose that Wordsworth consciously sought these alliterations, arranged these accents, resolved to introduce an unusual word in the last line, or hunted for a classical allusion."*

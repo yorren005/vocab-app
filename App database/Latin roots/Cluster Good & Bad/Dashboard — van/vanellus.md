@@ -5,13 +5,6 @@ status: unread
 ---
 # vanellus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian lapwings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eurasian lapwings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanellus designates eurasian lapwings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian lapwings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eurasian lapwings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanellus designates eurasian lapwings."*

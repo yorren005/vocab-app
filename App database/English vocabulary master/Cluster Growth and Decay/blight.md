@@ -5,20 +5,6 @@ status: unread
 ---
 # blight
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Something that frustrates plans or hopes
-> 2. **Nuance / Usage**: Organism (such as an insect or a fungus) that causes blight
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the blight withstood the storm*), direct object (*cleaved the blight*), or prepositional anchor (*amidst the blight*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That scatters blight in early spring?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"care, such as casts the blight of irony over all higher effort."*
-> - 📜 **William H[arrison] Ukers (*All About Coffee*):** *"A blight in 1855–56 set back the industry, many plantations being ruined and then given over to sugar cane. After the blight had disappeared, the plantations were re-established, and prosperity continued for years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Something that frustrates plans or hopes
+> 2. **Nuance / Usage**: Organism (such as an insect or a fungus) that causes blight
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the blight withstood the storm*), direct object (*cleaved the blight*), or prepositional anchor (*amidst the blight*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That scatters blight in early spring?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"care, such as casts the blight of irony over all higher effort."*
+> - 📜 **William H[arrison] Ukers (*All About Coffee*):** *"A blight in 1855–56 set back the industry, many plantations being ruined and then given over to sugar cane. After the blight had disappeared, the plantations were re-established, and prosperity continued for years."*

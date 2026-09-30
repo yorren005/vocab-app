@@ -5,13 +5,6 @@ status: unread
 ---
 # valorously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With valor; in a valiant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With valor; in a valiant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the mess, ere theise eyes of mine take themselves to slomber, I’ll de gud service, or I’ll lig i’ the grund for it; ay, or go to death; and I’ll pay’t as valorously as I may, that sall I suerly do, that is the breff and the long."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With valor; in a valiant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With valor; in a valiant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the mess, ere theise eyes of mine take themselves to slomber, I’ll de gud service, or I’ll lig i’ the grund for it; ay, or go to death; and I’ll pay’t as valorously as I may, that sall I suerly do, that is the breff and the long."*

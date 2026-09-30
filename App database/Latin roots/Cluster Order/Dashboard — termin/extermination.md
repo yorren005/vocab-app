@@ -5,15 +5,6 @@ status: unread
 ---
 # extermination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete annihilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exterminating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In one hand he carried a tin can and in the other a small pointed stick, which looked murderously fitted for the extermination of the marauders."*
-> - 📜 **Effie Afton (*Eventide*):** *"It appeared a war was commenced which threatened to cease only with the extermination of the masculine portion of Wimbledon."*
-> - 📜 **James Joyce (*Ulysses*):** *"The cessation of existence of both or either, the inauguration of a new era or calendar, the annihilation of the world and consequent extermination of the human species, inevitable but impredictable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete annihilation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exterminating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In one hand he carried a tin can and in the other a small pointed stick, which looked murderously fitted for the extermination of the marauders."*
+> - 📜 **Effie Afton (*Eventide*):** *"It appeared a war was commenced which threatened to cease only with the extermination of the masculine portion of Wimbledon."*
+> - 📜 **James Joyce (*Ulysses*):** *"The cessation of existence of both or either, the inauguration of a new era or calendar, the annihilation of the world and consequent extermination of the human species, inevitable but impredictable."*

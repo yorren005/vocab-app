@@ -5,15 +5,6 @@ status: unread
 ---
 # imbibing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consuming liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take in, also metaphorically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"One feels too enervated for any exertion, beyond imbibing cool drinks or smoking a cigar in a cane lounge."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I'll tell you what I'll do, boys; if my dog will drink the stuff you fellows are imbibing I'll drink with you," said Mr."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The substitute bartender had solaced himself with the liquid goods before entering the train, and was soon in a rapturous state from the mixture brought about from imbibing A----'s whiskey."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consuming liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take in, also metaphorically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"One feels too enervated for any exertion, beyond imbibing cool drinks or smoking a cigar in a cane lounge."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I'll tell you what I'll do, boys; if my dog will drink the stuff you fellows are imbibing I'll drink with you," said Mr."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The substitute bartender had solaced himself with the liquid goods before entering the train, and was soon in a rapturous state from the mixture brought about from imbibing A----'s whiskey."*

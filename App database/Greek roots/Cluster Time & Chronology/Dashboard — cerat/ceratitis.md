@@ -5,13 +5,6 @@ status: unread
 ---
 # ceratitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean fruit flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean fruit flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratitis designates mediterranean fruit flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean fruit flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean fruit flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratitis designates mediterranean fruit flies."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # oecumenism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement promoting union between religions (especially between christian churches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement promoting union between religions (especially between christian churches).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oecumenism designates a movement promoting union between religions (especially between christian churches)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement promoting union between religions (especially between christian churches).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement promoting union between religions (especially between christian churches).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oecumenism designates a movement promoting union between religions (especially between christian churches)."*

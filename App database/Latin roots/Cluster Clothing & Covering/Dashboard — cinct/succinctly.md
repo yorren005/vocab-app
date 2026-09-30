@@ -5,15 +5,6 @@ status: unread
 ---
 # succinctly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With concise and precise brevity; to the point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With concise and precise brevity; to the point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His complaint against the bill was succinctly stated in two sentences, which fairly illustrated the method and basis of all his arguments upon current politics."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Alligator," explained Jacinto succinctly, in their tongue."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"These, sir, are the grounds, succinctly stated, on which my vote for grants of lands for particular objects rest, while I maintain, at the same time, that it is all a common fund, for the common benefit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With concise and precise brevity; to the point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With concise and precise brevity; to the point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His complaint against the bill was succinctly stated in two sentences, which fairly illustrated the method and basis of all his arguments upon current politics."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Alligator," explained Jacinto succinctly, in their tongue."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"These, sir, are the grounds, succinctly stated, on which my vote for grants of lands for particular objects rest, while I maintain, at the same time, that it is all a common fund, for the common benefit."*

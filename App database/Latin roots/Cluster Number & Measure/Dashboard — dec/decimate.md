@@ -5,14 +5,6 @@ status: unread
 ---
 # decimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill one in every ten, as of mutineers in roman armies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill in large numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Our soldiers are no longer fearless, and I'll wager that those who are defending the best positions will not risk seeing themselves decimated; they will abandon them as soon as they see a couple of dozen French heads above each rampart."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will not be declared how great captains toyed with armies and decimated them upon the deadly altar of ambition, and how blighted hopes of preferment made jangled strife and fruitless campaigns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill one in every ten, as of mutineers in roman armies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill in large numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Our soldiers are no longer fearless, and I'll wager that those who are defending the best positions will not risk seeing themselves decimated; they will abandon them as soon as they see a couple of dozen French heads above each rampart."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will not be declared how great captains toyed with armies and decimated them upon the deadly altar of ambition, and how blighted hopes of preferment made jangled strife and fruitless campaigns."*

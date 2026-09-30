@@ -5,14 +5,6 @@ status: unread
 ---
 # brontosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"We ran short of plaster of Paris, or we’d have built a brontosaur that could sit down beside the Stratford Shakespeare and none but an expert could tell which was biggest or contained the most plaster."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He is a brontosaur: nine bones and six hundred barrels of plaster of Paris."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"We ran short of plaster of Paris, or we’d have built a brontosaur that could sit down beside the Stratford Shakespeare and none but an expert could tell which was biggest or contained the most plaster."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He is a brontosaur: nine bones and six hundred barrels of plaster of Paris."*

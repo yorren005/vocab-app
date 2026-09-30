@@ -5,13 +5,6 @@ status: unread
 ---
 # trophozoite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protozoan of a vegetative form as distinguished from one of a reproductive or resting form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protozoan of a vegetative form as distinguished from one of a reproductive or resting form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophozoite designates a protozoan of a vegetative form as distinguished from one of a reproductive or resting form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protozoan of a vegetative form as distinguished from one of a reproductive or resting form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protozoan of a vegetative form as distinguished from one of a reproductive or resting form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophozoite designates a protozoan of a vegetative form as distinguished from one of a reproductive or resting form."*

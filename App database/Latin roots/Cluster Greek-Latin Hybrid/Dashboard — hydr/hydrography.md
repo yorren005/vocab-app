@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrography designates the science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrography designates the science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation."*

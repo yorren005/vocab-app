@@ -5,13 +5,6 @@ status: unread
 ---
 # popover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light hollow muffin made of a puff batter (individual yorkshire pudding) baked in a deep muffin cup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light hollow muffin made of a puff batter (individual yorkshire pudding) baked in a deep muffin cup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Then, with a characteristic change of subject, she added: “My, but you should have tasted of the popovers I made for breakfast this morning!” “I should like to,” smiled Aunt Hannah."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Light hollow muffin made of a puff batter (individual yorkshire pudding) baked in a deep muffin cup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light hollow muffin made of a puff batter (individual yorkshire pudding) baked in a deep muffin cup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Then, with a characteristic change of subject, she added: “My, but you should have tasted of the popovers I made for breakfast this morning!” “I should like to,” smiled Aunt Hannah."*

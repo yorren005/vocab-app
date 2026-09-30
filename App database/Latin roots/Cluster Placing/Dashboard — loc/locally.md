@@ -5,15 +5,6 @@ status: unread
 ---
 # locally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By a particular locality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a restricted area of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Local political units acquire ownership only in local industries and in wealth used locally by the citizens."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"We stood you champagne--" "Purchased locally."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In giving the monologues new titles, ‘My Last Duchess’ and ‘Count Gismond’, he added to the one, ‘Ferrara’, and to the other, ‘Aix in Provence’, thus locally restricting the order of character which they severally represent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By a particular locality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a restricted area of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Local political units acquire ownership only in local industries and in wealth used locally by the citizens."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"We stood you champagne--" "Purchased locally."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In giving the monologues new titles, ‘My Last Duchess’ and ‘Count Gismond’, he added to the one, ‘Ferrara’, and to the other, ‘Aix in Provence’, thus locally restricting the order of character which they severally represent."*

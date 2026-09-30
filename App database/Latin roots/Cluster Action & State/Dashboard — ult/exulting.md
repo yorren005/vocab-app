@@ -5,15 +5,6 @@ status: unread
 ---
 # exulting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel extreme happiness or elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cry within, “Arcite, Arcite.”_] More exulting?"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had then been exulting in her engagement to Thorpe, and was now chiefly anxious to avoid his sight, lest he should engage her again; for though she could not, dared not expect that Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And, must I think it! is she gone, My secret heart’s exulting boast?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel extreme happiness or elation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cry within, “Arcite, Arcite.”_] More exulting?"*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had then been exulting in her engagement to Thorpe, and was now chiefly anxious to avoid his sight, lest he should engage her again; for though she could not, dared not expect that Mr."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And, must I think it! is she gone, My secret heart’s exulting boast?"*

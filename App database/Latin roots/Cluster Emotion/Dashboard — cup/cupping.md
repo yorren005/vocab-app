@@ -5,15 +5,6 @@ status: unread
 ---
 # cupping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatment in which evacuated cups are applied to the skin to draw blood through the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form into the shape of a cup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He did not approve of a too lowering system, including reckless cupping, nor, on the other hand, of incessant port wine and bark."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I activated the acoustic feedback whistle by cupping the device in my palm and rendering a 'shave-and-a- haircut' whistle and this brought several laughs as well as questions."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"He had even taken from his pocket a cupping apparatus, and was about to proceed to phlebotomy, when the object of his anxious solicitude suddenly revived; but it was to dash his cap from his head, and to throw dust on his grey hairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatment in which evacuated cups are applied to the skin to draw blood through the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form into the shape of a cup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He did not approve of a too lowering system, including reckless cupping, nor, on the other hand, of incessant port wine and bark."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I activated the acoustic feedback whistle by cupping the device in my palm and rendering a 'shave-and-a- haircut' whistle and this brought several laughs as well as questions."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"He had even taken from his pocket a cupping apparatus, and was about to proceed to phlebotomy, when the object of his anxious solicitude suddenly revived; but it was to dash his cap from his head, and to throw dust on his grey hairs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scheming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form intrigues (for) in an underhand manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devise a system or form a scheme for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She keeps on scheming to find a way to set the rooms in order for her young master, as she still calls him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Clay’s affections had overpowered her interest, and she had sacrificed, for the young man’s sake, the possibility of scheming longer for Sir Walter."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good luck be thine; I’ll thither fare.” Hendrik Hamel, scheming and crafty, ever encouraged and urged me in my antic course that brought Kim’s favour, not alone to me, but through me to Hendrik Hamel and all our company."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form intrigues (for) in an underhand manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devise a system or form a scheme for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She keeps on scheming to find a way to set the rooms in order for her young master, as she still calls him."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Clay’s affections had overpowered her interest, and she had sacrificed, for the young man’s sake, the possibility of scheming longer for Sir Walter."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good luck be thine; I’ll thither fare.” Hendrik Hamel, scheming and crafty, ever encouraged and urged me in my antic course that brought Kim’s favour, not alone to me, but through me to Hendrik Hamel and all our company."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reproduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a copy or equivalent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have offspring or produce more individuals of a given animal or plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley became intimate with the Westbrooks, and set about saving the soul of Harriet, who had a pretty rosy face, a neat figure, and a glib school-girl mind quick to catch up and reproduce his doctrines."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It may, however, be thought worth while to reproduce here the concluding paragraph of a short article on "Spring Flowers in the South of Europe," as a sample of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a copy or equivalent of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have offspring or produce more individuals of a given animal or plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley became intimate with the Westbrooks, and set about saving the soul of Harriet, who had a pretty rosy face, a neat figure, and a glib school-girl mind quick to catch up and reproduce his doctrines."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It may, however, be thought worth while to reproduce here the concluding paragraph of a short article on "Spring Flowers in the South of Europe," as a sample of Mr."*

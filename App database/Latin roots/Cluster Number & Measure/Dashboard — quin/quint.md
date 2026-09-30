@@ -5,15 +5,6 @@ status: unread
 ---
 # quint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of five children born at the same time from the same pregnancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Quint?” “Peter Quint—his own man, his valet, when he was here!” “When the master was?” Gaping still, but meeting me, she pieced it all together."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Then the master went, and Quint was alone.” I followed, but halting a little."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"To play with him, I mean—to spoil him.” She paused a moment; then she added: “Quint was much too free.” This gave me, straight from my vision of his face—_such_ a face!—a sudden sickness of disgust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of five children born at the same time from the same pregnancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Quint?” “Peter Quint—his own man, his valet, when he was here!” “When the master was?” Gaping still, but meeting me, she pieced it all together."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Then the master went, and Quint was alone.” I followed, but halting a little."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"To play with him, I mean—to spoil him.” She paused a moment; then she added: “Quint was much too free.” This gave me, straight from my vision of his face—_such_ a face!—a sudden sickness of disgust."*

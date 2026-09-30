@@ -5,13 +5,6 @@ status: unread
 ---
 # merocrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merocrine designates producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merocrine designates producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland."*

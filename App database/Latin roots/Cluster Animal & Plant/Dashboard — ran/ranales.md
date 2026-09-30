@@ -5,13 +5,6 @@ status: unread
 ---
 # ranales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranales designates herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranales designates herbs, shrubs and trees: includes families ranunculaceae; annonaceae; berberidaceae; magnoliaceae; menispermaceae; myristicaceae; nymphaeaceae; lardizabalaceae; lauraceae; calycanthaceae; ceratophyllaceae; cercidiphyllaceae."*

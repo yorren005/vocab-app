@@ -5,15 +5,6 @@ status: unread
 ---
 # stance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rationalized mental attitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The guard at the other end stood astride the passageway in a casual stance."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Arms folded across his chest, Zolan stood along a bulkhead where his eyes could take in the full compartment without altering stance."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A Cornish wrestler would turn him inside out within a minute; a Japanese would pitch him like a ball before he had even taken his stance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rationalized mental attitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The guard at the other end stood astride the passageway in a casual stance."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Arms folded across his chest, Zolan stood along a bulkhead where his eyes could take in the full compartment without altering stance."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A Cornish wrestler would turn him inside out within a minute; a Japanese would pitch him like a ball before he had even taken his stance."*

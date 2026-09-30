@@ -5,13 +5,6 @@ status: unread
 ---
 # nigra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) extremely offensive name for a black person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ethnic slur) extremely offensive name for a black person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Leaf of _Centaurea nigra_ with brand. 〃 68."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) extremely offensive name for a black person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ethnic slur) extremely offensive name for a black person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Leaf of _Centaurea nigra_ with brand. 〃 68."*

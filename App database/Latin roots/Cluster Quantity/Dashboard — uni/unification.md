@@ -5,14 +5,6 @@ status: unread
 ---
 # unification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence that involves the production of a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being joined or united or linked.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There should be a unification of various kinds of insurance in one general plan and under one general administration for the whole state."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So even patents will not have much effect, in all probability, upon this unification process."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence that involves the production of a union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being joined or united or linked.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There should be a unification of various kinds of insurance in one general plan and under one general administration for the whole state."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So even patents will not have much effect, in all probability, upon this unification process."*

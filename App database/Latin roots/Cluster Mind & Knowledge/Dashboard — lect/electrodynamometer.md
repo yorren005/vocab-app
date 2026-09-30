@@ -5,13 +5,6 @@ status: unread
 ---
 # electrodynamometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrodynamometer designates measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrodynamometer designates measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power."*

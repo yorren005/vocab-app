@@ -5,15 +5,6 @@ status: unread
 ---
 # correspondent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates by means of letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist employed to provide news stories for newspapers or broadcast media.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, master: I will be correspondent to command, And do my spriting gently."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, to be almost as powerful a correspondent as Mrs."*
-> - 📜 **Jane Austen (*Persuasion*):** *"My brother,” whispered one of the girls; “mamma is thinking of poor Richard.” “Poor dear fellow!” continued Mrs Musgrove; “he was grown so steady, and such an excellent correspondent, while he was under your care!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates by means of letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist employed to provide news stories for newspapers or broadcast media.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, master: I will be correspondent to command, And do my spriting gently."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, to be almost as powerful a correspondent as Mrs."*
+> - 📜 **Jane Austen (*Persuasion*):** *"My brother,” whispered one of the girls; “mamma is thinking of poor Richard.” “Poor dear fellow!” continued Mrs Musgrove; “he was grown so steady, and such an excellent correspondent, while he was under your care!"*

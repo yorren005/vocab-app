@@ -5,13 +5,6 @@ status: unread
 ---
 # expiative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having power to atone for or offered by way of expiation or propitiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to atone for or offered by way of expiation or propitiation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expiative designates having power to atone for or offered by way of expiation or propitiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having power to atone for or offered by way of expiation or propitiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to atone for or offered by way of expiation or propitiation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expiative designates having power to atone for or offered by way of expiation or propitiation."*

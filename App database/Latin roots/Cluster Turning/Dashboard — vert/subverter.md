@@ -5,13 +5,6 @@ status: unread
 ---
 # subverter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical supporter of political or social revolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subverter designates a radical supporter of political or social revolution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical supporter of political or social revolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subverter designates a radical supporter of political or social revolution."*

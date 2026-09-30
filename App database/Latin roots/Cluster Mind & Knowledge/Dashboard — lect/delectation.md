@@ -5,15 +5,6 @@ status: unread
 ---
 # delectation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme pleasure or satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of receiving pleasure from something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The chief's wife welcomed us to the island, and stated that a dish of yams was being prepared for our delectation."*
-> - 📜 **James Joyce (*Ulysses*):** *"Morose delectation Aquinas tunbelly calls this, _frate porcospino_."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The decorations had to be removed, the dishes washed, the uneaten delicacies packed into a basket for the delectation of Charlotta the Fourth’s young brothers at home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme pleasure or satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of receiving pleasure from something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The chief's wife welcomed us to the island, and stated that a dish of yams was being prepared for our delectation."*
+> - 📜 **James Joyce (*Ulysses*):** *"Morose delectation Aquinas tunbelly calls this, _frate porcospino_."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The decorations had to be removed, the dishes washed, the uneaten delicacies packed into a basket for the delectation of Charlotta the Fourth’s young brothers at home."*

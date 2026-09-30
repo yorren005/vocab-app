@@ -5,13 +5,6 @@ status: unread
 ---
 # efficaciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an effective manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"It does more certainly, more clearly and efficaciously, behold all things, than by the vulgar inquiry of the intellect and by the discourse of reason."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effective manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an effective manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"It does more certainly, more clearly and efficaciously, behold all things, than by the vulgar inquiry of the intellect and by the discourse of reason."*

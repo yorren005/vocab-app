@@ -5,15 +5,6 @@ status: unread
 ---
 # psychic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person apparently sensitive to things beyond the natural range of perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or influenced by the human mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This history is written in our tissues and our bones, in our functions and our organs, in our brain cells and in our spirits, and in all sorts of physical and psychic atavistic urgencies and compulsions."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually, only monetary incomes that arise in commercial transactions are taxable, and no attempt is made to estimate the value of psychic incomes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person apparently sensitive to things beyond the natural range of perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or influenced by the human mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This history is written in our tissues and our bones, in our functions and our organs, in our brain cells and in our spirits, and in all sorts of physical and psychic atavistic urgencies and compulsions."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually, only monetary incomes that arise in commercial transactions are taxable, and no attempt is made to estimate the value of psychic incomes."*

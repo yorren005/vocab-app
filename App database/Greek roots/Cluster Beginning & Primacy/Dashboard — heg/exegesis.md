@@ -5,14 +5,6 @@ status: unread
 ---
 # exegesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposition, explanation; especially : an explanation or critical interpretation of a text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposition, explanation; especially : an explanation or critical interpretation of a text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Lindsay had been Professor of Exegesis, but the United Presbyterian Synod in May 1867 provided for this subject being dealt with otherwise, and instituted a new chair of Apologetics with a special view to Dr."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement would neither alter, nor excise, but he found all the freedom he wanted in the accepted methods of exegesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposition, explanation; especially : an explanation or critical interpretation of a text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposition, explanation; especially : an explanation or critical interpretation of a text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Lindsay had been Professor of Exegesis, but the United Presbyterian Synod in May 1867 provided for this subject being dealt with otherwise, and instituted a new chair of Apologetics with a special view to Dr."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement would neither alter, nor excise, but he found all the freedom he wanted in the accepted methods of exegesis."*

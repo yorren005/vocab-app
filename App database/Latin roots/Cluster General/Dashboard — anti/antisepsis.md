@@ -5,13 +5,6 @@ status: unread
 ---
 # antisepsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of non-living objects) the state of being free of pathogenic organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of inhibiting the growth and multiplication of microorganisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisepsis designates (of non-living objects) the state of being free of pathogenic organisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of non-living objects) the state of being free of pathogenic organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of inhibiting the growth and multiplication of microorganisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisepsis designates (of non-living objects) the state of being free of pathogenic organisms."*

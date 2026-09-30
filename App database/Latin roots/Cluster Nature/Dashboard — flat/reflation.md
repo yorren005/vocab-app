@@ -5,13 +5,6 @@ status: unread
 ---
 # reflation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflation of currency after a period of deflation; restore the system to a previous state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflation of currency after a period of deflation; restore the system to a previous state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflation designates inflation of currency after a period of deflation; restore the system to a previous state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflation of currency after a period of deflation; restore the system to a previous state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflation of currency after a period of deflation; restore the system to a previous state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflation designates inflation of currency after a period of deflation; restore the system to a previous state."*

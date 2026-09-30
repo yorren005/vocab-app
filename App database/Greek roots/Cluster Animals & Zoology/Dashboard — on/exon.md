@@ -5,13 +5,6 @@ status: unread
 ---
 # exon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sequence of a gene's dna that transcribes into protein structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sequence of a gene's dna that transcribes into protein structures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exon designates sequence of a gene's dna that transcribes into protein structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sequence of a gene's dna that transcribes into protein structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sequence of a gene's dna that transcribes into protein structures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exon designates sequence of a gene's dna that transcribes into protein structures."*

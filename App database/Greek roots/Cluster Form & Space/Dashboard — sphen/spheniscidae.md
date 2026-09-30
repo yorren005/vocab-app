@@ -5,13 +5,6 @@ status: unread
 ---
 # spheniscidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising all existing penguins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising all existing penguins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spheniscidae designates comprising all existing penguins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising all existing penguins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising all existing penguins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spheniscidae designates comprising all existing penguins."*

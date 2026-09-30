@@ -5,15 +5,6 @@ status: unread
 ---
 # capitulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrender under agreed conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrender under agreed conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy, Northumberland, The Archbishop’s Grace of York, Douglas, Mortimer, Capitulate against us and are up."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was this difference between the present and previous occasions when he had fallen or thought of falling in love, that he desired no victory: no, it was he and not Isabel who was to capitulate, leaning his forehead upon her young hand. . . ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrender under agreed conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrender under agreed conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy, Northumberland, The Archbishop’s Grace of York, Douglas, Mortimer, Capitulate against us and are up."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was this difference between the present and previous occasions when he had fallen or thought of falling in love, that he desired no victory: no, it was he and not Isabel who was to capitulate, leaning his forehead upon her young hand. . . ."*

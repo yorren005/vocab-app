@@ -5,13 +5,6 @@ status: unread
 ---
 # castanopsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castanopsis designates evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, castanopsis designates evergreen trees and shrubs of warm regions valued for their foliage; southeastern united states and eastern australia and northern new zealand."*

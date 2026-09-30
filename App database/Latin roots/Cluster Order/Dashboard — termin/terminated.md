@@ -5,15 +5,6 @@ status: unread
 ---
 # terminated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end or halt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, in the frankest manner, “he was perfectly right,” the engagement terminated, and Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Touching that matter, you know, I really and truly am very sorry that my arrangements in life, combined with circumstances over which I have no control, should prevent a renewal of what was wholly terminated some time back,” said Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long before this time Weatherbury had been thoroughly aroused, and the wild deed which had terminated Boldwood’s merrymaking became known to all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end or halt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, in the frankest manner, “he was perfectly right,” the engagement terminated, and Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Touching that matter, you know, I really and truly am very sorry that my arrangements in life, combined with circumstances over which I have no control, should prevent a renewal of what was wholly terminated some time back,” said Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long before this time Weatherbury had been thoroughly aroused, and the wild deed which had terminated Boldwood’s merrymaking became known to all."*

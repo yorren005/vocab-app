@@ -5,15 +5,6 @@ status: unread
 ---
 # callus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of skin that is thick or hard from continual pressure or friction (as the sole of the foot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bony tissue formed during the healing of a fractured bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My knees were callused like my elbows."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I lay there, eyes closed, half awake, I rubbed my elbows with my palms and found that I was rubbing prodigious calluses."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I accepted the calluses as of long time and a matter of course."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of skin that is thick or hard from continual pressure or friction (as the sole of the foot).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bony tissue formed during the healing of a fractured bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My knees were callused like my elbows."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I lay there, eyes closed, half awake, I rubbed my elbows with my palms and found that I was rubbing prodigious calluses."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I accepted the calluses as of long time and a matter of course."*

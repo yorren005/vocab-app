@@ -5,15 +5,6 @@ status: unread
 ---
 # mistaking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Identify incorrectly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thy mistaking so, we pardon thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either this is envy in you, folly, or mistaking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Identify incorrectly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thy mistaking so, we pardon thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either this is envy in you, folly, or mistaking."*

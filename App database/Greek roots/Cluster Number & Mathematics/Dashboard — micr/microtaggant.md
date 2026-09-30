@@ -5,13 +5,6 @@ status: unread
 ---
 # microtaggant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtaggant designates (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtaggant designates (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # uninformed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not informed; lacking in knowledge or information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not informed; lacking in knowledge or information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"You cannot suppose me uninformed."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"THE SPLITTING OF THE CHURCH A few uninformed persons say that "holiness splits the church." But this is false."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"An uninformed Irishman, hearing the Sphinx alluded to in company, whispered to a friend, Sphinx! who is he now?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not informed; lacking in knowledge or information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not informed; lacking in knowledge or information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"You cannot suppose me uninformed."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"THE SPLITTING OF THE CHURCH A few uninformed persons say that "holiness splits the church." But this is false."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"An uninformed Irishman, hearing the Sphinx alluded to in company, whispered to a friend, Sphinx! who is he now?"*

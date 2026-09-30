@@ -5,13 +5,6 @@ status: unread
 ---
 # voluminousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatness of volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatness of volume.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voluminousness designates greatness of volume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatness of volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatness of volume.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voluminousness designates greatness of volume."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # expansile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of gases) capable of expansion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansile designates (of gases) capable of expansion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of gases) capable of expansion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expansile designates (of gases) capable of expansion."*

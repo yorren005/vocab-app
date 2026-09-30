@@ -5,13 +5,6 @@ status: unread
 ---
 # diachronic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the study of a phenomenon (especially language) as it changes through time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the study of a phenomenon (especially language) as it changes through time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diachronic designates used of the study of a phenomenon (especially language) as it changes through time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the study of a phenomenon (especially language) as it changes through time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the study of a phenomenon (especially language) as it changes through time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diachronic designates used of the study of a phenomenon (especially language) as it changes through time."*

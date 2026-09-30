@@ -5,15 +5,6 @@ status: unread
 ---
 # ult
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the month preceding the present one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or of the month preceding the present one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"A messenger sent out by the Japanese minister on the 30th ult. returned to-day from Tientsin, bringing word that a mixed force of 33,300 would start from there for the relief of Peking about the 20th inst."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The following letter received to-day by Colonel Shiba, dated Tientsin, the 26th ult.: “Your letter of the 22d received."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The telegram is undated, but was sent off probably between the 21st and 24th ult."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the month preceding the present one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or of the month preceding the present one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"A messenger sent out by the Japanese minister on the 30th ult. returned to-day from Tientsin, bringing word that a mixed force of 33,300 would start from there for the relief of Peking about the 20th inst."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The following letter received to-day by Colonel Shiba, dated Tientsin, the 26th ult.: “Your letter of the 22d received."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The telegram is undated, but was sent off probably between the 21st and 24th ult."*

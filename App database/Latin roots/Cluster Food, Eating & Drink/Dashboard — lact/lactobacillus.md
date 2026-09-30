@@ -5,13 +5,6 @@ status: unread
 ---
 # lactobacillus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gram-positive rod-shaped bacterium that produces lactic acid (especially in milk).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gram-positive rod-shaped bacterium that produces lactic acid (especially in milk).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactobacillus designates a gram-positive rod-shaped bacterium that produces lactic acid (especially in milk)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gram-positive rod-shaped bacterium that produces lactic acid (especially in milk).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gram-positive rod-shaped bacterium that produces lactic acid (especially in milk).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactobacillus designates a gram-positive rod-shaped bacterium that produces lactic acid (especially in milk)."*

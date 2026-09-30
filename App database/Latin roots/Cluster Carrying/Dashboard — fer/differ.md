@@ -5,15 +5,6 @@ status: unread
 ---
 # differ
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be of different opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therein do men from children nothing differ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t possible the world should so much differ, And we alive that lived?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and the niece are one; and the niece still cherishes her figure, which, however tastes may differ, is unquestionably so far precious that there is mighty little of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be different.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be of different opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therein do men from children nothing differ."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t possible the world should so much differ, And we alive that lived?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and the niece are one; and the niece still cherishes her figure, which, however tastes may differ, is unquestionably so far precious that there is mighty little of it."*

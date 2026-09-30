@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrachloromethane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachloromethane designates a colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachloromethane designates a colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined."*

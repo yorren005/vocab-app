@@ -5,13 +5,6 @@ status: unread
 ---
 # alimentative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the supply of aliment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the supply of aliment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alimentative designates related to the supply of aliment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the supply of aliment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the supply of aliment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alimentative designates related to the supply of aliment."*

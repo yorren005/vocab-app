@@ -5,15 +5,6 @@ status: unread
 ---
 # labouring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work hard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strive and make an effort to reach a goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s even as fair as “at hand, quoth the chamberlain,” for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My brain, more busy than the labouring spider Weaves tedious snares to trap mine enemies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work hard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strive and make an effort to reach a goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s even as fair as “at hand, quoth the chamberlain,” for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My brain, more busy than the labouring spider Weaves tedious snares to trap mine enemies."*

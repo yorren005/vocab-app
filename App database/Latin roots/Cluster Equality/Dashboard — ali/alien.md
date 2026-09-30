@@ -5,15 +5,6 @@ status: unread
 ---
 # alien
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who comes from a foreign country; someone who does not owe allegiance to your country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anyone who does not belong in the environment in which they are found.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy place in Council thou hast rudely lost, Which by thy younger brother is supplied, And art almost an alien to the hearts Of all the court and princes of my blood."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"LXXVIII So oft have I invoked thee for my Muse, And found such fair assistance in my verse As every alien pen hath got my use And under thee their poesy disperse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who comes from a foreign country; someone who does not owe allegiance to your country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anyone who does not belong in the environment in which they are found.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy place in Council thou hast rudely lost, Which by thy younger brother is supplied, And art almost an alien to the hearts Of all the court and princes of my blood."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"LXXVIII So oft have I invoked thee for my Muse, And found such fair assistance in my verse As every alien pen hath got my use And under thee their poesy disperse."*

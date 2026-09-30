@@ -5,15 +5,6 @@ status: unread
 ---
 # truncated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace a corner by a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approximate by ignoring all terms beyond a chosen one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"As I took hold of the handle of the door I heard an exclamation, oddly truncated at the end, and a click and a thud."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In front of the dam, on the side of the river, was reared a truncated cone of earth called the '_arooseh_ or "bride," on the top of which a little maize or millet was generally sown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace a corner by a plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approximate by ignoring all terms beyond a chosen one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"As I took hold of the handle of the door I heard an exclamation, oddly truncated at the end, and a click and a thud."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In front of the dam, on the side of the river, was reared a truncated cone of earth called the '_arooseh_ or "bride," on the top of which a little maize or millet was generally sown."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # microscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnifier of the image of small objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnifier of the image of small objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You are always at the Hospital, or seeing poor patients, or thinking about some doctor’s quarrel; and then at home you always want to pore over your microscope and phials."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"My heart shall never be put under their microscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnifier of the image of small objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnifier of the image of small objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You are always at the Hospital, or seeing poor patients, or thinking about some doctor’s quarrel; and then at home you always want to pore over your microscope and phials."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"My heart shall never be put under their microscope."*

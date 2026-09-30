@@ -5,13 +5,6 @@ status: unread
 ---
 # oceanographer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies physical and biological aspects of the seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who studies physical and biological aspects of the seas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanographer designates a scientist who studies physical and biological aspects of the seas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies physical and biological aspects of the seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who studies physical and biological aspects of the seas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanographer designates a scientist who studies physical and biological aspects of the seas."*

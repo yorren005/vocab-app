@@ -5,15 +5,6 @@ status: unread
 ---
 # prefigure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine or consider beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"His career it would be difficult to prefigure."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The new Evangel 558:9 This angel or message which comes from God, clothed with a cloud, prefigures divine Science."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine or consider beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"His career it would be difficult to prefigure."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The new Evangel 558:9 This angel or message which comes from God, clothed with a cloud, prefigures divine Science."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself."*

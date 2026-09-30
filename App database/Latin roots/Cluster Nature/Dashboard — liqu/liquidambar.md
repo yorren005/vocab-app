@@ -5,13 +5,6 @@ status: unread
 ---
 # liquidambar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic exudate from the sweet gum tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tree of the genus liquidambar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidambar designates aromatic exudate from the sweet gum tree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic exudate from the sweet gum tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tree of the genus liquidambar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidambar designates aromatic exudate from the sweet gum tree."*

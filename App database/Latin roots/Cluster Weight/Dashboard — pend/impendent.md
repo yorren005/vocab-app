@@ -5,15 +5,6 @@ status: unread
 ---
 # impendent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close in time; about to occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Well thou didst advise, Yet not for thy advise or threats I fly These wicked Tents devoted, least the wrauth Impendent, raging into sudden flame Distinguish not: for soon expect to feel His Thunder on thy head, devouring fire."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Well thou didst advise; Yet not for thy advice or threats I fly These wicked tents devoted, lest the wrath Impendent, raging into sudden flame, Distinguish not: For soon expect to feel His thunder on thy head, devouring fire."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The senate assembled, he declares the occasion of convening them; a bloody battle just impendent between two mighty armies of ancient and modern creatures, called books, wherein the celestial interest was but too deeply concerned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Close in time; about to occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Well thou didst advise, Yet not for thy advise or threats I fly These wicked Tents devoted, least the wrauth Impendent, raging into sudden flame Distinguish not: for soon expect to feel His Thunder on thy head, devouring fire."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Well thou didst advise; Yet not for thy advice or threats I fly These wicked tents devoted, lest the wrath Impendent, raging into sudden flame, Distinguish not: For soon expect to feel His thunder on thy head, devouring fire."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The senate assembled, he declares the occasion of convening them; a bloody battle just impendent between two mighty armies of ancient and modern creatures, called books, wherein the celestial interest was but too deeply concerned."*

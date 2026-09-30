@@ -5,13 +5,6 @@ status: unread
 ---
 # ordovician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ordovician designates from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ordovician designates from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds."*

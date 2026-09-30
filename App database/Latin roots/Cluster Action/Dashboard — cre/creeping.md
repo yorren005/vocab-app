@@ -5,15 +5,6 @@ status: unread
 ---
 # creeping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow mode of locomotion on hands and knees or dragging the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move slowly; in the case of people or animals with the body near the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At first the infant, Mewling and puking in the nurse’s arms; Then the whining schoolboy, with his satchel And shining morning face, creeping like snail Unwillingly to school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He has wings; he’s more than a creeping thing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow mode of locomotion on hands and knees or dragging the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move slowly; in the case of people or animals with the body near the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At first the infant, Mewling and puking in the nurse’s arms; Then the whining schoolboy, with his satchel And shining morning face, creeping like snail Unwillingly to school."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He has wings; he’s more than a creeping thing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*

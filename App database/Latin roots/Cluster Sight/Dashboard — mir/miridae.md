@@ -5,13 +5,6 @@ status: unread
 ---
 # miridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf bugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf bugs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miridae designates leaf bugs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf bugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf bugs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miridae designates leaf bugs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # loginess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dull and listless state resulting from weariness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dull and listless state resulting from weariness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loginess designates a dull and listless state resulting from weariness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dull and listless state resulting from weariness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dull and listless state resulting from weariness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loginess designates a dull and listless state resulting from weariness."*

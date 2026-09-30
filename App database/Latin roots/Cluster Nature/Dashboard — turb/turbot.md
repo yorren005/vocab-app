@@ -5,13 +5,6 @@ status: unread
 ---
 # turbot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flesh of a large european flatfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large brownish european flatfish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbot designates flesh of a large european flatfish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flesh of a large european flatfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large brownish european flatfish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbot designates flesh of a large european flatfish."*

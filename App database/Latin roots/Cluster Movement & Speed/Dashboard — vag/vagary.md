@@ -5,15 +5,6 @@ status: unread
 ---
 # vagary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexpected and inexplicable change in something (in a situation or a person's behavior, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unexpected and inexplicable change in something (in a situation or a person's behavior, etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A strange vagary, this of hers, isn’t it, Oak?” said Coggan, curiously."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But the strangest part of the affair is the effect of this vagary, even on a sober-minded man like myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexpected and inexplicable change in something (in a situation or a person's behavior, etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unexpected and inexplicable change in something (in a situation or a person's behavior, etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A strange vagary, this of hers, isn’t it, Oak?” said Coggan, curiously."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But the strangest part of the affair is the effect of this vagary, even on a sober-minded man like myself."*

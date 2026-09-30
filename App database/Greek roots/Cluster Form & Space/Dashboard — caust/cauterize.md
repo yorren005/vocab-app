@@ -5,13 +5,6 @@ status: unread
 ---
 # cauterize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To sear with a cautery or caustic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make insensible : deaden.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterize designates to sear with a cautery or caustic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sear with a cautery or caustic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make insensible : deaden.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterize designates to sear with a cautery or caustic."*

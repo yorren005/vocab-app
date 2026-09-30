@@ -5,13 +5,6 @@ status: unread
 ---
 # pectin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectin designates any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectin designates any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins."*

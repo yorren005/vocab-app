@@ -5,15 +5,6 @@ status: unread
 ---
 # detested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike intensely; feel antipathy or aversion towards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treated with contempt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"War is no strife To the dark house and the detested wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unnatural, detested, brutish villain! worse than brutish!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LEAR. [_to Goneril._] Detested kite, thou liest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike intensely; feel antipathy or aversion towards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treated with contempt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"War is no strife To the dark house and the detested wife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unnatural, detested, brutish villain! worse than brutish!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LEAR. [_to Goneril._] Detested kite, thou liest."*

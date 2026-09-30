@@ -5,15 +5,6 @@ status: unread
 ---
 # misread
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Read or interpret wrongly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret wrongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He could utter no word, but in his moist and frosty blue eyes was a wealth of acknowledgment I could not misread."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Indeed, if the lives set forth in this work, were regarded as exceptional in their temper and spirit, as they certainly were in their incidents and largeness of sphere, the whole lesson of the Record would be misread."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He knew at once that the old servant read the signs of disturbance in his face and manner, and how far he misread them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Read or interpret wrongly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret wrongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He could utter no word, but in his moist and frosty blue eyes was a wealth of acknowledgment I could not misread."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Indeed, if the lives set forth in this work, were regarded as exceptional in their temper and spirit, as they certainly were in their incidents and largeness of sphere, the whole lesson of the Record would be misread."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He knew at once that the old servant read the signs of disturbance in his face and manner, and how far he misread them."*

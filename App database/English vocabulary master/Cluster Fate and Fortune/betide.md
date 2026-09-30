@@ -5,20 +5,6 @@ status: unread
 ---
 # betide
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Happen especially as if by fate
-> 2. **Nuance / Usage**: Happen to : befall —used chiefly in the phrase woe betide
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to betide the target*) and intransitive clauses (*betiding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If he were dead, what would betide on me?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now help, or woe betide thee evermore!"*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"midst of its web; and when these clouds broke, woe betide the valleys!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Happen especially as if by fate
+> 2. **Nuance / Usage**: Happen to : befall —used chiefly in the phrase woe betide
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to betide the target*) and intransitive clauses (*betiding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If he were dead, what would betide on me?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now help, or woe betide thee evermore!"*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"midst of its web; and when these clouds broke, woe betide the valleys!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # canthus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the corners of the eye where the upper and lower eyelids meet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the corners of the eye where the upper and lower eyelids meet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canthus designates either of the corners of the eye where the upper and lower eyelids meet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the corners of the eye where the upper and lower eyelids meet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the corners of the eye where the upper and lower eyelids meet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canthus designates either of the corners of the eye where the upper and lower eyelids meet."*

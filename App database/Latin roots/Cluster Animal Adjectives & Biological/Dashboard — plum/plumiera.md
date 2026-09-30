@@ -5,13 +5,6 @@ status: unread
 ---
 # plumiera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumiera designates deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumiera designates deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers."*

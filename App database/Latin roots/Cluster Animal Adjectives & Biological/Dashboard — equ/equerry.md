@@ -5,13 +5,6 @@ status: unread
 ---
 # equerry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official charged with the care of the horses of princes or nobles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal attendant of the british royal family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There are festivals and entertainments going continually on, and the Duke has his chamberlains and equerries, and the Duchess her mistress of the wardrobe and ladies of honour, just like any other and more potent potentates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official charged with the care of the horses of princes or nobles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal attendant of the british royal family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There are festivals and entertainments going continually on, and the Duke has his chamberlains and equerries, and the Duchess her mistress of the wardrobe and ladies of honour, just like any other and more potent potentates."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # norma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near lupus and ara in the milky way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near lupus and ara in the milky way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, norma designates a small constellation in the southern hemisphere near lupus and ara in the milky way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near lupus and ara in the milky way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near lupus and ara in the milky way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, norma designates a small constellation in the southern hemisphere near lupus and ara in the milky way."*

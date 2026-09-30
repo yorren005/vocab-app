@@ -5,13 +5,6 @@ status: unread
 ---
 # thrombus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clot of blood formed within a blood vessel and remaining attached to its place of origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clot of blood formed within a blood vessel and remaining attached to its place of origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombus designates a clot of blood formed within a blood vessel and remaining attached to its place of origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clot of blood formed within a blood vessel and remaining attached to its place of origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clot of blood formed within a blood vessel and remaining attached to its place of origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombus designates a clot of blood formed within a blood vessel and remaining attached to its place of origin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # similitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similarity in appearance or character or nature between persons or things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicate copy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thus, the sperm whale and the humpbacked whale, each has a hump; but there the similitude ceases."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, this same humpbacked whale and the Greenland whale, each of these has baleen; but there again the similitude ceases."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But after allowing due weight to this consideration, it may still be maintained, that there are many points of similitude which render these examples not unworthy of our attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Similarity in appearance or character or nature between persons or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicate copy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thus, the sperm whale and the humpbacked whale, each has a hump; but there the similitude ceases."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, this same humpbacked whale and the Greenland whale, each of these has baleen; but there again the similitude ceases."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But after allowing due weight to this consideration, it may still be maintained, that there are many points of similitude which render these examples not unworthy of our attention."*

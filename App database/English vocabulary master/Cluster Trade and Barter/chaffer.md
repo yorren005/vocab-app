@@ -5,20 +5,6 @@ status: unread
 ---
 # chaffer
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Haggle
-> 2. **Nuance / Usage**: (transitive) to buy
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chaffer withstood the storm*), direct object (*cleaved the chaffer*), or prepositional anchor (*amidst the chaffer*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Mr. Dod's Six Shots*):** *"While he is at the front end selling calico to some wearisome old lady, sunbonneted and chaffering, a mischievous boy is very apt to be pocketing lumps of sugar for profit, or starting the faucet of a molasses barrel for fun at the other."*
-> - 📜 **Anthony Burgess (*Kingdom of the Wicked*):** *"But the people looked much like Caleb’s own. They wore dirty robes, chaffered at fruit stalls, spat, scratched."*
-> - 📜 **John Galsworthy (*The Forsyte Saga*):** *"The Dartie within him made him chaffer for five minutes with young Padwick concerning the favourite for the Cambridgeshire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Haggle
+> 2. **Nuance / Usage**: (transitive) to buy
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chaffer withstood the storm*), direct object (*cleaved the chaffer*), or prepositional anchor (*amidst the chaffer*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Mr. Dod's Six Shots*):** *"While he is at the front end selling calico to some wearisome old lady, sunbonneted and chaffering, a mischievous boy is very apt to be pocketing lumps of sugar for profit, or starting the faucet of a molasses barrel for fun at the other."*
+> - 📜 **Anthony Burgess (*Kingdom of the Wicked*):** *"But the people looked much like Caleb’s own. They wore dirty robes, chaffered at fruit stalls, spat, scratched."*
+> - 📜 **John Galsworthy (*The Forsyte Saga*):** *"The Dartie within him made him chaffer for five minutes with young Padwick concerning the favourite for the Cambridgeshire."*

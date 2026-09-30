@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthocephalan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocephalan designates any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocephalan designates any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines."*

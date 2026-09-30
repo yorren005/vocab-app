@@ -5,15 +5,6 @@ status: unread
 ---
 # fungus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism of the kingdom fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism of the kingdom fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I was going out at the opposite door,—not easy to open now, for the damp wood had started and swelled, and the hinges were yielding, and the threshold was encumbered with a growth of fungus,—when I turned my head to look back."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind over matter 160:30 Is man a material fungus without Mind to help him?"*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The heat, or else the chemical products of the explosion, seem to destroy the fungus germs in the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism of the kingdom fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism of the kingdom fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was going out at the opposite door,—not easy to open now, for the damp wood had started and swelled, and the hinges were yielding, and the threshold was encumbered with a growth of fungus,—when I turned my head to look back."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind over matter 160:30 Is man a material fungus without Mind to help him?"*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The heat, or else the chemical products of the explosion, seem to destroy the fungus germs in the ground."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # distant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separated in space or coming from or going to a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Far apart in relevance or relationship or kinship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take you as ’twere some distant knowledge of him, As thus, ‘I know his father and his friends, And in part him’—do you mark this, Reynaldo?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, gentle friend, for love and courtesy Lie further off, in human modesty, Such separation as may well be said Becomes a virtuous bachelor and a maid, So far be distant; and good night, sweet friend: Thy love ne’er alter till thy sweet life end!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How far is his court distant from this shore?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separated in space or coming from or going to a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Far apart in relevance or relationship or kinship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take you as ’twere some distant knowledge of him, As thus, ‘I know his father and his friends, And in part him’—do you mark this, Reynaldo?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, gentle friend, for love and courtesy Lie further off, in human modesty, Such separation as may well be said Becomes a virtuous bachelor and a maid, So far be distant; and good night, sweet friend: Thy love ne’er alter till thy sweet life end!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How far is his court distant from this shore?"*

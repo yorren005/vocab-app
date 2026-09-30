@@ -5,13 +5,6 @@ status: unread
 ---
 # mendeleev
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendeleev designates russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendeleev designates russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907)."*

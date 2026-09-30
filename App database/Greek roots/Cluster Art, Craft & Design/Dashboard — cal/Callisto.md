@@ -5,15 +5,6 @@ status: unread
 ---
 # Callisto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nymph loved by Zeus, changed into a she-bear by Hera, and subsequently changed into the Great Bear constellation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nymph loved by Zeus, changed into a she-bear by Hera, and subsequently changed into the Great Bear constellation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A man of many talents, Narval had migrated to Planet Pluto from an independent colony orbiting Callisto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had accepted expulsion from the place of his birth as the alternative to the court's sentence of labor in Callisto's encapsulated subsurface mines."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Removed from the judicial arena, he was proven to have also cheated in the Callisto gambling halls, swindled citizens of sound repute, and twice convicted of murder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nymph loved by Zeus, changed into a she-bear by Hera, and subsequently changed into the Great Bear constellation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nymph loved by Zeus, changed into a she-bear by Hera, and subsequently changed into the Great Bear constellation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A man of many talents, Narval had migrated to Planet Pluto from an independent colony orbiting Callisto."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had accepted expulsion from the place of his birth as the alternative to the court's sentence of labor in Callisto's encapsulated subsurface mines."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Removed from the judicial arena, he was proven to have also cheated in the Callisto gambling halls, swindled citizens of sound repute, and twice convicted of murder."*

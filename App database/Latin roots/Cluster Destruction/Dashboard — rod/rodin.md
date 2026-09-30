@@ -5,13 +5,6 @@ status: unread
 ---
 # rodin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French sculptor noted for his renderings of the human form (1840-1917).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French sculptor noted for his renderings of the human form (1840-1917).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"A BUST BY RODIN, KNOWN AS CERES With rhythmic feet and garments flowing free Draw near, draw near, bring largesse in full hand; Move as to music of the saraband Stately, before this Woman-deity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French sculptor noted for his renderings of the human form (1840-1917).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French sculptor noted for his renderings of the human form (1840-1917).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"A BUST BY RODIN, KNOWN AS CERES With rhythmic feet and garments flowing free Draw near, draw near, bring largesse in full hand; Move as to music of the saraband Stately, before this Woman-deity."*

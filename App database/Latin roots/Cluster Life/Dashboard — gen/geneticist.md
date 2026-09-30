@@ -5,13 +5,6 @@ status: unread
 ---
 # geneticist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in genetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who specializes in genetics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geneticist designates a biologist who specializes in genetics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in genetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who specializes in genetics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geneticist designates a biologist who specializes in genetics."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bibl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Abbatiæ de <g>Llanthony</g>, in Bibl."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had not even a Bible of his own, for Bibles were then so dear that it was not possible for parents in humble life to provide those of their children who went out into the world with copies even of the cheapest sort."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Both husband and wife were excellently well read in their Bibles, and both were united in the fear of God."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Abbatiæ de <g>Llanthony</g>, in Bibl."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had not even a Bible of his own, for Bibles were then so dear that it was not possible for parents in humble life to provide those of their children who went out into the world with copies even of the cheapest sort."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Both husband and wife were excellently well read in their Bibles, and both were united in the fear of God."*

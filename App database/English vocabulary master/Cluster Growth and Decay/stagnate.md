@@ -5,20 +5,6 @@ status: unread
 ---
 # stagnate
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Become or remain stagnant
-> 2. **Nuance / Usage**: Cease motion, activity, or progress:
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stagnate the target*) and intransitive clauses (*stagnating against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"you not to allow the waters to stagnate round her."*
-> - 📜 **Classic Author (*1894 Annual Reports of the Department of the Interior*):** *"These poor people cannot go to mountains in the later summer and the early autumn to escape the miasm, and no legislative body has any moral right by undertaking improvements, to stagnate the river marshes."*
-> - 📜 **Jearld F. Moldenhauer (*Sweeping Statements*):** *"The myths and values of history have determined our consciousness, have destroyed our wholeness, Mind, experienced as separate from and superior to the body has all but closed our senses and ultimately stagnated the mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Become or remain stagnant
+> 2. **Nuance / Usage**: Cease motion, activity, or progress:
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stagnate the target*) and intransitive clauses (*stagnating against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"you not to allow the waters to stagnate round her."*
+> - 📜 **Classic Author (*1894 Annual Reports of the Department of the Interior*):** *"These poor people cannot go to mountains in the later summer and the early autumn to escape the miasm, and no legislative body has any moral right by undertaking improvements, to stagnate the river marshes."*
+> - 📜 **Jearld F. Moldenhauer (*Sweeping Statements*):** *"The myths and values of history have determined our consciousness, have destroyed our wholeness, Mind, experienced as separate from and superior to the body has all but closed our senses and ultimately stagnated the mind."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # abjuration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disavowal or taking back of a previous assertion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abjuration designates a disavowal or taking back of a previous assertion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disavowal or taking back of a previous assertion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abjuration designates a disavowal or taking back of a previous assertion."*

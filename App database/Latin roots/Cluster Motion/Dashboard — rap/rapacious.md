@@ -5,15 +5,6 @@ status: unread
 ---
 # rapacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living by preying on other animals especially by catching living prey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively greedy and grasping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among the ladies who were most distinguished for this rapacious benevolence (if I may use the expression) was a Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Slowly it floats more and more away, the water round it torn and splashed by the insatiate sharks, and the air above vexed with rapacious flights of screaming fowls, whose beaks are like so many insulting poniards in the whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What to the rapacious landlord is the widow’s last mite but a Fast-Fish?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living by preying on other animals especially by catching living prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively greedy and grasping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Among the ladies who were most distinguished for this rapacious benevolence (if I may use the expression) was a Mrs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Slowly it floats more and more away, the water round it torn and splashed by the insatiate sharks, and the air above vexed with rapacious flights of screaming fowls, whose beaks are like so many insulting poniards in the whale."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What to the rapacious landlord is the widow’s last mite but a Fast-Fish?"*

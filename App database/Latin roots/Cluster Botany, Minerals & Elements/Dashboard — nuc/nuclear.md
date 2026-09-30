@@ -5,15 +5,6 @@ status: unread
 ---
 # nuclear
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (weapons) deriving destructive energy from the release of atomic energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting the nucleus of an atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your orders: Destroy the cache immediately using your Type K1 nuclear explosive missile setting: Baker Two Seven."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Many have enough room to accommodate nuclear energy capsules, ship and equipment repair shops, and catapult launchers."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Behind the cage, halfway along a shaft running aft, hung a tiny nuclear power plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (weapons) deriving destructive energy from the release of atomic energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting the nucleus of an atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your orders: Destroy the cache immediately using your Type K1 nuclear explosive missile setting: Baker Two Seven."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Many have enough room to accommodate nuclear energy capsules, ship and equipment repair shops, and catapult launchers."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Behind the cage, halfway along a shaft running aft, hung a tiny nuclear power plant."*

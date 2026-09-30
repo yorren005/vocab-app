@@ -5,15 +5,6 @@ status: unread
 ---
 # saxifrage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus saxifraga.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus saxifraga.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOLDEN-SAXIFRAGE BRAND; sori of various sizes, few together and confluent, pale brown; spores long, somewhat waved, much attenuated at either extremity; peduncle elongated.—On the under surface of the leaves of _Chrysosplenium oppositifolium_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SAXIFRAGE UREDO; spots pallid; sori subrotund and oval, raised, scattered and aggregate on the under surface; epidermis ruptured, persistent; spores subglobose, yellow.—On various _Saxifrages_. =Uredo Filicum=, Desm."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Another occurs on the leaves of some of the wild garlics (_Allium_); one is not uncommon on some of the stitchworts; another on saxifrages; another on willow-herbs (_Epilobium_), and one on the leaves of the cowberry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus saxifraga.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus saxifraga.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOLDEN-SAXIFRAGE BRAND; sori of various sizes, few together and confluent, pale brown; spores long, somewhat waved, much attenuated at either extremity; peduncle elongated.—On the under surface of the leaves of _Chrysosplenium oppositifolium_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SAXIFRAGE UREDO; spots pallid; sori subrotund and oval, raised, scattered and aggregate on the under surface; epidermis ruptured, persistent; spores subglobose, yellow.—On various _Saxifrages_. =Uredo Filicum=, Desm."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Another occurs on the leaves of some of the wild garlics (_Allium_); one is not uncommon on some of the stitchworts; another on saxifrages; another on willow-herbs (_Epilobium_), and one on the leaves of the cowberry."*

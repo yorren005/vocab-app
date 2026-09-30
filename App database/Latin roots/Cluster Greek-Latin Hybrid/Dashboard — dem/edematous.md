@@ -5,13 +5,6 @@ status: unread
 ---
 # edematous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen with an excessive accumulation of fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swollen with an excessive accumulation of fluid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edematous designates swollen with an excessive accumulation of fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen with an excessive accumulation of fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swollen with an excessive accumulation of fluid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edematous designates swollen with an excessive accumulation of fluid."*

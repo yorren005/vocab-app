@@ -5,13 +5,6 @@ status: unread
 ---
 # apperceptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to relate new percepts to past experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to relate new percepts to past experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apperceptive designates able to relate new percepts to past experience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to relate new percepts to past experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to relate new percepts to past experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apperceptive designates able to relate new percepts to past experience."*

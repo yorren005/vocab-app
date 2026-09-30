@@ -5,15 +5,6 @@ status: unread
 ---
 # pedal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sustained bass note.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lever that is operated with the foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Univ. des Musiciens’ and Nisard’s ‘Vie de l’Abbe Vogler’. -- * “This was a very compact organ, in which four key-boards of five octaves each, and a pedal board of thirty-six keys, with swell complete, were packed into a cube of nine feet."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"After a few more turns of the lathe he removed his foot from the pedal, wiped his chisel, dropped it into a leather pouch attached to the lathe, and, approaching the table, summoned his daughter."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Stobey presses real hard on the engine pedal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sustained bass note.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lever that is operated with the foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Univ. des Musiciens’ and Nisard’s ‘Vie de l’Abbe Vogler’. -- * “This was a very compact organ, in which four key-boards of five octaves each, and a pedal board of thirty-six keys, with swell complete, were packed into a cube of nine feet."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"After a few more turns of the lathe he removed his foot from the pedal, wiped his chisel, dropped it into a leather pouch attached to the lathe, and, approaching the table, summoned his daughter."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Stobey presses real hard on the engine pedal."*

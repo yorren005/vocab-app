@@ -5,15 +5,6 @@ status: unread
 ---
 # inundation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rising of a body of water and its overflowing onto normally dry land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overwhelming number or amount.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This inundation of mistemper’d humour Rests by you only to be qualified."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, sir, her father counts it dangerous That she do give her sorrow so much sway; And in his wisdom, hastes our marriage, To stop the inundation of her tears, Which, too much minded by herself alone, May be put from her by society."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But with the inundation of the eyes What rocky heart to water will not wear?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rising of a body of water and its overflowing onto normally dry land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overwhelming number or amount.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This inundation of mistemper’d humour Rests by you only to be qualified."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, sir, her father counts it dangerous That she do give her sorrow so much sway; And in his wisdom, hastes our marriage, To stop the inundation of her tears, Which, too much minded by herself alone, May be put from her by society."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But with the inundation of the eyes What rocky heart to water will not wear?"*

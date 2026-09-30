@@ -5,15 +5,6 @@ status: unread
 ---
 # contumely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rude expression intended to offend or hurt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rude expression intended to offend or hurt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Her sex once ascertained, their idolatry was changed into contempt and there was no end to the contumely showered upon her by the savages, who were exasperated at the deception which they conceived had been practised upon them."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Why do we suffer ourselves to be so affected by the contumely she has endeavored to cast upon us?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Well? —It was the speech, mark you, the professor said, of a finished orator, full of courteous haughtiness and pouring in chastened diction I will not say the vials of his wrath but pouring the proud man’s contumely upon the new movement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rude expression intended to offend or hurt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rude expression intended to offend or hurt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Her sex once ascertained, their idolatry was changed into contempt and there was no end to the contumely showered upon her by the savages, who were exasperated at the deception which they conceived had been practised upon them."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Why do we suffer ourselves to be so affected by the contumely she has endeavored to cast upon us?"*
+> - 📜 **James Joyce (*Ulysses*):** *"Well? —It was the speech, mark you, the professor said, of a finished orator, full of courteous haughtiness and pouring in chastened diction I will not say the vials of his wrath but pouring the proud man’s contumely upon the new movement."*

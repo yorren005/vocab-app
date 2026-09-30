@@ -5,13 +5,6 @@ status: unread
 ---
 # linchpin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A central cohesive source of support and stability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pin inserted through an axletree to hold a wheel on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"A linchpin had fallen out, and permitted one of the wheels to slide off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A central cohesive source of support and stability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pin inserted through an axletree to hold a wheel on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"A linchpin had fallen out, and permitted one of the wheels to slide off."*

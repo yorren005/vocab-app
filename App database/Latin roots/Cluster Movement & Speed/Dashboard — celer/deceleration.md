@@ -5,14 +5,6 @@ status: unread
 ---
 # deceleration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in rate of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a rate of decrease in velocity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Plenty of time to kick-in vector and deceleration programs." Brad paused, shifted position, rubbed his jaws, sighed deeply, glanced sideways at Xindral and, his voice tighter, continued."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deceleration and vector adjustments took another three decades."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in rate of change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a rate of decrease in velocity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Plenty of time to kick-in vector and deceleration programs." Brad paused, shifted position, rubbed his jaws, sighed deeply, glanced sideways at Xindral and, his voice tighter, continued."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deceleration and vector adjustments took another three decades."*

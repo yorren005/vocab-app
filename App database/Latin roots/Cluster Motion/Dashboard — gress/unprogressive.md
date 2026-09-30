@@ -5,13 +5,6 @@ status: unread
 ---
 # unprogressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old-fashioned and out of date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned and out of date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprogressive designates old-fashioned and out of date."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Old-fashioned and out of date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned and out of date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprogressive designates old-fashioned and out of date."*

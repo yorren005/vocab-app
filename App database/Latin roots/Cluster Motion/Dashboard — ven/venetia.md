@@ -5,13 +5,6 @@ status: unread
 ---
 # venetia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of northeastern italy on the adriatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northeastern italy on the adriatic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of northeastern italy on the adriatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northeastern italy on the adriatic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"*

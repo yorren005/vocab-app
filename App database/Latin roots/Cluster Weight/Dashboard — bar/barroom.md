@@ -5,15 +5,6 @@ status: unread
 ---
 # barroom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or establishment where alcoholic drinks are served over a counter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or establishment where alcoholic drinks are served over a counter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His barroom immediately became the place where they held prayer-meetings." VICTORIES OVER BAD HABITS, TOBACCO, OPIUM, ETC."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"We entered the barroom, which was narrow and darkling, for in these close lanes but few rays of reflected light are enabled to struggle down to the inhabitants, whose broad day is at best but a tolerable twilight."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"He was in a barroom, he said, drinking and minding his own business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or establishment where alcoholic drinks are served over a counter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or establishment where alcoholic drinks are served over a counter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His barroom immediately became the place where they held prayer-meetings." VICTORIES OVER BAD HABITS, TOBACCO, OPIUM, ETC."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"We entered the barroom, which was narrow and darkling, for in these close lanes but few rays of reflected light are enabled to struggle down to the inhabitants, whose broad day is at best but a tolerable twilight."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"He was in a barroom, he said, drinking and minding his own business."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # verticalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position at right angles to the horizon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticalness designates position at right angles to the horizon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position at right angles to the horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticalness designates position at right angles to the horizon."*

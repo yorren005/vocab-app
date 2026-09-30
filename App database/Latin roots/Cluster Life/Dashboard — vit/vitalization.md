@@ -5,13 +5,6 @@ status: unread
 ---
 # vitalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being vitalized and filled with life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being vitalized and filled with life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet such is the vulpine slyness of Dame Nature, that, till now, Tess had been hoodwinked by her love for Clare into forgetting it might result in vitalizations that would inflict upon others what she had bewailed as misfortune to herself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being vitalized and filled with life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being vitalized and filled with life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet such is the vulpine slyness of Dame Nature, that, till now, Tess had been hoodwinked by her love for Clare into forgetting it might result in vitalizations that would inflict upon others what she had bewailed as misfortune to herself."*

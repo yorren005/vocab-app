@@ -5,15 +5,6 @@ status: unread
 ---
 # ineffective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing an intended effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in power or forcefulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The substitutes for it are largely ineffective: trade-union action, employers' associations, "want ads," cards in shop windows, weary walks from door to door, lines of waiting men outside of factories, private employment agencies."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Common law remedy for monopoly ineffective. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Various combinations of these plans are followed in practice, the most common plan being the fixing of maximum rates which, with improved methods, generally become ineffective."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing an intended effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in power or forcefulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The substitutes for it are largely ineffective: trade-union action, employers' associations, "want ads," cards in shop windows, weary walks from door to door, lines of waiting men outside of factories, private employment agencies."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Common law remedy for monopoly ineffective. § 9."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Various combinations of these plans are followed in practice, the most common plan being the fixing of maximum rates which, with improved methods, generally become ineffective."*

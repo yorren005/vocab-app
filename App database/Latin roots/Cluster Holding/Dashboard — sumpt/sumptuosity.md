@@ -5,13 +5,6 @@ status: unread
 ---
 # sumptuosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is excessively expensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something that is excessively expensive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He was rather a favourite with the regiment, treating the young officers with sumptuosity, and amusing them by his military airs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is excessively expensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something that is excessively expensive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He was rather a favourite with the regiment, treating the young officers with sumptuosity, and amusing them by his military airs."*

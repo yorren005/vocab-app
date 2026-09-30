@@ -5,15 +5,6 @@ status: unread
 ---
 # diligently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With diligence; in a diligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With diligence; in a diligent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, a very good profession.” “The course of study and preparation requires to be diligently pursued,” observed my guardian with a glance at Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Diligently.” “But that being the case, more or less, with all pursuits that are worth much,” said Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His first church was at V----, and, though he labored diligently, working with his own hands for his support, he became eighty dollars in debt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With diligence; in a diligent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With diligence; in a diligent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, a very good profession.” “The course of study and preparation requires to be diligently pursued,” observed my guardian with a glance at Richard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Diligently.” “But that being the case, more or less, with all pursuits that are worth much,” said Mr."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His first church was at V----, and, though he labored diligently, working with his own hands for his support, he became eighty dollars in debt."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # misology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of argument, reasoning, or enlightenment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred of argument, reasoning, or enlightenment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misology designates a hatred of argument, reasoning, or enlightenment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of argument, reasoning, or enlightenment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred of argument, reasoning, or enlightenment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misology designates a hatred of argument, reasoning, or enlightenment."*

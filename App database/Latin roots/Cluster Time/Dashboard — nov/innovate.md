@@ -5,14 +5,6 @@ status: unread
 ---
 # innovate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring something new to an environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring something new to an environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But Lydgate meant to innovate in his treatment also, and he was wise enough to see that the best security for his practising honestly according to his belief was to get rid of systematic temptations to the contrary."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"This is the whole truth of my Reform opinions, which, before I knew the complexion of these innovating times, I too unguardedly as I now see sported with: henceforth I seal up my lips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring something new to an environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring something new to an environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But Lydgate meant to innovate in his treatment also, and he was wise enough to see that the best security for his practising honestly according to his belief was to get rid of systematic temptations to the contrary."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"This is the whole truth of my Reform opinions, which, before I knew the complexion of these innovating times, I too unguardedly as I now see sported with: henceforth I seal up my lips."*

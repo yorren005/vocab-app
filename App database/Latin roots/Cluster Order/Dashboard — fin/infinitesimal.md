@@ -5,15 +5,6 @@ status: unread
 ---
 # infinitesimal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a variable that has zero as its limit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infinitely or immeasurably small.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Don't you know"--an infinitesimal hesitation marked the conscious forcing of a barrier: cynically frank as she was on most points, Mrs."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The American nation, of which the community of the Most Great Name forms as yet a negligible and infinitesimal part, stands, indeed, from whichever angle one observes its immediate fortunes, in grave peril."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood and Nan who managed to save and scrimp and be frugal in many infinitesimal ways, thus making their savings last marvelously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a variable that has zero as its limit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infinitely or immeasurably small.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Don't you know"--an infinitesimal hesitation marked the conscious forcing of a barrier: cynically frank as she was on most points, Mrs."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The American nation, of which the community of the Most Great Name forms as yet a negligible and infinitesimal part, stands, indeed, from whichever angle one observes its immediate fortunes, in grave peril."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood and Nan who managed to save and scrimp and be frugal in many infinitesimal ways, thus making their savings last marvelously."*

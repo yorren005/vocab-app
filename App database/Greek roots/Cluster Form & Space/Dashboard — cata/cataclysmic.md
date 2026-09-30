@@ -5,13 +5,6 @@ status: unread
 ---
 # cataclysmic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severely destructive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severely destructive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As not so calamitous as a cataclysmic annihilation of the planet in consequence of a collision with a dark sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severely destructive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severely destructive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"As not so calamitous as a cataclysmic annihilation of the planet in consequence of a collision with a dark sun."*

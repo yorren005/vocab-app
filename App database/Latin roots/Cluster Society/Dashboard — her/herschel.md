@@ -5,15 +5,6 @@ status: unread
 ---
 # herschel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English astronomer (son of william herschel) who extended the catalogue of stars to the southern hemisphere and did pioneering work in photography (1792-1871).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English astronomer (born in germany) who discovered infrared light and who catalogued the stars and discovered the planet uranus (1738-1822).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But that Herschel, for example, who “broke the barriers of the heavens”—did he not once play a provincial church-organ, and give music-lessons to stumbling pianists?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if his eyes were broad as the lens of Herschel’s great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But if his eyes were broad as the lens of Herschel’s great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English astronomer (son of william herschel) who extended the catalogue of stars to the southern hemisphere and did pioneering work in photography (1792-1871).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English astronomer (born in germany) who discovered infrared light and who catalogued the stars and discovered the planet uranus (1738-1822).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But that Herschel, for example, who “broke the barriers of the heavens”—did he not once play a provincial church-organ, and give music-lessons to stumbling pianists?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if his eyes were broad as the lens of Herschel’s great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing?"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But if his eyes were broad as the lens of Herschel’s great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing?"*

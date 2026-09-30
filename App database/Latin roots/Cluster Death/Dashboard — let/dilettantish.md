@@ -5,14 +5,6 @@ status: unread
 ---
 # dilettantish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing frivolous or superficial interest; amateurish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am not so brazen as you.” “Bah! that is because you are dilettantish and amateurish."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It made one idle and dilettantish and second-rate; it had no discipline for the character, didn’t cultivate in you, otherwise expressed, the successful social and other “cheek” that flourished in Paris and London."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing frivolous or superficial interest; amateurish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I am not so brazen as you.” “Bah! that is because you are dilettantish and amateurish."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It made one idle and dilettantish and second-rate; it had no discipline for the character, didn’t cultivate in you, otherwise expressed, the successful social and other “cheek” that flourished in Paris and London."*

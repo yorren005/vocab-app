@@ -5,13 +5,6 @@ status: unread
 ---
 # unimaginably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an unimaginable extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an unimaginable extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"FOURFOLD OBJECTIVE TO PRESENT REQUIREMENTS Not ours, however, to unriddle the workings of a distant future, or to dwell upon the promised glories of a God-impelled and unimaginably potent Revelation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an unimaginable extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an unimaginable extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"FOURFOLD OBJECTIVE TO PRESENT REQUIREMENTS Not ours, however, to unriddle the workings of a distant future, or to dwell upon the promised glories of a God-impelled and unimaginably potent Revelation."*

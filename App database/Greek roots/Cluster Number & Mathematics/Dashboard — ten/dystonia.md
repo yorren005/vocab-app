@@ -5,13 +5,6 @@ status: unread
 ---
 # dystonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various conditions (such as Parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various conditions (such as Parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystonia designates any of various conditions (such as parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various conditions (such as Parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various conditions (such as Parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystonia designates any of various conditions (such as parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone."*

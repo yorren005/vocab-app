@@ -5,13 +5,6 @@ status: unread
 ---
 # toxicognath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of poison fangs in the modified front pair of legs of the centipede.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of poison fangs in the modified front pair of legs of the centipede.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicognath designates either of a pair of poison fangs in the modified front pair of legs of the centipede."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of poison fangs in the modified front pair of legs of the centipede.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of poison fangs in the modified front pair of legs of the centipede.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicognath designates either of a pair of poison fangs in the modified front pair of legs of the centipede."*

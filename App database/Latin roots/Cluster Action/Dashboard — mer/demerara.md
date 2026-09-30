@@ -5,14 +5,6 @@ status: unread
 ---
 # demerara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light brown raw cane sugar from guyana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in northern guyana that flows northward into the atlantic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Want to make good pastry, butter, best flour, Demerara sugar, or they’d taste it with the hot tea."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was a judge's daughter at Demerara went almost mad about him; then there was that beautiful quadroon girl, Miss Pye, at St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light brown raw cane sugar from guyana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in northern guyana that flows northward into the atlantic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Want to make good pastry, butter, best flour, Demerara sugar, or they’d taste it with the hot tea."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was a judge's daughter at Demerara went almost mad about him; then there was that beautiful quadroon girl, Miss Pye, at St."*

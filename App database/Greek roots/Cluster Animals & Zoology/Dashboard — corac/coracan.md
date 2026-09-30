@@ -5,13 +5,6 @@ status: unread
 ---
 # coracan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: East indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coracan designates east indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: East indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coracan designates east indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # contentedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With equanimity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With equanimity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The strangest of all, however, was that Leonore sat in the corner of the carriage smiling contentedly, for Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, plying his knife and fork; “why, I suppose you never clapped your eyes on the country, Phil?” “I see the marshes once,” says Phil, contentedly eating his breakfast."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Once more, duty, duty, Esther,” said I; “and if you are not overjoyed to do it, more than cheerfully and contentedly, through anything and everything, you ought to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With equanimity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With equanimity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The strangest of all, however, was that Leonore sat in the corner of the carriage smiling contentedly, for Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, plying his knife and fork; “why, I suppose you never clapped your eyes on the country, Phil?” “I see the marshes once,” says Phil, contentedly eating his breakfast."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Once more, duty, duty, Esther,” said I; “and if you are not overjoyed to do it, more than cheerfully and contentedly, through anything and everything, you ought to be."*

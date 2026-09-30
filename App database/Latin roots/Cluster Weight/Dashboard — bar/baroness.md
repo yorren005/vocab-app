@@ -5,15 +5,6 @@ status: unread
 ---
 # baroness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noblewoman who holds the rank of baron or who is the wife or widow of a baron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noblewoman who holds the rank of baron or who is the wife or widow of a baron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Baroness Wallerstätten, the mistress of the castle at that time, had often consulted the rector as to many things."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Baroness hardly undertook anything in her household without consulting Apollonie and asking her assistance."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I was up at the castle a great deal, because the Baroness Maximiliana of Wallerstätten was my godmother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noblewoman who holds the rank of baron or who is the wife or widow of a baron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noblewoman who holds the rank of baron or who is the wife or widow of a baron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Baroness Wallerstätten, the mistress of the castle at that time, had often consulted the rector as to many things."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Baroness hardly undertook anything in her household without consulting Apollonie and asking her assistance."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I was up at the castle a great deal, because the Baroness Maximiliana of Wallerstätten was my godmother."*

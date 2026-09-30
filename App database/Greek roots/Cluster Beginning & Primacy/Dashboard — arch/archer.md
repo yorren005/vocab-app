@@ -5,15 +5,6 @@ status: unread
 ---
 # archer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is expert in the use of a bow and arrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in sagittarius.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we can do this, Cupid is no longer an archer: his glory shall be ours, for we are the only love-gods."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou wilt live, fly after: and like an arrow shot From a well-experienced archer hits the mark His eye doth level at, so thou ne’er return Unless thou say ‘Prince Pericles is dead.’ THALIARD."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was Ushu, the archer, and Igar was my woman and mate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is expert in the use of a bow and arrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in sagittarius.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we can do this, Cupid is no longer an archer: his glory shall be ours, for we are the only love-gods."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou wilt live, fly after: and like an arrow shot From a well-experienced archer hits the mark His eye doth level at, so thou ne’er return Unless thou say ‘Prince Pericles is dead.’ THALIARD."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was Ushu, the archer, and Igar was my woman and mate."*

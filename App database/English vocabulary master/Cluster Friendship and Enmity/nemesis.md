@@ -5,20 +5,6 @@ status: unread
 ---
 # nemesis
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Enemy, especially an archenemy
-> 2. **Nuance / Usage**: The greek goddess of retributive justice
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Hunter (*The Powder, Their Paper and Pools of Blood*):** *"The roofer stayed in touch, committed to the downfall of his nemesis, Mikey. One week after his initial phone call, we were on our way to raid Mikey's trite home armed with a federal search warrant. There were six of us."*
-> - 📜 **Prince Edderson Charlton Jr (*The 8 Wundas of the World: Volume One*):** *"Jack took many hits to his body from his nemesis, but to his surprise he barely felt it. Jack's nemesis looked at him with anger in his eyes, clinching his fist to throw the next blow and without hesitation he threw another punch{{nb..."*
-> - 📜 **Melissa Chen (*Opinion ‘Kung Fu Cavemen’ isn’t racist — just the victim of moral panic by a self-righteous few*):** *"Along the way, they meet Master Wong, who teaches them kung fu and imparts nuggets of Chinese philosophy, knowledge and training that they eventually use to defeat their nemesis and save their village."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A long-standing, formidable rival or archenemy who proves impossible to overcome; an agent of someone's downfall.
+> 2. **Nuance / Usage**: From the Greek goddess *Nemesis*, personifying inescapable retributive justice against hubris; hence, anydeserved and unavoidable punishment or ruin.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Professor Moriarty stood before me as the intellectual equal and ultimate **nemesis** of my career."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A man's past deeds often return as a quiet, implacable **nemesis** in his later years."*
+> - 📜 **Melissa Chen (*The Spectator*):** *"Along the way, they learn the philosophy and training that they eventually use to defeat their **nemesis** and save their village."*

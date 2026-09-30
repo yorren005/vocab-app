@@ -5,15 +5,6 @@ status: unread
 ---
 # finisher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a relief pitcher who can protect a lead in the last inning or two of the game.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A racing driver who finishes a race.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that of greatest works is finisher Oft does them by the weakest minister."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The first object that presented itself to his disordered view was the figure of Ferret, who might very well have passed for the finisher of the law; against him, therefore, the first effort of his despair was directed."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I think, if they bring me out to be hanged to-morrow, as is much to be doubted they may, I will try its weight upon the finisher of the sentence.” “If such prove the case,” said the master, “my religious orders are soon taken—‘Pax vobiscum’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a relief pitcher who can protect a lead in the last inning or two of the game.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A racing driver who finishes a race.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that of greatest works is finisher Oft does them by the weakest minister."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The first object that presented itself to his disordered view was the figure of Ferret, who might very well have passed for the finisher of the law; against him, therefore, the first effort of his despair was directed."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I think, if they bring me out to be hanged to-morrow, as is much to be doubted they may, I will try its weight upon the finisher of the sentence.” “If such prove the case,” said the master, “my religious orders are soon taken—‘Pax vobiscum’."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperbolize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperbolize designates to enlarge beyond bounds or the truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperbolize designates to enlarge beyond bounds or the truth."*

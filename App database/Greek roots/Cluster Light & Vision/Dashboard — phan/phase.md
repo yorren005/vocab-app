@@ -5,15 +5,6 @@ status: unread
 ---
 # phase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular appearance or state in a regularly recurring cycle of changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishable part in a course, development, or cycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a second to remember another phase of the matter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her exuberance of spirit was pruned down; the original phantom of delight had shown herself to be not too bright for human nature’s daily food, and she had been able to enter this second poetical phase without losing much of the first in the process."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Phase the First: The Maiden I On an evening in the latter part of May a middle-aged man was walking homeward from Shaston to the village of Marlott, in the adjoining Vale of Blakemore, or Blackmoor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular appearance or state in a regularly recurring cycle of changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishable part in a course, development, or cycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a second to remember another phase of the matter."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her exuberance of spirit was pruned down; the original phantom of delight had shown herself to be not too bright for human nature’s daily food, and she had been able to enter this second poetical phase without losing much of the first in the process."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Phase the First: The Maiden I On an evening in the latter part of May a middle-aged man was walking homeward from Shaston to the village of Marlott, in the adjoining Vale of Blakemore, or Blackmoor."*

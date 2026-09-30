@@ -5,15 +5,6 @@ status: unread
 ---
 # severed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set or keep apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our force by land Hath nobly held; our severed navy too Have knit again, and fleet, threat’ning most sea-like."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, the King hath severed you and Prince Harry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three glorious suns, each one a perfect sun; Not separated with the racking clouds, But severed in a pale clear-shining sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set or keep apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our force by land Hath nobly held; our severed navy too Have knit again, and fleet, threat’ning most sea-like."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, the King hath severed you and Prince Harry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three glorious suns, each one a perfect sun; Not separated with the racking clouds, But severed in a pale clear-shining sky."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # oidium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Oidium of the family Erysiphaceae) of imperfect fungi many of which are now considered to be conidial stages of various powdery mildews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the small conidia borne in chains by various fungi (such as an oidium) —called also arthrospore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These moulds were long known under the generic name of _Oidium_, to which genus the vine disease was also referred."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This delicate little mould on the grass leaf at one time bore the name of _Oidium monilioides_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species (_Sphærotheca pannosa_, Lev.), in its oidioid or conidiiferous form, was for some time known under the name of _Oidium leucoconium_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Oidium of the family Erysiphaceae) of imperfect fungi many of which are now considered to be conidial stages of various powdery mildews.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the small conidia borne in chains by various fungi (such as an oidium) —called also arthrospore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These moulds were long known under the generic name of _Oidium_, to which genus the vine disease was also referred."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This delicate little mould on the grass leaf at one time bore the name of _Oidium monilioides_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species (_Sphærotheca pannosa_, Lev.), in its oidioid or conidiiferous form, was for some time known under the name of _Oidium leucoconium_."*

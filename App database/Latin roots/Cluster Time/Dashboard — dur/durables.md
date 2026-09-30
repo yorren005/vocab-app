@@ -5,13 +5,6 @@ status: unread
 ---
 # durables
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consumer goods that are not destroyed by use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consumer goods that are not destroyed by use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durables designates consumer goods that are not destroyed by use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consumer goods that are not destroyed by use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consumer goods that are not destroyed by use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durables designates consumer goods that are not destroyed by use."*

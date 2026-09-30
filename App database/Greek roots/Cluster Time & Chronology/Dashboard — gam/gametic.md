@@ -5,13 +5,6 @@ status: unread
 ---
 # gametic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametic designates a mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametic designates a mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex."*

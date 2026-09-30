@@ -5,15 +5,6 @@ status: unread
 ---
 # detention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being confined (usually for a short time).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punishment in which a student must stay at school after others have gone home.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, How goes the world, that I am thus encountered With clamorous demands of debt, broken bonds, And the detention of long-since-due debts Against my honour?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never was there so model an institution of detention."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Travilla, for saving me from a long detention in one of those miserable little country taverns, where I should have died of _ennui_." "You seem kindly disposed, my dear madam, to make a great deal of a small service," returned Edward gallantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being confined (usually for a short time).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punishment in which a student must stay at school after others have gone home.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, How goes the world, that I am thus encountered With clamorous demands of debt, broken bonds, And the detention of long-since-due debts Against my honour?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never was there so model an institution of detention."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Travilla, for saving me from a long detention in one of those miserable little country taverns, where I should have died of _ennui_." "You seem kindly disposed, my dear madam, to make a great deal of a small service," returned Edward gallantly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # satisfaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contentment one feels when one has fulfilled a desire, need, or expectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being gratified or satisfied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know since Pentecost the sum is due, And since I have not much importun’d you, Nor now I had not, but that I am bound To Persia, and want guilders for my voyage; Therefore make present satisfaction, Or I’ll attach you by this officer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen, sir, very oft importun’d me To temper poisons for her; still pretending The satisfaction of her knowledge only In killing creatures vile, as cats and dogs, Of no esteem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But a good conscience will make any possible satisfaction, and so would I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contentment one feels when one has fulfilled a desire, need, or expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being gratified or satisfied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know since Pentecost the sum is due, And since I have not much importun’d you, Nor now I had not, but that I am bound To Persia, and want guilders for my voyage; Therefore make present satisfaction, Or I’ll attach you by this officer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen, sir, very oft importun’d me To temper poisons for her; still pretending The satisfaction of her knowledge only In killing creatures vile, as cats and dogs, Of no esteem."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But a good conscience will make any possible satisfaction, and so would I."*

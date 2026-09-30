@@ -5,15 +5,6 @@ status: unread
 ---
 # gesture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motion of hands or body to emphasize or help to express a thought or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of movements (especially of the hands) to communicate familiar or prearranged signals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you do love Rosalind so near the heart as your gesture cries it out, when your brother marries Aliena shall you marry her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Crying, “O dear Cassio!” as it were: his gesture imports it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot too much muse Such shapes, such gesture, and such sound, expressing— Although they want the use of tongue—a kind Of excellent dumb discourse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Motion of hands or body to emphasize or help to express a thought or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of movements (especially of the hands) to communicate familiar or prearranged signals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you do love Rosalind so near the heart as your gesture cries it out, when your brother marries Aliena shall you marry her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Crying, “O dear Cassio!” as it were: his gesture imports it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot too much muse Such shapes, such gesture, and such sound, expressing— Although they want the use of tongue—a kind Of excellent dumb discourse."*

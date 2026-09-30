@@ -5,13 +5,6 @@ status: unread
 ---
 # nasalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak nasally or through the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce with a lowered velum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasalize designates speak nasally or through the nose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak nasally or through the nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce with a lowered velum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasalize designates speak nasally or through the nose."*

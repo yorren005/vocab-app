@@ -5,13 +5,6 @@ status: unread
 ---
 # hypoproteinemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoproteinemia designates abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoproteinemia designates abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders."*

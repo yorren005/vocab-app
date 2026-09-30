@@ -5,15 +5,6 @@ status: unread
 ---
 # objector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An objector in a large State exclaims loudly against the unreasonable equality of representation in the Senate."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An objector in a small State is equally loud against the dangerous inequality in the House of Representatives."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That person duly appeared among the aforesaid objectors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An objector in a large State exclaims loudly against the unreasonable equality of representation in the Senate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An objector in a small State is equally loud against the dangerous inequality in the House of Representatives."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That person duly appeared among the aforesaid objectors."*

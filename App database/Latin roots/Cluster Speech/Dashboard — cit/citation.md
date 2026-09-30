@@ -5,15 +5,6 @@ status: unread
 ---
 # citation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official award (as for bravery or service) usually given as formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of citing (as of spoken words or written passages or legal precedents etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is Richard a monster in all this, or would Chancery be found rich in such precedents too if they could be got for citation from the Recording Angel?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is a lie they have made.” Pilate nodded and asked: “Is there not somewhere in your ancient books a prophecy that the priests here twist into the intent of this fisherman’s mind?” To this she agreed, and gave him the citation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In his rejection of the 137:12 answer already given and his renewal of the question, it is plain that Jesus completely eschewed the narrow opinion implied in their citation of the common report 137:15 about him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official award (as for bravery or service) usually given as formal public statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of citing (as of spoken words or written passages or legal precedents etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is Richard a monster in all this, or would Chancery be found rich in such precedents too if they could be got for citation from the Recording Angel?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is a lie they have made.” Pilate nodded and asked: “Is there not somewhere in your ancient books a prophecy that the priests here twist into the intent of this fisherman’s mind?” To this she agreed, and gave him the citation."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In his rejection of the 137:12 answer already given and his renewal of the question, it is plain that Jesus completely eschewed the narrow opinion implied in their citation of the common report 137:15 about him."*

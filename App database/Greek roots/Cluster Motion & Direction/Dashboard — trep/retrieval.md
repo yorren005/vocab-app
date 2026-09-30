@@ -5,13 +5,6 @@ status: unread
 ---
 # retrieval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the operation of accessing information from the computer's memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive operation of accessing information in memory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Am I to lose _all_, without a chance of retrieval?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the operation of accessing information from the computer's memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive operation of accessing information in memory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Am I to lose _all_, without a chance of retrieval?"*

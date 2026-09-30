@@ -5,15 +5,6 @@ status: unread
 ---
 # maria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark region of considerable extent on the surface of the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valuable timber tree of panama.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pavilion and tents at a distance Enter the Princess of France, with three attending Ladies: Rosaline, Maria, Katharine and three Lords: Boyet, and two others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell to me, sir, and welcome to you. [_Exit Berowne._] MARIA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King of Navarre’s park Enter the Princess, a Forester, Rosaline, Maria, Katharine, Boyet and other Lords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark region of considerable extent on the surface of the moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valuable timber tree of panama.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pavilion and tents at a distance Enter the Princess of France, with three attending Ladies: Rosaline, Maria, Katharine and three Lords: Boyet, and two others."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell to me, sir, and welcome to you. [_Exit Berowne._] MARIA."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King of Navarre’s park Enter the Princess, a Forester, Rosaline, Maria, Katharine, Boyet and other Lords."*

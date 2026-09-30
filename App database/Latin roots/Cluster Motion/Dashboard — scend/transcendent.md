@@ -5,15 +5,6 @@ status: unread
 ---
 # transcendent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding or surpassing usual limits especially in excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond and outside the ordinary range of human experience or understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, among his many boxes labelled with transcendent names, lives Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever can have induced that transcendent woman to marry that effigy and figure-head of a baronet is one of the most impenetrable mysteries that ever baffled human inquiry."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His faith was transcendent, his appeals irresistible, his prayers like talking with God face to face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding or surpassing usual limits especially in excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond and outside the ordinary range of human experience or understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here, among his many boxes labelled with transcendent names, lives Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever can have induced that transcendent woman to marry that effigy and figure-head of a baronet is one of the most impenetrable mysteries that ever baffled human inquiry."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His faith was transcendent, his appeals irresistible, his prayers like talking with God face to face."*

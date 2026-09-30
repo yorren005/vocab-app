@@ -5,13 +5,6 @@ status: unread
 ---
 # pathogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The origination and development of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The origination and development of a disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenesis designates the origination and development of a disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origination and development of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The origination and development of a disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenesis designates the origination and development of a disease."*

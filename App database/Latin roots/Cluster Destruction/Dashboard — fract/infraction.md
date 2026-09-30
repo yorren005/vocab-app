@@ -5,15 +5,6 @@ status: unread
 ---
 # infraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I could conclude was that some stool had lied an infraction of the rules on me in order to curry favour with the guards."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Men such as he are privileged, even in a prison, so that he dared an infraction of the rules by speaking to me in a cracked and quavering voice."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"No unbecoming word might fall from the lips of any of the company, and a censor, armed with a hand-bell, was appointed to mark and punish instantly any infraction of the rule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I could conclude was that some stool had lied an infraction of the rules on me in order to curry favour with the guards."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Men such as he are privileged, even in a prison, so that he dared an infraction of the rules by speaking to me in a cracked and quavering voice."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"No unbecoming word might fall from the lips of any of the company, and a censor, armed with a hand-bell, was appointed to mark and punish instantly any infraction of the rule."*

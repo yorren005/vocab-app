@@ -5,15 +5,6 @@ status: unread
 ---
 # confide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reveal in private; tell confidentially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer a trust upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was so delightful to know that she could confide in me and like me!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I had much to learn, myself, before I could teach others, and that I could not confide in my good intentions alone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You were to confide freely in me, and I will confide freely in you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reveal in private; tell confidentially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer a trust upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was so delightful to know that she could confide in me and like me!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That I had much to learn, myself, before I could teach others, and that I could not confide in my good intentions alone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You were to confide freely in me, and I will confide freely in you."*

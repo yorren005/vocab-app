@@ -5,15 +5,6 @@ status: unread
 ---
 # insatiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to satisfy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Light vanity, insatiate cormorant, Consuming means, soon preys upon itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O most insatiate and luxurious woman!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To this trio everybody in the court possessed of sixpence has an insatiate desire to exhibit hospitality in a liquid form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to satisfy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to satisfy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Light vanity, insatiate cormorant, Consuming means, soon preys upon itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O most insatiate and luxurious woman!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To this trio everybody in the court possessed of sixpence has an insatiate desire to exhibit hospitality in a liquid form."*

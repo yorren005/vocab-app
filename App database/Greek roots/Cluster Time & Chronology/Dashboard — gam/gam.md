@@ -5,15 +5,6 @@ status: unread
 ---
 # gam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a visit or friendly conversation at sea or ashore especially between whalers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Howsomever, these gam’sters do certainly keep back their milk to-day."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the short gam that ensued she gave us strong news of Moby Dick."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was a fine gam we had, and they were all trumps—every soul on board."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: leg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a visit or friendly conversation at sea or ashore especially between whalers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Howsomever, these gam’sters do certainly keep back their milk to-day."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the short gam that ensued she gave us strong news of Moby Dick."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was a fine gam we had, and they were all trumps—every soul on board."*

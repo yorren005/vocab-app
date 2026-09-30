@@ -5,14 +5,6 @@ status: unread
 ---
 # minesweeper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ship equipped to detect and then destroy or neutralize or remove marine mines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship equipped to detect and then destroy or neutralize or remove marine mines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Got me a tail-end charlie minesweeper."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VICTORIOUS" FOR REPAIRS 90 AMERICAN MINESWEEPERS IN THE FLOATING DOCK FOR REPAIRS 90 A DAMAGED BRITISH DESTROYER BEING REPAIRED IN THE DOCK 90 S.S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ship equipped to detect and then destroy or neutralize or remove marine mines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship equipped to detect and then destroy or neutralize or remove marine mines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Got me a tail-end charlie minesweeper."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VICTORIOUS" FOR REPAIRS 90 AMERICAN MINESWEEPERS IN THE FLOATING DOCK FOR REPAIRS 90 A DAMAGED BRITISH DESTROYER BEING REPAIRED IN THE DOCK 90 S.S."*

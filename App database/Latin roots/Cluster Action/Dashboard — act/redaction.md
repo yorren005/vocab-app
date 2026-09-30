@@ -5,13 +5,6 @@ status: unread
 ---
 # redaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting something (as a literary work or a legislative bill) into acceptable form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redaction designates putting something (as a literary work or a legislative bill) into acceptable form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting something (as a literary work or a legislative bill) into acceptable form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redaction designates putting something (as a literary work or a legislative bill) into acceptable form."*

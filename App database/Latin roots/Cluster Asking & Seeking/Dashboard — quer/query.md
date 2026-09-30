@@ -5,15 +5,6 @@ status: unread
 ---
 # query
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of questioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a question.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I inquire that query boldly?” “We can’t say that you have, Hero Poorgrass,” admitted Jan."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I cannot split hairs on that burning query,” he said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of questioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a question.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I inquire that query boldly?” “We can’t say that you have, Hero Poorgrass,” admitted Jan."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I cannot split hairs on that burning query,” he said."*

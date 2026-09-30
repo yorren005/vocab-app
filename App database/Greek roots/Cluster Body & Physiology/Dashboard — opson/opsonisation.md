@@ -5,13 +5,6 @@ status: unread
 ---
 # opsonisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsonisation designates process whereby opsonins make an invading microorganism more susceptible to phagocytosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsonisation designates process whereby opsonins make an invading microorganism more susceptible to phagocytosis."*

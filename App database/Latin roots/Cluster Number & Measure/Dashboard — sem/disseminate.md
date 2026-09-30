@@ -5,15 +5,6 @@ status: unread
 ---
 # disseminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become widely known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become widely known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An indiscreet man in such a position can sow more discord, breed more jealousy and disseminate more strife than any other officer in the entire organization."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bahá'í literature has been disseminated as far north as Upernavik, Greenland, above the Arctic Circle."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With present computer networking capabilities the resources indices in such guides can be readily maintained current and widely disseminated throughout a region and on and among military installations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become widely known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become widely known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An indiscreet man in such a position can sow more discord, breed more jealousy and disseminate more strife than any other officer in the entire organization."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bahá'í literature has been disseminated as far north as Upernavik, Greenland, above the Arctic Circle."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With present computer networking capabilities the resources indices in such guides can be readily maintained current and widely disseminated throughout a region and on and among military installations."*

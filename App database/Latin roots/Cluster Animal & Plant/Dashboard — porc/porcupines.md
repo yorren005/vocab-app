@@ -5,13 +5,6 @@ status: unread
 ---
 # porcupines
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat patties rolled in rice and simmered in a tomato sauce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We make out squirrels, chipmunks, porcupines, woodchucks, and even a rooster and a chicken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat patties rolled in rice and simmered in a tomato sauce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively large rodents with sharp erectile bristles mingled with the fur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We make out squirrels, chipmunks, porcupines, woodchucks, and even a rooster and a chicken."*

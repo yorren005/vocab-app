@@ -5,15 +5,6 @@ status: unread
 ---
 # parabola
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The end of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The base of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the most improved form these were made to that peculiar curve known as a parabola."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The end of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The base of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the most improved form these were made to that peculiar curve known as a parabola."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # notarize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authenticate as a notary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate as a notary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notarize designates authenticate as a notary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Authenticate as a notary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate as a notary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notarize designates authenticate as a notary."*

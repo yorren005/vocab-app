@@ -5,14 +5,6 @@ status: unread
 ---
 # overtime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work done in addition to regular working hours.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playing time beyond regulation, to break a tie.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The agreement may be that if the specified task is not done within the regular time, it must be completed in overtime without additional pay."*
-> - 📜 **James Joyce (*Ulysses*):** *"Working overtime but her luck’s turned today. _(Suspiciously.)_ You’re not his father, are you?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work done in addition to regular working hours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playing time beyond regulation, to break a tie.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The agreement may be that if the specified task is not done within the regular time, it must be completed in overtime without additional pay."*
+> - 📜 **James Joyce (*Ulysses*):** *"Working overtime but her luck’s turned today. _(Suspiciously.)_ You’re not his father, are you?"*

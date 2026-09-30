@@ -5,13 +5,6 @@ status: unread
 ---
 # predictor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes predictions of the future (usually on the basis of special knowledge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that supports a probabilistic estimate of future events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"But, whether he has not been the cause of this poor man's death, as well as the predictor, may be very reasonably disputed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes predictions of the future (usually on the basis of special knowledge).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that supports a probabilistic estimate of future events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"But, whether he has not been the cause of this poor man's death, as well as the predictor, may be very reasonably disputed."*

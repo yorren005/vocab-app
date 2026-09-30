@@ -5,20 +5,6 @@ status: unread
 ---
 # curse
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Profane or obscene oath or word
-> 2. **Nuance / Usage**: Something that is cursed or accursed
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That shall have cause to curse the Dauphin’s scorn."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I prithee, give me leave to curse awhile."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Has thou not spirit to curse thine enemies?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A solemn utterance or supernatural invocation calling down evil, doom, or misfortune upon a person, place, or lineage.
+> 2. **Nuance / Usage**: Any persistent cause of great affliction or ruin, or a profane oath uttered in sudden anger or frustration.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard III*):** *"I prithee, give me leave to **curse** awhile."*
+> - 📜 **Alfred, Lord Tennyson (*The Lady of Shalott*):** *"Out flew the web and floated wide; the mirror cracked from side to side; 'The **curse** is come upon me,' cried the Lady of Shalott."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"An orphan's **curse** would drag to hell a spirit from on high; but oh! more horrible than that is the **curse** in a dead man's eye!"*

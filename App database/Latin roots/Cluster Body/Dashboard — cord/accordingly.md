@@ -5,15 +5,6 @@ status: unread
 ---
 # accordingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sentence connectors) because of the reason given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do assure you, my lord, he is very great in knowledge, and accordingly valiant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set we our squadrons on yon side o’ th’ hill In eye of Caesar’s battle, from which place We may the number of the ships behold And so proceed accordingly. [_Exeunt._] SCENE X."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (sentence connectors) because of the reason given.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do assure you, my lord, he is very great in knowledge, and accordingly valiant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set we our squadrons on yon side o’ th’ hill In eye of Caesar’s battle, from which place We may the number of the ships behold And so proceed accordingly. [_Exeunt._] SCENE X."*

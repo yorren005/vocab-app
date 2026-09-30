@@ -5,15 +5,6 @@ status: unread
 ---
 # confiscation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizure by the government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seizure by the government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For his possessions, Although by confiscation they are ours, We do instate and widow you with all To buy you a better husband."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The popular will declared (and still declares) that "all kinds of property ought to bear their fair share of the burdens of taxation." Yet to apply this principle would obviously be double taxation and result in confiscation in many cases."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"We all know our calling—our name, for it is _confiscation_—others call it stealing; but that don’t matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizure by the government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seizure by the government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For his possessions, Although by confiscation they are ours, We do instate and widow you with all To buy you a better husband."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The popular will declared (and still declares) that "all kinds of property ought to bear their fair share of the burdens of taxation." Yet to apply this principle would obviously be double taxation and result in confiscation in many cases."*
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"We all know our calling—our name, for it is _confiscation_—others call it stealing; but that don’t matter."*

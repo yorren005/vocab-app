@@ -5,15 +5,6 @@ status: unread
 ---
 # undeceive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from deception or illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from deception or illusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt that I had only to be placid and merry once for all to undeceive my dear and set her loving heart at rest."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Pray undeceive him as soon as you can, and tell him I beg his pardon—that is—I do not know what I ought to say—but make him understand what I mean, in the properest way."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax surprised me by looking out of the window with a sad countenance, and saying gravely—“Miss Eyre, will you come to breakfast?” During the meal she was quiet and cool: but I could not undeceive her then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from deception or illusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from deception or illusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I felt that I had only to be placid and merry once for all to undeceive my dear and set her loving heart at rest."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Pray undeceive him as soon as you can, and tell him I beg his pardon—that is—I do not know what I ought to say—but make him understand what I mean, in the properest way."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax surprised me by looking out of the window with a sad countenance, and saying gravely—“Miss Eyre, will you come to breakfast?” During the meal she was quiet and cool: but I could not undeceive her then."*

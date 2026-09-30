@@ -5,13 +5,6 @@ status: unread
 ---
 # antiphon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psalm, anthem, or verse sung responsively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse usually from Scripture said or sung before and after a canticle, psalm, or psalm verse as part of the liturgy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphon designates a psalm, anthem, or verse sung responsively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psalm, anthem, or verse sung responsively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse usually from Scripture said or sung before and after a canticle, psalm, or psalm verse as part of the liturgy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphon designates a psalm, anthem, or verse sung responsively."*

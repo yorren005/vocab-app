@@ -5,15 +5,6 @@ status: unread
 ---
 # melancholia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme depression characterized by tearful sadness and irrational fears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme depression characterized by tearful sadness and irrational fears.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
-> - 📜 **James Joyce (*Ulysses*):** *"What reminiscences of a human subject suffering from progressive melancholia did these objects evoke in Bloom?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme depression characterized by tearful sadness and irrational fears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme depression characterized by tearful sadness and irrational fears.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
+> - 📜 **James Joyce (*Ulysses*):** *"What reminiscences of a human subject suffering from progressive melancholia did these objects evoke in Bloom?"*

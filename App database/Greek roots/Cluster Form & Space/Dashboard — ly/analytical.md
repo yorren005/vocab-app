@@ -5,15 +5,6 @@ status: unread
 ---
 # analytical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or skilled in using analysis (i.e., separating a whole--intellectual or substantial--into its elemental parts or basic principles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a proposition that is necessarily true independent of fact or experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Do you think that I would respond to such a trifle and yet be ignorant of his death?” “I have seen too much not to know that the impression of a woman may be more valuable than the conclusion of an analytical reasoner."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In fact the process goes on in a way much less analytical and conscious, much more empirical, than this analysis would indicate."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"To the country girl's observant, analytical mind it seemed almost impossible that a girl of Isabel's type could truly love a plain man like Martin Landis or could ever make him happy if she married him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or skilled in using analysis (i.e., separating a whole--intellectual or substantial--into its elemental parts or basic principles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a proposition that is necessarily true independent of fact or experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Do you think that I would respond to such a trifle and yet be ignorant of his death?” “I have seen too much not to know that the impression of a woman may be more valuable than the conclusion of an analytical reasoner."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In fact the process goes on in a way much less analytical and conscious, much more empirical, than this analysis would indicate."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"To the country girl's observant, analytical mind it seemed almost impossible that a girl of Isabel's type could truly love a plain man like Martin Landis or could ever make him happy if she married him."*

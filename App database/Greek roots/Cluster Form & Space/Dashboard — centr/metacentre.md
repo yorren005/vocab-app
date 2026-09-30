@@ -5,13 +5,6 @@ status: unread
 ---
 # metacentre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacentre designates (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacentre designates (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship."*

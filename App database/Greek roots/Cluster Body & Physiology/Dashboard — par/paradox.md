@@ -5,15 +5,6 @@ status: unread
 ---
 # paradox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing having seemingly contradictory qualities or phases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement or sentiment that is seemingly contradictory or opposed to common sense and yet is perhaps true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was sometime a paradox, but now the time gives it proof."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You undergo too strict a paradox, Striving to make an ugly deed look fair."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s consideration the paradox that the more you drink the thirstier you are and reclines his head upon the window-sill in a state of hopeless languor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing having seemingly contradictory qualities or phases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement or sentiment that is seemingly contradictory or opposed to common sense and yet is perhaps true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was sometime a paradox, but now the time gives it proof."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You undergo too strict a paradox, Striving to make an ugly deed look fair."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s consideration the paradox that the more you drink the thirstier you are and reclines his head upon the window-sill in a state of hopeless languor."*

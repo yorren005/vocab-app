@@ -5,13 +5,6 @@ status: unread
 ---
 # anseriformes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ducks; geese; swans; screamers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ducks; geese; swans; screamers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anseriformes designates ducks; geese; swans; screamers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ducks; geese; swans; screamers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ducks; geese; swans; screamers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anseriformes designates ducks; geese; swans; screamers."*

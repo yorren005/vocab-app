@@ -5,13 +5,6 @@ status: unread
 ---
 # impalement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of piercing with a sharpened stake as a form of punishment or torture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of piercing with a sharpened stake as a form of punishment or torture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impalement designates the act of piercing with a sharpened stake as a form of punishment or torture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of piercing with a sharpened stake as a form of punishment or torture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of piercing with a sharpened stake as a form of punishment or torture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impalement designates the act of piercing with a sharpened stake as a form of punishment or torture."*

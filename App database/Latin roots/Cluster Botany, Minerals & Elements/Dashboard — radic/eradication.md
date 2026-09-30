@@ -5,13 +5,6 @@ status: unread
 ---
 # eradication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete destruction of every trace of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete destruction of every trace of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Stoic._ 11, 1037 D. [129] "Unconditional eradication," says Zeller, _Eclectics_, p. 226."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete destruction of every trace of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete destruction of every trace of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Stoic._ 11, 1037 D. [129] "Unconditional eradication," says Zeller, _Eclectics_, p. 226."*

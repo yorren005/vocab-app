@@ -5,15 +5,6 @@ status: unread
 ---
 # rivet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornament consisting of a circular rounded protuberance (as on a vault or shield or belt).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy pin having a head at one end and the other end being hammered flat after being passed through holes in the pieces that are fastened together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him heedful note; For I mine eyes will rivet to his face; And after we will both our judgements join In censure of his seeming."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had an attribute which amounted to a disadvantage just now; and it was this that caused Alec d’Urberville’s eyes to rivet themselves upon her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornament consisting of a circular rounded protuberance (as on a vault or shield or belt).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy pin having a head at one end and the other end being hammered flat after being passed through holes in the pieces that are fastened together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him heedful note; For I mine eyes will rivet to his face; And after we will both our judgements join In censure of his seeming."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had an attribute which amounted to a disadvantage just now; and it was this that caused Alec d’Urberville’s eyes to rivet themselves upon her."*

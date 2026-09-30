@@ -5,13 +5,6 @@ status: unread
 ---
 # codariocalyx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for plants usually included in genus desmodium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for plants usually included in genus desmodium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codariocalyx designates used in some classifications for plants usually included in genus desmodium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for plants usually included in genus desmodium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for plants usually included in genus desmodium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codariocalyx designates used in some classifications for plants usually included in genus desmodium."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lithographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or produced by or involved in lithography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or produced by or involved in lithography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the same house there were also established, as I gathered from the plates on the door, a drawing-master, a coal-merchant (there was, certainly, no room for his coals), and a lithographic artist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or produced by or involved in lithography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or produced by or involved in lithography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the same house there were also established, as I gathered from the plates on the door, a drawing-master, a coal-merchant (there was, certainly, no room for his coals), and a lithographic artist."*

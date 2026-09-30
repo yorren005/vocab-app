@@ -5,15 +5,6 @@ status: unread
 ---
 # financier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in large scale financial transactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct financial operations, often in an unethical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It amused him still more to stand up and shake hands when the immense body and Hebraic nose of an international financier went by with two great ladies and a cabinet minister in tow."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A short railway journey and a shorter walk brought us to Fairbank, the modest residence of the great financier."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought I heard a ring.” It was, indeed, our friend the financier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in large scale financial transactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct financial operations, often in an unethical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It amused him still more to stand up and shake hands when the immense body and Hebraic nose of an international financier went by with two great ladies and a cabinet minister in tow."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A short railway journey and a shorter walk brought us to Fairbank, the modest residence of the great financier."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought I heard a ring.” It was, indeed, our friend the financier."*

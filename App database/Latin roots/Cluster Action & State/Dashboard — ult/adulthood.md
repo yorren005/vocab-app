@@ -5,13 +5,6 @@ status: unread
 ---
 # adulthood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time in your life after your physical growth has stopped and you are fully developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state (and responsibilities) of a person who has attained maturity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The grandchildren, in their turn, might take it along with them into adulthood and share it with their progeny. *** All the woodchucks in Woodchuckaton crawled deep into their burrows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time in your life after your physical growth has stopped and you are fully developed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state (and responsibilities) of a person who has attained maturity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The grandchildren, in their turn, might take it along with them into adulthood and share it with their progeny. *** All the woodchucks in Woodchuckaton crawled deep into their burrows."*

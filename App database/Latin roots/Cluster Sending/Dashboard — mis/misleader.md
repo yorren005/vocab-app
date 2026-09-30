@@ -5,15 +5,6 @@ status: unread
 ---
 # misleader
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leads astray (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leads astray (often deliberately).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That villainous abominable misleader of youth, Falstaff, that old white-bearded Satan."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Old Salisbury, shame to thy silver hair, Thou mad misleader of thy brainsick son!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then I banish thee, on pain of death, As I have done the rest of my misleaders, Not to come near our person by ten mile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leads astray (often deliberately).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leads astray (often deliberately).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That villainous abominable misleader of youth, Falstaff, that old white-bearded Satan."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Old Salisbury, shame to thy silver hair, Thou mad misleader of thy brainsick son!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then I banish thee, on pain of death, As I have done the rest of my misleaders, Not to come near our person by ten mile."*

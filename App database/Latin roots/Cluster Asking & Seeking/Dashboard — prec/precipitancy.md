@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of happening with headlong haste or without warning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening with headlong haste or without warning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Despite Angel Clare’s plausible representation to himself and to Tess of the practical need for their immediate marriage, there was in truth an element of precipitancy in the step, as became apparent at a later date."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I never see that nice girl without more and more regretting his precipitancy in throwing himself away upon a dairymaid, or whatever she may be."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Towards noon whales were raised; but so soon as the ship sailed down to them, they turned and fled with swift precipitancy; a disordered flight, as of Cleopatra’s barges from Actium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of happening with headlong haste or without warning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening with headlong haste or without warning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Despite Angel Clare’s plausible representation to himself and to Tess of the practical need for their immediate marriage, there was in truth an element of precipitancy in the step, as became apparent at a later date."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I never see that nice girl without more and more regretting his precipitancy in throwing himself away upon a dairymaid, or whatever she may be."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Towards noon whales were raised; but so soon as the ship sailed down to them, they turned and fled with swift precipitancy; a disordered flight, as of Cleopatra’s barges from Actium."*

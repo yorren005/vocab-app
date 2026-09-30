@@ -5,13 +5,6 @@ status: unread
 ---
 # herpes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles; especially : herpes simplex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two diseases caused by herpesviruses (Simplexvirus humanalpha1 and S. humanalpha2) and marked especially by watery blisters on the skin or mucous membranes of the lips, mouth, face, or genital region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpes designates any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles; especially : herpes simplex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles; especially : herpes simplex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two diseases caused by herpesviruses (Simplexvirus humanalpha1 and S. humanalpha2) and marked especially by watery blisters on the skin or mucous membranes of the lips, mouth, face, or genital region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpes designates any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles; especially : herpes simplex."*

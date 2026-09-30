@@ -5,13 +5,6 @@ status: unread
 ---
 # paster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman who pastes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adhesive label.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paster designates a workman who pastes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman who pastes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adhesive label.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paster designates a workman who pastes."*

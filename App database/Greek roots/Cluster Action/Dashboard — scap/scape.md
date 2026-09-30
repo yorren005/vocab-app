@@ -5,15 +5,6 @@ status: unread
 ---
 # scape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: escape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a peduncle arising at or beneath the surface of the ground in an acaulescent plant (such as the tulip); broadly : a flower stalk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some innocents ’scape not the thunderbolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot see else how thou shouldst ’scape."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Use every man after his desert, and who should ’scape whipping?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: escape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a peduncle arising at or beneath the surface of the ground in an acaulescent plant (such as the tulip); broadly : a flower stalk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some innocents ’scape not the thunderbolt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot see else how thou shouldst ’scape."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Use every man after his desert, and who should ’scape whipping?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # juvenescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of growing into a youth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of growing into a youth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, juvenescence designates the process of growing into a youth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of growing into a youth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of growing into a youth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, juvenescence designates the process of growing into a youth."*

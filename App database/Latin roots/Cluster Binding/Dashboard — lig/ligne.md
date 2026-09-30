@@ -5,13 +5,6 @@ status: unread
 ---
 # ligne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linear unit (1/40 inch) used to measure diameter of buttons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear unit (1/40 inch) used to measure diameter of buttons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"What did surprise him was that during these last two years his wife had succeeded in gaining the reputation “d’ une femme charmante, aussi spirituelle que belle.” *(2) The distinguished Prince de Ligne wrote her eight-page letters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linear unit (1/40 inch) used to measure diameter of buttons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear unit (1/40 inch) used to measure diameter of buttons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"What did surprise him was that during these last two years his wife had succeeded in gaining the reputation “d’ une femme charmante, aussi spirituelle que belle.” *(2) The distinguished Prince de Ligne wrote her eight-page letters."*

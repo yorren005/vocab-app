@@ -5,15 +5,6 @@ status: unread
 ---
 # false
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in accordance with the fact or reality or actuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from error.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should false painting imitate his cheek, And steal dead seeming of his living hue?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in accordance with the fact or reality or actuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from error.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should false painting imitate his cheek, And steal dead seeming of his living hue?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*

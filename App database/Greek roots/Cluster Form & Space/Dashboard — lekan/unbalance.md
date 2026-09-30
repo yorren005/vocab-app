@@ -5,15 +5,6 @@ status: unread
 ---
 # unbalance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of balance or state of disequilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of mental disturbance and disorientation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She would have to meet some government official, or some medical student home on his holidays, or some small merchant whom her beauty would unbalance, as drink would unbalance him."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Now, you all know that Uncle Stephen has had enough to unbalance anybody, and, I tell you, men, unbalanced minds are not safe guides in such times as these." The men gathered about the teacher now looked in the direction of Stephen."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only men, by force of will, could live on so unbalanced a ration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of balance or state of disequilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of mental disturbance and disorientation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She would have to meet some government official, or some medical student home on his holidays, or some small merchant whom her beauty would unbalance, as drink would unbalance him."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Now, you all know that Uncle Stephen has had enough to unbalance anybody, and, I tell you, men, unbalanced minds are not safe guides in such times as these." The men gathered about the teacher now looked in the direction of Stephen."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only men, by force of will, could live on so unbalanced a ration."*

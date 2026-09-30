@@ -5,15 +5,6 @@ status: unread
 ---
 # bell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow device made of metal that makes a ringing sound when struck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A push button at an outer door that gives a ringing or buzzing signal when pushed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fill our bowls once more Let’s mock the midnight bell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True is it that we have seen better days, And have with holy bell been knolled to church, And sat at good men’s feasts, and wiped our eyes Of drops that sacred pity hath engendered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The capon burns, the pig falls from the spit; The clock hath strucken twelve upon the bell; My mistress made it one upon my cheek."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow device made of metal that makes a ringing sound when struck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A push button at an outer door that gives a ringing or buzzing signal when pushed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fill our bowls once more Let’s mock the midnight bell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True is it that we have seen better days, And have with holy bell been knolled to church, And sat at good men’s feasts, and wiped our eyes Of drops that sacred pity hath engendered."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The capon burns, the pig falls from the spit; The clock hath strucken twelve upon the bell; My mistress made it one upon my cheek."*

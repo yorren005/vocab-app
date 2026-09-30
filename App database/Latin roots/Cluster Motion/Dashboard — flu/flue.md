@@ -5,15 +5,6 @@ status: unread
 ---
 # flue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat bladelike projection on the arm of an anchor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organ pipe whose tone is produced by air passing across the sharp edge of a fissure or lip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He blew through the flue two husky fifenotes. —By Jove, he mused, I often wanted to see the Mourne mountains."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Patrick, there was nothing left in the pit but the two tails, and a bit of flue. 795."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The lightning knocked over the kitchen chimbly and come down the flue and knocked over Ginger’s cage and tore a hole in the floor and went into the sullar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat bladelike projection on the arm of an anchor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organ pipe whose tone is produced by air passing across the sharp edge of a fissure or lip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He blew through the flue two husky fifenotes. —By Jove, he mused, I often wanted to see the Mourne mountains."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Patrick, there was nothing left in the pit but the two tails, and a bit of flue. 795."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The lightning knocked over the kitchen chimbly and come down the flue and knocked over Ginger’s cage and tore a hole in the floor and went into the sullar."*

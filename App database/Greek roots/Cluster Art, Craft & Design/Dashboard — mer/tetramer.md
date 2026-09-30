@@ -5,13 +5,6 @@ status: unread
 ---
 # tetramer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramer designates a molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramer designates a molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers)."*

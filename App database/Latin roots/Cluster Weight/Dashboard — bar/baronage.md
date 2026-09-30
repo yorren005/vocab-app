@@ -5,15 +5,6 @@ status: unread
 ---
 # baronage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The peers of a kingdom considered as a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peers of a kingdom considered as a group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"With baronage and joy they bring him in."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"To prosecute the descent farther, would far exceed our limits; but readers who may feel curious to trace the genealogy of the founders, will find ample details in the Baronage, the Monasticon, and old chronicles."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"AUTHORITIES quoted or referred to in the preceding article on Llanthony Abbey:--Dugdale’s Monasticon and Baronage, and their Commentaries--Tanner’s Notitia Monastica--Spelman’s Glossar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The peers of a kingdom considered as a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peers of a kingdom considered as a group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Song of Roland*):** *"With baronage and joy they bring him in."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"To prosecute the descent farther, would far exceed our limits; but readers who may feel curious to trace the genealogy of the founders, will find ample details in the Baronage, the Monasticon, and old chronicles."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"AUTHORITIES quoted or referred to in the preceding article on Llanthony Abbey:--Dugdale’s Monasticon and Baronage, and their Commentaries--Tanner’s Notitia Monastica--Spelman’s Glossar."*

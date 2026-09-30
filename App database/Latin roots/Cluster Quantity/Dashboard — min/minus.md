@@ -5,15 +5,6 @@ status: unread
 ---
 # minus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arithmetic operation in which the difference between two numbers is calculated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the negative side or lower end of a scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _gold shipping points_ for importing or exporting gold are respectively par of exchange plus or minus the cost of moving the actual metal."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He commenced dressing at top by donning his beaver hat, a very tall one, by the by, and then—still minus his trowsers—he hunted up his boots."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is also very curiously displayed in the side fin, the bones of which almost exactly answer to the bones of the human hand, minus only the thumb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arithmetic operation in which the difference between two numbers is calculated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the negative side or lower end of a scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _gold shipping points_ for importing or exporting gold are respectively par of exchange plus or minus the cost of moving the actual metal."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He commenced dressing at top by donning his beaver hat, a very tall one, by the by, and then—still minus his trowsers—he hunted up his boots."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is also very curiously displayed in the side fin, the bones of which almost exactly answer to the bones of the human hand, minus only the thumb."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # synchroscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchroscope designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchroscope designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*

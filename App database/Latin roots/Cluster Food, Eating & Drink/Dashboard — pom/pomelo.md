@@ -5,13 +5,6 @@ status: unread
 ---
 # pomelo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Southeastern asian tree producing large fruits resembling grapefruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large pear-shaped fruit similar to grapefruit but with coarse dry pulp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomelo designates southeastern asian tree producing large fruits resembling grapefruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Southeastern asian tree producing large fruits resembling grapefruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large pear-shaped fruit similar to grapefruit but with coarse dry pulp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomelo designates southeastern asian tree producing large fruits resembling grapefruits."*

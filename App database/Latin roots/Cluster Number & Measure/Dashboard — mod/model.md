@@ -5,15 +5,6 @@ status: unread
 ---
 # model
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical description of a complex entity or process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of product.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O England! model to thy inward greatness, Like little body with a mighty heart, What mightst thou do, that honour would thee do, Were all thy children kind and natural!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will it serve for any model to build mischief on?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical description of a complex entity or process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of product.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O England! model to thy inward greatness, Like little body with a mighty heart, What mightst thou do, that honour would thee do, Were all thy children kind and natural!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will it serve for any model to build mischief on?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # monocyclic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing one ring in the molecular structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing one ring in the molecular structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocyclic designates containing one ring in the molecular structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing one ring in the molecular structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing one ring in the molecular structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocyclic designates containing one ring in the molecular structure."*

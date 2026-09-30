@@ -5,15 +5,6 @@ status: unread
 ---
 # complicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guilt as an accomplice in a crime or offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guilt as an accomplice in a crime or offense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I won't have any one of the lot of you near me again except Val: I acquit him of complicity: he probably believes Laura innocent."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Adams, in the Times, took occasion most emphatically to deprecate the insinuation that the South had any knowledge of, or complicity in this crime."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Babcock, however, was his private Secretary, and upon him was charged complicity with the fraud."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guilt as an accomplice in a crime or offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guilt as an accomplice in a crime or offense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I won't have any one of the lot of you near me again except Val: I acquit him of complicity: he probably believes Laura innocent."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Adams, in the Times, took occasion most emphatically to deprecate the insinuation that the South had any knowledge of, or complicity in this crime."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Babcock, however, was his private Secretary, and upon him was charged complicity with the fraud."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # condemning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or judge unfit for use or habitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature wants stuff To vie strange forms with fancy; yet t’ imagine An Antony were nature’s piece ’gainst fancy, Condemning shadows quite."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As with a man busied about decrees, Condemning some to death and some to exile; Ransoming him or pitying, threat’ning the other; Holding Corioles in the name of Rome Even like a fawning greyhound in the leash, To let him slip at will."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Though condemning her for the past, and considering it with high and unjust resentment, though perfectly careless of her, and though becoming attached to another, still he could not see her suffer, without the desire of giving her relief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or judge unfit for use or habitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature wants stuff To vie strange forms with fancy; yet t’ imagine An Antony were nature’s piece ’gainst fancy, Condemning shadows quite."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As with a man busied about decrees, Condemning some to death and some to exile; Ransoming him or pitying, threat’ning the other; Holding Corioles in the name of Rome Even like a fawning greyhound in the leash, To let him slip at will."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Though condemning her for the past, and considering it with high and unjust resentment, though perfectly careless of her, and though becoming attached to another, still he could not see her suffer, without the desire of giving her relief."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # condescendingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, standing with his back to the fire and waving his gloves condescendingly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And Sir Leicester is glad to repose in dignified contentment before the great fire in the library, condescendingly perusing the backs of his books or honouring the fine arts with a glance of approbation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I speak of really a great lady, not merely great to him, but married to a gentleman of your condition, Sir Leicester.” Sir Leicester condescendingly says, “Yes, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, standing with his back to the fire and waving his gloves condescendingly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And Sir Leicester is glad to repose in dignified contentment before the great fire in the library, condescendingly perusing the backs of his books or honouring the fine arts with a glance of approbation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I speak of really a great lady, not merely great to him, but married to a gentleman of your condition, Sir Leicester.” Sir Leicester condescendingly says, “Yes, Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aquarius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in aquarius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zodiacal constellation in the southern hemisphere; between capricornus and pisces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Shake yourself; you’re Aquarius, or the water-bearer, Flask; might fill pitchers at your coat collar."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Shake yourself; you’re Aquarius, or the water-bearer, Flask; might fill pitchers at your coat collar."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Again you make the same image, Aquarius ascending, Saturn fortunately possessing the ninth in his exaltation, which is Libra, and let there be written upon it the name of the angel of Saturn, (which is Cassi-al)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in aquarius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zodiacal constellation in the southern hemisphere; between capricornus and pisces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Shake yourself; you’re Aquarius, or the water-bearer, Flask; might fill pitchers at your coat collar."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Shake yourself; you’re Aquarius, or the water-bearer, Flask; might fill pitchers at your coat collar."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Again you make the same image, Aquarius ascending, Saturn fortunately possessing the ninth in his exaltation, which is Libra, and let there be written upon it the name of the angel of Saturn, (which is Cassi-al)."*

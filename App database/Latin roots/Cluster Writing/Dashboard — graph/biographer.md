@@ -5,15 +5,6 @@ status: unread
 ---
 # biographer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes an account of a person's life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes an account of a person's life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Besides, as his biographer has truly said, "he was habitually thankful to have someone near him whom he could fairly ask to take the foremost place."[18] Now that Dr."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He speaks of "the friendly Apollo." But the weakness of Plutarch as an apologist is his weakness as biographer--he never really gets at the bottom of anything."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Two lines more prized had never fallen from the pen of the most distinguished author—never more completely blessed the researches of the fondest biographer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes an account of a person's life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes an account of a person's life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Besides, as his biographer has truly said, "he was habitually thankful to have someone near him whom he could fairly ask to take the foremost place."[18] Now that Dr."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He speaks of "the friendly Apollo." But the weakness of Plutarch as an apologist is his weakness as biographer--he never really gets at the bottom of anything."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Two lines more prized had never fallen from the pen of the most distinguished author—never more completely blessed the researches of the fondest biographer."*

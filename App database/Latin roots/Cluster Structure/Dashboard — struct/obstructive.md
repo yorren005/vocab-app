@@ -5,15 +5,6 @@ status: unread
 ---
 # obstructive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I didn’t like what I saw when I was studying there—so much empty bigwiggism, and obstructive trickery."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, accustomed to these obstructive arguments from her male offspring."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Moreover, it is one of those nooks which are legal nooks; and it contains a little Hall, with a little lantern in its roof: to what obstructive purposes devoted, and at whose expense, this history knoweth not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I didn’t like what I saw when I was studying there—so much empty bigwiggism, and obstructive trickery."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Garth, accustomed to these obstructive arguments from her male offspring."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Moreover, it is one of those nooks which are legal nooks; and it contains a little Hall, with a little lantern in its roof: to what obstructive purposes devoted, and at whose expense, this history knoweth not."*

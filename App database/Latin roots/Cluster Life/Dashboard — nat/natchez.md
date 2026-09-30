@@ -5,15 +5,6 @@ status: unread
 ---
 # natchez
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southwest mississippi on the mississippi river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest mississippi on the mississippi river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Howe--The Harvey Hospital--At Natchez and Vicksburg--Other appeals for Northern hospitals--At Huntsville with Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Porter returned to her beloved work at the South, visiting Natchez and Vicksburg."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis down the Mississippi, to Memphis, Vicksburg, and Natchez."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southwest mississippi on the mississippi river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest mississippi on the mississippi river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Howe--The Harvey Hospital--At Natchez and Vicksburg--Other appeals for Northern hospitals--At Huntsville with Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Porter returned to her beloved work at the South, visiting Natchez and Vicksburg."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis down the Mississippi, to Memphis, Vicksburg, and Natchez."*

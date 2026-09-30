@@ -5,15 +5,6 @@ status: unread
 ---
 # loquat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to china and japan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There grew she to peerless beauty where loquat and almond scent the air."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Fine clumps of bamboo and groups of palm now cheered our sight, and fruit of several sorts--cherries, pears, loquats--was becoming abundant."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Beside a wayside well, under a spreading tree, would be placed a small table tended perhaps only by a tiny maiden, and set out with pieces of sugar-cane or twigs of loquats or carefully counted clusters of peanuts or seeds, five pieces for a cash."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen tree of warm regions having fuzzy yellow olive-sized fruit with a large free stone; native to china and japan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"There grew she to peerless beauty where loquat and almond scent the air."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Fine clumps of bamboo and groups of palm now cheered our sight, and fruit of several sorts--cherries, pears, loquats--was becoming abundant."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Beside a wayside well, under a spreading tree, would be placed a small table tended perhaps only by a tiny maiden, and set out with pieces of sugar-cane or twigs of loquats or carefully counted clusters of peanuts or seeds, five pieces for a cash."*

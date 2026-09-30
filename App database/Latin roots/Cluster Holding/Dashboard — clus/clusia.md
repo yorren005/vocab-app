@@ -5,13 +5,6 @@ status: unread
 ---
 # clusia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic tree of the genus clusia having large white or yellow or pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aromatic tree of the genus clusia having large white or yellow or pink flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clusia designates an aromatic tree of the genus clusia having large white or yellow or pink flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic tree of the genus clusia having large white or yellow or pink flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aromatic tree of the genus clusia having large white or yellow or pink flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clusia designates an aromatic tree of the genus clusia having large white or yellow or pink flowers."*

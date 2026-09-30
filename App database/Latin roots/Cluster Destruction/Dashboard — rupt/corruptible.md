@@ -5,15 +5,6 @@ status: unread
 ---
 # corruptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrupted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"De foot _et_ de coun! _O Seigneur Dieu! ils sont les mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d’honneur d’user."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When this corruptible shall have put on incorruption, and this mortal shall have put on 164:27 immortality [divine Science], then shall be brought to pass the saying that is written, Death is swallowed up in victory" (St."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The matter is the same and the corruptible part is alike."[28] [Sidenote: God's anger] The Christian conception of the "descent of God" is repulsive to Celsus, for it means contact with matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrupted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"De foot _et_ de coun! _O Seigneur Dieu! ils sont les mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d’honneur d’user."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When this corruptible shall have put on incorruption, and this mortal shall have put on 164:27 immortality [divine Science], then shall be brought to pass the saying that is written, Death is swallowed up in victory" (St."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The matter is the same and the corruptible part is alike."[28] [Sidenote: God's anger] The Christian conception of the "descent of God" is repulsive to Celsus, for it means contact with matter."*

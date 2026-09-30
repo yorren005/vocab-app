@@ -5,13 +5,6 @@ status: unread
 ---
 # Malacostraca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large subclass (Malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large subclass (Malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Malacostraca designates any of a large subclass (malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large subclass (Malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large subclass (Malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Malacostraca designates any of a large subclass (malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods."*

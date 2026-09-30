@@ -5,13 +5,6 @@ status: unread
 ---
 # technophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear or dislike of advanced technology or complex devices and especially computers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear or dislike of advanced technology or complex devices and especially computers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophobia designates fear or dislike of advanced technology or complex devices and especially computers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear or dislike of advanced technology or complex devices and especially computers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear or dislike of advanced technology or complex devices and especially computers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophobia designates fear or dislike of advanced technology or complex devices and especially computers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # flatly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unqualified manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unqualified manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Dauphin is too wilful-opposite, And will not temporize with my entreaties; He flatly says he’ll not lay down his arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He tells me flatly there’s no mercy for me in heaven, because I am a Jew’s daughter; and he says you are no good member of the commonwealth, for in converting Jews to Christians you raise the price of pork."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And at his look she flatly falleth down For looks kill love, and love by looks reviveth; 464 A smile recures the wounding of a frown; But blessed bankrout, that by love so thriveth!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unqualified manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unqualified manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Dauphin is too wilful-opposite, And will not temporize with my entreaties; He flatly says he’ll not lay down his arms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He tells me flatly there’s no mercy for me in heaven, because I am a Jew’s daughter; and he says you are no good member of the commonwealth, for in converting Jews to Christians you raise the price of pork."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And at his look she flatly falleth down For looks kill love, and love by looks reviveth; 464 A smile recures the wounding of a frown; But blessed bankrout, that by love so thriveth!"*

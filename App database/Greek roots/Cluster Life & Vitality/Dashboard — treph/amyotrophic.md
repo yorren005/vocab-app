@@ -5,13 +5,6 @@ status: unread
 ---
 # amyotrophic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation ALS—called also Lou Gehrig's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation ALS—called also Lou Gehrig's disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyotrophic designates a rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation als—called also lou gehrig's disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation ALS—called also Lou Gehrig's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation ALS—called also Lou Gehrig's disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyotrophic designates a rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation als—called also lou gehrig's disease."*

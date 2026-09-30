@@ -5,15 +5,6 @@ status: unread
 ---
 # figurative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of the meanings of words or text) not literal; using figures of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or forming human or animal figures; ; - herbert read.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “speaking in his figurative naval manner, that when you make pitch hot, you cannot make it too hot; and that if you only have to swab a plank, you should swab it as if Davy Jones were after you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What do you want?’ In reply to this, he made use of the figurative expression—which has something Eastern about it—that he had never seen the colour of my money. ‘My amiable friend,’ said I, ‘I never have any money."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The figurative phrase was true: she was another woman than the one who had excited his desire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of the meanings of words or text) not literal; using figures of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or forming human or animal figures; ; - herbert read.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “speaking in his figurative naval manner, that when you make pitch hot, you cannot make it too hot; and that if you only have to swab a plank, you should swab it as if Davy Jones were after you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What do you want?’ In reply to this, he made use of the figurative expression—which has something Eastern about it—that he had never seen the colour of my money. ‘My amiable friend,’ said I, ‘I never have any money."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The figurative phrase was true: she was another woman than the one who had excited his desire."*

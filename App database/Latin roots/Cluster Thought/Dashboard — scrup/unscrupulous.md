@@ -5,15 +5,6 @@ status: unread
 ---
 # unscrupulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without scruples or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without scruples or principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There have been times, when ladies lived in strongholds and had unscrupulous attendants within call, when that poor life of yours would NOT have been worth a minute’s purchase, with those beautiful eyes looking at you as they look at this moment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This offers a constant temptation to the reckless and unscrupulous promotion of banking enterprises, as has been repeatedly shown (notably in America in the days of "wild-cat" banking before 1860)."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What a contrast between him and poor Bernard! the one so impotent and devil-ridden, the other so virile, unscrupulous, and serene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without scruples or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without scruples or principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There have been times, when ladies lived in strongholds and had unscrupulous attendants within call, when that poor life of yours would NOT have been worth a minute’s purchase, with those beautiful eyes looking at you as they look at this moment."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This offers a constant temptation to the reckless and unscrupulous promotion of banking enterprises, as has been repeatedly shown (notably in America in the days of "wild-cat" banking before 1860)."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"What a contrast between him and poor Bernard! the one so impotent and devil-ridden, the other so virile, unscrupulous, and serene."*

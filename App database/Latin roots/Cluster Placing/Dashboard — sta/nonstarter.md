@@ -5,13 +5,6 @@ status: unread
 ---
 # nonstarter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with a record of failing; someone who loses consistently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse that fails to run in a race for which it has been entered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonstarter designates a person with a record of failing; someone who loses consistently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with a record of failing; someone who loses consistently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse that fails to run in a race for which it has been entered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonstarter designates a person with a record of failing; someone who loses consistently."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # interminably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the time; seemingly without stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the time; seemingly without stopping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I guessed how little she would hear; how bitter must be the dread at her heart; how endlessly, interminably long the moments must seem."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And meanwhile, what was the audience doing, while he stood there tied, {326} waiting interminably for the lion?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the time; seemingly without stopping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the time; seemingly without stopping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I guessed how little she would hear; how bitter must be the dread at her heart; how endlessly, interminably long the moments must seem."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And meanwhile, what was the audience doing, while he stood there tied, {326} waiting interminably for the lion?"*

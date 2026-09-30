@@ -5,13 +5,6 @@ status: unread
 ---
 # classicist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic person who adheres to classicism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student of ancient greek and latin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicist designates an artistic person who adheres to classicism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic person who adheres to classicism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student of ancient greek and latin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicist designates an artistic person who adheres to classicism."*

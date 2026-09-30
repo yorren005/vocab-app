@@ -5,13 +5,6 @@ status: unread
 ---
 # leuctra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thebes defeated sparta in 371 bc; the battle ended sparta's military supremacy in greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thebes defeated sparta in 371 bc; the battle ended sparta's military supremacy in greece.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Lacedaemonians next governed it twenty-nine years; at a subsequent period, after the battle of Leuctra, the Thebans had their turn of domination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thebes defeated sparta in 371 bc; the battle ended sparta's military supremacy in greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thebes defeated sparta in 371 bc; the battle ended sparta's military supremacy in greece.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Lacedaemonians next governed it twenty-nine years; at a subsequent period, after the battle of Leuctra, the Thebans had their turn of domination."*

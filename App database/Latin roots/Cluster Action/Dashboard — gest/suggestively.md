@@ -5,15 +5,6 @@ status: unread
 ---
 # suggestively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a suggestive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a suggestive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It suddenly occurred to her to try persuasion; and accordingly she whispered in his ear, with as much firmness and decision as she could summon— “Let us walk on, darling,” at the same time taking him suggestively by the arm."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What seems most singular and suggestively important in this story, is this: it was from Joppa that Jonah set sail."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What seems most singular and suggestively important in this story, is this: it was from Joppa that Jonah set sail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a suggestive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a suggestive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It suddenly occurred to her to try persuasion; and accordingly she whispered in his ear, with as much firmness and decision as she could summon— “Let us walk on, darling,” at the same time taking him suggestively by the arm."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What seems most singular and suggestively important in this story, is this: it was from Joppa that Jonah set sail."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What seems most singular and suggestively important in this story, is this: it was from Joppa that Jonah set sail."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cavort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Play boisterously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Play boisterously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by the men stopped cavorting around and yelling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Play boisterously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Play boisterously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by the men stopped cavorting around and yelling."*

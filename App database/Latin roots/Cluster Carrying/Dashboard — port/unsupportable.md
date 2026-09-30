@@ -5,13 +5,6 @@ status: unread
 ---
 # unsupportable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be supported or defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be supported or defended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"To have made up his mind that a thing must be, and to find himself thwarted by a bit of a girl--it was unsupportable!--so unsupportable, that even now he refused to believe it could be true."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be supported or defended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be supported or defended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"To have made up his mind that a thing must be, and to find himself thwarted by a bit of a girl--it was unsupportable!--so unsupportable, that even now he refused to believe it could be true."*

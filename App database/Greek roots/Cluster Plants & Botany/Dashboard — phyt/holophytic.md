@@ -5,13 +5,6 @@ status: unread
 ---
 # holophytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment as green plants do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining nourishment as green plants do.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holophytic designates obtaining nourishment as green plants do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment as green plants do.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining nourishment as green plants do.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holophytic designates obtaining nourishment as green plants do."*

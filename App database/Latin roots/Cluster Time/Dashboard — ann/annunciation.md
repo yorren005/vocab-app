@@ -5,15 +5,6 @@ status: unread
 ---
 # annunciation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A festival commemorating the announcement of the incarnation by the angel gabriel to the virgin mary; a quarter day in england, wales, and ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the announcement to the virgin mary by the angel gabriel of the incarnation of christ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The annunciation of the divine nature of the Redeemer must, therefore, be an essential part of _the preaching of the cross_."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Again, it seemed to us that this resolution was but the annunciation of a sentiment which could not or was not likely to be reduced to an actual tangible proposition."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Isaac looked a little blank at this annunciation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A festival commemorating the announcement of the incarnation by the angel gabriel to the virgin mary; a quarter day in england, wales, and ireland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the announcement to the virgin mary by the angel gabriel of the incarnation of christ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The annunciation of the divine nature of the Redeemer must, therefore, be an essential part of _the preaching of the cross_."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Again, it seemed to us that this resolution was but the annunciation of a sentiment which could not or was not likely to be reduced to an actual tangible proposition."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Isaac looked a little blank at this annunciation."*

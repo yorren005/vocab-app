@@ -5,15 +5,6 @@ status: unread
 ---
 # crimson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep and vivid red color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn red, as if in embarrassment or shame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On her left breast A mole cinque-spotted, like the crimson drops I’ th’ bottom of a cowslip."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moy shall not serve; I will have forty moys, Or I will fetch thy rim out at thy throat In drops of crimson blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you blame her then, being a maid yet ros’d over with the virgin crimson of modesty, if she deny the appearance of a naked blind boy in her naked seeing self?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep and vivid red color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn red, as if in embarrassment or shame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On her left breast A mole cinque-spotted, like the crimson drops I’ th’ bottom of a cowslip."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moy shall not serve; I will have forty moys, Or I will fetch thy rim out at thy throat In drops of crimson blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you blame her then, being a maid yet ros’d over with the virgin crimson of modesty, if she deny the appearance of a naked blind boy in her naked seeing self?"*

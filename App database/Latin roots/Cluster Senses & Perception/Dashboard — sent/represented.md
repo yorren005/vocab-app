@@ -5,15 +5,6 @@ status: unread
 ---
 # represented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place of or be parallel or equivalent to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It touched me that the home of such a beautiful young creature should be represented by that dry, official place."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook were really, as his lodger represented him, deranged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place of or be parallel or equivalent to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It touched me that the home of such a beautiful young creature should be represented by that dry, official place."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook were really, as his lodger represented him, deranged."*

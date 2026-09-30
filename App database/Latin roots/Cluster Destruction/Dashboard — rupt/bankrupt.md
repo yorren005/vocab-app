@@ -5,15 +5,6 @@ status: unread
 ---
 # bankrupt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has insufficient assets to cover their debts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to bankruptcy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should he live, now nature bankrupt is, Beggared of blood to blush through lively veins, For she hath no exchequer now but his, And proud of many, lives upon his gains?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time is a very bankrupt, and owes more than he’s worth to season."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fat paunches have lean pates, and dainty bits Make rich the ribs, but bankrupt quite the wits. [_He signs._] DUMAINE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has insufficient assets to cover their debts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to bankruptcy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should he live, now nature bankrupt is, Beggared of blood to blush through lively veins, For she hath no exchequer now but his, And proud of many, lives upon his gains?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time is a very bankrupt, and owes more than he’s worth to season."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fat paunches have lean pates, and dainty bits Make rich the ribs, but bankrupt quite the wits. [_He signs._] DUMAINE."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # albanian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of albania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The indo-european language spoken by the people of albania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a matter of life but rather of death, as the saying is. ‘Albanians!’ and ‘devils!’ and ‘To Siberia!’” said Berg with a sagacious smile."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Names of the Dead tabooed THE CUSTOM of abstaining from all mention of the names of the dead was observed in antiquity by the Albanians of the Caucasus, and at the present day it is in full force among many savage tribes."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the temple of the Moon the Albanians of the Eastern Caucasus kept a number of sacred slaves, of whom many were inspired and prophesied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of albania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The indo-european language spoken by the people of albania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a matter of life but rather of death, as the saying is. ‘Albanians!’ and ‘devils!’ and ‘To Siberia!’” said Berg with a sagacious smile."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Names of the Dead tabooed THE CUSTOM of abstaining from all mention of the names of the dead was observed in antiquity by the Albanians of the Caucasus, and at the present day it is in full force among many savage tribes."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the temple of the Moon the Albanians of the Eastern Caucasus kept a number of sacred slaves, of whom many were inspired and prophesied."*

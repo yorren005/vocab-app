@@ -5,13 +5,6 @@ status: unread
 ---
 # obligato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent but subordinate motif.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the score that must be performed without change or omission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obligato designates a persistent but subordinate motif."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent but subordinate motif.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the score that must be performed without change or omission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obligato designates a persistent but subordinate motif."*

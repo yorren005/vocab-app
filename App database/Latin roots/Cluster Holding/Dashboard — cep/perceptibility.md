@@ -5,14 +5,6 @@ status: unread
 ---
 # perceptibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being perceptible by the mind or the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being perceptible by the mind or the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But that thing of his dissembling was only subject to his perceptibility, not to his will determinate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But that thing of his dissembling was only subject to his perceptibility, not to his will determinate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being perceptible by the mind or the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being perceptible by the mind or the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But that thing of his dissembling was only subject to his perceptibility, not to his will determinate."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But that thing of his dissembling was only subject to his perceptibility, not to his will determinate."*

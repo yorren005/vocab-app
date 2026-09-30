@@ -5,15 +5,6 @@ status: unread
 ---
 # deprived
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away possessions from someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep from having, keeping, or obtaining.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In short time after, he deposed the King, Soon after that deprived him of his life, And, in the neck of that, task’d the whole state."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Henry Monmouth first began to reign, Before whose glory I was great in arms, This loathsome sequestration have I had; And even since then hath Richard been obscured, Deprived of honour and inheritance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Daughter, dear daughter,” old Lucretius cries, “That life was mine which thou hast here deprived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away possessions from someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep from having, keeping, or obtaining.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In short time after, he deposed the King, Soon after that deprived him of his life, And, in the neck of that, task’d the whole state."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Henry Monmouth first began to reign, Before whose glory I was great in arms, This loathsome sequestration have I had; And even since then hath Richard been obscured, Deprived of honour and inheritance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Daughter, dear daughter,” old Lucretius cries, “That life was mine which thou hast here deprived."*

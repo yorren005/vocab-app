@@ -5,15 +5,6 @@ status: unread
 ---
 # naseby
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A village in western northamptonshire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle in 1645 that settled the outcome of the first english civil war as the parliamentarians won a major victory over the royalists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"At the battle of Naseby, Miles was slain, And Huntly sank from his wounds that week; We left young Clare upon Worcester plain-- How the "Ironside" gash'd his girlish cheek."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"After the battle of Naseby, nothing prospered with the King."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Entering upon a melancholy progress from house to house, among the staunch royalists of South Wales, he had thus sought relief from the gloomy reflections by which his mind was oppressed after the total defeat at Naseby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A village in western northamptonshire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle in 1645 that settled the outcome of the first english civil war as the parliamentarians won a major victory over the royalists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"At the battle of Naseby, Miles was slain, And Huntly sank from his wounds that week; We left young Clare upon Worcester plain-- How the "Ironside" gash'd his girlish cheek."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"After the battle of Naseby, nothing prospered with the King."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Entering upon a melancholy progress from house to house, among the staunch royalists of South Wales, he had thus sought relief from the gloomy reflections by which his mind was oppressed after the total defeat at Naseby."*

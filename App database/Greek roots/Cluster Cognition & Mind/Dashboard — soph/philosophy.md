@@ -5,15 +5,6 @@ status: unread
 ---
 # philosophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discipline comprising primarily logic, aesthetics, ethics, metaphysics, and epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sciences and liberal arts exclusive of medicine, law, and theology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast any philosophy in thee, shepherd?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Preach some philosophy to make me mad, And thou shalt be canoniz’d, cardinal; For, being not mad but sensible of grief, My reasonable part produces reason How I may be deliver’d of these woes, And teaches me to kill or hang myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discipline comprising primarily logic, aesthetics, ethics, metaphysics, and epistemology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sciences and liberal arts exclusive of medicine, law, and theology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast any philosophy in thee, shepherd?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Preach some philosophy to make me mad, And thou shalt be canoniz’d, cardinal; For, being not mad but sensible of grief, My reasonable part produces reason How I may be deliver’d of these woes, And teaches me to kill or hang myself."*

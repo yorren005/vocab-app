@@ -5,13 +5,6 @@ status: unread
 ---
 # temptingness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to entice or attract through personal charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to entice or attract through personal charm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temptingness designates the power to entice or attract through personal charm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to entice or attract through personal charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to entice or attract through personal charm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temptingness designates the power to entice or attract through personal charm."*

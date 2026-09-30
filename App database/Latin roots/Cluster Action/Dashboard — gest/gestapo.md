@@ -5,13 +5,6 @@ status: unread
 ---
 # gestapo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The secret state police in nazi germany; known for its terrorist methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The secret state police in nazi germany; known for its terrorist methods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestapo designates the secret state police in nazi germany; known for its terrorist methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The secret state police in nazi germany; known for its terrorist methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The secret state police in nazi germany; known for its terrorist methods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestapo designates the secret state police in nazi germany; known for its terrorist methods."*

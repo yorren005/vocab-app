@@ -5,13 +5,6 @@ status: unread
 ---
 # decatur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states naval officer remembered for his heroic deeds (1779-1820).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in central illinois; abraham lincoln practiced law here.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decatur designates united states naval officer remembered for his heroic deeds (1779-1820)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states naval officer remembered for his heroic deeds (1779-1820).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in central illinois; abraham lincoln practiced law here.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decatur designates united states naval officer remembered for his heroic deeds (1779-1820)."*

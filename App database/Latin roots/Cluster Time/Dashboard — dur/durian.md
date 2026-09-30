@@ -5,14 +5,6 @@ status: unread
 ---
 # durian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree of southeastern asia having edible oval fruit with a hard spiny rind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge fruit native to southeastern asia `smelling like hell and tasting like heaven'; seeds are roasted and eaten like nuts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The durian-tree of the East Indies, whose smooth stem often shoots up to a height of eighty or ninety feet without sending out a branch, bears a fruit of the most delicious flavour and the most disgusting stench."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Near Jugra in Selangor there is a small grove of durian-trees, and on a specially chosen day the villagers used to assemble in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree of southeastern asia having edible oval fruit with a hard spiny rind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge fruit native to southeastern asia `smelling like hell and tasting like heaven'; seeds are roasted and eaten like nuts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The durian-tree of the East Indies, whose smooth stem often shoots up to a height of eighty or ninety feet without sending out a branch, bears a fruit of the most delicious flavour and the most disgusting stench."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Near Jugra in Selangor there is a small grove of durian-trees, and on a specially chosen day the villagers used to assemble in it."*

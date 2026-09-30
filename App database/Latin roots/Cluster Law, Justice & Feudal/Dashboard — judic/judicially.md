@@ -5,15 +5,6 @@ status: unread
 ---
 # judicially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As ordered by a court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a judicial manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But Wakley is right sometimes,” the Doctor added, judicially."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Yes, I believe I would," Henrietta decided judicially."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The French soldiers looked judicially grave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As ordered by a court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a judicial manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But Wakley is right sometimes,” the Doctor added, judicially."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Yes, I believe I would," Henrietta decided judicially."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The French soldiers looked judicially grave."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # adenovirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenovirus designates any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenovirus designates any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye."*

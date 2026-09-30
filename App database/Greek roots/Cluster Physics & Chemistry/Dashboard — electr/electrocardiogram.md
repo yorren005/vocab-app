@@ -5,13 +5,6 @@ status: unread
 ---
 # electrocardiogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tracing made by an electrocardiograph; also : the procedure for producing an electrocardiogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tracing made by an electrocardiograph; also : the procedure for producing an electrocardiogram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiogram designates the tracing made by an electrocardiograph; also : the procedure for producing an electrocardiogram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tracing made by an electrocardiograph; also : the procedure for producing an electrocardiogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tracing made by an electrocardiograph; also : the procedure for producing an electrocardiogram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiogram designates the tracing made by an electrocardiograph; also : the procedure for producing an electrocardiogram."*

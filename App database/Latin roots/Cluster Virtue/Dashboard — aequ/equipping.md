@@ -5,15 +5,6 @@ status: unread
 ---
 # equipping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of equiping with weapons in preparation for war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with (something) usually for a specific purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the power of raising armies and equipping fleets necessary?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Another thing he commented on was equipping soldiers with firearms or sidearms of any description liable to go off at any time which was tantamount to inciting them against civilians should by any chance they fall out over anything."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We are much obliged to Secretary Floyd for the foresight he has thus displayed in disarming the North and _equipping the South for this emergency_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of equiping with weapons in preparation for war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with (something) usually for a specific purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the power of raising armies and equipping fleets necessary?"*
+> - 📜 **James Joyce (*Ulysses*):** *"Another thing he commented on was equipping soldiers with firearms or sidearms of any description liable to go off at any time which was tantamount to inciting them against civilians should by any chance they fall out over anything."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We are much obliged to Secretary Floyd for the foresight he has thus displayed in disarming the North and _equipping the South for this emergency_."*

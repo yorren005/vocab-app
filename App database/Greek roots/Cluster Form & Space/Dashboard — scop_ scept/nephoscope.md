@@ -5,13 +5,6 @@ status: unread
 ---
 # nephoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephoscope designates a measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephoscope designates a measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds."*

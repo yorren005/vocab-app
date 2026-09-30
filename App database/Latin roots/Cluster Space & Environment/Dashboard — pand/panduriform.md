@@ -5,13 +5,6 @@ status: unread
 ---
 # panduriform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) having rounded ends and a contracted center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) having rounded ends and a contracted center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panduriform designates (of a leaf shape) having rounded ends and a contracted center."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) having rounded ends and a contracted center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) having rounded ends and a contracted center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panduriform designates (of a leaf shape) having rounded ends and a contracted center."*

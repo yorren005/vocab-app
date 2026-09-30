@@ -5,15 +5,6 @@ status: unread
 ---
 # product
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities offered for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that has been created by someone or some process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With all his attempted independence of judgement this advanced and well-meaning young man, a sample product of the last five-and-twenty years, was yet the slave to custom and conventionality when surprised back into his early teachings."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My husband felt his loss severely, for we had little property then, and what we had was the product of hard labor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enormous deposits if used at the present amounts per year would last probably 2,000 to 4,000 years, but if used at the present increasing rate (doubling the product every ten years) they would, it has been estimated, last but 150 years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities offered for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that has been created by someone or some process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With all his attempted independence of judgement this advanced and well-meaning young man, a sample product of the last five-and-twenty years, was yet the slave to custom and conventionality when surprised back into his early teachings."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"My husband felt his loss severely, for we had little property then, and what we had was the product of hard labor."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enormous deposits if used at the present amounts per year would last probably 2,000 to 4,000 years, but if used at the present increasing rate (doubling the product every ten years) they would, it has been estimated, last but 150 years."*

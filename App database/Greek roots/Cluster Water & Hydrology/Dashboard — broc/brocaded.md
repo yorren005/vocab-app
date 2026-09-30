@@ -5,13 +5,6 @@ status: unread
 ---
 # brocaded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weave a design into (textiles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embellished with a raised pattern created by pressure or embroidery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"She would fancy herself in the days of Queen Anne or George the First; and describe the brocaded dames and courtly manners as though she had been bred among them, in the best style of the old comedy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weave a design into (textiles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embellished with a raised pattern created by pressure or embroidery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"She would fancy herself in the days of Queen Anne or George the First; and describe the brocaded dames and courtly manners as though she had been bred among them, in the best style of the old comedy."*

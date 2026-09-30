@@ -5,13 +5,6 @@ status: unread
 ---
 # alimentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One thing is certain, that in the year 615 before Jesus Christ, Necos undertook the works of an alimentary canal to the waters of the Nile across the plain of Egypt, looking towards Arabia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One thing is certain, that in the year 615 before Jesus Christ, Necos undertook the works of an alimentary canal to the waters of the Nile across the plain of Egypt, looking towards Arabia."*

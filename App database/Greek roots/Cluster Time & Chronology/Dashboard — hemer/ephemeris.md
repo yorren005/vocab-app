@@ -5,13 +5,6 @@ status: unread
 ---
 # ephemeris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tabular statement of the assigned places of a celestial body for regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uniform measure of time defined by the orbital motions of the planets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemeris designates a tabular statement of the assigned places of a celestial body for regular intervals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tabular statement of the assigned places of a celestial body for regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uniform measure of time defined by the orbital motions of the planets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemeris designates a tabular statement of the assigned places of a celestial body for regular intervals."*

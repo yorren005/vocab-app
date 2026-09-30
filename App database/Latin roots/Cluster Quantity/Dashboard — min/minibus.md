@@ -5,13 +5,6 @@ status: unread
 ---
 # minibus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light bus (4 to 10 passengers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light bus (4 to 10 passengers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minibus designates a light bus (4 to 10 passengers)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light bus (4 to 10 passengers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light bus (4 to 10 passengers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minibus designates a light bus (4 to 10 passengers)."*

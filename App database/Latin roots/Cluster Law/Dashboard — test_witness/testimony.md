@@ -5,15 +5,6 @@ status: unread
 ---
 # testimony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn statement made under oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assertion offering firsthand authentication of a fact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And by other warranted testimony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is too great testimony in your complexion that it was a passion of earnest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I bring you no sufficient testimony that I have enjoy’d the dearest bodily part of your mistress, my ten thousand ducats are yours; so is your diamond too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn statement made under oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assertion offering firsthand authentication of a fact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And by other warranted testimony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is too great testimony in your complexion that it was a passion of earnest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I bring you no sufficient testimony that I have enjoy’d the dearest bodily part of your mistress, my ten thousand ducats are yours; so is your diamond too."*

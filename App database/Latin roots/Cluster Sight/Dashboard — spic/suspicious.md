@@ -5,15 +5,6 @@ status: unread
 ---
 # suspicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Openly distrustful and unwilling to confide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not as expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no reason if I wear this rose, [_Putting on a red rose._] That anyone should therefore be suspicious I more incline to Somerset than York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so suspicious is this tragedy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in the midst of this bright-shining day, I spy a black, suspicious, threat’ning cloud That will encounter with our glorious sun Ere he attain his easeful western bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Openly distrustful and unwilling to confide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not as expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no reason if I wear this rose, [_Putting on a red rose._] That anyone should therefore be suspicious I more incline to Somerset than York."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so suspicious is this tragedy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in the midst of this bright-shining day, I spy a black, suspicious, threat’ning cloud That will encounter with our glorious sun Ere he attain his easeful western bed."*

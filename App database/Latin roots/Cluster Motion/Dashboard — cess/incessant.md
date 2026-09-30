@@ -5,15 +5,6 @@ status: unread
 ---
 # incessant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uninterrupted in time and indefinitely long continuing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uninterrupted in time and indefinitely long continuing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ incessant care and labour of his mind Hath wrought the mure that should confine it in So thin that life looks through and will break out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So service shall with steeled sinews toil, And labour shall refresh itself with hope, To do your Grace incessant services."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either accept the title thou usurp’st, Of benefit proceeding from our king And not of any challenge of desert, Or we will plague thee with incessant wars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uninterrupted in time and indefinitely long continuing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uninterrupted in time and indefinitely long continuing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ incessant care and labour of his mind Hath wrought the mure that should confine it in So thin that life looks through and will break out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So service shall with steeled sinews toil, And labour shall refresh itself with hope, To do your Grace incessant services."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either accept the title thou usurp’st, Of benefit proceeding from our king And not of any challenge of desert, Or we will plague thee with incessant wars."*

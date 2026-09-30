@@ -5,13 +5,6 @@ status: unread
 ---
 # fluxion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flow or discharge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flow or discharge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluxion designates a flow or discharge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flow or discharge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flow or discharge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluxion designates a flow or discharge."*

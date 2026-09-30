@@ -5,15 +5,6 @@ status: unread
 ---
 # mincer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen utensil that cuts or chops food (especially meat) into small pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen utensil that cuts or chops food (especially meat) into small pieces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"After being severed from the whale, the white-horse is first cut into portable oblongs ere going to the mincer."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The mincer now stands before you invested in the full canonicals of his calling."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Arrayed in decent black; occupying a conspicuous pulpit; intent on bible leaves; what a candidate for an archbishoprick, what a lad for a Pope were this mincer![20] [20] Bible leaves!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen utensil that cuts or chops food (especially meat) into small pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen utensil that cuts or chops food (especially meat) into small pieces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"After being severed from the whale, the white-horse is first cut into portable oblongs ere going to the mincer."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The mincer now stands before you invested in the full canonicals of his calling."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Arrayed in decent black; occupying a conspicuous pulpit; intent on bible leaves; what a candidate for an archbishoprick, what a lad for a Pope were this mincer![20] [20] Bible leaves!"*

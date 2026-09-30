@@ -5,13 +5,6 @@ status: unread
 ---
 # interdependence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ignoring past differences, he emphasized common interests, interdependence of peoples and nations, and benefits through collective efforts to meet the needs of the dispersed communities of humankind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ignoring past differences, he emphasized common interests, interdependence of peoples and nations, and benefits through collective efforts to meet the needs of the dispersed communities of humankind."*

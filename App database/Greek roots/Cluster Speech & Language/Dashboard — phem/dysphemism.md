@@ -5,13 +5,6 @@ status: unread
 ---
 # dysphemism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive or disparaging expression that is substituted for an inoffensive one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offensive or disparaging expression that is substituted for an inoffensive one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphemism designates an offensive or disparaging expression that is substituted for an inoffensive one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive or disparaging expression that is substituted for an inoffensive one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offensive or disparaging expression that is substituted for an inoffensive one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphemism designates an offensive or disparaging expression that is substituted for an inoffensive one."*

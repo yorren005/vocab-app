@@ -5,13 +5,6 @@ status: unread
 ---
 # vino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fermented juice (of grapes especially).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fermented juice (of grapes especially).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nunc vino pellite curas, Cras ingens iterabimus aequor,'" and the Bacchanalian, quoting the above with a House of Commons air, tossed off nearly a thimbleful of wine with an immense flourish of his glass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fermented juice (of grapes especially).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fermented juice (of grapes especially).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nunc vino pellite curas, Cras ingens iterabimus aequor,'" and the Bacchanalian, quoting the above with a House of Commons air, tossed off nearly a thimbleful of wine with an immense flourish of his glass."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # particularized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be specific about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed toward a specific object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Nowhere did we stop long enough to get a particularized impression, but the general sense of vague and oppressive wonder grew upon me."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I admit that it is a government of strictly limited powers, of enumerated, specified, and particularized powers; and that whatsoever is not granted is withheld."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be specific about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed toward a specific object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Nowhere did we stop long enough to get a particularized impression, but the general sense of vague and oppressive wonder grew upon me."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I admit that it is a government of strictly limited powers, of enumerated, specified, and particularized powers; and that whatsoever is not granted is withheld."*

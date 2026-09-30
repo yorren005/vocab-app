@@ -5,13 +5,6 @@ status: unread
 ---
 # state-of-the-art
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest level of development at a particular time (especially the present time).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level of development at a particular time (especially the present time).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, state-of-the-art designates the highest level of development at a particular time (especially the present time)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest level of development at a particular time (especially the present time).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level of development at a particular time (especially the present time).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, state-of-the-art designates the highest level of development at a particular time (especially the present time)."*

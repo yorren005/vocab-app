@@ -5,15 +5,6 @@ status: unread
 ---
 # rarely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not often.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not often.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A piece of work So bravely done, so rich, that it did strive In workmanship and value; which I wonder’d Could be so rarely and exactly wrought, Since the true life on’t was— POSTHUMUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could play Ercles rarely, or a part to tear a cat in, to make all split."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doth not my wit become me rarely!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not often.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not often.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A piece of work So bravely done, so rich, that it did strive In workmanship and value; which I wonder’d Could be so rarely and exactly wrought, Since the true life on’t was— POSTHUMUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could play Ercles rarely, or a part to tear a cat in, to make all split."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doth not my wit become me rarely!"*

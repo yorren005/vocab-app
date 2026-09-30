@@ -5,13 +5,6 @@ status: unread
 ---
 # isometrics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle-building exercises (or a system of musclebuilding exercises) involving muscular contractions against resistance without movement (the muscles contracts but the length of the muscle does not change).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line connecting isometric points.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometrics designates muscle-building exercises (or a system of musclebuilding exercises) involving muscular contractions against resistance without movement (the muscles contracts but the length of the muscle does not change)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle-building exercises (or a system of musclebuilding exercises) involving muscular contractions against resistance without movement (the muscles contracts but the length of the muscle does not change).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line connecting isometric points.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometrics designates muscle-building exercises (or a system of musclebuilding exercises) involving muscular contractions against resistance without movement (the muscles contracts but the length of the muscle does not change)."*

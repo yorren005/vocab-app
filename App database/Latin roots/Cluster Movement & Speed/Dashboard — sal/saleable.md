@@ -5,14 +5,6 @@ status: unread
 ---
 # saleable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being sold; fit for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being sold; fit for sale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included; but I will not pretend to repeat half that I used to hear him say on that subject."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"No one ever had to hawk gold about to find a purchaser; it is always saleable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being sold; fit for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being sold; fit for sale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included; but I will not pretend to repeat half that I used to hear him say on that subject."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"No one ever had to hawk gold about to find a purchaser; it is always saleable."*

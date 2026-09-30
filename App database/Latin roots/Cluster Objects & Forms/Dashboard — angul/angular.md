@@ -5,15 +5,6 @@ status: unread
 ---
 # angular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measured by an angle or by the rate of change of an angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having angles or an angular shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The angular hollows and lines of his aged ancestors had succeeded to their reign in his face twenty years before their time."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This fin is some three or four feet long, growing vertically from the hinder part of the back, of an angular shape, and with a very sharp pointed end."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The wooden reel and angular log attached hung, long untouched, just beneath the railing of the after bulwarks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measured by an angle or by the rate of change of an angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having angles or an angular shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The angular hollows and lines of his aged ancestors had succeeded to their reign in his face twenty years before their time."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This fin is some three or four feet long, growing vertically from the hinder part of the back, of an angular shape, and with a very sharp pointed end."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The wooden reel and angular log attached hung, long untouched, just beneath the railing of the after bulwarks."*

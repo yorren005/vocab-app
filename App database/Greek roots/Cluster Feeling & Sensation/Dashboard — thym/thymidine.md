@@ -5,13 +5,6 @@ status: unread
 ---
 # thymidine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nucleoside component of dna; composed of thymine and deoxyribose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleoside component of dna; composed of thymine and deoxyribose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymidine designates a nucleoside component of dna; composed of thymine and deoxyribose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nucleoside component of dna; composed of thymine and deoxyribose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleoside component of dna; composed of thymine and deoxyribose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymidine designates a nucleoside component of dna; composed of thymine and deoxyribose."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that sags.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Droop, sink, or settle from or as if from pressure or loss of tautness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Thy woods, this autumn day, that ache and sag And all but cry with colour!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A Sag Harbor ship visited his father’s bay, and Queequeg sought a passage to Christian lands."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Arrived at last in old Sag Harbor; and seeing what the sailors did there; and then going on to Nantucket, and seeing how they spent their wages in _that_ place also, poor Queequeg gave it up for lost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that sags.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Droop, sink, or settle from or as if from pressure or loss of tautness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Thy woods, this autumn day, that ache and sag And all but cry with colour!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A Sag Harbor ship visited his father’s bay, and Queequeg sought a passage to Christian lands."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Arrived at last in old Sag Harbor; and seeing what the sailors did there; and then going on to Nantucket, and seeing how they spent their wages in _that_ place also, poor Queequeg gave it up for lost."*

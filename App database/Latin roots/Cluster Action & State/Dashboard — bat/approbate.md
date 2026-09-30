@@ -5,13 +5,6 @@ status: unread
 ---
 # approbate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approve or sanction officially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accept (documents) as valid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, approbate designates approve or sanction officially."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approve or sanction officially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accept (documents) as valid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, approbate designates approve or sanction officially."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # coxa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ball-and-socket joint between the head of the femur and the acetabulum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ball-and-socket joint between the head of the femur and the acetabulum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxa designates the ball-and-socket joint between the head of the femur and the acetabulum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ball-and-socket joint between the head of the femur and the acetabulum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ball-and-socket joint between the head of the femur and the acetabulum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxa designates the ball-and-socket joint between the head of the femur and the acetabulum."*

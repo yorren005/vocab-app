@@ -5,15 +5,6 @@ status: unread
 ---
 # cellular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Indeed, owing to this cellular arrangement it resists like a block, as if it were solid."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And the botanist who finds that the apple falls because the cellular tissue decays and so forth is equally right with the child who stands under the tree and says the apple fell because he wanted to eat it and prayed for it."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores in both are distinctly cellular, but in the last genus far more opaque and consolidated than in the first."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Indeed, owing to this cellular arrangement it resists like a block, as if it were solid."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And the botanist who finds that the apple falls because the cellular tissue decays and so forth is equally right with the child who stands under the tree and says the apple fell because he wanted to eat it and prayed for it."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores in both are distinctly cellular, but in the last genus far more opaque and consolidated than in the first."*

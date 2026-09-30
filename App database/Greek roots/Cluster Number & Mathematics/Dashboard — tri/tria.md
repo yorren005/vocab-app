@@ -5,13 +5,6 @@ status: unread
 ---
 # tria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Three joined in one —motto of the Order of the Bath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Three joined in one —motto of the Order of the Bath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tria designates three joined in one —motto of the order of the bath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Three joined in one —motto of the Order of the Bath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Three joined in one —motto of the Order of the Bath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tria designates three joined in one —motto of the order of the bath."*

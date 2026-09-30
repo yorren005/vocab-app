@@ -5,13 +5,6 @@ status: unread
 ---
 # mineralize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into a mineral substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transform (a metal) into an ore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"During this interval we had fairly unearthed an oblong chest of wood, which, from its perfect preservation and wonderful hardness, had plainly been subjected to some mineralizing process—perhaps that of the bichloride of mercury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into a mineral substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transform (a metal) into an ore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"During this interval we had fairly unearthed an oblong chest of wood, which, from its perfect preservation and wonderful hardness, had plainly been subjected to some mineralizing process—perhaps that of the bichloride of mercury."*

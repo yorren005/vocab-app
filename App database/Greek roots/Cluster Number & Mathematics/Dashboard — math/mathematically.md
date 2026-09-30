@@ -5,15 +5,6 @@ status: unread
 ---
 # mathematically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to mathematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But when these members grow older, a still larger addition of young members is required to keep down the average, and the mathematically inevitable result is an increasing rate of assessment."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But this statement is not mathematically correct, because the equinox does not necessarily begin at noon.” “Very likely, sir; but the error will not be a hundred yards and we do not want more."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"But Ukridge says his theory is mathematically sound and he sticks to it." "Are you quite sure that the way you are doing it is the best way to manage a chicken farm?" "I should very much doubt it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But when these members grow older, a still larger addition of young members is required to keep down the average, and the mathematically inevitable result is an increasing rate of assessment."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But this statement is not mathematically correct, because the equinox does not necessarily begin at noon.” “Very likely, sir; but the error will not be a hundred yards and we do not want more."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"But Ukridge says his theory is mathematically sound and he sticks to it." "Are you quite sure that the way you are doing it is the best way to manage a chicken farm?" "I should very much doubt it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # subaltern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british commissioned army officer below the rank of captain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inferior in rank or status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I was an infant subaltern when Hyde knew me," said Val laughing, "and he was a howling swell of a captain."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Three quarters of the way over they found a third casualty, a subaltern in the Dorchesters."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence recalled his own first near glimpse of death, a fellow subaltern hideously killed at his side: he had turned faint as the nightmare shape fell and rose and fell again, spouting blood over his clothes: contact with elder men had steadied him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A british commissioned army officer below the rank of captain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inferior in rank or status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I was an infant subaltern when Hyde knew me," said Val laughing, "and he was a howling swell of a captain."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Three quarters of the way over they found a third casualty, a subaltern in the Dorchesters."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence recalled his own first near glimpse of death, a fellow subaltern hideously killed at his side: he had turned faint as the nightmare shape fell and rose and fell again, spouting blood over his clothes: contact with elder men had steadied him."*

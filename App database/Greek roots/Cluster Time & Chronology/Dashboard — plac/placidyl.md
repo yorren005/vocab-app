@@ -5,13 +5,6 @@ status: unread
 ---
 # placidyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild sedative-hypnotic drug (trade name placidyl).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild sedative-hypnotic drug (trade name placidyl).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placidyl designates a mild sedative-hypnotic drug (trade name placidyl)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild sedative-hypnotic drug (trade name placidyl).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild sedative-hypnotic drug (trade name placidyl).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placidyl designates a mild sedative-hypnotic drug (trade name placidyl)."*

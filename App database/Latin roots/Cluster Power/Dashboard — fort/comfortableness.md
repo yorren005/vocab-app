@@ -5,14 +5,6 @@ status: unread
 ---
 # comfortableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being relaxed and feeling no pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of being at ease in a relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I was only alive to the condensed confidential comfortableness of sharing a pipe and a blanket with a real friend."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I was only alive to the condensed confidential comfortableness of sharing a pipe and a blanket with a real friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being relaxed and feeling no pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of being at ease in a relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I was only alive to the condensed confidential comfortableness of sharing a pipe and a blanket with a real friend."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I was only alive to the condensed confidential comfortableness of sharing a pipe and a blanket with a real friend."*

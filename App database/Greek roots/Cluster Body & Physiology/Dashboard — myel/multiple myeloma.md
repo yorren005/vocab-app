@@ -5,13 +5,6 @@ status: unread
 ---
 # multiple myeloma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiple myeloma designates a disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiple myeloma designates a disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body."*

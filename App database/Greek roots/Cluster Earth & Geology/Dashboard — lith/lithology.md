@@ -5,13 +5,6 @@ status: unread
 ---
 # lithology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of a rock formation; also : a rock formation having a particular set of characteristics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithology designates the study of rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of a rock formation; also : a rock formation having a particular set of characteristics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithology designates the study of rocks."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # audible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A football play is changed orally after both teams have assumed their positions at the line of scrimmage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heard or perceptible by the ear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It’s sprightly walking, audible, and full of vent."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, who had blushed violently under his scrutiny, said in a barely audible voice, "Perhaps we should not have come; but Mäzli thought we might be allowed to see you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada touched the notes so softly and sang so low that the wind, sighing away to the distant hills, was as audible as the music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A football play is changed orally after both teams have assumed their positions at the line of scrimmage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heard or perceptible by the ear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It’s sprightly walking, audible, and full of vent."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, who had blushed violently under his scrutiny, said in a barely audible voice, "Perhaps we should not have come; but Mäzli thought we might be allowed to see you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ada touched the notes so softly and sang so low that the wind, sighing away to the distant hills, was as audible as the music."*

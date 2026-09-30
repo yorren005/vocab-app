@@ -5,13 +5,6 @@ status: unread
 ---
 # thrombocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombocytosis designates increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombocytosis designates increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases."*

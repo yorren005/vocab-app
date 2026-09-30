@@ -5,18 +5,6 @@ status: unread
 ---
 # deft
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Quick and neat in action; skillful
-> 2. **Nuance / Usage**: Characterized by facility and skill
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a deft appearance*) and predicatively after a linking verb (*remained deft*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Gary Rose (*Manchester City 5-0 Huddersfield Town*):** *"Alvarez then got on the scoresheet after the hosts carved open the Huddersfield defence with some intricate passing before the Argentina forward's deft finish rolled into the net."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Quick and neat in action; skillful
+> 2. **Nuance / Usage**: Characterized by facility and skill
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a deft appearance*) and predicatively after a linking verb (*remained deft*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Gary Rose (*Manchester City 5-0 Huddersfield Town*):** *"Alvarez then got on the scoresheet after the hosts carved open the Huddersfield defence with some intricate passing before the Argentina forward's deft finish rolled into the net."*

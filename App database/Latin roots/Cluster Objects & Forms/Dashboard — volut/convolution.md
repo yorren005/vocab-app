@@ -5,15 +5,6 @@ status: unread
 ---
 # convolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of something rotating rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A convex fold or elevation in the surface of the brain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the middle distance a vast serpent, wearing a crown, reared its head out of its voluminous convolutions and looked at him with his dead mother’s eyes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of something rotating rapidly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A convex fold or elevation in the surface of the brain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the middle distance a vast serpent, wearing a crown, reared its head out of its voluminous convolutions and looked at him with his dead mother’s eyes."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*

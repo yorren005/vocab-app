@@ -5,15 +5,6 @@ status: unread
 ---
 # conductivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of heat or electricity or sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission of heat or electricity or sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"That point of poor conductivity is the ends of the two bars to be joined."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Under those conditions the conductivity is normally good, but the influence of the incoming waves causes it to become bad."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Influence of Impurities on the Electrical Conductivity of Copper, 23 IV."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of heat or electricity or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission of heat or electricity or sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"That point of poor conductivity is the ends of the two bars to be joined."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Under those conditions the conductivity is normally good, but the influence of the incoming waves causes it to become bad."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Influence of Impurities on the Electrical Conductivity of Copper, 23 IV."*

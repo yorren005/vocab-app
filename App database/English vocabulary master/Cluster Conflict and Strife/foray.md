@@ -5,20 +5,6 @@ status: unread
 ---
 # foray
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Participate in a foray
-> 2. **Nuance / Usage**: Make a raid or brief invasion
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Hickling Prescott (*History of the Reign of Ferdinand and Isabella, the Catholic*):** *"The people of Granada resumed all at once their ancient activity, foraying into the Christian territories, surprising Alhendin and some other places of less importance, and stirring up the spirit of revolt in Guadix and other conquered cities."*
-> - 📜 **Abigail Rine Favale (*Into the Deep*):** *"Over the summer, I'd been following the news cycle, foraying into online journalism, and I wrote a couple of pieces on male victims of sexual violence, who are often left to the margins or forgotten altogether in feminist accounts of rape culture."*
-> - 📜 **Charlotte Mary Yonge (*Cameos from English History, from Rollo to Edward II*):** *"Bruce forayed Cumberland, and threatened Berwick, so that the poor Countess of Buchan was removed from thence to a more secure place of captivity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A sudden, brief raid or military incursion into enemy territory, especially to seize plunder or forage; as a verb, to ravage or raid.
+> 2. **Nuance / Usage**: Frequently used figuratively in modern prose for an initial venture or brief excursion into an unfamiliar field, activity, or medium (*a foray into politics*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Functions nominally (*a border foray*, *her first foray into journalism*) and verbally (*foraying into enemy territory*).
+> - **Collocations & Registers**: Martial, historical, and general analytical registers; paired with *border*, *raid*, *incursion*, *plunder*, and *venture*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Hickling Prescott (*History of the Reign of Ferdinand and Isabella*):** *"The people of Granada resumed all at once their ancient activity, **foraying** into the Christian territories and stirring up the spirit of revolt."*
+> - 📜 **Abigail Rine Favale (*Into the Deep*):** *"Over the summer, I'd been following the news cycle, **foraying** into online journalism."*
+> - 📜 **Charlotte Mary Yonge (*Cameos from English History*):** *"Bruce **forayed** Cumberland and threatened Berwick, so that the poor Countess of Buchan was removed to a more secure place of captivity."*

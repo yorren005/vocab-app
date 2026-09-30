@@ -5,13 +5,6 @@ status: unread
 ---
 # fusiform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tapering at each end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tapering at each end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tapering at each end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tapering at each end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*

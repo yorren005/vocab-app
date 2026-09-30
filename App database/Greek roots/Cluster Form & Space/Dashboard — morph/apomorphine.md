@@ -5,13 +5,6 @@ status: unread
 ---
 # apomorphine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apomorphine designates a morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apomorphine designates a morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative."*

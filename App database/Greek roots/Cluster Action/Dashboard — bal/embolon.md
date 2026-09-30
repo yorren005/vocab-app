@@ -5,13 +5,6 @@ status: unread
 ---
 # embolon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood clot or swelling, particularly one that blocks an artery; an embolus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battering ram on a warship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolon designates a blood clot or swelling, particularly one that blocks an artery; an embolus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood clot or swelling, particularly one that blocks an artery; an embolus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battering ram on a warship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolon designates a blood clot or swelling, particularly one that blocks an artery; an embolus."*

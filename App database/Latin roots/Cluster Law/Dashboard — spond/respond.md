@@ -5,15 +5,6 @@ status: unread
 ---
 # respond
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show a response or a reaction to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: React verbally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He might be deemed eligible by you and might be disposed to respond to this proposal."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Our banks, considered both separately and collectively, were unable to increase their loaning powers quickly and easily to respond to business needs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Daily He announces more distinctly,—‘Surely I come quickly!’ and hourly I more eagerly respond,—‘Amen; even so come, Lord Jesus!’"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show a response or a reaction to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: React verbally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He might be deemed eligible by you and might be disposed to respond to this proposal."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Our banks, considered both separately and collectively, were unable to increase their loaning powers quickly and easily to respond to business needs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Daily He announces more distinctly,—‘Surely I come quickly!’ and hourly I more eagerly respond,—‘Amen; even so come, Lord Jesus!’"*

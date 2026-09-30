@@ -5,14 +5,6 @@ status: unread
 ---
 # torpidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of motor and mental inactivity with a partial suspension of sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or waste."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or heath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of motor and mental inactivity with a partial suspension of sensibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or waste."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or heath."*

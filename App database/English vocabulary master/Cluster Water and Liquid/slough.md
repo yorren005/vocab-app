@@ -5,20 +5,6 @@ status: unread
 ---
 # slough
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Swamp
-> 2. **Nuance / Usage**: Place of deep mud or mire
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Well, you dropped Linton with it into a Slough of Despond."*
-> - 📜 **Casey Watson (*Mummy’s Little Helper: The heartrending true story of a young girl*):** *"The mud sloughed off her palms easily {{..."*
-> - 📜 **Michael Mello (*Avalanche forecaster killed in Utah avalanche*):** *"An avalanche sloughing off a Utah mountainside killed a state Department of Transportation avalanche forecaster while he was surveying snow levels near a popular winter recreation area, authorities reported."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Swamp
+> 2. **Nuance / Usage**: Place of deep mud or mire
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Well, you dropped Linton with it into a Slough of Despond."*
+> - 📜 **Casey Watson (*Mummy’s Little Helper: The heartrending true story of a young girl*):** *"The mud sloughed off her palms easily {{..."*
+> - 📜 **Michael Mello (*Avalanche forecaster killed in Utah avalanche*):** *"An avalanche sloughing off a Utah mountainside killed a state Department of Transportation avalanche forecaster while he was surveying snow levels near a popular winter recreation area, authorities reported."*

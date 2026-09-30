@@ -5,15 +5,6 @@ status: unread
 ---
 # perpendicularly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Straight up or down without a break.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perpendicular manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten masts at each make not the altitude Which thou hast perpendicularly fell."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Casually glancing over the hedge, Oak saw coming down the incline before him an ornamental spring waggon, painted yellow and gaily marked, drawn by two horses, a waggoner walking alongside bearing a whip perpendicularly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Straight up or down without a break.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perpendicular manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten masts at each make not the altitude Which thou hast perpendicularly fell."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Casually glancing over the hedge, Oak saw coming down the incline before him an ornamental spring waggon, painted yellow and gaily marked, drawn by two horses, a waggoner walking alongside bearing a whip perpendicularly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*

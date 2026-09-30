@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*

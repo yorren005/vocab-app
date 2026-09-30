@@ -5,15 +5,6 @@ status: unread
 ---
 # color
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual attribute of things that results from the light they emit or transmit or reflect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interest and variety and intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My hands are of your color, but I shame To wear a heart so white. [_Knocking within._] I hear knocking At the south entry:—retire we to our chamber."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was night-time, and you can imagine we did not see the color clearly," Clevi said indignantly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But the color has nothing to do with it, it was the length, the horrible, horrible length of that thing!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual attribute of things that results from the light they emit or transmit or reflect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interest and variety and intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My hands are of your color, but I shame To wear a heart so white. [_Knocking within._] I hear knocking At the south entry:—retire we to our chamber."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was night-time, and you can imagine we did not see the color clearly," Clevi said indignantly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But the color has nothing to do with it, it was the length, the horrible, horrible length of that thing!"*

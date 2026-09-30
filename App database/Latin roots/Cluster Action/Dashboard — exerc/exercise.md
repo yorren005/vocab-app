@@ -5,15 +5,6 @@ status: unread
 ---
 # exercise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of exerting your muscles in various ways to keep fit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of using.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ th’ common showplace where they exercise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy exercise hath been too violent For a second course of fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy crystal window ope; look out; No longer exercise Upon a valiant race thy harsh And potent injuries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of exerting your muscles in various ways to keep fit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of using.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ th’ common showplace where they exercise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy exercise hath been too violent For a second course of fight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy crystal window ope; look out; No longer exercise Upon a valiant race thy harsh And potent injuries."*

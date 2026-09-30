@@ -5,13 +5,6 @@ status: unread
 ---
 # cation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ion in an electrolyzed solution that migrates to the cathode; broadly : a positively charged ion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ion in an electrolyzed solution that migrates to the cathode; broadly : a positively charged ion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The incarnation of Truth, that amplifi- cation of wonder and glory which angels could only 501:12 whisper and which God illustrated by light and har- mony, is consonant with ever-present Love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ion in an electrolyzed solution that migrates to the cathode; broadly : a positively charged ion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ion in an electrolyzed solution that migrates to the cathode; broadly : a positively charged ion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The incarnation of Truth, that amplifi- cation of wonder and glory which angels could only 501:12 whisper and which God illustrated by light and har- mony, is consonant with ever-present Love."*

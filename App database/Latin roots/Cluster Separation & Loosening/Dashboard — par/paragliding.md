@@ -5,13 +5,6 @@ status: unread
 ---
 # paragliding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gliding in a parasail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gliding in a parasail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paragliding designates gliding in a parasail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gliding in a parasail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gliding in a parasail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paragliding designates gliding in a parasail."*

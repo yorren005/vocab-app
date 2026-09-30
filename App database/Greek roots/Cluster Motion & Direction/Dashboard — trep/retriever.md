@@ -5,15 +5,6 @@ status: unread
 ---
 # retriever
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dog with heavy water-resistant coat that can be trained to retrieve game.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dog with heavy water-resistant coat that can be trained to retrieve game.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Then snatch your purse. _(The retriever approaches sniffing, nose to the ground."*
-> - 📜 **James Joyce (*Ulysses*):** *"One and eightpence too much. _(The retriever drives a cold snivelling muzzle against his hand, wagging his tail.)_ Strange how they take to me."*
-> - 📜 **James Joyce (*Ulysses*):** *"I’ll wring the bastard fucker’s bleeding blasted fucking windpipe! _(The retriever, nosing on the fringe of the crowd, barks noisily.)_ OLD GUMMY GRANNY: _(Thrusts a dagger towards Stephen’s hand.)_ Remove him, acushla."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dog with heavy water-resistant coat that can be trained to retrieve game.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dog with heavy water-resistant coat that can be trained to retrieve game.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Then snatch your purse. _(The retriever approaches sniffing, nose to the ground."*
+> - 📜 **James Joyce (*Ulysses*):** *"One and eightpence too much. _(The retriever drives a cold snivelling muzzle against his hand, wagging his tail.)_ Strange how they take to me."*
+> - 📜 **James Joyce (*Ulysses*):** *"I’ll wring the bastard fucker’s bleeding blasted fucking windpipe! _(The retriever, nosing on the fringe of the crowd, barks noisily.)_ OLD GUMMY GRANNY: _(Thrusts a dagger towards Stephen’s hand.)_ Remove him, acushla."*

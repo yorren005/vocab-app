@@ -5,13 +5,6 @@ status: unread
 ---
 # mythologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert on mythology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If there is any truth in this conjecture, it may explain very simply the origin of the double head of Janus, which has so long exercised the ingenuity of mythologists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert on mythology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If there is any truth in this conjecture, it may explain very simply the origin of the double head of Janus, which has so long exercised the ingenuity of mythologists."*

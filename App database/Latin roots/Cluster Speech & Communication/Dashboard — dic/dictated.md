@@ -5,15 +5,6 @@ status: unread
 ---
 # dictated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue commands or orders for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Say out loud for the purpose of recording.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, sitting in quite a nest of waste paper, drank coffee all the evening and dictated at intervals to her eldest daughter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could say about this barn, what could hardly be said of either the church or the castle, akin to it in age and style, that the purpose which had dictated its original erection was the same with that to which it was still applied."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue commands or orders for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Say out loud for the purpose of recording.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, sitting in quite a nest of waste paper, drank coffee all the evening and dictated at intervals to her eldest daughter."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could say about this barn, what could hardly be said of either the church or the castle, akin to it in age and style, that the purpose which had dictated its original erection was the same with that to which it was still applied."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # chordata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises true vertebrates and animals having a notochord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises true vertebrates and animals having a notochord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chordata designates comprises true vertebrates and animals having a notochord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises true vertebrates and animals having a notochord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises true vertebrates and animals having a notochord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chordata designates comprises true vertebrates and animals having a notochord."*

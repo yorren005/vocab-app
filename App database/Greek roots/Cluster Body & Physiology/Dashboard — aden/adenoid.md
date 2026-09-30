@@ -5,13 +5,6 @@ status: unread
 ---
 # adenoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two abnormally enlarged masses of lymphoid tissue at the back of the pharynx that usually obstruct the nasal and ear passages; also : such a mass when not abnormally enlarged —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the adenoids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Doc.) blames the sanitary conditions in which our greylunged citizens contract adenoids, pulmonary complaints etc. by inhaling the bacteria which lurk in dust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two abnormally enlarged masses of lymphoid tissue at the back of the pharynx that usually obstruct the nasal and ear passages; also : such a mass when not abnormally enlarged —usually plural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the adenoids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Doc.) blames the sanitary conditions in which our greylunged citizens contract adenoids, pulmonary complaints etc. by inhaling the bacteria which lurk in dust."*

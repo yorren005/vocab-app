@@ -5,13 +5,6 @@ status: unread
 ---
 # scattershot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covering a wide range in a haphazard way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covering a wide range in a haphazard way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scattershot designates covering a wide range in a haphazard way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covering a wide range in a haphazard way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covering a wide range in a haphazard way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scattershot designates covering a wide range in a haphazard way."*

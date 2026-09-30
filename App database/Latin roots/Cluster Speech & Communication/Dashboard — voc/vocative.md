@@ -5,14 +5,6 @@ status: unread
 ---
 # vocative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The case (in some inflected languages) used when the referent of the noun is being addressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a case used in some languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: Addressed her in vocative feminine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"O endless vocatives that would still leave expression slipping helpless from the measurement of mortal folly!—that residuary legatee was Joshua Rigg, who was also sole executor, and who was to take thenceforth the name of Featherstone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The case (in some inflected languages) used when the referent of the noun is being addressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a case used in some languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: Addressed her in vocative feminine."*
+> - 📜 **George Eliot (*Middlemarch*):** *"O endless vocatives that would still leave expression slipping helpless from the measurement of mortal folly!—that residuary legatee was Joshua Rigg, who was also sole executor, and who was to take thenceforth the name of Featherstone."*

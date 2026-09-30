@@ -5,15 +5,6 @@ status: unread
 ---
 # fact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of information about circumstances that exist or events that have occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement or assertion of verified information about something that is the case or has happened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then tonight Let us assay our plot; which, if it speed, Is wicked meaning in a lawful deed, And lawful meaning in a lawful act, Where both not sin, and yet a sinful fact."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How look I That I should seem to lack humanity So much as this fact comes to? [_Reads._] ‘Do’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, this fact was infamous And ill beseeming any common man, Much more a knight, a captain, and a leader."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of information about circumstances that exist or events that have occurred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement or assertion of verified information about something that is the case or has happened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then tonight Let us assay our plot; which, if it speed, Is wicked meaning in a lawful deed, And lawful meaning in a lawful act, Where both not sin, and yet a sinful fact."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How look I That I should seem to lack humanity So much as this fact comes to? [_Reads._] ‘Do’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, this fact was infamous And ill beseeming any common man, Much more a knight, a captain, and a leader."*

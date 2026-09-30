@@ -5,13 +5,6 @@ status: unread
 ---
 # epiglottis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiglottis designates a thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiglottis designates a thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing."*

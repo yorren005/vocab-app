@@ -5,13 +5,6 @@ status: unread
 ---
 # monarchic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruled by or having the supreme power resting with a monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It was true; Euergetes is a well-known kingly title, but the explanation that it was the reward for strenuous use of monarchic authority was new."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruled by or having the supreme power resting with a monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It was true; Euergetes is a well-known kingly title, but the explanation that it was the reward for strenuous use of monarchic authority was new."*

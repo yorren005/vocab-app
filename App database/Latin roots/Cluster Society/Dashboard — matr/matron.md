@@ -5,15 +5,6 @@ status: unread
 ---
 # matron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A married woman (usually middle-aged with children) who is staid and dignified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wardress in a prison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please it this matron and this gentle maid To eat with us tonight; the charge and thanking Shall be for me; and, to requite you further, I will bestow some precepts of this virgin, Worthy the note."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, as in an apparition, Sicilius Leonatus, father to Posthumus, an old man attired like a warrior; leading in his hand an ancient matron, his wife and Mother to Posthumus, with music before them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A married woman (usually middle-aged with children) who is staid and dignified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wardress in a prison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please it this matron and this gentle maid To eat with us tonight; the charge and thanking Shall be for me; and, to requite you further, I will bestow some precepts of this virgin, Worthy the note."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, as in an apparition, Sicilius Leonatus, father to Posthumus, an old man attired like a warrior; leading in his hand an ancient matron, his wife and Mother to Posthumus, with music before them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rebellious hell, If thou canst mutine in a matron’s bones, To flaming youth let virtue be as wax, And melt in her own fire."*

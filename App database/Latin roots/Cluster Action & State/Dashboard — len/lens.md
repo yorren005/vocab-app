@@ -5,15 +5,6 @@ status: unread
 ---
 # lens
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent optical device used to converge or diverge transmitted light and to form images.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of small erect or climbing herbs with pinnate leaves and small inconspicuous white flowers and small flattened pods: lentils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In this way, metaphorically speaking, a strong lens applied to Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if his eyes were broad as the lens of Herschel’s great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent optical device used to converge or diverge transmitted light and to form images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of small erect or climbing herbs with pinnate leaves and small inconspicuous white flowers and small flattened pods: lentils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In this way, metaphorically speaking, a strong lens applied to Mrs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if his eyes were broad as the lens of Herschel’s great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing?"*

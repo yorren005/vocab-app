@@ -5,15 +5,6 @@ status: unread
 ---
 # popery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive terms for the practices and rituals of the roman catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive terms for the practices and rituals of the roman catholic church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"A PROPOSAL humbly offered to the Parliament, for the more effectual preventing the farther Growth of _Popery_."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"During the riots of 1780, most persons in London, in order to save their houses from being burned or pulled down, wrote on the outside, No Popery!"*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In the last place, I think nothing can be more plain, than that by this expedient we shall run into the evil we chiefly pretend to avoid; and that the abolishment of the Christian religion will be the readiest course we can take to introduce Popery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive terms for the practices and rituals of the roman catholic church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive terms for the practices and rituals of the roman catholic church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"A PROPOSAL humbly offered to the Parliament, for the more effectual preventing the farther Growth of _Popery_."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"During the riots of 1780, most persons in London, in order to save their houses from being burned or pulled down, wrote on the outside, No Popery!"*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In the last place, I think nothing can be more plain, than that by this expedient we shall run into the evil we chiefly pretend to avoid; and that the abolishment of the Christian religion will be the readiest course we can take to introduce Popery."*

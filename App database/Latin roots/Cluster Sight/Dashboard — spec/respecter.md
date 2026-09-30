@@ -5,15 +5,6 @@ status: unread
 ---
 # respecter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who respects someone or something; usually used in the negative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who respects someone or something; usually used in the negative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was no respecter of persons; he contradicted the richest burghers without hesitation; he took possession of the sacred elbow chair, which time out of mind had been the seat of sovereignty of the illustrious Ramm Rapelye."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"A company on the plains is no respecter of persons, and titles which might have caused offense before starting were received in good part, and worn gracefully thenceforward."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"For these two were old friends, old mates both at school and college, both thorough respecters of themselves and of each other, and what does not always follow, men who thoroughly enjoyed each other’s company."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who respects someone or something; usually used in the negative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who respects someone or something; usually used in the negative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was no respecter of persons; he contradicted the richest burghers without hesitation; he took possession of the sacred elbow chair, which time out of mind had been the seat of sovereignty of the illustrious Ramm Rapelye."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"A company on the plains is no respecter of persons, and titles which might have caused offense before starting were received in good part, and worn gracefully thenceforward."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"For these two were old friends, old mates both at school and college, both thorough respecters of themselves and of each other, and what does not always follow, men who thoroughly enjoyed each other’s company."*

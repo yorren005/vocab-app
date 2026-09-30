@@ -5,15 +5,6 @@ status: unread
 ---
 # parachute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rescue equipment consisting of a device that fills with air and retards your fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jump from an airplane and descend with a parachute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Parachute Rigger, World War Two, Hawaiian Air Depot, Hickam Field, Hawaii 1941-1948 Introduction In early 1995, the students at a middle school in a Northeastern city studied United States involvement in WW2."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Memoir I wrote about my WW2 work as a parachute rigger."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"To set the stage, I described the parachute's purpose, e.g., to lower a weight, be it a human being or an object (cargo) at a safe rate of descent from altitude to the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rescue equipment consisting of a device that fills with air and retards your fall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jump from an airplane and descend with a parachute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Parachute Rigger, World War Two, Hawaiian Air Depot, Hickam Field, Hawaii 1941-1948 Introduction In early 1995, the students at a middle school in a Northeastern city studied United States involvement in WW2."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Memoir I wrote about my WW2 work as a parachute rigger."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"To set the stage, I described the parachute's purpose, e.g., to lower a weight, be it a human being or an object (cargo) at a safe rate of descent from altitude to the ground."*

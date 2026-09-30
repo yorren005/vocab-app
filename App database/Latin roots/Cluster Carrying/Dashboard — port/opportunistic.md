@@ -5,13 +5,6 @@ status: unread
 ---
 # opportunistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opportunistic designates taking immediate advantage, often unethically, of any circumstance of possible benefit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opportunistic designates taking immediate advantage, often unethically, of any circumstance of possible benefit."*

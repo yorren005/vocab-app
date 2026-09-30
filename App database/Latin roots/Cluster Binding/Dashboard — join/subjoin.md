@@ -5,15 +5,6 @@ status: unread
 ---
 # subjoin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add to the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add to the end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And will you give yourself the trouble of carrying similar assurances to his creditors in Meryton, of whom I shall subjoin a list, according to his information?"*
-> - 📜 **James Joyce (*Ulysses*):** *"We subjoin a specimen which has been rendered into English by an eminent scholar whose name for the moment we are not at liberty to disclose though we believe that our readers will find the topical allusion rather more than an indication."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"This and the three examples which I subjoin were certainly Mary's."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add to the end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add to the end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And will you give yourself the trouble of carrying similar assurances to his creditors in Meryton, of whom I shall subjoin a list, according to his information?"*
+> - 📜 **James Joyce (*Ulysses*):** *"We subjoin a specimen which has been rendered into English by an eminent scholar whose name for the moment we are not at liberty to disclose though we believe that our readers will find the topical allusion rather more than an indication."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"This and the three examples which I subjoin were certainly Mary's."*

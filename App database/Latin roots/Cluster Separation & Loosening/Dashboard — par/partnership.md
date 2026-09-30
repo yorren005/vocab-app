@@ -5,15 +5,6 @@ status: unread
 ---
 # partnership
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The members of a business venture created by contract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Many times the two gentlemen who write with the ravenous little pens on the tissue-paper are seen prowling in the neighbourhood—shy of each other, their late partnership being dissolved."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It won’t do to have truth and justice on his side; he must have law and lawyers,” exclaims the old girl, apparently persuaded that the latter form a separate establishment and have dissolved partnership with truth and justice for ever and a day."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well, since the world is brightening for me, I want to show my sense of it by increasing your proportion in the partnership."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The members of a business venture created by contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Many times the two gentlemen who write with the ravenous little pens on the tissue-paper are seen prowling in the neighbourhood—shy of each other, their late partnership being dissolved."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It won’t do to have truth and justice on his side; he must have law and lawyers,” exclaims the old girl, apparently persuaded that the latter form a separate establishment and have dissolved partnership with truth and justice for ever and a day."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well, since the world is brightening for me, I want to show my sense of it by increasing your proportion in the partnership."*

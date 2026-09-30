@@ -5,13 +5,6 @@ status: unread
 ---
 # hippocratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hippocrates or the school of medicine that took his name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hippocrates or the school of medicine that took his name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His notes already made a formidable range of volumes, but the crowning task would be to condense these voluminous still-accumulating results and bring them, like the earlier vintage of Hippocratic books, to fit a little shelf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hippocrates or the school of medicine that took his name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hippocrates or the school of medicine that took his name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"His notes already made a formidable range of volumes, but the crowning task would be to condense these voluminous still-accumulating results and bring them, like the earlier vintage of Hippocratic books, to fit a little shelf."*

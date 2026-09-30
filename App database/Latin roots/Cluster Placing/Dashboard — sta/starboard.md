@@ -5,15 +5,6 @@ status: unread
 ---
 # starboard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right side of a ship or aircraft to someone who is aboard and facing the bow or nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn to the right, of helms or rudders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starboard gangway, there! side away to larboard—larboard gangway to starboard!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This boat had always been deemed one of the spare boats, though technically called the captain’s, on account of its hanging from the starboard quarter."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That lively cry upon this deadly calm might almost convert a better man.—Where away?” “Three points on the starboard bow, sir, and bringing down her breeze to us!” “Better and better, man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The right side of a ship or aircraft to someone who is aboard and facing the bow or nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn to the right, of helms or rudders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starboard gangway, there! side away to larboard—larboard gangway to starboard!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This boat had always been deemed one of the spare boats, though technically called the captain’s, on account of its hanging from the starboard quarter."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That lively cry upon this deadly calm might almost convert a better man.—Where away?” “Three points on the starboard bow, sir, and bringing down her breeze to us!” “Better and better, man."*

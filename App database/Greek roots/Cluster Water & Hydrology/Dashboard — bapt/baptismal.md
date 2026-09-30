@@ -5,15 +5,6 @@ status: unread
 ---
 # baptismal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to baptism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then you wind a rope round the stick and give the two ends of the rope to two persons who must either be brothers or have the same baptismal name."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ego non baptizo te in nomine patris, sed in nomine diaboli!” deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It must, even as a baptismal fire, so purge its members from self as to enable them to scale heights never as yet attained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to baptism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to baptism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then you wind a rope round the stick and give the two ends of the rope to two persons who must either be brothers or have the same baptismal name."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ego non baptizo te in nomine patris, sed in nomine diaboli!” deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It must, even as a baptismal fire, so purge its members from self as to enable them to scale heights never as yet attained."*

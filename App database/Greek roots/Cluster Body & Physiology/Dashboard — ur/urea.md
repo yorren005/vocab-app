@@ -5,13 +5,6 @@ status: unread
 ---
 # urea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble weakly basic nitrogenous compound CO(NH2)2 that is the chief solid component of mammalian urine and an end product of protein decomposition, is synthesized from carbon dioxide and ammonia, and is used especially in synthesis (as of resins and plastics) and in fertilizers and animal rations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermosetting synthetic resin made by condensing urea with formaldehyde.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urea designates a soluble weakly basic nitrogenous compound co(nh2)2 that is the chief solid component of mammalian urine and an end product of protein decomposition, is synthesized from carbon dioxide and ammonia, and is used especially in synthesis (as of resins and plastics) and in fertilizers and animal rations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble weakly basic nitrogenous compound CO(NH2)2 that is the chief solid component of mammalian urine and an end product of protein decomposition, is synthesized from carbon dioxide and ammonia, and is used especially in synthesis (as of resins and plastics) and in fertilizers and animal rations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermosetting synthetic resin made by condensing urea with formaldehyde.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urea designates a soluble weakly basic nitrogenous compound co(nh2)2 that is the chief solid component of mammalian urine and an end product of protein decomposition, is synthesized from carbon dioxide and ammonia, and is used especially in synthesis (as of resins and plastics) and in fertilizers and animal rations."*

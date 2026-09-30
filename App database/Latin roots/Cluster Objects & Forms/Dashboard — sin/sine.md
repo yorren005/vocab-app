@@ -5,15 +5,6 @@ status: unread
 ---
 # sine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Omne bene Sine poena Tempua est ludendi."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The meeting then adjourned _sine die_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor such fanatical phantasimes, such insociable and point-devise companions, such rackers of orthography, as to speak “dout” _sine_ “b”, when he should say “doubt”, “det” when he should pronounce “debt”—_d, e, b, t_, not _d, e, t_."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Omne bene Sine poena Tempua est ludendi."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The meeting then adjourned _sine die_."*

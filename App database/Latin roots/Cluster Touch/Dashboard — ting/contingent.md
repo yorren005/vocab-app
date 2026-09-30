@@ -5,15 +5,6 @@ status: unread
 ---
 # contingent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gathering of persons representative of some larger group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary military unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"And Friday's sales gave him just three hundred thalers with which to honor the widow's demand on Saturday, to pay funeral and contingent expenses."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Let us, then, look at this matter, along with some interesting items contingent."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Elections in Ireland, till of late, were regulated entirely by the discretion of the crown, and were seldom repeated, except on the accession of a new prince, or some other contingent event."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gathering of persons representative of some larger group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary military unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"And Friday's sales gave him just three hundred thalers with which to honor the widow's demand on Saturday, to pay funeral and contingent expenses."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Let us, then, look at this matter, along with some interesting items contingent."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Elections in Ireland, till of late, were regulated entirely by the discretion of the crown, and were seldom repeated, except on the accession of a new prince, or some other contingent event."*

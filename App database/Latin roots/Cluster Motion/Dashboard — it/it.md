@@ -5,15 +5,6 @@ status: unread
 ---
 # it
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, so its stands; and thus, I fear, at last Hume’s knavery will be the Duchess’ wrack, And her attainture will be Humphrey’s fall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each following day Became the next day’s master, till the last Made former wonders its."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear your disposition; That nature which contemns its origin Cannot be bordered certain in itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, so its stands; and thus, I fear, at last Hume’s knavery will be the Duchess’ wrack, And her attainture will be Humphrey’s fall."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each following day Became the next day’s master, till the last Made former wonders its."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear your disposition; That nature which contemns its origin Cannot be bordered certain in itself."*

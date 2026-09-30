@@ -5,14 +5,6 @@ status: unread
 ---
 # impulsion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A force that moves something along.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of applying force suddenly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It shows the possibilities derived from divine Mind, though it is said to be a gift whose endowment 88:30 is obtained from books or received from the impulsion of departed spirits."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In every case the elector has been an instrument, bound to obey a particular impulsion, and disobedience to which would be attended with infamy, and with every penalty which public indignation could inflict."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A force that moves something along.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of applying force suddenly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It shows the possibilities derived from divine Mind, though it is said to be a gift whose endowment 88:30 is obtained from books or received from the impulsion of departed spirits."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In every case the elector has been an instrument, bound to obey a particular impulsion, and disobedience to which would be attended with infamy, and with every penalty which public indignation could inflict."*

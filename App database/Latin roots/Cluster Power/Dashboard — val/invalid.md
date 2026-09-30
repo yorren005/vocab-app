@@ -5,15 +5,6 @@ status: unread
 ---
 # invalid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is incapacitated by a chronic illness or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force to retire, remove from active duty, as of firemen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The doctor's advice was to bring the young invalid to the hospital in Sils, where she would be well taken care of and he could see her every day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, and no one in whom he is interested can be an object of indifference to me.” We expressed our acknowledgments and sat down behind the door, where there was a lame invalid of a sofa."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, who had once been a beauty but was now a delicate high-nosed invalid suffering under a complication of disorders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is incapacitated by a chronic illness or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force to retire, remove from active duty, as of firemen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The doctor's advice was to bring the young invalid to the hospital in Sils, where she would be well taken care of and he could see her every day."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, and no one in whom he is interested can be an object of indifference to me.” We expressed our acknowledgments and sat down behind the door, where there was a lame invalid of a sofa."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, who had once been a beauty but was now a delicate high-nosed invalid suffering under a complication of disorders."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # affiliation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social or business relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of becoming formally connected or joined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Elated by magnificent success achieved at European Conference, development of affiliation with United Nations..."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I appeal to my brother Americans, for I have no right to appeal to anybody else; I cannot address the Fremont party, for I have no affiliation with them; I cannot address the Buchanan party, for my object is to destroy them if possible."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Let an unbiased study of present and prospective policies influence party affiliations, rather than love and hatred based upon a past forever dead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social or business relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of becoming formally connected or joined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Elated by magnificent success achieved at European Conference, development of affiliation with United Nations..."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I appeal to my brother Americans, for I have no right to appeal to anybody else; I cannot address the Fremont party, for I have no affiliation with them; I cannot address the Buchanan party, for my object is to destroy them if possible."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Let an unbiased study of present and prospective policies influence party affiliations, rather than love and hatred based upon a past forever dead."*

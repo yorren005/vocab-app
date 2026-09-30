@@ -5,15 +5,6 @@ status: unread
 ---
 # sufferance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Patient endurance especially of pain or distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to tolerate or accept people or situations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some villains of my court Are of consent and sufferance in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Patient endurance especially of pain or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to tolerate or accept people or situations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some villains of my court Are of consent and sufferance in this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # permit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document giving official permission to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a formal (usually written) authorization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He purposeth to Athens, whither, with what haste The weight we must convey with ’s will permit, We shall appear before him.—On there, pass along! [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You some permit To second ills with ills, each elder worse, And make them dread it, to the doers’ thrift."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, if that my fading breath permit And death approach not ere my tale be done."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document giving official permission to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a formal (usually written) authorization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He purposeth to Athens, whither, with what haste The weight we must convey with ’s will permit, We shall appear before him.—On there, pass along! [_Exeunt._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You some permit To second ills with ills, each elder worse, And make them dread it, to the doers’ thrift."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, if that my fading breath permit And death approach not ere my tale be done."*

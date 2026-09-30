@@ -5,13 +5,6 @@ status: unread
 ---
 # decipherable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily deciphered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Brought up from the wreck was a journal, so torn and mushed and pulped by the sea-water, with ink so run about, that scarcely any of it was decipherable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily deciphered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily deciphered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Brought up from the wreck was a journal, so torn and mushed and pulped by the sea-water, with ink so run about, that scarcely any of it was decipherable."*

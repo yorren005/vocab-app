@@ -5,13 +5,6 @@ status: unread
 ---
 # enterovirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterovirus designates any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterovirus designates any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system)."*

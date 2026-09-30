@@ -5,13 +5,6 @@ status: unread
 ---
 # maleate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleate designates a salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleate designates a salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation."*

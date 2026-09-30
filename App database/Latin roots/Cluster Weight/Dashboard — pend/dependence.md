@@ -5,15 +5,6 @@ status: unread
 ---
 # dependence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or being controlled by someone or something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, ne’ertheless, My spritely brethren, I propend to you In resolution to keep Helen still; For ’tis a cause that hath no mean dependence Upon our joint and several dignities."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"John Jarndyce I had perhaps less reason to be surprised than either of my companions, having never yet enjoyed an opportunity of thanking one who had been my benefactor and sole earthly dependence through so many years."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot, so young; known to so few, to be snatched off by a stranger without alliance or fortune; or rather sunk by him into a state of most wearing, anxious, youth-killing dependence!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or being controlled by someone or something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, ne’ertheless, My spritely brethren, I propend to you In resolution to keep Helen still; For ’tis a cause that hath no mean dependence Upon our joint and several dignities."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"John Jarndyce I had perhaps less reason to be surprised than either of my companions, having never yet enjoyed an opportunity of thanking one who had been my benefactor and sole earthly dependence through so many years."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot, so young; known to so few, to be snatched off by a stranger without alliance or fortune; or rather sunk by him into a state of most wearing, anxious, youth-killing dependence!"*

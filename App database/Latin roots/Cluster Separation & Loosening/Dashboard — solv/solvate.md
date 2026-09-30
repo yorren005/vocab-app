@@ -5,13 +5,6 @@ status: unread
 ---
 # solvate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by solvation (the combination of solvent molecules with molecules or ions of the solute).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause a solvation in (a substance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solvate designates a compound formed by solvation (the combination of solvent molecules with molecules or ions of the solute)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by solvation (the combination of solvent molecules with molecules or ions of the solute).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause a solvation in (a substance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solvate designates a compound formed by solvation (the combination of solvent molecules with molecules or ions of the solute)."*

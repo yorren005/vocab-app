@@ -5,15 +5,6 @@ status: unread
 ---
 # formally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With official authorization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a formal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, I prithee, Supply me with the habit, and instruct me How I may formally in person bear Like a true friar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, ask yonder knight in arms Both who he is and why he cometh hither Thus plated in habiliments of war, And formally, according to our law, Depose him in the justice of his cause."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is answerable for its being all correct about the next of kin and that the papers and effects will be formally taken possession of in due time and course."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With official authorization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a formal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, I prithee, Supply me with the habit, and instruct me How I may formally in person bear Like a true friar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, ask yonder knight in arms Both who he is and why he cometh hither Thus plated in habiliments of war, And formally, according to our law, Depose him in the justice of his cause."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is answerable for its being all correct about the next of kin and that the papers and effects will be formally taken possession of in due time and course."*

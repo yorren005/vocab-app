@@ -5,13 +5,6 @@ status: unread
 ---
 # bonete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in the andes in argentina (22,546 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the andes in argentina (22,546 feet high).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonete designates a mountain in the andes in argentina (22,546 feet high)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in the andes in argentina (22,546 feet high).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the andes in argentina (22,546 feet high).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonete designates a mountain in the andes in argentina (22,546 feet high)."*

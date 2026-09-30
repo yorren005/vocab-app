@@ -5,15 +5,6 @@ status: unread
 ---
 # naval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connected with or belonging to or used in a navy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connected with or belonging to or used in a navy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was his naval way of mentioning my eyes.” Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was his naval way of mentioning generally that I was an acquisition to any society."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “speaking in his figurative naval manner, that when you make pitch hot, you cannot make it too hot; and that if you only have to swab a plank, you should swab it as if Davy Jones were after you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connected with or belonging to or used in a navy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connected with or belonging to or used in a navy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was his naval way of mentioning my eyes.” Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was his naval way of mentioning generally that I was an acquisition to any society."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “speaking in his figurative naval manner, that when you make pitch hot, you cannot make it too hot; and that if you only have to swab a plank, you should swab it as if Davy Jones were after you."*

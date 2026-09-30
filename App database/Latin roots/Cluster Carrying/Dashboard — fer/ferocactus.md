@@ -5,13 +5,6 @@ status: unread
 ---
 # ferocactus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of nearly globular cacti of mexico and southwestern united states: barrel cacti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of nearly globular cacti of mexico and southwestern united states: barrel cacti.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferocactus designates genus of nearly globular cacti of mexico and southwestern united states: barrel cacti."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of nearly globular cacti of mexico and southwestern united states: barrel cacti.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of nearly globular cacti of mexico and southwestern united states: barrel cacti.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferocactus designates genus of nearly globular cacti of mexico and southwestern united states: barrel cacti."*

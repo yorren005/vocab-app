@@ -5,15 +5,6 @@ status: unread
 ---
 # atrophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size or wasting away of a body part or tissue; also : arrested development or loss of a part or organ incidental to the normal development or life of an animal or plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wasting away or progressive decline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This paralysis lasted, however, but a short time; for Tess’s energies returned with the atrophy of his, and she walked as fast as she was able past the barn and onward."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is best brought out, when we realize what he has made of Christian society, and contrast it with what the various religions have left or produced in other regions--the atrophy of human nature."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"We have quacks in religion, quacks in physic, quacks in law, quacks in politics, quacks in patriotism, quacks in government--High German quacks, that have blistered, sweated, bled, and purged the nation into an atrophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size or wasting away of a body part or tissue; also : arrested development or loss of a part or organ incidental to the normal development or life of an animal or plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wasting away or progressive decline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This paralysis lasted, however, but a short time; for Tess’s energies returned with the atrophy of his, and she walked as fast as she was able past the barn and onward."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is best brought out, when we realize what he has made of Christian society, and contrast it with what the various religions have left or produced in other regions--the atrophy of human nature."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"We have quacks in religion, quacks in physic, quacks in law, quacks in politics, quacks in patriotism, quacks in government--High German quacks, that have blistered, sweated, bled, and purged the nation into an atrophy."*

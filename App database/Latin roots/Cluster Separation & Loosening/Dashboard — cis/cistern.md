@@ -5,15 +5,6 @@ status: unread
 ---
 # cistern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sac or cavity containing fluid especially lymph or cerebrospinal fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tank that holds the water used to flush a toilet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our intercession, then, Must be to him that makes the camp a cistern Brimmed with the blood of men."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Ah, indeed!” and also, “Is that Black Bill behind the cistern?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sac or cavity containing fluid especially lymph or cerebrospinal fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tank that holds the water used to flush a toilet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our intercession, then, Must be to him that makes the camp a cistern Brimmed with the blood of men."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Ah, indeed!” and also, “Is that Black Bill behind the cistern?"*

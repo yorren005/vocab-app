@@ -5,15 +5,6 @@ status: unread
 ---
 # voluntarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of your own free will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of your own free will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should not be surprised if they all voluntarily abandoned the girl—yes, lover and all—instead of her abandoning them, supposing she remained at Chesney Wold under such circumstances.” “Well!” says Sir Leicester tremulously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The maltster, being now pacified, was even generous enough to voluntarily disparage in a slight degree the virtue of having lived a great many years, by mentioning that the cup they were drinking out of was three years older than he."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From time immemorial the fakir of India has been able voluntarily to induce such states in himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of your own free will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of your own free will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I should not be surprised if they all voluntarily abandoned the girl—yes, lover and all—instead of her abandoning them, supposing she remained at Chesney Wold under such circumstances.” “Well!” says Sir Leicester tremulously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The maltster, being now pacified, was even generous enough to voluntarily disparage in a slight degree the virtue of having lived a great many years, by mentioning that the cup they were drinking out of was three years older than he."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From time immemorial the fakir of India has been able voluntarily to induce such states in himself."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # matriarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female head of a family or tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feisty older woman with a big bosom (as drawn in cartoons).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriarch designates a female head of a family or tribe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female head of a family or tribe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feisty older woman with a big bosom (as drawn in cartoons).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriarch designates a female head of a family or tribe."*

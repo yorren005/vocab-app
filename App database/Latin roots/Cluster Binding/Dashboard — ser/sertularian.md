@@ -5,13 +5,6 @@ status: unread
 ---
 # sertularian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feathery colony of long-branched stems bearing stalkless paired polyps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feathery colony of long-branched stems bearing stalkless paired polyps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sertularian designates feathery colony of long-branched stems bearing stalkless paired polyps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feathery colony of long-branched stems bearing stalkless paired polyps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feathery colony of long-branched stems bearing stalkless paired polyps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sertularian designates feathery colony of long-branched stems bearing stalkless paired polyps."*

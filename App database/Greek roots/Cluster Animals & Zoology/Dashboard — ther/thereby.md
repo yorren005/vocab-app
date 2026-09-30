@@ -5,15 +5,6 @@ status: unread
 ---
 # thereby
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By that means or because of that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By that means or because of that.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it were so, that our request did tend To save the Romans, thereby to destroy The Volsces whom you serve, you might condemn us As poisonous of your honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To die, is to be a counterfeit, for he is but the counterfeit of a man who hath not the life of a man: but to counterfeit dying, when a man thereby liveth, is to be no counterfeit, but the true and perfect image of life indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, York; if we conclude a peace, It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By that means or because of that.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By that means or because of that.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it were so, that our request did tend To save the Romans, thereby to destroy The Volsces whom you serve, you might condemn us As poisonous of your honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To die, is to be a counterfeit, for he is but the counterfeit of a man who hath not the life of a man: but to counterfeit dying, when a man thereby liveth, is to be no counterfeit, but the true and perfect image of life indeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, York; if we conclude a peace, It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby."*

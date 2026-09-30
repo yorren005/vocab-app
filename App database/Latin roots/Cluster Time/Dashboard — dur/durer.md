@@ -5,13 +5,6 @@ status: unread
 ---
 # durer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading german painter and engraver of the renaissance (1471-1528).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leading german painter and engraver of the renaissance (1471-1528).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I always consider an old English family as well worth studying as a collection of Holbein’s portraits or Albert Durer’s prints."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading german painter and engraver of the renaissance (1471-1528).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leading german painter and engraver of the renaissance (1471-1528).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I always consider an old English family as well worth studying as a collection of Holbein’s portraits or Albert Durer’s prints."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adhere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible or in accordance with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow through or carry out a plan without deviation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor time nor place Did then adhere, and yet you would make both: They have made themselves, and that their fitness now Does unmake you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But they do no more adhere and keep place together than the Hundredth Psalm to the tune of “Greensleeves.” What tempest, I trow, threw this whale, with so many tuns of oil in his belly, ashore at Windsor?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You adhere to that resolution?” Reader, do you know, as I do, what terror those cold people can put into the ice of their questions?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible or in accordance with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow through or carry out a plan without deviation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor time nor place Did then adhere, and yet you would make both: They have made themselves, and that their fitness now Does unmake you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But they do no more adhere and keep place together than the Hundredth Psalm to the tune of “Greensleeves.” What tempest, I trow, threw this whale, with so many tuns of oil in his belly, ashore at Windsor?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You adhere to that resolution?” Reader, do you know, as I do, what terror those cold people can put into the ice of their questions?"*

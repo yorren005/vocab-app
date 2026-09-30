@@ -5,15 +5,6 @@ status: unread
 ---
 # abstinence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of abstaining (especially from alcohol).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act or practice of refraining from indulging an appetite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Refrain tonight, And that shall lend a kind of easiness To the next abstinence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your stomachs are too young, And abstinence engenders maladies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of abstaining (especially from alcohol).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act or practice of refraining from indulging an appetite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Refrain tonight, And that shall lend a kind of easiness To the next abstinence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your stomachs are too young, And abstinence engenders maladies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # leucorrhea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discharge of white mucous material from the vagina; often an indication of infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discharge of white mucous material from the vagina; often an indication of infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucorrhea designates discharge of white mucous material from the vagina; often an indication of infection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discharge of white mucous material from the vagina; often an indication of infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discharge of white mucous material from the vagina; often an indication of infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucorrhea designates discharge of white mucous material from the vagina; often an indication of infection."*

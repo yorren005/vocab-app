@@ -5,15 +5,6 @@ status: unread
 ---
 # lager
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A camp defended by a circular formation of wagons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in march or april and matured until september.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Roumanians, and others, Who now are standing pat Will call the allies brothers When lager beer goes flat."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Wine & Spirits--Lager Beer, Whisky, Sherry, Port."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"F----h, and enjoying our cigarettes and lager beer, when one of the "Houris" of Paradise arrived on the scene, and was formally introduced to us by the hostess as Miss G----e."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A camp defended by a circular formation of wagons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in march or april and matured until september.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Roumanians, and others, Who now are standing pat Will call the allies brothers When lager beer goes flat."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Wine & Spirits--Lager Beer, Whisky, Sherry, Port."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"F----h, and enjoying our cigarettes and lager beer, when one of the "Houris" of Paradise arrived on the scene, and was formally introduced to us by the hostess as Miss G----e."*

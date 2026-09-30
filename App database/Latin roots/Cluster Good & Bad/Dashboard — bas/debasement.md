@@ -5,14 +5,6 @@ status: unread
 ---
 # debasement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being mixed with extraneous material; the product of adulterating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing to a lower state (a less respected state).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Or, to speak in the fashionable language of the adversaries to the Constitution, will it court the elevation of “the wealthy and the well-born,” to the exclusion and debasement of all the rest of the society?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I know few things more affecting than that timorous debasement and self-humiliation of a woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being mixed with extraneous material; the product of adulterating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing to a lower state (a less respected state).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Or, to speak in the fashionable language of the adversaries to the Constitution, will it court the elevation of “the wealthy and the well-born,” to the exclusion and debasement of all the rest of the society?"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I know few things more affecting than that timorous debasement and self-humiliation of a woman."*

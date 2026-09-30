@@ -5,13 +5,6 @@ status: unread
 ---
 # immunodeficiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunodeficiency designates immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunodeficiency designates immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced."*

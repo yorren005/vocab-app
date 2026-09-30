@@ -5,15 +5,6 @@ status: unread
 ---
 # insult
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rude expression intended to offend or hurt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately offensive act or something producing the effect of deliberate disrespect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who might be your mother, That you insult, exult, and all at once, Over the wretched?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath that poor monarch taught thee to insult?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy knife, I will insult on him, Flattering myself as if it were the Moor Come hither purposely to poison me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rude expression intended to offend or hurt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately offensive act or something producing the effect of deliberate disrespect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who might be your mother, That you insult, exult, and all at once, Over the wretched?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath that poor monarch taught thee to insult?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy knife, I will insult on him, Flattering myself as if it were the Moor Come hither purposely to poison me."*

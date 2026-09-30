@@ -5,15 +5,6 @@ status: unread
 ---
 # bare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lay bare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His left cheek is a cheek of two pile and a half, but his right cheek is worn bare."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thorny point Of bare distress hath ta’en from me the show Of smooth civility; yet am I inland bred And know some nurture."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lay bare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His left cheek is a cheek of two pile and a half, but his right cheek is worn bare."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thorny point Of bare distress hath ta’en from me the show Of smooth civility; yet am I inland bred And know some nurture."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor."*

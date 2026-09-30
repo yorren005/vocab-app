@@ -5,15 +5,6 @@ status: unread
 ---
 # alleviation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that comes when something burdensome is removed or reduced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing something unpleasant (as pain or annoyance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her presence was at first a strain upon Tess, but afterwards an alleviation."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"After all, thousands of men of all ranks have had to bear the same trial and with much less alleviation."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He sought eagerly for some slight alleviation of despair in hard literary labor; but to face the outside world was for the present impossible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that comes when something burdensome is removed or reduced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing something unpleasant (as pain or annoyance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her presence was at first a strain upon Tess, but afterwards an alleviation."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"After all, thousands of men of all ranks have had to bear the same trial and with much less alleviation."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He sought eagerly for some slight alleviation of despair in hard literary labor; but to face the outside world was for the present impossible."*

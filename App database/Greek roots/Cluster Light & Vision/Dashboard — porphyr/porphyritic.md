@@ -5,13 +5,6 @@ status: unread
 ---
 # porphyritic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to porphyry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having distinct crystals (as of feldspar) in a relatively fine-grained base.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyritic designates of or relating to porphyry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to porphyry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having distinct crystals (as of feldspar) in a relatively fine-grained base.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyritic designates of or relating to porphyry."*

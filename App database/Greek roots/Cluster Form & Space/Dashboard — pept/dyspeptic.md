@@ -5,15 +5,6 @@ status: unread
 ---
 # dyspeptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indigestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ill humor : disgruntlement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A hypochondriacal tendency had shown itself in the banker’s constitution of late; and a lack of sleep, which was really only a slight exaggeration of an habitual dyspeptic symptom, had been dwelt on by him as a sign of threatening insanity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indigestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ill humor : disgruntlement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A hypochondriacal tendency had shown itself in the banker’s constitution of late; and a lack of sleep, which was really only a slight exaggeration of an habitual dyspeptic symptom, had been dwelt on by him as a sign of threatening insanity."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters."*

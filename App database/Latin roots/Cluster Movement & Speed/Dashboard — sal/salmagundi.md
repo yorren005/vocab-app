@@ -5,13 +5,6 @@ status: unread
 ---
 # salmagundi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooked meats and eggs and vegetables usually arranged in rows around the plate and dressed with a salad dressing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmagundi designates a collection containing a variety of sorts of things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooked meats and eggs and vegetables usually arranged in rows around the plate and dressed with a salad dressing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmagundi designates a collection containing a variety of sorts of things."*

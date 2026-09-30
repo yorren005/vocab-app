@@ -5,15 +5,6 @@ status: unread
 ---
 # maltster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker of malt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maker of malt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come in, shepherd; sure ye be welcome, though we don’t know yer name.” “Gabriel Oak, that’s my name, neighbours.” The ancient maltster sitting in the midst turned at this—his turning being as the turning of a rusty crane."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Knowed yer grandfather for years and years!” continued the maltster, the words coming forth of their own accord as if the momentum previously imparted had been sufficient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker of malt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maker of malt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come in, shepherd; sure ye be welcome, though we don’t know yer name.” “Gabriel Oak, that’s my name, neighbours.” The ancient maltster sitting in the midst turned at this—his turning being as the turning of a rusty crane."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Knowed yer grandfather for years and years!” continued the maltster, the words coming forth of their own accord as if the momentum previously imparted had been sufficient."*

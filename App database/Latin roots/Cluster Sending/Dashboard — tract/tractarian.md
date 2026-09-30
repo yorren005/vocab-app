@@ -5,13 +5,6 @@ status: unread
 ---
 # tractarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of tractarianism and supporter of the oxford movement (which was expounded in pamphlets called `tracts for the times').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A follower of tractarianism and supporter of the oxford movement (which was expounded in pamphlets called `tracts for the times').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He himself knew that, in reality, the confused beliefs which she held, apparently imbibed in childhood, were, if anything, Tractarian as to phraseology, and Pantheistic as to essence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of tractarianism and supporter of the oxford movement (which was expounded in pamphlets called `tracts for the times').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A follower of tractarianism and supporter of the oxford movement (which was expounded in pamphlets called `tracts for the times').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He himself knew that, in reality, the confused beliefs which she held, apparently imbibed in childhood, were, if anything, Tractarian as to phraseology, and Pantheistic as to essence."*

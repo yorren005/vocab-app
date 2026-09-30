@@ -5,15 +5,6 @@ status: unread
 ---
 # creative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability or power to create.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting construction or creation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When he emerged from them he was fifty-four years of age, he had passed beyond the time of life when his creative powers were at their freshest, and the general habits of his life and lines of his activity had become settled and stereotyped."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley, though jarred by Byron's worldliness and pride, was impressed by his creative power, and the days they spent sailing on the lake, and wandering in a region haunted by the spirit of Rousseau, were fruitful."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw, with the creative eye of fancy, the streets of that gay bathing-place covered with officers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability or power to create.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting construction or creation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"When he emerged from them he was fifty-four years of age, he had passed beyond the time of life when his creative powers were at their freshest, and the general habits of his life and lines of his activity had become settled and stereotyped."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley, though jarred by Byron's worldliness and pride, was impressed by his creative power, and the days they spent sailing on the lake, and wandering in a region haunted by the spirit of Rousseau, were fruitful."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw, with the creative eye of fancy, the streets of that gay bathing-place covered with officers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # germination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby seeds or spores sprout and begin to grow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The origin of some development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A particularly fine spring came round, and the stir of germination was almost audible in the buds; it moved her, as it moved the wild animals, and made her passionate to go."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During winter they remain in a state of repose, but in the following spring the faculty of germination developes itself."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Bauer was botanical draughtsman to George III., and his exquisite drawings, both of the germination of wheat and the fungi which infest it, are marvels of artistic skill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby seeds or spores sprout and begin to grow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The origin of some development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A particularly fine spring came round, and the stir of germination was almost audible in the buds; it moved her, as it moved the wild animals, and made her passionate to go."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"During winter they remain in a state of repose, but in the following spring the faculty of germination developes itself."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Bauer was botanical draughtsman to George III., and his exquisite drawings, both of the germination of wheat and the fungi which infest it, are marvels of artistic skill."*

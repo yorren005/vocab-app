@@ -5,15 +5,6 @@ status: unread
 ---
 # sentimental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to or marked by sentiment or sentimentality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Effusively or insincerely emotional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy looked at him with a sentimental air, “from boyhood’s hour.” Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The idea of Louisa Musgrove turned into a person of literary taste, and sentimental reflection was amusing, but she had no doubt of its being so."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to or marked by sentiment or sentimentality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Effusively or insincerely emotional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy looked at him with a sentimental air, “from boyhood’s hour.” Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The idea of Louisa Musgrove turned into a person of literary taste, and sentimental reflection was amusing, but she had no doubt of its being so."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*

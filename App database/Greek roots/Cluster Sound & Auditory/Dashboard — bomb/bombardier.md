@@ -5,13 +5,6 @@ status: unread
 ---
 # bombardier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noncommissioned officer in the british artillery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of a bomber crew responsible for using the bombsight and releasing the bombs on the target.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombardier designates a noncommissioned officer in the british artillery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noncommissioned officer in the british artillery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of a bomber crew responsible for using the bombsight and releasing the bombs on the target.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombardier designates a noncommissioned officer in the british artillery."*

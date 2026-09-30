@@ -5,13 +5,6 @@ status: unread
 ---
 # amphetamine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphetamine designates a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphetamine designates a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression."*

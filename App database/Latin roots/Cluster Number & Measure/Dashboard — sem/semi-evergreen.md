@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-evergreen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a plant that is incompletely evergreen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a plant that is incompletely evergreen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-evergreen designates of a plant that is incompletely evergreen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a plant that is incompletely evergreen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a plant that is incompletely evergreen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-evergreen designates of a plant that is incompletely evergreen."*

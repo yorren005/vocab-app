@@ -5,13 +5,6 @@ status: unread
 ---
 # convolute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*

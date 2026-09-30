@@ -5,15 +5,6 @@ status: unread
 ---
 # satiric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposing human folly to ridicule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposing human folly to ridicule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"From Walls besmear'd with stinking Ordure, By Swine who nee'r provide Bumfodder _Libera Nos_---- (Pt. 4, p. 7) Other types of graffiti, however, vary from the very earnest expression of affection to the nonexcrementally satiric."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"This was a rule indeed which only added to the satiric effect of my being plied with the supposition that he might at any moment be among us."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"If you say that to pour scorn on me I don’t care.” “I don’t say it to pour scorn on you; I’m very much struck with it.” “You’re more satiric than ever, but I advise you not to laugh at Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposing human folly to ridicule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposing human folly to ridicule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"From Walls besmear'd with stinking Ordure, By Swine who nee'r provide Bumfodder _Libera Nos_---- (Pt. 4, p. 7) Other types of graffiti, however, vary from the very earnest expression of affection to the nonexcrementally satiric."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"This was a rule indeed which only added to the satiric effect of my being plied with the supposition that he might at any moment be among us."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"If you say that to pour scorn on me I don’t care.” “I don’t say it to pour scorn on you; I’m very much struck with it.” “You’re more satiric than ever, but I advise you not to laugh at Mr."*

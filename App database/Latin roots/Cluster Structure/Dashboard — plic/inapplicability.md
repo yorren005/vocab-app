@@ -5,13 +5,6 @@ status: unread
 ---
 # inapplicability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irrelevance by virtue of being inapplicable to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irrelevance by virtue of being inapplicable to the matter at hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inapplicability designates irrelevance by virtue of being inapplicable to the matter at hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irrelevance by virtue of being inapplicable to the matter at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irrelevance by virtue of being inapplicable to the matter at hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inapplicability designates irrelevance by virtue of being inapplicable to the matter at hand."*

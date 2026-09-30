@@ -5,13 +5,6 @@ status: unread
 ---
 # amphibrach
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibrach designates a metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibrach designates a metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse."*

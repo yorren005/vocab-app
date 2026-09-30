@@ -5,15 +5,6 @@ status: unread
 ---
 # intervening
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be placed or located between other things or extend between spaces and events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It wandered back to my godmother’s house and came along the intervening track, raising up shadowy speculations which had sometimes trembled there in the dark as to what knowledge Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They came in yet greater volumes, and indolently crept across the intervening valleys, and around the withered papery flags of the moor and river brinks."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the weeks intervening between the night of this conversation and Christmas day began perceptibly to diminish, her anxiety and perplexity increased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be placed or located between other things or extend between spaces and events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It wandered back to my godmother’s house and came along the intervening track, raising up shadowy speculations which had sometimes trembled there in the dark as to what knowledge Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They came in yet greater volumes, and indolently crept across the intervening valleys, and around the withered papery flags of the moor and river brinks."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the weeks intervening between the night of this conversation and Christmas day began perceptibly to diminish, her anxiety and perplexity increased."*

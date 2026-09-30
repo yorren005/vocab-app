@@ -5,15 +5,6 @@ status: unread
 ---
 # provocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfriendly behavior that causes anger or resentment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that incites or provokes; a means of arousing or stirring to action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the sky rain potatoes, let it thunder to the tune of “Greensleeves”, hail kissing-comfits and snow eringoes; let there come a tempest of provocation, I will shelter me here. [_He embraces her._] MISTRESS FORD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What an eye she has! methinks it sounds a parley to provocation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The learned gentleman who weeps by the pint on the smallest provocation has not shed a tear these six weeks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfriendly behavior that causes anger or resentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that incites or provokes; a means of arousing or stirring to action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the sky rain potatoes, let it thunder to the tune of “Greensleeves”, hail kissing-comfits and snow eringoes; let there come a tempest of provocation, I will shelter me here. [_He embraces her._] MISTRESS FORD."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What an eye she has! methinks it sounds a parley to provocation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The learned gentleman who weeps by the pint on the smallest provocation has not shed a tear these six weeks."*

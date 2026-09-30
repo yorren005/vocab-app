@@ -5,14 +5,6 @@ status: unread
 ---
 # revivalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preacher of the christian gospel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preacher of the christian gospel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You will soon be going about like the converted, and the revivalist, warning people against all the sins of which you have grown tired."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"It slays the doctrinaire and makes a red-hot revivalist out of him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preacher of the christian gospel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preacher of the christian gospel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You will soon be going about like the converted, and the revivalist, warning people against all the sins of which you have grown tired."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"It slays the doctrinaire and makes a red-hot revivalist out of him."*

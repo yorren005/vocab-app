@@ -5,13 +5,6 @@ status: unread
 ---
 # propenal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pungent colorless unsaturated liquid aldehyde made from propene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pungent colorless unsaturated liquid aldehyde made from propene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propenal designates a pungent colorless unsaturated liquid aldehyde made from propene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pungent colorless unsaturated liquid aldehyde made from propene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pungent colorless unsaturated liquid aldehyde made from propene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propenal designates a pungent colorless unsaturated liquid aldehyde made from propene."*

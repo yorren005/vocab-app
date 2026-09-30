@@ -5,15 +5,6 @@ status: unread
 ---
 # problematical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making great mental demands; hard to comprehend or solve or believe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The conversation seemed to imply that the issue was problematical, and that a majority for Tyke was not so certain as had been generally supposed."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, it turned out to be one of those problematical whales that seem to dry up and die with a sort of prodigious dyspepsia, or indigestion; leaving their defunct bodies almost entirely bankrupt of anything like oil."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Standing armies, it is said, are not provided against in the new Constitution; and it is therefore inferred that they may exist under it.[1] Their existence, however, from the very terms of the proposition, is, at most, problematical and uncertain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making great mental demands; hard to comprehend or solve or believe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The conversation seemed to imply that the issue was problematical, and that a majority for Tyke was not so certain as had been generally supposed."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, it turned out to be one of those problematical whales that seem to dry up and die with a sort of prodigious dyspepsia, or indigestion; leaving their defunct bodies almost entirely bankrupt of anything like oil."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Standing armies, it is said, are not provided against in the new Constitution; and it is therefore inferred that they may exist under it.[1] Their existence, however, from the very terms of the proposition, is, at most, problematical and uncertain."*

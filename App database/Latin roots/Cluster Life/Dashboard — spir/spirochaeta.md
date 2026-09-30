@@ -5,13 +5,6 @@ status: unread
 ---
 # spirochaeta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochaeta designates the type genus of the family spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochaeta designates the type genus of the family spirochaetaceae; a bacterium that is flexible, undulating, and chiefly aquatic."*

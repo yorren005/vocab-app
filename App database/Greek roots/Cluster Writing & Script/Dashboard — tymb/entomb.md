@@ -5,15 +5,6 @@ status: unread
 ---
 # entomb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To deposit in or as if in a tomb : bury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To serve as a tomb for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t night’s predominance, or the day’s shame, That darkness does the face of earth entomb, When living light should kiss it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You mocking birds,” quoth she, “your tunes entomb Within your hollow-swelling feathered breasts, And in my hearing be you mute and dumb; My restless discord loves no stops nor rests."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But, in order that it might not close of itself and entomb them, the portal was blocked open with stones found in the passage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deposit in or as if in a tomb : bury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To serve as a tomb for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t night’s predominance, or the day’s shame, That darkness does the face of earth entomb, When living light should kiss it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You mocking birds,” quoth she, “your tunes entomb Within your hollow-swelling feathered breasts, And in my hearing be you mute and dumb; My restless discord loves no stops nor rests."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But, in order that it might not close of itself and entomb them, the portal was blocked open with stones found in the passage."*

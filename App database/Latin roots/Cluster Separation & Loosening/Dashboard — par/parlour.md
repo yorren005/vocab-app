@@ -5,15 +5,6 @@ status: unread
 ---
 # parlour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reception room in an inn or club where visitors can be received.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a private house or establishment where people can sit and talk and relax.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sit conferring by the parlour fire."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One sunny afternoon when I had come home from school with my books and portfolio, watching my long shadow at my side, and as I was gliding upstairs to my room as usual, my godmother looked out of the parlour-door and called me back."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found Miss Jellyby trying to warm herself at the fire in the writing-room, which Priscilla was then lighting with a smutty parlour candlestick, throwing the candle in to make it burn better."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reception room in an inn or club where visitors can be received.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a private house or establishment where people can sit and talk and relax.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sit conferring by the parlour fire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"One sunny afternoon when I had come home from school with my books and portfolio, watching my long shadow at my side, and as I was gliding upstairs to my room as usual, my godmother looked out of the parlour-door and called me back."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We found Miss Jellyby trying to warm herself at the fire in the writing-room, which Priscilla was then lighting with a smutty parlour candlestick, throwing the candle in to make it burn better."*

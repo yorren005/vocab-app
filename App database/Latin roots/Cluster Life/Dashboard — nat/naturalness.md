@@ -5,15 +5,6 @@ status: unread
 ---
 # naturalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being natural or based on natural principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of innocent naivete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is far more natural; and that his followers accepted this naturalness, and drew him so, and gave his teaching as he gave it, is a fresh pledge of the truthfulness of the Gospels."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That moment of naturalness was the crystallizing feather-touch: it shook flirtation into love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being natural or based on natural principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of innocent naivete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is far more natural; and that his followers accepted this naturalness, and drew him so, and gave his teaching as he gave it, is a fresh pledge of the truthfulness of the Gospels."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That moment of naturalness was the crystallizing feather-touch: it shook flirtation into love."*

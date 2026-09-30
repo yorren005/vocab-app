@@ -5,13 +5,6 @@ status: unread
 ---
 # chromatophore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pigment-bearing cell; especially : a cell (such as a melanophore) of an animal integument capable of causing integumentary color changes by expanding or contracting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organelle of photosynthesis in photosynthetic bacteria (such as the cyanobacteria); broadly : chromoplast, chloroplast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatophore designates a pigment-bearing cell; especially : a cell (such as a melanophore) of an animal integument capable of causing integumentary color changes by expanding or contracting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pigment-bearing cell; especially : a cell (such as a melanophore) of an animal integument capable of causing integumentary color changes by expanding or contracting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organelle of photosynthesis in photosynthetic bacteria (such as the cyanobacteria); broadly : chromoplast, chloroplast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatophore designates a pigment-bearing cell; especially : a cell (such as a melanophore) of an animal integument capable of causing integumentary color changes by expanding or contracting."*

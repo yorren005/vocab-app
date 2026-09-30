@@ -5,13 +5,6 @@ status: unread
 ---
 # tracheids
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheids designates a long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheids designates a long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls."*

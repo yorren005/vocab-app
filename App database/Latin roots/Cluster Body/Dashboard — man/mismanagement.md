@@ -5,15 +5,6 @@ status: unread
 ---
 # mismanagement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management that is careless or inefficient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management that is careless or inefficient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Here had been grievous mismanagement; but, bad as it was, he gradually grew to feel that it had not been the most direful mistake in his plan of education."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"He saw them "tried long and long by hopelessness, mismanagement, defeat; advancing unhesitatingly through incredible slaughter; sinewy with unconquerable resolution."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They are his chief advisers in regard to the distribution of places, as well as in the higher affairs of State, and the discredit of any mismanagement on their part falls upon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Management that is careless or inefficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management that is careless or inefficient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Here had been grievous mismanagement; but, bad as it was, he gradually grew to feel that it had not been the most direful mistake in his plan of education."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"He saw them "tried long and long by hopelessness, mismanagement, defeat; advancing unhesitatingly through incredible slaughter; sinewy with unconquerable resolution."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They are his chief advisers in regard to the distribution of places, as well as in the higher affairs of State, and the discredit of any mismanagement on their part falls upon him."*

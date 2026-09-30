@@ -5,14 +5,6 @@ status: unread
 ---
 # phonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the phonic method of teaching reading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"How was a glyphic comparison of the phonic symbols of both languages made in substantiation of the oral comparison?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"No, I would _spell every word out._ I will insert the alphabet here as I find it in Burnz’s Phonic Shorthand. (Figure 1) It is arranged__ on the basis of Isaac Pitman’s _Phonography_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the phonic method of teaching reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"How was a glyphic comparison of the phonic symbols of both languages made in substantiation of the oral comparison?"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"No, I would _spell every word out._ I will insert the alphabet here as I find it in Burnz’s Phonic Shorthand. (Figure 1) It is arranged__ on the basis of Isaac Pitman’s _Phonography_."*

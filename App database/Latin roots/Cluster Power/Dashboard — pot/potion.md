@@ -5,15 +5,6 @@ status: unread
 ---
 # potion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal or magical or poisonous beverage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal or magical or poisonous beverage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, thou incestuous, murderous, damned Dane, Drink off this potion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st like a physician, Helicanus, That ministers a potion unto me That thou wouldst tremble to receive thyself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal or magical or poisonous beverage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal or magical or poisonous beverage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, thou incestuous, murderous, damned Dane, Drink off this potion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st like a physician, Helicanus, That ministers a potion unto me That thou wouldst tremble to receive thyself."*

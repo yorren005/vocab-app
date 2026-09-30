@@ -5,13 +5,6 @@ status: unread
 ---
 # chondriosome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organelle containing enzymes responsible for producing energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organelle containing enzymes responsible for producing energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondriosome designates an organelle containing enzymes responsible for producing energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organelle containing enzymes responsible for producing energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organelle containing enzymes responsible for producing energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondriosome designates an organelle containing enzymes responsible for producing energy."*

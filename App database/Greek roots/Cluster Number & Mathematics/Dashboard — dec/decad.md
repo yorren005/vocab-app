@@ -5,15 +5,6 @@ status: unread
 ---
 # decad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Five decades hardly modified the cut of a gaiter, the embroidery of a smock-frock, by the breadth of a hair."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Turned always away at the city gates of Keijo, where I sought Chong Mong-ju, we wandered on, through seasons and decades of seasons, across Cho-Sen, whose every inch of road was an old story to our sandals."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This movement, therefore, toward the consolidation of smaller into larger farms is likely to continue in many communities for several decades."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dec.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Five decades hardly modified the cut of a gaiter, the embroidery of a smock-frock, by the breadth of a hair."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Turned always away at the city gates of Keijo, where I sought Chong Mong-ju, we wandered on, through seasons and decades of seasons, across Cho-Sen, whose every inch of road was an old story to our sandals."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This movement, therefore, toward the consolidation of smaller into larger farms is likely to continue in many communities for several decades."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # enterprising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by imagination, initiative, and readiness to undertake new projects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by imagination, initiative, and readiness to undertake new projects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, the second boy, is the most enterprising and humorous of the family; whereas, Lippo, another boy, is the soul of obedience and formality."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt with Lux and his enterprising sister Clevi were at the extreme front."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"They are the "noble Chairmen" who lend their names for a consideration to any enterprising company which may be speculating in Liberty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by imagination, initiative, and readiness to undertake new projects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by imagination, initiative, and readiness to undertake new projects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, the second boy, is the most enterprising and humorous of the family; whereas, Lippo, another boy, is the soul of obedience and formality."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt with Lux and his enterprising sister Clevi were at the extreme front."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"They are the "noble Chairmen" who lend their names for a consideration to any enterprising company which may be speculating in Liberty."*

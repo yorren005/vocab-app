@@ -5,13 +5,6 @@ status: unread
 ---
 # anvers
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anvers designates a busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anvers designates a busy port and financial center in northern belgium on the scheldt river; it has long been a center for the diamond industry and the first stock exchange was opened there in 1460."*

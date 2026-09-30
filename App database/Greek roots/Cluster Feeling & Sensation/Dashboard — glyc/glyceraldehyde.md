@@ -5,13 +5,6 @@ status: unread
 ---
 # glyceraldehyde
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet crystalline aldehyde formed by the breakdown of sugars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet crystalline aldehyde formed by the breakdown of sugars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyceraldehyde designates a sweet crystalline aldehyde formed by the breakdown of sugars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet crystalline aldehyde formed by the breakdown of sugars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet crystalline aldehyde formed by the breakdown of sugars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyceraldehyde designates a sweet crystalline aldehyde formed by the breakdown of sugars."*

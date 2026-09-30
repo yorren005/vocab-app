@@ -5,15 +5,6 @@ status: unread
 ---
 # octagonal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like an octagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like an octagon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the middle of the building an ugly flat-topped octagonal tower ascended against the east horizon, and viewed from this spot, on its shady side and against the light, it seemed the one blot on the city’s beauty."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My inn had once been a part of an ancient ecclesiastical house, and I dined in a little octagonal common-room, like a font."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He went towards the little, pearl-coloured octagonal stand that had always looked to him like the work of some strange Egyptian bees that wrought in silver, and taking up the volume, flung himself into an arm-chair and began to turn over the leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like an octagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like an octagon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the middle of the building an ugly flat-topped octagonal tower ascended against the east horizon, and viewed from this spot, on its shady side and against the light, it seemed the one blot on the city’s beauty."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My inn had once been a part of an ancient ecclesiastical house, and I dined in a little octagonal common-room, like a font."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He went towards the little, pearl-coloured octagonal stand that had always looked to him like the work of some strange Egyptian bees that wrought in silver, and taking up the volume, flung himself into an arm-chair and began to turn over the leaves."*

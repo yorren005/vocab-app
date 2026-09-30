@@ -5,15 +5,6 @@ status: unread
 ---
 # rotting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the process of decay caused by bacterial or fungal action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though mean and mighty rotting Together have one dust, yet reverence, That angel of the world, doth make distinction Of place ’tween high and low."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the meantime, the place became dilapidated, the wind whistled through the cracked walls, the rain fell through the broken roof, the weeds choked the passage to the rotting door."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I listened for a few moments, and in the musty rotting silence of the house believed that I could hear the murmur of their young voices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the process of decay caused by bacterial or fungal action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though mean and mighty rotting Together have one dust, yet reverence, That angel of the world, doth make distinction Of place ’tween high and low."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the meantime, the place became dilapidated, the wind whistled through the cracked walls, the rain fell through the broken roof, the weeds choked the passage to the rotting door."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I listened for a few moments, and in the musty rotting silence of the house believed that I could hear the murmur of their young voices."*

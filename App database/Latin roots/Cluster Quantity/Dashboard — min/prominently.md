@@ -5,15 +5,6 @@ status: unread
 ---
 # prominently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prominent way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prominent way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I think it cannot be too prominently kept before the whole establishment."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A square box with a domed top figures prominently at the fair."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certainly the fires are often interpreted in the latter way by the persons who light them; and this purgative use of the element comes out very prominently, as we have seen, in the general expulsion of demons from towns and villages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prominent way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prominent way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I think it cannot be too prominently kept before the whole establishment."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A square box with a domed top figures prominently at the fair."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certainly the fires are often interpreted in the latter way by the persons who light them; and this purgative use of the element comes out very prominently, as we have seen, in the general expulsion of demons from towns and villages."*

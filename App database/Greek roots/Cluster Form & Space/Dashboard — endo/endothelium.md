@@ -5,13 +5,6 @@ status: unread
 ---
 # endothelium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the seed coat of some plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothelium designates an epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the seed coat of some plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothelium designates an epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels."*

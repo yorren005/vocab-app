@@ -5,13 +5,6 @@ status: unread
 ---
 # sapidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The taste experience when a savoury condiment is taken into the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pleasant flavor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapidity designates the taste experience when a savoury condiment is taken into the mouth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taste experience when a savoury condiment is taken into the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pleasant flavor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapidity designates the taste experience when a savoury condiment is taken into the mouth."*

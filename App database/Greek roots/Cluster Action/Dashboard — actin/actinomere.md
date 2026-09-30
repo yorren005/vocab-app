@@ -5,13 +5,6 @@ status: unread
 ---
 # actinomere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the radial segments making up the body of one of the Coelenterata or similar organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the radial segments making up the body of one of the Coelenterata or similar organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomere designates one of the radial segments making up the body of one of the coelenterata or similar organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the radial segments making up the body of one of the Coelenterata or similar organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the radial segments making up the body of one of the Coelenterata or similar organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomere designates one of the radial segments making up the body of one of the coelenterata or similar organism."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # implanted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or set securely or deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become attached to and embedded in the uterus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I could not believe that the love of life that actuated us had been implanted in our breasts by aught other than God."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The special knowledge and skills each you needs for this mission will be implanted into your conscious and subconscious minds, and, as it suits our needs, into your survival instincts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The stresses energized the short-range sending device implanted in him prior to the Sentinel's escape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or set securely or deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become attached to and embedded in the uterus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I could not believe that the love of life that actuated us had been implanted in our breasts by aught other than God."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The special knowledge and skills each you needs for this mission will be implanted into your conscious and subconscious minds, and, as it suits our needs, into your survival instincts."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The stresses energized the short-range sending device implanted in him prior to the Sentinel's escape."*

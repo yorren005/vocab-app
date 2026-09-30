@@ -5,15 +5,6 @@ status: unread
 ---
 # purport
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intended meaning of a communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pervading meaning or tenor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a providence I met you, miss; I doubt if I should have known how to get on with that lady.” And he put one hand in his breast and stood upright in a martial attitude as I informed little Miss Flite, in her ear, of the purport of his kind errand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I am anticipating now the purport of our conversation on the ride home instead of first marrying Caddy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had thought beforehand that I knew its purport, and I did."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intended meaning of a communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pervading meaning or tenor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a providence I met you, miss; I doubt if I should have known how to get on with that lady.” And he put one hand in his breast and stood upright in a martial attitude as I informed little Miss Flite, in her ear, of the purport of his kind errand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But I am anticipating now the purport of our conversation on the ride home instead of first marrying Caddy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I had thought beforehand that I knew its purport, and I did."*

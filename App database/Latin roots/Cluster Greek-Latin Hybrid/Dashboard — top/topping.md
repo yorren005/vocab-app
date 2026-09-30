@@ -5,15 +5,6 @@ status: unread
 ---
 # topping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flavorful addition on top of a dish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be superior or better than some standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And topping all others in boasting."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What put that into your head?” “I thought you didn’t look quite so topping as you used to, that was all.” “Indeed, then you are mistaken,” said Boldwood, shortly."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We had gone perhaps half a mile, and were topping a low rise that would sink Cedar City from view, when Laban turned his horse around, halted it, and stood up in the stirrups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flavorful addition on top of a dish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be superior or better than some standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And topping all others in boasting."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What put that into your head?” “I thought you didn’t look quite so topping as you used to, that was all.” “Indeed, then you are mistaken,” said Boldwood, shortly."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We had gone perhaps half a mile, and were topping a low rise that would sink Cedar City from view, when Laban turned his horse around, halted it, and stood up in the stirrups."*

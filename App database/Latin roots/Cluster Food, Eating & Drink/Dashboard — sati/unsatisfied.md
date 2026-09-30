@@ -5,15 +5,6 @@ status: unread
 ---
 # unsatisfied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worried and uneasy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Horatio, I am dead, Thou liv’st; report me and my cause aright To the unsatisfied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though he were unsatisfied in getting, Which was a sin, yet in bestowing, madam, He was most princely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been satisfied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worried and uneasy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Horatio, I am dead, Thou liv’st; report me and my cause aright To the unsatisfied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though he were unsatisfied in getting, Which was a sin, yet in bestowing, madam, He was most princely."*

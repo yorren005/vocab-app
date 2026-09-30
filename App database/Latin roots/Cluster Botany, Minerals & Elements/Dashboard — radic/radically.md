@@ -5,15 +5,6 @@ status: unread
 ---
 # radically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a radical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large share, possibly, in a certain sense, every one of the economic problems that are discussed involve change, limitation, definition, or, more radically, abolition of present laws of property."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is true, but no other changes have affected American agriculture so radically as the peaceful development of domestic transportation and the opening of the West."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, in principle, is pretty radically different from voluntary arbitration, for as it denies to the parties the right to settle their dispute by private agreement, it becomes in effect the legal regulation of rates of wages and conditions of work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a radical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large share, possibly, in a certain sense, every one of the economic problems that are discussed involve change, limitation, definition, or, more radically, abolition of present laws of property."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is true, but no other changes have affected American agriculture so radically as the peaceful development of domestic transportation and the opening of the West."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, in principle, is pretty radically different from voluntary arbitration, for as it denies to the parties the right to settle their dispute by private agreement, it becomes in effect the legal regulation of rates of wages and conditions of work."*

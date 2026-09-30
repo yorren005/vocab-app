@@ -5,13 +5,6 @@ status: unread
 ---
 # taxidermist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who stuffs and mounts the skins of animals for display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who stuffs and mounts the skins of animals for display.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxidermist designates a craftsman who stuffs and mounts the skins of animals for display."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who stuffs and mounts the skins of animals for display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who stuffs and mounts the skins of animals for display.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxidermist designates a craftsman who stuffs and mounts the skins of animals for display."*

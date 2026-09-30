@@ -5,13 +5,6 @@ status: unread
 ---
 # pericardial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located around the heart or relating to or affecting the pericardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located around the heart or relating to or affecting the pericardium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardial designates located around the heart or relating to or affecting the pericardium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located around the heart or relating to or affecting the pericardium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located around the heart or relating to or affecting the pericardium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardial designates located around the heart or relating to or affecting the pericardium."*

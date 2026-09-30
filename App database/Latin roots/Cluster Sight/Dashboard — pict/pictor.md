@@ -5,14 +5,6 @@ status: unread
 ---
 # pictor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere near dorado and columba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near dorado and columba.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pictor Ignotus. {Florence, 15--.} I could have painted pictures like that youth’s Ye praise so."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist. [220] Something like the court-suit of Prince Esterhazy. [221] Pictor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere near dorado and columba.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near dorado and columba.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pictor Ignotus. {Florence, 15--.} I could have painted pictures like that youth’s Ye praise so."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist. [220] Something like the court-suit of Prince Esterhazy. [221] Pictor."*

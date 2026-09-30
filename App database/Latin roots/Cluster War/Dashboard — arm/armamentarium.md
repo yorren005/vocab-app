@@ -5,13 +5,6 @@ status: unread
 ---
 # armamentarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collection of equipment and methods used in the practice of medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of equipment and methods used in the practice of medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armamentarium designates the collection of equipment and methods used in the practice of medicine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collection of equipment and methods used in the practice of medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of equipment and methods used in the practice of medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armamentarium designates the collection of equipment and methods used in the practice of medicine."*

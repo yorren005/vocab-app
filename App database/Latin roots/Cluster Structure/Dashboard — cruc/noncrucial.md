@@ -5,13 +5,6 @@ status: unread
 ---
 # noncrucial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of little importance; not decisive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a state of crisis or emergency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncrucial designates of little importance; not decisive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of little importance; not decisive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a state of crisis or emergency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncrucial designates of little importance; not decisive."*

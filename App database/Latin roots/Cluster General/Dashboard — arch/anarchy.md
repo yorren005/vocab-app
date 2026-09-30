@@ -5,15 +5,6 @@ status: unread
 ---
 # anarchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of lawlessness and disorder (usually resulting from a failure of government).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of lawlessness and disorder (usually resulting from a failure of government).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am that man, the sum of him, the all of him, the hairless biped who struggled upward from the slime and created love and law out of the anarchy of fecund life that screamed and squalled in the jungle."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And longer with Politics not to be cramm’d, Be Anarchy curs’d, and Tyranny damn’d!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This period of European affairs is emphatically styled by historians, the times of feudal anarchy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of lawlessness and disorder (usually resulting from a failure of government).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of lawlessness and disorder (usually resulting from a failure of government).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am that man, the sum of him, the all of him, the hairless biped who struggled upward from the slime and created love and law out of the anarchy of fecund life that screamed and squalled in the jungle."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And longer with Politics not to be cramm’d, Be Anarchy curs’d, and Tyranny damn’d!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This period of European affairs is emphatically styled by historians, the times of feudal anarchy."*

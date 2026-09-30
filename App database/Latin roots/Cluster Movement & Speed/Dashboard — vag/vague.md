@@ -5,15 +5,6 @@ status: unread
 ---
 # vague
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clearly understood or expressed; ; -anatole broyard; - p.a.sorokin; - john locke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not precisely limited, determined, or distinguished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As not one of them wanted to admit the hasty retreat before the ghost had even been properly inspected, they only dropped vague and terrifying words about the matter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But these vague whisperings may arise from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, who I feared might have had his vague surmises when I little understood his meaning, but in whose silence after our last interview I expressed perfect confidence.” “Well,” said my guardian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clearly understood or expressed; ; -anatole broyard; - p.a.sorokin; - john locke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not precisely limited, determined, or distinguished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As not one of them wanted to admit the hasty retreat before the ghost had even been properly inspected, they only dropped vague and terrifying words about the matter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But these vague whisperings may arise from Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, who I feared might have had his vague surmises when I little understood his meaning, but in whose silence after our last interview I expressed perfect confidence.” “Well,” said my guardian."*

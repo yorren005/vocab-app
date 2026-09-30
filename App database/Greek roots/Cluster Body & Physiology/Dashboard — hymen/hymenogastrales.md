@@ -5,13 +5,6 @@ status: unread
 ---
 # hymenogastrales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenogastrales designates an order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenogastrales designates an order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes)."*

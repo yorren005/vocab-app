@@ -5,15 +5,6 @@ status: unread
 ---
 # redeem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return forgetful Muse, and straight redeem, In gentle numbers time so idly spent, Sing to the ear that doth thy lays esteem, And gives thy pen both skill and argument."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I sent you money to redeem you By Dromio here, who came in haste for it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a thing I made, which hath the King Five times redeem’d from death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return forgetful Muse, and straight redeem, In gentle numbers time so idly spent, Sing to the ear that doth thy lays esteem, And gives thy pen both skill and argument."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I sent you money to redeem you By Dromio here, who came in haste for it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a thing I made, which hath the King Five times redeem’d from death."*

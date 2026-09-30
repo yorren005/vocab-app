@@ -5,15 +5,6 @@ status: unread
 ---
 # annexe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An addition that extends a main building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An addition that extends a main building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Subsoil ploughing annexes to agricultural land new layers of soil that are just as important as new acres added to the surface."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The pioneer annexes new areas to the economic world and to the market in which he has lived."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had thought of annexing happiness with a lovely young bride; but even before marriage, as we have seen, he found himself under a new depression in the consciousness that the new bliss was not blissful to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An addition that extends a main building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An addition that extends a main building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Subsoil ploughing annexes to agricultural land new layers of soil that are just as important as new acres added to the surface."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The pioneer annexes new areas to the economic world and to the market in which he has lived."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had thought of annexing happiness with a lovely young bride; but even before marriage, as we have seen, he found himself under a new depression in the consciousness that the new bliss was not blissful to him."*

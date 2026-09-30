@@ -5,13 +5,6 @@ status: unread
 ---
 # blastoff
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The launching of a missile or spacecraft to a specified destination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The launching of a missile or spacecraft to a specified destination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastoff designates the launching of a missile or spacecraft to a specified destination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The launching of a missile or spacecraft to a specified destination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The launching of a missile or spacecraft to a specified destination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastoff designates the launching of a missile or spacecraft to a specified destination."*

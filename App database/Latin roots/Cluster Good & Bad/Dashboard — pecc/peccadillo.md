@@ -5,15 +5,6 @@ status: unread
 ---
 # peccadillo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty misdeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty misdeed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For every peccadillo they tie a knot on a string, and after they have "talked to all the five winds" they deliver the rosary of their sins to the leader, who burns it in the fire."*
-> - 📜 **James Joyce (*Ulysses*):** *"Rain, exposure at dewfall on the searocks, a peccadillo at my time of life."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After swallowing it, the husband will be as blind to his wife's peccadilloes as the dead man was on whose eyes the coins were laid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty misdeed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty misdeed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For every peccadillo they tie a knot on a string, and after they have "talked to all the five winds" they deliver the rosary of their sins to the leader, who burns it in the fire."*
+> - 📜 **James Joyce (*Ulysses*):** *"Rain, exposure at dewfall on the searocks, a peccadillo at my time of life."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After swallowing it, the husband will be as blind to his wife's peccadilloes as the dead man was on whose eyes the coins were laid."*

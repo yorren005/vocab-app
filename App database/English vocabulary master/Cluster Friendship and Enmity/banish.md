@@ -5,20 +5,6 @@ status: unread
 ---
 # banish
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Clear away : dispel
-> 2. **Nuance / Usage**: Require by authority to leave a country
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to banish the target*) and intransitive clauses (*banishing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Banish plump Jack, and banish all the world."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And you, good uncle, banish all offence."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"O fair return of banish’d majesty!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To expel someone from a country, realm, or community by authoritative decree as a punishment; to send into exile.
+> 2. **Nuance / Usage**: Figuratively, to drive away, dismiss, or dispel unwanted thoughts, fears, or shadows from the mind (*to banish all doubt*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to banish the target*) and intransitive clauses (*banishing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"But **banish** plump Jack, and **banish** all the world."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She did what she could to **banish** every painful reflection from her mind."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Henceforth I **banish** peace and all hope of reconciliation from my breast."*

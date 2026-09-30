@@ -5,15 +5,6 @@ status: unread
 ---
 # ostentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gaudy outward display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you are come A market-maid to Rome, and have prevented The ostentation of our love, which, left unshown, Is often left unloved."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make good this ostentation, and you shall Divide in all with us. [_Exeunt._] SCENE VII."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this be so; His means of death, his obscure burial,— No trophy, sword, nor hatchment o’er his bones, No noble rite, nor formal ostentation,— Cry to be heard, as ’twere from heaven to earth, That I must call’t in question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gaudy outward display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you are come A market-maid to Rome, and have prevented The ostentation of our love, which, left unshown, Is often left unloved."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make good this ostentation, and you shall Divide in all with us. [_Exeunt._] SCENE VII."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this be so; His means of death, his obscure burial,— No trophy, sword, nor hatchment o’er his bones, No noble rite, nor formal ostentation,— Cry to be heard, as ’twere from heaven to earth, That I must call’t in question."*

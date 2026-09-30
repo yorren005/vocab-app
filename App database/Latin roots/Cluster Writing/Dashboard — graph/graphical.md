@@ -5,13 +5,6 @@ status: unread
 ---
 # graphical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or presented by a graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or drawn or engraved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphical designates relating to or presented by a graph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or presented by a graph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or drawn or engraved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphical designates relating to or presented by a graph."*

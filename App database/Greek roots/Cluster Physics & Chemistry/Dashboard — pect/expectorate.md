@@ -5,15 +5,6 @@ status: unread
 ---
 # expectorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clear out the chest and lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discharge (phlegm or sputum) from the lungs and out of the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"As Tom wended to school after breakfast, he was the envy of every boy he met because the gap in his upper row of teeth enabled him to expectorate in a new and admirable way."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the Slave Coast, for the same reason, whenever a king or chief expectorates, the saliva is scrupulously gathered up and hidden or buried."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I lost my voice completely, suffered with pain in my lungs and expectorated almost constantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clear out the chest and lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discharge (phlegm or sputum) from the lungs and out of the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"As Tom wended to school after breakfast, he was the envy of every boy he met because the gap in his upper row of teeth enabled him to expectorate in a new and admirable way."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the Slave Coast, for the same reason, whenever a king or chief expectorates, the saliva is scrupulously gathered up and hidden or buried."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I lost my voice completely, suffered with pain in my lungs and expectorated almost constantly."*

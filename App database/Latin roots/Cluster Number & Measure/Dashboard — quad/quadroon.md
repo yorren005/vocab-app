@@ -5,14 +5,6 @@ status: unread
 ---
 # quadroon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offspring of a mulatto and a white parent; a person who is one-quarter black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offspring of a mulatto and a white parent; a person who is one-quarter black.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Quadroon, with carte blanche on the Slave question); indeed the family estate was much embarrassed, and the income drawn from the borough was of great use to the house of Queen's Crawley."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was a judge's daughter at Demerara went almost mad about him; then there was that beautiful quadroon girl, Miss Pye, at St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An offspring of a mulatto and a white parent; a person who is one-quarter black.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offspring of a mulatto and a white parent; a person who is one-quarter black.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Quadroon, with carte blanche on the Slave question); indeed the family estate was much embarrassed, and the income drawn from the borough was of great use to the house of Queen's Crawley."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was a judge's daughter at Demerara went almost mad about him; then there was that beautiful quadroon girl, Miss Pye, at St."*

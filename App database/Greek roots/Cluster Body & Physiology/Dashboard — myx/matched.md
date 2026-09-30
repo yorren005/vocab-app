@@ -5,15 +5,6 @@ status: unread
 ---
 # matched
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide funds complementary to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The harder matched, the greater victory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The only soil of his fair virtue’s gloss, If virtue’s gloss will stain with any soil, Is a sharp wit matched with too blunt a will, Whose edge hath power to cut, whose will still wills It should none spare that come within his power."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The son of Clarence have I pent up close; His daughter meanly have I matched in marriage; The sons of Edward sleep in Abraham’s bosom, And Anne my wife hath bid the world good night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide funds complementary to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The harder matched, the greater victory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The only soil of his fair virtue’s gloss, If virtue’s gloss will stain with any soil, Is a sharp wit matched with too blunt a will, Whose edge hath power to cut, whose will still wills It should none spare that come within his power."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The son of Clarence have I pent up close; His daughter meanly have I matched in marriage; The sons of Edward sleep in Abraham’s bosom, And Anne my wife hath bid the world good night."*

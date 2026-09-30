@@ -5,14 +5,6 @@ status: unread
 ---
 # rotter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is deemed to be despicable or contemptible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is deemed to be despicable or contemptible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"You ought to be ducked in the horsepond, you rotter! _(To the court.)_ Why, look at the man’s private life!"*
-> - 📜 **James Joyce (*Ulysses*):** *"ZOE: _(In sudden sulks.)_ I hate a rotter that’s insincere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is deemed to be despicable or contemptible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is deemed to be despicable or contemptible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"You ought to be ducked in the horsepond, you rotter! _(To the court.)_ Why, look at the man’s private life!"*
+> - 📜 **James Joyce (*Ulysses*):** *"ZOE: _(In sudden sulks.)_ I hate a rotter that’s insincere."*

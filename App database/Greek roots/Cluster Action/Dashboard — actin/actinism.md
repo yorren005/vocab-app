@@ -5,13 +5,6 @@ status: unread
 ---
 # actinism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Actinism is the property of solar radiation that leads to the production of photochemical and photobiological effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It is important in chemical photography and x-ray imaging, and causes sunburn and photodegradation of materials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinism designates actinism is the property of solar radiation that leads to the production of photochemical and photobiological effects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Actinism is the property of solar radiation that leads to the production of photochemical and photobiological effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It is important in chemical photography and x-ray imaging, and causes sunburn and photodegradation of materials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinism designates actinism is the property of solar radiation that leads to the production of photochemical and photobiological effects."*

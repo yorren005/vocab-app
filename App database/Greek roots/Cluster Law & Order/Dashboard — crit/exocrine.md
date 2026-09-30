@@ -5,13 +5,6 @@ status: unread
 ---
 # exocrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, being, or relating to a secretion that is released outside its source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gland (such as a salivary gland or part of the pancreas) that releases a secretion external to or at the surface of an organ by means of a canal or duct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocrine designates producing, being, or relating to a secretion that is released outside its source."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, being, or relating to a secretion that is released outside its source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gland (such as a salivary gland or part of the pancreas) that releases a secretion external to or at the surface of an organ by means of a canal or duct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocrine designates producing, being, or relating to a secretion that is released outside its source."*

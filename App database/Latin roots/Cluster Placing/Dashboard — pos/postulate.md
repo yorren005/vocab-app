@@ -5,15 +5,6 @@ status: unread
 ---
 # postulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain or assert.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This is the very postulate of living Christianity."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Obviously the two theories postulate two very different conceptions of the fire which plays the principal part in the rites."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"On the other hand, the three characteristic Christian virtues--faith, hope and charity--all postulate Another." [20] Cf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain or assert.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This is the very postulate of living Christianity."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Obviously the two theories postulate two very different conceptions of the fire which plays the principal part in the rites."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"On the other hand, the three characteristic Christian virtues--faith, hope and charity--all postulate Another." [20] Cf."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # proserpina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of the underworld; counterpart of greek persephone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of the underworld; counterpart of greek persephone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou grumblest and railest every hour on Achilles; and thou art as full of envy at his greatness as Cerberus is at Proserpina’s beauty—ay, that thou bark’st at him."*
-> - 📜 **John Milton (*Paradise Lost*):** *"To Pales, or Pomona, thus adorned, Likest she seemed, Pomona when she fled Vertumnus, or to Ceres in her prime, Yet virgin of Proserpina from Jove."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of the underworld; counterpart of greek persephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of the underworld; counterpart of greek persephone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou grumblest and railest every hour on Achilles; and thou art as full of envy at his greatness as Cerberus is at Proserpina’s beauty—ay, that thou bark’st at him."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To Pales, or Pomona, thus adorned, Likest she seemed, Pomona when she fled Vertumnus, or to Ceres in her prime, Yet virgin of Proserpina from Jove."*

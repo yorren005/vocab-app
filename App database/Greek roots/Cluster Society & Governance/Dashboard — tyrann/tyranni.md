@@ -5,15 +5,6 @@ status: unread
 ---
 # tyranni
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world flycatchers; antbirds; oven birds; woodhewers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world flycatchers; antbirds; oven birds; woodhewers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All John Reed’s violent tyrannies, all his sisters’ proud indifference, all his mother’s aversion, all the servants’ partiality, turned up in my disturbed mind like a dark deposit in a turbid well."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Philip, who was now on the throne of Macedon, soon provoked by his tyrannies, fresh combinations among the Greeks."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Are the State governments to be stigmatized as tyrannies, because they possess this power?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: New world flycatchers; antbirds; oven birds; woodhewers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world flycatchers; antbirds; oven birds; woodhewers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All John Reed’s violent tyrannies, all his sisters’ proud indifference, all his mother’s aversion, all the servants’ partiality, turned up in my disturbed mind like a dark deposit in a turbid well."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Philip, who was now on the throne of Macedon, soon provoked by his tyrannies, fresh combinations among the Greeks."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Are the State governments to be stigmatized as tyrannies, because they possess this power?"*

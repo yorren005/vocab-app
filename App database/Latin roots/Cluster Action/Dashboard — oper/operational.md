@@ -5,15 +5,6 @@ status: unread
 ---
 # operational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a process or series of actions for achieving a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit or ready for use or service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your team has just been assembled," Ram said, "yet we don't have a moment to lose to get you in place and operational."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Plutonian overseers will be afforded training by the UIPS to qualify them to assume the primary's operational and management responsibilities in all functions within two Earth years from the date of this Proclamation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I don't want their weapons slipping back into operational status as soon as you leave their ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a process or series of actions for achieving a result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit or ready for use or service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your team has just been assembled," Ram said, "yet we don't have a moment to lose to get you in place and operational."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Plutonian overseers will be afforded training by the UIPS to qualify them to assume the primary's operational and management responsibilities in all functions within two Earth years from the date of this Proclamation."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I don't want their weapons slipping back into operational status as soon as you leave their ship."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tabour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small drum with one head of soft calfskin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small drum with one head of soft calfskin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabour designates a small drum with one head of soft calfskin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small drum with one head of soft calfskin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small drum with one head of soft calfskin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabour designates a small drum with one head of soft calfskin."*

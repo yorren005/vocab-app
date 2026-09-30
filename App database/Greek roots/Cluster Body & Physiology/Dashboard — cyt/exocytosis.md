@@ -5,13 +5,6 @@ status: unread
 ---
 # exocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocytosis designates the release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocytosis designates the release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell."*

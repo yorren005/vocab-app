@@ -5,15 +5,6 @@ status: unread
 ---
 # solstice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two times of the year when the sun is at its greatest distance from the celestial equator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two times of the year when the sun is at its greatest distance from the celestial equator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It was held in honour of the sun at the solstice in June."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the winter solstice the chosen fire-maker collects a faggot of cedar-wood from every house in the village, and each person, as he hands the wood to the fire-maker, prays that the crops may be good in the coming year."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Under the Tcheou dynasty a change in the calendar led to shifting the fire-festival from spring to the summer solstice, but afterwards it was brought back to its original date."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two times of the year when the sun is at its greatest distance from the celestial equator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two times of the year when the sun is at its greatest distance from the celestial equator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It was held in honour of the sun at the solstice in June."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the winter solstice the chosen fire-maker collects a faggot of cedar-wood from every house in the village, and each person, as he hands the wood to the fire-maker, prays that the crops may be good in the coming year."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Under the Tcheou dynasty a change in the calendar led to shifting the fire-festival from spring to the summer solstice, but afterwards it was brought back to its original date."*

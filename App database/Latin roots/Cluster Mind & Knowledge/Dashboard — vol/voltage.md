@@ -5,15 +5,6 @@ status: unread
 ---
 # voltage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The difference in electrical charge between two points in a circuit expressed in volts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In this case what is wanted is to test the resistance of a circuit, and it is done by applying a battery, the voltage of which is known, and seeing how much current flows."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In it an enormous current at an extremely low voltage is used."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus the voltage generated in the secondary is very little, but since the secondary has an almost negligible resistance the current caused by that small voltage is enormous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The difference in electrical charge between two points in a circuit expressed in volts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In this case what is wanted is to test the resistance of a circuit, and it is done by applying a battery, the voltage of which is known, and seeing how much current flows."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In it an enormous current at an extremely low voltage is used."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus the voltage generated in the secondary is very little, but since the secondary has an almost negligible resistance the current caused by that small voltage is enormous."*

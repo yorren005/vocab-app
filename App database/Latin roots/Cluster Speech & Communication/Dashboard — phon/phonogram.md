@@ -5,13 +5,6 @@ status: unread
 ---
 # phonogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any written symbol standing for a sound or syllable or morpheme or word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any written symbol standing for a sound or syllable or morpheme or word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonogram designates any written symbol standing for a sound or syllable or morpheme or word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any written symbol standing for a sound or syllable or morpheme or word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any written symbol standing for a sound or syllable or morpheme or word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonogram designates any written symbol standing for a sound or syllable or morpheme or word."*

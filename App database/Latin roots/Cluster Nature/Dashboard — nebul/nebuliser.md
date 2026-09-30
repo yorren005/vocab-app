@@ -5,13 +5,6 @@ status: unread
 ---
 # nebuliser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dispenser that turns a liquid (such as perfume) into a fine mist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dispenser that turns a liquid (such as perfume) into a fine mist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nebuliser designates a dispenser that turns a liquid (such as perfume) into a fine mist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dispenser that turns a liquid (such as perfume) into a fine mist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dispenser that turns a liquid (such as perfume) into a fine mist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nebuliser designates a dispenser that turns a liquid (such as perfume) into a fine mist."*

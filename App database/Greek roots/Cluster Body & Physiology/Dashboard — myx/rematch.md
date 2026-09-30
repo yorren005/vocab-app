@@ -5,13 +5,6 @@ status: unread
 ---
 # rematch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (especially a game) that is played again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (especially a game) that is played again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rematch designates something (especially a game) that is played again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (especially a game) that is played again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (especially a game) that is played again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rematch designates something (especially a game) that is played again."*

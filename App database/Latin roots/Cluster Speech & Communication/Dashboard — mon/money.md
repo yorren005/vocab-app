@@ -5,15 +5,6 @@ status: unread
 ---
 # money
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common medium of exchange; functions as legal tender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth reckoned in terms of money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that you had her wrinkles and I her money, I would she did as you say."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar gets money where He loses hearts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common medium of exchange; functions as legal tender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth reckoned in terms of money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that you had her wrinkles and I her money, I would she did as you say."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar gets money where He loses hearts."*

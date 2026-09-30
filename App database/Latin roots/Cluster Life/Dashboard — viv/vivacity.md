@@ -5,15 +5,6 @@ status: unread
 ---
 # vivacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by high spirits and animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by high spirits and animation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then, indeed, does she captivate all hearts by her condescension, by her girlish vivacity, and by her skipping about as in the days when the hideous old general with the mouth too full of teeth had not cut one of them at two guineas each."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"After coming to Brooklyn, she became a servant in the family of a well-known naval officer, and was always a favorite on account of her vivacity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And now I looked much better than I did when Bessie saw me; I had more colour and more flesh, more life, more vivacity, because I had brighter hopes and keener enjoyments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by high spirits and animation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by high spirits and animation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then, indeed, does she captivate all hearts by her condescension, by her girlish vivacity, and by her skipping about as in the days when the hideous old general with the mouth too full of teeth had not cut one of them at two guineas each."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"After coming to Brooklyn, she became a servant in the family of a well-known naval officer, and was always a favorite on account of her vivacity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And now I looked much better than I did when Bessie saw me; I had more colour and more flesh, more life, more vivacity, because I had brighter hopes and keener enjoyments."*

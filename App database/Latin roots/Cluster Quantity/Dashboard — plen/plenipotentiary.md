@@ -5,15 +5,6 @@ status: unread
 ---
 # plenipotentiary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diplomat who is fully authorized to represent his or her government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diplomat who is fully authorized to represent his or her government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'll notify them all that you are my Ambassador Plenipotentiary, and that you carry a personal message from me."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"At the beginning of the siege the following persons resided in the Russian legation: His Eminence M. de Giers, envoy extraordinary and minister plenipotentiary, his wife, daughter and son, and Miss Edith Miller, a governess in his family; B."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Whilst our friend George and his young wife were enjoying the first blushing days of the honeymoon at Brighton, honest William was left as George's plenipotentiary in London, to transact all the business part of the marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diplomat who is fully authorized to represent his or her government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diplomat who is fully authorized to represent his or her government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'll notify them all that you are my Ambassador Plenipotentiary, and that you carry a personal message from me."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"At the beginning of the siege the following persons resided in the Russian legation: His Eminence M. de Giers, envoy extraordinary and minister plenipotentiary, his wife, daughter and son, and Miss Edith Miller, a governess in his family; B."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Whilst our friend George and his young wife were enjoying the first blushing days of the honeymoon at Brighton, honest William was left as George's plenipotentiary in London, to transact all the business part of the marriage."*

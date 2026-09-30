@@ -5,13 +5,6 @@ status: unread
 ---
 # microcyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small red blood cell (less than 5 microns in diameter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally small red blood cell (less than 5 microns in diameter).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcyte designates an abnormally small red blood cell (less than 5 microns in diameter)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small red blood cell (less than 5 microns in diameter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally small red blood cell (less than 5 microns in diameter).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcyte designates an abnormally small red blood cell (less than 5 microns in diameter)."*

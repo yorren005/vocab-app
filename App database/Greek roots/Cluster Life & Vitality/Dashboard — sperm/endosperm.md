@@ -5,13 +5,6 @@ status: unread
 ---
 # endosperm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nutritive tissue in the seed of a flowering plant that is formed within the embryo sac following double fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The triploid nucleus that is formed in the embryo sac of a flowering plant during double fertilization by fusion of a sperm cell with two polar nuclei and that gives rise to the nutritive endosperm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosperm designates a nutritive tissue in the seed of a flowering plant that is formed within the embryo sac following double fertilization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nutritive tissue in the seed of a flowering plant that is formed within the embryo sac following double fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The triploid nucleus that is formed in the embryo sac of a flowering plant during double fertilization by fusion of a sperm cell with two polar nuclei and that gives rise to the nutritive endosperm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosperm designates a nutritive tissue in the seed of a flowering plant that is formed within the embryo sac following double fertilization."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mercifully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compassionate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a compassionate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, good Kate, mock me mercifully; the rather, gentle princess, because I love thee cruelly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"’Tis a talent the Lord has mercifully bestowed upon us, and we ought not to neglect it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"These words haunted the father until he was mercifully reclaimed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compassionate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a compassionate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, good Kate, mock me mercifully; the rather, gentle princess, because I love thee cruelly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"’Tis a talent the Lord has mercifully bestowed upon us, and we ought not to neglect it."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"These words haunted the father until he was mercifully reclaimed."*

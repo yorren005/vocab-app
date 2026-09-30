@@ -5,15 +5,6 @@ status: unread
 ---
 # operator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a symbol or function representing a mathematical operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that operates some apparatus or machine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The operator takes a very sharp bone of an ape, rubs it with a pungent spice, and then pinching up the skin of his son's arm he pierces it with the bone through and through, as a surgeon might introduce a seton."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tug operator and anyone else that observes my presence or the flitter must not repeat must not log the serial number of my flitter or any of its features."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Make the contact," he said, adding, "Relay the message through one of the transports; delete all references that show this facility is in the loop." Switches snapped as the operator nodded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a symbol or function representing a mathematical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that operates some apparatus or machine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The operator takes a very sharp bone of an ape, rubs it with a pungent spice, and then pinching up the skin of his son's arm he pierces it with the bone through and through, as a surgeon might introduce a seton."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tug operator and anyone else that observes my presence or the flitter must not repeat must not log the serial number of my flitter or any of its features."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Make the contact," he said, adding, "Relay the message through one of the transports; delete all references that show this facility is in the loop." Switches snapped as the operator nodded."*

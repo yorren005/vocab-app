@@ -5,15 +5,6 @@ status: unread
 ---
 # crete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest greek island in the mediterranean; site of the minoan civilization that reached its peak in 1600 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest greek island in the mediterranean; site of the minoan civilization that reached its peak in 1600 bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O hound of Crete, think’st thou my spouse to get?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then follow thou thy desperate sire of Crete, Thou Icarus; thy life to me is sweet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a peevish fool was that of Crete That taught his son the office of a fowl!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest greek island in the mediterranean; site of the minoan civilization that reached its peak in 1600 bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest greek island in the mediterranean; site of the minoan civilization that reached its peak in 1600 bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O hound of Crete, think’st thou my spouse to get?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then follow thou thy desperate sire of Crete, Thou Icarus; thy life to me is sweet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a peevish fool was that of Crete That taught his son the office of a fowl!"*

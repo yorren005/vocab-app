@@ -5,13 +5,6 @@ status: unread
 ---
 # tortrix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: California moth whose larvae live in especially oranges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small indian moth infesting e.g. tea and coffee plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortrix designates california moth whose larvae live in especially oranges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: California moth whose larvae live in especially oranges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small indian moth infesting e.g. tea and coffee plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tortrix designates california moth whose larvae live in especially oranges."*

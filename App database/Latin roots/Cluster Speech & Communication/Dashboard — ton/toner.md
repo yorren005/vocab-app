@@ -5,13 +5,6 @@ status: unread
 ---
 # toner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution containing chemicals that can change the color of a photographic print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black or colored powder used in a printer to develop a xerographic image.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toner designates a solution containing chemicals that can change the color of a photographic print."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution containing chemicals that can change the color of a photographic print.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black or colored powder used in a printer to develop a xerographic image.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toner designates a solution containing chemicals that can change the color of a photographic print."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # colossal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So great in size or force or extent as to elicit awe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So great in size or force or extent as to elicit awe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Carrying his fingers onward he found that what he had come in contact with was a colossal rectangular pillar; by stretching out his left hand he could feel a similar one adjoining."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Farther along the curve, in plain view from my eyrie, carved out of the living rock, were four colossal figures."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the great open space before the palace wall were colossal stone dogs that looked more like tortoises."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So great in size or force or extent as to elicit awe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So great in size or force or extent as to elicit awe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Carrying his fingers onward he found that what he had come in contact with was a colossal rectangular pillar; by stretching out his left hand he could feel a similar one adjoining."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Farther along the curve, in plain view from my eyrie, carved out of the living rock, were four colossal figures."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the great open space before the palace wall were colossal stone dogs that looked more like tortoises."*

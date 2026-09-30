@@ -5,13 +5,6 @@ status: unread
 ---
 # homotherm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that has a body temperature that is relatively constant and independent of the environmental temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that has a body temperature that is relatively constant and independent of the environmental temperature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homotherm designates an animal that has a body temperature that is relatively constant and independent of the environmental temperature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that has a body temperature that is relatively constant and independent of the environmental temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that has a body temperature that is relatively constant and independent of the environmental temperature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homotherm designates an animal that has a body temperature that is relatively constant and independent of the environmental temperature."*

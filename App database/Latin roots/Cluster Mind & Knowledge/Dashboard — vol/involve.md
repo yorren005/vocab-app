@@ -5,15 +5,6 @@ status: unread
 ---
 # involve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect closely and often incriminatingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage as a participant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"These household cares involve much pattening and counter-pattening in the backyard and considerable use of a pail, which is finally so happy as to assist in the ablutions of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy refers to a little slip of paper on which he has made small notes of his line of argument and which seems to involve him in the densest obscurity whenever he looks at it—“I—Oh, yes!—I place myself entirely in your ladyship’s hands."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As considered from other points of view, such cases will always involve more or less unpleasantness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect closely and often incriminatingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage as a participant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"These household cares involve much pattening and counter-pattening in the backyard and considerable use of a pail, which is finally so happy as to assist in the ablutions of Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy refers to a little slip of paper on which he has made small notes of his line of argument and which seems to involve him in the densest obscurity whenever he looks at it—“I—Oh, yes!—I place myself entirely in your ladyship’s hands."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As considered from other points of view, such cases will always involve more or less unpleasantness."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # petition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal message requesting something that is submitted to an authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverent petition to a deity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it will please you To give this poor petition to the king, And aid me with that store of power you have To come into his presence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gracious sovereign, Whether I have been to blame or no, I know not: Here’s a petition from a Florentine, Who hath for four or five removes come short To tender it herself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For not alone The death of Fulvia, with more urgent touches, Do strongly speak to us, but the letters too Of many our contriving friends in Rome Petition us at home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal message requesting something that is submitted to an authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverent petition to a deity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it will please you To give this poor petition to the king, And aid me with that store of power you have To come into his presence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gracious sovereign, Whether I have been to blame or no, I know not: Here’s a petition from a Florentine, Who hath for four or five removes come short To tender it herself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For not alone The death of Fulvia, with more urgent touches, Do strongly speak to us, but the letters too Of many our contriving friends in Rome Petition us at home."*

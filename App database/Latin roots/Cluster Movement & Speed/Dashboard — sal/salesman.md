@@ -5,15 +5,6 @@ status: unread
 ---
 # salesman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man salesperson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man salesperson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Whose, then?” “Well, I got the two dozen from a salesman in Covent Garden.” “Indeed?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The salesman nodded and shot a questioning glance at my companion."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now where did you get them from?” To my surprise the question provoked a burst of anger from the salesman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man salesperson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man salesperson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Whose, then?” “Well, I got the two dozen from a salesman in Covent Garden.” “Indeed?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The salesman nodded and shot a questioning glance at my companion."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now where did you get them from?” To my surprise the question provoked a burst of anger from the salesman."*

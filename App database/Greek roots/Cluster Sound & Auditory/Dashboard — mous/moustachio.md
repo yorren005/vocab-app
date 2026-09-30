@@ -5,13 +5,6 @@ status: unread
 ---
 # moustachio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bushy moustache (with hair growing sometimes down the sides of the mouth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bushy moustache (with hair growing sometimes down the sides of the mouth).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bushy moustache (with hair growing sometimes down the sides of the mouth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bushy moustache (with hair growing sometimes down the sides of the mouth).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*

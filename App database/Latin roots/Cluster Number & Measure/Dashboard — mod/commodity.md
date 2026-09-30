@@ -5,15 +5,6 @@ status: unread
 ---
 # commodity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles of commerce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articles of commerce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would to God thou and I knew where a commodity of good names were to be bought."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will turn diseases to commodity. [_Exit._] SCENE III."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles of commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articles of commerce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would to God thou and I knew where a commodity of good names were to be bought."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will turn diseases to commodity. [_Exit._] SCENE III."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # concluded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I assure you, a peace concluded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With horror, madly dying, like her life; Which, being cruel to the world, concluded Most cruel to herself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I assure you, a peace concluded."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With horror, madly dying, like her life; Which, being cruel to the world, concluded Most cruel to herself."*

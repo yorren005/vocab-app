@@ -5,15 +5,6 @@ status: unread
 ---
 # refractory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lining consisting of material with a high melting point; used to line the inside walls of a furnace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not responding to treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A refractory man who owed a small debt of about $43, refused to pay it all, but offered to do so if ten dollars was taken off."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of Doctor Cullis, who was unable to collect a debt from a refractory and worthless debtor, promised to give it to the Lord, if it was ever paid."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This part of the Course was usually lightened by several single combats between Biddy and refractory students."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lining consisting of material with a high melting point; used to line the inside walls of a furnace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not responding to treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A refractory man who owed a small debt of about $43, refused to pay it all, but offered to do so if ten dollars was taken off."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of Doctor Cullis, who was unable to collect a debt from a refractory and worthless debtor, promised to give it to the Lord, if it was ever paid."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"This part of the Course was usually lightened by several single combats between Biddy and refractory students."*

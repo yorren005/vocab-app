@@ -5,15 +5,6 @@ status: unread
 ---
 # strut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proud stiff pompous gait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brace consisting of a bar or rod used to resist longitudinal compression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Does he not hold up his head, as it were, and strut in his gait?"*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"He liked to strut around through the Green Forest and over the Green Meadows and brag about what he had done and what he could do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proud stiff pompous gait.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brace consisting of a bar or rod used to resist longitudinal compression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Does he not hold up his head, as it were, and strut in his gait?"*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"He liked to strut around through the Green Forest and over the Green Meadows and brag about what he had done and what he could do."*

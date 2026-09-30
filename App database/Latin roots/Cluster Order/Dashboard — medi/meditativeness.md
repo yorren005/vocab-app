@@ -5,14 +5,6 @@ status: unread
 ---
 # meditativeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep serious thoughtfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Beware of enlisting in your vigilant fisheries any lad with lean brow and hollow eye; given to unseasonable meditativeness; and who offers to ship with the Phædon instead of Bowditch in his head."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Beware of enlisting in your vigilant fisheries any lad with lean brow and hollow eye; given to unseasonable meditativeness; and who offers to ship with the Phædon instead of Bowditch in his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep serious thoughtfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Beware of enlisting in your vigilant fisheries any lad with lean brow and hollow eye; given to unseasonable meditativeness; and who offers to ship with the Phædon instead of Bowditch in his head."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Beware of enlisting in your vigilant fisheries any lad with lean brow and hollow eye; given to unseasonable meditativeness; and who offers to ship with the Phædon instead of Bowditch in his head."*

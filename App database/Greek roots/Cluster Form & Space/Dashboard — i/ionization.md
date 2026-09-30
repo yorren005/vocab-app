@@ -5,13 +5,6 @@ status: unread
 ---
 # ionization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being dissociated into ions (as by heat or radiation or chemical reaction or electrical discharge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of ionizing; the formation of ions by separating atoms or molecules or radicals or by adding or subtracting electrons from atoms by strong electric fields in a gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ionization designates the condition of being dissociated into ions (as by heat or radiation or chemical reaction or electrical discharge)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being dissociated into ions (as by heat or radiation or chemical reaction or electrical discharge).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of ionizing; the formation of ions by separating atoms or molecules or radicals or by adding or subtracting electrons from atoms by strong electric fields in a gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ionization designates the condition of being dissociated into ions (as by heat or radiation or chemical reaction or electrical discharge)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # morbid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting an unhealthy mental state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting the horror of death and decay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With almost a morbid dread of being thought a gushing girl, this guileless woman too well concealed from the world under a manner of carelessness the warm depths of her strong emotions."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To curse his miserable lot was at first his impulse, but even that lowest stage of rebellion needed an activity whose absence was necessarily antecedent to the existence of the morbid misery which wrung him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty was naturally morbid, you know.” “Without the least cause,” said Tess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting an unhealthy mental state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting the horror of death and decay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With almost a morbid dread of being thought a gushing girl, this guileless woman too well concealed from the world under a manner of carelessness the warm depths of her strong emotions."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To curse his miserable lot was at first his impulse, but even that lowest stage of rebellion needed an activity whose absence was necessarily antecedent to the existence of the morbid misery which wrung him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty was naturally morbid, you know.” “Without the least cause,” said Tess."*

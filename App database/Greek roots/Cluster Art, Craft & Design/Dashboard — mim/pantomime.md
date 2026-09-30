@@ -5,15 +5,6 @@ status: unread
 ---
 # pantomime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pantomimist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Roman dramatic performance featuring a solo dancer and a narrative chorus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood had read the pantomime denoting that they were aware of his presence, and the perception was as too much light turned upon his new sensibility."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, who had seen this pantomime with some surprise, experienced great relief when Boldwood turned back again."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She handled their crops, and knew what they had eaten, and if too little or too much; her face enacting a vivid pantomime of the criticisms passing in her mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pantomimist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Roman dramatic performance featuring a solo dancer and a narrative chorus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood had read the pantomime denoting that they were aware of his presence, and the perception was as too much light turned upon his new sensibility."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, who had seen this pantomime with some surprise, experienced great relief when Boldwood turned back again."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She handled their crops, and knew what they had eaten, and if too little or too much; her face enacting a vivid pantomime of the criticisms passing in her mind."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # considerable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large or relatively large in number or amount or extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large or relatively large in number or amount or extent or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come sit down with us and tell us what happened as soon as you feel more quiet; but no more such words, please." It took a considerable time before Bruno could tell his experience without breaking out again."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie's communication took a considerable time."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Please take me back to my mother's room now and come to me as soon as you find time, for I have something to talk over with you." An interview lasting a considerable time took place that afternoon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large or relatively large in number or amount or extent or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large or relatively large in number or amount or extent or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come sit down with us and tell us what happened as soon as you feel more quiet; but no more such words, please." It took a considerable time before Bruno could tell his experience without breaking out again."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie's communication took a considerable time."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Please take me back to my mother's room now and come to me as soon as you find time, for I have something to talk over with you." An interview lasting a considerable time took place that afternoon."*

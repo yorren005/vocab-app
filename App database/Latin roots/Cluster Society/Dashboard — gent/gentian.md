@@ -5,14 +5,6 @@ status: unread
 ---
 # gentian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family gentianaceae especially the genera gentiana and gentianella and gentianopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family gentianaceae especially the genera gentiana and gentianella and gentianopsis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"To what amazing infusions of gentian, peppermint, gilliflower, sage, parsley, thyme, rue, rosemary, and dandelion, did his courageous stomach submit itself!"*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"There sat an indigo bunting, that tiny bird of blue so intense that the very skies look pale beside it and among all the blue flowers of our land only the fringed gentian can rival it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family gentianaceae especially the genera gentiana and gentianella and gentianopsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family gentianaceae especially the genera gentiana and gentianella and gentianopsis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"To what amazing infusions of gentian, peppermint, gilliflower, sage, parsley, thyme, rue, rosemary, and dandelion, did his courageous stomach submit itself!"*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"There sat an indigo bunting, that tiny bird of blue so intense that the very skies look pale beside it and among all the blue flowers of our land only the fringed gentian can rival it."*

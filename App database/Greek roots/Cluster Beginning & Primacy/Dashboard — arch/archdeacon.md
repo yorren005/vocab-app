@@ -5,15 +5,6 @@ status: unread
 ---
 # archdeacon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anglican church) an ecclesiastical dignitary usually ranking just below a bishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anglican church) an ecclesiastical dignitary usually ranking just below a bishop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archdeacon’s House."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archdeacon’s House."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I shall return to Brocklehurst Hall in the course of a week or two: my good friend, the Archdeacon, will not permit me to leave him sooner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anglican church) an ecclesiastical dignitary usually ranking just below a bishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anglican church) an ecclesiastical dignitary usually ranking just below a bishop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archdeacon’s House."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archdeacon’s House."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I shall return to Brocklehurst Hall in the course of a week or two: my good friend, the Archdeacon, will not permit me to leave him sooner."*

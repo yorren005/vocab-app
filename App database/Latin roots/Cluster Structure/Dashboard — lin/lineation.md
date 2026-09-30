@@ -5,13 +5,6 @@ status: unread
 ---
 # lineation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The line that appears to bound an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of marking or outlining with lines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lineation designates the line that appears to bound an object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The line that appears to bound an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of marking or outlining with lines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lineation designates the line that appears to bound an object."*

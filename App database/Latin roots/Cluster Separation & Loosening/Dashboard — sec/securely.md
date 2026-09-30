@@ -5,15 +5,6 @@ status: unread
 ---
 # securely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a secure manner; in a manner free from danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a confident and unselfconscious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, these scroyles of Angiers flout you, kings, And stand securely on their battlements As in a theatre, whence they gape and point At your industrious scenes and acts of death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She dwells so securely on the excellency of her honour that the folly of my soul dares not present itself; she is too bright to be looked against."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Securely I espy Virtue with valour couched in thine eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a secure manner; in a manner free from danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a confident and unselfconscious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, these scroyles of Angiers flout you, kings, And stand securely on their battlements As in a theatre, whence they gape and point At your industrious scenes and acts of death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She dwells so securely on the excellency of her honour that the folly of my soul dares not present itself; she is too bright to be looked against."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Securely I espy Virtue with valour couched in thine eye."*

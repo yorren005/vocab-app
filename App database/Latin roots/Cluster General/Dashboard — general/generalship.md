@@ -5,13 +5,6 @@ status: unread
 ---
 # generalship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The leadership ability of a military general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and authority of a general.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is a great triumph of skill to gain the former, but still greater proof of generalship to maintain possession of the latter, for the man must battle for his fortress at every door and window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The leadership ability of a military general.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office and authority of a general.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is a great triumph of skill to gain the former, but still greater proof of generalship to maintain possession of the latter, for the man must battle for his fortress at every door and window."*

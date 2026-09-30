@@ -5,15 +5,6 @@ status: unread
 ---
 # inlet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arm off of a larger body of water (often between rocky headlands).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opening through which fluid is admitted to a tube or container.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A tributary of the main stream flowed through the basin of the pool by an inlet and outlet at opposite points of its diameter."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A later explorer came, and where the map showed a shore without a break, he found a huge inlet or outlet."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was much worried, and conscious of new elements in his life as noxious to him as an inlet of mud to a creature that has been used to breathe and bathe and dart after its illuminated prey in the clearest of waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arm off of a larger body of water (often between rocky headlands).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opening through which fluid is admitted to a tube or container.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A tributary of the main stream flowed through the basin of the pool by an inlet and outlet at opposite points of its diameter."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A later explorer came, and where the map showed a shore without a break, he found a huge inlet or outlet."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was much worried, and conscious of new elements in his life as noxious to him as an inlet of mud to a creature that has been used to breathe and bathe and dart after its illuminated prey in the clearest of waters."*

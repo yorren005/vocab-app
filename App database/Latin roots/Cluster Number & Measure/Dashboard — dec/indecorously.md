@@ -5,13 +5,6 @@ status: unread
 ---
 # indecorously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without decorousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without decorousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She was a tall and extremely slight woman, her features insignificant and her complexion sallow, but her figure indecorously beautiful under its close French draperies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without decorousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without decorousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She was a tall and extremely slight woman, her features insignificant and her complexion sallow, but her figure indecorously beautiful under its close French draperies."*

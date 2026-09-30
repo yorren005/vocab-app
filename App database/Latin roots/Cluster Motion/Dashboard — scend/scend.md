@@ -5,13 +5,6 @@ status: unread
 ---
 # scend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rise or heave upward under the influence of a natural force such as a wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rise or heave upward under the influence of a natural force such as a wave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scend designates rise or heave upward under the influence of a natural force such as a wave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rise or heave upward under the influence of a natural force such as a wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rise or heave upward under the influence of a natural force such as a wave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scend designates rise or heave upward under the influence of a natural force such as a wave."*

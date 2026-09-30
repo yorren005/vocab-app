@@ -5,15 +5,6 @@ status: unread
 ---
 # rusty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with or consisting of rust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the brown color of rust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And resolution thus fubbed as it is with the rusty curb of old father Antic the law?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! bots on’t, ’tis come at last, and ’tis turned to a rusty armour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fifth, an hand environed with clouds, Holding out gold that’s by the touchstone tried; The motto thus, _Sic spectanda fides._ The sixth Knight, Pericles, passes in rusty armour with bases, and unaccompanied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with or consisting of rust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the brown color of rust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And resolution thus fubbed as it is with the rusty curb of old father Antic the law?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! bots on’t, ’tis come at last, and ’tis turned to a rusty armour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fifth, an hand environed with clouds, Holding out gold that’s by the touchstone tried; The motto thus, _Sic spectanda fides._ The sixth Knight, Pericles, passes in rusty armour with bases, and unaccompanied."*

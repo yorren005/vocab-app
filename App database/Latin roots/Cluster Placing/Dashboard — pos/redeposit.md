@@ -5,13 +5,6 @@ status: unread
 ---
 # redeposit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deposit once again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deposit anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Interest is not compounded, unless the depositor withdraws the interest and redeposits it, but simple interest continues to accrue annually on a certificate so long as it is outstanding, without limitation as to time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deposit once again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deposit anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Interest is not compounded, unless the depositor withdraws the interest and redeposits it, but simple interest continues to accrue annually on a certificate so long as it is outstanding, without limitation as to time."*

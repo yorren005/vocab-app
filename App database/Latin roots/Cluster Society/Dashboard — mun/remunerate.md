@@ -5,15 +5,6 @@ status: unread
 ---
 # remunerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make payment to; compensate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make payment to; compensate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, and will nobly him remunerate."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Trabb measured and calculated me in the parlour, as if I were an estate and he the finest species of surveyor, and gave himself such a world of trouble that I felt that no suit of clothes could possibly remunerate him for his pains."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Thus trade flourishes--civilization advances; peace is kept; new dresses are wanted for new assemblies every week; and the last year's vintage of Lafitte will remunerate the honest proprietor who reared it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make payment to; compensate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make payment to; compensate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, and will nobly him remunerate."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Trabb measured and calculated me in the parlour, as if I were an estate and he the finest species of surveyor, and gave himself such a world of trouble that I felt that no suit of clothes could possibly remunerate him for his pains."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Thus trade flourishes--civilization advances; peace is kept; new dresses are wanted for new assemblies every week; and the last year's vintage of Lafitte will remunerate the honest proprietor who reared it."*

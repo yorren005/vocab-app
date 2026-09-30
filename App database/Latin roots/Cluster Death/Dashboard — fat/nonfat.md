@@ -5,13 +5,6 @@ status: unread
 ---
 # nonfat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without fat or fat solids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without fat or fat solids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfat designates without fat or fat solids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without fat or fat solids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without fat or fat solids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfat designates without fat or fat solids."*

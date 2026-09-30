@@ -5,15 +5,6 @@ status: unread
 ---
 # starter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electric motor for starting an engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contestant in a team sport who is in the game at the beginning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"However, I did advise her to take a copy of it along with the reels and the lunch-basket to read to him, as a starter of their day to be devoted to the establishment of a perfect friendship between them."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Go!" cried the starter, and low Sank the flag, and away we went sailing."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"However, the interview technique can be a starter to work through Grandpa's reserve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electric motor for starting an engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contestant in a team sport who is in the game at the beginning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"However, I did advise her to take a copy of it along with the reels and the lunch-basket to read to him, as a starter of their day to be devoted to the establishment of a perfect friendship between them."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Go!" cried the starter, and low Sank the flag, and away we went sailing."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"However, the interview technique can be a starter to work through Grandpa's reserve."*

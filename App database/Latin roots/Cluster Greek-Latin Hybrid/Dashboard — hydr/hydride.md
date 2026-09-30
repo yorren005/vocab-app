@@ -5,13 +5,6 @@ status: unread
 ---
 # hydride
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any binary compound formed by the union of hydrogen and other elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any binary compound formed by the union of hydrogen and other elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydride designates any binary compound formed by the union of hydrogen and other elements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any binary compound formed by the union of hydrogen and other elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any binary compound formed by the union of hydrogen and other elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydride designates any binary compound formed by the union of hydrogen and other elements."*

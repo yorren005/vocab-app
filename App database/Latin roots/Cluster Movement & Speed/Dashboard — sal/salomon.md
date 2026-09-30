@@ -5,15 +5,6 @@ status: unread
 ---
 # salomon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American financier and american revolutionary war patriot who helped fund the army during the american revolution (1740?-1785).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American financier and american revolutionary war patriot who helped fund the army during the american revolution (1740?-1785).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"From the very beginning he had had much intermittent annoyance through his dealings with his sporadically generous uncle Salomon Heine."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Governor Salomon--Her labors in behalf of the German and other soldiers of Wisconsin. 607-614 PITTSBURG BRANCH UNITED STATES SANITARY COMMISSION."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On the death of Governor Harvey, in April, 1862, at Pittsburg Landing, Lieutenant Governor Salomon was at once advanced by the Constitution of Wisconsin, to his place for the remainder of his term, about twenty-one months."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American financier and american revolutionary war patriot who helped fund the army during the american revolution (1740?-1785).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American financier and american revolutionary war patriot who helped fund the army during the american revolution (1740?-1785).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"From the very beginning he had had much intermittent annoyance through his dealings with his sporadically generous uncle Salomon Heine."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Governor Salomon--Her labors in behalf of the German and other soldiers of Wisconsin. 607-614 PITTSBURG BRANCH UNITED STATES SANITARY COMMISSION."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On the death of Governor Harvey, in April, 1862, at Pittsburg Landing, Lieutenant Governor Salomon was at once advanced by the Constitution of Wisconsin, to his place for the remainder of his term, about twenty-one months."*

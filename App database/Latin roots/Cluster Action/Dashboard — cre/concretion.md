@@ -5,15 +5,6 @@ status: unread
 ---
 # concretion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of stonelike objects within a body organ (e.g., the kidneys).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, in three or four fathoms of water, between the reefs of Pacou and Vanou, lay anchors, cannons, pigs of lead and iron, embedded in the limy concretions."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Another weed known as velp, with leaves four feet long, buried in the coral concretions, hung at the bottom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of stonelike objects within a body organ (e.g., the kidneys).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, in three or four fathoms of water, between the reefs of Pacou and Vanou, lay anchors, cannons, pigs of lead and iron, embedded in the limy concretions."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Another weed known as velp, with leaves four feet long, buried in the coral concretions, hung at the bottom."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perfidy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Betrayal of a trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of deliberate betrayal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By my soul, the countenance of that fellow when he was a boy was the blackest image of perfidy, cowardice, and cruelty ever set up as a scarecrow in a field of scoundrels."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He needs not, he heeds not, Or human love or hate; Whilst I here must cry here At perfidy ingrate!"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"His mind had not yet grasped the full enormity of the conspiracy of which he was the victim, but he knew that the perfidy of Lal and the loss of the Sapphire meant death to his hopes of winning victory for the Khalsa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Betrayal of a trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of deliberate betrayal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"By my soul, the countenance of that fellow when he was a boy was the blackest image of perfidy, cowardice, and cruelty ever set up as a scarecrow in a field of scoundrels."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He needs not, he heeds not, Or human love or hate; Whilst I here must cry here At perfidy ingrate!"*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"His mind had not yet grasped the full enormity of the conspiracy of which he was the victim, but he knew that the perfidy of Lal and the loss of the Sapphire meant death to his hopes of winning victory for the Khalsa."*

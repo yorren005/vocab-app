@@ -5,15 +5,6 @@ status: unread
 ---
 # dissatisfaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being displeased and discontent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling of being displeased and discontent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a kind of man—by George!—that has caused me more restlessness, and more uneasiness, and more dissatisfaction with myself than all other men put together."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An unguided ramble into its recesses in bad weather is apt to engender dissatisfaction with its narrow, tortuous, and miry ways."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It appeared first in a general dissatisfaction with everybody about her, while she remained in the rooms, which speedily brought on considerable weariness and a violent desire to go home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being displeased and discontent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling of being displeased and discontent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a kind of man—by George!—that has caused me more restlessness, and more uneasiness, and more dissatisfaction with myself than all other men put together."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An unguided ramble into its recesses in bad weather is apt to engender dissatisfaction with its narrow, tortuous, and miry ways."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"It appeared first in a general dissatisfaction with everybody about her, while she remained in the rooms, which speedily brought on considerable weariness and a violent desire to go home."*

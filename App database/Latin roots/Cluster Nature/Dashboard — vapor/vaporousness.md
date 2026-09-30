@@ -5,13 +5,6 @@ status: unread
 ---
 # vaporousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cloudiness resulting from haze or mist or vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cloudiness resulting from haze or mist or vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaporousness designates cloudiness resulting from haze or mist or vapor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cloudiness resulting from haze or mist or vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cloudiness resulting from haze or mist or vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaporousness designates cloudiness resulting from haze or mist or vapor."*

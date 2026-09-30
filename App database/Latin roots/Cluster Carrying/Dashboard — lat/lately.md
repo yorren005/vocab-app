@@ -5,15 +5,6 @@ status: unread
 ---
 # lately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You were lately whipp’d, sir, as I think."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You were lately whipp’d, sir, as I think."*

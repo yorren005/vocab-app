@@ -5,15 +5,6 @@ status: unread
 ---
 # creed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of principles or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The written body of teachings of a religious group that are generally accepted by that group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For me, my lords, I love him not, nor fear him; there’s my creed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lanceolate windows, the time-eaten archstones and chamfers, the orientation of the axis, the misty chestnut work of the rafters, referred to no exploded fortifying art or worn-out religious creed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was something definite in that hope, for admitting that there might have been no deep thought in her words to Liddy about marriage, they showed at least her creed on the matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of principles or beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The written body of teachings of a religious group that are generally accepted by that group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For me, my lords, I love him not, nor fear him; there’s my creed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lanceolate windows, the time-eaten archstones and chamfers, the orientation of the axis, the misty chestnut work of the rafters, referred to no exploded fortifying art or worn-out religious creed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was something definite in that hope, for admitting that there might have been no deep thought in her words to Liddy about marriage, they showed at least her creed on the matter."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sintered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed into a mass by heat and pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The sintered cakes are finally discharged automatically into cars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (ores or powdery metals) to become a coherent mass by heating without melting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed into a mass by heat and pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The sintered cakes are finally discharged automatically into cars."*

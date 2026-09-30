@@ -5,15 +5,6 @@ status: unread
 ---
 # irreligious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or indifferent to religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hostile or indifferent to religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ offence is holy that she hath committed, And this deceit loses the name of craft, Of disobedience, or unduteous title, Since therein she doth evitate and shun A thousand irreligious cursed hours, Which forced marriage would have brought upon her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this was Tamora delivered, The issue of an irreligious Moor, Chief architect and plotter of these woes."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The husband and sons were irreligious, but awed in the presence of this affliction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or indifferent to religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hostile or indifferent to religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ offence is holy that she hath committed, And this deceit loses the name of craft, Of disobedience, or unduteous title, Since therein she doth evitate and shun A thousand irreligious cursed hours, Which forced marriage would have brought upon her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this was Tamora delivered, The issue of an irreligious Moor, Chief architect and plotter of these woes."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The husband and sons were irreligious, but awed in the presence of this affliction."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # serotonin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurotransmitter involved in e.g. sleep and depression and memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurotransmitter involved in e.g. sleep and depression and memory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serotonin designates a neurotransmitter involved in e.g. sleep and depression and memory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurotransmitter involved in e.g. sleep and depression and memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurotransmitter involved in e.g. sleep and depression and memory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serotonin designates a neurotransmitter involved in e.g. sleep and depression and memory."*

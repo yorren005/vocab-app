@@ -5,15 +5,6 @@ status: unread
 ---
 # partake
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have some of the qualities or attributes of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have, give, or receive a share of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O cunning love, with tears thou keep’st me blind, Lest eyes well-seeing thy foul faults should find. 149 Canst thou O cruel, say I love thee not, When I against my self with thee partake?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Portia, go in awhile; And by and by thy bosom shall partake The secrets of my heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so; an please your worship, Brakenbury, You may partake of anything we say."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have some of the qualities or attributes of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have, give, or receive a share of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O cunning love, with tears thou keep’st me blind, Lest eyes well-seeing thy foul faults should find. 149 Canst thou O cruel, say I love thee not, When I against my self with thee partake?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Portia, go in awhile; And by and by thy bosom shall partake The secrets of my heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so; an please your worship, Brakenbury, You may partake of anything we say."*

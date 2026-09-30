@@ -5,15 +5,6 @@ status: unread
 ---
 # frenzy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary madness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent mental or emotional agitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is no shame; the fellow finds his vein, And yielding to him, humours well his frenzy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his humour Was nothing but mutation, ay, and that From one bad thing to worse, not frenzy, not Absolute madness could so far have rav’d, To bring him here alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first of April died Your noble mother; and as I hear, my lord, The Lady Constance in a frenzy died Three days before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary madness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent mental or emotional agitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is no shame; the fellow finds his vein, And yielding to him, humours well his frenzy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his humour Was nothing but mutation, ay, and that From one bad thing to worse, not frenzy, not Absolute madness could so far have rav’d, To bring him here alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first of April died Your noble mother; and as I hear, my lord, The Lady Constance in a frenzy died Three days before."*

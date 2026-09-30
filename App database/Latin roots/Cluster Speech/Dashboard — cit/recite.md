@@ -5,15 +5,6 @@ status: unread
 ---
 # recite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recite in elocution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat aloud from memory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll recite it to you: A SONG ABOUT A WELL KNOWN YOUNG LADY."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"After supper, John would go into Cockburnspath to recite the lessons he had prepared to Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And what I am about to tell you I should long since have forgotten had I not heard my father recite it to wondering listeners so many times during my childhood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recite in elocution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat aloud from memory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll recite it to you: A SONG ABOUT A WELL KNOWN YOUNG LADY."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"After supper, John would go into Cockburnspath to recite the lessons he had prepared to Mr."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And what I am about to tell you I should long since have forgotten had I not heard my father recite it to wondering listeners so many times during my childhood."*

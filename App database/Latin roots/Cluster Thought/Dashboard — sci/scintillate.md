@@ -5,15 +5,6 @@ status: unread
 ---
 # scintillate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect brightly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and scintillates in the subtile oxygen of his mind."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of scintillating dialogue rushed through my mind."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet here she is lying at my feet, with her golden domes and crosses scintillating and twinkling in the sunshine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect brightly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and scintillates in the subtile oxygen of his mind."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of scintillating dialogue rushed through my mind."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet here she is lying at my feet, with her golden domes and crosses scintillating and twinkling in the sunshine."*

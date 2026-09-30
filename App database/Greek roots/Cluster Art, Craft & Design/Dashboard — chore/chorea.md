@@ -5,13 +5,6 @@ status: unread
 ---
 # chorea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chorea chiefly of children and adolescents that occurs following Group A streptococcal infection and is mainly a neurological manifestation of rheumatic fever and that is characterized especially by involuntary movements of the face, arms, legs, and trunk —called also Saint Vitus' dance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Bass, a Home Missionary of Brooklyn, N.Y.: "While living in Canada, my eldest daughter, then a girl of ten years of age, rather delicate and of feeble health, had a severe attack of chorea, "St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chorea chiefly of children and adolescents that occurs following Group A streptococcal infection and is mainly a neurological manifestation of rheumatic fever and that is characterized especially by involuntary movements of the face, arms, legs, and trunk —called also Saint Vitus' dance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Bass, a Home Missionary of Brooklyn, N.Y.: "While living in Canada, my eldest daughter, then a girl of ten years of age, rather delicate and of feeble health, had a severe attack of chorea, "St."*

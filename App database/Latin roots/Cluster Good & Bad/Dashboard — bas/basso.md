@@ -5,15 +5,6 @@ status: unread
 ---
 # basso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult male singer with the lowest voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest adult male singing voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A foreign friend once pointed it out to me, in the skeleton of a foe he had slain, and with the vertebræ of which he was inlaying, in a sort of basso-relievo, the beaked prow of his canoe."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A foreign friend once pointed it out to me, in the skeleton of a foe he had slain, and with the vertebræ of which he was inlaying, in a sort of basso-relievo, the beaked prow of his canoe."*
-> - 📜 **James Joyce (*Ulysses*):** *"Thanks be to God he’s not paid yet. —And how is that _basso profondo_, Benjamin?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult male singer with the lowest voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest adult male singing voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A foreign friend once pointed it out to me, in the skeleton of a foe he had slain, and with the vertebræ of which he was inlaying, in a sort of basso-relievo, the beaked prow of his canoe."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A foreign friend once pointed it out to me, in the skeleton of a foe he had slain, and with the vertebræ of which he was inlaying, in a sort of basso-relievo, the beaked prow of his canoe."*
+> - 📜 **James Joyce (*Ulysses*):** *"Thanks be to God he’s not paid yet. —And how is that _basso profondo_, Benjamin?"*

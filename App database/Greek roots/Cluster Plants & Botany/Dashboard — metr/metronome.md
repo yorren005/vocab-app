@@ -5,13 +5,6 @@ status: unread
 ---
 # metronome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a device or app) designed to mark an exact tempo or rhythm by regularly repeated sounds or flashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a device or app) designed to mark an exact tempo or rhythm by regularly repeated sounds or flashes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There's an old metronome up-stairs that Cyril left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a device or app) designed to mark an exact tempo or rhythm by regularly repeated sounds or flashes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a device or app) designed to mark an exact tempo or rhythm by regularly repeated sounds or flashes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There's an old metronome up-stairs that Cyril left."*

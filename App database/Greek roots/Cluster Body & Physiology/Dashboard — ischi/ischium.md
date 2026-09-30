@@ -5,13 +5,6 @@ status: unread
 ---
 # ischium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower and posterior of the three principal bones composing either half of the pelvis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower and posterior of the three principal bones composing either half of the pelvis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischium designates the lower and posterior of the three principal bones composing either half of the pelvis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower and posterior of the three principal bones composing either half of the pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower and posterior of the three principal bones composing either half of the pelvis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischium designates the lower and posterior of the three principal bones composing either half of the pelvis."*

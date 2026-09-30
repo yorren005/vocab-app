@@ -5,13 +5,6 @@ status: unread
 ---
 # thrombosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of a blood clot within a blood vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blocking of a coronary artery of the heart by a thrombus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombosis designates the formation or presence of a blood clot within a blood vessel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of a blood clot within a blood vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blocking of a coronary artery of the heart by a thrombus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombosis designates the formation or presence of a blood clot within a blood vessel."*

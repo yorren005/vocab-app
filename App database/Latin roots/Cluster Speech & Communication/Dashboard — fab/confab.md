@@ -5,15 +5,6 @@ status: unread
 ---
 # confab
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk socially without exchanging too much information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Camford, loftily; "but my nerves are all shattered by this long confab, and I will now retire, leaving you young people to cultivate each other's acquaintance."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You could see these two roaming about all day long with their heads close together in an everlasting confab."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Is this true, friend Candiola, that they are telling about here?" "What?" "That you have been inside the French lines, holding confabs with that mob?" "I?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk socially without exchanging too much information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Camford, loftily; "but my nerves are all shattered by this long confab, and I will now retire, leaving you young people to cultivate each other's acquaintance."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You could see these two roaming about all day long with their heads close together in an everlasting confab."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Is this true, friend Candiola, that they are telling about here?" "What?" "That you have been inside the French lines, holding confabs with that mob?" "I?"*

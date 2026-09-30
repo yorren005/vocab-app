@@ -5,14 +5,6 @@ status: unread
 ---
 # multidimensional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving or marked by several dimensions or aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving or marked by several dimensions or aspects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene was geometric, multidimensional, and seemingly chaotic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"View tanks, consoles and displays along the bulkheads glowed and portrayed the multidimensional battle zone, updates on readiness of the fleet and whatever had been considered relevant in defeating the enemy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving or marked by several dimensions or aspects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving or marked by several dimensions or aspects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene was geometric, multidimensional, and seemingly chaotic."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"View tanks, consoles and displays along the bulkheads glowed and portrayed the multidimensional battle zone, updates on readiness of the fleet and whatever had been considered relevant in defeating the enemy."*

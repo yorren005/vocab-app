@@ -5,15 +5,6 @@ status: unread
 ---
 # irreducible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being made smaller or simpler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being made smaller or simpler.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is toward the attainment of this irreducible minimum of uncertainty and disaster in business that efforts should be directed. [Footnote 1: On the way these affect private profits see Vol."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus friction is brought down almost to the irreducible minimum."*
-> - 📜 **James Joyce (*Ulysses*):** *"What anthem did Bloom chant partially in anticipation of that multiple, ethnically irreducible consummation?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being made smaller or simpler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being made smaller or simpler.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is toward the attainment of this irreducible minimum of uncertainty and disaster in business that efforts should be directed. [Footnote 1: On the way these affect private profits see Vol."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus friction is brought down almost to the irreducible minimum."*
+> - 📜 **James Joyce (*Ulysses*):** *"What anthem did Bloom chant partially in anticipation of that multiple, ethnically irreducible consummation?"*

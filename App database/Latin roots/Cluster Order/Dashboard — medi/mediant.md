@@ -5,13 +5,6 @@ status: unread
 ---
 # mediant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the third note of a diatonic scale; midway between the tonic and the dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the third note of a diatonic scale; midway between the tonic and the dominant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediant designates (music) the third note of a diatonic scale; midway between the tonic and the dominant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the third note of a diatonic scale; midway between the tonic and the dominant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the third note of a diatonic scale; midway between the tonic and the dominant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediant designates (music) the third note of a diatonic scale; midway between the tonic and the dominant."*

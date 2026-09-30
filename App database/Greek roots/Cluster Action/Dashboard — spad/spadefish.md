@@ -5,13 +5,6 @@ status: unread
 ---
 # spadefish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-bodied disk-shaped food fish of warmer western atlantic coastal waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-bodied disk-shaped food fish of warmer western atlantic coastal waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadefish designates deep-bodied disk-shaped food fish of warmer western atlantic coastal waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-bodied disk-shaped food fish of warmer western atlantic coastal waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-bodied disk-shaped food fish of warmer western atlantic coastal waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadefish designates deep-bodied disk-shaped food fish of warmer western atlantic coastal waters."*

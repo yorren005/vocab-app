@@ -5,13 +5,6 @@ status: unread
 ---
 # contestation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contentious speech act; a dispute where there is strong disagreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife and brother Made wars upon me, and their contestation Was theme for you; you were the word of war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contentious speech act; a dispute where there is strong disagreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife and brother Made wars upon me, and their contestation Was theme for you; you were the word of war."*

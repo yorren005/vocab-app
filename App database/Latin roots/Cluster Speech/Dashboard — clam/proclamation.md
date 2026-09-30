@@ -5,15 +5,6 @@ status: unread
 ---
 # proclamation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of proclaiming; giving public notice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now to all sense ’tis gross You love my son; invention is asham’d, Against the proclamation of thy passion To say thou dost not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was; I heard the proclamation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nought rests for me in this tumultuous strife But to make open proclamation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of proclaiming; giving public notice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now to all sense ’tis gross You love my son; invention is asham’d, Against the proclamation of thy passion To say thou dost not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was; I heard the proclamation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nought rests for me in this tumultuous strife But to make open proclamation."*

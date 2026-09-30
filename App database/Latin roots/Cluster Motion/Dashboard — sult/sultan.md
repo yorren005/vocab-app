@@ -5,15 +5,6 @@ status: unread
 ---
 # sultan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ruler of a muslim country (especially of the former ottoman empire).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ruler of a muslim country (especially of the former ottoman empire).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The sultan is puzzled: "What meanest thou?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her brows as a slave before the Sultan."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her bows as a slave before the Sultan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ruler of a muslim country (especially of the former ottoman empire).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ruler of a muslim country (especially of the former ottoman empire).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The sultan is puzzled: "What meanest thou?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her brows as a slave before the Sultan."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her bows as a slave before the Sultan."*

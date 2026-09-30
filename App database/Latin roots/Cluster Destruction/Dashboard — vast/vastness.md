@@ -5,15 +5,6 @@ status: unread
 ---
 # vastness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusual largeness in size or extent or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual largeness in size or extent or number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All that kept the vastness of space, like a monster, from pouncing upon me were those good stout walls of mine, close to hand on every side."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He puts before them the tremendous work that he has to do--work more appalling in its vastness the more one studies it; and then he tells them that he is trusting the whole thing with them."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wait a bit!” The united vastness and distinctness of this view so struck him, that he no longer asked if he might shake hands with me, but said he really must,—and did."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusual largeness in size or extent or number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual largeness in size or extent or number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All that kept the vastness of space, like a monster, from pouncing upon me were those good stout walls of mine, close to hand on every side."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He puts before them the tremendous work that he has to do--work more appalling in its vastness the more one studies it; and then he tells them that he is trusting the whole thing with them."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wait a bit!” The united vastness and distinctness of this view so struck him, that he no longer asked if he might shake hands with me, but said he really must,—and did."*

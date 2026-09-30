@@ -5,13 +5,6 @@ status: unread
 ---
 # theca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping sheath or case of an animal or animal part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enveloping sheath or case of an animal or animal part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theca designates an enveloping sheath or case of an animal or animal part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping sheath or case of an animal or animal part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enveloping sheath or case of an animal or animal part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theca designates an enveloping sheath or case of an animal or animal part."*

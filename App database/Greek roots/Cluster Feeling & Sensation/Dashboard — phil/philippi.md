@@ -5,15 +5,6 @@ status: unread
 ---
 # philippi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in ancient macedonia that was important in early christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octavian and mark antony defeated brutus and cassius in 42 bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AGRIPPA. [_Aside to Enobarbus_.] Why, Enobarbus, When Antony found Julius Caesar dead, He cried almost to roaring, and he wept When at Philippi he found Brutus slain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He at Philippi kept His sword e’en like a dancer, while I struck The lean and wrinkled Cassius, and ’twas I That the mad Brutus ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plains of Philippi Scene II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in ancient macedonia that was important in early christianity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octavian and mark antony defeated brutus and cassius in 42 bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AGRIPPA. [_Aside to Enobarbus_.] Why, Enobarbus, When Antony found Julius Caesar dead, He cried almost to roaring, and he wept When at Philippi he found Brutus slain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He at Philippi kept His sword e’en like a dancer, while I struck The lean and wrinkled Cassius, and ’twas I That the mad Brutus ended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plains of Philippi Scene II."*

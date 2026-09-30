@@ -5,15 +5,6 @@ status: unread
 ---
 # transparent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitting light; able to be seen through with clarity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So thin as to transmit light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor shines the silver moon one half so bright Through the transparent bosom of the deep As doth thy face, through tears of mine give light."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When the devout religion of mine eye Maintains such falsehood, then turn tears to fire; And these who, often drown’d, could never die, Transparent heretics, be burnt for liars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitting light; able to be seen through with clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So thin as to transmit light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor shines the silver moon one half so bright Through the transparent bosom of the deep As doth thy face, through tears of mine give light."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When the devout religion of mine eye Maintains such falsehood, then turn tears to fire; And these who, often drown’d, could never die, Transparent heretics, be burnt for liars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*

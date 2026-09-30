@@ -5,15 +5,6 @@ status: unread
 ---
 # restitution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money paid in compensation for loss or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring something to its original state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How often he had met you sword to sword; That of all things upon the earth he hated Your person most; that he would pawn his fortunes To hopeless restitution, so he might Be called your vanquisher."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, many a pound of mine own proper store, Because I would not tax the needy commons, Have I dispursed to the garrisons And never asked for restitution."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, now is Cupid a child of conscience; he makes restitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money paid in compensation for loss or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring something to its original state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How often he had met you sword to sword; That of all things upon the earth he hated Your person most; that he would pawn his fortunes To hopeless restitution, so he might Be called your vanquisher."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, many a pound of mine own proper store, Because I would not tax the needy commons, Have I dispursed to the garrisons And never asked for restitution."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, now is Cupid a child of conscience; he makes restitution."*

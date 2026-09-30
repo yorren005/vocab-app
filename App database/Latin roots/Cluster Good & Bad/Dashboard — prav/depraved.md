@@ -5,15 +5,6 @@ status: unread
 ---
 # depraved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating from what is considered moral or right or proper or good.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lives that’s not depraved or depraves?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Intemperance, of the most depraved kind, made his career most dreadful."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was rich enough now—yet poor to hideous indigence: a nature the most gross, impure, depraved I ever saw, was associated with mine, and called by the law and by society a part of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating from what is considered moral or right or proper or good.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lives that’s not depraved or depraves?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Intemperance, of the most depraved kind, made his career most dreadful."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was rich enough now—yet poor to hideous indigence: a nature the most gross, impure, depraved I ever saw, was associated with mine, and called by the law and by society a part of me."*

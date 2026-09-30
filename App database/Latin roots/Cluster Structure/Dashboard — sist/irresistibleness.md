@@ -5,14 +5,6 @@ status: unread
 ---
 # irresistibleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being overpowering and impossible to resist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being overpowering and impossible to resist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being overpowering and impossible to resist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being overpowering and impossible to resist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*

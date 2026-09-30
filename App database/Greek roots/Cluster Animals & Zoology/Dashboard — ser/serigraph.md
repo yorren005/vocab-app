@@ -5,13 +5,6 @@ status: unread
 ---
 # serigraph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An original silk-screen color print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An original silk-screen color print.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serigraph designates an original silk-screen color print."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An original silk-screen color print.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An original silk-screen color print.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serigraph designates an original silk-screen color print."*

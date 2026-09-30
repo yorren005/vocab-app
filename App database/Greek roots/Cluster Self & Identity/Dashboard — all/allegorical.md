@@ -5,15 +5,6 @@ status: unread
 ---
 # allegorical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or characteristic of or containing allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or characteristic of or containing allegory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Not only are the personages too transparently allegorical, but the allegory is insipid; especially tactless is the treatment of the marriage between Prometheus, the Spirit of Humanity, and Asia, the Spirit of Nature, as a romantic love affair."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An allegorical meaning may lurk here."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have noticed merely those parts of the poem immediately connected with the tower, and have passed over a large part which was in the allegorical vein, so much cultivated at that day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or characteristic of or containing allegory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or characteristic of or containing allegory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Not only are the personages too transparently allegorical, but the allegory is insipid; especially tactless is the treatment of the marriage between Prometheus, the Spirit of Humanity, and Asia, the Spirit of Nature, as a romantic love affair."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An allegorical meaning may lurk here."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have noticed merely those parts of the poem immediately connected with the tower, and have passed over a large part which was in the allegorical vein, so much cultivated at that day."*

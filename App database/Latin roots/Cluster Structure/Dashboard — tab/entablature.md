@@ -5,14 +5,6 @@ status: unread
 ---
 # entablature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (architecture) the structure consisting of the part of a classical temple above the columns between a capital and the roof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) the structure consisting of the part of a classical temple above the columns between a capital and the roof.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So with a broken throne, the great gods mock that captive king; so like a Caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So with a broken throne, the great gods mock that captive king; so like a Caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (architecture) the structure consisting of the part of a classical temple above the columns between a capital and the roof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) the structure consisting of the part of a classical temple above the columns between a capital and the roof.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So with a broken throne, the great gods mock that captive king; so like a Caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So with a broken throne, the great gods mock that captive king; so like a Caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages."*

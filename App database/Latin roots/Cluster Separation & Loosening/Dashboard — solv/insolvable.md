@@ -5,14 +5,6 @@ status: unread
 ---
 # insolvable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily solved; ; - c.l.jones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily solved; ; - c.l.jones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I pondered the mystery a minute or two; but finding it insolvable, and being certain it could not be of much moment, I dismissed, and soon forgot it."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She may be sitting there still, solving at the insolvable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily solved; ; - c.l.jones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily solved; ; - c.l.jones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I pondered the mystery a minute or two; but finding it insolvable, and being certain it could not be of much moment, I dismissed, and soon forgot it."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She may be sitting there still, solving at the insolvable."*

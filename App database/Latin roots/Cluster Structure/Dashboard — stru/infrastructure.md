@@ -5,15 +5,6 @@ status: unread
 ---
 # infrastructure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic structure or features of a system or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stock of basic facilities and capital equipment needed for the functioning of a country or area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We gained opportunities to fashion and strengthen an infrastructure, and freedom to confuse our INOR neighbors with a melange of schemes to satisfy their greed."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We will provide material support and training for transition to an infrastructure and administration of Pluto's choice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic structure or features of a system or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stock of basic facilities and capital equipment needed for the functioning of a country or area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We gained opportunities to fashion and strengthen an infrastructure, and freedom to confuse our INOR neighbors with a melange of schemes to satisfy their greed."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We will provide material support and training for transition to an infrastructure and administration of Pluto's choice."*

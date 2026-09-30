@@ -5,15 +5,6 @@ status: unread
 ---
 # senselessness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of meaning or ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total lack of meaning or ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Open their bleared lids and look on your own accursed senselessness!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But even then, at moments of weakness as he had accounted them, his mind had penetrated to those distances and he had there seen the same pettiness, worldliness, and senselessness."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"Another time That was, when I was here long years ago: The senselessness of joy was then sublime!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of meaning or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total lack of meaning or ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Open their bleared lids and look on your own accursed senselessness!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But even then, at moments of weakness as he had accounted them, his mind had penetrated to those distances and he had there seen the same pettiness, worldliness, and senselessness."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"Another time That was, when I was here long years ago: The senselessness of joy was then sublime!"*

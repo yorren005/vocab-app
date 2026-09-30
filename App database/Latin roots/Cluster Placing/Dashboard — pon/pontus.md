@@ -5,14 +5,6 @@ status: unread
 ---
 # pontus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) ancient personification of the sea; father of nereus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region of northern asia minor on the black sea; it reached its height under mithridates vi but was later incorporated into the roman empire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the mountainous coast of Pontus there dwelt in antiquity a rude and warlike people named the Mosyni or Mosynoeci, through whose rugged country the Ten Thousand marched on their famous retreat from Asia to Europe."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the goddess Ma was served by a multitude of sacred harlots at Comana in Pontus, and crowds of men and women flocked to her sanctuary from the neighbouring cities and country to attend the biennial festivals or to pay their vows to the goddess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) ancient personification of the sea; father of nereus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region of northern asia minor on the black sea; it reached its height under mithridates vi but was later incorporated into the roman empire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the mountainous coast of Pontus there dwelt in antiquity a rude and warlike people named the Mosyni or Mosynoeci, through whose rugged country the Ten Thousand marched on their famous retreat from Asia to Europe."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the goddess Ma was served by a multitude of sacred harlots at Comana in Pontus, and crowds of men and women flocked to her sanctuary from the neighbouring cities and country to attend the biennial festivals or to pay their vows to the goddess."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # jointly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In collaboration or cooperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rascal people, thirsting after prey, Join with the traitor, and they jointly swear To spoil the city and your royal court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But of that tomorrow, When therewithal we shall have cause of state Craving us jointly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In collaboration or cooperation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rascal people, thirsting after prey, Join with the traitor, and they jointly swear To spoil the city and your royal court."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But of that tomorrow, When therewithal we shall have cause of state Craving us jointly."*

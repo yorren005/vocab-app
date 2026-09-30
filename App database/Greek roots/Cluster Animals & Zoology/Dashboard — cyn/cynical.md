@@ -5,15 +5,6 @@ status: unread
 ---
 # cynical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A cynical inference was irresistible by Gabriel Oak as he regarded the scene, generous though he fain would have been."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You have got quite cynical lately—how is it?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cynical things he had uttered to himself about her; but no man can be always a cynic and live; and he withdrew them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A cynical inference was irresistible by Gabriel Oak as he regarded the scene, generous though he fain would have been."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You have got quite cynical lately—how is it?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cynical things he had uttered to himself about her; but no man can be always a cynic and live; and he withdrew them."*

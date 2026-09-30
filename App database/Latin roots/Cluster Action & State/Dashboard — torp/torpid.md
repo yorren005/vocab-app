@@ -5,15 +5,6 @@ status: unread
 ---
 # torpid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow and apathetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a condition of biological rest or suspended animation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The two ships becalmed on a torpid sea, I believed to be marine phantoms."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He said every nerve had been overstrained in some way, and the whole system must sleep torpid a while."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Wholly untaught, with faculties quite torpid, they seemed to me hopelessly dull; and, at first sight, all dull alike: but I soon found I was mistaken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow and apathetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a condition of biological rest or suspended animation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The two ships becalmed on a torpid sea, I believed to be marine phantoms."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He said every nerve had been overstrained in some way, and the whole system must sleep torpid a while."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Wholly untaught, with faculties quite torpid, they seemed to me hopelessly dull; and, at first sight, all dull alike: but I soon found I was mistaken."*

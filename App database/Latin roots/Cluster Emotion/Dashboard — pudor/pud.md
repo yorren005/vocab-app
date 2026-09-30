@@ -5,14 +5,6 @@ status: unread
 ---
 # pud
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (british) the dessert course of a meal (`pud' is used informally).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british) the dessert course of a meal (`pud' is used informally).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama pulled up on the reins to make Belle and Pud-din' Foot slow down and called to Papa, "You coming on now?" "Yeah!"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian on the temples, _de Pud._ c. 5."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (british) the dessert course of a meal (`pud' is used informally).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british) the dessert course of a meal (`pud' is used informally).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama pulled up on the reins to make Belle and Pud-din' Foot slow down and called to Papa, "You coming on now?" "Yeah!"*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian on the temples, _de Pud._ c. 5."*

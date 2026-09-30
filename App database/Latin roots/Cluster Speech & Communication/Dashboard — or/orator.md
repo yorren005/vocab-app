@@ -5,15 +5,6 @@ status: unread
 ---
 # orator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a speech or oration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who delivers a speech or oration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s a good drum, my lord, but a naughty orator."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of York, I promise you the King Prettily, methought, did play the orator."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you, my lord, were glad to be employed, To show how quaint an orator you are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a speech or oration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who delivers a speech or oration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s a good drum, my lord, but a naughty orator."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of York, I promise you the King Prettily, methought, did play the orator."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you, my lord, were glad to be employed, To show how quaint an orator you are."*

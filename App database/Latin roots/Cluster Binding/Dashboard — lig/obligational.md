@@ -5,13 +5,6 @@ status: unread
 ---
 # obligational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or constituting or qualified to create a legal or financial obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating or constituting or qualified to create a legal or financial obligation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obligational designates relating or constituting or qualified to create a legal or financial obligation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or constituting or qualified to create a legal or financial obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating or constituting or qualified to create a legal or financial obligation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obligational designates relating or constituting or qualified to create a legal or financial obligation."*

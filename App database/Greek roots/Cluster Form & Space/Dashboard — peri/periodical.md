@@ -5,15 +5,6 @@ status: unread
 ---
 # periodical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A publication that appears at fixed intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or recurring at regular intervals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The periodical visits of the trooper to these rooms, however, in the course of his patrolling is an assurance of protection and company both to mistress and maid, which renders them very acceptable in the small hours of the night."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For several days after Tess’s arrival Clare, sitting abstractedly reading from some book, periodical, or piece of music just come by post, hardly noticed that she was present at table."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"So she went to the Mission periodical to find the address of the Mission Secretary, thinking to send the extra dollar there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A publication that appears at fixed intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or recurring at regular intervals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The periodical visits of the trooper to these rooms, however, in the course of his patrolling is an assurance of protection and company both to mistress and maid, which renders them very acceptable in the small hours of the night."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For several days after Tess’s arrival Clare, sitting abstractedly reading from some book, periodical, or piece of music just come by post, hardly noticed that she was present at table."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"So she went to the Mission periodical to find the address of the Mission Secretary, thinking to send the extra dollar there."*

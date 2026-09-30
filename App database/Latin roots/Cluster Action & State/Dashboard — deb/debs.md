@@ -5,13 +5,6 @@ status: unread
 ---
 # debs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states labor organizer who ran for president as a socialist (1855-1926).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debs designates united states labor organizer who ran for president as a socialist (1855-1926)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states labor organizer who ran for president as a socialist (1855-1926).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debs designates united states labor organizer who ran for president as a socialist (1855-1926)."*

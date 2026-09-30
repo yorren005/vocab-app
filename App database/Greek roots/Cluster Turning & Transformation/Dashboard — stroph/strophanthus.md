@@ -5,13 +5,6 @@ status: unread
 ---
 # strophanthus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophanthus designates any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophanthus designates any of various shrubs or small trees of the genus strophanthus having whorled leaves and showy flowers of various colors in dense and corymbose clusters; some have poisonous seeds."*

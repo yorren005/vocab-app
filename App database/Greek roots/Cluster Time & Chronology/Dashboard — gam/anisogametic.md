@@ -5,13 +5,6 @@ status: unread
 ---
 # anisogametic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogametic designates relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogametic designates relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # osteichthyes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of fish having a skeleton composed of bone in addition to cartilage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of fish having a skeleton composed of bone in addition to cartilage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Osteichthyes designates a class of fish having a skeleton composed of bone in addition to cartilage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of fish having a skeleton composed of bone in addition to cartilage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of fish having a skeleton composed of bone in addition to cartilage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Osteichthyes designates a class of fish having a skeleton composed of bone in addition to cartilage."*

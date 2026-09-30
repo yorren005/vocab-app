@@ -5,13 +5,6 @@ status: unread
 ---
 # dermatomycosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungal infection of the skin (especially of moist parts covered by clothing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungal infection of the skin (especially of moist parts covered by clothing).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatomycosis designates fungal infection of the skin (especially of moist parts covered by clothing)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungal infection of the skin (especially of moist parts covered by clothing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungal infection of the skin (especially of moist parts covered by clothing).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatomycosis designates fungal infection of the skin (especially of moist parts covered by clothing)."*

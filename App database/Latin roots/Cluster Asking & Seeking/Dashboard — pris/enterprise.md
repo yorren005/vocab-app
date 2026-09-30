@@ -5,15 +5,6 @@ status: unread
 ---
 # enterprise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purposeful or industrious undertaking (especially one that requires effort or boldness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization created for business ventures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you saw yourself with your eyes or knew yourself with your judgement, the fear of your adventure would counsel you to a more equal enterprise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear my brother Mortimer doth stir About his title, and hath sent for you To line his enterprise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sickness doth infect The very life-blood of our enterprise; ’Tis catching hither, even to our camp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purposeful or industrious undertaking (especially one that requires effort or boldness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization created for business ventures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you saw yourself with your eyes or knew yourself with your judgement, the fear of your adventure would counsel you to a more equal enterprise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear my brother Mortimer doth stir About his title, and hath sent for you To line his enterprise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sickness doth infect The very life-blood of our enterprise; ’Tis catching hither, even to our camp."*

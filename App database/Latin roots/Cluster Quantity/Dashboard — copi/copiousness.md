@@ -5,13 +5,6 @@ status: unread
 ---
 # copiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a more than adequate quantity or supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a more than adequate quantity or supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Wordsworth expounded the ruinous tendency of Reform and manufactures with even unusual copiousness, on account of the admiring affection with which he felt himself surrounded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a more than adequate quantity or supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a more than adequate quantity or supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Wordsworth expounded the ruinous tendency of Reform and manufactures with even unusual copiousness, on account of the admiring affection with which he felt himself surrounded."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # immobile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of movement or of being moved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Securely fixed in place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He hesitated for some moments, with a strangely immobile smile upon his face."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Kutúzov’s face as he stood in the open doorway remained perfectly immobile for a few moments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of movement or of being moved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Securely fixed in place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He hesitated for some moments, with a strangely immobile smile upon his face."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Kutúzov’s face as he stood in the open doorway remained perfectly immobile for a few moments."*

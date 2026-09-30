@@ -5,15 +5,6 @@ status: unread
 ---
 # pellucid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitting light; able to be seen through with clarity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above the dark margin of the earth appeared foreshores and promontories of coppery cloud, bounding a green and pellucid expanse in the western sky."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The spirit of Ianthe is rapt by the Fairy Mab in her pellucid car to the confines of the universe, where the past, present, and future of the earth are unfolded to the spirit's gaze."*
-> - 📜 **Effie Afton (*Eventide*):** *"Come with us, reader, if you will, over the prairies of Texas, gorgeous with their many-colored flowers, dotted with the dark-green live-oaks, and watered by pellucid rivers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitting light; able to be seen through with clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above the dark margin of the earth appeared foreshores and promontories of coppery cloud, bounding a green and pellucid expanse in the western sky."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The spirit of Ianthe is rapt by the Fairy Mab in her pellucid car to the confines of the universe, where the past, present, and future of the earth are unfolded to the spirit's gaze."*
+> - 📜 **Effie Afton (*Eventide*):** *"Come with us, reader, if you will, over the prairies of Texas, gorgeous with their many-colored flowers, dotted with the dark-green live-oaks, and watered by pellucid rivers."*

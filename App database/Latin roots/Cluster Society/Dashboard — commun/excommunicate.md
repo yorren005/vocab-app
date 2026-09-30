@@ -5,15 +5,6 @@ status: unread
 ---
 # excommunicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exclude from a church or a religious community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oust or exclude from a group or membership by decree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What canst thou say but will perplex thee more, If thou stand excommunicate and curs’d?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle, being knocked up, was in such a very bad temper that if the Church had been thrown open, he would probably have excommunicated the whole expedition, beginning with Joe and myself."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The excommunicated were condemned to make prostration with the face toward the ground, and without the church gate, when the monks proceed to prayers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exclude from a church or a religious community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oust or exclude from a group or membership by decree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What canst thou say but will perplex thee more, If thou stand excommunicate and curs’d?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle, being knocked up, was in such a very bad temper that if the Church had been thrown open, he would probably have excommunicated the whole expedition, beginning with Joe and myself."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The excommunicated were condemned to make prostration with the face toward the ground, and without the church gate, when the monks proceed to prayers."*

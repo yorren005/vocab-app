@@ -5,15 +5,6 @@ status: unread
 ---
 # experimenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A research worker who conducts experiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enjoys testing innovative ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She was an inveterate experimenter in these things."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"The others were of course amazed and startled, and asked the dancing experimenter what had happened."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Coupled with this was the fact that explosions take place in flour mills, where there is no gas, and experimenters had found in their laboratories that almost any burnable substance, _if ground up finely enough_ and blown into a cloud, would explode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A research worker who conducts experiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enjoys testing innovative ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She was an inveterate experimenter in these things."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"The others were of course amazed and startled, and asked the dancing experimenter what had happened."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Coupled with this was the fact that explosions take place in flour mills, where there is no gas, and experimenters had found in their laboratories that almost any burnable substance, _if ground up finely enough_ and blown into a cloud, would explode."*

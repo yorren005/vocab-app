@@ -5,13 +5,6 @@ status: unread
 ---
 # objectively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With objectivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With objectivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In one sense it is in the minds of men--it is their wants; again, looked at objectively it is in the nature of the good--it is the quality that fits it to gratify the want."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With objectivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With objectivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In one sense it is in the minds of men--it is their wants; again, looked at objectively it is in the nature of the good--it is the quality that fits it to gratify the want."*

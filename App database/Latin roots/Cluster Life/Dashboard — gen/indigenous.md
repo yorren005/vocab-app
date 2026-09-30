@@ -5,15 +5,6 @@ status: unread
 ---
 # indigenous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating where it is found.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating where it is found.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Westermarck that the midsummer festival has belonged from time immemorial to the Berber race, and that so far as it is now observed by the Arabs of Morocco, it has been learned by them from the Berbers, the old indigenous inhabitants of the country."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Strictly this word is not indigenous to the whale’s vocabulary."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the close of the first interplanetary millennium that shaped and launched The Great Migration to Space the original emigrants' progeny had become an indigenous population."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating where it is found.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating where it is found.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Westermarck that the midsummer festival has belonged from time immemorial to the Berber race, and that so far as it is now observed by the Arabs of Morocco, it has been learned by them from the Berbers, the old indigenous inhabitants of the country."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Strictly this word is not indigenous to the whale’s vocabulary."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the close of the first interplanetary millennium that shaped and launched The Great Migration to Space the original emigrants' progeny had become an indigenous population."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # credibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being believable or trustworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being believable or trustworthy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing can surpass the vigilance with which English critics will examine the credibility of the traveller who publishes an account of some distant and comparatively unimportant country."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Oftener, however, its credibility rested on the faith of some lonely eye-witness, who beheld the wonder through the coloured, magnifying, and distorted medium of his imagination, and shaped it more distinctly in his after-thought."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"All sorts of objections have been raised against the credibility of the gospels from the time of Celsus--they were raised even earlier; for Celsus quotes them from previous controversialists--and they are raised still."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being believable or trustworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being believable or trustworthy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing can surpass the vigilance with which English critics will examine the credibility of the traveller who publishes an account of some distant and comparatively unimportant country."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Oftener, however, its credibility rested on the faith of some lonely eye-witness, who beheld the wonder through the coloured, magnifying, and distorted medium of his imagination, and shaped it more distinctly in his after-thought."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"All sorts of objections have been raised against the credibility of the gospels from the time of Celsus--they were raised even earlier; for Celsus quotes them from previous controversialists--and they are raised still."*

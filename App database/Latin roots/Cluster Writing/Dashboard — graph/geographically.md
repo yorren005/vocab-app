@@ -5,15 +5,6 @@ status: unread
 ---
 # geographically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to geography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These figures are very unequally distributed geographically, the divisions ranking as to total deposits in the following order: the Eastern Middle, New England, Middle Western, Pacific, Southern, and Western divisions."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The world may politically, as well as geographically, be divided into four parts, each having a distinct set of interests."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The intervening mountains generally two or three thousand feet above the level of the sea geographically define the territories of each of these hostile tribes, who never cross them, save on some expedition of war or plunder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to geography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to geography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These figures are very unequally distributed geographically, the divisions ranking as to total deposits in the following order: the Eastern Middle, New England, Middle Western, Pacific, Southern, and Western divisions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The world may politically, as well as geographically, be divided into four parts, each having a distinct set of interests."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The intervening mountains generally two or three thousand feet above the level of the sea geographically define the territories of each of these hostile tribes, who never cross them, save on some expedition of war or plunder."*

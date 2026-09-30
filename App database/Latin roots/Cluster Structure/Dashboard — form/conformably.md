@@ -5,14 +5,6 @@ status: unread
 ---
 # conformably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conformable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conformable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The tenure of the ministerial offices generally, will be a subject of legal regulation, conformably to the reason of the case and the example of the State constitutions."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"This, Bracebridge said, must proceed from the servants’ hall, where a great deal of revelry was permitted, and even encouraged, by the squire throughout the twelve days of Christmas, provided everything was done conformably to ancient usage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conformable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conformable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The tenure of the ministerial offices generally, will be a subject of legal regulation, conformably to the reason of the case and the example of the State constitutions."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"This, Bracebridge said, must proceed from the servants’ hall, where a great deal of revelry was permitted, and even encouraged, by the squire throughout the twelve days of Christmas, provided everything was done conformably to ancient usage."*

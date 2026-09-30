@@ -5,15 +5,6 @@ status: unread
 ---
 # acts
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new testament book describing the development of the early church from christ's ascension to paul's sojourn at rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honours thrive When rather from our acts we them derive Than our fore-goers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not much dislike the matter, but The manner of his speech; for’t cannot be We shall remain in friendship, our conditions So differing in their acts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this great fairy I’ll commend thy acts, Make her thanks bless thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new testament book describing the development of the early church from christ's ascension to paul's sojourn at rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honours thrive When rather from our acts we them derive Than our fore-goers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not much dislike the matter, but The manner of his speech; for’t cannot be We shall remain in friendship, our conditions So differing in their acts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this great fairy I’ll commend thy acts, Make her thanks bless thee."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # contriteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorrow for sin arising from fear of damnation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorrow for sin arising from fear of damnation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contriteness designates sorrow for sin arising from fear of damnation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorrow for sin arising from fear of damnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorrow for sin arising from fear of damnation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contriteness designates sorrow for sin arising from fear of damnation."*

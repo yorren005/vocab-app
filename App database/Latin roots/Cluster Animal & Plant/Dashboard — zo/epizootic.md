@@ -5,13 +5,6 @@ status: unread
 ---
 # epizootic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) epidemic among animals of a single kind within a particular region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) epidemic among animals of a single kind within a particular region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The epizootic is a humanly evolved ailment, which a wild horse might never have."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) epidemic among animals of a single kind within a particular region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) epidemic among animals of a single kind within a particular region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The epizootic is a humanly evolved ailment, which a wild horse might never have."*

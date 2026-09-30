@@ -5,15 +5,6 @@ status: unread
 ---
 # finch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small songbirds with short stout bills adapted for crushing seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small songbirds with short stout bills adapted for crushing seeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BOTTOM. [_Sings._] The finch, the sparrow, and the lark, The plain-song cuckoo gray, Whose note full many a man doth mark, And dares not answer nay. for, indeed, who would set his wit to so foolish a bird?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But here I anticipate a little, for I was not a Finch, and could not be, according to the sacred laws of the society, until I came of age."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On a certain occasion when the Finches were assembled in force, and when good feeling was being promoted in the usual manner by nobody’s agreeing with anybody else, the presiding Finch called the Grove to order, forasmuch as Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small songbirds with short stout bills adapted for crushing seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small songbirds with short stout bills adapted for crushing seeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BOTTOM. [_Sings._] The finch, the sparrow, and the lark, The plain-song cuckoo gray, Whose note full many a man doth mark, And dares not answer nay. for, indeed, who would set his wit to so foolish a bird?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But here I anticipate a little, for I was not a Finch, and could not be, according to the sacred laws of the society, until I came of age."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"On a certain occasion when the Finches were assembled in force, and when good feeling was being promoted in the usual manner by nobody’s agreeing with anybody else, the presiding Finch called the Grove to order, forasmuch as Mr."*

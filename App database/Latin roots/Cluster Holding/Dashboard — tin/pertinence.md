@@ -5,13 +5,6 @@ status: unread
 ---
 # pertinence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevance by virtue of being applicable to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance by virtue of being applicable to the matter at hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"It was in any case over _my_ life, _my_ past, and _my_ friends alone that we could take anything like our ease—a state of affairs that led them sometimes without the least pertinence to break out into sociable reminders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevance by virtue of being applicable to the matter at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance by virtue of being applicable to the matter at hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"It was in any case over _my_ life, _my_ past, and _my_ friends alone that we could take anything like our ease—a state of affairs that led them sometimes without the least pertinence to break out into sociable reminders."*

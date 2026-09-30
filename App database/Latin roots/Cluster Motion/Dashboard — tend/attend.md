@@ -5,15 +5,6 @@ status: unread
 ---
 # attend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be present at (meetings, church services, university), etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take charge of or deal with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ah, thought kills me that I am not thought To leap large lengths of miles when thou art gone, But that so much of earth and water wrought, I must attend, time’s leisure with my moan."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot want the best That shall attend his love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be present at (meetings, church services, university), etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take charge of or deal with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ah, thought kills me that I am not thought To leap large lengths of miles when thou art gone, But that so much of earth and water wrought, I must attend, time’s leisure with my moan."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot want the best That shall attend his love."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # magnetised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract strongly, as if with a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make magnetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed, it is not too much to say that the maritime commerce of the world was based upon the behaviour of that little piece of magnetised steel."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The latter is but a small piece of iron magnetised; the former is nothing more than a spinning-top."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For most purposes a steel core would render an electro-magnet useless, but in this case it was desired that the core should be permanently magnetised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract strongly, as if with a magnet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make magnetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed, it is not too much to say that the maritime commerce of the world was based upon the behaviour of that little piece of magnetised steel."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The latter is but a small piece of iron magnetised; the former is nothing more than a spinning-top."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For most purposes a steel core would render an electro-magnet useless, but in this case it was desired that the core should be permanently magnetised."*

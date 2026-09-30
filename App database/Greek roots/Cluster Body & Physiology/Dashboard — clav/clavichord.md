@@ -5,15 +5,6 @@ status: unread
 ---
 # clavichord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An early keyboard instrument having strings struck by tangents attached directly to the key ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early keyboard instrument having strings struck by tangents attached directly to the key ends.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Well, and it was graceful of them: they’d break talk off and afford --She, to bite her mask’s black velvet, he, to finger on his sword, While you sat and played Toccatas, stately at the clavichord? -- St. 6."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The young people, at the countess’ instigation, gathered round the clavichord and harp."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I do not allow myself to judge him and would not have others do so.” The princess glanced at her watch and, seeing that she was five minutes late in starting her practice on the clavichord, went into the sitting room with a look of alarm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early keyboard instrument having strings struck by tangents attached directly to the key ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early keyboard instrument having strings struck by tangents attached directly to the key ends.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Well, and it was graceful of them: they’d break talk off and afford --She, to bite her mask’s black velvet, he, to finger on his sword, While you sat and played Toccatas, stately at the clavichord? -- St. 6."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The young people, at the countess’ instigation, gathered round the clavichord and harp."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I do not allow myself to judge him and would not have others do so.” The princess glanced at her watch and, seeing that she was five minutes late in starting her practice on the clavichord, went into the sitting room with a look of alarm."*

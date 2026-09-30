@@ -5,15 +5,6 @@ status: unread
 ---
 # hum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being or appearing to be actively engaged in an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An islamic fundamentalist group in pakistan that fought the soviet union in afghanistan in the 1980s; now operates as a terrorist organization primarily in kashmir and seeks kashmir's accession by pakistan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet to bite his lip And hum at good Cominius much unhearts me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is able to pierce a corslet with his eye, talks like a knell, and his hum is a battery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you what— He held me last night at least nine hours In reckoning up the several devils’ names That were his lackeys: I cried “Hum,” and “Well, go to,” But mark’d him not a word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being or appearing to be actively engaged in an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An islamic fundamentalist group in pakistan that fought the soviet union in afghanistan in the 1980s; now operates as a terrorist organization primarily in kashmir and seeks kashmir's accession by pakistan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet to bite his lip And hum at good Cominius much unhearts me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is able to pierce a corslet with his eye, talks like a knell, and his hum is a battery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you what— He held me last night at least nine hours In reckoning up the several devils’ names That were his lackeys: I cried “Hum,” and “Well, go to,” But mark’d him not a word."*

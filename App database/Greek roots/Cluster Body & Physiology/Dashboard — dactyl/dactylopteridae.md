@@ -5,13 +5,6 @@ status: unread
 ---
 # dactylopteridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flying gurnards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flying gurnards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylopteridae designates flying gurnards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flying gurnards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flying gurnards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylopteridae designates flying gurnards."*

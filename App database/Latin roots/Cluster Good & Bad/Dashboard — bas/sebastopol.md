@@ -5,15 +5,6 @@ status: unread
 ---
 # sebastopol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southern ukraine on the black sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern ukraine on the black sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I am old enough to recollect the trenches before Sebastopol, and all that my countrymen and the English endured there."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Corny Sullivan had been a soldier in the British army for many years, he had been wounded at last at Sebastopol, and yet here he was, full of military lore and glory, and propped by a wooden leg."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Saragossa, compared with Amberes, Dantzig, Metz, Sebastopol, Cartagena, Gibraltar, and other famous strongholds, was like a fortress made of cardboard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southern ukraine on the black sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern ukraine on the black sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I am old enough to recollect the trenches before Sebastopol, and all that my countrymen and the English endured there."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Corny Sullivan had been a soldier in the British army for many years, he had been wounded at last at Sebastopol, and yet here he was, full of military lore and glory, and propped by a wooden leg."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Saragossa, compared with Amberes, Dantzig, Metz, Sebastopol, Cartagena, Gibraltar, and other famous strongholds, was like a fortress made of cardboard."*

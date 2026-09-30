@@ -5,14 +5,6 @@ status: unread
 ---
 # incoherency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of cohesion or clarity or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsense that is simply incoherent and unintelligible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her father had a large way of looking at life, of which his restlessness and even his occasional incoherency of conduct had been only a proof."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"You do not understand my position,” returned the doctor, with a certain incoherency of manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of cohesion or clarity or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsense that is simply incoherent and unintelligible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her father had a large way of looking at life, of which his restlessness and even his occasional incoherency of conduct had been only a proof."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"You do not understand my position,” returned the doctor, with a certain incoherency of manner."*

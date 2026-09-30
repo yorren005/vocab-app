@@ -5,15 +5,6 @@ status: unread
 ---
 # construction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of constructing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of words that form a constituent of a sentence and are considered as a single unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, And my pretext to strike at him admits A good construction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him show His skill in the construction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no art To find the mind’s construction in the face: He was a gentleman on whom I built An absolute trust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of constructing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of words that form a constituent of a sentence and are considered as a single unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, And my pretext to strike at him admits A good construction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him show His skill in the construction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no art To find the mind’s construction in the face: He was a gentleman on whom I built An absolute trust."*

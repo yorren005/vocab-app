@@ -5,15 +5,6 @@ status: unread
 ---
 # conjointly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In conjunction with; combined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these prodigies Do so conjointly meet, let not men say, “These are their reasons; they are natural”; For I believe, they are portentous things Unto the climate that they point upon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides the tea-drinking, there was to be some considerable speech-making and letter-writing on the general merits of the cultivation of coffee, conjointly with natives, at the Settlement of Borrioboola-Gha."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The groups and isolated centers so painstakingly formed and established must, conjointly with this highly commendable and essential duty, be maintained, fostered and if possible multiplied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In conjunction with; combined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conjunction with; combined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these prodigies Do so conjointly meet, let not men say, “These are their reasons; they are natural”; For I believe, they are portentous things Unto the climate that they point upon."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Besides the tea-drinking, there was to be some considerable speech-making and letter-writing on the general merits of the cultivation of coffee, conjointly with natives, at the Settlement of Borrioboola-Gha."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The groups and isolated centers so painstakingly formed and established must, conjointly with this highly commendable and essential duty, be maintained, fostered and if possible multiplied."*

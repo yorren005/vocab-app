@@ -5,15 +5,6 @@ status: unread
 ---
 # planetary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the planet earth or its inhabitants; - l.c.eiseley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be as a planetary plague when Jove Will o’er some high-viced city hang his poison In the sick air."*
-> - 📜 **George Eliot (*Middlemarch*):** *"To Uriel watching the progress of planetary history from the sun, the one result would be just as much of a coincidence as the other."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The System Authority possesses and Commands a Self-Defense Force under Powers delegated by the President of the United Inner Planetary System (UIPS)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the planet earth or its inhabitants; - l.c.eiseley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be as a planetary plague when Jove Will o’er some high-viced city hang his poison In the sick air."*
+> - 📜 **George Eliot (*Middlemarch*):** *"To Uriel watching the progress of planetary history from the sun, the one result would be just as much of a coincidence as the other."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The System Authority possesses and Commands a Self-Defense Force under Powers delegated by the President of the United Inner Planetary System (UIPS)."*

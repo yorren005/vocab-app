@@ -5,13 +5,6 @@ status: unread
 ---
 # isoclinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isogram connecting points of equal magnetic inclination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal magnetic inclinations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoclinal designates an isogram connecting points of equal magnetic inclination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isogram connecting points of equal magnetic inclination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal magnetic inclinations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoclinal designates an isogram connecting points of equal magnetic inclination."*

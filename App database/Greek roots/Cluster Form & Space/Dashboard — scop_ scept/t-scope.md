@@ -5,13 +5,6 @@ status: unread
 ---
 # t-scope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scientific instrument used by psychologists; presents visual stimuli for brief exposures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scientific instrument used by psychologists; presents visual stimuli for brief exposures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, t-scope designates scientific instrument used by psychologists; presents visual stimuli for brief exposures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scientific instrument used by psychologists; presents visual stimuli for brief exposures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scientific instrument used by psychologists; presents visual stimuli for brief exposures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, t-scope designates scientific instrument used by psychologists; presents visual stimuli for brief exposures."*

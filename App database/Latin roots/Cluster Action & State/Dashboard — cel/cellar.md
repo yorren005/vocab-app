@@ -5,15 +5,6 @@ status: unread
 ---
 # cellar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowermost portion of a structure partly or wholly below ground level; often used for storage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excavation where root vegetables are stored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The whole butt, man: my cellar is in a rock by th’ seaside, where my wine is hid."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her thoughts had nothing to do with either the laundry or the orders she was giving to Kathy, nor the cooking apples she had sorted out in the cellar."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next she repaired to the cellar where she quickly found what she was after; the bottle stood in sore need of cleaning, however, as did everything else she touched."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowermost portion of a structure partly or wholly below ground level; often used for storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excavation where root vegetables are stored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The whole butt, man: my cellar is in a rock by th’ seaside, where my wine is hid."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her thoughts had nothing to do with either the laundry or the orders she was giving to Kathy, nor the cooking apples she had sorted out in the cellar."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next she repaired to the cellar where she quickly found what she was after; the bottle stood in sore need of cleaning, however, as did everything else she touched."*

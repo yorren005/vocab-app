@@ -5,15 +5,6 @@ status: unread
 ---
 # lapidary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on precious stones and the art of cutting and engraving them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who cuts and engraves precious stones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What a pity! * * * Stephen Dedalus watched through the webbed window the lapidary’s fingers prove a timedulled chain."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The body of the ware is sometimes soft enough to powder under the knife, but as a rule it is a very hard stoneware, capable of receiving a fine polish on the lapidary's wheel."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"One of those Hibernian lapidaries to whose skill the London pavements are so highly indebted, was tried at the Old Bailey one day for biting off the nose of a Welchman, a brother paviour, in a quarrel, at their work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on precious stones and the art of cutting and engraving them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who cuts and engraves precious stones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What a pity! * * * Stephen Dedalus watched through the webbed window the lapidary’s fingers prove a timedulled chain."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The body of the ware is sometimes soft enough to powder under the knife, but as a rule it is a very hard stoneware, capable of receiving a fine polish on the lapidary's wheel."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"One of those Hibernian lapidaries to whose skill the London pavements are so highly indebted, was tried at the Old Bailey one day for biting off the nose of a Welchman, a brother paviour, in a quarrel, at their work."*

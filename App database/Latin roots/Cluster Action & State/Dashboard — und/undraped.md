@@ -5,15 +5,6 @@ status: unread
 ---
 # undraped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip something of drapery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stripped of drapery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I fancy their Hygienic Immaculacies approved of Cyril's bare floors, undraped windows, and generally knick-knackless condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip something of drapery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stripped of drapery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I fancy their Hygienic Immaculacies approved of Cyril's bare floors, undraped windows, and generally knick-knackless condition."*

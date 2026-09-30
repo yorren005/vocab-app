@@ -5,15 +5,6 @@ status: unread
 ---
 # disfigured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the appearance spoiled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “that he disfigured some of the houses and other buildings by chipping off fragments of those edifices with his little geological hammer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was very sorrowful to think that Charley’s pretty looks would change and be disfigured, even if she recovered—she was such a child with her dimpled face—but that thought was, for the greater part, lost in her greater peril."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I have known a face not materially disfigured by a few, but he abominates them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the appearance spoiled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “that he disfigured some of the houses and other buildings by chipping off fragments of those edifices with his little geological hammer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was very sorrowful to think that Charley’s pretty looks would change and be disfigured, even if she recovered—she was such a child with her dimpled face—but that thought was, for the greater part, lost in her greater peril."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I have known a face not materially disfigured by a few, but he abominates them."*

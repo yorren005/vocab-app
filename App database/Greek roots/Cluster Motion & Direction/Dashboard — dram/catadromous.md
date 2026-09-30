@@ -5,13 +5,6 @@ status: unread
 ---
 # catadromous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in fresh water and going to the sea to spawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in fresh water and going to the sea to spawn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catadromous designates living in fresh water and going to the sea to spawn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in fresh water and going to the sea to spawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in fresh water and going to the sea to spawn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catadromous designates living in fresh water and going to the sea to spawn."*

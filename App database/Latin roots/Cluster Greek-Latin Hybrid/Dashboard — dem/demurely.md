@@ -5,15 +5,6 @@ status: unread
 ---
 # demurely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demure manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a demure manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drums Demurely wake the sleepers."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba demurely regarded a contemptible straw lying upon the ground, in a way which suggested less ovine criticism than womanly embarrassment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You cannot and you don’t,” she said demurely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demure manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a demure manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drums Demurely wake the sleepers."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba demurely regarded a contemptible straw lying upon the ground, in a way which suggested less ovine criticism than womanly embarrassment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You cannot and you don’t,” she said demurely."*

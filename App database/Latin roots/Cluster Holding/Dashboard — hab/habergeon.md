@@ -5,14 +5,6 @@ status: unread
 ---
 # habergeon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a light sleeveless coat of chain mail worn under the hauberk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a light sleeveless coat of chain mail worn under the hauberk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sword of him that layeth at him cannot hold, the spear, the dart, nor the habergeon: he esteemeth iron as straw; the arrow cannot make him flee; darts are counted as stubble; he laugheth at the shaking of a spear!” This the creature? this he?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The sword of him that layeth at him cannot hold, the spear, the dart, nor the habergeon: he esteemeth iron as straw; the arrow cannot make him flee; darts are counted as stubble; he laugheth at the shaking of a spear!” This the creature? this he?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a light sleeveless coat of chain mail worn under the hauberk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a light sleeveless coat of chain mail worn under the hauberk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sword of him that layeth at him cannot hold, the spear, the dart, nor the habergeon: he esteemeth iron as straw; the arrow cannot make him flee; darts are counted as stubble; he laugheth at the shaking of a spear!” This the creature? this he?"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The sword of him that layeth at him cannot hold, the spear, the dart, nor the habergeon: he esteemeth iron as straw; the arrow cannot make him flee; darts are counted as stubble; he laugheth at the shaking of a spear!” This the creature? this he?"*

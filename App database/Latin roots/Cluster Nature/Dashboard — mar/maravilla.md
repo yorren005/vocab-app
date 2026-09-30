@@ -5,13 +5,6 @@ status: unread
 ---
 # maravilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wildflower having vibrant deep pink tubular evening-blooming flowers; found in sandy and desert areas from southern california to southern colorado and into mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leafy wildflower having fragrant slender white or pale pink trumpet-shaped flowers; southwestern united states and northern mexico.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maravilla designates wildflower having vibrant deep pink tubular evening-blooming flowers; found in sandy and desert areas from southern california to southern colorado and into mexico."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wildflower having vibrant deep pink tubular evening-blooming flowers; found in sandy and desert areas from southern california to southern colorado and into mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leafy wildflower having fragrant slender white or pale pink trumpet-shaped flowers; southwestern united states and northern mexico.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maravilla designates wildflower having vibrant deep pink tubular evening-blooming flowers; found in sandy and desert areas from southern california to southern colorado and into mexico."*

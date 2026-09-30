@@ -5,15 +5,6 @@ status: unread
 ---
 # barouche
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A horse-drawn carriage having four wheels; has an outside seat for the driver and facing inside seats for two couples and a folding top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse-drawn carriage having four wheels; has an outside seat for the driver and facing inside seats for two couples and a folding top.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Miss Summerson,” said he, “we are off, if you please!” He gave me his arm, and the two officers courteously bowed me out, and we found at the door a phaeton or barouche with a postilion and post horses."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her ladyship’s carriage was a barouche, and did not hold more than four with any comfort."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Henry, who is good-nature itself, has offered to fetch it in his barouche."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horse-drawn carriage having four wheels; has an outside seat for the driver and facing inside seats for two couples and a folding top.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse-drawn carriage having four wheels; has an outside seat for the driver and facing inside seats for two couples and a folding top.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Miss Summerson,” said he, “we are off, if you please!” He gave me his arm, and the two officers courteously bowed me out, and we found at the door a phaeton or barouche with a postilion and post horses."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her ladyship’s carriage was a barouche, and did not hold more than four with any comfort."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Henry, who is good-nature itself, has offered to fetch it in his barouche."*

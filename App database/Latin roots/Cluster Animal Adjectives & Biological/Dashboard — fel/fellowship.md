@@ -5,15 +5,6 @@ status: unread
 ---
 # fellowship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of people who share common beliefs or activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being with someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, this it is to have a name in great men’s fellowship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this, sir, and a forest of feathers, if the rest of my fortunes turn Turk with me; with two Provincial roses on my razed shoes, get me a fellowship in a cry of players, sir?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s neither honesty, manhood, nor good fellowship in thee, nor thou cam’st not of the blood royal, if thou darest not stand for ten shillings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of people who share common beliefs or activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being with someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, this it is to have a name in great men’s fellowship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this, sir, and a forest of feathers, if the rest of my fortunes turn Turk with me; with two Provincial roses on my razed shoes, get me a fellowship in a cry of players, sir?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s neither honesty, manhood, nor good fellowship in thee, nor thou cam’st not of the blood royal, if thou darest not stand for ten shillings."*

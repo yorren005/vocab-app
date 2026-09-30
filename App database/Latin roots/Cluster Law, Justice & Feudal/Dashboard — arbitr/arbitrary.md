@@ -5,15 +5,6 @@ status: unread
 ---
 # arbitrary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or subject to individual discretion or preference or sometimes impulse or caprice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or subject to individual discretion or preference or sometimes impulse or caprice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For instance, lying on the cell floor, I established an arbitrary and imaginary line along the wall some three feet above the floor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the competitive rule is the only rule that does not involve either personal and arbitrary judgment (force, charity, and authority) or status."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Bishop Phillips Brooks noted in Jesus' conversation "a constant progress from the arbitrary and special to the essential and universal forms of thought," "a true freedom from fastidiousness," "a singular largeness" in his intellectual life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or subject to individual discretion or preference or sometimes impulse or caprice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or subject to individual discretion or preference or sometimes impulse or caprice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For instance, lying on the cell floor, I established an arbitrary and imaginary line along the wall some three feet above the floor."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the competitive rule is the only rule that does not involve either personal and arbitrary judgment (force, charity, and authority) or status."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Bishop Phillips Brooks noted in Jesus' conversation "a constant progress from the arbitrary and special to the essential and universal forms of thought," "a true freedom from fastidiousness," "a singular largeness" in his intellectual life."*

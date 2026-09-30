@@ -5,13 +5,6 @@ status: unread
 ---
 # mercurochrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mercurial compound applied topically as an antiseptic; mercurochrome is the trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mercurial compound applied topically as an antiseptic; mercurochrome is the trademark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercurochrome designates a mercurial compound applied topically as an antiseptic; mercurochrome is the trademark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mercurial compound applied topically as an antiseptic; mercurochrome is the trademark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mercurial compound applied topically as an antiseptic; mercurochrome is the trademark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercurochrome designates a mercurial compound applied topically as an antiseptic; mercurochrome is the trademark."*

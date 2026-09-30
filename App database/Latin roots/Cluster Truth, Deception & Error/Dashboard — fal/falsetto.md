@@ -5,15 +5,6 @@ status: unread
 ---
 # falsetto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice with artificially high tones in an upper register.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially high; above the normal voice range.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And you rolling to bed and shouting like chanticleer, ‘Sing cucu, sing cucu, cucu nu nu cucu, sing cucu, sing cucu, sing cucu, sing cucu.’” He mocked me with the senseless refrain in an ear-jangling falsetto."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice with artificially high tones in an upper register.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially high; above the normal voice range.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And you rolling to bed and shouting like chanticleer, ‘Sing cucu, sing cucu, cucu nu nu cucu, sing cucu, sing cucu, sing cucu, sing cucu.’” He mocked me with the senseless refrain in an ear-jangling falsetto."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*

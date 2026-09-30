@@ -5,13 +5,6 @@ status: unread
 ---
 # transsexual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has undergone a sex change operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose sexual identification is entirely with the opposite sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transsexual designates a person who has undergone a sex change operation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has undergone a sex change operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose sexual identification is entirely with the opposite sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transsexual designates a person who has undergone a sex change operation."*

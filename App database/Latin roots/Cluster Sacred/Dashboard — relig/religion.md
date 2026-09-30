@@ -5,15 +5,6 @@ status: unread
 ---
 # religion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong belief in a supernatural power or powers that control human destiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institution to express belief in a divine power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, as thereto sworn by your command, Which my love makes religion to obey, I tell you this: Caesar through Syria Intends his journey, and within three days You with your children will he send before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With no less religion than if thou wert indeed my Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I see you have some religion in you, that you fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong belief in a supernatural power or powers that control human destiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institution to express belief in a divine power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, as thereto sworn by your command, Which my love makes religion to obey, I tell you this: Caesar through Syria Intends his journey, and within three days You with your children will he send before."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With no less religion than if thou wert indeed my Rosalind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I see you have some religion in you, that you fear."*

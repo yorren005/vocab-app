@@ -5,15 +5,6 @@ status: unread
 ---
 # fantastical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in fancy only; - nathaniel hawthorne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ludicrously odd.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er a fantastical knave of them all shall flout me out of my calling. [_Exit._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is all one, my fair, sweet, honey monarch; for, I protest, the schoolmaster is exceeding fantastical; too, too vain, too, too vain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sir, why do you start and seem to fear Things that do sound so fair?—I’ th’ name of truth, Are ye fantastical, or that indeed Which outwardly ye show?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in fancy only; - nathaniel hawthorne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ludicrously odd.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er a fantastical knave of them all shall flout me out of my calling. [_Exit._] SCENE IV."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is all one, my fair, sweet, honey monarch; for, I protest, the schoolmaster is exceeding fantastical; too, too vain, too, too vain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sir, why do you start and seem to fear Things that do sound so fair?—I’ th’ name of truth, Are ye fantastical, or that indeed Which outwardly ye show?"*

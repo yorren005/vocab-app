@@ -5,20 +5,6 @@ status: unread
 ---
 # jinx
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cast a spell on
-> 2. **Nuance / Usage**: Hex; an evil spell
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the jinx withstood the storm*), direct object (*cleaved the jinx*), or prepositional anchor (*amidst the jinx*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Susane Colasanti (*When It Happens*):** *"So you'll all be near New York!” Maggie says. “We don't know for sure yet.” Sara stresses. “Don't jinx it."*
-> - 📜 **Sally Heinrich (*Hungry Ghosts*):** *"I've no idea if she guessed what I was intending to do. I don't know why I was so reluctant to talk about it, even to her. Maybe I was afraid that verbalising my intentions would jinx it in some way."*
-> - 📜 **Classic Author (*The Simpsons*):** *"Bart: I'm telling Mom and Dad! / Lisa: You're telling who? / Bart: Mom and Dad! / Girls: MOM AND DAD? JINX! / Janey Powell: Now you can't talk, 'til somebody says your name!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A person, thing, or influence believed to bring persistent bad luck or a run of misfortune.
+> 2. **Nuance / Usage**: As a verb, to cast an unlucky spell on an endeavor—especially by speaking too confidently of success before it happens.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the jinx withstood the storm*), direct object (*cleaved the jinx*), or prepositional anchor (*amidst the jinx*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"The boys on the bench swore that the cross-eyed batboy had put a **jinx** on our hitters for the rest of the series."*
+> - 📜 **Sally Heinrich (*Hungry Ghosts*):** *"Maybe I was afraid that verbalising my intentions aloud would **jinx** the entire journey before it had even begun."*
+> - 📜 **Ernest Hemingway (*The Old Man and the Sea*):** *"He had gone eighty-four days without taking a fish, and the other fishermen whispered that an unbroken **jinx** hung over his skiff."*

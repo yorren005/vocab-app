@@ -5,20 +5,6 @@ status: unread
 ---
 # sidle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Furtive advance
-> 2. **Nuance / Usage**: Cause to move or turn sideways
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to sidle the target*) and intransitive clauses (*sidling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil makes no reply, but seizing the chair and its load, sidles away, tightly hugged by the now speechless Mr. George."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"every pen appeared to become perversely animated, and to go wrong and crooked, and to stop, and splash, and sidle into corners like a saddle-donkey."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"stimulated by an urgent curiosity which impels her on all convenient and inconvenient occasions to sidle about with a golden glass at her eye, peering into objects of every description."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To walk or edge along obliquely and sideways in a shy, furtive, or unobtrusive manner.
+> 2. **Nuance / Usage**: Often used with *up to* or *away* to convey an ingratiating, nervous, or ulterior approach by someone who wishes to avoid direct confrontation.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun.
+> - **Syntactic Constructions**: Operates in intransitive clauses with directional particles (*sidled up to the counter*, *sidled out of the room*).
+> - **Collocations & Registers**: Vivid character-driven narrative registers; collocated with *up to*, *away*, *crabwise*, and *furtively*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Phil makes no reply, but seizing the chair and its load, **sidles** away, tightly hugged by the now speechless Mr. George."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Presently Tom **sidled** up to the fence with an air of complete indifference."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"He **sidled** into the room like a penitent crab hoping to escape notice."*

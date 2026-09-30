@@ -5,15 +5,6 @@ status: unread
 ---
 # manly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing qualities befitting a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friends, The boy hath taught us manly duties; let us Find out the prettiest daisied plot we can, And make him with our pikes and partisans A grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; for my manly heart doth yearn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing qualities befitting a man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friends, The boy hath taught us manly duties; let us Find out the prettiest daisied plot we can, And make him with our pikes and partisans A grave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; for my manly heart doth yearn."*

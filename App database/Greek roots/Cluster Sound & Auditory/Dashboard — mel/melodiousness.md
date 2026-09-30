@@ -5,13 +5,6 @@ status: unread
 ---
 # melodiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having a melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a melody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melodiousness designates the property of having a melody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having a melody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a melody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melodiousness designates the property of having a melody."*

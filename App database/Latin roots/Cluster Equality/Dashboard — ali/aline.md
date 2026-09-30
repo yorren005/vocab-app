@@ -5,14 +5,6 @@ status: unread
 ---
 # aline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a line or arrange so as to be parallel or straight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Aline,” he said to his wife, “go and see what they are about.” The princess went up to the door, passed by it with a dignified and indifferent air, and glanced into the little drawing room."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The princesses Aline and Sophie sit whole days with me, and we, unhappy widows of live men, make beautiful conversations over our charpie, only you, my friend, are missing...” and so on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a line or arrange so as to be parallel or straight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Aline,” he said to his wife, “go and see what they are about.” The princess went up to the door, passed by it with a dignified and indifferent air, and glanced into the little drawing room."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The princesses Aline and Sophie sit whole days with me, and we, unhappy widows of live men, make beautiful conversations over our charpie, only you, my friend, are missing...” and so on."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # decline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change toward something smaller or lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition inferior to an earlier condition; a gradual falling off from a better state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Far more, far more, to you do I decline."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Hamlet, what a falling off was there, From me, whose love was of that dignity That it went hand in hand even with the vow I made to her in marriage; and to decline Upon a wretch whose natural gifts were poor To those of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can thy spirit wonder A great man should decline?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change toward something smaller or lower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition inferior to an earlier condition; a gradual falling off from a better state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Far more, far more, to you do I decline."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Hamlet, what a falling off was there, From me, whose love was of that dignity That it went hand in hand even with the vow I made to her in marriage; and to decline Upon a wretch whose natural gifts were poor To those of mine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can thy spirit wonder A great man should decline?"*

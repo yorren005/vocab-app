@@ -5,15 +5,6 @@ status: unread
 ---
 # temperately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without extravagance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My pulse as yours doth temperately keep time, And makes as healthful music."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val, smoking his temperate pipe on the other side of the diningroom hearth, temperately suggested that the amount of luxury in Isabel's life wouldn't hurt a fly."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Harwood, when professor, was enjoined to live temperately, as a cure for his malady."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without extravagance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My pulse as yours doth temperately keep time, And makes as healthful music."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Val, smoking his temperate pipe on the other side of the diningroom hearth, temperately suggested that the amount of luxury in Isabel's life wouldn't hurt a fly."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Harwood, when professor, was enjoined to live temperately, as a cure for his malady."*

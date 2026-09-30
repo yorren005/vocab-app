@@ -5,15 +5,6 @@ status: unread
 ---
 # invite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial expression for invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase the likelihood of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With most gladness, And do invite you to my sister’s view, Whither straight I’ll lead you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aboard my galley I invite you all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thither will I invite the Duke and all’s contented followers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial expression for invitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase the likelihood of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With most gladness, And do invite you to my sister’s view, Whither straight I’ll lead you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aboard my galley I invite you all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thither will I invite the Duke and all’s contented followers."*

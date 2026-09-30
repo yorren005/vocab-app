@@ -5,15 +5,6 @@ status: unread
 ---
 # caste
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social status or position conferred by a system based on class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (hinduism) a hereditary social class among hindus; stratified according to ritual purity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of these were clothed to any extent worth mentioning, each appearing to have hit in the matter of raiment the decent mean between a high and low caste Hindoo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This, Kim explained, was an automatic determination and advertisement of caste."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was an aristocrat in social caste; she was an aristocrat by nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Social status or position conferred by a system based on class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (hinduism) a hereditary social class among hindus; stratified according to ritual purity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of these were clothed to any extent worth mentioning, each appearing to have hit in the matter of raiment the decent mean between a high and low caste Hindoo."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This, Kim explained, was an automatic determination and advertisement of caste."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was an aristocrat in social caste; she was an aristocrat by nature."*

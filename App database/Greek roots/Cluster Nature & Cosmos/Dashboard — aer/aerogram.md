@@ -5,13 +5,6 @@ status: unread
 ---
 # aerogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerogram designates a sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerogram designates a sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter."*

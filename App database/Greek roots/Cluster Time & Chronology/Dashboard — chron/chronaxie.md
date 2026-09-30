@@ -5,13 +5,6 @@ status: unread
 ---
 # chronaxie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronaxie designates the minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronaxie designates the minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage."*

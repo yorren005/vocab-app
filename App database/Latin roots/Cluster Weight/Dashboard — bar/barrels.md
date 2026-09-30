@@ -5,15 +5,6 @@ status: unread
 ---
 # barrels
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that many barrels might hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tube through which a bullet travels when a gun is fired.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Place barrels of pitch upon the fatal stake, That so her torture may be shortened."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The longboat was lowering away to larboard, and I saw men, struggling on the ice-sheeted deck with barrels of provisions, abandon the food in their haste to get away."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Scarcely had I managed, helped by the second mate, Aaron Northrup, to lower away half-a-dozen barrels and kegs, when all cried from the boat that they were casting off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that many barrels might hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tube through which a bullet travels when a gun is fired.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Place barrels of pitch upon the fatal stake, That so her torture may be shortened."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The longboat was lowering away to larboard, and I saw men, struggling on the ice-sheeted deck with barrels of provisions, abandon the food in their haste to get away."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Scarcely had I managed, helped by the second mate, Aaron Northrup, to lower away half-a-dozen barrels and kegs, when all cried from the boat that they were casting off."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # instrument
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that requires skill for proper use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The means whereby some act is accomplished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did, my lord, but loath am to produce So bad an instrument; his name’s Parolles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him come in. [_Exit Guardsman._] What poor an instrument May do a noble deed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, to make thee an instrument and play false strains upon thee?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that requires skill for proper use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The means whereby some act is accomplished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did, my lord, but loath am to produce So bad an instrument; his name’s Parolles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him come in. [_Exit Guardsman._] What poor an instrument May do a noble deed!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, to make thee an instrument and play false strains upon thee?"*

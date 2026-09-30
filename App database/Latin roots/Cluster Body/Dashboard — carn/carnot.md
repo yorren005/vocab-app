@@ -5,13 +5,6 @@ status: unread
 ---
 # carnot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French physicist who founded thermodynamics (1796-1832).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physicist who founded thermodynamics (1796-1832).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnot designates french physicist who founded thermodynamics (1796-1832)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French physicist who founded thermodynamics (1796-1832).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physicist who founded thermodynamics (1796-1832).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnot designates french physicist who founded thermodynamics (1796-1832)."*

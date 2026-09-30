@@ -5,15 +5,6 @@ status: unread
 ---
 # disregard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention and due care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willful lack of care and attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, not a little alarmed by his disregard of the doctor’s injunctions, replies, in London."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What they conversed about was not audible to Gabriel, who was too independent to get near, though too concerned to disregard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention and due care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willful lack of care and attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, not a little alarmed by his disregard of the doctor’s injunctions, replies, in London."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What they conversed about was not audible to Gabriel, who was too independent to get near, though too concerned to disregard."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # commandant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer in command of a military unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer in command of a military unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"So the lad Gaasha was brought to the laager, and upon the prayer of Jan and Ralph, the commandant gave him his life, ordering, however, that he should sleep outside the waggons."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"What is it, Heer Botmar?” asked the commandant when they were assembled."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"I desire to ask you to go a three days’ trek out of your march to a mountain called Umpondwana, whither this servant of mine, Gaasha, can guide you.” “For what reason?” asked the commandant astonished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer in command of a military unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer in command of a military unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"So the lad Gaasha was brought to the laager, and upon the prayer of Jan and Ralph, the commandant gave him his life, ordering, however, that he should sleep outside the waggons."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"What is it, Heer Botmar?” asked the commandant when they were assembled."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"I desire to ask you to go a three days’ trek out of your march to a mountain called Umpondwana, whither this servant of mine, Gaasha, can guide you.” “For what reason?” asked the commandant astonished."*

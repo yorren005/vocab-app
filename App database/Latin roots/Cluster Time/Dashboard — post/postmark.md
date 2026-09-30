@@ -5,15 +5,6 @@ status: unread
 ---
 # postmark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cancellation mark stamped on mail by postal officials; indicates the post office and date of mailing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stamp with a postmark to indicate date and time of mailing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"It bore the London postmark, and came from Edmund."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was not a common thing for him to receive letters, for his bills were all paid in ready money, and he had no friends of any sort. ‘From India!’ said he as he took it up, ‘Pondicherry postmark!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Where does the thing come from?’ “‘From Dundee,’ I answered, glancing at the postmark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cancellation mark stamped on mail by postal officials; indicates the post office and date of mailing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stamp with a postmark to indicate date and time of mailing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"It bore the London postmark, and came from Edmund."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was not a common thing for him to receive letters, for his bills were all paid in ready money, and he had no friends of any sort. ‘From India!’ said he as he took it up, ‘Pondicherry postmark!"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Where does the thing come from?’ “‘From Dundee,’ I answered, glancing at the postmark."*

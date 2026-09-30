@@ -5,15 +5,6 @@ status: unread
 ---
 # scattered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to separate and go in different directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move away from each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loose now and then A scattered smile, and that I’ll live upon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now there rests no other shift but this: To gather our soldiers, scattered and dispersed, And lay new platforms to endamage them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to separate and go in different directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move away from each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loose now and then A scattered smile, and that I’ll live upon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now there rests no other shift but this: To gather our soldiers, scattered and dispersed, And lay new platforms to endamage them."*

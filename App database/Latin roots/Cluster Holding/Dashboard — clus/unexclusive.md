@@ -5,13 +5,6 @@ status: unread
 ---
 # unexclusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accessible to all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accessible to all.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexclusive designates accessible to all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accessible to all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accessible to all.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexclusive designates accessible to all."*

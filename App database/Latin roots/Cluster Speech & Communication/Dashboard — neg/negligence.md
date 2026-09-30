@@ -5,15 +5,6 @@ status: unread
 ---
 # negligence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of neglecting responsibilities and lacking concern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Howsoe’er ’tis strange, Or that the negligence may well be laugh’d at, Yet is it true, sir."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this point I stand, That both the worlds, I give to negligence, Let come what comes; only I’ll be reveng’d Most throughly for my father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O negligence, Fit for a fool to fall by!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of neglecting responsibilities and lacking concern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Howsoe’er ’tis strange, Or that the negligence may well be laugh’d at, Yet is it true, sir."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this point I stand, That both the worlds, I give to negligence, Let come what comes; only I’ll be reveng’d Most throughly for my father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O negligence, Fit for a fool to fall by!"*

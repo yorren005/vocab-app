@@ -5,15 +5,6 @@ status: unread
 ---
 # reactor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device used to introduce reactance into a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) any of several kinds of apparatus that maintain and control a nuclear reaction for the production of energy or artificial elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Moving to the power plant he examined the reactor's cover and seals for seepage and the thruster nozzles and gimbals for cracks and wear."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If it cooks OK, I'm out of your way." He squeezed into the cage, set and activated the reactor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan adjusted the torso belts and rechecked the reactor and weight-and-balance indicators."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device used to introduce reactance into a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) any of several kinds of apparatus that maintain and control a nuclear reaction for the production of energy or artificial elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Moving to the power plant he examined the reactor's cover and seals for seepage and the thruster nozzles and gimbals for cracks and wear."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If it cooks OK, I'm out of your way." He squeezed into the cage, set and activated the reactor."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan adjusted the torso belts and rechecked the reactor and weight-and-balance indicators."*

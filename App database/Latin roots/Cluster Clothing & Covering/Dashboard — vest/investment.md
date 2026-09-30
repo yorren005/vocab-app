@@ -5,15 +5,6 @@ status: unread
 ---
 # investment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of investing; laying out money or capital in an enterprise with the expectation of profit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money that is invested with an expectation of profit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Institutions for saving and investment 12."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Suppose that rate to be 5 per cent on the standard investment (such as real-estate loans and good bonds)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Hence, he has received, in quantum of goods, a yield of 6 per cent on his investment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of investing; laying out money or capital in an enterprise with the expectation of profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money that is invested with an expectation of profit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Institutions for saving and investment 12."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Suppose that rate to be 5 per cent on the standard investment (such as real-estate loans and good bonds)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Hence, he has received, in quantum of goods, a yield of 6 per cent on his investment."*

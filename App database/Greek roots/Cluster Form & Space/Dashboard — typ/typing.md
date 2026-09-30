@@ -5,13 +5,6 @@ status: unread
 ---
 # typing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing done with a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write by means of a keyboard with types.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"BURNS.” “I suppose that's a fool telegram,” he admitted to himself as he hung up the receiver, “but after that typing mess I had to express myself somehow except by signs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing done with a typewriter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write by means of a keyboard with types.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"BURNS.” “I suppose that's a fool telegram,” he admitted to himself as he hung up the receiver, “but after that typing mess I had to express myself somehow except by signs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # argent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal tincture used in heraldry to give a silvery appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lustrous grey; covered with or tinged with the color of silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it is so worn that mother uses it to stir the pea-soup.” “A castle argent is certainly my crest,” said he blandly."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Here is mine; I carry him about with me.' And he took a piece of a hundred sous out of his pocket (how had it got there?) '_Vive l'argent_' he said."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"With money you can do anything. _L'argent c'est le bon Dieu_.' 'Be silent,' I cried, 'thou profane one!' And the women were still more indignant than I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal tincture used in heraldry to give a silvery appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lustrous grey; covered with or tinged with the color of silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it is so worn that mother uses it to stir the pea-soup.” “A castle argent is certainly my crest,” said he blandly."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Here is mine; I carry him about with me.' And he took a piece of a hundred sous out of his pocket (how had it got there?) '_Vive l'argent_' he said."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"With money you can do anything. _L'argent c'est le bon Dieu_.' 'Be silent,' I cried, 'thou profane one!' And the women were still more indignant than I."*

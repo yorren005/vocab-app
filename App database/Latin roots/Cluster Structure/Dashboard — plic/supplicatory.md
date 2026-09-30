@@ -5,13 +5,6 @@ status: unread
 ---
 # supplicatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Humbly entreating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humbly entreating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lorry, in a soothing tone, bringing his left hand from the back of the chair to lay it on the supplicatory fingers that clasped him in so violent a tremble: “pray control your agitation--a matter of business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Humbly entreating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humbly entreating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lorry, in a soothing tone, bringing his left hand from the back of the chair to lay it on the supplicatory fingers that clasped him in so violent a tremble: “pray control your agitation--a matter of business."*

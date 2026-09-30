@@ -5,15 +5,6 @@ status: unread
 ---
 # stringently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stringent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stringent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This method, no matter how stringently applied, has never reached more than a small proportion of the cases, and becomes a potent agency of political favoritism and corruption."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He subsequently admitted the folly of this by securing Lydia’s rights as his successor as stringently as he could."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"The hold of family customs is strong among them and the world and its allurements and vanities are things to be left stringently alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stringent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stringent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This method, no matter how stringently applied, has never reached more than a small proportion of the cases, and becomes a potent agency of political favoritism and corruption."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He subsequently admitted the folly of this by securing Lydia’s rights as his successor as stringently as he could."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"The hold of family customs is strong among them and the world and its allurements and vanities are things to be left stringently alone."*

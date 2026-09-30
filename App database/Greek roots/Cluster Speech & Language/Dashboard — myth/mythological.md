@@ -5,15 +5,6 @@ status: unread
 ---
 # mythological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, perhaps you have; but I’ve never seen him, and you’ve not told me his name; and altogether he seems rather a mythological personage."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of some 1900 wall paintings at Pompeii, examined by a German scholar and antiquary, some 1400 represent mythological subjects, largely the stories of the loves of Jupiter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, perhaps you have; but I’ve never seen him, and you’ve not told me his name; and altogether he seems rather a mythological personage."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of some 1900 wall paintings at Pompeii, examined by a German scholar and antiquary, some 1400 represent mythological subjects, largely the stories of the loves of Jupiter."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # colloquy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation especially a formal one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It had needed that brief colloquy to let him see what Stafford's life was like at Wanhope, and in what slow nerve-by-nerve laceration amends were being made."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Toller; were just now standing apart and having a friendly colloquy, in which they agreed that Lydgate was a jackanapes, just made to serve Bulstrode’s purpose."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was not indeed entirely an improvisation, but had taken shape in inward colloquy, and rushed out like the round grains from a fruit when sudden heat cracks it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation especially a formal one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It had needed that brief colloquy to let him see what Stafford's life was like at Wanhope, and in what slow nerve-by-nerve laceration amends were being made."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Toller; were just now standing apart and having a friendly colloquy, in which they agreed that Lydgate was a jackanapes, just made to serve Bulstrode’s purpose."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was not indeed entirely an improvisation, but had taken shape in inward colloquy, and rushed out like the round grains from a fruit when sudden heat cracks it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # apprehend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into custody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To apprehend thus Draws us a profit from all things we see, And often to our comfort shall we find The sharded beetle in a safer hold Than is the full-wing’d eagle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou encounter any such, apprehend him, an thou dost me love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I charge you in his Majesty’s name, apprehend him; he’s a friend of the Duke Alençon’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into custody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To apprehend thus Draws us a profit from all things we see, And often to our comfort shall we find The sharded beetle in a safer hold Than is the full-wing’d eagle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou encounter any such, apprehend him, an thou dost me love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I charge you in his Majesty’s name, apprehend him; he’s a friend of the Duke Alençon’s."*

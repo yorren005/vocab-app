@@ -5,15 +5,6 @@ status: unread
 ---
 # abhorrent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When he was a _mauvais sujet_ he was less abhorrent to me than now."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The deeper he went in sin, the more unsatisfactory and abhorrent it became, and he would have turned, long before, to the Lord, had he believed there was the least hope for him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The crime of waste was abhorrent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When he was a _mauvais sujet_ he was less abhorrent to me than now."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The deeper he went in sin, the more unsatisfactory and abhorrent it became, and he would have turned, long before, to the Lord, had he believed there was the least hope for him."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The crime of waste was abhorrent."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # flinch
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Reflexive jerking away
-> 2. **Nuance / Usage**: Dodge (a question), to avoid an unpleasant task or duty
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to flinch the target*) and intransitive clauses (*flinching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If I break time, or flinch in property of what I spoke, unpitied let me die, and well deserved."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her hand trembled, the ardour of his affection being so palpable that she seemed to flinch under it like a plant in too burning a sun."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She felt the claim of a binding ownership, which she ought not to flinch from."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Reflexive jerking away
+> 2. **Nuance / Usage**: Dodge (a question), to avoid an unpleasant task or duty
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to flinch the target*) and intransitive clauses (*flinching against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If I break time, or flinch in property of what I spoke, unpitied let me die, and well deserved."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her hand trembled, the ardour of his affection being so palpable that she seemed to flinch under it like a plant in too burning a sun."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt the claim of a binding ownership, which she ought not to flinch from."*

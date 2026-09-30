@@ -5,13 +5,6 @@ status: unread
 ---
 # Archaea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually single-celled, prokaryotic microorganisms of a domain (Archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually single-celled, prokaryotic microorganisms of a domain (Archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Archaea designates usually single-celled, prokaryotic microorganisms of a domain (archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually single-celled, prokaryotic microorganisms of a domain (Archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually single-celled, prokaryotic microorganisms of a domain (Archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Archaea designates usually single-celled, prokaryotic microorganisms of a domain (archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight)."*

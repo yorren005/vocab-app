@@ -5,15 +5,6 @@ status: unread
 ---
 # sec
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 1/60 of a minute; the basic unit of time adopted under the systeme international d'unites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the hypotenuse to the adjacent side of a right-angled triangle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See above, sec. 3.] [Footnote 5: See Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This figure should be studied in connection with Figure 1, in ch. 4, sec. 9, on gold production."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver and gold of equal coining value are, therefore, as to weight always in the ratio of 16 to 1.] [Footnote 2: See above, ch. 5, sec. 4.] [Footnote 3: See Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 1/60 of a minute; the basic unit of time adopted under the systeme international d'unites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the hypotenuse to the adjacent side of a right-angled triangle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See above, sec. 3.] [Footnote 5: See Vol."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This figure should be studied in connection with Figure 1, in ch. 4, sec. 9, on gold production."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver and gold of equal coining value are, therefore, as to weight always in the ratio of 16 to 1.] [Footnote 2: See above, ch. 5, sec. 4.] [Footnote 3: See Vol."*

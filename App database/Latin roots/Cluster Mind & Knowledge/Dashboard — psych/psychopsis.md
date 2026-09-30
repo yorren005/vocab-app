@@ -5,13 +5,6 @@ status: unread
 ---
 # psychopsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic orchids of central and south america formerly included in genus oncidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic orchids of central and south america formerly included in genus oncidium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopsis designates epiphytic orchids of central and south america formerly included in genus oncidium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic orchids of central and south america formerly included in genus oncidium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic orchids of central and south america formerly included in genus oncidium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopsis designates epiphytic orchids of central and south america formerly included in genus oncidium."*

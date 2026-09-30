@@ -5,13 +5,6 @@ status: unread
 ---
 # aeroembolism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeroembolism designates decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeroembolism designates decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure."*

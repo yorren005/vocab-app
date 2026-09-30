@@ -5,13 +5,6 @@ status: unread
 ---
 # dyskinetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyskinetic designates impairment of voluntary movements resulting in fragmented or jerky motions (as in parkinson's disease)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyskinetic designates impairment of voluntary movements resulting in fragmented or jerky motions (as in parkinson's disease)."*

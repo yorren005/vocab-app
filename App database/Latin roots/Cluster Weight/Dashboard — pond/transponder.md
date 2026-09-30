@@ -5,13 +5,6 @@ status: unread
 ---
 # transponder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical device designed to receive a specific signal and automatically transmit a specific reply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical device designed to receive a specific signal and automatically transmit a specific reply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transponder designates electrical device designed to receive a specific signal and automatically transmit a specific reply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical device designed to receive a specific signal and automatically transmit a specific reply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical device designed to receive a specific signal and automatically transmit a specific reply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transponder designates electrical device designed to receive a specific signal and automatically transmit a specific reply."*

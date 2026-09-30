@@ -5,15 +5,6 @@ status: unread
 ---
 # similarly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In like or similar manner; ; - samuel johnson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In like or similar manner; ; - samuel johnson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Similarly, being permitted to look in at the door of the fatal chamber, he depicts that apartment as three-quarters of a mile long by fifty yards high, at which the court is particularly charmed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In like or similar manner; ; - samuel johnson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In like or similar manner; ; - samuel johnson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Similarly, being permitted to look in at the door of the fatal chamber, he depicts that apartment as three-quarters of a mile long by fifty yards high, at which the court is particularly charmed."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*

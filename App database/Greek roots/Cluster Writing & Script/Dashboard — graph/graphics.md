@@ -5,13 +5,6 @@ status: unread
 ---
 # graphics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photographs or other visual representations in a printed publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawings and photographs in the layout of a book.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He followed with instructions that brought a series of real-time graphics across the monitor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Photographs or other visual representations in a printed publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawings and photographs in the layout of a book.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He followed with instructions that brought a series of real-time graphics across the monitor."*

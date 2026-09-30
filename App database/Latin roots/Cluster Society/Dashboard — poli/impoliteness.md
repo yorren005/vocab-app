@@ -5,13 +5,6 @@ status: unread
 ---
 # impoliteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discourteous manner that ignores accepted social usage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discourteous manner that ignores accepted social usage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But Pierre now committed a reverse act of impoliteness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discourteous manner that ignores accepted social usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discourteous manner that ignores accepted social usage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But Pierre now committed a reverse act of impoliteness."*

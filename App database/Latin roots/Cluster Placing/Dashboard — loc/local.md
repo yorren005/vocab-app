@@ -5,15 +5,6 @@ status: unread
 ---
 # local
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Public transport consisting of a bus or train that stops at all stations or stops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetic that numbs a particular area of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I may give the local wound a name, And make distinct the very breach whereout Hector’s great spirit flew."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am a School lady, I am a Visiting lady, I am a Reading lady, I am a Distributing lady; I am on the local Linen Box Committee and many general committees; and my canvassing alone is very extensive—perhaps no one’s more so."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Public transport consisting of a bus or train that stops at all stations or stops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetic that numbs a particular area of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I may give the local wound a name, And make distinct the very breach whereout Hector’s great spirit flew."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am a School lady, I am a Visiting lady, I am a Reading lady, I am a Distributing lady; I am on the local Linen Box Committee and many general committees; and my canvassing alone is very extensive—perhaps no one’s more so."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*

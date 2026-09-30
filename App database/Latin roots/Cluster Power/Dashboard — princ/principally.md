@@ -5,15 +5,6 @@ status: unread
 ---
 # principally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For the most part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For the most part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She carries some small litter in a reticule which she calls her documents, principally consisting of paper matches and dry lavender."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was a confused little crowd of people, principally children, gathered about the house at which we stopped, which had a tarnished brass plate on the door with the inscription JELLYBY."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But what principally struck us was a jaded and unhealthy-looking though by no means plain girl at the writing-table, who sat biting the feather of her pen and staring at us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For the most part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For the most part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She carries some small litter in a reticule which she calls her documents, principally consisting of paper matches and dry lavender."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was a confused little crowd of people, principally children, gathered about the house at which we stopped, which had a tarnished brass plate on the door with the inscription JELLYBY."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But what principally struck us was a jaded and unhealthy-looking though by no means plain girl at the writing-table, who sat biting the feather of her pen and staring at us."*

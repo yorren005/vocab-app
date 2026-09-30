@@ -5,13 +5,6 @@ status: unread
 ---
 # stayman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apple grown chiefly in the shenandoah valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apple grown chiefly in the shenandoah valley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stayman designates apple grown chiefly in the shenandoah valley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apple grown chiefly in the shenandoah valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apple grown chiefly in the shenandoah valley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stayman designates apple grown chiefly in the shenandoah valley."*

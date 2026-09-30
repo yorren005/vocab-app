@@ -5,13 +5,6 @@ status: unread
 ---
 # uncalled-for
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required or requested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessary and unwarranted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncalled-for designates not required or requested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required or requested.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessary and unwarranted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncalled-for designates not required or requested."*

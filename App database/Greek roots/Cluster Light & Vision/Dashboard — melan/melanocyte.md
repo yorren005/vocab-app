@@ -5,13 +5,6 @@ status: unread
 ---
 # melanocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (as of the skin, eye, or hair follicle) that produces melanin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several vertebrate hormones of the pituitary gland that darken the skin by stimulating melanin dispersion in pigment-containing cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanocyte designates a cell (as of the skin, eye, or hair follicle) that produces melanin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (as of the skin, eye, or hair follicle) that produces melanin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several vertebrate hormones of the pituitary gland that darken the skin by stimulating melanin dispersion in pigment-containing cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanocyte designates a cell (as of the skin, eye, or hair follicle) that produces melanin."*

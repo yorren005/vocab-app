@@ -5,15 +5,6 @@ status: unread
 ---
 # united
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARCHBISHOP. ’Tis very true, And therefore be assured, my good Lord Marshal, If we do now make our atonement well, Our peace will, like a broken limb united, Grow stronger for the breaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here it rests, that you’ll procure the vicar To stay for me at church, ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You peers, continue this united league."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARCHBISHOP. ’Tis very true, And therefore be assured, my good Lord Marshal, If we do now make our atonement well, Our peace will, like a broken limb united, Grow stronger for the breaking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here it rests, that you’ll procure the vicar To stay for me at church, ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You peers, continue this united league."*

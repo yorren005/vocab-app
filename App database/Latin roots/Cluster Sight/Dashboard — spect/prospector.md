@@ -5,15 +5,6 @@ status: unread
 ---
 # prospector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who explores an area for mineral deposits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who explores an area for mineral deposits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Morgan, a prospector, who was roaming over the country in search of minerals, happened to be travelling through a small selection of 640 acres owned by a workingman, who just managed to eke out a living on it, the land being very poor."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Great areas on the edge of civilization still await the pioneer, the prospector, and the miner."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"It turned out, however, that the cutter _Juanita_ from Cooktown, with a party of eight diggers or prospectors, had arrived, with Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who explores an area for mineral deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who explores an area for mineral deposits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Morgan, a prospector, who was roaming over the country in search of minerals, happened to be travelling through a small selection of 640 acres owned by a workingman, who just managed to eke out a living on it, the land being very poor."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Great areas on the edge of civilization still await the pioneer, the prospector, and the miner."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"It turned out, however, that the cutter _Juanita_ from Cooktown, with a party of eight diggers or prospectors, had arrived, with Mr."*

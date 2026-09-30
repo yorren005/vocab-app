@@ -5,15 +5,6 @@ status: unread
 ---
 # dromedary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The one-humped camel (Camelus dromedarius) currently existing only as a domestic or feral animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one-humped camel (Camelus dromedarius) currently existing only as a domestic or feral animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They are generally Richard III. whales, with dromedary humps, and very savage; breakfasting on three or four sailor tarts, that is whaleboats full of mariners: their deformities floundering in seas of blood and blue paint."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Out of the way, Commodore!” cried one, to a great dromedary that of a sudden rose bodily to the surface, and for an instant threatened to swamp us."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They said it was bull-beef; others, that it was dromedary beef; but I do not know, for certain, how that was."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The one-humped camel (Camelus dromedarius) currently existing only as a domestic or feral animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one-humped camel (Camelus dromedarius) currently existing only as a domestic or feral animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They are generally Richard III. whales, with dromedary humps, and very savage; breakfasting on three or four sailor tarts, that is whaleboats full of mariners: their deformities floundering in seas of blood and blue paint."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Out of the way, Commodore!” cried one, to a great dromedary that of a sudden rose bodily to the surface, and for an instant threatened to swamp us."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They said it was bull-beef; others, that it was dromedary beef; but I do not know, for certain, how that was."*

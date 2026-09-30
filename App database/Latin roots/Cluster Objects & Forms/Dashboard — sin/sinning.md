@@ -5,15 +5,6 @@ status: unread
 ---
 # sinning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that is regarded by theologians as a transgression of god's will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit a sin; violate a law of god or a moral law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a man More sinn’d against than sinning."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"All sin was of my sinning, all Atoning mine, and mine the gall Of all regret."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I knew nothing of men.” “You were more sinned against than sinning, that I admit.” “Then will you not forgive me?” “I do forgive you, but forgiveness is not all.” “And love me?” To this question he did not answer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that is regarded by theologians as a transgression of god's will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit a sin; violate a law of god or a moral law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a man More sinn’d against than sinning."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"All sin was of my sinning, all Atoning mine, and mine the gall Of all regret."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I knew nothing of men.” “You were more sinned against than sinning, that I admit.” “Then will you not forgive me?” “I do forgive you, but forgiveness is not all.” “And love me?” To this question he did not answer."*

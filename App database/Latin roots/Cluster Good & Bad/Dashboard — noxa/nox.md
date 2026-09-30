@@ -5,13 +5,6 @@ status: unread
 ---
 # nox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman goddess of night; daughter of erebus; counterpart of greek nyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman goddess of night; daughter of erebus; counterpart of greek nyx.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I think Horace says somewhere _nox longa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman goddess of night; daughter of erebus; counterpart of greek nyx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman goddess of night; daughter of erebus; counterpart of greek nyx.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I think Horace says somewhere _nox longa_."*

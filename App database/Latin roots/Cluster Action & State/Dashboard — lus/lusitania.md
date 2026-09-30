@@ -5,15 +5,6 @@ status: unread
 ---
 # lusitania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient region and roman province on the iberian peninsula; corresponds roughly to modern portugal and parts of spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient region and roman province on the iberian peninsula; corresponds roughly to modern portugal and parts of spain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Woe to the conquering, not the conquered host, Since baffled Triumph droops on Lusitania's coast."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Where Lusitania and her Sister meet, Deem ye what bounds the rival realms divide?"*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"To Jane Addams at the Hague Two Poems, written on the Sinking of the Lusitania."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient region and roman province on the iberian peninsula; corresponds roughly to modern portugal and parts of spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient region and roman province on the iberian peninsula; corresponds roughly to modern portugal and parts of spain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Woe to the conquering, not the conquered host, Since baffled Triumph droops on Lusitania's coast."*
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Where Lusitania and her Sister meet, Deem ye what bounds the rival realms divide?"*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"To Jane Addams at the Hague Two Poems, written on the Sinking of the Lusitania."*

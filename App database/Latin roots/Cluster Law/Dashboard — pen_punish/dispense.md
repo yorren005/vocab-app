@@ -5,15 +5,6 @@ status: unread
 ---
 # dispense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a dispensation; grant an exemption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unfeeling fools can with such wrongs dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall we then dispense with that contract, And not deface your honour with reproach?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a dispensation; grant an exemption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unfeeling fools can with such wrongs dispense."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall we then dispense with that contract, And not deface your honour with reproach?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hysterical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or arising from psychoneurotic hysteria; - morris fishbein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive or uncontrollable emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You saw how hysterical I was yesterday.” “But that was only the effect of the suddenness of your alarm—of the shock."*
-> - 📜 **Jane Austen (*Persuasion*):** *"You will not be hysterical again."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary had been hysterical again this morning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or arising from psychoneurotic hysteria; - morris fishbein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive or uncontrollable emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"You saw how hysterical I was yesterday.” “But that was only the effect of the suddenness of your alarm—of the shock."*
+> - 📜 **Jane Austen (*Persuasion*):** *"You will not be hysterical again."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Mary had been hysterical again this morning."*

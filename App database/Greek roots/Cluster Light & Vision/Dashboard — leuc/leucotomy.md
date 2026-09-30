@@ -5,13 +5,6 @@ status: unread
 ---
 # leucotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucotomy designates surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucotomy designates surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes."*

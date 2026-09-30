@@ -5,15 +5,6 @@ status: unread
 ---
 # eulogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commendatory oration or writing especially in honor of one deceased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High praise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is remarkable how little of the adjective there is--no compliment, no eulogy, no heroic touches, no sympathetic turn of phrase, no great passages of encomium or commendation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I regretted it especially,” he resumed, taking the usual course from detraction to insincere eulogy, “because of my gratitude and respect towards my cousin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commendatory oration or writing especially in honor of one deceased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High praise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is remarkable how little of the adjective there is--no compliment, no eulogy, no heroic touches, no sympathetic turn of phrase, no great passages of encomium or commendation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I regretted it especially,” he resumed, taking the usual course from detraction to insincere eulogy, “because of my gratitude and respect towards my cousin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*

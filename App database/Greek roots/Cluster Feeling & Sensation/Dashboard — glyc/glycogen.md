@@ -5,13 +5,6 @@ status: unread
 ---
 # glycogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white amorphous tasteless polysaccharide (C6H10O5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white amorphous tasteless polysaccharide (C6H10O5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycogen designates a white amorphous tasteless polysaccharide (c6h10o5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white amorphous tasteless polysaccharide (C6H10O5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white amorphous tasteless polysaccharide (C6H10O5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycogen designates a white amorphous tasteless polysaccharide (c6h10o5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue."*

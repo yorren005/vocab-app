@@ -5,14 +5,6 @@ status: unread
 ---
 # topside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) weather deck; the part of a ship's hull that is above the waterline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) weather deck; the part of a ship's hull that is above the waterline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Circle them, Brad, let's see what's on the other side." Brad took the utility around to starboard, then topside and below."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Me find li’l’ dogee back topside,” or something of that sort, but Motu pronounced his words right and was that particular about his grammar that it made me sort of ashamed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) weather deck; the part of a ship's hull that is above the waterline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) weather deck; the part of a ship's hull that is above the waterline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Circle them, Brad, let's see what's on the other side." Brad took the utility around to starboard, then topside and below."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Me find li’l’ dogee back topside,” or something of that sort, but Motu pronounced his words right and was that particular about his grammar that it made me sort of ashamed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # letter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written message addressed to a person or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conventional characters of the alphabet used to represent speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to my mother. [_Giving a letter._] ’Twill be two days ere I shall see you; so I leave you to your wisdom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me see what he writes, and when he means to come. [_Opening a letter._] CLOWN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brought you this letter, gentlemen?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written message addressed to a person or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conventional characters of the alphabet used to represent speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to my mother. [_Giving a letter._] ’Twill be two days ere I shall see you; so I leave you to your wisdom."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me see what he writes, and when he means to come. [_Opening a letter._] CLOWN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brought you this letter, gentlemen?"*

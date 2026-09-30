@@ -5,15 +5,6 @@ status: unread
 ---
 # fermenting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in an agitated or excited state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh, yes, yes!” cried Camilla, whose fermenting feelings appeared to rise from her legs to her bosom."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"If Ward had had any mash fermenting, the doctor would've smelled it."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental chemicalization brings sin and sickness to the surface, forcing impurities to pass away, as is the case with a fermenting fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in an agitated or excited state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh, yes, yes!” cried Camilla, whose fermenting feelings appeared to rise from her legs to her bosom."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"If Ward had had any mash fermenting, the doctor would've smelled it."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental chemicalization brings sin and sickness to the surface, forcing impurities to pass away, as is the case with a fermenting fluid."*

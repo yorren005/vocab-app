@@ -5,15 +5,6 @@ status: unread
 ---
 # ordeal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe or trying experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive method of determining a person's guilt or innocence by subjecting the accused person to dangerous or painful tests believed to be under divine control; escape was usually taken as a sign of innocence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is full of indignation to-night after undergoing the ordeal of consigning to the tomb the remains of a faithful, a zealous, a devoted adherent.” Sir Leicester’s voice trembles and his grey hair stirs upon his head."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had passed through an ordeal of wretchedness which had given him more than it had taken away."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To her and her like, birth itself was an ordeal of degrading personal compulsion, whose gratuitousness nothing in the result seemed to justify, and at best could only palliate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe or trying experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive method of determining a person's guilt or innocence by subjecting the accused person to dangerous or painful tests believed to be under divine control; escape was usually taken as a sign of innocence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it is full of indignation to-night after undergoing the ordeal of consigning to the tomb the remains of a faithful, a zealous, a devoted adherent.” Sir Leicester’s voice trembles and his grey hair stirs upon his head."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had passed through an ordeal of wretchedness which had given him more than it had taken away."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To her and her like, birth itself was an ordeal of degrading personal compulsion, whose gratuitousness nothing in the result seemed to justify, and at best could only palliate."*

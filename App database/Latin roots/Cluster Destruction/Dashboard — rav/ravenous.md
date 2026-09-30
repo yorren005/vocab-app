@@ -5,15 +5,6 @@ status: unread
 ---
 # ravenous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely hungry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devouring or craving food in great quantities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else, when thou didst keep my lambs a-field, I wish some ravenous wolf had eaten thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His skin is surely lent him, For he’s inclined as is the ravenous wolves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must not stint Our necessary actions in the fear To cope malicious censurers, which ever, As ravenous fishes, do a vessel follow That is new-trimmed, but benefit no further Than vainly longing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely hungry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devouring or craving food in great quantities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else, when thou didst keep my lambs a-field, I wish some ravenous wolf had eaten thee!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His skin is surely lent him, For he’s inclined as is the ravenous wolves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must not stint Our necessary actions in the fear To cope malicious censurers, which ever, As ravenous fishes, do a vessel follow That is new-trimmed, but benefit no further Than vainly longing."*

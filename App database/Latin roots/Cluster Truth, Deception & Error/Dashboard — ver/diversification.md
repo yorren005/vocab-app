@@ -5,14 +5,6 @@ status: unread
 ---
 # diversification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of introducing variety (especially in investments or in the variety of goods and services offered).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being varied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Industries are forced into an earlier diversification by tariffs."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Her iron manufactures undoubtedly were hastened--they cannot truly be said to have been created--by the protective tariff. [Sidenote: Social effects of the tariff] Industries are forced into an earlier diversification by tariffs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of introducing variety (especially in investments or in the variety of goods and services offered).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being varied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Industries are forced into an earlier diversification by tariffs."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Her iron manufactures undoubtedly were hastened--they cannot truly be said to have been created--by the protective tariff. [Sidenote: Social effects of the tariff] Industries are forced into an earlier diversification by tariffs."*

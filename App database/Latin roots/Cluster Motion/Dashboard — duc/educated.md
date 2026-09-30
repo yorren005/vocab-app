@@ -5,15 +5,6 @@ status: unread
 ---
 # educated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an education to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create by training and teaching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Define, define, well-educated infant."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole had been educated for the medical profession and had once lived, in his professional capacity, in the household of a German prince."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an education to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create by training and teaching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Define, define, well-educated infant."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole had been educated for the medical profession and had once lived, in his professional capacity, in the household of a German prince."*

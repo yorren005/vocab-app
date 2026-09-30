@@ -5,15 +5,6 @@ status: unread
 ---
 # primrose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt not lack The flower that’s like thy face, pale primrose; nor The azur’d hare-bell, like thy veins; no, nor The leaf of eglantine, whom not to slander, Out-sweet’ned not thy breath."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll devil-porter it no further: I had thought to have let in some of all professions, that go the primrose way to th’ everlasting bonfire. [_Knocking._] Anon, anon!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous short-stemmed plants of the genus primula having tufted basal leaves and showy flowers clustered in umbels or heads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt not lack The flower that’s like thy face, pale primrose; nor The azur’d hare-bell, like thy veins; no, nor The leaf of eglantine, whom not to slander, Out-sweet’ned not thy breath."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll devil-porter it no further: I had thought to have let in some of all professions, that go the primrose way to th’ everlasting bonfire. [_Knocking._] Anon, anon!"*

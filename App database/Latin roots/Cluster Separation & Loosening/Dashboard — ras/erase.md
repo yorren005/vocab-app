@@ -5,15 +5,6 @@ status: unread
 ---
 # erase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from memory or existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove by or as if by rubbing or erasing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While earnestly wishing to erase from his mind the trace of my former offence, I had stamped on that tenacious surface another and far deeper impression: I had burnt it in."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"We have thrown all the light we could acquire upon the portent, and would gladly, now that it has done its office, erase its deep print out of our own brain, where long meditation has fixed it in very undesirable distinctness."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Life is the everlasting I AM, the Be- ing who was and is and shall be, whom nothing can erase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from memory or existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove by or as if by rubbing or erasing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While earnestly wishing to erase from his mind the trace of my former offence, I had stamped on that tenacious surface another and far deeper impression: I had burnt it in."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"We have thrown all the light we could acquire upon the portent, and would gladly, now that it has done its office, erase its deep print out of our own brain, where long meditation has fixed it in very undesirable distinctness."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Life is the everlasting I AM, the Be- ing who was and is and shall be, whom nothing can erase."*

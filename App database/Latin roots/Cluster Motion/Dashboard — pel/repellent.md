@@ -5,15 +5,6 @@ status: unread
 ---
 # repellent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound with which fabrics are treated to repel water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that repels animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Two other possibilities, race admixture and caste, are both so repellent to white American thought, that they cannot be looked upon as solutions."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers of the Apocryphal Gospels did their best to fill the gap by inventing or developing stories, pretty, silly, or repellent, which only show how little they understood the original Gospels or the character of Jesus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound with which fabrics are treated to repel water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that repels animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Two other possibilities, race admixture and caste, are both so repellent to white American thought, that they cannot be looked upon as solutions."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers of the Apocryphal Gospels did their best to fill the gap by inventing or developing stories, pretty, silly, or repellent, which only show how little they understood the original Gospels or the character of Jesus."*

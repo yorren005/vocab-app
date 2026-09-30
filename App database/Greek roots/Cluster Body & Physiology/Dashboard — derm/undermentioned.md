@@ -5,13 +5,6 @@ status: unread
 ---
 # undermentioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: About to be mentioned or specified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About to be mentioned or specified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undermentioned designates about to be mentioned or specified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: About to be mentioned or specified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About to be mentioned or specified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undermentioned designates about to be mentioned or specified."*

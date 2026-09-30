@@ -5,15 +5,6 @@ status: unread
 ---
 # infantryman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fights on foot with small arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fights on foot with small arms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Your fine cords would soon get a bit rubbed,” said an infantryman, wiping the mud off his face with his sleeve."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An infantryman came to the fire, squatted on his heels, held his hands to the blaze, and turned away his face."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A weal dog astwide a fence!” shouted Denísov after him (the most insulting expression a cavalryman can address to a mounted infantryman) and riding up to Rostóv, he burst out laughing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fights on foot with small arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fights on foot with small arms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Your fine cords would soon get a bit rubbed,” said an infantryman, wiping the mud off his face with his sleeve."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An infantryman came to the fire, squatted on his heels, held his hands to the blaze, and turned away his face."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A weal dog astwide a fence!” shouted Denísov after him (the most insulting expression a cavalryman can address to a mounted infantryman) and riding up to Rostóv, he burst out laughing."*

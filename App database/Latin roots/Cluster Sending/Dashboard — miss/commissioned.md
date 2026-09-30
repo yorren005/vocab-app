@@ -5,15 +5,6 @@ status: unread
 ---
 # commissioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into commission; equip for service; of ships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place an order for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And truly when the stars go out and the wan day peeps into the turret-chamber, finding him at his oldest, he looks as if the digger and the spade were both commissioned and would soon be digging."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s ward; he commissioned me to find a governess for her."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"A certain Captain Roberts was commissioned to get a boat built at Genoa, where Byron also was fitting out a yacht, the 'Bolivar'."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into commission; equip for service; of ships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place an order for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And truly when the stars go out and the wan day peeps into the turret-chamber, finding him at his oldest, he looks as if the digger and the spade were both commissioned and would soon be digging."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s ward; he commissioned me to find a governess for her."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"A certain Captain Roberts was commissioned to get a boat built at Genoa, where Byron also was fitting out a yacht, the 'Bolivar'."*

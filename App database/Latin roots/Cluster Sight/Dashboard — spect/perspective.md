@@ -5,15 +5,6 @@ status: unread
 ---
 # perspective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A way of regarding situations or topics etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of things relative to one another as determined by their distance from the viewer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A natural perspective, that is, and is not!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The perspective was so long and so darkened by leaves, and the shadows of the branches on the ground made it so much more intricate to the eye, that at first I could not discern what figure it was."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the exterior of George’s Shooting Gallery, and the long entry, and the bare perspective beyond it, Allan Woodcourt augurs well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A way of regarding situations or topics etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of things relative to one another as determined by their distance from the viewer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A natural perspective, that is, and is not!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The perspective was so long and so darkened by leaves, and the shadows of the branches on the ground made it so much more intricate to the eye, that at first I could not discern what figure it was."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"From the exterior of George’s Shooting Gallery, and the long entry, and the bare perspective beyond it, Allan Woodcourt augurs well."*

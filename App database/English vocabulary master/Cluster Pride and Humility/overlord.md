@@ -5,20 +5,6 @@ status: unread
 ---
 # overlord
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Ruler of other rulers
-> 2. **Nuance / Usage**: Rule over; to domineer
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Irwin Thompson (*The Time Falling Bodies Take to Light: Mythology, Sexuality and the Origins of Culture*):** *"The leader is the man who knows the way of the overlords but identifies with the life of the oppressed."*
-> - 📜 **Classic Author (*The Simpsons*):** *"One thing is for certain, there is no stopping them; the ants will soon be here. And I, for one, welcome our new insect overlords."*
-> - 📜 **Charles Stross (*The Jennifer Morgue*):** *"Fluffy is wearing a diamond collar that belongs in the Tower of London with a platoon of Beefeaters standing guard over it. "I for one welcome our new feline overlords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Ruler of other rulers
+> 2. **Nuance / Usage**: Rule over; to domineer
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Irwin Thompson (*The Time Falling Bodies Take to Light: Mythology, Sexuality and the Origins of Culture*):** *"The leader is the man who knows the way of the overlords but identifies with the life of the oppressed."*
+> - 📜 **Classic Author (*The Simpsons*):** *"One thing is for certain, there is no stopping them; the ants will soon be here. And I, for one, welcome our new insect overlords."*
+> - 📜 **Charles Stross (*The Jennifer Morgue*):** *"Fluffy is wearing a diamond collar that belongs in the Tower of London with a platoon of Beefeaters standing guard over it. "I for one welcome our new feline overlords."*

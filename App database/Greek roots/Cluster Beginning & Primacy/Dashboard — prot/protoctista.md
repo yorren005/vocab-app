@@ -5,13 +5,6 @@ status: unread
 ---
 # protoctista
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoctista designates in most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoctista designates in most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals."*

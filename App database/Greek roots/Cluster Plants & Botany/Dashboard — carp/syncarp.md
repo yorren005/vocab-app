@@ -5,13 +5,6 @@ status: unread
 ---
 # syncarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncarp designates fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncarp designates fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple."*

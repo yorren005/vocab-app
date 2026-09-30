@@ -5,15 +5,6 @@ status: unread
 ---
 # medici
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aristocratic italian family of powerful merchants and bankers who ruled florence in the 15th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aristocratic italian family of powerful merchants and bankers who ruled florence in the 15th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It would be the Venus de’ Medici placed beside a milliner’s doll."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"If Lorenzo de’ Medici, conscious of millions of ducats in his coffers, had been addressing some leech of the period, he could not have spoken with a loftier air than this inhabitant of the fourth story of a tenement house in the Seventh Avenue."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To find, therefore, the elegant historian of the Medici mingling among the busy sons of traffic, at first shocked my poetical ideas; but it is from the very circumstances and situation in which he has been placed, that Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aristocratic italian family of powerful merchants and bankers who ruled florence in the 15th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aristocratic italian family of powerful merchants and bankers who ruled florence in the 15th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It would be the Venus de’ Medici placed beside a milliner’s doll."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"If Lorenzo de’ Medici, conscious of millions of ducats in his coffers, had been addressing some leech of the period, he could not have spoken with a loftier air than this inhabitant of the fourth story of a tenement house in the Seventh Avenue."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To find, therefore, the elegant historian of the Medici mingling among the busy sons of traffic, at first shocked my poetical ideas; but it is from the very circumstances and situation in which he has been placed, that Mr."*

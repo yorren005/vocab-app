@@ -5,15 +5,6 @@ status: unread
 ---
 # spiritualist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as an intermediary between the living and the dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or connected with spiritualism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Unhappy victims of spiritualist delusions have found deliverance at the mercy-seat; and there, too, many in the bondage of sin have rejoiced in a present Saviour."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The departed would gradually rise above ignorance and materiality, and Spiritualists 77:27 would outgrow their beliefs in material spiritualism."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mysticism unscientific 80:12 I entertain no doubt of the humanity and philanthropy of many Spiritualists, but I cannot coincide with their views."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as an intermediary between the living and the dead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or connected with spiritualism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Unhappy victims of spiritualist delusions have found deliverance at the mercy-seat; and there, too, many in the bondage of sin have rejoiced in a present Saviour."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The departed would gradually rise above ignorance and materiality, and Spiritualists 77:27 would outgrow their beliefs in material spiritualism."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mysticism unscientific 80:12 I entertain no doubt of the humanity and philanthropy of many Spiritualists, but I cannot coincide with their views."*

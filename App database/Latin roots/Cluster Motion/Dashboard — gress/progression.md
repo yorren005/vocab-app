@@ -5,15 +5,6 @@ status: unread
 ---
 # progression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series with a definite pattern of advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement forward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most disputed feature of the income tax is the principle of graduation, or of progression."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"First, when used as a fin for progression; Second, when used as a mace in battle; Third, in sweeping; Fourth, in lobtailing; Fifth, in peaking flukes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The last marvel is always the most astonishing; and, if we continue this progression, I do not know how it will end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series with a definite pattern of advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement forward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most disputed feature of the income tax is the principle of graduation, or of progression."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"First, when used as a fin for progression; Second, when used as a mace in battle; Third, in sweeping; Fourth, in lobtailing; Fifth, in peaking flukes."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The last marvel is always the most astonishing; and, if we continue this progression, I do not know how it will end."*

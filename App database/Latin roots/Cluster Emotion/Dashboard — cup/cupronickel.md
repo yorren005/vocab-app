@@ -5,13 +5,6 @@ status: unread
 ---
 # cupronickel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 60/40 alloy of copper and nickel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 60/40 alloy of copper and nickel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupronickel designates a 60/40 alloy of copper and nickel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 60/40 alloy of copper and nickel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 60/40 alloy of copper and nickel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupronickel designates a 60/40 alloy of copper and nickel."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calamint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calamint designates perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calamint designates perennial aromatic herbs growing in hedgerows or scrub or open woodlands from western europe to central asia and in north america."*

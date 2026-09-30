@@ -5,15 +5,6 @@ status: unread
 ---
 # tentacle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that acts like a tentacle in its ability to grasp and hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various elongated tactile or prehensile flexible organs that occur on the head or near the mouth in many animals; used for feeling or grasping or locomotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In reality, it was an infinite agglomeration of coloured infusoria, of veritable globules of jelly, provided with a threadlike tentacle, and of which as many as twenty-five thousand have been counted in less than two cubic half-inches of water."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"With one blow of the axe, Captain Nemo cut this formidable tentacle, that slid wriggling down the ladder."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The unhappy man, seized by the tentacle and fixed to the suckers, was balanced in the air at the caprice of this enormous trunk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that acts like a tentacle in its ability to grasp and hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various elongated tactile or prehensile flexible organs that occur on the head or near the mouth in many animals; used for feeling or grasping or locomotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In reality, it was an infinite agglomeration of coloured infusoria, of veritable globules of jelly, provided with a threadlike tentacle, and of which as many as twenty-five thousand have been counted in less than two cubic half-inches of water."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"With one blow of the axe, Captain Nemo cut this formidable tentacle, that slid wriggling down the ladder."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The unhappy man, seized by the tentacle and fixed to the suckers, was balanced in the air at the caprice of this enormous trunk."*

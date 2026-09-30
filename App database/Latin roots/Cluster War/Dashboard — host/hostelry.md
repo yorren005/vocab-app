@@ -5,15 +5,6 @@ status: unread
 ---
 # hostelry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel providing overnight lodging for travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hotel providing overnight lodging for travelers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins, who has had her own pint in her hand ever since it was fetched from the same hostelry by young Perkins before he was sent to bed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You persist, in a rude and boorish manner, in interrupting my conversation with the other guests in this hostelry.” And Warden Atherton came."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Three large rooms were assigned to them in the monastery hostelry, one of which was occupied by Prince Andrew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel providing overnight lodging for travelers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hotel providing overnight lodging for travelers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins, who has had her own pint in her hand ever since it was fetched from the same hostelry by young Perkins before he was sent to bed."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You persist, in a rude and boorish manner, in interrupting my conversation with the other guests in this hostelry.” And Warden Atherton came."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Three large rooms were assigned to them in the monastery hostelry, one of which was occupied by Prince Andrew."*

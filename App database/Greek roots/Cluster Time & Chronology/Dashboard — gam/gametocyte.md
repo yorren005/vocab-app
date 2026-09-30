@@ -5,13 +5,6 @@ status: unread
 ---
 # gametocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (as of a protozoan causing malaria) that divides to produce gametes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell (as of a protozoan causing malaria) that divides to produce gametes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametocyte designates a cell (as of a protozoan causing malaria) that divides to produce gametes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (as of a protozoan causing malaria) that divides to produce gametes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell (as of a protozoan causing malaria) that divides to produce gametes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametocyte designates a cell (as of a protozoan causing malaria) that divides to produce gametes."*

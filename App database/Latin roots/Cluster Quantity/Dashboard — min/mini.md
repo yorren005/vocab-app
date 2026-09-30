@@ -5,14 +5,6 @@ status: unread
 ---
 # mini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very short skirt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of women's clothing; very short with hemline above the knee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was Med-Exec to a research team in a mini-tank town off Venus."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"When I reached them, I found the heat stifling; and as I bent to avoid the whizzing minies, and the falling branches of the trees, cut off by an occasional shell, I felt that war was a terrible reality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very short skirt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of women's clothing; very short with hemline above the knee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was Med-Exec to a research team in a mini-tank town off Venus."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"When I reached them, I found the heat stifling; and as I bent to avoid the whizzing minies, and the falling branches of the trees, cut off by an occasional shell, I felt that war was a terrible reality."*

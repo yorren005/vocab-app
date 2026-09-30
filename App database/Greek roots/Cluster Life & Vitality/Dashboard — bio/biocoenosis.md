@@ -5,13 +5,6 @@ status: unread
 ---
 # biocoenosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecological community especially when forming a self-regulating unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecological community especially when forming a self-regulating unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biocoenosis designates an ecological community especially when forming a self-regulating unit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecological community especially when forming a self-regulating unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecological community especially when forming a self-regulating unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biocoenosis designates an ecological community especially when forming a self-regulating unit."*

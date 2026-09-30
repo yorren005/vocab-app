@@ -5,15 +5,6 @@ status: unread
 ---
 # preparation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of putting or setting in order in advance of some act or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance prepared according to a formula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The meantime, lady, I’ll raise the preparation of a war Shall stain your brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their preparation is today by sea; We please them not by land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of putting or setting in order in advance of some act or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance prepared according to a formula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The meantime, lady, I’ll raise the preparation of a war Shall stain your brother."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their preparation is today by sea; We please them not by land."*

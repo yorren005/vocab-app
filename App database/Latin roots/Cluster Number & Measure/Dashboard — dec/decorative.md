@@ -5,15 +5,6 @@ status: unread
 ---
 # decorative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving an esthetic rather than a useful purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving an esthetic rather than a useful purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I should say London is the place to have things executed in: if you wish to give photos they must be drawn by an artist and reproduced; no photo ever looked well in a book yet! they haven't decorative importance and don't blend with type."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Certainly in those poems the decorative rhythm and the meaning are absolutely one."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"For my own part, I consider that the decorative genius of the Chinese and their natural colour sense, added to their long training, have placed them so far above their European followers that comparison is irrelevant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving an esthetic rather than a useful purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving an esthetic rather than a useful purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I should say London is the place to have things executed in: if you wish to give photos they must be drawn by an artist and reproduced; no photo ever looked well in a book yet! they haven't decorative importance and don't blend with type."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Certainly in those poems the decorative rhythm and the meaning are absolutely one."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"For my own part, I consider that the decorative genius of the Chinese and their natural colour sense, added to their long training, have placed them so far above their European followers that comparison is irrelevant."*

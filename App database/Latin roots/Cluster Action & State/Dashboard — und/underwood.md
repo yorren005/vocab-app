@@ -5,15 +5,6 @@ status: unread
 ---
 # underwood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Underwood tariff, 1913. § 14."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the woman went out to the tobacco-field, and behind went unseen her husband, slinking through the underwood."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Underwood (letter dated 14th November, 1902, Birbeck Bank Chambers, Southampton Buildings, Chancery Lane, W.C.)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Underwood tariff, 1913. § 14."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the woman went out to the tobacco-field, and behind went unseen her husband, slinking through the underwood."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Underwood (letter dated 14th November, 1902, Birbeck Bank Chambers, Southampton Buildings, Chancery Lane, W.C.)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irrevocable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being retracted or revoked; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being retracted or revoked; - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Firm and irrevocable is my doom Which I have passed upon her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I but said, I would have kept my word; But when I swear, it is irrevocable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Son Edward, she is fair and virtuous, Therefore delay not, give thy hand to Warwick, And with thy hand thy faith irrevocable That only Warwick’s daughter shall be thine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being retracted or revoked; - shakespeare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being retracted or revoked; - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Firm and irrevocable is my doom Which I have passed upon her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I but said, I would have kept my word; But when I swear, it is irrevocable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Son Edward, she is fair and virtuous, Therefore delay not, give thy hand to Warwick, And with thy hand thy faith irrevocable That only Warwick’s daughter shall be thine."*

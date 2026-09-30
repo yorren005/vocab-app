@@ -5,14 +5,6 @@ status: unread
 ---
 # megrim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: migraine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: vertigo, dizziness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was abrupt but not irritable, taking little notice of megrims in healthy people; and Ladislaw did not usually throw away his susceptibilities on those who took no notice of them."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Therefore, take no notice of my megrims till we meet, which I most ardently long to do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: migraine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: vertigo, dizziness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was abrupt but not irritable, taking little notice of megrims in healthy people; and Ladislaw did not usually throw away his susceptibilities on those who took no notice of them."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Therefore, take no notice of my megrims till we meet, which I most ardently long to do."*

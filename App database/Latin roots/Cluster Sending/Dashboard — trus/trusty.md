@@ -5,15 +5,6 @@ status: unread
 ---
 # trusty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A convict who is considered trustworthy and granted special privileges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of trust or belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were fit you knew him; lest, reposing too far in his virtue, which he hath not, he might at some great and trusty business, in a main danger fail you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A trusty villain, sir, that very oft, When I am dull with care and melancholy, Lightens my humour with his merry jests."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brother, this is Sir John Montgomery, Our trusty friend unless I be deceived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A convict who is considered trustworthy and granted special privileges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of trust or belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were fit you knew him; lest, reposing too far in his virtue, which he hath not, he might at some great and trusty business, in a main danger fail you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A trusty villain, sir, that very oft, When I am dull with care and melancholy, Lightens my humour with his merry jests."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brother, this is Sir John Montgomery, Our trusty friend unless I be deceived."*

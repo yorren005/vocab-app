@@ -5,15 +5,6 @@ status: unread
 ---
 # marshal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A law officer having duties similar to those of a sheriff in carrying out the judgments of a court of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (in some countries) a military officer of highest rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters seal’d: and my two schoolfellows, Whom I will trust as I will adders fang’d,— They bear the mandate, they must sweep my way And marshal me to knavery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And first, Lord Marshal, what say you to it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A law officer having duties similar to those of a sheriff in carrying out the judgments of a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (in some countries) a military officer of highest rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters seal’d: and my two schoolfellows, Whom I will trust as I will adders fang’d,— They bear the mandate, they must sweep my way And marshal me to knavery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And first, Lord Marshal, what say you to it?"*

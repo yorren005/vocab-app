@@ -5,20 +5,6 @@ status: unread
 ---
 # spray
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Usually flowering branch or shoot
-> 2. **Nuance / Usage**: Fine, gentle, dispersed mist of liquid
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*Dr. Jekyll and Mr. Hyde*):** *"for—a big, ugly spray of withered fern."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"afire in this drenching spray here?"*
-> - 📜 **Nikos Kazantzakis (*Zorba the Greek*):** *"A strong sirocco was blowing the spray from the waves as far as the little café, whose glass doors were shut. The café reeked of brewing sage and human beings whose breath steamed the windows because of the cold outside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Usually flowering branch or shoot
+> 2. **Nuance / Usage**: Fine, gentle, dispersed mist of liquid
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Louis Stevenson (*Dr. Jekyll and Mr. Hyde*):** *"for—a big, ugly spray of withered fern."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"afire in this drenching spray here?"*
+> - 📜 **Nikos Kazantzakis (*Zorba the Greek*):** *"A strong sirocco was blowing the spray from the waves as far as the little café, whose glass doors were shut. The café reeked of brewing sage and human beings whose breath steamed the windows because of the cold outside."*

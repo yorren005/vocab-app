@@ -5,15 +5,6 @@ status: unread
 ---
 # previous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Just preceding something else in time or order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of persons) of the immediate past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had received orders to remind the children of the strict command, and she knew quite well from previous experiences that she could never have succeeded as effectively as he."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady Dedlock has returned to her house in town for a few days previous to her departure for Paris, where her ladyship intends to stay some weeks, after which her movements are uncertain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she had made a previous stoppage on the second floor and had silently pointed at a dark door there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Just preceding something else in time or order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of persons) of the immediate past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had received orders to remind the children of the strict command, and she knew quite well from previous experiences that she could never have succeeded as effectively as he."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady Dedlock has returned to her house in town for a few days previous to her departure for Paris, where her ladyship intends to stay some weeks, after which her movements are uncertain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But she had made a previous stoppage on the second floor and had silently pointed at a dark door there."*

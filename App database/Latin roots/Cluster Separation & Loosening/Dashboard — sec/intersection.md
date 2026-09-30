@@ -5,15 +5,6 @@ status: unread
 ---
 # intersection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A point where lines intersect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction where one street or road crosses another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then the intersection of the number of knocks, two series with a pause between, beginning with the horizontal top figures gave the letter."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The bit of the <g>roof</g> of the Aisle which remains is heavily groined, and formed by the intersection of round arches."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"By their intersection the roof is formed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point where lines intersect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction where one street or road crosses another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then the intersection of the number of knocks, two series with a pause between, beginning with the horizontal top figures gave the letter."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The bit of the <g>roof</g> of the Aisle which remains is heavily groined, and formed by the intersection of round arches."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"By their intersection the roof is formed."*

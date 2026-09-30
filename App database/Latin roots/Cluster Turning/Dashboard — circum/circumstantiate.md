@@ -5,13 +5,6 @@ status: unread
 ---
 # circumstantiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give circumstantial evidence for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give circumstantial evidence for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumstantiate designates give circumstantial evidence for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give circumstantial evidence for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give circumstantial evidence for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumstantiate designates give circumstantial evidence for."*

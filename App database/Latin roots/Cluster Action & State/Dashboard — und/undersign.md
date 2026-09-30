@@ -5,14 +5,6 @@ status: unread
 ---
 # undersign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sign at the bottom of (a document).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sign at the bottom of (a document).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"TO THE REVEREND CLERGY:-- The undersigned proposes to commence another Periodical, of original plan and character, provided that adequate pledges of supplies shall be furnished."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In regard to most of the cases, the undersigned are unanimous; as to the others the decision is that of a majority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sign at the bottom of (a document).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sign at the bottom of (a document).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"TO THE REVEREND CLERGY:-- The undersigned proposes to commence another Periodical, of original plan and character, provided that adequate pledges of supplies shall be furnished."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In regard to most of the cases, the undersigned are unanimous; as to the others the decision is that of a majority."*

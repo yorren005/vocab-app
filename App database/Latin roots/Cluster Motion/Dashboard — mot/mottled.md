@@ -5,15 +5,6 @@ status: unread
 ---
 # mottled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with spots or blotches of different color or shades of color as if stained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colour with streaks or blotches of different shades.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Next day she flaunts before the public in her gayest attire, her head bedecked with ornaments and her face mottled with red paint."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He had glittering eyes,—small, keen, and black,—and thin wide mottled lips."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As its name imports, it is of an exceedingly rich, mottled tint, with a bestreaked snowy and golden ground, dotted with spots of the deepest crimson and purple."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with spots or blotches of different color or shades of color as if stained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colour with streaks or blotches of different shades.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Next day she flaunts before the public in her gayest attire, her head bedecked with ornaments and her face mottled with red paint."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He had glittering eyes,—small, keen, and black,—and thin wide mottled lips."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As its name imports, it is of an exceedingly rich, mottled tint, with a bestreaked snowy and golden ground, dotted with spots of the deepest crimson and purple."*

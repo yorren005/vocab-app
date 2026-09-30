@@ -5,13 +5,6 @@ status: unread
 ---
 # tralatitious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been passed along from generation to generation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been passed along from generation to generation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tralatitious designates having been passed along from generation to generation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been passed along from generation to generation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been passed along from generation to generation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tralatitious designates having been passed along from generation to generation."*

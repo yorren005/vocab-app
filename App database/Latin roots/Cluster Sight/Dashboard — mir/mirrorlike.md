@@ -5,14 +5,6 @@ status: unread
 ---
 # mirrorlike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reflecting light like a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of reflecting light like a mirror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This was Speránski’s cold, mirrorlike look, which did not allow one to penetrate to his soul, and his delicate white hands, which Prince Andrew involuntarily watched as one does watch the hands of those who possess power."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This mirrorlike gaze and those delicate hands irritated Prince Andrew, he knew not why."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reflecting light like a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of reflecting light like a mirror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This was Speránski’s cold, mirrorlike look, which did not allow one to penetrate to his soul, and his delicate white hands, which Prince Andrew involuntarily watched as one does watch the hands of those who possess power."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This mirrorlike gaze and those delicate hands irritated Prince Andrew, he knew not why."*

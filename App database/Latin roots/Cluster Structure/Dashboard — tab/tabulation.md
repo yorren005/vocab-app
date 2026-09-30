@@ -5,15 +5,6 @@ status: unread
 ---
 # tabulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information set out in tabular form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting into tabular form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This paper, now, ‘Synoptical Tabulation’ and so on, ‘for the use of Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Synoptical Tabulation for the use of Mrs."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene contracted, and the vacated space filled with numbers and codes representing the few UIPS recon-patrollers in the Plutonian sector followed by a tabulation of INOR's combined assault fleet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Information set out in tabular form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting into tabular form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"This paper, now, ‘Synoptical Tabulation’ and so on, ‘for the use of Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The Synoptical Tabulation for the use of Mrs."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene contracted, and the vacated space filled with numbers and codes representing the few UIPS recon-patrollers in the Plutonian sector followed by a tabulation of INOR's combined assault fleet."*

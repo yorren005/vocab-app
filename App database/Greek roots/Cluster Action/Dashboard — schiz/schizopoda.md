@@ -5,13 +5,6 @@ status: unread
 ---
 # schizopoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizopoda designates in former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizopoda designates in former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea."*

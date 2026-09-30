@@ -5,13 +5,6 @@ status: unread
 ---
 # sultanate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Country or territory ruled by a sultan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Country or territory ruled by a sultan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Under a weak, or a careless, or even an absent, Emperor Rome was governed by such men and such methods as we suppose to be peculiar to Sultanates and the East."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Country or territory ruled by a sultan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Country or territory ruled by a sultan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Under a weak, or a careless, or even an absent, Emperor Rome was governed by such men and such methods as we suppose to be peculiar to Sultanates and the East."*

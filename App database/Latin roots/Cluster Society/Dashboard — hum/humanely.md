@@ -5,15 +5,6 @@ status: unread
 ---
 # humanely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a humane manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a humane manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they would yield us but the superfluity while it were wholesome, we might guess they relieved us humanely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A devil, a born devil, on whose nature Nurture can never stick; on whom my pains, Humanely taken, all, all lost, quite lost; And as with age his body uglier grows, So his mind cankers."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Do you wish me to leave you, or will you let me stay a little?” She took it all humanely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a humane manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a humane manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they would yield us but the superfluity while it were wholesome, we might guess they relieved us humanely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A devil, a born devil, on whose nature Nurture can never stick; on whom my pains, Humanely taken, all, all lost, quite lost; And as with age his body uglier grows, So his mind cankers."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Do you wish me to leave you, or will you let me stay a little?” She took it all humanely."*

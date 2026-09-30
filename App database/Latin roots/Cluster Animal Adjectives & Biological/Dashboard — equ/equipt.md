@@ -5,13 +5,6 @@ status: unread
 ---
 # equipt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided or fitted out with what is necessary or useful or appropriate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided or fitted out with what is necessary or useful or appropriate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equipt designates provided or fitted out with what is necessary or useful or appropriate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided or fitted out with what is necessary or useful or appropriate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided or fitted out with what is necessary or useful or appropriate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equipt designates provided or fitted out with what is necessary or useful or appropriate."*

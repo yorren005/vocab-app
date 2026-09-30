@@ -5,13 +5,6 @@ status: unread
 ---
 # dubai
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Port city in the united arab emirates on the persian gulf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Port city in the united arab emirates on the persian gulf.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubai designates port city in the united arab emirates on the persian gulf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Port city in the united arab emirates on the persian gulf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Port city in the united arab emirates on the persian gulf.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubai designates port city in the united arab emirates on the persian gulf."*

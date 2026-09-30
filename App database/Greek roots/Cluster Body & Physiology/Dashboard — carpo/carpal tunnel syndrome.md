@@ -5,13 +5,6 @@ status: unread
 ---
 # carpal tunnel syndrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpal tunnel syndrome designates a condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpal tunnel syndrome designates a condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers."*

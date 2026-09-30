@@ -5,13 +5,6 @@ status: unread
 ---
 # plenum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meeting of a legislative body at which all members are present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosed space in which the air pressure is higher than outside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Jackson_ currit _plenum sed_ Et laesit meum _magnum ad_. _R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meeting of a legislative body at which all members are present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosed space in which the air pressure is higher than outside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Jackson_ currit _plenum sed_ Et laesit meum _magnum ad_. _R."*

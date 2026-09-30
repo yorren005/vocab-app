@@ -5,15 +5,6 @@ status: unread
 ---
 # undisguised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plain to see.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plain to see.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Alarmed at herself—fearing some further betrayal of a change so marked in its occasion, she rose and said in a low voice with undisguised anxiety, “I must go; I have overtired myself.” Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's positions in a very undisguised manner."*
-> - 📜 **Effie Afton (*Eventide*):** *"Scarce ten minutes had elapsed, after his departure, when Florence rose and said, "Now I am going." "Why, you just promised to remain all night," said Rufus, in a tone of undisguised disappointment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plain to see.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plain to see.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Alarmed at herself—fearing some further betrayal of a change so marked in its occasion, she rose and said in a low voice with undisguised anxiety, “I must go; I have overtired myself.” Mr."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's positions in a very undisguised manner."*
+> - 📜 **Effie Afton (*Eventide*):** *"Scarce ten minutes had elapsed, after his departure, when Florence rose and said, "Now I am going." "Why, you just promised to remain all night," said Rufus, in a tone of undisguised disappointment."*

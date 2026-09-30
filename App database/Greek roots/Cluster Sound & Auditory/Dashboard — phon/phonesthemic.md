@@ -5,13 +5,6 @@ status: unread
 ---
 # phonesthemic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The common feature of sound occurring in a group of symbolic words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common feature of sound occurring in a group of symbolic words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonesthemic designates the common feature of sound occurring in a group of symbolic words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The common feature of sound occurring in a group of symbolic words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common feature of sound occurring in a group of symbolic words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonesthemic designates the common feature of sound occurring in a group of symbolic words."*

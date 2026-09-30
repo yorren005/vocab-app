@@ -5,15 +5,6 @@ status: unread
 ---
 # radish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungent fleshy edible root.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radish of japan with a long hard durable root eaten raw or cooked.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what you call all, but if I fought not with fifty of them I am a bunch of radish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was naked, he was, for all the world, like a forked radish, with a head fantastically carved upon it with a knife."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I grieve to state so distressing a fact, but the inhabitants of Typee were in the habit of devouring fish much in the same way that a civilized being would eat a radish, and without any more previous preparation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungent fleshy edible root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radish of japan with a long hard durable root eaten raw or cooked.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what you call all, but if I fought not with fifty of them I am a bunch of radish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was naked, he was, for all the world, like a forked radish, with a head fantastically carved upon it with a knife."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I grieve to state so distressing a fact, but the inhabitants of Typee were in the habit of devouring fish much in the same way that a civilized being would eat a radish, and without any more previous preparation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # surprisal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of surprising someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of surprising someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Surrounded by hostile tribes, whose mode of warfare is by ambush and surprisal, he is always prepared for fight and lives with his weapons in his hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of surprising someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of surprising someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Surrounded by hostile tribes, whose mode of warfare is by ambush and surprisal, he is always prepared for fight and lives with his weapons in his hands."*

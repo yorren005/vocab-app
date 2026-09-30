@@ -5,13 +5,6 @@ status: unread
 ---
 # gentianella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of herbs with flowers that resemble gentian; in some classifications included in genus gentiana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing alpine plant cultivated for its dark glossy green leaves in basal rosettes and showy solitary bell-shaped blue flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentianella designates genus of herbs with flowers that resemble gentian; in some classifications included in genus gentiana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of herbs with flowers that resemble gentian; in some classifications included in genus gentiana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing alpine plant cultivated for its dark glossy green leaves in basal rosettes and showy solitary bell-shaped blue flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentianella designates genus of herbs with flowers that resemble gentian; in some classifications included in genus gentiana."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # fattism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination against people who are overweight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discrimination against people who are overweight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fattism designates discrimination against people who are overweight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination against people who are overweight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discrimination against people who are overweight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fattism designates discrimination against people who are overweight."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # suspensory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspensory designates a bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspensory designates a bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast)."*

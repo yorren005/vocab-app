@@ -5,15 +5,6 @@ status: unread
 ---
 # partisan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fervent and even militant proponent of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ardent and enthusiastic supporter of some person or activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had as lief have a reed that will do me no service as a partisan I could not heave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I strike at it with my partisan?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The changes have been determined in most cases by motives of temporary partisan advantage or by the political activity of the immediate beneficiaries rather than by clear knowledge and consistent purpose of the electorate as a whole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fervent and even militant proponent of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ardent and enthusiastic supporter of some person or activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had as lief have a reed that will do me no service as a partisan I could not heave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I strike at it with my partisan?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The changes have been determined in most cases by motives of temporary partisan advantage or by the political activity of the immediate beneficiaries rather than by clear knowledge and consistent purpose of the electorate as a whole."*

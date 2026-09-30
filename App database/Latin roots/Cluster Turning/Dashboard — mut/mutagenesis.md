@@ -5,13 +5,6 @@ status: unread
 ---
 # mutagenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event capable of causing a mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event capable of causing a mutation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutagenesis designates an event capable of causing a mutation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event capable of causing a mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event capable of causing a mutation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutagenesis designates an event capable of causing a mutation."*

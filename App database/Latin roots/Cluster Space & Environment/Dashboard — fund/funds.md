@@ -5,15 +5,6 @@ status: unread
 ---
 # funds
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets in the form of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reserve of money set aside for some purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"C. is to continue to play for this considerable stake, sir, he must have funds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are funds in hand at present."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I ask for nothing; there are funds in hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets in the form of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reserve of money set aside for some purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"C. is to continue to play for this considerable stake, sir, he must have funds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There are funds in hand at present."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I ask for nothing; there are funds in hand."*

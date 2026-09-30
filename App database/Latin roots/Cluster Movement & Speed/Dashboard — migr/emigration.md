@@ -5,15 +5,6 @@ status: unread
 ---
 # emigration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migration from a place (especially migration from your native country in order to settle in another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migration from a place (especially migration from your native country in order to settle in another).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel’s original intention had not been emigration to Brazil but a northern or eastern farm in his own country."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On every side, his ears were filled with complaints of 'hard times;' the wheat crop had partially failed two years in succession--the California emigration, and railroad and plank-road speculations had almost drained the country of money."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"She may deem it her interest to diffuse error, and engender antipathy, for the purpose of checking emigration: we have no purpose of the kind to serve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migration from a place (especially migration from your native country in order to settle in another).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migration from a place (especially migration from your native country in order to settle in another).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel’s original intention had not been emigration to Brazil but a northern or eastern farm in his own country."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"On every side, his ears were filled with complaints of 'hard times;' the wheat crop had partially failed two years in succession--the California emigration, and railroad and plank-road speculations had almost drained the country of money."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"She may deem it her interest to diffuse error, and engender antipathy, for the purpose of checking emigration: we have no purpose of the kind to serve."*

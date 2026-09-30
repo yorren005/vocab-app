@@ -5,13 +5,6 @@ status: unread
 ---
 # aphaeresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawal of blood from a donor's body, removal of one or more blood components (such as plasma, platelets, or white blood cells), and transfusion of the remaining blood back into the donor —called also pheresis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeresis designates the loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawal of blood from a donor's body, removal of one or more blood components (such as plasma, platelets, or white blood cells), and transfusion of the remaining blood back into the donor —called also pheresis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeresis designates the loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon)."*

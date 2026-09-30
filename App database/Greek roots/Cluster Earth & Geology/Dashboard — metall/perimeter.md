@@ -5,15 +5,6 @@ status: unread
 ---
 # perimeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a closed plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a perimeter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Reaching the depot's perimeter was less of a problem than he had anticipated."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deploy patrols to strips leading to air locks on the perimeter."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hold outside of their perimeter until I find out what they need from us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a closed plane figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a perimeter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Reaching the depot's perimeter was less of a problem than he had anticipated."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deploy patrols to strips leading to air locks on the perimeter."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hold outside of their perimeter until I find out what they need from us."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # doctrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief (or system of beliefs) accepted as authoritative by some group or school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief (or system of beliefs) accepted as authoritative by some group or school.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall they credit A poor unlearned virgin, when the schools, Embowell’d of their doctrine, have let off The danger to itself?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hourly learn A doctrine of obedience, and would gladly Look him i’ th’ face."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In him Sparing would show a worse sin than ill doctrine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief (or system of beliefs) accepted as authoritative by some group or school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief (or system of beliefs) accepted as authoritative by some group or school.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall they credit A poor unlearned virgin, when the schools, Embowell’d of their doctrine, have let off The danger to itself?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hourly learn A doctrine of obedience, and would gladly Look him i’ th’ face."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In him Sparing would show a worse sin than ill doctrine."*

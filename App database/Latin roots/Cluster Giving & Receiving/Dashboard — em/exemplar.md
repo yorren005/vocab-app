@@ -5,15 +5,6 @@ status: unread
 ---
 # exemplar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something to be imitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something to be imitated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Defender of the Faith we call our Queen, And she has been that Faith's exemplar too."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something to be imitated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something to be imitated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Defender of the Faith we call our Queen, And she has been that Faith's exemplar too."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*

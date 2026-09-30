@@ -5,13 +5,6 @@ status: unread
 ---
 # rubefacient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine for external application that produces redness of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine for external application that produces redness of the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubefacient designates a medicine for external application that produces redness of the skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine for external application that produces redness of the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine for external application that produces redness of the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubefacient designates a medicine for external application that produces redness of the skin."*

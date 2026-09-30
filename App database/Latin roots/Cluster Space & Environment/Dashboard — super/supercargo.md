@@ -5,15 +5,6 @@ status: unread
 ---
 # supercargo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer on a merchant ship in charge of the cargo and its sale and purchase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer on a merchant ship in charge of the cargo and its sale and purchase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel was supercargo and part owner of the _Sparwehr_ adventure, and what he did not own was the property of Captain Johannes Maartens."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"For he was not to remain a sailor, or a supercargo, or whatever he was going to be."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Enoch Holt had been a seafaring man in his early days, and there was news that the owners of a Salem ship in which he held a small interest wished him to go out as supercargo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer on a merchant ship in charge of the cargo and its sale and purchase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer on a merchant ship in charge of the cargo and its sale and purchase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel was supercargo and part owner of the _Sparwehr_ adventure, and what he did not own was the property of Captain Johannes Maartens."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"For he was not to remain a sailor, or a supercargo, or whatever he was going to be."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Enoch Holt had been a seafaring man in his early days, and there was news that the owners of a Salem ship in which he held a small interest wished him to go out as supercargo."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # spinning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creating thread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revolve quickly and repeatedly around one's own axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “I am falling into the sear and yellow leaf, and it is impossible to say how long the last feeble traces of gentlemanly deportment may linger in this weaving and spinning age."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sea was heaving under a thick white fog; and nothing else was moving but a few early ropemakers, who, with the yarn twisted round their bodies, looked as if, tired of their present state of existence, they were spinning themselves into cordage."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dry leaves in the ditch simmered and boiled in the same breezes, a tongue of air occasionally ferreting out a few, and sending them spinning across the grass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creating thread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revolve quickly and repeatedly around one's own axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “I am falling into the sear and yellow leaf, and it is impossible to say how long the last feeble traces of gentlemanly deportment may linger in this weaving and spinning age."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sea was heaving under a thick white fog; and nothing else was moving but a few early ropemakers, who, with the yarn twisted round their bodies, looked as if, tired of their present state of existence, they were spinning themselves into cordage."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dry leaves in the ditch simmered and boiled in the same breezes, a tongue of air occasionally ferreting out a few, and sending them spinning across the grass."*

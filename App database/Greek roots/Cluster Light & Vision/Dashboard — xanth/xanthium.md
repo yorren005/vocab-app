@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Xanthium (cocklebur) is a genus of flowering plants in the tribe Heliantheae within the family Asteraceae, native to the Americas and eastern Asia and some parts of south Asia..
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xanthium (cocklebur) is a genus of flowering plants in the tribe Heliantheae within the family Asteraceae, native to the Americas and eastern Asia and some parts of south Asia..
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthium designates xanthium (cocklebur) is a genus of flowering plants in the tribe heliantheae within the family asteraceae, native to the americas and eastern asia and some parts of south asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Xanthium (cocklebur) is a genus of flowering plants in the tribe Heliantheae within the family Asteraceae, native to the Americas and eastern Asia and some parts of south Asia..
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xanthium (cocklebur) is a genus of flowering plants in the tribe Heliantheae within the family Asteraceae, native to the Americas and eastern Asia and some parts of south Asia..
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthium designates xanthium (cocklebur) is a genus of flowering plants in the tribe heliantheae within the family asteraceae, native to the americas and eastern asia and some parts of south asia."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # smudge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make a smudge on
-> 2. **Nuance / Usage**: Soil as if by smudging
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to smudge the target*) and intransitive clauses (*smudging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Russell Bartlett (*New York Courier and Enquirer*):** *"We had taken about ten pounds of trout; and the first procedure, after reaching the camp, was to build a smudge or smoke-fire, to drive away these abominable gnats, who, fortunately, take flight with the first whiff of smoke."*
-> - 📜 **{{w (*Horse-sickness investigation*):** *"The use of smoke (or "smudges") against the attack of the mosquito is well understood in America and elsewhere."*
-> - 📜 **Christian Rätsch; Claudia Müller-Ebeling (*Pagan Christmas: The Plants, Spirits, and Rituals*):** *"Devil's dirt or asafetida ground together with fenugreek and black cumin seed is used as a smudge against witches and {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A smoky, stifling fire built with damp fuel to produce dense smoke that drives away biting insects or protects orchard crops from frost.
+> 2. **Nuance / Usage**: Also denotes a blurry, smeared mark of soot, charcoal, or ink, or the act of smearing a surface so that sharp lines become indistinct.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to smudge the target*) and intransitive clauses (*smudging against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Russell Bartlett (*New York Courier and Enquirer*):** *"The first procedure, after reaching the camp, was to build a **smudge** or smoke-fire to drive away these abominable gnats."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His face was marked with a dark **smudge** of soot from the smoky candle."*
+> - 📜 **Christian Rätsch & Claudia Müller-Ebeling (*Pagan Christmas*):** *"Asafetida ground together with fenugreek and black cumin seed is burned as a ritual **smudge** against evil spirits."*

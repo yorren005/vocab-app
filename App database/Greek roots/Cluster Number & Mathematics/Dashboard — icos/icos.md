@@ -5,13 +5,6 @@ status: unread
 ---
 # icos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An initial offering of a cryptocurrency to the public : initial coin offering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An initial offering of a cryptocurrency to the public : initial coin offering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icos designates an initial offering of a cryptocurrency to the public : initial coin offering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An initial offering of a cryptocurrency to the public : initial coin offering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An initial offering of a cryptocurrency to the public : initial coin offering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icos designates an initial offering of a cryptocurrency to the public : initial coin offering."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # replaceability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exchangeability by virtue of being replaceable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchangeability by virtue of being replaceable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, replaceability designates exchangeability by virtue of being replaceable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exchangeability by virtue of being replaceable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchangeability by virtue of being replaceable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, replaceability designates exchangeability by virtue of being replaceable."*

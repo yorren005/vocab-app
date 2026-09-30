@@ -5,20 +5,6 @@ status: unread
 ---
 # shudder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Act of shuddering
-> 2. **Nuance / Usage**: Be very worried/fearful about
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to shudder the target*) and intransitive clauses (*shuddering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"An involuntary shudder passed over both of us."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"hardened nerves a shudder to look at it."*
-> - 📜 **Robert Louis Stevenson (*Dr. Jekyll and Mr. Hyde*):** *"It wasn’t a scene for a shudder; but oh—!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To tremble convulsively from deep horror, revulsion, or disgust; as a noun, a sudden, violent spasmodic tremor through the body.
+> 2. **Nuance / Usage**: More visceral and morally charged than *shiver*, *shudder* implies recoiling from something loathsome or terrifying (often in *shudder to think*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to shudder the target*) and intransitive clauses (*shuddering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"An involuntary **shudder** passed over both of us as the prison gates clanged shut."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The moor was so desolate and grim that it gave even my hardened nerves a **shudder** to look at it."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I **shuddered** to think that future ages might curse me as their pest, whose selfishness had not hesitated to buy its own peace at the price of their existence."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # funding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Financial resources provided to make some project possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of financing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"If a suspicion had remained it must have been removed by the flight of Don John, who, funding his villanies were detected, fled from Messina to avoid the just anger of his brother."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He recommended the funding of the war debt, the assumption of the state war debts by the national government, the providing of a system of revenue from the collection of duties on imports, and an internal excise."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Democrats insisted on 3 per cent., until the veto, when the general desire to fund at more favorable rates broke party lines, and a 3½ per cent. funding bill was passed, with the feature objectionable to the National Banks omitted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Financial resources provided to make some project possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of financing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"If a suspicion had remained it must have been removed by the flight of Don John, who, funding his villanies were detected, fled from Messina to avoid the just anger of his brother."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He recommended the funding of the war debt, the assumption of the state war debts by the national government, the providing of a system of revenue from the collection of duties on imports, and an internal excise."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Democrats insisted on 3 per cent., until the veto, when the general desire to fund at more favorable rates broke party lines, and a 3½ per cent. funding bill was passed, with the feature objectionable to the National Banks omitted."*

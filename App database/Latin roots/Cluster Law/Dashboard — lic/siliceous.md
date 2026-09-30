@@ -5,15 +5,6 @@ status: unread
 ---
 # siliceous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or resembling silica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or resembling silica.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This ore contains 5 to 5½ per cent. copper, with a large quantity of highly siliceous gangue."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"These ores contain about 5 per cent. of copper in the form of sulphides, finely disseminated through large quantities of siliceous gangue."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Liquid matte has practically no action on the siliceous material of the hearth, and so presents an inert mass between the bottom and the charge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or resembling silica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or resembling silica.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This ore contains 5 to 5½ per cent. copper, with a large quantity of highly siliceous gangue."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"These ores contain about 5 per cent. of copper in the form of sulphides, finely disseminated through large quantities of siliceous gangue."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Liquid matte has practically no action on the siliceous material of the hearth, and so presents an inert mass between the bottom and the charge."*

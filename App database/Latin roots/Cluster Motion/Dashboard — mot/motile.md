@@ -5,13 +5,6 @@ status: unread
 ---
 # motile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose prevailing mental imagery takes the form of inner feelings of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of spores or microorganisms) capable of movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motile designates one whose prevailing mental imagery takes the form of inner feelings of action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose prevailing mental imagery takes the form of inner feelings of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of spores or microorganisms) capable of movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motile designates one whose prevailing mental imagery takes the form of inner feelings of action."*

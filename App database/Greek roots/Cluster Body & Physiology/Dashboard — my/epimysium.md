@@ -5,13 +5,6 @@ status: unread
 ---
 # epimysium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The external connective-tissue sheath of a muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external connective-tissue sheath of a muscle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epimysium designates the external connective-tissue sheath of a muscle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The external connective-tissue sheath of a muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external connective-tissue sheath of a muscle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epimysium designates the external connective-tissue sheath of a muscle."*

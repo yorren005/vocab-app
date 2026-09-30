@@ -5,13 +5,6 @@ status: unread
 ---
 # barebacked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding without a saddle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a saddle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barebacked designates riding without a saddle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding without a saddle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a saddle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barebacked designates riding without a saddle."*

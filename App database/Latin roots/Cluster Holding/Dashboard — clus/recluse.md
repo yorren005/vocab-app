@@ -5,15 +5,6 @@ status: unread
 ---
 # recluse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives in solitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawn from society; seeking solitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare’s life at the dairy had been that of a recluse in respect the world of his own class."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have been sea-cuny and bravo, scholar and recluse."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As the sky grew less gloomy; indeed, began to grow a little genial, he became still less and less a recluse; as if, when the ship had sailed from home, nothing but the dead wintry bleakness of the sea had then kept him so secluded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives in solitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawn from society; seeking solitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare’s life at the dairy had been that of a recluse in respect the world of his own class."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have been sea-cuny and bravo, scholar and recluse."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As the sky grew less gloomy; indeed, began to grow a little genial, he became still less and less a recluse; as if, when the ship had sailed from home, nothing but the dead wintry bleakness of the sea had then kept him so secluded."*

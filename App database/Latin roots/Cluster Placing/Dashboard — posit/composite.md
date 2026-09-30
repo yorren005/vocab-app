@@ -5,15 +5,6 @@ status: unread
 ---
 # composite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceptual whole made up of complicated and related parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered the most highly evolved dicotyledonous plants, characterized by florets arranged in dense heads that resemble single flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Evidently the times of maximum monetary demand of the different individuals do not coincide; rather they alternate with each other, and the community's total monetary demand at a given time is a composite of the many individual variations."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An instant later the ship disintegrated into thousands of metal and composite fragments, and shards of what had been human flesh and bone. ## "Flash -- Spunnel Transmission Priority One."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He murmured words and placed the palm of his hand on a dull composite plate embedded in the wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceptual whole made up of complicated and related parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered the most highly evolved dicotyledonous plants, characterized by florets arranged in dense heads that resemble single flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Evidently the times of maximum monetary demand of the different individuals do not coincide; rather they alternate with each other, and the community's total monetary demand at a given time is a composite of the many individual variations."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An instant later the ship disintegrated into thousands of metal and composite fragments, and shards of what had been human flesh and bone. ## "Flash -- Spunnel Transmission Priority One."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He murmured words and placed the palm of his hand on a dull composite plate embedded in the wall."*

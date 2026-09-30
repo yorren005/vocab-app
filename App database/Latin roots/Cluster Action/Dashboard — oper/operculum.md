@@ -5,13 +5,6 @@ status: unread
 ---
 # operculum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operculum designates a hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operculum designates a hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted."*

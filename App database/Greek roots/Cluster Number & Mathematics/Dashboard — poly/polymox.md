@@ -5,13 +5,6 @@ status: unread
 ---
 # polymox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymox designates an antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymox designates an antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections."*

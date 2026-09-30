@@ -5,13 +5,6 @@ status: unread
 ---
 # homos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Homo) of hominids that includes modern humans (H. sapiens) and several extinct related species (such as H. erectus and H. habilis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gay person —used as a term of abuse and disparagement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homos designates any of a genus (homo) of hominids that includes modern humans (h. sapiens) and several extinct related species (such as h. erectus and h. habilis)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Homo) of hominids that includes modern humans (H. sapiens) and several extinct related species (such as H. erectus and H. habilis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gay person —used as a term of abuse and disparagement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homos designates any of a genus (homo) of hominids that includes modern humans (h. sapiens) and several extinct related species (such as h. erectus and h. habilis)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # enteritis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the intestines and especially of the human ileum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of domestic animals (such as panleukopenia of cats) marked by enteritis and diarrhea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteritis designates inflammation of the intestines and especially of the human ileum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the intestines and especially of the human ileum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of domestic animals (such as panleukopenia of cats) marked by enteritis and diarrhea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteritis designates inflammation of the intestines and especially of the human ileum."*

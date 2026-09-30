@@ -5,15 +5,6 @@ status: unread
 ---
 # uneventful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by no noteworthy or significant events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by no noteworthy or significant events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It was performed with suitable quietness and uneventful safety."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"An uneventful life without much anxiety does keep people young," philosophized Laura."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Life at Chilmark flowed on uneventful from day to day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by no noteworthy or significant events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by no noteworthy or significant events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"It was performed with suitable quietness and uneventful safety."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"An uneventful life without much anxiety does keep people young," philosophized Laura."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Life at Chilmark flowed on uneventful from day to day."*

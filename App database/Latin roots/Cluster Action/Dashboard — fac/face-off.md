@@ -5,13 +5,6 @@ status: unread
 ---
 # face-off
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile disagreement face-to-face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ice hockey) the method of starting play; a referee drops the puck between two opposing players.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-off designates a hostile disagreement face-to-face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile disagreement face-to-face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ice hockey) the method of starting play; a referee drops the puck between two opposing players.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-off designates a hostile disagreement face-to-face."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # incorporative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing by taking over and incorporating adjacent territories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing by taking over and incorporating adjacent territories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorporative designates growing by taking over and incorporating adjacent territories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing by taking over and incorporating adjacent territories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing by taking over and incorporating adjacent territories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorporative designates growing by taking over and incorporating adjacent territories."*

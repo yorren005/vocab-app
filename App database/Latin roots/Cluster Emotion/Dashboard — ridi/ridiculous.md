@@ -5,15 +5,6 @@ status: unread
 ---
 # ridiculous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspiring scornful pity; - dashiell hammett.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thy love were ever like to mine— As sure I think did never man love so— How many actions most ridiculous Hast thou been drawn to by thy fantasy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are good manners at the court are as ridiculous in the country as the behaviour of the country is most mockable at the court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our very priests must become mockers if they shall encounter such ridiculous subjects as you are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspiring scornful pity; - dashiell hammett.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thy love were ever like to mine— As sure I think did never man love so— How many actions most ridiculous Hast thou been drawn to by thy fantasy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are good manners at the court are as ridiculous in the country as the behaviour of the country is most mockable at the court."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our very priests must become mockers if they shall encounter such ridiculous subjects as you are."*

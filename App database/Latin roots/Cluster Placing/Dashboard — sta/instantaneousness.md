@@ -5,13 +5,6 @@ status: unread
 ---
 # instantaneousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quickness of action or occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quickness of action or occurrence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A snap of action it was, an explosion, an instantaneousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quickness of action or occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quickness of action or occurrence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A snap of action it was, an explosion, an instantaneousness."*

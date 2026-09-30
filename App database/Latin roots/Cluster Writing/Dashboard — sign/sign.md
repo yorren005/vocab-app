@@ -5,15 +5,6 @@ status: unread
 ---
 # sign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A perceptible indication of something not immediately apparent (as a visible clue that something has happened).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public display of a message.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, I beseech you— In sign of what you are, not to reward What you have done—before our army hear me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go home, And show no sign of fear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, as I told you always, her beauty and her brain go not together; she’s a good sign, but I have seen small reflection of her wit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perceptible indication of something not immediately apparent (as a visible clue that something has happened).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public display of a message.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, I beseech you— In sign of what you are, not to reward What you have done—before our army hear me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go home, And show no sign of fear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, as I told you always, her beauty and her brain go not together; she’s a good sign, but I have seen small reflection of her wit."*

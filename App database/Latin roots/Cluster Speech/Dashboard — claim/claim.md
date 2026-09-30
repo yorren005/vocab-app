@@ -5,15 +5,6 @@ status: unread
 ---
 # claim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assertion of a right (as to money or property).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assertion that something is true or factual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But Audrey, there is a youth here in the forest lays claim to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, It is thyself, mine own self’s better part, Mine eye’s clear eye, my dear heart’s dearer heart, My food, my fortune, and my sweet hope’s aim, My sole earth’s heaven, and my heaven’s claim."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, such claim as you would lay to your horse, and she would have me as a beast; not that I being a beast she would have me, but that she being a very beastly creature lays claim to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assertion of a right (as to money or property).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assertion that something is true or factual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But Audrey, there is a youth here in the forest lays claim to you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, It is thyself, mine own self’s better part, Mine eye’s clear eye, my dear heart’s dearer heart, My food, my fortune, and my sweet hope’s aim, My sole earth’s heaven, and my heaven’s claim."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, such claim as you would lay to your horse, and she would have me as a beast; not that I being a beast she would have me, but that she being a very beastly creature lays claim to me."*

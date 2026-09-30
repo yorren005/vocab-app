@@ -5,15 +5,6 @@ status: unread
 ---
 # discolour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change color, often in an undesired manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change color, often in an undesired manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we may pass, we will; if we be hind’red, We shall your tawny ground with your red blood Discolour; and so, Montjoy, fare you well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mean these masterless and gory swords To lie discolour’d by this place of peace? [_Enters the monument._] Romeo!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When by chance these precious parts in a nursing whale are cut by the hunter’s lance, the mother’s pouring milk and blood rivallingly discolour the sea for rods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change color, often in an undesired manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change color, often in an undesired manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we may pass, we will; if we be hind’red, We shall your tawny ground with your red blood Discolour; and so, Montjoy, fare you well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mean these masterless and gory swords To lie discolour’d by this place of peace? [_Enters the monument._] Romeo!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When by chance these precious parts in a nursing whale are cut by the hunter’s lance, the mother’s pouring milk and blood rivallingly discolour the sea for rods."*

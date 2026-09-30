@@ -5,13 +5,6 @@ status: unread
 ---
 # concentricity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having the same center (as circles inside one another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having the same center (as circles inside one another).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concentricity designates the quality of having the same center (as circles inside one another)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having the same center (as circles inside one another).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having the same center (as circles inside one another).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concentricity designates the quality of having the same center (as circles inside one another)."*

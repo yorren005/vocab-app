@@ -5,15 +5,6 @@ status: unread
 ---
 # facility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or place that provides a particular service or is used for a particular industry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful performance or ability without difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will something affect the letter; for it argues facility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, he drinks you, with facility, your Dane dead drunk; he sweats not to overthrow your Almain; he gives your Hollander a vomit ere the next pottle can be filled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or place that provides a particular service or is used for a particular industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful performance or ability without difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will something affect the letter; for it argues facility."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, he drinks you, with facility, your Dane dead drunk; he sweats not to overthrow your Almain; he gives your Hollander a vomit ere the next pottle can be filled."*

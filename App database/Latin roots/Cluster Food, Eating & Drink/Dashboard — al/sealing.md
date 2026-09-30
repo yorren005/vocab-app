@@ -5,15 +5,6 @@ status: unread
 ---
 # sealing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of treating something to make it repel water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make tight; secure against leakage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With the round top of an inkstand and two broken bits of sealing-wax he is silently and slowly working out whatever train of indecision is in his mind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now the inkstand top is in the middle, now the red bit of sealing-wax, now the black bit."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My love has sworn, with sealing kiss, With me to live—to die; I have at last my nameless bliss."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of treating something to make it repel water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make tight; secure against leakage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"With the round top of an inkstand and two broken bits of sealing-wax he is silently and slowly working out whatever train of indecision is in his mind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now the inkstand top is in the middle, now the red bit of sealing-wax, now the black bit."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My love has sworn, with sealing kiss, With me to live—to die; I have at last my nameless bliss."*

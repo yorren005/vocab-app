@@ -5,15 +5,6 @@ status: unread
 ---
 # cortege
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A funeral procession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group following and attending to some important person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Soon after starting the next morning we passed the funeral cortege of a Chinese official of Tachienlu, making his last long journey to his distant home two hundred li beyond Chengtu."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"A hearse led the procession and six carriages completed the cortege."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Vienna will be a spectacle to see by next Saturday, when the funeral cortege marches.” He was strongly moved by the tragedy, impelled to write concerning it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A funeral procession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group following and attending to some important person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Soon after starting the next morning we passed the funeral cortege of a Chinese official of Tachienlu, making his last long journey to his distant home two hundred li beyond Chengtu."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"A hearse led the procession and six carriages completed the cortege."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Vienna will be a spectacle to see by next Saturday, when the funeral cortege marches.” He was strongly moved by the tragedy, impelled to write concerning it."*

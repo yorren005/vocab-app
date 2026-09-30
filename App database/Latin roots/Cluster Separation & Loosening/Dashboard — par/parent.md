@@ -5,15 +5,6 @@ status: unread
 ---
 # parent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (plant or animal) from which younger ones are obtained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, stand up blest, [_He rises_.] Whilst with no softer cushion than the flint I kneel before thee and unproperly Show duty, as mistaken all this while Between the child and parent. [_She kneels._] CORIOLANUS."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For the question at issue is only a question of costs, a mere bud on the forest tree of the parent suit, and really will come to a settlement one of these days."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t talk of duty as a child, Miss Summerson; where’s Ma’s duty as a parent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (plant or animal) from which younger ones are obtained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, stand up blest, [_He rises_.] Whilst with no softer cushion than the flint I kneel before thee and unproperly Show duty, as mistaken all this while Between the child and parent. [_She kneels._] CORIOLANUS."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For the question at issue is only a question of costs, a mere bud on the forest tree of the parent suit, and really will come to a settlement one of these days."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t talk of duty as a child, Miss Summerson; where’s Ma’s duty as a parent?"*

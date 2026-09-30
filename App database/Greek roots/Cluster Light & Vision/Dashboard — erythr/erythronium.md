@@ -5,13 +5,6 @@ status: unread
 ---
 # erythronium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythronium designates perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythronium designates perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily."*

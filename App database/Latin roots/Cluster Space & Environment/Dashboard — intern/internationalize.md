@@ -5,13 +5,6 @@ status: unread
 ---
 # internationalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put under international control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make international in character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalize designates put under international control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put under international control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make international in character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalize designates put under international control."*

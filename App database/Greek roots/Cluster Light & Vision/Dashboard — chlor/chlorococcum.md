@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorococcum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorococcum designates type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorococcum designates type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # illustration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artwork that helps make something clear or attractive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing by example.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illustration designates artwork that helps make something clear or attractive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Artwork that helps make something clear or attractive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing by example.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illustration designates artwork that helps make something clear or attractive."*

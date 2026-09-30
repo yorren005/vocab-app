@@ -5,15 +5,6 @@ status: unread
 ---
 # classic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A creation of the highest excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who has created classic works.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For many years the author was known almost entirely for her Alpine classic, "Heidi"."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To be sure, I knew nothing of the subject and do not even now know whether the young gentlemen of classic Rome or Greece made verses to the same extent—or whether the young gentlemen of any country ever did."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Whether this was a story of classic times or out of our own remote history, I could not recollect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A creation of the highest excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who has created classic works.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For many years the author was known almost entirely for her Alpine classic, "Heidi"."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To be sure, I knew nothing of the subject and do not even now know whether the young gentlemen of classic Rome or Greece made verses to the same extent—or whether the young gentlemen of any country ever did."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Whether this was a story of classic times or out of our own remote history, I could not recollect."*

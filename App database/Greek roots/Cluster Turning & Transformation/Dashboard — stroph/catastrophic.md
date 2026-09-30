@@ -5,15 +5,6 @@ status: unread
 ---
 # catastrophic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The point is, that in a surge of anger, obsessed by that catastrophic red wrath that has cursed me down the ages, I killed my fellow professor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effects on Slingshot could be catastrophic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The point is, that in a surge of anger, obsessed by that catastrophic red wrath that has cursed me down the ages, I killed my fellow professor."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effects on Slingshot could be catastrophic."*

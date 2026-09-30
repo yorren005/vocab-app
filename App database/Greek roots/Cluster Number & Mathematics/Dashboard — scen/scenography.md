@@ -5,13 +5,6 @@ status: unread
 ---
 # scenography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of perspective representation especially as applied to the design and painting of stage scenery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of perspective representation especially as applied to the design and painting of stage scenery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scenography designates the art of perspective representation especially as applied to the design and painting of stage scenery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of perspective representation especially as applied to the design and painting of stage scenery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of perspective representation especially as applied to the design and painting of stage scenery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scenography designates the art of perspective representation especially as applied to the design and painting of stage scenery."*

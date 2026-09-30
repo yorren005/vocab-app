@@ -5,13 +5,6 @@ status: unread
 ---
 # cannibalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use parts of something to repair something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannibalise designates eat human flesh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use parts of something to repair something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannibalise designates eat human flesh."*

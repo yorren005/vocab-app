@@ -5,13 +5,6 @@ status: unread
 ---
 # regiomontanus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German mathematician and astronomer (1436-1476).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German mathematician and astronomer (1436-1476).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The engineers were commanded by Regiomontanus and Wilkins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German mathematician and astronomer (1436-1476).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German mathematician and astronomer (1436-1476).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The engineers were commanded by Regiomontanus and Wilkins."*

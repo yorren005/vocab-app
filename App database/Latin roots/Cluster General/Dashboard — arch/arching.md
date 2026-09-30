@@ -5,15 +5,6 @@ status: unread
 ---
 # arching
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form an arch or curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or resembling an arch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] She Says She Loes Me Best Of A’ Tune—“Oonagh’s Waterfall.” Sae flaxen were her ringlets, Her eyebrows of a darker hue, Bewitchingly o’er-arching Twa laughing e’en o’ lovely blue; Her smiling, sae wyling."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Picturesque, all this.-- Here, Val, here's your coffee." "But do you know each other so well as that?" exclaimed Laura, arching her wren's-feather eyebrows."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"At the same time appeared the marvellous phenomenon of eight rainbows arching over the mouth of the cave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form an arch or curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or resembling an arch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] She Says She Loes Me Best Of A’ Tune—“Oonagh’s Waterfall.” Sae flaxen were her ringlets, Her eyebrows of a darker hue, Bewitchingly o’er-arching Twa laughing e’en o’ lovely blue; Her smiling, sae wyling."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Picturesque, all this.-- Here, Val, here's your coffee." "But do you know each other so well as that?" exclaimed Laura, arching her wren's-feather eyebrows."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"At the same time appeared the marvellous phenomenon of eight rainbows arching over the mouth of the cave."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dacrymycetaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacrymycetaceae designates a family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacrymycetaceae designates a family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa."*

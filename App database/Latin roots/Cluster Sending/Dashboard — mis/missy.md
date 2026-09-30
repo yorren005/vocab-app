@@ -5,15 +5,6 @@ status: unread
 ---
 # missy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Will ye wait, missy?” “No,” said she; and taking her basket Tess trudged on."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Go to the window, missy; I thought I heard a horse."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What did missy want with more books?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Will ye wait, missy?” “No,” said she; and taking her basket Tess trudged on."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Go to the window, missy; I thought I heard a horse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"What did missy want with more books?"*

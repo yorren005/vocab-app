@@ -5,15 +5,6 @@ status: unread
 ---
 # cup
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small open container usually used for drinking; usually has a handle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity a cup will hold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do as I bid you.—Where’s this cup I called for?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, Pompey, I have kept me from the cup."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cup us till the world go round, Cup us till the world go round!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small open container usually used for drinking; usually has a handle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity a cup will hold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do as I bid you.—Where’s this cup I called for?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, Pompey, I have kept me from the cup."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cup us till the world go round, Cup us till the world go round!"*

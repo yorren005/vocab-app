@@ -5,13 +5,6 @@ status: unread
 ---
 # reflexive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal pronoun compounded with -self to show the agent's action affects the agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without volition or conscious control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Why, it is just like being the past tense of the compound reflexive adverbial incandescent hypodermic irregular accusative Noun of Multitude; which is father to the expression which the grammarians call Verb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal pronoun compounded with -self to show the agent's action affects the agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without volition or conscious control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Why, it is just like being the past tense of the compound reflexive adverbial incandescent hypodermic irregular accusative Noun of Multitude; which is father to the expression which the grammarians call Verb."*

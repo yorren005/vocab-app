@@ -5,13 +5,6 @@ status: unread
 ---
 # disinheritance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act by a donor that terminates the right of a person to inherit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act by a donor that terminates the right of a person to inherit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinheritance designates the act by a donor that terminates the right of a person to inherit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act by a donor that terminates the right of a person to inherit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act by a donor that terminates the right of a person to inherit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinheritance designates the act by a donor that terminates the right of a person to inherit."*

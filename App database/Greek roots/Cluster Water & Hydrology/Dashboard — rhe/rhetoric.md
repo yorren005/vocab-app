@@ -5,15 +5,6 @@ status: unread
 ---
 # rhetoric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of speaking or writing effectively: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of principles and rules of composition formulated by critics of ancient times.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And do so love, yet when they have devised, What strained touches rhetoric can lend, Thou truly fair, wert truly sympathized, In true plain words, by thy true-telling friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For it is a figure in rhetoric that drink, being poured out of cup into a glass, by filling the one doth empty the other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my observation, which very seldom lies, By the heart’s still rhetoric disclosed with eyes, Deceive me not now, Navarre is infected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of speaking or writing effectively: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of principles and rules of composition formulated by critics of ancient times.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And do so love, yet when they have devised, What strained touches rhetoric can lend, Thou truly fair, wert truly sympathized, In true plain words, by thy true-telling friend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For it is a figure in rhetoric that drink, being poured out of cup into a glass, by filling the one doth empty the other."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my observation, which very seldom lies, By the heart’s still rhetoric disclosed with eyes, Deceive me not now, Navarre is infected."*

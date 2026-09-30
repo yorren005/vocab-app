@@ -5,15 +5,6 @@ status: unread
 ---
 # colony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of organisms of the same type living or growing together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Behind dingy blind and curtain, in upper story and garret, skulking more or less under false names, false hair, false titles, false jewellery, and false histories, a colony of brigands lie in their first sleep."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"We’ll get up a regular colony of fowls, and your mother can attend to them excellently; and the children can go to school.” Tess breathed more and more quickly, and at length she said— “How do I know that you would do all this?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was now on a level with the crow colony, and could see into their nests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of organisms of the same type living or growing together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Behind dingy blind and curtain, in upper story and garret, skulking more or less under false names, false hair, false titles, false jewellery, and false histories, a colony of brigands lie in their first sleep."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"We’ll get up a regular colony of fowls, and your mother can attend to them excellently; and the children can go to school.” Tess breathed more and more quickly, and at length she said— “How do I know that you would do all this?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was now on a level with the crow colony, and could see into their nests."*

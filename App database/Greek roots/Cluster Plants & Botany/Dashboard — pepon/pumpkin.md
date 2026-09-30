@@ -5,15 +5,6 @@ status: unread
 ---
 # pumpkin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fruit of any of various cultivars of herbaceous plants (Cucurbita pepo, C. maxima, C. moschata, C. ficifolia, and C. argyrosperma) of the gourd family that is typically round and orange but may be another color or shape, that has a hard usually smooth skin with shallow longitudinal grooves, and that is grown for ornamental use or for its fibrous pale flesh used especially in baking or as feed for livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several annual chiefly trailing American plants that bear pumpkins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At half-past six the sun settled down upon the levels with the aspect of a great forge in the heavens; and presently a monstrous pumpkin-like moon arose on the other hand."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Miss Pippin adoring young Pumpkin, and dreaming along endless vistas of unwearying companionship, was a little drama which never tired our fathers and mothers, and had been put into all costumes."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"John’s Bright Idea A Sad Thanksgiving Party Guy and the Bee Mean Boy Naughty Pumpkin’s Fate Something About Fires The lee-King’s Reign."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fruit of any of various cultivars of herbaceous plants (Cucurbita pepo, C. maxima, C. moschata, C. ficifolia, and C. argyrosperma) of the gourd family that is typically round and orange but may be another color or shape, that has a hard usually smooth skin with shallow longitudinal grooves, and that is grown for ornamental use or for its fibrous pale flesh used especially in baking or as feed for livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several annual chiefly trailing American plants that bear pumpkins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At half-past six the sun settled down upon the levels with the aspect of a great forge in the heavens; and presently a monstrous pumpkin-like moon arose on the other hand."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Miss Pippin adoring young Pumpkin, and dreaming along endless vistas of unwearying companionship, was a little drama which never tired our fathers and mothers, and had been put into all costumes."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"John’s Bright Idea A Sad Thanksgiving Party Guy and the Bee Mean Boy Naughty Pumpkin’s Fate Something About Fires The lee-King’s Reign."*

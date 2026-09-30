@@ -5,15 +5,6 @@ status: unread
 ---
 # technicality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detail that is considered insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detail that is considered insignificant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The middle row, the first to be inscribed, deals with the Epicurean theory of atoms--not by apophthegm or aphorism, but with something of the fulness and technicality of a treatise."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Let no technicality prevent winning."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Aloof from technicality, and unfettered by artificial rule, such a question gave opportunity for that deep and clear analysis, that mighty grasp of principle, which so much distinguished his higher efforts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detail that is considered insignificant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detail that is considered insignificant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The middle row, the first to be inscribed, deals with the Epicurean theory of atoms--not by apophthegm or aphorism, but with something of the fulness and technicality of a treatise."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Let no technicality prevent winning."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Aloof from technicality, and unfettered by artificial rule, such a question gave opportunity for that deep and clear analysis, that mighty grasp of principle, which so much distinguished his higher efforts."*

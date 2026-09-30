@@ -5,13 +5,6 @@ status: unread
 ---
 # barrie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish dramatist and novelist; created peter pan (1860-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish dramatist and novelist; created peter pan (1860-1937).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Barrie [James Matthew Barrie] A Millennium Fulcrum Edition produced in 1991 by Duncan Research."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish dramatist and novelist; created peter pan (1860-1937).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish dramatist and novelist; created peter pan (1860-1937).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Barrie [James Matthew Barrie] A Millennium Fulcrum Edition produced in 1991 by Duncan Research."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perfidious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to betray; especially having a treacherous character as attributed to the carthaginians by the romans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to betray; especially having a treacherous character as attributed to the carthaginians by the romans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s quoted for a most perfidious slave, With all the spots o’ the world tax’d and debauch’d: Whose nature sickens but to speak a truth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I replied, Men fear the French would prove perfidious, To the King’s danger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this light, a most perfidious and drunken monster."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to betray; especially having a treacherous character as attributed to the carthaginians by the romans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to betray; especially having a treacherous character as attributed to the carthaginians by the romans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s quoted for a most perfidious slave, With all the spots o’ the world tax’d and debauch’d: Whose nature sickens but to speak a truth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I replied, Men fear the French would prove perfidious, To the King’s danger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this light, a most perfidious and drunken monster."*

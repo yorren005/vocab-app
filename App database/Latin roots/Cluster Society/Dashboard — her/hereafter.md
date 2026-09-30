@@ -5,15 +5,6 @@ status: unread
 ---
 # hereafter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Life after death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time yet to come.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean the business is not ended, as fearing to hear of it hereafter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My news I might have told hereafter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hereafter, in a better world than this, I shall desire more love and knowledge of you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Life after death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time yet to come.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean the business is not ended, as fearing to hear of it hereafter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My news I might have told hereafter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hereafter, in a better world than this, I shall desire more love and knowledge of you."*

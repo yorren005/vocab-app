@@ -5,15 +5,6 @@ status: unread
 ---
 # hyperbole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagant exaggeration (such as "mile-high ice-cream cones").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant exaggeration (such as "mile-high ice-cream cones").
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Indeed I think it is one among several cities to which an extreme hyperbole has been applied—‘See Rome and die:’ but in your case I would propose an emendation and say, See Rome as a bride, and live henceforth as a happy wife.” Mr."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The great staircase, however, may be termed, without much hyperbole, a feature of grandeur and magnificence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagant exaggeration (such as "mile-high ice-cream cones").
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant exaggeration (such as "mile-high ice-cream cones").
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Indeed I think it is one among several cities to which an extreme hyperbole has been applied—‘See Rome and die:’ but in your case I would propose an emendation and say, See Rome as a bride, and live henceforth as a happy wife.” Mr."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The great staircase, however, may be termed, without much hyperbole, a feature of grandeur and magnificence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*

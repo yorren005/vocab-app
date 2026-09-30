@@ -5,13 +5,6 @@ status: unread
 ---
 # speciate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolve so as to lead to a new species or develop in a way most suited to the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolve so as to lead to a new species or develop in a way most suited to the environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speciate designates evolve so as to lead to a new species or develop in a way most suited to the environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolve so as to lead to a new species or develop in a way most suited to the environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolve so as to lead to a new species or develop in a way most suited to the environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speciate designates evolve so as to lead to a new species or develop in a way most suited to the environment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # absolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being formally forgiven by a priest in the sacrament of penance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of absolving or remitting; formal redemption as pronounced by a priest in the sacrament of penance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts are but dreams till their effects be tried; The blackest sin is cleared with absolution."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is the confession, not the priest, that gives us absolution."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"This is retribution, Seek for absolution; Answer me--then cast thy sorrows to the wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being formally forgiven by a priest in the sacrament of penance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of absolving or remitting; formal redemption as pronounced by a priest in the sacrament of penance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts are but dreams till their effects be tried; The blackest sin is cleared with absolution."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is the confession, not the priest, that gives us absolution."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"This is retribution, Seek for absolution; Answer me--then cast thy sorrows to the wind."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # tortoiseshell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mottled horny substance of the shell of some turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored; larvae feed on nettles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"That half tabbywhite tortoiseshell in the _City Arms_ with the letter em on her forehead."*
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BELLINGHAM: _(In cap and seal coney mantle, wrapped up to the nose, steps out of her brougham and scans through tortoiseshell quizzing-glasses which she takes from inside her huge opossum muff.)_ Also to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mottled horny substance of the shell of some turtles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored; larvae feed on nettles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"That half tabbywhite tortoiseshell in the _City Arms_ with the letter em on her forehead."*
+> - 📜 **James Joyce (*Ulysses*):** *"MRS BELLINGHAM: _(In cap and seal coney mantle, wrapped up to the nose, steps out of her brougham and scans through tortoiseshell quizzing-glasses which she takes from inside her huge opossum muff.)_ Also to me."*

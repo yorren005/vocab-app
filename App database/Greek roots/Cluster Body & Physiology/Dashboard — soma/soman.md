@@ -5,13 +5,6 @@ status: unread
 ---
 # soman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, soman designates a nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, soman designates a nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled."*

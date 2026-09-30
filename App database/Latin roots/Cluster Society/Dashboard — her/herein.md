@@ -5,15 +5,6 @@ status: unread
 ---
 # herein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In this place or thing or document.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In this place or thing or document.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Herein I see thou lov’st me not with the full weight that I love thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In this place or thing or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In this place or thing or document.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Herein I see thou lov’st me not with the full weight that I love thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*

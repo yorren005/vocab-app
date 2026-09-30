@@ -5,15 +5,6 @@ status: unread
 ---
 # trussed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tie the wings and legs of a bird before cooking it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secure with or as if with ropes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now my father, Twenty to one, is trussed up in a trice Tomorrow morning."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We sat on the open deck, like so many trussed fowls, when he asked the question, and the next moment, as the junk heeled to the breeze, we shot down the deck, planks and all, fetching up in the lee-scuppers with skinned necks."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Old aunt Lapaccia trussed me with one hand (Its fellow was a stinger, as I knew), And so along the wall, over the bridge, {90} By the straight cut to the convent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tie the wings and legs of a bird before cooking it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secure with or as if with ropes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now my father, Twenty to one, is trussed up in a trice Tomorrow morning."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We sat on the open deck, like so many trussed fowls, when he asked the question, and the next moment, as the junk heeled to the breeze, we shot down the deck, planks and all, fetching up in the lee-scuppers with skinned necks."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Old aunt Lapaccia trussed me with one hand (Its fellow was a stinger, as I knew), And so along the wall, over the bridge, {90} By the straight cut to the convent."*

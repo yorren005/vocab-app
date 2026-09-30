@@ -5,14 +5,6 @@ status: unread
 ---
 # microscopically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By using a microscope; so as to be visible only with a microscope; as seen with a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by using a microscope; with extreme precision and attention to detail; in minute detail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FeS (copper 71·7 per cent.), when examined microscopically, appeared to be homogeneous, and indicated some form of combination between the sulphides in these proportions."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To the naked eye it appears in pale purplish-grey patches, which, when examined microscopically, are found to consist of dense bundles of branched threads, bearing ellipsoid acrospores, the membranes of which have a violaceous tint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By using a microscope; so as to be visible only with a microscope; as seen with a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by using a microscope; with extreme precision and attention to detail; in minute detail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FeS (copper 71·7 per cent.), when examined microscopically, appeared to be homogeneous, and indicated some form of combination between the sulphides in these proportions."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To the naked eye it appears in pale purplish-grey patches, which, when examined microscopically, are found to consist of dense bundles of branched threads, bearing ellipsoid acrospores, the membranes of which have a violaceous tint."*

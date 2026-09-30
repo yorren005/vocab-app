@@ -5,15 +5,6 @@ status: unread
 ---
 # scrupulously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With extreme conscientiousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The candle, whose ray had been my beacon, burnt on the table; and by its light an elderly woman, somewhat rough-looking, but scrupulously clean, like all about her, was knitting a stocking."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not at all; he had, on the contrary, remarked that I had scrupulously respected every association: he feared, indeed, I must have bestowed more thought on the matter than it was worth."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Can I receive from him the bridal ring, endure all the forms of love (which I doubt not he would scrupulously observe) and know that the spirit was quite absent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With extreme conscientiousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The candle, whose ray had been my beacon, burnt on the table; and by its light an elderly woman, somewhat rough-looking, but scrupulously clean, like all about her, was knitting a stocking."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not at all; he had, on the contrary, remarked that I had scrupulously respected every association: he feared, indeed, I must have bestowed more thought on the matter than it was worth."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Can I receive from him the bridal ring, endure all the forms of love (which I doubt not he would scrupulously observe) and know that the spirit was quite absent?"*

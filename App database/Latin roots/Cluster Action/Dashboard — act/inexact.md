@@ -5,15 +5,6 @@ status: unread
 ---
 # inexact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The term "utility" in popular speech is very inexact."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To be sure, it is sometimes convenient to speak in a broad but inexact way of "a general rate of wages," when comparing different countries and periods."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"If you have been inexact in any point you had better correct it.” “I think you might have warned me,” returned the other with a touch of sullenness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The term "utility" in popular speech is very inexact."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To be sure, it is sometimes convenient to speak in a broad but inexact way of "a general rate of wages," when comparing different countries and periods."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"If you have been inexact in any point you had better correct it.” “I think you might have warned me,” returned the other with a touch of sullenness."*

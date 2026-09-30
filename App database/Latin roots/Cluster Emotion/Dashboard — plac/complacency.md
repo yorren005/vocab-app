@@ -5,15 +5,6 @@ status: unread
 ---
 # complacency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling you have when you are satisfied with yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling you have when you are satisfied with yourself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She has been greatly missed there, I understand.” Miss Flite received the compliment with complacency and dropped a general curtsy to us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, opening another letter with the greatest complacency."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady has not been out much, for her, and has kept her room a good deal.” “Chesney Wold, Thomas,” rejoins the housekeeper with proud complacency, “will set my Lady up!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling you have when you are satisfied with yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling you have when you are satisfied with yourself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She has been greatly missed there, I understand.” Miss Flite received the compliment with complacency and dropped a general curtsy to us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, opening another letter with the greatest complacency."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady has not been out much, for her, and has kept her room a good deal.” “Chesney Wold, Thomas,” rejoins the housekeeper with proud complacency, “will set my Lady up!"*

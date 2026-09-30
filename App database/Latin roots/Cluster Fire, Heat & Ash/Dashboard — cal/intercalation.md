@@ -5,13 +5,6 @@ status: unread
 ---
 # intercalation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insertion into a calendar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insertion into a calendar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This gradual revolution of the festal Egyptian cycle resulted from the employment of a calendar year which neither corresponded exactly to the solar year nor was periodically corrected by intercalation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insertion into a calendar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insertion into a calendar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This gradual revolution of the festal Egyptian cycle resulted from the employment of a calendar year which neither corresponded exactly to the solar year nor was periodically corrected by intercalation."*

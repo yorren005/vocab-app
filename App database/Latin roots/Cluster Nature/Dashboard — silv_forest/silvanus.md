@@ -5,15 +5,6 @@ status: unread
 ---
 # silvanus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"In shadier Bower More sacred and sequesterd, though but feignd, _Pan_ or _Silvanus_ never slept, nor Nymph, Nor _Faunus_ haunted."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Her sanctuaries were commonly in groves, indeed every grove was sacred to her, and she is often associated with the forest god Silvanus in dedications."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus she might come to be the patron goddess both of hunters and herdsmen, just as Silvanus was the god not only of woods, but of cattle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) god of woods and fields and flocks; pan is the greek counterpart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"In shadier Bower More sacred and sequesterd, though but feignd, _Pan_ or _Silvanus_ never slept, nor Nymph, Nor _Faunus_ haunted."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Her sanctuaries were commonly in groves, indeed every grove was sacred to her, and she is often associated with the forest god Silvanus in dedications."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus she might come to be the patron goddess both of hunters and herdsmen, just as Silvanus was the god not only of woods, but of cattle."*

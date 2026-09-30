@@ -5,15 +5,6 @@ status: unread
 ---
 # hedonism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that pleasure or happiness is the sole or chief good in life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of life based on or suggesting the principles of hedonism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A new Hedonism—that is what our century wants."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"To the wise man, all is a pleasant hedonism." It struck, him at the time how terribly foolish and piteous great men were...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that pleasure or happiness is the sole or chief good in life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of life based on or suggesting the principles of hedonism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A new Hedonism—that is what our century wants."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"To the wise man, all is a pleasant hedonism." It struck, him at the time how terribly foolish and piteous great men were...."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # evaluator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority who is able to estimate worth or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who is able to estimate worth or quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evaluator designates an authority who is able to estimate worth or quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority who is able to estimate worth or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who is able to estimate worth or quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evaluator designates an authority who is able to estimate worth or quality."*

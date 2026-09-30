@@ -5,13 +5,6 @@ status: unread
 ---
 # overrating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calculation that results in an estimate that is too high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too high an estimate of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overrating designates a calculation that results in an estimate that is too high."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A calculation that results in an estimate that is too high.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too high an estimate of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overrating designates a calculation that results in an estimate that is too high."*

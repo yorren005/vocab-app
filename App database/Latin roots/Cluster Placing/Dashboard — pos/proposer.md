@@ -5,13 +5,6 @@ status: unread
 ---
 # proposer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who advances a suggestion or proposal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (parliamentary procedure) someone who makes a formal motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As, on the one hand, the form of the provision would not fulfil the intent of its proposers, so, on the other, if I apprehend that intent rightly, it would be in itself inexpedient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who advances a suggestion or proposal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (parliamentary procedure) someone who makes a formal motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As, on the one hand, the form of the provision would not fulfil the intent of its proposers, so, on the other, if I apprehend that intent rightly, it would be in itself inexpedient."*

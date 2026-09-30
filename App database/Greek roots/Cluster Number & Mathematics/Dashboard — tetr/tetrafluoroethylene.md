@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrafluoroethylene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrafluoroethylene designates a flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrafluoroethylene designates a flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins)."*

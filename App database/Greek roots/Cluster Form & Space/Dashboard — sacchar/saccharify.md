@@ -5,13 +5,6 @@ status: unread
 ---
 # saccharify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweeten with sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into a simple soluble fermentable sugar by hydrolyzing a sugar derivative or complex carbohydrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharify designates sweeten with sugar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweeten with sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into a simple soluble fermentable sugar by hydrolyzing a sugar derivative or complex carbohydrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharify designates sweeten with sugar."*

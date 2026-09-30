@@ -5,13 +5,6 @@ status: unread
 ---
 # mississippian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of mississippi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mississippian designates from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of mississippi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mississippian designates from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects."*

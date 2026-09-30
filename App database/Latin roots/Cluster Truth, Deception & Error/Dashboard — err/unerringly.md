@@ -5,15 +5,6 @@ status: unread
 ---
 # unerringly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without making errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without making errors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush!"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill fully acknowledged the merits of the scheme, but laid his finger unerringly on its weakest part."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without making errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without making errors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush!"*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill fully acknowledged the merits of the scheme, but laid his finger unerringly on its weakest part."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush!"*

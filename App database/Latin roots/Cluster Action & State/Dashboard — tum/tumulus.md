@@ -5,13 +5,6 @@ status: unread
 ---
 # tumulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (archeology) a heap of earth placed over prehistoric tombs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a heap of earth placed over prehistoric tombs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In the centre was a hillock or tumulus, surmounted by a scorched hawthorn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (archeology) a heap of earth placed over prehistoric tombs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a heap of earth placed over prehistoric tombs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the centre was a hillock or tumulus, surmounted by a scorched hawthorn."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # brevet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document entitling a commissioned officer to hold a higher rank temporarily (but without higher pay).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promote somebody by brevet, in the military.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Delightful inducements to embark, fine chance for promotion, it seems—aye, a stove boat will make me an immortal by brevet."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Harriet Foote Hawley, wife of Brevet Major-General Hawley, the present Governor of Connecticut."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Delightful inducements to embark, fine chance for promotion, it seems—aye, a stove boat will make me an immortal by brevet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A document entitling a commissioned officer to hold a higher rank temporarily (but without higher pay).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promote somebody by brevet, in the military.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Delightful inducements to embark, fine chance for promotion, it seems—aye, a stove boat will make me an immortal by brevet."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Harriet Foote Hawley, wife of Brevet Major-General Hawley, the present Governor of Connecticut."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Delightful inducements to embark, fine chance for promotion, it seems—aye, a stove boat will make me an immortal by brevet."*

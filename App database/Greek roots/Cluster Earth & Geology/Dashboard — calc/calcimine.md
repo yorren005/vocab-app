@@ -5,13 +5,6 @@ status: unread
 ---
 # calcimine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-base paint containing zinc oxide and glue and coloring; used as a wash for walls and ceilings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with calcimine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcimine designates a water-base paint containing zinc oxide and glue and coloring; used as a wash for walls and ceilings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-base paint containing zinc oxide and glue and coloring; used as a wash for walls and ceilings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with calcimine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcimine designates a water-base paint containing zinc oxide and glue and coloring; used as a wash for walls and ceilings."*

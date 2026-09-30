@@ -5,14 +5,6 @@ status: unread
 ---
 # abettor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who helps or encourages or incites another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who helps or encourages or incites another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mak’st the vestal violate her oath; Thou blow’st the fire when temperance is thawed; Thou smother’st honesty, thou murder’st troth, Thou foul abettor, thou notorious bawd!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Instantly to turn upon me, charging that I have no sense of the enormity of the crime itself, but am its aider and abettor!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who helps or encourages or incites another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who helps or encourages or incites another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mak’st the vestal violate her oath; Thou blow’st the fire when temperance is thawed; Thou smother’st honesty, thou murder’st troth, Thou foul abettor, thou notorious bawd!"*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Instantly to turn upon me, charging that I have no sense of the enormity of the crime itself, but am its aider and abettor!"*

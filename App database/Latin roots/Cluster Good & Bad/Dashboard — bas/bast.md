@@ -5,15 +5,6 @@ status: unread
 ---
 # bast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong woody fibers obtained especially from the phloem of from various plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) tissue that conducts synthesized food substances (e.g., from leaves) to parts where needed; consists primarily of sieve tubes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Under guise of a present for the pilgrims, Princess Mary prepared a pilgrim’s complete costume for herself: a coarse smock, bast shoes, a rough coat, and a black kerchief."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An old peasant whom Prince Andrew in his childhood had often seen at the gate was sitting on a green garden seat, plaiting a bast shoe."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was sitting on the seat the old prince used to like to sit on, and beside him strips of bast were hanging on the broken and withered branch of a magnolia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong woody fibers obtained especially from the phloem of from various plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) tissue that conducts synthesized food substances (e.g., from leaves) to parts where needed; consists primarily of sieve tubes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Under guise of a present for the pilgrims, Princess Mary prepared a pilgrim’s complete costume for herself: a coarse smock, bast shoes, a rough coat, and a black kerchief."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An old peasant whom Prince Andrew in his childhood had often seen at the gate was sitting on a green garden seat, plaiting a bast shoe."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was sitting on the seat the old prince used to like to sit on, and beside him strips of bast were hanging on the broken and withered branch of a magnolia."*

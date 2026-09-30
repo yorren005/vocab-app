@@ -5,15 +5,6 @@ status: unread
 ---
 # contrition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorrow for sin arising from fear of damnation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorrow for sin arising from fear of damnation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby!” It was necessary for her mistress to comfort her—which she did, I must say, with a good deal of contrition—before she could be got beyond this."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"And that until you are again reform'd and grown new men, you ne'ere presume to name the Court, or press into the Porter's Lodge but for a penance, to be disciplin'd for your roguery, and this done with true contrition. _Both_."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They cannot endure doctrines, which level all vain distinctions, and require the noble, the affluent, and the learned, to assume the same station of penitence and contrition, with the lowliest peasant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorrow for sin arising from fear of damnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorrow for sin arising from fear of damnation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby!” It was necessary for her mistress to comfort her—which she did, I must say, with a good deal of contrition—before she could be got beyond this."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"And that until you are again reform'd and grown new men, you ne'ere presume to name the Court, or press into the Porter's Lodge but for a penance, to be disciplin'd for your roguery, and this done with true contrition. _Both_."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They cannot endure doctrines, which level all vain distinctions, and require the noble, the affluent, and the learned, to assume the same station of penitence and contrition, with the lowliest peasant."*

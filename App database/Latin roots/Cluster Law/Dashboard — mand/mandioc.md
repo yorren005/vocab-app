@@ -5,13 +5,6 @@ status: unread
 ---
 # mandioc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandioc designates cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandioc designates cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca."*

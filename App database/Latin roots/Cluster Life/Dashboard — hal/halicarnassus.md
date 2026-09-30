@@ -5,13 +5,6 @@ status: unread
 ---
 # halicarnassus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek city on the southwestern coast of asia minor in what is now turkey; site of the mausoleum at halicarnassus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient greek city on the southwestern coast of asia minor in what is now turkey; site of the mausoleum at halicarnassus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halicarnassus designates an ancient greek city on the southwestern coast of asia minor in what is now turkey; site of the mausoleum at halicarnassus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek city on the southwestern coast of asia minor in what is now turkey; site of the mausoleum at halicarnassus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient greek city on the southwestern coast of asia minor in what is now turkey; site of the mausoleum at halicarnassus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halicarnassus designates an ancient greek city on the southwestern coast of asia minor in what is now turkey; site of the mausoleum at halicarnassus."*

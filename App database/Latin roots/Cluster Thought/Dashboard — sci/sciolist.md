@@ -5,13 +5,6 @@ status: unread
 ---
 # sciolist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amateur who engages in an activity without serious intentions and who pretends to have knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amateur who engages in an activity without serious intentions and who pretends to have knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciolist designates an amateur who engages in an activity without serious intentions and who pretends to have knowledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amateur who engages in an activity without serious intentions and who pretends to have knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amateur who engages in an activity without serious intentions and who pretends to have knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciolist designates an amateur who engages in an activity without serious intentions and who pretends to have knowledge."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # parentless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no parent or parents or not cared for by parent surrogates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no parent or parents or not cared for by parent surrogates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I could not remember him; but I knew that he was my own uncle—my mother’s brother—that he had taken me when a parentless infant to his house; and that in his last moments he had required a promise of Mrs."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Parentless, homeless, friendless, now doomed to a loveless marriage, she considered her lot an inexpressibly hard one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no parent or parents or not cared for by parent surrogates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no parent or parents or not cared for by parent surrogates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I could not remember him; but I knew that he was my own uncle—my mother’s brother—that he had taken me when a parentless infant to his house; and that in his last moments he had required a promise of Mrs."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Parentless, homeless, friendless, now doomed to a loveless marriage, she considered her lot an inexpressibly hard one."*

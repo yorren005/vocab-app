@@ -5,13 +5,6 @@ status: unread
 ---
 # asphyxia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of oxygen or excess of carbon dioxide in the body that results in unconsciousness and often death and is usually caused by interruption of breathing or inadequate oxygen supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being stifled or suppressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I cannot quite make out what it was that misled the pupil in the following instances; it would not seem to have been the sound of the word, nor the look of it in print: ASPHYXIA, a grumbling, fussy temper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of oxygen or excess of carbon dioxide in the body that results in unconsciousness and often death and is usually caused by interruption of breathing or inadequate oxygen supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being stifled or suppressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I cannot quite make out what it was that misled the pupil in the following instances; it would not seem to have been the sound of the word, nor the look of it in print: ASPHYXIA, a grumbling, fussy temper."*

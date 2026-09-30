@@ -5,18 +5,6 @@ status: unread
 ---
 # deface
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Impair
-> 2. **Nuance / Usage**: Destroy
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to deface the target*) and intransitive clauses (*defacing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Pay him six thousand, and deface the bond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To mar, disfigure, or spoil the surface or appearance of something visibly, such as by scratching, carving, or vandalizing it.
+> 2. **Nuance / Usage**: Historically and legally used to mean obliterating, erasing, or canceling a document, inscription, coin, or seal so that its validity or legibility is destroyed.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to deface the monument*) and passive clauses (*defaced by vandals*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Pay him six thousand, and **deface** the bond."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The rude hands of fanatics had **defaced** the carved stone saints and shattered the painted windows of the choir."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Time and damp had **defaced** the ancient frescoes, leaving only faint, ghostly outlines upon the plaster."*

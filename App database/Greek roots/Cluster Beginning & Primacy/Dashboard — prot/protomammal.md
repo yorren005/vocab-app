@@ -5,13 +5,6 @@ status: unread
 ---
 # protomammal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Probably warm-blooded; considered direct ancestor of mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Probably warm-blooded; considered direct ancestor of mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protomammal designates probably warm-blooded; considered direct ancestor of mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Probably warm-blooded; considered direct ancestor of mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Probably warm-blooded; considered direct ancestor of mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protomammal designates probably warm-blooded; considered direct ancestor of mammals."*

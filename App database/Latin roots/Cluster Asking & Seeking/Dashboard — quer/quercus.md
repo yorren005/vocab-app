@@ -5,14 +5,6 @@ status: unread
 ---
 # quercus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oaks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oaks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A rare species in Britain is the oak-leaf rust (_Uredo Quercus_), in which the sori or pustules are minute, and at first yellow, but afterwards orange."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Autumn. =Uredo Quercus=, Brond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oaks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oaks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A rare species in Britain is the oak-leaf rust (_Uredo Quercus_), in which the sori or pustules are minute, and at first yellow, but afterwards orange."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Autumn. =Uredo Quercus=, Brond."*

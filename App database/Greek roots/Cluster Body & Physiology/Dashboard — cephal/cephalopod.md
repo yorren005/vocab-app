@@ -5,14 +5,6 @@ status: unread
 ---
 # cephalopod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Cephalopoda) of marine mollusks including the squids, cuttlefishes, and octopuses that move by expelling water from a tubular siphon under the head and that have a group of muscular usually sucker-bearing arms around the front of the head, highly developed eyes, and usually a sac containing ink which is ejected for defense or concealment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Cephalopoda) of marine mollusks including the squids, cuttlefishes, and octopuses that move by expelling water from a tubular siphon under the head and that have a group of muscular usually sucker-bearing arms around the front of the head, highly developed eyes, and usually a sac containing ink which is ejected for defense or concealment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its eight arms, or rather feet, fixed to its head, that have given the name of cephalopod to these animals, were twice as long as its body, and were twisted like the furies’ hair."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Chance had brought us in presence of this cuttlefish, and I did not wish to lose the opportunity of carefully studying this specimen of cephalopods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Cephalopoda) of marine mollusks including the squids, cuttlefishes, and octopuses that move by expelling water from a tubular siphon under the head and that have a group of muscular usually sucker-bearing arms around the front of the head, highly developed eyes, and usually a sac containing ink which is ejected for defense or concealment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Cephalopoda) of marine mollusks including the squids, cuttlefishes, and octopuses that move by expelling water from a tubular siphon under the head and that have a group of muscular usually sucker-bearing arms around the front of the head, highly developed eyes, and usually a sac containing ink which is ejected for defense or concealment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its eight arms, or rather feet, fixed to its head, that have given the name of cephalopod to these animals, were twice as long as its body, and were twisted like the furies’ hair."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Chance had brought us in presence of this cuttlefish, and I did not wish to lose the opportunity of carefully studying this specimen of cephalopods."*

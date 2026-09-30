@@ -5,13 +5,6 @@ status: unread
 ---
 # tenaciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have studied myself, and know what ground I occupy; and however a friend or the world may differ from me in that particular, I stand for my own opinion, in silent resolve, with all the tenaciousness of property."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have studied myself, and know what ground I occupy; and however a friend or the world may differ from me in that particular, I stand for my own opinion, in silent resolve, with all the tenaciousness of property."*

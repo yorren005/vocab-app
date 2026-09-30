@@ -5,13 +5,6 @@ status: unread
 ---
 # face-to-face
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In each other's presence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within each other's presence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-to-face designates in each other's presence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In each other's presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within each other's presence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-to-face designates in each other's presence."*

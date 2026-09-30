@@ -5,13 +5,6 @@ status: unread
 ---
 # otoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoscope designates an instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoscope designates an instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body."*

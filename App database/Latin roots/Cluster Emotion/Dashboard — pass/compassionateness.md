@@ -5,13 +5,6 @@ status: unread
 ---
 # compassionateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep awareness of and sympathy for another's suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep awareness of and sympathy for another's suffering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compassionateness designates a deep awareness of and sympathy for another's suffering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep awareness of and sympathy for another's suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep awareness of and sympathy for another's suffering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compassionateness designates a deep awareness of and sympathy for another's suffering."*

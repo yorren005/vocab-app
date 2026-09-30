@@ -5,15 +5,6 @@ status: unread
 ---
 # cub
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An awkward and inexperienced youth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male child (a familiar term of address to a boy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night, wherein the cub-drawn bear would couch, The lion and the belly-pinched wolf Keep their fur dry, unbonneted he runs, And bids what will take all."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They called Jake Oppenheimer the “Human Tiger.” Some cub reporter coined the phrase that will long outlive the man to whom it was applied."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And the jarl Agard’s steel was out, and his Juts joining him as he shouted: “A bear cub!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An awkward and inexperienced youth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male child (a familiar term of address to a boy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night, wherein the cub-drawn bear would couch, The lion and the belly-pinched wolf Keep their fur dry, unbonneted he runs, And bids what will take all."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They called Jake Oppenheimer the “Human Tiger.” Some cub reporter coined the phrase that will long outlive the man to whom it was applied."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And the jarl Agard’s steel was out, and his Juts joining him as he shouted: “A bear cub!"*

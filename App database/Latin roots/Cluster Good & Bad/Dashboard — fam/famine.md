@@ -5,15 +5,6 @@ status: unread
 ---
 # famine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute insufficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en as the o’erflowing Nilus presageth famine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet famine, Ere clean it o’erthrow nature, makes it valiant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute insufficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en as the o’erflowing Nilus presageth famine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet famine, Ere clean it o’erthrow nature, makes it valiant."*

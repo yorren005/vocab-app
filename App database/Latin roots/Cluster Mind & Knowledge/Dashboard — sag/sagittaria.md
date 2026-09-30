@@ -5,13 +5,6 @@ status: unread
 ---
 # sagittaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittaria designates genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittaria designates genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers."*

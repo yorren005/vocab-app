@@ -5,15 +5,6 @@ status: unread
 ---
 # unvalued
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having value that is not acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having value that is not acknowledged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methoughts I saw a thousand fearful wracks; A thousand men that fishes gnawed upon; Wedges of gold, great anchors, heaps of pearl, Inestimable stones, unvalued jewels, All scattered in the bottom of the sea."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He took his keys and an unvalued trifle or two from the handful, and held the rest out towards his father."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Captain Allister, who was the chief gossip of the waterside club, took it upon himself--a cheap thing to do, as everybody said afterwards--to ask many questions about those unvalued relatives of the Balls, who had settled long ago in New York State."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having value that is not acknowledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having value that is not acknowledged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methoughts I saw a thousand fearful wracks; A thousand men that fishes gnawed upon; Wedges of gold, great anchors, heaps of pearl, Inestimable stones, unvalued jewels, All scattered in the bottom of the sea."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He took his keys and an unvalued trifle or two from the handful, and held the rest out towards his father."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Captain Allister, who was the chief gossip of the waterside club, took it upon himself--a cheap thing to do, as everybody said afterwards--to ask many questions about those unvalued relatives of the Balls, who had settled long ago in New York State."*

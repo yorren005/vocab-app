@@ -5,13 +5,6 @@ status: unread
 ---
 # lettish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The official language of latvia; belongs to the baltic branch of indo-european.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official language of latvia; belongs to the baltic branch of indo-european.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"John's Day (the summer solstice), every Lettish peasant is said to devote his leisure hours to swinging diligently; for the higher he rises in the air the higher will his flax grow that season."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official language of latvia; belongs to the baltic branch of indo-european.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official language of latvia; belongs to the baltic branch of indo-european.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"John's Day (the summer solstice), every Lettish peasant is said to devote his leisure hours to swinging diligently; for the higher he rises in the air the higher will his flax grow that season."*

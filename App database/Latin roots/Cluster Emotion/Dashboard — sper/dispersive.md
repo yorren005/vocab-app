@@ -5,13 +5,6 @@ status: unread
 ---
 # dispersive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading by diffusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading by diffusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The twenty millions of freemen in the United States are witnesses of the dispersive injustice of the Old World."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading by diffusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading by diffusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The twenty millions of freemen in the United States are witnesses of the dispersive injustice of the Old World."*

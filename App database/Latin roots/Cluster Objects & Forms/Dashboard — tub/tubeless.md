@@ -5,13 +5,6 @@ status: unread
 ---
 # tubeless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumatic tire not needing an inner tube to be airtight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a tire; not needing an inner tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubeless designates pneumatic tire not needing an inner tube to be airtight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumatic tire not needing an inner tube to be airtight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a tire; not needing an inner tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubeless designates pneumatic tire not needing an inner tube to be airtight."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # subsonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) less than that of sound in a designated medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of speed) less than that of sound in a designated medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsonic designates (of speed) less than that of sound in a designated medium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) less than that of sound in a designated medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of speed) less than that of sound in a designated medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsonic designates (of speed) less than that of sound in a designated medium."*

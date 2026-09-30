@@ -5,13 +5,6 @@ status: unread
 ---
 # enterobiasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobiasis designates infestation with or disease caused by pinworms (genus enterobius, especially e. vermicularis) that occurs especially in children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobiasis designates infestation with or disease caused by pinworms (genus enterobius, especially e. vermicularis) that occurs especially in children."*

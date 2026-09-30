@@ -5,13 +5,6 @@ status: unread
 ---
 # prosthodontist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist who is expert in prosthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist who is expert in prosthodontics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthodontist designates a dentist who is expert in prosthodontics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist who is expert in prosthodontics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist who is expert in prosthodontics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthodontist designates a dentist who is expert in prosthodontics."*

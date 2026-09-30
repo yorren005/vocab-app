@@ -5,15 +5,6 @@ status: unread
 ---
 # anticipative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by eager anticipation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eager anticipation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, to this, Bishop Jebb’s anticipative answer is ready."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"My Koh-i-noor--or (if that’s a platitude) Jewel of Giamschid, the Persian Sofi’s eye; So, in anticipative gratitude, What if I take up my hope and prophesy? -- St. 31."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But, to this, Bishop Jebb’s anticipative answer is ready."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by eager anticipation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eager anticipation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, to this, Bishop Jebb’s anticipative answer is ready."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"My Koh-i-noor--or (if that’s a platitude) Jewel of Giamschid, the Persian Sofi’s eye; So, in anticipative gratitude, What if I take up my hope and prophesy? -- St. 31."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But, to this, Bishop Jebb’s anticipative answer is ready."*

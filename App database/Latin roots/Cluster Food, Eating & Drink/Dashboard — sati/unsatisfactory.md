@@ -5,15 +5,6 @@ status: unread
 ---
 # unsatisfactory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not giving satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not giving satisfaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary never wrote to Bath herself; all the toil of keeping up a slow and unsatisfactory correspondence with Elizabeth fell on Anne."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The deeper he went in sin, the more unsatisfactory and abhorrent it became, and he would have turned, long before, to the Lord, had he believed there was the least hope for him."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"For the signs he gives, and the evidence he suggests, are unsatisfactory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not giving satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not giving satisfaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Mary never wrote to Bath herself; all the toil of keeping up a slow and unsatisfactory correspondence with Elizabeth fell on Anne."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The deeper he went in sin, the more unsatisfactory and abhorrent it became, and he would have turned, long before, to the Lord, had he believed there was the least hope for him."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"For the signs he gives, and the evidence he suggests, are unsatisfactory."*

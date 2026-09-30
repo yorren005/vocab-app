@@ -5,13 +5,6 @@ status: unread
 ---
 # biotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms sharing a specified genotype or the genotype (or peculiarities) so shared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organisms sharing a specified genotype or the genotype (or peculiarities) so shared.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotype designates organisms sharing a specified genotype or the genotype (or peculiarities) so shared."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms sharing a specified genotype or the genotype (or peculiarities) so shared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organisms sharing a specified genotype or the genotype (or peculiarities) so shared.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotype designates organisms sharing a specified genotype or the genotype (or peculiarities) so shared."*

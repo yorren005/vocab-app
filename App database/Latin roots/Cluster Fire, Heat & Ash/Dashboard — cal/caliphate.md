@@ -5,13 +5,6 @@ status: unread
 ---
 # caliphate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The era of islam's ascendancy from the death of mohammed until the 13th century; some moslems still maintain that the moslem world must always have a calif as head of the community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial jurisdiction of a caliph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliphate designates the era of islam's ascendancy from the death of mohammed until the 13th century; some moslems still maintain that the moslem world must always have a calif as head of the community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The era of islam's ascendancy from the death of mohammed until the 13th century; some moslems still maintain that the moslem world must always have a calif as head of the community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial jurisdiction of a caliph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliphate designates the era of islam's ascendancy from the death of mohammed until the 13th century; some moslems still maintain that the moslem world must always have a calif as head of the community."*

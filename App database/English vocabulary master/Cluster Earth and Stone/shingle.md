@@ -5,20 +5,6 @@ status: unread
 ---
 # shingle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Woman's haircut with the hair trimmed short from the back of the head to the nape
-> 2. **Nuance / Usage**: (transitive) to cover with small, thin pieces of building material, with shingles
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice in Wonderland*):** *"They are waiting on the shingle—will you come and join the dance?"*
-> - 📜 **John Ray (*Select Remains of the Learned John Ray, M.A. and F.R.S.*):** *"I reached St. Asaph, a Bishop's See, where there is a very poor Cathedral Church, covered with Shingles or Tiles"*
-> - 📜 **Colson Whitehead (*The Underground Railroad (novel)*):** *"He [...] hung a shingle as a barber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Woman's haircut with the hair trimmed short from the back of the head to the nape
+> 2. **Nuance / Usage**: (transitive) to cover with small, thin pieces of building material, with shingles
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice in Wonderland*):** *"They are waiting on the shingle—will you come and join the dance?"*
+> - 📜 **John Ray (*Select Remains of the Learned John Ray, M.A. and F.R.S.*):** *"I reached St. Asaph, a Bishop's See, where there is a very poor Cathedral Church, covered with Shingles or Tiles"*
+> - 📜 **Colson Whitehead (*The Underground Railroad (novel)*):** *"He [...] hung a shingle as a barber."*

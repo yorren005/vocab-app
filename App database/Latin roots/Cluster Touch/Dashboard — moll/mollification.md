@@ -5,13 +5,6 @@ status: unread
 ---
 # mollification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being appeased or ameliorated or tempered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of appeasing someone or causing someone to be more favorably inclined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some mollification for your giant, sweet lady."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being appeased or ameliorated or tempered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of appeasing someone or causing someone to be more favorably inclined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some mollification for your giant, sweet lady."*

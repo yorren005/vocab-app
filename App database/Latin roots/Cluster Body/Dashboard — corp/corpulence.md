@@ -5,15 +5,6 @@ status: unread
 ---
 # corpulence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of excessive fatness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of excessive fatness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Fourth: Stealing unawares upon the whale in the fancied security of the middle of solitary seas, you find him unbent from the vast corpulence of his dignity, and kitten-like, he plays on the ocean as if it were a hearth."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Though the doctors warned him that with his corpulence wine was dangerous for him, he drank a great deal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of excessive fatness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of excessive fatness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Fourth: Stealing unawares upon the whale in the fancied security of the middle of solitary seas, you find him unbent from the vast corpulence of his dignity, and kitten-like, he plays on the ocean as if it were a hearth."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Though the doctors warned him that with his corpulence wine was dangerous for him, he drank a great deal."*

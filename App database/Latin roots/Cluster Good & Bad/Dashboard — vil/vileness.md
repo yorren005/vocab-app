@@ -5,15 +5,6 @@ status: unread
 ---
 # vileness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being wicked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being disgusting to the senses or emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good alone Is good without a name; vileness is so: The property by what it is should go, Not by the title."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Paul, I acknowledge myself the chiefest of sinners; but I do not suffer this sense of my personal vileness to daunt me."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being wicked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being disgusting to the senses or emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good alone Is good without a name; vileness is so: The property by what it is should go, Not by the title."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Paul, I acknowledge myself the chiefest of sinners; but I do not suffer this sense of my personal vileness to daunt me."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # impassable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being passed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being passed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full of confidence in God, she hoped that the hand which had opened an impassable road would also lead an embittered heart back to himself, and by renewing in him the love of his fellowmen, bring about much happiness and joy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On looking into the place, it occurred to her that she had seen it by daylight on some previous occasion, and that what appeared like an impassable thicket was in reality a brake of fern now withering fast."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At this rate, by next morning the roads would be impassable, and it was so cold!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being passed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being passed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full of confidence in God, she hoped that the hand which had opened an impassable road would also lead an embittered heart back to himself, and by renewing in him the love of his fellowmen, bring about much happiness and joy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On looking into the place, it occurred to her that she had seen it by daylight on some previous occasion, and that what appeared like an impassable thicket was in reality a brake of fern now withering fast."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"At this rate, by next morning the roads would be impassable, and it was so cold!"*

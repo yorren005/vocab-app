@@ -5,15 +5,6 @@ status: unread
 ---
 # urbane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a high degree of refinement and the assurance that comes from wide social experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing a high degree of refinement and the assurance that comes from wide social experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But his French breeding triumphed and he remained, except for that one furtive twinkle, the conscientious valet, nescient and urbane."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a high degree of refinement and the assurance that comes from wide social experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing a high degree of refinement and the assurance that comes from wide social experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But his French breeding triumphed and he remained, except for that one furtive twinkle, the conscientious valet, nescient and urbane."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven."*

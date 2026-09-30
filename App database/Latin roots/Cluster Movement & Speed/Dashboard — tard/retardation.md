@@ -5,14 +5,6 @@ status: unread
 ---
 # retardation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in rate of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extent to which something is delayed or held back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the distance be great between the two there may be difficulties due to the "retardation" of the currents passing between them."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is hard to realize that a people's experience can be so uneven, that development and retardation can exist at once in so remarkable a degree in the mind of a nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in rate of change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extent to which something is delayed or held back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the distance be great between the two there may be difficulties due to the "retardation" of the currents passing between them."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is hard to realize that a people's experience can be so uneven, that development and retardation can exist at once in so remarkable a degree in the mind of a nation."*

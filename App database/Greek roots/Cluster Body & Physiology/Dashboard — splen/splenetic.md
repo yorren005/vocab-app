@@ -5,13 +5,6 @@ status: unread
 ---
 # splenetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the spleen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very irritable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Towards Hazlitt, also, their friendship seemed substantially unchanged let him be as splenetic and wayward as he might."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the spleen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very irritable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Towards Hazlitt, also, their friendship seemed substantially unchanged let him be as splenetic and wayward as he might."*

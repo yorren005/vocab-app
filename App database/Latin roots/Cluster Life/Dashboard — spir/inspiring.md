@@ -5,15 +5,6 @@ status: unread
 ---
 # inspiring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply the inspiration for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is a satisfaction to the parents and guardians of the ’prentices, who feel that there is little danger of her inspiring tender emotions in the breast of youth; she is a satisfaction to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A remarkable feature of the theme is that it is found to be so inspiring that several people come out upon it who never came out before—positively say things!"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had compiled a Greek Lexicon which had some repute in its day, but he was not an inspiring teacher, and his gruff manners made him far from popular."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply the inspiration for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She is a satisfaction to the parents and guardians of the ’prentices, who feel that there is little danger of her inspiring tender emotions in the breast of youth; she is a satisfaction to Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A remarkable feature of the theme is that it is found to be so inspiring that several people come out upon it who never came out before—positively say things!"*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had compiled a Greek Lexicon which had some repute in its day, but he was not an inspiring teacher, and his gruff manners made him far from popular."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # oxy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing oxygen or additional oxygen —often used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing oxygen or additional oxygen —often used in combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
-> - 📜 **James Joyce (*Ulysses*):** *"Tell that to the oxy chap downstairs and touch him for a guinea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing oxygen or additional oxygen —often used in combination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing oxygen or additional oxygen —often used in combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
+> - 📜 **James Joyce (*Ulysses*):** *"Tell that to the oxy chap downstairs and touch him for a guinea."*

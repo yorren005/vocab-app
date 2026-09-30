@@ -5,14 +5,6 @@ status: unread
 ---
 # academe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The academic life, community, or world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Navarre shall be the wonder of the world; Our court shall be a little academe, Still and contemplative in living art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sparkle still the right Promethean fire; They are the books, the arts, the academes, That show, contain, and nourish, all the world; Else none at all in aught proves excellent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The academic life, community, or world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Navarre shall be the wonder of the world; Our court shall be a little academe, Still and contemplative in living art."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sparkle still the right Promethean fire; They are the books, the arts, the academes, That show, contain, and nourish, all the world; Else none at all in aught proves excellent."*

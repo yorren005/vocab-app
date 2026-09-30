@@ -5,14 +5,6 @@ status: unread
 ---
 # operant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having influence or producing an effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having influence or producing an effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I must leave thee, love, and shortly too: My operant powers their functions leave to do: And thou shalt live in this fair world behind, Honour’d, belov’d, and haply one as kind For husband shalt thou— PLAYER QUEEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Earth, yield me roots! [_Digs in the earth._] Who seeks for better of thee, sauce his palate With thy most operant poison!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having influence or producing an effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having influence or producing an effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I must leave thee, love, and shortly too: My operant powers their functions leave to do: And thou shalt live in this fair world behind, Honour’d, belov’d, and haply one as kind For husband shalt thou— PLAYER QUEEN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Earth, yield me roots! [_Digs in the earth._] Who seeks for better of thee, sauce his palate With thy most operant poison!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # distressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into difficulties or distress, especially financial hardship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause mental pain to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that thou wert not, poor distressed soul!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands my state, ’twixt Cade and York distressed, Like to a ship that, having scaped a tempest, Is straightway calmed and boarded with a pirate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear brother, how shall Bona be revenged But by thy help to this distressed queen?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into difficulties or distress, especially financial hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause mental pain to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that thou wert not, poor distressed soul!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands my state, ’twixt Cade and York distressed, Like to a ship that, having scaped a tempest, Is straightway calmed and boarded with a pirate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear brother, how shall Bona be revenged But by thy help to this distressed queen?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # patriarchic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of societies) being ruled by or having descent traced through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of societies) being ruled by or having descent traced through the male line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchic designates (of societies) being ruled by or having descent traced through the male line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of societies) being ruled by or having descent traced through the male line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of societies) being ruled by or having descent traced through the male line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchic designates (of societies) being ruled by or having descent traced through the male line."*

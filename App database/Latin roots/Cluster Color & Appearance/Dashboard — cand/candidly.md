@@ -5,15 +5,6 @@ status: unread
 ---
 # candidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used as intensives reflecting the speaker's attitude) it is sincerely the case that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as intensives reflecting the speaker's attitude) it is sincerely the case that.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the kindness of his heart was such that he never resented anything for long, and welcomed his son to-day with a smile which was as candidly sweet as a child’s."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each brother candidly recognized that there were a few unimportant score of millions of outsiders in civilized society, persons who were neither University men nor churchmen; but they were to be tolerated rather than reckoned with and respected."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He told of wondrous conversions of evil livers of which he had been the instrument, not only amongst the poor, but amongst the rich and well-to-do; and he also candidly admitted many failures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used as intensives reflecting the speaker's attitude) it is sincerely the case that.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as intensives reflecting the speaker's attitude) it is sincerely the case that.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the kindness of his heart was such that he never resented anything for long, and welcomed his son to-day with a smile which was as candidly sweet as a child’s."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each brother candidly recognized that there were a few unimportant score of millions of outsiders in civilized society, persons who were neither University men nor churchmen; but they were to be tolerated rather than reckoned with and respected."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He told of wondrous conversions of evil livers of which he had been the instrument, not only amongst the poor, but amongst the rich and well-to-do; and he also candidly admitted many failures."*

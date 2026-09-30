@@ -5,14 +5,6 @@ status: unread
 ---
 # renege
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mistake of not following suit when able to do so.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to fulfill a promise or obligation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **James Joyce (*Ulysses*):** *"We fought for the royal Stuarts that reneged us against the Williamites and they betrayed us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mistake of not following suit when able to do so.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to fulfill a promise or obligation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
+> - 📜 **James Joyce (*Ulysses*):** *"We fought for the royal Stuarts that reneged us against the Williamites and they betrayed us."*

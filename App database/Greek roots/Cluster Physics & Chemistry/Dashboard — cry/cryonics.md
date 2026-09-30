@@ -5,13 +5,6 @@ status: unread
 ---
 # cryonics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryonics designates the practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryonics designates the practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed."*

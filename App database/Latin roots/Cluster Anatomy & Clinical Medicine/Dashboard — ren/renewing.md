@@ -5,15 +5,6 @@ status: unread
 ---
 # renewing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full of confidence in God, she hoped that the hand which had opened an impassable road would also lead an embittered heart back to himself, and by renewing in him the love of his fellowmen, bring about much happiness and joy."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While Sir Walter and Elizabeth were assiduously pushing their good fortune in Laura Place, Anne was renewing an acquaintance of a very different description."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Renewing then my courage, and gathering my feeble remains of strength, I pushed on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full of confidence in God, she hoped that the hand which had opened an impassable road would also lead an embittered heart back to himself, and by renewing in him the love of his fellowmen, bring about much happiness and joy."*
+> - 📜 **Jane Austen (*Persuasion*):** *"While Sir Walter and Elizabeth were assiduously pushing their good fortune in Laura Place, Anne was renewing an acquaintance of a very different description."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Renewing then my courage, and gathering my feeble remains of strength, I pushed on."*

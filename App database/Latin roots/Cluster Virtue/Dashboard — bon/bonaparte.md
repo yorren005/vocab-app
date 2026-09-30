@@ -5,15 +5,6 @@ status: unread
 ---
 # bonaparte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French general who became emperor of the french (1769-1821).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French general who became emperor of the french (1769-1821).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"In another sense than Bonaparte's, every man born unto the world may say, "I make circumstances." And the spacious abode of Lehna Singh had loveliness enough to veil the sordid character of the life that was lived within its walls."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"We hoped that kings had wiser grown Since Charles I. lost his head, And Bonaparte was overthrown, For painting Europe red; But now we have the greatest kill Since cave men fought with stones."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And when Bonaparte Would lay the British nation at his feet, Her legions tore his mighty hosts apart, And snatched the Conqueror from his lofty seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French general who became emperor of the french (1769-1821).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French general who became emperor of the french (1769-1821).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"In another sense than Bonaparte's, every man born unto the world may say, "I make circumstances." And the spacious abode of Lehna Singh had loveliness enough to veil the sordid character of the life that was lived within its walls."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"We hoped that kings had wiser grown Since Charles I. lost his head, And Bonaparte was overthrown, For painting Europe red; But now we have the greatest kill Since cave men fought with stones."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And when Bonaparte Would lay the British nation at his feet, Her legions tore his mighty hosts apart, And snatched the Conqueror from his lofty seat."*

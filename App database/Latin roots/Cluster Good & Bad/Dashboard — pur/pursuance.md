@@ -5,15 +5,6 @@ status: unread
 ---
 # pursuance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A search for an alternative that meets cognitive criteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continuance of something begun with a view to its completion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lord bless you, my dears, an infant, an infant!” In pursuance of this plan, we went into London on an early day and presented ourselves at Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Breakfast over, he rose, and telling her the hour at which he might be expected to dinner, went off to the miller’s in a mechanical pursuance of the plan of studying that business, which had been his only practical reason for coming here."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"In pursuance of this luminous conception I mentioned to Biddy when I went to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A search for an alternative that meets cognitive criteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continuance of something begun with a view to its completion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lord bless you, my dears, an infant, an infant!” In pursuance of this plan, we went into London on an early day and presented ourselves at Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Breakfast over, he rose, and telling her the hour at which he might be expected to dinner, went off to the miller’s in a mechanical pursuance of the plan of studying that business, which had been his only practical reason for coming here."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"In pursuance of this luminous conception I mentioned to Biddy when I went to Mr."*

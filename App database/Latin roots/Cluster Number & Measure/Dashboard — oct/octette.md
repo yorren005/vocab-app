@@ -5,13 +5,6 @@ status: unread
 ---
 # octette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eight performers or singers who perform together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of eight similar things considered as a unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octette designates eight performers or singers who perform together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eight performers or singers who perform together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of eight similar things considered as a unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octette designates eight performers or singers who perform together."*

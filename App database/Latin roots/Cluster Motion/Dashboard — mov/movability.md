@@ -5,14 +5,6 @@ status: unread
 ---
 # movability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being movable; capable of being moved or rearranged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being movable; capable of being moved or rearranged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Junius does not say it, but clearly implies that, in this way, Coster came to the idea of the movability of the characters, the first step in the invention of typography."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"However, this idea of movability, and the accidental way in which it was discovered, form together the pith of the Haarlem tradition as told by Junius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being movable; capable of being moved or rearranged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being movable; capable of being moved or rearranged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Junius does not say it, but clearly implies that, in this way, Coster came to the idea of the movability of the characters, the first step in the invention of typography."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"However, this idea of movability, and the accidental way in which it was discovered, form together the pith of the Haarlem tradition as told by Junius."*

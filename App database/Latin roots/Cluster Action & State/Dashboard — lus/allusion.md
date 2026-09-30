@@ -5,15 +5,6 @@ status: unread
 ---
 # allusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing reference or indirect mention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing reference or indirect mention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ allusion holds in the exchange."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say, th’ allusion holds in the exchange."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such ASSES as he and Ma make of themselves!” “My dear!” I remonstrated, in allusion to the epithet and the vigorous emphasis Miss Jellyby set upon it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing reference or indirect mention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing reference or indirect mention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ allusion holds in the exchange."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say, th’ allusion holds in the exchange."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Such ASSES as he and Ma make of themselves!” “My dear!” I remonstrated, in allusion to the epithet and the vigorous emphasis Miss Jellyby set upon it."*

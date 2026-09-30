@@ -5,13 +5,6 @@ status: unread
 ---
 # maltreatment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cruel or inhumane treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cruel or inhumane treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To the ignorant age in which it first 474:9 appears, Science seems to be a mistake, - hence the misinterpretation and consequent maltreatment which it receives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cruel or inhumane treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cruel or inhumane treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To the ignorant age in which it first 474:9 appears, Science seems to be a mistake, - hence the misinterpretation and consequent maltreatment which it receives."*

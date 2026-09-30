@@ -5,15 +5,6 @@ status: unread
 ---
 # merit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any admirable quality or attribute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deserving (e.g., deserving assistance).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who ever strove To show her merit that did miss her love?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Inspired merit so by breath is barr’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any admirable quality or attribute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deserving (e.g., deserving assistance).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who ever strove To show her merit that did miss her love?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Inspired merit so by breath is barr’d."*

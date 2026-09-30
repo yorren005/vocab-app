@@ -5,15 +5,6 @@ status: unread
 ---
 # revenue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The entire amount of income before any deductions are made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government income due to taxation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lastly, he frets That Lepidus of the triumvirate Should be deposed and, being, that we detain All his revenue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be to your good, for my father’s house and all the revenue that was old Sir Rowland’s will I estate upon you, and here live and die a shepherd."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thy master’s; shrew me, If I would lose it for a revenue Of any king’s in Europe!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entire amount of income before any deductions are made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government income due to taxation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lastly, he frets That Lepidus of the triumvirate Should be deposed and, being, that we detain All his revenue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be to your good, for my father’s house and all the revenue that was old Sir Rowland’s will I estate upon you, and here live and die a shepherd."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thy master’s; shrew me, If I would lose it for a revenue Of any king’s in Europe!"*

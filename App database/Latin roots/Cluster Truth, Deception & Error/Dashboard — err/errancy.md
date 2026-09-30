@@ -5,13 +5,6 @@ status: unread
 ---
 # errancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) holding views that disagree with accepted doctrine; especially disagreement with papal infallibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fallibility as indicated by erring or a tendency to err.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, errancy designates (christianity) holding views that disagree with accepted doctrine; especially disagreement with papal infallibility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) holding views that disagree with accepted doctrine; especially disagreement with papal infallibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fallibility as indicated by erring or a tendency to err.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, errancy designates (christianity) holding views that disagree with accepted doctrine; especially disagreement with papal infallibility."*

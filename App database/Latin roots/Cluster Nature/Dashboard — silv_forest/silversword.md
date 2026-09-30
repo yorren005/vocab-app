@@ -5,13 +5,6 @@ status: unread
 ---
 # silversword
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-growing plant found only in volcanic craters on hawaii having rosettes of narrow pointed silver-green leaves and clusters of profuse red-purple flowers on a tall stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing plant found only in volcanic craters on hawaii having rosettes of narrow pointed silver-green leaves and clusters of profuse red-purple flowers on a tall stem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silversword designates low-growing plant found only in volcanic craters on hawaii having rosettes of narrow pointed silver-green leaves and clusters of profuse red-purple flowers on a tall stem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-growing plant found only in volcanic craters on hawaii having rosettes of narrow pointed silver-green leaves and clusters of profuse red-purple flowers on a tall stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing plant found only in volcanic craters on hawaii having rosettes of narrow pointed silver-green leaves and clusters of profuse red-purple flowers on a tall stem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silversword designates low-growing plant found only in volcanic craters on hawaii having rosettes of narrow pointed silver-green leaves and clusters of profuse red-purple flowers on a tall stem."*

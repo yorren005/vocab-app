@@ -5,13 +5,6 @@ status: unread
 ---
 # primidone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primidone designates an anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primidone designates an anticonvulsant (trade name mysoline) used to treat grand mal seizures and essential tremor."*

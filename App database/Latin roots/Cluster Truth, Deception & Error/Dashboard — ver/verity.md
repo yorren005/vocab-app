@@ -5,15 +5,6 @@ status: unread
 ---
 # verity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to reality or actuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enduring or necessary ethical or religious or aesthetic truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the particular confirmations, point from point, to the full arming of the verity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to reality or actuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enduring or necessary ethical or religious or aesthetic truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the particular confirmations, point from point, to the full arming of the verity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*

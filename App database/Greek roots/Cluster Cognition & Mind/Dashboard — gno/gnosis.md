@@ -5,13 +5,6 @@ status: unread
 ---
 # gnosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Esoteric knowledge of spiritual truth held by the ancient Gnostics to be essential to salvation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Esoteric knowledge of spiritual truth held by the ancient Gnostics to be essential to salvation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Buddhism, whose awakening is placed under the shelter of the bo or bodhi-tree (_ficus religiosa_), the Buddhist tree of knowledge, bases its existence on gnosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Esoteric knowledge of spiritual truth held by the ancient Gnostics to be essential to salvation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Esoteric knowledge of spiritual truth held by the ancient Gnostics to be essential to salvation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Buddhism, whose awakening is placed under the shelter of the bo or bodhi-tree (_ficus religiosa_), the Buddhist tree of knowledge, bases its existence on gnosis."*

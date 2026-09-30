@@ -5,15 +5,6 @@ status: unread
 ---
 # armed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepare oneself for a military confrontation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with arms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what Made the all-honoured, honest Roman, Brutus, With the armed rest, courtiers of beauteous freedom, To drench the Capitol, but that they would Have one man but a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou day o’ th’ world, Chain mine armed neck."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he comes armed in his fortune and prevents the slander of his wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepare oneself for a military confrontation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with arms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what Made the all-honoured, honest Roman, Brutus, With the armed rest, courtiers of beauteous freedom, To drench the Capitol, but that they would Have one man but a man?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou day o’ th’ world, Chain mine armed neck."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he comes armed in his fortune and prevents the slander of his wife."*

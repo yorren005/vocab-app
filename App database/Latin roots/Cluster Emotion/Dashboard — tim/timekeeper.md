@@ -5,15 +5,6 @@ status: unread
 ---
 # timekeeper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) an official who keeps track of the time elapsed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clerk who keeps track of the hours worked by employees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"None of his friends had so fine a watch; even his grandfather's was so poor a timekeeper that it was rarely worn except as a decoration on Sundays or at a funeral."*
-> - 📜 **James Joyce (*Ulysses*):** *"The hoarse Dublin United Tramway Company’s timekeeper bawled them off: —Rathgar and Terenure! —Come on, Sandymount Green!"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Many of them were very old, and as timekeepers valueless; the works having suffered, more or less, from corrosion—but all were richly jeweled and in cases of great worth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) an official who keeps track of the time elapsed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clerk who keeps track of the hours worked by employees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"None of his friends had so fine a watch; even his grandfather's was so poor a timekeeper that it was rarely worn except as a decoration on Sundays or at a funeral."*
+> - 📜 **James Joyce (*Ulysses*):** *"The hoarse Dublin United Tramway Company’s timekeeper bawled them off: —Rathgar and Terenure! —Come on, Sandymount Green!"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Many of them were very old, and as timekeepers valueless; the works having suffered, more or less, from corrosion—but all were richly jeweled and in cases of great worth."*

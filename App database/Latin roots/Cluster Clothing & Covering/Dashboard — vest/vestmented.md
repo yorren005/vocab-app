@@ -5,13 +5,6 @@ status: unread
 ---
 # vestmented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed in ceremonial garments especially clerical vestment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed in ceremonial garments especially clerical vestment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestmented designates dressed in ceremonial garments especially clerical vestment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed in ceremonial garments especially clerical vestment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed in ceremonial garments especially clerical vestment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestmented designates dressed in ceremonial garments especially clerical vestment."*

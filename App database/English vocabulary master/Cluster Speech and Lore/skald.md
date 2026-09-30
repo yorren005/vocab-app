@@ -5,20 +5,6 @@ status: unread
 ---
 # skald
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Ancient scandinavian poet; broadly : bard
-> 2. **Nuance / Usage**: Burn with or as if with hot liquid or steam
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the skald withstood the storm*), direct object (*cleaved the skald*), or prepositional anchor (*amidst the skald*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Myra Gross; Archie Gunn (*The Star of Valhalla*):** *"Command Egil the Skald to stand forth and stir our viking blood with his songs of thee."*
-> - 📜 **August Strindberg (*August Strindbergs brev. 12. December 1896–augusti 1898*):** *"Skalden, hvilken har journalismen som näringsfång borde medan han är jemförelsevis ung göra en studieresa till Europens hufvudstad, Paris; t.ex. under pretext studera journalism och telegrambyråkratism."*
-> - 📜 **Dahn, Felix (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Viking to conquer, and as a Skald to sing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Ancient scandinavian poet; broadly : bard
+> 2. **Nuance / Usage**: Burn with or as if with hot liquid or steam
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the skald withstood the storm*), direct object (*cleaved the skald*), or prepositional anchor (*amidst the skald*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Myra Gross; Archie Gunn (*The Star of Valhalla*):** *"Command Egil the Skald to stand forth and stir our viking blood with his songs of thee."*
+> - 📜 **August Strindberg (*August Strindbergs brev. 12. December 1896–augusti 1898*):** *"Skalden, hvilken har journalismen som näringsfång borde medan han är jemförelsevis ung göra en studieresa till Europens hufvudstad, Paris; t.ex. under pretext studera journalism och telegrambyråkratism."*
+> - 📜 **Dahn, Felix (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Viking to conquer, and as a Skald to sing."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # parallelepiped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelepiped designates a 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelepiped designates a 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes."*

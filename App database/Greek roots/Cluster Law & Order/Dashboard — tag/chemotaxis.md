@@ -5,13 +5,6 @@ status: unread
 ---
 # chemotaxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orientation or movement of an organism or cell in relation to chemical agents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orientation or movement of an organism or cell in relation to chemical agents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chemotaxis designates orientation or movement of an organism or cell in relation to chemical agents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Orientation or movement of an organism or cell in relation to chemical agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orientation or movement of an organism or cell in relation to chemical agents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chemotaxis designates orientation or movement of an organism or cell in relation to chemical agents."*

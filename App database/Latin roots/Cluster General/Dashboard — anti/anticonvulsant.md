@@ -5,13 +5,6 @@ status: unread
 ---
 # anticonvulsant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat or prevent convulsions (as in epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat or prevent convulsions (as in epilepsy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticonvulsant designates a drug used to treat or prevent convulsions (as in epilepsy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat or prevent convulsions (as in epilepsy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat or prevent convulsions (as in epilepsy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticonvulsant designates a drug used to treat or prevent convulsions (as in epilepsy)."*

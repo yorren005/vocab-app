@@ -5,13 +5,6 @@ status: unread
 ---
 # involucrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an involucre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an involucre.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, involucrate designates having an involucre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an involucre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an involucre.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, involucrate designates having an involucre."*

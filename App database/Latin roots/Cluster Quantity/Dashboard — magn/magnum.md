@@ -5,15 +5,6 @@ status: unread
 ---
 # magnum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large wine bottle for liquor or wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large wine bottle for liquor or wine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In either wing two champions fought; Redoubted Staig, who set at nought The wildest savage Tory; And Welsh who ne’er yet flinch’d his ground, High-wav’d his magnum-bonum round With Cyclopeian fury."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"For the first time induction was treated as the _opus magnum_ of logic, and the fundamental principles of science traced to their inductive origin."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Jackson_ currit _plenum sed_ Et laesit meum _magnum ad_. _R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large wine bottle for liquor or wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large wine bottle for liquor or wine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In either wing two champions fought; Redoubted Staig, who set at nought The wildest savage Tory; And Welsh who ne’er yet flinch’d his ground, High-wav’d his magnum-bonum round With Cyclopeian fury."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"For the first time induction was treated as the _opus magnum_ of logic, and the fundamental principles of science traced to their inductive origin."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Jackson_ currit _plenum sed_ Et laesit meum _magnum ad_. _R."*

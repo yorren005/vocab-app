@@ -5,13 +5,6 @@ status: unread
 ---
 # apostolical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or deriving from the apostles or their teachings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The ‘Apostolical Constitutions’ (vi. c. 6) traced them back to Apostolic times; Theodoret (Haer. fab."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or deriving from the apostles or their teachings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The ‘Apostolical Constitutions’ (vi. c. 6) traced them back to Apostolic times; Theodoret (Haer. fab."*

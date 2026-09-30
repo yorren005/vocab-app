@@ -5,13 +5,6 @@ status: unread
 ---
 # hexed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast a spell over someone or something; put a hex on someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually used colloquially) causing or accompanied by misfortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexed designates cast a spell over someone or something; put a hex on someone or something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast a spell over someone or something; put a hex on someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually used colloquially) causing or accompanied by misfortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexed designates cast a spell over someone or something; put a hex on someone or something."*

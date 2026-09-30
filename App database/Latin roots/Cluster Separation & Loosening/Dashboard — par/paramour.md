@@ -5,15 +5,6 @@ status: unread
 ---
 # paramour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's lover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who cohabits with an important man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And fitter is my study and my books Than wanton dalliance with a paramour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fond man, remember that thou hast a wife; Then how can Margaret be thy paramour?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wine loved I deeply, dice dearly; and in woman out-paramour’d the Turk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's lover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who cohabits with an important man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And fitter is my study and my books Than wanton dalliance with a paramour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fond man, remember that thou hast a wife; Then how can Margaret be thy paramour?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wine loved I deeply, dice dearly; and in woman out-paramour’d the Turk."*

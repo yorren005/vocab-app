@@ -5,15 +5,6 @@ status: unread
 ---
 # particularity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being particular and pertaining to a specific case or instance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being particular and pertaining to a specific case or instance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby does not with particularity express, but she knows that Jo was Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"In that house Elizabeth must be first; and she was in the habit of such general observance as “Miss Elliot,” that any particularity of attention seemed almost impossible."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The two girls were more at a loss from being younger and in greater awe of their father, who addressed them on the occasion with rather an injudicious particularity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being particular and pertaining to a specific case or instance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being particular and pertaining to a specific case or instance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby does not with particularity express, but she knows that Jo was Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"In that house Elizabeth must be first; and she was in the habit of such general observance as “Miss Elliot,” that any particularity of attention seemed almost impossible."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The two girls were more at a loss from being younger and in greater awe of their father, who addressed them on the occasion with rather an injudicious particularity."*

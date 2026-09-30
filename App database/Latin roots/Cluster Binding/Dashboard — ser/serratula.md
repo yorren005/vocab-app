@@ -5,13 +5,6 @@ status: unread
 ---
 # serratula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world perennial herbs with spirally arranged toothed leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world perennial herbs with spirally arranged toothed leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We have not often found this fungus in the neighbourhood of London on the leaves of the knapweed, but, on the other hand, we have encountered it very commonly on those of the saw-wort (_Serratula tinctoria_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world perennial herbs with spirally arranged toothed leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world perennial herbs with spirally arranged toothed leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We have not often found this fungus in the neighbourhood of London on the leaves of the knapweed, but, on the other hand, we have encountered it very commonly on those of the saw-wort (_Serratula tinctoria_)."*

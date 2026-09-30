@@ -5,15 +5,6 @@ status: unread
 ---
 # sisterhood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kinship relation between a female offspring and the siblings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association or society of women who are linked together by a common religion or trade or interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A nun of winter’s sisterhood kisses not more religiously; the very ice of chastity is in them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, truly; I speak not as desiring more, But rather wishing a more strict restraint Upon the sisterhood, the votarists of Saint Clare."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, my good lord, a very virtuous maid, And to be shortly of a sisterhood, If not already."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The kinship relation between a female offspring and the siblings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association or society of women who are linked together by a common religion or trade or interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A nun of winter’s sisterhood kisses not more religiously; the very ice of chastity is in them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, truly; I speak not as desiring more, But rather wishing a more strict restraint Upon the sisterhood, the votarists of Saint Clare."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, my good lord, a very virtuous maid, And to be shortly of a sisterhood, If not already."*

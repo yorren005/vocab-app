@@ -5,15 +5,6 @@ status: unread
 ---
 # cure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine or therapy that cures disease or relieve pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide a cure for, make healthy again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine or therapy that cures disease or relieve pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide a cure for, make healthy again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*

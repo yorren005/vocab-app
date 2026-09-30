@@ -5,15 +5,6 @@ status: unread
 ---
 # hypocrisy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feigning to be what one is not or to believe what one does not : behavior that contradicts what one claims to believe or feel; especially : the false assumption of an appearance of virtue or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act or instance of hypocrisy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me, I would, And venture maidenhead for’t; and so would you, For all this spice of your hypocrisy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BEROWNE. [_Comes forward_.] Now step I forth to whip hypocrisy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A huge translation of hypocrisy, Vilely compiled, profound simplicity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feigning to be what one is not or to believe what one does not : behavior that contradicts what one claims to believe or feel; especially : the false assumption of an appearance of virtue or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act or instance of hypocrisy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me, I would, And venture maidenhead for’t; and so would you, For all this spice of your hypocrisy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BEROWNE. [_Comes forward_.] Now step I forth to whip hypocrisy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A huge translation of hypocrisy, Vilely compiled, profound simplicity."*

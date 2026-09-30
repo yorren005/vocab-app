@@ -5,15 +5,6 @@ status: unread
 ---
 # sensitively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sensitive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The feeble mother was most sensitively anxious lest her daughter should pursue some unwarrantable course which should lead to relapse."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It is entitled "Woman and the War," and shows how, even at that early day, the patriotism of American women was bearing fruit, and how keenly and sensitively the writer appreciated our peril."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The last three words would have been almost inaudible to ears less sensitively alert than were Alice Greggory's."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sensitive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sensitive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The feeble mother was most sensitively anxious lest her daughter should pursue some unwarrantable course which should lead to relapse."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It is entitled "Woman and the War," and shows how, even at that early day, the patriotism of American women was bearing fruit, and how keenly and sensitively the writer appreciated our peril."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The last three words would have been almost inaudible to ears less sensitively alert than were Alice Greggory's."*

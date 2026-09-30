@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrometallurgy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of ores by wet processes (such as leaching).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The treatment of ores by wet processes (such as leaching).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrometallurgy designates the treatment of ores by wet processes (such as leaching)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of ores by wet processes (such as leaching).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The treatment of ores by wet processes (such as leaching).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrometallurgy designates the treatment of ores by wet processes (such as leaching)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # motionlessly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without moving; in a motionless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without moving; in a motionless manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Fedallah was motionlessly leaning over the same rail."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Fedallah was motionlessly leaning over the same rail."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It is a representation simply of her motionlessly _seeing_, and an attempt withal to make the mere still lucidity of her act as “interesting” as the surprise of a caravan or the identification of a pirate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without moving; in a motionless manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without moving; in a motionless manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Fedallah was motionlessly leaning over the same rail."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Fedallah was motionlessly leaning over the same rail."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It is a representation simply of her motionlessly _seeing_, and an attempt withal to make the mere still lucidity of her act as “interesting” as the surprise of a caravan or the identification of a pirate."*

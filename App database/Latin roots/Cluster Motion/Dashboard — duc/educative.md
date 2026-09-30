@@ -5,13 +5,6 @@ status: unread
 ---
 # educative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting in education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resulting in education.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"To come into contact with the social side of people is broadening; it is educative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting in education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resulting in education.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"To come into contact with the social side of people is broadening; it is educative."*

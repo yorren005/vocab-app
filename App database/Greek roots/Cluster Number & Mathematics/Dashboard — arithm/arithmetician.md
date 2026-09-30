@@ -5,14 +5,6 @@ status: unread
 ---
 # arithmetician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who specializes in arithmetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who specializes in arithmetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A famous Teacher of _Arithmetick_, who had long been married without being able to get his Wife with Child: One said to her, Madam, your Husband is an excellent _Arithmetician_."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Give him sixpence, or five shillings, or five pound ten—you are arithmeticians, and I am not—and get rid of him!” “And what is he to do then?” asked my guardian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who specializes in arithmetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who specializes in arithmetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A famous Teacher of _Arithmetick_, who had long been married without being able to get his Wife with Child: One said to her, Madam, your Husband is an excellent _Arithmetician_."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Give him sixpence, or five shillings, or five pound ten—you are arithmeticians, and I am not—and get rid of him!” “And what is he to do then?” asked my guardian."*

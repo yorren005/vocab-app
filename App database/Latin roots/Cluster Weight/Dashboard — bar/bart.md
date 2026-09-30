@@ -5,15 +5,6 @@ status: unread
 ---
 # bart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the british order of honor; ranks below a baron but above a knight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the british order of honor; ranks below a baron but above a knight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And where’s Bart?” Grandfather Smallweed inquires of Judy, Bart’s twin sister."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Aye, aye, Bart!” says Grandfather Smallweed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here you are, hey?” “Here I am,” says Bart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the british order of honor; ranks below a baron but above a knight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the british order of honor; ranks below a baron but above a knight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And where’s Bart?” Grandfather Smallweed inquires of Judy, Bart’s twin sister."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Aye, aye, Bart!” says Grandfather Smallweed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here you are, hey?” “Here I am,” says Bart."*

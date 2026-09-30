@@ -5,15 +5,6 @@ status: unread
 ---
 # erring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a mistake or be incorrect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wander from a direct course or at random.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some, how brief the life of man Runs his erring pilgrimage, That the streching of a span Buckles in his sum of age; Some, of violated vows ’Twixt the souls of friend and friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard The cock, that is the trumpet to the morn, Doth with his lofty and shrill-sounding throat Awake the god of day; and at his warning, Whether in sea or fire, in earth or air, Th’extravagant and erring spirit hies To his confine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a mistake or be incorrect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wander from a direct course or at random.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some, how brief the life of man Runs his erring pilgrimage, That the streching of a span Buckles in his sum of age; Some, of violated vows ’Twixt the souls of friend and friend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard The cock, that is the trumpet to the morn, Doth with his lofty and shrill-sounding throat Awake the god of day; and at his warning, Whether in sea or fire, in earth or air, Th’extravagant and erring spirit hies To his confine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."*

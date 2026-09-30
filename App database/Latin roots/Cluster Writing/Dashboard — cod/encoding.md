@@ -5,13 +5,6 @@ status: unread
 ---
 # encoding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of converting data or information into code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert information into code.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encoding designates the activity of converting data or information into code."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of converting data or information into code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert information into code.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encoding designates the activity of converting data or information into code."*

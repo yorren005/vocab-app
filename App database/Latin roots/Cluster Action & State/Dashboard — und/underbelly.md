@@ -5,13 +5,6 @@ status: unread
 ---
 # underbelly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soft belly or underside of an animal's body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbelly designates lower side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soft belly or underside of an animal's body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbelly designates lower side."*

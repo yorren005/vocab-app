@@ -5,15 +5,6 @@ status: unread
 ---
 # expect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider obligatory; request and expect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, my hearts, I hope well of tomorrow, and will lead you Where rather I’ll expect victorious life Than death and honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A thousand, sir, Early though’t be, have on their riveted trim And at the port expect you. [_Shout."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master, if you do, expect spoon-meat, or bespeak a long spoon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider obligatory; request and expect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, my hearts, I hope well of tomorrow, and will lead you Where rather I’ll expect victorious life Than death and honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A thousand, sir, Early though’t be, have on their riveted trim And at the port expect you. [_Shout."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master, if you do, expect spoon-meat, or bespeak a long spoon."*

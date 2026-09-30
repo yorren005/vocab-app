@@ -5,13 +5,6 @@ status: unread
 ---
 # anisometric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unsymmetrical parts or unequal dimensions or measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unsymmetrical parts or unequal dimensions or measurements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisometric designates having unsymmetrical parts or unequal dimensions or measurements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unsymmetrical parts or unequal dimensions or measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unsymmetrical parts or unequal dimensions or measurements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisometric designates having unsymmetrical parts or unequal dimensions or measurements."*

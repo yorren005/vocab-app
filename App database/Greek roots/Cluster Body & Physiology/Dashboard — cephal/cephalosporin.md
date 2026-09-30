@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalosporin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalosporin designates one of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalosporin designates one of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity."*

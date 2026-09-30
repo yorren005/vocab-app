@@ -5,15 +5,6 @@ status: unread
 ---
 # tableland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively flat highland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively flat highland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Flintcomb-Ash being in the middle of the cretaceous tableland over which no railway had climbed as yet, it would be necessary to walk."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The principal tin claims are at Mount Romeo and the Tableland, some 40 miles distant, and also in the Bloomfield."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"They rode up to the flanks of the mountain, and through the narrow pass and the red wall of rock to the tableland upon its top, where stood the chief’s huts and the cattle-kraal, and here they found the people gathered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively flat highland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively flat highland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Flintcomb-Ash being in the middle of the cretaceous tableland over which no railway had climbed as yet, it would be necessary to walk."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The principal tin claims are at Mount Romeo and the Tableland, some 40 miles distant, and also in the Bloomfield."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"They rode up to the flanks of the mountain, and through the narrow pass and the red wall of rock to the tableland upon its top, where stood the chief’s huts and the cattle-kraal, and here they found the people gathered."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # perinatal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring during the period around birth (5 months before and 1 month after).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring during the period around birth (5 months before and 1 month after).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinatal designates occurring during the period around birth (5 months before and 1 month after)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring during the period around birth (5 months before and 1 month after).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring during the period around birth (5 months before and 1 month after).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinatal designates occurring during the period around birth (5 months before and 1 month after)."*

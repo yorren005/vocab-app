@@ -5,13 +5,6 @@ status: unread
 ---
 # entropy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (communication theory) a numerical measure of the uncertainty of an outcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (thermodynamics) a thermodynamic quantity representing the amount of energy in a system that is no longer available for doing mechanical work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropy designates (communication theory) a numerical measure of the uncertainty of an outcome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (communication theory) a numerical measure of the uncertainty of an outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (thermodynamics) a thermodynamic quantity representing the amount of energy in a system that is no longer available for doing mechanical work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropy designates (communication theory) a numerical measure of the uncertainty of an outcome."*

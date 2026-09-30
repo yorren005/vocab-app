@@ -5,15 +5,6 @@ status: unread
 ---
 # medium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A means or instrumentality for storing or communicating information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surrounding environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We hear that ye can tell the time as well by the stars as we can by the sun and moon, shepherd.” “Yes, I can do a little that way,” said Gabriel, as a man of medium sentiments on the subject."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel shouted in his ear, “where’s your thatching-beetle and rick-stick and spars?” “Under the staddles,” said Moon, mechanically, with the unconscious promptness of a medium."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"M. lay in the bed apparently in a troubled sleep, she was a woman of medium size, about 50 years of age, the mother of a large family; around her bed stood her husband, four sons and a daughter, and relatives, about twelve persons in all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A means or instrumentality for storing or communicating information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surrounding environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We hear that ye can tell the time as well by the stars as we can by the sun and moon, shepherd.” “Yes, I can do a little that way,” said Gabriel, as a man of medium sentiments on the subject."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel shouted in his ear, “where’s your thatching-beetle and rick-stick and spars?” “Under the staddles,” said Moon, mechanically, with the unconscious promptness of a medium."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"M. lay in the bed apparently in a troubled sleep, she was a woman of medium size, about 50 years of age, the mother of a large family; around her bed stood her husband, four sons and a daughter, and relatives, about twelve persons in all."*

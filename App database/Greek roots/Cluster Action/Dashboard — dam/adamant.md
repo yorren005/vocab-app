@@ -5,15 +5,6 @@ status: unread
 ---
 # adamant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unshakable or insistent especially in maintaining a position or opinion : unyielding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone (such as a diamond) formerly believed to be of impenetrable hardness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In iron walls they deem’d me not secure; So great fear of my name ’mongst them were spread That they supposed I could rend bars of steel And spurn in pieces posts of adamant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You draw me, you hard-hearted adamant, But yet you draw not iron, for my heart Is true as steel."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the matter of gravy he is adamant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unshakable or insistent especially in maintaining a position or opinion : unyielding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone (such as a diamond) formerly believed to be of impenetrable hardness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In iron walls they deem’d me not secure; So great fear of my name ’mongst them were spread That they supposed I could rend bars of steel And spurn in pieces posts of adamant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You draw me, you hard-hearted adamant, But yet you draw not iron, for my heart Is true as steel."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the matter of gravy he is adamant."*

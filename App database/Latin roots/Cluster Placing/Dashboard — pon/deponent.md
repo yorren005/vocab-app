@@ -5,14 +5,6 @@ status: unread
 ---
 # deponent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who testifies or gives a deposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who testifies or gives a deposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Being interrogated if the defendant did not allow them to pass without using any violence, and if they did not pass unmolested, the deponent replied in the affirmative."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Being required to tell for what reason they returned, and if the defendant Crowe was not assaulted before he began to use his weapon, the deponent made no answer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who testifies or gives a deposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who testifies or gives a deposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Being interrogated if the defendant did not allow them to pass without using any violence, and if they did not pass unmolested, the deponent replied in the affirmative."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Being required to tell for what reason they returned, and if the defendant Crowe was not assaulted before he began to use his weapon, the deponent made no answer."*

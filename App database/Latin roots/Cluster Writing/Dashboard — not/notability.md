@@ -5,15 +5,6 @@ status: unread
 ---
 # notability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrity who is an inspiration to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrity who is an inspiration to others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Pulling an oar in the Jeroboam’s boat, was a man of a singular appearance, even in that wild whaling life where individual notabilities make up all totalities."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hélène had been at Erfurt during the famous meeting of the Emperors and had brought from there these connections with the Napoleonic notabilities."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All the Moscow notabilities, all the Rostóvs’ acquaintances, were at the Razumóvskis’ chapel, for, as if expecting something to happen, many wealthy families who usually left town for their country estates had not gone away that summer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrity who is an inspiration to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrity who is an inspiration to others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Pulling an oar in the Jeroboam’s boat, was a man of a singular appearance, even in that wild whaling life where individual notabilities make up all totalities."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hélène had been at Erfurt during the famous meeting of the Emperors and had brought from there these connections with the Napoleonic notabilities."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All the Moscow notabilities, all the Rostóvs’ acquaintances, were at the Razumóvskis’ chapel, for, as if expecting something to happen, many wealthy families who usually left town for their country estates had not gone away that summer."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # demolish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humiliate or depress completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It was proposed to continue the meetings in the Congregational church, but the workmen were coming the next morning to demolish and rebuild it."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Such an oyster would contain 30 lbs. of meat; and one must have the stomach of a Gargantua to demolish some dozens of them."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Sixty-eight pounders to demolish huts of cocoanut boughs, and Congreve rockets to set on fire a few canoe sheds!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humiliate or depress completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It was proposed to continue the meetings in the Congregational church, but the workmen were coming the next morning to demolish and rebuild it."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Such an oyster would contain 30 lbs. of meat; and one must have the stomach of a Gargantua to demolish some dozens of them."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Sixty-eight pounders to demolish huts of cocoanut boughs, and Congreve rockets to set on fire a few canoe sheds!"*

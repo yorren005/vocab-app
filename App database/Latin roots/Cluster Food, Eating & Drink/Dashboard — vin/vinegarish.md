@@ -5,13 +5,6 @@ status: unread
 ---
 # vinegarish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting or smelling like vinegar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sour disposition; ill-tempered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarish designates tasting or smelling like vinegar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting or smelling like vinegar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sour disposition; ill-tempered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinegarish designates tasting or smelling like vinegar."*

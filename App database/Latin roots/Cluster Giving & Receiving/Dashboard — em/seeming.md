@@ -5,15 +5,6 @@ status: unread
 ---
 # seeming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a certain impression or have a certain outward aspect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seem to be true, probable, or apparent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should false painting imitate his cheek, And steal dead seeming of his living hue?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a certain impression or have a certain outward aspect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seem to be true, probable, or apparent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should false painting imitate his cheek, And steal dead seeming of his living hue?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown fear."*

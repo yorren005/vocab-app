@@ -5,15 +5,6 @@ status: unread
 ---
 # electioneer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work actively for a political candidate or a party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work actively for a political candidate or a party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Frank Hawley, who was afraid of nobody, and was a Tory suspicious of electioneering intentions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, per electioneering contest, and a seat outside Parliament as delivered, five thousand pounds, seven shillings, and fourpence.” Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It’s rather coarse work—this electioneering, eh, Ladislaw? dare say you are tired of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work actively for a political candidate or a party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work actively for a political candidate or a party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Frank Hawley, who was afraid of nobody, and was a Tory suspicious of electioneering intentions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, per electioneering contest, and a seat outside Parliament as delivered, five thousand pounds, seven shillings, and fourpence.” Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It’s rather coarse work—this electioneering, eh, Ladislaw? dare say you are tired of it."*

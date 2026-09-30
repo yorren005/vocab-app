@@ -5,14 +5,6 @@ status: unread
 ---
 # rectifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical device that transforms alternating into direct current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who corrects or sets right.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I that am the rectifier of all, By title _pædagogus_, that let fall The birch upon the breeches of the small ones, And humble with a ferula the tall ones, Do here present this machine, or this frame."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another way is to employ a "Rectifier." This is a conductor which has the peculiar property of allowing current to pass one way but not the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical device that transforms alternating into direct current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who corrects or sets right.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I that am the rectifier of all, By title _pædagogus_, that let fall The birch upon the breeches of the small ones, And humble with a ferula the tall ones, Do here present this machine, or this frame."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another way is to employ a "Rectifier." This is a conductor which has the peculiar property of allowing current to pass one way but not the other."*

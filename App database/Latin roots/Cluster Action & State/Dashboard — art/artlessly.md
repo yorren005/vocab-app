@@ -5,15 +5,6 @@ status: unread
 ---
 # artlessly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a crude and unskilled manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ingenuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He showed his appetites and designs too simply and artlessly; when one was alone with him he talked too much about the same subject, and when other people were present he talked too little about anything."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Then would you love me even as you do them!” she added artlessly, and leaned her chin upon her hand, considering."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He, too, had been reviewing the history of their lives--and had seen her from her childhood to her present age, so sweet, so innocent, so charmingly simple, and artlessly fond and tender."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a crude and unskilled manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ingenuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He showed his appetites and designs too simply and artlessly; when one was alone with him he talked too much about the same subject, and when other people were present he talked too little about anything."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Then would you love me even as you do them!” she added artlessly, and leaned her chin upon her hand, considering."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He, too, had been reviewing the history of their lives--and had seen her from her childhood to her present age, so sweet, so innocent, so charmingly simple, and artlessly fond and tender."*

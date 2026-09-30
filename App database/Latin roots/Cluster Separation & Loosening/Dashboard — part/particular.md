@@ -5,15 +5,6 @@ status: unread
 ---
 # particular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fact about some part (as opposed to general).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small part that can be considered separately from the whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone: there is no living, none, If Bertram be away. ’Twere all one That I should love a bright particular star, And think to wed it, he is so above me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I knew in what particular action to try him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fact about some part (as opposed to general).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small part that can be considered separately from the whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone: there is no living, none, If Bertram be away. ’Twere all one That I should love a bright particular star, And think to wed it, he is so above me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I knew in what particular action to try him."*

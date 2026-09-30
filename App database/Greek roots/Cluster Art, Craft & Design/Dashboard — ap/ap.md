@@ -5,15 +5,6 @@ status: unread
 ---
 # ap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: apostle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: apothecaries'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What is any visit made for?” “There is some wisits p’r’aps,” said Joe, “as for ever remains open to the question, Pip."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"I be terrified at ze beeg city where she come from, p'r'aps."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Once ze good Brodders at Aramac goin' make scholar of Pete, make heem priest, too, p'r'aps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: apostle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: apothecaries'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"What is any visit made for?” “There is some wisits p’r’aps,” said Joe, “as for ever remains open to the question, Pip."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"I be terrified at ze beeg city where she come from, p'r'aps."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Once ze good Brodders at Aramac goin' make scholar of Pete, make heem priest, too, p'r'aps."*

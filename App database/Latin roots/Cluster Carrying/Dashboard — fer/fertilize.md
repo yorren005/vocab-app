@@ -5,15 +5,6 @@ status: unread
 ---
 # fertilize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with fertilizers or add nutrients to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fertile or productive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Living, he scratched the earth's surface, and dying, left his bones to fertilize the soil."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A botanist notices that the bee flying with the pollen of a male flower to a pistil fertilizes the latter, and sees in this the purpose of the bee’s existence."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He carried with him into the sterner regions of the north, all the fertilizing arts of southern refinement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with fertilizers or add nutrients to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fertile or productive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Living, he scratched the earth's surface, and dying, left his bones to fertilize the soil."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A botanist notices that the bee flying with the pollen of a male flower to a pistil fertilizes the latter, and sees in this the purpose of the bee’s existence."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He carried with him into the sterner regions of the north, all the fertilizing arts of southern refinement."*

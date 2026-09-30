@@ -5,15 +5,6 @@ status: unread
 ---
 # indisposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unfit or unsuitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Truly I am not much to boast of, Sir Leicester, and I—I should still, Sir Leicester, if you was not so indisposed—which I hope you will not be long—I should still hope for the favour of being allowed to remain unknown in general."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He dropped down just now, and the doctor who was there for mother said there was no chance for him, because his heart was growed in.” Yes; the Durbeyfield couple had changed places; the dying one was out of danger, and the indisposed one was dead."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Indisposed to hesitate, and full of impatient impulses—soul and senses quivering with keen throes—I put it back and looked in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unfit or unsuitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Truly I am not much to boast of, Sir Leicester, and I—I should still, Sir Leicester, if you was not so indisposed—which I hope you will not be long—I should still hope for the favour of being allowed to remain unknown in general."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He dropped down just now, and the doctor who was there for mother said there was no chance for him, because his heart was growed in.” Yes; the Durbeyfield couple had changed places; the dying one was out of danger, and the indisposed one was dead."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Indisposed to hesitate, and full of impatient impulses—soul and senses quivering with keen throes—I put it back and looked in."*

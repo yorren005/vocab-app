@@ -5,15 +5,6 @@ status: unread
 ---
 # air
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mixture of invisible odorless tasteless gases (such as nitrogen and oxygen) that surrounds the earth; also : the equivalent mix of gases on another celestial object (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light breeze.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O you leaden messengers, That ride upon the violent speed of fire, Fly with false aim; move the still-peering air, That sings with piercing; do not touch my lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mixture of invisible odorless tasteless gases (such as nitrogen and oxygen) that surrounds the earth; also : the equivalent mix of gases on another celestial object (such as a planet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light breeze.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O you leaden messengers, That ride upon the violent speed of fire, Fly with false aim; move the still-peering air, That sings with piercing; do not touch my lord."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # terror-stricken
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Struck or filled with terror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Struck or filled with terror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terror-stricken designates struck or filled with terror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Struck or filled with terror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Struck or filled with terror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terror-stricken designates struck or filled with terror."*

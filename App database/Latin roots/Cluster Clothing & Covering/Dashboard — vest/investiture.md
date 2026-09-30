@@ -5,15 +5,6 @@ status: unread
 ---
 # investiture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ceremony of installing a new monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Immemorial to all his order, this investiture alone will adequately protect him, while employed in the peculiar functions of his office."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ceremony of installing a new monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Immemorial to all his order, this investiture alone will adequately protect him, while employed in the peculiar functions of his office."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*

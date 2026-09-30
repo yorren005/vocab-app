@@ -5,15 +5,6 @@ status: unread
 ---
 # militate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have force or influence; bring about an effect or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have force or influence; bring about an effect or change.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She felt that she had spoken as impressively as it was necessary to do, and that in using the superior word “militate” she had thrown a noble drapery over a mass of particulars which were still evident enough."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I told him he might have a dozen if he wished, but that it would not be wise to have more than one solicitor engaged in one transaction, as only one could act at a time, and that to change would be certain to militate against his interest."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Against this view it can hardly be thought to militate that the Batak does not in set terms affirm his external soul to be in his totem, but alleges other grounds for respecting the sacred animal or plant of his clan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have force or influence; bring about an effect or change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have force or influence; bring about an effect or change.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt that she had spoken as impressively as it was necessary to do, and that in using the superior word “militate” she had thrown a noble drapery over a mass of particulars which were still evident enough."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I told him he might have a dozen if he wished, but that it would not be wise to have more than one solicitor engaged in one transaction, as only one could act at a time, and that to change would be certain to militate against his interest."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Against this view it can hardly be thought to militate that the Batak does not in set terms affirm his external soul to be in his totem, but alleges other grounds for respecting the sacred animal or plant of his clan."*

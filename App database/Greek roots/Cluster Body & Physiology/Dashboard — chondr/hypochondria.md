@@ -5,15 +5,6 @@ status: unread
 ---
 # hypochondria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wish this present hour would never end: who knows with what fate the next may come charged?” “This is hypochondria, Jane."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Wir wollen von andern Dingen sprechen...."[189] And yet Heine's disposition was not naturally inclined to hypochondria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wish this present hour would never end: who knows with what fate the next may come charged?” “This is hypochondria, Jane."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Wir wollen von andern Dingen sprechen...."[189] And yet Heine's disposition was not naturally inclined to hypochondria."*

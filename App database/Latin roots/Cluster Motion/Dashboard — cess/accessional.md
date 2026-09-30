@@ -5,13 +5,6 @@ status: unread
 ---
 # accessional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or constituting an accession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or constituting an accession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accessional designates of or constituting an accession."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or constituting an accession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or constituting an accession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accessional designates of or constituting an accession."*

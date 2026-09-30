@@ -5,15 +5,6 @@ status: unread
 ---
 # unconvinced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking conviction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking conviction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was Slant-Eyed Wilson, with an unguessed weak heart of fear, who died in the jacket within the first hour while the unconvinced inefficient of a prison doctor looked on and smiled."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"But whether it was that the salt water he had swallowed dulled his intelligence or that my power of stating a case neatly was to seek, the fact remains that he reached the beach an unconvinced man."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I want you--here.” “Here!” Aunt Hannah looked relieved, but unconvinced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking conviction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking conviction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was Slant-Eyed Wilson, with an unguessed weak heart of fear, who died in the jacket within the first hour while the unconvinced inefficient of a prison doctor looked on and smiled."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"But whether it was that the salt water he had swallowed dulled his intelligence or that my power of stating a case neatly was to seek, the fact remains that he reached the beach an unconvinced man."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I want you--here.” “Here!” Aunt Hannah looked relieved, but unconvinced."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # virilize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilize designates produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilize designates produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # paralyse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make powerless and unable to function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be paralyzed and immobile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Shall I shake that faith in Bucket because I want it myself; shall I deliberately blunt one of Bucket’s weapons; shall I positively paralyse Bucket in his next detective operation?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But to be put forth by forces no man could resist--to be left outside, with the doors of our own houses closed upon us--to be confronted by nothing--by a mist, a silence, a darkness,--this was enough to paralyse the heart of any man."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Nothing is so futile as an arithmetical numbering of people, for after a certain point figures paralyse the imagination, and after that they tell the mind little or nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make powerless and unable to function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be paralyzed and immobile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Shall I shake that faith in Bucket because I want it myself; shall I deliberately blunt one of Bucket’s weapons; shall I positively paralyse Bucket in his next detective operation?"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But to be put forth by forces no man could resist--to be left outside, with the doors of our own houses closed upon us--to be confronted by nothing--by a mist, a silence, a darkness,--this was enough to paralyse the heart of any man."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Nothing is so futile as an arithmetical numbering of people, for after a certain point figures paralyse the imagination, and after that they tell the mind little or nothing."*

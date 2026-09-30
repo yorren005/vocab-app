@@ -5,15 +5,6 @@ status: unread
 ---
 # conform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be similar, be in line with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was, I must confess, Great Albion’s queen in former golden days; But now mischance hath trod my title down And with dishonour laid me on the ground, Where I must take like seat unto my fortune And to my humble seat conform myself."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"After determining the tabular standard, the actual regulation of the quantity of money to make prices conform to the standard might be accomplished in one of several ways."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the plan of a "compensated gold dollar" the legal weight of the gold coins would be increased or decreased from time to time to conform with the tabular standard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be similar, be in line with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was, I must confess, Great Albion’s queen in former golden days; But now mischance hath trod my title down And with dishonour laid me on the ground, Where I must take like seat unto my fortune And to my humble seat conform myself."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"After determining the tabular standard, the actual regulation of the quantity of money to make prices conform to the standard might be accomplished in one of several ways."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the plan of a "compensated gold dollar" the legal weight of the gold coins would be increased or decreased from time to time to conform with the tabular standard."*

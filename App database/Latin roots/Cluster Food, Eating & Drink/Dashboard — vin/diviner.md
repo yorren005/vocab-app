@@ -5,15 +5,6 @@ status: unread
 ---
 # diviner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to discover hidden knowledge with the aid of supernatural powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emanating from god; ; ; -saturday review.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sorrow that has been in her face—for it is not there now—seems to have purified even its innocent expression and to have given it a diviner quality."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her cheeks a mair celestial hue, A crimson still diviner!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"But her voice is much diviner than anything you have seen of her.” “I see, I see."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to discover hidden knowledge with the aid of supernatural powers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emanating from god; ; ; -saturday review.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sorrow that has been in her face—for it is not there now—seems to have purified even its innocent expression and to have given it a diviner quality."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her cheeks a mair celestial hue, A crimson still diviner!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"But her voice is much diviner than anything you have seen of her.” “I see, I see."*

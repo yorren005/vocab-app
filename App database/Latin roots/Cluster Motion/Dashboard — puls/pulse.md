@@ -5,15 +5,6 @@ status: unread
 ---
 # pulse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic contraction and expansion of the arteries with each beat of the heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God shield you mean it not! daughter and mother So strive upon your pulse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me your hand, and let me feel your pulse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This pernicious slave, Forsooth, took on him as a conjurer, And gazing in mine eyes, feeling my pulse, And with no face (as ’twere) outfacing me, Cries out, I was possess’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic contraction and expansion of the arteries with each beat of the heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God shield you mean it not! daughter and mother So strive upon your pulse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me your hand, and let me feel your pulse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This pernicious slave, Forsooth, took on him as a conjurer, And gazing in mine eyes, feeling my pulse, And with no face (as ’twere) outfacing me, Cries out, I was possess’d."*

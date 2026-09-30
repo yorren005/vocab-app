@@ -5,15 +5,6 @@ status: unread
 ---
 # peter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disciple of jesus and leader of the apostles; regarded by catholics as the vicar of christ on earth and first pope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscene terms for penis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palace Enter Peter and Petitioners. 1 PETITIONER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PETER. [_Giving his petition_.] Against my master, Thomas Horner, for saying that the Duke of York was rightful heir to the crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this fellow in, and send for his master with a pursuivant presently.—We’ll hear more of your matter before the King. [_Exit Servant with Peter._] QUEEN MARGARET."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disciple of jesus and leader of the apostles; regarded by catholics as the vicar of christ on earth and first pope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscene terms for penis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palace Enter Peter and Petitioners. 1 PETITIONER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PETER. [_Giving his petition_.] Against my master, Thomas Horner, for saying that the Duke of York was rightful heir to the crown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this fellow in, and send for his master with a pursuivant presently.—We’ll hear more of your matter before the King. [_Exit Servant with Peter._] QUEEN MARGARET."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # commodious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and roomy (`convenient' is archaic in this sense).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and roomy (`convenient' is archaic in this sense).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus will give me anything for the intelligence of this whore; the parrot will not do more for an almond than he for a commodious drab."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “and in the opinion of my friends, a commodious tenement."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The manse faces south, and is roomy and commodious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and roomy (`convenient' is archaic in this sense).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and roomy (`convenient' is archaic in this sense).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus will give me anything for the intelligence of this whore; the parrot will not do more for an almond than he for a commodious drab."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “and in the opinion of my friends, a commodious tenement."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The manse faces south, and is roomy and commodious."*

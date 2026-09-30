@@ -5,13 +5,6 @@ status: unread
 ---
 # theophany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible manifestation of a deity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible manifestation of a deity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theophany designates a visible manifestation of a deity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible manifestation of a deity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible manifestation of a deity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theophany designates a visible manifestation of a deity."*

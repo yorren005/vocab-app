@@ -5,15 +5,6 @@ status: unread
 ---
 # starveling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is starving (or being starved).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is starving (or being starved).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I hang, I’ll make a fat pair of gallows; for, if I hang, old Sir John hangs with me, and thou knowest he is no starveling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sanguine coward, this bed-presser, this horse-back-breaker, this huge hill of flesh— FALSTAFF. ’Sblood, you starveling, you eel-skin, you dried neat’s-tongue, you bull’s pizzle, you stock-fish—O, for breath to utter what is like thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in a Cottage Enter Quince, Snug, Bottom, Flute, Snout and Starveling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is starving (or being starved).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is starving (or being starved).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I hang, I’ll make a fat pair of gallows; for, if I hang, old Sir John hangs with me, and thou knowest he is no starveling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sanguine coward, this bed-presser, this horse-back-breaker, this huge hill of flesh— FALSTAFF. ’Sblood, you starveling, you eel-skin, you dried neat’s-tongue, you bull’s pizzle, you stock-fish—O, for breath to utter what is like thee!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in a Cottage Enter Quince, Snug, Bottom, Flute, Snout and Starveling."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # delicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exquisitely fine and subtle and pleasing; susceptible to injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by great skill especially in meticulous technique.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, there’s a dozen of ’em, with delicate fine hats, and most courteous feathers, which bow the head and nod at every man. [_Exeunt._] ACT V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On each side her Stood pretty dimpled boys, like smiling Cupids, With divers-coloured fans, whose wind did seem To glow the delicate cheeks which they did cool, And what they undid did."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s all take hands Till that the conquering wine hath steeped our sense In soft and delicate Lethe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exquisitely fine and subtle and pleasing; susceptible to injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by great skill especially in meticulous technique.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, there’s a dozen of ’em, with delicate fine hats, and most courteous feathers, which bow the head and nod at every man. [_Exeunt._] ACT V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On each side her Stood pretty dimpled boys, like smiling Cupids, With divers-coloured fans, whose wind did seem To glow the delicate cheeks which they did cool, And what they undid did."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s all take hands Till that the conquering wine hath steeped our sense In soft and delicate Lethe."*

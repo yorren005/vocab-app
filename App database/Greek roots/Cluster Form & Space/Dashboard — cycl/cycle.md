@@ -5,15 +5,6 @@ status: unread
 ---
 # cycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interval of time during which a sequence of a recurring succession of events or phenomena is completed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A course or series of events or operations that recur regularly and usually lead back to the starting point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel wished he had not nailed up his colours as a shepherd, but had laid himself out for anything in the whole cycle of labour that was required in the fair."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enterprise of a modern community, as a whole, "general business," moves along, in a wavelike manner, going through a somewhat regular series of changes that is called a business cycle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interval of time during which a sequence of a recurring succession of events or phenomena is completed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A course or series of events or operations that recur regularly and usually lead back to the starting point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel wished he had not nailed up his colours as a shepherd, but had laid himself out for anything in the whole cycle of labour that was required in the fair."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enterprise of a modern community, as a whole, "general business," moves along, in a wavelike manner, going through a somewhat regular series of changes that is called a business cycle."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # mysophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mysophobia designates abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mysophobia designates abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia."*

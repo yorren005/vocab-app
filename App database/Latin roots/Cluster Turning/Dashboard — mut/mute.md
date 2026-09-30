@@ -5,15 +5,6 @@ status: unread
 ---
 # mute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deaf person who is unable to speak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device used to soften the tone of a musical instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, sir; all the rest is mute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third is that thou wilt be a voluntary mute to my design."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deaf person who is unable to speak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device used to soften the tone of a musical instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, sir; all the rest is mute."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third is that thou wilt be a voluntary mute to my design."*

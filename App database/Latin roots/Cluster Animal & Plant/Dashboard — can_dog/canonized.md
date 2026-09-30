@@ -5,15 +5,6 @@ status: unread
 ---
 # canonized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare (a dead person) to be a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat as a sacred person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tilt-yard, and his loves Are brazen images of canonized saints."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Louis XVI was executed because they said he was dishonorable and a criminal,” came into Pierre’s head, “and from their point of view they were right, as were those too who canonized him and died a martyr’s death for his sake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare (a dead person) to be a saint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat as a sacred person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tilt-yard, and his loves Are brazen images of canonized saints."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Louis XVI was executed because they said he was dishonorable and a criminal,” came into Pierre’s head, “and from their point of view they were right, as were those too who canonized him and died a martyr’s death for his sake."*

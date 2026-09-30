@@ -5,13 +5,6 @@ status: unread
 ---
 # vertebral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting vertebrae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"To prevent their habits of coiling from dislocating the vertebral column, these had an additional pair of articulations at each end, while their muscular strength is attested by the elegant striae and other sculptures which appear on all their bones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting vertebrae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting vertebrae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"To prevent their habits of coiling from dislocating the vertebral column, these had an additional pair of articulations at each end, while their muscular strength is attested by the elegant striae and other sculptures which appear on all their bones."*

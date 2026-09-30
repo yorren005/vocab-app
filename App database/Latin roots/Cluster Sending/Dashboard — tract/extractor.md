@@ -5,15 +5,6 @@ status: unread
 ---
 # extractor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for extracting tight-fitting components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that uses centrifugal force to separate particles from a suspension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The terminal positioned in orbit above Alpha Centauri is designated the Extractor and the terminal positioned along the Solar System's rim is designated the Collector."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Extractor and Collector terminals are constructed four million kilometers beyond Planet Pluto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Position the Extractor in orbit above Alpha Centauri at a location commensurate with data provided previously by drone scouts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for extracting tight-fitting components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that uses centrifugal force to separate particles from a suspension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The terminal positioned in orbit above Alpha Centauri is designated the Extractor and the terminal positioned along the Solar System's rim is designated the Collector."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Extractor and Collector terminals are constructed four million kilometers beyond Planet Pluto."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Position the Extractor in orbit above Alpha Centauri at a location commensurate with data provided previously by drone scouts."*

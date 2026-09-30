@@ -5,15 +5,6 @@ status: unread
 ---
 # humiliated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subdued or brought low in condition or status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I was so humiliated, hurt, spurned, offended, angry, sorry,—I cannot hit upon the right name for the smart—God knows what its name was,—that tears started to my eyes."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"No, if you're to be humiliated it shall be before me and me only." She brought the colour into his face."*
-> - 📜 **George Eliot (*Middlemarch*):** *"We are all humiliated by the sudden discovery of a fact which has existed very comfortably and perhaps been staring at us in private while we have been making up our world entirely without it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subdued or brought low in condition or status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was so humiliated, hurt, spurned, offended, angry, sorry,—I cannot hit upon the right name for the smart—God knows what its name was,—that tears started to my eyes."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"No, if you're to be humiliated it shall be before me and me only." She brought the colour into his face."*
+> - 📜 **George Eliot (*Middlemarch*):** *"We are all humiliated by the sudden discovery of a fact which has existed very comfortably and perhaps been staring at us in private while we have been making up our world entirely without it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # destruction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The termination of something by causing so much damage to it that it cannot be repaired or no longer exists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event (or the result of an event) that completely destroys something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be to him then, as our good wills, A sure destruction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore lay hold of him, Bear him to th’ rock Tarpeian, and from thence Into destruction cast him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On either hand thee there are squadrons pitch’d To wall thee from the liberty of flight; And no way canst thou turn thee for redress But Death doth front thee with apparent spoil, And pale Destruction meets thee in the face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The termination of something by causing so much damage to it that it cannot be repaired or no longer exists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event (or the result of an event) that completely destroys something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be to him then, as our good wills, A sure destruction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore lay hold of him, Bear him to th’ rock Tarpeian, and from thence Into destruction cast him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On either hand thee there are squadrons pitch’d To wall thee from the liberty of flight; And no way canst thou turn thee for redress But Death doth front thee with apparent spoil, And pale Destruction meets thee in the face."*

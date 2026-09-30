@@ -5,15 +5,6 @@ status: unread
 ---
 # integration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of combining into an integral whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Another phase of corporate growth is the "integration of industry," that is, the grouping under one control of a whole series of industries."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now that we know the construction site is the target we'll use it for working out the details for fleet integration, formation and logistics in place of what we had before," Brad rasped."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Arriving at infinitesimals, mathematics, the most exact of sciences, abandons the process of analysis and enters on the new process of the integration of unknown, infinitely small, quantities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of combining into an integral whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Another phase of corporate growth is the "integration of industry," that is, the grouping under one control of a whole series of industries."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now that we know the construction site is the target we'll use it for working out the details for fleet integration, formation and logistics in place of what we had before," Brad rasped."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Arriving at infinitesimals, mathematics, the most exact of sciences, abandons the process of analysis and enters on the new process of the integration of unknown, infinitely small, quantities."*

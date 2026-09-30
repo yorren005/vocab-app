@@ -5,15 +5,6 @@ status: unread
 ---
 # prejudiced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disadvantage by prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influence (somebody's) opinion in advance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an honourable, obstinate, truthful, high-spirited, intensely prejudiced, perfectly unreasonable man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If our conversation shouldn’t lead to anything, I am to be as I was and am not to be prejudiced in my situation or worldly prospects."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such a good man might be prejudiced against a woman who had chosen Sunday, never realizing the necessities of her case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disadvantage by prejudice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influence (somebody's) opinion in advance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is an honourable, obstinate, truthful, high-spirited, intensely prejudiced, perfectly unreasonable man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If our conversation shouldn’t lead to anything, I am to be as I was and am not to be prejudiced in my situation or worldly prospects."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such a good man might be prejudiced against a woman who had chosen Sunday, never realizing the necessities of her case."*

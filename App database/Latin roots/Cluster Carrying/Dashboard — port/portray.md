@@ -5,15 +5,6 @@ status: unread
 ---
 # portray
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Portray in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a portrait of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"At present she did not know her own poverty, for she had no lover to portray."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What he wants from me now is to portray an integrated assault by INOR combined forces from a point halfway between the depot and the Slingshot construction site."*
-> - 📜 **Effie Afton (*Eventide*):** *"All this your vivid imaginations will easily portray in far more glowing and picturesque colors than our poor pencil can paint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Portray in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a portrait of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"At present she did not know her own poverty, for she had no lover to portray."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What he wants from me now is to portray an integrated assault by INOR combined forces from a point halfway between the depot and the Slingshot construction site."*
+> - 📜 **Effie Afton (*Eventide*):** *"All this your vivid imaginations will easily portray in far more glowing and picturesque colors than our poor pencil can paint."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # criminative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charging or suggestive of guilt or blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charging or suggestive of guilt or blame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminative designates charging or suggestive of guilt or blame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charging or suggestive of guilt or blame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charging or suggestive of guilt or blame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminative designates charging or suggestive of guilt or blame."*

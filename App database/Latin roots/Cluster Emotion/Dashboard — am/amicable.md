@@ -5,15 +5,6 @@ status: unread
 ---
 # amicable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by friendship and good will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by friendship and good will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper, says in amicable conversation with that excellent woman."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This has been so far accomplished as, under a continuation of the Union, to afford a decided prospect of an amicable termination of the dispute."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Chapman, and Miss Morris, established the most amicable relations with the surgeon in charge, Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by friendship and good will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by friendship and good will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Piper, says in amicable conversation with that excellent woman."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This has been so far accomplished as, under a continuation of the Union, to afford a decided prospect of an amicable termination of the dispute."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Chapman, and Miss Morris, established the most amicable relations with the surgeon in charge, Dr."*

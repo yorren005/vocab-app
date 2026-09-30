@@ -5,13 +5,6 @@ status: unread
 ---
 # biotope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotope designates a region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotope designates a region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat."*

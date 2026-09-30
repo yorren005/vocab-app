@@ -5,13 +5,6 @@ status: unread
 ---
 # dissolver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquid substance capable of dissolving other substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid substance capable of dissolving other substances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissolver designates a liquid substance capable of dissolving other substances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquid substance capable of dissolving other substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid substance capable of dissolving other substances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissolver designates a liquid substance capable of dissolving other substances."*

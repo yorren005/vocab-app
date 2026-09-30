@@ -5,15 +5,6 @@ status: unread
 ---
 # river
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large natural stream of water (larger than a creek).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large natural stream of water (larger than a creek).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When she first met Mark Antony, she pursed up his heart upon the river of Cydnus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me mine angle; we’ll to the river."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See how this river comes me cranking in, And cuts me from the best of all my land A huge half-moon, a monstrous cantle out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large natural stream of water (larger than a creek).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large natural stream of water (larger than a creek).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When she first met Mark Antony, she pursed up his heart upon the river of Cydnus."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me mine angle; we’ll to the river."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See how this river comes me cranking in, And cuts me from the best of all my land A huge half-moon, a monstrous cantle out."*

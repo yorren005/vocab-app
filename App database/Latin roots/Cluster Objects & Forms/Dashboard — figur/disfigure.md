@@ -5,15 +5,6 @@ status: unread
 ---
 # disfigure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mar or spoil the appearance of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cries for you, and vows, if he can take you, To scorch your face and to disfigure you. [_Cry within._] Hark, hark, I hear him, mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To you your father should be as a god; One that compos’d your beauties, yea, and one To whom you are but as a form in wax By him imprinted, and within his power To leave the figure, or disfigure it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay; or else one must come in with a bush of thorns and a lantern, and say he comes to disfigure or to present the person of Moonshine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mar or spoil the appearance of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cries for you, and vows, if he can take you, To scorch your face and to disfigure you. [_Cry within._] Hark, hark, I hear him, mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To you your father should be as a god; One that compos’d your beauties, yea, and one To whom you are but as a form in wax By him imprinted, and within his power To leave the figure, or disfigure it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay; or else one must come in with a bush of thorns and a lantern, and say he comes to disfigure or to present the person of Moonshine."*

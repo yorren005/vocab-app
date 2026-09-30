@@ -5,13 +5,6 @@ status: unread
 ---
 # precis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sketchy summary of the main points of an argument or theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a summary (of).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precis designates a sketchy summary of the main points of an argument or theory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sketchy summary of the main points of an argument or theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a summary (of).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precis designates a sketchy summary of the main points of an argument or theory."*

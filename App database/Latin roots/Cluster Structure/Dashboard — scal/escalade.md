@@ -5,14 +5,6 @@ status: unread
 ---
 # escalade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of scaling by the use of ladders (especially the walls of a fortification).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Climb up and over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"For before I could turn away a troop of children issued out and rushed at him, taking him by escalade, routed out his pockets, even his wife and sisters taking part, and he all the time laughing."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had seen the first surprise about the empty mail gig which had been escaladed by the murderers of poor Harry Foster."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of scaling by the use of ladders (especially the walls of a fortification).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Climb up and over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"For before I could turn away a troop of children issued out and rushed at him, taking him by escalade, routed out his pockets, even his wife and sisters taking part, and he all the time laughing."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had seen the first surprise about the empty mail gig which had been escaladed by the murderers of poor Harry Foster."*

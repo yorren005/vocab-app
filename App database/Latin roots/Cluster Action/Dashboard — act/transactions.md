@@ -5,15 +5,6 @@ status: unread
 ---
 # transactions
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written account of what transpired at a meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of transacting within or between groups (as carrying on commercial activities).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray, ma’am, was it a lady of your acquaintance who had some transactions (we will not at present say what transactions) with Kenge and Carboy’s office, or was it a gentleman of your acquaintance?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At first she could not find them, and she was informed that most of them had gone to what they called a private little jig at the house of a hay-trusser and peat-dealer who had transactions with their farm."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this manner pieces of money are provided suitable for transactions of different magnitudes, down to small fractional amounts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written account of what transpired at a meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of transacting within or between groups (as carrying on commercial activities).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pray, ma’am, was it a lady of your acquaintance who had some transactions (we will not at present say what transactions) with Kenge and Carboy’s office, or was it a gentleman of your acquaintance?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At first she could not find them, and she was informed that most of them had gone to what they called a private little jig at the house of a hay-trusser and peat-dealer who had transactions with their farm."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this manner pieces of money are provided suitable for transactions of different magnitudes, down to small fractional amounts."*

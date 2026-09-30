@@ -5,14 +5,6 @@ status: unread
 ---
 # naturalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that the world can be understood in scientific terms without recourse to spiritual or supernatural explanations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artistic movement in 19th century france; artists and writers strove for detailed realistic and factual description.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Naturalism in England," of Dr."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The deific naturalism Could it be called supernatural for the God of nature 44:21 to sustain Jesus in his proof of man's truly derived power?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that the world can be understood in scientific terms without recourse to spiritual or supernatural explanations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artistic movement in 19th century france; artists and writers strove for detailed realistic and factual description.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Naturalism in England," of Dr."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The deific naturalism Could it be called supernatural for the God of nature 44:21 to sustain Jesus in his proof of man's truly derived power?"*

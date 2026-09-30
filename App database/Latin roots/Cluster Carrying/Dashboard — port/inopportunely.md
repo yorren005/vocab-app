@@ -5,13 +5,6 @@ status: unread
 ---
 # inopportunely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an inconvenient time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an inconvenient time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, it would not be prudent to carry the electric light in these waters; its brilliancy might attract some of the dangerous inhabitants of the coast most inopportunely.” As Captain Nemo pronounced these words, I turned to Conseil and Ned Land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an inconvenient time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an inconvenient time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, it would not be prudent to carry the electric light in these waters; its brilliancy might attract some of the dangerous inhabitants of the coast most inopportunely.” As Captain Nemo pronounced these words, I turned to Conseil and Ned Land."*

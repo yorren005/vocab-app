@@ -5,13 +5,6 @@ status: unread
 ---
 # fractal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractal designates (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractal designates (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry."*

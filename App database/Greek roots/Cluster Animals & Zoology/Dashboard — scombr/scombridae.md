@@ -5,13 +5,6 @@ status: unread
 ---
 # scombridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine food fishes: mackerels; chub mackerels; tuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food fishes: mackerels; chub mackerels; tuna.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombridae designates marine food fishes: mackerels; chub mackerels; tuna."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine food fishes: mackerels; chub mackerels; tuna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food fishes: mackerels; chub mackerels; tuna.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombridae designates marine food fishes: mackerels; chub mackerels; tuna."*

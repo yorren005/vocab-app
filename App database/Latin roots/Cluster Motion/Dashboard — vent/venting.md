@@ -5,15 +5,6 @@ status: unread
 ---
 # venting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of venting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression or utterance to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy was attending them to their carriage, Miss Bingley was venting her feelings in criticisms on Elizabeth’s person, behaviour, and dress."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I expect nothing, sir.” Fred with difficulty restrained himself from venting his irritation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man with only a portmanteau for his stowage must keep his memorials in his head.” Will spoke at random: he was merely venting his petulance; it was a little too exasperating to have his grandmother’s portrait offered him at that moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of venting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression or utterance to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy was attending them to their carriage, Miss Bingley was venting her feelings in criticisms on Elizabeth’s person, behaviour, and dress."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I expect nothing, sir.” Fred with difficulty restrained himself from venting his irritation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A man with only a portmanteau for his stowage must keep his memorials in his head.” Will spoke at random: he was merely venting his petulance; it was a little too exasperating to have his grandmother’s portrait offered him at that moment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # frigidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He knew that anything was better then frigidity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When I remembered how far I had once been admitted to his confidence, I could hardly comprehend his present frigidity."*
-> - 📜 **James Joyce (*Ulysses*):** *"Indubitably in consequence of the reiterated examples of poets in the delirium of the frenzy of attachment or in the abasement of rejection invoking ardent sympathetic constellations or the frigidity of the satellite of their planet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual unresponsiveness (especially of women) and inability to achieve orgasm during intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He knew that anything was better then frigidity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When I remembered how far I had once been admitted to his confidence, I could hardly comprehend his present frigidity."*
+> - 📜 **James Joyce (*Ulysses*):** *"Indubitably in consequence of the reiterated examples of poets in the delirium of the frenzy of attachment or in the abasement of rejection invoking ardent sympathetic constellations or the frigidity of the satellite of their planet."*

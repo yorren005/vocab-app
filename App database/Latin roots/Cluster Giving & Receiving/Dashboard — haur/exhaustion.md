@@ -5,15 +5,6 @@ status: unread
 ---
 # exhaustion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme fatigue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serious weakening and loss of energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"London was a great wonder to us, and we were out for hours and hours at a time, seeing the sights, which appeared to be less capable of exhaustion than we were."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare then lay down on the ground alongside, when he immediately fell into the deep dead slumber of exhaustion, and remained motionless as a log."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the exhaustion of his mind and body was such that he remained undisturbed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme fatigue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serious weakening and loss of energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"London was a great wonder to us, and we were out for hours and hours at a time, seeing the sights, which appeared to be less capable of exhaustion than we were."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare then lay down on the ground alongside, when he immediately fell into the deep dead slumber of exhaustion, and remained motionless as a log."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the exhaustion of his mind and body was such that he remained undisturbed."*

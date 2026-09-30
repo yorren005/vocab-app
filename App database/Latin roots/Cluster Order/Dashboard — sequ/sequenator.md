@@ -5,13 +5,6 @@ status: unread
 ---
 # sequenator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) an apparatus that can determine the sequence of monomers in a polymer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) an apparatus that can determine the sequence of monomers in a polymer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequenator designates (chemistry) an apparatus that can determine the sequence of monomers in a polymer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) an apparatus that can determine the sequence of monomers in a polymer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) an apparatus that can determine the sequence of monomers in a polymer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequenator designates (chemistry) an apparatus that can determine the sequence of monomers in a polymer."*

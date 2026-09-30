@@ -5,13 +5,6 @@ status: unread
 ---
 # palpate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examine (a body part) by palpation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine (a body part) by palpation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpate designates examine (a body part) by palpation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Examine (a body part) by palpation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine (a body part) by palpation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpate designates examine (a body part) by palpation."*

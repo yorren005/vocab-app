@@ -5,15 +5,6 @@ status: unread
 ---
 # sternness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality (as of scenery) being grim and gloomy and forbidding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncompromising resolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or how Should I, in these my borrow’d flaunts, behold The sternness of his presence?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I like this day; I like that sky of steel; I like the sternness and stillness of the world under this frost."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He may be stern; he may be exacting; he may be ambitious yet; but his is the sternness of the warrior Greatheart, who guards his pilgrim convoy from the onslaught of Apollyon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality (as of scenery) being grim and gloomy and forbidding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncompromising resolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or how Should I, in these my borrow’d flaunts, behold The sternness of his presence?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I like this day; I like that sky of steel; I like the sternness and stillness of the world under this frost."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He may be stern; he may be exacting; he may be ambitious yet; but his is the sternness of the warrior Greatheart, who guards his pilgrim convoy from the onslaught of Apollyon."*

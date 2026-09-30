@@ -5,15 +5,6 @@ status: unread
 ---
 # alcides
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Teach me, Alcides, thou mine ancestor, thy rage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lies as sightly on the back of him As great Alcides’ shows upon an ass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, leave that labour to great Hercules, And let it be more than Alcides’ twelve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Teach me, Alcides, thou mine ancestor, thy rage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lies as sightly on the back of him As great Alcides’ shows upon an ass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, leave that labour to great Hercules, And let it be more than Alcides’ twelve."*

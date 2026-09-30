@@ -5,15 +5,6 @@ status: unread
 ---
 # flaminius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman statesman and general who built the flaminian way; died when he was defeated by hannibal (died 217 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman statesman and general who built the flaminian way; died when he was defeated by hannibal (died 217 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Flaminius, Servilius and a third Servant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will dispatch you severally. [_To Servilius_.] You to Lord Lucius; [_To Flaminius_.] to Lord Lucullus you, I hunted with his honour today; [_To the third Servant_.] you to Sempronius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A room in Lucullus’ house Flaminius waiting to speak with Lucullus from his master."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman statesman and general who built the flaminian way; died when he was defeated by hannibal (died 217 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman statesman and general who built the flaminian way; died when he was defeated by hannibal (died 217 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Flaminius, Servilius and a third Servant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will dispatch you severally. [_To Servilius_.] You to Lord Lucius; [_To Flaminius_.] to Lord Lucullus you, I hunted with his honour today; [_To the third Servant_.] you to Sempronius."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A room in Lucullus’ house Flaminius waiting to speak with Lucullus from his master."*

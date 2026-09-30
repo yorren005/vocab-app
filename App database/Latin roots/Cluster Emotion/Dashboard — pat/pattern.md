@@ -5,15 +5,6 @@ status: unread
 ---
 # pattern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A perceptual structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customary way of operation or behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, like gross terms, The Prince will, in the perfectness of time, Cast off his followers, and their memory Shall as a pattern or a measure live, By which his Grace must mete the lives of other, Turning past evils to advantages."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereas the contrary bringeth bliss, And is a pattern of celestial peace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shall be— But few now living can behold that goodness— A pattern to all princes living with her And all that shall succeed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perceptual structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customary way of operation or behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, like gross terms, The Prince will, in the perfectness of time, Cast off his followers, and their memory Shall as a pattern or a measure live, By which his Grace must mete the lives of other, Turning past evils to advantages."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereas the contrary bringeth bliss, And is a pattern of celestial peace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shall be— But few now living can behold that goodness— A pattern to all princes living with her And all that shall succeed."*

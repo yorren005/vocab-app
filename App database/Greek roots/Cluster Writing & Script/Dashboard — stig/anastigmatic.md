@@ -5,13 +5,6 @@ status: unread
 ---
 # anastigmatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not astigmatic —used especially of lenses that are able to form approximately point images of object points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not astigmatic —used especially of lenses that are able to form approximately point images of object points.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastigmatic designates not astigmatic —used especially of lenses that are able to form approximately point images of object points."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not astigmatic —used especially of lenses that are able to form approximately point images of object points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not astigmatic —used especially of lenses that are able to form approximately point images of object points.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastigmatic designates not astigmatic —used especially of lenses that are able to form approximately point images of object points."*

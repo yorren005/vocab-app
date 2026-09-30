@@ -5,13 +5,6 @@ status: unread
 ---
 # muntjac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small asian deer with small antlers and a cry like a bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small asian deer with small antlers and a cry like a bark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muntjac designates small asian deer with small antlers and a cry like a bark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small asian deer with small antlers and a cry like a bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small asian deer with small antlers and a cry like a bark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muntjac designates small asian deer with small antlers and a cry like a bark."*

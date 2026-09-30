@@ -5,13 +5,6 @@ status: unread
 ---
 # sycophantic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to win favor from influential people by flattery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attempting to win favor by flattery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Was it her fault if she did not possess those sycophantic arts which her hypocritical nephew, Pitt Crawley, practised?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to win favor from influential people by flattery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attempting to win favor by flattery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Was it her fault if she did not possess those sycophantic arts which her hypocritical nephew, Pitt Crawley, practised?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # flame-orange
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of orange tinged with red.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of orange tinged with red.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-orange designates of orange tinged with red."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of orange tinged with red.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of orange tinged with red.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-orange designates of orange tinged with red."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rotted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become physically weaker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ox hath therefore stretch’d his yoke in vain, The ploughman lost his sweat, and the green corn Hath rotted ere his youth attain’d a beard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that be made a theme for disputation, The branches of another root are rotted, And undeserved reproach to him allotted That is as clear from this attaint of mine As I, ere this, was pure to Collatine."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They look, in colour and in substance, like a bundle of rank leaves of swampy growth that rotted long ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Break down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become physically weaker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ox hath therefore stretch’d his yoke in vain, The ploughman lost his sweat, and the green corn Hath rotted ere his youth attain’d a beard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that be made a theme for disputation, The branches of another root are rotted, And undeserved reproach to him allotted That is as clear from this attaint of mine As I, ere this, was pure to Collatine."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They look, in colour and in substance, like a bundle of rank leaves of swampy growth that rotted long ago."*

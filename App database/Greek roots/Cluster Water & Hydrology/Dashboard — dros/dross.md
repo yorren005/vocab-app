@@ -5,15 +5,6 @@ status: unread
 ---
 # dross
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthless or dangerous material that should be removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scum formed by oxidation at the surface of molten metals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This casket threatens; men that hazard all Do it in hope of fair advantages: A golden mind stoops not to shows of dross, I’ll then nor give nor hazard aught for lead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My love admits no qualifying dross; No more my grief, in such a precious loss."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Certainly, my associates and pursuits shall be other than they have been.” “And better?” “And better—so much better as pure ore is than foul dross."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthless or dangerous material that should be removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scum formed by oxidation at the surface of molten metals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This casket threatens; men that hazard all Do it in hope of fair advantages: A golden mind stoops not to shows of dross, I’ll then nor give nor hazard aught for lead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My love admits no qualifying dross; No more my grief, in such a precious loss."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Certainly, my associates and pursuits shall be other than they have been.” “And better?” “And better—so much better as pure ore is than foul dross."*

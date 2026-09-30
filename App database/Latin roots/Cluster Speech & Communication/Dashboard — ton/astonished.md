@@ -5,15 +5,6 @@ status: unread
 ---
 # astonished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affect with wonder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with the emotional impact of overwhelming surprise or shock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, neither he, nor his compeers by night Giving him aid, my verse astonished."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was very much astonished that her visitor should have already heard what had taken place the night before, as she knew that her sons would not speak of it of their own free will."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as school was ended, she rushed to the astonished Clevi: "Oh, I know what you have done, Clevi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affect with wonder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with the emotional impact of overwhelming surprise or shock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, neither he, nor his compeers by night Giving him aid, my verse astonished."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was very much astonished that her visitor should have already heard what had taken place the night before, as she knew that her sons would not speak of it of their own free will."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as school was ended, she rushed to the astonished Clevi: "Oh, I know what you have done, Clevi."*

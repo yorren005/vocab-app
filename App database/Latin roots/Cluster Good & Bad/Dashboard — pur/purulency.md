@@ -5,13 +5,6 @@ status: unread
 ---
 # purulency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symptom of being purulent (containing or forming pus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symptom of being purulent (containing or forming pus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purulency designates symptom of being purulent (containing or forming pus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Symptom of being purulent (containing or forming pus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symptom of being purulent (containing or forming pus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purulency designates symptom of being purulent (containing or forming pus)."*

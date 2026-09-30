@@ -5,15 +5,6 @@ status: unread
 ---
 # reverence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of profound respect for someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reverent mental attitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have as much of my father in me as you, albeit I confess your coming before me is nearer to his reverence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very reverent body; ay, such a one as a man may not speak of without he say “sir-reverence”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rather, saving reverence of the word, for ’tis said a woman’s fitness comes by fits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of profound respect for someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reverent mental attitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have as much of my father in me as you, albeit I confess your coming before me is nearer to his reverence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very reverent body; ay, such a one as a man may not speak of without he say “sir-reverence”."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rather, saving reverence of the word, for ’tis said a woman’s fitness comes by fits."*

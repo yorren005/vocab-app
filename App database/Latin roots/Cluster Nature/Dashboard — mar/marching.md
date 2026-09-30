@@ -5,15 +5,6 @@ status: unread
 ---
 # marching
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of marching; walking with regular steps (especially in a procession of some kind).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: March in a procession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pompey and Menas at one door, with drum and trumpet; at another, Caesar, Lepidus, Antony, Enobarbus, Maecenas, Agrippa, with Soldiers marching."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Caesar with his army and Taurus marching."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of marching; walking with regular steps (especially in a procession of some kind).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: March in a procession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pompey and Menas at one door, with drum and trumpet; at another, Caesar, Lepidus, Antony, Enobarbus, Maecenas, Agrippa, with Soldiers marching."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Caesar with his army and Taurus marching."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*

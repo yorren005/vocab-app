@@ -5,15 +5,6 @@ status: unread
 ---
 # patronised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do one's shopping at; do business with; be a customer or client of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume sponsorship of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was a concert for the benefit of a person patronised by Lady Dalrymple."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I might have been too reserved, and should have patronised her more (though I did not use that precise word in my meditations) with my confidence."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He was a man loved and honoured by all who knew him; and in his youth was, I have heard, the inventor of a burnt rum punch, much patronised on Derby night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do one's shopping at; do business with; be a customer or client of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume sponsorship of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It was a concert for the benefit of a person patronised by Lady Dalrymple."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I might have been too reserved, and should have patronised her more (though I did not use that precise word in my meditations) with my confidence."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He was a man loved and honoured by all who knew him; and in his youth was, I have heard, the inventor of a burnt rum punch, much patronised on Derby night."*

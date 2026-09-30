@@ -5,15 +5,6 @@ status: unread
 ---
 # multiple
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The product of a quantity by an integer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving or consisting of more than one part or entity or individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Unknown (*The Second Story of Meno*):** *"An even multiple of any whole number gives another even number."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"An equivalent must be found, or a multiple, if the marginal utility of two goods is to be equalized for either party by exchange."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This attains the thought of the present value of the estate, or capital sum in it, though the capital sum is thought of as a multiple of the income, instead of the income being calculated as a percentage of the capital value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The product of a quantity by an integer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving or consisting of more than one part or entity or individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Unknown (*The Second Story of Meno*):** *"An even multiple of any whole number gives another even number."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"An equivalent must be found, or a multiple, if the marginal utility of two goods is to be equalized for either party by exchange."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This attains the thought of the present value of the estate, or capital sum in it, though the capital sum is thought of as a multiple of the income, instead of the income being calculated as a percentage of the capital value."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unplanned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without apparent forethought or prompting or planning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done with purpose or intent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was never able to do it but that once, and that one time was wholly unplanned and unexpected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without apparent forethought or prompting or planning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done with purpose or intent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was never able to do it but that once, and that one time was wholly unplanned and unexpected."*

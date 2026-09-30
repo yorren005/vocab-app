@@ -5,13 +5,6 @@ status: unread
 ---
 # fecula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excreta (especially of insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excreta (especially of insects).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The grains of fecula are for a long time perfectly healthy; the cells themselves, so far from being looser, are more closely bound together than in the more healthy portions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excreta (especially of insects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excreta (especially of insects).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The grains of fecula are for a long time perfectly healthy; the cells themselves, so far from being looser, are more closely bound together than in the more healthy portions."*

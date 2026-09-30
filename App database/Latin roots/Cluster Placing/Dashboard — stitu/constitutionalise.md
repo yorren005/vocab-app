@@ -5,13 +5,6 @@ status: unread
 ---
 # constitutionalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporate into a constitution, make constitutional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate into a constitution, make constitutional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constitutionalise designates incorporate into a constitution, make constitutional."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporate into a constitution, make constitutional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate into a constitution, make constitutional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constitutionalise designates incorporate into a constitution, make constitutional."*

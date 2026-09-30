@@ -5,13 +5,6 @@ status: unread
 ---
 # leucism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucism designates an abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucism designates an abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin."*

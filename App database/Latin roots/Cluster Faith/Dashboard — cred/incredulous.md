@@ -5,15 +5,6 @@ status: unread
 ---
 # incredulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not disposed or willing to believe; unbelieving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not disposed or willing to believe; unbelieving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I do feign, O, let me in my present wildness die And never live to show th’ incredulous world The noble change that I have purposed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more foolish remark was never made, and I want you to contradict it: that’s what I came for.” Gabriel looked incredulous and sad, but between his moments of incredulity, relieved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not disposed or willing to believe; unbelieving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not disposed or willing to believe; unbelieving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I do feign, O, let me in my present wildness die And never live to show th’ incredulous world The noble change that I have purposed!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more foolish remark was never made, and I want you to contradict it: that’s what I came for.” Gabriel looked incredulous and sad, but between his moments of incredulity, relieved."*

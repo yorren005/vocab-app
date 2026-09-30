@@ -5,13 +5,6 @@ status: unread
 ---
 # activase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activase designates a thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activase designates a thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # underhand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and up from below shoulder level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Good-afternoon.” He went away vexed with himself, and ashamed of having for this one time in his life done anything which could be called underhand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, all the harm she thinks she says to yer face: there’s nothing underhand wi’ her.” They stood silent then, every man busied with his own thoughts, during which interval sounds of merriment could be heard within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and up from below shoulder level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Good-afternoon.” He went away vexed with himself, and ashamed of having for this one time in his life done anything which could be called underhand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, all the harm she thinks she says to yer face: there’s nothing underhand wi’ her.” They stood silent then, every man busied with his own thoughts, during which interval sounds of merriment could be heard within."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # canada
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nation in northern north america; the french were the first europeans to settle in mainland canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nation in northern north america; the french were the first europeans to settle in mainland canada.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns spent five months in the United States and Canada."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But he arranged his tour so as to enable him also to be present at the General Assembly of the American Presbyterian Church at Madison, and at that of the Presbyterian Church of Canada at Montreal."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Bass, a Home Missionary of Brooklyn, N.Y.: "While living in Canada, my eldest daughter, then a girl of ten years of age, rather delicate and of feeble health, had a severe attack of chorea, "St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nation in northern north america; the french were the first europeans to settle in mainland canada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nation in northern north america; the french were the first europeans to settle in mainland canada.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns spent five months in the United States and Canada."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But he arranged his tour so as to enable him also to be present at the General Assembly of the American Presbyterian Church at Madison, and at that of the Presbyterian Church of Canada at Montreal."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Bass, a Home Missionary of Brooklyn, N.Y.: "While living in Canada, my eldest daughter, then a girl of ten years of age, rather delicate and of feeble health, had a severe attack of chorea, "St."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rejection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rejecting something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being rejected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is that tantamount, sir, to acceptance, or rejection, or consideration?” “To decided rejection, if you please,” returned my guardian."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This faith may be absolute, or radical, to the rejection of all economic competition; or it may be moderate, and leave more or less place for self-interest and competition."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nature seemed to me benign and good; I thought she loved me, outcast as I was; and I, who from man could anticipate only mistrust, rejection, insult, clung to her with filial fondness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rejecting something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being rejected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is that tantamount, sir, to acceptance, or rejection, or consideration?” “To decided rejection, if you please,” returned my guardian."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This faith may be absolute, or radical, to the rejection of all economic competition; or it may be moderate, and leave more or less place for self-interest and competition."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nature seemed to me benign and good; I thought she loved me, outcast as I was; and I, who from man could anticipate only mistrust, rejection, insult, clung to her with filial fondness."*

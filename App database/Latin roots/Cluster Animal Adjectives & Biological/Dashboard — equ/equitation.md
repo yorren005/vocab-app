@@ -5,13 +5,6 @@ status: unread
 ---
 # equitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of siting on the back of a horse while controlling its movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sport of siting on the back of a horse while controlling its movements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equitation designates the sport of siting on the back of a horse while controlling its movements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of siting on the back of a horse while controlling its movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sport of siting on the back of a horse while controlling its movements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equitation designates the sport of siting on the back of a horse while controlling its movements."*

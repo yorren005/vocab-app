@@ -5,15 +5,6 @@ status: unread
 ---
 # expression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feelings expressed on a person's face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expression without words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It had not escaped him that an expression of sorrow had spread over his mother's face after his words."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You must never use that expression any more, Mäzli."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore's image with the long, brown curls and the winning expression in her eyes woke her lively desire to see the child that resembled her so much."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feelings expressed on a person's face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expression without words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It had not escaped him that an expression of sorrow had spread over his mother's face after his words."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You must never use that expression any more, Mäzli."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore's image with the long, brown curls and the winning expression in her eyes woke her lively desire to see the child that resembled her so much."*

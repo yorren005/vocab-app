@@ -5,15 +5,6 @@ status: unread
 ---
 # innovator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps to open up a new line of research or technology or art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who helps to open up a new line of research or technology or art.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go call the people; [_Exit Aedile._] in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ideal poet is thin instead of obese, and he is a reckless innovator who lays claim to any measure of the divine afflatus without possessing either a pale face, thin form, or a garret."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Regarding themselves as Middlemarch institutions, they were ready to combine against all innovators, and against non-professionals given to interference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps to open up a new line of research or technology or art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who helps to open up a new line of research or technology or art.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go call the people; [_Exit Aedile._] in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ideal poet is thin instead of obese, and he is a reckless innovator who lays claim to any measure of the divine afflatus without possessing either a pale face, thin form, or a garret."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Regarding themselves as Middlemarch institutions, they were ready to combine against all innovators, and against non-professionals given to interference."*

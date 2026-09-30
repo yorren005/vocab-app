@@ -5,15 +5,6 @@ status: unread
 ---
 # persecution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of persecuting (especially on the basis of race or religion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of persecuting (especially on the basis of race or religion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A most devout, hard-working and poorly paid man, was the object of constant persecution by a cross-grained, ugly, infidel neighbor."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Bitter persecution prevailed with extraordinary power, and threatened every one."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One night, in the days of his bitterest persecution, while he and his friends were praying together, Knox spoke out, and declared _that deliverance has come_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of persecuting (especially on the basis of race or religion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of persecuting (especially on the basis of race or religion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A most devout, hard-working and poorly paid man, was the object of constant persecution by a cross-grained, ugly, infidel neighbor."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Bitter persecution prevailed with extraordinary power, and threatened every one."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"One night, in the days of his bitterest persecution, while he and his friends were praying together, Knox spoke out, and declared _that deliverance has come_."*

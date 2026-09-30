@@ -5,15 +5,6 @@ status: unread
 ---
 # restoration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reign of charles ii in england; 1660-1685.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring something or someone to a satisfactory state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Restoration hang Thy medicine on my lips; and let this kiss Repair those violent harms that my two sisters Have in thy reverence made!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby sustained both his absence and his restoration to the family circle surprised us all."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By the noisome ways through which they descended into that pit, they gradually emerge from it, the crowd flitting, and whistling, and skulking about them until they come to the verge, where restoration of the bull’s-eyes is made to Darby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reign of charles ii in england; 1660-1685.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring something or someone to a satisfactory state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Restoration hang Thy medicine on my lips; and let this kiss Repair those violent harms that my two sisters Have in thy reverence made!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby sustained both his absence and his restoration to the family circle surprised us all."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"By the noisome ways through which they descended into that pit, they gradually emerge from it, the crowd flitting, and whistling, and skulking about them until they come to the verge, where restoration of the bull’s-eyes is made to Darby."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # correctness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to fact or truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of conformity to social expectations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"But, in every case, the name of the writer, or some respectable reference for attesting the accuracy of statements, must be furnished to the Editor; as he must be responsible to the public for the correctness of whatever may appear in the work."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The young lady was a pattern of docility and correctness."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As I had realised in Mr Hallett's presence, expression counts for more than mere correctness of outline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to fact or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of conformity to social expectations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"But, in every case, the name of the writer, or some respectable reference for attesting the accuracy of statements, must be furnished to the Editor; as he must be responsible to the public for the correctness of whatever may appear in the work."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The young lady was a pattern of docility and correctness."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As I had realised in Mr Hallett's presence, expression counts for more than mere correctness of outline."*

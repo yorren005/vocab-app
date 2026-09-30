@@ -5,13 +5,6 @@ status: unread
 ---
 # mesophytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or growing in or adapted to a moderately moist environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or growing in or adapted to a moderately moist environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophytic designates being or growing in or adapted to a moderately moist environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or growing in or adapted to a moderately moist environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or growing in or adapted to a moderately moist environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophytic designates being or growing in or adapted to a moderately moist environment."*

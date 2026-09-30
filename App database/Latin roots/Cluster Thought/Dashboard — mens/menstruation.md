@@ -5,15 +5,6 @@ status: unread
 ---
 # menstruation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A girl's first menstruation is a very critical period of her life according to A-Kamba beliefs."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At her first menstruation a Baniva girl must pass several days and nights in her hammock, almost motionless and getting nothing to eat and drink but water and a little manioc."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Fish, flesh, and sweetmeats are forbidden her; she must live upon rice and ghee.[158] Among the Tiyans of Malabar a girl is thought to be polluted for four days from the beginning of her first menstruation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A girl's first menstruation is a very critical period of her life according to A-Kamba beliefs."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At her first menstruation a Baniva girl must pass several days and nights in her hammock, almost motionless and getting nothing to eat and drink but water and a little manioc."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Fish, flesh, and sweetmeats are forbidden her; she must live upon rice and ghee.[158] Among the Tiyans of Malabar a girl is thought to be polluted for four days from the beginning of her first menstruation."*

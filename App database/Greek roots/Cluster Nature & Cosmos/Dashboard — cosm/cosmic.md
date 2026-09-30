@@ -5,15 +5,6 @@ status: unread
 ---
 # cosmic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cosmos, the extraterrestrial vastness, or the universe in contrast to the earth alone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or concerned with abstract spiritual or metaphysical ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nevertheless, thus clad, I trod interstellar space, exalted by the knowledge that I was bound on vast adventure, where, at the end, I would find all the cosmic formulæ and have made clear to me the ultimate secret of the universe."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"If we attempt a classification of Weltschmerz with regard to its essence, or, better perhaps, with regard to its origin, we shall find that the various types may be classed under one of two heads: either as cosmic or as egoistic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cosmos, the extraterrestrial vastness, or the universe in contrast to the earth alone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or concerned with abstract spiritual or metaphysical ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nevertheless, thus clad, I trod interstellar space, exalted by the knowledge that I was bound on vast adventure, where, at the end, I would find all the cosmic formulæ and have made clear to me the ultimate secret of the universe."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"If we attempt a classification of Weltschmerz with regard to its essence, or, better perhaps, with regard to its origin, we shall find that the various types may be classed under one of two heads: either as cosmic or as egoistic."*

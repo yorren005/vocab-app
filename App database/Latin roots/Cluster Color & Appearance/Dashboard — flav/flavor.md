@@ -5,15 +5,6 @@ status: unread
 ---
 # flavor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The general atmosphere of a place or situation and the effect that it has on people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taste experience when a savoury condiment is taken into the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Who could taste the fine flavor in the name of Brooke if it were delivered casually, like wine without a seal?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth had her droll aspects, but her character sustained her oddities, as a very fine wine sustains a flavor of skin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Such were the appearance and mental flavor of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general atmosphere of a place or situation and the effect that it has on people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taste experience when a savoury condiment is taken into the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Who could taste the fine flavor in the name of Brooke if it were delivered casually, like wine without a seal?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Garth had her droll aspects, but her character sustained her oddities, as a very fine wine sustains a flavor of skin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Such were the appearance and mental flavor of Mr."*

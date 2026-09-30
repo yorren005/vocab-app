@@ -5,15 +5,6 @@ status: unread
 ---
 # separately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apart from others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aufidius and Martius exit, separately._] SCENE IX."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This would make it possible for all to get her hearing separately."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They were the Women of England, the Daughters of Britain, the Sisters of all the cardinal virtues separately, the Females of America, the Ladies of a hundred denominations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apart from others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aufidius and Martius exit, separately._] SCENE IX."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This would make it possible for all to get her hearing separately."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They were the Women of England, the Daughters of Britain, the Sisters of all the cardinal virtues separately, the Females of America, the Ladies of a hundred denominations."*

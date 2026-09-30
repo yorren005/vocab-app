@@ -5,15 +5,6 @@ status: unread
 ---
 # impose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compel to behave in a certain way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What fates impose, that men must needs abide; It boots not to resist both wind and tide. [_Exit King Edward, led out; Somerset with him._] OXFORD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Out of your grace, devise, ordain, impose Some gentle order, and then we shall be blest To do your pleasure and continue friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They could not, would not do’t; ’tis worse than murder, To do upon respect such violent outrage: Resolve me, with all modest haste, which way Thou mightst deserve or they impose this usage, Coming from us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compel to behave in a certain way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What fates impose, that men must needs abide; It boots not to resist both wind and tide. [_Exit King Edward, led out; Somerset with him._] OXFORD."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Out of your grace, devise, ordain, impose Some gentle order, and then we shall be blest To do your pleasure and continue friends."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They could not, would not do’t; ’tis worse than murder, To do upon respect such violent outrage: Resolve me, with all modest haste, which way Thou mightst deserve or they impose this usage, Coming from us."*

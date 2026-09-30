@@ -5,15 +5,6 @@ status: unread
 ---
 # schematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a scheme or schema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schematic drawing or diagram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The view tank's haze cleared to the standard solar schematic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Separated from each other by more than a hundred kay of open space, the Terminal schematic expanded rapidly on the Dragon's screens as the fleet narrowed the gap."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a scheme or schema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schematic drawing or diagram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The view tank's haze cleared to the standard solar schematic."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Separated from each other by more than a hundred kay of open space, the Terminal schematic expanded rapidly on the Dragon's screens as the fleet narrowed the gap."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*

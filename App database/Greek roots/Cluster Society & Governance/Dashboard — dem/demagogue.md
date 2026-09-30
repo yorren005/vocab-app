@@ -5,15 +5,6 @@ status: unread
 ---
 # demagogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who appeals to popular prejudices and who makes false claims and promises in order to gain power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader in ancient times who championed the cause of the common people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Do you know that the orange lodges agitated for repeal of the union twenty years before O’Connell did or before the prelates of your communion denounced him as a demagogue?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jones wrote a full and particular account of the dinner, which appeared duly in the Demagogue."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"DEMAGOGUE, a vessel containing beer and other liquids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who appeals to popular prejudices and who makes false claims and promises in order to gain power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader in ancient times who championed the cause of the common people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Do you know that the orange lodges agitated for repeal of the union twenty years before O’Connell did or before the prelates of your communion denounced him as a demagogue?"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jones wrote a full and particular account of the dinner, which appeared duly in the Demagogue."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"DEMAGOGUE, a vessel containing beer and other liquids."*

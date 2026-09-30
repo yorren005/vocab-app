@@ -5,15 +5,6 @@ status: unread
 ---
 # impart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit (knowledge or skills).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bestow a quality on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Break we our watch up, and by my advice, Let us impart what we have seen tonight Unto young Hamlet; for upon my life, This spirit, dumb to us, will speak to him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to me In dreadful secrecy impart they did, And I with them the third night kept the watch, Where, as they had deliver’d, both in time, Form of the thing, each word made true and good, The apparition comes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet lord, if your lordship were at leisure, I should impart a thing to you from his Majesty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit (knowledge or skills).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bestow a quality on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Break we our watch up, and by my advice, Let us impart what we have seen tonight Unto young Hamlet; for upon my life, This spirit, dumb to us, will speak to him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to me In dreadful secrecy impart they did, And I with them the third night kept the watch, Where, as they had deliver’d, both in time, Form of the thing, each word made true and good, The apparition comes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet lord, if your lordship were at leisure, I should impart a thing to you from his Majesty."*

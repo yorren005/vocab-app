@@ -5,15 +5,6 @@ status: unread
 ---
 # importantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an important way or to an important degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an important way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not likely That when they hear the Roman horses neigh, Behold their quarter’d fires, have both their eyes And ears so cloy’d importantly as now, That they will waste their time upon our note, To know from whence we are."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"There’s no chimney,” Peter said; “we must have a chimney.” “It certainly does need a chimney,” said John importantly."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Well, you did,” said Margaret importantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an important way or to an important degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an important way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not likely That when they hear the Roman horses neigh, Behold their quarter’d fires, have both their eyes And ears so cloy’d importantly as now, That they will waste their time upon our note, To know from whence we are."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"There’s no chimney,” Peter said; “we must have a chimney.” “It certainly does need a chimney,” said John importantly."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Well, you did,” said Margaret importantly."*

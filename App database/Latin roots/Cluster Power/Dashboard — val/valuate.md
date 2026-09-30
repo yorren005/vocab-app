@@ -5,13 +5,6 @@ status: unread
 ---
 # valuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valuate designates evaluate or estimate the nature, quality, ability, extent, or significance of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valuate designates evaluate or estimate the nature, quality, ability, extent, or significance of."*

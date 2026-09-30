@@ -5,15 +5,6 @@ status: unread
 ---
 # curtsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending the knees; a gesture of respect made by women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees in a gesture of respectful greeting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that art like enough, through vassal fear, Base inclination, and the start of spleen, To fight against me under Percy’s pay, To dog his heels, and curtsy at his frowns, To show how much thou art degenerate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You call honourable boldness impudent sauciness; if a man will make curtsy and say nothing, he is virtuous."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First my fear; then my curtsy; last my speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending the knees; a gesture of respect made by women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees in a gesture of respectful greeting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that art like enough, through vassal fear, Base inclination, and the start of spleen, To fight against me under Percy’s pay, To dog his heels, and curtsy at his frowns, To show how much thou art degenerate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You call honourable boldness impudent sauciness; if a man will make curtsy and say nothing, he is virtuous."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First my fear; then my curtsy; last my speech."*

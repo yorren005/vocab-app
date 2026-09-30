@@ -5,15 +5,6 @@ status: unread
 ---
 # martyr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who suffers for the sake of principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who voluntarily suffers death as the penalty for refusing to renounce their religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if thou fall’st, O Cromwell, Thou fall’st a blessed martyr!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Despis’d, distressed, hated, martyr’d, kill’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark, wretches, how I mean to martyr you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who suffers for the sake of principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who voluntarily suffers death as the penalty for refusing to renounce their religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if thou fall’st, O Cromwell, Thou fall’st a blessed martyr!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Despis’d, distressed, hated, martyr’d, kill’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark, wretches, how I mean to martyr you."*

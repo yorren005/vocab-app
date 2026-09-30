@@ -5,13 +5,6 @@ status: unread
 ---
 # tautologic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of same sense in different words; ; ; - j.b.conant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of same sense in different words; ; ; - j.b.conant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautologic designates repetition of same sense in different words; ; ; - j.b.conant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of same sense in different words; ; ; - j.b.conant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of same sense in different words; ; ; - j.b.conant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautologic designates repetition of same sense in different words; ; ; - j.b.conant."*

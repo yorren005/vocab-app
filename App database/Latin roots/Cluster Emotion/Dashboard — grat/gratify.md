@@ -5,15 +5,6 @@ status: unread
 ---
 # gratify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make happy or satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having determined of the Volsces and To send for Titus Lartius, it remains, As the main point of this our after-meeting, To gratify his noble service that Hath thus stood for his country."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In these fear’d hopes I barely gratify your love; they failing, I must die much your debtor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antonio, gratify this gentleman, For in my mind you are much bound to him. [_Exeunt Duke and his train._] BASSANIO."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make happy or satisfied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having determined of the Volsces and To send for Titus Lartius, it remains, As the main point of this our after-meeting, To gratify his noble service that Hath thus stood for his country."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In these fear’d hopes I barely gratify your love; they failing, I must die much your debtor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antonio, gratify this gentleman, For in my mind you are much bound to him. [_Exeunt Duke and his train._] BASSANIO."*

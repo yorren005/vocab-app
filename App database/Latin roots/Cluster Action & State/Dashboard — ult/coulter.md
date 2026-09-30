@@ -5,13 +5,6 @@ status: unread
 ---
 # coulter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp steel wedge that precedes the plow and cuts vertically through the soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp steel wedge that precedes the plow and cuts vertically through the soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou saw the fields laid bare an’ waste, An’ weary winter comin fast, An’ cozie here, beneath the blast, Thou thought to dwell— Till crash! the cruel coulter past Out thro’ thy cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp steel wedge that precedes the plow and cuts vertically through the soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp steel wedge that precedes the plow and cuts vertically through the soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou saw the fields laid bare an’ waste, An’ weary winter comin fast, An’ cozie here, beneath the blast, Thou thought to dwell— Till crash! the cruel coulter past Out thro’ thy cell."*

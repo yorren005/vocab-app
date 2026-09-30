@@ -5,15 +5,6 @@ status: unread
 ---
 # discouragement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of despair in the face of obstacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expression of opposition and disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We were sorry for the poor dear girl and found so much to admire in the good disposition which had survived under such discouragement that we both at once (I mean Ada and I) proposed a little scheme that made her perfectly joyful."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The moment at which I assumed the authority was one of great discouragement and depression."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Once for all; I knew to my sorrow, often and often, if not always, that I loved her against reason, against promise, against peace, against hope, against happiness, against all discouragement that could be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of despair in the face of obstacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expression of opposition and disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We were sorry for the poor dear girl and found so much to admire in the good disposition which had survived under such discouragement that we both at once (I mean Ada and I) proposed a little scheme that made her perfectly joyful."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The moment at which I assumed the authority was one of great discouragement and depression."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Once for all; I knew to my sorrow, often and often, if not always, that I loved her against reason, against promise, against peace, against hope, against happiness, against all discouragement that could be."*

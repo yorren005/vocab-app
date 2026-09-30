@@ -5,13 +5,6 @@ status: unread
 ---
 # abhorrer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abhorrer designates a signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abhorrer designates a signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred."*

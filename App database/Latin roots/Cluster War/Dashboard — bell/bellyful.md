@@ -5,15 +5,6 @@ status: unread
 ---
 # bellyful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undesirable overabundance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undesirable overabundance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every jackslave hath his bellyful of fighting, and I must go up and down like a cock that nobody can match."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And as for women, I've had my bellyful of women after her I was kind to, and was true to for one and twenty years, going off with some sweating landsman to a dingy town...."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Well, sir, I found in time, you may be sure, ‘Twas not for nothing--the good bellyful, The warm serge and the rope that goes all round, And day-long blessed idleness beside!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undesirable overabundance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undesirable overabundance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every jackslave hath his bellyful of fighting, and I must go up and down like a cock that nobody can match."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And as for women, I've had my bellyful of women after her I was kind to, and was true to for one and twenty years, going off with some sweating landsman to a dingy town...."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Well, sir, I found in time, you may be sure, ‘Twas not for nothing--the good bellyful, The warm serge and the rope that goes all round, And day-long blessed idleness beside!"*

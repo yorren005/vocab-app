@@ -5,13 +5,6 @@ status: unread
 ---
 # seediness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of elegance as a consequence of wearing threadbare or dirty clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of elegance as a consequence of wearing threadbare or dirty clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seediness designates a lack of elegance as a consequence of wearing threadbare or dirty clothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of elegance as a consequence of wearing threadbare or dirty clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of elegance as a consequence of wearing threadbare or dirty clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seediness designates a lack of elegance as a consequence of wearing threadbare or dirty clothing."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cutting-edge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accord with the most fashionable ideas or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accord with the most fashionable ideas or style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutting-edge designates in accord with the most fashionable ideas or style."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accord with the most fashionable ideas or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accord with the most fashionable ideas or style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutting-edge designates in accord with the most fashionable ideas or style."*

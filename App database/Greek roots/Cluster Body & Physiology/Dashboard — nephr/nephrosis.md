@@ -5,13 +5,6 @@ status: unread
 ---
 # nephrosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease affecting the kidneys.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrosis designates a syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease affecting the kidneys.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrosis designates a syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases."*

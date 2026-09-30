@@ -5,15 +5,6 @@ status: unread
 ---
 # equine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a horse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The same wise judge of matters equine Who still preferred some slim four-year-old To the big-boned stock of mighty Berold, And, for strong Cotnar, drank French weak wine, He also must be such a lady’s scorner!"*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The equine's disposition, it must be said, had not been improved by the immense saddle-bags with which the Doctor had surmounted him when on the march."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It is noticeable that the equine race, in its wild state, has none of the ills of the species domesticated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a horse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The same wise judge of matters equine Who still preferred some slim four-year-old To the big-boned stock of mighty Berold, And, for strong Cotnar, drank French weak wine, He also must be such a lady’s scorner!"*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The equine's disposition, it must be said, had not been improved by the immense saddle-bags with which the Doctor had surmounted him when on the march."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"It is noticeable that the equine race, in its wild state, has none of the ills of the species domesticated."*

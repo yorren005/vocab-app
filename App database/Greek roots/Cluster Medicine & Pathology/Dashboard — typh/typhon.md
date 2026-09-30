@@ -5,15 +5,6 @@ status: unread
 ---
 # typhon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a monster with a hundred heads who breathed out flames; son of typhoeus and father of cerberus and the chimera and the sphinx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a monster with a hundred heads who breathed out flames; son of typhoeus and father of cerberus and the chimera and the sphinx.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you, younglings, not Enceladus, With all his threatening band of Typhon’s brood, Nor great Alcides, nor the god of war, Shall seize this prey out of his father’s hands."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the second of the supplementary days she gave birth to the elder Horus, on the third to the god Set, whom the Greeks called Typhon, on the fourth to the goddess Isis, and on the fifth to the goddess Nephthys."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But his brother Set (whom the Greeks called Typhon) with seventy-two others plotted against him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a monster with a hundred heads who breathed out flames; son of typhoeus and father of cerberus and the chimera and the sphinx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a monster with a hundred heads who breathed out flames; son of typhoeus and father of cerberus and the chimera and the sphinx.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you, younglings, not Enceladus, With all his threatening band of Typhon’s brood, Nor great Alcides, nor the god of war, Shall seize this prey out of his father’s hands."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the second of the supplementary days she gave birth to the elder Horus, on the third to the god Set, whom the Greeks called Typhon, on the fourth to the goddess Isis, and on the fifth to the goddess Nephthys."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But his brother Set (whom the Greeks called Typhon) with seventy-two others plotted against him."*

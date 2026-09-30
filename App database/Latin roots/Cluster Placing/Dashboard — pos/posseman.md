@@ -5,13 +5,6 @@ status: unread
 ---
 # posseman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An able-bodied man serving as a member of a posse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An able-bodied man serving as a member of a posse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posseman designates an able-bodied man serving as a member of a posse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An able-bodied man serving as a member of a posse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An able-bodied man serving as a member of a posse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posseman designates an able-bodied man serving as a member of a posse."*

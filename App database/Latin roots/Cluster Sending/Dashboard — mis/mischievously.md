@@ -5,15 +5,6 @@ status: unread
 ---
 # mischievously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disobedient or naughty way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disobedient or naughty way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I am afraid I was ashamed of the dear good fellow,—I _know_ I was ashamed of him,—when I saw that Estella stood at the back of Miss Havisham’s chair, and that her eyes laughed mischievously."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes in the mischievously caressing tone that she kept for Isabel, "did mamma's little girl enjoy her party?" "Rather!" said Isabel--with a great sigh, the satisfied sigh of a dog curling up after a meal."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The pang that I must feel, Kate, When dark suspicion lurks Within thy breast, is real, Kate, And mischievously works."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disobedient or naughty way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disobedient or naughty way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I am afraid I was ashamed of the dear good fellow,—I _know_ I was ashamed of him,—when I saw that Estella stood at the back of Miss Havisham’s chair, and that her eyes laughed mischievously."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes in the mischievously caressing tone that she kept for Isabel, "did mamma's little girl enjoy her party?" "Rather!" said Isabel--with a great sigh, the satisfied sigh of a dog curling up after a meal."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The pang that I must feel, Kate, When dark suspicion lurks Within thy breast, is real, Kate, And mischievously works."*

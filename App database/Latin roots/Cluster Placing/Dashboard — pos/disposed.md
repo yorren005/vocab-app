@@ -5,15 +5,6 @@ status: unread
 ---
 # disposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give, sell, or transfer to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw or cast away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will weep for nothing, like Diana in the fountain, and I will do that when you are disposed to be merry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lesser had been The thwartings of your dispositions if You had not showed them how ye were disposed Ere they lacked power to cross you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give, sell, or transfer to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw or cast away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will weep for nothing, like Diana in the fountain, and I will do that when you are disposed to be merry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lesser had been The thwartings of your dispositions if You had not showed them how ye were disposed Ere they lacked power to cross you."*

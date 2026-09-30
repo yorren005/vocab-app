@@ -5,13 +5,6 @@ status: unread
 ---
 # terrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pate or fancy meatloaf baked in an earthenware casserole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pate or fancy meatloaf baked in an earthenware casserole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrine designates a pate or fancy meatloaf baked in an earthenware casserole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pate or fancy meatloaf baked in an earthenware casserole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pate or fancy meatloaf baked in an earthenware casserole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrine designates a pate or fancy meatloaf baked in an earthenware casserole."*

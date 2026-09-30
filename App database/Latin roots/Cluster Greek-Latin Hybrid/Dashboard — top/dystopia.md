@@ -5,13 +5,6 @@ status: unread
 ---
 # dystopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State in which the conditions of life are extremely bad as from deprivation or oppression or terror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A work of fiction describing an imaginary place where life is extremely bad because of deprivation or oppression or terror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopia designates state in which the conditions of life are extremely bad as from deprivation or oppression or terror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State in which the conditions of life are extremely bad as from deprivation or oppression or terror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A work of fiction describing an imaginary place where life is extremely bad because of deprivation or oppression or terror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopia designates state in which the conditions of life are extremely bad as from deprivation or oppression or terror."*

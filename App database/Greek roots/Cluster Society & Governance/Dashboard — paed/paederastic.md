@@ -5,13 +5,6 @@ status: unread
 ---
 # paederastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of homosexuality between a man and a boy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of homosexuality between a man and a boy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederastic designates of homosexuality between a man and a boy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of homosexuality between a man and a boy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of homosexuality between a man and a boy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederastic designates of homosexuality between a man and a boy."*

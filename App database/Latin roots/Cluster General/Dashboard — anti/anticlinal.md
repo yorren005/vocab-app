@@ -5,13 +5,6 @@ status: unread
 ---
 # anticlinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sloping downward away from a common crest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sloping downward away from a common crest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlinal designates sloping downward away from a common crest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sloping downward away from a common crest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sloping downward away from a common crest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlinal designates sloping downward away from a common crest."*

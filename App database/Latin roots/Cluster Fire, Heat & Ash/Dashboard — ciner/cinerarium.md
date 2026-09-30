@@ -5,13 +5,6 @@ status: unread
 ---
 # cinerarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A niche for a funeral urn containing the ashes of the cremated dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A niche for a funeral urn containing the ashes of the cremated dead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinerarium designates a niche for a funeral urn containing the ashes of the cremated dead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A niche for a funeral urn containing the ashes of the cremated dead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A niche for a funeral urn containing the ashes of the cremated dead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinerarium designates a niche for a funeral urn containing the ashes of the cremated dead."*

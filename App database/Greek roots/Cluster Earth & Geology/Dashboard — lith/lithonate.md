@@ -5,13 +5,6 @@ status: unread
 ---
 # lithonate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithonate designates a white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithonate designates a white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # flatter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise somewhat dishonestly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a surface without slope, tilt in which no part is higher or lower than another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell the day to please him thou art bright, And dost him grace when clouds do blot the heaven: So flatter I the swart-complexioned night, When sparkling stars twire not thou gild’st the even."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To flatter Caesar, would you mingle eyes With one that ties his points?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will give good words to thee will flatter Beneath abhorring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise somewhat dishonestly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a surface without slope, tilt in which no part is higher or lower than another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell the day to please him thou art bright, And dost him grace when clouds do blot the heaven: So flatter I the swart-complexioned night, When sparkling stars twire not thou gild’st the even."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To flatter Caesar, would you mingle eyes With one that ties his points?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will give good words to thee will flatter Beneath abhorring."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # radiating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Send out rays or waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send out real or metaphoric rays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now, the foregoing were the glimpses and glimmerings that came to me, when, in Cell One of Solitary in San Quentin, I stared myself unconscious by means of a particle of bright, light-radiating straw."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But the most remarkable peculiarity about them was the appearance of their feet; the toes, like the radiating lines of the mariner’s compass, pointed to every quarter of the horizon."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It had not moved, but its eyes were now electric sparks, radiating an infinity of luminous needles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Send out rays or waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send out real or metaphoric rays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now, the foregoing were the glimpses and glimmerings that came to me, when, in Cell One of Solitary in San Quentin, I stared myself unconscious by means of a particle of bright, light-radiating straw."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But the most remarkable peculiarity about them was the appearance of their feet; the toes, like the radiating lines of the mariner’s compass, pointed to every quarter of the horizon."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It had not moved, but its eyes were now electric sparks, radiating an infinity of luminous needles."*

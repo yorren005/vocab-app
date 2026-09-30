@@ -5,15 +5,6 @@ status: unread
 ---
 # ruining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction achieved by causing something to be wrecked or ruined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely; damage irreparably.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CXXV Were’t aught to me I bore the canopy, With my extern the outward honouring, Or laid great bases for eternity, Which proves more short than waste or ruining?"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s communication, he almost instantly determined to spare no pains in weakening his boasted interest and ruining his dearest hopes."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In short, I began the process of ruining myself in the received style, like any other spoony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction achieved by causing something to be wrecked or ruined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely; damage irreparably.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CXXV Were’t aught to me I bore the canopy, With my extern the outward honouring, Or laid great bases for eternity, Which proves more short than waste or ruining?"*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s communication, he almost instantly determined to spare no pains in weakening his boasted interest and ruining his dearest hopes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In short, I began the process of ruining myself in the received style, like any other spoony."*

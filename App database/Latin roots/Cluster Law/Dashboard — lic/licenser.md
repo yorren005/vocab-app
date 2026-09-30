@@ -5,13 +5,6 @@ status: unread
 ---
 # licenser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who can issue a license or give authoritative permission (especially one who licenses publications).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can issue a license or give authoritative permission (especially one who licenses publications).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licenser designates an official who can issue a license or give authoritative permission (especially one who licenses publications)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who can issue a license or give authoritative permission (especially one who licenses publications).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can issue a license or give authoritative permission (especially one who licenses publications).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licenser designates an official who can issue a license or give authoritative permission (especially one who licenses publications)."*

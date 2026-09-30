@@ -5,15 +5,6 @@ status: unread
 ---
 # rig
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gear (including necessary machinery) for a particular enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck consisting of a tractor and trailer together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Rig me a Ship with all the speed that may be, I will not lose her: thou her most false Father, Shalt go along; and if I miss her, hear me, A whole day will I study to destroy thee. _Char_."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She ’s gien me mony a jirt an’ fleg, Sin’ I could striddle owre a rig; But, by the Lord, tho’ I should beg Wi’ lyart pow, I’ll laugh an’ sing, an’ shake my leg, As lang’s I dow!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gear (including necessary machinery) for a particular enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck consisting of a tractor and trailer together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Rig me a Ship with all the speed that may be, I will not lose her: thou her most false Father, Shalt go along; and if I miss her, hear me, A whole day will I study to destroy thee. _Char_."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"She ’s gien me mony a jirt an’ fleg, Sin’ I could striddle owre a rig; But, by the Lord, tho’ I should beg Wi’ lyart pow, I’ll laugh an’ sing, an’ shake my leg, As lang’s I dow!"*

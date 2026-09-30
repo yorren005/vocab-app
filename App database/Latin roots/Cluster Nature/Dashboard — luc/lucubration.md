@@ -5,15 +5,6 @@ status: unread
 ---
 # lucubration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn literary work that is the product of laborious cogitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laborious cogitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The “appetite for joy” which pervades all creation, that tremendous force which sways humanity to its purpose, as the tide sways the helpless weed, was not to be controlled by vague lucubrations over the social rubric."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With his own ghostly voice he had exhorted me, on the sacred consideration of my filial duty and reverence towards him—who might reasonably regard himself as my official ancestor—to bring his mouldy and moth-eaten lucubrations before the public."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Now it was that the lucubrations of my ancient predecessor, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn literary work that is the product of laborious cogitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laborious cogitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The “appetite for joy” which pervades all creation, that tremendous force which sways humanity to its purpose, as the tide sways the helpless weed, was not to be controlled by vague lucubrations over the social rubric."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With his own ghostly voice he had exhorted me, on the sacred consideration of my filial duty and reverence towards him—who might reasonably regard himself as my official ancestor—to bring his mouldy and moth-eaten lucubrations before the public."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Now it was that the lucubrations of my ancient predecessor, Mr."*

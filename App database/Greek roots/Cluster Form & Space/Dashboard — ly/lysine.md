@@ -5,13 +5,6 @@ status: unread
 ---
 # lysine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline essential amino acid C6H14N2O2 obtained from the hydrolysis of various proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline essential amino acid C6H14N2O2 obtained from the hydrolysis of various proteins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysine designates a crystalline essential amino acid c6h14n2o2 obtained from the hydrolysis of various proteins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline essential amino acid C6H14N2O2 obtained from the hydrolysis of various proteins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline essential amino acid C6H14N2O2 obtained from the hydrolysis of various proteins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysine designates a crystalline essential amino acid c6h14n2o2 obtained from the hydrolysis of various proteins."*

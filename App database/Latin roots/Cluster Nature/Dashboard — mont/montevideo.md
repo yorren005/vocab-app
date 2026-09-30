@@ -5,13 +5,6 @@ status: unread
 ---
 # montevideo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of uruguay; a cosmopolitan city and one of the busiest ports in south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of uruguay; a cosmopolitan city and one of the busiest ports in south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montevideo designates the capital and largest city of uruguay; a cosmopolitan city and one of the busiest ports in south america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of uruguay; a cosmopolitan city and one of the busiest ports in south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of uruguay; a cosmopolitan city and one of the busiest ports in south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montevideo designates the capital and largest city of uruguay; a cosmopolitan city and one of the busiest ports in south america."*

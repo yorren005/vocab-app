@@ -5,13 +5,6 @@ status: unread
 ---
 # mydriatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes the pupil of the eye to dilate; used to aid eye examinations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that causes the pupil of the eye to dilate; used to aid eye examinations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mydriatic designates a drug that causes the pupil of the eye to dilate; used to aid eye examinations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes the pupil of the eye to dilate; used to aid eye examinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that causes the pupil of the eye to dilate; used to aid eye examinations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mydriatic designates a drug that causes the pupil of the eye to dilate; used to aid eye examinations."*

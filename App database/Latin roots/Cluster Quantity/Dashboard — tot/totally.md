@@ -5,15 +5,6 @@ status: unread
 ---
 # totally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; he doth but mistake the truth totally."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Yes, I always feel better when I think of that," Leonore added after a time in a totally changed voice."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How could you do otherwise, being totally destitute of the sympathies with which he overflows!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; he doth but mistake the truth totally."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Yes, I always feel better when I think of that," Leonore added after a time in a totally changed voice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"How could you do otherwise, being totally destitute of the sympathies with which he overflows!"*

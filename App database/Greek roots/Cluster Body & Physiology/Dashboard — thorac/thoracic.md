@@ -5,13 +5,6 @@ status: unread
 ---
 # thoracic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, located within, or involving the thorax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity of the thorax that is bounded below by the diaphragm, is enclosed by the sternum, ribs, and thoracic vertebrae, and that contains the heart and lungs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracic designates of, relating to, located within, or involving the thorax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, located within, or involving the thorax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity of the thorax that is bounded below by the diaphragm, is enclosed by the sternum, ribs, and thoracic vertebrae, and that contains the heart and lungs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracic designates of, relating to, located within, or involving the thorax."*

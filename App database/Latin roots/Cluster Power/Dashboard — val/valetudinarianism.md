@@ -5,13 +5,6 @@ status: unread
 ---
 # valetudinarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being weak in health or body (especially from old age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being weak in health or body (especially from old age).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valetudinarianism designates the state of being weak in health or body (especially from old age)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being weak in health or body (especially from old age).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being weak in health or body (especially from old age).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valetudinarianism designates the state of being weak in health or body (especially from old age)."*

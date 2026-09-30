@@ -5,15 +5,6 @@ status: unread
 ---
 # pentecostal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of a pentecostal religious body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of any of various pentecostal religious bodies or their members.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pentecostal power 46:30 His students then received the Holy Ghost."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"REES, Author of "Christlikeness," "Hulda, the Pentecostal Prophetess," and "Hallelujahs from Portsmouth, Nos. 2 and 3." DEDICATION."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The onward movement of the Holy Ghost along Pentecostal lines, convicting of depravity, creating a clean-reading public, and endueing with power both pulpit and pew, has resulted in a constant and growing demand for full-salvation literature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of a pentecostal religious body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of any of various pentecostal religious bodies or their members.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pentecostal power 46:30 His students then received the Holy Ghost."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"REES, Author of "Christlikeness," "Hulda, the Pentecostal Prophetess," and "Hallelujahs from Portsmouth, Nos. 2 and 3." DEDICATION."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The onward movement of the Holy Ghost along Pentecostal lines, convicting of depravity, creating a clean-reading public, and endueing with power both pulpit and pew, has resulted in a constant and growing demand for full-salvation literature."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unanimity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everyone being of one mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everyone being of one mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When forty men told the same things with such unanimity, Warden Atherton and Captain Jamie could only conclude that the testimony was a memorized lie which each of the forty rattled off parrot-like."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Be that as it may, certain it is that the natural uncleanness of woman at her monthly periods is a conception which has occurred, or been revealed, with singular unanimity to several ancient legislators."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the course of the year, however, there had been a change in the public sentiment, of which the unanimity at Dollop’s was an index."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Everyone being of one mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everyone being of one mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When forty men told the same things with such unanimity, Warden Atherton and Captain Jamie could only conclude that the testimony was a memorized lie which each of the forty rattled off parrot-like."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Be that as it may, certain it is that the natural uncleanness of woman at her monthly periods is a conception which has occurred, or been revealed, with singular unanimity to several ancient legislators."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the course of the year, however, there had been a change in the public sentiment, of which the unanimity at Dollop’s was an index."*

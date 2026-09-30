@@ -5,13 +5,6 @@ status: unread
 ---
 # protrusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrusting outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrusting outward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusive designates thrusting outward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrusting outward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrusting outward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusive designates thrusting outward."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # postillion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Robinson was a tall, uncouth man, and his stature was often rendered still more remarkable by his hunting dress, and postillion’s cap, a tight green jacket, and buckskin breeches."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Instead of cuirass, mail, greaves, and other pieces of complete armour, he was cased in a postillion's leathern jerkin, covered with thin plates of tinned iron."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The coachman and postillions were arrayed in gorgeous liveries of white and scarlet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Robinson was a tall, uncouth man, and his stature was often rendered still more remarkable by his hunting dress, and postillion’s cap, a tight green jacket, and buckskin breeches."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Instead of cuirass, mail, greaves, and other pieces of complete armour, he was cased in a postillion's leathern jerkin, covered with thin plates of tinned iron."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The coachman and postillions were arrayed in gorgeous liveries of white and scarlet."*

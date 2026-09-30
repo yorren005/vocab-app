@@ -5,14 +5,6 @@ status: unread
 ---
 # flunkey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male servant (especially a footman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of unquestioning obedience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The lumberjacks want no flunkey, but the real thing," as one expressed it."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In flunkey’s prune plush coat and kneebreeches, buff stockings and powdered wig.)_ I’m afraid not, sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male servant (especially a footman).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of unquestioning obedience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The lumberjacks want no flunkey, but the real thing," as one expressed it."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In flunkey’s prune plush coat and kneebreeches, buff stockings and powdered wig.)_ I’m afraid not, sir."*

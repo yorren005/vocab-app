@@ -5,14 +5,6 @@ status: unread
 ---
 # interrogator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A questioner who is excessively harsh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A questioner who is excessively harsh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed my benefactress; if so, a benefactress is a disagreeable thing.” “Do you say your prayers night and morning?” continued my interrogator."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But something's stirring." If the Lassans had set a dictaphone or some similar device to spy on them there was no sign of it in the conversation which Sherman's interrogator held with him during the next period."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A questioner who is excessively harsh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A questioner who is excessively harsh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed my benefactress; if so, a benefactress is a disagreeable thing.” “Do you say your prayers night and morning?” continued my interrogator."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But something's stirring." If the Lassans had set a dictaphone or some similar device to spy on them there was no sign of it in the conversation which Sherman's interrogator held with him during the next period."*

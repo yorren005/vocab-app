@@ -5,15 +5,6 @@ status: unread
 ---
 # barrelled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in barrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in or stored in a barrel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was double-barrelled, and he had, meanwhile, in some way fastened his hand-kerchief to the trigger, and with his foot on the other end was in the act of turning the second barrel upon himself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Across their pommels were long-barrelled rifles."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And my father, like them, had a long-barrelled rifle close to hand as he drove."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in barrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in or stored in a barrel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was double-barrelled, and he had, meanwhile, in some way fastened his hand-kerchief to the trigger, and with his foot on the other end was in the act of turning the second barrel upon himself."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Across their pommels were long-barrelled rifles."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And my father, like them, had a long-barrelled rifle close to hand as he drove."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # multilaterally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a multilateral manner;so as to affect many parties or governments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a multilateral manner;so as to affect many parties or governments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilaterally designates in a multilateral manner;so as to affect many parties or governments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a multilateral manner;so as to affect many parties or governments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a multilateral manner;so as to affect many parties or governments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multilaterally designates in a multilateral manner;so as to affect many parties or governments."*

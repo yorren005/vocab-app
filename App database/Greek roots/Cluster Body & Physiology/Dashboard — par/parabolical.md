@@ -5,13 +5,6 @@ status: unread
 ---
 # parabolical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or expressed by parables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a parabola.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parabolical designates resembling or expressed by parables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or expressed by parables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a parabola.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parabolical designates resembling or expressed by parables."*

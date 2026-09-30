@@ -5,13 +5,6 @@ status: unread
 ---
 # polemist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who argues in opposition to others (especially in theology).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who argues in opposition to others (especially in theology).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemist designates a writer who argues in opposition to others (especially in theology)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who argues in opposition to others (especially in theology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who argues in opposition to others (especially in theology).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemist designates a writer who argues in opposition to others (especially in theology)."*

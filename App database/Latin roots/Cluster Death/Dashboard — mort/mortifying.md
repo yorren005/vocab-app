@@ -5,15 +5,6 @@ status: unread
 ---
 # mortifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice self-denial of one's body and appetites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold within limits and control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me play the fool, With mirth and laughter let old wrinkles come, And let my liver rather heat with wine Than my heart cool with mortifying groans."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wonder that thou (being as thou say’st thou art, born under Saturn) goest about to apply a moral medicine to a mortifying mischief."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ve-ry mortifying, is it not?” Although she sometimes asked a question, she never seemed to expect a reply, but rambled on as if she were in the habit of doing so when no one but herself was present."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice self-denial of one's body and appetites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold within limits and control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me play the fool, With mirth and laughter let old wrinkles come, And let my liver rather heat with wine Than my heart cool with mortifying groans."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wonder that thou (being as thou say’st thou art, born under Saturn) goest about to apply a moral medicine to a mortifying mischief."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ve-ry mortifying, is it not?” Although she sometimes asked a question, she never seemed to expect a reply, but rambled on as if she were in the habit of doing so when no one but herself was present."*

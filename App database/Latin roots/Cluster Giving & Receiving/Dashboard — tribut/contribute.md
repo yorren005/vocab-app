@@ -5,15 +5,6 @@ status: unread
 ---
 # contribute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a quality on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute to some cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Some gentlemen, urged to contribute to a most worthy cause, said, 'Go first to Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No one has been urged, asked, or even hinted to contribute to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a quality on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute to some cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Some gentlemen, urged to contribute to a most worthy cause, said, 'Go first to Mr."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"No one has been urged, asked, or even hinted to contribute to it."*

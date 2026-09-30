@@ -5,13 +5,6 @@ status: unread
 ---
 # leveraging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Investing with borrowed money as a way to amplify potential gains (at the risk of greater losses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplement with leverage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leveraging designates investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Investing with borrowed money as a way to amplify potential gains (at the risk of greater losses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplement with leverage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leveraging designates investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)."*

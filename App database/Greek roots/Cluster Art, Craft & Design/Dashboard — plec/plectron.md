@@ -5,13 +5,6 @@ status: unread
 ---
 # plectron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small thin device (of metal or plastic or ivory) used to pluck a stringed instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small thin device (of metal or plastic or ivory) used to pluck a stringed instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"We do not make Mantic either godless or void of reason, when we give it the soul of man as its material, and the enthusiastic spirit and exhalation as its tool or plectron."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small thin device (of metal or plastic or ivory) used to pluck a stringed instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small thin device (of metal or plastic or ivory) used to pluck a stringed instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"We do not make Mantic either godless or void of reason, when we give it the soul of man as its material, and the enthusiastic spirit and exhalation as its tool or plectron."*

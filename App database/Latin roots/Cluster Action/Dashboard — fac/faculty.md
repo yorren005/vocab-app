@@ -5,15 +5,6 @@ status: unread
 ---
 # faculty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the inherent cognitive or perceptual powers of the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of teachers and administrators at a school.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Having a faculty, matured on the tops of baggage-waggons and in other such positions, of resting easily anywhere, she perches on a rough bench, unties her bonnet-strings, pushes back her bonnet, crosses her arms, and looks perfectly comfortable."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The faculty of contrivance was worn out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the inherent cognitive or perceptual powers of the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of teachers and administrators at a school.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Having a faculty, matured on the tops of baggage-waggons and in other such positions, of resting easily anywhere, she perches on a rough bench, unties her bonnet-strings, pushes back her bonnet, crosses her arms, and looks perfectly comfortable."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The faculty of contrivance was worn out."*

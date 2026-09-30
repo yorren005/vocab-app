@@ -5,15 +5,6 @@ status: unread
 ---
 # monotonously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a monotonous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a monotonous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They tossed and turned on their little beds, and the cheese-wring dripped monotonously downstairs."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"There was little sound to be heard but the clang of weapons, an occasional screech or splash, and Slightly monotonously counting—five—six—seven—eight—nine—ten—eleven."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Still it went on, note after note ringing out monotonously through the still air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a monotonous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a monotonous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They tossed and turned on their little beds, and the cheese-wring dripped monotonously downstairs."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"There was little sound to be heard but the clang of weapons, an occasional screech or splash, and Slightly monotonously counting—five—six—seven—eight—nine—ten—eleven."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Still it went on, note after note ringing out monotonously through the still air."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # motortruck
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automotive vehicle suitable for hauling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automotive vehicle suitable for hauling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motortruck designates an automotive vehicle suitable for hauling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automotive vehicle suitable for hauling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automotive vehicle suitable for hauling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motortruck designates an automotive vehicle suitable for hauling."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intolerant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to tolerate difference of opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-minded about cherished opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"There are still stray remnants of the old intolerant distrust."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Were there not even these inducements to moderation, nothing could be more ill-judged than that intolerant spirit which has, at all times, characterized political parties."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I could not help smiling at this introduction of politics into gardening, though I expressed some apprehension that I should find the old gentleman rather intolerant in his creed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to tolerate difference of opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-minded about cherished opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"There are still stray remnants of the old intolerant distrust."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Were there not even these inducements to moderation, nothing could be more ill-judged than that intolerant spirit which has, at all times, characterized political parties."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I could not help smiling at this introduction of politics into gardening, though I expressed some apprehension that I should find the old gentleman rather intolerant in his creed."*

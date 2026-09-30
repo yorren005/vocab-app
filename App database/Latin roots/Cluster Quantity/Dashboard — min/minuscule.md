@@ -5,13 +5,6 @@ status: unread
 ---
 # minuscule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The characters that were once kept in bottom half of a compositor's type case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cursive script developed from uncial between the 7th and 9th centuries and used in medieval manuscripts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuscule designates the characters that were once kept in bottom half of a compositor's type case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characters that were once kept in bottom half of a compositor's type case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cursive script developed from uncial between the 7th and 9th centuries and used in medieval manuscripts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuscule designates the characters that were once kept in bottom half of a compositor's type case."*

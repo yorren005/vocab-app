@@ -5,13 +5,6 @@ status: unread
 ---
 # pettifoggery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarrel about petty points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quarrel about petty points.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pettifoggery designates a quarrel about petty points."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarrel about petty points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quarrel about petty points.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pettifoggery designates a quarrel about petty points."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # precognition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge of an event before it occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge of an event before it occurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precognition designates knowledge of an event before it occurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge of an event before it occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge of an event before it occurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precognition designates knowledge of an event before it occurs."*

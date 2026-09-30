@@ -5,15 +5,6 @@ status: unread
 ---
 # malay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people inhabiting the northern malay peninsula and malaysia and parts of the western malay archipelago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A western subfamily of western malayo-polynesian languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No turbaned Turk, no hired Venetian or Malay, could have smote him with more seeming malice."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I entered, a sallow Malay attendant had hurried up with a pipe for me and a supply of the drug, beckoning me to an empty berth."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A crooked smile, like a Malay crease, writhed across the face of one of the women."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people inhabiting the northern malay peninsula and malaysia and parts of the western malay archipelago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A western subfamily of western malayo-polynesian languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No turbaned Turk, no hired Venetian or Malay, could have smote him with more seeming malice."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I entered, a sallow Malay attendant had hurried up with a pipe for me and a supply of the drug, beckoning me to an empty berth."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A crooked smile, like a Malay crease, writhed across the face of one of the women."*

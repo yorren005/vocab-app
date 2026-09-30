@@ -5,15 +5,6 @@ status: unread
 ---
 # hallow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render holy by means of religious rites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this lies all within the will of God, To whom I do appeal; and in whose name Tell you the Dauphin I am coming on To venge me as I may, and to put forth My rightful hand in a well-hallow’d cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sword, I will hallow thee for this thy deed, And hang thee o’er my tomb when I am dead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we fairies, that do run By the triple Hecate’s team From the presence of the sun, Following darkness like a dream, Now are frolic; not a mouse Shall disturb this hallow’d house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render holy by means of religious rites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this lies all within the will of God, To whom I do appeal; and in whose name Tell you the Dauphin I am coming on To venge me as I may, and to put forth My rightful hand in a well-hallow’d cause."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sword, I will hallow thee for this thy deed, And hang thee o’er my tomb when I am dead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we fairies, that do run By the triple Hecate’s team From the presence of the sun, Following darkness like a dream, Now are frolic; not a mouse Shall disturb this hallow’d house."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plump
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound of a sudden heavy fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop sharply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Banish plump Jack, and banish all the world."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Castle-Steward," Mäzli said that moment, thrusting a plump, round hand between Leonore's and the Baron's."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a pretty, very diminutive, plump woman of from forty to fifty, with handsome eyes, though they had a curious habit of seeming to look a long way off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound of a sudden heavy fall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop sharply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Banish plump Jack, and banish all the world."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Castle-Steward," Mäzli said that moment, thrusting a plump, round hand between Leonore's and the Baron's."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was a pretty, very diminutive, plump woman of from forty to fifty, with handsome eyes, though they had a curious habit of seeming to look a long way off."*

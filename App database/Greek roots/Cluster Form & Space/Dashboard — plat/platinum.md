@@ -5,15 +5,6 @@ status: unread
 ---
 # platinum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"After about ten minutes a knock came to the door, and the servant entered, carrying a large mahogany chest of chemicals, with a long coil of steel and platinum wire and two rather curiously shaped iron clamps."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Removing the rubber tubes, he cut them into pieces, broke the porcelain disk, and, rolling up the platinum wire, washed it all down the sewer pipe."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The platinum, owing to a property it possesses in a high degree (which property however is not special to platinum), has the power of coercing the union of the hydrogen and oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"After about ten minutes a knock came to the door, and the servant entered, carrying a large mahogany chest of chemicals, with a long coil of steel and platinum wire and two rather curiously shaped iron clamps."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Removing the rubber tubes, he cut them into pieces, broke the porcelain disk, and, rolling up the platinum wire, washed it all down the sewer pipe."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The platinum, owing to a property it possesses in a high degree (which property however is not special to platinum), has the power of coercing the union of the hydrogen and oxygen."*

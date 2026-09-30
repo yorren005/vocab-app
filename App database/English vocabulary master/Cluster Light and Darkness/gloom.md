@@ -5,20 +5,6 @@ status: unread
 ---
 # gloom
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Loom up dimly
-> 2. **Nuance / Usage**: Be or become overcast
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"and had come out of the gloom within."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"revelations, that her gloom lessened as she basked in it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A smile broke through the gloom of Lydgate’s face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Loom up dimly
+> 2. **Nuance / Usage**: Be or become overcast
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"and had come out of the gloom within."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"revelations, that her gloom lessened as she basked in it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A smile broke through the gloom of Lydgate’s face."*

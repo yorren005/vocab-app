@@ -5,15 +5,6 @@ status: unread
 ---
 # parallax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent displacement of an object as seen from two different points that are not on a line with the object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent displacement of an object as seen from two different points that are not on a line with the object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Par it’s Greek: parallel, parallax."*
-> - 📜 **James Joyce (*Ulysses*):** *"Not go in and blurt out what you know you’re not to: what’s parallax?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Parallax stalks behind and goads them, the lancinating lightnings of whose brow are scorpions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent displacement of an object as seen from two different points that are not on a line with the object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent displacement of an object as seen from two different points that are not on a line with the object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Par it’s Greek: parallel, parallax."*
+> - 📜 **James Joyce (*Ulysses*):** *"Not go in and blurt out what you know you’re not to: what’s parallax?"*
+> - 📜 **James Joyce (*Ulysses*):** *"Parallax stalks behind and goads them, the lancinating lightnings of whose brow are scorpions."*

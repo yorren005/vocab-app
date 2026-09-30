@@ -5,15 +5,6 @@ status: unread
 ---
 # negotiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discuss the terms of an arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succeed in passing through, around, or over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you any commission from your lord to negotiate with my face?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Would it not enable us to negotiate, with the fairest prospect of success, for commercial privileges of the most valuable and extensive kind, in the dominions of that kingdom?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Refuses to negotiate this point." ## "Category one message, spunnel to Earth via Guardian Station 7."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discuss the terms of an arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succeed in passing through, around, or over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you any commission from your lord to negotiate with my face?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Would it not enable us to negotiate, with the fairest prospect of success, for commercial privileges of the most valuable and extensive kind, in the dominions of that kingdom?"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Refuses to negotiate this point." ## "Category one message, spunnel to Earth via Guardian Station 7."*

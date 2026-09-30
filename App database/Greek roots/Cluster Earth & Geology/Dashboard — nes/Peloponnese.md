@@ -5,13 +5,6 @@ status: unread
 ---
 # Peloponnese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Peninsula between the Ionian Sea and the Aegean Sea forming the southern part of the mainland of Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peninsula between the Ionian Sea and the Aegean Sea forming the southern part of the mainland of Greece.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Peloponnese designates peninsula between the ionian sea and the aegean sea forming the southern part of the mainland of greece."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peninsula between the Ionian Sea and the Aegean Sea forming the southern part of the mainland of Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peninsula between the Ionian Sea and the Aegean Sea forming the southern part of the mainland of Greece.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Peloponnese designates peninsula between the ionian sea and the aegean sea forming the southern part of the mainland of greece."*

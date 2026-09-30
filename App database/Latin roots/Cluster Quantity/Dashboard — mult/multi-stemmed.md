@@ -5,13 +5,6 @@ status: unread
 ---
 # multi-stemmed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many stems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-stemmed designates having many stems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many stems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multi-stemmed designates having many stems."*

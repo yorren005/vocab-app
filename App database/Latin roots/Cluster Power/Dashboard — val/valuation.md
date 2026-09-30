@@ -5,15 +5,6 @@ status: unread
 ---
 # valuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal of the value of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assessed price.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No reason I, since of your lives you set So slight a valuation, should reserve My crack’d one to more care."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This may be said to be a defect in an individual if he depends for his valuation more upon his appearance than upon his capacity to wear well, which Oak did not."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The task of the economist "as such" is the analysis of the economic valuation-aspects of these problems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal of the value of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assessed price.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No reason I, since of your lives you set So slight a valuation, should reserve My crack’d one to more care."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This may be said to be a defect in an individual if he depends for his valuation more upon his appearance than upon his capacity to wear well, which Oak did not."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The task of the economist "as such" is the analysis of the economic valuation-aspects of these problems."*

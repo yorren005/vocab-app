@@ -5,15 +5,6 @@ status: unread
 ---
 # verger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To this the verger applied a key; it was double locked, and opened with some difficulty, as if seldom used."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was the verger, who came to inform me that it was time to close the library."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Through this dark avenue I had a distant view of the cloisters, with the figure of an old verger in his black gown moving along their shadowy vaults, and seeming like a spectre from one of the neighboring tombs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To this the verger applied a key; it was double locked, and opened with some difficulty, as if seldom used."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was the verger, who came to inform me that it was time to close the library."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Through this dark avenue I had a distant view of the cloisters, with the figure of an old verger in his black gown moving along their shadowy vaults, and seeming like a spectre from one of the neighboring tombs."*

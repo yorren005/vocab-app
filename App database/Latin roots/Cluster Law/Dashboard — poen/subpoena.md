@@ -5,13 +5,6 @@ status: unread
 ---
 # subpoena
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve or summon with a subpoena.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subpoena designates a writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve or summon with a subpoena.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subpoena designates a writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court."*

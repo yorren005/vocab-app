@@ -5,20 +5,6 @@ status: unread
 ---
 # triumph
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Notable success
-> 2. **Nuance / Usage**: State of joy or exultation at success
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Being had to triumph, being lacked to hope."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And rebels’ arms triumph in massacres!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"When thou didst ride in triumph through the streets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A decisive victory, great conquest, or crowning achievement won after a difficult struggle; as a verb, to prevail gloriously.
+> 2. **Nuance / Usage**: The exultant joy or open jubilation felt upon succeeding, or (historically in ancient Rome) the grand ceremonial procession granted to a victorious general.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard II*):** *"Where were you when thou didst ride in **triumph** through the streets?"*
+> - 📜 **Rudyard Kipling (*If—*):** *"If you can meet with **Triumph** and Disaster and treat those two impostors just the same, yours is the Earth and everything that's in it."*
+> - 📜 **Samuel Johnson (*Boswell's Life of Johnson*):** *"A second marriage is the **triumph** of hope over experience."*

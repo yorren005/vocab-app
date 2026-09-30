@@ -5,15 +5,6 @@ status: unread
 ---
 # subscript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or symbol set or printed or written beneath or slightly below and to the side of another character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or printed below and to one side of another character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A single underscore after a symbol indicates a subscript."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Denoted subscripts by an underscore before a series of subscripted characters enclosed in curly braces, e.g."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Parentheses are used for subscripted numbers, for example 2 is represented by _{2} as in “Cu_{2}O”."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or symbol set or printed or written beneath or slightly below and to the side of another character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or printed below and to one side of another character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A single underscore after a symbol indicates a subscript."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Denoted subscripts by an underscore before a series of subscripted characters enclosed in curly braces, e.g."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Parentheses are used for subscripted numbers, for example 2 is represented by _{2} as in “Cu_{2}O”."*

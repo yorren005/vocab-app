@@ -5,15 +5,6 @@ status: unread
 ---
 # definable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being defined, limited, or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being defined, limited, or explained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"With a feeling of terror not very definable, she fixed her eyes on the staircase, and in a few moments it gave Henry to her view."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Peacock on a similar occasion had administered a series of boluses which were not otherwise definable than by their remarkable effect in bringing Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And some—frequently those who are definable as middle-aged youths, though not always—profess to have attained the same knowledge by other and converse experiences, and jauntily continue their indulgence in such experiences with terrible effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being defined, limited, or explained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being defined, limited, or explained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"With a feeling of terror not very definable, she fixed her eyes on the staircase, and in a few moments it gave Henry to her view."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Peacock on a similar occasion had administered a series of boluses which were not otherwise definable than by their remarkable effect in bringing Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And some—frequently those who are definable as middle-aged youths, though not always—profess to have attained the same knowledge by other and converse experiences, and jauntily continue their indulgence in such experiences with terrible effect."*

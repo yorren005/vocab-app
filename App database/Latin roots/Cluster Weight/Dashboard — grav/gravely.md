@@ -5,15 +5,6 @@ status: unread
 ---
 # gravely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grave and sober manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a severe or serious degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbit-sucker or a poulter’s hare."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, sir, whose story I have heard?” He nodded gravely."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grave and sober manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a severe or serious degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbit-sucker or a poulter’s hare."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, sir, whose story I have heard?” He nodded gravely."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*

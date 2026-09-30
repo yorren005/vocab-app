@@ -5,13 +5,6 @@ status: unread
 ---
 # patriarchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social organization marked by the supremacy of the father in the clan or family, the legal dependence of wives and children, and the reckoning of descent and inheritance in the male line; broadly : control by men of a disproportionately large share of power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A society or institution organized according to the principles or practices of patriarchy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchy designates social organization marked by the supremacy of the father in the clan or family, the legal dependence of wives and children, and the reckoning of descent and inheritance in the male line; broadly : control by men of a disproportionately large share of power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Social organization marked by the supremacy of the father in the clan or family, the legal dependence of wives and children, and the reckoning of descent and inheritance in the male line; broadly : control by men of a disproportionately large share of power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A society or institution organized according to the principles or practices of patriarchy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchy designates social organization marked by the supremacy of the father in the clan or family, the legal dependence of wives and children, and the reckoning of descent and inheritance in the male line; broadly : control by men of a disproportionately large share of power."*

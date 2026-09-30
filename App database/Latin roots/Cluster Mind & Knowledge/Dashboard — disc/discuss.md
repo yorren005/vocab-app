@@ -5,15 +5,6 @@ status: unread
 ---
 # discuss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic competition in which a disk-shaped object is thrown as far as possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disk used in throwing competitions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The concavities of it is not sufficient; for, look you, the athversary, you may discuss unto the Duke, look you, is digt himself four yard under the countermines."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discuss unto me; art thou officer?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discuss the same in French unto him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic competition in which a disk-shaped object is thrown as far as possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disk used in throwing competitions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The concavities of it is not sufficient; for, look you, the athversary, you may discuss unto the Duke, look you, is digt himself four yard under the countermines."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discuss unto me; art thou officer?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discuss the same in French unto him."*

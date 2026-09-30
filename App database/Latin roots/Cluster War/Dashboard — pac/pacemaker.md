@@ -5,13 +5,6 @@ status: unread
 ---
 # pacemaker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading instance in its field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized bit of heart tissue that controls the heartbeat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacemaker designates a leading instance in its field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading instance in its field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized bit of heart tissue that controls the heartbeat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacemaker designates a leading instance in its field."*

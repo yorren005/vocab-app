@@ -5,15 +5,6 @@ status: unread
 ---
 # concession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contract granting the right to operate a subsidiary business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conceding or yielding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"One observes my Lady, how recognisant of my Lord’s politeness, with an inclination of her gracious head and the concession of her so-genteel fingers!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The “friend” was d’Urberville, she knew, and also that this concession had been granted in obedience to the request of that friend, or enemy."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Speaking silence, dumb confession, Passion’s birth, and infant’s play, Dove-like fondness, chaste concession, Glowing dawn of future day!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contract granting the right to operate a subsidiary business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conceding or yielding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"One observes my Lady, how recognisant of my Lord’s politeness, with an inclination of her gracious head and the concession of her so-genteel fingers!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The “friend” was d’Urberville, she knew, and also that this concession had been granted in obedience to the request of that friend, or enemy."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Speaking silence, dumb confession, Passion’s birth, and infant’s play, Dove-like fondness, chaste concession, Glowing dawn of future day!"*

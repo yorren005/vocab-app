@@ -5,15 +5,6 @@ status: unread
 ---
 # instructive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to instruct or enlighten or inform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to instruct or enlighten or inform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Their conversation was, indeed, most instructive; for the future, it seems, had no secret worth mentioning for them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her fate is recorded in the _Philosophical Transactions_ as a case of spontaneous combustion."[755] [In burning the bewitched animal you burn the witch herself.] This last anecdote is instructive, if perhaps not strictly authentic."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"This little paper, 'The Youth's Companion,' strikes me as very entertaining and instructive, also of excellent moral tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to instruct or enlighten or inform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to instruct or enlighten or inform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Their conversation was, indeed, most instructive; for the future, it seems, had no secret worth mentioning for them."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her fate is recorded in the _Philosophical Transactions_ as a case of spontaneous combustion."[755] [In burning the bewitched animal you burn the witch herself.] This last anecdote is instructive, if perhaps not strictly authentic."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"This little paper, 'The Youth's Companion,' strikes me as very entertaining and instructive, also of excellent moral tone."*

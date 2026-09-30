@@ -5,13 +5,6 @@ status: unread
 ---
 # undissolved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retaining a solid form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining a solid form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After the proper time, which is found by experiment, the liquid is drawn off, and in some cases the concentrates are given a second dose to ensure that the gold shall be thoroughly removed and none left undissolved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retaining a solid form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining a solid form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After the proper time, which is found by experiment, the liquid is drawn off, and in some cases the concentrates are given a second dose to ensure that the gold shall be thoroughly removed and none left undissolved."*

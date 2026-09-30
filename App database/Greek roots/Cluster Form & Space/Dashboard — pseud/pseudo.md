@@ -5,15 +5,6 @@ status: unread
 ---
 # pseudo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often used in combination) not genuine but having the appearance of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is easily distinguishable from various forms of pseudo-saving of which many persons that are really spending all their incomes are very proud."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Pseudo-gravity enhancers during construction stabilized the floors."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The lead guard, who had appeared a moment before on the screen, stepped off the ladder leading from the lower level and glided forward in the light pseudo-gravity followed by the six prisoners he had escorted from the transport."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often used in combination) not genuine but having the appearance of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is easily distinguishable from various forms of pseudo-saving of which many persons that are really spending all their incomes are very proud."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Pseudo-gravity enhancers during construction stabilized the floors."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The lead guard, who had appeared a moment before on the screen, stepped off the ladder leading from the lower level and glided forward in the light pseudo-gravity followed by the six prisoners he had escorted from the transport."*

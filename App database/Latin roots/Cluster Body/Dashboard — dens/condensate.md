@@ -5,13 +5,6 @@ status: unread
 ---
 # condensate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of condensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Atmospheric moisture that has condensed because of cold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condensate designates a product of condensation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of condensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Atmospheric moisture that has condensed because of cold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condensate designates a product of condensation."*

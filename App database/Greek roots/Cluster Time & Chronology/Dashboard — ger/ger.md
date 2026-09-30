@@ -5,15 +5,6 @@ status: unread
 ---
 # ger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: gerund.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German; Germany.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Those he wrote about Gerákov: ‘Lectures for the corps inditing’..."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Gerásim, that sallow beardless old man Pierre had seen at Torzhók five years before with Joseph Bazdéev, came out in answer to his knock."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was a very clever man but has now grown quite feeble, as your honor sees,” said Gerásim."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: gerund.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German; Germany.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Those he wrote about Gerákov: ‘Lectures for the corps inditing’..."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Gerásim, that sallow beardless old man Pierre had seen at Torzhók five years before with Joseph Bazdéev, came out in answer to his knock."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was a very clever man but has now grown quite feeble, as your honor sees,” said Gerásim."*

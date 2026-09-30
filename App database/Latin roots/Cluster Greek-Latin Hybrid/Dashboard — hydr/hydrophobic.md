@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrophobic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking affinity for water; tending to repel and not absorb water; tending not to dissolve in or mix with or be wetted by water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally afraid of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophobic designates lacking affinity for water; tending to repel and not absorb water; tending not to dissolve in or mix with or be wetted by water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking affinity for water; tending to repel and not absorb water; tending not to dissolve in or mix with or be wetted by water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally afraid of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophobic designates lacking affinity for water; tending to repel and not absorb water; tending not to dissolve in or mix with or be wetted by water."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pre-emptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pre-emptive designates designed or having the power to deter or prevent an anticipated situation or occurrence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pre-emptive designates designed or having the power to deter or prevent an anticipated situation or occurrence."*

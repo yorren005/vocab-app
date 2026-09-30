@@ -5,13 +5,6 @@ status: unread
 ---
 # leukocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the number of white blood cells in the circulating blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increase in the number of white blood cells in the circulating blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukocytosis designates an increase in the number of white blood cells in the circulating blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the number of white blood cells in the circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increase in the number of white blood cells in the circulating blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukocytosis designates an increase in the number of white blood cells in the circulating blood."*

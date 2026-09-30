@@ -5,13 +5,6 @@ status: unread
 ---
 # sudoku
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudoku designates a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudoku designates a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number."*

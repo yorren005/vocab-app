@@ -5,15 +5,6 @@ status: unread
 ---
 # module
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the inherent cognitive or perceptual powers of the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detachable compartment of a spacecraft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, bring forth this counterfeit module has deceiv’d me like a double-meaning prophesier."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart hath one poor string to stay it by, Which holds but till thy news be uttered; And then all this thou seest is but a clod And module of confounded royalty."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the inherent cognitive or perceptual powers of the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detachable compartment of a spacecraft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, bring forth this counterfeit module has deceiv’d me like a double-meaning prophesier."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart hath one poor string to stay it by, Which holds but till thy news be uttered; And then all this thou seest is but a clod And module of confounded royalty."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*

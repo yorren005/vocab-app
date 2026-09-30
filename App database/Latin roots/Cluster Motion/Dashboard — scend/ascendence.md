@@ -5,13 +5,6 @@ status: unread
 ---
 # ascendence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendence designates the state that exists when one person or group has power over another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendence designates the state that exists when one person or group has power over another."*

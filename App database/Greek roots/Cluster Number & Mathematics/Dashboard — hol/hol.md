@@ -5,15 +5,6 @@ status: unread
 ---
 # hol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete : total.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely : totally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her strappin limb and gausy middle (He reach’d nae higher) Had hol’d his heartie like a riddle, An’ blawn’t on fire."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had nearly holed my cripple, to finish off that charming trip."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"For instance, in one WW2 mission, of 178 B-24s dispatched to bomb Ploesti, 52 were lost, and all but 35 aircraft suffered damage, one limping home after 14 hours and holed in 365 places."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete : total.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely : totally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her strappin limb and gausy middle (He reach’d nae higher) Had hol’d his heartie like a riddle, An’ blawn’t on fire."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had nearly holed my cripple, to finish off that charming trip."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"For instance, in one WW2 mission, of 178 B-24s dispatched to bomb Ploesti, 52 were lost, and all but 35 aircraft suffered damage, one limping home after 14 hours and holed in 365 places."*

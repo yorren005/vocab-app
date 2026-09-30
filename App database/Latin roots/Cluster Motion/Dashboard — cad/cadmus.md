@@ -5,13 +5,6 @@ status: unread
 ---
 # cadmus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the brother of europa and traditional founder of thebes in boeotia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the brother of europa and traditional founder of thebes in boeotia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was with Hercules and Cadmus once, When in a wood of Crete they bay’d the bear With hounds of Sparta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the brother of europa and traditional founder of thebes in boeotia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the brother of europa and traditional founder of thebes in boeotia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was with Hercules and Cadmus once, When in a wood of Crete they bay’d the bear With hounds of Sparta."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bellowing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very loud utterance (like the sound of an animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shout loudly and without restraint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles we stood here securing your repose, Even now, we heard a hollow burst of bellowing Like bulls, or rather lions; did ’t not wake you?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I did not remember the crawling and the bellowing in the ancient slime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very loud utterance (like the sound of an animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shout loudly and without restraint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles we stood here securing your repose, Even now, we heard a hollow burst of bellowing Like bulls, or rather lions; did ’t not wake you?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I did not remember the crawling and the bellowing in the ancient slime."*

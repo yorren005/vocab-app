@@ -5,15 +5,6 @@ status: unread
 ---
 # transfiguration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) a church festival held in commemoration of the transfiguration of jesus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) the sudden emanation of radiance from the person of jesus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was less a reform than a transfiguration."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The only other noteworthy objects in the study were two splendid engravings of Raphael's "Transfiguration" and "Spasimo" (the former bearing the signature of Raphael Morghen), which had been a gift to him from Mrs."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Prayer is associated with the confession of Caesarea Philippi (Luke 9:18), with the Mount of Transfiguration (Luke 9:29), with Gethsemane (Luke 22:41)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) a church festival held in commemoration of the transfiguration of jesus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) the sudden emanation of radiance from the person of jesus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was less a reform than a transfiguration."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The only other noteworthy objects in the study were two splendid engravings of Raphael's "Transfiguration" and "Spasimo" (the former bearing the signature of Raphael Morghen), which had been a gift to him from Mrs."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Prayer is associated with the confession of Caesarea Philippi (Luke 9:18), with the Mount of Transfiguration (Luke 9:29), with Gethsemane (Luke 22:41)."*

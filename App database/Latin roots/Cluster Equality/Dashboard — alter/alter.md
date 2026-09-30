@@ -5,15 +5,6 @@ status: unread
 ---
 # alter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change; make different; cause a transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become different in some particular way, without permanently losing one's or its former characteristics or essence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, sir! is your merry humour alter’d?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t possible that so short a time can alter the condition of a man?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change; make different; cause a transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become different in some particular way, without permanently losing one's or its former characteristics or essence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, sir! is your merry humour alter’d?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t possible that so short a time can alter the condition of a man?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ungraded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of roads) not leveled or drained; unsuitable for all year travel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged in order hierarchically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungraded designates (of roads) not leveled or drained; unsuitable for all year travel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of roads) not leveled or drained; unsuitable for all year travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged in order hierarchically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungraded designates (of roads) not leveled or drained; unsuitable for all year travel."*

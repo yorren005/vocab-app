@@ -5,13 +5,6 @@ status: unread
 ---
 # tabouret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low stool in the shape of a drum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low stool in the shape of a drum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabouret designates a low stool in the shape of a drum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low stool in the shape of a drum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low stool in the shape of a drum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabouret designates a low stool in the shape of a drum."*

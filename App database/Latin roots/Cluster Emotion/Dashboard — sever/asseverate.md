@@ -5,15 +5,6 @@ status: unread
 ---
 # asseverate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State categorically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I should not for instance have been able to asseverate to my friend that I was certain—which was so much to the good—that _I_ at least had not betrayed myself."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I think we must forgive him for that part of it this time if he will promise never to say what isn’t true again.” “I never will, now that I know it’s bad,” asseverated Davy between sobs."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"He is . . . he says he is himself,” asseverated Davy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State categorically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I should not for instance have been able to asseverate to my friend that I was certain—which was so much to the good—that _I_ at least had not betrayed myself."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I think we must forgive him for that part of it this time if he will promise never to say what isn’t true again.” “I never will, now that I know it’s bad,” asseverated Davy between sobs."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"He is . . . he says he is himself,” asseverated Davy."*

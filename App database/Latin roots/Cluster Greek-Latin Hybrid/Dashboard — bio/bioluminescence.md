@@ -5,13 +5,6 @@ status: unread
 ---
 # bioluminescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Luminescence produced by physiological processes (as in the firefly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Luminescence produced by physiological processes (as in the firefly).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioluminescence designates luminescence produced by physiological processes (as in the firefly)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Luminescence produced by physiological processes (as in the firefly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Luminescence produced by physiological processes (as in the firefly).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioluminescence designates luminescence produced by physiological processes (as in the firefly)."*

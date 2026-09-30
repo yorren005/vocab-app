@@ -5,15 +5,6 @@ status: unread
 ---
 # hodometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hodometer may refer to:a dated term for odometer, a device for measuring distance travelled by a vehicle
-a surveyor's wheel, a device for measuring distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hodometer may refer to:a dated term for odometer, a device for measuring distance travelled by a vehicle
-a surveyor's wheel, a device for measuring distance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodometer designates hodometer may refer to:a dated term for odometer, a device for measuring distance travelled by a vehicle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hodometer may refer to:a dated term for odometer, a device for measuring distance travelled by a vehicle
+a surveyor's wheel, a device for measuring distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hodometer may refer to:a dated term for odometer, a device for measuring distance travelled by a vehicle
+a surveyor's wheel, a device for measuring distance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodometer designates hodometer may refer to:a dated term for odometer, a device for measuring distance travelled by a vehicle."*

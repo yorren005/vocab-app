@@ -5,15 +5,6 @@ status: unread
 ---
 # resentment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But what did you think upon the road?” “Wot do you mean?” growled Coavinses with an appearance of strong resentment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t believe he had any idea of taking aim at anybody, but he was in that condition of resentment and violence that he would come and pay for fifty shots and fire away till he was red hot."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I remembered my guardian’s gentleness towards his errors and with what perfect freedom from resentment he had spoken of them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But what did you think upon the road?” “Wot do you mean?” growled Coavinses with an appearance of strong resentment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t believe he had any idea of taking aim at anybody, but he was in that condition of resentment and violence that he would come and pay for fifty shots and fire away till he was red hot."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I remembered my guardian’s gentleness towards his errors and with what perfect freedom from resentment he had spoken of them."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # saltiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language or humor that is down-to-earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taste experience when common salt is taken into the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltiness designates language or humor that is down-to-earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Language or humor that is down-to-earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taste experience when common salt is taken into the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltiness designates language or humor that is down-to-earth."*

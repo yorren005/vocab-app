@@ -5,15 +5,6 @@ status: unread
 ---
 # heretical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by departure from accepted beliefs or standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by departure from accepted beliefs or standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered back to my young days when I had sat at the feet of Arius, who had been a presbyter of the city of Alexandria, and who had been robbed of the bishopric by the blasphemous and heretical Alexander."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Blasphemous and heretical Warden of San Quentin whose feet have fast hold of hell,” I gibed, after I had drunk deep of the water they held to my lips."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Private judgment run mad was the mark of all Christians, orthodox and heretical,--"men walling themselves off and isolating themselves from mankind"[4]--and his thesis was that the whole spirit of the movement was wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by departure from accepted beliefs or standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by departure from accepted beliefs or standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered back to my young days when I had sat at the feet of Arius, who had been a presbyter of the city of Alexandria, and who had been robbed of the bishopric by the blasphemous and heretical Alexander."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Blasphemous and heretical Warden of San Quentin whose feet have fast hold of hell,” I gibed, after I had drunk deep of the water they held to my lips."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Private judgment run mad was the mark of all Christians, orthodox and heretical,--"men walling themselves off and isolating themselves from mankind"[4]--and his thesis was that the whole spirit of the movement was wrong."*

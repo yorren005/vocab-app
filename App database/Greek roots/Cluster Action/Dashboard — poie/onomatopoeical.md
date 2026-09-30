@@ -5,13 +5,6 @@ status: unread
 ---
 # onomatopoeical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeical designates (of words) formed in imitation of a natural sound; ; - harry hoijer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeical designates (of words) formed in imitation of a natural sound; ; - harry hoijer."*

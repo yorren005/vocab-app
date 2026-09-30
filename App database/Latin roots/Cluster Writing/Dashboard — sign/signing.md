@@ -5,15 +5,6 @@ status: unread
 ---
 # signing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language expressed by visible hand gestures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's signature; write one's name (on).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do you know,” Lady Dedlock asks her, signing to her to bring her chair nearer, “do you know, Rosa, that I am different to you from what I am to any one?” “Yes, my Lady."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Return thanks to God for two men signing the pledge, about one month ago, who have been enabled to keep it through great temptation. _They were drunkards for over twenty years_."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When all preliminaries were over and Peleg had got everything ready for signing, he turned to me and said, “I guess, Quohog there don’t know how to write, does he?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Language expressed by visible hand gestures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's signature; write one's name (on).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Do you know,” Lady Dedlock asks her, signing to her to bring her chair nearer, “do you know, Rosa, that I am different to you from what I am to any one?” “Yes, my Lady."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Return thanks to God for two men signing the pledge, about one month ago, who have been enabled to keep it through great temptation. _They were drunkards for over twenty years_."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When all preliminaries were over and Peleg had got everything ready for signing, he turned to me and said, “I guess, Quohog there don’t know how to write, does he?"*

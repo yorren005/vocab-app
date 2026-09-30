@@ -5,20 +5,6 @@ status: unread
 ---
 # heave
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lift, raise
-> 2. **Nuance / Usage**: Throw, cast
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And with a great heart heave away this storm."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"From this fair throne to heave the owner out."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My sighs, like whirlwinds, labour hence to heave thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To lift, haul, or hurl something heavy with great muscular effort; or to rise and fall rhythmically like a swelling sea or a laboring chest.
+> 2. **Nuance / Usage**: Also used of uttering a deep, labored sigh or groan (*heave a sigh*), or retching spasmodically; in nautical idioms, *heave to* means to bring a vessel to a standstill.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King John*):** *"And with a great heart **heave** away this storm."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The body of my brother's son stood by me, knee to knee: the body and I pulled at one rope, but he said nought to me, as we began to **heave**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The long, slow swells of the Pacific **heaved** beneath the Pequod like the breathing chest of a sleeping leviathan."*

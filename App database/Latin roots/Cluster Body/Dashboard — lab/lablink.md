@@ -5,13 +5,6 @@ status: unread
 ---
 # lablink
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense laboratory that provides essential services in fundamental science for national security and environmental protection and provides technologies that contribute to industrial competitiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defense laboratory that provides essential services in fundamental science for national security and environmental protection and provides technologies that contribute to industrial competitiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lablink designates a defense laboratory that provides essential services in fundamental science for national security and environmental protection and provides technologies that contribute to industrial competitiveness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense laboratory that provides essential services in fundamental science for national security and environmental protection and provides technologies that contribute to industrial competitiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defense laboratory that provides essential services in fundamental science for national security and environmental protection and provides technologies that contribute to industrial competitiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lablink designates a defense laboratory that provides essential services in fundamental science for national security and environmental protection and provides technologies that contribute to industrial competitiveness."*

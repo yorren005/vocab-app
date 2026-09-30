@@ -5,15 +5,6 @@ status: unread
 ---
 # explorer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who travels into little known regions (especially for some scientific purpose).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial browser.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Chesapeake Bay was missed by one explorer."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A later explorer came, and where the map showed a shore without a break, he found a huge inlet or outlet."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Luther, for example, is a great spirit of the explorer type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who travels into little known regions (especially for some scientific purpose).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial browser.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Chesapeake Bay was missed by one explorer."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A later explorer came, and where the map showed a shore without a break, he found a huge inlet or outlet."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Luther, for example, is a great spirit of the explorer type."*

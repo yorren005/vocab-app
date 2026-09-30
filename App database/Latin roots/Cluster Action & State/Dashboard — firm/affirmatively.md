@@ -5,15 +5,6 @@ status: unread
 ---
 # affirmatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affirmative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affirmative manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Stanhope answered affirmatively."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Whatever happens to you,” he said, “you must bear it all manfully if you have firmly resolved to join our Brotherhood.” (Pierre nodded affirmatively.) “When you hear a knock at the door, you will uncover your eyes,” added Willarski."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I hear you have made peace with Turkey?” Balashëv bowed his head affirmatively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affirmative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affirmative manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Stanhope answered affirmatively."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Whatever happens to you,” he said, “you must bear it all manfully if you have firmly resolved to join our Brotherhood.” (Pierre nodded affirmatively.) “When you hear a knock at the door, you will uncover your eyes,” added Willarski."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I hear you have made peace with Turkey?” Balashëv bowed his head affirmatively."*

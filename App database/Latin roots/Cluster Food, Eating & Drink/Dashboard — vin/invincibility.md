@@ -5,13 +5,6 @@ status: unread
 ---
 # invincibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property being difficult or impossible to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property being difficult or impossible to defeat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Kutúzov alone at last gains a real victory, destroying the spell of the invincibility of the French, and the Minister of War does not even care to hear the details.” “That’s just it, my dear fellow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property being difficult or impossible to defeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property being difficult or impossible to defeat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Kutúzov alone at last gains a real victory, destroying the spell of the invincibility of the French, and the Minister of War does not even care to hear the details.” “That’s just it, my dear fellow."*

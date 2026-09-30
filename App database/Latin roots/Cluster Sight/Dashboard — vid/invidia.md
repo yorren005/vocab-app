@@ -5,13 +5,6 @@ status: unread
 ---
 # invidia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spite and resentment at seeing the success of another (personified as one of the deadly sins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spite and resentment at seeing the success of another (personified as one of the deadly sins).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invidia designates spite and resentment at seeing the success of another (personified as one of the deadly sins)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spite and resentment at seeing the success of another (personified as one of the deadly sins).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spite and resentment at seeing the success of another (personified as one of the deadly sins).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invidia designates spite and resentment at seeing the success of another (personified as one of the deadly sins)."*

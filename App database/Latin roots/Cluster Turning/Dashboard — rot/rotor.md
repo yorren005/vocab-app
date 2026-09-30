@@ -5,13 +5,6 @@ status: unread
 ---
 # rotor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rotating armature of a motor or generator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The revolving bar of a distributor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotor designates the rotating armature of a motor or generator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rotating armature of a motor or generator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The revolving bar of a distributor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotor designates the rotating armature of a motor or generator."*

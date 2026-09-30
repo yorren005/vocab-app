@@ -5,15 +5,6 @@ status: unread
 ---
 # bastion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group that defends a principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stronghold into which people could go for shelter during a battle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The whole of the north side is very majestic, ending in the return of a bastion to the east."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had a low and unassuming aspect from this upland, though as approached on the other side from Blackmoor in her childhood they were as lofty bastions against the sky."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The circuit of the walls, which were built in the reign of Elizabeth, with their bastions, "mounts," and gates, is still practically complete, and is preserved with care and pride."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group that defends a principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stronghold into which people could go for shelter during a battle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The whole of the north side is very majestic, ending in the return of a bastion to the east."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had a low and unassuming aspect from this upland, though as approached on the other side from Blackmoor in her childhood they were as lofty bastions against the sky."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The circuit of the walls, which were built in the reign of Elizabeth, with their bastions, "mounts," and gates, is still practically complete, and is preserved with care and pride."*

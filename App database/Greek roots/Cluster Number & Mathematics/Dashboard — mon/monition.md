@@ -5,15 +5,6 @@ status: unread
 ---
 # monition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm rebuke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cautionary advice about something imminent (especially imminent danger or other unpleasantness).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet growls, “Old girl!” and winks monitions to her to find out what’s the matter."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor are these monitions at all unneeded."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor are these monitions at all unneeded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm rebuke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cautionary advice about something imminent (especially imminent danger or other unpleasantness).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet growls, “Old girl!” and winks monitions to her to find out what’s the matter."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor are these monitions at all unneeded."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor are these monitions at all unneeded."*

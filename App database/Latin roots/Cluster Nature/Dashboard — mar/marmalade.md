@@ -5,15 +5,6 @@ status: unread
 ---
 # marmalade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preserve made of the pulp and rind of citrus fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preserve made of the pulp and rind of citrus fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lays in a breakfast of two mutton chops as a foundation to work upon, together with tea, eggs, toast, and marmalade on a corresponding scale."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What matter was it that on the outside of the jar the eye of mere observation noted the words “Keelwell’s Marmalade”?"*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"As we were nearing the land of hotels, I emptied my tiffin basket here, making my hosts and their friends happy with tins of jam and marmalade and sardines and beef extract, not to mention enamelled cups and plates and stew-pans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preserve made of the pulp and rind of citrus fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preserve made of the pulp and rind of citrus fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lays in a breakfast of two mutton chops as a foundation to work upon, together with tea, eggs, toast, and marmalade on a corresponding scale."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What matter was it that on the outside of the jar the eye of mere observation noted the words “Keelwell’s Marmalade”?"*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"As we were nearing the land of hotels, I emptied my tiffin basket here, making my hosts and their friends happy with tins of jam and marmalade and sardines and beef extract, not to mention enamelled cups and plates and stew-pans."*

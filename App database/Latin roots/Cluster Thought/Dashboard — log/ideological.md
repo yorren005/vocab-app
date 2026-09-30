@@ -5,13 +5,6 @@ status: unread
 ---
 # ideological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or suggestive of ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideological designates of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or suggestive of ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideological designates of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation."*

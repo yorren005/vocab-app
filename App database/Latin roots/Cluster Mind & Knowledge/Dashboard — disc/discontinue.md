@@ -5,15 +5,6 @@ status: unread
 ---
 # discontinue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put an end to a state or an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to or be at an end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, for your many courtesies I thank you: I must discontinue your company."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He wrote that he had decided to discontinue the studies with them next fall, but that he would be only too glad to be of assistance to Mrs."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Any one can discontinue on paying up arrearages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put an end to a state or an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to or be at an end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, for your many courtesies I thank you: I must discontinue your company."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He wrote that he had decided to discontinue the studies with them next fall, but that he would be only too glad to be of assistance to Mrs."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Any one can discontinue on paying up arrearages."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # laboursaving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to replace or conserve human and especially manual labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to replace or conserve human and especially manual labor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Laboursaving apparatuses, supplanters, bugbears, manufactured monsters for mutual murder, hideous hobgoblins produced by a horde of capitalistic lusts upon our prostituted labour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to replace or conserve human and especially manual labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to replace or conserve human and especially manual labor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Laboursaving apparatuses, supplanters, bugbears, manufactured monsters for mutual murder, hideous hobgoblins produced by a horde of capitalistic lusts upon our prostituted labour."*

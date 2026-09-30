@@ -5,13 +5,6 @@ status: unread
 ---
 # labium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A liplike structure that bounds a bodily orifice (especially any of the four labiate folds of a woman's vulva).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liplike structure that bounds a bodily orifice (especially any of the four labiate folds of a woman's vulva).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labium designates a liplike structure that bounds a bodily orifice (especially any of the four labiate folds of a woman's vulva)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liplike structure that bounds a bodily orifice (especially any of the four labiate folds of a woman's vulva).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liplike structure that bounds a bodily orifice (especially any of the four labiate folds of a woman's vulva).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labium designates a liplike structure that bounds a bodily orifice (especially any of the four labiate folds of a woman's vulva)."*

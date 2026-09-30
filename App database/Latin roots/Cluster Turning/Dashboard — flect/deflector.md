@@ -5,13 +5,6 @@ status: unread
 ---
 # deflector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device intended to turn aside the flow of something (water or air or smoke etc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device intended to turn aside the flow of something (water or air or smoke etc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device intended to turn aside the flow of something (water or air or smoke etc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device intended to turn aside the flow of something (water or air or smoke etc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*

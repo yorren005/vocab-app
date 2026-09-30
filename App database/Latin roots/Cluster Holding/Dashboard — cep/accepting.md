@@ -5,15 +5,6 @@ status: unread
 ---
 # accepting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Though I fully believe that, at present, you have not the smallest intention of accepting him, there is no saying what may happen."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood, that though I respect you much, I do not feel—what would justify me to—in accepting your offer,” she stammered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Though I fully believe that, at present, you have not the smallest intention of accepting him, there is no saying what may happen."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood, that though I respect you much, I do not feel—what would justify me to—in accepting your offer,” she stammered."*

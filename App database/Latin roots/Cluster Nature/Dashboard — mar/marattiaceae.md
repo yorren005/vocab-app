@@ -5,13 +5,6 @@ status: unread
 ---
 # marattiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting the order marattiales: chiefly tropical eusporangiate ferns with gigantic fronds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting the order marattiales: chiefly tropical eusporangiate ferns with gigantic fronds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marattiaceae designates constituting the order marattiales: chiefly tropical eusporangiate ferns with gigantic fronds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting the order marattiales: chiefly tropical eusporangiate ferns with gigantic fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting the order marattiales: chiefly tropical eusporangiate ferns with gigantic fronds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marattiaceae designates constituting the order marattiales: chiefly tropical eusporangiate ferns with gigantic fronds."*

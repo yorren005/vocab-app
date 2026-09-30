@@ -5,13 +5,6 @@ status: unread
 ---
 # halesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous small trees or shrubs of china and eastern north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous small trees or shrubs of china and eastern north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halesia designates deciduous small trees or shrubs of china and eastern north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous small trees or shrubs of china and eastern north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous small trees or shrubs of china and eastern north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halesia designates deciduous small trees or shrubs of china and eastern north america."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parisian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of paris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of paris or its inhabitants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He was naturally a chatterbox and brimful of a Parisian's salted malice, even after six years in the service of Captain Hyde, who did not encourage his attendants to be communicative."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The officers’ regimentals, resplendent with gold lace and embroidery as if purposely calculated to dazzle the islanders, looked as if just unpacked from their Parisian cases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of paris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of paris or its inhabitants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He was naturally a chatterbox and brimful of a Parisian's salted malice, even after six years in the service of Captain Hyde, who did not encourage his attendants to be communicative."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The officers’ regimentals, resplendent with gold lace and embroidery as if purposely calculated to dazzle the islanders, looked as if just unpacked from their Parisian cases."*

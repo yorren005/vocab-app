@@ -5,15 +5,6 @@ status: unread
 ---
 # globular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a sphere or ball; ; ; - zane grey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Peering over the side you could just see them (as before you heard them) wallowing in the sullen, black waters, and turning over on their backs as they scooped out huge globular pieces of the whale of the bigness of a human head."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is the Archbishop of Savesoul’s income of £100,000 seized from the scant bread and cheese of hundreds of thousands of broken-backed laborers (all sure of heaven without any of Savesoul’s help) what is that globular 100,000 but a Fast-Fish?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They had dumplings too; small, but substantial, symmetrically globular, and indestructible dumplings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a sphere or ball; ; ; - zane grey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Peering over the side you could just see them (as before you heard them) wallowing in the sullen, black waters, and turning over on their backs as they scooped out huge globular pieces of the whale of the bigness of a human head."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is the Archbishop of Savesoul’s income of £100,000 seized from the scant bread and cheese of hundreds of thousands of broken-backed laborers (all sure of heaven without any of Savesoul’s help) what is that globular 100,000 but a Fast-Fish?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They had dumplings too; small, but substantial, symmetrically globular, and indestructible dumplings."*

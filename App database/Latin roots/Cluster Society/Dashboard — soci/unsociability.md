@@ -5,13 +5,6 @@ status: unread
 ---
 # unsociability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsociable disposition; avoiding friendship or companionship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsociable disposition; avoiding friendship or companionship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Nanaue had one good quality that seemed to redeem his apparent unsociability; he was almost always to be seen working in his mother's taro or potato patch when not fishing or bathing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsociable disposition; avoiding friendship or companionship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsociable disposition; avoiding friendship or companionship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Nanaue had one good quality that seemed to redeem his apparent unsociability; he was almost always to be seen working in his mother's taro or potato patch when not fishing or bathing."*

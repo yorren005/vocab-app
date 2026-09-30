@@ -5,13 +5,6 @@ status: unread
 ---
 # intergalactic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among galaxies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among galaxies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intergalactic designates between or among galaxies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among galaxies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among galaxies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intergalactic designates between or among galaxies."*

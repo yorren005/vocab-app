@@ -5,15 +5,6 @@ status: unread
 ---
 # thane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feudal lord or baron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man ranking above an ordinary freeman and below a noble in anglo-saxon england (especially one who gave military service in exchange for land).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whence cam’st thou, worthy thane?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more that Thane of Cawdor shall deceive Our bosom interest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All hail, Macbeth! hail to thee, Thane of Glamis!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feudal lord or baron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man ranking above an ordinary freeman and below a noble in anglo-saxon england (especially one who gave military service in exchange for land).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whence cam’st thou, worthy thane?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more that Thane of Cawdor shall deceive Our bosom interest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All hail, Macbeth! hail to thee, Thane of Glamis!"*

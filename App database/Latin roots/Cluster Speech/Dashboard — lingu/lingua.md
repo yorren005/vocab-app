@@ -5,13 +5,6 @@ status: unread
 ---
 # lingua
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Leemius, _De Lapponibus Finmarchiae eorumque lingua vita et religione pristina_ (Copenhagen, 1767), p. 494. [234] E.W."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Leemius, _De Lapponibus Finmarchiae eorumque lingua vita et religione pristina_ (Copenhagen, 1767), p. 494. [234] E.W."*

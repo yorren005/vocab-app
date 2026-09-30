@@ -5,13 +5,6 @@ status: unread
 ---
 # emote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression or emotion to, in a stage or movie role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression or emotion to, in a stage or movie role.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emote designates give expression or emotion to, in a stage or movie role."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression or emotion to, in a stage or movie role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression or emotion to, in a stage or movie role.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emote designates give expression or emotion to, in a stage or movie role."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # geomorphology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the relief features of the earth or of another celestial body (such as the moon) and seeks an interpretation of them based on their origins and development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The features dealt with in geomorphology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geomorphology designates a science that deals with the relief features of the earth or of another celestial body (such as the moon) and seeks an interpretation of them based on their origins and development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the relief features of the earth or of another celestial body (such as the moon) and seeks an interpretation of them based on their origins and development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The features dealt with in geomorphology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geomorphology designates a science that deals with the relief features of the earth or of another celestial body (such as the moon) and seeks an interpretation of them based on their origins and development."*

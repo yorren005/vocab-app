@@ -5,13 +5,6 @@ status: unread
 ---
 # argentinidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small marine soft-finned fishes with long silvery bodies; related to salmons and trouts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small marine soft-finned fishes with long silvery bodies; related to salmons and trouts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentinidae designates small marine soft-finned fishes with long silvery bodies; related to salmons and trouts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small marine soft-finned fishes with long silvery bodies; related to salmons and trouts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small marine soft-finned fishes with long silvery bodies; related to salmons and trouts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentinidae designates small marine soft-finned fishes with long silvery bodies; related to salmons and trouts."*

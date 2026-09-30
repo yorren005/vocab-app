@@ -5,13 +5,6 @@ status: unread
 ---
 # dolichos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichos designates genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichos designates genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma."*

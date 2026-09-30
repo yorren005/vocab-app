@@ -5,20 +5,6 @@ status: unread
 ---
 # fleck
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Flake
-> 2. **Nuance / Usage**: Spot, mark
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fleck the target*) and intransitive clauses (*flecking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Rabisha (*The Whole Body of Cookery Dissected, Taught and Fully*):** *"two flecks of Lard cut with your knife"*
-> - 📜 **Theodore Martin (*The poems of Catullus, translated into English verse*):** *"With teeth they smooth their work, as on it slips, <br>And flecks of wool stick to their wither'd lips"*
-> - 📜 **Graham Masterson (*Eye for an Eye: A Katie Maguire Short Story*):** *"A single fleck of wool from his sock got caught on a splintery floorboard and that was enough to convict him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Flake
+> 2. **Nuance / Usage**: Spot, mark
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fleck the target*) and intransitive clauses (*flecking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Rabisha (*The Whole Body of Cookery Dissected, Taught and Fully*):** *"two flecks of Lard cut with your knife"*
+> - 📜 **Theodore Martin (*The poems of Catullus, translated into English verse*):** *"With teeth they smooth their work, as on it slips, <br>And flecks of wool stick to their wither'd lips"*
+> - 📜 **Graham Masterson (*Eye for an Eye: A Katie Maguire Short Story*):** *"A single fleck of wool from his sock got caught on a splintery floorboard and that was enough to convict him."*

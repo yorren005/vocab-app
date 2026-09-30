@@ -5,15 +5,6 @@ status: unread
 ---
 # predicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) what is predicated of the subject of a proposition; the second term in a proposition is predicated of the first term by means of the copula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two main constituents of a sentence; the predicate contains the verb and its complements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"God is beyond being; you can conceive of being, and therefore to predicate being of God is to limit him."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For predicates are spoken either of properties or of relation, and none of these can we assume about God."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If there is any thing exceptionable, it must be sought for in the specific powers upon which this general declaration is predicated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) what is predicated of the subject of a proposition; the second term in a proposition is predicated of the first term by means of the copula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two main constituents of a sentence; the predicate contains the verb and its complements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"God is beyond being; you can conceive of being, and therefore to predicate being of God is to limit him."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For predicates are spoken either of properties or of relation, and none of these can we assume about God."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If there is any thing exceptionable, it must be sought for in the specific powers upon which this general declaration is predicated."*

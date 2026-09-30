@@ -5,13 +5,6 @@ status: unread
 ---
 # haberdashery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A store where men's clothes are sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drygoods sold by a haberdasher.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Gavin Hamilton, writer, Mauchline.] [Footnote 11: Fergusson's _Poems_.] [Footnote 11a: Keeper of a haberdashery store in Mauchline.] * * * * * XVI.-TO MR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A store where men's clothes are sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drygoods sold by a haberdasher.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Gavin Hamilton, writer, Mauchline.] [Footnote 11: Fergusson's _Poems_.] [Footnote 11a: Keeper of a haberdashery store in Mauchline.] * * * * * XVI.-TO MR."*

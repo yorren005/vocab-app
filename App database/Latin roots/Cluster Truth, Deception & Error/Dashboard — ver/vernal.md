@@ -5,15 +5,6 @@ status: unread
 ---
 # vernal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggestive of youth; vigorous and fresh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of or occurring in spring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The myrtles, geraniums, and cactuses packed around her were fresh and green, and at such a leafless season they invested the whole concern of horses, waggon, furniture, and girl with a peculiar vernal charm."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was that period in the vernal quarter when we may suppose the Dryads to be waking for the season."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have been green, too, Miss Eyre,—ay, grass green: not a more vernal tint freshens you now than once freshened me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggestive of youth; vigorous and fresh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of or occurring in spring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The myrtles, geraniums, and cactuses packed around her were fresh and green, and at such a leafless season they invested the whole concern of horses, waggon, furniture, and girl with a peculiar vernal charm."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was that period in the vernal quarter when we may suppose the Dryads to be waking for the season."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have been green, too, Miss Eyre,—ay, grass green: not a more vernal tint freshens you now than once freshened me."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # macroevolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroevolution designates evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroevolution designates evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups."*

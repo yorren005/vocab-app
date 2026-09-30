@@ -5,14 +5,6 @@ status: unread
 ---
 # evidential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as or based on evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or based on evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The evidential value of a good hymn book will stand investigation."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There is an evidential value in a good father, in wife and children--even in a telearchy with its tiles and cement--which is apt to be under-estimated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as or based on evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or based on evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The evidential value of a good hymn book will stand investigation."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There is an evidential value in a good father, in wife and children--even in a telearchy with its tiles and cement--which is apt to be under-estimated."*

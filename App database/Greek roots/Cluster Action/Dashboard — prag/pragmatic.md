@@ -5,13 +5,6 @@ status: unread
 ---
 # pragmatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing with the problems that exist in a specific situation in a reasonable and logical way instead of depending on ideas and theories : practical as opposed to idealistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being in accordance with philosophical pragmatism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Gordon the chauffeur, a pragmatic young man from the Clyde, in this levelling hour was sitting on the edge of the table with a glass of beer in his hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing with the problems that exist in a specific situation in a reasonable and logical way instead of depending on ideas and theories : practical as opposed to idealistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being in accordance with philosophical pragmatism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Gordon the chauffeur, a pragmatic young man from the Clyde, in this levelling hour was sitting on the edge of the table with a glass of beer in his hand."*

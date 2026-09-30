@@ -5,13 +5,6 @@ status: unread
 ---
 # eusporangium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium of the eusporangiate kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium of the eusporangiate kind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eusporangium designates a sporangium of the eusporangiate kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium of the eusporangiate kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium of the eusporangiate kind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eusporangium designates a sporangium of the eusporangiate kind."*

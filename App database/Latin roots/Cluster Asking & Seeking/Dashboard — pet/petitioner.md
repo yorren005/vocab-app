@@ -5,15 +5,6 @@ status: unread
 ---
 # petitioner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One praying humbly for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who petitions a court for redress of a grievance or recovery of a right.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palace Enter Peter and Petitioners. 1 PETITIONER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector will come this way by and by, and then we may deliver our supplications in the quill. 2 PETITIONER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Suffolk and Queen. 1 PETITIONER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One praying humbly for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who petitions a court for redress of a grievance or recovery of a right.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palace Enter Peter and Petitioners. 1 PETITIONER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector will come this way by and by, and then we may deliver our supplications in the quill. 2 PETITIONER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Suffolk and Queen. 1 PETITIONER."*

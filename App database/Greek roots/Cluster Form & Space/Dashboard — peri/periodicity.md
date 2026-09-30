@@ -5,13 +5,6 @@ status: unread
 ---
 # periodicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of recurring at regular intervals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Consequently, to distinguish the comparatively slowly changing currents of a "frequency" or "periodicity" of a few hundreds per second from these much more rapid ones, the latter are more often spoken of as electrical oscillations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of recurring at regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of recurring at regular intervals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Consequently, to distinguish the comparatively slowly changing currents of a "frequency" or "periodicity" of a few hundreds per second from these much more rapid ones, the latter are more often spoken of as electrical oscillations."*

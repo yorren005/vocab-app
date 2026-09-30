@@ -5,15 +5,6 @@ status: unread
 ---
 # testing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of subjecting to experimental test in order to determine how well something works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination of the characteristics of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"From this process of testing and strain he emerged with his faith established on a yet firmer basis than before."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Again her Bible opened to the familiar passages, '_the prayer of faith shall save the sick_;' 'according to your faith be it unto you.' She felt that the time for testing her faith had come."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Why don't you apply to him now_." And the unseen face could not conceal his pleasure at this opportunity of testing a Christian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of subjecting to experimental test in order to determine how well something works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination of the characteristics of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"From this process of testing and strain he emerged with his faith established on a yet firmer basis than before."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Again her Bible opened to the familiar passages, '_the prayer of faith shall save the sick_;' 'according to your faith be it unto you.' She felt that the time for testing her faith had come."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Why don't you apply to him now_." And the unseen face could not conceal his pleasure at this opportunity of testing a Christian."*

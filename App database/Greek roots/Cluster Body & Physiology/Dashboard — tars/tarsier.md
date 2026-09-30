@@ -5,13 +5,6 @@ status: unread
 ---
 # tarsier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsier designates nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsier designates nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates."*

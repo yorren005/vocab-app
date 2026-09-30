@@ -5,15 +5,6 @@ status: unread
 ---
 # dona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish courtesy title or form of address for a woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish courtesy title or form of address for a woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Captive Ribband Tune—“Robaidh dona gorach.” Dear Myra, the captive ribband’s mine, ’Twas all my faithful love could gain; And would you ask me to resign The sole reward that crowns my pain?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Credit no statement of his save as supported by the clearest evidence; be continually repeating to yourself, “Timeo Danaos et dona ferentes,”—nay, never so much as then."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The best timbered portion of the Rio Grande Valley is between Socorro and Dona Ana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish courtesy title or form of address for a woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish courtesy title or form of address for a woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Captive Ribband Tune—“Robaidh dona gorach.” Dear Myra, the captive ribband’s mine, ’Twas all my faithful love could gain; And would you ask me to resign The sole reward that crowns my pain?"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Credit no statement of his save as supported by the clearest evidence; be continually repeating to yourself, “Timeo Danaos et dona ferentes,”—nay, never so much as then."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The best timbered portion of the Rio Grande Valley is between Socorro and Dona Ana."*

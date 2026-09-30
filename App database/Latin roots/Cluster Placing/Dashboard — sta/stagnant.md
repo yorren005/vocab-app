@@ -5,15 +5,6 @@ status: unread
 ---
 # stagnant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not circulating or flowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not growing or changing; without force or vitality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was glad when we came to the brickmaker’s house, though it was one of a cluster of wretched hovels in a brick-field, with pigsties close to the broken windows and miserable little gardens before the doors growing nothing but stagnant pools."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A stagnant, sickening oil with some natural repulsion in it that makes them both shudder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not circulating or flowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not growing or changing; without force or vitality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was glad when we came to the brickmaker’s house, though it was one of a cluster of wretched hovels in a brick-field, with pigsties close to the broken windows and miserable little gardens before the doors growing nothing but stagnant pools."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A stagnant, sickening oil with some natural repulsion in it that makes them both shudder."*

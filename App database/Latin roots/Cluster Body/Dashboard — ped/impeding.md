@@ -5,13 +5,6 @@ status: unread
 ---
 # impeding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Constant cohabitation impeding mutual toleration of personal defects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Constant cohabitation impeding mutual toleration of personal defects."*

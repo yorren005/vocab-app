@@ -5,14 +5,6 @@ status: unread
 ---
 # hypochondriacal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from hypochondria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from hypochondria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A hypochondriacal tendency had shown itself in the banker’s constitution of late; and a lack of sleep, which was really only a slight exaggeration of an habitual dyspeptic symptom, had been dwelt on by him as a sign of threatening insanity."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This brilliant and hypochondriacal person spent years in watching his symptoms and consulting the god about them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from hypochondria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from hypochondria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A hypochondriacal tendency had shown itself in the banker’s constitution of late; and a lack of sleep, which was really only a slight exaggeration of an habitual dyspeptic symptom, had been dwelt on by him as a sign of threatening insanity."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This brilliant and hypochondriacal person spent years in watching his symptoms and consulting the god about them."*

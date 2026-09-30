@@ -5,13 +5,6 @@ status: unread
 ---
 # pedophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual perversion in which children are the preferred sexual object; specifically : a psychiatric disorder in which an adult has sexual fantasies about or engages in sexual acts with a prepubescent child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual perversion in which children are the preferred sexual object; specifically : a psychiatric disorder in which an adult has sexual fantasies about or engages in sexual acts with a prepubescent child.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedophilia designates sexual perversion in which children are the preferred sexual object; specifically : a psychiatric disorder in which an adult has sexual fantasies about or engages in sexual acts with a prepubescent child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual perversion in which children are the preferred sexual object; specifically : a psychiatric disorder in which an adult has sexual fantasies about or engages in sexual acts with a prepubescent child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual perversion in which children are the preferred sexual object; specifically : a psychiatric disorder in which an adult has sexual fantasies about or engages in sexual acts with a prepubescent child.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedophilia designates sexual perversion in which children are the preferred sexual object; specifically : a psychiatric disorder in which an adult has sexual fantasies about or engages in sexual acts with a prepubescent child."*

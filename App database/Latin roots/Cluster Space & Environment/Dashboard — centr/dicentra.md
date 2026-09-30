@@ -5,13 +5,6 @@ status: unread
 ---
 # dicentra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american and asian herbs with divided leaves and irregular flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american and asian herbs with divided leaves and irregular flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicentra designates north american and asian herbs with divided leaves and irregular flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: North american and asian herbs with divided leaves and irregular flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american and asian herbs with divided leaves and irregular flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicentra designates north american and asian herbs with divided leaves and irregular flowers."*

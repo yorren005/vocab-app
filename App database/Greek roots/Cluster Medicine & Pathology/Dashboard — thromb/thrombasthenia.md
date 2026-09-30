@@ -5,13 +5,6 @@ status: unread
 ---
 # thrombasthenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombasthenia designates a rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombasthenia designates a rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # precast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of structural members especially of concrete; cast into form before being transported to the site of installation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of structural members especially of concrete; cast into form before being transported to the site of installation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precast designates of structural members especially of concrete; cast into form before being transported to the site of installation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of structural members especially of concrete; cast into form before being transported to the site of installation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of structural members especially of concrete; cast into form before being transported to the site of installation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precast designates of structural members especially of concrete; cast into form before being transported to the site of installation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # underside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower side of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower side of anything.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The underside of the mantel-shelf was flushed with the high-coloured light, and the legs of the table nearest the fire."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They stood silent, not looking at each other, but looking at the evergreens which were being tossed, and were showing the pale underside of their leaves against the blackening sky."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing under, Hodak cut loose with his laser-quads, raking laterally across the destroyer's underside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower side of anything.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower side of anything.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The underside of the mantel-shelf was flushed with the high-coloured light, and the legs of the table nearest the fire."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They stood silent, not looking at each other, but looking at the evergreens which were being tossed, and were showing the pale underside of their leaves against the blackening sky."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing under, Hodak cut loose with his laser-quads, raking laterally across the destroyer's underside."*

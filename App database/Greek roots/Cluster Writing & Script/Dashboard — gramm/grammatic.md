@@ -5,13 +5,6 @@ status: unread
 ---
 # grammatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatic designates adjective*) pertaining to, derived from, or characteristic of electrocardiogram (ecg), electroencephalogram (eeg), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatic designates adjective*) pertaining to, derived from, or characteristic of electrocardiogram (ecg), electroencephalogram (eeg), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram."*

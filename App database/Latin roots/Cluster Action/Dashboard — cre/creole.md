@@ -5,15 +5,6 @@ status: unread
 ---
 # creole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of european descent born in the west indies or latin america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person descended from french ancestors in southern united states (especially louisiana).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Her mother, the Creole, was both a madwoman and a drunkard!—as I found out after I had wed the daughter: for they were silent on family secrets before."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I longed only for what suited me—for the antipodes of the Creole: and I longed vainly."*
-> - 📜 **Effie Afton (*Eventide*):** *"Next thing, we shall have some creole girl, or mulatto wench introduced to the family as Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of european descent born in the west indies or latin america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person descended from french ancestors in southern united states (especially louisiana).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Her mother, the Creole, was both a madwoman and a drunkard!—as I found out after I had wed the daughter: for they were silent on family secrets before."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I longed only for what suited me—for the antipodes of the Creole: and I longed vainly."*
+> - 📜 **Effie Afton (*Eventide*):** *"Next thing, we shall have some creole girl, or mulatto wench introduced to the family as Mrs."*

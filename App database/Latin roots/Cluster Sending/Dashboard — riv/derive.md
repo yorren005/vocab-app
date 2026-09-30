@@ -5,15 +5,6 @@ status: unread
 ---
 # derive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honours thrive When rather from our acts we them derive Than our fore-goers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Treason is not inherited, my lord, Or, if we did derive it from our friends, What’s that to me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From women’s eyes this doctrine I derive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honours thrive When rather from our acts we them derive Than our fore-goers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Treason is not inherited, my lord, Or, if we did derive it from our friends, What’s that to me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From women’s eyes this doctrine I derive."*

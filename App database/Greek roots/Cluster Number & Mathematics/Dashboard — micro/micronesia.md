@@ -5,13 +5,6 @@ status: unread
 ---
 # micronesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A country scattered over micronesia with a constitutional government in free association with the united states; achieved independence in 1986.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the northwestern part of oceania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronesia designates a country scattered over micronesia with a constitutional government in free association with the united states; achieved independence in 1986."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A country scattered over micronesia with a constitutional government in free association with the united states; achieved independence in 1986.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the northwestern part of oceania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronesia designates a country scattered over micronesia with a constitutional government in free association with the united states; achieved independence in 1986."*

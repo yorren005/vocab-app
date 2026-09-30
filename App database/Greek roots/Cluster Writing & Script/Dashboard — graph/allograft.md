@@ -5,13 +5,6 @@ status: unread
 ---
 # allograft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A homograft between allogeneic individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A homograft between allogeneic individuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograft designates a homograft between allogeneic individuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A homograft between allogeneic individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A homograft between allogeneic individuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograft designates a homograft between allogeneic individuals."*

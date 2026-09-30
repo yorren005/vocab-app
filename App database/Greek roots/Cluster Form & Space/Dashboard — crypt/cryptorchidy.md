@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptorchidy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchidy designates failure of one or both testes to move into the scrotum as the male fetus develops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchidy designates failure of one or both testes to move into the scrotum as the male fetus develops."*

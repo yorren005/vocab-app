@@ -5,13 +5,6 @@ status: unread
 ---
 # megathere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megathere designates gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megathere designates gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # meatloaf
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A baked loaf of ground meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A baked loaf of ground meat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatloaf designates a baked loaf of ground meat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A baked loaf of ground meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A baked loaf of ground meat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatloaf designates a baked loaf of ground meat."*

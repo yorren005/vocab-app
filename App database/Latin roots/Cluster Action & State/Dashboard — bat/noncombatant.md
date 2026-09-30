@@ -5,13 +5,6 @@ status: unread
 ---
 # noncombatant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the armed forces who does not participate in combat (e.g. a chaplain or surgeon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of civilians in time of war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncombatant designates a member of the armed forces who does not participate in combat (e.g. a chaplain or surgeon)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the armed forces who does not participate in combat (e.g. a chaplain or surgeon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of civilians in time of war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncombatant designates a member of the armed forces who does not participate in combat (e.g. a chaplain or surgeon)."*

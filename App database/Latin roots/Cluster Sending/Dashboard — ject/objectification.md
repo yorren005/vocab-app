@@ -5,13 +5,6 @@ status: unread
 ---
 # objectification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing an abstraction as a physical thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concrete representation of an abstract idea or principle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectification designates the act of representing an abstraction as a physical thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing an abstraction as a physical thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concrete representation of an abstract idea or principle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectification designates the act of representing an abstraction as a physical thing."*

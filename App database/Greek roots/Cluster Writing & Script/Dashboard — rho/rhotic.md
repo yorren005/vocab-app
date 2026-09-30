@@ -5,13 +5,6 @@ status: unread
 ---
 # rhotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, having, or being an accent or dialect in English in which an /r/ sound is retained before consonants (as in pronouncing hard and cart) and at the end of a word (as in pronouncing car and far).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influenced in coloring by an adjacent /r/ sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhotic designates of, relating to, having, or being an accent or dialect in english in which an /r/ sound is retained before consonants (as in pronouncing hard and cart) and at the end of a word (as in pronouncing car and far)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, having, or being an accent or dialect in English in which an /r/ sound is retained before consonants (as in pronouncing hard and cart) and at the end of a word (as in pronouncing car and far).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influenced in coloring by an adjacent /r/ sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhotic designates of, relating to, having, or being an accent or dialect in english in which an /r/ sound is retained before consonants (as in pronouncing hard and cart) and at the end of a word (as in pronouncing car and far)."*

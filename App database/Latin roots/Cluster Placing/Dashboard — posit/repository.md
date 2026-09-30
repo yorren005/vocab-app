@@ -5,15 +5,6 @@ status: unread
 ---
 # repository
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where things can be deposited for storage or safekeeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person to whom a secret is entrusted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is always the same speechless repository of noble confidences, so oddly out of place and yet so perfectly at home."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While they uncovered the sheaves he stood apathetic beside his portable repository of force, round whose hot blackness the morning air quivered."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Now it embraces a very large gathering of useful enterprises: _A Consumptive's Home, Children's Home, Grove Hall Church, Tract Repository, a Training College_, and a _Cancer Home_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where things can be deposited for storage or safekeeping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person to whom a secret is entrusted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is always the same speechless repository of noble confidences, so oddly out of place and yet so perfectly at home."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While they uncovered the sheaves he stood apathetic beside his portable repository of force, round whose hot blackness the morning air quivered."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Now it embraces a very large gathering of useful enterprises: _A Consumptive's Home, Children's Home, Grove Hall Church, Tract Repository, a Training College_, and a _Cancer Home_."*

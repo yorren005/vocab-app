@@ -5,15 +5,6 @@ status: unread
 ---
 # antony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another Room in Antony’s House."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s camp near Alexandria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another Room in Antony’s House."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s camp near Alexandria."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vagabondage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travelling about without any clear destination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travelling about without any clear destination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Everybody knows where to find Durdles, when he’s wanted.” Which, if not strictly true, is approximately so, if taken to express that Durdles may always be found in a state of vagabondage somewhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Travelling about without any clear destination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travelling about without any clear destination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Everybody knows where to find Durdles, when he’s wanted.” Which, if not strictly true, is approximately so, if taken to express that Durdles may always be found in a state of vagabondage somewhere."*

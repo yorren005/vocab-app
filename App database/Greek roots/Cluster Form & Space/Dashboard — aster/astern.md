@@ -5,15 +5,6 @@ status: unread
 ---
 # astern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stern foremost or backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or near or toward the stern of a ship or tail of an airplane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Meantime, overseeing the other part of the ship, Captain Peleg ripped and swore astern in the most frightful manner."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Some days elapsed, and ice and icebergs all astern, the Pequod now went rolling through the bright Quito spring, which, at sea, almost perpetually reigns on the threshold of the eternal August of the Tropic."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship’s bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stern foremost or backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or near or toward the stern of a ship or tail of an airplane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Meantime, overseeing the other part of the ship, Captain Peleg ripped and swore astern in the most frightful manner."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Some days elapsed, and ice and icebergs all astern, the Pequod now went rolling through the bright Quito spring, which, at sea, almost perpetually reigns on the threshold of the eternal August of the Tropic."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship’s bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern."*

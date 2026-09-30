@@ -5,13 +5,6 @@ status: unread
 ---
 # vittariaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems: genus vittaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems: genus vittaria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vittariaceae designates one of a number of families into which polypodiaceae has been subdivided in some classification systems: genus vittaria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems: genus vittaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems: genus vittaria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vittariaceae designates one of a number of families into which polypodiaceae has been subdivided in some classification systems: genus vittaria."*

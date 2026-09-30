@@ -5,15 +5,6 @@ status: unread
 ---
 # zealous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by fervent partisanship for a person, a cause, or an ideal : filled with or characterized by zeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too zealous : having or showing too much zeal : excessively eager, enthusiastic, or fervent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then my thoughts, from far where I abide, Intend a zealous pilgrimage to thee, And keep my drooping eyelids open wide, Looking on darkness which the blind do see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If zealous love should go in search of virtue, Where should he find it purer than in Blanche?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by fervent partisanship for a person, a cause, or an ideal : filled with or characterized by zeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too zealous : having or showing too much zeal : excessively eager, enthusiastic, or fervent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then my thoughts, from far where I abide, Intend a zealous pilgrimage to thee, And keep my drooping eyelids open wide, Looking on darkness which the blind do see."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If zealous love should go in search of virtue, Where should he find it purer than in Blanche?"*

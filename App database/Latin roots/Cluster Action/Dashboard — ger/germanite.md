@@ -5,13 +5,6 @@ status: unread
 ---
 # germanite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare reddish-grey mineral consisting of a copper iron germanium sulfide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare reddish-grey mineral consisting of a copper iron germanium sulfide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanite designates a rare reddish-grey mineral consisting of a copper iron germanium sulfide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare reddish-grey mineral consisting of a copper iron germanium sulfide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare reddish-grey mineral consisting of a copper iron germanium sulfide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanite designates a rare reddish-grey mineral consisting of a copper iron germanium sulfide."*

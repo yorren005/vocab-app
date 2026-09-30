@@ -5,15 +5,6 @@ status: unread
 ---
 # formless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no definite form or distinct shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no physical form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All form is formless, order orderless, Save what is opposite to England’s love."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Circumstances knit themselves, fitted themselves, shot into order: the chain that had been lying hitherto a formless lump of links was drawn out straight,—every ring was perfect, the connection complete."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No perceptible face or front did it have; no conceivable token of either sensation or instinct; but undulated there on the billows, an unearthly, formless, chance-like apparition of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no definite form or distinct shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no physical form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All form is formless, order orderless, Save what is opposite to England’s love."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Circumstances knit themselves, fitted themselves, shot into order: the chain that had been lying hitherto a formless lump of links was drawn out straight,—every ring was perfect, the connection complete."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No perceptible face or front did it have; no conceivable token of either sensation or instinct; but undulated there on the billows, an unearthly, formless, chance-like apparition of life."*

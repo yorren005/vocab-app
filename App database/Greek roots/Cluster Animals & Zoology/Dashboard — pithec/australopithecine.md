@@ -5,13 +5,6 @@ status: unread
 ---
 # australopithecine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various extinct hominids (genera Australopithecus and Paranthropus) that existed two to four million years ago in southern and eastern Africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various extinct hominids (genera Australopithecus and Paranthropus) that existed two to four million years ago in southern and eastern Africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, australopithecine designates any of various extinct hominids (genera australopithecus and paranthropus) that existed two to four million years ago in southern and eastern africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various extinct hominids (genera Australopithecus and Paranthropus) that existed two to four million years ago in southern and eastern Africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various extinct hominids (genera Australopithecus and Paranthropus) that existed two to four million years ago in southern and eastern Africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, australopithecine designates any of various extinct hominids (genera australopithecus and paranthropus) that existed two to four million years ago in southern and eastern africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains."*

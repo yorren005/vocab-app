@@ -5,15 +5,6 @@ status: unread
 ---
 # terrified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with terror; frighten greatly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown into a state of intense fear or desperation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I could see with what terrified bounds he flew down the mountain-side." "Was he afraid, too, do you really mean?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Terrified cats scamper across the road."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Shame upon him—shame!” His unreasonable anger terrified her, and she glided from him, without obviously moving, as she said, “I am only a girl—do not speak to me so!” “All the time you knew—how very well you knew—that your new freak was my misery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with terror; frighten greatly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown into a state of intense fear or desperation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I could see with what terrified bounds he flew down the mountain-side." "Was he afraid, too, do you really mean?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Terrified cats scamper across the road."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Shame upon him—shame!” His unreasonable anger terrified her, and she glided from him, without obviously moving, as she said, “I am only a girl—do not speak to me so!” “All the time you knew—how very well you knew—that your new freak was my misery."*

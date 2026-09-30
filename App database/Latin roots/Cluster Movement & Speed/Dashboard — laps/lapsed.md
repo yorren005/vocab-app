@@ -5,15 +5,6 @@ status: unread
 ---
 # lapsed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass into a specified state or condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: End, at least for a long time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only myself stood out, For which, if I be lapsed in this place, I shall pay dear."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You and I are very different creatures.” He spoke regretfully and lapsed for a moment into his weary condition."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Next, his movements lapsed slower, and she could see them individually."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass into a specified state or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: End, at least for a long time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only myself stood out, For which, if I be lapsed in this place, I shall pay dear."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You and I are very different creatures.” He spoke regretfully and lapsed for a moment into his weary condition."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Next, his movements lapsed slower, and she could see them individually."*

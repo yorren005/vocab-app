@@ -5,15 +5,6 @@ status: unread
 ---
 # contrived
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or work out a plan for; devise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you that you have contrived to take From Rome all seasoned office and to wind Yourself into a power tyrannical, For which you are a traitor to the people."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or work out a plan for; devise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you that you have contrived to take From Rome all seasoned office and to wind Yourself into a power tyrannical, For which you are a traitor to the people."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*

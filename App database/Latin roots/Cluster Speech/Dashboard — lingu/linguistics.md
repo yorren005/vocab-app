@@ -5,14 +5,6 @@ status: unread
 ---
 # linguistics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of language and literature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"On the contrary, as his interest in speculative thought gradually withered, his interest on the side of scholarship and linguistics became greater than ever, and his energy here was always seeking new outlets for itself."*
-> - 📜 **Unknown (*The Second Story of Meno*):** *"A sort of lesson in linguistics, perhaps, but certainly not in mathematics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humanistic study of language and literature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"On the contrary, as his interest in speculative thought gradually withered, his interest on the side of scholarship and linguistics became greater than ever, and his energy here was always seeking new outlets for itself."*
+> - 📜 **Unknown (*The Second Story of Meno*):** *"A sort of lesson in linguistics, perhaps, but certainly not in mathematics."*

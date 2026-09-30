@@ -5,15 +5,6 @@ status: unread
 ---
 # conveniently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convenient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a convenient manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s do’t, I pray, and I this morning know Where we shall find him most conveniently. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I nill relate, action may Conveniently the rest convey; Which might not what by me is told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then all alone At the prefixed hour of her waking Came I to take her from her kindred’s vault, Meaning to keep her closely at my cell Till I conveniently could send to Romeo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convenient manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a convenient manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s do’t, I pray, and I this morning know Where we shall find him most conveniently. [_Exeunt._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I nill relate, action may Conveniently the rest convey; Which might not what by me is told."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then all alone At the prefixed hour of her waking Came I to take her from her kindred’s vault, Meaning to keep her closely at my cell Till I conveniently could send to Romeo."*

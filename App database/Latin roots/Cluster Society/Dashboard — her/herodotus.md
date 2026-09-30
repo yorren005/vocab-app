@@ -5,15 +5,6 @@ status: unread
 ---
 # herodotus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient greek known as the father of history; his accounts of the wars between the greeks and persians are the first known examples of historical writing (485-425 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient greek known as the father of history; his accounts of the wars between the greeks and persians are the first known examples of historical writing (485-425 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is bad criticism that has made a popular legend of the unreliable character of Herodotus."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As our knowledge of antiquity grows, and we become able to correct our early impressions, the credit of Herodotus rises steadily, and to-day those who study him most closely have the highest opinion of him."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Readers of Greek history will remember another great writer of as much charm, five hundred years before, Herodotus, who was not so sure about all the oracles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient greek known as the father of history; his accounts of the wars between the greeks and persians are the first known examples of historical writing (485-425 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient greek known as the father of history; his accounts of the wars between the greeks and persians are the first known examples of historical writing (485-425 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is bad criticism that has made a popular legend of the unreliable character of Herodotus."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"As our knowledge of antiquity grows, and we become able to correct our early impressions, the credit of Herodotus rises steadily, and to-day those who study him most closely have the highest opinion of him."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Readers of Greek history will remember another great writer of as much charm, five hundred years before, Herodotus, who was not so sure about all the oracles."*

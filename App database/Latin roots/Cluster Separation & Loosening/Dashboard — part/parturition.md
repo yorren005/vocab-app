@@ -5,13 +5,6 @@ status: unread
 ---
 # parturition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of giving birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of giving birth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The curse removed 557:6 Mind controls the birth-throes in the lower realms of nature, where parturition is without suffering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of giving birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of giving birth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The curse removed 557:6 Mind controls the birth-throes in the lower realms of nature, where parturition is without suffering."*

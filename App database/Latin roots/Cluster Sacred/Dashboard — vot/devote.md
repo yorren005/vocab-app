@@ -5,15 +5,6 @@ status: unread
 ---
 # devote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray; Or so devote to Aristotle’s checks As Ovid be an outcast quite abjur’d."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caroline and I do not forget our duty—what is my duty is Caroline’s, as we have often said together—and with your approval and consent, father, we will devote ourselves to making your life agreeable.” “Strike home,” murmured Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To devote my life to his happiness was to thank him poorly, and what had I wished for the other night but some new means of thanking him?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray; Or so devote to Aristotle’s checks As Ovid be an outcast quite abjur’d."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Caroline and I do not forget our duty—what is my duty is Caroline’s, as we have often said together—and with your approval and consent, father, we will devote ourselves to making your life agreeable.” “Strike home,” murmured Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To devote my life to his happiness was to thank him poorly, and what had I wished for the other night but some new means of thanking him?"*

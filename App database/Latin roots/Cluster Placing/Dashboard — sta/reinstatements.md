@@ -5,13 +5,6 @@ status: unread
 ---
 # reinstatements
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being reinstated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring someone to a previous position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reinstatements designates the condition of being reinstated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being reinstated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring someone to a previous position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reinstatements designates the condition of being reinstated."*

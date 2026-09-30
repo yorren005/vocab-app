@@ -5,13 +5,6 @@ status: unread
 ---
 # melanogrammus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Haddock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Haddock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog melanogrammus as a recognized concept in linguistic and etymological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Haddock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Haddock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog melanogrammus as a recognized concept in linguistic and etymological taxonomy."*

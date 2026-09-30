@@ -5,15 +5,6 @@ status: unread
 ---
 # fume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloud of fine particles suspended in a gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be mad, angry, or furious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s tickled now; her fume needs no spurs, She’ll gallop far enough to her destruction. [_Exit._] Enter Gloucester."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a smoke made with the fume of sighs; Being purg’d, a fire sparkling in lovers’ eyes; Being vex’d, a sea nourish’d with lovers’ tears: What is it else?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Very good,” I thought; “you may fume and fidget as you please: but this is the best plan to pursue with you, I am certain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloud of fine particles suspended in a gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be mad, angry, or furious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s tickled now; her fume needs no spurs, She’ll gallop far enough to her destruction. [_Exit._] Enter Gloucester."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a smoke made with the fume of sighs; Being purg’d, a fire sparkling in lovers’ eyes; Being vex’d, a sea nourish’d with lovers’ tears: What is it else?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Very good,” I thought; “you may fume and fidget as you please: but this is the best plan to pursue with you, I am certain."*

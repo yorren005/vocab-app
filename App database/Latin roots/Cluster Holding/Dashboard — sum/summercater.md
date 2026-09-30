@@ -5,13 +5,6 @@ status: unread
 ---
 # summercater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (maine colloquial) a temporary summer resident of maine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (maine colloquial) a temporary summer resident of maine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summercater designates (maine colloquial) a temporary summer resident of maine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (maine colloquial) a temporary summer resident of maine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (maine colloquial) a temporary summer resident of maine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summercater designates (maine colloquial) a temporary summer resident of maine."*

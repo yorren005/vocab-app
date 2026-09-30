@@ -5,13 +5,6 @@ status: unread
 ---
 # cholinesterase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that occurs chiefly at neuromuscular junctions and promotes the hydrolysis of acetylcholine at postsynaptic receptors : acetylcholinesterase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butyrylcholinesterase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholinesterase designates an enzyme that occurs chiefly at neuromuscular junctions and promotes the hydrolysis of acetylcholine at postsynaptic receptors : acetylcholinesterase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that occurs chiefly at neuromuscular junctions and promotes the hydrolysis of acetylcholine at postsynaptic receptors : acetylcholinesterase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butyrylcholinesterase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholinesterase designates an enzyme that occurs chiefly at neuromuscular junctions and promotes the hydrolysis of acetylcholine at postsynaptic receptors : acetylcholinesterase."*

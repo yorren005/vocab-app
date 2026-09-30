@@ -5,15 +5,6 @@ status: unread
 ---
 # degeneracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being degenerate in mental or moral qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral perversion; impairment of virtue and moral principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Some of that twice-blessed mercy was always with Lydgate in his work at the Hospital or in private houses, serving better than any opiate to quiet and sustain him under his anxieties and his sense of mental degeneracy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The means relied on in this form of government for preventing their degeneracy are numerous and various."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have pleased myself with considering it as a chosen spot, where the principles of sturdy John Bullism were garnered up, like seed corn, to renew the national character when it had run to waste and degeneracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being degenerate in mental or moral qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral perversion; impairment of virtue and moral principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Some of that twice-blessed mercy was always with Lydgate in his work at the Hospital or in private houses, serving better than any opiate to quiet and sustain him under his anxieties and his sense of mental degeneracy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The means relied on in this form of government for preventing their degeneracy are numerous and various."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have pleased myself with considering it as a chosen spot, where the principles of sturdy John Bullism were garnered up, like seed corn, to renew the national character when it had run to waste and degeneracy."*

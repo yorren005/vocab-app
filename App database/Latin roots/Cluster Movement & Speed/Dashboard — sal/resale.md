@@ -5,13 +5,6 @@ status: unread
 ---
 # resale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The selling of something purchased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The selling of something purchased.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resale designates the selling of something purchased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The selling of something purchased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The selling of something purchased.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resale designates the selling of something purchased."*

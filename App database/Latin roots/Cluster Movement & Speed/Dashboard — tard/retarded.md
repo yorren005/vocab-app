@@ -5,15 +5,6 @@ status: unread
 ---
 # retarded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People collectively who are mentally retarded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move more slowly or operate at a slower rate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet and the visitor may not be retarded in the smoking of their pipes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By constant additions of young members, this rise of cost may be retarded."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy, thoroughly nettled (a result which was seldom much retarded by previous resolutions)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People collectively who are mentally retarded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move more slowly or operate at a slower rate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet and the visitor may not be retarded in the smoking of their pipes."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By constant additions of young members, this rise of cost may be retarded."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Vincy, thoroughly nettled (a result which was seldom much retarded by previous resolutions)."*

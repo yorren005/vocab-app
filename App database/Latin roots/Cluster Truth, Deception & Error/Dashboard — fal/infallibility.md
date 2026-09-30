@@ -5,15 +5,6 @@ status: unread
 ---
 # infallibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of never making an error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of never making an error.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They seem to think themselves bound in honor, and by all the motives of personal infallibility, to defeat the success of what has been resolved upon contrary to their sentiments."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They seem to think themselves bound in honor, and by all the motives of personal infallibility, to defeat the success of what has been resolved upon contrary to their sentiments."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Opinionated she may be, because convinced of the general soundness of her ideas, and infallibility of her judgment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of never making an error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of never making an error.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They seem to think themselves bound in honor, and by all the motives of personal infallibility, to defeat the success of what has been resolved upon contrary to their sentiments."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They seem to think themselves bound in honor, and by all the motives of personal infallibility, to defeat the success of what has been resolved upon contrary to their sentiments."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Opinionated she may be, because convinced of the general soundness of her ideas, and infallibility of her judgment."*

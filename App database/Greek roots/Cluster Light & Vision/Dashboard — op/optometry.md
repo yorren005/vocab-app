@@ -5,13 +5,6 @@ status: unread
 ---
 # optometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometry designates the health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometry designates the health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment."*

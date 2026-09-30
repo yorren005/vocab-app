@@ -5,15 +5,6 @@ status: unread
 ---
 # cutting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of selecting the scenes to be shown and putting them together to create a film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the cutting of my garments would serve the turn, or the breaking of my Spanish sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take heed, my lord; the welfare of us all Hangs on the cutting short that fraudful man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek out King John and fall before his feet; For if the French be lords of this loud day, He means to recompense the pains you take By cutting off your heads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of selecting the scenes to be shown and putting them together to create a film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the cutting of my garments would serve the turn, or the breaking of my Spanish sword."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take heed, my lord; the welfare of us all Hangs on the cutting short that fraudful man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek out King John and fall before his feet; For if the French be lords of this loud day, He means to recompense the pains you take By cutting off your heads."*

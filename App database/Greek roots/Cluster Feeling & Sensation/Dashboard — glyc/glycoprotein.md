@@ -5,13 +5,6 @@ status: unread
 ---
 # glycoprotein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conjugated protein in which the nonprotein group is a carbohydrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoprotein that protrudes from the envelope of some viruses (such as a coronavirus) and facilitates entry of the virion into a host cell by binding to a receptor on the surface of a host cell followed by fusion of the viral and host cell membranes —called also S protein.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycoprotein designates a conjugated protein in which the nonprotein group is a carbohydrate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conjugated protein in which the nonprotein group is a carbohydrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoprotein that protrudes from the envelope of some viruses (such as a coronavirus) and facilitates entry of the virion into a host cell by binding to a receptor on the surface of a host cell followed by fusion of the viral and host cell membranes —called also S protein.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycoprotein designates a conjugated protein in which the nonprotein group is a carbohydrate."*

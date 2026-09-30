@@ -5,15 +5,6 @@ status: unread
 ---
 # hertz
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unit of frequency; one hertz has a periodic interval of one second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German physicist who was the first to produce electromagnetic waves artificially (1857-1894).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hertz, _Der Werwolf_ (Stuttgart, 1862); J."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Hertz "Detector" 156 8. 9. 10."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After much experimenting Hertz, of Carlsruhe, discovered the fact that when a discharge was taking place in an oscillatory circuit tiny sparks passed between the ends of a curved wire held some distance away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unit of frequency; one hertz has a periodic interval of one second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German physicist who was the first to produce electromagnetic waves artificially (1857-1894).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hertz, _Der Werwolf_ (Stuttgart, 1862); J."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Hertz "Detector" 156 8. 9. 10."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After much experimenting Hertz, of Carlsruhe, discovered the fact that when a discharge was taking place in an oscillatory circuit tiny sparks passed between the ends of a curved wire held some distance away."*

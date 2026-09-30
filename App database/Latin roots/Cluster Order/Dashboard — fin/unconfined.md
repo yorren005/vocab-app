@@ -5,15 +5,6 @@ status: unread
 ---
 # unconfined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not confined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from confinement or physical restraint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The leash by which it was held slipped gradually from the arm of an attendant and it was unconfined."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Its future necessities admit not of calculation or limitation; and upon the principle, more than once adverted to, the power of making provision for them as they arise ought to be equally unconfined."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Those of them which have been most labored with that view, seem in substance to amount to this: “It is not true, because the exigencies of the Union may not be susceptible of limitation, that its power of laying taxes ought to be unconfined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not confined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from confinement or physical restraint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The leash by which it was held slipped gradually from the arm of an attendant and it was unconfined."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Its future necessities admit not of calculation or limitation; and upon the principle, more than once adverted to, the power of making provision for them as they arise ought to be equally unconfined."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Those of them which have been most labored with that view, seem in substance to amount to this: “It is not true, because the exigencies of the Union may not be susceptible of limitation, that its power of laying taxes ought to be unconfined."*

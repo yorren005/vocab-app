@@ -5,20 +5,6 @@ status: unread
 ---
 # warp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Foundation, base
-> 2. **Nuance / Usage**: Rope for warping or mooring a ship or boat
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The British Journal of Photography*):** *"All frames found to suffer from warp should be broken up straight away before the printer is tempted during a rush to make use of them."*
-> - 📜 **Roland Johnson (*Automotive Woodworking : Restoration, Repair and Replacement*):** *"Rough lumber is rarely perfectly straight, and may suffer from warp,"*
-> - 📜 **Classic Author (*Innovation*):** *"The part is not fragile, does not need benching to remove "stair-stepping" on curved surfaces and does not need post curing. It does not suffer from warp, sag or curl."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Foundation, base
+> 2. **Nuance / Usage**: Rope for warping or mooring a ship or boat
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The British Journal of Photography*):** *"All frames found to suffer from warp should be broken up straight away before the printer is tempted during a rush to make use of them."*
+> - 📜 **Roland Johnson (*Automotive Woodworking : Restoration, Repair and Replacement*):** *"Rough lumber is rarely perfectly straight, and may suffer from warp,"*
+> - 📜 **Classic Author (*Innovation*):** *"The part is not fragile, does not need benching to remove "stair-stepping" on curved surfaces and does not need post curing. It does not suffer from warp, sag or curl."*

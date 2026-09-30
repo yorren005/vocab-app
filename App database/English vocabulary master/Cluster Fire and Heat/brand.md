@@ -5,20 +5,6 @@ status: unread
 ---
 # brand
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Firebrand
-> 2. **Nuance / Usage**: Branding iron
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"conversation was to brand me as a bad child for ever: now there he was."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"Would’st thou brand me, Perth?"*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"should have put the brand of a hot iron on Hester Prynne’s forehead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A piece of burning or glowing wood from a hearth (a firebrand), or a mark burned into flesh or wood with a red-hot iron.
+> 2. **Nuance / Usage**: Figuratively, to stigmatize or imprint indelibly in memory or reputation (*branded a traitor*), or in archaic poetry, a gleaming sword blade.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The purport of the conversation was to **brand** me as a bad child for ever."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Would’st thou **brand** me, Perth, with thy glowing iron?"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates might as well have put the **brand** of a hot iron on Hester Prynne’s forehead."*

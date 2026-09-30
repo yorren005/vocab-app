@@ -5,13 +5,6 @@ status: unread
 ---
 # asphyxiator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manually operated device for extinguishing small fires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manually operated device for extinguishing small fires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphyxiator designates a manually operated device for extinguishing small fires."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manually operated device for extinguishing small fires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manually operated device for extinguishing small fires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphyxiator designates a manually operated device for extinguishing small fires."*

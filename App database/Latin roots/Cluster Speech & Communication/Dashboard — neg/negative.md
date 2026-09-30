@@ -5,15 +5,6 @@ status: unread
 ---
 # negative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reply of denial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of photographic film showing an image with light and shade or colors reversed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt confess, Or else be impudently negative, To have nor eyes nor ears nor thought, then say My wife’s a hobby-horse, deserves a name As rank as any flax-wench that puts to Before her troth-plight: say’t and justify’t."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"IV. (9) The understanding forms positive ideas before forming negative ideas."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it suppression?” A shiver in the negative from Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reply of denial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of photographic film showing an image with light and shade or colors reversed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt confess, Or else be impudently negative, To have nor eyes nor ears nor thought, then say My wife’s a hobby-horse, deserves a name As rank as any flax-wench that puts to Before her troth-plight: say’t and justify’t."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"IV. (9) The understanding forms positive ideas before forming negative ideas."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is it suppression?” A shiver in the negative from Mrs."*

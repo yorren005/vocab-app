@@ -5,15 +5,6 @@ status: unread
 ---
 # versicle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Complimentary Versicles To Jessie Lewars 1."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles On Sign-Posts His face with smile eternal drest, Just like the Landlord’s to his Guest’s, High as they hang with creaking din, To index out the Country Inn."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles, A.D. 1793 The True Loyal Natives Ye true “Loyal Natives” attend to my song In uproar and riot rejoice the night long; From Envy and Hatred your corps is exempt, But where is your shield from the darts of Contempt!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Complimentary Versicles To Jessie Lewars 1."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles On Sign-Posts His face with smile eternal drest, Just like the Landlord’s to his Guest’s, High as they hang with creaking din, To index out the Country Inn."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles, A.D. 1793 The True Loyal Natives Ye true “Loyal Natives” attend to my song In uproar and riot rejoice the night long; From Envy and Hatred your corps is exempt, But where is your shield from the darts of Contempt!"*

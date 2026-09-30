@@ -5,14 +5,6 @@ status: unread
 ---
 # unilluminated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without illumination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without illumination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without illumination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without illumination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion."*

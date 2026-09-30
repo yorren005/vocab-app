@@ -5,15 +5,6 @@ status: unread
 ---
 # phantasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of fantasy: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delusive appearance : illusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A personal, human feeling for a brief moment got the better of the artificial phantasm of life he had served so long."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I seemed to see a ghostly, indistinct figure sitting in a whirling mass of black and brass for a moment—a figure so transparent that the bench behind with its sheets of drawings was absolutely distinct; but this phantasm vanished as I rubbed my eyes."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No one remains, nor is he one, but we become many as matter now gathers and now slips away about one phantasm and a common form (or impress)...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of fantasy: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delusive appearance : illusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A personal, human feeling for a brief moment got the better of the artificial phantasm of life he had served so long."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I seemed to see a ghostly, indistinct figure sitting in a whirling mass of black and brass for a moment—a figure so transparent that the bench behind with its sheets of drawings was absolutely distinct; but this phantasm vanished as I rubbed my eyes."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No one remains, nor is he one, but we become many as matter now gathers and now slips away about one phantasm and a common form (or impress)...."*

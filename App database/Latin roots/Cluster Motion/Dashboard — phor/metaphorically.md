@@ -5,15 +5,6 @@ status: unread
 ---
 # metaphorically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphorical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphorical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether Young Smallweed (metaphorically called Small and eke Chick Weed, as it were jocularly to express a fledgling) was ever a boy is much doubted in Lincoln’s Inn."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was this which made Dorothea so childlike, and, according to some judges, so stupid, with all her reputed cleverness; as, for example, in the present case of throwing herself, metaphorically speaking, at Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In this way, metaphorically speaking, a strong lens applied to Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphorical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphorical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whether Young Smallweed (metaphorically called Small and eke Chick Weed, as it were jocularly to express a fledgling) was ever a boy is much doubted in Lincoln’s Inn."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was this which made Dorothea so childlike, and, according to some judges, so stupid, with all her reputed cleverness; as, for example, in the present case of throwing herself, metaphorically speaking, at Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In this way, metaphorically speaking, a strong lens applied to Mrs."*

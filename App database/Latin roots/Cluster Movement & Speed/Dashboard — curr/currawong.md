@@ -5,13 +5,6 @@ status: unread
 ---
 # currawong
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bluish black fruit-eating bird with a bell-like call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bluish black fruit-eating bird with a bell-like call.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currawong designates bluish black fruit-eating bird with a bell-like call."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bluish black fruit-eating bird with a bell-like call.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bluish black fruit-eating bird with a bell-like call.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currawong designates bluish black fruit-eating bird with a bell-like call."*

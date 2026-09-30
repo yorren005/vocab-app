@@ -5,15 +5,6 @@ status: unread
 ---
 # fatally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With fatal consequences or implications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With fatal consequences or implications.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Beware, lest your heart become fatally hardened through the deceitfulness of sin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"We are not afraid of telling over and over again how a man comes to fall in love with a woman and be wedded to her, or else be fatally parted from her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Mary too was agitated; she was conscious that fatally, without will of her own, she had perhaps made a great difference to Fred’s lot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With fatal consequences or implications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With fatal consequences or implications.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Beware, lest your heart become fatally hardened through the deceitfulness of sin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"We are not afraid of telling over and over again how a man comes to fall in love with a woman and be wedded to her, or else be fatally parted from her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mary too was agitated; she was conscious that fatally, without will of her own, she had perhaps made a great difference to Fred’s lot."*

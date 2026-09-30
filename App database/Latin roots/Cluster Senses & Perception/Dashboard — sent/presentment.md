@@ -5,15 +5,6 @@ status: unread
 ---
 # presentment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation of crime made by a grand jury on its own initiative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document that must be accepted and paid by another person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look here upon this picture, and on this, The counterfeit presentment of two brothers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon the heels of my presentment, sir."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The lurid presentment so powerfully affected her imagination in the silence of the sleeping house that her nightgown became damp with perspiration, and the bedstead shook with each throb of her heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation of crime made by a grand jury on its own initiative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document that must be accepted and paid by another person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look here upon this picture, and on this, The counterfeit presentment of two brothers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon the heels of my presentment, sir."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The lurid presentment so powerfully affected her imagination in the silence of the sleeping house that her nightgown became damp with perspiration, and the bedstead shook with each throb of her heart."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cardiopulmonary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heart and lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procedure designed to restore normal breathing after cardiac arrest that includes the clearance of air passages to the lungs, mouth-to-mouth method of artificial respiration, and heart massage by the exertion of pressure on the chest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiopulmonary designates of or relating to the heart and lungs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heart and lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procedure designed to restore normal breathing after cardiac arrest that includes the clearance of air passages to the lungs, mouth-to-mouth method of artificial respiration, and heart massage by the exertion of pressure on the chest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiopulmonary designates of or relating to the heart and lungs."*

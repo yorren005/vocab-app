@@ -5,20 +5,6 @@ status: unread
 ---
 # gust
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Blow in gusts
-> 2. **Nuance / Usage**: Sudden outburst : surge
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whiles we have struck, By interims and conveying gusts we have heard The charges of our friends."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What did I then, but cursed the gentle gusts And he that loosed them forth their brazen caves And bid them blow towards England’s blessed shore Or turn our stern upon a dreadful rock?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Blow in gusts
+> 2. **Nuance / Usage**: Sudden outburst : surge
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whiles we have struck, By interims and conveying gusts we have heard The charges of our friends."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What did I then, but cursed the gentle gusts And he that loosed them forth their brazen caves And bid them blow towards England’s blessed shore Or turn our stern upon a dreadful rock?"*

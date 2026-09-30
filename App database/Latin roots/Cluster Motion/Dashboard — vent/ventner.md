@@ -5,13 +5,6 @@ status: unread
 ---
 # ventner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventner designates united states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventner designates united states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946)."*

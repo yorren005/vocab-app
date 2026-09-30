@@ -5,13 +5,6 @@ status: unread
 ---
 # asteridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asteridae designates a group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asteridae designates a group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder."*

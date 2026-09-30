@@ -5,13 +5,6 @@ status: unread
 ---
 # marruecos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kingdom (constitutional monarchy) in northwestern africa with a largely muslim population; achieved independence from france in 1956.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kingdom (constitutional monarchy) in northwestern africa with a largely muslim population; achieved independence from france in 1956.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marruecos designates a kingdom (constitutional monarchy) in northwestern africa with a largely muslim population; achieved independence from france in 1956."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kingdom (constitutional monarchy) in northwestern africa with a largely muslim population; achieved independence from france in 1956.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kingdom (constitutional monarchy) in northwestern africa with a largely muslim population; achieved independence from france in 1956.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marruecos designates a kingdom (constitutional monarchy) in northwestern africa with a largely muslim population; achieved independence from france in 1956."*

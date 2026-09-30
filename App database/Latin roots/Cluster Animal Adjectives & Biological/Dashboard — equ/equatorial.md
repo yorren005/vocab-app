@@ -5,15 +5,6 @@ status: unread
 ---
 # equatorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telescope whose mounting has only two axes of motion, one parallel to the earth's axis and the other one at right angles to it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or at an equator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No possible endeavor then could enable her commander to make the great passage southwards, double Cape Horn, and then running down sixty degrees of latitude arrive in the equatorial Pacific in time to cruise there."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You meet them on the Line in time for the full flower of the Equatorial feeding season, having just returned, perhaps, from spending the summer in the Northern seas, and so cheating summer of all unpleasant weariness and warmth."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Before this equatorial coin, Ahab, not unobserved by others, was now pausing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telescope whose mounting has only two axes of motion, one parallel to the earth's axis and the other one at right angles to it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or at an equator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No possible endeavor then could enable her commander to make the great passage southwards, double Cape Horn, and then running down sixty degrees of latitude arrive in the equatorial Pacific in time to cruise there."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You meet them on the Line in time for the full flower of the Equatorial feeding season, having just returned, perhaps, from spending the summer in the Northern seas, and so cheating summer of all unpleasant weariness and warmth."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Before this equatorial coin, Ahab, not unobserved by others, was now pausing."*

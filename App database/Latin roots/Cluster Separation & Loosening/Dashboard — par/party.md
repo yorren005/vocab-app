@@ -5,15 +5,6 @@ status: unread
 ---
 # party
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization to gain political power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people gathered together for pleasure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, with a drum and colours, a party of the Florentine army, Bertram and Parolles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I have him, but I would not be the party that should desire you to touch him, for his biting is immortal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, who cries out on pride That can therein tax any private party?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization to gain political power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people gathered together for pleasure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, with a drum and colours, a party of the Florentine army, Bertram and Parolles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I have him, but I would not be the party that should desire you to touch him, for his biting is immortal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, who cries out on pride That can therein tax any private party?"*

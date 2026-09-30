@@ -5,15 +5,6 @@ status: unread
 ---
 # desperation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which all hope is lost or absent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desperate recklessness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Desperation Is all the policy, strength, and defence That Rome can make against them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very place puts toys of desperation, Without more motive, into every brain That looks so many fathoms to the sea And hears it roar beneath."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a soul But felt a fever of the mad, and play’d Some tricks of desperation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which all hope is lost or absent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desperate recklessness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Desperation Is all the policy, strength, and defence That Rome can make against them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very place puts toys of desperation, Without more motive, into every brain That looks so many fathoms to the sea And hears it roar beneath."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a soul But felt a fever of the mad, and play’d Some tricks of desperation."*

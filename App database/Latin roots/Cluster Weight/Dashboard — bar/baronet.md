@@ -5,15 +5,6 @@ status: unread
 ---
 # baronet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the british order of honor; ranks below a baron but above a knight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the british order of honor; ranks below a baron but above a knight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock is only a baronet, but there is no mightier baronet than he."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fellow, by his agent, or secretary, or somebody, writes to me ‘Sir Leicester Dedlock, Baronet, presents his compliments to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the british order of honor; ranks below a baron but above a knight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the british order of honor; ranks below a baron but above a knight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock is only a baronet, but there is no mightier baronet than he."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fellow, by his agent, or secretary, or somebody, writes to me ‘Sir Leicester Dedlock, Baronet, presents his compliments to Mr."*

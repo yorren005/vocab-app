@@ -5,14 +5,6 @@ status: unread
 ---
 # theocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government of a state by immediate divine guidance or by officials who are regarded as divinely guided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state governed by a theocracy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the latter case they are kings as well as gods, and the government is a theocracy."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jew offered the pattern of a theocracy, and the Roman of a hierarchy of officials, but it took two centuries to produce the church of Cyprian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government of a state by immediate divine guidance or by officials who are regarded as divinely guided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state governed by a theocracy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the latter case they are kings as well as gods, and the government is a theocracy."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jew offered the pattern of a theocracy, and the Roman of a hierarchy of officials, but it took two centuries to produce the church of Cyprian."*

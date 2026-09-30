@@ -5,13 +5,6 @@ status: unread
 ---
 # tempera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pigment mixed with water-soluble glutinous materials such as size and egg yolk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pigment mixed with water-soluble glutinous materials such as size and egg yolk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No Virgin by him the somewhat petty, Of finical touch and tempera crumbly-- Could not Alesso Baldovinetti Contribute so much, I ask him humbly? -- St. 27."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pigment mixed with water-soluble glutinous materials such as size and egg yolk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pigment mixed with water-soluble glutinous materials such as size and egg yolk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No Virgin by him the somewhat petty, Of finical touch and tempera crumbly-- Could not Alesso Baldovinetti Contribute so much, I ask him humbly? -- St. 27."*

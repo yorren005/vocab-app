@@ -5,15 +5,6 @@ status: unread
 ---
 # vista
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual percept of a region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual percept of a region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket looks at him as if his face were a vista of some miles in length and he were leisurely contemplating the same."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"We looked down the whole vista, and saw it closed by iron gates, and it could not have been more than a furlong in length.” “Oh!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Full souls are double mirrors, making still An endless vista of fair things before, Repeating things behind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual percept of a region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual percept of a region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket looks at him as if his face were a vista of some miles in length and he were leisurely contemplating the same."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"We looked down the whole vista, and saw it closed by iron gates, and it could not have been more than a furlong in length.” “Oh!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Full souls are double mirrors, making still An endless vista of fair things before, Repeating things behind."*

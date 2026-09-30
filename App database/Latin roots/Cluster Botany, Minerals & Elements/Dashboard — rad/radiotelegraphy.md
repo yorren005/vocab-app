@@ -5,13 +5,6 @@ status: unread
 ---
 # radiotelegraphy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telegraphy that uses transmission by radio rather than by wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of radio to send telegraphic messages (usually by morse code).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotelegraphy designates telegraphy that uses transmission by radio rather than by wire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Telegraphy that uses transmission by radio rather than by wire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of radio to send telegraphic messages (usually by morse code).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotelegraphy designates telegraphy that uses transmission by radio rather than by wire."*

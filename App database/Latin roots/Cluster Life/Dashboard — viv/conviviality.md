@@ -5,15 +5,6 @@ status: unread
 ---
 # conviviality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A jovial nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boisterous celebration; a merry festivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It is evident that Burns was a man of extremely passionate nature and fond of conviviality; and the misfortunes of his lot combined with his natural tendencies to drive him to frequent excesses of self-indulgence."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There is a tone of solemn and sacred feeling that blends with our conviviality and lifts the spirit to a state of hallowed and elevated enjoyment."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Lights twinkled in the garrets, telling of lonely study or noisy conviviality in the coming hours of darkness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A jovial nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boisterous celebration; a merry festivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It is evident that Burns was a man of extremely passionate nature and fond of conviviality; and the misfortunes of his lot combined with his natural tendencies to drive him to frequent excesses of self-indulgence."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There is a tone of solemn and sacred feeling that blends with our conviviality and lifts the spirit to a state of hallowed and elevated enjoyment."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Lights twinkled in the garrets, telling of lonely study or noisy conviviality in the coming hours of darkness."*

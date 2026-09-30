@@ -5,15 +5,6 @@ status: unread
 ---
 # ev
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having reached the Patriarch’s Ponds Pierre found the Bazdéevs’ house, where he had not been for a long time past."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Heaven save me, or I’m a done man.’ Well, then he called to mind how he’d seen the cattle kneel o’ Christmas Eves in the dead o’ night."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On these eves a line of tar-barrels, relieved occasionally by large bonfires, is seen in the centre of each of the principal streets in Penzance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having reached the Patriarch’s Ponds Pierre found the Bazdéevs’ house, where he had not been for a long time past."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Heaven save me, or I’m a done man.’ Well, then he called to mind how he’d seen the cattle kneel o’ Christmas Eves in the dead o’ night."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On these eves a line of tar-barrels, relieved occasionally by large bonfires, is seen in the centre of each of the principal streets in Penzance."*

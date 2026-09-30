@@ -5,15 +5,6 @@ status: unread
 ---
 # not
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to make negative a group of words or a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to stand for the negative of a preceding group of words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profitless usurer why dost thou use So great a sum of sums yet canst not live?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweets with sweets war not, joy delights in joy: Why lov’st thou that which thou receiv’st not gladly, Or else receiv’st with pleasure thine annoy?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to make negative a group of words or a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to stand for the negative of a preceding group of words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profitless usurer why dost thou use So great a sum of sums yet canst not live?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweets with sweets war not, joy delights in joy: Why lov’st thou that which thou receiv’st not gladly, Or else receiv’st with pleasure thine annoy?"*

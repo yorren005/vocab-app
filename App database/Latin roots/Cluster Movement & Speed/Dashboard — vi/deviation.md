@@ -5,15 +5,6 @@ status: unread
 ---
 # deviation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variation that deviates from the standard or norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The difference between an observed value and the expected value of a variable or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He points it, however, by no deviation from his straightforward manner of speech, though in saying it he turns towards that part of the dim room where my Lady sits."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pfuel and his adherents demanded a retirement into the depths of the country in accordance with precise laws defined by a pseudo-theory of war, and they saw only barbarism, ignorance, or evil intention in every deviation from that theory."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"No doubt the irregularity is partly caused by the numerous islands which would naturally cause a deviation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variation that deviates from the standard or norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The difference between an observed value and the expected value of a variable or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He points it, however, by no deviation from his straightforward manner of speech, though in saying it he turns towards that part of the dim room where my Lady sits."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pfuel and his adherents demanded a retirement into the depths of the country in accordance with precise laws defined by a pseudo-theory of war, and they saw only barbarism, ignorance, or evil intention in every deviation from that theory."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"No doubt the irregularity is partly caused by the numerous islands which would naturally cause a deviation."*

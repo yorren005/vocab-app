@@ -5,13 +5,6 @@ status: unread
 ---
 # fornix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally any arch shaped structure (but often it refers to the arched roof of an anatomical space).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arched bundle of white fibers at the base of the brain by which the hippocampus of each hemisphere projects to the contralateral hippocampus and to the thalamus and mamillary bodies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fornix designates generally any arch shaped structure (but often it refers to the arched roof of an anatomical space)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally any arch shaped structure (but often it refers to the arched roof of an anatomical space).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arched bundle of white fibers at the base of the brain by which the hippocampus of each hemisphere projects to the contralateral hippocampus and to the thalamus and mamillary bodies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fornix designates generally any arch shaped structure (but often it refers to the arched roof of an anatomical space)."*

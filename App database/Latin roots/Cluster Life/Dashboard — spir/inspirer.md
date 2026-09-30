@@ -5,15 +5,6 @@ status: unread
 ---
 # inspirer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader who stimulates and excites people to action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader who stimulates and excites people to action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This was not the only or chief inspirer of my fears."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am not going to be the advocate of passion: be Thou my inspirer and testimony, O God, as I plead the cause of truth!"*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have two reasons for thinking that it was my early, sweet, simple inspirer that was by my elbow, "smooth gliding without step," and pouring the song on my glowing fancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader who stimulates and excites people to action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader who stimulates and excites people to action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This was not the only or chief inspirer of my fears."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am not going to be the advocate of passion: be Thou my inspirer and testimony, O God, as I plead the cause of truth!"*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have two reasons for thinking that it was my early, sweet, simple inspirer that was by my elbow, "smooth gliding without step," and pouring the song on my glowing fancy."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unilateralism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilateralism designates the doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilateralism designates the doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations."*

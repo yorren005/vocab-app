@@ -5,15 +5,6 @@ status: unread
 ---
 # scripture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sacred writings of the christian religions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any writing that is regarded as sacred by a religious group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dost thou understand the Scripture?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Scripture says Adam digg’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark you this, Bassanio, The devil can cite Scripture for his purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sacred writings of the christian religions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any writing that is regarded as sacred by a religious group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dost thou understand the Scripture?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Scripture says Adam digg’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark you this, Bassanio, The devil can cite Scripture for his purpose."*

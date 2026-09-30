@@ -5,15 +5,6 @@ status: unread
 ---
 # victual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must go victual Orleans forthwith. [_A short alarum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You had musty victual, and he hath holp to eat it; he is a very valiant trencher-man; he hath an excellent stomach."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Do you think I mean to forget your kicking me when I was a lad, and eating all the best victual away from me and my mother?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be used as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must go victual Orleans forthwith. [_A short alarum."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You had musty victual, and he hath holp to eat it; he is a very valiant trencher-man; he hath an excellent stomach."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Do you think I mean to forget your kicking me when I was a lad, and eating all the best victual away from me and my mother?"*

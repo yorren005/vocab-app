@@ -5,15 +5,6 @@ status: unread
 ---
 # rigorously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rigorous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And you should take their words for it.” “They don’t say so exactly.” “Oh yes, they must!” “Well, I mean to my face, as you do,” she went on, allowing herself to be further lured into a conversation that intention had rigorously forbidden."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this cabin he shuts up his daughter so that she cannot see the light, and there she remains fasting rigorously for four days."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigorous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rigorous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And you should take their words for it.” “They don’t say so exactly.” “Oh yes, they must!” “Well, I mean to my face, as you do,” she went on, allowing herself to be further lured into a conversation that intention had rigorously forbidden."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this cabin he shuts up his daughter so that she cannot see the light, and there she remains fasting rigorously for four days."*

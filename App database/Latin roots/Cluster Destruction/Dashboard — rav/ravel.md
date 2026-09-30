@@ -5,15 +5,6 @@ status: unread
 ---
 # ravel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer and exponent of impressionism (1875-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A row of unravelled stitches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And must I ravel out My weaved-up follies?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, as you unwind her love from him, Lest it should ravel and be good to none, You must provide to bottom it on me, Which must be done by praising me as much As you in worth dispraise Sir Valentine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the ravel of one of these pieces was a bit of brown thread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer and exponent of impressionism (1875-1937).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A row of unravelled stitches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And must I ravel out My weaved-up follies?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, as you unwind her love from him, Lest it should ravel and be good to none, You must provide to bottom it on me, Which must be done by praising me as much As you in worth dispraise Sir Valentine."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the ravel of one of these pieces was a bit of brown thread."*

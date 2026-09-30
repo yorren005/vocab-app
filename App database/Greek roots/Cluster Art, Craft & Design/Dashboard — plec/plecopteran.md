@@ -5,13 +5,6 @@ status: unread
 ---
 # plecopteran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plecopteran designates primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plecopteran designates primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones."*

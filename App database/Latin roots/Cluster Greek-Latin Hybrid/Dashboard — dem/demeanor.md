@@ -5,15 +5,6 @@ status: unread
 ---
 # demeanor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ride, ride, Messala, ride, and give these bills Unto the legions on the other side. [_Loud alarum._] Let them set on at once; for I perceive But cold demeanor in Octavius’ wing, And sudden push gives them the overthrow."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was occasionally a little fierceness in his demeanor, but it was directed chiefly against false opinion, of which there is so much to correct in the world that a man of some reading and experience necessarily has his patience tried."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now what’s your answer?” “When dis old brack man dies,” said the negro slowly, changing his whole air and demeanor, “he hisself won’t go nowhere; but some bressed angel will come and fetch him.” “Fetch him?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ride, ride, Messala, ride, and give these bills Unto the legions on the other side. [_Loud alarum._] Let them set on at once; for I perceive But cold demeanor in Octavius’ wing, And sudden push gives them the overthrow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was occasionally a little fierceness in his demeanor, but it was directed chiefly against false opinion, of which there is so much to correct in the world that a man of some reading and experience necessarily has his patience tried."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now what’s your answer?” “When dis old brack man dies,” said the negro slowly, changing his whole air and demeanor, “he hisself won’t go nowhere; but some bressed angel will come and fetch him.” “Fetch him?"*

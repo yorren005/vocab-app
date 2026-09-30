@@ -5,15 +5,6 @@ status: unread
 ---
 # contented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Satisfy in a limited way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thither will I invite the Duke and all’s contented followers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, for mine own part, my lord, I could be well contented to be there, in respect of the love I bear your house.” He could be contented; why is he not, then?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the deed were ill, Be you contented, wearing now the garland, To have a son set your decrees at nought?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Satisfy in a limited way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thither will I invite the Duke and all’s contented followers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, for mine own part, my lord, I could be well contented to be there, in respect of the love I bear your house.” He could be contented; why is he not, then?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the deed were ill, Be you contented, wearing now the garland, To have a son set your decrees at nought?"*

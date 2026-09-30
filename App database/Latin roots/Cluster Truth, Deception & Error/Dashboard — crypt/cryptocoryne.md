@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptocoryne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocoryne designates any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocoryne designates any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia."*

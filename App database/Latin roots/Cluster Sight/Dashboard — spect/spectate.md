@@ -5,13 +5,6 @@ status: unread
 ---
 # spectate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a spectator in a sports event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a spectator in a sports event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectate designates be a spectator in a sports event."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a spectator in a sports event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a spectator in a sports event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectate designates be a spectator in a sports event."*

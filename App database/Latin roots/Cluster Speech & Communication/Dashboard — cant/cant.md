@@ -5,15 +5,6 @@ status: unread
 ---
 # cant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stock phrases that have become nonsense through endless repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I am no novel-reader—I seldom look into novels—Do not imagine that _I_ often read novels—It is really very well for a novel.” Such is the common cant."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Life is al a variorum, We regard not how it goes; Let them cant about decorum, Who have character to lose."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The great Creator to revere, Must sure become the creature; But still the preaching cant forbear, And ev’n the rigid feature: Yet ne’er with wits profane to range, Be complaisance extended; An atheist-laugh’s a poor exchange For Deity offended!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stock phrases that have become nonsense through endless repetition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"I am no novel-reader—I seldom look into novels—Do not imagine that _I_ often read novels—It is really very well for a novel.” Such is the common cant."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Life is al a variorum, We regard not how it goes; Let them cant about decorum, Who have character to lose."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The great Creator to revere, Must sure become the creature; But still the preaching cant forbear, And ev’n the rigid feature: Yet ne’er with wits profane to range, Be complaisance extended; An atheist-laugh’s a poor exchange For Deity offended!"*

@@ -5,20 +5,6 @@ status: unread
 ---
 # thrash
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Defeat utterly
-> 2. **Nuance / Usage**: Beat mercilessly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrash the target*) and intransitive clauses (*thrashing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Roger Waters (*The Happiest Days of Our Lives*):** *"But in the town it was well known, when they got home at night, their fat and psychopathic wives would thrash them within inches of their lives."*
-> - 📜 **Juvenal (*John Dryden: The Major Works*):** *"I rather would be Maevius, thrash for rhymes, / Like his, the scorn and scandal of the times."*
-> - 📜 **Britney Spears (*{{w*):** *"As performers, we girls have our hair. That's the real thing guys want to see. They love to see the long hair move. They want you to thrash it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Defeat utterly
+> 2. **Nuance / Usage**: Beat mercilessly
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrash the target*) and intransitive clauses (*thrashing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Roger Waters (*The Happiest Days of Our Lives*):** *"But in the town it was well known, when they got home at night, their fat and psychopathic wives would thrash them within inches of their lives."*
+> - 📜 **Juvenal (*John Dryden: The Major Works*):** *"I rather would be Maevius, thrash for rhymes, / Like his, the scorn and scandal of the times."*
+> - 📜 **Britney Spears (*{{w*):** *"As performers, we girls have our hair. That's the real thing guys want to see. They love to see the long hair move. They want you to thrash it."*

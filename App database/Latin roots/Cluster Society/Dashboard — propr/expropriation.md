@@ -5,13 +5,6 @@ status: unread
 ---
 # expropriation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking out of an owner's hands (especially taking property by public authority).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking out of an owner's hands (especially taking property by public authority).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expropriation designates taking out of an owner's hands (especially taking property by public authority)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking out of an owner's hands (especially taking property by public authority).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking out of an owner's hands (especially taking property by public authority).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expropriation designates taking out of an owner's hands (especially taking property by public authority)."*

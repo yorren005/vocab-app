@@ -5,13 +5,6 @@ status: unread
 ---
 # leukemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute or chronic disease in humans and other warm-blooded animals characterized by an abnormal increase in the number of white blood cells in the tissues and often in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic leukemia that is usually of B cell origin and is characterized by malignant cells with a ciliated appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukemia designates an acute or chronic disease in humans and other warm-blooded animals characterized by an abnormal increase in the number of white blood cells in the tissues and often in the blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute or chronic disease in humans and other warm-blooded animals characterized by an abnormal increase in the number of white blood cells in the tissues and often in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic leukemia that is usually of B cell origin and is characterized by malignant cells with a ciliated appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukemia designates an acute or chronic disease in humans and other warm-blooded animals characterized by an abnormal increase in the number of white blood cells in the tissues and often in the blood."*

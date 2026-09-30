@@ -5,15 +5,6 @@ status: unread
 ---
 # helicon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuba that coils over the shoulder of the musician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuba that coils over the shoulder of the musician.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song.—O, Were I On Parnassus Hill Tune—“My love is lost to me.” O, were I on Parnassus hill, Or had o’ Helicon my fill, That I might catch poetic skill, To sing how dear I love thee!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"I spent no end of time in making out these things—Helicon, now."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"You will believe empty myths, he says, but "Truth's bright face seems to you to be false and falls under eyes of unbelief." But Cithaeron and Helicon are old."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuba that coils over the shoulder of the musician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuba that coils over the shoulder of the musician.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song.—O, Were I On Parnassus Hill Tune—“My love is lost to me.” O, were I on Parnassus hill, Or had o’ Helicon my fill, That I might catch poetic skill, To sing how dear I love thee!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"I spent no end of time in making out these things—Helicon, now."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"You will believe empty myths, he says, but "Truth's bright face seems to you to be false and falls under eyes of unbelief." But Cithaeron and Helicon are old."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # kenning
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Recognize
-> 2. **Nuance / Usage**: Perceptible but small amount
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the kenning withstood the storm*), direct object (*cleaved the kenning*), or prepositional anchor (*amidst the kenning*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Snorri Sturluson (*Prose Edda*):** *"A kenning is when one names a thing by a term other than its proper name, calling the sea the 'whale-road' and gold the 'fire of the waters'."*
-> - 📜 **J. R. R. Tolkien (*Beowulf: The Monsters and the Critics*):** *"The Old English poet delights in the traditional kenning, naming the ship a 'foamy-necked floater' and the sea the 'gannet's bath'."*
-> - 📜 **George Stephens (*The Old-Northern Runic Monuments*):** *"The Skalds used all sorts of kennings from jewels, gold, and sea-foam to betoken heroes and ships."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Recognize
+> 2. **Nuance / Usage**: Perceptible but small amount
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the kenning withstood the storm*), direct object (*cleaved the kenning*), or prepositional anchor (*amidst the kenning*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Snorri Sturluson (*Prose Edda*):** *"A kenning is when one names a thing by a term other than its proper name, calling the sea the 'whale-road' and gold the 'fire of the waters'."*
+> - 📜 **J. R. R. Tolkien (*Beowulf: The Monsters and the Critics*):** *"The Old English poet delights in the traditional kenning, naming the ship a 'foamy-necked floater' and the sea the 'gannet's bath'."*
+> - 📜 **George Stephens (*The Old-Northern Runic Monuments*):** *"The Skalds used all sorts of kennings from jewels, gold, and sea-foam to betoken heroes and ships."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # nauseating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Upset and make nauseated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The rank odor of cheap tobacco mingles with the nauseating aroma of the myriad socks hung above the stove and the poorly ventilated place is stifling, oppressive and depressing."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The saloonmen, because of the natural results of their business can stand considerable of the unusual, but this woodsman was able to give the denizens of Billingsgate advance instruction in the unprintable and nauseating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Upset and make nauseated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The rank odor of cheap tobacco mingles with the nauseating aroma of the myriad socks hung above the stove and the poorly ventilated place is stifling, oppressive and depressing."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The saloonmen, because of the natural results of their business can stand considerable of the unusual, but this woodsman was able to give the denizens of Billingsgate advance instruction in the unprintable and nauseating."*

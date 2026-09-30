@@ -5,13 +5,6 @@ status: unread
 ---
 # inunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anointing as part of a religious ceremony or healing ritual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anointing as part of a religious ceremony or healing ritual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inunction designates anointing as part of a religious ceremony or healing ritual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anointing as part of a religious ceremony or healing ritual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anointing as part of a religious ceremony or healing ritual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inunction designates anointing as part of a religious ceremony or healing ritual."*

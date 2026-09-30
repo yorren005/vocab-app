@@ -5,15 +5,6 @@ status: unread
 ---
 # postpone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold back to a later time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had to hang it up because the mother insisted that they should go to lunch and postpone everything else till the afternoon."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It was decided to postpone it till the 22d of June."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"God has just told me you must not go." She was surprised, but he was positive, and prevailed upon her to postpone her voyage, and assisted her to remove her luggage out of the vessel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold back to a later time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had to hang it up because the mother insisted that they should go to lunch and postpone everything else till the afternoon."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It was decided to postpone it till the 22d of June."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"God has just told me you must not go." She was surprised, but he was positive, and prevailed upon her to postpone her voyage, and assisted her to remove her luggage out of the vessel."*

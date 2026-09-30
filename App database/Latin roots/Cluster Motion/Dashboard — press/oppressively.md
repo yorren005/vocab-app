@@ -5,15 +5,6 @@ status: unread
 ---
 # oppressively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a heavy and oppressive way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a heavy and oppressive way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet had been down stairs, but on this happy day she again took her seat at the head of her table, and in spirits oppressively high."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The crowd around became oppressively silent."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What a muscular creature you are!” “Kiss away as much as you like,” said Cashel, struggling with the old school-boy sullenness as it returned oppressively upon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a heavy and oppressive way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a heavy and oppressive way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet had been down stairs, but on this happy day she again took her seat at the head of her table, and in spirits oppressively high."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The crowd around became oppressively silent."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What a muscular creature you are!” “Kiss away as much as you like,” said Cashel, struggling with the old school-boy sullenness as it returned oppressively upon him."*

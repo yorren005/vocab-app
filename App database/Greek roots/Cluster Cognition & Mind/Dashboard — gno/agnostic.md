@@ -5,13 +5,6 @@ status: unread
 ---
 # agnostic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds the view that any ultimate reality (such as a supreme being) is unknown and probably unknowable; broadly : one who is not committed to believing in either the existence or the nonexistence of God or any gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is unwilling to commit to an opinion about something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnostic designates a person who holds the view that any ultimate reality (such as a supreme being) is unknown and probably unknowable; broadly : one who is not committed to believing in either the existence or the nonexistence of god or any gods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds the view that any ultimate reality (such as a supreme being) is unknown and probably unknowable; broadly : one who is not committed to believing in either the existence or the nonexistence of God or any gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is unwilling to commit to an opinion about something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnostic designates a person who holds the view that any ultimate reality (such as a supreme being) is unknown and probably unknowable; broadly : one who is not committed to believing in either the existence or the nonexistence of god or any gods."*

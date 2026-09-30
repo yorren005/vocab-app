@@ -5,15 +5,6 @@ status: unread
 ---
 # hallway
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interior passage or corridor onto which rooms open.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interior passage or corridor onto which rooms open.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as our lessons were done at twelve o'clock, they ran to the garden and, getting the whip I had hidden in the hallway, I ran after them."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He ducked through a gap in one wall, squeezed along a narrow hallway and exited into an open space."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"What's up?' 'Let's just wait and see,' Mother smiled mysteriously as they loaded the dishwasher. *** Finished with her work, Leah skipped along the hallway that connected her room to the living room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interior passage or corridor onto which rooms open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interior passage or corridor onto which rooms open.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as our lessons were done at twelve o'clock, they ran to the garden and, getting the whip I had hidden in the hallway, I ran after them."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He ducked through a gap in one wall, squeezed along a narrow hallway and exited into an open space."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"What's up?' 'Let's just wait and see,' Mother smiled mysteriously as they loaded the dishwasher. *** Finished with her work, Leah skipped along the hallway that connected her room to the living room."*

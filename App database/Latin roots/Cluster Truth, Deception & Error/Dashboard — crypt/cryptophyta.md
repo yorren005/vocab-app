@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptophyta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum in the kingdom protoctista.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phylum in the kingdom protoctista.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptophyta designates a phylum in the kingdom protoctista."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum in the kingdom protoctista.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phylum in the kingdom protoctista.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptophyta designates a phylum in the kingdom protoctista."*

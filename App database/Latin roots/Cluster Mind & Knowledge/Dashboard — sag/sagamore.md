@@ -5,15 +5,6 @@ status: unread
 ---
 # sagamore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief of a north american tribe or confederation (especially an algonquian chief).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chief of a north american tribe or confederation (especially an algonquian chief).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In this forlorn situation they were visited by Massasoit, chief sagamore of the Wampanoags, a powerful chief who reigned over a great extent of country."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He was lodged in the prison, not as suspected of any offence, but as the most convenient and suitable mode of disposing of him, until the magistrates should have conferred with the Indian sagamores respecting his ransom."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Holgrave opened it, and displayed an ancient deed, signed with the hieroglyphics of several Indian sagamores, and conveying to Colonel Pyncheon and his heirs, forever, a vast extent of territory at the Eastward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief of a north american tribe or confederation (especially an algonquian chief).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chief of a north american tribe or confederation (especially an algonquian chief).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In this forlorn situation they were visited by Massasoit, chief sagamore of the Wampanoags, a powerful chief who reigned over a great extent of country."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He was lodged in the prison, not as suspected of any offence, but as the most convenient and suitable mode of disposing of him, until the magistrates should have conferred with the Indian sagamores respecting his ransom."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Holgrave opened it, and displayed an ancient deed, signed with the hieroglyphics of several Indian sagamores, and conveying to Colonel Pyncheon and his heirs, forever, a vast extent of territory at the Eastward."*

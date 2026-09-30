@@ -5,13 +5,6 @@ status: unread
 ---
 # biogeography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the geographical distribution of animals and plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragmentation of the environment (as by splitting of a tectonic plate) in contrast to dispersal as a factor in promoting biological evolution by division of large populations into isolated subpopulations —called also vicariance biogeography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogeography designates a science that deals with the geographical distribution of animals and plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the geographical distribution of animals and plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragmentation of the environment (as by splitting of a tectonic plate) in contrast to dispersal as a factor in promoting biological evolution by division of large populations into isolated subpopulations —called also vicariance biogeography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogeography designates a science that deals with the geographical distribution of animals and plants."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # finery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate or showy attire and accessories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate or showy attire and accessories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She is only nursing Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive, fashionable woman, I believe; and of course will have nothing to report but of lace and finery."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her love of dirt gave way to an inclination for finery, and she grew clean as she grew smart; she had now the pleasure of sometimes hearing her father and mother remark on her personal improvement."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This seclusion is repeated at her second and third monthly periods, but when the third is over she is brought to her husband bedecked with savage finery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate or showy attire and accessories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate or showy attire and accessories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She is only nursing Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive, fashionable woman, I believe; and of course will have nothing to report but of lace and finery."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her love of dirt gave way to an inclination for finery, and she grew clean as she grew smart; she had now the pleasure of sometimes hearing her father and mother remark on her personal improvement."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This seclusion is repeated at her second and third monthly periods, but when the third is over she is brought to her husband bedecked with savage finery."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # magnesite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white mineral consisting of magnesium carbonate; a source of magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white mineral consisting of magnesium carbonate; a source of magnesium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The magnesite bricks are laid in dry magnesite powder, except near the tuyeres, where a mixture of magnesia and linseed oil is used."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Magnesite linings (see _Basic linings_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white mineral consisting of magnesium carbonate; a source of magnesium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white mineral consisting of magnesium carbonate; a source of magnesium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The magnesite bricks are laid in dry magnesite powder, except near the tuyeres, where a mixture of magnesia and linseed oil is used."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Magnesite linings (see _Basic linings_)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # venal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrupted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This gentleman had travelled under the care of Patrick Brydone, author of a well-known “Tour Through Sicily and Malta.”] Or, ’mid the venal senate’s roar, They, sightless, stand, To mend the honest patriot-lore, And grace the hand."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or labour hard the panegyric close, With all the venal soul of dedicating prose?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Princes, whose cumb’rous pride was all their worth, Shall venal lays their pompous exit hail, And thou, sweet Excellence! forsake our earth, And not a Muse with honest grief bewail?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrupted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This gentleman had travelled under the care of Patrick Brydone, author of a well-known “Tour Through Sicily and Malta.”] Or, ’mid the venal senate’s roar, They, sightless, stand, To mend the honest patriot-lore, And grace the hand."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or labour hard the panegyric close, With all the venal soul of dedicating prose?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Princes, whose cumb’rous pride was all their worth, Shall venal lays their pompous exit hail, And thou, sweet Excellence! forsake our earth, And not a Muse with honest grief bewail?"*

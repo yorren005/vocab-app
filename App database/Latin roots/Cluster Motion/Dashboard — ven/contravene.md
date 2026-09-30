@@ -5,15 +5,6 @@ status: unread
 ---
 # contravene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go against, as of rules and laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deny the truth of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She knew that it was all sentiment, all baseless impressibility, which had caused her to read the scene as her own condemnation; nevertheless she could not get over it; she could not contravene in her own defenceless person all those untoward omens."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It would have been to contravene these arrangements if Rosamond had consented to go away to Stone Court or elsewhere, as her parents wished her to do, especially since Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This is the more necessary where the frame of the government is so compounded that the laws of the whole are in danger of being contravened by the laws of the parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go against, as of rules and laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deny the truth of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She knew that it was all sentiment, all baseless impressibility, which had caused her to read the scene as her own condemnation; nevertheless she could not get over it; she could not contravene in her own defenceless person all those untoward omens."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It would have been to contravene these arrangements if Rosamond had consented to go away to Stone Court or elsewhere, as her parents wished her to do, especially since Mr."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This is the more necessary where the frame of the government is so compounded that the laws of the whole are in danger of being contravened by the laws of the parts."*

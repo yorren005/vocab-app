@@ -5,13 +5,6 @@ status: unread
 ---
 # rusty-red
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a red color tinged with rust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a red color tinged with rust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rusty-red designates of a red color tinged with rust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a red color tinged with rust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a red color tinged with rust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rusty-red designates of a red color tinged with rust."*

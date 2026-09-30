@@ -5,15 +5,6 @@ status: unread
 ---
 # courser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a strong swift horse ridden into battle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much is breeding Which, like the courser’s hair, hath yet but life And not a serpent’s poison."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then did they imitate that which I compos’d to my courser, for my horse is my mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your furtherance I am clothed in steel; And spite of all the rapture of the sea, This jewel holds his building on my arm: Unto thy value I will mount myself Upon a courser, whose delightful steps Shall make the gazer joy to see him tread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a strong swift horse ridden into battle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much is breeding Which, like the courser’s hair, hath yet but life And not a serpent’s poison."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then did they imitate that which I compos’d to my courser, for my horse is my mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your furtherance I am clothed in steel; And spite of all the rapture of the sea, This jewel holds his building on my arm: Unto thy value I will mount myself Upon a courser, whose delightful steps Shall make the gazer joy to see him tread."*

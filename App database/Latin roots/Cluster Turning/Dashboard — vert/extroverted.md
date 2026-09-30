@@ -5,13 +5,6 @@ status: unread
 ---
 # extroverted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not introspective; examining what is outside yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At ease in talking to others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extroverted designates not introspective; examining what is outside yourself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not introspective; examining what is outside yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At ease in talking to others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extroverted designates not introspective; examining what is outside yourself."*

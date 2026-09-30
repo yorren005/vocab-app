@@ -5,15 +5,6 @@ status: unread
 ---
 # across
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To the opposite side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transversely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good faith, across; But, my good lord, ’tis thus: will you be cur’d Of your infirmity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back slave, or I will break thy pate across."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who calls me villain, breaks my pate across?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To the opposite side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transversely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good faith, across; But, my good lord, ’tis thus: will you be cur’d Of your infirmity?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back slave, or I will break thy pate across."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who calls me villain, breaks my pate across?"*

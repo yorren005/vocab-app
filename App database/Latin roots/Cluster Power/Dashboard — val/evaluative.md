@@ -5,13 +5,6 @@ status: unread
 ---
 # evaluative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising or involving careful evaluations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising or involving careful evaluations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evaluative designates exercising or involving careful evaluations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising or involving careful evaluations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising or involving careful evaluations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evaluative designates exercising or involving careful evaluations."*

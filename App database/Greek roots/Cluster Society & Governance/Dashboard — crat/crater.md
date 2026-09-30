@@ -5,15 +5,6 @@ status: unread
 ---
 # crater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowl-shaped geological formation at the top of a volcano.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near hydra and corvus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever she felt herself injured, words of indignation poured out from her like fiery lava from a crater."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To live, for me, Jane, is to stand on a crater-crust which may crack and spue fire any day.” “But Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You look a raight down dacent little crater.” “That will do—I forgive you now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowl-shaped geological formation at the top of a volcano.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near hydra and corvus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever she felt herself injured, words of indignation poured out from her like fiery lava from a crater."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To live, for me, Jane, is to stand on a crater-crust which may crack and spue fire any day.” “But Mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You look a raight down dacent little crater.” “That will do—I forgive you now."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exonerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce not guilty of criminal charges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It may appear to some readers that the young lady was both precipitate and unduly fastidious; but the latter of these facts, if the charge be true, may serve to exonerate her from the discredit of the former."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I do not exonerate those who maltreated your father."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Webster,) while he exonerates me personally from the charge, intimates that there is a party in the country who are looking to disunion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce not guilty of criminal charges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It may appear to some readers that the young lady was both precipitate and unduly fastidious; but the latter of these facts, if the charge be true, may serve to exonerate her from the discredit of the former."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I do not exonerate those who maltreated your father."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Webster,) while he exonerates me personally from the charge, intimates that there is a party in the country who are looking to disunion."*

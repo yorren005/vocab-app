@@ -5,13 +5,6 @@ status: unread
 ---
 # epigraph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quotation at the beginning of some piece of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engraved inscription.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigraph designates a quotation at the beginning of some piece of writing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quotation at the beginning of some piece of writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engraved inscription.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigraph designates a quotation at the beginning of some piece of writing."*

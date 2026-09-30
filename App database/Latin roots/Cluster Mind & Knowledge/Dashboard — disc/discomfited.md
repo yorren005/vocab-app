@@ -5,15 +5,6 @@ status: unread
 ---
 # discomfited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are defeated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To heave the traitor Somerset from hence And fight against that monstrous rebel Cade, Who since I heard to be discomfited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BAPTISTA. [_To Hortensio_.] Well, go with me, and be not so discomfited; Proceed in practice with my younger daughter; She’s apt to learn, and thankful for good turns."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy look at each other, the former as having relinquished the whole affair, the latter with a discomfited countenance as having entertained some lingering expectations yet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are defeated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To heave the traitor Somerset from hence And fight against that monstrous rebel Cade, Who since I heard to be discomfited."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BAPTISTA. [_To Hortensio_.] Well, go with me, and be not so discomfited; Proceed in practice with my younger daughter; She’s apt to learn, and thankful for good turns."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy look at each other, the former as having relinquished the whole affair, the latter with a discomfited countenance as having entertained some lingering expectations yet."*

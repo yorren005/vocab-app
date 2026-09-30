@@ -5,15 +5,6 @@ status: unread
 ---
 # classmate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acquaintance that you go to school with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acquaintance that you go to school with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A classmate preceding me at the office had brought it."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Doctor Mitford was an old classmate of his who lived in a neighboring city and who occasionally called upon him in the case of a consultation."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Is it possible that you are Phœbe Pyncheon, only child of my dear cousin and classmate, Arthur?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acquaintance that you go to school with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acquaintance that you go to school with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A classmate preceding me at the office had brought it."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Doctor Mitford was an old classmate of his who lived in a neighboring city and who occasionally called upon him in the case of a consultation."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Is it possible that you are Phœbe Pyncheon, only child of my dear cousin and classmate, Arthur?"*

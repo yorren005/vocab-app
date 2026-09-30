@@ -5,13 +5,6 @@ status: unread
 ---
 # excursus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that departs from the main subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message that departs from the main subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge, sir." Ukridge was in the middle of a very eloquent excursus on the feeding of fowls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that departs from the main subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message that departs from the main subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge, sir." Ukridge was in the middle of a very eloquent excursus on the feeding of fowls."*

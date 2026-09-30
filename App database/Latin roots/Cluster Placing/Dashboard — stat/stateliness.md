@@ -5,15 +5,6 @@ status: unread
 ---
 # stateliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate manner of doing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressiveness in scale or proportion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, I assure you he is very odd!” She shook her head a great many times and tapped her forehead with her finger to express to us that we must have the goodness to excuse him, “For he is a little—you know—M!” said the old lady with great stateliness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt!” with great stateliness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good-humouredly smiling all over his broad forehead up into his crisp hair, he then defers to Miss Flite, as, with great stateliness, and at some length, she performs the courtly ceremony of presentation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate manner of doing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressiveness in scale or proportion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, I assure you he is very odd!” She shook her head a great many times and tapped her forehead with her finger to express to us that we must have the goodness to excuse him, “For he is a little—you know—M!” said the old lady with great stateliness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt!” with great stateliness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Good-humouredly smiling all over his broad forehead up into his crisp hair, he then defers to Miss Flite, as, with great stateliness, and at some length, she performs the courtly ceremony of presentation."*

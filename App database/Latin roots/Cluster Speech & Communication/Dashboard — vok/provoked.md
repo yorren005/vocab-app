@@ -5,15 +5,6 @@ status: unread
 ---
 # provoked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me speak, and let me rail so high That the false huswife Fortune break her wheel, Provoked by my offence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, when you shall know—as in this rage, Provoked by him, you cannot—the great danger Which this man’s life did owe you, you’ll rejoice That he is thus cut off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for dissension, who preferreth peace More than I do, except I be provoked?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me speak, and let me rail so high That the false huswife Fortune break her wheel, Provoked by my offence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, when you shall know—as in this rage, Provoked by him, you cannot—the great danger Which this man’s life did owe you, you’ll rejoice That he is thus cut off."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for dissension, who preferreth peace More than I do, except I be provoked?"*

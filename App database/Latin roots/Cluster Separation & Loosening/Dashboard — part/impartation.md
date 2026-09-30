@@ -5,14 +5,6 @@ status: unread
 ---
 # impartation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission of information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He has his reserve--his secret; yet, in another sense, he gives himself to them without reserve; there is prodigality of self-impartation in his dealings with them."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God's creation intact 68:27 Christian Science presents unfoldment, not accretion; it manifests no material growth from molecule to mind, but an impartation of the divine Mind to man 68:30 and the universe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission of information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He has his reserve--his secret; yet, in another sense, he gives himself to them without reserve; there is prodigality of self-impartation in his dealings with them."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God's creation intact 68:27 Christian Science presents unfoldment, not accretion; it manifests no material growth from molecule to mind, but an impartation of the divine Mind to man 68:30 and the universe."*

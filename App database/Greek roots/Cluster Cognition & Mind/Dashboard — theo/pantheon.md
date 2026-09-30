@@ -5,15 +5,6 @@ status: unread
 ---
 # pantheon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gods of a people; especially : the officially recognized gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temple dedicated to all the gods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for an onset, Titus, to advance Thy name and honourable family, Lavinia will I make my empress, Rome’s royal mistress, mistress of my heart, And in the sacred Pantheon her espouse."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He would not allow Jesus to be put into that pantheon, nor would he worship the gods himself, not even the "genius" of the Emperor, his guardian spirit."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such an enterprise would seem almost as hopeful as for Lavater to have scrutinized the wrinkles on the Rock of Gibraltar, or for Gall to have mounted a ladder and manipulated the Dome of the Pantheon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gods of a people; especially : the officially recognized gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temple dedicated to all the gods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for an onset, Titus, to advance Thy name and honourable family, Lavinia will I make my empress, Rome’s royal mistress, mistress of my heart, And in the sacred Pantheon her espouse."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He would not allow Jesus to be put into that pantheon, nor would he worship the gods himself, not even the "genius" of the Emperor, his guardian spirit."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such an enterprise would seem almost as hopeful as for Lavater to have scrutinized the wrinkles on the Rock of Gibraltar, or for Gall to have mounted a ladder and manipulated the Dome of the Pantheon."*

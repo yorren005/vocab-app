@@ -5,13 +5,6 @@ status: unread
 ---
 # boneheaded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used informally) stupid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used informally) stupid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boneheaded designates (used informally) stupid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used informally) stupid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used informally) stupid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boneheaded designates (used informally) stupid."*

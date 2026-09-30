@@ -5,13 +5,6 @@ status: unread
 ---
 # aesthetical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerning or characterized by an appreciation of beauty or good taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning or characterized by an appreciation of beauty or good taste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Hogg, who have just been sent down from Oxford for a scandalous affair of an aesthetical squib."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerning or characterized by an appreciation of beauty or good taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning or characterized by an appreciation of beauty or good taste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Hogg, who have just been sent down from Oxford for a scandalous affair of an aesthetical squib."*

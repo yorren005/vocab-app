@@ -5,14 +5,6 @@ status: unread
 ---
 # maxillary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is fused to the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the upper jaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The supra-orbital crest, the facial angle, the maxillary curve, the—” “But this is my special hobby, and the differences are equally obvious."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"And who showed you up into this room?” he continued, crushing his nails into his palms, and grinding his teeth to subdue the maxillary convulsions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is fused to the cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the upper jaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The supra-orbital crest, the facial angle, the maxillary curve, the—” “But this is my special hobby, and the differences are equally obvious."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"And who showed you up into this room?” he continued, crushing his nails into his palms, and grinding his teeth to subdue the maxillary convulsions."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # ensnare
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Take in or as if in a snare
-> 2. **Nuance / Usage**: Entrap; to catch in a snare or trap
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to ensnare the target*) and intransitive clauses (*ensnaring against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"little a web as this will I ensnare as great a fly as Cassio."*
-> - 📜 **Æsop (*Three Hundred Æsop's Fables*):** *"The Geese and the Cranes fed in the same meadow. A birdcatcher came to ensnare them in his nets."*
-> - 📜 **Plato (*Sophist*):** *"When we were asked to what one should apply the name “what is not”, we were ensnared in total paradox. Remember?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To catch or entangle in, or as if in, a physical snare, net, or noose from which escape is difficult.
+> 2. **Nuance / Usage**: Frequently used figuratively to describe capturing someone's mind, affections, or legal freedom through a web of intrigue, logical paradox, or seductive charm.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive).
+> - **Syntactic Constructions**: Operates in transitive and passive constructions (*to ensnare the quarry*, *ensnared in a web of deceit*).
+> - **Collocations & Registers**: Dramatic and literary registers; collocated with *web*, *nets*, *victim*, *affections*, and *paradox*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Othello*):** *"With as little a web as this will I **ensnare** as great a fly as Cassio."*
+> - 📜 **Aesop (*Aesop's Fables*):** *"The Geese and the Cranes fed in the same meadow when a birdcatcher came to **ensnare** them in his nets."*
+> - 📜 **Plato (*Sophist*):** *"When we were asked to what one should apply the name of what is not, we were **ensnared** in total paradox."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hieracium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Var. _b._ _Prenanthis_, Pers.; spots circular or irregular, purplish; subiculum incrassated.—On leaves of Hawkweed (_Hieracium paludosum_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Var. _b._ _Prenanthis_, Pers.; spots circular or irregular, purplish; subiculum incrassated.—On leaves of Hawkweed (_Hieracium paludosum_)."*

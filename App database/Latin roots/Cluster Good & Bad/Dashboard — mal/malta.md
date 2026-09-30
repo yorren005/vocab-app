@@ -5,15 +5,6 @@ status: unread
 ---
 # malta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the island of malta in the mediterranean; achieved independence from the united kingdom in 1964.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategically located island to the south of sicily in the mediterranean sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Discipline must be maintained!” Proceeding to converse on indifferent matters, they walk up and down the little street, keeping step and time, until summoned by Quebec and Malta to do justice to the pork and greens, over which Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, in his domestic character of Bluffy, to take leave of Quebec and Malta and insinuate a sponsorial shilling into the pocket of his godson with felicitations on his success in life, it is dark when Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You know what Quebec and Malta and Woolwich are, and I never did think you would, or could, have had the heart to serve us so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the island of malta in the mediterranean; achieved independence from the united kingdom in 1964.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategically located island to the south of sicily in the mediterranean sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Discipline must be maintained!” Proceeding to converse on indifferent matters, they walk up and down the little street, keeping step and time, until summoned by Quebec and Malta to do justice to the pork and greens, over which Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, in his domestic character of Bluffy, to take leave of Quebec and Malta and insinuate a sponsorial shilling into the pocket of his godson with felicitations on his success in life, it is dark when Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You know what Quebec and Malta and Woolwich are, and I never did think you would, or could, have had the heart to serve us so."*

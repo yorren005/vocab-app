@@ -5,15 +5,6 @@ status: unread
 ---
 # philander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have amorous affairs; of men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mark,” said Gabriel, sternly, “now you mind this: none of that dalliance-talk—that philandering way—that dandle-smack-and-coddle style of yours—about Miss Everdene."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"And the thought that he was philandering his time away with those Caws made me ready for almost anything."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not the purpose of this discursive paper to take up the details of the Clarinda episode; but philandering is scarcely the word by which to describe the mutual relations of the lovers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have amorous affairs; of men.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mark,” said Gabriel, sternly, “now you mind this: none of that dalliance-talk—that philandering way—that dandle-smack-and-coddle style of yours—about Miss Everdene."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"And the thought that he was philandering his time away with those Caws made me ready for almost anything."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not the purpose of this discursive paper to take up the details of the Clarinda episode; but philandering is scarcely the word by which to describe the mutual relations of the lovers."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # semiprivate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confined to a small number of hospital patients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confined to a small number of hospital patients.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiprivate designates confined to a small number of hospital patients."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confined to a small number of hospital patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confined to a small number of hospital patients.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiprivate designates confined to a small number of hospital patients."*

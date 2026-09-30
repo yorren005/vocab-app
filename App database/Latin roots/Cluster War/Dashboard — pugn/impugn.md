@@ -5,15 +5,6 @@ status: unread
 ---
 # impugn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attack as false or wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack as false or wrong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of a strange nature is the suit you follow, Yet in such rule that the Venetian law Cannot impugn you as you do proceed. [_To Antonio_.] You stand within his danger, do you not?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If there were such a material law, it would oppose the supremacy of Spirit, God, and impugn the 273:24 wisdom of the creator."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sir, I am not disposed to impugn the good faith, the patriotism, the sincerity, the many unusual traits and faculties of the President of the United States."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attack as false or wrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack as false or wrong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of a strange nature is the suit you follow, Yet in such rule that the Venetian law Cannot impugn you as you do proceed. [_To Antonio_.] You stand within his danger, do you not?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If there were such a material law, it would oppose the supremacy of Spirit, God, and impugn the 273:24 wisdom of the creator."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Sir, I am not disposed to impugn the good faith, the patriotism, the sincerity, the many unusual traits and faculties of the President of the United States."*

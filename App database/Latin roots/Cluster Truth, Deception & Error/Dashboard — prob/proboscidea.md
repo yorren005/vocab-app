@@ -5,13 +5,6 @@ status: unread
 ---
 # proboscidea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications included in the genus martynia and hence the two taxonomic names for some of the unicorn plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of animals including elephants and mammoths.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proboscidea designates in some classifications included in the genus martynia and hence the two taxonomic names for some of the unicorn plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications included in the genus martynia and hence the two taxonomic names for some of the unicorn plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of animals including elephants and mammoths.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proboscidea designates in some classifications included in the genus martynia and hence the two taxonomic names for some of the unicorn plants."*

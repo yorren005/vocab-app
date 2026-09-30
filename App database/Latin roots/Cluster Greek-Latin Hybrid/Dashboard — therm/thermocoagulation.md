@@ -5,13 +5,6 @@ status: unread
 ---
 # thermocoagulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congealing tissue by heat (as by electric current).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congealing tissue by heat (as by electric current).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocoagulation designates congealing tissue by heat (as by electric current)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congealing tissue by heat (as by electric current).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congealing tissue by heat (as by electric current).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocoagulation designates congealing tissue by heat (as by electric current)."*

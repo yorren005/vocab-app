@@ -5,15 +5,6 @@ status: unread
 ---
 # infirmary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A health facility where patients receive treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A health facility where patients receive treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At length he recovered sufficiently to be removed under his elder brother's careful and loving supervision to the Edinburgh Infirmary, where he remained for four months."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Being far too ill to remain in the common prison, he was removed, after the first day or so, into the infirmary."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A fine fever hospital in addition to the old infirmary might be the nucleus of a medical school here, when once we get our medical reforms; and what would do more for medical education than the spread of such schools over the country?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A health facility where patients receive treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A health facility where patients receive treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"At length he recovered sufficiently to be removed under his elder brother's careful and loving supervision to the Edinburgh Infirmary, where he remained for four months."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Being far too ill to remain in the common prison, he was removed, after the first day or so, into the infirmary."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A fine fever hospital in addition to the old infirmary might be the nucleus of a medical school here, when once we get our medical reforms; and what would do more for medical education than the spread of such schools over the country?"*

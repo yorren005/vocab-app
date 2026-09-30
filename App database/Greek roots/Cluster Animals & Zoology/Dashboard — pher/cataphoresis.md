@@ -5,13 +5,6 @@ status: unread
 ---
 # cataphoresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphoresis designates the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphoresis designates the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode."*

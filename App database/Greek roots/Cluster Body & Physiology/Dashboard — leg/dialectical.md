@@ -5,15 +5,6 @@ status: unread
 ---
 # dialectical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or employing dialectic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or employing dialectic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon; digestion was made difficult by the interference of citations, or by the rivalry of dialectical phrases ringing against each other in his brain."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"To make the dying John refute Strauss or Renan, handling their propositions with admirable dialectical skill, is certainly, on the face of it, somewhat hazardous."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"GOTHSEUNGQUEAN, also called _Shenanwaga_ and many other dialectical variations, an important town, was also destroyed Sept. 8, by a detachment of riflemen under Major Parr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or employing dialectic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or employing dialectic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon; digestion was made difficult by the interference of citations, or by the rivalry of dialectical phrases ringing against each other in his brain."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"To make the dying John refute Strauss or Renan, handling their propositions with admirable dialectical skill, is certainly, on the face of it, somewhat hazardous."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"GOTHSEUNGQUEAN, also called _Shenanwaga_ and many other dialectical variations, an important town, was also destroyed Sept. 8, by a detachment of riflemen under Major Parr."*

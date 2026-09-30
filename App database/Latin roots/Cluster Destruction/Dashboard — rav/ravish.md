@@ -5,15 +5,6 @@ status: unread
 ---
 # ravish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force (someone) to have sex against their will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold spellbound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have holp to ravish your own daughters and To melt the city leads upon your pates, To see your wives dishonoured to your noses— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that suit upon my back will I ravish her; first kill him, and in her eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her sight did ravish, but her grace in speech, Her words yclad with wisdom’s majesty, Makes me from wondering fall to weeping joys, Such is the fulness of my heart’s content."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force (someone) to have sex against their will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold spellbound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have holp to ravish your own daughters and To melt the city leads upon your pates, To see your wives dishonoured to your noses— MENENIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that suit upon my back will I ravish her; first kill him, and in her eyes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her sight did ravish, but her grace in speech, Her words yclad with wisdom’s majesty, Makes me from wondering fall to weeping joys, Such is the fulness of my heart’s content."*

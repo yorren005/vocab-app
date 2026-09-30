@@ -5,13 +5,6 @@ status: unread
 ---
 # dyskinesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurological disorder characterized by involuntary uncontrollable movements especially of the mouth, tongue, trunk, and limbs and occurring especially as a side effect of prolonged use of antipsychotic drugs (such as phenothiazine).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyskinesia designates impairment of voluntary movements resulting in fragmented or jerky motions (as in parkinson's disease)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurological disorder characterized by involuntary uncontrollable movements especially of the mouth, tongue, trunk, and limbs and occurring especially as a side effect of prolonged use of antipsychotic drugs (such as phenothiazine).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyskinesia designates impairment of voluntary movements resulting in fragmented or jerky motions (as in parkinson's disease)."*

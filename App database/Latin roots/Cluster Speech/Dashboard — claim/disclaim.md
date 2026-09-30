@@ -5,15 +5,6 @@ status: unread
 ---
 # disclaim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renounce a legal claim or title to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a disclaimer about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Must these have voices, that can yield them now And straight disclaim their tongues?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have disclaim’d Sir Robert and my land; Legitimation, name, and all is gone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love thee Because thou art a woman and disclaim’st Flinty mankind, whose eyes do never give But thorough lust and laughter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Renounce a legal claim or title to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a disclaimer about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Must these have voices, that can yield them now And straight disclaim their tongues?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have disclaim’d Sir Robert and my land; Legitimation, name, and all is gone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love thee Because thou art a woman and disclaim’st Flinty mankind, whose eyes do never give But thorough lust and laughter."*

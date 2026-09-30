@@ -5,15 +5,6 @@ status: unread
 ---
 # bellows
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very loud utterance (like the sound of an animal).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here the only sounds disturbing the stillness were steady munchings of many mouths, and stentorian breathings from all but invisible noses, ending in snores and puffs like the blowing of bellows slowly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very loud utterance (like the sound of an animal).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here the only sounds disturbing the stillness were steady munchings of many mouths, and stentorian breathings from all but invisible noses, ending in snores and puffs like the blowing of bellows slowly."*

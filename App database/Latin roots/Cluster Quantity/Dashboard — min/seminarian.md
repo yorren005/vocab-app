@@ -5,13 +5,6 @@ status: unread
 ---
 # seminarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student at a seminary (especially a roman catholic seminary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student at a seminary (especially a roman catholic seminary).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Systematic Theology has its difficulties to the seminarian, but more for him who attempts to master it alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student at a seminary (especially a roman catholic seminary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student at a seminary (especially a roman catholic seminary).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Systematic Theology has its difficulties to the seminarian, but more for him who attempts to master it alone."*

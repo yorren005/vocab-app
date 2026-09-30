@@ -5,15 +5,6 @@ status: unread
 ---
 # physically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accord with physical laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accord with physical laws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here he spread half of the hay as a bed, and, as well as he could in the darkness, pulled the other half over him by way of bed-clothes, covering himself entirely, and feeling, physically, as comfortable as ever he had been in his life."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had, in fact, undone the kiss, as far as such a thing was physically possible."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was her best face physically that was now set against the south wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accord with physical laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accord with physical laws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here he spread half of the hay as a bed, and, as well as he could in the darkness, pulled the other half over him by way of bed-clothes, covering himself entirely, and feeling, physically, as comfortable as ever he had been in his life."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had, in fact, undone the kiss, as far as such a thing was physically possible."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was her best face physically that was now set against the south wind."*

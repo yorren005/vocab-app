@@ -5,13 +5,6 @@ status: unread
 ---
 # inconclusively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conclusively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conclusively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconclusively designates not conclusively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conclusively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conclusively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconclusively designates not conclusively."*

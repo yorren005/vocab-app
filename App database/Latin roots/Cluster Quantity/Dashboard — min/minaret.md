@@ -5,15 +5,6 @@ status: unread
 ---
 # minaret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender tower with balconies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender tower with balconies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Ehrenberg (the Prussian traveller) was in Egypt, he said to a peasant, I suppose you are quite happy now; the country looks like a garden, and every village has its minaret."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"The western sky did recompence us well With Grecian Temple, Minaret, and Bower; And, in one part, a Minster with its Tower Substantially distinct, a place for Bell Or Clock to toll from."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw the rounded domes of its mosques, the elegant points of its minarets, its fresh and verdant terraces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender tower with balconies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender tower with balconies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Ehrenberg (the Prussian traveller) was in Egypt, he said to a peasant, I suppose you are quite happy now; the country looks like a garden, and every village has its minaret."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"The western sky did recompence us well With Grecian Temple, Minaret, and Bower; And, in one part, a Minster with its Tower Substantially distinct, a place for Bell Or Clock to toll from."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw the rounded domes of its mosques, the elegant points of its minarets, its fresh and verdant terraces."*

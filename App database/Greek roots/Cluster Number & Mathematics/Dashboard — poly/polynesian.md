@@ -5,15 +5,6 @@ status: unread
 ---
 # polynesian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of polynesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of the austronesian languages spoken from madagascar to the central pacific.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"These natives with whom I live are Polynesian, I know, because their hair is straight and black."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Ellis, _Polynesian Researches_, Second Edition (London, 1832-1836), iii. 102 _sq._; Captain James Wilson, _Missionary Voyage to the Southern Pacific Ocean_ (London, 1799), p. 329. [6] A."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Hyde, D.D._ In the first volume of Judge Fornander's elaborate work on "The Polynesian Race" he has given some old Hawaiian legends which closely resemble the Old Testament history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of polynesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of the austronesian languages spoken from madagascar to the central pacific.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"These natives with whom I live are Polynesian, I know, because their hair is straight and black."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Ellis, _Polynesian Researches_, Second Edition (London, 1832-1836), iii. 102 _sq._; Captain James Wilson, _Missionary Voyage to the Southern Pacific Ocean_ (London, 1799), p. 329. [6] A."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Hyde, D.D._ In the first volume of Judge Fornander's elaborate work on "The Polynesian Race" he has given some old Hawaiian legends which closely resemble the Old Testament history."*

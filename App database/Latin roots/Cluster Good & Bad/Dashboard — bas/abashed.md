@@ -5,15 +5,6 @@ status: unread
 ---
 # abashed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be embarrassed; cause to feel self-conscious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or caused to feel uneasy and self-conscious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mad, young gentleman,” she returned so quickly that he was quite abashed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rosa, very much abashed, says, “No, if you please, my Lady!” and glances up, and glances down, and don’t know where to look, but looks all the prettier."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes,” explains the client, somewhat abashed, “I had no intention to accuse you of insensibility.” “I think you had, sir, without knowing it,” returns the equable Vholes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be embarrassed; cause to feel self-conscious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or caused to feel uneasy and self-conscious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mad, young gentleman,” she returned so quickly that he was quite abashed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rosa, very much abashed, says, “No, if you please, my Lady!” and glances up, and glances down, and don’t know where to look, but looks all the prettier."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes,” explains the client, somewhat abashed, “I had no intention to accuse you of insensibility.” “I think you had, sir, without knowing it,” returns the equable Vholes."*

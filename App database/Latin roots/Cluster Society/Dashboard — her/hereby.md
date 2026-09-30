@@ -5,15 +5,6 @@ status: unread
 ---
 # hereby
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) by means of this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formal) by means of this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hereby, upon the edge of yonder coppice, A stand where you may make “the fairest shoot”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not reason what is meant hereby, Because I will be guiltless of the meaning."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should wish to be understood, miss, as hereby offering that apology—limiting it, as your own good sense and right feeling will point out the necessity of, to the present proceedings.” I must say for Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) by means of this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formal) by means of this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hereby, upon the edge of yonder coppice, A stand where you may make “the fairest shoot”."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not reason what is meant hereby, Because I will be guiltless of the meaning."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I should wish to be understood, miss, as hereby offering that apology—limiting it, as your own good sense and right feeling will point out the necessity of, to the present proceedings.” I must say for Mr."*

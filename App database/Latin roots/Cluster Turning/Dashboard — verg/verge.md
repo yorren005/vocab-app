@@ -5,15 +5,6 @@ status: unread
 ---
 # verge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region marking a boundary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The limit beyond which something happens or changes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus the hairy fool, Much marked of the melancholy Jaques, Stood on th’ extremest verge of the swift brook, Augmenting it with tears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom we raise We will make fast within a hallowed verge. [_Here they do the ceremonies belonging, and make the circle; Bolingbroke or Southwell reads_ “Conjuro te”, _etc."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you are old; Nature in you stands on the very verge Of her confine: you should be rul’d and led By some discretion, that discerns your state Better than you yourself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region marking a boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The limit beyond which something happens or changes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus the hairy fool, Much marked of the melancholy Jaques, Stood on th’ extremest verge of the swift brook, Augmenting it with tears."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom we raise We will make fast within a hallowed verge. [_Here they do the ceremonies belonging, and make the circle; Bolingbroke or Southwell reads_ “Conjuro te”, _etc."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you are old; Nature in you stands on the very verge Of her confine: you should be rul’d and led By some discretion, that discerns your state Better than you yourself."*

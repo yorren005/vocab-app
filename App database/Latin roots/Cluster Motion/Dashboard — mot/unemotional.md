@@ -5,15 +5,6 @@ status: unread
 ---
 # unemotional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsusceptible to or destitute of or showing no emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool and formal in manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’Urberville mechanically lit a cigar, and the journey was continued with broken unemotional conversation on the commonplace objects by the wayside."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Utilitarianism is the proper creed of hard unemotional natures, who do not respond to the more subtle moral influences."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There is something tropical and exotic about her which forms a singular contrast to her cool and unemotional brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsusceptible to or destitute of or showing no emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool and formal in manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’Urberville mechanically lit a cigar, and the journey was continued with broken unemotional conversation on the commonplace objects by the wayside."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Utilitarianism is the proper creed of hard unemotional natures, who do not respond to the more subtle moral influences."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There is something tropical and exotic about her which forms a singular contrast to her cool and unemotional brother."*

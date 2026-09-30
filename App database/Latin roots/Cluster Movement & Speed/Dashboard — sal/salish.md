@@ -5,14 +5,6 @@ status: unread
 ---
 # salish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of mosan language spoken in northwestern united states and western canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a group of north american indians speaking a salishan language and living on the northwest coast of north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Salish or Flathead Indians of Oregon believe that a man's soul may be separated for a time from his body without causing death and without the man being aware of his loss."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus among the Salish and Tinneh Indians of North-West America, "before the young people eat the first berries or roots of the season, they always addressed the fruit or plant, and begged for its favour and aid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of mosan language spoken in northwestern united states and western canada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a group of north american indians speaking a salishan language and living on the northwest coast of north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Salish or Flathead Indians of Oregon believe that a man's soul may be separated for a time from his body without causing death and without the man being aware of his loss."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus among the Salish and Tinneh Indians of North-West America, "before the young people eat the first berries or roots of the season, they always addressed the fruit or plant, and begged for its favour and aid."*

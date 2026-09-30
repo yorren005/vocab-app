@@ -5,15 +5,6 @@ status: unread
 ---
 # composition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property resulting from the arrangement of parts in relation to each other and to the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way in which someone or something is composed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until life’s composition be recured, By those swift messengers returned from thee, Who even but now come back again assured, Of thy fair health, recounting it to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property resulting from the arrangement of parts in relation to each other and to the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way in which someone or something is composed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until life’s composition be recured, By those swift messengers returned from thee, Who even but now come back again assured, Of thy fair health, recounting it to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*

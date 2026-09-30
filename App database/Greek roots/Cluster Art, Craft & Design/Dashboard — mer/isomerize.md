@@ -5,13 +5,6 @@ status: unread
 ---
 # isomerize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change into an isomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into an isomer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerize designates cause to change into an isomer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change into an isomer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into an isomer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerize designates cause to change into an isomer."*

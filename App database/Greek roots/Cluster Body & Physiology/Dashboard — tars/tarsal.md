@@ -5,13 +5,6 @@ status: unread
 ---
 # tarsal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the tarsus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to plates of dense connective tissue that serve to stiffen the eyelids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A dislocation of the tarsal joint would produce insanity as perceptibly as would congestion of the brain, 408:24 were it not that mortal mind thinks that the tarsal joint is less intimately connected with the mind than is the brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the tarsus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to plates of dense connective tissue that serve to stiffen the eyelids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A dislocation of the tarsal joint would produce insanity as perceptibly as would congestion of the brain, 408:24 were it not that mortal mind thinks that the tarsal joint is less intimately connected with the mind than is the brain."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dynamic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by usually continuous and productive activity or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Energetic, forceful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Dynamic conditions and price readjustments. § 14."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the dynamic conditions in industry are changes in the general price level whether due to changes in the production of the standard money commodity (relative to population) or to changing methods of doing business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of the new dynamic forces such as inventions and growth of population are distributed pretty regularly along the line, so that their influences are nearly equalized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by usually continuous and productive activity or change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Energetic, forceful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Dynamic conditions and price readjustments. § 14."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the dynamic conditions in industry are changes in the general price level whether due to changes in the production of the standard money commodity (relative to population) or to changing methods of doing business."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of the new dynamic forces such as inventions and growth of population are distributed pretty regularly along the line, so that their influences are nearly equalized."*

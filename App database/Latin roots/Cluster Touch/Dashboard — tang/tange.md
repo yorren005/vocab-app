@@ -5,13 +5,6 @@ status: unread
 ---
 # tange
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Japanese architect (born in 1913).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Japanese architect (born in 1913).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tange designates japanese architect (born in 1913)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Japanese architect (born in 1913).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Japanese architect (born in 1913).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tange designates japanese architect (born in 1913)."*

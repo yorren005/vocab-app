@@ -5,13 +5,6 @@ status: unread
 ---
 # peripateticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or given to walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or traveling from place to place : itinerant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripateticism designates of, relating to, or given to walking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or given to walking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or traveling from place to place : itinerant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripateticism designates of, relating to, or given to walking."*

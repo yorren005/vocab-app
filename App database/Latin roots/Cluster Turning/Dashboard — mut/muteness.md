@@ -5,15 +5,6 @@ status: unread
 ---
 # muteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being unable or unwilling to speak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A refusal to speak when expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By night the same muteness of humanity before the shrieks of the ocean prevailed; still in silence the men swung in the bowlines; still wordless Ahab stood up to the blast."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There they lay in their triangular oaken vaults, each mariner a chiselled muteness; a score of lamps flashing upon his hooded eyes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By night the same muteness of humanity before the shrieks of the ocean prevailed; still in silence the men swung in the bowlines; still wordless Ahab stood up to the blast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being unable or unwilling to speak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A refusal to speak when expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By night the same muteness of humanity before the shrieks of the ocean prevailed; still in silence the men swung in the bowlines; still wordless Ahab stood up to the blast."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There they lay in their triangular oaken vaults, each mariner a chiselled muteness; a score of lamps flashing upon his hooded eyes."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By night the same muteness of humanity before the shrieks of the ocean prevailed; still in silence the men swung in the bowlines; still wordless Ahab stood up to the blast."*

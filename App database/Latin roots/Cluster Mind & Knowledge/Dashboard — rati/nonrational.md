@@ -5,13 +5,6 @@ status: unread
 ---
 # nonrational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtained through intuition rather than from reasoning or observation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrational designates not based on reason."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtained through intuition rather than from reasoning or observation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrational designates not based on reason."*

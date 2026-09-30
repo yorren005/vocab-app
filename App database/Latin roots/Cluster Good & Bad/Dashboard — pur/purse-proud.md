@@ -5,13 +5,6 @@ status: unread
 ---
 # purse-proud
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proud or arrogant because of your wealth (especially in the absence of other distinction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proud or arrogant because of your wealth (especially in the absence of other distinction).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purse-proud designates proud or arrogant because of your wealth (especially in the absence of other distinction)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proud or arrogant because of your wealth (especially in the absence of other distinction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proud or arrogant because of your wealth (especially in the absence of other distinction).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purse-proud designates proud or arrogant because of your wealth (especially in the absence of other distinction)."*

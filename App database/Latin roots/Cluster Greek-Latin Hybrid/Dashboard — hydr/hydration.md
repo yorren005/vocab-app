@@ -5,13 +5,6 @@ status: unread
 ---
 # hydration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combining with water; usually reversible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of combining with water; usually reversible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydration designates the process of combining with water; usually reversible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combining with water; usually reversible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of combining with water; usually reversible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydration designates the process of combining with water; usually reversible."*

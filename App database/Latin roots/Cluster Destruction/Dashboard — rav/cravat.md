@@ -5,15 +5,6 @@ status: unread
 ---
 # cravat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neckwear worn in a slipknot with long ends overlapping vertically in front.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neckwear worn in a slipknot with long ends overlapping vertically in front.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A portly, important-looking gentleman, dressed all in black, with a white cravat, large gold watch seals, a pair of gold eye-glasses, and a large seal-ring upon his little finger."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, adjusting his cravat, then looked at us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have degenerated,” he returned, shaking his head, which he could do to a very limited extent in his cravat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Neckwear worn in a slipknot with long ends overlapping vertically in front.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neckwear worn in a slipknot with long ends overlapping vertically in front.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A portly, important-looking gentleman, dressed all in black, with a white cravat, large gold watch seals, a pair of gold eye-glasses, and a large seal-ring upon his little finger."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, adjusting his cravat, then looked at us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have degenerated,” he returned, shaking his head, which he could do to a very limited extent in his cravat."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # virion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virion designates (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virion designates (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses)."*

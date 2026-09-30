@@ -5,15 +5,6 @@ status: unread
 ---
 # munitions
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military supplies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The military argument as applied to the preparation of ships and munitions has no application to a tariff on those articles which have no bearing upon military power."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Moscow, abounding in provisions, arms, munitions, and incalculable wealth, is in Napoleon’s hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military supplies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The military argument as applied to the preparation of ships and munitions has no application to a tariff on those articles which have no bearing upon military power."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Moscow, abounding in provisions, arms, munitions, and incalculable wealth, is in Napoleon’s hands."*

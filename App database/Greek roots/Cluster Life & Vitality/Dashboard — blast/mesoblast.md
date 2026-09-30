@@ -5,13 +5,6 @@ status: unread
 ---
 # mesoblast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoblast designates the middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoblast designates the middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue."*

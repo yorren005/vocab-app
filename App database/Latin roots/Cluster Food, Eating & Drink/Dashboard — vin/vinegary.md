@@ -5,13 +5,6 @@ status: unread
 ---
 # vinegary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting or smelling like vinegar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sour disposition; ill-tempered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We two entered meeting, unexpectedly, not a perfumed and fascinating damsel, but a vinegary countenance which I recognized at once as that of Doña Guedita."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting or smelling like vinegar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sour disposition; ill-tempered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We two entered meeting, unexpectedly, not a perfumed and fascinating damsel, but a vinegary countenance which I recognized at once as that of Doña Guedita."*

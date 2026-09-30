@@ -5,15 +5,6 @@ status: unread
 ---
 # belligerent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who fights (or is fighting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an enemy or one eager to fight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She maintained this belligerent attitude for several days, during which time a series of informal negotiations were pending, and wide alarm spread over the island."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"On the other hand, as the clamours of war had not up to this period disturbed the serenity of the tribe, I began to distrust the truth of those reports which ascribed so fierce and belligerent a character to the Typee nation."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Spears are then to be seen flying in all directions, and after several days' severe fighting, in which one or two are killed, and maybe one or two wounded, peace is once more restored, and the belligerent party returns to its river haunts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who fights (or is fighting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an enemy or one eager to fight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She maintained this belligerent attitude for several days, during which time a series of informal negotiations were pending, and wide alarm spread over the island."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"On the other hand, as the clamours of war had not up to this period disturbed the serenity of the tribe, I began to distrust the truth of those reports which ascribed so fierce and belligerent a character to the Typee nation."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Spears are then to be seen flying in all directions, and after several days' severe fighting, in which one or two are killed, and maybe one or two wounded, peace is once more restored, and the belligerent party returns to its river haunts."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # baron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nobleman (in various countries) of varying rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british peer of the lowest rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you then to Falconbridge, the young baron of England?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"THE RAPE OF LUCRECE TO THE RIGHT HONOURABLE HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, and Baron of Titchfield."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VENUS AND ADONIS _Vilia miretur vulgus; mihi flavus Apollo Pocula Castalia plena ministret aqua._ TO THE RIGHT HONOURABLE HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, and Baron of Titchfield."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nobleman (in various countries) of varying rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british peer of the lowest rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you then to Falconbridge, the young baron of England?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"THE RAPE OF LUCRECE TO THE RIGHT HONOURABLE HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, and Baron of Titchfield."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VENUS AND ADONIS _Vilia miretur vulgus; mihi flavus Apollo Pocula Castalia plena ministret aqua._ TO THE RIGHT HONOURABLE HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, and Baron of Titchfield."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # centered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Center upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But this difference is readily discovered in the impressions made upon us by their writings, namely that Hoelderlin's Weltschmerz is absolutely naive and unconscious, while that of Lenau is at all times self-conscious and self-centered."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your initial field of operations is centered in Coldfield," Ram pointed to the light."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"New green lights appeared in their place, this time moving in arcs converging on the cylinder centered in a sphere: the depot in its force field cocoon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Center upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But this difference is readily discovered in the impressions made upon us by their writings, namely that Hoelderlin's Weltschmerz is absolutely naive and unconscious, while that of Lenau is at all times self-conscious and self-centered."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your initial field of operations is centered in Coldfield," Ram pointed to the light."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"New green lights appeared in their place, this time moving in arcs converging on the cylinder centered in a sphere: the depot in its force field cocoon."*

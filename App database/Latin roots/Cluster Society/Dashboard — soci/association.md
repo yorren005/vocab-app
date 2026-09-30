@@ -5,15 +5,6 @@ status: unread
 ---
 # association
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal organization of people or groups of people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consorting with or joining with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had observed before that when she looked at it she covered her discoloured eye with her hand, as though she wished to separate any association with noise and violence and ill treatment from the poor little child."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I can’t imagine what association I had with a hand like that, but I surely had some.” “You had some?” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He will never do violence to the sunshine any more.” It quite shocked me to hear it, for I had already recalled with anything but a serious association the image of the man sitting on the sofa that night wiping his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal organization of people or groups of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consorting with or joining with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We had observed before that when she looked at it she covered her discoloured eye with her hand, as though she wished to separate any association with noise and violence and ill treatment from the poor little child."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I can’t imagine what association I had with a hand like that, but I surely had some.” “You had some?” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He will never do violence to the sunshine any more.” It quite shocked me to hear it, for I had already recalled with anything but a serious association the image of the man sitting on the sofa that night wiping his head."*

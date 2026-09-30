@@ -5,15 +5,6 @@ status: unread
 ---
 # progressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that is on-going.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The spread of inheritance taxes and the higher and progressive rates applied are an expression in part of the need of additional revenues and in part of the growing popular concern regarding the concentration of wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This summation of each person's income makes income taxation peculiarly suitable for progressive taxation with the social-welfare motive of equalizing the distribution of wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that is on-going.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The spread of inheritance taxes and the higher and progressive rates applied are an expression in part of the need of additional revenues and in part of the growing popular concern regarding the concentration of wealth."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This summation of each person's income makes income taxation peculiarly suitable for progressive taxation with the social-welfare motive of equalizing the distribution of wealth."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*

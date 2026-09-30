@@ -5,15 +5,6 @@ status: unread
 ---
 # bellied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swell out or bulge out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a belly; often used in combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great-bellied women That had not half a week to go, like rams In the old time of war, would shake the press And make ’em reel before ’em."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I learned it in England, where indeed they are most potent in potting: your Dane, your German, and your swag-bellied Hollander,—drink, ho!—are nothing to your English."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thought meet Paris should do some vengeance on the Greeks; Your breath with full consent bellied his sails; The seas and winds, old wranglers, took a truce, And did him service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swell out or bulge out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a belly; often used in combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great-bellied women That had not half a week to go, like rams In the old time of war, would shake the press And make ’em reel before ’em."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I learned it in England, where indeed they are most potent in potting: your Dane, your German, and your swag-bellied Hollander,—drink, ho!—are nothing to your English."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thought meet Paris should do some vengeance on the Greeks; Your breath with full consent bellied his sails; The seas and winds, old wranglers, took a truce, And did him service."*

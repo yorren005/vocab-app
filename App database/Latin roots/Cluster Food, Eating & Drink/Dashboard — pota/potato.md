@@ -5,15 +5,6 @@ status: unread
 ---
 # potato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An edible tuber native to south america; a staple food of ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual native to south america having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How the devil Luxury, with his fat rump and potato finger, tickles these together!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Crew and passengers were finally reduced to a few drops of water and one potato a day, and they merely waited death from starvation or drowning."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Along with the peats they accumulated straw, furze, potato haulm, everything that would burn quickly, and when they had got enough they piled it all in a heap and set it on fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An edible tuber native to south america; a staple food of ireland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual native to south america having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How the devil Luxury, with his fat rump and potato finger, tickles these together!"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Crew and passengers were finally reduced to a few drops of water and one potato a day, and they merely waited death from starvation or drowning."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Along with the peats they accumulated straw, furze, potato haulm, everything that would burn quickly, and when they had got enough they piled it all in a heap and set it on fire."*

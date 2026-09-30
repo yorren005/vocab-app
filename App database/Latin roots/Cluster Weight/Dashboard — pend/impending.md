@@ -5,15 +5,6 @@ status: unread
 ---
 # impending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be imminent or about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa assured them, however, that she understood the preparations for their impending trip and said that she would not disturb them longer than was necessary."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The impending night appeared to concentrate in his eye."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The kettle boiled, the children cried for bread; the afflicted father, standing before the fire, felt those deep emotions of heart over his helplessness and impending starvation which those reared in affluence never know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be imminent or about to happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa assured them, however, that she understood the preparations for their impending trip and said that she would not disturb them longer than was necessary."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The impending night appeared to concentrate in his eye."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The kettle boiled, the children cried for bread; the afflicted father, standing before the fire, felt those deep emotions of heart over his helplessness and impending starvation which those reared in affluence never know."*

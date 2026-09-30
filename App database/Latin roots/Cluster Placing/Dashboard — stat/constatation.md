@@ -5,13 +5,6 @@ status: unread
 ---
 # constatation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assumption that is basic to an argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assumption that is basic to an argument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constatation designates an assumption that is basic to an argument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assumption that is basic to an argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assumption that is basic to an argument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constatation designates an assumption that is basic to an argument."*

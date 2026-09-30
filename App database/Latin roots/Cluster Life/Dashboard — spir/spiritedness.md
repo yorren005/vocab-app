@@ -5,13 +5,6 @@ status: unread
 ---
 # spiritedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being active or spirited or alive and vigorous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being active or spirited or alive and vigorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiritedness designates quality of being active or spirited or alive and vigorous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being active or spirited or alive and vigorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being active or spirited or alive and vigorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiritedness designates quality of being active or spirited or alive and vigorous."*

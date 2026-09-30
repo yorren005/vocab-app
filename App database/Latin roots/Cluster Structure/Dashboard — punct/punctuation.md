@@ -5,15 +5,6 @@ status: unread
 ---
 # punctuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that makes repeated and regular interruptions or divisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The marks used to clarify meaning by indicating separation of words into sentences and clauses and phrases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper has a good deal to say, chiefly in parentheses and without punctuation, but not much to tell."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"The punctuation is altered throughout, the spelling is altered in scores of words and though the actual verbal differences between the original MS. and Dyce's reprint of it are not very many, yet these occur here and there throughout the play."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Spelling and punctuation have been largely brought into conformity with modern British usage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that makes repeated and regular interruptions or divisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The marks used to clarify meaning by indicating separation of words into sentences and clauses and phrases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Piper has a good deal to say, chiefly in parentheses and without punctuation, but not much to tell."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"The punctuation is altered throughout, the spelling is altered in scores of words and though the actual verbal differences between the original MS. and Dyce's reprint of it are not very many, yet these occur here and there throughout the play."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Spelling and punctuation have been largely brought into conformity with modern British usage."*

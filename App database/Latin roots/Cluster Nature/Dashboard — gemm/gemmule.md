@@ -5,13 +5,6 @@ status: unread
 ---
 # gemmule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physically discrete element that darwin proposed as responsible for heredity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physically discrete element that darwin proposed as responsible for heredity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gemmule designates the physically discrete element that darwin proposed as responsible for heredity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physically discrete element that darwin proposed as responsible for heredity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physically discrete element that darwin proposed as responsible for heredity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gemmule designates the physically discrete element that darwin proposed as responsible for heredity."*

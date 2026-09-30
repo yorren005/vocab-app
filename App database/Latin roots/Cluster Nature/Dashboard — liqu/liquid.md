@@ -5,15 +5,6 @@ status: unread
 ---
 # liquid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that is liquid at room temperature and pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blow me about in winds, roast me in sulphur, Wash me in steep-down gulfs of liquid fire!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The liquid drops of tears that you have shed Shall come again, transformed to orient pearl, Advantaging their loan with interest Of ten times double gain of happiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that is liquid at room temperature and pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blow me about in winds, roast me in sulphur, Wash me in steep-down gulfs of liquid fire!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The liquid drops of tears that you have shed Shall come again, transformed to orient pearl, Advantaging their loan with interest Of ten times double gain of happiness."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plague
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious (sometimes fatal) infection of rodents caused by yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infected animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any epidemic disease with a high death rate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A plague upon him! muffled! he can say nothing of me; hush, hush!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAROLLES. [_Aside._] I’ll no more drumming; a plague of all drums!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious (sometimes fatal) infection of rodents caused by yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infected animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any epidemic disease with a high death rate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A plague upon him! muffled! he can say nothing of me; hush, hush!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAROLLES. [_Aside._] I’ll no more drumming; a plague of all drums!"*

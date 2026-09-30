@@ -5,15 +5,6 @@ status: unread
 ---
 # conclude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou didst conclude hairy men plain dealers without wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love her therefore; but Disdaining me and throwing favours on The low Posthumus slanders so her judgement That what’s else rare is chok’d; and in that point I will conclude to hate her, nay, indeed, To be reveng’d upon her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whither I must, I must; and, to conclude, This evening must I leave you, gentle Kate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decide by reasoning; draw or come to a conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a close.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou didst conclude hairy men plain dealers without wit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love her therefore; but Disdaining me and throwing favours on The low Posthumus slanders so her judgement That what’s else rare is chok’d; and in that point I will conclude to hate her, nay, indeed, To be reveng’d upon her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whither I must, I must; and, to conclude, This evening must I leave you, gentle Kate."*

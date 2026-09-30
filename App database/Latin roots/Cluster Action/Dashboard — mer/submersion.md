@@ -5,14 +5,6 @@ status: unread
 ---
 # submersion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of wetting something by submerging it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He had been down once, and submersion in the ice water had nearly deprived him of both consciousness and power to help save himself."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He was certainly a scarecrow figure after his submersion in the mud; gut Nan did not feel like laughing at him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of wetting something by submerging it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He had been down once, and submersion in the ice water had nearly deprived him of both consciousness and power to help save himself."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He was certainly a scarecrow figure after his submersion in the mud; gut Nan did not feel like laughing at him."*

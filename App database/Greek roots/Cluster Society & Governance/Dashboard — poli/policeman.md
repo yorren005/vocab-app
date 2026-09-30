@@ -5,15 +5,6 @@ status: unread
 ---
 # policeman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a police force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a police force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The children tumbled about, and notched memoranda of their accidents in their legs, which were perfect little calendars of distress; and Peepy was lost for an hour and a half, and brought home from Newgate market by a policeman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I mean into religious custody, of course; but she really did it as if she were an inexorable moral policeman carrying them all off to a station-house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A policeman has already walked up to the room, and walked down again to the door, where he stands like a tower, only condescending to see the boys at his base occasionally; but whenever he does see them, they quail and fall back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a police force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a police force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The children tumbled about, and notched memoranda of their accidents in their legs, which were perfect little calendars of distress; and Peepy was lost for an hour and a half, and brought home from Newgate market by a policeman."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I mean into religious custody, of course; but she really did it as if she were an inexorable moral policeman carrying them all off to a station-house."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A policeman has already walked up to the room, and walked down again to the door, where he stands like a tower, only condescending to see the boys at his base occasionally; but whenever he does see them, they quail and fall back."*

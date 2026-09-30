@@ -5,20 +5,6 @@ status: unread
 ---
 # flourish
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Grow luxuriantly : thrive
-> 2. **Nuance / Usage**: Achieve success : prosper
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to flourish the target*) and intransitive clauses (*flourishing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To this effect, sir; after what flourish your nature will."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whilst bloody treason flourish’d over us."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Needs not the painted flourish of your praise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Grow luxuriantly : thrive
+> 2. **Nuance / Usage**: Achieve success : prosper
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to flourish the target*) and intransitive clauses (*flourishing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To this effect, sir; after what flourish your nature will."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whilst bloody treason flourish’d over us."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Needs not the painted flourish of your praise."*

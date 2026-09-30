@@ -5,15 +5,6 @@ status: unread
 ---
 # tactfulness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consideration in dealing with others and avoiding giving offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consideration in dealing with others and avoiding giving offense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Buddha, knowing that our minds delighted in inferior things, by his tactfulness taught according to our capacity, but still we did not perceive that we were really Buddha-sons."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Just as the rich elder, Knowing his son’s lower bent, By his own tactfulness, Moulds and subdues his mind, And, only after that, gives him The whole of his riches."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"So is it with the Buddha In the display of his rarities; Knowing those pleased with trifles, Yet by his tactfulness He subdues their minds, And teaches them the greater wisdom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consideration in dealing with others and avoiding giving offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consideration in dealing with others and avoiding giving offense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Buddha, knowing that our minds delighted in inferior things, by his tactfulness taught according to our capacity, but still we did not perceive that we were really Buddha-sons."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Just as the rich elder, Knowing his son’s lower bent, By his own tactfulness, Moulds and subdues his mind, And, only after that, gives him The whole of his riches."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"So is it with the Buddha In the display of his rarities; Knowing those pleased with trifles, Yet by his tactfulness He subdues their minds, And teaches them the greater wisdom."*

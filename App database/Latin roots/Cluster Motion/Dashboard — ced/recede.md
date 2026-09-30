@@ -5,15 +5,6 @@ status: unread
 ---
 # recede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pull back or move away or backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retreat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The air was warm and muggy, and the top seemed to recede as he approached."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus he beheld her recede, and in the anguish of his heart quoted a line from a poet, with peculiar emendations of his own— God’s _not_ in his heaven: All’s _wrong_ with the world!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And while I contemplated the matter, I knew that they continued to recede."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pull back or move away or backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retreat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The air was warm and muggy, and the top seemed to recede as he approached."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus he beheld her recede, and in the anguish of his heart quoted a line from a poet, with peculiar emendations of his own— God’s _not_ in his heaven: All’s _wrong_ with the world!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And while I contemplated the matter, I knew that they continued to recede."*

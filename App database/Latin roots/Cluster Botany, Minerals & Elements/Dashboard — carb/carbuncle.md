@@ -5,15 +5,6 @@ status: unread
 ---
 # carbuncle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-red cabochon garnet cut without facets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection larger than a boil and with several openings for discharge of pus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A carbuncle entire, as big as thou art, Were not so rich a jewel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, true knight, No lesser of her honour confident Than I did truly find her, stakes this ring; And would so, had it been a carbuncle Of Phoebus’ wheel; and might so safely, had it Been all the worth of’s car."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art a boil, A plague sore, or embossed carbuncle In my corrupted blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-red cabochon garnet cut without facets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection larger than a boil and with several openings for discharge of pus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A carbuncle entire, as big as thou art, Were not so rich a jewel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, true knight, No lesser of her honour confident Than I did truly find her, stakes this ring; And would so, had it been a carbuncle Of Phoebus’ wheel; and might so safely, had it Been all the worth of’s car."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art a boil, A plague sore, or embossed carbuncle In my corrupted blood."*

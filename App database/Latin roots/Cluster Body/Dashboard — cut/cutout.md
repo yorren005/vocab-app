@@ -5,13 +5,6 @@ status: unread
 ---
 # cutout
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch that interrupts an electric circuit in the event of an overload.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph from which the background has been cut away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of junctions and cutouts were dug to serve one-time needs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch that interrupts an electric circuit in the event of an overload.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph from which the background has been cut away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of junctions and cutouts were dug to serve one-time needs."*

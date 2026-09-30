@@ -5,13 +5,6 @@ status: unread
 ---
 # rename
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a new name to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Name again or anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"HOSPITAL SHIP "MAGIC II.," AFTERWARDS RENAMED "CLASSIC" 80 TRANSFERRING A "COT CASE" FROM A BATTLESHIP TO THE HOSPITAL SHIP DRIFTER 81 DENTIST AT WORK ON A BATTLESHIP (H.M.S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a new name to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Name again or anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"HOSPITAL SHIP "MAGIC II.," AFTERWARDS RENAMED "CLASSIC" 80 TRANSFERRING A "COT CASE" FROM A BATTLESHIP TO THE HOSPITAL SHIP DRIFTER 81 DENTIST AT WORK ON A BATTLESHIP (H.M.S."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aggressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing determination and energetic pursuit of your ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to spread quickly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He rarely or never did give offence in this respect, for there was never anything aggressive or clamorous or prying in his treatment of the subject."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We must move on to a strategy that is more aggressive than petty raids on UIPS shipping or to merely destroy a few of their insignificant patrols."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing determination and energetic pursuit of your ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to spread quickly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He rarely or never did give offence in this respect, for there was never anything aggressive or clamorous or prying in his treatment of the subject."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We must move on to a strategy that is more aggressive than petty raids on UIPS shipping or to merely destroy a few of their insignificant patrols."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sacrificial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or connected with a sacrifice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or connected with a sacrifice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All those which were his fellows but of late, Some better than his value, on the moment Follow his strides, his lobbies fill with tendance, Rain sacrificial whisperings in his ear, Make sacred even his stirrup, and through him Drink the free air."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lloyd, _op. cit._ pp. 261 _sq._ These springs are called "sacrificial fonts" (_Offer källor_) and are "so named because in heathen times the limbs of the slaughtered victim, whether man or beast, were here washed prior to immolation" (L."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"First he takes about a double handful of shavings out of his grego pocket, and places them carefully before the idol; then laying a bit of ship biscuit on top and applying the flame from the lamp, he kindled the shavings into a sacrificial blaze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or connected with a sacrifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or connected with a sacrifice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All those which were his fellows but of late, Some better than his value, on the moment Follow his strides, his lobbies fill with tendance, Rain sacrificial whisperings in his ear, Make sacred even his stirrup, and through him Drink the free air."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lloyd, _op. cit._ pp. 261 _sq._ These springs are called "sacrificial fonts" (_Offer källor_) and are "so named because in heathen times the limbs of the slaughtered victim, whether man or beast, were here washed prior to immolation" (L."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"First he takes about a double handful of shavings out of his grego pocket, and places them carefully before the idol; then laying a bit of ship biscuit on top and applying the flame from the lamp, he kindled the shavings into a sacrificial blaze."*

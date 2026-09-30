@@ -5,13 +5,6 @@ status: unread
 ---
 # astronaut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astronaut designates a person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astronaut designates a person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere."*

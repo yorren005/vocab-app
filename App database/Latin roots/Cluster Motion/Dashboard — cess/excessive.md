@@ -5,15 +5,6 @@ status: unread
 ---
 # excessive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond normal limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained, especially with regard to feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moderate lamentation is the right of the dead; excessive grief the enemy to the living."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with excessive urbanity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I couldn’t tell any such ridiculous lie about a beauty to encourage a single woman in England in too excessive a modesty.” “It is all pretence—what you are saying!” exclaimed Bathsheba, laughing in spite of herself at the sly method."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond normal limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained, especially with regard to feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moderate lamentation is the right of the dead; excessive grief the enemy to the living."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with excessive urbanity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I couldn’t tell any such ridiculous lie about a beauty to encourage a single woman in England in too excessive a modesty.” “It is all pretence—what you are saying!” exclaimed Bathsheba, laughing in spite of herself at the sly method."*

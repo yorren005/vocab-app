@@ -5,13 +5,6 @@ status: unread
 ---
 # centroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The center of mass of an object of uniform density.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The center of mass of an object of uniform density.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroid designates the center of mass of an object of uniform density."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The center of mass of an object of uniform density.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The center of mass of an object of uniform density.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroid designates the center of mass of an object of uniform density."*

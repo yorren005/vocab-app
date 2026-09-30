@@ -5,13 +5,6 @@ status: unread
 ---
 # plutonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutonium designates a solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutonium designates a solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239."*

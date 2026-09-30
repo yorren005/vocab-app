@@ -5,15 +5,6 @@ status: unread
 ---
 # graveyard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tract of land used for burials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tract of land used for burials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She crossed the road, opened the gate, and entered the graveyard, the high sills of the church windows effectually screening her from the eyes of those gathered within."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As he reached the door the new moon shone upon his face, just as the old one had done in the small hours of that morning when he had carried his wife in his arms across the river to the graveyard of the monks; but his face was thinner now."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Isn’t your family vault your own freehold?” said Tess’s mother, as she returned from a reconnoitre of the church and graveyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tract of land used for burials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tract of land used for burials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She crossed the road, opened the gate, and entered the graveyard, the high sills of the church windows effectually screening her from the eyes of those gathered within."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As he reached the door the new moon shone upon his face, just as the old one had done in the small hours of that morning when he had carried his wife in his arms across the river to the graveyard of the monks; but his face was thinner now."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Isn’t your family vault your own freehold?” said Tess’s mother, as she returned from a reconnoitre of the church and graveyard."*

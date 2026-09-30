@@ -5,13 +5,6 @@ status: unread
 ---
 # deuterostome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a major division (Deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a major division (Deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterostome designates any of a major division (deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a major division (Deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a major division (Deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterostome designates any of a major division (deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore."*

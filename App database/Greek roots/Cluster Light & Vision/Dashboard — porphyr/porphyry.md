@@ -5,15 +5,6 @@ status: unread
 ---
 # porphyry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rock consisting of feldspar crystals embedded in a compact dark red or purple groundmass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An igneous rock of porphyritic texture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We were two hours getting to the summit of this peak, which was half porphyry and half basalt."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The geological formation is sometimes basaltic, at others slate, porphyry, etc."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One of these human deities resided at the village of Anabis, and burnt sacrifices were offered to him on the altars; after which, says Porphyry, he would eat his dinner just as if he were an ordinary mortal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rock consisting of feldspar crystals embedded in a compact dark red or purple groundmass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An igneous rock of porphyritic texture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We were two hours getting to the summit of this peak, which was half porphyry and half basalt."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The geological formation is sometimes basaltic, at others slate, porphyry, etc."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One of these human deities resided at the village of Anabis, and burnt sacrifices were offered to him on the altars; after which, says Porphyry, he would eat his dinner just as if he were an ordinary mortal."*

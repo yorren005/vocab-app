@@ -5,13 +5,6 @@ status: unread
 ---
 # catmint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catmint designates hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catmint designates hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats."*

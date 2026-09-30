@@ -5,15 +5,6 @@ status: unread
 ---
 # rhododendron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Rhododendron) of widely cultivated shrubs and trees of the heath family with alternate leaves and showy flowers; especially : one with leathery evergreen leaves as distinguished from a deciduous azalea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great laurel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Winding between dense shrubs of rhododendron under darker deodars, the road was long and gloomy, but Lawrence was thankful to be out of sight of Chilmark."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Later the valley opened, and we ascended gradually over beautiful slopes gay with rhododendron and iris."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Just before reaching the top we descended into a cup-like hollow, a huge dimple lined with the rich greens and gay reds of the rhododendron, and merry with the babble of many tiny waterfalls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Rhododendron) of widely cultivated shrubs and trees of the heath family with alternate leaves and showy flowers; especially : one with leathery evergreen leaves as distinguished from a deciduous azalea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great laurel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Winding between dense shrubs of rhododendron under darker deodars, the road was long and gloomy, but Lawrence was thankful to be out of sight of Chilmark."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Later the valley opened, and we ascended gradually over beautiful slopes gay with rhododendron and iris."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Just before reaching the top we descended into a cup-like hollow, a huge dimple lined with the rich greens and gay reds of the rhododendron, and merry with the babble of many tiny waterfalls."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # faltering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pausing uncertainly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be unsure or weak.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never saw such faltering, such confusion, such amazement and apprehension."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket apologetically for Michael Jackson, “and so gets talking.” The woman had not resumed her chair, but stood faltering with her hand upon its broken back, looking at me."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We are all of us as good as in the county gaol till to-morrow morning.” “Then I shan’t see you till then!” The words were in a faltering tone of disappointment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pausing uncertainly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be unsure or weak.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I never saw such faltering, such confusion, such amazement and apprehension."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket apologetically for Michael Jackson, “and so gets talking.” The woman had not resumed her chair, but stood faltering with her hand upon its broken back, looking at me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We are all of us as good as in the county gaol till to-morrow morning.” “Then I shan’t see you till then!” The words were in a faltering tone of disappointment."*

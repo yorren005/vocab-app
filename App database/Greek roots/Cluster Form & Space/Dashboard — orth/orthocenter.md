@@ -5,13 +5,6 @@ status: unread
 ---
 # orthocenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthocenter designates the common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthocenter designates the common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point."*

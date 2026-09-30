@@ -5,15 +5,6 @@ status: unread
 ---
 # unformed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having form or shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not formed or organized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought my confession would give you grounds for that.” “O Tess—you are too, too—childish—unformed—crude, I suppose!"*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"She knew it was the one she sought, from the recent postmark, and the address, which was in the unformed handwriting of a boy."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Unfolding of thoughts 506:18 Spirit, God, gathers unformed thoughts into their proper channels, and unfolds these thoughts, even as He opens the petals of a holy purpose 506:21 in order that the purpose may appear. /Genesis/ i. 10."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having form or shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not formed or organized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought my confession would give you grounds for that.” “O Tess—you are too, too—childish—unformed—crude, I suppose!"*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"She knew it was the one she sought, from the recent postmark, and the address, which was in the unformed handwriting of a boy."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Unfolding of thoughts 506:18 Spirit, God, gathers unformed thoughts into their proper channels, and unfolds these thoughts, even as He opens the petals of a holy purpose 506:21 in order that the purpose may appear. /Genesis/ i. 10."*

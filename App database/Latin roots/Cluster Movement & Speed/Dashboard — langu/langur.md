@@ -5,13 +5,6 @@ status: unread
 ---
 # langur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender long-tailed monkey of asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender long-tailed monkey of asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The sacrifice of a goat takes place, and a month later, that of a _langur_ (_Entellus_ monkey) or a bamboo-rat is considered necessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender long-tailed monkey of asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender long-tailed monkey of asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The sacrifice of a goat takes place, and a month later, that of a _langur_ (_Entellus_ monkey) or a bamboo-rat is considered necessary."*

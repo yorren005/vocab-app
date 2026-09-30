@@ -5,15 +5,6 @@ status: unread
 ---
 # technique
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which technical details are treated (as by a writer) or basic physical movements are used (as by a dancer); also : ability to treat such details or use such movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of technical methods (as in a craft or in scientific research).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Andrea sees in Raphael, whose technique was inferior to his own, his superior, as he reached above and through his art-- for it gives way. 106."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"However, the interview technique can be a starter to work through Grandpa's reserve."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It's one thing to prefer a pleasing, perhaps highly artistic pen technique and quite another to apply it to fast presses, poor ink and hurried make-ready."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which technical details are treated (as by a writer) or basic physical movements are used (as by a dancer); also : ability to treat such details or use such movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of technical methods (as in a craft or in scientific research).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Andrea sees in Raphael, whose technique was inferior to his own, his superior, as he reached above and through his art-- for it gives way. 106."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"However, the interview technique can be a starter to work through Grandpa's reserve."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It's one thing to prefer a pleasing, perhaps highly artistic pen technique and quite another to apply it to fast presses, poor ink and hurried make-ready."*

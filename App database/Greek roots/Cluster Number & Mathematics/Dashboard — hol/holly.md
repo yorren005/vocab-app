@@ -5,15 +5,6 @@ status: unread
 ---
 # holly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tree or shrub of the genus ilex having red berries and shiny evergreen leaves with prickly edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rock star (1936-1959).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heigh-ho, sing heigh-ho, unto the green holly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heigh-ho, sing heigh-ho, unto the green holly."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While she remained, a bush of low rambling holly protected her, and they were moving on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tree or shrub of the genus ilex having red berries and shiny evergreen leaves with prickly edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rock star (1936-1959).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heigh-ho, sing heigh-ho, unto the green holly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heigh-ho, sing heigh-ho, unto the green holly."*
+> - 📜 **Jane Austen (*Persuasion*):** *"While she remained, a bush of low rambling holly protected her, and they were moving on."*

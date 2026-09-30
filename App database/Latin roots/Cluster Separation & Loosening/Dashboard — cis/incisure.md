@@ -5,14 +5,6 @@ status: unread
 ---
 # incisure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a notch or small hollow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a notch or small hollow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Which said line, when it is long enough, and without incisures, argues a due strength in the principal members of man, and also constancy; the contrary if it be short, crooked, cut or parted."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If the first or second joint want incisures, it shows drowsiness and idleness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a notch or small hollow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a notch or small hollow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Which said line, when it is long enough, and without incisures, argues a due strength in the principal members of man, and also constancy; the contrary if it be short, crooked, cut or parted."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If the first or second joint want incisures, it shows drowsiness and idleness."*

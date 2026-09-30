@@ -5,20 +5,6 @@ status: unread
 ---
 # parsimonious
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sparing, restrained
-> 2. **Nuance / Usage**: (sports) not conceding many goals
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a parsimonious presence*) or predicatively (*remained parsimonious*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Graham Sumner (*s:War and Other Essays*):** *"Our fathers would have an economical government, even if grand people called it a parsimonious one, and taxes should be no greater than were absolutely necessary to pay for such a government."*
-> - 📜 **Classic Author (*55 great personal-finance ideas*):** *"The first three college-savings plans stand out for their parsimonious expenses {{..."*
-> - 📜 **Richard Bonneau; et al. (*The Inferelator: An Algorithm for Learning Parsimonious Regulatory Networks from Systems-biology Data Sets ''de Novo''*):** *"Statistical methods offer the ability to enforce parsimonious selection of the most influential potential predictors of each gene's state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sparing, restrained
+> 2. **Nuance / Usage**: (sports) not conceding many goals
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a parsimonious presence*) or predicatively (*remained parsimonious*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Graham Sumner (*s:War and Other Essays*):** *"Our fathers would have an economical government, even if grand people called it a parsimonious one, and taxes should be no greater than were absolutely necessary to pay for such a government."*
+> - 📜 **Classic Author (*55 great personal-finance ideas*):** *"The first three college-savings plans stand out for their parsimonious expenses {{..."*
+> - 📜 **Richard Bonneau; et al. (*The Inferelator: An Algorithm for Learning Parsimonious Regulatory Networks from Systems-biology Data Sets ''de Novo''*):** *"Statistical methods offer the ability to enforce parsimonious selection of the most influential potential predictors of each gene's state."*

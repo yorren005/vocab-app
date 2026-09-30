@@ -5,14 +5,6 @@ status: unread
 ---
 # malevolently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malevolent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a malevolent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Rostopchín writes that he will stake his life on it that the enemy will not enter Moscow.” “Oh, that count of yours!” said the princess malevolently."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A gleaming beak had been thrust out and the bright, intelligent eye of one of the dodo-birds was regarding them malevolently from the opening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malevolent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a malevolent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Rostopchín writes that he will stake his life on it that the enemy will not enter Moscow.” “Oh, that count of yours!” said the princess malevolently."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A gleaming beak had been thrust out and the bright, intelligent eye of one of the dodo-birds was regarding them malevolently from the opening."*

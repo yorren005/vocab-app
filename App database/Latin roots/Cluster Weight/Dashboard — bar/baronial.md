@@ -5,15 +5,6 @@ status: unread
 ---
 # baronial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressive in appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed hardly possible that by such comparatively small mouthfuls he could keep up the vitality diffused through so broad, baronial, and superb a person."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He too worships fire; most faithful, broad, baronial vassal of the sun!—Oh that these too-favoring eyes should see these too-favoring sights."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The traditionary customs of golden-hearted antiquity, its feudal hospitalities, and lordly wassailings, have passed away with the baronial castles and stately manor-houses in which they were celebrated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressive in appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed hardly possible that by such comparatively small mouthfuls he could keep up the vitality diffused through so broad, baronial, and superb a person."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He too worships fire; most faithful, broad, baronial vassal of the sun!—Oh that these too-favoring eyes should see these too-favoring sights."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The traditionary customs of golden-hearted antiquity, its feudal hospitalities, and lordly wassailings, have passed away with the baronial castles and stately manor-houses in which they were celebrated."*

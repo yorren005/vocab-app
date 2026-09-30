@@ -5,13 +5,6 @@ status: unread
 ---
 # anthonomus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weevils destructive of cultivated plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weevils destructive of cultivated plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthonomus designates weevils destructive of cultivated plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weevils destructive of cultivated plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weevils destructive of cultivated plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthonomus designates weevils destructive of cultivated plants."*

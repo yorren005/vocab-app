@@ -5,15 +5,6 @@ status: unread
 ---
 # importune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beg persistently and urgently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg persistently and urgently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it lawful I love thee as thou lov’st those, Whom thine eyes woo as mine importune thee, Root pity in thy heart that when it grows, Thy pity may deserve to pitied be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only I here importune death awhile until Of many thousand kisses the poor last I lay upon thy lips."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Importune him once more to go, my lord; His wits begin t’unsettle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beg persistently and urgently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg persistently and urgently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it lawful I love thee as thou lov’st those, Whom thine eyes woo as mine importune thee, Root pity in thy heart that when it grows, Thy pity may deserve to pitied be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only I here importune death awhile until Of many thousand kisses the poor last I lay upon thy lips."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Importune him once more to go, my lord; His wits begin t’unsettle."*

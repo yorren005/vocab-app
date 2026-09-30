@@ -5,13 +5,6 @@ status: unread
 ---
 # transmigrante
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A latin american who buys used goods in the united states and takes them to latin america to sell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A latin american who buys used goods in the united states and takes them to latin america to sell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmigrante designates a latin american who buys used goods in the united states and takes them to latin america to sell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A latin american who buys used goods in the united states and takes them to latin america to sell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A latin american who buys used goods in the united states and takes them to latin america to sell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmigrante designates a latin american who buys used goods in the united states and takes them to latin america to sell."*

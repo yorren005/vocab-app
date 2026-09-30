@@ -5,13 +5,6 @@ status: unread
 ---
 # ebonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stain black in imitation of ebony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stain black in imitation of ebony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonize designates to stain black in imitation of ebony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stain black in imitation of ebony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stain black in imitation of ebony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonize designates to stain black in imitation of ebony."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # scenario
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outline or synopsis of a play (or, by extension, of a literary work).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A setting for a work of art or literature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your answers to my questions present an interesting scenario," Narval said after studying the monitor."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Tell me beforehand that your scenario is to include both worlds, and I have no objection to make; I simply attune my mind to the more extensive scope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outline or synopsis of a play (or, by extension, of a literary work).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A setting for a work of art or literature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your answers to my questions present an interesting scenario," Narval said after studying the monitor."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Tell me beforehand that your scenario is to include both worlds, and I have no objection to make; I simply attune my mind to the more extensive scope."*

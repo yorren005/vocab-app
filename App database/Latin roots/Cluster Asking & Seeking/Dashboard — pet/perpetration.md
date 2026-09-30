@@ -5,14 +5,6 @@ status: unread
 ---
 # perpetration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of committing a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of committing a crime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I could rescue myself from this abhorred fate; I could dissipate this tremendous illusion; I could save my brother from the perpetration of new horrors, by pointing out the devil who seduced him."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But for my aid his life would have burned away in torments within the first two years after the perpetration of his crime and thine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of committing a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of committing a crime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I could rescue myself from this abhorred fate; I could dissipate this tremendous illusion; I could save my brother from the perpetration of new horrors, by pointing out the devil who seduced him."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But for my aid his life would have burned away in torments within the first two years after the perpetration of his crime and thine."*

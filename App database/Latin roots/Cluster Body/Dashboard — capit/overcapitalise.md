@@ -5,13 +5,6 @@ status: unread
 ---
 # overcapitalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimate the capital value of (a company) at an unreasonably or unlawfully high level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overestimate the market value of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcapitalise designates estimate the capital value of (a company) at an unreasonably or unlawfully high level."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimate the capital value of (a company) at an unreasonably or unlawfully high level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overestimate the market value of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcapitalise designates estimate the capital value of (a company) at an unreasonably or unlawfully high level."*

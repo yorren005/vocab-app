@@ -5,15 +5,6 @@ status: unread
 ---
 # panacea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy for all ills or difficulties : cure-all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remedy for all ills or difficulties : cure-all.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has to lay upon the table half a crown, his usual panacea for an immense variety of afflictions."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He knew his wife's particular ideas were good, however, her general political panacea was rather doubtful."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ignorance, pride, or prejudice closes the door to whatever is not stereotyped. 144:27 When the Science of being is universally understood, every man will be his own physician, and Truth will be the universal panacea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy for all ills or difficulties : cure-all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remedy for all ills or difficulties : cure-all.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has to lay upon the table half a crown, his usual panacea for an immense variety of afflictions."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He knew his wife's particular ideas were good, however, her general political panacea was rather doubtful."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ignorance, pride, or prejudice closes the door to whatever is not stereotyped. 144:27 When the Science of being is universally understood, every man will be his own physician, and Truth will be the universal panacea."*

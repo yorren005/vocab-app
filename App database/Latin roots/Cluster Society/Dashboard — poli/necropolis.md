@@ -5,13 +5,6 @@ status: unread
 ---
 # necropolis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tract of land used for burials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tract of land used for burials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, effigies of Osiris, with faces of green wax and their interior full of grain, were found buried near the necropolis of Thebes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tract of land used for burials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tract of land used for burials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, effigies of Osiris, with faces of green wax and their interior full of grain, were found buried near the necropolis of Thebes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cantankerous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly obstructive and unwilling to cooperate; - spectator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a difficult and contrary disposition; - dorothy sayers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The hardy cantankerous Serb, Whom even the Turk couldn't curb, In having a go With Emperor Joe, Will the plans of the Kaiser disturb."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But I s’pose, Anne, to be fair, _I_ was cantankerous too."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"It kept me all cross and cantankerous and I saw I’d have to get out or I’d never have any peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly obstructive and unwilling to cooperate; - spectator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a difficult and contrary disposition; - dorothy sayers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The hardy cantankerous Serb, Whom even the Turk couldn't curb, In having a go With Emperor Joe, Will the plans of the Kaiser disturb."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But I s’pose, Anne, to be fair, _I_ was cantankerous too."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"It kept me all cross and cantankerous and I saw I’d have to get out or I’d never have any peace."*

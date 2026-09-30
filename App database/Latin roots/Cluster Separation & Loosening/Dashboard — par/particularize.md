@@ -5,15 +5,6 @@ status: unread
 ---
 # particularize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be specific about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
-> - 📜 **George Eliot (*Middlemarch*):** *"If his prophetic soul had been urged to particularize, it seemed to him that “fits” would have been the definite expression alighted upon."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I may succeed, perhaps, in particularizing some of the individual features of Fayaway’s beauty, but that general loveliness of appearance which they all contributed to produce I will not attempt to describe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be specific about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
+> - 📜 **George Eliot (*Middlemarch*):** *"If his prophetic soul had been urged to particularize, it seemed to him that “fits” would have been the definite expression alighted upon."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I may succeed, perhaps, in particularizing some of the individual features of Fayaway’s beauty, but that general loveliness of appearance which they all contributed to produce I will not attempt to describe."*

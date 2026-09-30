@@ -5,15 +5,6 @@ status: unread
 ---
 # continental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or typical of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning the american colonies during and immediately after the american revolutionary war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continental notes were issued by the Continental Congress in the first year of the war (1775), and for the next five years."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Buy and sell anywhere bills, notes, revenue bonds, and warrants of the states and subdivisions in the continental United States. f."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or typical of europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning the american colonies during and immediately after the american revolutionary war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continental notes were issued by the Continental Congress in the first year of the war (1775), and for the next five years."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Buy and sell anywhere bills, notes, revenue bonds, and warrants of the states and subdivisions in the continental United States. f."*

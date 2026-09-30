@@ -5,13 +5,6 @@ status: unread
 ---
 # philadelphus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Anyone can read them in the Greek version, which was made by the seventy elders for Ptolemy Philadelphus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Anyone can read them in the Greek version, which was made by the seventy elders for Ptolemy Philadelphus."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inaudible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to hear; imperceptible by the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to hear; imperceptible by the ear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such the guests in the long drawing-room at Chesney Wold this dismal night when the step on the Ghost’s Walk (inaudible here, however) might be the step of a deceased cousin shut out in the cold."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester—his passion died as if a blight had shrivelled it up: he only asked—“What have _you_ to say?” An inaudible reply escaped Mason’s white lips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to hear; imperceptible by the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to hear; imperceptible by the ear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Such the guests in the long drawing-room at Chesney Wold this dismal night when the step on the Ghost’s Walk (inaudible here, however) might be the step of a deceased cousin shut out in the cold."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester—his passion died as if a blight had shrivelled it up: he only asked—“What have _you_ to say?” An inaudible reply escaped Mason’s white lips."*

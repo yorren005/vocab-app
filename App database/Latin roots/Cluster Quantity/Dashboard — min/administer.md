@@ -5,15 +5,6 @@ status: unread
 ---
 # administer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work in an administrative capacity; supervise or be in charge of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform (a church sacrament) ritually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sits there to administer the system."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, who was sitting in a corner by the door, good-naturedly offered such consolation as he could administer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, too, the policeman begins to push at doors; to try fastenings; to be suspicious of bundles; and to administer his beat, on the hypothesis that every one is either robbing or being robbed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work in an administrative capacity; supervise or be in charge of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform (a church sacrament) ritually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sits there to administer the system."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, who was sitting in a corner by the door, good-naturedly offered such consolation as he could administer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, too, the policeman begins to push at doors; to try fastenings; to be suspicious of bundles; and to administer his beat, on the hypothesis that every one is either robbing or being robbed."*

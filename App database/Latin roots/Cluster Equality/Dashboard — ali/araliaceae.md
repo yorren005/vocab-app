@@ -5,13 +5,6 @@ status: unread
 ---
 # araliaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly tropical trees and shrubs and lianas: genera panax and hedera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly tropical trees and shrubs and lianas: genera panax and hedera.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, araliaceae designates mostly tropical trees and shrubs and lianas: genera panax and hedera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly tropical trees and shrubs and lianas: genera panax and hedera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly tropical trees and shrubs and lianas: genera panax and hedera.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, araliaceae designates mostly tropical trees and shrubs and lianas: genera panax and hedera."*

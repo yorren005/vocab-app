@@ -5,15 +5,6 @@ status: unread
 ---
 # diligence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persevering determination to perform a task.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Cloten, There wants no diligence in seeking him, And will no doubt be found."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will receive it with all diligence of spirit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This speed and quick appearance argues proof Of your accustom’d diligence to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persevering determination to perform a task.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Cloten, There wants no diligence in seeking him, And will no doubt be found."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will receive it with all diligence of spirit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This speed and quick appearance argues proof Of your accustom’d diligence to me."*

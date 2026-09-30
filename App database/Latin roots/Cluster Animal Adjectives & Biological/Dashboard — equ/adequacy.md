@@ -5,13 +5,6 @@ status: unread
 ---
 # adequacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being able to meet a need satisfactorily:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being sufficient for the end in view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s learning he must have before him the same materials as German scholars—has he not?” Dorothea’s timidity was due to an indistinct consciousness that she was in the strange situation of consulting a third person about the adequacy of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being able to meet a need satisfactorily:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being sufficient for the end in view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s learning he must have before him the same materials as German scholars—has he not?” Dorothea’s timidity was due to an indistinct consciousness that she was in the strange situation of consulting a third person about the adequacy of Mr."*

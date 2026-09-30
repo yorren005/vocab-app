@@ -5,15 +5,6 @@ status: unread
 ---
 # entree
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal dish of a meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right to enter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had a most harmless delight in being fine; and our heroine’s entree into life could not take place till after three or four days had been spent in learning what was mostly worn, and her chaperon was provided with a dress of the newest fashion."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Soup and fish and an _entree_ before you know where you are."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Wild Bill made his _entree_ into one court of the temple of fame some years since through Harper's Magazine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal dish of a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right to enter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had a most harmless delight in being fine; and our heroine’s entree into life could not take place till after three or four days had been spent in learning what was mostly worn, and her chaperon was provided with a dress of the newest fashion."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Soup and fish and an _entree_ before you know where you are."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Wild Bill made his _entree_ into one court of the temple of fame some years since through Harper's Magazine."*

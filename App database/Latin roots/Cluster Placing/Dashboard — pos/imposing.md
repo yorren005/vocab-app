@@ -5,15 +5,6 @@ status: unread
 ---
 # imposing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compel to behave in a certain way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not a very good day for a visit, he said; he would have preferred the first day of term; but it was imposing, it was imposing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His height and breadth would have been sufficient to make his presence imposing, had they been exhibited with due consideration."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her figure looked singularly tall and imposing as she stood in her long white nightgown, a thick cable of twisted dark hair hanging straight down her back to her waist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compel to behave in a certain way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was not a very good day for a visit, he said; he would have preferred the first day of term; but it was imposing, it was imposing."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His height and breadth would have been sufficient to make his presence imposing, had they been exhibited with due consideration."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her figure looked singularly tall and imposing as she stood in her long white nightgown, a thick cable of twisted dark hair hanging straight down her back to her waist."*

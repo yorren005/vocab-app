@@ -5,13 +5,6 @@ status: unread
 ---
 # annexa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annexa designates accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annexa designates accessory or adjoining anatomical parts or appendages to an organ (especially of the embryo)."*

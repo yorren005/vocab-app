@@ -5,13 +5,6 @@ status: unread
 ---
 # clamant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and offensively loud; given to vehement outcry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding attention; ; ; - h.l.mencken.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The doom of the Regent and Council shows singularly the total interruption of justice at this calamitous period, even in the most clamant cases of oppression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and offensively loud; given to vehement outcry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding attention; ; ; - h.l.mencken.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The doom of the Regent and Council shows singularly the total interruption of justice at this calamitous period, even in the most clamant cases of oppression."*

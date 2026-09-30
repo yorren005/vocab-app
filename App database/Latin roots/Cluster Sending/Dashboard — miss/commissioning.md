@@ -5,13 +5,6 @@ status: unread
 ---
 # commissioning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of granting authority to undertake certain functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into commission; equip for service; of ships.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins; and as they walked down the garden, he was commissioning her with his best respects to all her family, not forgetting his thanks for the kindness he had received at Longbourn in the winter, and his compliments to Mr. and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of granting authority to undertake certain functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into commission; equip for service; of ships.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins; and as they walked down the garden, he was commissioning her with his best respects to all her family, not forgetting his thanks for the kindness he had received at Longbourn in the winter, and his compliments to Mr. and Mrs."*

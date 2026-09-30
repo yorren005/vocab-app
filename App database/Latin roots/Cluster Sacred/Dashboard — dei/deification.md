@@ -5,13 +5,6 @@ status: unread
 ---
 # deification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being treated like a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embodiment of the qualities of a god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I shall therefore not draw my examples exclusively from royal personages, as I wish to illustrate the general principle of the deification of living men, in other words, the incarnation of a deity in human form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being treated like a god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embodiment of the qualities of a god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I shall therefore not draw my examples exclusively from royal personages, as I wish to illustrate the general principle of the deification of living men, in other words, the incarnation of a deity in human form."*

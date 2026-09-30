@@ -5,13 +5,6 @@ status: unread
 ---
 # rhombencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: hindbrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the posterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes the cerebellum, the medulla oblongata, and in mammals the pons and that controls autonomic functions and equilibrium —called also rhombencephalon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombencephalon designates hindbrain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: hindbrain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the posterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes the cerebellum, the medulla oblongata, and in mammals the pons and that controls autonomic functions and equilibrium —called also rhombencephalon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombencephalon designates hindbrain."*

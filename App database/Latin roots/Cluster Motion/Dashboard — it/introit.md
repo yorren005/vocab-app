@@ -5,13 +5,6 @@ status: unread
 ---
 # introit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition of vocal music that is appropriate for opening church services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition of vocal music that is appropriate for opening church services.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"CISSY CAFFREY: _(Her voice soaring higher.)_ She has it, she got it, Wherever she put it, The leg of the duck. _(Stephen, flourishing the ashplant in his left hand, chants with joy the_ introit _for paschal time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition of vocal music that is appropriate for opening church services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition of vocal music that is appropriate for opening church services.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"CISSY CAFFREY: _(Her voice soaring higher.)_ She has it, she got it, Wherever she put it, The leg of the duck. _(Stephen, flourishing the ashplant in his left hand, chants with joy the_ introit _for paschal time."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # interdependent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually dependent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually dependent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They are interdependent." Unfolding his clasped hands, Narval's fingers drummed the desk."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From here they are both independent and interdependent."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"For seen and unseen are parts of the Great Whole: all the parts interdependent, closely related; all alike have proceeded from and are manifestations of the Divine Source."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually dependent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually dependent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They are interdependent." Unfolding his clasped hands, Narval's fingers drummed the desk."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From here they are both independent and interdependent."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"For seen and unseen are parts of the Great Whole: all the parts interdependent, closely related; all alike have proceeded from and are manifestations of the Divine Source."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unreflected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of incident sound or light) not turned back by physical reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of incident sound or light) not turned back by physical reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreflected designates (especially of incident sound or light) not turned back by physical reflection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of incident sound or light) not turned back by physical reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of incident sound or light) not turned back by physical reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreflected designates (especially of incident sound or light) not turned back by physical reflection."*

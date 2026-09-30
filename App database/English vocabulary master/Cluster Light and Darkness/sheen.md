@@ -5,20 +5,6 @@ status: unread
 ---
 # sheen
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Beautiful
-> 2. **Nuance / Usage**: Shining, resplendent
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a sheen appearance*) and predicatively after a linking verb (*remained sheen*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The London Magazine, and Monthly Chronologer*):** *"The doleful Dumps I sing, and tearful Woes, <br>Of Marian teeming with unlawful Throes: <br>The sheenest Lass in Berkshire was she known, <br>Of all that Butter fell to Reading Town: {{..."*
-> - 📜 **Walter Scott (*Waverley*):** *"Where the fountains glisten sheenest {{..."*
-> - 📜 **James Sharp (*The Captive King and Other Poems*):** *"The woods, and vales were sheen as day, <br>With light from its own living fountain; {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Beautiful
+> 2. **Nuance / Usage**: Shining, resplendent
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a sheen appearance*) and predicatively after a linking verb (*remained sheen*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The London Magazine, and Monthly Chronologer*):** *"The doleful Dumps I sing, and tearful Woes, <br>Of Marian teeming with unlawful Throes: <br>The sheenest Lass in Berkshire was she known, <br>Of all that Butter fell to Reading Town: {{..."*
+> - 📜 **Walter Scott (*Waverley*):** *"Where the fountains glisten sheenest {{..."*
+> - 📜 **James Sharp (*The Captive King and Other Poems*):** *"The woods, and vales were sheen as day, <br>With light from its own living fountain; {{..."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # auriculare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the center of the opening of the external acoustic meatus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the center of the opening of the external acoustic meatus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculare designates the craniometric point at the center of the opening of the external acoustic meatus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the center of the opening of the external acoustic meatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the center of the opening of the external acoustic meatus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculare designates the craniometric point at the center of the opening of the external acoustic meatus."*

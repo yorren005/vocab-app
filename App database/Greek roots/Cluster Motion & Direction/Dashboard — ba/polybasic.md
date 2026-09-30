@@ -5,15 +5,6 @@ status: unread
 ---
 # polybasic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Polybasic slags have a lower formation temperature, and in consequence the production of the highly ferruginous slags of high formation temperature which it is desired to make by the oxidation of as much iron as possible is retarded."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Lime silicates and the polybasic lime slags have a markedly lower formation temperature than the normal ferruginous slags of true pyritic smelting, they are hence formed readily without requiring so much oxidation activity at the tuyere zone."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Polybasic slags, 150, 176, 181."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Polybasic slags have a lower formation temperature, and in consequence the production of the highly ferruginous slags of high formation temperature which it is desired to make by the oxidation of as much iron as possible is retarded."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Lime silicates and the polybasic lime slags have a markedly lower formation temperature than the normal ferruginous slags of true pyritic smelting, they are hence formed readily without requiring so much oxidation activity at the tuyere zone."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Polybasic slags, 150, 176, 181."*

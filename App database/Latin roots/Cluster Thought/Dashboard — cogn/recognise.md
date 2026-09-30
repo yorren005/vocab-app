@@ -5,15 +5,6 @@ status: unread
 ---
 # recognise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show approval or appreciation of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant credentials to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne was astonished to recognise the same hills and the same objects so soon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One of these, alloted to the male performers, was partitioned into halves by a cloth; and in one of the divisions there was sitting on the grass, pulling on a pair of jack-boots, a young man whom we instantly recognise as Sergeant Troy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A ceremony followed, in dumb show, in which it was easy to recognise the pantomime of a marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show approval or appreciation of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant credentials to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne was astonished to recognise the same hills and the same objects so soon."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One of these, alloted to the male performers, was partitioned into halves by a cloth; and in one of the divisions there was sitting on the grass, pulling on a pair of jack-boots, a young man whom we instantly recognise as Sergeant Troy."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A ceremony followed, in dumb show, in which it was easy to recognise the pantomime of a marriage."*

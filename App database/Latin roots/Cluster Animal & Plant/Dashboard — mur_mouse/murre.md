@@ -5,14 +5,6 @@ status: unread
 ---
 # murre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Black-and-white diving bird of northern seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Black-and-white diving bird of northern seas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Howitt's return from the ceremony he was visited by one of the principal men of the Murring tribe, who had travelled some two hundred and fifty miles from his home to fetch back the teeth."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the tribes settled on the southern coast of New South Wales, of which the Coast Murring tribe may be regarded as typical, the drama of resurrection from the dead was exhibited in a graphic form to the novices at initiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Black-and-white diving bird of northern seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Black-and-white diving bird of northern seas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Howitt's return from the ceremony he was visited by one of the principal men of the Murring tribe, who had travelled some two hundred and fifty miles from his home to fetch back the teeth."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the tribes settled on the southern coast of New South Wales, of which the Coast Murring tribe may be regarded as typical, the drama of resurrection from the dead was exhibited in a graphic form to the novices at initiation."*

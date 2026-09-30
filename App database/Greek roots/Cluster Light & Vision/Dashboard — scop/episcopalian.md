@@ -5,13 +5,6 @@ status: unread
 ---
 # episcopalian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the episcopal church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the episcopal church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"When Pentecost comes to us we are all lifted upon one grand common platform and shake hands and shout and weep and laugh and get so mixed up that a Presbyterian can not be distinguished from a Methodist, nor a Friend from an Episcopalian vestryman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the episcopal church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the episcopal church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"When Pentecost comes to us we are all lifted upon one grand common platform and shake hands and shout and weep and laugh and get so mixed up that a Presbyterian can not be distinguished from a Methodist, nor a Friend from an Episcopalian vestryman."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # gonioscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonioscopy designates an examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonioscopy designates an examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma."*

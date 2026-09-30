@@ -5,15 +5,6 @@ status: unread
 ---
 # meredith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states civil rights leader whose college registration caused riots in traditionally segregated mississippi (born in 1933).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist and poet (1828-1909).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith was a most kind and thoughtful woman."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith heard of John’s idea, she, too, thought it a good one."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith, “you may send him every Saturday morning, if you will pop the corn for him yourselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states civil rights leader whose college registration caused riots in traditionally segregated mississippi (born in 1933).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist and poet (1828-1909).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith was a most kind and thoughtful woman."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith heard of John’s idea, she, too, thought it a good one."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith, “you may send him every Saturday morning, if you will pop the corn for him yourselves."*

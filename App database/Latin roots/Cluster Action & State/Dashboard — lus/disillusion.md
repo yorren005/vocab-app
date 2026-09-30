@@ -5,15 +5,6 @@ status: unread
 ---
 # disillusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from enchantment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be lectured because the lecturer saw her in the cold morning light of open-shuttered disillusion was exasperating."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A mist makes things wonderful.” “One may lose one’s way.” “All ways end at the same point, my dear Gladys.” “What is that?” “Disillusion.” “It was my _début_ in life,” she sighed."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It's no good trying to disillusion me, Charmion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from enchantment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be lectured because the lecturer saw her in the cold morning light of open-shuttered disillusion was exasperating."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A mist makes things wonderful.” “One may lose one’s way.” “All ways end at the same point, my dear Gladys.” “What is that?” “Disillusion.” “It was my _début_ in life,” she sighed."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It's no good trying to disillusion me, Charmion."*

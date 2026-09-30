@@ -5,15 +5,6 @@ status: unread
 ---
 # exhausting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear out completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such an increase in output might occur in a change from exhausting hours, as from 12 to 10, and again from 10 to 9, and yet not be possible in a change from 9 to 8."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These laws are primarily for the protection of the public, but they afford a protection to the employee much needed, as many well-authenticated cases of excessive and exhausting hours demonstrate."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley begins by exhausting, in the effort to express her perfection, all the metaphors that rapture can suggest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear out completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such an increase in output might occur in a change from exhausting hours, as from 12 to 10, and again from 10 to 9, and yet not be possible in a change from 9 to 8."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These laws are primarily for the protection of the public, but they afford a protection to the employee much needed, as many well-authenticated cases of excessive and exhausting hours demonstrate."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley begins by exhausting, in the effort to express her perfection, all the metaphors that rapture can suggest."*

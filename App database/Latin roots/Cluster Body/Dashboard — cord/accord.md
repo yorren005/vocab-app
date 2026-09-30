@@ -5,15 +5,6 @@ status: unread
 ---
 # accord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmony of people's opinions or actions or characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concurrence of opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your father’s remembrance, be at accord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BIANCA. _Gamut_ I am, the ground of all accord, _A re_, to plead Hortensio’s passion; _B mi_, Bianca, take him for thy lord, _C fa ut_, that loves with all affection: _D sol re_, one clef, two notes have I _E la mi_, show pity or I die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they would seem soldiers, they have galls, Good arms, strong joints, true swords; and, Jove’s accord, Nothing so full of heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmony of people's opinions or actions or characters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concurrence of opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your father’s remembrance, be at accord."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BIANCA. _Gamut_ I am, the ground of all accord, _A re_, to plead Hortensio’s passion; _B mi_, Bianca, take him for thy lord, _C fa ut_, that loves with all affection: _D sol re_, one clef, two notes have I _E la mi_, show pity or I die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they would seem soldiers, they have galls, Good arms, strong joints, true swords; and, Jove’s accord, Nothing so full of heart."*

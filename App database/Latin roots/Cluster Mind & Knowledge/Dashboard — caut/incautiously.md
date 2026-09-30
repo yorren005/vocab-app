@@ -5,15 +5,6 @@ status: unread
 ---
 # incautiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without caution or prudence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without caution or prudence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His behaviour to herself could now have had no tolerable motive: he had either been deceived with regard to her fortune, or had been gratifying his vanity by encouraging the preference which she believed she had most incautiously shown."*
-> - 📜 **James Joyce (*Ulysses*):** *"Incautiously I took your part when you were accused of pilfering."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"A single second only, near the end of the ceremony, Tyrrel leaned forward incautiously, anxious to see Cleer at an important point of the proceedings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without caution or prudence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without caution or prudence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His behaviour to herself could now have had no tolerable motive: he had either been deceived with regard to her fortune, or had been gratifying his vanity by encouraging the preference which she believed she had most incautiously shown."*
+> - 📜 **James Joyce (*Ulysses*):** *"Incautiously I took your part when you were accused of pilfering."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"A single second only, near the end of the ceremony, Tyrrel leaned forward incautiously, anxious to see Cleer at an important point of the proceedings."*

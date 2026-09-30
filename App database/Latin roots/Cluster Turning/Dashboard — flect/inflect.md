@@ -5,13 +5,6 @@ status: unread
 ---
 # inflect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the form of a word in accordance as required by the grammatical rules of the language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The tone with doubt inflected, The calm, reproachful look, The name of one suspected In light arraignment spoke; These, these enforce the heart-ache, And instigate the strife, And these, in chiefest part, take The joy from out my life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the form of a word in accordance as required by the grammatical rules of the language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The tone with doubt inflected, The calm, reproachful look, The name of one suspected In light arraignment spoke; These, these enforce the heart-ache, And instigate the strife, And these, in chiefest part, take The joy from out my life."*

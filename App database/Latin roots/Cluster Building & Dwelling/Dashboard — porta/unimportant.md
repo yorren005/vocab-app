@@ -5,15 +5,6 @@ status: unread
 ---
 # unimportant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of importance, meaning, or force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you remember anything so unimportant—which is not to be expected—you would recollect that my first thought in the affair was directly opposed to her remaining here.” Dismiss the Dedlock patronage from consideration?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass was curled round in the fashion of a hedge-hog, apparently in attempts to present the least possible portion of his surface to the air; and behind him was dimly visible an unimportant remnant of William Smallbury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of importance, meaning, or force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If you remember anything so unimportant—which is not to be expected—you would recollect that my first thought in the affair was directly opposed to her remaining here.” Dismiss the Dedlock patronage from consideration?"*
+> - 📜 **Jane Austen (*Persuasion*):** *"How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass was curled round in the fashion of a hedge-hog, apparently in attempts to present the least possible portion of his surface to the air; and behind him was dimly visible an unimportant remnant of William Smallbury."*

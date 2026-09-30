@@ -5,15 +5,6 @@ status: unread
 ---
 # tragic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regrettably serious or unpleasant : deplorable, lamentable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a sense of tragedy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, this man’s brow, like to a title-leaf, Foretells the nature of a tragic volume."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My breast can better brook thy dagger’s point Than can my ears that tragic history."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LODOVICO. [_To Iago._] O Spartan dog, More fell than anguish, hunger, or the sea, Look on the tragic loading of this bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regrettably serious or unpleasant : deplorable, lamentable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a sense of tragedy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, this man’s brow, like to a title-leaf, Foretells the nature of a tragic volume."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My breast can better brook thy dagger’s point Than can my ears that tragic history."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LODOVICO. [_To Iago._] O Spartan dog, More fell than anguish, hunger, or the sea, Look on the tragic loading of this bed."*

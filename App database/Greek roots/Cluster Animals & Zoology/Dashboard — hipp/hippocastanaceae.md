@@ -5,13 +5,6 @@ status: unread
 ---
 # hippocastanaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees having showy flowers and inedible nutlike seeds in a leathery capsule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees having showy flowers and inedible nutlike seeds in a leathery capsule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocastanaceae designates trees having showy flowers and inedible nutlike seeds in a leathery capsule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees having showy flowers and inedible nutlike seeds in a leathery capsule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees having showy flowers and inedible nutlike seeds in a leathery capsule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocastanaceae designates trees having showy flowers and inedible nutlike seeds in a leathery capsule."*

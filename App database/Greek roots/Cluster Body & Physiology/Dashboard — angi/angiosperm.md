@@ -5,13 +5,6 @@ status: unread
 ---
 # angiosperm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiosperm designates any of a group (angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiosperm designates any of a group (angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant."*

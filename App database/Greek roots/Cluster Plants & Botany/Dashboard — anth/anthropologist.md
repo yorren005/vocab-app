@@ -5,15 +5,6 @@ status: unread
 ---
 # anthropologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social scientist who specializes in anthropology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social scientist who specializes in anthropology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) pp. 13 _sq_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) p. 14. [230] C."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hewitt, "New Fire among the Iroquois," _The American Anthropologist_, ii. (1889) p. 319. [743] J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social scientist who specializes in anthropology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social scientist who specializes in anthropology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) pp. 13 _sq_."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) p. 14. [230] C."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hewitt, "New Fire among the Iroquois," _The American Anthropologist_, ii. (1889) p. 319. [743] J."*

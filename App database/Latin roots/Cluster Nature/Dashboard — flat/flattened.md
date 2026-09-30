@@ -5,15 +5,6 @@ status: unread
 ---
 # flattened
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make flat or flatter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become flat or flatter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, with his hair flattened down upon his head and woe depicted in his face, looking up at me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dim, flattened, constrained by their confinement, they had never appealed to her as now, when they wandered in the still air with a stark quality like that of nudity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Everybody in the rifle pit flattened down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make flat or flatter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become flat or flatter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, with his hair flattened down upon his head and woe depicted in his face, looking up at me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dim, flattened, constrained by their confinement, they had never appealed to her as now, when they wandered in the still air with a stark quality like that of nudity."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Everybody in the rifle pit flattened down."*

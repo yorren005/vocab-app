@@ -5,13 +5,6 @@ status: unread
 ---
 # microcytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcytosis designates a blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcytosis designates a blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # opposer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who offers opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who offers opposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Holy seems the quarrel Upon your Grace’s part; black and fearful On the opposer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your noble Tullus Aufidius will appear well in these wars, his great opposer Coriolanus being now in no request of his country."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Her husband was a cripple, almost helpless, an unbeliever, and to some extent an opposer of religion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who offers opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who offers opposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Holy seems the quarrel Upon your Grace’s part; black and fearful On the opposer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your noble Tullus Aufidius will appear well in these wars, his great opposer Coriolanus being now in no request of his country."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Her husband was a cripple, almost helpless, an unbeliever, and to some extent an opposer of religion."*

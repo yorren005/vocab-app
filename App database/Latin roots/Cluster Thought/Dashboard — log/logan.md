@@ -5,15 +5,6 @@ status: unread
 ---
 # logan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in the st. elias range in the southwestern yukon territory in canada (19,850 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain peak in the st. elias range in the southwestern yukon territory in canada (19,850 feet high).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Arrived in Berlin, he joined his friends--Nelson, Graham, Wallace, and Logan Aikman."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Epistle To Major Logan Hail, thairm-inspirin’, rattlin’ Willie!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But soon may peace bring happy days, And Willie hame to Logan braes!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in the st. elias range in the southwestern yukon territory in canada (19,850 feet high).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain peak in the st. elias range in the southwestern yukon territory in canada (19,850 feet high).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Arrived in Berlin, he joined his friends--Nelson, Graham, Wallace, and Logan Aikman."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Epistle To Major Logan Hail, thairm-inspirin’, rattlin’ Willie!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But soon may peace bring happy days, And Willie hame to Logan braes!"*

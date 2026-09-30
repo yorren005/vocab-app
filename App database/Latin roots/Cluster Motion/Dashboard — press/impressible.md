@@ -5,15 +5,6 @@ status: unread
 ---
 # impressible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily impressed or influenced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed or influenced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet he whom it describes scarcely impressed one with the idea of a gentle, a yielding, an impressible, or even of a placid nature."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His brain is first-rate, I should think not impressible, but vigorous.” “Is he an able man, then?” “Truly able.” “A thoroughly educated man?” “St."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Will, too, was made of very impressible stuff."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily impressed or influenced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed or influenced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet he whom it describes scarcely impressed one with the idea of a gentle, a yielding, an impressible, or even of a placid nature."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His brain is first-rate, I should think not impressible, but vigorous.” “Is he an able man, then?” “Truly able.” “A thoroughly educated man?” “St."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will, too, was made of very impressible stuff."*

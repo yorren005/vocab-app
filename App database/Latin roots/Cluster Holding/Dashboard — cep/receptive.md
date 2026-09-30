@@ -5,15 +5,6 @@ status: unread
 ---
 # receptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to arguments, ideas, or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready or willing to receive favorably.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was so receptive that the few minutes of contact with the whirl of material progress lingered in her thought."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The mind is on the alert when we meet the stranger--quick and eager to master his outlook and his ways of thought, to see who and what he is--it is critical, self-protective, rather than receptive."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had regarded Rosamond’s cleverness as precisely of the receptive kind which became a woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to arguments, ideas, or change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready or willing to receive favorably.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was so receptive that the few minutes of contact with the whirl of material progress lingered in her thought."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The mind is on the alert when we meet the stranger--quick and eager to master his outlook and his ways of thought, to see who and what he is--it is critical, self-protective, rather than receptive."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had regarded Rosamond’s cleverness as precisely of the receptive kind which became a woman."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # torn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate or cause to separate abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To separate or be separated by force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though thy tackle’s torn, Thou show’st a noble vessel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France should have torn and rent my very heart Before I would have yielded to this league."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, when merchant-like I sell revenge, Broke be my sword, my arms torn and defaced, And I proclaimed a coward through the world!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate or cause to separate abruptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To separate or be separated by force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though thy tackle’s torn, Thou show’st a noble vessel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France should have torn and rent my very heart Before I would have yielded to this league."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, when merchant-like I sell revenge, Broke be my sword, my arms torn and defaced, And I proclaimed a coward through the world!"*

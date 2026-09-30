@@ -5,13 +5,6 @@ status: unread
 ---
 # ambulant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to walk about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to walk about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Haec inquam animalia in aere volant, in aquis natant, in terra ambulant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to walk about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to walk about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Haec inquam animalia in aere volant, in aquis natant, in terra ambulant."*

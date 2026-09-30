@@ -5,20 +5,6 @@ status: unread
 ---
 # stint
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Restraint, limitation
-> 2. **Nuance / Usage**: Definite quantity of work assigned
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **{{w (*An Essay toward a Natural History of the Earth and Terrestrial Bodies*):** *"I shall not in the least go about to extenuate the Latitude of it: or to stint it only to the Produćtion of Weeds, of Thorns, Thisiles, and other the less useful Kinds of Plants"*
-> - 📜 **William Law (*A Serious Call to a Devout and Holy Life*):** *"She stints them in their meals."*
-> - 📜 **John Henry Walsh (*The Horse, in the Stable and the Field*):** *"The majority of maiden mares will become stinted while at work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Restraint, limitation
+> 2. **Nuance / Usage**: Definite quantity of work assigned
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **{{w (*An Essay toward a Natural History of the Earth and Terrestrial Bodies*):** *"I shall not in the least go about to extenuate the Latitude of it: or to stint it only to the Produćtion of Weeds, of Thorns, Thisiles, and other the less useful Kinds of Plants"*
+> - 📜 **William Law (*A Serious Call to a Devout and Holy Life*):** *"She stints them in their meals."*
+> - 📜 **John Henry Walsh (*The Horse, in the Stable and the Field*):** *"The majority of maiden mares will become stinted while at work."*

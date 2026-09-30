@@ -5,15 +5,6 @@ status: unread
 ---
 # popularly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Among the people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Among the people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nevertheless, the old sea-traditions, the immemorial credulities, popularly invested this old Manxman with preternatural powers of discernment."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In that way, mostly, the disastrous encounter between Ahab and the whale had hitherto been popularly regarded."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The report of his undeniable delirium at sea was likewise popularly ascribed to a kindred cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Among the people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Among the people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nevertheless, the old sea-traditions, the immemorial credulities, popularly invested this old Manxman with preternatural powers of discernment."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In that way, mostly, the disastrous encounter between Ahab and the whale had hitherto been popularly regarded."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The report of his undeniable delirium at sea was likewise popularly ascribed to a kindred cause."*

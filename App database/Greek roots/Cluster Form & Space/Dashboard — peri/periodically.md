@@ -5,15 +5,6 @@ status: unread
 ---
 # periodically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sporadic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sporadic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have him periodically in a vice."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For there and then, for several consecutive years, Moby Dick had been periodically descried, lingering in those waters for awhile, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer," he said, raising his eyes, "I want you to give Brad a special assignment, and report to me periodically how it is progressing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sporadic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sporadic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have him periodically in a vice."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For there and then, for several consecutive years, Moby Dick had been periodically descried, lingering in those waters for awhile, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer," he said, raising his eyes, "I want you to give Brad a special assignment, and report to me periodically how it is progressing."*

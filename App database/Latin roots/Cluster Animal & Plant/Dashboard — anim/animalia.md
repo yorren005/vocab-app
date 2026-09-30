@@ -5,15 +5,6 @@ status: unread
 ---
 # animalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taxonomic kingdom comprising all living or extinct animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taxonomic kingdom comprising all living or extinct animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sunt enim animalia, quae dracones appellamus...."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Haec inquam animalia in aere volant, in aquis natant, in terra ambulant."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Adversus haec ergo hujusmodi inventum est remedium, ut videlicet rogus ex ossibus construeretur, et ita fumus hujusmodi animalia fugaret."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taxonomic kingdom comprising all living or extinct animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taxonomic kingdom comprising all living or extinct animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sunt enim animalia, quae dracones appellamus...."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Haec inquam animalia in aere volant, in aquis natant, in terra ambulant."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Adversus haec ergo hujusmodi inventum est remedium, ut videlicet rogus ex ossibus construeretur, et ita fumus hujusmodi animalia fugaret."*

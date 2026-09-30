@@ -5,15 +5,6 @@ status: unread
 ---
 # suggestive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suggest or imply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `of') pointing out or revealing clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and thirdly because the contrast between those powerful expressions and his powerless figure is suggestive of a baleful old malignant who would be very wicked if he could."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The voice was unexpectedly attractive; it was the low and dulcet note suggestive of romance; common in descriptions, rare in experience."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here, under the table, and leaning against forms and chairs in every conceivable attitude except the perpendicular, were the wretched persons of all the work-folk, the hair of their heads at such low levels being suggestive of mops and brooms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suggest or imply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `of') pointing out or revealing clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and thirdly because the contrast between those powerful expressions and his powerless figure is suggestive of a baleful old malignant who would be very wicked if he could."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The voice was unexpectedly attractive; it was the low and dulcet note suggestive of romance; common in descriptions, rare in experience."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here, under the table, and leaning against forms and chairs in every conceivable attitude except the perpendicular, were the wretched persons of all the work-folk, the hair of their heads at such low levels being suggestive of mops and brooms."*

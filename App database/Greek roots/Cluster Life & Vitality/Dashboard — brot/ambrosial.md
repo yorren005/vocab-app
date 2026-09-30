@@ -5,15 +5,6 @@ status: unread
 ---
 # ambrosial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the taste; sweet and fragrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of the gods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"But fountain and roses and glittering spray, Ambrosial converse and redolent lay Saddened and dimmed in the radiant day, Unbroken the yellow sunbeams streamed, As ever the flashing jewels gleamed."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus while God spake, ambrosial fragrance fill’d All Heaven, and in the blessed Spirits elect Sense of new joy ineffable diffus’d."*
-> - 📜 **James Joyce (*Ulysses*):** *"Quaffing nectar at mess with gods golden dishes, all ambrosial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the taste; sweet and fragrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of the gods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"But fountain and roses and glittering spray, Ambrosial converse and redolent lay Saddened and dimmed in the radiant day, Unbroken the yellow sunbeams streamed, As ever the flashing jewels gleamed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus while God spake, ambrosial fragrance fill’d All Heaven, and in the blessed Spirits elect Sense of new joy ineffable diffus’d."*
+> - 📜 **James Joyce (*Ulysses*):** *"Quaffing nectar at mess with gods golden dishes, all ambrosial."*

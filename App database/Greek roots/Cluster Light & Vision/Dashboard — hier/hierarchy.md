@@ -5,15 +5,6 @@ status: unread
 ---
 # hierarchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of persons in authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classification of a group of people according to ability or to economic, social, or professional standing; also : the group so classified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, my plans include a position of great power and prestige for you." "Indeed?" "A new elite and a new hierarchy will be created when I take control."*
-> - 📜 **John Milton (*Paradise Lost*):** *"His hand was known In Heaven by many a towered structure high, Where sceptred Angels held their residence, And sat as Princes, whom the supreme King Exalted to such power, and gave to rule, Each in his Hierarchy, the Orders bright."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anna Pávlovna greeted him with the nod she accorded to the lowest hierarchy in her drawing room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of persons in authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classification of a group of people according to ability or to economic, social, or professional standing; also : the group so classified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, my plans include a position of great power and prestige for you." "Indeed?" "A new elite and a new hierarchy will be created when I take control."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His hand was known In Heaven by many a towered structure high, Where sceptred Angels held their residence, And sat as Princes, whom the supreme King Exalted to such power, and gave to rule, Each in his Hierarchy, the Orders bright."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anna Pávlovna greeted him with the nod she accorded to the lowest hierarchy in her drawing room."*

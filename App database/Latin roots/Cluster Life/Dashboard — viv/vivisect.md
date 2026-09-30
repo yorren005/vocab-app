@@ -5,13 +5,6 @@ status: unread
 ---
 # vivisect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut (a body) open while still alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut (a body) open while still alive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"And so he had begun by vivisecting himself, as he had ended by vivisecting others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut (a body) open while still alive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut (a body) open while still alive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"And so he had begun by vivisecting himself, as he had ended by vivisecting others."*

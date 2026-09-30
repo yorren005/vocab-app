@@ -5,15 +5,6 @@ status: unread
 ---
 # anthem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song of devotion or loyalty (as to a nation or school).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song of praise (to god or to a saint or to a nation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If so, I pray thee breathe it in mine ear, As ending anthem of my endless dolour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here the anthem doth commence: Love and constancy is dead; Phoenix and the turtle fled In a mutual flame from hence."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"He beckons for one--Sure 'tis no Anthem, nor no borrow'd Rhymes out of the School of Vertue; I will listen-- [_A Song_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A song of devotion or loyalty (as to a nation or school).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song of praise (to god or to a saint or to a nation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If so, I pray thee breathe it in mine ear, As ending anthem of my endless dolour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here the anthem doth commence: Love and constancy is dead; Phoenix and the turtle fled In a mutual flame from hence."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"He beckons for one--Sure 'tis no Anthem, nor no borrow'd Rhymes out of the School of Vertue; I will listen-- [_A Song_."*

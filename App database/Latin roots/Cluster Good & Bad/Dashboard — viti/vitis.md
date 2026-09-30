@@ -5,13 +5,6 @@ status: unread
 ---
 # vitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family vitaceae; woody vines with simple leaves and small flowers; includes a wide variety of grapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family vitaceae; woody vines with simple leaves and small flowers; includes a wide variety of grapes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BILBERRY UREDO; spots yellow-brown; sori subrotund, minute, aggregate, and scattered, on the under surface of the leaves; epidermis seldom ruptured; spores ovoid, yellowish.—On _Vaccinium Myrtillus_ and _V. vitis-idæa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family vitaceae; woody vines with simple leaves and small flowers; includes a wide variety of grapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family vitaceae; woody vines with simple leaves and small flowers; includes a wide variety of grapes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BILBERRY UREDO; spots yellow-brown; sori subrotund, minute, aggregate, and scattered, on the under surface of the leaves; epidermis seldom ruptured; spores ovoid, yellowish.—On _Vaccinium Myrtillus_ and _V. vitis-idæa_."*

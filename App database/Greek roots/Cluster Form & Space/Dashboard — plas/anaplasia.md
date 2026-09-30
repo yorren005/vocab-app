@@ -5,13 +5,6 @@ status: unread
 ---
 # anaplasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasia designates loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasia designates loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor."*

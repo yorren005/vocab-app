@@ -5,13 +5,6 @@ status: unread
 ---
 # unperceptiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of insight and sympathetic understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of insight and sympathetic understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unperceptiveness designates the lack of insight and sympathetic understanding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of insight and sympathetic understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of insight and sympathetic understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unperceptiveness designates the lack of insight and sympathetic understanding."*

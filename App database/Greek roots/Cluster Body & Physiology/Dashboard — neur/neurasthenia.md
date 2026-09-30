@@ -5,13 +5,6 @@ status: unread
 ---
 # neurasthenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that is characterized especially by physical and mental exhaustion usually with accompanying symptoms (such as headache and irritability), is of unknown cause but is often associated with depression or emotional stress, and is sometimes considered similar to or identical with chronic fatigue syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is characterized especially by physical and mental exhaustion usually with accompanying symptoms (such as headache and irritability), is of unknown cause but is often associated with depression or emotional stress, and is sometimes considered similar to or identical with chronic fatigue syndrome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ich weiss, es liegt im Koerper; aber--aber--"[88] In its origin then, Lenau's Weltschmerz differs altogether from that of Hoelderlin, who exhibits no such symptoms of neurasthenia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that is characterized especially by physical and mental exhaustion usually with accompanying symptoms (such as headache and irritability), is of unknown cause but is often associated with depression or emotional stress, and is sometimes considered similar to or identical with chronic fatigue syndrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is characterized especially by physical and mental exhaustion usually with accompanying symptoms (such as headache and irritability), is of unknown cause but is often associated with depression or emotional stress, and is sometimes considered similar to or identical with chronic fatigue syndrome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ich weiss, es liegt im Koerper; aber--aber--"[88] In its origin then, Lenau's Weltschmerz differs altogether from that of Hoelderlin, who exhibits no such symptoms of neurasthenia."*

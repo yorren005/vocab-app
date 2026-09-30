@@ -5,15 +5,6 @@ status: unread
 ---
 # puncture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of air pressure in a tire when a hole is made by some sharp object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small hole made by a sharp object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Not a puncture, not a weak spot anywhere."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"You've got to puncture the hide of that outfit to get any decency into their heads." Then came a deep silence."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He then dressed the puncture neatly with appliances for that purpose which he carried about him, and shouted in Mellish’s ear to rouse him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of air pressure in a tire when a hole is made by some sharp object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small hole made by a sharp object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Not a puncture, not a weak spot anywhere."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"You've got to puncture the hide of that outfit to get any decency into their heads." Then came a deep silence."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He then dressed the puncture neatly with appliances for that purpose which he carried about him, and shouted in Mellish’s ear to rouse him."*

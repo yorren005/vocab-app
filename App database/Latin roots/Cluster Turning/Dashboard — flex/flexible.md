@@ -5,15 +5,6 @@ status: unread
 ---
 # flexible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to flex; able to bend easily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are soft, mild, pitiful, and flexible; Thou stern, obdurate, flinty, rough, remorseless."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The river slid along noiselessly as a shade, the swelling reeds and sedge forming a flexible palisade upon its moist brink."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mobile and flexible, it was never intended to be compressed in the eternal silence of solitude: it is a mouth which should speak much and smile often, and have human affection for its interlocutor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to flex; able to bend easily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are soft, mild, pitiful, and flexible; Thou stern, obdurate, flinty, rough, remorseless."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The river slid along noiselessly as a shade, the swelling reeds and sedge forming a flexible palisade upon its moist brink."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mobile and flexible, it was never intended to be compressed in the eternal silence of solitude: it is a mouth which should speak much and smile often, and have human affection for its interlocutor."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding in time : earlier than : before.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time : earlier than : before.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For fear of which, hear this thou age unbred, Ere you were born was beauty’s summer dead. 105 Let not my love be called idolatry, Nor my beloved as an idol show, Since all alike my songs and praises be To one, of one, still such, and ever so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so being full of your ne’er-cloying sweetness, To bitter sauces did I frame my feeding; And sick of welfare found a kind of meetness, To be diseased ere that there was true needing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we might have a good woman born but or every blazing star, or at an earthquake, ’twould mend the lottery well; a man may draw his heart out ere he pluck one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding in time : earlier than : before.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time : earlier than : before.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For fear of which, hear this thou age unbred, Ere you were born was beauty’s summer dead. 105 Let not my love be called idolatry, Nor my beloved as an idol show, Since all alike my songs and praises be To one, of one, still such, and ever so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so being full of your ne’er-cloying sweetness, To bitter sauces did I frame my feeding; And sick of welfare found a kind of meetness, To be diseased ere that there was true needing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we might have a good woman born but or every blazing star, or at an earthquake, ’twould mend the lottery well; a man may draw his heart out ere he pluck one."*

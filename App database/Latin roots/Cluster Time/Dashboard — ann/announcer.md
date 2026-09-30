@@ -5,13 +5,6 @@ status: unread
 ---
 # announcer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who proclaims a message publicly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reads news, commercials on radio or television.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"He claims to have seen a strange animal approach the victims shortly before the murder." The announcer repeated a very accurate description of Henig--which, he said, tallied with no species known to zoology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who proclaims a message publicly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reads news, commercials on radio or television.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"He claims to have seen a strange animal approach the victims shortly before the murder." The announcer repeated a very accurate description of Henig--which, he said, tallied with no species known to zoology."*

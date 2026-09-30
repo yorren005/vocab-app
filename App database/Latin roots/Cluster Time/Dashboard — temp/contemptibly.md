@@ -5,15 +5,6 @@ status: unread
 ---
 # contemptibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner deserving contempt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner deserving contempt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He liked saying “Bathsheba” as a private enjoyment instead of whistling; turned over his taste to black hair, though he had sworn by brown ever since he was a boy, isolated himself till the space he filled in the public eye was contemptibly small."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The disturbance was as the first floating weed to Columbus—the contemptibly little suggesting possibilities of the infinitely great."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of these practices were baldly dishonest, many of them were contemptibly mean."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner deserving contempt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner deserving contempt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He liked saying “Bathsheba” as a private enjoyment instead of whistling; turned over his taste to black hair, though he had sworn by brown ever since he was a boy, isolated himself till the space he filled in the public eye was contemptibly small."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The disturbance was as the first floating weed to Columbus—the contemptibly little suggesting possibilities of the infinitely great."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of these practices were baldly dishonest, many of them were contemptibly mean."*

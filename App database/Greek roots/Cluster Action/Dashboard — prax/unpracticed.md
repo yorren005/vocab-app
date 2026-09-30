@@ -5,14 +5,6 @@ status: unread
 ---
 # unpracticed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having had extensive practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having had extensive practice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And as he looked at the unpracticed mouth and lips, he thought that such a daughter of the soil could only have caught up the sentiment by rote."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But if your father is mortally sick you’ll send the valet away and attend to your father with your own unpracticed, awkward hands, and will soothe him better than a skilled man who is a stranger could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having had extensive practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having had extensive practice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And as he looked at the unpracticed mouth and lips, he thought that such a daughter of the soil could only have caught up the sentiment by rote."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But if your father is mortally sick you’ll send the valet away and attend to your father with your own unpracticed, awkward hands, and will soothe him better than a skilled man who is a stranger could."*

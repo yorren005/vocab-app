@@ -5,15 +5,6 @@ status: unread
 ---
 # jocular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by jokes and good humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With humor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This foreign young woman has been my lodger for some weeks back.” “What do Sir Leicester care for that, you think, my angel?” returns mademoiselle in a jocular strain."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Nay, he even went so far, in one of his rough, jocular moods, as to slap that mighty burgher on the back, drink his toddy, and wink in his face,—a thing scarcely to be believed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The soldiers say it feels easier without boots,” said Captain Túshin smiling shyly in his uncomfortable position, evidently wishing to adopt a jocular tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by jokes and good humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With humor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This foreign young woman has been my lodger for some weeks back.” “What do Sir Leicester care for that, you think, my angel?” returns mademoiselle in a jocular strain."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Nay, he even went so far, in one of his rough, jocular moods, as to slap that mighty burgher on the back, drink his toddy, and wink in his face,—a thing scarcely to be believed."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The soldiers say it feels easier without boots,” said Captain Túshin smiling shyly in his uncomfortable position, evidently wishing to adopt a jocular tone."*

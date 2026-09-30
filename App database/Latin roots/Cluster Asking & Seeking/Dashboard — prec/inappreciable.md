@@ -5,15 +5,6 @@ status: unread
 ---
 # inappreciable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to make a significant difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small to make a significant difference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And perhaps in this is the whole difference; perhaps all the wisdom, and all truth, and all sincerity, are just compressed into that inappreciable moment of time in which we step over the threshold of the invisible."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Without sensuous, spiritual is inappreciable;-- no beauty or power!"*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I once lifted a page of your MS., which had been blown from your desk, and I grieve to say that it contained such twaddle about love, together with other intangible and inappreciable articles, that I came very near to discharging you on the spot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to make a significant difference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small to make a significant difference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And perhaps in this is the whole difference; perhaps all the wisdom, and all truth, and all sincerity, are just compressed into that inappreciable moment of time in which we step over the threshold of the invisible."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Without sensuous, spiritual is inappreciable;-- no beauty or power!"*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I once lifted a page of your MS., which had been blown from your desk, and I grieve to say that it contained such twaddle about love, together with other intangible and inappreciable articles, that I came very near to discharging you on the spot."*

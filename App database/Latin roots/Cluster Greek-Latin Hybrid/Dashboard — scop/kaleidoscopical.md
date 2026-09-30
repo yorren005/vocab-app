@@ -5,13 +5,6 @@ status: unread
 ---
 # kaleidoscopical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continually shifting or rapidly changing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually shifting or rapidly changing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kaleidoscopical designates continually shifting or rapidly changing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continually shifting or rapidly changing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually shifting or rapidly changing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kaleidoscopical designates continually shifting or rapidly changing."*

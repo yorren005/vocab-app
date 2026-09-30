@@ -5,15 +5,6 @@ status: unread
 ---
 # distributor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who markets merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with authority to allot or deal out or apportion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enterpriser is merely the distributor or equalizer of cost among all the different products for which different agents can be used."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Traps baited with _initiatory impulses toward high ideals. _It is what the tract-distributor does."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Not a few of the most earnest and noble workers in the field were at one time or another the distributors of its supplies, and thus in some sense, its agents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who markets merchandise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with authority to allot or deal out or apportion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enterpriser is merely the distributor or equalizer of cost among all the different products for which different agents can be used."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Traps baited with _initiatory impulses toward high ideals. _It is what the tract-distributor does."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Not a few of the most earnest and noble workers in the field were at one time or another the distributors of its supplies, and thus in some sense, its agents."*

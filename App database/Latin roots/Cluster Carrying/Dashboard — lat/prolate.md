@@ -5,13 +5,6 @@ status: unread
 ---
 # prolate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the polar diameter greater than the equatorial diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolate designates having the polar diameter greater than the equatorial diameter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the polar diameter greater than the equatorial diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolate designates having the polar diameter greater than the equatorial diameter."*

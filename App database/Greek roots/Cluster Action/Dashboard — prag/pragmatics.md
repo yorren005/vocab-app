@@ -5,13 +5,6 @@ status: unread
 ---
 # pragmatics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of language use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imperial decree that becomes part of the fundamental law of the land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pragmatics designates the study of language use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of language use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imperial decree that becomes part of the fundamental law of the land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pragmatics designates the study of language use."*

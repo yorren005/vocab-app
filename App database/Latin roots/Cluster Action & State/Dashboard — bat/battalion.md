@@ -5,15 +5,6 @@ status: unread
 ---
 # battalion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit usually consisting of a headquarters and three or more companies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large indefinite number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She does it.” “Then she is as honest and genuine as she looks,” rejoined my guardian, “and it is impossible to say more for her.” “She’s Colour-Sergeant of the Nonpareil battalion,” said Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The milkers formed quite a little battalion of men and maids, the men operating on the hard-teated animals, the maids on the kindlier natures."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Resolutions, reticences, prudences, fears, fell back like a defeated battalion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit usually consisting of a headquarters and three or more companies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large indefinite number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She does it.” “Then she is as honest and genuine as she looks,” rejoined my guardian, “and it is impossible to say more for her.” “She’s Colour-Sergeant of the Nonpareil battalion,” said Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The milkers formed quite a little battalion of men and maids, the men operating on the hard-teated animals, the maids on the kindlier natures."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Resolutions, reticences, prudences, fears, fell back like a defeated battalion."*

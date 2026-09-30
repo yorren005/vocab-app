@@ -5,15 +5,6 @@ status: unread
 ---
 # intoned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter monotonously and repetitively and rhythmically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recite with musical intonation; recite as a chant or a psalm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Lock down, fore and aft," Brad intoned."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Calling Ditch-digger," he intoned."*
-> - 📜 **James Joyce (*Ulysses*):** *"He held the bowl aloft and intoned: —_Introibo ad altare Dei_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter monotonously and repetitively and rhythmically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recite with musical intonation; recite as a chant or a psalm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Lock down, fore and aft," Brad intoned."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Calling Ditch-digger," he intoned."*
+> - 📜 **James Joyce (*Ulysses*):** *"He held the bowl aloft and intoned: —_Introibo ad altare Dei_."*

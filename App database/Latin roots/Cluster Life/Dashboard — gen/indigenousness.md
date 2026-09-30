@@ -5,13 +5,6 @@ status: unread
 ---
 # indigenousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indigenousness designates nativeness by virtue of originating or occurring naturally (as in a particular place)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indigenousness designates nativeness by virtue of originating or occurring naturally (as in a particular place)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # potage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick (often creamy) soup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick (often creamy) soup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Mouton aux navets," added the butler gravely (pronounce, if you please, moutongonavvy); "and the soup is potage de mouton a l'Ecossaise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick (often creamy) soup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick (often creamy) soup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Mouton aux navets," added the butler gravely (pronounce, if you please, moutongonavvy); "and the soup is potage de mouton a l'Ecossaise."*

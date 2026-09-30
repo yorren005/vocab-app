@@ -5,15 +5,6 @@ status: unread
 ---
 # exhortation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication intended to urge or persuade the recipients to take some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exhorting; an earnest attempt at persuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll end my exhortation after dinner."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Have no confidence in the flesh" is always a much needed exhortation."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the prayer and exhortation, however, there were words which revealed to her the secret of faith and salvation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication intended to urge or persuade the recipients to take some action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exhorting; an earnest attempt at persuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll end my exhortation after dinner."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Have no confidence in the flesh" is always a much needed exhortation."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In the prayer and exhortation, however, there were words which revealed to her the secret of faith and salvation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonsymbiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not parasitic on another organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not parasitic on another organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsymbiotic designates not parasitic on another organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not parasitic on another organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not parasitic on another organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsymbiotic designates not parasitic on another organism."*

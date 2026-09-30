@@ -5,13 +5,6 @@ status: unread
 ---
 # cyanotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanotic designates marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanotic designates marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis."*

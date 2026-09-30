@@ -5,14 +5,6 @@ status: unread
 ---
 # monody
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music consisting of a single vocal part (usually with accompaniment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music consisting of a single vocal part (usually with accompaniment).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Monody On a lady famed for her Caprice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Music consisting of a single vocal part (usually with accompaniment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music consisting of a single vocal part (usually with accompaniment).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Monody On a lady famed for her Caprice."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # uniquely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be unique.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be unique.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not too much, I think, to assert that Goethe could never have become so uniquely great, not even through the splendid versatility of his genius, but for that incomparable self-control, which he made the watchword of his life."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In other words, interest was supposed (though erroneously) to be uniquely connected with the particular production instruments to which the term capital was narrowly and mistakenly confined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be unique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be unique.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not too much, I think, to assert that Goethe could never have become so uniquely great, not even through the splendid versatility of his genius, but for that incomparable self-control, which he made the watchword of his life."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In other words, interest was supposed (though erroneously) to be uniquely connected with the particular production instruments to which the term capital was narrowly and mistakenly confined."*

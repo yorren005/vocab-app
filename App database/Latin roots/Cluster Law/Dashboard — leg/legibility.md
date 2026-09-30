@@ -5,13 +5,6 @@ status: unread
 ---
 # legibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctness that makes perception easy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of writing (print or handwriting) that can be easily read.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, going to the window, tumbles into a pair of love-birds, to whom he says in his confusion, “I beg your pardon, I am sure.” This does not tend to the greater legibility of his notes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctness that makes perception easy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of writing (print or handwriting) that can be easily read.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, going to the window, tumbles into a pair of love-birds, to whom he says in his confusion, “I beg your pardon, I am sure.” This does not tend to the greater legibility of his notes."*

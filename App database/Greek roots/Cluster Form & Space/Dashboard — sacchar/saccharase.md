@@ -5,13 +5,6 @@ status: unread
 ---
 # saccharase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharase designates an enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharase designates an enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose."*

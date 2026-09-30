@@ -5,13 +5,6 @@ status: unread
 ---
 # microgliacyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell of the microglia that may become phagocytic and collect waste products of nerve tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell of the microglia that may become phagocytic and collect waste products of nerve tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgliacyte designates a cell of the microglia that may become phagocytic and collect waste products of nerve tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell of the microglia that may become phagocytic and collect waste products of nerve tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell of the microglia that may become phagocytic and collect waste products of nerve tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgliacyte designates a cell of the microglia that may become phagocytic and collect waste products of nerve tissue."*

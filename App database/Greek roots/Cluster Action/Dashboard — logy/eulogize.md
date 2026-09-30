@@ -5,13 +5,6 @@ status: unread
 ---
 # eulogize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise formally and eloquently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise formally and eloquently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"You will live, but perhaps I shall die, since he is weary of carrying me." The lame marshal went on praising and eulogizing Kalelealuaka as he drew near."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise formally and eloquently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise formally and eloquently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"You will live, but perhaps I shall die, since he is weary of carrying me." The lame marshal went on praising and eulogizing Kalelealuaka as he drew near."*

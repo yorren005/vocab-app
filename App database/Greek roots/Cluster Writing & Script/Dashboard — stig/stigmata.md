@@ -5,13 +5,6 @@ status: unread
 ---
 # stigmata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of negative and unfair beliefs that a society or group of people have about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark of shame or discredit : stain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There too, opposite to him, was Lynch whose countenance bore already the stigmata of early depravity and premature wisdom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of negative and unfair beliefs that a society or group of people have about something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark of shame or discredit : stain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"There too, opposite to him, was Lynch whose countenance bore already the stigmata of early depravity and premature wisdom."*

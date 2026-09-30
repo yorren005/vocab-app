@@ -5,15 +5,6 @@ status: unread
 ---
 # expensive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High in price or charging high prices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High in price or charging high prices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a slow, expensive, British, constitutional kind of thing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s inconvenient—and it comes expensive."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She is only nursing Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive, fashionable woman, I believe; and of course will have nothing to report but of lace and finery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High in price or charging high prices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High in price or charging high prices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a slow, expensive, British, constitutional kind of thing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’s inconvenient—and it comes expensive."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She is only nursing Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive, fashionable woman, I believe; and of course will have nothing to report but of lace and finery."*

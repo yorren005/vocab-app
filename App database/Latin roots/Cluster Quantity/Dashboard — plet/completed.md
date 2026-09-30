@@ -5,15 +5,6 @@ status: unread
 ---
 # completed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a whole, with all the necessary parts or elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons had also completed their studies and were expected to come home and to consult with their mother about their plans for the future."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea had been already completed in her mind a plan which, if it succeeded, would make it possible for her to have Leonore to herself sometimes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby in his best coat, looking at all the preparations when they are completed and coughing his cough of deference behind his hand, says to Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a whole, with all the necessary parts or elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons had also completed their studies and were expected to come home and to consult with their mother about their plans for the future."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea had been already completed in her mind a plan which, if it succeeded, would make it possible for her to have Leonore to herself sometimes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby in his best coat, looking at all the preparations when they are completed and coughing his cough of deference behind his hand, says to Mrs."*

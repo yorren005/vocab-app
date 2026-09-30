@@ -5,13 +5,6 @@ status: unread
 ---
 # durum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wheat with hard dark-colored kernels high in gluten and used for bread and pasta; grown especially in southern russia, north africa, and northern central north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wheat with hard dark-colored kernels high in gluten and used for bread and pasta; grown especially in southern russia, north africa, and northern central north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durum designates wheat with hard dark-colored kernels high in gluten and used for bread and pasta; grown especially in southern russia, north africa, and northern central north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wheat with hard dark-colored kernels high in gluten and used for bread and pasta; grown especially in southern russia, north africa, and northern central north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wheat with hard dark-colored kernels high in gluten and used for bread and pasta; grown especially in southern russia, north africa, and northern central north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durum designates wheat with hard dark-colored kernels high in gluten and used for bread and pasta; grown especially in southern russia, north africa, and northern central north america."*

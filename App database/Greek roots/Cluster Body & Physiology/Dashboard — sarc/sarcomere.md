@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcomere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the segments into which a myofibril is divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the segments into which a myofibril is divided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcomere designates one of the segments into which a myofibril is divided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the segments into which a myofibril is divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the segments into which a myofibril is divided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcomere designates one of the segments into which a myofibril is divided."*

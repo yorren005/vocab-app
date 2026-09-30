@@ -5,13 +5,6 @@ status: unread
 ---
 # polaroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polaroid designates (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polaroid designates (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare."*

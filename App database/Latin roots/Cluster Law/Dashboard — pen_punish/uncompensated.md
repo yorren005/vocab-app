@@ -5,13 +5,6 @@ status: unread
 ---
 # uncompensated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not paying a salary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not paying a salary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncompensated designates not paying a salary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not paying a salary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not paying a salary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncompensated designates not paying a salary."*

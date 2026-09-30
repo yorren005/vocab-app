@@ -5,13 +5,6 @@ status: unread
 ---
 # refractivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of a medium as determined by its index of refraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical property of a medium as determined by its index of refraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractivity designates the physical property of a medium as determined by its index of refraction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of a medium as determined by its index of refraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical property of a medium as determined by its index of refraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractivity designates the physical property of a medium as determined by its index of refraction."*

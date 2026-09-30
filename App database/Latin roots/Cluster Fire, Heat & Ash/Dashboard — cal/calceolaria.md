@@ -5,13 +5,6 @@ status: unread
 ---
 # calceolaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceolaria designates any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceolaria designates any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip."*

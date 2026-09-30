@@ -5,15 +5,6 @@ status: unread
 ---
 # legatee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom a legacy is bequeathed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom a legacy is bequeathed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed: his intention to adopt me and make me his legatee."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Such conversation paused suddenly, like an organ when the bellows are let drop, if Mary Garth came into the room; and all eyes were turned on her as a possible legatee, or one who might get access to iron chests."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here, clearly, was a new legatee; else why was he bidden as a mourner?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom a legacy is bequeathed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom a legacy is bequeathed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed: his intention to adopt me and make me his legatee."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Such conversation paused suddenly, like an organ when the bellows are let drop, if Mary Garth came into the room; and all eyes were turned on her as a possible legatee, or one who might get access to iron chests."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Here, clearly, was a new legatee; else why was he bidden as a mourner?"*

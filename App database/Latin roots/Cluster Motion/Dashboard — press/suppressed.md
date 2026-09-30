@@ -5,15 +5,6 @@ status: unread
 ---
 # suppressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To put down by force or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come down on or keep down by unjust use of one's authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus vainly thinking that she thinks me young, Although she knows my days are past the best, Simply I credit her false-speaking tongue; On both sides thus is simple truth suppressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, no; for he hath made a solemn vow Never to lie and take his natural rest Till Warwick or himself be quite suppressed. 2 WATCHMAN."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We really have no home anywhere," she said with suppressed sobs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put down by force or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come down on or keep down by unjust use of one's authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus vainly thinking that she thinks me young, Although she knows my days are past the best, Simply I credit her false-speaking tongue; On both sides thus is simple truth suppressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, no; for he hath made a solemn vow Never to lie and take his natural rest Till Warwick or himself be quite suppressed. 2 WATCHMAN."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We really have no home anywhere," she said with suppressed sobs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # prot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protestant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: First in time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"With more care for the safety of her new gown than for the comfort of her protégée, Mrs."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He is her latest _protégé_.” “Humph! tell your Aunt Agatha, Harry, not to bother me any more with her charity appeals."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That’s not the point, my dear.” “It’s that protégé of yours, that sweet Princess Drubetskáya, that Anna Mikháylovna whom I would not take for a housemaid... the infamous, vile woman!” “Do not let us lose any time...” “Ah, don’t talk to me!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protestant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: First in time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"With more care for the safety of her new gown than for the comfort of her protégée, Mrs."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He is her latest _protégé_.” “Humph! tell your Aunt Agatha, Harry, not to bother me any more with her charity appeals."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That’s not the point, my dear.” “It’s that protégé of yours, that sweet Princess Drubetskáya, that Anna Mikháylovna whom I would not take for a housemaid... the infamous, vile woman!” “Do not let us lose any time...” “Ah, don’t talk to me!"*

@@ -5,14 +5,6 @@ status: unread
 ---
 # myopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by myopia : of, relating to, or exhibiting myopia : nearsighted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in foresight or discernment : narrow in perspective and without concern for broader implications.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The myopic digital calculation of coins, eructation consequent upon repletion."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"All his previous teaching is postulated as interim doctrine, that is, during the time of the disciples’ ignorance and while their minds were still bound by earth-ties and myopic vision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by myopia : of, relating to, or exhibiting myopia : nearsighted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in foresight or discernment : narrow in perspective and without concern for broader implications.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The myopic digital calculation of coins, eructation consequent upon repletion."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"All his previous teaching is postulated as interim doctrine, that is, during the time of the disciples’ ignorance and while their minds were still bound by earth-ties and myopic vision."*

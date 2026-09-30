@@ -5,13 +5,6 @@ status: unread
 ---
 # decolonization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of changing from colonial to independent status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of changing from colonial to independent status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonization designates the action of changing from colonial to independent status."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of changing from colonial to independent status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of changing from colonial to independent status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decolonization designates the action of changing from colonial to independent status."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # lore
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Something that is learned:
-> 2. **Nuance / Usage**: Traditional knowledge or belief
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"acquiring abstruse lore, connected with the divine profession, than Mr."*
-> - 📜 **Karen Hao (*Empire of AI*):** *"The succession story would get repeated so often that it would turn into Silicon Valley lore."*
-> - 📜 **Jim Crace (*eden*):** *"He’s sticky and encrusted on one side below his beak and amongst the lores around his eyes by the pips and juices he has dined upon, the pith and pulp of feeding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Something that is learned:
+> 2. **Nuance / Usage**: Traditional knowledge or belief
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"acquiring abstruse lore, connected with the divine profession, than Mr."*
+> - 📜 **Karen Hao (*Empire of AI*):** *"The succession story would get repeated so often that it would turn into Silicon Valley lore."*
+> - 📜 **Jim Crace (*eden*):** *"He’s sticky and encrusted on one side below his beak and amongst the lores around his eyes by the pips and juices he has dined upon, the pith and pulp of feeding."*

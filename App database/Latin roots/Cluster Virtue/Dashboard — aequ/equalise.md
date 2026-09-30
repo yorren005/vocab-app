@@ -5,13 +5,6 @@ status: unread
 ---
 # equalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensate; make the score equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make equal, uniform, corresponding, or matching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The reefs were still numerous, but more equalised, and marked on the chart with extreme precision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensate; make the score equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make equal, uniform, corresponding, or matching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The reefs were still numerous, but more equalised, and marked on the chart with extreme precision."*

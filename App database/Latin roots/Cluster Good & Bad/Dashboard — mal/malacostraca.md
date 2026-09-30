@@ -5,13 +5,6 @@ status: unread
 ---
 # malacostraca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs; lobsters; shrimps; sow bugs; beach flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs; lobsters; shrimps; sow bugs; beach flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacostraca designates largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs; lobsters; shrimps; sow bugs; beach flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs; lobsters; shrimps; sow bugs; beach flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs; lobsters; shrimps; sow bugs; beach flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacostraca designates largest subclass of crustacea including most of the well-known marine, freshwater, and terrestrial crustaceans: crabs; lobsters; shrimps; sow bugs; beach flies."*

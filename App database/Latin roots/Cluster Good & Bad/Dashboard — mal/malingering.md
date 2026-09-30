@@ -5,13 +5,6 @@ status: unread
 ---
 # malingering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evading duty or work by pretending to be incapacitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid responsibilities and duties, e.g., by pretending to be ill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malingering designates evading duty or work by pretending to be incapacitated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evading duty or work by pretending to be incapacitated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid responsibilities and duties, e.g., by pretending to be ill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malingering designates evading duty or work by pretending to be incapacitated."*

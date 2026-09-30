@@ -5,15 +5,6 @@ status: unread
 ---
 # geographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by geography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On the other hand, families are more widely dispersed, successful interaction by grandparents with their distant grandchildren, whether for geographic reasons or barriers of circumstance, increasingly calls for innovation and improvisation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"After I retired, I took the time to make notes on as many important events that I could recall, and keyed each to a geographic location."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Each AMF and its 'depot' would serve a primary geographic area."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of geography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by geography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On the other hand, families are more widely dispersed, successful interaction by grandparents with their distant grandchildren, whether for geographic reasons or barriers of circumstance, increasingly calls for innovation and improvisation."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"After I retired, I took the time to make notes on as many important events that I could recall, and keyed each to a geographic location."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Each AMF and its 'depot' would serve a primary geographic area."*

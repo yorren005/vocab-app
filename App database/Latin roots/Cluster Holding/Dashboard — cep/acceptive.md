@@ -5,13 +5,6 @@ status: unread
 ---
 # acceptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to accept rather than reject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting willingly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptive designates inclined to accept rather than reject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to accept rather than reject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting willingly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptive designates inclined to accept rather than reject."*

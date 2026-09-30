@@ -5,13 +5,6 @@ status: unread
 ---
 # calystegia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Climbing or scrambling herbs: bindweed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Climbing or scrambling herbs: bindweed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calystegia designates climbing or scrambling herbs: bindweed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Climbing or scrambling herbs: bindweed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Climbing or scrambling herbs: bindweed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calystegia designates climbing or scrambling herbs: bindweed."*

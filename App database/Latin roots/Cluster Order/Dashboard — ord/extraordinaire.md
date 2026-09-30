@@ -5,13 +5,6 @@ status: unread
 ---
 # extraordinaire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinary in a particular capacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinary in a particular capacity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraordinaire designates extraordinary in a particular capacity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinary in a particular capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinary in a particular capacity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraordinaire designates extraordinary in a particular capacity."*

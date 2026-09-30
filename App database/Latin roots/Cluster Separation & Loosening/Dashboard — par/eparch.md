@@ -5,13 +5,6 @@ status: unread
 ---
 # eparch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop or metropolitan in charge of an eparchy in the eastern church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The governor or prefect of an eparchy in ancient greece.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eparch designates a bishop or metropolitan in charge of an eparchy in the eastern church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop or metropolitan in charge of an eparchy in the eastern church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The governor or prefect of an eparchy in ancient greece.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eparch designates a bishop or metropolitan in charge of an eparchy in the eastern church."*

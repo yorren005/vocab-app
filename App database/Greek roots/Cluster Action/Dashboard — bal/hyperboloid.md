@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperboloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadric surface whose sections by planes parallel to one coordinate plane are ellipses while those sections by planes parallel to the other two are hyperbolas if proper orientation of the axes is assumed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quadric surface whose sections by planes parallel to one coordinate plane are ellipses while those sections by planes parallel to the other two are hyperbolas if proper orientation of the axes is assumed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperboloid designates a quadric surface whose sections by planes parallel to one coordinate plane are ellipses while those sections by planes parallel to the other two are hyperbolas if proper orientation of the axes is assumed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadric surface whose sections by planes parallel to one coordinate plane are ellipses while those sections by planes parallel to the other two are hyperbolas if proper orientation of the axes is assumed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quadric surface whose sections by planes parallel to one coordinate plane are ellipses while those sections by planes parallel to the other two are hyperbolas if proper orientation of the axes is assumed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperboloid designates a quadric surface whose sections by planes parallel to one coordinate plane are ellipses while those sections by planes parallel to the other two are hyperbolas if proper orientation of the axes is assumed."*

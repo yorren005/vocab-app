@@ -5,15 +5,6 @@ status: unread
 ---
 # conversation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of speech for informal exchange of views or ideas or information etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of speech for informal exchange of views or ideas or information etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Octavia is of a holy, cold, and still conversation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More of your conversation would infect my brain, being the herdsmen of the beastly plebeians."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of speech for informal exchange of views or ideas or information etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of speech for informal exchange of views or ideas or information etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Octavia is of a holy, cold, and still conversation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More of your conversation would infect my brain, being the herdsmen of the beastly plebeians."*

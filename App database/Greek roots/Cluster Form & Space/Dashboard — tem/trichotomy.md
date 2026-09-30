@@ -5,13 +5,6 @@ status: unread
 ---
 # trichotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into three parts, elements, or classes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Division into three parts, elements, or classes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotomy designates division into three parts, elements, or classes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into three parts, elements, or classes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Division into three parts, elements, or classes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotomy designates division into three parts, elements, or classes."*

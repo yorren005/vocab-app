@@ -5,13 +5,6 @@ status: unread
 ---
 # synergism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergism designates interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergism designates interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects."*

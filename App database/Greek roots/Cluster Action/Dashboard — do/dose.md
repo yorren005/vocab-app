@@ -5,15 +5,6 @@ status: unread
 ---
 # dose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measured quantity of a therapeutic agent to be taken at one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity of radiation administered or absorbed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told me once I was the nearest relation he had.” “He has died,” says the surgeon, “of an over-dose of opium, there is no doubt."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Took the over-dose?” “Yes!” Krook almost smacks his lips with the unction of a horrible interest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I may wish to be informed of that before I dose myself with either or with both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measured quantity of a therapeutic agent to be taken at one time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity of radiation administered or absorbed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He told me once I was the nearest relation he had.” “He has died,” says the surgeon, “of an over-dose of opium, there is no doubt."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Took the over-dose?” “Yes!” Krook almost smacks his lips with the unction of a horrible interest."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I may wish to be informed of that before I dose myself with either or with both."*

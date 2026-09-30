@@ -5,13 +5,6 @@ status: unread
 ---
 # ponce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is effeminate in his manner and fussy in the way he dresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who procures customers for whores (in england they call a pimp a ponce).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Heidegger, "which Ponce De Leon, the Spanish adventurer, went in search of two or three centuries ago?" "But did Ponce De Leon ever find it?" said the Widow Wycherly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is effeminate in his manner and fussy in the way he dresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who procures customers for whores (in england they call a pimp a ponce).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Heidegger, "which Ponce De Leon, the Spanish adventurer, went in search of two or three centuries ago?" "But did Ponce De Leon ever find it?" said the Widow Wycherly."*

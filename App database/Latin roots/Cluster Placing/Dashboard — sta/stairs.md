@@ -5,15 +5,6 @@ status: unread
 ---
 # stairs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flight of stairs or a flight of steps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support consisting of a place to rest the foot while ascending or descending a stairway.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But indeed, if you find him not within this month, you shall nose him as you go up the stairs into the lobby."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The stairs, as he treads on them, kiss his feet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many cowards, whose hearts are all as false As stairs of sand, wear yet upon their chins The beards of Hercules and frowning Mars, Who inward search’d, have livers white as milk, And these assume but valour’s excrement To render them redoubted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flight of stairs or a flight of steps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support consisting of a place to rest the foot while ascending or descending a stairway.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But indeed, if you find him not within this month, you shall nose him as you go up the stairs into the lobby."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The stairs, as he treads on them, kiss his feet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many cowards, whose hearts are all as false As stairs of sand, wear yet upon their chins The beards of Hercules and frowning Mars, Who inward search’d, have livers white as milk, And these assume but valour’s excrement To render them redoubted."*

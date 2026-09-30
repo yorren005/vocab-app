@@ -5,15 +5,6 @@ status: unread
 ---
 # mercer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in textiles (especially silks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British maker of printed calico cloth who invented mercerizing (1791-1866).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
-> - 📜 **George Eliot (*Middlemarch*):** *"This second cousin was a Middlemarch mercer of polite manners and superfluous aspirates."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Middlemarch mercer waited for an opportunity of engaging Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in textiles (especially silks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British maker of printed calico cloth who invented mercerizing (1791-1866).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
+> - 📜 **George Eliot (*Middlemarch*):** *"This second cousin was a Middlemarch mercer of polite manners and superfluous aspirates."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The Middlemarch mercer waited for an opportunity of engaging Mr."*

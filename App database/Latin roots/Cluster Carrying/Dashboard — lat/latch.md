@@ -5,15 +5,6 @@ status: unread
 ---
 # latch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spring-loaded doorlock that can only be opened from the outside with a key.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch for fastening a door or gate; a bar that can be lowered or slid into a groove.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I have words That would be howl’d out in the desert air, Where hearing should not latch them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But hast thou yet latch’d the Athenian’s eyes With the love-juice, as I did bid thee do?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The eye of heaven is out, and misty night Covers the shame that follows sweet delight.” This said, his guilty hand plucked up the latch, And with his knee the door he opens wide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spring-loaded doorlock that can only be opened from the outside with a key.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch for fastening a door or gate; a bar that can be lowered or slid into a groove.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I have words That would be howl’d out in the desert air, Where hearing should not latch them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But hast thou yet latch’d the Athenian’s eyes With the love-juice, as I did bid thee do?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The eye of heaven is out, and misty night Covers the shame that follows sweet delight.” This said, his guilty hand plucked up the latch, And with his knee the door he opens wide."*

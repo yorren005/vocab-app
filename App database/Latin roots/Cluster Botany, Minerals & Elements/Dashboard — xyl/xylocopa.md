@@ -5,13 +5,6 @@ status: unread
 ---
 # xylocopa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpenter bees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpenter bees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylocopa designates carpenter bees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpenter bees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpenter bees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylocopa designates carpenter bees."*

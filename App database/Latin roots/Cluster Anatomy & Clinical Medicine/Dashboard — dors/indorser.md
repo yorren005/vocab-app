@@ -5,13 +5,6 @@ status: unread
 ---
 # indorser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transfers his ownership interest in something by signing a check or negotiable security.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"And as he's a real shaver, I'll have the minister or some other responsible man for an indorser." It was growing dusk when he reached the toll-house on Kimballton turnpike, about a quarter of a mile from the village of this name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transfers his ownership interest in something by signing a check or negotiable security.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"And as he's a real shaver, I'll have the minister or some other responsible man for an indorser." It was growing dusk when he reached the toll-house on Kimballton turnpike, about a quarter of a mile from the village of this name."*

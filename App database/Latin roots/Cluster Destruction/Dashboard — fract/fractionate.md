@@ -5,13 +5,6 @@ status: unread
 ---
 # fractionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into constituents or fractions containing concentrated constituents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by a fractional process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractionate designates separate into constituents or fractions containing concentrated constituents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into constituents or fractions containing concentrated constituents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by a fractional process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractionate designates separate into constituents or fractions containing concentrated constituents."*

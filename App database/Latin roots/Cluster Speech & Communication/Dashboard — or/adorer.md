@@ -5,15 +5,6 @@ status: unread
 ---
 # adorer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who admires a young woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who admires a young woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being so far provok’d as I was in France, I would abate her nothing, though I profess myself her adorer, not her friend."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"My blessing, take it. _Eust. (to Lew.)_ Your Lordship's vow'd adorer."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"A-D _print the stage direction after_ adorer. l. 29."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who admires a young woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who admires a young woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being so far provok’d as I was in France, I would abate her nothing, though I profess myself her adorer, not her friend."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"My blessing, take it. _Eust. (to Lew.)_ Your Lordship's vow'd adorer."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"A-D _print the stage direction after_ adorer. l. 29."*

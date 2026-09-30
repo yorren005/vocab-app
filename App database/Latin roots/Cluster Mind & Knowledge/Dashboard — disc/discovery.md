@@ -5,15 +5,6 @@ status: unread
 ---
 # discovery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discovering something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is discovered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens have thought well on thee, Lafew, To bring forth this discovery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One inch of delay more is a South Sea of discovery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the discovery We shall be shortened in our aim, which was To take in many towns ere almost Rome Should know we were afoot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discovering something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is discovered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens have thought well on thee, Lafew, To bring forth this discovery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One inch of delay more is a South Sea of discovery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the discovery We shall be shortened in our aim, which was To take in many towns ere almost Rome Should know we were afoot."*

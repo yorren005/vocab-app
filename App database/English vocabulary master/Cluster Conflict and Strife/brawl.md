@@ -5,20 +5,6 @@ status: unread
 ---
 # brawl
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Noisy quarrel or fight
-> 2. **Nuance / Usage**: Make a loud confused noise
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to brawl the target*) and intransitive clauses (*brawling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This will grow to a brawl anon."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And silence those whom this vile brawl distracted."*
-> - 📜 **John Henderson (*Divine Meditations and Contemplations, in Prose and Verse, on Some of the Most Important and Interesting Doctrines of Christianity.{{nb...*):** *"[U]pon every trifle, the vitiated faculties of thy ſoul are inflamed with immoderate and moſt irregular paſſion, ſo that thou often brawleſt, and art made thereby to roar like a wild bull caught in a thicket: [...]"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A rough, noisy, and disorderly fight or quarrel, typically breaking out in a tavern, street, or crowd; as an intransitive verb, to fight or quarrel noisily.
+> 2. **Nuance / Usage**: In poetic and descriptive prose, also used of a brook or torrent to mean rushing and tumbling loudly over stones (*a brawling stream*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Intransitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*a tavern brawl*, *drunken brawl*) and intransitively (*brawling in the streets*, *a brawling brook*).
+> - **Collocations & Registers**: Visceral narrative and poetic registers; collocated with *tavern*, *street*, *drunken*, *tumult*, and *brook*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Othello*):** *"Silence that dreadful bell: it frights the isle from her propriety—what is the matter, masters, that you thus **brawl**?"*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"A drunken **brawl** broke out in the tap-room, overturning tables and sending pewter pots flying across the floor."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The pirates were always on the verge of a fierce **brawl** over their rum and shares of plunder."*

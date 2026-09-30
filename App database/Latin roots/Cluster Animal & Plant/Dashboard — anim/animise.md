@@ -5,13 +5,6 @@ status: unread
 ---
 # animise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give lifelike qualities to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animise designates give lifelike qualities to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give lifelike qualities to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animise designates give lifelike qualities to."*

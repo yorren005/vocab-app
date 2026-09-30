@@ -5,15 +5,6 @@ status: unread
 ---
 # empress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman emperor or the wife of an emperor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman emperor or the wife of an emperor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble empress, you have heard of me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She sweeps it through the court with troops of ladies, More like an empress than Duke Humphrey’s wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sweet Maria, empress of my love, These numbers will I tear, and write in prose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman emperor or the wife of an emperor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman emperor or the wife of an emperor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble empress, you have heard of me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She sweeps it through the court with troops of ladies, More like an empress than Duke Humphrey’s wife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sweet Maria, empress of my love, These numbers will I tear, and write in prose."*

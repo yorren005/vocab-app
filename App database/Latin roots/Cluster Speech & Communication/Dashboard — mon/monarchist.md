@@ -5,14 +5,6 @@ status: unread
 ---
 # monarchist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of the principles of monarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the principles of monarchy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Each party had its taunts in use, the Federalists being denounced as monarchists, the Anti-Federalists as Democrats; the one presumed to be looking forward to monarchy, the other to the rule of the mob."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Throughout they felt their political strength, and they just as heartily returned the bitterness manifested by those of the Federalists who opposed the war, branding them as enemies of the republic, and monarchists who preferred the reign of Britain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of the principles of monarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the principles of monarchy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Each party had its taunts in use, the Federalists being denounced as monarchists, the Anti-Federalists as Democrats; the one presumed to be looking forward to monarchy, the other to the rule of the mob."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Throughout they felt their political strength, and they just as heartily returned the bitterness manifested by those of the Federalists who opposed the war, branding them as enemies of the republic, and monarchists who preferred the reign of Britain."*

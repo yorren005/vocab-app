@@ -5,15 +5,6 @@ status: unread
 ---
 # domino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states rhythm and blues pianist and singer and composer (born in 1928).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose hooded cloak worn with a half mask as part of a masquerade costume.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This ingenious article itself, without the elegant domino-box, card-basket, &c., ought alone to give a high price to the lot."*
-> - 📜 **James Joyce (*Ulysses*):** *"And showed off coquettishly in your domino at the mirror behind closedrawn blinds your unskirted thighs and hegoat’s udders in various poses of surrender, eh?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"His testibus domino Joanne le Bÿgod fratre meo: Dom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states rhythm and blues pianist and singer and composer (born in 1928).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose hooded cloak worn with a half mask as part of a masquerade costume.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"This ingenious article itself, without the elegant domino-box, card-basket, &c., ought alone to give a high price to the lot."*
+> - 📜 **James Joyce (*Ulysses*):** *"And showed off coquettishly in your domino at the mirror behind closedrawn blinds your unskirted thighs and hegoat’s udders in various poses of surrender, eh?"*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"His testibus domino Joanne le Bÿgod fratre meo: Dom."*

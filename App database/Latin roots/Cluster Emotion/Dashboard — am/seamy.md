@@ -5,14 +5,6 @@ status: unread
 ---
 # seamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a seam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally degraded; ; ; ; - seattle weekly; - james joyce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some such squire he was That turn’d your wit the seamy side without, And made you to suspect me with the Moor."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lucian Selincourt was her only brother and very dear to her, but there was no denying that his career had its seamy side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a seam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally degraded; ; ; ; - seattle weekly; - james joyce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some such squire he was That turn’d your wit the seamy side without, And made you to suspect me with the Moor."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lucian Selincourt was her only brother and very dear to her, but there was no denying that his career had its seamy side."*

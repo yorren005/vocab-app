@@ -5,13 +5,6 @@ status: unread
 ---
 # sapote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown oval fruit flesh makes excellent sherbet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapote designates tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown oval fruit flesh makes excellent sherbet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapote designates tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum."*

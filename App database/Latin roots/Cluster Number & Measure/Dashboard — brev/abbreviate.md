@@ -5,15 +5,6 @@ status: unread
 ---
 # abbreviate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in scope while retaining essential elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorten.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this intensity of his physical prostration did but so much the more abbreviate it."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But this intensity of his physical prostration did but so much the more abbreviate it."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"I must plead guilty to the charge of abbreviating the official breath of more than one of these venerable servants of the republic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in scope while retaining essential elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorten.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this intensity of his physical prostration did but so much the more abbreviate it."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But this intensity of his physical prostration did but so much the more abbreviate it."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"I must plead guilty to the charge of abbreviating the official breath of more than one of these venerable servants of the republic."*

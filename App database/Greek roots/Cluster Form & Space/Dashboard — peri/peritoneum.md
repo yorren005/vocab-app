@@ -5,13 +5,6 @@ status: unread
 ---
 # peritoneum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peritoneum designates the smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peritoneum designates the smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera."*

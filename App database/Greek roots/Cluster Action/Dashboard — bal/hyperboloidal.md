@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperboloidal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a hyperboloid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a hyperboloid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperboloidal designates having the shape of a hyperboloid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a hyperboloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a hyperboloid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperboloidal designates having the shape of a hyperboloid."*

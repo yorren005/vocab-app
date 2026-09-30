@@ -5,13 +5,6 @@ status: unread
 ---
 # adductive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adductive designates especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adductive designates especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part."*

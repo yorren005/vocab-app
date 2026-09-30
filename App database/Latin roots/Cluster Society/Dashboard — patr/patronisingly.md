@@ -5,14 +5,6 @@ status: unread
 ---
 # patronisingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It must be sewn on,” she said, just a little patronisingly."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Octavie, who believed that a great blunder had been committed, said, patronisingly,-- "You should not listen to him, mademoiselle: he does not understand." "Mamma said it," cried Adolphe stoutly, determined to assert himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It must be sewn on,” she said, just a little patronisingly."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Octavie, who believed that a great blunder had been committed, said, patronisingly,-- "You should not listen to him, mademoiselle: he does not understand." "Mamma said it," cried Adolphe stoutly, determined to assert himself."*

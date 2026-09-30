@@ -5,13 +5,6 @@ status: unread
 ---
 # telemeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any scientific instrument for observing events at a distance and transmitting the information back to the observer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any scientific instrument for observing events at a distance and transmitting the information back to the observer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemeter designates any scientific instrument for observing events at a distance and transmitting the information back to the observer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any scientific instrument for observing events at a distance and transmitting the information back to the observer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any scientific instrument for observing events at a distance and transmitting the information back to the observer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemeter designates any scientific instrument for observing events at a distance and transmitting the information back to the observer."*

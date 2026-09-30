@@ -5,15 +5,6 @@ status: unread
 ---
 # tope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dome-shaped shrine erected by buddhists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drink excessive amounts of alcohol; be an alcoholic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper was that, Tope?” “Yes, Mr."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"He has been took a little poorly.” “Say ‘taken,’ Tope—to the Dean,” the younger rook interposes in a low tone with this touch of correction, as who should say: “You may offer bad grammar to the laity, or the humbler clergy, not to the Dean.” Mr."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Tope, Chief Verger and Showman, and accustomed to be high with excursion parties, declines with a silent loftiness to perceive that any suggestion has been tendered to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dome-shaped shrine erected by buddhists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drink excessive amounts of alcohol; be an alcoholic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper was that, Tope?” “Yes, Mr."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"He has been took a little poorly.” “Say ‘taken,’ Tope—to the Dean,” the younger rook interposes in a low tone with this touch of correction, as who should say: “You may offer bad grammar to the laity, or the humbler clergy, not to the Dean.” Mr."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Tope, Chief Verger and Showman, and accustomed to be high with excursion parties, declines with a silent loftiness to perceive that any suggestion has been tendered to him."*

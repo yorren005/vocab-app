@@ -5,15 +5,6 @@ status: unread
 ---
 # reverential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or manifesting veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or manifesting veneration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But a stir in that direction, a gathering of reverential awe in the rustic faces, and a blandly ferocious assumption on the part of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George produces his present, which is greeted with admiring leapings and clappings by the young family, and with a species of reverential admiration by Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In delivering it she gave also Clare’s accent and manner with reverential faithfulness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or manifesting veneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or manifesting veneration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But a stir in that direction, a gathering of reverential awe in the rustic faces, and a blandly ferocious assumption on the part of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George produces his present, which is greeted with admiring leapings and clappings by the young family, and with a species of reverential admiration by Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In delivering it she gave also Clare’s accent and manner with reverential faithfulness."*

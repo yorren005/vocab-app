@@ -5,15 +5,6 @@ status: unread
 ---
 # assistance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of contributing to the fulfillment of a need or furtherance of an effort or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resource.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And affecting one sole throne, without assistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brave followers, yonder stands the thorny wood Which by the heaven’s assistance and your strength Must by the roots be hewn up yet ere night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of contributing to the fulfillment of a need or furtherance of an effort or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resource.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And affecting one sole throne, without assistance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brave followers, yonder stands the thorny wood Which by the heaven’s assistance and your strength Must by the roots be hewn up yet ere night."*

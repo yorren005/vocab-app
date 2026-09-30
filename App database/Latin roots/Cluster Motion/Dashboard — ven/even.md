@@ -5,15 +5,6 @@ status: unread
 ---
 # even
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make level or straight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell the day to please him thou art bright, And dost him grace when clouds do blot the heaven: So flatter I the swart-complexioned night, When sparkling stars twire not thou gild’st the even."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loving offenders thus I will excuse ye, Thou dost love her, because thou know’st I love her, And for my sake even so doth she abuse me, Suff’ring my friend for my sake to approve her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make level or straight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell the day to please him thou art bright, And dost him grace when clouds do blot the heaven: So flatter I the swart-complexioned night, When sparkling stars twire not thou gild’st the even."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loving offenders thus I will excuse ye, Thou dost love her, because thou know’st I love her, And for my sake even so doth she abuse me, Suff’ring my friend for my sake to approve her."*

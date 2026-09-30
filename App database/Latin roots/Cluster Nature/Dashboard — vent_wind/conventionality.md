@@ -5,15 +5,6 @@ status: unread
 ---
 # conventionality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity with conventional thought and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unoriginality as a result of being too conventional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her unsophisticated open-air existence required no varnish of conventionality to make it palatable to him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With all his attempted independence of judgement this advanced and well-meaning young man, a sample product of the last five-and-twenty years, was yet the slave to custom and conventionality when surprised back into his early teachings."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Conventionality is not morality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity with conventional thought and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unoriginality as a result of being too conventional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her unsophisticated open-air existence required no varnish of conventionality to make it palatable to him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With all his attempted independence of judgement this advanced and well-meaning young man, a sample product of the last five-and-twenty years, was yet the slave to custom and conventionality when surprised back into his early teachings."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Conventionality is not morality."*

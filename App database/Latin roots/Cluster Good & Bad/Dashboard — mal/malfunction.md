@@ -5,13 +5,6 @@ status: unread
 ---
 # malfunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to function normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to function or function improperly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malfunction designates a failure to function normally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to function normally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to function or function improperly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malfunction designates a failure to function normally."*

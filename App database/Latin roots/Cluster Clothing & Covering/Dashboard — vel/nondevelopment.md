@@ -5,13 +5,6 @@ status: unread
 ---
 # nondevelopment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of normal development to occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of normal development to occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondevelopment designates failure of normal development to occur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of normal development to occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of normal development to occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondevelopment designates failure of normal development to occur."*

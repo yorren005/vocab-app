@@ -5,20 +5,6 @@ status: unread
 ---
 # wring
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Twist so as to strain or sprain into a distorted shape
-> 2. **Nuance / Usage**: Extract or obtain by or as if by twisting and compressing
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wring the target*) and intransitive clauses (*wringing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Rear up his body; wring him by the nose."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Your over-kindness doth wring tears from me!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Which God defend that I should wring from him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Twist so as to strain or sprain into a distorted shape
+> 2. **Nuance / Usage**: Extract or obtain by or as if by twisting and compressing
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wring the target*) and intransitive clauses (*wringing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Rear up his body; wring him by the nose."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Your over-kindness doth wring tears from me!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Which God defend that I should wring from him."*

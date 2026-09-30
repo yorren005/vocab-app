@@ -5,15 +5,6 @@ status: unread
 ---
 # seventh
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position seven in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One part in seven equal parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, we met, and found the quarrel was upon the seventh cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How seventh cause?—Good my lord, like this fellow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How did you find the quarrel on the seventh cause?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position seven in a countable series of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One part in seven equal parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, we met, and found the quarrel was upon the seventh cause."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How seventh cause?—Good my lord, like this fellow?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How did you find the quarrel on the seventh cause?"*

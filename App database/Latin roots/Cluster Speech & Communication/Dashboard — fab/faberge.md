@@ -5,13 +5,6 @@ status: unread
 ---
 # faberge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian goldsmith noted for creating a series of jeweled and enameled easter eggs for european royalty (1846-1920).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian goldsmith noted for creating a series of jeweled and enameled easter eggs for european royalty (1846-1920).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, faberge designates russian goldsmith noted for creating a series of jeweled and enameled easter eggs for european royalty (1846-1920)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian goldsmith noted for creating a series of jeweled and enameled easter eggs for european royalty (1846-1920).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian goldsmith noted for creating a series of jeweled and enameled easter eggs for european royalty (1846-1920).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, faberge designates russian goldsmith noted for creating a series of jeweled and enameled easter eggs for european royalty (1846-1920)."*

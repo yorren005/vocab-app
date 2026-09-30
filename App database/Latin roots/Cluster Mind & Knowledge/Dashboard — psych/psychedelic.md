@@ -5,13 +5,6 @@ status: unread
 ---
 # psychedelic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the vivid colors and bizarre patterns associated with psychedelic states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelic designates producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the vivid colors and bizarre patterns associated with psychedelic states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelic designates producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis."*

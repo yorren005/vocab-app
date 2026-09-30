@@ -5,13 +5,6 @@ status: unread
 ---
 # side-glance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glance sideways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glance sideways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-glance designates a glance sideways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glance sideways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glance sideways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-glance designates a glance sideways."*

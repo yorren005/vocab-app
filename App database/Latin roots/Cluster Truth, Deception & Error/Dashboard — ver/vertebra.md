@@ -5,15 +5,6 @@ status: unread
 ---
 # vertebra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the bony segments of the spinal column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the bony segments of the spinal column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hussey wore a polished necklace of codfish vertebra; and Hosea Hussey had his account books bound in superior old shark-skin."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the bony segments of the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the bony segments of the spinal column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hussey wore a polished necklace of codfish vertebra; and Hosea Hussey had his account books bound in superior old shark-skin."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*

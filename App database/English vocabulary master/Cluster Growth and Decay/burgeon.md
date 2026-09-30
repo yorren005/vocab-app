@@ -5,18 +5,6 @@ status: unread
 ---
 # burgeon
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bloom
-> 2. **Nuance / Usage**: (intransitive) to grow or expand
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to burgeon the target*) and intransitive clauses (*burgeoning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mother’s milk, Purefoy, the milk of human kin, milk too of those burgeoning stars overhead rutilant in thin rainvapour, punch milk, such as those rioters will quaff in their guzzling den, milk of madness, the honeymilk of Canaan’s land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Bloom
+> 2. **Nuance / Usage**: (intransitive) to grow or expand
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to burgeon the target*) and intransitive clauses (*burgeoning against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Mother’s milk, Purefoy, the milk of human kin, milk too of those burgeoning stars overhead rutilant in thin rainvapour, punch milk, such as those rioters will quaff in their guzzling den, milk of madness, the honeymilk of Canaan’s land."*

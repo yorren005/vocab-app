@@ -5,15 +5,6 @@ status: unread
 ---
 # involved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect closely and often incriminatingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage as a participant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All this involved, no doubt, sufficient active exercise of pen and ink to make her daughter’s part in the proceedings anything but a holiday."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, in your suit there are thousands and thousands involved, where in mine there are hundreds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the expression of his face he might be a famous whist-player for a large stake—say a hundred guineas certain—with the game in his hand, but with a high reputation involved in his playing his hand out to the last card in a masterly way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect closely and often incriminatingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage as a participant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"All this involved, no doubt, sufficient active exercise of pen and ink to make her daughter’s part in the proceedings anything but a holiday."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, in your suit there are thousands and thousands involved, where in mine there are hundreds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"From the expression of his face he might be a famous whist-player for a large stake—say a hundred guineas certain—with the game in his hand, but with a high reputation involved in his playing his hand out to the last card in a masterly way."*

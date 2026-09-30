@@ -5,14 +5,6 @@ status: unread
 ---
 # demonetize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of value for payment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of value for payment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Republican party is in favor of the use of both gold and silver as money, and condemns the policy of the Democratic Administration in its efforts to demonetize silver."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Republican party is in favor of the use of both gold and silver as money, and condemns the policy of the Democratic Administration in its efforts to demonetize silver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of value for payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of value for payment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Republican party is in favor of the use of both gold and silver as money, and condemns the policy of the Democratic Administration in its efforts to demonetize silver."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Republican party is in favor of the use of both gold and silver as money, and condemns the policy of the Democratic Administration in its efforts to demonetize silver."*

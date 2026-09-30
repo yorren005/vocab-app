@@ -5,15 +5,6 @@ status: unread
 ---
 # stylish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having elegance or taste or refinement in manners or dress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or in accordance with current social fashions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What place is The Herons?” “A stylish lodging-house. ’Tis all lodging-houses here, bless ’ee.” Clare received directions how to find the house, and hastened thither, arriving with the milkman."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The hue of her dress was black too; but its fashion was so different from her sister’s—so much more flowing and becoming—it looked as stylish as the other’s looked puritanical."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She was a slim, red-haired bunch of galatea, stylish of cut as to upturned nose and straight little skirt but wholly and defiantly unshod save for a dusty white rag around one pink toe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having elegance or taste or refinement in manners or dress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or in accordance with current social fashions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What place is The Herons?” “A stylish lodging-house. ’Tis all lodging-houses here, bless ’ee.” Clare received directions how to find the house, and hastened thither, arriving with the milkman."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The hue of her dress was black too; but its fashion was so different from her sister’s—so much more flowing and becoming—it looked as stylish as the other’s looked puritanical."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She was a slim, red-haired bunch of galatea, stylish of cut as to upturned nose and straight little skirt but wholly and defiantly unshod save for a dusty white rag around one pink toe."*

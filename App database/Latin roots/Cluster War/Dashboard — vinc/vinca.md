@@ -5,13 +5,6 @@ status: unread
 ---
 # vinca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Periwinkles: low creeping evergreen perennials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periwinkles: low creeping evergreen perennials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PERIWINKLE RUST; spots yellowish; sori small, subrotund, and oval, on the under surface, surrounded by the ruptured epidermis; spores oval, rather ovoid, brown.—On leaves of _Vinca major_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Periwinkles: low creeping evergreen perennials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periwinkles: low creeping evergreen perennials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PERIWINKLE RUST; spots yellowish; sori small, subrotund, and oval, on the under surface, surrounded by the ruptured epidermis; spores oval, rather ovoid, brown.—On leaves of _Vinca major_."*

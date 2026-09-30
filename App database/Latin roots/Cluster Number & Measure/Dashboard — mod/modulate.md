@@ -5,15 +5,6 @@ status: unread
 ---
 # modulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the key of, in music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"She knocked a third time, three regular strokes, gentle, but perfectly distinct, and with meaning in them; for, modulate it with what cautious art we will, the hand cannot help playing some tune of what we feel upon the senseless wood."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"His fingers wandered over the lower register, improvising, modulating from one minor key to another in a cobweb of silver harmony spun pale and low from a minimum of technical attention."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the key of, in music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"She knocked a third time, three regular strokes, gentle, but perfectly distinct, and with meaning in them; for, modulate it with what cautious art we will, the hand cannot help playing some tune of what we feel upon the senseless wood."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"His fingers wandered over the lower register, improvising, modulating from one minor key to another in a cobweb of silver harmony spun pale and low from a minimum of technical attention."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*

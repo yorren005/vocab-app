@@ -5,15 +5,6 @@ status: unread
 ---
 # unintelligent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking intelligence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will give you sleepy drinks, that your senses, unintelligent of our insufficience, may, though they cannot praise us, as little accuse us."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In a word, it was Queequeg’s conceit, that if a man made up his mind to live, mere sickness could not kill him: nothing but a whale, or a gale, or some violent, ungovernable, unintelligent destroyer of that sort."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In a word, it was Queequeg’s conceit, that if a man made up his mind to live, mere sickness could not kill him: nothing but a whale, or a gale, or some violent, ungovernable, unintelligent destroyer of that sort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking intelligence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will give you sleepy drinks, that your senses, unintelligent of our insufficience, may, though they cannot praise us, as little accuse us."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In a word, it was Queequeg’s conceit, that if a man made up his mind to live, mere sickness could not kill him: nothing but a whale, or a gale, or some violent, ungovernable, unintelligent destroyer of that sort."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In a word, it was Queequeg’s conceit, that if a man made up his mind to live, mere sickness could not kill him: nothing but a whale, or a gale, or some violent, ungovernable, unintelligent destroyer of that sort."*

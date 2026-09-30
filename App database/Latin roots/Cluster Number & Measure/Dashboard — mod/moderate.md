@@ -5,15 +5,6 @@ status: unread
 ---
 # moderate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a position in the political center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preside over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moderate lamentation is the right of the dead; excessive grief the enemy to the living."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While one with moderate haste might tell a hundred."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love, be moderate; allay thy ecstasy, In measure rain thy joy; scant this excess!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a position in the political center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preside over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moderate lamentation is the right of the dead; excessive grief the enemy to the living."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While one with moderate haste might tell a hundred."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love, be moderate; allay thy ecstasy, In measure rain thy joy; scant this excess!"*

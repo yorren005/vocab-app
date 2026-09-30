@@ -5,13 +5,6 @@ status: unread
 ---
 # planthopper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planthopper designates related to the leafhoppers and spittlebugs but rarely damages cultivated plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planthopper designates related to the leafhoppers and spittlebugs but rarely damages cultivated plants."*

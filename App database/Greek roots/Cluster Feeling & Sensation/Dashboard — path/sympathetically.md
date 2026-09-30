@@ -5,15 +5,6 @@ status: unread
 ---
 # sympathetically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the sympathetic nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sympathetic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you find it very tiresome here?" Mäzli asked sympathetically."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket sympathetically, “but it’ll wear off.” Volumnia wishes of all things to know what is doing?"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But the recognised and trusted leaders of the Church were of opinion that the matter must be sympathetically dealt with, and, on the motion of Principal Harper, the Synod of 1877 appointed a Committee to consider it, and to bring up a report."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the sympathetic nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sympathetic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you find it very tiresome here?" Mäzli asked sympathetically."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket sympathetically, “but it’ll wear off.” Volumnia wishes of all things to know what is doing?"*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But the recognised and trusted leaders of the Church were of opinion that the matter must be sympathetically dealt with, and, on the motion of Principal Harper, the Synod of 1877 appointed a Committee to consider it, and to bring up a report."*

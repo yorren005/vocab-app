@@ -5,13 +5,6 @@ status: unread
 ---
 # paronym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paronymous word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paronymous word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paronym designates a paronymous word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paronymous word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paronymous word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paronym designates a paronymous word."*

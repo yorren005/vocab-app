@@ -5,15 +5,6 @@ status: unread
 ---
 # radiance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of electromagnetic radiation leaving or arriving at a point on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through crevices in the roof and side spread streaks and dots of light, a combination of which made the radiance that had attracted him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a windowless erection used for storage, and from the open door there floated into the obscurity a mist of yellow radiance, which at first Tess thought to be illuminated smoke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of electromagnetic radiation leaving or arriving at a point on a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through crevices in the roof and side spread streaks and dots of light, a combination of which made the radiance that had attracted him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a windowless erection used for storage, and from the open door there floated into the obscurity a mist of yellow radiance, which at first Tess thought to be illuminated smoke."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # interrogative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sentence of inquiry that asks for a reply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some linguists consider interrogative sentences to constitute a mood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Which is it to be?” He stood with his head on one side and himself on one side, in a bullying, interrogative manner, and he threw his forefinger at Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any one may give their remarks an interrogative turn,” he continued, his sonorousness rising with his style."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The treasures to be supplied as voluntary offerings by the ladies of the neighbourhood." Mrs Merrivale paused and cocked an interrogative eye at me, and her husband said gently:-- "Dear, aren't you too ambitious?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sentence of inquiry that asks for a reply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some linguists consider interrogative sentences to constitute a mood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Which is it to be?” He stood with his head on one side and himself on one side, in a bullying, interrogative manner, and he threw his forefinger at Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Any one may give their remarks an interrogative turn,” he continued, his sonorousness rising with his style."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The treasures to be supplied as voluntary offerings by the ladies of the neighbourhood." Mrs Merrivale paused and cocked an interrogative eye at me, and her husband said gently:-- "Dear, aren't you too ambitious?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # efferent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve that conveys impulses toward or to muscles or glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying information away from the cns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, efferent designates a nerve that conveys impulses toward or to muscles or glands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve that conveys impulses toward or to muscles or glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying information away from the cns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, efferent designates a nerve that conveys impulses toward or to muscles or glands."*

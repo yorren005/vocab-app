@@ -5,15 +5,6 @@ status: unread
 ---
 # transcend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be greater in scope or size than some standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be superior or better than some standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Accordingly, in the following pages, the author has endeavored primarily to develop the economic aspects of each problem, and has repeatedly given warning when the discussion or the conclusions began to transcend strict economic limits."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He holds up to men standards of conduct which transcend anything yet put before mankind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therein no fairy’s arm can transcend it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be greater in scope or size than some standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be superior or better than some standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Accordingly, in the following pages, the author has endeavored primarily to develop the economic aspects of each problem, and has repeatedly given warning when the discussion or the conclusions began to transcend strict economic limits."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He holds up to men standards of conduct which transcend anything yet put before mankind."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therein no fairy’s arm can transcend it."*

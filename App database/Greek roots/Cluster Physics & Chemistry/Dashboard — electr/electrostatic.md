@@ -5,14 +5,6 @@ status: unread
 ---
 # electrostatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or producing or caused by static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or producing or caused by static electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is a convenient form of what is called an electrostatic condenser."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another is that adjacent particles become charged as the plates of a minute condenser, and so are drawn tightly together as the plates in an electrostatic voltmeter are drawn towards each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or producing or caused by static electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or producing or caused by static electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is a convenient form of what is called an electrostatic condenser."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another is that adjacent particles become charged as the plates of a minute condenser, and so are drawn tightly together as the plates in an electrostatic voltmeter are drawn towards each other."*

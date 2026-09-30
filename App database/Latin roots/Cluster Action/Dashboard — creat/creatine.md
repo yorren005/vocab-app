@@ -5,13 +5,6 @@ status: unread
 ---
 # creatine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creatine designates an amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creatine designates an amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction."*

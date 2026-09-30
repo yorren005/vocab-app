@@ -5,13 +5,6 @@ status: unread
 ---
 # catamite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy who submits to a sexual relationship with a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy who submits to a sexual relationship with a man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Catamite. —The sense of beauty leads us astray, said beautifulinsadness Best to ugling Eglinton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy who submits to a sexual relationship with a man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy who submits to a sexual relationship with a man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Catamite. —The sense of beauty leads us astray, said beautifulinsadness Best to ugling Eglinton."*

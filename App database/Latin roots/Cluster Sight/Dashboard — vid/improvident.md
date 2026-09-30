@@ -5,15 +5,6 @@ status: unread
 ---
 # improvident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provident; not providing for the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given careful consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Improvident soldiers, had your watch been good, This sudden mischief never could have fall’n."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who says this is improvident jealousy?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She found, to her dismay, that this was owing to their having eaten all the seed potatoes,—that last lapse of the improvident."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provident; not providing for the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given careful consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Improvident soldiers, had your watch been good, This sudden mischief never could have fall’n."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who says this is improvident jealousy?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She found, to her dismay, that this was owing to their having eaten all the seed potatoes,—that last lapse of the improvident."*

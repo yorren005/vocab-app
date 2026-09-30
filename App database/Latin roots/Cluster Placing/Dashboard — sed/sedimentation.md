@@ -5,13 +5,6 @@ status: unread
 ---
 # sedimentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of sediment or gravel accumulating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomenon of sediment or gravel accumulating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sedimentation designates the phenomenon of sediment or gravel accumulating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of sediment or gravel accumulating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomenon of sediment or gravel accumulating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sedimentation designates the phenomenon of sediment or gravel accumulating."*

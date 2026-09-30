@@ -5,15 +5,6 @@ status: unread
 ---
 # describe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a description of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give an account or representation of in words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray thee over-name them, and as thou namest them, I will describe them, and according to my description level at my affection."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea had been obliged to laugh a little at first at the description of the humble behaviour which did not seem to describe her very well."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, “is—a—I don’t know that I can describe him to you better than by saying that he is the husband of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a description of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give an account or representation of in words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray thee over-name them, and as thou namest them, I will describe them, and according to my description level at my affection."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea had been obliged to laugh a little at first at the description of the humble behaviour which did not seem to describe her very well."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, “is—a—I don’t know that I can describe him to you better than by saying that he is the husband of Mrs."*

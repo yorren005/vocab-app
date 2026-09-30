@@ -5,14 +5,6 @@ status: unread
 ---
 # fugacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting a very short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lasting a very short time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It only occurs on the under surface of the leaves: the mycelium is very web-like and fugacious, the conceptacles minute, globose, and scattered (fig. 243)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MUGWORT BLIGHT; amphigenous; mycelium web-like; fugacious or persistent; conceptacles minute, globose, scattered, emersed; appendages white, interwoven with the mycelium; sporangia 8-20, pyriform, with elongated pedicels.—On leaves of Mugwort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting a very short time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lasting a very short time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It only occurs on the under surface of the leaves: the mycelium is very web-like and fugacious, the conceptacles minute, globose, and scattered (fig. 243)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MUGWORT BLIGHT; amphigenous; mycelium web-like; fugacious or persistent; conceptacles minute, globose, scattered, emersed; appendages white, interwoven with the mycelium; sporangia 8-20, pyriform, with elongated pedicels.—On leaves of Mugwort."*

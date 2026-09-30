@@ -5,13 +5,6 @@ status: unread
 ---
 # gastroenterology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenterology designates a branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenterology designates a branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines."*

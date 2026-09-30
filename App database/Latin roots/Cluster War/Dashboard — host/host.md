@@ -5,15 +5,6 @@ status: unread
 ---
 # host
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast multitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, pilgrim, I will bring you Where you shall host; of enjoin’d penitents There’s four or five, to great Saint Jaques bound, Already at my house."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give to a gracious message An host of tongues, but let ill tidings tell Themselves when they be felt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Best you safed the bringer Out of the host."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast multitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, pilgrim, I will bring you Where you shall host; of enjoin’d penitents There’s four or five, to great Saint Jaques bound, Already at my house."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give to a gracious message An host of tongues, but let ill tidings tell Themselves when they be felt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Best you safed the bringer Out of the host."*

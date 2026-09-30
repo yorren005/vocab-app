@@ -5,15 +5,6 @@ status: unread
 ---
 # evanescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to vanish like vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to vanish like vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Matter has no memory, because its forms are evanescent, and what is engraved on its forms perishes with the forms."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is evanescent apart from Jesus; it rests on the assurance of his words, his work, his personality."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"My feelings are not quite so evanescent, nor my memory of the past under such easy dominion as one finds to be the case with men of the world.” This was followed by a short silence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to vanish like vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to vanish like vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Matter has no memory, because its forms are evanescent, and what is engraved on its forms perishes with the forms."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is evanescent apart from Jesus; it rests on the assurance of his words, his work, his personality."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"My feelings are not quite so evanescent, nor my memory of the past under such easy dominion as one finds to be the case with men of the world.” This was followed by a short silence."*

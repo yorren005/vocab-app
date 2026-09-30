@@ -5,13 +5,6 @@ status: unread
 ---
 # battercake
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat cake of thin batter fried on both sides on a griddle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat cake of thin batter fried on both sides on a griddle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I reckon it was nearly midnight when we left, wasn't it, Bess?" "Yes, Lucille cooked us so much ham and battercakes and stuff it took a long time to eat it all up." "Did y'all ride Ollie on a rail?" "No."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat cake of thin batter fried on both sides on a griddle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat cake of thin batter fried on both sides on a griddle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I reckon it was nearly midnight when we left, wasn't it, Bess?" "Yes, Lucille cooked us so much ham and battercakes and stuff it took a long time to eat it all up." "Did y'all ride Ollie on a rail?" "No."*

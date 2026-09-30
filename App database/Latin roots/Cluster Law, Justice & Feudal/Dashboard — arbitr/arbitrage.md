@@ -5,13 +5,6 @@ status: unread
 ---
 # arbitrage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice arbitrage, as in the stock market.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrage designates a kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice arbitrage, as in the stock market.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrage designates a kind of hedged investment meant to capture slight differences in price; when there is a difference in the price of something on two different markets the arbitrageur simultaneously buys at the lower price and sells at the higher price."*

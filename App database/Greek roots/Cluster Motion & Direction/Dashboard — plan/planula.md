@@ -5,13 +5,6 @@ status: unread
 ---
 # planula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planula designates the flat ciliated free-swimming larva of hydrozoan coelenterates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planula designates the flat ciliated free-swimming larva of hydrozoan coelenterates."*

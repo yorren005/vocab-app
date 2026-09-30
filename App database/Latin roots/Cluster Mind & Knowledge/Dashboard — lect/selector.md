@@ -5,15 +5,6 @@ status: unread
 ---
 # selector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who chooses or selects out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A switch that is used to select among alternatives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The selector, an uneducated man and ignorant of geology, was busy carting stone in his wheelbarrow."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Morgan went on his way, taking with him a few specimens of the stone, which he sent for assay, and shortly afterwards wrote to the selector asking him what he would take for his property."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Morgan and his partners made the poor selector a handsome present I cannot say, but I believe they did, if not they ought to have done so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who chooses or selects out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A switch that is used to select among alternatives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The selector, an uneducated man and ignorant of geology, was busy carting stone in his wheelbarrow."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Morgan went on his way, taking with him a few specimens of the stone, which he sent for assay, and shortly afterwards wrote to the selector asking him what he would take for his property."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Morgan and his partners made the poor selector a handsome present I cannot say, but I believe they did, if not they ought to have done so."*

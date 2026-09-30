@@ -5,13 +5,6 @@ status: unread
 ---
 # paramecium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the genus paramecium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the genus paramecium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramecium designates any member of the genus paramecium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the genus paramecium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the genus paramecium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramecium designates any member of the genus paramecium."*

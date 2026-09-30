@@ -5,15 +5,6 @@ status: unread
 ---
 # terrific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very great or intense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly a terrific shout of joy sounded from all voices at once as they all called: "Uncle Phipp!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She finally consented to that terrific method, but was in no condition of strength to bear the operation."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was awakened, in my bunk in the forecastle, by a terrific crash."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very great or intense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly a terrific shout of joy sounded from all voices at once as they all called: "Uncle Phipp!"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She finally consented to that terrific method, but was in no condition of strength to bear the operation."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was awakened, in my bunk in the forecastle, by a terrific crash."*

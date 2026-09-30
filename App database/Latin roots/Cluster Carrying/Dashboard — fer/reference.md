@@ -5,15 +5,6 @@ status: unread
 ---
 # reference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark that calls attention to something or someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short note recognizing a source of information or of a quoted passage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All that he is hath reference to your highness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make your full reference freely to my lord, Who is so full of grace that it flows over On all that need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something that hath a reference to my state: No longer Celia, but Aliena."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark that calls attention to something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short note recognizing a source of information or of a quoted passage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All that he is hath reference to your highness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make your full reference freely to my lord, Who is so full of grace that it flows over On all that need."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something that hath a reference to my state: No longer Celia, but Aliena."*

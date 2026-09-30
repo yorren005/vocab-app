@@ -5,15 +5,6 @@ status: unread
 ---
 # attenuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakening in force or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that has been weakened or reduced in thickness or density.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The salt had "lost his savour;" and yet, with one drop of that attenuation in a goblet of 153:9 water, and a teaspoonful of the water administered at in- tervals of three hours, she has cured a patient sinking in the last stage of typhoid fever."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The highest attenuation 153:12 of homoeopathy and the most potent rises above matter into mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Now administer mentally to your patient a high 153:21 attenuation of truth, and it will soon cure the boil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakening in force or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that has been weakened or reduced in thickness or density.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The salt had "lost his savour;" and yet, with one drop of that attenuation in a goblet of 153:9 water, and a teaspoonful of the water administered at in- tervals of three hours, she has cured a patient sinking in the last stage of typhoid fever."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The highest attenuation 153:12 of homoeopathy and the most potent rises above matter into mind."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Now administer mentally to your patient a high 153:21 attenuation of truth, and it will soon cure the boil."*

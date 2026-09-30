@@ -5,13 +5,6 @@ status: unread
 ---
 # craniometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometry designates the branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometry designates the branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts."*

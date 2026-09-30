@@ -5,13 +5,6 @@ status: unread
 ---
 # antiparticle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiparticle designates a particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiparticle designates a particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy."*

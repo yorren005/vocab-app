@@ -5,15 +5,6 @@ status: unread
 ---
 # interrogation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sentence of inquiry that asks for a reply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transmission that will trigger an answering transmission from a transponder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On interrogation, he said "he had frequently heard that minister."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Who knows anything about dynamite?” And of course nobody knew, although it had been the burden of the interrogation put to him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will cover infiltration, interrogation, psychological defenses against psychic probes and other means that might be used to acquire information from you, under duress or otherwise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sentence of inquiry that asks for a reply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transmission that will trigger an answering transmission from a transponder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"On interrogation, he said "he had frequently heard that minister."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Who knows anything about dynamite?” And of course nobody knew, although it had been the burden of the interrogation put to him."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will cover infiltration, interrogation, psychological defenses against psychic probes and other means that might be used to acquire information from you, under duress or otherwise."*

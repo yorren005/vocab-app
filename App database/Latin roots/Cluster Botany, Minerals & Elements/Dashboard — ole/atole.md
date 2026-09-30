@@ -5,13 +5,6 @@ status: unread
 ---
 # atole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eaten as mush or as a thin gruel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eaten as mush or as a thin gruel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atole designates eaten as mush or as a thin gruel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eaten as mush or as a thin gruel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eaten as mush or as a thin gruel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atole designates eaten as mush or as a thin gruel."*

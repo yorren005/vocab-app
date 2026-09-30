@@ -5,15 +5,6 @@ status: unread
 ---
 # antisocial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Averse to the society of others : unsociable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hostile or harmful to organized society; especially : being or marked by behavior deviating sharply from the social norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is doubtful whether the boycott can be extended at all beyond the first degree of personal relations without becoming antisocial, whether it is the weapon of organized workers or of organized wealth."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The open or secret use of violence and other antisocial forces make much of this boasted service to some of the workers, an injury to others, and an occasion of reproach from the citizen who condemns the spirit of lawlessness thus encouraged."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"No code of laws can be framed that will make possible the punishment of all antisocial acts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Averse to the society of others : unsociable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hostile or harmful to organized society; especially : being or marked by behavior deviating sharply from the social norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is doubtful whether the boycott can be extended at all beyond the first degree of personal relations without becoming antisocial, whether it is the weapon of organized workers or of organized wealth."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The open or secret use of violence and other antisocial forces make much of this boasted service to some of the workers, an injury to others, and an occasion of reproach from the citizen who condemns the spirit of lawlessness thus encouraged."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"No code of laws can be framed that will make possible the punishment of all antisocial acts."*

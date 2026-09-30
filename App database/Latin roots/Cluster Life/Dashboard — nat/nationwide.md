@@ -5,13 +5,6 @@ status: unread
 ---
 # nationwide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or extending throughout a country or nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending throughout an entire nation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Extensive and ongoing reductions-in-force among military and civil service personnel accompanied a nationwide conversion from war to civilian economies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or extending throughout a country or nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending throughout an entire nation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Extensive and ongoing reductions-in-force among military and civil service personnel accompanied a nationwide conversion from war to civilian economies."*

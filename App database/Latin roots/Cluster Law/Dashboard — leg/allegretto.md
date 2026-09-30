@@ -5,14 +5,6 @@ status: unread
 ---
 # allegretto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quicker tempo than andante but not as fast as allegro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition or musical passage to be performed at a somewhat quicker tempo than andante but not as fast as allegro.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ hand on hainch, and upward e’e, He croon’d his gamut, one, two, three, Then in an arioso key, The wee Apoll Set off wi’ allegretto glee His giga solo."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May still your life from day to day, Nae “lente largo” in the play, But “allegretto forte” gay, Harmonious flow, A sweeping, kindling, bauld strathspey— Encore!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quicker tempo than andante but not as fast as allegro.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition or musical passage to be performed at a somewhat quicker tempo than andante but not as fast as allegro.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ hand on hainch, and upward e’e, He croon’d his gamut, one, two, three, Then in an arioso key, The wee Apoll Set off wi’ allegretto glee His giga solo."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May still your life from day to day, Nae “lente largo” in the play, But “allegretto forte” gay, Harmonious flow, A sweeping, kindling, bauld strathspey— Encore!"*

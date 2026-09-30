@@ -5,14 +5,6 @@ status: unread
 ---
 # overcautious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnecessarily cautious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessarily cautious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"But it was soon clear that even some of the older fighting men were beginning to think that perhaps the chief was overcautious."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Those who had fussed and fretted, and some who had thought him overcautious, joined now with the most timid in ignoring all but him, and crowding up for orders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnecessarily cautious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessarily cautious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. H. Costello (*Sure-dart*):** *"But it was soon clear that even some of the older fighting men were beginning to think that perhaps the chief was overcautious."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"Those who had fussed and fretted, and some who had thought him overcautious, joined now with the most timid in ignoring all but him, and crowding up for orders."*

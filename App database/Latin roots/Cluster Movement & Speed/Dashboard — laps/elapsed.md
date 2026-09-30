@@ -5,15 +5,6 @@ status: unread
 ---
 # elapsed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass by.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of time) having passed or slipped by.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A space of a minute or two has elapsed before he comes up with her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The time allotted to a lesson having fully elapsed, there was a general putting on of bonnets."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass by.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of time) having passed or slipped by.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A space of a minute or two has elapsed before he comes up with her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The time allotted to a lesson having fully elapsed, there was a general putting on of bonnets."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*

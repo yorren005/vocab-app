@@ -5,13 +5,6 @@ status: unread
 ---
 # villein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The villein had the use of the stock, pastures, fields, woodlands, provided he kept them undiminished and undestroyed to transmit to his children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The villein had the use of the stock, pastures, fields, woodlands, provided he kept them undiminished and undestroyed to transmit to his children."*

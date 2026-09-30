@@ -5,15 +5,6 @@ status: unread
 ---
 # vermilion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable color that is vivid red but sometimes with an orange tinge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color vermilion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Against the peaceful landscape, the pale, decaying tints of the copses, the blue air of the horizon, and the lichened stile-boards, these staring vermilion words shone forth."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Her heart beat faster and a vermilion blush dyed her pale cheek."' Isabel's favourite authors were Stevenson and Mr."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is quite finished,” he cried at last, and stooping down he wrote his name in long vermilion letters on the left-hand corner of the canvas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable color that is vivid red but sometimes with an orange tinge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color vermilion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Against the peaceful landscape, the pale, decaying tints of the copses, the blue air of the horizon, and the lichened stile-boards, these staring vermilion words shone forth."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Her heart beat faster and a vermilion blush dyed her pale cheek."' Isabel's favourite authors were Stevenson and Mr."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is quite finished,” he cried at last, and stooping down he wrote his name in long vermilion letters on the left-hand corner of the canvas."*

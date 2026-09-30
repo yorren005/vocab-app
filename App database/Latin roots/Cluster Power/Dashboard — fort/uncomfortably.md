@@ -5,15 +5,6 @@ status: unread
 ---
 # uncomfortably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In physical discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical discomfort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Seated at the same table, though with his chair modestly and uncomfortably drawn a little way from it, sits a bald, mild, shining man who coughs respectfully behind his hand when the lawyer bids him fill his glass."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice did not much like keeping so close to her: first, because the Duchess was _very_ ugly; and secondly, because she was exactly the right height to rest her chin upon Alice’s shoulder, and it was an uncomfortably sharp chin."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So the sun was an hour high and the day was already uncomfortably hot when we rolled out of Nephi and on into the sandy barrens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physical discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical discomfort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Seated at the same table, though with his chair modestly and uncomfortably drawn a little way from it, sits a bald, mild, shining man who coughs respectfully behind his hand when the lawyer bids him fill his glass."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice did not much like keeping so close to her: first, because the Duchess was _very_ ugly; and secondly, because she was exactly the right height to rest her chin upon Alice’s shoulder, and it was an uncomfortably sharp chin."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So the sun was an hour high and the day was already uncomfortably hot when we rolled out of Nephi and on into the sandy barrens."*

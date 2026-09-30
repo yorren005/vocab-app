@@ -5,14 +5,6 @@ status: unread
 ---
 # admonishment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm rebuke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm rebuke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When was my lord so much ungently temper’d To stop his ears against admonishment?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy grave admonishments prevail with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm rebuke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm rebuke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When was my lord so much ungently temper’d To stop his ears against admonishment?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy grave admonishments prevail with me."*

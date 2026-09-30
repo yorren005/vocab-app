@@ -5,15 +5,6 @@ status: unread
 ---
 # predict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a prediction about; tell in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To-day she is at Chesney Wold; yesterday she was at her house in town; to-morrow she may be abroad, for anything the fashionable intelligence can with confidence predict."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Augurs of the Detective Temple invariably predict that when Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Because of these it is safe to predict that progress will not be made quickly, steadily, nor always directed toward a clear ideal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a prediction about; tell in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"To-day she is at Chesney Wold; yesterday she was at her house in town; to-morrow she may be abroad, for anything the fashionable intelligence can with confidence predict."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Augurs of the Detective Temple invariably predict that when Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Because of these it is safe to predict that progress will not be made quickly, steadily, nor always directed toward a clear ideal."*

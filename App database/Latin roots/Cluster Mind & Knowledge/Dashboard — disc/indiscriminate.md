@@ -5,15 +5,6 @@ status: unread
 ---
 # indiscriminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to make or recognize distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not marked by fine distinctions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His great power seemed to be his power of indiscriminate admiration."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"This impression is strengthened by a view of the very unequal and indiscriminate allotments of the present life."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt collected her energies, and made an indiscriminate totter at them with a birch-rod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to make or recognize distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not marked by fine distinctions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His great power seemed to be his power of indiscriminate admiration."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"This impression is strengthened by a view of the very unequal and indiscriminate allotments of the present life."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt collected her energies, and made an indiscriminate totter at them with a birch-rod."*

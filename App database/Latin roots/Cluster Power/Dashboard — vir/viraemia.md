@@ -5,13 +5,6 @@ status: unread
 ---
 # viraemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of a virus in the blood stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of a virus in the blood stream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viraemia designates the presence of a virus in the blood stream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of a virus in the blood stream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of a virus in the blood stream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viraemia designates the presence of a virus in the blood stream."*

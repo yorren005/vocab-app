@@ -5,13 +5,6 @@ status: unread
 ---
 # episperm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective outer layer of seeds of flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective outer layer of seeds of flowering plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episperm designates protective outer layer of seeds of flowering plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective outer layer of seeds of flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective outer layer of seeds of flowering plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episperm designates protective outer layer of seeds of flowering plants."*

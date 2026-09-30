@@ -5,15 +5,6 @@ status: unread
 ---
 # hypnotise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Induce hypnosis in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"He must hypnotise me before the dawn, and then I shall be able to speak."*
-> - 📜 **Bram Stoker (*Dracula*):** *"For at this hour you do not want me for nothings.” “I want you to hypnotise me!” she said."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Besides, I may be of service, since you can hypnotise me and so learn that which even I myself do not know.” Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Induce hypnosis in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"He must hypnotise me before the dawn, and then I shall be able to speak."*
+> - 📜 **Bram Stoker (*Dracula*):** *"For at this hour you do not want me for nothings.” “I want you to hypnotise me!” she said."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Besides, I may be of service, since you can hypnotise me and so learn that which even I myself do not know.” Dr."*

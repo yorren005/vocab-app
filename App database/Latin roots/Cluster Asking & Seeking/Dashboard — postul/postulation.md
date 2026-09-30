@@ -5,13 +5,6 @@ status: unread
 ---
 # postulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a declaration of something self-evident; something that can be assumed as the basis for argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal message requesting something that is submitted to an authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postulation designates (logic) a declaration of something self-evident; something that can be assumed as the basis for argument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a declaration of something self-evident; something that can be assumed as the basis for argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal message requesting something that is submitted to an authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postulation designates (logic) a declaration of something self-evident; something that can be assumed as the basis for argument."*

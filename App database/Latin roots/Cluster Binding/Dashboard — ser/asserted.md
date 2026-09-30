@@ -5,15 +5,6 @@ status: unread
 ---
 # asserted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You can call as often as you please from now on, I shall certainly not come again." "I know they will open some day," the boy asserted firmly, "only we can't tell just when; but it might be any time."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The ghost of Wildenstein might have pushed them open," Kurt quickly asserted."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When we came here first I was so glad that Bruno would have them for friends, but now I am in continual fear that they will clash." "Yes, mother," Kurt asserted, "you would never have been glad of that friendship if you had really known them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You can call as often as you please from now on, I shall certainly not come again." "I know they will open some day," the boy asserted firmly, "only we can't tell just when; but it might be any time."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The ghost of Wildenstein might have pushed them open," Kurt quickly asserted."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When we came here first I was so glad that Bruno would have them for friends, but now I am in continual fear that they will clash." "Yes, mother," Kurt asserted, "you would never have been glad of that friendship if you had really known them."*

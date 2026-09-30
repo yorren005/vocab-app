@@ -5,13 +5,6 @@ status: unread
 ---
 # septet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seven performers or singers who perform together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septet designates the cardinal number that is the sum of six and one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seven performers or singers who perform together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septet designates the cardinal number that is the sum of six and one."*

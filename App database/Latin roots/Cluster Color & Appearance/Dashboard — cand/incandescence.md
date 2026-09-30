@@ -5,13 +5,6 @@ status: unread
 ---
 # incandescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of light emission by a body as its temperature is raised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light from heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The light is due to the solid matter in the flame, brought to a state of white heat or incandescence by the heat of the flame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of light emission by a body as its temperature is raised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light from heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The light is due to the solid matter in the flame, brought to a state of white heat or incandescence by the heat of the flame."*

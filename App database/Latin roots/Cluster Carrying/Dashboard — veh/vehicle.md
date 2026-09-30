@@ -5,15 +5,6 @@ status: unread
 ---
 # vehicle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conveyance that transports people or objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medium for the expression or achievement of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is the most flagrant example of an abominable public vehicle that ever encumbered the face of the earth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I do!” While they are so conversing, a hackney-coach drives into the square, on the box of which vehicle a very tall hat makes itself manifest to the public."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel had not beheld the sight for more than half a minute, when the vehicle was brought to a standstill just beneath his eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conveyance that transports people or objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medium for the expression or achievement of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is the most flagrant example of an abominable public vehicle that ever encumbered the face of the earth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I do!” While they are so conversing, a hackney-coach drives into the square, on the box of which vehicle a very tall hat makes itself manifest to the public."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel had not beheld the sight for more than half a minute, when the vehicle was brought to a standstill just beneath his eyes."*

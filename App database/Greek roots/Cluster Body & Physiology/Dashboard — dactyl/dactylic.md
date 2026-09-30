@@ -5,13 +5,6 @@ status: unread
 ---
 # dactylic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylic designates a metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylic designates a metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly)."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # noncommercial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected with or engaged in commercial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected with or engaged in commercial enterprises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You must attribute the work in the manner specified by the author or licensor. -- Noncommercial."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Permission is herewith granted to private individuals, intergenerational programs, senior centers, and public and nonprofit entities to freely reproduce all or portions of this text for noncommercial purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected with or engaged in commercial enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected with or engaged in commercial enterprises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You must attribute the work in the manner specified by the author or licensor. -- Noncommercial."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Permission is herewith granted to private individuals, intergenerational programs, senior centers, and public and nonprofit entities to freely reproduce all or portions of this text for noncommercial purposes."*

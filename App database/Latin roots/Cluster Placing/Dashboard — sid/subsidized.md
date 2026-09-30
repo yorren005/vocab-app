@@ -5,14 +5,6 @@ status: unread
 ---
 # subsidized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support through subsidies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secure the assistance of by granting a subsidy, as of nations or military forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At present development in this field is along two lines, that of subsidized trade-union relief (the Ghent system), and that of compulsory state insurance in certain industries."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The newspapers are largely subsidized or muzzled, public opinion silenced, business prostrated, our homes covered with mortgages, labor impoverished and the land concentrating in the hands of the capitalists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Support through subsidies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secure the assistance of by granting a subsidy, as of nations or military forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At present development in this field is along two lines, that of subsidized trade-union relief (the Ghent system), and that of compulsory state insurance in certain industries."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The newspapers are largely subsidized or muzzled, public opinion silenced, business prostrated, our homes covered with mortgages, labor impoverished and the land concentrating in the hands of the capitalists."*

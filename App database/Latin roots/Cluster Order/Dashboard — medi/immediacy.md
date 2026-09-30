@@ -5,15 +5,6 @@ status: unread
 ---
 # immediacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of an intervening or mediating agency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immediate intuitive awareness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He led our powers; Bore the commission of my place and person; The which immediacy may well stand up And call itself your brother."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Cecil Winwood demurred against the immediacy of the demonstration."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet in this she was well met, for it was not long ere she was my heart’s desire, and such was the immediacy of my will that not her will, nor Hendrik Hamel’s, nor Yunsan’s, could hold back my arms from about her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of an intervening or mediating agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immediate intuitive awareness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He led our powers; Bore the commission of my place and person; The which immediacy may well stand up And call itself your brother."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Cecil Winwood demurred against the immediacy of the demonstration."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet in this she was well met, for it was not long ere she was my heart’s desire, and such was the immediacy of my will that not her will, nor Hendrik Hamel’s, nor Yunsan’s, could hold back my arms from about her."*

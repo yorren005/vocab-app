@@ -5,15 +5,6 @@ status: unread
 ---
 # indiscretion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being injudicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty misdeed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rashly, And prais’d be rashness for it,—let us know, Our indiscretion sometime serves us well, When our deep plots do pall; and that should teach us There’s a divinity that shapes our ends, Rough-hew them how we will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s not offence that indiscretion finds And dotage terms so."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"And at that moment, silent as we all were, his '_Pardon, Madame, mille pardons, Madame_,' and his tone of horror at his own indiscretion, seemed to come to me like a voice out of another life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being injudicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty misdeed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rashly, And prais’d be rashness for it,—let us know, Our indiscretion sometime serves us well, When our deep plots do pall; and that should teach us There’s a divinity that shapes our ends, Rough-hew them how we will."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s not offence that indiscretion finds And dotage terms so."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"And at that moment, silent as we all were, his '_Pardon, Madame, mille pardons, Madame_,' and his tone of horror at his own indiscretion, seemed to come to me like a voice out of another life."*

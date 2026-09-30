@@ -5,15 +5,6 @@ status: unread
 ---
 # theatrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the theater.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle said grace with theatrical declamation,—as it now appears to me, something like a religious cross of the Ghost in Hamlet with Richard the Third,—and ended with the very proper aspiration that we might be truly grateful."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The sheriffs with their great chains and nosegays, other civic gewgaws and monsters, criers, ushers, a great gallery full of people,—a large theatrical audience,—looked on, as the two-and-thirty and the Judge were solemnly confronted."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The storm through Baron Wildenheim was the height of his theatrical ambition; and with the advantage of knowing half the scenes by heart already, he did now, with the greatest alacrity, offer his services for the part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the theater.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle said grace with theatrical declamation,—as it now appears to me, something like a religious cross of the Ghost in Hamlet with Richard the Third,—and ended with the very proper aspiration that we might be truly grateful."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The sheriffs with their great chains and nosegays, other civic gewgaws and monsters, criers, ushers, a great gallery full of people,—a large theatrical audience,—looked on, as the two-and-thirty and the Judge were solemnly confronted."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The storm through Baron Wildenheim was the height of his theatrical ambition; and with the advantage of knowing half the scenes by heart already, he did now, with the greatest alacrity, offer his services for the part."*

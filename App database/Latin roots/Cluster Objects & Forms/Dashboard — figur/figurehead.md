@@ -5,14 +5,6 @@ status: unread
 ---
 # figurehead
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person used as a cover for some questionable activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figure on the bow of some sailing vessels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The spectral figurehead, reversed in its position, glancing backwards, seemed to mock the impatient attitude of the warrior."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He might have had a ship like Phil Dumaresq's _Surprise_, that had a big eagle for her figurehead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person used as a cover for some questionable activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figure on the bow of some sailing vessels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The spectral figurehead, reversed in its position, glancing backwards, seemed to mock the impatient attitude of the warrior."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He might have had a ship like Phil Dumaresq's _Surprise_, that had a big eagle for her figurehead."*

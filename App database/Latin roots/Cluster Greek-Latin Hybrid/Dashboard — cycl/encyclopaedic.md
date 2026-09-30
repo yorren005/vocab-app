@@ -5,13 +5,6 @@ status: unread
 ---
 # encyclopaedic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The high hall of Horne’s house had never beheld an assembly so representative and so varied nor had the old rafters of that establishment ever listened to a language so encyclopaedic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The high hall of Horne’s house had never beheld an assembly so representative and so varied nor had the old rafters of that establishment ever listened to a language so encyclopaedic."*

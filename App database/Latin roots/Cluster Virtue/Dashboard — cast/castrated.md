@@ -5,13 +5,6 @@ status: unread
 ---
 # castrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of strength or vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edit by omitting or modifying parts considered indelicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story of the self-mutilation of Attis is clearly an attempt to account for the self-mutilation of his priests, who regularly castrated themselves on entering the service of the goddess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of strength or vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edit by omitting or modifying parts considered indelicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story of the self-mutilation of Attis is clearly an attempt to account for the self-mutilation of his priests, who regularly castrated themselves on entering the service of the goddess."*

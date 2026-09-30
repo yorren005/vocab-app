@@ -5,13 +5,6 @@ status: unread
 ---
 # dubbing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new soundtrack that is added to a film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a nickname to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubbing designates a new soundtrack that is added to a film."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new soundtrack that is added to a film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a nickname to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubbing designates a new soundtrack that is added to a film."*

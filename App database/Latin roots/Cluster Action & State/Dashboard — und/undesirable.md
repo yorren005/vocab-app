@@ -5,15 +5,6 @@ status: unread
 ---
 # undesirable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose presence is undesirable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not wanted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He has no income outside his salary, his wife is an invalid, and he is worried in that he has been rejected by the life insurance doctors as an undesirable risk."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this result is not so undesirable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was a table spread with the best cold eatables, as at a superior funeral; and facilities were offered for that generous-drinking of cheerful glasses which might lead to generous and cheerful bidding for undesirable articles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose presence is undesirable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not wanted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He has no income outside his salary, his wife is an invalid, and he is worried in that he has been rejected by the life insurance doctors as an undesirable risk."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this result is not so undesirable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a table spread with the best cold eatables, as at a superior funeral; and facilities were offered for that generous-drinking of cheerful glasses which might lead to generous and cheerful bidding for undesirable articles."*

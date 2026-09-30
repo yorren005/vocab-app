@@ -5,15 +5,6 @@ status: unread
 ---
 # merciless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing no mercy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing no mercy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, had the gods done so, I had not now Worthily term’d them merciless to us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His army is a ragged multitude Of hinds and peasants, rude and merciless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The foe is merciless and will not pity, For at their hands I have deserved no pity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing no mercy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing no mercy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, had the gods done so, I had not now Worthily term’d them merciless to us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His army is a ragged multitude Of hinds and peasants, rude and merciless."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The foe is merciless and will not pity, For at their hands I have deserved no pity."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ophthalmoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the interior of an eye using an ophthalmoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the interior of an eye using an ophthalmoscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmoscopy designates examination of the interior of an eye using an ophthalmoscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the interior of an eye using an ophthalmoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the interior of an eye using an ophthalmoscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmoscopy designates examination of the interior of an eye using an ophthalmoscope."*

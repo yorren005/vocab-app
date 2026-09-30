@@ -5,13 +5,6 @@ status: unread
 ---
 # polypeptide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecular chain of amino acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intestinal polypeptide hormone that stimulates insulin secretion by the pancreas in response to the presence of glucose in the small intestine especially following meal ingestion : glucose-dependent insulinotropic polypeptide —abbreviation GIP.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypeptide designates a molecular chain of amino acids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecular chain of amino acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intestinal polypeptide hormone that stimulates insulin secretion by the pancreas in response to the presence of glucose in the small intestine especially following meal ingestion : glucose-dependent insulinotropic polypeptide —abbreviation GIP.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypeptide designates a molecular chain of amino acids."*

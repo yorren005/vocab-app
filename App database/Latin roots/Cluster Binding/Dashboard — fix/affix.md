@@ -5,15 +5,6 @@ status: unread
 ---
 # affix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic element added to a word to produce an inflected or derived form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She obeyed like one in a dream, and when she could affix no more he himself tucked a bud or two into her hat, and heaped her basket with others in the prodigality of his bounty."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, —— Hotel, London,” on each: I could not persuade myself to affix them, or to have them affixed."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Tell me _now_ on pain of being doomed to bear this burden, my humble self, in your arms for ever." "The very penalty that you affix as a menace is an inducement for me to disobey."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic element added to a word to produce an inflected or derived form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She obeyed like one in a dream, and when she could affix no more he himself tucked a bud or two into her hat, and heaped her basket with others in the prodigality of his bounty."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, —— Hotel, London,” on each: I could not persuade myself to affix them, or to have them affixed."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Tell me _now_ on pain of being doomed to bear this burden, my humble self, in your arms for ever." "The very penalty that you affix as a menace is an inducement for me to disobey."*

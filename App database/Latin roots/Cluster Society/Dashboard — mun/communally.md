@@ -5,13 +5,6 @@ status: unread
 ---
 # communally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By a group of people rather than an individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By a group of people rather than an individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communally designates by a group of people rather than an individual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By a group of people rather than an individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By a group of people rather than an individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communally designates by a group of people rather than an individual."*

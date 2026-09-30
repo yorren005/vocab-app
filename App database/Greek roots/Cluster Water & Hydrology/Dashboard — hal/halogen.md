@@ -5,13 +5,6 @@ status: unread
 ---
 # halogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the five elements fluorine, chlorine, bromine, iodine, and astatine that form part of group VIIA of the periodic table and exist in the free state normally as diatomic molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing, using, or being a halogen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halogen designates any of the five elements fluorine, chlorine, bromine, iodine, and astatine that form part of group viia of the periodic table and exist in the free state normally as diatomic molecules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the five elements fluorine, chlorine, bromine, iodine, and astatine that form part of group VIIA of the periodic table and exist in the free state normally as diatomic molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing, using, or being a halogen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halogen designates any of the five elements fluorine, chlorine, bromine, iodine, and astatine that form part of group viia of the periodic table and exist in the free state normally as diatomic molecules."*

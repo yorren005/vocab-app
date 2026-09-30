@@ -5,15 +5,6 @@ status: unread
 ---
 # ton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A united states unit of weight equivalent to 2000 pounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british unit of weight equivalent to 2240 pounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _Est-il impossible d’échapper la force de ton bras?_ PISTOL."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A cent a ton-mile proved to be a paying rate on a small canal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A united states unit of weight equivalent to 2000 pounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british unit of weight equivalent to 2240 pounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _Est-il impossible d’échapper la force de ton bras?_ PISTOL."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A cent a ton-mile proved to be a paying rate on a small canal."*

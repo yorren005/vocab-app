@@ -5,13 +5,6 @@ status: unread
 ---
 # sanitised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sanitary by cleaning or sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less offensive or more acceptable by removing objectionable features.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitised designates make sanitary by cleaning or sterilizing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sanitary by cleaning or sterilizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less offensive or more acceptable by removing objectionable features.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanitised designates make sanitary by cleaning or sterilizing."*

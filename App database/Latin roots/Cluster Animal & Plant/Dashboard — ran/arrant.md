@@ -5,15 +5,6 @@ status: unread
 ---
 # arrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without qualification; used informally as (often pejorative) intensifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s ne’er a villain dwelling in all Denmark But he’s an arrant knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are arrant knaves all, believe none of us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An the Prince and Poins be not two arrant cowards, there’s no equity stirring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without qualification; used informally as (often pejorative) intensifiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s ne’er a villain dwelling in all Denmark But he’s an arrant knave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are arrant knaves all, believe none of us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An the Prince and Poins be not two arrant cowards, there’s no equity stirring."*

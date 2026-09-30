@@ -5,15 +5,6 @@ status: unread
 ---
 # timor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in indonesia in the malay archipelago; the largest and most eastern of the lesser sunda islands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in indonesia in the malay archipelago; the largest and most eastern of the lesser sunda islands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SUFFOLK. _Pene gelidus timor occupat artus_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Was it not so, O Timor Tom! thou famed leviathan, scarred like an iceberg, who so long did’st lurk in the Oriental straits of that name, whose spout was oft seen from the palmy beach of Ombay?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in indonesia in the malay archipelago; the largest and most eastern of the lesser sunda islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in indonesia in the malay archipelago; the largest and most eastern of the lesser sunda islands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SUFFOLK. _Pene gelidus timor occupat artus_."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Was it not so, O Timor Tom! thou famed leviathan, scarred like an iceberg, who so long did’st lurk in the Oriental straits of that name, whose spout was oft seen from the palmy beach of Ombay?"*

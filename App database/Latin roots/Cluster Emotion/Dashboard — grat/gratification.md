@@ -5,15 +5,6 @@ status: unread
 ---
 # gratification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being gratified or satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or an instance of satisfying.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a source of much gratification to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She gave me a gracious welcome to her domain and indicated, with much gratification and pride, its principal attractions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Circumstances undoubtedly prevent my saying that it would afford me any gratification to hear that Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being gratified or satisfied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or an instance of satisfying.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a source of much gratification to Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She gave me a gracious welcome to her domain and indicated, with much gratification and pride, its principal attractions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Circumstances undoubtedly prevent my saying that it would afford me any gratification to hear that Mr."*

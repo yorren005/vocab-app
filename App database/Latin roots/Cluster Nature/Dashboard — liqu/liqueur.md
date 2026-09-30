@@ -5,15 +5,6 @@ status: unread
 ---
 # liqueur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong highly flavored sweet liquor usually drunk after a meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong highly flavored sweet liquor usually drunk after a meal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When, bit by bits his story came out across the liqueur glasses and the early strawberries, Major Clowes laid his head back and roared with laughter."*
-> - 📜 **James Joyce (*Ulysses*):** *"Healthy too, chanting, regular hours, then brew liqueurs."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Wonderful macaroons, glittering liqueurs, magically-preserved tropical spices, and jellies of celestial tropical fruits, displayed themselves profusely at an instant’s notice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong highly flavored sweet liquor usually drunk after a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong highly flavored sweet liquor usually drunk after a meal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"When, bit by bits his story came out across the liqueur glasses and the early strawberries, Major Clowes laid his head back and roared with laughter."*
+> - 📜 **James Joyce (*Ulysses*):** *"Healthy too, chanting, regular hours, then brew liqueurs."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Wonderful macaroons, glittering liqueurs, magically-preserved tropical spices, and jellies of celestial tropical fruits, displayed themselves profusely at an instant’s notice."*

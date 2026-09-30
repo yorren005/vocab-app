@@ -5,15 +5,6 @@ status: unread
 ---
 # agonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to agonize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer agony or anguish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Worth how well, those dark gray eyes, That hair so dark and dear, how worth That a man should strive and agonize, And taste a veriest hell on earth For the hope of such a prize! 45."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No sketches first, no studies, that’s long past: I do what many dream of, all their lives, --Dream? strive to do, and agonize to do, {70} And fail in doing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides its being calculated to serve that friend in those chords of the human mind which—which need not be called into agonizing vibration on the present occasion—your friend is no fool."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to agonize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer agony or anguish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Worth how well, those dark gray eyes, That hair so dark and dear, how worth That a man should strive and agonize, And taste a veriest hell on earth For the hope of such a prize! 45."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No sketches first, no studies, that’s long past: I do what many dream of, all their lives, --Dream? strive to do, and agonize to do, {70} And fail in doing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Besides its being calculated to serve that friend in those chords of the human mind which—which need not be called into agonizing vibration on the present occasion—your friend is no fool."*

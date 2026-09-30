@@ -5,15 +5,6 @@ status: unread
 ---
 # candied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with something sweet, such as a hard sugar glaze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encrusted with sugar or syrup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let the candied tongue lick absurd pomp, And crook the pregnant hinges of the knee Where thrift may follow fawning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ’twere a kibe, ’Twould put me to my slipper: but I feel not This deity in my bosom: twenty consciences That stand ’twixt me and Milan, candied be they And melt ere they molest!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will the cold brook, Candied with ice, caudle thy morning taste To cure thy o’ernight’s surfeit?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with something sweet, such as a hard sugar glaze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encrusted with sugar or syrup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let the candied tongue lick absurd pomp, And crook the pregnant hinges of the knee Where thrift may follow fawning."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ’twere a kibe, ’Twould put me to my slipper: but I feel not This deity in my bosom: twenty consciences That stand ’twixt me and Milan, candied be they And melt ere they molest!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will the cold brook, Candied with ice, caudle thy morning taste To cure thy o’ernight’s surfeit?"*

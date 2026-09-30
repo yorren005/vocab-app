@@ -5,13 +5,6 @@ status: unread
 ---
 # radioscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioscopy designates (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioscopy designates (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation."*

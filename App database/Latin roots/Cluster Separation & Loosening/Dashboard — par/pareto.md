@@ -5,13 +5,6 @@ status: unread
 ---
 # pareto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian sociologist and economist whose theories influenced the development of fascism in italy (1848-1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian sociologist and economist whose theories influenced the development of fascism in italy (1848-1923).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pareto designates italian sociologist and economist whose theories influenced the development of fascism in italy (1848-1923)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian sociologist and economist whose theories influenced the development of fascism in italy (1848-1923).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian sociologist and economist whose theories influenced the development of fascism in italy (1848-1923).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pareto designates italian sociologist and economist whose theories influenced the development of fascism in italy (1848-1923)."*

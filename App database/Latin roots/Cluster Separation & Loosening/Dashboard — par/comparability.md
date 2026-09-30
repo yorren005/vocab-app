@@ -5,13 +5,6 @@ status: unread
 ---
 # comparability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualities that are comparable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualities that are comparable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comparability designates qualities that are comparable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualities that are comparable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualities that are comparable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comparability designates qualities that are comparable."*

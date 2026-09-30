@@ -5,14 +5,6 @@ status: unread
 ---
 # sequin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Leopopold! _(Twittering.)_ Leeolee! _(Warbling.)_ O Leo! _(They rustle, flutter upon his garments, alight, bright giddy flecks, silvery sequins.)_ BLOOM: A man’s touch."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The marquis then ordered his steward to pay the fisherman twenty sequins; desiring him to call annually for the like sum, as a recompense for the friendly service he had rendered him. 991."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Leopopold! _(Twittering.)_ Leeolee! _(Warbling.)_ O Leo! _(They rustle, flutter upon his garments, alight, bright giddy flecks, silvery sequins.)_ BLOOM: A man’s touch."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The marquis then ordered his steward to pay the fisherman twenty sequins; desiring him to call annually for the like sum, as a recompense for the friendly service he had rendered him. 991."*

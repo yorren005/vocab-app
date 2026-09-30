@@ -5,13 +5,6 @@ status: unread
 ---
 # calendered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Press between rollers or plates so as to smooth, glaze, or thin into sheets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of paper and fabric and leather) having a surface made smooth and glossy especially by pressing between rollers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendered designates press between rollers or plates so as to smooth, glaze, or thin into sheets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Press between rollers or plates so as to smooth, glaze, or thin into sheets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of paper and fabric and leather) having a surface made smooth and glossy especially by pressing between rollers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendered designates press between rollers or plates so as to smooth, glaze, or thin into sheets."*

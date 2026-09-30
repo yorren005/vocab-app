@@ -5,13 +5,6 @@ status: unread
 ---
 # hemerobiidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown lacewings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown lacewings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerobiidae designates brown lacewings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown lacewings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown lacewings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerobiidae designates brown lacewings."*

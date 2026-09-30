@@ -5,15 +5,6 @@ status: unread
 ---
 # temptingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tempting seductive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tempting seductive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Water was given them that they might live longer to yearn for the food, steaming hot and savoury and changed hourly, that was place temptingly before them."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ride away into Syria with Him, or into Idumæa, or anywhere so long as He be saved.” She concluded with her arms around my neck, her face upturned to mine and temptingly close, her eyes greatly solemn and greatly promising."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"He led us, however, to greater spoil than his own tough carcass; for underneath the sod which his hoofs spurned, lay a treasure which glittered as temptingly to geological eyes as gold to the miner, when first struck by his prospecting pick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tempting seductive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tempting seductive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Water was given them that they might live longer to yearn for the food, steaming hot and savoury and changed hourly, that was place temptingly before them."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ride away into Syria with Him, or into Idumæa, or anywhere so long as He be saved.” She concluded with her arms around my neck, her face upturned to mine and temptingly close, her eyes greatly solemn and greatly promising."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"He led us, however, to greater spoil than his own tough carcass; for underneath the sod which his hoofs spurned, lay a treasure which glittered as temptingly to geological eyes as gold to the miner, when first struck by his prospecting pick."*

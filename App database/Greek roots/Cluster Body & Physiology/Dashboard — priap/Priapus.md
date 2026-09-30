@@ -5,15 +5,6 @@ status: unread
 ---
 # priapus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) god of male procreative power and guardian of gardens and vineyards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) god of male procreative power and guardian of gardens and vineyards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s able to freeze the god Priapus, and undo a whole generation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The people chose an old man and gave him a small coffin containing a Priapus-like figure representing Yarilo."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On each of the pots they used formerly to place a statuette or cloth doll dressed as a woman, or a Priapus-like figure made of paste; but this custom, rigorously forbidden by the Church, has fallen into disuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) god of male procreative power and guardian of gardens and vineyards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) god of male procreative power and guardian of gardens and vineyards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s able to freeze the god Priapus, and undo a whole generation."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The people chose an old man and gave him a small coffin containing a Priapus-like figure representing Yarilo."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On each of the pots they used formerly to place a statuette or cloth doll dressed as a woman, or a Priapus-like figure made of paste; but this custom, rigorously forbidden by the Church, has fallen into disuse."*

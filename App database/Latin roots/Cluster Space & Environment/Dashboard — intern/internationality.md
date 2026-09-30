@@ -5,13 +5,6 @@ status: unread
 ---
 # internationality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being international in scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being international in scope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationality designates quality of being international in scope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being international in scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being international in scope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationality designates quality of being international in scope."*

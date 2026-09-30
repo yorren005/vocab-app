@@ -5,13 +5,6 @@ status: unread
 ---
 # oxymoronic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxymoronic designates a combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxymoronic designates a combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements."*

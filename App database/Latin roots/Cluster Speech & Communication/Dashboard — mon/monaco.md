@@ -5,15 +5,6 @@ status: unread
 ---
 # monaco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutional monarchy in a tiny enclave on the french riviera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constitutional monarchy in a tiny enclave on the french riviera.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Not a churlish saint, Lorenzo Monaco? -- St. 26."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Lorenzo Monaco: see under the Monologue of Fra Lippo Lippi. 27."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Lorenzo Monaco: a monk of the order of Camaldoli; a conservative artist of the time, who adhered to the manner of Taddeo Gaddi and his disciples, but Fra Angelico appears likewise to have influenced him. 238."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutional monarchy in a tiny enclave on the french riviera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constitutional monarchy in a tiny enclave on the french riviera.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Not a churlish saint, Lorenzo Monaco? -- St. 26."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Lorenzo Monaco: see under the Monologue of Fra Lippo Lippi. 27."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Lorenzo Monaco: a monk of the order of Camaldoli; a conservative artist of the time, who adhered to the manner of Taddeo Gaddi and his disciples, but Fra Angelico appears likewise to have influenced him. 238."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient dramatic entertainment representing scenes from life usually in a ridiculous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor in a mime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Really, mime was a well-defined case of incipient agoraphobia, as I quickly learned that day I escaped from solitary and punched the guard Thurston on the nose."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"There he was before me, in motley, as though he had absconded from a troupe of mimes, enthusiastic, fabulous."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Our luck may fail: our powers forsake us: our place on the boards be taken by better and younger mimes--the chance of life roll away and leave us shattered and stranded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient dramatic entertainment representing scenes from life usually in a ridiculous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor in a mime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Really, mime was a well-defined case of incipient agoraphobia, as I quickly learned that day I escaped from solitary and punched the guard Thurston on the nose."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"There he was before me, in motley, as though he had absconded from a troupe of mimes, enthusiastic, fabulous."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Our luck may fail: our powers forsake us: our place on the boards be taken by better and younger mimes--the chance of life roll away and leave us shattered and stranded."*

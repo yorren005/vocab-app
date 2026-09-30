@@ -5,15 +5,6 @@ status: unread
 ---
 # pyrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common mineral that consists of iron disulfide, has a pale brass-yellow color and metallic luster, and is burned in making sulfur dioxide and sulfuric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pyrite —called also iron pyrite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Much valuable information on the advantages, disadvantages, and appliances for blast heating was afforded by the smeltermen who contributed to the symposium on “Pyrite Smelting,” which Rickard edited for the _Engineering and Mining Journal_."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rickard focussed scientific and practical opinion on the subject in the symposium on “Pyrite Smelting,” which he called forth and edited, and many celebrated smeltermen have contributed to the progress of pyritic smelting practice."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This action is particularly evident in the tuyere zone of the pyrite furnace, where the silica is present in a white-hot condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common mineral that consists of iron disulfide, has a pale brass-yellow color and metallic luster, and is burned in making sulfur dioxide and sulfuric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pyrite —called also iron pyrite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Much valuable information on the advantages, disadvantages, and appliances for blast heating was afforded by the smeltermen who contributed to the symposium on “Pyrite Smelting,” which Rickard edited for the _Engineering and Mining Journal_."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rickard focussed scientific and practical opinion on the subject in the symposium on “Pyrite Smelting,” which he called forth and edited, and many celebrated smeltermen have contributed to the progress of pyritic smelting practice."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This action is particularly evident in the tuyere zone of the pyrite furnace, where the silica is present in a white-hot condition."*

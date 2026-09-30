@@ -5,15 +5,6 @@ status: unread
 ---
 # tennis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A game played with rackets by two or four players who hit a ball back and forth over a net that divides the court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A game played with rackets by two or four players who hit a ball back and forth over a net that divides the court.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the tennis-court keeper knows better than I, for it is a low ebb of linen with thee when thou keepest not racket there; as thou hast not done a great while, because the rest of thy low countries have made a shift to eat up thy holland."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, but the barber’s man hath been seen with him; and the old ornament of his cheek hath already stuffed tennis balls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man whom both the waters and the wind, In that vast tennis-court, have made the ball For them to play upon, entreats you pity him; He asks of you, that never used to beg."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A game played with rackets by two or four players who hit a ball back and forth over a net that divides the court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A game played with rackets by two or four players who hit a ball back and forth over a net that divides the court.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the tennis-court keeper knows better than I, for it is a low ebb of linen with thee when thou keepest not racket there; as thou hast not done a great while, because the rest of thy low countries have made a shift to eat up thy holland."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, but the barber’s man hath been seen with him; and the old ornament of his cheek hath already stuffed tennis balls."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man whom both the waters and the wind, In that vast tennis-court, have made the ball For them to play upon, entreats you pity him; He asks of you, that never used to beg."*

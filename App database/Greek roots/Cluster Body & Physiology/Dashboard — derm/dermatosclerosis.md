@@ -5,13 +5,6 @@ status: unread
 ---
 # dermatosclerosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatosclerosis designates an autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatosclerosis designates an autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # viva
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination conducted by spoken communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination conducted by spoken communication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"M._ _A Man hanging for Love, drawn when Painting was in its Cradle, with his Dog barking at him, _viva voce_."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Manuela, let us dance another jota to the sound of this music, and viva the Virgin del Pilar," cried Pirli, jumping about like one out of his senses."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Viva the second artillery woman!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination conducted by spoken communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination conducted by spoken communication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"M._ _A Man hanging for Love, drawn when Painting was in its Cradle, with his Dog barking at him, _viva voce_."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Manuela, let us dance another jota to the sound of this music, and viva the Virgin del Pilar," cried Pirli, jumping about like one out of his senses."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Viva the second artillery woman!"*

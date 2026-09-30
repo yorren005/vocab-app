@@ -5,13 +5,6 @@ status: unread
 ---
 # tangshan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city of northeastern china in hebei province.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city of northeastern china in hebei province.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangshan designates an industrial city of northeastern china in hebei province."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city of northeastern china in hebei province.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city of northeastern china in hebei province.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangshan designates an industrial city of northeastern china in hebei province."*

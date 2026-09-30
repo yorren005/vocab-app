@@ -5,15 +5,6 @@ status: unread
 ---
 # rationally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rational manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rational manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Would I be quiet and talk rationally?” “I would be quiet if he liked, and as to talking rationally, I flattered myself I was doing that now.” He fretted, pished, and pshawed."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins’s picture of Hunsford and Rosings rationally softened; and Elizabeth perceived that she must wait for her own visit there, to know the rest."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"With such thoughts as these, among ten hundred others, Fanny proceeded in her journey safely and cheerfully, and as expeditiously as could rationally be hoped in the dirty month of February."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rational manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rational manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Would I be quiet and talk rationally?” “I would be quiet if he liked, and as to talking rationally, I flattered myself I was doing that now.” He fretted, pished, and pshawed."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins’s picture of Hunsford and Rosings rationally softened; and Elizabeth perceived that she must wait for her own visit there, to know the rest."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"With such thoughts as these, among ten hundred others, Fanny proceeded in her journey safely and cheerfully, and as expeditiously as could rationally be hoped in the dirty month of February."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eveningwear
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attire to wear on formal occasions in the evening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attire to wear on formal occasions in the evening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eveningwear designates attire to wear on formal occasions in the evening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attire to wear on formal occasions in the evening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attire to wear on formal occasions in the evening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eveningwear designates attire to wear on formal occasions in the evening."*

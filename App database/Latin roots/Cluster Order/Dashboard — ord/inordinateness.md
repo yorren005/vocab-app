@@ -5,13 +5,6 @@ status: unread
 ---
 # inordinateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inordinateness designates immoderation as a consequence of going beyond sufficient or permitted limits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inordinateness designates immoderation as a consequence of going beyond sufficient or permitted limits."*

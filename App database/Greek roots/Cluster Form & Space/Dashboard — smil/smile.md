@@ -5,15 +5,6 @@ status: unread
 ---
 # smile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change one's facial expression by spreading the lips, often to signal pleasure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loose now and then A scattered smile, and that I’ll live upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change one's facial expression by spreading the lips, often to signal pleasure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loose now and then A scattered smile, and that I’ll live upon."*

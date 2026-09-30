@@ -5,13 +5,6 @@ status: unread
 ---
 # orthoepy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The way a word or a language is customarily spoken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term formerly used for the part of phonology that dealt with the `correct' pronunciation of words and its relation to `correct' orthography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoepy designates the way a word or a language is customarily spoken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The way a word or a language is customarily spoken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term formerly used for the part of phonology that dealt with the `correct' pronunciation of words and its relation to `correct' orthography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoepy designates the way a word or a language is customarily spoken."*

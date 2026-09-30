@@ -5,13 +5,6 @@ status: unread
 ---
 # sagitta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the northern hemisphere between cygnus and aquila and crossed by the milky way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any arrowworm of the genus sagitta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagitta designates a small constellation in the northern hemisphere between cygnus and aquila and crossed by the milky way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the northern hemisphere between cygnus and aquila and crossed by the milky way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any arrowworm of the genus sagitta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagitta designates a small constellation in the northern hemisphere between cygnus and aquila and crossed by the milky way."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # admirableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admirable excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admirable excellence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admirableness designates admirable excellence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admirable excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admirable excellence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admirableness designates admirable excellence."*

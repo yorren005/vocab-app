@@ -5,13 +5,6 @@ status: unread
 ---
 # cedilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedilla designates a diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedilla designates a diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # insulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protect from heat, cold, or noise by surrounding with insulating material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or set apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the precautions thus taken to isolate or insulate the girl are dictated by a regard for her own safety as well as for the safety of others."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the precautions thus taken to isolate or insulate the girl are dictated by a regard for her own safety as well as for the safety of others."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Why insulate him thus from all sympathy and kindness?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protect from heat, cold, or noise by surrounding with insulating material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or set apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the precautions thus taken to isolate or insulate the girl are dictated by a regard for her own safety as well as for the safety of others."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the precautions thus taken to isolate or insulate the girl are dictated by a regard for her own safety as well as for the safety of others."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Why insulate him thus from all sympathy and kindness?"*

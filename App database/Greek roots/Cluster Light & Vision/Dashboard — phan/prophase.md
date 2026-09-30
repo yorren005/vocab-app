@@ -5,13 +5,6 @@ status: unread
 ---
 # prophase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The initial stage of mitosis and of the mitotic division of meiosis characterized by the condensation of chromosomes consisting of two chromatids, disappearance of the nucleolus and nuclear membrane, and formation of mitotic spindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The initial stage of the first division of meiosis in which the chromosomes become visible, homologous pairs of chromosomes undergo synapsis and crossing over, chiasmata appear, chromosomes condense with homologues visible as tetrads, and the nuclear membrane and nucleolus disappear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prophase designates the initial stage of mitosis and of the mitotic division of meiosis characterized by the condensation of chromosomes consisting of two chromatids, disappearance of the nucleolus and nuclear membrane, and formation of mitotic spindle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The initial stage of mitosis and of the mitotic division of meiosis characterized by the condensation of chromosomes consisting of two chromatids, disappearance of the nucleolus and nuclear membrane, and formation of mitotic spindle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The initial stage of the first division of meiosis in which the chromosomes become visible, homologous pairs of chromosomes undergo synapsis and crossing over, chiasmata appear, chromosomes condense with homologues visible as tetrads, and the nuclear membrane and nucleolus disappear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prophase designates the initial stage of mitosis and of the mitotic division of meiosis characterized by the condensation of chromosomes consisting of two chromatids, disappearance of the nucleolus and nuclear membrane, and formation of mitotic spindle."*

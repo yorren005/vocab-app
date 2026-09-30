@@ -5,13 +5,6 @@ status: unread
 ---
 # actinometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometer designates any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometer designates any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction."*

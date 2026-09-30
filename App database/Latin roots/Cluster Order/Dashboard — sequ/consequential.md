@@ -5,15 +5,6 @@ status: unread
 ---
 # consequential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having important issues or results.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having important issues or results.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is this place of abomination consecrated ground?” “I don’t know nothink of consequential ground,” says Jo, still staring."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Timothy Shelley, a handsome, consequential gentleman of middle age, who piques himself on his enlightened opinions, is expecting two guests to dinner--his eldest son, and his son's friend, T."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Merryweather, who is to be our companion in to-night’s adventure.” “We’re hunting in couples again, Doctor, you see,” said Jones in his consequential way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having important issues or results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having important issues or results.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is this place of abomination consecrated ground?” “I don’t know nothink of consequential ground,” says Jo, still staring."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Timothy Shelley, a handsome, consequential gentleman of middle age, who piques himself on his enlightened opinions, is expecting two guests to dinner--his eldest son, and his son's friend, T."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Merryweather, who is to be our companion in to-night’s adventure.” “We’re hunting in couples again, Doctor, you see,” said Jones in his consequential way."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # hallmark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive characteristic or attribute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark on an article of trade to indicate its origin and authenticity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Above and beyond them all, unsleeping, ever-solicitous, unerring, is the Pilot of their bark, the Charterer of their course, the Founder of their spiritual fellowship, the Bestower of that primacy which is the hallmark of their destiny."*
-> - 📜 **James Joyce (*Ulysses*):** *"BEAUFOY: _(Shouts.)_ It’s a damnably foul lie, showing the moral rottenness of the man! _(He extends his portfolio.)_ We have here damning evidence, the _corpus delicti_, my lord, a specimen of my maturer work disfigured by the hallmark of the beast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive characteristic or attribute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark on an article of trade to indicate its origin and authenticity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Above and beyond them all, unsleeping, ever-solicitous, unerring, is the Pilot of their bark, the Charterer of their course, the Founder of their spiritual fellowship, the Bestower of that primacy which is the hallmark of their destiny."*
+> - 📜 **James Joyce (*Ulysses*):** *"BEAUFOY: _(Shouts.)_ It’s a damnably foul lie, showing the moral rottenness of the man! _(He extends his portfolio.)_ We have here damning evidence, the _corpus delicti_, my lord, a specimen of my maturer work disfigured by the hallmark of the beast."*

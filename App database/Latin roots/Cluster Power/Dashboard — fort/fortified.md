@@ -5,15 +5,6 @@ status: unread
 ---
 # fortified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make strong or stronger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclose by or as if by a fortification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On us thou canst not enter but by death; For, I protest, we are well fortified And strong enough to issue out and fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he hath won, that hath he fortified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make strong or stronger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclose by or as if by a fortification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On us thou canst not enter but by death; For, I protest, we are well fortified And strong enough to issue out and fight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he hath won, that hath he fortified."*

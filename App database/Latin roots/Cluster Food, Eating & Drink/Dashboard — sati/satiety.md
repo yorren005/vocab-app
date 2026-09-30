@@ -5,15 +5,6 @@ status: unread
 ---
 # satiety
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being satisfactorily full and unable to take on more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being satisfactorily full and unable to take on more.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me thy mind; for I have Pisa left And am to Padua come as he that leaves A shallow plash to plunge him in the deep, And with satiety seeks to quench his thirst."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mere satiety of commendations."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When she left me, I felt comparatively strong and revived: ere long satiety of repose and desire for action stirred me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being satisfactorily full and unable to take on more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being satisfactorily full and unable to take on more.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me thy mind; for I have Pisa left And am to Padua come as he that leaves A shallow plash to plunge him in the deep, And with satiety seeks to quench his thirst."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mere satiety of commendations."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When she left me, I felt comparatively strong and revived: ere long satiety of repose and desire for action stirred me."*

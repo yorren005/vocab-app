@@ -5,13 +5,6 @@ status: unread
 ---
 # marcionism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The christian heresy of the 2nd and 3rd centuries that rejected the old testament and denied the incarnation of god in jesus as a human.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The christian heresy of the 2nd and 3rd centuries that rejected the old testament and denied the incarnation of god in jesus as a human.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marcionism designates the christian heresy of the 2nd and 3rd centuries that rejected the old testament and denied the incarnation of god in jesus as a human."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The christian heresy of the 2nd and 3rd centuries that rejected the old testament and denied the incarnation of god in jesus as a human.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The christian heresy of the 2nd and 3rd centuries that rejected the old testament and denied the incarnation of god in jesus as a human.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marcionism designates the christian heresy of the 2nd and 3rd centuries that rejected the old testament and denied the incarnation of god in jesus as a human."*

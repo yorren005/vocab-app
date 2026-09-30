@@ -5,15 +5,6 @@ status: unread
 ---
 # tabular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or arranged in table form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat; like a table in form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The tabular standard. § 1. #Relative positions of gold and silver: historical.# It is not possible within the limits of our space to enter here into the details of the world's monetary history."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"After determining the tabular standard, the actual regulation of the quantity of money to make prices conform to the standard might be accomplished in one of several ways."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the plan of a "compensated gold dollar" the legal weight of the gold coins would be increased or decreased from time to time to conform with the tabular standard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or arranged in table form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat; like a table in form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The tabular standard. § 1. #Relative positions of gold and silver: historical.# It is not possible within the limits of our space to enter here into the details of the world's monetary history."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"After determining the tabular standard, the actual regulation of the quantity of money to make prices conform to the standard might be accomplished in one of several ways."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the plan of a "compensated gold dollar" the legal weight of the gold coins would be increased or decreased from time to time to conform with the tabular standard."*

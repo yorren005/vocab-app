@@ -5,13 +5,6 @@ status: unread
 ---
 # panda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reddish-brown old world raccoon-like carnivore; in some classifications considered unrelated to the giant pandas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panda designates large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reddish-brown old world raccoon-like carnivore; in some classifications considered unrelated to the giant pandas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panda designates large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae."*

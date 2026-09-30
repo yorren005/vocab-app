@@ -5,14 +5,6 @@ status: unread
 ---
 # missioner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was the men’s temperance retreat conducted by the missioner, the reverend John Hughes S."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Under this order a commission was 100:15 appointed, and Benjamin Franklin was one of the com- missioners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It was the men’s temperance retreat conducted by the missioner, the reverend John Hughes S."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Under this order a commission was 100:15 appointed, and Benjamin Franklin was one of the com- missioners."*

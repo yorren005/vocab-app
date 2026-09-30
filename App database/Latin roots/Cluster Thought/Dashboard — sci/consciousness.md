@@ -5,15 +5,6 @@ status: unread
 ---
 # consciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alert cognitive state in which you are aware of yourself and your situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having knowledge of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told her that it was nothing to worry about, and that he had only lost consciousness for a moment."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had been wounded and, losing consciousness, had fallen to the ground."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to the guilty nature of my own consciousness after what I had been thinking, it must have been expressed in the colour of my cheeks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alert cognitive state in which you are aware of yourself and your situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having knowledge of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told her that it was nothing to worry about, and that he had only lost consciousness for a moment."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had been wounded and, losing consciousness, had fallen to the ground."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As to the guilty nature of my own consciousness after what I had been thinking, it must have been expressed in the colour of my cheeks."*

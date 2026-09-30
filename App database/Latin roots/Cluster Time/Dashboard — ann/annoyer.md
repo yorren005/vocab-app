@@ -5,13 +5,6 @@ status: unread
 ---
 # annoyer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone given to teasing (as by mocking or stirring curiosity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone given to teasing (as by mocking or stirring curiosity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annoyer designates someone given to teasing (as by mocking or stirring curiosity)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone given to teasing (as by mocking or stirring curiosity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone given to teasing (as by mocking or stirring curiosity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annoyer designates someone given to teasing (as by mocking or stirring curiosity)."*

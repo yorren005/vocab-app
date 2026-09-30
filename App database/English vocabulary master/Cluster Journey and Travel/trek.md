@@ -5,20 +5,6 @@ status: unread
 ---
 # trek
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Long walk
-> 2. **Nuance / Usage**: Travel by ox wagon
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trek the target*) and intransitive clauses (*treking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Esha Mitra, Aishwarya S Iyer and Ross Adkin (*‘Treated like criminals’: Shackling of Indians aboard 40-hour migrant flight sparks new outrage against Trump*):** *"Young Indians looking for work opportunities have made up a sizeable portion of undocumented migrants in the US, many after making the dangerous trek through Latin America to reach the US southern border."*
-> - 📜 **Robert Louis Stevenson (*The Beach of Falesá*):** *"Before that they had been a good deal on the move, trekking about after the white man, who was one of those rolling stones that keep going round after a soft job."*
-> - 📜 **Haggard, H. Rider (Henry Rider) (*Swallow: A Tale of the Great Trek*):** *"races—a tale of the great Trek of 1836."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Long walk
+> 2. **Nuance / Usage**: Travel by ox wagon
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trek the target*) and intransitive clauses (*treking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Esha Mitra, Aishwarya S Iyer and Ross Adkin (*‘Treated like criminals’: Shackling of Indians aboard 40-hour migrant flight sparks new outrage against Trump*):** *"Young Indians looking for work opportunities have made up a sizeable portion of undocumented migrants in the US, many after making the dangerous trek through Latin America to reach the US southern border."*
+> - 📜 **Robert Louis Stevenson (*The Beach of Falesá*):** *"Before that they had been a good deal on the move, trekking about after the white man, who was one of those rolling stones that keep going round after a soft job."*
+> - 📜 **Haggard, H. Rider (Henry Rider) (*Swallow: A Tale of the Great Trek*):** *"races—a tale of the great Trek of 1836."*

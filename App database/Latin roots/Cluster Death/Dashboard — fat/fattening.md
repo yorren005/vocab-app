@@ -5,15 +5,6 @@ status: unread
 ---
 # fattening
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fat or plump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or used in the process of finishing or fattening up for slaughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And you can buy the house, and a slip of a pig I can be fattening against the Christmas market." "No!" "Och, agra," she whined, "you wouldn't go back on the words of the poor girl, and her dying in my arms?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How many years have you been fattening on the commune?” Karp shouted at him."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The cattle are driven slowly forward, feeding as they come, and reach the vicinity of the Kansas railroads when the grass is in good condition for their summer fattening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fat or plump.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or used in the process of finishing or fattening up for slaughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And you can buy the house, and a slip of a pig I can be fattening against the Christmas market." "No!" "Och, agra," she whined, "you wouldn't go back on the words of the poor girl, and her dying in my arms?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How many years have you been fattening on the commune?” Karp shouted at him."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The cattle are driven slowly forward, feeding as they come, and reach the vicinity of the Kansas railroads when the grass is in good condition for their summer fattening."*

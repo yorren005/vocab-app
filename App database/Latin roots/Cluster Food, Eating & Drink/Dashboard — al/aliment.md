@@ -5,15 +5,6 @@ status: unread
 ---
 # aliment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give nourishment to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the Propontis, as far as I can learn, none of that peculiar substance called _brit_ is to be found, the aliment of the right whale."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Liberty is to faction what air is to fire, an aliment without which it instantly expires."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is then visited by those elevated meditations which are the proper aliment of noble souls, and are, like manna, sent from heaven, in the wilderness of this world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give nourishment to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the Propontis, as far as I can learn, none of that peculiar substance called _brit_ is to be found, the aliment of the right whale."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Liberty is to faction what air is to fire, an aliment without which it instantly expires."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is then visited by those elevated meditations which are the proper aliment of noble souls, and are, like manna, sent from heaven, in the wilderness of this world."*

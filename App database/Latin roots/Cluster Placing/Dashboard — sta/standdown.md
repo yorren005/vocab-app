@@ -5,13 +5,6 @@ status: unread
 ---
 # standdown
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suspension and relaxation from an alert state or a state of readiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) a temporary stop of offensive military action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standdown designates a suspension and relaxation from an alert state or a state of readiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suspension and relaxation from an alert state or a state of readiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) a temporary stop of offensive military action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standdown designates a suspension and relaxation from an alert state or a state of readiness."*

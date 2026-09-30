@@ -5,15 +5,6 @@ status: unread
 ---
 # turbid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of liquids) clouded as with sediment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of liquids) clouded as with sediment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those were slow, silent, often turbid; flowing over beds of mud into which the incautious wader might sink and vanish unawares."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All John Reed’s violent tyrannies, all his sisters’ proud indifference, all his mother’s aversion, all the servants’ partiality, turned up in my disturbed mind like a dark deposit in a turbid well."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That beck itself was then a torrent, turbid and curbless: it tore asunder the wood, and sent a raving sound through the air, often thickened with wild rain or whirling sleet; and for the forest on its banks, _that_ showed only ranks of skeletons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of liquids) clouded as with sediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of liquids) clouded as with sediment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those were slow, silent, often turbid; flowing over beds of mud into which the incautious wader might sink and vanish unawares."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All John Reed’s violent tyrannies, all his sisters’ proud indifference, all his mother’s aversion, all the servants’ partiality, turned up in my disturbed mind like a dark deposit in a turbid well."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That beck itself was then a torrent, turbid and curbless: it tore asunder the wood, and sent a raving sound through the air, often thickened with wild rain or whirling sleet; and for the forest on its banks, _that_ showed only ranks of skeletons."*

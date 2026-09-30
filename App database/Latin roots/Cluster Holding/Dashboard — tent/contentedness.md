@@ -5,15 +5,6 @@ status: unread
 ---
 # contentedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being contented with your situation in life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being contented with your situation in life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel waited, with a certain unuttered contentedness, to have her movements directed; she liked Mr."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In recent discussion of the control of the tropics, the too great contentedness of tropical peoples has been brought out prominently."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Those tears, and a few you dropped when my brother teased you about your supposed fondness for an apple-dumpling, were the only interruptions to the calm contentedness of your unclouded brow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being contented with your situation in life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being contented with your situation in life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel waited, with a certain unuttered contentedness, to have her movements directed; she liked Mr."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In recent discussion of the control of the tropics, the too great contentedness of tropical peoples has been brought out prominently."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Those tears, and a few you dropped when my brother teased you about your supposed fondness for an apple-dumpling, were the only interruptions to the calm contentedness of your unclouded brow."*

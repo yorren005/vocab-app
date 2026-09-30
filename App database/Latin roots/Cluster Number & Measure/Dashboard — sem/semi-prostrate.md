@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-prostrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfectly prostrate; prostrate for part of its length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfectly prostrate; prostrate for part of its length.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-prostrate designates imperfectly prostrate; prostrate for part of its length."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfectly prostrate; prostrate for part of its length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfectly prostrate; prostrate for part of its length.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-prostrate designates imperfectly prostrate; prostrate for part of its length."*

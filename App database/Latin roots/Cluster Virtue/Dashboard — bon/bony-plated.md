@@ -5,13 +5,6 @@ status: unread
 ---
 # bony-plated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with bony plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with bony plates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bony-plated designates covered with bony plates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with bony plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with bony plates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bony-plated designates covered with bony plates."*

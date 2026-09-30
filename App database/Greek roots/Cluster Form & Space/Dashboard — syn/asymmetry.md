@@ -5,13 +5,6 @@ status: unread
 ---
 # asymmetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack or absence of symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack or absence of symmetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetry designates lack or absence of symmetry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack or absence of symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack or absence of symmetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetry designates lack or absence of symmetry."*

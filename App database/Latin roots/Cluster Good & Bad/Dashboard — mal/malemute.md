@@ -5,13 +5,6 @@ status: unread
 ---
 # malemute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed of sled dog developed in alaska.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed of sled dog developed in alaska.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malemute designates breed of sled dog developed in alaska."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed of sled dog developed in alaska.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed of sled dog developed in alaska.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malemute designates breed of sled dog developed in alaska."*

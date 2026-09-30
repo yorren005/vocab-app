@@ -5,13 +5,6 @@ status: unread
 ---
 # pneumococcus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterium (Streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bacterium (Streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumococcus designates a bacterium (streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterium (Streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bacterium (Streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumococcus designates a bacterium (streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung."*

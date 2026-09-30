@@ -5,15 +5,6 @@ status: unread
 ---
 # detestation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hate coupled with disgust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hate coupled with disgust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"How I detest them.” But this detestation, though so just, was of short duration, for she looked again and exclaimed, “Delightful! mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Pain, shame, ire, impatience, disgust, detestation, seemed momentarily to hold a quivering conflict in the large pupil dilating under his ebon eyebrow."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But as he sat gloating over me, I was supported by a scornful detestation of him that sealed my lips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hate coupled with disgust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hate coupled with disgust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"How I detest them.” But this detestation, though so just, was of short duration, for she looked again and exclaimed, “Delightful! mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Pain, shame, ire, impatience, disgust, detestation, seemed momentarily to hold a quivering conflict in the large pupil dilating under his ebon eyebrow."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But as he sat gloating over me, I was supported by a scornful detestation of him that sealed my lips."*

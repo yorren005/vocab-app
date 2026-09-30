@@ -5,13 +5,6 @@ status: unread
 ---
 # rarebit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheese melted with ale or beer served over toast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheese melted with ale or beer served over toast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rarebit designates cheese melted with ale or beer served over toast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheese melted with ale or beer served over toast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheese melted with ale or beer served over toast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rarebit designates cheese melted with ale or beer served over toast."*

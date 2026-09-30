@@ -5,15 +5,6 @@ status: unread
 ---
 # sussex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A county in southern england on the english channel; formerly an anglo-saxon kingdom that was captured by wessex in the 9th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A county in southern england on the english channel; formerly an anglo-saxon kingdom that was captured by wessex in the 9th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Born at Field Place, Horsham, Sussex, on August 4, 1792, simultaneously with the French Revolution, he had more than a drop of wildness in his blood."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"About 1869 or 1870 he came back to Europe and took a small estate in Sussex, near Horsham."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In our own country the wealds of Kent, Surrey, and Sussex are remnants of the great forest of Anderida, which once clothed the whole of the south-eastern portion of the island."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A county in southern england on the english channel; formerly an anglo-saxon kingdom that was captured by wessex in the 9th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A county in southern england on the english channel; formerly an anglo-saxon kingdom that was captured by wessex in the 9th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Born at Field Place, Horsham, Sussex, on August 4, 1792, simultaneously with the French Revolution, he had more than a drop of wildness in his blood."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"About 1869 or 1870 he came back to Europe and took a small estate in Sussex, near Horsham."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In our own country the wealds of Kent, Surrey, and Sussex are remnants of the great forest of Anderida, which once clothed the whole of the south-eastern portion of the island."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rhizophoraceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees and shrubs that usually form dense jungles along tropical seacoasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees and shrubs that usually form dense jungles along tropical seacoasts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizophoraceae designates trees and shrubs that usually form dense jungles along tropical seacoasts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees and shrubs that usually form dense jungles along tropical seacoasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees and shrubs that usually form dense jungles along tropical seacoasts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizophoraceae designates trees and shrubs that usually form dense jungles along tropical seacoasts."*

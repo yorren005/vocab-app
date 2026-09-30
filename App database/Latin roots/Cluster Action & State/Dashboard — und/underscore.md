@@ -5,15 +5,6 @@ status: unread
 ---
 # underscore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn underneath (especially under written matter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A single underscore after a symbol indicates a subscript."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Denoted subscripts by an underscore before a series of subscripted characters enclosed in curly braces, e.g."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"In the text version, italics are denoted by underscores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn underneath (especially under written matter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A single underscore after a symbol indicates a subscript."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Denoted subscripts by an underscore before a series of subscripted characters enclosed in curly braces, e.g."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"In the text version, italics are denoted by underscores."*

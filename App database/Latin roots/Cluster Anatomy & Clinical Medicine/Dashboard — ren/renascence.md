@@ -5,13 +5,6 @@ status: unread
 ---
 # renascence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of european history at the close of the middle ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second or new birth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Renascence and Other Poems by Edna St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of european history at the close of the middle ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second or new birth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Renascence and Other Poems by Edna St."*

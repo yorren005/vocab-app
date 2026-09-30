@@ -5,20 +5,6 @@ status: unread
 ---
 # wheeze
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sound of wheezing
-> 2. **Nuance / Usage**: Make a sound resembling that of wheezing
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wheeze the target*) and intransitive clauses (*wheezing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"who was it gave me the wheeze she was doing the other business?"*
-> - 📜 **Herbert George Jenkins (*Bindle Omnibus*):** *"Mrs. Hearty began to shake and wheeze with laughter, and Millie stood looking at Bindle."*
-> - 📜 **Robert Boston (*A Thorn for the Flesh*):** *"He began to wheeze again, and tears rolled down his furrowed cheeks. Nate was laughing, too, infected by Check's contagious wheezing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sound of wheezing
+> 2. **Nuance / Usage**: Make a sound resembling that of wheezing
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wheeze the target*) and intransitive clauses (*wheezing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"who was it gave me the wheeze she was doing the other business?"*
+> - 📜 **Herbert George Jenkins (*Bindle Omnibus*):** *"Mrs. Hearty began to shake and wheeze with laughter, and Millie stood looking at Bindle."*
+> - 📜 **Robert Boston (*A Thorn for the Flesh*):** *"He began to wheeze again, and tears rolled down his furrowed cheeks. Nate was laughing, too, infected by Check's contagious wheezing."*

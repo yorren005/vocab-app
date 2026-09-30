@@ -5,13 +5,6 @@ status: unread
 ---
 # macrobiotics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrobiotics designates the theory of promoting health and longevity by means of diet (especially whole beans and grains)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrobiotics designates the theory of promoting health and longevity by means of diet (especially whole beans and grains)."*

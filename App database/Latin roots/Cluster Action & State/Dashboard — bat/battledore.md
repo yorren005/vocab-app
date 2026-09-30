@@ -5,15 +5,6 @@ status: unread
 ---
 # battledore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light long-handled racket used by badminton players.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient racket game.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, I must go in now; and you too: it darkens.” But I stayed out a few minutes longer with Adèle and Pilot—ran a race with her, and played a game of battledore and shuttlecock."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"A life like a shuttlecock may be toss'd With the hand of fate for a battledore; But it matters much for your sweet soul lost, As much as a million souls and more."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"We found two in a cupboard, among a heap of old toys, tops, and hoops, and battledores and shuttlecocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light long-handled racket used by badminton players.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient racket game.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, I must go in now; and you too: it darkens.” But I stayed out a few minutes longer with Adèle and Pilot—ran a race with her, and played a game of battledore and shuttlecock."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"A life like a shuttlecock may be toss'd With the hand of fate for a battledore; But it matters much for your sweet soul lost, As much as a million souls and more."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"We found two in a cupboard, among a heap of old toys, tops, and hoops, and battledores and shuttlecocks."*

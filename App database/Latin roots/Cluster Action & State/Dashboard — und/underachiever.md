@@ -5,13 +5,6 @@ status: unread
 ---
 # underachiever
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student who does not perform as well as expected or as well as the iq indicates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student who does not perform as well as expected or as well as the iq indicates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underachiever designates a student who does not perform as well as expected or as well as the iq indicates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student who does not perform as well as expected or as well as the iq indicates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student who does not perform as well as expected or as well as the iq indicates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underachiever designates a student who does not perform as well as expected or as well as the iq indicates."*

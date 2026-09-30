@@ -5,15 +5,6 @@ status: unread
 ---
 # deciphered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read with difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Champollion deciphered the wrinkled granite hieroglyphics."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His knowledge of nature’s danger signals did not enable him to say; he had never deciphered the code."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read with difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Champollion deciphered the wrinkled granite hieroglyphics."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His knowledge of nature’s danger signals did not enable him to say; he had never deciphered the code."*

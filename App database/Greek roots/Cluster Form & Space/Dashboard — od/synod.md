@@ -5,15 +5,6 @@ status: unread
 ---
 # synod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical governing or advisory council: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assembly of bishops in the Roman Catholic Church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gods and goddesses, All the whole synod of them!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus Rosalind of many parts By heavenly synod was devised, Of many faces, eyes, and hearts To have the touches dearest prized."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or we poor ghosts will cry To th’ shining synod of the rest Against thy deity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical governing or advisory council: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assembly of bishops in the Roman Catholic Church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gods and goddesses, All the whole synod of them!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus Rosalind of many parts By heavenly synod was devised, Of many faces, eyes, and hearts To have the touches dearest prized."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or we poor ghosts will cry To th’ shining synod of the rest Against thy deity."*

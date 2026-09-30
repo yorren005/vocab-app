@@ -5,15 +5,6 @@ status: unread
 ---
 # prime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A number that has no factor but itself and 1.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of greatest prosperity or productivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art thy mother’s glass and she in thee Calls back the lovely April of her prime, So thou through windows of thine age shalt see, Despite of wrinkles this thy golden time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, beauty, wisdom, courage, all That happiness and prime can happy call."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A number that has no factor but itself and 1.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of greatest prosperity or productivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art thy mother’s glass and she in thee Calls back the lovely April of her prime, So thou through windows of thine age shalt see, Despite of wrinkles this thy golden time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, beauty, wisdom, courage, all That happiness and prime can happy call."*

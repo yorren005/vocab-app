@@ -5,13 +5,6 @@ status: unread
 ---
 # dramaturgy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of dramatic composition and theatrical representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or technique of dramatic composition and theatrical representation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramaturgy designates the art or technique of dramatic composition and theatrical representation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of dramatic composition and theatrical representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or technique of dramatic composition and theatrical representation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramaturgy designates the art or technique of dramatic composition and theatrical representation."*

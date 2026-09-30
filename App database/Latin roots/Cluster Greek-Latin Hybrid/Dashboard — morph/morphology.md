@@ -5,13 +5,6 @@ status: unread
 ---
 # morphology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the structure of animals and plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Studies of the rules for forming admissible words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphology designates the branch of biology that deals with the structure of animals and plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the structure of animals and plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Studies of the rules for forming admissible words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphology designates the branch of biology that deals with the structure of animals and plants."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # dolce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gently and sweetly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gently and sweetly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Those Cinghalese lobbing about in the sun in _dolce far niente_, not doing a hand’s turn all day."*
-> - 📜 **James Joyce (*Ulysses*):** *"Seeing that the ruse worked and the coast was clear they left the shelter or shanty together and the _élite_ society of oilskin and company whom nothing short of an earthquake would move out of their _dolce far niente_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gently and sweetly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gently and sweetly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Those Cinghalese lobbing about in the sun in _dolce far niente_, not doing a hand’s turn all day."*
+> - 📜 **James Joyce (*Ulysses*):** *"Seeing that the ruse worked and the coast was clear they left the shelter or shanty together and the _élite_ society of oilskin and company whom nothing short of an earthquake would move out of their _dolce far niente_."*

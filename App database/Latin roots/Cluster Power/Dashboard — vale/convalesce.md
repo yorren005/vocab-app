@@ -5,15 +5,6 @@ status: unread
 ---
 # convalesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get over an illness or shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, there is this noteworthy difference between savage and civilized; that while a sick, civilized man may be six months convalescing, generally speaking, a sick savage is almost half-well again in a day."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yielding to the solicitation of friends she immediately returned to Washington, where, after a serious illness of several weeks, she, when apparently convalescing, relapsed, and fell another martyr to a love of country." Dr."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Two or three others died, and when they left, five or six weeks afterward, all had recovered, sufficiently at least to bear removal, save three whom they left convalescing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get over an illness or shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, there is this noteworthy difference between savage and civilized; that while a sick, civilized man may be six months convalescing, generally speaking, a sick savage is almost half-well again in a day."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yielding to the solicitation of friends she immediately returned to Washington, where, after a serious illness of several weeks, she, when apparently convalescing, relapsed, and fell another martyr to a love of country." Dr."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Two or three others died, and when they left, five or six weeks afterward, all had recovered, sufficiently at least to bear removal, save three whom they left convalescing."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hypothetical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical possibility, circumstance, statement, proposal, situation, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That was a hypothetical case, arising out of Sir Leicester’s unconsciously carrying the matter with so high a hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I do not dispute your hypothetical case."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle reviewed the sermon with some severity, and intimated—in the usual hypothetical case of the Church being “thrown open”—what kind of sermon _he_ would have given them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical possibility, circumstance, statement, proposal, situation, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That was a hypothetical case, arising out of Sir Leicester’s unconsciously carrying the matter with so high a hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I do not dispute your hypothetical case."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle reviewed the sermon with some severity, and intimated—in the usual hypothetical case of the Church being “thrown open”—what kind of sermon _he_ would have given them."*

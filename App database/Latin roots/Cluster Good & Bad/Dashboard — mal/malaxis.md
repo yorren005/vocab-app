@@ -5,13 +5,6 @@ status: unread
 ---
 # malaxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaxis designates large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaxis designates large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan."*

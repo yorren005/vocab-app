@@ -5,15 +5,6 @@ status: unread
 ---
 # inhuman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without compunction or human feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or resembling something nonhuman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it should prove That thou art so inhuman,—’twill not prove so: And yet I know not, thou didst hate her deadly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, O What shall I say to thee, Lord Scroop? thou cruel, Ingrateful, savage, and inhuman creature!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That face of his the hungry cannibals Would not have touched, would not have stained with blood; But you are more inhuman, more inexorable, O, ten times more than tigers of Hyrcania."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without compunction or human feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or resembling something nonhuman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it should prove That thou art so inhuman,—’twill not prove so: And yet I know not, thou didst hate her deadly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, O What shall I say to thee, Lord Scroop? thou cruel, Ingrateful, savage, and inhuman creature!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That face of his the hungry cannibals Would not have touched, would not have stained with blood; But you are more inhuman, more inexorable, O, ten times more than tigers of Hyrcania."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # triadic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A union or group of three : trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chord of three tones consisting of a root with its third and fifth and constituting the harmonic basis of tonal music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triadic designates a union or group of three : trinity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A union or group of three : trinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chord of three tones consisting of a root with its third and fifth and constituting the harmonic basis of tonal music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triadic designates a union or group of three : trinity."*

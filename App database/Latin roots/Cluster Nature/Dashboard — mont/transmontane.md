@@ -5,13 +5,6 @@ status: unread
 ---
 # transmontane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or coming from the other side of the mountains (from the speaker).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or coming from the other side of the mountains (from the speaker).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmontane designates on or coming from the other side of the mountains (from the speaker)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On or coming from the other side of the mountains (from the speaker).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or coming from the other side of the mountains (from the speaker).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmontane designates on or coming from the other side of the mountains (from the speaker)."*

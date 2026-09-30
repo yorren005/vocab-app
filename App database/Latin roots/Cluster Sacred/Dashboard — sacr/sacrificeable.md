@@ -5,13 +5,6 @@ status: unread
 ---
 # sacrificeable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: May be deliberately sacrificed to achieve an objective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be deliberately sacrificed to achieve an objective.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrificeable designates may be deliberately sacrificed to achieve an objective."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: May be deliberately sacrificed to achieve an objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be deliberately sacrificed to achieve an objective.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacrificeable designates may be deliberately sacrificed to achieve an objective."*

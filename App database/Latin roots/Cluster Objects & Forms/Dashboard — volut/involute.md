@@ -5,13 +5,6 @@ status: unread
 ---
 # involute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of petals or leaves in bud; having margins rolled inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of some shells) closely coiled so that the axis is obscured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, involute designates especially of petals or leaves in bud; having margins rolled inward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of petals or leaves in bud; having margins rolled inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of some shells) closely coiled so that the axis is obscured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, involute designates especially of petals or leaves in bud; having margins rolled inward."*

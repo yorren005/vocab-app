@@ -5,15 +5,6 @@ status: unread
 ---
 # architecture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural product or work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline dealing with the principles of design and construction and ornamentation of fine buildings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The graceful pile of cathedral architecture rose dimly on their left hand, but it was lost upon them now."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The new building was not only new, but declared itself to be so; intended only for offices, and enclosed behind by stable-yards, no uniformity of architecture had been thought necessary."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now glanced sideways at this piece of architecture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural product or work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline dealing with the principles of design and construction and ornamentation of fine buildings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The graceful pile of cathedral architecture rose dimly on their left hand, but it was lost upon them now."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The new building was not only new, but declared itself to be so; intended only for offices, and enclosed behind by stable-yards, no uniformity of architecture had been thought necessary."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now glanced sideways at this piece of architecture."*

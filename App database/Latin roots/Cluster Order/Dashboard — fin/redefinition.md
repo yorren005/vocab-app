@@ -5,13 +5,6 @@ status: unread
 ---
 # redefinition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving a new definition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a new definition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redefinition designates the act of giving a new definition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving a new definition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a new definition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redefinition designates the act of giving a new definition."*

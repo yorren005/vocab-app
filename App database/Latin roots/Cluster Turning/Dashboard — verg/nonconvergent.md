@@ -5,13 +5,6 @@ status: unread
 ---
 # nonconvergent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of lines, planes, or surfaces) never meeting or crossing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of lines, planes, or surfaces) never meeting or crossing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconvergent designates (of lines, planes, or surfaces) never meeting or crossing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of lines, planes, or surfaces) never meeting or crossing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of lines, planes, or surfaces) never meeting or crossing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconvergent designates (of lines, planes, or surfaces) never meeting or crossing."*

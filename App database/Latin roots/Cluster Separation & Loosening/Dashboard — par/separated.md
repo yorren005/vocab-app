@@ -5,15 +5,6 @@ status: unread
 ---
 # separated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as a barrier between; stand between.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three glorious suns, each one a perfect sun; Not separated with the racking clouds, But severed in a pale clear-shining sky."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our separated fortune Shall keep us both the safer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return unto thy lord; Bid him not fear the separated council."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as a barrier between; stand between.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three glorious suns, each one a perfect sun; Not separated with the racking clouds, But severed in a pale clear-shining sky."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our separated fortune Shall keep us both the safer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return unto thy lord; Bid him not fear the separated council."*

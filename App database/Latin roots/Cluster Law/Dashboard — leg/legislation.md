@@ -5,15 +5,6 @@ status: unread
 ---
 # legislation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Law enacted by a legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or enacting laws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other protective labor and social legislation 23."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Civil War arose more immediately out of a difference of opinion as to the rights of states to be supreme in certain fields of legislation, but back of this political issue was the economic problem of slave labor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What shall be the actual rate as between these extremes is a question whose answer depends on our economic legislation as to ownership, exploitation, prices, use, and substitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Law enacted by a legislative body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or enacting laws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other protective labor and social legislation 23."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Civil War arose more immediately out of a difference of opinion as to the rights of states to be supreme in certain fields of legislation, but back of this political issue was the economic problem of slave labor."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What shall be the actual rate as between these extremes is a question whose answer depends on our economic legislation as to ownership, exploitation, prices, use, and substitution."*

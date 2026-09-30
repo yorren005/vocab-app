@@ -5,13 +5,6 @@ status: unread
 ---
 # peripherally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or at or near a periphery or according to a peripheral role or function or relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or at or near a periphery or according to a peripheral role or function or relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripherally designates in or at or near a periphery or according to a peripheral role or function or relationship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In or at or near a periphery or according to a peripheral role or function or relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or at or near a periphery or according to a peripheral role or function or relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripherally designates in or at or near a periphery or according to a peripheral role or function or relationship."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # overweening
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Arrogant, presumptuous
-> 2. **Nuance / Usage**: Exaggerated, excessive
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a overweening appearance*) and predicatively after a linking verb (*remained overweening*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Carl Schurz (*s:George H. Thomas Eulogy*):** *"No success rendered him overweening and no disaster was ever known to stagger his firmness."*
-> - 📜 **Frederic Bancroft; William A. Dunning (*s:A Sketch of Carl Schurz's Political Career 1869-1906/1 The Rising Senator*):** *"The Senate was displaying an overweening hauteur as if it were the government."*
-> - 📜 **Tad Friend (*Sam Altman’s Manifest Destiny*):** *"The Valley prizes overweening ambition but expects it to be “rifle-focussed” on making the world’s best houseboat-rental platform or Cognac-delivery service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Arrogant, presumptuous
+> 2. **Nuance / Usage**: Exaggerated, excessive
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a overweening appearance*) and predicatively after a linking verb (*remained overweening*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Carl Schurz (*s:George H. Thomas Eulogy*):** *"No success rendered him overweening and no disaster was ever known to stagger his firmness."*
+> - 📜 **Frederic Bancroft; William A. Dunning (*s:A Sketch of Carl Schurz's Political Career 1869-1906/1 The Rising Senator*):** *"The Senate was displaying an overweening hauteur as if it were the government."*
+> - 📜 **Tad Friend (*Sam Altman’s Manifest Destiny*):** *"The Valley prizes overweening ambition but expects it to be “rifle-focussed” on making the world’s best houseboat-rental platform or Cognac-delivery service."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # suffusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of permeating or infusing something with a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of permeating or infusing something with a substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The dim forehead was crowned with a star; the lineaments below were seen as through the suffusion of vapour; the eyes shone dark and wild; the hair streamed shadowy, like a beamless cloud torn by storm or by electric travail."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There was both contusion and suffusion of the brain."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The Professor thought a moment and said:-- “We must reduce the pressure and get back to normal conditions, as far as can be; the rapidity of the suffusion shows the terrible nature of his injury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of permeating or infusing something with a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of permeating or infusing something with a substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The dim forehead was crowned with a star; the lineaments below were seen as through the suffusion of vapour; the eyes shone dark and wild; the hair streamed shadowy, like a beamless cloud torn by storm or by electric travail."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There was both contusion and suffusion of the brain."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The Professor thought a moment and said:-- “We must reduce the pressure and get back to normal conditions, as far as can be; the rapidity of the suffusion shows the terrible nature of his injury."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parliament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legislative assembly in certain countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath call’d his parliament, my lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Parliament House SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This blot that they object against your house Shall be wiped out in the next parliament Call’d for the truce of Winchester and Gloucester; And if thou be not then created York, I will not live to be accounted Warwick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legislative assembly in certain countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath call’d his parliament, my lord."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Parliament House SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This blot that they object against your house Shall be wiped out in the next parliament Call’d for the truce of Winchester and Gloucester; And if thou be not then created York, I will not live to be accounted Warwick."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # splendidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressively beautiful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"It was the White Rabbit returning, splendidly dressed, with a pair of white kid gloves in one hand and a large fan in the other: he came trotting along in a great hurry, muttering to himself as he came, “Oh! the Duchess, the Duchess!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They ought to have come a little sooner to have heard his lecture on dress, for they were splendidly attired in velvet, silk, and furs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They showed her to me in parties, splendidly dressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressively beautiful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"It was the White Rabbit returning, splendidly dressed, with a pair of white kid gloves in one hand and a large fan in the other: he came trotting along in a great hurry, muttering to himself as he came, “Oh! the Duchess, the Duchess!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They ought to have come a little sooner to have heard his lecture on dress, for they were splendidly attired in velvet, silk, and furs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They showed her to me in parties, splendidly dressed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # emphasise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give extra weight to (a communication).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"What I would emphasise is, that under the head of Pride your sister is a great and opportune example to you.” “Under _all_ heads that are included in the composition of a fine character, she is.” “Say so; but take this one."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The procession is then resumed, the performers weeping crocodile tears and emphasising the poignancy of their grief by the help of saucepans and dinner bells."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now,” said Wemmick, “questioning being over,” which he emphasised and repeated for my guidance, “I come to what I did, after hearing what I heard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give extra weight to (a communication).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"What I would emphasise is, that under the head of Pride your sister is a great and opportune example to you.” “Under _all_ heads that are included in the composition of a fine character, she is.” “Say so; but take this one."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The procession is then resumed, the performers weeping crocodile tears and emphasising the poignancy of their grief by the help of saucepans and dinner bells."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Now,” said Wemmick, “questioning being over,” which he emphasised and repeated for my guidance, “I come to what I did, after hearing what I heard."*

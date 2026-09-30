@@ -5,13 +5,6 @@ status: unread
 ---
 # mercaptopurine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercaptopurine designates a drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercaptopurine designates a drug (trade name purinethol) that interferes with the metabolism of purine and is used to treat acute lymphocytic leukemia."*

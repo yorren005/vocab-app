@@ -5,13 +5,6 @@ status: unread
 ---
 # exclamatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden and strong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden and strong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Conversation was exclamatory for a little while with gaps of wonderment; and then the Editor got fervent in his curiosity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden and strong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden and strong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Conversation was exclamatory for a little while with gaps of wonderment; and then the Editor got fervent in his curiosity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # desecration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blasphemous behavior; the act of depriving something of its sacred character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blasphemous behavior; the act of depriving something of its sacred character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"All this was impudence and desecration, and he repented that he had brought her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"To his secret feeling there was something repulsive in a woman’s second marriage, and no match would prevent him from feeling it a sort of desecration for Dorothea."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I feel that Henry would doubt my faithfulness to his memory, if I consented to such a desecration," came in smothered tones from the pillowing shoulder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blasphemous behavior; the act of depriving something of its sacred character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blasphemous behavior; the act of depriving something of its sacred character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"All this was impudence and desecration, and he repented that he had brought her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"To his secret feeling there was something repulsive in a woman’s second marriage, and no match would prevent him from feeling it a sort of desecration for Dorothea."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I feel that Henry would doubt my faithfulness to his memory, if I consented to such a desecration," came in smothered tones from the pillowing shoulder."*

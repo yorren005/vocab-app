@@ -5,13 +5,6 @@ status: unread
 ---
 # undetectable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily seen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to be perceived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll install undetectable barriers against psychic probes; then there are..." "Damn you, Ram." Brad cut in, his voice crackling with rage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily seen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to be perceived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll install undetectable barriers against psychic probes; then there are..." "Damn you, Ram." Brad cut in, his voice crackling with rage."*

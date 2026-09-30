@@ -5,13 +5,6 @@ status: unread
 ---
 # susanna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apocryphal book consisting of text added to the book of daniel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book consisting of text added to the book of daniel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If a good dog, Susanna would have got it; if an inferior one his wife would have got a dower interest in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apocryphal book consisting of text added to the book of daniel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book consisting of text added to the book of daniel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If a good dog, Susanna would have got it; if an inferior one his wife would have got a dower interest in it."*

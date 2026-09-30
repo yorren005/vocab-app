@@ -5,13 +5,6 @@ status: unread
 ---
 # angiotelectasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dilation and enlargement of arterioles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilation and enlargement of arterioles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiotelectasia designates dilation and enlargement of arterioles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dilation and enlargement of arterioles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilation and enlargement of arterioles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiotelectasia designates dilation and enlargement of arterioles."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # henotheism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of one god without denying the existence of other gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of one god without denying the existence of other gods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, henotheism designates the worship of one god without denying the existence of other gods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of one god without denying the existence of other gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of one god without denying the existence of other gods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, henotheism designates the worship of one god without denying the existence of other gods."*

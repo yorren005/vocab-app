@@ -5,13 +5,6 @@ status: unread
 ---
 # infelicitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appropriate in application; defective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or producing unhappiness; ; - american guide series.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This amazed and enraptured Tess, whose slight experiences had been so infelicitous till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appropriate in application; defective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or producing unhappiness; ; - american guide series.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This amazed and enraptured Tess, whose slight experiences had been so infelicitous till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."*

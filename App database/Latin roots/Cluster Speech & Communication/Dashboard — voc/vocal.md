@@ -5,15 +5,6 @@ status: unread
 ---
 # vocal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music intended to be performed by one or more singers, usually with instrumental accompaniment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short musical composition with words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, I am not a poetical man myself, except in a vocal way when it goes round a company, but I’m a practical one, and that’s my experience."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On the sheltered side was a turnip-slicing machine, whose bright blue hue of new paint seemed almost vocal in the otherwise subdued scene."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Like a trapped beast of the wild, I experienced ecstasies of fear, and yelled and howled until I realized that such vocal exercise merely stabbed my heart more hotly and at the same time consumed much of the little air in my lungs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Music intended to be performed by one or more singers, usually with instrumental accompaniment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short musical composition with words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, I am not a poetical man myself, except in a vocal way when it goes round a company, but I’m a practical one, and that’s my experience."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On the sheltered side was a turnip-slicing machine, whose bright blue hue of new paint seemed almost vocal in the otherwise subdued scene."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Like a trapped beast of the wild, I experienced ecstasies of fear, and yelled and howled until I realized that such vocal exercise merely stabbed my heart more hotly and at the same time consumed much of the little air in my lungs."*

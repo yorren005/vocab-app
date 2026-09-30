@@ -5,15 +5,6 @@ status: unread
 ---
 # mary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of jesus; christians refer to her as the virgin mary; she is especially honored by roman catholics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mother of jesus; christians refer to her as the virgin mary; she is especially honored by roman catholics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG Hark, hark! the lark at heaven’s gate sings, And Phœbus ’gins arise, His steeds to water at those springs On chalic’d flow’rs that lies; And winking Mary-buds begin To ope their golden eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By holy Mary, Butts, there’s knavery!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, citizens of Angiers, ope your gates, Let in that amity which you have made; For at Saint Mary’s chapel presently The rites of marriage shall be solemniz’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of jesus; christians refer to her as the virgin mary; she is especially honored by roman catholics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mother of jesus; christians refer to her as the virgin mary; she is especially honored by roman catholics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG Hark, hark! the lark at heaven’s gate sings, And Phœbus ’gins arise, His steeds to water at those springs On chalic’d flow’rs that lies; And winking Mary-buds begin To ope their golden eyes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By holy Mary, Butts, there’s knavery!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, citizens of Angiers, ope your gates, Let in that amity which you have made; For at Saint Mary’s chapel presently The rites of marriage shall be solemniz’d."*

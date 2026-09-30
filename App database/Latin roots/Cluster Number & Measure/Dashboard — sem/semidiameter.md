@@ -5,13 +5,6 @@ status: unread
 ---
 # semidiameter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent radius of a celestial body when viewed as a disc from the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent radius of a celestial body when viewed as a disc from the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semidiameter designates the apparent radius of a celestial body when viewed as a disc from the earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent radius of a celestial body when viewed as a disc from the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent radius of a celestial body when viewed as a disc from the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semidiameter designates the apparent radius of a celestial body when viewed as a disc from the earth."*

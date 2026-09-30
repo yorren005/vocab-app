@@ -5,13 +5,6 @@ status: unread
 ---
 # pompousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"So being left alone, (Lycius was gone to summon all his kin) And knowing surely she could never win His foolish heart from its mad pompousness, She set herself, high-thoughted, how to dress The misery in fit magnificence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*Lamia*):** *"So being left alone, (Lycius was gone to summon all his kin) And knowing surely she could never win His foolish heart from its mad pompousness, She set herself, high-thoughted, how to dress The misery in fit magnificence."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # form
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A category of things distinguished by some common characteristic or quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then thou whose shadow shadows doth make bright How would thy shadow’s form, form happy show, To the clear day with thy much clearer light, When to unseeing eyes thy shade shines so!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A category of things distinguished by some common characteristic or quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then thou whose shadow shadows doth make bright How would thy shadow’s form, form happy show, To the clear day with thy much clearer light, When to unseeing eyes thy shade shines so!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*

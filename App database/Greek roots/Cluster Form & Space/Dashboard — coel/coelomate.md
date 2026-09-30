@@ -5,13 +5,6 @@ status: unread
 ---
 # coelomate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelomate designates the usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelomate designates the usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms."*

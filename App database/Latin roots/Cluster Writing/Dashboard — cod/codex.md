@@ -5,13 +5,6 @@ status: unread
 ---
 # codex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official list of chemicals or medicines etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbound manuscript of some ancient classic (as distinguished from a scroll).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codex designates an official list of chemicals or medicines etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official list of chemicals or medicines etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbound manuscript of some ancient classic (as distinguished from a scroll).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codex designates an official list of chemicals or medicines etc."*

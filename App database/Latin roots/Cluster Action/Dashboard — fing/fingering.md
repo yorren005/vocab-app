@@ -5,15 +5,6 @@ status: unread
 ---
 # fingering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The placement of the fingers for playing different notes (or sequences of notes) on a musical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Touching something with the fingers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can penetrate her with your fingering, so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You would be fingering them to anger me."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She has a very good notion of fingering, though her taste is not equal to Anne’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The placement of the fingers for playing different notes (or sequences of notes) on a musical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Touching something with the fingers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can penetrate her with your fingering, so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You would be fingering them to anger me."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She has a very good notion of fingering, though her taste is not equal to Anne’s."*

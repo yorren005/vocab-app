@@ -5,15 +5,6 @@ status: unread
 ---
 # ferment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of agitation or turbulent change or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance capable of bringing about fermentation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins now communicate to the late lodger whose appearance is the signal for a general rally, it is in one continual ferment to discover everything, and more."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, I could not distinguish how much of the ferment was due to the teachings of the wandering fisherman, and how much of it was due to Jewish hatred for Rome."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of agitation or turbulent change or development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance capable of bringing about fermentation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins now communicate to the late lodger whose appearance is the signal for a general rally, it is in one continual ferment to discover everything, and more."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, I could not distinguish how much of the ferment was due to the teachings of the wandering fisherman, and how much of it was due to Jewish hatred for Rome."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*

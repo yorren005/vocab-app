@@ -5,15 +5,6 @@ status: unread
 ---
 # suave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smoothly agreeable and courteous with a degree of sophistication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Don’t let me stop you.” I was impudently suave."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Under their suave manners was the iron of a warlike race, and we knew, and went our way."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Oahunui was quite captivated by the plausible, suave manners of the ingratiating southern chief and those of his immediate retainers, and he invited them to a feast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smoothly agreeable and courteous with a degree of sophistication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Don’t let me stop you.” I was impudently suave."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Under their suave manners was the iron of a warlike race, and we knew, and went our way."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Oahunui was quite captivated by the plausible, suave manners of the ingratiating southern chief and those of his immediate retainers, and he invited them to a feast."*

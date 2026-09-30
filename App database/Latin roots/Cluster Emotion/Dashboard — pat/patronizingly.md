@@ -5,13 +5,6 @@ status: unread
 ---
 # patronizingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She nodded twice or thrice patronizingly to the little boy, who looked up from his dinner or from the pictures of soldiers he was painting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She nodded twice or thrice patronizingly to the little boy, who looked up from his dinner or from the pictures of soldiers he was painting."*

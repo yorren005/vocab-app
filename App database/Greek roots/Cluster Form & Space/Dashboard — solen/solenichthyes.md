@@ -5,13 +5,6 @@ status: unread
 ---
 # solenichthyes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenichthyes designates bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenichthyes designates bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout."*

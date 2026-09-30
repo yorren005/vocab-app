@@ -5,13 +5,6 @@ status: unread
 ---
 # motown
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motown designates the largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motown designates the largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor."*

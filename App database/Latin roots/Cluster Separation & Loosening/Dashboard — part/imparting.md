@@ -5,15 +5,6 @@ status: unread
 ---
 # imparting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit (knowledge or skills).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So our young friends, reduced to prose (which is much to be regretted), degenerate in their power of imparting pleasure to me."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Why then being Master Of such and so good parts do you destroy them, With self opinion, or like a rich miser, Hoard up the treasures you possess, imparting Nor to your self nor others, the use of them?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continual influx of cheap labor aided in imparting values to all industrial opportunities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit (knowledge or skills).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So our young friends, reduced to prose (which is much to be regretted), degenerate in their power of imparting pleasure to me."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Why then being Master Of such and so good parts do you destroy them, With self opinion, or like a rich miser, Hoard up the treasures you possess, imparting Nor to your self nor others, the use of them?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continual influx of cheap labor aided in imparting values to all industrial opportunities."*

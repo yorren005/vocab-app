@@ -5,14 +5,6 @@ status: unread
 ---
 # activation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulation of activity in an organism or chemical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of causing to have energy and be active.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Review our readiness and activation sequences consistent with our Quick Reaction Capability to deal with contingencies in the Slingshot Special Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Restricted to Sentinel, this contact would be its initial activation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulation of activity in an organism or chemical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of causing to have energy and be active.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Review our readiness and activation sequences consistent with our Quick Reaction Capability to deal with contingencies in the Slingshot Special Zone."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Restricted to Sentinel, this contact would be its initial activation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stylize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent according to a conventional style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylize designates represent according to a conventional style."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent according to a conventional style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylize designates represent according to a conventional style."*

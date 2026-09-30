@@ -5,15 +5,6 @@ status: unread
 ---
 # devices
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination or desire; used in the plural in the phrase `left to your own devices'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality invented for a particular purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did that I did not this seven year before: I blushed to hear his monstrous devices."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shows his reason for that: to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination or desire; used in the plural in the phrase `left to your own devices'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality invented for a particular purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did that I did not this seven year before: I blushed to hear his monstrous devices."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shows his reason for that: to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us."*

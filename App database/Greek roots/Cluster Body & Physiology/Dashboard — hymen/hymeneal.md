@@ -5,15 +5,6 @@ status: unread
 ---
 # hymeneal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wedding hymn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a wedding or marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"A new and highly respected citizen will lead to the hymeneal altar one of our most popular ladies."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Bent upon these hymeneal projects, and with the applause and consent of Mrs."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When they were married, Pitt would have liked to take a hymeneal tour with his bride, as became people of their condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wedding hymn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a wedding or marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"A new and highly respected citizen will lead to the hymeneal altar one of our most popular ladies."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Bent upon these hymeneal projects, and with the applause and consent of Mrs."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When they were married, Pitt would have liked to take a hymeneal tour with his bride, as became people of their condition."*

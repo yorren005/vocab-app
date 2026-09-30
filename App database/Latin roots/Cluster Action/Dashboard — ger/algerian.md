@@ -5,14 +5,6 @@ status: unread
 ---
 # algerian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of algeria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of algeria or its inhabitants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"At the end he felt faint and sick, and having lit some Algerian pastilles in a pierced copper brazier, he bathed his hands and forehead with a cool musk-scented vinegar."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Moors, here were Algerians, black African folk, sneering, inimical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of algeria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of algeria or its inhabitants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"At the end he felt faint and sick, and having lit some Algerian pastilles in a pierced copper brazier, he bathed his hands and forehead with a cool musk-scented vinegar."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Moors, here were Algerians, black African folk, sneering, inimical."*

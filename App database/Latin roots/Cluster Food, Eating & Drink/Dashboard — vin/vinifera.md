@@ -5,13 +5,6 @@ status: unread
 ---
 # vinifera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common european grape cultivated in many varieties; chief source of old world wine and table grapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common european grape cultivated in many varieties; chief source of old world wine and table grapes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinifera designates common european grape cultivated in many varieties; chief source of old world wine and table grapes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Common european grape cultivated in many varieties; chief source of old world wine and table grapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common european grape cultivated in many varieties; chief source of old world wine and table grapes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinifera designates common european grape cultivated in many varieties; chief source of old world wine and table grapes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # prolactin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gonadotropic hormone secreted by the anterior pituitary; in females it stimulates growth of the mammary glands and lactation after parturition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gonadotropic hormone secreted by the anterior pituitary; in females it stimulates growth of the mammary glands and lactation after parturition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolactin designates gonadotropic hormone secreted by the anterior pituitary; in females it stimulates growth of the mammary glands and lactation after parturition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gonadotropic hormone secreted by the anterior pituitary; in females it stimulates growth of the mammary glands and lactation after parturition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gonadotropic hormone secreted by the anterior pituitary; in females it stimulates growth of the mammary glands and lactation after parturition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolactin designates gonadotropic hormone secreted by the anterior pituitary; in females it stimulates growth of the mammary glands and lactation after parturition."*

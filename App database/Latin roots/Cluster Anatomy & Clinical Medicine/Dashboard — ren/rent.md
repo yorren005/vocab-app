@@ -5,15 +5,6 @@ status: unread
 ---
 # rent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opening made forcibly as by pulling apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not seen dwellers on form and favour Lose all, and more by paying too much rent For compound sweet; forgoing simple savour, Pitiful thrivers in their gazing spent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France should have torn and rent my very heart Before I would have yielded to this league."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FOOL. [_to Kent._] Prithee tell him, so much the rent of his land comes to: he will not believe a fool."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opening made forcibly as by pulling apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not seen dwellers on form and favour Lose all, and more by paying too much rent For compound sweet; forgoing simple savour, Pitiful thrivers in their gazing spent?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France should have torn and rent my very heart Before I would have yielded to this league."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FOOL. [_to Kent._] Prithee tell him, so much the rent of his land comes to: he will not believe a fool."*

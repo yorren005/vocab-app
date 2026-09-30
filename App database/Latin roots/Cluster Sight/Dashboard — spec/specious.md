@@ -5,15 +5,6 @@ status: unread
 ---
 # specious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible but false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on pretense; deceptively pleasing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am not sure, my dear girl, but that it may be wise and specious to preserve that outward indifference."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"PUBLIUS. [1] This was but another name more specious for the independence of the members on the federal head."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This argument presents itself under a very specious and seducing form; and is well calculated to lay hold of the prejudices of those to whom it is addressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible but false.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on pretense; deceptively pleasing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am not sure, my dear girl, but that it may be wise and specious to preserve that outward indifference."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"PUBLIUS. [1] This was but another name more specious for the independence of the members on the federal head."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This argument presents itself under a very specious and seducing form; and is well calculated to lay hold of the prejudices of those to whom it is addressed."*

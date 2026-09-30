@@ -5,14 +5,6 @@ status: unread
 ---
 # satisfyingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gratifying manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gratifying manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If he can most satisfyingly perform this sole and only duty by _helping_ his neighbor, he will do it; if he can most satisfyingly perform it by _swindling_ his neighbor, he will do it."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"We were together; WE WERE A FAMILY! the dream had come true—oh, precisely true, contentedly, true, satisfyingly true! and remained true two whole days."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gratifying manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gratifying manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If he can most satisfyingly perform this sole and only duty by _helping_ his neighbor, he will do it; if he can most satisfyingly perform it by _swindling_ his neighbor, he will do it."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"We were together; WE WERE A FAMILY! the dream had come true—oh, precisely true, contentedly, true, satisfyingly true! and remained true two whole days."*

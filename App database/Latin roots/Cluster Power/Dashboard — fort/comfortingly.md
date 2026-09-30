@@ -5,14 +5,6 @@ status: unread
 ---
 # comfortingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comforting or consoling manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a comforting or consoling manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He's jumped out on that log, see?” “He's all right, girl, he's all right,” said Uncle Henry comfortingly."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"If I hadn’t started to chase the scamperer it wouldn’t have happened.” “Oh, you needn’t feel like that,” said Sure-dart, comfortingly; “nobody could lay any blame on you.” Nevertheless, Hop-foot looked troubled, and drew a long breath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comforting or consoling manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a comforting or consoling manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He's jumped out on that log, see?” “He's all right, girl, he's all right,” said Uncle Henry comfortingly."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"If I hadn’t started to chase the scamperer it wouldn’t have happened.” “Oh, you needn’t feel like that,” said Sure-dart, comfortingly; “nobody could lay any blame on you.” Nevertheless, Hop-foot looked troubled, and drew a long breath."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # insensible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of physical sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaware of or indifferent to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man that apprehends death no more dreadfully but as a drunken sleep; careless, reckless, and fearless of what’s past, present, or to come; insensible of mortality and desperately mortal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling repair to the rag and bottle shop, where they find Krook still sleeping like one o’clock, that is to say, breathing stertorously with his chin upon his breast and quite insensible to any external sounds or even to gentle shaking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of physical sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaware of or indifferent to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man that apprehends death no more dreadfully but as a drunken sleep; careless, reckless, and fearless of what’s past, present, or to come; insensible of mortality and desperately mortal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling repair to the rag and bottle shop, where they find Krook still sleeping like one o’clock, that is to say, breathing stertorously with his chin upon his breast and quite insensible to any external sounds or even to gentle shaking."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pathos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An element in experience or in artistic representation evoking pity or compassion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emotion of sympathetic pity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I shall do one thing in this life—one thing certain—that is, love you, and long for you, and _keep wanting you_ till I die.” His voice had a genuine pathos now, and his large brown hands perceptibly trembled."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What arrested him now as of value in life was less its beauty than its pathos."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet how do you come here if you do not know?” “I inquired here and there, and I found the way.” “I waited and waited for you,” she went on, her tones suddenly resuming their old fluty pathos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An element in experience or in artistic representation evoking pity or compassion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emotion of sympathetic pity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I shall do one thing in this life—one thing certain—that is, love you, and long for you, and _keep wanting you_ till I die.” His voice had a genuine pathos now, and his large brown hands perceptibly trembled."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What arrested him now as of value in life was less its beauty than its pathos."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet how do you come here if you do not know?” “I inquired here and there, and I found the way.” “I waited and waited for you,” she went on, her tones suddenly resuming their old fluty pathos."*

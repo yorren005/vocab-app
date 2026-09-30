@@ -5,14 +5,6 @@ status: unread
 ---
 # vestryman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of a church vestry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of a church vestry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"To them he was an infinitely superior vestryman with a tremendous power for dispensing coal and food to the poor."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"When Pentecost comes to us we are all lifted upon one grand common platform and shake hands and shout and weep and laugh and get so mixed up that a Presbyterian can not be distinguished from a Methodist, nor a Friend from an Episcopalian vestryman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of a church vestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of a church vestry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"To them he was an infinitely superior vestryman with a tremendous power for dispensing coal and food to the poor."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"When Pentecost comes to us we are all lifted upon one grand common platform and shake hands and shout and weep and laugh and get so mixed up that a Presbyterian can not be distinguished from a Methodist, nor a Friend from an Episcopalian vestryman."*

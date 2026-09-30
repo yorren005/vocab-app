@@ -5,13 +5,6 @@ status: unread
 ---
 # programing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Setting an order and time for planned events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating a sequence of instructions to enable the computer to do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, programing designates setting an order and time for planned events."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Setting an order and time for planned events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating a sequence of instructions to enable the computer to do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, programing designates setting an order and time for planned events."*

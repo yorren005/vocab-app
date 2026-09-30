@@ -5,14 +5,6 @@ status: unread
 ---
 # incontestible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being contested or disputed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being contested or disputed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When the evidence has been incontestible he has not hesitated to make a public profession of his gratitude, which all will acknowledge to be the sign of a truly noble mind and a heart of gold."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Still, however, his speech was hailed by Cedric as an incontestible token of reviving spirit in his companion, whose previous indifference had begun, notwithstanding his respect for Athelstane’s descent, to wear out his patience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being contested or disputed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being contested or disputed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When the evidence has been incontestible he has not hesitated to make a public profession of his gratitude, which all will acknowledge to be the sign of a truly noble mind and a heart of gold."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Still, however, his speech was hailed by Cedric as an incontestible token of reviving spirit in his companion, whose previous indifference had begun, notwithstanding his respect for Athelstane’s descent, to wear out his patience."*

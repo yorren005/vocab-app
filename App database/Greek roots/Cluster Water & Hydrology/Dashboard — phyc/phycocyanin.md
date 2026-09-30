@@ -5,13 +5,6 @@ status: unread
 ---
 # phycocyanin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blue pigment in algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blue pigment in algae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycocyanin designates blue pigment in algae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blue pigment in algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blue pigment in algae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycocyanin designates blue pigment in algae."*

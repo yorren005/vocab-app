@@ -5,15 +5,6 @@ status: unread
 ---
 # predecessor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who precedes you in time (as in holding a position or office).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that precedes and indicates the approach of something or someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness, lately sending into France, Did claim some certain dukedoms, in the right Of your great predecessor, King Edward the Third."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The name of Professor Dingo, my immediate predecessor, is one of European reputation.” Mrs."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His exuberant frankness of manner, contrasting as this did with the reserved and somewhat stiff bearing of his predecessor Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who precedes you in time (as in holding a position or office).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that precedes and indicates the approach of something or someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness, lately sending into France, Did claim some certain dukedoms, in the right Of your great predecessor, King Edward the Third."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The name of Professor Dingo, my immediate predecessor, is one of European reputation.” Mrs."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His exuberant frankness of manner, contrasting as this did with the reserved and somewhat stiff bearing of his predecessor Dr."*

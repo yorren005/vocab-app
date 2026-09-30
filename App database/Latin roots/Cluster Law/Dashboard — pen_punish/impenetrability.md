@@ -5,14 +5,6 @@ status: unread
 ---
 # impenetrability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being impenetrable (by people or light or missiles etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensibility by virtue of being too dense to understand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will put her to some test,” thought I: “such absolute impenetrability is past comprehension.” “Good morning, Grace,” I said."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner of coming and going between the two places is one of his impenetrabilities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being impenetrable (by people or light or missiles etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensibility by virtue of being too dense to understand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will put her to some test,” thought I: “such absolute impenetrability is past comprehension.” “Good morning, Grace,” I said."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His manner of coming and going between the two places is one of his impenetrabilities."*

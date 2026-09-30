@@ -5,13 +5,6 @@ status: unread
 ---
 # marshalship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of marshall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of marshall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Duke of Norfolk, with the rod of marshalship, a coronet on his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of marshall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of marshall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Duke of Norfolk, with the rod of marshalship, a coronet on his head."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Book; especially : a large or scholarly book.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volume forming part of a larger work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In a short time, however, it became more distinct, and I soon found it an exceedingly fluent, conversable little tome."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I sought to have a parting word with the quarto, but the worthy little tome was silent; the clasps were closed: and it looked perfectly unconscious of all that had passed."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Etienne’s Article is in Tome 85, pp. 704-735, of the ‘Revue des Deux Mondes’, 1870, and the letter probably appeared soon after its publication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Book; especially : a large or scholarly book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volume forming part of a larger work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In a short time, however, it became more distinct, and I soon found it an exceedingly fluent, conversable little tome."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I sought to have a parting word with the quarto, but the worthy little tome was silent; the clasps were closed: and it looked perfectly unconscious of all that had passed."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Etienne’s Article is in Tome 85, pp. 704-735, of the ‘Revue des Deux Mondes’, 1870, and the letter probably appeared soon after its publication."*

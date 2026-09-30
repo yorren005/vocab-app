@@ -5,15 +5,6 @@ status: unread
 ---
 # dilatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasting time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor This dilatory sloth and tricks of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou know’st we work by wit, and not by witchcraft, And wit depends on dilatory time."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His family knew him to be, on all common occasions, a most negligent and dilatory correspondent; but at such a time they had hoped for exertion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasting time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor This dilatory sloth and tricks of Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou know’st we work by wit, and not by witchcraft, And wit depends on dilatory time."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His family knew him to be, on all common occasions, a most negligent and dilatory correspondent; but at such a time they had hoped for exertion."*

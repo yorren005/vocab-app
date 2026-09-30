@@ -5,15 +5,6 @@ status: unread
 ---
 # minos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of zeus and europa; king of ancient crete; ordered daedalus to build the labyrinth; after death minos became a judge in the underworld.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of zeus and europa; king of ancient crete; ordered daedalus to build the labyrinth; after death minos became a judge in the underworld.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, Daedalus; my poor boy, Icarus; Thy father, Minos, that denied our course; The sun that seared the wings of my sweet boy, Thy brother Edward; and thyself, the sea Whose envious gulf did swallow up his life."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Minos, we learn, was the primitive founder of the government of Crete, as Zaleucus was of that of the Locrians."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus Minos, king of Cnossus in Crete, whose great palace has been unearthed in recent years, is said to have held office for periods of eight years together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of zeus and europa; king of ancient crete; ordered daedalus to build the labyrinth; after death minos became a judge in the underworld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of zeus and europa; king of ancient crete; ordered daedalus to build the labyrinth; after death minos became a judge in the underworld.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, Daedalus; my poor boy, Icarus; Thy father, Minos, that denied our course; The sun that seared the wings of my sweet boy, Thy brother Edward; and thyself, the sea Whose envious gulf did swallow up his life."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Minos, we learn, was the primitive founder of the government of Crete, as Zaleucus was of that of the Locrians."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus Minos, king of Cnossus in Crete, whose great palace has been unearthed in recent years, is said to have held office for periods of eight years together."*

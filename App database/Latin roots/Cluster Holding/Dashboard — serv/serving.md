@@ -5,15 +5,6 @@ status: unread
 ---
 # serving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual quantity of food or drink taken as part of a meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of delivering a writ or summons upon someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Isis else defend, And serving you so long!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They, by observing of him, do bear themselves like foolish justices: he, by conversing with them, is turned into a justice-like serving-man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Davy serves you for good uses; he is your serving-man and your husband."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual quantity of food or drink taken as part of a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of delivering a writ or summons upon someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Isis else defend, And serving you so long!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They, by observing of him, do bear themselves like foolish justices: he, by conversing with them, is turned into a justice-like serving-man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Davy serves you for good uses; he is your serving-man and your husband."*

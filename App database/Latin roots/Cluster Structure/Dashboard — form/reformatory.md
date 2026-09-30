@@ -5,15 +5,6 @@ status: unread
 ---
 # reformatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correctional institution for the detention and discipline and training of young or first offenders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to reform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Even when I was taken to have a new suit of clothes, the tailor had orders to make them like a kind of Reformatory, and on no account to let me have the free use of my limbs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Gibbons is very well known in the City of New York where she resides, as an active philanthropist, devoting a large portion of her time and strength to the various charitable and reformatory enterprises in which she is engaged."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Yet quite as rational are some of the leading 129:27 illusions along the path which Science must tread in its reformatory mission among mortals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Correctional institution for the detention and discipline and training of young or first offenders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to reform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Even when I was taken to have a new suit of clothes, the tailor had orders to make them like a kind of Reformatory, and on no account to let me have the free use of my limbs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Gibbons is very well known in the City of New York where she resides, as an active philanthropist, devoting a large portion of her time and strength to the various charitable and reformatory enterprises in which she is engaged."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Yet quite as rational are some of the leading 129:27 illusions along the path which Science must tread in its reformatory mission among mortals."*

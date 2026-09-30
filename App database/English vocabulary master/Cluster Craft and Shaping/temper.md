@@ -5,20 +5,6 @@ status: unread
 ---
 # temper
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: State of mind; mood
-> 2. **Nuance / Usage**: Tendency to become angry
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the temper withstood the storm*), direct object (*cleaved the temper*), or prepositional anchor (*amidst the temper*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But not every man patient after the noble temper of your lordship."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It is a poison temper’d by himself."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"When you are better temper’d to attend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: State of mind; mood
+> 2. **Nuance / Usage**: Tendency to become angry
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the temper withstood the storm*), direct object (*cleaved the temper*), or prepositional anchor (*amidst the temper*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But not every man patient after the noble temper of your lordship."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It is a poison temper’d by himself."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"When you are better temper’d to attend."*

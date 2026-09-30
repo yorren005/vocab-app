@@ -5,13 +5,6 @@ status: unread
 ---
 # defoliate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip the leaves or branches from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliate designates strip the leaves or branches from."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip the leaves or branches from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliate designates strip the leaves or branches from."*

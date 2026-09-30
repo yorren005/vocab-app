@@ -5,15 +5,6 @@ status: unread
 ---
 # bars
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gymnastic apparatus consisting of two parallel wooden rods supported on uprights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or establishment where alcoholic drinks are served over a counter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In iron walls they deem’d me not secure; So great fear of my name ’mongst them were spread That they supposed I could rend bars of steel And spurn in pieces posts of adamant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This day, in argument upon a case, Some words there grew ’twixt Somerset and me; Among which terms he used his lavish tongue And did upbraid me with my father’s death; Which obloquy set bars before my tongue, Else with the like I had requited him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gymnastic apparatus consisting of two parallel wooden rods supported on uprights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or establishment where alcoholic drinks are served over a counter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In iron walls they deem’d me not secure; So great fear of my name ’mongst them were spread That they supposed I could rend bars of steel And spurn in pieces posts of adamant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This day, in argument upon a case, Some words there grew ’twixt Somerset and me; Among which terms he used his lavish tongue And did upbraid me with my father’s death; Which obloquy set bars before my tongue, Else with the like I had requited him."*

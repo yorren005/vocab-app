@@ -5,15 +5,6 @@ status: unread
 ---
 # disrespectful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting lack of respect; rude and discourteous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neither feeling nor showing respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"ELLIOT.” Such a letter could not be read without putting Anne in a glow; and Mrs Smith, observing the high colour in her face, said— “The language, I know, is highly disrespectful."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He said, 'I did not expect from M. le Maire anything that was disrespectful to religion.' Heaven forbid that I should be disrespectful to religion at any time of life, but then it was impossible to me."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Price, in her turn, was injured and angry; and an answer, which comprehended each sister in its bitterness, and bestowed such very disrespectful reflections on the pride of Sir Thomas as Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting lack of respect; rude and discourteous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neither feeling nor showing respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"ELLIOT.” Such a letter could not be read without putting Anne in a glow; and Mrs Smith, observing the high colour in her face, said— “The language, I know, is highly disrespectful."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He said, 'I did not expect from M. le Maire anything that was disrespectful to religion.' Heaven forbid that I should be disrespectful to religion at any time of life, but then it was impossible to me."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Price, in her turn, was injured and angry; and an answer, which comprehended each sister in its bitterness, and bestowed such very disrespectful reflections on the pride of Sir Thomas as Mrs."*

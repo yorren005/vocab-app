@@ -5,15 +5,6 @@ status: unread
 ---
 # amity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cordial disposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of friendship and cordiality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here he comes; I pray you make us friends; I will pursue the amity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you shall find the band that seems to tie their friendship together will be the very strangler of their amity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then shall the sighs of Octavia blow the fire up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cordial disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of friendship and cordiality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here he comes; I pray you make us friends; I will pursue the amity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you shall find the band that seems to tie their friendship together will be the very strangler of their amity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then shall the sighs of Octavia blow the fire up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance."*

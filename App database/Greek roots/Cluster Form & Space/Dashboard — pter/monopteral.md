@@ -5,13 +5,6 @@ status: unread
 ---
 # monopteral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having circular columniation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having circular columniation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopteral designates having circular columniation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having circular columniation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having circular columniation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopteral designates having circular columniation."*

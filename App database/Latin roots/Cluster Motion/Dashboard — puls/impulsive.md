@@ -5,15 +5,6 @@ status: unread
 ---
 # impulsive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding from natural feeling or impulse without external stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without forethought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Of the five children the eldest is the high-spirited, impulsive Bruno, who is just of an age to go away to a city school."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s was an impulsive nature under a deliberative aspect."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"However, she may keep such a promise, if it is made with an honest meaning to repair a wrong.” “It has not gone far yet, but I think it will soon—yes, I know it will,” he said, in an impulsive whisper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding from natural feeling or impulse without external stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without forethought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Of the five children the eldest is the high-spirited, impulsive Bruno, who is just of an age to go away to a city school."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s was an impulsive nature under a deliberative aspect."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"However, she may keep such a promise, if it is made with an honest meaning to repair a wrong.” “It has not gone far yet, but I think it will soon—yes, I know it will,” he said, in an impulsive whisper."*

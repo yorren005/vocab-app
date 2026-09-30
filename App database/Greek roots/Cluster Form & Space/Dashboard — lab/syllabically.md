@@ -5,13 +5,6 @@ status: unread
 ---
 # syllabically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or with syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or with syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabically designates in or with syllables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In or with syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or with syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabically designates in or with syllables."*

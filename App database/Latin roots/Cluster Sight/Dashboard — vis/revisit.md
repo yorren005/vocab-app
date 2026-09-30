@@ -5,15 +5,6 @@ status: unread
 ---
 # revisit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visit again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visit again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What may this mean, That thou, dead corse, again in complete steel, Revisit’st thus the glimpses of the moon, Making night hideous, and we fools of nature So horridly to shake our disposition With thoughts beyond the reaches of our souls?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Love her, Rick, in your active life, no less than in her home when you revisit it, and all will go well."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt for my old self as the dead may feel if they ever revisit these scenes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visit again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visit again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What may this mean, That thou, dead corse, again in complete steel, Revisit’st thus the glimpses of the moon, Making night hideous, and we fools of nature So horridly to shake our disposition With thoughts beyond the reaches of our souls?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Love her, Rick, in your active life, no less than in her home when you revisit it, and all will go well."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I felt for my old self as the dead may feel if they ever revisit these scenes."*

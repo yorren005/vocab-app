@@ -5,13 +5,6 @@ status: unread
 ---
 # basiliscus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of iguanidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of iguanidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basiliscus designates a reptile genus of iguanidae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of iguanidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of iguanidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basiliscus designates a reptile genus of iguanidae."*

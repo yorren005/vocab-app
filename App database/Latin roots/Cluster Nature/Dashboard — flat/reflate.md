@@ -5,13 +5,6 @@ status: unread
 ---
 # reflate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Economics: experience reflation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Economics: raise demand, expand the money supply, or raise prices, after a period of deflation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflate designates economics: experience reflation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Economics: experience reflation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Economics: raise demand, expand the money supply, or raise prices, after a period of deflation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflate designates economics: experience reflation."*

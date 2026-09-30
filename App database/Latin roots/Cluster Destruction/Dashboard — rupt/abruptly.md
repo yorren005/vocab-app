@@ -5,15 +5,6 @@ status: unread
 ---
 # abruptly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quickly and without warning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quickly and without warning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or if thou hast not broke from company Abruptly, as my passion now makes me, Thou hast not loved."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With a desperate leap he sprang to one side and left the woods abruptly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What is your name," asked the gentleman abruptly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quickly and without warning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quickly and without warning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or if thou hast not broke from company Abruptly, as my passion now makes me, Thou hast not loved."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With a desperate leap he sprang to one side and left the woods abruptly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What is your name," asked the gentleman abruptly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # excommunication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being excommunicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of banishing a member of a church from the communion of believers and the privileges of the church; cutting a person off from a religious society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will spare for no wit, I warrant you; here’s that shall drive some of them to a non-come: only get the learned writer to set down our excommunication, and meet me at the gaol. [Exeunt.] ACT IV SCENE I."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To go 'withershins' seems to have been reserved for cursing and excommunication."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"What may be called the endless-chain boycott is an excommunication, without measure or limit, of the non-union worker and of every one in any way befriending him or the employer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being excommunicated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of banishing a member of a church from the communion of believers and the privileges of the church; cutting a person off from a religious society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will spare for no wit, I warrant you; here’s that shall drive some of them to a non-come: only get the learned writer to set down our excommunication, and meet me at the gaol. [Exeunt.] ACT IV SCENE I."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To go 'withershins' seems to have been reserved for cursing and excommunication."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"What may be called the endless-chain boycott is an excommunication, without measure or limit, of the non-union worker and of every one in any way befriending him or the employer."*

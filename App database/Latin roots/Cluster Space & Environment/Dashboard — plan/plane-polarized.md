@@ -5,13 +5,6 @@ status: unread
 ---
 # plane-polarized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a moving wave) vibrating in a single plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a moving wave) vibrating in a single plane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plane-polarized designates (of a moving wave) vibrating in a single plane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a moving wave) vibrating in a single plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a moving wave) vibrating in a single plane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plane-polarized designates (of a moving wave) vibrating in a single plane."*

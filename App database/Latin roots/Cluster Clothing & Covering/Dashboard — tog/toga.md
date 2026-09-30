@@ -5,15 +5,6 @@ status: unread
 ---
 # toga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-piece cloak worn by men in ancient rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-piece cloak worn by men in ancient rome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I was consequently obliged to assume the Typee costume, a little altered, however, to suit my own views of propriety, and in which I have no doubt I appeared to as much advantage as a senator of Rome enveloped in the folds of his toga."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge, with his cap well over his eyes and his mackintosh hanging around him like a Roman toga, surveyed them stonily, and finally began his speech."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Or think of a decent young citizen in a toga—perhaps too much dice, you know—coming out here in the train of some prefect, or tax-gatherer, or trader even, to mend his fortunes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-piece cloak worn by men in ancient rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-piece cloak worn by men in ancient rome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I was consequently obliged to assume the Typee costume, a little altered, however, to suit my own views of propriety, and in which I have no doubt I appeared to as much advantage as a senator of Rome enveloped in the folds of his toga."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge, with his cap well over his eyes and his mackintosh hanging around him like a Roman toga, surveyed them stonily, and finally began his speech."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Or think of a decent young citizen in a toga—perhaps too much dice, you know—coming out here in the train of some prefect, or tax-gatherer, or trader even, to mend his fortunes."*

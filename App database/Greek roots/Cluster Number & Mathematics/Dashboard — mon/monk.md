@@ -5,15 +5,6 @@ status: unread
 ---
 # monk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of a religious order and lives in a monastery; also : friar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of a religious order and lives in a monastery; also : friar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I told my lord the Duke, by th’ devil’s illusions The monk might be deceived, and that ’twas dangerous For him to ruminate on this so far until It forged him some design, which, being believed, It was much like to do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, I fear, is poison’d by a monk."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A monk, I tell you, a resolved villain, Whose bowels suddenly burst out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of a religious order and lives in a monastery; also : friar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of a religious order and lives in a monastery; also : friar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I told my lord the Duke, by th’ devil’s illusions The monk might be deceived, and that ’twas dangerous For him to ruminate on this so far until It forged him some design, which, being believed, It was much like to do."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, I fear, is poison’d by a monk."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A monk, I tell you, a resolved villain, Whose bowels suddenly burst out."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # munch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Norwegian painter (1863-1944).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, a peck of provender; I could munch your good dry oats."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Awake and stretched, Albert waddles down to the lake to munch the sweet grasses that grow along its shore."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I munched my cake in gloomy silence, which was not lightened by the next remark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Norwegian painter (1863-1944).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, a peck of provender; I could munch your good dry oats."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Awake and stretched, Albert waddles down to the lake to munch the sweet grasses that grow along its shore."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I munched my cake in gloomy silence, which was not lightened by the next remark."*

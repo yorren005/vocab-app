@@ -5,13 +5,6 @@ status: unread
 ---
 # unanimated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not animated or enlivened; dull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not animated or enlivened; dull.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The only person of the company who seemed unanimated with the general satisfaction was Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not animated or enlivened; dull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not animated or enlivened; dull.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The only person of the company who seemed unanimated with the general satisfaction was Mr."*

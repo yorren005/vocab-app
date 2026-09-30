@@ -5,13 +5,6 @@ status: unread
 ---
 # arrogation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizure by the government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seizure by the government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrogation designates seizure by the government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizure by the government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seizure by the government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrogation designates seizure by the government."*

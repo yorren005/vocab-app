@@ -5,14 +5,6 @@ status: unread
 ---
 # dependance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of relying on or being controlled by someone or something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Religion, my honoured Madam, has not only been all my life my chief dependance, but my dearest enjoyment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These, And your three motives to the battle, with I know not how much more, should be demanded, And all the other by-dependances, From chance to chance; but nor the time nor place Will serve our long interrogatories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of relying on or being controlled by someone or something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Religion, my honoured Madam, has not only been all my life my chief dependance, but my dearest enjoyment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These, And your three motives to the battle, with I know not how much more, should be demanded, And all the other by-dependances, From chance to chance; but nor the time nor place Will serve our long interrogatories."*

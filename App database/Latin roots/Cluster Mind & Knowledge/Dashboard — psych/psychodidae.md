@@ -5,13 +5,6 @@ status: unread
 ---
 # psychodidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodidae designates very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodidae designates very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies."*

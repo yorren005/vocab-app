@@ -5,15 +5,6 @@ status: unread
 ---
 # access
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right to obtain or make use of or take advantage of something (as services or membership).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DENNIS So please you, he is here at the door and importunes access to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods assuage thy wrath and turn the dregs of it upon this varlet here, this, who, like a block, hath denied my access to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but as you did command, I did repel his letters and denied His access to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to enter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right to obtain or make use of or take advantage of something (as services or membership).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DENNIS So please you, he is here at the door and importunes access to you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods assuage thy wrath and turn the dregs of it upon this varlet here, this, who, like a block, hath denied my access to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but as you did command, I did repel his letters and denied His access to me."*

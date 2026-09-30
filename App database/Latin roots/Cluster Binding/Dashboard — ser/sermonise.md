@@ -5,15 +5,6 @@ status: unread
 ---
 # sermonise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak as if delivering a sermon; express moral judgements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak as if delivering a sermon; express moral judgements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You used occasionally to sermonise too; I wish you would, in charity, favour me with a sheet full in your own way."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When do you intend to give up sermonising?" was the other's reply."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"By his knack of sermonising and pious discoursing, he contrived to make a great impression on Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak as if delivering a sermon; express moral judgements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak as if delivering a sermon; express moral judgements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You used occasionally to sermonise too; I wish you would, in charity, favour me with a sheet full in your own way."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When do you intend to give up sermonising?" was the other's reply."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"By his knack of sermonising and pious discoursing, he contrived to make a great impression on Mr."*

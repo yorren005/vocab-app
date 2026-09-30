@@ -5,15 +5,6 @@ status: unread
 ---
 # bombard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large shawm; the bass member of the shawm family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast, hurl, or throw repeatedly with some missile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yond same black cloud, yond huge one, looks like a foul bombard that would shed his liquor."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"What need was there that the French should bombard us and destroy the city?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re lazy knaves, And here ye lie baiting of bombards, when Ye should do service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large shawm; the bass member of the shawm family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast, hurl, or throw repeatedly with some missile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yond same black cloud, yond huge one, looks like a foul bombard that would shed his liquor."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"What need was there that the French should bombard us and destroy the city?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re lazy knaves, And here ye lie baiting of bombards, when Ye should do service."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # obdurately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stubborn unregenerate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stubborn unregenerate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stubborn unregenerate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stubborn unregenerate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*

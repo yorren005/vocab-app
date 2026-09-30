@@ -5,13 +5,6 @@ status: unread
 ---
 # anthropogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution or genesis of the human race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolution or genesis of the human race.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropogenesis designates the evolution or genesis of the human race."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution or genesis of the human race.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolution or genesis of the human race.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropogenesis designates the evolution or genesis of the human race."*

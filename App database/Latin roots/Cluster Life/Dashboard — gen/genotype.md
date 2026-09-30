@@ -5,13 +5,6 @@ status: unread
 ---
 # genotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of organisms sharing a specific genetic constitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The particular alleles at specified loci present in an organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genotype designates a group of organisms sharing a specific genetic constitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of organisms sharing a specific genetic constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The particular alleles at specified loci present in an organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genotype designates a group of organisms sharing a specific genetic constitution."*

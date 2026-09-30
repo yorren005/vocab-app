@@ -5,15 +5,6 @@ status: unread
 ---
 # costs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pecuniary reimbursement to the winning party for the expenses of litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total spent for goods or services including money and time and labor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy love is better than high birth to me, Richer than wealth, prouder than garments’ costs, Of more delight than hawks and horses be: And having thee, of all men’s pride I boast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A proper jest, and never heard before, That Suffolk should demand a whole fifteenth For costs and charges in transporting her!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All fancy-sick she is, and pale of cheer With sighs of love, that costs the fresh blood dear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pecuniary reimbursement to the winning party for the expenses of litigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total spent for goods or services including money and time and labor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy love is better than high birth to me, Richer than wealth, prouder than garments’ costs, Of more delight than hawks and horses be: And having thee, of all men’s pride I boast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A proper jest, and never heard before, That Suffolk should demand a whole fifteenth For costs and charges in transporting her!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All fancy-sick she is, and pale of cheer With sighs of love, that costs the fresh blood dear."*

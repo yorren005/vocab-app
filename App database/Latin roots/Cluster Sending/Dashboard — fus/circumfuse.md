@@ -5,13 +5,6 @@ status: unread
 ---
 # circumfuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread something around something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread something around something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Glowing, and circumfused in speechless love, Their full divinity inadequate That feeling to express, or to improve, The gods become as mortals, and man's fate Has moments like their brightest! but the weight Of earth recoils upon us;--let it go!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread something around something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread something around something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Glowing, and circumfused in speechless love, Their full divinity inadequate That feeling to express, or to improve, The gods become as mortals, and man's fate Has moments like their brightest! but the weight Of earth recoils upon us;--let it go!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ceratostomataceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi having carbonous perithecia with long necks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi having carbonous perithecia with long necks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratostomataceae designates fungi having carbonous perithecia with long necks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi having carbonous perithecia with long necks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi having carbonous perithecia with long necks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratostomataceae designates fungi having carbonous perithecia with long necks."*

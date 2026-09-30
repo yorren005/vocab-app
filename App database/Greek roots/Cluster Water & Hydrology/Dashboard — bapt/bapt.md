@@ -5,15 +5,6 @@ status: unread
 ---
 # bapt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Baptist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baptist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian had to face a similar criticism of Christian life--was Abraham _baptized_? _de Bapt._ 13. [31] Tert. _adv."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tert. _de Bapt._ 2, _simplicitas divinorum operum ... et magnificentia_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valentin._ 12. [4] References to his Greek treatises (all lost) may be found in _de cor. mil._ 6; _de bapt._ 15; _de virg. vel._ 1. [5] _De viris illustribus, sub nomine_. [6] _de anima_ 39. [7] _Ibid._ 41. [8] _Ibid._ 39. [9] _adv."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Baptist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baptist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian had to face a similar criticism of Christian life--was Abraham _baptized_? _de Bapt._ 13. [31] Tert. _adv."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tert. _de Bapt._ 2, _simplicitas divinorum operum ... et magnificentia_."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valentin._ 12. [4] References to his Greek treatises (all lost) may be found in _de cor. mil._ 6; _de bapt._ 15; _de virg. vel._ 1. [5] _De viris illustribus, sub nomine_. [6] _de anima_ 39. [7] _Ibid._ 41. [8] _Ibid._ 39. [9] _adv."*

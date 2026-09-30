@@ -5,13 +5,6 @@ status: unread
 ---
 # saxatile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing on or living among rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing on or living among rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BEDSTRAW RUST; spots yellowish; sori subrotund, aggregate, closed; spores globose, reddish.—On _Galium verum_, _saxatile_, &c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing on or living among rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing on or living among rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BEDSTRAW RUST; spots yellowish; sori subrotund, aggregate, closed; spores globose, reddish.—On _Galium verum_, _saxatile_, &c."*

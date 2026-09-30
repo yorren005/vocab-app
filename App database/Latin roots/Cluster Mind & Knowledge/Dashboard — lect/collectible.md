@@ -5,13 +5,6 @@ status: unread
 ---
 # collectible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Things considered to be worth collecting (not necessarily valuable or antique).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or requiring payment especially as specified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectible designates things considered to be worth collecting (not necessarily valuable or antique)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things considered to be worth collecting (not necessarily valuable or antique).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or requiring payment especially as specified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectible designates things considered to be worth collecting (not necessarily valuable or antique)."*

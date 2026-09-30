@@ -5,13 +5,6 @@ status: unread
 ---
 # dialog
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversational element of literary or dramatic composition (such as a movie, play, or novel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conversation between two or more persons; also : a similar exchange between a person and something else (such as a computer) —usually used before another noun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialog designates the conversational element of literary or dramatic composition (such as a movie, play, or novel)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversational element of literary or dramatic composition (such as a movie, play, or novel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conversation between two or more persons; also : a similar exchange between a person and something else (such as a computer) —usually used before another noun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialog designates the conversational element of literary or dramatic composition (such as a movie, play, or novel)."*

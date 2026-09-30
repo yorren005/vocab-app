@@ -5,15 +5,6 @@ status: unread
 ---
 # pose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected manners intended to impress others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A posture assumed by models for photographic or artistic purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I shall pose you quickly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That’s why they locks it, I s’pose,” giving it a shake."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then I s’pose she ain’t.” “I came to see if I could do you any good,” said I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected manners intended to impress others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A posture assumed by models for photographic or artistic purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I shall pose you quickly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That’s why they locks it, I s’pose,” giving it a shake."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then I s’pose she ain’t.” “I came to see if I could do you any good,” said I."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # proprietor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) someone who owns (is legal possessor of) a business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) someone who owns (is legal possessor of) a business.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn’s infinite delight) as if he were a considerable landed proprietor in heaven."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge also came to speak to us and did the honours of the place in much the same way, with the bland modesty of a proprietor."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The proprietor of a large old water-mill at Wellbridge—once the mill of an Abbey—had offered him the inspection of his time-honoured mode of procedure, and a hand in the operations for a few days, whenever he should choose to come."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) someone who owns (is legal possessor of) a business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) someone who owns (is legal possessor of) a business.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn’s infinite delight) as if he were a considerable landed proprietor in heaven."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge also came to speak to us and did the honours of the place in much the same way, with the bland modesty of a proprietor."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The proprietor of a large old water-mill at Wellbridge—once the mill of an Abbey—had offered him the inspection of his time-honoured mode of procedure, and a hand in the operations for a few days, whenever he should choose to come."*

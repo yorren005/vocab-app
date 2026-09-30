@@ -5,13 +5,6 @@ status: unread
 ---
 # sociopath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sociopathic individual : psychopath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sociopathic individual : psychopath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociopath designates a sociopathic individual : psychopath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sociopathic individual : psychopath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sociopathic individual : psychopath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociopath designates a sociopathic individual : psychopath."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # externally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or from the outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the outside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Dedlock town house changes not externally, and hours pass before its exalted dullness is disturbed within."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That fair sufferer soon recovered herself externally; but she remained much depressed all the afternoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Farming, of course, means roughing it externally; but high thinking may go with plain living, nevertheless.” “Of course it may,” said Angel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On or from the outside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the outside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Dedlock town house changes not externally, and hours pass before its exalted dullness is disturbed within."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That fair sufferer soon recovered herself externally; but she remained much depressed all the afternoon."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Farming, of course, means roughing it externally; but high thinking may go with plain living, nevertheless.” “Of course it may,” said Angel."*

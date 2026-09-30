@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A black isometric mineral of the spinel group that is an oxide of iron and an important iron ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black isometric mineral of the spinel group that is an oxide of iron and an important iron ore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetite designates a black isometric mineral of the spinel group that is an oxide of iron and an important iron ore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A black isometric mineral of the spinel group that is an oxide of iron and an important iron ore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black isometric mineral of the spinel group that is an oxide of iron and an important iron ore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetite designates a black isometric mineral of the spinel group that is an oxide of iron and an important iron ore."*

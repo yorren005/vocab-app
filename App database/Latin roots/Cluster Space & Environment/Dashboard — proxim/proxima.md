@@ -5,13 +5,6 @@ status: unread
 ---
 # proxima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nearest star to the sun; distance: 4.3 light years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nearest star to the sun; distance: 4.3 light years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proxima designates the nearest star to the sun; distance: 4.3 light years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nearest star to the sun; distance: 4.3 light years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nearest star to the sun; distance: 4.3 light years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proxima designates the nearest star to the sun; distance: 4.3 light years."*

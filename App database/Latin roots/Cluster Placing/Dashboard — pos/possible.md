@@ -5,15 +5,6 @@ status: unread
 ---
 # possible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that can be done.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An applicant who might be suitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. [_Aside._] Is it possible he should know what he is, and be that he is?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it possible on such a sudden you should fall into so strong a liking with old Sir Rowland’s youngest son?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can it be possible that no man saw them?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that can be done.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An applicant who might be suitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. [_Aside._] Is it possible he should know what he is, and be that he is?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it possible on such a sudden you should fall into so strong a liking with old Sir Rowland’s youngest son?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can it be possible that no man saw them?"*

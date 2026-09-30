@@ -5,13 +5,6 @@ status: unread
 ---
 # cantaloup
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of muskmelon vine having fruit with a tan rind and orange flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit of a cantaloup vine; small to medium-sized melon with yellowish flesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantaloup designates a variety of muskmelon vine having fruit with a tan rind and orange flesh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of muskmelon vine having fruit with a tan rind and orange flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit of a cantaloup vine; small to medium-sized melon with yellowish flesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantaloup designates a variety of muskmelon vine having fruit with a tan rind and orange flesh."*

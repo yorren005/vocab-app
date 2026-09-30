@@ -5,15 +5,6 @@ status: unread
 ---
 # tortured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Torment emotionally or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to torture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder indeed, that bloody sin, I tortured Above the felon or what trespass else."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say he be taken, racked, and tortured, I know no pain they can inflict upon him Will make him say I moved him to those arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, let’s see. ’Tis very true, my grief lies all within; And these external manner of laments Are merely shadows to the unseen grief That swells with silence in the tortured soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Torment emotionally or mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to torture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder indeed, that bloody sin, I tortured Above the felon or what trespass else."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say he be taken, racked, and tortured, I know no pain they can inflict upon him Will make him say I moved him to those arms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, let’s see. ’Tis very true, my grief lies all within; And these external manner of laments Are merely shadows to the unseen grief That swells with silence in the tortured soul."*

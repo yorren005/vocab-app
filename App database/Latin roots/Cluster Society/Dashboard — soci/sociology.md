@@ -5,15 +5,6 @@ status: unread
 ---
 # sociology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and classification of human societies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and classification of human societies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 429, for figures of population and of decennial rates of increase.] [Footnote 8: The effect of the growth of cities is discussed in the "American Journal of Sociology," Vol. 18, p. 342, in an article on "Walker's Theory of Immigration," by E.A."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"However, I don’t propose to discuss politics, sociology, or metaphysics with you."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Buckley, _The Handwriting on the Wall: Toward a Sociology and Psychology of Graffiti_ (Westport, Conn.: Greenwood Press, 1977); and Marina N."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and classification of human societies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and classification of human societies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 429, for figures of population and of decennial rates of increase.] [Footnote 8: The effect of the growth of cities is discussed in the "American Journal of Sociology," Vol. 18, p. 342, in an article on "Walker's Theory of Immigration," by E.A."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"However, I don’t propose to discuss politics, sociology, or metaphysics with you."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Buckley, _The Handwriting on the Wall: Toward a Sociology and Psychology of Graffiti_ (Westport, Conn.: Greenwood Press, 1977); and Marina N."*

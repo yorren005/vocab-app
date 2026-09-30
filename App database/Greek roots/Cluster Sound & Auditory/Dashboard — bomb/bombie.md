@@ -5,13 +5,6 @@ status: unread
 ---
 # bombie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexploded bomblet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unexploded bomblet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have heard my great-grandfather tell, how his great-great-grandfather should say, that it was an old proverb when his great-grandfather was a child, that ‘it was a good wind that blew a man to the wine.’” MOTHER BOMBIE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexploded bomblet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unexploded bomblet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have heard my great-grandfather tell, how his great-great-grandfather should say, that it was an old proverb when his great-grandfather was a child, that ‘it was a good wind that blew a man to the wine.’” MOTHER BOMBIE."*

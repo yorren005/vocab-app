@@ -5,13 +5,6 @@ status: unread
 ---
 # scalenus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalenus designates any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalenus designates any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing."*

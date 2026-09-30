@@ -5,13 +5,6 @@ status: unread
 ---
 # surface-assimilative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having capacity or tendency to adsorb or cause to accumulate on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having capacity or tendency to adsorb or cause to accumulate on a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-assimilative designates having capacity or tendency to adsorb or cause to accumulate on a surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having capacity or tendency to adsorb or cause to accumulate on a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having capacity or tendency to adsorb or cause to accumulate on a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-assimilative designates having capacity or tendency to adsorb or cause to accumulate on a surface."*

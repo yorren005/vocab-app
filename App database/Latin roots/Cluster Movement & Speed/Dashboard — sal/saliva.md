@@ -5,15 +5,6 @@ status: unread
 ---
 # saliva
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When he has finished his lecture, you see only a mass of saliva and the rags of his pen."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf bounded up, spitting saliva, floor dust and curses."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Even in a man's own house his saliva is carefully swept away and obliterated for a similar reason."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"When he has finished his lecture, you see only a mass of saliva and the rags of his pen."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf bounded up, spitting saliva, floor dust and curses."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Even in a man's own house his saliva is carefully swept away and obliterated for a similar reason."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # there
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A location other than here; that place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or at that place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A location other than here; that place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or at that place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*

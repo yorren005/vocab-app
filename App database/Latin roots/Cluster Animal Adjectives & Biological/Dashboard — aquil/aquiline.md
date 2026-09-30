@@ -5,15 +5,6 @@ status: unread
 ---
 # aquiline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved down like an eagle's beak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved down like an eagle's beak.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a remarkably handsome man, dark, aquiline, and moustached—evidently the man of whom I had heard."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was of a full rubicund countenance, with a double chin, aquiline nose, and a pleasant twinkling eye."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was a genuine specimen of the Yankee,--a long, gaunt figure, somewhat stooping, and with a long aquiline nose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved down like an eagle's beak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved down like an eagle's beak.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a remarkably handsome man, dark, aquiline, and moustached—evidently the man of whom I had heard."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was of a full rubicund countenance, with a double chin, aquiline nose, and a pleasant twinkling eye."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was a genuine specimen of the Yankee,--a long, gaunt figure, somewhat stooping, and with a long aquiline nose."*

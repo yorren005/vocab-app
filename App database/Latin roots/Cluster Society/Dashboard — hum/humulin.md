@@ -5,13 +5,6 @@ status: unread
 ---
 # humulin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of insulin (trade name humulin) made from recombinant dna that is identical to human insulin; used to treat diabetics who are allergic to preparations made from beef or pork insulin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of insulin (trade name humulin) made from recombinant dna that is identical to human insulin; used to treat diabetics who are allergic to preparations made from beef or pork insulin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humulin designates a form of insulin (trade name humulin) made from recombinant dna that is identical to human insulin; used to treat diabetics who are allergic to preparations made from beef or pork insulin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of insulin (trade name humulin) made from recombinant dna that is identical to human insulin; used to treat diabetics who are allergic to preparations made from beef or pork insulin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of insulin (trade name humulin) made from recombinant dna that is identical to human insulin; used to treat diabetics who are allergic to preparations made from beef or pork insulin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humulin designates a form of insulin (trade name humulin) made from recombinant dna that is identical to human insulin; used to treat diabetics who are allergic to preparations made from beef or pork insulin."*

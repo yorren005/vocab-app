@@ -5,15 +5,6 @@ status: unread
 ---
 # exhort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spur on or encourage especially by cheers and shouts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force or impel in an indicated direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell Kent from me she hath lost her best man, and exhort all the world to be cowards; for I, that never feared any, am vanquished by famine, not by valour. [_Dies._] IDEN."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Our Typee friends availed themselves of the recent disaster of Toby to exhort us to a due appreciation of the blessings we enjoyed among them, contrasting their own generous reception of us with the animosity of their neighbours."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Give these, I exhort you, their guerdon and glory For daring so much, before they well did it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spur on or encourage especially by cheers and shouts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force or impel in an indicated direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell Kent from me she hath lost her best man, and exhort all the world to be cowards; for I, that never feared any, am vanquished by famine, not by valour. [_Dies._] IDEN."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Our Typee friends availed themselves of the recent disaster of Toby to exhort us to a due appreciation of the blessings we enjoyed among them, contrasting their own generous reception of us with the animosity of their neighbours."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Give these, I exhort you, their guerdon and glory For daring so much, before they well did it."*

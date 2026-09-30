@@ -5,13 +5,6 @@ status: unread
 ---
 # hierarchal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchal designates classified according to various criteria into successive levels or layers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchal designates classified according to various criteria into successive levels or layers."*

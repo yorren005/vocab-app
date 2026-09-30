@@ -5,13 +5,6 @@ status: unread
 ---
 # allegiant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadfast in devotion (especially to your lawful monarch or government).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadfast in devotion (especially to your lawful monarch or government).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your great graces Heaped upon me, poor undeserver, I Can nothing render but allegiant thanks, My prayers to heaven for you, my loyalty, Which ever has and ever shall be growing, Till death, that winter, kill it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadfast in devotion (especially to your lawful monarch or government).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadfast in devotion (especially to your lawful monarch or government).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your great graces Heaped upon me, poor undeserver, I Can nothing render but allegiant thanks, My prayers to heaven for you, my loyalty, Which ever has and ever shall be growing, Till death, that winter, kill it."*

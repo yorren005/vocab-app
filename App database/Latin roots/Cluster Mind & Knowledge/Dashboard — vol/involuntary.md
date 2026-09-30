@@ -5,15 +5,6 @@ status: unread
 ---
 # involuntary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to the control of the will; ; ; ; - john f.kennedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Controlled by the autonomic nervous system; without conscious control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do not dismiss me so soon, mademoiselle!” she said with an involuntary contraction of her fine black eyebrows."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis truth.” “Well, you need not let go your hold of me so thanklessly the moment you feel yourself out of danger.” She had not considered what she had been doing; whether he were man or woman, stick or stone, in her involuntary hold on him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Like a flash he took advantage of what he deemed an involuntary exposure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to the control of the will; ; ; ; - john f.kennedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Controlled by the autonomic nervous system; without conscious control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Do not dismiss me so soon, mademoiselle!” she said with an involuntary contraction of her fine black eyebrows."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis truth.” “Well, you need not let go your hold of me so thanklessly the moment you feel yourself out of danger.” She had not considered what she had been doing; whether he were man or woman, stick or stone, in her involuntary hold on him."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Like a flash he took advantage of what he deemed an involuntary exposure."*

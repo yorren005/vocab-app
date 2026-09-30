@@ -5,15 +5,6 @@ status: unread
 ---
 # unexplored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet discovered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet discovered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The notes flew forth with the usual blind obtuseness of inanimate things—flapping and rebounding among walls, undulating against the scattered clouds, spreading through their interstices into unexplored miles of space."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On a dark, misty, raw morning in January, I had left a hostile roof with a desperate and embittered heart—a sense of outlawry and almost of reprobation—to seek the chilly harbourage of Lowood: that bourne so far away and unexplored."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Livingstone had "Jesu dulcis memoria"--the Latin of it--ringing in his head as he travelled in unexplored Africa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet discovered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet discovered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The notes flew forth with the usual blind obtuseness of inanimate things—flapping and rebounding among walls, undulating against the scattered clouds, spreading through their interstices into unexplored miles of space."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On a dark, misty, raw morning in January, I had left a hostile roof with a desperate and embittered heart—a sense of outlawry and almost of reprobation—to seek the chilly harbourage of Lowood: that bourne so far away and unexplored."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Livingstone had "Jesu dulcis memoria"--the Latin of it--ringing in his head as he travelled in unexplored Africa."*

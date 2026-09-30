@@ -5,13 +5,6 @@ status: unread
 ---
 # Lepidoptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects that are lepidopterans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Lepidoptera) of insects comprising the butterflies, moths, and skippers that as adults have four broad or lanceolate wings usually covered with minute overlapping and often brightly colored scales and that as larvae are caterpillars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson, and inspect my collection of Lepidoptera?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects that are lepidopterans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Lepidoptera) of insects comprising the butterflies, moths, and skippers that as adults have four broad or lanceolate wings usually covered with minute overlapping and often brightly colored scales and that as larvae are caterpillars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson, and inspect my collection of Lepidoptera?"*

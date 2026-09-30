@@ -5,15 +5,6 @@ status: unread
 ---
 # ethnology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hobley, _Ethnology of A-Kamba and other East African Tribes_ (Cambridge, 1910), p. 65. [68] Rev."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publications in American Archaeology and Ethnology_, vol. iv."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Swanton, _Contributions to the Ethnology of the Haida_ (Leyden and New York, 1905), pp. 48-50 (_The Jesup North Pacific Expedition, Memoir of the American Museum of Natural History_, New York)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hobley, _Ethnology of A-Kamba and other East African Tribes_ (Cambridge, 1910), p. 65. [68] Rev."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publications in American Archaeology and Ethnology_, vol. iv."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Swanton, _Contributions to the Ethnology of the Haida_ (Leyden and New York, 1905), pp. 48-50 (_The Jesup North Pacific Expedition, Memoir of the American Museum of Natural History_, New York)."*

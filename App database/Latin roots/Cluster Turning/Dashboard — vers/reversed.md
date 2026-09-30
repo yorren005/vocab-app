@@ -5,15 +5,6 @@ status: unread
 ---
 # reversed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change to the contrary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn inside out or upside down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It addressed me as if our places were reversed, as if all the good deeds had been mine and all the feelings they had awakened his."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the same moment, while he was still reversed in his attitude, there was more light, and he saw, as it were, a copy of the tall poplar tree on the hill drawn in black on the wall of the barn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy had, since yesterday, faintly reversed his; but the merest opposition had disheartened him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change to the contrary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn inside out or upside down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It addressed me as if our places were reversed, as if all the good deeds had been mine and all the feelings they had awakened his."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the same moment, while he was still reversed in his attitude, there was more light, and he saw, as it were, a copy of the tall poplar tree on the hill drawn in black on the wall of the barn."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy had, since yesterday, faintly reversed his; but the merest opposition had disheartened him."*

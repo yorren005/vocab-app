@@ -5,14 +5,6 @@ status: unread
 ---
 # allocution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (rhetoric) a formal or authoritative address that advises or exhorts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (rhetoric) a formal or authoritative address that advises or exhorts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The worthies began a revolution, Which if on earth you intend to acknowledge, Why, honor them now! (ends my allocution) Nor confer your degree when the folks leave college. 21."*
-> - 📜 **James Joyce (*Ulysses*):** *"It was effaced as easily as it had been evoked by an allocution from Mr Candidate Mulligan in that vein of pleasantry which none better than he knew how to affect, postulating as the supremest object of desire a nice clean old man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (rhetoric) a formal or authoritative address that advises or exhorts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (rhetoric) a formal or authoritative address that advises or exhorts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The worthies began a revolution, Which if on earth you intend to acknowledge, Why, honor them now! (ends my allocution) Nor confer your degree when the folks leave college. 21."*
+> - 📜 **James Joyce (*Ulysses*):** *"It was effaced as easily as it had been evoked by an allocution from Mr Candidate Mulligan in that vein of pleasantry which none better than he knew how to affect, postulating as the supremest object of desire a nice clean old man."*

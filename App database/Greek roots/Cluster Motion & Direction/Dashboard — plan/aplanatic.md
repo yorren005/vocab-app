@@ -5,13 +5,6 @@ status: unread
 ---
 # aplanatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from or corrected for spherical aberration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from or corrected for spherical aberration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplanatic designates free from or corrected for spherical aberration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from or corrected for spherical aberration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from or corrected for spherical aberration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplanatic designates free from or corrected for spherical aberration."*

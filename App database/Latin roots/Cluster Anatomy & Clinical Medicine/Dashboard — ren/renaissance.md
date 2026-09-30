@@ -5,15 +5,6 @@ status: unread
 ---
 # renaissance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of european history at the close of the middle ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The revival of learning and culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch's Lives was the great staple of education in the Renaissance--and as good a one, perhaps, as we have yet discovered, even in this age when there are so many theories of education with foreign names."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The Renaissance knew of strange manners of poisoning—poisoning by a helmet and a lighted torch, by an embroidered glove and a jewelled fan, by a gilded pomander and by an amber chain."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is nearly all that I said of the Central Renaissance in thirty pages of the ‘Stones of Venice’ put into as many lines, Browning’s being also the antecedent work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of european history at the close of the middle ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The revival of learning and culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch's Lives was the great staple of education in the Renaissance--and as good a one, perhaps, as we have yet discovered, even in this age when there are so many theories of education with foreign names."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The Renaissance knew of strange manners of poisoning—poisoning by a helmet and a lighted torch, by an embroidered glove and a jewelled fan, by a gilded pomander and by an amber chain."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is nearly all that I said of the Central Renaissance in thirty pages of the ‘Stones of Venice’ put into as many lines, Browning’s being also the antecedent work."*

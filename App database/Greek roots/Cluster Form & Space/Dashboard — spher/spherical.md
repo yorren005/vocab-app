@@ -5,15 +5,6 @@ status: unread
 ---
 # spherical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a sphere or of one of its segments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or dealing with a sphere or its properties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is spherical, like a globe."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This fluid mass comprises two billions two hundred and fifty millions of cubic miles, forming a spherical body of a diameter of sixty leagues, the weight of which would be three quintillions of tons."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After a sufficient quantity has thus been collected, the oil undergoes a purifying process, and is then poured into the small spherical shells of the nuts of the moo-tree, which are hollowed out to receive it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a sphere or of one of its segments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or dealing with a sphere or its properties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is spherical, like a globe."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This fluid mass comprises two billions two hundred and fifty millions of cubic miles, forming a spherical body of a diameter of sixty leagues, the weight of which would be three quintillions of tons."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After a sufficient quantity has thus been collected, the oil undergoes a purifying process, and is then poured into the small spherical shells of the nuts of the moo-tree, which are hollowed out to receive it."*

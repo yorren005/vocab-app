@@ -5,13 +5,6 @@ status: unread
 ---
 # antherozoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antherozoid designates a motile male gamete of a plant such as an alga or fern or gymnosperm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antherozoid designates a motile male gamete of a plant such as an alga or fern or gymnosperm."*

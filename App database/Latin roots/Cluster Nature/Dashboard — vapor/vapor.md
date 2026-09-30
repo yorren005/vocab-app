@@ -5,15 +5,6 @@ status: unread
 ---
 # vapor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible suspension in the air of particles of some substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of becoming a vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The duties of her married life, contemplated as so great beforehand, seemed to be shrinking with the furniture and the white vapor-walled landscape."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His discontent passed vapor-like through all her gentle loving manifestations, and clung to that inappreciative world which she had only brought nearer to him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The strong vapor now completely filling the contracted hole, it began to tell upon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible suspension in the air of particles of some substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of becoming a vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The duties of her married life, contemplated as so great beforehand, seemed to be shrinking with the furniture and the white vapor-walled landscape."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His discontent passed vapor-like through all her gentle loving manifestations, and clung to that inappreciative world which she had only brought nearer to him."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The strong vapor now completely filling the contracted hole, it began to tell upon him."*

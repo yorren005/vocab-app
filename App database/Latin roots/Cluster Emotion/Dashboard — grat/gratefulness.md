@@ -5,15 +5,6 @@ status: unread
 ---
 # gratefulness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm friendly feelings of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm friendly feelings of gratitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli's heart was simply filled with gratefulness for what he had done and she often wished in turn for an opportunity to help him out of some trouble."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"I have a long history to tell you, one of these days, of the gratefulness of the men."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Tom got more cuffs and kisses that day—according to Aunt Polly’s varying moods—than he had earned before in a year; and he hardly knew which expressed the most gratefulness to God and affection for himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm friendly feelings of gratitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm friendly feelings of gratitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli's heart was simply filled with gratefulness for what he had done and she often wished in turn for an opportunity to help him out of some trouble."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"I have a long history to tell you, one of these days, of the gratefulness of the men."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Tom got more cuffs and kisses that day—according to Aunt Polly’s varying moods—than he had earned before in a year; and he hardly knew which expressed the most gratefulness to God and affection for himself."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # asthenosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenosphere designates a zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenosphere designates a zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses."*

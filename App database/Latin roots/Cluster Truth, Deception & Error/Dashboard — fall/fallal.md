@@ -5,13 +5,6 @@ status: unread
 ---
 # fallal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheap showy jewelry or ornament on clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheap showy jewelry or ornament on clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallal designates cheap showy jewelry or ornament on clothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheap showy jewelry or ornament on clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheap showy jewelry or ornament on clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallal designates cheap showy jewelry or ornament on clothing."*

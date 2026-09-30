@@ -5,13 +5,6 @@ status: unread
 ---
 # antistrophe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of words in reversed order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The repetition of a word or phrase at the end of successive clauses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Antistrophe Plunderer of Armies! lift thine eyes, (A while forbear, ye torturing fiends;) Seest thou whose step, unwilling, hither bends?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of words in reversed order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The repetition of a word or phrase at the end of successive clauses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Antistrophe Plunderer of Armies! lift thine eyes, (A while forbear, ye torturing fiends;) Seest thou whose step, unwilling, hither bends?"*

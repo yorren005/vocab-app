@@ -5,13 +5,6 @@ status: unread
 ---
 # underseal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underseal designates seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underseal designates seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion."*

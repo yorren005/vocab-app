@@ -5,15 +5,6 @@ status: unread
 ---
 # pelvis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The structure of the vertebrate skeleton supporting the lower limbs in humans and the hind limbs or corresponding parts in other vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure shaped like a funnel in the outlet of the kidney into which urine is discharged before passing into the ureter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To grope down into the bottom of the sea after them; to have one’s hands among the unspeakable foundations, ribs, and very pelvis of the world; this is a fearful thing."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To grope down into the bottom of the sea after them; to have one’s hands among the unspeakable foundations, ribs, and very pelvis of the world; this is a fearful thing."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our delight was at its height when the bones of the pelvis and part of the hind limb were laid bare, for they had never been seen before in the species and scarcely in the order."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structure of the vertebrate skeleton supporting the lower limbs in humans and the hind limbs or corresponding parts in other vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure shaped like a funnel in the outlet of the kidney into which urine is discharged before passing into the ureter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To grope down into the bottom of the sea after them; to have one’s hands among the unspeakable foundations, ribs, and very pelvis of the world; this is a fearful thing."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To grope down into the bottom of the sea after them; to have one’s hands among the unspeakable foundations, ribs, and very pelvis of the world; this is a fearful thing."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our delight was at its height when the bones of the pelvis and part of the hind limb were laid bare, for they had never been seen before in the species and scarcely in the order."*

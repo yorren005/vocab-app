@@ -5,15 +5,6 @@ status: unread
 ---
 # fraternal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a fraternity or society of usually men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of twins) derived from two separate fertilized ova.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth was come to Kellynch as to a home, to stay as long as he liked, being as thoroughly the object of the Admiral’s fraternal kindness as of his wife’s."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"On his two younger sisters he then bestowed an equal portion of his fraternal tenderness, for he asked each of them how they did, and observed that they both looked very ugly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Assessment insurance is sold by business companies organized for profit, by fraternal orders, and by various types of mutual organizations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a fraternity or society of usually men.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of twins) derived from two separate fertilized ova.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth was come to Kellynch as to a home, to stay as long as he liked, being as thoroughly the object of the Admiral’s fraternal kindness as of his wife’s."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"On his two younger sisters he then bestowed an equal portion of his fraternal tenderness, for he asked each of them how they did, and observed that they both looked very ugly."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Assessment insurance is sold by business companies organized for profit, by fraternal orders, and by various types of mutual organizations."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nothosauria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of sauropterygia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suborder of sauropterygia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothosauria designates a suborder of sauropterygia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of sauropterygia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suborder of sauropterygia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothosauria designates a suborder of sauropterygia."*

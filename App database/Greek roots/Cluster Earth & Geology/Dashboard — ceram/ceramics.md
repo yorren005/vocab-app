@@ -5,15 +5,6 @@ status: unread
 ---
 # ceramics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making and decorating pottery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact made of hard brittle material produced from nonmetallic minerals by firing at high temperatures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ceramics, composites, and other substitutes are fine as far as they go, but they do only a tiny part of the job."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"That is the purpose of the present volumes, in which I have attempted merely to lay before the reader the existing material for studying Chinese ceramics as I have found it, adding my own conclusions and comments, which he may or may not accept."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The revelation of T´ang ceramics has provided many surprises, and doubtless there are more in store for us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making and decorating pottery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact made of hard brittle material produced from nonmetallic minerals by firing at high temperatures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ceramics, composites, and other substitutes are fine as far as they go, but they do only a tiny part of the job."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"That is the purpose of the present volumes, in which I have attempted merely to lay before the reader the existing material for studying Chinese ceramics as I have found it, adding my own conclusions and comments, which he may or may not accept."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The revelation of T´ang ceramics has provided many surprises, and doubtless there are more in store for us."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # battle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile meeting of opposing military forces in the course of a war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An energetic attempt to achieve something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he’s hurt i’ the battle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Field of battle between the Camps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we draw lots, he speeds; His cocks do win the battle still of mine When it is all to naught, and his quails ever Beat mine, inhooped, at odds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile meeting of opposing military forces in the course of a war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An energetic attempt to achieve something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he’s hurt i’ the battle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Field of battle between the Camps."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we draw lots, he speeds; His cocks do win the battle still of mine When it is all to naught, and his quails ever Beat mine, inhooped, at odds."*

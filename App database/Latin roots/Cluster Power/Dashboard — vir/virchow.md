@@ -5,13 +5,6 @@ status: unread
 ---
 # virchow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virchow designates german pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virchow designates german pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902)."*

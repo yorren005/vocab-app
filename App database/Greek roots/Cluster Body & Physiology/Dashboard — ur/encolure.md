@@ -5,13 +5,6 @@ status: unread
 ---
 # encolure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mane of a horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mane of a horse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encolure designates the mane of a horse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mane of a horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mane of a horse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encolure designates the mane of a horse."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # option
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of things from which only one can be chosen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Still, in most countries and in most states in America, the worker has the option of suing under the old law."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The amount to be contributed by each citizen will in a degree be at his own option, and can be regulated by an attention to his resources."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of things from which only one can be chosen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Still, in most countries and in most states in America, the worker has the option of suing under the old law."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The amount to be contributed by each citizen will in a degree be at his own option, and can be regulated by an attention to his resources."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others."*

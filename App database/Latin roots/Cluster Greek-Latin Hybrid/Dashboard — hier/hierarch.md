@@ -5,14 +5,6 @@ status: unread
 ---
 # hierarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds a high position in a hierarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom the winged Hierarch repli’d."*
-> - 📜 **John Milton (*Paradise Lost*):** *"The princely Hierarch In their bright stand there left his Powers, to seise Possession of the garden; he alone, To find where Adam sheltered, took his way, Not unperceived of Adam; who to Eve, While the great visitant approached, thus spake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds a high position in a hierarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom the winged Hierarch repli’d."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The princely Hierarch In their bright stand there left his Powers, to seise Possession of the garden; he alone, To find where Adam sheltered, took his way, Not unperceived of Adam; who to Eve, While the great visitant approached, thus spake."*

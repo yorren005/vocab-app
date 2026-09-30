@@ -5,15 +5,6 @@ status: unread
 ---
 # decay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of gradually becoming inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual decrease; as of stored charge or current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And fortify yourself in your decay With means more blessed than my barren rhyme?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of gradually becoming inferior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual decrease; as of stored charge or current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And fortify yourself in your decay With means more blessed than my barren rhyme?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*

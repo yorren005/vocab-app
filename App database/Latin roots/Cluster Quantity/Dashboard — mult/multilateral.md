@@ -5,13 +5,6 @@ status: unread
 ---
 # multilateral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many parts or sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many parts or sides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The studies predicted that politically independent nation-states would create multilateral alignments and conflicting societies, lifestyles and philosophies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many parts or sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many parts or sides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The studies predicted that politically independent nation-states would create multilateral alignments and conflicting societies, lifestyles and philosophies."*

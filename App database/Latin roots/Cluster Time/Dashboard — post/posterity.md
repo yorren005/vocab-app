@@ -5,15 +5,6 @@ status: unread
 ---
 # posterity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the offspring of a given progenitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All future generations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who is he so fond will be the tomb Of his self-love to stop posterity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’d make an end of thy posterity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Posterity, await for wretched years, When at their mothers’ moist eyes babes shall suck, Our isle be made a nourish of salt tears, And none but women left to wail the dead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the offspring of a given progenitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All future generations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who is he so fond will be the tomb Of his self-love to stop posterity?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’d make an end of thy posterity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Posterity, await for wretched years, When at their mothers’ moist eyes babes shall suck, Our isle be made a nourish of salt tears, And none but women left to wail the dead."*

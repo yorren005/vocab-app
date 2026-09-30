@@ -5,13 +5,6 @@ status: unread
 ---
 # triclinium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dining room (especially a dining room containing a dining table with couches along three sides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dining table with couches along three sides in ancient rome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triclinium designates a dining room (especially a dining room containing a dining table with couches along three sides)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dining room (especially a dining room containing a dining table with couches along three sides).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dining table with couches along three sides in ancient rome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triclinium designates a dining room (especially a dining room containing a dining table with couches along three sides)."*

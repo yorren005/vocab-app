@@ -5,13 +5,6 @@ status: unread
 ---
 # barmy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by spirited enjoyment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal or slang terms for mentally irregular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barmy designates marked by spirited enjoyment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by spirited enjoyment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal or slang terms for mentally irregular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barmy designates marked by spirited enjoyment."*

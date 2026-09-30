@@ -5,13 +5,6 @@ status: unread
 ---
 # castration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neutering a male animal by removing the testicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the testes or ovaries (usually to inhibit hormone secretion in cases of breast cancer in women or prostate cancer in men).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"Several of his fife and drum boys were Mohammedanized, and placed in the seraglio for the purpose of castration; but this operation never took place: and many of his principal officers left him for Bombay, prior to his being captured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Neutering a male animal by removing the testicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the testes or ovaries (usually to inhibit hormone secretion in cases of breast cancer in women or prostate cancer in men).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"Several of his fife and drum boys were Mohammedanized, and placed in the seraglio for the purpose of castration; but this operation never took place: and many of his principal officers left him for Bombay, prior to his being captured."*

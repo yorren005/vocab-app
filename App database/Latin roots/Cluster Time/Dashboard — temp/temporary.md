@@ -5,15 +5,6 @@ status: unread
 ---
 # temporary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker (especially in an office) hired on a temporary basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not permanent; not lasting; - james thurber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him for a man divine and holy, Not scurvy, nor a temporary meddler, As he’s reported by this gentleman; And, on my trust, a man that never yet Did, as he vouches, misreport your Grace."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce then withdrawing into the temporary growlery, Miss Jellyby opened a conversation with her usual abruptness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I had left some silk downstairs in a work-table drawer in the temporary growlery, and coming to a stop for want of it, I took my candle and went softly down to get it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker (especially in an office) hired on a temporary basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not permanent; not lasting; - james thurber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him for a man divine and holy, Not scurvy, nor a temporary meddler, As he’s reported by this gentleman; And, on my trust, a man that never yet Did, as he vouches, misreport your Grace."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce then withdrawing into the temporary growlery, Miss Jellyby opened a conversation with her usual abruptness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But I had left some silk downstairs in a work-table drawer in the temporary growlery, and coming to a stop for want of it, I took my candle and went softly down to get it."*

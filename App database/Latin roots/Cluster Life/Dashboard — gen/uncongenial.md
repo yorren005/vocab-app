@@ -5,15 +5,6 @@ status: unread
 ---
 # uncongenial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable to your tastes or needs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very unfavorable to life or growth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Modern life stretched out its steam feeler to this point three or four times a day, touched the native existences, and quickly withdrew its feeler again, as if what it touched had been uncongenial."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It must have been most irksome to find herself bound by a hard-wrung pledge to stand in the stead of a parent to a strange child she could not love, and to see an uncongenial alien permanently intruded on her own family group."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the village school I found you could perform well, punctually, uprightly, labour uncongenial to your habits and inclinations; I saw you could perform it with capacity and tact: you could win while you controlled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable to your tastes or needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very unfavorable to life or growth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Modern life stretched out its steam feeler to this point three or four times a day, touched the native existences, and quickly withdrew its feeler again, as if what it touched had been uncongenial."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It must have been most irksome to find herself bound by a hard-wrung pledge to stand in the stead of a parent to a strange child she could not love, and to see an uncongenial alien permanently intruded on her own family group."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the village school I found you could perform well, punctually, uprightly, labour uncongenial to your habits and inclinations; I saw you could perform it with capacity and tact: you could win while you controlled."*

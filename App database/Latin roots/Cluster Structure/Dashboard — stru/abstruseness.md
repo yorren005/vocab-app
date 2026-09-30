@@ -5,13 +5,6 @@ status: unread
 ---
 # abstruseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unclear or abstruse and hard to understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom that is recondite and abstruse and profound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The most wrinkled AEson of an abstruseness leaps rosy out of his bubbling genius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unclear or abstruse and hard to understand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom that is recondite and abstruse and profound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The most wrinkled AEson of an abstruseness leaps rosy out of his bubbling genius."*

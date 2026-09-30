@@ -5,15 +5,6 @@ status: unread
 ---
 # oxidation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When a metal is heated in the air there is usually trouble from oxidation."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And so when one melts metal by means of the white cone the hydrogen jacket shields the molten metal from oxygen and prevents the oxidation."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Only one who knows the bother caused by oxidation whenever metals are heated can realise the wonderful advantage of this."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When a metal is heated in the air there is usually trouble from oxidation."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And so when one melts metal by means of the white cone the hydrogen jacket shields the molten metal from oxygen and prevents the oxidation."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Only one who knows the bother caused by oxidation whenever metals are heated can realise the wonderful advantage of this."*

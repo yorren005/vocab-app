@@ -5,15 +5,6 @@ status: unread
 ---
 # decrepit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn and broken down by hard use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking bodily or muscular strength or vitality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He lies upon his bed, an aged man with sunken cheeks, the decrepit shadow of himself."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Decrepit families imply decrepit wills, decrepit conduct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn and broken down by hard use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking bodily or muscular strength or vitality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He lies upon his bed, an aged man with sunken cheeks, the decrepit shadow of himself."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Decrepit families imply decrepit wills, decrepit conduct."*

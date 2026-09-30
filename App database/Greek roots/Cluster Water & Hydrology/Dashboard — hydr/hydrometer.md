@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for determining the specific gravity of a liquid or solid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for determining the specific gravity of a liquid or solid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This weight is ascertained by means of a "hydrometer," a glass tube, stopped, and loaded with some small shot at its lower end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for determining the specific gravity of a liquid or solid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for determining the specific gravity of a liquid or solid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This weight is ascertained by means of a "hydrometer," a glass tube, stopped, and loaded with some small shot at its lower end."*

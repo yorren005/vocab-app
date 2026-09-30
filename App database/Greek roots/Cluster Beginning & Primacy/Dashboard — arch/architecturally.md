@@ -5,14 +5,6 @@ status: unread
 ---
 # architecturally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to architecture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Accountant had brought out already a box of dominoes, and was toying architecturally with the bones."*
-> - 📜 **James Joyce (*Ulysses*):** *"The apple of discord was a certain castle of sand which Master Jacky had built and Master Tommy would have it right go wrong that it was to be architecturally improved by a frontdoor like the Martello tower had."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to architecture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Accountant had brought out already a box of dominoes, and was toying architecturally with the bones."*
+> - 📜 **James Joyce (*Ulysses*):** *"The apple of discord was a certain castle of sand which Master Jacky had built and Master Tommy would have it right go wrong that it was to be architecturally improved by a frontdoor like the Martello tower had."*

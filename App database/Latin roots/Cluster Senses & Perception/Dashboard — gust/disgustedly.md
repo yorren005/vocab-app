@@ -5,13 +5,6 @@ status: unread
 ---
 # disgustedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With disgust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With disgust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"It’s no use,” muttered Fenton, disgustedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With disgust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With disgust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"It’s no use,” muttered Fenton, disgustedly."*

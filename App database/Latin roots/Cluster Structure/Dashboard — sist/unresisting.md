@@ -5,15 +5,6 @@ status: unread
 ---
 # unresisting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering no resistance; ; - theodore roosevelt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no resistance; ; - theodore roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby replies by delivering herself a prey to spasms, not an unresisting prey, but a crying and a tearing one, so that Cook’s Court re-echoes with her shrieks."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why had the mere name of this unresisting individual—whom his word now sufficed to control like a child—fallen on him, a few hours since, as a thunderbolt might fall on an oak?"*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The man made a motion to run, but Philip clutched his arm, and he stood cowering and unresisting. ‘You!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering no resistance; ; - theodore roosevelt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no resistance; ; - theodore roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby replies by delivering herself a prey to spasms, not an unresisting prey, but a crying and a tearing one, so that Cook’s Court re-echoes with her shrieks."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why had the mere name of this unresisting individual—whom his word now sufficed to control like a child—fallen on him, a few hours since, as a thunderbolt might fall on an oak?"*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The man made a motion to run, but Philip clutched his arm, and he stood cowering and unresisting. ‘You!"*

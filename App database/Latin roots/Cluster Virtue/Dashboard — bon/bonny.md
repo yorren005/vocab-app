@@ -5,15 +5,6 @@ status: unread
 ---
 # bonny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very pleasing to the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very pleasing to the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why would you be so fond to overcome The bonny prizer of the humorous Duke?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he made a good end. [_Sings._] For bonny sweet Robin is all my joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The deadly-handed Clifford slew my steed, But match to match I have encountered him And made a prey for carrion kites and crows Even of the bonny beast he loved so well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very pleasing to the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very pleasing to the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why would you be so fond to overcome The bonny prizer of the humorous Duke?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he made a good end. [_Sings._] For bonny sweet Robin is all my joy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The deadly-handed Clifford slew my steed, But match to match I have encountered him And made a prey for carrion kites and crows Even of the bonny beast he loved so well."*

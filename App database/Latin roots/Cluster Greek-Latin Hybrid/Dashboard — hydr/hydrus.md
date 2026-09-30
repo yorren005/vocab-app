@@ -5,14 +5,6 @@ status: unread
 ---
 # hydrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere near the south celestial pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near the south celestial pole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere near the south celestial pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near the south celestial pole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*

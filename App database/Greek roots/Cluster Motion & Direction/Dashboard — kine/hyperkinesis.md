@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperkinesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally increased and sometimes uncontrollable activity or muscular movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition especially of childhood characterized by hyperactivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperkinesis designates abnormally increased and sometimes uncontrollable activity or muscular movements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally increased and sometimes uncontrollable activity or muscular movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition especially of childhood characterized by hyperactivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperkinesis designates abnormally increased and sometimes uncontrollable activity or muscular movements."*

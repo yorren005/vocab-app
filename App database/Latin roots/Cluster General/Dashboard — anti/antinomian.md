@@ -5,14 +5,6 @@ status: unread
 ---
 # antinomian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of the doctrine of antinomianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or influenced by antinomianism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sermon, as might be expected, was of the extremest antinomian type; on justification by faith, as expounded in the theology of St Paul."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The wildness of an Antinomian predestinarianism has never been so grandly painted as in ‘Johannes Agricola in Meditation’; the white heat of the persecutor glares on us, like a nightmare spectre, in ‘The Heretic’s Tragedy’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of the doctrine of antinomianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or influenced by antinomianism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sermon, as might be expected, was of the extremest antinomian type; on justification by faith, as expounded in the theology of St Paul."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The wildness of an Antinomian predestinarianism has never been so grandly painted as in ‘Johannes Agricola in Meditation’; the white heat of the persecutor glares on us, like a nightmare spectre, in ‘The Heretic’s Tragedy’."*

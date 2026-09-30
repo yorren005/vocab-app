@@ -5,14 +5,6 @@ status: unread
 ---
 # levitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to rise in the air and float, as if in defiance of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be suspended in the air, as if in defiance of gravity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"EDWARD THE SEVENTH: _(Levitates over heaps of slain, in the garb and with the halo of Joking Jesus, a white jujube in his phosphorescent face.)_ My methods are new and are causing surprise."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"One levitated above common ground...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to rise in the air and float, as if in defiance of gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be suspended in the air, as if in defiance of gravity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"EDWARD THE SEVENTH: _(Levitates over heaps of slain, in the garb and with the halo of Joking Jesus, a white jujube in his phosphorescent face.)_ My methods are new and are causing surprise."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"One levitated above common ground...."*

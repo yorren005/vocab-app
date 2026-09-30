@@ -5,15 +5,6 @@ status: unread
 ---
 # hod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tray or trough that has a pole handle and that is borne on the shoulder for carrying loads (as of mortar or brick).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coal scuttle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The other contested the point, and the conversation ended in a bet that he could not carry him in his hod up a ladder to the top of the building."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The experiment was made: Pat placed himself in the hod, and his comrade, after a great deal of care and exertion, succeeded in taking him up."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"She led him straight to the coal-box, on which she sat until he had filled a hod with coal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tray or trough that has a pole handle and that is borne on the shoulder for carrying loads (as of mortar or brick).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coal scuttle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The other contested the point, and the conversation ended in a bet that he could not carry him in his hod up a ladder to the top of the building."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The experiment was made: Pat placed himself in the hod, and his comrade, after a great deal of care and exertion, succeeded in taking him up."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"She led him straight to the coal-box, on which she sat until he had filled a hod with coal."*

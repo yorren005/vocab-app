@@ -5,15 +5,6 @@ status: unread
 ---
 # pity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sympathy and sorrow for the misfortunes of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it lawful I love thee as thou lov’st those, Whom thine eyes woo as mine importune thee, Root pity in thy heart that when it grows, Thy pity may deserve to pitied be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I wish well. ’Tis pity— PAROLLES."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sympathy and sorrow for the misfortunes of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it lawful I love thee as thou lov’st those, Whom thine eyes woo as mine importune thee, Root pity in thy heart that when it grows, Thy pity may deserve to pitied be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I wish well. ’Tis pity— PAROLLES."*

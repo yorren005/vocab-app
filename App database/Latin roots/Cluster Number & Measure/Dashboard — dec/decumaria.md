@@ -5,13 +5,6 @@ status: unread
 ---
 # decumaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decumaria designates small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decumaria designates small genus of woody climbers with adhesive aerial roots; sometimes placed in family saxifragaceae."*

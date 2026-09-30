@@ -5,14 +5,6 @@ status: unread
 ---
 # criminally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shameful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violation of the law; in a criminal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Exhibiting unparalleled magnanimity, it criminally punished no man for political offenses, and warmly welcomed all who proved their loyalty by obeying the laws and dealing justly with their neighbors."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"While thus criminally occupied, he was startled by the opening of the chamber-door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shameful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violation of the law; in a criminal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Exhibiting unparalleled magnanimity, it criminally punished no man for political offenses, and warmly welcomed all who proved their loyalty by obeying the laws and dealing justly with their neighbors."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"While thus criminally occupied, he was startled by the opening of the chamber-door."*

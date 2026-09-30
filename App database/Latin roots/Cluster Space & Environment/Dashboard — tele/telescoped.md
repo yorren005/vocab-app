@@ -5,13 +5,6 @@ status: unread
 ---
 # telescoped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crush together or collapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller or shorter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Two or three street cars had telescoped and an auto or so had piled into the wreckage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crush together or collapse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller or shorter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Two or three street cars had telescoped and an auto or so had piled into the wreckage."*

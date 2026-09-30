@@ -5,15 +5,6 @@ status: unread
 ---
 # prisoner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is confined; especially a prisoner of war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is confined; especially a prisoner of war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He taught me how to know a man in love, in which cage of rushes I am sure you are not prisoner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou jailer, thou, I am thy prisoner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is my prisoner, and you shall not have him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is confined; especially a prisoner of war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is confined; especially a prisoner of war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He taught me how to know a man in love, in which cage of rushes I am sure you are not prisoner."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou jailer, thou, I am thy prisoner."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is my prisoner, and you shall not have him."*

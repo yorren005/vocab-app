@@ -5,13 +5,6 @@ status: unread
 ---
 # photomechanics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby printing surfaces (plates or cylinders) are produced by photographic methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technique of using photomechanical methods to make photographs into plates for printing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomechanics designates the process whereby printing surfaces (plates or cylinders) are produced by photographic methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby printing surfaces (plates or cylinders) are produced by photographic methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technique of using photomechanical methods to make photographs into plates for printing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomechanics designates the process whereby printing surfaces (plates or cylinders) are produced by photographic methods."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # facial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cranial nerve that supplies facial muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Care for the face that usually involves cleansing and massage and the application of cosmetic creams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The room inside was lighted only by the ruddy glow from the kiln mouth, which shone over the floor with the streaming horizontality of the setting sun, and threw upwards the shadows of all facial irregularities in those assembled around."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He saw her black hair, her correct facial curves and profile, and the roundness of her chin and throat."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cranial nerve that supplies facial muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Care for the face that usually involves cleansing and massage and the application of cosmetic creams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The room inside was lighted only by the ruddy glow from the kiln mouth, which shone over the floor with the streaming horizontality of the setting sun, and threw upwards the shadows of all facial irregularities in those assembled around."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He saw her black hair, her correct facial curves and profile, and the roundness of her chin and throat."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*

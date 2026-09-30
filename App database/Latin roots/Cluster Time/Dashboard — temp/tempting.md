@@ -5,15 +5,6 @@ status: unread
 ---
 # tempting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispose or incline or entice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke someone to do something through (often false or exaggerated) promises or persuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am much too venturous In tempting of your patience, but am boldened Under your promised pardon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O how ripe in show Thy lips, those kissing cherries, tempting grow!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, we won’t toss money on a Sunday, that would be tempting the devil indeed.” “Toss this hymn-book; there can’t be no sinfulness in that, miss.” “Very well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispose or incline or entice to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke someone to do something through (often false or exaggerated) promises or persuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am much too venturous In tempting of your patience, but am boldened Under your promised pardon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O how ripe in show Thy lips, those kissing cherries, tempting grow!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, we won’t toss money on a Sunday, that would be tempting the devil indeed.” “Toss this hymn-book; there can’t be no sinfulness in that, miss.” “Very well."*

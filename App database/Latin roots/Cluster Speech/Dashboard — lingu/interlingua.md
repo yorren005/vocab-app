@@ -5,13 +5,6 @@ status: unread
 ---
 # interlingua
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlingua designates an artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlingua designates an artificial language proposed for use as an auxiliary international language; based on words common to english and the romance languages."*

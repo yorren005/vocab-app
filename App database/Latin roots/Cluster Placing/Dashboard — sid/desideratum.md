@@ -5,15 +5,6 @@ status: unread
 ---
 # desideratum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something desired as a necessity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something desired as a necessity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let me add that it is the great desideratum by which this form of government can be rescued from the opprobrium under which it has so long labored, and be recommended to the esteem and adoption of mankind."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON OR MADISON To the People of the State of New York: A fifth desideratum, illustrating the utility of a senate, is the want of a due sense of national character."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Another and no less important desideratum was, that the Executive should be independent for his continuance in office on all but the people themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something desired as a necessity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something desired as a necessity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let me add that it is the great desideratum by which this form of government can be rescued from the opprobrium under which it has so long labored, and be recommended to the esteem and adoption of mankind."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON OR MADISON To the People of the State of New York: A fifth desideratum, illustrating the utility of a senate, is the want of a due sense of national character."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Another and no less important desideratum was, that the Executive should be independent for his continuance in office on all but the people themselves."*

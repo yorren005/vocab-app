@@ -5,15 +5,6 @@ status: unread
 ---
 # posing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (photography) the act of assuming a certain position (as for a photograph or portrait).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"None in the world, Evelina," he answered with a nice, straight, intellectuality showing over his whole face and even his lazy, posing figure."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I would say, my dear fellow, that you were posing for a character that doesn’t suit you."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The other INOR Chiefs of State sat back to enjoy the contest, posing occasional questions to Camari or Narval, or to both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (photography) the act of assuming a certain position (as for a photograph or portrait).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"None in the world, Evelina," he answered with a nice, straight, intellectuality showing over his whole face and even his lazy, posing figure."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I would say, my dear fellow, that you were posing for a character that doesn’t suit you."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The other INOR Chiefs of State sat back to enjoy the contest, posing occasional questions to Camari or Narval, or to both."*

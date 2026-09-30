@@ -5,13 +5,6 @@ status: unread
 ---
 # reattribute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attribute to another source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attribute to another source.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reattribute designates attribute to another source."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attribute to another source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attribute to another source.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reattribute designates attribute to another source."*

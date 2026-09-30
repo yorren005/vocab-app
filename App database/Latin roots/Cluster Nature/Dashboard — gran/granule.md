@@ -5,15 +5,6 @@ status: unread
 ---
 # granule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny grain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tiny grain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This powder, minute as it is, every granule of it constitutes a spore or protospore capable of germination, and ultimately, after several intermediate stages, of reproducing a fungus like the parent of which it formed a part."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We may, however, note that in a species found on the leaves of the common cock’s-foot grass the spores are large, obovate, and rough, with minute granules (figs. 117, 118)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When these bodies have attained their full dimensions, the large granules which are contained in the oogonium accumulate at its centre, and form an irregular, somewhat spherical mass, which is called by De Bary a _gonosphere_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny grain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tiny grain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This powder, minute as it is, every granule of it constitutes a spore or protospore capable of germination, and ultimately, after several intermediate stages, of reproducing a fungus like the parent of which it formed a part."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We may, however, note that in a species found on the leaves of the common cock’s-foot grass the spores are large, obovate, and rough, with minute granules (figs. 117, 118)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When these bodies have attained their full dimensions, the large granules which are contained in the oogonium accumulate at its centre, and form an irregular, somewhat spherical mass, which is called by De Bary a _gonosphere_."*

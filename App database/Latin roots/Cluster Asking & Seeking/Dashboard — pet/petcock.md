@@ -5,13 +5,6 @@ status: unread
 ---
 # petcock
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petcock designates regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petcock designates regulator consisting of a small cock or faucet or valve for letting out air or releasing compression or draining."*

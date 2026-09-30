@@ -5,15 +5,6 @@ status: unread
 ---
 # offal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Viscera and trimmings of a butchered animal often considered inedible by humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viscera and trimmings of a butchered animal often considered inedible by humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d, and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s offal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What trash is Rome, What rubbish, and what offal, when it serves For the base matter to illuminate So vile a thing as Caesar!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go fetch me a quart of sack; put a toast in ’t. [_Exit Bardolph._] Have I lived to be carried in a basket like a barrow of butcher’s offal, and to be thrown in the Thames?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Viscera and trimmings of a butchered animal often considered inedible by humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viscera and trimmings of a butchered animal often considered inedible by humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d, and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s offal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What trash is Rome, What rubbish, and what offal, when it serves For the base matter to illuminate So vile a thing as Caesar!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go fetch me a quart of sack; put a toast in ’t. [_Exit Bardolph._] Have I lived to be carried in a basket like a barrow of butcher’s offal, and to be thrown in the Thames?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # civilized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Considering his position he became wonderfully free from the chronic melancholy which is taking hold of the civilized races with the decline of belief in a beneficent Power."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each brother candidly recognized that there were a few unimportant score of millions of outsiders in civilized society, persons who were neither University men nor churchmen; but they were to be tolerated rather than reckoned with and respected."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, no; California is civilized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Considering his position he became wonderfully free from the chronic melancholy which is taking hold of the civilized races with the decline of belief in a beneficent Power."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each brother candidly recognized that there were a few unimportant score of millions of outsiders in civilized society, persons who were neither University men nor churchmen; but they were to be tolerated rather than reckoned with and respected."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, no; California is civilized."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # imperceptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or difficult to perceive by the mind or senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible or difficult to perceive by the mind or senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just as that imperceptible motion which appears like stillness is infinitely divided in its properties from stillness itself, so had his hope undistinguishable from despair differed from despair indeed."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"By imperceptible degrees, as the tide ran out, we lost more and more of the nearer woods and hills, and dropped lower and lower between the muddy banks, but the tide was yet with us when we were off Gravesend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or difficult to perceive by the mind or senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible or difficult to perceive by the mind or senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just as that imperceptible motion which appears like stillness is infinitely divided in its properties from stillness itself, so had his hope undistinguishable from despair differed from despair indeed."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"By imperceptible degrees, as the tide ran out, we lost more and more of the nearer woods and hills, and dropped lower and lower between the muddy banks, but the tide was yet with us when we were off Gravesend."*

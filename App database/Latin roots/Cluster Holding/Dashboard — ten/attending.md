@@ -5,15 +5,6 @@ status: unread
 ---
 # attending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby a person concentrates on some features of the environment to the (relative) exclusion of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of being present (at a meeting or event etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords attending on the KING; Officers; Soldiers, &c., French and Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Imogen in her bed, and a Lady attending."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby a person concentrates on some features of the environment to the (relative) exclusion of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of being present (at a meeting or event etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lords attending on the KING; Officers; Soldiers, &c., French and Florentine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Imogen in her bed, and a Lady attending."*

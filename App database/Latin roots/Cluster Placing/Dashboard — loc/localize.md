@@ -5,15 +5,6 @@ status: unread
 ---
 # localize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identify the location or place of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concentrate on a particular place or spot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Localized production favoring monopoly. § 6."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Street railroads are often under public ownership in Europe; but there have thus far been few cases of the kind in the United States and Canada.[4] § 5. #Localized production favoring monopoly#."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Prior to the organization of The Rapid Electrotype Company, electrotyping was, on the whole, a localized business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identify the location or place of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concentrate on a particular place or spot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Localized production favoring monopoly. § 6."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Street railroads are often under public ownership in Europe; but there have thus far been few cases of the kind in the United States and Canada.[4] § 5. #Localized production favoring monopoly#."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Prior to the organization of The Rapid Electrotype Company, electrotyping was, on the whole, a localized business."*

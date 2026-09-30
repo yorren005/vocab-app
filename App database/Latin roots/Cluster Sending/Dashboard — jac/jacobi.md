@@ -5,13 +5,6 @@ status: unread
 ---
 # jacobi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German mathematician (1804-1851).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German mathematician (1804-1851).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Putman Jacobi, who has a little baby 3 weeks old & is still in her room, but has got through very nicely--She talks well, doesn't she? & has a face with plenty of individuality in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German mathematician (1804-1851).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German mathematician (1804-1851).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Putman Jacobi, who has a little baby 3 weeks old & is still in her room, but has got through very nicely--She talks well, doesn't she? & has a face with plenty of individuality in it."*

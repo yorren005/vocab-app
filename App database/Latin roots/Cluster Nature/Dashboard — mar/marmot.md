@@ -5,13 +5,6 @@ status: unread
 ---
 # marmot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Sand grouse were plentiful, half running, half flying before us as we advanced, and when we were well in the desert we saw eagles in large numbers, and farther north the marmots abounded, in appearance and ways much like prairie dogs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Sand grouse were plentiful, half running, half flying before us as we advanced, and when we were well in the desert we saw eagles in large numbers, and farther north the marmots abounded, in appearance and ways much like prairie dogs."*

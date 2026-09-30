@@ -5,14 +5,6 @@ status: unread
 ---
 # syntax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sentence structure : the way in which linguistic elements (such as words) are put together to form phrases, clauses, or sentences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of grammar dealing with this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Theoretical, being confined to certain grammatical rules of accidence and syntax and practically excluding vocabulary."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The twenty-third of May came . . . an unseasonably warm day, as none realized more keenly than Anne and her little beehive of pupils, sweltering over fractions and syntax in the Avonlea schoolroom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sentence structure : the way in which linguistic elements (such as words) are put together to form phrases, clauses, or sentences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of grammar dealing with this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Theoretical, being confined to certain grammatical rules of accidence and syntax and practically excluding vocabulary."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The twenty-third of May came . . . an unseasonably warm day, as none realized more keenly than Anne and her little beehive of pupils, sweltering over fractions and syntax in the Avonlea schoolroom."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # signalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with traffic signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here the writers against the Constitution seem to have taken pains to signalize their talent of misrepresentation."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Nothing else could be thought of; and dinner being ended, the Earl and his company sallied forth to the castle gate, resolved to signalize the day by an act of loyalty that would endear their names to posterity."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not one came, moreover, without her little pipkin of pennyroyal, sage, balm, or other herb tea, delighted at an opportunity of signalizing her kindness and her doctorship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with traffic signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here the writers against the Constitution seem to have taken pains to signalize their talent of misrepresentation."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Nothing else could be thought of; and dinner being ended, the Earl and his company sallied forth to the castle gate, resolved to signalize the day by an act of loyalty that would endear their names to posterity."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not one came, moreover, without her little pipkin of pennyroyal, sage, balm, or other herb tea, delighted at an opportunity of signalizing her kindness and her doctorship."*

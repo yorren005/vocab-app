@@ -5,13 +5,6 @@ status: unread
 ---
 # Xanthippe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ill-tempered woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 5th century b.c. wife of Socrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What useful discovery did Socrates learn from Xanthippe? —Dialectic, Stephen answered: and from his mother how to bring thoughts into the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ill-tempered woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 5th century b.c. wife of Socrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What useful discovery did Socrates learn from Xanthippe? —Dialectic, Stephen answered: and from his mother how to bring thoughts into the world."*

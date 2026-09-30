@@ -5,15 +5,6 @@ status: unread
 ---
 # licence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive freedom; lack of due restraint; - will durant; - edmund burke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom to deviate deliberately from normally applicable rules or practices (especially in behavior or speech).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Name Cleopatra as she is called in Rome; Rail thou in Fulvia’s phrase, and taunt my faults With such full licence as both truth and malice Have power to utter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We never valu’d this poor seat of England; And therefore, living hence, did give ourself To barbarous licence; as ’tis ever common That men are merriest when they are from home."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore thus will I reward thee: the Lent shall be as long again as it is, and thou shalt have a licence to kill for a hundred lacking one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive freedom; lack of due restraint; - will durant; - edmund burke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom to deviate deliberately from normally applicable rules or practices (especially in behavior or speech).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Name Cleopatra as she is called in Rome; Rail thou in Fulvia’s phrase, and taunt my faults With such full licence as both truth and malice Have power to utter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We never valu’d this poor seat of England; And therefore, living hence, did give ourself To barbarous licence; as ’tis ever common That men are merriest when they are from home."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore thus will I reward thee: the Lent shall be as long again as it is, and thou shalt have a licence to kill for a hundred lacking one."*

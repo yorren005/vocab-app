@@ -5,13 +5,6 @@ status: unread
 ---
 # depressor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skeletal muscle that draws a body part down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any nerve whose activity tends to reduce the activity or tone of the body part it serves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressor designates any skeletal muscle that draws a body part down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skeletal muscle that draws a body part down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any nerve whose activity tends to reduce the activity or tone of the body part it serves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressor designates any skeletal muscle that draws a body part down."*

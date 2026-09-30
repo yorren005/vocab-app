@@ -5,13 +5,6 @@ status: unread
 ---
 # undecomposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not left to spoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not left to spoil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Consequently, the products from the roasting of chalcopyrite consist principally of oxides of iron and copper, together with a certain amount of copper sulphate, very little iron sulphate, and some undecomposed sulphides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not left to spoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not left to spoil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Consequently, the products from the roasting of chalcopyrite consist principally of oxides of iron and copper, together with a certain amount of copper sulphate, very little iron sulphate, and some undecomposed sulphides."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sanitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from filth and pathogens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from filth and pathogens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Certainly, an arrangement of this kind would fail to be approved by a sanitary inspector in our times; and even during the day, when all the family were on the floor together, there was manifest overcrowding."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A meeting was to be held in the Town-Hall on a sanitary question which had risen into pressing importance by the occurrence of a cholera case in the town."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, “we have just come from a meeting—a sanitary meeting, you know.” “Was Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from filth and pathogens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from filth and pathogens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Certainly, an arrangement of this kind would fail to be approved by a sanitary inspector in our times; and even during the day, when all the family were on the floor together, there was manifest overcrowding."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A meeting was to be held in the Town-Hall on a sanitary question which had risen into pressing importance by the occurrence of a cholera case in the town."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, “we have just come from a meeting—a sanitary meeting, you know.” “Was Mr."*

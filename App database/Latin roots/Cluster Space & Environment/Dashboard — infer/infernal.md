@@ -5,15 +5,6 @@ status: unread
 ---
 # infernal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling hell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see her damned first to Pluto’s damned lake, by this hand, to th’ infernal deep, with Erebus and tortures vile also."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, talk not of her; you shall find her the infernal Ate in good apparel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Revenge, sent from th’ infernal kingdom To ease the gnawing vulture of thy mind By working wreakful vengeance on thy foes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of hell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling hell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see her damned first to Pluto’s damned lake, by this hand, to th’ infernal deep, with Erebus and tortures vile also."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, talk not of her; you shall find her the infernal Ate in good apparel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Revenge, sent from th’ infernal kingdom To ease the gnawing vulture of thy mind By working wreakful vengeance on thy foes."*

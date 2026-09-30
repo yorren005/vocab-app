@@ -5,13 +5,6 @@ status: unread
 ---
 # microtone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical interval smaller than a halftone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical interval smaller than a halftone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtone designates a musical interval smaller than a halftone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical interval smaller than a halftone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical interval smaller than a halftone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtone designates a musical interval smaller than a halftone."*

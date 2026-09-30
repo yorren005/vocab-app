@@ -5,13 +5,6 @@ status: unread
 ---
 # felo-de-se
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who kills himself intentionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of deliberate self destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felo-de-se designates a person who kills himself intentionally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who kills himself intentionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of deliberate self destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felo-de-se designates a person who kills himself intentionally."*

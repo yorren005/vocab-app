@@ -5,13 +5,6 @@ status: unread
 ---
 # philophylla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf miners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf miners.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philophylla designates leaf miners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf miners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf miners.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philophylla designates leaf miners."*

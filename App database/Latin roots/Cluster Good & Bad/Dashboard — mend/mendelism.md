@@ -5,13 +5,6 @@ status: unread
 ---
 # mendelism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of inheritance based on mendel's laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of inheritance based on mendel's laws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendelism designates the theory of inheritance based on mendel's laws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of inheritance based on mendel's laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of inheritance based on mendel's laws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendelism designates the theory of inheritance based on mendel's laws."*

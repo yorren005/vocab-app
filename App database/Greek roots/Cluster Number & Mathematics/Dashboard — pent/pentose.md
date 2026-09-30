@@ -5,13 +5,6 @@ status: unread
 ---
 # pentose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was my pentose and methyl-pentose determination in grapes and wines to which I had devoted my last summer vacation at the Asti Vineyards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was my pentose and methyl-pentose determination in grapes and wines to which I had devoted my last summer vacation at the Asti Vineyards."*

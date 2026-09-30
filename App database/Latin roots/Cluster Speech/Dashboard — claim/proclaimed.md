@@ -5,15 +5,6 @@ status: unread
 ---
 # proclaimed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare formally; declare someone to be something; of titles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, when merchant-like I sell revenge, Broke be my sword, my arms torn and defaced, And I proclaimed a coward through the world!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare formally; declare someone to be something; of titles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State or announce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, when merchant-like I sell revenge, Broke be my sword, my arms torn and defaced, And I proclaimed a coward through the world!"*

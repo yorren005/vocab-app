@@ -5,13 +5,6 @@ status: unread
 ---
 # mollah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muslim trained in the doctrine and law of islam; the head of a mosque.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muslim trained in the doctrine and law of islam; the head of a mosque.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollah designates a muslim trained in the doctrine and law of islam; the head of a mosque."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muslim trained in the doctrine and law of islam; the head of a mosque.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muslim trained in the doctrine and law of islam; the head of a mosque.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollah designates a muslim trained in the doctrine and law of islam; the head of a mosque."*

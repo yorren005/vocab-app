@@ -5,13 +5,6 @@ status: unread
 ---
 # tracheophyta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheophyta designates in former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheophyta designates in former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants."*

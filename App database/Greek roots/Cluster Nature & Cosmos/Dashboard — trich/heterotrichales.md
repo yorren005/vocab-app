@@ -5,13 +5,6 @@ status: unread
 ---
 # heterotrichales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotrichales designates yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotrichales designates yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae."*

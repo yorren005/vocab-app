@@ -5,13 +5,6 @@ status: unread
 ---
 # priscoan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, priscoan designates the earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, priscoan designates the earliest eon in the history of the earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life."*

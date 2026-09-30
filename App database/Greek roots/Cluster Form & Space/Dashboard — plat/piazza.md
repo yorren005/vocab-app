@@ -5,15 +5,6 @@ status: unread
 ---
 # piazza
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An open square especially in an Italian town.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arcaded and roofed gallery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They are kept in the church of the Holy Apostles on the Piazza del Limbo, and on the morning of Easter Saturday the prior strikes fire from them and lights a candle from the new flame."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For my humor’s sake, I shall preserve the style in which I once narrated it at Lima, to a lounging circle of my Spanish friends, one saint’s eve, smoking upon the thick-gilt tiled piazza of the Golden Inn."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"When Dinah saw the young man going rapidly up and down the piazza on his skates she was so astonished she hardly knew what to think."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open square especially in an Italian town.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arcaded and roofed gallery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They are kept in the church of the Holy Apostles on the Piazza del Limbo, and on the morning of Easter Saturday the prior strikes fire from them and lights a candle from the new flame."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For my humor’s sake, I shall preserve the style in which I once narrated it at Lima, to a lounging circle of my Spanish friends, one saint’s eve, smoking upon the thick-gilt tiled piazza of the Golden Inn."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"When Dinah saw the young man going rapidly up and down the piazza on his skates she was so astonished she hardly knew what to think."*

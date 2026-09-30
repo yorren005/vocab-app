@@ -5,15 +5,6 @@ status: unread
 ---
 # mitre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface of a beveled end of a piece where a miter joint is made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket: who was also in the first bloom of youth, and not quite decided whether to mount to the Woolsack, or to roof himself in with a mitre."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"M._ _July_ 17. 1727. _Mitre, Hampton,_ 1708. _Celia_, the Joy of all my Parts, I kiss'd, and broke ten thousand Hearts: There's ne'er a Man the Girl will see, But dearest, dearest, dearest me. _I."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He takes away mitre and sceptre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface of a beveled end of a piece where a miter joint is made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket: who was also in the first bloom of youth, and not quite decided whether to mount to the Woolsack, or to roof himself in with a mitre."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"M._ _July_ 17. 1727. _Mitre, Hampton,_ 1708. _Celia_, the Joy of all my Parts, I kiss'd, and broke ten thousand Hearts: There's ne'er a Man the Girl will see, But dearest, dearest, dearest me. _I."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He takes away mitre and sceptre."*

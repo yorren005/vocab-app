@@ -5,13 +5,6 @@ status: unread
 ---
 # recidivism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual relapse into crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual relapse into crime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recidivism designates habitual relapse into crime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual relapse into crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual relapse into crime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recidivism designates habitual relapse into crime."*

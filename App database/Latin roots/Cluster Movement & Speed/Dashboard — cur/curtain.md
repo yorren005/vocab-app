@@ -5,15 +5,6 @@ status: unread
 ---
 # curtain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hanging cloth used as a blind (especially for a window).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any barrier to communication or vision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This absence of your father’s draws a curtain That shows the ignorant a kind of fear Before not dreamt of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Close up his eyes, and draw the curtain close, And let us all to meditation. [_Exeunt._] ACT IV SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, my good Lord Chamberlain. [_Exit Lord Chamberlain, and the King draws the curtain and sits reading pensively._] SUFFOLK."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hanging cloth used as a blind (especially for a window).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any barrier to communication or vision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This absence of your father’s draws a curtain That shows the ignorant a kind of fear Before not dreamt of."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Close up his eyes, and draw the curtain close, And let us all to meditation. [_Exeunt._] ACT IV SCENE I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, my good Lord Chamberlain. [_Exit Lord Chamberlain, and the King draws the curtain and sits reading pensively._] SUFFOLK."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Self : same one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automatic : self-acting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DEMETRIUS. _Sit fas aut nefas_, till I find the stream To cool this heat, a charm to calm these fits, _Per Stygia, per manes vehor._ [_Exeunt._] SCENE II."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Nunc si unquam, nunc aut nunquam, sanguine adjuro Christi."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Ursula! thy words may shame us, Yet we once were counted famous, Morituri, salutamus, Aut victuri, te! [They go out.] SCENE--The Outskirts of Rudolph's Camp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Self : same one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automatic : self-acting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DEMETRIUS. _Sit fas aut nefas_, till I find the stream To cool this heat, a charm to calm these fits, _Per Stygia, per manes vehor._ [_Exeunt._] SCENE II."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Nunc si unquam, nunc aut nunquam, sanguine adjuro Christi."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Ursula! thy words may shame us, Yet we once were counted famous, Morituri, salutamus, Aut victuri, te! [They go out.] SCENE--The Outskirts of Rudolph's Camp."*

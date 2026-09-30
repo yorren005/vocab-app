@@ -5,15 +5,6 @@ status: unread
 ---
 # stormy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of weather) affected or characterized by storms or commotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by violent emotions or behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lives of all your loving complices Lean on your health; the which, if you give o’er To stormy passion, must perforce decay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get fire and meat for these poor men: ’T has been a turbulent and stormy night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of weather) affected or characterized by storms or commotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by violent emotions or behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lives of all your loving complices Lean on your health; the which, if you give o’er To stormy passion, must perforce decay."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get fire and meat for these poor men: ’T has been a turbulent and stormy night."*

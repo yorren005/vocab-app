@@ -5,15 +5,6 @@ status: unread
 ---
 # surpassingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a surpassing degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a surpassing degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble, who were surpassingly conceited and vainglorious in being members of so distinguished a procession."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is but justice to this recreant dame to confess that she had a surpassingly fine hand and arm."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, no--no, of course not!” Billy's voice was very high-pitched and a little shaky, but it was surpassingly cheerful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a surpassing degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a surpassing degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble, who were surpassingly conceited and vainglorious in being members of so distinguished a procession."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is but justice to this recreant dame to confess that she had a surpassingly fine hand and arm."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, no--no, of course not!” Billy's voice was very high-pitched and a little shaky, but it was surpassingly cheerful."*

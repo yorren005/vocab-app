@@ -5,13 +5,6 @@ status: unread
 ---
 # ventral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward or on or near the belly (front of a primate or lower surface of a lower animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nearest to or facing toward the axis of an organ or organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventral designates toward or on or near the belly (front of a primate or lower surface of a lower animal)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward or on or near the belly (front of a primate or lower surface of a lower animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nearest to or facing toward the axis of an organ or organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventral designates toward or on or near the belly (front of a primate or lower surface of a lower animal)."*

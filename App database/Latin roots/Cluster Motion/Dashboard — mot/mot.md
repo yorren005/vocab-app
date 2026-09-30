@@ -5,15 +5,6 @@ status: unread
 ---
 # mot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clever remark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compulsory annual test of older motor vehicles for safety and exhaust fumes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reproach is stamped in Collatinus’ face, And Tarquin’s eye may read the mot afar, How he in peace is wounded, not in war."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I was invited—with no visible connection—to repeat afresh Goody Gosling’s celebrated _mot_ or to confirm the details already supplied as to the cleverness of the vicarage pony."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Quarante mille hommes massacrés et l’armée de nos alliés détruite, et vous trouvez là le mot pour rire,” * he said, as if strengthening his views by this French sentence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clever remark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compulsory annual test of older motor vehicles for safety and exhaust fumes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reproach is stamped in Collatinus’ face, And Tarquin’s eye may read the mot afar, How he in peace is wounded, not in war."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I was invited—with no visible connection—to repeat afresh Goody Gosling’s celebrated _mot_ or to confirm the details already supplied as to the cleverness of the vicarage pony."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Quarante mille hommes massacrés et l’armée de nos alliés détruite, et vous trouvez là le mot pour rire,” * he said, as if strengthening his views by this French sentence."*

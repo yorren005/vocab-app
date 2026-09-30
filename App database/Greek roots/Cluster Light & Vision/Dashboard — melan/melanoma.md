@@ -5,13 +5,6 @@ status: unread
 ---
 # melanoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor containing dark pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly malignant tumor that starts in melanocytes of normal skin or moles and metastasizes rapidly and widely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoma designates a tumor containing dark pigment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor containing dark pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly malignant tumor that starts in melanocytes of normal skin or moles and metastasizes rapidly and widely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoma designates a tumor containing dark pigment."*

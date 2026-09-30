@@ -5,13 +5,6 @@ status: unread
 ---
 # aristotelianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelianism designates (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelianism designates (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science."*

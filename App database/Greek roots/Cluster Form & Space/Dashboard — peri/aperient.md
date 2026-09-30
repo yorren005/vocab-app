@@ -5,13 +5,6 @@ status: unread
 ---
 # aperient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mildly laxative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperient designates a purging medicine; stimulates evacuation of the bowels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mildly laxative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperient designates a purging medicine; stimulates evacuation of the bowels."*

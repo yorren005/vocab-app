@@ -5,14 +5,6 @@ status: unread
 ---
 # obligate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit in order to fulfill an obligation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"So, he’d come with a most tremenjous crowd and make such a row at the doors of the houses where we was, that they used to be obligated to have no more to do with us and to give us up to him."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He feels morally obligated to 451:24 open the eyes of his students that they may perceive the nature and methods of error of every sort, especially any subtle degree of evil, deceived and deceiving."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit in order to fulfill an obligation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"So, he’d come with a most tremenjous crowd and make such a row at the doors of the houses where we was, that they used to be obligated to have no more to do with us and to give us up to him."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He feels morally obligated to 451:24 open the eyes of his students that they may perceive the nature and methods of error of every sort, especially any subtle degree of evil, deceived and deceiving."*

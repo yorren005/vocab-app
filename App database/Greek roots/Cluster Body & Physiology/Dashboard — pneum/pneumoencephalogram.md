@@ -5,13 +5,6 @@ status: unread
 ---
 # pneumoencephalogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumoencephalogram designates an x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumoencephalogram designates an x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast."*

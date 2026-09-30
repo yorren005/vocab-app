@@ -5,15 +5,6 @@ status: unread
 ---
 # genesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin or coming into being of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mainly narrative first book of canonical Jewish and Christian Scriptures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Are you fond of it?” “I like Revelations, and the book of Daniel, and Genesis and Samuel, and a little bit of Exodus, and some parts of Kings and Chronicles, and Job and Jonah.” “And the Psalms?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Geology once unsettled people about Genesis; but closer study of the Bible and of science has given truer views of both, and thinking people are as little troubled about geology now as about Copernican astronomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin or coming into being of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mainly narrative first book of canonical Jewish and Christian Scriptures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Are you fond of it?” “I like Revelations, and the book of Daniel, and Genesis and Samuel, and a little bit of Exodus, and some parts of Kings and Chronicles, and Job and Jonah.” “And the Psalms?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Geology once unsettled people about Genesis; but closer study of the Bible and of science has given truer views of both, and thinking people are as little troubled about geology now as about Copernican astronomy."*

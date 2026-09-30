@@ -5,13 +5,6 @@ status: unread
 ---
 # platy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small stocky mexican fish; popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small stocky mexican fish; popular aquarium fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platy designates small stocky mexican fish; popular aquarium fish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small stocky mexican fish; popular aquarium fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small stocky mexican fish; popular aquarium fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platy designates small stocky mexican fish; popular aquarium fish."*

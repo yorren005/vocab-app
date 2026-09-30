@@ -5,13 +5,6 @@ status: unread
 ---
 # polarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation between two opposite attributes or tendencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an indicated pole (as the distinction between positive and negative electric charges).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was perceptible, even there, in the dark old parlor, in the inevitable polarity with which his eyes were attracted towards the quivering play of sunbeams through the shadowy foliage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation between two opposite attributes or tendencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an indicated pole (as the distinction between positive and negative electric charges).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was perceptible, even there, in the dark old parlor, in the inevitable polarity with which his eyes were attracted towards the quivering play of sunbeams through the shadowy foliage."*

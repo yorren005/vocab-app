@@ -5,15 +5,6 @@ status: unread
 ---
 # terminal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Station where transport vehicles load or unload passengers or goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contact on an electrical device (such as a battery) at which electric current enters or leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Consolidation has many technical advantages: it saves time, reduces the unit cost of administration and of handling goods, gives better use of the rolling stock and of the terminal facilities of the railroads, and insures continuous train service."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The terminal positioned in orbit above Alpha Centauri is designated the Extractor and the terminal positioned along the Solar System's rim is designated the Collector."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Back to comm: the Log Depot and the Terminal work sites have spunnel centers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Station where transport vehicles load or unload passengers or goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contact on an electrical device (such as a battery) at which electric current enters or leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Consolidation has many technical advantages: it saves time, reduces the unit cost of administration and of handling goods, gives better use of the rolling stock and of the terminal facilities of the railroads, and insures continuous train service."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The terminal positioned in orbit above Alpha Centauri is designated the Extractor and the terminal positioned along the Solar System's rim is designated the Collector."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Back to comm: the Log Depot and the Terminal work sites have spunnel centers."*

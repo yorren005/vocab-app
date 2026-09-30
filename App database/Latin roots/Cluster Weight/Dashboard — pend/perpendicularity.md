@@ -5,15 +5,6 @@ status: unread
 ---
 # perpendicularity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between things at right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being at right angles to a given line or plane (especially the plane of the horizon).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His square-framed perpendicularity showed more fully now than in the crowd and bustle of the market-house."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was near noon; I knew by the perpendicularity of the sun’s rays, which were no longer refracted."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Truly it was the region of perpendicularity!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between things at right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being at right angles to a given line or plane (especially the plane of the horizon).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His square-framed perpendicularity showed more fully now than in the crowd and bustle of the market-house."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was near noon; I knew by the perpendicularity of the sun’s rays, which were no longer refracted."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Truly it was the region of perpendicularity!"*

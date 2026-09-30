@@ -5,20 +5,6 @@ status: unread
 ---
 # barter
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Trade or exchange by or as if by bartering
-> 2. **Nuance / Usage**: The goods or services used in such an exchange
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to barter the target*) and intransitive clauses (*bartering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe*):** *"challenge to this barter of buffets."*
-> - 📜 **Murray, David Christie (*Young Mr. Barter's Repentance*):** *"the notes would prove to have been left at Barter’s chambers."*
-> - 📜 **Murray, David Christie (*Young Mr. Barter's Repentance*):** *"‘Mine is east,’ said Barter, ‘so we part here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Trade or exchange by or as if by bartering
+> 2. **Nuance / Usage**: The goods or services used in such an exchange
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to barter the target*) and intransitive clauses (*bartering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe*):** *"challenge to this barter of buffets."*
+> - 📜 **Murray, David Christie (*Young Mr. Barter's Repentance*):** *"the notes would prove to have been left at Barter’s chambers."*
+> - 📜 **Murray, David Christie (*Young Mr. Barter's Repentance*):** *"‘Mine is east,’ said Barter, ‘so we part here."*

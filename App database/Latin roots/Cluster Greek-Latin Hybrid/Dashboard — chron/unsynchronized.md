@@ -5,13 +5,6 @@ status: unread
 ---
 # unsynchronized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not occurring together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsynchronized designates not occurring together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not occurring together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsynchronized designates not occurring together."*

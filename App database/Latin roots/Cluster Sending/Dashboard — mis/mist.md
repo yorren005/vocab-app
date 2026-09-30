@@ -5,15 +5,6 @@ status: unread
 ---
 # mist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin fog with condensation near the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become covered with mist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll say as they say, and persever so, And in this mist at all adventures go."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lend me a looking glass; If that her breath will mist or stain the stone, Why, then she lives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not I, unless the breath of heartsick groans Mist-like infold me from the search of eyes. [_Knocking._] FRIAR LAWRENCE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin fog with condensation near the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become covered with mist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll say as they say, and persever so, And in this mist at all adventures go."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lend me a looking glass; If that her breath will mist or stain the stone, Why, then she lives."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not I, unless the breath of heartsick groans Mist-like infold me from the search of eyes. [_Knocking._] FRIAR LAWRENCE."*

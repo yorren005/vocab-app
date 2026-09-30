@@ -5,13 +5,6 @@ status: unread
 ---
 # unpersuadable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to persuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t you KNOW that these arm-chairs were borrowed to be sat upon?’ He was unreasonable and unpersuadable and used intemperate language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to persuasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to persuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t you KNOW that these arm-chairs were borrowed to be sat upon?’ He was unreasonable and unpersuadable and used intemperate language."*

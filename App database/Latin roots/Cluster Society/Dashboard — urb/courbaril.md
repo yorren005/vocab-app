@@ -5,13 +5,6 @@ status: unread
 ---
 # courbaril
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: West indian locust tree having pinnate leaves and panicles of large white or purplish flowers; yields very hard tough wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: West indian locust tree having pinnate leaves and panicles of large white or purplish flowers; yields very hard tough wood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, courbaril designates west indian locust tree having pinnate leaves and panicles of large white or purplish flowers; yields very hard tough wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: West indian locust tree having pinnate leaves and panicles of large white or purplish flowers; yields very hard tough wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: West indian locust tree having pinnate leaves and panicles of large white or purplish flowers; yields very hard tough wood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, courbaril designates west indian locust tree having pinnate leaves and panicles of large white or purplish flowers; yields very hard tough wood."*

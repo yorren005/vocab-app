@@ -5,13 +5,6 @@ status: unread
 ---
 # polenta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick mush made of cornmeal boiled in stock or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick mush made of cornmeal boiled in stock or water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polenta designates a thick mush made of cornmeal boiled in stock or water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick mush made of cornmeal boiled in stock or water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick mush made of cornmeal boiled in stock or water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polenta designates a thick mush made of cornmeal boiled in stock or water."*

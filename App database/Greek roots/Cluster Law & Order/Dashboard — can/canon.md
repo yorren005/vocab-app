@@ -5,15 +5,6 @@ status: unread
 ---
 # canon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regulation or dogma decreed by a church council.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A provision of canon law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I find him, were it At home, upon my brother’s guard, even there, Against the hospitable canon, would I Wash my fierce hand in’s heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COMINIUS. ’Twas from the canon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regulation or dogma decreed by a church council.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A provision of canon law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I find him, were it At home, upon my brother’s guard, even there, Against the hospitable canon, would I Wash my fierce hand in’s heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COMINIUS. ’Twas from the canon."*

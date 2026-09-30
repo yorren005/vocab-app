@@ -5,15 +5,6 @@ status: unread
 ---
 # fundamental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any factor that could be considered important to the understanding of a particular business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest tone of a harmonic series.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that, from point to point, now have you heard The fundamental reasons of this war, Whose great decision hath much blood let forth, And more thirsts after."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In general, any woman has fundamental charm for any man."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law of the conservation of energy expresses the fundamental likeness of heat, light, and power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any factor that could be considered important to the understanding of a particular business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest tone of a harmonic series.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that, from point to point, now have you heard The fundamental reasons of this war, Whose great decision hath much blood let forth, And more thirsts after."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In general, any woman has fundamental charm for any man."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law of the conservation of energy expresses the fundamental likeness of heat, light, and power."*

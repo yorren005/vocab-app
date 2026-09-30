@@ -5,13 +5,6 @@ status: unread
 ---
 # digitization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion of analog information into digital information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conversion of analog information into digital information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion of analog information into digital information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conversion of analog information into digital information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements."*

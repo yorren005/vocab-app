@@ -5,14 +5,6 @@ status: unread
 ---
 # heraclitus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A presocratic greek philosopher who said that fire is the origin of all things and that permanence is an illusion as all things are in perpetual flux (circa 500 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A presocratic greek philosopher who said that fire is the origin of all things and that permanence is an illusion as all things are in perpetual flux (circa 500 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Ancient Philosophy suggests to the modern student the name of Heraclitus or Plato; but Tertullian lived in the same streets with Apuleius, philosopher and Platonist, humorist and _gloriae animal_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Heraclitus, 219, 247, 252, 253."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A presocratic greek philosopher who said that fire is the origin of all things and that permanence is an illusion as all things are in perpetual flux (circa 500 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A presocratic greek philosopher who said that fire is the origin of all things and that permanence is an illusion as all things are in perpetual flux (circa 500 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Ancient Philosophy suggests to the modern student the name of Heraclitus or Plato; but Tertullian lived in the same streets with Apuleius, philosopher and Platonist, humorist and _gloriae animal_."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Heraclitus, 219, 247, 252, 253."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # venturer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enjoys taking risks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The whole surface of your land, gentlemen, is one wild sea of beauty, ready to toss into the lap of every venturer upon it, a farm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enjoys taking risks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The whole surface of your land, gentlemen, is one wild sea of beauty, ready to toss into the lap of every venturer upon it, a farm."*

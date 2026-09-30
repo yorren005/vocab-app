@@ -5,15 +5,6 @@ status: unread
 ---
 # fluidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of flowing easily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A changeable quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Their fluidity, however, decreases, and a very high temperature is thus required in order to render them sufficiently limpid to run freely from the furnace."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The heat of oxidation keeps the materials in a thoroughly molten state, and maintains the temperature well above that required for slag formation and perfect fluidity."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fluidity of slags, 149, 150, 176."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of flowing easily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A changeable quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Their fluidity, however, decreases, and a very high temperature is thus required in order to render them sufficiently limpid to run freely from the furnace."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The heat of oxidation keeps the materials in a thoroughly molten state, and maintains the temperature well above that required for slag formation and perfect fluidity."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fluidity of slags, 149, 150, 176."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # realize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be fully aware or cognizant of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You realize well enough that all the talk has no foundation whatever." Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I realize that," the mother answered."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then, turning back once more, he said: "Thank you ever so much, Loneli, you have done me a greater service than you can realize by telling me everything."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be fully aware or cognizant of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You realize well enough that all the talk has no foundation whatever." Mrs."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I realize that," the mother answered."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then, turning back once more, he said: "Thank you ever so much, Loneli, you have done me a greater service than you can realize by telling me everything."*

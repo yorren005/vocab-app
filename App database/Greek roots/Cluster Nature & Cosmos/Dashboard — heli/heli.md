@@ -5,13 +5,6 @@ status: unread
 ---
 # heli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: helicopter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Clement seemed to like this place of study and prayer; yet, after the example of Heli [Eli], the priest, as he neither reproved nor restrained his brethren from plunder, and other offences, he died by a paralytic stroke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: helicopter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Clement seemed to like this place of study and prayer; yet, after the example of Heli [Eli], the priest, as he neither reproved nor restrained his brethren from plunder, and other offences, he died by a paralytic stroke."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # imposingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Real strength never impairs beauty or harmony, but it often bestows it; and in everything imposingly beautiful, strength has much to do with the magic."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Real strength never impairs beauty or harmony, but it often bestows it; and in everything imposingly beautiful, strength has much to do with the magic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Real strength never impairs beauty or harmony, but it often bestows it; and in everything imposingly beautiful, strength has much to do with the magic."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Real strength never impairs beauty or harmony, but it often bestows it; and in everything imposingly beautiful, strength has much to do with the magic."*

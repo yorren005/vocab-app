@@ -5,15 +5,6 @@ status: unread
 ---
 # signed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with one's signature; write one's name (on).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approve and express assent, responsibility, or obligation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They was letters from the lodger’s sweetheart, and she signed Honoria."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But before I leave you I must have a paper signed—” “Pay me the money, and we’ll go straight to her parlour, and make any arrangement you please to secure my compliance with your wishes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was not “numerously signed” by the inhabitants of Casterbridge, as is usual in such cases, for Boldwood had never made many friends over the counter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with one's signature; write one's name (on).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approve and express assent, responsibility, or obligation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They was letters from the lodger’s sweetheart, and she signed Honoria."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But before I leave you I must have a paper signed—” “Pay me the money, and we’ll go straight to her parlour, and make any arrangement you please to secure my compliance with your wishes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was not “numerously signed” by the inhabitants of Casterbridge, as is usual in such cases, for Boldwood had never made many friends over the counter."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # economically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to economic science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an economical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coinage, as practised by early governments and rulers, came to be a function of great importance politically as well as economically."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many parts of the world were enormous deposits of low-grade ores, before useless, that could be worked economically by the new methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to economic science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an economical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coinage, as practised by early governments and rulers, came to be a function of great importance politically as well as economically."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many parts of the world were enormous deposits of low-grade ores, before useless, that could be worked economically by the new methods."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # desexualize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct one's libidinous urges into another direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make infertile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desexualize designates direct one's libidinous urges into another direction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct one's libidinous urges into another direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make infertile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desexualize designates direct one's libidinous urges into another direction."*

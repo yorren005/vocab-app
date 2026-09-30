@@ -5,13 +5,6 @@ status: unread
 ---
 # dactyloscopidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sand stargazers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sand stargazers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactyloscopidae designates sand stargazers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sand stargazers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sand stargazers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactyloscopidae designates sand stargazers."*

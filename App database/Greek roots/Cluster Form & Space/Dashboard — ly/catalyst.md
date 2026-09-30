@@ -5,13 +5,6 @@ status: unread
 ---
 # catalyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that provokes or speeds significant change or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that enables a chemical reaction to proceed at a usually faster rate or under different conditions (as at a lower temperature) than otherwise possible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalyst designates a person or thing that provokes or speeds significant change or action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that provokes or speeds significant change or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that enables a chemical reaction to proceed at a usually faster rate or under different conditions (as at a lower temperature) than otherwise possible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalyst designates a person or thing that provokes or speeds significant change or action."*

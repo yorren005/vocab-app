@@ -5,13 +5,6 @@ status: unread
 ---
 # hadron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadron designates any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadron designates any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force."*

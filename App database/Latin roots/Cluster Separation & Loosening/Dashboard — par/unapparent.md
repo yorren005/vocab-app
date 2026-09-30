@@ -5,15 +5,6 @@ status: unread
 ---
 # unapparent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not readily apparent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not readily apparent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Consider the subtleness of the sea; how its most dreaded creatures glide under water, unapparent for the most part, and treacherously hidden beneath the loveliest tints of azure."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Consider the subtleness of the sea; how its most dreaded creatures glide under water, unapparent for the most part, and treacherously hidden beneath the loveliest tints of azure."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The first brought an approving light to her eyes; but the second, for some unapparent reason, filled her heart with vague misgiving."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not readily apparent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not readily apparent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Consider the subtleness of the sea; how its most dreaded creatures glide under water, unapparent for the most part, and treacherously hidden beneath the loveliest tints of azure."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Consider the subtleness of the sea; how its most dreaded creatures glide under water, unapparent for the most part, and treacherously hidden beneath the loveliest tints of azure."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The first brought an approving light to her eyes; but the second, for some unapparent reason, filled her heart with vague misgiving."*

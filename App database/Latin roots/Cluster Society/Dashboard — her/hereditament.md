@@ -5,13 +5,6 @@ status: unread
 ---
 # hereditament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property (real or personal or mixed) that can be inherited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any property (real or personal or mixed) that can be inherited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hereditament designates any property (real or personal or mixed) that can be inherited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property (real or personal or mixed) that can be inherited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any property (real or personal or mixed) that can be inherited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hereditament designates any property (real or personal or mixed) that can be inherited."*

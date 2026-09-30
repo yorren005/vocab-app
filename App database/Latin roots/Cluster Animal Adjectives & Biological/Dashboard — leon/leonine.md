@@ -5,15 +5,6 @@ status: unread
 ---
 # leonine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or characteristic of or resembling a lion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of or resembling a lion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dionyza does appear, With Leonine, a murderer. [_Exit._] Scene I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Walk with Leonine; the air is quick there, And it pierces and sharpens the stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Leonine, take her by the arm, walk with her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or characteristic of or resembling a lion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of or resembling a lion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dionyza does appear, With Leonine, a murderer. [_Exit._] Scene I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Walk with Leonine; the air is quick there, And it pierces and sharpens the stomach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Leonine, take her by the arm, walk with her."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that can interrupt the flow of electrical current when it is overloaded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any igniter that is used to initiate the burning of a propellant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It was like trying to balance calmly on the lid of the tinder-box when you didn't know whether or not you had touched off the fuse."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Then we'll just pack and fuse-seal until it's all smoothed over."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bomb has to have a place to insert fuse and trajectory data and fine tune the initial settings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that can interrupt the flow of electrical current when it is overloaded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any igniter that is used to initiate the burning of a propellant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It was like trying to balance calmly on the lid of the tinder-box when you didn't know whether or not you had touched off the fuse."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Then we'll just pack and fuse-seal until it's all smoothed over."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bomb has to have a place to insert fuse and trajectory data and fine tune the initial settings."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inalienable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being repudiated or transferred to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to forfeiture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was aggrieved and wounded that the possession of hopeless love from Gabriel, which she had grown to regard as her inalienable right for life, should have been withdrawn just at his own pleasure in this way."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The exchanges were intense as the conferees sought a balance between inalienable rights and solemn obligations."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A joyous feeling of freedom—that complete inalienable freedom natural to man which he had first experienced at the first halt outside Moscow—filled Pierre’s soul during his convalescence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being repudiated or transferred to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to forfeiture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was aggrieved and wounded that the possession of hopeless love from Gabriel, which she had grown to regard as her inalienable right for life, should have been withdrawn just at his own pleasure in this way."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The exchanges were intense as the conferees sought a balance between inalienable rights and solemn obligations."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A joyous feeling of freedom—that complete inalienable freedom natural to man which he had first experienced at the first halt outside Moscow—filled Pierre’s soul during his convalescence."*

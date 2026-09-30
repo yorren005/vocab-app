@@ -5,15 +5,6 @@ status: unread
 ---
 # note
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief written record.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short personal letter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am from humble, he from honoured name; No note upon my parents, his all noble, My master, my dear lord he is; and I His servant live, and will his vassal die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go not about; my love hath in’t a bond Whereof the world takes note."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please it this matron and this gentle maid To eat with us tonight; the charge and thanking Shall be for me; and, to requite you further, I will bestow some precepts of this virgin, Worthy the note."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief written record.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short personal letter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am from humble, he from honoured name; No note upon my parents, his all noble, My master, my dear lord he is; and I His servant live, and will his vassal die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go not about; my love hath in’t a bond Whereof the world takes note."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please it this matron and this gentle maid To eat with us tonight; the charge and thanking Shall be for me; and, to requite you further, I will bestow some precepts of this virgin, Worthy the note."*

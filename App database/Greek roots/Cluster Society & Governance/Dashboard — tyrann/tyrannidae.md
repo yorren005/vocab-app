@@ -5,13 +5,6 @@ status: unread
 ---
 # tyrannidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world tyrant flycatchers most numerous in central america and south america but also in the united states and canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world tyrant flycatchers most numerous in central america and south america but also in the united states and canada.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannidae designates new world tyrant flycatchers most numerous in central america and south america but also in the united states and canada."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: New world tyrant flycatchers most numerous in central america and south america but also in the united states and canada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world tyrant flycatchers most numerous in central america and south america but also in the united states and canada.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannidae designates new world tyrant flycatchers most numerous in central america and south america but also in the united states and canada."*

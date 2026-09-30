@@ -5,13 +5,6 @@ status: unread
 ---
 # animatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animatism designates the attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animatism designates the attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones."*

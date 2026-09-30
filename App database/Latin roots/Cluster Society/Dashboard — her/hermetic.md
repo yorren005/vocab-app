@@ -5,13 +5,6 @@ status: unread
 ---
 # hermetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely sealed; completely airtight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely sealed; completely airtight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What do you think really of that hermetic crowd, the opal hush poets: A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely sealed; completely airtight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely sealed; completely airtight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What do you think really of that hermetic crowd, the opal hush poets: A."*

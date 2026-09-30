@@ -5,20 +5,6 @@ status: unread
 ---
 # spate
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Freshet, flood
-> 2. **Nuance / Usage**: Large number or amount
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the spate withstood the storm*), direct object (*cleaved the spate*), or prepositional anchor (*amidst the spate*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Liang Chen-yu, a Good Cadre Reared on Mao Tse-tung's Thought*):** *"After a rainstorm on July 29, 1966, the Shihtouyu River in Lonan County was in full spate. Mountain torrents poured into it carrying silt and rocks down with them."*
-> - 📜 **Thomas Browne (*The Works of Sir Thomas Browne*):** *"Only let your language match your subject, then it will be shapely and free; but take care all the time not to overwhelm your work in a spate of words to attain the fluency of {{w|Isaeus"*
-> - 📜 **{{w (*Reynolds v. Sims*):** *"The spate of similar cases filed and decided by lower courts since our decision in Baker &#91;v. Carr&#93; amply shows that the problem of state legislative malapportionment is one that is perceived to exist in a large number of the States."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Freshet, flood
+> 2. **Nuance / Usage**: Large number or amount
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the spate withstood the storm*), direct object (*cleaved the spate*), or prepositional anchor (*amidst the spate*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Liang Chen-yu, a Good Cadre Reared on Mao Tse-tung's Thought*):** *"After a rainstorm on July 29, 1966, the Shihtouyu River in Lonan County was in full spate. Mountain torrents poured into it carrying silt and rocks down with them."*
+> - 📜 **Thomas Browne (*The Works of Sir Thomas Browne*):** *"Only let your language match your subject, then it will be shapely and free; but take care all the time not to overwhelm your work in a spate of words to attain the fluency of {{w|Isaeus"*
+> - 📜 **{{w (*Reynolds v. Sims*):** *"The spate of similar cases filed and decided by lower courts since our decision in Baker &#91;v. Carr&#93; amply shows that the problem of state legislative malapportionment is one that is perceived to exist in a large number of the States."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # underling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant subject to the authority or control of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look thou, underling! that thou obeyest mine.—Stand round me, men."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Look thou, underling! that thou obeyest mine.—Stand round me, men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men at some time are masters of their fates: The fault, dear Brutus, is not in our stars, But in ourselves, that we are underlings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant subject to the authority or control of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look thou, underling! that thou obeyest mine.—Stand round me, men."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Look thou, underling! that thou obeyest mine.—Stand round me, men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men at some time are masters of their fates: The fault, dear Brutus, is not in our stars, But in ourselves, that we are underlings."*

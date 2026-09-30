@@ -5,15 +5,6 @@ status: unread
 ---
 # intended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have in mind as a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Design or destine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your good will Must have that thanks from Rome after the measure As you intended well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you think to blow out the intended fire your city is ready to flame in with such weak breath as this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And further, I have learn’d The King himself in person is set forth, Or hitherwards intended speedily, With strong and mighty preparation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have in mind as a purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Design or destine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your good will Must have that thanks from Rome after the measure As you intended well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you think to blow out the intended fire your city is ready to flame in with such weak breath as this?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And further, I have learn’d The King himself in person is set forth, Or hitherwards intended speedily, With strong and mighty preparation."*

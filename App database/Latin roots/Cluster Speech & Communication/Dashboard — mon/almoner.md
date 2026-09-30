@@ -5,15 +5,6 @@ status: unread
 ---
 # almoner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in a british hospital who looks after the social and material needs of the patients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official in a british hospital who looks after the social and material needs of the patients.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Working in various organizations, he was made an almoner of the city funds bestowed upon the families of soldiers, and upon hospitals, and afterwards appointed in conjunction with George R."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Foremost among these noble women, as the almoner of their bounty, and the organizer of their efforts, stands the subject of this sketch, Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bigelow became, ere long, the almoner of the bounty of many Aid Societies at the North, and vast quantities of supplies passed through her hands, to the patients of the hospitals; and they were always judiciously distributed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in a british hospital who looks after the social and material needs of the patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official in a british hospital who looks after the social and material needs of the patients.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Working in various organizations, he was made an almoner of the city funds bestowed upon the families of soldiers, and upon hospitals, and afterwards appointed in conjunction with George R."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Foremost among these noble women, as the almoner of their bounty, and the organizer of their efforts, stands the subject of this sketch, Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bigelow became, ere long, the almoner of the bounty of many Aid Societies at the North, and vast quantities of supplies passed through her hands, to the patients of the hospitals; and they were always judiciously distributed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pathology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the essential nature of diseases and especially of the structural and functional changes produced by them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, inclined to be sarcastic on the superstitious faith of the people in the efficacy of “the bill,” while nobody cared about the low state of pathology, sometimes assailed Will with troublesome questions."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Winner of the Jackson prize for Comparative Pathology, with essay entitled ‘Is Disease a Reversion?’ Corresponding member of the Swedish Pathological Society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the essential nature of diseases and especially of the structural and functional changes produced by them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, inclined to be sarcastic on the superstitious faith of the people in the efficacy of “the bill,” while nobody cared about the low state of pathology, sometimes assailed Will with troublesome questions."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Winner of the Jackson prize for Comparative Pathology, with essay entitled ‘Is Disease a Reversion?’ Corresponding member of the Swedish Pathological Society."*

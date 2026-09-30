@@ -5,15 +5,6 @@ status: unread
 ---
 # poseidon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the god of the sea and earthquakes in ancient mythology; brother of zeus and hades and hera; identified with roman neptune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the god of the sea and earthquakes in ancient mythology; brother of zeus and hades and hera; identified with roman neptune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At an Athenian festival called Scira the priestess of Athena, the priest of Poseidon, and the priest of the Sun walked from the Acropolis under the shade of a huge white umbrella which was borne over their heads by the Eteobutads."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The slander was believed, and Theseus prayed to his sire Poseidon to avenge the imagined wrong."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Across the blue water of the tranquil bay, which it shelters from the open sea, rises Poseidon's sacred island, its peaks veiled in the sombre green of the pines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the god of the sea and earthquakes in ancient mythology; brother of zeus and hades and hera; identified with roman neptune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the god of the sea and earthquakes in ancient mythology; brother of zeus and hades and hera; identified with roman neptune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At an Athenian festival called Scira the priestess of Athena, the priest of Poseidon, and the priest of the Sun walked from the Acropolis under the shade of a huge white umbrella which was borne over their heads by the Eteobutads."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The slander was believed, and Theseus prayed to his sire Poseidon to avenge the imagined wrong."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Across the blue water of the tranquil bay, which it shelters from the open sea, rises Poseidon's sacred island, its peaks veiled in the sombre green of the pines."*

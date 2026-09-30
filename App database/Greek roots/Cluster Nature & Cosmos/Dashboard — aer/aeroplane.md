@@ -5,15 +5,6 @@ status: unread
 ---
 # aeroplane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: airplane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an operating mode for an electronic device (such as a mobile phone) in which the device does not connect to wireless networks and cannot send or receive communications (such as calls or text messages) or access the Internet but remains usable for other functions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"To the end of this a propeller can be fixed, so that as the arm revolves there is produced almost exactly the same conditions as those which prevail when a propeller drives an aeroplane or steerable balloon."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"BARHAM" 68 LIGHT CRUISER "CALLIOPE" AT SCAPA 69 "MAKE AND MEND" ON LIGHT CRUISER "YARMOUTH" 69 THE DECK OF AN AEROPLANE CARRIER, H.M.S."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"THE DECK OF AN AEROPLANE CARRIER, H.M.S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: airplane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an operating mode for an electronic device (such as a mobile phone) in which the device does not connect to wireless networks and cannot send or receive communications (such as calls or text messages) or access the Internet but remains usable for other functions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"To the end of this a propeller can be fixed, so that as the arm revolves there is produced almost exactly the same conditions as those which prevail when a propeller drives an aeroplane or steerable balloon."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"BARHAM" 68 LIGHT CRUISER "CALLIOPE" AT SCAPA 69 "MAKE AND MEND" ON LIGHT CRUISER "YARMOUTH" 69 THE DECK OF AN AEROPLANE CARRIER, H.M.S."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"THE DECK OF AN AEROPLANE CARRIER, H.M.S."*

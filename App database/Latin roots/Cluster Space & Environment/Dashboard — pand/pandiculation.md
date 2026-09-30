@@ -5,13 +5,6 @@ status: unread
 ---
 # pandiculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yawning and stretching (as when first waking up).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yawning and stretching (as when first waking up).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandiculation designates yawning and stretching (as when first waking up)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yawning and stretching (as when first waking up).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yawning and stretching (as when first waking up).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pandiculation designates yawning and stretching (as when first waking up)."*

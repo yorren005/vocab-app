@@ -5,15 +5,6 @@ status: unread
 ---
 # removable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being removed or taken away or dismissed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be obliterated completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the judiciary department, again, are appointable by the executive department, and removable by the same authority on the address of the two legislative branches."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the judiciary department are appointed by the legislative department and removable by one branch of it, on the impeachment of the other."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judges of the Supreme Court and justices of the peace seem also to be removable by the legislature; and the executive power of pardoning in certain cases, to be referred to the same department."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being removed or taken away or dismissed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be obliterated completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the judiciary department, again, are appointable by the executive department, and removable by the same authority on the address of the two legislative branches."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the judiciary department are appointed by the legislative department and removable by one branch of it, on the impeachment of the other."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judges of the Supreme Court and justices of the peace seem also to be removable by the legislature; and the executive power of pardoning in certain cases, to be referred to the same department."*

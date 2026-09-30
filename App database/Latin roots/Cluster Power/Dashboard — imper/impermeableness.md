@@ -5,13 +5,6 @@ status: unread
 ---
 # impermeableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of something that cannot be pervaded by a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that cannot be pervaded by a liquid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermeableness designates the property of something that cannot be pervaded by a liquid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of something that cannot be pervaded by a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that cannot be pervaded by a liquid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermeableness designates the property of something that cannot be pervaded by a liquid."*

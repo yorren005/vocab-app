@@ -5,13 +5,6 @@ status: unread
 ---
 # zygomorphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomorphic designates having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomorphic designates having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis."*

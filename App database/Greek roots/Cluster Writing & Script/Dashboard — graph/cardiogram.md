@@ -5,13 +5,6 @@ status: unread
 ---
 # cardiogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The curve or tracing made by a cardiograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curve or tracing made by a cardiograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such a diagram is called a "cardiogram," and it seems that each of us has a particular form of cardiogram peculiar to himself, so that a man could almost be recognised and distinguished from his fellows by the electrical action of his heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The curve or tracing made by a cardiograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curve or tracing made by a cardiograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such a diagram is called a "cardiogram," and it seems that each of us has a particular form of cardiogram peculiar to himself, so that a man could almost be recognised and distinguished from his fellows by the electrical action of his heart."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reassert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strengthen or make more firm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy,” she said, with a lighter heart, for youth and hope had begun to reassert themselves; “you are to be my confidante for the present—somebody must be—and I choose you."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Is not this to revert to an outworn view of the Christian religion--to reassert its dark side, better forgotten, all the horrible emphasis on sin and its consequences introduced into the sunny teaching of Jesus by Paul of Tarsus, and alien to it?"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The long-suppressed spiritual elements of the nation began to reassert themselves in religion and in poetry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strengthen or make more firm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy,” she said, with a lighter heart, for youth and hope had begun to reassert themselves; “you are to be my confidante for the present—somebody must be—and I choose you."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Is not this to revert to an outworn view of the Christian religion--to reassert its dark side, better forgotten, all the horrible emphasis on sin and its consequences introduced into the sunny teaching of Jesus by Paul of Tarsus, and alien to it?"*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The long-suppressed spiritual elements of the nation began to reassert themselves in religion and in poetry."*

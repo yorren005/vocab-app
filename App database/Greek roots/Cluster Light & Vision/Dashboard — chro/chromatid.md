@@ -5,13 +5,6 @@ status: unread
 ---
 # chromatid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the usually paired and parallel strands of a duplicated chromosome joined by a single centromere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two identical chromatids that are formed by replication of a chromosome during the S phase of the cell cycle, are joined by a centromere, and segregate into separate daughter cells during anaphase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatid designates one of the usually paired and parallel strands of a duplicated chromosome joined by a single centromere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the usually paired and parallel strands of a duplicated chromosome joined by a single centromere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two identical chromatids that are formed by replication of a chromosome during the S phase of the cell cycle, are joined by a centromere, and segregate into separate daughter cells during anaphase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatid designates one of the usually paired and parallel strands of a duplicated chromosome joined by a single centromere."*

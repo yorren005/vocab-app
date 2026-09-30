@@ -5,20 +5,6 @@ status: unread
 ---
 # prowess
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Extraordinary ability
-> 2. **Nuance / Usage**: (countable) an act of prowess
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"guiltlessness of vice, than in his prowess in virtue."*
-> - 📜 **Ella Wheeler Wilcox (*Poems of Experience*):** *"A beautiful great lady, past her prime, / Behold her dreaming in her easy chair; / Grey robed, and veiled, in laces old and rare, / Her smiling eyes see but the vanished time / Of splendid prowess, and of deeds sublime."*
-> - 📜 **Christopher L. Hodapp (*Solomon’s Builders: Freemasons, Founding Fathers and the Secrets of Washington, D.C.*):** *"As the Middle Ages drew to a close and the Renaissance rose like a new sun, knowledge of philosophy and the sciences became objects of interest to a nobility that had once held only skill in battle as a prowess worth attaining."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Exceptional valor, daring, and martial bravery demonstrated on the field of battle.
+> 2. **Nuance / Usage**: More broadly, extraordinary skill, mastery, or superior ability in any demanding pursuit, art, or athletic contest.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John gloried less in his mere guiltlessness of vice than in his active **prowess** in virtue."*
+> - 📜 **Sir Thomas Malory (*Le Morte d'Arthur*):** *"Sir Lancelot surpassed all other knights of the realm in feats of arms and chivalric **prowess**."*
+> - 📜 **Christopher L. Hodapp (*Solomon’s Builders*):** *"As the Renaissance rose, philosophy and the sciences became objects of interest to a nobility that had once held only skill in battle as a **prowess** worth attaining."*

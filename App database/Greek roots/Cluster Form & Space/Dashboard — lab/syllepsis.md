@@ -5,13 +5,6 @@ status: unread
 ---
 # syllepsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a word to modify or govern syntactically two or more words with only one of which it formally agrees in gender, number, or case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a word in the same grammatical relation to two adjacent words in the context with one literal and the other metaphorical in sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllepsis designates the use of a word to modify or govern syntactically two or more words with only one of which it formally agrees in gender, number, or case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a word to modify or govern syntactically two or more words with only one of which it formally agrees in gender, number, or case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a word in the same grammatical relation to two adjacent words in the context with one literal and the other metaphorical in sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllepsis designates the use of a word to modify or govern syntactically two or more words with only one of which it formally agrees in gender, number, or case."*

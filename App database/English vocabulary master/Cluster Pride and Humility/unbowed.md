@@ -5,20 +5,6 @@ status: unread
 ---
 # unbowed
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Not subdued
-> 2. **Nuance / Usage**: Not bowed down
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a unbowed presence*) or predicatively (*remained unbowed*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Ernest Henley (*Invictus*):** *"Under the bludgeonings of chance / My head is bloody, but unbowed."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He knits his brow and shows an angry eye and passeth by with stiff unbowed knee, disdaining duty that to us belongs."*
-> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"He stood unbowed beneath the ills upon him piled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Not subdued
+> 2. **Nuance / Usage**: Not bowed down
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a unbowed presence*) or predicatively (*remained unbowed*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Ernest Henley (*Invictus*):** *"Under the bludgeonings of chance / My head is bloody, but unbowed."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He knits his brow and shows an angry eye and passeth by with stiff unbowed knee, disdaining duty that to us belongs."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"He stood unbowed beneath the ills upon him piled."*

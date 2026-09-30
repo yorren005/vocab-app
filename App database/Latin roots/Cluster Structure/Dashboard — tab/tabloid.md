@@ -5,14 +5,6 @@ status: unread
 ---
 # tabloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensationalist journalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Newspaper with half-size pages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"One tabloid of cascara sagrada."*
-> - 📜 **James Joyce (*Ulysses*):** *"Might be all feeding on tabloids that time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensationalist journalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Newspaper with half-size pages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"One tabloid of cascara sagrada."*
+> - 📜 **James Joyce (*Ulysses*):** *"Might be all feeding on tabloids that time."*

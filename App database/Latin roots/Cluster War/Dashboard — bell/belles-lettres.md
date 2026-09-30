@@ -5,13 +5,6 @@ status: unread
 ---
 # belles-lettres
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative writing valued for esthetic content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative writing valued for esthetic content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belles-lettres designates creative writing valued for esthetic content."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative writing valued for esthetic content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative writing valued for esthetic content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belles-lettres designates creative writing valued for esthetic content."*

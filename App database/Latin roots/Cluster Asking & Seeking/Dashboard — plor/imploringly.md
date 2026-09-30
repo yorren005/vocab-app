@@ -5,15 +5,6 @@ status: unread
 ---
 # imploringly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beseeching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beseeching manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"God bless you!" Leonore looked imploringly into Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy held up her hands and arms, coated with dust from the rubbish they were sorting, and looked imploringly at her mistress."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I could do anything with poor Fanny Robin.” “Troy,” said Boldwood, imploringly, “I’ll do anything for you, only don’t desert her; pray don’t desert her, Troy.” “Which, poor Fanny?” “No; Bathsheba Everdene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beseeching manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beseeching manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"God bless you!" Leonore looked imploringly into Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy held up her hands and arms, coated with dust from the rubbish they were sorting, and looked imploringly at her mistress."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I could do anything with poor Fanny Robin.” “Troy,” said Boldwood, imploringly, “I’ll do anything for you, only don’t desert her; pray don’t desert her, Troy.” “Which, poor Fanny?” “No; Bathsheba Everdene."*

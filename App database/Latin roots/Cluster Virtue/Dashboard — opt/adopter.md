@@ -5,13 +5,6 @@ status: unread
 ---
 # adopter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who adopts a child of other parents as his or her own child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who adopts a child of other parents as his or her own child.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adopter designates a person who adopts a child of other parents as his or her own child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who adopts a child of other parents as his or her own child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who adopts a child of other parents as his or her own child.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adopter designates a person who adopts a child of other parents as his or her own child."*

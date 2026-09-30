@@ -5,13 +5,6 @@ status: unread
 ---
 # covalence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, covalence designates valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, covalence designates valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share."*

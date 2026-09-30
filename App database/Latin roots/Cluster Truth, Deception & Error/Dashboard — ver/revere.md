@@ -5,15 +5,6 @@ status: unread
 ---
 # revere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American silversmith remembered for his midnight ride (celebrated in a poem by longfellow) to warn the colonists in lexington and concord that british troops were coming (1735-1818).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lapel on a woman's garment; turned back to show the reverse side.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The great Creator to revere, Must sure become the creature; But still the preaching cant forbear, And ev’n the rigid feature: Yet ne’er with wits profane to range, Be complaisance extended; An atheist-laugh’s a poor exchange For Deity offended!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou of an independent mind, With soul resolv’d, with soul resign’d; Prepar’d Power’s proudest frown to brave, Who wilt not be, nor have a slave; Virtue alone who dost revere, Thy own reproach alone dost fear— Approach this shrine, and worship here."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I suppose you revere your brother and are rather afraid of him.” “Of course one looks up to one’s brother,” said Miss Molyneux simply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American silversmith remembered for his midnight ride (celebrated in a poem by longfellow) to warn the colonists in lexington and concord that british troops were coming (1735-1818).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lapel on a woman's garment; turned back to show the reverse side.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The great Creator to revere, Must sure become the creature; But still the preaching cant forbear, And ev’n the rigid feature: Yet ne’er with wits profane to range, Be complaisance extended; An atheist-laugh’s a poor exchange For Deity offended!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou of an independent mind, With soul resolv’d, with soul resign’d; Prepar’d Power’s proudest frown to brave, Who wilt not be, nor have a slave; Virtue alone who dost revere, Thy own reproach alone dost fear— Approach this shrine, and worship here."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I suppose you revere your brother and are rather afraid of him.” “Of course one looks up to one’s brother,” said Miss Molyneux simply."*

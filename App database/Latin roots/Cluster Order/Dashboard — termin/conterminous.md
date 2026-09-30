@@ -5,13 +5,6 @@ status: unread
 ---
 # conterminous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connecting without a break; within a common boundary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common boundary or edge; abutting; touching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conterminous designates connecting without a break; within a common boundary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connecting without a break; within a common boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common boundary or edge; abutting; touching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conterminous designates connecting without a break; within a common boundary."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypnopedia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnopedia designates teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnopedia designates teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep)."*

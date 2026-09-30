@@ -5,14 +5,6 @@ status: unread
 ---
 # cordite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Explosive powder (nitroglycerin and guncotton and petrolatum) dissolved in acetone and dried and extruded in brown cords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosive powder (nitroglycerin and guncotton and petrolatum) dissolved in acetone and dried and extruded in brown cords.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Ever shoot with a cordite rifle?" Bernard shook his head."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Sir Andrew Noble, a member of the great firm of Armstrong, Whitworth & Co., of Elswick, tried the experiment of exploding some cordite, a high explosive, inside a steel vessel of enormous strength."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Explosive powder (nitroglycerin and guncotton and petrolatum) dissolved in acetone and dried and extruded in brown cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosive powder (nitroglycerin and guncotton and petrolatum) dissolved in acetone and dried and extruded in brown cords.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Ever shoot with a cordite rifle?" Bernard shook his head."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Sir Andrew Noble, a member of the great firm of Armstrong, Whitworth & Co., of Elswick, tried the experiment of exploding some cordite, a high explosive, inside a steel vessel of enormous strength."*

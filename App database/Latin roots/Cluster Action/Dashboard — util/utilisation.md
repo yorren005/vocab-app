@@ -5,15 +5,6 @@ status: unread
 ---
 # utilisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of using.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of using.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The basis of such working is, therefore, the powerful oxidising action within the furnace itself, and the fullest utilisation of the heat resulting from this oxidation of the sulphides."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Among the methods which are at present economically practicable for dealing with the smelter gases, those of dilution, and of utilisation for acid manufacture are the most important."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Utilisation of heat in reverberatory work, 83, 87, 91."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of using.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of using.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The basis of such working is, therefore, the powerful oxidising action within the furnace itself, and the fullest utilisation of the heat resulting from this oxidation of the sulphides."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Among the methods which are at present economically practicable for dealing with the smelter gases, those of dilution, and of utilisation for acid manufacture are the most important."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Utilisation of heat in reverberatory work, 83, 87, 91."*

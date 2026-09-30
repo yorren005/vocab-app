@@ -5,15 +5,6 @@ status: unread
 ---
 # nascent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being born or beginning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being born or beginning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The rooms wherein dozens of infants had wailed at their nursing now resounded with the tapping of nascent chicks."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This oxide is incapable of existing by itself, but possessing when nascent a powerful affinity for silica at high temperatures, it produces ferrous silicates, which are, in the main, fusible slag-like products."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Mycelium of White rust with nascent oogonia × 360. 〃 206."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being born or beginning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being born or beginning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The rooms wherein dozens of infants had wailed at their nursing now resounded with the tapping of nascent chicks."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This oxide is incapable of existing by itself, but possessing when nascent a powerful affinity for silica at high temperatures, it produces ferrous silicates, which are, in the main, fusible slag-like products."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Mycelium of White rust with nascent oogonia × 360. 〃 206."*

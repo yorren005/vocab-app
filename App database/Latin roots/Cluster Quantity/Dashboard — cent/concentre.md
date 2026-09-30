@@ -5,15 +5,6 @@ status: unread
 ---
 # concentre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In danger, the president may concentre to a point every effort of the continent."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Terrestrial Heaven, danced round by other Heavens That shine, yet bear their bright officious lamps, Light above light, for thee alone, as seems, In thee concentring all their precious beams Of sacred influence!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every institution will grow and flourish in proportion to the quantity and extent of the means concentred towards its formation and support."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In danger, the president may concentre to a point every effort of the continent."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Terrestrial Heaven, danced round by other Heavens That shine, yet bear their bright officious lamps, Light above light, for thee alone, as seems, In thee concentring all their precious beams Of sacred influence!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every institution will grow and flourish in proportion to the quantity and extent of the means concentred towards its formation and support."*

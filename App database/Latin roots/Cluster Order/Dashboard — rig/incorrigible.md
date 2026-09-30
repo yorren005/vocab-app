@@ -5,15 +5,6 @@ status: unread
 ---
 # incorrigible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impervious to correction by punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to correction by punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those black angularities which his face had used to put on when his wishes were thwarted now did duty in picturing the incorrigible backslider who would insist upon turning again to his wallowing in the mire."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An incorrigible is a terrible human being—at least such is the connotation of “incorrigible” in prison psychology."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I became an incorrigible because I abhorred waste motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impervious to correction by punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to correction by punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those black angularities which his face had used to put on when his wishes were thwarted now did duty in picturing the incorrigible backslider who would insist upon turning again to his wallowing in the mire."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An incorrigible is a terrible human being—at least such is the connotation of “incorrigible” in prison psychology."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I became an incorrigible because I abhorred waste motion."*

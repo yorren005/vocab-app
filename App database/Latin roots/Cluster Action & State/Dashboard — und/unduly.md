@@ -5,15 +5,6 @@ status: unread
 ---
 # unduly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an undue degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an undue degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I can see quite clearly what will happen without unduly imagining anything."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He found that his strength was not unduly strained when he worked thus six or seven hours a day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an undue degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an undue degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I can see quite clearly what will happen without unduly imagining anything."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He found that his strength was not unduly strained when he worked thus six or seven hours a day."*

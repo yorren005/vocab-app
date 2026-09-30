@@ -5,15 +5,6 @@ status: unread
 ---
 # acreage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of ground used for some particular purpose (such as building or farming).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of ground used for some particular purpose (such as building or farming).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wide acreage of blank agricultural brownness, apparent where the swedes had been pulled, was beginning to be striped in wales of darker brown, gradually broadening to ribands."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The problem is as difficult as it is important, and becomes more difficult with the rise in the acreage value of lands and with the economical size of farms, both calling for a larger investment to become an owner."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Louisiana has more than half of the timber acreage of Arkansas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of ground used for some particular purpose (such as building or farming).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of ground used for some particular purpose (such as building or farming).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wide acreage of blank agricultural brownness, apparent where the swedes had been pulled, was beginning to be striped in wales of darker brown, gradually broadening to ribands."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The problem is as difficult as it is important, and becomes more difficult with the rise in the acreage value of lands and with the economical size of farms, both calling for a larger investment to become an owner."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Louisiana has more than half of the timber acreage of Arkansas."*

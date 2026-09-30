@@ -5,13 +5,6 @@ status: unread
 ---
 # genlisea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rootless carnivorous swamp plants having at the base of the stem a rosette of foliage and leaves consisting of slender tubes swollen in the middle to form traps; each tube passes into two long spirally twisted arms with stiff hairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rootless carnivorous swamp plants having at the base of the stem a rosette of foliage and leaves consisting of slender tubes swollen in the middle to form traps; each tube passes into two long spirally twisted arms with stiff hairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genlisea designates rootless carnivorous swamp plants having at the base of the stem a rosette of foliage and leaves consisting of slender tubes swollen in the middle to form traps; each tube passes into two long spirally twisted arms with stiff hairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rootless carnivorous swamp plants having at the base of the stem a rosette of foliage and leaves consisting of slender tubes swollen in the middle to form traps; each tube passes into two long spirally twisted arms with stiff hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rootless carnivorous swamp plants having at the base of the stem a rosette of foliage and leaves consisting of slender tubes swollen in the middle to form traps; each tube passes into two long spirally twisted arms with stiff hairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genlisea designates rootless carnivorous swamp plants having at the base of the stem a rosette of foliage and leaves consisting of slender tubes swollen in the middle to form traps; each tube passes into two long spirally twisted arms with stiff hairs."*

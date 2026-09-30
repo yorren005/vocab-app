@@ -5,15 +5,6 @@ status: unread
 ---
 # sanctum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of inviolable privacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sacred place of pilgrimage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mere animal satisfaction!” “This is our friend’s consulting-room (or would be, if he ever prescribed), his sanctum, his studio,” said my guardian to us."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Others, who preferred a less unclouded atmosphere, withdrew with his brother into his sanctum."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, had Tashtego perished in that head, it had been a very precious perishing; smothered in the very whitest and daintiest of fragrant spermaceti; coffined, hearsed, and tombed in the secret inner chamber and sanctum sanctorum of the whale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of inviolable privacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sacred place of pilgrimage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mere animal satisfaction!” “This is our friend’s consulting-room (or would be, if he ever prescribed), his sanctum, his studio,” said my guardian to us."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Others, who preferred a less unclouded atmosphere, withdrew with his brother into his sanctum."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, had Tashtego perished in that head, it had been a very precious perishing; smothered in the very whitest and daintiest of fragrant spermaceti; coffined, hearsed, and tombed in the secret inner chamber and sanctum sanctorum of the whale."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # saponification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponification designates a chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponification designates a chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap)."*

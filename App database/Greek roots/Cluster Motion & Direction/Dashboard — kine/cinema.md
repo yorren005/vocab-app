@@ -5,14 +5,6 @@ status: unread
 ---
 # cinema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Movie —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie theater.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Dic tropoeum passionis, dic triumphalem Crucem", sang Prudentius--"Sing the trophy of the Passion; sing the all-triumphant Cross." The ancients thought that God repeated the whole history of the universe over and over again, like a cinema show."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VICTORIOUS." (The Navy is renowned for its hospitality, and the above shows a group of school children and their teachers who were entertained to a cinema show and tea on board."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Movie —often used before another noun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie theater.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Dic tropoeum passionis, dic triumphalem Crucem", sang Prudentius--"Sing the trophy of the Passion; sing the all-triumphant Cross." The ancients thought that God repeated the whole history of the universe over and over again, like a cinema show."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VICTORIOUS." (The Navy is renowned for its hospitality, and the above shows a group of school children and their teachers who were entertained to a cinema show and tea on board."*

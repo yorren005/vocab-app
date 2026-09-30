@@ -5,13 +5,6 @@ status: unread
 ---
 # Micronesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands of the western Pacific east of the Philippines and north of Melanesia including the Caroline, Kiribati, Mariana, and Marshall groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Federation of islands of the western Pacific in the Carolines comprising Kosrae, Pohnpei, Chuuk, and Yap; part of the former Trust Territory of the Pacific Islands; internally self-governing since 1986 with the capital on Pohnpei.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Micronesia designates the islands of the western pacific east of the philippines and north of melanesia including the caroline, kiribati, mariana, and marshall groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands of the western Pacific east of the Philippines and north of Melanesia including the Caroline, Kiribati, Mariana, and Marshall groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Federation of islands of the western Pacific in the Carolines comprising Kosrae, Pohnpei, Chuuk, and Yap; part of the former Trust Territory of the Pacific Islands; internally self-governing since 1986 with the capital on Pohnpei.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Micronesia designates the islands of the western pacific east of the philippines and north of melanesia including the caroline, kiribati, mariana, and marshall groups."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sententious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in or given to pompous or aphoristic moralizing; - kathleen barnes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concise and full of meaning; ; - hervey allen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my faith, he is very swift and sententious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your reasons at dinner have been sharp and sententious, pleasant without scurrility, witty without affection, audacious without impudency, learned without opinion, and strange without heresy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"R is for the—no, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in or given to pompous or aphoristic moralizing; - kathleen barnes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concise and full of meaning; ; - hervey allen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my faith, he is very swift and sententious."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your reasons at dinner have been sharp and sententious, pleasant without scurrility, witty without affection, audacious without impudency, learned without opinion, and strange without heresy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"R is for the—no, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it."*

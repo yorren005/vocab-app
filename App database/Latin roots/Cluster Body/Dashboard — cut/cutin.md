@@ -5,13 +5,6 @@ status: unread
 ---
 # cutin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutin designates (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutin designates (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # acerola
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american shrub bearing edible acid red fruit resembling cherries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acid red or yellow cherry-like fruit of a tropical american shrub very rich in vitamin c.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerola designates tropical american shrub bearing edible acid red fruit resembling cherries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american shrub bearing edible acid red fruit resembling cherries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acid red or yellow cherry-like fruit of a tropical american shrub very rich in vitamin c.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerola designates tropical american shrub bearing edible acid red fruit resembling cherries."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dermestidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpet beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpet beetles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermestidae designates carpet beetles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpet beetles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpet beetles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermestidae designates carpet beetles."*

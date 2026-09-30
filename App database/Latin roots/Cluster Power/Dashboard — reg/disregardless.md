@@ -5,13 +5,6 @@ status: unread
 ---
 # disregardless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In spite of everything; without regard to drawbacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spite of everything; without regard to drawbacks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disregardless designates in spite of everything; without regard to drawbacks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In spite of everything; without regard to drawbacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spite of everything; without regard to drawbacks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disregardless designates in spite of everything; without regard to drawbacks."*

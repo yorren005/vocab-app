@@ -5,20 +5,6 @@ status: unread
 ---
 # chatter
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The sound of talking
-> 2. **Nuance / Usage**: (intransitive) to talk idly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*King Lear*):** *"When the rain came to wet me once, and the wind to make me chatter; when the thunder would not peace at my bidding; there I found 'em, there I smelt 'em out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Peepy had scaled his crib, and crept down in his bed-gown and cap, and was so cold that his teeth were chattering as if he had cut them all."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"His teeth chattered in his head, and he seemed paralyzed with cold and terror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The sound of talking
+> 2. **Nuance / Usage**: (intransitive) to talk idly
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King Lear*):** *"When the rain came to wet me once, and the wind to make me chatter; when the thunder would not peace at my bidding; there I found 'em, there I smelt 'em out."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Peepy had scaled his crib, and crept down in his bed-gown and cap, and was so cold that his teeth were chattering as if he had cut them all."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"His teeth chattered in his head, and he seemed paralyzed with cold and terror."*

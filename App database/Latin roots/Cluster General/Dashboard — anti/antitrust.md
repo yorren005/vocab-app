@@ -5,13 +5,6 @@ status: unread
 ---
 # antitrust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrust designates of laws and regulations; designed to protect trade and commerce from unfair business practices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrust designates of laws and regulations; designed to protect trade and commerce from unfair business practices."*

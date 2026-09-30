@@ -5,15 +5,6 @@ status: unread
 ---
 # scullion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen servant employed to do menial tasks (especially washing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen servant employed to do menial tasks (especially washing).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is most brave, That I, the son of a dear father murder’d, Prompted to my revenge by heaven and hell, Must, like a whore, unpack my heart with words And fall a-cursing like a very drab, A scullion!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away, you scullion! you rampallian! you fustilarian!"*
-> - 📜 **James Joyce (*Ulysses*):** *"The Bruce’s brother, Thomas Fitzgerald, silken knight, Perkin Warbeck, York’s false scion, in breeches of silk of whiterose ivory, wonder of a day, and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen servant employed to do menial tasks (especially washing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen servant employed to do menial tasks (especially washing).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is most brave, That I, the son of a dear father murder’d, Prompted to my revenge by heaven and hell, Must, like a whore, unpack my heart with words And fall a-cursing like a very drab, A scullion!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away, you scullion! you rampallian! you fustilarian!"*
+> - 📜 **James Joyce (*Ulysses*):** *"The Bruce’s brother, Thomas Fitzgerald, silken knight, Perkin Warbeck, York’s false scion, in breeches of silk of whiterose ivory, wonder of a day, and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned."*

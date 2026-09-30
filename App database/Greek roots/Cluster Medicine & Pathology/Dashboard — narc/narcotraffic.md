@@ -5,13 +5,6 @@ status: unread
 ---
 # narcotraffic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traffic in illegal drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traffic in illegal drugs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotraffic designates traffic in illegal drugs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traffic in illegal drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traffic in illegal drugs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotraffic designates traffic in illegal drugs."*

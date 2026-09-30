@@ -5,13 +5,6 @@ status: unread
 ---
 # caducean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a caduceus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a caduceus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"One warm, flush'd moment, hovering, it might seem Dash'd by the wood-nymph's beauty, so he burn'd; Then, lighting on the printless verdure, turn'd To the swoon'd serpent, and with languid arm, Delicate, put to proof the lythe Caducean charm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a caduceus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a caduceus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*Lamia*):** *"One warm, flush'd moment, hovering, it might seem Dash'd by the wood-nymph's beauty, so he burn'd; Then, lighting on the printless verdure, turn'd To the swoon'd serpent, and with languid arm, Delicate, put to proof the lythe Caducean charm."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bipartite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into two portions almost to the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving two parts or elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"While the spores of the one remain unaltered, though intermixed with the true bipartite spores of the mildew, the other exhibits every intermediate state of form and colour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into two portions almost to the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving two parts or elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"While the spores of the one remain unaltered, though intermixed with the true bipartite spores of the mildew, the other exhibits every intermediate state of form and colour."*

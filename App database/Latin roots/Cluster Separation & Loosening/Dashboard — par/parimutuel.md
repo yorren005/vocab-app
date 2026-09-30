@@ -5,13 +5,6 @@ status: unread
 ---
 # parimutuel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Betting where winners share the total amount wagered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Betting where winners share the total amount wagered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parimutuel designates betting where winners share the total amount wagered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Betting where winners share the total amount wagered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Betting where winners share the total amount wagered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parimutuel designates betting where winners share the total amount wagered."*

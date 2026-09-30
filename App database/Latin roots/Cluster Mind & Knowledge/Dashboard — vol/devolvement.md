@@ -5,13 +5,6 @@ status: unread
 ---
 # devolvement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The delegation of authority (especially from a central to a regional government).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delegation of authority (especially from a central to a regional government).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devolvement designates the delegation of authority (especially from a central to a regional government)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delegation of authority (especially from a central to a regional government).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delegation of authority (especially from a central to a regional government).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devolvement designates the delegation of authority (especially from a central to a regional government)."*

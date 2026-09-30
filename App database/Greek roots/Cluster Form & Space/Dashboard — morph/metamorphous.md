@@ -5,13 +5,6 @@ status: unread
 ---
 # metamorphous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metamorphosis (especially of rocks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by metamorphosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphous designates of or relating to metamorphosis (especially of rocks)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metamorphosis (especially of rocks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by metamorphosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphous designates of or relating to metamorphosis (especially of rocks)."*

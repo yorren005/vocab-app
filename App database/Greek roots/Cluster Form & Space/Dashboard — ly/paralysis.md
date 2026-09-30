@@ -5,15 +5,6 @@ status: unread
 ---
 # paralysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete or partial loss of function especially when involving the motion or sensation in a part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of the ability to move.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock, Baronet, has had a fit—apoplexy or paralysis—and couldn’t be brought to, and precious time has been lost."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This paralysis lasted, however, but a short time; for Tess’s energies returned with the atrophy of his, and she walked as fast as she was able past the barn and onward."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Furlong with paralysis and Miss Jordan with consumption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete or partial loss of function especially when involving the motion or sensation in a part of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of the ability to move.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock, Baronet, has had a fit—apoplexy or paralysis—and couldn’t be brought to, and precious time has been lost."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This paralysis lasted, however, but a short time; for Tess’s energies returned with the atrophy of his, and she walked as fast as she was able past the barn and onward."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Furlong with paralysis and Miss Jordan with consumption."*

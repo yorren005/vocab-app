@@ -5,15 +5,6 @@ status: unread
 ---
 # jacobin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the radical movement that instituted the reign of terror during the french revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the radical movement that instituted the reign of terror during the french revolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Carmagnole, a violent Jacobin."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The vicomte who was meeting him for the first time saw clearly that this young Jacobin was not so terrible as his words suggested."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The next is the parody by Canning, as published in the first number of the Anti-Jacobin, 1797:-- INSCRIPTION _For the door of the cell in Newgate, where Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the radical movement that instituted the reign of terror during the french revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the radical movement that instituted the reign of terror during the french revolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Carmagnole, a violent Jacobin."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The vicomte who was meeting him for the first time saw clearly that this young Jacobin was not so terrible as his words suggested."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The next is the parody by Canning, as published in the first number of the Anti-Jacobin, 1797:-- INSCRIPTION _For the door of the cell in Newgate, where Mrs."*

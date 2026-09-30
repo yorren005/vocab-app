@@ -5,13 +5,6 @@ status: unread
 ---
 # sinequan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinequan designates a tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinequan designates a tricyclic antidepressant (trade names adapin and sinequan) with numerous side effects (dry mouth and sedation and gastrointestinal disturbances)."*

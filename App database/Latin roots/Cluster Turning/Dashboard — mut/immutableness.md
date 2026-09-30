@@ -5,14 +5,6 @@ status: unread
 ---
 # immutableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being incapable of mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incapable of mutation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still, for all this immutableness, was there some lack of common consistency about worthy Captain Bildad."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still, for all this immutableness, was there some lack of common consistency about worthy Captain Bildad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being incapable of mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incapable of mutation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still, for all this immutableness, was there some lack of common consistency about worthy Captain Bildad."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still, for all this immutableness, was there some lack of common consistency about worthy Captain Bildad."*

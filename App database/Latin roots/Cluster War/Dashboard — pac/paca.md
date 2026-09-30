@@ -5,13 +5,6 @@ status: unread
 ---
 # paca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large burrowing rodent of south america and central america; highly esteemed as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large burrowing rodent of south america and central america; highly esteemed as food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Jr │ Dec. 1738 │ │ Paca, Wm. │Wye-Hill, Md., 31│Maryland │— ——, 1799. │ Oct. 1740 │ │ Paine, Robert │Boston, Mass., in│Massachusetts │11 May, 1804."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large burrowing rodent of south america and central america; highly esteemed as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large burrowing rodent of south america and central america; highly esteemed as food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Jr │ Dec. 1738 │ │ Paca, Wm. │Wye-Hill, Md., 31│Maryland │— ——, 1799. │ Oct. 1740 │ │ Paine, Robert │Boston, Mass., in│Massachusetts │11 May, 1804."*

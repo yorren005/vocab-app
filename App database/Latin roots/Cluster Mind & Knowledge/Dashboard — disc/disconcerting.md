@@ -5,15 +5,6 @@ status: unread
 ---
 # disconcerting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This move was unexpected, and proportionately disconcerting."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Of course," said Aunt Emmeline, continuing her thoughts aloud, as was her disconcerting habit, "Kathleen has money, and that gives a wife a whip hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This move was unexpected, and proportionately disconcerting."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Of course," said Aunt Emmeline, continuing her thoughts aloud, as was her disconcerting habit, "Kathleen has money, and that gives a wife a whip hand."*

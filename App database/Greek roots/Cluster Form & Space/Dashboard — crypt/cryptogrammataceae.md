@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptogrammataceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogrammataceae designates one of a number of families into which the family polypodiaceae has been subdivided in some classification systems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogrammataceae designates one of a number of families into which the family polypodiaceae has been subdivided in some classification systems."*

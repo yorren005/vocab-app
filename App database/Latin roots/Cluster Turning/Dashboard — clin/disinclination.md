@@ -5,15 +5,6 @@ status: unread
 ---
 # disinclination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That toward which you are inclined to feel dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certain degree of unwillingness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That was something much more important than his disinclination to DC with the Knippel boys."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They have a great disinclination to touch any object, and carefully blow the dust from it first."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And even Mary could assure her family that she had no disinclination for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That toward which you are inclined to feel dislike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certain degree of unwillingness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That was something much more important than his disinclination to DC with the Knippel boys."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They have a great disinclination to touch any object, and carefully blow the dust from it first."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And even Mary could assure her family that she had no disinclination for it."*

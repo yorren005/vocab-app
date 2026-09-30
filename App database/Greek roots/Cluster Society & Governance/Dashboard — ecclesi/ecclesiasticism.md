@@ -5,13 +5,6 @@ status: unread
 ---
 # ecclesiasticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive adherence to ecclesiastical forms and activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religion appropriate to a church and to ecclesiastical principles and practices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her host’s brother, the Vicar, had come to luncheon, and Isabel had had five minutes’ talk with him--time enough to institute a search for a rich ecclesiasticism and give it up as vain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive adherence to ecclesiastical forms and activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religion appropriate to a church and to ecclesiastical principles and practices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her host’s brother, the Vicar, had come to luncheon, and Isabel had had five minutes’ talk with him--time enough to institute a search for a rich ecclesiasticism and give it up as vain."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exultingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exultant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exultant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"No, no!” cried Richard exultingly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have looked forward to it,” he said exultingly, “for months on months!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll tell ’ee what ’tis, Durbeyfield,” said she exultingly; “he’ll never have the heart not to love her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exultant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exultant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"No, no!” cried Richard exultingly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have looked forward to it,” he said exultingly, “for months on months!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll tell ’ee what ’tis, Durbeyfield,” said she exultingly; “he’ll never have the heart not to love her."*

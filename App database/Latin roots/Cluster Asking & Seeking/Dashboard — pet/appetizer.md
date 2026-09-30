@@ -5,13 +5,6 @@ status: unread
 ---
 # appetizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetizer designates food or drink to stimulate the appetite (usually served before a meal or as the first course)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food or drink to stimulate the appetite (usually served before a meal or as the first course).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appetizer designates food or drink to stimulate the appetite (usually served before a meal or as the first course)."*

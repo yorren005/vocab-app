@@ -5,13 +5,6 @@ status: unread
 ---
 # trematode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic flatworms having external suckers for attaching to a host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic flatworms having external suckers for attaching to a host.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematode designates parasitic flatworms having external suckers for attaching to a host."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic flatworms having external suckers for attaching to a host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic flatworms having external suckers for attaching to a host.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematode designates parasitic flatworms having external suckers for attaching to a host."*

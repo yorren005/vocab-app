@@ -5,13 +5,6 @@ status: unread
 ---
 # adventism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any christian religion that believes the second coming of christ is imminent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any christian religion that believes the second coming of christ is imminent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventism designates any christian religion that believes the second coming of christ is imminent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any christian religion that believes the second coming of christ is imminent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any christian religion that believes the second coming of christ is imminent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventism designates any christian religion that believes the second coming of christ is imminent."*

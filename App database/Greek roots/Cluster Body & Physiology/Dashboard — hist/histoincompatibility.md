@@ -5,13 +5,6 @@ status: unread
 ---
 # histoincompatibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incompatibility in which one person's tissue cannot be transplanted to another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incompatibility in which one person's tissue cannot be transplanted to another person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histoincompatibility designates incompatibility in which one person's tissue cannot be transplanted to another person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incompatibility in which one person's tissue cannot be transplanted to another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incompatibility in which one person's tissue cannot be transplanted to another person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histoincompatibility designates incompatibility in which one person's tissue cannot be transplanted to another person."*

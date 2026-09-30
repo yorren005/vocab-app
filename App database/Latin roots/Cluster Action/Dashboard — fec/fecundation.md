@@ -5,13 +5,6 @@ status: unread
 ---
 # fecundation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It may be observed that the extremity of the tube which proceeds from the antheridium does not open, and the fecundation, if such it be, is produced solely by contact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It may be observed that the extremity of the tube which proceeds from the antheridium does not open, and the fecundation, if such it be, is produced solely by contact."*

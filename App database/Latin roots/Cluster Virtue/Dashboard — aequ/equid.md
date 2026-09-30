@@ -5,13 +5,6 @@ status: unread
 ---
 # equid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equid designates hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equid designates hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck."*

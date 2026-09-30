@@ -5,13 +5,6 @@ status: unread
 ---
 # chiromance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divine by reading someone's palms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divine by reading someone's palms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromance designates divine by reading someone's palms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divine by reading someone's palms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divine by reading someone's palms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromance designates divine by reading someone's palms."*

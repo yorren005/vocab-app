@@ -5,15 +5,6 @@ status: unread
 ---
 # stella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states minimalist painter (born in 1936).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states minimalist painter (born in 1936).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Burns Elegy On “Stella” The following poem is the work of some hapless son of the Muses who deserved a better fate."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O, my dear maid, my Stella, when Shall this sick period close, And lead the solitary bard To his belov’d repose?"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And to Isis in her later character of patroness of mariners the Virgin Mary perhaps owes her beautiful epithet of _Stella Maris,_ "Star of the Sea," under which she is adored by tempest-tossed sailors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states minimalist painter (born in 1936).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states minimalist painter (born in 1936).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Burns Elegy On “Stella” The following poem is the work of some hapless son of the Muses who deserved a better fate."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O, my dear maid, my Stella, when Shall this sick period close, And lead the solitary bard To his belov’d repose?"*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And to Isis in her later character of patroness of mariners the Virgin Mary perhaps owes her beautiful epithet of _Stella Maris,_ "Star of the Sea," under which she is adored by tempest-tossed sailors."*

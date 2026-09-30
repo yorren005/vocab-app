@@ -5,15 +5,6 @@ status: unread
 ---
 # lattice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small opening (like a window in a door) through which business can be transacted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, my good window of lattice, fare thee well; thy casement I need not open, for I look through thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He calls me e’en now, my lord, through a red lattice, and I could discern no part of his face from the window."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lattice-windows were all thrown open, and we sat just within the doorway watching the storm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small opening (like a window in a door) through which business can be transacted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, my good window of lattice, fare thee well; thy casement I need not open, for I look through thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He calls me e’en now, my lord, through a red lattice, and I could discern no part of his face from the window."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lattice-windows were all thrown open, and we sat just within the doorway watching the storm."*

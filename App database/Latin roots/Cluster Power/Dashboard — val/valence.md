@@ -5,14 +5,6 @@ status: unread
 ---
 # valence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a relative capacity to unite or react or interact as with antigens or a biological substrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a property of atoms or radicals; their combining power given in terms of the number of hydrogen atoms (or the equivalent).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"It was afterwards conveyed by a female to William de <g>Valentia</g>, Earl of Pembroke, whose third son, Aymer de Valence, became his heir, and was murdered in France in 1323."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"John’s, founded by the Valences, or Valentias, with a lazar-house and almshouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a relative capacity to unite or react or interact as with antigens or a biological substrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a property of atoms or radicals; their combining power given in terms of the number of hydrogen atoms (or the equivalent).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"It was afterwards conveyed by a female to William de <g>Valentia</g>, Earl of Pembroke, whose third son, Aymer de Valence, became his heir, and was murdered in France in 1323."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"John’s, founded by the Valences, or Valentias, with a lazar-house and almshouse."*

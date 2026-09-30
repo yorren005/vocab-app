@@ -5,15 +5,6 @@ status: unread
 ---
 # sane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally healthy; free from mental disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by sound judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Call it madness, and I tell you I can’t help it now, and can’t be sane."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It might well be that we kept one another from insanity, although I must admit that Oppenheimer rotted five years in solitary entirely by himself, ere Morrell joined him, and yet had remained sane."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will hold to the principles received by me when I was sane, and not mad—as I am now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally healthy; free from mental disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by sound judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Call it madness, and I tell you I can’t help it now, and can’t be sane."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It might well be that we kept one another from insanity, although I must admit that Oppenheimer rotted five years in solitary entirely by himself, ere Morrell joined him, and yet had remained sane."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will hold to the principles received by me when I was sane, and not mad—as I am now."*

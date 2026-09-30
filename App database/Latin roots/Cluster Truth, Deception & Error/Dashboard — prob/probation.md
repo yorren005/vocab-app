@@ -5,15 +5,6 @@ status: unread
 ---
 # probation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trial period during which your character and abilities are tested to see whether you are suitable for work or for membership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trial period during which an offender has time to redeem himself or herself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And of the truth herein This present object made probation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, in probation of a sisterhood, Was sent to by my brother; one Lucio As then the messenger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make me to see’t, or at the least so prove it, That the probation bear no hinge nor loop To hang a doubt on, or woe upon thy life!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trial period during which your character and abilities are tested to see whether you are suitable for work or for membership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trial period during which an offender has time to redeem himself or herself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And of the truth herein This present object made probation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, in probation of a sisterhood, Was sent to by my brother; one Lucio As then the messenger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make me to see’t, or at the least so prove it, That the probation bear no hinge nor loop To hang a doubt on, or woe upon thy life!"*

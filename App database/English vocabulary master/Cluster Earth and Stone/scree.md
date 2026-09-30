@@ -5,20 +5,6 @@ status: unread
 ---
 # scree
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (uncountable) loose stony debris on a slope
-> 2. **Nuance / Usage**: (countable) a slope made up of scree at the base of a cliff, mountain, etc
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the scree withstood the storm*), direct object (*cleaved the scree*), or prepositional anchor (*amidst the scree*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **""Voyageur"" (*The Cockermouth, Keswick & Penrith Railway*):** *"To the north the towering scree-strewn slopes of Saddleback begin to draw nearer as we start the abrupt descent towards Keswick."*
-> - 📜 **{{w (*{{w*):** *"Struggling down the slope,<br>There's not much hope.<br>I begin to try to ride the scree<br>But the rocks are tumbling all around me."*
-> - 📜 **Catherine Merridale (*Night of Stone: Death and Memory in Twentieth-century Russia*):** *"Acres of the industrial port had been reduced to desolation, half-walls, half-chimneys, crazy sticks of steel that looped up out of concrete scree. The temptation not to clear and rebuild must have been strong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (uncountable) loose stony debris on a slope
+> 2. **Nuance / Usage**: (countable) a slope made up of scree at the base of a cliff, mountain, etc
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the scree withstood the storm*), direct object (*cleaved the scree*), or prepositional anchor (*amidst the scree*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **""Voyageur"" (*The Cockermouth, Keswick & Penrith Railway*):** *"To the north the towering scree-strewn slopes of Saddleback begin to draw nearer as we start the abrupt descent towards Keswick."*
+> - 📜 **{{w (*{{w*):** *"Struggling down the slope,<br>There's not much hope.<br>I begin to try to ride the scree<br>But the rocks are tumbling all around me."*
+> - 📜 **Catherine Merridale (*Night of Stone: Death and Memory in Twentieth-century Russia*):** *"Acres of the industrial port had been reduced to desolation, half-walls, half-chimneys, crazy sticks of steel that looped up out of concrete scree. The temptation not to clear and rebuild must have been strong."*

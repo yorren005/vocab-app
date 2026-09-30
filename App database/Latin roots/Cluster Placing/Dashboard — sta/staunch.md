@@ -5,15 +5,6 @@ status: unread
 ---
 # staunch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stop the flow of a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Firm and dependable especially in loyalty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if I knew What hoop should hold us staunch, from edge to edge O’ th’ world I would pursue it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my tears staunch the earth’s dry appetite; My sons’ sweet blood will make it shame and blush."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I don’t go so far as that.” “For my part,” said Coggan, “I’m staunch Church of England.” “Ay, and faith, so be I,” said Mark Clark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stop the flow of a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Firm and dependable especially in loyalty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if I knew What hoop should hold us staunch, from edge to edge O’ th’ world I would pursue it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my tears staunch the earth’s dry appetite; My sons’ sweet blood will make it shame and blush."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I don’t go so far as that.” “For my part,” said Coggan, “I’m staunch Church of England.” “Ay, and faith, so be I,” said Mark Clark."*

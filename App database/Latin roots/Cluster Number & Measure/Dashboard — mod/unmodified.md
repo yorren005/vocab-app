@@ -5,14 +5,6 @@ status: unread
 ---
 # unmodified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed in form or character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not changed in form or character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Unmodified private control of property is unknown; the public makes many reservations in its own interest."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"But although Wordsworth passed thus through London unmodified and indifferent, the current of things was sweeping him on to mingle in a fiercer tumult,--to be caught in the tides of a more violent and feverish life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed in form or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not changed in form or character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Unmodified private control of property is unknown; the public makes many reservations in its own interest."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"But although Wordsworth passed thus through London unmodified and indifferent, the current of things was sweeping him on to mingle in a fiercer tumult,--to be caught in the tides of a more violent and feverish life."*

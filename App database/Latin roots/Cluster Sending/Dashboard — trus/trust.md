@@ -5,15 +5,6 @@ status: unread
 ---
 # trust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (as property) held by one party (the trustee) for the benefit of another (the beneficiary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Certainty based on past experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love all, trust a few, Do wrong to none."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More should I question thee, and more I must, Though more to know could not be more to trust: From whence thou cam’st, how tended on; but rest Unquestion’d welcome, and undoubted bless’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (as property) held by one party (the trustee) for the benefit of another (the beneficiary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Certainty based on past experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love all, trust a few, Do wrong to none."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More should I question thee, and more I must, Though more to know could not be more to trust: From whence thou cam’st, how tended on; but rest Unquestion’d welcome, and undoubted bless’d."*

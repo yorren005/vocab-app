@@ -5,15 +5,6 @@ status: unread
 ---
 # reparation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation (given or received) for an insult or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) compensation exacted from a defeated nation by the victors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then I shall acknowledge it and make him reparation.” Everything postponed to that imaginary time!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight had quite depressed her this evening; had reminded her of her folly; she wished anew, as she had wished many months ago, for some means of making reparation for her fault."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, what I want to ask you is, will you put it in my power to do my duty—to make the only reparation I can make for the trick played you: that is, will you be my wife, and go with me?..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation (given or received) for an insult or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) compensation exacted from a defeated nation by the victors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then I shall acknowledge it and make him reparation.” Everything postponed to that imaginary time!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight had quite depressed her this evening; had reminded her of her folly; she wished anew, as she had wished many months ago, for some means of making reparation for her fault."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, what I want to ask you is, will you put it in my power to do my duty—to make the only reparation I can make for the trick played you: that is, will you be my wife, and go with me?..."*

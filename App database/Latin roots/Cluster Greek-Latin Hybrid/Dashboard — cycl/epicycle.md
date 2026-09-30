@@ -5,13 +5,6 @@ status: unread
 ---
 # epicycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicycle designates a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicycle designates a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid."*

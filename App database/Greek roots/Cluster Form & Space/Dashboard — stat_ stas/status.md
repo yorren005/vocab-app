@@ -5,15 +5,6 @@ status: unread
 ---
 # status
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative position or standing of things or especially persons in a society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state at a particular time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This status of semi-independence which it so long enjoyed has helped to give it an individuality more strongly marked than that of most English towns."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And this is the very point: my life-sentence gave me my status under this law which had not yet been written on the books."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And it is because of my status of lifetimer that I am to be hanged for battery committed on the guard Thurston."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative position or standing of things or especially persons in a society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state at a particular time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This status of semi-independence which it so long enjoyed has helped to give it an individuality more strongly marked than that of most English towns."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And this is the very point: my life-sentence gave me my status under this law which had not yet been written on the books."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And it is because of my status of lifetimer that I am to be hanged for battery committed on the guard Thurston."*

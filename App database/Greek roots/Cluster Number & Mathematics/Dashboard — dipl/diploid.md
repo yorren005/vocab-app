@@ -5,13 +5,6 @@ status: unread
 ---
 # diploid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving two sets of homologous chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single cell, individual, or generation characterized by two complete sets of chromosomes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diploid designates having or involving two sets of homologous chromosomes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving two sets of homologous chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single cell, individual, or generation characterized by two complete sets of chromosomes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diploid designates having or involving two sets of homologous chromosomes."*

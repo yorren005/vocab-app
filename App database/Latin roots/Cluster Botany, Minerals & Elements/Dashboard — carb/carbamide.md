@@ -5,13 +5,6 @@ status: unread
 ---
 # carbamide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbamide designates the chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbamide designates the chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics."*

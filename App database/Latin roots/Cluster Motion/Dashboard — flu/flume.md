@@ -5,15 +5,6 @@ status: unread
 ---
 # flume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow gorge with a stream running through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watercourse that consists of an open artificial chute filled with water for power or for carrying logs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Through the breach, they heard the waters pour, as mountain torrents down a flume."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Flume, you start collecting rocks to pack around the body once we get it in place."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf put me in charge of this detail, Flume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow gorge with a stream running through it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watercourse that consists of an open artificial chute filled with water for power or for carrying logs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Through the breach, they heard the waters pour, as mountain torrents down a flume."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Flume, you start collecting rocks to pack around the body once we get it in place."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf put me in charge of this detail, Flume."*

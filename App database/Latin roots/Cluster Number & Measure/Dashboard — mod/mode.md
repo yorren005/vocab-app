@@ -5,15 +5,6 @@ status: unread
 ---
 # mode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular functioning condition or arrangement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Looking thoughtfully in front of her for a moment, she said, "Aunt Maxa"--this was the mode of address she had long ago been granted--"don't you want me to think of Apollonie's cottage either?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been definitely ordered to change his usual mode of behaviour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I found (after pacifying him) that he was a little boy with a naturally large head, I thought that perhaps where his head could go, his body could follow, and mentioned that the best mode of extrication might be to push him forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular functioning condition or arrangement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Looking thoughtfully in front of her for a moment, she said, "Aunt Maxa"--this was the mode of address she had long ago been granted--"don't you want me to think of Apollonie's cottage either?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been definitely ordered to change his usual mode of behaviour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As I found (after pacifying him) that he was a little boy with a naturally large head, I thought that perhaps where his head could go, his body could follow, and mentioned that the best mode of extrication might be to push him forward."*

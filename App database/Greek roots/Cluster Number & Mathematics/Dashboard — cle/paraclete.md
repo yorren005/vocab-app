@@ -5,15 +5,6 @@ status: unread
 ---
 # paraclete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Holy spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holy spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There you have the will of my God."[101] "And therefore the Paraclete is needed, to guide into all truth, to animate for all endurance."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Montanus, however, asserted Christ's promise of the Paraclete--his enemies allege that he identified himself with the Paraclete, a statement which might be used to show how quotation may lead to _suggestio falsi_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But the coming of the Paraclete was not in fact a synonym for fanaticism and the collection of money, as the enemies of Montanus hinted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holy spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holy spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There you have the will of my God."[101] "And therefore the Paraclete is needed, to guide into all truth, to animate for all endurance."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Montanus, however, asserted Christ's promise of the Paraclete--his enemies allege that he identified himself with the Paraclete, a statement which might be used to show how quotation may lead to _suggestio falsi_."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But the coming of the Paraclete was not in fact a synonym for fanaticism and the collection of money, as the enemies of Montanus hinted."*

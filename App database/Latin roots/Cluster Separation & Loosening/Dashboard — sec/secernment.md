@@ -5,13 +5,6 @@ status: unread
 ---
 # secernment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic process of synthesizing and releasing some substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process whereby two or more stimuli are distinguished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secernment designates the organic process of synthesizing and releasing some substance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic process of synthesizing and releasing some substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process whereby two or more stimuli are distinguished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secernment designates the organic process of synthesizing and releasing some substance."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # collocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of words in a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of positioning close together (or side by side).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Now, of all WORDS in the language, ‘the’ is most usual; let us see, therefore, whether there are not repetitions of any three characters, in the same order of collocation, the last of them being 8."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning’s language, as language, is, in nine cases out of ten, due, namely, to the COLLOCATION of the words, not to an excessive economy of words."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He often exercises a liberty in the collocation of his words which is beyond what an uninflected language like the English admits of, without more or less obscurity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of words in a sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of positioning close together (or side by side).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Now, of all WORDS in the language, ‘the’ is most usual; let us see, therefore, whether there are not repetitions of any three characters, in the same order of collocation, the last of them being 8."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning’s language, as language, is, in nine cases out of ten, due, namely, to the COLLOCATION of the words, not to an excessive economy of words."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He often exercises a liberty in the collocation of his words which is beyond what an uninflected language like the English admits of, without more or less obscurity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # semicolon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (`;') used to connect independent clauses; indicates a closer relation than does a period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark (`;') used to connect independent clauses; indicates a closer relation than does a period.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But what color can the objection have, when a specification of the objects alluded to by these general terms immediately follows, and is not even separated by a longer pause than a semicolon?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The following is a brave attempt at a solution, but it failed to liquify: When they are going to say some prose or poetry before they say the poetry or prose they must put a semicolon just after the introduction of the prose or poetry."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Somebody put a drop under a magnifying-glass and it was all semicolons and parentheses,” said Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (`;') used to connect independent clauses; indicates a closer relation than does a period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark (`;') used to connect independent clauses; indicates a closer relation than does a period.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But what color can the objection have, when a specification of the objects alluded to by these general terms immediately follows, and is not even separated by a longer pause than a semicolon?"*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The following is a brave attempt at a solution, but it failed to liquify: When they are going to say some prose or poetry before they say the poetry or prose they must put a semicolon just after the introduction of the prose or poetry."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Somebody put a drop under a magnifying-glass and it was all semicolons and parentheses,” said Mrs."*

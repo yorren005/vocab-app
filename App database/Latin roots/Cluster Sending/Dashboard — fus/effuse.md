@@ -5,15 +5,6 @@ status: unread
 ---
 # effuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow or spill forth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The air hath got into my deadly wounds, And much effuse of blood doth make me faint."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WILLOW-HERB BRAND; spots pale; sori hypogenous, subrotund, crowded; epidermis evanescent; spores effuse, cinnamon, broadly elliptic, strongly constricted; peduncles very short.—On the leaves of _Epilobium palustre_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"UTRICLE SMUT; produced in the germen and perigonium; epidermis soon ruptured; spores effuse, minute, globose, purple-black.—On _Polygonum hydropiper_ and other _Polygona_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow or spill forth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The air hath got into my deadly wounds, And much effuse of blood doth make me faint."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WILLOW-HERB BRAND; spots pale; sori hypogenous, subrotund, crowded; epidermis evanescent; spores effuse, cinnamon, broadly elliptic, strongly constricted; peduncles very short.—On the leaves of _Epilobium palustre_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"UTRICLE SMUT; produced in the germen and perigonium; epidermis soon ruptured; spores effuse, minute, globose, purple-black.—On _Polygonum hydropiper_ and other _Polygona_."*

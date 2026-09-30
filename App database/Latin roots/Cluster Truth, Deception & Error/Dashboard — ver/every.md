@@ -5,15 +5,6 @@ status: unread
 ---
 # every
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of count nouns) each and all of the members of a group considered singly and without exception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Each and all of a series of entities or intervals as specified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of count nouns) each and all of the members of a group considered singly and without exception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Each and all of a series of entities or intervals as specified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # geneva
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern switzerland at the western end of lake geneva; it is the headquarters of various international organizations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gin made in the netherlands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"This was never penn'd at _Geneva_, the Note's too sprightly."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"He beckons for one-- Sure 'tis no Anthem nor no borrowed rhymes Out of the Schoole of vertue; I will listen-- A _Song._ This was never penn'd at _Geneva_, the note's too spritely."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Thus united, but strangely dissimilar, the two parties converged on the Lake of Geneva, where the poets met for the first time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern switzerland at the western end of lake geneva; it is the headquarters of various international organizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gin made in the netherlands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"This was never penn'd at _Geneva_, the Note's too sprightly."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"He beckons for one-- Sure 'tis no Anthem nor no borrowed rhymes Out of the Schoole of vertue; I will listen-- A _Song._ This was never penn'd at _Geneva_, the note's too spritely."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Thus united, but strangely dissimilar, the two parties converged on the Lake of Geneva, where the poets met for the first time."*

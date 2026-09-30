@@ -5,13 +5,6 @@ status: unread
 ---
 # phagocytosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagocytosis designates the engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagocytosis designates the engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris."*

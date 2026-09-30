@@ -5,13 +5,6 @@ status: unread
 ---
 # unconvertible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconvertible designates used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconvertible designates used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value."*

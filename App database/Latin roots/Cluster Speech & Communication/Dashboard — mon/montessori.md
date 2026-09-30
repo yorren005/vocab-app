@@ -5,13 +5,6 @@ status: unread
 ---
 # montessori
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian educator who developed a method of teaching mentally handicapped children and advocated a child-centered approach (1870-1952).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian educator who developed a method of teaching mentally handicapped children and advocated a child-centered approach (1870-1952).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montessori designates italian educator who developed a method of teaching mentally handicapped children and advocated a child-centered approach (1870-1952)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian educator who developed a method of teaching mentally handicapped children and advocated a child-centered approach (1870-1952).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian educator who developed a method of teaching mentally handicapped children and advocated a child-centered approach (1870-1952).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montessori designates italian educator who developed a method of teaching mentally handicapped children and advocated a child-centered approach (1870-1952)."*

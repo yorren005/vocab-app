@@ -5,15 +5,6 @@ status: unread
 ---
 # accessory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing that is worn or carried, but not part of your main clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplementary component that improves capability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But there are other instances where this whiteness loses all that accessory and strange glory which invests it in the White Steed and Albatross."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Clair’s story, he was known to have been at the foot of the stair within a very few seconds of her husband’s appearance at the window, he could hardly have been more than an accessory to the crime."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tried as an accessory and judged guilty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing that is worn or carried, but not part of your main clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplementary component that improves capability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But there are other instances where this whiteness loses all that accessory and strange glory which invests it in the White Steed and Albatross."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Clair’s story, he was known to have been at the foot of the stair within a very few seconds of her husband’s appearance at the window, he could hardly have been more than an accessory to the crime."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tried as an accessory and judged guilty."*

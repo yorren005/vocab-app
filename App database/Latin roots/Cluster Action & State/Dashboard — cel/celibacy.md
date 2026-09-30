@@ -5,15 +5,6 @@ status: unread
 ---
 # celibacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unmarried status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abstaining from sexual relations (as because of religious vows).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Johnson’s celebrated judgment as to matrimony and celibacy, and say, that though Mansfield Park might have some pains, Portsmouth could have no pleasures."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This latter step, however, there was no present prospect that Arthur Dimmesdale would be prevailed upon to take; he rejected all suggestions of the kind, as if priestly celibacy were one of his articles of Church discipline."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Perhaps his very pretence of celibacy was only a cover for a deeper design of getting hold of the riches of the Golden Farmer!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unmarried status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abstaining from sexual relations (as because of religious vows).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Johnson’s celebrated judgment as to matrimony and celibacy, and say, that though Mansfield Park might have some pains, Portsmouth could have no pleasures."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This latter step, however, there was no present prospect that Arthur Dimmesdale would be prevailed upon to take; he rejected all suggestions of the kind, as if priestly celibacy were one of his articles of Church discipline."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Perhaps his very pretence of celibacy was only a cover for a deeper design of getting hold of the riches of the Golden Farmer!"*

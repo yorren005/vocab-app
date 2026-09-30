@@ -5,13 +5,6 @@ status: unread
 ---
 # genipa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tree of the genus genipa bearing yellow flowers and edible fruit with a thick rind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tree of the genus genipa bearing yellow flowers and edible fruit with a thick rind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genipa designates any tree of the genus genipa bearing yellow flowers and edible fruit with a thick rind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tree of the genus genipa bearing yellow flowers and edible fruit with a thick rind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tree of the genus genipa bearing yellow flowers and edible fruit with a thick rind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genipa designates any tree of the genus genipa bearing yellow flowers and edible fruit with a thick rind."*

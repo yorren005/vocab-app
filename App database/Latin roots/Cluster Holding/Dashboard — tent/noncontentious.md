@@ -5,13 +5,6 @@ status: unread
 ---
 # noncontentious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons; not given to controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons; not given to controversy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncontentious designates of persons; not given to controversy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons; not given to controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons; not given to controversy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncontentious designates of persons; not given to controversy."*

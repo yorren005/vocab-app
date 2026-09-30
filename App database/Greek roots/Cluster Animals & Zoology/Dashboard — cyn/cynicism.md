@@ -5,15 +5,6 @@ status: unread
 ---
 # cynicism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the Cynics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cynical attitude or quality; also : a cynical comment or act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Knowledge of men, but without cynicism, a loving heart still in spite of his freedom from illusions--these are among the gifts that his environment gave him, or failed to take away from him."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But apart from the coarse cynicism of it, which irritated him, it was no more than he had foreseen, and from then on till the end he did not flinch."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There, you see!" said Hyde with his saddened cynicism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the Cynics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cynical attitude or quality; also : a cynical comment or act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Knowledge of men, but without cynicism, a loving heart still in spite of his freedom from illusions--these are among the gifts that his environment gave him, or failed to take away from him."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But apart from the coarse cynicism of it, which irritated him, it was no more than he had foreseen, and from then on till the end he did not flinch."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There, you see!" said Hyde with his saddened cynicism."*

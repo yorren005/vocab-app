@@ -5,15 +5,6 @@ status: unread
 ---
 # animate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne, attending with all the strength and zeal, and thought, which instinct supplied, to Henrietta, still tried, at intervals, to suggest comfort to the others, tried to quiet Mary, to animate Charles, to assuage the feelings of Captain Wentworth."*
-> - 📜 **Jane Austen (*Persuasion*):** *"An account of the concert was immediately claimed; and Anne’s recollections of the concert were quite happy enough to animate her features and make her rejoice to talk of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne, attending with all the strength and zeal, and thought, which instinct supplied, to Henrietta, still tried, at intervals, to suggest comfort to the others, tried to quiet Mary, to animate Charles, to assuage the feelings of Captain Wentworth."*
+> - 📜 **Jane Austen (*Persuasion*):** *"An account of the concert was immediately claimed; and Anne’s recollections of the concert were quite happy enough to animate her features and make her rejoice to talk of it."*

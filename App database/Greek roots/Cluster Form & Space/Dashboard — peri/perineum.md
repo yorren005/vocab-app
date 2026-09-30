@@ -5,13 +5,6 @@ status: unread
 ---
 # perineum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The general region between the anus and the genital organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general region between the anus and the genital organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perineum designates the general region between the anus and the genital organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general region between the anus and the genital organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general region between the anus and the genital organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perineum designates the general region between the anus and the genital organs."*

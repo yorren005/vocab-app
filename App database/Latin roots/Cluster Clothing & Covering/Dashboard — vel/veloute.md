@@ -5,13 +5,6 @@ status: unread
 ---
 # veloute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White sauce made with stock instead of milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White sauce made with stock instead of milk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veloute designates white sauce made with stock instead of milk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: White sauce made with stock instead of milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White sauce made with stock instead of milk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veloute designates white sauce made with stock instead of milk."*

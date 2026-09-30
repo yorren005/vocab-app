@@ -5,15 +5,6 @@ status: unread
 ---
 # palpably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be palpable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be palpable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket palpably knows all about it—“and recent circumstances have brought it on.” As he takes his seat with some difficulty and with an air of pain, Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rattle of the quarter-jack again from its niche, its blows for three-quarters, its fussy retreat, were almost painfully abrupt, and caused many of the congregation to start palpably."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"God was palpably present in the country, and the devil had gone with the world to town."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be palpable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be palpable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket palpably knows all about it—“and recent circumstances have brought it on.” As he takes his seat with some difficulty and with an air of pain, Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rattle of the quarter-jack again from its niche, its blows for three-quarters, its fussy retreat, were almost painfully abrupt, and caused many of the congregation to start palpably."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"God was palpably present in the country, and the devil had gone with the world to town."*

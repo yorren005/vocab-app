@@ -5,15 +5,6 @@ status: unread
 ---
 # sideway
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With one side forward or to the front.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the side; obliquely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Has William Smallbury returned?” “No, ma’am.” “The new shepherd will want a man under him,” suggested Henery Fray, trying to make himself official again by a sideway approach towards her chair."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, from this peculiar sideway position of the whale’s eyes, it is plain that he can never see an object which is exactly ahead, no more than he can one exactly astern."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Has William Smallbury returned?” “No, ma’am.” “The new shepherd will want a man under him,” suggested Henery Fray, trying to make himself official again by a sideway approach towards her chair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With one side forward or to the front.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the side; obliquely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Has William Smallbury returned?” “No, ma’am.” “The new shepherd will want a man under him,” suggested Henery Fray, trying to make himself official again by a sideway approach towards her chair."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, from this peculiar sideway position of the whale’s eyes, it is plain that he can never see an object which is exactly ahead, no more than he can one exactly astern."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Has William Smallbury returned?” “No, ma’am.” “The new shepherd will want a man under him,” suggested Henery Fray, trying to make himself official again by a sideway approach towards her chair."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # metathesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic process of transposition of sounds or syllables within a word or words within a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction between two compounds in which parts of each are interchanged to form two new compounds (ab+cd=ad+cb).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metathesis designates a linguistic process of transposition of sounds or syllables within a word or words within a sentence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic process of transposition of sounds or syllables within a word or words within a sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction between two compounds in which parts of each are interchanged to form two new compounds (ab+cd=ad+cb).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metathesis designates a linguistic process of transposition of sounds or syllables within a word or words within a sentence."*

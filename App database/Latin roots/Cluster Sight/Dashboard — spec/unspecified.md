@@ -5,13 +5,6 @@ status: unread
 ---
 # unspecified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated explicitly or in detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not stated explicitly or in detail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I will add that his finger-nails were scrupulously attended to, and that he meant to marry a well-educated young lady (as yet unspecified) whose person was good, and whose connections, in a solid middle-class way, were undeniable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated explicitly or in detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not stated explicitly or in detail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I will add that his finger-nails were scrupulously attended to, and that he meant to marry a well-educated young lady (as yet unspecified) whose person was good, and whose connections, in a solid middle-class way, were undeniable."*

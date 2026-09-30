@@ -5,13 +5,6 @@ status: unread
 ---
 # lusciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to produce a delightful taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to produce a delightful taste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusciously designates so as to produce a delightful taste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to produce a delightful taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to produce a delightful taste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusciously designates so as to produce a delightful taste."*

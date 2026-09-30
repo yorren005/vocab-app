@@ -5,15 +5,6 @@ status: unread
 ---
 # practise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a rehearsal (of).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or practice; as of jobs and professions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if you there Did practise on my state, your being in Egypt Might be my question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere I learn love, I’ll practise to obey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a rehearsal (of).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or practice; as of jobs and professions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if you there Did practise on my state, your being in Egypt Might be my question."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere I learn love, I’ll practise to obey."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly."*

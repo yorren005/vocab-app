@@ -5,15 +5,6 @@ status: unread
 ---
 # extemporise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform without preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform without preparation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To pass in repose the hours intervening between Thursday (proper) and Friday (normal) on an extemporised cubicle in the apartment immediately above the kitchen and immediately adjacent to the sleeping apartment of his host and hostess."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Blakesley had extemporised a bed for me on the old sofa; and the fire was already blazing away splendidly."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Your deeds got into extemporised strong-rooms made of kitchens and sculleries, and fretted all the fat out of their parchments into the banking-house air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform without preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform without preparation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"To pass in repose the hours intervening between Thursday (proper) and Friday (normal) on an extemporised cubicle in the apartment immediately above the kitchen and immediately adjacent to the sleeping apartment of his host and hostess."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Blakesley had extemporised a bed for me on the old sofa; and the fire was already blazing away splendidly."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Your deeds got into extemporised strong-rooms made of kitchens and sculleries, and fretted all the fat out of their parchments into the banking-house air."*

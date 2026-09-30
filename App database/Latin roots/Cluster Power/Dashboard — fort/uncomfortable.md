@@ -5,15 +5,6 @@ status: unread
 ---
 # uncomfortable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducive to or feeling mental discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing or experiencing physical discomfort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncomfortable time, why cam’st thou now To murder, murder our solemnity?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada and I were very uncomfortable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducive to or feeling mental discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing or experiencing physical discomfort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncomfortable time, why cam’st thou now To murder, murder our solemnity?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ada and I were very uncomfortable."*

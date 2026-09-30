@@ -5,13 +5,6 @@ status: unread
 ---
 # finedraw
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sew together very finely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sew together very finely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finedraw designates sew together very finely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sew together very finely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sew together very finely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finedraw designates sew together very finely."*

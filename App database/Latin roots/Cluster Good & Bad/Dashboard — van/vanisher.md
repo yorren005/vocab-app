@@ -5,13 +5,6 @@ status: unread
 ---
 # vanisher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disappears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who disappears.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanisher designates a person who disappears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disappears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who disappears.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanisher designates a person who disappears."*

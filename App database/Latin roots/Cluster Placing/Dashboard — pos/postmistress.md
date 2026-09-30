@@ -5,15 +5,6 @@ status: unread
 ---
 # postmistress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman postmaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman postmaster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"While the postmistress searched a pigeonhole he gazed at the recruiting poster with soldiers of all arms on parade: and held the tip of his baton against his nostrils, smelling freshprinted rag paper."*
-> - 📜 **James Joyce (*Ulysses*):** *"The postmistress handed him back through the grill his card with a letter."*
-> - 📜 **James Joyce (*Ulysses*):** *"Healy, Mr Justice Fitzgibbon, John Howard Parnell, the reverend Tinned Salmon, Professor Joly, Mrs Breen, Denis Breen, Theodore Purefoy, Mina Purefoy, the Westland Row postmistress, C."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman postmaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman postmaster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"While the postmistress searched a pigeonhole he gazed at the recruiting poster with soldiers of all arms on parade: and held the tip of his baton against his nostrils, smelling freshprinted rag paper."*
+> - 📜 **James Joyce (*Ulysses*):** *"The postmistress handed him back through the grill his card with a letter."*
+> - 📜 **James Joyce (*Ulysses*):** *"Healy, Mr Justice Fitzgibbon, John Howard Parnell, the reverend Tinned Salmon, Professor Joly, Mrs Breen, Denis Breen, Theodore Purefoy, Mina Purefoy, the Westland Row postmistress, C."*

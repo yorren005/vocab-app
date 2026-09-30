@@ -5,13 +5,6 @@ status: unread
 ---
 # epidemiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medical science that deals with the incidence, distribution, and control of disease in a population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of the factors controlling the presence or absence of a disease or pathogen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidemiology designates a branch of medical science that deals with the incidence, distribution, and control of disease in a population."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medical science that deals with the incidence, distribution, and control of disease in a population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of the factors controlling the presence or absence of a disease or pathogen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidemiology designates a branch of medical science that deals with the incidence, distribution, and control of disease in a population."*

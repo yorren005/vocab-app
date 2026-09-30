@@ -5,15 +5,6 @@ status: unread
 ---
 # lucrative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a sizeable profit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a sizeable profit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not lucrative to a young practitioner, with very little influence in London; and although he was, night and day, at the service of numbers of poor people and did wonders of gentleness and skill for them, he gained very little by it in money."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the mean time he had no money or prospects of money; and his practice was not getting more lucrative."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"One of our most lucrative means of laying out money is in the shape of loans, where the security is unimpeachable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a sizeable profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a sizeable profit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was not lucrative to a young practitioner, with very little influence in London; and although he was, night and day, at the service of numbers of poor people and did wonders of gentleness and skill for them, he gained very little by it in money."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the mean time he had no money or prospects of money; and his practice was not getting more lucrative."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"One of our most lucrative means of laying out money is in the shape of loans, where the security is unimpeachable."*

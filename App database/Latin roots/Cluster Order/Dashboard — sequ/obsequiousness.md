@@ -5,14 +5,6 @@ status: unread
 ---
 # obsequiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abject or cringing submissiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject or cringing submissiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What, I asked in my own mind, can cause this obsequiousness on the part of Miss Toady; has Briefless got a county court, or has his wife had a fortune left her?"*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Like a weakly constitution, it required keeping up, and his lordship could not be said to neglect it; for he seemed to find his principal employment in administering continuous doses of obsequiousness to his own pride."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abject or cringing submissiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject or cringing submissiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What, I asked in my own mind, can cause this obsequiousness on the part of Miss Toady; has Briefless got a county court, or has his wife had a fortune left her?"*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Like a weakly constitution, it required keeping up, and his lordship could not be said to neglect it; for he seemed to find his principal employment in administering continuous doses of obsequiousness to his own pride."*

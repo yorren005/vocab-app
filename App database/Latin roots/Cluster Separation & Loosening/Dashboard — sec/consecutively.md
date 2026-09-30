@@ -5,15 +5,6 @@ status: unread
 ---
 # consecutively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a consecutive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a consecutive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Until June 10, 1907, she had never xii:21 read this book throughout consecutively in order to elu- cidate her idealism."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It finished most of them." "Will you sit down and tell me consecutively what it's all about before I bash you?" asked Murray, petulantly."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"What they say, cannot be heard consecutively; but Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a consecutive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a consecutive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Until June 10, 1907, she had never xii:21 read this book throughout consecutively in order to elu- cidate her idealism."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It finished most of them." "Will you sit down and tell me consecutively what it's all about before I bash you?" asked Murray, petulantly."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"What they say, cannot be heard consecutively; but Mr."*

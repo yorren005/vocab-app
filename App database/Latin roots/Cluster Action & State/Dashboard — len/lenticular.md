@@ -5,15 +5,6 @@ status: unread
 ---
 # lenticular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convex on both sides; shaped like a lentil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convex on both sides; shaped like a lentil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Fore and aft rose two cages of medium height with inclined sides, and partly closed by thick lenticular glasses; one destined for the steersman who directed the _Nautilus_, the other containing a brilliant lantern to give light on the road."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I examined the fittings of the apparatus, the strength of which was increased a hundredfold by lenticular rings, placed similar to those in a lighthouse, and which projected their brilliance in a horizontal plane."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Four light-ports with lenticular glasses, let in a groove in the partition of the cabin, allowed the man at the wheel to see in all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convex on both sides; shaped like a lentil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convex on both sides; shaped like a lentil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Fore and aft rose two cages of medium height with inclined sides, and partly closed by thick lenticular glasses; one destined for the steersman who directed the _Nautilus_, the other containing a brilliant lantern to give light on the road."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I examined the fittings of the apparatus, the strength of which was increased a hundredfold by lenticular rings, placed similar to those in a lighthouse, and which projected their brilliance in a horizontal plane."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Four light-ports with lenticular glasses, let in a groove in the partition of the cabin, allowed the man at the wheel to see in all directions."*

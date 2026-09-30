@@ -5,13 +5,6 @@ status: unread
 ---
 # conceptualism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptualism designates the doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptualism designates the doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application."*

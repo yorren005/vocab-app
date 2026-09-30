@@ -5,15 +5,6 @@ status: unread
 ---
 # unsophisticated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not wise in the ways of the world; ; - kate o'brien.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking complexity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her unsophisticated open-air existence required no varnish of conventionality to make it palatable to him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Deep was my gratification to find I had really a place in their unsophisticated hearts: I promised them that never a week should pass in future that I did not visit them, and give them an hour’s teaching in their school."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not wise in the ways of the world; ; - kate o'brien.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking complexity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her unsophisticated open-air existence required no varnish of conventionality to make it palatable to him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Deep was my gratification to find I had really a place in their unsophisticated hearts: I promised them that never a week should pass in future that I did not visit them, and give them an hour’s teaching in their school."*

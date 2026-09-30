@@ -5,13 +5,6 @@ status: unread
 ---
 # oidioid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species (_Sphærotheca pannosa_, Lev.), in its oidioid or conidiiferous form, was for some time known under the name of _Oidium leucoconium_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species (_Sphærotheca pannosa_, Lev.), in its oidioid or conidiiferous form, was for some time known under the name of _Oidium leucoconium_."*

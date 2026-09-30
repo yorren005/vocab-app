@@ -5,14 +5,6 @@ status: unread
 ---
 # seneschal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief steward or butler of a great household.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief steward or butler of a great household.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"The moaning wind went wandering round The weeping prison-wall: Till like a wheel of turning-steel We felt the minutes crawl: O moaning wind! what had we done To have such a seneschal?"*
-> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"The moaning wind went wandering round The weeping prison wall: Till like a wheel of turning steel We felt the minutes crawl: O moaning wind! what had we done To have such a seneschal?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief steward or butler of a great household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief steward or butler of a great household.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"The moaning wind went wandering round The weeping prison-wall: Till like a wheel of turning-steel We felt the minutes crawl: O moaning wind! what had we done To have such a seneschal?"*
+> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"The moaning wind went wandering round The weeping prison wall: Till like a wheel of turning steel We felt the minutes crawl: O moaning wind! what had we done To have such a seneschal?"*

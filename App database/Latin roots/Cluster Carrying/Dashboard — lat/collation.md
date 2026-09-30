@@ -5,15 +5,6 @@ status: unread
 ---
 # collation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light informal meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assembling in proper numerical or logical sequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He appeared to have dressed at his leisure in the intervals of a light collation, and his dressing-case, brushes, and so forth, all of quite an elegant kind, lay about."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"The present collation omits readings incorrectly given by Dyce."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He had prepared a collation for me in the Barnwell parlour, and he too ordered his shopman to “come out of the gangway” as my sacred person passed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light informal meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assembling in proper numerical or logical sequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He appeared to have dressed at his leisure in the intervals of a light collation, and his dressing-case, brushes, and so forth, all of quite an elegant kind, lay about."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"The present collation omits readings incorrectly given by Dyce."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He had prepared a collation for me in the Barnwell parlour, and he too ordered his shopman to “come out of the gangway” as my sacred person passed."*

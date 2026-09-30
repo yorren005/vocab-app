@@ -5,15 +5,6 @@ status: unread
 ---
 # glossy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine printed on good quality paper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph that is printed on smooth shiny paper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had an entirely new suit of glossy clothes on, a shining hat, lilac-kid gloves, a neckerchief of a variety of colours, a large hot-house flower in his button-hole, and a thick gold ring on his little finger."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Here is a nut,” said he, catching one down from an upper bough, “to exemplify: a beautiful glossy nut, which, blessed with original strength, has outlived all the storms of autumn."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember, at his waist, dangled dirty tufts of hair that, far back in the journey, after a shower of rain, were wont to show glossy black."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine printed on good quality paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph that is printed on smooth shiny paper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He had an entirely new suit of glossy clothes on, a shining hat, lilac-kid gloves, a neckerchief of a variety of colours, a large hot-house flower in his button-hole, and a thick gold ring on his little finger."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Here is a nut,” said he, catching one down from an upper bough, “to exemplify: a beautiful glossy nut, which, blessed with original strength, has outlived all the storms of autumn."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember, at his waist, dangled dirty tufts of hair that, far back in the journey, after a shower of rain, were wont to show glossy black."*

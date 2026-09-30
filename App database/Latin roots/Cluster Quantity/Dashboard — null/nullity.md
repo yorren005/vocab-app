@@ -5,14 +5,6 @@ status: unread
 ---
 # nullity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of nonexistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is null (especially an enactment that has no legal validity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our business is become a nullity, Yea, and a woeful and a piteous nullity."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is admitted that it must concern the foreign nation party to the contract, or it would be a mere nullity, res inter alias acta. 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of nonexistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is null (especially an enactment that has no legal validity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our business is become a nullity, Yea, and a woeful and a piteous nullity."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is admitted that it must concern the foreign nation party to the contract, or it would be a mere nullity, res inter alias acta. 2."*

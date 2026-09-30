@@ -5,13 +5,6 @@ status: unread
 ---
 # hereditarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that heredity is more important than environment in determining intellectual growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical doctrine that heredity is more important than environment in determining intellectual growth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hereditarianism designates the philosophical doctrine that heredity is more important than environment in determining intellectual growth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that heredity is more important than environment in determining intellectual growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical doctrine that heredity is more important than environment in determining intellectual growth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hereditarianism designates the philosophical doctrine that heredity is more important than environment in determining intellectual growth."*

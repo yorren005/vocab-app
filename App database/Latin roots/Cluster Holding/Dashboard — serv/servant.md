@@ -5,15 +5,6 @@ status: unread
 ---
 # servant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person working in the service of another (especially in the household).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subordinate position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I chide the world-without-end hour, Whilst I (my sovereign) watch the clock for you, Nor think the bitterness of absence sour, When you have bid your servant once adieu."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"RYNALDO, servant to the Countess of Rossillon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clown, servant to the Countess of Rossillon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person working in the service of another (especially in the household).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subordinate position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I chide the world-without-end hour, Whilst I (my sovereign) watch the clock for you, Nor think the bitterness of absence sour, When you have bid your servant once adieu."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"RYNALDO, servant to the Countess of Rossillon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clown, servant to the Countess of Rossillon."*

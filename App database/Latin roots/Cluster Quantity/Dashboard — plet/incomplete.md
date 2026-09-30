@@ -5,15 +5,6 @@ status: unread
 ---
 # incomplete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not complete or total; not completed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet finished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Notwithstanding my inability to settle to anything,—which I hope arose out of the restless and incomplete tenure on which I held my means,—I had a taste for reading, and read regularly so many hours a day."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I felt that we were incomplete before, and here is the explanation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not complete or total; not completed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet finished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Notwithstanding my inability to settle to anything,—which I hope arose out of the restless and incomplete tenure on which I held my means,—I had a taste for reading, and read regularly so many hours a day."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I felt that we were incomplete before, and here is the explanation."*

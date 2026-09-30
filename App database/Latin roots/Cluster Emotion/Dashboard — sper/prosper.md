@@ -5,15 +5,6 @@ status: unread
 ---
 # prosper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God and Saint George, Talbot and England’s right, Prosper our colours in this dangerous fight! [_Exeunt._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus Suffolk hath prevail’d; and thus he goes, As did the youthful Paris once to Greece, With hope to find the like event in love, But prosper better than the Troyan did."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God and Saint George, Talbot and England’s right, Prosper our colours in this dangerous fight! [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus Suffolk hath prevail’d; and thus he goes, As did the youthful Paris once to Greece, With hope to find the like event in love, But prosper better than the Troyan did."*

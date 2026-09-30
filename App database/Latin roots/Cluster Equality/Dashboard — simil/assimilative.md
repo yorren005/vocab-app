@@ -5,13 +5,6 @@ status: unread
 ---
 # assimilative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of mentally absorbing ; ,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"How much of this country would now be worth preserving if the North had been covered by Africans as is South Carolina to-day, in view of their non-assimilative character?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of mentally absorbing ; ,.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"How much of this country would now be worth preserving if the North had been covered by Africans as is South Carolina to-day, in view of their non-assimilative character?"*

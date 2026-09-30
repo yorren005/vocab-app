@@ -5,13 +5,6 @@ status: unread
 ---
 # geophysicist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geophysicist designates a branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geophysicist designates a branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity."*

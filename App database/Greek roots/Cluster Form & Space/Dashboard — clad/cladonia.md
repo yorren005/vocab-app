@@ -5,13 +5,6 @@ status: unread
 ---
 # cladonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladonia designates type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladonia designates type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia."*

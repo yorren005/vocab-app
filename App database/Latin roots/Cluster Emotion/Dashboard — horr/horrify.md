@@ -5,15 +5,6 @@ status: unread
 ---
 # horrify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor did wild rumors of all sorts fail to exaggerate, and still the more horrify the true histories of these deadly encounters."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"An accident, I presume?” “By no means.” “What! a murderous attack?” “Very murderous indeed.” “You horrify me.” I sponged the wound, cleaned it, dressed it, and finally covered it over with cotton wadding and carbolised bandages."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is my belief, Watson, founded upon my experience, that the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside.” “You horrify me!” “But the reason is very obvious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor did wild rumors of all sorts fail to exaggerate, and still the more horrify the true histories of these deadly encounters."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"An accident, I presume?” “By no means.” “What! a murderous attack?” “Very murderous indeed.” “You horrify me.” I sponged the wound, cleaned it, dressed it, and finally covered it over with cotton wadding and carbolised bandages."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is my belief, Watson, founded upon my experience, that the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside.” “You horrify me!” “But the reason is very obvious."*

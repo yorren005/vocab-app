@@ -5,15 +5,6 @@ status: unread
 ---
 # overpass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bridge formed by the upper level of a crossing of two highways at different levels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bridge formed by the upper level of a crossing of two highways at different levels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In prison hast thou spent a pilgrimage, And like a hermit overpass’d thy days."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Why did his misjudging zeal and accursed precipitation overpass that limit?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bridge formed by the upper level of a crossing of two highways at different levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bridge formed by the upper level of a crossing of two highways at different levels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In prison hast thou spent a pilgrimage, And like a hermit overpass’d thy days."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Why did his misjudging zeal and accursed precipitation overpass that limit?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*

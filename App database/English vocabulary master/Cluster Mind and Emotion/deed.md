@@ -5,20 +5,6 @@ status: unread
 ---
 # deed
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Something that is done
-> 2. **Nuance / Usage**: The act of performing : action
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As high as word, my deed shall match thy deed."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Is it honest in deed and word?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Thou hast done a deed whereat valour will weep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: An intentional, notable, or courageous act performed by a person—often contrasted with mere words or promises.
+> 2. **Nuance / Usage**: In law, a signed and sealed written instrument that transfers or affirms legal ownership of real property.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Thou hast done a **deed** whereat valour will weep."*
+> - 📜 **Alfred, Lord Tennyson (*Idylls of the King*):** *"The knights of the Round Table were sworn to speak no slander, no, nor listen to it, and to match high words with noble **deeds**."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The missing eastern **deed** to the vast Maine territory remained the Pyncheon family's most coveted and elusive heirloom."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # multitudinousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large number (especially of people).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large number (especially of people).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multitudinousness designates a very large number (especially of people)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large number (especially of people).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large number (especially of people).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multitudinousness designates a very large number (especially of people)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # coraciiformes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coraciiformes designates rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coraciiformes designates rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies."*

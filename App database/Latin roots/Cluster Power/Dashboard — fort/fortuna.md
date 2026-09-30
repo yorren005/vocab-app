@@ -5,15 +5,6 @@ status: unread
 ---
 # fortuna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) the goddess of fortune and good luck; counterpart of greek tyche.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) the goddess of fortune and good luck; counterpart of greek tyche.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. _Si fortuna me tormenta, spero me contenta._ [_Exeunt all but Prince John and the Lord Chief Justice._] LANCASTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we will put it, as they say, to _fortuna de la guerra_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plutarch, _de fortuna Romanorum_, 11, 324 B, _ho Romaion megas daimon ... te polei synebesas kai synauxetheis, kthe_--the tract is a poor and rhetorical one, and the phrase may be merely a synonym for "luck." See also Celsus (Orig. _c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) the goddess of fortune and good luck; counterpart of greek tyche.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) the goddess of fortune and good luck; counterpart of greek tyche.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. _Si fortuna me tormenta, spero me contenta._ [_Exeunt all but Prince John and the Lord Chief Justice._] LANCASTER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we will put it, as they say, to _fortuna de la guerra_."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plutarch, _de fortuna Romanorum_, 11, 324 B, _ho Romaion megas daimon ... te polei synebesas kai synauxetheis, kthe_--the tract is a poor and rhetorical one, and the phrase may be merely a synonym for "luck." See also Celsus (Orig. _c."*

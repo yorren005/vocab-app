@@ -5,13 +5,6 @@ status: unread
 ---
 # aceraceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of trees and shrubs of order sapindales including the maples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of trees and shrubs of order sapindales including the maples.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aceraceae designates a family of trees and shrubs of order sapindales including the maples."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of trees and shrubs of order sapindales including the maples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of trees and shrubs of order sapindales including the maples.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aceraceae designates a family of trees and shrubs of order sapindales including the maples."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # saltcellar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small container for holding salt at the dining table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small container for holding salt at the dining table.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a caster of state."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a castor of state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small container for holding salt at the dining table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small container for holding salt at the dining table.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a caster of state."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a castor of state."*

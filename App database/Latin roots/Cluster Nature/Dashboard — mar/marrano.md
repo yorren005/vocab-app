@@ -5,13 +5,6 @@ status: unread
 ---
 # marrano
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medieval spain and portugal) a disparaging term for a jew who converted to christianity in order to avoid persecution but continued to practice their religion secretly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medieval spain and portugal) a disparaging term for a jew who converted to christianity in order to avoid persecution but continued to practice their religion secretly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marrano designates (medieval spain and portugal) a disparaging term for a jew who converted to christianity in order to avoid persecution but continued to practice their religion secretly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medieval spain and portugal) a disparaging term for a jew who converted to christianity in order to avoid persecution but continued to practice their religion secretly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medieval spain and portugal) a disparaging term for a jew who converted to christianity in order to avoid persecution but continued to practice their religion secretly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marrano designates (medieval spain and portugal) a disparaging term for a jew who converted to christianity in order to avoid persecution but continued to practice their religion secretly."*

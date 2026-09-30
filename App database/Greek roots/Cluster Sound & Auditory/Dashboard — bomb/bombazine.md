@@ -5,14 +5,6 @@ status: unread
 ---
 # bombazine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A twilled fabric used for dresses; the warp is silk and the weft is worsted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A twilled fabric used for dresses; the warp is silk and the weft is worsted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Here comes another with a sou’-wester and a bombazine cloak."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Here comes another with a sou’-wester and a bombazine cloak."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twilled fabric used for dresses; the warp is silk and the weft is worsted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A twilled fabric used for dresses; the warp is silk and the weft is worsted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Here comes another with a sou’-wester and a bombazine cloak."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Here comes another with a sou’-wester and a bombazine cloak."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # memorization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning so as to be able to remember verbatim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning so as to be able to remember verbatim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning so as to be able to remember verbatim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning so as to be able to remember verbatim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*

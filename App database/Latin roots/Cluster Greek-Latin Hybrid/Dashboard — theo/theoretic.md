@@ -5,15 +5,6 @@ status: unread
 ---
 # theoretic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned primarily with theories or hypotheses rather than practical considerations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned primarily with theories or hypotheses rather than practical considerations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Pull the string, Ruling Passion the picture will show him, What pity, in rearing so beauteous a system, One trifling particular, Truth, should have miss’d him; For, spite of his fine theoretic positions, Mankind is a science defies definitions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And now within all the automatic succession of theoretic phrases—distinct and inmost as the shiver and the ache of oncoming fever when we are discussing abstract pain, was the forecast of disgrace in the presence of his neighbors and of his own wife."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was simply a man whose desires had been stronger than his theoretic beliefs, and who had gradually explained the gratification of his desires into satisfactory agreement with those beliefs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned primarily with theories or hypotheses rather than practical considerations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned primarily with theories or hypotheses rather than practical considerations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Pull the string, Ruling Passion the picture will show him, What pity, in rearing so beauteous a system, One trifling particular, Truth, should have miss’d him; For, spite of his fine theoretic positions, Mankind is a science defies definitions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And now within all the automatic succession of theoretic phrases—distinct and inmost as the shiver and the ache of oncoming fever when we are discussing abstract pain, was the forecast of disgrace in the presence of his neighbors and of his own wife."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was simply a man whose desires had been stronger than his theoretic beliefs, and who had gradually explained the gratification of his desires into satisfactory agreement with those beliefs."*

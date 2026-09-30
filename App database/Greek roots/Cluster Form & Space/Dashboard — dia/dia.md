@@ -5,15 +5,6 @@ status: unread
 ---
 # dia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense Intelligence Agency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There you must stay, or you lose your billet.’ “‘And the work?’ “‘Is to copy out the _Encyclopædia Britannica_."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It seemed altogether past belief that anyone could make such a will, or that they would pay such a sum for doing anything so simple as copying out the _Encyclopædia Britannica_."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I drove home to my house in Kensington I thought over it all, from the extraordinary story of the red-headed copier of the _Encyclopædia_ down to the visit to Saxe-Coburg Square, and the ominous words with which he had parted from me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense Intelligence Agency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There you must stay, or you lose your billet.’ “‘And the work?’ “‘Is to copy out the _Encyclopædia Britannica_."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It seemed altogether past belief that anyone could make such a will, or that they would pay such a sum for doing anything so simple as copying out the _Encyclopædia Britannica_."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I drove home to my house in Kensington I thought over it all, from the extraordinary story of the red-headed copier of the _Encyclopædia_ down to the visit to Saxe-Coburg Square, and the ominous words with which he had parted from me."*

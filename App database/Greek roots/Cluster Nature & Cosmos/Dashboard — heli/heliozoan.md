@@ -5,13 +5,6 @@ status: unread
 ---
 # heliozoan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa with spherical bodies and stiff radiating pseudopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa with spherical bodies and stiff radiating pseudopods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliozoan designates protozoa with spherical bodies and stiff radiating pseudopods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa with spherical bodies and stiff radiating pseudopods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa with spherical bodies and stiff radiating pseudopods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliozoan designates protozoa with spherical bodies and stiff radiating pseudopods."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # helicopter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aircraft whose lift is derived from the aerodynamic forces acting on one or more powered rotors turning about substantially vertical axes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To travel by helicopter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicopter designates an aircraft whose lift is derived from the aerodynamic forces acting on one or more powered rotors turning about substantially vertical axes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aircraft whose lift is derived from the aerodynamic forces acting on one or more powered rotors turning about substantially vertical axes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To travel by helicopter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicopter designates an aircraft whose lift is derived from the aerodynamic forces acting on one or more powered rotors turning about substantially vertical axes."*

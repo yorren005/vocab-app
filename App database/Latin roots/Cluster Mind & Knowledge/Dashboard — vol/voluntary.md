@@ -5,15 +5,6 @@ status: unread
 ---
 # voluntary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a person who freely enlists for service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is, the old Duke is banished by his younger brother the new Duke, and three or four loving lords have put themselves into voluntary exile with him, whose lands and revenues enrich the new Duke; therefore he gives them good leave to wander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third is that thou wilt be a voluntary mute to my design."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, my good friend, thy voluntary oath Lives in this bosom, dearly cherished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a person who freely enlists for service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is, the old Duke is banished by his younger brother the new Duke, and three or four loving lords have put themselves into voluntary exile with him, whose lands and revenues enrich the new Duke; therefore he gives them good leave to wander."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third is that thou wilt be a voluntary mute to my design."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, my good friend, thy voluntary oath Lives in this bosom, dearly cherished."*

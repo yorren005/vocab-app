@@ -5,15 +5,6 @@ status: unread
 ---
 # misinform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give false or misleading information to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You have apparently been misinformed."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But if I am not misinformed, the same meaning would not be given to it in any part of New England."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give false or misleading information to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You have apparently been misinformed."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But if I am not misinformed, the same meaning would not be given to it in any part of New England."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # portuguese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The romance language spoken in portugal and brazil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of portugal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He afterwards returned, bringing with him a Portuguese wife, and settled as shepherd on the home-farm of Ayton Castle."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"McCall Theal, vol. iii. (1899) pp. 130 _sq._ The name Benametapa (more correctly _monomotapa_) appears to have been the regular title of the paramount chief, which the Portuguese took to be the name of the country."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up, spine, and meet it! (_Leaps to his feet._) PORTUGUESE SAILOR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The romance language spoken in portugal and brazil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of portugal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He afterwards returned, bringing with him a Portuguese wife, and settled as shepherd on the home-farm of Ayton Castle."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"McCall Theal, vol. iii. (1899) pp. 130 _sq._ The name Benametapa (more correctly _monomotapa_) appears to have been the regular title of the paramount chief, which the Portuguese took to be the name of the country."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up, spine, and meet it! (_Leaps to his feet._) PORTUGUESE SAILOR."*

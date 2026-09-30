@@ -5,13 +5,6 @@ status: unread
 ---
 # cosmographist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist knowledgeable about cosmography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist knowledgeable about cosmography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmographist designates a scientist knowledgeable about cosmography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist knowledgeable about cosmography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist knowledgeable about cosmography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmographist designates a scientist knowledgeable about cosmography."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # verbascum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of coarse herbs and subshrubs mostly with woolly leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of coarse herbs and subshrubs mostly with woolly leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Shepherdesses and children passed sprigs of mullein (_verbascum_) and nuts across the flames; the nuts were supposed to cure toothache, and the mullein to protect the cattle from sickness and sorcery."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Shepherdesses and children passed sprigs of mullein (_verbascum_) and nuts across the flames; the nuts were supposed to cure toothache, and the mullein to protect the cattle from sickness and sorcery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of coarse herbs and subshrubs mostly with woolly leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of coarse herbs and subshrubs mostly with woolly leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Shepherdesses and children passed sprigs of mullein (_verbascum_) and nuts across the flames; the nuts were supposed to cure toothache, and the mullein to protect the cattle from sickness and sorcery."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Shepherdesses and children passed sprigs of mullein (_verbascum_) and nuts across the flames; the nuts were supposed to cure toothache, and the mullein to protect the cattle from sickness and sorcery."*

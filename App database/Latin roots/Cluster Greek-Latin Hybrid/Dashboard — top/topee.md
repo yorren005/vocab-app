@@ -5,13 +5,6 @@ status: unread
 ---
 # topee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight hat worn in tropical countries for protection from the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight hat worn in tropical countries for protection from the sun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topee designates a lightweight hat worn in tropical countries for protection from the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight hat worn in tropical countries for protection from the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight hat worn in tropical countries for protection from the sun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topee designates a lightweight hat worn in tropical countries for protection from the sun."*

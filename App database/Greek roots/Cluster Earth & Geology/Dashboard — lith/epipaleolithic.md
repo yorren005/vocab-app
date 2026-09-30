@@ -5,13 +5,6 @@ status: unread
 ---
 # epipaleolithic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Middle part of the stone age beginning about 15,000 years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Middle part of the stone age beginning about 15,000 years ago.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epipaleolithic designates middle part of the stone age beginning about 15,000 years ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Middle part of the stone age beginning about 15,000 years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Middle part of the stone age beginning about 15,000 years ago.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epipaleolithic designates middle part of the stone age beginning about 15,000 years ago."*

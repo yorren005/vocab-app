@@ -5,15 +5,6 @@ status: unread
 ---
 # uncurl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of a curled position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move out of a curled position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What signifies my deadly-standing eye, My silence and my cloudy melancholy, My fleece of woolly hair that now uncurls Even as an adder when she doth unroll To do some fatal execution?"*
-> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Would you mind if I wear you to the party just this once?" The poor little caterpillar uncurled himself."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It slept as a child sleeps, lips apart and chubby fingers uncurled, and happy...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of a curled position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move out of a curled position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What signifies my deadly-standing eye, My silence and my cloudy melancholy, My fleece of woolly hair that now uncurls Even as an adder when she doth unroll To do some fatal execution?"*
+> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Would you mind if I wear you to the party just this once?" The poor little caterpillar uncurled himself."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It slept as a child sleeps, lips apart and chubby fingers uncurled, and happy...."*

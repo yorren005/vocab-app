@@ -5,13 +5,6 @@ status: unread
 ---
 # umbrian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct italic language of ancient southern italy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct italic language of ancient southern italy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrian designates an extinct italic language of ancient southern italy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct italic language of ancient southern italy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct italic language of ancient southern italy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrian designates an extinct italic language of ancient southern italy."*

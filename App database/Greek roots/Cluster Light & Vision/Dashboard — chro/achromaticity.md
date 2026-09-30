@@ -5,13 +5,6 @@ status: unread
 ---
 # achromaticity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual property of being without chromatic color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual property of being without chromatic color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromaticity designates the visual property of being without chromatic color."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual property of being without chromatic color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual property of being without chromatic color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromaticity designates the visual property of being without chromatic color."*

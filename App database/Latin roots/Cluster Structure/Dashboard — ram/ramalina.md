@@ -5,13 +5,6 @@ status: unread
 ---
 # ramalina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby lichens of the family usneaceae having a flattened thallus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby lichens of the family usneaceae having a flattened thallus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramalina designates shrubby lichens of the family usneaceae having a flattened thallus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby lichens of the family usneaceae having a flattened thallus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby lichens of the family usneaceae having a flattened thallus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramalina designates shrubby lichens of the family usneaceae having a flattened thallus."*

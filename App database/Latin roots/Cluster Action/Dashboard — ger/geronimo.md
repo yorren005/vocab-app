@@ -5,13 +5,6 @@ status: unread
 ---
 # geronimo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apache chieftain who raided the white settlers in the southwest as resistance to being confined to a reservation (1829-1909).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apache chieftain who raided the white settlers in the southwest as resistance to being confined to a reservation (1829-1909).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For details as to the different modes of administering the _maraké_ see _ibid._ pp. 228-235. [153] Father Geronimo Boscana, "Chinigchinich," in _Life in California by an American_ [A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apache chieftain who raided the white settlers in the southwest as resistance to being confined to a reservation (1829-1909).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apache chieftain who raided the white settlers in the southwest as resistance to being confined to a reservation (1829-1909).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For details as to the different modes of administering the _maraké_ see _ibid._ pp. 228-235. [153] Father Geronimo Boscana, "Chinigchinich," in _Life in California by an American_ [A."*

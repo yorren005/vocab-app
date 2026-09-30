@@ -5,15 +5,6 @@ status: unread
 ---
 # statue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculpture representing a human or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sculpture representing a human or animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shows a body rather than a life, A statue than a breather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll set thy statue in some holy place, And have thee reverenced like a blessed saint."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Erect his statue and worship it, And make my image but an alehouse sign."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculpture representing a human or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sculpture representing a human or animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shows a body rather than a life, A statue than a breather."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll set thy statue in some holy place, And have thee reverenced like a blessed saint."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Erect his statue and worship it, And make my image but an alehouse sign."*

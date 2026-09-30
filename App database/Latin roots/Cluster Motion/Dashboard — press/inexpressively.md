@@ -5,13 +5,6 @@ status: unread
 ---
 # inexpressively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without expression; in an inexpressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without expression; in an inexpressive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So inexpressively that they cannot at first understand him; it is his old housekeeper who makes out what he wants and brings in a slate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without expression; in an inexpressive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without expression; in an inexpressive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So inexpressively that they cannot at first understand him; it is his old housekeeper who makes out what he wants and brings in a slate."*

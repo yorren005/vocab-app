@@ -5,13 +5,6 @@ status: unread
 ---
 # artiodactyla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyla designates an order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyla designates an order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes."*

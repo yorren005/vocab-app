@@ -5,13 +5,6 @@ status: unread
 ---
 # entropy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degradation of the matter and energy in the universe to an ultimate state of inert uniformity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropy designates a measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degradation of the matter and energy in the universe to an ultimate state of inert uniformity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropy designates a measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system."*

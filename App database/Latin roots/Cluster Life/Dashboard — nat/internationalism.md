@@ -5,13 +5,6 @@ status: unread
 ---
 # internationalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that nations should cooperate because their common interests are more important than their differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being international in scope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalism designates the doctrine that nations should cooperate because their common interests are more important than their differences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that nations should cooperate because their common interests are more important than their differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being international in scope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalism designates the doctrine that nations should cooperate because their common interests are more important than their differences."*

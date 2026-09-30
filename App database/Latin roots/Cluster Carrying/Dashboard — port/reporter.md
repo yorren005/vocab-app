@@ -5,15 +5,6 @@ status: unread
 ---
 # reporter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who investigates and reports or edits news stories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who investigates and reports or edits news stories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There she appeared indeed, or my reporter devised well for her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They called Jake Oppenheimer the “Human Tiger.” Some cub reporter coined the phrase that will long outlive the man to whom it was applied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who investigates and reports or edits news stories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who investigates and reports or edits news stories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There she appeared indeed, or my reporter devised well for her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They called Jake Oppenheimer the “Human Tiger.” Some cub reporter coined the phrase that will long outlive the man to whom it was applied."*

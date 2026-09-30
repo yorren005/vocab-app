@@ -5,13 +5,6 @@ status: unread
 ---
 # monoclinic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three unequal crystal axes with one oblique intersection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three unequal crystal axes with one oblique intersection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinic designates having three unequal crystal axes with one oblique intersection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three unequal crystal axes with one oblique intersection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three unequal crystal axes with one oblique intersection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinic designates having three unequal crystal axes with one oblique intersection."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # logistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to logistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to logistics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Moving from one tunnel and gallery hangar to another, the inspection team had checked the readiness of command and control, function systems, weapons readiness, logistic support and all that bore on their mission."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the studies he critiqued was 'Space Logistics, Operations, Maintenance and Rescue' (Project SLOMAR)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to logistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to logistics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Moving from one tunnel and gallery hangar to another, the inspection team had checked the readiness of command and control, function systems, weapons readiness, logistic support and all that bore on their mission."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the studies he critiqued was 'Space Logistics, Operations, Maintenance and Rescue' (Project SLOMAR)."*

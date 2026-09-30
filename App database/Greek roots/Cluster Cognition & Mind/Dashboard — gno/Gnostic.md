@@ -5,15 +5,6 @@ status: unread
 ---
 # gnostic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of gnosticism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gnosticism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Basilides the Gnostic (the father of Isidore) is credited with describing Man as a sort of Wooden Horse with a whole army of different spirits in him (Clem."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A very great deal of Clement's writing is devoted to building up this Gnostic, to outlining his ideal character."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This, then, is the work (_energeia_) of the perfected Gnostic--to hold communion with God through the Great High Christ being made like the Lord as far as may be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of gnosticism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gnosticism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Basilides the Gnostic (the father of Isidore) is credited with describing Man as a sort of Wooden Horse with a whole army of different spirits in him (Clem."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A very great deal of Clement's writing is devoted to building up this Gnostic, to outlining his ideal character."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This, then, is the work (_energeia_) of the perfected Gnostic--to hold communion with God through the Great High Christ being made like the Lord as far as may be."*

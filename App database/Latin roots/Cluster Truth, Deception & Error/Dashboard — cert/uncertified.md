@@ -5,13 +5,6 @@ status: unread
 ---
 # uncertified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking requisite official documentation or endorsement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking requisite official documentation or endorsement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"I am grown old in confinement, and lay my account with ending my days in jail, as the mercy of the legislature in favour of insolvent debtors is never extended to uncertified bankrupts taken in execution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking requisite official documentation or endorsement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking requisite official documentation or endorsement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"I am grown old in confinement, and lay my account with ending my days in jail, as the mercy of the legislature in favour of insolvent debtors is never extended to uncertified bankrupts taken in execution."*

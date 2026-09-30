@@ -5,15 +5,6 @@ status: unread
 ---
 # effort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnest and conscientious activity intended to do or accomplish something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of physical or mental energy; hard work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had made an effort to keep her children from harmful influences and to implant in them a hate for these things."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The mother had been quite certain that Bruno in his interview with her would make a last, desperate effort to escape having to live with the Knippel boys."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no doubt that the sons of the three most important families of Nolla ought naturally to live and study together, and she knew that every effort would be made to find Salo a suitable room, even if the application came rather late."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnest and conscientious activity intended to do or accomplish something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of physical or mental energy; hard work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had made an effort to keep her children from harmful influences and to implant in them a hate for these things."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The mother had been quite certain that Bruno in his interview with her would make a last, desperate effort to escape having to live with the Knippel boys."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no doubt that the sons of the three most important families of Nolla ought naturally to live and study together, and she knew that every effort would be made to find Salo a suitable room, even if the application came rather late."*

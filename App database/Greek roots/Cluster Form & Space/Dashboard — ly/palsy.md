@@ -5,15 +5,6 @@ status: unread
 ---
 # palsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis —used chiefly in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is marked by uncontrollable tremor and quivering of the body or one or more of its parts —not used technically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palsy, and not fear, provokes me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His hands shook as with palsy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis —used chiefly in combination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is marked by uncontrollable tremor and quivering of the body or one or more of its parts —not used technically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palsy, and not fear, provokes me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His hands shook as with palsy."*

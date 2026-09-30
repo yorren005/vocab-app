@@ -5,13 +5,6 @@ status: unread
 ---
 # undividable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cannot be divided without leaving a remainder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cannot be divided without leaving a remainder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self’s better part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cannot be divided without leaving a remainder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cannot be divided without leaving a remainder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self’s better part."*

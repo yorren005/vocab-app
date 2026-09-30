@@ -5,13 +5,6 @@ status: unread
 ---
 # hemophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary, sex-linked blood defect occurring almost exclusively in males that is marked by delayed clotting of the blood with prolonged or excessive internal or external bleeding after injury or surgery and in severe cases spontaneous bleeding into joints and muscles and that is caused by a deficiency of clotting factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common form of hemophilia that is caused by a deficiency of factor VIII.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemophilia designates a hereditary, sex-linked blood defect occurring almost exclusively in males that is marked by delayed clotting of the blood with prolonged or excessive internal or external bleeding after injury or surgery and in severe cases spontaneous bleeding into joints and muscles and that is caused by a deficiency of clotting factors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary, sex-linked blood defect occurring almost exclusively in males that is marked by delayed clotting of the blood with prolonged or excessive internal or external bleeding after injury or surgery and in severe cases spontaneous bleeding into joints and muscles and that is caused by a deficiency of clotting factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common form of hemophilia that is caused by a deficiency of factor VIII.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemophilia designates a hereditary, sex-linked blood defect occurring almost exclusively in males that is marked by delayed clotting of the blood with prolonged or excessive internal or external bleeding after injury or surgery and in severe cases spontaneous bleeding into joints and muscles and that is caused by a deficiency of clotting factors."*

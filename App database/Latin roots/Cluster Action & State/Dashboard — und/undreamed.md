@@ -5,15 +5,6 @@ status: unread
 ---
 # undreamed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To tack her about was undreamed of; to wear her required all hands and half a watch."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The swift pace that was to come, virtually overnight, was still undreamed of."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This may mean the undreamed of thing of 100 per cent perfect!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To tack her about was undreamed of; to wear her required all hands and half a watch."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The swift pace that was to come, virtually overnight, was still undreamed of."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This may mean the undreamed of thing of 100 per cent perfect!"*

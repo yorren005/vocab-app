@@ -5,13 +5,6 @@ status: unread
 ---
 # microeconomist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in microeconomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economist who specializes in microeconomics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microeconomist designates an economist who specializes in microeconomics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in microeconomics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economist who specializes in microeconomics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microeconomist designates an economist who specializes in microeconomics."*

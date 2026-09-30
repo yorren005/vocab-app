@@ -5,15 +5,6 @@ status: unread
 ---
 # misdemeanor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Did I tell you as I was tried, alone, for misdemeanor, while with Compeyson?” I answered, No."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, with whom speaking evil of dignities was a high misdemeanor."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Marco Polo tells us that in his day persons caught in the streets of Cambaluc (Peking) at unseasonable hours were arrested, and if found guilty of a misdemeanor were beaten with a stick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Did I tell you as I was tried, alone, for misdemeanor, while with Compeyson?” I answered, No."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Garth, with whom speaking evil of dignities was a high misdemeanor."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Marco Polo tells us that in his day persons caught in the streets of Cambaluc (Peking) at unseasonable hours were arrested, and if found guilty of a misdemeanor were beaten with a stick."*

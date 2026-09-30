@@ -5,13 +5,6 @@ status: unread
 ---
 # poriferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of pores or vessels or holes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of pores or vessels or holes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poriferous designates full of pores or vessels or holes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of pores or vessels or holes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of pores or vessels or holes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poriferous designates full of pores or vessels or holes."*

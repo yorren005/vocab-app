@@ -5,13 +5,6 @@ status: unread
 ---
 # baryon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryon designates any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryon designates any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks."*

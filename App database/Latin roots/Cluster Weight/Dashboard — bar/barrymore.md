@@ -5,15 +5,6 @@ status: unread
 ---
 # barrymore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor; son of maurice barrymore and georgiana barrymore (1882-1942).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actress; daughter of maurice barrymore and georgiana barrymore (1879-1959).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"In spite of his considerable wealth he was simple in his personal tastes, and his indoor servants at Baskerville Hall consisted of a married couple named Barrymore, the husband acting as butler and the wife as housekeeper."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"On the fourth of May Sir Charles had declared his intention of starting next day for London, and had ordered Barrymore to prepare his luggage."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"At twelve o’clock Barrymore, finding the hall door still open, became alarmed, and, lighting a lantern, went in search of his master."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor; son of maurice barrymore and georgiana barrymore (1882-1942).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states actress; daughter of maurice barrymore and georgiana barrymore (1879-1959).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"In spite of his considerable wealth he was simple in his personal tastes, and his indoor servants at Baskerville Hall consisted of a married couple named Barrymore, the husband acting as butler and the wife as housekeeper."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"On the fourth of May Sir Charles had declared his intention of starting next day for London, and had ordered Barrymore to prepare his luggage."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"At twelve o’clock Barrymore, finding the hall door still open, became alarmed, and, lighting a lantern, went in search of his master."*

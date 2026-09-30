@@ -5,13 +5,6 @@ status: unread
 ---
 # treponematosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection with or disease caused by treponemata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection with or disease caused by treponemata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponematosis designates infection with or disease caused by treponemata."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection with or disease caused by treponemata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection with or disease caused by treponemata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponematosis designates infection with or disease caused by treponemata."*

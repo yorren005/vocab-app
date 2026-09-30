@@ -5,13 +5,6 @@ status: unread
 ---
 # lustfulness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lustfulness designates a strong sexual desire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong sexual desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lustfulness designates a strong sexual desire."*

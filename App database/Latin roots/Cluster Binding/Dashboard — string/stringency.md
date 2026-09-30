@@ -5,15 +5,6 @@ status: unread
 ---
 # stringency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state occasioned by scarcity of money and a shortage of credit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conscientious attention to rules and details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Then why can’t you think it your duty to submit a little to what James wishes?” said Celia, with a sense of stringency in her argument."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As the object of the royal taboos is to isolate the king from all sources of danger, their general effect is to compel him to live in a state of seclusion, more or less complete, according to the number and stringency of the rules he observes."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But as I shall now show, these taboos often continue to be enforced or even increased in stringency after the death of the animals, in other words, after the hunter or fisher has accomplished his object by making his bag or landing his fish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state occasioned by scarcity of money and a shortage of credit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conscientious attention to rules and details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Then why can’t you think it your duty to submit a little to what James wishes?” said Celia, with a sense of stringency in her argument."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As the object of the royal taboos is to isolate the king from all sources of danger, their general effect is to compel him to live in a state of seclusion, more or less complete, according to the number and stringency of the rules he observes."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But as I shall now show, these taboos often continue to be enforced or even increased in stringency after the death of the animals, in other words, after the hunter or fisher has accomplished his object by making his bag or landing his fish."*

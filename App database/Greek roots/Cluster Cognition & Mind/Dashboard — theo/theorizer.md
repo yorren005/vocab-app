@@ -5,13 +5,6 @@ status: unread
 ---
 # theorizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"While this poison of decay has been eating into our vitals the possibilities of the country in nearly every other industry have reached a plane of development beyond the dreams of the most enthusiastic theorizers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"While this poison of decay has been eating into our vitals the possibilities of the country in nearly every other industry have reached a plane of development beyond the dreams of the most enthusiastic theorizers."*

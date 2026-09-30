@@ -5,15 +5,6 @@ status: unread
 ---
 # confined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place limits on (extent or access).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all is done, have what shall have no end, Mine appetite I never more will grind On newer proof, to try an older friend, A god in love, to whom I am confined."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The queen, my mistress, Confined in all she has, her monument, Of thy intents desires instruction, That she preparedly may frame herself To the way she’s forced to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place limits on (extent or access).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all is done, have what shall have no end, Mine appetite I never more will grind On newer proof, to try an older friend, A god in love, to whom I am confined."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The queen, my mistress, Confined in all she has, her monument, Of thy intents desires instruction, That she preparedly may frame herself To the way she’s forced to."*

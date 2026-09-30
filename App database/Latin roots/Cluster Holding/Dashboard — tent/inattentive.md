@@ -5,15 +5,6 @@ status: unread
 ---
 # inattentive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of attention or care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not showing due care or attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rachael”—I was afraid he addressed himself to her because I appeared inattentive—“amounts at the present hour to from SIX-ty to SEVEN-ty THOUSAND POUNDS!” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When my Lady goes to her boudoir, she sits down thoughtfully by the fire, and inattentive to the Ghost’s Walk, looks at Rosa, writing in an inner room."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was when the rest were all looking away that Boldwood observed her; when they regarded her he turned aside; when they thanked or praised he was silent; when they were inattentive he murmured his thanks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of attention or care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not showing due care or attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rachael”—I was afraid he addressed himself to her because I appeared inattentive—“amounts at the present hour to from SIX-ty to SEVEN-ty THOUSAND POUNDS!” said Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"When my Lady goes to her boudoir, she sits down thoughtfully by the fire, and inattentive to the Ghost’s Walk, looks at Rosa, writing in an inner room."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was when the rest were all looking away that Boldwood observed her; when they regarded her he turned aside; when they thanked or praised he was silent; when they were inattentive he murmured his thanks."*

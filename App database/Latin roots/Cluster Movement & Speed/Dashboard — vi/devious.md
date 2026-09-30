@@ -5,15 +5,6 @@ status: unread
 ---
 # devious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirect in departing from the accepted or proper way; misleading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by insincerity or deceit; evasive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By many devious ways, reeking with offence of many kinds, they come to the little tunnel of a court, and to the gas-lamp (lighted now), and to the iron gate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not the civil engineer, but the railroad promoter determined the devious lines of many a railroad on the level prairies of America."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I sought the Continent, and went devious through all its lands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirect in departing from the accepted or proper way; misleading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by insincerity or deceit; evasive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"By many devious ways, reeking with offence of many kinds, they come to the little tunnel of a court, and to the gas-lamp (lighted now), and to the iron gate."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not the civil engineer, but the railroad promoter determined the devious lines of many a railroad on the level prairies of America."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I sought the Continent, and went devious through all its lands."*

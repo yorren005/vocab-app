@@ -5,15 +5,6 @@ status: unread
 ---
 # nervously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anxiously nervous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With nervous excitement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy sat down at the table and began nervously sharpening the carving-knife on the carving-fork, still looking at me (as I felt quite sure without looking at him) in the same unusual manner."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were more than two full hours yet to elapse before she could come, and in that interval, which seemed a long one, I must confess I was nervously anxious about my altered looks."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Laban, you know her best—you’d better go and ask to speak to her.” “I bain’t fit for any such thing,” said Laban, nervously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anxiously nervous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With nervous excitement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy sat down at the table and began nervously sharpening the carving-knife on the carving-fork, still looking at me (as I felt quite sure without looking at him) in the same unusual manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There were more than two full hours yet to elapse before she could come, and in that interval, which seemed a long one, I must confess I was nervously anxious about my altered looks."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Laban, you know her best—you’d better go and ask to speak to her.” “I bain’t fit for any such thing,” said Laban, nervously."*

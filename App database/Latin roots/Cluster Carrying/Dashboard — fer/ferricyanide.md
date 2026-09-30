@@ -5,13 +5,6 @@ status: unread
 ---
 # ferricyanide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt of ferricyanic acid obtained by oxidation of a ferrocyanide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt of ferricyanic acid obtained by oxidation of a ferrocyanide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferricyanide designates salt of ferricyanic acid obtained by oxidation of a ferrocyanide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt of ferricyanic acid obtained by oxidation of a ferrocyanide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt of ferricyanic acid obtained by oxidation of a ferrocyanide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferricyanide designates salt of ferricyanic acid obtained by oxidation of a ferrocyanide."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # revising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Editing that involves writing something again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revisions in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"For help in revising the proofs I have to thank the Rev."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Disappointing! and now there was no chance of revising his impression, for apparently she had gone away with Laura--who should have known better than to leave Captain Hyde to his own devices."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Editing that involves writing something again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revisions in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"For help in revising the proofs I have to thank the Rev."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Disappointing! and now there was no chance of revising his impression, for apparently she had gone away with Laura--who should have known better than to leave Captain Hyde to his own devices."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*

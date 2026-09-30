@@ -5,15 +5,6 @@ status: unread
 ---
 # unnecessary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not necessary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not necessary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson zed! thou unnecessary letter!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you but mark how this becomes the house? ‘Dear daughter, I confess that I am old; [_Kneeling._] Age is unnecessary: on my knees I beg That you’ll vouchsafe me raiment, bed, and food.’ REGAN."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This exertion proved unnecessary, as she was standing immediately behind the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not necessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not necessary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson zed! thou unnecessary letter!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you but mark how this becomes the house? ‘Dear daughter, I confess that I am old; [_Kneeling._] Age is unnecessary: on my knees I beg That you’ll vouchsafe me raiment, bed, and food.’ REGAN."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This exertion proved unnecessary, as she was standing immediately behind the door."*

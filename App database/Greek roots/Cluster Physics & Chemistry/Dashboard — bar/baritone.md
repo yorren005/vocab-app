@@ -5,15 +5,6 @@ status: unread
 ---
 # baritone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice of medium compass between bass and tenor; also : a person having this voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a family of instruments having a range between tenor and bass; especially : the baritone saxhorn or baritone saxophone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He listened long enough to hear himself characterized by a baritone as a stinking Jew, and by a treble as not her style and a bit too gay but quite the gentleman, before he raised the latch and stepped in."*
-> - 📜 **George Eliot (*Middlemarch*):** *"All his faults were marked by kindred traits, and were those of a man who had a fine baritone, whose clothes hung well upon him, and who even in his ordinary gestures had an air of inbred distinction."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There is the more need for you to stay,” said Rosamond, playfully, and in her lightest accent; “he will not speak to me all the evening.” “Yes, Rosamond, I shall,” said Lydgate, in his strong baritone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice of medium compass between bass and tenor; also : a person having this voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a family of instruments having a range between tenor and bass; especially : the baritone saxhorn or baritone saxophone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He listened long enough to hear himself characterized by a baritone as a stinking Jew, and by a treble as not her style and a bit too gay but quite the gentleman, before he raised the latch and stepped in."*
+> - 📜 **George Eliot (*Middlemarch*):** *"All his faults were marked by kindred traits, and were those of a man who had a fine baritone, whose clothes hung well upon him, and who even in his ordinary gestures had an air of inbred distinction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There is the more need for you to stay,” said Rosamond, playfully, and in her lightest accent; “he will not speak to me all the evening.” “Yes, Rosamond, I shall,” said Lydgate, in his strong baritone."*

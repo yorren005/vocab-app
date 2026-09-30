@@ -5,13 +5,6 @@ status: unread
 ---
 # symphonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic or suggestive of a symphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmonious in sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphonic designates relating to or characteristic or suggestive of a symphony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic or suggestive of a symphony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmonious in sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphonic designates relating to or characteristic or suggestive of a symphony."*

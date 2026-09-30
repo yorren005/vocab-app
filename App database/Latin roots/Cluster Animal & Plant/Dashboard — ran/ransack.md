@@ -5,15 +5,6 @@ status: unread
 ---
 # ransack
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steal goods; take as spoils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search thoroughly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sixty and nine that wore Their crownets regal from the Athenian bay Put forth toward Phrygia; and their vow is made To ransack Troy, within whose strong immures The ravish’d Helen, Menelaus’ queen, With wanton Paris sleeps—and that’s the quarrel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What treason were it to the ransack’d queen, Disgrace to your great worths, and shame to me, Now to deliver her possession up On terms of base compulsion!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sooth, when I was young And handed love, as you do, I was wont To load my she with knacks: I would have ransack’d The pedlar’s silken treasury and have pour’d it To her acceptance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steal goods; take as spoils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search thoroughly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sixty and nine that wore Their crownets regal from the Athenian bay Put forth toward Phrygia; and their vow is made To ransack Troy, within whose strong immures The ravish’d Helen, Menelaus’ queen, With wanton Paris sleeps—and that’s the quarrel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What treason were it to the ransack’d queen, Disgrace to your great worths, and shame to me, Now to deliver her possession up On terms of base compulsion!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sooth, when I was young And handed love, as you do, I was wont To load my she with knacks: I would have ransack’d The pedlar’s silken treasury and have pour’d it To her acceptance."*

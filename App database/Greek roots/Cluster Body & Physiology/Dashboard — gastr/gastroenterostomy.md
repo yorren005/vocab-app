@@ -5,13 +5,6 @@ status: unread
 ---
 # gastroenterostomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenterostomy designates surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenterostomy designates surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated."*

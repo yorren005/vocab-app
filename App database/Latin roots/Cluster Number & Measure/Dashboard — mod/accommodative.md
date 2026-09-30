@@ -5,13 +5,6 @@ status: unread
 ---
 # accommodative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Helpful in bringing about a harmonious adaptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to adjust to differences in order to obtain agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accommodative designates helpful in bringing about a harmonious adaptation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Helpful in bringing about a harmonious adaptation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to adjust to differences in order to obtain agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accommodative designates helpful in bringing about a harmonious adaptation."*

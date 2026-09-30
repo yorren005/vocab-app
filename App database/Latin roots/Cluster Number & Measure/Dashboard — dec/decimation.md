@@ -5,14 +5,6 @@ status: unread
 ---
 # decimation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying or killing a large part of the population (literally every tenth person as chosen by lot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying or killing a large part of the population (literally every tenth person as chosen by lot).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By decimation and a tithed death, If thy revenges hunger for that food Which nature loathes, take thou the destined tenth, And by the hazard of the spotted die Let die the spotted."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If not Roman decimation, at least a sentence of banishment, crushing out the sweetest affections planted in human hearts, their love for their birthplaces, the homes of their fathers!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying or killing a large part of the population (literally every tenth person as chosen by lot).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying or killing a large part of the population (literally every tenth person as chosen by lot).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By decimation and a tithed death, If thy revenges hunger for that food Which nature loathes, take thou the destined tenth, And by the hazard of the spotted die Let die the spotted."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If not Roman decimation, at least a sentence of banishment, crushing out the sweetest affections planted in human hearts, their love for their birthplaces, the homes of their fathers!"*

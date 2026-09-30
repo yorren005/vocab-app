@@ -5,13 +5,6 @@ status: unread
 ---
 # jacamar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacamar designates tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacamar designates tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # provenance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Where something originated or was nurtured in its early existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Where something originated or was nurtured in its early existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Its provenance has been kept discreetly concealed,[58] but we may infer that it was taken from a temple or mausoleum, and we know that there were others with it, two of which were exhibited at the Musée Cernuschi, in Paris, in June, 1913."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Were it not for the apparently Chinese provenance of so many of these bowls, and the absence of the Corean characteristics in their bases, one would be tempted to class them as Corean on the strength of their general appearance."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is certain that many of them have been found in Corean tombs; the provenance of the rest is doubtful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Where something originated or was nurtured in its early existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Where something originated or was nurtured in its early existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Its provenance has been kept discreetly concealed,[58] but we may infer that it was taken from a temple or mausoleum, and we know that there were others with it, two of which were exhibited at the Musée Cernuschi, in Paris, in June, 1913."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Were it not for the apparently Chinese provenance of so many of these bowls, and the absence of the Corean characteristics in their bases, one would be tempted to class them as Corean on the strength of their general appearance."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is certain that many of them have been found in Corean tombs; the provenance of the rest is doubtful."*

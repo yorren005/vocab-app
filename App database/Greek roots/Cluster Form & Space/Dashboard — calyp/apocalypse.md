@@ -5,15 +5,6 @@ status: unread
 ---
 # apocalypse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the Jewish and Christian writings of 200 b.c. to a.d. 150 marked by pseudonymity, symbolic imagery, and the expectation of an imminent cosmic cataclysm in which God destroys the ruling powers of evil and raises the righteous to life in a messianic kingdom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revelation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One of them wrote an Apocalypse."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Tyke: such sermons would be of no use at Lowick—I mean, about imputed righteousness and the prophecies in the Apocalypse."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How, or by what means, he was connected with the great event foretold in the Apocalypse he did not know, but he did not doubt that connection for a moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the Jewish and Christian writings of 200 b.c. to a.d. 150 marked by pseudonymity, symbolic imagery, and the expectation of an imminent cosmic cataclysm in which God destroys the ruling powers of evil and raises the righteous to life in a messianic kingdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revelation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"One of them wrote an Apocalypse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Tyke: such sermons would be of no use at Lowick—I mean, about imputed righteousness and the prophecies in the Apocalypse."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How, or by what means, he was connected with the great event foretold in the Apocalypse he did not know, but he did not doubt that connection for a moment."*

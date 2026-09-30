@@ -5,15 +5,6 @@ status: unread
 ---
 # calcareous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Soon the nature of the soil changed; to the sandy plain succeeded an extent of slimy mud, which the Americans call “ooze,” composed of equal parts of silicious and calcareous shells."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Madrepores (which must not be mistaken for corals) have a tissue lined with a calcareous crust, and the modifications of its structure have induced M."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Their calcareous deposits become rocks, reefs, and large and small islands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Soon the nature of the soil changed; to the sandy plain succeeded an extent of slimy mud, which the Americans call “ooze,” composed of equal parts of silicious and calcareous shells."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Madrepores (which must not be mistaken for corals) have a tissue lined with a calcareous crust, and the modifications of its structure have induced M."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Their calcareous deposits become rocks, reefs, and large and small islands."*

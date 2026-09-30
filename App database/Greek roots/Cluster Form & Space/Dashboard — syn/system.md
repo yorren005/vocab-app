@@ -5,15 +5,6 @@ status: unread
 ---
 # system
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly interacting or interdependent group of items forming a unified whole : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of interacting bodies under the influence of related forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said that he condoled with him with all his heart and that he set up no monopoly himself in being unjustly treated by this monstrous system."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am told on all hands, it’s the system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly interacting or interdependent group of items forming a unified whole : such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of interacting bodies under the influence of related forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said that he condoled with him with all his heart and that he set up no monopoly himself in being unjustly treated by this monstrous system."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am told on all hands, it’s the system."*

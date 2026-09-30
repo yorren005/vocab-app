@@ -5,13 +5,6 @@ status: unread
 ---
 # mordacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of wounding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biting or given to biting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordacious designates capable of wounding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of wounding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biting or given to biting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordacious designates capable of wounding."*

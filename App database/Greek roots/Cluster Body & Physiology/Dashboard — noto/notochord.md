@@ -5,13 +5,6 @@ status: unread
 ---
 # notochord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notochord designates a longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notochord designates a longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body."*

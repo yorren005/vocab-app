@@ -5,15 +5,6 @@ status: unread
 ---
 # solution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She could only offer one solution; it was, perhaps, for Elizabeth’s sake."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"There were, however, two public questions which interested him deeply, and the solution of which he did what he could by speech and influence to further."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In every time and place in the world there have been questions of industrial policy that challenged men for an answer, and new and puzzling social problems that called for a solution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She could only offer one solution; it was, perhaps, for Elizabeth’s sake."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"There were, however, two public questions which interested him deeply, and the solution of which he did what he could by speech and influence to further."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In every time and place in the world there have been questions of industrial policy that challenged men for an answer, and new and puzzling social problems that called for a solution."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hemocoel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemocoel designates a body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemocoel designates a body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system."*

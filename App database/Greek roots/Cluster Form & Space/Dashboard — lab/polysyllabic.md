@@ -5,13 +5,6 @@ status: unread
 ---
 # polysyllabic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by words of more than three syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) long and ponderous; having many syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To what inconsequent polysyllabic question of his host did the guest return a monosyllabic negative answer?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by words of more than three syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) long and ponderous; having many syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"To what inconsequent polysyllabic question of his host did the guest return a monosyllabic negative answer?"*

@@ -5,20 +5,6 @@ status: unread
 ---
 # roam
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to range or wander over
-> 2. **Nuance / Usage**: Travel purposefully unhindered through a wide area
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to roam the target*) and intransitive clauses (*roaming against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"And ore the _Celtic_ roam’d the utmost Isles."*
-> - 📜 **Marc Jordan; John Capek (*Rhythm of My Heart*):** *"Oh, never will I roam / Now I know my place is home / Where the ocean meets the sky / I'll be sailin"*
-> - 📜 **Classic Author (*http://www.economist.com/news/business/21579011-president-proposes-new-round-intellectual-property-reform-obama-goes-troll-hunting Obama goes troll-hunting*):** *"According to this saga of intellectual-property misanthropy, these creatures [patent trolls] roam the business world, buying up patents and then using them to demand extravagant payouts from companies they accuse of infringing them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (transitive) to range or wander over
+> 2. **Nuance / Usage**: Travel purposefully unhindered through a wide area
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to roam the target*) and intransitive clauses (*roaming against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"And ore the _Celtic_ roam’d the utmost Isles."*
+> - 📜 **Marc Jordan; John Capek (*Rhythm of My Heart*):** *"Oh, never will I roam / Now I know my place is home / Where the ocean meets the sky / I'll be sailin"*
+> - 📜 **Classic Author (*http://www.economist.com/news/business/21579011-president-proposes-new-round-intellectual-property-reform-obama-goes-troll-hunting Obama goes troll-hunting*):** *"According to this saga of intellectual-property misanthropy, these creatures [patent trolls] roam the business world, buying up patents and then using them to demand extravagant payouts from companies they accuse of infringing them."*

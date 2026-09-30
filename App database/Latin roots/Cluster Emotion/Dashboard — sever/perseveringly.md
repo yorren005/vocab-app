@@ -5,15 +5,6 @@ status: unread
 ---
 # perseveringly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With perseverance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With perseverance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was by that time perseveringly dictating to Caddy, and Caddy was fast relapsing into the inky condition in which we had found her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hope everybody here will lead them to believe that I died defying them, consistently and perseveringly, as I did through so many years.” Here Mr."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, who continued most perseveringly by her side; and though he could not prevail with her to dance with him again, put it out of her power to dance with others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With perseverance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With perseverance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was by that time perseveringly dictating to Caddy, and Caddy was fast relapsing into the inky condition in which we had found her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I hope everybody here will lead them to believe that I died defying them, consistently and perseveringly, as I did through so many years.” Here Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, who continued most perseveringly by her side; and though he could not prevail with her to dance with him again, put it out of her power to dance with others."*

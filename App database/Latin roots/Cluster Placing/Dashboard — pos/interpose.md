@@ -5,15 +5,6 @@ status: unread
 ---
 # interpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or come between.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What watchful cares do interpose themselves Betwixt your eyes and night?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you to interpose, fair madam."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But can I permit the film of a silly proceeding on the part of Caddy (from whom I expect nothing else) to interpose between me and the great African continent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or come between.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What watchful cares do interpose themselves Betwixt your eyes and night?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you to interpose, fair madam."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But can I permit the film of a silly proceeding on the part of Caddy (from whom I expect nothing else) to interpose between me and the great African continent?"*

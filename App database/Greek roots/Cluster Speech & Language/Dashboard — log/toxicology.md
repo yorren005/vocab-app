@@ -5,13 +5,6 @@ status: unread
 ---
 # toxicology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicology designates a science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicology designates a science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems)."*

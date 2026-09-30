@@ -5,13 +5,6 @@ status: unread
 ---
 # silverish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of lustrous grey; covered with or tinged with the color of silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lustrous grey; covered with or tinged with the color of silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverish designates of lustrous grey; covered with or tinged with the color of silver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of lustrous grey; covered with or tinged with the color of silver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lustrous grey; covered with or tinged with the color of silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverish designates of lustrous grey; covered with or tinged with the color of silver."*

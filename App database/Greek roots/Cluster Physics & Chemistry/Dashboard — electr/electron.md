@@ -5,14 +5,6 @@ status: unread
 ---
 # electron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle consisting of a charge of negative electricity equal to about 1.602 × 10—19 coulomb and having a mass when at rest of about 9.109 × 10—31 kilogram or about 1/1836 that of a proton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of electrons surrounding the nucleus of an atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And it's balanced by the negative charges, the electrons, that revolve around it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle consisting of a charge of negative electricity equal to about 1.602 × 10—19 coulomb and having a mass when at rest of about 9.109 × 10—31 kilogram or about 1/1836 that of a proton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of electrons surrounding the nucleus of an atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And it's balanced by the negative charges, the electrons, that revolve around it."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*

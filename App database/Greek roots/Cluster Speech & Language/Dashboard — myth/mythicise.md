@@ -5,13 +5,6 @@ status: unread
 ---
 # mythicise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as a myth or in terms of mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a myth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythicise designates interpret as a myth or in terms of mythology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as a myth or in terms of mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a myth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythicise designates interpret as a myth or in terms of mythology."*

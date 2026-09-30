@@ -5,15 +5,6 @@ status: unread
 ---
 # heretofore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in negative statement to describe a situation that has existed up to this point or up to the present time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in negative statement to describe a situation that has existed up to this point or up to the present time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, as heretofore, he is to be found in doorways of rooms, with his limp white cravat loosely twisted into its old-fashioned tie, receiving patronage from the peerage and making no sign."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her kindred dwelling there would probably continue their daily lives as heretofore, with no great diminution of pleasure in their consciousness, although she would be far off, and they deprived of her smile."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The dying daughter exhorted her dying father to seek his soul's eternal welfare, and not boast, as heretofore, of his life-long morality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in negative statement to describe a situation that has existed up to this point or up to the present time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in negative statement to describe a situation that has existed up to this point or up to the present time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, as heretofore, he is to be found in doorways of rooms, with his limp white cravat loosely twisted into its old-fashioned tie, receiving patronage from the peerage and making no sign."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her kindred dwelling there would probably continue their daily lives as heretofore, with no great diminution of pleasure in their consciousness, although she would be far off, and they deprived of her smile."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The dying daughter exhorted her dying father to seek his soul's eternal welfare, and not boast, as heretofore, of his life-long morality."*

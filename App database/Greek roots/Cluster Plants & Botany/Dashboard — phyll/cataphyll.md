@@ -5,13 +5,6 @@ status: unread
 ---
 # cataphyll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphyll designates a reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphyll designates a reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development."*

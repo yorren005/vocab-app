@@ -5,15 +5,6 @@ status: unread
 ---
 # am
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master's degree in arts and sciences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"SOMETIME FELLOW IN GERMANIC LANGUAGES AND LITERATURES, COLUMBIA UNIVERSITY AMS PRESS, INC."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"NEW YORK 1966 Copyright 1905, Columbia University Press, New York Reprinted with the permission of the Original Publisher, 1966 AMS PRESS, INC."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"And confound redheaded school-ma’ams with a habit of popping out of beechwoods where they had no business to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master's degree in arts and sciences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"SOMETIME FELLOW IN GERMANIC LANGUAGES AND LITERATURES, COLUMBIA UNIVERSITY AMS PRESS, INC."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"NEW YORK 1966 Copyright 1905, Columbia University Press, New York Reprinted with the permission of the Original Publisher, 1966 AMS PRESS, INC."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"And confound redheaded school-ma’ams with a habit of popping out of beechwoods where they had no business to be."*

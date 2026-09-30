@@ -5,13 +5,6 @@ status: unread
 ---
 # synthesise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine so as to form a more complex, product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine so as to form a more complex, product.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesise designates combine so as to form a more complex, product."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine so as to form a more complex, product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine so as to form a more complex, product.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesise designates combine so as to form a more complex, product."*

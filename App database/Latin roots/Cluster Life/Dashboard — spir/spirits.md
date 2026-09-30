@@ -5,15 +5,6 @@ status: unread
 ---
 # spirits
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alcoholic beverage that is distilled rather than fermented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vital principle or animating force within living things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this exceeding posting day and night Must wear your spirits low."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elements be kind to thee, and make Thy spirits all of comfort!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alcoholic beverage that is distilled rather than fermented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vital principle or animating force within living things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this exceeding posting day and night Must wear your spirits low."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elements be kind to thee, and make Thy spirits all of comfort!"*

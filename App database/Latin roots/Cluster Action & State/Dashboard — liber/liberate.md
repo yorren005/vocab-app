@@ -5,15 +5,6 @@ status: unread
 ---
 # liberate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant freedom to; free from confinement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Russia is at war with Turkey and calls upon Hellas to liberate itself."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the other hand, Pierre demanded that steps should be taken to liberate the serfs, which the steward met by showing the necessity of first paying off the loans from the Land Bank, and the consequent impossibility of a speedy emancipation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There now, you wish to liberate your serfs,” he continued; “that is a very good thing, but not for you—I don’t suppose you ever had anyone flogged or sent to Siberia—and still less for your serfs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant freedom to; free from confinement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Russia is at war with Turkey and calls upon Hellas to liberate itself."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the other hand, Pierre demanded that steps should be taken to liberate the serfs, which the steward met by showing the necessity of first paying off the loans from the Land Bank, and the consequent impossibility of a speedy emancipation."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There now, you wish to liberate your serfs,” he continued; “that is a very good thing, but not for you—I don’t suppose you ever had anyone flogged or sent to Siberia—and still less for your serfs."*

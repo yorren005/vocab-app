@@ -5,15 +5,6 @@ status: unread
 ---
 # explicitness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being explicit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Gospel, with varying degrees of explicitness, and St."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel was often amused at his explicitness and at the small allowance he seemed to make either for her own experience or for her imagination."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He "looked into medicine," he tells us, and a good many passages in his treatises remind us of the fact.[12] It may help to explain an explicitness in the use of terms more usual in the physician perhaps than in the layman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being explicit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being explicit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Gospel, with varying degrees of explicitness, and St."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel was often amused at his explicitness and at the small allowance he seemed to make either for her own experience or for her imagination."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He "looked into medicine," he tells us, and a good many passages in his treatises remind us of the fact.[12] It may help to explain an explicitness in the use of terms more usual in the physician perhaps than in the layman."*

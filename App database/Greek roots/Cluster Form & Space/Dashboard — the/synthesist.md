@@ -5,13 +5,6 @@ status: unread
 ---
 # synthesist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intellectual who synthesizes or uses synthetic methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intellectual who synthesizes or uses synthetic methods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesist designates an intellectual who synthesizes or uses synthetic methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intellectual who synthesizes or uses synthetic methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intellectual who synthesizes or uses synthetic methods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesist designates an intellectual who synthesizes or uses synthetic methods."*

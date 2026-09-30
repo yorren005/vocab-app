@@ -5,15 +5,6 @@ status: unread
 ---
 # unaffected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing no change when acted upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaware of or indifferent to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Captain Harville, though not equalling Captain Wentworth in manners, was a perfect gentleman, unaffected, warm, and obliging."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His humility, utterly unaffected, like everything else about him, became if possible more marked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing no change when acted upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaware of or indifferent to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Harville, though not equalling Captain Wentworth in manners, was a perfect gentleman, unaffected, warm, and obliging."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His humility, utterly unaffected, like everything else about him, became if possible more marked."*

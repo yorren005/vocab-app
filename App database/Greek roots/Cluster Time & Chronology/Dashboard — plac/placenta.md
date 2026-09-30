@@ -5,15 +5,6 @@ status: unread
 ---
 # placenta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular organ in mammals except monotremes and marsupials that unites the fetus to the maternal uterus and mediates its metabolic exchanges through a more or less intimate association of uterine mucosal with chorionic and usually allantoic tissues; also : an analogous organ in another animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium-bearing surface; especially : the part of the carpel bearing ovules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Other parts which are commonly believed to remain in a sympathetic union with the body, after the physical connexion has been severed, are the navel-string and the afterbirth, including the placenta."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Bataks of Sumatra, as among many other peoples of the Indian Archipelago, the placenta passes for the child's younger brother or sister, the sex being determined by the sex of the child, and it is buried under the house."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Karo Bataks even affirm that of a man's two souls it is the true soul that lives with the placenta under the house; that is the soul, they say, which begets children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular organ in mammals except monotremes and marsupials that unites the fetus to the maternal uterus and mediates its metabolic exchanges through a more or less intimate association of uterine mucosal with chorionic and usually allantoic tissues; also : an analogous organ in another animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium-bearing surface; especially : the part of the carpel bearing ovules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Other parts which are commonly believed to remain in a sympathetic union with the body, after the physical connexion has been severed, are the navel-string and the afterbirth, including the placenta."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Bataks of Sumatra, as among many other peoples of the Indian Archipelago, the placenta passes for the child's younger brother or sister, the sex being determined by the sex of the child, and it is buried under the house."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Karo Bataks even affirm that of a man's two souls it is the true soul that lives with the placenta under the house; that is the soul, they say, which begets children."*

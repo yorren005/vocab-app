@@ -5,13 +5,6 @@ status: unread
 ---
 # tuberaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberaceae designates family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tuberaceae designates family of fungi whose ascocarps resemble tubers and vary in size from that of an acorn to that of a large apple."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural process of laying down a deposit of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pretrial interrogation of a witness; usually conducted in a lawyer's office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the surgeon’s deposition it was stated that the posterior third of the left parietal bone and the left half of the occipital bone had been shattered by a heavy blow from a blunt weapon."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everyone believed the victory to have been complete, and some even spoke of Napoleon’s having been captured, of his deposition, and of the choice of a new ruler for France."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Stereotypes have been made more durable, to withstand the wear of printing, by the deposition of a film of harder metal--copper or nickel--on the face of the plate after it has been cast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural process of laying down a deposit of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pretrial interrogation of a witness; usually conducted in a lawyer's office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the surgeon’s deposition it was stated that the posterior third of the left parietal bone and the left half of the occipital bone had been shattered by a heavy blow from a blunt weapon."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everyone believed the victory to have been complete, and some even spoke of Napoleon’s having been captured, of his deposition, and of the choice of a new ruler for France."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Stereotypes have been made more durable, to withstand the wear of printing, by the deposition of a film of harder metal--copper or nickel--on the face of the plate after it has been cast."*

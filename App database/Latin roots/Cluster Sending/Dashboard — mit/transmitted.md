@@ -5,15 +5,6 @@ status: unread
 ---
 # transmitted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit or serve as the medium for transmission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The Kellynch estate should be transmitted whole and entire, as he had received it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effects are transmitted to commercial and financial centres and often credit is much shaken."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"There are the historical Radicals, who demand popular institutions as the inheritance of Englishmen, transmitted to us from the Saxons or the barons of Runnymede."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit or serve as the medium for transmission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"The Kellynch estate should be transmitted whole and entire, as he had received it."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effects are transmitted to commercial and financial centres and often credit is much shaken."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"There are the historical Radicals, who demand popular institutions as the inheritance of Englishmen, transmitted to us from the Saxons or the barons of Runnymede."*

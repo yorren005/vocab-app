@@ -5,15 +5,6 @@ status: unread
 ---
 # motionless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in physical motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in physical motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon the wall, their shadows blended together, surrounded by strange forms, not without a ghostly motion caught from the unsteady fire, though reflecting from motionless objects."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"After the rustling of the leaves and the waving of the corn all along the road, it looked as still, as hot, as motionless a little town as England could produce."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the extreme summit, where the ends of the two converging hedges of which we have spoken were stopped short by meeting the brow of the chalk-pit, he saw the younger dog standing against the sky—dark and motionless as Napoleon at St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in physical motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in physical motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Upon the wall, their shadows blended together, surrounded by strange forms, not without a ghostly motion caught from the unsteady fire, though reflecting from motionless objects."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"After the rustling of the leaves and the waving of the corn all along the road, it looked as still, as hot, as motionless a little town as England could produce."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the extreme summit, where the ends of the two converging hedges of which we have spoken were stopped short by meeting the brow of the chalk-pit, he saw the younger dog standing against the sky—dark and motionless as Napoleon at St."*

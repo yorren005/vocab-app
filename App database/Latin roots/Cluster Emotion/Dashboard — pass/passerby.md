@@ -5,15 +5,6 @@ status: unread
 ---
 # passerby
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes by casually or by chance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is well that you should call to every passerby, “Look here!” With the night comes a slouching figure through the tunnel-court to the outside of the iron gate."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There were barns back of the Sherwood house; there was no fence between the yard and the road, the windows of the house stared out upon the passerby, blindless, and many of them without shades."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"No crowd was about the door; no people were discernible at any of the many windows; not even a chance passerby was in the street."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes by casually or by chance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is well that you should call to every passerby, “Look here!” With the night comes a slouching figure through the tunnel-court to the outside of the iron gate."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There were barns back of the Sherwood house; there was no fence between the yard and the road, the windows of the house stared out upon the passerby, blindless, and many of them without shades."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"No crowd was about the door; no people were discernible at any of the many windows; not even a chance passerby was in the street."*

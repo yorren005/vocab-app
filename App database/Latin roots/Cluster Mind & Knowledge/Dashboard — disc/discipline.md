@@ -5,15 +5,6 @@ status: unread
 ---
 # discipline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of rules of conduct or method of practice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their discipline, Now mingled with their courages, will make known To their approvers they are people such That mend upon the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not—God be praised and blessed!—any hurt in the world; but keeps the bridge most valiantly, with excellent discipline."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certainly, anchient, it is not a thing to rejoice at; for if, look you, he were my brother, I would desire the Duke to use his good pleasure, and put him to execution; for discipline ought to be used."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of rules of conduct or method of practice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their discipline, Now mingled with their courages, will make known To their approvers they are people such That mend upon the world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not—God be praised and blessed!—any hurt in the world; but keeps the bridge most valiantly, with excellent discipline."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certainly, anchient, it is not a thing to rejoice at; for if, look you, he were my brother, I would desire the Duke to use his good pleasure, and put him to execution; for discipline ought to be used."*

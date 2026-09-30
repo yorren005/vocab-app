@@ -5,15 +5,6 @@ status: unread
 ---
 # paragon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideal instance; a perfect embodiment of a concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Model of excellence or perfection of a kind; one having no equal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Isis, I will give thee bloody teeth If thou with Caesar paragon again My man of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Jupiter, an angel! or, if not, An earthly paragon!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That paragon, thy daughter, For whom my heart drops blood and my false spirits Quail to remember—Give me leave, I faint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideal instance; a perfect embodiment of a concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Model of excellence or perfection of a kind; one having no equal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Isis, I will give thee bloody teeth If thou with Caesar paragon again My man of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Jupiter, an angel! or, if not, An earthly paragon!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That paragon, thy daughter, For whom my heart drops blood and my false spirits Quail to remember—Give me leave, I faint."*

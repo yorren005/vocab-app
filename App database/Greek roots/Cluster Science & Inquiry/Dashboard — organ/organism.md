@@ -5,15 +5,6 @@ status: unread
 ---
 # organism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex structure of interdependent and subordinate elements whose relations and properties are largely determined by their function in the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual constituted to carry on the activities of life by means of parts or organs more or less separate in function but mutually dependent : a living being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The differences which distinguished them as individuals were abstracted by this passion, and each was but portion of one organism called sex."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, that was what I became—a sort of string-like organism that persisted in living."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex structure of interdependent and subordinate elements whose relations and properties are largely determined by their function in the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual constituted to carry on the activities of life by means of parts or organs more or less separate in function but mutually dependent : a living being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The differences which distinguished them as individuals were abstracted by this passion, and each was but portion of one organism called sex."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, that was what I became—a sort of string-like organism that persisted in living."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # didactics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities of educating or instructing; activities that impart knowledge or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activities of educating or instructing; activities that impart knowledge or skill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didactics designates the activities of educating or instructing; activities that impart knowledge or skill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities of educating or instructing; activities that impart knowledge or skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activities of educating or instructing; activities that impart knowledge or skill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didactics designates the activities of educating or instructing; activities that impart knowledge or skill."*

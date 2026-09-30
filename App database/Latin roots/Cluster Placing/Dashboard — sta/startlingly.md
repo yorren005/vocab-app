@@ -5,15 +5,6 @@ status: unread
 ---
 # startlingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a startling manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a startling manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Only the silence of the boat was at intervals startlingly pierced by one of his peculiar whispers, now harsh with command, now soft with entreaty."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Afterwards I took it back when it was borne in upon me startlingly with what extreme nicety he had estimated the time requisite for the ‘affair.’ “I went to work the next day, turning, so to speak, my back on that station."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Only the silence of the boat was at intervals startlingly pierced by one of his peculiar whispers, now harsh with command, now soft with entreaty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a startling manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a startling manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Only the silence of the boat was at intervals startlingly pierced by one of his peculiar whispers, now harsh with command, now soft with entreaty."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Afterwards I took it back when it was borne in upon me startlingly with what extreme nicety he had estimated the time requisite for the ‘affair.’ “I went to work the next day, turning, so to speak, my back on that station."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Only the silence of the boat was at intervals startlingly pierced by one of his peculiar whispers, now harsh with command, now soft with entreaty."*

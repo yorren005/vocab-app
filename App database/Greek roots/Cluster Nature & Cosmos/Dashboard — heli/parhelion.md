@@ -5,13 +5,6 @@ status: unread
 ---
 # parhelion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parhelion designates any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parhelion designates any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog."*

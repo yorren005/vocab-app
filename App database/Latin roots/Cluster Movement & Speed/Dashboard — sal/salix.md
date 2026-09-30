@@ -5,13 +5,6 @@ status: unread
 ---
 # salix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and widespread genus varying in size from small shrubs to large trees: willows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and widespread genus varying in size from small shrubs to large trees: willows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It can scarcely be too great an assumption to suppose that every one is acquainted with the goat-willow (_Salix caprea_), or that every schoolboy knows the birch (_Betula alba_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and widespread genus varying in size from small shrubs to large trees: willows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and widespread genus varying in size from small shrubs to large trees: willows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It can scarcely be too great an assumption to suppose that every one is acquainted with the goat-willow (_Salix caprea_), or that every schoolboy knows the birch (_Betula alba_)."*

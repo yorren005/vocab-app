@@ -5,13 +5,6 @@ status: unread
 ---
 # Arachne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaver in Greek mythology who is changed into a spider for challenging Athena to a contest in weaving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weaver in Greek mythology who is changed into a spider for challenging Athena to a contest in weaving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Arachne designates weaver in greek mythology who is changed into a spider for challenging athena to a contest in weaving."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaver in Greek mythology who is changed into a spider for challenging Athena to a contest in weaving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weaver in Greek mythology who is changed into a spider for challenging Athena to a contest in weaving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Arachne designates weaver in greek mythology who is changed into a spider for challenging athena to a contest in weaving."*

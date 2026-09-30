@@ -5,15 +5,6 @@ status: unread
 ---
 # folio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of numbering pages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of any written or printed material (especially in a manuscript or book).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Devise, wit; write, pen; for I am for whole volumes in folio. [_Exit._] ACT II SCENE I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, why didn’t you give that eight and thirty Chancery folio in Jarndyce to Nimrod?’ or such like."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"A = The First Folio. p. 302, l. 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of numbering pages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of any written or printed material (especially in a manuscript or book).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Devise, wit; write, pen; for I am for whole volumes in folio. [_Exit._] ACT II SCENE I."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, why didn’t you give that eight and thirty Chancery folio in Jarndyce to Nimrod?’ or such like."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"A = The First Folio. p. 302, l. 2."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ostentatious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to attract notice and impress others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a display) tawdry or vulgar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A man can’t very well be ostentatious of what nobody believes in."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her honest ostentatious nature made the sharing of a merited dishonor as bitter as it could be to any mortal."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though truly vivacious, tumultuous, ostentatious little Flask would now and then stamp with impatience; but not one added heave did he thereby give to the negro’s lordly chest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to attract notice and impress others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a display) tawdry or vulgar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A man can’t very well be ostentatious of what nobody believes in."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her honest ostentatious nature made the sharing of a merited dishonor as bitter as it could be to any mortal."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though truly vivacious, tumultuous, ostentatious little Flask would now and then stamp with impatience; but not one added heave did he thereby give to the negro’s lordly chest."*

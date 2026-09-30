@@ -5,15 +5,6 @@ status: unread
 ---
 # antipode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The parts of the earth diametrically opposite —usually plural—often used of Australia and New Zealand as contrasted to the western hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exact opposite or contrary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The suppositional antipode of divine infinite Spirit 200:21 is the so-called human soul or spirit, in other words the five senses, - the flesh that warreth against Spirit."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mortal man is the antipode of immortal man in origin, in existence, and in his relation to God."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Animal mag- netism is the voluntary or involuntary action of error in all its forms; it is the human antipode 484:24 of divine Science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The parts of the earth diametrically opposite —usually plural—often used of Australia and New Zealand as contrasted to the western hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exact opposite or contrary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The suppositional antipode of divine infinite Spirit 200:21 is the so-called human soul or spirit, in other words the five senses, - the flesh that warreth against Spirit."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mortal man is the antipode of immortal man in origin, in existence, and in his relation to God."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Animal mag- netism is the voluntary or involuntary action of error in all its forms; it is the human antipode 484:24 of divine Science."*

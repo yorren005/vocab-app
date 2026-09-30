@@ -5,13 +5,6 @@ status: unread
 ---
 # summery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of or occurring in summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of or occurring in summer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Alas! the parting is over-- The parting, but not the pain-- Oh! sweet was the purple clover, And sweet was the yellow grain; And sweet were the woody hollows On the summery Rhineward track; But a winter untimely swallows All sweets as I travel back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of or occurring in summer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of or occurring in summer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Alas! the parting is over-- The parting, but not the pain-- Oh! sweet was the purple clover, And sweet was the yellow grain; And sweet were the woody hollows On the summery Rhineward track; But a winter untimely swallows All sweets as I travel back."*

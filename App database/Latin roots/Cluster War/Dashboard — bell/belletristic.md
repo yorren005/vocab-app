@@ -5,13 +5,6 @@ status: unread
 ---
 # belletristic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written and regarded for aesthetic value rather than content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written and regarded for aesthetic value rather than content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belletristic designates written and regarded for aesthetic value rather than content."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written and regarded for aesthetic value rather than content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written and regarded for aesthetic value rather than content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belletristic designates written and regarded for aesthetic value rather than content."*

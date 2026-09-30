@@ -5,15 +5,6 @@ status: unread
 ---
 # kilometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 1000 meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 1000 meters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stretching away from the twenty-kilometer-wide city, the mottled terrain spread in all directions, slashed by ravines and man-made, soil-fused excavations, roads and bridges."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The way was clear with an exit a kilometer distant."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The dome would have a ten-kilometer radius on Planet Pluto and a one-kilometer radius on Charon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 1000 meters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 1000 meters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stretching away from the twenty-kilometer-wide city, the mottled terrain spread in all directions, slashed by ravines and man-made, soil-fused excavations, roads and bridges."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The way was clear with an exit a kilometer distant."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The dome would have a ten-kilometer radius on Planet Pluto and a one-kilometer radius on Charon."*

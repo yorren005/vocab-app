@@ -5,14 +5,6 @@ status: unread
 ---
 # contumacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wilfully obstinate; stubbornly disobedient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wilfully obstinate; stubbornly disobedient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes, without going quite so far as that, the wizard declared that he would scatter the bones of Osiris or reveal his sacred legend, if the god proved contumacious."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Do I then return a contumacious answer?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wilfully obstinate; stubbornly disobedient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wilfully obstinate; stubbornly disobedient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes, without going quite so far as that, the wizard declared that he would scatter the bones of Osiris or reveal his sacred legend, if the god proved contumacious."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Do I then return a contumacious answer?"*

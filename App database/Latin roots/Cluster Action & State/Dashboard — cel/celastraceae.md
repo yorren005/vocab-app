@@ -5,13 +5,6 @@ status: unread
 ---
 # celastraceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees and shrubs and woody vines usually having bright-colored fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees and shrubs and woody vines usually having bright-colored fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celastraceae designates trees and shrubs and woody vines usually having bright-colored fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees and shrubs and woody vines usually having bright-colored fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees and shrubs and woody vines usually having bright-colored fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celastraceae designates trees and shrubs and woody vines usually having bright-colored fruits."*

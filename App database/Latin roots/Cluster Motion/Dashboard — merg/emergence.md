@@ -5,15 +5,6 @@ status: unread
 ---
 # emergence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual beginning or coming forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The becoming visible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Emergence of the railroad problem. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But before this era of generosity ended, probably the railroads in America had received more public aid than has ever been given to any other form of industry in private hands. § 8. #Emergence of the railroad problem#."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At such times the more exuberant among them called out in an excited manner on our emergence round some corner of expectancy, “_Here_ they come!” “_Here_ they are!” and we were all but cheered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual beginning or coming forth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The becoming visible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Emergence of the railroad problem. § 9."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But before this era of generosity ended, probably the railroads in America had received more public aid than has ever been given to any other form of industry in private hands. § 8. #Emergence of the railroad problem#."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"At such times the more exuberant among them called out in an excited manner on our emergence round some corner of expectancy, “_Here_ they come!” “_Here_ they are!” and we were all but cheered."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # myelography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelography designates roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelography designates roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space)."*

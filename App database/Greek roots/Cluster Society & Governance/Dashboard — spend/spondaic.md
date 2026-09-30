@@ -5,13 +5,6 @@ status: unread
 ---
 # spondaic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two long or stressed syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two long or stressed syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaic designates a metrical foot consisting of two long or stressed syllables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two long or stressed syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two long or stressed syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaic designates a metrical foot consisting of two long or stressed syllables."*

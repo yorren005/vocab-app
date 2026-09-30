@@ -5,15 +5,6 @@ status: unread
 ---
 # collectedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-collected or self-possessed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-collected or self-possessed manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Working quickly but collectedly, I took nothing but the warmest and stoutest of clothes."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And _this_ is what I wished to have” (laying his hand on my shoulder): “this young girl, who stands so grave and quiet at the mouth of hell, looking collectedly at the gambols of a demon, I wanted her just as a change after that fierce ragout."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a stage, that evening, when she spoke collectedly of what had happened, though with a certain terrible vivacity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-collected or self-possessed manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-collected or self-possessed manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Working quickly but collectedly, I took nothing but the warmest and stoutest of clothes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And _this_ is what I wished to have” (laying his hand on my shoulder): “this young girl, who stands so grave and quiet at the mouth of hell, looking collectedly at the gambols of a demon, I wanted her just as a change after that fierce ragout."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a stage, that evening, when she spoke collectedly of what had happened, though with a certain terrible vivacity."*

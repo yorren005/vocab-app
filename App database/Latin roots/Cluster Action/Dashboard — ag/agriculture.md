@@ -5,15 +5,6 @@ status: unread
 ---
 # agriculture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large-scale farming enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of cultivating the land or raising stock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long strap which ran from the driving-wheel of his engine to the red thresher under the rick was the sole tie-line between agriculture and him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Eight years ago I was Professor of Agronomics in the College of Agriculture of the University of California."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No; I shall never be Dean of any college of agriculture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large-scale farming enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of cultivating the land or raising stock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long strap which ran from the driving-wheel of his engine to the red thresher under the rick was the sole tie-line between agriculture and him."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Eight years ago I was Professor of Agronomics in the College of Agriculture of the University of California."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No; I shall never be Dean of any college of agriculture."*

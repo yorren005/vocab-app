@@ -5,15 +5,6 @@ status: unread
 ---
 # recto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Right-hand page.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Right-hand page.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 52, _recto._ The title of the original poem was _Regnum Papisticum_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See his _Rationale Divinorum Officiorum_ (appended to the _Rationale Divinorum Officiorum_ of G. [W.] Durandus, Lyons, 1584), p. 556 _recto: "Solent porro hoc tempore_ [the Eve of St."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"See p. 101.] [Footnote 73: As stated in _Yo fu tsa lu_, a tenth-century work on music, quoted in the _T´ao shuo_, bk. ii., fol. 4 recto."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Right-hand page.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Right-hand page.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 52, _recto._ The title of the original poem was _Regnum Papisticum_."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See his _Rationale Divinorum Officiorum_ (appended to the _Rationale Divinorum Officiorum_ of G. [W.] Durandus, Lyons, 1584), p. 556 _recto: "Solent porro hoc tempore_ [the Eve of St."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"See p. 101.] [Footnote 73: As stated in _Yo fu tsa lu_, a tenth-century work on music, quoted in the _T´ao shuo_, bk. ii., fol. 4 recto."*

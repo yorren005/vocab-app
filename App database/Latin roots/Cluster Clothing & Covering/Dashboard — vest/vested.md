@@ -5,15 +5,6 @@ status: unread
 ---
 # vested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with power and authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place (authority, property, or rights) in the control of a person or group of persons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your fortune is vested in the English funds; Briggs has the will and the necessary documents.” Here was a new card turned up!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will indeed deserve the most vigilant and careful attention of the people, to see that it be modeled in such a manner as to admit of its being safely vested with the requisite powers."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Among a people consolidated into one nation, this supremacy is completely vested in the national legislature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with power and authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place (authority, property, or rights) in the control of a person or group of persons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your fortune is vested in the English funds; Briggs has the will and the necessary documents.” Here was a new card turned up!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will indeed deserve the most vigilant and careful attention of the people, to see that it be modeled in such a manner as to admit of its being safely vested with the requisite powers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Among a people consolidated into one nation, this supremacy is completely vested in the national legislature."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # chordamesoderm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of mesoderm that forms the notochord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of mesoderm that forms the notochord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordamesoderm designates the area of mesoderm that forms the notochord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of mesoderm that forms the notochord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of mesoderm that forms the notochord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordamesoderm designates the area of mesoderm that forms the notochord."*

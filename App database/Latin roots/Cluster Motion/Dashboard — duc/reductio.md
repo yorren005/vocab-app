@@ -5,13 +5,6 @@ status: unread
 ---
 # reductio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is this that he calls a "fasciculus of contradictions," and regarded as the _reductio ad absurdissimum_ of the transcendental philosophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is this that he calls a "fasciculus of contradictions," and regarded as the _reductio ad absurdissimum_ of the transcendental philosophy."*

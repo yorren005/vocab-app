@@ -5,15 +5,6 @@ status: unread
 ---
 # designate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a name or title to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an assignment to (a person) to a post, or assign a task to (a person).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These examples are sufficient to elucidate the maxims which have been mentioned, and to designate the manner in which they should be used."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Group Three (Logistics Depot) Mission Construct a space station to specification above Coldfield and designate it 'Slingshot Logistics Depot'."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"In some Journals this town is called Newtown, and the one near the battle field Lower Newtown, but a majority designate it by its Indian name, which, according to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a name or title to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an assignment to (a person) to a post, or assign a task to (a person).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These examples are sufficient to elucidate the maxims which have been mentioned, and to designate the manner in which they should be used."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Group Three (Logistics Depot) Mission Construct a space station to specification above Coldfield and designate it 'Slingshot Logistics Depot'."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"In some Journals this town is called Newtown, and the one near the battle field Lower Newtown, but a majority designate it by its Indian name, which, according to Mr."*

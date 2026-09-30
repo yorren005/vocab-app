@@ -5,15 +5,6 @@ status: unread
 ---
 # salad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, she was the sweet marjoram of the salad, or, rather, the herb of grace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My salad days, When I was green in judgment, cold in blood, To say as I said then."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There has never been such an abundance of cauliflower and peas, such rows of bean-poles, such salad-beds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, she was the sweet marjoram of the salad, or, rather, the herb of grace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My salad days, When I was green in judgment, cold in blood, To say as I said then."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There has never been such an abundance of cauliflower and peas, such rows of bean-poles, such salad-beds."*

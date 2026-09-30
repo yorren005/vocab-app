@@ -5,15 +5,6 @@ status: unread
 ---
 # cross
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of an upright with a transverse beam used especially by the ancient Romans for execution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cross on which Jesus was crucified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In each thing give him way; cross him in nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I should bear no cross if I did bear you, for I think you have no money in your purse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And he will bless that cross with other beating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of an upright with a transverse beam used especially by the ancient Romans for execution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cross on which Jesus was crucified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In each thing give him way; cross him in nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I should bear no cross if I did bear you, for I think you have no money in your purse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And he will bless that cross with other beating."*

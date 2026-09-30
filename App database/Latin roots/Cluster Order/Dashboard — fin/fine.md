@@ -5,15 +5,6 @@ status: unread
 ---
 # fine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money extracted as a penalty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue a ticket or a fine to as a penalty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The count he woos your daughter Lays down his wanton siege before her beauty, Resolv’d to carry her; let her in fine consent, As we’ll direct her how ’tis best to bear it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see it lawful then; it is no more But that your daughter, ere she seems as won, Desires this ring; appoints him an encounter; In fine, delivers me to fill the time, Herself most chastely absent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, fair soul, In your fine frame hath love no quality?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money extracted as a penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue a ticket or a fine to as a penalty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The count he woos your daughter Lays down his wanton siege before her beauty, Resolv’d to carry her; let her in fine consent, As we’ll direct her how ’tis best to bear it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see it lawful then; it is no more But that your daughter, ere she seems as won, Desires this ring; appoints him an encounter; In fine, delivers me to fill the time, Herself most chastely absent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, fair soul, In your fine frame hath love no quality?"*

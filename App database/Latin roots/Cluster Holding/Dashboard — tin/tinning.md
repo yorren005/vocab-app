@@ -5,14 +5,6 @@ status: unread
 ---
 # tinning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of a thin layer of soft solder to the ends of wires before soldering them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a protective layer of tin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Tinning Copper Shell._ Tin-foil is melted on the back of the copper shell."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Plus this fact is the accuracy of mechanical operation in handling wax molds from the time they are put into the batteries until they are taken out with the shell deposited thereon and ready for tinning and backing-up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of a thin layer of soft solder to the ends of wires before soldering them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a protective layer of tin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Tinning Copper Shell._ Tin-foil is melted on the back of the copper shell."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Plus this fact is the accuracy of mechanical operation in handling wax molds from the time they are put into the batteries until they are taken out with the shell deposited thereon and ready for tinning and backing-up."*

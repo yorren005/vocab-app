@@ -5,15 +5,6 @@ status: unread
 ---
 # surgical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving or used in surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or requiring or amenable to treatment by surgery especially as opposed to medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Almost immediately after the close of the Synod an old ailment which he had contracted by over-exertion during a holiday tour in Wales reappeared, and yielded only partially to surgical treatment."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Speedy death seemed inevitable; yet there was a little hope that a surgical operation might possibly remove the difficulty and prolong my day."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They give medical care in ordinary cases, but require extra payments for surgical treatment and for medical supplies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving or used in surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or requiring or amenable to treatment by surgery especially as opposed to medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Almost immediately after the close of the Synod an old ailment which he had contracted by over-exertion during a holiday tour in Wales reappeared, and yielded only partially to surgical treatment."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Speedy death seemed inevitable; yet there was a little hope that a surgical operation might possibly remove the difficulty and prolong my day."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They give medical care in ordinary cases, but require extra payments for surgical treatment and for medical supplies."*

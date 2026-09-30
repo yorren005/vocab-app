@@ -5,13 +5,6 @@ status: unread
 ---
 # polychete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychete designates chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychete designates chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles."*

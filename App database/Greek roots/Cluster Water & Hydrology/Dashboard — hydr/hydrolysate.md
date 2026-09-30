@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrolysate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of hydrolysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolysate designates a product of hydrolysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of hydrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of hydrolysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolysate designates a product of hydrolysis."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # illegitimately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner disapproved or not allowed by custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of biological parents not married to each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Legitimately applied they yield science; illegitimately applied they yield magic, the bastard sister of science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner disapproved or not allowed by custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of biological parents not married to each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Legitimately applied they yield science; illegitimately applied they yield magic, the bastard sister of science."*

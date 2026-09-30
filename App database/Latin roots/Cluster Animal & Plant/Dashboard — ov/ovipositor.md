@@ -5,13 +5,6 @@ status: unread
 ---
 # ovipositor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg-laying tubular structure at the end of the abdomen in many female insects and some fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Egg-laying tubular structure at the end of the abdomen in many female insects and some fishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovipositor designates egg-laying tubular structure at the end of the abdomen in many female insects and some fishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg-laying tubular structure at the end of the abdomen in many female insects and some fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Egg-laying tubular structure at the end of the abdomen in many female insects and some fishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovipositor designates egg-laying tubular structure at the end of the abdomen in many female insects and some fishes."*

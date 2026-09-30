@@ -5,15 +5,6 @@ status: unread
 ---
 # commonsense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting native good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting native good judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The rules of legal interpretation are rules of COMMONSENSE, adopted by the courts in the construction of the laws."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Grant's a rugged sort of commonsense chap--hates show and fuss."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Doctor Burns has been detained, but I'm sure he'll be here soon,” Chester explained, shaking hands, and discovering for himself which was the famous Scottish surgeon by the “rugged commonsense” look of the man, quite as R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting native good judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting native good judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The rules of legal interpretation are rules of COMMONSENSE, adopted by the courts in the construction of the laws."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Grant's a rugged sort of commonsense chap--hates show and fuss."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Doctor Burns has been detained, but I'm sure he'll be here soon,” Chester explained, shaking hands, and discovering for himself which was the famous Scottish surgeon by the “rugged commonsense” look of the man, quite as R."*

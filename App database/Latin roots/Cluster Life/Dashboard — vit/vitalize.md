@@ -5,15 +5,6 @@ status: unread
 ---
 # vitalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give life to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more lively or vigorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The proposed extension of the constitution to territories, with a view to its transportation of slavery along with it, was futile and nugatory without the act of Congress to vitalize slavery under it."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It vitalizes, warms, fuses, and imparts a lightsomeness to his verse; it creeps and kindles beneath the tissues of his thought."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual subdivision 510:27 Light is a symbol of Mind, of Life, Truth, and Love, and not a vitalizing property of matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give life to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more lively or vigorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The proposed extension of the constitution to territories, with a view to its transportation of slavery along with it, was futile and nugatory without the act of Congress to vitalize slavery under it."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It vitalizes, warms, fuses, and imparts a lightsomeness to his verse; it creeps and kindles beneath the tissues of his thought."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual subdivision 510:27 Light is a symbol of Mind, of Life, Truth, and Love, and not a vitalizing property of matter."*

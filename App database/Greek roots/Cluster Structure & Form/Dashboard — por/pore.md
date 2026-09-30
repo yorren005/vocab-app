@@ -5,15 +5,6 @@ status: unread
 ---
 # pore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To gaze intently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To read or study attentively —usually used with over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, all delights are vain, but that most vain Which, with pain purchased, doth inherit pain: As painfully to pore upon a book To seek the light of truth, while truth the while Doth falsely blind the eyesight of his look."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pore feller were faithful and true enough to her in his wish, but his heart would rove, do what he would."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh you see, mem, his pore mother, not being a Scripture-read woman, made a mistake at his christening, thinking ’twas Abel killed Cain, and called en Cain, meaning Abel all the time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To gaze intently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To read or study attentively —usually used with over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, all delights are vain, but that most vain Which, with pain purchased, doth inherit pain: As painfully to pore upon a book To seek the light of truth, while truth the while Doth falsely blind the eyesight of his look."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pore feller were faithful and true enough to her in his wish, but his heart would rove, do what he would."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh you see, mem, his pore mother, not being a Scripture-read woman, made a mistake at his christening, thinking ’twas Abel killed Cain, and called en Cain, meaning Abel all the time."*

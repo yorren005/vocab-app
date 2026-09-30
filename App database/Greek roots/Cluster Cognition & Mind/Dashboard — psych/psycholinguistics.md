@@ -5,13 +5,6 @@ status: unread
 ---
 # psycholinguistics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of cognitive psychology that studies the psychological basis of linguistic competence and performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of cognitive psychology that studies the psychological basis of linguistic competence and performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycholinguistics designates the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of cognitive psychology that studies the psychological basis of linguistic competence and performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of cognitive psychology that studies the psychological basis of linguistic competence and performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycholinguistics designates the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # mammography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: X-ray examination of the breasts (as for early detection of cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: X-ray examination of the breasts (as for early detection of cancer).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammography designates x-ray examination of the breasts (as for early detection of cancer)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: X-ray examination of the breasts (as for early detection of cancer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: X-ray examination of the breasts (as for early detection of cancer).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammography designates x-ray examination of the breasts (as for early detection of cancer)."*

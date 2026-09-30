@@ -5,15 +5,6 @@ status: unread
 ---
 # dissimulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deceiving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deceiving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"The womans mask, dissimulation help me."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She was really tired; she knew it, and knew she should pay for it on the morrow; but it was her habit at this period to carry exhaustion to the furthest point and confess to it only when dissimulation broke down."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"One must fulfil one's mission without timidity or dissimulation, for to be well done, the work must be done unselfishly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deceiving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deceiving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"The womans mask, dissimulation help me."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She was really tired; she knew it, and knew she should pay for it on the morrow; but it was her habit at this period to carry exhaustion to the furthest point and confess to it only when dissimulation broke down."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"One must fulfil one's mission without timidity or dissimulation, for to be well done, the work must be done unselfishly."*

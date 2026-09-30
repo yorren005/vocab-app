@@ -5,13 +5,6 @@ status: unread
 ---
 # bronchoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchoscopy designates a usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchoscopy designates a usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy)."*

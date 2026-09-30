@@ -5,15 +5,6 @@ status: unread
 ---
 # odoriferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally offensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting an odor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And why indeed “Naso,” but for smelling out the odoriferous flowers of fancy, the jerks of invention? _Imitari_ is nothing: so doth the hound his master, the ape his keeper, the tired horse his rider."*
-> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally offensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting an odor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And why indeed “Naso,” but for smelling out the odoriferous flowers of fancy, the jerks of invention? _Imitari_ is nothing: so doth the hound his master, the ape his keeper, the tired horse his rider."*
+> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*

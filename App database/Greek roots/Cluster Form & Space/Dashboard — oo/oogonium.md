@@ -5,15 +5,6 @@ status: unread
 ---
 # oogonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sexual organ in various algae and fungi that corresponds to the archegonium of ferns and mosses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descendant of a primordial germ cell that gives rise to oocytes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When these bodies have attained their full dimensions, the large granules which are contained in the oogonium accumulate at its centre, and form an irregular, somewhat spherical mass, which is called by De Bary a _gonosphere_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gonosphere having been formed, a straight tube shoots out from the antheridium which perforates the wall of the oogonium, passes through the fluid which surrounds the gonosphere, elongating itself until it touches that body."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Crucifer white rust (_Cystopus candidus_) × 400 (_De Bary_). 〃 207."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sexual organ in various algae and fungi that corresponds to the archegonium of ferns and mosses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descendant of a primordial germ cell that gives rise to oocytes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When these bodies have attained their full dimensions, the large granules which are contained in the oogonium accumulate at its centre, and form an irregular, somewhat spherical mass, which is called by De Bary a _gonosphere_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gonosphere having been formed, a straight tube shoots out from the antheridium which perforates the wall of the oogonium, passes through the fluid which surrounds the gonosphere, elongating itself until it touches that body."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Crucifer white rust (_Cystopus candidus_) × 400 (_De Bary_). 〃 207."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # submerge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Master Benjamin, or Ben, as he was called everywhere except in his own family, had got possession of the black kitten, and appeared to be submerging her in the hogshead of rainwater."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Master Benjamin, or Ben, as he was called everywhere except in his own family, had got possession of the black kitten, and appeared to be submerging her in the hogshead of rainwater."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*

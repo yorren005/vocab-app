@@ -5,13 +5,6 @@ status: unread
 ---
 # cisterna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sac or cavity containing fluid especially lymph or cerebrospinal fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sac or cavity containing fluid especially lymph or cerebrospinal fluid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisterna designates a sac or cavity containing fluid especially lymph or cerebrospinal fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sac or cavity containing fluid especially lymph or cerebrospinal fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sac or cavity containing fluid especially lymph or cerebrospinal fluid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cisterna designates a sac or cavity containing fluid especially lymph or cerebrospinal fluid."*

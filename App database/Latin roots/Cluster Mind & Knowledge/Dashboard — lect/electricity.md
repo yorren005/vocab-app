@@ -5,15 +5,6 @@ status: unread
 ---
 # electricity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical phenomenon associated with stationary or moving electrons and protons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Energy made available by the flow of electric charge through a conductor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All was as quick as electricity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A fourth kind is that derived from franchises for public service corporations, such as those supplying electricity, gas and water."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Besides, Fred had given out unexpected electricity, and he now added, “Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical phenomenon associated with stationary or moving electrons and protons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Energy made available by the flow of electric charge through a conductor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All was as quick as electricity."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A fourth kind is that derived from franchises for public service corporations, such as those supplying electricity, gas and water."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Besides, Fred had given out unexpected electricity, and he now added, “Mr."*

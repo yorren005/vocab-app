@@ -5,15 +5,6 @@ status: unread
 ---
 # invade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: March aggressively into another's territory by military force for the purposes of conquest and occupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intrude upon, infringe, encroach on, violate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must not only arm to invade the French, But lay down our proportions to defend Against the Scot, who will make road upon us With all advantages."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it fall rather, though the fork invade The region of my heart: be Kent unmannerly When Lear is mad."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I said my evening prayers Beside the crag the heath was very deep: when I lay down my feet were buried in it; rising high on each side, it left only a narrow space for the night-air to invade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: March aggressively into another's territory by military force for the purposes of conquest and occupation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intrude upon, infringe, encroach on, violate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must not only arm to invade the French, But lay down our proportions to defend Against the Scot, who will make road upon us With all advantages."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it fall rather, though the fork invade The region of my heart: be Kent unmannerly When Lear is mad."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I said my evening prayers Beside the crag the heath was very deep: when I lay down my feet were buried in it; rising high on each side, it left only a narrow space for the night-air to invade."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # spadix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadix designates a floral spike with a fleshy or succulent axis usually enclosed in a spathe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadix designates a floral spike with a fleshy or succulent axis usually enclosed in a spathe."*

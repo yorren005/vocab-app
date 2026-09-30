@@ -5,13 +5,6 @@ status: unread
 ---
 # homogenous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the same or similar kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All of the same or similar kind or nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogenous designates all of the same or similar kind or nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the same or similar kind or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All of the same or similar kind or nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogenous designates all of the same or similar kind or nature."*

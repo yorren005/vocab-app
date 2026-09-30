@@ -5,13 +5,6 @@ status: unread
 ---
 # understate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent as less significant or important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After a comfortable week-end's rest, I left Lao-kai in the early morning, helped on my journey by those courtesies that so often in strange lands convince one that "less than kin more than kind" quite understates the truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent as less significant or important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After a comfortable week-end's rest, I left Lao-kai in the early morning, helped on my journey by those courtesies that so often in strange lands convince one that "less than kin more than kind" quite understates the truth."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # retract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from a source of disgust or fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I protest, Were I alone to pass the difficulties, And had as ample power as I have will, Paris should ne’er retract what he hath done, Nor faint in the pursuit."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had that moment settled with Miss Tilney to take their proposed walk to-morrow; it was quite determined, and she would not, upon any account, retract."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I dare say I shall have to retract.” “I mean what you said about the necessity of knowing German—I mean, for the subjects that Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from a source of disgust or fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I protest, Were I alone to pass the difficulties, And had as ample power as I have will, Paris should ne’er retract what he hath done, Nor faint in the pursuit."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had that moment settled with Miss Tilney to take their proposed walk to-morrow; it was quite determined, and she would not, upon any account, retract."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I dare say I shall have to retract.” “I mean what you said about the necessity of knowing German—I mean, for the subjects that Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # osteopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of medical practice that emphasizes a holistic and comprehensive approach to patient care and utilizes the manipulation of musculoskeletal tissues along with other therapeutic measures (such as the use of drugs or surgery) to prevent and treat disease : osteopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who has earned a degree in osteopathic medicine or osteopathy; also : an academic graduate degree conferring the rank or title of doctor of osteopathic medicine —abbreviation DO, D.O.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had been treated by doctors and specialists; had taken magnetic treatments and osteopathy; had tried change of climate; had an operation in a hospital, and when I came out was worse than before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of medical practice that emphasizes a holistic and comprehensive approach to patient care and utilizes the manipulation of musculoskeletal tissues along with other therapeutic measures (such as the use of drugs or surgery) to prevent and treat disease : osteopathic medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who has earned a degree in osteopathic medicine or osteopathy; also : an academic graduate degree conferring the rank or title of doctor of osteopathic medicine —abbreviation DO, D.O.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had been treated by doctors and specialists; had taken magnetic treatments and osteopathy; had tried change of climate; had an operation in a hospital, and when I came out was worse than before."*

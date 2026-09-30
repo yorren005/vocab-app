@@ -5,15 +5,6 @@ status: unread
 ---
 # object
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tangible and visible entity; an entity that can cast a shadow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The goal intended to be attained (and which is believed to be attainable).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He threw his eye aside, And mark what object did present itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tangible and visible entity; an entity that can cast a shadow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The goal intended to be attained (and which is believed to be attainable).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He threw his eye aside, And mark what object did present itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*

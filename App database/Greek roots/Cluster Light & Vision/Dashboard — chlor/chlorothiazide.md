@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorothiazide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name diuril) used in the treatment of edema and hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name diuril) used in the treatment of edema and hypertension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorothiazide designates a diuretic drug (trade name diuril) used in the treatment of edema and hypertension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name diuril) used in the treatment of edema and hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name diuril) used in the treatment of edema and hypertension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorothiazide designates a diuretic drug (trade name diuril) used in the treatment of edema and hypertension."*

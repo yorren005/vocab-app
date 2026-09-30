@@ -5,15 +5,6 @@ status: unread
 ---
 # erratically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an erratic unpredictable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an erratic unpredictable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her heart erratically flitting hither and thither from perplexed excitement, hot, and almost tearful, she retreated homeward, murmuring, “Oh, what have I done!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, for half-an-hour, ten minutes, or as long as an hour or so, I would wander erratically and foolishly through the stored memories of my eternal recurrence on earth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That I had partly succeeded I knew; but all that I had experienced was a fluttering of apparitions that merged erratically and were without continuity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an erratic unpredictable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an erratic unpredictable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her heart erratically flitting hither and thither from perplexed excitement, hot, and almost tearful, she retreated homeward, murmuring, “Oh, what have I done!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, for half-an-hour, ten minutes, or as long as an hour or so, I would wander erratically and foolishly through the stored memories of my eternal recurrence on earth."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That I had partly succeeded I knew; but all that I had experienced was a fluttering of apparitions that merged erratically and were without continuity."*

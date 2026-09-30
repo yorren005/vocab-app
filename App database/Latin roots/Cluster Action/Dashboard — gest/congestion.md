@@ -5,15 +5,6 @@ status: unread
 ---
 # congestion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive accumulation of blood or other fluid in a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive crowding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Periodical local congestion of funds. § 8."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Women's services (especially those of young women) have increasingly of late been coming upon the labor market in such a way as to cause abnormal congestion in a few occupations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The need of mutual aid among American farmers is especially great, for, as has often been, said, isolation is the problem of the farm as congestion is that of the city."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive accumulation of blood or other fluid in a body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive crowding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Periodical local congestion of funds. § 8."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Women's services (especially those of young women) have increasingly of late been coming upon the labor market in such a way as to cause abnormal congestion in a few occupations."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The need of mutual aid among American farmers is especially great, for, as has often been, said, isolation is the problem of the farm as congestion is that of the city."*

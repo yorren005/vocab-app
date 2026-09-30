@@ -5,13 +5,6 @@ status: unread
 ---
 # ascites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of serous fluid in peritoneal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of serous fluid in peritoneal cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascites designates accumulation of serous fluid in peritoneal cavity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of serous fluid in peritoneal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of serous fluid in peritoneal cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascites designates accumulation of serous fluid in peritoneal cavity."*

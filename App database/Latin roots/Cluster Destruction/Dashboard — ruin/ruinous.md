@@ -5,15 +5,6 @@ status: unread
 ---
 # ruinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely harmful; bringing physical or financial ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing injury or blight; especially affecting with sudden violence or plague or ruin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall love, in building, grow so ruinous?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Machinations, hollowness, treachery, and all ruinous disorders follow us disquietly to our graves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is yond despised and ruinous man my lord?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely harmful; bringing physical or financial ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing injury or blight; especially affecting with sudden violence or plague or ruin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall love, in building, grow so ruinous?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Machinations, hollowness, treachery, and all ruinous disorders follow us disquietly to our graves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is yond despised and ruinous man my lord?"*

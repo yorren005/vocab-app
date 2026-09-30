@@ -5,13 +5,6 @@ status: unread
 ---
 # mutant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) an organism that has characteristics resulting from chromosomal alteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that has undergone mutation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutant designates (biology) an organism that has characteristics resulting from chromosomal alteration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) an organism that has characteristics resulting from chromosomal alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that has undergone mutation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutant designates (biology) an organism that has characteristics resulting from chromosomal alteration."*

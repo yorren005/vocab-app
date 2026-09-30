@@ -5,15 +5,6 @@ status: unread
 ---
 # moderating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preside over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less fast or intense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But wisdom lies in moderating mere impressions, and Gabriel endeavoured to think little of this."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The immigration from Europe has furnished an ever-changing group of workers, moderating the rate of wages which employers otherwise would have had to pay."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, who had come down to exercise a moderating influence in the direction of compromise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preside over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less fast or intense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But wisdom lies in moderating mere impressions, and Gabriel endeavoured to think little of this."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The immigration from Europe has furnished an ever-changing group of workers, moderating the rate of wages which employers otherwise would have had to pay."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, who had come down to exercise a moderating influence in the direction of compromise."*

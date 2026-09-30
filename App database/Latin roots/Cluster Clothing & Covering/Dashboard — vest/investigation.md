@@ -5,15 +5,6 @@ status: unread
 ---
 # investigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inquiry into unfamiliar or questionable activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of inquiring into something thoroughly and systematically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose you do!” While she is gone, the surgeon abandons his hopeless investigation and covers its subject with the patchwork counterpane."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One helmet remains behind after careful investigation of all chinks and crannies and slowly paces up and down before the house in company with one of the two policemen who have likewise been left in charge thereof."*
-> - 📜 **Jane Austen (*Persuasion*):** *"How her temper and understanding might bear the investigation of his present keener time of life was another concern and rather a fearful one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inquiry into unfamiliar or questionable activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of inquiring into something thoroughly and systematically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose you do!” While she is gone, the surgeon abandons his hopeless investigation and covers its subject with the patchwork counterpane."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"One helmet remains behind after careful investigation of all chinks and crannies and slowly paces up and down before the house in company with one of the two policemen who have likewise been left in charge thereof."*
+> - 📜 **Jane Austen (*Persuasion*):** *"How her temper and understanding might bear the investigation of his present keener time of life was another concern and rather a fearful one."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # certification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of certifying or bestowing a franchise on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirmation that some fact or statement is true through the use of documentary evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As the SPS functions and workload became clear, I joined its paraprofessional training to certification and when the Service became operational I took my turn on the 'hotline,' especially those related to my McClellan responsibilities."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"If you were judging from appearances you would say that he was one of the best, and if you asked for confirmation of your opinion the lumberjack would answer regarding him, "None better in all the north woods,"--a high physical certification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of certifying or bestowing a franchise on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirmation that some fact or statement is true through the use of documentary evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As the SPS functions and workload became clear, I joined its paraprofessional training to certification and when the Service became operational I took my turn on the 'hotline,' especially those related to my McClellan responsibilities."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"If you were judging from appearances you would say that he was one of the best, and if you asked for confirmation of your opinion the lumberjack would answer regarding him, "None better in all the north woods,"--a high physical certification."*

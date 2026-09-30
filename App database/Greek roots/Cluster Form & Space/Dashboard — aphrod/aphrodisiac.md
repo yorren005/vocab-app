@@ -5,14 +5,6 @@ status: unread
 ---
 # aphrodisiac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (such as a food or drug) that arouses or is held to arouse sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or quell sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But in the end all palled for a time, the aphrodisiac tropic smell; the coral waters, clear as well water at home; the white houses with the green jalousies; the lush, coarse green."*
-> - 📜 **James Joyce (*Ulysses*):** *"Here! _(A firm heelclacking tread is heard on the stairs.)_ BLOOM: _(Takes the chocolate.)_ Aphrodisiac?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (such as a food or drug) that arouses or is held to arouse sexual desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or quell sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But in the end all palled for a time, the aphrodisiac tropic smell; the coral waters, clear as well water at home; the white houses with the green jalousies; the lush, coarse green."*
+> - 📜 **James Joyce (*Ulysses*):** *"Here! _(A firm heelclacking tread is heard on the stairs.)_ BLOOM: _(Takes the chocolate.)_ Aphrodisiac?"*

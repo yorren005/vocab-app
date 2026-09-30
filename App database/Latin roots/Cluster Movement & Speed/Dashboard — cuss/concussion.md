@@ -5,15 +5,6 @@ status: unread
 ---
 # concussion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Injury to the brain caused by a blow; usually resulting in loss of consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any violent blow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oak partition shook with the concussion, and the place was filled with grey smoke."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket took it the other way, and got its head upon the table; which was announced to all present by a prodigious concussion."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother had the effect of a sharp concussion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Injury to the brain caused by a blow; usually resulting in loss of consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any violent blow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oak partition shook with the concussion, and the place was filled with grey smoke."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket took it the other way, and got its head upon the table; which was announced to all present by a prodigious concussion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother had the effect of a sharp concussion."*

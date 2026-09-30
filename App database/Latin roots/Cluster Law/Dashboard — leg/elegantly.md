@@ -5,15 +5,6 @@ status: unread
 ---
 # elegantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With elegance; in a tastefully elegant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gracefully elegant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The bride was elegantly dressed; the two bridesmaids were duly inferior; her father gave her away; her mother stood with salts in her hand, expecting to be agitated; her aunt tried to cry; and the service was impressively read by Dr."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This long spear, so elegantly carved, and highly polished, belongs to Wormoonoo: it is far handsomer than the one which old Marheyo so greatly prizes; it is the most valuable article belonging to its owner."*
-> - 📜 **Effie Afton (*Eventide*):** *"Suddenly the door opened, and a gentleman, of fine personal appearance, and elegantly attired, entered the apartment, with hat and gloves in hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With elegance; in a tastefully elegant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gracefully elegant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The bride was elegantly dressed; the two bridesmaids were duly inferior; her father gave her away; her mother stood with salts in her hand, expecting to be agitated; her aunt tried to cry; and the service was impressively read by Dr."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This long spear, so elegantly carved, and highly polished, belongs to Wormoonoo: it is far handsomer than the one which old Marheyo so greatly prizes; it is the most valuable article belonging to its owner."*
+> - 📜 **Effie Afton (*Eventide*):** *"Suddenly the door opened, and a gentleman, of fine personal appearance, and elegantly attired, entered the apartment, with hat and gloves in hand."*

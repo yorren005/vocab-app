@@ -5,15 +5,6 @@ status: unread
 ---
 # timorously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a timorous and trepid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a timorous and trepid manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are not a Weatherbury man?” she said, timorously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are not a Weatherbury man?” she said, timorously."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A child may have worms, if you say so, or any other malady, timorously held in the beliefs con- 414:1 cerning his body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a timorous and trepid manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a timorous and trepid manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are not a Weatherbury man?” she said, timorously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are not a Weatherbury man?” she said, timorously."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A child may have worms, if you say so, or any other malady, timorously held in the beliefs con- 414:1 cerning his body."*

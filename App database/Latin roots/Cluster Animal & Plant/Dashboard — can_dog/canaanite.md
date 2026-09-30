@@ -5,14 +5,6 @@ status: unread
 ---
 # canaanite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an ancient semitic people who occupied canaan before it was conquered by the israelites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extinct language of the semitic people who occupied canaan before the israelite conquest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"I saw the sinful Canaanites Upon the shewbread dine, And spoil the temple vessels And drink the temple wine."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"I saw him fight the Canaanites And set God's Israel free."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an ancient semitic people who occupied canaan before it was conquered by the israelites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extinct language of the semitic people who occupied canaan before the israelite conquest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"I saw the sinful Canaanites Upon the shewbread dine, And spoil the temple vessels And drink the temple wine."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"I saw him fight the Canaanites And set God's Israel free."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # civilization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A society in an advanced state of social development (e.g., with complex legal and political and religious organizations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process whereby societies achieve an advanced stage of development and organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had persistently elevated Hellenic Paganism at the expense of Christianity; yet in that civilization an illegal surrender was not certain disesteem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only a civilization deep and wide and old and strong could produce this far-walled, many-gabled roof of kings."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In a single ten-days’ bout in the jacket I have gone back and back, from life to life, and often skipping whole series of lives that at other times I have covered, back to prehistoric time, and back of that to days ere civilization began."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A society in an advanced state of social development (e.g., with complex legal and political and religious organizations).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process whereby societies achieve an advanced stage of development and organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had persistently elevated Hellenic Paganism at the expense of Christianity; yet in that civilization an illegal surrender was not certain disesteem."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only a civilization deep and wide and old and strong could produce this far-walled, many-gabled roof of kings."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In a single ten-days’ bout in the jacket I have gone back and back, from life to life, and often skipping whole series of lives that at other times I have covered, back to prehistoric time, and back of that to days ere civilization began."*

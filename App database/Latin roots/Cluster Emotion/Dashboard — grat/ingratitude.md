@@ -5,15 +5,6 @@ status: unread
 ---
 # ingratitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of gratitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ingratitude of this Seleucus does Even make me wild."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AMIENS. (_Sings_.) Blow, blow, thou winter wind, Thou art not so unkind As man’s ingratitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of gratitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of gratitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ingratitude of this Seleucus does Even make me wild."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AMIENS. (_Sings_.) Blow, blow, thou winter wind, Thou art not so unkind As man’s ingratitude."*

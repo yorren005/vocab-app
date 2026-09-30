@@ -5,13 +5,6 @@ status: unread
 ---
 # parmesan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard dry sharp-flavored italian cheese; often grated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard dry sharp-flavored italian cheese; often grated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parmesan designates hard dry sharp-flavored italian cheese; often grated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard dry sharp-flavored italian cheese; often grated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard dry sharp-flavored italian cheese; often grated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parmesan designates hard dry sharp-flavored italian cheese; often grated."*

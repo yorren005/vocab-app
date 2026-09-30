@@ -5,15 +5,6 @@ status: unread
 ---
 # arsenal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the weapons and equipment that a country has.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military structure where arms and ammunition and other military equipment are stored and training is given in the use of arms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was forced to resign from the Service, and offered a choice to either join a penetration team to the Outer Region or work in an arsenal under tight supervision."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At intervals were heaps of green bread-fruit, raised in pyramidical stacks, resembling the regular piles of heavy shot to be seen in the yard of an arsenal."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thiers alone dedicates a few eloquent lines to their memory: “These wretches had occupied the sacred citadel, having supplied themselves with guns from the arsenal, and fired” (the wretches) “at the French."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the weapons and equipment that a country has.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military structure where arms and ammunition and other military equipment are stored and training is given in the use of arms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was forced to resign from the Service, and offered a choice to either join a penetration team to the Outer Region or work in an arsenal under tight supervision."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At intervals were heaps of green bread-fruit, raised in pyramidical stacks, resembling the regular piles of heavy shot to be seen in the yard of an arsenal."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thiers alone dedicates a few eloquent lines to their memory: “These wretches had occupied the sacred citadel, having supplied themselves with guns from the arsenal, and fired” (the wretches) “at the French."*

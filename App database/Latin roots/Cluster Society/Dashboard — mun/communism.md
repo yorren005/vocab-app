@@ -5,15 +5,6 @@ status: unread
 ---
 # communism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of socialism that abolishes private ownership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political theory favoring collectivism in a classless society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This opinion, or plan, has appeared under a variety of names, the main ones being communism, collectivism, social-democracy, and socialism, of which the last name has just now the greatest vogue."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His own doctrine, first set forth connectedly[17] in the Communist Manifesto in 1848, he called Communism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of socialism that abolishes private ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political theory favoring collectivism in a classless society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This opinion, or plan, has appeared under a variety of names, the main ones being communism, collectivism, social-democracy, and socialism, of which the last name has just now the greatest vogue."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His own doctrine, first set forth connectedly[17] in the Communist Manifesto in 1848, he called Communism."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # condign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitting or appropriate and deserved; used especially of punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fitting or appropriate and deserved; used especially of punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless it were a bloody murderer, Or foul felonious thief that fleeced poor passengers, I never gave them condign punishment."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"It was his opinion that chivalry was an useful institution while confined to its original purposes of protecting the innocent, assisting the friendless, and bringing the guilty to condign punishment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitting or appropriate and deserved; used especially of punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fitting or appropriate and deserved; used especially of punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless it were a bloody murderer, Or foul felonious thief that fleeced poor passengers, I never gave them condign punishment."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"It was his opinion that chivalry was an useful institution while confined to its original purposes of protecting the innocent, assisting the friendless, and bringing the guilty to condign punishment."*

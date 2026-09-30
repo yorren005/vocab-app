@@ -5,13 +5,6 @@ status: unread
 ---
 # periplaneta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of large cockroaches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of large cockroaches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periplaneta designates cosmopolitan genus of large cockroaches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of large cockroaches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of large cockroaches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periplaneta designates cosmopolitan genus of large cockroaches."*

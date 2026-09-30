@@ -5,13 +5,6 @@ status: unread
 ---
 # inhospitableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The environmental condition in a region that lacks a favorable climate or terrain for life or growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an unfriendly and inhospitable disposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhospitableness designates the environmental condition in a region that lacks a favorable climate or terrain for life or growth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The environmental condition in a region that lacks a favorable climate or terrain for life or growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an unfriendly and inhospitable disposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhospitableness designates the environmental condition in a region that lacks a favorable climate or terrain for life or growth."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # relativity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the theory that space and time are relative concepts rather than absolute concepts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being relative and having significance only in relation to something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Grief is a matter of relativity; the sorrow should be estimated by its proportion to the sorrower; a gash is as painful to one as an amputation to another."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This poem is INFORMED throughout with the poet’s iterated doctrine in regard to earth life,--to the relativity of that life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the theory that space and time are relative concepts rather than absolute concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being relative and having significance only in relation to something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Grief is a matter of relativity; the sorrow should be estimated by its proportion to the sorrower; a gash is as painful to one as an amputation to another."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This poem is INFORMED throughout with the poet’s iterated doctrine in regard to earth life,--to the relativity of that life."*

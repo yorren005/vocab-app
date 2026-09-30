@@ -5,14 +5,6 @@ status: unread
 ---
 # uncommunicative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to talk or give information or express opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inclined to talk or give information or express opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The gentleman who saw me was particularly suave in manner, but uncommunicative in equal proportion."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"They will pass through a country, remaining completely uncommunicative and self-wrapped, and know less of it after six months' traveling than an American in two."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to talk or give information or express opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inclined to talk or give information or express opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"The gentleman who saw me was particularly suave in manner, but uncommunicative in equal proportion."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"They will pass through a country, remaining completely uncommunicative and self-wrapped, and know less of it after six months' traveling than an American in two."*

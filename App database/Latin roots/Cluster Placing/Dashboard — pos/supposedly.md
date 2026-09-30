@@ -5,15 +5,6 @@ status: unread
 ---
 # supposedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believed or reputed to be the case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believed or reputed to be the case.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The moment Rafe caught sight of her he began to squall, supposedly like an infant, crying: “Ma-ma!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I read it, read it again, and soon found myself growing stronger; then I kept on reading and was perfectly healed of all the supposedly incurable diseases. - L."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I bought Science and Health and studied it to be able to dispute intelligently with the supposedly deluded followers of Christian Science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believed or reputed to be the case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believed or reputed to be the case.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The moment Rafe caught sight of her he began to squall, supposedly like an infant, crying: “Ma-ma!"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I read it, read it again, and soon found myself growing stronger; then I kept on reading and was perfectly healed of all the supposedly incurable diseases. - L."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I bought Science and Health and studied it to be able to dispute intelligently with the supposedly deluded followers of Christian Science."*

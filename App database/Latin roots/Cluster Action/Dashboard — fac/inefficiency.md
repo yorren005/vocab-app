@@ -5,15 +5,6 @@ status: unread
 ---
 # inefficiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unskillfulness resulting from a lack of efficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unskillfulness resulting from a lack of efficiency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I emerged and tried to work in the chaos of inefficiency of the loom-rooms."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He is a more profound master of inefficiency than the present incumbent, who is merely stupid without being a fool as well."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inefficiency of customary services and the high prices charged by selfish privilege were constant invitations to men to become competitors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unskillfulness resulting from a lack of efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unskillfulness resulting from a lack of efficiency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I emerged and tried to work in the chaos of inefficiency of the loom-rooms."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He is a more profound master of inefficiency than the present incumbent, who is merely stupid without being a fool as well."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inefficiency of customary services and the high prices charged by selfish privilege were constant invitations to men to become competitors."*

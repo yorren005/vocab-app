@@ -5,15 +5,6 @@ status: unread
 ---
 # admiral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme commander of a fleet; ranks above a vice admiral and below a fleet admiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several brightly colored butterflies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ Antoniad, the Egyptian admiral, With all their sixty, fly and turn the rudder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art our admiral, thou bearest the lantern in the poop, but ’tis in the nose of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Lewis, the French King, his sister the Lady Bona, his Admiral called Bourbon, Prince Edward, Queen Margaret, and the Earl of Oxford."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme commander of a fleet; ranks above a vice admiral and below a fleet admiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several brightly colored butterflies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ Antoniad, the Egyptian admiral, With all their sixty, fly and turn the rudder."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art our admiral, thou bearest the lantern in the poop, but ’tis in the nose of thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Lewis, the French King, his sister the Lady Bona, his Admiral called Bourbon, Prince Edward, Queen Margaret, and the Earl of Oxford."*

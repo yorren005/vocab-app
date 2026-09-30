@@ -5,13 +5,6 @@ status: unread
 ---
 # trichloroethylene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloroethylene designates a heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloroethylene designates a heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage."*

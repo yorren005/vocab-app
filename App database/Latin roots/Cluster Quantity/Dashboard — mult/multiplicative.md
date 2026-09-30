@@ -5,13 +5,6 @@ status: unread
 ---
 # multiplicative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or having the power to multiply or increase in number or quantity or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to multiply or increase in number or quantity or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicative designates tending or having the power to multiply or increase in number or quantity or degree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or having the power to multiply or increase in number or quantity or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to multiply or increase in number or quantity or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicative designates tending or having the power to multiply or increase in number or quantity or degree."*

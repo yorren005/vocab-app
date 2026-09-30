@@ -5,13 +5,6 @@ status: unread
 ---
 # impeller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The blade of a rotor (as in the compressor of a jet engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blade of a rotor (as in the compressor of a jet engine).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impeller designates the blade of a rotor (as in the compressor of a jet engine)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The blade of a rotor (as in the compressor of a jet engine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blade of a rotor (as in the compressor of a jet engine).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impeller designates the blade of a rotor (as in the compressor of a jet engine)."*

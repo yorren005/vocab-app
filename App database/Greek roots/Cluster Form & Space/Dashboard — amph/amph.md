@@ -5,13 +5,6 @@ status: unread
 ---
 # amph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On both sides : of both kinds : both.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On both sides : of both kinds : both.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amph designates on both sides : of both kinds : both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On both sides : of both kinds : both.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On both sides : of both kinds : both.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amph designates on both sides : of both kinds : both."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # levirate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levirate designates the biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levirate designates the biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # catalytically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By catalytic action; in a catalytic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By catalytic action; in a catalytic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalytically designates by catalytic action; in a catalytic manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By catalytic action; in a catalytic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By catalytic action; in a catalytic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalytically designates by catalytic action; in a catalytic manner."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # vindicator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who argues to defend or justify some policy or institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who argues to defend or justify some policy or institution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Paul, once, on the spur of the moment, called Jesus the "Yes" of all the promises of God--a most suggestive name for the vindicator and exponent of God's realities."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Not his to play the divine part of vindicator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who argues to defend or justify some policy or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who argues to defend or justify some policy or institution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Paul, once, on the spur of the moment, called Jesus the "Yes" of all the promises of God--a most suggestive name for the vindicator and exponent of God's realities."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Not his to play the divine part of vindicator."*

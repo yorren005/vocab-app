@@ -5,15 +5,6 @@ status: unread
 ---
 # granted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Let have.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give as judged due or on the basis of merit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SOLDIER. _Acordo linta._ Come on; thou art granted space. [_Exit, with Parolles guarded._] A short alarum within."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which soon he granted, Being an abstract ’tween his lust and him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord of his fortunes he salutes thee, and Requires to live in Egypt, which not granted, He lessens his requests, and to thee sues To let him breathe between the heavens and earth, A private man in Athens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Let have.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give as judged due or on the basis of merit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SOLDIER. _Acordo linta._ Come on; thou art granted space. [_Exit, with Parolles guarded._] A short alarum within."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which soon he granted, Being an abstract ’tween his lust and him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord of his fortunes he salutes thee, and Requires to live in Egypt, which not granted, He lessens his requests, and to thee sues To let him breathe between the heavens and earth, A private man in Athens."*

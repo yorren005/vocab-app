@@ -5,13 +5,6 @@ status: unread
 ---
 # nonmilitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not associated with soldiers or the military.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated with soldiers or the military.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The intrusion of Pierre’s nonmilitary figure in a white hat made an unpleasant impression at first."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not associated with soldiers or the military.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated with soldiers or the military.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The intrusion of Pierre’s nonmilitary figure in a white hat made an unpleasant impression at first."*

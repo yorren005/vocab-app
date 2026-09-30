@@ -5,13 +5,6 @@ status: unread
 ---
 # flory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states chemist who developed methods for studying long-chain molecules (1910-1985).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states chemist who developed methods for studying long-chain molecules (1910-1985).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flory designates united states chemist who developed methods for studying long-chain molecules (1910-1985)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states chemist who developed methods for studying long-chain molecules (1910-1985).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states chemist who developed methods for studying long-chain molecules (1910-1985).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flory designates united states chemist who developed methods for studying long-chain molecules (1910-1985)."*

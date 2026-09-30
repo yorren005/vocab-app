@@ -5,15 +5,6 @@ status: unread
 ---
 # prospective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with or related to the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with or related to the future.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is in some respects more searching than a tax on actual rents, for it reaches the prospective, or speculative, rental. (d) Taxes may be on _expenditure_ (sometimes called taxes on consumption)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A good deal of our farm land is undoubtedly too intensively used now in view of present and prospective commodity prices and wages."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Even a prospective brother-in-law may be an oppression if he will always be presupposing too good an understanding with you, and agreeing with you even when you contradict him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with or related to the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with or related to the future.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is in some respects more searching than a tax on actual rents, for it reaches the prospective, or speculative, rental. (d) Taxes may be on _expenditure_ (sometimes called taxes on consumption)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A good deal of our farm land is undoubtedly too intensively used now in view of present and prospective commodity prices and wages."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Even a prospective brother-in-law may be an oppression if he will always be presupposing too good an understanding with you, and agreeing with you even when you contradict him."*

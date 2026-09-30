@@ -5,15 +5,6 @@ status: unread
 ---
 # relation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstraction belonging to or characteristic of two entities or parts together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing Which you might from relation likewise reap, Being, as it is, much spoke of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, relation Too nice, and yet too true!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the intent and purpose of the law Hath full relation to the penalty, Which here appeareth due upon the bond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstraction belonging to or characteristic of two entities or parts together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing Which you might from relation likewise reap, Being, as it is, much spoke of."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, relation Too nice, and yet too true!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the intent and purpose of the law Hath full relation to the penalty, Which here appeareth due upon the bond."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # average
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statistic describing the location of a distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) the ratio of successful performances to opportunities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably some one man on an average falls in love with each ordinary woman."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The wheat when threshed would average about thirty quarters to each stack; the barley, at least forty."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The banded ones were all dressed in white gowns—a gay survival from Old Style days, when cheerfulness and May-time were synonyms—days before the habit of taking long views had reduced emotions to a monotonous average."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statistic describing the location of a distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) the ratio of successful performances to opportunities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably some one man on an average falls in love with each ordinary woman."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The wheat when threshed would average about thirty quarters to each stack; the barley, at least forty."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The banded ones were all dressed in white gowns—a gay survival from Old Style days, when cheerfulness and May-time were synonyms—days before the habit of taking long views had reduced emotions to a monotonous average."*

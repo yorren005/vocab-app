@@ -5,13 +5,6 @@ status: unread
 ---
 # unjustifiably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any excuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any excuse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is repugnant to the creed of Democracy that by such taxation the cost of the necessaries of life should be unjustifiably increased to all our people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any excuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any excuse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is repugnant to the creed of Democracy that by such taxation the cost of the necessaries of life should be unjustifiably increased to all our people."*

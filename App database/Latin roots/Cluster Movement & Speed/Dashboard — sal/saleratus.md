@@ -5,13 +5,6 @@ status: unread
 ---
 # saleratus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saleratus designates a white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saleratus designates a white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid."*

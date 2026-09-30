@@ -5,13 +5,6 @@ status: unread
 ---
 # dialectology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of dialect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of data available for study of a dialect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialectology designates the systematic study of dialect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of dialect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of data available for study of a dialect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialectology designates the systematic study of dialect."*

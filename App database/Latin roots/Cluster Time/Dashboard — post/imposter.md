@@ -5,15 +5,6 @@ status: unread
 ---
 # imposter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He looked upon her as a species of imposter; a guilty woman in the guise of an innocent one."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thrown away, I suppose, by some tramp or other.” “Some imposter who wished to come into the town barefoot, perhaps, and so excite our sympathies,” said Miss Chant."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"In the street—I don’t know why—a queer feeling came to me that I was an imposter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He looked upon her as a species of imposter; a guilty woman in the guise of an innocent one."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thrown away, I suppose, by some tramp or other.” “Some imposter who wished to come into the town barefoot, perhaps, and so excite our sympathies,” said Miss Chant."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"In the street—I don’t know why—a queer feeling came to me that I was an imposter."*

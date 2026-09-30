@@ -5,15 +5,6 @@ status: unread
 ---
 # delicately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a delicate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a delicate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa had to agree with her brother who had said that she had her mother's large, speaking eyes, the same soft brown curls, and the same serious expression on her delicately shaped little face."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I told Richard of my having this little store and having no present need of it, and I asked him delicately to inform Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His compliments were so delicately administered that I blushed less than I might have done and settled with the stranger in the white coat without making any mistakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a delicate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a delicate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa had to agree with her brother who had said that she had her mother's large, speaking eyes, the same soft brown curls, and the same serious expression on her delicately shaped little face."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I told Richard of my having this little store and having no present need of it, and I asked him delicately to inform Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His compliments were so delicately administered that I blushed less than I might have done and settled with the stranger in the white coat without making any mistakes."*

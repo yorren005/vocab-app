@@ -5,15 +5,6 @@ status: unread
 ---
 # judicature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly (including one or more judges) to conduct judicial business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In unfolding the defects of the existing Confederation, the utility and necessity of a federal judicature have been clearly pointed out."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: To judge with accuracy of the proper extent of the federal judicature, it will be necessary to consider, in the first place, what are its proper objects."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These have been already explained to belong to the fourth of the enumerated classes, and have been shown to be, in a peculiar manner, the proper subjects of the national judicature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly (including one or more judges) to conduct judicial business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In unfolding the defects of the existing Confederation, the utility and necessity of a federal judicature have been clearly pointed out."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: To judge with accuracy of the proper extent of the federal judicature, it will be necessary to consider, in the first place, what are its proper objects."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These have been already explained to belong to the fourth of the enumerated classes, and have been shown to be, in a peculiar manner, the proper subjects of the national judicature."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # galaxy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Milky way galaxy —used with the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the very large groups of stars and associated matter that are found throughout the universe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To be informed what the Galaxy Gallery of British Beauty is about, and means to be about, and what Galaxy marriages are on the tapis, and what Galaxy rumours are in circulation, is to become acquainted with the most glorious destinies of mankind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle reverts from this intelligence to the Galaxy portraits implicated, and seems to know the originals, and to be known of them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy is engaged in collecting the Galaxy Gallery of British Beauty from the wall and depositing those works of art in their old ignoble band-box."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Milky way galaxy —used with the.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the very large groups of stars and associated matter that are found throughout the universe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"To be informed what the Galaxy Gallery of British Beauty is about, and means to be about, and what Galaxy marriages are on the tapis, and what Galaxy rumours are in circulation, is to become acquainted with the most glorious destinies of mankind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle reverts from this intelligence to the Galaxy portraits implicated, and seems to know the originals, and to be known of them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy is engaged in collecting the Galaxy Gallery of British Beauty from the wall and depositing those works of art in their old ignoble band-box."*

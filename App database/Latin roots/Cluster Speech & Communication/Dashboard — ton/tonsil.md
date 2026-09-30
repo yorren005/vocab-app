@@ -5,13 +5,6 @@ status: unread
 ---
 # tonsil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two masses of lymphatic tissue one on each side of the oral pharynx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two masses of lymphatic tissue one on each side of the oral pharynx.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For swollen glands the god told me to use a cold gargle, when I consulted him about it, and he ordered the same treatment for inflamed tonsils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two masses of lymphatic tissue one on each side of the oral pharynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two masses of lymphatic tissue one on each side of the oral pharynx.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For swollen glands the god told me to use a cold gargle, when I consulted him about it, and he ordered the same treatment for inflamed tonsils."*

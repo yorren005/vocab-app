@@ -5,15 +5,6 @@ status: unread
 ---
 # mischief
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or nature of being harmful or evil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, this is miching mallecho; it means mischief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cares not what mischief he does, if his weapon be out, he will foin like any devil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or nature of being harmful or evil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, this is miching mallecho; it means mischief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cares not what mischief he does, if his weapon be out, he will foin like any devil."*

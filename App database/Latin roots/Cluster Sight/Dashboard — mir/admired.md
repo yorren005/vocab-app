@@ -5,15 +5,6 @@ status: unread
 ---
 # admired
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel admiration for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with admiration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom everything becomes—to chide, to laugh, To weep; whose every passion fully strives To make itself, in thee fair and admired!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel admiration for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with admiration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom everything becomes—to chide, to laugh, To weep; whose every passion fully strives To make itself, in thee fair and admired!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*

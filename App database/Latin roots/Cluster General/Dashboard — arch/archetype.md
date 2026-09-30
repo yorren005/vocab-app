@@ -5,13 +5,6 @@ status: unread
 ---
 # archetype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a model or a basis for making copies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that serves as a model or a basis for making copies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetype designates something that serves as a model or a basis for making copies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a model or a basis for making copies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that serves as a model or a basis for making copies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetype designates something that serves as a model or a basis for making copies."*

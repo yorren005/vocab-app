@@ -5,13 +5,6 @@ status: unread
 ---
 # rhinostenosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowing of the passages in the nasal cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrowing of the passages in the nasal cavities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinostenosis designates narrowing of the passages in the nasal cavities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowing of the passages in the nasal cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrowing of the passages in the nasal cavities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinostenosis designates narrowing of the passages in the nasal cavities."*

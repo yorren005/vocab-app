@@ -5,15 +5,6 @@ status: unread
 ---
 # equanimity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadiness of mind under stress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn with his usual equanimity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, she had hardly recovered her equanimity since the disturbance which she had suffered from Oak’s remarks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadiness of mind under stress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn with his usual equanimity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, she had hardly recovered her equanimity since the disturbance which she had suffered from Oak’s remarks."*

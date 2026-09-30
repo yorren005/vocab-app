@@ -5,13 +5,6 @@ status: unread
 ---
 # caning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work made of interlaced slender branches (especially willow branches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beat with a cane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caning designates work made of interlaced slender branches (especially willow branches)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work made of interlaced slender branches (especially willow branches).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beat with a cane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caning designates work made of interlaced slender branches (especially willow branches)."*

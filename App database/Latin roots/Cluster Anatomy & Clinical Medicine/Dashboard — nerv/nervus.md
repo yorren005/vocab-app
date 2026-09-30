@@ -5,13 +5,6 @@ status: unread
 ---
 # nervus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bundle of nerve fibers running to various organs and tissues of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any bundle of nerve fibers running to various organs and tissues of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervus designates any bundle of nerve fibers running to various organs and tissues of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bundle of nerve fibers running to various organs and tissues of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any bundle of nerve fibers running to various organs and tissues of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervus designates any bundle of nerve fibers running to various organs and tissues of the body."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deliciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme appetizingness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme appetizingness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sweetest honey Is loathsome in his own deliciousness, And in the taste confounds the appetite."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This particular sea-cuny, I admit, blushed through his sea tan till the Lady Om’s eyes were twin pools of roguishness in their teasing deliciousness and my arms were all but about her."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And eternal delight and deliciousness will be his, who coming to lay him down, can say with his final breath—O Father!—chiefly known to me by Thy rod—mortal or immortal, here I die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme appetizingness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme appetizingness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sweetest honey Is loathsome in his own deliciousness, And in the taste confounds the appetite."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This particular sea-cuny, I admit, blushed through his sea tan till the Lady Om’s eyes were twin pools of roguishness in their teasing deliciousness and my arms were all but about her."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And eternal delight and deliciousness will be his, who coming to lay him down, can say with his final breath—O Father!—chiefly known to me by Thy rod—mortal or immortal, here I die."*

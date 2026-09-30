@@ -5,15 +5,6 @@ status: unread
 ---
 # nebulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking definite form or limits; - h.t.moore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a nebula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bustling swarm had swept the sky in a scattered and uniform haze, which now thickened to a nebulous centre: this glided on to a bough and grew still denser, till it formed a solid black spot upon the light."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the autumn sun slanted over Greenhill this morning and lighted the dewy flat upon its crest, nebulous clouds of dust were to be seen floating between the pairs of hedges which streaked the wide prospect around in all directions."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nevertheless, something nebulous, preoccupied, vague, in his bearing and regard, marked him as one who probably had no very definite aim or concern about his material future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking definite form or limits; - h.t.moore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a nebula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bustling swarm had swept the sky in a scattered and uniform haze, which now thickened to a nebulous centre: this glided on to a bough and grew still denser, till it formed a solid black spot upon the light."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the autumn sun slanted over Greenhill this morning and lighted the dewy flat upon its crest, nebulous clouds of dust were to be seen floating between the pairs of hedges which streaked the wide prospect around in all directions."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nevertheless, something nebulous, preoccupied, vague, in his bearing and regard, marked him as one who probably had no very definite aim or concern about his material future."*

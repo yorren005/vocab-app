@@ -5,15 +5,6 @@ status: unread
 ---
 # electric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or operated by electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exciting as if by electric shock; also : charged with strong emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The effect upon her old lover was electric, far stronger than the effect of his presence upon her."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She planned to take electric treatment, though not very hopeful about the result."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Those portions which struck me, if in ordinary times had been given me from an electric battery in a school-room, a shock with sparks only one-hundredth the size, would have killed me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or operated by electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exciting as if by electric shock; also : charged with strong emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The effect upon her old lover was electric, far stronger than the effect of his presence upon her."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She planned to take electric treatment, though not very hopeful about the result."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Those portions which struck me, if in ordinary times had been given me from an electric battery in a school-room, a shock with sparks only one-hundredth the size, would have killed me."*

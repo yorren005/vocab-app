@@ -5,14 +5,6 @@ status: unread
 ---
 # analogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is similar or comparable to something else either in general or in some specific detail : something that is analogous to something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ or part similar in function to an organ or part of another animal or plant but different in structure and origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As for the black Ting, the nearest analogue to that which I can quote is the vases with black or brown black glaze belonging to the Tz´ŭ Chou class."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"All of the Canterbury Tales have originals or analogues, most of which have been reproduced by the London Chaucer Society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is similar or comparable to something else either in general or in some specific detail : something that is analogous to something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ or part similar in function to an organ or part of another animal or plant but different in structure and origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As for the black Ting, the nearest analogue to that which I can quote is the vases with black or brown black glaze belonging to the Tz´ŭ Chou class."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"All of the Canterbury Tales have originals or analogues, most of which have been reproduced by the London Chaucer Society."*

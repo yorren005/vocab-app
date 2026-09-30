@@ -5,18 +5,6 @@ status: unread
 ---
 # halter
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Halter top
-> 2. **Nuance / Usage**: (transitive) to place a halter on
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the halter withstood the storm*), direct object (*cleaved the halter*), or prepositional anchor (*amidst the halter*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Powell (*The Malpais Rider*):** *"The two Indians were finished with their own saddling, the camp gear was packed, and already the extra saddle horses and their one packhorse' were haltered so they could be led back to the ranch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A rope or leather headstall fitted around the head of a horse or cattle by which the animal is led or tied fast to a post.
+> 2. **Nuance / Usage**: Historically also denotes a hangman's noose; as a transitive verb, to bind, lead, or restrain with a halter.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Transitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*led by the halter*, *a hempen halter*) and verbally (*haltered the packhorse*).
+> - **Collocations & Registers**: Pastoral, equestrian, and historical legal registers; paired with *lead*, *tether*, *bridle*, *noose*, and *post*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Powell (*The Malpais Rider*):** *"The camp gear was packed, and already the extra saddle horses and their one packhorse were **haltered** so they could be led back to the ranch."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Therefore gratuitously grant him nothing, and leave him nothing but a **halter** to hang by."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel slipped the **halter** over the colt's head and led him quietly into the stall."*

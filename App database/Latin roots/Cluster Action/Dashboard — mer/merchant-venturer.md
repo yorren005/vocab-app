@@ -5,13 +5,6 @@ status: unread
 ---
 # merchant-venturer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchant-venturer designates a merchant who undertakes a trading venture (especially a venture that sends goods overseas)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchant-venturer designates a merchant who undertakes a trading venture (especially a venture that sends goods overseas)."*

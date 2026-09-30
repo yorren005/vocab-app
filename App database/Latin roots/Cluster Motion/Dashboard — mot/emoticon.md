@@ -5,13 +5,6 @@ status: unread
 ---
 # emoticon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emoticon designates a representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emoticon designates a representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email."*

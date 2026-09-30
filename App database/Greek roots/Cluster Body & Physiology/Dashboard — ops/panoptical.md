@@ -5,13 +5,6 @@ status: unread
 ---
 # panoptical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Including everything visible in one view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including everything visible in one view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panoptical designates including everything visible in one view."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Including everything visible in one view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including everything visible in one view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panoptical designates including everything visible in one view."*

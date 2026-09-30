@@ -5,15 +5,6 @@ status: unread
 ---
 # fixture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An object firmly fixed in place (especially in a household).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semi-circled farthingale."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Frights, changes, horrors, Divert and crack, rend and deracinate, The unity and married calm of states Quite from their fixture!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fixture of her eye has motion in ’t, As we are mock’d with art."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object firmly fixed in place (especially in a household).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semi-circled farthingale."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Frights, changes, horrors, Divert and crack, rend and deracinate, The unity and married calm of states Quite from their fixture!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fixture of her eye has motion in ’t, As we are mock’d with art."*

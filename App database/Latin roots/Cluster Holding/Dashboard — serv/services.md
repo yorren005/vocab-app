@@ -5,15 +5,6 @@ status: unread
 ---
 # services
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Performance of duties or provision of space and equipment helpful to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work done by one person or group that benefits another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, queen: The strong necessity of time commands Our services awhile, but my full heart Remains in use with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it at once, Or thy precedent services are all But accidents unpurposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performance of duties or provision of space and equipment helpful to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work done by one person or group that benefits another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, queen: The strong necessity of time commands Our services awhile, but my full heart Remains in use with you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it at once, Or thy precedent services are all But accidents unpurposed."*

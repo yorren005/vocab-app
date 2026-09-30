@@ -5,13 +5,6 @@ status: unread
 ---
 # overcurious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing excessive curiosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing excessive curiosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The second question is not less delicate; and the flattering prospect of its being merely hypothetical forbids an overcurious discussion of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing excessive curiosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing excessive curiosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The second question is not less delicate; and the flattering prospect of its being merely hypothetical forbids an overcurious discussion of it."*

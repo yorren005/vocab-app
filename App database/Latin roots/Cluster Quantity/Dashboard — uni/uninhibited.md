@@ -5,13 +5,6 @@ status: unread
 ---
 # uninhibited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inhibited or restrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inhibited or restrained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninhibited designates not inhibited or restrained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inhibited or restrained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inhibited or restrained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninhibited designates not inhibited or restrained."*

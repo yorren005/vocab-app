@@ -5,15 +5,6 @@ status: unread
 ---
 # negress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A black woman or girl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black woman or girl.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was ten o’clock at night before we ventured to creep in again, and then she asked Joe why he hadn’t married a Negress Slave at once?"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"So, meeting, on her way to the breakfast-room, the old negress who had been given charge of Miss Deane through the night, she stopped her, and asked how her patient was."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here the two negress servants, clean, efficient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A black woman or girl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black woman or girl.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was ten o’clock at night before we ventured to creep in again, and then she asked Joe why he hadn’t married a Negress Slave at once?"*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"So, meeting, on her way to the breakfast-room, the old negress who had been given charge of Miss Deane through the night, she stopped her, and asked how her patient was."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here the two negress servants, clean, efficient."*

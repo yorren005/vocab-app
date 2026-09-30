@@ -5,13 +5,6 @@ status: unread
 ---
 # xylem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylem designates the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylem designates the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # undercover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducted with or marked by hidden aims or methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducted with or marked by hidden aims or methods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercover designates conducted with or marked by hidden aims or methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducted with or marked by hidden aims or methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducted with or marked by hidden aims or methods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercover designates conducted with or marked by hidden aims or methods."*

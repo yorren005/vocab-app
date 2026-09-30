@@ -5,13 +5,6 @@ status: unread
 ---
 # serendipitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lucky in making unexpected and fortunate discoveries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lucky in making unexpected and fortunate discoveries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serendipitous designates lucky in making unexpected and fortunate discoveries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lucky in making unexpected and fortunate discoveries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lucky in making unexpected and fortunate discoveries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serendipitous designates lucky in making unexpected and fortunate discoveries."*

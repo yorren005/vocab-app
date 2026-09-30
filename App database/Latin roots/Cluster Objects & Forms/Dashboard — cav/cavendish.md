@@ -5,15 +5,6 @@ status: unread
 ---
 # cavendish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British chemist and physicist who established that water is a compound of hydrogen and oxygen and who calculated the density of the earth (1731-1810).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British chemist and physicist who established that water is a compound of hydrogen and oxygen and who calculated the density of the earth (1731-1810).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It comprised _Driver's Complete Farriery_, _The Heather Lintie_, (poems), a book of sermons with the title _In Hoc Signo_--or something like that--_Markham's Complete Housewife, Cavendish on Whist_, and two huge volumes of _Pinkerton's Voyages_."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"To make the story complete we need to go back to the time of Priestly and Cavendish, early in last century."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"This drawer I beg of you to carry back with you to Cavendish Square exactly as it stands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British chemist and physicist who established that water is a compound of hydrogen and oxygen and who calculated the density of the earth (1731-1810).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British chemist and physicist who established that water is a compound of hydrogen and oxygen and who calculated the density of the earth (1731-1810).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It comprised _Driver's Complete Farriery_, _The Heather Lintie_, (poems), a book of sermons with the title _In Hoc Signo_--or something like that--_Markham's Complete Housewife, Cavendish on Whist_, and two huge volumes of _Pinkerton's Voyages_."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"To make the story complete we need to go back to the time of Priestly and Cavendish, early in last century."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"This drawer I beg of you to carry back with you to Cavendish Square exactly as it stands."*

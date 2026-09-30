@@ -5,15 +5,6 @@ status: unread
 ---
 # volubility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being facile in speech and writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being facile in speech and writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with great volubility after the first salutations, “are my five boys."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Had Lydia and her mother known the substance of her conference with her father, their indignation would hardly have found expression in their united volubility."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris was all delight and volubility; and even Fanny had something to say in admiration, and might be heard with complacency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being facile in speech and writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being facile in speech and writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with great volubility after the first salutations, “are my five boys."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Had Lydia and her mother known the substance of her conference with her father, their indignation would hardly have found expression in their united volubility."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris was all delight and volubility; and even Fanny had something to say in admiration, and might be heard with complacency."*

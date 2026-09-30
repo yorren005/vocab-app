@@ -5,15 +5,6 @@ status: unread
 ---
 # transpire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through the tissue or substance or its pores or interstices, as of gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exude water vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She did not learn either to forget or defend the past; but she learned to hope that it would never transpire farther, and that it might not cost her Henry’s entire regard."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that, through their zeal for him, they had all conspired, so far as in them lay, to muffle up the knowledge of this thing from others; and hence it was, that not till a considerable interval had elapsed, did it transpire upon the Pequod’s decks."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that, through their zeal for him, they had all conspired, so far as in them lay, to muffle up the knowledge of this thing from others; and hence it was, that not till a considerable interval had elapsed, did it transpire upon the Pequod’s decks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through the tissue or substance or its pores or interstices, as of gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exude water vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She did not learn either to forget or defend the past; but she learned to hope that it would never transpire farther, and that it might not cost her Henry’s entire regard."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that, through their zeal for him, they had all conspired, so far as in them lay, to muffle up the knowledge of this thing from others; and hence it was, that not till a considerable interval had elapsed, did it transpire upon the Pequod’s decks."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that, through their zeal for him, they had all conspired, so far as in them lay, to muffle up the knowledge of this thing from others; and hence it was, that not till a considerable interval had elapsed, did it transpire upon the Pequod’s decks."*

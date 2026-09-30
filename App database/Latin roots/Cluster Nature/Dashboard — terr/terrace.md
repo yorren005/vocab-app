@@ -5,15 +5,6 @@ status: unread
 ---
 # terrace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually paved outdoor area adjoining a residence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A level shelf of land interrupting a declivity (with steep slopes above and below).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King, Queen and Somerset on the terrace, aloft."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno strode up and down the terrace with flaming eyes whole hours at a time, without saying a word."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Wildenstein ghost might otherwise step up to us, if he walks around the terrace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually paved outdoor area adjoining a residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A level shelf of land interrupting a declivity (with steep slopes above and below).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King, Queen and Somerset on the terrace, aloft."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno strode up and down the terrace with flaming eyes whole hours at a time, without saying a word."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Wildenstein ghost might otherwise step up to us, if he walks around the terrace."*

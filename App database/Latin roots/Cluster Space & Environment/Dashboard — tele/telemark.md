@@ -5,13 +5,6 @@ status: unread
 ---
 # telemark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemark designates a turn made in skiing; the outside ski is placed ahead and turned gradually inwards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemark designates a turn made in skiing; the outside ski is placed ahead and turned gradually inwards."*

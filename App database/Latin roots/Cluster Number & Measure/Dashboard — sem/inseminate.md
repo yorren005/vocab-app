@@ -5,13 +5,6 @@ status: unread
 ---
 # inseminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place seeds in or on (the ground).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce semen into (a female).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inseminate designates place seeds in or on (the ground)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place seeds in or on (the ground).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce semen into (a female).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inseminate designates place seeds in or on (the ground)."*

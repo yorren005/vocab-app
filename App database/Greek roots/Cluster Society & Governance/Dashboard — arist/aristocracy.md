@@ -5,15 +5,6 @@ status: unread
 ---
 # aristocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the best individuals or by a small privileged class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government in which power is vested in a minority consisting of those believed to be best qualified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He fully believes he is one of the aristocracy!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It were in vain longer to conceal from you, Tony, that between myself and one of the members of a swan-like aristocracy whom I now hold in my hand, there has been undivulged communication and association."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here was I thinking you a new-sprung child of nature; there were you, the belated seedling of an effete aristocracy!” “Lots of families are as bad as mine in that!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the best individuals or by a small privileged class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government in which power is vested in a minority consisting of those believed to be best qualified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He fully believes he is one of the aristocracy!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It were in vain longer to conceal from you, Tony, that between myself and one of the members of a swan-like aristocracy whom I now hold in my hand, there has been undivulged communication and association."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here was I thinking you a new-sprung child of nature; there were you, the belated seedling of an effete aristocracy!” “Lots of families are as bad as mine in that!"*

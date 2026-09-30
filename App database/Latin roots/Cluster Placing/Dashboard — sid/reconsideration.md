@@ -5,15 +5,6 @@ status: unread
 ---
 # reconsideration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consideration of a topic (as in a meeting) with a view to changing an earlier decision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thinking again about a choice previously made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A petition was addressed to the Home Secretary, advancing the circumstances which appeared to justify a request for a reconsideration of the sentence."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In one way and another these questions were answered, but rapidly changing conditions soon forced upon men the reconsideration of the problem as the old solution ceased to be satisfactory."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Claims on me are numerous, but on reconsideration, I esteem it right that I should incur a small sacrifice rather than leave you unaided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consideration of a topic (as in a meeting) with a view to changing an earlier decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thinking again about a choice previously made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A petition was addressed to the Home Secretary, advancing the circumstances which appeared to justify a request for a reconsideration of the sentence."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In one way and another these questions were answered, but rapidly changing conditions soon forced upon men the reconsideration of the problem as the old solution ceased to be satisfactory."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Claims on me are numerous, but on reconsideration, I esteem it right that I should incur a small sacrifice rather than leave you unaided."*

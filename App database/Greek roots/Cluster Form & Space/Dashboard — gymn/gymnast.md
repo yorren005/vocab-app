@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained in gymnastics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person trained in gymnastics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He had received the better part of his education at Harvard College, where, however, he had gained renown rather as a gymnast and an oarsman than as a gleaner of more dispersed knowledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained in gymnastics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person trained in gymnastics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He had received the better part of his education at Harvard College, where, however, he had gained renown rather as a gymnast and an oarsman than as a gleaner of more dispersed knowledge."*

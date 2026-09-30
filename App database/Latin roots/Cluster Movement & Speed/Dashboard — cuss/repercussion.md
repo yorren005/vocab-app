@@ -5,15 +5,6 @@ status: unread
 ---
 # repercussion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remote or indirect consequence of some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement back from an impact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There are no rules." "Repercussions?" "Whatever happens to him will be outside accepted protocols, and will occur prior to his arrival at the President's Official Residence."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Furthermore, a wide-spread campaign of publicity was initiated in expectation that its repercussions would exert a restraining influence on the perpetrators of these monstrous acts."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have only known existence by the pressure of the heavy hand of sickness, and have counted time by the repercussions of pain!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remote or indirect consequence of some action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement back from an impact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There are no rules." "Repercussions?" "Whatever happens to him will be outside accepted protocols, and will occur prior to his arrival at the President's Official Residence."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Furthermore, a wide-spread campaign of publicity was initiated in expectation that its repercussions would exert a restraining influence on the perpetrators of these monstrous acts."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have only known existence by the pressure of the heavy hand of sickness, and have counted time by the repercussions of pain!"*

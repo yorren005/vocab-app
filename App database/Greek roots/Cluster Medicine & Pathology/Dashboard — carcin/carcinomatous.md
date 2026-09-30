@@ -5,13 +5,6 @@ status: unread
 ---
 # carcinomatous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to carcinoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to carcinoma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinomatous designates being or relating to carcinoma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to carcinoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to carcinoma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinomatous designates being or relating to carcinoma."*

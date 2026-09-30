@@ -5,15 +5,6 @@ status: unread
 ---
 # decided
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reach, make, or come to a decision about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am doing the right thing," said Mäzli now in the most decided tone."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So they had decided to find a good boarding place for the three boys together, as Bruno would naturally join them in order that they could remain together."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo is right," the uncle decided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reach, make, or come to a decision about something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am doing the right thing," said Mäzli now in the most decided tone."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So they had decided to find a good boarding place for the three boys together, as Bruno would naturally join them in order that they could remain together."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo is right," the uncle decided."*

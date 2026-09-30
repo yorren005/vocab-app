@@ -5,13 +5,6 @@ status: unread
 ---
 # entombment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual placing of a corpse in a grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ritual placing of a corpse in a grave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I would protract the moment of the sun's entombment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual placing of a corpse in a grave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ritual placing of a corpse in a grave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"I would protract the moment of the sun's entombment."*

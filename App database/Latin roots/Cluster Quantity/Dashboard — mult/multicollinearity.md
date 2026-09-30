@@ -5,13 +5,6 @@ status: unread
 ---
 # multicollinearity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A case of multiple regression in which the predictor variables are themselves highly correlated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A case of multiple regression in which the predictor variables are themselves highly correlated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multicollinearity designates a case of multiple regression in which the predictor variables are themselves highly correlated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A case of multiple regression in which the predictor variables are themselves highly correlated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A case of multiple regression in which the predictor variables are themselves highly correlated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multicollinearity designates a case of multiple regression in which the predictor variables are themselves highly correlated."*

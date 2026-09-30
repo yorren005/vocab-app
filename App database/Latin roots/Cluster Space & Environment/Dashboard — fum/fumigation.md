@@ -5,15 +5,6 @@ status: unread
 ---
 # fumigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of a gas or smoke to something for the purpose of disinfecting it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a gas or smoke to something for the purpose of disinfecting it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But in some parts of Morocco people at midsummer kindle fires of a different sort, not for the sake of fumigation, but in order to burn up misfortune in the flames."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fumigation of the byres with juniper is a charm against witchcraft."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I am not acquainted with the process which is in use, but believe that fumigation is the principal agency employed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of a gas or smoke to something for the purpose of disinfecting it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a gas or smoke to something for the purpose of disinfecting it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But in some parts of Morocco people at midsummer kindle fires of a different sort, not for the sake of fumigation, but in order to burn up misfortune in the flames."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fumigation of the byres with juniper is a charm against witchcraft."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I am not acquainted with the process which is in use, but believe that fumigation is the principal agency employed."*

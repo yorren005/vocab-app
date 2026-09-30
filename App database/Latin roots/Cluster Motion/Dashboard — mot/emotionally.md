@@ -5,15 +5,6 @@ status: unread
 ---
 # emotionally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an emotional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were both young, and they were talking of the time when they lived and loved together at Talbothays Dairy, that happy green tract of land where summer had been liberal in her gifts; in substance to all, emotionally to these."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's general characteristic, emotionally considered, was an unusual predominance of the higher sentiments,--a predominance which tended, perhaps, both in theory and practice, to subordinate the lower nature unduly."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She might--anything was possible--be in some deep subtle thought, into which, if he asked, he might get enmeshed, or be trapped emotionally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an emotional manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were both young, and they were talking of the time when they lived and loved together at Talbothays Dairy, that happy green tract of land where summer had been liberal in her gifts; in substance to all, emotionally to these."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's general characteristic, emotionally considered, was an unusual predominance of the higher sentiments,--a predominance which tended, perhaps, both in theory and practice, to subordinate the lower nature unduly."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She might--anything was possible--be in some deep subtle thought, into which, if he asked, he might get enmeshed, or be trapped emotionally."*

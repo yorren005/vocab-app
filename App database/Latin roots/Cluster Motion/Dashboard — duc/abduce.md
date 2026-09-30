@@ -5,13 +5,6 @@ status: unread
 ---
 # abduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advance evidence for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance evidence for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abduce designates advance evidence for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advance evidence for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance evidence for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abduce designates advance evidence for."*

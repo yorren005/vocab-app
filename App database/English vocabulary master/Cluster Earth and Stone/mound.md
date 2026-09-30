@@ -5,20 +5,6 @@ status: unread
 ---
 # mound
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rounded hill or natural formation
-> 2. **Nuance / Usage**: The slightly elevated ground on which a baseball pitcher stands
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"the Shevárdino mound to observe the enemy."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"rode away from the mound and disappeared."*
-> - 📜 **Rick Hansen (*Leadership and The Art of Surfing*):** *"When a wave mounds on the outside and takes its shape, a surfer quickly paddles to the peak, positions himself in its evolving momentum, swings his board around, aligns with the peak, and thrusts himself into its cascading shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Rounded hill or natural formation
+> 2. **Nuance / Usage**: The slightly elevated ground on which a baseball pitcher stands
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"the Shevárdino mound to observe the enemy."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"rode away from the mound and disappeared."*
+> - 📜 **Rick Hansen (*Leadership and The Art of Surfing*):** *"When a wave mounds on the outside and takes its shape, a surfer quickly paddles to the peak, positions himself in its evolving momentum, swings his board around, aligns with the peak, and thrusts himself into its cascading shape."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # diarrhea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally frequent intestinal evacuations with more or less fluid stools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive flow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Diarrhea also set in, and my feet began to swell." This statement will show his perfect helplessness."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In summing up the benefits I have received from the reading of Science and Health, I can but refer to a condition of sickness dating back to the war (1862), when chronic and malignant diarrhea came near making an end of my material existence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally frequent intestinal evacuations with more or less fluid stools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive flow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Diarrhea also set in, and my feet began to swell." This statement will show his perfect helplessness."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In summing up the benefits I have received from the reading of Science and Health, I can but refer to a condition of sickness dating back to the war (1862), when chronic and malignant diarrhea came near making an end of my material existence."*

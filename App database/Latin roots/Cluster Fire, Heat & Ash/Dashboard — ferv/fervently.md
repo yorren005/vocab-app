@@ -5,15 +5,6 @@ status: unread
 ---
 # fervently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With passionate fervor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With passionate fervor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have saved them from the guilt of murdering their own flesh and blood thereby; and they have lived to thank me, and praise God.” “May this young man do the same!” said Angel fervently."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The old man was fervently praying; but when he saw young C. with the pail of provisions, he held up both hands and said, "Now I know that God heareth prayer."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She went back to bed and prayed fervently that the Lord would show her some way of escape, or take her that day to himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With passionate fervor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With passionate fervor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have saved them from the guilt of murdering their own flesh and blood thereby; and they have lived to thank me, and praise God.” “May this young man do the same!” said Angel fervently."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The old man was fervently praying; but when he saw young C. with the pail of provisions, he held up both hands and said, "Now I know that God heareth prayer."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She went back to bed and prayed fervently that the Lord would show her some way of escape, or take her that day to himself."*

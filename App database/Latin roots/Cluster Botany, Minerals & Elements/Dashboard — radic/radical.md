@@ -5,15 +5,6 @@ status: unread
 ---
 # radical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) two or more atoms bound together as a single unit and forming part of a molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atom or group of atoms with at least one unpaired electron; in the body it is usually an oxygen molecule that has lost an electron and will stabilize itself by stealing an electron from a nearby molecule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is the Radical of Nature to him."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Sherman is so minute, and resulted in such a radical change of the physical constitution, that it is necessary to relate it in full detail."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There was also at that time an immediate and radical change in the action of the kidneys, which had become a source of great trouble before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) two or more atoms bound together as a single unit and forming part of a molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atom or group of atoms with at least one unpaired electron; in the body it is usually an oxygen molecule that has lost an electron and will stabilize itself by stealing an electron from a nearby molecule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is the Radical of Nature to him."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Sherman is so minute, and resulted in such a radical change of the physical constitution, that it is necessary to relate it in full detail."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"There was also at that time an immediate and radical change in the action of the kidneys, which had become a source of great trouble before."*

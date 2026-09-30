@@ -5,15 +5,6 @@ status: unread
 ---
 # conscientiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being in accord with the dictates of conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being painstaking and careful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His father, with anxious conscientiousness, debated with himself as to whether it would be right for him thus to set one of his sons above the rest."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They appealed to that strain of anxious conscientiousness in him which he had inherited from his father, by urging that all these memorials were "irregular," and that therefore he had no right to consider them in coming to his decision."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"A man of such exquisite feeling, of such pure conscientiousness, of such self-denying life, must surely be an advocate of what is called absolute morality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being in accord with the dictates of conscience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being painstaking and careful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"His father, with anxious conscientiousness, debated with himself as to whether it would be right for him thus to set one of his sons above the rest."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"They appealed to that strain of anxious conscientiousness in him which he had inherited from his father, by urging that all these memorials were "irregular," and that therefore he had no right to consider them in coming to his decision."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"A man of such exquisite feeling, of such pure conscientiousness, of such self-denying life, must surely be an advocate of what is called absolute morality."*

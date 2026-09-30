@@ -5,14 +5,6 @@ status: unread
 ---
 # uncurtained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with curtains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not provided with curtains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"M. showed her husband in some ridiculous light, or mercilessly uncurtained his crude, narrow-minded opinions and ideas."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Creeping in its shadow I reached a point whence I could look straight through the uncurtained window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with curtains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not provided with curtains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"M. showed her husband in some ridiculous light, or mercilessly uncurtained his crude, narrow-minded opinions and ideas."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Creeping in its shadow I reached a point whence I could look straight through the uncurtained window."*

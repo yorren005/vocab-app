@@ -5,15 +5,6 @@ status: unread
 ---
 # sceptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who habitually doubts accepted beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who habitually doubts accepted beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Little sceptic, you _shall_ be convinced."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hence, Fullarton, the brave and young; Hence, Dempster’s zeal-inspired tongue; Hence, sweet, harmonious Beattie sung His ’Minstrel lays’; Or tore, with noble ardour stung, The sceptic’s bays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who habitually doubts accepted beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who habitually doubts accepted beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Little sceptic, you _shall_ be convinced."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hence, Fullarton, the brave and young; Hence, Dempster’s zeal-inspired tongue; Hence, sweet, harmonious Beattie sung His ’Minstrel lays’; Or tore, with noble ardour stung, The sceptic’s bays."*

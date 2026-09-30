@@ -5,20 +5,6 @@ status: unread
 ---
 # crown
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The highest part: such as
-> 2. **Nuance / Usage**: (by extension) any reward of victory or mark of honor
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"dagger, and thy precious rich crown for a pitiful bald crown."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Make claim and title to the crown of France."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Was re-united to the crown of France."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The highest part: such as
+> 2. **Nuance / Usage**: (by extension) any reward of victory or mark of honor
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"dagger, and thy precious rich crown for a pitiful bald crown."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Make claim and title to the crown of France."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Was re-united to the crown of France."*

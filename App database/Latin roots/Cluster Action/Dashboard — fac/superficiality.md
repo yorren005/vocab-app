@@ -5,15 +5,6 @@ status: unread
 ---
 # superficiality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of depth of knowledge or thought or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shallowness in terms of affecting only surface layers of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The education had intensified the cardinal faults of his character, impatience, superficiality, a great lack of sympathy for the more tender attachments and the more profound interests of men--essential unbelief in human grandeur."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Don José was not acquainted with the superficialities of etiquette, and by character and custom was opposed to the amenities and the white lies which are a part of the foundations of courtesy."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"At the mention of his work, beyond the merest superficialities, she lifted her hands and said in laughing tones, "Please, Martin, don't talk shop!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of depth of knowledge or thought or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shallowness in terms of affecting only surface layers of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The education had intensified the cardinal faults of his character, impatience, superficiality, a great lack of sympathy for the more tender attachments and the more profound interests of men--essential unbelief in human grandeur."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Don José was not acquainted with the superficialities of etiquette, and by character and custom was opposed to the amenities and the white lies which are a part of the foundations of courtesy."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"At the mention of his work, beyond the merest superficialities, she lifted her hands and said in laughing tones, "Please, Martin, don't talk shop!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # separative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of an accent in hebrew orthography) indicating that the word marked is separated to a greater or lesser degree rhythmically and grammatically from the word that follows it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to separate or divide into parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, separative designates (used of an accent in hebrew orthography) indicating that the word marked is separated to a greater or lesser degree rhythmically and grammatically from the word that follows it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of an accent in hebrew orthography) indicating that the word marked is separated to a greater or lesser degree rhythmically and grammatically from the word that follows it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to separate or divide into parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, separative designates (used of an accent in hebrew orthography) indicating that the word marked is separated to a greater or lesser degree rhythmically and grammatically from the word that follows it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hypertrophied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hypertrophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Some I recognised as a kind of hypertrophied raspberry and orange, but for the most part they were strange."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A hypertrophied conscience might admit this to be true in the case of any word or deed of Jesus that might be quoted, and yet maintain that we have not lost much."*
-> - 📜 **James Joyce (*Ulysses*):** *"Now I am defunct, the wall of the heart hypertrophied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hypertrophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Some I recognised as a kind of hypertrophied raspberry and orange, but for the most part they were strange."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A hypertrophied conscience might admit this to be true in the case of any word or deed of Jesus that might be quoted, and yet maintain that we have not lost much."*
+> - 📜 **James Joyce (*Ulysses*):** *"Now I am defunct, the wall of the heart hypertrophied."*

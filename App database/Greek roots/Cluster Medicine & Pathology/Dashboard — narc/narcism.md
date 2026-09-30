@@ -5,13 +5,6 @@ status: unread
 ---
 # narcism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptional interest in and admiration for yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exceptional interest in and admiration for yourself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcism designates an exceptional interest in and admiration for yourself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptional interest in and admiration for yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exceptional interest in and admiration for yourself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcism designates an exceptional interest in and admiration for yourself."*

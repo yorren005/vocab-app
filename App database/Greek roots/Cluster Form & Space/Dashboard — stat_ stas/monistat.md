@@ -5,13 +5,6 @@ status: unread
 ---
 # monistat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal agent usually administered in the form of a nitrate (trade name monistat).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal agent usually administered in the form of a nitrate (trade name monistat).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monistat designates an antifungal agent usually administered in the form of a nitrate (trade name monistat)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal agent usually administered in the form of a nitrate (trade name monistat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal agent usually administered in the form of a nitrate (trade name monistat).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monistat designates an antifungal agent usually administered in the form of a nitrate (trade name monistat)."*

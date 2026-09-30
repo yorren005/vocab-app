@@ -5,15 +5,6 @@ status: unread
 ---
 # cyclist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He eyed the horseshoe poster over the gate of college park: cyclist doubled up like a cod in a pot."*
-> - 📜 **James Joyce (*Ulysses*):** *"I who lost my way and contributed to the columns of the _Irish Cyclist_ the letter headed _In darkest Stepaside_."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Close beside it is the Tower Dean, so called from an ancient fortalice of the Home family which once defended it, and which stands beside a bridge held in just execration by all cyclists on the Great North Road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He eyed the horseshoe poster over the gate of college park: cyclist doubled up like a cod in a pot."*
+> - 📜 **James Joyce (*Ulysses*):** *"I who lost my way and contributed to the columns of the _Irish Cyclist_ the letter headed _In darkest Stepaside_."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Close beside it is the Tower Dean, so called from an ancient fortalice of the Home family which once defended it, and which stands beside a bridge held in just execration by all cyclists on the Great North Road."*

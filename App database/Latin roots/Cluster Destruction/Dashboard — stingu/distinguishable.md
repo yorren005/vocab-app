@@ -5,15 +5,6 @@ status: unread
 ---
 # distinguishable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived as different or distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `from') not alike; different in nature or quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ho—ho—Sergeant—ho—ho!” An expostulation followed, but it was indistinct; and it became lost amid a low peal of laughter, which was hardly distinguishable from the gurgle of the tiny whirlpools outside."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess instinctively thought it might be Marian, and when she came near enough to be distinguishable in the gloom, surely enough it was she."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The building was till recently a tannery, but the main features of it are still quite distinguishable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived as different or distinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `from') not alike; different in nature or quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ho—ho—Sergeant—ho—ho!” An expostulation followed, but it was indistinct; and it became lost amid a low peal of laughter, which was hardly distinguishable from the gurgle of the tiny whirlpools outside."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess instinctively thought it might be Marian, and when she came near enough to be distinguishable in the gloom, surely enough it was she."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The building was till recently a tannery, but the main features of it are still quite distinguishable."*

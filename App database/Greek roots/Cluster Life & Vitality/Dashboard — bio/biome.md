@@ -5,13 +5,6 @@ status: unread
 ---
 # biome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major ecological community type (such as tropical rainforest, grassland, or desert).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major ecological community type (such as tropical rainforest, grassland, or desert).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biome designates a major ecological community type (such as tropical rainforest, grassland, or desert)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major ecological community type (such as tropical rainforest, grassland, or desert).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major ecological community type (such as tropical rainforest, grassland, or desert).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biome designates a major ecological community type (such as tropical rainforest, grassland, or desert)."*

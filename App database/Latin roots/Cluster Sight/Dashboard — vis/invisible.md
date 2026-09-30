@@ -5,15 +5,6 @@ status: unread
 ---
 # invisible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or nearly impossible to see; imperceptible by the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not prominent or readily noticeable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were invisible, to catch the strong fellow by the leg. [_Orlando and Charles wrestle._] ROSALIND."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O dear Phoebe, If ever—as that ever may be near— You meet in some fresh cheek the power of fancy, Then shall you know the wounds invisible That love’s keen arrows make."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or nearly impossible to see; imperceptible by the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not prominent or readily noticeable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were invisible, to catch the strong fellow by the leg. [_Orlando and Charles wrestle._] ROSALIND."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O dear Phoebe, If ever—as that ever may be near— You meet in some fresh cheek the power of fancy, Then shall you know the wounds invisible That love’s keen arrows make."*

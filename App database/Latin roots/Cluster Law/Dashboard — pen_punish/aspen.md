@@ -5,15 +5,6 @@ status: unread
 ---
 # aspen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several trees of the genus populus having leaves on flattened stalks so that they flutter in the lightest wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several trees of the genus populus having leaves on flattened stalks so that they flutter in the lightest wind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, in very truth, do I, an ’twere an aspen leaf."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, had the monster seen those lily hands Tremble like aspen leaves upon a lute, And make the silken strings delight to kiss them, He would not then have touched them for his life."*
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify Mumbles, one day, and addressed several civil speeches to the interesting Mary Madeline, who blushed crimson beneath the glance of his _unresistible_ eyes, as she termed them, and trembled like an aspen, in her red silk gown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several trees of the genus populus having leaves on flattened stalks so that they flutter in the lightest wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several trees of the genus populus having leaves on flattened stalks so that they flutter in the lightest wind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, in very truth, do I, an ’twere an aspen leaf."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, had the monster seen those lily hands Tremble like aspen leaves upon a lute, And make the silken strings delight to kiss them, He would not then have touched them for his life."*
+> - 📜 **Effie Afton (*Eventide*):** *"Salsify Mumbles, one day, and addressed several civil speeches to the interesting Mary Madeline, who blushed crimson beneath the glance of his _unresistible_ eyes, as she termed them, and trembled like an aspen, in her red silk gown."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # demonstrative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pronoun that points out an intended referent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or marked by the open expression of emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt that if we had been at all demonstrative, he would have run away in a moment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with demonstrative cheerfulness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He held it but an instant, and in his fear of being too demonstrative, swerved to the opposite extreme, touching her fingers with the lightness of a small-hearted person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pronoun that points out an intended referent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or marked by the open expression of emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I felt that if we had been at all demonstrative, he would have run away in a moment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with demonstrative cheerfulness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He held it but an instant, and in his fear of being too demonstrative, swerved to the opposite extreme, touching her fingers with the lightness of a small-hearted person."*

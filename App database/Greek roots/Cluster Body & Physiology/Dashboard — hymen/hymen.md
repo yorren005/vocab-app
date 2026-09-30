@@ -5,15 +5,6 @@ status: unread
 ---
 # hymen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fold of mucous membrane partly closing the orifice of the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Greek god of marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Hymen, Rosalind in woman’s clothes, and Celia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hymen from heaven brought her, Yea, brought her hither, That thou mightst join her hand with his, Whose heart within his bosom is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG Wedding is great Juno’s crown, O blessed bond of board and bed. ’Tis Hymen peoples every town, High wedlock then be honoured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fold of mucous membrane partly closing the orifice of the vagina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Greek god of marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Hymen, Rosalind in woman’s clothes, and Celia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hymen from heaven brought her, Yea, brought her hither, That thou mightst join her hand with his, Whose heart within his bosom is."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG Wedding is great Juno’s crown, O blessed bond of board and bed. ’Tis Hymen peoples every town, High wedlock then be honoured."*

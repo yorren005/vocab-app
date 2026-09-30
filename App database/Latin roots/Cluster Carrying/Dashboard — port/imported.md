@@ -5,15 +5,6 @@ status: unread
 ---
 # imported
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring in from abroad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer (electronic data) into a database or document.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man was riding From Alcibiades to Timon’s cave With letters of entreaty, which imported His fellowship i’ th’ cause against your city, In part for his sake moved."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, this is a wine that was imported by the captain, we will not say how many years ago."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But behold, the absorbing scene had been imported hither."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring in from abroad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer (electronic data) into a database or document.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man was riding From Alcibiades to Timon’s cave With letters of entreaty, which imported His fellowship i’ th’ cause against your city, In part for his sake moved."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, this is a wine that was imported by the captain, we will not say how many years ago."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But behold, the absorbing scene had been imported hither."*

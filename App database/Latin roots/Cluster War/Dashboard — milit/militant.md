@@ -5,15 +5,6 @@ status: unread
 ---
 # militant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant reformer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to warfare or hard-line policies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, by temperament and training a member of the Church Militant, clearly felt a trifle disappointed, but he had little petty vanity and accepted Val's amendment without a murmur."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, Evelina, let me say in my own person, that I thoroughly approve of your doing just as you plan." And as she uttered this heresy, she looked so straight and militant and altogether commanding, that both Cousin Martha and Sallie quailed."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Dear," she said, in her rich, throaty, strong voice as she looked pleadingly at the militant midget facing her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant reformer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to warfare or hard-line policies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, by temperament and training a member of the Church Militant, clearly felt a trifle disappointed, but he had little petty vanity and accepted Val's amendment without a murmur."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, Evelina, let me say in my own person, that I thoroughly approve of your doing just as you plan." And as she uttered this heresy, she looked so straight and militant and altogether commanding, that both Cousin Martha and Sallie quailed."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Dear," she said, in her rich, throaty, strong voice as she looked pleadingly at the militant midget facing her."*

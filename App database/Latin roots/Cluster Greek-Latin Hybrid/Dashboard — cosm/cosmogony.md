@@ -5,13 +5,6 @@ status: unread
 ---
 # cosmogony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Indeed in the Phrygian cosmogony an almond figured as the father of all things, perhaps because its delicate lilac blossom is one of the first heralds of the spring, appearing on the bare boughs before the leaves have opened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of astrophysics that studies the origin and evolution and structure of the universe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Indeed in the Phrygian cosmogony an almond figured as the father of all things, perhaps because its delicate lilac blossom is one of the first heralds of the spring, appearing on the bare boughs before the leaves have opened."*

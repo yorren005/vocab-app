@@ -5,15 +5,6 @@ status: unread
 ---
 # monachism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: monastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: monastic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the town and immediate neighbourhood are some remains of religious houses, under various denominations; for the situation of Chepstow, presenting many advantages for commerce, was not less favourable for monachism."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Monachism, _note_, page 70. [46] De Orig. et Progr."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Monachism_, iii. 161. _County Hist._ [365] The town is incorporated and governed by a portreeve who has concurrent jurisdiction with the county magistrates, a recorder, two bailiffs, and burgesses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: monastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: monastic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the town and immediate neighbourhood are some remains of religious houses, under various denominations; for the situation of Chepstow, presenting many advantages for commerce, was not less favourable for monachism."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Monachism, _note_, page 70. [46] De Orig. et Progr."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Monachism_, iii. 161. _County Hist._ [365] The town is incorporated and governed by a portreeve who has concurrent jurisdiction with the county magistrates, a recorder, two bailiffs, and burgesses."*

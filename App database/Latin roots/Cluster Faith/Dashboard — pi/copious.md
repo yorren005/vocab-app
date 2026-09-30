@@ -5,15 +5,6 @@ status: unread
 ---
 # copious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in number or quantity (especially of discourse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The next morning a copious rain fell again, and the fields that had been left dry were well watered_." THE HUSHED TEMPEST."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"In Shelley's case these are copious."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Dinner over, we produced a bundle of pens, a copious supply of ink, and a goodly show of writing and blotting paper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in number or quantity (especially of discourse).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The next morning a copious rain fell again, and the fields that had been left dry were well watered_." THE HUSHED TEMPEST."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"In Shelley's case these are copious."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Dinner over, we produced a bundle of pens, a copious supply of ink, and a goodly show of writing and blotting paper."*

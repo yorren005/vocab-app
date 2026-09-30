@@ -5,14 +5,6 @@ status: unread
 ---
 # effluvium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foul-smelling outflow or vapor (especially a gaseous waste).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foul-smelling outflow or vapor (especially a gaseous waste).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It was no wonder that the effluvium drove the minister from the room."*
-> - 📜 **James Joyce (*Ulysses*):** *"He springs off into vacuum.)_ FLORRY: _(Sinking into torpor, crossing herself secretly.)_ The end of the world! _(A female tepid effluvium leaks out from her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foul-smelling outflow or vapor (especially a gaseous waste).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foul-smelling outflow or vapor (especially a gaseous waste).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It was no wonder that the effluvium drove the minister from the room."*
+> - 📜 **James Joyce (*Ulysses*):** *"He springs off into vacuum.)_ FLORRY: _(Sinking into torpor, crossing herself secretly.)_ The end of the world! _(A female tepid effluvium leaks out from her."*

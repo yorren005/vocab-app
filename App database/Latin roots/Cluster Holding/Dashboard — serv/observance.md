@@ -5,15 +5,6 @@ status: unread
 ---
 # observance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of observing; taking a patient look.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal event performed on a special occasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ever shall With true observance seek to eke out that Wherein toward me my homely stars have fail’d To equal my great fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By what observance, I pray you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But take a taste of my finding him, and relish it with good observance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of observing; taking a patient look.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal event performed on a special occasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ever shall With true observance seek to eke out that Wherein toward me my homely stars have fail’d To equal my great fortune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By what observance, I pray you?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But take a taste of my finding him, and relish it with good observance."*
